@@ -24,6 +24,34 @@
       "licenseFile": "d3.LICENSE",
       "sha256": "7e720f063bff964f5322341ac69375bbfb8c3b7c5bb8a5472f46ab851800195b",
       "notes": "Versioned browser bundle from cdnjs mirror. License fetched from upstream tag v7.9.0. Loaded locally; no CDN runtime dependency."
+    },
+    {
+      "file": "countries.geojson",
+      "name": "Natural Earth 1:110m modern country outlines",
+      "sourceRepository": "https://github.com/nvkelso/natural-earth-vector",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19",
+      "sourcePath": "geojson/ne_110m_admin_0_countries.geojson",
+      "sourceURL": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/ca96624a56bd078437bca8184e78163e5039ad19/geojson/ne_110m_admin_0_countries.geojson",
+      "sourceSha256": "6866c877d39cba9c357620878839b336d569f8c662d3cfab4cb1dbe2d39c977f",
+      "license": "Public domain",
+      "licenseFile": "land.LICENSE.md",
+      "sha256": "c37f55f8114334844d0b19155ede55f3dca1d69bc4a7a775a83c5dd0c9792eaa",
+      "featureCount": 177,
+      "notes": "Present-day reference outlines, not historical sovereignty; intended as an optional off-by-default toggle. Properties reduced; Polygon geometry normalized to MultiPolygon; one zero-area component removed; D3 winding checked."
+    },
+    {
+      "file": "rivers.geojson",
+      "name": "Natural Earth 1:110m major rivers and lake centerlines",
+      "sourceRepository": "https://github.com/nvkelso/natural-earth-vector",
+      "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19",
+      "sourcePath": "geojson/ne_110m_rivers_lake_centerlines.geojson",
+      "sourceURL": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/ca96624a56bd078437bca8184e78163e5039ad19/geojson/ne_110m_rivers_lake_centerlines.geojson",
+      "sourceSha256": "55aa4497405afc07cdc931b7fbe062c4d6693ba2a550c0d24899953f5d507c8d",
+      "license": "Public domain",
+      "licenseFile": "land.LICENSE.md",
+      "sha256": "691da46376df8a2f56e81f99929801ab1b298efabffa37bde06615e19570a555",
+      "featureCount": 13,
+      "notes": "Present-day major river courses for orientation; not a reconstruction of historical channels. Properties reduced; source line geometry retained."
     }
   ]
 }

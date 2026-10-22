@@ -1,5 +1,7 @@
 # Historical boundary data: first-release decision
 
+> **Historical status — v1 review.** This document records the first prototype’s decision to omit territorial polygons. V2 now ships a selected, separately reviewed set of dated territories. Current sources, exclusions, licenses and review limits are documented in [MAP_METHODOLOGY.md](MAP_METHODOLOGY.md); the first-release decision below is retained as project history.
+
 Reviewed on 2026-10-22 (UTC). This is a bounded source/data inspection, not a validation of the full world-history dataset.
 
 ## Decision

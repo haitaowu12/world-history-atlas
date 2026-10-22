@@ -1,3 +1,5 @@
+> Historical review of the first edition (62 entries). The expanded edition is documented in [HISTORY_RESEARCH.md](HISTORY_RESEARCH.md), [PEOPLE_ROUTES_RESEARCH.md](PEOPLE_ROUTES_RESEARCH.md), and [MAP_METHODOLOGY.md](MAP_METHODOLOGY.md).
+
 # Content and chronology review
 
 Reviewed 22 October 2026. This is a bounded editorial review of the first curated edition, not a claim that the dataset is comprehensive or that every archaeological interpretation is settled.

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "course-cities-landscapes",
+    "title": {
+      "en": "Cities and living landscapes",
+      "zh": "城市与生活景观"
+    },
+    "summary": {
+      "en": "Compare ways communities organised food, water, settlement, and collective work. Begin with geography, then ask what material remains can and cannot tell us.",
+      "zh": "比较社区组织食物、水、聚落与集体劳动的方式。从地理入手，再思考物质遗存能与不能告诉我们的内容。"
+    },
+    "recordIds": [
+      "kuk",
+      "budj-bim",
+      "uruk-writing",
+      "dholavira",
+      "cahokia"
+    ],
+    "routeIds": [],
+    "questions": [
+      {
+        "en": "Which features depend on the local environment, and which reflect choices about organising people?",
+        "zh": "哪些特征取决于当地环境，哪些反映组织人群的选择？"
+      },
+      {
+        "en": "What evidence would you need before calling one settlement more advanced than another?",
+        "zh": "在宣称一个聚落比另一个更先进之前，需要什么证据？"
+      }
+    ],
+    "activity": {
+      "en": "Choose two places on different continents. Compare water, food production, and the limits of surviving evidence.",
+      "zh": "选择不同大陆的两个地点，比较水、食物生产与留存证据的局限。"
+    },
+    "kind": "reading-course",
+    "estimatedMinutes": 15,
+    "evidencePolicy": "Historical claims are supported by the linked atlas records and their source lists. Questions and activities are editorial teaching prompts, not factual assertions or graded quizzes."
+  },
+  {
+    "id": "course-legitimacy",
+    "title": {
+      "en": "How rulers make authority visible",
+      "zh": "统治者如何展现权威"
+    },
+    "summary": {
+      "en": "Use monuments, inscriptions, and royal journeys to investigate claims to rule. Separate a ruler’s public message from evidence about everyday government.",
+      "zh": "通过纪念建筑、铭文与王室旅程研究统治主张。区分统治者的公开信息与日常治理的证据。"
+    },
+    "recordIds": [
+      "person-hatshepsut",
+      "person-ashoka",
+      "qin-mausoleum",
+      "person-mansa-musa",
+      "ottoman-empire"
+    ],
+    "routeIds": [],
+    "questions": [
+      {
+        "en": "Who was meant to see or hear each claim to authority?",
+        "zh": "每一种权威主张希望由谁看见或听见？"
+      },
+      {
+        "en": "What would remain unknown if a royal inscription were your only source?",
+        "zh": "如果王室铭文是唯一史料，哪些问题仍无法回答？"
+      }
+    ],
+    "activity": {
+      "en": "Compare one monument with one written claim. Explain how medium and audience change the message.",
+      "zh": "比较一座纪念建筑与一份文字主张，解释媒介和受众如何改变信息。"
+    },
+    "kind": "reading-course",
+    "estimatedMinutes": 15,
+    "evidencePolicy": "Historical claims are supported by the linked atlas records and their source lists. Questions and activities are editorial teaching prompts, not factual assertions or graded quizzes."
+  },
+  {
+    "id": "course-knowledge-languages",
+    "title": {
+      "en": "Knowledge across languages",
+      "zh": "跨语言的知识"
+    },
+    "summary": {
+      "en": "Follow teachers, translators, and texts through different intellectual settings. Ask how knowledge changes when readers use it for new questions.",
+      "zh": "追踪教师、译者与文本经过不同知识环境的过程，思考读者用知识回答新问题时，它如何发生变化。"
+    },
+    "recordIds": [
+      "person-hypatia",
+      "nalanda",
+      "person-xuanzang",
+      "person-al-khwarizmi",
+      "person-ibn-sina"
+    ],
+    "routeIds": [
+      "route-silk-roads"
+    ],
+    "questions": [
+      {
+        "en": "Which institutions or patrons made study and translation possible?",
+        "zh": "哪些制度或赞助者使研究与翻译成为可能？"
+      },
+      {
+        "en": "How is the evidence for a surviving book different from evidence for a later legend?",
+        "zh": "留存书籍的证据与后世传说的证据有何不同？"
+      }
+    ],
+    "activity": {
+      "en": "Pair a person with a place of learning. Use the source links to identify one well-supported fact and one explicit uncertainty.",
+      "zh": "将人物与学习地点配对，通过来源链接找出一个证据充分的事实和一个明确的不确定点。"
+    },
+    "kind": "reading-course",
+    "estimatedMinutes": 15,
+    "evidencePolicy": "Historical claims are supported by the linked atlas records and their source lists. Questions and activities are editorial teaching prompts, not factual assertions or graded quizzes."
+  },
+  {
+    "id": "course-connected-seas",
+    "title": {
+      "en": "Seas as inhabited worlds",
+      "zh": "作为人类生活世界的海洋"
+    },
+    "summary": {
+      "en": "Compare port networks and individual voyages. Look for the expertise of sailors, interpreters, local communities, and inland producers.",
+      "zh": "比较港口网络与个人航程，寻找水手、翻译、地方社区及内陆生产者的知识与技能。"
+    },
+    "recordIds": [
+      "quanzhou",
+      "kilwa",
+      "melaka",
+      "person-zheng-he",
+      "taputapuatea",
+      "person-tupaia"
+    ],
+    "routeIds": [
+      "route-indian-ocean",
+      "route-zheng-he",
+      "route-tupaia"
+    ],
+    "questions": [
+      {
+        "en": "Which connections can be dated to one journey, and which summarise centuries?",
+        "zh": "哪些联系能定位到一次旅程，哪些则汇集数百年？"
+      },
+      {
+        "en": "Whose knowledge becomes less visible when an expedition is named after one commander?",
+        "zh": "当探险以一名指挥者命名时，谁的知识更容易被忽略？"
+      }
+    ],
+    "activity": {
+      "en": "Compare a network layer with a journey layer. Explain why their lines make different historical claims.",
+      "zh": "比较一个网络图层与一个旅程图层，解释它们的连线为何表达不同的历史主张。"
+    },
+    "kind": "reading-course",
+    "estimatedMinutes": 15,
+    "evidencePolicy": "Historical claims are supported by the linked atlas records and their source lists. Questions and activities are editorial teaching prompts, not factual assertions or graded quizzes."
+  },
+  {
+    "id": "course-writing-authority",
+    "title": {
+      "en": "Who gets to write and be heard?",
+      "zh": "谁能书写并被听见？"
+    },
+    "summary": {
+      "en": "Read writers and language-makers in several societies. Compare the opportunities and constraints created by courts, religious institutions, colonial systems, and communities.",
+      "zh": "阅读不同社会的作家与文字创造者，比较宫廷、宗教机构、殖民制度和社区提供的机会与限制。"
+    },
+    "recordIds": [
+      "person-murasaki",
+      "person-sor-juana",
+      "person-sequoyah",
+      "person-jose-rizal",
+      "person-kartini"
+    ],
+    "routeIds": [],
+    "questions": [
+      {
+        "en": "How did access to a language or writing system affect each person’s audience?",
+        "zh": "掌握一种语言或文字系统如何影响各人的受众？"
+      },
+      {
+        "en": "What changes when private correspondence later becomes a public historical source?",
+        "zh": "私人通信后来成为公开史料时，发生了什么变化？"
+      }
+    ],
+    "activity": {
+      "en": "Choose two authors and compare audience, genre, and the institutions that preserved their work.",
+      "zh": "选择两位作者，比较受众、体裁及保存其作品的机构。"
+    },
+    "kind": "reading-course",
+    "estimatedMinutes": 15,
+    "evidencePolicy": "Historical claims are supported by the linked atlas records and their source lists. Questions and activities are editorial teaching prompts, not factual assertions or graded quizzes."
+  },
+  {
+    "id": "course-freedom",
+    "title": {
+      "en": "Freedom as a continuing struggle",
+      "zh": "作为持续斗争的自由"
+    },
+    "summary": {
+      "en": "Compare resistance, emancipation, and political rights without assuming they describe the same process. Keep collective organisation and coercion in view.",
+      "zh": "比较抵抗、解放与政治权利，不预设它们是相同的过程，同时关注集体组织与强制权力。"
+    },
+    "recordIds": [
+      "person-toussaint",
+      "person-harriet-tubman",
+      "person-gandhi",
+      "person-nelson-mandela",
+      "south-africa-election"
+    ],
+    "routeIds": [
+      "route-forced-atlantic",
+      "route-salt-march"
+    ],
+    "questions": [
+      {
+        "en": "Which rights changed, and which inequalities could remain after a legal or political victory?",
+        "zh": "哪些权利发生变化，法律或政治胜利后哪些不平等仍可能存在？"
+      },
+      {
+        "en": "How does including other organisers change a story centred on one famous leader?",
+        "zh": "纳入其他组织者，如何改变以一位著名领袖为中心的故事？"
+      }
+    ],
+    "activity": {
+      "en": "Identify one tension within a freedom movement using the linked record and its sources. Explain it without reducing the participants to heroes or villains.",
+      "zh": "使用关联条目及来源，找出一个自由运动内部的张力，并在不把参与者简化为英雄或反派的情况下解释它。"
+    },
+    "kind": "reading-course",
+    "estimatedMinutes": 15,
+    "evidencePolicy": "Historical claims are supported by the linked atlas records and their source lists. Questions and activities are editorial teaching prompts, not factual assertions or graded quizzes."
+  },
+  {
+    "id": "course-science-evidence",
+    "title": {
+      "en": "From observations to arguments",
+      "zh": "从观察到论证"
+    },
+    "summary": {
+      "en": "Examine how research depends on comparison, instruments, collaborators, and time. Distinguish a dated publication from the longer process of developing an idea.",
+      "zh": "研究科研如何依靠比较、仪器、合作者与时间。区分有明确日期的出版物与思想形成的长期过程。"
+    },
+    "recordIds": [
+      "person-hypatia",
+      "person-al-khwarizmi",
+      "person-darwin",
+      "person-marie-curie",
+      "world-wide-web"
+    ],
+    "routeIds": [
+      "route-beagle"
+    ],
+    "questions": [
+      {
+        "en": "Which claims are supported by preserved texts or instruments, and which are later interpretations?",
+        "zh": "哪些主张由留存文本或仪器支持，哪些属于后来的解释？"
+      },
+      {
+        "en": "Why can a map of visits fail to explain how an idea developed?",
+        "zh": "为什么访问地点的地图不足以解释思想如何形成？"
+      }
+    ],
+    "activity": {
+      "en": "For one figure, separate observations, interpretation, publication, and later reception into four short notes. Mark anything the record does not establish.",
+      "zh": "为一位人物分别写下观察、解释、发表与后世接受四则短注，标明条目尚未证明的内容。"
+    },
+    "kind": "reading-course",
+    "estimatedMinutes": 15,
+    "evidencePolicy": "Historical claims are supported by the linked atlas records and their source lists. Questions and activities are editorial teaching prompts, not factual assertions or graded quizzes."
+  },
+  {
+    "id": "course-collective-change",
+    "title": {
+      "en": "Making collective change",
+      "zh": "促成集体改变"
+    },
+    "summary": {
+      "en": "Move between local organisation and national or international politics. Compare petitions, civic groups, environmental work, and political meetings.",
+      "zh": "在地方组织与国家、国际政治之间切换，比较请愿、公民团体、环境行动和政治会议。"
+    },
+    "recordIds": [
+      "person-kate-sheppard",
+      "nz-womens-suffrage",
+      "bandung-conference",
+      "ghana-independence",
+      "person-wangari-maathai"
+    ],
+    "routeIds": [],
+    "questions": [
+      {
+        "en": "How did local participation become visible to decision-makers?",
+        "zh": "地方参与如何变得可被决策者看见？"
+      },
+      {
+        "en": "What does a single event date leave out about preparation and consequences?",
+        "zh": "单一事件日期忽略了哪些准备过程与后续影响？"
+      }
+    ],
+    "activity": {
+      "en": "Choose one event and one biography. Describe how their time scales differ and what each helps you understand.",
+      "zh": "选择一个事件与一篇传记，说明两者的时间尺度有何不同，以及各自帮助你理解什么。"
+    },
+    "kind": "reading-course",
+    "estimatedMinutes": 15,
+    "evidencePolicy": "Historical claims are supported by the linked atlas records and their source lists. Questions and activities are editorial teaching prompts, not factual assertions or graded quizzes."
+  }
+]

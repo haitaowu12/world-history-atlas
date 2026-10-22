@@ -1,0 +1,964 @@
+{
+  "version": 1,
+  "license": "Multiple independent datasets; see layers and accompanying notices",
+  "sourceRepository": "https://github.com/aourednik/historical-basemaps",
+  "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+  "method": {
+    "en": "Approximate source geometry for this dated snapshot. The polity’s chronology and broad location were checked; individual boundary lines were not independently reconstructed. Uncolored land is outside this selected layer, not outside history.",
+    "zh": "这是对应快照年份的概略来源图形。已核查政权的存在时期与大致位置，尚未逐条独立重建边界。未着色地区仅表示未纳入所选图层，不表示没有历史。"
+  },
+  "snapshots": [
+    {
+      "year": -500,
+      "label": {
+        "en": "500 BCE",
+        "zh": "公元前500年"
+      },
+      "title": {
+        "en": "Mediterranean and Persian powers",
+        "zh": "地中海与波斯诸强"
+      },
+      "featureIds": [
+        "-500-achaemenid",
+        "-500-carthage",
+        "-500-kush"
+      ],
+      "featureCount": 3,
+      "file": "world_bc500.geojson",
+      "sourceSha256": "f72bc06ca45a9f680f20ef6007aaccd13a929cd1b632bd0fb41f161cb51ba3f6"
+    },
+    {
+      "year": -323,
+      "label": {
+        "en": "323 BCE",
+        "zh": "公元前323年"
+      },
+      "title": {
+        "en": "Alexander’s conquests",
+        "zh": "亚历山大的征服"
+      },
+      "featureIds": [
+        "-323-alexander",
+        "-323-carthage",
+        "-323-kush"
+      ],
+      "featureCount": 3,
+      "file": "world_bc323.geojson",
+      "sourceSha256": "3e90c33ce668d9559b52b501a8a8d5607e4cc86c4131dac30ae9aa4d6e9a7616"
+    },
+    {
+      "year": -1,
+      "label": {
+        "en": "1 BCE",
+        "zh": "公元前1年"
+      },
+      "title": {
+        "en": "Rome, Parthia and Han",
+        "zh": "罗马、安息与汉朝"
+      },
+      "featureIds": [
+        "-1-roman",
+        "-1-parthian",
+        "-1-han",
+        "-1-kush"
+      ],
+      "featureCount": 4,
+      "file": "world_bc1.geojson",
+      "sourceSha256": "830fac0104ebafff7b576333cd5ab4a9bf4b6f732ddf828cec47797cf65047cb"
+    },
+    {
+      "year": 200,
+      "label": {
+        "en": "200 CE",
+        "zh": "公元200年"
+      },
+      "title": {
+        "en": "Rome, Parthia and the late Han",
+        "zh": "罗马、安息与汉末"
+      },
+      "featureIds": [
+        "200-parthian",
+        "200-han",
+        "200-kush",
+        "200-roman"
+      ],
+      "featureCount": 4,
+      "file": "world_200.geojson",
+      "sourceSha256": "ef811868efee04b5ae7cfe23538091f1cfa75534ecfad14d754d9cc690b2d2c7"
+    },
+    {
+      "year": 600,
+      "label": {
+        "en": "600 CE",
+        "zh": "公元600年"
+      },
+      "title": {
+        "en": "Late antiquity and Sui reunification",
+        "zh": "古代晚期与隋朝统一"
+      },
+      "featureIds": [
+        "600-sasanian",
+        "600-byzantine",
+        "600-frankish",
+        "600-sui"
+      ],
+      "featureCount": 4,
+      "file": "world_600.geojson",
+      "sourceSha256": "e8d285de5d4257c55158979e866191d13464abc74e3082fb5f2065b357beec7a"
+    },
+    {
+      "year": 800,
+      "label": {
+        "en": "800 CE",
+        "zh": "公元800年"
+      },
+      "title": {
+        "en": "Courts across Eurasia",
+        "zh": "欧亚大陆的诸王朝"
+      },
+      "featureIds": [
+        "800-abbasid",
+        "800-carolingian",
+        "800-tang",
+        "800-byzantine",
+        "800-ghana"
+      ],
+      "featureCount": 5,
+      "file": "world_800.geojson",
+      "sourceSha256": "9d046cdc4662109c3f803ae46e2c8cba941aa092ec86eccc7823e6cf1554920c"
+    },
+    {
+      "year": 1000,
+      "label": {
+        "en": "1000 CE",
+        "zh": "公元1000年"
+      },
+      "title": {
+        "en": "A world of regional powers",
+        "zh": "区域强国并立的世界"
+      },
+      "featureIds": [
+        "1000-byzantine",
+        "1000-fatimid",
+        "1000-song",
+        "1000-chola",
+        "1000-ghaznavid",
+        "1000-khmer",
+        "1000-ghana",
+        "1000-hre",
+        "1000-france",
+        "1000-england"
+      ],
+      "featureCount": 10,
+      "file": "world_1000.geojson",
+      "sourceSha256": "2140776fd7888c1d4a30e8f6debdaf56192cdf49587f3b6bb67841930ca82d29"
+    },
+    {
+      "year": 1200,
+      "label": {
+        "en": "1200 CE",
+        "zh": "公元1200年"
+      },
+      "title": {
+        "en": "Before the Mongol conquests",
+        "zh": "蒙古征服之前"
+      },
+      "featureIds": [
+        "1200-almohad",
+        "1200-khmer",
+        "1200-hre",
+        "1200-france",
+        "1200-angevin",
+        "1200-southern-song",
+        "1200-jin-jurchen"
+      ],
+      "featureCount": 7,
+      "file": "world_1200.geojson",
+      "sourceSha256": "2d6913ecedb38e269e41d249c87874d81e3e8d7351754821f57e627442d91525"
+    },
+    {
+      "year": 1300,
+      "label": {
+        "en": "1300 CE",
+        "zh": "公元1300年"
+      },
+      "title": {
+        "en": "Mongol successor realms",
+        "zh": "蒙古诸汗国时代"
+      },
+      "featureIds": [
+        "1300-byzantine",
+        "1300-khmer",
+        "1300-mali",
+        "1300-mamluk",
+        "1300-ilkhanate",
+        "1300-yuan",
+        "1300-hre",
+        "1300-france",
+        "1300-england"
+      ],
+      "featureCount": 9,
+      "file": "world_1300.geojson",
+      "sourceSha256": "a27985e60d936611d7933f0c30f1b52c36ef4a17225dfac25fb96abe40fa496f"
+    },
+    {
+      "year": 1400,
+      "label": {
+        "en": "1400 CE",
+        "zh": "公元1400年"
+      },
+      "title": {
+        "en": "Timur and his contemporaries",
+        "zh": "帖木儿与同时代诸国"
+      },
+      "featureIds": [
+        "1400-ottoman",
+        "1400-mamluk",
+        "1400-timurid",
+        "1400-mali",
+        "1400-khmer",
+        "1400-hre",
+        "1400-france",
+        "1400-england"
+      ],
+      "featureCount": 8,
+      "file": "world_1400.geojson",
+      "sourceSha256": "c6b0efcb42d9520a1a724f981373296e84ea2c0a0527de7a06f8f9e2465eb6ec"
+    },
+    {
+      "year": 1500,
+      "label": {
+        "en": "1500 CE",
+        "zh": "公元1500年"
+      },
+      "title": {
+        "en": "Empires on several continents",
+        "zh": "多大陆的帝国"
+      },
+      "featureIds": [
+        "1500-ottoman",
+        "1500-mamluk",
+        "1500-songhai",
+        "1500-kongo",
+        "1500-ming",
+        "1500-aztec",
+        "1500-inca"
+      ],
+      "featureCount": 7,
+      "file": "world_1500.geojson",
+      "sourceSha256": "d01ffc9b80629787f13d2b1c2f881f005bc0164433548e30f5c058ddee0bfc7b"
+    },
+    {
+      "year": 1600,
+      "label": {
+        "en": "1600 CE",
+        "zh": "公元1600年"
+      },
+      "title": {
+        "en": "Early modern empires",
+        "zh": "近世帝国"
+      },
+      "featureIds": [
+        "1600-ottoman",
+        "1600-safavid",
+        "1600-mughal",
+        "1600-hre",
+        "1600-kongo",
+        "1600-ming"
+      ],
+      "featureCount": 6,
+      "file": "world_1600.geojson",
+      "sourceSha256": "7285c07eeedfda9048de5354ea1744d327b07614085e9696c5802bb54c86849c"
+    },
+    {
+      "year": 1800,
+      "label": {
+        "en": "1800 CE",
+        "zh": "公元1800年"
+      },
+      "title": {
+        "en": "Empires and colonial claims",
+        "zh": "帝国与殖民主张"
+      },
+      "featureIds": [
+        "1800-ottoman",
+        "1800-qing",
+        "1800-newspain",
+        "1800-newgranada",
+        "1800-peru-colonial",
+        "1800-rioplata"
+      ],
+      "featureCount": 6,
+      "file": "world_1800.geojson",
+      "sourceSha256": "51fcb6b1f1c361956a3fc24a9c646844ff88754842aa113780428fb4abcd5f2c"
+    },
+    {
+      "year": 1900,
+      "label": {
+        "en": "1900 CE",
+        "zh": "公元1900年"
+      },
+      "title": {
+        "en": "An imperial world",
+        "zh": "帝国时代的世界"
+      },
+      "featureIds": [
+        "1900-russian",
+        "1900-qing",
+        "1900-british-india",
+        "1900-usa",
+        "1900-germany",
+        "1900-austriahungary",
+        "1900-france-modern",
+        "1900-uk",
+        "1900-japan",
+        "1900-argentina",
+        "1900-mexico",
+        "1900-ethiopia"
+      ],
+      "featureCount": 12,
+      "file": "world_1900.geojson",
+      "sourceSha256": "9c9221c851eaba4948e11b2a0b078e89239231f8c74df0dc321750ae234f10b5"
+    },
+    {
+      "year": 1960,
+      "label": {
+        "en": "1960 CE",
+        "zh": "公元1960年"
+      },
+      "title": {
+        "en": "The Cold War and independence",
+        "zh": "冷战与独立浪潮"
+      },
+      "featureIds": [
+        "1960-ussr",
+        "1960-usa",
+        "1960-france-modern",
+        "1960-uk",
+        "1960-westgermany",
+        "1960-eastgermany",
+        "1960-india",
+        "1960-pakistan",
+        "1960-brazil",
+        "1960-mexico",
+        "1960-argentina",
+        "1960-ghana-modern",
+        "1960-guinea",
+        "1960-australia",
+        "1960-newzealand",
+        "1960-japan",
+        "1960-turkey",
+        "1960-ethiopia"
+      ],
+      "featureCount": 18,
+      "file": "world_1960.geojson",
+      "sourceSha256": "6067386755f8fc120a4fca44f198952a18da89cd062aa8013d5a0d08cbad8988"
+    }
+  ],
+  "exclusions": [
+    {
+      "year": -3000,
+      "name": "Egypt",
+      "reason": "Upstream polygon extends far into Nubia; the same outline recurs at 2000 BCE. Early dynastic political control was not established for that footprint."
+    },
+    {
+      "year": -1500,
+      "name": "Kingdom of David and Solomon",
+      "reason": "Chronologically incompatible with the snapshot, already documented in the first-release audit."
+    },
+    {
+      "year": 200,
+      "name": "Roman Empire",
+      "reason": "Source includes an eastern extension toward southern Mesopotamia characteristic of disputed/temporary conquests; omitted pending a dated frontier reconstruction."
+    },
+    {
+      "year": 600,
+      "name": "Empire of Ghana",
+      "reason": "Early chronology and source footprint not secure enough for inclusion."
+    },
+    {
+      "year": 1000,
+      "name": "Mali",
+      "reason": "Mali Empire chronology begins in the thirteenth century; this small earlier region is not treated as the empire."
+    },
+    {
+      "year": 1200,
+      "name": "Fatimid Caliphate",
+      "reason": "Fatimid rule ended in 1171."
+    },
+    {
+      "year": 1200,
+      "name": "Ghaznavid Emirate",
+      "reason": "Ghaznavid rule ended in 1186."
+    },
+    {
+      "year": 1200,
+      "name": "Mongol Empire",
+      "reason": "The Mongol imperial foundation is conventionally dated 1206; cannot be shown as a unified empire in 1200."
+    },
+    {
+      "year": 1200,
+      "name": "Song Empire",
+      "reason": "Geometry repeats the 1000 Northern Song footprint and fails to distinguish Southern Song from Jin."
+    },
+    {
+      "year": 1200,
+      "name": "Sultanate of Delhi",
+      "reason": "The sultanate was founded in 1206; the 1200 label is premature."
+    },
+    {
+      "year": 1200,
+      "name": "Chola Empire",
+      "reason": "Source repeats the 1000 outline, including Sri Lankan territory not supported for 1200."
+    },
+    {
+      "year": 1200,
+      "name": "Byzantine Empire",
+      "reason": "Source retains extensive eastern/central Anatolia and southern Italian territory inconsistent with the twelfth-century losses; omitted pending a better dated source."
+    },
+    {
+      "year": 1300,
+      "name": "Chola Empire",
+      "reason": "The major Chola imperial period ended before this snapshot."
+    },
+    {
+      "year": 1400,
+      "name": "Great Khanate",
+      "reason": "Source repeats the Yuan-era outline after the establishment of the Ming in 1368."
+    },
+    {
+      "year": 1400,
+      "name": "Shogun Japan (Kamakura)",
+      "reason": "Kamakura rule ended in 1333; do not cosmetically relabel an unreviewed footprint."
+    },
+    {
+      "year": 1600,
+      "name": "Inca Empire",
+      "reason": "The source preserves a preconquest footprint long after the Spanish conquest and the end of the Vilcabamba state."
+    },
+    {
+      "year": 1600,
+      "name": "Songhai",
+      "reason": "The source does not adequately represent the consequences of the 1591 Moroccan invasion."
+    },
+    {
+      "year": 1600,
+      "name": "Ming Chinese Empire",
+      "reason": "Source extends much farther into northeast Asia than the selected 1500 outline; effective control and claimed jurisdictions are not distinguished."
+    },
+    {
+      "year": 1800,
+      "name": "United States of America",
+      "reason": "The source appears to include Florida before its 1821 transfer and is omitted."
+    },
+    {
+      "year": 1800,
+      "name": "Austrian Empire",
+      "reason": "That title dates from 1804; Habsburg lands should not be automatically relabeled without review."
+    },
+    {
+      "year": 1900,
+      "name": "Spain (Caribbean feature)",
+      "reason": "Source still assigns Cuba and Puerto Rico to Spain after 1898."
+    },
+    {
+      "year": 1900,
+      "name": "Kingdom of Hawaii",
+      "reason": "Hawaii was annexed by the United States in 1898; source authority is stale."
+    },
+    {
+      "year": 1900,
+      "name": "Kingdom of Brazil",
+      "reason": "Brazil became a republic in 1889; no unreviewed relabeling performed."
+    },
+    {
+      "year": 1960,
+      "name": "Zambia, Malawi, Tanzania, Zimbabwe",
+      "reason": "Stale or premature sovereign-authority fields; source requires dated colonial and independence review."
+    },
+    {
+      "year": 1960,
+      "name": "Egypt and Syria as separate authorities",
+      "reason": "They formed the United Arab Republic in 1958–1961; not included as separate independent countries."
+    },
+    {
+      "year": 1960,
+      "name": "China / Tibet",
+      "reason": "Separate source features require a specific historical control/dispute model that this layer does not supply."
+    },
+    {
+      "year": 1960,
+      "name": "Indonesia",
+      "reason": "West New Guinea status needs separate review; omitted rather than using a modern national silhouette."
+    },
+    {
+      "year": 1400,
+      "name": "Jiangshan s_ming_a0 main Ming outline",
+      "reason": "Although the phase is labelled 1388–1407, the geometry retains the same far-northeastern envelope as the source's Yongle expansion phase (141.26 E, 56.87 N). Omitted instead of treating the phase caption as proof of territorial accuracy."
+    }
+  ],
+  "sourceFiles": [
+    {
+      "year": -500,
+      "filename": "world_bc500.geojson",
+      "bytes": 915851,
+      "sha256": "f72bc06ca45a9f680f20ef6007aaccd13a929cd1b632bd0fb41f161cb51ba3f6"
+    },
+    {
+      "year": -323,
+      "filename": "world_bc323.geojson",
+      "bytes": 888982,
+      "sha256": "3e90c33ce668d9559b52b501a8a8d5607e4cc86c4131dac30ae9aa4d6e9a7616"
+    },
+    {
+      "year": -1,
+      "filename": "world_bc1.geojson",
+      "bytes": 1185421,
+      "sha256": "830fac0104ebafff7b576333cd5ab4a9bf4b6f732ddf828cec47797cf65047cb"
+    },
+    {
+      "year": 200,
+      "filename": "world_200.geojson",
+      "bytes": 1165201,
+      "sha256": "ef811868efee04b5ae7cfe23538091f1cfa75534ecfad14d754d9cc690b2d2c7"
+    },
+    {
+      "year": 600,
+      "filename": "world_600.geojson",
+      "bytes": 1025118,
+      "sha256": "e8d285de5d4257c55158979e866191d13464abc74e3082fb5f2065b357beec7a"
+    },
+    {
+      "year": 800,
+      "filename": "world_800.geojson",
+      "bytes": 977296,
+      "sha256": "9d046cdc4662109c3f803ae46e2c8cba941aa092ec86eccc7823e6cf1554920c"
+    },
+    {
+      "year": 1000,
+      "filename": "world_1000.geojson",
+      "bytes": 1040461,
+      "sha256": "2140776fd7888c1d4a30e8f6debdaf56192cdf49587f3b6bb67841930ca82d29"
+    },
+    {
+      "year": 1200,
+      "filename": "world_1200.geojson",
+      "bytes": 1050917,
+      "sha256": "2d6913ecedb38e269e41d249c87874d81e3e8d7351754821f57e627442d91525"
+    },
+    {
+      "year": 1300,
+      "filename": "world_1300.geojson",
+      "bytes": 1021630,
+      "sha256": "a27985e60d936611d7933f0c30f1b52c36ef4a17225dfac25fb96abe40fa496f"
+    },
+    {
+      "year": 1400,
+      "filename": "world_1400.geojson",
+      "bytes": 1053803,
+      "sha256": "c6b0efcb42d9520a1a724f981373296e84ea2c0a0527de7a06f8f9e2465eb6ec"
+    },
+    {
+      "year": 1500,
+      "filename": "world_1500.geojson",
+      "bytes": 1170331,
+      "sha256": "d01ffc9b80629787f13d2b1c2f881f005bc0164433548e30f5c058ddee0bfc7b"
+    },
+    {
+      "year": 1600,
+      "filename": "world_1600.geojson",
+      "bytes": 1680222,
+      "sha256": "7285c07eeedfda9048de5354ea1744d327b07614085e9696c5802bb54c86849c"
+    },
+    {
+      "year": 1800,
+      "filename": "world_1800.geojson",
+      "bytes": 1638994,
+      "sha256": "51fcb6b1f1c361956a3fc24a9c646844ff88754842aa113780428fb4abcd5f2c"
+    },
+    {
+      "year": 1900,
+      "filename": "world_1900.geojson",
+      "bytes": 1296950,
+      "sha256": "9c9221c851eaba4948e11b2a0b078e89239231f8c74df0dc321750ae234f10b5"
+    },
+    {
+      "year": 1960,
+      "filename": "world_1960.geojson",
+      "bytes": 1502004,
+      "sha256": "6067386755f8fc120a4fca44f198952a18da89cd062aa8013d5a0d08cbad8988"
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Achaemenid Persian Empire (550–330 BCE)",
+      "url": "https://www.metmuseum.org/essays/the-achaemenid-persian-empire-550-330-b-c",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Western North Africa, 1000 BCE–1 CE",
+      "url": "https://www.metmuseum.org/toah/ht/04/afw.html",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Archaeological Sites of the Island of Meroe",
+      "url": "https://whc.unesco.org/en/list/1336/",
+      "publisher": "UNESCO World Heritage Centre",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "The Macedonian Empire, 336–323 BCE",
+      "url": "https://maps.lib.utexas.edu/maps/historical/shepherd_1911/shepherd-c-018-019.jpg",
+      "publisher": "William R. Shepherd; University of Texas Libraries",
+      "evidenceNote": "Historical atlas comparison of the broad extent; 1911 cartography is not modern historical GIS.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "The Roman Empire (27 BCE–393 CE)",
+      "url": "https://www.metmuseum.org/essays/the-roman-empire-27-b-c-393-a-d",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Territorial Expansion of Rome",
+      "url": "https://maps.lib.utexas.edu/maps/historical/shepherd_1911/shepherd-c-034-035.jpg",
+      "publisher": "William R. Shepherd; University of Texas Libraries",
+      "evidenceNote": "Historical atlas comparison; temporary conquests and annexation dates must be distinguished.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "The Parthian Empire (247 BCE–224 CE)",
+      "url": "https://www.metmuseum.org/essays/the-parthian-empire-247-b-c-224-a-d",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Han Dynasty (206 BCE–220 CE)",
+      "url": "https://www.metmuseum.org/essays/han-dynasty-206-b-c-220-a-d",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "The Sasanian Empire (224–651 CE)",
+      "url": "https://www.metmuseum.org/essays/the-sasanian-empire-224-651-a-d",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Byzantium (ca. 330–1453)",
+      "url": "https://www.metmuseum.org/essays/byzantium-ca-330-1453",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "France, 500–1000 CE",
+      "url": "https://www.metmuseum.org/toah/ht/06/euwf.html",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Tang Dynasty (618–907)",
+      "url": "https://www.metmuseum.org/essays/tang-dynasty-618-906",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Carolingian Art",
+      "url": "https://www.metmuseum.org/essays/carolingian-art",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "The Art of the Abbasid Period (750–1258)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-abbasid-period-750-1258",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Timbuktu: An Islamic Cultural Center",
+      "url": "https://www.loc.gov/collections/islamic-manuscripts-from-mali/articles-and-essays/timbuktu-an-islamic-cultural-center/",
+      "publisher": "Library of Congress",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Northern Song Dynasty (960–1127)",
+      "url": "https://www.metmuseum.org/essays/northern-song-dynasty-960-1127",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "The Art of the Fatimid Period (909–1171)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-fatimid-period-909-1171",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Angkor",
+      "url": "https://whc.unesco.org/en/list/668/",
+      "publisher": "UNESCO World Heritage Centre",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Great Living Chola Temples",
+      "url": "https://whc.unesco.org/en/list/250/",
+      "publisher": "UNESCO World Heritage Centre",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Central and North Asia, 500–1000 CE",
+      "url": "https://www.metmuseum.org/toah/ht/06/nc.html",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Central Europe (including Germany), 1000–1400 CE",
+      "url": "https://www.metmuseum.org/toah/ht/07/euwc.html",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "France, 1000–1400 CE",
+      "url": "https://www.metmuseum.org/toah/ht/07/euwf.html",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Great Britain and Ireland, 1000–1400 CE",
+      "url": "https://www.metmuseum.org/toah/ht/07/euwb.html",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "The Art of the Almoravid and Almohad Periods (ca. 1062–1269)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-almoravid-and-almohad-periods-ca-1062-1269",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Yuan Dynasty (1271–1368)",
+      "url": "https://www.metmuseum.org/essays/yuan-dynasty-1271-1368",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "The Art of the Ilkhanid Period (1256–1353)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-ilkhanid-period-1256-1353",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "The Art of the Mamluk Period (1250–1517)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-mamluk-period-1250-1517",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "The Art of the Timurid Period (ca. 1370–1507)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-timurid-period-ca-1370-1507",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "The Mongol Dominions, 1300–1405",
+      "url": "https://maps.lib.utexas.edu/maps/historical/shepherd_1911/shepherd-c-092.jpg",
+      "publisher": "William R. Shepherd; University of Texas Libraries",
+      "evidenceNote": "Historical atlas comparison; the successor khanates are not treated as one uniform administration.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "The Art of the Ottomans before 1600",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-ottomans-before-1600",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "The Greater Ottoman Empire, 1600–1800",
+      "url": "https://www.metmuseum.org/essays/the-greater-ottoman-empire-1600-1800",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "The Ottoman Empire, 1481–1683",
+      "url": "https://maps.lib.utexas.edu/maps/historical/shepherd_1911/shepherd-c-124.jpg",
+      "publisher": "William R. Shepherd; University of Texas Libraries",
+      "evidenceNote": "Historical atlas comparison distinguishes successive conquests; not an exact reconstruction of every frontier.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Ming Dynasty (1368–1644)",
+      "url": "https://www.metmuseum.org/essays/ming-dynasty-1368-1644",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Central and Southern Andes, 1400–1600 CE",
+      "url": "https://www.metmuseum.org/toah/ht/08/sanc.html",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Mexico, 1400–1600 CE",
+      "url": "https://www.metmuseum.org/toah/ht/08/canm.html",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Encompassing the Globe: Portugal and the World in the 16th and 17th Centuries",
+      "url": "https://asia.si.edu/whats-on/exhibitions/encompassing-the-globe-portugal-and-the-world-in-the-16th-and-17th-centuries/",
+      "publisher": "Smithsonian National Museum of Asian Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "The Art of the Safavids before 1600",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-safavids-before-1600",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "The Art of the Mughals before 1600",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-mughals-before-1600",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "China, 1600–1800 CE",
+      "url": "https://www.metmuseum.org/toah/ht/09/eac.html",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "The Qing Dynasty (1644–1911): Painting",
+      "url": "https://www.metmuseum.org/essays/the-qing-dynasty-1644-1911-painting",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Mexico and Central America, 1600–1800 CE",
+      "url": "https://www.metmuseum.org/toah/ht/09/ca.html",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "South America, 1600–1800 CE",
+      "url": "https://www.metmuseum.org/toah/ht/09/sa.html",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "CShapes 2.0",
+      "url": "https://icr.ethz.ch/data/cshapes/",
+      "publisher": "ETH Zürich International Conflict Research",
+      "evidenceNote": "Independent check of polity existence and broad geography at 1900-01-01 or 1960-01-01. CShapes geometry is not redistributed; only the GPL historical-basemaps geometry is shipped.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Song dynasty maps: Northern and Southern Song",
+      "url": "https://afe.easia.columbia.edu/songdynasty-module/cities-new.html",
+      "publisher": "Columbia University, Asia for Educators",
+      "evidenceNote": "General territorial interpretation of the Song–Jin division; does not certify individual schematic vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Ming Dynasty (1368–1644)",
+      "url": "https://www.metmuseum.org/essays/ming-dynasty-1368-1644",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Polity chronology and broad historical context; does not certify individual schematic vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Roman Empire: extent in 200 CE",
+      "url": "https://github.com/AWMC/geodata/blob/7ecf8bccea2efe1e1e9df2daf6001942de73fb87/Cultural-Data/political_shading/roman_empire_ce_200_extent/roman_empire_ce_200_extent.geojson",
+      "publisher": "Ancient World Mapping Center, University of North Carolina at Chapel Hill",
+      "evidenceNote": "Institutional GIS explicitly dated to 200 CE.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "AWMC GIS Data",
+      "url": "https://awmc.unc.edu/gis-data/",
+      "publisher": "Ancient World Mapping Center",
+      "evidenceNote": "Dataset description and access.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Territorial Expansion of Rome",
+      "url": "https://maps.lib.utexas.edu/maps/historical/shepherd_1911/shepherd-c-034-035.jpg",
+      "publisher": "William R. Shepherd; University of Texas Libraries",
+      "evidenceNote": "Independent historical-atlas context; temporary conquests and date ranges are distinguished.",
+      "checkedAt": "2026-10-22"
+    }
+  ],
+  "reviewDate": "2026-10-22",
+  "coverage": "Selected polities only; no annual interpolation and no claim of exhaustive world coverage.",
+  "layers": [
+    {
+      "file": "territories.geojson",
+      "license": "GPL-3.0-only",
+      "featureCount": 102,
+      "attribution": "André Ourednik and historical-basemaps contributors",
+      "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "outputSha256": "2e1ea21271bc7eb6ecfefef18d5ea8be1f2a79e073a509799e5198982f910be8",
+      "licenseFile": "territories.LICENSE"
+    },
+    {
+      "file": "territories-awmc.geojson",
+      "license": "ODbL-1.0",
+      "featureCount": 1,
+      "attribution": "Ancient World Mapping Center; Barrington Atlas; OpenStreetMap contributors (ODbL 1.0).",
+      "sourceCommit": "7ecf8bccea2efe1e1e9df2daf6001942de73fb87",
+      "sourceSha256": "b1517aa96d43547925985069f8beefa761c361cad5986d35c7d607e86821527d",
+      "outputSha256": "81a220e984b779847c02794953082858591aa868842fe2a94123a94d74870045",
+      "licenseFile": "territories-awmc.LICENSE"
+    },
+    {
+      "file": "territories-jiangshan.geojson",
+      "license": "README GPL-3.0; root MIT notice retained",
+      "featureCount": 3,
+      "attribution": "DeanChensj; haitaowu12/jiangshan-map fork",
+      "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+      "sourceSha256": "a0834b2e77a88b55e3327f51146af05d6d5392823f413eade542cd7306a1ed71",
+      "provenanceNote": "Published upstream schematic; per-outline derivation not documented. No restricted CHGIS data copied.",
+      "outputSha256": "bcf06d799655c7a3c53140b908d37eb544b2a34cd487f0965595b551f3916d4d",
+      "licenseFile": "territories-jiangshan.LICENSE.md"
+    }
+  ]
+}

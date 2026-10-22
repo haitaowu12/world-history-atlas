@@ -1,78 +1,116 @@
 # Historical data policy
 
-This atlas is an educational index of selected histories. It is not an exhaustive account of the world, and a missing record never means a region was uninhabited or lacked history.
+World History Atlas is an educational collection of selected histories. Its records, people, routes and maps answer different questions and have different evidence requirements. A missing entry or uncolored area never means that a region was uninhabited, ungoverned or lacked history.
 
-## 1. Time means a selected historical interval
+## 1. Time means a selected focus interval
 
-- Use signed civil years: -1 is 1 BCE; 1 is 1 CE. There is no year zero.
-- Every record must declare a start and end. Start must not be after end. The application's public dates and links use the same convention.
-- A record's interval is the period discussed in that record. It must not be presented as the full lifetime of a culture, people, language, practice, or institution unless the cited evidence supports that claim.
-- A single-year event has equal start and end. A long process or selected archaeological phase may span many years.
-- State whether the interval is approximate, conventional, debated, or precise. Do not silently convert an archaeological date range into an exact foundation or collapse year.
-- Distinguish an event date from a date of construction, occupation, discovery, inscription, publication, or modern heritage designation.
-- The corpus's minimum and maximum years describe editorial coverage, not the beginning or end of world history.
-- The UI must identify whether a filter means “active in this year,” “overlaps this selected period,” or “all records.” These are different questions.
+Use signed civil years: `-1` is 1 BCE and `1` is 1 CE. There is no year zero. Every narrative record declares ordered, inclusive `start` and `end` values. Public URLs, APIs and milestones use the same convention.
 
-## 2. A point is a representative location
+A record's interval is the period discussed in that record. It must not be presented as the full lifetime of a person, culture, people, language, practice or institution unless its evidence supports that interpretation. A biography can focus on a reign or period of activity. A single-year event has equal start and end; a long process or selected archaeological phase can span many years.
 
-Coordinates locate the selected place or an illustrative centre relevant to a narrative. A point does not specify territorial extent, origin of an entire culture, an exclusive claim to invention, or modern political ownership.
+Each `dateNote` explains what the interval means and whether it is approximate, conventional, debated or precise. Do not turn an archaeological range into an exact foundation or collapse year. Distinguish construction, occupation, discovery, inscription, publication and modern heritage designation dates. Do not imply that a living culture disappears when its editorial interval ends.
 
-Represent broad networks and dispersed traditions with a named representative site and a visible location note. Coordinates should have a precision appropriate to their source. Do not invent an exact coordinate for a vague historical location. Route lines, if added, must distinguish documented paths from schematic connections between known stops.
+The supported narrative range, 13,000 BCE–2026 CE, describes this release's editorial coverage and interface bounds. It is not the beginning or end of world history. The uneven slider scale changes screen space, not historical durations. “Active in this year,” “overlaps this interval” and “all records” are different filters and must remain clearly identified.
 
-The base land geometry represents modern physical coastlines at small scale. It does not reconstruct ancient coastlines, sea levels, rivers or lake extents.
+## 2. Keep the data models distinct
 
-## 3. Separate events, places, cultures, polities and map snapshots
+| Collection | Meaning and evidence |
+| --- | --- |
+| `history.json` | Places, polities, events, ideas, cultures and selected processes, each with a focus interval and representative point |
+| `people.json` | Profiles with the common record fields plus separately dated and located milestones |
+| `routes.json` | Journeys or networks with explicit stops, connections, uncertainty notes and route-specific sources |
+| `courses.json` and `journeys.mjs` | Editorial reading sequences and study prompts linked to existing records |
+| `territories*.geojson` and `map-snapshots.json` | Source-specific approximate territorial geometry at exact snapshot years |
+| Natural Earth assets | Present-day reference geography for orientation |
 
-A historic site can illustrate political, artistic, scientific, economic, religious or social history, but UNESCO inscription is not a proxy for a complete civilization.
+Narrative records share a stable `id`, bilingual `title`, `summary` and `dateNote`, `start`/`end`, `region`, `theme`, `location`, `locationPrecision` and `sources`. Explicit `kind` values distinguish polities, events, places, ideas, cultures and people. Declare the kind explicitly for new records; the app retains inference only as a fallback for older compatible data. Importance values are editorial display choices, not measures of a society's worth.
 
-Records should explain the historical process, the role of the mapped place, and why the selected date matters. Prefer summaries that connect an observable practice or material trace to a larger question. Avoid reducing every society to a ruler, monument or conquest.
+A historic site can illuminate political, artistic, scientific, economic, religious or social history, but a heritage listing is not a proxy for an entire civilization. Explain how the mapped place relates to the broader process. Avoid reducing every society to a ruler, monument or conquest.
 
-Living cultures and Indigenous peoples continue beyond an archaeological phase or selected interval. Describe cultural continuity where applicable; avoid an interface that implies disappearance when a period ends. Avoid a single hierarchy of “advanced” and “backward” civilizations.
+## 3. Locations are representative
 
-Two contemporaneous records need not be causally connected. Similar dates or artifacts alone do not establish influence or diffusion.
+Coordinates identify a selected place or an illustrative centre relevant to a narrative. A point does not specify territorial extent, the origin of an entire culture, an exclusive claim to invention or modern political ownership.
 
-## 4. Sources are part of each record
+For broad traditions and dispersed activity, name the actual representative place and explain its role. Use precision appropriate to the evidence. An exact-looking coordinate must not conceal a poorly located historical event. The same principle applies to person milestones: their pins represent the places described, not a continuously reconstructed trajectory.
 
-Every published record needs one or more inspectable source URLs and a publisher/title. Prefer specialist museums, archives, heritage authorities, universities and original institutional reports. A bibliography in the repository does not replace per-record evidence.
+The “history near this place” view compares representative points within a geographic radius. It does not establish continuity of settlement, institutional succession, influence or shared sovereignty. Similarly, contemporary records are not necessarily causally connected. Similar dates or artifacts alone do not establish diffusion.
 
-For each entry:
+Natural Earth's land, rivers and optional modern country outlines are geographic references. They do not reconstruct ancient shorelines, sea levels, river courses or historical political borders. Modern country outlines remain optional and are off by default.
 
-1. Open the cited source and verify that it supports the particular date and narrative.
-2. Write a short original summary; do not copy a source's descriptive paragraph.
-3. Record the date interpretation and any uncertainty that materially changes the claim.
-4. Use a second source for a disputed date, broad causal claim, contested attribution, or source conflict.
-5. Distinguish source-supported facts from editorial questions, framing and selection choices.
+## 4. Sources belong to the claim
 
-A general institution homepage, search-result snippet, or adjacent topic page cannot support a specific claim merely because the institution is authoritative. A failed or blocked source must be recorded as unverified until inspected. Link reachability is not evidence of historical correctness.
+Every published historical record needs inspectable source URLs, titles and publishers. Prefer specialist museums, archives, heritage authorities, universities and institutional research. Use the record's source list to support its particular dates, location interpretation and narrative. A repository bibliography alone is insufficient.
 
-Chinese and English versions must preserve the same scope and uncertainty. A translation must not become more certain or introduce an additional claim.
+For each contribution:
 
-## 5. Coverage is inspectable
+1. Open the source and check the date and claim against its actual contents.
+2. Write a short original summary rather than copying a descriptive paragraph.
+3. Explain the chosen interval and uncertainty that materially affects interpretation.
+4. Consult an additional source for a disputed date, broad causal claim, contested attribution or source conflict.
+5. Distinguish factual assertions from editorial framing and questions.
+6. Record an `evidenceNote` and `checkedAt` when documenting source review, without implying broader review than was performed.
 
-Describe the release as a curated starting corpus. Report counts by region and theme, and expose empty filter states. Do not claim a representative sample or complete coverage without a defined sampling method.
+An institution's general homepage, a search snippet or an adjacent topic page cannot support a precise claim merely because the publisher is authoritative. A failed or blocked source remains unverified until inspected. Link reachability does not establish correctness.
 
-Editorial priorities include Africa, the Americas and Oceania alongside Asia and Europe; Indigenous histories; trade and migration; agriculture and food; cities and institutions; science and technology; art and belief; and political change. Avoid interpreting global history through a sequence of European period names alone.
+English and Chinese must preserve the same scope, attribution and uncertainty. Translation must not introduce an additional assertion or turn an approximate statement into a precise one. Historical names should be intelligible without silently equating a historical polity with a modern nation-state.
 
-Contributions should extend underrepresented subjects instead of adding only more entries to already dense places. Different periods may require different levels of geographic detail.
+## 5. People, routes and study guides need their own interpretation
 
-## 6. Historical boundaries are a separate review lane
+### People and milestones
 
-The first release must not present hand-drawn shapes, modern borders, or point-centred circles as historical territories. If historical snapshots are later introduced, each layer requires:
+A profile's focus interval and its milestones must be internally consistent and source-supported. Describe what each milestone dates: a reign, journey, publication, political action or other event. A milestone does not require a known birth date, and a profile must not invent one to fill a timeline.
 
-- an immutable source reference, its actual snapshot year and original license;
-- a check of the dataset's BCE/CE convention;
-- explicit handling of sparse chronology, disputed borders and unknown areas;
-- the source's precision and uncertainty fields where available;
-- a visible distinction between the selected story year and the available map year;
-- antimeridian, polygon-hole and geometry validation.
+Milestones have bilingual titles and descriptions, a civil year and a representative location. A selected milestone can change the year and map focus. Present approximate locations or dates as approximate. A sequence of milestone places is not evidence for a travel route between them.
 
-Do not interpolate sovereignty between two snapshot years or silently carry a later snapshot backward. A blank area means the dataset has no depiction, not that nobody lived there. Claim, administration, influence, cultural range and tributary relationships are different kinds of geography and must not be merged.
+### Routes and networks
 
-The upstream Jiangshan repository has inconsistent top-level license signals (MIT LICENSE, GPL-3.0 README) and cites GPL-3.0 historical-basemaps data. Its embedded polygons are not assumed to be uniformly MIT. Historical boundary imports remain outside the initial corpus until their chronology, attribution and license handling are reviewed.
+A `journey` follows selected stages of a documented journey. A `network` describes connected sites over an interval and can branch. Each route declares a `dateNote`, `caveat`, `geometryPrecision`, sources, stops and explicit `legs`. Each leg names its `from` and `to` stops and carries an evidence note.
 
-## 7. Validation and correction
+Do not connect a network's entire stop array into a fictional itinerary. Do not assign a shared arrival year to undated network nodes: `null` means no single stop year is claimed. A network's overall interval does not imply every node and connection was continuously or equally active.
 
-Automated checks verify structure: stable unique IDs; valid coordinates; localized strings; source presence; nonzero ordered dates; supported region/theme values; and valid journey references. These checks cannot establish historical truth.
+The displayed connections are schematic. They do not claim the exact road, sea track, migration corridor, route width or traffic volume. Source evidence for a stop alone does not establish every possible connection to another stop. Explanatory notes should identify missing stages and the limits of a selected route.
 
-Acceptance also requires a human-readable sample review of dates, summaries and source fit across regions. Corrections should preserve record IDs where possible, explain the changed claim, cite the evidence and identify whether the map, narrative, date or translation changed. A changed fact should not be hidden as an unexplained formatting update.
+Coercion, enslavement, displacement and resistance must remain explicit where relevant. A forced-migration network must not be framed as an optional adventure or an ordinary commercial itinerary.
 
+### Reading paths and activities
+
+The six original readings and eight study guides are editorial teaching sequences, not physical routes. Course `recordIds` and `routeIds` point to the evidence-bearing collections. Questions and activities are prompts for interpretation, not new historical claims or graded factual answers.
+
+Keep prompts connected to the cited records. Avoid presenting uncertain dates as exact quiz answers. The map challenge measures distance to representative atlas points; its score is feedback for geographic orientation, not an assessment of historical understanding.
+
+## 6. Historical territories have a separate review process
+
+The v2 collection includes 15 selected dated snapshots from 500 BCE to 1960 CE. It is not a complete historical GIS or an annual reconstruction. The current source selection, transformations, exclusions and review limits are in [MAP_METHODOLOGY.md](MAP_METHODOLOGY.md).
+
+Every layer must preserve:
+
+- Its source repository, immutable commit, source path, original license and relevant notices.
+- The actual source snapshot year and the source's BCE/CE convention.
+- Feature IDs, names, the intended geographic meaning and source evidence.
+- Per-feature uncertainty and review scope, including whether geometry is independently reconstructed.
+- Checksums for source and distributed files, with documented transformations.
+- Validation for spherical winding, antimeridian behavior, holes, invalid coordinates and degenerate components.
+
+Institutional sources can confirm a polity's existence and broad geographic setting without validating each imported boundary vertex. The current selected Historical Basemaps outlines are reviewed on that limited basis. Known chronology or geographic problems justify exclusion; an “approximate” label does not excuse a wrong-period polity.
+
+The map selects the nearest earlier or equal snapshot and displays its real year. If the narrative year is later, the age of the held map remains visible. Never interpolate sovereignty between dates, carry a later snapshot backward, or imply that a held outline describes every intervening year. Previous-snapshot outlines remain separately dated.
+
+Claim, administration, influence, tributary relations, cultural range and trade connections are different geographic concepts. Do not merge them into a single undifferentiated territorial claim. Empty space means no selected geometry.
+
+### Source-specific notices
+
+Historical Basemaps geometry, AWMC geometry and Jiangshan schematics remain in separate files with separate license notices. The application code's MIT license does not relicense them.
+
+The three Jiangshan shapes are explicitly labeled **“Jiangshan schematic outline”** and retain their original focus intervals. The upstream README declares GPL-3.0 while its root LICENSE is MIT; both notices are preserved. The source references several historical resources without identifying each outline's derivation. Document that unresolved provenance rather than asserting that the outlines were copied from CHGIS or that all upstream material is MIT. No CHGIS download is included in this release. See [the preserved notice](../dist/data/territories-jiangshan.LICENSE.md).
+
+Do not generate a missing territory from a capital point, a circle, modern country borders or an unsupported freehand shape. A new schematic needs explicit historical map evidence, permissible reuse, a date and an honest statement of its precision.
+
+## 7. Coverage and corrections stay inspectable
+
+The v2 corpus spans nine editorial regions but is selective and uneven. Counts describe material included; they are not a sampling measure of historical importance or completeness. Expose empty filter states and keep regional counts inspectable.
+
+Expansion should include underrepresented periods, women's histories, Indigenous and living-community perspectives, daily life, environment, labour and institutions alongside political history. Africa, the Americas and Oceania deserve depth as well as wider geographic distribution. Do not organize all global history solely through European period names or a hierarchy of “advanced” and “backward” societies.
+
+Automated checks verify stable IDs, dates, coordinates, bilingual fields, references, route connections, snapshot membership and file integrity. They cannot establish historical truth, validate every map frontier or certify a source-to-claim match. Acceptance also needs editorial review and relevant browser checks.
+
+When correcting content, retain IDs where possible so notebooks, courses and links keep working. Explain the changed claim, cite the evidence and identify whether the narrative, date, location, geometry or translation changed. Update source notes, hashes or notices when their underlying material changes; never alter a checksum merely to hide an unexplained difference.

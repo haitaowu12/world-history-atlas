@@ -1,5 +1,7 @@
 # Upstream inspection — Jiangshan Map
 
+> **Historical status — v1 review.** This document records the initial upstream inspection. V2 later inspected the snapshot file and reused three explicitly attributed Jiangshan schematic outlines in a separate data file. Current selection, provenance, license notices and limitations are documented in [MAP_METHODOLOGY.md](MAP_METHODOLOGY.md); the inspection scope below describes the earlier review.
+
 Inspected fork: https://github.com/haitaowu12/jiangshan-map
 Pinned commit: fcd6484d06d3c581241fc24adbab288cf3a4a2ea
 Upstream parent: DeanChensj/jiangshan-map
