@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f6f3ec">
+  <meta name="description" content="Explore world history on an interactive map. Travel through time, compare concurrent histories, and follow sources in English and Chinese.">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self'; object-src 'none'; base-uri 'self'; form-action 'none'">
+  <title>World History Atlas · 寰宇时序</title>
+  <link rel="icon" href="./assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./styles.css">
+  <script defer src="./assets/d3.v7.9.0.min.js"></script>
+  <script type="module" src="./app.mjs"></script>
+</head>
+<body>
+  <a class="skip" href="#stories">Skip to stories</a>
+  <header class="masthead">
+    <a class="brand" href="#" aria-label="World History Atlas home" id="brand-home"><span class="brand-mark" aria-hidden="true">◎</span><span><strong>World History Atlas</strong><small>寰宇时序</small></span></a>
+    <nav aria-label="Main navigation"><button id="explore-nav" class="nav-button active" data-i18n="explore">Explore</button><button id="journeys-nav" class="nav-button" data-i18n="journeys">Journeys</button><button id="notebook-nav" class="nav-button" data-i18n="notebook">Notebook</button><button id="about-nav" class="nav-button" data-i18n="sources">About & sources</button></nav>
+    <div class="header-actions"><button id="language" class="language-button" lang="zh" aria-label="Switch to Chinese">中文</button><button id="share" class="share-button" data-i18n="share">Share view ↗</button></div>
+  </header>
+  <main id="app" class="workspace">
+    <aside class="explorer" aria-label="History explorer">
+      <div class="explorer-top"><p class="eyebrow" data-i18n="edition">A LIVING ATLAS · FIRST EDITION</p><h1 data-i18n="headline">History, in perspective.</h1><p class="intro" data-i18n="intro">Choose a moment. Discover the worlds that existed together.</p></div>
+      <div class="search-wrap"><span aria-hidden="true">⌕</span><input id="search" type="search" maxlength="200" aria-label="Search stories" placeholder="Search a place, idea, or culture…"><kbd>/</kbd></div>
+      <div class="mode-tabs" role="group" aria-label="Time filter"><button id="mode-year" class="selected" aria-pressed="true" data-i18n="atYear">At this time</button><button id="mode-all" aria-pressed="false" data-i18n="allTime">Across all time</button></div>
+      <div class="filter-grid"><label><span data-i18n="region">Region</span><select id="region" aria-label="Filter by region"></select></label><label><span data-i18n="theme">Theme</span><select id="theme" aria-label="Filter by theme"></select></label></div>
+      <div class="results-heading"><h2 id="results-heading">Stories</h2><button id="reset-filters" class="text-button" data-i18n="reset">Reset filters</button></div>
+      <div id="stories" class="stories" tabindex="-1" aria-labelledby="results-heading"><p class="loading">Loading the atlas…</p></div>
+      <div class="coverage-note" id="coverage-note"></div>
+    </aside>
+    <section class="map-stage" aria-label="World history map">
+      <div class="map-header"><div><span class="eyebrow" data-i18n="worldView">WORLD VIEW</span><div class="map-date" id="map-date">1200 CE</div></div><div class="map-header-note" id="map-header-note"></div></div>
+      <div id="map-wrap" class="map-wrap"><svg id="world-map" role="group" aria-label="Interactive physical world map with historical places" tabindex="0"></svg><div id="map-tooltip" role="tooltip" hidden></div></div>
+      <div class="map-controls" aria-label="Map controls"><button id="zoom-in" aria-label="Zoom in">+</button><button id="zoom-out" aria-label="Zoom out">−</button><button id="zoom-reset" aria-label="Reset world view">⌖</button></div>
+      <div class="map-legend"><span><i class="legend-dot"></i><span data-i18n="legendPlace">Historical place / focus</span></span><button id="map-method" class="text-button" data-i18n="mapNote">How to read this map</button></div>
+      <div class="map-instruction" data-i18n="mapHint">Drag to explore · Scroll to zoom · Select a place to begin</div>
+      <article id="detail" class="detail-panel" aria-label="Selected history story" hidden></article>
+      <section id="journey-strip" class="journey-strip" aria-label="Guided journey" hidden></section>
+    </section>
+    <section class="timeline" aria-label="History timeline">
+      <div class="timeline-top"><div class="time-buttons"><button id="previous-time" aria-label="Previous historical moment">‹</button><button id="play" aria-label="Play timeline">▶</button><button id="next-time" aria-label="Next historical moment">›</button></div><form id="year-form" class="year-form"><label for="year-input" data-i18n="travelTo">Travel to</label><input id="year-input" type="number" min="1" max="13000" value="1200" aria-label="Year"><select id="era" aria-label="Era"><option value="ce">CE</option><option value="bce">BCE</option></select><button type="submit" data-i18n="go">Go</button></form><p id="timeline-label"></p></div>
+      <input id="timeline-slider" type="range" min="0" max="8000" step="1" value="5400" aria-label="Historical year">
+      <div id="timeline-ticks" class="timeline-ticks"></div>
+      <div class="timeline-bottom"><span data-i18n="scaleNote">Uneven time scale · dates are selected historical focus periods</span><button id="compare-button" class="text-button" data-i18n="compare">Compare stories</button><span id="atlas-count"></span></div>
+    </section>
+  </main>
+  <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+  <dialog id="dialog"><div id="dialog-content"></div></dialog>
+  <noscript><p class="fatal">This atlas needs JavaScript to connect the timeline, map, and stories. The complete source-backed records are available in <a href="./data/history.json">history.json</a>.</p></noscript>
+</body>
+</html>

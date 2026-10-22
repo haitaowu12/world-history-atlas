@@ -1,0 +1,11 @@
+.DS_Store
+node_modules/
+*.tar.gz
+*.zip
+test-output/
+.openai/
+.codex/
+docs/*PUBLICATION*
+docs/*VERIFICATION*
+docs/*VALIDATION.json
+docs/*-validation.json
