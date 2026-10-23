@@ -21,6 +21,22 @@ const record = (id = 'sample-entry', patch = {}) => ({
   ...patch
 });
 
+test('alias search and shared URLs span the whole atlas', () => {
+  const rows = [record('atlas-entry'),record('china-entry',{
+    aliases:['汴京','Bianjing'],provenance:{dataset:'jiangshan',status:'inherited'}
+  })];
+  const all = {...defaultState(),mode:'all'};
+  assert.equal(filterRecords(rows,all).length,2);
+  assert.deepEqual(filterRecords(rows,{...all,collection:'atlas'}).map(r=>r.id),['atlas-entry','china-entry']);
+  assert.deepEqual(filterRecords(rows,{...all,collection:'jiangshan',query:'Ｂｉａｎｊｉｎｇ'}).map(r=>r.id),['china-entry']);
+  assert.deepEqual(filterRecords(rows,{...all,query:'汴京'}).map(r=>r.id),['china-entry']);
+  assert.deepEqual(filterRecords(rows,{...all,collection:'atlas',query:'汴京'}).map(r=>r.id),['china-entry']);
+  const state={...all,collection:'jiangshan',entry:'china-entry',query:'汴京'};
+  const restored=stateFromHash(hashFromState(state),rows);
+  assert.equal(restored.collection,undefined);assert.equal(restored.query,'汴京');assert.equal(restored.entry,'china-entry');
+  assert.equal(stateFromHash('#collection=untrusted',rows).collection,undefined);
+});
+
 test('civil chronology is contiguous across 1 BCE / 1 CE without year zero', () => {
   assert.equal(toOrdinal(-1), -1);
   assert.equal(toOrdinal(1), 0);

@@ -38,6 +38,11 @@ export function sliderFromYear(year) {
   return i*1000 + (y-a)/(b-a)*1000;
 }
 export const activeAt = (record, year) => validYear(year) && validYear(record?.start) && validYear(record?.end) && record.start <= year && record.end >= year;
+const searchTextCache = new WeakMap();
+export function recordSearchText(record) {
+  if (!searchTextCache.has(record)) searchTextCache.set(record, [record.id,record.title?.en,record.title?.zh,record.summary?.en,record.summary?.zh,record.location?.label,record.name?.en,record.name?.zh,...(record.aliases||[])].filter(Boolean).join(' ').normalize('NFKC').toLocaleLowerCase());
+  return searchTextCache.get(record);
+}
 export function filterRecords(records, state, saved = []) {
   const q = (state.query || '').trim().normalize('NFKC').toLocaleLowerCase();
   return records.filter(r =>
@@ -45,8 +50,25 @@ export function filterRecords(records, state, saved = []) {
     (!state.region || state.region === 'all' || r.region === state.region) &&
     (!state.theme || state.theme === 'all' || r.theme === state.theme) &&
     (!state.savedOnly || saved.includes(r.id)) &&
-    (!q || [r.title.en,r.title.zh,r.summary.en,r.summary.zh,r.location.label].join(' ').normalize('NFKC').toLocaleLowerCase().includes(q))
+    (!q || recordSearchText(r).includes(q))
   ).sort((a,b) => a.start-b.start || a.id.localeCompare(b.id));
+}
+const relationshipCache = new WeakMap();
+export function relatedRecords(records, record) {
+  if (!record) return [];
+  if (!relationshipCache.has(records)) {
+    const byId = new Map(records.map(r => [r.id,r])), reverse = new Map();
+    for (const row of records) for (const id of new Set(row.relatedIds || [])) {
+      if (!byId.has(id) || id === row.id) continue;
+      if (!reverse.has(id)) reverse.set(id,[]);
+      reverse.get(id).push(row);
+    }
+    for (const rows of reverse.values()) rows.sort((a,b) => a.start-b.start || a.id.localeCompare(b.id));
+    relationshipCache.set(records,{byId,reverse});
+  }
+  const {byId,reverse} = relationshipCache.get(records), seen = new Set([record.id]);
+  return [...(record.relatedIds || []).map(id => byId.get(id)),...(reverse.get(record.id) || [])]
+    .filter(row => row && !seen.has(row.id) && (seen.add(row.id),true));
 }
 export function contemporaries(records, selected, year, limit = 6) {
   const max = Number.isFinite(Number(limit)) ? Math.max(0, Math.trunc(Number(limit))) : 6;

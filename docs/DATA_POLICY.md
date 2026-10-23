@@ -17,10 +17,14 @@ The supported narrative range, 13,000 BCE–2026 CE, describes this release's ed
 | Collection | Meaning and evidence |
 | --- | --- |
 | `history.json` | Places, polities, events, ideas, cultures and selected processes, each with a focus interval and representative point |
-| `people.json` | Profiles with the common record fields plus separately dated and located milestones |
+| `people.json` | Authored biographies with the common record fields plus separately dated and located milestones |
 | `routes.json` | Journeys or networks with explicit stops, connections, uncertainty notes and route-specific sources |
+| `china-events-*.json` | Frozen imported Jiangshan milestone and landmark records, with source pointers and inherited evidence status |
+| `china-library.json` and its place and settlement chunks | Original profile directory, seven chronicles, city notes, gazetteer, passes, era-place rows, reign names and schematic corridors |
+| `china-reviews.json` | Separate claim-specific corrections and annotations applied to selected imported events and chronicle stops |
 | `courses.json` and `journeys.mjs` | Editorial reading sequences and study prompts linked to existing records |
-| `territories*.geojson` and `map-snapshots.json` | Source-specific approximate territorial geometry at exact snapshot years |
+| `territories*.geojson` and `map-snapshots.json` | Source-specific approximate geometry with actual source years and reviewed display periods |
+| `contemporary-world-*.geojson` and its manifest | Dated reference country and territory geography, with source vintage and a reviewed display interval |
 | Natural Earth assets | Present-day reference geography for orientation |
 
 Narrative records share a stable `id`, bilingual `title`, `summary` and `dateNote`, `start`/`end`, `region`, `theme`, `location`, `locationPrecision` and `sources`. Explicit `kind` values distinguish polities, events, places, ideas, cultures and people. Declare the kind explicitly for new records; the app retains inference only as a fallback for older compatible data. Importance values are editorial display choices, not measures of a society's worth.
@@ -39,7 +43,9 @@ Natural Earth's land, rivers and optional modern country outlines are geographic
 
 ## 4. Sources belong to the claim
 
-Every published historical record needs inspectable source URLs, titles and publishers. Prefer specialist museums, archives, heritage authorities, universities and institutional research. Use the record's source list to support its particular dates, location interpretation and narrative. A repository bibliography alone is insufficient.
+Every published historical record needs inspectable source URLs, titles and publishers. Newly researched narratives need sources for their particular dates, location interpretation and claims. Prefer specialist museums, archives, heritage authorities, universities and institutional research. A repository bibliography alone is insufficient for independent historical verification.
+
+Imported reference records also identify their provenance, but their evidence label must describe what has actually been checked. The Jiangshan import is marked **inherited**: its frozen source and import accounting have been checked, while each historical assertion has not been independently corroborated. Selected event corrections carry a review scope and supporting sources; selected chronicle stops are **annotated**. Neither label certifies the rest of a compound entry, an entire journey or the source collection. Section 8 explains how the original and reviewed layers remain inspectable.
 
 For each contribution:
 
@@ -74,13 +80,13 @@ Coercion, enslavement, displacement and resistance must remain explicit where re
 
 ### Reading paths and activities
 
-The six original readings and eight study guides are editorial teaching sequences, not physical routes. Course `recordIds` and `routeIds` point to the evidence-bearing collections. Questions and activities are prompts for interpretation, not new historical claims or graded factual answers.
+Guided readings and study guides are editorial teaching sequences, not physical routes. Course `recordIds` and `routeIds` point to the evidence-bearing collections. Questions and activities are prompts for interpretation, not new historical claims or graded factual answers.
 
 Keep prompts connected to the cited records. Avoid presenting uncertain dates as exact quiz answers. The map challenge measures distance to representative atlas points; its score is feedback for geographic orientation, not an assessment of historical understanding.
 
 ## 6. Historical territories have a separate review process
 
-The v2 collection includes 15 selected dated snapshots from 500 BCE to 1960 CE. It is not a complete historical GIS or an annual reconstruction. The current source selection, transformations, exclusions and review limits are in [MAP_METHODOLOGY.md](MAP_METHODOLOGY.md).
+The territory collection combines dated source checkpoints, reviewed historical display periods and a separately dated contemporary reference. It is not a complete historical GIS or an annual reconstruction. The current source selection, transformations, exclusions and review limits are in [MAP_METHODOLOGY.md](MAP_METHODOLOGY.md).
 
 Every layer must preserve:
 
@@ -93,9 +99,11 @@ Every layer must preserve:
 
 Institutional sources can confirm a polity's existence and broad geographic setting without validating each imported boundary vertex. The current selected Historical Basemaps outlines are reviewed on that limited basis. Known chronology or geographic problems justify exclusion; an “approximate” label does not excuse a wrong-period polity.
 
-The map selects the nearest earlier or equal snapshot and displays its real year. If the narrative year is later, the age of the held map remains visible. Never interpolate sovereignty between dates, carry a later snapshot backward, or imply that a held outline describes every intervening year. Previous-snapshot outlines remain separately dated.
+The historical map selects one eligible outline per polity. Exact source dates remain explicit. Use outside that year requires a feature-specific `contextValidity` interval, evidence URLs, bilingual interpretation and an explicit backward-review decision. Prefer the latest eligible prior outline; use a later outline only after backward review. Never infer a stable frontier from a polity lifespan or interpolate sovereignty. End intervals at reviewed transitions. Mixed-source displays are approximate context, even if the selected year is also a source checkpoint. Unmapped years retain physical geography and dated narratives. An optional previous-snapshot outline is an explicitly dated comparison on an unmixed historical map.
 
-Claim, administration, influence, tributary relations, cultural range and trade connections are different geographic concepts. Do not merge them into a single undifferentiated territorial claim. Empty space means no selected geometry.
+Contemporary geography has a separate `reviewedYear`, `geometryVintage`, source license, checksum manifest and scope notes. Use outside its explicit review year requires a documented collection-level period plus per-feature review, including earlier names, administrative changes, excluded features and any dated historical fallback geometry. A new year requires a deliberate content review. The current reference context is 2011–2026, with 2022 source geometry; this does not claim annually reconstructed borders. Map-unit counts include dependencies and disputed areas and must not be presented as sovereign-state counts. Source-specific dispute conventions must remain visible.
+
+A cultural range must be marked as `kind: "culture"`, visually distinguished and described as a cultural region with unknown political borders. Claim, administration, influence, tributary relations, cultural range and trade connections are different geographic concepts. Do not merge them into a single undifferentiated territorial claim. Empty space means no selected geometry.
 
 ### Source-specific notices
 
@@ -107,10 +115,48 @@ Do not generate a missing territory from a capital point, a circle, modern count
 
 ## 7. Coverage and corrections stay inspectable
 
-The v2 corpus spans nine editorial regions but is selective and uneven. Counts describe material included; they are not a sampling measure of historical importance or completeness. Expose empty filter states and keep regional counts inspectable.
+The current corpus spans nine editorial regions but is selective and uneven. Counts describe material included; they are not a sampling measure of historical importance or completeness. Expose empty filter states and keep regional counts inspectable.
 
 Expansion should include underrepresented periods, women's histories, Indigenous and living-community perspectives, daily life, environment, labour and institutions alongside political history. Africa, the Americas and Oceania deserve depth as well as wider geographic distribution. Do not organize all global history solely through European period names or a hierarchy of “advanced” and “backward” societies.
 
 Automated checks verify stable IDs, dates, coordinates, bilingual fields, references, route connections, snapshot membership and file integrity. They cannot establish historical truth, validate every map frontier or certify a source-to-claim match. Acceptance also needs editorial review and relevant browser checks.
 
 When correcting content, retain IDs where possible so notebooks, courses and links keep working. Explain the changed claim, cite the evidence and identify whether the narrative, date, location, geometry or translation changed. Update source notes, hashes or notices when their underlying material changes; never alter a checksum merely to hide an unexplained difference.
+
+## 8. Preserve the reference import and make review visible
+
+The shared atlas preserves suitable historical material from the pinned Jiangshan source without turning every source row into a newly researched biography or essay. People, places, periods and connections are browsed with the rest of the atlas; source identity and review status remain in evidence metadata. The [import manifest](../dist/data/china-import-manifest.json) and [import audit](V5_CHINA_IMPORT.md) provide the accounting. The 442 milestones and 536 landmark rows produce **975 mapped events, two exact duplicate merges and one held record**. The held record remains available in the ledger with its original text and a reason; a point that conflicts with its narrative is not silently placed on the map.
+
+| Source material retained | What readers should understand |
+| --- | --- |
+| 104 profile-directory entries | Names, aliases, supplied lifespans and links to matching event text; a directory entry is not a newly researched biography |
+| 7 chronicles, 68 stops and 68 quoted excerpts | Chapters from the reference, retaining their source sequence and inherited interpretation |
+| 87 city notes, 185 gazetteer entries and 20 passes | Different ways to find places and historical names; these are not 292 distinct cities or new events |
+| 1,387 era-place rows | A place can recur in several source periods; this is not a count of unique settlements |
+| 18 display periods and 165 phase rules | The reference map's presentation structure; these boundaries are not necessarily dynasty lifespans |
+| 342 ruler/era-name rows | The selected naming conventions supplied by the reference, not every simultaneous regime or an exhaustive chronology |
+| 16 schematic corridors | Source illustrations of walls, canals or connections; they do not establish exact routes or borders |
+
+### People and place associations
+
+A directory profile links to events whose source text contains matching names or aliases within the supplied lifespan. This helps discovery; it does not prove personal presence, authorship, a complete life story or that similarly named people are identical. Two profiles currently have no matching imported event links. Keep their source entries visible rather than inventing episodes to fill the gap. Newly authored biographies in `people.json` retain their own evidence and focus intervals while appearing in the shared People directory. The two confirmed Xuanzang and Zheng He overlaps are linked for discovery with both source identities preserved; matching names alone do not authorize another identity merge.
+
+The shared Places directory groups exact representative point/name references and exposes nearby histories from all source collections. Its group count is not a verified count of distinct settlements. Gazetteer aliases help readers connect historical names with the reference's modern place descriptions. Matching a name or nearby coordinate does not establish continuous occupation, unchanged boundaries or an uninterrupted institutional history. Era-place rows preserve their source display windows, including source appearance and disappearance constraints. Those dates are not foundation or abandonment dates. A capital flag does not establish continuous capital status for every year in the window.
+
+### Chronicle dates, quotations and map connections
+
+A chapter date organizes a story. It can mark an arrival, appointment or campaign while its paragraph describes several later events. Date the associated works separately when evidence permits. For example, a chapter beginning with Su Shi's Huangzhou exile in 1080 can include works composed in 1082; a poem's composition date can also differ from the date of a surviving manuscript. The [review layer](../dist/data/china-reviews.json) records the supporting evidence and the specific distinction for affected stops.
+
+Keep later literary remembrance distinct from testimony about the dated event. A quotation by a later poet does not inherit the year of the campaign it describes. Classical excerpts and the reference's English translations remain inherited text unless a particular attribution or translation has been checked against an appropriate edition. A review of a poem's date does not validate every quotation in that chronicle.
+
+Qin Shi Huang's and Zhuge Liang's sequences are campaign chronicles. Connecting their battle locations is not proof that either person travelled each leg. The other source chronicles also carry schematic-route notes; exact paths, intermediate stop years and personal presence are not established merely by an ordered list. Preserve specific disagreements, such as Xuanzang's departure chronology or Li Bai's birthplace, instead of forcing uncertain evidence into an exact point and year.
+
+### Frozen originals and separate corrections
+
+The importer records the pinned commit, source file hashes and source-array pointers, then writes bounded chunks with checksums. The frozen output retains original wording, the duplicate and held ledgers, and the four initial neutral display amendments. Do not rewrite that baseline in order to make a later correction look like source text.
+
+Use `china-reviews.json` for subsequent changes. An event review identifies an existing record, the changed fields, a bilingual explanation, sources and review date. A chronicle review identifies both the journey and stop and retains the original year, text and quotation for comparison. The application applies this layer to copies; the source files and their hashes remain intact. New original essays can supply deeper context through related-reading links while the inherited record remains available.
+
+Review scope matters: an event can have a checked date or a corrected display summary while other inherited details remain provisional. A chronicle annotation can flag a compound date using the source's own wording, or cite independent scholarship for a specific correction. Say which occurred. Keep source notes and original text inspectable, show local date caveats beside the relevant chapter, and preserve disputed interpretations as attributed claims rather than silently adopting them.
+
+Import validation checks every source-row pointer, file hash, ledger reference, directory count, date interval, coordinate and application link. Passing these checks establishes accounting and structure. It does not certify historical completeness or independently verify all imported claims. Rights and attribution are documented separately in [CONTENT_LICENSE.md](CONTENT_LICENSE.md) and the [preserved Jiangshan content notice](../dist/data/china-upstream.LICENSE.md).

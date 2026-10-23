@@ -298,5 +298,360 @@
     "kind": "reading-course",
     "estimatedMinutes": 15,
     "evidencePolicy": "Historical claims are supported by the linked atlas records and their source lists. Questions and activities are editorial teaching prompts, not factual assertions or graded quizzes."
+  },
+  {
+    "id": "course-modern-map",
+    "title": {
+      "en": "Why a map needs an exact date",
+      "zh": "地图为何需要准确日期"
+    },
+    "summary": {
+      "en": "Compare modern state transitions with international cooperation. Learn to distinguish a proclamation, a treaty, recognition, autonomy, and sovereignty before reading an outline as historical fact.",
+      "zh": "比较现代国家转型与国际合作。先区分宣告、条约、承认、自治和主权，再把地图轮廓作为历史证据阅读。"
+    },
+    "recordIds": [
+      "german-reunification",
+      "soviet-union-dissolution",
+      "yugoslavia-successor-states",
+      "czechoslovakia-dissolution",
+      "eritrea-referendum-independence",
+      "bougainville-peace-agreement",
+      "timor-leste-independence",
+      "south-sudan-independence",
+      "maastricht-european-union",
+      "african-union-launch"
+    ],
+    "routeIds": [],
+    "questions": [
+      {
+        "en": "What would change between maps dated 1 January and 31 December 1990? What about 2011?",
+        "zh": "1990年1月1日与12月31日的地图会有哪些不同？2011年又如何？"
+      },
+      {
+        "en": "Why do autonomy, membership in an international organization, and independent statehood need different map symbols?",
+        "zh": "为什么自治、国际组织成员身份与独立国家地位需要不同地图符号？"
+      },
+      {
+        "en": "Which evidence tells you when an institution changed, and which evidence would you need to reconstruct its borders?",
+        "zh": "什么证据能说明制度何时改变？重建其边界又需要哪些证据？"
+      }
+    ],
+    "activity": {
+      "en": "Choose two transitions. Record each effective date and name the source. Then label two maps with their actual observation dates, and list what the evidence cannot establish about the intervening period.",
+      "zh": "选择两次转型，记录各自的生效日期与来源。随后用实际观察日期标注两张地图，并列出证据无法确定的中间时期情况。"
+    },
+    "kind": "reading-course",
+    "estimatedMinutes": 20,
+    "evidencePolicy": "Historical claims are supported by the linked atlas records and their source lists. Questions and activities are editorial teaching prompts, not factual assertions or graded quizzes."
+  },
+  {
+    "id": "course-imperial-successions",
+    "title": {
+      "en": "From empires to new political orders",
+      "zh": "从帝国到新的政治秩序"
+    },
+    "summary": {
+      "en": "Follow three connected histories: Abbasid and Ottoman rule, Company and Crown government in India, and the transitions from Qing rule. Compare conquest, transfer of government, revolution and constitutional adoption. Each change has its own date and evidence.",
+      "zh": "沿三条相互参照的线索学习：阿拔斯与奥斯曼统治、印度的公司及王室政府，以及清朝之后的转型。比较征服、治理权转移、革命和制宪，分别寻找各自日期与证据。"
+    },
+    "recordIds": [
+      "abbasid-caliphate",
+      "baghdad-foundation",
+      "baghdad-sack-1258",
+      "ottoman-empire",
+      "turkish-republic-proclamation",
+      "mughal-empire",
+      "battle-plassey",
+      "crown-rule-india",
+      "south-asia-independence-partition",
+      "india-constitution",
+      "qing-dynasty",
+      "xinhai-revolution",
+      "prc-proclamation"
+    ],
+    "routeIds": [],
+    "questions": [
+      {
+        "en": "Which changes replace a ruling dynasty, which transfer governing authority, and which create a new form of government?",
+        "zh": "哪些变化更换统治王朝，哪些转移治理权，哪些建立新的政体？"
+      },
+      {
+        "en": "What can a proclamation or constitution establish about an institution, and what additional evidence is needed to map actual control?",
+        "zh": "宣言或宪法能说明制度的哪些方面？绘制实际控制范围还需要什么证据？"
+      },
+      {
+        "en": "How do Baghdad's later Abbasid successors, India's princely states and China's post-1949 political division complicate a single 'before and after' story?",
+        "zh": "巴格达之后的阿拔斯继承者、印度土邦及1949年后的中国政治分治，如何使单一“前后对比”的故事复杂化？"
+      }
+    ],
+    "activity": {
+      "en": "Choose one of the three sequences. Build a four-column evidence table: event, effective date, governing institution and what remains uncertain. Use at least one primary document from a record's sources. Then write a two-sentence map caption that states the observation year and avoids claiming more territorial precision than the evidence supports.",
+      "zh": "选择一条线索，制作四列表格：事件、生效日期、治理机构及仍不确定之处。至少使用条目来源中的一份一手文献，再写两句地图说明，注明观察年份，并避免声称证据无法支持的疆域精度。"
+    },
+    "kind": "reading-course",
+    "estimatedMinutes": 35,
+    "evidencePolicy": "Historical claims are supported by the linked atlas records and their source lists. Questions and activities are editorial teaching prompts, not factual assertions or graded quizzes."
+  },
+  {
+    "id": "course-records-routes-knowledge",
+    "title": {
+      "en": "How records, routes and skills connect worlds",
+      "zh": "记录、通道与技艺如何连接世界"
+    },
+    "summary": {
+      "en": "Move from Mesopotamian accounts and Korean script design to steam technology, canals, railways and Pacific navigation. Compare the practical knowledge behind a connection with the institutions and labour that make it work.",
+      "zh": "从美索不达米亚账目和朝鲜文字设计，读到蒸汽技术、运河、铁路及太平洋导航。比较连接世界所需的实用知识，以及使之运作的制度与劳动。"
+    },
+    "recordIds": [
+      "uruk-writing",
+      "ur-third-dynasty",
+      "baghdad-foundation",
+      "person-al-khwarizmi",
+      "hangul-promulgation",
+      "watt-separate-condenser",
+      "straits-settlements-formation",
+      "suez-canal-opening",
+      "transcontinental-railroad",
+      "person-tupaia",
+      "hokulea-first-voyage"
+    ],
+    "routeIds": [],
+    "questions": [
+      {
+        "en": "What can a ration tablet, a writing manual, a patent and a navigator's account each reveal that the others cannot?",
+        "zh": "配给泥板、文字说明书、专利和航海者叙述，各能提供哪些其他材料无法提供的信息？"
+      },
+      {
+        "en": "Where do these connections depend on state support, and where do they depend on expertise maintained by communities?",
+        "zh": "哪些连接依靠国家支持，哪些依靠社群持续传承的专业知识？"
+      },
+      {
+        "en": "Who supplied the labour or knowledge, who gained access, and whose land or authority was affected?",
+        "zh": "谁提供劳动或知识，谁获得新的通达机会，谁的土地或权力受到影响？"
+      }
+    ],
+    "activity": {
+      "en": "Pick one written record and one transport or navigation case. For each, list the skill, material, people and institution required. Cite a specific object or document from the source list. Finish with a comparison explaining one benefit and one limitation of treating a connection as a simple line on a map.",
+      "zh": "选择一种文字记录和一种交通或导航案例，分别列出所需技艺、材料、人员与机构，并引用来源表中的具体实物或文献。最后比较：把联系画成地图上的一条线，有什么帮助，又有什么局限？"
+    },
+    "kind": "reading-course",
+    "estimatedMinutes": 30,
+    "evidencePolicy": "Historical claims are supported by the linked atlas records and their source lists. Questions and activities are editorial teaching prompts, not factual assertions or graded quizzes."
+  },
+  {
+    "id": "course-paths-self-government",
+    "title": {
+      "en": "Many paths to independence and self-government",
+      "zh": "独立与自治的多种道路"
+    },
+    "summary": {
+      "en": "Compare independence, federation, union and territorial self-government across Latin America, Africa, Asia, the Arctic and the Pacific. Read founding documents alongside the institutions that followed, and separate changing statehood from the rights of every person within it.",
+      "zh": "比较拉丁美洲、非洲、亚洲、北极与太平洋的独立、联邦、联合及地区自治。把建国文件与随后制度并读，区分国家地位变化与其内部每个人的权利变化。"
+    },
+    "recordIds": [
+      "paraguay-independence",
+      "brazil-independence",
+      "gran-colombia",
+      "ceylon-independence",
+      "burma-independence",
+      "malaya-independence",
+      "nigeria-independence",
+      "kenya-independence",
+      "tanganyika-zanzibar-union",
+      "fiji-independence",
+      "papua-new-guinea-independence",
+      "nunavut-creation"
+    ],
+    "routeIds": [],
+    "questions": [
+      {
+        "en": "Which cases retain a monarchy at independence, which become republics, and which reorganize territory within an existing state?",
+        "zh": "哪些案例独立时保留君主，哪些成为共和国，哪些只在现有国家内部重新组织地区？"
+      },
+      {
+        "en": "How do the formation of Gran Colombia and the Tanganyika–Zanzibar union compare with later separation or territorial creation?",
+        "zh": "大哥伦比亚的建立及坦噶尼喀—桑给巴尔联合，与后来的分离或地区创设有什么异同？"
+      },
+      {
+        "en": "Why are independence, abolition of slavery, voting rights and Indigenous treaty rights different historical questions?",
+        "zh": "为什么独立、废除奴隶制、选举权及原住民条约权利，是不同的历史问题？"
+      }
+    ],
+    "activity": {
+      "en": "Select three cases from different regions. Make a comparison with the legal act, its date, the new institution and a question it did not settle. Classify each as independence, constitutional change, union or internal territorial creation. Explain your classification using the linked documents rather than the shape or colour of a map.",
+      "zh": "从不同地区选三个案例，比较法律文件、日期、新机构及尚未解决的问题，将其归为独立、宪制变化、联合或内部地区创设。依据所引文献解释分类，而不是根据地图形状或颜色判断。"
+    },
+    "kind": "reading-course",
+    "estimatedMinutes": 35,
+    "evidencePolicy": "Historical claims are supported by the linked atlas records and their source lists. Questions and activities are editorial teaching prompts, not factual assertions or graded quizzes."
+  },
+  {
+    "id": "course-printing-surviving-evidence",
+    "title": {
+      "en": "Printing: invention, editions and surviving evidence",
+      "zh": "印刷：技术、版本与存世证据"
+    },
+    "summary": {
+      "en": "Read a dated Chinese scroll, Bi Sheng’s reported clay-type process, Korean Buddhist printing and Gutenberg’s Bible. Compare what an object, a later account and a collection catalogue can each establish.",
+      "zh": "并读有纪年的中国经卷、毕昇胶泥活字的记述、韩国佛教印刷与古腾堡《圣经》，比较实物、后来的记载及馆藏目录分别能够证明什么。"
+    },
+    "recordIds": [
+      "diamond-sutra-868",
+      "china-landmark-497",
+      "tripitaka-koreana-carving",
+      "jikji-metal-type",
+      "gutenberg-printing"
+    ],
+    "routeIds": [],
+    "questions": [
+      {
+        "en": "Which dates identify a surviving edition, a reported technical development or a multi-year project?",
+        "zh": "哪些年份标示存世版本，哪些对应文献记载的技术发展，哪些代表多年工程？"
+      },
+      {
+        "en": "How does the earliest surviving dated example differ from the first use of a technique?",
+        "zh": "最早存世且有纪年的实例，与某项技术的首次使用有何区别？"
+      },
+      {
+        "en": "What evidence would be needed before drawing a direct transmission route between these places?",
+        "zh": "若要在这些地点之间画出直接传播路线，还需要哪些证据？"
+      }
+    ],
+    "activity": {
+      "en": "Make a five-row evidence table: material, technique, what the date measures, discovery or storage place, and a claim the source does not establish. Open the Bi Sheng entry’s original wording and review note to see how a source-derived event can be corrected without losing its provenance.",
+      "zh": "制作五行证据表，列出材料、技术、年份含义、发现或保存地点，以及来源无法证实的说法。打开毕昇条目的原始措辞和核查说明，观察如何在保留出处的同时订正引入记录。"
+    },
+    "estimatedMinutes": 25,
+    "kind": "reading-course",
+    "evidencePolicy": "Historical claims are supported by the linked records and their item-specific evidence. Inherited records retain their review status. Questions and activities are editorial teaching prompts, not new factual claims or graded quizzes."
+  },
+  {
+    "id": "course-water-cities-maintenance",
+    "title": {
+      "en": "Water, cities and the work of maintenance",
+      "zh": "水、城市与维护工程的劳动"
+    },
+    "summary": {
+      "en": "Compare water systems across China, Sri Lanka, Myanmar, Cambodia and the Andes. Study how the same map symbol can stand for a local structure, a settlement landscape or a network extending far beyond one point.",
+      "zh": "比较中国、斯里兰卡、缅甸、柬埔寨及安第斯地区的水利体系，思考同一个地图符号如何分别代表局部工程、聚落景观或远超一个点位的网络。"
+    },
+    "recordIds": [
+      "liangzhu",
+      "china-landmark-089",
+      "grand-canal-network",
+      "pyu-irrigated-cities",
+      "sigiriya-royal-landscape",
+      "polonnaruwa-irrigated-capital",
+      "angkor",
+      "chimu-chan-chan"
+    ],
+    "routeIds": [],
+    "questions": [
+      {
+        "en": "What work moved, stored or diverted water, and what evidence identifies its purpose?",
+        "zh": "哪些工程用于输水、储水或分水？其功能依据什么证据判断？"
+      },
+      {
+        "en": "Where do the date notes separate construction, use, modification and modern survival?",
+        "zh": "年代说明如何区分修建、使用、改建与保存至今？"
+      },
+      {
+        "en": "How far can these sources take us in identifying the people who built and maintained a system?",
+        "zh": "这些来源能在多大程度上帮助我们认识修建和维护体系的人们？"
+      }
+    ],
+    "activity": {
+      "en": "Choose one river-diversion system, one urban landscape and one transport network. Sketch their functions and list what the representative map point leaves out. Explain why a construction date is not evidence that maintenance ended or that a system stayed unchanged.",
+      "zh": "各选一个分水体系、城市景观和运输网络，画出其功能关系，并列出地图代表点无法呈现的内容。解释为什么修建年代不能证明维护已结束，也不能证明体系此后一直不变。"
+    },
+    "estimatedMinutes": 30,
+    "kind": "reading-course",
+    "evidencePolicy": "Historical claims are supported by the linked records and their item-specific evidence. Inherited records retain their review status. Questions and activities are editorial teaching prompts, not new factual claims or graded quizzes."
+  },
+  {
+    "id": "course-african-courts-crafts-connections",
+    "title": {
+      "en": "African histories through cities, courts and craft",
+      "zh": "从城市、宫廷与工艺读非洲历史"
+    },
+    "summary": {
+      "en": "Follow several regional sequences through material objects, religious buildings and trading places. Compare Nok and Ife, Aksum and later Ethiopian capitals, and the southern African and Atlantic settings represented by Mapungubwe and Mbanza Kongo.",
+      "zh": "沿实物、宗教建筑与贸易地点阅读多条区域历史线索，比较诺克与伊费、阿克苏姆与后来的埃塞俄比亚都城，以及马蓬古布韦和姆班扎刚果所在的非洲南部与大西洋环境。"
+    },
+    "recordIds": [
+      "nok-terracotta-workshops",
+      "ife-sculpture-workshops",
+      "aksum-ezana-christianity",
+      "lalibela-rock-hewn-churches",
+      "gondar-permanent-capital",
+      "mapungubwe-hill-kingdom",
+      "kilwa",
+      "mbanza-kongo-christian-court",
+      "timbuktu"
+    ],
+    "routeIds": [],
+    "questions": [
+      {
+        "en": "Which interpretations rest on objects, archaeology, written accounts or a combination of them?",
+        "zh": "哪些解释依据实物、考古、文字记载或多种证据结合？"
+      },
+      {
+        "en": "What would justify a claim of continuity between two societies, beyond their being in the same modern country?",
+        "zh": "除了位于同一个现代国家，还需要什么证据才能说明两个社会之间具有连续性？"
+      },
+      {
+        "en": "How do the sources distinguish local choices and institutions from wider networks of exchange?",
+        "zh": "来源如何区分地方选择与制度，以及更广的交流网络？"
+      }
+    ],
+    "activity": {
+      "en": "Build three regional timelines. Put objects and buildings on them using the full date ranges given in the entries, and mark uncertainty. Write one comparison about evidence or institutions without treating one sequence as a universal ladder of development.",
+      "zh": "制作三条区域年表，按条目给出的完整年代范围标出实物与建筑，并注明不确定性。围绕证据或制度写一段比较，避免把某条历史线索当作普遍的发展阶梯。"
+    },
+    "estimatedMinutes": 35,
+    "kind": "reading-course",
+    "evidencePolicy": "Historical claims are supported by the linked records and their item-specific evidence. Inherited records retain their review status. Questions and activities are editorial teaching prompts, not new factual claims or graded quizzes."
+  },
+  {
+    "id": "course-documents-claims-rights",
+    "title": {
+      "en": "Reading documents: claims, authority and rights",
+      "zh": "阅读文献：主张、权威与权利"
+    },
+    "summary": {
+      "en": "Compare royal inscriptions, citizenship decrees, declarations and constitutions. Ask who authored each text, whom it addressed and how the document’s claims differ from evidence about its implementation.",
+      "zh": "比较王室铭文、公民权法令、宣言与宪法，追问每份文献由谁制作、面向谁，以及文献中的主张与实际执行的证据有何区别。"
+    },
+    "recordIds": [
+      "cyrus-babylon-cylinder",
+      "caracalla-citizenship-edict",
+      "he-whakaputanga-declaration",
+      "us-declaration-independence",
+      "mexico-constitution-1917",
+      "japan-postwar-constitution",
+      "cook-islands-self-government"
+    ],
+    "routeIds": [],
+    "questions": [
+      {
+        "en": "Who speaks in the text, and which people appear as recipients, subjects or participants?",
+        "zh": "文献由谁发声？哪些人是接受者、统治对象或参与者？"
+      },
+      {
+        "en": "Which entries distinguish adoption, signature, proclamation and entry into force?",
+        "zh": "哪些条目区分通过、签署、颁布与生效？"
+      },
+      {
+        "en": "What evidence beyond the document would help establish whether its promises changed daily life?",
+        "zh": "除文献本身之外，还需要哪些证据来判断其中承诺是否改变了日常生活？"
+      }
+    ],
+    "activity": {
+      "en": "Choose three documents from different regions. For each, record its date, speaker, claimed authority, included or excluded groups and one question that requires another source. Keep historical legal texts separate from assumptions about present-day law.",
+      "zh": "从不同地区选三份文献，分别记录日期、发言者、所宣示的权威、被纳入或排除的人群，以及一个必须另查来源的问题。区分历史法律文本与对当今法律的推断。"
+    },
+    "estimatedMinutes": 35,
+    "kind": "reading-course",
+    "evidencePolicy": "Historical claims are supported by the linked records and their item-specific evidence. Inherited records retain their review status. Questions and activities are editorial teaching prompts, not new factual claims or graded quizzes."
   }
 ]

@@ -30,6 +30,8 @@ Each record contains:
 | `locationPrecision` | `representative` for narrative location markers |
 | `kind` | Explicit `polity`, `event`, `place`, `idea`, `culture` or `person` |
 | `sources` | Nonempty list of `title`, `publisher`, and credential-free HTTPS `url` |
+| `keyFacts.en`, `keyFacts.zh` | Optional matching lists of concise, source-supported observations |
+| `relatedIds` | Optional existing record IDs for related reading; no self-reference |
 
 The supported date range is currently 13,000 BCE–2026 CE. Extending it requires updating the core time bounds, slider anchors and UI wording together. The end of an editorial interval must not imply the extinction of a living people or culture.
 
@@ -59,7 +61,7 @@ Validate `personIds` and `relatedIds` against the combined history and people co
 
 ## Guided readings and study guides
 
-The six original reading definitions are in `dist/journeys.mjs`; the validator imports them directly. Eight study guides are in `dist/data/courses.json`, with `recordIds`, `routeIds`, bilingual questions, an activity and an evidence policy.
+Guided reading definitions are in `dist/journeys.mjs`; the validator imports them directly. Study guides are in `dist/data/courses.json`, with `recordIds`, `routeIds`, bilingual questions, an activity and an evidence policy.
 
 All referenced records and routes must exist. The `world-1200` reading holds the exact year at 1200 CE, so every stop must include 1200 and the sequence must support its stated regional coverage. Check both the description and source evidence when changing a sequence.
 
@@ -71,7 +73,9 @@ Read [MAP_METHODOLOGY.md](docs/MAP_METHODOLOGY.md) before changing historical ge
 
 Preserve source-specific files and notices. A new feature needs a supported snapshot date, an immutable geometry source, appropriate attribution, a clear geographic meaning and a documented review scope. When updating `dist/data/map-snapshots.json`, keep layer hashes, counts and feature membership consistent with the actual data. Record transformations and exclusions.
 
-Never fill a gap with a capital-centered circle, a modern border or an unsupported sketch. Do not interpolate sovereignty between snapshot dates. Check spherical winding, antimeridian behavior, holes and degenerate geometry, as well as whether the named polity and depicted area belong in that year.
+Never fill a gap with a capital-centered circle, a modern border or an unsupported sketch. Do not interpolate sovereignty. Outside its source year, a shape requires `contextValidity` with inclusive civil `start`/`end`, a bilingual scope note, evidence URLs, and an explicit `backwardReviewed` decision. A dynasty lifespan alone is insufficient; the depicted phase and geography must be defensible over the interval. Preserve `sourceYear` and stop extinct or renamed entities at the reviewed transition. `historicalContextFeatures`, `contemporaryFeaturesAt` and `mapCoverage` implement this contract; keep their transition and all-year coverage regressions.
+
+Use `kind: "culture"` for cultural ranges whose political borders are unknown, and explain that distinction. Keep large GeoJSON collections in manifest-listed chunks of at most 450 KB, preserving source licenses and checksums. Contemporary manifest layers distinguish countries from dispute overlays. Check spherical winding, antimeridian behavior, holes and degenerate geometry, as well as whether the named polity and depicted area belong in that year.
 
 ## Run and verify
 
@@ -94,7 +98,7 @@ For content changes, manually review source fit. Automated checks verify structu
 
 Runtime scripts and map geometry are local. Preserve that property. Do not add a CDN, tile service, font service or analytics dependency without a concrete reason and an explicit product decision.
 
-When replacing a vendored reference asset or D3, review its source/license, pin the version or commit, preserve notices, and update `dist/assets/PROVENANCE.json`. Historical geometry uses the separate source records and hashes in `dist/data/map-snapshots.json`. Run the checksum validator after a replacement. Do not merely change a checksum to silence an unexplained difference.
+When replacing a vendored reference asset or D3, review its source/license, pin the version or commit, preserve notices, and update `dist/assets/PROVENANCE.json`. Historical geometry uses the separate source records and hashes in `dist/data/map-snapshots.json`. Contemporary geography uses `dist/data/contemporary-world.json`; preserve its distinct review year, geometry vintage, country/territory categories, dispute qualifiers and excluded outdated control outlines. Run the checksum validator after a replacement. Do not merely change a checksum to silence an unexplained difference.
 
 The old [history-geodata-review.md](docs/history-geodata-review.md) is retained as a v1 decision record. Current historical geometry follows [MAP_METHODOLOGY.md](docs/MAP_METHODOLOGY.md) and the source-specific requirements in [DATA_POLICY.md](docs/DATA_POLICY.md).
 

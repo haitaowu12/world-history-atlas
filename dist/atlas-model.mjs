@@ -35,6 +35,77 @@ export function nearestSnapshot(snapshots,year){
   if(!validYear(year)||!Array.isArray(snapshots))return null;
   return snapshots.filter(s=>validYear(s.year)&&s.year<=year).sort((a,b)=>b.year-a.year)[0]||null;
 }
+// Source dates and reviewed display intervals are separate. A state's lifespan
+// alone is never an implicit permission to reuse a boundary.
+export function exactSnapshot(snapshots,year){
+  if(!validYear(year)||!Array.isArray(snapshots))return null;
+  return snapshots.find(s=>validYear(s.year)&&s.year===year)||null;
+}
+export function featureSourceYear(feature){return feature?.properties?.sourceYear??feature?.properties?.year;}
+export function reviewedIntervalContains(interval,year){
+  return !!interval&&validYear(year)&&validYear(interval.start)&&validYear(interval.end)&&interval.start<=interval.end&&year>=interval.start&&year<=interval.end;
+}
+export function historicalContextFeatures(features,year){
+  if(!validYear(year)||!Array.isArray(features))return [];
+  const choices=new Map();
+  for(const feature of features){
+    const p=feature?.properties;if(!p)continue;
+    const sourceYear=featureSourceYear(feature),key=p.polityId||p.code||p.id;
+    if(!key||!validYear(sourceYear))continue;
+    const exact=sourceYear===year,interval=p.contextValidity;
+    if(!exact&&(!reviewedIntervalContains(interval,year)||(sourceYear>year&&interval.backwardReviewed!==true)))continue;
+    const prior=sourceYear<=year,old=choices.get(key),oldYear=featureSourceYear(old),oldPrior=oldYear<=year;
+    if(!old||(prior&&!oldPrior)||(prior===oldPrior&&(prior?sourceYear>oldYear:sourceYear<oldYear)))choices.set(key,feature);
+  }
+  return [...choices.values()];
+}
+export function featureNameAt(feature,year){
+  const p=feature?.properties||{};
+  return p.namePeriods?.find(period=>reviewedIntervalContains(period,year))?.name||p.name;
+}
+export function featureCategoryAt(feature,year){
+  const p=feature?.properties||{};
+  return p.categoryPeriods?.find(period=>reviewedIntervalContains(period,year))?.category||p.category;
+}
+export function contemporaryFeaturesAt(features,historicalFeatures,year,metadata={}){
+  if(!validYear(year)||!Array.isArray(features))return [];
+  const isReviewYear=year===metadata.reviewedYear;
+  if(!isReviewYear&&!reviewedIntervalContains(metadata.contextValidity,year))return [];
+  const eligible=features.filter(f=>isReviewYear||(reviewedIntervalContains(f.properties?.contextValidity,year)&&(featureSourceYear(f)<=year||f.properties.contextValidity.backwardReviewed===true)));
+  const mapped=new Map(eligible.map(f=>[f.properties.code,f]));
+  for(const fallback of metadata.historicalFallbacks||[]){
+    if(!reviewedIntervalContains(fallback,year))continue;
+    const identity=features.find(f=>f.properties.code===fallback.code);
+    const geometry=historicalContextFeatures((historicalFeatures||[]).filter(f=>f.properties.polityId===fallback.polityId),year)[0];
+    if(identity&&geometry)mapped.set(fallback.code,{...geometry,properties:{...geometry.properties,contemporary:true,code:fallback.code,name:identity.properties.name,namePeriods:identity.properties.namePeriods,category:identity.properties.category,categoryPeriods:identity.properties.categoryPeriods,color:identity.properties.color,referenceFallback:true,sourceYear:featureSourceYear(geometry)}});
+  }
+  return [...mapped.values()];
+}
+export function mapCoverage(snapshots,year,contemporaryMetadata={},features){
+  const empty={mode:'gap',snapshot:null,before:null,after:null,contextFeatures:[],sourceYears:[]};
+  if(!validYear(year)||!Array.isArray(snapshots))return empty;
+  const dated=snapshots.filter(s=>validYear(s.year));
+  const snapshot=exactSnapshot(dated,year);
+  const before=dated.filter(s=>s.year<year).sort((a,b)=>b.year-a.year)[0]||null;
+  const after=dated.filter(s=>s.year>year).sort((a,b)=>a.year-b.year)[0]||null;
+  const contextFeatures=historicalContextFeatures(features,year);
+  const sourceYears=[...new Set(contextFeatures.map(featureSourceYear))].sort((a,b)=>a-b);
+  const contemporary=contemporaryMetadata?.reviewedYear===year||reviewedIntervalContains(contemporaryMetadata?.contextValidity,year);
+  let mode='gap';
+  if(snapshot&&(!Array.isArray(features)||(contextFeatures.length&&sourceYears.every(y=>y===year))))mode='historical';
+  else if(contemporary)mode='contemporary';
+  else if(contextFeatures.length)mode='context';
+  return {mode,snapshot,before,after,contextFeatures:mode==='contemporary'?[]:contextFeatures,sourceYears:mode==='historical'&&!sourceYears.length?[snapshot.year]:mode==='contemporary'?[contemporaryMetadata.geometryVintage]:sourceYears};
+}
+// Coalesce pointer/keyboard slider events while allowing direct navigation to
+// cancel an older queued year before it can overwrite the new view.
+export function createFrameQueue(apply,request,cancel){
+  let frame=null,pending;
+  return {
+    queue(value){pending=value;if(frame===null)frame=request(()=>{frame=null;const value=pending;pending=undefined;apply(value);});},
+    cancel(){if(frame!==null)cancel(frame);frame=null;pending=undefined;}
+  };
+}
 export function previousSnapshot(snapshots,current){return current?nearestSnapshot(snapshots,fromOrdinal(toOrdinal(current.year)-1)):null;}
 export function yearDistance(a,b){return Math.abs(toOrdinal(a)-toOrdinal(b));}
 export function timeWindow(year,span){

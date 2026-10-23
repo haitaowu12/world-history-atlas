@@ -2,10 +2,16 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import {readFile} from 'node:fs/promises';
 import {validYear, toOrdinal, validateRecords, safeSourceURL} from '../dist/core.mjs';
+import {applyChinaReviews,linkChinaContext} from '../dist/china-review.mjs';
+import {chinaRoutes} from '../dist/china-library.mjs';
 
 const readData = async name => JSON.parse(await readFile(new URL(`../dist/data/${name}.json`, import.meta.url), 'utf8'));
 const [history, people, routes, courses] = await Promise.all(['history', 'people', 'routes', 'courses'].map(readData));
-const records = [...history, ...people];
+const [manifest,library,reviews] = await Promise.all(['china-import-manifest','china-library','china-reviews'].map(readData));
+const chunks = await Promise.all(manifest.eventFiles.map(f=>readData(f.path.replace(/\.json$/,''))));
+const reviewed = applyChinaReviews(chunks.flat(),library,reviews);
+routes.push(...chinaRoutes(reviewed.library,manifest));
+const records = [...history, ...people, ...linkChinaContext(reviewed.events,[...history,...people])];
 const recordIds = new Set(records.map(record => record.id));
 const personIds = new Set(people.map(person => person.id));
 const routeIds = new Set(routes.map(route => route.id));

@@ -1,0 +1,820 @@
+{
+  "schemaVersion": 1,
+  "reviewedAt": "2026-10-23",
+  "policy": "Targeted, independently sourced corrections to a frozen import. These reviews do not certify the rest of the inherited collection or reconstruct exact travel routes.",
+  "eventReviews": [
+    {
+      "id": "china-landmark-089",
+      "patch": {
+        "title": {
+          "en": "Dujiangyan: managing river water and sediment",
+          "zh": "都江堰：调节水流与泥沙"
+        },
+        "theme": "knowledge",
+        "summary": {
+          "en": "Dujiangyan diverts part of the Min River towards the Chengdu Plain while managing floods and sediment. Its principal works divide the flow, discharge excess water and control the inlet. UNESCO dates the system’s beginnings to around 256 BCE; later dynasties modified and enlarged it. The surviving waterworks therefore represent a long history of maintenance and adaptation, rather than an unchanged structure completed in a single year.",
+          "zh": "都江堰把岷江部分水流引向成都平原，同时调节洪水与泥沙。主要工程分别承担分流、泄洪和控制进水的作用。联合国教科文组织的概述将其始建时间定为约公元前256年；后代不断修改和扩建。现存水利体系反映长期维护与调整，并非一年建成后原样保留的工程。"
+        },
+        "dateNote": {
+          "en": "Approximate starting date, c. 256 BCE, following UNESCO’s brief synthesis. The point identifies the waterworks; it does not date every surviving component or establish Li Bing’s exact movements.",
+          "zh": "约公元前256年为依据联合国教科文组织概述采用的近似始建年代。点位标示水利工程，不表示现存全部构件均属此年，也不复原李冰的具体行踪。"
+        },
+        "location": {
+          "lon": 103.60528,
+          "lat": 31.00167,
+          "label": "Dujiangyan waterworks, Sichuan · 都江堰水利工程"
+        },
+        "relatedIds": [
+          "liangzhu",
+          "grand-canal-network"
+        ]
+      },
+      "note": {
+        "en": "Reviewed scope: approximate origin, engineering functions and later modifications. The inherited exact-year phrasing and immediate “Land of Plenty” claim have been replaced. This is not an independent archaeological dating of the entire complex.",
+        "zh": "核查范围：近似始建年代、工程功能及后世改建。原资料的精确年份措辞及随即成为“天府之国”的说法已替换；此项核查并非对整个工程作独立考古断代。"
+      },
+      "sources": [
+        {
+          "title": "Mount Qingcheng and the Dujiangyan Irrigation System",
+          "url": "https://whc.unesco.org/en/list/1001/",
+          "publisher": "UNESCO World Heritage Centre",
+          "checkedAt": "2026-10-23",
+          "evidenceNote": "Brief synthesis gives c. 256 BCE, the three principal engineering functions and later modifications. The page’s criterion (iv) contains a conflicting second-century wording; the review follows the brief synthesis and third-century introductory description."
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-497",
+      "patch": {
+        "title": {
+          "en": "Bi Sheng: reusable clay printing type",
+          "zh": "毕昇：可重复排用的胶泥活字"
+        },
+        "start": 1041,
+        "end": 1048,
+        "summary": {
+          "en": "Shen Kuo’s account describes Bi Sheng making separate characters from clay, firing them and arranging them for printing. After a page was printed, the characters could be reused. The Asian Art Museum dates this development to 1041–1048. It formed part of a wider printing culture in which woodblocks continued to serve many purposes; the appearance of movable type did not make woodblock printing disappear.",
+          "zh": "沈括记述毕昇以胶泥制作单个字，烧制后排列印刷，印完可以重新排用。亚洲艺术博物馆将这一发展定在1041—1048年。当时印刷文化仍广泛使用雕版；活字的出现并未使雕版印刷立即消失。"
+        },
+        "dateNote": {
+          "en": "1041–1048 is the source-supported range, replacing the inherited single year 1047. The retained Kaifeng point is a Northern Song regional reference, not a verified workshop location or proof that Bi Sheng worked there.",
+          "zh": "依据来源采用1041—1048年区间，替换原条目的单一年份1047。保留的开封点位仅作北宋区域参照，不是经核实的作坊位置，也不能证明毕昇在此工作。"
+        },
+        "location": {
+          "lon": 114.35,
+          "lat": 34.79,
+          "label": "Northern Song context near Kaifeng; workshop location unverified · 北宋区域参照，作坊地点未核实"
+        },
+        "relatedIds": [
+          "northern-song",
+          "diamond-sutra-868"
+        ]
+      },
+      "note": {
+        "en": "Reviewed scope: the reported 1041–1048 development and clay-type process. The original claim of a precisely dated invention in Kaifeng is not retained. The map point provides regional context only.",
+        "zh": "核查范围：记载中的1041—1048年区间及胶泥活字工艺。不沿用原资料关于在开封某年发明的精确说法；地图点位仅供区域定位。"
+      },
+      "sources": [
+        {
+          "title": "The Invention of Woodblock Printing in the Tang and Song Dynasties",
+          "url": "https://education.asianart.org/resources/the-invention-of-woodblock-printing-in-the-tang-and-song-dynasties/",
+          "publisher": "Asian Art Museum",
+          "checkedAt": "2026-10-23",
+          "evidenceNote": "Dates Bi Sheng’s movable clay type to 1041–1048 and explains Shen Kuo’s account; does not identify a verified Kaifeng workshop."
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-228",
+      "patch": {
+        "title": {
+          "en": "105: Cai Lun’s reported presentation of improved paper",
+          "zh": "105年：蔡伦奏呈改进纸张的记载"
+        },
+        "location": {
+          "lon": 112.45,
+          "lat": 34.62,
+          "label": "Luoyang; representative Eastern Han court location, not Cai Lun’s birthplace"
+        },
+        "summary": {
+          "en": "Historical accounts associate Cai Lun with presenting improved writing paper to the Han court in 105 CE. Archaeological evidence for older paper means this date should not be presented as the beginning of all papermaking. The distinction matters because written histories can attach a craft practiced by many workers to one court official. The map point is now the representative court center at Luoyang, rather than a birthplace associated with Cai Lun. It identifies the setting of the reported presentation without claiming the location of a surviving workshop.",
+          "zh": "史书记载蔡伦于公元105年向汉廷奏呈改进的书写用纸。已有更早纸张的考古证据，因此不能把105年解释为所有造纸活动的起点。这一区别提醒我们：文字史料可能把许多工匠参与的技术发展归于一位宫廷官员。地图点现为代表东汉宫廷的洛阳，而非与蔡伦籍贯相关的地点；它说明奏呈记载的背景，不表示已经找到作坊遗址。"
+        },
+        "dateNote": {
+          "en": "105 CE is the traditional court-presentation date; archaeological paper predates it. Luoyang is a representative court location.",
+          "zh": "105年为传统记载中的奏呈年代，考古纸张早于此时；洛阳为宫廷代表点。"
+        }
+      },
+      "sources": [
+        {
+          "title": "The Woman Who Invented Notepaper: Towards a Comparative Historiography of Paper and Print",
+          "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/F4EDF2184F186400C08920F227007F29/S1356186311000186a.pdf/the-woman-who-invented-notepaper-towards-a-comparative-historiography-of-paper-and-print.pdf",
+          "publisher": "T. H. Barrett; Journal of the Royal Asiatic Society / Cambridge University Press",
+          "evidenceNote": "Inspected scholarly PDF, especially pp.203–204: earlier archaeological paper and the recorded presentation of improved writing paper in 105 CE are distinct claims.",
+          "checkedAt": "2026-10-23",
+          "access": "full-page-text"
+        },
+        {
+          "title": "Origins of paper",
+          "url": "https://www.cabinet.ox.ac.uk/node/7013",
+          "publisher": "University of Oxford, Cabinet",
+          "evidenceNote": "Indexed institutional text contrasts the Cai Lun tradition with archaeological evidence for earlier paper. Full-page retrieval failed; used as limited corroboration, not as inspected full text.",
+          "checkedAt": "2026-10-23",
+          "access": "indexed-excerpt-only"
+        }
+      ],
+      "note": {
+        "en": "Qualified the invention claim and corrected the representative location to match the court-presentation narrative. Oxford corroboration is indexed-only.",
+        "zh": "限定发明论断，并使代表点与奏呈宫廷的叙述一致；牛津补充来源仅读取到索引摘录。"
+      }
+    },
+    {
+      "id": "china-event-donghan-006",
+      "patch": {
+        "start": 69,
+        "end": 70,
+        "title": {
+          "en": "69–70: Wang Jing’s Yellow River and canal works",
+          "zh": "69—70年：王景治理黄河与汴渠"
+        },
+        "summary": {
+          "en": "Official historical summaries place Wang Jing’s major Yellow River and Bian canal works in 69–70 CE. Coordinated embankments and channel management linked flood control with transport. The inherited phrase suggesting a thousand years of uninterrupted tranquillity is omitted: a successful engineering episode does not prove the absence of later floods or unchanged geography. Nor should these works be dated to 11 CE merely because a source schematic begins one river-course display window in that year. Engineering chronology and the source map’s display rules are different kinds of evidence.",
+          "zh": "官方历史概述把王景的重要黄河、汴渠治理工程置于69—70年，筑堤与水道治理将防洪和运输联系起来。本条删去容易被理解为千年没有洪水的笼统表述：一次工程的成效并不证明此后无灾，或水文地理始终不变。同样，不能因为来源示意图从公元11年开始显示某条河道，就把王景工程定为11年。施工年代与地图资料的显示规则属于不同证据。"
+        },
+        "dateNote": {
+          "en": "69–70 CE is a qualified engineering focus based on indexed official accounts; source-defined river display windows are not construction dates.",
+          "zh": "依据官方索引记述采用69—70年的工程关注期；来源河道的显示窗口不是施工年代。"
+        }
+      },
+      "sources": [
+        {
+          "title": "王景治河",
+          "url": "https://www.yrcc.gov.cn/hhwh/wxyc/202403/t20240323_427890.html",
+          "publisher": "黄河水利委员会 / Yellow River Conservancy Commission",
+          "evidenceNote": "Indexed official account describes coordinated Yellow River and Bian canal works. Full-page retrieval failed; the displayed chronology is a qualified reading of indexed official evidence, not a reconstructed river survey.",
+          "checkedAt": "2026-10-23",
+          "access": "indexed-excerpt-only"
+        },
+        {
+          "title": "王景：河汴同治千载安澜",
+          "url": "https://slt.xinjiang.gov.cn/xjslt/c114449/202412/b99b1e4abb51420295593a4b67cd819f.shtml",
+          "publisher": "新疆维吾尔自治区水利厅",
+          "evidenceNote": "Indexed official account places the imperial decision in 69 CE and describes completion after about a year. Full retrieval timed out; the institutional accounts may share their underlying tradition.",
+          "checkedAt": "2026-10-23",
+          "access": "indexed-excerpt-only"
+        }
+      ],
+      "note": {
+        "en": "Narrow chronology qualification using indexed official accounts; full-page retrieval failed and no boundary or river-course geometry was independently verified.",
+        "zh": "利用官方索引记述作有限编年限定；全文读取失败，未独立核实边界或河道几何。"
+      }
+    },
+    {
+      "id": "china-event-ming-014",
+      "patch": {
+        "title": {
+          "en": "1433: the final expedition in Zheng He’s seven-voyage series",
+          "zh": "1433年：郑和七次远航系列的最后一次返航"
+        },
+        "summary": {
+          "en": "The final expedition in the court-sponsored series returned in 1433. This date anchors the end of that series, rather than proving that every form of seafaring stopped or that a separate maritime prohibition began in precisely that year. The fleets connected ports, carried envoys and goods, and drew on coastal knowledge preserved in later navigational compilations. Surviving maps also have publication histories of their own: the Mao Kun material should not be mistaken for a newly surveyed map from the year of the final return.",
+          "zh": "这一宫廷资助的远航系列最后一次于1433年返航。该年用于标记这一系列的终点，并不证明所有航海活动随即停止，也不能单凭它确定另一项海禁政策的起始年。船队连接港口，运载使节与货物，并依赖沿海航海知识，其中一些后来收入航海图编。留存地图也有自身的出版史，不能把茅坤图材料误作最后返航当年新测绘的地图。"
+        },
+        "dateNote": {
+          "en": "1433 marks the final return of the expedition series, not a universal end to maritime activity or an independently established policy date.",
+          "zh": "1433年标记这一远航系列的最后返航，不是所有海上活动的终点，也不是单独核定的政策实施日。"
+        }
+      },
+      "sources": [
+        {
+          "title": "Stories from the Stacks: Admiral Zheng He’s Navigation Map",
+          "url": "https://biblioasia.nlb.gov.sg/all-sections/stacks/",
+          "publisher": "National Library Board, Singapore",
+          "evidenceNote": "Inspected lines 105–107 give Zheng He’s dates as 1371–1433/35 and distinguish the later published Mao Kun Map from its earlier navigational material. Used for uncertainty, not proof of a death at Calicut.",
+          "checkedAt": "2026-10-23",
+          "access": "full-page-text"
+        },
+        {
+          "title": "郑和船队七次下西洋",
+          "url": "https://www.wti.ac.cn/wti/zhls/7351.jhtml",
+          "publisher": "上海中国航海博物馆；郑和研究会 / China Maritime Museum; Zheng He Research Association",
+          "evidenceNote": "Inspected museum-supplied text describes a Malacca depot under the third voyage, 1409–1411, quoting the storehouse account. Its Galle placement under the second voyage differs from UNESCO’s third-voyage account; no exact erection year or surveyed depot site is adopted.",
+          "checkedAt": "2026-10-23",
+          "access": "full-page-text"
+        }
+      ],
+      "note": {
+        "en": "Removed the unsupported immediate causal link between the final voyage and a blanket maritime prohibition.",
+        "zh": "删去最后一次航行与全面海禁之间未经支持的直接因果断言。"
+      }
+    },
+    {
+      "id": "china-landmark-414",
+      "patch": {
+        "start": 1433,
+        "end": 1435,
+        "title": {
+          "en": "1433/35: uncertainty around the end of Zheng He’s life",
+          "zh": "1433／1435年：郑和晚年年代的不确定性"
+        },
+        "location": {
+          "lon": 75.78,
+          "lat": 11.26,
+          "label": "Kozhikode/Calicut; representative final-voyage port, not a verified death or burial site"
+        },
+        "summary": {
+          "en": "The National Library Board of Singapore gives Zheng He’s terminal date as 1433/35. That uncertainty is retained here instead of presenting his death at Calicut in 1433 as a settled event. Calicut was a port in the expedition world, so its representative point can help locate the setting of one tradition; it does not establish his death or burial there. The final-voyage chronology, a person’s lifespan and later commemorative traditions must be evaluated separately. This entry deliberately leaves the disputed ending unresolved.",
+          "zh": "新加坡国家图书馆把郑和生平终年写为1433／1435年。本条保留这一不确定性，不再把1433年在古里去世写成定论。古里是远航网络中的港口，代表点可帮助理解一种说法的地理背景，但不能证明郑和死于或葬于此处。末次航行编年、人物生卒与后世纪念传统需要分别评价，本条不对有争议的结局作虚构裁定。"
+        },
+        "dateNote": {
+          "en": "Focus on competing terminal-date traditions,1433 or 1435. The interval does not assert that Zheng He lived through 1435 or was at Calicut throughout it.",
+          "zh": "关注1433年或1435年两种终年传统；该区间不断言郑和确实活到1435年，也不表示这几年一直在古里。"
+        }
+      },
+      "sources": [
+        {
+          "title": "Stories from the Stacks: Admiral Zheng He’s Navigation Map",
+          "url": "https://biblioasia.nlb.gov.sg/all-sections/stacks/",
+          "publisher": "National Library Board, Singapore",
+          "evidenceNote": "Inspected lines 105–107 give Zheng He’s dates as 1371–1433/35 and distinguish the later published Mao Kun Map from its earlier navigational material. Used for uncertainty, not proof of a death at Calicut.",
+          "checkedAt": "2026-10-23",
+          "access": "full-page-text"
+        }
+      ],
+      "note": {
+        "en": "Qualified the date and removed an asserted death location; this is not a resolution of the historical dispute.",
+        "zh": "限定终年并撤去确定死亡地点的断言；这并不表示争议已经解决。"
+      }
+    }
+  ],
+  "chronicleReviews": [
+    {
+      "journeyId": "china-journey-sushi",
+      "stopId": "china-stop-sushi-004",
+      "classification": "work-date-corroborated",
+      "patch": {},
+      "note": {
+        "en": "1071 anchors the first Hangzhou appointment. The quoted West Lake poem dates to 1073; the chronicle also discusses his later return to Hangzhou. These are separate dates.",
+        "zh": "1071年是首次任职杭州的时间锚点；所引《饮湖上初晴后雨》作于1073年，本段还叙及后来再次到杭州任职，不应均系于1071年。"
+      },
+      "sources": [
+        {
+          "title": "中華經典名句 2025/2026：蘇軾作品選",
+          "url": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/chinese-culture/2025/2526_Classic_sayings_Brief_ul.pdf",
+          "publisher": "Hong Kong Education Bureau",
+          "checkedAt": "2026-10-23",
+          "evidenceNote": "West Lake poem 1073; Dingfengbo and Niannujiao 1082; arrival anchor 1080 is not the date of all Huangzhou works. Read scope: Pages 2, 20, 22 and 30; writing-background passages"
+        }
+      ]
+    },
+    {
+      "journeyId": "china-journey-sushi",
+      "stopId": "china-stop-sushi-005",
+      "classification": "work-date-corroborated",
+      "patch": {
+        "title": {
+          "en": "Mizhou years and poetry",
+          "zh": "密州任职与诗词"
+        }
+      },
+      "note": {
+        "en": "The reference uses 1075 as the Mizhou chapter's anchor. The quoted Shuidiao Getou was composed at Mid-Autumn 1076. Other incidents and works in this chapter retain inherited dates pending review.",
+        "zh": "参考项目以1075年作为密州篇章的锚点；所引《水调歌头》作于1076年中秋。本段其他事迹与作品的具体时间仍待逐项核对。"
+      },
+      "sources": [
+        {
+          "title": "重讀經典(五)：水調歌頭並序、天淨沙秋思、青玉案元夕",
+          "url": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/secondary-edu/lang/CDI020221738_ppt.pdf",
+          "publisher": "Hong Kong Education Bureau; lecture by Chan Wai-shun, Chinese University of Hong Kong",
+          "checkedAt": "2026-10-23",
+          "evidenceNote": "Composition at Mizhou at Mid-Autumn 1076. Read scope: Page 5, writing background of Shuidiao Getou"
+        }
+      ]
+    },
+    {
+      "journeyId": "china-journey-sushi",
+      "stopId": "china-stop-sushi-006",
+      "classification": "compound-date-corroborated",
+      "patch": {
+        "title": {
+          "en": "Xuzhou chapter; later imprisonment in 1079",
+          "zh": "徐州任职；1079年后续诗案"
+        }
+      },
+      "note": {
+        "en": "1077 is the reference anchor for Xuzhou. The Crow Terrace Poetry Case belongs to 1079, after the move to Huzhou; the prison quotation is retrospective within this chapter, not evidence of imprisonment in 1077.",
+        "zh": "1077年是参考项目的徐州时间锚点。乌台诗案发生于1079年调任湖州之后；本段所引狱中诗属于后续经历，不能用来说明1077年已入狱。"
+      },
+      "sources": [
+        {
+          "title": "Calligraphy Treasures by Various Song Masters: Letter by Su Shi (Beiyou Tie)",
+          "url": "https://digitalarchive.npm.gov.tw/opendata/Pub/DetailEng/1023?dep=P&mode=full",
+          "publisher": "National Palace Museum",
+          "checkedAt": "2026-10-23",
+          "evidenceNote": "Su Shi was serving at Huzhou in 1079 and was imprisoned in the eighth lunar month of that year. Read scope: Curatorial introduction, lines 74–76"
+        }
+      ]
+    },
+    {
+      "journeyId": "china-journey-sushi",
+      "stopId": "china-stop-sushi-007",
+      "classification": "multiple-work-dates-corroborated",
+      "patch": {
+        "title": {
+          "en": "Huangzhou exile begins; later literary works",
+          "zh": "黄州贬居起点与后来的作品"
+        }
+      },
+      "note": {
+        "en": "1080 marks the beginning of this Huangzhou chapter. Dingfengbo, Niannujiao: Red Cliff, both Red Cliff rhapsodies and the Cold Food poems date to 1082. The surviving first Red Cliff manuscript is dated 1083 by the National Palace Museum; the Cold Food calligraphy was written after its poems. The anchor does not date every work.",
+        "zh": "1080年是黄州贬居篇章的起点。《定风波》《念奴娇·赤壁怀古》、前后《赤壁赋》及寒食诗作于1082年。故宫博物院将现存《前赤壁赋》墨迹系于1083年，寒食书迹亦晚于诗作；作品创作与墨迹书写时间不可混同。"
+      },
+      "sources": [
+        {
+          "title": "中華經典名句 2025/2026：蘇軾作品選",
+          "url": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/chinese-culture/2025/2526_Classic_sayings_Brief_ul.pdf",
+          "publisher": "Hong Kong Education Bureau",
+          "checkedAt": "2026-10-23",
+          "evidenceNote": "West Lake poem 1073; Dingfengbo and Niannujiao 1082; arrival anchor 1080 is not the date of all Huangzhou works. Read scope: Pages 2, 20, 22 and 30; writing-background passages"
+        },
+        {
+          "title": "前赤壁賦",
+          "url": "https://theme.npm.edu.tw/selection/Article.aspx?sNo=04009295",
+          "publisher": "National Palace Museum",
+          "checkedAt": "2026-10-23",
+          "evidenceNote": "First and second Red Cliff rhapsodies were composed in 1082; this surviving manuscript was made the following year. Read scope: Curatorial introduction"
+        },
+        {
+          "title": "書黃州寒食詩",
+          "url": "https://artsandculture.google.com/asset/the-cold-food-observance-su-shih-1036-1101/SQEuDiFQCfH8Iw?hl=zh-tw",
+          "publisher": "National Palace Museum, museum-authored collection description on Google Arts & Culture",
+          "checkedAt": "2026-10-23",
+          "evidenceNote": "Cold Food poems composed in 1082; calligraphy was written later. The page contains an older birth-year convention, not adopted here. Read scope: Museum collection description"
+        }
+      ]
+    },
+    {
+      "journeyId": "china-journey-sushi",
+      "stopId": "china-stop-sushi-009",
+      "classification": "quotation-date-corroborated",
+      "patch": {},
+      "note": {
+        "en": "1097 marks arrival in Danzhou. The quoted poem, Crossing the Sea on the Night of the Twentieth Day of the Sixth Month, describes his northbound return in 1100. It is a later reflection included in the 1097 chapter.",
+        "zh": "1097年为抵达儋州的时间。所引《六月二十日夜渡海》写于1100年北归渡海时，属于本篇章引用的后续回望，不能系于1097年南渡。"
+      },
+      "sources": [
+        {
+          "title": "陪你來讀蘇東坡—22 東坡在海南",
+          "url": "https://lofen.net/%E8%98%87%E6%9D%B1%E5%9D%A1%E5%9C%A8%E6%B5%B7%E5%8D%97%E5%B3%B6/",
+          "publisher": "I Lo-fen, scholar and Nanyang Technological University teacher; original authored teaching page",
+          "checkedAt": "2026-10-23",
+          "evidenceNote": "Danzhou arrival 1097; northbound sea crossing and the quoted poem 1100. Read scope: Introduction and the fourth poem's dated heading"
+        }
+      ]
+    },
+    {
+      "journeyId": "china-journey-libai",
+      "stopId": "china-stop-libai-001",
+      "classification": "disputed-location",
+      "patch": {
+        "title": {
+          "en": "Li Bai's early life: the Suyab attribution",
+          "zh": "李白早年：碎叶出生说"
+        },
+        "description": {
+          "en": "The reference places Li Bai's birth at Suyab in 701. His birthplace is disputed. This map point records that attribution; it does not establish a verified birthplace or an exact childhood itinerary.",
+          "zh": "参考项目将李白701年的出生地标在碎叶城，但其出生地存在争议。此地图点保留碎叶说的出处，不代表已经核实的出生地点或精确童年行程。"
+        }
+      },
+      "note": {
+        "en": "701 remains the inherited birth-year anchor; this review addresses the birthplace claim, not a full reconstruction of his early life.",
+        "zh": "701年保留为参考项目的出生年锚点；本次核查只处理出生地点的争议，未重建全部早年经历。"
+      },
+      "sources": [
+        {
+          "title": "谢志斌谈中吉交往带给世界的启示",
+          "url": "https://imes.nwu.edu.cn/info/1052/3971.htm",
+          "publisher": "Northwest University Institute of Middle Eastern Studies, interview with its associate professor Xie Zhibin",
+          "checkedAt": "2026-10-23",
+          "evidenceNote": "Explicitly acknowledges that Li Bai's birthplace is disputed. This source is used only to justify qualification, not to adjudicate the birthplace. Read scope: Interview passage on Suyab, line 172"
+        }
+      ]
+    },
+    {
+      "journeyId": "china-journey-xuanzang",
+      "stopId": "china-stop-xuanzang-001",
+      "classification": "source-chronology-disputed",
+      "patch": {
+        "dateLabel": {
+          "en": "627 CE · chronology disputed",
+          "zh": "公元627年 · 编年有争议"
+        }
+      },
+      "note": {
+        "en": "This stop's year follows the reference's early-route chronology. Étienne de la Vaissière's 2010 study argues for departure in 629 rather than 627. Intermediate stop dates have not been independently reconstructed; they should not be shifted mechanically by two years.",
+        "zh": "本站年份沿用参考项目的早期行程编年。Étienne de la Vaissière于2010年提出玄奘应在629年而非627年出发。各中间站的年份尚未独立重建，不宜机械地全部顺延两年。"
+      },
+      "sources": [
+        {
+          "title": "Note sur la chronologie du voyage de Xuanzang",
+          "url": "https://poj.peeters-leuven.be/content.php?url=article&id=2055070&journal_code=JA",
+          "publisher": "Journal Asiatique 298(1), 2010, pp.157–168; Peeters",
+          "checkedAt": "2026-10-23",
+          "evidenceNote": "The author argues for 629 departure against 627, from manuscript and Central Asian evidence. This does not supply a replacement date for every intermediate stop. Read scope: Publisher abstract only; full paper not read"
+        }
+      ]
+    },
+    {
+      "journeyId": "china-journey-xuanzang",
+      "stopId": "china-stop-xuanzang-002",
+      "classification": "source-chronology-disputed",
+      "patch": {
+        "dateLabel": {
+          "en": "627 CE · chronology disputed",
+          "zh": "公元627年 · 编年有争议"
+        }
+      },
+      "note": {
+        "en": "Inherited chronology; date disputed. See the first stop’s review.",
+        "zh": "沿用原资料编年，年份存在争议；详见首站核查说明。"
+      },
+      "sources": [
+        {
+          "title": "Note sur la chronologie du voyage de Xuanzang",
+          "url": "https://poj.peeters-leuven.be/content.php?url=article&id=2055070&journal_code=JA",
+          "publisher": "Journal Asiatique 298(1), 2010, pp.157–168; Peeters",
+          "checkedAt": "2026-10-23",
+          "evidenceNote": "The author argues for 629 departure against 627, from manuscript and Central Asian evidence. This does not supply a replacement date for every intermediate stop. Read scope: Publisher abstract only; full paper not read"
+        }
+      ]
+    },
+    {
+      "journeyId": "china-journey-xuanzang",
+      "stopId": "china-stop-xuanzang-003",
+      "classification": "source-chronology-disputed",
+      "patch": {
+        "dateLabel": {
+          "en": "627 CE · chronology disputed",
+          "zh": "公元627年 · 编年有争议"
+        }
+      },
+      "note": {
+        "en": "Inherited chronology; date disputed. See the first stop’s review.",
+        "zh": "沿用原资料编年，年份存在争议；详见首站核查说明。"
+      },
+      "sources": [
+        {
+          "title": "Note sur la chronologie du voyage de Xuanzang",
+          "url": "https://poj.peeters-leuven.be/content.php?url=article&id=2055070&journal_code=JA",
+          "publisher": "Journal Asiatique 298(1), 2010, pp.157–168; Peeters",
+          "checkedAt": "2026-10-23",
+          "evidenceNote": "The author argues for 629 departure against 627, from manuscript and Central Asian evidence. This does not supply a replacement date for every intermediate stop. Read scope: Publisher abstract only; full paper not read"
+        }
+      ]
+    },
+    {
+      "journeyId": "china-journey-xuanzang",
+      "stopId": "china-stop-xuanzang-004",
+      "classification": "source-chronology-disputed",
+      "patch": {
+        "dateLabel": {
+          "en": "628 CE · chronology disputed",
+          "zh": "公元628年 · 编年有争议"
+        }
+      },
+      "note": {
+        "en": "Inherited chronology; date disputed. See the first stop’s review.",
+        "zh": "沿用原资料编年，年份存在争议；详见首站核查说明。"
+      },
+      "sources": [
+        {
+          "title": "Note sur la chronologie du voyage de Xuanzang",
+          "url": "https://poj.peeters-leuven.be/content.php?url=article&id=2055070&journal_code=JA",
+          "publisher": "Journal Asiatique 298(1), 2010, pp.157–168; Peeters",
+          "checkedAt": "2026-10-23",
+          "evidenceNote": "The author argues for 629 departure against 627, from manuscript and Central Asian evidence. This does not supply a replacement date for every intermediate stop. Read scope: Publisher abstract only; full paper not read"
+        }
+      ]
+    },
+    {
+      "journeyId": "china-journey-xuanzang",
+      "stopId": "china-stop-xuanzang-005",
+      "classification": "source-chronology-disputed",
+      "patch": {
+        "dateLabel": {
+          "en": "628 CE · chronology disputed",
+          "zh": "公元628年 · 编年有争议"
+        }
+      },
+      "note": {
+        "en": "Inherited chronology; date disputed. See the first stop’s review.",
+        "zh": "沿用原资料编年，年份存在争议；详见首站核查说明。"
+      },
+      "sources": [
+        {
+          "title": "Note sur la chronologie du voyage de Xuanzang",
+          "url": "https://poj.peeters-leuven.be/content.php?url=article&id=2055070&journal_code=JA",
+          "publisher": "Journal Asiatique 298(1), 2010, pp.157–168; Peeters",
+          "checkedAt": "2026-10-23",
+          "evidenceNote": "The author argues for 629 departure against 627, from manuscript and Central Asian evidence. This does not supply a replacement date for every intermediate stop. Read scope: Publisher abstract only; full paper not read"
+        }
+      ]
+    },
+    {
+      "journeyId": "china-journey-xuanzang",
+      "stopId": "china-stop-xuanzang-006",
+      "classification": "source-chronology-disputed",
+      "patch": {
+        "dateLabel": {
+          "en": "628 CE · chronology disputed",
+          "zh": "公元628年 · 编年有争议"
+        }
+      },
+      "note": {
+        "en": "Inherited chronology; date disputed. See the first stop’s review.",
+        "zh": "沿用原资料编年，年份存在争议；详见首站核查说明。"
+      },
+      "sources": [
+        {
+          "title": "Note sur la chronologie du voyage de Xuanzang",
+          "url": "https://poj.peeters-leuven.be/content.php?url=article&id=2055070&journal_code=JA",
+          "publisher": "Journal Asiatique 298(1), 2010, pp.157–168; Peeters",
+          "checkedAt": "2026-10-23",
+          "evidenceNote": "The author argues for 629 departure against 627, from manuscript and Central Asian evidence. This does not supply a replacement date for every intermediate stop. Read scope: Publisher abstract only; full paper not read"
+        }
+      ]
+    },
+    {
+      "journeyId": "china-journey-xuanzang",
+      "stopId": "china-stop-xuanzang-007",
+      "classification": "source-chronology-disputed",
+      "patch": {
+        "dateLabel": {
+          "en": "628 CE · chronology disputed",
+          "zh": "公元628年 · 编年有争议"
+        }
+      },
+      "note": {
+        "en": "Inherited chronology; date disputed. See the first stop’s review.",
+        "zh": "沿用原资料编年，年份存在争议；详见首站核查说明。"
+      },
+      "sources": [
+        {
+          "title": "Note sur la chronologie du voyage de Xuanzang",
+          "url": "https://poj.peeters-leuven.be/content.php?url=article&id=2055070&journal_code=JA",
+          "publisher": "Journal Asiatique 298(1), 2010, pp.157–168; Peeters",
+          "checkedAt": "2026-10-23",
+          "evidenceNote": "The author argues for 629 departure against 627, from manuscript and Central Asian evidence. This does not supply a replacement date for every intermediate stop. Read scope: Publisher abstract only; full paper not read"
+        }
+      ]
+    },
+    {
+      "journeyId": "china-journey-xuanzang",
+      "stopId": "china-stop-xuanzang-008",
+      "classification": "source-chronology-disputed",
+      "patch": {
+        "dateLabel": {
+          "en": "629 CE · chronology disputed",
+          "zh": "公元629年 · 编年有争议"
+        }
+      },
+      "note": {
+        "en": "Inherited chronology; date disputed. See the first stop’s review.",
+        "zh": "沿用原资料编年，年份存在争议；详见首站核查说明。"
+      },
+      "sources": [
+        {
+          "title": "Note sur la chronologie du voyage de Xuanzang",
+          "url": "https://poj.peeters-leuven.be/content.php?url=article&id=2055070&journal_code=JA",
+          "publisher": "Journal Asiatique 298(1), 2010, pp.157–168; Peeters",
+          "checkedAt": "2026-10-23",
+          "evidenceNote": "The author argues for 629 departure against 627, from manuscript and Central Asian evidence. This does not supply a replacement date for every intermediate stop. Read scope: Publisher abstract only; full paper not read"
+        }
+      ]
+    },
+    {
+      "journeyId": "china-journey-wangyangming",
+      "stopId": "china-stop-wangyangming-001",
+      "classification": "specific-factual-correction",
+      "patch": {
+        "description": {
+          "en": "Born at Ruiyun Tower in Yuyao, Wang Shouren asked his tutor at age eleven what the highest pursuit in life was. Told it was passing the imperial exams, he replied: \"Passing exams is surely not the highest pursuit; learning to become a sage is.\"",
+          "zh": "王守仁诞生于浙江绍兴府余姚县瑞云楼，父王华于1481年高中状元。十一岁随祖父北上京师塾读，问塾师「何为第一等事」，师答「惟读书登第耳」，守仁昂然对曰：「登第恐未为第一等事，或读书学圣贤耳。」自幼立下成圣之志。"
+        }
+      },
+      "note": {
+        "en": "1472 is the birth anchor. His father Wang Hua's first place in the palace examination was in 1481. The chapter's childhood anecdotes concern later years.",
+        "zh": "1472年为出生锚点。父亲王华中状元在1481年，并非出生次年。本段所述童年问学故事属于之后的经历。"
+      },
+      "sources": [
+        {
+          "title": "传统士大夫人格典范：阳明之父王华——“阳明学研究”系列文章之三",
+          "url": "https://acc.gzu.edu.cn/2016/0323/c5673a72987/page.htm",
+          "publisher": "Guizhou University Academy of Chinese Culture / Yangming Culture Research Institute",
+          "checkedAt": "2026-10-23",
+          "evidenceNote": "Wang Hua placed first in the palace examination in 1481, rather than the year after his son's 1472 birth. Read scope: Author's biographical discussion of Wang Hua's examination career"
+        }
+      ]
+    },
+    {
+      "journeyId": "china-journey-wangyangming",
+      "stopId": "china-stop-wangyangming-003",
+      "classification": "internal-compound-date",
+      "patch": {
+        "title": {
+          "en": "Bamboo investigation; later examination success",
+          "zh": "格竹故事与后来的进士及第"
+        }
+      },
+      "note": {
+        "en": "1492 is the inherited bamboo-episode anchor. The reference itself dates examination success to 1499. The two episodes should not share a single event date; neither episode has received a full independent review here.",
+        "zh": "1492年是沿用的格竹故事锚点，参考原文明确将进士及第记为1499年。两段经历不可视为同年事件；本次仅揭示复合编年，未对二者作完整独立核证。"
+      },
+      "sources": [
+        {
+          "title": "Jiangshan-map frozen source chronicle data",
+          "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/lore_data.js",
+          "publisher": "Jiangshan-map contributors",
+          "checkedAt": "2026-10-23",
+          "evidenceNote": "Supplied anchor years and original texts; internal compound-year comparisons only. Not independent corroboration. Read scope: All 7 chronicles / 68 stop objects inspected structurally and for date-association risks"
+        }
+      ]
+    },
+    {
+      "journeyId": "china-journey-wangyangming",
+      "stopId": "china-stop-wangyangming-009",
+      "classification": "internal-compound-date",
+      "patch": {
+        "title": {
+          "en": "Teaching innate knowledge; later Tianquan discussion",
+          "zh": "致良知教与后来的天泉证道"
+        }
+      },
+      "note": {
+        "en": "1521 is the inherited teaching-period anchor. The Tianquan discussion and its quotation are associated with 1527 in the reference itself. This is a chapter spanning several years.",
+        "zh": "1521年是沿用的讲学阶段锚点；原文明记天泉证道在1527年，所引四句教应与后段经历区分。本段跨越数年。"
+      },
+      "sources": [
+        {
+          "title": "Jiangshan-map frozen source chronicle data",
+          "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/lore_data.js",
+          "publisher": "Jiangshan-map contributors",
+          "checkedAt": "2026-10-23",
+          "evidenceNote": "Supplied anchor years and original texts; internal compound-year comparisons only. Not independent corroboration. Read scope: All 7 chronicles / 68 stop objects inspected structurally and for date-association risks"
+        }
+      ]
+    },
+    {
+      "journeyId": "china-journey-qinshihuang",
+      "stopId": "china-stop-qinshihuang-001",
+      "classification": "internal-compound-date",
+      "patch": {},
+      "note": {
+        "en": "238 BCE is the opening anchor. The Chinese reference places Lü Buwei's dismissal in the next year,237 BCE. This chronicle groups successive developments and does not demonstrate the ruler's personal presence at each mapped campaign site.",
+        "zh": "前238年是本篇章起点；中文原文将罢免吕不韦记为次年，即前237年。本段汇集相继事件，也不代表秦王亲自到达每个地图战役点。"
+      },
+      "sources": [
+        {
+          "title": "Jiangshan-map frozen source chronicle data",
+          "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/lore_data.js",
+          "publisher": "Jiangshan-map contributors",
+          "checkedAt": "2026-10-23",
+          "evidenceNote": "Supplied anchor years and original texts; internal compound-year comparisons only. Not independent corroboration. Read scope: All 7 chronicles / 68 stop objects inspected structurally and for date-association risks"
+        }
+      ]
+    },
+    {
+      "journeyId": "china-journey-qinshihuang",
+      "stopId": "china-stop-qinshihuang-005",
+      "classification": "internal-compound-date",
+      "patch": {},
+      "note": {
+        "en": "The reference distinguishes Jing Ke's attempt in 227 BCE from the capture of Jicheng in 226 BCE. The assassination passage and quotation are background to the mapped campaign chapter.",
+        "zh": "参考原文区分了前227年的荆轲刺秦与前226年的攻拔蓟城。刺秦故事及引文是该战役篇章的前情，不能全部系于前226年。"
+      },
+      "sources": [
+        {
+          "title": "Jiangshan-map frozen source chronicle data",
+          "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/lore_data.js",
+          "publisher": "Jiangshan-map contributors",
+          "checkedAt": "2026-10-23",
+          "evidenceNote": "Supplied anchor years and original texts; internal compound-year comparisons only. Not independent corroboration. Read scope: All 7 chronicles / 68 stop objects inspected structurally and for date-association risks"
+        }
+      ]
+    },
+    {
+      "journeyId": "china-journey-qinshihuang",
+      "stopId": "china-stop-qinshihuang-009",
+      "classification": "later-literary-reception",
+      "patch": {},
+      "note": {
+        "en": "The Du Mu excerpt is later literary reception of Qin history, not a quotation composed at the 221 BCE event. The accompanying Shiji excerpt is a separate retrospective historical source.",
+        "zh": "杜牧《阿房宫赋》为后世对秦史的文学书写，并非前221年现场创作；同时所引《史记》属于另一种追述史料。"
+      },
+      "sources": [
+        {
+          "title": "Jiangshan-map frozen source chronicle data",
+          "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/lore_data.js",
+          "publisher": "Jiangshan-map contributors",
+          "checkedAt": "2026-10-23",
+          "evidenceNote": "Supplied anchor years and original texts; internal compound-year comparisons only. Not independent corroboration. Read scope: All 7 chronicles / 68 stop objects inspected structurally and for date-association risks"
+        }
+      ]
+    },
+    {
+      "journeyId": "china-journey-zhugeliang",
+      "stopId": "china-stop-zhugeliang-001",
+      "classification": "retrospective-quotation",
+      "patch": {},
+      "note": {
+        "en": "This chapter uses the later Chu Shi Biao as retrospective testimony. The reference associates that memorial with 227, so the quotation should not inherit this stop's earlier year.",
+        "zh": "本章借后来《出师表》追述往事。同一参考项目将该表系于227年，引文的形成时间不应等同于本站较早的年份。"
+      },
+      "sources": [
+        {
+          "title": "Jiangshan-map frozen source chronicle data",
+          "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/lore_data.js",
+          "publisher": "Jiangshan-map contributors",
+          "checkedAt": "2026-10-23",
+          "evidenceNote": "Supplied anchor years and original texts; internal compound-year comparisons only. Not independent corroboration. Read scope: All 7 chronicles / 68 stop objects inspected structurally and for date-association risks"
+        }
+      ]
+    },
+    {
+      "journeyId": "china-journey-zhugeliang",
+      "stopId": "china-stop-zhugeliang-005",
+      "classification": "retrospective-quotation",
+      "patch": {},
+      "note": {
+        "en": "This chapter uses the later Chu Shi Biao as retrospective testimony. The reference associates that memorial with 227, so the quotation should not inherit this stop's earlier year.",
+        "zh": "本章借后来《出师表》追述往事。同一参考项目将该表系于227年，引文的形成时间不应等同于本站较早的年份。"
+      },
+      "sources": [
+        {
+          "title": "Jiangshan-map frozen source chronicle data",
+          "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/lore_data.js",
+          "publisher": "Jiangshan-map contributors",
+          "checkedAt": "2026-10-23",
+          "evidenceNote": "Supplied anchor years and original texts; internal compound-year comparisons only. Not independent corroboration. Read scope: All 7 chronicles / 68 stop objects inspected structurally and for date-association risks"
+        }
+      ]
+    },
+    {
+      "journeyId": "china-journey-zhugeliang",
+      "stopId": "china-stop-zhugeliang-010",
+      "classification": "later-literary-reception",
+      "patch": {},
+      "note": {
+        "en": "Du Fu's poem is later literary remembrance of Zhuge Liang. Its text should not be dated 234 or presented as testimony from the campaign itself.",
+        "zh": "杜甫《蜀相》是后世对诸葛亮的文学追思，不应将该诗创作系于234年，亦非当次战役的现场见证。"
+      },
+      "sources": [
+        {
+          "title": "Jiangshan-map frozen source chronicle data",
+          "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/lore_data.js",
+          "publisher": "Jiangshan-map contributors",
+          "checkedAt": "2026-10-23",
+          "evidenceNote": "Supplied anchor years and original texts; internal compound-year comparisons only. Not independent corroboration. Read scope: All 7 chronicles / 68 stop objects inspected structurally and for date-association risks"
+        }
+      ]
+    },
+    {
+      "journeyId": "china-journey-zhangqian",
+      "stopId": "china-stop-zhangqian-009",
+      "classification": "later-honor-sequence",
+      "patch": {
+        "description": {
+          "en": "Amid Xiongnu succession turmoil in 126 BCE, Zhang Qian escaped back to Chang'an with Ganfu—only two survivors of the original hundred—opening the Silk Road.",
+          "zh": "元朔三年军臣单于死、匈奴内乱，张骞与胡妻及甘父逃归长安。出使十三载，百余人唯二人得还，后因军功封博望侯，史称“凿空”。"
+        }
+      },
+      "note": {
+        "en": "126 BCE remains the return anchor. The title Marquis of Bowang belongs to later service and should not be inferred to have been granted at this return. A precise grant year has not been established in this bounded review.",
+        "zh": "前126年保留为归汉锚点；博望侯封号属于后来的军功经历，不应推断为归汉当年即获封。本次限量核查未确定授封的精确年份。"
+      },
+      "sources": [
+        {
+          "title": "鑿空之旅",
+          "url": "https://www.csb.gov.hk/hkgcsb/ol/news/no92/html/p1.html",
+          "publisher": "Hong Kong Civil Service Bureau, Word Power",
+          "checkedAt": "2026-10-23",
+          "evidenceNote": "Enfeoffment followed later service with Wei Qing; does not establish a precise date here. This is an institutional educational narrative rather than a specialist chronology. Read scope: Zhang Qian narrative, paragraph on return and later military service"
+        }
+      ]
+    }
+  ],
+  "heldResolutions": [
+    {
+      "sourceId": "china-landmark-412",
+      "status": "replaced-by-separated-research-records",
+      "replacementIds": [
+        "galle-trilingual-inscription",
+        "melaka-ming-voyage-depot"
+      ],
+      "note": {
+        "en": "The raw conflated source remains quarantined for provenance. Two separately sourced records now distinguish Galle and Melaka, with qualified dates and representative points; neither uses the Champa pin.",
+        "zh": "为保存出处，原始混合叙述仍保留在隔离审计项中。现以两条分别有来源的记录区分加勒与马六甲，限定年代及代表点，不再使用占城点位。"
+      }
+    }
+  ]
+}

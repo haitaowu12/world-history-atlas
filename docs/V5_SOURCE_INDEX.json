@@ -1,0 +1,4149 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-23",
+  "title": "World History Atlas v5 cited-page index",
+  "scope": {
+    "included": "The 78 original essays added in v5 and the separate targeted China display review overlay: 2 event reviews and 24 chronicle-stop annotations.",
+    "excluded": "Older atlas narrative, the full inherited Jiangshan event/profile/place collections and their general provenance, cartographic sources, uncited research candidates, and full essay or review text. The frozen upstream chronicle is included only where it is directly cited by an annotation.",
+    "evidenceMeaning": "An index entry records a cited page and its use, not independent corroboration of every claim. Evidence notes and consultation limits remain in the cited record or review. Internal checks against inherited source text are distinct from external historical corroboration.",
+    "deduplication": "Exact cited URL strings. Distinct paths, query strings and fragments remain distinct; publisher identity does not imply independent authorship.",
+    "identity": "recordIds are the 78 essay IDs in history.json. reviewIds are index labels: event:<recordId> or chronicle:<journeyId>/<stopId>; reviewTargets resolves them to the overlay objects.",
+    "sourceIndexConvention": "sourceIndex and reviewIndex are zero-based array positions. uses links each indexed URL to the original sources array without copying its prose.",
+    "pathConvention": "Paths in this document are relative to docs/V5_SOURCE_INDEX.json.",
+    "licensing": "This bibliography does not change content licenses. Original prose and inherited Jiangshan material retain the distinctions documented in CONTENT_LICENSE.md."
+  },
+  "dataFiles": {
+    "essays": "../dist/data/history.json",
+    "reviewOverlay": "../dist/data/china-reviews.json"
+  },
+  "documentation": {
+    "researchAndReview": "V5_RESEARCH_AND_REVIEW.md",
+    "chinaImport": "V5_CHINA_IMPORT.md",
+    "contentLicense": "CONTENT_LICENSE.md"
+  },
+  "counts": {
+    "essayRecords": 78,
+    "regionalEssayRecords": 76,
+    "additionalChinaEssayRecords": 2,
+    "eventReviews": 2,
+    "chronicleStopReviews": 24,
+    "reviewTargets": 26,
+    "essaySourceReferences": 156,
+    "eventReviewSourceReferences": 2,
+    "chronicleReviewSourceReferences": 26,
+    "totalSourceReferences": 184,
+    "uniqueCitedUrls": 169,
+    "uniqueEssayUrls": 156,
+    "uniqueReviewUrls": 13,
+    "uniqueEventReviewUrls": 2,
+    "uniqueChronicleReviewUrls": 11,
+    "frozenUpstreamReviewUrls": 1,
+    "externalReviewUrls": 12,
+    "sharedEssayAndReviewUrls": 0
+  },
+  "batches": [
+    {
+      "id": "asia-pacific",
+      "label": "Asia and Pacific",
+      "stagingFilename": "v5-world-east-records.json",
+      "recordCount": 40,
+      "recordIds": [
+        "ajanta-cave-workshops",
+        "australian-gold-rushes",
+        "batavia-company-capital",
+        "bengali-language-movement",
+        "bisotun-royal-inscription",
+        "cook-islands-self-government",
+        "cyrus-babylon-cylinder",
+        "damascus-umayyad-mosque",
+        "dong-son-bronze-networks",
+        "fatehpur-sikri-court",
+        "gulhane-reform-edict",
+        "he-whakaputanga-declaration",
+        "horyuji-buddhist-building",
+        "imjin-war",
+        "isfahan-royal-square",
+        "jantar-mantar-jaipur",
+        "japan-postwar-constitution",
+        "jikji-metal-type",
+        "korea-june-democracy-movement",
+        "lapaha-tongan-centre",
+        "mabo-native-title-decision",
+        "marshall-islands-nuclear-tests",
+        "melaka-portuguese-conquest",
+        "nara-heijo-capital",
+        "nineveh-scribal-library",
+        "philippines-declaration-1898",
+        "polonnaruwa-irrigated-capital",
+        "pyu-irrigated-cities",
+        "samarkand-observatory",
+        "sardis-early-coinage",
+        "siam-constitutional-change",
+        "sigiriya-royal-landscape",
+        "singapore-trading-post-treaty",
+        "sukhothai-urban-arts",
+        "taxila-sirkap",
+        "thanjavur-brihadisvara",
+        "tokugawa-shogunate-establishment",
+        "tripitaka-koreana-carving",
+        "vanuatu-independence",
+        "wairau-bar-settlement"
+      ]
+    },
+    {
+      "id": "africa-europe-americas",
+      "label": "Africa, Europe and the Americas",
+      "stagingFilename": "v5-world-west-records.json",
+      "recordCount": 36,
+      "recordIds": [
+        "aachen-palatine-chapel",
+        "abu-simbel-relocation",
+        "aksum-ezana-christianity",
+        "brasilia-new-capital",
+        "british-slavery-emancipation",
+        "canadian-pacific-last-spike",
+        "caracalla-citizenship-edict",
+        "cartagena-port-fortifications",
+        "cherokee-forced-removal",
+        "djenne-djeno-urbanism",
+        "domesday-survey",
+        "gondar-permanent-capital",
+        "hagia-sophia-justinian",
+        "ife-sculpture-workshops",
+        "justinian-law-compilation",
+        "lalibela-rock-hewn-churches",
+        "lanse-aux-meadows-woodworking",
+        "lubeck-hanseatic-trade",
+        "mapungubwe-hill-kingdom",
+        "maya-dresden-codex",
+        "mbanza-kongo-christian-court",
+        "mesa-verde-cliff-villages",
+        "mexico-constitution-1917",
+        "monte-alban-zapotec-capital",
+        "montgomery-bus-boycott",
+        "nasca-palpa-geoglyphs",
+        "nok-terracotta-workshops",
+        "palenque-pakal-building",
+        "palermo-norman-cultural-exchange",
+        "potosi-silver-labor",
+        "quebec-french-settlement",
+        "royal-proclamation-niagara",
+        "royal-society-experiments",
+        "seneca-falls-convention",
+        "tenochtitlan-siege",
+        "us-declaration-independence"
+      ]
+    },
+    {
+      "id": "china-original-essays",
+      "label": "Additional original China essays",
+      "stagingFilename": "v5-china-new-records.json",
+      "recordCount": 2,
+      "recordIds": [
+        "diamond-sutra-868",
+        "grand-canal-network"
+      ]
+    }
+  ],
+  "reviewTargets": {
+    "event:china-landmark-089": {
+      "kind": "event-review",
+      "recordId": "china-landmark-089",
+      "collection": "eventReviews",
+      "reviewIndex": 0
+    },
+    "event:china-landmark-497": {
+      "kind": "event-review",
+      "recordId": "china-landmark-497",
+      "collection": "eventReviews",
+      "reviewIndex": 1
+    },
+    "chronicle:china-journey-sushi/china-stop-sushi-004": {
+      "kind": "chronicle-stop-review",
+      "journeyId": "china-journey-sushi",
+      "stopId": "china-stop-sushi-004",
+      "collection": "chronicleReviews",
+      "reviewIndex": 0,
+      "classification": "work-date-corroborated"
+    },
+    "chronicle:china-journey-sushi/china-stop-sushi-005": {
+      "kind": "chronicle-stop-review",
+      "journeyId": "china-journey-sushi",
+      "stopId": "china-stop-sushi-005",
+      "collection": "chronicleReviews",
+      "reviewIndex": 1,
+      "classification": "work-date-corroborated"
+    },
+    "chronicle:china-journey-sushi/china-stop-sushi-006": {
+      "kind": "chronicle-stop-review",
+      "journeyId": "china-journey-sushi",
+      "stopId": "china-stop-sushi-006",
+      "collection": "chronicleReviews",
+      "reviewIndex": 2,
+      "classification": "compound-date-corroborated"
+    },
+    "chronicle:china-journey-sushi/china-stop-sushi-007": {
+      "kind": "chronicle-stop-review",
+      "journeyId": "china-journey-sushi",
+      "stopId": "china-stop-sushi-007",
+      "collection": "chronicleReviews",
+      "reviewIndex": 3,
+      "classification": "multiple-work-dates-corroborated"
+    },
+    "chronicle:china-journey-sushi/china-stop-sushi-009": {
+      "kind": "chronicle-stop-review",
+      "journeyId": "china-journey-sushi",
+      "stopId": "china-stop-sushi-009",
+      "collection": "chronicleReviews",
+      "reviewIndex": 4,
+      "classification": "quotation-date-corroborated"
+    },
+    "chronicle:china-journey-libai/china-stop-libai-001": {
+      "kind": "chronicle-stop-review",
+      "journeyId": "china-journey-libai",
+      "stopId": "china-stop-libai-001",
+      "collection": "chronicleReviews",
+      "reviewIndex": 5,
+      "classification": "disputed-location"
+    },
+    "chronicle:china-journey-xuanzang/china-stop-xuanzang-001": {
+      "kind": "chronicle-stop-review",
+      "journeyId": "china-journey-xuanzang",
+      "stopId": "china-stop-xuanzang-001",
+      "collection": "chronicleReviews",
+      "reviewIndex": 6,
+      "classification": "source-chronology-disputed"
+    },
+    "chronicle:china-journey-xuanzang/china-stop-xuanzang-002": {
+      "kind": "chronicle-stop-review",
+      "journeyId": "china-journey-xuanzang",
+      "stopId": "china-stop-xuanzang-002",
+      "collection": "chronicleReviews",
+      "reviewIndex": 7,
+      "classification": "source-chronology-disputed"
+    },
+    "chronicle:china-journey-xuanzang/china-stop-xuanzang-003": {
+      "kind": "chronicle-stop-review",
+      "journeyId": "china-journey-xuanzang",
+      "stopId": "china-stop-xuanzang-003",
+      "collection": "chronicleReviews",
+      "reviewIndex": 8,
+      "classification": "source-chronology-disputed"
+    },
+    "chronicle:china-journey-xuanzang/china-stop-xuanzang-004": {
+      "kind": "chronicle-stop-review",
+      "journeyId": "china-journey-xuanzang",
+      "stopId": "china-stop-xuanzang-004",
+      "collection": "chronicleReviews",
+      "reviewIndex": 9,
+      "classification": "source-chronology-disputed"
+    },
+    "chronicle:china-journey-xuanzang/china-stop-xuanzang-005": {
+      "kind": "chronicle-stop-review",
+      "journeyId": "china-journey-xuanzang",
+      "stopId": "china-stop-xuanzang-005",
+      "collection": "chronicleReviews",
+      "reviewIndex": 10,
+      "classification": "source-chronology-disputed"
+    },
+    "chronicle:china-journey-xuanzang/china-stop-xuanzang-006": {
+      "kind": "chronicle-stop-review",
+      "journeyId": "china-journey-xuanzang",
+      "stopId": "china-stop-xuanzang-006",
+      "collection": "chronicleReviews",
+      "reviewIndex": 11,
+      "classification": "source-chronology-disputed"
+    },
+    "chronicle:china-journey-xuanzang/china-stop-xuanzang-007": {
+      "kind": "chronicle-stop-review",
+      "journeyId": "china-journey-xuanzang",
+      "stopId": "china-stop-xuanzang-007",
+      "collection": "chronicleReviews",
+      "reviewIndex": 12,
+      "classification": "source-chronology-disputed"
+    },
+    "chronicle:china-journey-xuanzang/china-stop-xuanzang-008": {
+      "kind": "chronicle-stop-review",
+      "journeyId": "china-journey-xuanzang",
+      "stopId": "china-stop-xuanzang-008",
+      "collection": "chronicleReviews",
+      "reviewIndex": 13,
+      "classification": "source-chronology-disputed"
+    },
+    "chronicle:china-journey-wangyangming/china-stop-wangyangming-001": {
+      "kind": "chronicle-stop-review",
+      "journeyId": "china-journey-wangyangming",
+      "stopId": "china-stop-wangyangming-001",
+      "collection": "chronicleReviews",
+      "reviewIndex": 14,
+      "classification": "specific-factual-correction"
+    },
+    "chronicle:china-journey-wangyangming/china-stop-wangyangming-003": {
+      "kind": "chronicle-stop-review",
+      "journeyId": "china-journey-wangyangming",
+      "stopId": "china-stop-wangyangming-003",
+      "collection": "chronicleReviews",
+      "reviewIndex": 15,
+      "classification": "internal-compound-date"
+    },
+    "chronicle:china-journey-wangyangming/china-stop-wangyangming-009": {
+      "kind": "chronicle-stop-review",
+      "journeyId": "china-journey-wangyangming",
+      "stopId": "china-stop-wangyangming-009",
+      "collection": "chronicleReviews",
+      "reviewIndex": 16,
+      "classification": "internal-compound-date"
+    },
+    "chronicle:china-journey-qinshihuang/china-stop-qinshihuang-001": {
+      "kind": "chronicle-stop-review",
+      "journeyId": "china-journey-qinshihuang",
+      "stopId": "china-stop-qinshihuang-001",
+      "collection": "chronicleReviews",
+      "reviewIndex": 17,
+      "classification": "internal-compound-date"
+    },
+    "chronicle:china-journey-qinshihuang/china-stop-qinshihuang-005": {
+      "kind": "chronicle-stop-review",
+      "journeyId": "china-journey-qinshihuang",
+      "stopId": "china-stop-qinshihuang-005",
+      "collection": "chronicleReviews",
+      "reviewIndex": 18,
+      "classification": "internal-compound-date"
+    },
+    "chronicle:china-journey-qinshihuang/china-stop-qinshihuang-009": {
+      "kind": "chronicle-stop-review",
+      "journeyId": "china-journey-qinshihuang",
+      "stopId": "china-stop-qinshihuang-009",
+      "collection": "chronicleReviews",
+      "reviewIndex": 19,
+      "classification": "later-literary-reception"
+    },
+    "chronicle:china-journey-zhugeliang/china-stop-zhugeliang-001": {
+      "kind": "chronicle-stop-review",
+      "journeyId": "china-journey-zhugeliang",
+      "stopId": "china-stop-zhugeliang-001",
+      "collection": "chronicleReviews",
+      "reviewIndex": 20,
+      "classification": "retrospective-quotation"
+    },
+    "chronicle:china-journey-zhugeliang/china-stop-zhugeliang-005": {
+      "kind": "chronicle-stop-review",
+      "journeyId": "china-journey-zhugeliang",
+      "stopId": "china-stop-zhugeliang-005",
+      "collection": "chronicleReviews",
+      "reviewIndex": 21,
+      "classification": "retrospective-quotation"
+    },
+    "chronicle:china-journey-zhugeliang/china-stop-zhugeliang-010": {
+      "kind": "chronicle-stop-review",
+      "journeyId": "china-journey-zhugeliang",
+      "stopId": "china-stop-zhugeliang-010",
+      "collection": "chronicleReviews",
+      "reviewIndex": 22,
+      "classification": "later-literary-reception"
+    },
+    "chronicle:china-journey-zhangqian/china-stop-zhangqian-009": {
+      "kind": "chronicle-stop-review",
+      "journeyId": "china-journey-zhangqian",
+      "stopId": "china-stop-zhangqian-009",
+      "collection": "chronicleReviews",
+      "reviewIndex": 23,
+      "classification": "later-honor-sequence"
+    }
+  },
+  "pages": {
+    "https://acc.gzu.edu.cn/2016/0323/c5673a72987/page.htm": {
+      "titles": [
+        "传统士大夫人格典范：阳明之父王华——“阳明学研究”系列文章之三"
+      ],
+      "publishers": [
+        "Guizhou University Academy of Chinese Culture / Yangming Culture Research Institute"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [],
+      "reviewIds": [
+        "chronicle:china-journey-wangyangming/china-stop-wangyangming-001"
+      ],
+      "citationCount": 1,
+      "uses": [
+        {
+          "reviewId": "chronicle:china-journey-wangyangming/china-stop-wangyangming-001",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://aiatsis.gov.au/explore/mabo-case": {
+      "titles": [
+        "The Mabo Case"
+      ],
+      "publishers": [
+        "Australian Institute of Aboriginal and Torres Strait Islander Studies"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "mabo-native-title-decision"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "mabo-native-title-decision",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://anthropology.rice.edu/sites/g/files/bxs3341/files/inline-files/djennemuseumsite.pdf": {
+      "titles": [
+        "Results of recent excavations at Jenné-jeno and Djenné, Mali"
+      ],
+      "publishers": [
+        "Susan Keech McIntosh and Roderick McIntosh / Rice University"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "djenne-djeno-urbanism"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "djenne-djeno-urbanism",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://api.parliament.uk/historic-hansard/commons/1838/apr/06/slavery-abolition-act": {
+      "titles": [
+        "Slavery Abolition Act — House of Commons debate, 6 April 1838"
+      ],
+      "publishers": [
+        "UK Parliament, Historic Hansard"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "british-slavery-emancipation"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "british-slavery-emancipation",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://archives.kdemo.or.kr/display/en/move610.html": {
+      "titles": [
+        "6·10 Movements"
+      ],
+      "publishers": [
+        "Korea Democracy Foundation Archives"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "korea-june-democracy-movement"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "korea-june-democracy-movement",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://arqueologia.inah.gob.mx/publico/especifico.php?id=NDg%3D": {
+      "titles": [
+        "Palenque — investigations beneath the Temple of the Inscriptions"
+      ],
+      "publishers": [
+        "Instituto Nacional de Antropología e Historia, Mexico"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "palenque-pakal-building"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "palenque-pakal-building",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://artsandculture.google.com/asset/the-cold-food-observance-su-shih-1036-1101/SQEuDiFQCfH8Iw?hl=zh-tw": {
+      "titles": [
+        "書黃州寒食詩"
+      ],
+      "publishers": [
+        "National Palace Museum, museum-authored collection description on Google Arts & Culture"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [],
+      "reviewIds": [
+        "chronicle:china-journey-sushi/china-stop-sushi-007"
+      ],
+      "citationCount": 1,
+      "uses": [
+        {
+          "reviewId": "chronicle:china-journey-sushi/china-stop-sushi-007",
+          "sourceIndex": 2
+        }
+      ]
+    },
+    "https://asi.nic.in/pages/WorldHeritageCholaTemples": {
+      "titles": [
+        "Great Living Chola Temples"
+      ],
+      "publishers": [
+        "Archaeological Survey of India"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "thanjavur-brihadisvara"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "thanjavur-brihadisvara",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://asi.nic.in/pages/WorldHeritageFatehpurSikri": {
+      "titles": [
+        "Fatehpur Sikri"
+      ],
+      "publishers": [
+        "Archaeological Survey of India"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "fatehpur-sikri-court"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "fatehpur-sikri-court",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://atlas.ipe.df.gov.br/en/?p=1125": {
+      "titles": [
+        "Brasília historical timeline"
+      ],
+      "publishers": [
+        "Government of the Federal District, Brazil — Atlas do Distrito Federal"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "brasilia-new-capital"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "brasilia-new-capital",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://bangladesh.un.org/en/220129-united-diversity-un-country-office-congratulates-bangladesh-international-mother-language": {
+      "titles": [
+        "United in diversity: International Mother Language Day"
+      ],
+      "publishers": [
+        "United Nations in Bangladesh / UNESCO"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "bengali-language-movement"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "bengali-language-movement",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://biblioasia.nlb.gov.sg/all-sections/vol-15-issue-1-apr-jun-2019-making-history/": {
+      "titles": [
+        "Making History — A Treaty Most Unfriendly"
+      ],
+      "publishers": [
+        "National Archives of Singapore / National Library Board"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "singapore-trading-post-treaty"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "singapore-trading-post-treaty",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://biblioasia.nlb.gov.sg/all-sections/vol-5-issue-3-oct-2009-malacca-early-european-modern-period/": {
+      "titles": [
+        "Malacca in the Early European Modern Period"
+      ],
+      "publishers": [
+        "National Library Board, Singapore — BiblioAsia"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "melaka-portuguese-conquest"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "melaka-portuguese-conquest",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://ccf.gov.lk/heritage-sites/polonnaruwa/": {
+      "titles": [
+        "Polonnaruwa"
+      ],
+      "publishers": [
+        "Central Cultural Fund, Sri Lanka"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "polonnaruwa-irrigated-capital"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "polonnaruwa-irrigated-capital",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://ccf.gov.lk/heritage-sites/sigiriya-rock-fortress/": {
+      "titles": [
+        "Sigiriya Rock Fortress"
+      ],
+      "publishers": [
+        "Central Cultural Fund, Sri Lanka"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "sigiriya-royal-landscape"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "sigiriya-royal-landscape",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://cdn.nationalarchives.gov.uk/documents/education/domesday-pack.pdf": {
+      "titles": [
+        "Domesday Book education resource pack"
+      ],
+      "publishers": [
+        "The National Archives, United Kingdom"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "domesday-survey"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "domesday-survey",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://cdn.nationalarchives.gov.uk/documents/latin-palaeography-activities-and-documents.pdf": {
+      "titles": [
+        "Latin palaeography activities and documents — Little Domesday"
+      ],
+      "publishers": [
+        "The National Archives, United Kingdom"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "domesday-survey"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "domesday-survey",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://chnm.gmu.edu/worldhistorysources/analyzing/documents/gulhane.html": {
+      "titles": [
+        "The Gülhane Proclamation, 1839"
+      ],
+      "publishers": [
+        "Roy Rosenzweig Center for History and New Media, George Mason University"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "gulhane-reform-edict"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "gulhane-reform-edict",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://ciencia.unam.mx/leer/1141/especial-mexico-500-la-fuerza-indigena-en-la-caida-de-tenochtitlan-": {
+      "titles": [
+        "México 500: La fuerza indígena en la caída de Tenochtitlan"
+      ],
+      "publishers": [
+        "UNAM, Dirección General de Divulgación de la Ciencia"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "tenochtitlan-siege"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "tenochtitlan-siege",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://digitalarchive.npm.gov.tw/opendata/Pub/DetailEng/1023?dep=P&mode=full": {
+      "titles": [
+        "Calligraphy Treasures by Various Song Masters: Letter by Su Shi (Beiyou Tie)"
+      ],
+      "publishers": [
+        "National Palace Museum"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [],
+      "reviewIds": [
+        "chronicle:china-journey-sushi/china-stop-sushi-006"
+      ],
+      "citationCount": 1,
+      "uses": [
+        {
+          "reviewId": "chronicle:china-journey-sushi/china-stop-sushi-006",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://education.asianart.org/resources/the-invention-of-woodblock-printing-in-the-tang-and-song-dynasties/": {
+      "titles": [
+        "The Invention of Woodblock Printing in the Tang and Song Dynasties"
+      ],
+      "publishers": [
+        "Asian Art Museum"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [],
+      "reviewIds": [
+        "event:china-landmark-497"
+      ],
+      "citationCount": 1,
+      "uses": [
+        {
+          "reviewId": "event:china-landmark-497",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://electoral.gov.vu/about/electoral-systems-and-legal-framework": {
+      "titles": [
+        "Electoral Systems and Legal Framework"
+      ],
+      "publishers": [
+        "Vanuatu Electoral Office"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "vanuatu-independence"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "vanuatu-independence",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/lore_data.js": {
+      "titles": [
+        "Jiangshan-map frozen source chronicle data"
+      ],
+      "publishers": [
+        "Jiangshan-map contributors"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [],
+      "reviewIds": [
+        "chronicle:china-journey-qinshihuang/china-stop-qinshihuang-001",
+        "chronicle:china-journey-qinshihuang/china-stop-qinshihuang-005",
+        "chronicle:china-journey-qinshihuang/china-stop-qinshihuang-009",
+        "chronicle:china-journey-wangyangming/china-stop-wangyangming-003",
+        "chronicle:china-journey-wangyangming/china-stop-wangyangming-009",
+        "chronicle:china-journey-zhugeliang/china-stop-zhugeliang-001",
+        "chronicle:china-journey-zhugeliang/china-stop-zhugeliang-005",
+        "chronicle:china-journey-zhugeliang/china-stop-zhugeliang-010"
+      ],
+      "citationCount": 8,
+      "uses": [
+        {
+          "reviewId": "chronicle:china-journey-qinshihuang/china-stop-qinshihuang-001",
+          "sourceIndex": 0
+        },
+        {
+          "reviewId": "chronicle:china-journey-qinshihuang/china-stop-qinshihuang-005",
+          "sourceIndex": 0
+        },
+        {
+          "reviewId": "chronicle:china-journey-qinshihuang/china-stop-qinshihuang-009",
+          "sourceIndex": 0
+        },
+        {
+          "reviewId": "chronicle:china-journey-wangyangming/china-stop-wangyangming-003",
+          "sourceIndex": 0
+        },
+        {
+          "reviewId": "chronicle:china-journey-wangyangming/china-stop-wangyangming-009",
+          "sourceIndex": 0
+        },
+        {
+          "reviewId": "chronicle:china-journey-zhugeliang/china-stop-zhugeliang-001",
+          "sourceIndex": 0
+        },
+        {
+          "reviewId": "chronicle:china-journey-zhugeliang/china-stop-zhugeliang-005",
+          "sourceIndex": 0
+        },
+        {
+          "reviewId": "chronicle:china-journey-zhugeliang/china-stop-zhugeliang-010",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://home.nps.gov/articles/000/marshall-islands.htm": {
+      "titles": [
+        "Marshall Islands"
+      ],
+      "publishers": [
+        "U.S. National Park Service"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "marshall-islands-nuclear-tests"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "marshall-islands-nuclear-tests",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://idp.bl.uk/collection/51FDAEAFB4A24E2E9981692A98130BC8/": {
+      "titles": [
+        "Or.8210/P.2 — Diamond Sutra collection record"
+      ],
+      "publishers": [
+        "International Dunhuang Programme / British Library"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "diamond-sutra-868"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "diamond-sutra-868",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://idp.bl.uk/discover/learning/buddhism-on-the-silk-roads/articles/buddhism-on-the-ground/buddhist-texts-the-diamond-sutra/": {
+      "titles": [
+        "Buddhist Texts: The Diamond Sutra"
+      ],
+      "publishers": [
+        "International Dunhuang Programme / British Library"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "diamond-sutra-868"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "diamond-sutra-868",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://imes.nwu.edu.cn/info/1052/3971.htm": {
+      "titles": [
+        "谢志斌谈中吉交往带给世界的启示"
+      ],
+      "publishers": [
+        "Northwest University Institute of Middle Eastern Studies, interview with its associate professor Xie Zhibin"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [],
+      "reviewIds": [
+        "chronicle:china-journey-libai/china-stop-libai-001"
+      ],
+      "citationCount": 1,
+      "uses": [
+        {
+          "reviewId": "chronicle:china-journey-libai/china-stop-libai-001",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://jinju.museum.go.kr/eng/html/sub02/020101.html": {
+      "titles": [
+        "Imjin War Hall"
+      ],
+      "publishers": [
+        "Jinju National Museum, Republic of Korea"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "imjin-war"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "imjin-war",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://kinginstitute.stanford.edu/montgomery-bus-boycott": {
+      "titles": [
+        "Montgomery Bus Boycott"
+      ],
+      "publishers": [
+        "The Martin Luther King, Jr. Research and Education Institute, Stanford University"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "montgomery-bus-boycott"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "montgomery-bus-boycott",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://kpi.ac.th/en/about/biography-of-king-rama-vii/": {
+      "titles": [
+        "Biography of King Rama VII — Granting the Constitution"
+      ],
+      "publishers": [
+        "King Prajadhipok’s Institute"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "siam-constitutional-change"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "siam-constitutional-change",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://lofen.net/%E8%98%87%E6%9D%B1%E5%9D%A1%E5%9C%A8%E6%B5%B7%E5%8D%97%E5%B3%B6/": {
+      "titles": [
+        "陪你來讀蘇東坡—22 東坡在海南"
+      ],
+      "publishers": [
+        "I Lo-fen, scholar and Nanyang Technological University teacher; original authored teaching page"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [],
+      "reviewIds": [
+        "chronicle:china-journey-sushi/china-stop-sushi-009"
+      ],
+      "citationCount": 1,
+      "uses": [
+        {
+          "reviewId": "chronicle:china-journey-sushi/china-stop-sushi-009",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://lugares.inah.gob.mx/en/node/5597": {
+      "titles": [
+        "The Tombs of Monte Albán"
+      ],
+      "publishers": [
+        "Instituto Nacional de Antropología e Historia, Mexico"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "monte-alban-zapotec-capital"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "monte-alban-zapotec-capital",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://mathshistory.st-andrews.ac.uk/Biographies/Al-Kashi/": {
+      "titles": [
+        "Al-Kashi"
+      ],
+      "publishers": [
+        "MacTutor History of Mathematics, University of St Andrews"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "samarkand-observatory"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "samarkand-observatory",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://mathshistory.st-andrews.ac.uk/Biographies/Qadi_Zada/": {
+      "titles": [
+        "Qadi Zada al-Rumi"
+      ],
+      "publishers": [
+        "MacTutor History of Mathematics, University of St Andrews"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "samarkand-observatory"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "samarkand-observatory",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://media.unesco.org/sites/default/files/webform/mow001/germany_antoniniana_eng.pdf": {
+      "titles": [
+        "Constitutio Antoniniana — Memory of the World nomination"
+      ],
+      "publishers": [
+        "Justus Liebig University Giessen / UNESCO Memory of the World"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "caracalla-citizenship-edict"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "caracalla-citizenship-edict",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://media.unesco.org/sites/default/files/webform/mow001/korea_tripitaka.pdf": {
+      "titles": [
+        "Printing woodblocks of the Tripitaka Koreana and miscellaneous Buddhist scriptures: nomination"
+      ],
+      "publishers": [
+        "Cultural Heritage Administration, Republic of Korea / UNESCO Memory of the World"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "tripitaka-koreana-carving"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "tripitaka-koreana-carving",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://mfai.gov.ck/2025/02/statement-minister-foreign-affairs-immigration-hon-tingika-elikana-12th-meeting-18th/": {
+      "titles": [
+        "Ministerial statement to Parliament, 17 February 2025"
+      ],
+      "publishers": [
+        "Cook Islands Ministry of Foreign Affairs and Immigration"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "cook-islands-self-government"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "cook-islands-self-government",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://museumcollection.tokyo/en/works/6279645/": {
+      "titles": [
+        "Portrait of Tokugawa Ieyasu"
+      ],
+      "publishers": [
+        "Edo-Tokyo Museum / Tokyo Museum Collection"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "tokugawa-shogunate-establishment"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "tokugawa-shogunate-establishment",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://nzhistory.govt.nz/cook-islands-achieves-self-government": {
+      "titles": [
+        "Cook Islands achieves self-government"
+      ],
+      "publishers": [
+        "Manatū Taonga, Ministry for Culture and Heritage, New Zealand"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "cook-islands-self-government"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "cook-islands-self-government",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://nzhistory.govt.nz/media/interactive/he-whakaputanga-declaration-independence-1835": {
+      "titles": [
+        "He Whakaputanga — Declaration of Independence, 1835"
+      ],
+      "publishers": [
+        "Manatū Taonga, Ministry for Culture and Heritage, New Zealand"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "he-whakaputanga-declaration"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "he-whakaputanga-declaration",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://parks.canada.ca/lhn-nhs/nl/meadows/culture": {
+      "titles": [
+        "History and culture — L’Anse aux Meadows"
+      ],
+      "publishers": [
+        "Parks Canada"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "lanse-aux-meadows-woodworking"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "lanse-aux-meadows-woodworking",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://parks.canada.ca/lhn-nhs/qc/fortchambly/culture/histoire-history/site/samuel-de-champlain": {
+      "titles": [
+        "Samuel de Champlain — a founding figure"
+      ],
+      "publishers": [
+        "Parks Canada"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "quebec-french-settlement"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "quebec-french-settlement",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://philhistoricsites.nhcp.gov.ph/registry_database/site-of-the-proclamation-of-philippine-independence/": {
+      "titles": [
+        "Site of the Proclamation of Philippine Independence"
+      ],
+      "publishers": [
+        "National Historical Commission of the Philippines"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "philippines-declaration-1898"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "philippines-declaration-1898",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC4115531/": {
+      "titles": [
+        "Stone tools from the ancient Tongan state reveal prehistoric interaction centers in the Central Pacific"
+      ],
+      "publishers": [
+        "Clark and colleagues, Proceedings of the National Academy of Sciences, 2014"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "lapaha-tongan-centre"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "lapaha-tongan-centre",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://poj.peeters-leuven.be/content.php?url=article&id=2055070&journal_code=JA": {
+      "titles": [
+        "Note sur la chronologie du voyage de Xuanzang"
+      ],
+      "publishers": [
+        "Journal Asiatique 298(1), 2010, pp.157–168; Peeters"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [],
+      "reviewIds": [
+        "chronicle:china-journey-xuanzang/china-stop-xuanzang-001",
+        "chronicle:china-journey-xuanzang/china-stop-xuanzang-002",
+        "chronicle:china-journey-xuanzang/china-stop-xuanzang-003",
+        "chronicle:china-journey-xuanzang/china-stop-xuanzang-004",
+        "chronicle:china-journey-xuanzang/china-stop-xuanzang-005",
+        "chronicle:china-journey-xuanzang/china-stop-xuanzang-006",
+        "chronicle:china-journey-xuanzang/china-stop-xuanzang-007",
+        "chronicle:china-journey-xuanzang/china-stop-xuanzang-008"
+      ],
+      "citationCount": 8,
+      "uses": [
+        {
+          "reviewId": "chronicle:china-journey-xuanzang/china-stop-xuanzang-001",
+          "sourceIndex": 0
+        },
+        {
+          "reviewId": "chronicle:china-journey-xuanzang/china-stop-xuanzang-002",
+          "sourceIndex": 0
+        },
+        {
+          "reviewId": "chronicle:china-journey-xuanzang/china-stop-xuanzang-003",
+          "sourceIndex": 0
+        },
+        {
+          "reviewId": "chronicle:china-journey-xuanzang/china-stop-xuanzang-004",
+          "sourceIndex": 0
+        },
+        {
+          "reviewId": "chronicle:china-journey-xuanzang/china-stop-xuanzang-005",
+          "sourceIndex": 0
+        },
+        {
+          "reviewId": "chronicle:china-journey-xuanzang/china-stop-xuanzang-006",
+          "sourceIndex": 0
+        },
+        {
+          "reviewId": "chronicle:china-journey-xuanzang/china-stop-xuanzang-007",
+          "sourceIndex": 0
+        },
+        {
+          "reviewId": "chronicle:china-journey-xuanzang/china-stop-xuanzang-008",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://pridi.or.th/th/content/2022/06/1151": {
+      "titles": [
+        "The first constitution, 27 June 1932"
+      ],
+      "publishers": [
+        "Pridi Banomyong Institute"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "siam-constitutional-change"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "siam-constitutional-change",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://prologue.blogs.archives.gov/2023/10/31/manuel-quezon-and-the-push-for-philippine-independence/": {
+      "titles": [
+        "Manuel Quezon and the Push for Philippine Independence"
+      ],
+      "publishers": [
+        "U.S. National Archives"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "philippines-declaration-1898"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "philippines-declaration-1898",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://pure.rug.nl/ws/portalfiles/portal/204883332/s41586_021_03972_8.pdf": {
+      "titles": [
+        "Evidence for European presence in the Americas in AD 1021"
+      ],
+      "publishers": [
+        "Kuitems et al., Nature / University of Groningen repository"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "lanse-aux-meadows-woodworking"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "lanse-aux-meadows-woodworking",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://royalsociety.org/about-us/who-we-are/history/": {
+      "titles": [
+        "History of the Royal Society"
+      ],
+      "publishers": [
+        "The Royal Society"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "royal-society-experiments"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "royal-society-experiments",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://royalsociety.org/blog/2021/11/on-this-day/": {
+      "titles": [
+        "On this day — the first Journal Book"
+      ],
+      "publishers": [
+        "The Royal Society"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "royal-society-experiments"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "royal-society-experiments",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://sardisexpedition.org/en/essays/latw-kroll-coins-of-sardis": {
+      "titles": [
+        "The Coins of Sardis"
+      ],
+      "publishers": [
+        "John H. Kroll, Archaeological Exploration of Sardis"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "sardis-early-coinage"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "sardis-early-coinage",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://srilanka.un.org/en/220120-remarks-un-resident-coordinator-ai-sarat-dash-international-mother-language-day": {
+      "titles": [
+        "Remarks on International Mother Language Day, 21 February 2023"
+      ],
+      "publishers": [
+        "United Nations in Sri Lanka"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "bengali-language-movement"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "bengali-language-movement",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://taxilamuseum.punjab.gov.pk/node/79": {
+      "titles": [
+        "Sirkap"
+      ],
+      "publishers": [
+        "Taxila Museum, Government of Punjab"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "taxila-sirkap"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "taxila-sirkap",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://teara.govt.nz/en/interactive/31749/wairau-bar-archaeological-site": {
+      "titles": [
+        "Wairau Bar: archaeological site"
+      ],
+      "publishers": [
+        "Te Ara, Ministry for Culture and Heritage, New Zealand"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "wairau-bar-settlement"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "wairau-bar-settlement",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://theme.npm.edu.tw/selection/Article.aspx?sNo=04009295": {
+      "titles": [
+        "前赤壁賦"
+      ],
+      "publishers": [
+        "National Palace Museum"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [],
+      "reviewIds": [
+        "chronicle:china-journey-sushi/china-stop-sushi-007"
+      ],
+      "citationCount": 1,
+      "uses": [
+        {
+          "reviewId": "chronicle:china-journey-sushi/china-stop-sushi-007",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://whc.unesco.org/document/10062": {
+      "titles": [
+        "Cultural Landscapes of the Pacific, Lapaha section, pp. 97–98"
+      ],
+      "publishers": [
+        "ICOMOS / UNESCO World Heritage Centre"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "lapaha-tongan-centre"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "lapaha-tongan-centre",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://whc.unesco.org/document/152694": {
+      "titles": [
+        "Pyu Ancient Cities: ICOMOS evaluation, 2014"
+      ],
+      "publishers": [
+        "ICOMOS / UNESCO World Heritage Centre"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "pyu-irrigated-cities"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "pyu-irrigated-cities",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://whc.unesco.org/document/154050": {
+      "titles": [
+        "Nasca and Palpa — ICOMOS advisory evaluation"
+      ],
+      "publishers": [
+        "ICOMOS / UNESCO World Heritage Centre"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "nasca-palpa-geoglyphs"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "nasca-palpa-geoglyphs",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://whc.unesco.org/document/216464": {
+      "titles": [
+        "Cartagena — Periodic Reporting, Cycle 3, Section II"
+      ],
+      "publishers": [
+        "Colombian World Heritage property authorities / UNESCO World Heritage Centre"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "cartagena-port-fortifications"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "cartagena-port-fortifications",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://whc.unesco.org/en/activities/156/": {
+      "titles": [
+        "Restoration of the Fasil Ghebbi Monument, Gondar"
+      ],
+      "publishers": [
+        "UNESCO World Heritage Centre"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "gondar-permanent-capital"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "gondar-permanent-capital",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://whc.unesco.org/en/activities/160/": {
+      "titles": [
+        "Conservation of the Rock-Hewn Churches of Lalibela"
+      ],
+      "publishers": [
+        "UNESCO World Heritage Centre"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "lalibela-rock-hewn-churches"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "lalibela-rock-hewn-churches",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://whc.unesco.org/en/decisions/3999/": {
+      "titles": [
+        "Decision 34 COM 8B.20 — Bikini Atoll Nuclear Test Site"
+      ],
+      "publishers": [
+        "UNESCO World Heritage Committee"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "marshall-islands-nuclear-tests"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "marshall-islands-nuclear-tests",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://whc.unesco.org/en/list/1001/": {
+      "titles": [
+        "Mount Qingcheng and the Dujiangyan Irrigation System"
+      ],
+      "publishers": [
+        "UNESCO World Heritage Centre"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [],
+      "reviewIds": [
+        "event:china-landmark-089"
+      ],
+      "citationCount": 1,
+      "uses": [
+        {
+          "reviewId": "event:china-landmark-089",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://whc.unesco.org/en/list/1099/": {
+      "titles": [
+        "Mapungubwe Cultural Landscape"
+      ],
+      "publishers": [
+        "UNESCO World Heritage Centre"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "mapungubwe-hill-kingdom"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "mapungubwe-hill-kingdom",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://whc.unesco.org/en/list/115/": {
+      "titles": [
+        "Meidan Emam, Esfahan"
+      ],
+      "publishers": [
+        "UNESCO World Heritage Centre"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "isfahan-royal-square"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "isfahan-royal-square",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://whc.unesco.org/en/list/116/": {
+      "titles": [
+        "Old Towns of Djenné"
+      ],
+      "publishers": [
+        "UNESCO World Heritage Centre"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "djenne-djeno-urbanism"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "djenne-djeno-urbanism",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://whc.unesco.org/en/list/1222/": {
+      "titles": [
+        "Bisotun"
+      ],
+      "publishers": [
+        "UNESCO World Heritage Centre"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "bisotun-royal-inscription"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "bisotun-royal-inscription",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://whc.unesco.org/en/list/1338/": {
+      "titles": [
+        "The Jantar Mantar, Jaipur"
+      ],
+      "publishers": [
+        "UNESCO World Heritage Centre"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "jantar-mantar-jaipur"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "jantar-mantar-jaipur",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://whc.unesco.org/en/list/139/": {
+      "titles": [
+        "Taxila"
+      ],
+      "publishers": [
+        "UNESCO World Heritage Centre"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "taxila-sirkap"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "taxila-sirkap",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://whc.unesco.org/en/list/1443/": {
+      "titles": [
+        "The Grand Canal"
+      ],
+      "publishers": [
+        "UNESCO World Heritage Centre"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "grand-canal-network"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "grand-canal-network",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://whc.unesco.org/en/list/1444/": {
+      "titles": [
+        "Pyu Ancient Cities"
+      ],
+      "publishers": [
+        "UNESCO World Heritage Centre"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "pyu-irrigated-cities"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "pyu-irrigated-cities",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://whc.unesco.org/en/list/1487/": {
+      "titles": [
+        "Arab-Norman Palermo and the Cathedral Churches of Cefalú and Monreale"
+      ],
+      "publishers": [
+        "UNESCO World Heritage Centre"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "palermo-norman-cultural-exchange"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "palermo-norman-cultural-exchange",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://whc.unesco.org/en/list/1511/": {
+      "titles": [
+        "Mbanza Kongo, Vestiges of the Capital of the former Kingdom of Kongo"
+      ],
+      "publishers": [
+        "UNESCO World Heritage Centre"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "mbanza-kongo-christian-court"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "mbanza-kongo-christian-court",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://whc.unesco.org/en/list/18/": {
+      "titles": [
+        "Rock-Hewn Churches, Lalibela"
+      ],
+      "publishers": [
+        "UNESCO World Heritage Centre"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "lalibela-rock-hewn-churches"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "lalibela-rock-hewn-churches",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://whc.unesco.org/en/list/19/": {
+      "titles": [
+        "Fasil Ghebbi, Gondar Region"
+      ],
+      "publishers": [
+        "UNESCO World Heritage Centre"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "gondar-permanent-capital"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "gondar-permanent-capital",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://whc.unesco.org/en/list/20/": {
+      "titles": [
+        "Ancient City of Damascus"
+      ],
+      "publishers": [
+        "UNESCO World Heritage Centre"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "damascus-umayyad-mosque"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "damascus-umayyad-mosque",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://whc.unesco.org/en/list/201/": {
+      "titles": [
+        "Ancient City of Polonnaruwa"
+      ],
+      "publishers": [
+        "UNESCO World Heritage Centre"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "polonnaruwa-irrigated-capital"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "polonnaruwa-irrigated-capital",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://whc.unesco.org/en/list/202/": {
+      "titles": [
+        "Ancient City of Sigiriya"
+      ],
+      "publishers": [
+        "UNESCO World Heritage Centre"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "sigiriya-royal-landscape"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "sigiriya-royal-landscape",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://whc.unesco.org/en/list/242/": {
+      "titles": [
+        "Ajanta Caves"
+      ],
+      "publishers": [
+        "UNESCO World Heritage Centre"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "ajanta-cave-workshops"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "ajanta-cave-workshops",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://whc.unesco.org/en/list/250/": {
+      "titles": [
+        "Great Living Chola Temples"
+      ],
+      "publishers": [
+        "UNESCO World Heritage Centre"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "thanjavur-brihadisvara"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "thanjavur-brihadisvara",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://whc.unesco.org/en/list/255/": {
+      "titles": [
+        "Fatehpur Sikri"
+      ],
+      "publishers": [
+        "UNESCO World Heritage Centre"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "fatehpur-sikri-court"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "fatehpur-sikri-court",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://whc.unesco.org/en/list/27/": {
+      "titles": [
+        "Mesa Verde National Park"
+      ],
+      "publishers": [
+        "UNESCO World Heritage Centre"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "mesa-verde-cliff-villages"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "mesa-verde-cliff-villages",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://whc.unesco.org/en/list/272/": {
+      "titles": [
+        "Hanseatic City of Lübeck"
+      ],
+      "publishers": [
+        "UNESCO World Heritage Centre"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "lubeck-hanseatic-trade"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "lubeck-hanseatic-trade",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://whc.unesco.org/en/list/285/": {
+      "titles": [
+        "Port, Fortresses and Group of Monuments, Cartagena"
+      ],
+      "publishers": [
+        "UNESCO World Heritage Centre"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "cartagena-port-fortifications"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "cartagena-port-fortifications",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://whc.unesco.org/en/list/3/": {
+      "titles": [
+        "Aachen Cathedral"
+      ],
+      "publishers": [
+        "UNESCO World Heritage Centre"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "aachen-palatine-chapel"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "aachen-palatine-chapel",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://whc.unesco.org/en/list/300/": {
+      "titles": [
+        "Historic District of Old Québec"
+      ],
+      "publishers": [
+        "UNESCO World Heritage Centre"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "quebec-french-settlement"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "quebec-french-settlement",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://whc.unesco.org/en/list/356/": {
+      "titles": [
+        "Historic Areas of Istanbul"
+      ],
+      "publishers": [
+        "UNESCO World Heritage Centre"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "hagia-sophia-justinian"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "hagia-sophia-justinian",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://whc.unesco.org/en/list/411/": {
+      "titles": [
+        "Pre-Hispanic City and National Park of Palenque"
+      ],
+      "publishers": [
+        "UNESCO World Heritage Centre"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "palenque-pakal-building"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "palenque-pakal-building",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://whc.unesco.org/en/list/415/": {
+      "titles": [
+        "Historic Centre of Oaxaca and Archaeological Site of Monte Albán"
+      ],
+      "publishers": [
+        "UNESCO World Heritage Centre"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "monte-alban-zapotec-capital"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "monte-alban-zapotec-capital",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://whc.unesco.org/en/list/420/": {
+      "titles": [
+        "City of Potosí"
+      ],
+      "publishers": [
+        "UNESCO World Heritage Centre"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "potosi-silver-labor"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "potosi-silver-labor",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://whc.unesco.org/en/list/445/": {
+      "titles": [
+        "Brasilia"
+      ],
+      "publishers": [
+        "UNESCO World Heritage Centre"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "brasilia-new-capital"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "brasilia-new-capital",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://whc.unesco.org/en/list/574/": {
+      "titles": [
+        "Historic Town of Sukhothai and Associated Historic Towns"
+      ],
+      "publishers": [
+        "UNESCO World Heritage Centre"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "sukhothai-urban-arts"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "sukhothai-urban-arts",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://whc.unesco.org/en/list/660/": {
+      "titles": [
+        "Buddhist Monuments in the Horyu-ji Area"
+      ],
+      "publishers": [
+        "UNESCO World Heritage Centre"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "horyuji-buddhist-building"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "horyuji-buddhist-building",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://whc.unesco.org/en/list/700/": {
+      "titles": [
+        "Lines and Geoglyphs of Nasca and Palpa"
+      ],
+      "publishers": [
+        "UNESCO World Heritage Centre"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "nasca-palpa-geoglyphs"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "nasca-palpa-geoglyphs",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://whc.unesco.org/en/list/731/": {
+      "titles": [
+        "Hanseatic Town of Visby"
+      ],
+      "publishers": [
+        "UNESCO World Heritage Centre"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "lubeck-hanseatic-trade"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "lubeck-hanseatic-trade",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://whc.unesco.org/en/list/737/": {
+      "titles": [
+        "Haeinsa Temple Janggyeong Panjeon, the Depositories for the Tripitaka Koreana Woodblocks"
+      ],
+      "publishers": [
+        "UNESCO World Heritage Centre"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "tripitaka-koreana-carving"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "tripitaka-koreana-carving",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://whc.unesco.org/en/list/870/": {
+      "titles": [
+        "Historic Monuments of Ancient Nara"
+      ],
+      "publishers": [
+        "UNESCO World Heritage Centre"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "nara-heijo-capital"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "nara-heijo-capital",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://whc.unesco.org/en/list/88/": {
+      "titles": [
+        "Nubian Monuments from Abu Simbel to Philae"
+      ],
+      "publishers": [
+        "UNESCO World Heritage Centre"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "abu-simbel-relocation"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "abu-simbel-relocation",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://whc.unesco.org/en/story-abu-simbel/": {
+      "titles": [
+        "The story of Abu Simbel"
+      ],
+      "publishers": [
+        "UNESCO World Heritage Centre"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "abu-simbel-relocation"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "abu-simbel-relocation",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://whc.unesco.org/en/tentativelists/6263/": {
+      "titles": [
+        "Santa Bárbara mining complex — Peru’s Tentative List submission"
+      ],
+      "publishers": [
+        "Permanent Delegation of Peru to UNESCO"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "potosi-silver-labor"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "potosi-silver-labor",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://www.archives.gov/milestone-documents/declaration-of-independence": {
+      "titles": [
+        "Declaration of Independence (1776)"
+      ],
+      "publishers": [
+        "U.S. National Archives"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "us-declaration-independence"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "us-declaration-independence",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://www.archives.govt.nz/discover-our-stories/the-declaration-of-independence-of-new-zealand": {
+      "titles": [
+        "The Declaration of the Independence of New Zealand"
+      ],
+      "publishers": [
+        "Archives New Zealand / Te Rua Mahara o te Kāwanatanga"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "he-whakaputanga-declaration"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "he-whakaputanga-declaration",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://www.bnf.fr/en/jikji-treasure-world-printing": {
+      "titles": [
+        "Jikji, a treasure of the world of printing"
+      ],
+      "publishers": [
+        "Bibliothèque nationale de France"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "jikji-metal-type"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "jikji-metal-type",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada/read-online/canadas-history.html": {
+      "titles": [
+        "Discover Canada — Canada’s History"
+      ],
+      "publishers": [
+        "Government of Canada"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "canadian-pacific-last-spike"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "canadian-pacific-last-spike",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/treasures-revealed/episode-016.html": {
+      "titles": [
+        "Last Spike — Treasures Revealed, Episode 16"
+      ],
+      "publishers": [
+        "Library and Archives Canada"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "canadian-pacific-last-spike"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "canadian-pacific-last-spike",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://www.csb.gov.hk/hkgcsb/ol/news/no92/html/p1.html": {
+      "titles": [
+        "鑿空之旅"
+      ],
+      "publishers": [
+        "Hong Kong Civil Service Bureau, Word Power"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [],
+      "reviewIds": [
+        "chronicle:china-journey-zhangqian/china-stop-zhangqian-009"
+      ],
+      "citationCount": 1,
+      "uses": [
+        {
+          "reviewId": "chronicle:china-journey-zhangqian/china-stop-zhangqian-009",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://www.dfg.de/resource/blob/365490/14-ahrc-library-ashurbanipal.pdf": {
+      "titles": [
+        "Reading the Library of Ashurbanipal: project results"
+      ],
+      "publishers": [
+        "Deutsche Forschungsgemeinschaft; British Museum / LMU research team"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "nineveh-scribal-library"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "nineveh-scribal-library",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://www.diputados.gob.mx/LeyesBiblio/ref/dof/CPEUM_orig_05feb1917_ima.pdf": {
+      "titles": [
+        "Constitución Política de los Estados Unidos Mexicanos — original publication, 5 February 1917"
+      ],
+      "publishers": [
+        "Cámara de Diputados, Mexico"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "mexico-constitution-1917"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "mexico-constitution-1917",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/chinese-culture/2025/2526_Classic_sayings_Brief_ul.pdf": {
+      "titles": [
+        "中華經典名句 2025/2026：蘇軾作品選"
+      ],
+      "publishers": [
+        "Hong Kong Education Bureau"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [],
+      "reviewIds": [
+        "chronicle:china-journey-sushi/china-stop-sushi-004",
+        "chronicle:china-journey-sushi/china-stop-sushi-007"
+      ],
+      "citationCount": 2,
+      "uses": [
+        {
+          "reviewId": "chronicle:china-journey-sushi/china-stop-sushi-004",
+          "sourceIndex": 0
+        },
+        {
+          "reviewId": "chronicle:china-journey-sushi/china-stop-sushi-007",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/resources/secondary-edu/lang/CDI020221738_ppt.pdf": {
+      "titles": [
+        "重讀經典(五)：水調歌頭並序、天淨沙秋思、青玉案元夕"
+      ],
+      "publishers": [
+        "Hong Kong Education Bureau; lecture by Chan Wai-shun, Chinese University of Hong Kong"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [],
+      "reviewIds": [
+        "chronicle:china-journey-sushi/china-stop-sushi-005"
+      ],
+      "citationCount": 1,
+      "uses": [
+        {
+          "reviewId": "chronicle:china-journey-sushi/china-stop-sushi-005",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://www.gov.vu/index.php/about/about-vanuatu": {
+      "titles": [
+        "About Vanuatu — History"
+      ],
+      "publishers": [
+        "Government of Vanuatu"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "vanuatu-independence"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "vanuatu-independence",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://www.iranicaonline.org/articles/bisotun-iii/": {
+      "titles": [
+        "Bisotun iii. Darius’s Inscriptions"
+      ],
+      "publishers": [
+        "Rüdiger Schmitt, Encyclopaedia Iranica"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "bisotun-royal-inscription"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "bisotun-royal-inscription",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://www.loc.gov/exhibits/mexican-revolution-and-the-united-states/constitution-of-1917.html": {
+      "titles": [
+        "The Constitution of 1917 — The Mexican Revolution and the United States"
+      ],
+      "publishers": [
+        "Library of Congress"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "mexico-constitution-1917"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "mexico-constitution-1917",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://www.loc.gov/loc/lcib/11078/law.html": {
+      "titles": [
+        "Law Library Acquires Rare Medieval Law Manuscript"
+      ],
+      "publishers": [
+        "Library of Congress"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "justinian-law-compilation"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "justinian-law-compilation",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://www.metmuseum.org/art/collection/search/35376": {
+      "titles": [
+        "Pair of Stirrups (Abumi)"
+      ],
+      "publishers": [
+        "The Metropolitan Museum of Art"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "tokugawa-shogunate-establishment"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "tokugawa-shogunate-establishment",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://www.metmuseum.org/art/collection/search/39147": {
+      "titles": [
+        "Standing Prajnaparamita"
+      ],
+      "publishers": [
+        "The Metropolitan Museum of Art"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "sukhothai-urban-arts"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "sukhothai-urban-arts",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://www.metmuseum.org/art/collection/search/39209": {
+      "titles": [
+        "Miniature drum with four frogs"
+      ],
+      "publishers": [
+        "The Metropolitan Museum of Art"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "dong-son-bronze-networks"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "dong-son-bronze-networks",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://www.metmuseum.org/art/collection/search/50782": {
+      "titles": [
+        "Drum model"
+      ],
+      "publishers": [
+        "The Metropolitan Museum of Art"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "dong-son-bronze-networks"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "dong-son-bronze-networks",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://www.metmuseum.org/essays/african-christianity-in-ethiopia": {
+      "titles": [
+        "African Christianity in Ethiopia"
+      ],
+      "publishers": [
+        "The Metropolitan Museum of Art"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "aksum-ezana-christianity"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "aksum-ezana-christianity",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://www.metmuseum.org/essays/carolingian-art": {
+      "titles": [
+        "Carolingian Art"
+      ],
+      "publishers": [
+        "The Metropolitan Museum of Art"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "aachen-palatine-chapel"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "aachen-palatine-chapel",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://www.metmuseum.org/essays/foundations-of-aksumite-civilization-and-its-christian-legacy-1st-7th-century": {
+      "titles": [
+        "Foundations of Aksumite Civilization and Its Christian Legacy"
+      ],
+      "publishers": [
+        "The Metropolitan Museum of Art"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "aksum-ezana-christianity"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "aksum-ezana-christianity",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://www.metmuseum.org/essays/hagia-sophia-532-37": {
+      "titles": [
+        "Hagia Sophia (532–37)"
+      ],
+      "publishers": [
+        "The Metropolitan Museum of Art"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "hagia-sophia-justinian"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "hagia-sophia-justinian",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://www.metmuseum.org/essays/ife-from-ca-6th-century": {
+      "titles": [
+        "Ife (from ca. 6th century)"
+      ],
+      "publishers": [
+        "The Metropolitan Museum of Art"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "ife-sculpture-workshops"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "ife-sculpture-workshops",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://www.metmuseum.org/essays/sardis": {
+      "titles": [
+        "Sardis"
+      ],
+      "publishers": [
+        "The Metropolitan Museum of Art"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "sardis-early-coinage"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "sardis-early-coinage",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://www.metmuseum.org/essays/shah-cabbas-and-the-arts-of-isfahan": {
+      "titles": [
+        "Shah Abbas and the Arts of Isfahan"
+      ],
+      "publishers": [
+        "The Metropolitan Museum of Art"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "isfahan-royal-square"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "isfahan-royal-square",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-661-750": {
+      "titles": [
+        "The Art of the Umayyad Period (661–750)"
+      ],
+      "publishers": [
+        "The Metropolitan Museum of Art"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "damascus-umayyad-mosque"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "damascus-umayyad-mosque",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://www.metmuseum.org/essays/the-byzantine-state-under-justinian-i-justinian-the-great": {
+      "titles": [
+        "The Byzantine State under Justinian I"
+      ],
+      "publishers": [
+        "The Metropolitan Museum of Art"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "justinian-law-compilation"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "justinian-law-compilation",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://www.metmuseum.org/essays/the-later-ottomans-and-the-impact-of-europe": {
+      "titles": [
+        "The Later Ottomans and the Impact of Europe"
+      ],
+      "publishers": [
+        "The Metropolitan Museum of Art"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "gulhane-reform-edict"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "gulhane-reform-edict",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://www.metmuseum.org/exhibitions/arts-of-africa/inside-the-exhibition": {
+      "titles": [
+        "Arts of Africa: Inside the Exhibition — Nok"
+      ],
+      "publishers": [
+        "The Metropolitan Museum of Art"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "nok-terracotta-workshops"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "nok-terracotta-workshops",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://www.metmuseum.org/exhibitions/listings/2013/cyrus-cylinder": {
+      "titles": [
+        "The Cyrus Cylinder and Ancient Persia"
+      ],
+      "publishers": [
+        "The Metropolitan Museum of Art / British Museum exhibition"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "cyrus-babylon-cylinder"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "cyrus-babylon-cylinder",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://www.metmuseum.org/exhibitions/listings/2015/kongo/blog/posts/kongo-christian-art": {
+      "titles": [
+        "Kongo Christian Art: Cross-Cultural Interaction in the Atlantic World"
+      ],
+      "publishers": [
+        "The Metropolitan Museum of Art"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "mbanza-kongo-christian-court"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "mbanza-kongo-christian-court",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://www.metmuseum.org/perspectives/cyrus-the-great": {
+      "titles": [
+        "The Later Legacy of Cyrus the Great"
+      ],
+      "publishers": [
+        "Michael Seymour, The Metropolitan Museum of Art"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "cyrus-babylon-cylinder"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "cyrus-babylon-cylinder",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://www.metmuseum.org/toah/ht/05/ssa.html": {
+      "titles": [
+        "South Asia, 1–500 A.D."
+      ],
+      "publishers": [
+        "The Metropolitan Museum of Art"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "ajanta-cave-workshops"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "ajanta-cave-workshops",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://www.metmuseum.org/toah/ht/07/afg.html": {
+      "titles": [
+        "Western and Central Sudan, 1000–1400 A.D."
+      ],
+      "publishers": [
+        "The Metropolitan Museum of Art"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "ife-sculpture-workshops"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "ife-sculpture-workshops",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://www.metmuseum.org/toah/ht/07/eust.html": {
+      "titles": [
+        "Italian Peninsula, 1000–1400 A.D."
+      ],
+      "publishers": [
+        "The Metropolitan Museum of Art"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "palermo-norman-cultural-exchange"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "palermo-norman-cultural-exchange",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://www.much.go.kr/online_exhi/vnv/exh_info.html": {
+      "titles": [
+        "Votes and Voices: The Advance toward Democracy in Korea"
+      ],
+      "publishers": [
+        "National Museum of Korean Contemporary History"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "korea-june-democracy-movement"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "korea-june-democracy-movement",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://www.nabunken.go.jp/english/monograph/79.html": {
+      "titles": [
+        "Report 79: First Imperial Audience Hall, English summary"
+      ],
+      "publishers": [
+        "Nara National Research Institute for Cultural Properties"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "nara-heijo-capital"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "nara-heijo-capital",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://www.nationaalarchief.nl/beleven/onderwijs/bronnenbox/coen-bouwt-fort-batavia-1619": {
+      "titles": [
+        "Coen builds Fort Batavia, 1619"
+      ],
+      "publishers": [
+        "Nationaal Archief, Netherlands"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "batavia-company-capital"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "batavia-company-capital",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://www.ndl.go.jp/constitution/e/etc/c01.html": {
+      "titles": [
+        "The Constitution of Japan"
+      ],
+      "publishers": [
+        "National Diet Library, Japan; English text based on Government Printing Bureau edition"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "japan-postwar-constitution"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "japan-postwar-constitution",
+          "sourceIndex": 2
+        }
+      ]
+    },
+    "https://www.ndl.go.jp/constitution/e/etc/history05.html": {
+      "titles": [
+        "Chronological Table, December 1946–June 1947"
+      ],
+      "publishers": [
+        "National Diet Library, Japan"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "japan-postwar-constitution"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "japan-postwar-constitution",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://www.ndl.go.jp/constitution/e/shiryo/04/131shoshi.html": {
+      "titles": [
+        "Constitution of Japan, November 3, 1946"
+      ],
+      "publishers": [
+        "National Diet Library, Japan"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "japan-postwar-constitution"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "japan-postwar-constitution",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://www.nlb.gov.sg/main/article-detail?cmsuuid=cf6a17a7-128f-4ba0-a6a3-90d009afe660": {
+      "titles": [
+        "Portuguese trade empire in Asia"
+      ],
+      "publishers": [
+        "National Library Board, Singapore"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "melaka-portuguese-conquest"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "melaka-portuguese-conquest",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://www.nlb.gov.sg/main/book-detail?cmsuuid=c0017112-1260-44e5-840f-645bc606b71b": {
+      "titles": [
+        "Copy treaty between Raffles and the Sultan of Johore for a settlement at Singapore"
+      ],
+      "publishers": [
+        "National Library Board, Singapore / British Library"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "singapore-trading-post-treaty"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "singapore-trading-post-treaty",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://www.nma.gov.au/defining-moments/resources/gold-rushes": {
+      "titles": [
+        "Gold rushes"
+      ],
+      "publishers": [
+        "National Museum of Australia"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "australian-gold-rushes"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "australian-gold-rushes",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://www.nma.gov.au/defining-moments/resources/mabo-decision": {
+      "titles": [
+        "Mabo decision"
+      ],
+      "publishers": [
+        "National Museum of Australia"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "mabo-native-title-decision"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "mabo-native-title-decision",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://www.nma.gov.au/explore/features/harvest-of-endurance/scroll/chinese-gold-miners": {
+      "titles": [
+        "Chinese gold miners"
+      ],
+      "publishers": [
+        "National Museum of Australia"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "australian-gold-rushes"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "australian-gold-rushes",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://www.noticonquista.unam.mx/amoxtli/2811/2808": {
+      "titles": [
+        "13 de agosto de 1521 — the final days of Tenochtitlan"
+      ],
+      "publishers": [
+        "Universidad Nacional Autónoma de México, Noticonquista"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "tenochtitlan-siege"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "tenochtitlan-siege",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://www.nps.gov/articles/000/introduction-transportation-during-the-cherokee-removal-1837-1839.htm": {
+      "titles": [
+        "Transportation During the Cherokee Removal, 1837–1839"
+      ],
+      "publishers": [
+        "U.S. National Park Service"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "cherokee-forced-removal"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "cherokee-forced-removal",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://www.nps.gov/articles/declaration-of-sentiments.htm": {
+      "titles": [
+        "Declaration of Sentiments"
+      ],
+      "publishers": [
+        "U.S. National Park Service"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "seneca-falls-convention"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "seneca-falls-convention",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://www.nps.gov/articles/mesaverde.htm": {
+      "titles": [
+        "Mesa Verde National Park"
+      ],
+      "publishers": [
+        "U.S. National Park Service"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "mesa-verde-cliff-villages"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "mesa-verde-cliff-villages",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://www.nps.gov/articles/montgomery-bus-boycott.htm": {
+      "titles": [
+        "Montgomery Bus Boycott"
+      ],
+      "publishers": [
+        "U.S. National Park Service"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "montgomery-bus-boycott"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "montgomery-bus-boycott",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://www.nps.gov/inde/learn/historyculture/resources-declarationofindependence.htm": {
+      "titles": [
+        "The Declaration of Independence"
+      ],
+      "publishers": [
+        "U.S. National Park Service"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "us-declaration-independence"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "us-declaration-independence",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://www.nps.gov/trte/learn/historyculture/what-happened-on-the-trail-of-tears.htm": {
+      "titles": [
+        "What Happened on the Trail of Tears?"
+      ],
+      "publishers": [
+        "U.S. National Park Service"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "cherokee-forced-removal"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "cherokee-forced-removal",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://www.nps.gov/wori/learn/historyculture/report-of-the-womans-rights-convention.htm": {
+      "titles": [
+        "Report of the Woman’s Rights Convention, Seneca Falls, 1848"
+      ],
+      "publishers": [
+        "U.S. National Park Service"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "seneca-falls-convention"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "seneca-falls-convention",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://www.otago.ac.nz/spar/research/migration-colonisation-and-polynesian-settlement-of-aotearoa": {
+      "titles": [
+        "Migration, colonisation and Polynesian settlement of Aotearoa"
+      ],
+      "publishers": [
+        "University of Otago, Southern Pacific Archaeological Research"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "wairau-bar-settlement"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "wairau-bar-settlement",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/parliament-and-empire/parliament-and-the-american-colonies-before-1765/the-west-indian-colonies-and-emancipation/": {
+      "titles": [
+        "The West Indian colonies and emancipation"
+      ],
+      "publishers": [
+        "UK Parliament"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "british-slavery-emancipation"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "british-slavery-emancipation",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://www.pref.nara.lg.jp/n037/71423.html": {
+      "titles": [
+        "About Horyu-ji Temple"
+      ],
+      "publishers": [
+        "Nara Prefectural Government"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "horyuji-buddhist-building"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "horyuji-buddhist-building",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://www.rcaanc-cirnac.gc.ca/eng/1360941656761/1544619778887": {
+      "titles": [
+        "Upper Canada Land Surrenders and the Williams Treaties (1764–1862/1923)"
+      ],
+      "publishers": [
+        "Crown-Indigenous Relations and Northern Affairs Canada"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "royal-proclamation-niagara"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "royal-proclamation-niagara",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://www.rcaanc-cirnac.gc.ca/eng/1370355181092/1607905122267": {
+      "titles": [
+        "The Royal Proclamation of 1763"
+      ],
+      "publishers": [
+        "Crown-Indigenous Relations and Northern Affairs Canada"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "royal-proclamation-niagara"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "royal-proclamation-niagara",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://www.rijksmuseum.nl/en/collection/node/The-Dutch-East-India-Company-VOC--45d4a3daf93e41baae6017768c3d93df": {
+      "titles": [
+        "The Dutch East India Company (VOC)"
+      ],
+      "publishers": [
+        "Rijksmuseum"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "batavia-company-capital"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "batavia-company-capital",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://www.sanparks.org/parks/mapungubwe/explore/natural-cultural-history": {
+      "titles": [
+        "Natural & Cultural History — Mapungubwe National Park"
+      ],
+      "publishers": [
+        "South African National Parks"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "mapungubwe-hill-kingdom"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "mapungubwe-hill-kingdom",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://www.slub-dresden.de/en/explore/manuscripts/the-dresden-maya-codex/content": {
+      "titles": [
+        "The Dresden Maya Codex: Content"
+      ],
+      "publishers": [
+        "Saxon State and University Library Dresden (SLUB)"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "maya-dresden-codex"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "maya-dresden-codex",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://www.slub-dresden.de/fileadmin/groups/slubsite/Service/PDF_Service/maya_flyer_en.pdf": {
+      "titles": [
+        "The Dresden Maya Codex — collection guide"
+      ],
+      "publishers": [
+        "Saxon State and University Library Dresden (SLUB)"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "maya-dresden-codex"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "maya-dresden-codex",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://www.tourism.rajasthan.gov.in/jantar-mantar.html": {
+      "titles": [
+        "Jantar Mantar Jaipur"
+      ],
+      "publishers": [
+        "Department of Tourism, Government of Rajasthan"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "jantar-mantar-jaipur"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "jantar-mantar-jaipur",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://www.ucl.ac.uk/arts-humanities/hebrew-jewish/research/research-projects/introducing-assyrian-medicine-healthcare-fit-king": {
+      "titles": [
+        "Introducing Assyrian Medicine: healthcare fit for a king"
+      ],
+      "publishers": [
+        "University College London / British Museum"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "nineveh-scribal-library"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "nineveh-scribal-library",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://www.unesco.org/en/memory-world/baegun-hwasang-chorok-buljo-jikji-simche-yojeol-volii-second-volume-anthology-great-buddhist-priests": {
+      "titles": [
+        "Baegun hwasang chorok buljo jikji simche yojeol (vol. II)"
+      ],
+      "publishers": [
+        "UNESCO Memory of the World"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "jikji-metal-type"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "jikji-metal-type",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://www.unesco.org/en/memory-world/constitutio-antoniniana": {
+      "titles": [
+        "Constitutio Antoniniana"
+      ],
+      "publishers": [
+        "UNESCO Memory of the World"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "caracalla-citizenship-edict"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "caracalla-citizenship-edict",
+          "sourceIndex": 0
+        }
+      ]
+    },
+    "https://www.unesco.org/en/memory-world/nanjung-ilgi-war-diary-admiral-yi-sun-sin": {
+      "titles": [
+        "Nanjung Ilgi: War Diary of Admiral Yi Sun-sin"
+      ],
+      "publishers": [
+        "UNESCO Memory of the World"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "imjin-war"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "imjin-war",
+          "sourceIndex": 1
+        }
+      ]
+    },
+    "https://www.uni-frankfurt.de/74990848/Nok_research_project_enters_final_phase": {
+      "titles": [
+        "Nok research project enters final phase"
+      ],
+      "publishers": [
+        "Goethe University Frankfurt"
+      ],
+      "checkedAt": [
+        "2026-10-23"
+      ],
+      "recordIds": [
+        "nok-terracotta-workshops"
+      ],
+      "reviewIds": [],
+      "citationCount": 1,
+      "uses": [
+        {
+          "recordId": "nok-terracotta-workshops",
+          "sourceIndex": 0
+        }
+      ]
+    }
+  }
+}
