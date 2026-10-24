@@ -1,0 +1,2466 @@
+[
+  {
+    "id": "person-ibn-khaldun",
+    "title": {
+      "en": "Ibn Khaldun · History tested against social life",
+      "zh": "伊本·赫勒敦 · 以社会生活检验历史"
+    },
+    "start": 1332,
+    "end": 1406,
+    "region": "africa",
+    "kind": "person",
+    "theme": "knowledge",
+    "importance": 4,
+    "location": {
+      "lat": 36.8,
+      "lon": 10.18,
+      "label": "Tunis; birthplace and regional intellectual setting"
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Ibn Khaldun’s life moved between scholarship and the insecurity of court politics. Born in Tunis in 1332, he entered government service after the plague had killed his parents and many teachers. Service in North African courts, a period in Granada and diplomatic work exposed him to competing dynasties and the difficulty of holding alliances together. These experiences matter because his historical writing asked how authority was built and why it weakened.\n\nDuring a retreat at Qalʿat Ibn Salama, near present-day Frenda, he completed an initial version of the Muqaddimah in 1377. It introduced a larger history and examined political solidarity, livelihood, cities, education and the conditions under which reports could be credible. His account of group cohesion was an argument about historical societies, not a universal timetable that every dynasty must follow.\n\nIn 1382 he left Tunis for Egypt, where teaching and service as a Maliki judge brought new patrons and conflicts. He continued revising his work rather than leaving a single unchanging text. In 1401 he met Timur outside Damascus during a military crisis; the encounter joined his experience as a negotiator with the world of imperial conquest. He died in Cairo in 1406. His biography connects Maghribi politics, Mediterranean learning and Mamluk institutions without reducing his thought to a modern disciplinary label.",
+      "zh": "伊本·赫勒敦的一生穿行于学术与不稳定的宫廷政治之间。他1332年出生于突尼斯，在瘟疫夺去父母及多位老师的生命后进入官场。北非宫廷任职、在格拉纳达的生活及外交事务，使他接触王朝竞争与维系联盟的困难。这些经历与他的史学问题相连：权威如何形成，又为何衰弱。\n\n在今弗伦达附近的伊本·萨拉马堡隐居期间，他于1377年完成《历史绪论》的初稿。该书是更大历史著作的导论，考察群体凝聚、谋生方式、城市、教育与历史记载可信的条件。他关于群体团结的论述是对历史社会的分析，并非所有王朝都必须遵循的普遍时间表。\n\n1382年他离开突尼斯赴埃及，在教学与担任马立克派法官期间获得新的支持，也遇到冲突。他继续修订著作，并未留下一个永不变动的文本。1401年，在军事危机中，他于大马士革城外会见帖木儿，谈判经验由此与帝国征服相接。1406年他在开罗去世。其生平把马格里布政治、地中海学术与马穆鲁克制度连接起来，不能仅以某个现代学科称号概括。"
+    },
+    "dateNote": {
+      "en": "Lifespan 1332–1406. The 1377 milestone dates an initial completed draft, not the end of revision. Frenda is a representative locality for Qalʿat Ibn Salama; Damascus marks the encounter area, not a surveyed camp.",
+      "zh": "生卒1332—1406年。1377年为完成初稿，并非停止修订。弗伦达代表伊本·萨拉马堡所在地区；大马士革点位表示会见地区，不是测定的军营。"
+    },
+    "sources": [
+      {
+        "title": "Ibn Khaldūn",
+        "publisher": "Encyclopedia of Religion / Encyclopedia.com",
+        "url": "https://www.encyclopedia.com/people/history/historians-miscellaneous-biographies/ibn-khaldun",
+        "evidenceNote": "Biographical sections: Tunis birth, North African court service, 1377 Muqaddimah, 1382 Egypt move, 1401 Timur encounter and 1406 death; later sections discuss society and historical method. Scholarly reference synthesis, not a primary autobiography.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "İBN HALDÛN",
+        "publisher": "TDV İslâm Ansiklopedisi; Süleyman Uludağ and Tahsin Görgün",
+        "url": "https://islamansiklopedisi.org.tr/ibn-haldun",
+        "evidenceNote": "Relevant biography and thought sections inspected in Turkish: Ibn Salama retreat and 1377 draft, 1382 departure, Cairo teaching/judgeship and analysis of social organization. The complete multi-author entry was not exhaustively reviewed.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "keyFacts": {
+      "en": [
+        "The Muqaddimah was revised after its initial 1377 draft.",
+        "Teaching, judging and negotiation remained part of his life."
+      ],
+      "zh": [
+        "《历史绪论》在1377年初稿后仍经修订。",
+        "教学、司法与谈判始终是其人生的一部分。"
+      ]
+    },
+    "relatedIds": [
+      "mamluk-sultanate",
+      "timurid-dynasty",
+      "cairo-geniza-everyday-documents"
+    ],
+    "expansion": {
+      "workstreams": [
+        "AF3"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "A bounded synthesis of the cited material. Source notes identify the claims reviewed and any access limits; the record does not establish territorial borders or a continuous personal itinerary.",
+        "zh": "对所引材料的有限综合。来源说明列出核查论点与访问限制；条目不确立疆界或连续个人行程。"
+      }
+    },
+    "name": {
+      "en": "Ibn Khaldun",
+      "zh": "伊本·赫勒敦"
+    },
+    "milestones": [
+      {
+        "year": 1332,
+        "title": {
+          "en": "Born in Tunis",
+          "zh": "生于突尼斯"
+        },
+        "description": {
+          "en": "His family belonged to the city’s scholarly and administrative world.",
+          "zh": "其家庭属于当地学术与行政社会。"
+        },
+        "location": {
+          "lat": 36.8,
+          "lon": 10.18,
+          "label": "Tunis; birthplace and regional intellectual setting"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1377,
+        "title": {
+          "en": "An initial Muqaddimah",
+          "zh": "完成《历史绪论》初稿"
+        },
+        "description": {
+          "en": "He completed an initial draft during his retreat at Qalʿat Ibn Salama.",
+          "zh": "在伊本·萨拉马堡隐居期间完成初稿。"
+        },
+        "location": {
+          "lat": 35.06,
+          "lon": 1.05,
+          "label": "Frenda vicinity; representative reference for Qalʿat Ibn Salama"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1382,
+        "title": {
+          "en": "A new life in Egypt",
+          "zh": "在埃及展开新生活"
+        },
+        "description": {
+          "en": "He left Tunis for Egypt and developed a career in Cairo’s teaching and judicial institutions.",
+          "zh": "离开突尼斯赴埃及，在开罗的教学与司法机构任职。"
+        },
+        "location": {
+          "lat": 30.04,
+          "lon": 31.24,
+          "label": "Cairo; representative scholarly and institutional centre"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1401,
+        "title": {
+          "en": "Meeting Timur",
+          "zh": "会见帖木儿"
+        },
+        "description": {
+          "en": "He met Timur during the crisis around Damascus.",
+          "zh": "在大马士革危机期间会见帖木儿。"
+        },
+        "location": {
+          "lat": 33.51,
+          "lon": 36.29,
+          "label": "Damascus vicinity; representative encounter area"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1406,
+        "title": {
+          "en": "Death in Cairo",
+          "zh": "在开罗去世"
+        },
+        "description": {
+          "en": "His death ended a career combining historical writing and public service.",
+          "zh": "去世，结束兼有史学写作与公共任职的生涯。"
+        },
+        "location": {
+          "lat": 30.04,
+          "lon": 31.24,
+          "label": "Cairo; representative scholarly and institutional centre"
+        },
+        "approximate": false
+      }
+    ]
+  },
+  {
+    "id": "person-ibn-al-haytham",
+    "title": {
+      "en": "Ibn al-Haytham · Light, proof and uncertain biography",
+      "zh": "伊本·海赛姆 · 光、论证与不确定的生平"
+    },
+    "start": 965,
+    "end": 1040,
+    "region": "africa",
+    "kind": "person",
+    "theme": "knowledge",
+    "importance": 4,
+    "location": {
+      "lat": 30.04,
+      "lon": 31.24,
+      "label": "Cairo; representative scholarly and institutional centre"
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Ibn al-Haytham, known in Latin as Alhazen, worked on optics, geometry and astronomy in the intellectual world linking Basra and Fatimid Egypt. His writings provide firmer evidence for his methods than many stories about his private life. Later accounts disagree about his travels and the circumstances of a proposed Nile engineering project. Those narratives cannot supply a precise personal route through the atlas.\n\nHis seven-book study of optics connected mathematical reasoning with observations and experiments involving light and vision. He examined how light enters the eye, reflection from mirrors and the difficulties of visual perception. That work did not contain a complete modern account of the eye, but it made the relation between physical light, geometrical models and seeing a subject of sustained investigation. His criticism of inherited arguments also coexisted with the intellectual resources he took from earlier authors.\n\nAn autobiographical account from 1027 describes his intellectual development rather than the events that later biographers made famous. Evidence places him in Egypt in 1038; the conventional death date around 1040 remains approximate. Arabic manuscripts and later Latin translations carried his optical work into other scholarly settings. Calling him the solitary inventor of science would obscure this history of criticism, copying and translation. The linked entries place his work among Fatimid institutions and the wider Arabic scholarly traditions already represented in the atlas.",
+      "zh": "伊本·海赛姆在拉丁文中被称为阿尔哈曾，在连接巴士拉与法蒂玛埃及的学术世界研究光学、几何和天文。他的著作比许多私人生活故事更能确立其研究方法。后世记载对他的旅行及尼罗河工程计划的情境说法不一，不能据此在地图上绘制精确个人路线。\n\n七卷光学著作将数学推理与关于光和视觉的观察、实验联系起来。他研究光如何进入眼睛、镜面反射与视觉判断中的困难。该书没有完整的现代眼睛理论，却持续探讨物理光、几何模型与观看之间的关系。他质疑既有论证，同时也利用前人提供的知识资源。\n\n1027年的自述讲述思想成长，而非后世传记突出的人生情节。证据表明他1038年仍在埃及；通常采用的约1040年卒年仍是近似值。阿拉伯文手稿及后来的拉丁文译本把其光学研究带入其他学术环境。将他称作科学的唯一发明者，会掩盖批评、抄写与翻译的历史。关联条目将其研究置于法蒂玛制度和更广的阿拉伯学术传统之中。"
+    },
+    "dateNote": {
+      "en": "Conventional approximate lifespan c.965–c.1040. The 1027 text and 1038 Egyptian presence are firmer chronological anchors. Cairo is an intellectual-context point, not proof of the exact place where each surviving work was written.",
+      "zh": "通常采用约965—约1040年的生卒范围。1027年自述与1038年在埃及的证据是较稳固的年代锚点。开罗是学术环境参照，不证明每篇作品都在此确切写成。"
+    },
+    "sources": [
+      {
+        "title": "Ibn al-Haytham",
+        "publisher": "MacTutor History of Mathematics, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Al-Haytham/",
+        "evidenceNote": "Life traditions conflict; 1027 intellectual autobiography, Egyptian activity in 1038, conventional 965–1040 span, optical investigation and mathematical work. Do not adopt its uncertain travel stories or priority superlatives as settled facts.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Ibn al-Haytham’s scientific method",
+        "publisher": "UNESCO Courier; S. M. Razaullah Ansari",
+        "url": "https://courier.unesco.org/en/articles/ibn-al-haythams-scientific-method",
+        "evidenceNote": "Relevant passages on experimental and mathematical optics, seven-book treatise, Arabic scholarship and later Latin transmission; evaluative claims about a sole inventor of scientific method are not adopted.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "keyFacts": {
+      "en": [
+        "The biographical traditions disagree about several life episodes.",
+        "Mathematical reasoning and experiments both figure in his optics."
+      ],
+      "zh": [
+        "不同传记传统对若干人生事件存在分歧。",
+        "数学推理与实验共同构成其光学研究。"
+      ]
+    },
+    "relatedIds": [
+      "fatimid-caliphate",
+      "arabic-translation-collaboration",
+      "person-al-biruni"
+    ],
+    "expansion": {
+      "workstreams": [
+        "AF3",
+        "WA1"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "A bounded synthesis of the cited material. Source notes identify the claims reviewed and any access limits; the record does not establish territorial borders or a continuous personal itinerary.",
+        "zh": "对所引材料的有限综合。来源说明列出核查论点与访问限制；条目不确立疆界或连续个人行程。"
+      }
+    },
+    "name": {
+      "en": "Ibn al-Haytham",
+      "zh": "伊本·海赛姆"
+    },
+    "milestones": [
+      {
+        "year": 965,
+        "title": {
+          "en": "Approximate birth period",
+          "zh": "约略出生时期"
+        },
+        "description": {
+          "en": "The conventional date is approximate; Basra is the usual, but qualified, birthplace attribution.",
+          "zh": "传统年代为近似值；巴士拉是通常采用、但须保留限定的出生地归属。"
+        },
+        "location": {
+          "lat": 30.51,
+          "lon": 47.82,
+          "label": "Basra; conventional, qualified birthplace reference"
+        },
+        "approximate": true
+      },
+      {
+        "year": 1027,
+        "title": {
+          "en": "An intellectual autobiography",
+          "zh": "思想成长的自述"
+        },
+        "description": {
+          "en": "The surviving account concerns his intellectual development; the Cairo pin represents his scholarly setting.",
+          "zh": "留存自述关注思想成长；开罗点位代表其学术环境。"
+        },
+        "location": {
+          "lat": 30.04,
+          "lon": 31.24,
+          "label": "Cairo; representative scholarly and institutional centre"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1038,
+        "title": {
+          "en": "Activity documented in Egypt",
+          "zh": "在埃及活动的证据"
+        },
+        "description": {
+          "en": "MacTutor identifies evidence for his presence in Egypt; no precise address is claimed.",
+          "zh": "MacTutor指出其当年在埃及的证据；不主张确切地址。"
+        },
+        "location": {
+          "lat": 30.04,
+          "lon": 31.24,
+          "label": "Cairo; representative scholarly and institutional centre"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1040,
+        "title": {
+          "en": "Approximate end of life",
+          "zh": "约略卒年"
+        },
+        "description": {
+          "en": "Around 1040 is the conventional end of his life; the location remains qualified.",
+          "zh": "约1040年为通常采用的卒年，地点仍保留限定。"
+        },
+        "location": {
+          "lat": 30.04,
+          "lon": 31.24,
+          "label": "Cairo; conventional, qualified death-place reference"
+        },
+        "approximate": true
+      }
+    ]
+  },
+  {
+    "id": "person-huda-shaarawi",
+    "title": {
+      "en": "Huda Shaarawi · Independence and women’s citizenship",
+      "zh": "胡达·沙拉维 · 独立与妇女公民权"
+    },
+    "start": 1919,
+    "end": 1947,
+    "region": "africa",
+    "kind": "person",
+    "theme": "culture",
+    "importance": 4,
+    "location": {
+      "lat": 30.04,
+      "lon": 31.24,
+      "label": "Cairo; representative scholarly and institutional centre"
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Huda Shaarawi used the resources of an affluent Egyptian household to build institutions beyond it. Her early charitable and educational work offered women a route into public activity, while also reflecting class inequalities: prosperous reformers often spoke for poorer women whose own priorities were less visible in the record. Her life therefore raises questions about who could speak, organize and claim to represent a movement.\n\nDuring the 1919 struggle against British occupation she helped lead women’s demonstrations. National independence did not, however, settle women’s access to political rights. In 1923 she became president of the Egyptian Feminist Union, which pressed for education, employment opportunities and changes to the rules governing family life. New national institutions continued to exclude women from political participation.\n\nHer removal of a face covering after returning from a women’s conference in Rome became a celebrated public gesture. It should not stand in for the whole campaign, or be confused with every form of head covering. Her memoir and later retellings also need to be read as constructed accounts of a privileged life. Shaarawi remained the union’s president until her death in 1947. The connected reading places organization, charitable work and the unresolved meaning of citizenship alongside the more familiar image of a single symbolic act.",
+      "zh": "胡达·沙拉维利用富裕埃及家庭的资源，在家庭之外建立组织。早期慈善与教育工作为妇女参与公共生活提供途径，也体现阶级差异：富裕改革者常代表穷人发言，而较贫困妇女自身的诉求在记录中较少显现。她的人生因此提出一个问题：谁能发言、组织，并声称代表一场运动。\n\n在1919年反对英国占领的斗争中，她协助领导妇女示威。然而，国家独立并未解决妇女的政治权利。1923年，她担任埃及妇女联合会主席，推动教育、就业机会及家庭生活规则的改革。新的国家制度仍将妇女排除于政治参与之外。\n\n从罗马妇女大会返回后，她取下面部遮盖的行为成为广为传述的公共象征，但不能以此替代整个运动，也不应将面纱与所有头部遮盖混为一谈。其回忆录与后来的叙述，也是对特定阶层人生的建构，需要审视。沙拉维一直担任联合会主席，直至1947年去世。关联阅读把组织、慈善工作及尚未解决的公民权问题，与单一象征性行动的著名图像并置。"
+    },
+    "dateNote": {
+      "en": "Public-career focus 1919–1947, not full lifespan (1879–1947). Milestones use Cairo as the relevant organizational setting. The 1947 point marks the end of her presidency, not a verified death address.",
+      "zh": "公共生涯关注期1919—1947年，非完整生卒（1879—1947年）。节点以开罗表示相关组织环境；1947年标记主席任期结束，而非核实的逝世地址。"
+    },
+    "sources": [
+      {
+        "title": "Sha’rawi, Huda 1879–1947",
+        "publisher": "International Encyclopedia of the Social Sciences / Encyclopedia.com",
+        "url": "https://www.encyclopedia.com/social-sciences/encyclopedias-almanacs-transcripts-and-maps/sharawi-huda-1879-1947",
+        "evidenceNote": "Elite background, charitable/educational work, 1919 demonstrations, 1923 Egyptian Feminist Union and presidency until 1947. Face-covering distinction inspected; generalized claims about all Egyptian women are not adopted.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Re-reading Huda Shaarawi’s Harem Years",
+        "publisher": "Julia Lisiecka, SOAS Journal of Postgraduate Research 8 (2015)",
+        "url": "https://www.soas.ac.uk/sites/default/files/2022-06/05%20Rereading%20Huda%20Shaarawis%20Harem%20Years%20Bargaining%20with%20the%20Patriarchy%20in%20the%20Changing%20Egypt%20file102674.pdf",
+        "evidenceNote": "Relevant pages 6–10 inspected: limits of unveiling symbolism, nationalism/feminism, 1923 political exclusion and 1924 parliamentary inauguration controversy. This is a postgraduate research interpretation of memoirs, not an unmediated testimony.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "keyFacts": {
+      "en": [
+        "National independence and equal political participation were different struggles.",
+        "The Egyptian Feminist Union began under her presidency in 1923."
+      ],
+      "zh": [
+        "国家独立与平等政治参与是不同的斗争。",
+        "1923年，埃及妇女联合会在她担任主席时成立。"
+      ]
+    },
+    "relatedIds": [
+      "egypt-women-nationalism-1919",
+      "suez-crisis-1956",
+      "person-tahirih"
+    ],
+    "expansion": {
+      "workstreams": [
+        "AF4"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "A bounded synthesis of the cited material. Source notes identify the claims reviewed and any access limits; the record does not establish territorial borders or a continuous personal itinerary.",
+        "zh": "对所引材料的有限综合。来源说明列出核查论点与访问限制；条目不确立疆界或连续个人行程。"
+      }
+    },
+    "name": {
+      "en": "Huda Shaarawi",
+      "zh": "胡达·沙拉维"
+    },
+    "milestones": [
+      {
+        "year": 1919,
+        "title": {
+          "en": "Women demonstrate",
+          "zh": "妇女参与示威"
+        },
+        "description": {
+          "en": "She helped lead women’s demonstrations against British occupation.",
+          "zh": "协助领导反对英国占领的妇女示威。"
+        },
+        "location": {
+          "lat": 30.04,
+          "lon": 31.24,
+          "label": "Cairo; representative scholarly and institutional centre"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1923,
+        "title": {
+          "en": "An Egyptian Feminist Union",
+          "zh": "埃及妇女联合会"
+        },
+        "description": {
+          "en": "She became the union’s first president.",
+          "zh": "成为联合会首任主席。"
+        },
+        "location": {
+          "lat": 30.04,
+          "lon": 31.24,
+          "label": "Cairo; representative scholarly and institutional centre"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1924,
+        "title": {
+          "en": "Citizenship remains contested",
+          "zh": "公民权仍受争议"
+        },
+        "description": {
+          "en": "Exclusion of women from the new parliament’s official inauguration prompted renewed demands for participation.",
+          "zh": "妇女被排除于新议会正式开幕仪式之外，引发新的参与诉求。"
+        },
+        "location": {
+          "lat": 30.04,
+          "lon": 31.24,
+          "label": "Cairo; parliamentary and campaigning context, not a reconstructed protest route"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1947,
+        "title": {
+          "en": "A presidency ends",
+          "zh": "主席任期结束"
+        },
+        "description": {
+          "en": "She remained president of the union until her death that year.",
+          "zh": "她担任联合会主席直至该年去世。"
+        },
+        "location": {
+          "lat": 30.04,
+          "lon": 31.24,
+          "label": "Cairo; representative scholarly and institutional centre"
+        },
+        "approximate": false
+      }
+    ]
+  },
+  {
+    "id": "person-charlotte-maxeke",
+    "title": {
+      "en": "Charlotte Maxeke · Education, faith and women’s organizing",
+      "zh": "夏洛特·马克塞克 · 教育、信仰与妇女组织"
+    },
+    "start": 1891,
+    "end": 1939,
+    "region": "africa",
+    "kind": "person",
+    "theme": "knowledge",
+    "importance": 4,
+    "location": {
+      "lat": -26.2,
+      "lon": 28.04,
+      "label": "Johannesburg; representative political and cultural setting"
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Charlotte Maxeke’s career joined music, education, church networks and opposition to racial restrictions. International choir travel opened a path to study at Wilberforce University in Ohio. Her connections with the African Methodist Episcopal Church helped link Black religious leadership in the United States and South Africa. Education was a practical institution-building project: she and Marshall Maxeke helped establish the Wilberforce Institute at Evaton in 1908.\n\nHer organizing addressed the constraints placed on African women’s movement and work. She participated in campaigns against passes and became a founder and president of the Bantu Women’s League. Its activity belonged to a longer struggle over who could move through a town, take employment and remain with a family. These were questions of political power as well as household survival.\n\nMaxeke also worked on employment and probation matters, encountering the effects of migrant labour and urban inequality. Church work and political activism were overlapping parts of her life, not separate careers. Her participation in the 1935 All African Convention continued this collective approach. She died in Johannesburg in 1939. Accounts disagree about her exact birth year and locality, and even some travel dates; this profile follows documented career anchors instead of choosing an unsupported precise birthplace. The linked sequence connects her early organizing to later women’s anti-pass campaigns without claiming that one organization alone produced them.",
+      "zh": "夏洛特·马克塞克的生涯把音乐、教育、教会网络与反对种族限制连接起来。国际合唱团旅行为她赴美国俄亥俄州威尔伯福斯大学学习创造机会。她同非洲卫理公会的联系，连接了美国与南非的黑人宗教领导者。教育对她而言是建设机构的实践：1908年，她与马歇尔·马克塞克参与在埃瓦顿创办威尔伯福斯学院。\n\n她的组织活动回应非洲妇女在流动与劳动方面受到的限制。她参与反通行证运动，并成为班图妇女联盟的创办者和主席。联盟属于更长久的斗争：谁能在城镇中移动、就业及与家人共同生活。这既是家庭生计问题，也是政治权力问题。\n\n马克塞克还参与就业与缓刑事务，接触移工制度和城市不平等的后果。教会工作与政治行动相互交织，并非两段分离的事业。她1935年参加全非大会，继续集体组织的实践。1939年她在约翰内斯堡去世。资料对其确切生年、出生地点及部分旅行年代存在分歧，本传采用有记录的事业节点，不强行确定精确出生地。关联阅读把她的早期组织工作与后来妇女反通行证运动相接，但不声称这些运动完全由一个组织促成。"
+    },
+    "dateNote": {
+      "en": "Career focus 1891–1939. Sources disagree on birth year and birthplace; no birth pin is created. Johannesburg represents the League’s wider organizational environment, not a verified founding-room location.",
+      "zh": "关注1891—1939年的生涯。资料对生年与出生地有分歧，因此不设置出生点。约翰内斯堡表示联盟较广的组织环境，不是经核实的成立会场。"
+    },
+    "sources": [
+      {
+        "title": "Charlotte Maxeke",
+        "publisher": "South African History Online",
+        "url": "https://sahistory.org.za/people/charlotte-maxeke",
+        "evidenceNote": "Choir travel, education and organizing; source itself questions birth year/place. 1913 anti-pass work, 1918 Bantu Women’s League and 1939 Johannesburg death are used; its mistaken identification of Wilberforce with Cleveland is not repeated.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Maxeke, Charlotte Manye",
+        "publisher": "J. A. Millard, Dictionary of African Christian Biography",
+        "url": "https://dacb.org/stories/southafrica/maxeke-charlotte/",
+        "evidenceNote": "AME links, school founding at Evaton in 1908, probation/social work and 1935 convention; explicitly gives competing birth years. The source cites church proceedings and family biography, distinct from a simple government commemorative profile.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "keyFacts": {
+      "en": [
+        "Education and organizing drew on transatlantic Black church networks.",
+        "Birth-year and birthplace disagreements remain explicit."
+      ],
+      "zh": [
+        "教育与组织活动借助跨大西洋黑人教会网络。",
+        "生年与出生地分歧仍予保留。"
+      ]
+    },
+    "relatedIds": [
+      "south-africa-womens-march-1956",
+      "south-africa-land-act-1913",
+      "person-albertina-sisulu"
+    ],
+    "expansion": {
+      "workstreams": [
+        "AF4"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "A bounded synthesis of the cited material. Source notes identify the claims reviewed and any access limits; the record does not establish territorial borders or a continuous personal itinerary.",
+        "zh": "对所引材料的有限综合。来源说明列出核查论点与访问限制；条目不确立疆界或连续个人行程。"
+      }
+    },
+    "name": {
+      "en": "Charlotte Maxeke",
+      "zh": "夏洛特·马克塞克"
+    },
+    "milestones": [
+      {
+        "year": 1908,
+        "title": {
+          "en": "Building a school",
+          "zh": "建设学校"
+        },
+        "description": {
+          "en": "She and Marshall Maxeke established an AME educational institution at Evaton.",
+          "zh": "她与马歇尔·马克塞克在埃瓦顿建立非洲卫理公会教育机构。"
+        },
+        "location": {
+          "lat": -26.53,
+          "lon": 27.86,
+          "label": "Evaton; representative location of Wilberforce Institute"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1913,
+        "title": {
+          "en": "Challenging passes",
+          "zh": "反对通行证制度"
+        },
+        "description": {
+          "en": "She helped organize the campaign against passes for African women.",
+          "zh": "协助组织反对向非洲妇女实行通行证制度的运动。"
+        },
+        "location": {
+          "lat": -29.12,
+          "lon": 26.22,
+          "label": "Bloemfontein; anti-pass campaign setting"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1918,
+        "title": {
+          "en": "Bantu Women’s League",
+          "zh": "班图妇女联盟"
+        },
+        "description": {
+          "en": "She helped found and lead the League.",
+          "zh": "参与创办并领导联盟。"
+        },
+        "location": {
+          "lat": -26.2,
+          "lon": 28.04,
+          "label": "Johannesburg; representative political and cultural setting"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1935,
+        "title": {
+          "en": "All African Convention",
+          "zh": "全非大会"
+        },
+        "description": {
+          "en": "She participated in collective organizing at the Bloemfontein convention.",
+          "zh": "参与布隆方丹大会的集体组织工作。"
+        },
+        "location": {
+          "lat": -29.12,
+          "lon": 26.22,
+          "label": "Bloemfontein; convention city"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1939,
+        "title": {
+          "en": "Death in Johannesburg",
+          "zh": "在约翰内斯堡去世"
+        },
+        "description": {
+          "en": "She died after decades of education, church and political work.",
+          "zh": "在从事数十年教育、教会与政治工作后去世。"
+        },
+        "location": {
+          "lat": -26.2,
+          "lon": 28.04,
+          "label": "Johannesburg; representative political and cultural setting"
+        },
+        "approximate": false
+      }
+    ]
+  },
+  {
+    "id": "person-bessie-head",
+    "title": {
+      "en": "Bessie Head · Exile, belonging and village lives",
+      "zh": "贝西·黑德 · 流亡、归属与村庄人生"
+    },
+    "start": 1964,
+    "end": 1986,
+    "region": "africa",
+    "kind": "person",
+    "theme": "culture",
+    "importance": 4,
+    "location": {
+      "lat": -22.39,
+      "lon": 26.71,
+      "label": "Serowe; Bessie Head’s residence and literary setting, not a publishing office"
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Bessie Head left South Africa in 1964 with her son to take a teaching job in Serowe, then in Bechuanaland. An exit permit made the move a separation from her country of birth rather than an ordinary journey. She had already trained as a teacher and worked as a journalist; in Botswana, precarious work and the search for a place in a community became part of her writing’s social world. Brief farm work at Radisele and a period in Francistown followed before she returned to Serowe.\n\nWhen Rain Clouds Gather appeared in 1968, followed by Maru in 1971 and A Question of Power in 1973. These works explored farming, prejudice, power and the difficulty of belonging. Their fictional people cannot be treated as a census of Serowe or a transparent account of the author’s life. Reading the novels beside letters and historical accounts makes their different kinds of evidence visible.\n\nHead also listened to and wrote about the lives of people around her. Serowe: Village of the Rain Wind, published in 1981, brought local voices and community history into a book distinct from her novels. She died in Serowe in 1986. The survival of her papers there links literary history with the care of a local archive. Her story gives the atlas a view of southern African history through work, displacement, storytelling and community relationships, alongside the better-known accounts of states and national leaders.",
+      "zh": "1964年，贝西·黑德带儿子离开南非，前往当时贝专纳的塞罗韦任教。出境许可使这次迁移成为与出生国的分离，而非普通旅行。她此前接受教师训练，也当过记者；在博茨瓦纳，不稳定的工作与寻找社群归属的经历，成为其写作社会背景的一部分。她随后短暂在拉迪塞莱农场工作，并在弗朗西斯敦生活一段时间，后来返回塞罗韦。\n\n《雨云聚集的时候》于1968年出版，其后是1971年的《马鲁》与1973年的《权力的问题》。这些作品探索耕作、偏见、权力与归属的困难。虚构人物不能当作塞罗韦的人口普查，也不等于作者人生的透明记录。将小说与书信、历史叙述并读，可以辨识不同证据类型。\n\n黑德还倾听并记录身边人的生活。1981年出版的《塞罗韦：雨风之村》把地方声音与社区历史带入一种有别于小说的作品。1986年她在塞罗韦去世。其文稿在当地保存，将文学史与地方档案的照料联系起来。她的经历使地图能够通过劳动、迁徙、讲述与社区关系理解南部非洲，与较熟悉的国家及领袖叙事并列。"
+    },
+    "dateNote": {
+      "en": "Botswana writing-career focus 1964–1986, not full lifespan (1937–1986). The 1968 novel uses Francistown as its drafting context; later publication pins use Serowe. These are not publishing cities or evidence of presence on publication day. The first-publication year follows Botswana Writers, not SAHO’s discrepant 1969.",
+      "zh": "关注1964—1986年在博茨瓦纳的写作生涯，并非完整生卒（1937—1986年）。1968年小说以弗朗西斯敦表示起草环境，后来的出版节点以塞罗韦表示写作环境，均非出版城市或出版当天在场证据。首版年依据Botswana Writers，不采用SAHO不同的1969年记载。"
+    },
+    "sources": [
+      {
+        "title": "Bessie Amelia Emery Head",
+        "publisher": "Botswana Writers",
+        "url": "https://botswanawriters.org/writers/head.php",
+        "evidenceNote": "Teacher/writer career, 1964 move, Serowe archive, 1968/1971/1973/1977/1981 publications and 1986 death. Publisher dates checked; publication milestones do not claim travel to a publisher’s office.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Bessie Amelia Head",
+        "publisher": "South African History Online",
+        "url": "https://sahistory.org.za/people/bessie-amelia-head",
+        "evidenceNote": "Relevant career passages: 1964 exit permit and Serowe move, Radisele farm work, Francistown drafting and later return to Serowe. Its 1969 first-novel publication date conflicts with the Botswana Writers bibliography; the latter’s 1968 first-publication year is used. Personal/medical speculation is excluded.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "keyFacts": {
+      "en": [
+        "The move to Serowe occurred in 1964 under an exit permit.",
+        "Her fiction and community histories require different readings as evidence."
+      ],
+      "zh": [
+        "1964年持出境许可迁居塞罗韦。",
+        "小说与社区史须以不同方式作为证据阅读。"
+      ]
+    },
+    "relatedIds": [
+      "person-charlotte-maxeke",
+      "sophiatown-forced-removals-1955",
+      "south-africa-land-act-1913"
+    ],
+    "expansion": {
+      "workstreams": [
+        "AF4"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "A bounded synthesis of the cited material. Source notes identify the claims reviewed and any access limits; the record does not establish territorial borders or a continuous personal itinerary.",
+        "zh": "对所引材料的有限综合。来源说明列出核查论点与访问限制；条目不确立疆界或连续个人行程。"
+      }
+    },
+    "name": {
+      "en": "Bessie Head",
+      "zh": "贝西·黑德"
+    },
+    "milestones": [
+      {
+        "year": 1964,
+        "title": {
+          "en": "Moving to Serowe",
+          "zh": "迁居塞罗韦"
+        },
+        "description": {
+          "en": "She moved with her son to take up a teaching post.",
+          "zh": "带儿子前往塞罗韦任教。"
+        },
+        "location": {
+          "lat": -22.39,
+          "lon": 26.71,
+          "label": "Serowe; Bessie Head’s residence and literary setting, not a publishing office"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1968,
+        "title": {
+          "en": "When Rain Clouds Gather",
+          "zh": "《雨云聚集的时候》"
+        },
+        "description": {
+          "en": "Her first published novel appeared; Francistown marks its drafting context, not a publication-day journey.",
+          "zh": "首部出版的小说问世；弗朗西斯敦表示起草环境，而非出版当天行程。"
+        },
+        "location": {
+          "lat": -21.17,
+          "lon": 27.5,
+          "label": "Francistown; first novel’s drafting context, not publisher or publication-day location"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1973,
+        "title": {
+          "en": "A Question of Power",
+          "zh": "《权力的问题》"
+        },
+        "description": {
+          "en": "The novel was published; this is a publication-year marker, not a documented journey.",
+          "zh": "小说出版；此为出版年节点，不是有记录的旅程。"
+        },
+        "location": {
+          "lat": -22.39,
+          "lon": 26.71,
+          "label": "Serowe; Bessie Head’s residence and literary setting, not a publishing office"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1981,
+        "title": {
+          "en": "Recording village lives",
+          "zh": "记录村庄生活"
+        },
+        "description": {
+          "en": "Serowe: Village of the Rain Wind brought community history into book form.",
+          "zh": "《塞罗韦：雨风之村》将社区历史编成著作。"
+        },
+        "location": {
+          "lat": -22.39,
+          "lon": 26.71,
+          "label": "Serowe; Bessie Head’s residence and literary setting, not a publishing office"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1986,
+        "title": {
+          "en": "Death in Serowe",
+          "zh": "在塞罗韦去世"
+        },
+        "description": {
+          "en": "Head died in the community where she had spent her Botswana writing years.",
+          "zh": "在度过博茨瓦纳写作岁月的社区去世。"
+        },
+        "location": {
+          "lat": -22.39,
+          "lon": 26.71,
+          "label": "Serowe; Bessie Head’s residence and literary setting, not a publishing office"
+        },
+        "approximate": false
+      }
+    ]
+  },
+  {
+    "id": "person-miriam-makeba",
+    "title": {
+      "en": "Miriam Makeba · A voice across exile",
+      "zh": "米丽娅姆·马凯巴 · 穿越流亡的歌声"
+    },
+    "start": 1954,
+    "end": 1990,
+    "region": "africa",
+    "kind": "person",
+    "theme": "culture",
+    "importance": 4,
+    "location": {
+      "lat": -26.2,
+      "lon": 28.04,
+      "label": "Johannesburg; representative political and cultural setting"
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Miriam Makeba developed her voice within South Africa’s urban musical world before becoming an international performer. Born in Johannesburg in 1932, she sang with the Manhattan Brothers from 1954 and later with the Skylarks. These ensembles connect her story to the musicians and audiences of Sophiatown, a neighbourhood whose cultural life was disrupted by forced removals. Her success depended on collaboration and performance circuits as well as individual talent.\n\nAn American television appearance in 1959 helped establish her overseas career. When she tried to return to South Africa in 1960, she learned that her passport had been cancelled. Exile turned international touring into something more consequential than professional mobility: she could travel to many audiences while being excluded from her own country. In 1963 she addressed the United Nations about apartheid.\n\nMakeba continued to sing and campaign across national boundaries. Her marriage to the American activist Stokely Carmichael also brought her into the records of US political surveillance; those files need to be read as evidence of state monitoring, not as neutral accounts of her character. She returned to South Africa in 1990 after encouragement from Nelson Mandela, who had recently been released from prison. This profile ends its focus at that return, not at the end of her career or life. She continued performing and died in 2008. Her biography links music, citizenship, forced separation and political speech.",
+      "zh": "米丽娅姆·马凯巴先在南非城市音乐世界中成长，后来成为国际表演者。她1932年生于约翰内斯堡，1954年起与曼哈顿兄弟乐队演唱，随后加入云雀组合。这些团体把她的经历与索菲亚镇的音乐家和听众联系起来，而该街区的文化生活受到强制迁居的破坏。她的成功既依靠个人才能，也依靠合作和演出网络。\n\n1959年的美国电视演出帮助她拓展海外事业。1960年，她试图返回南非时发现护照已被注销。流亡使国际巡演超出了职业流动的意义：她可以面向许多国家的听众，却不能回到自己的国家。1963年，她在联合国就种族隔离发言。\n\n马凯巴继续跨越国界演唱与参与政治行动。她与美国活动家斯托克利·卡迈克尔的婚姻，也使她进入美国政治监控档案；这些材料应作为国家监视的证据阅读，而非对其人格的中立描述。1990年，她在刚获释的纳尔逊·曼德拉鼓励下返回南非。本传的关注期止于此次返回，而非事业或生命的终点。她继续演出，直至2008年去世。其生平连接音乐、公民身份、被迫分离与政治发声。"
+    },
+    "dateNote": {
+      "en": "Career focus 1954–1990, not full lifespan (1932–2008). Johannesburg is the South African musical and return-context anchor, not a verified arrival airport. New York marks the UN testimony; the 1960 US pin is a career context, not the site of the passport decision.",
+      "zh": "生涯关注期1954—1990年，非完整生卒（1932—2008年）。约翰内斯堡表示南非音乐生活与返国背景，不是经核实的抵达机场。纽约表示联合国发言地点；1960年美国点位表示职业环境，而非注销护照决定的地点。"
+    },
+    "sources": [
+      {
+        "title": "Miriam Makeba",
+        "publisher": "South African History Online",
+        "url": "https://sahistory.org.za/people/miriam-makeba",
+        "evidenceNote": "Relevant career passages inspected: Manhattan Brothers in 1954, Sophiatown musical setting, 1960 passport cancellation, 1963 United Nations testimony and return in 1990. The page’s discrepant film date is not used.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Miriam Makeba (1932–2008)",
+        "publisher": "United States National Archives",
+        "url": "https://www.archives.gov/research/african-americans/individuals/miriam-makeba",
+        "evidenceNote": "Biographical introduction supports Johannesburg birth, 1959 US television debut, passport cancellation in 1960, political activism, 1990 return and 2008 death. The archival guide identifies FBI records; these files were not themselves examined.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "keyFacts": {
+      "en": [
+        "Passport cancellation in 1960 turned overseas work into exile.",
+        "She testified about apartheid at the United Nations in 1963."
+      ],
+      "zh": [
+        "1960年护照被注销，海外工作转为流亡。",
+        "1963年在联合国就种族隔离作证。"
+      ]
+    },
+    "relatedIds": [
+      "sophiatown-forced-removals-1955",
+      "person-nelson-mandela",
+      "south-africa-election"
+    ],
+    "expansion": {
+      "workstreams": [
+        "AF4"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "A bounded synthesis of the cited material. Source notes identify the claims reviewed and any access limits; the record does not establish territorial borders or a continuous personal itinerary.",
+        "zh": "对所引材料的有限综合。来源说明列出核查论点与访问限制；条目不确立疆界或连续个人行程。"
+      }
+    },
+    "name": {
+      "en": "Miriam Makeba",
+      "zh": "米丽娅姆·马凯巴"
+    },
+    "milestones": [
+      {
+        "year": 1954,
+        "title": {
+          "en": "Singing with the Manhattan Brothers",
+          "zh": "与曼哈顿兄弟乐队演唱"
+        },
+        "description": {
+          "en": "She joined a professional ensemble within Johannesburg’s wider musical world.",
+          "zh": "加入专业团体，参与约翰内斯堡较广的音乐生活。"
+        },
+        "location": {
+          "lat": -26.2,
+          "lon": 28.04,
+          "label": "Johannesburg; representative political and cultural setting"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1960,
+        "title": {
+          "en": "A cancelled passport",
+          "zh": "护照被注销"
+        },
+        "description": {
+          "en": "She discovered that she could not return home; the US point marks her overseas career setting.",
+          "zh": "发现无法返国；美国点位表示海外职业环境。"
+        },
+        "location": {
+          "lat": 40.71,
+          "lon": -74.01,
+          "label": "New York; representative US career context, not the passport-issuing authority"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1963,
+        "title": {
+          "en": "Testimony at the United Nations",
+          "zh": "在联合国作证"
+        },
+        "description": {
+          "en": "She spoke against apartheid at the United Nations.",
+          "zh": "在联合国发言反对种族隔离。"
+        },
+        "location": {
+          "lat": 40.75,
+          "lon": -73.97,
+          "label": "United Nations, New York; institutional testimony location"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1990,
+        "title": {
+          "en": "Returning to South Africa",
+          "zh": "返回南非"
+        },
+        "description": {
+          "en": "She returned after decades of exclusion; the pin is a national homecoming context.",
+          "zh": "在被排斥数十年后返国；点位表示返国背景。"
+        },
+        "location": {
+          "lat": -26.2,
+          "lon": 28.04,
+          "label": "Johannesburg; representative political and cultural setting"
+        },
+        "approximate": false
+      }
+    ]
+  },
+  {
+    "id": "person-abd-al-qadir",
+    "title": {
+      "en": "Abd al-Qadir · Resistance, captivity and refuge",
+      "zh": "阿卜杜勒·卡迪尔 · 抵抗、囚禁与庇护"
+    },
+    "start": 1832,
+    "end": 1883,
+    "region": "africa",
+    "kind": "person",
+    "theme": "states",
+    "importance": 4,
+    "location": {
+      "lat": 35.4,
+      "lon": 0.14,
+      "label": "Mascara; early political centre, not the exact site of election"
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Abd al-Qadir emerged from a scholarly and religious family in western Algeria as French conquest unsettled the region. In 1832 he became an emir and organized resistance through military action, negotiation and the construction of public authority. Collecting taxes and maintaining an army required bargains with communities whose support could not simply be assumed. His political centres included Mascara and later Tagdempt.\n\nTreaties did not end the struggle. Expanding French campaigns, including scorched-earth tactics, narrowed the possibilities for resistance. In 1847 he surrendered under an agreement that envisaged departure to the eastern Mediterranean. Instead, French authorities held him and members of his household in France. Captivity at Amboise involved loss and difficult conditions, not a voluntary cultural visit. Louis-Napoléon announced his release in 1852.\n\nHe subsequently lived in Bursa and, from 1855, Damascus, devoting himself to religious study and teaching. During the violence against Christians in Damascus in 1860, he intervened to protect people threatened with massacre. This action belongs within the specific crisis of that city; later celebrations of tolerance should not replace investigation of his political and religious thought. He died in Damascus in 1883. His life links Algerian resistance to the history of imprisonment, forced displacement and protection across religious boundaries. The profile begins with his public leadership and follows the changes in his responsibilities and circumstances rather than presenting resistance and exile as separate lives.",
+      "zh": "阿卜杜勒·卡迪尔出身阿尔及利亚西部的学术与宗教家庭，法国征服改变了当地秩序。1832年，他成为埃米尔，通过军事行动、谈判及建立公共权威组织抵抗。征税和维持军队需要与各社群协商，不能假定其支持始终存在。他的政治中心包括马斯卡拉及后来的塔格德姆特。\n\n条约没有结束斗争。法国不断扩大的军事行动，包括焦土战术，压缩了抵抗空间。1847年，他依据可前往东地中海的协议投降，但法国当局却将他及家属拘留在法国。昂布瓦斯的囚禁包含亲人死亡与艰难生活，并非自愿的文化访问。1852年，路易·拿破仑宣布将他释放。\n\n他随后居住在布尔萨，1855年起定居大马士革，从事宗教研究和教学。1860年大马士革发生针对基督徒的暴力时，他介入保护受到屠杀威胁的人们。这一行动属于该城的具体危机；后世对宽容的赞颂，不应取代对其政治与宗教思想的研究。1883年他在大马士革去世。其生平把阿尔及利亚抵抗与囚禁、被迫迁徙及跨宗教庇护的历史相接。本传从公共领导时期开始，追踪其职责与处境的变化，而不把抵抗和流亡分成两段互不相关的人生。"
+    },
+    "dateNote": {
+      "en": "Public-career focus 1832–1883, not full lifespan. The beginning marks his assumption of leadership, not his birth. The surrender point represents western Algeria; the source does not establish a precise surrender coordinate. Amboise identifies the documented captivity and release-announcement site.",
+      "zh": "公共生涯关注期1832—1883年，非完整生卒。起年标记承担领导职责，而非出生。投降节点代表阿尔及利亚西部；来源未确立精确投降坐标。昂布瓦斯标记有记录的囚禁与释放宣布地点。"
+    },
+    "sources": [
+      {
+        "title": "ABDÜLKĀDİR el-CEZÂİRÎ",
+        "publisher": "TDV İslâm Ansiklopedisi; Ercüment Kuran",
+        "url": "https://islamansiklopedisi.org.tr/abdulkadir-el-cezairi",
+        "evidenceNote": "Relevant Turkish biography inspected: 1832 emirate, Mascara/Tagdempt centres, taxation and army, 1847 surrender, imprisonment until 1852, Bursa then Damascus from 1855, protection of Christians in 1860 and death in 1883. Geographic extent and exact casualty numbers are not adopted.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "What you need to know about the Emir Abd El-Kader",
+        "publisher": "Château royal d’Amboise",
+        "url": "https://www.chateau-amboise.com/en/ce-quil-faut-savoir-sur-lemir-abd-el-kader/",
+        "evidenceNote": "Captivity at Amboise from November 1848, family losses, release announcement in October 1852 and later eastern residence. Heritage interpretation is commemorative; its praise is not used as evidence of universal personal virtue.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Emir Abdelkader al-Jazairi",
+        "publisher": "Emir-Stein Center",
+        "url": "https://www.emir-stein.org/articles/emir-abdelkader/",
+        "evidenceNote": "Corroborates anti-colonial leadership, French scorched-earth pressure, broken exile agreement, Bursa/Damascus moves and 1860 protection. A commemorative interfaith institution, not an independent critical edition of his writings.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "keyFacts": {
+      "en": [
+        "The agreed departure after surrender became imprisonment in France.",
+        "His protection of Christians in 1860 occurred in Damascus."
+      ],
+      "zh": [
+        "投降后约定的离境，变成在法国遭囚禁。",
+        "1860年保护基督徒的行动发生于大马士革。"
+      ]
+    },
+    "relatedIds": [
+      "algerian-independence",
+      "person-frantz-fanon",
+      "ottoman-empire"
+    ],
+    "expansion": {
+      "workstreams": [
+        "AF4"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "A bounded synthesis of the cited material. Source notes identify the claims reviewed and any access limits; the record does not establish territorial borders or a continuous personal itinerary.",
+        "zh": "对所引材料的有限综合。来源说明列出核查论点与访问限制；条目不确立疆界或连续个人行程。"
+      }
+    },
+    "name": {
+      "en": "Abd al-Qadir",
+      "zh": "阿卜杜勒·卡迪尔"
+    },
+    "milestones": [
+      {
+        "year": 1832,
+        "title": {
+          "en": "Becoming emir",
+          "zh": "成为埃米尔"
+        },
+        "description": {
+          "en": "He began organizing resistance and public authority in western Algeria.",
+          "zh": "开始在阿尔及利亚西部组织抵抗并建立公共权威。"
+        },
+        "location": {
+          "lat": 35.4,
+          "lon": 0.14,
+          "label": "Mascara; early centre of authority"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1847,
+        "title": {
+          "en": "Surrender and a broken agreement",
+          "zh": "投降与遭违背的协议"
+        },
+        "description": {
+          "en": "He surrendered expecting departure eastward, but was detained in France.",
+          "zh": "投降后原拟前往东方，却遭拘留于法国。"
+        },
+        "location": {
+          "lat": 35.31,
+          "lon": -1.32,
+          "label": "Western Algeria, near Tlemcen; regional surrender context, not an exact meeting site"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1852,
+        "title": {
+          "en": "Release announced at Amboise",
+          "zh": "在昂布瓦斯宣布释放"
+        },
+        "description": {
+          "en": "Louis-Napoléon announced his release after years of captivity.",
+          "zh": "在多年囚禁后，路易·拿破仑宣布将他释放。"
+        },
+        "location": {
+          "lat": 47.41,
+          "lon": 0.99,
+          "label": "Château d’Amboise; captivity and release-announcement site"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1860,
+        "title": {
+          "en": "Protection in Damascus",
+          "zh": "在大马士革提供庇护"
+        },
+        "description": {
+          "en": "He intervened to protect Christians during the city’s violence.",
+          "zh": "在城中暴力期间介入保护基督徒。"
+        },
+        "location": {
+          "lat": 33.51,
+          "lon": 36.29,
+          "label": "Damascus; representative protection setting"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1883,
+        "title": {
+          "en": "Death in Damascus",
+          "zh": "在大马士革去世"
+        },
+        "description": {
+          "en": "He died after decades of life in the Ottoman eastern Mediterranean.",
+          "zh": "在奥斯曼东地中海地区生活数十年后去世。"
+        },
+        "location": {
+          "lat": 33.51,
+          "lon": 36.29,
+          "label": "Damascus; death city"
+        },
+        "approximate": false
+      }
+    ]
+  },
+  {
+    "id": "person-halide-edib",
+    "title": {
+      "en": "Halide Edib · Writing, nationalism and unequal education",
+      "zh": "哈莉黛·埃迪布 · 写作、民族主义与不平等的教育"
+    },
+    "start": 1901,
+    "end": 1964,
+    "region": "west-central-asia",
+    "kind": "person",
+    "theme": "culture",
+    "importance": 4,
+    "location": {
+      "lat": 41.01,
+      "lon": 28.97,
+      "label": "Istanbul; representative educational and literary centre"
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Halide Edib Adıvar combined literary work with education and political activism across the end of the Ottoman Empire and the early Turkish republic. Graduation from the American girls’ college in Istanbul in 1901 opened one path into writing and teaching. Her novels examined women’s social position and the pressures of public and private obligation. Fiction and memoir offered influential interpretations of change, rather than transparent transcripts of events.\n\nHer educational career also had a coercive wartime dimension. In the Ottoman school and orphanage system in Syria and Lebanon, she held responsibilities connected with Antoura, where Armenian children were subjected to forced assimilation during the Armenian genocide. Survivor-based research and archival interpretation describe renaming and punishment for speaking Armenian. This institutional history must remain alongside accounts celebrating her advocacy of education; the evidence does not justify assigning every act in the orphanage to her personally.\n\nIn 1919 she addressed Istanbul rallies against the occupation of İzmir, and subsequently joined the nationalist struggle in Anatolia. Later disagreements with the republican leadership were followed by years abroad. She eventually returned to university teaching in Istanbul and served in parliament from 1950 to 1954. She died in 1964. Her life shows that expanding opportunities for some women could coexist with national projects that denied other people’s identities. The linked entries connect writing and citizenship to the difficult transition from empire to republic.",
+      "zh": "哈莉黛·埃迪布·阿德瓦尔的文学、教育与政治活动，跨越奥斯曼帝国末期及土耳其共和国早期。1901年从伊斯坦布尔的美国女子学院毕业，为她进入写作和教学提供途径。其小说探讨妇女社会地位及公共、私人责任的压力。小说与回忆录提供影响深远的变化解释，而非事件的透明实录。\n\n她的教育生涯也包含战时强制的一面。在叙利亚及黎巴嫩的奥斯曼学校和孤儿院系统中，她承担与安图拉相关的职责；亚美尼亚种族灭绝期间，那里儿童受到强迫同化。依据幸存者材料的研究及档案解释，记述改名和因使用亚美尼亚语遭惩罚的情况。这段机构史必须与赞颂她倡导教育的叙述并存；现有证据并不意味着孤儿院每项行为均由她亲自实施。\n\n1919年，她在伊斯坦布尔集会上发言，反对对伊兹密尔的占领，随后参加安纳托利亚的民族主义斗争。后来与共和国领导层的分歧之后，是多年海外生活。她最终返回伊斯坦布尔任大学教师，并于1950—1954年担任议员，1964年去世。其人生显示，为部分妇女扩展机会，可能与否认其他群体身份的国家建设同时发生。关联条目将写作与公民身份，连接到帝国转向共和国的艰难过程。"
+    },
+    "dateNote": {
+      "en": "Career focus 1901–1964. The exact chronology and scope of her Antoura responsibilities require specialist work; no single-year Antoura milestone is invented. Sources differ over the period abroad. The 1964 Istanbul point denotes her established home and professional context rather than a verified death address.",
+      "zh": "生涯关注期1901—1964年。其安图拉职责的确切年代与范围仍需专门研究，因此不虚构单一年份节点。资料对海外居住时期说法不同。1964年伊斯坦布尔点位表示已知的居住及工作环境，而非经核实的逝世地址。"
+    },
+    "sources": [
+      {
+        "title": "ADIVAR, Halide Edip",
+        "publisher": "Republic of Türkiye Ministry of Culture and Tourism",
+        "url": "https://www.ktb.gov.tr/EN-118055/adivar-halide-edip.html",
+        "evidenceNote": "1901 graduation, 1916 school inspection in Beirut/Damascus, literary production, university teaching, 1950–1954 parliamentary service and 1964 death. Its dates for residence abroad differ from the university profile and are not adopted.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Halide Edib Adıvar",
+        "publisher": "Üsküdar University",
+        "url": "https://uskudar.edu.tr/en/halide-edib-adivar",
+        "evidenceNote": "1919 Istanbul rallies, 1920 move to Ankara, novels, women’s education and 1950 election. Commemorative prose and priority claims are not adopted. The profile omits the coercive orphanage context covered by the other sources.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Ottoman Empire’s state orphanages as centers for Turkifying Armenian children",
+        "publisher": "Armenian Genocide Museum-Institute; Narine Margaryan",
+        "url": "https://www.genocide-museum.am/eng/news-30.03.2018-NarineMargaryan.php",
+        "evidenceNote": "Researcher’s account explicitly identifies Halide Edip’s educational/organizational role and Antoura’s forced assimilation. Used for the wartime institutional context; extreme casualty totals and unrelated orphanage allegations are not generalized to her personally.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Six hundred and fifty children remain at Antoura, c.1919–1920",
+        "publisher": "Near East Relief Historical Society / Goshen College Archives",
+        "url": "https://neareastrelief.org/asset/85491/",
+        "evidenceNote": "Inspected archival item context and notes: forced renaming, punishment for Armenian speech, postwar relief and Panian memoir’s attribution of partial administration to Halide Edib. Photograph date is not the date of her service; inconsistent population counts are not repeated.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "keyFacts": {
+      "en": [
+        "Her literary and political careers crossed the empire–republic transition.",
+        "Education advocacy must be read alongside her role in a coercive wartime institution."
+      ],
+      "zh": [
+        "文学与政治生涯跨越帝国向共和国的转变。",
+        "倡导教育须与其在战时强制机构中的角色并读。"
+      ]
+    },
+    "relatedIds": [
+      "turkish-republic-proclamation",
+      "ottoman-constitution-1876",
+      "person-huda-shaarawi"
+    ],
+    "expansion": {
+      "workstreams": [
+        "WA3"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "A bounded synthesis of the cited material. Source notes identify the claims reviewed and any access limits; the record does not establish territorial borders or a continuous personal itinerary.",
+        "zh": "对所引材料的有限综合。来源说明列出核查论点与访问限制；条目不确立疆界或连续个人行程。"
+      }
+    },
+    "name": {
+      "en": "Halide Edib Adıvar",
+      "zh": "哈莉黛·埃迪布·阿德瓦尔"
+    },
+    "milestones": [
+      {
+        "year": 1901,
+        "title": {
+          "en": "Graduating in Istanbul",
+          "zh": "在伊斯坦布尔毕业"
+        },
+        "description": {
+          "en": "She completed studies at the American girls’ college.",
+          "zh": "完成美国女子学院的学业。"
+        },
+        "location": {
+          "lat": 41.01,
+          "lon": 28.97,
+          "label": "Istanbul; representative educational and literary centre"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1919,
+        "title": {
+          "en": "Speaking at public rallies",
+          "zh": "在公共集会上发言"
+        },
+        "description": {
+          "en": "She addressed rallies protesting the occupation of İzmir.",
+          "zh": "在反对占领伊兹密尔的集会上发言。"
+        },
+        "location": {
+          "lat": 41.01,
+          "lon": 28.97,
+          "label": "Istanbul; city of several rallies, not one reconstructed speaking platform"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1950,
+        "title": {
+          "en": "Election to parliament",
+          "zh": "当选议员"
+        },
+        "description": {
+          "en": "She began a parliamentary term that lasted until 1954.",
+          "zh": "开始任期至1954年的议会工作。"
+        },
+        "location": {
+          "lat": 39.93,
+          "lon": 32.85,
+          "label": "Ankara; parliamentary institution, not an election-day itinerary"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1964,
+        "title": {
+          "en": "End of a writing life",
+          "zh": "写作人生终点"
+        },
+        "description": {
+          "en": "She died in 1964; the point represents her established Istanbul context.",
+          "zh": "1964年去世；点位表示其已知的伊斯坦布尔生活背景。"
+        },
+        "location": {
+          "lat": 41.01,
+          "lon": 28.97,
+          "label": "Istanbul; representative educational and literary centre"
+        },
+        "approximate": false
+      }
+    ],
+    "aliases": [
+      "Halide Edib Adivar"
+    ]
+  },
+  {
+    "id": "person-alisher-navoi",
+    "title": {
+      "en": "Alisher Navoi · Poetry, languages and patronage",
+      "zh": "阿里希尔·纳沃伊 · 诗歌、语言与赞助"
+    },
+    "start": 1441,
+    "end": 1501,
+    "region": "west-central-asia",
+    "kind": "person",
+    "theme": "culture",
+    "importance": 4,
+    "location": {
+      "lat": 34.35,
+      "lon": 62.2,
+      "label": "Herat; representative Timurid court and literary centre"
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Alisher Navoi’s life joined literary ambition to the resources and tensions of a Timurid court. Born in Herat in 1441, he belonged to a world in which Persian and Turkic literary expression interacted. He wrote in both languages. His achievement in Chagatai poetry was not the creation of language from nothing, but a sustained argument through writing for what that literary medium could accomplish.\n\nHusayn Bayqara’s establishment in Herat in 1469 brought Navoi into public office as keeper of the seal. His later responsibilities and patronage connected poetry to administration. He supported educational and religious institutions as well as facilities such as inns, bridges and baths. These endowments show why a poet’s biography can also illuminate the material organization of a city, although surviving summaries do not establish the condition of every building or the experience of all its users.\n\nBetween 1483 and 1485 he composed his Khamsa, a cycle of five long poems that reworked an established literary form in Turkic. His writing explored love, spiritual questions and the responsibilities of power. He died in Herat in 1501, but later manuscripts demonstrate the continuing copying and interpretation of his work. A surviving illustrated divan dated 1580 is evidence of that later reception, not a contemporary record of his daily life. Navoi is central to modern Uzbek literary memory; the atlas keeps that afterlife distinct from the multilingual Timurid setting in which he worked.",
+      "zh": "阿里希尔·纳沃伊的人生把文学追求与帖木儿宫廷的资源和紧张关系结合起来。他1441年生于赫拉特，生活在波斯语与突厥语文学相互作用的世界，以两种语言写作。他在察合台语诗歌上的成就，不是凭空创造语言，而是通过持续写作展示这种文学媒介能够达到的可能。\n\n1469年侯赛因·拜卡拉在赫拉特掌权后，纳沃伊担任掌玺官。后来的职责与赞助，将诗歌与行政联系起来。他资助教育及宗教机构，也支持旅舍、桥梁、浴室等设施。这些捐建说明诗人传记同样能揭示城市的物质组织，但现存概述并不确立每座建筑的状况或所有使用者的经历。\n\n1483—1485年间，他写成《五部诗》，用突厥语改写已建立的长诗组作形式。其作品探索爱情、精神问题及权力的责任。1501年，他在赫拉特去世；后来的手稿显示其作品仍被抄写和解释。一部1580年的插图诗集，是后世接受的证据，而非其日常生活的同时代记录。纳沃伊在现代乌兹别克文学记忆中居于重要地位；本图集将这一后世影响，与他工作的多语帖木儿时代环境加以区分。"
+    },
+    "dateNote": {
+      "en": "Lifespan 1441–1501. The Khamsa milestone marks the end of the composition interval 1483–1485, not a single-day publication. Herat is a court and writing-context point; no exact desk or workshop is asserted.",
+      "zh": "生卒1441—1501年。《五部诗》节点标记1483—1485年创作区间的末年，并非单日出版。赫拉特表示宫廷与写作环境，不主张确切书桌或作坊位置。"
+    },
+    "sources": [
+      {
+        "title": "Alisher Navoiy hayoti va ijodi",
+        "publisher": "Tashkent State University of Oriental Studies",
+        "url": "https://tsuos.uz/en/alisher-navoiy-hayoti-va-ijodi/",
+        "evidenceNote": "Uzbek text inspected for Herat setting, 1469 seal-keeper appointment, 1472 office, bilingual writing and endowments. The page credits tafakkur.net and is a derivative institutional account; prodigy anecdotes and exact building counts are excluded.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "February 9 — Birth Anniversary of Poet, Thinker, and Statesman Alisher Navoi",
+        "publisher": "Government of Uzbekistan",
+        "url": "https://gov.uz/en/cirns/news/view/130357",
+        "evidenceNote": "Commemorative overview supports 1441–1501, Chagatai/Persian writing, public works, 1483–1485 Khamsa and court career. It is not independent specialist corroboration of the university’s national literary framing; its geographic conflation of Khorasan and Transoxiana is not adopted.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "A Scene of Conviviality at Court, folio from a Divan of Mir Ali Shir Nava’i",
+        "publisher": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/art/collection/search/446616",
+        "evidenceNote": "Object 13.228.21.6 identifies Herat 1441–1501, patron/statesman and Chagatai poetry; the 1580 manuscript shows later copying. Its feast illustration is not treated as a documentary portrait of Navoi’s own court.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "keyFacts": {
+      "en": [
+        "He wrote in both Chagatai and Persian.",
+        "The Khamsa was composed across 1483–1485."
+      ],
+      "zh": [
+        "以察合台语与波斯语写作。",
+        "《五部诗》写于1483—1485年间。"
+      ]
+    },
+    "relatedIds": [
+      "timurid-dynasty",
+      "herat-manuscript-workshops",
+      "person-ulugh-beg"
+    ],
+    "expansion": {
+      "workstreams": [
+        "WA2"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "A bounded synthesis of the cited material. Source notes identify the claims reviewed and any access limits; the record does not establish territorial borders or a continuous personal itinerary.",
+        "zh": "对所引材料的有限综合。来源说明列出核查论点与访问限制；条目不确立疆界或连续个人行程。"
+      }
+    },
+    "name": {
+      "en": "Alisher Navoi",
+      "zh": "阿里希尔·纳沃伊"
+    },
+    "milestones": [
+      {
+        "year": 1441,
+        "title": {
+          "en": "Born in Herat",
+          "zh": "生于赫拉特"
+        },
+        "description": {
+          "en": "Herat was both his birthplace and a major setting of his later career.",
+          "zh": "赫拉特既是出生地，也是其后来生涯的重要环境。"
+        },
+        "location": {
+          "lat": 34.35,
+          "lon": 62.2,
+          "label": "Herat; representative Timurid court and literary centre"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1469,
+        "title": {
+          "en": "Service at Husayn Bayqara’s court",
+          "zh": "在侯赛因·拜卡拉宫廷任职"
+        },
+        "description": {
+          "en": "He became keeper of the seal as a new political phase began in Herat.",
+          "zh": "赫拉特进入新的政治阶段时，他担任掌玺官。"
+        },
+        "location": {
+          "lat": 34.35,
+          "lon": 62.2,
+          "label": "Herat; representative Timurid court and literary centre"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1472,
+        "title": {
+          "en": "Further public office",
+          "zh": "进一步担任公职"
+        },
+        "description": {
+          "en": "The university biography dates his appointment as vizier to 1472.",
+          "zh": "大学传记将其担任维齐尔的任命定于1472年。"
+        },
+        "location": {
+          "lat": 34.35,
+          "lon": 62.2,
+          "label": "Herat; representative Timurid court and literary centre"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1485,
+        "title": {
+          "en": "A Turkic Khamsa",
+          "zh": "突厥语《五部诗》"
+        },
+        "description": {
+          "en": "The cycle was composed between 1483 and 1485; Herat represents the literary setting.",
+          "zh": "组诗创作于1483—1485年；赫拉特表示文学环境。"
+        },
+        "location": {
+          "lat": 34.35,
+          "lon": 62.2,
+          "label": "Herat; representative Timurid court and literary centre"
+        },
+        "approximate": false,
+        "dateLabel": {
+          "en": "1483–1485",
+          "zh": "1483—1485年"
+        }
+      },
+      {
+        "year": 1501,
+        "title": {
+          "en": "Death in Herat",
+          "zh": "在赫拉特去世"
+        },
+        "description": {
+          "en": "His work continued to circulate in later manuscript copies.",
+          "zh": "去世后，作品继续通过后世手稿流传。"
+        },
+        "location": {
+          "lat": 34.35,
+          "lon": 62.2,
+          "label": "Herat; representative Timurid court and literary centre"
+        },
+        "approximate": false
+      }
+    ]
+  },
+  {
+    "id": "cairo-geniza-everyday-documents",
+    "title": {
+      "en": "Cairo Geniza · Everyday writing across seas",
+      "zh": "开罗藏经库 · 跨海的日常文字"
+    },
+    "start": 950,
+    "end": 1250,
+    "region": "africa",
+    "kind": "culture",
+    "theme": "knowledge",
+    "importance": 3,
+    "location": {
+      "lat": 30.01,
+      "lon": 31.23,
+      "label": "Fustat, Ben Ezra Synagogue vicinity; survival context, not the origin of every document"
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Letters, accounts and legal deeds preserved in the Cairo Geniza make ordinary transactions visible beside the histories of courts and conquest. The cache survived at the Ben Ezra Synagogue in Fustat, within present-day Cairo. Most of its documentary material dates between about 950 and 1250, but the collection also contains much later writing. It was not assembled as a modern archive with a uniform filing system.\n\nThe documents are only one part of a much larger body of literary and religious fragments. Some texts were written in Egypt; others arrived from places around the Mediterranean and Indian Ocean. Their survival in one building therefore connects local Jewish communal life with more distant exchanges, without proving that every named place belonged to a single organized trade network.\n\nFragments also complicate reading. One surviving piece can contain more than one text, while parts of a single document may now be held in different collections. Reconstruction and translation are scholarly work. Reading the Geniza alongside Fatimid and Mamluk political histories shifts attention toward the people who wrote, kept and used documents, while retaining the limits of this particular surviving archive.",
+      "zh": "开罗藏经库保存的书信、账目和法律文书，使日常交易能够与宫廷及征服史并读。这批材料留存于福斯塔特的本·以斯拉会堂，所在地现属开罗。文书多数写于约950—1250年，但收藏也包含更晚的文字。它并非按统一分类体系建立的现代档案馆。\n\n日常文书只是更大规模文学及宗教残卷的一部分。有些文本写于埃及，另一些来自地中海及印度洋周边地区。因此，同一建筑中的保存，将当地犹太社群生活与远方交流联系起来，却不证明所有出现的地名都属于一个统一组织的贸易网络。\n\n残片也使阅读复杂化。一片材料可能包含多篇文本，而同一文书的不同部分如今可能分藏各处。重组与翻译都需要学术工作。将藏经库与法蒂玛和马穆鲁克政治史并读，可以把视线转向书写、保存和使用文书的人们，同时保留这份特定存世档案的局限。"
+    },
+    "dateNote": {
+      "en": "Approximate concentration of surviving documentary texts, 950–1250; not the dates of the synagogue’s foundation, the whole collection or the Jewish community’s existence. Fustat marks preservation, not universal authorship.",
+      "zh": "约950—1250年表示存世文书集中的时期，不是会堂建立、整批收藏或犹太社群存在的起讫。福斯塔特点位表示保存地点，并非全部文本的写作地。"
+    },
+    "sources": [
+      {
+        "title": "FAQ: The Cairo Geniza",
+        "publisher": "Princeton Geniza Project",
+        "url": "https://geniza.princeton.edu/en/about/faq/",
+        "evidenceNote": "Inspected sections on manuscript survival at Ben Ezra, literary versus documentary material, majority document dates 950–1250, Mediterranean/Indian Ocean origins, and fragment/document relationships. This overview does not verify any particular unpublished translation or document’s provenance.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "keyFacts": {
+      "en": [
+        "Everyday documents form only part of a largely literary cache.",
+        "A preservation place need not be a document’s place of origin."
+      ],
+      "zh": [
+        "日常文书仅占以文学材料为主的藏经库一部分。",
+        "保存地点不一定是文书的产生地点。"
+      ]
+    },
+    "relatedIds": [
+      "fatimid-caliphate",
+      "mamluk-sultanate",
+      "person-ibn-khaldun"
+    ],
+    "expansion": {
+      "workstreams": [
+        "AF3"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "A bounded synthesis of the cited material. Source notes identify the claims reviewed and any access limits; the record does not establish territorial borders or a continuous personal itinerary.",
+        "zh": "对所引材料的有限综合。来源说明列出核查论点与访问限制；条目不确立疆界或连续个人行程。"
+      }
+    }
+  },
+  {
+    "id": "egypt-women-nationalism-1919",
+    "title": {
+      "en": "Egyptian women · From demonstrations to citizenship demands",
+      "zh": "埃及妇女 · 从示威到公民权诉求"
+    },
+    "start": 1919,
+    "end": 1924,
+    "region": "africa",
+    "kind": "event",
+    "theme": "culture",
+    "importance": 3,
+    "location": {
+      "lat": 30.04,
+      "lon": 31.24,
+      "label": "Cairo; representative scholarly and institutional centre"
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Women’s participation in the Egyptian movement against British occupation made the street a setting for political action in 1919. Demonstrations associated with Huda Shaarawi were part of a wider struggle over national authority. Public participation, however, did not make all women equal within the movement: wealthy organizers possessed resources, literacy and international contacts that were not shared evenly.\n\nThe years after the demonstrations exposed a gap between national independence and women’s citizenship. Egypt’s new constitutional institutions did not grant women equal political participation. The Egyptian Feminist Union, founded in 1923 under Shaarawi’s presidency, developed an organizational platform for education and social reform. Exclusion from the official opening of parliament in 1924 made the limits of the new political order especially visible.\n\nThis sequence is more than the story of one leader unveiling in public. It asks how associations, charitable work and international meetings helped create a movement, and who remained outside its leadership. Reading it with Shaarawi’s biography separates a person’s retrospective account from the collective history of campaigns. The interval ends with a confrontation over participation, not with the achievement of equal rights.",
+      "zh": "1919年，妇女参与反对英国占领的埃及运动，使街道成为政治行动场所。与胡达·沙拉维相连的示威，是争取国家权威的更广斗争的一部分。然而，公共参与并未消除运动内部的不平等：富裕组织者拥有资源、读写能力及国际联系，这些条件并非人人共享。\n\n示威之后的岁月，显露国家独立与妇女公民权之间的距离。新的宪政机构并未赋予妇女平等政治参与。1923年，在沙拉维担任主席时成立的埃及妇女联合会，为教育与社会改革建立组织平台。1924年妇女被排除于议会正式开幕仪式之外，更清楚地显示新政治秩序的限制。\n\n这段历史不止是一位领袖在公共场合摘下面纱的故事。它追问协会、慈善及国际会议如何帮助建立运动，又有哪些人未能进入领导层。与沙拉维传记并读，可以区分个人回顾性叙述与集体运动史。本条以围绕参与权的冲突结束，而非以实现平等权利结束。"
+    },
+    "dateNote": {
+      "en": "Selected organizing sequence, 1919–1924. The dates distinguish demonstrations, union formation and parliamentary exclusion. Cairo is an institutional centre, not a reconstructed route of every women’s action.",
+      "zh": "选取1919—1924年的组织活动序列，区分示威、联合会成立与议会排斥。开罗表示机构中心，不重建所有妇女行动的路线。"
+    },
+    "sources": [
+      {
+        "title": "Sha’rawi, Huda 1879–1947",
+        "publisher": "International Encyclopedia of the Social Sciences / Encyclopedia.com",
+        "url": "https://www.encyclopedia.com/social-sciences/encyclopedias-almanacs-transcripts-and-maps/sharawi-huda-1879-1947",
+        "evidenceNote": "Elite background, charitable/educational work, 1919 demonstrations, 1923 Egyptian Feminist Union and presidency until 1947. Face-covering distinction inspected; generalized claims about all Egyptian women are not adopted.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Re-reading Huda Shaarawi’s Harem Years",
+        "publisher": "Julia Lisiecka, SOAS Journal of Postgraduate Research 8 (2015)",
+        "url": "https://www.soas.ac.uk/sites/default/files/2022-06/05%20Rereading%20Huda%20Shaarawis%20Harem%20Years%20Bargaining%20with%20the%20Patriarchy%20in%20the%20Changing%20Egypt%20file102674.pdf",
+        "evidenceNote": "Relevant pages 6–10 inspected: limits of unveiling symbolism, nationalism/feminism, 1923 political exclusion and 1924 parliamentary inauguration controversy. This is a postgraduate research interpretation of memoirs, not an unmediated testimony.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "keyFacts": {
+      "en": [
+        "Political mobilization preceded equal access to national institutions.",
+        "The 1923 union gave reform demands an enduring organization."
+      ],
+      "zh": [
+        "政治动员先于平等进入国家机构。",
+        "1923年成立的联合会为改革诉求提供持续组织。"
+      ]
+    },
+    "relatedIds": [
+      "person-huda-shaarawi",
+      "suez-crisis-1956",
+      "suez-canal-opening"
+    ],
+    "expansion": {
+      "workstreams": [
+        "AF4"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "A bounded synthesis of the cited material. Source notes identify the claims reviewed and any access limits; the record does not establish territorial borders or a continuous personal itinerary.",
+        "zh": "对所引材料的有限综合。来源说明列出核查论点与访问限制；条目不确立疆界或连续个人行程。"
+      }
+    }
+  },
+  {
+    "id": "south-africa-land-act-1913",
+    "title": {
+      "en": "South Africa’s Land Act · Law, tenancy and exclusion",
+      "zh": "南非《土地法》· 法律、租佃与排斥"
+    },
+    "start": 1913,
+    "end": 1936,
+    "region": "africa",
+    "kind": "event",
+    "theme": "states",
+    "importance": 3,
+    "location": {
+      "lat": -33.93,
+      "lon": 18.42,
+      "label": "Cape Town; legislative setting, not a point representing every dispossessed community"
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "The Natives Land Act of 1913 placed racial restrictions on land purchase and tenancy at the centre of South African law. It built on older conquest and dispossession; it did not create land inequality from an untouched starting point. The scheduled areas associated with African occupation comprised roughly seven percent of the country, with a larger allocation legislated in 1936.\n\nFor African tenants and farmers, the law could change the terms on which a household kept land, livestock and an income. Its effects were neither identical everywhere nor completed on the day of enactment. Historians William Beinart and Peter Delius emphasize regional variation and the gradual, uneven consequences for tenants on white-owned land. The legislation’s formal categories therefore need to be read beside the local arrangements through which people actually farmed and worked.\n\nThis history connects rural property to labour and family life. It also guards against attributing every later forced removal to a single statute. The linked Sophiatown and women’s organizing entries concern other parts of a wider system of racial control. Cape Town marks the legislative setting; the dispersed households affected cannot be represented by one authoritative territorial shape.",
+      "zh": "1913年《原住民土地法》把土地购买及租佃的种族限制置于南非法律核心。它建立在较早的征服和剥夺之上，并非从一个没有土地不平等的起点开始。与非洲人居住相关的法定地区约占全国百分之七，1936年的立法才规定扩大划配范围。\n\n对于非洲租佃者和农民，这部法律可能改变家庭保有土地、牲畜及收入的条件。但其影响并非处处相同，也未在颁布当日全部实现。历史学家威廉·贝纳特与彼得·德利乌斯强调地区差异，以及对白人土地上租佃者逐步且不均衡的影响。因此，正式法律分类须与人们实际耕作、劳动的地方安排并读。\n\n这段历史将农村财产与劳动、家庭生活相连，也避免把后来所有强制迁居归因于同一法令。关联的索菲亚镇及妇女组织条目，涉及更广种族控制制度的其他部分。开普敦点位仅标记立法环境；受到影响的分散家庭不能用一个权威疆域形状表示。"
+    },
+    "dateNote": {
+      "en": "Legislative focus 1913–1936, from the 1913 law to its later land-allocation extension. This is not the beginning or end of dispossession and does not imply uniform implementation throughout the interval.",
+      "zh": "立法关注期1913—1936年，从1913年法令至后来扩大土地划配。并非剥夺的起点或终点，也不表示整个区间实行情况一致。"
+    },
+    "sources": [
+      {
+        "title": "The Natives Land Act of 1913",
+        "publisher": "South African History Online",
+        "url": "https://sahistory.org.za/article/natives-land-act-1913",
+        "evidenceNote": "Relevant sections on older dispossession, June 1913 law, restrictions on African land purchase/tenancy, scheduled areas and the 1936 extension. The summary does not treat the law as an instant transfer of all affected land.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "The Historical Context and Legacy of the Natives Land Act of 1913",
+        "publisher": "William Beinart and Peter Delius, Journal of Southern African Studies; abstract via RePEc",
+        "url": "https://ideas.repec.org/a/taf/cjssxx/v40y2014i4p667-688.html",
+        "evidenceNote": "Inspected the authors’ abstract, not the subscription article. Supports the warning that effects were regionally varied, often gradual, and especially relevant to Black tenants; does not support detailed case-study claims. DOI 10.1080/03057070.2014.930623.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-abstract"
+      }
+    ],
+    "keyFacts": {
+      "en": [
+        "The law built on earlier dispossession.",
+        "Regional effects and the consequences for tenants varied."
+      ],
+      "zh": [
+        "法令建立在此前的土地剥夺之上。",
+        "地区影响及租佃者所受后果存在差异。"
+      ]
+    },
+    "relatedIds": [
+      "person-charlotte-maxeke",
+      "sophiatown-forced-removals-1955",
+      "south-africa-womens-march-1956"
+    ],
+    "expansion": {
+      "workstreams": [
+        "AF4"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "A bounded synthesis of the cited material. Source notes identify the claims reviewed and any access limits; the record does not establish territorial borders or a continuous personal itinerary.",
+        "zh": "对所引材料的有限综合。来源说明列出核查论点与访问限制；条目不确立疆界或连续个人行程。"
+      }
+    }
+  },
+  {
+    "id": "south-africa-womens-march-1956",
+    "title": {
+      "en": "Women’s March · Petitions against pass controls",
+      "zh": "妇女大游行 · 反对通行证管制的请愿"
+    },
+    "start": 1956,
+    "end": 1956,
+    "region": "africa",
+    "kind": "event",
+    "theme": "culture",
+    "importance": 3,
+    "location": {
+      "lat": -25.74,
+      "lon": 28.21,
+      "label": "Union Buildings, Pretoria; gathering and petition site"
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "On 9 August 1956, thousands of women gathered at the Union Buildings in Pretoria to oppose pass controls affecting African women. Participation estimates range from about ten thousand to twenty thousand. The demonstration depended on organizing across cities and communities, including the Federation of South African Women and local delegates who arranged travel to the capital.\n\nThe issue reached into work and family life. Official permission to remain in an urban area could determine whether women could live with relatives, seek employment or avoid arrest. Opposition to passes was consequently a struggle over everyday security as well as formal political power. The march joined women with different racial classifications and backgrounds without removing the inequalities among them.\n\nPrime Minister J. G. Strijdom did not meet the delegation. Organizers left petitions at his office, and the crowd observed a long silence at Lilian Ngoyi’s suggestion. The event became a major point of remembrance in the history of women’s political action. It did not immediately abolish pass controls. Read alongside Charlotte Maxeke’s earlier organizing, it shows repeated challenges to restrictions on movement across different generations and organizations.",
+      "zh": "1956年8月9日，成千上万名妇女聚集在比勒陀利亚联合大厦，反对针对非洲妇女的通行证管制。参与人数估计约一万至两万。示威依靠跨城市和社群的组织工作，包括南非妇女联合会及安排代表赴首都的地方组织者。\n\n这一问题深入劳动和家庭生活。能否取得在城市居留的官方许可，可能决定妇女能否与亲人共同生活、寻找工作或避免遭逮捕。因此，反对通行证既关乎正式政治权力，也关乎日常安全。游行联合了不同种族分类及背景的妇女，却不意味着彼此间的不平等已经消除。\n\n总理约翰内斯·斯特里敦没有接见代表团。组织者将请愿书放在其办公室门外，群众按莉莲·恩戈伊的建议长时间静默。这一事件成为妇女政治行动史的重要纪念节点，但并未立即废除通行证管制。与夏洛特·马克塞克的早期组织工作并读，可见不同世代和组织反复挑战行动限制。"
+    },
+    "dateNote": {
+      "en": "The record dates the march of 9 August 1956. Attendance is an estimate, and the event is not dated as the abolition of pass laws. The point marks the public gathering site, not every participant’s journey.",
+      "zh": "本条标记1956年8月9日的游行。人数为估计值，不能把此事件定为通行证法律废除之日。点位表示公共集会地点，不表示每位参与者的旅程。"
+    },
+    "sources": [
+      {
+        "title": "The 1956 Women’s March, Pretoria, 9 August",
+        "publisher": "South African History Online",
+        "url": "https://sahistory.org.za/article/1956-womens-march-pretoria-9-august",
+        "evidenceNote": "Organizing through FSAW and local delegates, date and Union Buildings, petitions, half-hour silence and estimates of 10,000–20,000. The opening rounded count is not treated as an exact census. Earlier anti-pass action supplies context, not an unbroken organizational succession.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Women’s Day",
+        "publisher": "Government of South Africa",
+        "url": "https://www.gov.za/news/events/commemorative-events/womens-day",
+        "evidenceNote": "Commemorative account corroborates 9 August 1956, Pretoria, opposition to pass controls and later Women’s Day remembrance. Historical claims used here do not rely on its changing annual celebration details.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "keyFacts": {
+      "en": [
+        "Organizing connected local delegates to a national demonstration.",
+        "The petition and silence did not produce immediate legal abolition."
+      ],
+      "zh": [
+        "组织工作把地方代表连接到全国示威。",
+        "请愿与静默没有立即促成法律废除。"
+      ]
+    },
+    "relatedIds": [
+      "person-charlotte-maxeke",
+      "person-albertina-sisulu",
+      "south-africa-land-act-1913"
+    ],
+    "expansion": {
+      "workstreams": [
+        "AF4"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "A bounded synthesis of the cited material. Source notes identify the claims reviewed and any access limits; the record does not establish territorial borders or a continuous personal itinerary.",
+        "zh": "对所引材料的有限综合。来源说明列出核查论点与访问限制；条目不确立疆界或连续个人行程。"
+      }
+    }
+  },
+  {
+    "id": "sophiatown-forced-removals-1955",
+    "title": {
+      "en": "Sophiatown · A neighbourhood forcibly dismantled",
+      "zh": "索菲亚镇 · 被强制拆散的街区"
+    },
+    "start": 1955,
+    "end": 1955,
+    "region": "africa",
+    "kind": "event",
+    "theme": "cities",
+    "importance": 3,
+    "location": {
+      "lat": -26.17,
+      "lon": 27.98,
+      "label": "Sophiatown, Johannesburg; origin neighbourhood of removals"
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Police-backed removals began in Sophiatown on 9 February 1955. Families were forced from the Johannesburg neighbourhood to Meadowlands in Soweto. The operation began before the announced removal date, catching residents by surprise. The event marked the beginning of a process of displacement and demolition, rather than the movement of every resident on a single day.\n\nSophiatown was also a place of music and social encounter. Miriam Makeba’s early career belonged to its world of performers, bands and audiences. That cultural history helps explain what was lost when officials treated a neighbourhood as a racial planning problem: homes and relationships were disrupted alongside buildings. The musical record cannot stand for every household’s experience, but a demolition narrative should also make room for the inhabitants’ creative lives.\n\nA white residential area called Triomf was subsequently built on the cleared ground. The map point remains at Sophiatown because this entry concerns the community from which people were removed. Meadowlands is the destination named in the account, not a substitute location for the original neighbourhood. Related biographies carry parts of this social history beyond the destruction of the built environment.",
+      "zh": "1955年2月9日，警方支持的强制迁居在索菲亚镇开始。家庭被迫从约翰内斯堡这一街区迁往索韦托的梅多兰兹。行动在预先宣布的日期之前开始，使居民措手不及。这标记迁居与拆除过程的开始，并非所有居民在一天内全部迁离。\n\n索菲亚镇也是音乐与社会交往之地。米丽娅姆·马凯巴的早期事业属于这里的表演者、乐队和听众世界。这段文化史有助理解当官员把街区视作种族规划问题时失去了什么：受破坏的不仅是建筑，还有家庭与社会关系。音乐记录不能代表每个家庭的经历，而拆除叙述也应给居民的创造性生活留出空间。\n\n清理后的土地上后来建起名为特里奥姆夫的白人住宅区。地图点位保留在索菲亚镇，因为本条讲述的是人们遭迁出的社群。梅多兰兹是叙述中的目的地，不能取代原街区的位置。相关传记让这段社会史的一部分延续到建筑环境被毁之后。"
+    },
+    "dateNote": {
+      "en": "1955 marks the start of forced removals, specifically 9 February, not their full duration. Sophiatown is the origin point; no exact forced-migration route is reconstructed.",
+      "zh": "1955年标记强制迁居开始，具体为2月9日，并非整个持续时期。索菲亚镇表示迁出地；不重建精确强迫迁移路线。"
+    },
+    "sources": [
+      {
+        "title": "Sophiatown residents are forcefully moved to Soweto",
+        "publisher": "South African History Online",
+        "url": "https://sahistory.org.za/dated-event/sophiatown-residents-are-forcefully-moved-soweto",
+        "evidenceNote": "Inspected event text for 9 February 1955, police-backed removal to Meadowlands, the advance on an announced date, demolition and later Triomf. The record dates the beginning, not completion of all removals.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Miriam Makeba",
+        "publisher": "South African History Online",
+        "url": "https://sahistory.org.za/people/miriam-makeba",
+        "evidenceNote": "Relevant career passages inspected: Manhattan Brothers in 1954, Sophiatown musical setting, 1960 passport cancellation, 1963 United Nations testimony and return in 1990. The page’s discrepant film date is not used.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "keyFacts": {
+      "en": [
+        "Removal began before the announced date.",
+        "Displacement disrupted social relationships as well as buildings."
+      ],
+      "zh": [
+        "迁居行动在预告日期之前开始。",
+        "强制迁居不仅破坏建筑，也破坏社会关系。"
+      ]
+    },
+    "relatedIds": [
+      "person-miriam-makeba",
+      "person-bessie-head",
+      "south-africa-land-act-1913"
+    ],
+    "expansion": {
+      "workstreams": [
+        "AF4"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "A bounded synthesis of the cited material. Source notes identify the claims reviewed and any access limits; the record does not establish territorial borders or a continuous personal itinerary.",
+        "zh": "对所引材料的有限综合。来源说明列出核查论点与访问限制；条目不确立疆界或连续个人行程。"
+      }
+    }
+  },
+  {
+    "id": "freetown-atlantic-resettlement",
+    "title": {
+      "en": "Freetown · Freedom sought across the Atlantic",
+      "zh": "弗里敦 · 跨大西洋追寻自由"
+    },
+    "start": 1792,
+    "end": 1800,
+    "region": "africa",
+    "kind": "event",
+    "theme": "exchange",
+    "importance": 3,
+    "location": {
+      "lat": 8.48,
+      "lon": -13.23,
+      "label": "Freetown; settlement destination, not an empty-land claim"
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "In 1792, 1,196 Black Loyalists left Nova Scotia and New Brunswick for Sierra Leone. Many had supported Britain during the American Revolutionary War and then encountered broken promises of farmland, unequal treatment and the threat of renewed enslavement. Thomas Peters and John Clarkson helped organize the movement that established Freetown after an earlier settlement venture had failed.\n\nMigration did not settle the meaning of freedom. The Sierra Leone Company’s control of land and refusal of freehold generated conflict with settlers. Local African communities also had their own claims and relationships to the land; the destination was not vacant territory awaiting an Atlantic population. Records of colonial administration preserve disputes, but they cannot be treated as the voices of all the people affected.\n\nIn 1800, Jamaican Maroons arrived after exile in Nova Scotia and prolonged petitions to leave. Some helped suppress a settler revolt, complicating any simple story of a united community of returnees. The sequence links emancipation to property, political authority and contested belonging. It shows how people pursued safer lives while entering new relations of colonial power on the African coast.",
+      "zh": "1792年，1,196名黑人保皇派移民离开新斯科舍及新不伦瑞克，前往塞拉利昂。许多人曾在美国独立战争期间支持英国，随后却遭遇耕地承诺落空、不平等待遇及重新被奴役的威胁。托马斯·彼得斯与约翰·克拉克森协助组织迁移，在更早的定居计划失败之后建立弗里敦。\n\n迁移并未解决自由的含义。塞拉利昂公司控制土地并拒绝移民获得自由保有产权，引发与定居者的冲突。当地非洲社群也有自己的土地权利和关系；目的地并非等待跨大西洋人口到来的空地。殖民行政记录保存争议，却不能被当作所有受影响者的声音。\n\n1800年，牙买加马龙人在新斯科舍遭流放并长期请愿离开后抵达。其中一些人协助镇压定居者起义，使统一归来者社群的简单叙述更加复杂。这一序列把解放与财产、政治权威及有争议的归属联系起来，显示人们追寻更安全生活时，也在非洲海岸进入新的殖民权力关系。"
+    },
+    "dateNote": {
+      "en": "Two migration and settlement moments, 1792–1800. The interval does not date the beginning of settlement in the wider area or the completion of Sierra Leone’s social formation. Freetown marks the destination of these movements.",
+      "zh": "关注1792—1800年的两次迁移及定居节点。区间不表示更广地区有人居住的起点，也不表示塞拉利昂社会形成的完成。弗里敦标记这些迁移的目的地。"
+    },
+    "sources": [
+      {
+        "title": "Black Migrations to Sierra Leone (1792 and 1800)",
+        "publisher": "Parks Canada",
+        "url": "https://parks.canada.ca/culture/designation/evenement-event/migrations-sierra-leone",
+        "evidenceNote": "Inspected historical background: 1,196 Black Loyalist migrants in 1792, broken farmland promises and inequality in Nova Scotia/New Brunswick, Peters/Clarkson organizing, and Jamaican Maroons’ 1800 migration after petitions. Counts and experience are specific to these groups.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Sessional Papers: Sierra Leone (CO 270), 1792–1801",
+        "publisher": "University of New Brunswick, The Loyalist Collection",
+        "url": "https://loyalist.lib.unb.ca/record/sessional-papers-sierra-leone-co-270-1792-1801",
+        "evidenceNote": "Inspected catalog background and scope: 1792 settlement after an earlier failed venture, Company refusal of freehold, 1800 revolt and Maroon involvement, local African land conflict. Catalog context was read, not the 1,529 manuscript images.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-catalog-context"
+      }
+    ],
+    "keyFacts": {
+      "en": [
+        "Atlantic migration did not guarantee secure land or equal authority.",
+        "The 1792 settlers and the 1800 Maroons had distinct experiences."
+      ],
+      "zh": [
+        "跨大西洋迁移不保证安全土地权或平等权威。",
+        "1792年定居者与1800年马龙人有不同经历。"
+      ]
+    },
+    "relatedIds": [
+      "british-slavery-emancipation",
+      "haitian-revolution",
+      "liverpool-slavery-port-infrastructure"
+    ],
+    "expansion": {
+      "workstreams": [
+        "AF2",
+        "AF4"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "A bounded synthesis of the cited material. Source notes identify the claims reviewed and any access limits; the record does not establish territorial borders or a continuous personal itinerary.",
+        "zh": "对所引材料的有限综合。来源说明列出核查论点与访问限制；条目不确立疆界或连续个人行程。"
+      }
+    }
+  },
+  {
+    "id": "faras-cathedral-paintings",
+    "title": {
+      "en": "Faras · Painted faith in medieval Nubia",
+      "zh": "法拉斯 · 中古努比亚的信仰绘画"
+    },
+    "start": 700,
+    "end": 1400,
+    "region": "africa",
+    "kind": "place",
+    "theme": "culture",
+    "importance": 3,
+    "location": {
+      "lat": 22.2,
+      "lon": 31.48,
+      "label": "Historical Faras vicinity; now within the reservoir landscape, not the Warsaw gallery"
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "The cathedral at Faras, known in antiquity as Pachoras, preserved a changing painted environment within medieval Christian Nubia. An earlier seventh-century church preceded the eighth-century cathedral, whose walls carried paintings added over succeeding centuries. Images of holy figures and local bishops joined architecture and inscriptions in making religious authority visible.\n\nThe paintings were executed on plaster with tempera. Bishops’ portraits, funerary objects and epitaphs also connect the church to particular clergy and burial practices. Pottery from local workshops places this monumental setting beside the work of craftspeople. These objects allow questions about patronage, devotion and manufacture, although they cannot supply an unbroken account of every resident’s beliefs.\n\nModern knowledge of the site is inseparable from excavation and rescue before the reservoir created by the Aswan High Dam flooded the area. Paintings were detached and moved into museum collections. Their survival makes study possible, while separation from the building changes how viewers encounter them. The atlas marks the historical Faras area rather than a museum in Europe, and links the paintings to Nubian political history and the wider history of dam-related heritage rescue.",
+      "zh": "古称帕霍拉斯的法拉斯主教座堂，保存了中古基督教努比亚不断变化的绘画环境。七世纪较早的教堂之后，出现八世纪主教座堂，其墙面在后续多个世纪陆续增加绘画。圣者与当地主教的形象，与建筑和铭文共同使宗教权威可见。\n\n绘画以 tempera 技法绘于灰泥表面。主教肖像、墓葬用品及墓志，也将教堂与具体教士和安葬实践联系起来。地方作坊陶器则把这一宏伟场所，与工匠劳动并置。这些物件使人能够追问赞助、虔敬及制作，但不能提供所有居民信仰的连续记录。\n\n现代对遗址的认识，与阿斯旺高坝形成水库、地区被淹前的发掘及抢救密不可分。壁画从建筑上揭取，转移到博物馆收藏中。保存使研究成为可能，但脱离原建筑也改变了观看方式。图集标记历史法拉斯地区，而非欧洲博物馆，并将绘画连接到努比亚政治史及水坝相关遗产抢救史。"
+    },
+    "dateNote": {
+      "en": "Rounded focus on paintings of the eighth through fourteenth centuries, c.700–1400. This is neither the foundation date of Faras nor a precise abandonment year. The historical site’s point is approximate within the modern reservoir landscape.",
+      "zh": "以约700—1400年概括八至十四世纪绘画的关注范围，既非法拉斯建立年代，也非精确废弃年。历史遗址点位在现代水库景观内为近似定位。"
+    },
+    "sources": [
+      {
+        "title": "Faras Gallery",
+        "publisher": "National Museum in Warsaw",
+        "url": "https://mnw.pl/en/collections/permanent-galleries/faras-gallery",
+        "evidenceNote": "Relevant gallery history inspected: early cathedral phases, paintings from the eighth through fourteenth centuries, tempera on plaster, bishops’ images and epitaphs, local pottery and rescue before reservoir flooding. The modern gallery is not the historical site.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "keyFacts": {
+      "en": [
+        "Paintings accumulated across several centuries.",
+        "Rescue preserved objects while separating them from their architectural setting."
+      ],
+      "zh": [
+        "绘画在多个世纪间逐步累积。",
+        "抢救保存物件，也将其与建筑环境分离。"
+      ]
+    },
+    "relatedIds": [
+      "makuria-kingdom",
+      "meroe-kush",
+      "abu-simbel-relocation"
+    ],
+    "expansion": {
+      "workstreams": [
+        "AF3"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "A bounded synthesis of the cited material. Source notes identify the claims reviewed and any access limits; the record does not establish territorial borders or a continuous personal itinerary.",
+        "zh": "对所引材料的有限综合。来源说明列出核查论点与访问限制；条目不确立疆界或连续个人行程。"
+      }
+    }
+  },
+  {
+    "id": "lamu-households-learning",
+    "title": {
+      "en": "Lamu · Houses, neighbourhoods and learning",
+      "zh": "拉穆 · 住宅、街坊与学问"
+    },
+    "start": 1800,
+    "end": 1900,
+    "region": "africa",
+    "kind": "place",
+    "theme": "culture",
+    "importance": 3,
+    "location": {
+      "lat": -2.27,
+      "lon": 40.9,
+      "label": "Lamu Old Town; representative living urban community"
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Nineteenth-century Lamu was a setting for Islamic and Swahili learning within a much older coastal town. Its history can be read through houses and neighbourhoods as well as through political rulers. Coral-stone buildings, mangrove-timber construction, courtyards and carved doors shaped the spaces in which households received visitors and organized daily life.\n\nThe town’s wards were associated with family and lineage relationships. That pattern gives architecture a social dimension: a street plan was also a framework for relationships, obligations and distinctions within the community. Religious learning and Maulidi celebrations linked built spaces to continuing practices. These connections do not mean that all inhabitants occupied equal positions or that one type of house represented everyone’s experience.\n\nThe surviving urban fabric is evidence of repeated adaptation rather than an untouched nineteenth-century photograph. A heritage description can identify construction and town form, but further local research is needed to reconstruct the lives of specific residents, labourers and households. Read beside Kilwa, Songo Mnara and Zanzibar, Lamu contributes another local sequence to the varied histories of the Swahili coast. The end of the selected interval does not mark the disappearance of the town or its living traditions.",
+      "zh": "十九世纪拉穆是伊斯兰与斯瓦希里学问的活动场所，也是历史更悠久的海岸城镇。其历史可以通过住宅和街坊阅读，而不只通过政治统治者。珊瑚石建筑、红树林木材、庭院与雕花门，塑造家庭接待来客及安排日常生活的空间。\n\n城镇街坊与家庭和宗族关系相连，使建筑具有社会意义：街道格局也是社群内部关系、义务及差别的框架。宗教学问与圣纪庆典，把建筑空间与延续中的实践相接。但这些联系并不意味着所有居民地位平等，也不意味着一种住宅可以代表所有人的经历。\n\n存世城市肌理是反复调整的证据，而非未受改变的十九世纪照片。遗产说明可以辨识建筑及城镇形态，重建具体居民、劳动者和家庭的生活仍需进一步地方研究。与基尔瓦、松戈姆纳拉及桑给巴尔并读，拉穆为多样的斯瓦希里海岸史增添地方序列。所选区间结束，并非城镇或活态传统消失。"
+    },
+    "dateNote": {
+      "en": "Editorial focus on nineteenth-century learning and urban life, 1800–1900. Buildings and practices have longer histories; this does not assert that every surviving house was built within the interval.",
+      "zh": "编辑选取1800—1900年的学术与城市生活。建筑及实践具有更长历史；不主张每座存世住宅都建于此区间。"
+    },
+    "sources": [
+      {
+        "title": "Lamu Old Town",
+        "publisher": "UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/1055/",
+        "evidenceNote": "Inspected statement of significance and description: coral stone/mangrove timber, courtyards, carved doors, ward/lineage organization and nineteenth-century Islamic and Swahili learning. The focus interval is editorial; neither a founding date nor a claim that the community ended in 1900.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "keyFacts": {
+      "en": [
+        "Town form records social relationships as well as construction.",
+        "The selected period is not the lifespan of a living community."
+      ],
+      "zh": [
+        "城镇形态记录社会关系，也记录建筑营造。",
+        "所选时期不是活态社群的存续期限。"
+      ]
+    },
+    "relatedIds": [
+      "kilwa",
+      "songo-mnara-households",
+      "zanzibar-clove-labour"
+    ],
+    "expansion": {
+      "workstreams": [
+        "AF3"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "A bounded synthesis of the cited material. Source notes identify the claims reviewed and any access limits; the record does not establish territorial borders or a continuous personal itinerary.",
+        "zh": "对所引材料的有限综合。来源说明列出核查论点与访问限制；条目不确立疆界或连续个人行程。"
+      }
+    }
+  },
+  {
+    "id": "kanesh-merchant-households",
+    "title": {
+      "en": "Kanesh · Trade recorded inside households",
+      "zh": "卡内什 · 家庭内部记录的贸易"
+    },
+    "start": -2000,
+    "end": -1800,
+    "region": "west-central-asia",
+    "kind": "culture",
+    "theme": "exchange",
+    "importance": 3,
+    "location": {
+      "lat": 38.85,
+      "lon": 35.63,
+      "label": "Kültepe / Kanesh; representative trading settlement, with object provenances qualified as probable"
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Clay letters from Kanesh, at modern Kültepe in central Anatolia, connect long-distance commerce to family negotiations. During the early second millennium BCE, merchants associated with Ashur traded tin and textiles and used cuneiform tablets, envelopes and seals to record business. Surviving household archives contain loans, disputes and messages to distant relatives as well as transactions.\n\nIn one letter, Ilabrat-bani updates the transporter Amur-ili about textiles, asks for clothing and offers travel advice. The crowded writing covers the tablet’s edges, showing the material constraints of a message carried over distance. Another letter occupies two tablets within one envelope. Ashur-muttabbil addresses a family dispute involving his Anatolian wife Kunanniya and claims over enslaved girls.\n\nThese texts make it impossible to describe the trading world only as a peaceful exchange of desirable goods. Family ties, unequal authority and the ownership of people belonged to the same setting. They also give named non-rulers a place in the atlas. The objects’ cataloged origins are probable rather than securely excavated household addresses, so the Kanesh point represents the trading community rather than a reconstructed home or caravan itinerary.",
+      "zh": "卡内什位于今安纳托利亚中部屈尔泰佩，其泥版书信将远距离商业与家庭协商相连。公元前二千纪早期，来自亚述城的商人经营锡和纺织品贸易，使用楔形文字泥版、封套和印章记录业务。存世家庭档案不仅有交易，还包括借贷、争议及寄给远方亲属的消息。\n\n一封信中，伊拉布拉特巴尼向运输者阿穆尔伊利通报纺织品情况、索取衣物并提出旅行建议。密集文字写满泥版边缘，显示远距离携信的物质限制。另一封信由放在同一封套中的两块泥版组成，阿舒尔穆塔比尔讨论涉及其安纳托利亚妻子库南尼亚及被奴役女孩归属的家庭争议。\n\n这些文本使贸易世界不能仅被描述为令人向往货物的和平交换。家庭纽带、不平等权威及对人的占有同属一个环境，也让有姓名的非统治者进入图集。藏品目录将出土地记为可能，而非有确凿发掘证据的住宅地址，因此卡内什点位代表贸易社群，不重建家宅或商队行程。"
+    },
+    "dateNote": {
+      "en": "Approximate object and commercial-context range, twentieth–nineteenth centuries BCE, rounded to 2000–1800 BCE. This is not a foundation or destruction chronology. The two objects are cataloged as probably from Kültepe.",
+      "zh": "器物及商业环境约属公元前二十至十九世纪，以前2000—前1800年概括，并非建立或毁灭年表。两件藏品均被记为可能出自屈尔泰佩。"
+    },
+    "sources": [
+      {
+        "title": "Cuneiform tablet: private letter, 66.245.8",
+        "publisher": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/art/collection/search/325849",
+        "evidenceNote": "Object text and metadata inspected: approximate twentieth–nineteenth centuries BCE, probable Kültepe origin, merchant household archives, tin/textiles and the Ilabrat-bani letter to Amur-ili. Exact dates and the city-destruction year in the background are not adopted.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Cuneiform tablet with a small second tablet: private letter, 1983.135.4a,b",
+        "publisher": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/art/collection/search/326712",
+        "evidenceNote": "Two tablets in one envelope, Ashur-muttabbil’s family dispute, wife Kunanniya and ownership of enslaved girls; probable Kültepe provenance. Both cited objects belong to the same curatorial source family, not two independent historical syntheses.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "keyFacts": {
+      "en": [
+        "Household letters recorded business and family obligations together.",
+        "The evidence includes enslaved people and disputed ownership."
+      ],
+      "zh": [
+        "家庭书信同时记录商业与亲属义务。",
+        "材料包含被奴役者及其归属争议。"
+      ]
+    },
+    "relatedIds": [
+      "uruk-writing",
+      "old-babylon",
+      "hittite-hattusha"
+    ],
+    "expansion": {
+      "workstreams": [
+        "WA1"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "A bounded synthesis of the cited material. Source notes identify the claims reviewed and any access limits; the record does not establish territorial borders or a continuous personal itinerary.",
+        "zh": "对所引材料的有限综合。来源说明列出核查论点与访问限制；条目不确立疆界或连续个人行程。"
+      }
+    }
+  },
+  {
+    "id": "sogdian-letters-households",
+    "title": {
+      "en": "Sogdian letters · News, distance and abandonment",
+      "zh": "粟特古信札 · 消息、距离与遗弃"
+    },
+    "start": 313,
+    "end": 314,
+    "region": "west-central-asia",
+    "kind": "culture",
+    "theme": "exchange",
+    "importance": 3,
+    "location": {
+      "lat": 39.65,
+      "lon": 66.96,
+      "label": "Samarkand; addressee city of Ancient Letter 2, not the manuscripts’ Dunhuang find site"
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Two Sogdian letters preserved near Dunhuang reveal different human consequences of long-distance connections. One was written by Nanai-vandak to Varzakk in Samarkand and concerned news from China. The other was addressed by Miwnay to her mother, Chatis. The British Library’s catalog identifies Miwnay as a woman abandoned in Dunhuang by her merchant husband, Nanai-dhat.\n\nPlaced beside one another, the letters complicate a history told only through routes and valuable goods. Communication could carry commercial intelligence, but it could also express the vulnerability of a household separated across distance. The named writers and recipients are evidence for particular relationships; they are not a representative sample of every Sogdian merchant or woman.\n\nThe manuscripts are cataloged to 313–314 and were found in the Dunhuang frontier landscape. Their materials include paper and traces of protective wrappings. The atlas point is deliberately placed at Samarkand, the stated recipient city of Letter 2, while the find site remains explicit. An address does not prove arrival. The record connects Central Asian social history to the China portion of the atlas without inventing a continuous itinerary for either letter or its author.",
+      "zh": "两封保存于敦煌附近的粟特书信，呈现远距离联系对人生的不同影响。一封由纳奈万达克寄给撒马尔罕的瓦尔扎克，涉及中国消息；另一封由米乌奈写给母亲查蒂斯。英国图书馆目录将米乌奈记为被商人丈夫纳奈达特遗弃在敦煌的妇女。\n\n两信并读，使仅通过路线和珍贵商品讲述的历史复杂起来。通信可以传递商业消息，也能表达家庭在远距离分离中的脆弱。具名写信者与收信者是特定关系的证据，不能代表所有粟特商人或妇女。\n\n目录将手稿定于313—314年，发现地位于敦煌边塞环境。材料包括纸张与保护性包裹残留。图集将点位放在第二封信明载的收信城市撒马尔罕，同时明确保留敦煌发现地。地址并不证明书信已经送达。本条把中亚社会史与图集中国部分相接，却不为书信或作者虚构连续行程。"
+    },
+    "dateNote": {
+      "en": "Catalog dating 313–314; not exact dispatch days. Samarkand is a recipient-city anchor for Letter 2, while both manuscripts were found near Dunhuang. Catalog descriptions, not new philological translations, underpin this record.",
+      "zh": "目录定年313—314年，并非确切寄信日期。撒马尔罕是第二封信的收信城市参照，两份手稿均发现于敦煌附近。本条依据目录说明，并非新的语文学翻译。"
+    },
+    "sources": [
+      {
+        "title": "Or.8212/95: Sogdian Ancient Letter 2",
+        "publisher": "British Library, International Dunhuang Programme",
+        "url": "https://idp.bl.uk/collection/A141F9841B0B4BE1BDDA4FE6E2265948/",
+        "evidenceNote": "Catalog metadata inspected: Nanai-vandak to Varzakk in Samarkand concerning news in China, date 313–314, Dunhuang Limes find context, Sogdian script and surviving wrappers. No claim to a new translation of the manuscript.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-catalog-text"
+      },
+      {
+        "title": "Or.8212/92(1): Sogdian Ancient Letter 1",
+        "publisher": "British Library, International Dunhuang Programme",
+        "url": "https://idp.bl.uk/collection/F6CF510DB7D64F98B4AC8D4B957BB030/",
+        "evidenceNote": "Catalog identifies Miwnay, abandoned in Dunhuang by her merchant husband Nanai-dhat, writing to her mother Chatis; date 313–314 and find site. Catalog text was inspected; manuscript transcription and every textual reconstruction were not independently checked.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-catalog-text"
+      }
+    ],
+    "keyFacts": {
+      "en": [
+        "Commercial news and a woman’s appeal survive in different letters.",
+        "The mapped recipient city differs from the archaeological find site."
+      ],
+      "zh": [
+        "商业消息与一位妇女的诉求保存在不同信中。",
+        "地图标记的收信城市不同于考古发现地。"
+      ]
+    },
+    "relatedIds": [
+      "samarkand",
+      "afrasiab-diplomatic-murals",
+      "kanesh-merchant-households"
+    ],
+    "expansion": {
+      "workstreams": [
+        "WA2"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "A bounded synthesis of the cited material. Source notes identify the claims reviewed and any access limits; the record does not establish territorial borders or a continuous personal itinerary.",
+        "zh": "对所引材料的有限综合。来源说明列出核查论点与访问限制；条目不确立疆界或连续个人行程。"
+      }
+    }
+  },
+  {
+    "id": "afrasiab-diplomatic-murals",
+    "title": {
+      "en": "Afrasiab · A painted vision of the wider world",
+      "zh": "阿弗拉西阿卜 · 壁画中的广阔世界"
+    },
+    "start": 650,
+    "end": 700,
+    "region": "west-central-asia",
+    "kind": "place",
+    "theme": "culture",
+    "importance": 3,
+    "location": {
+      "lat": 39.67,
+      "lon": 66.99,
+      "label": "Afrasiab, ancient Samarkand; archaeological painting context"
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Seventh-century paintings at Afrasiab, the site of ancient Samarkand, present a Sogdian vision of neighbouring peoples and political order. The best-known room is conventionally called the Hall of the Ambassadors because its main wall shows groups carrying gifts. Clothing, objects and inscriptions help scholars identify some figures and connect the imagery to the ruler Varkhuman.\n\nThe missing upper parts of the paintings limit reconstruction. Scholars disagree about whether the lost central figure represented a local ruler, a Turkic overlord or a divine presence, and about how festivals and religious ceremonies shaped the cycle. Even a convincing identification of a painted foreigner does not prove that such a person visited this particular room. Some images may reuse artistic formulas rather than direct observation.\n\nDiscovered during road works in 1965, the murals also suffered damage and were subsequently conserved and moved. Their history is therefore both seventh-century representation and modern archaeological recovery. Read beside the earlier Sogdian letters, they offer a different kind of evidence: a carefully composed public world of gifts and status, compared with the anxieties and practical messages preserved in correspondence.",
+      "zh": "古撒马尔罕遗址阿弗拉西阿卜的七世纪壁画，呈现粟特人对周边族群和政治秩序的想象。最著名的房间惯称“使节厅”，因为主墙描绘携带礼物的人群。服饰、物件与铭文帮助学者辨识部分人物，并将图像与统治者拂呼缦联系起来。\n\n壁画上部缺失，限制了重建。学者对消失的中心人物究竟是当地统治者、突厥霸主还是神灵，以及节庆与宗教仪式如何塑造组画，仍有争论。即使某位外国人物的辨识具有说服力，也不证明此人曾进入这个房间。有些形象可能沿用艺术程式，而非直接观察。\n\n壁画1965年在道路施工中发现，也受到损伤，后来经保护并转移。因此，其历史既是七世纪的表现，也是现代考古的发现过程。与更早的粟特书信并读，它提供另一种证据：精心构成的礼物与地位世界，与通信保存的焦虑和实际消息形成对照。"
+    },
+    "dateNote": {
+      "en": "Broad later-seventh-century focus, c.650–700, informed by the Varkhuman context; no single painting year is established. The room’s conventional name does not prove its use as an actual diplomatic reception hall.",
+      "zh": "依据拂呼缦背景，宽泛关注约650—700年的七世纪后半期，不确立单一绘制年份。房间惯称并不证明它实际用作外交接待厅。"
+    },
+    "sources": [
+      {
+        "title": "AFRĀSIĀB ii. Wall Paintings",
+        "publisher": "Encyclopaedia Iranica; Matteo Compareti",
+        "url": "https://www.iranicaonline.org/articles/afrasiab-ii-wall-paintings-2/",
+        "evidenceNote": "Relevant sections inspected: seventh-century date, 1965 discovery, fragmentary imagery and inscriptions, Varkhuman context, gifts and foreign figures, disputed religious/royal readings and Korean imagery possibly copied from Chinese models. No exact year or literal embassy roster is asserted.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "keyFacts": {
+      "en": [
+        "The main scene depicts gift-bearing groups.",
+        "The lost centre and the room’s function remain debated."
+      ],
+      "zh": [
+        "主要场景表现携礼人群。",
+        "缺失的中心形象及房间功能仍有争议。"
+      ]
+    },
+    "relatedIds": [
+      "samarkand",
+      "sogdian-letters-households",
+      "zoroastrian-texts-ritual"
+    ],
+    "expansion": {
+      "workstreams": [
+        "WA2"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "A bounded synthesis of the cited material. Source notes identify the claims reviewed and any access limits; the record does not establish territorial borders or a continuous personal itinerary.",
+        "zh": "对所引材料的有限综合。来源说明列出核查论点与访问限制；条目不确立疆界或连续个人行程。"
+      }
+    }
+  },
+  {
+    "id": "herat-manuscript-workshops",
+    "title": {
+      "en": "Herat · Making books in a Timurid workshop",
+      "zh": "赫拉特 · 帖木儿时代作坊中的制书"
+    },
+    "start": 1420,
+    "end": 1433,
+    "region": "west-central-asia",
+    "kind": "culture",
+    "theme": "knowledge",
+    "importance": 3,
+    "location": {
+      "lat": 34.35,
+      "lon": 62.2,
+      "label": "Herat; representative Timurid court and literary centre"
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "The manuscript workshop supported by the Timurid prince Baysunghur in Herat brought calligraphy, painting and patronage into a shared institution. Books were made objects as well as containers for words. A surviving manuscript of Nizami’s Laila and Majnun bears a dedication to the prince and the signature and date of Ja’far, the workshop’s head: 835 in the Islamic calendar, corresponding to 1431–1432.\n\nAnother manuscript, dated around 1430, preserves an illustration of Bahram Gur hunting with his companion Azada and names the calligrapher Maulana Azhar. Such evidence gives makers a place beside the ruler who supplied resources. It also shows that an old literary text and a new physical book have different chronologies. Nizami’s story was not first composed when these Herat copies were produced.\n\nThe objects continued to change after leaving the workshop. One now has a later Mughal binding, probably from the seventeenth century. Reading the layers prevents a composite manuscript from being assigned a single undifferentiated date. The sequence connects Timurid political history to skilled work and to Navoi’s later literary world in Herat without claiming that both belonged to the same workshop generation.",
+      "zh": "帖木儿王子拜松豁在赫拉特支持的手稿作坊，将书法、绘画与赞助结合于同一机构。书籍既承载文字，也是制作出来的物件。一部存世尼扎米《莱拉与马杰农》手稿题献给王子，并保留作坊负责人贾法尔的签名及纪年：伊斯兰历835年，相当于1431—1432年。\n\n另一部约1430年的手稿，保存巴赫拉姆·古尔与伴侣阿扎达狩猎的插图，并注明书法家毛拉·阿兹哈尔。这类证据让制作者与提供资源的统治者并列，也显示旧文学作品与新实体书具有不同年代。尼扎米的故事并非在这些赫拉特抄本制作时才首次写成。\n\n物件离开作坊后仍继续改变，其中一部如今带有可能属于十七世纪的莫卧儿装帧。辨识不同层次，避免把复合手稿不加区分地归于一个日期。这一序列将帖木儿政治史连接到熟练劳动，以及纳沃伊后来在赫拉特的文学世界，但不主张两者属于同一代作坊活动。"
+    },
+    "dateNote": {
+      "en": "Focus on Baysunghur’s Herat patronage, approximately 1420–1433. The signed manuscript dates 1431–1432; the other is circa 1430. These dates do not apply to Nizami’s original composition or to later bindings.",
+      "zh": "关注拜松豁在赫拉特约1420—1433年的赞助。签名手稿定年1431—1432年，另一部约1430年；这些年代不适用于尼扎米原作或后世装帧。"
+    },
+    "sources": [
+      {
+        "title": "Laila and Majnun from a Khamsa of Nizami, 1994.232.1",
+        "publisher": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/art/collection/search/453353",
+        "evidenceNote": "Signed and dated manuscript, 835 AH/1431–1432, made in Herat; Ja’far as workshop head and dedication to Baysunghur. Catalog distinguishes the manuscript from its probably seventeenth-century Mughal binding.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Bahram Gur’s Skill with the Bow, 13.228.13.3",
+        "publisher": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/art/collection/search/455056",
+        "evidenceNote": "Ca.1430 Herat manuscript, calligrapher Maulana Azhar, Baysunghur’s kitabkhana around 1420–1433 and repeated illustration models. These objects share one curatorial institution; no individual payment or full workshop roster was reviewed.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "keyFacts": {
+      "en": [
+        "Signatures and dedications connect makers and patrons.",
+        "A manuscript’s text, paintings and binding can have different dates."
+      ],
+      "zh": [
+        "签名与题献连接制作者和赞助者。",
+        "手稿的文本、绘画和装帧可以具有不同年代。"
+      ]
+    },
+    "relatedIds": [
+      "timurid-dynasty",
+      "person-alisher-navoi",
+      "person-ulugh-beg"
+    ],
+    "expansion": {
+      "workstreams": [
+        "WA2"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "A bounded synthesis of the cited material. Source notes identify the claims reviewed and any access limits; the record does not establish territorial borders or a continuous personal itinerary.",
+        "zh": "对所引材料的有限综合。来源说明列出核查论点与访问限制；条目不确立疆界或连续个人行程。"
+      }
+    }
+  },
+  {
+    "id": "ottoman-print-dictionary-1729",
+    "title": {
+      "en": "An Ottoman dictionary · Printing with permission",
+      "zh": "奥斯曼词典 · 获准进行的印刷"
+    },
+    "start": 1729,
+    "end": 1729,
+    "region": "west-central-asia",
+    "kind": "event",
+    "theme": "knowledge",
+    "importance": 3,
+    "location": {
+      "lat": 41.01,
+      "lon": 28.97,
+      "label": "Istanbul; representative educational and literary centre"
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "In 1729, Ibrahim Müteferrika issued a two-volume dictionary of Arabic from his press in Istanbul. The project joined linguistic knowledge to the practical and political work of producing books. Müteferrika had worked in the Ottoman diplomatic world, where his language skills were useful, and sought authorization from political and religious authorities for printing nonreligious subjects such as dictionaries and maps.\n\nThe permission defined a particular field of activity. It should not be turned into a claim that nobody in the empire had previously printed a book. Jewish printers had been active for centuries, and Christian Arabic-script printing also preceded Müteferrika’s project. The relevant change concerned a specific Muslim-led press and its authorized publishing programme within an already diverse landscape.\n\nA dictionary invites attention to the tools through which readers learned and compared languages. Yet the publication date alone does not establish who could afford a copy, how widely it circulated or what happened to every manuscript worker. These questions require further evidence. The record links Ottoman institutional history to the material transmission of knowledge, keeping one documented publication distinct from an unsupported story of a sudden, empire-wide transition to print.",
+      "zh": "1729年，易卜拉欣·穆特费里卡在伊斯坦布尔的印刷所出版一部两卷阿拉伯语词典。项目将语言知识与制书的实践、政治工作结合起来。穆特费里卡曾在奥斯曼外交体系任职，其语言能力发挥作用；他向政治及宗教权威申请印制词典、地图等非宗教题材的许可。\n\n许可界定特定活动范围，不能由此声称此前帝国内无人印书。犹太印刷者已活动数世纪，基督徒的阿拉伯字母印刷也早于穆特费里卡的项目。相关变化涉及一个由穆斯林主持的特定印刷所及其获准出版计划，而它所在的文化环境原本就具有多样性。\n\n词典使人关注读者学习、比较语言的工具。但仅凭出版日期，无法确立谁能买得起、流传多广，或每位手稿劳动者经历了什么；这些问题需要进一步证据。本条将奥斯曼制度史与知识的物质传递相接，把一次有记录的出版，与未经支持的突然全帝国印刷转型叙述区分开来。"
+    },
+    "dateNote": {
+      "en": "1729 dates the first dictionary issued by Müteferrika’s press, not the beginning of all printing in the Ottoman Empire. Istanbul is the publishing-city anchor, not an independently located workshop address.",
+      "zh": "1729年标记穆特费里卡印刷所首部词典问世，并非奥斯曼帝国所有印刷的起点。伊斯坦布尔表示出版城市，不是独立核实的作坊地址。"
+    },
+    "sources": [
+      {
+        "title": "Ibrahim Muteferrika, First Muslim Printer of the Ottoman Empire",
+        "publisher": "Law Library of Congress; Alexander Salopek",
+        "url": "https://blogs.loc.gov/law/2023/08/ibrahim-muteferrika-first-muslim-printer-of-the-ottoman-empire/?loclr=bloglaw",
+        "evidenceNote": "Inspected substantive text after the archive menu: official permission for nonreligious works, first two-volume Arabic dictionary in 1729, earlier Jewish printing and Christian Arabic-script printing. The article’s general theory of religious resistance is not adopted; cited books were not separately inspected.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "keyFacts": {
+      "en": [
+        "Permission covered nonreligious subjects.",
+        "Other Ottoman printing traditions preceded this press."
+      ],
+      "zh": [
+        "许可涉及非宗教题材。",
+        "其他奥斯曼印刷传统早于此印刷所。"
+      ]
+    },
+    "relatedIds": [
+      "ottoman-empire",
+      "gulhane-reform-edict",
+      "person-halide-edib"
+    ],
+    "expansion": {
+      "workstreams": [
+        "WA3"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "A bounded synthesis of the cited material. Source notes identify the claims reviewed and any access limits; the record does not establish territorial borders or a continuous personal itinerary.",
+        "zh": "对所引材料的有限综合。来源说明列出核查论点与访问限制；条目不确立疆界或连续个人行程。"
+      }
+    }
+  },
+  {
+    "id": "merv-seljuk-urbanism",
+    "title": {
+      "en": "Merv · Cities beside cities in an oasis",
+      "zh": "梅尔夫 · 绿洲中相邻的城市"
+    },
+    "start": 1000,
+    "end": 1200,
+    "region": "west-central-asia",
+    "kind": "place",
+    "theme": "cities",
+    "importance": 3,
+    "location": {
+      "lat": 37.66,
+      "lon": 62.17,
+      "label": "Sultan Kala, Merv oasis; representative Seljuk urban area"
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Merv’s history is written across several adjacent walled settlements rather than a single city centre occupied in the same way forever. Within the Murghab oasis, older urban areas stood beside the medieval Sultan Kala. During the eleventh and twelfth centuries, Merv became a major centre of the Great Seljuks, linking imperial authority to an already long history of settlement.\n\nSultan Kala’s fortifications and the mausoleum of Sultan Sanjar make different uses of urban space visible. Walls organized defence and access, while the mausoleum belonged to a larger religious complex. Brickwork, carved stucco and surviving painted decoration preserve evidence of skilled construction. These structures can support questions about resources and labour, but they do not by themselves identify every worker or reveal the distribution of wealth across the city.\n\nThe oasis contains buildings and settlement phases from much earlier and later periods. Their proximity must not collapse those differences into one simultaneous city map. This entry selects the Seljuk urban phase and links it to the dynasty overview, Samarkand and wider Central Asian histories. The ending date is an editorial boundary, not a claim that Merv ceased to exist in 1200.",
+      "zh": "梅尔夫的历史分布于数座相邻围城，而非一个永远以相同方式使用的城市中心。在穆尔加布绿洲，较早城区与中古苏丹卡拉并列。十一至十二世纪，梅尔夫成为大塞尔柱的重要中心，将帝国权威与早已悠久的聚居史连接起来。\n\n苏丹卡拉的防御设施及苏丹桑贾尔陵墓，呈现城市空间的不同用途。城墙组织防御和出入，陵墓则属于更大的宗教建筑群。砖作、灰泥雕刻及存留彩绘，保留熟练营造劳动的证据。这些结构可以支持关于资源与劳动的问题，却不能独自辨识所有工人，或揭示全城财富分配。\n\n绿洲还有年代远早和远晚于此的建筑及聚居阶段。地理邻近不应把差别压缩成一张同时存在的城市地图。本条选择塞尔柱城市阶段，并与王朝概述、撒马尔罕及更广中亚史相接。结束年份是编辑边界，并非梅尔夫在1200年不再存在。"
+    },
+    "dateNote": {
+      "en": "Rounded eleventh–twelfth-century Seljuk urban focus, 1000–1200. It does not cover the complete occupation history or date the mausoleum to Sanjar’s entire reign. The point identifies one part of a multi-centred oasis.",
+      "zh": "以1000—1200年概括十一至十二世纪塞尔柱城市关注期。并非完整聚居史，也不把桑贾尔整个统治期当作陵墓建造期。点位标记多中心绿洲的一部分。"
+    },
+    "sources": [
+      {
+        "title": "State Historical and Cultural Park Ancient Merv",
+        "publisher": "UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/886/",
+        "evidenceNote": "Inspected significance and site description: successive adjacent cities, Great Seljuk capital in the eleventh–twelfth centuries, Sultan Kala walls and Sanjar mausoleum. The parenthetical 1118–1157 concerns Sanjar, not a precisely dated building campaign; no massacre total is taken from this source.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "keyFacts": {
+      "en": [
+        "Merv contains successive, adjacent urban sites.",
+        "The selected Seljuk phase is only part of the oasis’s history."
+      ],
+      "zh": [
+        "梅尔夫包含相继出现、彼此相邻的城区。",
+        "所选塞尔柱阶段只是绿洲历史的一部分。"
+      ]
+    },
+    "relatedIds": [
+      "great-seljuqs",
+      "samanid-dynasty",
+      "samarkand"
+    ],
+    "expansion": {
+      "workstreams": [
+        "WA2"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "A bounded synthesis of the cited material. Source notes identify the claims reviewed and any access limits; the record does not establish territorial borders or a continuous personal itinerary.",
+        "zh": "对所引材料的有限综合。来源说明列出核查论点与访问限制；条目不确立疆界或连续个人行程。"
+      }
+    }
+  },
+  {
+    "id": "ardabil-carpet-workshop",
+    "title": {
+      "en": "The Ardabil Carpet · A name above many hands",
+      "zh": "阿尔达比勒地毯 · 一个名字背后的众多双手"
+    },
+    "start": 1539,
+    "end": 1540,
+    "region": "west-central-asia",
+    "kind": "culture",
+    "theme": "culture",
+    "importance": 3,
+    "location": {
+      "lat": 38.25,
+      "lon": 48.29,
+      "label": "Ardabil shrine association; not a securely identified weaving workshop"
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "The carpet associated with the shrine at Ardabil carries an inscription dated 946 in the Islamic calendar, equivalent to 1539–1540. Its large central medallion, paired lamps, surrounding floral patterns and dense wool pile make it evidence of coordinated design and skilled weaving in the Safavid world. The completed object required many acts of work, even though the inscription preserves a single name, Maqsud Kashani.\n\nThe Victoria and Albert Museum interprets Maqsud as probably an official responsible for the commission rather than the individual who tied every knot. The inscription’s deferential language should not automatically be treated as proof that he was literally enslaved. Conversely, a named supervisor does not recover the identities or circumstances of the other makers.\n\nThe carpet is traditionally linked to the shrine of Shaykh Safi al-Din, an important place for the Safavid dynasty, while its exact origins remain uncertain. The map therefore marks that association at Ardabil, not a verified weaving workshop. Read beside Herat’s manuscripts and Isfahan’s buildings, the object opens questions about patronage and labour across different media without assuming that all court-sponsored arts were made in the same way.",
+      "zh": "与阿尔达比勒圣陵相关的地毯，带有伊斯兰历946年的铭文，相当于1539—1540年。大型中央团花、成对悬灯、周围花叶图案及密集羊毛绒面，使其成为萨法维世界协调设计与熟练编织的证据。成品需要众多劳动环节，铭文却只保留马克苏德·卡沙尼一个名字。\n\n维多利亚与艾尔伯特博物馆认为，马克苏德可能是负责委托制作的官员，并非亲自打结的唯一织工。铭文的谦卑措辞，不应自动视作他实际上遭奴役的证明。反过来，主管有名，也无法恢复其他制作者的身份和处境。\n\n地毯传统上与谢赫萨菲丁圣陵相连，该地对萨法维王朝具有重要意义，但其确切起源仍不确定。因此地图标记阿尔达比勒这一关联，而非已核实的织毯作坊。与赫拉特手稿及伊斯法罕建筑并读，此物可以开启不同媒介中的赞助与劳动问题，而不假定所有宫廷资助艺术都以相同方式制作。"
+    },
+    "dateNote": {
+      "en": "The inscription’s 946 AH spans 1539–1540 CE. It dates the completed carpet, not the full duration of weaving. Ardabil is a qualified shrine association; manufacture at that precise point has not been established.",
+      "zh": "铭文伊斯兰历946年跨公历1539—1540年，标记完成的地毯，而非全部编织持续期。阿尔达比勒是保留限定的圣陵关联；未确立在该精确点位制作。"
+    },
+    "sources": [
+      {
+        "title": "The Ardabil Carpet",
+        "publisher": "Victoria and Albert Museum",
+        "url": "https://www.vam.ac.uk/articles/the-ardabil-carpet",
+        "evidenceNote": "Inspected inscription dating 946 AH/1539–1540, Maqsud Kashani’s probable supervisory role, design and skilled weaving, shrine association and uncertain origins. The page’s strong opening manufacture claim is qualified by its own uncertainty paragraph; the pin does not certify a workshop location.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "keyFacts": {
+      "en": [
+        "An inscription gives a date and one name, not a full list of makers.",
+        "Shrine association and workshop location are distinct claims."
+      ],
+      "zh": [
+        "铭文提供年代及一个名字，不是完整制作者名单。",
+        "圣陵关联与作坊位置是不同论点。"
+      ]
+    },
+    "relatedIds": [
+      "safavid-iran",
+      "isfahan-royal-square",
+      "herat-manuscript-workshops"
+    ],
+    "expansion": {
+      "workstreams": [
+        "WA2"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "A bounded synthesis of the cited material. Source notes identify the claims reviewed and any access limits; the record does not establish territorial borders or a continuous personal itinerary.",
+        "zh": "对所引材料的有限综合。来源说明列出核查论点与访问限制；条目不确立疆界或连续个人行程。"
+      }
+    }
+  }
+]

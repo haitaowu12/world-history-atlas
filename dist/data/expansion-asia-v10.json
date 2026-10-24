@@ -1,0 +1,2722 @@
+[
+  {
+    "id": "person-akbar",
+    "title": {
+      "en": "Akbar: empire, negotiation and the imperial workshop",
+      "zh": "阿克巴：帝国、协商与宫廷作坊"
+    },
+    "start": 1556,
+    "end": 1605,
+    "region": "south-asia",
+    "theme": "states",
+    "kind": "person",
+    "location": {
+      "lat": 27.094,
+      "lon": 77.667,
+      "label": "Fatehpur Sikri; representative court anchor"
+    },
+    "locationPrecision": "representative",
+    "importance": 4,
+    "summary": {
+      "en": "Akbar inherited the Mughal throne in 1556 while still a teenager. His subsequent expansion combined military conquest with negotiated service by regional rulers. Rajput alliances and the appointment of Hindu officials brought some powerful families into an imperial order whose population was religiously diverse. Inclusion at court nevertheless operated within a monarchy sustained by warfare, revenue collection and unequal political power.\n\nHis court also organized knowledge. Painters, calligraphers, translators and bookbinders from Iran and the subcontinent worked together in the imperial book workshop. A translation bureau established in 1574 commissioned Persian versions of important texts, while the adoption of Persian for administration helped connect a multilingual empire. These projects made selected traditions available to new courtly audiences and placed the emperor at the centre of their interpretation.\n\nAkbar’s religious discussions and artistic patronage should therefore be read alongside his authority as a conqueror. Abu’l Fazl’s account of the reign, begun in 1590, assembled records and testimony but also presented an ideal sovereign. Surviving illustrated manuscripts are evidence of skilled collective labour as well as royal self-representation. This biography follows the reign rather than claiming that the workshop’s output was the emperor’s individual creation. Its map points identify court settings and associated institutions; they are not a complete military itinerary.",
+      "zh": "阿克巴于1556年在少年时期继承莫卧儿皇位。此后，帝国扩张既依靠征服，也通过协商吸纳地方统治者。拉杰普特联盟及印度教官员的任用，使若干强大家族进入一个宗教多元的帝国体系。然而，宫廷中的包容仍然存在于依靠战争、征税和不平等权力维系的君主制之内。\n\n宫廷也组织知识生产。来自伊朗和南亚的画师、书法家、译者与装订匠在皇家书籍作坊共同工作。1574年成立的翻译机构委托制作重要典籍的波斯语译本；行政采用波斯语，则帮助连接使用多种语言的帝国。这些计划向新的宫廷读者开放部分传统，也使皇帝居于解释这些传统的中心。\n\n因此，应把阿克巴的宗教讨论与艺术赞助，同征服者的权力一起理解。阿布·法兹勒自1590年起编写的统治史汇集档案和证言，也塑造理想君主。存世插图抄本既体现集体技艺，也体现王权的自我呈现。本传聚焦其在位时期，不将作坊成果归为皇帝个人创作；地图标示宫廷与机构背景，并非完整军事行程。"
+    },
+    "dateNote": {
+      "en": "1556–1605 is the reign, not the lifespan. Milestone coordinates identify associated court centres, not verified rooms or continuous residence.",
+      "zh": "1556—1605年为在位期，并非生卒年。节点坐标表示相关宫廷中心，不证明具体房间或连续居住。"
+    },
+    "sources": [
+      {
+        "title": "The Art of the Mughals before 1600",
+        "url": "https://www.metmuseum.org/essays/the-art-of-the-mughals-before-1600",
+        "publisher": "Metropolitan Museum of Art",
+        "evidenceNote": "Reign 1556–1605; expansion, administration, interreligious court discussions and workshop patronage. Museum synthesis inspected; not a comprehensive political biography.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text",
+        "retrievalStatus": "inspected-text"
+      },
+      {
+        "title": "The arts of the Mughal Empire",
+        "url": "https://www.vam.ac.uk/articles/the-arts-of-the-mughal-empire",
+        "publisher": "Victoria and Albert Museum",
+        "evidenceNote": "Akbar accession in 1556; conquest and negotiated imperial service; multilingual book workers; 1574 translation bureau; 1578 administrative Persian; 1589 Babur translation; Abu’l Fazl’s 1590–1596 work. The page incorrectly equates the Ramayana and Razmnama; that equation is not adopted.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text",
+        "retrievalStatus": "inspected-text"
+      }
+    ],
+    "relatedIds": [
+      "mughal-empire",
+      "fatehpur-sikri-court",
+      "mughal-translation-workshops"
+    ],
+    "keyFacts": {
+      "en": [
+        "Expansion used both conquest and negotiated service.",
+        "Royal books combined scholarship, skilled labour and imperial representation."
+      ],
+      "zh": [
+        "扩张同时使用征服与协商任职。",
+        "皇家书籍结合学术、工匠劳动与帝国形象。"
+      ]
+    },
+    "expansion": {
+      "workstreams": [
+        "SA2"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "Relevant linked source passages inspected; original bilingual synthesis, without independent specialist review. Coordinates are representative anchors.",
+        "zh": "已查阅链接来源中的相关段落，并作原创双语综合；未经独立领域专家审阅。坐标为代表性参照。"
+      }
+    },
+    "name": {
+      "en": "Akbar",
+      "zh": "阿克巴"
+    },
+    "milestones": [
+      {
+        "year": 1556,
+        "title": {
+          "en": "Accession to the Mughal throne",
+          "zh": "继承莫卧儿皇位"
+        },
+        "description": {
+          "en": "The teenage ruler succeeded Humayun; Agra is an imperial reference, not the coronation site.",
+          "zh": "少年阿克巴继承胡马雍；阿格拉为帝国参照点，并非加冕地点。"
+        },
+        "location": {
+          "lat": 27.18,
+          "lon": 78.02,
+          "label": "Agra; imperial reference, not accession ceremony"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1574,
+        "title": {
+          "en": "A translation bureau at court",
+          "zh": "宫廷设立翻译机构"
+        },
+        "description": {
+          "en": "The Maktabkhana organized Persian translations; the point represents the court at Fatehpur Sikri.",
+          "zh": "翻译机构组织波斯语译本；点位代表法泰赫普尔西克里宫廷。"
+        },
+        "location": {
+          "lat": 27.094,
+          "lon": 77.667,
+          "label": "Fatehpur Sikri; court context"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1590,
+        "title": {
+          "en": "A commissioned history begins",
+          "zh": "奉命编写统治史"
+        },
+        "description": {
+          "en": "Abu’l Fazl began the Akbarnama, combining documentary work with an idealized royal portrait; Lahore represents the court context.",
+          "zh": "阿布·法兹勒开始编写《阿克巴本纪》，结合文献工作与理想王者形象；拉合尔代表宫廷背景。"
+        },
+        "location": {
+          "lat": 31.59,
+          "lon": 74.31,
+          "label": "Lahore; representative court context"
+        },
+        "approximate": false
+      }
+    ]
+  },
+  {
+    "id": "mughal-translation-workshops",
+    "title": {
+      "en": "Mughal translation and the making of imperial books",
+      "zh": "莫卧儿翻译与皇家书籍的制作"
+    },
+    "start": 1574,
+    "end": 1605,
+    "region": "south-asia",
+    "theme": "knowledge",
+    "kind": "idea",
+    "location": {
+      "lat": 27.094,
+      "lon": 77.667,
+      "label": "Fatehpur Sikri; representative early court setting"
+    },
+    "locationPrecision": "representative",
+    "importance": 4,
+    "summary": {
+      "en": "The translation bureau established under Akbar in 1574 belonged to a wider system of imperial book production. Translation required interpreters of different linguistic and religious traditions; producing a luxury manuscript also required scribes, painters, illuminators and binders. The finished object could unite words, images and materials that had passed through many hands.\n\nPersian served an expanding administrative and literary audience. The translation of Babur’s memoirs from Turki, completed under Abd al-Rahim’s supervision in 1589, made a dynastic ancestor’s account accessible to readers who no longer understood its original language. Sanskrit works also entered Persian manuscript culture. The process was selective: a court decided what to commission, how to frame it and which books merited costly illustration.\n\nThis makes translation both an intellectual encounter and an exercise of patronage. Surviving pages show collaboration across regional artistic traditions, but many have been separated from their original volumes. A detached painting cannot by itself recover every translator’s contribution or the full conditions of its production. The entry follows the institutional phase of Akbar’s reign; bookmaking and translation continued under later rulers.",
+      "zh": "阿克巴于1574年设立的翻译机构，属于更广泛的皇家书籍生产体系。翻译需要熟悉不同语言与宗教传统的人；豪华抄本还需要抄写员、画师、装饰匠和装订匠。成品把经过多人之手的文字、图像与材料结合起来。\n\n波斯语服务于不断扩展的行政与文学读者。阿卜杜勒·拉希姆主持的巴布尔回忆录译本于1589年完成，使已经不懂原文突厥语的读者能够阅读王朝先祖的记述。梵文作品也进入波斯语抄本文化。这一过程具有选择性：宫廷决定委托哪些作品、如何解释，以及哪些书值得配置昂贵插图。\n\n因此，翻译既是知识相遇，也是赞助权力的运用。存世书页展示不同地区艺术传统的合作，但许多已与原卷分离。一幅散页画作不足以恢复每位译者的贡献或完整生产条件。本条聚焦阿克巴在位时的机构发展；后继统治者时期仍有翻译和制书活动。"
+    },
+    "dateNote": {
+      "en": "1574 marks the bureau’s establishment; 1605 bounds this Akbar-era focus rather than ending Mughal translation.",
+      "zh": "1574年为机构成立年；1605年仅界定阿克巴时期的观察范围，并非莫卧儿翻译活动终止。"
+    },
+    "sources": [
+      {
+        "title": "The arts of the Mughal Empire",
+        "url": "https://www.vam.ac.uk/articles/the-arts-of-the-mughal-empire",
+        "publisher": "Victoria and Albert Museum",
+        "evidenceNote": "Akbar accession in 1556; conquest and negotiated imperial service; multilingual book workers; 1574 translation bureau; 1578 administrative Persian; 1589 Babur translation; Abu’l Fazl’s 1590–1596 work. The page incorrectly equates the Ramayana and Razmnama; that equation is not adopted.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text",
+        "retrievalStatus": "inspected-text"
+      },
+      {
+        "title": "The Art of the Mughals before 1600",
+        "url": "https://www.metmuseum.org/essays/the-art-of-the-mughals-before-1600",
+        "publisher": "Metropolitan Museum of Art",
+        "evidenceNote": "Reign 1556–1605; expansion, administration, interreligious court discussions and workshop patronage. Museum synthesis inspected; not a comprehensive political biography.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text",
+        "retrievalStatus": "inspected-text"
+      }
+    ],
+    "relatedIds": [
+      "person-akbar",
+      "fatehpur-sikri-court",
+      "mughal-empire"
+    ],
+    "keyFacts": {
+      "en": [
+        "The 1589 Babur translation moved a dynastic text from Turki into Persian.",
+        "Surviving illustrated pages preserve only part of a collaborative production process."
+      ],
+      "zh": [
+        "1589年的译本使巴布尔的王朝记述从突厥语进入波斯语。",
+        "存世插图书页只保存合作生产过程的一部分。"
+      ]
+    },
+    "expansion": {
+      "workstreams": [
+        "SA2"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "Relevant linked source passages inspected; original bilingual synthesis, without independent specialist review. Coordinates are representative anchors.",
+        "zh": "已查阅链接来源中的相关段落，并作原创双语综合；未经独立领域专家审阅。坐标为代表性参照。"
+      }
+    }
+  },
+  {
+    "id": "person-rabindranath-tagore",
+    "title": {
+      "en": "Rabindranath Tagore: literature, learning and rural experiment",
+      "zh": "拉宾德拉纳特·泰戈尔：文学、教育与乡村实验"
+    },
+    "start": 1861,
+    "end": 1941,
+    "region": "south-asia",
+    "theme": "culture",
+    "kind": "person",
+    "location": {
+      "lat": 23.682,
+      "lon": 87.69,
+      "label": "Santiniketan; representative educational centre"
+    },
+    "locationPrecision": "representative",
+    "importance": 4,
+    "summary": {
+      "en": "Rabindranath Tagore grew up in the Jorasanko family milieu of nineteenth-century Calcutta, where literary activity and religious reform intersected. His work crossed poetry, stories, drama, composition and painting. Treating him only as a poet obscures another sustained occupation: designing institutions in which the arts, education and social responsibility could be practised together.\n\nExperience of estate administration in colonial East Bengal brought rural life into his institutional thinking. In 1901 he established a school at Santiniketan, with learning connected to nature and artistic expression. Visva-Bharati developed there in 1921 as a place of intellectual exchange across cultural boundaries. The nearby Sriniketan initiative followed in 1922, taking rural reconstruction into the educational project rather than leaving village life outside it.\n\nThese experiments grew from a privileged family and estate background. Their aspirations should not be mistaken for proof that inequalities between patrons, teachers and villagers disappeared. The university’s own account is a valuable institutional record but is also commemorative; its praise is distinct from evidence about dates and activities. Seen through the school and rural institute, Tagore’s life links literary imagination with practical questions about how people learn, sustain livelihoods and encounter other cultures. The selected milestones trace that institutional work rather than pretending to cover every publication or overseas journey during a long creative career.",
+      "zh": "泰戈尔成长于十九世纪加尔各答乔拉桑科的家族环境，文学活动与宗教改革在其中交汇。他的创作跨越诗歌、小说、戏剧、作曲与绘画。若只把他视为诗人，就会忽略另一项长期工作：建立能够共同实践艺术、教育与社会责任的机构。\n\n在殖民时期东孟加拉管理家族地产的经验，使乡村生活进入他的制度构想。1901年，他在圣蒂尼克坦创办学校，将学习同自然及艺术表达联系起来。1921年，维斯瓦—巴拉蒂在此发展，成为跨文化知识交流的场所。1922年，附近的斯里尼克坦项目建立，把乡村建设纳入教育事业。\n\n这些实验也产生于拥有特权的家族与地主背景。其愿景不能证明赞助者、教师和村民之间的不平等已经消失。大学自身的介绍提供重要机构记录，同时具有纪念性质；赞颂与日期、活动的证据应分别理解。通过学校和乡村学院，可以看到泰戈尔如何把文学想象同学习、生计及跨文化交往的实际问题连接起来。所选节点追踪机构建设，并不声称囊括其漫长创作生涯中的全部出版物或海外行程。"
+    },
+    "dateNote": {
+      "en": "1861–1941 lifespan; institutional milestones 1901–1922. The campus point does not represent all places in his life.",
+      "zh": "1861—1941年为生卒年；机构节点为1901—1922年。校园点位不代表其全部人生地点。"
+    },
+    "sources": [
+      {
+        "title": "Rabindranath Tagore",
+        "url": "https://www.visvabharati.ac.in/RabindranathTagore.html",
+        "publisher": "Visva-Bharati University",
+        "evidenceNote": "1861–1941; Jorasanko family, poetry/music/painting, estate experiments in East Bengal, school in 1901 and Sriniketan in 1922. Commemorative institutional biography; celebratory judgments not adopted.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text",
+        "retrievalStatus": "inspected-text"
+      },
+      {
+        "title": "Santiniketan",
+        "url": "https://whc.unesco.org/en/list/1375/",
+        "publisher": "UNESCO World Heritage Centre",
+        "evidenceNote": "1901 school, 1921 Visva-Bharati, open-air education, arts, international exchange and architecture. Heritage description inspected; the 2023 inscription is not a historical founding date.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text",
+        "retrievalStatus": "inspected-text"
+      }
+    ],
+    "relatedIds": [
+      "santiniketan-educational-experiment",
+      "bengali-language-movement",
+      "person-rokeya"
+    ],
+    "keyFacts": {
+      "en": [
+        "Writing and institution-building were connected parts of his career.",
+        "Santiniketan and Sriniketan joined education, arts and rural questions."
+      ],
+      "zh": [
+        "写作与机构建设是其相互连接的事业。",
+        "圣蒂尼克坦与斯里尼克坦连接教育、艺术及乡村问题。"
+      ]
+    },
+    "expansion": {
+      "workstreams": [
+        "SA3"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "Relevant linked source passages inspected; original bilingual synthesis, without independent specialist review. Coordinates are representative anchors.",
+        "zh": "已查阅链接来源中的相关段落，并作原创双语综合；未经独立领域专家审阅。坐标为代表性参照。"
+      }
+    },
+    "name": {
+      "en": "Rabindranath Tagore",
+      "zh": "拉宾德拉纳特·泰戈尔"
+    },
+    "milestones": [
+      {
+        "year": 1901,
+        "title": {
+          "en": "An experimental school",
+          "zh": "实验学校"
+        },
+        "description": {
+          "en": "Tagore established the school at Santiniketan, connecting education with nature and the arts.",
+          "zh": "泰戈尔在圣蒂尼克坦办学，将教育同自然和艺术连接。"
+        },
+        "location": {
+          "lat": 23.682,
+          "lon": 87.69,
+          "label": "Santiniketan; school setting"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1921,
+        "title": {
+          "en": "Visva-Bharati",
+          "zh": "维斯瓦—巴拉蒂"
+        },
+        "description": {
+          "en": "The institution developed an international educational setting at Santiniketan.",
+          "zh": "机构在圣蒂尼克坦发展具有国际交流取向的教育环境。"
+        },
+        "location": {
+          "lat": 23.682,
+          "lon": 87.69,
+          "label": "Santiniketan; institutional setting"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1922,
+        "title": {
+          "en": "Sriniketan rural reconstruction",
+          "zh": "斯里尼克坦乡村建设"
+        },
+        "description": {
+          "en": "Rural reconstruction became a neighboring institutional project.",
+          "zh": "乡村建设成为附近的一项机构实践。"
+        },
+        "location": {
+          "lat": 23.663,
+          "lon": 87.665,
+          "label": "Sriniketan; representative institutional location"
+        },
+        "approximate": false
+      }
+    ]
+  },
+  {
+    "id": "santiniketan-educational-experiment",
+    "title": {
+      "en": "Santiniketan: an educational landscape takes shape",
+      "zh": "圣蒂尼克坦：教育景观的形成"
+    },
+    "start": 1901,
+    "end": 1922,
+    "region": "south-asia",
+    "theme": "knowledge",
+    "kind": "place",
+    "location": {
+      "lat": 23.682,
+      "lon": 87.69,
+      "label": "Santiniketan campus; representative location"
+    },
+    "locationPrecision": "representative",
+    "importance": 4,
+    "summary": {
+      "en": "The school established by Rabindranath Tagore at Santiniketan in 1901 connected teaching to an inhabited landscape. Open-air learning, music and visual art challenged the idea that education should be confined to a classroom and examinations. Buildings and outdoor spaces became part of the curriculum’s setting rather than merely containers for it.\n\nVisva-Bharati’s development in 1921 placed intercultural exchange at the centre of the institution. Its architectural and artistic environment drew on several Asian traditions. The aim was to make a place where knowledge could move between cultures, while retaining engagement with Bengali surroundings. Sriniketan, founded nearby in 1922, added rural reconstruction to this wider educational undertaking.\n\nThe surviving campus helps make those ambitions visible, but an architectural ensemble alone cannot tell us how every student or village participant experienced them. Institutional ideals and social outcomes are different kinds of evidence. The dates here frame a founding phase, not the entire history of a university that continued to change. Santiniketan offers a local counterpart to histories of colonial schools: education was also being redesigned through experiments in art, landscape and everyday community life.",
+      "zh": "泰戈尔1901年在圣蒂尼克坦建立的学校，把教学同人们生活的景观联系起来。露天学习、音乐和视觉艺术，挑战了教育只能围绕教室与考试展开的观念。建筑与户外空间成为课程环境的一部分，而不只是容纳教学的外壳。\n\n1921年维斯瓦—巴拉蒂的发展，把跨文化交流置于机构中心。建筑和艺术环境吸收多种亚洲传统，希望在持续关注孟加拉地方社会的同时，形成知识跨文化流通的场所。附近1922年建立的斯里尼克坦，又把乡村建设纳入这一教育事业。\n\n存世校园让这些理想具有可见形态，但建筑群本身不能说明每位学生或村民的实际体验。机构愿景与社会成效属于不同证据。这里的年代界定创办阶段，并非后来持续变化的大学全部历史。圣蒂尼克坦提供了殖民教育史的一种地方视角：教育也通过艺术、景观和日常社区生活的实验得到重新设计。"
+    },
+    "dateNote": {
+      "en": "1901–1922 covers the school, university and rural-institute founding phase; it is not a closure date.",
+      "zh": "1901—1922年涵盖学校、大学及乡村机构的创办阶段，终年不是关闭日期。"
+    },
+    "sources": [
+      {
+        "title": "Santiniketan",
+        "url": "https://whc.unesco.org/en/list/1375/",
+        "publisher": "UNESCO World Heritage Centre",
+        "evidenceNote": "1901 school, 1921 Visva-Bharati, open-air education, arts, international exchange and architecture. Heritage description inspected; the 2023 inscription is not a historical founding date.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text",
+        "retrievalStatus": "inspected-text"
+      },
+      {
+        "title": "Rabindranath Tagore",
+        "url": "https://www.visvabharati.ac.in/RabindranathTagore.html",
+        "publisher": "Visva-Bharati University",
+        "evidenceNote": "1861–1941; Jorasanko family, poetry/music/painting, estate experiments in East Bengal, school in 1901 and Sriniketan in 1922. Commemorative institutional biography; celebratory judgments not adopted.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text",
+        "retrievalStatus": "inspected-text"
+      }
+    ],
+    "relatedIds": [
+      "person-rabindranath-tagore",
+      "person-rokeya",
+      "person-pandita-ramabai"
+    ],
+    "keyFacts": {
+      "en": [
+        "1901 school; 1921 Visva-Bharati; 1922 nearby Sriniketan.",
+        "Landscape and the arts formed part of the educational approach."
+      ],
+      "zh": [
+        "1901年学校、1921年维斯瓦—巴拉蒂、1922年邻近斯里尼克坦。",
+        "景观与艺术构成教育方式的一部分。"
+      ]
+    },
+    "expansion": {
+      "workstreams": [
+        "SA3"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "Relevant linked source passages inspected; original bilingual synthesis, without independent specialist review. Coordinates are representative anchors.",
+        "zh": "已查阅链接来源中的相关段落，并作原创双语综合；未经独立领域专家审阅。坐标为代表性参照。"
+      }
+    }
+  },
+  {
+    "id": "person-savitribai-phule",
+    "title": {
+      "en": "Savitribai Phule: teaching across caste and gender barriers",
+      "zh": "萨维特丽拜·普勒：跨越种姓与性别壁垒的教育者"
+    },
+    "start": 1831,
+    "end": 1897,
+    "region": "south-asia",
+    "theme": "knowledge",
+    "kind": "person",
+    "location": {
+      "lat": 18.52,
+      "lon": 73.856,
+      "label": "Pune; representative centre of teaching and relief"
+    },
+    "locationPrecision": "representative",
+    "importance": 4,
+    "summary": {
+      "en": "Savitribai Phule’s career joined education to resistance against caste and gender exclusion. Born in 1831 and married as a child, she acquired an education and worked with Jyotirao Phule to develop schooling in Pune. Their work from 1848 made girls’ learning a public challenge to social rules that restricted who could study and teach. It depended on cooperation and local support as well as the persistence of the couple later celebrated as reformers.\n\nSavitribai also wrote. Her 1854 poetry collection, Kavya Phule, belongs beside the classroom in an account of her intellectual life. Education was a means of questioning subordination, not simply of obtaining credentials. The opening of the Phules’ well to people excluded by caste in 1868 brought that principle into the ordinary necessity of obtaining water.\n\nHer activities included relief during famine and care during the Pune plague crisis of 1897, when she died. These episodes connect a life story to the social arrangements that made some people especially vulnerable: limited access to learning, water and care. Later commemorations rightly keep her visible but sometimes disagree on precise dates. This entry uses supported years and avoids treating disputed day-level chronology or broad claims of being India’s first female teacher as settled. Her legacy is better understood through the specific institutions and practices she helped change.",
+      "zh": "萨维特丽拜·普勒把教育同反对种姓与性别排斥联系起来。她生于1831年，幼年结婚，此后接受教育，并与乔蒂拉奥·普勒在浦那开展办学。自1848年起，他们推动女孩学习，公开挑战限制谁能读书、谁能教学的社会规则。这项工作依靠合作与地方支持，也依靠后来被纪念为改革者的夫妇的坚持。\n\n她同时从事写作。1854年的诗集《卡维亚·普勒》，应与课堂一起纳入其思想生活。教育不仅是取得资格，也是质疑从属地位的工具。1868年，普勒夫妇向因种姓而受排斥的人开放自家水井，把这一原则带入取水这一日常需要。\n\n她的活动还包括饥荒救济，以及1897年浦那鼠疫期间的照护；她也在该年去世。这些经历把个人生平同造成脆弱处境的社会安排连接起来：受教育、用水和获得照护的机会受到限制。后来的纪念文字使她持续受到关注，但部分精确日期相互矛盾。本条采用有支持的年份，不把存在分歧的卒日或“印度第一位女教师”等宽泛说法视为定论。通过她参与改变的具体制度和实践，更能理解其遗产。"
+    },
+    "dateNote": {
+      "en": "1831–1897 lifespan. Sources disagree on the exact March death date; no day-level date or exact death location is asserted.",
+      "zh": "1831—1897年为生卒年。来源对三月的具体卒日存在分歧，因此不采用日级日期或精确死亡地点。"
+    },
+    "sources": [
+      {
+        "title": "Savitribai Phule",
+        "url": "https://ebooks.inflibnet.ac.in/socp13/chapter/193/",
+        "publisher": "INFLIBNET / e-PG Pathshala; Nisha Jolly Nelson",
+        "evidenceNote": "1831–1897; 1848 Pune girls’ education, 1854 poetry, 1868 accessible well, famine and plague relief. Teaching chapter inspected; disputed day-level death and foundling-home dates omitted.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text",
+        "retrievalStatus": "inspected-text"
+      },
+      {
+        "title": "Savitribai Phule Memorial Lecture",
+        "url": "https://www.ncert.nic.in/pdf/publication/otherpublications/Memorial-Lectures-Series/FINAL%20COVER%20OF%20SAVIRTIBAI%20PHULE.pdf",
+        "publisher": "National Council of Educational Research and Training",
+        "evidenceNote": "Biographical chronology and discussion of gender/caste education inspected in the PDF; corroborates principal career years. Its day of death differs from the teaching chapter; only 1897 is used.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text",
+        "retrievalStatus": "inspected-text"
+      }
+    ],
+    "relatedIds": [
+      "person-pandita-ramabai",
+      "person-br-ambedkar",
+      "vaikom-road-access-campaign"
+    ],
+    "keyFacts": {
+      "en": [
+        "Teaching, poetry, access to water and relief work were connected forms of reform.",
+        "Dates are bounded where commemorative accounts disagree."
+      ],
+      "zh": [
+        "教学、诗歌、用水权与救济是相互连接的改革实践。",
+        "纪念记述有分歧处采用有限精度的日期。"
+      ]
+    },
+    "expansion": {
+      "workstreams": [
+        "SA3"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "Relevant linked source passages inspected; original bilingual synthesis, without independent specialist review. Coordinates are representative anchors.",
+        "zh": "已查阅链接来源中的相关段落，并作原创双语综合；未经独立领域专家审阅。坐标为代表性参照。"
+      }
+    },
+    "name": {
+      "en": "Savitribai Phule",
+      "zh": "萨维特丽拜·普勒"
+    },
+    "milestones": [
+      {
+        "year": 1848,
+        "title": {
+          "en": "Girls’ schooling in Pune",
+          "zh": "在浦那推动女子教育"
+        },
+        "description": {
+          "en": "Savitribai and Jyotirao developed schooling for girls amid caste and gender opposition.",
+          "zh": "萨维特丽拜与乔蒂拉奥面对种姓和性别方面的阻力，推动女子教育。"
+        },
+        "location": {
+          "lat": 18.52,
+          "lon": 73.856,
+          "label": "Pune; representative school-work setting"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1854,
+        "title": {
+          "en": "Poetry in print",
+          "zh": "诗集出版"
+        },
+        "description": {
+          "en": "Kavya Phule placed her writing beside her work as a teacher; Pune is a career anchor, not an identified printing shop.",
+          "zh": "《卡维亚·普勒》体现其教师工作之外的写作；浦那为生涯参照，并非已确认的印刷作坊。"
+        },
+        "location": {
+          "lat": 18.52,
+          "lon": 73.856,
+          "label": "Pune; literary career anchor"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1868,
+        "title": {
+          "en": "A well opened against exclusion",
+          "zh": "开放水井反对排斥"
+        },
+        "description": {
+          "en": "The Phules made their well accessible to people excluded by caste.",
+          "zh": "普勒夫妇向因种姓受排斥的人开放自家水井。"
+        },
+        "location": {
+          "lat": 18.52,
+          "lon": 73.856,
+          "label": "Pune; representative reform setting"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1897,
+        "title": {
+          "en": "Plague relief",
+          "zh": "鼠疫救助"
+        },
+        "description": {
+          "en": "Her final year included care during Pune’s plague crisis; precise death-day accounts differ.",
+          "zh": "其生命最后一年参与浦那鼠疫照护；具体卒日记述不同。"
+        },
+        "location": {
+          "lat": 18.52,
+          "lon": 73.856,
+          "label": "Pune; plague-relief context"
+        },
+        "approximate": false
+      }
+    ]
+  },
+  {
+    "id": "person-srinivasa-ramanujan",
+    "title": {
+      "en": "Srinivasa Ramanujan: notebooks, correspondence and collaboration",
+      "zh": "斯里尼瓦瑟·拉马努金：笔记、通信与合作"
+    },
+    "start": 1887,
+    "end": 1920,
+    "region": "south-asia",
+    "theme": "knowledge",
+    "kind": "person",
+    "location": {
+      "lat": 13.083,
+      "lon": 80.27,
+      "label": "Chennai/Madras; representative early-career centre"
+    },
+    "locationPrecision": "representative",
+    "importance": 4,
+    "summary": {
+      "en": "Srinivasa Ramanujan developed extraordinary mathematical work along a difficult educational path. Raised in Kumbakonam, he pursued mathematics intensely but lost a college scholarship after neglecting other subjects. Notebooks became a place to accumulate results beyond the normal curriculum. A position at the Madras Port Trust in 1912 provided an income while local supporters helped his work reach wider mathematical networks.\n\nHis 1913 correspondence with G. H. Hardy opened a new phase. At Cambridge from 1914, Ramanujan worked with Hardy while continuing to develop ideas in number theory, infinite series and related areas. The encounter joined different habits of discovery and proof. It should not erase either the Indian contacts who had sustained him or the distinctive mathematical resources he brought to the collaboration.\n\nElection to the Royal Society and a Trinity fellowship followed in 1918, during a period of serious illness. He returned to India in 1919 and died the next year. His notebooks remained productive research material, inviting later mathematicians to establish proofs, clarify statements and develop further connections. Their afterlife is evidence that an intellectual biography can continue through other people’s work. The milestone locations identify documented employment, correspondence and institutional settings. They do not imply that an election required his presence at the electing body, or that a modern retrospective diagnosis establishes the cause of his death.",
+      "zh": "拉马努金在坎巴科南成长，沿着艰难的教育道路发展出非凡的数学工作。他专注数学，却因忽略其他科目而失去大学奖学金。笔记本成为积累常规课程之外成果的空间。1912年在马德拉斯港务局取得的职位提供收入，地方支持者则帮助其工作进入更广阔的数学网络。\n\n1913年与哈代的通信开启新阶段。1914年起，他在剑桥与哈代合作，同时继续研究数论、无穷级数及相关领域。这场相遇连接不同的发现与证明习惯；既不能抹去此前支持他的印度联系人，也不能忽视他带入合作的独特数学资源。\n\n1918年，他当选英国皇家学会会员，并获三一学院研究员资格，当时已身患重病。1919年回到印度，次年去世。其笔记后来仍持续产生研究课题，让其他数学家补充证明、澄清陈述并建立新的联系。这种后续生命说明，思想传记能够通过他人的工作继续展开。节点标示有记录的任职、通信与机构背景，不暗示当选需要亲临选举机构，也不把现代回溯诊断当作已经确定的死因。"
+    },
+    "dateNote": {
+      "en": "1887–1920 lifespan; selected career points 1912–1919. Conflicting death-location details and retrospective diagnoses are excluded.",
+      "zh": "1887—1920年为生卒年；选取1912—1919年的职业节点。排除相互冲突的死亡地点及回溯性诊断。"
+    },
+    "sources": [
+      {
+        "title": "Srinivasa Ramanujan",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Ramanujan/",
+        "publisher": "University of St Andrews, MacTutor History of Mathematics",
+        "evidenceNote": "1887–1920; Kumbakonam schooling, loss of scholarship, 1912 Madras Port Trust work, 1913 Hardy correspondence, Cambridge 1914, research and fellowships in 1918, return in 1919. Death location is not adopted from the header.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text",
+        "retrievalStatus": "inspected-text"
+      },
+      {
+        "title": "Srinivasa Ramanujan",
+        "url": "https://explore.trin.cam.ac.uk/assets/ramanujan/",
+        "publisher": "Trinity College Cambridge",
+        "evidenceNote": "Port Trust employment, correspondence, Cambridge collaboration, illness and 1918 fellowships. The commemorative page’s unqualified first-Indian-FRS claim is not used; no retrospective diagnosis is asserted.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text",
+        "retrievalStatus": "inspected-text"
+      }
+    ],
+    "relatedIds": [
+      "person-aryabhata",
+      "iacs-public-science",
+      "crown-rule-india"
+    ],
+    "keyFacts": {
+      "en": [
+        "Local employment and supporters preceded the Cambridge collaboration.",
+        "The notebooks continued to generate mathematical research after his death."
+      ],
+      "zh": [
+        "地方任职与支持者先于剑桥合作。",
+        "其笔记在身后持续产生数学研究课题。"
+      ]
+    },
+    "expansion": {
+      "workstreams": [
+        "SA3"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "Relevant linked source passages inspected; original bilingual synthesis, without independent specialist review. Coordinates are representative anchors.",
+        "zh": "已查阅链接来源中的相关段落，并作原创双语综合；未经独立领域专家审阅。坐标为代表性参照。"
+      }
+    },
+    "name": {
+      "en": "Srinivasa Ramanujan",
+      "zh": "斯里尼瓦瑟·拉马努金"
+    },
+    "milestones": [
+      {
+        "year": 1912,
+        "title": {
+          "en": "Port Trust employment",
+          "zh": "港务局任职"
+        },
+        "description": {
+          "en": "A clerical post at the Madras Port Trust supported continued mathematical work.",
+          "zh": "马德拉斯港务局的文书职位支持其继续进行数学研究。"
+        },
+        "location": {
+          "lat": 13.083,
+          "lon": 80.27,
+          "label": "Madras/Chennai; employment context"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1913,
+        "title": {
+          "en": "Correspondence with Hardy",
+          "zh": "与哈代通信"
+        },
+        "description": {
+          "en": "A letter from India brought his results into sustained contact with Cambridge mathematics.",
+          "zh": "来自印度的信件使其成果与剑桥数学界建立持续联系。"
+        },
+        "location": {
+          "lat": 13.083,
+          "lon": 80.27,
+          "label": "Madras/Chennai; correspondence context"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1914,
+        "title": {
+          "en": "Work at Cambridge",
+          "zh": "在剑桥研究"
+        },
+        "description": {
+          "en": "He travelled to Cambridge and began the sustained collaboration with Hardy.",
+          "zh": "他赴剑桥，开始同哈代的持续合作。"
+        },
+        "location": {
+          "lat": 52.207,
+          "lon": 0.117,
+          "label": "Cambridge; university setting"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1918,
+        "title": {
+          "en": "Fellowships during illness",
+          "zh": "患病期间获得学术资格"
+        },
+        "description": {
+          "en": "Royal Society election and a Trinity fellowship recognized his work; the point marks his Cambridge affiliation.",
+          "zh": "皇家学会会员及三一学院研究员资格肯定其工作；点位标示剑桥机构联系。"
+        },
+        "location": {
+          "lat": 52.207,
+          "lon": 0.117,
+          "label": "Cambridge; affiliation, not Royal Society election site"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1919,
+        "title": {
+          "en": "Return to India",
+          "zh": "返回印度"
+        },
+        "description": {
+          "en": "He returned to India while seriously ill, continuing mathematical work in his final period.",
+          "zh": "他在重病中返回印度，生命最后阶段仍从事数学工作。"
+        },
+        "location": {
+          "lat": 13.083,
+          "lon": 80.27,
+          "label": "Madras/Chennai; representative return setting"
+        },
+        "approximate": false
+      }
+    ]
+  },
+  {
+    "id": "iacs-public-science",
+    "title": {
+      "en": "Public support and experimental science in Calcutta",
+      "zh": "加尔各答的公共支持与实验科学"
+    },
+    "start": 1876,
+    "end": 1928,
+    "region": "south-asia",
+    "theme": "knowledge",
+    "kind": "idea",
+    "location": {
+      "lat": 22.571,
+      "lon": 88.362,
+      "label": "Bowbazar, Kolkata; representative original IACS neighbourhood"
+    },
+    "locationPrecision": "representative",
+    "importance": 4,
+    "summary": {
+      "en": "Mahendralal Sircar founded the Indian Association for the Cultivation of Science in Calcutta in 1876. Public contributions helped sustain an institution intended to make experimental scientific work possible locally. Its early Bowbazar setting belongs to a history of laboratories, lectures and support networks within colonial India, rather than a story in which scientific knowledge only arrived from elsewhere.\n\nC. V. Raman began research there outside his government working hours in 1907. The association provided continuity for experiments that later included the study of light scattering. In 1928 Raman and K. S. Krishnan identified a small component of scattered light whose colour differed from the incident beam. Filters, increasingly effective light sources and spectroscopic measurement turned an observation into a reproducible scientific result.\n\nThe institution matters alongside the celebrated discovery. Instruments, time, collaborators and an audience for publication were necessary parts of the work. The later uses of Raman spectroscopy should not obscure those modest experimental arrangements. This entry ends at the 1928 research milestone; the association continued thereafter and later moved to Jadavpur. Its map point therefore identifies the earlier urban setting, not the modern campus.",
+      "zh": "马亨德拉拉尔·西尔卡尔于1876年在加尔各答创立印度科学培育协会。公众捐助帮助维持这一机构，使本地实验研究成为可能。其早期鲍巴扎尔地点，属于殖民时期印度的实验室、讲座与支持网络史，而不是科学知识只从外部传入的单向故事。\n\n1907年起，拉曼在政府工作之外利用协会开展研究。机构为持续实验提供条件，其中后来包括光散射研究。1928年，拉曼与克里希南识别出散射光中颜色不同于入射光的一小部分。滤光片、更有效的光源及光谱测量，使观察成为能够重复检验的科学结果。\n\n机构与著名发现同样重要。仪器、时间、合作者以及发表成果的读者，都是研究所需的条件。后来拉曼光谱的用途，不应掩盖早期较为有限的实验配置。本条以1928年的研究节点结束；协会此后继续存在，并迁往贾达夫普尔。因此地图点位标示早期城市环境，并非现代校园。"
+    },
+    "dateNote": {
+      "en": "1876 foundation to 1928 research milestone; not the institution’s full lifespan. The point refers to Bowbazar rather than the later Jadavpur campus.",
+      "zh": "从1876年创办至1928年研究节点，并非机构全部存续期；点位指鲍巴扎尔，而非后来的贾达夫普尔校园。"
+    },
+    "sources": [
+      {
+        "title": "Indian Association for the Cultivation of Science, Kolkata",
+        "url": "https://dst.gov.in/autonomousstinstitutions/indian-association-cultivation-science-kolkata",
+        "publisher": "Government of India, Department of Science and Technology",
+        "evidenceNote": "Foundation by Mahendralal Sircar in July 1876 at 210 Bowbazar Street; public support; experimental research; Raman and K. S. Krishnan.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text",
+        "retrievalStatus": "inspected-text"
+      },
+      {
+        "title": "C. V. Raman and the Raman Effect",
+        "url": "https://www.acs.org/education/whatischemistry/landmarks/ramaneffect.html",
+        "publisher": "American Chemical Society",
+        "evidenceNote": "Raman’s after-hours IACS research from 1907; light-scattering experiments with K. S. Krishnan and publication in 1928; filtered light and spectroscopy. Historical landmark account inspected.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text",
+        "retrievalStatus": "inspected-text"
+      }
+    ],
+    "relatedIds": [
+      "person-srinivasa-ramanujan",
+      "crown-rule-india",
+      "santiniketan-educational-experiment"
+    ],
+    "keyFacts": {
+      "en": [
+        "Public support created a setting for locally sustained research.",
+        "Raman and K. S. Krishnan’s 1928 work depended on measurement and collaboration."
+      ],
+      "zh": [
+        "公共支持为本地持续研究创造条件。",
+        "拉曼与克里希南1928年的工作依靠测量与合作。"
+      ]
+    },
+    "expansion": {
+      "workstreams": [
+        "SA3"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "Relevant linked source passages inspected; original bilingual synthesis, without independent specialist review. Coordinates are representative anchors.",
+        "zh": "已查阅链接来源中的相关段落，并作原创双语综合；未经独立领域专家审阅。坐标为代表性参照。"
+      }
+    }
+  },
+  {
+    "id": "ceylon-tea-plantation-labour",
+    "title": {
+      "en": "Ceylon tea: plantation work and contested citizenship",
+      "zh": "锡兰茶叶：种植园劳动与受争议的公民资格"
+    },
+    "start": 1867,
+    "end": 1949,
+    "region": "south-asia",
+    "theme": "exchange",
+    "kind": "culture",
+    "location": {
+      "lat": 7.14,
+      "lon": 80.71,
+      "label": "Loolecondera area; representative plantation anchor"
+    },
+    "locationPrecision": "representative",
+    "importance": 4,
+    "summary": {
+      "en": "Tea expanded in Ceylon through infrastructure and labour arrangements already shaped by coffee plantations. James Taylor’s commercial planting at Loolecondera in 1867 preceded the coffee-blight crisis that accelerated the change of crop. Roads, estate finance and export channels made expansion possible, while the year-round work of tea encouraged a more permanent resident workforce.\n\nMany workers came from Tamil-speaking areas of southern India. Recruitment through kangani intermediaries often involved debt and harsh journeys. This should not be flattened into a claim that every worker had the same formal indenture contract. Families maintained the estates, and hand-plucking depended on repeated skilled labour; inadequate housing and access to services constrained the lives built around that work.\n\nPolitical independence did not immediately settle belonging. Citizenship legislation after 1948 excluded many plantation Tamils, and voting exclusion followed in 1949. These communities have a different migration history from Tamil populations in the island’s north and east. Ending the entry at 1949 connects an export commodity to the uneven formation of citizenship without claiming that the community’s history ended there. The plantation point is a representative anchor for a much larger highland labour landscape.",
+      "zh": "锡兰茶业扩展所依靠的基础设施与劳动安排，已受到咖啡种植园的塑造。詹姆斯·泰勒1867年在卢勒孔德拉进行商业种茶，早于后来加速作物转换的咖啡病害危机。道路、庄园金融和出口渠道使扩张成为可能；茶叶全年所需的劳动，则促进了更长期定居的劳动力形成。\n\n许多工人来自印度南部的泰米尔语地区。通过康加尼中间人的招募，往往伴随债务和艰苦旅途；不应据此把所有人都归为同一种正式契约劳工。家庭维持着种植园，手工采茶依靠反复进行的熟练劳动；不足的住房和公共服务限制了围绕这项工作形成的生活。\n\n政治独立没有立即解决归属问题。1948年后的公民资格立法排除了许多种植园泰米尔人，1949年又失去选举权。这些社区的迁移史不同于岛屿北部与东部的泰米尔人口。以1949年为终点，是为了连接出口商品与不均等的公民身份形成，并不表示社区历史至此结束。地图点位只是广大高地劳动景观的代表性参照。"
+    },
+    "dateNote": {
+      "en": "1867 commercial-planting anchor to 1949 electoral exclusion. These years frame a labour and citizenship history, not the origins or disappearance of all tea cultivation.",
+      "zh": "从1867年商业种植参照点至1949年选举排斥，界定劳动与公民资格史，不表示所有茶叶种植的起源或消失。"
+    },
+    "sources": [
+      {
+        "title": "Sri Lanka: Taking Tea",
+        "url": "https://takingtea.exeter.ac.uk/histories/sri-lanka/",
+        "publisher": "University of Exeter research project",
+        "evidenceNote": "Coffee plantation infrastructure, debt-mediated kangani labour, 1867 Loolecondera tea planting, coffee blight from 1869 and permanent labour needs of tea. Source explicitly distinguishes kangani recruitment from formal indenture.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text",
+        "retrievalStatus": "inspected-text"
+      },
+      {
+        "title": "Tea and Immigrant Labor",
+        "url": "https://www.aisls.org/resources/teaching-about-sri-lanka/teaching-about-tea/tea-and-immigrant-labor/",
+        "publisher": "American Institute for Sri Lankan Studies",
+        "evidenceNote": "Tamil plantation migration, hand-plucking, debt and inadequate housing, distinction from northern/eastern Tamil communities, citizenship and voting exclusion in 1948–1949. Teaching synthesis inspected; no present-day wage claim adopted.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text",
+        "retrievalStatus": "inspected-text"
+      }
+    ],
+    "relatedIds": [
+      "ceylon-independence",
+      "sri-lanka-civil-war-societies",
+      "coromandel-textile-work"
+    ],
+    "keyFacts": {
+      "en": [
+        "Kangani recruitment and debt are more precise than a blanket indenture label.",
+        "Independence and equal citizenship did not arrive together for plantation communities."
+      ],
+      "zh": [
+        "康加尼招募与债务比笼统的契约劳工标签更准确。",
+        "对种植园社区而言，独立与平等公民资格并未同时到来。"
+      ]
+    },
+    "expansion": {
+      "workstreams": [
+        "SA3"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "Relevant linked source passages inspected; original bilingual synthesis, without independent specialist review. Coordinates are representative anchors.",
+        "zh": "已查阅链接来源中的相关段落，并作原创双语综合；未经独立领域专家审阅。坐标为代表性参照。"
+      }
+    }
+  },
+  {
+    "id": "vaikom-road-access-campaign",
+    "title": {
+      "en": "Vaikom: challenging caste barriers on public approaches",
+      "zh": "瓦伊科姆：挑战道路上的种姓壁垒"
+    },
+    "start": 1924,
+    "end": 1925,
+    "region": "south-asia",
+    "theme": "states",
+    "kind": "event",
+    "location": {
+      "lat": 9.747,
+      "lon": 76.398,
+      "label": "Vaikom; representative temple-road campaign setting"
+    },
+    "locationPrecision": "representative",
+    "importance": 4,
+    "summary": {
+      "en": "The Vaikom satyagraha challenged caste restrictions on roads approaching a temple in Travancore. From 1924 to 1925, access to an ordinary route became a question of dignity and public rights: people classified as lower caste could be prevented from using spaces open to others. The campaign joined local organizing to support extending beyond the immediate district.\n\nT. K. Madhavan, K. P. Kesava Menon, K. Kelappan and others were involved, while Narayana Guru, Periyar and supporters from outside Kerala also formed part of its history. The range of participants matters because later memories can turn a collective campaign into the achievement of a single leader. Religious reform, anti-caste activism and nationalist politics intersected without becoming identical agendas.\n\nThe 1925 settlement opened three approach roads. It did not establish unrestricted temple entry, and the remaining limitations are essential to understanding what was gained. A bounded achievement could still alter expectations about social authority and access to shared space. Read alongside the Phules’ well-opening and Ambedkar’s work, Vaikom shows how apparently everyday acts—walking a road or obtaining water—became central questions in the struggle over caste hierarchy.",
+      "zh": "瓦伊科姆非暴力抗争挑战了特拉凡哥尔一座寺庙周边道路上的种姓限制。1924至1925年，一条普通通道的使用成为尊严与公共权利问题：被列为较低种姓的人，可能被禁止进入他人可以通行的空间。运动把地方组织工作同地区以外的支持连接起来。\n\n马达万、梅农、凯拉潘等人参与其中，纳拉亚纳·古鲁、佩里亚尔及喀拉拉以外的支持者也构成这段历史。参与者的广泛性很重要，因为后来的记忆可能把集体运动归于单一领袖。宗教改革、反种姓活动与民族主义政治在此交会，却不是完全相同的目标。\n\n1925年的和解开放了三条进寺道路，并未实现无限制的入寺权；理解仍存的限制，才能准确评估成果。有限的胜利仍可改变人们对社会权威与共享空间的期待。与普勒夫妇开放水井及安贝德卡尔的工作并读，瓦伊科姆展示走路、取水等日常行为如何成为争论种姓等级的核心问题。"
+    },
+    "dateNote": {
+      "en": "1924–1925 campaign; the settlement concerned three approach roads, not full temple entry.",
+      "zh": "1924—1925年为运动期；和解涉及三条进寺道路，而非全面入寺权。"
+    },
+    "sources": [
+      {
+        "title": "Vaikom Satyagraha",
+        "url": "https://www.keralatourism.org/sreenarayanaguru/social-reform/vaikom-satyagraha",
+        "publisher": "Kerala Tourism, Government of Kerala",
+        "evidenceNote": "March 1924–November 1925 road-access campaign; caste exclusions, multiple organizers, and settlement opening three approach roads. This was not yet general temple-entry equality.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text",
+        "retrievalStatus": "inspected-text"
+      }
+    ],
+    "relatedIds": [
+      "person-savitribai-phule",
+      "person-br-ambedkar",
+      "person-gandhi"
+    ],
+    "keyFacts": {
+      "en": [
+        "Three roads opened in the settlement; temple-entry restrictions were a separate issue.",
+        "The campaign had multiple organizers and support networks."
+      ],
+      "zh": [
+        "和解开放三条道路；入寺限制是另一问题。",
+        "运动有多位组织者与支持网络。"
+      ]
+    },
+    "expansion": {
+      "workstreams": [
+        "SA3"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "The linked state institutional account was inspected; this is a bounded synthesis, not an independent reconstruction from campaign archives.",
+        "zh": "已查阅链接所指邦政府机构记述；此为限定范围的综合，并非独立重建运动档案。"
+      }
+    }
+  },
+  {
+    "id": "person-tsuda-umeko",
+    "title": {
+      "en": "Tsuda Umeko: building opportunities for women’s study",
+      "zh": "津田梅子：为女性建立学习机会"
+    },
+    "start": 1864,
+    "end": 1929,
+    "region": "east-asia",
+    "theme": "knowledge",
+    "kind": "person",
+    "location": {
+      "lat": 35.69,
+      "lon": 139.74,
+      "label": "Tokyo; representative original school area"
+    },
+    "locationPrecision": "representative",
+    "importance": 4,
+    "summary": {
+      "en": "Tsuda Umeko’s educational life began with an unusually early journey abroad. In 1871 she was one of the girls selected for overseas study associated with the Iwakura mission. Years in the United States made language and cultural adjustment central experiences of her childhood. After returning to Japan in 1882, she confronted the different expectations attached to women’s education in the society to which she had come home.\n\nFurther study at Bryn Mawr from 1889 to 1892 included biology. Her later institution, however, concentrated on English education and the development of individual ability. In 1900 she established Joshi Eigaku Juku in Tokyo, initially with ten students. Permission to confer teaching certificates in 1905 strengthened a practical route from advanced study to professional work.\n\nHer story connects international exchange with the slow work of sustaining a local school: recruitment, teaching standards and credentials mattered as much as a prominent founder. It also raises questions about who could gain access to such opportunities in Meiji Japan. The institution should not be called the first form of female education in the country, where several educational traditions already existed. The milestones identify the documented school and study settings, while the later expansion and relocation of the university belong to its institutional afterlife. Tsuda’s legacy lies in making a particular pathway for women’s learning more durable.",
+      "zh": "津田梅子的教育生涯以一次非常年幼的海外旅程开始。1871年，她成为与岩仓使团相关的留学女孩之一。在美国生活多年，使语言与文化适应成为其童年的重要经历。1882年返回日本后，她面对的是对女性教育抱有不同期待的社会。\n\n1889至1892年，她又赴布林莫尔学院学习，包括生物学研究。但后来创办的机构，重点转向英语教育与个人能力培养。1900年，她在东京创立女子英学塾，最初有十名学生。1905年取得颁授教师资格的许可，使高等学习通往职业工作的实际道路得到加强。\n\n这段经历把国际交流同维持地方学校的长期工作联系起来：招生、教学标准和资格认可，与著名创办人同样重要，也让人追问明治日本谁能够获得这些机会。日本此前已有多种女子教育传统，因此不应把该校称为全国最早的女性教育形式。节点标示有记录的学校与求学背景；大学后来扩展和迁址属于机构的后续历史。津田的遗产在于使女性学习的一条具体道路更加持久。"
+    },
+    "dateNote": {
+      "en": "1864–1929 lifespan; 1889 marks the beginning of a 1889–1892 study period. Tokyo refers to the early school, not the later Kodaira campus.",
+      "zh": "1864—1929年为生卒年；1889年标示1889—1892年留学期的开端。东京指早期学校，而非后来的小平校园。"
+    },
+    "sources": [
+      {
+        "title": "Profile: Tsuda University",
+        "url": "https://www.tsuda.ac.jp/en/profile.html",
+        "publisher": "Tsuda University",
+        "evidenceNote": "1871 overseas study, return in 1882; 1900 Joshi Eigaku Juku with ten students in Tokyo; 1905 permission to confer teaching certificates. Institutional history inspected.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text",
+        "retrievalStatus": "inspected-text"
+      },
+      {
+        "title": "Tsuda, Umeko",
+        "url": "https://www.ndl.go.jp/portrait/e/datas/292",
+        "publisher": "National Diet Library, Japan",
+        "evidenceNote": "1864–1929; 1871 overseas mission, 1889–1892 Bryn Mawr biology, subsequent teaching and 1900 school. Biographical catalogue text inspected.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text",
+        "retrievalStatus": "inspected-text"
+      }
+    ],
+    "relatedIds": [
+      "meiji-restoration",
+      "person-fukuzawa-yukichi",
+      "tomioka-silk-training"
+    ],
+    "keyFacts": {
+      "en": [
+        "Bryn Mawr biology study preceded a school centred on English education.",
+        "Teacher certification created a professional route for graduates."
+      ],
+      "zh": [
+        "布林莫尔的生物学学习先于以英语教育为中心的办学。",
+        "教师资格认可为毕业生建立职业路径。"
+      ]
+    },
+    "expansion": {
+      "workstreams": [
+        "EA3"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "Relevant linked source passages inspected; original bilingual synthesis, without independent specialist review. Coordinates are representative anchors.",
+        "zh": "已查阅链接来源中的相关段落，并作原创双语综合；未经独立领域专家审阅。坐标为代表性参照。"
+      }
+    },
+    "name": {
+      "en": "Tsuda Umeko",
+      "zh": "津田梅子"
+    },
+    "milestones": [
+      {
+        "year": 1882,
+        "title": {
+          "en": "Return after childhood overseas",
+          "zh": "童年留学后归国"
+        },
+        "description": {
+          "en": "She returned to Japan after roughly eleven years abroad; Tokyo is a representative return setting.",
+          "zh": "在海外约十一年后返回日本；东京为代表性归国背景。"
+        },
+        "location": {
+          "lat": 35.68,
+          "lon": 139.76,
+          "label": "Tokyo; representative return setting"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1889,
+        "title": {
+          "en": "Further study at Bryn Mawr",
+          "zh": "赴布林莫尔继续求学"
+        },
+        "description": {
+          "en": "She began a further period of study, including biology, at Bryn Mawr College.",
+          "zh": "开始在布林莫尔学院继续学习，包括生物学。"
+        },
+        "location": {
+          "lat": 40.026,
+          "lon": -75.314,
+          "label": "Bryn Mawr College; study location"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1900,
+        "title": {
+          "en": "Joshi Eigaku Juku opens",
+          "zh": "女子英学塾开办"
+        },
+        "description": {
+          "en": "The Tokyo school began with ten students.",
+          "zh": "东京学校以十名学生起步。"
+        },
+        "location": {
+          "lat": 35.69,
+          "lon": 139.74,
+          "label": "Ichibancho area, Tokyo; early school setting"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1905,
+        "title": {
+          "en": "Teaching credentials",
+          "zh": "教师资格"
+        },
+        "description": {
+          "en": "The school received permission to confer teaching certificates.",
+          "zh": "学校获准颁授教师资格。"
+        },
+        "location": {
+          "lat": 35.69,
+          "lon": 139.74,
+          "label": "Tokyo; school setting"
+        },
+        "approximate": false
+      }
+    ]
+  },
+  {
+    "id": "person-chiri-yukie",
+    "title": {
+      "en": "Chiri Yukie: carrying Ainu oral literature into print",
+      "zh": "知里幸惠：将阿伊努口述文学带入印刷"
+    },
+    "start": 1903,
+    "end": 1922,
+    "region": "east-asia",
+    "theme": "culture",
+    "kind": "person",
+    "location": {
+      "lat": 43.77,
+      "lon": 142.365,
+      "label": "Asahikawa; representative formative community"
+    },
+    "locationPrecision": "representative",
+    "importance": 4,
+    "summary": {
+      "en": "Chiri Yukie grew up amid policies pressing Ainu people to assimilate into Japanese society. Born in Noboribetsu in 1903, she moved as a child to Asahikawa, where her aunt Imekanu and grandmother Monashinouku sustained a rich oral tradition. Their knowledge was an essential foundation of the writing later associated with Yukie’s name.\n\nAn encounter with the linguist Kindaichi Kyosuke in 1918 encouraged her to record kamuyyukar, narrative songs voiced by spirit beings. She transcribed Ainu in Roman letters and supplied Japanese translations. The resulting collection contained thirteen narratives. Moving performance into writing required linguistic judgment: a printed page could preserve words and make them available to new readers, but could not reproduce every feature of a singer’s voice, audience and occasion.\n\nYukie completed the collection before her death in 1922 at nineteen. Ainu shin’yoshu appeared posthumously in 1923. Its importance does not rest on a story of a solitary writer rescuing a vanished people. She worked from living family knowledge, and Ainu cultural expression continued beyond her short life. Reading the book as authored translation also restores her agency within a field often dominated by outside collectors. The posthumous publication belongs to the book’s later history; her life milestones end in 1922.",
+      "zh": "知里幸惠成长于推动阿伊努人同化为日本社会的政策环境。她1903年生于登别，幼年迁往旭川，姨母伊梅卡努及祖母莫娜西努库在那里维系丰富的口述传统。她们的知识，是后来以幸惠之名流传的写作的重要基础。\n\n1918年与语言学家金田一京助的相遇，鼓励她记录由神灵叙述的卡姆伊尤卡尔叙事歌。她用罗马字转写阿伊努语，并提供日语译文，最终编成十三篇作品。从表演进入书写需要语言判断：印刷页能够保存词语并接触新读者，却无法再现歌者声音、听众与表演场合的全部特征。\n\n幸惠在1922年十九岁去世前完成文集，《阿伊努神谣集》于1923年在身后出版。其意义不在于孤独作家“拯救消失民族”的故事：她依托仍有生命力的家族知识，阿伊努文化表达也在她身后继续。把本书理解为由她主动完成的翻译，也能在常由外部采集者主导的领域中恢复她的主体性。身后出版属于书籍的后续历史；她本人的生平节点止于1922年。"
+    },
+    "dateNote": {
+      "en": "1903–1922 lifespan. The posthumous 1923 publication is discussed in the text, outside the life milestones. The scholarly introduction dates the Asahikawa move to 1909.",
+      "zh": "生卒年为1903—1922年。1923年的身后出版仅在正文中讨论，不列入本人生平节点。学术导言将迁往旭川定为1909年。"
+    },
+    "sources": [
+      {
+        "title": "Chiri Yukie",
+        "url": "https://www.mlit.go.jp/tagengo-db/en/R6-00268.html",
+        "publisher": "Japan Tourism Agency / Ministry of Land, Infrastructure, Transport and Tourism",
+        "evidenceNote": "1903–1922, Noboribetsu and childhood move to Asahikawa; aunt Imekanu and grandmother Monashinouku; 1918 Kindaichi encounter, thirteen kamuyyukar, transcription/translation and posthumous 1923 publication. Japanese and English relevant text inspected.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text",
+        "retrievalStatus": "inspected-text"
+      },
+      {
+        "title": "The Song the Owl God Himself Sang. An Ainu Tale",
+        "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/9D03CA095BBC156C5AE50FFF447C884F/S1557466009023286a.pdf/song_the_owl_god_himself_sang_an_ainu_tale.pdf",
+        "publisher": "Chiri Yukie; translation and introduction by Kyoko Selden, The Asia-Pacific Journal (2009)",
+        "evidenceNote": "PDF introduction and discussion inspected, pages 1–5: 1909 Asahikawa household, 1918 encounter, 1921 manuscript, 1922 Tokyo editing, 1923 publication, authored translation and differences between written and performed versions. The impossible school-graduation year printed in the introduction is not adopted.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text",
+        "retrievalStatus": "inspected-text"
+      }
+    ],
+    "relatedIds": [
+      "ainu-language-cultural-continuity",
+      "person-yosano-akiko",
+      "meiji-restoration"
+    ],
+    "keyFacts": {
+      "en": [
+        "Family performers were central to the collection’s knowledge.",
+        "Roman-letter Ainu transcription and Japanese translation made different reading routes possible."
+      ],
+      "zh": [
+        "家族中的讲唱者是文集知识的重要来源。",
+        "阿伊努语罗马字转写与日语翻译提供不同阅读路径。"
+      ]
+    },
+    "expansion": {
+      "workstreams": [
+        "EA3"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "Institutional biography and the scholarly PDF introduction/discussion were inspected. This is not an Ainu-language philological review; a printed graduation-year error is excluded.",
+        "zh": "已查阅机构传记及学术PDF的导言、讨论；这不是阿伊努语语文学审阅，已排除印刷的毕业年份错误。"
+      }
+    },
+    "name": {
+      "en": "Chiri Yukie",
+      "zh": "知里幸惠"
+    },
+    "milestones": [
+      {
+        "year": 1909,
+        "title": {
+          "en": "Learning in Asahikawa",
+          "zh": "在旭川学习传统"
+        },
+        "description": {
+          "en": "Around age six she moved to a household where her aunt and grandmother transmitted oral knowledge.",
+          "zh": "约六岁时迁入姨母与祖母传承口述知识的家庭。"
+        },
+        "location": {
+          "lat": 43.77,
+          "lon": 142.365,
+          "label": "Asahikawa; formative household region"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1918,
+        "title": {
+          "en": "An encounter with Kindaichi",
+          "zh": "与金田一相遇"
+        },
+        "description": {
+          "en": "Meeting the linguist encouraged her work recording and translating Ainu narratives.",
+          "zh": "与语言学家的相遇鼓励她记录和翻译阿伊努叙事。"
+        },
+        "location": {
+          "lat": 43.77,
+          "lon": 142.365,
+          "label": "Asahikawa; encounter context"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1922,
+        "title": {
+          "en": "Collection completed",
+          "zh": "完成文集"
+        },
+        "description": {
+          "en": "She completed the thirteen-narrative collection before her death; the point is a literary-work reference, not an exact desk.",
+          "zh": "她在去世前完成十三篇叙事的文集；点位为文学工作参照，并非精确书桌位置。"
+        },
+        "location": {
+          "lat": 35.71,
+          "lon": 139.75,
+          "label": "Tokyo; final literary-work setting"
+        },
+        "approximate": false
+      }
+    ]
+  },
+  {
+    "id": "person-kim-gu",
+    "title": {
+      "en": "Kim Gu: exile, armed resistance and a divided liberation",
+      "zh": "金九：流亡、武装抵抗与分裂中的解放"
+    },
+    "start": 1876,
+    "end": 1949,
+    "region": "east-asia",
+    "theme": "states",
+    "kind": "person",
+    "location": {
+      "lat": 37.57,
+      "lon": 126.968,
+      "label": "Seoul; representative late-career centre"
+    },
+    "locationPrecision": "representative",
+    "importance": 4,
+    "summary": {
+      "en": "Kim Gu’s long political life passed through educational activism, exile and armed resistance before confronting the division of Korea. Following the March First movement of 1919, he went to Shanghai and became the provisional government’s police chief. Government in exile required fundraising, security and organizational work without normal control over the country it claimed to represent.\n\nIn 1931 he organized the Korean Patriotic Corps. Its attacks in 1932 included an unsuccessful attempt against Japan’s emperor and a bombing of Japanese officials in Shanghai. These were violent tactics within the independence movement, not simply extensions of its peaceful demonstrations. In 1940 Kim became chairman of the provisional government and helped organize the Korean Liberation Army at Chongqing.\n\nReturn to Korea in 1945 did not bring the unified independence he wanted. He opposed a separate southern government and joined talks in Pyongyang in 1948; they failed to prevent separate state formation. He was assassinated in 1949. His postwar position should not be projected backward as proof that the independence movement had always shared one strategy or ideology. Museum collections preserve documents, flags and printed statements that connect political aspirations to particular organizations. Read alongside the March First movement and Korean division, his biography makes the difficult transition from anti-colonial struggle to competing state projects visible.",
+      "zh": "金九漫长的政治生涯经历教育活动、流亡与武装抵抗，最后面对朝鲜半岛的分裂。1919年三一运动后，他赴上海，担任临时政府警务负责人。流亡政府无法正常控制其声称代表的国土，因此需要筹款、保安与持续组织工作。\n\n1931年，他组织韩人爱国团。1932年的行动包括对日本天皇未遂的袭击，以及在上海针对日本官员的爆炸。这些是独立运动中的暴力策略，不能简单视为和平示威的延伸。1940年，金九成为临时政府主席，并参与在重庆组织韩国光复军。\n\n1945年回国并未带来他希望的统一独立。他反对南方单独建国，并于1948年参加平壤会谈，但会谈未能阻止分别建国。1949年，他遭暗杀。不能把其战后立场反推为独立运动始终拥有统一策略或意识形态的证据。博物馆保存的文件、旗帜与印刷声明，将政治愿望同具体组织连接起来。与三一运动及半岛分裂并读，其生平呈现从反殖民斗争走向相互竞争的国家方案的艰难转变。"
+    },
+    "dateNote": {
+      "en": "1876–1949 lifespan; selected organizational and diplomatic milestones. No claim about the ultimate direction of the assassination plot is made.",
+      "zh": "1876—1949年为生卒年；选取组织与外交节点。不判断暗杀案幕后最终指使关系。"
+    },
+    "sources": [
+      {
+        "title": "Kim Koo: Biography",
+        "url": "https://kimkoomuseum.org/eng/kimkoo/biography.html",
+        "publisher": "Kim Koo Museum and Library",
+        "evidenceNote": "1876–1949; educational/independence work, Shanghai government roles, 1931 Patriotic Corps, Chongqing Liberation Army in 1940, return and opposition to separate elections. Commemorative narrative inspected; allegations about motives and contested descriptions of an 1896 victim are not adopted.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text",
+        "retrievalStatus": "inspected-text"
+      },
+      {
+        "title": "Kim Gu and the Provisional Government, collection feature",
+        "url": "https://www.much.go.kr/webzine/vol33/sub/sub5.html",
+        "publisher": "National Museum of Korean Contemporary History",
+        "evidenceNote": "1919 police office; 1931 Korean Patriotic Corps and 1932 attacks; 1940 chairmanship/Liberation Army; 1945 return; 1948 Pyongyang talks and 1949 assassination. Korean text and collection captions inspected; speculative counterfactual ending excluded.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text",
+        "retrievalStatus": "inspected-text"
+      }
+    ],
+    "relatedIds": [
+      "korean-provisional-institutions",
+      "korea-march-first-movement",
+      "korean-division"
+    ],
+    "keyFacts": {
+      "en": [
+        "Exile politics combined organization, diplomacy and armed action.",
+        "1948 talks failed to prevent separate governments."
+      ],
+      "zh": [
+        "流亡政治结合组织、外交与武装行动。",
+        "1948年的会谈未能阻止分别建国。"
+      ]
+    },
+    "expansion": {
+      "workstreams": [
+        "EA3"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "Relevant linked source passages inspected; original bilingual synthesis, without independent specialist review. Coordinates are representative anchors.",
+        "zh": "已查阅链接来源中的相关段落，并作原创双语综合；未经独立领域专家审阅。坐标为代表性参照。"
+      }
+    },
+    "name": {
+      "en": "Kim Gu",
+      "zh": "金九"
+    },
+    "milestones": [
+      {
+        "year": 1919,
+        "title": {
+          "en": "Provisional-government police chief",
+          "zh": "担任临时政府警务负责人"
+        },
+        "description": {
+          "en": "He joined the Shanghai provisional government after the March First movement.",
+          "zh": "三一运动后加入上海临时政府。"
+        },
+        "location": {
+          "lat": 31.22,
+          "lon": 121.47,
+          "label": "Shanghai; provisional-government setting"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1931,
+        "title": {
+          "en": "Korean Patriotic Corps",
+          "zh": "组织韩人爱国团"
+        },
+        "description": {
+          "en": "He organized a group that pursued attacks against Japanese imperial figures and officials.",
+          "zh": "组织对日本帝国人物及官员发动袭击的团体。"
+        },
+        "location": {
+          "lat": 31.22,
+          "lon": 121.47,
+          "label": "Shanghai; organizational setting"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1940,
+        "title": {
+          "en": "Chairmanship and Liberation Army",
+          "zh": "主席任职与光复军"
+        },
+        "description": {
+          "en": "He became chairman and helped organize the Korean Liberation Army in Chongqing.",
+          "zh": "出任主席，并参与在重庆组织韩国光复军。"
+        },
+        "location": {
+          "lat": 29.56,
+          "lon": 106.55,
+          "label": "Chongqing; exile-government setting"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1948,
+        "title": {
+          "en": "North–South talks",
+          "zh": "南北会谈"
+        },
+        "description": {
+          "en": "He travelled to Pyongyang for negotiations seeking to avoid separate state formation.",
+          "zh": "赴平壤谈判，寻求避免分别建国。"
+        },
+        "location": {
+          "lat": 39.03,
+          "lon": 125.75,
+          "label": "Pyongyang; diplomatic setting"
+        },
+        "approximate": false
+      }
+    ]
+  },
+  {
+    "id": "person-park-du-seong",
+    "title": {
+      "en": "Park Du-seong: designing Korean braille with learners",
+      "zh": "朴斗星：与学习者共同发展韩文盲文"
+    },
+    "start": 1888,
+    "end": 1963,
+    "region": "east-asia",
+    "theme": "knowledge",
+    "kind": "person",
+    "location": {
+      "lat": 37.566,
+      "lon": 126.978,
+      "label": "Seoul; representative teaching and research centre"
+    },
+    "locationPrecision": "representative",
+    "importance": 4,
+    "summary": {
+      "en": "Park Du-seong worked at the intersection of language, teaching and disability access during Japanese colonial rule in Korea. From 1913 he taught at Jaesaengwon, where blind students faced an educational system centred on Japanese braille. Reading Korean required a system that handled the language’s own sounds and distinctions rather than assuming that an imported encoding would serve every purpose.\n\nThe work involved experiments and consultation with learners. A student research group formed in 1923 helped develop the system later called Hunmaengjeongeum. Earlier designs had difficulty distinguishing initial and final consonants. The six-dot version promulgated in 1926 made these distinctions more usable, linking tactile reading to Korean-language learning.\n\nPark’s work continued through the preparation of reading materials and instructional records. A surviving 1946 manuscript documents the system’s use and extension. Such objects reveal that an alphabet becomes effective through teaching, transcription and repeated use, not through a single moment of invention. This biography therefore retains the students’ role rather than presenting accessibility as a gift delivered by one heroic inventor.\n\nKorean tactile education had precedents, including four-dot approaches. The claim here is about this documented six-dot system, not the invention of braille itself or the beginning of all education for blind Koreans. The map is anchored in the teaching setting; it does not turn the later conservation location of a manuscript into evidence of where it was written.",
+      "zh": "日本殖民统治时期，朴斗星的工作处于语言、教学与残障人士阅读机会的交汇点。1913年起，他在济生院任教，盲人学生面对的是以日语盲文为中心的教学环境。阅读韩语需要能够处理本语言声音与区分的系统，不能假定引入的编码能够满足一切需要。\n\n这项工作包含实验及与学习者商议。1923年成立的学生研究小组参与发展后来称为《训盲正音》的系统。早期设计不易区分初声与终声；1926年公布的六点方案使这些区分更易使用，将触觉阅读与韩语学习连接起来。\n\n朴斗星此后继续制作读物和教学记录。存世1946年手稿记录了系统的使用与扩展。这类物件说明，一套文字通过教学、转写及反复使用发挥作用，并非只靠一个发明时刻。因此，本传保留学生的参与，不把阅读机会描述为单一英雄发明者赐予的礼物。\n\n韩国触觉教育此前已有四点方案等先例。本条讨论的是有记录的六点系统，并非盲文本身的发明，或所有韩国盲人教育的起点。地图以教学环境为参照，不把手稿后来的保存地点当作其写作地点的证据。"
+    },
+    "dateNote": {
+      "en": "1888–1963 lifespan; milestones 1913, 1923 and 1926 trace teaching and collaborative development. The 1946 manuscript is discussed without an invented writing location.",
+      "zh": "1888—1963年为生卒年；1913、1923及1926年节点追踪教学与合作发展。讨论1946年手稿而不虚构写作地点。"
+    },
+    "sources": [
+      {
+        "title": "Hunmaengjeongeum and Park Du-seong",
+        "url": "https://www.hangeul.go.kr/webzine/202609/sub1_4.html",
+        "publisher": "National Hangeul Museum",
+        "evidenceNote": "1888–1963; 1913 Jaesaengwon teaching, 1923 student research group, completion and promulgation in 1926, 1946 Hangeul braille manuscript. Museum object discussion and chronology inspected.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text",
+        "retrievalStatus": "inspected-text"
+      },
+      {
+        "title": "Records on nation’s first six-dot braille system restored",
+        "url": "https://www.korea.net/NewsFocus/Culture/view?articleId=223719",
+        "publisher": "Korea.net, reporting National Archives of Korea",
+        "evidenceNote": "Restored manuscripts and related records; Park’s 1888–1963 lifespan, 4 November 1926 promulgation, six-dot encoding and initial/final consonant distinction. Reporting on archive work, not an independent biography.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text",
+        "retrievalStatus": "inspected-text"
+      }
+    ],
+    "relatedIds": [
+      "hangul-promulgation",
+      "person-yu-gwan-sun",
+      "korea-march-first-movement"
+    ],
+    "keyFacts": {
+      "en": [
+        "Students participated in developing a usable Korean tactile script.",
+        "1926 concerns a six-dot system; earlier tactile teaching existed."
+      ],
+      "zh": [
+        "学生参与发展可用的韩语触觉文字。",
+        "1926年指六点系统；此前已有触觉教学。"
+      ]
+    },
+    "expansion": {
+      "workstreams": [
+        "EA3"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "Relevant linked source passages inspected; original bilingual synthesis, without independent specialist review. Coordinates are representative anchors.",
+        "zh": "已查阅链接来源中的相关段落，并作原创双语综合；未经独立领域专家审阅。坐标为代表性参照。"
+      }
+    },
+    "name": {
+      "en": "Park Du-seong",
+      "zh": "朴斗星"
+    },
+    "milestones": [
+      {
+        "year": 1913,
+        "title": {
+          "en": "Teaching at Jaesaengwon",
+          "zh": "在济生院任教"
+        },
+        "description": {
+          "en": "Teaching blind students brought the limits of Japanese-centred braille education into focus.",
+          "zh": "教授盲人学生使以日语为中心的盲文教育局限变得具体。"
+        },
+        "location": {
+          "lat": 37.566,
+          "lon": 126.978,
+          "label": "Seoul; representative teaching setting"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1923,
+        "title": {
+          "en": "Research with students",
+          "zh": "与学生共同研究"
+        },
+        "description": {
+          "en": "A research group of students participated in work on Korean braille.",
+          "zh": "学生研究小组参与韩文盲文的工作。"
+        },
+        "location": {
+          "lat": 37.566,
+          "lon": 126.978,
+          "label": "Seoul; representative research setting"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1926,
+        "title": {
+          "en": "Six-dot Korean braille promulgated",
+          "zh": "公布六点韩文盲文"
+        },
+        "description": {
+          "en": "Hunmaengjeongeum was promulgated on 4 November, after iterative development.",
+          "zh": "经过反复改进，《训盲正音》于11月4日公布。"
+        },
+        "location": {
+          "lat": 37.566,
+          "lon": 126.978,
+          "label": "Seoul; representative publication and teaching context"
+        },
+        "approximate": false
+      }
+    ]
+  },
+  {
+    "id": "tomioka-silk-training",
+    "title": {
+      "en": "Tomioka: silk workers and the model factory",
+      "zh": "富冈：缫丝女工与模范工厂"
+    },
+    "start": 1872,
+    "end": 1893,
+    "region": "east-asia",
+    "theme": "exchange",
+    "kind": "place",
+    "location": {
+      "lat": 36.255,
+      "lon": 138.888,
+      "label": "Tomioka Silk Mill; representative industrial site"
+    },
+    "locationPrecision": "representative",
+    "importance": 4,
+    "summary": {
+      "en": "Tomioka Silk Mill opened in 1872 as a government model for mechanized silk reeling. Officials wanted improved quality and production for export, and French specialist Paul Brunat helped design the project. Imported equipment and instruction were adapted to Japanese materials, buildings and an existing silk economy rather than placed in an industrial vacuum.\n\nWomen recruited from different regions worked as trainees. The plan was that skilled workers could return home and teach mechanical reeling, making labour mobility part of technological diffusion. The women were therefore carriers of knowledge as well as factory employees. The mill’s history also belongs to a wider system of silkworm rearing, training and storage represented by associated heritage sites.\n\nForeign instructors departed in 1876 and Japanese staff continued operations. The government sold the mill to Mitsui in 1893; this entry uses that date to bound its model-factory phase. It is not the date silk production ended. A showcase institution cannot stand for conditions in every Japanese mill, but it makes one mechanism of industrial change concrete: skills moved through workers and teaching arrangements, alongside machines and investment.",
+      "zh": "富冈制丝场于1872年投产，作为政府推动机械缫丝的模范。官员希望提高出口生丝的质量与产量，法国技术人员保罗·布吕纳参与设计。引进的设备与指导需要适应日本材料、建筑及已有丝业经济，并非落在没有产业基础的环境中。\n\n从不同地区招募的女性以传习女工身份工作。计划希望熟练工人返乡后教授机械缫丝，使劳动力流动成为技术传播的一部分。因此，女工既是雇员，也是知识的携带者。工厂还属于更广的养蚕、培训与储藏体系，相关遗产地点体现了这些联系。\n\n外国指导人员1876年离开后，日本人员继续经营。政府于1893年将工厂出售给三井，本条以此界定官营模范工厂阶段，而不是缫丝生产的终止。示范机构不能代表每一家日本工厂的劳动条件，但能具体展示工业变化的一种机制：技能通过工人及教学安排流动，同时伴随机器和投资。"
+    },
+    "dateNote": {
+      "en": "1872 opening to 1893 sale bounds the government model-mill phase; operations continued much later.",
+      "zh": "1872年投产至1893年出售界定官营模范阶段；生产此后仍持续很久。"
+    },
+    "sources": [
+      {
+        "title": "History of Tomioka Silk Mill",
+        "url": "https://www.tomioka-silk.jp/_tomioka-silk-mill/about/",
+        "publisher": "Tomioka City official heritage website",
+        "evidenceNote": "1870 model-mill policy, 1872 opening, French specialists, recruitment/training of women, Japanese operation after 1876 and sale in 1893. Relevant Japanese historical text inspected; model mill not generalized to every Japanese factory.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text",
+        "retrievalStatus": "inspected-text"
+      },
+      {
+        "title": "Tomioka Silk Mill and Related Sites",
+        "url": "https://whc.unesco.org/en/list/1449/",
+        "publisher": "UNESCO World Heritage Centre",
+        "evidenceNote": "Industrial network of reeling mill, silkworm farms/school and cold storage; exchange and adaptation of techniques. Heritage synthesis inspected.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text",
+        "retrievalStatus": "inspected-text"
+      }
+    ],
+    "relatedIds": [
+      "meiji-restoration",
+      "person-tsuda-umeko",
+      "coromandel-textile-work"
+    ],
+    "keyFacts": {
+      "en": [
+        "Women trainees were expected to spread skills beyond Tomioka.",
+        "The mill worked within a wider sericulture and training network."
+      ],
+      "zh": [
+        "传习女工被期待将技能带到富冈以外。",
+        "工厂处于更广的养蚕与培训网络之中。"
+      ]
+    },
+    "expansion": {
+      "workstreams": [
+        "EA3"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "Relevant linked source passages inspected; original bilingual synthesis, without independent specialist review. Coordinates are representative anchors.",
+        "zh": "已查阅链接来源中的相关段落，并作原创双语综合；未经独立领域专家审阅。坐标为代表性参照。"
+      }
+    }
+  },
+  {
+    "id": "joseon-seowon-learning",
+    "title": {
+      "en": "Seowon: local scholarship, ritual and landscape",
+      "zh": "书院：地方学术、礼仪与景观"
+    },
+    "start": 1550,
+    "end": 1650,
+    "region": "east-asia",
+    "theme": "knowledge",
+    "kind": "culture",
+    "location": {
+      "lat": 36.925,
+      "lon": 128.58,
+      "label": "Sosu-seowon area; representative academy landscape"
+    },
+    "locationPrecision": "representative",
+    "importance": 4,
+    "summary": {
+      "en": "Seowon linked study, commemoration and local social authority in Joseon Korea. The nine academies represented in the UNESCO heritage group were established across the middle of the sixteenth to the middle of the seventeenth centuries. They provide a focused sample of a much larger educational history, rather than a map of every academy.\n\nLocal sarim scholars organized learning around classical texts and revered teachers. Shrines, lecture spaces and pavilions gave different activities a spatial order. Mountains and water were selected not simply as attractive scenery but as settings for cultivation of the mind and body. Scholarly lineages connected the commemoration of past thinkers with the work of living students and teachers.\n\nThese were institutions of local intellectual elites, so their educational importance does not imply universal access. Their social and political activities also show why a school cannot be understood only by counting classrooms. The surviving buildings make visible a Korean adaptation of Neo-Confucian learning and ritual. The rounded date window highlights an influential founding phase; practices and institutional histories continued beyond it, and the representative point does not collapse the nine geographically separate academies into one site.",
+      "zh": "朝鲜王朝的书院连接学习、纪念与地方社会权威。联合国教科文组织遗产组合中的九座书院，大致建于十六世纪中叶至十七世纪中叶。它们是更广阔教育史的一组限定样本，并非全部书院的地图。\n\n地方士林学者围绕经典与受尊崇的教师组织学习。祠堂、讲学空间和亭阁为不同活动安排空间秩序。山水不只是赏景对象，也是修养身心的环境。学术传承将对前代思想家的纪念，同在世师生的工作连接起来。\n\n书院属于地方知识精英的机构，因此其教育意义不代表普遍入学机会。社会与政治活动也说明，不能仅通过教室数量理解学校。存世建筑呈现了新儒学知识与礼仪在韩国的地方转化。取整的年代突出具有影响的创办阶段；实践与机构历史在此后继续。代表性点位不把地理上分离的九座书院合并为一处。"
+    },
+    "dateNote": {
+      "en": "1550–1650 is a rounded mid-sixteenth to mid-seventeenth-century founding window, not exact dates for Sosu or all seowon.",
+      "zh": "1550—1650年为十六世纪中叶至十七世纪中叶创办阶段的取整范围，并非绍修书院或全部书院的精确年代。"
+    },
+    "sources": [
+      {
+        "title": "Seowon, Korean Neo-Confucian Academies",
+        "url": "https://whc.unesco.org/en/list/1498/",
+        "publisher": "UNESCO World Heritage Centre",
+        "evidenceNote": "Nine academies founded in the mid-sixteenth to mid-seventeenth centuries; local sarim, learning, veneration, landscape and scholarly lineages. This heritage selection is not all Korean education or a founding chronology for every academy.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text",
+        "retrievalStatus": "inspected-text"
+      }
+    ],
+    "relatedIds": [
+      "joseon-kingdom",
+      "person-shin-saimdang",
+      "hangul-promulgation"
+    ],
+    "keyFacts": {
+      "en": [
+        "Learning, veneration and landscape were integrated functions.",
+        "Nine heritage academies are a selected group, not the whole educational system."
+      ],
+      "zh": [
+        "学习、尊贤与景观是相互结合的功能。",
+        "九座遗产书院是选定组合，并非整个教育体系。"
+      ]
+    },
+    "expansion": {
+      "workstreams": [
+        "EA2"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "The UNESCO synthesis and its named academy components were inspected. This entry does not claim independent archival verification of each foundation date.",
+        "zh": "已查阅联合国教科文组织综合说明及所列书院构成；不声称独立核实每座书院的创办档案。"
+      }
+    }
+  },
+  {
+    "id": "korean-provisional-institutions",
+    "title": {
+      "en": "Korean government in exile: institutions without territorial rule",
+      "zh": "韩国流亡政府：没有实际领土统治的机构"
+    },
+    "start": 1919,
+    "end": 1945,
+    "region": "east-asia",
+    "theme": "states",
+    "kind": "idea",
+    "location": {
+      "lat": 31.22,
+      "lon": 121.47,
+      "label": "Shanghai; representative initial exile-government centre"
+    },
+    "locationPrecision": "representative",
+    "importance": 4,
+    "summary": {
+      "en": "The independence mobilization of 1919 produced several Korean provisional-government initiatives, including bodies associated with Shanghai, Seoul and the Russian Far East. Their coordination and consolidation required negotiation; a single unified institution did not simply appear fully formed on the day of the March First demonstrations.\n\nShanghai became an important centre for an assembly, an interim charter, offices and fundraising networks. Documents and photographs preserved by the National Institute of Korean History show the material work behind a claim to national representation: rented premises, overseas contributions, printed constitutional rules and named officeholders. The organization could articulate a republic without exercising ordinary governmental control over Korea under Japanese rule.\n\nWar later displaced the government through China, and its Chongqing phase included the Korean Liberation Army in 1940. Members returned after Japan’s defeat in 1945, but their exile institutions did not automatically become an internationally accepted government of the whole peninsula. Subsequent occupation and division created different political circumstances. The point marks the initial Shanghai setting, not sovereign Korean territory in China. This entry follows the exile phase and leaves constitutional succession claims distinct from demonstrated control on the ground.",
+      "zh": "1919年的独立动员产生了多个韩国临时政府倡议，包括与上海、首尔及俄国远东相关的组织。协调与整合需要谈判，不能认为三一示威当日就突然出现完整而统一的机构。\n\n上海成为议会、临时宪章、行政职务与筹款网络的重要中心。韩国国史编纂委员会保存的文件和照片，展示国家代表权主张背后的具体工作：租用办公地点、接受海外捐助、印刷宪制规则以及安排任职人员。组织能够提出共和国方案，却无法正常治理日本统治下的朝鲜半岛。\n\n战争后来迫使政府在中国境内迁移，重庆阶段包括1940年组织韩国光复军。日本战败后，成员于1945年返回，但流亡机构并未自动成为国际认可的全半岛政府。此后的占领与分裂带来不同政治条件。点位标示最初的上海环境，不表示中国境内存在韩国主权领土。本条聚焦流亡阶段，并把宪制继承主张与可证实的实际控制区分开来。"
+    },
+    "dateNote": {
+      "en": "1919–1945 frames the exile phase; 1945 is return after Japan’s defeat, not a claim that all institutional or legal continuity ended.",
+      "zh": "1919—1945年界定流亡阶段；1945年表示日本战败后的返回，不意味着一切机构或法律延续均告终。"
+    },
+    "sources": [
+      {
+        "title": "Provisional Government: period 1, 1919–1926",
+        "url": "https://contents.history.go.kr/photo/imsi/imsi_period01.do?lang=en",
+        "publisher": "National Institute of Korean History",
+        "evidenceNote": "Archival photos and captions: March First movement context; multiple 1919 provisional initiatives; Shanghai assembly and interim charter; overseas contributions and headquarters; later constitutional revision. Evidence is archival curation, not proof of effective territorial control.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text",
+        "retrievalStatus": "inspected-text"
+      },
+      {
+        "title": "Kim Gu and the Provisional Government, collection feature",
+        "url": "https://www.much.go.kr/webzine/vol33/sub/sub5.html",
+        "publisher": "National Museum of Korean Contemporary History",
+        "evidenceNote": "1919 police office; 1931 Korean Patriotic Corps and 1932 attacks; 1940 chairmanship/Liberation Army; 1945 return; 1948 Pyongyang talks and 1949 assassination. Korean text and collection captions inspected; speculative counterfactual ending excluded.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text",
+        "retrievalStatus": "inspected-text"
+      }
+    ],
+    "relatedIds": [
+      "person-kim-gu",
+      "korea-march-first-movement",
+      "korean-division"
+    ],
+    "keyFacts": {
+      "en": [
+        "Multiple provisional initiatives preceded consolidation.",
+        "A representative institution in exile is not the same as effective territorial rule."
+      ],
+      "zh": [
+        "整合之前存在多个临时政府倡议。",
+        "流亡代表机构与实际领土统治并不等同。"
+      ]
+    },
+    "expansion": {
+      "workstreams": [
+        "EA3"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "Relevant linked source passages inspected; original bilingual synthesis, without independent specialist review. Coordinates are representative anchors.",
+        "zh": "已查阅链接来源中的相关段落，并作原创双语综合；未经独立领域专家审阅。坐标为代表性参照。"
+      }
+    }
+  },
+  {
+    "id": "person-dewi-sartika",
+    "title": {
+      "en": "Dewi Sartika: sustaining girls’ schools through upheaval",
+      "zh": "德维·萨尔蒂卡：在动荡中维持女子学校"
+    },
+    "start": 1884,
+    "end": 1947,
+    "region": "southeast-asia",
+    "theme": "knowledge",
+    "kind": "person",
+    "location": {
+      "lat": -6.917,
+      "lon": 107.619,
+      "label": "Bandung; representative school centre"
+    },
+    "locationPrecision": "representative",
+    "importance": 4,
+    "summary": {
+      "en": "Dewi Sartika built a sustained educational project for girls in West Java. Childhood experiments in teaching later became organized schooling in Bandung, where Sakola Istri opened in 1904 with help from other women and local supporters. Reading, writing and arithmetic were part of a curriculum that made learning accessible within the social conditions of a colonial city.\n\nThe school became Keutamaan Istri in 1910 and developed practical subjects alongside literacy. Domestic and craft skills could create opportunities while also reflecting the gendered expectations that limited those opportunities. The creation of language streams in 1911 shows the practical choices behind institution-building: different forms of linguistic preparation carried different possibilities in colonial society.\n\nMaintaining the school demanded resources, not simply an inaugural declaration. Rising costs during the First World War and disruption during the Second World War tested its continuity. After the proclamation of Indonesian independence in 1945, fighting around Bandung forced Sartika to leave the city. Further displacement followed, and she died in 1947.\n\nHer biography connects the histories of women’s education and national independence without making one a mere prelude to the other. A school’s working life depended on teachers, supporters and students whose names are less prominent in commemoration. The selected milestones trace those institutional changes and the break caused by war. They do not imply that the school’s curriculum offered identical freedoms to every girl or that its founder worked alone.",
+      "zh": "德维·萨尔蒂卡在西爪哇建立了一项持续的女子教育事业。童年时的教学尝试，后来成为万隆有组织的办学；1904年，萨科拉·伊斯特里在其他女性及地方支持者协助下开办。读、写、算术构成课程的一部分，使学习能够在殖民城市的社会条件下展开。\n\n学校于1910年改称科乌塔马安·伊斯特里，在识字课程之外发展实用科目。家务与手工技能能够带来机会，同时也体现限制这些机会的性别期待。1911年设置不同语言教学部门，展示机构建设中的实际选择：殖民社会中的不同语言准备，关联着不同的可能性。\n\n维持学校需要资源，而不只是创办宣言。一战时期成本上涨，二战时期再遭扰乱。1945年印度尼西亚宣布独立后，万隆周边战事迫使萨尔蒂卡离城。此后继续流离，1947年去世。\n\n其传记连接女子教育与民族独立史，却不把前者仅仅写成后者的前奏。学校日常运转依赖教师、支持者和学生，其中许多人的名字在纪念中并不突出。所选节点追踪机构变化与战争造成的断裂，不暗示课程给每个女孩带来相同自由，也不把创办人描述为独自工作。"
+    },
+    "dateNote": {
+      "en": "1884–1947 lifespan; documented school milestones 1904–1911. Displacement followed independence in 1945, but the source does not give a precise departure year or fully verified route.",
+      "zh": "1884—1947年为生卒年；有记录的学校节点为1904—1911年。离散发生于1945年独立之后，但来源未给出精确离城年份或完整核实的路线。"
+    },
+    "sources": [
+      {
+        "title": "Dewi Sartika, pioneer of women’s education in West Java",
+        "url": "https://budaya.jogjaprov.go.id/berita/detail/1130-pahlawan-perintis-pendidikan-perempuan-jawa-barat-raden-dewi-sartika-1884-1947",
+        "publisher": "Yogyakarta Provincial Department of Culture",
+        "evidenceNote": "1884–1947; 1904 Sakola Istri, 1910 Keutamaan Istri and practical curriculum, 1911 language streams, war disruption and displacement after 1945. Full relevant institutional article inspected; inconsistent marriage-age calculation and typographical dates omitted.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text",
+        "retrievalStatus": "inspected-text"
+      }
+    ],
+    "relatedIds": [
+      "person-kartini",
+      "indonesian-youth-pledge",
+      "indonesian-independence"
+    ],
+    "keyFacts": {
+      "en": [
+        "The school combined literacy with practical subjects within colonial gender expectations.",
+        "War interrupted an educational institution built over decades."
+      ],
+      "zh": [
+        "学校在殖民时期的性别期待中结合识字与实用科目。",
+        "战争打断了数十年建立起来的教育机构。"
+      ]
+    },
+    "expansion": {
+      "workstreams": [
+        "SE3"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "The provincial culture department’s detailed biography was inspected. An Indonesian government monograph was identified, but its PDF timed out; it is not counted as independent verification.",
+        "zh": "已查阅省级文化部门的详细传记。发现印度尼西亚政府传记专著，但PDF读取超时，不计为独立核实。"
+      }
+    },
+    "name": {
+      "en": "Dewi Sartika",
+      "zh": "德维·萨尔蒂卡"
+    },
+    "milestones": [
+      {
+        "year": 1904,
+        "title": {
+          "en": "Sakola Istri opens",
+          "zh": "萨科拉·伊斯特里开办"
+        },
+        "description": {
+          "en": "Girls’ schooling began in Bandung with local support and fellow teachers.",
+          "zh": "在地方支持者与其他教师协助下，万隆女子学校开办。"
+        },
+        "location": {
+          "lat": -6.917,
+          "lon": 107.619,
+          "label": "Bandung; school setting"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1910,
+        "title": {
+          "en": "Keutamaan Istri",
+          "zh": "科乌塔马安·伊斯特里"
+        },
+        "description": {
+          "en": "The renamed school developed practical subjects alongside basic learning.",
+          "zh": "更名后的学校在基础学习外发展实用科目。"
+        },
+        "location": {
+          "lat": -6.917,
+          "lon": 107.619,
+          "label": "Bandung; school setting"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1911,
+        "title": {
+          "en": "Language streams",
+          "zh": "语言教学部门"
+        },
+        "description": {
+          "en": "Sundanese and Dutch/Malay teaching streams reflected different educational routes.",
+          "zh": "巽他语及荷兰语／马来语教学部门体现不同教育路径。"
+        },
+        "location": {
+          "lat": -6.917,
+          "lon": 107.619,
+          "label": "Bandung; school setting"
+        },
+        "approximate": false
+      }
+    ]
+  },
+  {
+    "id": "person-ho-chi-minh",
+    "title": {
+      "en": "Ho Chi Minh: exile, revolutionary organization and state leadership",
+      "zh": "胡志明：流亡、革命组织与国家领导"
+    },
+    "start": 1890,
+    "end": 1969,
+    "region": "southeast-asia",
+    "theme": "states",
+    "kind": "person",
+    "location": {
+      "lat": 21.03,
+      "lon": 105.85,
+      "label": "Hanoi; representative political centre"
+    },
+    "locationPrecision": "representative",
+    "importance": 4,
+    "summary": {
+      "en": "Ho Chi Minh’s political career developed through migration and revolutionary networks before he became a head of government. In 1911, using an earlier name, he left Saigon for maritime employment. Work and activism abroad connected an opponent of French colonial rule with communist organizations and with Vietnamese exiles. His activities in Guangzhou from 1924 illustrate the cross-border setting of that organizing.\n\nIn 1945 he proclaimed the Democratic Republic of Vietnam in Hanoi. Independence remained contested as French forces sought to restore authority and competing Vietnamese political projects persisted. A contemporary American diplomatic report from early 1946 records his appeals for outside support and his demand that French promises specify what independence would actually mean. The document reveals political argument and negotiation; it does not establish every assertion made in the appeals.\n\nAfter the 1954 settlement he remained president in the north. His public prominence should not obscure collective party leadership or the changing distribution of decision-making power. He died in 1969, before the end of the war and formal reunification.\n\nThe selected life points connect travel, organization, declarations and diplomacy rather than presenting an uninterrupted march toward a predetermined outcome. Memorial accounts are useful for objects and chronology but also cultivate a heroic image. Reading them beside contemporary diplomatic evidence helps distinguish what he sought, what he claimed and what institutions could actually achieve.",
+      "zh": "胡志明在成为政府领导人之前，其政治生涯已通过迁移与革命网络发展。1911年，他使用早年的姓名离开西贡，从事海上工作。海外劳动与活动，使反对法国殖民统治的他同共产党组织及越南流亡者建立联系。1924年起在广州的活动，展示这种组织工作的跨国环境。\n\n1945年，他在河内宣布成立越南民主共和国。法国军队试图恢复权威，越南内部也存在竞争性政治方案，独立仍受到争夺。1946年初一份美国外交报告记录了他寻求外部支持，以及要求法国具体说明“独立”含义的主张。这份文件展示政治论争与谈判，并不能证实其呼吁中的每一项断言。\n\n1954年的安排之后，他继续担任北方国家主席。其公众地位不应掩盖党内集体领导及决策权分配的变化。他于1969年去世，早于战争结束与正式统一。\n\n所选生涯节点连接旅行、组织、宣告与外交，而非描绘通向预定结局的连续胜利。纪念性记述能提供物件与年代信息，也塑造英雄形象；与同时代外交证据并读，有助于区分他的追求、主张以及机构实际能够实现的事情。"
+    },
+    "dateNote": {
+      "en": "1890–1969 lifespan. City points identify documented career settings; the entry does not reconstruct every pseudonym, journey or decision within collective leadership.",
+      "zh": "1890—1969年为生卒年。城市点位标示有记录的生涯背景，不重建每个化名、旅程或集体领导中的全部决策。"
+    },
+    "sources": [
+      {
+        "title": "Ho Chi Minh: ARTV08841 collection record",
+        "url": "https://www.awm.gov.au/collection/C103731",
+        "publisher": "Australian War Memorial",
+        "evidenceNote": "1890–1969; 1911 maritime work, exile activism, 1924 Guangzhou, 1930 organizing, 1945 Hanoi and later northern presidency. Curatorial biography inspected, with commemorative poster distinguished from the biography. Its compressed Saigon-renaming date is not adopted.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text",
+        "retrievalStatus": "inspected-text"
+      },
+      {
+        "title": "Ho Chi Minh Museum marks the leader’s imprints",
+        "url": "https://english.hochiminh.vn/news/ho-chi-minh-museum-marks-great-leaders-imprints-1724",
+        "publisher": "Communist Party of Vietnam, reporting Ho Chi Minh Museum exhibition",
+        "evidenceNote": "Museum exhibition report inspected for 5 June 1911 departure from Nha Rong wharf aboard the Amiral Latouche Treville. Claims of personal motives are not taken as independently established.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text",
+        "retrievalStatus": "inspected-text"
+      },
+      {
+        "title": "Landon to the Secretary of State, received 27 February 1946",
+        "url": "https://history.state.gov/historicaldocuments/frus1946v08/d26",
+        "publisher": "US Department of State, Foreign Relations of the United States",
+        "evidenceNote": "Contemporary diplomatic report on Ho’s discussions with French representatives and delivery of appeals for international support; records his account of the 2 September 1945 declaration. Statements attributed to Ho are not proof that all assertions in his petition were true.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text",
+        "retrievalStatus": "inspected-text"
+      }
+    ],
+    "relatedIds": [
+      "dien-bien-phu",
+      "person-nguyen-thi-binh",
+      "vietnam-formal-reunification"
+    ],
+    "keyFacts": {
+      "en": [
+        "Exile networks preceded the 1945 declaration in Hanoi.",
+        "Contemporary appeals show contested meanings of independence."
+      ],
+      "zh": [
+        "流亡网络先于1945年河内的独立宣告。",
+        "同时代呼吁呈现对独立含义的争夺。"
+      ]
+    },
+    "expansion": {
+      "workstreams": [
+        "SE3"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "Relevant linked source passages inspected; original bilingual synthesis, without independent specialist review. Coordinates are representative anchors.",
+        "zh": "已查阅链接来源中的相关段落，并作原创双语综合；未经独立领域专家审阅。坐标为代表性参照。"
+      }
+    },
+    "name": {
+      "en": "Ho Chi Minh",
+      "zh": "胡志明"
+    },
+    "milestones": [
+      {
+        "year": 1911,
+        "title": {
+          "en": "Departure for maritime work",
+          "zh": "离港从事海上工作"
+        },
+        "description": {
+          "en": "He departed from Nha Rong wharf in Saigon aboard the Amiral Latouche Treville.",
+          "zh": "他从西贡芽龙码头乘拉图什—特雷维尔海军上将号离开。"
+        },
+        "location": {
+          "lat": 10.769,
+          "lon": 106.707,
+          "label": "Nha Rong wharf, Saigon; departure setting"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1924,
+        "title": {
+          "en": "Organizing in Guangzhou",
+          "zh": "在广州组织活动"
+        },
+        "description": {
+          "en": "He worked among Vietnamese exiles in Guangzhou within international revolutionary networks.",
+          "zh": "他在国际革命网络中，于广州的越南流亡者之间开展工作。"
+        },
+        "location": {
+          "lat": 23.13,
+          "lon": 113.26,
+          "label": "Guangzhou; exile-organizing setting"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1945,
+        "title": {
+          "en": "Declaration in Hanoi",
+          "zh": "在河内宣布建国"
+        },
+        "description": {
+          "en": "He proclaimed the Democratic Republic of Vietnam after Japan’s defeat.",
+          "zh": "日本战败后，他宣布成立越南民主共和国。"
+        },
+        "location": {
+          "lat": 21.03,
+          "lon": 105.85,
+          "label": "Hanoi; declaration setting"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1946,
+        "title": {
+          "en": "Appeals and negotiations",
+          "zh": "呼吁与谈判"
+        },
+        "description": {
+          "en": "A US diplomatic report recorded his appeals for international support and questions about French terms for independence.",
+          "zh": "美国外交报告记录其寻求国际支持的呼吁，以及对法国所提独立条件的质疑。"
+        },
+        "location": {
+          "lat": 21.03,
+          "lon": 105.85,
+          "label": "Hanoi; diplomatic setting"
+        },
+        "approximate": false
+      }
+    ]
+  },
+  {
+    "id": "person-nguyen-thi-binh",
+    "title": {
+      "en": "Nguyễn Thị Bình: diplomacy, education and public office",
+      "zh": "阮氏萍：外交、教育与公共职务"
+    },
+    "start": 1968,
+    "end": 2002,
+    "region": "southeast-asia",
+    "theme": "states",
+    "kind": "person",
+    "location": {
+      "lat": 21.03,
+      "lon": 105.85,
+      "label": "Hanoi; representative later public-office setting"
+    },
+    "locationPrecision": "representative",
+    "importance": 4,
+    "summary": {
+      "en": "Nguyễn Thị Bình became internationally visible through the Paris negotiations over the Vietnam War. In 1968 she served as deputy leader of the National Liberation Front’s delegation. She subsequently represented the Provisional Revolutionary Government of the Republic of South Vietnam as foreign minister and delegation leader. Her role illustrates how revolutionary movements sought political recognition through diplomacy as well as through warfare.\n\nShe signed the Paris agreement on 27 January 1973. Two pens later donated by her to the Southern Women’s Museum provide a material connection to that act. The objects identify a participant and a moment of negotiation; they do not imply that signing immediately resolved all the conflicts represented at the table. The agreement and Vietnam’s later reunification belong to connected but distinct historical episodes.\n\nHer public career continued after the war. She served as education minister from 1976 to 1987, held senior foreign-affairs responsibilities, and was vice-president from 1992 to 2002. These roles broaden the biography beyond a single widely reproduced photograph of a diplomat signing a document.\n\nMuseum displays and official commemorations emphasize courage and national achievement. This entry uses their documented objects and office chronology without treating their praise as an independent evaluation of every policy or negotiation. It follows a bounded public career, not a completed lifespan, and places Paris diplomacy alongside the less visually dramatic work of education and government administration.",
+      "zh": "阮氏萍通过围绕越南战争的巴黎谈判进入国际公众视野。1968年，她担任民族解放阵线代表团副团长，后来以越南南方共和国临时革命政府外交部长和代表团团长身份参加谈判。她的角色展示革命运动如何既通过战争，也通过外交寻求政治承认。\n\n1973年1月27日，她签署巴黎协定。她后来捐赠给南部妇女博物馆的两支笔，与这一行为建立物质联系。物件能够确认参与者和谈判时刻，却不表示签字立即解决了谈判桌所涉及的全部冲突。协定与越南后来的统一，是相关但不同的历史阶段。\n\n其公共生涯在战后继续。1976至1987年任教育部长，此后担任高级外事职务，1992至2002年任国家副主席。这些工作使传记超越一张被广泛转载的外交官签字照片。\n\n博物馆展览与官方纪念强调勇气及国家成就。本条采用其中有记录的物件与任职年代，不把赞颂视为对每项政策或谈判的独立评价。它聚焦有界限的公共事业，而非完整生卒，并把巴黎外交同视觉上不那么醒目的教育和政府行政工作并置。"
+    },
+    "dateNote": {
+      "en": "1968–2002 is a selected public-career window, not a lifespan. Hanoi marks government context; Paris marks negotiations, not permanent residence.",
+      "zh": "1968—2002年是选定的公共生涯范围，并非生卒年。河内标示政府背景，巴黎标示谈判而非永久居所。"
+    },
+    "sources": [
+      {
+        "title": "Nguyễn Thị Bình and the historic pen",
+        "url": "https://baotangphunu.com/ba-nguyen-thi-binh-va-cay-but-lich-su/",
+        "publisher": "Southern Women’s Museum, Ho Chi Minh City",
+        "evidenceNote": "1968 Paris delegation role, subsequent PRG foreign ministry, 27 January 1973 signature, and 1985 donation of two signing pens. Object custody and relevant biographical passages inspected; praise and disputed birth location are excluded.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text",
+        "retrievalStatus": "inspected-text"
+      },
+      {
+        "title": "Opening of the Nguyễn Thị Bình exhibition",
+        "url": "https://baovanhoa.vn/van-hoa/khai-mac-trung-bay-chuyen-de-nguyen-thi-binh-tri-tue-ban-linh-va-nhan-cach-phu-nu-viet-nam-thoi-dai-ho-chi-minh-200673.html",
+        "publisher": "Văn Hóa, Ministry of Culture, Sports and Tourism newspaper",
+        "evidenceNote": "Report of the 2026 War Remnants Museum exhibition inspected: education ministry 1976–1987, foreign-affairs roles 1987–1992, vice-presidency 1992–2002. Evidence for office chronology, not an independent assessment of diplomatic effectiveness.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text",
+        "retrievalStatus": "inspected-text"
+      }
+    ],
+    "relatedIds": [
+      "person-ho-chi-minh",
+      "vietnam-formal-reunification",
+      "vietnam-doi-moi-reform"
+    ],
+    "keyFacts": {
+      "en": [
+        "Her role changed from NLF deputy delegate to PRG foreign minister and signatory.",
+        "Later office included education and the vice-presidency."
+      ],
+      "zh": [
+        "其角色从民族解放阵线副代表转为临时革命政府外长与签署者。",
+        "后来的职务包括教育部长与国家副主席。"
+      ]
+    },
+    "expansion": {
+      "workstreams": [
+        "SE3"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "Object custody and office chronology were inspected in Vietnamese institutional sources. These belong to related national commemorative contexts, not independent assessments of negotiating effectiveness; the scope ends in 2002.",
+        "zh": "已查阅越南机构来源中的物件保管与任职年代。这些来源属于相互关联的国家纪念背景，并非对谈判成效的独立评价；范围止于2002年。"
+      }
+    },
+    "name": {
+      "en": "Nguyễn Thị Bình",
+      "zh": "阮氏萍"
+    },
+    "milestones": [
+      {
+        "year": 1968,
+        "title": {
+          "en": "Paris delegation",
+          "zh": "巴黎代表团"
+        },
+        "description": {
+          "en": "She served as deputy leader of the NLF delegation in Paris.",
+          "zh": "担任赴巴黎的民族解放阵线代表团副团长。"
+        },
+        "location": {
+          "lat": 48.86,
+          "lon": 2.3,
+          "label": "Paris; negotiation setting"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1973,
+        "title": {
+          "en": "Signing the Paris agreement",
+          "zh": "签署巴黎协定"
+        },
+        "description": {
+          "en": "She signed on 27 January as foreign minister of the Provisional Revolutionary Government.",
+          "zh": "她于1月27日以临时革命政府外交部长身份签署。"
+        },
+        "location": {
+          "lat": 48.86,
+          "lon": 2.3,
+          "label": "Paris; signing context"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1976,
+        "title": {
+          "en": "Education ministry",
+          "zh": "教育部任职"
+        },
+        "description": {
+          "en": "She began service as education minister, a role she held until 1987.",
+          "zh": "开始担任教育部长，至1987年。"
+        },
+        "location": {
+          "lat": 21.03,
+          "lon": 105.85,
+          "label": "Hanoi; representative ministerial setting"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1992,
+        "title": {
+          "en": "Vice-presidency",
+          "zh": "担任国家副主席"
+        },
+        "description": {
+          "en": "She began the vice-presidential period that continued to 2002.",
+          "zh": "开始至2002年结束的国家副主席任期。"
+        },
+        "location": {
+          "lat": 21.03,
+          "lon": 105.85,
+          "label": "Hanoi; representative public-office setting"
+        },
+        "approximate": false
+      }
+    ],
+    "aliases": [
+      "Nguyen Thi Binh"
+    ]
+  },
+  {
+    "id": "person-josefa-llanes-escoda",
+    "title": {
+      "en": "Josefa Llanes Escoda: education, organizing and wartime service",
+      "zh": "何塞法·利亚内斯·埃斯科达：教育、组织与战时服务"
+    },
+    "start": 1919,
+    "end": 1945,
+    "region": "southeast-asia",
+    "theme": "culture",
+    "kind": "person",
+    "location": {
+      "lat": 14.59,
+      "lon": 120.98,
+      "label": "Manila; representative teaching and organizing centre"
+    },
+    "locationPrecision": "representative",
+    "importance": 4,
+    "summary": {
+      "en": "Josefa Llanes Escoda’s public life joined teaching, women’s organizations and community service. Teacher training in Manila in 1919 preceded further study in the United States, including Columbia University in 1925. These educational experiences became resources for work at home rather than an isolated personal success story.\n\nShe helped develop the Girl Scouts of the Philippines, whose national charter was approved in 1940. The organization gave girls a setting for practical training, cooperation and service. Her involvement in women’s clubs and the campaign for political participation placed this work within a wider movement for women to act in public life. The 1937 suffrage plebiscite belongs to that collective history and cannot be credited to one organizer alone.\n\nDuring the war and Japanese occupation, Escoda continued support work for fellow Filipinos. She was arrested in August 1944 and imprisoned at Fort Santiago. Accounts record a final sighting in January 1945; the exact circumstances of her killing and burial remain uncertain. A careful biography must preserve that uncertainty rather than turning a last-seen date into a documented execution date.\n\nLater institutional commemorations disagree even on her birth year. This entry therefore follows the better-documented career from training to wartime disappearance. The contrast between school, civic association and prison shows how organized community service could become politically consequential in a colonial society and exceptionally dangerous under military occupation.",
+      "zh": "何塞法·利亚内斯·埃斯科达的公共生活连接教学、妇女组织与社区服务。1919年在马尼拉接受师资训练后，她又赴美国深造，包括1925年在哥伦比亚大学学习。这些教育经历成为返乡工作的资源，而非孤立的个人成功故事。\n\n她参与发展菲律宾女童军，其全国性组织章程于1940年获批准。组织为女孩提供实用训练、合作与服务的环境。她参与妇女俱乐部及政治参与运动，使这些工作成为女性进入公共生活的更广泛进程的一部分。1937年妇女选举权公投属于集体历史，不能归功于某一位组织者。\n\n战争与日本占领期间，她继续为同胞提供支持。1944年8月被捕，关押于圣地亚哥堡。记述中最后一次见到她是在1945年1月；具体遇害及安葬情况仍不确定。谨慎的传记必须保留这种不确定性，不把最后目击日期改写为已获证实的处决日期。\n\n后来的机构纪念甚至对其出生年也有分歧。因此，本条采用从师资训练至战时失踪的、记录较明确的生涯范围。学校、公民协会与监狱之间的变化，展示有组织的社区服务如何在殖民社会产生政治影响，并在军事占领下变得极其危险。"
+    },
+    "dateNote": {
+      "en": "1919–1945 is a career window. Institutional sources give different birth years, and a January 1945 last sighting is not an established execution date or grave location.",
+      "zh": "1919—1945年为职业生涯范围。机构来源给出不同出生年；1945年1月最后目击不等于已经确定的处决日期或墓地。"
+    },
+    "sources": [
+      {
+        "title": "Llanes Escoda, Josefa",
+        "url": "https://philippineculturaleducation.com.ph/llanes-escoda-josefa/",
+        "publisher": "Sagisag Kultura, National Commission for Culture and the Arts",
+        "evidenceNote": "1919 teacher training, 1925 Columbia study, Girl Scouts charter 26 May 1940, 1944 arrest, last sighting January 1945 and uncertain burial. Filipino text inspected. Birth year differs from the NHCP report; the entry uses a career window.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text",
+        "retrievalStatus": "inspected-text"
+      },
+      {
+        "title": "Historical marker for Josefa Llanes Escoda",
+        "url": "https://pia.gov.ph/news/nhcp-unveils-historical-marker-for-activist-and-martyr-josefa-llanes-escoda-on-her-128th-birth-anniversary/",
+        "publisher": "National Historical Commission of the Philippines via Philippine Information Agency",
+        "evidenceNote": "Educator, women’s organizing, wartime support, August 1944 imprisonment and final sighting in 1945. Report inspected. Its birth-year and suffrage-act numbering differ from other evidence; neither is adopted as settled.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text",
+        "retrievalStatus": "inspected-text"
+      }
+    ],
+    "relatedIds": [
+      "philippines-women-suffrage-1937",
+      "philippines-independence-1946",
+      "singapore-occupation-civilian-experience"
+    ],
+    "keyFacts": {
+      "en": [
+        "Civic organizations linked education with public participation.",
+        "Her final sighting and her execution must not be treated as the same verified event."
+      ],
+      "zh": [
+        "公民组织连接教育与公共参与。",
+        "最后目击与处决不能被视为同一个已核实事件。"
+      ]
+    },
+    "expansion": {
+      "workstreams": [
+        "SE3"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "Relevant linked source passages inspected; original bilingual synthesis, without independent specialist review. Coordinates are representative anchors.",
+        "zh": "已查阅链接来源中的相关段落，并作原创双语综合；未经独立领域专家审阅。坐标为代表性参照。"
+      }
+    },
+    "name": {
+      "en": "Josefa Llanes Escoda",
+      "zh": "何塞法·利亚内斯·埃斯科达"
+    },
+    "milestones": [
+      {
+        "year": 1919,
+        "title": {
+          "en": "Teacher training",
+          "zh": "师资训练"
+        },
+        "description": {
+          "en": "She completed teacher training at the Philippine Normal School.",
+          "zh": "她在菲律宾师范学校完成师资训练。"
+        },
+        "location": {
+          "lat": 14.59,
+          "lon": 120.98,
+          "label": "Manila; teacher-training setting"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1925,
+        "title": {
+          "en": "Further study in New York",
+          "zh": "在纽约继续学习"
+        },
+        "description": {
+          "en": "Columbia study formed part of her overseas educational preparation.",
+          "zh": "哥伦比亚大学学习构成其海外教育准备的一部分。"
+        },
+        "location": {
+          "lat": 40.807,
+          "lon": -73.962,
+          "label": "Columbia University, New York; study setting"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1940,
+        "title": {
+          "en": "Girl Scouts national charter",
+          "zh": "女童军全国组织章程"
+        },
+        "description": {
+          "en": "The Girl Scouts organization she helped build received its national charter.",
+          "zh": "她参与建立的女童军组织取得全国性章程。"
+        },
+        "location": {
+          "lat": 14.59,
+          "lon": 120.98,
+          "label": "Manila; organizational context"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1944,
+        "title": {
+          "en": "Arrest and imprisonment",
+          "zh": "被捕与监禁"
+        },
+        "description": {
+          "en": "Japanese forces arrested her in August; she was held at Fort Santiago.",
+          "zh": "日本军队于8月逮捕她，关押于圣地亚哥堡。"
+        },
+        "location": {
+          "lat": 14.595,
+          "lon": 120.97,
+          "label": "Fort Santiago, Manila; detention site"
+        },
+        "approximate": false
+      }
+    ]
+  },
+  {
+    "id": "ifugao-rice-landscape",
+    "title": {
+      "en": "Ifugao terraces: agricultural change and Indigenous adaptation",
+      "zh": "伊富高梯田：农业变化与原住民适应"
+    },
+    "start": 1600,
+    "end": 1900,
+    "region": "southeast-asia",
+    "theme": "cities",
+    "kind": "culture",
+    "location": {
+      "lat": 16.79,
+      "lon": 121.11,
+      "label": "Old Kiyyangan/Kiangan region; representative archaeological anchor"
+    },
+    "locationPrecision": "representative",
+    "importance": 4,
+    "summary": {
+      "en": "Ifugao rice landscapes depend on relationships among fields, water, forests, households and ritual. Terrace walls and irrigation require continuing work; the landscape is produced through repeated maintenance rather than a single act of construction. Its history therefore involves the knowledge and choices of communities as well as the age of visible structures.\n\nChronology is contested. Older heritage descriptions present the famous wet-rice terraces as roughly two thousand years old and largely unchanged. Research by the Ifugao Archaeological Project instead connects major wet-rice intensification around the seventeenth century with Spanish colonial pressure in the lowlands. Radiocarbon evidence, plant remains and historical comparison support a history of Indigenous adaptation, not a claim that people first occupied the highlands at that time.\n\nThe date window here follows that later intensification perspective while recognizing that individual terrace clusters developed differently. The UNESCO property’s five clusters are only part of a wider cultural landscape. Modern fieldwork in collaboration with communities also cautions against treating the terraces as a frozen monument. Their survival depends on living practices, and an archaeological revision of their age need not diminish the skill, autonomy or historical importance of the people who made them.",
+      "zh": "伊富高稻作景观依靠田地、水、森林、家庭与礼仪之间的关系。梯田墙和灌溉需要持续劳动；景观通过反复维护形成，并非单一建造行为的结果。因此，其历史既涉及可见结构的年代，也涉及社区的知识与选择。\n\n年代存在争论。较早的遗产说明把著名水稻梯田描述为约两千年前形成、基本未变。伊富高考古项目的研究则将十七世纪前后大规模水稻生产强化，同低地的西班牙殖民压力联系起来。放射性碳证据、植物遗存及历史比较，支持原住民主动适应的历史，而不是声称人们到那时才开始居住高地。\n\n这里的年代范围采用较晚强化阶段的解释，同时承认各梯田群发展不同。联合国教科文组织遗产中的五个群落，只是更广大文化景观的一部分。与社区合作的现代田野研究，也提醒人们不要将梯田视为冻结的纪念物。其存续依靠活的实践；修正考古年代，并不削弱建造者的技能、自主性或历史重要性。"
+    },
+    "dateNote": {
+      "en": "1600–1900 is an approximate interpretive window for wet-rice intensification and its colonial context, not the first settlement or a universal terrace construction interval.",
+      "zh": "1600—1900年为水稻生产强化及殖民背景的近似解释范围，并非最初定居年代，也非所有梯田共同施工期。"
+    },
+    "sources": [
+      {
+        "title": "Research: Ifugao Archaeological Project",
+        "url": "https://www.ifugao-archaeological-project.org/research.html",
+        "publisher": "Ifugao Archaeological Project",
+        "evidenceNote": "Research team’s radiocarbon, archaeobotanical and ethnohistorical synthesis: major wet-rice terrace expansion around the seventeenth century in relation to Spanish lowland intrusion; community collaboration and continuing adaptation.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text",
+        "retrievalStatus": "inspected-text"
+      },
+      {
+        "title": "Rice Terraces of the Philippine Cordilleras",
+        "url": "https://whc.unesco.org/en/list/722/",
+        "publisher": "UNESCO World Heritage Centre",
+        "evidenceNote": "Five named terrace clusters; water/forest/field relations and community maintenance. Its older two-thousand-year unchanged-terrace chronology conflicts with recent project research and is explicitly not adopted.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text",
+        "retrievalStatus": "inspected-text"
+      }
+    ],
+    "relatedIds": [
+      "bali-subak-water-institutions",
+      "manila-galleon-exchange",
+      "philippine-american-war"
+    ],
+    "keyFacts": {
+      "en": [
+        "Recent research distinguishes terrace intensification from the first highland occupation.",
+        "The older two-thousand-year chronology is not silently repeated as settled fact."
+      ],
+      "zh": [
+        "近期研究区分梯田生产强化与高地最初居住。",
+        "不把较早的两千年说法无说明地当作定论。"
+      ]
+    },
+    "expansion": {
+      "workstreams": [
+        "SE2"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "Relevant linked source passages inspected; original bilingual synthesis, without independent specialist review. Coordinates are representative anchors.",
+        "zh": "已查阅链接来源中的相关段落，并作原创双语综合；未经独立领域专家审阅。坐标为代表性参照。"
+      }
+    }
+  },
+  {
+    "id": "ban-chiang-village-archaeology",
+    "title": {
+      "en": "Ban Chiang: village life through pots, metals and burials",
+      "zh": "班清：通过陶器、金属与墓葬认识村落生活"
+    },
+    "start": -2100,
+    "end": 200,
+    "region": "southeast-asia",
+    "theme": "knowledge",
+    "kind": "culture",
+    "location": {
+      "lat": 17.407,
+      "lon": 103.235,
+      "label": "Ban Chiang; representative settlement and cemetery mound"
+    },
+    "locationPrecision": "representative",
+    "importance": 4,
+    "summary": {
+      "en": "Ban Chiang in northeastern Thailand preserves residential and mortuary deposits through which archaeologists investigate village life. Pottery, metal objects, animal remains and plant evidence offer different routes into questions about production, food and social relationships. The site matters without needing to call it the first civilization or earliest farming community in all Southeast Asia.\n\nThe Ban Chiang Project’s published ceramic framework spans approximately 2100 BCE to 200 CE. Within it, vessel forms and burial uses change: some pots contain traces of cooking, while many reconstructible vessels came from graves. The familiar red-painted pottery belongs particularly to the later part of the sequence, so it cannot stand for every phase of the settlement.\n\nComparisons with nearby sites reveal regional styles alongside evidence of exchange. Distinctive pottery need not mean isolation, and a metal object alone does not demonstrate a centralized state. The Thai–Penn excavations and subsequent analytical work also show why context matters: the location of a pot relative to a burial or occupation layer carries information that an unprovenanced market object loses. The displayed dates follow a named project framework, with no claim that every chronological question has been resolved.",
+      "zh": "泰国东北部班清保存居住与墓葬堆积，考古学家据此研究村落生活。陶器、金属物、动物遗存和植物证据，为生产、食物及社会关系提供不同研究路径。遗址的重要性，无须依靠“全东南亚最早文明”或“最早农业社区”等称号。\n\n班清项目发表的陶器年代框架约为公元前2100年至公元200年。其中器形与随葬方式发生变化：一些陶器带有炊煮痕迹，许多可复原器物则出自墓葬。广为人知的红彩陶主要属于序列后期，不能代表聚落所有阶段。\n\n同邻近遗址比较，可见地区风格与交流证据并存。陶器独特不等于孤立，一件金属物也不能证明中央集权国家。泰国与宾夕法尼亚团队的发掘及后续分析，亦显示出土背景为何重要：器物相对于墓葬或居住层的位置，包含无来源市场古物所失去的信息。显示年代遵循明确命名的项目框架，不声称全部年代问题已解决。"
+    },
+    "dateNote": {
+      "en": "Approximately 2100 BCE–200 CE follows the Ban Chiang Project’s ceramic chronology; it is a research framework, not precise universal dates for regional farming or metalworking.",
+      "zh": "约公元前2100年至公元200年依据班清项目陶器年代框架，不是整个地区农业或冶金的精确共同年代。"
+    },
+    "sources": [
+      {
+        "title": "Ban Chiang Project",
+        "url": "https://www.penn.museum/research/project.php?pid=10",
+        "publisher": "Penn Museum",
+        "evidenceNote": "Residential and mortuary mound, Thai–Penn excavations of 1974–1975, pottery/metal/botanical study and archaeological context. Superlatives about earliest/most important civilization are not used.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text",
+        "retrievalStatus": "inspected-text"
+      },
+      {
+        "title": "Ban Chiang Project: Current Work",
+        "url": "https://iseaarchaeology.org/ban-chiang-project/current-work/",
+        "publisher": "Institute for Southeast Asian Archaeology",
+        "evidenceNote": "Project chronology of ceramics, 2100 BCE–200 CE; early/middle/late forms; late red-painted pottery, cooking traces and burial context; regional style variation amid exchange. This is a project chronology, not independent corroboration of the Penn team.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text",
+        "retrievalStatus": "inspected-text"
+      }
+    ],
+    "relatedIds": [
+      "dong-son-bronze-networks",
+      "plain-jars-dating-reuse",
+      "pyu-irrigated-cities"
+    ],
+    "keyFacts": {
+      "en": [
+        "The well-known red-painted pottery represents a later phase.",
+        "Excavation context is evidence that looted objects cannot replace."
+      ],
+      "zh": [
+        "著名红彩陶代表较晚阶段。",
+        "发掘背景提供盗掘器物无法替代的证据。"
+      ]
+    },
+    "expansion": {
+      "workstreams": [
+        "SE1"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "Penn Museum and ISEAA describe the same research programme and are not independent chronological confirmation. No earliest-metallurgy ranking is asserted.",
+        "zh": "宾夕法尼亚博物馆与ISEAA介绍的是同一研究计划，并非独立年代确认；不提出最早冶金排名。"
+      }
+    }
+  },
+  {
+    "id": "plain-jars-dating-reuse",
+    "title": {
+      "en": "Laos’s stone jars: emplacement, burial and reuse",
+      "zh": "老挝石缸：安置、墓葬与再利用"
+    },
+    "start": -1240,
+    "end": 1300,
+    "region": "southeast-asia",
+    "theme": "culture",
+    "kind": "place",
+    "location": {
+      "lat": 19.43,
+      "lon": 103.15,
+      "label": "Xieng Khouang jar landscape; regional anchor, not a sampled-jar coordinate"
+    },
+    "locationPrecision": "representative",
+    "importance": 4,
+    "summary": {
+      "en": "The stone-jar landscapes of Xieng Khouang contain large carved vessels, stone discs, burial remains and quarry evidence. Their distribution across hills and valleys makes them a regional archaeological problem rather than a single monument. Moving stone from quarry to place required knowledge and labour, but the evidence does not yet identify one securely named people or polity behind every site.\n\nDating has changed the questions. A 2021 study used optically stimulated luminescence from sediment beneath sampled jars at Site 2 to suggest placement between 1240 and 660 BCE. Radiocarbon dates for other remains indicated mortuary activity in the ninth to thirteenth centuries CE. These measurements concern different materials and events. They support investigation of reuse; they do not demonstrate uninterrupted practice by one culture over the entire interval.\n\nThe newer results differ from the simpler Iron Age range in the heritage description. This entry therefore preserves both the uncertainty and the distinction between jar emplacement and later burial. Its broad display window joins the earliest sampled placement estimate to later documented use, with no claim that all jars share those dates. The related history of unexploded ordnance further reminds readers that modern access conditions shape what archaeologists can study.",
+      "zh": "川圹的石缸景观包含大型雕凿石器、石盘、墓葬遗存与采石场证据。它们分布于山丘和谷地，是区域性考古问题，而非单一纪念物。从采石场运输石材需要知识与劳动，但证据尚不能把所有遗址归于一个有可靠名称的族群或政体。\n\n测年改变了问题。2021年的研究使用第二号遗址部分石缸下方沉积物的光释光测年，推测石缸在公元前1240至前660年间安置。其他遗存的放射性碳年代，则指向公元九至十三世纪的丧葬活动。这些测量针对不同材料和事件，支持研究再利用，却不能证明整个区间由同一文化连续实践。\n\n新结果不同于遗产说明中较简化的铁器时代范围。因此，本条保留不确定性，并区分石缸安置与后来的墓葬。较宽的显示范围连接最早样本安置估计与较晚的有记录使用，不声称全部石缸共有这些日期。相关未爆弹历史也提醒读者，现代进入现场的条件影响考古学家能够研究什么。"
+    },
+    "dateNote": {
+      "en": "1240 BCE is the early edge of a 1240–660 BCE sample estimate; 1300 CE rounds later ninth–thirteenth-century burial evidence. The interval does not establish continuous use or one culture.",
+      "zh": "公元前1240年为前1240—前660年样本估计的较早边界；公元1300年为九至十三世纪墓葬证据的取整终点。区间不证明连续使用或单一文化。"
+    },
+    "sources": [
+      {
+        "title": "Megalithic Jar Sites in Xiengkhuang – Plain of Jars",
+        "url": "https://whc.unesco.org/en/list/1587/",
+        "publisher": "UNESCO World Heritage Centre",
+        "evidenceNote": "Multiple jar sites, quarries, stone discs and burial evidence. Heritage description uses an older 500 BCE–500 CE scheme; newer scientific dating is treated separately rather than silently merged.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text",
+        "retrievalStatus": "inspected-text"
+      },
+      {
+        "title": "Dating the megalithic culture of Laos",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247167",
+        "publisher": "Louise Shewan, Dougald O’Reilly and colleagues, PLOS ONE (2021)",
+        "evidenceNote": "Abstract, dating discussion and conclusions inspected: OSL under sampled jars at Site 2 suggests placement 1240–660 BCE; radiocarbon evidence indicates ninth–thirteenth-century CE mortuary use; quarry provenance, reuse and sampling limits. These dates do not establish one continuous culture across all sites.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text",
+        "retrievalStatus": "inspected-text"
+      }
+    ],
+    "relatedIds": [
+      "ban-chiang-village-archaeology",
+      "laos-bombing-uxo-legacy",
+      "lan-xang-river-kingdom"
+    ],
+    "keyFacts": {
+      "en": [
+        "Jar placement and surrounding burials require different dating arguments.",
+        "Sampled sites cannot automatically date every jar across Laos."
+      ],
+      "zh": [
+        "石缸安置与周边墓葬需要不同年代论证。",
+        "不能用部分遗址样本自动确定老挝所有石缸年代。"
+      ]
+    },
+    "expansion": {
+      "workstreams": [
+        "SE1"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "Relevant linked source passages inspected; original bilingual synthesis, without independent specialist review. Coordinates are representative anchors.",
+        "zh": "已查阅链接来源中的相关段落，并作原创双语综合；未经独立领域专家审阅。坐标为代表性参照。"
+      }
+    }
+  },
+  {
+    "id": "philippines-women-suffrage-1937",
+    "title": {
+      "en": "Philippine women and the 1937 suffrage plebiscite",
+      "zh": "菲律宾妇女与1937年选举权公投"
+    },
+    "start": 1936,
+    "end": 1937,
+    "region": "southeast-asia",
+    "theme": "states",
+    "kind": "event",
+    "location": {
+      "lat": 14.59,
+      "lon": 120.98,
+      "label": "Manila; representative legislative centre, nationwide vote"
+    },
+    "locationPrecision": "representative",
+    "importance": 4,
+    "summary": {
+      "en": "The extension of suffrage to Philippine women required both organizing and a specially designed plebiscite. Commonwealth Act No. 34, approved in 1936, scheduled the vote for 30 April 1937. It required at least three hundred thousand affirmative votes by qualified women before women could participate in subsequent elections under the specified conditions.\n\nThe law reveals more than a date. It set age and residence requirements, incorporated existing voter qualifications, and assigned a role to women’s clubs in providing polling-place watchers. Notices and copies of constitutional provisions were to be made available in English and Spanish, with local-language versions where practicable. These details show how a political right was implemented through lists, information and local organization.\n\nThe successful plebiscite extended women’s electoral participation, but did not remove every restriction on voting or every inequality in public life. It also followed collective campaigning rather than the achievement of one official or activist. Linked to Josefa Llanes Escoda’s civic work, the episode shows how associations developed capacities that could support both community service and political mobilization. The Manila point represents the legislative setting; voting took place across the country.",
+      "zh": "菲律宾妇女选举权的扩展，既需要组织工作，也经过专门设计的公投。1936年批准的第34号联邦法规定于1937年4月30日投票，要求具备资格的妇女至少投出三十万张赞成票，妇女才能依规定条件参与后续选举。\n\n法律不仅提供日期。它规定年龄与居住要求，纳入既有选民资格，并安排妇女俱乐部提供投票站观察员。宪法条款及通知须提供英语和西班牙语版本，在可行处也提供地方语言版本。这些细节展示，政治权利如何通过名册、信息与地方组织落实。\n\n公投成功扩展了妇女的选举参与，但没有取消一切投票限制，也没有消除公共生活中的全部不平等。它更是集体动员的成果，而非单一官员或活动者的功劳。与埃斯科达的公民工作相联系，可以看到协会如何形成同时支持社区服务与政治动员的能力。马尼拉点位代表立法背景，投票则遍及全国。"
+    },
+    "dateNote": {
+      "en": "1936 authorizing law and 1937 plebiscite; the vote occurred on 30 April 1937. The point is legislative, not a claim that voting was confined to Manila.",
+      "zh": "1936年授权立法与1937年公投；投票日期为1937年4月30日。点位表示立法背景，不表示投票只在马尼拉进行。"
+    },
+    "sources": [
+      {
+        "title": "Commonwealth Act No. 34, 30 September 1936",
+        "url": "https://lawphil.net/statutes/comacts/ca1936/ca_34_1936.html",
+        "publisher": "Philippine National Assembly; Lawphil / Arellano Law Foundation",
+        "evidenceNote": "Primary legal text inspected: 30 April 1937 women’s plebiscite, age/residence/existing voter qualifications, women’s-club watchers, multilingual notices and 300,000 affirmative-vote threshold. The act prescribes procedure; it is not the certified result.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text",
+        "retrievalStatus": "inspected-text"
+      },
+      {
+        "title": "78th anniversary of women’s suffrage in the Philippines",
+        "url": "https://pcw.gov.ph/pcw-statement-on-the-78th-anniversary-of-womens-suffrage-in-the-philippines/",
+        "publisher": "Philippine Commission on Women",
+        "evidenceNote": "Search-indexed official statement inspected for 30 April 1937 plebiscite and extension of suffrage. Full page returned 403. No exact vote total is drawn from the inaccessible page.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-search-indexed-text; full page 403",
+        "retrievalStatus": "inspected-search-indexed-text; full page 403"
+      }
+    ],
+    "relatedIds": [
+      "person-josefa-llanes-escoda",
+      "philippines-independence-1946",
+      "malolos-constitutional-congress"
+    ],
+    "keyFacts": {
+      "en": [
+        "The enabling act required 300,000 affirmative votes.",
+        "Women’s clubs had a specified role in polling-place observation."
+      ],
+      "zh": [
+        "授权法律要求三十万张赞成票。",
+        "妇女俱乐部在投票站监督中有明定角色。"
+      ]
+    },
+    "expansion": {
+      "workstreams": [
+        "SE3"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "The primary enabling act was inspected in full. The official PCW outcome statement was available only through indexed text after a 403 response; no exact vote total is asserted.",
+        "zh": "已完整查阅授权法律原文。菲律宾妇女委员会的结果说明返回403，仅取得检索索引文字；不提出精确票数。"
+      }
+    }
+  },
+  {
+    "id": "malolos-constitutional-congress",
+    "title": {
+      "en": "Malolos Congress: making constitutional authority",
+      "zh": "马洛洛斯国会：建立宪制权威"
+    },
+    "start": 1898,
+    "end": 1899,
+    "region": "southeast-asia",
+    "theme": "states",
+    "kind": "event",
+    "location": {
+      "lat": 14.846,
+      "lon": 120.812,
+      "label": "Barasoain Church, Malolos; congressional setting"
+    },
+    "locationPrecision": "representative",
+    "importance": 4,
+    "summary": {
+      "en": "Barasoain Church in Malolos became a setting for revolutionary institution-building when a congress convened there in September 1898. Under Pedro Paterno’s presidency, delegates debated the political order emerging from the struggle against Spanish rule. A religious building thus acquired a civic function in a rapidly changing situation.\n\nThe Malolos Constitution, chiefly drafted by Felipe Calderón, was among the assembly’s principal measures. The church is also associated with the inauguration of the First Philippine Republic. These acts show that independence involved efforts to define public authority and create institutions, not only declarations or battles. Producing a constitution, however, did not by itself secure acceptance abroad or effective authority throughout the archipelago.\n\nThe congress’s documented use of the church continued into February 1899, as conflict with the United States transformed the conditions in which the republic operated. This entry focuses on the assembly and its setting rather than duplicating the wider Philippine–American War. The surviving historical marker records a later commemoration of those events; its claims should be distinguished from the text of the constitution and from contemporary records of individual debates, which remain separate research tasks.",
+      "zh": "1898年9月，国会在马洛洛斯的巴拉索阿因教堂召开，使这里成为革命机构建设的场所。佩德罗·帕特诺主持会议，代表们讨论反抗西班牙统治后形成的政治秩序。在快速变化的局势中，一座宗教建筑获得公民政治功能。\n\n主要由费利佩·卡尔德隆起草的《马洛洛斯宪法》，是议会的重要成果之一。教堂也与菲律宾第一共和国的成立典礼相关。这些行动说明，独立还包含界定公共权威与创设机构的努力，不只是宣言或战斗。然而，制宪本身并不能保证国外承认，也不能确保对整个群岛的实际权威。\n\n有记录的国会使用教堂时期延续到1899年2月，当时同美国的冲突改变了共和国运作条件。本条聚焦议会及其空间，不重复更广泛的美菲战争条目。存世历史标志记录的是对事件的后世纪念；应将其陈述同宪法原文及具体辩论的同时代记录区分，后两者仍是独立研究任务。"
+    },
+    "dateNote": {
+      "en": "September 1898–February 1899 follows the marker’s congress-at-Barasoain interval. It is not the full lifespan of the First Philippine Republic.",
+      "zh": "1898年9月至1899年2月依据标志所记国会使用巴拉索阿因教堂的时期，并非菲律宾第一共和国全部存续期。"
+    },
+    "sources": [
+      {
+        "title": "Church of Barasoain",
+        "url": "https://philhistoricsites.nhcp.gov.ph/registry_database/church-of-barasoain/",
+        "publisher": "National Historical Commission of the Philippines",
+        "evidenceNote": "1940 historical marker text inspected: revolutionary congress September 1898–February 1899, Pedro Paterno’s presidency and constitution chiefly drafted by Felipe Calderón. The commemorative Asia-first superlative is not adopted.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text",
+        "retrievalStatus": "inspected-text"
+      }
+    ],
+    "relatedIds": [
+      "philippines-declaration-1898",
+      "philippine-american-war",
+      "philippines-women-suffrage-1937"
+    ],
+    "keyFacts": {
+      "en": [
+        "A church became the working setting of a revolutionary congress.",
+        "Constitution-making and effective territorial authority are distinct questions."
+      ],
+      "zh": [
+        "教堂成为革命国会的工作场所。",
+        "制宪与实际领土权威是不同问题。"
+      ]
+    },
+    "expansion": {
+      "workstreams": [
+        "SE3"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "The NHCP transcription of the 1940 marker was inspected. No claim is made to have reviewed the complete 1898–1899 proceedings or the constitution’s individual articles.",
+        "zh": "已查阅菲律宾国家历史委员会转录的1940年标志文字。不声称审阅完整1898—1899年议事记录或宪法各条款。"
+      }
+    }
+  },
+  {
+    "id": "indonesian-youth-pledge",
+    "title": {
+      "en": "The 1928 Youth Pledge: language and political belonging",
+      "zh": "1928年青年誓言：语言与政治归属"
+    },
+    "start": 1928,
+    "end": 1928,
+    "region": "southeast-asia",
+    "theme": "culture",
+    "kind": "event",
+    "location": {
+      "lat": -6.184,
+      "lon": 106.843,
+      "label": "Kramat 106, Jakarta/Batavia; representative final congress venue"
+    },
+    "locationPrecision": "representative",
+    "importance": 4,
+    "summary": {
+      "en": "The second youth congress met in Batavia on 27–28 October 1928 through the work of student and youth organizations. Sessions moved between three venues, ending at the building now associated with the Youth Pledge. Participants came from organizations with different regional and religious backgrounds, making the meeting a practical exercise in forming a shared political language.\n\nThe pledge linked a common homeland, an Indonesian nation and Indonesian as a language of unity. It did not mean that participants suddenly ceased using other languages or that the colonial state had already become independent. A future national community was being articulated through association, discussion and a statement that could circulate beyond the meeting.\n\nMusic formed part of that communication. W. R. Supratman introduced Indonesia Raya instrumentally on the violin; the museum’s archival account distinguishes this from later singing and circulation of the lyrics. Subsequent surveillance shows why a cultural performance could carry political weight. Linked with Kartini’s writing, Dewi Sartika’s schooling and the later independence proclamation, the congress makes visible another setting in which political belonging was built: youth networks, shared words and public culture.",
+      "zh": "第二次青年大会于1928年10月27至28日在巴达维亚举行，由学生与青年组织推动。会议在三个场所之间进行，最终在今天与青年誓言相关的建筑结束。参加者来自不同地区与宗教背景的组织，使会议成为形成共同政治语言的实际尝试。\n\n誓言把共同祖国、印度尼西亚民族及作为团结语言的印度尼西亚语联系起来。这并不意味着参与者突然停止使用其他语言，也不表示殖民地已获得独立。未来的国家共同体通过结社、讨论与能够向会议以外传播的声明得到表达。\n\n音乐也参与这种沟通。苏普拉特曼用小提琴演奏《印度尼西亚伟大》，博物馆的档案研究将此同后来的歌词演唱与传播区分。随后的监视说明，文化表演能够具有政治分量。与卡蒂妮的写作、萨尔蒂卡的学校以及后来的独立宣告相连，大会展示政治归属如何在青年网络、共同词语和公共文化中形成。"
+    },
+    "dateNote": {
+      "en": "27–28 October 1928 congress; the point marks a representative final venue, not every session or a state boundary.",
+      "zh": "1928年10月27—28日大会；点位标示最后会场的代表位置，并非所有会议地点或国家边界。"
+    },
+    "sources": [
+      {
+        "title": "History of the Youth Pledge",
+        "url": "https://muspada.kemenbud.go.id/sejarah-sumpah-pemuda/",
+        "publisher": "Museum Sumpah Pemuda, Indonesian Ministry of Culture",
+        "evidenceNote": "27–28 October 1928 second youth congress, three Batavia venues, PPPI organizing, participating organizations and pledge of homeland/nation/unifying language. Museum history inspected.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text",
+        "retrievalStatus": "inspected-text"
+      },
+      {
+        "title": "Indonesia Raya: from ordinary song to dangerous song",
+        "url": "https://muspada.kemenbud.go.id/indonesia-raya-dari-lagu-biasa-menjadi-berbahaya/",
+        "publisher": "Museum Sumpah Pemuda; curator Eko Septian Saputra",
+        "evidenceNote": "Instrumental violin presentation at the 1928 congress, later circulation and colonial surveillance; article cites archival report and contemporary newspapers. This is curatorial interpretation of archives, not inspection of all underlying originals.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text",
+        "retrievalStatus": "inspected-text"
+      }
+    ],
+    "relatedIds": [
+      "person-dewi-sartika",
+      "person-kartini",
+      "indonesian-independence"
+    ],
+    "keyFacts": {
+      "en": [
+        "The pledge expressed a political project before independence.",
+        "The congress performance of Indonesia Raya was instrumental."
+      ],
+      "zh": [
+        "誓言在独立之前表达一种政治方案。",
+        "大会上的《印度尼西亚伟大》为器乐演奏。"
+      ]
+    },
+    "expansion": {
+      "workstreams": [
+        "SE3"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "Relevant linked source passages inspected; original bilingual synthesis, without independent specialist review. Coordinates are representative anchors.",
+        "zh": "已查阅链接来源中的相关段落，并作原创双语综合；未经独立领域专家审阅。坐标为代表性参照。"
+      }
+    }
+  }
+]

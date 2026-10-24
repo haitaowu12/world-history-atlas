@@ -1,4 +1,4 @@
-import {REGIONS,activeAt,formatPeriod,formatYear,recordSearchText,safeSourceURL,validYear} from './core.mjs';
+import {REGIONS,activeAt,formatPeriod,formatYear,recordSearchText,relatedRecords,safeSourceURL,validYear} from './core.mjs';
 import {libraryLocation,nearLibraryPlace} from './china-library.mjs';
 
 const normalize = value => String(value ?? '').normalize('NFKC').toLocaleLowerCase().trim();
@@ -71,7 +71,9 @@ export function buildDiscoveryIndex({records=[],people=[],library={},settlements
   for(const row of personRows){
     const names=unique([...strings(row.name),...row.aliases]);
     const mentions=records.filter(record=>mentionMatches(record,names)).map(record=>record.id);
-    row.recordIds=unique([...row.recordIds,...mentions]);
+    const biography=biographyById.get(row.recordId);
+    const connected=biography?relatedRecords(records,biography).map(record=>record.id):[];
+    row.recordIds=unique([...row.recordIds,...connected,...mentions]);
     row.journeyIds=unique(row.journeyIds);
     row.start=row.intervals.length?Math.min(...row.intervals.map(interval=>interval.start)):null;
     row.end=row.intervals.length?Math.max(...row.intervals.map(interval=>interval.end)):null;

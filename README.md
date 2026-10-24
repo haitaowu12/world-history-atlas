@@ -4,33 +4,43 @@ A bilingual, source-backed atlas for exploring histories that existed at the sam
 
 ## Source and research handoff
 
-## Current release: connected regional history (0.8.0)
+The canonical source location is [`world/` on the `world-history-atlas` branch](https://github.com/haitaowu12/jiangshan-map/tree/world-history-atlas/world). This checkout contains V10, version **0.9.0**, including the application, data, licenses, tests and research registers. The original project outside `world/` is preserved. Consult  for the final checked revision and publication status, and use the [live atlas](https://world-history-atlas-tony.techiesea.chatgpt.site) for the hosted application.
 
-All three editorial releases from the [expansion roadmap](docs/CONTENT_EXPANSION_PLAN.md) now have selected published batches: **344 new bilingual entries**, including **81 full biographies** and **70 political overviews**, plus **32 regional reading paths**. The shared atlas contains **1,713 entries** and **105 full biographies**. This is a substantial selected expansion, not an assertion of exhaustive world coverage. The  gives per-region and per-workstream scope, evidence limits and remaining gaps.
+## Current release: lives and community histories (V10 / 0.9.0)
 
-The timeline honors explicit major/secondary editorial priority. Only political overviews appear as its bars; all entries remain searchable. **187 inherited river paths, 62 lake edges and 41 water labels** now join **16 dated schematic corridors** on local zoom. Source display windows remain distinct from independently established engineering dates. Lake edges are rendered as lines to avoid globe-complement fills. The V8 winding repair and shared Taiwan/mainland display shade are retained.
+V10 adds **96 bilingual entries**, including **39 developed biographies with 159 dated life milestones**, across Africa, West and Central Asia, Europe, South Asia, East Asia outside China, Southeast Asia, the Americas and Oceania. The new records cite **168 distinct source URLs**. Lives are connected to histories of households, education, work, language, migration, political participation and cultural production. The  list the regional additions, all new biographies and remaining research gaps.
 
-Research logs distinguish inspected text, indexed evidence, source conflicts and uncertain dates. A held Galle/Melaka conflation is resolved through two separately sourced records; the original held row stays in the immutable audit. The inherited collection has six targeted event reviews and 24 chronicle annotations, not a claim of complete corroboration. See  and [cross-region review](docs/V9_CROSS_REGION_REVIEW.md).
+The shared collection now contains **1,809 entries, 144 biographies and 418 life milestones**. The People directory contains **245 identities**, combining biographies and inherited profiles only where explicit identity links support the merge. **26 expanded regional paths within the retained 32** gain V10 entries; all 32 keep their earlier reading stops. Together with **16 study guides and 7 guided readings**, the atlas offers **55 reading paths**. Inventory counts describe the selected material. Regional depth remains uneven, and this release does not establish parity with the China collection or exhaustive world coverage.
 
-## Retained V8 patch: geometry and display colours
+People pages now expose curated related-reading links alongside textual mentions. Unaccented search aliases help readers find names such as Āpirana Ngata, José Martí and Émilie du Châtelet while preserving their displayed spelling. New detail panels show bilingual evidence-scope notes; source records distinguish inspected text, catalogues, abstracts and limited indexed access. Updated application and module URLs load the V10 code. The current manifest is [`content-expansion-v10.json`](dist/data/content-expansion-v10.json); final acceptance and delivery evidence belongs in .
 
-## V7: map depth and political timelines
+V10 adds no polity records, mapped routes or territorial geometry. Existing China imports, review overlays, maps, waterways and navigation remain available. The timeline continues to reserve its bars for political overviews; biographies and social histories remain accessible through shared search, map markers, People and reading paths.
 
-V7 fixes a coverage problem rather than hiding it with a nearest-snapshot fallback:
+## Historical V9 release: connected regional history (0.8.0)
 
-- The shared China map now uses **166 source stage selections across 18 periods**, including **377 stored political shapes**, with historical place labels and **3,211 optional administrative shapes** on local zoom. The inherited source stages remain explicitly schematic and unverified as annual borders. The modern source stage is empty and uses the shared world layer.
+At the V9 checkpoint, all three editorial releases from the [expansion roadmap](docs/CONTENT_EXPANSION_PLAN.md) had selected batches: **344 added bilingual entries**, including **81 biographies** and **70 political overviews**, plus **32 regional reading paths**. The shared collection then contained **1,713 entries** and **105 biographies**. These are historical V9 counts; the V10 inventory appears above. The  preserves the regional and workstream scope.
+
+V9 added **187 inherited river paths, 62 lake edges and 41 water labels** alongside **16 dated schematic corridors** on local zoom. Source display windows remain distinct from independently established engineering dates. Lake edges are rendered as lines to avoid globe-complement fills. V9 also resolved a held Galle/Melaka conflation through two separately sourced records while retaining the original held row in the immutable audit. Its six targeted event reviews and 24 chronicle annotations remain limited corrections, not complete corroboration of the inherited collection. See  and [cross-region review](docs/V9_CROSS_REGION_REVIEW.md).
+
+## Historical V8 patch: geometry and display colours (0.7.1)
+
+## Historical V7 release: map depth and political timelines
+
+V7 added dated map depth and separated political timeline overviews from other entries:
+
+- The shared China map gained **166 source stage selections across 18 periods**, including **377 stored political shapes**, with historical place labels and **3,211 optional administrative shapes** on local zoom. The inherited source stages remain explicitly schematic and unverified as annual borders. The modern source stage is empty and uses the shared world layer.
 - **CShapes 2.0** supplies **710 exact-date country periods** for annual year-end views **1886–2019**. These are source-coded de jure states and dependencies, not wartime fronts. Later years retain the dated Natural Earth reference. CShapes geometry is **CC BY-NC-SA 4.0**, separately from the code and narrative licenses.
-- The main timeline now defaults to **major states and dynasties**. Events, places and biographies no longer compete for its bars; details remain in the shared atlas. Controls select region, time window and key/all state overviews. Dense regions have explicit expansion.
-- **52 new bilingual polity overviews** bring the shared collection to **1,369 entries**. This includes 11 Chinese dynastic gaps, 37 regional political histories and modern continuity entries, plus four further modern political focus periods. Relationships connect the additions to inherited events without making source display windows into dynasty lifespans.
+- The main timeline began defaulting to **major states and dynasties**. Events, places and biographies remain in the shared atlas. Controls select region, time window and key/all state overviews. Dense regions have explicit expansion.
+- **52 new bilingual polity overviews** brought the V7 collection to **1,369 entries**. This included 11 Chinese dynastic gaps, 37 regional political histories and modern continuity entries, plus four further modern political focus periods. Relationships connect the additions to inherited events without making source display windows into dynasty lifespans.
 - Nearby turning points are balanced across regions rather than selected only from the densest import. Their own dates remain visible.
 
-Remaining scope: earlier global map coverage is selective; the new political overview set does not equal China's event density. V9 restores inherited water paths and dated corridor schematics; not every original transport interaction is reproduced. Source-specific schematics and chronology uncertainties remain visible; test counts do not certify history.
+Earlier global map coverage remains selective. The later V9 release restored inherited water paths and dated corridor schematics; some original transport interactions remain outside the shared app. Source-specific schematics and chronology uncertainties remain visible. Test counts do not certify historical claims.
 
-## Retained V6 release record
+## Historical V6 release: shared discovery and navigation
 
-V6 brings the existing material into **one Atlas, Timeline, Journeys, People and Places experience**. Chinese events already shared the map and timeline; their people, historical names and references now use the same discovery and navigation as the rest of the world. Source origin remains evidence metadata rather than a browsing boundary. This release changes integration and navigation; it adds no historical entries.
+V6 brought the existing material into **one Atlas, Timeline, Journeys, People and Places experience**. Chinese events already shared the map and timeline; V6 integrated their people, historical names and references into shared discovery and navigation. Source origin remains evidence metadata. V6 changed integration and navigation without adding historical entries. The counts in this section describe that historical checkpoint.
 
-The shared People directory contains **126 identified people**: 24 researched biographies and 104 source profiles, with the two confirmed Xuanzang and Zheng He overlaps combined for discovery. Their source IDs, aliases, biography focus periods and source profile spans remain distinct. The Places directory contains **1,384 representative point/name groups** from the whole atlas and its historical-name references. These groups are not a verified count of distinct settlements.
+The V6 People directory contained **126 identified people**: 24 researched biographies and 104 source profiles, with the two confirmed Xuanzang and Zheng He overlaps combined for discovery. Their source IDs, aliases, biography focus periods and source profile spans remain distinct. The V6 Places directory contained **1,384 representative point/name groups** from the whole atlas and its historical-name references. These groups are not a verified count of distinct settlements.
 
 Related reading works in both directions: the Northern Song essay, for example, exposes its 74 linked source-derived events. Shared search finds people, places, periods, calendars and connections; old source-collection URL filters are normalized away. Evidence notes still distinguish inherited text, targeted corrections, schematic connections and independently cited essays.
 
@@ -41,7 +51,7 @@ Related reading works in both directions: the Northern Song essay, for example, 
 | Shared Places directory | **1,384** representative point/name groups; includes **185** gazetteer records, **87** city notes and **20** passes |
 | Historical place-name context | **1,387** period-place rows; a place can recur across source windows |
 | Period guides | **86** references: **8** editorial windows, **60** polity article focus periods and **18** source display windows |
-| Calendars and reign names | **342** ruler/reign-name change points; current coverage is Chinese chronology |
+| Calendars and reign names | **342** ruler/reign-name change points; coverage at this checkpoint was Chinese chronology |
 | Roads and waterways reference | **31** connections: **15** mapped journeys/networks/chronicles and **16** description-only corridors |
 | Mapped journeys, networks and chronicles | **126** stops and **112** explicit connections; source sequences retain their evidence limitations |
 | Reading paths | **23** paths: **7** guided readings and **16** study guides |
@@ -51,15 +61,15 @@ Related reading works in both directions: the Northern Song essay, for example, 
 
 Narrative coverage spans selected periods from **13,000 BCE to 2026 CE**. Historical source checkpoints span **2000 BCE to 2010 CE**, with feature-specific reviewed display periods. The contemporary reference is reviewed in 2026 and uses explicitly dated source geometry. Existing shading, label selection, year-transition safeguards, list pagination and cached search remain in place.
 
-The V5 content expansion and its source accounting are retained: **978** original event rows produced **975** mapped events, two exact duplicate merges and one held location mismatch. The two event reviews and 24 chronicle annotations remain a separate correction layer over the frozen source. V5's 78 new essays and four study guides are now explored through the shared interface; V6 does not claim new research or equal depth across regions.
+The V5 content expansion and its source accounting were retained: **978** original event rows produced **975** mapped events, two exact duplicate merges and one held location mismatch. At the V6 checkpoint, two event reviews and 24 chronicle annotations formed a separate correction layer over the frozen source; later V9 work expanded the targeted event reviews. V5's 78 new essays and four study guides became accessible through the shared interface. V6 did not claim new research or equal depth across regions.
 
-At the V6 checkpoint the GitHub mirror still held V2. The current synchronization now preserves V9 and its handoff under `world/` on `world-history-atlas`; see the source-status section above. The original China application outside `world/` remains a separate upstream project. The public Site retains its documented standalone deployment commit.
+At the V6 checkpoint the GitHub mirror still held V2. That source-status note is historical. The canonical branch and current verification record are linked above; the original China application outside `world/` remains a separate upstream project.
 
 ## Explore
 
 **Follow time and compare places.** Move the slider, enter a BCE/CE year, choose an era, step between nearby events or play through time. Switch between entries active in the selected year and the full collection. Search in English or Chinese, filter by region, theme or entry type, and compare two entries. Source origin does not exclude entries from these views. “Meanwhile, elsewhere” and parallel regional timelines help connect simultaneous histories.
 
-**Find people and places across the atlas.** Open People or Places, search in English or Chinese, choose a region and switch between regional, chronological and alphabetical browsing. A person page combines existing biographies, source indexes, journeys and related mentions where those links are supported. A place page brings together records at its representative point, nearby histories from every source, and available historical names. Proximity and shared names do not establish one continuous settlement.
+**Find people and places across the atlas.** Open People or Places, search in English or Chinese, choose a region and switch between regional, chronological and alphabetical browsing. A person page combines existing biographies, source indexes, journeys, curated related reading and textual mentions. Curated links can connect a life to its social or institutional context even when a related entry does not repeat the person's name. Added unaccented aliases support searches for names with diacritics. A place page brings together records at its representative point, nearby histories from every source, and available historical names. Proximity and shared names do not establish one continuous settlement.
 
 **Read periods, calendars and connections.** Timeline opens shared period guides and the calendar reference. A source display window can reveal histories from all regions in the same interval; it is not relabelled as a dynasty lifespan. Journeys includes the shared Roads & waterways view, which distinguishes mapped routes and networks from description-only corridors. Source chapter dates, later literary works and disputed chronology remain explicit.
 
@@ -69,7 +79,7 @@ At the V6 checkpoint the GitHub mirror still held V2. The current synchronizatio
 
 **Explore lives and connections.** Browse people and step through their dated milestones. Follow a documented journey or inspect a network's selected branches. Double-click a place on the map to find entries whose representative points lie within 400 km; proximity helps discovery without asserting continuous settlement or political succession.
 
-**Study and remember.** Follow twenty-three reading paths, including sixteen study guides with discussion questions and activities. Try the five-place location challenge, which gives distance feedback. Save entries and personal notes, then export or import a notebook. Sources & method also provides a combined atlas JSON export containing all entries, routes and reference inventories with their source metadata; this export is separate from the private notebook.
+**Study and remember.** Follow **55 reading paths: 32 regional expansion paths, 16 study guides and 7 guided readings**. The regional paths include V9 and V10 entries; study guides retain their discussion questions and activities. Try the five-place location challenge, which gives distance feedback. Save entries and personal notes, then export or import a notebook. Sources & method also provides a combined atlas JSON export containing all entries, routes and reference inventories with their source metadata; this export is separate from the private notebook.
 
 **Share a view.** A URL can preserve the year, language, filters, entry, person or place directory page, comparison, selected route stop, reading step or contemporary country. Notes stay in the browser and are excluded from shared links.
 
@@ -79,7 +89,7 @@ The main experience is available in English and Chinese. Keyboard controls inclu
 
 The application is buildless. It needs no dependency installation, API keys, map tiles or remote database. Scripts, data and map geometry are included in `dist/`.
 
-From the root of the current source checkout or release archive:
+Run from the application directory: the repository's `world/` folder, which contains `package.json`, or the corresponding folder in a release archive:
 
 ```sh
 python3 -m http.server 8080 --bind 127.0.0.1 --directory dist
@@ -95,7 +105,10 @@ The `dist/` directory can also be served by a static web host. No build service 
 
 Use **Node.js 22 or newer**, as declared in [package.json](package.json). No `npm install` step is needed.
 
+After editing a V10 regional content file, regenerate the cumulative manifest and reading paths before running the checks. Run these commands from the same application directory:
+
 ```sh
+npm run build:content
 npm test
 npm run validate
 npm run check
@@ -103,11 +116,10 @@ npm run check
 
 | Command | Purpose |
 | --- | --- |
+| `npm run build:content` | Regenerate the V10 manifest and 32 regional reading paths while checking that frozen V9 expansion files are unchanged |
 | `npm test` | Run core, discovery/integration, shared-reference, import/review, learning-data, temporal-map and geography regressions |
 | `npm run validate` | Check record structure, references, dates, route connections, snapshot membership, licenses and vendored-file checksums |
 | `npm run check` | Run the validator and test suite |
-
-These checks verify structure and application mechanics. Historical source fit, map interpretation, translation quality and browser behavior also require review. Content research is documented in the [original research record](docs/HISTORY_RESEARCH.md), [v4 expansion](docs/V4_HISTORY_RESEARCH.md), [v5 regional research and corrections](docs/V5_RESEARCH_AND_REVIEW.md), and the [complete China import audit](docs/V5_CHINA_IMPORT.md). The validator reports the current collection and cited-page counts. The commands above are instructions, not a claim that a particular checkout or deployment has passed acceptance. See [V6 integration and verification](docs/V6_INTEGRATION.md), the retained , and the [map methodology](docs/MAP_METHODOLOGY.md).
 
 ## Read the map and dates correctly
 
@@ -135,13 +147,18 @@ Uncolored land and an empty search result mean this collection has no depiction 
 | `dist/atlas-model.mjs` | Snapshot selection, timelines, location search helpers and map-state validation |
 | `dist/i18n.mjs`, `dist/journeys.mjs` | Interface translations and seven guided reading paths |
 | `dist/data/history.json` | Original historical essays and per-entry sources |
+| `dist/content-expansion.mjs` | Current manifest selection, biography/history partitioning, workstream coverage and expansion audits |
+| `dist/data/content-expansion-v10.json` | Current cumulative content manifest, hashes, counts and references to preserved V9 files plus the four V10 regional files |
+| `dist/data/expansion-*-v10.json` | New regional biographies and connected histories; generated reading paths are stored separately in `expansion-courses-v10.json` |
+| `dist/data/expansion-courses-v10.json` | The 32 regional reading paths, retaining their existing IDs and V9 entries |
+| `dist/data/content-expansion-v9.json`, `dist/data/expansion-*-v9.json` | Frozen V9 expansion baseline and historical manifest |
 | `dist/discovery.mjs` | Shared People/Places indexes, exact identity links, alias search and regional browsing |
 | `dist/history-reference.mjs` | Shared period, calendar, road/waterway and source-provenance views |
 | `dist/china-library.mjs`, `dist/china-review.mjs` | Source adaptation, location helpers and immutable review overlays; source filenames do not define separate navigation |
 | `dist/data/china-events-*.json`, `china-import-manifest.json` | Pinned imported events, full source accounting, checksums, merges and held record |
 | `dist/data/china-library*.json` | People, places, periods, chronicles, era names and corridor references |
 | `dist/data/china-reviews.json` | Targeted independently sourced corrections and internal chronology annotations |
-| `dist/data/people.json` | People, focus intervals and located milestones |
+| `dist/data/people.json` | Original biographies; expansion biographies live in the manifest-listed regional content files |
 | `dist/data/routes.json` | Journey/network metadata, stops, explicit legs and sources |
 | `dist/data/courses.json` | Sixteen study guides linked to entries and routes |
 | `dist/data/territories*.geojson` | Source-specific historical geometry chunks |
@@ -150,6 +167,7 @@ Uncolored land and an empty search result mean this collection has no depiction 
 | `dist/map-language.mjs` | Bilingual map-date and contemporary-reference interface text |
 | `dist/assets/` | Local D3 and Natural Earth references, with licenses and provenance |
 | `scripts/validate.mjs`, `tests/` | Structural checks and regression tests |
+| `scripts/build-content-expansion-v10.mjs` | Current content-manifest and regional-path generator |
 | `docs/` | Data policy, current map methodology, editorial and verification records |
 
 Entries use stable IDs, English/Chinese text, an inclusive focus interval, a representative location, region/theme metadata and a source list. People add milestones. Routes distinguish a journey from a network and list explicit connections. Study guides reference those records rather than duplicating their evidence. Geometry has its own snapshot dates, feature IDs, sources and licenses; a narrative citation does not validate a nearby polygon. See [DATA_POLICY.md](docs/DATA_POLICY.md).
@@ -171,9 +189,10 @@ Supported fields include `year`, `lang`, `mode`, `region`, `theme`, `q`, `entry`
 
 When no hash is present, query parameters can also open a place or person, for example `?year=1200&lang=en&place=Angkor`. These names and historical aliases resolve through the shared directory and entry indexes; they are not a worldwide geocoding service.
 
-After initialization, `window.atlasAPI` exposes version `0.7.0`:
+After initialization, `window.atlasAPI` exposes version `0.9.0`:
 
 ```js
+atlasAPI.contentCoverage();
 atlasAPI.collections();
 atlasAPI.search('Su Shi', { kind: 'person' });
 atlasAPI.resolveHistoricalPlace('成周');
@@ -184,6 +203,7 @@ atlasAPI.locate({ year: 1325, person: 'person-ibn-battuta' });
 
 | Method | Behavior |
 | --- | --- |
+| `contentCoverage()` | Report the current shared entry and biography counts, cumulative expansion inventory and workstream coverage; counts do not establish historical completeness |
 | `collections()` | Report source-accounting counts and the frozen reference commit; these are provenance counts, not navigation filters |
 | `search(text, options?)` | Search shared people, places, periods, calendars and connections; supports region, semantic kind and year filters |
 | `resolveHistoricalPlace(text)` | Search worldwide representative-place groups and historical aliases; returns IDs, names, aliases, locations and regions |

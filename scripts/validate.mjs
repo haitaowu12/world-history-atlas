@@ -3,7 +3,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import crypto from 'node:crypto';
-import {auditExpansion,partitionExpansion} from '../dist/content-expansion.mjs';
+import {CONTENT_MANIFEST,auditExpansion,partitionExpansion} from '../dist/content-expansion.mjs';
 import { journeys } from '../dist/journeys.mjs';
 import { fileURLToPath } from 'node:url';
 import { REGIONS, validYear, activeAt, safeSourceURL, validateRecords } from '../dist/core.mjs';
@@ -178,7 +178,13 @@ const errors = [];
 const fail = message => errors.push(message);
 const read = name => fs.readFileSync(path.join(root, name), 'utf8');
 const histories = ['history.json','china-depth-v7.json','world-depth-v7.json','modern-continuity-v7.json'].flatMap(file=>JSON.parse(read('dist/data/'+file)));
-const expansionManifest=JSON.parse(read('dist/data/content-expansion-v9.json'));
+const expansionManifest=JSON.parse(read('dist/data/'+CONTENT_MANIFEST));
+for(const file of expansionManifest.files) {
+  const bytes=fs.readFileSync(path.join(root,'dist/data',file.file));
+  if(bytes.length!==file.bytes||crypto.createHash('sha256').update(bytes).digest('hex')!==file.sha256)fail(file.file+': content manifest checksum mismatch');
+  if(bytes.length>450000)fail(file.file+': content chunk exceeds 450 KB');
+  if(JSON.parse(bytes).length!==file.records)fail(file.file+': manifest record count mismatch');
+}
 const expansionRecords=expansionManifest.files.flatMap(f=>JSON.parse(read('dist/data/'+f.file)));
 const additions=partitionExpansion(expansionRecords);histories.push(...additions.histories);
 const people = [...JSON.parse(read('dist/data/people.json')),...additions.people];

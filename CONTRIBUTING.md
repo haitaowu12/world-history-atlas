@@ -12,7 +12,7 @@ Treat source selection and coverage as editorial choices. A named civilization, 
 
 ## Add or correct a historical entry
 
-Edit `dist/data/history.json`. Preserve an existing ID when correcting a record so notebooks and links continue to resolve.
+For the current expansion, edit the appropriate `dist/data/expansion-*-v10.json` file and run `npm run build:content` to update the shared manifest and reading paths. V9 expansion files and the imported China source remain frozen. Earlier base entries live in `dist/data/history.json`; preserve existing IDs when a supported correction is needed so notebooks and links continue to resolve.
 
 Each record contains:
 
@@ -47,7 +47,11 @@ In the change description, include:
 
 ## People and milestones
 
-People live in `dist/data/people.json` and use the shared historical-record fields, a personal name and `kind: "person"`. Their `start` and `end` describe the stated focus period, which need not be a complete lifespan. Each milestone has a supported civil year, bilingual title and description, and a representative location.
+Original biographies live in `dist/data/people.json`; expansion biographies live alongside their connected histories in the manifest-listed regional files. They use the shared historical-record fields, a personal name and `kind: "person"`. Their `start` and `end` describe the stated focus period, which need not be a complete lifespan. Each milestone has a supported civil year, bilingual title and description, and a representative location.
+
+V10 biographies require at least three supported milestones in chronological order and within the stated focus interval. Every milestone needs a location label explaining what the point represents. Do not add unsupported dates merely to satisfy this minimum; defer or narrow the profile instead.
+
+V10 entries also require at least two valid related records, an existing workstream, `release: 4`, `edition: "v10"`, a bilingual `reviewLimit`, and per-source `evidenceNote`, `checkedAt` and truthful `retrieval` disclosure. Use the existing entries as the schema reference.
 
 Explain approximate dates and locations. A sequence of milestone places does not establish a documented travel path. Preserve profile IDs when adding milestones so notebooks and linked teaching materials keep working.
 
@@ -79,7 +83,7 @@ Use `kind: "culture"` for cultural ranges whose political borders are unknown, a
 
 ## Run and verify
 
-No package installation or build step is required.
+No package installation or application compilation is required. After editing the V10 content files, run `npm run build:content` before validation; the generator preserves the frozen V9 checksums.
 
 ```sh
 python3 -m http.server 8080 --bind 127.0.0.1 --directory dist
