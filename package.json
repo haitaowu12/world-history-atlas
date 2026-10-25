@@ -1,16 +1,16 @@
 {
   "name": "world-history-atlas",
-  "version": "0.9.0",
+  "version": "0.10.0",
   "private": true,
   "type": "module",
   "description": "A bilingual, source-backed atlas for exploring concurrent world histories.",
   "license": "MIT",
   "scripts": {
-    "build:content": "node scripts/build-content-expansion-v10.mjs",
-    "test": "node --test --test-isolation=none tests/*.test.mjs",
+    "build:content": "node scripts/build-content-expansion-v11.mjs",
+    "test": "node --test --experimental-test-isolation=none tests/*.test.mjs",
     "validate": "node scripts/validate.mjs",
-    "check": "node scripts/validate.mjs && node --test --test-isolation=none tests/*.test.mjs",
-    "serve": "python3 -m http.server 8080 --directory dist"
+    "check": "node scripts/validate.mjs && node --test --experimental-test-isolation=none tests/*.test.mjs",
+    "serve": "python3 scripts/serve.py"
   },
   "engines": {
     "node": ">=22"

@@ -2,21 +2,20 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import {createHash} from 'node:crypto';
-import {CONTENT_MANIFEST,auditExpansion,partitionExpansion} from '../dist/content-expansion.mjs';
+import {auditExpansion,partitionExpansion} from '../dist/content-expansion.mjs';
 import {filterRecords,defaultState,relatedRecords,stateFromHash,hashFromState} from '../dist/core.mjs';
 import {buildDiscoveryIndex,searchDiscovery} from '../dist/discovery.mjs';
 import {politicalTimelineRecords} from '../dist/political-timeline.mjs';
 
 const read=file=>JSON.parse(fs.readFileSync(new URL('../dist/data/'+file,import.meta.url),'utf8'));
-const prior=read('content-expansion-v9.json'),manifest=read(CONTENT_MANIFEST);
+const prior=read('content-expansion-v9.json'),manifest=read('content-expansion-v10.json');
 const expansion=manifest.files.flatMap(file=>read(file.file));
 const additions=expansion.filter(record=>record.expansion?.edition==='v10');
 const base=['history.json','people.json','china-depth-v7.json','world-depth-v7.json','modern-continuity-v7.json'].flatMap(read);
 base.push(...read('china-import-manifest.json').eventFiles.flatMap(file=>read(file.path)));
 const all=[...base,...expansion],byId=new Map(all.map(record=>[record.id,record]));
 
-test('V10 current manifest preserves every V9 file and accounts for the new inventory',()=>{
- assert.equal(CONTENT_MANIFEST,'content-expansion-v10.json');
+test('historical V10 manifest preserves every V9 file and accounts for the new inventory',()=>{
  for(const file of prior.files)assert.deepEqual(manifest.files.find(item=>item.file===file.file),file);
  for(const file of manifest.files){
   const bytes=fs.readFileSync(new URL('../dist/data/'+file.file,import.meta.url));

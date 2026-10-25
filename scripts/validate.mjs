@@ -3,7 +3,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import crypto from 'node:crypto';
-import {CONTENT_MANIFEST,auditExpansion,partitionExpansion} from '../dist/content-expansion.mjs';
+import {CONTENT_MANIFEST,auditExpansion,partitionExpansion,applyEvidenceReviews} from '../dist/content-expansion.mjs';
 import { journeys } from '../dist/journeys.mjs';
 import { fileURLToPath } from 'node:url';
 import { REGIONS, validYear, activeAt, safeSourceURL, validateRecords } from '../dist/core.mjs';
@@ -177,7 +177,7 @@ const root = repoRoot;
 const errors = [];
 const fail = message => errors.push(message);
 const read = name => fs.readFileSync(path.join(root, name), 'utf8');
-const histories = ['history.json','china-depth-v7.json','world-depth-v7.json','modern-continuity-v7.json'].flatMap(file=>JSON.parse(read('dist/data/'+file)));
+let histories = ['history.json','china-depth-v7.json','world-depth-v7.json','modern-continuity-v7.json'].flatMap(file=>JSON.parse(read('dist/data/'+file)));
 const expansionManifest=JSON.parse(read('dist/data/'+CONTENT_MANIFEST));
 for(const file of expansionManifest.files) {
   const bytes=fs.readFileSync(path.join(root,'dist/data',file.file));
@@ -187,7 +187,13 @@ for(const file of expansionManifest.files) {
 }
 const expansionRecords=expansionManifest.files.flatMap(f=>JSON.parse(read('dist/data/'+f.file)));
 const additions=partitionExpansion(expansionRecords);histories.push(...additions.histories);
-const people = [...JSON.parse(read('dist/data/people.json')),...additions.people];
+let people = [...JSON.parse(read('dist/data/people.json')),...additions.people];
+if(expansionManifest.evidenceReviewsFile) {
+  try {
+    const reviewedNarratives=new Map(applyEvidenceReviews([...histories,...people],JSON.parse(read('dist/data/'+expansionManifest.evidenceReviewsFile))).map(r=>[r.id,r]));
+    histories=histories.map(r=>reviewedNarratives.get(r.id));people=people.map(r=>reviewedNarratives.get(r.id));
+  } catch(error) { fail('Editorial evidence follow-up: '+error.message); }
+}
 const chinaImport = auditChinaImport(root);
 errors.push(...chinaImport.errors);
 const chinaReviews = JSON.parse(read('dist/data/china-reviews.json'));

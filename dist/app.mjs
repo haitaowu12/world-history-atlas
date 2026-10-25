@@ -1,4 +1,4 @@
-import {CONTENT_MANIFEST,partitionExpansion,expansionCoverage} from './content-expansion.mjs?v=10';
+import {CONTENT_MANIFEST,partitionExpansion,expansionCoverage,applyEvidenceReviews} from './content-expansion.mjs?v=11';
 import {waterFeatures,corridorFeatures,hydroVisible} from './inherited-geography.mjs';
 import {normalizeMapCollection} from './map-geometry.mjs';
 import {mapDisplayPalette} from './map-palette.mjs';
@@ -525,12 +525,12 @@ function resolveDirectoryEntity(kind,value){
 }
 function restoreDirectorySelection(){const current=directorySelection;if(current){if(current.kind==='person')discovery.person(current.id);else if(current.kind==='place')discovery.place(current.id);}}
 function exportAtlasData(){
- const data={schemaVersion:1,version:'0.9.0',records,routes,personIndexes:chinaData.profiles,namedPlaces:{gazetteer:chinaData.gazetteer,cityLore:chinaData.cityLore,passes:chinaData.passes},periodPlaces:chinaSettlements,periodReferences:chinaData.eras,reignNames:chinaData.eraNames,corridors:chinaData.corridors,sourceManifest:chinaManifest,contentExpansion:expansionManifest,waterways:chinaWaterways,notices:'Original narrative and imported material retain their respective licenses and source notices. See data/china-upstream.LICENSE.md and docs/CONTENT_LICENSE.md in the source package.'};
+ const data={schemaVersion:1,version:expansionManifest.version,records,routes,personIndexes:chinaData.profiles,namedPlaces:{gazetteer:chinaData.gazetteer,cityLore:chinaData.cityLore,passes:chinaData.passes},periodPlaces:chinaSettlements,periodReferences:chinaData.eras,reignNames:chinaData.eraNames,corridors:chinaData.corridors,sourceManifest:chinaManifest,contentExpansion:expansionManifest,waterways:chinaWaterways,notices:'Original narrative and imported material retain their respective licenses and source notices. See data/china-upstream.LICENSE.md and docs/CONTENT_LICENSE.md in the source package.'};
  const url=URL.createObjectURL(new Blob([JSON.stringify(data,null,2)],{type:'application/json'})),a=document.createElement('a');a.href=url;a.download='world-history-atlas-data.json';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);
 }
 function exposeAPI(){
  window.atlasAPI=Object.freeze({
-  version:'0.9.0',
+  version:expansionManifest.version,
   contentCoverage:()=>({total:records.length,biographies:people.length,expansionRecords:expansionRecords.length,researchService:expansionManifest.researchService,workstreams:expansionCoverage(expansionRecords,expansionManifest.workstreams).map(({sourceURLs,...r})=>r)}),
   inheritedGeography:(year=state.year)=>({year,waterways:waterFeatures(chinaWaterways,year).length,labels:chinaWaterways.labels.filter(i=>hydroVisible(i,year)).length,corridors:corridorFeatures(chinaData.corridors,year).map(f=>({id:f.properties.id,title:f.properties.title})),status:chinaWaterways.reviewStatus}),
   collections:()=>({atlas:records.filter(r=>r.provenance?.dataset!=='jiangshan').length,jiangshan:chinaEvents.length,profiles:chinaData.profiles?.length||0,sourceCommit:chinaManifest.source.commit}),
@@ -576,6 +576,8 @@ async function init(){try{
  [expansionManifest,chinaWaterways]=await Promise.all([loadJSON('./data/'+CONTENT_MANIFEST),loadJSON('./data/china-waterways-v9.json')]);
  const [extraRows,extraCourses]=await Promise.all([Promise.all(expansionManifest.files.map(f=>loadJSON('./data/'+f.file))),loadJSON('./data/'+expansionManifest.coursesFile)]);
  expansionRecords=extraRows.flat();const additions=partitionExpansion(expansionRecords);histories.push(...additions.histories);people.push(...additions.people);courses.push(...extraCourses);
+ const evidenceReviews=expansionManifest.evidenceReviewsFile?await loadJSON('./data/'+expansionManifest.evidenceReviewsFile):[];
+ const reviewedNarratives=new Map(applyEvidenceReviews([...histories,...people],evidenceReviews).map(r=>[r.id,r]));histories=histories.map(r=>reviewedNarratives.get(r.id));people=people.map(r=>reviewedNarratives.get(r.id));
  const reviewed=applyChinaReviews(eventChunks.flat(),chinaData,chinaReviews);chinaData=reviewed.library;chinaEvents=linkChinaContext(reviewed.events,[...histories,...people]);chinaSettlements=settlementChunks.flat();routes.push(...chinaRoutes(chinaData,chinaManifest));
  [chinaContextIndex,cshapesData]=await Promise.all([loadJSON('./data/china-context-index-v7.json'),loadJSON('./data/cshapes-periods-v7.geojson')]);cshapesData=normalizeMapCollection(cshapesData,d3.geoArea);chinaContextLoader=createChinaContextLoader(chinaContextIndex,async file=>normalizeMapCollection(await loadJSON('./data/'+file),d3.geoArea));
  const phaseCollections=await Promise.all(chinaContextIndex.periods.map(p=>chinaContextLoader.load(p.start)));
