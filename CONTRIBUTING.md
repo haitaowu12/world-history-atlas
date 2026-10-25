@@ -12,7 +12,7 @@ Treat source selection and coverage as editorial choices. A named civilization, 
 
 ## Add or correct a historical entry
 
-For the current expansion, edit the appropriate `dist/data/expansion-*-v11.json` file and run `npm run build:content` to update the shared manifest and reading paths. V9 and V10 expansion files/manifests/reading paths and the imported China source remain frozen. Earlier base entries live in `dist/data/history.json`; preserve existing IDs when a supported correction is needed so notebooks and links continue to resolve.
+For the current expansion, edit the appropriate `dist/data/expansion-*-v12.json` file and run `npm run build:content` to update the shared manifest and reading paths. V9, V10 and V11 expansion files/manifests/reading paths and the imported China source remain frozen. Earlier base entries live in `dist/data/history.json`; preserve existing IDs when a supported correction is needed so notebooks and links continue to resolve.
 
 Each record contains:
 
@@ -49,9 +49,9 @@ In the change description, include:
 
 Original biographies live in `dist/data/people.json`; expansion biographies live alongside their connected histories in the manifest-listed regional files. They use the shared historical-record fields, a personal name and `kind: "person"`. Their `start` and `end` describe the stated focus period, which need not be a complete lifespan. Each milestone has a supported civil year, bilingual title and description, and a representative location.
 
-V11 biographies require at least three supported milestones in chronological order and within the stated focus interval. Every milestone needs a location label explaining what the point represents. Do not add unsupported dates merely to satisfy this minimum; defer or narrow the profile instead.
+V12 biographies require at least three supported milestones in chronological order and within the stated focus interval. Every milestone needs a location label explaining what the point represents. Do not add unsupported dates merely to satisfy this minimum; defer or narrow the profile instead.
 
-V11 entries also require at least two valid related records, an existing workstream, `release: 5`, `edition: "v11"`, a bilingual `reviewLimit`, and per-source `evidenceNote`, `checkedAt` and truthful `retrieval` disclosure. Use the existing entries as the schema reference.
+V12 entries also require at least two valid related records, an existing workstream, `release: 6`, `edition: "v12"`, a bilingual `reviewLimit`, and per-source `evidenceNote`, `checkedAt` and truthful `retrieval` disclosure. Use the existing entries as the schema reference.
 
 Explain approximate dates and locations. A sequence of milestone places does not establish a documented travel path. Preserve profile IDs when adding milestones so notebooks and linked teaching materials keep working.
 
@@ -81,9 +81,13 @@ Never fill a gap with a capital-centered circle, a modern border or an unsupport
 
 Use `kind: "culture"` for cultural ranges whose political borders are unknown, and explain that distinction. Keep large GeoJSON collections in manifest-listed chunks of at most 450 KB, preserving source licenses and checksums. Contemporary manifest layers distinguish countries from dispute overlays. Check spherical winding, antimeridian behavior, holes and degenerate geometry, as well as whether the named polity and depicted area belong in that year.
 
+## Modern regional geography
+
+The optional US/Canada layer follows [V12 geographic method](docs/V12_US_CANADA_GEOGRAPHY.md). Its modern outlines remain separate from historical snapshot membership. Keep the source pin/hash and public-domain notice. Edit named-place associations only with inspected geographic evidence; preserve original point meanings, bilingual notes and stable area/record IDs. Regenerate the geographic history index through `npm run build:content`. The geometry builder accepts only the pinned source asset; narrative edits do not require rebuilding geometry.
+
 ## Run and verify
 
-No package installation or application compilation is required. After editing the V11 content files, run `npm run build:content` before validation; the generator preserves the frozen V9 and V10 checksums.
+No package installation or application compilation is required. After editing the V12 content files, run `npm run build:content` before validation; the generator preserves the frozen V9–V11 checksums.
 
 ```sh
 npm run serve

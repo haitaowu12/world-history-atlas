@@ -210,6 +210,50 @@ errors.push(...auditExpansion(expansionRecords,expansionManifest,records));
 errors.push(...validateRecords(records));
 const ids = new Set(Array.isArray(records) ? records.map(r => r?.id) : []);
 const sourcePages = new Set();
+let usCanadaReferenceUnits=0;
+try {
+ const metadata=JSON.parse(read('dist/data/'+expansionManifest.geographicReferenceFile));
+ const lookup=JSON.parse(read('dist/data/'+expansionManifest.geographicIndexFile));
+ if(metadata.role!=='modern-reference'||metadata.sourceRelease!=='5.1.1'||metadata.sourceReleaseYear!==2022||metadata.license!=='public-domain')fail('US/Canada: invalid reference meaning or source release');
+ if(!read('dist/data/'+metadata.licenseFile).includes('public domain'))fail('US/Canada: missing public-domain notice');
+ if(lookup.schemaVersion!==1||lookup.contentVersion!==expansionManifest.version||lookup.referenceRelease!==metadata.sourceRelease)fail('US/Canada: stale geographic history index');
+ const areaIds=new Set();
+ for(const layer of metadata.layers||[]){
+  if(!/^[a-z0-9.-]+$/.test(layer.file||'')){fail('US/Canada: unsafe layer filename');continue;}
+  const bytes=fs.readFileSync(path.join(root,'dist/data',layer.file)),geo=JSON.parse(bytes);
+  if(bytes.length!==layer.bytes||bytes.length>450000||crypto.createHash('sha256').update(bytes).digest('hex')!==layer.sha256)fail(layer.file+': geographic reference checksum/size mismatch');
+  if(geo.type!=='FeatureCollection'||geo.features?.length!==layer.features||layer.features!==(layer.country==='USA'?51:13))fail(layer.file+': geographic reference inventory mismatch');
+  for(const feature of geo.features||[]){
+   const p=feature.properties;
+   if(areaIds.has(p.id)||p.country!==layer.country||p.role!=='modern-administrative-reference'||p.sourceRelease!==metadata.sourceRelease||!p.name?.en||!p.name?.zh)fail('US/Canada: invalid/duplicate reference unit '+p.id);
+   if(['sourceYear','start','end','contextValidity'].some(key=>p[key]!==undefined))fail(p.id+': reference must not claim historical date validity');
+   areaIds.add(p.id);
+  }
+ }
+ usCanadaReferenceUnits=areaIds.size;
+ if(areaIds.size!==64||Object.keys(lookup.areas||{}).length!==64)fail('US/Canada: expected exactly64 administrative units');
+ const recordById=new Map(records.map(r=>[r.id,r]));
+ const associations=JSON.parse(read('dist/data/'+expansionManifest.geographicAssociationsFile));
+ const associationKeys=new Set();
+ for(const association of associations){
+  const key=association.areaId+':'+association.recordId,link=lookup.areas[association.areaId]?.find(item=>item.recordId===association.recordId);
+  const {place,note,sources,checkedAt}=association;
+  if(associationKeys.has(key)||!link?.roles.includes('editorial')||JSON.stringify(link.locationAssociation)!==JSON.stringify({place,note,sources,checkedAt})||!place?.en||!place?.zh||!note?.en||!note?.zh||!sources?.length||sources.some(s=>!safeSourceURL(s.url)||!s.evidenceNote||!s.checkedAt))fail('US/Canada: incomplete named-place association '+key);
+  associationKeys.add(key);
+  for(const source of sources||[])if(safeSourceURL(source.url)){const url=new URL(source.url);url.hash='';sourcePages.add(url.href);}
+ }
+ for(const [areaId,links]of Object.entries(lookup.areas||{})){
+  if(!areaIds.has(areaId)||!Array.isArray(links)){fail('US/Canada: unknown or malformed area '+areaId);continue;}
+  const linkedIds=new Set();
+  for(const link of links){
+   const record=recordById.get(link.recordId);
+   if(!record||record.region!=='north-america'||linkedIds.has(link.recordId)||!link.roles?.length||link.roles.some(role=>!['representative','milestone','editorial'].includes(role))||!Array.isArray(link.milestoneYears)||link.milestoneYears.some(year=>!validYear(year)||!record.milestones?.some(m=>m.year===year)))fail(areaId+': invalid linked history '+link.recordId);
+   if(link.roles?.includes('editorial')&&!associationKeys.has(areaId+':'+link.recordId))fail('US/Canada: undeclared editorial link '+link.recordId);
+   linkedIds.add(link.recordId);
+  }
+ }
+ for(const source of metadata.sources||[]){if(!safeSourceURL(source.url)||!source.evidenceNote||!source.checkedAt)fail('US/Canada: incomplete geographic source');else{const url=new URL(source.url);url.hash='';sourcePages.add(url.href);}}
+}catch(error){fail('US/Canada reference: '+error.message);}
 const counts = Object.fromEntries(REGIONS.map(region => [region, 0]));
 function checkContext(interval,label) {
   if(!interval||!validYear(interval.start)||!validYear(interval.end)||interval.start>interval.end) { fail(label+': invalid reviewed display interval'); return; }
@@ -415,6 +459,7 @@ const report = {
     mapSnapshots: snapshots.snapshots.length,
     historicalTerritories: historicalGeo.features.length,
     historicalPolities: new Set(historicalGeo.features.map(f=>f.properties.polityId)).size,
+    usCanadaReferenceUnits,
     contemporaryMapUnits: contemporaryGeo.features.length,
     contemporaryReferenceYear: contemporaryMeta.reviewedYear,
     contemporaryGeometryVintage: contemporaryMeta.geometryVintage,

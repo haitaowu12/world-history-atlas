@@ -6,8 +6,8 @@
   <meta name="description" content="A bilingual world history atlas. Explore historical territories, civilizations, people and journeys on an interactive map and parallel timeline.">
   <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self'; object-src 'none'; base-uri 'self'; form-action 'none'">
   <title>World History Atlas · 寰宇时序</title>
-  <link rel="icon" href="./assets/favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="./styles.css?v=9">
-  <script defer src="./assets/d3.v7.9.0.min.js"></script><script type="module" src="./app.mjs?v=11"></script>
+  <link rel="icon" href="./assets/favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="./styles.css?v=12">
+  <script defer src="./assets/d3.v7.9.0.min.js"></script><script type="module" src="./app.mjs?v=12"></script>
 </head>
 <body>
 <a class="skip" href="#stories">Skip to historical entries</a>
@@ -23,6 +23,7 @@
     <div class="mode-tabs" role="group" aria-label="Time filter"><button id="mode-year" class="selected" aria-pressed="true" data-i18n="atYear">At this time</button><button id="mode-all" aria-pressed="false" data-i18n="allTime">All history</button></div>
     <div class="kind-tabs" id="kind-tabs" role="group" aria-label="Entry types"></div>
     <div class="filter-grid"><label><span class="sr-only" data-i18n="region">Region</span><select id="region" aria-label="Filter by region"></select></label><label><span class="sr-only" data-i18n="theme">Theme</span><select id="theme" aria-label="Filter by theme"></select></label></div>
+    <button id="regional-area-browser" data-i18n="regionalAreas" class="regional-area-browser text-button" data-action="reference-browse" hidden>US &amp; Canada regions ↗</button>
     <div class="results-heading"><h1 id="results-heading">Loading history…</h1><button id="reset-filters" class="text-button" data-i18n="reset">Reset</button></div>
     <div id="stories" class="stories" tabindex="-1" aria-labelledby="results-heading"></div>
     <div id="sidebar-footer" class="sidebar-footer"></div>

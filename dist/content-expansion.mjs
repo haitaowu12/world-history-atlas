@@ -1,6 +1,6 @@
 // One source manifest feeds the map, search, People and editorial audit.
 // Structural coverage is not a certification of historical claims or borders.
-export const CONTENT_MANIFEST = 'content-expansion-v11.json';
+export const CONTENT_MANIFEST = 'content-expansion-v12.json';
 
 export function partitionExpansion(records) {
   return {histories:records.filter(r=>r.kind!=='person'),people:records.filter(r=>r.kind==='person')};
@@ -42,14 +42,14 @@ export function auditExpansion(records, manifest, allRecords=records) {
   const streams=new Set((manifest.workstreams||[]).map(s=>s.id));
   for(const r of records) {
     if(!r.expansion?.workstreams?.length||r.expansion.workstreams.some(id=>!streams.has(id)))errors.push(r.id+': unknown or missing content workstream');
-    if(![1,2,3,4,5].includes(r.expansion?.release))errors.push(r.id+': invalid editorial release');
+    if(![1,2,3,4,5,6].includes(r.expansion?.release))errors.push(r.id+': invalid editorial release');
     if(typeof r.expansion?.sourceReview!=='string'||!r.expansion.sourceReview.trim())errors.push(r.id+': source-review disclosure missing');
     for(const id of r.relatedIds||[])if(!ids.has(id)||id===r.id)errors.push(r.id+': broken related entry '+id);
     if(r.timeline&&r.kind!=='polity')errors.push(r.id+': only political overviews may enter the political timeline');
     if(r.kind==='person'&&(!r.name?.en||!r.name?.zh||(r.milestones?.length||0)<2))errors.push(r.id+': incomplete full biography');
     for(const s of r.sources||[])if(!s.evidenceNote?.trim()||!s.checkedAt)errors.push(r.id+': source evidence/date missing');
     if(r.expansion?.release>=4) {
-      const edition=r.expansion.release===4?'v10':'v11';
+      const edition=({4:'v10',5:'v11',6:'v12'})[r.expansion.release];
       if(r.expansion.edition!==edition)errors.push(r.id+': missing '+edition.toUpperCase()+' edition');
       if((r.relatedIds?.length||0)<2)errors.push(r.id+': current entry needs connected reading');
       if(!r.expansion.reviewLimit?.en||!r.expansion.reviewLimit?.zh)errors.push(r.id+': missing bilingual review scope');
