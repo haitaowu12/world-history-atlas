@@ -10,9 +10,7 @@ Use , the linked research ledgers and  for current continuation. Earlier release
 
 States and provinces now appear automatically as you zoom, with an always-visible **Regions** button. The modern reference contains **4,596 units in 251 source country/area groups**, including all 50 US states/DC and Canada's 13 provinces/territories. It extends beyond North America, retains source-date/sovereignty limits and loads country shards on demand. Direct regional views use `#year=1867&lang=en&mode=all&regions=CAN` or `regions=USA`; the country code identifies a modern reference view, not historical jurisdiction.
 
-The previous layer was off and hidden behind North America's filter. [Worldwide regional reference](docs/WORLD_REGIONAL_REFERENCE.md) records the demonstrated cause, source pin, transformations, limits and checks. Narrative content remains V12 / 0.11.0; this application patch changes geographic discovery and rendering.
-
-## Current local release: US/Canada lives and regional geography (V12 / 0.11.0)
+## Current narrative release: US/Canada lives and regional geography (V12 / 0.11.0)
 
 V12 adds **26 bilingual entries, 12 biographies, 56 life milestones and 36 distinct narrative-source URLs**. North America now contains **106 entries**. The shared atlas has **1,863 entries, 170 narrative biographies, 534 life milestones and 271 People identities**. Three regional paths gain entries and fifteen source-comparison questions; all previous reading paths, stops and questions survive.
 
@@ -180,7 +178,9 @@ Uncolored land and an empty search result mean this collection has no depiction 
 | `dist/data/expansion-*-v10.json` | Historical V10 biographies and connected histories; generated reading paths are stored separately in `expansion-courses-v10.json` |
 | `dist/data/expansion-courses-v10.json` | Historical V10 regional reading paths, retaining their existing IDs and V9 entries |
 | `dist/data/content-expansion-v9.json`, `dist/data/expansion-*-v9.json` | Frozen V9 expansion baseline and historical manifest |
-| `dist/us-canada-explorer.mjs`, `us-canada-reference.mjs` | Optional modern reference browser, map and year-aware history links |
+| `dist/regional-explorer.mjs`, `regional-reference.mjs` | Current worldwide administrative reference browser, automatic zoom display, labels and geographic history links |
+| `dist/data/regional-reference.json`, `regional-*.geojson` | Current source-dated country/area directory and lazy geographic shards |
+| `dist/us-canada-explorer.mjs`, `us-canada-reference.mjs` | Historical V12 US/Canada-only reference integration |
 | `dist/data/us-canada-reference*`, `us-canada-area-links-v12.json`, `us-canada-history-index-v12.json` | Pinned modern outlines, separate license, named-place evidence and generated index |
 | `dist/discovery.mjs` | Shared People/Places indexes, exact identity links, alias search and regional browsing |
 | `dist/history-reference.mjs` | Shared period, calendar, road/waterway and source-provenance views |
