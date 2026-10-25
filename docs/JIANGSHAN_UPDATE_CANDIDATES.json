@@ -1,0 +1,771 @@
+{
+  "scope": "Static JSON literal parsing and Git review only; no donor scripts executed; no external historical source opened by this subagent.",
+  "baselineCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+  "upstreamCommit": "10fdcaeeb3361525e2f34bd7ca767714341565f0",
+  "upstreamRepository": "https://github.com/DeanChensj/jiangshan-map",
+  "license": {
+    "root": "GPL-3.0, changed from MIT",
+    "exception": "CHGIS V6 and Hartwell-derived prefecture-level and Warring States geometry retain academic/non-commercial original terms; not relicensed under GPL.",
+    "exportCaution": "scripts/export_geojson.js LICENSE string says only GPL3; exported feature metadata does not eliminate the README exception. Do not use generated export as license clearance."
+  },
+  "counts": {
+    "milestones": [
+      442,
+      471
+    ],
+    "landmarks": [
+      536,
+      571
+    ],
+    "profiles": [
+      104,
+      113
+    ],
+    "journeys": [
+      7,
+      7
+    ],
+    "journeyStops": [
+      68,
+      70
+    ],
+    "settlements": [
+      1387,
+      1753
+    ],
+    "phaseRules": [
+      165,
+      181
+    ],
+    "centralEraSpans": [
+      342,
+      351
+    ],
+    "regionalEraTracks": [
+      0,
+      13
+    ],
+    "englishDict": [
+      4183,
+      4676
+    ]
+  },
+  "preserve": {
+    "reviewsFileSha256": "166bc62b977eee6ccb00605891d0da4183d22369a2012ef6a37fe1385bd9ac24",
+    "reviewTopLevelKeys": [
+      "schemaVersion",
+      "reviewedAt",
+      "policy",
+      "eventReviews",
+      "chronicleReviews",
+      "heldResolutions"
+    ],
+    "frozenIds": "Never regenerate old positional IDs using new source order. Match baseline semantic records; append descriptive new IDs. Keep 6 event reviews,24 journey annotations,4 framing amendments and the Zheng He location hold.",
+    "xuanzangOldStopToNewSourceIndex": {
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7,
+      "8": 8,
+      "9": 11,
+      "10": 12
+    }
+  },
+  "priorities": [
+    {
+      "priority": 1,
+      "candidate": "Correct Bao Zheng1061 role; add1057 Kaifeng tenure separately",
+      "source": {
+        "file": "js/lore_data.js",
+        "jsonPointer": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/497"
+      },
+      "newStop": {
+        "file": "js/lore_data.js",
+        "jsonPointer": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/570"
+      },
+      "limit": "Verify against Song History316; donor correction is useful lead, not independent corroboration. Do not replace reviewed IDs."
+    },
+    {
+      "priority": 1,
+      "candidate": "Add search aliases",
+      "source": "js/lore_data.js /ATLAS_LORE_DATA/PLACE_GAZETTEER",
+      "count": 76,
+      "change": "Only asciiAliases fields changed among same185 records; useful additive search reach.",
+      "limit": "Aliases are discovery strings, not alternative historical identities or new settlement facts."
+    },
+    {
+      "priority": 1,
+      "candidate": "New biography research leads",
+      "source": "js/lore_data.js /ATLAS_LORE_DATA/PERSON_PROFILES/104..112",
+      "count": 9,
+      "limit": "These are name/span/alias stubs, not researched life stories. Birth years include uncertain traditional dates; retain approximate/disputed precision where relevant."
+    },
+    {
+      "priority": 2,
+      "candidate": "35 new landmark narrative anchors",
+      "source": "js/lore_data.js /ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/536..570",
+      "limit": "All were labeled verified in donor commit but have no row-level source URL. Must remain inherited/unreviewed if copied with compliant licensing. Avoid exact months unless independently supported; distinguish primary literary anecdotes from established events."
+    },
+    {
+      "priority": 2,
+      "candidate": "Xuanzang Nalanda and Kannauj stops",
+      "source": "js/lore_data.js /ATLAS_LORE_DATA/HISTORICAL_JOURNEYS/3/stops/8..9",
+      "newYearAnchors": [
+        631,
+        642
+      ],
+      "limit": "Existing route chronology is explicitly disputed. Add new descriptive IDs; preserve old008 Gandhara,009 Khotan,010 return even as donor indices become7,10,11. Do not silently mark exact631/642 as reviewed. Khotan via shape is schematic, not a surveyed travelled track."
+    },
+    {
+      "priority": 2,
+      "candidate": "13 coexisting regional era tracks",
+      "source": "js/lore_data.js /ATLAS_LORE_DATA/REGIONAL_ERA_TRACKS",
+      "limit": "Useful avoidance of one imperial calendar for all contemporaries, but local ruling-regime inference must be separately grounded. Do not assign worldwide events to China central chronology."
+    },
+    {
+      "priority": 3,
+      "candidate": "GeoJSON interoperability design",
+      "source": "scripts/export_geojson.js;geojson/jiangshan-locate.js;README.md",
+      "limit": "Not run. Covers403BCE–1948;1949+ and modernprovince layer explicitly excluded. New exported geometry inherits source licensing/approximation constraints; no US/Canada admin1 coverage."
+    }
+  ],
+  "referenceCandidates": [
+    {
+      "title": "宋史卷316—包拯傳",
+      "url": "https://zh.wikisource.org/wiki/宋史/卷316",
+      "status": "candidate route; not opened",
+      "scope": "1057 Kaifeng tenure vs1061 military appointment. Textual history, not exact point coordinate."
+    },
+    {
+      "title": "大唐大慈恩寺三藏法師傳 T2053",
+      "url": "https://cbetaonline.dila.edu.tw/zh/T2053_005",
+      "status": "candidate route; not opened",
+      "scope": "Xuanzang biography/narrative of assembly, with genre and chronology cautions."
+    },
+    {
+      "title": "大唐西域記 T2087",
+      "url": "https://cbetaonline.dila.edu.tw/zh/T2087_009",
+      "status": "candidate route; not opened",
+      "scope": "Nalanda description; source wording does not alone prove donor631 arrival anchor."
+    },
+    {
+      "title": "Note sur la chronologie du voyage de Xuanzang",
+      "url": "https://poj.peeters-leuven.be/content.php?url=article&id=2055070&journal_code=JA",
+      "status": "Already reviewed only at abstract scope in existing china-reviews.json; no new external check by this agent",
+      "scope": "Supports maintaining chronology dispute, not shifting all intermediate stops by2years."
+    }
+  ],
+  "riskExamples": [
+    "New landmark545 Zhang Liang bridge/shoe episode: literary anecdote; do not present as independently established historic stop.",
+    "New landmark558 Di Renjie zh says17,000persons; English says17,000cases. Do not adopt translation as a precise case count.",
+    "New Xuanzang Kannauj victory language/no refutation and honorifics are biographical claims; label source attribution.",
+    "Donor milestone often bundles geographically distant events into one location; preserve curated route stops over composite milestones. Upstream#166 specifically fixes645 Xuanzang return losing to Liaodong campaign milestone.",
+    "New ROC/PRC settlements +164/+165 reflect modern prefecture/genealogy completion; do not treat as independently sourced historical settlement foundation dates."
+  ],
+  "newProfiles": [
+    {
+      "key": "xiaohe",
+      "source": {
+        "file": "js/lore_data.js",
+        "jsonPointer": "/ATLAS_LORE_DATA/PERSON_PROFILES/104"
+      },
+      "name": "Xiao He",
+      "span": [
+        -257,
+        -193
+      ]
+    },
+    {
+      "key": "suwu",
+      "source": {
+        "file": "js/lore_data.js",
+        "jsonPointer": "/ATLAS_LORE_DATA/PERSON_PROFILES/105"
+      },
+      "name": "Su Wu",
+      "span": [
+        -140,
+        -60
+      ]
+    },
+    {
+      "key": "lisi",
+      "source": {
+        "file": "js/lore_data.js",
+        "jsonPointer": "/ATLAS_LORE_DATA/PERSON_PROFILES/106"
+      },
+      "name": "Li Si",
+      "span": [
+        -284,
+        -208
+      ]
+    },
+    {
+      "key": "weizheng",
+      "source": {
+        "file": "js/lore_data.js",
+        "jsonPointer": "/ATLAS_LORE_DATA/PERSON_PROFILES/107"
+      },
+      "name": "Wei Zheng",
+      "span": [
+        580,
+        643
+      ]
+    },
+    {
+      "key": "direnjie",
+      "source": {
+        "file": "js/lore_data.js",
+        "jsonPointer": "/ATLAS_LORE_DATA/PERSON_PROFILES/108"
+      },
+      "name": "Di Renjie",
+      "span": [
+        630,
+        700
+      ]
+    },
+    {
+      "key": "kouzhun",
+      "source": {
+        "file": "js/lore_data.js",
+        "jsonPointer": "/ATLAS_LORE_DATA/PERSON_PROFILES/109"
+      },
+      "name": "Kou Zhun",
+      "span": [
+        961,
+        1023
+      ]
+    },
+    {
+      "key": "baozheng",
+      "source": {
+        "file": "js/lore_data.js",
+        "jsonPointer": "/ATLAS_LORE_DATA/PERSON_PROFILES/110"
+      },
+      "name": "Bao Zheng",
+      "span": [
+        999,
+        1062
+      ]
+    },
+    {
+      "key": "xuxiake",
+      "source": {
+        "file": "js/lore_data.js",
+        "jsonPointer": "/ATLAS_LORE_DATA/PERSON_PROFILES/111"
+      },
+      "name": "Xu Xiake",
+      "span": [
+        1587,
+        1641
+      ]
+    },
+    {
+      "key": "yuanchonghuan",
+      "source": {
+        "file": "js/lore_data.js",
+        "jsonPointer": "/ATLAS_LORE_DATA/PERSON_PROFILES/112"
+      },
+      "name": "Yuan Chonghuan",
+      "span": [
+        1584,
+        1630
+      ]
+    }
+  ],
+  "newLandmarkCandidates": [
+    {
+      "source": {
+        "file": "js/lore_data.js",
+        "jsonPointer": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/536"
+      },
+      "year": 757,
+      "site": "Chang'an (Xi'an)",
+      "title": "Trapped in rebel-held Chang'an, Du Fu writes “Spring View”, then escapes to Fengxiang",
+      "coord": [
+        108.94,
+        34.27
+      ],
+      "status": "upstream-unreviewed"
+    },
+    {
+      "source": {
+        "file": "js/lore_data.js",
+        "jsonPointer": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/537"
+      },
+      "year": 759,
+      "site": "Qinzhou (Tianshui, Gansu)",
+      "title": "Du Fu writes the “Three Officials” and “Three Partings”, then resigns and moves his family to Qinzhou",
+      "coord": [
+        105.72,
+        34.58
+      ],
+      "status": "upstream-unreviewed"
+    },
+    {
+      "source": {
+        "file": "js/lore_data.js",
+        "jsonPointer": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/538"
+      },
+      "year": 763,
+      "site": "Zizhou (Santai, Sichuan)",
+      "title": "In Zizhou, Du Fu hears the imperial army has retaken Henan and Hebei and writes his most joyous poem",
+      "coord": [
+        105.09,
+        31.09
+      ],
+      "status": "upstream-unreviewed"
+    },
+    {
+      "source": {
+        "file": "js/lore_data.js",
+        "jsonPointer": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/539"
+      },
+      "year": 200,
+      "site": "Xu (Xuchang, Henan)",
+      "title": "Having repaid Cao Cao by slaying Yan Liang, Guan Yu seals away Cao's gifts and leaves to rejoin Liu Bei",
+      "coord": [
+        113.98,
+        34.03
+      ],
+      "status": "upstream-unreviewed"
+    },
+    {
+      "source": {
+        "file": "js/lore_data.js",
+        "jsonPointer": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/540"
+      },
+      "year": 215,
+      "site": "Yiyang (Hunan)",
+      "title": "At Yiyang, Lu Su meets Guan Yu “each bearing only a sword”; Jing is then split along the Xiang River",
+      "coord": [
+        112.36,
+        28.55
+      ],
+      "status": "upstream-unreviewed"
+    },
+    {
+      "source": {
+        "file": "js/lore_data.js",
+        "jsonPointer": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/541"
+      },
+      "year": 214,
+      "site": "Jiangzhou (Chongqing)",
+      "title": "Zhang Fei captures Jiangzhou and its governor Yan Yan, then frees him, moved by his refusal to yield",
+      "coord": [
+        106.55,
+        29.56
+      ],
+      "status": "upstream-unreviewed"
+    },
+    {
+      "source": {
+        "file": "js/lore_data.js",
+        "jsonPointer": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/542"
+      },
+      "year": 221,
+      "site": "Langzhong (Sichuan)",
+      "title": "About to lead 10,000 troops from Langzhong against Wu, Zhang Fei is murdered by his own officers",
+      "coord": [
+        105.97,
+        31.58
+      ],
+      "status": "upstream-unreviewed"
+    },
+    {
+      "source": {
+        "file": "js/lore_data.js",
+        "jsonPointer": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/543"
+      },
+      "year": 195,
+      "site": "Liyang (He County, Anhui)",
+      "title": "Zhou Yu brings troops and grain to Sun Ce at Liyang, helping him cross the Yangtze and take Moling and Qu'e",
+      "coord": [
+        118.36,
+        31.71
+      ],
+      "status": "upstream-unreviewed"
+    },
+    {
+      "source": {
+        "file": "js/lore_data.js",
+        "jsonPointer": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/544"
+      },
+      "year": 199,
+      "site": "Wancheng (Qianshan, Anhui)",
+      "title": "Zhou Yu and Sun Ce capture Wancheng; Sun Ce weds the elder Qiao sister and Zhou Yu the younger",
+      "coord": [
+        116.57,
+        30.63
+      ],
+      "status": "upstream-unreviewed"
+    },
+    {
+      "source": {
+        "file": "js/lore_data.js",
+        "jsonPointer": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/545"
+      },
+      "year": -218,
+      "site": "Xiapi Bridge (Suining, Jiangsu)",
+      "title": "Hiding in Xiapi, Zhang Liang fetches an old man's shoe on a bridge and receives a book of strategy",
+      "coord": [
+        117.98,
+        34.1
+      ],
+      "status": "upstream-unreviewed"
+    },
+    {
+      "source": {
+        "file": "js/lore_data.js",
+        "jsonPointer": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/546"
+      },
+      "year": -206,
+      "site": "Baoxie Plank Road (Liuba, Shaanxi)",
+      "title": "Seeing Liu Bang into Hanzhong, Zhang Liang urges him to burn the plank roads to reassure Xiang Yu",
+      "coord": [
+        106.92,
+        33.62
+      ],
+      "status": "upstream-unreviewed"
+    },
+    {
+      "source": {
+        "file": "js/lore_data.js",
+        "jsonPointer": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/547"
+      },
+      "year": -99,
+      "site": "Chang'an (Xi'an)",
+      "title": "Sima Qian defends the defeated general Li Ling, suffers castration, and resolves to finish his history",
+      "coord": [
+        108.88,
+        34.3
+      ],
+      "status": "upstream-unreviewed"
+    },
+    {
+      "source": {
+        "file": "js/lore_data.js",
+        "jsonPointer": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/548"
+      },
+      "year": 819,
+      "site": "Chaozhou (Guangdong)",
+      "title": "Exiled to Chaozhou, Han Yu writes “Address to the Crocodiles”; locals name the Han River after him",
+      "coord": [
+        116.62,
+        23.66
+      ],
+      "status": "upstream-unreviewed"
+    },
+    {
+      "source": {
+        "file": "js/lore_data.js",
+        "jsonPointer": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/549"
+      },
+      "year": 822,
+      "site": "Kuizhou (Fengjie, Chongqing)",
+      "title": "As prefect of Kuizhou, Liu Yuxi turns Ba folk tunes into his “Bamboo Branch Songs”",
+      "coord": [
+        109.47,
+        31.02
+      ],
+      "status": "upstream-unreviewed"
+    },
+    {
+      "source": {
+        "file": "js/lore_data.js",
+        "jsonPointer": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/550"
+      },
+      "year": 1101,
+      "site": "Bianjing (Kaifeng, Henan)",
+      "title": "Li Qingzhao marries Zhao Mingcheng in Kaifeng; the couple pawn clothes to buy rubbings and antiquities",
+      "coord": [
+        114.35,
+        34.8
+      ],
+      "status": "upstream-unreviewed"
+    },
+    {
+      "source": {
+        "file": "js/lore_data.js",
+        "jsonPointer": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/551"
+      },
+      "year": 1627,
+      "site": "Jinzhou (Liaoning)",
+      "title": "Ningyuan–Jinzhou victory: Yuan Chonghuan and Zhao Shuaijiao repel Hong Taiji's assault",
+      "coord": [
+        121.13,
+        41.1
+      ],
+      "status": "upstream-unreviewed"
+    },
+    {
+      "source": {
+        "file": "js/lore_data.js",
+        "jsonPointer": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/552"
+      },
+      "year": 980,
+      "site": "Badong (Hubei)",
+      "title": "Newly a jinshi at nineteen, Kou Zhun governs Badong and writes “a lone boat drifts all day long”",
+      "coord": [
+        110.37,
+        31.05
+      ],
+      "status": "upstream-unreviewed"
+    },
+    {
+      "source": {
+        "file": "js/lore_data.js",
+        "jsonPointer": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/553"
+      },
+      "year": -100,
+      "site": "Chang'an (Xi'an)",
+      "title": "Palace general Su Wu sets out from Chang'an bearing the Han tally as envoy to the Xiongnu",
+      "coord": [
+        108.88,
+        34.3
+      ],
+      "status": "upstream-unreviewed"
+    },
+    {
+      "source": {
+        "file": "js/lore_data.js",
+        "jsonPointer": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/554"
+      },
+      "year": -81,
+      "site": "Chang'an (Xi'an)",
+      "title": "After nineteen years in captivity, a white-haired Su Wu returns to Chang'an, his envoy's tally bare",
+      "coord": [
+        108.88,
+        34.3
+      ],
+      "status": "upstream-unreviewed"
+    },
+    {
+      "source": {
+        "file": "js/lore_data.js",
+        "jsonPointer": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/555"
+      },
+      "year": 617,
+      "site": "Luokou (Gongyi, Henan)",
+      "title": "Wei Zheng joins the Wagang rebel leader Li Mi at Luokou as his secretary",
+      "coord": [
+        113.03,
+        34.73
+      ],
+      "status": "upstream-unreviewed"
+    },
+    {
+      "source": {
+        "file": "js/lore_data.js",
+        "jsonPointer": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/556"
+      },
+      "year": 626,
+      "site": "Chang'an (Xi'an)",
+      "title": "After the Xuanwu Gate coup, Wei Zheng answers Li Shimin's rebuke with candor and is promoted",
+      "coord": [
+        108.94,
+        34.27
+      ],
+      "status": "upstream-unreviewed"
+    },
+    {
+      "source": {
+        "file": "js/lore_data.js",
+        "jsonPointer": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/557"
+      },
+      "year": 643,
+      "site": "Chang'an (Xi'an)",
+      "title": "Wei Zheng dies; Emperor Taizong mourns that he has lost the “mirror” that showed his faults",
+      "coord": [
+        108.94,
+        34.27
+      ],
+      "status": "upstream-unreviewed"
+    },
+    {
+      "source": {
+        "file": "js/lore_data.js",
+        "jsonPointer": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/558"
+      },
+      "year": 676,
+      "site": "Chang'an (Xi'an)",
+      "title": "As judge of the Court of Revision, Di Renjie clears 17,000 backlogged cases in a year without complaint",
+      "coord": [
+        108.94,
+        34.27
+      ],
+      "status": "upstream-unreviewed"
+    },
+    {
+      "source": {
+        "file": "js/lore_data.js",
+        "jsonPointer": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/559"
+      },
+      "year": 692,
+      "site": "Pengze (Jiangxi)",
+      "title": "Framed by Lai Junchen, Di Renjie smuggles out a plea on silk, escapes death and is demoted to Pengze",
+      "coord": [
+        116.55,
+        29.9
+      ],
+      "status": "upstream-unreviewed"
+    },
+    {
+      "source": {
+        "file": "js/lore_data.js",
+        "jsonPointer": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/560"
+      },
+      "year": 697,
+      "site": "Weizhou (Daming, Hebei)",
+      "title": "Prefect Di Renjie calms Weizhou as the Khitans retreat; grateful locals build him a living shrine",
+      "coord": [
+        115.25,
+        36.35
+      ],
+      "status": "upstream-unreviewed"
+    },
+    {
+      "source": {
+        "file": "js/lore_data.js",
+        "jsonPointer": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/561"
+      },
+      "year": 700,
+      "site": "Shendu Luoyang (Henan)",
+      "title": "Di Renjie dies in Luoyang after recommending Zhang Jianzhi; Empress Wu weeps that “the court is empty”",
+      "coord": [
+        112.45,
+        34.62
+      ],
+      "status": "upstream-unreviewed"
+    },
+    {
+      "source": {
+        "file": "js/lore_data.js",
+        "jsonPointer": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/562"
+      },
+      "year": 1037,
+      "site": "Tianchang (Anhui)",
+      "title": "Magistrate Bao Zheng of Tianchang cleverly unmasks a culprit who cut out a farmer's ox tongue",
+      "coord": [
+        119,
+        32.69
+      ],
+      "status": "upstream-unreviewed"
+    },
+    {
+      "source": {
+        "file": "js/lore_data.js",
+        "jsonPointer": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/563"
+      },
+      "year": 1040,
+      "site": "Duanzhou (Zhaoqing, Guangdong)",
+      "title": "Governing Duanzhou, home of famed inkstones, Bao Zheng leaves office without taking a single one",
+      "coord": [
+        112.47,
+        23.05
+      ],
+      "status": "upstream-unreviewed"
+    },
+    {
+      "source": {
+        "file": "js/lore_data.js",
+        "jsonPointer": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/564"
+      },
+      "year": -237,
+      "site": "Xianyang (Shaanxi)",
+      "title": "When Qin expels foreign advisers, Li Si's memorial persuades the King to revoke the order",
+      "coord": [
+        108.71,
+        34.33
+      ],
+      "status": "upstream-unreviewed"
+    },
+    {
+      "source": {
+        "file": "js/lore_data.js",
+        "jsonPointer": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/565"
+      },
+      "year": -208,
+      "site": "Xianyang (Shaanxi)",
+      "title": "Framed by Zhao Gao, Li Si is executed in Xianyang, longing to hunt hares with his son once more",
+      "coord": [
+        108.71,
+        34.33
+      ],
+      "status": "upstream-unreviewed"
+    },
+    {
+      "source": {
+        "file": "js/lore_data.js",
+        "jsonPointer": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/566"
+      },
+      "year": 1613,
+      "site": "Mount Tiantai (Zhejiang)",
+      "title": "Xu Xiake explores Mount Tiantai and opens his travel diaries; that May 19 is now China Tourism Day",
+      "coord": [
+        121.1,
+        29.25
+      ],
+      "status": "upstream-unreviewed"
+    },
+    {
+      "source": {
+        "file": "js/lore_data.js",
+        "jsonPointer": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/567"
+      },
+      "year": 1618,
+      "site": "Mount Huangshan (Anhui)",
+      "title": "On his second Huangshan trip, Xu Xiake scales Tiandu and Lotus peaks and records the climb",
+      "coord": [
+        118.17,
+        30.13
+      ],
+      "status": "upstream-unreviewed"
+    },
+    {
+      "source": {
+        "file": "js/lore_data.js",
+        "jsonPointer": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/568"
+      },
+      "year": 1639,
+      "site": "Tengyue (Tengchong, Yunnan)",
+      "title": "Xu Xiake's great southwest journey reaches Tengyue, where he documents volcanic rock and hot springs",
+      "coord": [
+        98.49,
+        25.02
+      ],
+      "status": "upstream-unreviewed"
+    },
+    {
+      "source": {
+        "file": "js/lore_data.js",
+        "jsonPointer": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/569"
+      },
+      "year": 1641,
+      "site": "Jiangyin (Jiangsu)",
+      "title": "Crippled by illness, Xu Xiake dies at home in Jiangyin, leaving over 600,000 characters of travel notes",
+      "coord": [
+        120.28,
+        31.92
+      ],
+      "status": "upstream-unreviewed"
+    },
+    {
+      "source": {
+        "file": "js/lore_data.js",
+        "jsonPointer": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/570"
+      },
+      "year": 1057,
+      "site": "Kaifeng Prefecture (Henan)",
+      "title": "As prefect of Kaifeng, Bao Zheng opens the gates to direct petitions and becomes a byword for integrity",
+      "coord": [
+        114.35,
+        34.79
+      ],
+      "status": "upstream-unreviewed"
+    }
+  ],
+  "sourceMaterialLicense": "GPL-3.0 for donor wording and extracted source descriptors; see ../dist/data/jiangshan-update.GPL-3.0.txt"
+}

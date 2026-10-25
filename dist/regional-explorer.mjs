@@ -1,6 +1,6 @@
-import {REGIONAL_ZOOM,referenceAreaName,searchRegionalUnits,referenceHistory,visibleReferenceCountries,projectedReferenceBounds,regionalCountryFromHash,regionalLabelCandidates} from './regional-reference.mjs?v=13';
+import {REGIONAL_ZOOM,referenceAreaName,searchRegionalUnits,referenceHistory,visibleReferenceCountries,projectedReferenceBounds,regionalCountryFromHash,regionalLabelCandidates,layoutRegionalLabels} from './regional-reference.mjs?v=14';
 
-export function createRegionalExplorer({records,getState,getRoot,getProjection,getTransform,getViewport,isChallenge,enabled,setEnabled,loadJSON,openDialog,closeDialog,focusLocation,prepareMap,onNavigate,cachedPath,esc,sourceLink,formatPeriod,showTooltip,hideTooltip}){
+export function createRegionalExplorer({records,getState,getRoot,getProjection,getTransform,getViewport,getLabelObstacles=()=>[],isChallenge,enabled,setEnabled,loadJSON,openDialog,closeDialog,focusLocation,prepareMap,onNavigate,cachedPath,esc,sourceLink,formatPeriod,showTooltip,hideTooltip}){
  let metadata,metadataPending,metadataError,paths,labels,currentArea='',yearOnly=false,paintFrame=0,activeRequests=0;
  let selectedCountry=/^[A-Z]{3}$/.test(new URLSearchParams(location.hash.slice(1)).get('regions')||'')?new URLSearchParams(location.hash.slice(1)).get('regions'):'';
  const loaded=new Map(),pending=new Map(),failures=new Map(),jobs=[],zh=()=>getState().lang==='zh',text=(en,cn)=>zh()?cn:en,loc=v=>v?.[getState().lang]||v?.en||v;
@@ -58,11 +58,11 @@ export function createRegionalExplorer({records,getState,getRoot,getProjection,g
    .attr('d',cachedPath).attr('data-regional-area',f=>f.properties.id).attr('data-reference-release','5.1.1').attr('role','button').attr('tabindex',0).attr('aria-label',f=>`${name(f)} · ${text('modern regional reference','现代行政区参照')}`)
    .on('click',(event,f)=>{event.stopPropagation();yearOnly=false;showArea(f.properties.id);}).on('keydown',(event,f)=>{if(['Enter',' '].includes(event.key)){event.preventDefault();yearOnly=false;showArea(f.properties.id);}})
    .on('mouseenter',(event,f)=>showTooltip(event,`${name(f)} · ${text('2022 modern reference','2022年现代参照')}`)).on('mouseleave',hideTooltip);
-  const boxes=[],labelRows=transform.k>=2.8?regionalLabelCandidates(visible,selectedCountry).filter(f=>{const [x,y]=transform.apply(projection(f.properties.labelPoint));const label=name(f),width=Math.min(130,Math.max(22,(zh()?label.length*9:label.length*5.5)));if(boxes.length>=80||x<12||x>viewport.width-12||y<12||y>viewport.height-12||boxes.some(b=>Math.abs(x-b.x)<(width+b.width)/2+5&&Math.abs(y-b.y)<18))return false;boxes.push({x,y,width});return true;}):[];
+  const labelRows=layoutRegionalLabels(regionalLabelCandidates(visible,selectedCountry),{projection,transform,viewport,lang:getState().lang,obstacles:getLabelObstacles()});
   labels.selectAll('text').data(labelRows,f=>f.properties.id).join('text').attr('class','reference-area-label').attr('transform',f=>{const p=projection(f.properties.labelPoint);return `translate(${p[0]},${p[1]}) scale(${1/transform.k})`;}).text(f=>name(f));
  }
  function handle(action,id){
-  if(!action.startsWith('regions-')&&!action.startsWith('reference-'))return false;
+  if(!action.startsWith('regions-')&&action!=='reference-browse')return false;
   const attempt=p=>p.catch(error=>openDialog(`<h2>${text('Regional data unavailable','地区资料暂不可用')}</h2><p>${esc(error.message)}</p><button data-action="regions-browse">${text('Retry','重试')}</button>`));
   if(action==='regions-browse'||action==='reference-browse')attempt(showBrowser());
   else if(action==='regions-country')attempt(showCountry(id));

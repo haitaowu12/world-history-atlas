@@ -24,3 +24,18 @@ export function regionalLabelCandidates(features,selectedCountry=''){
  const codes=new Set(['USA','CAN'].includes(selectedCountry)?['USA','CAN']:[selectedCountry]);
  return features.filter(f=>codes.has(f.properties.country)).sort((a,b)=>Number(b.properties.country===selectedCountry)-Number(a.properties.country===selectedCountry));
 }
+
+// Labels share screen space with markers, not just other subdivision names.
+export function layoutRegionalLabels(features,{projection,transform,viewport,lang='en',obstacles=[]}){
+ if(transform.k<2.8)return [];
+ const boxes=obstacles.map(box=>({...box})),accepted=[],limit=viewport.width<600?14:80;
+ for(const feature of features){
+  const [x,y]=transform.apply(projection(feature.properties.labelPoint));
+  const label=referenceAreaName(feature,lang),w=Math.max(22,label.length*(lang==='zh'?11:6));
+  const box={x:x-w/2,y:y-12,w,h:18};
+  if(accepted.length>=limit||box.x<12||box.x+w>viewport.width-12||box.y<12||box.y+18>viewport.height-12||
+     boxes.some(b=>box.x<b.x+b.w+6&&box.x+w+6>b.x&&box.y<b.y+b.h+4&&box.y+18+4>b.y))continue;
+  boxes.push(box);accepted.push(feature);
+ }
+ return accepted;
+}

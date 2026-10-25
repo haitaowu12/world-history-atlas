@@ -6,8 +6,9 @@
   <meta name="description" content="A bilingual world history atlas. Explore historical territories, civilizations, people and journeys on an interactive map and parallel timeline.">
   <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self'; object-src 'none'; base-uri 'self'; form-action 'none'">
   <title>World History Atlas · 寰宇时序</title>
-  <link rel="icon" href="./assets/favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="./styles.css?v=13">
-  <script defer src="./assets/d3.v7.9.0.min.js"></script><script type="module" src="./app.mjs?v=13"></script>
+  <link rel="icon" href="./assets/favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="./styles.css?v=14">
+  <link rel="stylesheet" href="./refinements.css?v=14">
+  <script defer src="./assets/d3.v7.9.0.min.js"></script><script type="module" src="./app.mjs?v=14"></script>
 </head>
 <body>
 <a class="skip" href="#stories">Skip to historical entries</a>
@@ -22,8 +23,8 @@
     <div class="search-wrap"><span aria-hidden="true">⌕</span><input id="search" type="search" maxlength="200" aria-label="Search history" placeholder="Places, people, empires…"><kbd>/</kbd></div>
     <div class="mode-tabs" role="group" aria-label="Time filter"><button id="mode-year" class="selected" aria-pressed="true" data-i18n="atYear">At this time</button><button id="mode-all" aria-pressed="false" data-i18n="allTime">All history</button></div>
     <div class="kind-tabs" id="kind-tabs" role="group" aria-label="Entry types"></div>
-    <div class="filter-grid"><label><span class="sr-only" data-i18n="region">Region</span><select id="region" aria-label="Filter by region"></select></label><label><span class="sr-only" data-i18n="theme">Theme</span><select id="theme" aria-label="Filter by theme"></select></label></div>
-    <button id="regional-area-browser" data-i18n="regionalAreas" class="regional-area-browser text-button" data-action="regions-browse">States &amp; provinces worldwide ↗</button>
+    <details class="explorer-filters"><summary id="filter-summary">Filters</summary><div class="filter-grid"><label><span class="sr-only" data-i18n="region">Region</span><select id="region" aria-label="Filter by region"></select></label><label><span class="sr-only" data-i18n="theme">Theme</span><select id="theme" aria-label="Filter by theme"></select></label></div>
+    </details>
     <div class="results-heading"><h1 id="results-heading">Loading history…</h1><button id="reset-filters" class="text-button" data-i18n="reset">Reset</button></div>
     <div id="stories" class="stories" tabindex="-1" aria-labelledby="results-heading"></div>
     <div id="sidebar-footer" class="sidebar-footer"></div>
@@ -44,8 +45,7 @@
   <section class="timeline" aria-label="History timeline">
     <div class="era-rail" id="era-rail"></div>
     <div class="timeline-main"><div class="time-buttons"><button id="previous-time" aria-label="Previous historical map">‹</button><button id="play" aria-label="Play timeline">▶</button><button id="next-time" aria-label="Next historical map">›</button></div><div class="time-slider"><input id="timeline-slider" type="range" min="0" max="8000" step="1" value="5400" aria-label="Historical year"><div id="timeline-ticks" class="timeline-ticks"></div></div><form id="year-form" class="year-form"><label class="sr-only" for="year-input" data-i18n="travelTo">Travel to year</label><input id="year-input" type="number" min="1" max="2026" value="1200" aria-label="Year"><select id="era" aria-label="Era"><option value="ce">CE</option><option value="bce">BCE</option></select><button type="submit" aria-label="Go to year">→</button></form></div>
-    <div id="parallel-preview" class="parallel-preview"></div>
-    <div class="timeline-bottom"><button id="chronology-open" class="text-button" data-i18n="parallel">▤ Compare regional timelines</button><span id="timeline-label"></span><button id="compare-button" class="text-button" data-i18n="compare">Compare entries</button><span id="atlas-count"></span></div>
+    <div class="timeline-bottom"><button id="chronology-open" class="text-button" data-i18n="parallel">▤ Compare regional timelines</button><details class="timeline-comparison"><summary data-i18n="regionalPreview">Regional preview</summary><div id="parallel-preview" class="parallel-preview"></div></details><span id="timeline-label"></span><button id="compare-button" class="text-button" data-i18n="compare">Compare entries</button><span id="atlas-count"></span></div>
   </section>
 </main>
 <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>

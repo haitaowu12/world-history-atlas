@@ -60,3 +60,9 @@ CShapes 2.0 geometry and its display derivative retain **CC BY-NC-SA 4.0**, attr
 The fuller Jiangshan phase extraction preserves the upstream notice discrepancy and source attribution in `dist/data/china-context-v7.LICENSE.md`. It does not claim that all geometry is covered by the root MIT notice. Political phase shapes and optional administrative shapes remain inherited schematics.
 
 The 52 new bilingual narratives use the atlas's original-narrative CC BY 4.0 terms; their cited sources retain their own rights. They paraphrase evidence and do not republish source articles.
+
+## October 25, 2026 additive upstream intake
+
+`dist/data/jiangshan-search-update.json` retains 232 discovery aliases from DeanChensj and contributors at upstream commit `10fdcaeeb3361525e2f34bd7ca767714341565f0`. It is separately attributed GPL-3.0 data; the complete GPL text is `dist/data/jiangshan-update.GPL-3.0.txt`. The extracted donor descriptions in `docs/JIANGSHAN_UPDATE_CANDIDATES.json` retain the same source terms and are excluded from the original-documentation MIT notice. The pinned source repository/file/pointers are supplied with the data. No new upstream code or boundary geometry is copied.
+
+`dist/data/jiangshan-reviewed-update.json` contains independently written atlas wording and inspection notes: a Bao Zheng correction and two Xuanzang primary-text readings. Its original expression follows the atlas CC BY 4.0 notice; cited editions and inherited source records retain their rights. This additive layer does not change frozen import notices or certify the remaining candidate queue.

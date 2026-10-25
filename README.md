@@ -6,7 +6,11 @@ A bilingual, source-backed atlas for exploring histories that existed at the sam
 
 Use , the linked research ledgers and  for current continuation. Earlier release and verification records remain historical checkpoints.
 
-## Current map update: worldwide subdivisions (0.11.1)
+## Current update: selective upstream intake and UI refinement (0.12.0)
+
+Reviewed the original Jiangshan repository at `10fdcaee`, preserving the frozen import. Added 232 search aliases for 76 places, a primary-text-checked Bao Zheng correction, and two Xuanzang source readings. The map, result list and biography drawer have more usable space; secondary filters, regional previews and turning points use disclosures. See [intake and UI review](docs/JIANGSHAN_UI_UPDATE.md).
+
+## Worldwide subdivisions (0.11.1)
 
 States and provinces now appear automatically as you zoom, with an always-visible **Regions** button. The modern reference contains **4,596 units in 251 source country/area groups**, including all 50 US states/DC and Canada's 13 provinces/territories. It extends beyond North America, retains source-date/sovereignty limits and loads country shards on demand. Direct regional views use `#year=1867&lang=en&mode=all&regions=CAN` or `regions=USA`; the country code identifies a modern reference view, not historical jurisdiction.
 
