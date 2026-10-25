@@ -4,8 +4,6 @@ A bilingual, source-backed atlas for exploring histories that existed at the sam
 
 ## Source and research handoff
 
-The GitHub baseline is [`world/` on the `world-history-atlas` branch](https://github.com/haitaowu12/jiangshan-map/tree/world-history-atlas/world). This local checkout contains **V12 / 0.11.0**, developed on `mac/us-canada-atlas-depth` from committed local V11 `b762e906cfaf7450c95e90e9eb2275485d69f3f6`. V11 and V12 have not been pushed or deployed by these local tasks; the linked live atlas is the V10 publication. The original application outside `world/` is preserved.
-
 Use , the linked research ledgers and  for current continuation. Earlier release and verification records remain historical checkpoints.
 
 ## Current local release: US/Canada lives and regional geography (V12 / 0.11.0)
