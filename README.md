@@ -6,7 +6,13 @@ A bilingual, source-backed atlas for exploring histories that existed at the sam
 
 Use , the linked research ledgers and  for current continuation. Earlier release and verification records remain historical checkpoints.
 
-## Current update: selective upstream intake and UI refinement (0.12.0)
+## Current application: dated Americas and clearer map views (0.13.0)
+
+A cool mineral color scheme, consolidated History / Modern geography views and dated US/Canada administrative geometry address the color/chronology mismatch. Newberry supplies US year-end selections for 1783–2000; NRCan supplies Canadian stages for 1867–2003. Alaska, Gadsden transfer interpretation, Confederation, Newfoundland and Nunavut have explicit regression checks. Other regions retain their independently dated global sources and clearly labeled 2022 regional reference. Carver gains an independently sourced 1896 Tuskegee milestone; the current collection has **535 life milestones**. Biography pins no longer imply travel routes.
+
+See [method, research triage and remaining limits](docs/AMERICAS_HISTORY_013.md) and [separate geometry rights](dist/data/americas-history.LICENSE.md). The older release sections below describe their own checkpoints.
+
+## Previous update: selective upstream intake and UI refinement (0.12.0)
 
 Reviewed the original Jiangshan repository at `10fdcaee`, preserving the frozen import. Added 232 search aliases for 76 places, a primary-text-checked Bao Zheng correction, and two Xuanzang source readings. The map, result list and biography drawer have more usable space; secondary filters, regional previews and turning points use disclosures. See [intake and UI review](docs/JIANGSHAN_UI_UPDATE.md).
 

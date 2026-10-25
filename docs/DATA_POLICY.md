@@ -1,5 +1,7 @@
 # Historical data policy
 
+Current 0.13.0 addendum: [dated Americas and map-view method](AMERICAS_HISTORY_013.md) governs the separate Newberry/NRCan references, source-window replacement, palette and History / Modern geography view behavior. Earlier source-specific details below remain historical documentation; US/Canada are no longer universally represented by modern reference outlines.
+
 World History Atlas is an educational collection of selected histories. Its records, people, routes and maps answer different questions and have different evidence requirements. A missing entry or uncolored area never means that a region was uninhabited, ungoverned or lacked history.
 
 ## 1. Time means a selected focus interval

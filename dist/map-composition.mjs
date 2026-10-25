@@ -16,6 +16,7 @@ export function composeHistoricalFeatures(globalFeatures,chinaFeatures=[]){
 
 export function outlineCaption(feature,lang='en',formatYear){
   const p=feature.properties;
+  if(p.role==='division')return `${lang==='zh'?'行政来源阶段':'Administrative source stage'}: ${formatYear(p.start,lang)} – ${formatYear(p.end,lang)}`;
   if(p.schematic&&p.sourcePhase){
     const start=formatYear(p.sourcePhase.start,lang),end=formatYear(p.sourcePhase.end,lang);
     return `${lang==='zh'?'参考示意阶段':'Reference schematic stage'}: ${start} – ${end}`;

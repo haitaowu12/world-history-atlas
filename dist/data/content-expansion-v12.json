@@ -119,8 +119,8 @@
     {
       "file": "expansion-north-america-regions-v12.json",
       "records": 8,
-      "sha256": "34c39a782a42d043cd30589a9c8173b652bdbc418e948874105e70abe8b9d301",
-      "bytes": 66816
+      "sha256": "be31542420049bc33de84d6495ab98c70d545c2d5aa1c16d998eace8e82212f6",
+      "bytes": 68836
     },
     {
       "file": "expansion-canada-coasts-v12.json",
@@ -595,9 +595,9 @@
   "counts": {
     "records": 494,
     "biographies": 146,
-    "biographyMilestones": 459,
+    "biographyMilestones": 460,
     "politicalOverviews": 70,
-    "sourceURLs": 895,
+    "sourceURLs": 896,
     "readingPaths": 32,
     "releases": {
       "1": 60,
@@ -619,9 +619,9 @@
     ],
     "records": 26,
     "biographies": 12,
-    "biographyMilestones": 56,
+    "biographyMilestones": 57,
     "politicalOverviews": 0,
-    "sourceURLs": 36,
+    "sourceURLs": 37,
     "recordIds": [
       "person-george-washington",
       "valley-forge-supply-households",
@@ -654,9 +654,9 @@
       "north-america": {
         "records": 26,
         "biographies": 12,
-        "biographyMilestones": 56,
+        "biographyMilestones": 57,
         "politicalOverviews": 0,
-        "sourceURLs": 36
+        "sourceURLs": 37
       }
     }
   },
@@ -1506,7 +1506,7 @@
       "records": 49,
       "biographies": 21,
       "politicalOverviews": 0,
-      "sourceCount": 84
+      "sourceCount": 85
     },
     {
       "id": "LA1",

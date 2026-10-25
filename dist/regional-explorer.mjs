@@ -1,6 +1,6 @@
 import {REGIONAL_ZOOM,referenceAreaName,searchRegionalUnits,referenceHistory,visibleReferenceCountries,projectedReferenceBounds,regionalCountryFromHash,regionalLabelCandidates,layoutRegionalLabels} from './regional-reference.mjs?v=14';
 
-export function createRegionalExplorer({records,getState,getRoot,getProjection,getTransform,getViewport,getLabelObstacles=()=>[],isChallenge,enabled,setEnabled,loadJSON,openDialog,closeDialog,focusLocation,prepareMap,onNavigate,cachedPath,esc,sourceLink,formatPeriod,showTooltip,hideTooltip}){
+export function createRegionalExplorer({records,getState,getRoot,getProjection,getTransform,getViewport,getLabelObstacles=()=>[],getHistoricalDivisions=()=>[],labelsEnabled=()=>true,excludeModernCountries=()=>new Set(),isChallenge,enabled,setEnabled,loadJSON,openDialog,closeDialog,focusLocation,prepareMap,onNavigate,cachedPath,esc,sourceLink,formatPeriod,showTooltip,hideTooltip}){
  let metadata,metadataPending,metadataError,paths,labels,currentArea='',yearOnly=false,paintFrame=0,activeRequests=0;
  let selectedCountry=/^[A-Z]{3}$/.test(new URLSearchParams(location.hash.slice(1)).get('regions')||'')?new URLSearchParams(location.hash.slice(1)).get('regions'):'';
  const loaded=new Map(),pending=new Map(),failures=new Map(),jobs=[],zh=()=>getState().lang==='zh',text=(en,cn)=>zh()?cn:en,loc=v=>v?.[getState().lang]||v?.en||v;
@@ -44,12 +44,14 @@ export function createRegionalExplorer({records,getState,getRoot,getProjection,g
   let button=document.querySelector('#regional-reference-status');if(!enabled()||isChallenge()){button?.remove();return;}
   if(!button){button=document.createElement('button');button.id='regional-reference-status';button.className='map-status-link reference-status';button.dataset.action='regions-browse';document.querySelector('.map-bottomline').insertBefore(button,document.querySelector('#map-method'));}
   const failure=metadataError||failures.size;
-  button.textContent=failure?text('Regional data unavailable · retry ↗','地区资料暂不可用 · 重试 ↗'):getTransform().k<REGIONAL_ZOOM?text('States & provinces · zoom in ↗','州与省区 · 放大查看 ↗'):text('Modern subdivisions · 2022 reference ↗','现代行政边界 · 2022年参照 ↗');
+  const historical=excludeModernCountries().size>0;button.dataset.action=historical?'map-evidence':'regions-browse';
+  button.textContent=failure?text('Regional data unavailable · retry ↗','地区资料暂不可用 · 重试 ↗'):historical?text(`US/Canada divisions · ${getState().year} historical view ↗`,`美国／加拿大区划 · ${getState().year}年历史视图 ↗`):getTransform().k<REGIONAL_ZOOM?text('States & provinces · zoom in ↗','州与省区 · 放大查看 ↗'):text('Modern subdivisions · 2022 reference ↗','现代行政边界 · 2022年参照 ↗');
  }
  function renderMap(){
   const root=getRoot();if(!root)return;document.querySelector('.map-stage').classList.toggle('regional-focus',!!selectedCountry&&enabled()&&!isChallenge());updateStatus();
   if(!metadata){if(!metadataError)loadMetadata().then(schedule).catch(schedule);return;}
-  const countries=enabled()&&!isChallenge()?visibleReferenceCountries(metadata.countries,getProjection(),getTransform(),getViewport()):[];
+  const excluded=excludeModernCountries();
+  const countries=enabled()&&!isChallenge()?visibleReferenceCountries(metadata.countries,getProjection(),getTransform(),getViewport()).filter(c=>!excluded.has(c.code)):[];
   for(const c of countries)if(!loaded.has(c.code)&&!pending.has(c.code)&&!failures.has(c.code))loadCountry(c.code).catch(()=>{});
   const codes=new Set(countries.map(c=>c.code)),projection=getProjection(),transform=getTransform(),viewport=getViewport();
   const visible=[...loaded].filter(([code])=>codes.has(code)).flatMap(([,units])=>units).filter(f=>projectedReferenceBounds(f.properties.bounds,projection,transform).some(([[x0,y0],[x1,y1]])=>x1>=0&&y1>=0&&x0<=viewport.width&&y0<=viewport.height));
@@ -58,7 +60,8 @@ export function createRegionalExplorer({records,getState,getRoot,getProjection,g
    .attr('d',cachedPath).attr('data-regional-area',f=>f.properties.id).attr('data-reference-release','5.1.1').attr('role','button').attr('tabindex',0).attr('aria-label',f=>`${name(f)} · ${text('modern regional reference','现代行政区参照')}`)
    .on('click',(event,f)=>{event.stopPropagation();yearOnly=false;showArea(f.properties.id);}).on('keydown',(event,f)=>{if(['Enter',' '].includes(event.key)){event.preventDefault();yearOnly=false;showArea(f.properties.id);}})
    .on('mouseenter',(event,f)=>showTooltip(event,`${name(f)} · ${text('2022 modern reference','2022年现代参照')}`)).on('mouseleave',hideTooltip);
-  const labelRows=layoutRegionalLabels(regionalLabelCandidates(visible,selectedCountry),{projection,transform,viewport,lang:getState().lang,obstacles:getLabelObstacles()});
+  const historical=enabled()&&!isChallenge()?getHistoricalDivisions():[];
+  const labelRows=labelsEnabled()?layoutRegionalLabels(regionalLabelCandidates([...historical,...visible],selectedCountry),{projection,transform,viewport,lang:getState().lang,obstacles:getLabelObstacles()}):[];
   labels.selectAll('text').data(labelRows,f=>f.properties.id).join('text').attr('class','reference-area-label').attr('transform',f=>{const p=projection(f.properties.labelPoint);return `translate(${p[0]},${p[1]}) scale(${1/transform.k})`;}).text(f=>name(f));
  }
  function handle(action,id){

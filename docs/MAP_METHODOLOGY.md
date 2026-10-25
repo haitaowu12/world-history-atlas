@@ -1,5 +1,7 @@
 # Historical map methodology — version 4
 
+Current 0.13.0 addendum: [dated Americas and map-view method](AMERICAS_HISTORY_013.md) governs the separate Newberry/NRCan references, source-window replacement, palette and History / Modern geography view behavior. Earlier source-specific details below remain historical documentation; US/Canada are no longer universally represented by modern reference outlines.
+
 Reviewed 23 October 2026. This is a selective educational atlas with **dated reference outlines**, not an exhaustive historical GIS or an annual reconstruction of every world border.
 
 ## Coverage and the continuity change

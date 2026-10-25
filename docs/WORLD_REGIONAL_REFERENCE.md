@@ -1,5 +1,7 @@
 # Worldwide regional boundaries · 25 October 2026
 
+Current 0.13.0 addendum: [dated Americas and map-view method](AMERICAS_HISTORY_013.md) governs the separate Newberry/NRCan references, source-window replacement, palette and History / Modern geography view behavior. Earlier source-specific details below remain historical documentation; US/Canada are no longer universally represented by modern reference outlines.
+
 ## Demonstrated problem and correction
 
 The published V12 map initialized with the US/Canada layer off. Its browser shortcut was hidden unless North America was selected, and it contained no units elsewhere. Native deployment success established publication, but did not establish that a reader could discover the feature. The live in-app-browser inspection reproduced all three issues.

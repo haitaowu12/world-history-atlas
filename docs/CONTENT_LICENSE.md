@@ -21,6 +21,7 @@ The imported Jiangshan event prose, profiles, chronicles, quotations, existing E
 
 | Material and local file | Source and retained notice |
 | --- | --- |
+| `dist/data/americas-units-usa-*.geojson`, `americas-history-can-*.geojson` and corresponding index | Newberry historical states/territories (packaged CC BY-NC-SA 2.5 retained) and NRCan territorial evolution (Open Government Licence – Canada 2.0); [separate attribution and transformation notice](../dist/data/americas-history.LICENSE.md) |
 | `dist/data/territories-legacy-*.geojson` — 3 files, 99 dated features | André Ourednik and contributors, [Historical Basemaps](https://github.com/aourednik/historical-basemaps); [GPL-3.0 text](../dist/data/territories.LICENSE) |
 | `dist/data/territories-modern-history-*.geojson` — 4 files, 142 dated features | Historical Basemaps; [modern-history source and transformation notice](../dist/data/territories-modern-history.LICENSE.md) and [GPL-3.0 text](../dist/data/territories.LICENSE) |
 | `dist/data/territories-context-*.geojson` — 8 files, 271 dated features | Historical Basemaps; [GPL-3.0 text](../dist/data/territories.LICENSE); source years and permitted display periods are recorded separately |

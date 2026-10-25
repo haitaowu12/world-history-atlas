@@ -47,7 +47,7 @@ test('V12 selects the current manifest and preserves frozen V11 files and descri
  assert.equal(manifest.evidenceReviewsFile,prior.evidenceReviewsFile,'source overlays remain inherited');
 });
 
-test('V12 adds exactly 26 North American records, 12 biographies and 56 milestones',()=>{
+test('V12 adds exactly 26 North American records, 12 biographies and 57 milestones after the sourced Carver follow-up',()=>{
  assert.equal(manifest.addition.edition,'v12');assert.equal(manifest.addition.release,6);
  assert.deepEqual(manifest.addition.files,[
   'expansion-us-foundations-v12.json','expansion-canada-foundations-v12.json',
@@ -57,10 +57,10 @@ test('V12 adds exactly 26 North American records, 12 biographies and 56 mileston
  assert.deepEqual(manifest.addition.files.map(file=>read(file).length),[8,8,8,2]);
  assert.equal(fresh.length,26);assert.equal(manifest.addition.records,26);
  assert.equal(biographies.length,12);assert.equal(manifest.addition.biographies,12);
- assert.equal(fresh.reduce((n,row)=>n+(row.milestones?.length||0),0),56);
- assert.equal(manifest.addition.biographyMilestones,56);
- assert.equal(new Set(fresh.flatMap(row=>row.sources.map(source=>source.url))).size,36);
- assert.equal(manifest.addition.sourceURLs,36);
+ assert.equal(fresh.reduce((n,row)=>n+(row.milestones?.length||0),0),57);
+ assert.equal(manifest.addition.biographyMilestones,57);
+ assert.equal(new Set(fresh.flatMap(row=>row.sources.map(source=>source.url))).size,37);
+ assert.equal(manifest.addition.sourceURLs,37);
  assert.deepEqual(new Set(fresh.map(row=>row.region)),new Set(['north-america']));
  assert.deepEqual(new Set(fresh.map(row=>row.id)),new Set(manifest.addition.recordIds));
  assert.equal(byId.size,all.length,'no duplicate stable IDs across the corpus');
