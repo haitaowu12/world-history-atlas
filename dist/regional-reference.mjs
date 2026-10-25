@@ -19,3 +19,8 @@ export function visibleReferenceCountries(countries,projection,transform,viewpor
 }
 
 export function regionalCountryFromHash(hash,countries){const code=new URLSearchParams(hash.replace(/^#/,'' )).get('regions');return countries.some(country=>country.code===code)?code:'';}
+export function regionalLabelCandidates(features,selectedCountry=''){
+ if(!selectedCountry)return features;
+ const codes=new Set(['USA','CAN'].includes(selectedCountry)?['USA','CAN']:[selectedCountry]);
+ return features.filter(f=>codes.has(f.properties.country)).sort((a,b)=>Number(b.properties.country===selectedCountry)-Number(a.properties.country===selectedCountry));
+}

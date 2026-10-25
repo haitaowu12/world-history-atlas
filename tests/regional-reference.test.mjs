@@ -226,3 +226,12 @@ test('regional share country resolution validates source groups without changing
  assert.equal(regionalCountryFromHash('#regions=CAN%2Ffile',groups),'');
  assert.equal(regionalCountryFromHash('#year=1867',groups),'');
 });
+
+test('a regional focus prioritizes its own labels instead of previously cached neighbouring countries',async()=>{
+ const {regionalLabelCandidates}=await import('../dist/regional-reference.mjs');
+ const rows=['CHN','USA','CAN','IND','FRA'].map(country=>({properties:{country}}));
+ assert.deepEqual(regionalLabelCandidates(rows,'IND').map(f=>f.properties.country),['IND']);
+ assert.deepEqual(regionalLabelCandidates(rows,'CAN').map(f=>f.properties.country),['CAN','USA']);
+ assert.deepEqual(regionalLabelCandidates(rows,'USA').map(f=>f.properties.country),['USA','CAN']);
+ assert.equal(regionalLabelCandidates(rows),rows);
+});
