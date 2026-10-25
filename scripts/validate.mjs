@@ -444,6 +444,30 @@ for(const r of [...routes,...historicalGeo.features.map(f=>f.properties)])for(co
 }
 for(const file of ['countries.geojson','rivers.geojson']){const geo=JSON.parse(read('dist/assets/'+file));if(geo.type!=='FeatureCollection'||!geo.features?.length)fail(file+': empty reference layer');}
 
+let regionalReferenceUnits=0,regionalReferenceGroups=0;
+try {
+ const meta=JSON.parse(read('dist/data/regional-reference.json')),units=[];
+ if(meta.role!=='modern-reference'||meta.sourceRelease!=='5.1.1'||meta.sourceReleaseYear!==2022||meta.contentVersion!==expansionManifest.version)fail('Worldwide regional reference: source/content version mismatch');
+ if(!read('dist/data/'+meta.licenseFile).includes('public domain'))fail('Worldwide regional reference: missing source notice');
+ const regions=new Set(),sourceIds=new Set();
+ for(const country of meta.countries||[]){
+  const group=[];if(!country.name?.en||!country.name?.zh||!country.code||!country.layers?.length)fail('Invalid source administrative group');
+  for(const layer of country.layers||[]){
+   if(!/^regional-[a-z]{3}-[0-9]+\.geojson$/.test(layer.file||'')){fail('Unsafe regional shard filename');continue;}
+   const bytes=fs.readFileSync(path.join(root,'dist/data',layer.file)),geo=JSON.parse(bytes);
+   if(bytes.length!==layer.bytes||bytes.length>450000||crypto.createHash('sha256').update(bytes).digest('hex')!==layer.sha256||geo.features?.length!==layer.features)fail(layer.file+': regional shard contract mismatch');
+   group.push(...(geo.features||[]));
+  }
+  if(group.length!==country.count)fail(country.code+': regional count mismatch');
+  for(const f of group){const p=f.properties;if(regions.has(p.id)||sourceIds.has(p.sourceId)||p.country!==country.code||p.role!=='modern-administrative-reference'||p.sourceRelease!==meta.sourceRelease||!p.name?.en||!p.name?.zh||!Array.isArray(p.historyLinks))fail('Invalid regional unit '+p.id);regions.add(p.id);sourceIds.add(p.sourceId);
+   if(['year','sourceYear','start','end','contextValidity'].some(k=>p[k]!==undefined))fail(p.id+': modern reference must not claim historical validity');
+   const linked=new Set();for(const link of p.historyLinks||[]){if(!ids.has(link.recordId)||linked.has(link.recordId)||!link.roles?.length||link.roles.some(r=>!['representative','milestone','editorial'].includes(r))||!Array.isArray(link.milestoneYears)||link.milestoneYears.some(y=>!validYear(y)))fail(p.id+': invalid regional history link');linked.add(link.recordId);}
+  }units.push(...group);
+ }
+ regionalReferenceUnits=units.length;regionalReferenceGroups=meta.countries.length;
+ if(regionalReferenceUnits!==4596||regionalReferenceGroups!==251||meta.counts.features!==regionalReferenceUnits)fail('Worldwide regional reference source inventory mismatch');
+ for(const source of meta.sources||[])if(safeSourceURL(source.url)){const url=new URL(source.url);url.hash='';sourcePages.add(url.href);}else fail('Unsafe regional source URL');
+}catch(error){fail('Worldwide regional reference: '+error.message);}
 const report = {
     records: records.length,
     regions: Object.keys(counts).length,
@@ -459,6 +483,7 @@ const report = {
     mapSnapshots: snapshots.snapshots.length,
     historicalTerritories: historicalGeo.features.length,
     historicalPolities: new Set(historicalGeo.features.map(f=>f.properties.polityId)).size,
+    regionalReferenceUnits,regionalReferenceGroups,
     usCanadaReferenceUnits,
     contemporaryMapUnits: contemporaryGeo.features.length,
     contemporaryReferenceYear: contemporaryMeta.reviewedYear,

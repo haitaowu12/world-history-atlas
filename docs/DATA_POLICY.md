@@ -39,7 +39,7 @@ For broad traditions and dispersed activity, name the actual representative plac
 
 The “history near this place” view compares representative points within a geographic radius. It does not establish continuity of settlement, institutional succession, influence or shared sovereignty. Similarly, contemporary records are not necessarily causally connected. Similar dates or artifacts alone do not establish diffusion.
 
-Natural Earth's land, rivers and optional modern country outlines are geographic references. They do not reconstruct ancient shorelines, sea levels, river courses or historical political borders. Modern country outlines remain optional and are off by default.
+Natural Earth's land, rivers and optional modern country outlines are geographic references. They do not reconstruct ancient shorelines, sea levels, river courses or historical political borders. Modern country outlines remain optional and are off by default. The separate worldwide regional reference defaults on and appears on zoom, with a persistent 2022-source label; it is modern orientation, never selected as historical snapshot membership. Its source administrative levels and country/area groupings vary. See WORLD_REGIONAL_REFERENCE.md.
 
 ## 4. Sources belong to the claim
 

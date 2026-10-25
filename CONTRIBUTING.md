@@ -83,7 +83,7 @@ Use `kind: "culture"` for cultural ranges whose political borders are unknown, a
 
 ## Modern regional geography
 
-The optional US/Canada layer follows [V12 geographic method](docs/V12_US_CANADA_GEOGRAPHY.md). Its modern outlines remain separate from historical snapshot membership. Keep the source pin/hash and public-domain notice. Edit named-place associations only with inspected geographic evidence; preserve original point meanings, bilingual notes and stable area/record IDs. Regenerate the geographic history index through `npm run build:content`. The geometry builder accepts only the pinned source asset; narrative edits do not require rebuilding geometry.
+The current worldwide regional layer follows [worldwide geographic method](docs/WORLD_REGIONAL_REFERENCE.md); the former US/Canada-only layer remains a historical V12 checkpoint. Its modern outlines remain separate from historical snapshot membership. Keep the source pin/hash and public-domain notice. Edit named-place associations only with inspected geographic evidence; preserve original point meanings, bilingual notes and stable area/record IDs. Regenerate the geographic history index through `npm run build:content`. The geometry builder accepts only the pinned source asset; narrative edits do not require rebuilding geometry.
 
 ## Run and verify
 

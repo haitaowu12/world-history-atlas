@@ -189,3 +189,11 @@ dialog{border:1px solid #bcc8b7;border-radius:9px;background:var(--panel);color:
 .reference-area{fill:#fff0;stroke:#3e5166;stroke-width:.8;stroke-dasharray:3 2;vector-effect:non-scaling-stroke;cursor:pointer}.reference-area:hover,.reference-area:focus-visible,.reference-selected{fill:#f6f0dc2b;stroke:#243c4d;stroke-width:1.7;outline:none}.reference-area-label{font-size:9px;font-weight:600;text-anchor:middle;fill:#374e5d;paint-order:stroke;stroke:#faf7e6;stroke-width:2.5;pointer-events:none}.reference-status{background:#fbf9efdd;border:1px dashed #677d8b;padding:4px 7px;border-radius:3px;font-size:10px;max-width:300px;text-align:left}.regional-area-browser{margin:0 0 8px;font-size:11px;text-align:left}.regional-area-browser[hidden]{display:none}
 
 @media(max-width:700px){.map-bottomline:has(.reference-status)>span{display:none}.map-bottomline .reference-status{font-size:9px;max-width:220px}.map-bottomline:has(.reference-status){gap:8px;align-items:center}}
+
+/* Worldwide modern subdivisions are distinct from solid historical territory fills. */
+.regional-reference .reference-area{stroke:#526775;stroke-width:1;stroke-dasharray:3 2;fill:transparent}.regional-reference .reference-area:hover,.regional-reference .reference-area:focus-visible{stroke:#24465b;fill:#f7f3d855;stroke-width:1.8}.regional-reference-labels .reference-area-label{font-size:10px;font-weight:600;stroke-width:3}.regional-method{margin:14px 0;font-size:12px}.regional-method>summary{cursor:pointer}.regional-method p{line-height:1.65}
+
+@media(min-width:1100px){.map-heading-actions{max-width:390px}}
+
+.regional-focus .territory-legend{display:none}.regional-focus .map-snapshot{max-width:250px}.regional-reference-labels .reference-area-label{font-size:11px;stroke-width:3.5}
+.regional-focus .marker-label,.regional-focus .territory-label{display:none}.regional-focus .marker.selected .marker-label,.regional-focus .marker:hover .marker-label{display:block}

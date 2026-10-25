@@ -6,6 +6,12 @@ A bilingual, source-backed atlas for exploring histories that existed at the sam
 
 Use , the linked research ledgers and  for current continuation. Earlier release and verification records remain historical checkpoints.
 
+## Current map update: worldwide subdivisions (0.11.1)
+
+States and provinces now appear automatically as you zoom, with an always-visible **Regions** button. The modern reference contains **4,596 units in 251 source country/area groups**, including all 50 US states/DC and Canada's 13 provinces/territories. It extends beyond North America, retains source-date/sovereignty limits and loads country shards on demand. Direct regional views use `#year=1867&lang=en&mode=all&regions=CAN` or `regions=USA`; the country code identifies a modern reference view, not historical jurisdiction.
+
+The previous layer was off and hidden behind North America's filter. [Worldwide regional reference](docs/WORLD_REGIONAL_REFERENCE.md) records the demonstrated cause, source pin, transformations, limits and checks. Narrative content remains V12 / 0.11.0; this application patch changes geographic discovery and rendering.
+
 ## Current local release: US/Canada lives and regional geography (V12 / 0.11.0)
 
 V12 adds **26 bilingual entries, 12 biographies, 56 life milestones and 36 distinct narrative-source URLs**. North America now contains **106 entries**. The shared atlas has **1,863 entries, 170 narrative biographies, 534 life milestones and 271 People identities**. Three regional paths gain entries and fifteen source-comparison questions; all previous reading paths, stops and questions survive.

@@ -6,8 +6,8 @@
   <meta name="description" content="A bilingual world history atlas. Explore historical territories, civilizations, people and journeys on an interactive map and parallel timeline.">
   <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self'; object-src 'none'; base-uri 'self'; form-action 'none'">
   <title>World History Atlas · 寰宇时序</title>
-  <link rel="icon" href="./assets/favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="./styles.css?v=12">
-  <script defer src="./assets/d3.v7.9.0.min.js"></script><script type="module" src="./app.mjs?v=12"></script>
+  <link rel="icon" href="./assets/favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="./styles.css?v=13">
+  <script defer src="./assets/d3.v7.9.0.min.js"></script><script type="module" src="./app.mjs?v=13"></script>
 </head>
 <body>
 <a class="skip" href="#stories">Skip to historical entries</a>
@@ -23,13 +23,13 @@
     <div class="mode-tabs" role="group" aria-label="Time filter"><button id="mode-year" class="selected" aria-pressed="true" data-i18n="atYear">At this time</button><button id="mode-all" aria-pressed="false" data-i18n="allTime">All history</button></div>
     <div class="kind-tabs" id="kind-tabs" role="group" aria-label="Entry types"></div>
     <div class="filter-grid"><label><span class="sr-only" data-i18n="region">Region</span><select id="region" aria-label="Filter by region"></select></label><label><span class="sr-only" data-i18n="theme">Theme</span><select id="theme" aria-label="Filter by theme"></select></label></div>
-    <button id="regional-area-browser" data-i18n="regionalAreas" class="regional-area-browser text-button" data-action="reference-browse" hidden>US &amp; Canada regions ↗</button>
+    <button id="regional-area-browser" data-i18n="regionalAreas" class="regional-area-browser text-button" data-action="regions-browse">States &amp; provinces worldwide ↗</button>
     <div class="results-heading"><h1 id="results-heading">Loading history…</h1><button id="reset-filters" class="text-button" data-i18n="reset">Reset</button></div>
     <div id="stories" class="stories" tabindex="-1" aria-labelledby="results-heading"></div>
     <div id="sidebar-footer" class="sidebar-footer"></div>
   </aside>
   <section class="map-stage" aria-label="World history map">
-    <div class="map-header"><div class="map-heading"><div class="eyebrow" id="era-title">AN AGE OF CONNECTIONS</div><div class="map-date" id="map-date">1200 <span>CE</span></div><p id="era-question">Many histories. One moment.</p></div><div class="map-heading-actions"><button id="map-dates-button" class="map-pill" data-action="map-dates" data-i18n="mapDates">Map dates</button><button id="world-reset" class="map-pill" data-i18n="worldView">◎ World view</button><button id="layer-menu-button" class="map-pill" aria-expanded="false" aria-controls="layer-menu" data-i18n="layers">▧ Map layers</button></div></div>
+    <div class="map-header"><div class="map-heading"><div class="eyebrow" id="era-title">AN AGE OF CONNECTIONS</div><div class="map-date" id="map-date">1200 <span>CE</span></div><p id="era-question">Many histories. One moment.</p></div><div class="map-heading-actions"><button id="map-dates-button" class="map-pill" data-action="map-dates" data-i18n="mapDates">Map dates</button><button id="regions-map-button" class="map-pill" data-action="regions-browse" data-i18n="regionsMapButton" aria-label="Browse states, provinces and regional units">Regions</button><button id="world-reset" class="map-pill" data-i18n="worldView">◎ World view</button><button id="layer-menu-button" class="map-pill" aria-expanded="false" aria-controls="layer-menu" data-i18n="layers">▧ Map layers</button></div></div>
     <div id="map-wrap" class="map-wrap"><svg id="world-map" role="group" aria-label="Interactive world history map" tabindex="0"></svg><div id="map-tooltip" role="tooltip" hidden></div></div>
     <section id="layer-menu" class="layer-menu floating-card" aria-label="Map layers" hidden></section>
     <div class="map-snapshot" id="map-snapshot"></div>
