@@ -1,5 +1,5 @@
 import {formatPeriod, formatYear, validYear, safeSourceURL} from './core.mjs';
-import {inferKind, REGIONAL} from './atlas-model.mjs';
+import {inferKind, REGIONAL} from './atlas-model.mjs?v=30';
 
 const norm = value => String(value ?? '').normalize('NFKC').toLocaleLowerCase();
 const words = value => typeof value === 'string' ? value : Array.isArray(value) ? value.map(words).join(' ') : value && typeof value === 'object' ? Object.values(value).map(words).join(' ') : String(value ?? '');

@@ -248,9 +248,11 @@
         "100-han",
         "100-parthian",
         "100-kush",
-        "early-100-kushan-northern"
+        "early-100-kushan-northern",
+        "gaps-100-satavahana",
+        "gaps-100-aksum"
       ],
-      "featureCount": 4,
+      "featureCount": 6,
       "file": "world_100.geojson",
       "sourceSha256": "d3dba3d4988e481d6438821b7fad847946f7d549c602ebc5a3b49c508358f6ef"
     },
@@ -268,11 +270,30 @@
         "200-parthian",
         "200-han",
         "200-kush",
-        "200-roman"
+        "200-roman",
+        "gaps-200-satavahana",
+        "gaps-200-aksum"
       ],
-      "featureCount": 4,
+      "featureCount": 6,
       "file": "world_200.geojson",
       "sourceSha256": "ef811868efee04b5ae7cfe23538091f1cfa75534ecfad14d754d9cc690b2d2c7"
+    },
+    {
+      "year": 300,
+      "label": {
+        "en": "300 CE",
+        "zh": "公元300年"
+      },
+      "title": {
+        "en": "Selected regional source checkpoint",
+        "zh": "精选区域来源节点"
+      },
+      "featureIds": [
+        "gaps-300-aksum"
+      ],
+      "featureCount": 1,
+      "file": "world_300.geojson",
+      "sourceSha256": "86e6a21cd7a26230184abc57ed042bd9264b569b76406f79ace8618d625b3297"
     },
     {
       "year": 400,
@@ -308,9 +329,11 @@
         "500-sasanian",
         "500-frankish",
         "500-aksum",
-        "early-500-maya-region"
+        "early-500-maya-region",
+        "gaps-500-funan-region",
+        "gaps-500-champa"
       ],
-      "featureCount": 5,
+      "featureCount": 7,
       "file": "world_500.geojson",
       "sourceSha256": "06f7512efec9151b91b5967e8bee3e2dacf8c623e8719de8c64a996bec5ec2c1"
     },
@@ -328,9 +351,13 @@
         "600-sasanian",
         "600-byzantine",
         "600-frankish",
-        "600-sui"
+        "600-sui",
+        "gaps-600-pallava",
+        "gaps-600-chalukya-badami",
+        "gaps-600-dvaravati-region",
+        "gaps-600-champa"
       ],
-      "featureCount": 4,
+      "featureCount": 8,
       "file": "world_600.geojson",
       "sourceSha256": "e8d285de5d4257c55158979e866191d13464abc74e3082fb5f2065b357beec7a"
     },
@@ -348,9 +375,12 @@
         "700-byzantine",
         "700-frankish",
         "early-700-wari-region",
-        "early-700-tiwanaku-region"
+        "early-700-tiwanaku-region",
+        "gaps-700-pallava",
+        "gaps-700-chalukya-badami",
+        "gaps-700-dvaravati-region"
       ],
-      "featureCount": 4,
+      "featureCount": 7,
       "file": "world_700.geojson",
       "sourceSha256": "bb66ebee15e57f5d43b0ca524dd9a230651bb821e7e002882b1981a25fd42a38"
     },
@@ -373,9 +403,16 @@
         "early-800-maya-region",
         "early-800-srivijaya",
         "early-800-wari-region",
-        "early-800-tiwanaku-region"
+        "early-800-tiwanaku-region",
+        "gaps-800-pallava",
+        "gaps-800-rashtrakuta",
+        "gaps-800-pala",
+        "gaps-800-gurjara-pratihara",
+        "gaps-800-kanem",
+        "gaps-800-dvaravati-region",
+        "gaps-800-champa"
       ],
-      "featureCount": 9,
+      "featureCount": 16,
       "file": "world_800.geojson",
       "sourceSha256": "9d046cdc4662109c3f803ae46e2c8cba941aa092ec86eccc7823e6cf1554920c"
     },
@@ -397,9 +434,13 @@
         "900-khmer",
         "900-east-francia",
         "900-west-francia",
-        "900-samanid"
+        "900-samanid",
+        "gaps-900-rashtrakuta",
+        "gaps-900-pala",
+        "gaps-900-gurjara-pratihara",
+        "gaps-900-bagan"
       ],
-      "featureCount": 8,
+      "featureCount": 12,
       "file": "world_900.geojson",
       "sourceSha256": "f483b93e799d6518830ed6da6c3772c49170872d0f07515981a53e71d8dbc74c"
     },
@@ -425,9 +466,15 @@
         "1000-france",
         "1000-england",
         "early-1000-goryeo",
-        "early-1000-srivijaya"
+        "early-1000-srivijaya",
+        "gaps-1000-chalukya-kalyani",
+        "gaps-1000-pala",
+        "gaps-1000-polonnaruwa",
+        "gaps-1000-kanem",
+        "gaps-1000-champa",
+        "gaps-1000-bagan"
       ],
-      "featureCount": 12,
+      "featureCount": 18,
       "file": "world_1000.geojson",
       "sourceSha256": "2140776fd7888c1d4a30e8f6debdaf56192cdf49587f3b6bb67841930ca82d29"
     },
@@ -452,9 +499,10 @@
         "1100-ghana",
         "early-1100-goryeo",
         "early-1100-chola",
-        "early-1100-srivijaya"
+        "early-1100-srivijaya",
+        "gaps-1100-chalukya-kalyani"
       ],
-      "featureCount": 11,
+      "featureCount": 12,
       "file": "world_1100.geojson",
       "sourceSha256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86"
     },
@@ -478,9 +526,13 @@
         "1200-jin-jurchen",
         "early-1200-goryeo",
         "early-1200-chola",
-        "early-1200-srivijaya"
+        "early-1200-srivijaya",
+        "gaps-1200-wagadu-transition",
+        "gaps-1200-kanem",
+        "gaps-1200-champa",
+        "gaps-1200-bagan"
       ],
-      "featureCount": 10,
+      "featureCount": 14,
       "file": "world_1200.geojson",
       "sourceSha256": "2d6913ecedb38e269e41d249c87874d81e3e8d7351754821f57e627442d91525"
     },
@@ -504,9 +556,14 @@
         "1300-hre",
         "1300-france",
         "1300-england",
-        "early-1300-japan-kamakura"
+        "early-1300-japan-kamakura",
+        "gaps-1300-delhi-sultanate",
+        "gaps-1300-ethiopia",
+        "gaps-1300-great-zimbabwe-region",
+        "gaps-1300-champa",
+        "gaps-1300-sukhothai"
       ],
-      "featureCount": 10,
+      "featureCount": 15,
       "file": "world_1300.geojson",
       "sourceSha256": "a27985e60d936611d7933f0c30f1b52c36ef4a17225dfac25fb96abe40fa496f"
     },
@@ -529,9 +586,12 @@
         "1400-hre",
         "1400-france",
         "1400-england",
-        "early-1400-chimu"
+        "early-1400-chimu",
+        "gaps-1400-ethiopia",
+        "gaps-1400-great-zimbabwe-region",
+        "gaps-1400-ayutthaya"
       ],
-      "featureCount": 9,
+      "featureCount": 12,
       "file": "world_1400.geojson",
       "sourceSha256": "c6b0efcb42d9520a1a724f981373296e84ea2c0a0527de7a06f8f9e2465eb6ec"
     },
@@ -552,9 +612,15 @@
         "1500-kongo",
         "1500-ming",
         "1500-aztec",
-        "1500-inca"
+        "1500-inca",
+        "gaps-1500-delhi-sultanate",
+        "gaps-1500-vijayanagara",
+        "gaps-1500-ethiopia",
+        "gaps-1500-benin",
+        "gaps-1500-champa",
+        "gaps-1500-ayutthaya"
       ],
-      "featureCount": 7,
+      "featureCount": 13,
       "file": "world_1500.geojson",
       "sourceSha256": "d01ffc9b80629787f13d2b1c2f881f005bc0164433548e30f5c058ddee0bfc7b"
     },
@@ -574,9 +640,11 @@
         "1600-mughal",
         "1600-hre",
         "1600-kongo",
-        "1600-ming"
+        "1600-ming",
+        "gaps-1600-benin",
+        "gaps-1600-oyo"
       ],
-      "featureCount": 6,
+      "featureCount": 8,
       "file": "world_1600.geojson",
       "sourceSha256": "7285c07eeedfda9048de5354ea1744d327b07614085e9696c5802bb54c86849c"
     },
@@ -635,9 +703,12 @@
         "1700-newspain",
         "1700-peru-viceroyalty-early",
         "1700-denmark-norway",
-        "1700-sweden-empire"
+        "1700-sweden-empire",
+        "gaps-1700-ethiopia",
+        "gaps-1700-benin",
+        "gaps-1700-oyo"
       ],
-      "featureCount": 13,
+      "featureCount": 16,
       "file": "world_1700.geojson",
       "sourceSha256": "eb73d6b00e98205fb2082de050c35e4d698224b17849628d82584610186b88a4"
     },
@@ -718,9 +789,11 @@
         "1800-ottoman",
         "1800-qing",
         "1800-newspain",
-        "1800-newgranada"
+        "1800-newgranada",
+        "gaps-1800-oyo",
+        "gaps-1800-dahomey"
       ],
-      "featureCount": 4,
+      "featureCount": 6,
       "file": "world_1800.geojson",
       "sourceSha256": "51fcb6b1f1c361956a3fc24a9c646844ff88754842aa113780428fb4abcd5f2c"
     },
@@ -751,9 +824,10 @@
         "1815-buganda",
         "1815-bunyoro",
         "1815-lunda",
-        "1815-merina"
+        "1815-merina",
+        "gaps-1815-ethiopia"
       ],
-      "featureCount": 17,
+      "featureCount": 18,
       "file": "world_1815.geojson",
       "sourceSha256": "fb654f734583f550904cfa45f361e395c1a488c4960050da2632cb2ac7d1cd1e"
     },
@@ -797,9 +871,11 @@
         "1878-lunda",
         "1878-luba",
         "1878-kuba",
-        "1878-merina"
+        "1878-merina",
+        "gaps-1878-ethiopia",
+        "gaps-1878-dahomey"
       ],
-      "featureCount": 30,
+      "featureCount": 32,
       "file": "world_1878.geojson",
       "sourceSha256": "e792520cd24cfb77b117d41533a59b0a5b82fc53a291fff1549ddc73e7f9a8b2"
     },
@@ -2526,6 +2602,15 @@
       "featureCount": 28,
       "outputSha256": "a1eaf35cd78e23577d16e9a6aa8d2caefdea3bd54a93c94017561195a2408b1d",
       "attribution": "André Ourednik and contributors; bounded Atlas regional context selection"
+    },
+    {
+      "file": "territories-regional-gaps-01.geojson",
+      "license": "GPL-3.0-only",
+      "licenseFile": "territories.LICENSE",
+      "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "featureCount": 60,
+      "outputSha256": "e85337992e89288573ff4ed240d15eea5e47fd569a62b4ffc5da9cc5e2f9d1ce",
+      "attribution": "André Ourednik and contributors; bounded Atlas regional context selection"
     }
   ],
   "selectionPolicy": "Newest eligible prior source per polity, inside an explicit inclusive contextValidity interval; otherwise earliest explicitly backward-reviewed source. Missing metadata means exact source year only. Original source years and licenses are preserved; never interpolate borders or extend expired identities.",
@@ -2834,5 +2919,152 @@
       }
     ],
     "featureCount": 28
+  },
+  "regionalGapsReview": {
+    "reviewedAt": "2026-10-26",
+    "documentation": "docs/REGIONAL_GAPS_REVIEW.md",
+    "selection": "scripts/regional-gap-selection.json",
+    "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+    "inputs": [
+      {
+        "year": 100,
+        "file": "world_100.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "d3dba3d4988e481d6438821b7fad847946f7d549c602ebc5a3b49c508358f6ef",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_100.geojson"
+      },
+      {
+        "year": 200,
+        "file": "world_200.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "ef811868efee04b5ae7cfe23538091f1cfa75534ecfad14d754d9cc690b2d2c7",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_200.geojson"
+      },
+      {
+        "year": 600,
+        "file": "world_600.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "e8d285de5d4257c55158979e866191d13464abc74e3082fb5f2065b357beec7a",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_600.geojson"
+      },
+      {
+        "year": 700,
+        "file": "world_700.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "bb66ebee15e57f5d43b0ca524dd9a230651bb821e7e002882b1981a25fd42a38",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_700.geojson"
+      },
+      {
+        "year": 800,
+        "file": "world_800.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "9d046cdc4662109c3f803ae46e2c8cba941aa092ec86eccc7823e6cf1554920c",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_800.geojson"
+      },
+      {
+        "year": 900,
+        "file": "world_900.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "f483b93e799d6518830ed6da6c3772c49170872d0f07515981a53e71d8dbc74c",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_900.geojson"
+      },
+      {
+        "year": 1000,
+        "file": "world_1000.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "2140776fd7888c1d4a30e8f6debdaf56192cdf49587f3b6bb67841930ca82d29",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1000.geojson"
+      },
+      {
+        "year": 1100,
+        "file": "world_1100.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1100.geojson"
+      },
+      {
+        "year": 1300,
+        "file": "world_1300.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "a27985e60d936611d7933f0c30f1b52c36ef4a17225dfac25fb96abe40fa496f",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1300.geojson"
+      },
+      {
+        "year": 1500,
+        "file": "world_1500.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "d01ffc9b80629787f13d2b1c2f881f005bc0164433548e30f5c058ddee0bfc7b",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1500.geojson"
+      },
+      {
+        "year": 300,
+        "file": "world_300.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "86e6a21cd7a26230184abc57ed042bd9264b569b76406f79ace8618d625b3297",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_300.geojson"
+      },
+      {
+        "year": 1200,
+        "file": "world_1200.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "2d6913ecedb38e269e41d249c87874d81e3e8d7351754821f57e627442d91525",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1200.geojson"
+      },
+      {
+        "year": 1400,
+        "file": "world_1400.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "c6b0efcb42d9520a1a724f981373296e84ea2c0a0527de7a06f8f9e2465eb6ec",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1400.geojson"
+      },
+      {
+        "year": 1700,
+        "file": "world_1700.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "eb73d6b00e98205fb2082de050c35e4d698224b17849628d82584610186b88a4",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1700.geojson"
+      },
+      {
+        "year": 1815,
+        "file": "world_1815.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "fb654f734583f550904cfa45f361e395c1a488c4960050da2632cb2ac7d1cd1e",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1815.geojson"
+      },
+      {
+        "year": 1878,
+        "file": "world_1878.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "e792520cd24cfb77b117d41533a59b0a5b82fc53a291fff1549ddc73e7f9a8b2",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1878.geojson"
+      },
+      {
+        "year": 1600,
+        "file": "world_1600.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "7285c07eeedfda9048de5354ea1744d327b07614085e9696c5802bb54c86849c",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1600.geojson"
+      },
+      {
+        "year": 1800,
+        "file": "world_1800.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "51fcb6b1f1c361956a3fc24a9c646844ff88754842aa113780428fb4abcd5f2c",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1800.geojson"
+      },
+      {
+        "year": 500,
+        "file": "world_500.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "06f7512efec9151b91b5967e8bee3e2dacf8c623e8719de8c64a996bec5ec2c1",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_500.geojson"
+      }
+    ],
+    "featureCount": 60,
+    "regions": {
+      "south-asia": 20,
+      "africa": 23,
+      "southeast-asia": 17
+    }
   }
 }

@@ -1,3 +1,7 @@
+# Regional gap review addendum, 26 October 2026
+
+[South Asia, Africa and Southeast Asia](REGIONAL_GAPS_REVIEW.md) adds60 selected source instances across24 identities. Source files remain frozen; the Chola whole-island and Ghana/Soso corrections apply to runtime copies. A valid explicit context interval constrains exact source-year selection as well as reuse, so a later derived phase cannot appear under its future label at an earlier geometry source date. Missing/malformed windows retain exact-only source behavior. The source chronology, component reassignment, rejected donor shapes and remaining gaps are documented in the review.
+
 # Historical map methodology — version 4
 
 26 October correction: [regional map continuity](REGIONAL_MAP_CONTINUITY.md) adds 23 dated South American/African instances and supplements four early CShapes coverage gaps. Current historical total: 539 instances. The original V4 counts and validation report below remain the frozen checkpoint, not current regional-completeness claims.

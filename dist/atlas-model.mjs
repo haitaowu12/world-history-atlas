@@ -1,3 +1,4 @@
+import {reviewedRegionalFeature,amendRegionalChronology} from './regional-chronology.mjs';
 import {MIN_YEAR, MAX_YEAR, validYear, toOrdinal, fromOrdinal, activeAt} from './core.mjs';
 
 export const REGIONAL = {
@@ -48,16 +49,20 @@ export function reviewedIntervalContains(interval,year){
 export function historicalContextFeatures(features,year){
   if(!validYear(year)||!Array.isArray(features))return [];
   const choices=new Map();
-  for(const feature of features){
+  for(const original of features){
+    const feature=reviewedRegionalFeature(original);
     const p=feature?.properties;if(!p)continue;
     const sourceYear=featureSourceYear(feature),key=p.polityId||p.code||p.id;
     if(!key||!validYear(sourceYear))continue;
     const exact=sourceYear===year,interval=p.contextValidity;
+    // A valid explicit window also constrains its source year (derived phases).
+    // Malformed windows cannot authorize reuse; exact source checkpoints survive.
+    if(reviewedIntervalContains(interval,interval?.start)&&!reviewedIntervalContains(interval,year))continue;
     if(!exact&&(!reviewedIntervalContains(interval,year)||(sourceYear>year&&interval.backwardReviewed!==true)))continue;
     const prior=sourceYear<=year,old=choices.get(key),oldYear=featureSourceYear(old),oldPrior=oldYear<=year;
     if(!old||(prior&&!oldPrior)||(prior===oldPrior&&(prior?sourceYear>oldYear:sourceYear<oldYear)))choices.set(key,feature);
   }
-  return [...choices.values()];
+  return amendRegionalChronology([...choices.values()],year);
 }
 export function featureNameAt(feature,year){
   const p=feature?.properties||{};

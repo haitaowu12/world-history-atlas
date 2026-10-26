@@ -1,4 +1,4 @@
-import {historicalContextFeatures} from './atlas-model.mjs';
+import {historicalContextFeatures} from './atlas-model.mjs?v=30';
 import {CSHAPES_RANGE} from './cshapes-history.mjs';
 
 // Annual country coding is not exhaustive coverage of earlier African states.
