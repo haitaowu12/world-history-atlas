@@ -1,0 +1,45 @@
+[
+  {
+    "id": "course-early-china-evidence",
+    "title": {
+      "en": "Early China · tradition, archaeology and written evidence",
+      "zh": "早期中国 · 传世叙述、考古与文字证据"
+    },
+    "summary": {
+      "en": "Compare Xia’s received chronology, Erlitou’s material remains, Shang royal centers, Yin Xu inscriptions and Zhou regional context. The accompanying early-China guide treats Yu/Shun without invented reign dates.",
+      "zh": "比较夏的传统纪年、二里头物质遗存、商的王室中心、殷墟文字与周的区域背景；配套早期中国指南不为虞舜虚构在位年代。"
+    },
+    "recordIds": [
+      "xia-tradition-and-erli-tou",
+      "erlitou-urban-bronze-centre",
+      "shang-kingship-and-evidence",
+      "yin-xu",
+      "zhou-dynasty"
+    ],
+    "mapYears": {
+      "xia-tradition-and-erli-tou": -1800,
+      "erlitou-urban-bronze-centre": -1600,
+      "shang-kingship-and-evidence": -1500,
+      "yin-xu": -1200,
+      "zhou-dynasty": -700
+    },
+    "routeIds": [],
+    "questions": [
+      {
+        "en": "What can a received text, an archaeological site and a dated source outline each establish?",
+        "zh": "传世文本、考古遗址和有年代的来源轮廓，各能证明什么？"
+      },
+      {
+        "en": "Why does a possible Xia identification differ from an oracle-bone inscription at Yin Xu?",
+        "zh": "可能的夏身份判断，与殷墟甲骨铭刻的证据有何不同？"
+      }
+    ],
+    "activity": {
+      "en": "Open the early-China guide. Separate the undated Yu/Shun tradition, conventional dynastic dates, archaeological phases and mapped source years. Explain one unresolved identification.",
+      "zh": "打开早期中国指南，区分未独立定年的虞舜传统、王朝常用纪年、考古阶段和轮廓来源年代，解释一项未定的身份对应。"
+    },
+    "kind": "reading-course",
+    "estimatedMinutes": 18,
+    "evidencePolicy": "Questions are editorial prompts; linked records and the early-China guide disclose evidence and its limits."
+  }
+]

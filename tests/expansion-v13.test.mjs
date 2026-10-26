@@ -9,14 +9,14 @@ import {appendRegionalHistory,referenceHistory} from '../dist/regional-reference
 import {buildAreaHistoryIndex} from '../dist/us-canada-reference.mjs';
 import {readingStepYear} from '../dist/americas-history.mjs';
 const bytes=file=>fs.readFileSync(new URL('../dist/data/'+file,import.meta.url));
-const read=file=>JSON.parse(bytes(file)),manifest=read(CONTENT_MANIFEST),prior=read('content-expansion-v12.json');
+const read=file=>JSON.parse(bytes(file)),manifest=read('content-expansion-v13.json'),prior=read('content-expansion-v12.json');
 const fresh=read('expansion-regional-sequences-v13.json'),all=[...['history.json','people.json','china-depth-v7.json','world-depth-v7.json','modern-continuity-v7.json'].flatMap(read),...read('china-import-manifest.json').eventFiles.flatMap(f=>read(f.path)),...manifest.files.flatMap(f=>read(f.file))];
 const by=new Map(all.map(r=>[r.id,r]));
 const courses=read(manifest.coursesFile),addition=read('regional-history-v13.json'),meta=read('regional-reference.json');
 const features=meta.countries.filter(c=>['USA','CAN'].includes(c.code)).flatMap(c=>c.layers.flatMap(l=>read(l.file).features));
 const ctx={};vm.runInNewContext(fs.readFileSync(new URL('../dist/assets/d3.v7.9.0.min.js',import.meta.url),'utf8'),ctx);
 test('V13 adds four connected lives without rewriting the V12 narrative checkpoint',()=>{
- assert.equal(CONTENT_MANIFEST,'content-expansion-v13.json');assert.equal(manifest.version,'0.14.0');
+ assert.equal(manifest.version,'0.14.0');
  assert.equal(all.length,1871);assert.equal(by.size,1871);assert.equal(all.filter(r=>r.kind==='person').length,174);
  assert.equal(all.reduce((n,r)=>n+(r.milestones?.length||0),0),552);
  assert.equal(fresh.length,8);assert.equal(fresh.filter(r=>r.kind==='person').length,4);

@@ -165,3 +165,5 @@ npm test
 To rebuild the three later historical snapshots too, first run `build-modern-history.cjs` with the pinned 1994/2000/2010 and Natural Earth raw inputs, then run the temporal builder. It reattaches reviewed intervals and shards the output. The optional CShapes comparison requires a separately obtained research input and is not a runtime dependency.
 
 The scripts require Node and the repository's pinned D3 bundle. They preserve source years and separate data licenses, regenerate output checksums, and keep each geographic data shard below 450 KB. Repeated execution is deterministic for unchanged inputs and editorial registry. Review a candidate's chronology and actual geography before expanding its interval; a newer filename is not evidence of correctness.
+
+The 0.15 [early regional correction](EARLY_REGIONAL_MAP_REVIEW.md) adds 28 finite dated references and documents rejected misdated donor geometry. Earlier Chinese traditions do not acquire frontiers from narrative dates.

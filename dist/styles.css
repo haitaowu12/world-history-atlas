@@ -197,3 +197,6 @@ dialog{border:1px solid #bcc8b7;border-radius:9px;background:var(--panel);color:
 
 .regional-focus .territory-legend{display:none}.regional-focus .map-snapshot{max-width:250px}.regional-reference-labels .reference-area-label{font-size:11px;stroke-width:3.5}
 .regional-focus .marker-label,.regional-focus .territory-label{display:none}.regional-focus .marker.selected .marker-label,.regional-focus .marker:hover .marker-label{display:block}
+
+.early-china-section{padding:1rem 0;border-top:1px solid var(--line,#d9ded9)}
+.early-china-section h3{margin-top:0}

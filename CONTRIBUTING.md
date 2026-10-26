@@ -1,6 +1,6 @@
 # Contributing
 
-Current 0.14 content uses `dist/data/expansion-regional-sequences-v13.json`, `regional-studies-v13.json` and `scripts/build-content-expansion-v13.mjs`. See [review](docs/ATLAS_014_REVIEW.md). V12 and earlier editions below are frozen checkpoints; new additions belong in V13.
+Current 0.15 content uses `dist/data/expansion-early-china-v14.json`, `early-china-guide-v14.json`, `early-china-study-v14.json` and `scripts/build-content-expansion-v14.mjs`. See [early regional review](docs/EARLY_REGIONAL_MAP_REVIEW.md). V13 and earlier editions remain frozen checkpoints; new additions belong in V14.
 
 Contributions should improve either the learning experience or the evidence behind it. Keep changes focused and identify whether they alter a historical claim, date, location, translation or application behavior.
 

@@ -1,0 +1,204 @@
+[
+  {
+    "id": "xia-tradition-and-erli-tou",
+    "title": {
+      "en": "Xia · Traditional chronology and the Erlitou question",
+      "zh": "夏 · 传统纪年与二里头之辨"
+    },
+    "start": -2100,
+    "end": -1600,
+    "region": "east-asia",
+    "theme": "knowledge",
+    "kind": "idea",
+    "importance": 4,
+    "location": {
+      "lat": 34.72,
+      "lon": 112.76,
+      "label": "Yanshi–Erlitou vicinity, Henan; representative archaeological comparison, not a proven Xia capital",
+      "labelI18n": {
+        "en": "Yanshi–Erlitou vicinity, Henan; representative archaeological comparison, not a proven Xia capital",
+        "zh": "河南偃师—二里头一带；代表考古比较地点，非已证实的夏都"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Later histories place Xia before Shang and associate its foundation with Yu the Great. The Met’s chronology lists Xia as unconfirmed, around 2100–1600 BCE. Those are conventional labels for the tradition, not independently established reign years.\n\nThe archaeological evidence asks a different question. Erlitou, near present-day Yanshi, preserves an urban center with large buildings, tombs and early bronze work. The museum describes a selected urban phase around 1700–1500 BCE and treats its possible connection with Xia cautiously. The cultural sequence and the named dynasty cannot simply be equated.\n\nThis entry pairs the transmitted dynasty sequence with an independently described archaeological place. It does not draw a Xia frontier, identify every Erlitou resident as a subject of Xia, or give the tradition the same evidentiary status as the inscriptions from late Shang Yin Xu.",
+      "zh": "传世史书将夏置于商以前，并把其建立与大禹相连。大都会博物馆年表把夏明确标为“未证实”，约前2100—前1600年。这是用于讨论传统的约定年代，不是已经独立确立的在位年数。\n\n考古材料回答另一类问题：今偃师附近二里头有大型建筑、墓葬与早期青铜器。博物馆选述其约前1700—前1500年的城市阶段，并谨慎讨论可能的夏关联。考古文化序列不能直接等同于有名字的王朝。\n\n本条将传世王朝次序与独立描述的考古地点并读，不绘制夏的边界，不把二里头所有居民认定为夏的臣民，也不把夏传统与晚商殷墟铭刻赋予相同证据地位。"
+    },
+    "dateNote": {
+      "en": "Circa 2100–1600 BCE follows an explicitly unconfirmed traditional chronology; it does not date a proven state or archaeological culture. Erlitou’s selected 1700–1500 BCE urban phase is a separate entry.",
+      "zh": "约前2100—前1600年依据明确标为未证实的传统纪年，不表示已经证实的国家或考古文化起止；二里头约前1700—前1500年的精选城市阶段另列。"
+    },
+    "relatedIds": [
+      "erlitou-urban-bronze-centre",
+      "shang-kingship-and-evidence",
+      "yin-xu"
+    ],
+    "sources": [
+      {
+        "title": "China, 2000–1000 BCE",
+        "url": "https://www.metmuseum.org/toah/ht/03/eac.html",
+        "publisher": "The Metropolitan Museum of Art",
+        "evidenceNote": "Timeline explicitly labels Xia unconfirmed, circa 2100–1600 BCE. Expanded Key Events discusses the selected Erlitou urban phase circa 1700–1500 BCE, possible Xia identification, Shang Zhengzhou and Anyang, and Zhou 1046 transition. These conventional dates do not establish borders.",
+        "checkedAt": "2026-10-26",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Shang and Zhou Dynasties: The Bronze Age of China",
+        "url": "https://www.metmuseum.org/essays/shang-and-zhou-dynasties-the-bronze-age-of-china",
+        "publisher": "The Metropolitan Museum of Art",
+        "evidenceNote": "Inspected the historical overview: Shang circa 1600–1046 BCE is archaeologically recorded; the later Zhou and Eastern Zhou state fragmentation are distinguished. Does not validate source polygons.",
+        "checkedAt": "2026-10-26",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "expansion": {
+      "release": 8,
+      "edition": "v14",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "Bounded institutional source comparison. Conventional chronological ranges and representative site points are not verified annual borders, exact foundation dates or proof of a textual identification.",
+        "zh": "仅核对所述机构资料；传统或概略年代与代表地点，不等于逐年疆界、确切建国日期或对文献身份的证实。"
+      }
+    }
+  },
+  {
+    "id": "erlitou-urban-bronze-centre",
+    "title": {
+      "en": "Erlitou · Buildings, bronze and uncertain dynastic names",
+      "zh": "二里头 · 建筑、青铜与未定的王朝名称"
+    },
+    "start": -1700,
+    "end": -1500,
+    "region": "east-asia",
+    "theme": "knowledge",
+    "kind": "place",
+    "importance": 4,
+    "location": {
+      "lat": 34.72,
+      "lon": 112.76,
+      "label": "Erlitou vicinity near Yanshi, Henan; representative point, not a surveyed site or kingdom boundary",
+      "labelI18n": {
+        "en": "Erlitou vicinity near Yanshi, Henan; representative point, not a surveyed site or kingdom boundary",
+        "zh": "河南偃师附近二里头；代表地点，非遗址或王国边界测绘"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Erlitou near Yanshi was an early urban center with large buildings, tombs and bronze production. These material remains allow questions about organized work, ritual and differences in access to resources, even when the names of the people and rulers remain uncertain.\n\nThe Met selects a phase around 1700–1500 BCE and describes Erlitou as a possible center of the Xia dynasty. “Possible” matters: the archaeological place and its material sequence do not by themselves prove the later dynastic name. Nor does the overlap of this selected phase with conventional early Shang dates make a simple calendar handover between the two.\n\nRead the physical evidence separately from the received sequence of Yu/Shun, Xia and Shang. The map marks the locality; it does not invent an Erlitou or Xia territorial perimeter.",
+      "zh": "偃师附近二里头是早期城市中心，留下大型建筑、墓葬与青铜生产材料。即使居民和统治者姓名仍不确定，这些遗存也能支持对劳动组织、礼仪和资源分配差异的研究。\n\n大都会博物馆选述约前1700—前1500年的阶段，并将其称作可能的夏代中心。“可能”很重要：地点及其物质文化序列本身，不能证实后世的王朝名称。该精选阶段与传统早商年代重叠，也不等于存在简单的历年政权交接。\n\n应分别阅读物质证据与虞舜、夏、商的传世次序。地图只标记地点，不虚构二里头或夏的领土周界。"
+    },
+    "dateNote": {
+      "en": "Selected urban phase circa 1700–1500 BCE in the cited museum chronology, not the full duration of the site or a settled date for Xia.",
+      "zh": "选取所引博物馆年表中约前1700—前1500年的城市阶段，不是遗址完整使用期，也不是已经确定的夏代起止。"
+    },
+    "relatedIds": [
+      "xia-tradition-and-erli-tou",
+      "shang-kingship-and-evidence",
+      "yin-xu"
+    ],
+    "sources": [
+      {
+        "title": "China, 2000–1000 BCE",
+        "url": "https://www.metmuseum.org/toah/ht/03/eac.html",
+        "publisher": "The Metropolitan Museum of Art",
+        "evidenceNote": "Timeline explicitly labels Xia unconfirmed, circa 2100–1600 BCE. Expanded Key Events discusses the selected Erlitou urban phase circa 1700–1500 BCE, possible Xia identification, Shang Zhengzhou and Anyang, and Zhou 1046 transition. These conventional dates do not establish borders.",
+        "checkedAt": "2026-10-26",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "expansion": {
+      "release": 8,
+      "edition": "v14",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "Bounded institutional source comparison. Conventional chronological ranges and representative site points are not verified annual borders, exact foundation dates or proof of a textual identification.",
+        "zh": "仅核对所述机构资料；传统或概略年代与代表地点，不等于逐年疆界、确切建国日期或对文献身份的证实。"
+      }
+    }
+  },
+  {
+    "id": "shang-kingship-and-evidence",
+    "title": {
+      "en": "Shang · Royal centers, bronze work and written evidence",
+      "zh": "商 · 王室中心、青铜工艺与文字证据"
+    },
+    "start": -1600,
+    "end": -1046,
+    "region": "east-asia",
+    "theme": "states",
+    "kind": "polity",
+    "importance": 4,
+    "location": {
+      "lat": 34.75,
+      "lon": 113.66,
+      "label": "Zhengzhou, Henan; representative early Shang center, not a capital throughout the dynasty or a territorial boundary",
+      "labelI18n": {
+        "en": "Zhengzhou, Henan; representative early Shang center, not a capital throughout the dynasty or a territorial boundary",
+        "zh": "河南郑州；代表早商中心，非整个王朝始终使用的都城或领土边界"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "The Shang are the earliest Chinese dynasty for which archaeology and written evidence can be brought into sustained comparison. The Met uses the conventional span around 1600–1046 BCE and describes major centers at Zhengzhou and Anyang, rather than one unchanging capital or a surveyed national border.\n\nBronze vessels depended on access to materials, skilled labor and exacting casting processes. They served rituals linking rulers and ancestors. These objects reveal organized production and authority, while their survival and later collecting leave parts of everyday life much less visible.\n\nAt late Shang Yin Xu near Anyang, royal buildings, tombs and inscribed oracle bones support a more closely documented history of kingship, divination and social relationships. The late-capital phase around 1300–1046 BCE is distinct from the whole dynasty. The existing Yin Xu entry opens that evidence in more detail.\n\nShang should also be read alongside contemporary communities outside its royal centers. Bronze work elsewhere does not automatically imply Shang rule. The atlas therefore shows the supported centers while withholding the misdated source polygon that labels a later Zhou region in 1500 BCE.",
+      "zh": "商是中国最早能够持续结合考古与文字材料进行研究的王朝。大都会博物馆采用约前1600—前1046年的常用年代，并分别描述郑州、安阳等重要中心，不把它们写成从未变化的都城或经过测绘的全国边界。\n\n青铜礼器依靠原料、熟练劳动与精密铸造，用于联系统治者和祖先的仪式。它们揭示生产组织和权威；但保存、发掘与后世收藏的不均衡，使日常生活的许多部分仍不清楚。\n\n安阳附近晚商殷墟的王室建筑、墓葬和甲骨文字，让王权、占卜与社会关系有了更具体的证据。约前1300—前1046年的晚期都城阶段，应与整个商代分开；已有的殷墟条目进一步介绍这些材料。\n\n还应把商与王室中心以外的同时代社群并读。其他地点的青铜工艺不自动表示商的统治。本图显示有依据的中心，同时不采用把后来的周区域误标在前1500年的来源图形。"
+    },
+    "dateNote": {
+      "en": "Conventional circa 1600–1046 BCE dynasty focus, with 1046 a transition year also used for the start of Zhou. The late Shang capital phase at Yin Xu is circa 1300–1046 BCE. No full-realm outline has passed this review.",
+      "zh": "王朝关注范围采用常见约前1600—前1046年；前1046年也是周开始的转折年。殷墟晚商都城阶段约前1300—前1046年。本次未通过商代全境轮廓核查。"
+    },
+    "relatedIds": [
+      "yin-xu",
+      "erlitou-urban-bronze-centre",
+      "xia-tradition-and-erli-tou",
+      "zhou-dynasty"
+    ],
+    "sources": [
+      {
+        "title": "China, 2000–1000 BCE",
+        "url": "https://www.metmuseum.org/toah/ht/03/eac.html",
+        "publisher": "The Metropolitan Museum of Art",
+        "evidenceNote": "Timeline explicitly labels Xia unconfirmed, circa 2100–1600 BCE. Expanded Key Events discusses the selected Erlitou urban phase circa 1700–1500 BCE, possible Xia identification, Shang Zhengzhou and Anyang, and Zhou 1046 transition. These conventional dates do not establish borders.",
+        "checkedAt": "2026-10-26",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Shang and Zhou Dynasties: The Bronze Age of China",
+        "url": "https://www.metmuseum.org/essays/shang-and-zhou-dynasties-the-bronze-age-of-china",
+        "publisher": "The Metropolitan Museum of Art",
+        "evidenceNote": "Inspected the historical overview: Shang circa 1600–1046 BCE is archaeologically recorded; the later Zhou and Eastern Zhou state fragmentation are distinguished. Does not validate source polygons.",
+        "checkedAt": "2026-10-26",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Yin Xu",
+        "url": "https://whc.unesco.org/en/list/1114/",
+        "publisher": "UNESCO World Heritage Centre",
+        "evidenceNote": "Inspected description and synthesis for the late Shang capital near Anyang, circa 1300–1046 BCE, royal buildings, tombs and oracle-bone evidence. Property boundaries do not represent the whole Shang realm; sweeping earliest-civilization claims are not adopted.",
+        "checkedAt": "2026-10-26",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "expansion": {
+      "release": 8,
+      "edition": "v14",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "Bounded institutional source comparison. Conventional chronological ranges and representative site points are not verified annual borders, exact foundation dates or proof of a textual identification.",
+        "zh": "仅核对所述机构资料；传统或概略年代与代表地点，不等于逐年疆界、确切建国日期或对文献身份的证实。"
+      }
+    }
+  }
+]
