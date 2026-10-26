@@ -716,9 +716,16 @@
         "1815-prussia",
         "1815-joseon",
         "1815-tokugawa",
-        "1815-austrian-empire"
+        "1815-austrian-empire",
+        "1815-brazil-portuguese",
+        "1815-asante",
+        "1815-sokoto",
+        "1815-buganda",
+        "1815-bunyoro",
+        "1815-lunda",
+        "1815-merina"
       ],
-      "featureCount": 10,
+      "featureCount": 17,
       "file": "world_1815.geojson",
       "sourceSha256": "fb654f734583f550904cfa45f361e395c1a488c4960050da2632cb2ac7d1cd1e"
     },
@@ -746,9 +753,25 @@
         "1878-mexico",
         "1878-argentina",
         "1878-portugal",
-        "1878-spain"
+        "1878-spain",
+        "1878-brazil-empire",
+        "1878-chile",
+        "1878-peru-republic",
+        "1878-bolivia",
+        "1878-paraguay",
+        "1878-uruguay",
+        "1878-colombia",
+        "1878-ecuador",
+        "1878-asante",
+        "1878-sokoto",
+        "1878-buganda",
+        "1878-bunyoro",
+        "1878-lunda",
+        "1878-luba",
+        "1878-kuba",
+        "1878-merina"
       ],
-      "featureCount": 14,
+      "featureCount": 30,
       "file": "world_1878.geojson",
       "sourceSha256": "e792520cd24cfb77b117d41533a59b0a5b82fc53a291fff1549ddc73e7f9a8b2"
     },
@@ -2457,6 +2480,15 @@
       "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
       "outputSha256": "53aef27e99bf32a861c699526e778c054e6e26721e11f1d4300257d3c4b5ea03",
       "licenseFile": "territories.LICENSE"
+    },
+    {
+      "file": "territories-continuity-01.geojson",
+      "license": "GPL-3.0-only",
+      "licenseFile": "territories.LICENSE",
+      "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "featureCount": 23,
+      "attribution": "André Ourednik and historical-basemaps contributors; bounded Atlas regional context selection",
+      "outputSha256": "926198e1ae87f959cab858ac51206b4c992a1e95ebe44fbc329f490a59157abf"
     }
   ],
   "selectionPolicy": "Newest eligible prior source per polity, inside an explicit inclusive contextValidity interval; otherwise earliest explicitly backward-reviewed source. Missing metadata means exact source year only. Original source years and licenses are preserved; never interpolate borders or extend expired identities.",
@@ -2653,5 +2685,11 @@
       "sourceSha256": "80ce07508ef86b4c4943193d7562578dc1150976bd0eb07581c620acf3044874",
       "bytes": 958695
     }
-  ]
+  ],
+  "regionalContinuityReview": {
+    "reviewedAt": "2026-10-26",
+    "method": "Additive dated context; no annual border interpolation",
+    "documentation": "docs/REGIONAL_MAP_CONTINUITY.md",
+    "featureCount": 23
+  }
 }

@@ -5,8 +5,9 @@ import {createRegionalExplorer} from './regional-explorer.mjs?v=20';
 import {CONTENT_MANIFEST,partitionExpansion,expansionCoverage,applyEvidenceReviews} from './content-expansion.mjs?v=20';
 import {waterFeatures,corridorFeatures,hydroVisible} from './inherited-geography.mjs';
 import {normalizeMapCollection} from './map-geometry.mjs';
-import {mapDisplayPalette} from './map-palette.mjs?v=20';
+import {mapDisplayPalette} from './map-palette.mjs?v=21';
 import {selectCshapesAt,cshapesReadout,CSHAPES_RANGE} from './cshapes-history.mjs';
+import {composeCountryPeriodContext} from './regional-country-context.mjs';
 import {nearbyTurningPoints} from './nearby-context.mjs';
 import {createChinaContextLoader,chinaPhaseAt,activePeriodPlaces} from './china-period-context.mjs';
 import {composeHistoricalFeatures,outlineCaption,reviewSchematicName} from './map-composition.mjs?v=20';
@@ -206,7 +207,8 @@ function renderGeographicLabels(){
  if(!labelsLayer)return;const labels=[{en:'NORTH AMERICA',zh:'北美洲',lon:-108,lat:47},{en:'SOUTH AMERICA',zh:'南美洲',lon:-62,lat:-20},{en:'AFRICA',zh:'非洲',lon:18,lat:2},{en:'EUROPE',zh:'欧洲',lon:20,lat:58},{en:'ASIA',zh:'亚洲',lon:93,lat:54},{en:'OCEANIA',zh:'大洋洲',lon:137,lat:-24},{en:'Atlantic Ocean',zh:'大西洋',lon:-31,lat:6,ocean:true},{en:'Indian Ocean',zh:'印度洋',lon:76,lat:-18,ocean:true},{en:'Pacific Ocean',zh:'太平洋',lon:-143,lat:0,ocean:true}];
  labelsLayer.selectAll('text').data(layers.labels?labels:[]).join('text').attr('class',d=>d.ocean?'ocean-label':'continent-label').attr('transform',d=>{const a=projection([d.lon,d.lat]);return `translate(${a[0]},${a[1]}) scale(${1/(transform.k||1)})`;}).attr('x',0).attr('y',0).text(d=>d[state.lang]);
 }
-function runtimeCoverageAt(year){if(year>=CSHAPES_RANGE.start&&year<=CSHAPES_RANGE.end)return {mode:'country-period',snapshot:null,sourceYears:[],contextFeatures:selectCshapesAt(cshapesData,year)};return mapCoverage(snapshotData.snapshots,year,contemporaryData,territories.features);}
+function countryPeriodFeaturesAt(year){return composeCountryPeriodContext(selectCshapesAt(cshapesData,year),territories.features,year);}
+function runtimeCoverageAt(year){if(year>=CSHAPES_RANGE.start&&year<=CSHAPES_RANGE.end)return {mode:'country-period',snapshot:null,sourceYears:[],contextFeatures:countryPeriodFeaturesAt(year)};return mapCoverage(snapshotData.snapshots,year,contemporaryData,territories.features);}
 function currentCoverage(){
  if(!coverageCache.has(state.year)){if(coverageCache.size>240)coverageCache.delete(coverageCache.keys().next().value);coverageCache.set(state.year,runtimeCoverageAt(state.year));}
  return coverageCache.get(state.year);
@@ -220,7 +222,7 @@ function contemporaryFeaturesAt(year){
 }
 function mapFeaturesAt(year){
  let global;
- if(year>=CSHAPES_RANGE.start&&year<=CSHAPES_RANGE.end)global=selectCshapesAt(cshapesData,year);
+ if(year>=CSHAPES_RANGE.start&&year<=CSHAPES_RANGE.end)global=countryPeriodFeaturesAt(year);
  else{
   const coverage=mapCoverage(snapshotData.snapshots,year,contemporaryData,territories.features);
   if(coverage.mode==='contemporary')global=contemporaryFeaturesAt(year);
@@ -261,7 +263,10 @@ function renderTerritories(){
  let status='';
  if(layers.view==='reference'){status=`<strong>${state.lang==='zh'?'2022年现代地理参照':'Modern geography reference · 2022'}</strong><small>${state.lang==='zh'?'时间轴筛选历史条目，参照边界保持来源年代。':'The timeline filters stories; reference borders retain their source date.'}</small><button class="map-status-link" data-action="regions-browse">${state.lang==='zh'?'浏览州与省区':'Browse states & provinces'} ↗</button>`;}
  else if(!layers.territories){status=`<strong>${t('physical')}</strong><button class="map-status-link" data-action="layer-on" data-id="territories">${t('showShading')} ↗</button>`;}
- else if(coverage.mode==='country-period'){status=`<strong>◎ ${cshapesReadout(state.year,state.lang)}</strong><small>${features.filter(f=>f.properties.role!=='division').length} ${state.lang==='zh'?'个全球来源单元；美加行政区另列 · 非战线图':'global source units; US/Canada administrative units listed separately · not military control'}</small><button class="map-status-link" data-action="map-evidence">${t('contextEvidence')} ↗</button>`;}
+ else if(coverage.mode==='country-period'){
+  const supplements=features.filter(f=>f.properties.countryPeriodSupplement===true).length;
+  status=`<strong>◎ ${cshapesReadout(state.year,state.lang)}</strong><small>${features.filter(f=>f.properties.role!=='division'&&!f.properties.countryPeriodSupplement).length} ${state.lang==='zh'?'个全球来源单元；美加行政区另列 · 非战线图':'global source units; US/Canada administrative units listed separately · not military control'}${supplements?(state.lang==='zh'?` · 另有${supplements}个有日期的区域参照`:` · plus ${supplements} dated regional references`):''}</small><button class="map-status-link" data-action="map-evidence">${t('contextEvidence')} ↗</button>`;
+ }
  else if(isCurrent){
   const years=[...new Set(features.map(featureSourceYear))].sort((a,b)=>a-b),range=years.length===1?years[0]:`${years[0]}–${years.at(-1)}`;status=`<strong>◎ ${t('contemporary')} · ${state.year}</strong><small>${t('outlineDates')}: ${range} · ${features.length} ${t('countryCount')}</small><button class="map-status-link" data-action="map-evidence">${t('contextEvidence')} ↗</button>`;
  }else if(coverage.mode==='context'){
@@ -287,7 +292,8 @@ function renderTerritories(){
  $('#map-snapshot').classList.toggle('coverage-gap',coverage.mode==='gap'&&layers.territories);
  $('#territory-legend').hidden=!features.length||!!challenge;
  if(coverage.mode==='country-period'){
-  $('#territory-legend').innerHTML=`<div class="legend-heading"><span>${state.lang==='zh'?'有年代的地图单元':'DATED MAP UNITS'}</span><button class="legend-toggle" data-action="legend-toggle" aria-label="${state.lang==='zh'?'展开或收起图例':'Expand or collapse legend'}">${features.length} ⌄</button></div><p>${state.lang==='zh'?'全球CShapes参照；美加另用Newberry／NRCan有年代行政单元。':'Global CShapes reference with dated Newberry / NRCan administrative units in the US and Canada.'}</p><button class="country-directory-link" data-action="map-evidence">${state.lang==='zh'?'浏览当年地图单元':'Browse units at this year'} ↗</button>`;
+  const supplements=features.filter(f=>f.properties.countryPeriodSupplement===true).length;
+  $('#territory-legend').innerHTML=`<div class="legend-heading"><span>${state.lang==='zh'?'有年代的地图单元':'DATED MAP UNITS'}</span><button class="legend-toggle" data-action="legend-toggle" aria-label="${state.lang==='zh'?'展开或收起图例':'Expand or collapse legend'}">${features.length} ⌄</button></div><p>${state.lang==='zh'?'全球CShapes参照；美加另用Newberry／NRCan有年代行政单元。':'Global CShapes reference with dated Newberry / NRCan administrative units in the US and Canada.'}${supplements?(state.lang==='zh'?` 另有${supplements}个区域参照，保留各自来源年份。`:` Plus ${supplements} regional references retaining their source dates.`):''}</p><button class="country-directory-link" data-action="map-evidence">${state.lang==='zh'?'浏览当年地图单元':'Browse units at this year'} ↗</button>`;
  }else if(isCurrent){
   $('#territory-legend').innerHTML=`<div class="legend-heading"><span>${t('contemporary')}</span><button class="legend-toggle" data-action="legend-toggle" aria-label="${t('countries')}">${features.length} ⌄</button></div><p>${t('contemporaryNote')}</p><button class="country-directory-link" data-action="countries">${t('countries')} ↗</button>`;
  }else{
@@ -613,7 +619,7 @@ function contentCoverageHTML(){
  const rows=expansionCoverage(expansionRecords,expansionManifest.workstreams||[]);
  return `<h3>${state.lang==='zh'?'历史水系与通道':'Historical waterways and corridors'}</h3><p>${esc(localized(chinaWaterways.note))}</p><p><a href="${esc(chinaWaterways.source.url)}" target="_blank" rel="noopener noreferrer">${t('viewSource')}</a></p><h3>${t('expansionCoverage')}</h3><p>${t('expansionCoverageNote')}</p><div class="content-coverage">${rows.map(r=>`<button class="elsewhere-card" data-action="open-course" data-id="course-expansion-${r.id.toLowerCase()}"><span><strong>${esc(localized(r.title))}</strong><small>${r.records} ${t('records')} · ${r.biographies} ${t('people')}</small></span>↗</button>`).join('')}</div>`;
 }
-async function loadJSON(file){const url=new URL(file,location.href);url.searchParams.set('atlas','0.14.0');const response=await fetch(url);if(!response.ok)throw new Error(`A local atlas file could not load: ${file}`);return response.json();}
+async function loadJSON(file){const url=new URL(file,location.href);url.searchParams.set('atlas','0.14.0-map-continuity-2');const response=await fetch(url);if(!response.ok)throw new Error(`A local atlas file could not load: ${file}`);return response.json();}
 async function init(){try{
  const files=['./data/history.json','./data/people.json','./data/routes.json','./assets/land.geojson','./data/map-snapshots.json','./assets/rivers.geojson','./data/courses.json','./data/contemporary-world.json','./data/disputed-lines.geojson','./data/disputed-areas.geojson','./data/china-import-manifest.json','./data/china-library.json','./data/china-reviews.json'];
  let histories,chinaReviews;

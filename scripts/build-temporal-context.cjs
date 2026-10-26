@@ -21,7 +21,9 @@ const obsoleteSourceURLs=new Set([
 const sha=b=>crypto.createHash('sha256').update(b).digest('hex');
 const ctx={};vm.runInNewContext(fs.readFileSync(path.join(root,'dist/assets/d3.v7.9.0.min.js'),'utf8'),ctx);const d3=ctx.d3;
 const metaPath=path.join(out,'map-snapshots.json'),meta=JSON.parse(fs.readFileSync(metaPath));
-const bases=meta.layers.filter(l=>!l.file.startsWith('territories-context-'));
+// Later additive selections own their own curation. Reapply their builder
+// after V4; do not treat them as immutable V4 bases or infer V4 phase rules.
+const bases=meta.layers.filter(l=>!l.file.startsWith('territories-context-')&&!l.file.startsWith('territories-continuity-'));
 const baseData=bases.map(l=>({layer:l,data:JSON.parse(fs.readFileSync(path.join(out,l.file)))}));
 const originalFeatures=baseData.flatMap(x=>x.data.features);
 const examples=new Map();for(const f of originalFeatures)if(!examples.has(f.properties.polityId))examples.set(f.properties.polityId,f.properties);

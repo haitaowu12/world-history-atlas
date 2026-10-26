@@ -7,6 +7,7 @@ const isMainland=p=>p.code==='CHN'||p.isoCode==='CHN'||p.gwcode===710||
 
 const mineral=['#89b4d8','#ceab79','#91b9a9','#b09bc7','#d69b95','#8abdc5','#b5bd87','#b9a6a2'];
 const identities={usa:0,canada:1,mexico:2,russian:3,uk:4,spain:1,france:0,newspain:1,
+  asante:1,sokoto:0,buganda:2,bunyoro:4,lunda:1,luba:3,kuba:7,merina:5,
   'cshapes-2':0,'cshapes-3':0,'cshapes-4':0,'cshapes-20':1,'cshapes-70':2,'cshapes-365':3,'cshapes-200':4,
   USA:0,CAN:1,MEX:2,RUS:3,GBR:4,CHN:6,TWN:6,
   'british-north-america':4,newfoundland:5,'oregon-joint':6,'texas-republic':2,'vermont-republic':7,'usa-claim':7,'canada-claim':7};
