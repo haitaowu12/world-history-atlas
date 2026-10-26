@@ -447,7 +447,9 @@ for(const file of ['countries.geojson','rivers.geojson']){const geo=JSON.parse(r
 let regionalReferenceUnits=0,regionalReferenceGroups=0;
 try {
  const meta=JSON.parse(read('dist/data/regional-reference.json')),units=[];
- if(meta.role!=='modern-reference'||meta.sourceRelease!=='5.1.1'||meta.sourceReleaseYear!==2022||meta.contentVersion!==expansionManifest.version)fail('Worldwide regional reference: source/content version mismatch');
+ if(meta.role!=='modern-reference'||meta.sourceRelease!=='5.1.1'||meta.sourceReleaseYear!==2022||meta.contentVersion!=='0.11.0')fail('Worldwide regional reference: source/content version mismatch');
+ const addition=JSON.parse(read('dist/data/regional-history-v13.json'));
+ if(addition.contentVersion!==expansionManifest.version||addition.sourceRelease!==meta.sourceRelease)fail('Worldwide regional history addition is stale');
  if(!read('dist/data/'+meta.licenseFile).includes('public domain'))fail('Worldwide regional reference: missing source notice');
  const regions=new Set(),sourceIds=new Set();
  for(const country of meta.countries||[]){

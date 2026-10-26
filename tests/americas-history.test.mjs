@@ -97,3 +97,10 @@ test('every dated source polygon has finite year-independent render geometry wit
   assert.ok(!/NaN|Infinity/.test(path(f)),file+': finite projection');
  }}
 });
+
+test('Florida signature does not become US administrative transfer before the1821 exchange',async()=>{
+ for(const year of [1818,1819,1820])assert.equal((await rows(year)).some(f=>f.properties.id==='americas-usa-division-40'),false,String(year));
+ const florida=(await rows(1821)).find(f=>f.properties.id==='americas-usa-division-40');assert.ok(florida);
+ assert.equal(florida.properties.sourceStartKey,18190222);assert.equal(florida.properties.effectiveStartKey,18210222);
+ assert.ok(at(await rows(1821),[-81.38,28.54]).some(f=>f.properties.parent==='USA'));
+});

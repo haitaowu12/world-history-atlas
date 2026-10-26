@@ -1,0 +1,1000 @@
+[
+  {
+    "id": "person-rose-fortune",
+    "title": {
+      "en": "Rose Fortune · Making a living on a colonial waterfront",
+      "zh": "罗斯·福琼 · 在殖民港口谋生"
+    },
+    "start": 1828,
+    "end": 1852,
+    "region": "north-america",
+    "kind": "person",
+    "theme": "exchange",
+    "importance": 3,
+    "location": {
+      "lat": 44.742,
+      "lon": -65.516,
+      "label": "Annapolis Royal, Nova Scotia; representative waterfront-town context, not a precise home, wharf, grave or police station",
+      "labelI18n": {
+        "en": "Annapolis Royal, Nova Scotia; representative waterfront-town context, not a precise home, wharf, grave or police station",
+        "zh": "新斯科舍安纳波利斯罗亚尔；代表港口城镇背景，并非确切住宅、码头、墓地或警察局"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Rose Fortune’s working life makes a colonial port visible from the wharf rather than from its governors’ offices. Her family appears in an Annapolis County muster in 1784; identifying the child on that roll as Rose is a scholarly inference, not a named passenger record. Her birth is conventionally placed around 1774, but her own birth into slavery is uncertain. The date when she settled permanently in Annapolis Royal is also unknown.\n\nBy the late 1820s she carried passengers’ baggage with a wheelbarrow and helped travellers reach inns and departing boats. This work required physical labour, local knowledge and relationships with customers. She developed an independent livelihood in a society that offered many Black women little beyond domestic service. Accounts of her waking a judge survive as family recollection, rather than a complete business ledger.\n\nHer public authority was informal. Remembered for keeping order on the waterfront, she was not a documented appointment to a professional police force. Her independence also met official scrutiny: the scholarly biography records an 1836 acquittal on a disorderly-house charge, while the outcome of a later accusation is missing. Neither accusation is treated here as proof of guilt.\n\nA traveller still described her working in 1852. Children and descendants carried her memory and aspects of the cartage business forward. Surviving records preserve activity and reputation unevenly: a famous portrait has an uncertain date and origin, and institutional captions disagree over her death/burial year. Her life is therefore richer than a commemorative “first,” but cannot be reconstructed as an uninterrupted, precisely dated itinerary.",
+      "zh": "罗斯·福琼的工作生涯，让人从码头而非总督办公室观察殖民港口。其家庭见于1784年安纳波利斯县名册；将其中孩子认作罗斯，是学术推断，而非具名乘客记录。她通常被认为约生于1774年，但本人是否生来受奴役仍不确定，也不清楚何时在安纳波利斯罗亚尔长期定居。\n\n到1820年代末，她已用独轮车搬运行李，协助旅客前往客栈和赶上船班。这项工作依靠体力、地方知识与客户关系。在许多黑人妇女只能从事家务服务的社会里，她建立了独立生计。叫醒法官赶船的故事来自家庭回忆，并不是完整营业账簿。\n\n她在公共空间的权威属于非正式性质。后人记得她维持码头秩序，但没有证据表明她被任命加入专业警队。独立生活也受到官方审视：学术传记记载她于1836年在一项所谓“失序场所”（disorderly house）的指控中获判无罪，另一次指控的结果则缺失。本篇不把指控当作有罪证据。\n\n1852年仍有旅客记述她的工作。子女与后代延续了她的记忆及部分搬运业务。现存记录对活动与声誉的保存并不均衡：著名肖像的年代和来源不明，机构说明对死亡或安葬年份也有分歧。她的生命经验远比一个纪念性的“第一”丰富，却不能被复原为连贯、精确的个人行程。"
+    },
+    "dateNote": {
+      "en": "Selected documented working-life episodes 1828–1852, not lifespan or business foundation. Parks Canada/DCB use circa 1774–1864; the Nova Scotia Archives caption instead reports a 20 February 1867 burial. The underlying register was not inspected, so this discrepancy remains open.",
+      "zh": "选取1828—1852年有记录的工作片段，非生卒或创业起止。加拿大公园局与DCB采用约1774—1864年；新斯科舍档案馆说明则写1867年2月20日安葬。未查验底层登记簿，保留分歧。"
+    },
+    "sources": [
+      {
+        "title": "Rose Fortune National Historic Person (circa 1774–1864)",
+        "publisher": "Parks Canada / Historic Sites and Monuments Board of Canada",
+        "url": "https://parks.canada.ca/culture/designation/personnage-person/rose-fortune",
+        "evidenceNote": "Inspected the plaque, backgrounder and 2022 designation review. Supports Black Loyalist family context, waterfront cartage and informal peacekeeping. The review explicitly makes her own birth into slavery and siblings uncertain; neither is asserted. Conventional death year 1864 is not treated as resolving the archive-caption discrepancy.",
+        "checkedAt": "2026-10-26",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "FORTUNE, ROSE · Brenda J. Thompson",
+        "publisher": "Dictionary of Canadian Biography, University of Toronto / Université Laval",
+        "url": "https://www.biographi.ca/en/bio/fortune_rose_9E.html",
+        "evidenceNote": "Read the 2022 scholarly biography, not the underlying registers. Supports the 1784 family muster, uncertain permanent settlement, late 1820s cartage, 1828 church-account trace, 1836 acquittal, missing 1839 outcome, 1852 travel account, children and family business. It gives 1864 death/burial; precise business-foundation, family-escape and marriage claims remain unasserted.",
+        "checkedAt": "2026-10-26",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Rose Fortune (ca. 1774–1864) · portrait record",
+        "publisher": "Nova Scotia Archives, Documentary Art Collection",
+        "url": "https://archives.novascotia.ca/africanns/archives/?ID=30",
+        "evidenceNote": "Inspected the caption and catalog fields: artist/source unknown, date[1830s?], possible life/memory/copy origin. Caption gives a 20 February 1867 burial, conflicting with the DCB 1864 account and Parks conventional 1864 death. Underlying burial record not inspected; no exact portrait date or resolved death date is claimed.",
+        "checkedAt": "2026-10-26",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "relatedIds": [
+      "annapolis-waterfront-black-labour",
+      "halifax-african-nova-scotian-archives"
+    ],
+    "expansion": {
+      "workstreams": [
+        "NA3"
+      ],
+      "release": 7,
+      "edition": "v13",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "Institutional histories and an archival caption were compared, not every cited register. No exact birthplace, enslavement-at-birth, business start, police appointment, marriage or death day is established.",
+        "zh": "比较机构历史与档案说明，未查验全部所引登记簿。不确定精确出生地、出生时奴役身份、创业年、警察任命、婚姻或死亡日。"
+      }
+    },
+    "name": {
+      "en": "Rose Fortune",
+      "zh": "罗斯·福琼"
+    },
+    "milestones": [
+      {
+        "year": 1828,
+        "title": {
+          "en": "A trace in a church account",
+          "zh": "教会账簿留下痕迹"
+        },
+        "description": {
+          "en": "An 1828 church-account reference is one surviving trace of her presence; her porter work is described broadly as late 1820s.",
+          "zh": "1828年的教会账簿提及是其活动的现存痕迹之一；搬运工作仅笼统定为1820年代末。"
+        },
+        "location": {
+          "lat": 44.742,
+          "lon": -65.516,
+          "label": "Annapolis Royal, Nova Scotia; representative waterfront-town context, not a precise home, wharf, grave or police station",
+          "labelI18n": {
+            "en": "Annapolis Royal, Nova Scotia; representative waterfront-town context, not a precise home, wharf, grave or police station",
+            "zh": "新斯科舍安纳波利斯罗亚尔；代表港口城镇背景，并非确切住宅、码头、墓地或警察局"
+          }
+        },
+        "approximate": false
+      },
+      {
+        "year": 1836,
+        "title": {
+          "en": "Acquittal after an accusation",
+          "zh": "受指控后获判无罪"
+        },
+        "description": {
+          "en": "The scholarly biography records an acquittal; the charge does not establish wrongdoing.",
+          "zh": "学术传记记录获判无罪；指控不证明违法。"
+        },
+        "location": {
+          "lat": 44.742,
+          "lon": -65.516,
+          "label": "Annapolis Royal, Nova Scotia; representative waterfront-town context, not a precise home, wharf, grave or police station",
+          "labelI18n": {
+            "en": "Annapolis Royal, Nova Scotia; representative waterfront-town context, not a precise home, wharf, grave or police station",
+            "zh": "新斯科舍安纳波利斯罗亚尔；代表港口城镇背景，并非确切住宅、码头、墓地或警察局"
+          }
+        },
+        "approximate": false
+      },
+      {
+        "year": 1852,
+        "title": {
+          "en": "Still working for travellers",
+          "zh": "仍为旅客服务"
+        },
+        "description": {
+          "en": "A visiting officer described her assistance, preserving his perspective rather than her own testimony.",
+          "zh": "一名来访军官记述她提供协助；这是观察者视角，而非本人证言。"
+        },
+        "location": {
+          "lat": 44.742,
+          "lon": -65.516,
+          "label": "Annapolis Royal, Nova Scotia; representative waterfront-town context, not a precise home, wharf, grave or police station",
+          "labelI18n": {
+            "en": "Annapolis Royal, Nova Scotia; representative waterfront-town context, not a precise home, wharf, grave or police station",
+            "zh": "新斯科舍安纳波利斯罗亚尔；代表港口城镇背景，并非确切住宅、码头、墓地或警察局"
+          }
+        },
+        "approximate": false
+      }
+    ],
+    "aliases": [
+      "Rose Fortune"
+    ]
+  },
+  {
+    "id": "annapolis-waterfront-black-labour",
+    "title": {
+      "en": "Annapolis Royal · Black work, mobility and the surviving record",
+      "zh": "安纳波利斯罗亚尔 · 黑人劳动、流动与留存记录"
+    },
+    "start": 1784,
+    "end": 1852,
+    "region": "north-america",
+    "kind": "culture",
+    "theme": "exchange",
+    "importance": 3,
+    "location": {
+      "lat": 44.742,
+      "lon": -65.516,
+      "label": "Annapolis Royal, Nova Scotia; representative waterfront-town context, not a precise home, wharf, grave or police station",
+      "labelI18n": {
+        "en": "Annapolis Royal, Nova Scotia; representative waterfront-town context, not a precise home, wharf, grave or police station",
+        "zh": "新斯科舍安纳波利斯罗亚尔；代表港口城镇背景，并非确切住宅、码头、墓地或警察局"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "The Annapolis waterfront connected local households with travellers moving across the Bay of Fundy. The 1784 county muster supplies one kind of evidence for Black Loyalist families; it does not give a complete account of their lives or prove every proposed identity. Freedom from enslavement did not remove racial or gender barriers to work and public standing.\n\nRose Fortune’s baggage cartage and wake-up service show how passengers depended on workers’ knowledge of the town and its boats. Her business was neither a surveyed transport route nor a measure of opportunity for all Black residents. Family recollection, church accounts, court records and travellers’ descriptions illuminate different relationships, often through unequal or hostile viewpoints.\n\nReading those sources together changes the question from who held a national “first” to how a person supported a household and negotiated public space. The portrait catalog is especially instructive: its tentative date and unknown maker limit what can be inferred from an apparently familiar image. This selected port history complements, rather than substitutes for, the wider histories of African Nova Scotian slavery, freedom and community.",
+      "zh": "安纳波利斯港口把本地家庭与往返芬迪湾的旅客联系起来。1784年县名册为黑人效忠派家庭提供一种证据，却不是完整生平，也不能证明每项身份推断。摆脱奴役并未消除就业与公共地位上的种族和性别障碍。\n\n罗斯·福琼的行李搬运及叫醒服务，说明旅客依靠劳动者对城镇与船班的了解。她的生意既不是经过测绘的运输路线，也不代表所有黑人居民都拥有同样机会。家庭回忆、教会账目、法院材料及旅客描述揭示不同关系，往往带有不平等甚至敌视的视角。\n\n把这些来源并读，问题便从谁拥有全国性“第一”，转为个人如何维持家庭并在公共空间中行动。肖像目录尤其有启发性：年代暂定、作者不明，限制了人们对熟悉图像的推断。这段精选港口史补充更广泛的非裔新斯科舍奴役、自由与社群历史，不能取代它们。"
+    },
+    "dateNote": {
+      "en": "Selected evidence window 1784–1852, not the port’s foundation or the duration of Black community life.",
+      "zh": "选取1784—1852年证据窗口，非港口建立年代或黑人社群延续的起止。"
+    },
+    "sources": [
+      {
+        "title": "Rose Fortune National Historic Person (circa 1774–1864)",
+        "publisher": "Parks Canada / Historic Sites and Monuments Board of Canada",
+        "url": "https://parks.canada.ca/culture/designation/personnage-person/rose-fortune",
+        "evidenceNote": "Inspected the plaque, backgrounder and 2022 designation review. Supports Black Loyalist family context, waterfront cartage and informal peacekeeping. The review explicitly makes her own birth into slavery and siblings uncertain; neither is asserted. Conventional death year 1864 is not treated as resolving the archive-caption discrepancy.",
+        "checkedAt": "2026-10-26",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "FORTUNE, ROSE · Brenda J. Thompson",
+        "publisher": "Dictionary of Canadian Biography, University of Toronto / Université Laval",
+        "url": "https://www.biographi.ca/en/bio/fortune_rose_9E.html",
+        "evidenceNote": "Read the 2022 scholarly biography, not the underlying registers. Supports the 1784 family muster, uncertain permanent settlement, late 1820s cartage, 1828 church-account trace, 1836 acquittal, missing 1839 outcome, 1852 travel account, children and family business. It gives 1864 death/burial; precise business-foundation, family-escape and marriage claims remain unasserted.",
+        "checkedAt": "2026-10-26",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Rose Fortune (ca. 1774–1864) · portrait record",
+        "publisher": "Nova Scotia Archives, Documentary Art Collection",
+        "url": "https://archives.novascotia.ca/africanns/archives/?ID=30",
+        "evidenceNote": "Inspected the caption and catalog fields: artist/source unknown, date[1830s?], possible life/memory/copy origin. Caption gives a 20 February 1867 burial, conflicting with the DCB 1864 account and Parks conventional 1864 death. Underlying burial record not inspected; no exact portrait date or resolved death date is claimed.",
+        "checkedAt": "2026-10-26",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "relatedIds": [
+      "person-rose-fortune",
+      "grand-pre-dykes-displacement",
+      "halifax-african-nova-scotian-archives"
+    ],
+    "expansion": {
+      "workstreams": [
+        "NA3"
+      ],
+      "release": 7,
+      "edition": "v13",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "A bounded synthesis from one family and port worker’s records. Underlying muster, court and burial documents were not independently collated.",
+        "zh": "以一个家庭和港口劳动者记录作有限综合；未独立校勘底层名册、法院或安葬文书。"
+      }
+    }
+  },
+  {
+    "id": "person-shingwaukonse",
+    "title": {
+      "en": "Shingwaukonse · Education, resource rights and a community’s future",
+      "zh": "欣瓦孔塞 · 教育、资源权利与社群未来"
+    },
+    "start": 1831,
+    "end": 1854,
+    "region": "north-america",
+    "kind": "person",
+    "theme": "knowledge",
+    "importance": 3,
+    "location": {
+      "lat": 46.54,
+      "lon": -84.14,
+      "label": "Garden River, near present-day Sault Ste. Marie, Ontario; representative community setting, not a treaty boundary",
+      "labelI18n": {
+        "en": "Garden River, near present-day Sault Ste. Marie, Ontario; representative community setting, not a treaty boundary",
+        "zh": "今安大略苏圣玛丽附近加登河；代表社群地点，非条约边界"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Shingwaukonse, also called Shingwauk, was an Anishinaabe leader whose educational plans were connected to the survival and well-being of his people. The Shingwauk Residential Schools Centre’s family history places his public prominence after the War of 1812 and describes a leader rooted in Midewiwin practice. Learning from newcomers did not mean that Anishinaabe knowledge had no value.\n\nAlgoma University’s historical timeline dates his Teaching Wigwam vision to 1831 and a petitioning delegation to York to 1832. His son Augustine’s later account recalls canoe travel followed by walking; another institutional retelling describes snowshoes. The atlas retains the petition destination without drawing a precise journey. A missionary and teacher arrived and a church-school followed. Algoma’s timeline places a band relocation to Garden River in 1838, while the SRSC family history already places the 1832 delegation’s departure there. The atlas retains this disagreement. These developments involved negotiation and changing access to support.\n\nHe also pursued land and resource rights. By 1850, he and other regional chiefs were negotiating the Robinson treaties. Education and resource security were linked concerns in a changing economy, rather than separate achievements of a solitary reformer. His proposals operated through councils, family relationships and community decisions.\n\nHe did not establish the later 1873 industrial boarding home himself: institutional timelines place his death in 1854. His sons continued educational advocacy under different conditions. The subsequent residential institution’s assimilationist history cannot be treated as straightforward fulfillment of his cross-cultural vision. Indigenous educators and Survivors later returned to that distinction while developing their own educational institutions.",
+      "zh": "欣瓦孔塞，又称欣瓦克，是阿尼希纳贝领袖，其教育计划与族人的存续和福祉相连。欣瓦克寄宿学校中心的家族史，将其声望上升放在1812年战争之后，并描述他立足于Midewiwin传统的实践。向新来者学习，并不意味着阿尼希纳贝知识没有价值。\n\n阿尔戈马大学年表把“教学棚屋”愿景定于1831年，把赴约克请愿定于1832年。儿子奥古斯丁后来的记述说先乘独木舟、再步行；另一种机构转述则说踏雪鞋。本地图保留请愿目的地，不绘制精确旅程。传教教师到来，随后建立教堂兼学校。阿尔戈马年表把迁至加登河记于1838年，SRSC家族史却已把1832年代表团出发地置于此；保留分歧。这些发展涉及交涉，也受可获得支持的变化影响。\n\n他还争取土地与资源权利。到1850年，他与其他地区酋长参与罗宾逊条约谈判。在不断变化的经济中，教育与资源保障彼此相关，不是孤立改革者的两项独立功绩。其提案经由议事、家庭关系和社群决定推进。\n\n他本人并未建立1873年后来的工业寄宿之家：机构年表把其去世定于1854年。儿子们在不同条件下继续倡议教育。后来寄宿机构的同化历史，不能被直接写成其跨文化愿景的实现。原住民教育者与幸存者此后重新强调这一区别，并发展自己的教育机构。"
+    },
+    "dateNote": {
+      "en": "Selected leadership/education focus 1831–1854, not a verified lifespan. 1832 follows Algoma’s timeline; travel mode is not resolved. One family-history paragraph conflicts with its own 1854 death heading; no exact death-day milestone is supplied. Algoma’s 1838 relocation date also differs from the SRSC account of a 1832 departure from Garden River.",
+      "zh": "选取1831—1854年领袖及教育活动，非核定生卒。1832年依据阿尔戈马年表；不裁定出行方式。家族史一段与自身1854年死亡标题冲突，不设确切死亡日节点。阿尔戈马的1838年迁居说法，也与SRSC所记1832年从加登河出发存在差别。"
+    },
+    "sources": [
+      {
+        "title": "About Shingwauk Kinoomaage Gamig",
+        "publisher": "Shingwauk Kinoomaage Gamig",
+        "url": "https://shingwauku.org/about",
+        "evidenceNote": "Inspected the Indigenous institute’s own account of Shingwaukonse’s cross-cultural Teaching Wigwam vision, May 2006 covenant and December 2017 recognition. Its stated mission is not evidence of measured educational outcomes or continuity of governance across all schools bearing the name.",
+        "checkedAt": "2026-10-26",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Special Mission · Shingwauk’s Vision timeline",
+        "publisher": "Algoma University",
+        "url": "https://algomau.ca/special-mission/",
+        "evidenceNote": "Read timeline 1831–2017 and institutional framing. Supports 1831 vision, 1832 petition, 1833 school, 1838 move to Garden River, 1850 treaty negotiations, 1854 death, 1873 boarding-home opening/fire, 1875 new home, 1970 residential-school closure, 1981 reunion and 2006 covenant. These are distinct institutions/phases; the modern reconciliation mission does not vindicate residential schooling.",
+        "checkedAt": "2026-10-26",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "The Shingwauk Family · Healing and Reconciliation Through Education",
+        "publisher": "Shingwauk Residential Schools Centre, hosted by eCampusOntario Pressbooks",
+        "url": "https://ecampusontario.pressbooks.pub/srsc/chapter/the-shingwauk-family/",
+        "evidenceNote": "Read this chapter, including attributed Augustine recollection and family advocacy. The text alternates snowshoe travel with canoe/walking testimony, and its 1773–1854 heading conflicts with a paragraph placing Chance’s arrival before death in 1855. Do not adopt an exact itinerary, death day or that conflicting 1855 sequence. Other chapters and the full 1871 journal were not inspected.",
+        "checkedAt": "2026-10-26",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "relatedIds": [
+      "shingwauk-teaching-vision-institutions",
+      "ojibwe-manoomin-waters",
+      "canadian-residential-schools"
+    ],
+    "expansion": {
+      "workstreams": [
+        "NA1",
+        "NA2"
+      ],
+      "release": 7,
+      "edition": "v13",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "Community and university institutional accounts were compared. The original petition, full Augustine journal and treaty texts were not collated; no precise travel path or claim that residential schooling fulfilled the vision is made.",
+        "zh": "比较社群与大学的机构叙述，未校勘请愿原件、奥古斯丁完整日记或条约文本；不复原精确行程，也不声称寄宿学校实现其愿景。"
+      }
+    },
+    "name": {
+      "en": "Shingwaukonse",
+      "zh": "欣瓦孔塞"
+    },
+    "milestones": [
+      {
+        "year": 1831,
+        "title": {
+          "en": "A Teaching Wigwam vision",
+          "zh": "提出教学棚屋愿景"
+        },
+        "description": {
+          "en": "Algoma’s timeline dates the educational vision to this year; it was not the opening of the later residential school.",
+          "zh": "阿尔戈马年表以此年记录教育愿景，并非后来寄宿学校开办年。"
+        },
+        "location": {
+          "lat": 46.52,
+          "lon": -84.33,
+          "label": "Sault Ste. Marie, Ontario; representative Canadian town context, not an exact treaty-signing or school location",
+          "labelI18n": {
+            "en": "Sault Ste. Marie, Ontario; representative Canadian town context, not an exact treaty-signing or school location",
+            "zh": "安大略省苏圣玛丽；代表加拿大城镇背景，并非确切条约签署地点或校址"
+          }
+        },
+        "approximate": false
+      },
+      {
+        "year": 1832,
+        "title": {
+          "en": "A delegation petitions at York",
+          "zh": "代表团赴约克请愿"
+        },
+        "description": {
+          "en": "He and a delegation sought support for a missionary-teacher; accounts do not settle every travel detail.",
+          "zh": "他与代表团寻求传教教师支持；各叙述不足以确定全部旅程细节。"
+        },
+        "location": {
+          "lat": 43.65,
+          "lon": -79.38,
+          "label": "York, Upper Canada (present-day Toronto); representative petition destination, not an exact meeting room",
+          "labelI18n": {
+            "en": "York, Upper Canada (present-day Toronto); representative petition destination, not an exact meeting room",
+            "zh": "上加拿大约克，即今多伦多；代表请愿目的地，非确切会面室"
+          }
+        },
+        "approximate": false
+      },
+      {
+        "year": 1838,
+        "title": {
+          "en": "Garden River in Algoma’s timeline",
+          "zh": "阿尔戈马时间线中的加登河"
+        },
+        "description": {
+          "en": "Algoma University dates a band relocation to Garden River to 1838. The SRSC family account already places the 1832 delegation’s departure there. This milestone marks the institutional timeline’s claim, not a resolved first-settlement date.",
+          "zh": "阿尔戈马大学将部落迁至加登河记于1838年；SRSC家族记述却已把1832年代表团出发地置于此。此节点标记机构时间线的说法，并非已确定的首次定居日期。"
+        },
+        "location": {
+          "lat": 46.54,
+          "lon": -84.14,
+          "label": "Garden River, near present-day Sault Ste. Marie, Ontario; representative community setting, not a treaty boundary",
+          "labelI18n": {
+            "en": "Garden River, near present-day Sault Ste. Marie, Ontario; representative community setting, not a treaty boundary",
+            "zh": "今安大略苏圣玛丽附近加登河；代表社群地点，非条约边界"
+          }
+        },
+        "approximate": false
+      },
+      {
+        "year": 1850,
+        "title": {
+          "en": "Negotiating with regional chiefs",
+          "zh": "与地区酋长共同谈判"
+        },
+        "description": {
+          "en": "He participated with other chiefs in Robinson treaty negotiations; this pin is regional context, not a title map.",
+          "zh": "与其他酋长参与罗宾逊条约谈判；点位仅供地区背景定位，不表示地权范围。"
+        },
+        "location": {
+          "lat": 46.52,
+          "lon": -84.33,
+          "label": "Sault Ste. Marie, Ontario; representative Canadian town context, not an exact treaty-signing or school location",
+          "labelI18n": {
+            "en": "Sault Ste. Marie, Ontario; representative Canadian town context, not an exact treaty-signing or school location",
+            "zh": "安大略省苏圣玛丽；代表加拿大城镇背景，并非确切条约签署地点或校址"
+          }
+        },
+        "approximate": false
+      }
+    ],
+    "aliases": [
+      "Shingwauk",
+      "Shingwaukonse"
+    ]
+  },
+  {
+    "id": "shingwauk-teaching-vision-institutions",
+    "title": {
+      "en": "Shingwauk’s name · A vision, residential schooling and educational reclamation",
+      "zh": "欣瓦克之名 · 愿景、寄宿教育与教育自主"
+    },
+    "start": 1831,
+    "end": 2017,
+    "region": "north-america",
+    "kind": "idea",
+    "theme": "knowledge",
+    "importance": 3,
+    "location": {
+      "lat": 46.52,
+      "lon": -84.33,
+      "label": "Sault Ste. Marie, Ontario; representative Canadian town context, not an exact treaty-signing or school location",
+      "labelI18n": {
+        "en": "Sault Ste. Marie, Ontario; representative Canadian town context, not an exact treaty-signing or school location",
+        "zh": "安大略省苏圣玛丽；代表加拿大城镇背景，并非确切条约签署地点或校址"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "A shared name can conceal different educational projects. Shingwaukonse’s Teaching Wigwam envisioned cross-cultural learning, while successive missionary, industrial and residential institutions operated through changing church and government relationships. The 1830s school and the 1873 boarding home were not one unchanged organization.\n\nThe 1873 building burned soon after opening, and a new home opened in 1875. The later residential school belonged to a system directed toward assimilation; recalling the chief’s advocacy does not establish consent to all of its policies or erase Survivors’ experiences. Algoma’s institutional timeline dates the residential school’s closure to 1970 and records an important reunion in 1981. Neither date marks the end of Anishinaabe education.\n\nShingwauk Kinoomaage Gamig describes its own work as preserving Anishinaabe knowledge through an independent Indigenous institution. A 2006 covenant and 2017 legal recognition are later steps in that project, not proof of continuous authority since 1831. Comparing the institute’s account with the archive’s family history helps distinguish an inherited name, a community’s aims and what particular institutions actually did.",
+      "zh": "同一个名字可能掩盖不同教育项目。欣瓦孔塞的教学棚屋愿景主张跨文化学习；之后的传教、工业与寄宿机构，则在变化的教会与政府关系中运作。1830年代学校和1873年寄宿之家，不是一个从未改变的组织。\n\n1873年建筑开办后不久毁于火灾，新之家于1875年开放。后来的寄宿学校属于推动同化的制度；回顾酋长的教育倡议，并不证明他同意其全部政策，也不能抹去幸存者经历。阿尔戈马机构年表把寄宿学校关闭定于1970年，并记录1981年的重要重聚。两者都不是阿尼希纳贝教育终结的年代。\n\n欣瓦克教学研究院将自身工作描述为通过独立原住民机构保存阿尼希纳贝知识。2006年盟约与2017年法律承认，是后来项目的步骤，而非1831年以来权力连续的证明。把研究院叙述与档案家族史比较，有助于区分沿用的名字、社群目标，以及具体机构实际所做的事。"
+    },
+    "dateNote": {
+      "en": "Selected 1831–2017 institutional episodes, not a continuous school or the lifespan of an educational tradition. Map anchor 1873 is one episode; the reading may move between periods.",
+      "zh": "选取1831—2017年机构片段，并非一所学校或教育传统的连续寿命。地图锚点1873年仅代表其中一个事件；阅读可跨越时期。"
+    },
+    "sources": [
+      {
+        "title": "About Shingwauk Kinoomaage Gamig",
+        "publisher": "Shingwauk Kinoomaage Gamig",
+        "url": "https://shingwauku.org/about",
+        "evidenceNote": "Inspected the Indigenous institute’s own account of Shingwaukonse’s cross-cultural Teaching Wigwam vision, May 2006 covenant and December 2017 recognition. Its stated mission is not evidence of measured educational outcomes or continuity of governance across all schools bearing the name.",
+        "checkedAt": "2026-10-26",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Special Mission · Shingwauk’s Vision timeline",
+        "publisher": "Algoma University",
+        "url": "https://algomau.ca/special-mission/",
+        "evidenceNote": "Read timeline 1831–2017 and institutional framing. Supports 1831 vision, 1832 petition, 1833 school, 1838 move to Garden River, 1850 treaty negotiations, 1854 death, 1873 boarding-home opening/fire, 1875 new home, 1970 residential-school closure, 1981 reunion and 2006 covenant. These are distinct institutions/phases; the modern reconciliation mission does not vindicate residential schooling.",
+        "checkedAt": "2026-10-26",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "The Shingwauk Family · Healing and Reconciliation Through Education",
+        "publisher": "Shingwauk Residential Schools Centre, hosted by eCampusOntario Pressbooks",
+        "url": "https://ecampusontario.pressbooks.pub/srsc/chapter/the-shingwauk-family/",
+        "evidenceNote": "Read this chapter, including attributed Augustine recollection and family advocacy. The text alternates snowshoe travel with canoe/walking testimony, and its 1773–1854 heading conflicts with a paragraph placing Chance’s arrival before death in 1855. Do not adopt an exact itinerary, death day or that conflicting 1855 sequence. Other chapters and the full 1871 journal were not inspected.",
+        "checkedAt": "2026-10-26",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "relatedIds": [
+      "person-shingwaukonse",
+      "canadian-residential-schools",
+      "indian-act-assimilation"
+    ],
+    "expansion": {
+      "workstreams": [
+        "NA1",
+        "NA2"
+      ],
+      "release": 7,
+      "edition": "v13",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "The institute’s own mission is distinguished from retrospective university chronology and the residential system. Source disagreements remain; educational effectiveness and universal community acceptance are not assessed.",
+        "zh": "区分研究院自述、大学回顾年表及寄宿学校制度。保留来源分歧；未评估教育成效或全体社群接受程度。"
+      }
+    }
+  },
+  {
+    "id": "person-mungo-martin",
+    "title": {
+      "en": "Mungo Martin · Carving, family work and ceremonial knowledge",
+      "zh": "芒戈·马丁 · 雕刻、家庭协作与仪式知识"
+    },
+    "start": 1900,
+    "end": 1962,
+    "region": "north-america",
+    "kind": "person",
+    "theme": "culture",
+    "importance": 3,
+    "location": {
+      "lat": 48.42,
+      "lon": -123.37,
+      "label": "Thunderbird Park / Victoria, British Columbia; representative carving and ceremonial setting, not a surveyed house or pole footprint",
+      "labelI18n": {
+        "en": "Thunderbird Park / Victoria, British Columbia; representative carving and ceremonial setting, not a surveyed house or pole footprint",
+        "zh": "不列颠哥伦比亚维多利亚雷鸟公园；代表雕刻与仪式背景，并非房屋或图腾柱占地测绘"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Mungo Martin, known as Nakapankam, came from the Kwagu’ł community of Tsaxis/Fort Rupert. His stepfather Charlie James was also a carver. Born in the late nineteenth century, he developed knowledge of carving, painting, songs and ceremony while the Canadian state suppressed potlatching. His culture did not cease during prohibition and await rescue by a museum.\n\nAn early commissioned pole at Alert Bay is conventionally dated around 1900. In 1952, Martin moved with family to Victoria for restoration and replication work at the provincial museum (today’s Royal BC Museum). David Martin, Henry Hunt, Tony Hunt and other relatives participated in the work. Teaching occurred through tools, materials, observation and relationships, rather than only through an individual artist’s finished objects.\n\nIn 1953 he built Wawadiťła and held a potlatch for its opening. The pole created for that occasion was an original design honoring several Kwakwaka’wakw groups, distinct from the program’s replicas of older poles. The museum’s account describes the gathering as witnessing hereditary rights and celebrating cultural continuation. The claim that it was the first public potlatch is not needed to explain its significance, and source accounts do not give one consistent year for that broader claim.\n\nMartin died in 1962. Family and later carvers sustained the work, and a memorial pole was raised at ’Yalis in 1970. Their participation matters as much as institutional recognition. The museum account also states that use of Wawadiťła depends on descendants’ permission: public display does not turn family or ceremonial rights into unrestricted ownership by visitors.",
+      "zh": "芒戈·马丁，又名Nakapankam，来自Tsaxis／鲁珀特堡的Kwagu’ł社群。继父查理·詹姆斯也是雕刻家。他生于十九世纪后期，在加拿大政府压制赠礼宴的时期，发展雕刻、绘画、歌曲及仪式知识。这些文化并未在禁令期间消失、等待博物馆拯救。\n\n他在阿勒特湾的一件早期委托图腾柱，通常约定为1900年前后。1952年，马丁与家人迁往维多利亚，为省立博物馆（今皇家不列颠哥伦比亚博物馆）修复和复制图腾柱。大卫·马丁、亨利·亨特、托尼·亨特及其他亲属参与其中。教学通过工具、材料、观察与关系发生，而不仅通过个人艺术家的成品。\n\n1953年，他建造Wawadiťła，并以赠礼宴庆祝开放。为此创作的图腾柱是尊重多个Kwakwaka’wakw群体的原创设计，与项目复制旧柱的工作不同。博物馆叙述将聚会写为见证世袭权利、庆祝文化延续的活动。理解其意义，无须宣称它是首次公开赠礼宴；来源对这一更广泛说法的年份并不一致。\n\n马丁于1962年去世。家人与后来的雕刻家延续工作，1970年在’Yalis竖立纪念柱。其参与与机构认可同样重要。博物馆还说明，Wawadiťła的使用须经后代许可：公共展示并不把家庭或仪式权利转为游客可以任意支配的财产。"
+    },
+    "dateNote": {
+      "en": "Selected carving/cultural-work focus circa 1900–1962, not lifespan. TCE gives 1879 birth; RBCM’s heading gives 1881 while its death age implies 1879. 1953 dates the house opening; U’mista’s 1952 public-potlatch statement is not silently merged with it.",
+      "zh": "选取约1900—1962年雕刻及文化工作，非生卒。TCE给1879年出生；RBCM标题给1881年，但去世年龄又指向1879年。1953年是房屋开放年，不与U’mista所述1952年公开赠礼宴直接合并。"
+    },
+    "sources": [
+      {
+        "title": "An Artist’s Legacy · Stories Carved in Cedar",
+        "publisher": "Royal BC Museum, with Kwakwaka’wakw community voices",
+        "url": "https://totems.royalbcmuseum.bc.ca/en/story/Legacy",
+        "evidenceNote": "Read narrative and photo captions. Supports 1952 arrival with family, 1953 Wawadiťła opening/pole/potlatch, David Martin, Henry Hunt and Tony Hunt collaboration, 1957 commission and 1958 presentation, 1962 death and 1970 memorial. Birth heading 1881 conflicts with the stated death age83 and TCE 1879. No exact birth year, absolute first-public-potlatch claim or survey of all crests is asserted.",
+        "checkedAt": "2026-10-26",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Mungo Martin · Gerald R. McMaster",
+        "publisher": "The Canadian Encyclopedia / Historica Canada",
+        "url": "https://thecanadianencyclopedia.ca/en/article/mungo-martin",
+        "evidenceNote": "Read article edited 2023. Supports stepfather Charlie James, carving circa 1900, 1952 move, 1953 house celebration, 1962 death and 1970 memorial. Its 1889 potlatch-ban wording, 1961 last-pole claim and other broad superlatives are not adopted; compare the community/museum accounts.",
+        "checkedAt": "2026-10-26",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "The History of the Potlatch Collection",
+        "publisher": "U’mista Cultural Centre",
+        "url": "https://www.umista.ca/pages/collection-history",
+        "evidenceNote": "Read the community history:1884 legislation, continued ceremonies under suppression, 1921 potlatch/1922 confiscations, deletion of the prohibition in 1951 and collective repatriation. It dates a Martin public potlatch to 1952, while RBCM dates the Wawadiťła opening to 1953. Do not merge those events or assert a settled first-public-potlach year. The dated 1953 house opening is retained with its own museum evidence.",
+        "checkedAt": "2026-10-26",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "relatedIds": [
+      "thunderbird-park-cultural-work",
+      "kwakwakawakw-potlatch-repatriation"
+    ],
+    "expansion": {
+      "workstreams": [
+        "NA1",
+        "NA3"
+      ],
+      "release": 7,
+      "edition": "v13",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "Compared museum narrative/captions, community collection history and an edited biography. No exact birth, settled first-public-potlatch year, song total, world-record pole claim or survey of all rights is asserted. Images and recordings were not reproduced or independently analyzed.",
+        "zh": "比较博物馆叙述及图注、社群馆藏史与编辑传记。不确定精确出生年、首次公开赠礼宴年份、歌曲总数、图腾柱世界纪录或全部权利范围；未复制或独立分析图像与录音。"
+      }
+    },
+    "name": {
+      "en": "Mungo Martin",
+      "zh": "芒戈·马丁"
+    },
+    "milestones": [
+      {
+        "year": 1900,
+        "title": {
+          "en": "An early commissioned pole",
+          "zh": "早期委托图腾柱"
+        },
+        "description": {
+          "en": "The edited biography places Raven of the Sea at Alert Bay around 1900.",
+          "zh": "编辑传记把阿勒特湾的《海洋之鸦》约定于1900年前后。"
+        },
+        "location": {
+          "lat": 50.59,
+          "lon": -126.93,
+          "label": "Alert Bay / ’Yalis, British Columbia; representative early carving context, not a verified workshop location",
+          "labelI18n": {
+            "en": "Alert Bay / ’Yalis, British Columbia; representative early carving context, not a verified workshop location",
+            "zh": "不列颠哥伦比亚阿勒特湾／’Yalis；代表早期雕刻背景，并非核实的作坊位置"
+          }
+        },
+        "approximate": true
+      },
+      {
+        "year": 1952,
+        "title": {
+          "en": "Restoration work with family",
+          "zh": "与家人开展修复工作"
+        },
+        "description": {
+          "en": "He moved to Victoria for the museum’s pole program; family participation remained central.",
+          "zh": "迁往维多利亚参加博物馆图腾柱项目；家庭协作是核心。"
+        },
+        "location": {
+          "lat": 48.42,
+          "lon": -123.37,
+          "label": "Thunderbird Park / Victoria, British Columbia; representative carving and ceremonial setting, not a surveyed house or pole footprint",
+          "labelI18n": {
+            "en": "Thunderbird Park / Victoria, British Columbia; representative carving and ceremonial setting, not a surveyed house or pole footprint",
+            "zh": "不列颠哥伦比亚维多利亚雷鸟公园；代表雕刻与仪式背景，并非房屋或图腾柱占地测绘"
+          }
+        },
+        "approximate": false
+      },
+      {
+        "year": 1953,
+        "title": {
+          "en": "Opening Wawadiťła",
+          "zh": "Wawadiťła开放"
+        },
+        "description": {
+          "en": "The house opening and its potlatch are dated 1953 by the museum narrative and captions.",
+          "zh": "博物馆叙述与图注把房屋开放及其赠礼宴定于1953年。"
+        },
+        "location": {
+          "lat": 48.42,
+          "lon": -123.37,
+          "label": "Thunderbird Park / Victoria, British Columbia; representative carving and ceremonial setting, not a surveyed house or pole footprint",
+          "labelI18n": {
+            "en": "Thunderbird Park / Victoria, British Columbia; representative carving and ceremonial setting, not a surveyed house or pole footprint",
+            "zh": "不列颠哥伦比亚维多利亚雷鸟公园；代表雕刻与仪式背景，并非房屋或图腾柱占地测绘"
+          }
+        },
+        "approximate": false
+      },
+      {
+        "year": 1962,
+        "title": {
+          "en": "Death and continuing work",
+          "zh": "去世与工作的延续"
+        },
+        "description": {
+          "en": "He died in Victoria; relatives and succeeding carvers continued their own careers and responsibilities.",
+          "zh": "在维多利亚去世；亲属及后继雕刻家继续各自事业和责任。"
+        },
+        "location": {
+          "lat": 48.42,
+          "lon": -123.37,
+          "label": "Thunderbird Park / Victoria, British Columbia; representative carving and ceremonial setting, not a surveyed house or pole footprint",
+          "labelI18n": {
+            "en": "Thunderbird Park / Victoria, British Columbia; representative carving and ceremonial setting, not a surveyed house or pole footprint",
+            "zh": "不列颠哥伦比亚维多利亚雷鸟公园；代表雕刻与仪式背景，并非房屋或图腾柱占地测绘"
+          }
+        },
+        "approximate": false
+      }
+    ],
+    "aliases": [
+      "Nakapankam",
+      "Datsa"
+    ]
+  },
+  {
+    "id": "thunderbird-park-cultural-work",
+    "title": {
+      "en": "Thunderbird Park · Restoration, creation and the right to continue",
+      "zh": "雷鸟公园 · 修复、创作与延续的权利"
+    },
+    "start": 1951,
+    "end": 1970,
+    "region": "north-america",
+    "kind": "culture",
+    "theme": "culture",
+    "importance": 3,
+    "location": {
+      "lat": 48.42,
+      "lon": -123.37,
+      "label": "Thunderbird Park / Victoria, British Columbia; representative carving and ceremonial setting, not a surveyed house or pole footprint",
+      "labelI18n": {
+        "en": "Thunderbird Park / Victoria, British Columbia; representative carving and ceremonial setting, not a surveyed house or pole footprint",
+        "zh": "不列颠哥伦比亚维多利亚雷鸟公园；代表雕刻与仪式背景，并非房屋或图腾柱占地测绘"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "The removal of the federal potlatch prohibition in 1951 changed the legal setting, not the existence of Kwakwaka’wakw culture. U’mista’s community history emphasizes ceremonies continued under persecution and the long struggle to recover confiscated belongings. Cultural renewal cannot be reduced to permission granted by the state.\n\nAt Thunderbird Park, restoration and replication created paid work and occasions to teach, but the carving program also involved new designs. The 1953 pole outside Wawadiťła honored several groups; it was not simply another copied museum object. David Martin, Henry Hunt, Tony Hunt, Mildred Hunt and others appear in the museum’s narrative and captions as workers, dancers and teachers. Their roles place knowledge in a network of family and community obligations.\n\nA 1970 memorial at ’Yalis linked remembrance with continuing carving. These selected episodes complement the history of potlatch confiscation and repatriation; they do not mark a single moment when a vanished culture returned. The right to view a pole, the right to use a house and the right to perform a hereditary crest or song are different questions.",
+      "zh": "1951年联邦赠礼宴禁令的删除，改变的是法律处境，而不是Kwakwaka’wakw文化是否存在。U’mista社群历史强调，人们在迫害下仍继续仪式，也长期争取取回被没收物件。文化延续不能被简化为国家给予的许可。\n\n在雷鸟公园，修复与复制带来有偿工作和教学机会，雕刻项目也包含新设计。Wawadiťła外的1953年图腾柱尊重多个群体，并非又一件博物馆复制品。大卫·马丁、亨利·亨特、托尼·亨特、米尔德丽德·亨特及他人，在博物馆叙述和图注中作为劳动者、舞者及教师出现。知识由此被置于家庭与社群责任的关系网中。\n\n1970年’Yalis纪念柱将追思与持续雕刻联系起来。这些片段补充赠礼宴物件没收与归还的历史，并不标记一个“消失文化重生”的单一时刻。观看图腾柱、使用房屋，以及表演世袭徽记或歌曲的权利，是不同问题。"
+    },
+    "dateNote": {
+      "en": "Selected 1951–1970 legal and cultural episodes, not the beginning or end of the traditions. The map anchor 1953 identifies the house-opening episode.",
+      "zh": "选取1951—1970年法律及文化片段，非传统的起止。地图锚点1953年对应房屋开放事件。"
+    },
+    "sources": [
+      {
+        "title": "An Artist’s Legacy · Stories Carved in Cedar",
+        "publisher": "Royal BC Museum, with Kwakwaka’wakw community voices",
+        "url": "https://totems.royalbcmuseum.bc.ca/en/story/Legacy",
+        "evidenceNote": "Read narrative and photo captions. Supports 1952 arrival with family, 1953 Wawadiťła opening/pole/potlatch, David Martin, Henry Hunt and Tony Hunt collaboration, 1957 commission and 1958 presentation, 1962 death and 1970 memorial. Birth heading 1881 conflicts with the stated death age83 and TCE 1879. No exact birth year, absolute first-public-potlatch claim or survey of all crests is asserted.",
+        "checkedAt": "2026-10-26",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Mungo Martin · Gerald R. McMaster",
+        "publisher": "The Canadian Encyclopedia / Historica Canada",
+        "url": "https://thecanadianencyclopedia.ca/en/article/mungo-martin",
+        "evidenceNote": "Read article edited 2023. Supports stepfather Charlie James, carving circa 1900, 1952 move, 1953 house celebration, 1962 death and 1970 memorial. Its 1889 potlatch-ban wording, 1961 last-pole claim and other broad superlatives are not adopted; compare the community/museum accounts.",
+        "checkedAt": "2026-10-26",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "The History of the Potlatch Collection",
+        "publisher": "U’mista Cultural Centre",
+        "url": "https://www.umista.ca/pages/collection-history",
+        "evidenceNote": "Read the community history:1884 legislation, continued ceremonies under suppression, 1921 potlatch/1922 confiscations, deletion of the prohibition in 1951 and collective repatriation. It dates a Martin public potlatch to 1952, while RBCM dates the Wawadiťła opening to 1953. Do not merge those events or assert a settled first-public-potlach year. The dated 1953 house opening is retained with its own museum evidence.",
+        "checkedAt": "2026-10-26",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "relatedIds": [
+      "person-mungo-martin",
+      "kwakwakawakw-potlatch-repatriation",
+      "gulf-georgia-cannery-labour"
+    ],
+    "expansion": {
+      "workstreams": [
+        "NA1",
+        "NA3"
+      ],
+      "release": 7,
+      "edition": "v13",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "First-public-potlatch dates and birth chronology differ in the sources. This account distinguishes dated events and institutions rather than resolving those discrepancies or granting rights in cultural knowledge.",
+        "zh": "来源对首次公开赠礼宴及出生年代有异；本篇区分有年代的事件与机构，不裁决分歧，也不授予文化知识使用权。"
+      }
+    }
+  },
+  {
+    "id": "person-susie-king-taylor",
+    "title": {
+      "en": "Susie King Taylor · Literacy, care and the unfinished meaning of freedom",
+      "zh": "苏茜·金·泰勒 · 识字、照护与未竟的自由"
+    },
+    "start": 1862,
+    "end": 1902,
+    "region": "north-america",
+    "kind": "person",
+    "theme": "knowledge",
+    "importance": 3,
+    "location": {
+      "lat": 32.38,
+      "lon": -80.68,
+      "label": "Port Royal / Camp Saxton vicinity, South Carolina; representative camp/community context, not an exact oak tree or military boundary",
+      "labelI18n": {
+        "en": "Port Royal / Camp Saxton vicinity, South Carolina; representative camp/community context, not an exact oak tree or military boundary",
+        "zh": "南卡罗来纳皇家港／萨克斯顿营地一带；代表营地及社群背景，并非确切橡树位置或军事边界"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Susie Baker, later King Taylor, was born enslaved in Georgia in 1848. Her 1902 memoir recalls a grandmother who arranged learning in Savannah, Black women teachers working secretly, and additional lessons from white young people. Literacy depended on that network of care and risk; it was not a gift first acquired from the Union army.\n\nIn 1862 she reached Union protection with relatives and taught children and adults on St. Simons Island. She then lived and worked with the regiment known first as the 1st South Carolina Volunteers and later as the 33rd United States Colored Troops. Cooking, laundry, nursing and instruction were overlapping forms of labour. Her marriage to Edward King tied family life to the same military community. She recalled giving care without wages; this is her testimony, not evidence of an official army nurse’s appointment or pension.\n\nAt Camp Saxton she witnessed the January 1863 emancipation celebration. In her account, reading the proclamation, presenting flags and sharing food made freedom a collective public event. The proclamation did not explain or complete every person’s journey out of slavery.\n\nAfter the regiment’s 1866 muster-out, she returned to Savannah and attempted fee-supported teaching. Widowhood, a child to support and competition from free schooling shaped later decisions. Her memoir describes further teaching and domestic work, a return to Boston in 1874, and organizing a Women’s Relief Corps branch in 1886. The Corps was an auxiliary supporting Union veterans, not a body composed simply of female veterans.\n\nPublishing her memoir in 1902 gave these experiences a durable public voice. She coupled memories of wartime cooperation with a sharp criticism of racial violence and unequal protection after emancipation. Remembering her as a nurse alone obscures the teacher, wage worker, organizer and author who asked what freedom actually meant.",
+      "zh": "苏茜·贝克，后来名为金·泰勒，1848年生于佐治亚，出生时遭受奴役。她的1902年回忆录记述，祖母在萨凡纳安排学习，黑人女教师秘密授课，另有白人年轻人提供补充课程。识字依靠这种承担风险的照护网络，并不是加入联邦军后才得到的礼物。\n\n1862年，她与亲属进入联邦军保护区域，在圣西蒙斯岛教授儿童与成人。随后与起初称南卡罗来纳第一志愿团、后来称美国有色人种部队第三十三团的部队共同生活劳动。烹饪、洗衣、护理与教学彼此交织；与爱德华·金的婚姻也把家庭生活连入军营社群。她回忆照护工作没有工资；这是本人证言，并不证明正式军队护士任命或退休金资格。\n\n在萨克斯顿营地，她见证1863年1月的解放庆典。在其叙述中，宣读公告、授旗与共同进餐，使自由成为集体公共事件。《解放宣言》并不解释或完成每个人摆脱奴役的全部过程。\n\n1866年部队退役后，她返回萨凡纳，尝试收费教学。丧偶、抚养孩子及免费学校的竞争，影响之后的选择。回忆录记述继续教学与家务雇佣劳动、1874年返回波士顿，以及1886年组织妇女救济团分会。该团是支持联邦退伍军人的辅助组织，并非单纯由女性退伍军人组成。\n\n1902年出版回忆录，为这些经历留下持久公共声音。她把战时合作记忆，与解放后种族暴力及法律保护不平等的尖锐批评并置。若只把她记为护士，就会遮蔽那位教师、受雇劳动者、组织者及追问自由实际含义的作者。"
+    },
+    "dateNote": {
+      "en": "Selected 1862–1902 public/work episodes, not lifespan. Exact escape age and birth day are omitted. NPS gives a 1872 Boston move; her memoir details northern work in 1873 and a return to Boston in 1874. The milestone explicitly follows that narrated return, not a settled first-arrival date.",
+      "zh": "选取1862—1902年公共及劳动经历，非生卒。不采用确切逃离年龄及出生日期。NPS写1872年迁波士顿；回忆录详述1873年北方工作及1874年返回波士顿。节点明确依据该次返回，不裁定首次到达年。"
+    },
+    "sources": [
+      {
+        "title": "Susie King Taylor",
+        "publisher": "U. S. National Park Service",
+        "url": "https://www.nps.gov/people/susie-king-taylor.htm",
+        "evidenceNote": "Read biography updated 2024: childhood clandestine schools, 1862 freedom/teaching/regimental work, 1866 return and husband’s death, later Boston/Woman’s Relief Corps and 1902 memoir. Exact age at escape, first-regiment superlative and description of WRC as female veterans are not adopted. NPS Boston 1872 differs from the memoir’s 1874 return; no precise first move is assigned.",
+        "checkedAt": "2026-10-26",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Reminiscences of My Life in Camp · electronic edition of 1902 text",
+        "publisher": "Susie King Taylor; Documenting the American South, University of North Carolina at Chapel Hill",
+        "url": "https://docsouth.unc.edu/neh/taylorsu/taylorsu.html",
+        "evidenceNote": "Inspected title/preface and selected chaptersI–IV, X–XIII, especially pp5–12, 18–21, 53–61. Supports Black women teachers and additional playmate lessons;1862 StSimons teaching;1January 1863 CampSaxton celebration; unpaid care;1866/1867/1868 schools;1874 Boston return;1886 Corps 67 organizing;1902 publication. Retrospective testimony, not contemporaneous proof of every date or anecdote; full memoir/facsimiles not collated.",
+        "checkedAt": "2026-10-26",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Camp Saxton",
+        "publisher": "U. S. National Park Service, Reconstruction Era National Historical Park",
+        "url": "https://www.nps.gov/places/camp-saxton.htm",
+        "evidenceNote": "Read updated 2025 site account: fall 1862 camp, 1January 1863 proclamation reading, 1stSC/33rdUSCT distinction, later refugee community and FortFrederick dock context. No national first-reading claim, complete camp boundary or current public-access promise is inferred.",
+        "checkedAt": "2026-10-26",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "“After the War” · selected 1902 memoir excerpt",
+        "publisher": "National Constitution Center",
+        "url": "https://constitutioncenter.org/the-constitution/historic-document-library/detail/susie-king-taylor-after-the-war-reminiscences-of-my-life-in-camp-with-the-33rd-united-states-colored-troops-late-1st-s.c-volunteers-1902",
+        "evidenceNote": "Read the selected primary excerpt on racial violence, unequal justice and the limits of freedom, plus editorial summary. Summary gives8August 1848, unlike the memoir/NPS6August; exact birth day is omitted. Its compressed post 1866 Boston sequence is not used as a move date; primary chapterXI is preferred for the 1874 return milestone.",
+        "checkedAt": "2026-10-26",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "relatedIds": [
+      "camp-saxton-freedom-community",
+      "penn-school-freedom-education",
+      "us-civil-war"
+    ],
+    "expansion": {
+      "workstreams": [
+        "NA3"
+      ],
+      "release": 7,
+      "edition": "v13",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "Selected memoir chapters and institutional accounts were compared; retrospective detail is attributed and chronology conflicts are exposed. No official nursing appointment, national first or precise travel route is inferred.",
+        "zh": "比较回忆录精选章节与机构叙述，注明回顾性细节并揭示年代分歧。不推断正式护士任命、全国性第一或精确行程。"
+      }
+    },
+    "name": {
+      "en": "Susie King Taylor",
+      "zh": "苏茜·金·泰勒"
+    },
+    "milestones": [
+      {
+        "year": 1862,
+        "title": {
+          "en": "Teaching on St. Simons Island",
+          "zh": "在圣西蒙斯岛教学"
+        },
+        "description": {
+          "en": "She recalled teaching children by day and adults at night after reaching Union protection.",
+          "zh": "回忆进入联邦军保护区域后，白天教儿童、夜间教成人。"
+        },
+        "location": {
+          "lat": 31.22,
+          "lon": -81.39,
+          "label": "St. Simons Island, Georgia; representative 1862 teaching context, not a surveyed school or escape route",
+          "labelI18n": {
+            "en": "St. Simons Island, Georgia; representative 1862 teaching context, not a surveyed school or escape route",
+            "zh": "佐治亚圣西蒙斯岛；代表1862年教学背景，非学校占地测绘或逃离路线"
+          }
+        },
+        "approximate": false
+      },
+      {
+        "year": 1863,
+        "title": {
+          "en": "Witnessing an emancipation celebration",
+          "zh": "见证解放庆典"
+        },
+        "description": {
+          "en": "Her memoir describes the 1 January proclamation reading and collective celebration at Camp Saxton.",
+          "zh": "回忆录记述1月1日萨克斯顿营地宣读公告与集体庆祝。"
+        },
+        "location": {
+          "lat": 32.38,
+          "lon": -80.68,
+          "label": "Port Royal / Camp Saxton vicinity, South Carolina; representative camp/community context, not an exact oak tree or military boundary",
+          "labelI18n": {
+            "en": "Port Royal / Camp Saxton vicinity, South Carolina; representative camp/community context, not an exact oak tree or military boundary",
+            "zh": "南卡罗来纳皇家港／萨克斯顿营地一带；代表营地及社群背景，并非确切橡树位置或军事边界"
+          }
+        },
+        "approximate": false
+      },
+      {
+        "year": 1866,
+        "title": {
+          "en": "Teaching after muster-out",
+          "zh": "退役后的教学"
+        },
+        "description": {
+          "en": "After returning to Savannah, she opened a school and faced household loss and financial pressure.",
+          "zh": "返回萨凡纳后开办学校，并面对家庭丧失与经济压力。"
+        },
+        "location": {
+          "lat": 32.08,
+          "lon": -81.1,
+          "label": "Savannah, Georgia; representative education and household-work setting, not an exact home or classroom",
+          "labelI18n": {
+            "en": "Savannah, Georgia; representative education and household-work setting, not an exact home or classroom",
+            "zh": "佐治亚萨凡纳；代表教育及家庭劳动背景，非确切住所或教室"
+          }
+        },
+        "approximate": false
+      },
+      {
+        "year": 1874,
+        "title": {
+          "en": "A narrated return to Boston",
+          "zh": "回忆录所述返回波士顿"
+        },
+        "description": {
+          "en": "Chapter XI dates this return to 1874; it is not used to settle every earlier northern journey.",
+          "zh": "第十一章将这次返回定为1874年；不据此裁定所有更早的北方行程。"
+        },
+        "location": {
+          "lat": 42.36,
+          "lon": -71.06,
+          "label": "Boston, Massachusetts; representative later work, organizing and publication city, not an exact residence",
+          "labelI18n": {
+            "en": "Boston, Massachusetts; representative later work, organizing and publication city, not an exact residence",
+            "zh": "马萨诸塞波士顿；代表后期劳动、组织及出版城市，非确切住宅"
+          }
+        },
+        "approximate": false
+      },
+      {
+        "year": 1886,
+        "title": {
+          "en": "Organizing Corps 67",
+          "zh": "组织第67分会"
+        },
+        "description": {
+          "en": "She recalled helping organize a Women’s Relief Corps branch supporting Union veterans.",
+          "zh": "回忆协助组织支持联邦退伍军人的妇女救济团分会。"
+        },
+        "location": {
+          "lat": 42.36,
+          "lon": -71.06,
+          "label": "Boston, Massachusetts; representative later work, organizing and publication city, not an exact residence",
+          "labelI18n": {
+            "en": "Boston, Massachusetts; representative later work, organizing and publication city, not an exact residence",
+            "zh": "马萨诸塞波士顿；代表后期劳动、组织及出版城市，非确切住宅"
+          }
+        },
+        "approximate": false
+      },
+      {
+        "year": 1902,
+        "title": {
+          "en": "Publishing and questioning freedom",
+          "zh": "出版并追问自由"
+        },
+        "description": {
+          "en": "Her self-published memoir joined service memories with criticism of racial violence and unequal justice.",
+          "zh": "自费出版回忆录，将服务经历与对种族暴力及司法不平等的批评并置。"
+        },
+        "location": {
+          "lat": 42.36,
+          "lon": -71.06,
+          "label": "Boston, Massachusetts; representative later work, organizing and publication city, not an exact residence",
+          "labelI18n": {
+            "en": "Boston, Massachusetts; representative later work, organizing and publication city, not an exact residence",
+            "zh": "马萨诸塞波士顿；代表后期劳动、组织及出版城市，非确切住宅"
+          }
+        },
+        "approximate": false
+      }
+    ],
+    "aliases": [
+      "Susie Baker",
+      "Susie King"
+    ]
+  },
+  {
+    "id": "camp-saxton-freedom-community",
+    "title": {
+      "en": "Camp Saxton · Soldiers, households and a public claim to freedom",
+      "zh": "萨克斯顿营地 · 军人、家庭与自由的公共表达"
+    },
+    "start": 1862,
+    "end": 1866,
+    "region": "north-america",
+    "kind": "place",
+    "theme": "knowledge",
+    "importance": 3,
+    "location": {
+      "lat": 32.38,
+      "lon": -80.68,
+      "label": "Port Royal / Camp Saxton vicinity, South Carolina; representative camp/community context, not an exact oak tree or military boundary",
+      "labelI18n": {
+        "en": "Port Royal / Camp Saxton vicinity, South Carolina; representative camp/community context, not an exact oak tree or military boundary",
+        "zh": "南卡罗来纳皇家港／萨克斯顿营地一带；代表营地及社群背景，并非确切橡树位置或军事边界"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Camp Saxton was established in the autumn of 1862 on a former plantation at Port Royal Island. Its soldiers came largely from formerly enslaved coastal communities in South Carolina, Georgia and Florida. Their regiment’s later 33rd United States Colored Troops designation should not be projected backward as its original 1862 name. A military camp also depended on food, washing, care, transport and relationships with nearby households.\n\nOn 1 January 1863, soldiers and other formerly enslaved people gathered to hear the Emancipation Proclamation. Susie King Taylor’s later account recalls flags, speeches, food and celebration. Her descriptions of teaching men when off duty and caring for the sick reveal kinds of work that a list of battles misses. Those memories represent one participant’s retrospect, not every attendee’s voice.\n\nFreedom was pursued before that reading and remained contested afterward. The site later became a refugee community; the narrative does not end that community in 1866. That year instead connects this selected wartime window to soldiers’ muster-out and Taylor’s efforts to earn a living through postwar teaching. Read beside Penn School, the camp helps distinguish a declaration of freedom from the institutions, household resources and protection needed to sustain it.",
+      "zh": "萨克斯顿营地于1862年秋在皇家港岛一处原种植园设立。军人大多来自南卡罗来纳、佐治亚与佛罗里达沿海、曾受奴役的社群。后来“美国有色人种部队第三十三团”的名称，不应被倒写为1862年最初名称。军营也依赖食物、洗衣、照护、运输及周边家庭关系。\n\n1863年1月1日，士兵与其他曾受奴役的人聚集，聆听《解放宣言》。苏茜·金·泰勒后来的回忆描写旗帜、讲话、食物和庆祝。她关于在非值勤时间教士兵识字、照护病者的描述，揭示战役清单容易遗漏的劳动。这是一位参与者的回顾，不代表所有在场者的声音。\n\n人们在宣读前就已争取自由，之后仍须继续。该地点后来成为难民社群；本篇不把1866年写成社群终结。这个年份只是把精选战时窗口，连到士兵退役及泰勒通过战后教学谋生的努力。与佩恩学校并读，军营史有助于区分宣布自由，与维持自由所需的机构、家庭资源和实际保护。"
+    },
+    "dateNote": {
+      "en": "Selected 1862–1866 camp/service context; not the full refugee settlement’s lifespan or a national first-reading claim. Map anchor 1863 selects the emancipation celebration.",
+      "zh": "选取1862—1866年军营及服务背景，非难民聚居完整寿命，也不宣称全国首次宣读。地图锚点1863年选取解放庆典。"
+    },
+    "sources": [
+      {
+        "title": "Camp Saxton",
+        "publisher": "U. S. National Park Service, Reconstruction Era National Historical Park",
+        "url": "https://www.nps.gov/places/camp-saxton.htm",
+        "evidenceNote": "Read updated 2025 site account: fall 1862 camp, 1January 1863 proclamation reading, 1stSC/33rdUSCT distinction, later refugee community and FortFrederick dock context. No national first-reading claim, complete camp boundary or current public-access promise is inferred.",
+        "checkedAt": "2026-10-26",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Reminiscences of My Life in Camp · electronic edition of 1902 text",
+        "publisher": "Susie King Taylor; Documenting the American South, University of North Carolina at Chapel Hill",
+        "url": "https://docsouth.unc.edu/neh/taylorsu/taylorsu.html",
+        "evidenceNote": "Inspected title/preface and selected chaptersI–IV, X–XIII, especially pp5–12, 18–21, 53–61. Supports Black women teachers and additional playmate lessons;1862 StSimons teaching;1January 1863 CampSaxton celebration; unpaid care;1866/1867/1868 schools;1874 Boston return;1886 Corps 67 organizing;1902 publication. Retrospective testimony, not contemporaneous proof of every date or anecdote; full memoir/facsimiles not collated.",
+        "checkedAt": "2026-10-26",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Susie King Taylor",
+        "publisher": "U. S. National Park Service",
+        "url": "https://www.nps.gov/people/susie-king-taylor.htm",
+        "evidenceNote": "Read biography updated 2024: childhood clandestine schools, 1862 freedom/teaching/regimental work, 1866 return and husband’s death, later Boston/Woman’s Relief Corps and 1902 memoir. Exact age at escape, first-regiment superlative and description of WRC as female veterans are not adopted. NPS Boston 1872 differs from the memoir’s 1874 return; no precise first move is assigned.",
+        "checkedAt": "2026-10-26",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "relatedIds": [
+      "person-susie-king-taylor",
+      "penn-school-freedom-education",
+      "us-civil-war"
+    ],
+    "expansion": {
+      "workstreams": [
+        "NA3"
+      ],
+      "release": 7,
+      "edition": "v13",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "Site history and selected participant memoir chapters support these episodes. No complete attendee list, camp boundary, military-control map or universal outcome of emancipation is supplied.",
+        "zh": "地点历史与参与者回忆录精选章节支持这些片段；不提供完整出席者名单、军营边界、军事控制图或解放的普遍结果。"
+      }
+    }
+  }
+]

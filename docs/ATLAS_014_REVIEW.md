@@ -1,0 +1,36 @@
+# Atlas 0.14.0 — connected regional histories and chronology
+
+Prepared 26 October 2026. Based on canonical `f91e 3228d 6833a52a3aedb 59622d2f 3800cf3dd4`. This is a bounded editorial and software review, not certification of the whole corpus or specialist/community acceptance.
+
+The collection gains eight bilingual entries: four biographies, four connected regional contexts, 17 life milestones and four short studies. Total: 1,871 entries, 174 authored narrative biographies, 552 milestones and 59 readings. People discovery also includes inherited identities; its count is not the biography count. V12 inputs, earlier manifest checkpoints, imported China records and worldwide modern geometry remain frozen.
+
+## Source comparison and selected lives
+
+The original summaries follow work, family/community relationships, institutions and later memory rather than complete reconstructed itineraries. Each record links its inspected sources and explains the selected focus interval. Date precision and representative-place precision remain separate; a known event year does not establish an exact site. No biography acquires inferred route lines.
+
+| Pair | Inspected evidence | Editorial limits |
+| --- | --- | --- |
+| Rose Fortune / Annapolis waterfront | [Parks Canada](https://parks.canada.ca/culture/designation/personnage-person/rose-fortune), [DCB biography](https://www.biographi.ca/en/bio/fortune_rose_9E.html), [Nova Scotia Archives portrait](https://archives.novascotia.ca/africanns/archives/?ID=30) | Parks' 2022 review makes her own birth into slavery uncertain. The portrait caption's 1867 burial conflicts with DCB/Parks 1864; underlying register not inspected. Working-life milestones 1828,1836,1852 avoid invented business founding, police appointment and exact death. |
+| Shingwaukonse / educational vision and institutions | [SKG's own account](https://shingwauku.org/about), [Algoma timeline](https://algomau.ca/special-mission/), [SRSC family-history chapter](https://ecampusontario.pressbooks.pub/srsc/chapter/the-shingwauk-family/) | Vision is not consent to the later assimilative residential system. Algoma's 1838 relocation conflicts with SRSC's 1832 departure from Garden River. Travel modes and 1854/1855 death wording also diverge. No exact travel leg or first-settlement date asserted. The Sault marker represents the Canadian town, not a surveyed treaty-signing site. |
+| Mungo Martin / Thunderbird Park cultural work | [RBCM community-voiced legacy](https://totems.royalbcmuseum.bc.ca/en/story/Legacy), [Gerald McMaster's TCE article](https://thecanadianencyclopedia.ca/en/article/mungo-martin), [U’mista collection history](https://www.umista.ca/pages/collection-history) | Birth 1879/1881 unresolved;1953 house opening kept distinct from U’mista's 1952 public-potlatch statement. No absolute first or single-person rescue of culture. Family collaborators and descendants' ceremonial authority remain visible. Period institution described as provincial museum, with present name qualified. |
+| Susie King Taylor / Camp Saxton freedom community | [NPS biography](https://www.nps.gov/people/susie-king-taylor.htm), [NPS camp](https://www.nps.gov/places/camp-saxton.htm), [UNC electronic memoir](https://docsouth.unc.edu/neh/taylorsu/taylorsu.html), [NCC primary excerpt](https://constitutioncenter.org/the-constitution/historic-document-library/detail/susie-king-taylor-after-the-war-reminiscences-of-my-life-in-camp-with-the-33rd-united-states-colored-troops-late-1st-s.c-volunteers-1902) | Memoir inspected in selected sections I–IV,X–XIII, not fully collated with facsimiles.1863 celebration, teaching/care,1866 school,1874 Boston return,1886 auxiliary and 1902 memoir anchor the life. NPS 1872 Boston move is not silently equated with memoir 1874 return. Exact birth day/escape age omitted; WRC described as an auxiliary, not a corps of female veterans. |
+
+The new short studies connect earlier Grand-Pré/Black Nova Scotian archives, manoomin/residential-school histories, potlatch/cannery work, and Penn School/Civil War entries. Questions ask readers to inspect a passage and identify uncertainty. They do not grade an interpretation as historical fact.
+
+## Demonstrated chronology repairs
+
+1. **Florida:** Newberry source row40 (`americas-usa-division-40`, Florida Unorg. FT) begins at treaty signature 1819-02-22. It previously entered annual US administrative fill in 1819–1820. The [Adams–Onís treaty, Article VII and footnote1](https://avalon.law.yale.edu/19th_century/sp 1819.asp) distinguishes ratification exchange 1821-02-22; possession followed separately. Preserve raw source start 18190222, use effective 18210222 and regenerate annual membership. The row is absent 1819/1820, present year-end 1821. Geometry vertices and earlier West Florida source units remain unchanged.
+2. **Direct chapters:** chapter buttons previously cleared course context and used article midpoint, so the Indian Act chapter advertised 1876 but opened 1931. Direct clicks now enter the selected course step through the same anchor function as Begin/Next. Shared reading links use that rule too. Ordinary article browsing retains its independent selection policy.
+
+The Pro audit also inspected declaration/recognition 1776/1783, Louisiana 1803/1804, Oregon 1818/1846/1872, Texas 1836/1845/1846, Mexican cession 1848, Gadsden 1853/1854, Alaska 1867, Confederation 1867, Manitoba 1870, BC 1871, PEI 1873, Arctic 1880, Newfoundland 1948/1949 and Nunavut 1999. No additional current annual contradiction was demonstrated in that bounded sample. These are not all annual surveys: Newberry begins 1783, NRCan carries forward supplied stages, Oregon 1872 island resolution has no separate source stage, and Indigenous sovereignty/military fronts are not inferred from administrative fill. Oregon Country remains a hatched claim; its generic claim classification is retained for later source-specific refinement.
+
+## Geography and reader behavior
+
+`regional-history-v13.json` adds links to the existing worldwide reference. Geometry is not rewritten. Two explicitly sourced named-place associations connect Thunderbird Park narratives to modern BC because the generalized coast omits the representative point; no pin was moved to pass containment. The earlier64-area index is regenerated separately for compatibility. Ontario Sault coordinates were corrected to the represented Canadian town rather than the international river/US shore; no exact ceremony location is implied.
+
+Location caveats now use the new optional bilingual label with the existing string as fallback. Long summaries retain paragraph breaks. Palette, four primary map toggles and History/Modern 2022 separation are retained.
+
+## Model contribution and source boundaries
+
+[China dispositions](JIANGSHAN_REVIEW_014.json) record supported wording for pending Di Renjie and Zhang Liang candidates. Root inspected *Old Book of Tang*89 and *Shiji*55 digital transcriptions. Di's number refers to people, not cases; Zhang's shoe story needs textual attribution, and three later appointments are not three shoe episodes. Exact donor dates/coordinates remain provisional. Xuanzang's existing caveats remain; the full scholarly paper was not read this release. No pending candidate is silently promoted to a dated map event.
+

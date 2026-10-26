@@ -77,8 +77,8 @@ def build(input_dir):
   if name.startswith('District of '):return names.get(name[12:],name[12:])+'区'
   return name # Truthful source-name fallback, never an invented translation.
  index={'schemaVersion':1,'role':'dated-administrative-reference','annualConvention':'December31',
-  'checkedAt':'2026-10-25','scope':NOTE,'sources':SOURCES,'countries':{},'method':{
-   'USA':'Source START_N/END_N, sampled at December31. Gadsden signing-date start deferred to1854 for transfer interpretation. Other-type and Oregon joint-occupation units do not become US federal extent.',
+  'checkedAt':'2026-10-26','scope':NOTE,'sources':SOURCES,'countries':{},'chronologyReviews':[{'sourceRow':40,'sourceName':'Florida Unorg. FT','sourceStartKey':18190222,'effectiveStartKey':18210222,'checkedAt':'2026-10-26','evidence':'https://avalon.law.yale.edu/19th_century/sp1819.asp','note':'Article VII and editorial footnote1 distinguish1819 signature from1821 ratification exchange; possession followed separately. Earlier West Florida source units are unchanged.'}],'method':{
+   'USA':'Source START_N/END_N, sampled at December31. Gadsden signing-date start deferred to1854; Florida Unorg. FT signing-date start deferred to1821 ratification exchange for transfer interpretation. Other-type and Oregon joint-occupation units do not become US federal extent.',
    'CAN':'Use explicit HISTO snapshot year, not broad START_TIME/END_TIME values. Select latest snapshot within1867–2003; each is a dated contextual reference until the next source stage, not an annual survey.',
    'geometry':'Reproject NRCan EPSG3978 to EPSG4326; topology-preserving simplification .04 degrees (Canada)/.02 degrees (US); round .0001 degrees; normalize D3 ring winding; retain individual source units; share display colors by parent without merging identities.',
    'limits':'Canada stages omit some intermediate administrative changes; US source administrative frames do not reproduce Civil War fronts or establish Indigenous title.'}}
@@ -98,6 +98,7 @@ def build(input_dir):
     if code=='USA':
      r['effectiveStart']=int(r['START_N']);r['effectiveEnd']=int(r['END_N'])
      if r['NAME']=='Gadsden Purchase':r['effectiveStart']=18540630
+     if r['NAME']=='Florida Unorg. FT' and int(r['START_N'])==18190222:r['effectiveStart']=18210222
      r['parent']='USA'
      if r['NAME']=='Oregon Country':r['parent']='oregon-joint'
      if r['TERR_TYPE']=='Other':r['parent']='usa-claim'

@@ -1,4 +1,4 @@
-import {REGIONAL_ZOOM,referenceAreaName,searchRegionalUnits,referenceHistory,visibleReferenceCountries,projectedReferenceBounds,regionalCountryFromHash,regionalLabelCandidates,layoutRegionalLabels} from './regional-reference.mjs?v=14';
+import {REGIONAL_ZOOM,referenceAreaName,searchRegionalUnits,referenceHistory,visibleReferenceCountries,projectedReferenceBounds,regionalCountryFromHash,regionalLabelCandidates,layoutRegionalLabels,appendRegionalHistory} from './regional-reference.mjs?v=20';
 
 export function createRegionalExplorer({records,getState,getRoot,getProjection,getTransform,getViewport,getLabelObstacles=()=>[],getHistoricalDivisions=()=>[],labelsEnabled=()=>true,excludeModernCountries=()=>new Set(),isChallenge,enabled,setEnabled,loadJSON,openDialog,closeDialog,focusLocation,prepareMap,onNavigate,cachedPath,esc,sourceLink,formatPeriod,showTooltip,hideTooltip}){
  let metadata,metadataPending,metadataError,paths,labels,currentArea='',yearOnly=false,paintFrame=0,activeRequests=0;
@@ -8,10 +8,10 @@ export function createRegionalExplorer({records,getState,getRoot,getProjection,g
  const schedule=()=>{if(!paintFrame)paintFrame=requestAnimationFrame(()=>{paintFrame=0;renderMap();});};
  async function loadMetadata(){
   if(metadata)return metadata;
-  if(!metadataPending){metadataError=null;metadataPending=loadJSON('data/regional-reference.json').then(data=>{if(data.role!=='modern-reference'||data.sourceRelease!=='5.1.1')throw Error('Unsupported regional reference');metadata=data;return data;}).catch(error=>{metadataPending=null;metadataError=error;throw error;});}
+  if(!metadataPending){metadataError=null;metadataPending=loadJSON('data/regional-reference.json').then(async data=>{if(data.role!=='modern-reference'||data.sourceRelease!=='5.1.1')throw Error('Unsupported regional reference');const addition=await loadJSON('data/regional-history-v13.json');if(addition.sourceRelease!==data.sourceRelease)throw Error('Mismatched regional history index');metadata={...data,historyAddition:addition};return metadata;}).catch(error=>{metadataPending=null;metadataError=error;throw error;});}
   return metadataPending;
  }
- function drain(){while(activeRequests<4&&jobs.length){const job=jobs.shift();activeRequests++;Promise.all(job.country.layers.map(l=>loadJSON('data/'+l.file))).then(collections=>{const features=collections.flatMap(c=>c.features);loaded.set(job.country.code,features);failures.delete(job.country.code);job.resolve(features);}).catch(error=>{pending.delete(job.country.code);failures.set(job.country.code,error);job.reject(error);}).finally(()=>{activeRequests--;drain();schedule();});}}
+ function drain(){while(activeRequests<4&&jobs.length){const job=jobs.shift();activeRequests++;Promise.all(job.country.layers.map(l=>loadJSON('data/'+l.file))).then(collections=>{const features=appendRegionalHistory(collections.flatMap(c=>c.features),metadata.historyAddition);loaded.set(job.country.code,features);failures.delete(job.country.code);job.resolve(features);}).catch(error=>{pending.delete(job.country.code);failures.set(job.country.code,error);job.reject(error);}).finally(()=>{activeRequests--;drain();schedule();});}}
  async function loadCountry(code,{retry=false}={}){
   await loadMetadata();if(loaded.has(code))return loaded.get(code);if(pending.has(code))return pending.get(code);
   if(failures.has(code)&&!retry)throw failures.get(code);

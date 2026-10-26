@@ -39,3 +39,11 @@ export function layoutRegionalLabels(features,{projection,transform,viewport,lan
  }
  return accepted;
 }
+
+// Content editions can extend navigation without rewriting source geometry.
+export function appendRegionalHistory(features,index){
+ return features.map(feature=>{const extra=index.areas[feature.properties.id]||[],prior=feature.properties.historyLinks||[];
+  if(extra.some(link=>prior.some(old=>old.recordId===link.recordId)))throw Error('Duplicate regional history addition');
+  return extra.length?{...feature,properties:{...feature.properties,historyLinks:[...prior,...extra]}}:feature;
+ });
+}

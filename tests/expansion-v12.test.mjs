@@ -14,7 +14,7 @@ const dataRoot=new URL('../dist/data/',import.meta.url);
 const bytes=file=>fs.readFileSync(new URL(file,dataRoot));
 const read=file=>JSON.parse(bytes(file));
 const sha256=value=>createHash('sha256').update(value).digest('hex');
-const prior=read('content-expansion-v11.json'),manifest=read(CONTENT_MANIFEST);
+const prior=read('content-expansion-v11.json'),manifest=read('content-expansion-v12.json');
 const expansion=manifest.files.flatMap(file=>read(file.file));
 const fresh=expansion.filter(record=>record.expansion?.edition==='v12');
 const biographies=partitionExpansion(fresh).people;
@@ -32,7 +32,6 @@ const frozen={
 };
 
 test('V12 selects the current manifest and preserves frozen V11 files and descriptors',()=>{
- assert.equal(CONTENT_MANIFEST,'content-expansion-v12.json');
  assert.equal(manifest.version,'0.11.0');
  assert.deepEqual(manifest.baseline,{manifest:'content-expansion-v11.json',localCommit:'b762e906cfaf7450c95e90e9eb2275485d69f3f6',records:1837});
  for(const [file,hash]of Object.entries(frozen))assert.equal(sha256(bytes(file)),hash,file+' frozen V11 bytes');

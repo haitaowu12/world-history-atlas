@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "checkedAt": "2026-10-26",
+  "baselineCommit": "f91e3228d6833a52a3aedb59622d2f3800cf3dd4",
+  "scope": "Review-only dispositions for three pending donor candidates. No frozen import, event date or geometry changed.",
+  "reviews": [
+    {
+      "candidatePointer": "/newLandmarkCandidates/22",
+      "subject": "Di Renjie",
+      "disposition": "wording-supported-date-still-provisional",
+      "recommendedTitle": {
+        "en": "The Old Book of Tang credits Di Renjie with deciding delayed proceedings involving 17,000 people within a year, without complaints of injustice",
+        "zh": "《旧唐书》称狄仁杰一年内审决积压诉讼，涉及一万七千人，无冤诉者"
+      },
+      "limit": "People, not cases; an attributed biographical account, not an independently verified workload. Yifeng era does not establish completion in 676.",
+      "source": {
+        "url": "https://zh.wikisource.org/wiki/舊唐書/卷89",
+        "section": "Di Renjie biography, paragraph beginning 仁傑，儀鳳中爲大理丞",
+        "access": "Root inspected digital primary-text transcription, not a critical printed edition"
+      }
+    },
+    {
+      "candidatePointer": "/newLandmarkCandidates/9",
+      "subject": "Zhang Liang",
+      "disposition": "textual-attribution-supported-exact-date-and-point-unestablished",
+      "recommendedTitle": {
+        "en": "The Shiji tells of Zhang Liang retrieving an old man’s shoe at Xiapi and later receiving a military text",
+        "zh": "《史记》记述张良在下邳为老人取履，后来获授兵书的故事"
+      },
+      "limit": "One shoe episode followed by three appointments; do not repeat 三度纳履. Passage does not establish donor year -218, month 10 or modern bridge coordinate. Separate plank-road advice remains attributed to Zhang Liang in Shiji55.",
+      "source": {
+        "url": "https://zh.wikisource.org/wiki/史記/卷055",
+        "section": "Paragraphs beginning 良嘗間從容步游下邳圯上 and 漢王之國",
+        "access": "Root inspected digital primary-text transcription, not independent proof of the anecdote"
+      }
+    },
+    {
+      "subject": "Xuanzang",
+      "disposition": "retain-existing-caveats",
+      "limit": "Existing authored departure629 and inherited-date annotations remain. No mechanically shifted itinerary, donor631 Nalanda or642 Kannauj adopted. Pro inspected a scholarly abstract and BnF essay; root did not inspect the full paper this release.",
+      "leadSources": [
+        "https://poj.peeters-leuven.be/content.php?url=article&id=2055070&journal_code=JA",
+        "https://heritage.bnf.fr/france-chine/xuanzang-602-664"
+      ]
+    }
+  ]
+}

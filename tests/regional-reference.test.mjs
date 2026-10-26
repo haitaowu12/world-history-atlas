@@ -37,7 +37,7 @@ test('worldwide regional reference retains pinned modern-source scope and stays 
  assert.equal(metadata.schemaVersion,1);assert.equal(metadata.role,'modern-reference');
  assert.equal(metadata.sourceCommit,source.commit);assert.equal(metadata.sourceFile,source.file);assert.equal(metadata.sourceSHA256,source.sha256);
  assert.equal(metadata.sourceRelease,'5.1.1');assert.equal(metadata.sourceReleaseYear,2022);
- assert.equal(metadata.contentVersion,content.version);assert.equal(metadata.license,'public-domain');
+ assert.equal(metadata.contentVersion,'0.11.0','frozen geometry link checkpoint');assert.equal(read('regional-history-v13.json').contentVersion,content.version);assert.equal(metadata.license,'public-domain');
  assert.ok(bytes(metadata.licenseFile).length>0);
  assert.match(metadata.scope.en,/not historical boundaries/);assert.match(metadata.scope.en,/not.*authoritative current administrative register/);
  assert.match(metadata.scope.en,/do not adjudicate sovereignty/);assert.match(metadata.scope.zh,/不裁定主权/);
@@ -163,7 +163,7 @@ test('regional discovery supports bilingual names, normalized text, IDs and trut
 });
 
 test('regional history links resolve to the reviewed corpus with explicit geometry or named-place evidence',()=>{
- assert.equal(records.length,1863);assert.equal(recordsById.size,1863);
+ assert.equal(records.length,1871);assert.equal(recordsById.size,1871);
  for(const feature of features){
   const p=feature.properties;assert.equal(new Set(p.historyLinks.map(link=>link.recordId)).size,p.historyLinks.length,p.id+' unique linked histories');
   for(const link of p.historyLinks){

@@ -166,7 +166,7 @@ export function createDiscovery({records=[],people=[],library={},manifest={},set
   }
   function eventCards(ids) {
     return unique(ids).map(getRecord).filter(Boolean).sort((a,b)=>a.start-b.start||a.id.localeCompare(b.id)).map(record=>
-      `<button class="library-event" data-action="open-dialog-story" data-id="${esc(record.id)}"><time>${formatPeriod(record,lang())}</time><span><strong>${esc(loc(record.title))}</strong><small>${esc(regionName(record.region))} · ${esc(record.location.label)}</small></span><b>↗</b></button>`).join('');
+      `<button class="library-event" data-action="open-dialog-story" data-id="${esc(record.id)}"><time>${formatPeriod(record,lang())}</time><span><strong>${esc(loc(record.title))}</strong><small>${esc(regionName(record.region))} · ${esc(loc(record.location.labelI18n)||record.location.label)}</small></span><b>↗</b></button>`).join('');
   }
   function card(row) {
     const primary=row.recordId?getRecord(row.recordId):null,biography=primary?.kind==='person'?primary:null;

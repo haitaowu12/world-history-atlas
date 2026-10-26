@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "role": "dated-administrative-reference",
   "annualConvention": "December31",
-  "checkedAt": "2026-10-25",
+  "checkedAt": "2026-10-26",
   "scope": {
     "en": "A dated administrative reference, including recorded claims. It does not map military fronts, uniform occupation, Indigenous sovereignty or all competing jurisdictions. Source dates and representative names remain inspectable.",
     "zh": "有年代依据的行政参照，包含来源记录的主张；不表示战线、均匀占领、原住民族主权或全部竞争管辖。保留来源年代与代表名称供查阅。"
@@ -47,7 +47,7 @@
         {
           "file": "americas-units-usa-03.geojson",
           "bytes": 335367,
-          "sha256": "a4cd07bf27da18f5ca4727415b0b8be3aef6ad4183914378de3d91e6e777b02b",
+          "sha256": "64321b925dab59b144e19eeb28ab0c838a8411b92865769362db430a88e56a27",
           "count": 35
         },
         {
@@ -729,14 +729,13 @@
           "end": 1819,
           "sourceYear": 1819,
           "files": [],
-          "divisions": 28,
+          "divisions": 27,
           "sourceRows": [
             4,
             11,
             24,
             25,
             27,
-            40,
             43,
             54,
             57,
@@ -768,14 +767,13 @@
           "end": 1820,
           "sourceYear": 1820,
           "files": [],
-          "divisions": 29,
+          "divisions": 28,
           "sourceRows": [
             6,
             11,
             24,
             25,
             27,
-            40,
             43,
             54,
             57,
@@ -4113,8 +4111,19 @@
       ]
     }
   },
+  "chronologyReviews": [
+    {
+      "sourceRow": 40,
+      "sourceName": "Florida Unorg. FT",
+      "sourceStartKey": 18190222,
+      "effectiveStartKey": 18210222,
+      "checkedAt": "2026-10-26",
+      "evidence": "https://avalon.law.yale.edu/19th_century/sp1819.asp",
+      "note": "Article VII and editorial footnote1 distinguish1819 signature from1821 ratification exchange; possession followed separately. Earlier West Florida source units are unchanged."
+    }
+  ],
   "method": {
-    "USA": "Source START_N/END_N, sampled at December31. Gadsden signing-date start deferred to1854 for transfer interpretation. Other-type and Oregon joint-occupation units do not become US federal extent.",
+    "USA": "Source START_N/END_N, sampled at December31. Gadsden signing-date start deferred to1854; Florida Unorg. FT signing-date start deferred to1821 ratification exchange for transfer interpretation. Other-type and Oregon joint-occupation units do not become US federal extent.",
     "CAN": "Use explicit HISTO snapshot year, not broad START_TIME/END_TIME values. Select latest snapshot within1867–2003; each is a dated contextual reference until the next source stage, not an annual survey.",
     "geometry": "Reproject NRCan EPSG3978 to EPSG4326; topology-preserving simplification .04 degrees (Canada)/.02 degrees (US); round .0001 degrees; normalize D3 ring winding; retain individual source units; share display colors by parent without merging identities.",
     "limits": "Canada stages omit some intermediate administrative changes; US source administrative frames do not reproduce Civil War fronts or establish Indigenous title."
