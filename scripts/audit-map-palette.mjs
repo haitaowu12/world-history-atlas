@@ -18,7 +18,9 @@ const annual=norm(read('cshapes-periods-v7.geojson')),modernMeta=read('contempor
 // Preserve the current renderer’s modern preferred-colour preparation.
 const colors=['#b6c5a6','#b6c8bd','#c5ba96','#a7bdbe','#d0b6a3','#b9b4c2','#bac09e','#a6beb1','#c5b99f'];
 for(const f of modern)f.properties={...f.properties,color:f.properties.category==='disputed'?'#b6ada1':colors[Array.from(f.properties.code).reduce((n,c)=>n+c.charCodeAt(0),0)%colors.length]};
-const years=[-2600,-2500,-2000,-1600,-1500,-1200,-1046,-1000,-800,-771,-770,-700,-600,-500,-476,-475,-404,-403,-400,-399,-350,-323,-300,-221,-200,-100,-1,1,100,200,300,400,500,600,700,800,900,1000,1100,1200,1300,1400,1500,1600,1700,1750,1800,1815,1850,1867,1878,1885,1886,1900,1914,1939,1945,1960,1990,2000,2010,2019,2020,2026];
+const standardYears=[-2600,-2500,-2000,-1600,-1500,-1200,-1046,-1000,-800,-771,-770,-700,-600,-500,-476,-475,-404,-403,-400,-399,-350,-323,-300,-221,-200,-100,-1,1,100,200,300,400,500,600,700,800,900,1000,1100,1200,1300,1400,1500,1600,1700,1750,1800,1815,1850,1867,1878,1885,1886,1900,1914,1939,1945,1960,1990,2000,2010,2019,2020,2026];
+const laterMapGaps=process.argv.includes('--later-map-gaps');
+const years=laterMapGaps?[320,349,350,374,375,449,450,479,480,500,501,1568,1569,1580,1581,1583,1584,1598,1599,1885,1886,1890,1892,1893,1894,1895,1898,1899,1900,1901,1902]:standardYears;
 const rows=[];
 for(const year of years){
  let selected;
@@ -32,7 +34,8 @@ for(const year of years){
  const warmStart=performance.now();mapDisplayPalette([...selected],{scheme:'mineral'});const warmMs=performance.now()-warmStart;
  rows.push({year,features:selected.length,nearbyPairs:edges.length,priorConflicts,conflicts:conflicts.length,coldMs,warmMs});
 }
-const output={schemaVersion:1,checkedAt:'2026-10-26',method:'64 selected-year compositions; 250 km sampled boundary proximity and reviewed explicit separation pairs for display grouping, not border validation. Explicit shared identities are grouped before testing. Modern gray administrative reference outlines are excluded.',rows};
-if(process.argv[2])fs.writeFileSync(process.argv[2],JSON.stringify(output,null,2)+'\n');
+const output={schemaVersion:1,checkedAt:'2026-10-26',method:`${years.length} selected-year compositions${laterMapGaps?' around the later map-gap transitions':''}; 250 km sampled boundary proximity and reviewed explicit separation pairs for display grouping, not border validation. Explicit shared identities are grouped before testing. Modern gray administrative reference outlines are excluded.`,rows};
+const outputFile=process.argv.slice(2).find(arg=>!arg.startsWith('--'));
+if(outputFile)fs.writeFileSync(outputFile,JSON.stringify(output,null,2)+'\n');
 console.log(JSON.stringify({views:rows.length,nearbyPairs:rows.reduce((n,r)=>n+r.nearbyPairs,0),priorConflicts:rows.reduce((n,r)=>n+r.priorConflicts,0),conflicts:rows.reduce((n,r)=>n+r.conflicts,0),maxColdMs:Math.max(...rows.map(r=>r.coldMs)),maxWarmMs:Math.max(...rows.map(r=>r.warmMs))},null,2));
 if(rows.some(r=>r.conflicts))process.exitCode=1;

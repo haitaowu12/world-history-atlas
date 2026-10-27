@@ -1,3 +1,7 @@
+# Later-map gap continuation, 26 October 2026
+
+[Gupta, Borno and Ayutthaya follow-up](LATER_MAP_GAPS_REVIEW.md) adds seven bounded source instances to the prior 643. The Gupta and Pegu shapes are older or later references, not the borders of their display windows. Borno's traced, approximate historical illustrations represent reconstructed European geographical views and can overlap the annual colonial layer; the visible overlap does not resolve competing claims or actual control.
+
 # Three-region continuation, 26 October 2026
 
 [Gupta, Borno and Ayutthaya](THREE_REGIONS_REVIEW.md) adds16 source instances, including diffuse, approximately georegistered CC BY-SA Gupta/Vakataka core illustrations. Their deliberately soft edges are not political frontiers. Separately, selected historical-basemaps components support later Borno and Ayutthaya status phases with explicit source years and transition uncertainty. All627 previously distributed instances remain frozen.

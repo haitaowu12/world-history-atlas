@@ -2,7 +2,7 @@ import test from 'node:test';import assert from 'node:assert/strict';import fs f
 import {historicalContextFeatures} from '../dist/atlas-model.mjs';import {reviewedRegionalFeature,amendRegionalChronology} from '../dist/regional-chronology.mjs';
 import {historicalCollection,historicalMetadata} from './map-fixtures.mjs';
 // Preserve the 627-instance checkpoint when later additive datasets are loaded.
-const all=historicalCollection.features.filter(f=>!['historical-basemaps-three-region-transitions','woudloper-gupta-schematic'].includes(f.properties.sourceDataset)),fresh=all.filter(f=>f.properties.sourceDataset==='historical-basemaps-regional-gaps'),at=y=>historicalContextFeatures(all,y),find=(y,id)=>at(y).find(f=>f.properties.polityId===id);
+const all=historicalCollection.features.filter(f=>!['historical-basemaps-three-region-transitions','woudloper-gupta-schematic','woudloper-gupta-schematic-later-gaps','historical-basemaps-later-gaps','hiribarren-borno-regional-context'].includes(f.properties.sourceDataset)),fresh=all.filter(f=>f.properties.sourceDataset==='historical-basemaps-regional-gaps'),at=y=>historicalContextFeatures(all,y),find=(y,id)=>at(y).find(f=>f.properties.polityId===id);
 const ctx={};vm.runInNewContext(fs.readFileSync(new URL('../dist/assets/d3.v7.9.0.min.js',import.meta.url),'utf8'),ctx);const d3=ctx.d3;
 const raw=id=>all.find(f=>f.properties.id===id),read=p=>JSON.parse(fs.readFileSync(new URL(p,import.meta.url)));
 const positive=[

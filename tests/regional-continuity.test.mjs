@@ -97,7 +97,7 @@ test('the annual-country switch preserves reviewed African regions until their s
   }
  }
  const annual=selectCshapesAt(data,1900);
- assert.strictEqual(composeCountryPeriodContext(annual,all,1900),annual,'no lingering references after the handoffs');
+ assert.strictEqual(composeCountryPeriodContext(annual,all.filter(f=>f.properties.sourceDataset!=='hiribarren-borno-regional-context'),1900),annual,'the earlier reviewed references end at their handoffs');
  const fake={type:'Feature',geometry:all[0].geometry,properties:{...all[0].properties,polityId:'unreviewed',countryPeriodSupplement:true,contextValidity:{start:1886,end:1900,backwardReviewed:true}}};
  assert.ok(!composeCountryPeriodContext(selectCshapesAt(data,1886),[fake],1886).includes(fake),'a flag on an unrelated dataset cannot bypass review');
 });

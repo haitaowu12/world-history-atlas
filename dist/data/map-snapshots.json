@@ -307,9 +307,11 @@
       },
       "featureIds": [
         "gupta-schematic-375-gupta-core",
-        "gupta-schematic-375-vakataka-core"
+        "gupta-schematic-375-vakataka-core",
+        "later-gupta-375-early",
+        "later-gupta-375-late"
       ],
-      "featureCount": 2,
+      "featureCount": 4,
       "file": "territories-gupta-schematic-375.geojson",
       "sourceSha256": "b7825f1f66b8143ad5de591dd398b9396b4eed2229ea44bf57cafb7c57931b25"
     },
@@ -661,9 +663,10 @@
         "gaps-1500-benin",
         "gaps-1500-champa",
         "gaps-1500-ayutthaya",
-        "transition-1500-bornu"
+        "transition-1500-bornu",
+        "later-pegu-1500-toungoo-court"
       ],
-      "featureCount": 14,
+      "featureCount": 15,
       "file": "world_1500.geojson",
       "sourceSha256": "d01ffc9b80629787f13d2b1c2f881f005bc0164433548e30f5c058ddee0bfc7b"
     },
@@ -926,6 +929,58 @@
       "featureCount": 33,
       "file": "world_1878.geojson",
       "sourceSha256": "e792520cd24cfb77b117d41533a59b0a5b82fc53a291fff1549ddc73e7f9a8b2"
+    },
+    {
+      "year": 1890,
+      "label": {
+        "en": "1890 CE",
+        "zh": "公元1890年"
+      },
+      "title": {
+        "en": "Borno regional source illustration",
+        "zh": "博尔努区域来源示意"
+      },
+      "featureIds": [
+        "later-borno-1890-kanemi"
+      ],
+      "featureCount": 1,
+      "file": "1890.png",
+      "sourceSha256": "b9e6d91556e9716ddc84f034dfd7101d7817eb09cf044bb597d806ddcb39c1e0"
+    },
+    {
+      "year": 1893,
+      "label": {
+        "en": "1893 CE",
+        "zh": "公元1893年"
+      },
+      "title": {
+        "en": "Borno regional source illustration",
+        "zh": "博尔努区域来源示意"
+      },
+      "featureIds": [
+        "later-borno-1893-invasion"
+      ],
+      "featureCount": 1,
+      "file": "1893.png",
+      "sourceSha256": "115bc8efe560d9e981b5aa1294e4c6976c3fd59f2dd2b20db6214983152b7cf1"
+    },
+    {
+      "year": 1898,
+      "label": {
+        "en": "1898 CE",
+        "zh": "公元1898年"
+      },
+      "title": {
+        "en": "Borno regional source illustration",
+        "zh": "博尔努区域来源示意"
+      },
+      "featureIds": [
+        "later-borno-1898-rabih",
+        "later-borno-1898-aftermath"
+      ],
+      "featureCount": 2,
+      "file": "1898.png",
+      "sourceSha256": "93cbed1aacc8326098fc0e8246b4beb70b7a9c730fc58f9a3a1e944b9d870860"
     },
     {
       "year": 1900,
@@ -2684,6 +2739,30 @@
       "featureCount": 12,
       "outputSha256": "654fca31a5f9581fe0b29d5cc1588e17a222a1c07f3320799fc6c76043d80410",
       "attribution": "André Ourednik and contributors; reviewed Borno and Ayutthaya regional context"
+    },
+    {
+      "file": "territories-later-gupta-context.geojson",
+      "license": "CC-BY-SA-3.0",
+      "licenseFile": "gupta-schematic-375.LICENSE",
+      "featureCount": 2,
+      "outputSha256": "2f858a7ed9e1d79d753f2d94f5273081c8aee11ba57d58c6db191e591545f1bf",
+      "attribution": "Woudloper / Wikimedia Commons; approximately georegistered by World History Atlas"
+    },
+    {
+      "file": "territories-later-pegu-context.geojson",
+      "license": "GPL-3.0-only",
+      "licenseFile": "territories.LICENSE",
+      "featureCount": 1,
+      "outputSha256": "6b8ea5a2a3231327de8a7f223c24168bf6c92528e1aae19f23aadeacddb98e54",
+      "attribution": "André Ourednik and contributors; Pegu regional context"
+    },
+    {
+      "file": "territories-later-borno-context.geojson",
+      "license": "CC-BY-4.0",
+      "licenseFile": "borno-hiribarren.LICENSE",
+      "featureCount": 4,
+      "outputSha256": "8b200e61ebcc55057fce00e7942b3892d6525b91a843f459163fbf7480ad46bf",
+      "attribution": "Vincent Hiribarren; raster core traced and approximately georeferenced by World History Atlas"
     }
   ],
   "selectionPolicy": "Newest eligible prior source per polity, inside an explicit inclusive contextValidity interval; otherwise earliest explicitly backward-reviewed source. Missing metadata means exact source year only. Original source years and licenses are preserved; never interpolate borders or extend expired identities.",
@@ -3222,5 +3301,29 @@
       }
     ],
     "featureCount": 12
+  },
+  "laterMapGapsReview": {
+    "reviewedAt": "2026-10-26",
+    "documentation": "docs/LATER_MAP_GAPS_REVIEW.md",
+    "featureCount": 7,
+    "sourceImages": [
+      {
+        "year": 1890,
+        "file": "1890.png",
+        "sha256": "b9e6d91556e9716ddc84f034dfd7101d7817eb09cf044bb597d806ddcb39c1e0"
+      },
+      {
+        "year": 1893,
+        "file": "1893.png",
+        "sha256": "115bc8efe560d9e981b5aa1294e4c6976c3fd59f2dd2b20db6214983152b7cf1"
+      },
+      {
+        "year": 1898,
+        "file": "1898.png",
+        "sha256": "93cbed1aacc8326098fc0e8246b4beb70b7a9c730fc58f9a3a1e944b9d870860"
+      }
+    ],
+    "peguSourceSha256": "d01ffc9b80629787f13d2b1c2f881f005bc0164433548e30f5c058ddee0bfc7b",
+    "guptaLayerSha256": "e11cf797c1dcface97ab069413b93a7659867aa9f55fc46e6285ea36986f5e81"
   }
 }

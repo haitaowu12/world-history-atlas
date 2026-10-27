@@ -135,3 +135,8 @@ dialog::backdrop { background:#122a42a8; }
 .territory.diffuse-schematic { stroke:none; fill-opacity:.82; filter:blur(1px); }
 .territory.diffuse-schematic:hover { stroke:none; fill-opacity:.8; }
 .territory.diffuse-schematic:focus-visible { stroke:#20363b; stroke-width:2; stroke-dasharray:4 3; filter:none; }
+
+/* Older and overlapping regional illustrations retain visible uncertainty. */
+.territory.earlier-outline-reference { stroke-dasharray:4 3; }
+.territory.historical-overlap { fill-opacity:.48; stroke:#364c5c; stroke-dasharray:3 3; }
+.territory.historical-overlap:hover,.territory.historical-overlap:focus-visible { fill-opacity:.66; }
