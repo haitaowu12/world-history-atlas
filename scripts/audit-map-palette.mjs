@@ -32,7 +32,7 @@ for(const year of years){
  const warmStart=performance.now();mapDisplayPalette([...selected],{scheme:'mineral'});const warmMs=performance.now()-warmStart;
  rows.push({year,features:selected.length,nearbyPairs:edges.length,priorConflicts,conflicts:conflicts.length,coldMs,warmMs});
 }
-const output={schemaVersion:1,checkedAt:'2026-10-26',method:'64 selected-year compositions; 250 km sampled boundary proximity for display grouping, not border validation. Explicit shared identities are grouped before testing. Modern gray administrative reference outlines are excluded.',rows};
+const output={schemaVersion:1,checkedAt:'2026-10-26',method:'64 selected-year compositions; 250 km sampled boundary proximity and reviewed explicit separation pairs for display grouping, not border validation. Explicit shared identities are grouped before testing. Modern gray administrative reference outlines are excluded.',rows};
 if(process.argv[2])fs.writeFileSync(process.argv[2],JSON.stringify(output,null,2)+'\n');
 console.log(JSON.stringify({views:rows.length,nearbyPairs:rows.reduce((n,r)=>n+r.nearbyPairs,0),priorConflicts:rows.reduce((n,r)=>n+r.priorConflicts,0),conflicts:rows.reduce((n,r)=>n+r.conflicts,0),maxColdMs:Math.max(...rows.map(r=>r.coldMs)),maxWarmMs:Math.max(...rows.map(r=>r.warmMs))},null,2));
 if(rows.some(r=>r.conflicts))process.exitCode=1;

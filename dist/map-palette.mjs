@@ -24,6 +24,7 @@ const earthRadius=6371,angle=NEIGHBOR_DISTANCE_KM/earthRadius,cell=2*Math.sin(an
 const geometrySamples=new WeakMap(),geometryIds=new WeakMap(),paletteCache=new Map();let nextGeometryId=1;
 const fallback=['#d0c386','#a3a0d2','#cc9c71','#79aaa7'];
 const pool=[...mineral,...fallback];
+const distinctFrom=p=>Array.isArray(p.displayDistinctFrom)?p.displayDistinctFrom.filter(x=>typeof x==='string'):[];
 function vector([lon,lat]){const a=lon*Math.PI/180,b=lat*Math.PI/180,c=Math.cos(b);return [c*Math.cos(a),c*Math.sin(a),Math.sin(b)];}
 function samples(geometry){
  if(!geometry||!['Polygon','MultiPolygon'].includes(geometry.type))return [];
@@ -60,6 +61,10 @@ function connect(nodes){
   }
   const k=xyz.join(',');if(!cells.has(k))cells.set(k,new Map());const bucket=cells.get(k);if(!bucket.has(n))bucket.set(n,[]);bucket.get(n).push(point);
  }
+ // Some reviewed, visually neighboring schematic cores have fuzzy gaps
+ // larger than the sampled proximity threshold, but need distinct fills.
+ const byKey=new Map(nodes.map(n=>[n.key,n]));
+ for(const n of nodes)for(const f of n.features)for(const key of distinctFrom(f.properties)){const other=byKey.get(key);if(other&&other!==n){n.neighbors.add(other);other.neighbors.add(n);}}
  return nodes;
 }
 // CIELAB distance favours visibly separated neighbouring shades within the theme.
@@ -85,7 +90,7 @@ function assign(nodes){
  }
  return new Map(nodes.flatMap(n=>n.features.map(f=>[f.properties.id,assigned.get(n)])));
 }
-function cacheKey(features){return features.map(f=>{const g=f.geometry;if(g&&!geometryIds.has(g))geometryIds.set(g,nextGeometryId++);const p=f.properties;return [p.id,p.polityId,p.code,p.parent,p.role,p.gwcode,p.isoCode,p.name?.en,p.color,geometryIds.get(g)||0].join(':');}).sort().join('|');}
+function cacheKey(features){return features.map(f=>{const g=f.geometry;if(g&&!geometryIds.has(g))geometryIds.set(g,nextGeometryId++);const p=f.properties;return [p.id,p.polityId,p.code,p.parent,p.role,p.gwcode,p.isoCode,p.name?.en,p.color,distinctFrom(p).join(','),geometryIds.get(g)||0].join(':');}).sort().join('|');}
 export function neighboringDisplayGroups(features){
  const nodes=connect(nodesFor(features));return nodes.flatMap(n=>[...n.neighbors].filter(other=>n.key<other.key).map(other=>({a:n.features.map(f=>f.properties.id),b:other.features.map(f=>f.properties.id)})));
 }

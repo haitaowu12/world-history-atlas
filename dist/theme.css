@@ -130,3 +130,8 @@ dialog::backdrop { background:#122a42a8; }
 .map-view-content { min-height:0; overflow:auto; overscroll-behavior:contain; }
 .map-view-links { position:static; padding-bottom:0; }
 @media(max-width:700px) { .layer-menu { top:12px; max-height:calc(100% - 28px); } }
+
+/* Historical core illustrations retain the source map’s soft, uncertain edge. */
+.territory.diffuse-schematic { stroke:none; fill-opacity:.82; filter:blur(1px); }
+.territory.diffuse-schematic:hover { stroke:none; fill-opacity:.8; }
+.territory.diffuse-schematic:focus-visible { stroke:#20363b; stroke-width:2; stroke-dasharray:4 3; filter:none; }

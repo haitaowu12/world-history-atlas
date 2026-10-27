@@ -34,3 +34,8 @@ test('all detected nearby display groups have distinct colours in the modern and
  const read=name=>JSON.parse(fs.readFileSync(new URL('../dist/data/'+name,import.meta.url))),loader=createChinaContextLoader(read('china-context-index-v7.json'),async name=>read(name)),rows=(await loader.load(-399)).features;
  for(const features of [contemporaryCollection.features,rows]){assert.ok(features.length>1);const p=palette(features);for(const edge of neighboringDisplayGroups(features))assert.notEqual(p.get(edge.a[0]),p.get(edge.b[0]),edge.a+' / '+edge.b);}
 });
+
+test('explicit schematic neighbors have distinct colors and invalidate cached compositions',()=>{
+ const a=box('a',0,0,1,1),b=box('b',40,0,41,1),before=palette([a,b]);assert.equal(before.get('a'),before.get('b'));
+ const reviewed={...a,properties:{...a.properties,displayDistinctFrom:['b']}},after=palette([reviewed,b]);assert.notEqual(after.get('a'),after.get('b'));assert.equal(neighboringDisplayGroups([reviewed,b]).length,1);
+});

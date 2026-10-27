@@ -1,3 +1,7 @@
+# Three-region continuation, 26 October 2026
+
+[Gupta, Borno and Ayutthaya](THREE_REGIONS_REVIEW.md) adds16 source instances, including diffuse, approximately georegistered CC BY-SA Gupta/Vakataka core illustrations. Their deliberately soft edges are not political frontiers. Separately, selected historical-basemaps components support later Borno and Ayutthaya status phases with explicit source years and transition uncertainty. All627 previously distributed instances remain frozen.
+
 # Regional gap review addendum, 26 October 2026
 
 [South Asia, Africa and Southeast Asia](REGIONAL_GAPS_REVIEW.md) adds60 selected source instances across24 identities. Source files remain frozen; the Chola whole-island and Ghana/Soso corrections apply to runtime copies. A valid explicit context interval constrains exact source-year selection as well as reuse, so a later derived phase cannot appear under its future label at an earlier geometry source date. Missing/malformed windows retain exact-only source behavior. The source chronology, component reassignment, rejected donor shapes and remaining gaps are documented in the review.

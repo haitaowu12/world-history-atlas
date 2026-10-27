@@ -5,7 +5,7 @@ import {createRegionalExplorer} from './regional-explorer.mjs?v=28';
 import {CONTENT_MANIFEST,partitionExpansion,expansionCoverage,applyEvidenceReviews} from './content-expansion.mjs?v=28';
 import {waterFeatures,corridorFeatures,hydroVisible} from './inherited-geography.mjs';
 import {normalizeMapCollection} from './map-geometry.mjs';
-import {mapDisplayPalette} from './map-palette.mjs?v=30';
+import {mapDisplayPalette} from './map-palette.mjs?v=31';
 import {selectCshapesAt,cshapesReadout,CSHAPES_RANGE} from './cshapes-history.mjs';
 import {composeCountryPeriodContext} from './regional-country-context.mjs?v=30';
 import {nearbyTurningPoints} from './nearby-context.mjs';
@@ -248,7 +248,7 @@ function renderTerritories(){
  $('.map-stage').classList.toggle('show-dated-divisions',layers.regions&&layers.view==='history');
  const features=layers.territories?currentMapFeatures():[],palette=mapDisplayPalette(features,{scheme:'mineral'}),prev=coverage.mode==='historical'?previousSnapshot(snapshotData.snapshots,snapshot):null;
  territoryLayer.selectAll('path').data(features,f=>f.properties.role==='division'?f.properties.id:f.properties.code||f.properties.polityId||f.properties.id).join('path')
-  .attr('class',f=>'territory'+(f.properties.contemporary?' contemporary-territory':'')+(featureSourceYear(f)!==state.year?' context-territory':'')+(f.properties.kind==='culture'?' cultural-territory':'')+(f.properties.role==='division'?' dated-division':'')+(f.properties.claim?' historical-claim':''))
+  .attr('class',f=>'territory'+(f.properties.contemporary?' contemporary-territory':'')+(featureSourceYear(f)!==state.year?' context-territory':'')+(f.properties.kind==='culture'?' cultural-territory':'')+(f.properties.role==='division'?' dated-division':'')+(f.properties.claim?' historical-claim':'')+(f.properties.visualTreatment==='diffuse-schematic'?' diffuse-schematic':''))
   .attr('data-id',f=>f.properties.id).attr('data-schematic',f=>f.properties.schematic?'true':null).attr('data-year',f=>featureSourceYear(f)??null).attr('data-selected-year',state.year)
   .attr('data-map-kind',f=>f.properties.schematic?'schematic':f.properties.contemporary?'contemporary':f.properties.kind==='culture'?'culture':featureSourceYear(f)===state.year?'historical':'context')
   .attr('d',cachedPath).attr('fill',f=>f.properties.claim?'url(#disputed-hatch)':palette.get(f.properties.id)).attr('role','button')
@@ -629,7 +629,7 @@ function contentCoverageHTML(){
  const rows=expansionCoverage(expansionRecords,expansionManifest.workstreams||[]);
  return `<h3>${state.lang==='zh'?'历史水系与通道':'Historical waterways and corridors'}</h3><p>${esc(localized(chinaWaterways.note))}</p><p><a href="${esc(chinaWaterways.source.url)}" target="_blank" rel="noopener noreferrer">${t('viewSource')}</a></p><h3>${t('expansionCoverage')}</h3><p>${t('expansionCoverageNote')}</p><div class="content-coverage">${rows.map(r=>`<button class="elsewhere-card" data-action="open-course" data-id="course-expansion-${r.id.toLowerCase()}"><span><strong>${esc(localized(r.title))}</strong><small>${r.records} ${t('records')} · ${r.biographies} ${t('people')}</small></span>↗</button>`).join('')}</div>`;
 }
-async function loadJSON(file){const url=new URL(file,location.href);url.searchParams.set('atlas','0.15.0-regional-gaps1');const response=await fetch(url);if(!response.ok)throw new Error(`A local atlas file could not load: ${file}`);return response.json();}
+async function loadJSON(file){const url=new URL(file,location.href);url.searchParams.set('atlas','0.15.0-three-regions2');const response=await fetch(url);if(!response.ok)throw new Error(`A local atlas file could not load: ${file}`);return response.json();}
 async function init(){try{
  const files=['./data/history.json','./data/people.json','./data/routes.json','./assets/land.geojson','./data/map-snapshots.json','./assets/rivers.geojson','./data/courses.json','./data/contemporary-world.json','./data/disputed-lines.geojson','./data/disputed-areas.geojson','./data/china-import-manifest.json','./data/china-library.json','./data/china-reviews.json'];
  let histories,chinaReviews;

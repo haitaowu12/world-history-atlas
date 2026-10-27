@@ -296,6 +296,24 @@
       "sourceSha256": "86e6a21cd7a26230184abc57ed042bd9264b569b76406f79ace8618d625b3297"
     },
     {
+      "year": 375,
+      "label": {
+        "en": "375 CE",
+        "zh": "公元375年"
+      },
+      "title": {
+        "en": "Gupta and Vakataka core schematics",
+        "zh": "笈多与伐迦陀迦核心区示意"
+      },
+      "featureIds": [
+        "gupta-schematic-375-gupta-core",
+        "gupta-schematic-375-vakataka-core"
+      ],
+      "featureCount": 2,
+      "file": "territories-gupta-schematic-375.geojson",
+      "sourceSha256": "b7825f1f66b8143ad5de591dd398b9396b4eed2229ea44bf57cafb7c57931b25"
+    },
+    {
       "year": 400,
       "label": {
         "en": "400 CE",
@@ -313,6 +331,24 @@
       "featureCount": 3,
       "file": "world_400.geojson",
       "sourceSha256": "3a3cf57e1d117e81b49b9344af49b73fec0674aa14e7d1d1f1d345d08f9ce1f7"
+    },
+    {
+      "year": 450,
+      "label": {
+        "en": "450 CE",
+        "zh": "公元450年"
+      },
+      "title": {
+        "en": "Gupta and Vakataka core schematics",
+        "zh": "笈多与伐迦陀迦核心区示意"
+      },
+      "featureIds": [
+        "gupta-schematic-450-gupta-core",
+        "gupta-schematic-450-vakataka-core"
+      ],
+      "featureCount": 2,
+      "file": "territories-gupta-schematic-450.geojson",
+      "sourceSha256": "50c1e11a8d2bc651644492265f6d4ca6b2e16eb0ad9b6816f4b1bb2df9492904"
     },
     {
       "year": 500,
@@ -530,9 +566,10 @@
         "gaps-1200-wagadu-transition",
         "gaps-1200-kanem",
         "gaps-1200-champa",
-        "gaps-1200-bagan"
+        "gaps-1200-bagan",
+        "transition-1200-kanem"
       ],
-      "featureCount": 14,
+      "featureCount": 15,
       "file": "world_1200.geojson",
       "sourceSha256": "2d6913ecedb38e269e41d249c87874d81e3e8d7351754821f57e627442d91525"
     },
@@ -561,9 +598,10 @@
         "gaps-1300-ethiopia",
         "gaps-1300-great-zimbabwe-region",
         "gaps-1300-champa",
-        "gaps-1300-sukhothai"
+        "gaps-1300-sukhothai",
+        "transition-1300-bornu"
       ],
-      "featureCount": 15,
+      "featureCount": 16,
       "file": "world_1300.geojson",
       "sourceSha256": "a27985e60d936611d7933f0c30f1b52c36ef4a17225dfac25fb96abe40fa496f"
     },
@@ -589,9 +627,13 @@
         "early-1400-chimu",
         "gaps-1400-ethiopia",
         "gaps-1400-great-zimbabwe-region",
-        "gaps-1400-ayutthaya"
+        "gaps-1400-ayutthaya",
+        "transition-1400-bornu",
+        "transition-1400-ayutthaya-vassal",
+        "transition-1400-ayutthaya-transition",
+        "transition-1400-ayutthaya-restored"
       ],
-      "featureCount": 12,
+      "featureCount": 16,
       "file": "world_1400.geojson",
       "sourceSha256": "c6b0efcb42d9520a1a724f981373296e84ea2c0a0527de7a06f8f9e2465eb6ec"
     },
@@ -618,9 +660,10 @@
         "gaps-1500-ethiopia",
         "gaps-1500-benin",
         "gaps-1500-champa",
-        "gaps-1500-ayutthaya"
+        "gaps-1500-ayutthaya",
+        "transition-1500-bornu"
       ],
-      "featureCount": 13,
+      "featureCount": 14,
       "file": "world_1500.geojson",
       "sourceSha256": "d01ffc9b80629787f13d2b1c2f881f005bc0164433548e30f5c058ddee0bfc7b"
     },
@@ -642,9 +685,10 @@
         "1600-kongo",
         "1600-ming",
         "gaps-1600-benin",
-        "gaps-1600-oyo"
+        "gaps-1600-oyo",
+        "transition-1600-bornu"
       ],
-      "featureCount": 8,
+      "featureCount": 9,
       "file": "world_1600.geojson",
       "sourceSha256": "7285c07eeedfda9048de5354ea1744d327b07614085e9696c5802bb54c86849c"
     },
@@ -706,9 +750,10 @@
         "1700-sweden-empire",
         "gaps-1700-ethiopia",
         "gaps-1700-benin",
-        "gaps-1700-oyo"
+        "gaps-1700-oyo",
+        "transition-1700-bornu"
       ],
-      "featureCount": 16,
+      "featureCount": 17,
       "file": "world_1700.geojson",
       "sourceSha256": "eb73d6b00e98205fb2082de050c35e4d698224b17849628d82584610186b88a4"
     },
@@ -825,9 +870,11 @@
         "1815-bunyoro",
         "1815-lunda",
         "1815-merina",
-        "gaps-1815-ethiopia"
+        "gaps-1815-ethiopia",
+        "transition-1815-bornu-crisis",
+        "transition-1815-bornu-kukawa"
       ],
-      "featureCount": 18,
+      "featureCount": 20,
       "file": "world_1815.geojson",
       "sourceSha256": "fb654f734583f550904cfa45f361e395c1a488c4960050da2632cb2ac7d1cd1e"
     },
@@ -873,9 +920,10 @@
         "1878-kuba",
         "1878-merina",
         "gaps-1878-ethiopia",
-        "gaps-1878-dahomey"
+        "gaps-1878-dahomey",
+        "transition-1878-bornu"
       ],
-      "featureCount": 32,
+      "featureCount": 33,
       "file": "world_1878.geojson",
       "sourceSha256": "e792520cd24cfb77b117d41533a59b0a5b82fc53a291fff1549ddc73e7f9a8b2"
     },
@@ -2611,6 +2659,31 @@
       "featureCount": 60,
       "outputSha256": "e85337992e89288573ff4ed240d15eea5e47fd569a62b4ffc5da9cc5e2f9d1ce",
       "attribution": "André Ourednik and contributors; bounded Atlas regional context selection"
+    },
+    {
+      "file": "territories-gupta-schematic-375.geojson",
+      "license": "CC-BY-SA-3.0",
+      "licenseFile": "gupta-schematic-375.LICENSE",
+      "featureCount": 2,
+      "outputSha256": "e11cf797c1dcface97ab069413b93a7659867aa9f55fc46e6285ea36986f5e81",
+      "attribution": "Woudloper / Wikimedia Commons; map adapted and approximately georegistered by World History Atlas"
+    },
+    {
+      "file": "territories-gupta-schematic-450.geojson",
+      "license": "CC-BY-SA-4.0",
+      "licenseFile": "gupta-schematic-450.LICENSE",
+      "featureCount": 2,
+      "outputSha256": "83a56c7053ada4975de2a7876c56bb96f067e60f968816f07c7d78424d039743",
+      "attribution": "Woudloper / Wikimedia Commons; map adapted and approximately georegistered by World History Atlas"
+    },
+    {
+      "file": "territories-three-region-transitions-01.geojson",
+      "license": "GPL-3.0-only",
+      "licenseFile": "territories.LICENSE",
+      "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "featureCount": 12,
+      "outputSha256": "654fca31a5f9581fe0b29d5cc1588e17a222a1c07f3320799fc6c76043d80410",
+      "attribution": "André Ourednik and contributors; reviewed Borno and Ayutthaya regional context"
     }
   ],
   "selectionPolicy": "Newest eligible prior source per polity, inside an explicit inclusive contextValidity interval; otherwise earliest explicitly backward-reviewed source. Missing metadata means exact source year only. Original source years and licenses are preserved; never interpolate borders or extend expired identities.",
@@ -3066,5 +3139,88 @@
       "africa": 23,
       "southeast-asia": 17
     }
+  },
+  "guptaSchematicReview": {
+    "reviewedAt": "2026-10-26",
+    "documentation": "docs/THREE_REGIONS_REVIEW.md",
+    "sources": [
+      {
+        "year": 375,
+        "sha256": "b7825f1f66b8143ad5de591dd398b9396b4eed2229ea44bf57cafb7c57931b25",
+        "license": "CC-BY-SA-3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:South_Asia_historical_AD375_EN.svg"
+      },
+      {
+        "year": 450,
+        "sha256": "50c1e11a8d2bc651644492265f6d4ca6b2e16eb0ad9b6816f4b1bb2df9492904",
+        "license": "CC-BY-SA-4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:South_Asia_historical_AD450_EN.svg"
+      }
+    ],
+    "featureCount": 4
+  },
+  "threeRegionTransitionsReview": {
+    "reviewedAt": "2026-10-26",
+    "documentation": "docs/THREE_REGIONS_REVIEW.md",
+    "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+    "inputs": [
+      {
+        "year": 1200,
+        "file": "world_1200.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "2d6913ecedb38e269e41d249c87874d81e3e8d7351754821f57e627442d91525",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1200.geojson"
+      },
+      {
+        "year": 1300,
+        "file": "world_1300.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "a27985e60d936611d7933f0c30f1b52c36ef4a17225dfac25fb96abe40fa496f",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1300.geojson"
+      },
+      {
+        "year": 1400,
+        "file": "world_1400.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "c6b0efcb42d9520a1a724f981373296e84ea2c0a0527de7a06f8f9e2465eb6ec",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1400.geojson"
+      },
+      {
+        "year": 1500,
+        "file": "world_1500.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "d01ffc9b80629787f13d2b1c2f881f005bc0164433548e30f5c058ddee0bfc7b",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1500.geojson"
+      },
+      {
+        "year": 1600,
+        "file": "world_1600.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "7285c07eeedfda9048de5354ea1744d327b07614085e9696c5802bb54c86849c",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1600.geojson"
+      },
+      {
+        "year": 1700,
+        "file": "world_1700.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "eb73d6b00e98205fb2082de050c35e4d698224b17849628d82584610186b88a4",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1700.geojson"
+      },
+      {
+        "year": 1815,
+        "file": "world_1815.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "fb654f734583f550904cfa45f361e395c1a488c4960050da2632cb2ac7d1cd1e",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1815.geojson"
+      },
+      {
+        "year": 1878,
+        "file": "world_1878.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "e792520cd24cfb77b117d41533a59b0a5b82fc53a291fff1549ddc73e7f9a8b2",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1878.geojson"
+      }
+    ],
+    "featureCount": 12
   }
 }

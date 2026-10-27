@@ -1,0 +1,2 @@
+# Preserve the downloaded source bytes, including the author's whitespace.
+*.svg -text -diff
