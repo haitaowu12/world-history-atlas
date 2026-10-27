@@ -5,7 +5,7 @@ import {historicalContextFeatures} from '../dist/atlas-model.mjs';
 import {historicalCollection,historicalMetadata} from './map-fixtures.mjs';
 import {CONTENT_MANIFEST,auditExpansion} from '../dist/content-expansion.mjs';
 const bytes=f=>fs.readFileSync(new URL('../dist/data/'+f,import.meta.url));const read=f=>JSON.parse(bytes(f));
-const all=historicalCollection.features.filter(f=>!['historical-basemaps-regional-gaps','historical-basemaps-three-region-transitions','woudloper-gupta-schematic','woudloper-gupta-schematic-later-gaps','historical-basemaps-later-gaps','hiribarren-borno-regional-context'].includes(f.properties.sourceDataset)),newRows=all.filter(f=>f.properties.sourceDataset==='historical-basemaps-early-regional');
+const all=historicalCollection.features.filter(f=>!['historical-basemaps-regional-gaps','historical-basemaps-three-region-transitions','woudloper-gupta-schematic','woudloper-gupta-schematic-later-gaps','historical-basemaps-later-gaps','hiribarren-borno-regional-context','woudloper-gupta-successor-schematic','soewinhan-toungoo-sphere'].includes(f.properties.sourceDataset)),newRows=all.filter(f=>f.properties.sourceDataset==='historical-basemaps-early-regional');
 const at=y=>historicalContextFeatures(all,y),find=(y,id)=>at(y).find(f=>f.properties.polityId===id);
 const ctx={};vm.runInNewContext(fs.readFileSync(new URL('../dist/assets/d3.v7.9.0.min.js',import.meta.url),'utf8'),ctx);const d3=ctx.d3;
 test('the early China omission is fixed without inventing Xia or Shang geometry',()=>{

@@ -140,3 +140,7 @@ dialog::backdrop { background:#122a42a8; }
 .territory.earlier-outline-reference { stroke-dasharray:4 3; }
 .territory.historical-overlap { fill-opacity:.48; stroke:#364c5c; stroke-dasharray:3 3; }
 .territory.historical-overlap:hover,.territory.historical-overlap:focus-visible { fill-opacity:.66; }
+
+/* A source-date sphere is a reference line, not a fill or direct occupation. */
+.territory.influence-sphere,.territory.influence-sphere:hover,.territory.influence-sphere:focus-visible { fill:none; stroke:#76536f; stroke-opacity:.95; stroke-width:1.6; stroke-dasharray:6 4; pointer-events:stroke; }
+.legend-swatch.influence-swatch { background:transparent!important; border:1px dashed #76536f; }

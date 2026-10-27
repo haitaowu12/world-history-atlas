@@ -9,7 +9,7 @@ const root=new URL('../',import.meta.url);
 const read=p=>JSON.parse(fs.readFileSync(new URL(p,root),'utf8'));
 const write=(p,value)=>fs.writeFileSync(new URL(p,root),JSON.stringify(value,null,2)+'\n');
 const baseline=read('dist/data/content-expansion-v13.json');
-const newFiles=['expansion-early-china-v14.json'];
+const newFiles=['expansion-early-china-v14.json','expansion-gupta-toungoo-v14.json'];
 const files=[...baseline.files.map(f=>f.file),...newFiles].map(file=>{
   const bytes=fs.readFileSync(new URL('dist/data/'+file,root));
   if(bytes.length>450000)throw Error(file+': split this content file before publication');
@@ -52,14 +52,14 @@ const counts=records=>({records:records.length,biographies:records.filter(r=>r.k
   biographyMilestones:records.reduce((n,r)=>n+(r.milestones?.length||0),0),
   politicalOverviews:records.filter(r=>r.kind==='polity').length,
   sourceURLs:new Set(records.flatMap(r=>r.sources.map(s=>s.url))).size});
-const output={schemaVersion:1,version:'0.15.0',preparedAt:'2026-10-26',
+const output={schemaVersion:1,version:'0.15.0',preparedAt:'2026-10-27',
   baseline:{manifest:'content-expansion-v13.json',localCommit:'0eacba4456273a99423dbde38d42b4bb6385220e',records:1871},
   files,evidenceReviewsFile:'evidence-followups-v11.json',coursesFile:'expansion-courses-v14.json',geographicReferenceFile:'us-canada-reference.json',geographicAssociationsFile:'us-canada-area-links-v12.json',geographicIndexFile:'us-canada-history-index-v14.json',regionalHistoryFile:'regional-history-v14.json',earlyChinaGuideFile:'early-china-guide-v14.json',workstreams:baseline.workstreams,
   counts:{...counts(rows),readingPaths:courses.length,releases:Object.fromEntries([1,2,3,4,5,6,7,8].map(n=>[n,rows.filter(r=>r.expansion.release===n).length]))},
   addition:{edition:'v14',release:8,files:newFiles,...counts(delta),recordIds:delta.map(r=>r.id),
     regions:Object.fromEntries([...new Set(delta.map(r=>r.region))].map(region=>[region,counts(delta.filter(r=>r.region===region))]))},
-  researchService:{...baseline.researchService,followup:{method:'Root inspection of institutional, community and primary-text pages through the in-app browser; No external model service used for this addition; prior releases retain their own research disclosures.',checkedAt:'2026-10-26'}},
-  method:{en:'V14 adds early China evidence distinctions and one short study. Yu/Shun is an undated received tradition; Xia remains unconfirmed, Erlitou archaeological and Shang supported by royal-center evidence. No territorial boundaries are inferred from narrative dates. Prior inputs remain frozen.',zh:'V14新增早期中国证据区分与一条简短阅读。虞舜作为未确立绝对纪年的传世叙述；夏的身份未证实，二里头为考古地点，商有王室中心材料。叙事年代不推导疆界；冻结既有输入。'},
+  researchService:{...baseline.researchService,followup:{method:'Root inspection of institutional, community and primary-text pages through the in-app browser; No external model service used for this addition; prior releases retain their own research disclosures.',checkedAt:'2026-10-27'}},
+  method:{en:'V14 adds early China evidence distinctions and one short study, plus dated Gupta inscription and Toungoo–Ayutthaya port evidence. Yu/Shun is an undated received tradition; Xia remains unconfirmed, Erlitou archaeological and Shang supported by royal-center evidence. No territorial boundaries are inferred from narrative dates. Prior inputs remain frozen.',zh:'V14新增早期中国证据区分、一条简短阅读，以及笈多铭文和东吁—阿瑜陀耶港口证据。虞舜作为未确立绝对纪年的传世叙述；夏的身份未证实，二里头为考古地点，商有王室中心材料。叙事年代不推导疆界；冻结既有输入。'},
   coverage:coverage.map(({sourceURLs,...stream})=>({...stream,sourceCount:sourceURLs.length}))};
 // Write derived outputs only after every input has passed the audit.
 write('dist/data/expansion-courses-v14.json',courses);

@@ -376,6 +376,45 @@
       "sourceSha256": "06f7512efec9151b91b5967e8bee3e2dacf8c623e8719de8c64a996bec5ec2c1"
     },
     {
+      "year": 550,
+      "label": {
+        "en": "550 CE",
+        "zh": "公元550年"
+      },
+      "title": {
+        "en": "South Asian successor court schematics",
+        "zh": "南亚后继宫廷示意"
+      },
+      "featureIds": [
+        "gupta-successor-550-later-gupta-court",
+        "gupta-successor-550-maukhari-court",
+        "gupta-successor-550-chalukya-badami"
+      ],
+      "featureCount": 3,
+      "file": "territories-gupta-successors-550.geojson",
+      "sourceSha256": "ba37bcd11d5975d6f94bfb634f4692df95c3d8fadbe470751fa3882c9afa1d96"
+    },
+    {
+      "year": 590,
+      "label": {
+        "en": "590 CE",
+        "zh": "公元590年"
+      },
+      "title": {
+        "en": "South Asian successor court schematics",
+        "zh": "南亚后继宫廷示意"
+      },
+      "featureIds": [
+        "gupta-successor-590-later-gupta-court",
+        "gupta-successor-590-maukhari-court",
+        "gupta-successor-590-chalukya-badami",
+        "gupta-successor-590-pushyabhuti-court"
+      ],
+      "featureCount": 4,
+      "file": "territories-gupta-successors-590.geojson",
+      "sourceSha256": "6ea5bdcfb6c2e6c138e158ba3080b48f1e064b6890b098a9012c0caf73983175"
+    },
+    {
       "year": 600,
       "label": {
         "en": "600 CE",
@@ -669,6 +708,23 @@
       "featureCount": 15,
       "file": "world_1500.geojson",
       "sourceSha256": "d01ffc9b80629787f13d2b1c2f881f005bc0164433548e30f5c058ddee0bfc7b"
+    },
+    {
+      "year": 1580,
+      "label": {
+        "en": "1580 CE",
+        "zh": "公元1580年"
+      },
+      "title": {
+        "en": "Toungoo sphere comparison",
+        "zh": "东吁势力范围比较"
+      },
+      "featureIds": [
+        "toungoo-sphere-reference-1580"
+      ],
+      "featureCount": 1,
+      "file": "territories-toungoo-sphere-1580.geojson",
+      "sourceSha256": "de7ab082e0dcce5f97704ae8ebacb5566e6c336b62c2a44a49ab458af3001b5b"
     },
     {
       "year": 1600,
@@ -2763,6 +2819,30 @@
       "featureCount": 4,
       "outputSha256": "8b200e61ebcc55057fce00e7942b3892d6525b91a843f459163fbf7480ad46bf",
       "attribution": "Vincent Hiribarren; raster core traced and approximately georeferenced by World History Atlas"
+    },
+    {
+      "file": "territories-gupta-successors-550.geojson",
+      "license": "CC-BY-SA-4.0",
+      "licenseFile": "gupta-successor-schematic.LICENSE",
+      "featureCount": 3,
+      "outputSha256": "a96c6157b31007a0a34e3bccef60b7ac9494369fc0e9bb24038f61a62b50ed28",
+      "attribution": "Woudloper / Wikimedia Commons; map adapted and approximately georegistered by World History Atlas"
+    },
+    {
+      "file": "territories-gupta-successors-590.geojson",
+      "license": "CC-BY-SA-4.0",
+      "licenseFile": "gupta-successor-schematic.LICENSE",
+      "featureCount": 4,
+      "outputSha256": "051489ab8733044beb5fcaf3dc5ed46a3fe0fcf8ecfd5e1af792dae99ce45997",
+      "attribution": "Woudloper / Wikimedia Commons; map adapted and approximately georegistered by World History Atlas"
+    },
+    {
+      "file": "territories-toungoo-sphere-1580.geojson",
+      "license": "CC-BY-SA-3.0",
+      "licenseFile": "toungoo-sphere-1580.LICENSE",
+      "featureCount": 1,
+      "outputSha256": "bb3269594f5c90f045938b3c49a6cfbae70f5a2ce1f3ad43dd2174010da3bb5a",
+      "attribution": "Soewinhan / Wikimedia Commons; source sphere adapted and approximately georegistered by World History Atlas"
     }
   ],
   "selectionPolicy": "Newest eligible prior source per polity, inside an explicit inclusive contextValidity interval; otherwise earliest explicitly backward-reviewed source. Missing metadata means exact source year only. Original source years and licenses are preserved; never interpolate borders or extend expired identities.",
@@ -3325,5 +3405,34 @@
     ],
     "peguSourceSha256": "d01ffc9b80629787f13d2b1c2f881f005bc0164433548e30f5c058ddee0bfc7b",
     "guptaLayerSha256": "e11cf797c1dcface97ab069413b93a7659867aa9f55fc46e6285ea36986f5e81"
+  },
+  "guptaSuccessorReview": {
+    "reviewedAt": "2026-10-27",
+    "documentation": "docs/GUPTA_AYUTTHAYA_REVIEW_2026_10_27.md",
+    "sources": [
+      {
+        "year": 550,
+        "sha256": "ba37bcd11d5975d6f94bfb634f4692df95c3d8fadbe470751fa3882c9afa1d96",
+        "license": "CC-BY-SA-4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:South_Asia_historical_AD550_EN.svg"
+      },
+      {
+        "year": 590,
+        "sha256": "6ea5bdcfb6c2e6c138e158ba3080b48f1e064b6890b098a9012c0caf73983175",
+        "license": "CC-BY-SA-4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:South_Asia_historical_AD590_EN.svg"
+      }
+    ],
+    "featureCount": 7
+  },
+  "toungooSphereReview": {
+    "reviewedAt": "2026-10-27",
+    "documentation": "docs/GUPTA_AYUTTHAYA_REVIEW_2026_10_27.md",
+    "source": {
+      "url": "https://commons.wikimedia.org/wiki/File:Map_of_Taungoo_Empire_(1580).png",
+      "sha256": "de7ab082e0dcce5f97704ae8ebacb5566e6c336b62c2a44a49ab458af3001b5b",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featureCount": 1
   }
 }

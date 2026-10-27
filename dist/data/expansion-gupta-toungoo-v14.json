@@ -1,0 +1,327 @@
+[
+  {
+    "id": "early-gupta-prayaga-context",
+    "title": {
+      "en": "Early Gupta · Prayaga and the limits of a regional tradition",
+      "zh": "早期笈多 · 波罗耶伽与区域传统的局限"
+    },
+    "start": 320,
+    "end": 349,
+    "region": "south-asia",
+    "theme": "states",
+    "kind": "place",
+    "importance": 4,
+    "location": {
+      "lat": 25.45,
+      "lon": 81.85,
+      "label": "Prayaga / Allahabad vicinity; representative regional point, not a surveyed boundary",
+      "labelI18n": {
+        "en": "Prayaga / Allahabad vicinity; representative regional point, not a surveyed boundary",
+        "zh": "波罗耶伽／阿拉哈巴德一带；区域代表地点，非实测疆界"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Harvard’s regional chronology places Chandragupta I approximately 319–350. Other chronologies use different dates. The Archaeological Survey of India’s inscription corpus discusses later Purana traditions associating the early Guptas with Prayaga, Saketa and Magadha; attribution to a particular king is an interpretation, not an early boundary survey.\n\nA British Museum coin names and portrays Chandragupta I and Kumaradevi with a Licchavi reverse. The museum attributes this issue to Samudragupta and dates it approximately 330–376, so the coin should not be treated as proof that it was struck during Chandragupta I’s own reign. This point provides regional context, not a reconstruction of his territories.",
+      "zh": "哈佛区域年表将旃陀罗笈多一世约列为319—350年，其他年表采用不同日期。印度考古调查局铭文汇编讨论后世《往世书》将早期笈多与波罗耶伽、娑鸡多和摩揭陀联系起来的传统；归属具体君主属于解释，并非早期疆界测绘。\n\n大英博物馆一枚钱币绘出并写有旃陀罗笈多一世与鸠摩罗提毗，背面提及离车。博物馆将该币归于沙摩陀罗笈多，约为330—376年，故不能以此证明该币铸于旃陀罗笈多一世在位期间。地图点仅提供区域背景，不重建其疆域。"
+    },
+    "dateNote": {
+      "en": "320–349 is a selected approximate context window, not an agreed reign or founding date.",
+      "zh": "320—349年为选取的近似背景窗口，不是各家一致的在位或建国日期。"
+    },
+    "relatedIds": [
+      "gupta-period",
+      "gupta-eran-bhanugupta-191"
+    ],
+    "sources": [
+      {
+        "title": "Gupta-Vakataka Age, c.300–550 CE",
+        "url": "https://timelinesouthasianhistory.hsites.harvard.edu/gupta-v%C4%81k%C4%81%E1%B9%ADaka-age-c-300-%E2%80%93-550-ce",
+        "publisher": "Harvard University",
+        "evidenceNote": "Inspected the approximate Chandragupta I and Samudragupta ruler chronology; it does not verify a frontier.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Corpus Inscriptionum Indicarum III: Inscriptions of the Early Gupta Kings",
+        "url": "https://archive.org/stream/in.ernet.dli.2015.108395/2015.108395.Corpus-Inscriptionum-Indicarum-Vol3-inscriptions-Of-The-Early-Gupta-Kings_djvu.txt",
+        "publisher": "Archaeological Survey of India",
+        "evidenceNote": "Inspected the introductory discussion of early Gupta regional traditions and the interpretive limits of Puranic chronology.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Coin of Chandragupta I and Kumaradevi",
+        "url": "https://www.britishmuseum.org/collection/object/C_1910-0403-3",
+        "publisher": "The British Museum",
+        "evidenceNote": "Museum attributes the coin to Samudragupta and dates it c.330–376; it depicts and names the couple and Licchavi, not a surveyed frontier.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "expansion": {
+      "release": 8,
+      "edition": "v14",
+      "workstreams": [
+        "SA1"
+      ],
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "Representative locality and source interpretation; neither the point nor the date establishes a territorial boundary or continuous direct rule.",
+        "zh": "代表地点与来源解读；地点和日期均不能确定疆界或连续直接统治。"
+      }
+    }
+  },
+  {
+    "id": "gupta-eran-bhanugupta-191",
+    "title": {
+      "en": "Eran · Bhanugupta and the year 191 inscription",
+      "zh": "埃兰 · 婆奴笈多与纪年191年石刻"
+    },
+    "start": 510,
+    "end": 511,
+    "region": "south-asia",
+    "theme": "states",
+    "kind": "event",
+    "importance": 4,
+    "location": {
+      "lat": 24.09,
+      "lon": 78.13,
+      "label": "Eran vicinity, Madhya Pradesh; approximate inscription locality",
+      "labelI18n": {
+        "en": "Eran vicinity, Madhya Pradesh; approximate inscription locality",
+        "zh": "中央邦埃兰一带；铭文地点近似位置"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "The Eran pillar inscription records a battle in which Goparaja followed Bhanugupta and died. It gives year 191; the Archaeological Survey of India edition converts this to 510–511 CE. The edition also cautions that the inscription does not name a reigning monarch and Bhanugupta may not have been a sovereign.\n\nThe marker locates the inscription vicinity. It cannot establish the full reach of the Gupta court or the location of a political border in either year.",
+      "zh": "埃兰石柱铭文记载瞿波罗阇随婆奴笈多作战并身亡，纪年为191年；印度考古调查局版本将其换算为公元510—511年。该版本也提醒铭文没有标明在位君主，婆奴笈多未必是独立君主。\n\n地图点指示铭文地点一带，不能据此确定笈多宫廷的完整势力范围或当年的政治疆界。"
+    },
+    "dateNote": {
+      "en": "Gupta year 191 is converted as 510–511 CE in the cited edition.",
+      "zh": "所引版本将笈多纪年191年换算为公元510—511年。"
+    },
+    "relatedIds": [
+      "gupta-period",
+      "damodarpur-charter-224"
+    ],
+    "sources": [
+      {
+        "title": "Corpus Inscriptionum Indicarum III, no. 43: Eran stone pillar inscription",
+        "url": "https://archive.org/stream/in.ernet.dli.2015.108395/2015.108395.Corpus-Inscriptionum-Indicarum-Vol3-inscriptions-Of-The-Early-Gupta-Kings_djvu.txt",
+        "publisher": "Archaeological Survey of India",
+        "evidenceNote": "Inspected no.43, pp.352–354, including the date, translation and caveat that Bhanugupta need not have been sovereign.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "expansion": {
+      "release": 8,
+      "edition": "v14",
+      "workstreams": [
+        "SA1"
+      ],
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "Representative locality and source interpretation; neither the point nor the date establishes a territorial boundary or continuous direct rule.",
+        "zh": "代表地点与来源解读；地点和日期均不能确定疆界或连续直接统治。"
+      }
+    }
+  },
+  {
+    "id": "damodarpur-charter-224",
+    "title": {
+      "en": "Damodarpur · a damaged Gupta-era charter",
+      "zh": "达摩达尔普尔 · 残损的笈多纪年土地文书"
+    },
+    "start": 542,
+    "end": 545,
+    "region": "south-asia",
+    "theme": "states",
+    "kind": "event",
+    "importance": 4,
+    "location": {
+      "lat": 25.505149,
+      "lon": 88.711069,
+      "label": "Damodarpur vicinity; Siddham object findspot, not a territorial boundary",
+      "labelI18n": {
+        "en": "Damodarpur vicinity; Siddham object findspot, not a territorial boundary",
+        "zh": "达摩达尔普尔一带；Siddham所记出土地点，非领土边界"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "This copperplate land charter bears Gupta era year 224 and records administrative business associated with Pundravardhana and Kotivarsha. The ruler’s name is damaged: the surviving ending is “gupta,” and the edition’s suggested restoration is tentative. Siddham leaves the ruler unidentified.\n\nThe Archaeological Survey of India corpus converts the date to 542–543 CE; Siddham’s metadata gives 543–545. The atlas shows their combined range, without treating the inscription as evidence for the shape of a continuous empire.",
+      "zh": "这件铜板土地文书记有笈多纪年224年，并涉及奔荼罗跋弹那与俱胝伐沙的行政事务。君主姓名残损，仅保留“笈多”结尾，汇编所建议的复原只是推测；Siddham将君主列为未定。\n\n印度考古调查局汇编换算为公元542—543年；Siddham元数据给出543—545年。地图采用两者合并后的范围，不将这件文书当作连续帝国疆域轮廓的证据。"
+    },
+    "dateNote": {
+      "en": "Gupta year 224: 542–543 in the cited corpus and 543–545 in Siddham; 542–545 is their union, not a claim of continuous activity.",
+      "zh": "笈多纪年224年：所引汇编为542—543年，Siddham为543—545年；542—545年是两种换算的合并范围，并非连续活动的断言。"
+    },
+    "relatedIds": [
+      "gupta-period",
+      "gupta-eran-bhanugupta-191"
+    ],
+    "sources": [
+      {
+        "title": "Damodarpur Charter of Xgupta",
+        "url": "https://siddham.network/inscription/in00056/?section=metadata",
+        "publisher": "Siddham: The Asian Inscription Database",
+        "evidenceNote": "Inspected metadata: ruler unknown, Gupta year 224, converted date range 543–545.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Damodarpur copperplate object",
+        "url": "https://siddham.network/object/ob00051/",
+        "publisher": "Siddham: The Asian Inscription Database",
+        "evidenceNote": "Inspected the object record and reported location used for the representative point.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Corpus Inscriptionum Indicarum III, no. 47: Damodarpur charter",
+        "url": "https://archive.org/stream/in.ernet.dli.2015.108395/2015.108395.Corpus-Inscriptionum-Indicarum-Vol3-inscriptions-Of-The-Early-Gupta-Kings_djvu.txt",
+        "publisher": "Archaeological Survey of India",
+        "evidenceNote": "Inspected pp.360–364: Gupta year 224, conversion 542–543, damaged ruler name and tentative reconstruction.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "expansion": {
+      "release": 8,
+      "edition": "v14",
+      "workstreams": [
+        "SA1"
+      ],
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "Representative locality and source interpretation; neither the point nor the date establishes a territorial boundary or continuous direct rule.",
+        "zh": "代表地点与来源解读；地点和日期均不能确定疆界或连续直接统治。"
+      }
+    }
+  },
+  {
+    "id": "toungoo-port-garrisons-1564",
+    "title": {
+      "en": "Toungoo · Tenasserim coast ports after 1564",
+      "zh": "东吁 · 1564年后的德林达依海岸港口"
+    },
+    "start": 1564,
+    "end": 1564,
+    "region": "southeast-asia",
+    "theme": "states",
+    "kind": "event",
+    "importance": 4,
+    "location": {
+      "lat": 14.097962,
+      "lon": 98.194978,
+      "label": "Tavoy / Dawei port vicinity; representative port, not a coast-wide boundary",
+      "labelI18n": {
+        "en": "Tavoy / Dawei port vicinity; representative port, not a coast-wide boundary",
+        "zh": "土瓦港一带；港口代表地点，并非整个海岸的边界"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "After the 1564 victory over Ayutthaya, Bayinnaung reorganized and garrisoned the ports of Ye, Tavoy, Tenasserim and Mergui, according to historian Pamaree Surakiat. These specific port arrangements do not imply that the entire intervening coast or inland area was administered in the same way.\n\nThe point marks Tavoy’s vicinity. The relationship of Ayutthaya and other subordinate courts with Pegu remained different from direct administration near the Toungoo center.",
+      "zh": "历史学者帕玛丽·苏拉吉叙述，莽应龙于1564年击败阿瑜陀耶后，重组并驻守耶、土瓦、德林达依与丹老等港口。这些具体港口安排并不意味着其间所有海岸与内陆地区均以相同方式治理。\n\n地图点表示土瓦附近。阿瑜陀耶及其他附属宫廷与勃固的关系，仍有别于东吁中心附近的直接行政。"
+    },
+    "dateNote": {
+      "en": "1564 identifies the cited victory and port reorganization; the point does not establish continuous control or a frontier.",
+      "zh": "1564年指所引胜利与港口重组；地点不能证明持续统治或划定疆界。"
+    },
+    "relatedIds": [
+      "ayutthaya-kingdom",
+      "toungoo-changing-courts"
+    ],
+    "sources": [
+      {
+        "title": "Thai-Burmese Warfare During the Sixteenth Century and the Growth of the First Toungoo Empire",
+        "url": "https://thesiamsociety.org/wp-content/uploads/2005/03/JSS_093_0c_PamareeSurakiat_ThaiBurmeseWarfareDuring16thCentu.pdf",
+        "publisher": "Pamaree Surakiat / Journal of the Siam Society",
+        "evidenceNote": "Inspected pp.91–92 and 95–97 on the 1564 port garrisons, later warfare and tributary versus direct rule.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Southeast Asian Ceramics: Timeline and Chronologies",
+        "url": "https://publications.asia.si.edu/publications/seaceramics/time/chronologies.php",
+        "publisher": "Smithsonian Institution",
+        "evidenceNote": "Inspected the regional chronology for the Ayutthaya–Toungoo sequence; dates and authority should be distinguished from mapped frontiers.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "expansion": {
+      "release": 8,
+      "edition": "v14",
+      "workstreams": [
+        "SE1"
+      ],
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "Representative locality and source interpretation; neither the point nor the date establishes a territorial boundary or continuous direct rule.",
+        "zh": "代表地点与来源解读；地点和日期均不能确定疆界或连续直接统治。"
+      }
+    }
+  },
+  {
+    "id": "ayutthaya-tenasserim-campaign-1593",
+    "title": {
+      "en": "Ayutthaya · the 1593 Tavoy and Tenasserim campaign",
+      "zh": "阿瑜陀耶 · 1593年土瓦与德林达依战役"
+    },
+    "start": 1593,
+    "end": 1593,
+    "region": "southeast-asia",
+    "theme": "states",
+    "kind": "event",
+    "importance": 4,
+    "location": {
+      "lat": 14.097962,
+      "lon": 98.194978,
+      "label": "Tavoy / Dawei port vicinity; representative campaign location",
+      "labelI18n": {
+        "en": "Tavoy / Dawei port vicinity; representative campaign location",
+        "zh": "土瓦港一带；战役代表地点"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Following the 1593 battle of Nong Sarai, Surakiat describes Ayutthaya sending forces against Tavoy and Tenasserim; recovery of Mergui and the Tenasserim region was gradual. The episode is part of a longer war and does not establish a single instantaneous boundary for the entire coast.\n\nThe map marks one cited port and links it to the earlier Toungoo reorganization, keeping the change in political relations separate from an unsupported territorial polygon.",
+      "zh": "苏拉吉叙述，1593年农沙莱之战后，阿瑜陀耶派兵攻取土瓦与德林达依；丹老和德林达依地区的恢复是逐渐完成的。这一事件属于更长的战争，并不能确定整条海岸某一时刻的统一疆界。\n\n地图只标出一个所引港口，并与此前东吁重组相连；政治关系的变化不等于有证据支持完整领土轮廓。"
+    },
+    "dateNote": {
+      "en": "The entry marks the 1593 campaign; later recovery was gradual, not necessarily completed in 1593.",
+      "zh": "本条标记1593年战役；后续恢复是渐进过程，不一定于1593年完成。"
+    },
+    "relatedIds": [
+      "ayutthaya-kingdom",
+      "toungoo-port-garrisons-1564"
+    ],
+    "sources": [
+      {
+        "title": "Thai-Burmese Warfare During the Sixteenth Century and the Growth of the First Toungoo Empire",
+        "url": "https://thesiamsociety.org/wp-content/uploads/2005/03/JSS_093_0c_PamareeSurakiat_ThaiBurmeseWarfareDuring16thCentu.pdf",
+        "publisher": "Pamaree Surakiat / Journal of the Siam Society",
+        "evidenceNote": "Inspected pp.91–92: 1593 action against Tavoy and Tenasserim and gradual recovery of Mergui and the wider area.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "expansion": {
+      "release": 8,
+      "edition": "v14",
+      "workstreams": [
+        "SE1"
+      ],
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "Representative locality and source interpretation; neither the point nor the date establishes a territorial boundary or continuous direct rule.",
+        "zh": "代表地点与来源解读；地点和日期均不能确定疆界或连续直接统治。"
+      }
+    }
+  }
+]

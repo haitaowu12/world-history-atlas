@@ -1,0 +1,316 @@
+{
+  "sourceCommit": "ce241c8f0e7d9f88bf383a988b245658db2a9b2b",
+  "featureCount": 650,
+  "layers": [
+    {
+      "descriptor": {
+        "file": "territories-legacy-01.geojson",
+        "license": "GPL-3.0-only",
+        "featureCount": 58,
+        "attribution": "Andr\u00e9 Ourednik and historical-basemaps contributors",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "outputSha256": "321fab26b0ff2cb571a410c949214732e2a28af24661acf61b2129eaacdb5126",
+        "licenseFile": "territories.LICENSE"
+      },
+      "sha256": "321fab26b0ff2cb571a410c949214732e2a28af24661acf61b2129eaacdb5126"
+    },
+    {
+      "descriptor": {
+        "file": "territories-legacy-02.geojson",
+        "license": "GPL-3.0-only",
+        "featureCount": 24,
+        "attribution": "Andr\u00e9 Ourednik and historical-basemaps contributors",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "outputSha256": "122530f086cb85dae4ab1a6de2279fb5a98bff695406c2771eb4527ed30436c7",
+        "licenseFile": "territories.LICENSE"
+      },
+      "sha256": "122530f086cb85dae4ab1a6de2279fb5a98bff695406c2771eb4527ed30436c7"
+    },
+    {
+      "descriptor": {
+        "file": "territories-legacy-03.geojson",
+        "license": "GPL-3.0-only",
+        "featureCount": 17,
+        "attribution": "Andr\u00e9 Ourednik and historical-basemaps contributors",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "outputSha256": "efbcd2e3732ef45f4cd27b05959acc1690199750551a757d43861374bdb048e4",
+        "licenseFile": "territories.LICENSE"
+      },
+      "sha256": "efbcd2e3732ef45f4cd27b05959acc1690199750551a757d43861374bdb048e4"
+    },
+    {
+      "descriptor": {
+        "file": "territories-awmc.geojson",
+        "license": "ODbL-1.0",
+        "featureCount": 1,
+        "attribution": "Ancient World Mapping Center; Barrington Atlas; OpenStreetMap contributors (ODbL 1.0).",
+        "sourceCommit": "7ecf8bccea2efe1e1e9df2daf6001942de73fb87",
+        "sourceSha256": "b1517aa96d43547925985069f8beefa761c361cad5986d35c7d607e86821527d",
+        "outputSha256": "291218e22e24ec701882ea7a1f454ba2e22f3c99eecd3d02d9c8224140ab1d8d",
+        "licenseFile": "territories-awmc.LICENSE"
+      },
+      "sha256": "291218e22e24ec701882ea7a1f454ba2e22f3c99eecd3d02d9c8224140ab1d8d"
+    },
+    {
+      "descriptor": {
+        "file": "territories-jiangshan.geojson",
+        "license": "README GPL-3.0; root MIT notice retained",
+        "featureCount": 3,
+        "attribution": "DeanChensj; haitaowu12/jiangshan-map fork",
+        "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+        "sourceSha256": "a0834b2e77a88b55e3327f51146af05d6d5392823f413eade542cd7306a1ed71",
+        "provenanceNote": "Published upstream schematic; per-outline derivation not documented. No restricted CHGIS data copied.",
+        "outputSha256": "6327ff5a687d642999e74305eb31c07592d19042e8c42a287043ee0c7c8d1029",
+        "licenseFile": "territories-jiangshan.LICENSE.md"
+      },
+      "sha256": "6327ff5a687d642999e74305eb31c07592d19042e8c42a287043ee0c7c8d1029"
+    },
+    {
+      "descriptor": {
+        "file": "territories-modern-history-01.geojson",
+        "license": "GPL-3.0-only",
+        "featureCount": 36,
+        "attribution": "Andr\u00e9 Ourednik and historical-basemaps contributors",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "outputSha256": "6a4f024d1b57df08190ed239eb8b74368b4f49410f893a5228d99ff8410c3089",
+        "licenseFile": "territories-modern-history.LICENSE.md"
+      },
+      "sha256": "6a4f024d1b57df08190ed239eb8b74368b4f49410f893a5228d99ff8410c3089"
+    },
+    {
+      "descriptor": {
+        "file": "territories-modern-history-02.geojson",
+        "license": "GPL-3.0-only",
+        "featureCount": 41,
+        "attribution": "Andr\u00e9 Ourednik and historical-basemaps contributors",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "outputSha256": "abcde27ccf055d265c54f58218d2926a72086b7f40481848665f02090f7fcb0a",
+        "licenseFile": "territories-modern-history.LICENSE.md"
+      },
+      "sha256": "abcde27ccf055d265c54f58218d2926a72086b7f40481848665f02090f7fcb0a"
+    },
+    {
+      "descriptor": {
+        "file": "territories-modern-history-03.geojson",
+        "license": "GPL-3.0-only",
+        "featureCount": 45,
+        "attribution": "Andr\u00e9 Ourednik and historical-basemaps contributors",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "outputSha256": "c0ac4f361f0373f57c819d51acb490891234b46edcc5fa52208854fc9f90c850",
+        "licenseFile": "territories-modern-history.LICENSE.md"
+      },
+      "sha256": "c0ac4f361f0373f57c819d51acb490891234b46edcc5fa52208854fc9f90c850"
+    },
+    {
+      "descriptor": {
+        "file": "territories-modern-history-04.geojson",
+        "license": "GPL-3.0-only",
+        "featureCount": 20,
+        "attribution": "Andr\u00e9 Ourednik and historical-basemaps contributors",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "outputSha256": "e2be9dfea14154303e970753ed27d014206d50271569beea8767fcd20ec00730",
+        "licenseFile": "territories-modern-history.LICENSE.md"
+      },
+      "sha256": "e2be9dfea14154303e970753ed27d014206d50271569beea8767fcd20ec00730"
+    },
+    {
+      "descriptor": {
+        "file": "territories-context-01.geojson",
+        "license": "GPL-3.0-only",
+        "featureCount": 48,
+        "attribution": "Andr\u00e9 Ourednik and historical-basemaps contributors; atlas temporal context curation",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "outputSha256": "1bd08ff656cb3040361206cf7984e2ddd7d0bfb119dc438c37e7cd88a70ed37a",
+        "licenseFile": "territories.LICENSE"
+      },
+      "sha256": "1bd08ff656cb3040361206cf7984e2ddd7d0bfb119dc438c37e7cd88a70ed37a"
+    },
+    {
+      "descriptor": {
+        "file": "territories-context-02.geojson",
+        "license": "GPL-3.0-only",
+        "featureCount": 29,
+        "attribution": "Andr\u00e9 Ourednik and historical-basemaps contributors; atlas temporal context curation",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "outputSha256": "a6d359107b84454c80582c10f13fa25bbfa249b73ea671d5631e045f9bd2b35b",
+        "licenseFile": "territories.LICENSE"
+      },
+      "sha256": "a6d359107b84454c80582c10f13fa25bbfa249b73ea671d5631e045f9bd2b35b"
+    },
+    {
+      "descriptor": {
+        "file": "territories-context-03.geojson",
+        "license": "GPL-3.0-only",
+        "featureCount": 23,
+        "attribution": "Andr\u00e9 Ourednik and historical-basemaps contributors; atlas temporal context curation",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "outputSha256": "889b4572598e19f9731257d268c4a7f8f60eef8c140fa1ede6fcfa9167a78e0d",
+        "licenseFile": "territories.LICENSE"
+      },
+      "sha256": "889b4572598e19f9731257d268c4a7f8f60eef8c140fa1ede6fcfa9167a78e0d"
+    },
+    {
+      "descriptor": {
+        "file": "territories-context-04.geojson",
+        "license": "GPL-3.0-only",
+        "featureCount": 19,
+        "attribution": "Andr\u00e9 Ourednik and historical-basemaps contributors; atlas temporal context curation",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "outputSha256": "6fa6b0b68544249e454ca8af2cde0b5f53e63dbb6e6e8f51af0bafce0382a28f",
+        "licenseFile": "territories.LICENSE"
+      },
+      "sha256": "6fa6b0b68544249e454ca8af2cde0b5f53e63dbb6e6e8f51af0bafce0382a28f"
+    },
+    {
+      "descriptor": {
+        "file": "territories-context-05.geojson",
+        "license": "GPL-3.0-only",
+        "featureCount": 29,
+        "attribution": "Andr\u00e9 Ourednik and historical-basemaps contributors; atlas temporal context curation",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "outputSha256": "49a5dc2c6399b9c28faf16f8b8679347cc0c732eac7d5248a705d22ac9d3c68b",
+        "licenseFile": "territories.LICENSE"
+      },
+      "sha256": "49a5dc2c6399b9c28faf16f8b8679347cc0c732eac7d5248a705d22ac9d3c68b"
+    },
+    {
+      "descriptor": {
+        "file": "territories-context-06.geojson",
+        "license": "GPL-3.0-only",
+        "featureCount": 23,
+        "attribution": "Andr\u00e9 Ourednik and historical-basemaps contributors; atlas temporal context curation",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "outputSha256": "c2f50c451e4e6980d7ac37d6a7061ed4d6b2e060d096ae045b4b3bbea4bd0029",
+        "licenseFile": "territories.LICENSE"
+      },
+      "sha256": "c2f50c451e4e6980d7ac37d6a7061ed4d6b2e060d096ae045b4b3bbea4bd0029"
+    },
+    {
+      "descriptor": {
+        "file": "territories-context-07.geojson",
+        "license": "GPL-3.0-only",
+        "featureCount": 36,
+        "attribution": "Andr\u00e9 Ourednik and historical-basemaps contributors; atlas temporal context curation",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "outputSha256": "8a839e533c6054f5da2fd134eb3f4f13ac9792ca3e445a014b7ba8da46a54c15",
+        "licenseFile": "territories.LICENSE"
+      },
+      "sha256": "8a839e533c6054f5da2fd134eb3f4f13ac9792ca3e445a014b7ba8da46a54c15"
+    },
+    {
+      "descriptor": {
+        "file": "territories-context-08.geojson",
+        "license": "GPL-3.0-only",
+        "featureCount": 64,
+        "attribution": "Andr\u00e9 Ourednik and historical-basemaps contributors; atlas temporal context curation",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "outputSha256": "53aef27e99bf32a861c699526e778c054e6e26721e11f1d4300257d3c4b5ea03",
+        "licenseFile": "territories.LICENSE"
+      },
+      "sha256": "53aef27e99bf32a861c699526e778c054e6e26721e11f1d4300257d3c4b5ea03"
+    },
+    {
+      "descriptor": {
+        "file": "territories-continuity-01.geojson",
+        "license": "GPL-3.0-only",
+        "licenseFile": "territories.LICENSE",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "featureCount": 23,
+        "attribution": "Andr\u00e9 Ourednik and historical-basemaps contributors; bounded Atlas regional context selection",
+        "outputSha256": "926198e1ae87f959cab858ac51206b4c992a1e95ebe44fbc329f490a59157abf"
+      },
+      "sha256": "926198e1ae87f959cab858ac51206b4c992a1e95ebe44fbc329f490a59157abf"
+    },
+    {
+      "descriptor": {
+        "file": "territories-early-regional-01.geojson",
+        "license": "GPL-3.0-only",
+        "licenseFile": "territories.LICENSE",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "featureCount": 28,
+        "outputSha256": "a1eaf35cd78e23577d16e9a6aa8d2caefdea3bd54a93c94017561195a2408b1d",
+        "attribution": "Andr\u00e9 Ourednik and contributors; bounded Atlas regional context selection"
+      },
+      "sha256": "a1eaf35cd78e23577d16e9a6aa8d2caefdea3bd54a93c94017561195a2408b1d"
+    },
+    {
+      "descriptor": {
+        "file": "territories-regional-gaps-01.geojson",
+        "license": "GPL-3.0-only",
+        "licenseFile": "territories.LICENSE",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "featureCount": 60,
+        "outputSha256": "e85337992e89288573ff4ed240d15eea5e47fd569a62b4ffc5da9cc5e2f9d1ce",
+        "attribution": "Andr\u00e9 Ourednik and contributors; bounded Atlas regional context selection"
+      },
+      "sha256": "e85337992e89288573ff4ed240d15eea5e47fd569a62b4ffc5da9cc5e2f9d1ce"
+    },
+    {
+      "descriptor": {
+        "file": "territories-gupta-schematic-375.geojson",
+        "license": "CC-BY-SA-3.0",
+        "licenseFile": "gupta-schematic-375.LICENSE",
+        "featureCount": 2,
+        "outputSha256": "e11cf797c1dcface97ab069413b93a7659867aa9f55fc46e6285ea36986f5e81",
+        "attribution": "Woudloper / Wikimedia Commons; map adapted and approximately georegistered by World History Atlas"
+      },
+      "sha256": "e11cf797c1dcface97ab069413b93a7659867aa9f55fc46e6285ea36986f5e81"
+    },
+    {
+      "descriptor": {
+        "file": "territories-gupta-schematic-450.geojson",
+        "license": "CC-BY-SA-4.0",
+        "licenseFile": "gupta-schematic-450.LICENSE",
+        "featureCount": 2,
+        "outputSha256": "83a56c7053ada4975de2a7876c56bb96f067e60f968816f07c7d78424d039743",
+        "attribution": "Woudloper / Wikimedia Commons; map adapted and approximately georegistered by World History Atlas"
+      },
+      "sha256": "83a56c7053ada4975de2a7876c56bb96f067e60f968816f07c7d78424d039743"
+    },
+    {
+      "descriptor": {
+        "file": "territories-three-region-transitions-01.geojson",
+        "license": "GPL-3.0-only",
+        "licenseFile": "territories.LICENSE",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "featureCount": 12,
+        "outputSha256": "654fca31a5f9581fe0b29d5cc1588e17a222a1c07f3320799fc6c76043d80410",
+        "attribution": "Andr\u00e9 Ourednik and contributors; reviewed Borno and Ayutthaya regional context"
+      },
+      "sha256": "654fca31a5f9581fe0b29d5cc1588e17a222a1c07f3320799fc6c76043d80410"
+    },
+    {
+      "descriptor": {
+        "file": "territories-later-gupta-context.geojson",
+        "license": "CC-BY-SA-3.0",
+        "licenseFile": "gupta-schematic-375.LICENSE",
+        "featureCount": 2,
+        "outputSha256": "2f858a7ed9e1d79d753f2d94f5273081c8aee11ba57d58c6db191e591545f1bf",
+        "attribution": "Woudloper / Wikimedia Commons; approximately georegistered by World History Atlas"
+      },
+      "sha256": "2f858a7ed9e1d79d753f2d94f5273081c8aee11ba57d58c6db191e591545f1bf"
+    },
+    {
+      "descriptor": {
+        "file": "territories-later-pegu-context.geojson",
+        "license": "GPL-3.0-only",
+        "licenseFile": "territories.LICENSE",
+        "featureCount": 1,
+        "outputSha256": "6b8ea5a2a3231327de8a7f223c24168bf6c92528e1aae19f23aadeacddb98e54",
+        "attribution": "Andr\u00e9 Ourednik and contributors; Pegu regional context"
+      },
+      "sha256": "6b8ea5a2a3231327de8a7f223c24168bf6c92528e1aae19f23aadeacddb98e54"
+    },
+    {
+      "descriptor": {
+        "file": "territories-later-borno-context.geojson",
+        "license": "CC-BY-4.0",
+        "licenseFile": "borno-hiribarren.LICENSE",
+        "featureCount": 4,
+        "outputSha256": "8b200e61ebcc55057fce00e7942b3892d6525b91a843f459163fbf7480ad46bf",
+        "attribution": "Vincent Hiribarren; raster core traced and approximately georeferenced by World History Atlas"
+      },
+      "sha256": "8b200e61ebcc55057fce00e7942b3892d6525b91a843f459163fbf7480ad46bf"
+    }
+  ]
+}
