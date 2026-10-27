@@ -629,7 +629,7 @@ function contentCoverageHTML(){
  const rows=expansionCoverage(expansionRecords,expansionManifest.workstreams||[]);
  return `<h3>${state.lang==='zh'?'历史水系与通道':'Historical waterways and corridors'}</h3><p>${esc(localized(chinaWaterways.note))}</p><p><a href="${esc(chinaWaterways.source.url)}" target="_blank" rel="noopener noreferrer">${t('viewSource')}</a></p><h3>${t('expansionCoverage')}</h3><p>${t('expansionCoverageNote')}</p><div class="content-coverage">${rows.map(r=>`<button class="elsewhere-card" data-action="open-course" data-id="course-expansion-${r.id.toLowerCase()}"><span><strong>${esc(localized(r.title))}</strong><small>${r.records} ${t('records')} · ${r.biographies} ${t('people')}</small></span>↗</button>`).join('')}</div>`;
 }
-async function loadJSON(file){const url=new URL(file,location.href);url.searchParams.set('atlas','0.15.0-later-gaps2');const response=await fetch(url);if(!response.ok)throw new Error(`A local atlas file could not load: ${file}`);return response.json();}
+async function loadJSON(file){const url=new URL(file,location.href);url.searchParams.set('atlas','0.15.0-gupta-toungoo');const response=await fetch(url);if(!response.ok)throw new Error(`A local atlas file could not load: ${file}`);return response.json();}
 async function init(){try{
  const files=['./data/history.json','./data/people.json','./data/routes.json','./assets/land.geojson','./data/map-snapshots.json','./assets/rivers.geojson','./data/courses.json','./data/contemporary-world.json','./data/disputed-lines.geojson','./data/disputed-areas.geojson','./data/china-import-manifest.json','./data/china-library.json','./data/china-reviews.json'];
  let histories,chinaReviews;
