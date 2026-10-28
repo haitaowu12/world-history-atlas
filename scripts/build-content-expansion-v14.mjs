@@ -9,13 +9,13 @@ const root=new URL('../',import.meta.url);
 const read=p=>JSON.parse(fs.readFileSync(new URL(p,root),'utf8'));
 const write=(p,value)=>fs.writeFileSync(new URL(p,root),JSON.stringify(value,null,2)+'\n');
 const baseline=read('dist/data/content-expansion-v13.json');
-const newFiles=['expansion-early-china-v14.json','expansion-gupta-toungoo-v14.json','expansion-cross-regional-v14.json','expansion-indus-religions-indigenous-v14.json'];
+const newFiles=['expansion-early-china-v14.json','expansion-gupta-toungoo-v14.json','expansion-cross-regional-v14.json','expansion-indus-religions-indigenous-v14.json','expansion-early-faiths-v14.json'];
 const files=[...baseline.files.map(f=>f.file),...newFiles].map(file=>{
   const bytes=fs.readFileSync(new URL('dist/data/'+file,root));
   if(bytes.length>450000)throw Error(file+': split this content file before publication');
   return {file,records:JSON.parse(bytes).length,sha256:createHash('sha256').update(bytes).digest('hex'),bytes:bytes.length};
 });
-const publishedV14=read('docs/INDUS_RELIGIONS_INDIGENOUS_BASELINE_2026_10_27.json');
+const publishedV14=read('docs/EARLY_FAITHS_BASELINE_2026_10_27.json');
 for(const frozen of publishedV14.contentFiles) {
   const actual=files.find(f=>f.file===frozen.file);
   if(JSON.stringify(actual)!==JSON.stringify(frozen))throw Error(frozen.file+': published V14 baseline changed');
@@ -33,7 +33,7 @@ const errors=auditExpansion(rows,baseline,all);
 if(errors.length)throw Error(errors.join('\n'));
 const coverage=expansionCoverage(rows,baseline.workstreams);
 const oldCourses=read('dist/data/'+baseline.coursesFile);
-const shortStudies=[...read('dist/data/early-china-study-v14.json'),...read('dist/data/cross-regional-studies-v14.json'),...read('dist/data/indus-religions-indigenous-studies-v14.json')];
+const shortStudies=[...read('dist/data/early-china-study-v14.json'),...read('dist/data/cross-regional-studies-v14.json'),...read('dist/data/indus-religions-indigenous-studies-v14.json'),...read('dist/data/early-faiths-studies-v14.json')];
 const episodeYears=Object.fromEntries(shortStudies.flatMap(c=>Object.entries(c.mapYears)).filter(([id])=>delta.some(r=>r.id===id)));
 const courses=coverage.map(stream=>{
   const prior=oldCourses.find(c=>c.workstream===stream.id);
@@ -59,8 +59,8 @@ const output={schemaVersion:1,version:'0.15.0',preparedAt:'2026-10-27',
   counts:{...counts(rows),readingPaths:courses.length,releases:Object.fromEntries([1,2,3,4,5,6,7,8].map(n=>[n,rows.filter(r=>r.expansion.release===n).length]))},
   addition:{edition:'v14',release:8,files:newFiles,...counts(delta),recordIds:delta.map(r=>r.id),
     regions:Object.fromEntries([...new Set(delta.map(r=>r.region))].map(region=>[region,counts(delta.filter(r=>r.region===region))]))},
-  researchService:{...baseline.researchService,followup:{method:'Early-China and Gupta/Toungoo source texts were inspected in the in-app browser. Cross-regional and Indus, religious and Indigenous continuation sources were inspected in Chrome by the dedicated Codex browser agent and integrated with their access limits; earlier releases retain their own disclosures.',checkedAt:'2026-10-27'}},
-  method:{en:'V14 adds early China evidence distinctions, dated Gupta and Toungoo–Ayutthaya evidence, and histories of the Cold War, Atlantic exchange, migrations, the Indus region, religious traditions and Indigenous North America. Yu/Shun is an undated received tradition; Xia remains unconfirmed, Erlitou archaeological and Shang supported by royal-center evidence. Narrative dates do not establish territorial boundaries or the end of living traditions. Prior inputs remain frozen.',zh:'V14新增早期中国证据区分、笈多和东吁—阿瑜陀耶证据，以及冷战、大西洋交流、迁徙、印度河地区、宗教传统与北美原住民历史。虞舜是未确立绝对纪年的传世叙述；夏的身份未证实，二里头为考古地点，商有王室中心材料。叙事年代不推导疆界，也不表示活态传统结束；冻结既有输入。'},
+  researchService:{...baseline.researchService,followup:{method:'Early-China and Gupta/Toungoo source texts were inspected in the in-app browser. Cross-regional, Indus, Indigenous and early-faith continuation sources were inspected in Chrome by a dedicated Codex browser agent and integrated with their access limits; earlier releases retain their own disclosures.',checkedAt:'2026-10-27'}},
+  method:{en:'V14 adds early China evidence distinctions, dated Gupta and Toungoo–Ayutthaya evidence, and histories of the Cold War, Atlantic exchange, migrations, the Indus region, Indigenous North America and selected early religious traditions. Yu/Shun is an undated received tradition; Xia remains unconfirmed, Erlitou archaeological and Shang supported by royal-center evidence. Religious and narrative focus dates do not establish territorial boundaries or the end of living traditions. Prior inputs remain frozen.',zh:'V14新增早期中国证据区分、笈多和东吁—阿瑜陀耶证据，以及冷战、大西洋交流、迁徙、印度河地区、北美原住民与部分早期宗教传统历史。虞舜是未确立绝对纪年的传世叙述；夏的身份未证实，二里头为考古地点，商有王室中心材料。宗教与叙事关注年代不推导疆界，也不表示活态传统结束；冻结既有输入。'},
   coverage:coverage.map(({sourceURLs,...stream})=>({...stream,sourceCount:sourceURLs.length}))};
 // Write derived outputs only after every input has passed the audit.
 write('dist/data/expansion-courses-v14.json',courses);

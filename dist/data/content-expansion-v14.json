@@ -157,6 +157,12 @@
       "records": 5,
       "sha256": "4d9156c67fc61fdffaba22808e5c6a004965723b8cc9848feecfc54add621060",
       "bytes": 21564
+    },
+    {
+      "file": "expansion-early-faiths-v14.json",
+      "records": 13,
+      "sha256": "7a4dd2fc099b010b9f4488eafcf9b72e3c21cfe379d2db3228428f9cdf91b3cf",
+      "bytes": 59596
     }
   ],
   "evidenceReviewsFile": "evidence-followups-v11.json",
@@ -625,12 +631,12 @@
     }
   ],
   "counts": {
-    "records": 527,
+    "records": 540,
     "biographies": 151,
     "biographyMilestones": 480,
     "politicalOverviews": 71,
-    "sourceURLs": 942,
-    "readingPaths": 43,
+    "sourceURLs": 954,
+    "readingPaths": 47,
     "releases": {
       "1": 60,
       "2": 121,
@@ -639,7 +645,7 @@
       "5": 28,
       "6": 26,
       "7": 8,
-      "8": 25
+      "8": 38
     }
   },
   "addition": {
@@ -649,13 +655,14 @@
       "expansion-early-china-v14.json",
       "expansion-gupta-toungoo-v14.json",
       "expansion-cross-regional-v14.json",
-      "expansion-indus-religions-indigenous-v14.json"
+      "expansion-indus-religions-indigenous-v14.json",
+      "expansion-early-faiths-v14.json"
     ],
-    "records": 25,
+    "records": 38,
     "biographies": 1,
     "biographyMilestones": 3,
     "politicalOverviews": 1,
-    "sourceURLs": 37,
+    "sourceURLs": 49,
     "recordIds": [
       "xia-tradition-and-erli-tou",
       "erlitou-urban-bronze-centre",
@@ -681,7 +688,20 @@
       "indus-post-urban-transformations",
       "sivullirmiut-early-arctic-history",
       "indigenous-north-america-nations-continuity",
-      "hinduism-living-traditions"
+      "hinduism-living-traditions",
+      "early-buddhist-teachings-communities",
+      "buddhist-art-mathura-gandhara",
+      "sikh-gurus-punjab-1469-1708",
+      "khalsa-anandpur-1699",
+      "jewish-communities-second-temple",
+      "jerusalem-second-temple-destruction-70",
+      "rabbinic-judaism-after-70",
+      "lumbini-ashoka-pillar-249-bce",
+      "early-christianity-jewish-context",
+      "paul-corinth-letters-50s",
+      "christian-jewish-communities-late-antiquity",
+      "council-of-nicaea-325",
+      "milan-toleration-313"
     ],
     "regions": {
       "east-asia": {
@@ -692,11 +712,11 @@
         "sourceURLs": 5
       },
       "south-asia": {
-        "records": 5,
+        "records": 10,
         "biographies": 0,
         "biographyMilestones": 0,
         "politicalOverviews": 0,
-        "sourceURLs": 7
+        "sourceURLs": 12
       },
       "southeast-asia": {
         "records": 4,
@@ -706,11 +726,11 @@
         "sourceURLs": 6
       },
       "europe": {
-        "records": 3,
+        "records": 5,
         "biographies": 0,
         "biographyMilestones": 0,
         "politicalOverviews": 0,
-        "sourceURLs": 6
+        "sourceURLs": 10
       },
       "latin-america": {
         "records": 2,
@@ -732,6 +752,13 @@
         "biographyMilestones": 3,
         "politicalOverviews": 0,
         "sourceURLs": 8
+      },
+      "west-central-asia": {
+        "records": 6,
+        "biographies": 0,
+        "biographyMilestones": 0,
+        "politicalOverviews": 0,
+        "sourceURLs": 6
       }
     }
   },
@@ -747,13 +774,13 @@
     },
     "evidencePolicy": "Historical evidence comes from the individually cited sources and their disclosed retrieval limits.",
     "followup": {
-      "method": "Early-China and Gupta/Toungoo source texts were inspected in the in-app browser. Cross-regional and Indus, religious and Indigenous continuation sources were inspected in Chrome by the dedicated Codex browser agent and integrated with their access limits; earlier releases retain their own disclosures.",
+      "method": "Early-China and Gupta/Toungoo source texts were inspected in the in-app browser. Cross-regional, Indus, Indigenous and early-faith continuation sources were inspected in Chrome by a dedicated Codex browser agent and integrated with their access limits; earlier releases retain their own disclosures.",
       "checkedAt": "2026-10-27"
     }
   },
   "method": {
-    "en": "V14 adds early China evidence distinctions, dated Gupta and Toungoo–Ayutthaya evidence, and histories of the Cold War, Atlantic exchange, migrations, the Indus region, religious traditions and Indigenous North America. Yu/Shun is an undated received tradition; Xia remains unconfirmed, Erlitou archaeological and Shang supported by royal-center evidence. Narrative dates do not establish territorial boundaries or the end of living traditions. Prior inputs remain frozen.",
-    "zh": "V14新增早期中国证据区分、笈多和东吁—阿瑜陀耶证据，以及冷战、大西洋交流、迁徙、印度河地区、宗教传统与北美原住民历史。虞舜是未确立绝对纪年的传世叙述；夏的身份未证实，二里头为考古地点，商有王室中心材料。叙事年代不推导疆界，也不表示活态传统结束；冻结既有输入。"
+    "en": "V14 adds early China evidence distinctions, dated Gupta and Toungoo–Ayutthaya evidence, and histories of the Cold War, Atlantic exchange, migrations, the Indus region, Indigenous North America and selected early religious traditions. Yu/Shun is an undated received tradition; Xia remains unconfirmed, Erlitou archaeological and Shang supported by royal-center evidence. Religious and narrative focus dates do not establish territorial boundaries or the end of living traditions. Prior inputs remain frozen.",
+    "zh": "V14新增早期中国证据区分、笈多和东吁—阿瑜陀耶证据，以及冷战、大西洋交流、迁徙、印度河地区、北美原住民与部分早期宗教传统历史。虞舜是未确立绝对纪年的传世叙述；夏的身份未证实，二里头为考古地点，商有王室中心材料。宗教与叙事关注年代不推导疆界，也不表示活态传统结束；冻结既有输入。"
   },
   "coverage": [
     {
@@ -1147,12 +1174,20 @@
         "person-hunayn-ibn-ishaq",
         "person-al-biruni",
         "person-ibn-al-haytham",
-        "kanesh-merchant-households"
+        "kanesh-merchant-households",
+        "jewish-communities-second-temple",
+        "jerusalem-second-temple-destruction-70",
+        "rabbinic-judaism-after-70",
+        "early-christianity-jewish-context",
+        "paul-corinth-letters-50s",
+        "christian-jewish-communities-late-antiquity",
+        "council-of-nicaea-325",
+        "milan-toleration-313"
       ],
-      "records": 12,
+      "records": 20,
       "biographies": 4,
       "politicalOverviews": 0,
-      "sourceCount": 22
+      "sourceCount": 29
     },
     {
       "id": "WA2",
@@ -1255,12 +1290,16 @@
         "damodarpur-charter-224",
         "indus-civilization-urban-networks",
         "indus-post-urban-transformations",
-        "hinduism-living-traditions"
+        "hinduism-living-traditions",
+        "early-buddhist-teachings-communities",
+        "buddhist-art-mathura-gandhara",
+        "sikh-gurus-punjab-1469-1708",
+        "lumbini-ashoka-pillar-249-bce"
       ],
-      "records": 14,
+      "records": 18,
       "biographies": 2,
       "politicalOverviews": 0,
-      "sourceCount": 20
+      "sourceCount": 25
     },
     {
       "id": "SA2",
@@ -1284,12 +1323,14 @@
         "bengal-diwani-1765",
         "coromandel-textile-work",
         "person-akbar",
-        "mughal-translation-workshops"
+        "mughal-translation-workshops",
+        "sikh-gurus-punjab-1469-1708",
+        "khalsa-anandpur-1699"
       ],
-      "records": 10,
+      "records": 12,
       "biographies": 1,
       "politicalOverviews": 6,
-      "sourceCount": 15
+      "sourceCount": 17
     },
     {
       "id": "SA3",
@@ -1919,12 +1960,17 @@
         "person-julius-caesar",
         "punic-wars-mediterranean",
         "person-joan-of-arc",
-        "hundred-years-war"
+        "hundred-years-war",
+        "early-christianity-jewish-context",
+        "paul-corinth-letters-50s",
+        "christian-jewish-communities-late-antiquity",
+        "council-of-nicaea-325",
+        "milan-toleration-313"
       ],
-      "records": 18,
+      "records": 23,
       "biographies": 5,
       "politicalOverviews": 7,
-      "sourceCount": 38
+      "sourceCount": 43
     },
     {
       "id": "EU2",
