@@ -61,6 +61,25 @@ test('Canadian fills follow Confederation, western accession, Newfoundland and N
  features=await rows(1999);assert.ok(features.some(f=>f.properties.name.en==='Nunavut'));
 });
 
+test('dated replacements never erase global US or Canada while files load or fail',async()=>{
+ const mock={countries:Object.fromEntries(['USA','CAN'].map((code,i)=>[code,{sharedFiles:[],phases:[{id:code+'-1921',start:1921,end:1921,sourceYear:1920,files:[{file:code}],sourceRows:[i+1],divisions:1}]}]))};
+ const pending=new Map();const wait=code=>new Promise((resolve,reject)=>pending.set(code,{resolve,reject}));
+ const subject=createAmericasLoader(mock,wait),global=[{properties:{id:'usa-global',gwcode:2}},{properties:{id:'can-global',gwcode:20}}];
+ const feature=(code,row)=>({properties:{id:code+'-dated',sourceRow:row}});
+ const loading=subject.load(1921);
+ assert.deepEqual([...subject.expected(1921)].sort(),['CAN','USA']);
+ assert.equal(subject.covered(1921).size,0);
+ assert.deepEqual(composeAmericasFeatures(global,1921,subject.covered(1921),subject.peek(1921)).map(f=>f.properties.id),['usa-global','can-global']);
+ pending.get('USA').resolve({features:[feature('usa',1)]});await new Promise(resolve=>setImmediate(resolve));
+ assert.deepEqual([...subject.covered(1921)],['USA']);
+ assert.deepEqual(composeAmericasFeatures(global,1921,subject.covered(1921),subject.peek(1921)).map(f=>f.properties.id),['can-global','usa-dated']);
+ pending.get('CAN').reject(new Error('temporary failure'));await assert.rejects(loading,/temporary failure/);
+ assert.equal(subject.ready(1921),false);assert.deepEqual([...subject.covered(1921)],['USA']);
+ const retry=subject.load(1921);pending.get('CAN').resolve({features:[feature('can',2)]});await retry;
+ assert.equal(subject.ready(1921),true);assert.deepEqual([...subject.covered(1921)].sort(),['CAN','USA']);
+ assert.deepEqual(composeAmericasFeatures(global,1921,subject.covered(1921),subject.peek(1921)).map(f=>f.properties.id).sort(),['can-dated','usa-dated']);
+});
+
 test('source seam cannot recolor Alaska or duplicate old North American political fills',async()=>{
  const features=await rows(1900),us=features.filter(f=>f.properties.parent==='USA'),palette=mapDisplayPalette(us,{scheme:'mineral'});
  assert.equal(new Set(us.map(f=>palette.get(f.properties.id))).size,1,'statehood does not establish the acquisition date');

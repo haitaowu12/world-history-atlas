@@ -26,10 +26,15 @@ export function createAmericasLoader(index,loadCollection){
   }).finally(()=>pending.delete(key));
   pending.set(key,request);return request;
  }
- return {index,covered:year=>new Set(americasPhasesAt(index,year).map(item=>item.code)),
+ return {index,expected:year=>new Set(americasPhasesAt(index,year).map(item=>item.code)),
+  // Do not remove a global country reference until its dated replacement is
+  // actually available. US and Canada may finish loading independently.
+  covered:year=>new Set(americasPhasesAt(index,year).filter(item=>phases.has(item.phase.id)).map(item=>item.code)),
   peek:year=>americasPhasesAt(index,year).flatMap(item=>phases.get(item.phase.id)||[]),
   ready:year=>americasPhasesAt(index,year).every(item=>phases.has(item.phase.id)),
-  load:year=>Promise.all(americasPhasesAt(index,year).map(loadPhase)).then(rows=>rows.flat())};
+  load:async year=>{const results=await Promise.allSettled(americasPhasesAt(index,year).map(loadPhase));
+   const failed=results.find(result=>result.status==='rejected');if(failed)throw failed.reason;
+   return results.flatMap(result=>result.value);}};
 }
 
 const correctedRussia=new WeakMap();

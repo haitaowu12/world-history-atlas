@@ -152,3 +152,23 @@ dialog::backdrop { background:#122a42a8; }
 .source-original summary { cursor:pointer; text-decoration:underline; text-underline-offset:.14em; }
 .detail-sources .source-original small,.source-catalog .source-original small { display:block; margin-top:.3rem; color:inherit; font-size:14px; line-height:1.55; }
 .source-translation-status { display:block; margin-top:.3rem; color:#536550; }
+
+/* Hatched references preserve the country fill; diamonds represent places. */
+.occupation-area-layer { pointer-events:none; }
+.occupation-reference { stroke:none; }
+.occupation-point { cursor:pointer; }
+.occupation-point-halo { fill:#fffaf0; fill-opacity:.95; stroke:#704451; stroke-width:1; }
+.occupation-point-symbol { fill:#824658; stroke:#fffaf0; stroke-width:.7; }
+.occupation-point:hover .occupation-point-halo,.occupation-point:focus-visible .occupation-point-halo { stroke:#1f4658; stroke-width:2; }
+.occupation-point:focus-visible { outline:none; }
+.occupation-key { display:flex; flex-direction:column; align-items:flex-start; gap:2px; margin-top:5px; padding:5px 7px; width:max-content; max-width:100%; background:#fffffff2; border-left:3px solid #824658; border-radius:2px; pointer-events:auto; }
+.occupation-key button { padding:0; border:0; color:#593a49; background:none; font-size:10px; font-weight:650; text-align:left; text-decoration:underline; text-underline-offset:2px; }
+.occupation-key small { color:#4a5960; font-size:9px; line-height:1.35; }
+.occupation-authorities { display:flex; flex-wrap:wrap; gap:3px 9px; color:#4a5960; font-size:9px; }
+.occupation-authorities span { display:inline-flex; align-items:center; gap:4px; }
+.occupation-swatch { width:10px; height:10px; border:1px solid currentColor; background:repeating-linear-gradient(135deg,currentColor 0 1.5px,transparent 1.5px 4px); }
+.occupation-swatch.germany { color:#8c3549; } .occupation-swatch.axis { color:#98733d; }
+.occupation-swatch.western-allies { color:#286e81; } .occupation-swatch.soviet { color:#70468b; }
+.map-load-notice { margin-top:5px; padding:6px 8px; max-width:340px; background:#fffaf0f2; border-left:3px solid #b28146; color:#5c4939; border-radius:2px; font-size:10px; line-height:1.4; pointer-events:auto; }
+.map-load-notice button { padding:2px 5px; }
+@media(max-width:700px) { .occupation-key { max-width:210px; } .occupation-key button,.occupation-key small { font-size:9px; } }

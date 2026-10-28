@@ -1,6 +1,6 @@
 // One map purpose, independent optional detail. Source dates are never changed.
 export const DEFAULT_LAYERS=Object.freeze({view:'history',territories:true,modern:false,
-  rivers:true,labels:true,markers:true,ghost:false,administrative:true,waterways:true,corridors:false,regions:true});
+  rivers:true,labels:true,markers:true,ghost:false,administrative:true,waterways:true,corridors:false,regions:true,occupations:true});
 
 export function selectMapView(layers,view){
   if(!['history','reference'].includes(view))return {...layers};
