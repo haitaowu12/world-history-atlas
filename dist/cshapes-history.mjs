@@ -8,6 +8,8 @@ const RUSSIA='https://history.state.gov/milestones/1989-1992/collapse-soviet-uni
 const NAMES='https://www.gov.uk/government/publications/country-names/timeline-of-country-name-changes-in-hmg-use-1919-to-present';
 const TREATIES='https://treaties.un.org/pages/historicalinfo.aspx';
 const GERMANY='https://www.bundesregierung.de/breg-en/service/archive/archive/the-chancellor-who-reunited-germany-413888';
+const VIETNAM_UNION='https://digitallibrary.un.org/record/3979563?ln=en';
+const GENEVA_1954='https://history.state.gov/historicaldocuments/frus1952-54v16/d1035';
 const name=(en,zh)=>({en,zh});
 // These corrections concern labels, never geometry validity. The original alias
 // remains in sourceName. A short geographical label does not imply independence.
@@ -30,8 +32,8 @@ export function cshapesNameAt(feature,year){
   case 780:return year<1972?name('Ceylon','锡兰'):name('Sri Lanka','斯里兰卡');
   case 775:return year<1989?name('Burma','缅甸'):name('Myanmar','缅甸');
   case 800:return year<1939||(year>=1945&&year<=1948)?name('Siam','暹罗'):name('Thailand','泰国');
-  case 816:return year<1975?name('North Vietnam','北越'):name('Vietnam','越南');
-  case 817:return name('South Vietnam','南越');
+  case 816:return year===1954?name('Northern Vietnam · provisional 1954 reference','越南北部 · 1954年临时参照'):year<1975?name('North Vietnam','北越'):year===1975?name('Vietnam · 1975 transition reference','越南 · 1975年过渡参照'):name('Vietnam','越南');
+  case 817:return year===1954?name('Southern Vietnam · provisional 1954 reference','越南南部 · 1954年临时参照'):name('South Vietnam','南越');
   case 815:return name('Vietnam · French colonial units','越南 · 法国殖民地单元');
   case 432:return year<1960?name('French Sudan','法属苏丹'):name('Mali','马里');
   case 452:return year<1957?name('Gold Coast','黄金海岸'):name('Ghana','加纳');
@@ -61,7 +63,12 @@ export function selectCshapesAt(data,year){
  const key=year*10000+1231,selected=[];
  for(const f of data.features){const p=f.properties;if(p.validFromKey>key||p.validToKey<key)continue;
   const extra=p.gwcode===365?RUSSIA:[255,260,265].includes(p.gwcode)?GERMANY:NAMES;
-  selected.push({...f,properties:{...p,name:cshapesNameAt(f,year),selectedDate:`${year}-12-31`,annualConvention:'December 31',sources:[...p.sources,{title:'Historical identity and name chronology',url:extra,publisher:extra===NAMES?'UK Permanent Committee on Geographical Names':extra===RUSSIA?'US Department of State':'German Federal Government',checkedAt:'2026-10-23',evidenceNote:'Selected political identity transitions and historical labels; geometry and period validity remain CShapes source coding.'},{title:'UN Treaty Collection: historical names and state succession',url:TREATIES,publisher:'United Nations',checkedAt:'2026-10-23',evidenceNote:'Name-change and state-succession notes; not evidence of every historical frontier.'}]}});
+  // CShapes codes one enlarged unit from May 1975. Formal unification was in
+  // July 1976: describe this source limitation without inventing new borders.
+  const vietnamTransition=p.gwcode===816&&year===1975,vietnamGeneva=[816,817].includes(p.gwcode)&&year===1954;
+  const note=vietnamTransition?name('CShapes codes one unit across Vietnam from 1 May 1975. This is a source-coded transition reference, not evidence of formal state unification at that date. The United Nations records the union of the Democratic Republic of Viet-Nam and the Republic of South Viet-Nam on 2 July 1976. This geometry does not separately reconstruct the interim southern administration or wartime control.','CShapes从1975年5月1日起将越南编码为一个单元。这是来源编码的过渡参照，并非当时已正式统一的证据。联合国记录，越南民主共和国与越南南方共和国于1976年7月2日合并。此几何数据没有单独重建南方过渡行政或战时控制范围。'):vietnamGeneva?name('CShapes dates these two source units from 1 May 1954. The 20 July Geneva agreement described a provisional military demarcation for regrouping and took effect on 22 July. The source period does not mean that agreement existed in May; these year-end shapes do not independently establish its exact line or two permanent sovereign borders.','CShapes将这两个来源单元的有效期定为从1954年5月1日开始。7月20日日内瓦协议规定用于集结的临时军事分界，并于7月22日生效。来源时段不表示该协议在5月已经存在；这些年末形状也不能独立证明其精确分界或两个永久主权边界。'):p.note;
+  const sources=[...p.sources,{title:'Historical identity and name chronology',url:extra,publisher:extra===NAMES?'UK Permanent Committee on Geographical Names':extra===RUSSIA?'US Department of State':'German Federal Government',checkedAt:'2026-10-23',evidenceNote:'Selected political identity transitions and historical labels; geometry and period validity remain CShapes source coding.'},{title:'UN Treaty Collection: historical names and state succession',url:TREATIES,publisher:'United Nations',checkedAt:'2026-10-23',evidenceNote:'Name-change and state-succession notes; not evidence of every historical frontier.'},...(vietnamTransition?[{title:'Democratic Republic of Viet-Nam: UN authority record',url:VIETNAM_UNION,publisher:'United Nations Dag Hammarskjöld Library',checkedAt:'2026-10-27',evidenceNote:'Union of the Democratic Republic of Viet-Nam and Republic of South Viet-Nam on 2 July 1976; not a reconstruction of interim borders.'}]:[]),...(vietnamGeneva?[{title:'Agreement on the Cessation of Hostilities in Vietnam, 20 July 1954',url:GENEVA_1954,publisher:'U.S. Department of State, Office of the Historian',checkedAt:'2026-10-27',evidenceNote:'Inspected agreement Articles 1–2 and entry-into-force clause: provisional military line, regrouping period and 22 July effective date; not source-geometry verification.'}]:[])];
+  selected.push({...f,properties:{...p,name:cshapesNameAt(f,year),note,selectedDate:`${year}-12-31`,annualConvention:'December 31',sources}});
  }
  years.set(year,selected);return selected;
 }

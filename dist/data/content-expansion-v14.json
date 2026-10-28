@@ -145,6 +145,12 @@
       "records": 5,
       "sha256": "91ef49667ce831093ef1b3e160541eb067507265d617812288cbbf697e940e60",
       "bytes": 17718
+    },
+    {
+      "file": "expansion-cross-regional-v14.json",
+      "records": 12,
+      "sha256": "16b336c188e12a5cfb84a29dd179ca1efd06a073b36f64dadfb194f193d17735",
+      "bytes": 57887
     }
   ],
   "evidenceReviewsFile": "evidence-followups-v11.json",
@@ -613,12 +619,12 @@
     }
   ],
   "counts": {
-    "records": 510,
-    "biographies": 150,
-    "biographyMilestones": 477,
+    "records": 522,
+    "biographies": 151,
+    "biographyMilestones": 480,
     "politicalOverviews": 71,
-    "sourceURLs": 919,
-    "readingPaths": 37,
+    "sourceURLs": 939,
+    "readingPaths": 40,
     "releases": {
       "1": 60,
       "2": 121,
@@ -627,7 +633,7 @@
       "5": 28,
       "6": 26,
       "7": 8,
-      "8": 8
+      "8": 20
     }
   },
   "addition": {
@@ -635,13 +641,14 @@
     "release": 8,
     "files": [
       "expansion-early-china-v14.json",
-      "expansion-gupta-toungoo-v14.json"
+      "expansion-gupta-toungoo-v14.json",
+      "expansion-cross-regional-v14.json"
     ],
-    "records": 8,
-    "biographies": 0,
-    "biographyMilestones": 0,
+    "records": 20,
+    "biographies": 1,
+    "biographyMilestones": 3,
     "politicalOverviews": 1,
-    "sourceURLs": 10,
+    "sourceURLs": 30,
     "recordIds": [
       "xia-tradition-and-erli-tou",
       "erlitou-urban-bronze-centre",
@@ -650,15 +657,27 @@
       "gupta-eran-bhanugupta-191",
       "damodarpur-charter-224",
       "toungoo-port-garrisons-1564",
-      "ayutthaya-tenasserim-campaign-1593"
+      "ayutthaya-tenasserim-campaign-1593",
+      "cold-war-world-history",
+      "nonaligned-belgrade-1961",
+      "vietnam-war-1954-1975",
+      "tet-offensive-1968",
+      "paris-vietnam-agreement-1973",
+      "cuban-missile-crisis-1962",
+      "columbian-exchange-1492-1800",
+      "transatlantic-slave-trade-1514-1866",
+      "person-mary-prince",
+      "bantu-language-early-dispersal",
+      "austronesian-early-expansions",
+      "madagascar-comoros-crops-connections"
     ],
     "regions": {
       "east-asia": {
-        "records": 3,
+        "records": 4,
         "biographies": 0,
         "biographyMilestones": 0,
         "politicalOverviews": 1,
-        "sourceURLs": 3
+        "sourceURLs": 5
       },
       "south-asia": {
         "records": 3,
@@ -668,11 +687,39 @@
         "sourceURLs": 5
       },
       "southeast-asia": {
+        "records": 4,
+        "biographies": 0,
+        "biographyMilestones": 0,
+        "politicalOverviews": 0,
+        "sourceURLs": 6
+      },
+      "europe": {
+        "records": 3,
+        "biographies": 0,
+        "biographyMilestones": 0,
+        "politicalOverviews": 0,
+        "sourceURLs": 6
+      },
+      "latin-america": {
         "records": 2,
         "biographies": 0,
         "biographyMilestones": 0,
         "politicalOverviews": 0,
-        "sourceURLs": 2
+        "sourceURLs": 3
+      },
+      "africa": {
+        "records": 3,
+        "biographies": 0,
+        "biographyMilestones": 0,
+        "politicalOverviews": 0,
+        "sourceURLs": 5
+      },
+      "north-america": {
+        "records": 1,
+        "biographies": 1,
+        "biographyMilestones": 3,
+        "politicalOverviews": 0,
+        "sourceURLs": 3
       }
     }
   },
@@ -688,13 +735,13 @@
     },
     "evidencePolicy": "Historical evidence comes from the individually cited sources and their disclosed retrieval limits.",
     "followup": {
-      "method": "Root inspection of institutional, community and primary-text pages through the in-app browser; No external model service used for this addition; prior releases retain their own research disclosures.",
+      "method": "Early-China and Gupta/Toungoo source texts were inspected in the in-app browser. Cross-regional continuation sources were inspected in Chrome by the dedicated Codex browser agent and integrated with their access limits; earlier releases retain their own disclosures.",
       "checkedAt": "2026-10-27"
     }
   },
   "method": {
-    "en": "V14 adds early China evidence distinctions and one short study, plus dated Gupta inscription and Toungoo–Ayutthaya port evidence. Yu/Shun is an undated received tradition; Xia remains unconfirmed, Erlitou archaeological and Shang supported by royal-center evidence. No territorial boundaries are inferred from narrative dates. Prior inputs remain frozen.",
-    "zh": "V14新增早期中国证据区分、一条简短阅读，以及笈多铭文和东吁—阿瑜陀耶港口证据。虞舜作为未确立绝对纪年的传世叙述；夏的身份未证实，二里头为考古地点，商有王室中心材料。叙事年代不推导疆界；冻结既有输入。"
+    "en": "V14 adds early China evidence distinctions and one short study, dated Gupta and Toungoo–Ayutthaya evidence, and new cross-regional histories of the Cold War, Atlantic exchange, and African and Pacific migrations. Yu/Shun is an undated received tradition; Xia remains unconfirmed, Erlitou archaeological and Shang supported by royal-center evidence. No territorial boundaries are inferred from narrative dates. Prior inputs remain frozen.",
+    "zh": "V14新增早期中国证据区分、一条简短阅读，笈多和东吁—阿瑜陀耶证据，以及冷战、大西洋交流和非洲与太平洋迁徙的跨区域历史。虞舜作为未确立绝对纪年的传世叙述；夏的身份未证实，二里头为考古地点，商有王室中心材料。叙事年代不推导疆界；冻结既有输入。"
   },
   "coverage": [
     {
@@ -729,12 +776,13 @@
         "kuba-kingdom",
         "kasubi-royal-landscape",
         "buganda-barkcloth-craft",
-        "luba-lukasa-memory"
+        "luba-lukasa-memory",
+        "bantu-language-early-dispersal"
       ],
-      "records": 10,
+      "records": 11,
       "biographies": 0,
       "politicalOverviews": 6,
-      "sourceCount": 15
+      "sourceCount": 16
     },
     {
       "id": "AF2",
@@ -758,12 +806,13 @@
         "person-yaa-asantewaa",
         "freetown-atlantic-resettlement",
         "person-ahmad-baba",
-        "timbuktu-manuscript-law-and-learning"
+        "timbuktu-manuscript-law-and-learning",
+        "transatlantic-slave-trade-1514-1866"
       ],
-      "records": 10,
+      "records": 11,
       "biographies": 3,
       "politicalOverviews": 3,
-      "sourceCount": 23
+      "sourceCount": 25
     },
     {
       "id": "AF3",
@@ -795,12 +844,14 @@
         "person-ibn-al-haytham",
         "cairo-geniza-everyday-documents",
         "faras-cathedral-paintings",
-        "lamu-households-learning"
+        "lamu-households-learning",
+        "bantu-language-early-dispersal",
+        "madagascar-comoros-crops-connections"
       ],
-      "records": 18,
+      "records": 20,
       "biographies": 5,
       "politicalOverviews": 5,
-      "sourceCount": 30
+      "sourceCount": 33
     },
     {
       "id": "AF4",
@@ -846,12 +897,14 @@
         "person-flora-nwapa",
         "tana-press-womens-publishing",
         "person-doria-shafik",
-        "bint-al-nil-political-education"
+        "bint-al-nil-political-education",
+        "cold-war-world-history",
+        "nonaligned-belgrade-1961"
       ],
-      "records": 32,
+      "records": 34,
       "biographies": 14,
       "politicalOverviews": 1,
-      "sourceCount": 65
+      "sourceCount": 69
     },
     {
       "id": "EA1",
@@ -957,12 +1010,13 @@
         "tomioka-silk-training",
         "korean-provisional-institutions",
         "person-hiratsuka-raicho",
-        "seito-women-print"
+        "seito-women-print",
+        "austronesian-early-expansions"
       ],
-      "records": 22,
+      "records": 23,
       "biographies": 11,
       "politicalOverviews": 1,
-      "sourceCount": 37
+      "sourceCount": 39
     },
     {
       "id": "CH1",
@@ -1337,12 +1391,13 @@
         "person-iskandar-muda",
         "aceh-sultanahs-political-interpretation",
         "brunei-kota-batu-maritime-court",
-        "ifugao-rice-landscape"
+        "ifugao-rice-landscape",
+        "austronesian-early-expansions"
       ],
-      "records": 11,
+      "records": 12,
       "biographies": 2,
       "politicalOverviews": 3,
-      "sourceCount": 15
+      "sourceCount": 17
     },
     {
       "id": "SE3",
@@ -1377,12 +1432,17 @@
         "malolos-constitutional-congress",
         "indonesian-youth-pledge",
         "person-siti-walidah",
-        "aisyiyah-education-network"
+        "aisyiyah-education-network",
+        "cold-war-world-history",
+        "nonaligned-belgrade-1961",
+        "vietnam-war-1954-1975",
+        "tet-offensive-1968",
+        "paris-vietnam-agreement-1973"
       ],
-      "records": 21,
+      "records": 26,
       "biographies": 6,
       "politicalOverviews": 0,
-      "sourceCount": 38
+      "sourceCount": 46
     },
     {
       "id": "NA1",
@@ -1466,12 +1526,15 @@
         "grand-pre-dykes-displacement",
         "halifax-african-nova-scotian-archives",
         "person-shingwaukonse",
-        "shingwauk-teaching-vision-institutions"
+        "shingwauk-teaching-vision-institutions",
+        "columbian-exchange-1492-1800",
+        "transatlantic-slave-trade-1514-1866",
+        "person-mary-prince"
       ],
-      "records": 26,
-      "biographies": 6,
+      "records": 29,
+      "biographies": 7,
       "politicalOverviews": 0,
-      "sourceCount": 44
+      "sourceCount": 51
     },
     {
       "id": "NA3",
@@ -1565,12 +1628,13 @@
         "maya-living-languages",
         "chinampa-lake-agriculture",
         "popol-vuh-transmission",
-        "joya-ceren-households"
+        "joya-ceren-households",
+        "columbian-exchange-1492-1800"
       ],
-      "records": 6,
+      "records": 7,
       "biographies": 0,
       "politicalOverviews": 0,
-      "sourceCount": 14
+      "sourceCount": 16
     },
     {
       "id": "LA2",
@@ -1640,12 +1704,15 @@
         "person-jose-marti",
         "person-claudia-jones",
         "garifuna-displacement-continuity",
-        "panama-canal-labour"
+        "panama-canal-labour",
+        "columbian-exchange-1492-1800",
+        "transatlantic-slave-trade-1514-1866",
+        "person-mary-prince"
       ],
-      "records": 13,
-      "biographies": 5,
+      "records": 16,
+      "biographies": 6,
       "politicalOverviews": 1,
-      "sourceCount": 25
+      "sourceCount": 32
     },
     {
       "id": "LA4",
@@ -1677,12 +1744,13 @@
         "mexican-muralism-public-art",
         "taquile-textile-transmission",
         "person-louise-bennett-coverley",
-        "jamaican-language-broadcasting"
+        "jamaican-language-broadcasting",
+        "cuban-missile-crisis-1962"
       ],
-      "records": 18,
+      "records": 19,
       "biographies": 7,
       "politicalOverviews": 2,
-      "sourceCount": 39
+      "sourceCount": 40
     },
     {
       "id": "OC1",
@@ -1704,12 +1772,14 @@
         "samoan-faamatai-diaspora",
         "person-mau-piailug",
         "person-salote-tupou-iii",
-        "banaba-phosphate-displacement"
+        "banaba-phosphate-displacement",
+        "austronesian-early-expansions",
+        "madagascar-comoros-crops-connections"
       ],
-      "records": 8,
+      "records": 10,
       "biographies": 2,
       "politicalOverviews": 2,
-      "sourceCount": 15
+      "sourceCount": 18
     },
     {
       "id": "OC2",
@@ -1911,12 +1981,18 @@
         "bletchley-codebreaking-network",
         "first-fram-expedition",
         "person-lesia-ukrainka",
-        "ukrainian-books-imperial-borders"
+        "ukrainian-books-imperial-borders",
+        "cold-war-world-history",
+        "nonaligned-belgrade-1961",
+        "vietnam-war-1954-1975",
+        "paris-vietnam-agreement-1973",
+        "cuban-missile-crisis-1962",
+        "person-mary-prince"
       ],
-      "records": 26,
-      "biographies": 10,
+      "records": 32,
+      "biographies": 11,
       "politicalOverviews": 1,
-      "sourceCount": 57
+      "sourceCount": 69
     }
   ]
 }

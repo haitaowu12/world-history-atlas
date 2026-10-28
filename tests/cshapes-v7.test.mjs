@@ -46,3 +46,17 @@ test('broad geography and every polygon winding survive display simplification',
  assert.ok(d3.geoContains(unit(2010,625),[31.6,4.85]));assert.ok(!d3.geoContains(unit(2011,625),[31.6,4.85]));assert.ok(d3.geoContains(unit(2011,626),[31.6,4.85]));
  assert.ok(!d3.geoContains(unit(1992,365),[30.523,50.45]),'Kyiv not within post-Soviet Russia');
 });
+
+test('1975 Vietnam source aggregation is distinct from formal unification in 1976',()=>{
+ const north1974=unit(1974,816),south1974=unit(1974,817),transition=unit(1975,816),united=unit(1976,816);
+ assert.equal(north1974.properties.name.en,'North Vietnam');assert.equal(south1974.properties.name.en,'South Vietnam');assert.equal(unit(1975,817),undefined);
+ assert.equal(transition.properties.name.en,'Vietnam · 1975 transition reference');assert.equal(transition.properties.name.zh,'越南 · 1975年过渡参照');assert.match(transition.properties.note.en,/not evidence of formal state unification/);assert.match(transition.properties.note.en,/2 July 1976/);assert.ok(transition.properties.sources.some(s=>s.url.includes('digitallibrary.un.org/record/3979563')));
+ assert.equal(united.properties.name.en,'Vietnam');assert.equal(united.properties.selectedDate,'1976-12-31');const original=data.features.find(f=>f.properties.id===transition.properties.id);assert.strictEqual(transition.geometry,original.geometry,'source polygon remains untouched');
+});
+
+test('1954 Vietnam map labels the July Geneva line as provisional',()=>{
+ for(const [code,en]of [[816,'Northern Vietnam · provisional 1954 reference'],[817,'Southern Vietnam · provisional 1954 reference']]){
+  const f=unit(1954,code),original=data.features.find(x=>x.properties.id===f.properties.id);assert.equal(f.properties.name.en,en);assert.equal(f.properties.validFrom,'1954-05-01');assert.match(f.properties.note.en,/20 July Geneva agreement.*provisional military demarcation/);assert.match(f.properties.note.en,/does not mean that agreement existed in May/);assert.match(f.properties.note.zh,/1954年5月1日.*7月20日.*7月22日/);assert.ok(f.properties.sources.some(x=>x.url.includes('frus1952-54v16/d1035')));assert.strictEqual(f.geometry,original.geometry);
+ }
+ assert.equal(unit(1955,816).properties.name.en,'North Vietnam');assert.equal(unit(1955,817).properties.name.en,'South Vietnam');
+});
