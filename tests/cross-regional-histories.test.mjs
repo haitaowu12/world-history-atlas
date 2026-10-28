@@ -24,6 +24,6 @@ test('migration narratives use approximate windows, evidence disclosures and no 
 });
 test('three cross-regional reading paths link valid dated episodes and the existing route',()=>{
  const regional=read(manifest.regionalHistoryFile),unassigned=new Set(newRows.filter(r=>r.regionalAssociation==='omit-broad-point').map(r=>r.id));for(const links of Object.values(regional.areas))for(const link of links)assert.ok(!unassigned.has(link.recordId),'broad point must not imply a modern subdivision association');const usCanada=read(manifest.geographicIndexFile);for(const links of Object.values(usCanada.areas))for(const link of links)assert.ok(!unassigned.has(link.recordId),'broad point must not imply a US or Canadian subdivision association');
- const guides=read('cross-regional-studies-v14.json'),courses=read(manifest.coursesFile),routeIds=new Set(read('routes.json').map(r=>r.id));assert.equal(guides.length,3);assert.equal(courses.length,40);
+ const guides=read('cross-regional-studies-v14.json'),courses=read(manifest.coursesFile),routeIds=new Set(read('routes.json').map(r=>r.id));assert.equal(guides.length,3);assert.equal(courses.length,43);
  for(const guide of guides){assert.ok(courses.some(c=>c.id===guide.id));let prev=-Infinity;for(const id of guide.recordIds){const row=get(id),year=guide.mapYears[id];assert.ok(year>=row.start&&year<=row.end,`${guide.id}: ${id} map year`);assert.ok(year>=prev,`${guide.id}: year order`);prev=year;}for(const id of guide.routeIds)assert.ok(routeIds.has(id));assert.ok(guide.questions.every(q=>q.en&&q.zh));}
 });

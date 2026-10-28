@@ -151,6 +151,12 @@
       "records": 12,
       "sha256": "16b336c188e12a5cfb84a29dd179ca1efd06a073b36f64dadfb194f193d17735",
       "bytes": 57887
+    },
+    {
+      "file": "expansion-indus-religions-indigenous-v14.json",
+      "records": 5,
+      "sha256": "4d9156c67fc61fdffaba22808e5c6a004965723b8cc9848feecfc54add621060",
+      "bytes": 21564
     }
   ],
   "evidenceReviewsFile": "evidence-followups-v11.json",
@@ -619,12 +625,12 @@
     }
   ],
   "counts": {
-    "records": 522,
+    "records": 527,
     "biographies": 151,
     "biographyMilestones": 480,
     "politicalOverviews": 71,
-    "sourceURLs": 939,
-    "readingPaths": 40,
+    "sourceURLs": 942,
+    "readingPaths": 43,
     "releases": {
       "1": 60,
       "2": 121,
@@ -633,7 +639,7 @@
       "5": 28,
       "6": 26,
       "7": 8,
-      "8": 20
+      "8": 25
     }
   },
   "addition": {
@@ -642,13 +648,14 @@
     "files": [
       "expansion-early-china-v14.json",
       "expansion-gupta-toungoo-v14.json",
-      "expansion-cross-regional-v14.json"
+      "expansion-cross-regional-v14.json",
+      "expansion-indus-religions-indigenous-v14.json"
     ],
-    "records": 20,
+    "records": 25,
     "biographies": 1,
     "biographyMilestones": 3,
     "politicalOverviews": 1,
-    "sourceURLs": 30,
+    "sourceURLs": 37,
     "recordIds": [
       "xia-tradition-and-erli-tou",
       "erlitou-urban-bronze-centre",
@@ -669,7 +676,12 @@
       "person-mary-prince",
       "bantu-language-early-dispersal",
       "austronesian-early-expansions",
-      "madagascar-comoros-crops-connections"
+      "madagascar-comoros-crops-connections",
+      "indus-civilization-urban-networks",
+      "indus-post-urban-transformations",
+      "sivullirmiut-early-arctic-history",
+      "indigenous-north-america-nations-continuity",
+      "hinduism-living-traditions"
     ],
     "regions": {
       "east-asia": {
@@ -680,11 +692,11 @@
         "sourceURLs": 5
       },
       "south-asia": {
-        "records": 3,
+        "records": 5,
         "biographies": 0,
         "biographyMilestones": 0,
         "politicalOverviews": 0,
-        "sourceURLs": 5
+        "sourceURLs": 7
       },
       "southeast-asia": {
         "records": 4,
@@ -715,11 +727,11 @@
         "sourceURLs": 5
       },
       "north-america": {
-        "records": 1,
+        "records": 4,
         "biographies": 1,
         "biographyMilestones": 3,
         "politicalOverviews": 0,
-        "sourceURLs": 3
+        "sourceURLs": 8
       }
     }
   },
@@ -735,13 +747,13 @@
     },
     "evidencePolicy": "Historical evidence comes from the individually cited sources and their disclosed retrieval limits.",
     "followup": {
-      "method": "Early-China and Gupta/Toungoo source texts were inspected in the in-app browser. Cross-regional continuation sources were inspected in Chrome by the dedicated Codex browser agent and integrated with their access limits; earlier releases retain their own disclosures.",
+      "method": "Early-China and Gupta/Toungoo source texts were inspected in the in-app browser. Cross-regional and Indus, religious and Indigenous continuation sources were inspected in Chrome by the dedicated Codex browser agent and integrated with their access limits; earlier releases retain their own disclosures.",
       "checkedAt": "2026-10-27"
     }
   },
   "method": {
-    "en": "V14 adds early China evidence distinctions and one short study, dated Gupta and Toungoo–Ayutthaya evidence, and new cross-regional histories of the Cold War, Atlantic exchange, and African and Pacific migrations. Yu/Shun is an undated received tradition; Xia remains unconfirmed, Erlitou archaeological and Shang supported by royal-center evidence. No territorial boundaries are inferred from narrative dates. Prior inputs remain frozen.",
-    "zh": "V14新增早期中国证据区分、一条简短阅读，笈多和东吁—阿瑜陀耶证据，以及冷战、大西洋交流和非洲与太平洋迁徙的跨区域历史。虞舜作为未确立绝对纪年的传世叙述；夏的身份未证实，二里头为考古地点，商有王室中心材料。叙事年代不推导疆界；冻结既有输入。"
+    "en": "V14 adds early China evidence distinctions, dated Gupta and Toungoo–Ayutthaya evidence, and histories of the Cold War, Atlantic exchange, migrations, the Indus region, religious traditions and Indigenous North America. Yu/Shun is an undated received tradition; Xia remains unconfirmed, Erlitou archaeological and Shang supported by royal-center evidence. Narrative dates do not establish territorial boundaries or the end of living traditions. Prior inputs remain frozen.",
+    "zh": "V14新增早期中国证据区分、笈多和东吁—阿瑜陀耶证据，以及冷战、大西洋交流、迁徙、印度河地区、宗教传统与北美原住民历史。虞舜是未确立绝对纪年的传世叙述；夏的身份未证实，二里头为考古地点，商有王室中心材料。叙事年代不推导疆界，也不表示活态传统结束；冻结既有输入。"
   },
   "coverage": [
     {
@@ -1240,12 +1252,15 @@
         "person-mirabai",
         "early-gupta-prayaga-context",
         "gupta-eran-bhanugupta-191",
-        "damodarpur-charter-224"
+        "damodarpur-charter-224",
+        "indus-civilization-urban-networks",
+        "indus-post-urban-transformations",
+        "hinduism-living-traditions"
       ],
-      "records": 11,
+      "records": 14,
       "biographies": 2,
       "politicalOverviews": 0,
-      "sourceCount": 17
+      "sourceCount": 20
     },
     {
       "id": "SA2",
@@ -1481,9 +1496,11 @@
         "person-shingwaukonse",
         "shingwauk-teaching-vision-institutions",
         "person-mungo-martin",
-        "thunderbird-park-cultural-work"
+        "thunderbird-park-cultural-work",
+        "sivullirmiut-early-arctic-history",
+        "indigenous-north-america-nations-continuity"
       ],
-      "records": 25,
+      "records": 27,
       "biographies": 10,
       "politicalOverviews": 0,
       "sourceCount": 49
@@ -1529,12 +1546,13 @@
         "shingwauk-teaching-vision-institutions",
         "columbian-exchange-1492-1800",
         "transatlantic-slave-trade-1514-1866",
-        "person-mary-prince"
+        "person-mary-prince",
+        "indigenous-north-america-nations-continuity"
       ],
-      "records": 29,
+      "records": 30,
       "biographies": 7,
       "politicalOverviews": 0,
-      "sourceCount": 51
+      "sourceCount": 54
     },
     {
       "id": "NA3",
@@ -1603,12 +1621,14 @@
         "person-mungo-martin",
         "thunderbird-park-cultural-work",
         "person-susie-king-taylor",
-        "camp-saxton-freedom-community"
+        "camp-saxton-freedom-community",
+        "indigenous-north-america-nations-continuity",
+        "hinduism-living-traditions"
       ],
-      "records": 55,
+      "records": 57,
       "biographies": 24,
       "politicalOverviews": 0,
-      "sourceCount": 95
+      "sourceCount": 98
     },
     {
       "id": "LA1",

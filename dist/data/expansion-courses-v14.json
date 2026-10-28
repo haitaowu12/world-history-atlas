@@ -692,6 +692,8 @@
       "zh": "沿相互联系的条目探索「早期南亚的社会与思想」，比较政治变化、日常经验及其证据。年代表示各条目注明的关注范围。"
     },
     "recordIds": [
+      "indus-civilization-urban-networks",
+      "indus-post-urban-transformations",
       "vedic-oral-transmission",
       "early-gangetic-cities",
       "jain-ascetic-communities",
@@ -702,7 +704,8 @@
       "gupta-eran-bhanugupta-191",
       "damodarpur-charter-224",
       "patan-stepwell-water",
-      "person-mirabai"
+      "person-mirabai",
+      "hinduism-living-traditions"
     ],
     "routeIds": [],
     "questions": [
@@ -720,10 +723,14 @@
       "zh": "选择两个相关条目，比较权威、劳动或交换，利用所引来源解释一项论断，并说明证据局限。"
     },
     "kind": "reading-course",
-    "estimatedMinutes": 33,
+    "estimatedMinutes": 42,
     "workstream": "SA1",
     "evidencePolicy": "Linked records supply historical evidence. Questions and activities are editorial prompts, not independently sourced historical claims.",
-    "mapYears": {}
+    "mapYears": {
+      "indus-civilization-urban-networks": -2500,
+      "indus-post-urban-transformations": -1800,
+      "hinduism-living-traditions": 2000
+    }
   },
   {
     "id": "course-expansion-sa2",
@@ -1013,10 +1020,12 @@
       "zh": "沿相互联系的条目探索「北美原住民的区域历史」，比较政治变化、日常经验及其证据。年代表示各条目注明的关注范围。"
     },
     "recordIds": [
+      "sivullirmiut-early-arctic-history",
       "hohokam-canal-communities",
       "mimbres-painted-pottery",
       "inuit-thule-mobility",
       "haudenosaunee-great-law",
+      "indigenous-north-america-nations-continuity",
       "comanche-horse-networks",
       "ojibwe-manoomin-waters",
       "metis-bison-hunt-governance",
@@ -1075,14 +1084,16 @@
       "zh": "选择两个相关条目，比较权威、劳动或交换，利用所引来源解释一项论断，并说明证据局限。"
     },
     "kind": "reading-course",
-    "estimatedMinutes": 75,
+    "estimatedMinutes": 81,
     "workstream": "NA1",
     "evidencePolicy": "Linked records supply historical evidence. Questions and activities are editorial prompts, not independently sourced historical claims.",
     "mapYears": {
       "person-shingwaukonse": 1832,
       "shingwauk-teaching-vision-institutions": 1873,
       "person-mungo-martin": 1952,
-      "thunderbird-park-cultural-work": 1953
+      "thunderbird-park-cultural-work": 1953,
+      "sivullirmiut-early-arctic-history": -3000,
+      "indigenous-north-america-nations-continuity": 1400
     }
   },
   {
@@ -1096,6 +1107,7 @@
       "zh": "沿相互联系的条目探索「北美殖民、土地与人口移动」，比较政治变化、日常经验及其证据。年代表示各条目注明的关注范围。"
     },
     "recordIds": [
+      "indigenous-north-america-nations-continuity",
       "columbian-exchange-1492-1800",
       "transatlantic-slave-trade-1514-1866",
       "new-france-fur-alliance",
@@ -1162,7 +1174,7 @@
       "zh": "选择两个相关条目，比较权威、劳动或交换，利用所引来源解释一项论断，并说明证据局限。"
     },
     "kind": "reading-course",
-    "estimatedMinutes": 87,
+    "estimatedMinutes": 90,
     "workstream": "NA2",
     "evidencePolicy": "Linked records supply historical evidence. Questions and activities are editorial prompts, not independently sourced historical claims.",
     "mapYears": {
@@ -1170,7 +1182,8 @@
       "shingwauk-teaching-vision-institutions": 1873,
       "columbian-exchange-1492-1800": 1500,
       "transatlantic-slave-trade-1514-1866": 1600,
-      "person-mary-prince": 1831
+      "person-mary-prince": 1831,
+      "indigenous-north-america-nations-continuity": 1400
     }
   },
   {
@@ -1184,6 +1197,7 @@
       "zh": "沿相互联系的条目探索「美国与加拿大的社会史」，比较政治变化、日常经验及其证据。年代表示各条目注明的关注范围。"
     },
     "recordIds": [
+      "indigenous-north-america-nations-continuity",
       "grand-pre-dykes-displacement",
       "person-george-washington",
       "halifax-african-nova-scotian-archives",
@@ -1238,7 +1252,8 @@
       "stonewall-uprising",
       "marathon-hope-public-fundraising",
       "canadian-constitution-1982",
-      "delgamuukw-oral-history"
+      "delgamuukw-oral-history",
+      "hinduism-living-traditions"
     ],
     "routeIds": [],
     "questions": [
@@ -1312,7 +1327,7 @@
       "zh": "选择两个相关条目，比较权威、劳动或交换，利用所引来源解释一项论断，并说明证据局限。"
     },
     "kind": "reading-course",
-    "estimatedMinutes": 165,
+    "estimatedMinutes": 171,
     "workstream": "NA3",
     "evidencePolicy": "Linked records supply historical evidence. Questions and activities are editorial prompts, not independently sourced historical claims.",
     "mapYears": {
@@ -1321,7 +1336,9 @@
       "person-mungo-martin": 1952,
       "thunderbird-park-cultural-work": 1953,
       "camp-saxton-freedom-community": 1863,
-      "person-susie-king-taylor": 1863
+      "person-susie-king-taylor": 1863,
+      "indigenous-north-america-nations-continuity": 1400,
+      "hinduism-living-traditions": 2000
     }
   },
   {
@@ -2251,5 +2268,166 @@
     "kind": "reading-course",
     "estimatedMinutes": 22,
     "evidencePolicy": "Editorial comparison of distinct processes, not one shared migration or route. Approximate dates and source disagreements remain visible."
+  },
+  {
+    "id": "course-indus-urban-change",
+    "title": {
+      "en": "Indus civilization · Cities, evidence and change",
+      "zh": "印度河文明 · 城市、证据与变迁"
+    },
+    "summary": {
+      "en": "Compare an archaeological regional tradition, two different cities and later settlement change without assuming one state or a single collapse.",
+      "zh": "比较考古区域传统、两座不同城市与后来的聚落变化，不预设统一国家或一次崩溃。"
+    },
+    "recordIds": [
+      "indus-civilization-urban-networks",
+      "mohenjo-daro",
+      "dholavira",
+      "indus-post-urban-transformations",
+      "vedic-oral-transmission"
+    ],
+    "mapYears": {
+      "indus-civilization-urban-networks": -2500,
+      "mohenjo-daro": -2400,
+      "dholavira": -2200,
+      "indus-post-urban-transformations": -1800,
+      "vedic-oral-transmission": -800
+    },
+    "routeIds": [],
+    "questions": [
+      {
+        "en": "What can shared objects and urban planning show, and why do they not establish one government?",
+        "zh": "相似器物和城市规划能说明什么，为何不能证明一个统一政府？"
+      },
+      {
+        "en": "What changed after the major cities, and what do uneven archaeological surveys leave uncertain?",
+        "zh": "大城市之后发生了什么变化？考古调查不均留下哪些不确定性？"
+      },
+      {
+        "en": "Why should a later Vedic comparison not automatically be treated as evidence of direct descent?",
+        "zh": "为什么不能自动把后来的吠陀比较视为直接继承的证据？"
+      }
+    ],
+    "activity": {
+      "en": "Compare Mohenjo-daro and Dholavira, then identify one inference about the whole region that their sites alone cannot prove.",
+      "zh": "比较摩亨佐达罗与多拉维拉，指出仅凭这两处遗址无法证明的一项全区域推论。"
+    },
+    "kind": "reading-course",
+    "estimatedMinutes": 18,
+    "evidencePolicy": "Editorial comparison, not a journey or a reconstruction of Indus borders. Phase dates are approximate and do not prove a single collapse or direct cultural succession."
+  },
+  {
+    "id": "course-indigenous-north-america-continuities",
+    "title": {
+      "en": "Indigenous North America · Places, knowledge and continuity",
+      "zh": "北美原住民 · 地点、知识与延续"
+    },
+    "summary": {
+      "en": "Follow a selected sequence across the Arctic, the Mississippi and Ohio valleys, the Northeast, the Great Lakes and the Northwest Coast, with living Indigenous communities at its center.",
+      "zh": "沿精选序列探索北极、密西西比与俄亥俄河流域、东北、大湖区和西北海岸，把活态原住民社群放在中心。"
+    },
+    "recordIds": [
+      "sivullirmiut-early-arctic-history",
+      "poverty-point",
+      "hopewell-ceremonial-networks",
+      "cahokia",
+      "inuit-thule-mobility",
+      "indigenous-north-america-nations-continuity",
+      "haudenosaunee-great-law",
+      "ojibwe-manoomin-waters",
+      "person-mungo-martin",
+      "person-wilma-mankiller"
+    ],
+    "mapYears": {
+      "sivullirmiut-early-arctic-history": -3000,
+      "poverty-point": -1500,
+      "hopewell-ceremonial-networks": 200,
+      "cahokia": 1100,
+      "inuit-thule-mobility": 1200,
+      "indigenous-north-america-nations-continuity": 1400,
+      "haudenosaunee-great-law": 1500,
+      "ojibwe-manoomin-waters": 1750,
+      "person-mungo-martin": 1953,
+      "person-wilma-mankiller": 1987
+    },
+    "routeIds": [],
+    "questions": [
+      {
+        "en": "How do archaeological interpretations and Indigenous oral accounts contribute different kinds of evidence?",
+        "zh": "考古解释与原住民口述叙事分别提供哪些不同证据？"
+      },
+      {
+        "en": "What can earthworks, foodways and family teaching reveal about communities without proving a single political system?",
+        "zh": "土方工程、饮食与家庭传授能说明社群的什么，而又不能证明单一政治体系？"
+      },
+      {
+        "en": "How do the later people and communities in this sequence challenge the idea that Indigenous history ended in the past?",
+        "zh": "本序列后期人物与社群如何挑战“原住民历史已经结束”的观念？"
+      }
+    ],
+    "activity": {
+      "en": "Compare one archaeological entry with a community account. Identify the source, its perspective and a question it cannot answer alone.",
+      "zh": "比较一条考古记录与一份社群叙述，指出来源、视角及其单独无法回答的问题。"
+    },
+    "kind": "reading-course",
+    "estimatedMinutes": 23,
+    "evidencePolicy": "Selected editorial comparison, not an itinerary, a claim of descent between all entries or a map of Indigenous territories. Communities and their histories continue."
+  },
+  {
+    "id": "course-religious-traditions-evidence",
+    "title": {
+      "en": "Religious traditions · Texts, places and living communities",
+      "zh": "宗教传统 · 文本、地点与活态社群"
+    },
+    "summary": {
+      "en": "Compare selected Vedic, Zoroastrian, Jain, Buddhist, Christian, Muslim, Jewish, Sikh and Hindu contexts without treating a political event or an editorial window as the origin of a faith.",
+      "zh": "比较精选的吠陀、琐罗亚斯德、耆那、佛教、基督教、穆斯林、犹太、锡克与印度教语境，不把政治事件或编辑时段视为信仰起源。"
+    },
+    "recordIds": [
+      "vedic-oral-transmission",
+      "zoroastrian-texts-ritual",
+      "jain-ascetic-communities",
+      "sanchi",
+      "deccan-buddhist-donor-networks",
+      "aksum-ezana-christianity",
+      "early-islam",
+      "cairo-geniza-everyday-documents",
+      "sikh-kingdom-punjab",
+      "hinduism-living-traditions"
+    ],
+    "mapYears": {
+      "vedic-oral-transmission": -800,
+      "zoroastrian-texts-ritual": -500,
+      "jain-ascetic-communities": -400,
+      "sanchi": -100,
+      "deccan-buddhist-donor-networks": 200,
+      "aksum-ezana-christianity": 350,
+      "early-islam": 620,
+      "cairo-geniza-everyday-documents": 1100,
+      "sikh-kingdom-punjab": 1800,
+      "hinduism-living-traditions": 2000
+    },
+    "routeIds": [],
+    "questions": [
+      {
+        "en": "How do oral transmission, archaeology, objects, written records and the voices of present communities illuminate different aspects of religious life?",
+        "zh": "口传、考古、器物、文书和当代社群声音如何照亮宗教生活的不同方面？"
+      },
+      {
+        "en": "Why should a court conversion or a kingdom’s dates not be equated with the beginning or end of a religious tradition?",
+        "zh": "为什么不能把宫廷改宗或王国年代等同于宗教传统的开始或结束？"
+      },
+      {
+        "en": "What does the Cairo Geniza show about a particular Jewish community, and what cannot it alone tell us about all Judaism?",
+        "zh": "开罗藏经库能展示某一犹太社群的什么，又不能单独说明整个犹太教的什么？"
+      }
+    ],
+    "activity": {
+      "en": "Choose two entries and identify each source’s place, time and evidence. Explain why their dates are selected anchors rather than a ranking or complete origin story of religions.",
+      "zh": "选择两条记录，指出各来源的地点、时间与证据；解释为何所示年代只是选定锚点，而非宗教的排序或完整起源史。"
+    },
+    "kind": "reading-course",
+    "estimatedMinutes": 23,
+    "evidencePolicy": "A comparison of selected settings and periods, not a complete history of any religion or a claim that traditions share one origin. Sikh political history is distinct from Sikh religious history; communities continue beyond editorial windows."
   }
 ]

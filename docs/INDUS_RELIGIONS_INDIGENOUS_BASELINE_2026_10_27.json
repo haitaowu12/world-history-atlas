@@ -1,0 +1,154 @@
+{
+  "sourceCommit": "c77060045875cec0ebe368a136f200154208d9d7",
+  "records": 1891,
+  "readingPaths": 40,
+  "historicalMapInstances": 658,
+  "contentFiles": [
+    {
+      "file": "expansion-africa-v9.json",
+      "records": 48,
+      "sha256": "b313d4d991d05f44bb6624643e8b54a531a4fead7b1d35acaa04fd80b4e5adc2",
+      "bytes": 260271
+    },
+    {
+      "file": "expansion-east-southeast-v9.json",
+      "records": 73,
+      "sha256": "509098f84808a874201ac20bea4fb5681702dfc581f0facd515b9b84554c9f07",
+      "bytes": 316343
+    },
+    {
+      "file": "expansion-south-west-asia-v9.json",
+      "records": 66,
+      "sha256": "d00e2b6bb8a73311a866d54473522601bee2e476a7568347fd86c83f49c4ee61",
+      "bytes": 313925
+    },
+    {
+      "file": "expansion-americas-v9.json",
+      "records": 66,
+      "sha256": "c17ee8d8350c32ea7e5bec4197ca404940c6366302cf3bba676f9f6846a79a32",
+      "bytes": 309531
+    },
+    {
+      "file": "expansion-oceania-v9.json",
+      "records": 35,
+      "sha256": "8d46cf62ae3c9c2666f1d55ab405d4881751fa2adc61df1e07bd4b0ebf904efa",
+      "bytes": 167056
+    },
+    {
+      "file": "expansion-europe-v9.json",
+      "records": 33,
+      "sha256": "b46056fd4cecabaff019d60078445a959703a34faa4e58737e912f4f84c27bd8",
+      "bytes": 164428
+    },
+    {
+      "file": "expansion-china-v9.json",
+      "records": 21,
+      "sha256": "b3a46204faabd13012222755ba7045b3f7b92428ce9f80748ab41bb289a1cd81",
+      "bytes": 104958
+    },
+    {
+      "file": "expansion-china-corrections-v9.json",
+      "records": 2,
+      "sha256": "8a0c7e80341d0f05250a04055bd8e09ea0bf350150d41fe43372873667e86124",
+      "bytes": 9291
+    },
+    {
+      "file": "expansion-africa-west-asia-v10.json",
+      "records": 24,
+      "sha256": "902d4f0bc0559c1a66104c758776b608049a8a61cb543e51a830c3cd942e74e5",
+      "bytes": 158082
+    },
+    {
+      "file": "expansion-americas-oceania-v10.json",
+      "records": 30,
+      "sha256": "8ce60caa1a62da0e62f72074032ae3bc8270adcba5602e5f7e9b81fd967a1ac3",
+      "bytes": 188940
+    },
+    {
+      "file": "expansion-asia-v10.json",
+      "records": 26,
+      "sha256": "68d01d0023aa4f1625f9d07e51d8f4ebc0523cba40c3fe5583df47630922a09b",
+      "bytes": 169734
+    },
+    {
+      "file": "expansion-europe-v10.json",
+      "records": 16,
+      "sha256": "790cb148e91942284fa9ce8cd569aaff0f7e7c47e9e03be6a223eff9dd4b2e6a",
+      "bytes": 95335
+    },
+    {
+      "file": "expansion-africa-west-asia-v11.json",
+      "records": 8,
+      "sha256": "2aca11a9c7cb0dc7f1b65043f4b1ce0738745002c5dfd22985c92ea74a84db6d",
+      "bytes": 58962
+    },
+    {
+      "file": "expansion-americas-oceania-v11.json",
+      "records": 8,
+      "sha256": "01b977f190ebe1308584a359d2fe2703a30116ecb11efb36e8dcd58521754a03",
+      "bytes": 60788
+    },
+    {
+      "file": "expansion-asia-v11.json",
+      "records": 8,
+      "sha256": "c481b7082b6cc6751684c785abafe3820fd679de0b4fa9baa36e3187c9000b8b",
+      "bytes": 57533
+    },
+    {
+      "file": "expansion-europe-v11.json",
+      "records": 4,
+      "sha256": "f18134aa597dc0c6c2e3ee69560a34c3d67bc586443646db8b595d36cd4b8e63",
+      "bytes": 29627
+    },
+    {
+      "file": "expansion-us-foundations-v12.json",
+      "records": 8,
+      "sha256": "d61a21bc5a5c87cb2259095a3c554c1ee23ae28f38a6cc213b5fd95b34314c70",
+      "bytes": 61703
+    },
+    {
+      "file": "expansion-canada-foundations-v12.json",
+      "records": 8,
+      "sha256": "4ab1a64c3d9d9a6c014796605f629ee5cbdab1a7f68a307359852e5166981331",
+      "bytes": 67328
+    },
+    {
+      "file": "expansion-north-america-regions-v12.json",
+      "records": 8,
+      "sha256": "be31542420049bc33de84d6495ab98c70d545c2d5aa1c16d998eace8e82212f6",
+      "bytes": 68836
+    },
+    {
+      "file": "expansion-canada-coasts-v12.json",
+      "records": 2,
+      "sha256": "5c259a0671bba6ffa8b1cb53b27e98c7eb2fdd31588f0300156d647deeb8d293",
+      "bytes": 10950
+    },
+    {
+      "file": "expansion-regional-sequences-v13.json",
+      "records": 8,
+      "sha256": "a9f3616d1cbb8ea67d73a6c76456d8d3c664559cd88b7eae44f6f5e52bf03dbc",
+      "bytes": 74056
+    },
+    {
+      "file": "expansion-early-china-v14.json",
+      "records": 3,
+      "sha256": "9557e11f24e99745320bfb2b2c94c57d1e15011b8267f1b0d6fd72c847340d53",
+      "bytes": 14641
+    },
+    {
+      "file": "expansion-gupta-toungoo-v14.json",
+      "records": 5,
+      "sha256": "91ef49667ce831093ef1b3e160541eb067507265d617812288cbbf697e940e60",
+      "bytes": 17718
+    },
+    {
+      "file": "expansion-cross-regional-v14.json",
+      "records": 12,
+      "sha256": "16b336c188e12a5cfb84a29dd179ca1efd06a073b36f64dadfb194f193d17735",
+      "bytes": 57887
+    }
+  ],
+  "priorCoursesSha256": "72cdd37c808bf138f847b6f717d0ac8ed53b3b02c7ae0480efe8a39ab5ddc2c8",
+  "mapManifestSha256": "66b846dbb9ec1f6512686773534f158251de17df6b1df7575d2fb8bb4121d8b6"
+}
