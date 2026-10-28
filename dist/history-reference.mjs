@@ -1,3 +1,4 @@
+import {sourceNoteHTML} from './source-notes.mjs?v=1';
 import {formatPeriod, formatYear, validYear, safeSourceURL} from './core.mjs';
 import {inferKind, REGIONAL} from './atlas-model.mjs?v=30';
 
@@ -73,7 +74,7 @@ export function createHistoryReferences({library,manifest,records,routes,eras,re
   const evidence=row=>{
     if(row.periodType==='editorial')return `<p class="collection-note">${txt('This is an editorial time window for comparing histories. It does not assign the same stages of development to every society.','这是为比较历史而选取的编辑时段，不表示所有社会经历相同的发展阶段。')}</p>`;
     const r=row.original;
-    if(row.periodType==='article')return `<div class="collection-note">${esc(loc(r.dateNote))}</div><ol class="detail-sources">${(r.sources||[]).filter(s=>safeSourceURL(s.url)).map(s=>`<li><a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">${esc(s.title)} ↗</a><small>${esc(s.publisher||'')}</small>${s.evidenceNote?`<small>${esc(s.evidenceNote)}</small>`:''}</li>`).join('')}</ol>`;
+    if(row.periodType==='article')return `<div class="collection-note">${esc(loc(r.dateNote))}</div><ol class="detail-sources">${(r.sources||[]).filter(s=>safeSourceURL(s.url)).map(s=>`<li><a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">${esc(s.title)} ↗</a><small>${esc(s.publisher||'')}</small>${sourceNoteHTML(s,lang(),esc)}</li>`).join('')}</ol>`;
     const file=row.kind==='calendar'?'js/lore_data.js':'js/map_data.js';
     return `<details class="source-catalog"><summary>${txt('Source & dating notes','出处与年代说明')}</summary><p>${txt('This reference is retained from Jiangshan Map. Its source wording and sequence have not all been independently corroborated.','此参考记录引自《江山时序》，原文与序列尚未全部经过独立核实。')}</p>${row.kind!=='calendar'?`<p>${txt('The displayed interval organizes the source material. It is not a verified lifespan, construction interval or abandonment date.','展示区间用于组织原资料，并非已核实的存续、建造或废弃年代。')}</p>`:`<p>${txt('This is a selected sequence, not a complete register of simultaneous rulers. It is not a lunar-calendar or exact-date converter.','此处为选取的纪年序列，并非并立君主的完整名录，也不提供农历或精确日期换算。')}</p>`}${r.note?`<p>${esc(loc(r.note))}</p>`:''}${row.periodType==='reference'&&row.summary?`<details><summary>${txt('Original period overview','原始时期概述')}</summary><p>${esc(loc(row.summary))}</p></details>`:''}<p>${originalSource(file)} · <a href="./data/china-upstream.LICENSE.md" target="_blank" rel="noopener noreferrer">${txt('Attribution & notices','署名与许可声明')} ↗</a></p></details>`;
   };

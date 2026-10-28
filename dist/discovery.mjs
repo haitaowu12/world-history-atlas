@@ -1,5 +1,6 @@
+import {sourceNoteHTML} from './source-notes.mjs?v=1';
 import {REGIONS,activeAt,formatPeriod,formatYear,recordSearchText,relatedRecords,safeSourceURL,validYear} from './core.mjs';
-import {libraryLocation,nearLibraryPlace} from './china-library.mjs';
+import {libraryLocation,nearLibraryPlace} from './china-library.mjs?v=1';
 
 const normalize = value => String(value ?? '').normalize('NFKC').toLocaleLowerCase().trim();
 const strings = value => typeof value === 'string' ? [value] : Array.isArray(value) ? value.flatMap(strings) : value && typeof value === 'object' ? Object.values(value).flatMap(strings) : [];
@@ -157,10 +158,10 @@ export function createDiscovery({records=[],people=[],library={},manifest={},set
   const regionName=id=>loc(regions[id]?.name||regions[id]||id);
   const formatSpan=row=>validInterval(row)?formatPeriod(row,lang()):txt('Undated reference','未标年代的地点参照');
   const sourceURL=file=>manifest.source?.commit?`https://github.com/haitaowu12/jiangshan-map/blob/${manifest.source.commit}/${file}`:'';
-  const sourceLink=source=>safeSourceURL(source.url)?`<li><a href="${esc(source.url)}" target="_blank" rel="noopener noreferrer">${esc(source.title)} ↗</a><small>${esc(source.publisher||'')}</small>${source.evidenceNote?`<small>${esc(source.evidenceNote)}</small>`:''}</li>`:'';
+  const sourceLink=source=>safeSourceURL(source.url)?`<li><a href="${esc(source.url)}" target="_blank" rel="noopener noreferrer">${esc(source.title)} ↗</a><small>${esc(source.publisher||'')}</small>${sourceNoteHTML(source,lang(),esc)}</li>`:'';
   const importedSources=rows=>unique(rows.map(row=>row.sourceRecord?.file||row.provenance?.sourceRecord?.file||'js/lore_data.js')).map(file=>({url:sourceURL(file),title:txt('Jiangshan Map · source directory','江山时序 · 原始目录')+' · '+file,publisher:'DeanChensj and contributors'}));
   function evidence({sources=[],references=[],note='',profileSpans=[]}={}) {
-    const all=[...sources,...importedSources(references),...references.filter(row=>row.aliasSource).map(row=>({title:txt('Jiangshan search aliases · 2026 update','江山时序搜索别名 · 2026年更新'),publisher:row.aliasSource.attribution,url:row.aliasSource.repository+'/blob/'+row.aliasSource.commit+'/'+row.aliasSource.file,evidenceNote:txt('Discovery strings only; historical identities not independently reviewed. GPL-3.0.','仅供搜索发现；历史身份未经独立核查。GPL-3.0。')}))].filter((source,i,list)=>source.url&&list.findIndex(other=>other.url===source.url)===i);
+    const all=[...sources,...importedSources(references),...references.filter(row=>row.aliasSource).map(row=>({title:txt('Jiangshan search aliases · 2026 update','江山时序搜索别名 · 2026年更新'),publisher:row.aliasSource.attribution,url:row.aliasSource.repository+'/blob/'+row.aliasSource.commit+'/'+row.aliasSource.file,evidenceNote:'Discovery strings only; historical identities not independently reviewed. GPL-3.0.',evidenceNoteZh:'仅供搜索发现；历史身份未经独立核查。GPL-3.0。'}))].filter((source,i,list)=>source.url&&list.findIndex(other=>other.url===source.url)===i);
     if(!all.length&&!note)return '';
     return `<details class="discovery-evidence"><summary>${txt('Sources and interpretation','资料来源与解读')}</summary>${note?`<p>${esc(note)}</p>`:''}${references.length?`<p>${txt('Directory wording and date spans come from the cited reference. Independent review is incomplete. The original source identities are preserved.','目录文字与年代范围来自所列参考资料，独立核查尚未完成；保留了原始记录身份。')}</p>`:''}${profileSpans.length?`<ul>${profileSpans.map(profile=>`<li>${txt('Reference span','参考年代')} · ${esc(loc(profile.name))}: ${formatPeriod({start:profile.span[0],end:profile.span[1]},lang())}</li>`).join('')}</ul>`:''}<ol class="detail-sources">${all.map(sourceLink).join('')}</ol></details>`;
   }

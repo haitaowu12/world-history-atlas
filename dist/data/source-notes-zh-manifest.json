@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "language": "zh-Hans",
+  "method": "Locally generated machine-assisted translations with selected editorial corrections. English originals remain authoritative.",
+  "coverage": {
+    "uniqueDataNotes": 1783,
+    "dataOccurrences": 7512,
+    "translations": 1791,
+    "reviewedOverrides": 119
+  },
+  "files": [
+    {
+      "path": "source-notes-zh-01.json",
+      "records": 450,
+      "bytes": 126346,
+      "sha256": "836925f8ccc9a340463b3e87e0cfa1b0ef50af9106fe5163e5bf6c27ff0173d2"
+    },
+    {
+      "path": "source-notes-zh-02.json",
+      "records": 450,
+      "bytes": 121410,
+      "sha256": "7bbea111c3fb00a9c369e820eb013c24be935004311da7cd41b46b5ae4e6474a"
+    },
+    {
+      "path": "source-notes-zh-03.json",
+      "records": 450,
+      "bytes": 145000,
+      "sha256": "7f3fa217e86204f04d44e4385aaed4886440664715d38656403e0940f1ff8bfb"
+    },
+    {
+      "path": "source-notes-zh-04.json",
+      "records": 441,
+      "bytes": 125992,
+      "sha256": "518c79f6553a01bbdf511931080e8025b89f1283faba6d80ffabd9a935e6dcfd"
+    }
+  ]
+}

@@ -84,7 +84,7 @@ dialog{border:1px solid #bcc8b7;border-radius:9px;background:var(--panel);color:
 .entry-provenance{margin:15px 0;padding:11px 13px;border-left:3px solid #baa174;background:#f5f1e7;border-radius:0 5px 5px 0}
 .entry-provenance p{font-size:11px;line-height:1.6;margin:6px 0;color:#685f4d}
 .entry-provenance details{font-size:11px}.entry-provenance summary{cursor:pointer}
-.source-evidence-note{font-size:11px!important;line-height:1.55;margin-top:5px;color:#66746d}
+.source-evidence-note{font-size:11px;line-height:1.55;margin-top:5px;color:#66746d}
 .inherited-quotation{display:block;margin-top:9px;padding-left:10px;border-left:2px solid #bfac8a;font-size:11px;font-style:italic;line-height:1.6;color:#736a59;white-space:pre-line}
 .discovery-search-results{padding:15px 0;border-top:1px solid #d6ddce;margin-top:14px}
 .discovery-search-results h3{font-size:12px;margin:0 0 10px;color:#7c633b}

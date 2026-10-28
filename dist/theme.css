@@ -144,3 +144,11 @@ dialog::backdrop { background:#122a42a8; }
 /* A source-date sphere is a reference line, not a fill or direct occupation. */
 .territory.influence-sphere,.territory.influence-sphere:hover,.territory.influence-sphere:focus-visible { fill:none; stroke:#76536f; stroke-opacity:.95; stroke-width:1.6; stroke-dasharray:6 4; pointer-events:stroke; }
 .legend-swatch.influence-swatch { background:transparent!important; border:1px dashed #76536f; }
+
+/* Evidence translations are available without hiding the original wording. */
+.detail-sources li > small,.source-catalog li > small { color:#536550; font-size:12px; line-height:1.5; }
+.detail-sources .source-evidence-note,.source-catalog .source-evidence-note { color:#536550; font-size:14px; line-height:1.55; }
+.source-original { margin:.3rem 0 .45rem; color:#536550; font-size:14px; line-height:1.55; }
+.source-original summary { cursor:pointer; text-decoration:underline; text-underline-offset:.14em; }
+.detail-sources .source-original small,.source-catalog .source-original small { display:block; margin-top:.3rem; color:inherit; font-size:14px; line-height:1.55; }
+.source-translation-status { display:block; margin-top:.3rem; color:#536550; }

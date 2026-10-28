@@ -1,3 +1,4 @@
+import {installSourceNoteTranslations,sourceNoteHTML} from './source-notes.mjs?v=1';
 import {createAmericasLoader,composeAmericasFeatures,readingStepYear,americasParentLabels} from './americas-history.mjs';
 import {DEFAULT_LAYERS,selectMapView,restoreMapLayers} from './map-views.mjs';
 import {applySearchUpdate,applyReviewedUpdate} from './upstream-intake.mjs';
@@ -13,9 +14,9 @@ import {createChinaContextLoader,chinaPhaseAt,activePeriodPlaces} from './china-
 import {composeHistoricalFeatures,outlineCaption,reviewSchematicName} from './map-composition.mjs?v=20';
 import {politicalTimelineRecords,politicalTimelineLanes,politicalTimelineLabel} from './political-timeline.mjs';
 import {recordSearchText,relatedRecords} from './core.mjs';
-import {chinaRoutes} from './china-library.mjs';
-import {createDiscovery} from './discovery.mjs?v=20';
-import {createHistoryReferences} from './history-reference.mjs?v=30';
+import {chinaRoutes} from './china-library.mjs?v=1';
+import {createDiscovery} from './discovery.mjs?v=21';
+import {createHistoryReferences} from './history-reference.mjs?v=31';
 import {applyChinaReviews,linkChinaContext} from './china-review.mjs';
 import {MIN_YEAR,MAX_YEAR,REGIONS,THEMES,TIME_ANCHORS,normalizeYear,validYear,addYears,formatYear,formatPeriod,yearFromSlider,sliderFromYear,activeAt,filterRecords,contemporaries,stateFromHash,hashFromState,defaultState,validateRecords,validateNotebook,mergeNotebooks,toOrdinal,fromOrdinal} from './core.mjs';
 import {REGIONAL,KINDS,ERAS,eraAt,midpoint,representativeYear,inferKind,rankRecords,exactSnapshot,mapCoverage,historicalContextFeatures,featureSourceYear,featureNameAt as nameAtYear,featureCategoryAt,contemporaryFeaturesAt as selectContemporaryFeatures,reviewedIntervalContains,createFrameQueue,previousSnapshot,yearDistance,timeWindow,timelineLanes,eventsNear,greatCircleKm,nearbyHistories,quizScore,safeMapState} from './atlas-model.mjs?v=30';
@@ -46,7 +47,7 @@ const coverageCache=new Map(),modernFeatureCache=new Map(),geometryMetrics=new W
 const yearFrames=createFrameQueue(year=>setYear(year),callback=>requestAnimationFrame(callback),id=>cancelAnimationFrame(id));
 const reducedMotion=matchMedia('(prefers-reduced-motion:reduce)').matches;
 const t=key=>translations[state.lang][key]||translations.en[key]||key,localized=v=>typeof v==='string'?v:v?.[state.lang]||v?.en||'',regionName=id=>localized(REGIONAL[id]?.name)||id,themeName=id=>themes[id]?.[state.lang==='zh'?1:0]||id,byId=id=>recordIndex.get(id),colorFor=r=>REGIONAL[r.region]?.color||colors[r.theme]||'#6e856e';
-const sourceLink=s=>`<a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">${esc(s.title)} ↗</a><small>${esc(s.publisher||'')}</small>${s.evidenceNote?`<small class="source-evidence-note">${esc(s.evidenceNote)}</small>`:''}`;
+const sourceLink=s=>`<a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">${esc(s.title)} ↗</a><small>${esc(s.publisher||'')}</small>${sourceNoteHTML(s,state.lang,esc)}`;
 const milestoneDate=m=>localized(m.dateLabel)||(m.approximate?(state.lang==='zh'?'约':'c. '):'')+formatYear(m.year,state.lang);
 const shortTitle=r=>localized(r.name||r.title).split(/[:：]/)[0];
 function evidenceHTML(record){
@@ -509,7 +510,7 @@ function wireEvents(){
  $('#timeline-slider').addEventListener('keydown',event=>{const steps={ArrowLeft:-1,ArrowDown:-1,ArrowRight:1,ArrowUp:1,PageDown:-100,PageUp:100};if(Object.hasOwn(steps,event.key)){event.preventDefault();setYear(addYears(state.year,steps[event.key]*(event.shiftKey?10:1)));}else if(event.key==='Home'||event.key==='End'){event.preventDefault();setYear(event.key==='Home'?MIN_YEAR:MAX_YEAR);}});
  $('#year-form').addEventListener('submit',event=>{event.preventDefault();const raw=$('#year-input').value.trim(),magnitude=Number(raw),year=$('#era').value==='bce'?-magnitude:magnitude;if(!/^\d+$/.test(raw)||magnitude<=0||!validYear(year)){toast(t('invalidYear'));return;}setYear(year);});$('#era').addEventListener('change',()=>$('#year-input').max=$('#era').value==='ce'?String(MAX_YEAR):String(-MIN_YEAR));
  $('#play').addEventListener('click',playTimeline);$('#previous-time').addEventListener('click',()=>stepTime(-1));$('#next-time').addEventListener('click',()=>stepTime(1));
- $('#language').addEventListener('click',()=>{stopPlayback();state.lang=state.lang==='en'?'zh':'en';applyLanguage();render();});
+ $('#language').addEventListener('click',async event=>{stopPlayback();const button=event.currentTarget,previous=state.lang,target=previous==='en'?'zh':'en';button.disabled=true;try{if(target==='zh')await ensureChineseSourceNotes();if(state.lang!==previous)return;state.lang=target;applyLanguage();render();}finally{button.disabled=false;}});
  $('#zoom-in').addEventListener('click',()=>zoomBy(1.5));$('#zoom-out').addEventListener('click',()=>zoomBy(1/1.5));$('#zoom-reset').addEventListener('click',resetMap);$('#world-reset').addEventListener('click',()=>{resetMap();state.region='all';render();});
  $('#layer-menu-button').addEventListener('click',()=>{const open=$('#layer-menu').hidden;$('#layer-menu').hidden=!open;$('#layer-menu-button').setAttribute('aria-expanded',String(open));if(open)$('#layer-menu button')?.focus();});
  $('#explore-nav').addEventListener('click',()=>{if($('#dialog').open)closeDialog();challenge=null;render();$('.map-stage').scrollIntoView({block:'start',behavior:'smooth'});});$('#chronology-nav').addEventListener('click',showChronology);$('#chronology-open').addEventListener('click',showChronology);$('#journeys-nav').addEventListener('click',()=>showJourneys());$('#people-nav').addEventListener('click',showPeople);$('#challenge-nav').addEventListener('click',showChallengeIntro);$('#notebook-nav').addEventListener('click',showNotebook);$('#about-nav').addEventListener('click',showAbout);$('#map-method').addEventListener('click',showMapEvidence);$('#compare-button').addEventListener('click',showCompare);$('#share').addEventListener('click',shareView);
@@ -578,7 +579,7 @@ function wireEvents(){
  }});
  document.addEventListener('input',event=>{if(event.target.id==='story-note'){notebook.notes[event.target.dataset.id]=event.target.value;persist();$('#note-state').textContent=storageOK?t('noteSaved'):t('noteFailed');}});
  document.addEventListener('keydown',event=>{const editing=['INPUT','TEXTAREA','SELECT'].includes(document.activeElement?.tagName);if(event.key==='Escape'&&!$('#dialog').open){const disclosure=document.querySelector('.map-evidence-readout[open],.timeline-comparison[open],.moment-disclosure[open],.explorer-filters[open]');if(disclosure){disclosure.open=false;disclosure.querySelector('summary').focus();return;}if(!$('#layer-menu').hidden){$('#layer-menu').hidden=true;$('#layer-menu-button').setAttribute('aria-expanded','false');return;}challenge=null;clearSelection();clearPaths();render();}if(event.key==='/'&&!$('#dialog').open&&!editing){event.preventDefault();$('#search').focus();$('#search').scrollIntoView({block:'center',behavior:reducedMotion?'instant':'smooth'});}if(event.code==='Space'&&!editing&&!$('#dialog').open&&event.target===document.body){event.preventDefault();playTimeline();}});
- window.addEventListener('hashchange',()=>{const requestedHash=location.hash;stopPlayback();clearPaths();clearSelection();challenge=null;readURL();restoreDatedDivisionFromURL();applyLanguage();render();focusCurrentSelection();restoreDirectorySelection();regionalExplorer?.restoreFromURL(requestedHash);});document.addEventListener('visibilitychange',()=>{if(document.hidden)stopPlayback();});
+ window.addEventListener('hashchange',async()=>{const requestedHash=location.hash;stopPlayback();clearPaths();clearSelection();challenge=null;readURL();if(state.lang==='zh')await ensureChineseSourceNotes();if(location.hash!==requestedHash)return;restoreDatedDivisionFromURL();applyLanguage();render();focusCurrentSelection();restoreDirectorySelection();regionalExplorer?.restoreFromURL(requestedHash);});document.addEventListener('visibilitychange',()=>{if(document.hidden)stopPlayback();});
 }
 function resolvePlace(query,year){const q=String(query||'').normalize('NFKC').toLocaleLowerCase();if(!q)return [];return records.filter(r=>recordSearchText(r).includes(q)).sort((a,b)=>(activeAt(b,year)?1:0)-(activeAt(a,year)?1:0)||a.start-b.start);}
 function restoreDatedDivisionFromURL(){const id=new URLSearchParams(location.hash.slice(1)).get('division');if(id&&/^americas-(usa|can)-division-\d+$/.test(id)){const feature=americasLoader?.peek(state.year).find(f=>f.properties.id===id);if(feature){territorySelection=feature;state.entry='';}}}
@@ -629,8 +630,14 @@ function contentCoverageHTML(){
  const rows=expansionCoverage(expansionRecords,expansionManifest.workstreams||[]);
  return `<h3>${state.lang==='zh'?'历史水系与通道':'Historical waterways and corridors'}</h3><p>${esc(localized(chinaWaterways.note))}</p><p><a href="${esc(chinaWaterways.source.url)}" target="_blank" rel="noopener noreferrer">${t('viewSource')}</a></p><h3>${t('expansionCoverage')}</h3><p>${t('expansionCoverageNote')}</p><div class="content-coverage">${rows.map(r=>`<button class="elsewhere-card" data-action="open-course" data-id="course-expansion-${r.id.toLowerCase()}"><span><strong>${esc(localized(r.title))}</strong><small>${r.records} ${t('records')} · ${r.biographies} ${t('people')}</small></span>↗</button>`).join('')}</div>`;
 }
-async function loadJSON(file){const url=new URL(file,location.href);url.searchParams.set('atlas','0.15.0-early-faiths');const response=await fetch(url);if(!response.ok)throw new Error(`A local atlas file could not load: ${file}`);return response.json();}
+async function loadJSON(file){const url=new URL(file,location.href);url.searchParams.set('atlas',url.pathname.includes('/source-notes-zh-')?'0.15.0-source-zh':'0.15.0-early-faiths');const response=await fetch(url);if(!response.ok)throw new Error(`A local atlas file could not load: ${file}`);return response.json();}
+let chineseSourceNotesPromise;
+async function ensureChineseSourceNotes(){
+ if(!chineseSourceNotesPromise)chineseSourceNotesPromise=(async()=>{try{const manifest=await loadJSON('./data/source-notes-zh-manifest.json');const chunks=await Promise.all(manifest.files.map(file=>loadJSON('./data/'+file.path)));installSourceNoteTranslations(chunks);return true;}catch(error){console.warn('Chinese source descriptions could not load:',error);chineseSourceNotesPromise=null;return false;}})();
+ return chineseSourceNotesPromise;
+}
 async function init(){try{
+ const languageParams=new URLSearchParams(location.hash?location.hash.slice(1):location.search);const sourceNotesReady=languageParams.get('lang')==='zh'?ensureChineseSourceNotes():Promise.resolve(true);
  const files=['./data/history.json','./data/people.json','./data/routes.json','./assets/land.geojson','./data/map-snapshots.json','./assets/rivers.geojson','./data/courses.json','./data/contemporary-world.json','./data/disputed-lines.geojson','./data/disputed-areas.geojson','./data/china-import-manifest.json','./data/china-library.json','./data/china-reviews.json'];
  let histories,chinaReviews;
  [histories,people,routes,land,snapshotData,rivers,courses,contemporaryData,disputedLines,disputedAreas,chinaManifest,chinaData,chinaReviews]=await Promise.all(files.map(loadJSON));
@@ -666,7 +673,7 @@ async function init(){try{
 
  americasIndex=await loadJSON('./data/americas-history.json');americasLoader=createAmericasLoader(americasIndex,async file=>normalizeMapCollection(await loadJSON('./data/'+file),d3.geoArea));
  const readingAnchors=await loadJSON('./data/reading-map-anchors.json');for(const course of courses)if(readingAnchors.paths[course.id])course.mapYears={...course.mapYears,...readingAnchors.paths[course.id].years};
- readURL();try{const raw=localStorage.getItem('world-history-atlas-notebook-v1');if(raw)notebook=validateNotebook(JSON.parse(raw),records);const savedLayers=JSON.parse(localStorage.getItem('world-history-atlas-layers-v2')||'{}');layers=restoreMapLayers(savedLayers);}catch{storageOK=false;}
+ readURL();await sourceNotesReady;if(state.lang==='zh')await ensureChineseSourceNotes();try{const raw=localStorage.getItem('world-history-atlas-notebook-v1');if(raw)notebook=validateNotebook(JSON.parse(raw),records);const savedLayers=JSON.parse(localStorage.getItem('world-history-atlas-layers-v2')||'{}');layers=restoreMapLayers(savedLayers);}catch{storageOK=false;}
  const sharedView=new URLSearchParams(location.hash.slice(1)).get('view');if(['history','reference'].includes(sharedView))layers=selectMapView(layers,sharedView);
  if(layers.view==='history')await americasLoader.load(state.year);restoreDatedDivisionFromURL();
  if(territorySelection?.properties.contemporary)layers=selectMapView(layers,'history');
