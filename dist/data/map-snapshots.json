@@ -607,6 +607,28 @@
       "sourceSha256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86"
     },
     {
+      "year": 1141,
+      "label": {
+        "en": "1141 CE",
+        "zh": "公元1141年"
+      },
+      "title": {
+        "en": "Reviewed historical map reference",
+        "zh": "已复核的历史地图参照"
+      },
+      "featureIds": [
+        "kiu-1141-song-early",
+        "kiu-1141-song-later",
+        "kiu-1141-jin-jurchen-early",
+        "kiu-1141-jin-jurchen-later",
+        "kiu-1141-western-xia-early",
+        "kiu-1141-western-xia-later"
+      ],
+      "featureCount": 6,
+      "file": "china-open-song-jin-1141-v18.geojson",
+      "sourceSha256": "e8530c4c9203ae3f9c779db718782b2df647b5e106f34a2ca934560455aa4eb4"
+    },
+    {
       "year": 1200,
       "label": {
         "en": "1200 CE",
@@ -698,6 +720,23 @@
       "featureCount": 16,
       "file": "world_1400.geojson",
       "sourceSha256": "c6b0efcb42d9520a1a724f981373296e84ea2c0a0527de7a06f8f9e2465eb6ec"
+    },
+    {
+      "year": 1415,
+      "label": {
+        "en": "1415 CE",
+        "zh": "公元1415年"
+      },
+      "title": {
+        "en": "Reviewed historical map reference",
+        "zh": "已复核的历史地图参照"
+      },
+      "featureIds": [
+        "herrmann-1415-ming"
+      ],
+      "featureCount": 1,
+      "file": "china-open-ming-1415-v18.geojson",
+      "sourceSha256": "b37627340c49d28ffba1a45b7c75e87e0dda408a6b5e0ead59c7e82faadb3180"
     },
     {
       "year": 1500,
@@ -2860,6 +2899,22 @@
       "featureCount": 7,
       "outputSha256": "4a97f7f35abb0f1d84f860e1683904fa9e3da3628d96334be55fdff40f8daf94",
       "attribution": "Ian Remsen / Wikimedia Commons"
+    },
+    {
+      "file": "china-open-song-jin-1141-v18.geojson",
+      "license": "CC-BY-3.0",
+      "licenseFile": "china-open-song-jin-1141.LICENSE.md",
+      "featureCount": 6,
+      "outputSha256": "3f7cee2d084afdfa70ed008844bc846fb281e917a956307eb3bf374539ab8f79",
+      "attribution": "Ian Kiu / Wikimedia Commons; adapted and georegistered by World History Atlas"
+    },
+    {
+      "file": "china-open-ming-1415-v18.geojson",
+      "license": "Public-Domain-US",
+      "licenseFile": "china-open-ming-1415.LICENSE.md",
+      "featureCount": 1,
+      "outputSha256": "970ab1268164ef0e7830688cf3048ea3046db382b2f0c7f558cafdd2563367a3",
+      "attribution": "Albert Herrmann and Georg Westermann, 1935; adapted and georegistered by World History Atlas"
     }
   ],
   "selectionPolicy": "Newest eligible prior source per polity, inside an explicit inclusive contextValidity interval; otherwise earliest explicitly backward-reviewed source. Missing metadata means exact source year only. Original source years and licenses are preserved; never interpolate borders or extend expired identities.",
@@ -3461,5 +3516,10 @@
     "removedPriorSnapshot": 3,
     "replacementFeatures": 7,
     "followup": "Six candidate GPL features were withheld after their individual input lineage could not be established."
+  },
+  "chinaMapGapReview": {
+    "date": "2026-10-28",
+    "method": "Two dated map illustrations, geographically registered and independently checked; no annual interpolation. The 400 BCE and late Ming gaps remain.",
+    "review": "docs/CHINA_MAP_GAPS_2026_10_28.md"
   }
 }

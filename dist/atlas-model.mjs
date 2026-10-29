@@ -31,6 +31,12 @@ export function representativeYear(record,snapshots){
   return snapshots.filter(s=>activeAt(record,s.year)).sort((a,b)=>yearDistance(a.year,middle)-yearDistance(b.year,middle)||a.year-b.year)[0]?.year??middle;
 }
 export function inferKind(r){return r.kind||((r.end-r.start<15)?'event':r.theme==='states'?'polity':r.theme==='knowledge'?'idea':r.theme==='culture'?'culture':'place');}
+// Match a whole identity token so, for example, Ming does not match farming.
+export function relatedPolityRecords(records,polityId,linked,year){
+  const needle=String(polityId||'').split('-')[0].toLowerCase().replace(/[^a-z0-9]/g,'');
+  const token=needle?new RegExp(`(?:^|[^a-z0-9])${needle}(?:$|[^a-z0-9])`,'i'):null;
+  return records.filter(r=>activeAt(r,year)&&((linked||[]).includes(r.id)||!!token&&(token.test(r.id||'')||token.test(r.title?.en||'')))).slice(0,5);
+}
 export function rankRecords(records,year){return [...records].sort((a,b)=>(b.importance||3)-(a.importance||3)||(inferKind(b)==='polity')-(inferKind(a)==='polity')||Math.abs(a.start-year)-Math.abs(b.start-year)||a.id.localeCompare(b.id));}
 export function nearestSnapshot(snapshots,year){
   if(!validYear(year)||!Array.isArray(snapshots))return null;

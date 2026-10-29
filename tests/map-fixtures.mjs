@@ -30,7 +30,7 @@ export function assertHistoricalManifestBeforeBoundaryReview(expectedDigest, ass
     }
   }
   const removed=new Set(['1200-southern-song','1200-jin-jurchen','1600-ming']);
-  const added=new Set(historicalCollection.features.filter(f=>['historical-basemaps-china-review','remsen-warring-250'].includes(f.properties.sourceDataset)).map(f=>f.properties.id));
+  const added=new Set(historicalCollection.features.filter(f=>['historical-basemaps-china-review','remsen-warring-250','kiu-song-jin-1141','herrmann-ming-1415'].includes(f.properties.sourceDataset)).map(f=>f.properties.id));
   for(const old of previous.snapshots){
     const current=historicalMetadata.snapshots.find(s=>s.year===old.year);assert.ok(current);
     const priorIds=old.featureIds.filter(id=>!removed.has(id));

@@ -379,6 +379,7 @@ for (const f of historicalGeo.features || []) {
  if(p.sourceYear!==undefined&&p.sourceYear!==p.year)fail(p.id+': source year differs from the documented snapshot');
  if(p.contextValidity)checkContext(p.contextValidity,p.id);
  if(!p.name?.en||!p.name?.zh||!p.sources?.length)fail(p.id+': missing territory evidence');
+ if(p.licenseURL&&!safeSourceURL(p.licenseURL))fail(p.id+': unsafe license URL');
  for(const s of p.sources||[])if(!safeSourceURL(s.url))fail(p.id+': unsafe source URL');
  if(!/^#[0-9a-f]{6}$/i.test(p.color||''))fail(p.id+': invalid color');
  if(!['Polygon','MultiPolygon'].includes(f.geometry?.type))fail(p.id+': invalid geometry');

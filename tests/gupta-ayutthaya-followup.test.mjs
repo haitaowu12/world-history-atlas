@@ -1,7 +1,7 @@
 import test from 'node:test';import assert from 'node:assert/strict';import fs from 'node:fs';import vm from 'node:vm';import {createHash} from 'node:crypto';
 import {historicalContextFeatures} from '../dist/atlas-model.mjs';import {mapDisplayPalette} from '../dist/map-palette.mjs';import {historicalCollection,historicalMetadata} from './map-fixtures.mjs';
 const data=f=>fs.readFileSync(new URL('../dist/data/'+f,import.meta.url)),read=f=>JSON.parse(data(f)),sha=b=>createHash('sha256').update(b).digest('hex');
-const all=historicalCollection.features.filter(f=>!['historical-basemaps-china-review','remsen-warring-250'].includes(f.properties.sourceDataset)),added=all.filter(f=>['woudloper-gupta-successor-schematic','soewinhan-toungoo-sphere'].includes(f.properties.sourceDataset));
+const all=historicalCollection.features.filter(f=>!['historical-basemaps-china-review','remsen-warring-250','kiu-song-jin-1141','herrmann-ming-1415'].includes(f.properties.sourceDataset)),added=all.filter(f=>['woudloper-gupta-successor-schematic','soewinhan-toungoo-sphere'].includes(f.properties.sourceDataset));
 const at=y=>historicalContextFeatures(all,y),find=(y,id)=>at(y).find(f=>f.properties.polityId===id),ctx={};vm.runInNewContext(fs.readFileSync(new URL('../dist/assets/d3.v7.9.0.min.js',import.meta.url),'utf8'),ctx);const d3=ctx.d3;
 test('sixth-century courts appear as separate dated, diffuse regional interpretations',()=>{
  assert.equal(added.length,8);assert.equal(all.length,655);assert.equal(find(549,'later-gupta-court'),undefined);assert.equal(find(549,'maukhari-court'),undefined);assert.equal(find(501,'gupta-core'),undefined);

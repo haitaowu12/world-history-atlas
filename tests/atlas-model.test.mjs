@@ -3,11 +3,17 @@ import assert from 'node:assert/strict';
 import {
   nearestSnapshot, previousSnapshot, yearDistance, midpoint, timeWindow,
   timelineLanes, rankRecords, eventsNear, greatCircleKm, nearbyHistories,
-  quizScore, safeMapState, visibleInYear, eraAt,
+  quizScore, safeMapState, visibleInYear, eraAt, relatedPolityRecords,
 } from '../dist/atlas-model.mjs';
 import {MIN_YEAR, MAX_YEAR, validYear} from '../dist/core.mjs';
 
 const record=(id,start,end,extra={})=>({id,start,end,theme:'states',kind:'polity',importance:3,...extra});
+
+test('polity detail matches whole names without matching unrelated words',()=>{
+  const rows=[record('ming-court',1400,1500,{title:{en:'Ming court'}}),record('andean-farming',1400,1500,{title:{en:'Andean farming'}}),record('linked',1400,1500,{title:{en:'Explicitly linked'}}),record('ming-old',1200,1300,{title:{en:'Ming'}})];
+  assert.deepEqual(relatedPolityRecords(rows,'ming',['linked'],1415).map(r=>r.id),['ming-court','linked']);
+  assert.deepEqual(relatedPolityRecords(rows,'',[],1415),[]);
+});
 
 test('snapshot selection never uses the future or relabels the source year',()=>{
   const snapshots=[{year:1200},{year:-500},{year:200},{year:0},{year:1000},{year:Infinity}];
