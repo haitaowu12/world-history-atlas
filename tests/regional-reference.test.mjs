@@ -163,7 +163,7 @@ test('regional discovery supports bilingual names, normalized text, IDs and trut
 });
 
 test('regional history links resolve to the reviewed corpus with explicit geometry or named-place evidence',()=>{
- assert.equal(records.length,1909);assert.equal(recordsById.size,1909);
+ assert.equal(records.length,1911);assert.equal(recordsById.size,1911);
  for(const feature of features){
   const p=feature.properties;assert.equal(new Set(p.historyLinks.map(link=>link.recordId)).size,p.historyLinks.length,p.id+' unique linked histories');
   for(const link of p.historyLinks){

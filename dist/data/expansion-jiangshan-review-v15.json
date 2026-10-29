@@ -1,0 +1,305 @@
+[
+  {
+    "id": "china-person-zu-chongzhi",
+    "name": {
+      "en": "Zu Chongzhi",
+      "zh": "祖冲之"
+    },
+    "title": {
+      "en": "Zu Chongzhi: mathematics, calendars and court debate",
+      "zh": "祖冲之：数学、历法与朝廷争论"
+    },
+    "start": 429,
+    "end": 501,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "knowledge",
+    "importance": 4,
+    "location": {
+      "lon": 118.78,
+      "lat": 32.06,
+      "label": "Jiankang, representative court setting",
+      "labelI18n": {
+        "en": "Jiankang, representative court setting",
+        "zh": "建康，代表性的朝廷地点"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Zu Chongzhi worked on mathematical and astronomical problems in the southern dynasties. His Daming calendar proposed a 391-year cycle containing 144 intercalary months; its submission at court led to a dispute over observation and inherited practice. The calendar was not adopted during Emperor Xiaowu’s lifetime.\n\nLater accounts also associate Zu with accurate approximations to pi, including 355/113, and with mechanical devices. His mathematical treatise survives through later descriptions rather than as a complete text, so the precise method behind the calculation cannot be reconstructed with confidence.",
+      "zh": "祖冲之在南朝研究数学与天文历法。他提出的大明历采用391年144闰月的周期，上奏后引发朝廷对于观测与旧制的争论；孝武帝在世时该历未获施行。\n\n后世记载还将圆周率的精密近似值，包括355/113，以及机械制作与祖冲之联系起来。他的数学著作并未完整传世，现存转述不足以可靠还原具体计算方法。"
+    },
+    "dateNote": {
+      "en": "Born 429. The Book of Southern Qi dates his death to Yongyuan 2 (500); the University of St Andrews gives 501. The 478 pin represents the 477–479 Shengming era, not an exact year.",
+      "zh": "生于429年。《南齐书》记其卒于永元二年（500）；圣安德鲁斯大学资料列为501年。地图中的478年节点代表477—479年的升明年间，不是确定的具体年份。"
+    },
+    "sources": [
+      {
+        "title": "Zu Chongzhi biography",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Zu_Chongzhi/",
+        "publisher": "University of St Andrews, MacTutor History of Mathematics",
+        "evidenceNote": "Life, Daming calendar proposal in 462 and approximations to pi; the biography gives death as 501. Its conjecture about the calculation method is not treated as established.",
+        "evidenceNoteZh": "生平、462年大明历提案与圆周率近似值；该传记列卒年为501年。有关计算方法的推测不视为定论。",
+        "checkedAt": "2026-10-28",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Book of Song, volume 13: calendar treatise",
+        "url": "https://zh.wikisource.org/wiki/宋書/卷13",
+        "publisher": "Wikisource, Chinese dynastic history",
+        "evidenceNote": "Retrospective calendar treatise records the Daming year-six submission, its 391-year and 144-intercalation cycle, and a court debate.",
+        "evidenceNoteZh": "后出的历志记载大明六年上奏、391年144闰的历法周期及朝廷争论。",
+        "checkedAt": "2026-10-28",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Book of Southern Qi, volume 52: Zu Chongzhi",
+        "url": "https://zh.wikisource.org/wiki/南齊書/卷52",
+        "publisher": "Wikisource, Chinese dynastic history",
+        "evidenceNote": "Retrospective biography describes the calendar dispute, a south-pointing carriage in the Shengming era, and death in Yongyuan year two. It does not establish an exact death place.",
+        "evidenceNoteZh": "后出的传记叙述历法争论、升明年间的指南车，以及永元二年去世；未确立具体去世地点。",
+        "checkedAt": "2026-10-28",
+        "retrieval": "opened-page"
+      }
+    ],
+    "relatedIds": [
+      "liu-song-dynasty",
+      "china-person-shen-kuo"
+    ],
+    "expansion": {
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "release": 9,
+      "edition": "v15",
+      "sourceReview": "Independently written bilingual synthesis from inspected dynastic histories and university scholarship; upstream profile was a research lead.",
+      "reviewLimit": {
+        "en": "Court histories were compiled later. Approximate locations are contexts, not a reconstructed itinerary; the two sources differ on the death year.",
+        "zh": "朝代史书均为后出记述。近似地点是背景而非复原行程；两个来源的卒年不同。"
+      }
+    },
+    "keyFacts": {
+      "en": [
+        "The Daming calendar prompted an argument over astronomical methods and inherited practice.",
+        "Later accounts preserve precise approximations to pi, while his calculation method remains uncertain."
+      ],
+      "zh": [
+        "大明历引发有关天文方法与旧制的争论。",
+        "后世记载保存了精密的圆周率近似值，但具体计算方法仍不明确。"
+      ]
+    },
+    "milestones": [
+      {
+        "year": 462,
+        "title": {
+          "en": "The Daming calendar is submitted",
+          "zh": "上奏大明历"
+        },
+        "description": {
+          "en": "The court received Zu’s proposal for a calendar with 144 intercalary months in 391 years; surviving accounts record a dispute over its merits.",
+          "zh": "祖冲之向朝廷呈上391年144闰的大明历；传世记载记录了关于其优劣的争论。"
+        },
+        "location": {
+          "lon": 118.78,
+          "lat": 32.06,
+          "label": "Jiankang, representative court setting",
+          "labelI18n": {
+            "en": "Jiankang, representative court setting",
+            "zh": "建康，代表性的朝廷地点"
+          }
+        },
+        "approximate": false
+      },
+      {
+        "year": 478,
+        "title": {
+          "en": "A south-pointing carriage",
+          "zh": "指南车"
+        },
+        "description": {
+          "en": "The Book of Southern Qi places work on the carriage in the Shengming era, 477–479. The displayed year is the midpoint, not a documented exact date.",
+          "zh": "《南齐书》将指南车事迹置于477—479年的升明年间；所显示年份是中点，并非记载中的确切年份。"
+        },
+        "location": {
+          "lon": 118.78,
+          "lat": 32.06,
+          "label": "Jiankang, representative court setting",
+          "labelI18n": {
+            "en": "Jiankang, representative court setting",
+            "zh": "建康，代表性的朝廷地点"
+          }
+        },
+        "approximate": true
+      },
+      {
+        "year": 500,
+        "title": {
+          "en": "A death year in the dynastic record",
+          "zh": "史书记载的卒年"
+        },
+        "description": {
+          "en": "The Book of Southern Qi gives Yongyuan 2, corresponding to 500. The St Andrews biography gives 501; the source does not establish the death location.",
+          "zh": "《南齐书》记为永元二年，即500年；圣安德鲁斯大学传记列为501年。史料未确立去世地点。"
+        },
+        "location": {
+          "lon": 118.78,
+          "lat": 32.06,
+          "label": "Jiankang, representative setting only; death place uncertain",
+          "labelI18n": {
+            "en": "Jiankang, representative setting only; death place uncertain",
+            "zh": "建康仅为代表性地点；去世地点不确定"
+          }
+        },
+        "approximate": true
+      }
+    ]
+  },
+  {
+    "id": "china-person-yelu-chucai",
+    "name": {
+      "en": "Yelü Chucai",
+      "zh": "耶律楚材"
+    },
+    "title": {
+      "en": "Yelü Chucai: service across the Jin and Mongol courts",
+      "zh": "耶律楚材：金与蒙古朝廷之间的仕途"
+    },
+    "start": 1190,
+    "end": 1244,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "states",
+    "importance": 4,
+    "location": {
+      "lon": 116.39,
+      "lat": 39.9,
+      "label": "Zhongdu, representative former Jin capital",
+      "labelI18n": {
+        "en": "Zhongdu, representative former Jin capital",
+        "zh": "中都，金朝都城的代表性地点"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "A Khitan scholar-official, Yelü Chucai served under the Jin and later under the Mongol rulers Chinggis Khan and Ögedei. His life crossed the fall of Zhongdu, the Mongol campaigns in Central Asia and efforts to organize taxation in northern China. The History of Yuan presents his advice and administrative role from a later court perspective; it should not be read as proof that he acted alone or prevented all violence.\n\nHis account of western places offers evidence of Mongol-era knowledge, but a modern study cautions that it is not a complete, stop-by-stop itinerary. The atlas therefore shows selected contexts rather than a reconstructed journey.",
+      "zh": "契丹士人耶律楚材先后服务于金朝及蒙古统治者成吉思汗、窝阔台。他的人生经历中都陷落、蒙古在中亚的军事行动，以及华北税收制度的整顿。《元史》从后世朝廷视角记述他的建议和行政角色，不能据此认定一切成果由他独力完成，也不能推称他阻止了所有暴行。\n\n他记述西方地域的著作反映蒙古时代的知识；现代研究提醒，这并非逐站完整行程。因此地图只呈现选取的历史背景，不复原行军路线。"
+    },
+    "dateNote": {
+      "en": "1190–1244. The 1218 summons and 1231 fiscal episode are dated by the cited study and the cyclical year in the Yuan history. Map points represent documented settings or departure context; the summons site is not fixed.",
+      "zh": "1190—1244年。1218年受召及1231年赋税事迹分别依据所引研究和《元史》干支纪年。地图点代表有记载的背景或出发区域；受召地点未确定。"
+    },
+    "sources": [
+      {
+        "title": "Journeys to the West: Yelü Chucai and his account",
+        "url": "https://storymaps.arcgis.com/stories/d77eb70be65649bd897386f1ab12182e",
+        "publisher": "Shao-yun Yang, Denison University",
+        "evidenceNote": "Scholarly account dates the fall of Zhongdu and the 1218 summons; it warns that the western account is not a complete itinerary.",
+        "evidenceNoteZh": "学术研究说明中都陷落与1218年受召，并指出西行记述不是完整行程。",
+        "checkedAt": "2026-10-28",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "History of Yuan, volume 146: Yelü Chucai",
+        "url": "https://zh.wikisource.org/wiki/元史/卷146",
+        "publisher": "Wikisource, Chinese dynastic history",
+        "evidenceNote": "Later court biography describes service, tax registers at Yunzhong in a xinmao year, and death in a jiachen year; cyclical years are read as 1231 and 1244 in this sequence.",
+        "evidenceNoteZh": "后出的朝廷传记记述其仕途、辛卯年在云中呈报赋税簿籍及甲辰年去世；此处按前后次序将干支换算为1231年和1244年。",
+        "checkedAt": "2026-10-28",
+        "retrieval": "opened-page"
+      }
+    ],
+    "relatedIds": [
+      "mongol-unified-phase",
+      "liao-dynasty"
+    ],
+    "expansion": {
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "release": 9,
+      "edition": "v15",
+      "sourceReview": "Independently written bilingual synthesis of an inspected university study and dynastic biography; upstream profile was a research lead.",
+      "reviewLimit": {
+        "en": "The Yuan biography is retrospective and court-centered; the western account does not establish a complete route. Fiscal administration was collective.",
+        "zh": "《元史》传记为后出、以朝廷为中心的记述；西行记述不能确立完整路线。赋税行政由多方共同完成。"
+      }
+    },
+    "keyFacts": {
+      "en": [
+        "His career joined a Jin court background to Mongol rule.",
+        "The western account is evidence of knowledge and travel, not a complete itinerary."
+      ],
+      "zh": [
+        "他的仕途连接金朝背景与蒙古统治。",
+        "西行记述是知识与旅行的证据，并非完整行程。"
+      ]
+    },
+    "milestones": [
+      {
+        "year": 1215,
+        "title": {
+          "en": "Zhongdu falls to the Mongols",
+          "zh": "蒙古攻陷中都"
+        },
+        "description": {
+          "en": "The Mongols took Zhongdu, the former Jin capital. Yelü, a Jin official, remained in the region before later entering Mongol service.",
+          "zh": "蒙古军攻取金朝旧都中都。曾为金朝官员的耶律楚材其后留在这一地区，后来进入蒙古官府任职。"
+        },
+        "location": {
+          "lon": 116.39,
+          "lat": 39.9,
+          "label": "Zhongdu, modern Beijing area",
+          "labelI18n": {
+            "en": "Zhongdu, modern Beijing area",
+            "zh": "中都，今北京一带"
+          }
+        },
+        "approximate": false
+      },
+      {
+        "year": 1218,
+        "title": {
+          "en": "Summoned into Mongol service",
+          "zh": "受召为蒙古服务"
+        },
+        "description": {
+          "en": "After a period of retirement, Yelü was summoned in spring 1218 and traveled toward the steppe. The pin represents his departure region, not a verified meeting point.",
+          "zh": "隐居一段时间后，耶律楚材于1218年春受召，向草原方向行进。地图点代表出发区域，并非已证实的会见地点。"
+        },
+        "location": {
+          "lon": 116.39,
+          "lat": 39.9,
+          "label": "Former Zhongdu area; departure context only",
+          "labelI18n": {
+            "en": "Former Zhongdu area; departure context only",
+            "zh": "中都旧址一带，仅代表出发背景"
+          }
+        },
+        "approximate": false
+      },
+      {
+        "year": 1231,
+        "title": {
+          "en": "Tax registers at Yunzhong",
+          "zh": "云中呈报赋税簿籍"
+        },
+        "description": {
+          "en": "The History of Yuan places the presentation of tax registers to Ögedei at Yunzhong in a xinmao year, corresponding here to 1231. The account describes one part of a wider administrative effort.",
+          "zh": "《元史》记载在辛卯年于云中向窝阔台呈报赋税簿籍，此处对应1231年。这一记述只是更广泛行政工作的一个侧面。"
+        },
+        "location": {
+          "lon": 113.3,
+          "lat": 40.09,
+          "label": "Yunzhong, representative Datong area",
+          "labelI18n": {
+            "en": "Yunzhong, representative Datong area",
+            "zh": "云中，今大同一带的代表性地点"
+          }
+        },
+        "approximate": false
+      }
+    ]
+  }
+]

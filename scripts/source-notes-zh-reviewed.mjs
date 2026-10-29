@@ -127,5 +127,10 @@ export const reviewedAdditionalNotes = [
   ['expansion-cross-regional-v14.json','madagascar-comoros-crops-connections',0,'已直接查阅摘要、引言及部分早期结果，涉及约公元650—1200年东非、科摩罗和马达加斯加的作物遗存。作物、语言与遗传证据回答不同问题；尚未确立精确路线。'],
   ['routes.json','route-forced-atlantic',0,'区域地图和文字说明非洲与美洲之间的多对多联系；已直接查阅地图，未复制数量数据。'],
   ['routes.json','route-forced-atlantic',1,'已查阅地图中的区域名称和地理参照点；这些参照点不被断言为成对港口之间的实际航程。'],
-  ['routes.json','route-forced-atlantic',2,'涉及记录、估计数与证据缺口；不能将个人的原居地等同于沿海出发地点。']
+  ['routes.json','route-forced-atlantic',2,'涉及记录、估计数与证据缺口；不能将个人的原居地等同于沿海出发地点。'],
+  ["expansion-jiangshan-review-v15.json", "china-person-zu-chongzhi", 0, "生平、462年大明历提案与圆周率近似值；该传记列卒年为501年。有关计算方法的推测不视为定论。"],
+  ["expansion-jiangshan-review-v15.json", "china-person-zu-chongzhi", 1, "后出的历志记载大明六年上奏、391年144闰的历法周期及朝廷争论。"],
+  ["expansion-jiangshan-review-v15.json", "china-person-zu-chongzhi", 2, "后出的传记叙述历法争论、升明年间的指南车，以及永元二年去世；未确立具体去世地点。"],
+  ["expansion-jiangshan-review-v15.json", "china-person-yelu-chucai", 0, "学术研究说明中都陷落与1218年受召，并指出西行记述不是完整行程。"],
+  ["expansion-jiangshan-review-v15.json", "china-person-yelu-chucai", 1, "后出的朝廷传记记述其仕途、辛卯年在云中呈报赋税簿籍及甲辰年去世；此处按前后次序将干支换算为1231年和1244年。"],
 ];

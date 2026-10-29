@@ -34,7 +34,7 @@ test('new source instances retain pins, finite windows and transport budgets',()
  for(const f of newRows){const p=f.properties;assert.equal(p.sourceCommit,'da7a4b735ecef70aebdc9c73e409d8a2500d50f3');assert.equal(p.license,'GPL-3.0-only');assert.ok(Number.isInteger(p.contextValidity.start)&&Number.isInteger(p.contextValidity.end));assert.ok(p.sourceFeatureIndices.length);assert.match(p.note.en,/not an annual frontier/);assert.ok(Number.isFinite(d3.geoArea(f)));}
 });
 test('V14 preserves prior content and separates undated tradition from archaeological dates',()=>{
- assert.equal(CONTENT_MANIFEST,'content-expansion-v14.json');const m=read(CONTENT_MANIFEST),prior=read('content-expansion-v13.json'),fresh=read('expansion-early-china-v14.json');assert.equal(m.version,'0.15.0');assert.equal(fresh.length,3);
+ assert.equal(CONTENT_MANIFEST,'content-expansion-v15.json');const m=read('content-expansion-v14.json'),prior=read('content-expansion-v13.json'),fresh=read('expansion-early-china-v14.json');assert.equal(m.version,'0.15.0');assert.equal(fresh.length,3);
  for(const f of prior.files){assert.deepEqual(m.files.find(x=>x.file===f.file),f);assert.equal(createHash('sha256').update(bytes(f.file)).digest('hex'),f.sha256);}
  const rows=m.files.flatMap(f=>read(f.file)),guide=read(m.earlyChinaGuideFile),yu=guide.items.find(i=>i.id==='yu-shun');assert.equal(yu.calendarRange,null);assert.equal(yu.recordId,undefined);assert.equal(yu.mapYear,undefined);assert.match(yu.summary.zh,/与“大禹”的“禹”分开/);
  assert.match(fresh.find(r=>r.id.startsWith('xia-')).dateNote.en,/unconfirmed/);assert.equal(fresh.find(r=>r.id.startsWith('xia-')).kind,'idea');
