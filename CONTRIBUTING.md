@@ -1,6 +1,8 @@
 # Contributing
 
-Current 0.15 content uses `dist/data/expansion-early-china-v14.json`, `early-china-guide-v14.json`, `early-china-study-v14.json` and `scripts/build-content-expansion-v14.mjs`. See [early regional review](docs/EARLY_REGIONAL_MAP_REVIEW.md). V13 and earlier editions remain frozen checkpoints; new additions belong in V14.
+Current application candidate: **0.19.0**. Current narrative manifest: `dist/data/content-expansion-v15.json` (content version 0.16.0). `npm run build:content` invokes `scripts/build-content-expansion-v15.mjs`; its additive input is `dist/data/expansion-jiangshan-review-v15.json`. V14 and earlier inputs are frozen checkpoints.
+
+Reading presentation lives in `dist/reading-catalog.mjs`: bilingual title/summary overrides, recommended IDs and chapter boundaries anchored to existing record IDs. The browser consumes this after loading narrative records and map anchors. Edit this layer for catalogue or chapter improvements; no content rebuild is needed. Preserve original course IDs, stop order, dates, questions and map anchors. Chapters must partition the complete sequence without dropping or duplicating records. Shared URLs retain the original absolute `step`; optional `chapter` limits navigation to a chapter. Estimates allocate the existing course duration proportionally and are not measured reading times.
 
 Contributions should improve either the learning experience or the evidence behind it. Keep changes focused and identify whether they alter a historical claim, date, location, translation or application behavior.
 
@@ -14,7 +16,7 @@ Treat source selection and coverage as editorial choices. A named civilization, 
 
 ## Add or correct a historical entry
 
-For the current expansion, edit the appropriate `dist/data/expansion-*-v12.json` file and run `npm run build:content` to update the shared manifest and reading paths. V9, V10 and V11 expansion files/manifests/reading paths and the imported China source remain frozen. Earlier base entries live in `dist/data/history.json`; preserve existing IDs when a supported correction is needed so notebooks and links continue to resolve.
+For a correction to an existing V15 addition, edit `dist/data/expansion-jiangshan-review-v15.json` and run `npm run build:content`. For a new narrative batch, create an additive successor input and generator/manifest following the current V15 pattern; retain existing records and checkpoints. Do not modify V12–V14 files simply because older release notes name them as editable. Earlier base entries live in `dist/data/history.json`; preserve existing IDs when a supported correction is needed so notebooks and links continue to resolve.
 
 Each record contains:
 
@@ -51,9 +53,9 @@ In the change description, include:
 
 Original biographies live in `dist/data/people.json`; expansion biographies live alongside their connected histories in the manifest-listed regional files. They use the shared historical-record fields, a personal name and `kind: "person"`. Their `start` and `end` describe the stated focus period, which need not be a complete lifespan. Each milestone has a supported civil year, bilingual title and description, and a representative location.
 
-V12 biographies require at least three supported milestones in chronological order and within the stated focus interval. Every milestone needs a location label explaining what the point represents. Do not add unsupported dates merely to satisfy this minimum; defer or narrow the profile instead.
+Expansion biographies require at least three supported milestones in chronological order and within the stated focus interval. Every milestone needs a location label explaining what the point represents. Do not add unsupported dates merely to satisfy this minimum; defer or narrow the profile instead.
 
-V12 entries also require at least two valid related records, an existing workstream, `release: 6`, `edition: "v12"`, a bilingual `reviewLimit`, and per-source `evidenceNote`, `checkedAt` and truthful `retrieval` disclosure. Use the existing entries as the schema reference.
+Expansion entries require at least two valid related records, an existing workstream, a bilingual `reviewLimit`, and per-source `evidenceNote`, `checkedAt` and truthful `retrieval` disclosure. Use the current addition as the schema reference: V15 uses `release: 9` and `edition: "v15"`. Earlier editions retain their own metadata; do not relabel them.
 
 Explain approximate dates and locations. A sequence of milestone places does not establish a documented travel path. Preserve profile IDs when adding milestones so notebooks and linked teaching materials keep working.
 
@@ -89,7 +91,7 @@ The current worldwide regional layer follows [worldwide geographic method](docs/
 
 ## Run and verify
 
-No package installation or application compilation is required. After editing the V12 content files, run `npm run build:content` before validation; the generator preserves the frozen V9–V11 checksums.
+No package installation or application compilation is required. After editing current narrative inputs, run `npm run build:content` before validation; the generator preserves the V14 baseline and earlier inputs. Presentation-only changes do not require regeneration.
 
 ```sh
 npm run serve

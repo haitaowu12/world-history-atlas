@@ -2,11 +2,18 @@
 
 A bilingual, source-backed atlas for exploring histories that existed at the same time across the world. Inspired by [Jiangshan Map / 江山时序](https://github.com/haitaowu12/jiangshan-map), this world-scale implementation combines a time slider, selected historical territories, places, people, routes and guided study.
 
-## Source and research handoff
+## Current development and published baseline
 
-Use , the linked research ledgers and  for current continuation. Earlier release and verification records remain historical checkpoints.
+**Local candidate: application 0.19.0, guided-reading experience (29 October 2026).** The catalogue adds bilingual search, region/theme/time filters and three suggested starting studies. Eleven reading titles/descriptions are revised for readers; the five longest sequences gain 26 named chapters. Dialogs start at their headings; returning to the catalogue restores filters, scroll position and the selected study. All 70 reading IDs, original stop order, source records and map anchors remain available. See .
 
-## Current application: dated Americas and clearer map views (0.13.0)
+**Current narrative input: V15 / content manifest 0.16.0.** Application, narrative and geometry versions are separate. `npm run build:content` runs `scripts/build-content-expansion-v15.mjs`, preserving V14 and earlier narrative inputs. `dist/reading-catalog.mjs` holds reading presentation edits and chapter boundaries; it does not rewrite the narrative manifests. Read [CONTRIBUTING](CONTRIBUTING.md) and the ordered  before extending the collection.
+
+The collection contains 1,911 entries, 162 state overviews and 70 guided readings. These describe selected coverage, not historical completeness or regional parity. Earlier release sections below are historical checkpoints.
+
+<details>
+<summary>Earlier releases and their checkpoint counts</summary>
+
+## Historical 0.13.0: dated Americas and clearer map views
 
 A cool mineral color scheme, consolidated History / Modern geography views and dated US/Canada administrative geometry address the color/chronology mismatch. Newberry supplies US year-end selections for 1783–2000; NRCan supplies Canadian stages for 1867–2003. Alaska, Gadsden transfer interpretation, Confederation, Newfoundland and Nunavut have explicit regression checks. Other regions retain their independently dated global sources and clearly labeled 2022 regional reference. Carver gains an independently sourced 1896 Tuskegee milestone; the current collection has **535 life milestones**. Biography pins no longer imply travel routes.
 
@@ -20,7 +27,7 @@ Reviewed the original Jiangshan repository at `10fdcaee`, preserving the frozen 
 
 States and provinces now appear automatically as you zoom, with an always-visible **Regions** button. The modern reference contains **4,596 units in 251 source country/area groups**, including all 50 US states/DC and Canada's 13 provinces/territories. It extends beyond North America, retains source-date/sovereignty limits and loads country shards on demand. Direct regional views use `#year=1867&lang=en&mode=all&regions=CAN` or `regions=USA`; the country code identifies a modern reference view, not historical jurisdiction.
 
-## Current narrative release: US/Canada lives and regional geography (V12 / 0.11.0)
+## Historical V12 / 0.11.0: US/Canada lives and regional geography
 
 V12 adds **26 bilingual entries, 12 biographies, 56 life milestones and 36 distinct narrative-source URLs**. North America now contains **106 entries**. The shared atlas has **1,863 entries, 170 narrative biographies, 534 life milestones and 271 People identities**. Three regional paths gain entries and fifteen source-comparison questions; all previous reading paths, stops and questions survive.
 
@@ -96,6 +103,8 @@ Narrative coverage spans selected periods from **13,000 BCE to 2026 CE**. Histor
 The V5 content expansion and its source accounting were retained: **978** original event rows produced **975** mapped events, two exact duplicate merges and one held location mismatch. At the V6 checkpoint, two event reviews and 24 chronicle annotations formed a separate correction layer over the frozen source; later V9 work expanded the targeted event reviews. V5's 78 new essays and four study guides became accessible through the shared interface. V6 did not claim new research or equal depth across regions.
 
 At the V6 checkpoint the GitHub mirror still held V2. That source-status note is historical. The canonical branch and current verification record are linked above; the original China application outside `world/` remains a separate upstream project.
+
+</details>
 
 ## Explore
 
