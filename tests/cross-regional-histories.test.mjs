@@ -1,3 +1,4 @@
+import {assertHistoricalManifestBeforeBoundaryReview} from './map-fixtures.mjs';
 import test from 'node:test';import assert from 'node:assert/strict';import fs from 'node:fs';import {createHash} from 'node:crypto';
 import {filterRecords,defaultState,validYear} from '../dist/core.mjs';
 const bytes=f=>fs.readFileSync(new URL('../dist/data/'+f,import.meta.url)),read=f=>JSON.parse(bytes(f)),sha=b=>createHash('sha256').update(b).digest('hex');
@@ -6,7 +7,7 @@ const get=id=>{const r=by.get(id);assert.ok(r,'missing '+id);return r;};
 test('published V14 inputs and the historical map remain unchanged',()=>{
  const base=JSON.parse(fs.readFileSync(new URL('../docs/CROSS_REGIONAL_BASELINE_2026_10_27.json',import.meta.url)));assert.equal(base.records,1879);assert.equal(newRows.length,12);
  for(const old of base.contentFiles){assert.deepEqual(manifest.files.find(f=>f.file===old.file),old);assert.equal(sha(bytes(old.file)),old.sha256);}
- assert.equal(sha(bytes('map-snapshots.json')),base.mapManifestSha256,'new narratives must not change territorial geometry');
+ assertHistoricalManifestBeforeBoundaryReview(base.mapManifestSha256,assert);
  for(const row of newRows){assert.equal(row.locationPrecision,'representative');assert.ok(row.relatedIds.length>=2&&row.relatedIds.every(id=>by.has(id)));assert.ok(row.summary.en&&row.summary.zh&&row.dateNote.en&&row.dateNote.zh);assert.ok(row.sources.every(s=>s.url.startsWith('https://')&&s.evidenceNote&&s.checkedAt&&s.retrieval));}
 });
 test('postwar records keep the Vietnam settlement, fighting and reunification in sequence',()=>{

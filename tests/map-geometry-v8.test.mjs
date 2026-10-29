@@ -23,7 +23,7 @@ test('every shipped territory and administrative ring fills its intended side of
    assert.ok(i?a>2*Math.PI:a<2*Math.PI,label+':'+i+' exterior/hole orientation');
   }
  }
- assert.ok(features>5000&&rings>17000,'must cover the China layers as well as modern datasets');
+ assert.ok(features>1000&&rings>5000,'must cover all remaining global layers');
 });
 
 test('mixed winding repair preserves a hole and islands without changing source coordinates',()=>{
@@ -43,7 +43,7 @@ test('mixed winding repair preserves a hole and islands without changing source 
 });
 
 test('known affected Warring States snapshots stay inside regional projected bounds',()=>{
- const data=read('china-context-zhanguo-01-v7.json'),projection=d3.geoEqualEarth().scale(150).translate([0,0]),path=d3.geoPath(projection);
+ const data=read('china-open-warring-v17.geojson'),projection=d3.geoEqualEarth().scale(150).translate([0,0]),path=d3.geoPath(projection);
  const globe=path.bounds({type:'Sphere'}),worldWidth=globe[1][0]-globe[0][0],worldHeight=globe[1][1]-globe[0][1];
  for(const f of data.features){const b=path.bounds(f);assert.ok(b[1][0]-b[0][0]<worldWidth*.6,f.properties.id);assert.ok(b[1][1]-b[0][1]<worldHeight*.6,f.properties.id);}
 });

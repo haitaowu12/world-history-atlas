@@ -1,3 +1,4 @@
+import {assertHistoricalManifestBeforeBoundaryReview} from './map-fixtures.mjs';
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
@@ -15,7 +16,7 @@ test('published V14 inputs and historical map data remain unchanged',()=>{
  const base=JSON.parse(fs.readFileSync(new URL('../docs/EARLY_FAITHS_BASELINE_2026_10_27.json',import.meta.url)));
  assert.equal(base.records,1896);assert.equal(base.readingPaths,43);assert.equal(rows.length,13);
  for(const old of base.contentFiles){assert.deepEqual(manifest.files.find(f=>f.file===old.file),old);assert.equal(sha(bytes(old.file)),old.sha256);}
- assert.equal(sha(bytes('map-snapshots.json')),base.mapManifestSha256);
+ assertHistoricalManifestBeforeBoundaryReview(base.mapManifestSha256,assert);
  for(const r of rows){
   assert.ok(validYear(r.start)&&validYear(r.end)&&r.start<=r.end,r.id);
   assert.equal(r.locationPrecision,'representative');assert.ok(!r.geometry&&!r.route,r.id);

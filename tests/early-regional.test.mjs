@@ -5,11 +5,11 @@ import {historicalContextFeatures} from '../dist/atlas-model.mjs';
 import {historicalCollection,historicalMetadata} from './map-fixtures.mjs';
 import {CONTENT_MANIFEST,auditExpansion} from '../dist/content-expansion.mjs';
 const bytes=f=>fs.readFileSync(new URL('../dist/data/'+f,import.meta.url));const read=f=>JSON.parse(bytes(f));
-const all=historicalCollection.features.filter(f=>!['historical-basemaps-regional-gaps','historical-basemaps-three-region-transitions','woudloper-gupta-schematic','woudloper-gupta-schematic-later-gaps','historical-basemaps-later-gaps','hiribarren-borno-regional-context','woudloper-gupta-successor-schematic','soewinhan-toungoo-sphere'].includes(f.properties.sourceDataset)),newRows=all.filter(f=>f.properties.sourceDataset==='historical-basemaps-early-regional');
+const all=historicalCollection.features.filter(f=>!['historical-basemaps-china-review','remsen-warring-250','historical-basemaps-regional-gaps','historical-basemaps-three-region-transitions','woudloper-gupta-schematic','woudloper-gupta-schematic-later-gaps','historical-basemaps-later-gaps','hiribarren-borno-regional-context','woudloper-gupta-successor-schematic','soewinhan-toungoo-sphere'].includes(f.properties.sourceDataset)),newRows=all.filter(f=>f.properties.sourceDataset==='historical-basemaps-early-regional');
 const at=y=>historicalContextFeatures(all,y),find=(y,id)=>at(y).find(f=>f.properties.polityId===id);
 const ctx={};vm.runInNewContext(fs.readFileSync(new URL('../dist/assets/d3.v7.9.0.min.js',import.meta.url),'utf8'),ctx);const d3=ctx.d3;
 test('the early China omission is fixed without inventing Xia or Shang geometry',()=>{
- assert.equal(newRows.length,28);assert.equal(all.length,567);
+ assert.equal(newRows.length,28);assert.equal(all.length,564);
  for(let y=-1046;y<=-404;y++){const f=find(y,'zhou-regional');assert.ok(f,`${y}: Zhou missing`);assert.ok(d3.geoContains(f,[112.45,34.62]),`${y}: Luoyang missing`);}
  assert.equal(find(-1047,'zhou-regional'),undefined);assert.equal(find(-403,'zhou-regional'),undefined);
  const before=historicalContextFeatures(all.filter(f=>!newRows.includes(f)),-700);assert.equal(before.some(f=>d3.geoContains(f,[112.45,34.62])),false,'baseline negative control reproduces China gap');
@@ -44,4 +44,4 @@ test('V14 preserves prior content and separates undated tradition from archaeolo
  assert.ok(Object.values(addition.areas).some(links=>links.some(l=>l.recordId==='erlitou-urban-bronze-centre')));
 });
 
-test('all 539 pre-existing source instances and their layers remain frozen',()=>{const receipt=JSON.parse(fs.readFileSync(new URL('../docs/EARLY_MAP_BASELINE.json',import.meta.url)));for(const old of receipt.layers){assert.deepEqual(historicalMetadata.layers.find(l=>l.file===old.descriptor.file),old.descriptor);assert.equal(createHash('sha256').update(bytes(old.descriptor.file)).digest('hex'),old.sha256);}assert.equal(all.filter(f=>!newRows.includes(f)).length,539);});
+test('all 539 pre-existing source instances and their layers remain frozen',()=>{const receipt=JSON.parse(fs.readFileSync(new URL('../docs/EARLY_MAP_BASELINE.json',import.meta.url)));for(const old of receipt.layers){if(old.descriptor.file==='territories-jiangshan.geojson'){assert.ok(!historicalMetadata.layers.some(x=>x.file===old.descriptor.file));continue;}assert.deepEqual(historicalMetadata.layers.find(l=>l.file===old.descriptor.file),old.descriptor);assert.equal(createHash('sha256').update(bytes(old.descriptor.file)).digest('hex'),old.sha256);}assert.equal(all.filter(f=>!newRows.includes(f)).length,536);});

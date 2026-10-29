@@ -2,7 +2,7 @@ import test from 'node:test';import assert from 'node:assert/strict';import fs f
 import {historicalContextFeatures} from '../dist/atlas-model.mjs';import {reviewedRegionalFeature,amendRegionalChronology} from '../dist/regional-chronology.mjs';
 import {historicalCollection,historicalMetadata} from './map-fixtures.mjs';
 // Preserve the 627-instance checkpoint when later additive datasets are loaded.
-const all=historicalCollection.features.filter(f=>!['historical-basemaps-three-region-transitions','woudloper-gupta-schematic','woudloper-gupta-schematic-later-gaps','historical-basemaps-later-gaps','hiribarren-borno-regional-context','woudloper-gupta-successor-schematic','soewinhan-toungoo-sphere'].includes(f.properties.sourceDataset)),fresh=all.filter(f=>f.properties.sourceDataset==='historical-basemaps-regional-gaps'),at=y=>historicalContextFeatures(all,y),find=(y,id)=>at(y).find(f=>f.properties.polityId===id);
+const all=historicalCollection.features.filter(f=>!['historical-basemaps-china-review','remsen-warring-250','historical-basemaps-three-region-transitions','woudloper-gupta-schematic','woudloper-gupta-schematic-later-gaps','historical-basemaps-later-gaps','hiribarren-borno-regional-context','woudloper-gupta-successor-schematic','soewinhan-toungoo-sphere'].includes(f.properties.sourceDataset)),fresh=all.filter(f=>f.properties.sourceDataset==='historical-basemaps-regional-gaps'),at=y=>historicalContextFeatures(all,y),find=(y,id)=>at(y).find(f=>f.properties.polityId===id);
 const ctx={};vm.runInNewContext(fs.readFileSync(new URL('../dist/assets/d3.v7.9.0.min.js',import.meta.url),'utf8'),ctx);const d3=ctx.d3;
 const raw=id=>all.find(f=>f.properties.id===id),read=p=>JSON.parse(fs.readFileSync(new URL(p,import.meta.url)));
 const positive=[
@@ -16,7 +16,7 @@ const positive=[
  [1500,'champa',[108.98,11.57]],[1200,'bagan',[94.86,21.17]],[1300,'sukhothai',[99.7,17.02]],[1400,'ayutthaya',[100.57,14.36]]
 ];
 test('60 selected source references add geographically located coverage across three regions',()=>{
- assert.equal(fresh.length,60);assert.equal(all.length,627);assert.equal(new Set(fresh.map(f=>f.properties.polityId)).size,24);
+ assert.equal(fresh.length,60);assert.equal(all.length,624);assert.equal(new Set(fresh.map(f=>f.properties.polityId)).size,24);
  assert.deepEqual(historicalMetadata.regionalGapsReview.regions,{'south-asia':20,africa:23,'southeast-asia':17});
  for(const [year,id,point]of positive){const f=find(year,id);assert.ok(f,`${id}@${year}`);assert.ok(d3.geoContains(f,point),`${id}@${year}: witness omitted`);assert.equal(d3.geoContains(f,[2.35,48.86]),false,`${id}: spherical complement`);}
  const prior=all.filter(f=>!fresh.includes(f));for(const [year,id]of positive.filter(x=>!['aksum','ethiopia','ayutthaya'].includes(x[1])))assert.equal(historicalContextFeatures(prior,year).some(f=>f.properties.polityId===id),false,`${id}: negative control`);
@@ -76,6 +76,6 @@ test('cultural networks and source windows retain explicit bilingual limits',()=
  const meta=historicalMetadata.regionalGapsReview;assert.equal(meta.inputs.length,19);for(const input of meta.inputs){assert.match(input.sourceSha256,/^[a-f0-9]{64}$/);assert.ok(input.url.includes(meta.sourceCommit));}
 });
 test('all 567 earlier instances and layer descriptors remain byte-for-byte preserved',()=>{
- const baseline=read('../docs/REGIONAL_GAPS_BASELINE.json');assert.equal(baseline.featureCount,567);assert.equal(all.filter(f=>!fresh.includes(f)).length,567);
- for(const prior of baseline.layers){assert.deepEqual(historicalMetadata.layers.find(l=>l.file===prior.descriptor.file),prior.descriptor);assert.equal(createHash('sha256').update(fs.readFileSync(new URL('../dist/data/'+prior.descriptor.file,import.meta.url))).digest('hex'),prior.sha256);}
+ const baseline=read('../docs/REGIONAL_GAPS_BASELINE.json');assert.equal(baseline.featureCount,567);assert.equal(all.filter(f=>!fresh.includes(f)).length,564);
+ for(const prior of baseline.layers){if(prior.descriptor.file==='territories-jiangshan.geojson'){assert.ok(!historicalMetadata.layers.some(x=>x.file===prior.descriptor.file));continue;}assert.deepEqual(historicalMetadata.layers.find(l=>l.file===prior.descriptor.file),prior.descriptor);assert.equal(createHash('sha256').update(fs.readFileSync(new URL('../dist/data/'+prior.descriptor.file,import.meta.url))).digest('hex'),prior.sha256);}
 });

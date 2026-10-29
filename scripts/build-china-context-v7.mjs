@@ -3,6 +3,8 @@ import fs from 'node:fs';
 import vm from 'node:vm';
 import path from 'node:path';
 import {createHash} from 'node:crypto';
+// Historical extractor retained for audit only. It must not regenerate unreviewed polygons.
+throw Error('Retired: Jiangshan polygon provenance and redistribution rights are unresolved. See docs/JIANGSHAN_BOUNDARY_RIGHTS_REVIEW_2026_10_28.md.');
 // Reproducible extraction of inherited schematic phases. No geometry is
 // interpolated, and source display windows are not independently verified borders.
 const d3Context={};vm.runInNewContext(fs.readFileSync(new URL('../dist/assets/d3.v7.9.0.min.js',import.meta.url),'utf8'),d3Context);

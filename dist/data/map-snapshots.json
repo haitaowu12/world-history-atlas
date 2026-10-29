@@ -121,9 +121,10 @@
       },
       "featureIds": [
         "-400-roman-republic",
-        "early--400-greek-regions"
+        "early--400-greek-regions",
+        "open--400-warring-regional"
       ],
-      "featureCount": 2,
+      "featureCount": 3,
       "file": "world_bc400.geojson",
       "sourceSha256": "7c657b265b2896744efa2c56dd66f0f4a8e647f9dd3c3fbe2c4575515e4b260b"
     },
@@ -164,11 +165,36 @@
         "-300-ptolemaic",
         "-300-maurya",
         "-300-kush",
-        "-300-carthage"
+        "-300-carthage",
+        "open--300-qin-warring",
+        "open--300-warring-regional"
       ],
-      "featureCount": 6,
+      "featureCount": 8,
       "file": "world_bc300.geojson",
       "sourceSha256": "d181645f7963e893fc5502a496c14927316939a2a38cba7722a38b75f80cf633"
+    },
+    {
+      "year": -250,
+      "label": {
+        "en": "250 BCE",
+        "zh": "公元前250年"
+      },
+      "title": {
+        "en": "Warring States · approximate reference",
+        "zh": "战国列国 · 概略参照"
+      },
+      "featureIds": [
+        "cc0--250-qin-warring",
+        "cc0--250-zhao-warring",
+        "cc0--250-yan-warring",
+        "cc0--250-chu-warring",
+        "cc0--250-han-warring",
+        "cc0--250-qi-warring",
+        "cc0--250-wei-warring"
+      ],
+      "featureCount": 7,
+      "file": "Warring_States_c._250_BC.svg",
+      "sourceSha256": "736b1fe6313cfe8733f93c2c8e86471cc881583989a75da2502e3baecfadc304"
     },
     {
       "year": -200,
@@ -289,9 +315,10 @@
         "zh": "精选区域来源节点"
       },
       "featureIds": [
-        "gaps-300-aksum"
+        "gaps-300-aksum",
+        "open-300-western-jin"
       ],
-      "featureCount": 1,
+      "featureCount": 2,
       "file": "world_300.geojson",
       "sourceSha256": "86e6a21cd7a26230184abc57ed042bd9264b569b76406f79ace8618d625b3297"
     },
@@ -328,9 +355,10 @@
       "featureIds": [
         "400-byzantine",
         "400-western-roman",
-        "400-sasanian"
+        "400-sasanian",
+        "open-400-sixteen-kingdoms-region"
       ],
-      "featureCount": 3,
+      "featureCount": 4,
       "file": "world_400.geojson",
       "sourceSha256": "3a3cf57e1d117e81b49b9344af49b73fec0674aa14e7d1d1f1d345d08f9ce1f7"
     },
@@ -369,9 +397,10 @@
         "500-aksum",
         "early-500-maya-region",
         "gaps-500-funan-region",
-        "gaps-500-champa"
+        "gaps-500-champa",
+        "open-500-northern-wei"
       ],
-      "featureCount": 7,
+      "featureCount": 8,
       "file": "world_500.geojson",
       "sourceSha256": "06f7512efec9151b91b5967e8bee3e2dacf8c623e8719de8c64a996bec5ec2c1"
     },
@@ -599,8 +628,6 @@
         "1200-hre",
         "1200-france",
         "1200-angevin",
-        "1200-southern-song",
-        "1200-jin-jurchen",
         "early-1200-goryeo",
         "early-1200-chola",
         "early-1200-srivijaya",
@@ -610,7 +637,7 @@
         "gaps-1200-bagan",
         "transition-1200-kanem"
       ],
-      "featureCount": 15,
+      "featureCount": 13,
       "file": "world_1200.geojson",
       "sourceSha256": "2d6913ecedb38e269e41d249c87874d81e3e8d7351754821f57e627442d91525"
     },
@@ -742,12 +769,11 @@
         "1600-mughal",
         "1600-hre",
         "1600-kongo",
-        "1600-ming",
         "gaps-1600-benin",
         "gaps-1600-oyo",
         "transition-1600-bornu"
       ],
-      "featureCount": 9,
+      "featureCount": 8,
       "file": "world_1600.geojson",
       "sourceSha256": "7285c07eeedfda9048de5354ea1744d327b07614085e9696c5802bb54c86849c"
     },
@@ -2626,17 +2652,6 @@
       "licenseFile": "territories-awmc.LICENSE"
     },
     {
-      "file": "territories-jiangshan.geojson",
-      "license": "README GPL-3.0; root MIT notice retained",
-      "featureCount": 3,
-      "attribution": "DeanChensj; haitaowu12/jiangshan-map fork",
-      "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
-      "sourceSha256": "a0834b2e77a88b55e3327f51146af05d6d5392823f413eade542cd7306a1ed71",
-      "provenanceNote": "Published upstream schematic; per-outline derivation not documented. No restricted CHGIS data copied.",
-      "outputSha256": "6327ff5a687d642999e74305eb31c07592d19042e8c42a287043ee0c7c8d1029",
-      "licenseFile": "territories-jiangshan.LICENSE.md"
-    },
-    {
       "file": "territories-modern-history-01.geojson",
       "license": "GPL-3.0-only",
       "featureCount": 36,
@@ -2843,6 +2858,22 @@
       "featureCount": 1,
       "outputSha256": "bb3269594f5c90f045938b3c49a6cfbae70f5a2ce1f3ad43dd2174010da3bb5a",
       "attribution": "Soewinhan / Wikimedia Commons; source sphere adapted and approximately georegistered by World History Atlas"
+    },
+    {
+      "file": "china-open-basemaps-v17.geojson",
+      "license": "GPL-3.0-only",
+      "licenseFile": "territories.LICENSE",
+      "featureCount": 6,
+      "outputSha256": "443df90b638eb95b276ce59d3cfb09e7a008caca01a2fd0106c9bad91a7d2056",
+      "attribution": "André Ourednik and contributors"
+    },
+    {
+      "file": "china-open-warring-v17.geojson",
+      "license": "CC0-1.0",
+      "licenseFile": "china-open-warring-v17.LICENSE.md",
+      "featureCount": 7,
+      "outputSha256": "4a97f7f35abb0f1d84f860e1683904fa9e3da3628d96334be55fdff40f8daf94",
+      "attribution": "Ian Remsen / Wikimedia Commons"
     }
   ],
   "selectionPolicy": "Newest eligible prior source per polity, inside an explicit inclusive contextValidity interval; otherwise earliest explicitly backward-reviewed source. Missing metadata means exact source year only. Original source years and licenses are preserved; never interpolate borders or extend expired identities.",
@@ -3434,5 +3465,14 @@
       "license": "CC-BY-SA-3.0"
     },
     "featureCount": 1
+  },
+  "chinaBoundaryRightsReview": {
+    "reviewedAt": "2026-10-28",
+    "documentation": "docs/JIANGSHAN_BOUNDARY_RIGHTS_REVIEW_2026_10_28.md",
+    "ledger": "docs/JIANGSHAN_BOUNDARY_RIGHTS_AUDIT_2026_10_28.json",
+    "removedPolitical": 377,
+    "removedAdministrative": 3211,
+    "removedPriorSnapshot": 3,
+    "replacementFeatures": 13
   }
 }

@@ -31,7 +31,7 @@ test('shipped contemporary borders distinguish known neighbouring countries and 
  assert.equal(displayColor(by('ALB').properties),displayColor(by('SRB').properties),'reproduce the prior shipped palette collision');
 });
 test('all detected nearby display groups have distinct colours in the modern and Warring States data',async()=>{
- const read=name=>JSON.parse(fs.readFileSync(new URL('../dist/data/'+name,import.meta.url))),loader=createChinaContextLoader(read('china-context-index-v7.json'),async name=>read(name)),rows=(await loader.load(-399)).features;
+ const rows=JSON.parse(fs.readFileSync(new URL('../dist/data/china-open-warring-v17.geojson',import.meta.url))).features;
  for(const features of [contemporaryCollection.features,rows]){assert.ok(features.length>1);const p=palette(features);for(const edge of neighboringDisplayGroups(features))assert.notEqual(p.get(edge.a[0]),p.get(edge.b[0]),edge.a+' / '+edge.b);}
 });
 

@@ -2,9 +2,14 @@
 const CHOLA_IDS=new Set(['1000-chola','early-1100-chola','early-1200-chola']);
 const southSource={title:'South Asia, South, 1000–1400',url:'https://www.metmuseum.org/toah/ht/07/sss.html',publisher:'The Metropolitan Museum of Art',checkedAt:'2026-10-26',evidenceNote:'Key Events: complete Chola conquest circa1017; Vijayabahu expels Cholas circa1070; independent Polonnaruwa phase1070–1200. Dates are approximate; no northern frontier for993–1016 is inferred.'};
 const sudanSource={title:'West and Central Sudan, 1000–1400',url:'https://www.metmuseum.org/toah/ht/07/afu',publisher:'The Metropolitan Museum of Art',checkedAt:'2026-10-26',evidenceNote:'Key Events: Soso absorbs much of Ghana circa1180–1230, followed by Mali emergence circa1230–1235. A regional transition, not a proven single conquest or total disappearance.'};
-const cholaCache=new WeakMap(),ghanaCache=new WeakMap();
+const cholaCache=new WeakMap(),ghanaCache=new WeakMap(),zhouCache=new WeakMap();
 const append=(note,extra)=>({en:(note?.en||'')+' '+extra.en,zh:(note?.zh||'')+extra.zh});
 export function reviewedRegionalFeature(feature){
+ if(feature?.properties?.polityId==='zhou-regional'){
+  if(zhouCache.has(feature))return zhouCache.get(feature);
+  const p=feature.properties,revise=n=>n?{en:n.en.replace('At403 BCE the existing detailed source stages replace this aggregate.','At 403 BCE a separately sourced collective Warring States reference replaces this aggregate.'),zh:n.zh.replace('公元前403年起改用已有的详细分期','公元前403年起改用另有来源的列国区域参照')}:n;
+  const copy={...feature,properties:{...p,note:revise(p.note),contextValidity:{...p.contextValidity,note:revise(p.contextValidity?.note)}}};zhouCache.set(feature,copy);return copy;
+ }
  if(feature?.properties?.id!=='1100-ghana')return feature;
  if(ghanaCache.has(feature))return ghanaCache.get(feature);
  const p=feature.properties,note=append(p.note,{en:'Reviewed correction: this Ghana reference stops at1179. From1180 the map uses a separately labeled Wagadu/Soso regional transition rather than carrying an independent Ghana empire into Mali’s emergence. The cutoff is approximate editorial eligibility.',zh:'复核修订：此加纳参照在1179年截止。1180年起改用另标的瓦加杜／索索区域转变，不把独立加纳帝国延续至马里兴起。此截止为近似的编辑适用界限。'});

@@ -1,4 +1,4 @@
-import {reviewedRegionalFeature,amendRegionalChronology} from './regional-chronology.mjs';
+import {reviewedRegionalFeature,amendRegionalChronology} from './regional-chronology.mjs?v=2';
 import {MIN_YEAR, MAX_YEAR, validYear, toOrdinal, fromOrdinal, activeAt} from './core.mjs';
 
 export const REGIONAL = {

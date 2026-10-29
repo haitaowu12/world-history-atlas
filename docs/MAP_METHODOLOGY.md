@@ -127,11 +127,11 @@ Source: [Ancient World Mapping Center](https://awmc.unc.edu/gis-data/), [AWMC/ge
 
 The original file is `Cultural-Data/political_shading/roman_empire_ce_200_extent/roman_empire_ce_200_extent.geojson`, SHA256 `b1517aa96d43547925985069f8beefa761c361cad5986d35c7d607e86821527d`. Its 112 components are grouped into one selectable feature. It replaces an unsuitable global-source outline that extended into southern Mesopotamia without distinguishing temporary conquests. A dated context interval does not change this geometry's source year or license.
 
-### Jiangshan published schematics
+### Jiangshan boundaries: retired after rights review
 
-`territories-jiangshan.geojson` retains three selected schematics from [the user's Jiangshan Map fork](https://github.com/haitaowu12/jiangshan-map), commit `fcd6484d06d3c581241fc24adbab288cf3a4a2ea`. The source file is `js/atlas_snapshots.js`, SHA256 `a0834b2e77a88b55e3327f51146af05d6d5392823f413eade542cd7306a1ed71`.
+Earlier Jiangshan political and administrative polygons, including the three former snapshot schematics, were removed from the current atlas distribution because individual derivations and permission to redistribute could not be established. CHGIS expressly prohibits redistribution; the donor's later README identifies a CHGIS/Hartwell exception for some boundaries. This does not prove every older shape originated in CHGIS. The separate [boundary audit](JIANGSHAN_BOUNDARY_RIGHTS_REVIEW_2026_10_28.md) records the ledger, replacement sources, historical limits and outstanding lineage questions. Original Git history and older published versions are outside this working-tree removal.
 
-The Southern Song and Jurchen Jin source phase is 1141–1205 inclusive (`s_nansong_a`); the selected Ming schematic has a published phase 1449–1615 inclusive (`s_ming_b`). Their `sourcePhase` objects remain intact. The context registry respects the phase endpoints. A source phase is provenance for a published schematic, not an independent historical GIS survey. Retain both upstream license notices as explained in `territories-jiangshan.LICENSE.md`; no restricted CHGIS geometry was copied.
+The current replacements include a creator-released CC0 c. 250 BCE Warring States map and selected approximate Historical Basemaps references. Historical Basemaps is published under GPL-3.0, but its aggregate upstream references do not establish the derivation of each source feature; this limitation is retained in the audit. Inherited waterways and corridor lines are outside this political/administrative polygon review and retain a separate source-rights question.
 
 ### Contemporary and physical reference layers
 

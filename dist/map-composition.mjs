@@ -22,5 +22,5 @@ export function outlineCaption(feature,lang='en',formatYear){
     return `${lang==='zh'?'参考示意阶段':'Reference schematic stage'}: ${start} – ${end}`;
   }
   if(p.sourceDataset==='cshapes-2.0')return `${lang==='zh'?'年末边界参考':'Year-end boundary reference'}: ${p.selectedDate}`;
-  return `${lang==='zh'?'轮廓来源':'Outline source'}: ${formatYear(p.sourceYear??p.year,lang)}`;
+  return `${lang==='zh'?'轮廓来源':'Outline source'}: ${p.sourceYearApproximate?(lang==='zh'?'约':'c. '):''}${formatYear(p.sourceYear??p.year,lang)}`;
 }
