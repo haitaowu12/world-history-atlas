@@ -131,7 +131,7 @@ The original file is `Cultural-Data/political_shading/roman_empire_ce_200_extent
 
 Earlier Jiangshan political and administrative polygons, including the three former snapshot schematics, were removed from the current atlas distribution because individual derivations and permission to redistribute could not be established. CHGIS expressly prohibits redistribution; the donor's later README identifies a CHGIS/Hartwell exception for some boundaries. This does not prove every older shape originated in CHGIS. The separate [boundary audit](JIANGSHAN_BOUNDARY_RIGHTS_REVIEW_2026_10_28.md) records the ledger, replacement sources, historical limits and outstanding lineage questions. Original Git history and older published versions are outside this working-tree removal.
 
-The current replacements include a creator-released CC0 c. 250 BCE Warring States map and selected approximate Historical Basemaps references. Historical Basemaps is published under GPL-3.0, but its aggregate upstream references do not establish the derivation of each source feature; this limitation is retained in the audit. Inherited waterways and corridor lines are outside this political/administrative polygon review and retain a separate source-rights question.
+The current replacement is a creator-released CC0 c. 250 BCE Warring States map. Six candidate Historical Basemaps features were withheld because their individual source lineage is not established. The broader existing Historical Basemaps collection is outside this Jiangshan boundary audit and retains its own lineage question. Inherited waterways and corridor lines are outside this political/administrative polygon review and retain a separate source-rights question.
 
 ### Contemporary and physical reference layers
 

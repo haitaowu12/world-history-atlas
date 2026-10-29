@@ -121,10 +121,9 @@
       },
       "featureIds": [
         "-400-roman-republic",
-        "early--400-greek-regions",
-        "open--400-warring-regional"
+        "early--400-greek-regions"
       ],
-      "featureCount": 3,
+      "featureCount": 2,
       "file": "world_bc400.geojson",
       "sourceSha256": "7c657b265b2896744efa2c56dd66f0f4a8e647f9dd3c3fbe2c4575515e4b260b"
     },
@@ -165,11 +164,9 @@
         "-300-ptolemaic",
         "-300-maurya",
         "-300-kush",
-        "-300-carthage",
-        "open--300-qin-warring",
-        "open--300-warring-regional"
+        "-300-carthage"
       ],
-      "featureCount": 8,
+      "featureCount": 6,
       "file": "world_bc300.geojson",
       "sourceSha256": "d181645f7963e893fc5502a496c14927316939a2a38cba7722a38b75f80cf633"
     },
@@ -315,10 +312,9 @@
         "zh": "精选区域来源节点"
       },
       "featureIds": [
-        "gaps-300-aksum",
-        "open-300-western-jin"
+        "gaps-300-aksum"
       ],
-      "featureCount": 2,
+      "featureCount": 1,
       "file": "world_300.geojson",
       "sourceSha256": "86e6a21cd7a26230184abc57ed042bd9264b569b76406f79ace8618d625b3297"
     },
@@ -355,10 +351,9 @@
       "featureIds": [
         "400-byzantine",
         "400-western-roman",
-        "400-sasanian",
-        "open-400-sixteen-kingdoms-region"
+        "400-sasanian"
       ],
-      "featureCount": 4,
+      "featureCount": 3,
       "file": "world_400.geojson",
       "sourceSha256": "3a3cf57e1d117e81b49b9344af49b73fec0674aa14e7d1d1f1d345d08f9ce1f7"
     },
@@ -397,10 +392,9 @@
         "500-aksum",
         "early-500-maya-region",
         "gaps-500-funan-region",
-        "gaps-500-champa",
-        "open-500-northern-wei"
+        "gaps-500-champa"
       ],
-      "featureCount": 8,
+      "featureCount": 7,
       "file": "world_500.geojson",
       "sourceSha256": "06f7512efec9151b91b5967e8bee3e2dacf8c623e8719de8c64a996bec5ec2c1"
     },
@@ -2860,14 +2854,6 @@
       "attribution": "Soewinhan / Wikimedia Commons; source sphere adapted and approximately georegistered by World History Atlas"
     },
     {
-      "file": "china-open-basemaps-v17.geojson",
-      "license": "GPL-3.0-only",
-      "licenseFile": "territories.LICENSE",
-      "featureCount": 6,
-      "outputSha256": "443df90b638eb95b276ce59d3cfb09e7a008caca01a2fd0106c9bad91a7d2056",
-      "attribution": "André Ourednik and contributors"
-    },
-    {
       "file": "china-open-warring-v17.geojson",
       "license": "CC0-1.0",
       "licenseFile": "china-open-warring-v17.LICENSE.md",
@@ -3473,6 +3459,7 @@
     "removedPolitical": 377,
     "removedAdministrative": 3211,
     "removedPriorSnapshot": 3,
-    "replacementFeatures": 13
+    "replacementFeatures": 7,
+    "followup": "Six candidate GPL features were withheld after their individual input lineage could not be established."
   }
 }

@@ -1,57 +1,33 @@
 #!/usr/bin/env python3
 """Build the reviewed, separately licensed China reference layers.
 
-Run with the dependencies listed in the accompanying review. The historical
-basemap inputs must be the pinned source files in the supplied directory;
-the CC0 SVG is retained in references/china-open-boundaries. No Jiangshan
-polygons are read or written by this builder.
+Run with the dependencies listed in the accompanying review. The creator-released
+CC0 SVG is retained in references/china-open-boundaries. No Jiangshan or
+untraced Historical Basemaps polygons are read or written by this builder.
 """
 import hashlib
 import json
 import math
-import sys
 import xml.etree.ElementTree as ET
 from pathlib import Path
 
 import numpy as np
 from pyproj import CRS, Transformer
 from shapely import make_valid
-from shapely.geometry import Polygon, mapping, shape
+from shapely.geometry import Polygon, mapping
 from shapely.geometry.polygon import orient
 from shapely.ops import transform, unary_union
 from svgpathtools import parse_path
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / 'dist' / 'data'
-INPUT = Path(sys.argv[1]) if len(sys.argv) == 2 else None
-if INPUT is None:
-    raise SystemExit('Usage: build-china-open-boundaries.py <directory-of-pinned-world-files>')
-
-COMMIT = 'da7a4b735ecef70aebdc9c73e409d8a2500d50f3'
-PINS = {
-    'world_bc400.geojson': '7c657b265b2896744efa2c56dd66f0f4a8e647f9dd3c3fbe2c4575515e4b260b',
-    'world_bc300.geojson': 'd181645f7963e893fc5502a496c14927316939a2a38cba7722a38b75f80cf633',
-    'world_300.geojson': '86e6a21cd7a26230184abc57ed042bd9264b569b76406f79ace8618d625b3297',
-    'world_400.geojson': '3a3cf57e1d117e81b49b9344af49b73fec0674aa14e7d1d1f1d345d08f9ce1f7',
-    'world_500.geojson': '06f7512efec9151b91b5967e8bee3e2dacf8c623e8719de8c64a996bec5ec2c1',
-}
 SVG = ROOT / 'references' / 'china-open-boundaries' / 'Warring_States_c._250_BC.svg'
 SVG_SHA = '736b1fe6313cfe8733f93c2c8e86471cc881583989a75da2502e3baecfadc304'
 def sha(blob):
     return hashlib.sha256(blob).hexdigest()
 if sha(SVG.read_bytes()) != SVG_SHA:
     raise SystemExit('Warring States SVG does not match the inspected source')
-raw = {}
-for filename, digest in PINS.items():
-    blob = (INPUT / filename).read_bytes()
-    if sha(blob) != digest:
-        raise SystemExit('Source checksum mismatch: ' + filename)
-    raw[filename] = json.loads(blob)
-
 MET_ZHOU = 'https://www.metmuseum.org/essays/shang-and-zhou-dynasties-the-bronze-age-of-china'
-MET_DIVIDED = 'https://www.metmuseum.org/essays/period-of-the-northern-and-southern-dynasties-386-589'
-MET_JIN = 'https://www.metmuseum.org/toah/ht/05/eac.html'
-MET_SIXTEEN = 'https://www.metmuseum.org/art/collection/search/61820'
 DATE = '2026-10-28'
 
 def evidence(title, url, publisher, en, zh):
@@ -81,48 +57,6 @@ def entry(id_, polity, year, name, note, sources, geometry, start, end, dataset,
         'contextValidity': {'start': start, 'end': end, 'backwardReviewed': start < year,
                             'reviewedAt': DATE, 'evidence': [s['url'] for s in sources], 'note': note},
     }, 'geometry': geometry}
-
-ROWS = [
-    ('world_bc400.geojson', 'Zhou states', -400, -403, -301, 'warring-regional',
-     ('Warring States · collective region, 400 BCE', '战国列国 · 公元前400年区域参照')),
-    ('world_bc300.geojson', 'Qin', -300, -300, -251, 'qin-warring',
-     ('Qin · 300 BCE reference', '秦国 · 公元前300年参照')),
-    ('world_bc300.geojson', 'Zhou states', -300, -300, -251, 'warring-regional',
-     ('Other Warring States · collective region, 300 BCE', '其他战国列国 · 公元前300年区域参照')),
-    ('world_300.geojson', 'Jin', 300, 300, 303, 'western-jin',
-     ('Western Jin · 300 CE reference', '西晋 · 公元300年参照')),
-    ('world_400.geojson', 'Sixteen Kingdoms', 400, 400, 400, 'sixteen-kingdoms-region',
-     ('Sixteen Kingdoms · selected regional grouping', '十六国 · 部分区域分组')),
-    ('world_500.geojson', 'Toba Wei', 500, 500, 500, 'northern-wei',
-     ('Northern Wei · 500 CE reference', '北魏 · 公元500年参照')),
-]
-base_features = []
-for filename, src_name, year, start, end, polity, name in ROWS:
-    matches = [f for f in raw[filename]['features'] if f['properties'].get('NAME') == src_name]
-    if len(matches) != 1:
-        raise ValueError('Expected exactly one source feature: ' + filename + ' / ' + src_name)
-    url = f'https://github.com/aourednik/historical-basemaps/blob/{COMMIT}/geojson/{filename}'
-    ev = MET_ZHOU if year < 0 else MET_JIN if year == 300 else MET_SIXTEEN if year == 400 else MET_DIVIDED
-    note = {
-        'en': f'This is the selected {abs(year)} {"BCE" if year < 0 else "CE"} source outline, displayed only in the stated editorial window. It is approximate context, not an annual frontier or uniform control.',
-        'zh': f'这是选定的公元{"前" if year < 0 else ""}{abs(year)}年来源轮廓，仅在所注编辑窗口内显示；属于概略背景，不表示逐年边界或均匀控制。',
-    }
-    note['en'] += ' The source repository is GPL-3.0; the original input for this individual feature is not separately documented.'
-    note['zh'] += ' 来源仓库采用GPL-3.0许可，但此单项要素的原始输入未单独记录。'
-    if polity in ('warring-regional', 'sixteen-kingdoms-region'):
-        note['en'] += ' The shared fill groups separate states; it is not a single sovereign polity.'
-        note['zh'] += ' 同色仅将多个独立政权分组，并非单一主权国家。'
-    src = evidence('Historical Basemaps · ' + filename, url, 'André Ourednik and contributors',
-                   'Selected original feature; source-year geometry normalized for display.',
-                   '选取原始要素的来源年份轮廓，进行了显示归一化。')
-    hist = evidence('China historical chronology', ev, 'The Metropolitan Museum of Art',
-                    'Supports the broad political sequence, not the shape of the frontier.',
-                    '支持大致政治序列，不验证边界轮廓。')
-    geometry = geojson(shape(matches[0]['geometry']))
-    feat = entry(f'open-{year}-{polity}', polity, year, name, note, [src, hist], geometry,
-                 start, end, 'historical-basemaps-china-review', 'GPL-3.0-only')
-    feat['properties'].update({'sourceName': src_name, 'geometrySource': url, 'sourceCommit': COMMIT, 'attribution': 'André Ourednik and Historical Basemaps contributors; GPL-3.0-only'})
-    base_features.append(feat)
 
 # The author's Albers projection is documented on the file page. Source SVG
 # pixels are registered with Luoyang and independent Natural Earth coastline
@@ -193,5 +127,4 @@ def write(filename, name, license_, features):
     (DATA / filename).write_bytes(blob)
     print(filename, len(features), len(blob), sha(blob))
 
-write('china-open-basemaps-v17.geojson', 'Selected historical basemap references', 'GPL-3.0-only', base_features)
 write('china-open-warring-v17.geojson', 'Warring States c. 250 BCE', 'CC0-1.0', open_features)
