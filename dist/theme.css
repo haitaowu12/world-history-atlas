@@ -161,14 +161,30 @@ dialog::backdrop { background:#122a42a8; }
 .occupation-point-symbol { fill:#824658; stroke:#fffaf0; stroke-width:.7; }
 .occupation-point:hover .occupation-point-halo,.occupation-point:focus-visible .occupation-point-halo { stroke:#1f4658; stroke-width:2; }
 .occupation-point:focus-visible { outline:none; }
-.occupation-key { display:flex; flex-direction:column; align-items:flex-start; gap:2px; margin-top:5px; padding:5px 7px; width:max-content; max-width:100%; background:#fffffff2; border-left:3px solid #824658; border-radius:2px; pointer-events:auto; }
+.occupation-key { display:block; margin-top:5px; padding:5px 7px; width:max-content; max-width:100%; background:#fffffff2; border-left:3px solid #824658; border-radius:2px; pointer-events:auto; }
 .occupation-key button { padding:0; border:0; color:#593a49; background:none; font-size:10px; font-weight:650; text-align:left; text-decoration:underline; text-underline-offset:2px; }
 .occupation-key small { color:#4a5960; font-size:9px; line-height:1.35; }
 .occupation-authorities { display:flex; flex-wrap:wrap; gap:3px 9px; color:#4a5960; font-size:9px; }
 .occupation-authorities span { display:inline-flex; align-items:center; gap:4px; }
-.occupation-swatch { width:10px; height:10px; border:1px solid currentColor; background:repeating-linear-gradient(135deg,currentColor 0 1.5px,transparent 1.5px 4px); }
+.occupation-swatch { width:10px; height:10px; border:1px solid currentColor; background:repeating-linear-gradient(135deg,currentColor 0 1.5px,color-mix(in srgb,currentColor 40%,white) 1.5px 4px); }
 .occupation-swatch.germany { color:#8c3549; } .occupation-swatch.axis { color:#98733d; }
 .occupation-swatch.western-allies { color:#286e81; } .occupation-swatch.soviet { color:#70468b; }
 .map-load-notice { margin-top:5px; padding:6px 8px; max-width:340px; background:#fffaf0f2; border-left:3px solid #b28146; color:#5c4939; border-radius:2px; font-size:10px; line-height:1.4; pointer-events:auto; }
 .map-load-notice button { padding:2px 5px; }
 @media(max-width:700px) { .occupation-key { max-width:210px; } .occupation-key button,.occupation-key small { font-size:9px; } }
+
+/* Timeline navigation uses the same three destinations across its views. */
+.chronology-scrubber { display:grid; gap:5px; margin:12px 0 16px; max-width:760px; }
+.chronology-scrubber label { display:flex; justify-content:space-between; gap:12px; color:var(--ink); font-size:12px; font-weight:650; }
+.chronology-scrubber output { font-weight:600; }
+.chronology-scrubber input { width:100%; accent-color:var(--accent); min-height:24px; cursor:pointer; }
+.chronology-scrubber small { color:var(--muted); font-size:11px; line-height:1.35; }
+
+.occupation-years,.occupation-focus { display:flex; flex-wrap:wrap; gap:3px; margin-top:3px; }
+.occupation-key .occupation-years button,.occupation-key .occupation-focus button { min-height:22px; padding:2px 4px; border:1px solid #c7b4b7; border-radius:3px; text-decoration:none; font-size:10px; }
+.occupation-key .occupation-years button[aria-pressed=true] { color:white; background:#824658; border-color:#824658; }
+.occupation-key .occupation-focus button { color:#354d5e; border-color:#bdcbd4; }
+
+.occupation-key > summary { cursor:pointer; color:#593a49; font-size:10px; font-weight:700; }
+.occupation-key-body { display:flex; flex-direction:column; align-items:flex-start; gap:2px; padding-top:3px; }
+@media(max-width:700px) { .map-stage:has(.occupation-key[open]) .map-snapshot { z-index:5; } .occupation-key > summary { font-size:10px; } }

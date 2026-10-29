@@ -5,6 +5,7 @@ import {buildReferenceIndex,searchReferences,recordsInReferencePeriod,createHist
 import {ERAS,REGIONAL,inferKind} from '../dist/atlas-model.mjs';
 import {chinaRoutes} from '../dist/china-library.mjs';
 import {applyChinaReviews} from '../dist/china-review.mjs';
+import {createRegionalExplorer} from '../dist/regional-explorer.mjs';
 
 const read=name=>JSON.parse(readFileSync(new URL('../dist/data/'+name,import.meta.url)));
 const manifest=read('china-import-manifest.json');
@@ -72,7 +73,13 @@ test('search combines name, semantic type, year and region without source-origin
 test('reference map navigation joins the whole atlas and mapped routes retain their original IDs',()=>{
   let navigation,selectedRoute;
   const references=createHistoryReferences({library,manifest,records,routes,eras:ERAS,regions:REGIONAL,getState:()=>({lang:'en',region:'east-asia',collection:'jiangshan'}),openDialog:()=>{},escape:String,browsePeriod:value=>{navigation=value;},openRoute:id=>{selectedRoute=id;}});
-  assert.equal(references.handle('reference-browse','reference-window-beisong'),true);
+  const previousLocation=globalThis.location;globalThis.location={hash:''};
+  try {
+    const regions=createRegionalExplorer({getState:()=>({lang:'en'}),enabled:()=>false,isChallenge:()=>false});
+    const action='history-period-map',id='reference-window-beisong';
+    assert.equal(regions.handle(action,id),false,'regional dispatch must not swallow period-map navigation');
+    assert.equal(regions.handle(action,id)||references.handle(action,id),true);
+  } finally {if(previousLocation===undefined)delete globalThis.location;else globalThis.location=previousLocation;}
   assert.equal(navigation.region,'all');
   assert.deepEqual([navigation.start,navigation.end,navigation.year],[960,1127,1100]);
   assert.equal(references.handle('reference-open','reference-route-china-journey-sushi'),true);

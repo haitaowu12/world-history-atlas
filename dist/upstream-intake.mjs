@@ -34,8 +34,12 @@ export function applyReviewedUpdate(events, people, library, update) {
   return {...reviewed,people:people.map(person => {
     const supplement = supplements.get(person.id);
     if (!supplement) return person;
+    const additions=supplement.additionalMilestones||[];
+    if(!Array.isArray(additions))throw Error('Invalid biography milestones: '+person.id);
+    for(const m of additions){if(!Number.isInteger(m.year)||m.year<person.start||m.year>person.end||!m.title?.en||!m.title?.zh||!m.description?.en||!m.description?.zh||!m.location?.label||!Number.isFinite(m.location?.lat)||Math.abs(m.location.lat)>90||!Number.isFinite(m.location?.lon)||Math.abs(m.location.lon)>180||(person.milestones||[]).some(old=>old.year===m.year&&old.title?.en===m.title.en))throw Error('Invalid biography milestone: '+person.id);}
     return {...person,keyFacts:Object.fromEntries(['en','zh'].map(lang=>[lang,
       [...(person.keyFacts?.[lang]||[]),...supplement.keyFacts[lang]]])),
+      ...(additions.length?{milestones:[...(person.milestones||[]),...structuredClone(additions)].sort((a,b)=>a.year-b.year)}:{}),
       sources:[...supplement.sources,...person.sources].filter((source,i,all)=>all.findIndex(other=>other.url===source.url)===i),
       sourceSupplement:{checkedAt:update.checkedAt,upstreamLead:update.upstreamCommit}};
   })};

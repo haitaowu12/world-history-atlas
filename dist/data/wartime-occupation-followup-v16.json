@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "checkedAt": "2026-10-28",
+  "sources": {
+    "france1942Review": {
+      "title": "France",
+      "url": "https://encyclopedia.ushmm.org/content/en/article/france",
+      "publisher": "United States Holocaust Memorial Museum",
+      "evidenceNote": "The France account distinguishes the 1940 German and Italian areas, German entry into the former southern zone in November 1942, and German occupation of the Italian zone after September 1943. It does not provide the polygon used here.",
+      "evidenceNoteZh": "法国条目区分1940年德意占领地区、1942年11月德军进入原南部自由区，以及1943年9月后德军占领意大利区；该文不提供此处使用的多边形。",
+      "checkedAt": "2026-10-28",
+      "retrieval": "opened-page"
+    },
+    "germanExpansion1941Review": {
+      "title": "German Wartime Expansion",
+      "url": "https://encyclopedia.ushmm.org/content/en/article/german-wartime-expansion",
+      "publisher": "United States Holocaust Memorial Museum",
+      "evidenceNote": "The account describes the 1939 German and Soviet partition, the German invasion of Soviet-held eastern Poland in 1941, and distinct administrative jurisdictions. It does not validate a precise occupation boundary.",
+      "evidenceNoteZh": "资料记述1939年德苏瓜分、1941年德军入侵苏联占领的波兰东部，以及不同的行政区划；并不验证精确占领边界。",
+      "checkedAt": "2026-10-28",
+      "retrieval": "opened-page"
+    }
+  },
+  "records": [
+    {
+      "id": "ww2-france-axis-reference-1942-43",
+      "war": "ww2",
+      "start": 1942,
+      "end": 1943,
+      "render": "country-reference",
+      "authority": "axis",
+      "gwcode": 220,
+      "title": {
+        "en": "Metropolitan France · Axis occupation, year-end",
+        "zh": "法国本土 · 轴心国占领，年末参照"
+      },
+      "summary": {
+        "en": "At the end of 1942 German and Italian forces occupied metropolitan France, after German troops entered the former southern zone in November. Italian and German authorities governed different areas; Germany occupied the Italian zone after Italy’s September 1943 surrender. The hatch uses an existing metropolitan country reference and does not map those zones, overseas territories, resistance or exact frontiers.",
+        "zh": "1942年末，德意军队占领法国本土；德军于11月进入原南部自由区。德意当局分别控制不同区域；意大利于1943年9月投降后，德军占领意大利区。斜线使用既有法国本土参照轮廓，不绘制各区、海外领地、抵抗活动或精确战线。"
+      },
+      "sourceIds": [
+        "france1942Review",
+        "ww2Dates"
+      ],
+      "relatedIds": [
+        "second-world-war",
+        "holocaust"
+      ]
+    },
+    {
+      "id": "ww2-poland-german-reference-1941-43",
+      "war": "ww2",
+      "start": 1941,
+      "end": 1943,
+      "render": "country-reference",
+      "authority": "germany",
+      "gwcode": 290,
+      "title": {
+        "en": "Poland · broad German-controlled context, year-end",
+        "zh": "波兰 · 德国控制的大致背景，年末参照"
+      },
+      "summary": {
+        "en": "After the June 1941 invasion of the Soviet Union, German forces drove Soviet forces out of eastern Poland. Previously Polish territory was divided among German-annexed areas, the General Government and other administrations. The country hatch is a broad prewar reference, not a reconstructed occupation frontier or uniform legal status; small areas and local control may differ.",
+        "zh": "1941年6月德国入侵苏联后，德军将苏军逐出波兰东部。原波兰地区分属德国吞并区、总督府及其他行政区。国家斜线仅为战前地域的大致参照，并非重建的占领边界或统一法律地位；小范围及地方控制情况可能不同。"
+      },
+      "sourceIds": [
+        "germanExpansion1941Review",
+        "poland"
+      ],
+      "relatedIds": [
+        "second-world-war",
+        "holocaust"
+      ]
+    },
+    {
+      "id": "ww1-belgium-transition-1918",
+      "war": "ww1",
+      "start": 1918,
+      "end": 1918,
+      "render": "place-reference",
+      "authority": "mixed",
+      "gwcode": 211,
+      "location": {
+        "lon": 4.3517,
+        "lat": 50.8503
+      },
+      "title": {
+        "en": "Belgium · occupation and liberation in 1918",
+        "zh": "比利时 · 1918年的占领与解放"
+      },
+      "summary": {
+        "en": "Occupation continued through much of 1918. Belgian, French and British forces took part in the offensive beginning on 28 September; by the Armistice it had reached the Scheldt. The Brussels marker represents the national transition and does not show the moving front or assert control throughout the year.",
+        "zh": "占领在1918年的大部分时间里仍在持续。比利时、法国与英国部队参与了9月28日开始的攻势；到停战时，部队已抵达斯海尔德河。布鲁塞尔标记代表全国性转折，不展示移动战线，也不表示全年控制状况不变。"
+      },
+      "sourceIds": [
+        "ww1BelgiumEnd"
+      ],
+      "relatedIds": [
+        "first-world-war"
+      ]
+    }
+  ]
+}

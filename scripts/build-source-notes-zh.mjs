@@ -33,6 +33,7 @@ function collect(value){
   if(!value||typeof value!=='object')return;
   if(typeof value.evidenceNote==='string' && value.evidenceNote.trim()){
     english.add(value.evidenceNote);occurrences++;
+    if(typeof value.evidenceNoteZh==='string'&&value.evidenceNoteZh.trim()&&!translations[value.evidenceNote])translations[value.evidenceNote]=value.evidenceNoteZh;
   }
   for(const child of Object.values(value))collect(child);
 }
