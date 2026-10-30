@@ -1,10 +1,14 @@
 # Contributing
 
-Current application candidate: **0.19.0**. Current narrative manifest: `dist/data/content-expansion-v15.json` (content version 0.16.0). `npm run build:content` invokes `scripts/build-content-expansion-v15.mjs`; its additive input is `dist/data/expansion-jiangshan-review-v15.json`. V14 and earlier inputs are frozen checkpoints.
+Current published application: **0.19.0**. This standalone repository uses `main`; run commands from its root. Current narrative manifest: `dist/data/content-expansion-v15.json` (content version 0.16.0). `npm run build:content` invokes `scripts/build-content-expansion-v15.mjs`; its additive input is `dist/data/expansion-jiangshan-review-v15.json`. V14 and earlier inputs are frozen checkpoints.
 
 Reading presentation lives in `dist/reading-catalog.mjs`: bilingual title/summary overrides, recommended IDs and chapter boundaries anchored to existing record IDs. The browser consumes this after loading narrative records and map anchors. Edit this layer for catalogue or chapter improvements; no content rebuild is needed. Preserve original course IDs, stop order, dates, questions and map anchors. Chapters must partition the complete sequence without dropping or duplicating records. Shared URLs retain the original absolute `step`; optional `chapter` limits navigation to a chapter. Estimates allocate the existing course duration proportionally and are not measured reading times.
 
 Contributions should improve either the learning experience or the evidence behind it. Keep changes focused and identify whether they alter a historical claim, date, location, translation or application behavior.
+
+## Discuss a change or report a problem
+
+Use [GitHub Issues](https://github.com/haitaowu12/world-history-atlas/issues) for historical corrections, bilingual feedback, usability problems or proposed readings. Include an entry link/title and supporting evidence for historical changes. For a software bug, include the steps, expected result, actual result and browser. Open pull requests against `main`. Retain source credits and read [ACKNOWLEDGEMENTS.md](ACKNOWLEDGEMENTS.md).
 
 ## Start with the evidence
 

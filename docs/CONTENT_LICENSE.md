@@ -17,6 +17,10 @@ Original application code and project documentation are covered by the root [MIT
 
 The imported Jiangshan event prose, profiles, chronicles, quotations, existing English translations, city notes, place-name records and related source text are **not licensed by this project's CC BY notice**. Converting them to JSON, adding a citation, retaining them in an `originalText` field or displaying them beside a newly written essay does not change their source attribution or terms.
 
+## Current distribution and earlier checkpoints
+
+The tables below are a source-credit index, not a complete inventory of the current release. Original per-file notices are retained. Since 0.17.0, older inherited Jiangshan political and administrative polygons have been removed from the current distribution; their notices remain historical attribution. The [boundary review](JIANGSHAN_BOUNDARY_RIGHTS_REVIEW_2026_10_28.md) records later removals, replacements and remaining limits. Use [ACKNOWLEDGEMENTS.md](../ACKNOWLEDGEMENTS.md), the current [map-snapshots.json](../dist/data/map-snapshots.json), and each dataset's notice for current attribution.
+
 ## Distributed third-party material
 
 | Material and local file | Source and retained notice |
@@ -26,13 +30,13 @@ The imported Jiangshan event prose, profiles, chronicles, quotations, existing E
 | `dist/data/territories-modern-history-*.geojson` — 4 files, 142 dated features | Historical Basemaps; [modern-history source and transformation notice](../dist/data/territories-modern-history.LICENSE.md) and [GPL-3.0 text](../dist/data/territories.LICENSE) |
 | `dist/data/territories-context-*.geojson` — 8 files, 271 dated features | Historical Basemaps; [GPL-3.0 text](../dist/data/territories.LICENSE); source years and permitted display periods are recorded separately |
 | `dist/data/territories-awmc.geojson` — Roman Empire, 200 CE | [Ancient World Mapping Center](https://awmc.unc.edu/gis-data/); credit **Ancient World Mapping Center, Barrington Atlas and OpenStreetMap contributors**; [ODbL 1.0 text](../dist/data/territories-awmc.LICENSE) |
-| `dist/data/territories-jiangshan.geojson` — Southern Song and Jurchen Jin in 1200, Ming in 1600 | DeanChensj's [Jiangshan Map](https://github.com/haitaowu12/jiangshan-map) schematics, pinned from the user's fork; [preserved upstream notices](../dist/data/territories-jiangshan.LICENSE.md), including its README GPL-3.0 declaration and root MIT notice |
+| Retired Jiangshan political/administrative polygon exports | DeanChensj and [Jiangshan Map contributors](https://github.com/DeanChensj/jiangshan-map); [historical notices](../dist/data/territories-jiangshan.LICENSE.md) retained; removed from the current distribution in 0.17.0 |
 | `dist/data/china-events-*.json`, `china-library.json`, `china-library-places.json`, `china-library-settlements-*.json` | DeanChensj and Jiangshan Map contributors; narrative, directory and chronicle import from the pinned fork; [content-import notice](../dist/data/china-upstream.LICENSE.md) and [import manifest](../dist/data/china-import-manifest.json) |
 | `dist/data/contemporary-world-*.geojson` — 7 files, 242 map units; `disputed-lines.geojson` — 29 lines; `disputed-areas.geojson` — 25 areas | [Natural Earth](https://www.naturalearthdata.com/about/terms-of-use/), public domain; [contemporary layer notice](../dist/data/contemporary-world.LICENSE.md) |
 | `dist/assets/land.geojson`, `countries.geojson`, `rivers.geojson` | [Natural Earth](https://www.naturalearthdata.com/about/terms-of-use/), public domain; [bundled terms](../dist/assets/land.LICENSE.md) |
 | `dist/assets/d3.v7.9.0.min.js` | D3, Mike Bostock and contributors; [ISC notice](../dist/assets/d3.LICENSE) |
 
-The historical layer inventory above totals **516 dated features in 17 files, organized into 43 source checkpoints**. A polity can appear at more than one checkpoint; this is not a count of distinct states. These names and counts come from [map-snapshots.json](../dist/data/map-snapshots.json), which records the source commits, paths, hashes, transformations and layer notices. The three geometry sources remain separate within those files. See [MAP_METHODOLOGY.md](MAP_METHODOLOGY.md) for their interpretation.
+The current [map-snapshots.json](../dist/data/map-snapshots.json) records source commits, paths, transformations and layer notices. Earlier checkpoint counts are not a current inventory. A polity may appear at several source dates; features are not a count of distinct states. See [MAP_METHODOLOGY.md](MAP_METHODOLOGY.md) for their interpretation.
 
 The contemporary map units include dependencies, disputed areas and other geographic entities. They are not a sovereign-state count. Their source vintage, review interval, names and exclusions are in [contemporary-world.json](../dist/data/contemporary-world.json). Reference assets and D3 are recorded in [PROVENANCE.json](../dist/assets/PROVENANCE.json).
 
@@ -44,9 +48,9 @@ The [import manifest](../dist/data/china-import-manifest.json) identifies every 
 
 Later historical corrections are stored separately in [`china-reviews.json`](../dist/data/china-reviews.json). They add evidence, notes and selected display changes while leaving the frozen import files intact. Original explanatory wording newly written for this review layer is covered by the atlas's CC BY notice. Inherited or adapted passages and the originals retained for comparison keep their source notices. A reviewed record can therefore contain material with different provenance; its review label does not change the license of every field.
 
-The Jiangshan repository's per-outline derivation is unresolved. Its references include CHGIS, Hartwell, Tan Qixiang and Historical Basemaps, but those references do not establish the origin or license of each individual shape or independently substantiate every imported narrative. Both published repository notices are preserved. No CHGIS dataset was directly downloaded in this release. That fact alone does not establish the absence of CHGIS-derived material in the distributed Jiangshan schematics; their individual lineage and permission remain unresolved.
+The Jiangshan repository's per-outline derivation is unresolved. Its references include CHGIS, Hartwell, Tan Qixiang and Historical Basemaps, but those references do not establish the origin or license of each individual shape or independently substantiate every imported narrative. Both published repository notices are preserved. No CHGIS dataset was directly downloaded in that import. The older inherited political and administrative polygon exports were subsequently removed from the current distribution. Their historical notices remain, while the remaining non-polygon waterways and corridors still have unresolved individual lineage questions; see the [successor review](JIANGSHAN_BOUNDARY_RIGHTS_REVIEW_2026_10_28.md).
 
-CShapes was consulted for a limited local comparison of modern-period geography. No CShapes geometry is distributed. Its terms do not become the license of the shipped source layers.
+CShapes was initially consulted for a limited local comparison. The later V7 display derivative is distributed under the separate CC BY-NC-SA 4.0 notice below; it is not included under MIT or the original-narrative CC BY grant.
 
 ## Reuse and contributions
 
@@ -58,7 +62,7 @@ Contributors should submit original code and documentation under the project's M
 
 CShapes 2.0 geometry and its display derivative retain **CC BY-NC-SA 4.0**, attribution to Schvitz, Rüegger, Girardin, Cederman, Weidmann and Gleditsch (2022), ETH Zürich. See `dist/data/cshapes-v7.LICENSE.md`. The license applies to the derivative geometry, not to unrelated original code or narrative text.
 
-The fuller Jiangshan phase extraction preserves the upstream notice discrepancy and source attribution in `dist/data/china-context-v7.LICENSE.md`. It does not claim that all geometry is covered by the root MIT notice. Political phase shapes and optional administrative shapes remain inherited schematics.
+The fuller Jiangshan phase extraction preserves the upstream notice discrepancy and source attribution in `dist/data/china-context-v7.LICENSE.md`. It does not claim that all geometry is covered by the root MIT notice. The political and administrative shapes were removed in 0.17.0; the notice now records their historical attribution.
 
 The 52 new bilingual narratives use the atlas's original-narrative CC BY 4.0 terms; their cited sources retain their own rights. They paraphrase evidence and do not republish source articles.
 
@@ -70,4 +74,4 @@ The 52 new bilingual narratives use the atlas's original-narrative CC BY 4.0 ter
 
 ## 28 October geometry follow-up
 
-The [boundary review](JIANGSHAN_BOUNDARY_WARTIME_NAVIGATION_REVIEW_2026_10_28.md) records the upstream CHGIS/Hartwell exception and the CHGIS provider’s prohibition on redistribution. The provenance of existing V7 Warring States and administrative exports needs further feature-level review. No newer Jiangshan boundary, Stanford wartime geometry or Rauchway teaching-map geometry was imported in this follow-up. Existing CShapes country-reference geometry retains its CC BY-NC-SA 4.0 terms; original follow-up narratives use the atlas contribution terms.
+The [boundary review](JIANGSHAN_BOUNDARY_WARTIME_NAVIGATION_REVIEW_2026_10_28.md) records the upstream CHGIS/Hartwell exception and the CHGIS provider’s prohibition on redistribution. This was an intermediate checkpoint, superseded by the later [polygon removal and replacement review](JIANGSHAN_BOUNDARY_RIGHTS_REVIEW_2026_10_28.md). No newer Jiangshan boundary, Stanford wartime geometry or Rauchway teaching-map geometry was imported in this follow-up. Existing CShapes country-reference geometry retains its CC BY-NC-SA 4.0 terms; original follow-up narratives use the atlas contribution terms.
