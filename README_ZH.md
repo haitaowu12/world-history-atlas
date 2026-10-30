@@ -2,7 +2,7 @@
 
 **把故事放回当时的世界。**
 
-[打开地图](https://world-history-atlas-tony.techiesea.chatgpt.site) · [English](README.md) · [致谢与来源](ACKNOWLEDGEMENTS.md) · [参与贡献](CONTRIBUTING.md)
+[打开地图](https://world-history-atlas-tony.techiesea.chatgpt.site) · [GitHub Pages 镜像](https://haitaowu12.github.io/world-history-atlas/) · [English](README.md) · [致谢与来源](ACKNOWLEDGEMENTS.md) · [参与贡献](CONTRIBUTING.md)
 
 ![普天之下 · World History Atlas, 1200 CE](dist/assets/atlas-preview.jpg)
 

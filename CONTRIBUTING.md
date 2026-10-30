@@ -122,3 +122,6 @@ The old [history-geodata-review.md](docs/history-geodata-review.md) is retained 
 
 Submit original code under this project's MIT license and original narrative contributions under the CC BY 4.0 terms in [CONTENT_LICENSE.md](docs/CONTENT_LICENSE.md). Identify any third-party material and preserve its separate license. Linking to a source does not relicense its text, images or data.
 
+## Publish the GitHub Pages mirror
+
+After committing application changes, run `npm run publish:pages` from the repository root. This runs the checks and publishes the committed `dist/` snapshot to `gh-pages`, keeping its history and verifying the pushed commit. It does not deploy the GPT Site. Use [the dual-host publishing guide](docs/GITHUB_PAGES.md) to keep the two public copies aligned.

@@ -2,7 +2,7 @@
 
 **把故事放回当时的世界。 · Put each story back in its world.**
 
-[Explore the atlas](https://world-history-atlas-tony.techiesea.chatgpt.site) · [简体中文](README_ZH.md) · [Acknowledgements & sources](ACKNOWLEDGEMENTS.md) · [Contribute](CONTRIBUTING.md)
+[Explore the atlas](https://world-history-atlas-tony.techiesea.chatgpt.site) · [GitHub Pages](https://haitaowu12.github.io/world-history-atlas/) · [简体中文](README_ZH.md) · [Acknowledgements & sources](ACKNOWLEDGEMENTS.md) · [Contribute](CONTRIBUTING.md)
 
 ![普天之下 · World History Atlas, 1200 CE](dist/assets/atlas-preview.jpg)
 
