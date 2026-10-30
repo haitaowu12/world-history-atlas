@@ -4,7 +4,7 @@ A bilingual, source-backed atlas for exploring histories that existed at the sam
 
 ## Current development and published baseline
 
-**Local candidate: application 0.19.0, guided-reading experience (29 October 2026).** The catalogue adds bilingual search, region/theme/time filters and three suggested starting studies. Eleven reading titles/descriptions are revised for readers; the five longest sequences gain 26 named chapters. Dialogs start at their headings; returning to the catalogue restores filters, scroll position and the selected study. All 70 reading IDs, original stop order, source records and map anchors remain available. See .
+**Published application 0.19.0, guided-reading experience (29 October 2026).** The catalogue adds bilingual search, region/theme/time filters and three suggested starting studies. Eleven reading titles/descriptions are revised for readers; the five longest sequences gain 26 named chapters. Dialogs start at their headings; returning to the catalogue restores filters, scroll position and the selected study. All 70 reading IDs, original stop order, source records and map anchors remain available. See .
 
 **Current narrative input: V15 / content manifest 0.16.0.** Application, narrative and geometry versions are separate. `npm run build:content` runs `scripts/build-content-expansion-v15.mjs`, preserving V14 and earlier narrative inputs. `dist/reading-catalog.mjs` holds reading presentation edits and chapter boundaries; it does not rewrite the narrative manifests. Read [CONTRIBUTING](CONTRIBUTING.md) and the ordered  before extending the collection.
 
