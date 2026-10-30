@@ -1,6 +1,6 @@
 # Contributing
 
-Current published application: **0.19.0**. This standalone repository uses `main`; run commands from its root. Current narrative manifest: `dist/data/content-expansion-v15.json` (content version 0.16.0). `npm run build:content` invokes `scripts/build-content-expansion-v15.mjs`; its additive input is `dist/data/expansion-jiangshan-review-v15.json`. V14 and earlier inputs are frozen checkpoints.
+Current application: **0.20.0**. This standalone repository uses `main`; run commands from its root. Current narrative manifest: `dist/data/content-expansion-v15.json` (content version 0.16.0). `npm run build:content` invokes `scripts/build-content-expansion-v15.mjs`; its additive input is `dist/data/expansion-jiangshan-review-v15.json`. V14 and earlier inputs are frozen checkpoints.
 
 Reading presentation lives in `dist/reading-catalog.mjs`: bilingual title/summary overrides, recommended IDs and chapter boundaries anchored to existing record IDs. The browser consumes this after loading narrative records and map anchors. Edit this layer for catalogue or chapter improvements; no content rebuild is needed. Preserve original course IDs, stop order, dates, questions and map anchors. Chapters must partition the complete sequence without dropping or duplicating records. Shared URLs retain the original absolute `step`; optional `chapter` limits navigation to a chapter. Estimates allocate the existing course duration proportionally and are not measured reading times.
 

@@ -1,8 +1,10 @@
-# World History Atlas · 寰宇时序
+# World History Atlas · 普天之下
 
-**History stories, with a view of the world around them.**
+**把故事放回当时的世界。 · Put each story back in its world.**
 
 [Explore the atlas](https://world-history-atlas-tony.techiesea.chatgpt.site) · [简体中文](README_ZH.md) · [Acknowledgements & sources](ACKNOWLEDGEMENTS.md) · [Contribute](CONTRIBUTING.md)
+
+![普天之下 · World History Atlas, 1200 CE](dist/assets/atlas-preview.jpg)
 
 ## Why I built this
 
@@ -24,7 +26,7 @@ Inspired by that work, and with help from OpenAI Codex, I built World History At
 - Follow short guided readings or explore longer sequences in chapters.
 - Save entries and personal notes in your browser, and export your notebook.
 
-The current application is **0.19.0**, with **70 guided readings**. This is a growing educational project with selected coverage. Maps have their own source dates and limits; an empty area does not mean an absence of people or history. Historical corrections, translation feedback and suggestions from different regional perspectives are welcome.
+The current application is **0.20.0**, with **70 guided readings**. This is a growing educational project with selected coverage. Maps have their own source dates and limits; an empty area does not mean an absence of people or history. Historical corrections, translation feedback and suggestions from different regional perspectives are welcome.
 
 ## Thank you to Jiangshan and the source community
 
@@ -47,6 +49,8 @@ Open http://127.0.0.1:8080. To check the application and data, run `npm run chec
 ## Feedback and contributions
 
 [Open an issue](https://github.com/haitaowu12/world-history-atlas/issues) with a correction, translation suggestion, usability problem or idea for a connected history. For a historical correction, include the entry's link or title and a source supporting the change. Contributions from parents, educators, historians and different language and regional communities would be especially useful.
+
+Read [CONTRIBUTING.md](CONTRIBUTING.md) and the [data policy](docs/DATA_POLICY.md) before changing historical records.
 
 ## Reuse and attribution
 

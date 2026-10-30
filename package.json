@@ -1,9 +1,9 @@
 {
   "name": "world-history-atlas",
-  "version": "0.19.0",
+  "version": "0.20.0",
   "private": true,
   "type": "module",
-  "description": "A bilingual, source-backed atlas for exploring concurrent world histories.",
+  "description": "普天之下 · A bilingual atlas for putting history stories in their wider world.",
   "license": "MIT",
   "scripts": {
     "build:content": "node scripts/build-content-expansion-v15.mjs",

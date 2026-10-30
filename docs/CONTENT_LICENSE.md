@@ -4,12 +4,12 @@
 
 Copyright © 2026 Tony Wu.
 
-The original English and Chinese historical summaries, date notes, entry titles, authored biographies and milestone text, route explanations, guided-reading text, study questions and activities created for **World History Atlas · 寰宇时序** are licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**. This covers newly written atlas material; the Jiangshan import described below is excluded.
+The original English and Chinese historical summaries, date notes, entry titles, authored biographies and milestone text, route explanations, guided-reading text, study questions and activities created for **World History Atlas · 普天之下** are licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**. This covers newly written atlas material; the Jiangshan import described below is excluded.
 
 - [License overview](https://creativecommons.org/licenses/by/4.0/)
 - [Legal terms](https://creativecommons.org/licenses/by/4.0/legalcode)
 
-When reusing covered original content, credit **Tony Wu, World History Atlas · 寰宇时序**, provide the license link, retain a source link when supplied and identify changes. Do not imply endorsement.
+When reusing covered original content, credit **Tony Wu, World History Atlas · 普天之下**, provide the license link, retain a source link when supplied and identify changes. Do not imply endorsement.
 
 This notice covers original expression and teaching material. It does not claim exclusive rights over underlying historical facts or relicense cited pages, source quotations, third-party images, imported map geometry, software dependencies or other third-party material. Their own rights and notices remain applicable. A source link is an evidence reference, not permission to reproduce the source's contents.
 

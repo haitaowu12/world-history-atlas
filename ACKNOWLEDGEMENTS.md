@@ -14,7 +14,7 @@ The pinned source's MIT license text and README's GPL-3.0 statement are both pre
 
 World History Atlas is maintained independently by Tony Wu. These credits do not imply endorsement by Jiangshan's authors or any source provider.
 
-特别感谢 DeanChensj 和江山时序的贡献者们。你们把地点、人物和事件放回地图中的方式，为这个项目提供了重要启发。寰宇时序也继承并改编了有明确归属的江山资料；这些贡献及其原始声明会继续保留。
+特别感谢 DeanChensj 和江山时序的贡献者们。你们把地点、人物和事件放回地图中的方式，为这个项目提供了重要启发。普天之下也继承并改编了有明确归属的江山资料；这些贡献及其原始声明会继续保留。
 
 ## Maps, data and software
 
