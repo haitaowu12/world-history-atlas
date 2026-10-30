@@ -1,0 +1,394 @@
+{
+  "version": 2,
+  "reviewedYear": 2026,
+  "reviewedAt": "2026-10-23",
+  "geometryVintage": 2022,
+  "geometryLastChanged": "2022-05-13",
+  "mode": "contemporary-reference",
+  "automaticSelectionYears": [
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "contextValidity": {
+    "start": 2011,
+    "end": 2026,
+    "backwardReviewed": true,
+    "reviewedAt": "2026-10-23",
+    "evidence": [
+      "https://research.un.org/en/unmembers/currentmembers"
+    ],
+    "note": {
+      "en": "Reviewed as dated reference context for this interval. The 2022 source geometry is not a reconstruction of annual borders or military control.",
+      "zh": "在本时段内作为有日期的参考背景使用。2022版来源几何不是逐年边界或军事控制范围的重建。"
+    }
+  },
+  "historicalFallbacks": [
+    {
+      "code": "RUS",
+      "polityId": "russia-modern",
+      "start": 2011,
+      "end": 2013
+    },
+    {
+      "code": "UKR",
+      "polityId": "ukraine",
+      "start": 2011,
+      "end": 2013
+    }
+  ],
+  "title": {
+    "en": "Contemporary reference",
+    "zh": "当代地理参考"
+  },
+  "coverage": {
+    "en": "242 mapped countries and territories at 1:50 million scale; this is not a count of sovereign states. Selected claim lines and 25 neutral hatched claim areas are shown separately. Small features and claims are generalized.",
+    "zh": "1:5000万比例尺的242个国家与地区地图单元，并非主权国家数量。部分领土主张线与25个中性阴影提示的主张地区单独显示。细小地区与主张经过概化。"
+  },
+  "method": {
+    "en": "Natural Earth geometry released in 2022, explicitly reviewed as reference context for 2011–2026. Russia/Ukraine use separately licensed 2010 historical outlines through 2013; the 2022 convention is eligible only from 2014. Period names and categories are explicit. These are dated references, not annual border or military-control reconstructions.",
+    "zh": "Natural Earth于2022年发布的几何轮廓，经明确复核后用作2011—2026年的参考背景。俄罗斯与乌克兰在2013年及以前使用另有许可的2010年历史轮廓；2022版制图约定仅从2014年起适用。各时期的名称与分类单独规定。这些是有日期的参考图，不是逐年边界或军事控制重建。"
+  },
+  "sourceRepository": "https://github.com/nvkelso/natural-earth-vector",
+  "sourceCommit": "ca96624a56bd078437bca8184e78163e5039ad19",
+  "sourceRelease": "v5.1.2",
+  "countryDatasetVersion": "5.1.1",
+  "license": "Public domain",
+  "licenseFile": "contemporary-world.LICENSE.md",
+  "layers": [
+    {
+      "file": "contemporary-world-01.geojson",
+      "outputSha256": "fa8908e801504721be1fc7d92d886af3955f10353e5fed94f68777df114754f3",
+      "featureCount": 47,
+      "bytes": 448984,
+      "role": "countries",
+      "sourceFile": "ne_50m_admin_0_countries.geojson",
+      "sourceURL": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/ca96624a56bd078437bca8184e78163e5039ad19/geojson/ne_50m_admin_0_countries.geojson",
+      "sourceSha256": "3e458fc036ad0a66411f2c1e6cac49c5d7bfb81cb1123bc513b22511a2b7fdeb"
+    },
+    {
+      "file": "contemporary-world-02.geojson",
+      "outputSha256": "9682ac355e31693fb3860f966934943aa3a3c7122ebb4a8c56c8fea95ade244d",
+      "featureCount": 36,
+      "bytes": 443914,
+      "role": "countries",
+      "sourceFile": "ne_50m_admin_0_countries.geojson",
+      "sourceURL": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/ca96624a56bd078437bca8184e78163e5039ad19/geojson/ne_50m_admin_0_countries.geojson",
+      "sourceSha256": "3e458fc036ad0a66411f2c1e6cac49c5d7bfb81cb1123bc513b22511a2b7fdeb"
+    },
+    {
+      "file": "contemporary-world-03.geojson",
+      "outputSha256": "20421c4d73bec6e8752794f121a384a91b75bacabf69873e8e2f33bf7af38122",
+      "featureCount": 50,
+      "bytes": 434802,
+      "role": "countries",
+      "sourceFile": "ne_50m_admin_0_countries.geojson",
+      "sourceURL": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/ca96624a56bd078437bca8184e78163e5039ad19/geojson/ne_50m_admin_0_countries.geojson",
+      "sourceSha256": "3e458fc036ad0a66411f2c1e6cac49c5d7bfb81cb1123bc513b22511a2b7fdeb"
+    },
+    {
+      "file": "contemporary-world-04.geojson",
+      "outputSha256": "e909a98732a3ca55fe556e7d94f803eceee308f51755f81e828133a27164309f",
+      "featureCount": 37,
+      "bytes": 441735,
+      "role": "countries",
+      "sourceFile": "ne_50m_admin_0_countries.geojson",
+      "sourceURL": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/ca96624a56bd078437bca8184e78163e5039ad19/geojson/ne_50m_admin_0_countries.geojson",
+      "sourceSha256": "3e458fc036ad0a66411f2c1e6cac49c5d7bfb81cb1123bc513b22511a2b7fdeb"
+    },
+    {
+      "file": "contemporary-world-05.geojson",
+      "outputSha256": "d3f01210353ffb0a2ef9657d30ec04a19ae372715390164a3a5578f6b8dd8e23",
+      "featureCount": 32,
+      "bytes": 375069,
+      "role": "countries",
+      "sourceFile": "ne_50m_admin_0_countries.geojson",
+      "sourceURL": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/ca96624a56bd078437bca8184e78163e5039ad19/geojson/ne_50m_admin_0_countries.geojson",
+      "sourceSha256": "3e458fc036ad0a66411f2c1e6cac49c5d7bfb81cb1123bc513b22511a2b7fdeb"
+    },
+    {
+      "file": "contemporary-world-06.geojson",
+      "outputSha256": "1e095b107eaffb547aa5448c66662e8f48435d5c9361a584d1613866cca07009",
+      "featureCount": 20,
+      "bytes": 449510,
+      "role": "countries",
+      "sourceFile": "ne_50m_admin_0_countries.geojson",
+      "sourceURL": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/ca96624a56bd078437bca8184e78163e5039ad19/geojson/ne_50m_admin_0_countries.geojson",
+      "sourceSha256": "3e458fc036ad0a66411f2c1e6cac49c5d7bfb81cb1123bc513b22511a2b7fdeb"
+    },
+    {
+      "file": "contemporary-world-07.geojson",
+      "outputSha256": "2e3693712a22bcb1199ce79ee7aecf3910df4703a1da980243c849d3b8efa321",
+      "featureCount": 20,
+      "bytes": 288896,
+      "role": "countries",
+      "sourceFile": "ne_50m_admin_0_countries.geojson",
+      "sourceURL": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/ca96624a56bd078437bca8184e78163e5039ad19/geojson/ne_50m_admin_0_countries.geojson",
+      "sourceSha256": "3e458fc036ad0a66411f2c1e6cac49c5d7bfb81cb1123bc513b22511a2b7fdeb"
+    },
+    {
+      "file": "disputed-lines.geojson",
+      "outputSha256": "cefbf373af2d2c2d0688fc812520730b63d61bb5f59f46c02fb1b9dfe0dcb8b5",
+      "featureCount": 29,
+      "bytes": 34544,
+      "role": "disputed-lines",
+      "sourceFile": "ne_50m_admin_0_boundary_lines_disputed_areas.geojson",
+      "sourceURL": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/ca96624a56bd078437bca8184e78163e5039ad19/geojson/ne_50m_admin_0_boundary_lines_disputed_areas.geojson",
+      "sourceSha256": "5bf5312a293cf038a367c2f150d34f295a3ccd2704affca26a1bbb1bb95bb64e"
+    },
+    {
+      "file": "disputed-areas.geojson",
+      "outputSha256": "0493d53606b6adc9172662ce40f60430b1cb3de5e67cb3aedbb571bdbcd92cba",
+      "featureCount": 25,
+      "bytes": 79300,
+      "role": "disputed-areas",
+      "sourceFile": "ne_50m_admin_0_breakaway_disputed_areas.geojson",
+      "sourceURL": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/ca96624a56bd078437bca8184e78163e5039ad19/geojson/ne_50m_admin_0_breakaway_disputed_areas.geojson",
+      "sourceSha256": "e91f0f9518b24355ceec6668f4df874d6f39db7d0bc9ec22d9b14429bfb6be01"
+    }
+  ],
+  "categories": {
+    "country": 193,
+    "dependency": 37,
+    "observer-state": 1,
+    "disputed": 8,
+    "other": 3
+  },
+  "excludedLines": [
+    {
+      "sourceId": 1746705781,
+      "name": "Nagorno-Karabakh",
+      "reason": "Old breakaway/control outline is unsuitable for contemporary display."
+    },
+    {
+      "sourceId": 1746705737,
+      "name": "Nagorno-Karabakh",
+      "reason": "Old breakaway/control outline is unsuitable for contemporary display."
+    },
+    {
+      "sourceId": 1763286563,
+      "name": "Donestsk",
+      "reason": "Old breakaway/control outline is unsuitable for contemporary display."
+    },
+    {
+      "sourceId": 1763286519,
+      "name": "Donblass",
+      "reason": "Old breakaway/control outline is unsuitable for contemporary display."
+    },
+    {
+      "sourceId": 1763286559,
+      "name": "Luhansk",
+      "reason": "Old breakaway/control outline is unsuitable for contemporary display."
+    }
+  ],
+  "excludedAreas": [
+    {
+      "sourceId": 1159320385,
+      "name": "Artsakh",
+      "reason": "Old breakaway/control area is unsuitable for contemporary display."
+    },
+    {
+      "sourceId": 1763286545,
+      "name": "Donetsk People's Republic",
+      "reason": "Old breakaway/control area is unsuitable for contemporary display."
+    },
+    {
+      "sourceId": 1763286547,
+      "name": "Luhansk People's Republic",
+      "reason": "Old breakaway/control area is unsuitable for contemporary display."
+    }
+  ],
+  "knownLimits": [
+    "No attempt to redraw current fighting fronts, occupied territories, or every sovereignty claim.",
+    "The 2022 source convention differs from internationally recognized boundaries in several places, including Crimea. Country panels explicitly qualify this.",
+    "Five obsolete breakaway/control line features for Nagorno-Karabakh and eastern Ukraine are excluded.",
+    "Three obsolete breakaway/control area features for Artsakh, Donetsk and Luhansk are excluded. The remaining neutral hatches mark source claim areas, not present-day control.",
+    "Country and territory names are translated by Natural Earth, with explicit display-name overrides recorded by the build script.",
+    "Not all small territories survive 1:50 m cartographic generalization. Map units are not a sovereign-state census.",
+    "Earlier eligibility is an explicit dated-reference review, not proof that all 2022 vertices applied in 2011. South Sudan is allowed from 2011; earlier Sudan is a historical feature. Russia/Ukraine use separately licensed 2010 fallback geometry through 2013.",
+    "Name periods cover Turkey/Türkiye 2022, Czech Republic/Czechia 2016, Swaziland/Eswatini 2018 and Macedonia/North Macedonia 2019. Palestine’s observer-State category begins 2012; in 2011 it is labelled as a geographic/reference entity."
+  ],
+  "sources": [
+    {
+      "title": "Natural Earth: Admin 0 countries, 1:50 m",
+      "url": "https://www.naturalearthdata.com/downloads/50m-cultural-vectors/50m-admin-0-countries-2/",
+      "publisher": "Natural Earth",
+      "evidenceNote": "Generalized reference geography. This is not an independently surveyed map of control in 2026.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Natural Earth terms of use",
+      "url": "https://www.naturalearthdata.com/about/terms-of-use/",
+      "publisher": "Natural Earth",
+      "evidenceNote": "Public-domain permission for all map data.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Natural Earth disputed boundaries policy",
+      "url": "https://www.naturalearthdata.com/about/disputed-boundaries-policy/",
+      "publisher": "Natural Earth",
+      "evidenceNote": "The source uses a de facto cartographic convention and supplies separate claim boundaries. Display does not endorse a sovereignty claim.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Natural Earth v 5.1.2 release",
+      "url": "https://github.com/nvkelso/natural-earth-vector/releases/tag/v5.1.2",
+      "publisher": "Natural Earth",
+      "evidenceNote": "Latest published release checked on the review date; the 50 m countries file was last changed in May 2022.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Türkiye name change at the United Nations",
+      "url": "https://turkiye.un.org/en/184798-turkeys-name-changed-t%C3%BCrkiye",
+      "publisher": "United Nations in Türkiye",
+      "evidenceNote": "The display name is updated from the input file’s Turkey to Türkiye. Geometry is unchanged.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Czechia at the United Nations",
+      "url": "https://www.un.org/en/about-us/member-states/czechia",
+      "publisher": "United Nations",
+      "evidenceNote": "Current short display name; the older source name Czech Republic is retained as an alias.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "International Law and the Chagos Archipelago",
+      "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10512/",
+      "publisher": "UK House of Commons Library",
+      "evidenceNote": "8 October 2026 review: the 2025 UK–Mauritius treaty had not entered into force. The map does not infer sovereignty transfer from signature alone.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "What is happening in Nagorno-Karabakh?",
+      "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-9862/",
+      "publisher": "UK House of Commons Library",
+      "evidenceNote": "The 2023 change in control makes the source’s old breakaway lines unsuitable for a contemporary overlay.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Territorial integrity of Ukraine",
+      "url": "https://digitallibrary.un.org/record/767565",
+      "publisher": "United Nations General Assembly",
+      "evidenceNote": "Resolution 68/262 affirms Ukraine’s territorial integrity. The source’s de facto geometry must not be read as UN recognition of annexation.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Territorial integrity of Ukraine: defending the principles of the Charter of the United Nations",
+      "url": "https://digitallibrary.un.org/record/3990400",
+      "publisher": "United Nations General Assembly",
+      "evidenceNote": "Resolution ES-11/4 rejects attempted annexations. Old source control lines are not a present-day military map.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Non-member states at the United Nations",
+      "url": "https://www.un.org/en/about-us/non-member-states",
+      "publisher": "United Nations",
+      "evidenceNote": "Palestine and the Holy See have non-member observer State status; map-unit counts are not UN member counts.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Cook Islands and New Zealand",
+      "url": "https://www.mfat.govt.nz/en/countries-and-regions/australia-and-pacific/cook-islands",
+      "publisher": "New Zealand Ministry of Foreign Affairs and Trade",
+      "evidenceNote": "Self-government in free association with New Zealand; not a simple colonial dependency classification.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Niue and New Zealand",
+      "url": "https://www.mfat.govt.nz/en/countries-and-regions/australia-and-pacific/niue",
+      "publisher": "New Zealand Ministry of Foreign Affairs and Trade",
+      "evidenceNote": "Self-government in free association with New Zealand.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "The Antarctic Treaty, Article IV",
+      "url": "https://documents.ats.aq/atcm43/ww/atcm43_ww005_e.pdf",
+      "publisher": "Antarctic Treaty Secretariat",
+      "evidenceNote": "Preserves parties’ positions on territorial claims; Antarctica is not one sovereign country.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Non-Self-Governing Territories",
+      "url": "https://www.un.org/dppa/decolonization/en/nsgt",
+      "publisher": "United Nations",
+      "evidenceNote": "Western Sahara remains on the UN decolonization agenda.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Non-member observer State resources: State of Palestine",
+      "url": "https://research.un.org/en/unmembers/observers",
+      "publisher": "United Nations Dag Hammarskjöld Library",
+      "evidenceNote": "The State of Palestine is currently a non-member observer State of the UN General Assembly. This independently establishes the editorial status label; the source geometry’s dependency classification is not adopted.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "UN current membership and historical name notes",
+      "url": "https://research.un.org/en/unmembers/currentmembers",
+      "publisher": "United Nations Dag Hammarskjöld Library",
+      "evidenceNote": "State identities and naming chronology; this is not evidence of every boundary vertex.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Czechia short name notification, 17 May 2016",
+      "url": "https://ask.un.org/faq/75046",
+      "publisher": "United Nations Dag Hammarskjöld Library",
+      "evidenceNote": "The formal name remains Czech Republic; the short English display name changes in 2016.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Swaziland / Eswatini name authority record",
+      "url": "https://digitallibrary.un.org/record/874164",
+      "publisher": "United Nations Dag Hammarskjöld Library",
+      "evidenceNote": "The country name changed effective 19 April 2018.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "UN membership chronology: North Macedonia",
+      "url": "https://research.un.org/en/unmembers/currentmembers",
+      "publisher": "United Nations Dag Hammarskjöld Library",
+      "evidenceNote": "The 2019 notification changes the display name to North Macedonia; prior years retain Macedonia/FYROM.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Status of Palestine in the United Nations, A/RES/67/19",
+      "url": "https://digitallibrary.un.org/record/739031?ln=en",
+      "publisher": "United Nations General Assembly",
+      "evidenceNote": "Non-member observer State status was granted on 29 November 2012, not in 2011.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "South Sudan independence ceremony, 9 July 2011",
+      "url": "https://press.un.org/en/2011/sgsm13696.doc.htm",
+      "publisher": "United Nations Secretary-General",
+      "evidenceNote": "A separate South Sudan reference begins in 2011; the preceding historical Sudan outline ends 2010.",
+      "checkedAt": "2026-10-22"
+    }
+  ],
+  "validation": {
+    "outerReversals": 0,
+    "holeReversals": 0,
+    "closedRings": 0,
+    "removedZeroAreaComponents": 0,
+    "removedZeroAreaHoles": 0,
+    "projections": [
+      "EqualEarth",
+      "NaturalEarth1",
+      "Equirectangular"
+    ],
+    "finitePaths": true,
+    "interpretation": "Structural and display checks; not a survey of border accuracy."
+  }
+}

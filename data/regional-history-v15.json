@@ -1,0 +1,344 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "0.16.0",
+  "sourceRelease": "5.1.1",
+  "areas": {
+    "CA-BC": [
+      {
+        "recordId": "person-mungo-martin",
+        "roles": [
+          "editorial"
+        ],
+        "milestoneYears": [],
+        "locationAssociation": {
+          "place": {
+            "en": "Thunderbird Park, Victoria, British Columbia",
+            "zh": "不列颠哥伦比亚省维多利亚雷鸟公园"
+          },
+          "note": {
+            "en": "Reviewed named-place association. The generalized coast omits this representative museum-area point; the point is retained. This is a modern navigation link, not historical jurisdiction.",
+            "zh": "已核对地名关联。概化海岸未包含代表性博物馆区域点，保留原点；此为现代导航关联，非历史管辖判断。"
+          },
+          "sources": [
+            {
+              "title": "An Artist’s Legacy · Stories Carved in Cedar",
+              "publisher": "Royal BC Museum, with Kwakwaka’wakw community voices",
+              "url": "https://totems.royalbcmuseum.bc.ca/en/story/Legacy",
+              "evidenceNote": "Root read narrative and photo captions. Supports 1952 arrival with family,1953 Wawadiťła opening/pole/potlatch, Henry/David/Tony Hunt collaboration,1957 commission and 1958 presentation,1962 death and 1970 memorial. Birth heading 1881 conflicts with the stated death age83 and TCE 1879. No exact birth year, absolute first-public-potlatch claim or survey of all crests is asserted.",
+              "checkedAt": "2026-10-26",
+              "retrieval": "inspected-text"
+            }
+          ],
+          "checkedAt": "2026-10-26"
+        }
+      },
+      {
+        "recordId": "thunderbird-park-cultural-work",
+        "roles": [
+          "editorial"
+        ],
+        "milestoneYears": [],
+        "locationAssociation": {
+          "place": {
+            "en": "Thunderbird Park, Victoria, British Columbia",
+            "zh": "不列颠哥伦比亚省维多利亚雷鸟公园"
+          },
+          "note": {
+            "en": "Reviewed named-place association. The generalized coast omits this representative museum-area point; the point is retained. This is a modern navigation link, not historical jurisdiction.",
+            "zh": "已核对地名关联。概化海岸未包含代表性博物馆区域点，保留原点；此为现代导航关联，非历史管辖判断。"
+          },
+          "sources": [
+            {
+              "title": "An Artist’s Legacy · Stories Carved in Cedar",
+              "publisher": "Royal BC Museum, with Kwakwaka’wakw community voices",
+              "url": "https://totems.royalbcmuseum.bc.ca/en/story/Legacy",
+              "evidenceNote": "Root read narrative and photo captions. Supports 1952 arrival with family,1953 Wawadiťła opening/pole/potlatch, Henry/David/Tony Hunt collaboration,1957 commission and 1958 presentation,1962 death and 1970 memorial. Birth heading 1881 conflicts with the stated death age83 and TCE 1879. No exact birth year, absolute first-public-potlatch claim or survey of all crests is asserted.",
+              "checkedAt": "2026-10-26",
+              "retrieval": "inspected-text"
+            }
+          ],
+          "checkedAt": "2026-10-26"
+        }
+      }
+    ],
+    "CA-ON": [
+      {
+        "recordId": "person-shingwaukonse",
+        "roles": [
+          "representative",
+          "milestone"
+        ],
+        "milestoneYears": [
+          1831,
+          1832,
+          1838,
+          1850
+        ]
+      },
+      {
+        "recordId": "shingwauk-teaching-vision-institutions",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "CA-NS": [
+      {
+        "recordId": "person-rose-fortune",
+        "roles": [
+          "representative",
+          "milestone"
+        ],
+        "milestoneYears": [
+          1828,
+          1836,
+          1852
+        ]
+      },
+      {
+        "recordId": "annapolis-waterfront-black-labour",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "US-GA": [
+      {
+        "recordId": "person-susie-king-taylor",
+        "roles": [
+          "milestone"
+        ],
+        "milestoneYears": [
+          1862,
+          1866
+        ]
+      }
+    ],
+    "US-SC": [
+      {
+        "recordId": "person-susie-king-taylor",
+        "roles": [
+          "representative",
+          "milestone"
+        ],
+        "milestoneYears": [
+          1863
+        ]
+      },
+      {
+        "recordId": "camp-saxton-freedom-community",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "US-MA": [
+      {
+        "recordId": "person-susie-king-taylor",
+        "roles": [
+          "milestone"
+        ],
+        "milestoneYears": [
+          1874,
+          1886,
+          1902
+        ]
+      }
+    ],
+    "BD-F": [
+      {
+        "recordId": "damodarpur-charter-224",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "CU-03": [
+      {
+        "recordId": "cuban-missile-crisis-1962",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "FR-75": [
+      {
+        "recordId": "paris-vietnam-agreement-1973",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "DE-BE": [
+      {
+        "recordId": "cold-war-world-history",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "GR-J": [
+      {
+        "recordId": "paul-corinth-letters-50s",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "IN-PB": [
+      {
+        "recordId": "khalsa-anandpur-1699",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "IN-UP": [
+      {
+        "recordId": "early-gupta-prayaga-context",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "IN-MP": [
+      {
+        "recordId": "gupta-eran-bhanugupta-191",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "IT-MI": [
+      {
+        "recordId": "milan-toleration-313",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "MM-05": [
+      {
+        "recordId": "toungoo-port-garrisons-1564",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "ayutthaya-tenasserim-campaign-1593",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "NP-LU": [
+      {
+        "recordId": "lumbini-ashoka-pillar-249-bce",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "CN-HA": [
+      {
+        "recordId": "xia-tradition-and-erli-tou",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "erlitou-urban-bronze-centre",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "shang-kingship-and-evidence",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "RS-00": [
+      {
+        "recordId": "nonaligned-belgrade-1961",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "TR-16": [
+      {
+        "recordId": "council-of-nicaea-325",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "GB-WSM": [
+      {
+        "recordId": "person-mary-prince",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "VN-SG": [
+      {
+        "recordId": "tet-offensive-1968",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "VN-HN": [
+      {
+        "recordId": "vietnam-war-1954-1975",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "CN-JS": [
+      {
+        "recordId": "china-person-zu-chongzhi",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "CN-BJ": [
+      {
+        "recordId": "china-person-yelu-chucai",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ]
+  }
+}

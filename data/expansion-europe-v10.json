@@ -1,0 +1,1841 @@
+[
+  {
+    "id": "person-alexander-great",
+    "title": {
+      "en": "Alexander the Great: conquest and its unstable inheritance",
+      "zh": "亚历山大大帝：征服与不稳定的遗产"
+    },
+    "start": -356,
+    "end": -323,
+    "region": "europe",
+    "kind": "person",
+    "theme": "states",
+    "importance": 4,
+    "location": {
+      "lat": 40.76,
+      "lon": 22.52,
+      "label": "Pella; birthplace and Macedonian reference point"
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Alexander grew up in the Macedonian royal household and inherited Philip II’s military resources when he became king in 336 BCE. His expedition into Asia began in 334 BCE and overturned Achaemenid rule. The campaigns linked Macedonia with Egypt, western Asia, Central Asia and the northwestern Indian subcontinent through warfare and new relationships with local rulers. Victory was an exercise in coercion as well as negotiation; the movement of an army should not be read as a peaceful meeting of cultures.\n\nThe army’s refusal to continue farther east exposed the limits of royal ambition. Alexander returned west and died in Babylon in 323 BCE. His commanders competed over the inheritance, and successor kingdoms developed rather than one durable, unified state. Later pictures repeatedly retold episodes from his life, including an encounter with the philosopher Diogenes. Such images reveal how later audiences imagined kingship; they are not eyewitness records of the fourth century BCE.",
+      "zh": "亚历山大在马其顿王室成长，公元前336年即位时继承了腓力二世建立的军事资源。前334年开始的亚洲远征推翻了阿契美尼德王朝的统治。战争和与地方统治者建立的新关系，把马其顿与埃及、西亚、中亚及印度次大陆西北部连接起来。征服既依靠谈判，也依靠强制，不能把军队的推进理解为和平的文化相遇。\n\n军队拒绝继续东进，显露出王权野心的限度。亚历山大返回西方，前323年死于巴比伦。部将争夺遗产，形成多个继业者王国，而非一个稳定统一的国家。后世绘画不断重述他的故事，包括与哲学家第欧根尼的相遇。这些图像说明后人如何想象君王，却不是前四世纪的现场记录。"
+    },
+    "dateNote": {
+      "en": "Life: 356–323 BCE. Points mark selected places; no marching route or conquered border is reconstructed.",
+      "zh": "生平为公元前356—前323年。点位表示精选地点，不重建行军路线或征服疆界。"
+    },
+    "sources": [
+      {
+        "title": "The Rise of Macedonia and the Conquests of Alexander the Great",
+        "url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great",
+        "publisher": "The Metropolitan Museum of Art",
+        "evidenceNote": "Curatorial overview supports the inherited Macedonian army, accession, Asian campaign, retreat and successor kingdoms. Its stated age at death is not reproduced.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Alexander the Great meeting Diogenes: collection record",
+        "url": "https://www.metmuseum.org/art/collection/search/812706",
+        "publisher": "The Metropolitan Museum of Art",
+        "evidenceNote": "Catalogue supplies Pella 356 BCE–Babylon 323 BCE and identifies an early modern etching. The later image documents reception, not the truth of the anecdote.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "The Life of Alexander the Great",
+        "url": "https://artsandculture.google.com/story/the-life-of-alexander-the-great-war-museum-athens/gwXhGr5FUVhpxw?hl=en",
+        "publisher": "War Museum, Athens / Google Arts & Culture",
+        "evidenceNote": "Exhibition supports the campaign setting in India and the 323 BCE Babylon endpoint. Heroic anecdotes, causal explanations of deaths and the stated age at death are excluded.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "keyFacts": {
+      "en": [
+        "Inherited military institutions mattered alongside personal command.",
+        "Later images belong to the history of his reputation."
+      ],
+      "zh": [
+        "军事制度的继承与个人统帅作用同样重要。",
+        "后世图像属于其声誉的历史。"
+      ]
+    },
+    "relatedIds": [
+      "hellenistic-kingdoms",
+      "achaemenid-empire",
+      "athens-acropolis"
+    ],
+    "expansion": {
+      "workstreams": [
+        "EU1"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "Campaign overview and later reception are distinguished; disputed motives, anecdotes and exact death date are omitted.",
+        "zh": "区分战争概述与后世接受史，不采用有争议的动机、轶事或确切死亡日期。"
+      }
+    },
+    "name": {
+      "en": "Alexander III of Macedon",
+      "zh": "马其顿的亚历山大三世"
+    },
+    "milestones": [
+      {
+        "year": -356,
+        "title": {
+          "en": "Born at Pella",
+          "zh": "生于佩拉"
+        },
+        "description": {
+          "en": "The museum catalogue identifies Pella as his birthplace.",
+          "zh": "博物馆目录将佩拉列为其出生地。"
+        },
+        "location": {
+          "lat": 40.76,
+          "lon": 22.52,
+          "label": "Pella; birthplace and Macedonian reference point"
+        },
+        "approximate": false
+      },
+      {
+        "year": -336,
+        "title": {
+          "en": "Becomes king",
+          "zh": "继承王位"
+        },
+        "description": {
+          "en": "Philip II’s death places Alexander at the head of the Macedonian monarchy.",
+          "zh": "腓力二世死后，亚历山大成为马其顿国王。"
+        },
+        "location": {
+          "lat": 40.487,
+          "lon": 22.319,
+          "label": "Aigai area; representative Macedonian royal setting"
+        },
+        "approximate": false
+      },
+      {
+        "year": -334,
+        "title": {
+          "en": "Crosses into Asia",
+          "zh": "渡海进入亚洲"
+        },
+        "description": {
+          "en": "The expedition crosses the Hellespont to attack the Persian Empire.",
+          "zh": "远征军渡过赫勒斯滂海峡，进攻波斯帝国。"
+        },
+        "location": {
+          "lat": 40.15,
+          "lon": 26.4,
+          "label": "Hellespont / Dardanelles; approximate crossing-area anchor"
+        },
+        "approximate": false
+      },
+      {
+        "year": -326,
+        "title": {
+          "en": "Campaign in the Punjab",
+          "zh": "旁遮普战役"
+        },
+        "description": {
+          "en": "The confrontation with Porus belongs to the campaign’s eastern phase.",
+          "zh": "与波鲁斯的交战属于远征的东部阶段。"
+        },
+        "location": {
+          "lat": 32.93,
+          "lon": 73.73,
+          "label": "Hydaspes / Jhelum River area; approximate battle-region anchor"
+        },
+        "approximate": false
+      },
+      {
+        "year": -323,
+        "title": {
+          "en": "Dies in Babylon",
+          "zh": "死于巴比伦"
+        },
+        "description": {
+          "en": "His death leaves succession contested among the commanders.",
+          "zh": "其死亡使继承问题落入诸将的争夺。"
+        },
+        "location": {
+          "lat": 32.54,
+          "lon": 44.42,
+          "label": "Babylon; death and succession-crisis setting"
+        },
+        "approximate": false
+      }
+    ]
+  },
+  {
+    "id": "athenian-assembly-citizenship",
+    "title": {
+      "en": "Athenian assembly: participation and exclusion",
+      "zh": "雅典公民大会：参与及其界限"
+    },
+    "start": -450,
+    "end": -400,
+    "region": "europe",
+    "kind": "idea",
+    "theme": "states",
+    "importance": 4,
+    "location": {
+      "lat": 37.971,
+      "lon": 23.719,
+      "label": "Athens, Pnyx area; representative assembly setting, not a territorial boundary"
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "In classical Athens, the assembly made decisions about war, peace, alliances and public policy. Its participants were adult male citizens. Women, resident foreigners and enslaved people were outside this political body, although all formed part of the society in which it operated. A citizenship rule introduced in 451 BCE required citizen parentage on both sides.\n\nFormal eligibility also differed from practical attendance. Someone living far from the city faced a different journey to a meeting from a nearby resident. The assembly therefore offers a concrete way to examine political participation: who could speak and vote, which decisions were shared, and whose labour and lives remained beyond the franchise. The map point marks the Pnyx area, a civic meeting setting. The selected half-century is a reading focus, not a claim that the institution began in 450 BCE or ended in 400 BCE.",
+      "zh": "古典时期的雅典公民大会决定战争、和平、联盟及公共事务。参加者是成年男性公民。妇女、外来定居者和被奴役者被排除在这一政治机构之外，尽管他们都是雅典社会的一部分。公元前451年的公民资格规定要求父母双方均具有公民身份。\n\n法律上的资格也不等于实际到场的机会。住在远处的居民与城市附近的居民，参加会议所需的路程并不相同。因此，公民大会提供了考察政治参与的具体切入点：谁可以发言和表决，哪些决定由集体作出，谁的劳动与生活处在选举权之外。地图标示普尼克斯山附近的公共集会环境。所选半世纪是阅读范围，不表示该制度始于前450年或终于前400年。"
+    },
+    "dateNote": {
+      "en": "Selected focus: c.450–400 BCE; institutional practices changed before and after this interval.",
+      "zh": "精选观察期约为公元前450—前400年，前后制度均有变化。"
+    },
+    "sources": [
+      {
+        "title": "Classical Athens: The Assembly",
+        "url": "https://www.ime.gr/chronos/05/en/politics/321assembly.html",
+        "publisher": "Foundation of the Hellenic World",
+        "evidenceNote": "Supports assembly powers, adult male citizenship, exclusions, the 451 BCE parentage rule and participation barriers. Post-404 BCE pay is outside this selected focus.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "keyFacts": {
+      "en": [
+        "Citizenship and attendance were different questions."
+      ],
+      "zh": [
+        "公民资格与实际参会是不同问题。"
+      ]
+    },
+    "relatedIds": [
+      "athens-acropolis",
+      "person-alexander-great",
+      "roman-republic"
+    ],
+    "expansion": {
+      "workstreams": [
+        "EU1"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "One institutional synthesis is used for a bounded account; this is not a reconstruction of every constitutional change.",
+        "zh": "根据一篇机构性综述撰写有限范围的说明，不重建全部宪政变迁。"
+      }
+    }
+  },
+  {
+    "id": "person-julius-caesar",
+    "title": {
+      "en": "Julius Caesar: republican office and personal power",
+      "zh": "尤利乌斯·凯撒：共和官职与个人权力"
+    },
+    "start": -59,
+    "end": -44,
+    "region": "europe",
+    "kind": "person",
+    "theme": "states",
+    "importance": 4,
+    "location": {
+      "lat": 41.9,
+      "lon": 12.49,
+      "label": "Rome; representative political and publication context"
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Caesar’s rise ran through the offices of the Roman Republic and increasingly strained them. His consulship in 59 BCE joined electoral politics to alliances and coercion. Military command then supplied the resources and standing with which he confronted rivals. Crossing the Rubicon in 49 BCE made that conflict a civil war in Italy.\n\nAs dictator he concentrated power while carrying out reforms, including a revision of the calendar. Coins bearing his portrait made personal authority visible in everyday exchange. In 44 BCE senators killed him, but assassination did not settle the underlying struggle over armies, office and rule. Further civil wars preceded the Augustan settlement.\n\nSuetonius’s later biography preserves influential stories about these events, but its moral portraits require critical reading. A coin issued during Caesar’s lifetime offers a different kind of evidence: a surviving political object rather than a later narrative. Reading both helps distinguish contemporary self-presentation from the reputations built after his death.",
+      "zh": "凯撒通过罗马共和国的官职体系崛起，也越来越使这一体系承受压力。公元前59年的执政官任期把选举政治、政治联盟和强制手段连接起来。此后的军事指挥权提供了与对手抗衡的资源和声望。前49年渡过卢比孔河，使冲突转为意大利境内的内战。\n\n成为独裁官后，他集中权力，也推行包括历法修订在内的改革。带有其肖像的铸币，使个人权威进入日常交易。前44年，元老刺杀凯撒，但暗杀并未解决军队、官职与统治权之间的根本争夺。奥古斯都的政治安排之前，还有进一步的内战。\n\n苏埃托尼乌斯后来写成的传记保存了影响深远的故事，却需要批判性地看待其中的道德评判。凯撒在世时发行的铸币提供另一类证据：它是当时的政治实物，而非后来的叙述。把两者对读，可以区分当时的自我呈现与死后形成的声誉。"
+    },
+    "dateNote": {
+      "en": "Career focus: 59–44 BCE, not a complete lifespan. The Rubicon point marks an approximate river region; the ancient crossing location is not asserted.",
+      "zh": "关注公元前59—前44年的政治生涯，并非完整寿命。卢比孔河点位仅为河流区域，不确定古代渡河地点。"
+    },
+    "sources": [
+      {
+        "title": "The Roman Republic",
+        "url": "https://www.metmuseum.org/essays/the-roman-republic",
+        "publisher": "The Metropolitan Museum of Art",
+        "evidenceNote": "Supports republican offices, conflict and expansion, Caesar’s dictatorship and assassination in 44 BCE, and the later Augustan settlement.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Suetonius, Life of Julius Caesar",
+        "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Julius*.html",
+        "publisher": "LacusCurtius, University of Chicago; Loeb translation",
+        "evidenceNote": "Primary ancient literary account, especially sections 19–20, 31–32, 40, 76 and 82. Written after Caesar’s lifetime; political anecdotes are not treated as neutral eyewitness testimony.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Denarius of Julius Caesar, 44 BCE",
+        "url": "https://library.willamette.edu/hfma/omeka/items/show/25",
+        "publisher": "Hallie Ford Museum of Art, Willamette University",
+        "evidenceNote": "Object description supports the 44 BCE portrait coin and its political imagery. Catalogue text derives from the British Museum and is not counted as independent corroboration of that description.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "keyFacts": {
+      "en": [
+        "Assassination was followed by further civil war.",
+        "Coins and later biographies are different forms of evidence."
+      ],
+      "zh": [
+        "暗杀之后仍有进一步的内战。",
+        "铸币与后世传记是不同类型的证据。"
+      ]
+    },
+    "relatedIds": [
+      "roman-republic",
+      "roman-principate",
+      "rome-imperial-city",
+      "punic-wars-mediterranean"
+    ],
+    "expansion": {
+      "workstreams": [
+        "EU1"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "The narrative distinguishes contemporary coinage from retrospective literary testimony; famous quotations are not reconstructed.",
+        "zh": "区分当时的铸币与追述性的文学证词，不重建著名引语。"
+      }
+    },
+    "name": {
+      "en": "Gaius Julius Caesar",
+      "zh": "盖乌斯·尤利乌斯·凯撒"
+    },
+    "milestones": [
+      {
+        "year": -59,
+        "title": {
+          "en": "Consul at Rome",
+          "zh": "任罗马执政官"
+        },
+        "description": {
+          "en": "Caesar holds the consulship with Bibulus amid intense conflict over policy.",
+          "zh": "凯撒与比布鲁斯共同担任执政官，政策争执激烈。"
+        },
+        "location": {
+          "lat": 41.9,
+          "lon": 12.49,
+          "label": "Rome; representative political and publication context"
+        },
+        "approximate": false
+      },
+      {
+        "year": -49,
+        "title": {
+          "en": "Crossing into civil war",
+          "zh": "渡河与内战"
+        },
+        "description": {
+          "en": "The crossing of the Rubicon challenges the limits placed on his armed command.",
+          "zh": "渡过卢比孔河挑战了对其军队指挥权的限制。"
+        },
+        "location": {
+          "lat": 44.07,
+          "lon": 12.4,
+          "label": "Rubicon river region; approximate geographic anchor"
+        },
+        "approximate": false
+      },
+      {
+        "year": -44,
+        "title": {
+          "en": "Portrait, dictatorship and assassination",
+          "zh": "肖像、独裁与遇刺"
+        },
+        "description": {
+          "en": "Portrait coins and assassination at Rome belong to the final year of his life.",
+          "zh": "肖像铸币与在罗马遇刺均发生于其生命最后一年。"
+        },
+        "location": {
+          "lat": 41.9,
+          "lon": 12.49,
+          "label": "Rome; representative political and publication context"
+        },
+        "approximate": false
+      }
+    ]
+  },
+  {
+    "id": "punic-wars-mediterranean",
+    "title": {
+      "en": "Punic Wars: fleets, provinces and conquest",
+      "zh": "布匿战争：舰队、行省与征服"
+    },
+    "start": -264,
+    "end": -146,
+    "region": "europe",
+    "kind": "event",
+    "theme": "states",
+    "importance": 4,
+    "location": {
+      "lat": 38.193,
+      "lon": 15.554,
+      "label": "Messina / ancient Messana; first-war opening context, not the whole theatre"
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Rome and Carthage fought three major wars between 264 and 146 BCE. The first developed around Sicily, where local disputes and competing alliances drew in larger powers. Maintaining ships, crews and supplies made the struggle a contest of resources as well as battles. Rome’s victory brought the larger part of Sicily under provincial rule.\n\nThe second war extended conflict across the western Mediterranean; the third ended with Carthage’s destruction and the enslavement of survivors. These were separate wars with intervals between them, not uninterrupted fighting for more than a century. Their consequences connect Roman political history to North African cities, maritime work and coerced labour. Polybius explains the opening war through alliances and strategic decisions, but his retrospective narrative cannot stand in for all the people affected. The Sicily point is one entry into this wider history, while the related Carthage record supplies an African anchor.",
+      "zh": "罗马与迦太基在公元前264年至前146年之间进行了三次大规模战争。第一次战争围绕西西里展开，地方冲突和相互竞争的联盟把更大的势力卷入其中。船只、船员和补给的维持，使战争既是战场上的较量，也是资源的较量。罗马获胜后，西西里大部被纳入行省统治。\n\n第二次战争把冲突扩展到西地中海；第三次以迦太基的毁灭及幸存者被奴役告终。三次战争之间存在间隔，并非连续交战一个多世纪。其后果把罗马政治史与北非城市、海上劳动及强迫劳动联系起来。波利比乌斯从联盟与战略决策解释战争的开端，但其追述不能代表所有受影响者。西西里点位只是进入这段广阔历史的一个入口，关联的迦太基条目提供非洲的观察点。"
+    },
+    "dateNote": {
+      "en": "Three wars: 264–241, 218–201 and 149–146 BCE. The enclosing interval includes peace; no front line is mapped.",
+      "zh": "三次战争分别为公元前264—241、218—201及149—146年。总区间包含和平时期，不绘制战线。"
+    },
+    "sources": [
+      {
+        "title": "Italian Peninsula, 1000 B.C.–1 A.D.",
+        "url": "https://www.metmuseum.org/toah/ht/04/eust.html",
+        "publisher": "The Metropolitan Museum of Art",
+        "evidenceNote": "Chronology supports the three Punic Wars, Sicily as a Roman province and the destruction and enslavement at Carthage. The timeline’s Saguntum date is not used.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Polybius, Histories, Book I",
+        "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Polybius/1*.html",
+        "publisher": "LacusCurtius, University of Chicago; Loeb translation",
+        "evidenceNote": "Ancient narrative supports the Messana/Sicily setting, changing alliances, fleets and the first-war settlement. A retrospective Greek account, not an equal record of every population.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "keyFacts": {
+      "en": [
+        "Separate wars reshaped Mediterranean political control.",
+        "Sicily and Carthage offer different geographic viewpoints."
+      ],
+      "zh": [
+        "分开的三次战争重塑了地中海政治控制。",
+        "西西里与迦太基提供不同的地理视角。"
+      ]
+    },
+    "relatedIds": [
+      "carthaginian-power",
+      "roman-republic",
+      "person-julius-caesar"
+    ],
+    "expansion": {
+      "workstreams": [
+        "EU1"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "Selected military and institutional consequences; no precise casualty totals or territorial geometry are inferred.",
+        "zh": "精选军事与制度后果，不推断精确伤亡数字或疆域几何。"
+      }
+    }
+  },
+  {
+    "id": "person-joan-of-arc",
+    "title": {
+      "en": "Joan of Arc: war, testimony and a contested verdict",
+      "zh": "圣女贞德：战争、证词与被推翻的判决"
+    },
+    "start": 1429,
+    "end": 1431,
+    "region": "europe",
+    "kind": "person",
+    "theme": "states",
+    "importance": 4,
+    "location": {
+      "lat": 47.903,
+      "lon": 1.909,
+      "label": "Orléans; representative setting of Joan’s 1429 campaign"
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Joan’s brief public career emerged from a struggle over the French crown. In 1429 she joined the campaign that relieved Orléans and accompanied the advance leading to Charles VII’s coronation at Reims. Military success and religious authority became intertwined, but the unsuccessful attack on Paris later that year shows that her presence did not guarantee victory.\n\nCaptured in 1430 and transferred into English custody, she faced an ecclesiastical court at Rouen. Interrogations tested her claims, conduct and clothing within a deeply political conflict. She was executed in 1431. Her life therefore needs to be read through both campaigns and the institutions that recorded and judged her testimony.\n\nHer family’s subsequent appeal led to the annulment of the condemnation in 1456. That was a posthumous change in legal judgment, not another event in her lived career. The surviving trial traditions and later images also differ: a record of interrogation preserves a contested encounter, rather than unmediated access to an individual’s inner life.",
+      "zh": "贞德短暂的公共生涯产生于法国王位的争夺。1429年，她参加解救奥尔良的战役，并随军推进，最终迎来查理七世在兰斯加冕。军事成功与宗教权威相互交织，但同年进攻巴黎的失败，也说明她的参与并不保证胜利。\n\n1430年被俘并转交英方后，她在鲁昂接受宗教法庭审判。在深刻的政治冲突中，审讯围绕她的信仰主张、行为和服装展开。她于1431年被处死。因此，理解她的生平既需要关注战役，也需要关注记录和裁决其证词的制度。\n\n家属后来提出申诉，原有定罪于1456年被撤销。这是死后的司法变化，不属于她亲历的生涯。传世审判记录与后来的形象塑造也不相同：审讯记录保存的是充满争议的互动，不能让读者直接、完整地看到一个人的内心。"
+    },
+    "dateNote": {
+      "en": "Public-career focus: 1429–1431. Birth is conventionally c.1412; the 1456 annulment appears in context, not among life milestones.",
+      "zh": "关注1429—1431年的公共生涯。出生通常约定为1412年；1456年撤销定罪仅作背景，不列为生前节点。"
+    },
+    "sources": [
+      {
+        "title": "Chronology of Events in Joan’s Life and the Hundred Years’ War",
+        "url": "https://www.joanofarcsociety.org/joan-resources/chronology-of-events-in-joans-life-and-the-hundred-years-war/",
+        "publisher": "International Joan of Arc Society",
+        "evidenceNote": "Supports the 1429 Orléans and Reims sequence, failed Paris attack, 1430 captivity, 1431 trial and execution, and 1456 annulment. Only year-level milestones are mapped.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Stowe MS 84: Joan of Arc rehabilitation trial",
+        "url": "https://searcharchives.bl.uk/catalog/040-001952867",
+        "publisher": "British Library",
+        "evidenceNote": "Archive catalogue supports the Rouen trial and execution and the family’s later appeal culminating in 1456. Catalogue description inspected; the manuscript itself is not transcribed here.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "The Hundred Years War (1337–1453)",
+        "url": "https://royalarmouries.org/objects-and-stories/stories/the-hundred-years-war-1337-1453",
+        "publisher": "Royal Armouries",
+        "evidenceNote": "Museum account supplies the conventional period, rival dynastic claims, alliances, major campaign context and Joan’s fate. The interval is not treated as continuous warfare.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "keyFacts": {
+      "en": [
+        "Campaign victories were followed by captivity and trial.",
+        "The 1456 judgment was posthumous."
+      ],
+      "zh": [
+        "战役胜利之后是被俘与受审。",
+        "1456年的司法裁决发生在其死后。"
+      ]
+    },
+    "relatedIds": [
+      "hundred-years-war",
+      "person-christine-pizan",
+      "capetian-dynasty"
+    ],
+    "expansion": {
+      "workstreams": [
+        "EU1"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "Court records are mediated evidence; this account does not adjudicate religious experiences or reproduce later patriotic legends as fact.",
+        "zh": "法庭记录是经过制度中介的证据；本条不裁定宗教体验，也不把后世爱国传说作为事实。"
+      }
+    },
+    "name": {
+      "en": "Joan of Arc",
+      "zh": "贞德"
+    },
+    "milestones": [
+      {
+        "year": 1429,
+        "title": {
+          "en": "Relief of Orléans",
+          "zh": "解救奥尔良"
+        },
+        "description": {
+          "en": "The siege is lifted in May during the campaign in which Joan participates.",
+          "zh": "贞德参与的战役于五月解除了围城。"
+        },
+        "location": {
+          "lat": 47.903,
+          "lon": 1.909,
+          "label": "Orléans; siege setting"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1429,
+        "title": {
+          "en": "Coronation at Reims",
+          "zh": "兰斯加冕"
+        },
+        "description": {
+          "en": "Charles VII is crowned in July after the army’s advance.",
+          "zh": "军队推进后，查理七世于七月加冕。"
+        },
+        "location": {
+          "lat": 49.253,
+          "lon": 4.034,
+          "label": "Reims; coronation setting"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1430,
+        "title": {
+          "en": "Captivity and transfer",
+          "zh": "被俘与转押"
+        },
+        "description": {
+          "en": "By December Joan has been taken to Rouen under English escort.",
+          "zh": "到十二月，贞德已被英方押送至鲁昂。"
+        },
+        "location": {
+          "lat": 49.443,
+          "lon": 1.099,
+          "label": "Rouen; custody destination"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1431,
+        "title": {
+          "en": "Trial and execution",
+          "zh": "受审与处决"
+        },
+        "description": {
+          "en": "The trial ends with her execution at Rouen in May.",
+          "zh": "审判以五月在鲁昂处决贞德告终。"
+        },
+        "location": {
+          "lat": 49.443,
+          "lon": 1.099,
+          "label": "Rouen; trial and execution setting"
+        },
+        "approximate": false
+      }
+    ]
+  },
+  {
+    "id": "hundred-years-war",
+    "title": {
+      "en": "Hundred Years War: rival crowns and changing alliances",
+      "zh": "百年战争：王位争夺与联盟变化"
+    },
+    "start": 1337,
+    "end": 1453,
+    "region": "europe",
+    "kind": "event",
+    "theme": "states",
+    "importance": 4,
+    "location": {
+      "lat": 49.443,
+      "lon": 1.099,
+      "label": "Rouen; one military and judicial centre within a wider conflict"
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "The Hundred Years War is a later label for a series of conflicts between rulers of England and France and their allies. Rival claims to the French crown overlapped with disputes over lands and obligations. The conventional span, 1337–1453, includes truces and changes in alliance, not a single continuous campaign. Scotland and Burgundy, among other powers, complicate a story told only as two modern nations fighting.\n\nRoyal legitimacy depended on more than battlefield outcomes. Joan of Arc’s 1429 campaign helped bring Charles VII to coronation at Reims, while her subsequent trial at English-held Rouen made religious judgment part of political conflict. Weapons and armour in museum collections show aspects of fighting, but cannot by themselves describe every civilian experience. This entry connects dynastic politics to the separate biographies and to the Black Death’s overlapping chronology without assuming that plague explains every military change.",
+      "zh": "“百年战争”是后人为英格兰、法国统治者及其盟友之间的一系列冲突所加的名称。对法国王位的竞争，与土地和效忠义务的争议相互重叠。通常使用的1337—1453年范围包含休战与联盟变化，并非一次连续战役。苏格兰、勃艮第等势力的参与，也使其不能简单归结为两个现代民族国家的对抗。\n\n王权的正统性并不只取决于战场结果。贞德1429年的战役帮助查理七世在兰斯加冕，而她随后在英方控制的鲁昂受审，又使宗教裁判成为政治冲突的一部分。博物馆中的武器和盔甲展示战斗的某些方面，却无法独自说明所有平民的经历。本条连接王朝政治、人物生平，以及时间上重叠的黑死病，但不把瘟疫视作每次军事变化的统一解释。"
+    },
+    "dateNote": {
+      "en": "Conventional overview: 1337–1453; phases and regional experiences differed. Rouen is a representative anchor.",
+      "zh": "传统概述期为1337—1453年；各阶段及地区经历不同。鲁昂为代表点。"
+    },
+    "sources": [
+      {
+        "title": "The Hundred Years War (1337–1453)",
+        "url": "https://royalarmouries.org/objects-and-stories/stories/the-hundred-years-war-1337-1453",
+        "publisher": "Royal Armouries",
+        "evidenceNote": "Museum account supplies the conventional period, rival dynastic claims, alliances, major campaign context and Joan’s fate. The interval is not treated as continuous warfare.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Chronology of Events in Joan’s Life and the Hundred Years’ War",
+        "url": "https://www.joanofarcsociety.org/joan-resources/chronology-of-events-in-joans-life-and-the-hundred-years-war/",
+        "publisher": "International Joan of Arc Society",
+        "evidenceNote": "Supports the 1429 Orléans and Reims sequence, failed Paris attack, 1430 captivity, 1431 trial and execution, and 1456 annulment. Only year-level milestones are mapped.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Stowe MS 84: Joan of Arc rehabilitation trial",
+        "url": "https://searcharchives.bl.uk/catalog/040-001952867",
+        "publisher": "British Library",
+        "evidenceNote": "Archive catalogue supports the Rouen trial and execution and the family’s later appeal culminating in 1456. Catalogue description inspected; the manuscript itself is not transcribed here.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "keyFacts": {
+      "en": [
+        "The enclosing dates include truces and changing coalitions."
+      ],
+      "zh": [
+        "总区间包含休战和联盟重组。"
+      ]
+    },
+    "relatedIds": [
+      "person-joan-of-arc",
+      "person-christine-pizan",
+      "black-death",
+      "capetian-dynasty"
+    ],
+    "expansion": {
+      "workstreams": [
+        "EU1"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "A connected overview, not an exhaustive campaign history; modern national boundaries are not projected backward.",
+        "zh": "本条为相互关联的概述，不是完整战史，也不把现代国界投射到过去。"
+      }
+    }
+  },
+  {
+    "id": "person-isaac-newton",
+    "title": {
+      "en": "Isaac Newton: mathematics, experiments and public office",
+      "zh": "艾萨克·牛顿：数学、实验与公职"
+    },
+    "start": 1661,
+    "end": 1727,
+    "region": "europe",
+    "kind": "person",
+    "theme": "knowledge",
+    "importance": 4,
+    "location": {
+      "lat": 52.205,
+      "lon": 0.119,
+      "label": "Cambridge; university context, not an exact building location"
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Newton entered Trinity College, Cambridge, in 1661. His subsequent investigations of mathematics, motion and light became part of a wider correspondence and institutional world, rather than a single moment of discovery. The Principia, published in 1687 with Edmond Halley’s encouragement, used mathematical reasoning to connect motion and forces. Its preface presents this as a programme of investigation, not a claim that all natural phenomena had already been explained.\n\nNewton’s later working life also belonged to government and learned institutions. He moved to the Royal Mint as warden in 1696, became master in 1699 and president of the Royal Society in 1703. The surviving writings extend well beyond modern physics: the Newton Project includes religious, alchemical and administrative texts alongside mathematical and optical work. These different activities complicate the familiar picture of an isolated genius. His death in 1727 closes this career focus; debates over priority and interpretation continued among later readers.",
+      "zh": "牛顿于1661年进入剑桥大学三一学院。此后对数学、运动和光的研究，发生在通信交流与学术制度构成的广阔环境中，并非一次孤立的发现。1687年，在爱德蒙·哈雷的鼓励下出版的《自然哲学的数学原理》，用数学推理连接运动与力。其序言把这一方法作为研究纲领，而不是宣称所有自然现象都已得到解释。\n\n牛顿后期的工作也属于政府和学术机构。1696年，他进入皇家铸币局任监督官，1699年成为局长，1703年出任皇家学会会长。传世著述远超现代物理学的范围：牛顿文献计划同时收录宗教、炼金术、行政、数学和光学文本。这些不同活动使“孤独天才”的常见形象变得更加复杂。1727年的死亡结束了本条关注的生涯，优先权和学术解释之争则在后世继续。"
+    },
+    "dateNote": {
+      "en": "Career focus: 1661–1727. His birth is 25 December 1642 in the Julian calendar / 4 January 1643 Gregorian; the interval avoids conflating those year labels.",
+      "zh": "关注1661—1727年的生涯。出生日期为儒略历1642年12月25日／格里历1643年1月4日；本区间避免混用两种年份。"
+    },
+    "sources": [
+      {
+        "title": "Isaac Newton: biography",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Newton/",
+        "publisher": "MacTutor, University of St Andrews",
+        "evidenceNote": "Supports Cambridge entry in 1661, the 1687 Principia, Mint appointments, Royal Society presidency and death in 1727. Calendar conversion is identified rather than silently mixing birth years.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Newton’s Principia: preface extract",
+        "url": "https://mathshistory.st-andrews.ac.uk/Extras/Newton_Principia/",
+        "publisher": "MacTutor, University of St Andrews",
+        "evidenceNote": "Primary-text excerpt supports the project of inferring forces from motion and explaining phenomena mathematically; it is not evidence that every later application was already established.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "The Newton Project: texts and editorial scope",
+        "url": "https://www.newtonproject.ox.ac.uk/",
+        "publisher": "University of Oxford, Newton Project",
+        "evidenceNote": "Project description and corpus categories establish the breadth of mathematical, optical, religious, alchemical and Mint writings; individual manuscripts were not exhaustively inspected.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "keyFacts": {
+      "en": [
+        "The surviving corpus includes religious and Mint writings.",
+        "Publication depended on intellectual relationships as well as individual work."
+      ],
+      "zh": [
+        "传世文献包括宗教及铸币局文本。",
+        "出版既依靠个人研究，也依靠学术关系。"
+      ]
+    },
+    "relatedIds": [
+      "royal-society-experiments",
+      "galileo-telescope",
+      "person-emilie-du-chatelet"
+    ],
+    "expansion": {
+      "workstreams": [
+        "EU2"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "Selected career milestones and corpus categories; no claim to have inspected every Newton manuscript or resolved priority disputes.",
+        "zh": "精选职业节点及文献类别，不声称已查阅全部手稿或解决优先权争论。"
+      }
+    },
+    "name": {
+      "en": "Isaac Newton",
+      "zh": "艾萨克·牛顿"
+    },
+    "milestones": [
+      {
+        "year": 1661,
+        "title": {
+          "en": "Enters Trinity College",
+          "zh": "进入三一学院"
+        },
+        "description": {
+          "en": "University study begins at Cambridge.",
+          "zh": "在剑桥开始大学学习。"
+        },
+        "location": {
+          "lat": 52.205,
+          "lon": 0.119,
+          "label": "Cambridge; university context, not an exact building location"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1687,
+        "title": {
+          "en": "Principia published",
+          "zh": "《原理》出版"
+        },
+        "description": {
+          "en": "The publication develops a mathematical account of motion and gravitation.",
+          "zh": "著作建立关于运动与引力的数学论述。"
+        },
+        "location": {
+          "lat": 51.507,
+          "lon": -0.128,
+          "label": "London; publication context, not a claim of residence"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1696,
+        "title": {
+          "en": "Warden of the Mint",
+          "zh": "任铸币局监督官"
+        },
+        "description": {
+          "en": "His work moves into the administration of coinage.",
+          "zh": "工作扩展到货币铸造行政领域。"
+        },
+        "location": {
+          "lat": 51.508,
+          "lon": -0.076,
+          "label": "Tower of London area; Mint institutional setting"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1703,
+        "title": {
+          "en": "Leads the Royal Society",
+          "zh": "主持皇家学会"
+        },
+        "description": {
+          "en": "Newton becomes president of the learned society.",
+          "zh": "牛顿成为皇家学会会长。"
+        },
+        "location": {
+          "lat": 51.507,
+          "lon": -0.128,
+          "label": "London; representative working and institutional context"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1727,
+        "title": {
+          "en": "Death in London",
+          "zh": "在伦敦去世"
+        },
+        "description": {
+          "en": "His papers preserve a wider intellectual life than his published scientific books alone.",
+          "zh": "其手稿保存了比已出版科学著作更广阔的思想生活。"
+        },
+        "location": {
+          "lat": 51.507,
+          "lon": -0.128,
+          "label": "London; representative working and institutional context"
+        },
+        "approximate": false
+      }
+    ]
+  },
+  {
+    "id": "person-emilie-du-chatelet",
+    "title": {
+      "en": "Émilie du Châtelet: explaining nature in her own terms",
+      "zh": "埃米莉·杜·夏特莱：以自己的方式解释自然"
+    },
+    "start": 1706,
+    "end": 1749,
+    "region": "europe",
+    "kind": "person",
+    "theme": "knowledge",
+    "importance": 4,
+    "location": {
+      "lat": 48.484,
+      "lon": 4.938,
+      "label": "Cirey-sur-Blaise; representative research and household setting"
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Du Châtelet pursued mathematics and natural philosophy through tutors, correspondence, books and experiments. At Cirey, her intellectual partnership with Voltaire formed part of a larger network that included mathematicians such as Clairaut. Access to learning depended on household resources and relationships in a world where women’s formal academic opportunities were restricted.\n\nHer Institutions de physique, published in 1740, brought questions about knowledge, matter and force into a sustained philosophical argument. It drew on Newtonian science while engaging with Leibniz and Wolff; it was not simply a popular summary of another person’s discoveries. She subsequently undertook a French translation and commentary on Newton’s Principia, completing the work near the end of her life.\n\nShe died at Lunéville in 1749. The complete translation appeared in 1759, after her death. Keeping those dates separate makes the history of intellectual labour visible: the author’s work, editorial preparation and later circulation are related stages, not one publication moment.",
+      "zh": "杜·夏特莱通过教师指导、通信、阅读和实验研究数学与自然哲学。在西雷，她与伏尔泰的学术合作属于一个更大的知识网络，其中包括克莱罗等数学家。在女性正式学术机会受到限制的环境中，学习依赖家庭资源与人际关系。\n\n1740年出版的《物理学基础》围绕知识、物质和力展开连贯的哲学论证。它借鉴牛顿科学，同时与莱布尼茨及沃尔夫的思想对话，并非只是对他人发现的通俗概述。此后，她从事牛顿《原理》的法语翻译和评注，并在生命末期完成相关工作。\n\n她于1749年在吕内维尔去世，完整译本直到1759年才出版。区分这两个日期，能够呈现思想劳动的不同阶段：作者的研究、编辑整理和后来的传播相互联系，却不是同一个出版瞬间。"
+    },
+    "dateNote": {
+      "en": "Life: 1706–1749; 1759 is a posthumous publication date and is not placed among life milestones.",
+      "zh": "生平为1706—1749年；1759年是死后出版日期，不列为生前节点。"
+    },
+    "sources": [
+      {
+        "title": "Émilie du Châtelet: biography",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Chatelet/",
+        "publisher": "MacTutor, University of St Andrews",
+        "evidenceNote": "Supports Cirey research, Institutions de physique (1740), work on the Principia translation, death at Lunéville in 1749 and full posthumous publication in 1759.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Émilie du Châtelet",
+        "url": "https://plato.stanford.edu/entries/emilie-du-chatelet/",
+        "publisher": "Stanford Encyclopedia of Philosophy",
+        "evidenceNote": "Scholarly discussion supports her independent philosophical synthesis and engagement with Newton, Leibniz and Wolff, rather than reducing her work to translation or companionship.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "keyFacts": {
+      "en": [
+        "Institutions de physique was an original philosophical work.",
+        "The complete Principia translation appeared after her death."
+      ],
+      "zh": [
+        "《物理学基础》是一部原创哲学著作。",
+        "《原理》完整译本在其死后出版。"
+      ]
+    },
+    "relatedIds": [
+      "person-isaac-newton",
+      "royal-society-experiments",
+      "encyclopedie-knowledge-workshops"
+    ],
+    "expansion": {
+      "workstreams": [
+        "EU2"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "Dates distinguish composition from publication; the account does not reduce her contribution to a collaborator’s biography.",
+        "zh": "日期区分写作与出版，也不把其贡献缩减为合作者生平的附属。"
+      }
+    },
+    "name": {
+      "en": "Émilie du Châtelet",
+      "zh": "埃米莉·杜·夏特莱"
+    },
+    "milestones": [
+      {
+        "year": 1706,
+        "title": {
+          "en": "Born in Paris",
+          "zh": "生于巴黎"
+        },
+        "description": {
+          "en": "Her early life began in an elite Paris household.",
+          "zh": "早年生活始于巴黎的上层家庭。"
+        },
+        "location": {
+          "lat": 48.857,
+          "lon": 2.352,
+          "label": "Paris; representative intellectual and publishing context"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1740,
+        "title": {
+          "en": "Institutions de physique",
+          "zh": "出版《物理学基础》"
+        },
+        "description": {
+          "en": "The book develops her own account of physical and philosophical questions.",
+          "zh": "本书形成了她对物理与哲学问题的独立论述。"
+        },
+        "location": {
+          "lat": 48.857,
+          "lon": 2.352,
+          "label": "Paris; publication context"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1745,
+        "title": {
+          "en": "Principia translation work",
+          "zh": "开展《原理》翻译"
+        },
+        "description": {
+          "en": "She begins sustained work on the French translation and commentary.",
+          "zh": "开始持续进行法语翻译与评注工作。"
+        },
+        "location": {
+          "lat": 48.484,
+          "lon": 4.938,
+          "label": "Cirey; representative working context, not every drafting location"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1749,
+        "title": {
+          "en": "Completes work near life’s end",
+          "zh": "生命末期完成工作"
+        },
+        "description": {
+          "en": "The translation is completed near her death at Lunéville; printing follows later.",
+          "zh": "她在吕内维尔去世前完成译稿；印行则在其后。"
+        },
+        "location": {
+          "lat": 48.592,
+          "lon": 6.493,
+          "label": "Lunéville; final-life setting"
+        },
+        "approximate": false
+      }
+    ],
+    "aliases": [
+      "Emilie du Chatelet"
+    ]
+  },
+  {
+    "id": "encyclopedie-knowledge-workshops",
+    "title": {
+      "en": "Encyclopédie: writers, workshops and the organization of knowledge",
+      "zh": "《百科全书》：作者、工坊与知识组织"
+    },
+    "start": 1751,
+    "end": 1772,
+    "region": "europe",
+    "kind": "culture",
+    "theme": "knowledge",
+    "importance": 4,
+    "location": {
+      "lat": 48.857,
+      "lon": 2.352,
+      "label": "Paris; representative intellectual and publishing context"
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "The Encyclopédie edited by Denis Diderot and Jean le Rond d’Alembert assembled a large collaborative account of arts, sciences and crafts. Its original publication sequence, 1751–1772, included seventeen volumes of text and eleven of plates. Diagrams and descriptions brought practical work into conversation with philosophical classification. More than two editors were required: contributors, engravers, printers and publishers all shaped the result.\n\nThe work’s cross-references encouraged readers to move between subjects. Its production also involved contested attribution and editorial intervention. Surviving altered proofs show that the printed text cannot always be treated as an author’s untouched statement. The ARTFL scholarly edition makes these questions visible by linking texts, images and editorial documentation. Reading the Encyclopédie as a made object therefore connects Enlightenment ideas to the material and organizational labour of producing books.",
+      "zh": "狄德罗与达朗贝尔主编的《百科全书》以大规模协作汇集艺术、科学与工艺知识。1751—1772年的初版出版过程包含十七卷正文与十一卷图版。图示和文字说明，使实际操作知识与哲学分类相互对话。成果并非两位主编独力完成，撰稿者、雕版者、印刷工和出版商都参与塑造了它。\n\n交叉参照鼓励读者在不同主题之间移动。编纂过程也涉及作者归属争议和编辑干预。保存下来的改动校样表明，印本文字未必总是作者未经修改的陈述。ARTFL学术版本通过连接文本、图像和编辑资料，使这些问题可见。因此，把《百科全书》作为制作出来的实物来阅读，可以把启蒙思想与图书生产的物质劳动和组织工作联系起来。"
+    },
+    "dateNote": {
+      "en": "1751–1772 covers the original text-and-plates sequence; later supplements and editions are outside this interval.",
+      "zh": "1751—1772年涵盖初版正文与图版的出版过程，不含后来的补编及再版。"
+    },
+    "sources": [
+      {
+        "title": "ARTFL Encyclopédie: project overview",
+        "url": "https://encyclopedie.uchicago.edu/",
+        "publisher": "University of Chicago, ARTFL Project",
+        "evidenceNote": "Supports the 1751–1772 publication span, 17 text and 11 plate volumes, Diderot/d’Alembert and a large contributing network.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Editor’s Introduction to the ARTFL Encyclopédie",
+        "url": "https://encyclopedie.uchicago.edu/editors-introduction",
+        "publisher": "University of Chicago, ARTFL Project",
+        "evidenceNote": "Supports collaborative authorship, attribution problems, cross-references, plates and surviving censored proofs. This is scholarly editorial evidence, not independent corroboration from a second institution.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "keyFacts": {
+      "en": [
+        "Cross-references and plates were part of its knowledge system.",
+        "Printed wording could reflect editorial intervention."
+      ],
+      "zh": [
+        "交叉参照与图版是其知识体系的一部分。",
+        "印本文字可能反映编辑干预。"
+      ]
+    },
+    "relatedIds": [
+      "gutenberg-printing",
+      "person-emilie-du-chatelet",
+      "french-revolution"
+    ],
+    "expansion": {
+      "workstreams": [
+        "EU2"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "One scholarly edition and its editorial introduction support this account; the whole encyclopaedia has not been reviewed entry by entry.",
+        "zh": "依据同一学术版本及其编辑导言，未逐条审读整部百科全书。"
+      }
+    }
+  },
+  {
+    "id": "person-ada-lovelace",
+    "title": {
+      "en": "Ada Lovelace: imagining what a calculating engine could do",
+      "zh": "阿达·洛夫莱斯：想象计算机器的可能性"
+    },
+    "start": 1815,
+    "end": 1852,
+    "region": "europe",
+    "kind": "person",
+    "theme": "knowledge",
+    "importance": 4,
+    "location": {
+      "lat": 51.507,
+      "lon": -0.128,
+      "label": "London; representative working and institutional context"
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Ada Lovelace received a private mathematical education encouraged by her mother, Annabella Milbanke. In 1833 she met Charles Babbage and saw a working portion of his Difference Engine. The encounter developed into an intellectual collaboration around the later Analytical Engine, a proposed machine with a much wider range of operations.\n\nIn 1843 she translated Luigi Menabrea’s account and added extensive notes. A procedure involving Bernoulli numbers made operations explicit, while other passages considered whether symbols could represent things besides quantities, including music. These were conditional arguments about a designed engine, not a report of a functioning modern computer.\n\nThe familiar title “first programmer” compresses a complicated collaboration: Babbage had earlier unpublished procedures, and historians debate the division of work. Lovelace’s published notes remain significant without resolving that label. She died in 1852. Reading the notes themselves brings her questions about rules, representation and the limits of machinery into view beyond a heroic invention story.",
+      "zh": "阿达·洛夫莱斯在母亲安娜贝拉·米尔班克的支持下接受私人数学教育。1833年，她结识查尔斯·巴贝奇，并看到其差分机能够运转的局部装置。这次相遇发展为围绕后来分析机方案的学术合作；该机器计划执行更广泛的运算。\n\n1843年，她翻译了路易吉·梅纳布雷亚的介绍文章，并补充大量注释。其中涉及伯努利数的步骤明确安排运算，另一些段落则探讨符号能否表示数量以外的对象，例如音乐。这些是关于设计中机器的条件性论证，而不是一台现代计算机已经运转的报告。\n\n常见的“第一位程序员”称号压缩了复杂的合作关系：巴贝奇此前已有未发表的运算步骤，历史学家也讨论两人的分工。即使不裁定这一称号，她发表的注释仍然重要。她于1852年去世。阅读注释本身，可以看到她对规则、表示方式和机器限度的思考，而不只是一则英雄式发明故事。"
+    },
+    "dateNote": {
+      "en": "Life: 1815–1852. London is a representative intellectual setting; publication does not imply the full engine had been built.",
+      "zh": "生平为1815—1852年。伦敦是代表性的学术环境；文章出版不表示完整机器已建成。"
+    },
+    "sources": [
+      {
+        "title": "Ada Lovelace",
+        "url": "https://www.computerhistory.org/babbage/adalovelace/",
+        "publisher": "Computer History Museum",
+        "evidenceNote": "Supports family/education, the 1833 meeting, 1843 translation and notes, symbolic applications and the debated attribution of programming priority.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Ada Lovelace: visionary of the computer age",
+        "url": "https://blog.sciencemuseum.org.uk/ada-lovelace-visionary-of-the-computer-age/",
+        "publisher": "Science Museum",
+        "evidenceNote": "Supports the Analytical Engine notes and collaboration, while distinguishing a published algorithm from Babbage’s earlier unpublished work.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Sketch of the Analytical Engine, with Notes by Ada Lovelace",
+        "url": "https://psychclassics.yorku.ca/Lovelace/lovelace.htm",
+        "publisher": "Classics in the History of Psychology, York University",
+        "evidenceNote": "Transcription of the 1843 primary text: Note A discusses symbolic/music possibilities conditionally; Note G describes operations and the machine’s dependence on instructions.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "keyFacts": {
+      "en": [
+        "The 1843 notes examine symbolic as well as numerical operations.",
+        "The priority label needs qualification."
+      ],
+      "zh": [
+        "1843年注释同时考察符号与数字运算。",
+        "优先权称号需要限定。"
+      ]
+    },
+    "relatedIds": [
+      "person-isaac-newton",
+      "person-alan-turing",
+      "world-wide-web"
+    ],
+    "expansion": {
+      "workstreams": [
+        "EU3"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "The published text is distinguished from later priority labels and from machines never completed in her lifetime.",
+        "zh": "区分已发表文本、后世优先权称号，以及其在世时尚未完成的机器。"
+      }
+    },
+    "name": {
+      "en": "Ada Lovelace",
+      "zh": "阿达·洛夫莱斯"
+    },
+    "milestones": [
+      {
+        "year": 1833,
+        "title": {
+          "en": "Meets Babbage",
+          "zh": "结识巴贝奇"
+        },
+        "description": {
+          "en": "A demonstration of the Difference Engine helps begin their collaboration.",
+          "zh": "差分机演示促成了两人合作的开端。"
+        },
+        "location": {
+          "lat": 51.507,
+          "lon": -0.128,
+          "label": "London; representative working and institutional context"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1843,
+        "title": {
+          "en": "Publishes the translation and notes",
+          "zh": "发表译文与注释"
+        },
+        "description": {
+          "en": "Her additions discuss operations, representation and the proposed engine’s possibilities.",
+          "zh": "她的补充内容讨论运算、表示方式和拟建机器的可能性。"
+        },
+        "location": {
+          "lat": 51.507,
+          "lon": -0.128,
+          "label": "London; publication and correspondence context"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1852,
+        "title": {
+          "en": "Dies with the Analytical Engine unbuilt",
+          "zh": "分析机尚未建成时去世"
+        },
+        "description": {
+          "en": "She dies with the Analytical Engine still unrealized as a complete working machine.",
+          "zh": "她去世时，分析机尚未成为完整可运行的机器。"
+        },
+        "location": {
+          "lat": 51.507,
+          "lon": -0.128,
+          "label": "London; representative working and institutional context"
+        },
+        "approximate": false
+      }
+    ]
+  },
+  {
+    "id": "person-taras-shevchenko",
+    "title": {
+      "en": "Taras Shevchenko: poetry, art and the experience of unfreedom",
+      "zh": "塔拉斯·舍甫琴科：诗歌、绘画与不自由的经历"
+    },
+    "start": 1814,
+    "end": 1861,
+    "region": "europe",
+    "kind": "person",
+    "theme": "culture",
+    "importance": 4,
+    "location": {
+      "lat": 49.252,
+      "lon": 30.98,
+      "label": "Moryntsi; representative birthplace and childhood setting"
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Born into a serf family in Moryntsi, Shevchenko moved within a world where a landlord’s authority shaped residence and work. Artistic training in St Petersburg and the efforts of supporters enabled his freedom in 1838. He entered the Academy of Arts, and the poetry collection Kobzar appeared in 1840. Writing in Ukrainian and working as a visual artist were intertwined parts of his career.\n\nArrest in 1847 brought military exile and restrictions on writing and drawing. His subsequent experience in the empire’s eastern territories included encounters with Kazakh people and landscapes. Release in 1857 did not erase those years of coercion. He returned to literary and artistic work before dying in St Petersburg in 1861.\n\nHis biography connects cultural production to legal status, patronage and imperial punishment. It also helps distinguish an individual’s purchase of freedom in 1838 from the wider emancipation reform of 1861. Neither poetry nor portraiture should be treated simply as an illustration of later national memory; they were work made under changing material constraints.",
+      "zh": "舍甫琴科出生于莫伦齐的农奴家庭，居住与劳动受到地主权力支配。圣彼得堡的艺术训练和支持者的努力，使他于1838年获得自由。随后进入艺术学院，1840年出版诗集《科布扎》。以乌克兰语写作和从事视觉艺术，是其生涯中相互交织的部分。\n\n1847年被捕后，他被流放服兵役，并受到写作和绘画限制。在帝国东部地区的经历，使他接触到哈萨克人民与当地景观。1857年获释并未抹去受强制支配的岁月。他重新从事文学与艺术工作，于1861年死于圣彼得堡。\n\n其生平把文化生产与法律身份、赞助关系和帝国惩罚制度联系起来，也帮助区分1838年个人被赎身与1861年更大范围的农奴解放改革。诗歌与肖像画不应仅被当作后来民族记忆的插图；它们是在不断变化的物质限制中完成的劳动。"
+    },
+    "dateNote": {
+      "en": "Life: 1814–1861. Exile points indicate documented administrative settings, not a reconstructed travel route.",
+      "zh": "生平为1814—1861年。流放点位表示有记载的行政环境，不重建旅行路线。"
+    },
+    "sources": [
+      {
+        "title": "Shevchenko, Taras",
+        "url": "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CS%5CH%5CShevchenkoTaras.htm",
+        "publisher": "Internet Encyclopedia of Ukraine, Canadian Institute of Ukrainian Studies",
+        "evidenceNote": "Supports serf origins, artistic training, 1838 emancipation, Kobzar in 1840, 1847 military exile, release in 1857, art/poetry and death in 1861.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Taras Shevchenko: biography",
+        "url": "https://shevchenko.ca/taras-shevchenko/biography/",
+        "publisher": "Shevchenko Museum, Toronto",
+        "evidenceNote": "Museum synthesis supports movement from serfdom through artistic education, writing, exile and later remembrance; used alongside the scholarly encyclopaedia.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "keyFacts": {
+      "en": [
+        "Individual emancipation preceded the empire-wide reform.",
+        "Poetry and visual art both belong to his life story."
+      ],
+      "zh": [
+        "个人赎身早于帝国范围的改革。",
+        "诗歌与视觉艺术均属于其生平。"
+      ]
+    },
+    "relatedIds": [
+      "russian-serf-emancipation",
+      "russian-central-asia-conquest",
+      "russian-revolutions"
+    ],
+    "expansion": {
+      "workstreams": [
+        "EU3"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "A selected biography; modern national borders do not describe the imperial setting, and no exact exile itinerary is inferred.",
+        "zh": "精选人物传记；现代国界不能描述其帝国环境，也不推断精确的流放行程。"
+      }
+    },
+    "name": {
+      "en": "Taras Shevchenko",
+      "zh": "塔拉斯·舍甫琴科"
+    },
+    "milestones": [
+      {
+        "year": 1838,
+        "title": {
+          "en": "Obtains freedom and studies art",
+          "zh": "获得自由并学习艺术"
+        },
+        "description": {
+          "en": "Supporters secure his release from serfdom, opening formal artistic study.",
+          "zh": "支持者帮助其脱离农奴身份，开启正式艺术学习。"
+        },
+        "location": {
+          "lat": 59.934,
+          "lon": 30.335,
+          "label": "St Petersburg; representative literary and imperial administrative context"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1840,
+        "title": {
+          "en": "Kobzar published",
+          "zh": "《科布扎》出版"
+        },
+        "description": {
+          "en": "The collection brings his Ukrainian poetry into print.",
+          "zh": "诗集使其乌克兰语诗作进入印刷传播。"
+        },
+        "location": {
+          "lat": 59.934,
+          "lon": 30.335,
+          "label": "St Petersburg; publication setting"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1847,
+        "title": {
+          "en": "Interrogation and military exile",
+          "zh": "审讯与流放服役"
+        },
+        "description": {
+          "en": "Arrest leads to interrogation in the capital and compulsory military service in the east.",
+          "zh": "被捕后在首都受审，继而被强制服役于帝国东部。"
+        },
+        "location": {
+          "lat": 59.934,
+          "lon": 30.335,
+          "label": "St Petersburg; interrogation setting, not the arrest location"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1857,
+        "title": {
+          "en": "Released from military exile",
+          "zh": "结束流放服役"
+        },
+        "description": {
+          "en": "Release ends the long period of enforced service.",
+          "zh": "获释结束了长期的强制服役。"
+        },
+        "location": {
+          "lat": 44.51,
+          "lon": 50.26,
+          "label": "Novopetrovsk / present Fort-Shevchenko; representative final exile-post setting"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1861,
+        "title": {
+          "en": "Dies in St Petersburg",
+          "zh": "死于圣彼得堡"
+        },
+        "description": {
+          "en": "His literary and artistic legacy develops beyond his lifetime.",
+          "zh": "其文学与艺术遗产在死后继续传播。"
+        },
+        "location": {
+          "lat": 59.934,
+          "lon": 30.335,
+          "label": "St Petersburg; representative literary and imperial administrative context"
+        },
+        "approximate": false
+      }
+    ]
+  },
+  {
+    "id": "russian-serf-emancipation",
+    "title": {
+      "en": "Russian emancipation of 1861: freedom, land and obligations",
+      "zh": "1861年俄国农奴解放：自由、土地与义务"
+    },
+    "start": 1861,
+    "end": 1861,
+    "region": "europe",
+    "kind": "event",
+    "theme": "states",
+    "importance": 4,
+    "location": {
+      "lat": 59.934,
+      "lon": 30.335,
+      "label": "St Petersburg; representative literary and imperial administrative context"
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Alexander II’s 1861 reform changed the legal position of privately owned serfs in the Russian Empire. Freedom and access to land were related but different questions. Arrangements for allotments, compensation and continuing obligations meant that emancipation could not be understood simply as an immediate transfer of unrestricted property.\n\nA U.S. diplomatic report written in 1865 describes payments, government loans and local variation, while strongly praising the emperor. It is useful evidence of how a foreign observer explained the reform, but its optimism should not be mistaken for the voices of all former serfs. This entry separates the legal turning point from the longer history of rural resources and dependency. Shevchenko’s earlier purchase of individual freedom provides a related personal story; it was not the same mechanism as the 1861 settlement.",
+      "zh": "亚历山大二世1861年的改革改变了俄罗斯帝国私人领主所属农奴的法律地位。获得自由与取得土地是相互关联却不同的问题。份地、补偿和继续承担义务的安排，意味着农奴解放不能简单理解为立即获得不受限制的财产权。\n\n1865年美国外交官的一份报告描述了付款、政府贷款与地方差异，同时高度赞扬皇帝。它有助于了解一名外国观察者如何解释改革，但其乐观态度不能代表所有获释农奴的声音。本条区分法律上的转折点与更长期的农村资源和依附关系。舍甫琴科此前通过赎身获得个人自由，提供了相关的个人故事，却并非1861年改革所采用的同一种机制。"
+    },
+    "dateNote": {
+      "en": "1861 marks a legal reform; implementation and financial obligations continued afterward. Only the year is used to avoid mixing calendar conventions.",
+      "zh": "1861年为法律改革节点，实施与经济义务延续其后。仅使用年份，以免混用历法。"
+    },
+    "sources": [
+      {
+        "title": "C. M. Clay to William H. Seward, 8 January 1865",
+        "url": "https://history.state.gov/historicaldocuments/frus1865p2/d476",
+        "publisher": "U.S. Department of State, Office of the Historian",
+        "evidenceNote": "Primary diplomatic report describes the 1861 reform, local land arrangements, payments and continuing service. Its praise of the emperor is treated as the author’s perspective; its precise decree date and population estimates are not adopted.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "The Emancipation of the Russian Serfs, 1861",
+        "url": "https://www.historytoday.com/archive/emancipation-russian-serfs-1861",
+        "publisher": "History Today, Michael Lynch",
+        "evidenceNote": "Accessible introductory text supports the 1861 reform under Alexander II and the distinction between serfdom and freedom. No claim to have read subscriber-only continuation; the introduction’s comparison with U.S. abolition is not used.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "keyFacts": {
+      "en": [
+        "Legal freedom did not resolve every question of land access."
+      ],
+      "zh": [
+        "法律自由并未解决全部土地取得问题。"
+      ]
+    },
+    "relatedIds": [
+      "person-taras-shevchenko",
+      "russian-revolutions",
+      "russian-central-asia-conquest"
+    ],
+    "expansion": {
+      "workstreams": [
+        "EU3"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "The diplomatic report is explicitly situated and does not represent peasant testimony; no universal allotment size or outcome is claimed.",
+        "zh": "明确外交报告的立场，不将其视为农民证词，也不声称份地大小或改革结果处处相同。"
+      }
+    }
+  },
+  {
+    "id": "british-women-franchise-1918-1928",
+    "title": {
+      "en": "Women’s parliamentary franchise: the gap between 1918 and 1928",
+      "zh": "英国女性议会选举权：1918与1928年的差距"
+    },
+    "start": 1918,
+    "end": 1928,
+    "region": "europe",
+    "kind": "event",
+    "theme": "states",
+    "importance": 4,
+    "location": {
+      "lat": 51.499,
+      "lon": -0.124,
+      "label": "Westminster; parliamentary lawmaking setting"
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "The Representation of the People Act 1918 admitted some women to the United Kingdom’s parliamentary electorate, but it did not create equal voting rights. Women had to be at least thirty and meet specified qualifications. Younger women were excluded, while the male franchise extended much more widely. Wartime electoral problems and long-running suffrage organizing formed part of the setting for reform.\n\nIn 1928 the Equal Franchise Act put women on the same voting basis as men at twenty-one. The ten-year gap matters because a milestone labelled only “women win the vote” conceals who still lacked it. The legislation addressed parliamentary voting; it should not be taken to mean that every inequality in public life ended, or that subjects throughout the British Empire received identical rights. A link to New Zealand’s earlier suffrage history invites comparison without assuming that reform followed one universal sequence.",
+      "zh": "1918年的《人民代表法》允许部分女性加入英国议会选民行列，却没有建立平等的投票权。女性必须至少三十岁并符合特定资格；较年轻的女性仍被排除，而男性选举权的范围扩大得更多。战时选举问题和长期争取女性参政的组织活动，共同构成改革的背景。\n\n1928年的《平等选举权法》使女性与男性一样，以二十一岁为投票年龄基础。这十年的间隔十分重要，因为仅标注“女性获得投票权”，会掩盖仍然被排除的人群。法律处理的是议会投票问题，不表示公共生活中的所有不平等都已终结，也不表示大英帝国各地臣民获得了同样权利。关联的新西兰较早的参政史邀请读者进行比较，但不假定各地改革沿着同一条普遍路线发展。"
+    },
+    "dateNote": {
+      "en": "1918–1928 compares two parliamentary franchise settlements, not the entire suffrage movement.",
+      "zh": "1918—1928年比较两次议会选举权安排，并非整个女性参政运动的起讫。"
+    },
+    "sources": [
+      {
+        "title": "Women get the vote",
+        "url": "https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/overview/thevote/",
+        "publisher": "UK Parliament",
+        "evidenceNote": "Supports unequal 1918 qualifications, near-universal adult male franchise, and the 1928 extension to women on the same basis at age 21.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Equal Franchise Act 1928",
+        "url": "https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/unesco/equal-franchise-act-1928/",
+        "publisher": "UK Parliament",
+        "evidenceNote": "Archival description supports the 1928 Act and its relation to the limited 1918 franchise; both parliamentary sources belong to one institutional family.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "keyFacts": {
+      "en": [
+        "1918 was partial enfranchisement; 1928 equalized the voting basis."
+      ],
+      "zh": [
+        "1918年是部分赋权；1928年才实现相同的投票资格基础。"
+      ]
+    },
+    "relatedIds": [
+      "person-mary-wollstonecraft",
+      "nz-womens-suffrage",
+      "first-world-war"
+    ],
+    "expansion": {
+      "workstreams": [
+        "EU3"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "The focus is the UK parliamentary electorate; colonial franchise histories require separate accounts.",
+        "zh": "关注英国议会选民资格；殖民地选举权历史需要另作说明。"
+      }
+    }
+  },
+  {
+    "id": "person-alan-turing",
+    "title": {
+      "en": "Alan Turing: computability, wartime work and persecution",
+      "zh": "艾伦·图灵：可计算性、战时工作与迫害"
+    },
+    "start": 1912,
+    "end": 1954,
+    "region": "europe",
+    "kind": "person",
+    "theme": "knowledge",
+    "importance": 4,
+    "location": {
+      "lat": 52.074,
+      "lon": -0.241,
+      "label": "Bletchley Park; representative wartime working context"
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Turing’s work connected abstract questions about calculation with the design and use of machines. At Cambridge, his 1936 paper investigated which procedures could be carried out mechanically. During the Second World War he worked at Bletchley Park on German encrypted communications. That work depended on prior Polish achievements, colleagues, operators and engineering support; it cannot be explained as one person breaking every code.\n\nAfter the war, his 1946 design for the Automatic Computing Engine at the National Physical Laboratory and his later Manchester work helped turn questions about computation into practical research. He also wrote about machine intelligence and mathematical patterns in biological growth.\n\nIn 1952 he was prosecuted for a sexual relationship with a man under the law then in force, and subjected to hormonal treatment. He died in 1954. The biography holds his scientific work and the state’s persecution together without treating later honours as an adequate account of what happened during his life.",
+      "zh": "图灵的研究把关于计算的抽象问题与机器的设计、使用连接起来。在剑桥期间，他于1936年发表论文，研究哪些步骤可以机械地执行。第二次世界大战期间，他在布莱切利园研究德国加密通信。这项工作依赖波兰此前的成果、同事、操作员和工程支持，不能解释为一个人破解了全部密码。\n\n战后，他于1946年在英国国家物理实验室提出自动计算引擎设计，后来又在曼彻斯特工作，推动计算问题转化为实际研究。他也讨论机器智能，以及生物生长中的数学图案。\n\n1952年，他因与男性发生性关系而依据当时法律遭到起诉，并被施以激素治疗。他于1954年去世。本条把科学工作与国家迫害同时呈现，不把后来的荣誉当作对其生前经历的充分说明。"
+    },
+    "dateNote": {
+      "en": "Life: 1912–1954. Milestone pins identify institutions or working contexts, not a complete itinerary.",
+      "zh": "生平为1912—1954年。节点标识机构或工作环境，不是完整行程。"
+    },
+    "sources": [
+      {
+        "title": "Alan Mathison Turing (1912–54)",
+        "url": "https://www.kings.cam.ac.uk/alan-mathison-turing-1912-54",
+        "publisher": "King’s College, Cambridge",
+        "evidenceNote": "Archive exhibition supports Cambridge study, 1936 computability paper, wartime service, 1946 ACE proposal, Manchester work, 1952 prosecution and death in 1954. Only the year of death is used, not the page’s discovery-date wording.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Alan Turing",
+        "url": "https://www.gchq.gov.uk/person/alan-turing",
+        "publisher": "GCHQ",
+        "evidenceNote": "Institutional account supports recruitment, Bletchley work, Polish collaboration and postwar computing. Claims of unique priority are qualified by the separate Pyry account.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "The Pyry Forest meeting",
+        "url": "https://www.gchq.gov.uk/information/the-pyry-forest-meeting",
+        "publisher": "GCHQ",
+        "evidenceNote": "Supports Polish work by Rejewski and colleagues, the July 1939 meeting with French/British representatives and the transmission of Enigma methods before British wartime work.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "keyFacts": {
+      "en": [
+        "Polish cryptanalysis preceded the British wartime programme.",
+        "Computing, intelligence and biological pattern were distinct research questions."
+      ],
+      "zh": [
+        "波兰密码分析先于英国战时计划。",
+        "计算、智能与生物图案是不同的研究问题。"
+      ]
+    },
+    "relatedIds": [
+      "bletchley-codebreaking-network",
+      "person-ada-lovelace",
+      "second-world-war",
+      "world-wide-web"
+    ],
+    "expansion": {
+      "workstreams": [
+        "EU3"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "The account avoids sole-inventor claims and does not conflate the electromechanical Bombe with Colossus or a general-purpose computer.",
+        "zh": "不使用唯一发明者的说法，也不把机电式Bombe与Colossus或通用计算机混为一谈。"
+      }
+    },
+    "name": {
+      "en": "Alan Turing",
+      "zh": "艾伦·图灵"
+    },
+    "milestones": [
+      {
+        "year": 1931,
+        "title": {
+          "en": "Studies at King’s College",
+          "zh": "进入国王学院"
+        },
+        "description": {
+          "en": "Turing begins undergraduate study at Cambridge.",
+          "zh": "图灵在剑桥开始本科学习。"
+        },
+        "location": {
+          "lat": 52.205,
+          "lon": 0.119,
+          "label": "Cambridge; university context, not an exact building location"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1936,
+        "title": {
+          "en": "Paper on computable numbers",
+          "zh": "发表可计算数论文"
+        },
+        "description": {
+          "en": "The paper frames a fundamental question about mechanical calculation.",
+          "zh": "论文提出关于机械计算的基础问题。"
+        },
+        "location": {
+          "lat": 52.205,
+          "lon": 0.119,
+          "label": "Cambridge; research context, not every location during the publication year"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1939,
+        "title": {
+          "en": "Wartime cryptanalysis",
+          "zh": "战时密码分析"
+        },
+        "description": {
+          "en": "He joins the wartime work at Bletchley Park.",
+          "zh": "进入布莱切利园的战时工作。"
+        },
+        "location": {
+          "lat": 52.074,
+          "lon": -0.241,
+          "label": "Bletchley Park; wartime workplace"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1946,
+        "title": {
+          "en": "ACE design",
+          "zh": "自动计算引擎设计"
+        },
+        "description": {
+          "en": "A design proposal is prepared at the National Physical Laboratory.",
+          "zh": "在国家物理实验室提出计算机设计方案。"
+        },
+        "location": {
+          "lat": 51.426,
+          "lon": -0.342,
+          "label": "Teddington; National Physical Laboratory setting"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1952,
+        "title": {
+          "en": "Research and prosecution",
+          "zh": "研究与起诉"
+        },
+        "description": {
+          "en": "Work on biological form coincides with prosecution and hormonal treatment.",
+          "zh": "生物形态研究与遭到起诉及激素治疗发生于同一时期。"
+        },
+        "location": {
+          "lat": 53.48,
+          "lon": -2.243,
+          "label": "Manchester area; research and prosecution context"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1954,
+        "title": {
+          "en": "Death",
+          "zh": "去世"
+        },
+        "description": {
+          "en": "His life ends in Cheshire, leaving an influential but unfinished body of work.",
+          "zh": "在柴郡去世，留下影响深远而尚未完成的研究。"
+        },
+        "location": {
+          "lat": 53.326,
+          "lon": -2.231,
+          "label": "Wilmslow; representative final residence setting"
+        },
+        "approximate": false
+      }
+    ]
+  },
+  {
+    "id": "bletchley-codebreaking-network",
+    "title": {
+      "en": "Bletchley’s codebreaking network: inherited methods and shared labour",
+      "zh": "布莱切利密码破译网络：方法传承与共同劳动"
+    },
+    "start": 1939,
+    "end": 1945,
+    "region": "europe",
+    "kind": "event",
+    "theme": "knowledge",
+    "importance": 4,
+    "location": {
+      "lat": 52.074,
+      "lon": -0.241,
+      "label": "Bletchley Park; coordination centre, not the location of every worker"
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "British wartime work on Enigma began with important knowledge already developed in Poland. At the July 1939 Pyry meeting, Polish specialists shared methods and machine work with French and British representatives. Wartime teams then developed new approaches to changing German practices. The electromechanical Bombe helped test possible settings; it was not a machine that automatically read every encrypted message.\n\nThe labour extended beyond celebrated mathematicians and beyond Bletchley Park’s grounds. Jean Millar’s account describes WRNS personnel at Eastcote working in shifts, loading equipment, checking results and relying on engineers. Settings were passed onward for further work. This division of labour connects mathematical ideas to routines, communications and maintenance.\n\nTuring’s biography provides one route into this history. The institutional network provides another, preventing a famous name from absorbing the contributions of Polish cryptanalysts, operators and technical staff.",
+      "zh": "英国战时对Enigma的研究，以波兰已经取得的重要知识为基础。1939年七月的皮里会议上，波兰专家向法国和英国代表分享了方法与机器研究。随后，战时团队针对不断变化的德国操作方式发展新的办法。机电式Bombe帮助检验可能的设置，却不是自动读出每条密文的机器。\n\n劳动范围超出了著名数学家，也超出了布莱切利园的院落。琼·米勒的回忆描述女子皇家海军勤务队人员在伊斯特科特轮班工作、安装设备部件、检查结果，并依赖工程师支持。设置结果再传递给后续环节。这种分工把数学思想与日常操作、通信和维护连接起来。\n\n图灵的传记提供理解这段历史的一条路径，机构网络提供另一条，避免著名姓名遮蔽波兰密码分析者、操作员与技术人员的贡献。"
+    },
+    "dateNote": {
+      "en": "1939–1945 is the wartime focus. Eastcote is a separate workplace; no communications route is reconstructed.",
+      "zh": "1939—1945年为战时观察范围。伊斯特科特是另一处工作地点，不重建通信线路。"
+    },
+    "sources": [
+      {
+        "title": "The Pyry Forest meeting",
+        "url": "https://www.gchq.gov.uk/information/the-pyry-forest-meeting",
+        "publisher": "GCHQ",
+        "evidenceNote": "Supports Polish work by Rejewski and colleagues, the July 1939 meeting with French/British representatives and the transmission of Enigma methods before British wartime work.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Jean Millar: wartime Bombe work",
+        "url": "https://www.gchq.gov.uk/information/international-womens-month-jean-millar",
+        "publisher": "GCHQ",
+        "evidenceNote": "Oral-history account supports WRNS operators, checking procedures, shifts and Post Office engineers at Eastcote. Eastcote is distinguished from Bletchley Park itself.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Alan Turing",
+        "url": "https://www.gchq.gov.uk/person/alan-turing",
+        "publisher": "GCHQ",
+        "evidenceNote": "Institutional account supports recruitment, Bletchley work, Polish collaboration and postwar computing. Claims of unique priority are qualified by the separate Pyry account.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "keyFacts": {
+      "en": [
+        "Bombe work combined analysis, operation, checking and maintenance.",
+        "Eastcote and Bletchley were distinct workplaces."
+      ],
+      "zh": [
+        "Bombe工作结合分析、操作、复核与维护。",
+        "伊斯特科特与布莱切利是不同工作地点。"
+      ]
+    },
+    "relatedIds": [
+      "person-alan-turing",
+      "second-world-war",
+      "person-ada-lovelace"
+    ],
+    "expansion": {
+      "workstreams": [
+        "EU3"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "GCHQ’s institutional history and a worker’s retrospective account give different viewpoints within one source family, not a complete operational archive.",
+        "zh": "GCHQ机构史与工作人员的追述属于同一来源体系中的不同视角，并非完整业务档案。"
+      }
+    }
+  },
+  {
+    "id": "first-fram-expedition",
+    "title": {
+      "en": "The first Fram expedition: a ship, an ice drift and divided teams",
+      "zh": "“前进号”首次远征：船只、浮冰漂流与分组行动"
+    },
+    "start": 1893,
+    "end": 1896,
+    "region": "europe",
+    "kind": "event",
+    "theme": "knowledge",
+    "importance": 4,
+    "location": {
+      "lat": 70.37,
+      "lon": 31.11,
+      "label": "Vardø; documented departure and return context, not an Arctic route"
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "The Fram expedition left Norway in 1893 with Fridtjof Nansen directing its scientific work and Otto Sverdrup commanding the ship. The plan used Arctic ice movement as part of the experiment: the vessel would drift while observations continued. Its progress was neither a straight line nor a reliable passage to the North Pole.\n\nIn 1895 Nansen and Hjalmar Johansen left the ship with sledges, then abandoned their attempt to reach the pole and wintered in Franz Josef Land. Sverdrup and the remaining crew continued with Fram. Both parties returned in 1896 by different means. Keeping the two teams separate matters: the ship’s track and the sledging journey were not one itinerary. The Vardø point identifies a documented connection with Norway, while the account leaves exact route geometry to specialist evidence.",
+      "zh": "“前进号”远征队于1893年离开挪威，由弗里乔夫·南森主持科学工作，奥托·斯韦尔德鲁普担任船长。计划把北极海冰运动纳入实验：船只随冰漂流，同时继续观测。实际移动既不是直线，也不是保证抵达北极点的通道。\n\n1895年，南森与亚尔马·约翰森带雪橇离船，后来放弃抵达极点的尝试，在法兰士约瑟夫地群岛越冬。斯韦尔德鲁普和其余船员继续留在“前进号”上。两组人员于1896年以不同方式返回。区分两队十分重要：船只的轨迹和雪橇行程并不是同一条路线。瓦尔德点位表示与挪威之间有记载的联系，精确路线几何则留待专门证据支持。"
+    },
+    "dateNote": {
+      "en": "Expedition focus: 1893–1896. One source contains inconsistent departure-day labels; no exact day or route geometry is asserted.",
+      "zh": "远征范围为1893—1896年。来源内出发日期相差一天；本条不使用确切日或路线几何。"
+    },
+    "sources": [
+      {
+        "title": "The First Fram Expedition, 1893–1896",
+        "url": "https://frammuseum.no/en/polar-history/expeditions/the-first-fram-expedition-1893-1896/",
+        "publisher": "Fram Museum",
+        "evidenceNote": "Supports Nansen’s scientific role, Sverdrup’s captaincy, ice drift, the separate 1895 sledging attempt with Johansen and both returns in 1896. The page differs by one day on departure; only the year is used.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "keyFacts": {
+      "en": [
+        "The ship and sledging party followed different journeys."
+      ],
+      "zh": [
+        "船只与雪橇队经历了不同的行程。"
+      ]
+    },
+    "relatedIds": [
+      "inuit-thule-mobility",
+      "royal-society-experiments",
+      "person-isaac-newton"
+    ],
+    "expansion": {
+      "workstreams": [
+        "EU3"
+      ],
+      "release": 4,
+      "edition": "v10",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "A bounded account from the expedition museum; its celebratory language and unsupported claims of untouched territory are not adopted.",
+        "zh": "依据远征博物馆的有限范围说明，不采用其颂扬语气或未经支持的无人涉足地域说法。"
+      }
+    }
+  }
+]

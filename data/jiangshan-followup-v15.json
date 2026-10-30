@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "checkedAt": "2026-10-28",
+  "upstreamRepository": "https://github.com/DeanChensj/jiangshan-map",
+  "upstreamCommit": "9799f0f61cff80922970d2a0b304e18527db7e1e",
+  "eventReviews": [
+    {
+      "id": "china-landmark-490",
+      "note": {
+        "en": "The 462 calendar submission is documented in the Book of Song; the inherited wording also dates the pi calculation to 462, which these sources do not establish. The source identity and original wording are retained.",
+        "zh": "《宋书》记载462年上奏大明历；沿用条目还将圆周率计算定于462年，但所查来源并未确立这一日期。保留来源身份与原文。"
+      },
+      "patch": {
+        "title": {
+          "en": "Zu Chongzhi submits the Daming calendar",
+          "zh": "祖冲之上奏大明历"
+        },
+        "summary": {
+          "en": "The Book of Song records Zu Chongzhi’s calendar proposal in Daming year six (462) and a subsequent court debate. Later accounts also connect him with precise approximations to pi, but the sources reviewed do not date that mathematical calculation to 462.",
+          "zh": "《宋书》记载祖冲之于大明六年（462年）上奏历法，之后引发朝廷争论。后世记载也将精密的圆周率近似值与他联系起来，但所查来源未将这一计算定于462年。"
+        },
+        "dateNote": {
+          "en": "462 dates the calendar submission; it does not date the pi calculation. Jiankang is a representative court setting.",
+          "zh": "462年对应历法上奏，不代表圆周率计算发生于该年。建康是代表性的朝廷地点。"
+        },
+        "relatedIds": [
+          "china-person-zu-chongzhi"
+        ]
+      },
+      "sources": [
+        {
+          "title": "Book of Song, volume 13: calendar treatise",
+          "url": "https://zh.wikisource.org/wiki/宋書/卷13",
+          "publisher": "Wikisource, Chinese dynastic history",
+          "evidenceNote": "Retrospective calendar treatise records the Daming year-six submission, its 391-year and 144-intercalation cycle, and a court debate.",
+          "evidenceNoteZh": "后出的历志记载大明六年上奏、391年144闰的历法周期及朝廷争论。",
+          "checkedAt": "2026-10-28",
+          "retrieval": "opened-page"
+        },
+        {
+          "title": "Zu Chongzhi biography",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Zu_Chongzhi/",
+          "publisher": "University of St Andrews, MacTutor History of Mathematics",
+          "evidenceNote": "Life, Daming calendar proposal in 462 and approximations to pi; the biography gives death as 501. Its conjecture about the calculation method is not treated as established.",
+          "evidenceNoteZh": "生平、462年大明历提案与圆周率近似值；该传记列卒年为501年。有关计算方法的推测不视为定论。",
+          "checkedAt": "2026-10-28",
+          "retrieval": "opened-page"
+        }
+      ]
+    }
+  ],
+  "personSupplements": []
+}

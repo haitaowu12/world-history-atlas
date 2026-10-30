@@ -1,0 +1,72 @@
+/* 普天之下: keep the mineral map workspace; give the identity and reading geography room. */
+.brand { gap:12px; }
+.brand .brand-mark { width:38px; height:38px; overflow:visible; stroke:var(--gold); stroke-width:1; fill:none; }
+.brand-mark .brand-orbit { stroke:#c4d6e4; stroke-width:.8; }
+.brand-mark .brand-point { fill:#f4dfb8; stroke:#172a40; stroke-width:1; }
+.brand small { letter-spacing:.28em; margin-top:5px; }
+html[lang=zh-CN] .brand strong { font-family:var(--serif); font-size:24px; letter-spacing:.14em; }
+html[lang=zh-CN] .brand small { font-size:8px; letter-spacing:.13em; }
+.nav-button { position:relative; }
+.nav-button::after { content:''; position:absolute; bottom:0; height:2px; left:25%; right:25%; background:var(--gold); transform:scaleX(0); transition:transform 180ms ease; }
+.nav-button.active::after { transform:scaleX(1); }
+.nav-button.active { border-color:transparent; }
+button,a,input,select { -webkit-tap-highlight-color:transparent; }
+.story-button,.reading-card,.secondary-button,.map-pill { transition:background-color 150ms ease,border-color 150ms ease; }
+.story-button:focus-visible,.reading-card:focus-visible { outline-offset:-2px; }
+.time-slider input::-webkit-slider-runnable-track { background:linear-gradient(to right,var(--accent) 0 var(--time-progress,0%),#c8d6e3 var(--time-progress,0%) 100%); height:3px; }
+.time-slider input::-moz-range-progress { background:var(--accent); height:3px; }
+.time-slider input::-moz-range-track { background:#c8d6e3; height:3px; }
+.territory-legend { width:204px; max-height:38px; overflow:hidden; padding:11px 12px; box-shadow:0 3px 12px #17334c0a; }
+.territory-legend .legend-heading { margin-bottom:0; align-items:center; gap:8px; }
+.territory-legend:not(.legend-expanded)>button,.territory-legend:not(.legend-expanded)>p { display:none; }
+.territory-legend.legend-expanded { max-height:260px; overflow:auto; }
+.territory-legend.legend-expanded .legend-heading { margin-bottom:9px; }
+.territory-legend .legend-toggle { min-width:34px; font-size:11px; }
+.legend-toggle[aria-expanded=true] { color:var(--accent); }
+#reading-results .reading-featured { grid-template-columns:repeat(3,minmax(0,1fr)); gap:22px; }
+#reading-results .reading-featured .reading-card { padding-top:12px; }
+.reading-map { width:100%; height:auto; max-height:94px; margin:0 0 14px; overflow:visible; }
+.reading-map-sphere { fill:#f1f5f8; stroke:#d5dfe8; stroke-width:.7; }
+.reading-map-land { fill:#d9e4eb; stroke:#bacbd7; stroke-width:.3; }
+.reading-map-halo { fill:#b88943; opacity:.18; }
+.reading-map-point { fill:#275e91; stroke:#fff; stroke-width:.65; }
+.reading-featured .reading-card strong { font-size:20px; }
+.reading-featured .reading-card p { margin:12px 0 16px; }
+.reading-featured .reading-card small { margin-top:auto; }
+.about-links { align-items:center; margin-bottom:28px; }
+.about-links a { text-decoration:none; }
+.about-links .text-button { color:var(--accent); font-size:12px; text-decoration:underline; text-underline-offset:3px; }
+@media (max-width:900px) {
+ #reading-results .reading-featured { grid-template-columns:1fr; gap:0; }
+ #reading-results .reading-featured .reading-card { display:grid; grid-template-columns:130px minmax(0,1fr); column-gap:20px; align-items:start; padding:20px 0; }
+ .reading-featured .reading-map { grid-row:1/4; margin:4px 0 0; }
+ .reading-featured .reading-card strong { font-size:19px; }
+ .reading-featured .reading-card p { margin:9px 0; }
+ .reading-featured .reading-card small { margin-top:0; }
+}
+@media (max-width:700px) {
+ .brand .brand-mark { width:31px; height:31px; }
+ html[lang=zh-CN] .brand strong { font-size:22px; }
+ .territory-legend { width:174px; max-height:38px; }
+ .territory-legend .legend-heading { font-size:9px; }
+ .territory-legend.legend-expanded { max-height:225px; }
+ .reading-featured .reading-map { max-height:80px; }
+ #reading-results .reading-featured .reading-card { grid-template-columns:88px minmax(0,1fr); column-gap:14px; }
+}
+@media (max-width:380px) {
+ #reading-results .reading-featured .reading-card { grid-template-columns:1fr; }
+ .reading-featured .reading-map { width:145px; grid-row:auto; margin:0 0 12px; }
+}
+@media (prefers-reduced-motion:reduce) {
+ .nav-button::after,.story-button,.reading-card,.secondary-button,.map-pill { transition:none; }
+}
+
+/* Keep the first studies visible before the catalogue's longer collection. */
+#reading-catalog>h2 { font-size:32px; margin:4px 25px 9px 0; }
+#reading-catalog>p { margin:0; line-height:1.6; }
+#reading-catalog .dialog-tabs { margin:18px 0 12px; }
+#reading-catalog .reading-filters { margin:16px 0 6px; }
+#reading-catalog .reading-result-bar { min-height:36px; }
+#reading-catalog .reading-result-bar [hidden] { display:none; }
+#reading-catalog .reading-count { margin:8px 0; }
+@media (max-width:700px) { #reading-catalog>h2 { font-size:27px; } }

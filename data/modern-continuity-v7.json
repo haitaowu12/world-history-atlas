@@ -1,0 +1,250 @@
+[
+  {
+    "id": "prc-political-period",
+    "title": {
+      "en": "People’s Republic of China: a modern political period",
+      "zh": "中华人民共和国：现代政治时期"
+    },
+    "start": 1949,
+    "end": 2026,
+    "region": "east-asia",
+    "theme": "states",
+    "kind": "polity",
+    "importance": 4,
+    "ongoing": true,
+    "location": {
+      "lon": 116.39,
+      "lat": 39.9,
+      "label": "Beijing; representative political centre"
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "The People’s Republic of China was proclaimed in Beijing on 1 October 1949. Its position on the timeline marks the beginning of a modern political period, rather than a new beginning for the histories of the people and places shown on this map. Earlier republican, imperial and regional histories remain part of the same connected collection.\n\nA state’s continuity also differs from a border’s continuity. The atlas therefore dates the political overview separately from its map geometry and lets individual events carry their own dates. Reading across the 1949 transition alongside postwar Japan, independent India and the Soviet Union helps distinguish events that were contemporary from developments that merely belong to a broad modern era.",
+      "zh": "中华人民共和国于1949年10月1日在北京宣告成立。这条时间带标记一个现代政治时期的开始，并非把地图上各地人民与地方的历史重新归零。此前的民国、帝国与区域历史仍属于同一个相互联系的资料体系。\n\n国家的延续也不同于边界的延续。因此，本图分别标注政治概述的年代与地图几何资料的日期，具体事件保留自己的年代。把1949年前后的变化与战后日本、独立后的印度及苏联并读，有助于区分真正同时发生的历史和仅仅同属“现代”的发展。"
+    },
+    "dateNote": {
+      "en": "1949 marks the proclamation on 1 October; 2026 is the atlas coverage endpoint, not an end date. Beijing is a representative political centre. This focus period neither defines sovereignty over every mapped area nor implies unchanged borders.",
+      "zh": "1949年指10月1日宣告成立；2026年是本图资料截止年，并非终结年。北京为政治中心参照点。本时段不界定所有地图区域的主权，也不表示疆界始终不变。"
+    },
+    "keyFacts": {
+      "en": [
+        "Proclamation: 1 October 1949 in Beijing.",
+        "Political periods and boundary-source dates are separate."
+      ],
+      "zh": [
+        "1949年10月1日在北京宣告成立。",
+        "政治时段与边界资料日期分别标注。"
+      ]
+    },
+    "sources": [
+      {
+        "title": "National Day",
+        "url": "https://english.www.gov.cn/archive/china_abc/2014/08/27/content_281474983873427.htm",
+        "publisher": "State Council of the People’s Republic of China",
+        "checkedAt": "2026-10-23",
+        "evidenceNote": "Official account supports the proclamation date and Beijing ceremony; not independent support for a boundary claim."
+      }
+    ],
+    "relatedIds": [
+      "japan-postwar-polity",
+      "india-independent-polity",
+      "soviet-union-polity"
+    ],
+    "timeline": {
+      "level": "major",
+      "label": {
+        "en": "People’s Republic of China",
+        "zh": "中华人民共和国"
+      }
+    }
+  },
+  {
+    "id": "france-fifth-republic",
+    "title": {
+      "en": "French Fifth Republic: constitutions and political continuity",
+      "zh": "法国第五共和国：宪法与政治延续"
+    },
+    "start": 1958,
+    "end": 2026,
+    "region": "europe",
+    "theme": "states",
+    "kind": "polity",
+    "importance": 4,
+    "ongoing": true,
+    "location": {
+      "lon": 2.35,
+      "lat": 48.85,
+      "label": "Paris; representative political centre"
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "France’s Fifth Republic is organized under the Constitution of 4 October 1958. Its institutions give the executive a different position from that under the preceding constitution. The Élysée’s account describes the new settlement as an effort to strengthen executive power and stabilize government. A constitutional text is evidence of institutional design; it is not a complete account of how power is exercised in practice.\n\nThis bar follows a constitutional period rather than France’s entire history. Earlier kingdoms, revolutions and republics should therefore be read as overlapping layers of context, not compressed into one unchanged French state. Comparing this entry with postwar Japan and reunited Germany also distinguishes a new constitutional settlement from an altered territorial arrangement.",
+      "zh": "法国第五共和国以1958年10月4日的宪法为制度基础，其行政权在制度中的位置不同于此前的宪法安排。爱丽舍宫的制度说明把新安排解释为加强行政权、稳定政府的尝试。宪法文本能够说明制度设计，却不能独自概括权力在现实中如何运作。\n\n本时间带呈现的是一个宪政时期，而非法国全部历史。此前的王国、革命与各共和国应作为多层历史背景阅读，不应压缩成一个从未改变的国家。与战后日本及统一后的德国比较，还能区分新的宪政安排和领土格局的变化。"
+    },
+    "dateNote": {
+      "en": "1958 dates the constitution of 4 October, not the creation of France. The ongoing period is capped at the atlas endpoint in 2026. Paris is representative; no constant territorial footprint is implied.",
+      "zh": "1958年指10月4日宪法，而非法国起源。延续中的时期暂列至本图截止年2026年。巴黎为参照点，不表示领土轮廓不变。"
+    },
+    "keyFacts": {
+      "en": [
+        "The constitutional period begins in 1958.",
+        "Institutional design and political practice are different evidence questions."
+      ],
+      "zh": [
+        "宪政时期从1958年起。",
+        "制度设计与政治实践需要不同证据。"
+      ]
+    },
+    "sources": [
+      {
+        "title": "The Constitution of the Fifth Republic",
+        "url": "https://www.elysee.fr/en/french-presidency/constitution-of-4-october-1958",
+        "publisher": "Élysée",
+        "checkedAt": "2026-10-23",
+        "evidenceNote": "Supports the 4 October 1958 constitution and the explanation of strengthened executive power; search-index text retrieved, direct fetch returned an error."
+      },
+      {
+        "title": "The institutions",
+        "url": "https://www.elysee.fr/en/french-presidency/the-institutions",
+        "publisher": "Élysée",
+        "checkedAt": "2026-10-23",
+        "evidenceNote": "Identifies the 1958 Constitution as the basis of the Fifth Republic’s institutions."
+      }
+    ],
+    "relatedIds": [
+      "japan-postwar-polity",
+      "germany-reunified-period"
+    ],
+    "timeline": {
+      "level": "major",
+      "label": {
+        "en": "French Fifth Republic",
+        "zh": "法国第五共和国"
+      }
+    }
+  },
+  {
+    "id": "united-kingdom-polity",
+    "title": {
+      "en": "United Kingdom: a union with changing territory",
+      "zh": "英国：疆域变化中的联合国家"
+    },
+    "start": 1801,
+    "end": 2026,
+    "region": "europe",
+    "theme": "states",
+    "kind": "polity",
+    "importance": 4,
+    "ongoing": true,
+    "location": {
+      "lon": -0.1276,
+      "lat": 51.5072,
+      "label": "London; representative parliamentary centre"
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "The union of Great Britain and Ireland took effect on 1 January 1801. The Irish Parliament was abolished and Irish representation was brought into the Westminster Parliament. Parliament’s collection of the Act provides a document through which to examine a political union as an institutional change, rather than simply a new colour on a map.\n\nThe later separation of most of Ireland changed the union’s territorial composition. Keeping the United Kingdom on a long timeline therefore cannot justify displaying its 1801 outline throughout the following centuries. Follow the dated maps and compare their source dates with the political overview; a state identity, its institutions and its boundaries need not change at the same moment.",
+      "zh": "大不列颠与爱尔兰的联合于1801年1月1日生效，爱尔兰议会被撤销，爱尔兰的代表进入威斯敏斯特议会。英国议会收藏的法案提供了一个观察窗口：政治联合既是制度变化，也不只是地图上的一种新颜色。\n\n此后爱尔兰大部分地区的分离改变了联合国家的领土组成。因此，在长时间轴上保留“英国”并不能成为把1801年轮廓延续数百年的理由。阅读有日期的地图，并比较其来源日期与政治概述：国家身份、制度与边界不一定在同一时刻改变。"
+    },
+    "dateNote": {
+      "en": "1801 is the effective year of the union with Ireland; it is not the beginning of all British history. The interval continues to the atlas endpoint, 2026, and includes later territorial changes. The representative point is London.",
+      "zh": "1801年指与爱尔兰联合生效，并非英国所有历史的起点。时段延续至本图截止年2026年，包含后来的领土变化。伦敦为参照点。"
+    },
+    "keyFacts": {
+      "en": [
+        "The union took effect on 1 January 1801.",
+        "State continuity does not imply continuous control of the same territory."
+      ],
+      "zh": [
+        "联合于1801年1月1日生效。",
+        "国家延续不等于始终控制同一疆域。"
+      ]
+    },
+    "sources": [
+      {
+        "title": "An Act for the Union of Great Britain and Ireland",
+        "url": "https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/parliamentandireland/collections/ireland/act-of-union-1800/",
+        "publisher": "UK Parliament",
+        "checkedAt": "2026-10-23",
+        "evidenceNote": "Supports the effective date and parliamentary changes."
+      },
+      {
+        "title": "The United Kingdom and independence",
+        "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10649/",
+        "publisher": "House of Commons Library",
+        "checkedAt": "2026-10-23",
+        "evidenceNote": "Supports union and later Irish secession context; retrieved research-briefing summary."
+      }
+    ],
+    "relatedIds": [
+      "canada-polity",
+      "india-independent-polity"
+    ],
+    "timeline": {
+      "level": "major",
+      "label": {
+        "en": "United Kingdom",
+        "zh": "英国"
+      }
+    }
+  },
+  {
+    "id": "germany-reunified-period",
+    "title": {
+      "en": "Reunited Germany: the end of territorial division",
+      "zh": "统一后的德国：领土分裂的结束"
+    },
+    "start": 1990,
+    "end": 2026,
+    "region": "europe",
+    "theme": "states",
+    "kind": "polity",
+    "importance": 4,
+    "ongoing": true,
+    "location": {
+      "lon": 13.405,
+      "lat": 52.52,
+      "label": "Berlin; representative reunion site"
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "German reunification took place on 3 October 1990. The federal government’s contemporary-event chronology records celebrations in Berlin and the end of the country’s division. This gives the atlas a concrete transition to show: East and West Germany belong in the preceding context, while a year-end view of 1990 needs the reunited state.\n\nThe bar begins with reunification, not with the origin of Germany or with the founding of the Federal Republic. It is one political focus period among longer histories of language, settlement, citizenship and institutions. Compare the 1989 and 1990 map views, then follow the Soviet dissolution entry to see why major European changes must be dated separately rather than combined into one undifferentiated post-Cold-War moment.",
+      "zh": "德国于1990年10月3日实现统一。联邦政府的事件年表记录了柏林的庆祝活动和国家分裂的结束。这为地图提供了一个可核对的转折：此前的背景需要东德与西德，而1990年年末视图应呈现统一后的国家。\n\n这条时间带从统一开始，并非德国历史的起点，也不是联邦共和国的建立时间。它只是语言、聚落、公民身份和制度等更长历史中的一个政治关注时期。比较1989年和1990年的地图，再阅读苏联解体条目，就能看到欧洲的重要变化为何必须分别注明日期，而不能合成一个含混的“冷战后时刻”。"
+    },
+    "dateNote": {
+      "en": "The focus interval begins with reunification on 3 October 1990. The Federal Republic predates this interval. The ongoing period is capped at 2026; Berlin represents the reunion context, not a territorial survey.",
+      "zh": "本关注时段从1990年10月3日统一开始；联邦共和国本身早于这一时期。延续中的时段暂列至2026年；柏林代表统一背景，并非领土测绘点。"
+    },
+    "keyFacts": {
+      "en": [
+        "Reunification: 3 October 1990.",
+        "A year-end 1990 map differs from the map at the start of that year."
+      ],
+      "zh": [
+        "统一日期：1990年10月3日。",
+        "1990年年末地图不同于当年年初。"
+      ]
+    },
+    "sources": [
+      {
+        "title": "Die Einheit ist Wirklichkeit — 3. Oktober 1990",
+        "url": "https://www.bundesregierung.de/breg-de/schwerpunkte/deutsche-einheit/die-einheit-ist-wirklichkeit-432814",
+        "publisher": "German Federal Government",
+        "checkedAt": "2026-10-23",
+        "evidenceNote": "Supports reunification date and Berlin commemorative context."
+      }
+    ],
+    "relatedIds": [
+      "german-reunification",
+      "soviet-union-polity",
+      "france-fifth-republic"
+    ],
+    "timeline": {
+      "level": "major",
+      "label": {
+        "en": "Reunited Germany",
+        "zh": "统一后的德国"
+      }
+    }
+  }
+]

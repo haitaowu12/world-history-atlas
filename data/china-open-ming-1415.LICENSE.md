@@ -1,0 +1,5 @@
+# Ming 1415 historical map — source and status
+
+[Map of Ming Chinese empire 1415](https://commons.wikimedia.org/wiki/File:Map_of_Ming_Chinese_empire_1415.jpg), Albert Herrmann and Georg Westermann, *Historical and Commercial Atlas of China* (1935), map 38. Wikimedia Commons identifies this scan as a faithful reproduction of a work in the public domain in the United States because its copyright was not renewed, and applies a life-plus-70-years status. Commons notes that reuse may differ in some other jurisdictions. Its U.S. renewal classification is Commons' assessment; an independent renewal-registry check was unavailable during this review.
+
+World History Atlas extracted the yellow mainland and Hainan areas, generalized them and registered them to geographic coordinates. This adaptation is made available under CC0 1.0 to the extent of the atlas's rights. The older historical map combines frontier claims with core administration and is not evidence of uniform rule. The source image is retained in `references/china-ming-1415/`; its map inset interrupts the far northeastern reference.

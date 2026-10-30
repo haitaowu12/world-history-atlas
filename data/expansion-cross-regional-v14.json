@@ -1,0 +1,905 @@
+[
+  {
+    "id": "cold-war-world-history",
+    "title": {
+      "en": "The Cold War · Rivalry, decolonization and local choices",
+      "zh": "冷战 · 大国对抗、非殖民化与地方选择"
+    },
+    "start": 1945,
+    "end": 1991,
+    "region": "europe",
+    "theme": "states",
+    "kind": "event",
+    "importance": 4,
+    "location": {
+      "lat": 52.52,
+      "lon": 13.405,
+      "label": "Berlin; a representative site within a global history, not a map of two universal blocs",
+      "labelI18n": {
+        "en": "Berlin; a representative site within a global history, not a map of two universal blocs",
+        "zh": "柏林；全球历史中的代表地点，并非世界两大阵营的地图"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "After the Second World War, U.S.–Soviet rivalry shaped security alliances, nuclear strategy and reconstruction. The confrontation was never just a contest between two capitals. The Korean War, divisions in Europe and later conflicts in Vietnam drew on local political struggles as well as foreign intervention; governments and communities experienced those pressures differently.\n\nDecolonization and the creation of new states changed the choices available in international politics. Bandung in 1955 and the Non-Aligned Movement’s Belgrade meeting in 1961 are related but distinct moments. Non-aligned governments had differing interests and relationships with the major powers. Historian Jürgen Dinkel interprets the movement partly through North–South demands and cooperation among states emerging from colonial rule.\n\nEastern European transitions in 1989 were not identical, and the Soviet Union dissolved in 1991. These events provide useful anchors for an overview, not a single date when all related conflicts or inequalities ended. Berlin is one place through which to enter a genuinely worldwide story.",
+      "zh": "第二次世界大战后，美苏对抗影响安全联盟、核战略与重建。但这从来不只是两个首都之间的角力。朝鲜战争、欧洲的分裂以及后来的越南战争，都涉及地方政治斗争与外部干预；各地政府和社群承受的压力并不相同。\n\n非殖民化和新国家的出现改变了国际政治中的选择。1955年万隆会议与1961年贝尔格莱德的不结盟国家会议相互关联，但并非同一事件。不结盟国家有不同利益，也与大国保持不同关系。历史学者于尔根·丁克尔从南北关系和摆脱殖民统治国家之间的合作角度解释这一运动。\n\n1989年东欧各地的转变并不相同，苏联于1991年解体。这些是总览中的有用节点，不表示相关冲突或不平等在某一天全部结束。柏林只是进入这段全球历史的一个地点。"
+    },
+    "dateNote": {
+      "en": "1945–1991 is an editorial overview bounded by the Second World War’s end and Soviet dissolution; the rivalry’s beginnings, endings and regional effects have different chronologies.",
+      "zh": "1945—1991年是以二战结束与苏联解体为界的编辑总览；对抗的起止与区域影响有不同编年。"
+    },
+    "relatedIds": [
+      "korean-war-armistice",
+      "bandung-conference",
+      "nonaligned-belgrade-1961",
+      "vietnam-war-1954-1975",
+      "berlin-wall-opens"
+    ],
+    "sources": [
+      {
+        "title": "1945–1952: The Early Cold War",
+        "url": "https://history.state.gov/milestones/1945-1952/foreword",
+        "publisher": "U.S. Department of State, Office of the Historian",
+        "evidenceNote": "Directly inspected the retired overview of reconstruction, early U.S.–Soviet rivalry, alliances and containment. Its framing centers U.S. foreign policy.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "The Fall of Communism in Eastern Europe, 1989",
+        "url": "https://history.state.gov/milestones/1989-1992/fall-of-communism",
+        "publisher": "U.S. Department of State, Office of the Historian",
+        "evidenceNote": "Directly inspected the retired narrative on distinct 1989 transitions in Poland, East Germany, Czechoslovakia and Romania; it is not a complete account of 1991.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "The Collapse of the Soviet Union",
+        "url": "https://history.state.gov/milestones/1989-1992/collapse-soviet-union",
+        "publisher": "U.S. Department of State, Office of the Historian",
+        "evidenceNote": "Directly inspected the retired account of the August 1991 coup, republic declarations, December CIS formation and Gorbachev’s 25 December resignation. Its U.S. foreign-policy perspective is partial.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "The Non-Aligned Movement and the North-South Conflict",
+        "url": "https://www.wilsoncenter.org/blog-post/the-non-aligned-movement-and-the-north-south-conflict",
+        "publisher": "Jürgen Dinkel / Wilson Center",
+        "evidenceNote": "Directly inspected the scholarly essay on Bandung, Belgrade, decolonization and the movement’s changing institutions. Its North–South emphasis is an interpretation, not a guarantee that every participant avoided bloc relationships.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "expansion": {
+      "release": 8,
+      "edition": "v14",
+      "workstreams": [
+        "EU3",
+        "SE3",
+        "AF4"
+      ],
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "Selected institutional accounts and a scholarly interpretation; the overview does not resolve every regional chronology or perspective.",
+        "zh": "依据所选机构材料与学术解释；本总览不解决所有地区的编年和视角。"
+      }
+    }
+  },
+  {
+    "id": "nonaligned-belgrade-1961",
+    "title": {
+      "en": "1961 · Non-aligned governments meet at Belgrade",
+      "zh": "1961年 · 不结盟国家在贝尔格莱德会晤"
+    },
+    "start": 1961,
+    "end": 1961,
+    "region": "europe",
+    "theme": "states",
+    "kind": "event",
+    "importance": 4,
+    "location": {
+      "lat": 44.81,
+      "lon": 20.46,
+      "label": "Belgrade; representative conference location",
+      "labelI18n": {
+        "en": "Belgrade; representative conference location",
+        "zh": "贝尔格莱德；会议代表地点"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Governments that sought room to act beyond a simple Cold War bloc alignment met at Belgrade in 1961. Their aims included opposition to colonial domination, support for political independence and cooperation among states with different histories and interests. Non-alignment did not require identical policies or mean that every government lacked ties to a major power.\n\nThe 1955 Bandung conference was an important related meeting, not the same event as Belgrade or the automatic creation of a uniform movement. Jürgen Dinkel’s account follows the movement’s later institutional development and changing North–South agenda. Read the two meetings together without treating the politics of Asia, Africa, Europe and the Americas as a single agenda.",
+      "zh": "1961年，希望在简单冷战阵营划分之外争取行动空间的政府在贝尔格莱德会晤。他们的目标包括反对殖民支配、支持政治独立，以及在不同历史和利益的国家之间开展合作。不结盟并不要求政策完全一致，也不表示每个政府都与大国没有关系。\n\n1955年万隆会议是重要的相关会议，但并非贝尔格莱德会议，也不等于自动产生一个意见一致的运动。于尔根·丁克尔的研究追踪了运动后来的制度发展与变化中的南北议题。应把两次会议联系起来，同时保留亚洲、非洲、欧洲与美洲政治诉求之间的差异。"
+    },
+    "dateNote": {
+      "en": "1961 marks the Belgrade conference, not the first anticolonial cooperation or an endpoint for the movement.",
+      "zh": "1961年标记贝尔格莱德会议，不是反殖民合作的起点，也不是该运动的终点。"
+    },
+    "relatedIds": [
+      "bandung-conference",
+      "cold-war-world-history",
+      "oau-foundation"
+    ],
+    "sources": [
+      {
+        "title": "The Non-Aligned Movement and the North-South Conflict",
+        "url": "https://www.wilsoncenter.org/blog-post/the-non-aligned-movement-and-the-north-south-conflict",
+        "publisher": "Jürgen Dinkel / Wilson Center",
+        "evidenceNote": "Directly inspected the scholarly essay on Bandung, Belgrade, decolonization and the movement’s changing institutions. Its North–South emphasis is an interpretation, not a guarantee that every participant avoided bloc relationships.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "1945–1952: The Early Cold War",
+        "url": "https://history.state.gov/milestones/1945-1952/foreword",
+        "publisher": "U.S. Department of State, Office of the Historian",
+        "evidenceNote": "Directly inspected the retired overview of reconstruction, early U.S.–Soviet rivalry, alliances and containment. Its framing centers U.S. foreign policy.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "expansion": {
+      "release": 8,
+      "edition": "v14",
+      "workstreams": [
+        "EU3",
+        "SE3",
+        "AF4"
+      ],
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "The Wilson Center essay is one scholarly framing; participant states and the movement changed over time.",
+        "zh": "威尔逊中心文章提供一种学术框架；参与国和运动本身均随时间变化。"
+      }
+    }
+  },
+  {
+    "id": "vietnam-war-1954-1975",
+    "title": {
+      "en": "Vietnam War · Indochina, intervention and contested peace",
+      "zh": "越南战争 · 印度支那、干预与未稳固的和平"
+    },
+    "start": 1954,
+    "end": 1975,
+    "region": "southeast-asia",
+    "theme": "states",
+    "kind": "event",
+    "importance": 4,
+    "location": {
+      "lat": 21.0285,
+      "lon": 105.8542,
+      "label": "Hanoi; representative Vietnamese political context, not the war’s full geography",
+      "labelI18n": {
+        "en": "Hanoi; representative Vietnamese political context, not the war’s full geography",
+        "zh": "河内；越南政治背景的代表地点，并非战争全部地理范围"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "The French defeat at Điện Biên Phủ and the 1954 Geneva settlement ended one phase of colonial war. The military demarcation in Vietnam was intended as provisional; it should not be converted into a permanent historic frontier. Vietnamese political groups pursued conflicting futures, while the United States, China and the Soviet Union became involved in different ways.\n\nU.S. bombing and ground deployments expanded in 1965. The Tết offensive in 1968 brought attacks across many cities and military sites. Vietnamese civilians lived through fighting, displacement, bombardment and political coercion; the wars in Laos and Cambodia had their own actors and chronologies. The Harvard report highlights scholarship on both North and South Vietnamese politics and communities, not just foreign decision-makers.\n\nThe Paris agreement in January 1973 established a ceasefire and arrangements for U.S. withdrawal, but fighting in Vietnam continued. Saigon fell on 30 April 1975; formal state reunification followed in 1976. These stages should not be collapsed into a single end date.",
+      "zh": "法国在奠边府失利与1954年日内瓦协议结束了殖民战争的一个阶段。越南的军事分界原拟为临时安排，不应把它画成永久历史疆界。越南不同政治力量追求相互冲突的未来，美国、中国与苏联也以不同方式介入。\n\n美国轰炸与地面部署在1965年扩大；1968年春节攻势波及许多城市和军事地点。越南平民经历战斗、流离失所、轰炸和政治强制；老挝与柬埔寨的战争也有各自行动者和编年。哈佛会议报道介绍有关南北越政治与社群的研究，提醒我们不能只看外国决策者。\n\n1973年1月巴黎协议规定停火及美国撤军安排，但越南境内战斗继续。西贡于1975年4月30日陷落，国家于1976年正式统一。这些阶段不能压缩成同一个结束日期。"
+    },
+    "dateNote": {
+      "en": "1954–1975 is a selected Vietnam war focus: the preceding colonial war and formal 1976 reunification are separately dated; Laos and Cambodia followed their own sequences.",
+      "zh": "1954—1975年是所选越南战争阶段；此前殖民战争与1976年正式统一另行定年，老挝与柬埔寨亦有各自序列。"
+    },
+    "relatedIds": [
+      "dien-bien-phu",
+      "tet-offensive-1968",
+      "paris-vietnam-agreement-1973",
+      "vietnam-formal-reunification",
+      "person-nguyen-thi-binh"
+    ],
+    "sources": [
+      {
+        "title": "A Chronology of the U.S. Navy in Vietnam and Southeast Asia, 1950–75",
+        "url": "https://www.history.navy.mil/browse-by-topic/wars-conflicts-and-operations/vietnam-war/chronology.html",
+        "publisher": "Naval History and Heritage Command",
+        "evidenceNote": "Directly inspected entries for 1954, 1964–65, 1968, 1973 and 1975. This is a U.S. Navy-centered chronology and does not represent all Vietnamese experiences.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Fifty Years On: New Perspectives on the Vietnam Wars – Day One",
+        "url": "https://rajawali.hks.harvard.edu/articles/fifty-years-on-new-perspectives-on-the-vietnam-wars-day-one/",
+        "publisher": "Harvard Kennedy School Rajawali Institute",
+        "evidenceNote": "Directly inspected a 2025 conference report summarizing scholarship on North and South Vietnamese political histories, displacement and international perspectives. It reports interpretations, not the full underlying papers.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Agreement on the Cessation of Hostilities in Vietnam, 20 July 1954",
+        "url": "https://history.state.gov/historicaldocuments/frus1952-54v16/d1035",
+        "publisher": "U.S. Department of State, Office of the Historian",
+        "evidenceNote": "Directly inspected Articles 1–2 and entry-into-force clause: provisional military demarcation for regrouping, time allowed for regrouping, and 22 July effective date. The line is not a permanent political border.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Democratic Republic of Viet-Nam: UN authority record",
+        "url": "https://digitallibrary.un.org/record/3979563?ln=en",
+        "publisher": "United Nations Dag Hammarskjöld Library",
+        "evidenceNote": "Directly inspected the visible authority record note: the Democratic Republic of Viet-Nam and Republic of South Viet-Nam united on 2 July 1976 to form the Socialist Republic of Viet Nam.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "expansion": {
+      "release": 8,
+      "edition": "v14",
+      "workstreams": [
+        "SE3",
+        "EU3"
+      ],
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "The chronology is U.S. Navy-centered; the Harvard conference report summarizes Vietnamese and regional scholarship but is not the full underlying research.",
+        "zh": "编年资料以美国海军为中心；哈佛会议报道概述越南与区域研究，但并非相关论文全文。"
+      }
+    }
+  },
+  {
+    "id": "tet-offensive-1968",
+    "title": {
+      "en": "1968 · The Tết offensive reaches cities and bases",
+      "zh": "1968年 · 春节攻势波及城市与军事地点"
+    },
+    "start": 1968,
+    "end": 1968,
+    "region": "southeast-asia",
+    "theme": "states",
+    "kind": "event",
+    "importance": 4,
+    "location": {
+      "lat": 10.7769,
+      "lon": 106.7009,
+      "label": "Saigon / Ho Chi Minh City; one urban reference, not the sole site of the offensive",
+      "labelI18n": {
+        "en": "Saigon / Ho Chi Minh City; one urban reference, not the sole site of the offensive",
+        "zh": "西贡／胡志明市；一个城市参照，并非攻势唯一地点"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "From late January 1968, the Tết offensive brought coordinated attacks to cities, towns and military targets in South Vietnam. Fighting occurred in many places, and a single city marker cannot show the extent of the offensive or the experiences of everyone affected.\n\nThe U.S. Navy chronology dates the start of the campaign, but its service perspective is partial. Read it with Vietnamese political and civilian histories, and distinguish the military offensive from the much longer war and later negotiations.",
+      "zh": "从1968年1月下旬起，春节攻势将协调行动带到南越的城市、城镇与军事目标。战斗发生在许多地点，一个城市标记不能展示攻势全部范围，也不能代表所有受影响者的经历。\n\n美国海军编年资料提供了行动起始日期，但其军种视角并不完整。应结合越南政治与平民历史阅读，并区分这一军事攻势、漫长战争与后来的谈判。"
+    },
+    "dateNote": {
+      "en": "1968 is the selected year of the offensive’s initial phase, not the whole Vietnam War.",
+      "zh": "1968年为所选攻势初始阶段的年份，并非整个越南战争。"
+    },
+    "relatedIds": [
+      "vietnam-war-1954-1975",
+      "paris-vietnam-agreement-1973",
+      "person-nguyen-thi-binh"
+    ],
+    "sources": [
+      {
+        "title": "A Chronology of the U.S. Navy in Vietnam and Southeast Asia, 1950–75",
+        "url": "https://www.history.navy.mil/browse-by-topic/wars-conflicts-and-operations/vietnam-war/chronology.html",
+        "publisher": "Naval History and Heritage Command",
+        "evidenceNote": "Directly inspected entries for 1954, 1964–65, 1968, 1973 and 1975. This is a U.S. Navy-centered chronology and does not represent all Vietnamese experiences.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Fifty Years On: New Perspectives on the Vietnam Wars – Day One",
+        "url": "https://rajawali.hks.harvard.edu/articles/fifty-years-on-new-perspectives-on-the-vietnam-wars-day-one/",
+        "publisher": "Harvard Kennedy School Rajawali Institute",
+        "evidenceNote": "Directly inspected a 2025 conference report summarizing scholarship on North and South Vietnamese political histories, displacement and international perspectives. It reports interpretations, not the full underlying papers.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "expansion": {
+      "release": 8,
+      "edition": "v14",
+      "workstreams": [
+        "SE3"
+      ],
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "The dated military reference and a conference report do not independently reconstruct every local battle or casualty.",
+        "zh": "军事编年与会议报道不能独立重建所有地方战斗及伤亡。"
+      }
+    }
+  },
+  {
+    "id": "paris-vietnam-agreement-1973",
+    "title": {
+      "en": "1973 · The Paris agreement and continuing war",
+      "zh": "1973年 · 巴黎协议与持续的战争"
+    },
+    "start": 1973,
+    "end": 1973,
+    "region": "europe",
+    "theme": "states",
+    "kind": "event",
+    "importance": 4,
+    "location": {
+      "lat": 48.8566,
+      "lon": 2.3522,
+      "label": "Paris; agreement and negotiation context, not a battlefield boundary",
+      "labelI18n": {
+        "en": "Paris; agreement and negotiation context, not a battlefield boundary",
+        "zh": "巴黎；协议与谈判背景，并非战场边界"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "The Paris agreement was signed on 27 January 1973. It included a ceasefire and arrangements for the withdrawal of remaining U.S. forces; Vietnamese parties and the United States had different interests in the settlement. Diplomat Nguyễn Thị Bình’s existing biography provides another entry point to the negotiations.\n\nThe agreement did not end all fighting in Vietnam. A chronology that moves from 1973 directly to peace would conceal the continued war and the later fall of Saigon in 1975. Paris marks the diplomatic setting, not the geography of compliance.",
+      "zh": "巴黎协议于1973年1月27日签署，包括停火和剩余美军撤离的安排；越南各方与美国对协议有不同利益诉求。现有的外交官阮氏平传记提供了理解谈判的另一入口。\n\n协议没有结束越南境内的全部战斗。若时间线从1973年直接跳到和平，就会掩盖持续战争与1975年西贡陷落。巴黎点位表示外交场所，而非协议遵守情况的地理范围。"
+    },
+    "dateNote": {
+      "en": "1973 marks the agreement; the war in Vietnam continued until later political and military changes.",
+      "zh": "1973年标记协议；越南战争仍持续到后来的政治与军事变化。"
+    },
+    "relatedIds": [
+      "vietnam-war-1954-1975",
+      "person-nguyen-thi-binh",
+      "vietnam-formal-reunification"
+    ],
+    "sources": [
+      {
+        "title": "A Chronology of the U.S. Navy in Vietnam and Southeast Asia, 1950–75",
+        "url": "https://www.history.navy.mil/browse-by-topic/wars-conflicts-and-operations/vietnam-war/chronology.html",
+        "publisher": "Naval History and Heritage Command",
+        "evidenceNote": "Directly inspected entries for 1954, 1964–65, 1968, 1973 and 1975. This is a U.S. Navy-centered chronology and does not represent all Vietnamese experiences.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Fifty Years On: New Perspectives on the Vietnam Wars – Day One",
+        "url": "https://rajawali.hks.harvard.edu/articles/fifty-years-on-new-perspectives-on-the-vietnam-wars-day-one/",
+        "publisher": "Harvard Kennedy School Rajawali Institute",
+        "evidenceNote": "Directly inspected a 2025 conference report summarizing scholarship on North and South Vietnamese political histories, displacement and international perspectives. It reports interpretations, not the full underlying papers.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "expansion": {
+      "release": 8,
+      "edition": "v14",
+      "workstreams": [
+        "EU3",
+        "SE3"
+      ],
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "The selected chronology is U.S. military-centered; the existing linked biography and Vietnamese scholarship provide complementary perspectives.",
+        "zh": "所选编年以美国军方为中心；现有传记及越南研究提供互补视角。"
+      }
+    }
+  },
+  {
+    "id": "cuban-missile-crisis-1962",
+    "title": {
+      "en": "1962 · Cuba and the nuclear missile crisis",
+      "zh": "1962年 · 古巴与核导弹危机"
+    },
+    "start": 1962,
+    "end": 1962,
+    "region": "latin-america",
+    "theme": "states",
+    "kind": "event",
+    "importance": 4,
+    "location": {
+      "lat": 23.1136,
+      "lon": -82.3666,
+      "label": "Havana; representative Cuban context, not the position of missile sites",
+      "labelI18n": {
+        "en": "Havana; representative Cuban context, not the position of missile sites",
+        "zh": "哈瓦那；古巴背景代表地点，并非导弹部署点"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "U.S. reconnaissance identified Soviet missile sites in Cuba in mid-October 1962. President Kennedy announced a naval quarantine on 22 October; Soviet leader Khrushchev announced removal on 28 October. These dates identify the acute crisis, not every measure in its longer aftermath.\n\nThe cited U.S. diplomatic account describes a confidential understanding over U.S. missiles in Turkey, which were removed later. Cuba was more than a location on which other governments acted: fuller study also needs Cuban sources and the choices and fears of people on the island. This entry does not infer the locations of missile installations from the Havana marker.",
+      "zh": "1962年10月中旬，美国侦察发现苏联在古巴的导弹部署。肯尼迪总统于10月22日宣布海上“隔离”，苏联领导人赫鲁晓夫于10月28日宣布撤除导弹。这些日期标识危机最紧张的阶段，并非后续所有措施的终点。\n\n所引美国外交资料还讨论了有关美国在土耳其导弹的秘密谅解，相关导弹后来撤除。古巴并不只是其他政府行动的地点：更完整的研究还需古巴来源与岛上居民的选择和恐惧。哈瓦那标记不能用来推导导弹设施位置。"
+    },
+    "dateNote": {
+      "en": "1962 is the crisis year; the naval quarantine and later missile arrangements did not all end on the same day.",
+      "zh": "1962年是危机发生年；海上隔离和后续导弹安排并非在同一天全部结束。"
+    },
+    "relatedIds": [
+      "cold-war-world-history",
+      "cuban-revolution-victory",
+      "nonaligned-belgrade-1961"
+    ],
+    "sources": [
+      {
+        "title": "The Cuban Missile Crisis, October 1962",
+        "url": "https://history.state.gov/milestones/1961-1968/cuban-missile-crisis",
+        "publisher": "U.S. Department of State, Office of the Historian",
+        "evidenceNote": "Directly inspected the retired account of October events, the quarantine and later Turkey-missile understanding; it concentrates on U.S.–Soviet diplomacy and is not a Cuban social history.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "expansion": {
+      "release": 8,
+      "edition": "v14",
+      "workstreams": [
+        "LA4",
+        "EU3"
+      ],
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "The inspected source is a retired U.S. diplomatic account; Cuban government, civilian and Soviet archival perspectives remain future work.",
+        "zh": "所检资料是已归档的美国外交叙述；古巴政府、平民与苏联档案视角仍需补充。"
+      }
+    }
+  },
+  {
+    "id": "columbian-exchange-1492-1800",
+    "title": {
+      "en": "The Columbian Exchange · Crops, disease and unequal encounters",
+      "zh": "哥伦布大交换 · 作物、疾病与不平等的相遇"
+    },
+    "start": 1492,
+    "end": 1800,
+    "region": "latin-america",
+    "theme": "exchange",
+    "kind": "culture",
+    "importance": 4,
+    "location": {
+      "lat": 18.5,
+      "lon": -69.9,
+      "label": "Hispaniola / Caribbean; one representative encounter region, not the route of every exchange",
+      "labelI18n": {
+        "en": "Hispaniola / Caribbean; one representative encounter region, not the route of every exchange",
+        "zh": "伊斯帕尼奥拉岛／加勒比地区；一个代表性相遇区域，并非所有交流的路线"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "After 1492, expanding transatlantic connections moved plants, animals, pathogens and people in several directions. Maize and potatoes from the Americas became important in other regions; wheat and domesticated animals were among the organisms carried toward the Americas. These changes were not a single exchange at one moment, and their local effects varied.\n\nEuropean invasion, forced labor and epidemic disease caused devastating harm to Indigenous societies. The Smithsonian’s Taíno exhibition emphasizes survival and living descendants as well as violence; no single number can summarize every community’s experience. Enslaved Africans and their descendants also shaped the Atlantic world under coercion. Food, land use, language and community histories make this a story of adaptation and resistance as well as transfer.",
+      "zh": "1492年后，不断扩大的跨大西洋联系使植物、动物、病原体与人群沿多个方向移动。来自美洲的玉米和马铃薯在其他地区变得重要；小麦与家养动物则是传向美洲的生物之一。这些变化不是某一时刻的一次交换，地方影响也各不相同。\n\n欧洲入侵、强迫劳动与流行疾病给原住民社会造成毁灭性伤害。史密森学会的泰诺展览同时强调幸存与仍然存在的后代；任何单一数字都无法概括每个社群的经历。被奴役的非洲人及其后代也在强制条件下塑造了大西洋世界。食物、土地、语言与社群历史，使这同时是一段适应与抵抗的历史。"
+    },
+    "dateNote": {
+      "en": "1492–1800 is the selected focus of the cited teaching synthesis, not the end of exchange or Indigenous peoples; pre-1492 transatlantic contacts are not denied.",
+      "zh": "1492—1800年是所引教学综述选取的阶段，并非交流或原住民的终点；这也不否认1492年前已有横渡大西洋的接触。"
+    },
+    "relatedIds": [
+      "taino-caribbean-societies",
+      "transatlantic-slave-trade-1514-1866",
+      "caribbean-sugar-labor",
+      "tenochtitlan-siege"
+    ],
+    "sources": [
+      {
+        "title": "Columbian Exchange (1492–1800)",
+        "url": "https://sites.usnh.edu/hoslac/columbian-exchange-1492-1800/",
+        "publisher": "History of Science in Latin America and the Caribbean / University System of New Hampshire",
+        "evidenceNote": "Directly inspected the educational synthesis on movement of crops, animals and pathogens in both directions. Its uncertain mortality and disease-origin assertions are not adopted.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Taíno Perseverance: Exhibition at the National Museum of the American Indian",
+        "url": "https://www.si.edu/newsdesk/releases/ta-no-perseverance-subject-upcoming-new-york-city-exhibition-national-museum-american-india",
+        "publisher": "Smithsonian National Museum of the American Indian and Latino Center",
+        "evidenceNote": "Directly inspected the exhibition announcement on Indigenous Caribbean histories, colonial violence, survival and living descendants; it is not evidence for a single population total.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "expansion": {
+      "release": 8,
+      "edition": "v14",
+      "workstreams": [
+        "LA1",
+        "LA3",
+        "NA2"
+      ],
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "A regional teaching synthesis and museum exhibition support selected examples, not precise total mortality or a universal disease-origin claim.",
+        "zh": "区域教学综述与博物馆展览支持所选例子，不支持精确总死亡人数或对疾病起源的一概断言。"
+      }
+    },
+    "regionalAssociation": "omit-broad-point"
+  },
+  {
+    "id": "transatlantic-slave-trade-1514-1866",
+    "title": {
+      "en": "The transatlantic slave trade · Records, coercion and resistance",
+      "zh": "跨大西洋奴隶贸易 · 档案、强制与抵抗"
+    },
+    "start": 1514,
+    "end": 1866,
+    "region": "africa",
+    "theme": "exchange",
+    "kind": "event",
+    "importance": 4,
+    "location": {
+      "lat": 6.36,
+      "lon": 2.08,
+      "label": "West African coast; an illustrative regional point, not a source for every voyage",
+      "labelI18n": {
+        "en": "West African coast; an illustrative regional point, not a source for every voyage",
+        "zh": "西非海岸；说明区域的地点，并非每次航行的起点"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Over centuries, merchants and states organized voyages that forcibly carried enslaved Africans across the Atlantic. The trade connected many African embarkation regions with different destinations in the Americas; it cannot be reduced to one port, one route or one institution. Enslaved people resisted in many ways, and surviving communities created family and cultural lives despite the violence.\n\nSlaveVoyages assembles evidence from many surviving records and estimates missing information where sources are incomplete. Its documented 1514–1866 range describes records discussed by the database, not the beginning or end of enslavement everywhere. The linked Atlantic journey is a schematic network, not a reconstructed voyage for any individual. Read it with Caribbean plantation work, Palmares, Mary Prince and Haiti to see different experiences and forms of resistance.",
+      "zh": "数百年间，商人与国家组织航行，将被奴役的非洲人强行运过大西洋。贸易把非洲多个登船地区同美洲不同目的地相连，不能简化成一个港口、一条路线或一种制度。被奴役者以多种方式抵抗，幸存社群在暴力条件下仍建立家庭与文化生活。\n\nSlaveVoyages汇集许多幸存档案，并在材料缺失处估计未知信息。其所述1514—1866年记录范围只是数据库讨论的范围，不是各地奴役制度的起止。配套大西洋旅程是网络示意，并非某个人的重建航线。结合加勒比种植园劳动、帕尔马雷斯、玛丽·普林斯和海地，可以看到不同经历与抵抗方式。"
+    },
+    "dateNote": {
+      "en": "1514–1866 is the documented voyage span discussed in the cited database essay. The atlas’s existing journey uses the broader 1501–1866 editorial window. Neither range defines the start or end of all enslavement or its consequences.",
+      "zh": "1514—1866年是所引数据库文章讨论的有文献航行范围；图集中现有旅程采用较宽的1501—1866年编辑窗口。两个范围均不能定义全部奴役及其后果的起止。"
+    },
+    "relatedIds": [
+      "columbian-exchange-1492-1800",
+      "caribbean-sugar-labor",
+      "palmares-maroon-polity",
+      "person-mary-prince",
+      "haitian-revolution"
+    ],
+    "sources": [
+      {
+        "title": "The Trans-Atlantic Slave Trade Database",
+        "url": "https://www.slavevoyages.org/blog/the-transatlantic-slave-trade-database/166",
+        "publisher": "David Eltis / SlaveVoyages, Emory University",
+        "evidenceNote": "Directly inspected the methods essay: documented voyages 1514–1866, uneven archival survival, imputed variables and model estimates. Database coverage is not the entire history of slavery.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "The slave trade and slavery: a founding tragedy of our modern world",
+        "url": "https://www.unesco.org/en/articles/slave-trade-and-slavery-founding-tragedy-our-modern-world",
+        "publisher": "Ali Moussa / UNESCO",
+        "evidenceNote": "Directly inspected the essay on enslavement, resistance and enduring consequences. Broad Africa-wide estimates are not combined with the database’s transatlantic estimates.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "expansion": {
+      "release": 8,
+      "edition": "v14",
+      "workstreams": [
+        "AF2",
+        "LA3",
+        "NA2"
+      ],
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "The database gives model estimates and uneven surviving records; no single digit or point represents every person or route.",
+        "zh": "数据库包含模型估算与保存不均的档案；单个数字或地点不能代表每个人及每条路线。"
+      }
+    },
+    "regionalAssociation": "omit-broad-point"
+  },
+  {
+    "id": "person-mary-prince",
+    "title": {
+      "en": "Mary Prince · A narrated life against enslavement",
+      "zh": "玛丽·普林斯 · 以口述人生反抗奴役"
+    },
+    "start": 1788,
+    "end": 1833,
+    "region": "north-america",
+    "theme": "culture",
+    "kind": "person",
+    "importance": 4,
+    "location": {
+      "lat": 51.5074,
+      "lon": -0.1278,
+      "label": "London; representative publication and antislavery context, not an exact address",
+      "labelI18n": {
+        "en": "London; representative publication and antislavery context, not an exact address",
+        "zh": "伦敦；出版与反奴隶制背景代表地点，并非确切住址"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Mary Prince was born in Bermuda and experienced enslavement in the Caribbean. The London Museum gives her birth year as 1788; this atlas treats it as approximate. In the opening of her published narrative she named Brackish Pond as her birthplace; that passage does not itself give a birth year. Her account describes family separation, labor and violence through her own narrated experience.\n\nIn 1828 she came to London from Antigua with the Wood family and later left their household. In 1831 her account appeared as The History of Mary Prince. She narrated it to Susanna Strickland and Thomas Pringle edited the publication. The National Museum of Bermuda asks readers to consider how transcription and editing mediate a voice, without treating Prince as a passive source.\n\nThe book became part of public arguments against slavery. Prince could not safely return to her husband in Antigua while still regarded there as enslaved. Her later life remains uncertain; 1833 is an endpoint for the selected documented focus, not a claimed year of death.",
+      "zh": "玛丽·普林斯出生于百慕大，在加勒比地区经历奴役。伦敦博物馆给出的出生年份为1788年；本图将它视作约数。她出版叙述的开篇将布拉基什池塘列为出生地，但该段本身没有给出出生年份。她以自身口述经历描述家庭分离、劳动与暴力。\n\n1828年她随伍德一家从安提瓜来到伦敦，后来离开其家庭。1831年《玛丽·普林斯的历史》出版：她向苏珊娜·斯特里克兰口述，由托马斯·普林格编辑。百慕大国家博物馆提醒读者思考转录与编辑如何影响声音，同时不把普林斯视作被动的材料来源。\n\n此书成为公开反奴隶制争论的一部分。她在安提瓜仍被视为受奴役时，无法安全返回丈夫身边。她此后的生活不明；1833年只是所选有文献焦点的终点，不是声称的死亡年份。"
+    },
+    "dateNote": {
+      "en": "The museum gives 1788 as the birth year; the atlas treats it as approximate. The 1833 endpoint bounds the selected documentary trace and is not a confirmed death year. Milestone locations are representative.",
+      "zh": "博物馆给出的出生年份为1788年，本图将其视作约数；1833年是所选文献记录的界限，并非证实的死亡年份。节点地点均为代表位置。"
+    },
+    "relatedIds": [
+      "transatlantic-slave-trade-1514-1866",
+      "caribbean-sugar-labor",
+      "liverpool-slavery-port-infrastructure"
+    ],
+    "sources": [
+      {
+        "title": "The life story of Mary Prince",
+        "url": "https://www.londonmuseum.org.uk/collections/london-stories/the-life-story-of-mary-prince/",
+        "publisher": "London Museum",
+        "evidenceNote": "Directly inspected the biography: it gives 1788 as her birth year, records arrival in London in 1828 and the narrated book in 1831, and notes uncertainty about her later life. The atlas treats the birth year as approximate.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "The History of Mary Prince, a West Indian Slave (1831)",
+        "url": "https://www.gutenberg.org/files/17851/17851-h/17851-h.htm",
+        "publisher": "Mary Prince, Susanna Strickland and Thomas Pringle / Project Gutenberg",
+        "evidenceNote": "Directly inspected the title page, editor’s preface and Prince’s opening. The printed narrative was narrated, transcribed and edited; her opening names Brackish Pond, Bermuda, without providing a birth year.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-selected-sections"
+      },
+      {
+        "title": "Mary Prince and her Bermudian Identity",
+        "url": "https://nmb.bm/history/mary-prince-and-her-bermudian-identity/",
+        "publisher": "Jaylen Simons / National Museum of Bermuda",
+        "evidenceNote": "Directly inspected the essay on Prince’s naming of her birthplace and the interpretive consequences of non-Bermudian transcription and editing.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "expansion": {
+      "release": 8,
+      "edition": "v14",
+      "workstreams": [
+        "NA2",
+        "LA3",
+        "EU3"
+      ],
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "Three inspected sources distinguish the museum’s birth estimate from the text, and the narrated testimony from its transcription and editing. Later life and an exact death date remain unknown.",
+        "zh": "三项所检来源区分博物馆的出生年估计与原文，也区分口述证言与转录、编辑；此后生活与确切死亡日期仍不明。"
+      }
+    },
+    "name": {
+      "en": "Mary Prince",
+      "zh": "玛丽·普林斯"
+    },
+    "milestones": [
+      {
+        "year": 1788,
+        "title": {
+          "en": "Birth in Bermuda, approximately",
+          "zh": "约生于百慕大"
+        },
+        "description": {
+          "en": "The London Museum gives 1788; this atlas treats it as approximate. Prince named Brackish Pond but did not give a birth year in the inspected opening.",
+          "zh": "伦敦博物馆给出1788年，本图将其视为约数；普林斯在所检开篇写出布拉基什池塘，但未给出生年。"
+        },
+        "location": {
+          "lat": 32.31,
+          "lon": -64.75,
+          "label": "Bermuda; birthplace vicinity, not a surveyed address"
+        },
+        "approximate": true
+      },
+      {
+        "year": 1828,
+        "title": {
+          "en": "Antigua to London",
+          "zh": "从安提瓜来到伦敦"
+        },
+        "description": {
+          "en": "Prince arrived in London with the Wood family and subsequently left their household.",
+          "zh": "普林斯随伍德一家来到伦敦，随后离开其家庭。"
+        },
+        "location": {
+          "lat": 51.5074,
+          "lon": -0.1278,
+          "label": "London; representative arrival context"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1831,
+        "title": {
+          "en": "The narrated book is published",
+          "zh": "口述著作出版"
+        },
+        "description": {
+          "en": "Her account appeared after dictation, transcription and editorial preparation.",
+          "zh": "她的叙述经口述、转录与编辑整理后出版。"
+        },
+        "location": {
+          "lat": 51.5074,
+          "lon": -0.1278,
+          "label": "London; publication context, not an exact address"
+        },
+        "approximate": false
+      }
+    ]
+  },
+  {
+    "id": "bantu-language-early-dispersal",
+    "title": {
+      "en": "Bantu-language histories · Models, people and early dispersal",
+      "zh": "班图语历史 · 模型、人群与早期扩散"
+    },
+    "start": -3000,
+    "end": -500,
+    "region": "africa",
+    "theme": "culture",
+    "kind": "culture",
+    "importance": 4,
+    "location": {
+      "lat": 6.8,
+      "lon": 10.1,
+      "label": "Nigeria–Cameroon region; broad research context, not a proven point of origin",
+      "labelI18n": {
+        "en": "Nigeria–Cameroon region; broad research context, not a proven point of origin",
+        "zh": "尼日利亚—喀麦隆地区；宽泛研究背景，并非已证实的单一发源点"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Bantu is a family of related languages spoken across much of central, eastern and southern Africa. Researchers compare vocabulary, language relationships, archaeology and other evidence to ask how these languages spread. A language family is not a single ethnicity, state or genetic population, and movement occurred among communities already living in different places.\n\nKoile and colleagues compare several hypotheses. Their model favors an interior rainforest-associated dispersal, but model dates and branches depend on the data and assumptions. The authors note limited early archaeological evidence from the interior and unresolved questions about later movements. Farming, hunting, fishing and exchange are therefore not reducible to one proven route.\n\nThe broad map point marks the Nigeria–Cameroon research region; it is not a border or a confirmed origin village. The selected early window does not mean that Bantu languages or the people who speak them ended in 500 BCE.",
+      "zh": "班图语是一组相关语言，如今分布于非洲中部、东部与南部广大地区。研究者比较词汇、语言关系、考古和其他证据，讨论这些语言如何传播。语言家族并不等于单一族群、国家或遗传人群；人群移动也发生在已有不同社群居住的地方。\n\n科伊尔及合作者比较多种假说。他们的模型较支持与内陆雨林相关的扩散，但模型年代和分支取决于资料与假设。作者指出内陆早期考古证据有限，后续移动仍有未解问题。因此，农业、狩猎、渔业与交换不能简化为一条已证实路线。\n\n地图点表示尼日利亚—喀麦隆研究区域，并非边界或已确认的发源村落。所选早期窗口不表示班图语言或使用者在公元前500年结束。"
+    },
+    "dateNote": {
+      "en": "3000–500 BCE is a deliberately broad early research window, not the date of one migration or the end of a language family. Source estimates use years before present and model assumptions.",
+      "zh": "前3000—前500年是有意放宽的早期研究窗口，不是一次迁徙日期或语言家族的终点。来源估算使用距今年份并依赖模型假设。"
+    },
+    "relatedIds": [
+      "nok-terracotta-workshops",
+      "madagascar-comoros-crops-connections",
+      "great-zimbabwe"
+    ],
+    "sources": [
+      {
+        "title": "Phylogeographic analysis of the Bantu language expansion supports a rainforest route",
+        "url": "https://www.pnas.org/doi/10.1073/pnas.2112853119",
+        "publisher": "Koile et al. / Proceedings of the National Academy of Sciences",
+        "evidenceNote": "Directly inspected abstract and selected results/discussion comparing hypotheses and model dates, including limits in early interior archaeological evidence. A model is not a documented route.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-selected-sections"
+      }
+    ],
+    "expansion": {
+      "release": 8,
+      "edition": "v14",
+      "workstreams": [
+        "AF1",
+        "AF3"
+      ],
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "The inspected article models language relationships and geographic hypotheses; it explicitly notes sparse early archaeology and does not verify an exact route, identity or frontier.",
+        "zh": "所检论文模拟语言关系与地理假说，明确指出早期考古材料稀少；它没有证实精确路线、身份或疆界。"
+      }
+    },
+    "regionalAssociation": "omit-broad-point"
+  },
+  {
+    "id": "austronesian-early-expansions",
+    "title": {
+      "en": "Austronesian histories · Languages, seafaring and evidence",
+      "zh": "南岛语历史 · 语言、航海与证据"
+    },
+    "start": -3000,
+    "end": -1500,
+    "region": "east-asia",
+    "theme": "culture",
+    "kind": "culture",
+    "importance": 4,
+    "location": {
+      "lat": 23.7,
+      "lon": 120.95,
+      "label": "Taiwan; broad reference for one early-dispersal hypothesis, not a uniquely proven origin",
+      "labelI18n": {
+        "en": "Taiwan; broad reference for one early-dispersal hypothesis, not a uniquely proven origin",
+        "zh": "台湾；一种早期扩散假说的宽泛参照，并非唯一已证实起源"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Austronesian languages are spoken across a vast area from island Southeast Asia and the Pacific to Madagascar. Their relationships prompt questions about how people, languages and skills became connected across seas. Archaeological objects, linguistic similarities and genetic evidence can illuminate different aspects of that history, but one kind of evidence is not a direct substitute for another.\n\nAn older ANU Press synthesis proposes early connections involving Taiwan, the Philippines, Sulawesi and coastal New Guinea around 3000–2000 BCE, followed by a later Lapita phase. The inspected abstract of a later research review cautions that archaeological evidence is a proxy in testing language-dispersal hypotheses. Communities already inhabited many of the places involved; this was not one identical voyage or a single political realm.\n\nThe point is a broad reference to Taiwan, not a ship track or a confirmed origin for every community. Follow the separate Lapita and Madagascar entries to compare later evidence.",
+      "zh": "南岛语分布广阔，从海岛东南亚和太平洋延伸到马达加斯加。语言之间的关系引出问题：人群、语言与技能如何跨海相连？考古物品、语言相似性和遗传材料可以照亮历史的不同方面，但一种证据不能直接代替另一种。\n\n一项较早的澳大利亚国立大学出版社综述提出，约前3000—前2000年台湾、菲律宾、苏拉威西与新几内亚海岸之间有早期联系，后来出现拉皮塔阶段。后续研究综述的所检摘要提醒，考古证据只是检验语言扩散假说的间接指标。许多相关地点原已有人居住；这不是一次完全相同的航行，也不是统一的政治领域。\n\n地图点是台湾的宽泛参照，不是航线，也不是每个社群已确认的起源。结合拉皮塔与马达加斯加条目比较后来的证据。"
+    },
+    "dateNote": {
+      "en": "3000–1500 BCE is a selected early phase from the cited older synthesis; later voyages, languages and communities continued well beyond it.",
+      "zh": "前3000—前1500年是所引较早综述中的所选早期阶段；后来的航行、语言与社群远未因此结束。"
+    },
+    "relatedIds": [
+      "lapita-voyaging",
+      "lapita-teouma-community",
+      "madagascar-comoros-crops-connections",
+      "wairau-bar-settlement"
+    ],
+    "sources": [
+      {
+        "title": "Initial Austronesian Expansion: Some Parameters",
+        "url": "https://press-files.anu.edu.au/downloads/press/p63701/mobile/ch02s05.html",
+        "publisher": "Peter Bellwood / ANU Press",
+        "evidenceNote": "Directly inspected an older linguistic and archaeological synthesis proposing early Taiwan–Philippine–island connections and a later Lapita phase. The sequence remains a hypothesis.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Archaeology and the Austronesian Expansion: Where Are We Now?",
+        "url": "https://researchportalplus.anu.edu.au/en/publications/archaeology-and-the-austronesian-expansion-where-are-we-now/",
+        "publisher": "Matthew Spriggs / Australian National University",
+        "evidenceNote": "Inspected the research record and abstract only. It treats material culture as a proxy when testing hypotheses about language dispersal.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-abstract"
+      }
+    ],
+    "expansion": {
+      "release": 8,
+      "edition": "v14",
+      "workstreams": [
+        "SE2",
+        "OC1",
+        "EA3"
+      ],
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "An older full-section synthesis is paired with an inspected later abstract; neither proves one itinerary or maps territorial ownership.",
+        "zh": "较早综述的完整所检章节与后续论文的所检摘要并读；二者均不能证明单一行程或绘制领土归属。"
+      }
+    },
+    "regionalAssociation": "omit-broad-point"
+  },
+  {
+    "id": "madagascar-comoros-crops-connections",
+    "title": {
+      "en": "Madagascar and Comoros · Crops across the Indian Ocean",
+      "zh": "马达加斯加与科摩罗 · 横跨印度洋的作物证据"
+    },
+    "start": 650,
+    "end": 1200,
+    "region": "africa",
+    "theme": "exchange",
+    "kind": "culture",
+    "importance": 4,
+    "location": {
+      "lat": -19.0,
+      "lon": 46.8,
+      "label": "Madagascar island; broad comparative context, not a specific excavated site",
+      "labelI18n": {
+        "en": "Madagascar island; broad comparative context, not a specific excavated site",
+        "zh": "马达加斯加岛；宽泛比较背景，并非某个具体发掘遗址"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Communities in Madagascar and the Comoros developed within Indian Ocean connections linking Africa and Asia. Malagasy is an Austronesian language, while the history of communities and ancestry is more complex than a single crossing or a single identity.\n\nCrowther and colleagues examined ancient crops from a group of sites along eastern Africa and on nearby islands. In the studied Comoros and Madagascar assemblages, Asian rice is present in eighth- to tenth-century contexts, while the sampled coastal mainland sites had predominantly African crops. This supports questions about connections, not a precise settlement date or a proven itinerary. The authors discuss possible links through the Comoros and eastern Africa as hypotheses.\n\nThe point represents Madagascar as a broad setting. Crop remains, language, genetics and oral histories should be considered together without assuming that any one source tells the whole history of the island.",
+      "zh": "马达加斯加与科摩罗的社群在连接非洲和亚洲的印度洋关系中发展。马达加斯加语属于南岛语系，但社群与祖源历史比一次横渡或一种身份复杂得多。\n\n克劳瑟及合作者研究东非沿岸和附近岛屿一组遗址的古代作物。在所研究的科摩罗与马达加斯加组合中，八至十世纪材料包括亚洲稻米，而采样的大陆沿岸遗址以非洲作物为主。这支持对联系的研究，不能给出精确的定居日期或已证实行程。作者把经科摩罗及东非的可能联系作为假说讨论。\n\n地图点将马达加斯加作为宽泛背景。应并读作物遗存、语言、遗传和口述历史，不假定任何单一来源能解释全岛历史。"
+    },
+    "dateNote": {
+      "en": "650–1200 CE is the selected study’s broad archaeological comparison period, not the first or last habitation of Madagascar or the Comoros.",
+      "zh": "公元650—1200年是所选研究的宽泛考古比较期，不是马达加斯加或科摩罗最早或最后有人居住的时间。"
+    },
+    "relatedIds": [
+      "austronesian-early-expansions",
+      "bantu-language-early-dispersal",
+      "merina-highland-kingdom"
+    ],
+    "sources": [
+      {
+        "title": "Ancient crops provide first archaeological signature of the westward Austronesian expansion",
+        "url": "https://www.pnas.org/doi/10.1073/pnas.1522714113",
+        "publisher": "Crowther et al. / Proceedings of the National Academy of Sciences",
+        "evidenceNote": "Directly inspected abstract, introduction and selected early results on crop remains from East Africa, Comoros and Madagascar in approximately 650–1200 CE. Crops, language and genetic evidence answer distinct questions; a precise route is not established.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-selected-sections"
+      },
+      {
+        "title": "Archaeology and the Austronesian Expansion: Where Are We Now?",
+        "url": "https://researchportalplus.anu.edu.au/en/publications/archaeology-and-the-austronesian-expansion-where-are-we-now/",
+        "publisher": "Matthew Spriggs / Australian National University",
+        "evidenceNote": "Inspected the research record and abstract only. It treats material culture as a proxy when testing hypotheses about language dispersal.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-abstract"
+      }
+    ],
+    "expansion": {
+      "release": 8,
+      "edition": "v14",
+      "workstreams": [
+        "AF3",
+        "OC1"
+      ],
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "The study samples selected sites and crops. It does not establish a single voyage, first occupation date, uniform ancestry or cultural boundary.",
+        "zh": "该研究只抽取部分遗址与作物，不能证明单次航行、最早占据日期、统一祖源或文化疆界。"
+      }
+    },
+    "regionalAssociation": "omit-broad-point"
+  }
+]

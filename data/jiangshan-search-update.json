@@ -1,0 +1,1083 @@
+{
+  "schemaVersion": 1,
+  "source": {
+    "repository": "https://github.com/DeanChensj/jiangshan-map",
+    "commit": "10fdcaeeb3361525e2f34bd7ca767714341565f0",
+    "file": "js/lore_data.js",
+    "license": "GPL-3.0",
+    "licenseFile": "jiangshan-update.GPL-3.0.txt",
+    "checkedAt": "2026-10-25",
+    "attribution": "DeanChensj and Jiangshan Map contributors",
+    "scope": "232 search aliases for 76 existing gazetteer rows; discovery strings only, not independently reviewed historical identities."
+  },
+  "rows": [
+    {
+      "id": "china-gazetteer-004",
+      "name": "蓝田关",
+      "coord": [
+        109.48,
+        34.03
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/3",
+      "aliases": [
+        "lantianguan",
+        "languan",
+        "lantian",
+        "lantianpass"
+      ]
+    },
+    {
+      "id": "china-gazetteer-005",
+      "name": "马嵬坡",
+      "coord": [
+        108.35,
+        34.28
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/4",
+      "aliases": [
+        "maweipo",
+        "mawei",
+        "maweiyi",
+        "maweislope"
+      ]
+    },
+    {
+      "id": "china-gazetteer-006",
+      "name": "五丈原",
+      "coord": [
+        107.63,
+        34.23
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/5",
+      "aliases": [
+        "wuzhangyuan",
+        "wuzhangplains",
+        "qishan"
+      ]
+    },
+    {
+      "id": "china-gazetteer-008",
+      "name": "街亭",
+      "coord": [
+        105.9,
+        35.02
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/7",
+      "aliases": [
+        "jieting",
+        "longxi"
+      ]
+    },
+    {
+      "id": "china-gazetteer-010",
+      "name": "白帝城",
+      "coord": [
+        109.57,
+        31.04
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/9",
+      "aliases": [
+        "baidicheng",
+        "whiteemperorcity",
+        "kuizhou",
+        "qutangxia",
+        "fengjie"
+      ]
+    },
+    {
+      "id": "china-gazetteer-011",
+      "name": "赤壁",
+      "coord": [
+        113.9,
+        29.88
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/10",
+      "aliases": [
+        "chibi",
+        "redcliffs",
+        "wulin"
+      ]
+    },
+    {
+      "id": "china-gazetteer-016",
+      "name": "采石矶",
+      "coord": [
+        118.46,
+        31.66
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/15",
+      "aliases": [
+        "caishiji",
+        "caishi",
+        "niuzhu"
+      ]
+    },
+    {
+      "id": "china-gazetteer-017",
+      "name": "乌衣巷",
+      "coord": [
+        118.79,
+        32.02
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/16",
+      "aliases": [
+        "wuyixiang",
+        "blackrobealley",
+        "vermilionbirdbridge",
+        "zhuqueqiao",
+        "qinhuai",
+        "qinhuaihe",
+        "fuzimiao",
+        "shitoucheng",
+        "stonecity"
+      ]
+    },
+    {
+      "id": "china-gazetteer-018",
+      "name": "寒山寺",
+      "coord": [
+        120.57,
+        31.31
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/17",
+      "aliases": [
+        "hanshansi",
+        "hanshantemple",
+        "maplebridge",
+        "fengqiao",
+        "gusu"
+      ]
+    },
+    {
+      "id": "china-gazetteer-019",
+      "name": "兰亭",
+      "coord": [
+        120.5,
+        29.93
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/18",
+      "aliases": [
+        "lanting",
+        "orchidpavilion",
+        "kuaiji",
+        "shaoxing"
+      ]
+    },
+    {
+      "id": "china-gazetteer-024",
+      "name": "醉翁亭",
+      "coord": [
+        118.29,
+        32.28
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/23",
+      "aliases": [
+        "zuiwengting",
+        "olddrunkardspavilion",
+        "langyashan",
+        "chuzhou"
+      ]
+    },
+    {
+      "id": "china-gazetteer-025",
+      "name": "滕王阁",
+      "coord": [
+        115.88,
+        28.68
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/24",
+      "aliases": [
+        "tengwangge",
+        "tengwangpavilion",
+        "hongdu",
+        "yuzhang",
+        "hongzhou"
+      ]
+    },
+    {
+      "id": "china-gazetteer-026",
+      "name": "琵琶亭",
+      "coord": [
+        115.98,
+        29.71
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/25",
+      "aliases": [
+        "pipating",
+        "pipapavilion",
+        "xunyangtower",
+        "xunyanglou",
+        "mountlu",
+        "lushan",
+        "jiangzhou",
+        "xunyang"
+      ]
+    },
+    {
+      "id": "china-gazetteer-027",
+      "name": "黄鹤楼",
+      "coord": [
+        114.3,
+        30.54
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/26",
+      "aliases": [
+        "huanghelou",
+        "yellowcranetower",
+        "xiakou",
+        "yingwuzhou"
+      ]
+    },
+    {
+      "id": "china-gazetteer-028",
+      "name": "岳阳楼",
+      "coord": [
+        113.09,
+        29.38
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/27",
+      "aliases": [
+        "yueyanglou",
+        "yueyangtower",
+        "dongtinghu",
+        "baling",
+        "yuezhou"
+      ]
+    },
+    {
+      "id": "china-gazetteer-029",
+      "name": "桃花源",
+      "coord": [
+        111.48,
+        28.9
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/28",
+      "aliases": [
+        "taohuayuan",
+        "peachblossomspring",
+        "wuling",
+        "wulingyuan"
+      ]
+    },
+    {
+      "id": "china-gazetteer-030",
+      "name": "鹳雀楼",
+      "coord": [
+        110.28,
+        34.83
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/29",
+      "aliases": [
+        "guanquelou",
+        "storktower",
+        "puzhou",
+        "zhongtiaoshan"
+      ]
+    },
+    {
+      "id": "china-gazetteer-032",
+      "name": "牧野",
+      "coord": [
+        113.88,
+        35.3
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/31",
+      "aliases": [
+        "muye",
+        "zhaoge",
+        "qixian"
+      ]
+    },
+    {
+      "id": "china-gazetteer-033",
+      "name": "长平",
+      "coord": [
+        112.92,
+        35.8
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/32",
+      "aliases": [
+        "changping",
+        "gaoping",
+        "shangdang"
+      ]
+    },
+    {
+      "id": "china-gazetteer-034",
+      "name": "巨鹿",
+      "coord": [
+        115.03,
+        37.22
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/33",
+      "aliases": [
+        "julu",
+        "pingxiang"
+      ]
+    },
+    {
+      "id": "china-gazetteer-035",
+      "name": "大泽乡",
+      "coord": [
+        117.06,
+        33.53
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/34",
+      "aliases": [
+        "dazexiang",
+        "qixian"
+      ]
+    },
+    {
+      "id": "china-gazetteer-036",
+      "name": "垓下",
+      "coord": [
+        117.48,
+        33.32
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/35",
+      "aliases": [
+        "gaixia",
+        "lingbi"
+      ]
+    },
+    {
+      "id": "china-gazetteer-037",
+      "name": "白登",
+      "coord": [
+        113.38,
+        40.12
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/36",
+      "aliases": [
+        "baideng",
+        "baidengshan"
+      ]
+    },
+    {
+      "id": "china-gazetteer-039",
+      "name": "官渡",
+      "coord": [
+        114.02,
+        34.72
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/38",
+      "aliases": [
+        "guandu",
+        "wuchao",
+        "zhongmu"
+      ]
+    },
+    {
+      "id": "china-gazetteer-040",
+      "name": "逍遥津",
+      "coord": [
+        117.29,
+        31.87
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/39",
+      "aliases": [
+        "xiaoyaojin",
+        "hefei"
+      ]
+    },
+    {
+      "id": "china-gazetteer-042",
+      "name": "陈桥驿",
+      "coord": [
+        114.43,
+        34.93
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/41",
+      "aliases": [
+        "chenqiaoyi",
+        "chenqiao",
+        "fengqiu"
+      ]
+    },
+    {
+      "id": "china-gazetteer-045",
+      "name": "朱仙镇",
+      "coord": [
+        114.25,
+        34.62
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/44",
+      "aliases": [
+        "zhuxianzhen",
+        "zhuxian"
+      ]
+    },
+    {
+      "id": "china-gazetteer-046",
+      "name": "钓鱼城",
+      "coord": [
+        106.28,
+        30
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/45",
+      "aliases": [
+        "diaoyucheng",
+        "hezhou",
+        "hechuan"
+      ]
+    },
+    {
+      "id": "china-gazetteer-047",
+      "name": "崖山",
+      "coord": [
+        113.06,
+        22.19
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/46",
+      "aliases": [
+        "yashan",
+        "yamen",
+        "xinhui"
+      ]
+    },
+    {
+      "id": "china-gazetteer-048",
+      "name": "土木堡",
+      "coord": [
+        115.62,
+        40.38
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/47",
+      "aliases": [
+        "tumubao",
+        "tumu",
+        "huailai"
+      ]
+    },
+    {
+      "id": "china-gazetteer-051",
+      "name": "轮台",
+      "coord": [
+        87.62,
+        43.82
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/50",
+      "aliases": [
+        "luntai",
+        "bugur"
+      ]
+    },
+    {
+      "id": "china-gazetteer-052",
+      "name": "楼兰",
+      "coord": [
+        89.92,
+        40.52
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/51",
+      "aliases": [
+        "loulan",
+        "kroran",
+        "lopnur"
+      ]
+    },
+    {
+      "id": "china-gazetteer-055",
+      "name": "碎叶",
+      "coord": [
+        75.29,
+        42.83
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/54",
+      "aliases": [
+        "suiye",
+        "suyab",
+        "tokmok"
+      ]
+    },
+    {
+      "id": "china-gazetteer-056",
+      "name": "燕然山",
+      "coord": [
+        101.5,
+        47.5
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/55",
+      "aliases": [
+        "yanranshan",
+        "hangai",
+        "khangai"
+      ]
+    },
+    {
+      "id": "china-gazetteer-058",
+      "name": "威海卫",
+      "coord": [
+        122.12,
+        37.51
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/57",
+      "aliases": [
+        "weihaiwei",
+        "weihai",
+        "liugongdao"
+      ]
+    },
+    {
+      "id": "china-gazetteer-059",
+      "name": "卢沟桥",
+      "coord": [
+        116.21,
+        39.85
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/58",
+      "aliases": [
+        "lugouqiao",
+        "lugoubridge",
+        "marcopolobridge",
+        "wanping"
+      ]
+    },
+    {
+      "id": "china-gazetteer-060",
+      "name": "井冈山",
+      "coord": [
+        114.17,
+        26.57
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/59",
+      "aliases": [
+        "jinggangshan",
+        "huangyangjie"
+      ]
+    },
+    {
+      "id": "china-gazetteer-064",
+      "name": "巴峡",
+      "coord": [
+        109.1,
+        30.88
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/63",
+      "aliases": [
+        "baxia",
+        "qutangxia"
+      ]
+    },
+    {
+      "id": "china-gazetteer-065",
+      "name": "巫峡",
+      "coord": [
+        110.05,
+        31.05
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/64",
+      "aliases": [
+        "wuxia",
+        "wushan"
+      ]
+    },
+    {
+      "id": "china-gazetteer-066",
+      "name": "西陵峡",
+      "coord": [
+        110.98,
+        30.83
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/65",
+      "aliases": [
+        "xilingxia",
+        "yichang"
+      ]
+    },
+    {
+      "id": "china-gazetteer-072",
+      "name": "黄州",
+      "coord": [
+        114.88,
+        30.45
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/71",
+      "aliases": [
+        "huangzhou",
+        "huangzhouredcliffs",
+        "dongporedcliffs"
+      ]
+    },
+    {
+      "id": "china-gazetteer-077",
+      "name": "零丁洋",
+      "coord": [
+        113.8,
+        22.42
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/76",
+      "aliases": [
+        "lingdingyang",
+        "lingding"
+      ]
+    },
+    {
+      "id": "china-gazetteer-078",
+      "name": "惶恐滩",
+      "coord": [
+        114.78,
+        26.46
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/77",
+      "aliases": [
+        "huangkongtan",
+        "wanan"
+      ]
+    },
+    {
+      "id": "china-gazetteer-079",
+      "name": "渭城",
+      "coord": [
+        108.71,
+        34.33
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/78",
+      "aliases": [
+        "weicheng",
+        "xianyang"
+      ]
+    },
+    {
+      "id": "china-gazetteer-080",
+      "name": "灞桥",
+      "coord": [
+        109.06,
+        34.27
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/79",
+      "aliases": [
+        "baqiao",
+        "bashui",
+        "zheliu"
+      ]
+    },
+    {
+      "id": "china-gazetteer-081",
+      "name": "天门山",
+      "coord": [
+        118.35,
+        31.46
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/80",
+      "aliases": [
+        "tianmenshan",
+        "bowangshan"
+      ]
+    },
+    {
+      "id": "china-gazetteer-082",
+      "name": "瓜步",
+      "coord": [
+        118.88,
+        32.24
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/81",
+      "aliases": [
+        "guabu",
+        "liuhe"
+      ]
+    },
+    {
+      "id": "china-gazetteer-089",
+      "name": "长勺",
+      "coord": [
+        117.68,
+        36.21
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/88",
+      "aliases": [
+        "changshao",
+        "laiwu"
+      ]
+    },
+    {
+      "id": "china-gazetteer-090",
+      "name": "桂陵",
+      "coord": [
+        114.67,
+        35.2
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/89",
+      "aliases": [
+        "guiling",
+        "changyuan"
+      ]
+    },
+    {
+      "id": "china-gazetteer-091",
+      "name": "马陵道",
+      "coord": [
+        118.35,
+        34.61
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/90",
+      "aliases": [
+        "malingdao",
+        "maling",
+        "tancheng"
+      ]
+    },
+    {
+      "id": "china-gazetteer-092",
+      "name": "崤山",
+      "coord": [
+        111.55,
+        34.58
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/91",
+      "aliases": [
+        "xiaoshan",
+        "yaoshan"
+      ]
+    },
+    {
+      "id": "china-gazetteer-093",
+      "name": "柏举",
+      "coord": [
+        115.01,
+        31.17
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/92",
+      "aliases": [
+        "boju",
+        "macheng"
+      ]
+    },
+    {
+      "id": "china-gazetteer-094",
+      "name": "井陉",
+      "coord": [
+        114.14,
+        38.03
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/93",
+      "aliases": [
+        "jingxing",
+        "tumenguan"
+      ]
+    },
+    {
+      "id": "china-gazetteer-095",
+      "name": "濡须口",
+      "coord": [
+        117.88,
+        31.54
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/94",
+      "aliases": [
+        "ruxukou",
+        "ruxu",
+        "dongguan"
+      ]
+    },
+    {
+      "id": "china-gazetteer-096",
+      "name": "虎牢",
+      "coord": [
+        113.24,
+        34.83
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/95",
+      "aliases": [
+        "hulao",
+        "hulaoguan",
+        "hulaopass",
+        "sishuiguan"
+      ]
+    },
+    {
+      "id": "china-gazetteer-097",
+      "name": "香积寺",
+      "coord": [
+        108.88,
+        34.1
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/96",
+      "aliases": [
+        "xiangjisi"
+      ]
+    },
+    {
+      "id": "china-gazetteer-098",
+      "name": "睢阳",
+      "coord": [
+        115.65,
+        34.44
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/97",
+      "aliases": [
+        "suiyang",
+        "shangqiu"
+      ]
+    },
+    {
+      "id": "china-gazetteer-099",
+      "name": "蔡州",
+      "coord": [
+        114.36,
+        33
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/98",
+      "aliases": [
+        "caizhou",
+        "runan"
+      ]
+    },
+    {
+      "id": "china-gazetteer-100",
+      "name": "野狐岭",
+      "coord": [
+        114.74,
+        40.98
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/99",
+      "aliases": [
+        "yehuling"
+      ]
+    },
+    {
+      "id": "china-gazetteer-101",
+      "name": "三峰山",
+      "coord": [
+        113.47,
+        34.15
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/100",
+      "aliases": [
+        "sanfengshan",
+        "junzhou",
+        "yuzhou"
+      ]
+    },
+    {
+      "id": "china-gazetteer-102",
+      "name": "鄱阳湖",
+      "coord": [
+        116.25,
+        29.22
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/101",
+      "aliases": [
+        "poyanghu",
+        "poyanglake",
+        "lakepoyang",
+        "kangshan"
+      ]
+    },
+    {
+      "id": "china-gazetteer-103",
+      "name": "台儿庄",
+      "coord": [
+        117.73,
+        34.56
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/102",
+      "aliases": [
+        "taierzhuang"
+      ]
+    },
+    {
+      "id": "china-gazetteer-104",
+      "name": "泰山",
+      "coord": [
+        117.1,
+        36.25
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/103",
+      "aliases": [
+        "taishan",
+        "mounttai",
+        "mttai",
+        "daizong",
+        "dongyue"
+      ]
+    },
+    {
+      "id": "china-gazetteer-105",
+      "name": "华山",
+      "coord": [
+        110.09,
+        34.48
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/104",
+      "aliases": [
+        "huashan",
+        "mounthua",
+        "mthua",
+        "taihuashan",
+        "xiyue"
+      ]
+    },
+    {
+      "id": "china-gazetteer-106",
+      "name": "嵩山",
+      "coord": [
+        113.04,
+        34.48
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/105",
+      "aliases": [
+        "songshan",
+        "mountsong",
+        "mtsong",
+        "shaolinsi",
+        "zhongyue"
+      ]
+    },
+    {
+      "id": "china-gazetteer-107",
+      "name": "衡山",
+      "coord": [
+        112.69,
+        27.25
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/106",
+      "aliases": [
+        "hengshan",
+        "mountheng",
+        "mtheng",
+        "zhurongfeng",
+        "nanyue"
+      ]
+    },
+    {
+      "id": "china-gazetteer-108",
+      "name": "恒山",
+      "coord": [
+        113.73,
+        39.67
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/107",
+      "aliases": [
+        "hengshan",
+        "xuankongsi",
+        "beiyue"
+      ]
+    },
+    {
+      "id": "china-gazetteer-110",
+      "name": "新野",
+      "coord": [
+        112.36,
+        32.52
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/109",
+      "aliases": [
+        "xinye",
+        "bowangpo"
+      ]
+    },
+    {
+      "id": "china-gazetteer-112",
+      "name": "梁山泊",
+      "coord": [
+        116.09,
+        35.8
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/111",
+      "aliases": [
+        "liangshanpo",
+        "liangshan",
+        "mountliang",
+        "mtliang",
+        "shuiboliangshan"
+      ]
+    },
+    {
+      "id": "china-gazetteer-113",
+      "name": "景阳冈",
+      "coord": [
+        115.92,
+        36.11
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/112",
+      "aliases": [
+        "jingyanggang",
+        "yanggu"
+      ]
+    },
+    {
+      "id": "china-gazetteer-114",
+      "name": "大名府",
+      "coord": [
+        115.15,
+        36.28
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/113",
+      "aliases": [
+        "damingfu",
+        "daming"
+      ]
+    },
+    {
+      "id": "china-gazetteer-115",
+      "name": "风波亭",
+      "coord": [
+        120.14,
+        30.25
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/114",
+      "aliases": [
+        "fengboting",
+        "yuewangmiao",
+        "xihu",
+        "westlake"
+      ]
+    },
+    {
+      "id": "china-gazetteer-120",
+      "name": "居延海",
+      "coord": [
+        101.25,
+        42.27
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/119",
+      "aliases": [
+        "juyanhai",
+        "juyan",
+        "ejin"
+      ]
+    },
+    {
+      "id": "china-gazetteer-121",
+      "name": "曲阜",
+      "coord": [
+        116.99,
+        35.6
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/120",
+      "aliases": [
+        "qufu",
+        "kongmiao"
+      ]
+    },
+    {
+      "id": "china-gazetteer-123",
+      "name": "景德镇",
+      "coord": [
+        117.18,
+        29.27
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/122",
+      "aliases": [
+        "jingdezhen",
+        "changnan"
+      ]
+    },
+    {
+      "id": "china-gazetteer-124",
+      "name": "宁古塔",
+      "coord": [
+        129.48,
+        44.58
+      ],
+      "sourcePointer": "/ATLAS_LORE_DATA/PLACE_GAZETTEER/123",
+      "aliases": [
+        "ningguta",
+        "ningan"
+      ]
+    }
+  ]
+}

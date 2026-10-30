@@ -1,0 +1,190 @@
+/* Mineral atlas: cool surfaces, ink typography and distinct categorical map fills. */
+:root {
+  --ink:#172b40; --muted:#53677b; --paper:#edf2f7; --panel:#ffffff;
+  --line:#d5dfe8; --accent:#225e9b; --accent-soft:#e5effa;
+  --sea:#f1f5f8; --land:#edf0f2; --green:#28587e; --gold:#e3b564;
+  --surface-soft:#f2f6fa; --surface-selected:#e7f0fa; --map-line:#627c91;
+}
+button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible,
+textarea:focus-visible,[tabindex]:focus-visible { outline-color:#2a70b6; }
+.masthead { background:#172a40; color:#f6f9fd; }
+.brand small { color:#becddd; }
+.nav-button { color:#c5d4e2; }
+.nav-button.active { color:#fff; }
+.share-button { border-color:#758ba1; }
+.explorer,.timeline { border-color:var(--line); }
+.map-stage { background:var(--sea); }
+.search-wrap,.map-pill,.floating-card,.detail-panel,.journey-strip,
+.map-evidence-readout summary,.readout-details,.moment-disclosure summary,
+.moment-card,.reference-status { background:var(--panel); border-color:#bdcedd; }
+.map-pill:hover { background:var(--surface-selected); }
+.search-wrap input::placeholder,.note-input::placeholder { color:#687b8d; }
+.search-wrap kbd { color:#5b7287; }
+.mode-tabs { background:#e7edf3; }
+.mode-tabs button.selected { background:#fff; }
+.kind-tabs button.selected { background:var(--surface-selected); border-color:#b4cce1; }
+.filter-grid select,.year-form,.year-form input,.year-form select { background:var(--surface-soft); border-color:var(--line); }
+.story-button { border-color:var(--line); }
+.story-button:hover { background:var(--surface-soft); }
+.story-button.selected { background:var(--surface-selected); border-color:#a8c3dc; }
+.story-region,.story-arrow { color:#5d7184; }
+.map-heading .eyebrow,.map-heading p,.map-date span { color:#516a80; }
+.map-heading-actions #map-dates-button,.map-heading-actions #world-reset { display:none; }
+.map-heading-actions { gap:8px; }
+.map-snapshot,.map-evidence-readout summary,.readout-modern,.map-bottomline,
+.map-bottomline button { color:#365671; }
+.readout-details small { color:#4b657b; }
+.ocean-sphere { fill:#dfebf420; stroke:#adc2d2; }
+.graticule { stroke:#a6bccd; stroke-opacity:.3; }
+.land { fill:var(--land); stroke:#a4b5c2; }
+.river { stroke:#7babc7; opacity:.7; }
+.territory { stroke:#55748b; fill-opacity:.8; }
+.context-territory { fill-opacity:.74; }
+.territory:hover,.territory.highlighted { stroke:#1d4d78; fill-opacity:.96; }
+.dated-division { stroke:none; }
+.show-dated-divisions .dated-division { stroke:#52728e; stroke-width:.65; }
+.dated-division.historical-claim { stroke:#927548; stroke-dasharray:3 2; }
+.dated-division:focus-visible,.dated-division:hover { stroke:#153e64; stroke-width:1.5; }
+.ghost-territory { stroke:#9b6635; }
+.modern-border { stroke:#667f94; opacity:.6; }
+.continent-label { fill:#6d8599; }
+.ocean-label { fill:#5c819f; }
+.territory-label,.marker-label,.route-label,.reference-area-label { fill:#19364f; stroke:#f5f9ff; }
+.regional-reference .reference-area { stroke:#527a99; }
+.regional-reference .reference-area:hover,.regional-reference .reference-area:focus-visible { stroke:#1e5e97; fill:#e7f1fc66; }
+.period-place text,.inherited-water-label { fill:#315b7c; stroke:#f5f9ff; }
+.map-controls { background:#fff; border-color:#c5d4e0; }
+.map-controls button { color:#315b7c; border-color:var(--line); }
+.map-controls button:hover { background:var(--surface-selected); }
+.territory-legend { background:#fffffff2; border-color:#c3d1de; }
+.territory-legend button,.territory-legend p,.legend-heading { color:#486278; }
+.era-button { color:#5d7286; }
+.era-button.active { color:var(--accent); border-color:var(--accent); }
+.era-rail,.sidebar-footer,.timeline-bottom { border-color:var(--line); }
+.timeline-ticks button,.timeline-bottom,.timeline-bottom .text-button { color:#526c82; }
+.time-slider input { accent-color:var(--accent); }
+.time-slider input::-webkit-slider-runnable-track { height:3px; border-radius:2px; background:#b7c9db; }
+.time-slider input::-webkit-slider-thumb { background:var(--accent); margin-top:-5px; }
+.preview-bars button { color:#29465e; }
+.detail-period { color:#476783; }
+.detail-note,.collection-note,.selected-outside,.timeline-scope-note { background:var(--surface-soft); border-color:#7399bd; color:#435e75; }
+.detail-note strong { color:#254c70; }
+.detail-body,.key-facts,.milestones p,.dialog-inner>p,.location-caption { color:#3e5367; }
+.detail-actions button,.journey-controls button,.secondary-button,.dialog-tabs button,
+.dialog-close,.detail-close { background:var(--surface-soft); border-color:#c8d8e5; color:#315975; }
+.primary-button { background:var(--accent); color:#fff; }
+.detail-actions button:hover,.secondary-button:hover { background:var(--surface-selected); }
+.detail-section,.milestones li,.elsewhere-card,.source-catalog,.coverage-table td,
+.chronology-region,.notebook-row,.library-event { border-color:var(--line); }
+.elsewhere-card:hover,.library-event:hover { background:var(--surface-soft); }
+.milestones li.active { background:var(--surface-selected); border-color:#8caecb; }
+.milestones time { color:#3c6181; }
+.note-input { background:#f7fafd; border-color:#c3d4e2; }
+dialog { background:var(--panel); border-color:#b8cbdc; }
+dialog::backdrop { background:#122a42a8; }
+.dialog-tabs { border-color:var(--line); }
+.dialog-tabs button.active { color:var(--accent); background:var(--surface-selected); border-color:#9fbdd8; }
+.country-card,.person-card,.library-card,.route-card,.journey-card { background:var(--surface-soft); border-color:var(--line); }
+.country-card:hover,.person-card:hover,.library-card:hover,.route-card:hover,.journey-card:hover { background:var(--surface-selected); border-color:#a9c2d8; }
+.country-card small,.country-card>span,.person-card p,.library-card small,.discovery-card-context { color:#526a7e; }
+.library-search input,.library-search select,.discovery-controls input,.discovery-controls select,
+.country-search input { background:#f8fbfe; border-color:#c6d6e3; }
+.route-dots button { background:#d7e3ed; }
+.route-dots button.active { background:var(--accent); }
+.journey-strip h3 { color:#264b6c; }
+.toast { background:#1b3c5a; color:#fff; }
+
+/* A short primary panel, with source-specific controls progressively disclosed. */
+.layer-menu { width:290px; max-width:calc(100% - 32px); max-height:calc(100% - 84px); overflow:auto; overscroll-behavior:contain; padding:18px; }
+.layer-menu h3 { margin:0 0 12px; font-size:23px; }
+.map-view-switch { display:flex; gap:3px; padding:3px; background:#e7eef5; border-radius:5px; }
+.map-view-switch button { flex:1; padding:9px 5px; font-size:12px; border-radius:3px; }
+.map-view-switch [aria-pressed=true] { background:#fff; color:#1d527f; box-shadow:0 1px 3px #183f601c; font-weight:600; }
+.layer-menu .map-view-scope { margin:10px 0 8px; padding:0; border:0; font-size:12px; line-height:1.55; }
+.map-view-options { margin:6px 0; }
+.layer-menu label { min-height:32px; margin:4px 0; font-size:12px; }
+.layer-menu input { width:16px; height:16px; flex-shrink:0; accent-color:var(--accent); }
+.map-extra-detail { border-top:1px solid var(--line); padding-top:10px; margin-top:6px; }
+.map-extra-detail summary { cursor:pointer; color:#315c7f; font-size:12px; padding:4px 0; }
+.map-extra-detail p { font-size:11px; }
+.map-view-links { display:flex; flex-direction:column; align-items:flex-start; gap:4px; border-top:1px solid var(--line); padding-top:10px; margin-top:10px; }
+.map-view-links button { min-height:28px; font-size:12px; color:var(--accent); }
+@media(max-width:700px) {
+  .layer-menu { top:60px; right:16px; max-height:calc(100% - 76px); }
+  .layer-menu label { min-height:36px; }
+  .map-view-switch button { min-height:38px; }
+}
+
+.map-view-heading { display:flex; align-items:center; justify-content:space-between; gap:10px; }
+.map-view-close { min-width:32px; min-height:32px; color:var(--ink); font-size:24px; }
+.map-view-links { position:sticky; bottom:-18px; background:var(--panel); padding-bottom:8px; z-index:1; }
+.map-view-links small { font-size:10px; color:var(--muted); }
+.map-parent-key { display:flex; flex-wrap:wrap; gap:4px 12px; max-width:355px; margin-top:5px; padding:4px 7px; background:#fffffff0; color:#365671; font-size:10px; border-radius:3px; }
+.map-parent-key span { display:inline-flex; align-items:center; gap:5px; }
+.map-parent-key i { display:inline-block; width:10px; height:10px; border:1px solid #526a80; }
+@media(max-width:700px) { .map-parent-key { max-width:calc(100vw - 36px); font-size:9px; } .map-view-links { bottom:-18px; } }
+
+.layer-menu { display:flex; flex-direction:column; overflow:hidden; }
+.layer-menu[hidden] { display:none; }
+.map-view-heading,.map-view-links { flex-shrink:0; }
+.map-view-content { min-height:0; overflow:auto; overscroll-behavior:contain; }
+.map-view-links { position:static; padding-bottom:0; }
+@media(max-width:700px) { .layer-menu { top:12px; max-height:calc(100% - 28px); } }
+
+/* Historical core illustrations retain the source map’s soft, uncertain edge. */
+.territory.diffuse-schematic { stroke:none; fill-opacity:.82; filter:blur(1px); }
+.territory.diffuse-schematic:hover { stroke:none; fill-opacity:.8; }
+.territory.diffuse-schematic:focus-visible { stroke:#20363b; stroke-width:2; stroke-dasharray:4 3; filter:none; }
+
+/* Older and overlapping regional illustrations retain visible uncertainty. */
+.territory.earlier-outline-reference { stroke-dasharray:4 3; }
+.territory.historical-overlap { fill-opacity:.48; stroke:#364c5c; stroke-dasharray:3 3; }
+.territory.historical-overlap:hover,.territory.historical-overlap:focus-visible { fill-opacity:.66; }
+
+/* A source-date sphere is a reference line, not a fill or direct occupation. */
+.territory.influence-sphere,.territory.influence-sphere:hover,.territory.influence-sphere:focus-visible { fill:none; stroke:#76536f; stroke-opacity:.95; stroke-width:1.6; stroke-dasharray:6 4; pointer-events:stroke; }
+.legend-swatch.influence-swatch { background:transparent!important; border:1px dashed #76536f; }
+
+/* Evidence translations are available without hiding the original wording. */
+.detail-sources li > small,.source-catalog li > small { color:#536550; font-size:12px; line-height:1.5; }
+.detail-sources .source-evidence-note,.source-catalog .source-evidence-note { color:#536550; font-size:14px; line-height:1.55; }
+.source-original { margin:.3rem 0 .45rem; color:#536550; font-size:14px; line-height:1.55; }
+.source-original summary { cursor:pointer; text-decoration:underline; text-underline-offset:.14em; }
+.detail-sources .source-original small,.source-catalog .source-original small { display:block; margin-top:.3rem; color:inherit; font-size:14px; line-height:1.55; }
+.source-translation-status { display:block; margin-top:.3rem; color:#536550; }
+
+/* Hatched references preserve the country fill; diamonds represent places. */
+.occupation-area-layer { pointer-events:none; }
+.occupation-reference { stroke:none; }
+.occupation-point { cursor:pointer; }
+.occupation-point-halo { fill:#fffaf0; fill-opacity:.95; stroke:#704451; stroke-width:1; }
+.occupation-point-symbol { fill:#824658; stroke:#fffaf0; stroke-width:.7; }
+.occupation-point:hover .occupation-point-halo,.occupation-point:focus-visible .occupation-point-halo { stroke:#1f4658; stroke-width:2; }
+.occupation-point:focus-visible { outline:none; }
+.occupation-key { display:block; margin-top:5px; padding:5px 7px; width:max-content; max-width:100%; background:#fffffff2; border-left:3px solid #824658; border-radius:2px; pointer-events:auto; }
+.occupation-key button { padding:0; border:0; color:#593a49; background:none; font-size:10px; font-weight:650; text-align:left; text-decoration:underline; text-underline-offset:2px; }
+.occupation-key small { color:#4a5960; font-size:9px; line-height:1.35; }
+.occupation-authorities { display:flex; flex-wrap:wrap; gap:3px 9px; color:#4a5960; font-size:9px; }
+.occupation-authorities span { display:inline-flex; align-items:center; gap:4px; }
+.occupation-swatch { width:10px; height:10px; border:1px solid currentColor; background:repeating-linear-gradient(135deg,currentColor 0 1.5px,color-mix(in srgb,currentColor 40%,white) 1.5px 4px); }
+.occupation-swatch.germany { color:#8c3549; } .occupation-swatch.axis { color:#98733d; }
+.occupation-swatch.western-allies { color:#286e81; } .occupation-swatch.soviet { color:#70468b; }
+.map-load-notice { margin-top:5px; padding:6px 8px; max-width:340px; background:#fffaf0f2; border-left:3px solid #b28146; color:#5c4939; border-radius:2px; font-size:10px; line-height:1.4; pointer-events:auto; }
+.map-load-notice button { padding:2px 5px; }
+@media(max-width:700px) { .occupation-key { max-width:210px; } .occupation-key button,.occupation-key small { font-size:9px; } }
+
+/* Timeline navigation uses the same three destinations across its views. */
+.chronology-scrubber { display:grid; gap:5px; margin:12px 0 16px; max-width:760px; }
+.chronology-scrubber label { display:flex; justify-content:space-between; gap:12px; color:var(--ink); font-size:12px; font-weight:650; }
+.chronology-scrubber output { font-weight:600; }
+.chronology-scrubber input { width:100%; accent-color:var(--accent); min-height:24px; cursor:pointer; }
+.chronology-scrubber small { color:var(--muted); font-size:11px; line-height:1.35; }
+
+.occupation-years,.occupation-focus { display:flex; flex-wrap:wrap; gap:3px; margin-top:3px; }
+.occupation-key .occupation-years button,.occupation-key .occupation-focus button { min-height:22px; padding:2px 4px; border:1px solid #c7b4b7; border-radius:3px; text-decoration:none; font-size:10px; }
+.occupation-key .occupation-years button[aria-pressed=true] { color:white; background:#824658; border-color:#824658; }
+.occupation-key .occupation-focus button { color:#354d5e; border-color:#bdcbd4; }
+
+.occupation-key > summary { cursor:pointer; color:#593a49; font-size:10px; font-weight:700; }
+.occupation-key-body { display:flex; flex-direction:column; align-items:flex-start; gap:2px; padding-top:3px; }
+@media(max-width:700px) { .map-stage:has(.occupation-key[open]) .map-snapshot { z-index:5; } .occupation-key > summary { font-size:10px; } }

@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "checkedAt": "2026-10-28",
+  "upstreamRepository": "https://github.com/DeanChensj/jiangshan-map",
+  "upstreamCommit": "9799f0f61cff80922970d2a0b304e18527db7e1e",
+  "eventReviews": [
+    {
+      "id": "china-landmark-169",
+      "note": {
+        "en": "Independent scholarship confirms the 926 political conquest while emphasizing the continuity of Bohai communities and local elites. This does not verify an exact territorial boundary.",
+        "zh": "独立学术研究确认926年的政治征服，同时强调渤海社群与地方精英的延续；这不验证确切疆界。"
+      },
+      "patch": {
+        "title": {
+          "en": "Khitan conquest of Bohai and the Dongdan succession",
+          "zh": "契丹征服渤海与东丹的建立"
+        },
+        "summary": {
+          "en": "In 926 Khitan forces defeated the Bohai kingdom. A Liao successor administration known in Chinese as Dongdan emerged in the former Bohai region. Historian Pamela Kyle Crossley argues from written and archaeological evidence that, alongside forced resettlement, many Bohai people remained and members of the former elite continued to participate in local administration. The end of the kingdom did not mean the disappearance of its communities.",
+          "zh": "926年契丹军击败渤海王国。此后原渤海地区出现汉文记载中的东丹政权。历史学者帕梅拉·凯尔·克罗斯利综合文字与考古证据指出，除被强制迁徙者外，许多渤海居民仍留在原地，部分原有精英继续参与地方行政。王国终结不代表其社群消失。"
+        },
+        "dateNote": {
+          "en": "926 marks the conquest of the kingdom, not the end of Bohai communities. The point is a representative reference to the former capital; it does not establish an exact frontier.",
+          "zh": "926年标记王国遭征服，而非渤海社群终结。点位代表旧都背景，不确立具体疆界。"
+        },
+        "relatedIds": [
+          "balhae-kingdom",
+          "liao-dynasty"
+        ]
+      },
+      "sources": [
+        {
+          "title": "Bohai/Parhae Identity and the Coherence of Dan gur under the Kitan/Liao Empire",
+          "url": "https://ijkh.khistory.org/journal/view.php?number=10",
+          "publisher": "Pamela Kyle Crossley, International Journal of Korean History",
+          "evidenceNote": "Scholarship compares the 926 conquest narrative with archaeology and inscriptions. It argues for continued local Bohai administration and population alongside forced resettlement; it does not validate the atlas polygon.",
+          "evidenceNoteZh": "学术研究比较926年征服记述与考古、碑铭证据，认为地方渤海行政与居民延续，同时存在强制迁徙；该研究不验证地图多边形。",
+          "checkedAt": "2026-10-28",
+          "retrieval": "opened-page"
+        },
+        {
+          "title": "China’s Liao Dynasty",
+          "url": "https://asiasociety.org/education/chinas-liao-dynasty",
+          "publisher": "Asia Society",
+          "evidenceNote": "The historical overview places the Khitan conquest of Bohai by 926; its broad account is not an independent survey of a frontier.",
+          "evidenceNoteZh": "历史概述将契丹征服渤海置于926年；宽泛叙述不是对边界的独立测绘。",
+          "checkedAt": "2026-10-28",
+          "retrieval": "opened-page"
+        }
+      ]
+    }
+  ],
+  "personSupplements": [
+    {
+      "id": "china-person-shen-kuo",
+      "keyFacts": {
+        "en": [
+          "In 1075 Shen used court records in a Song–Liao border dispute; a later history describes his mission and map-making."
+        ],
+        "zh": [
+          "1075年沈括在宋辽边界争议中利用朝廷旧档；后出史书记述其使辽及绘图。"
+        ]
+      },
+      "sources": [
+        {
+          "title": "History of Song, volume 331: Shen Kuo",
+          "url": "https://zh.wikisource.org/wiki/宋史/卷331",
+          "publisher": "Wikisource, History of Song",
+          "evidenceNote": "The later dynastic biography describes Shen consulting border records and negotiating at the Liao court before composing a mission map. It does not fix the precise location of the meetings.",
+          "evidenceNoteZh": "后出的《宋史》传记记述沈括查阅边界旧档、在辽朝廷交涉并于归途中绘图，未确立会谈的具体地点。",
+          "checkedAt": "2026-10-28",
+          "retrieval": "opened-page"
+        },
+        {
+          "title": "Shen Kua biography",
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Shen_Kua/",
+          "publisher": "University of St Andrews, MacTutor History of Mathematics",
+          "evidenceNote": "Biographical overview gives 1031–1095, the 1063 examination, 1072 astronomical appointment and 1075 negotiations. Its polemical judgments are not adopted, and no precise meeting location is asserted here.",
+          "evidenceNoteZh": "传记概述列出1031—1095年生卒、1063年科举、1072年天文任职与1075年交涉。此处不采用其争论性的评价，也不推定会谈的具体地点。",
+          "checkedAt": "2026-10-28",
+          "retrieval": "opened-page"
+        }
+      ],
+      "additionalMilestones": [
+        {
+          "year": 1075,
+          "title": {
+            "en": "Documents and diplomacy with Liao",
+            "zh": "凭旧档与辽朝交涉"
+          },
+          "description": {
+            "en": "The Song history describes Shen consulting border records, negotiating at the Liao court and making a map on his return. St Andrews places the mission in 1075; the meeting site is not independently located.",
+            "zh": "《宋史》记述沈括查阅边界旧档、在辽朝廷交涉，并于归途中绘图。圣安德鲁斯大学将使命定于1075年；会谈地点未独立确定。"
+          },
+          "location": {
+            "lon": 114.31,
+            "lat": 34.8,
+            "label": "Kaifeng, representative Song court preparation; Liao meeting location not established",
+            "labelI18n": {
+              "en": "Kaifeng, representative Song court preparation; Liao meeting location not established",
+              "zh": "开封，代表宋廷准备工作；辽廷会谈地点未确定"
+            }
+          },
+          "approximate": false
+        }
+      ]
+    }
+  ]
+}

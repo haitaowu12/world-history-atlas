@@ -1,0 +1,875 @@
+[
+  {
+    "id": "early-buddhist-teachings-communities",
+    "title": {
+      "en": "Early Buddhism · Teachings and communities",
+      "zh": "早期佛教 · 教导与社群"
+    },
+    "start": -500,
+    "end": -200,
+    "region": "south-asia",
+    "theme": "culture",
+    "kind": "idea",
+    "importance": 4,
+    "location": {
+      "lat": 25.1,
+      "lon": 85.1,
+      "label": "Middle Ganges region; broad context for early Buddhist history, not an identified founding spot",
+      "labelI18n": {
+        "en": "Middle Ganges region; broad context for early Buddhist history, not an identified founding spot",
+        "zh": "恒河中游地区；早期佛教的概略背景，并非特定创立地点"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Buddhist traditions remember the Buddha as a teacher, and the museum’s account discusses karma, rebirth and nirvana as release from the cycle of earthly existence. The Metropolitan Museum’s art-historical overview places his life broadly in the fifth–fourth centuries BCE; scholars differ on more precise dates. Accounts of his life and enlightenment belong to religious traditions with their own textual histories, and cannot be treated as a single contemporaneous biography.\n\nMonastic complexes and pilgrimage became important settings in Buddhist life. Later monuments and royal inscriptions offer different kinds of evidence: stone remains can show patronage and practice at particular places, while a ruler’s inscriptions express that ruler’s own claims. Neither establishes that every community practiced in the same way. The location is a regional reference; Buddhism continues today in many communities.",
+      "zh": "佛教传统把佛陀记为一位导师；博物馆文章讨论业、轮回与涅槃，将涅槃视为从世间轮回中解脱。大都会艺术博物馆的艺术史综述将其生平宽泛地置于公元前五至前四世纪；更精确的年代仍有学术分歧。关于其生平和觉悟的叙述属于有自身文本传承的宗教传统，不能视作一份单一的同时代传记。\n\n寺院建筑群和朝圣成为佛教生活的重要场所。后来的古迹和王室铭文属于不同类型的证据：石质遗存可显示特定地点的供养与实践，统治者铭文则表达统治者自己的主张。两者都不能证明各地社群实践完全一致。地图点只是地区参照；佛教至今仍在众多社群中延续。"
+    },
+    "dateNote": {
+      "en": "500–200 BCE is a broad editorial window linking the Buddha’s debated chronology to early communities and later third-century BCE inscriptions. It is not an exact lifespan, foundation date or endpoint.",
+      "zh": "公元前500—前200年是宽泛的编辑时段，连接佛陀有争议的年代、早期社群与后来的公元前三世纪铭文；不是精确寿命、创立日期或终点。"
+    },
+    "relatedIds": [
+      "buddhist-art-mathura-gandhara",
+      "person-ashoka",
+      "sanchi",
+      "jain-ascetic-communities"
+    ],
+    "sources": [
+      {
+        "title": "Buddhism and Buddhist Art",
+        "url": "https://www.metmuseum.org/essays/buddhism-and-buddhist-art",
+        "publisher": "Vidya Dehejia / The Metropolitan Museum of Art",
+        "evidenceNote": "Directly inspected the Columbia scholar’s museum essay: the Buddha is placed broadly in the fifth–fourth centuries BCE; the essay discusses Buddhist stories, stupas and circumambulation, early stone gateways, and first-century CE images in Gandhara and Mathura. It is an art-historical overview, not evidence for precise dates of the Buddha’s life or Ashoka’s reign.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Ashoka: The Rock Edicts",
+        "url": "https://sourcebooks.fordham.edu/india/ashoka-edicts.asp",
+        "publisher": "Internet History Sourcebooks Project / Fordham University",
+        "evidenceNote": "Previously inspected translated royal inscriptions on piety, officials and conduct. These are a ruler’s own claims in translation, not complete evidence of individual beliefs or the precise dates of the Buddha.",
+        "checkedAt": "2026-10-22",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "expansion": {
+      "release": 8,
+      "edition": "v14",
+      "workstreams": [
+        "SA1"
+      ],
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "The museum essay foregrounds surviving art and traditional stories; the edicts are translated royal documents. More specialist work is needed on early texts, chronology and diverse communities.",
+        "zh": "博物馆文章侧重存世艺术与传统叙述；诏令是经翻译的王室文件。早期文本、年代与不同社群仍需更深入的专业研究。"
+      }
+    },
+    "regionalAssociation": "omit-broad-point"
+  },
+  {
+    "id": "buddhist-art-mathura-gandhara",
+    "title": {
+      "en": "Buddhist art · Stupas and images in Gandhara and Mathura",
+      "zh": "佛教艺术 · 犍陀罗、马图拉的佛塔与造像"
+    },
+    "start": -100,
+    "end": 200,
+    "region": "south-asia",
+    "theme": "culture",
+    "kind": "culture",
+    "importance": 4,
+    "location": {
+      "lat": 27.49,
+      "lon": 77.67,
+      "label": "Mathura; one place in the cited art history, not the extent of Buddhist communities",
+      "labelI18n": {
+        "en": "Mathura; one place in the cited art history, not the extent of Buddhist communities",
+        "zh": "马图拉；所引艺术史中的一个地点，并非佛教社群的分布范围"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Buddhist monuments preserve evidence of patronage, worship and artistic choices. The Metropolitan Museum’s overview discusses stone railings and gateways around stupas in the first century BCE and images of the Buddha made in Gandhara and Mathura in the first century CE. These different objects invite comparison of the ways communities represented and honored their teachers and sacred places.\n\nDating surviving sculptures is not the same as proving when an idea or practice first appeared everywhere. Nor do shared images establish a single political authority or a uniform tradition. The marker identifies Mathura as one relevant place; the referenced works and communities were not confined to one point.",
+      "zh": "佛教古迹保存着供养、礼拜与艺术选择的证据。大都会艺术博物馆的综述讨论了公元前一世纪佛塔周围的石栏与门，以及公元一世纪犍陀罗和马图拉的佛陀造像。这些不同物件可用于比较社群如何表现和尊崇导师与圣地。\n\n为存世雕塑断代，不等于证明某种思想或实践何时在所有地方首次出现。相似图像也不能确立统一的政治权威或完全一致的传统。地图点将马图拉作为一个相关地点；所述作品与社群并不限于一个点。"
+    },
+    "dateNote": {
+      "en": "100 BCE–200 CE is a broad comparison window around examples dated by the museum. It is not a universal first-image date or an end to Buddhist art.",
+      "zh": "公元前100年至公元200年是围绕博物馆所列实例的宽泛比较时段，不是普遍的首次造像日期，也不是佛教艺术的终点。"
+    },
+    "relatedIds": [
+      "early-buddhist-teachings-communities",
+      "sanchi",
+      "deccan-buddhist-donor-networks",
+      "ajanta-cave-workshops"
+    ],
+    "sources": [
+      {
+        "title": "Buddhism and Buddhist Art",
+        "url": "https://www.metmuseum.org/essays/buddhism-and-buddhist-art",
+        "publisher": "Vidya Dehejia / The Metropolitan Museum of Art",
+        "evidenceNote": "Directly inspected the Columbia scholar’s museum essay: the Buddha is placed broadly in the fifth–fourth centuries BCE; the essay discusses Buddhist stories, stupas and circumambulation, early stone gateways, and first-century CE images in Gandhara and Mathura. It is an art-historical overview, not evidence for precise dates of the Buddha’s life or Ashoka’s reign.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "expansion": {
+      "release": 8,
+      "edition": "v14",
+      "workstreams": [
+        "SA1"
+      ],
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "One art-historical synthesis provides selected examples, not a comprehensive chronology of all media, communities or competing interpretations of early images.",
+        "zh": "一篇艺术史综述提供精选实例，并非涵盖所有媒介、社群及早期图像不同解释的完整编年。"
+      }
+    },
+    "regionalAssociation": "omit-broad-point"
+  },
+  {
+    "id": "sikh-gurus-punjab-1469-1708",
+    "title": {
+      "en": "Early Sikh history · Gurus and community",
+      "zh": "早期锡克历史 · 古鲁与社群"
+    },
+    "start": 1469,
+    "end": 1708,
+    "region": "south-asia",
+    "theme": "culture",
+    "kind": "idea",
+    "importance": 4,
+    "location": {
+      "lat": 31.1,
+      "lon": 75.2,
+      "label": "Punjab region; broad context for early Sikh history, not a single community boundary",
+      "labelI18n": {
+        "en": "Punjab region; broad context for early Sikh history, not a single community boundary",
+        "zh": "旁遮普地区；早期锡克历史的概略背景，并非社群边界"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "The Sikh Coalition describes Guru Nanak’s birth in Punjab in 1469 and a succession of ten Gurus who shaped Sikh community life. Sikh teachings and institutions developed over generations, not in a single meeting or a later political kingdom. The Sikh tradition regards the Guru Granth Sahib and the Guru Khalsa Panth as continuing authorities in the community.\n\nThe 1699 Vaisakhi gathering at Anandpur, associated with Guru Gobind Singh and the Khalsa, is a distinct later episode. The 1708 endpoint here marks the death of the tenth human Guru in the community account; it does not mean that Sikh faith, community or institutions ended. The point represents a broad Punjab context, not a frontier or the origin of every Sikh community.",
+      "zh": "锡克联盟记述古鲁纳纳克于1469年出生在旁遮普，并介绍塑造锡克社群生活的十位古鲁。锡克教导和制度历经多代发展，并非始于一次聚会，也不能等同于后来建立的政治王国。锡克传统将《古鲁·格兰特·萨希卜》和古鲁卡尔萨潘特视为社群延续至今的权威。\n\n与古鲁戈宾德·辛格及卡尔萨相关的1699年阿南德普尔收获节聚会，是后来的一个独立节点。这里以1708年为终点，是依据社群叙述标记第十位人间古鲁去世，并不表示锡克信仰、社群或制度结束。点位是旁遮普地区的概略参照，不是疆界，也不是所有锡克社群的发源地。"
+    },
+    "dateNote": {
+      "en": "1469–1708 follows the community account’s birth of Guru Nanak and death of the tenth human Guru; Sikh religious life continues beyond the interval.",
+      "zh": "1469—1708年依据社群叙述中的古鲁纳纳克出生与第十位人间古鲁去世；锡克宗教生活在此之后继续。"
+    },
+    "relatedIds": [
+      "khalsa-anandpur-1699",
+      "sikh-kingdom-punjab",
+      "hinduism-living-traditions"
+    ],
+    "sources": [
+      {
+        "title": "History",
+        "url": "https://www.sikhcoalition.org/about-sikhs/history/",
+        "publisher": "Sikh Coalition",
+        "evidenceNote": "Directly inspected a Sikh community account: Guru Nanak’s birth in 1469, the succession of ten Gurus, the 1699 Vaisakhi gathering at Anandpur and the final human Guru’s death in 1708. It describes continuing Sikh authorities and practices; a community interpretation, not an independent eyewitness record.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Age of the Gurus — Smithsonian Sikh Heritage Gallery virtual tour",
+        "url": "https://www.sikhs.org/smithsonian/gurus.html",
+        "publisher": "Sikhs.org / Sikh Heritage Gallery exhibit virtual tour",
+        "evidenceNote": "Directly inspected the Sikh community-hosted virtual exhibit page identifying Guru Nanak as 1469–1539 and Guru Gobind Singh as 1666–1708. It does not itself date the 1699 Khalsa gathering; that claim uses the Sikh Coalition source. The page is hosted by Sikhs.org, not the Smithsonian website.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "expansion": {
+      "release": 8,
+      "edition": "v14",
+      "workstreams": [
+        "SA1",
+        "SA2"
+      ],
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "This account is presented from a Sikh community organization; a fuller history needs additional Sikh scholarship and attention to diverse communities and interpretations.",
+        "zh": "此条采用锡克社群组织的叙述；更完整的历史仍需更多锡克学术研究，并关注不同社群和解释。"
+      }
+    },
+    "regionalAssociation": "omit-broad-point"
+  },
+  {
+    "id": "khalsa-anandpur-1699",
+    "title": {
+      "en": "1699 · The Khalsa gathering at Anandpur",
+      "zh": "1699年 · 阿南德普尔的卡尔萨聚会"
+    },
+    "start": 1699,
+    "end": 1699,
+    "region": "south-asia",
+    "theme": "culture",
+    "kind": "event",
+    "importance": 4,
+    "location": {
+      "lat": 31.24,
+      "lon": 76.5,
+      "label": "Anandpur Sahib; representative location for the Vaisakhi gathering",
+      "labelI18n": {
+        "en": "Anandpur Sahib; representative location for the Vaisakhi gathering",
+        "zh": "阿南德普尔萨希卜；收获节聚会的代表地点"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "At Vaisakhi in 1699, Guru Gobind Singh brought Sikhs together at Anandpur. The Sikh Coalition describes this gathering as the institutionalization of the initiated Khalsa community. It is an important event within a longer religious history, not the founding date of Sikhism itself.\n\nSikh community accounts connect the Khalsa with commitments and collective responsibility that continue to matter today. This selected event is distinct from the death of Guru Gobind Singh in 1708 and the much later 1799–1849 Sikh kingdom. The map point names the gathering’s place, not the area of a political state.",
+      "zh": "1699年收获节，古鲁戈宾德·辛格在阿南德普尔召集锡克信众。锡克联盟将此次聚会描述为受戒卡尔萨社群的制度化。这是更长宗教史中的重要事件，不是锡克教本身的创立日期。\n\n锡克社群叙述把卡尔萨与延续至今的承诺和集体责任联系起来。所选事件不同于1708年古鲁戈宾德·辛格去世，也不同于更晚的1799—1849年锡克王国。地图点标示聚会地点，而不是政治国家的范围。"
+    },
+    "dateNote": {
+      "en": "1699 marks the Vaisakhi gathering at Anandpur in the Sikh Coalition account; it is not the start or end of Sikh religious life.",
+      "zh": "1699年标记锡克联盟叙述中的阿南德普尔收获节聚会，不是锡克宗教生活的开始或终结。"
+    },
+    "relatedIds": [
+      "sikh-gurus-punjab-1469-1708",
+      "sikh-kingdom-punjab"
+    ],
+    "sources": [
+      {
+        "title": "History",
+        "url": "https://www.sikhcoalition.org/about-sikhs/history/",
+        "publisher": "Sikh Coalition",
+        "evidenceNote": "Directly inspected a Sikh community account: Guru Nanak’s birth in 1469, the succession of ten Gurus, the 1699 Vaisakhi gathering at Anandpur and the final human Guru’s death in 1708. It describes continuing Sikh authorities and practices; a community interpretation, not an independent eyewitness record.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Age of the Gurus — Smithsonian Sikh Heritage Gallery virtual tour",
+        "url": "https://www.sikhs.org/smithsonian/gurus.html",
+        "publisher": "Sikhs.org / Sikh Heritage Gallery exhibit virtual tour",
+        "evidenceNote": "Directly inspected the Sikh community-hosted virtual exhibit page identifying Guru Nanak as 1469–1539 and Guru Gobind Singh as 1666–1708. It does not itself date the 1699 Khalsa gathering; that claim uses the Sikh Coalition source. The page is hosted by Sikhs.org, not the Smithsonian website.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "expansion": {
+      "release": 8,
+      "edition": "v14",
+      "workstreams": [
+        "SA2"
+      ],
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "The cited source gives the community account of the gathering; further Sikh historical and denominational perspectives can deepen this concise entry.",
+        "zh": "所引来源提供社群对聚会的叙述；更多锡克历史研究和不同宗派视角可深化此简要条目。"
+      }
+    }
+  },
+  {
+    "id": "jewish-communities-second-temple",
+    "title": {
+      "en": "Jewish history · Communities in the Second Temple era",
+      "zh": "犹太历史 · 第二圣殿时期的社群"
+    },
+    "start": -539,
+    "end": 70,
+    "region": "west-central-asia",
+    "theme": "culture",
+    "kind": "culture",
+    "importance": 4,
+    "location": {
+      "lat": 31.78,
+      "lon": 35.23,
+      "label": "Jerusalem; one religious and historical context among communities living in several regions",
+      "labelI18n": {
+        "en": "Jerusalem; one religious and historical context among communities living in several regions",
+        "zh": "耶路撒冷；分布于多个地区的社群所处宗教与历史背景之一"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Jewish communities lived in several regions during the Second Temple era. Before Cyrus conquered Babylon in 539 BCE, some Judeans were already living in exile there; others had remained in their homeland. Some people returned over time, while Jewish communities also lived elsewhere, including Egypt and Asia Minor. These histories cannot be reduced to a single departure from Jerusalem.\n\nThe Temple in Jerusalem remained an important religious institution until Roman forces destroyed it in 70 CE. Its loss brought profound change, but did not end Jewish communities in the land or elsewhere. The point names Jerusalem as one context within a much wider history, not the boundary of Judaism or evidence that every family followed the same path.",
+      "zh": "第二圣殿时期，犹太社群生活在多个地区。公元前539年居鲁士征服巴比伦之前，一些犹大人已在那里流亡，另一些人则留在故土。此后有人陆续返回，同时犹太社群也生活在埃及、小亚细亚等地。这些历史不能简化成一次从耶路撒冷出发的离散。\n\n耶路撒冷的圣殿是重要宗教机构，直到公元70年遭罗马军队毁坏。圣殿的失去带来深刻变化，却没有终结当地或其他地区的犹太社群。点位将耶路撒冷作为更广历史中的一个背景，不是犹太教的边界，也不证明每个家庭经历了相同道路。"
+    },
+    "dateNote": {
+      "en": "539 BCE–70 CE is an editorial frame from Cyrus’s conquest of Babylon to the Temple’s destruction. The first date is not the Temple’s completion or the beginning of Jewish history, and 70 is not the start of all Jewish diaspora.",
+      "zh": "公元前539年至公元70年是从居鲁士征服巴比伦到圣殿被毁的编辑框架；前者不是圣殿建成或犹太历史的开始，后者也不是所有犹太离散的起点。"
+    },
+    "relatedIds": [
+      "jerusalem-second-temple-destruction-70",
+      "rabbinic-judaism-after-70",
+      "cairo-geniza-everyday-documents"
+    ],
+    "sources": [
+      {
+        "title": "539 BCE to 632 CE: The Story",
+        "url": "https://www.myjewishlearning.com/article/539-bce-to-632-ce-the-story/",
+        "publisher": "My Jewish Learning",
+        "evidenceNote": "Directly inspected the educational overview on Jewish exile before Cyrus’s 539 BCE conquest, different returns, people who had not been exiled and communities in Egypt and Asia Minor. Its broad political chronology is simplified; a claim about Christian imperialization was not adopted.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Jewish Art in Late Antiquity and Early Byzantium",
+        "url": "https://www.metmuseum.org/essays/jewish-art-in-late-antiquity-and-early-byzantium",
+        "publisher": "Barbara Drake Boehm and Melanie Holcomb / The Metropolitan Museum of Art",
+        "evidenceNote": "Directly inspected the art-historical essay’s discussion of Jewish communities in Roman regions, the destruction of the Jerusalem Temple in 70 CE and the third-century synagogue at Dura-Europos beside a Christian meeting house. Material remains are selective evidence, not a single starting date for diaspora.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "expansion": {
+      "release": 8,
+      "edition": "v14",
+      "workstreams": [
+        "WA1"
+      ],
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "The sources are a broad educational overview and selected material evidence. They do not reconstruct every Jewish community, identity or movement, or establish a religious boundary.",
+        "zh": "来源为宽泛的教育综述与精选物质证据，不能复原所有犹太社群、身份或迁徙，也不能确立宗教边界。"
+      }
+    },
+    "regionalAssociation": "omit-broad-point"
+  },
+  {
+    "id": "jerusalem-second-temple-destruction-70",
+    "title": {
+      "en": "70 CE · Jerusalem’s Second Temple is destroyed",
+      "zh": "公元70年 · 耶路撒冷第二圣殿被毁"
+    },
+    "start": 70,
+    "end": 70,
+    "region": "west-central-asia",
+    "theme": "culture",
+    "kind": "event",
+    "importance": 4,
+    "location": {
+      "lat": 31.778,
+      "lon": 35.235,
+      "label": "Jerusalem; representative setting of the Temple destruction",
+      "labelI18n": {
+        "en": "Jerusalem; representative setting of the Temple destruction",
+        "zh": "耶路撒冷；圣殿被毁的代表地点"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "During the Roman siege of Jerusalem in 70 CE, the Second Temple was destroyed. The event profoundly affected Jewish religious institutions and communities, but the city’s destruction does not mark a single beginning of the Jewish diaspora: Jewish communities had already lived outside the land for centuries. Jewish life also continued within the land.\n\nLater rabbinic texts preserve accounts of people and decisions associated with the aftermath. Rabba Alieza Salzberg Yizhar cautions that the familiar story of Yohanan ben Zakkai escaping in a coffin should not be accepted uncritically as a contemporaneous report. The historical event and later literary tradition provide different kinds of evidence.",
+      "zh": "公元70年罗马围攻耶路撒冷期间，第二圣殿被毁。此事深刻影响犹太宗教制度与社群，但不能将城市遭毁视为犹太离散唯一的开始：此前数百年，已有犹太社群生活在故土之外，故土内的犹太生活也继续。\n\n后世拉比文献保存了与其后局势相关的人物和决定的叙述。拉比阿莉扎·萨尔茨贝格·伊兹哈尔提醒，关于约哈南·本·扎凯藏身棺材逃出的熟悉故事，不应未经审视就当作同时代报道。历史事件与后来的文学传统提供不同类型的证据。"
+    },
+    "dateNote": {
+      "en": "70 CE marks the siege and destruction of the Temple. It is neither the beginning of all diaspora nor the end of Judaism.",
+      "zh": "公元70年标记围城与圣殿被毁，既不是所有离散的开始，也不是犹太教的终结。"
+    },
+    "relatedIds": [
+      "jewish-communities-second-temple",
+      "rabbinic-judaism-after-70"
+    ],
+    "sources": [
+      {
+        "title": "Judaism after the Temple",
+        "url": "https://www.myjewishlearning.com/article/judaism-after-the-temple/",
+        "publisher": "Rabba Alieza Salzberg Yizhar / My Jewish Learning",
+        "evidenceNote": "Directly inspected the account of the Roman siege and destruction of the Second Temple in 70 CE, later Torah study and Jewish law in different places, and the rabbinic story of Yohanan ben Zakkai’s escape and Yavneh. The author explicitly questions whether that story can be treated as straightforward history.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Jewish Art in Late Antiquity and Early Byzantium",
+        "url": "https://www.metmuseum.org/essays/jewish-art-in-late-antiquity-and-early-byzantium",
+        "publisher": "Barbara Drake Boehm and Melanie Holcomb / The Metropolitan Museum of Art",
+        "evidenceNote": "Directly inspected the art-historical essay’s discussion of Jewish communities in Roman regions, the destruction of the Jerusalem Temple in 70 CE and the third-century synagogue at Dura-Europos beside a Christian meeting house. Material remains are selective evidence, not a single starting date for diaspora.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "539 BCE to 632 CE: The Story",
+        "url": "https://www.myjewishlearning.com/article/539-bce-to-632-ce-the-story/",
+        "publisher": "My Jewish Learning",
+        "evidenceNote": "Directly inspected the educational overview on Jewish exile before Cyrus’s 539 BCE conquest, different returns, people who had not been exiled and communities in Egypt and Asia Minor. Its broad political chronology is simplified; a claim about Christian imperialization was not adopted.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "expansion": {
+      "release": 8,
+      "edition": "v14",
+      "workstreams": [
+        "WA1"
+      ],
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "The inspected Jewish educational and museum accounts cover the destruction and selected later interpretations; they do not resolve every detail of the siege or reconstruct a border.",
+        "zh": "已查阅的犹太教育与博物馆资料涵盖圣殿被毁和部分后世解释；不能解决围城的每个细节，也不复原疆界。"
+      }
+    },
+    "regionalAssociation": "omit-broad-point"
+  },
+  {
+    "id": "rabbinic-judaism-after-70",
+    "title": {
+      "en": "Rabbinic Judaism · Study and community after 70 CE",
+      "zh": "拉比犹太教 · 公元70年后的学习与社群"
+    },
+    "start": 70,
+    "end": 300,
+    "region": "west-central-asia",
+    "theme": "knowledge",
+    "kind": "idea",
+    "importance": 4,
+    "location": {
+      "lat": 32.0,
+      "lon": 34.8,
+      "label": "Yavneh area; a representative setting in later rabbinic memory, not a sole center of Judaism",
+      "labelI18n": {
+        "en": "Yavneh area; a representative setting in later rabbinic memory, not a sole center of Judaism",
+        "zh": "亚夫内一带；后世拉比记忆中的代表地点，并非犹太教唯一中心"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "After the Temple’s destruction, Jewish communities continued to interpret Torah and law, gather for study and sustain communal life in more than one region. Rabbinic traditions developed over generations; the growth of these practices was not a single overnight replacement for every earlier form of Jewish life.\n\nA later Talmudic story associates Yohanan ben Zakkai and the town of Yavneh with the period after the siege. The author of the cited Jewish educational essay treats its famous coffin-escape episode as historically uncertain. Study and legal argument also continued in Babylonia. A point near Yavneh represents one setting in the account, not a unique origin or a border, and the focus window does not imply that Jewish life ended in 300 CE.",
+      "zh": "圣殿被毁后，犹太社群继续在多个地区诠释《妥拉》和律法、聚集学习并维系社群生活。拉比传统历经多代发展；这些实践的成长并非一夜之间取代此前所有犹太生活形式。\n\n后世《塔木德》故事把约哈南·本·扎凯及亚夫内镇与围城后的时期联系起来。所引犹太教育文章的作者认为，其中著名的藏棺逃脱情节在历史上存疑。巴比伦也延续了学习与法律论辩。亚夫内附近的点位只表示叙述中的一个地点，不是唯一发源地或疆界；关注时段也不表示犹太生活在公元300年结束。"
+    },
+    "dateNote": {
+      "en": "70–300 CE is a broad editorial focus on selected post-Temple generations, not the complete period of rabbinic development or an endpoint for Judaism.",
+      "zh": "公元70—300年是对圣殿被毁后若干代人的宽泛关注，不是拉比传统发展的全部时段，也不是犹太教的终点。"
+    },
+    "relatedIds": [
+      "jerusalem-second-temple-destruction-70",
+      "jewish-communities-second-temple",
+      "cairo-geniza-everyday-documents"
+    ],
+    "sources": [
+      {
+        "title": "Judaism after the Temple",
+        "url": "https://www.myjewishlearning.com/article/judaism-after-the-temple/",
+        "publisher": "Rabba Alieza Salzberg Yizhar / My Jewish Learning",
+        "evidenceNote": "Directly inspected the account of the Roman siege and destruction of the Second Temple in 70 CE, later Torah study and Jewish law in different places, and the rabbinic story of Yohanan ben Zakkai’s escape and Yavneh. The author explicitly questions whether that story can be treated as straightforward history.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Jewish Art in Late Antiquity and Early Byzantium",
+        "url": "https://www.metmuseum.org/essays/jewish-art-in-late-antiquity-and-early-byzantium",
+        "publisher": "Barbara Drake Boehm and Melanie Holcomb / The Metropolitan Museum of Art",
+        "evidenceNote": "Directly inspected the art-historical essay’s discussion of Jewish communities in Roman regions, the destruction of the Jerusalem Temple in 70 CE and the third-century synagogue at Dura-Europos beside a Christian meeting house. Material remains are selective evidence, not a single starting date for diaspora.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "expansion": {
+      "release": 8,
+      "edition": "v14",
+      "workstreams": [
+        "WA1"
+      ],
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "The Jewish community-authored essay distinguishes later rabbinic narrative from secure historical evidence; additional specialists and Jewish traditions can deepen this account.",
+        "zh": "犹太社群作者的文章区分了后世拉比叙事与可确证的历史证据；更多专家和犹太传统视角可深化此叙述。"
+      }
+    },
+    "regionalAssociation": "omit-broad-point"
+  },
+  {
+    "id": "lumbini-ashoka-pillar-249-bce",
+    "title": {
+      "en": "Lumbini · Ashoka’s inscribed pillar",
+      "zh": "蓝毗尼 · 阿育王铭文石柱"
+    },
+    "start": -249,
+    "end": -249,
+    "region": "south-asia",
+    "theme": "culture",
+    "kind": "place",
+    "importance": 4,
+    "location": {
+      "lat": 27.469,
+      "lon": 83.276,
+      "label": "Lumbini; representative location of the inscribed pillar",
+      "labelI18n": {
+        "en": "Lumbini; representative location of the inscribed pillar",
+        "zh": "蓝毗尼；铭文石柱的代表地点"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "At Lumbini, an inscribed pillar associated with the Mauryan ruler Ashoka preserves evidence of the importance attached to this place in early Buddhist pilgrimage. UNESCO assigns the pillar to approximately 249 BCE and describes later monasteries and other remains. The pillar is a historical object from Ashoka’s era; it is not a contemporary birth record of the Buddha.\n\nReligious tradition identifies Lumbini with the Buddha’s birth. UNESCO’s page also reports a specific traditional birth year, but the more exact chronology is debated and differs from the fifth–fourth-century BCE range presented by the Metropolitan Museum’s essay. Neither the later inscription nor a map marker establishes a precise birth date. Buddhist traditions continue beyond the selected archaeological episode.",
+      "zh": "蓝毗尼有一根与孔雀王朝统治者阿育王相关的铭文石柱，保存了早期佛教朝圣重视此地的证据。联合国教科文组织将石柱置于约公元前249年，并介绍后来的寺院和其他遗存。石柱是阿育王时代的历史实物，并非佛陀出生时的同时代记录。\n\n宗教传统将蓝毗尼认作佛陀出生地。联合国教科文组织页面还记载了具体的传统出生年份，但更精确的年代存在争议，也不同于大都会艺术博物馆文章提出的公元前五至前四世纪宽泛范围。后世铭文或地图点都不能确立精确出生日期。佛教传统在所选考古节点之后继续发展。"
+    },
+    "dateNote": {
+      "en": "Approximately 249 BCE follows UNESCO’s dating of the pillar; it is not a settled exact date for the Buddha’s birth. Ashoka’s chronology is approximate.",
+      "zh": "约公元前249年依据联合国教科文组织对石柱的断代，并非已确立的佛陀准确出生日期；阿育王编年亦为概数。"
+    },
+    "relatedIds": [
+      "early-buddhist-teachings-communities",
+      "person-ashoka",
+      "sanchi"
+    ],
+    "sources": [
+      {
+        "title": "Lumbini, the Birthplace of the Lord Buddha",
+        "url": "https://whc.unesco.org/en/list/666/",
+        "publisher": "UNESCO World Heritage Centre",
+        "evidenceNote": "Directly inspected the listing’s account of the Ashoka pillar assigned to 249 BCE, archaeological monasteries from the third century BCE to fifth century CE and later pilgrimage remains. Its specific traditional 623 BCE birth date is contested and is not adopted as a settled historical date.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Buddhism and Buddhist Art",
+        "url": "https://www.metmuseum.org/essays/buddhism-and-buddhist-art",
+        "publisher": "Vidya Dehejia / The Metropolitan Museum of Art",
+        "evidenceNote": "Directly inspected the Columbia scholar’s museum essay: the Buddha is placed broadly in the fifth–fourth centuries BCE; the essay discusses Buddhist stories, stupas and circumambulation, early stone gateways, and first-century CE images in Gandhara and Mathura. It is an art-historical overview, not evidence for precise dates of the Buddha’s life or Ashoka’s reign.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "expansion": {
+      "release": 8,
+      "edition": "v14",
+      "workstreams": [
+        "SA1"
+      ],
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "UNESCO’s site account and the Met’s art-historical chronology differ on the birth date. Neither is a contemporary biography of the Buddha; specialist archaeological and textual review remains needed.",
+        "zh": "联合国教科文组织的遗址叙述与大都会博物馆的艺术史编年对出生日期有所不同；二者都不是佛陀的同时代传记，仍需考古与文献专家审阅。"
+      }
+    }
+  },
+  {
+    "id": "early-christianity-jewish-context",
+    "title": {
+      "en": "Early Christianity · First-century Jewish contexts",
+      "zh": "早期基督教 · 一世纪的犹太语境"
+    },
+    "start": 1,
+    "end": 100,
+    "region": "west-central-asia",
+    "theme": "culture",
+    "kind": "idea",
+    "importance": 4,
+    "location": {
+      "lat": 31.78,
+      "lon": 35.23,
+      "label": "Jerusalem; one context for early Jesus-following communities, not the location of every community",
+      "labelI18n": {
+        "en": "Jerusalem; one context for early Jesus-following communities, not the location of every community",
+        "zh": "耶路撒冷；早期耶稣追随者社群的一个背景，并非所有社群所在地"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Jesus and his earliest followers were Jews in a first-century world containing diverse Jewish communities and interpretations. Later Christian traditions preserve different accounts of Jesus’s life and teaching. The dates shown are an editorial century, not a claim to know the precise year of his birth or death.\n\nJewish and non-Jewish followers formed communities in different places. Paul’s surviving letters and later accounts are important but distinct evidence for some of their debates. Scholar Markus Tiwald argues that the differentiation of Christian and Jewish communities was gradual and uneven; it should not be compressed into one universal founding or separation date. Judaism continued as a living tradition in its own right.",
+      "zh": "耶稣及其最早的追随者是犹太人，生活在包含多种犹太社群与解释的一世纪世界。后来的基督教传统保存了有关耶稣生平与教导的不同叙述。所示日期只是编辑选取的世纪，并不声称知道其确切出生或去世年份。\n\n犹太与非犹太追随者在不同地点形成社群。保罗现存书信和后来的记述，是理解其中一些争论的重要但不同的证据。学者马库斯·蒂瓦尔德认为，基督徒与犹太社群的分化渐进而且各地不一；不应将其压缩为一个普遍的创立或分离日期。犹太教本身也作为活态传统继续发展。"
+    },
+    "dateNote": {
+      "en": "1–100 CE is a first-century focus, not an exact birth/death date for Jesus or a single moment when Christianity and Judaism separated.",
+      "zh": "公元1—100年是一世纪的关注时段，不是耶稣的准确出生或去世日期，也不是基督教与犹太教在某一刻分离的日期。"
+    },
+    "relatedIds": [
+      "jewish-communities-second-temple",
+      "paul-corinth-letters-50s",
+      "christian-jewish-communities-late-antiquity"
+    ],
+    "sources": [
+      {
+        "title": "The Beginnings of Christianity as an Integral Part of Early Judaism",
+        "url": "https://bibleinterp.arizona.edu/articles/beginnings-christianity-integral-part-early-judaism",
+        "publisher": "Markus Tiwald / The Bible and Interpretation, University of Arizona",
+        "evidenceNote": "Directly inspected the scholarly essay on Jesus and his first followers within diverse first-century Judaism and on long, regionally uneven Christian–Jewish differentiation. The author’s extended chronology and interpretations are a scholarly argument, not a universally agreed separation date.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Paul’s Mission and Letters",
+        "url": "https://www.pbs.org/wgbh/pages/frontline/shows/religion/first/missions.html",
+        "publisher": "PBS FRONTLINE / interviews with Wayne A. Meeks and L. Michael White",
+        "evidenceNote": "Directly inspected scholar interviews on Paul’s letters, Jewish and Gentile communities, meals and observance, with approximate Corinth and Aegean work in the 50s CE. The scholars note difficult dates and differences between Paul’s letters and Acts. The 1998 PBS page is a legacy source and labels itself potentially outdated.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "expansion": {
+      "release": 8,
+      "edition": "v14",
+      "workstreams": [
+        "WA1",
+        "EU1"
+      ],
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "Tiwald’s argument is one scholarly interpretation of a diverse process; PBS presents selected interviews and distinguishes letters from later Acts. Neither source establishes exact life dates for Jesus.",
+        "zh": "蒂瓦尔德的论证是对多元过程的一种学术解释；PBS提供精选访谈，并区分书信与后来的《使徒行传》。两者都不能确立耶稣的准确生平日期。"
+      }
+    },
+    "regionalAssociation": "omit-broad-point"
+  },
+  {
+    "id": "paul-corinth-letters-50s",
+    "title": {
+      "en": "Paul’s letters · Corinth and mixed communities",
+      "zh": "保罗书信 · 哥林多与多元社群"
+    },
+    "start": 50,
+    "end": 55,
+    "region": "europe",
+    "theme": "knowledge",
+    "kind": "culture",
+    "importance": 4,
+    "location": {
+      "lat": 37.94,
+      "lon": 22.93,
+      "label": "Corinth; one context discussed in the scholars’ reading of Paul’s letters",
+      "labelI18n": {
+        "en": "Corinth; one context discussed in the scholars’ reading of Paul’s letters",
+        "zh": "哥林多；学者阅读保罗书信时讨论的一个背景"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Paul’s letters are evidence for some early communities of Jesus-followers and their disputes. In PBS interviews, historians describe his work with Jewish and Gentile participants and questions about shared meals and observance. L. Michael White places Paul in Corinth around 50 CE and discusses Aegean work in approximately the early 50s, while stressing that exact dates are hard to establish.\n\nLetters written to particular communities are not a complete record of all early Christians. Paul’s own account and the later Acts of the Apostles also differ in some details, so a neat itinerary or a precise date for every event cannot be inferred. The map identifies Corinth as an illustrative context, not a reconstructed journey.",
+      "zh": "保罗书信为了解一些早期耶稣追随者社群及其争论提供证据。PBS访谈中的历史学者讨论了他与犹太及外邦参与者的工作，以及共同进餐和宗教遵行等问题。L·迈克尔·怀特将保罗在哥林多的活动置于约公元50年，并讨论约50年代前期的爱琴海工作，同时强调准确日期难以确立。\n\n写给特定社群的书信，并非所有早期基督徒的完整记录。保罗自己的叙述与后来的《使徒行传》在一些细节上也有差异，因此不能推定一条整齐的行程或每件事件的精确日期。地图将哥林多作为说明背景，不复原旅行路线。"
+    },
+    "dateNote": {
+      "en": "50–55 CE is an approximate focus on the Corinth and Aegean context described by the interviewee, not a precise itinerary or Paul’s full life.",
+      "zh": "公元50—55年是访谈者所述哥林多与爱琴海背景的概略关注期，不是精确行程或保罗的完整生平。"
+    },
+    "relatedIds": [
+      "early-christianity-jewish-context",
+      "christian-jewish-communities-late-antiquity",
+      "jerusalem-second-temple-destruction-70"
+    ],
+    "sources": [
+      {
+        "title": "Paul’s Mission and Letters",
+        "url": "https://www.pbs.org/wgbh/pages/frontline/shows/religion/first/missions.html",
+        "publisher": "PBS FRONTLINE / interviews with Wayne A. Meeks and L. Michael White",
+        "evidenceNote": "Directly inspected scholar interviews on Paul’s letters, Jewish and Gentile communities, meals and observance, with approximate Corinth and Aegean work in the 50s CE. The scholars note difficult dates and differences between Paul’s letters and Acts. The 1998 PBS page is a legacy source and labels itself potentially outdated.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "The Beginnings of Christianity as an Integral Part of Early Judaism",
+        "url": "https://bibleinterp.arizona.edu/articles/beginnings-christianity-integral-part-early-judaism",
+        "publisher": "Markus Tiwald / The Bible and Interpretation, University of Arizona",
+        "evidenceNote": "Directly inspected the scholarly essay on Jesus and his first followers within diverse first-century Judaism and on long, regionally uneven Christian–Jewish differentiation. The author’s extended chronology and interpretations are a scholarly argument, not a universally agreed separation date.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "expansion": {
+      "release": 8,
+      "edition": "v14",
+      "workstreams": [
+        "WA1",
+        "EU1"
+      ],
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "The 1998 interviews are a selected, potentially dated synthesis. Paul’s letters and Acts are distinct sources; the record does not claim a complete life or reconstruct a route.",
+        "zh": "1998年访谈是精选且可能已显陈旧的综合。保罗书信与《使徒行传》是不同来源；本条不声称完整生平，也不复原路线。"
+      }
+    }
+  },
+  {
+    "id": "christian-jewish-communities-late-antiquity",
+    "title": {
+      "en": "Jewish and Christian communities · Uneven boundaries",
+      "zh": "犹太与基督徒社群 · 并不一致的界限"
+    },
+    "start": 100,
+    "end": 400,
+    "region": "west-central-asia",
+    "theme": "culture",
+    "kind": "culture",
+    "importance": 4,
+    "location": {
+      "lat": 34.75,
+      "lon": 40.73,
+      "label": "Dura-Europos; one archaeological example, not a universal religious boundary",
+      "labelI18n": {
+        "en": "Dura-Europos; one archaeological example, not a universal religious boundary",
+        "zh": "杜拉欧罗普斯；一处考古实例，并非普遍的宗教界限"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Over the second to fourth centuries, Jewish and Christian communities developed institutions and identities in different settings. Markus Tiwald’s essay argues that differentiation was prolonged and uneven, and reads later writers as evidence that some relationships and contested practices continued. That is a scholarly interpretation of selected texts, not proof of one timetable applying everywhere.\n\nThe Metropolitan Museum discusses a third-century synagogue at Dura-Europos near a Christian meeting house. These buildings are material evidence for particular communities, not proof that every Jew and Christian shared the same relationships. Judaism and Christianity both continued to develop after the end of this editorial window.",
+      "zh": "公元二至四世纪，犹太与基督徒社群在不同环境中发展制度和身份。马库斯·蒂瓦尔德的文章认为，二者分化漫长且各地不一，并把后世作者的文字视为某些关系和有争议实践仍然存在的证据。这是对部分文本的学术解释，不证明各地都遵循同一时间表。\n\n大都会艺术博物馆讨论了杜拉欧罗普斯一座公元三世纪会堂及其附近的基督徒聚会场所。这些建筑是特定社群的物质证据，不证明每个犹太人与基督徒之间的关系都相同。犹太教与基督教在本编辑时段之后均继续发展。"
+    },
+    "dateNote": {
+      "en": "100–400 CE is an editorial comparison window; neither its beginning nor its end is a universal date of separation or the end of either tradition.",
+      "zh": "公元100—400年是编辑选取的比较时段；起点和终点都不是普遍的分离日期，也不是任何一种传统的终点。"
+    },
+    "relatedIds": [
+      "early-christianity-jewish-context",
+      "paul-corinth-letters-50s",
+      "rabbinic-judaism-after-70",
+      "aksum-ezana-christianity"
+    ],
+    "sources": [
+      {
+        "title": "The Beginnings of Christianity as an Integral Part of Early Judaism",
+        "url": "https://bibleinterp.arizona.edu/articles/beginnings-christianity-integral-part-early-judaism",
+        "publisher": "Markus Tiwald / The Bible and Interpretation, University of Arizona",
+        "evidenceNote": "Directly inspected the scholarly essay on Jesus and his first followers within diverse first-century Judaism and on long, regionally uneven Christian–Jewish differentiation. The author’s extended chronology and interpretations are a scholarly argument, not a universally agreed separation date.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Jewish Art in Late Antiquity and Early Byzantium",
+        "url": "https://www.metmuseum.org/essays/jewish-art-in-late-antiquity-and-early-byzantium",
+        "publisher": "Barbara Drake Boehm and Melanie Holcomb / The Metropolitan Museum of Art",
+        "evidenceNote": "Directly inspected the art-historical essay’s discussion of Jewish communities in Roman regions, the destruction of the Jerusalem Temple in 70 CE and the third-century synagogue at Dura-Europos beside a Christian meeting house. Material remains are selective evidence, not a single starting date for diaspora.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "expansion": {
+      "release": 8,
+      "edition": "v14",
+      "workstreams": [
+        "WA1",
+        "EU1"
+      ],
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "Tiwald’s reading is a scholarly argument and the museum discusses selected surviving buildings. The sources do not establish universal interaction or a single religious boundary.",
+        "zh": "蒂瓦尔德的解读是一项学术论证，博物馆讨论的是精选存世建筑；来源不能证明普遍的互动模式或单一宗教边界。"
+      }
+    },
+    "regionalAssociation": "omit-broad-point"
+  },
+  {
+    "id": "council-of-nicaea-325",
+    "title": {
+      "en": "325 · The Council of Nicaea",
+      "zh": "公元325年 · 尼西亚会议"
+    },
+    "start": 325,
+    "end": 325,
+    "region": "west-central-asia",
+    "theme": "culture",
+    "kind": "event",
+    "importance": 4,
+    "location": {
+      "lat": 40.429,
+      "lon": 29.721,
+      "label": "Nicaea, present-day İznik; representative location of the council",
+      "labelI18n": {
+        "en": "Nicaea, present-day İznik; representative location of the council",
+        "zh": "尼西亚，即今伊兹尼克；会议的代表地点"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "In 325 CE, Constantine convened a council of bishops at Nicaea. The Carnuntum museum account describes debates associated with Arius and the adoption of a creed. This meeting brought imperial power and Christian theological argument together, but did not mark the beginning of Christianity or make all Christian communities immediately agree.\n\nThe council followed changes in Roman policy toward Christians, including toleration measures associated with Milan in 313. A council’s decisions and later responses belong to a longer history of debate, institutions and political power. Nicaea is the location of the meeting, not a map of a uniform Christian population or religious boundary.",
+      "zh": "公元325年，君士坦丁在尼西亚召集主教会议。卡农图姆博物馆的叙述介绍了与阿里乌有关的争论及信经的制定。这次会议将帝国权力与基督教神学论辩联系起来，但它不是基督教的起点，也没有使所有基督徒社群立即达成一致。\n\n会议发生在罗马对基督徒政策变化之后，其中包括与313年米兰相关的宽容措施。会议决定及后续反应属于有关争论、制度与政治权力的更长历史。尼西亚是会议地点，并非整齐划一的基督徒人口分布图或宗教疆界。"
+    },
+    "dateNote": {
+      "en": "325 CE marks the council, not Christianity’s founding or the endpoint of Christian theological disagreement.",
+      "zh": "公元325年标记这次会议，不是基督教的创立或神学争论的终点。"
+    },
+    "relatedIds": [
+      "early-christianity-jewish-context",
+      "christian-jewish-communities-late-antiquity",
+      "aksum-ezana-christianity"
+    ],
+    "sources": [
+      {
+        "title": "Politics and the world of faith in late antiquity – 1700 years of the Council of Nicaea",
+        "url": "https://www.carnuntum.at/en/magazine/politics-and-the-world-of-faith-in-late-antiquity-1700-years-of-the-council-of-nicaea/1314",
+        "publisher": "Nisa Iduna Kirchengast / Roman City of Carnuntum",
+        "evidenceNote": "Directly inspected the museum’s 2025 exhibition explainer: it dates the 313 Milan toleration policy and Constantine’s council at Nicaea to 325, and describes bishops’ debate over Arius and a creed. Its broad statement that persecution ended is not treated as proof that all persecution stopped everywhere.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "The Beginnings of Christianity as an Integral Part of Early Judaism",
+        "url": "https://bibleinterp.arizona.edu/articles/beginnings-christianity-integral-part-early-judaism",
+        "publisher": "Markus Tiwald / The Bible and Interpretation, University of Arizona",
+        "evidenceNote": "Directly inspected the scholarly essay on Jesus and his first followers within diverse first-century Judaism and on long, regionally uneven Christian–Jewish differentiation. The author’s extended chronology and interpretations are a scholarly argument, not a universally agreed separation date.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "expansion": {
+      "release": 8,
+      "edition": "v14",
+      "workstreams": [
+        "WA1",
+        "EU1"
+      ],
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "The museum provides an introductory account of the meeting; the creed’s reception and theological interpretations varied and require specialist historical and community perspectives.",
+        "zh": "博物馆提供会议的入门叙述；信经接受情况和神学解释各不相同，需要专业史学与社群视角。"
+      }
+    }
+  },
+  {
+    "id": "milan-toleration-313",
+    "title": {
+      "en": "313 · The Milan toleration arrangements",
+      "zh": "公元313年 · 米兰的宗教宽容措施"
+    },
+    "start": 313,
+    "end": 313,
+    "region": "europe",
+    "theme": "states",
+    "kind": "event",
+    "importance": 4,
+    "location": {
+      "lat": 45.464,
+      "lon": 9.19,
+      "label": "Milan; representative setting named Mediolanum in the translated account",
+      "labelI18n": {
+        "en": "Milan; representative setting named Mediolanum in the translated account",
+        "zh": "米兰；翻译文献中称作梅迪奥拉努姆的代表地点"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "A translated account of the 313 arrangements associated with Milan names Constantine and Licinius and sets out freedom of worship for Christians and people of other religions. It also directs the return of property belonging to Christian communities. These measures followed an earlier toleration edict issued under Galerius in 311.\n\nA statement of imperial policy does not prove that every official implemented it immediately or that all religious persecution ended everywhere. Nor did the 313 arrangements make Christianity the official religion of the Roman Empire. The 325 Council of Nicaea was a later and different event. Milan identifies the setting in the translated account, not the boundaries of a religious community.",
+      "zh": "一份关于313年米兰相关措施的翻译文献提到君士坦丁与李锡尼，提出给予基督徒及其他宗教信众礼拜自由，并要求归还基督徒社群的财产。这些措施发生在伽列里乌于311年颁布较早的宽容敕令之后。\n\n帝国政策的声明不能证明所有官员立即执行，也不能证明各地宗教迫害全部结束。313年的措施也没有使基督教成为罗马帝国的官方宗教。325年尼西亚会议是后来的另一事件。米兰是翻译文献所述的背景地点，并非宗教社群的边界。"
+    },
+    "dateNote": {
+      "en": "313 CE is the focus of the translated toleration account; it differs from the 311 edict, the 325 council and later policies.",
+      "zh": "公元313年是所引宽容措施译文的关注节点，有别于311年敕令、325年会议及后来的政策。"
+    },
+    "relatedIds": [
+      "early-christianity-jewish-context",
+      "council-of-nicaea-325",
+      "christian-jewish-communities-late-antiquity"
+    ],
+    "sources": [
+      {
+        "title": "Galerius and Constantine: Edicts of Toleration 311/313 AD",
+        "url": "https://sourcebooks.web.fordham.edu/source/edict-milan.asp",
+        "publisher": "Internet History Sourcebooks Project, hosted by Fordham University",
+        "evidenceNote": "Directly inspected the 313 section translating Lactantius, chapter 48: Constantine and Licinius meet near Mediolanum, allow Christians and others freedom of worship, and direct restoration of Christian communal property. This is a later translated literary transmission; declared policy does not prove consistent implementation or that all persecution stopped.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Politics and the world of faith in late antiquity – 1700 years of the Council of Nicaea",
+        "url": "https://www.carnuntum.at/en/magazine/politics-and-the-world-of-faith-in-late-antiquity-1700-years-of-the-council-of-nicaea/1314",
+        "publisher": "Nisa Iduna Kirchengast / Roman City of Carnuntum",
+        "evidenceNote": "Directly inspected the museum’s 2025 exhibition explainer: it dates the 313 Milan toleration policy and Constantine’s council at Nicaea to 325, and describes bishops’ debate over Arius and a creed. Its broad statement that persecution ended is not treated as proof that all persecution stopped everywhere.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "expansion": {
+      "release": 8,
+      "edition": "v14",
+      "workstreams": [
+        "EU1",
+        "WA1"
+      ],
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "The online edition reproduces a translation of Lactantius rather than a separately inspected original inscription; its declaration must not be equated with uniform local enforcement.",
+        "zh": "网络版本转载拉克坦提乌斯文本的译文，并非另行查阅的原始铭刻；其中声明不能等同于各地一致执行。"
+      }
+    }
+  }
+]

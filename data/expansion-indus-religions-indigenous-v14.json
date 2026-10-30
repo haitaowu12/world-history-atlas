@@ -1,0 +1,323 @@
+[
+  {
+    "id": "indus-civilization-urban-networks",
+    "title": {
+      "en": "Indus civilization · Cities and regional networks",
+      "zh": "印度河文明 · 城市与区域联系"
+    },
+    "start": -2600,
+    "end": -1900,
+    "region": "south-asia",
+    "theme": "cities",
+    "kind": "culture",
+    "importance": 4,
+    "location": {
+      "lat": 27.329,
+      "lon": 68.138,
+      "label": "Mohenjo-daro, one illustrative city; not the center or boundary of the whole civilization",
+      "labelI18n": {
+        "en": "Mohenjo-daro, one illustrative city; not the center or boundary of the whole civilization",
+        "zh": "摩亨佐达罗，一处示例城市；不是整个文明的中心或边界"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Around 2600–1900 BCE, large settlements including Mohenjo-daro and Dholavira formed part of a wider Indus or Harappan archaeological tradition. Street plans, wells, drains and craft production offer evidence of different forms of urban life. Shared material styles and connections do not prove that all cities belonged to one centrally ruled empire. Researchers continue to debate the relationships among settlements and how political authority was organized.\n\nThe surviving archaeological evidence does not provide a complete account of rulers, languages or beliefs. The map point identifies one illustrative city. It is not a reconstruction of the extent of Indus settlement, a migration route or an ethnic boundary.",
+      "zh": "约公元前2600—前1900年，摩亨佐达罗和多拉维拉等大型聚落属于更广泛的印度河或哈拉帕考古传统。街道、井、排水设施和手工业遗存呈现不同的城市生活；物质风格和联系相似，并不能证明所有城市都属于一个中央集权帝国。研究者仍在讨论聚落之间的关系和政治权力如何组织。\n\n现存考古证据不能作为对统治者、语言或信仰的完整记载。地图点只标示一处示例城市，不复原聚落范围、迁徙路线或族群边界。"
+    },
+    "dateNote": {
+      "en": "Approximate mature urban focus c. 2600–1900 BCE, not exact foundation or abandonment years for every settlement.",
+      "zh": "约公元前2600—前1900年为成熟城市阶段的概略关注期，并非每个聚落精确的建立或废弃年代。"
+    },
+    "relatedIds": [
+      "mohenjo-daro",
+      "dholavira",
+      "indus-post-urban-transformations"
+    ],
+    "sources": [
+      {
+        "title": "Landscapes of Urbanization and De-Urbanization: A Large-Scale Approach to Investigating the Indus Civilization’s Settlement Distributions in Northwest India",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7665814/",
+        "publisher": "Adam S. Green and Cameron A. Petrie / Journal of Field Archaeology",
+        "evidenceNote": "The directly inspected article discusses mature urbanism c. 2600–1900 BCE, varied post-1900 settlement change and limitations in uneven archaeological survey. The authors consider whether large cities may have been politically distinct; the article does not define a single state boundary.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      },
+      {
+        "title": "Mohenjo-daro!",
+        "url": "https://www.harappa.com/slideshows/mohenjo-daro",
+        "publisher": "Harappa.com / Jonathan Mark Kenoyer",
+        "evidenceNote": "The previously inspected archaeologist-led overview dates the city’s flourishing c. 2600–1900 BCE and documents urban features. It is a site overview, not evidence for a single Indus-wide government.",
+        "checkedAt": "2026-10-21",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "expansion": {
+      "release": 8,
+      "edition": "v14",
+      "workstreams": [
+        "SA1"
+      ],
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "The selected archaeological survey and site overview do not settle political institutions, language or the interpretation of Indus signs.",
+        "zh": "所选考古调查与遗址介绍不能解决政治制度、语言或印度河文字释读问题。"
+      }
+    },
+    "regionalAssociation": "omit-broad-point"
+  },
+  {
+    "id": "indus-post-urban-transformations",
+    "title": {
+      "en": "Indus civilization after the major cities · Regional change",
+      "zh": "大城市之后的印度河文明 · 地区变迁"
+    },
+    "start": -1900,
+    "end": -1600,
+    "region": "south-asia",
+    "theme": "cities",
+    "kind": "culture",
+    "importance": 4,
+    "location": {
+      "lat": 29.9,
+      "lon": 76.1,
+      "label": "Northwestern Indian research region; a general reference, not a single excavated settlement",
+      "labelI18n": {
+        "en": "Northwestern Indian research region; a general reference, not a single excavated settlement",
+        "zh": "印度西北研究区域；概略参照，并非某个发掘聚落"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "After about 1900 BCE, many large Indus cities changed or declined, but settlement did not simply stop across the region. Green and Petrie’s analysis finds varied patterns: some surveyed parts of northwestern India had more, often smaller and dispersed sites. Different places changed at different times, and uneven archaeological surveys make comparisons uncertain.\n\nThis evidence supports a story of transformation and continuing communities rather than a single sudden disappearance. The broad marker is only a research-area reference; it does not identify a political center, population movement or a reconstructed border.",
+      "zh": "约公元前1900年以后，许多印度河大城市发生变化或衰落，但区域内的定居活动并未一概停止。格林与皮特里的分析发现了不同模式：在印度西北部分调查区域，遗址数量增加，而且往往更小、更分散。各地变化时间不一，考古调查覆盖的不均衡也使比较存在不确定性。\n\n这些证据支持关于变化与社群延续的叙述，而非一次突然消失的结论。概略点仅为研究区域参照，不代表政治中心、人口迁徙或复原边界。"
+    },
+    "dateNote": {
+      "en": "Approximate post-urban research focus c. 1900–1600 BCE; neither a single collapse date nor an end to regional communities.",
+      "zh": "约公元前1900—前1600年为后城市阶段的研究关注期，既不是统一的崩溃日期，也不是地区社群的终结。"
+    },
+    "relatedIds": [
+      "indus-civilization-urban-networks",
+      "dholavira",
+      "vedic-oral-transmission"
+    ],
+    "sources": [
+      {
+        "title": "Landscapes of Urbanization and De-Urbanization: A Large-Scale Approach to Investigating the Indus Civilization’s Settlement Distributions in Northwest India",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7665814/",
+        "publisher": "Adam S. Green and Cameron A. Petrie / Journal of Field Archaeology",
+        "evidenceNote": "The directly inspected article discusses mature urbanism c. 2600–1900 BCE, varied post-1900 settlement change and limitations in uneven archaeological survey. The authors consider whether large cities may have been politically distinct; the article does not define a single state boundary.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "expansion": {
+      "release": 8,
+      "edition": "v14",
+      "workstreams": [
+        "SA1"
+      ],
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "The authors analyze particular surveyed regions and explicitly describe data limitations. Continuity in settlement does not establish a simple identity or language succession.",
+        "zh": "作者分析的是特定调查区域，并明确指出数据局限；聚落延续不能直接证明单一的身份或语言继承。"
+      }
+    },
+    "regionalAssociation": "omit-broad-point"
+  },
+  {
+    "id": "sivullirmiut-early-arctic-history",
+    "title": {
+      "en": "Sivullirmiut · Earlier Arctic histories",
+      "zh": "西乌利米乌特 · 北极早期历史"
+    },
+    "start": -3000,
+    "end": -3000,
+    "region": "north-america",
+    "theme": "culture",
+    "kind": "culture",
+    "importance": 4,
+    "location": {
+      "lat": 69.5,
+      "lon": -82.0,
+      "label": "Eastern Canadian Arctic; broad reference, not a dated excavation or route",
+      "labelI18n": {
+        "en": "Eastern Canadian Arctic; broad reference, not a dated excavation or route",
+        "zh": "加拿大东部北极地区；概略参照，并非有确切年代的发掘点或路线"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "The Inuit section of the Indigenous Peoples Atlas of Canada describes Sivullirmiut as earlier Arctic peoples and discusses archaeological categories including Pre-Dorset, Independence and Dorset. It places an eastward movement approximately 5,000 years ago and brings archaeological interpretations into conversation with Inuit Elders’ accounts. These are distinct kinds of evidence, and labels used by archaeologists should not be mistaken for ancient self-names.\n\nThe source also describes later Thule ancestors and contemporary Inuit life. It notes that overlapping periods do not themselves establish encounters between groups. A single point cannot trace these histories, their movements or a boundary; Inuit communities remain living communities with their own knowledge and regional histories.",
+      "zh": "《加拿大原住民地图集》的因纽特部分介绍西乌利米乌特（Sivullirmiut）等较早的北极人群，并讨论前多塞特、因迪彭登斯和多塞特等考古分类。该资料把一次向东的移动大致置于距今约五千年前，同时把考古解释与因纽特长者的叙述并置。这些属于不同类型的证据；考古学者使用的名称不应误作古代人群的自称。\n\n该资料也介绍后来的图勒祖先与当代因纽特生活，并指出不同群体的年代重叠本身不能证明他们相遇。单一地图点无法描绘这些历史、移动或边界；因纽特社群至今仍在延续，拥有自己的知识与地方历史。"
+    },
+    "dateNote": {
+      "en": "An approximate 3000 BCE anchor translates the source’s “around 5,000 years ago”; it is not a precise migration year, occupation span or endpoint for a people.",
+      "zh": "约公元前3000年是将来源的“距今约五千年”转换为概略锚点，并非精确迁徙年份、居住时段或人群的终点。"
+    },
+    "relatedIds": [
+      "inuit-thule-mobility",
+      "haudenosaunee-great-law"
+    ],
+    "sources": [
+      {
+        "title": "Early History",
+        "url": "https://indigenouspeoplesatlasofcanada.ca/article/early-history/",
+        "publisher": "Indigenous Peoples Atlas of Canada / Inuit section",
+        "evidenceNote": "Directly inspected the Inuit-section account of Sivullirmiut, archaeological labels, an eastward movement around 5,000 years ago, Inuit Elders’ accounts, later Thule adaptations and living Inuit life. This account does not establish a universal chronology or a mapped route.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "expansion": {
+      "release": 8,
+      "edition": "v14",
+      "workstreams": [
+        "NA1"
+      ],
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "This is one Inuit-section account; archaeological labels and chronology differ by region. A point cannot establish a movement track or the relationship of every later community to earlier peoples.",
+        "zh": "这是一份因纽特视角的资料；考古名称和年代因地区而异。点位不能证明移动轨迹，也不能确定所有后世社群与早期人群的关系。"
+      }
+    },
+    "regionalAssociation": "omit-broad-point"
+  },
+  {
+    "id": "indigenous-north-america-nations-continuity",
+    "title": {
+      "en": "Indigenous North America · Nations, knowledge and continuity",
+      "zh": "北美原住民 · 民族、知识与延续"
+    },
+    "start": 1400,
+    "end": 2026,
+    "region": "north-america",
+    "theme": "culture",
+    "kind": "culture",
+    "importance": 4,
+    "location": {
+      "lat": 45.0,
+      "lon": -83.0,
+      "label": "Great Lakes region; broad orientation for several distinct North American histories",
+      "labelI18n": {
+        "en": "Great Lakes region; broad orientation for several distinct North American histories",
+        "zh": "大湖地区；几段不同北美历史的概略方位参照"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Indigenous North America encompasses many nations, languages and systems of government; it cannot be reduced to a single culture or an empty landscape before European settlement. The Haudenosaunee Great Law describes relationships among nations and responsibilities of councils and clan mothers. Its precise founding date remains debated, and Haudenosaunee institutions continue.\n\nElsewhere, Leech Lake Ojibwe accounts connect manoomin, or wild rice, with the health of waters and responsibilities to future generations. On the Northwest Coast, the U’mista Cultural Centre describes Kwakwaka’wakw potlatch prohibition, the 1921 gathering and the later return of confiscated belongings. These are different community histories, not interchangeable examples of one tradition.\n\nThe selected reading window brings these accounts into comparison with earlier Indigenous sites and later Indigenous leadership. Colonial suppression and dispossession are part of the story; they do not mean that Indigenous nations or their knowledge disappeared. The marker is a geographic orientation, not a claim to a shared territorial boundary.",
+      "zh": "北美原住民包含众多民族、语言和治理体系；不能把他们简化成一种文化，也不能把欧洲人定居之前的土地视为空白。豪德诺索尼的《和平大法》描述民族之间的关系，以及议会和氏族母亲的责任。其确切建立年代仍有讨论，豪德诺索尼的制度延续至今。\n\n另一些地区有不同历史：利奇湖奥吉布瓦人的叙述把菰米（manoomin）与水域健康及对子孙的责任联系起来；西北海岸的乌米斯塔文化中心讲述夸夸卡瓦夸人的赠礼宴禁令、1921年聚会和被没收物品的后续归还。这些是不同社群的历史，并非同一传统的可互换例子。\n\n这个精选阅读时段把上述叙述与更早的原住民遗址及后来的原住民领导力相比较。殖民压制和剥夺是历史的一部分，但不表示原住民族或其知识已经消失。地图点仅供地理定位，并非共同领土边界。"
+    },
+    "dateNote": {
+      "en": "1400–2026 is an editorial comparison window, not a founding date for any nation, an uninterrupted shared political territory or the end of living histories.",
+      "zh": "1400—2026年是编辑选取的比较时段，不是任何民族的创立日期、持续存在的共同政治疆域，也不是活态历史的终点。"
+    },
+    "relatedIds": [
+      "haudenosaunee-great-law",
+      "ojibwe-manoomin-waters",
+      "kwakwakawakw-potlatch-repatriation",
+      "person-wilma-mankiller"
+    ],
+    "sources": [
+      {
+        "title": "Haudenosaunee Guide for Educators",
+        "url": "https://americanindian.si.edu/sites/1/files/pdf/education/HaudenosauneeGuide.pdf",
+        "publisher": "Smithsonian National Museum of the American Indian",
+        "evidenceNote": "Previously inspected a community-informed guide describing the Great Law, clan mothers and council institutions; it does not establish an uncontested founding year.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "opened-page-extract"
+      },
+      {
+        "title": "Leech Lake Ojibwe — Get Started",
+        "url": "https://americanindian.si.edu/environment/ojibwe/GetStarted.cshtml",
+        "publisher": "Smithsonian National Museum of the American Indian",
+        "evidenceNote": "Previously inspected the Leech Lake community account of manoomin, habitat and preservation. It represents a specific community rather than every Anishinaabe account.",
+        "checkedAt": "2026-10-23",
+        "retrieval": "opened-page-extract"
+      },
+      {
+        "title": "The History of the Potlatch Collection",
+        "url": "https://www.umista.ca/pages/collection-history",
+        "publisher": "U’mista Cultural Centre",
+        "evidenceNote": "Previously inspected the community account of potlatch prohibition, the 1921 gathering, confiscation and collective repatriation. This source describes a specific Kwakwaka’wakw history.",
+        "checkedAt": "2026-10-26",
+        "retrieval": "inspected-text"
+      }
+    ],
+    "expansion": {
+      "release": 8,
+      "edition": "v14",
+      "workstreams": [
+        "NA1",
+        "NA2",
+        "NA3"
+      ],
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "The selected Haudenosaunee, Leech Lake Ojibwe and Kwakwaka’wakw sources speak to distinct places and histories; the overview cannot represent all Indigenous nations or replace community review.",
+        "zh": "所选豪德诺索尼、利奇湖奥吉布瓦和夸夸卡瓦夸来源对应不同地点与历史；总览不能代表所有原住民族，也不能取代社群审阅。"
+      }
+    },
+    "regionalAssociation": "omit-broad-point"
+  },
+  {
+    "id": "hinduism-living-traditions",
+    "title": {
+      "en": "Hinduism · Living traditions and communities",
+      "zh": "印度教 · 活态传统与社群"
+    },
+    "start": 2000,
+    "end": 2026,
+    "region": "north-america",
+    "theme": "culture",
+    "kind": "idea",
+    "importance": 4,
+    "location": {
+      "lat": 42.374,
+      "lon": -71.116,
+      "label": "Cambridge, Massachusetts; location of the project documenting religious communities, not an origin site",
+      "labelI18n": {
+        "en": "Cambridge, Massachusetts; location of the project documenting religious communities, not an origin site",
+        "zh": "美国马萨诸塞州剑桥；记录宗教社群项目所在地，并非发源地"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Hinduism is a living family of religious traditions rather than a community confined to an ancient period. Harvard’s Pluralism Project introduces Hinduism through contemporary religious life and identifies Hindu centers in the United States. This source offers one window on present communities; those centers do not define all Hindu beliefs or practices.\n\nRelated readings can compare this contemporary view with Vedic oral transmission and South Asian religious places. Such a comparison does not make Vedic traditions identical to all modern Hindu practice or assign one founder, uniform history or territorial border to Hinduism. Communities interpret and live their traditions in many contexts today.",
+      "zh": "印度教是一系列延续至今的宗教传统，而不是只存在于古代的社群。哈佛大学多元宗教项目通过当代宗教生活介绍印度教，并列出美国的印度教中心。这一来源只是观察当代社群的一扇窗口，不能用这些中心概括所有印度教信仰或实践。\n\n相关阅读可将当代视角与吠陀口传及南亚宗教地点比较。这种比较不应把吠陀传统等同于所有现代印度教实践，也不能为印度教指定单一创始人、整齐划一的历史或领土边界。如今社群在多种语境中理解并实践自己的传统。"
+    },
+    "dateNote": {
+      "en": "2000–2026 is an editorial window for contemporary communities, not the origin or end of Hindu traditions. The selected project page was inspected for its contemporary scope, not a detailed historical chronology.",
+      "zh": "2000—2026年是当代社群的编辑关注时段，不是印度教传统的起源或终点。所选项目页面只用于核查其当代范围，并非详细历史编年。"
+    },
+    "relatedIds": [
+      "vedic-oral-transmission",
+      "jain-ascetic-communities"
+    ],
+    "sources": [
+      {
+        "title": "Hinduism",
+        "url": "https://pluralism.org/hinduism",
+        "publisher": "Harvard University, The Pluralism Project",
+        "evidenceNote": "Directly inspected the visible Hinduism hub’s Greater Boston account of worship and festivals in homes and rented halls, later temples and Hindu centers. The detailed historical chronology was not accessible in the expandable section; no ancient dates are derived from it.",
+        "checkedAt": "2026-10-27",
+        "retrieval": "inspected-selected-sections"
+      }
+    ],
+    "expansion": {
+      "release": 8,
+      "edition": "v14",
+      "workstreams": [
+        "SA1",
+        "NA3"
+      ],
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "The inspected project hub offers a contemporary Greater Boston perspective, not a complete account of Hindu traditions worldwide or their ancient chronology.",
+        "zh": "已查看的项目主页提供当代大波士顿视角，并非全球印度教传统或其古代编年的完整说明。"
+      }
+    },
+    "regionalAssociation": "omit-broad-point"
+  }
+]

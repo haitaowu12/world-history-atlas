@@ -1,0 +1,3525 @@
+{
+  "version": 4,
+  "license": "Multiple independent datasets; see layers and accompanying notices",
+  "sourceRepository": "https://github.com/aourednik/historical-basemaps",
+  "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+  "method": {
+    "en": "Actual source-year polygons plus independently bounded political and cultural context intervals. Names and outlines remain dated; later outlines are used only when backward review is explicit. A culture is not presented as a sovereign state.",
+    "zh": "使用真实来源年份的图形，并分别复核政治与文化背景的适用时段。名称和轮廓保留日期；只有明确复核后才可参考较晚轮廓。文化区域不视为主权国家。"
+  },
+  "snapshots": [
+    {
+      "year": -2000,
+      "label": {
+        "en": "2000 BCE",
+        "zh": "公元前2000年"
+      },
+      "title": {
+        "en": "Reviewed historical source checkpoint",
+        "zh": "已复核的历史来源节点"
+      },
+      "featureIds": [
+        "-2000-kerma",
+        "-2000-indus",
+        "-2000-minoan"
+      ],
+      "featureCount": 3,
+      "file": "world_bc2000.geojson",
+      "sourceSha256": "9d08a2390ca3d82f46eccfe97f44949922b69e4bb733f0fc2120e579de52a5d3"
+    },
+    {
+      "year": -1500,
+      "label": {
+        "en": "1500 BCE",
+        "zh": "公元前1500年"
+      },
+      "title": {
+        "en": "Reviewed historical source checkpoint",
+        "zh": "已复核的历史来源节点"
+      },
+      "featureIds": [
+        "-1500-babylonia-kassite",
+        "-1500-egypt-new-kingdom"
+      ],
+      "featureCount": 2,
+      "file": "world_bc1500.geojson",
+      "sourceSha256": "b17e8fab42e47b09fa8d52941d9fd55e03b0e3ba22dd0a71ad20f76e517ce485"
+    },
+    {
+      "year": -1000,
+      "label": {
+        "en": "1000 BCE",
+        "zh": "公元前1000年"
+      },
+      "title": {
+        "en": "Reviewed historical source checkpoint",
+        "zh": "已复核的历史来源节点"
+      },
+      "featureIds": [
+        "-1000-assyria",
+        "-1000-babylonia",
+        "-1000-egypt-divided",
+        "early--1000-zhou-regional",
+        "early--1000-olmec-region"
+      ],
+      "featureCount": 5,
+      "file": "world_bc1000.geojson",
+      "sourceSha256": "ace64cae988ab72ab5536b76e052a9564eed81390404bccbc5e6a48ac646d7fc"
+    },
+    {
+      "year": -700,
+      "label": {
+        "en": "700 BCE",
+        "zh": "公元前700年"
+      },
+      "title": {
+        "en": "Reviewed historical source checkpoint",
+        "zh": "已复核的历史来源节点"
+      },
+      "featureIds": [
+        "-700-assyria",
+        "-700-babylonia",
+        "-700-kushite-egypt",
+        "early--700-zhou-regional",
+        "early--700-greek-regions"
+      ],
+      "featureCount": 5,
+      "file": "world_bc700.geojson",
+      "sourceSha256": "83515442984c57d4939c7fb236f16e8ab88411b76a26214cdf86b390ae36965c"
+    },
+    {
+      "year": -500,
+      "label": {
+        "en": "500 BCE",
+        "zh": "公元前500年"
+      },
+      "title": {
+        "en": "Mediterranean and Persian powers",
+        "zh": "地中海与波斯诸强"
+      },
+      "featureIds": [
+        "-500-achaemenid",
+        "-500-carthage",
+        "-500-kush",
+        "early--500-zhou-regional",
+        "early--500-greek-regions",
+        "early--500-olmec-region"
+      ],
+      "featureCount": 6,
+      "file": "world_bc500.geojson",
+      "sourceSha256": "f72bc06ca45a9f680f20ef6007aaccd13a929cd1b632bd0fb41f161cb51ba3f6"
+    },
+    {
+      "year": -400,
+      "label": {
+        "en": "400 BCE",
+        "zh": "公元前400年"
+      },
+      "title": {
+        "en": "Reviewed historical source checkpoint",
+        "zh": "已复核的历史来源节点"
+      },
+      "featureIds": [
+        "-400-roman-republic",
+        "early--400-greek-regions"
+      ],
+      "featureCount": 2,
+      "file": "world_bc400.geojson",
+      "sourceSha256": "7c657b265b2896744efa2c56dd66f0f4a8e647f9dd3c3fbe2c4575515e4b260b"
+    },
+    {
+      "year": -323,
+      "label": {
+        "en": "323 BCE",
+        "zh": "公元前323年"
+      },
+      "title": {
+        "en": "Alexander’s conquests",
+        "zh": "亚历山大的征服"
+      },
+      "featureIds": [
+        "-323-alexander",
+        "-323-carthage",
+        "-323-kush",
+        "early--323-paracas-region",
+        "early--323-maya-region"
+      ],
+      "featureCount": 5,
+      "file": "world_bc323.geojson",
+      "sourceSha256": "3e90c33ce668d9559b52b501a8a8d5607e4cc86c4131dac30ae9aa4d6e9a7616"
+    },
+    {
+      "year": -300,
+      "label": {
+        "en": "300 BCE",
+        "zh": "公元前300年"
+      },
+      "title": {
+        "en": "Reviewed historical source checkpoint",
+        "zh": "已复核的历史来源节点"
+      },
+      "featureIds": [
+        "-300-roman-republic",
+        "-300-seleucid",
+        "-300-ptolemaic",
+        "-300-maurya",
+        "-300-kush",
+        "-300-carthage"
+      ],
+      "featureCount": 6,
+      "file": "world_bc300.geojson",
+      "sourceSha256": "d181645f7963e893fc5502a496c14927316939a2a38cba7722a38b75f80cf633"
+    },
+    {
+      "year": -250,
+      "label": {
+        "en": "250 BCE",
+        "zh": "公元前250年"
+      },
+      "title": {
+        "en": "Warring States · approximate reference",
+        "zh": "战国列国 · 概略参照"
+      },
+      "featureIds": [
+        "cc0--250-qin-warring",
+        "cc0--250-zhao-warring",
+        "cc0--250-yan-warring",
+        "cc0--250-chu-warring",
+        "cc0--250-han-warring",
+        "cc0--250-qi-warring",
+        "cc0--250-wei-warring"
+      ],
+      "featureCount": 7,
+      "file": "Warring_States_c._250_BC.svg",
+      "sourceSha256": "736b1fe6313cfe8733f93c2c8e86471cc881583989a75da2502e3baecfadc304"
+    },
+    {
+      "year": -200,
+      "label": {
+        "en": "200 BCE",
+        "zh": "公元前200年"
+      },
+      "title": {
+        "en": "Reviewed historical source checkpoint",
+        "zh": "已复核的历史来源节点"
+      },
+      "featureIds": [
+        "-200-roman-republic",
+        "-200-seleucid",
+        "-200-ptolemaic",
+        "-200-maurya",
+        "-200-han",
+        "-200-parthian",
+        "-200-kush"
+      ],
+      "featureCount": 7,
+      "file": "world_bc200.geojson",
+      "sourceSha256": "e192a3330a7e51358b61a6bfffaf6ff3e9ebf4eb96b532a23632316e86066a80"
+    },
+    {
+      "year": -100,
+      "label": {
+        "en": "100 BCE",
+        "zh": "公元前100年"
+      },
+      "title": {
+        "en": "Reviewed historical source checkpoint",
+        "zh": "已复核的历史来源节点"
+      },
+      "featureIds": [
+        "-100-roman-republic",
+        "-100-ptolemaic",
+        "-100-han",
+        "-100-parthian",
+        "-100-kush"
+      ],
+      "featureCount": 5,
+      "file": "world_bc100.geojson",
+      "sourceSha256": "80ce07508ef86b4c4943193d7562578dc1150976bd0eb07581c620acf3044874"
+    },
+    {
+      "year": -1,
+      "label": {
+        "en": "1 BCE",
+        "zh": "公元前1年"
+      },
+      "title": {
+        "en": "Rome, Parthia and Han",
+        "zh": "罗马、安息与汉朝"
+      },
+      "featureIds": [
+        "-1-roman",
+        "-1-parthian",
+        "-1-han",
+        "-1-kush"
+      ],
+      "featureCount": 4,
+      "file": "world_bc1.geojson",
+      "sourceSha256": "830fac0104ebafff7b576333cd5ab4a9bf4b6f732ddf828cec47797cf65047cb"
+    },
+    {
+      "year": 100,
+      "label": {
+        "en": "100 CE",
+        "zh": "公元100年"
+      },
+      "title": {
+        "en": "Reviewed historical source checkpoint",
+        "zh": "已复核的历史来源节点"
+      },
+      "featureIds": [
+        "100-han",
+        "100-parthian",
+        "100-kush",
+        "early-100-kushan-northern",
+        "gaps-100-satavahana",
+        "gaps-100-aksum"
+      ],
+      "featureCount": 6,
+      "file": "world_100.geojson",
+      "sourceSha256": "d3dba3d4988e481d6438821b7fad847946f7d549c602ebc5a3b49c508358f6ef"
+    },
+    {
+      "year": 200,
+      "label": {
+        "en": "200 CE",
+        "zh": "公元200年"
+      },
+      "title": {
+        "en": "Rome, Parthia and the late Han",
+        "zh": "罗马、安息与汉末"
+      },
+      "featureIds": [
+        "200-parthian",
+        "200-han",
+        "200-kush",
+        "200-roman",
+        "gaps-200-satavahana",
+        "gaps-200-aksum"
+      ],
+      "featureCount": 6,
+      "file": "world_200.geojson",
+      "sourceSha256": "ef811868efee04b5ae7cfe23538091f1cfa75534ecfad14d754d9cc690b2d2c7"
+    },
+    {
+      "year": 300,
+      "label": {
+        "en": "300 CE",
+        "zh": "公元300年"
+      },
+      "title": {
+        "en": "Selected regional source checkpoint",
+        "zh": "精选区域来源节点"
+      },
+      "featureIds": [
+        "gaps-300-aksum"
+      ],
+      "featureCount": 1,
+      "file": "world_300.geojson",
+      "sourceSha256": "86e6a21cd7a26230184abc57ed042bd9264b569b76406f79ace8618d625b3297"
+    },
+    {
+      "year": 375,
+      "label": {
+        "en": "375 CE",
+        "zh": "公元375年"
+      },
+      "title": {
+        "en": "Gupta and Vakataka core schematics",
+        "zh": "笈多与伐迦陀迦核心区示意"
+      },
+      "featureIds": [
+        "gupta-schematic-375-gupta-core",
+        "gupta-schematic-375-vakataka-core",
+        "later-gupta-375-early",
+        "later-gupta-375-late"
+      ],
+      "featureCount": 4,
+      "file": "territories-gupta-schematic-375.geojson",
+      "sourceSha256": "b7825f1f66b8143ad5de591dd398b9396b4eed2229ea44bf57cafb7c57931b25"
+    },
+    {
+      "year": 400,
+      "label": {
+        "en": "400 CE",
+        "zh": "公元400年"
+      },
+      "title": {
+        "en": "Reviewed historical source checkpoint",
+        "zh": "已复核的历史来源节点"
+      },
+      "featureIds": [
+        "400-byzantine",
+        "400-western-roman",
+        "400-sasanian"
+      ],
+      "featureCount": 3,
+      "file": "world_400.geojson",
+      "sourceSha256": "3a3cf57e1d117e81b49b9344af49b73fec0674aa14e7d1d1f1d345d08f9ce1f7"
+    },
+    {
+      "year": 450,
+      "label": {
+        "en": "450 CE",
+        "zh": "公元450年"
+      },
+      "title": {
+        "en": "Gupta and Vakataka core schematics",
+        "zh": "笈多与伐迦陀迦核心区示意"
+      },
+      "featureIds": [
+        "gupta-schematic-450-gupta-core",
+        "gupta-schematic-450-vakataka-core"
+      ],
+      "featureCount": 2,
+      "file": "territories-gupta-schematic-450.geojson",
+      "sourceSha256": "50c1e11a8d2bc651644492265f6d4ca6b2e16eb0ad9b6816f4b1bb2df9492904"
+    },
+    {
+      "year": 500,
+      "label": {
+        "en": "500 CE",
+        "zh": "公元500年"
+      },
+      "title": {
+        "en": "Reviewed historical source checkpoint",
+        "zh": "已复核的历史来源节点"
+      },
+      "featureIds": [
+        "500-byzantine",
+        "500-sasanian",
+        "500-frankish",
+        "500-aksum",
+        "early-500-maya-region",
+        "gaps-500-funan-region",
+        "gaps-500-champa"
+      ],
+      "featureCount": 7,
+      "file": "world_500.geojson",
+      "sourceSha256": "06f7512efec9151b91b5967e8bee3e2dacf8c623e8719de8c64a996bec5ec2c1"
+    },
+    {
+      "year": 550,
+      "label": {
+        "en": "550 CE",
+        "zh": "公元550年"
+      },
+      "title": {
+        "en": "South Asian successor court schematics",
+        "zh": "南亚后继宫廷示意"
+      },
+      "featureIds": [
+        "gupta-successor-550-later-gupta-court",
+        "gupta-successor-550-maukhari-court",
+        "gupta-successor-550-chalukya-badami"
+      ],
+      "featureCount": 3,
+      "file": "territories-gupta-successors-550.geojson",
+      "sourceSha256": "ba37bcd11d5975d6f94bfb634f4692df95c3d8fadbe470751fa3882c9afa1d96"
+    },
+    {
+      "year": 590,
+      "label": {
+        "en": "590 CE",
+        "zh": "公元590年"
+      },
+      "title": {
+        "en": "South Asian successor court schematics",
+        "zh": "南亚后继宫廷示意"
+      },
+      "featureIds": [
+        "gupta-successor-590-later-gupta-court",
+        "gupta-successor-590-maukhari-court",
+        "gupta-successor-590-chalukya-badami",
+        "gupta-successor-590-pushyabhuti-court"
+      ],
+      "featureCount": 4,
+      "file": "territories-gupta-successors-590.geojson",
+      "sourceSha256": "6ea5bdcfb6c2e6c138e158ba3080b48f1e064b6890b098a9012c0caf73983175"
+    },
+    {
+      "year": 600,
+      "label": {
+        "en": "600 CE",
+        "zh": "公元600年"
+      },
+      "title": {
+        "en": "Late antiquity and Sui reunification",
+        "zh": "古代晚期与隋朝统一"
+      },
+      "featureIds": [
+        "600-sasanian",
+        "600-byzantine",
+        "600-frankish",
+        "600-sui",
+        "gaps-600-pallava",
+        "gaps-600-chalukya-badami",
+        "gaps-600-dvaravati-region",
+        "gaps-600-champa"
+      ],
+      "featureCount": 8,
+      "file": "world_600.geojson",
+      "sourceSha256": "e8d285de5d4257c55158979e866191d13464abc74e3082fb5f2065b357beec7a"
+    },
+    {
+      "year": 700,
+      "label": {
+        "en": "700 CE",
+        "zh": "公元700年"
+      },
+      "title": {
+        "en": "Reviewed historical source checkpoint",
+        "zh": "已复核的历史来源节点"
+      },
+      "featureIds": [
+        "700-byzantine",
+        "700-frankish",
+        "early-700-wari-region",
+        "early-700-tiwanaku-region",
+        "gaps-700-pallava",
+        "gaps-700-chalukya-badami",
+        "gaps-700-dvaravati-region"
+      ],
+      "featureCount": 7,
+      "file": "world_700.geojson",
+      "sourceSha256": "bb66ebee15e57f5d43b0ca524dd9a230651bb821e7e002882b1981a25fd42a38"
+    },
+    {
+      "year": 800,
+      "label": {
+        "en": "800 CE",
+        "zh": "公元800年"
+      },
+      "title": {
+        "en": "Courts across Eurasia",
+        "zh": "欧亚大陆的诸王朝"
+      },
+      "featureIds": [
+        "800-abbasid",
+        "800-carolingian",
+        "800-tang",
+        "800-byzantine",
+        "800-ghana",
+        "early-800-maya-region",
+        "early-800-srivijaya",
+        "early-800-wari-region",
+        "early-800-tiwanaku-region",
+        "gaps-800-pallava",
+        "gaps-800-rashtrakuta",
+        "gaps-800-pala",
+        "gaps-800-gurjara-pratihara",
+        "gaps-800-kanem",
+        "gaps-800-dvaravati-region",
+        "gaps-800-champa"
+      ],
+      "featureCount": 16,
+      "file": "world_800.geojson",
+      "sourceSha256": "9d046cdc4662109c3f803ae46e2c8cba941aa092ec86eccc7823e6cf1554920c"
+    },
+    {
+      "year": 900,
+      "label": {
+        "en": "900 CE",
+        "zh": "公元900年"
+      },
+      "title": {
+        "en": "Reviewed historical source checkpoint",
+        "zh": "已复核的历史来源节点"
+      },
+      "featureIds": [
+        "900-byzantine",
+        "900-tang",
+        "900-abbasid",
+        "900-ghana",
+        "900-khmer",
+        "900-east-francia",
+        "900-west-francia",
+        "900-samanid",
+        "gaps-900-rashtrakuta",
+        "gaps-900-pala",
+        "gaps-900-gurjara-pratihara",
+        "gaps-900-bagan"
+      ],
+      "featureCount": 12,
+      "file": "world_900.geojson",
+      "sourceSha256": "f483b93e799d6518830ed6da6c3772c49170872d0f07515981a53e71d8dbc74c"
+    },
+    {
+      "year": 1000,
+      "label": {
+        "en": "1000 CE",
+        "zh": "公元1000年"
+      },
+      "title": {
+        "en": "A world of regional powers",
+        "zh": "区域强国并立的世界"
+      },
+      "featureIds": [
+        "1000-byzantine",
+        "1000-fatimid",
+        "1000-song",
+        "1000-chola",
+        "1000-ghaznavid",
+        "1000-khmer",
+        "1000-ghana",
+        "1000-hre",
+        "1000-france",
+        "1000-england",
+        "early-1000-goryeo",
+        "early-1000-srivijaya",
+        "gaps-1000-chalukya-kalyani",
+        "gaps-1000-pala",
+        "gaps-1000-polonnaruwa",
+        "gaps-1000-kanem",
+        "gaps-1000-champa",
+        "gaps-1000-bagan"
+      ],
+      "featureCount": 18,
+      "file": "world_1000.geojson",
+      "sourceSha256": "2140776fd7888c1d4a30e8f6debdaf56192cdf49587f3b6bb67841930ca82d29"
+    },
+    {
+      "year": 1100,
+      "label": {
+        "en": "1100 CE",
+        "zh": "公元1100年"
+      },
+      "title": {
+        "en": "Reviewed historical source checkpoint",
+        "zh": "已复核的历史来源节点"
+      },
+      "featureIds": [
+        "1100-song",
+        "1100-liao",
+        "1100-seljuk",
+        "1100-hre",
+        "1100-france",
+        "1100-england",
+        "1100-khmer",
+        "1100-ghana",
+        "early-1100-goryeo",
+        "early-1100-chola",
+        "early-1100-srivijaya",
+        "gaps-1100-chalukya-kalyani"
+      ],
+      "featureCount": 12,
+      "file": "world_1100.geojson",
+      "sourceSha256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86"
+    },
+    {
+      "year": 1141,
+      "label": {
+        "en": "1141 CE",
+        "zh": "公元1141年"
+      },
+      "title": {
+        "en": "Reviewed historical map reference",
+        "zh": "已复核的历史地图参照"
+      },
+      "featureIds": [
+        "kiu-1141-song-early",
+        "kiu-1141-song-later",
+        "kiu-1141-jin-jurchen-early",
+        "kiu-1141-jin-jurchen-later",
+        "kiu-1141-western-xia-early",
+        "kiu-1141-western-xia-later"
+      ],
+      "featureCount": 6,
+      "file": "china-open-song-jin-1141-v18.geojson",
+      "sourceSha256": "e8530c4c9203ae3f9c779db718782b2df647b5e106f34a2ca934560455aa4eb4"
+    },
+    {
+      "year": 1200,
+      "label": {
+        "en": "1200 CE",
+        "zh": "公元1200年"
+      },
+      "title": {
+        "en": "Before the Mongol conquests",
+        "zh": "蒙古征服之前"
+      },
+      "featureIds": [
+        "1200-almohad",
+        "1200-khmer",
+        "1200-hre",
+        "1200-france",
+        "1200-angevin",
+        "early-1200-goryeo",
+        "early-1200-chola",
+        "early-1200-srivijaya",
+        "gaps-1200-wagadu-transition",
+        "gaps-1200-kanem",
+        "gaps-1200-champa",
+        "gaps-1200-bagan",
+        "transition-1200-kanem"
+      ],
+      "featureCount": 13,
+      "file": "world_1200.geojson",
+      "sourceSha256": "2d6913ecedb38e269e41d249c87874d81e3e8d7351754821f57e627442d91525"
+    },
+    {
+      "year": 1300,
+      "label": {
+        "en": "1300 CE",
+        "zh": "公元1300年"
+      },
+      "title": {
+        "en": "Mongol successor realms",
+        "zh": "蒙古诸汗国时代"
+      },
+      "featureIds": [
+        "1300-byzantine",
+        "1300-khmer",
+        "1300-mali",
+        "1300-mamluk",
+        "1300-ilkhanate",
+        "1300-yuan",
+        "1300-hre",
+        "1300-france",
+        "1300-england",
+        "early-1300-japan-kamakura",
+        "gaps-1300-delhi-sultanate",
+        "gaps-1300-ethiopia",
+        "gaps-1300-great-zimbabwe-region",
+        "gaps-1300-champa",
+        "gaps-1300-sukhothai",
+        "transition-1300-bornu"
+      ],
+      "featureCount": 16,
+      "file": "world_1300.geojson",
+      "sourceSha256": "a27985e60d936611d7933f0c30f1b52c36ef4a17225dfac25fb96abe40fa496f"
+    },
+    {
+      "year": 1400,
+      "label": {
+        "en": "1400 CE",
+        "zh": "公元1400年"
+      },
+      "title": {
+        "en": "Timur and his contemporaries",
+        "zh": "帖木儿与同时代诸国"
+      },
+      "featureIds": [
+        "1400-ottoman",
+        "1400-mamluk",
+        "1400-timurid",
+        "1400-mali",
+        "1400-khmer",
+        "1400-hre",
+        "1400-france",
+        "1400-england",
+        "early-1400-chimu",
+        "gaps-1400-ethiopia",
+        "gaps-1400-great-zimbabwe-region",
+        "gaps-1400-ayutthaya",
+        "transition-1400-bornu",
+        "transition-1400-ayutthaya-vassal",
+        "transition-1400-ayutthaya-transition",
+        "transition-1400-ayutthaya-restored"
+      ],
+      "featureCount": 16,
+      "file": "world_1400.geojson",
+      "sourceSha256": "c6b0efcb42d9520a1a724f981373296e84ea2c0a0527de7a06f8f9e2465eb6ec"
+    },
+    {
+      "year": 1415,
+      "label": {
+        "en": "1415 CE",
+        "zh": "公元1415年"
+      },
+      "title": {
+        "en": "Reviewed historical map reference",
+        "zh": "已复核的历史地图参照"
+      },
+      "featureIds": [
+        "herrmann-1415-ming"
+      ],
+      "featureCount": 1,
+      "file": "china-open-ming-1415-v18.geojson",
+      "sourceSha256": "b37627340c49d28ffba1a45b7c75e87e0dda408a6b5e0ead59c7e82faadb3180"
+    },
+    {
+      "year": 1500,
+      "label": {
+        "en": "1500 CE",
+        "zh": "公元1500年"
+      },
+      "title": {
+        "en": "Empires on several continents",
+        "zh": "多大陆的帝国"
+      },
+      "featureIds": [
+        "1500-ottoman",
+        "1500-mamluk",
+        "1500-songhai",
+        "1500-kongo",
+        "1500-ming",
+        "1500-aztec",
+        "1500-inca",
+        "gaps-1500-delhi-sultanate",
+        "gaps-1500-vijayanagara",
+        "gaps-1500-ethiopia",
+        "gaps-1500-benin",
+        "gaps-1500-champa",
+        "gaps-1500-ayutthaya",
+        "transition-1500-bornu",
+        "later-pegu-1500-toungoo-court"
+      ],
+      "featureCount": 15,
+      "file": "world_1500.geojson",
+      "sourceSha256": "d01ffc9b80629787f13d2b1c2f881f005bc0164433548e30f5c058ddee0bfc7b"
+    },
+    {
+      "year": 1580,
+      "label": {
+        "en": "1580 CE",
+        "zh": "公元1580年"
+      },
+      "title": {
+        "en": "Toungoo sphere comparison",
+        "zh": "东吁势力范围比较"
+      },
+      "featureIds": [
+        "toungoo-sphere-reference-1580"
+      ],
+      "featureCount": 1,
+      "file": "territories-toungoo-sphere-1580.geojson",
+      "sourceSha256": "de7ab082e0dcce5f97704ae8ebacb5566e6c336b62c2a44a49ab458af3001b5b"
+    },
+    {
+      "year": 1600,
+      "label": {
+        "en": "1600 CE",
+        "zh": "公元1600年"
+      },
+      "title": {
+        "en": "Early modern empires",
+        "zh": "近世帝国"
+      },
+      "featureIds": [
+        "1600-ottoman",
+        "1600-safavid",
+        "1600-mughal",
+        "1600-hre",
+        "1600-kongo",
+        "gaps-1600-benin",
+        "gaps-1600-oyo",
+        "transition-1600-bornu"
+      ],
+      "featureCount": 8,
+      "file": "world_1600.geojson",
+      "sourceSha256": "7285c07eeedfda9048de5354ea1744d327b07614085e9696c5802bb54c86849c"
+    },
+    {
+      "year": 1650,
+      "label": {
+        "en": "1650 CE",
+        "zh": "公元1650年"
+      },
+      "title": {
+        "en": "Reviewed historical source checkpoint",
+        "zh": "已复核的历史来源节点"
+      },
+      "featureIds": [
+        "1650-ottoman",
+        "1650-safavid",
+        "1650-mughal",
+        "1650-qing",
+        "1650-france",
+        "1650-spain",
+        "1650-portugal",
+        "1650-dutch-republic",
+        "1650-joseon",
+        "1650-ayutthaya",
+        "1650-newspain",
+        "1650-peru-viceroyalty-early",
+        "1650-brazil-portuguese",
+        "1650-kongo",
+        "1650-denmark-norway",
+        "1650-sweden-empire"
+      ],
+      "featureCount": 16,
+      "file": "world_1650.geojson",
+      "sourceSha256": "e691a3b5bab4ca7a0629daffaf8cd31731ee76ad390b19dffc1c267b139de4e2"
+    },
+    {
+      "year": 1700,
+      "label": {
+        "en": "1700 CE",
+        "zh": "公元1700年"
+      },
+      "title": {
+        "en": "Reviewed historical source checkpoint",
+        "zh": "已复核的历史来源节点"
+      },
+      "featureIds": [
+        "1700-ottoman",
+        "1700-safavid",
+        "1700-mughal",
+        "1700-france",
+        "1700-spain",
+        "1700-portugal",
+        "1700-dutch-republic",
+        "1700-joseon",
+        "1700-ayutthaya",
+        "1700-newspain",
+        "1700-peru-viceroyalty-early",
+        "1700-denmark-norway",
+        "1700-sweden-empire",
+        "gaps-1700-ethiopia",
+        "gaps-1700-benin",
+        "gaps-1700-oyo",
+        "transition-1700-bornu"
+      ],
+      "featureCount": 17,
+      "file": "world_1700.geojson",
+      "sourceSha256": "eb73d6b00e98205fb2082de050c35e4d698224b17849628d82584610186b88a4"
+    },
+    {
+      "year": 1715,
+      "label": {
+        "en": "1715 CE",
+        "zh": "公元1715年"
+      },
+      "title": {
+        "en": "Reviewed historical source checkpoint",
+        "zh": "已复核的历史来源节点"
+      },
+      "featureIds": [
+        "1715-ottoman",
+        "1715-safavid",
+        "1715-mughal",
+        "1715-qing",
+        "1715-france",
+        "1715-spain",
+        "1715-portugal",
+        "1715-dutch-republic",
+        "1715-joseon",
+        "1715-ayutthaya",
+        "1715-prussia",
+        "1715-newspain",
+        "1715-peru-viceroyalty-early",
+        "1715-brazil-portuguese",
+        "1715-denmark-norway",
+        "1715-sweden-empire",
+        "1715-russian"
+      ],
+      "featureCount": 17,
+      "file": "world_1715.geojson",
+      "sourceSha256": "fdf5097dd21c30c9d7bfb1d5c2c2a11a5a39c397e6910116d7173580619f5b5a"
+    },
+    {
+      "year": 1783,
+      "label": {
+        "en": "1783 CE",
+        "zh": "公元1783年"
+      },
+      "title": {
+        "en": "Reviewed historical source checkpoint",
+        "zh": "已复核的历史来源节点"
+      },
+      "featureIds": [
+        "1783-ottoman",
+        "1783-qing",
+        "1783-russian",
+        "1783-france",
+        "1783-spain",
+        "1783-portugal",
+        "1783-prussia",
+        "1783-joseon",
+        "1783-tokugawa",
+        "1783-maratha",
+        "1783-newspain",
+        "1783-brazil-portuguese",
+        "1783-denmark-norway",
+        "1783-sweden-empire"
+      ],
+      "featureCount": 14,
+      "file": "world_1783.geojson",
+      "sourceSha256": "7cfa92418a8628dffa41e386394b86fb6f93310e449d8261990f6903160c1060"
+    },
+    {
+      "year": 1800,
+      "label": {
+        "en": "1800 CE",
+        "zh": "公元1800年"
+      },
+      "title": {
+        "en": "Empires and colonial claims",
+        "zh": "帝国与殖民主张"
+      },
+      "featureIds": [
+        "1800-ottoman",
+        "1800-qing",
+        "1800-newspain",
+        "1800-newgranada",
+        "gaps-1800-oyo",
+        "gaps-1800-dahomey"
+      ],
+      "featureCount": 6,
+      "file": "world_1800.geojson",
+      "sourceSha256": "51fcb6b1f1c361956a3fc24a9c646844ff88754842aa113780428fb4abcd5f2c"
+    },
+    {
+      "year": 1815,
+      "label": {
+        "en": "1815 CE",
+        "zh": "公元1815年"
+      },
+      "title": {
+        "en": "Reviewed historical source checkpoint",
+        "zh": "已复核的历史来源节点"
+      },
+      "featureIds": [
+        "1815-ottoman",
+        "1815-qing",
+        "1815-russian",
+        "1815-france-modern",
+        "1815-spain",
+        "1815-portugal",
+        "1815-prussia",
+        "1815-joseon",
+        "1815-tokugawa",
+        "1815-austrian-empire",
+        "1815-brazil-portuguese",
+        "1815-asante",
+        "1815-sokoto",
+        "1815-buganda",
+        "1815-bunyoro",
+        "1815-lunda",
+        "1815-merina",
+        "gaps-1815-ethiopia",
+        "transition-1815-bornu-crisis",
+        "transition-1815-bornu-kukawa"
+      ],
+      "featureCount": 20,
+      "file": "world_1815.geojson",
+      "sourceSha256": "fb654f734583f550904cfa45f361e395c1a488c4960050da2632cb2ac7d1cd1e"
+    },
+    {
+      "year": 1878,
+      "label": {
+        "en": "1878 CE",
+        "zh": "公元1878年"
+      },
+      "title": {
+        "en": "Reviewed historical source checkpoint",
+        "zh": "已复核的历史来源节点"
+      },
+      "featureIds": [
+        "1878-ottoman",
+        "1878-qing",
+        "1878-russian",
+        "1878-usa",
+        "1878-france-modern",
+        "1878-uk",
+        "1878-germany",
+        "1878-austriahungary",
+        "1878-british-india",
+        "1878-japan",
+        "1878-mexico",
+        "1878-argentina",
+        "1878-portugal",
+        "1878-spain",
+        "1878-brazil-empire",
+        "1878-chile",
+        "1878-peru-republic",
+        "1878-bolivia",
+        "1878-paraguay",
+        "1878-uruguay",
+        "1878-colombia",
+        "1878-ecuador",
+        "1878-asante",
+        "1878-sokoto",
+        "1878-buganda",
+        "1878-bunyoro",
+        "1878-lunda",
+        "1878-luba",
+        "1878-kuba",
+        "1878-merina",
+        "gaps-1878-ethiopia",
+        "gaps-1878-dahomey",
+        "transition-1878-bornu"
+      ],
+      "featureCount": 33,
+      "file": "world_1878.geojson",
+      "sourceSha256": "e792520cd24cfb77b117d41533a59b0a5b82fc53a291fff1549ddc73e7f9a8b2"
+    },
+    {
+      "year": 1890,
+      "label": {
+        "en": "1890 CE",
+        "zh": "公元1890年"
+      },
+      "title": {
+        "en": "Borno regional source illustration",
+        "zh": "博尔努区域来源示意"
+      },
+      "featureIds": [
+        "later-borno-1890-kanemi"
+      ],
+      "featureCount": 1,
+      "file": "1890.png",
+      "sourceSha256": "b9e6d91556e9716ddc84f034dfd7101d7817eb09cf044bb597d806ddcb39c1e0"
+    },
+    {
+      "year": 1893,
+      "label": {
+        "en": "1893 CE",
+        "zh": "公元1893年"
+      },
+      "title": {
+        "en": "Borno regional source illustration",
+        "zh": "博尔努区域来源示意"
+      },
+      "featureIds": [
+        "later-borno-1893-invasion"
+      ],
+      "featureCount": 1,
+      "file": "1893.png",
+      "sourceSha256": "115bc8efe560d9e981b5aa1294e4c6976c3fd59f2dd2b20db6214983152b7cf1"
+    },
+    {
+      "year": 1898,
+      "label": {
+        "en": "1898 CE",
+        "zh": "公元1898年"
+      },
+      "title": {
+        "en": "Borno regional source illustration",
+        "zh": "博尔努区域来源示意"
+      },
+      "featureIds": [
+        "later-borno-1898-rabih",
+        "later-borno-1898-aftermath"
+      ],
+      "featureCount": 2,
+      "file": "1898.png",
+      "sourceSha256": "93cbed1aacc8326098fc0e8246b4beb70b7a9c730fc58f9a3a1e944b9d870860"
+    },
+    {
+      "year": 1900,
+      "label": {
+        "en": "1900 CE",
+        "zh": "公元1900年"
+      },
+      "title": {
+        "en": "An imperial world",
+        "zh": "帝国时代的世界"
+      },
+      "featureIds": [
+        "1900-russian",
+        "1900-qing",
+        "1900-british-india",
+        "1900-usa",
+        "1900-germany",
+        "1900-austriahungary",
+        "1900-france-modern",
+        "1900-uk",
+        "1900-japan",
+        "1900-argentina",
+        "1900-mexico"
+      ],
+      "featureCount": 11,
+      "file": "world_1900.geojson",
+      "sourceSha256": "9c9221c851eaba4948e11b2a0b078e89239231f8c74df0dc321750ae234f10b5"
+    },
+    {
+      "year": 1914,
+      "label": {
+        "en": "1914 CE",
+        "zh": "公元1914年"
+      },
+      "title": {
+        "en": "Reviewed historical source checkpoint",
+        "zh": "已复核的历史来源节点"
+      },
+      "featureIds": [
+        "1914-russian",
+        "1914-usa",
+        "1914-france-modern",
+        "1914-uk",
+        "1914-germany",
+        "1914-austriahungary",
+        "1914-british-india",
+        "1914-japan",
+        "1914-mexico",
+        "1914-argentina",
+        "1914-brazil",
+        "1914-portugal",
+        "1914-spain",
+        "1914-australia",
+        "1914-newzealand"
+      ],
+      "featureCount": 15,
+      "file": "world_1914.geojson",
+      "sourceSha256": "a99425f9486e2243835fdc75ad7d82e6ddf3c72fcef87a63429f3313d830cf19"
+    },
+    {
+      "year": 1920,
+      "label": {
+        "en": "1920 CE",
+        "zh": "公元1920年"
+      },
+      "title": {
+        "en": "Reviewed historical source checkpoint",
+        "zh": "已复核的历史来源节点"
+      },
+      "featureIds": [
+        "1920-germany",
+        "1920-czechoslovakia",
+        "1920-yugoslavia-kingdom",
+        "1920-usa",
+        "1920-france-modern",
+        "1920-uk",
+        "1920-british-india",
+        "1920-japan",
+        "1920-mexico",
+        "1920-argentina",
+        "1920-brazil",
+        "1920-portugal",
+        "1920-spain",
+        "1920-australia",
+        "1920-newzealand"
+      ],
+      "featureCount": 15,
+      "file": "world_1920.geojson",
+      "sourceSha256": "fce1c97dc6a6095594cbb7eb896ccd5ce8b2d72254e73a24148c0a4ea200849f"
+    },
+    {
+      "year": 1930,
+      "label": {
+        "en": "1930 CE",
+        "zh": "公元1930年"
+      },
+      "title": {
+        "en": "Reviewed historical source checkpoint",
+        "zh": "已复核的历史来源节点"
+      },
+      "featureIds": [
+        "1930-germany",
+        "1930-czechoslovakia",
+        "1930-yugoslavia-kingdom",
+        "1930-usa",
+        "1930-france-modern",
+        "1930-british-india",
+        "1930-japan",
+        "1930-mexico",
+        "1930-argentina",
+        "1930-brazil",
+        "1930-portugal",
+        "1930-spain",
+        "1930-australia",
+        "1930-newzealand",
+        "1930-turkey",
+        "1930-poland"
+      ],
+      "featureCount": 16,
+      "file": "world_1930.geojson",
+      "sourceSha256": "5666e451125ceb0193532338bfecf6f403e1a4d7ff62f54fd560cafb0b0b1b61"
+    },
+    {
+      "year": 1938,
+      "label": {
+        "en": "1938 CE",
+        "zh": "公元1938年"
+      },
+      "title": {
+        "en": "Reviewed historical source checkpoint",
+        "zh": "已复核的历史来源节点"
+      },
+      "featureIds": [
+        "1938-ussr",
+        "1938-germany",
+        "1938-usa",
+        "1938-uk",
+        "1938-ireland",
+        "1938-japan",
+        "1938-mexico",
+        "1938-argentina",
+        "1938-brazil",
+        "1938-portugal",
+        "1938-spain",
+        "1938-australia",
+        "1938-newzealand"
+      ],
+      "featureCount": 13,
+      "file": "world_1938.geojson",
+      "sourceSha256": "f2565926fed1b197227b7fe126934a43ed75b8fce007e38be72a7d21a415d813"
+    },
+    {
+      "year": 1945,
+      "label": {
+        "en": "1945 CE",
+        "zh": "公元1945年"
+      },
+      "title": {
+        "en": "Reviewed historical source checkpoint",
+        "zh": "已复核的历史来源节点"
+      },
+      "featureIds": [
+        "1945-ussr",
+        "1945-usa",
+        "1945-france-modern",
+        "1945-uk",
+        "1945-czechoslovakia",
+        "1945-yugoslavia-sfr",
+        "1945-poland",
+        "1945-china-republic-mainland",
+        "1945-mexico",
+        "1945-argentina",
+        "1945-brazil",
+        "1945-portugal",
+        "1945-spain",
+        "1945-australia",
+        "1945-newzealand"
+      ],
+      "featureCount": 15,
+      "file": "world_1945.geojson",
+      "sourceSha256": "3005839db7bcc5256d511b3abb01f1140c0cce245189bc5c28e7d557a47bc775"
+    },
+    {
+      "year": 1960,
+      "label": {
+        "en": "1960 CE",
+        "zh": "公元1960年"
+      },
+      "title": {
+        "en": "The Cold War and independence",
+        "zh": "冷战与独立浪潮"
+      },
+      "featureIds": [
+        "1960-ussr",
+        "1960-usa",
+        "1960-france-modern",
+        "1960-uk",
+        "1960-westgermany",
+        "1960-eastgermany",
+        "1960-india",
+        "1960-pakistan",
+        "1960-brazil",
+        "1960-mexico",
+        "1960-argentina",
+        "1960-ghana-modern",
+        "1960-guinea",
+        "1960-australia",
+        "1960-newzealand",
+        "1960-japan",
+        "1960-turkey",
+        "1960-ethiopia",
+        "1960-china-modern",
+        "1960-taiwan-roc",
+        "1960-czechoslovakia",
+        "1960-yugoslavia-sfr",
+        "1960-poland",
+        "1960-canada",
+        "1960-sudan",
+        "1960-south-africa",
+        "1960-nigeria",
+        "1960-thailand",
+        "1960-portugal",
+        "1960-spain",
+        "1960-north-korea",
+        "1960-south-korea",
+        "1960-norway",
+        "1960-sweden",
+        "1960-finland",
+        "1960-denmark",
+        "1960-netherlands",
+        "1960-belgium",
+        "1960-switzerland",
+        "1960-austria",
+        "1960-italy",
+        "1960-greece",
+        "1960-hungary",
+        "1960-romania",
+        "1960-bulgaria",
+        "1960-iceland",
+        "1960-ireland",
+        "1960-afghanistan",
+        "1960-iran",
+        "1960-iraq",
+        "1960-saudi-arabia",
+        "1960-nepal",
+        "1960-mongolia",
+        "1960-cambodia",
+        "1960-laos",
+        "1960-chile",
+        "1960-peru",
+        "1960-bolivia",
+        "1960-colombia",
+        "1960-venezuela",
+        "1960-ecuador",
+        "1960-uruguay",
+        "1960-paraguay",
+        "1960-panama",
+        "1960-costa-rica",
+        "1960-nicaragua",
+        "1960-el-salvador",
+        "1960-guatemala",
+        "1960-honduras",
+        "1960-haiti",
+        "1960-dominican-republic",
+        "1960-cuba",
+        "1960-liberia"
+      ],
+      "featureCount": 73,
+      "file": "world_1960.geojson",
+      "sourceSha256": "6067386755f8fc120a4fca44f198952a18da89cd062aa8013d5a0d08cbad8988"
+    },
+    {
+      "year": 1994,
+      "label": {
+        "en": "1994 CE",
+        "zh": "公元1994年"
+      },
+      "title": {
+        "en": "After the Soviet and Czechoslovak dissolutions",
+        "zh": "苏联与捷克斯洛伐克解体之后"
+      },
+      "featureIds": [
+        "1994-russia-modern",
+        "1994-ukraine",
+        "1994-belarus",
+        "1994-estonia",
+        "1994-latvia",
+        "1994-lithuania",
+        "1994-moldova",
+        "1994-georgia",
+        "1994-armenia",
+        "1994-azerbaijan",
+        "1994-kazakhstan",
+        "1994-uzbekistan",
+        "1994-kyrgyzstan",
+        "1994-tajikistan",
+        "1994-turkmenistan",
+        "1994-germany",
+        "1994-czech-republic",
+        "1994-slovakia",
+        "1994-france-modern",
+        "1994-uk",
+        "1994-poland",
+        "1994-eritrea",
+        "1994-ethiopia",
+        "1994-sudan",
+        "1994-south-africa",
+        "1994-namibia",
+        "1994-nigeria",
+        "1994-ghana-modern",
+        "1994-usa",
+        "1994-canada",
+        "1994-mexico",
+        "1994-brazil",
+        "1994-argentina",
+        "1994-china-modern",
+        "1994-japan",
+        "1994-india",
+        "1994-pakistan",
+        "1994-bangladesh",
+        "1994-thailand",
+        "1994-vietnam",
+        "1994-australia",
+        "1994-newzealand",
+        "1994-papua-new-guinea",
+        "1994-slovenia",
+        "1994-croatia",
+        "1994-bosnia-herzegovina",
+        "1994-macedonia"
+      ],
+      "featureCount": 47,
+      "file": "world_1994.geojson",
+      "sourceSha256": "5369249d6b9d37d1cb799a87eb7f48783587f6c3b9e6d24de35ff58a4935c216"
+    },
+    {
+      "year": 2000,
+      "label": {
+        "en": "2000 CE",
+        "zh": "公元2000年"
+      },
+      "title": {
+        "en": "States at the turn of the millennium",
+        "zh": "世纪之交的各国"
+      },
+      "featureIds": [
+        "2000-russia-modern",
+        "2000-ukraine",
+        "2000-belarus",
+        "2000-estonia",
+        "2000-latvia",
+        "2000-lithuania",
+        "2000-moldova",
+        "2000-georgia",
+        "2000-armenia",
+        "2000-azerbaijan",
+        "2000-kazakhstan",
+        "2000-uzbekistan",
+        "2000-kyrgyzstan",
+        "2000-tajikistan",
+        "2000-turkmenistan",
+        "2000-germany",
+        "2000-czech-republic",
+        "2000-slovakia",
+        "2000-france-modern",
+        "2000-uk",
+        "2000-poland",
+        "2000-eritrea",
+        "2000-ethiopia",
+        "2000-sudan",
+        "2000-south-africa",
+        "2000-namibia",
+        "2000-nigeria",
+        "2000-ghana-modern",
+        "2000-usa",
+        "2000-canada",
+        "2000-mexico",
+        "2000-brazil",
+        "2000-argentina",
+        "2000-china-modern",
+        "2000-japan",
+        "2000-india",
+        "2000-pakistan",
+        "2000-bangladesh",
+        "2000-thailand",
+        "2000-vietnam",
+        "2000-australia",
+        "2000-newzealand",
+        "2000-papua-new-guinea",
+        "2000-slovenia",
+        "2000-croatia",
+        "2000-bosnia-herzegovina",
+        "2000-macedonia"
+      ],
+      "featureCount": 47,
+      "file": "world_2000.geojson",
+      "sourceSha256": "7de99c532c410c5175abba2d540ed3a21f526f85abb9db408eafef88b0b7fcb3"
+    },
+    {
+      "year": 2010,
+      "label": {
+        "en": "2010 CE",
+        "zh": "公元2010年"
+      },
+      "title": {
+        "en": "Before South Sudan’s independence",
+        "zh": "南苏丹独立之前"
+      },
+      "featureIds": [
+        "2010-russia-modern",
+        "2010-ukraine",
+        "2010-belarus",
+        "2010-estonia",
+        "2010-latvia",
+        "2010-lithuania",
+        "2010-moldova",
+        "2010-georgia",
+        "2010-armenia",
+        "2010-azerbaijan",
+        "2010-kazakhstan",
+        "2010-uzbekistan",
+        "2010-kyrgyzstan",
+        "2010-tajikistan",
+        "2010-turkmenistan",
+        "2010-germany",
+        "2010-czech-republic",
+        "2010-slovakia",
+        "2010-france-modern",
+        "2010-uk",
+        "2010-poland",
+        "2010-eritrea",
+        "2010-ethiopia",
+        "2010-sudan",
+        "2010-south-africa",
+        "2010-namibia",
+        "2010-nigeria",
+        "2010-ghana-modern",
+        "2010-usa",
+        "2010-canada",
+        "2010-mexico",
+        "2010-brazil",
+        "2010-argentina",
+        "2010-china-modern",
+        "2010-japan",
+        "2010-india",
+        "2010-pakistan",
+        "2010-bangladesh",
+        "2010-thailand",
+        "2010-vietnam",
+        "2010-australia",
+        "2010-newzealand",
+        "2010-papua-new-guinea",
+        "2010-slovenia",
+        "2010-croatia",
+        "2010-bosnia-herzegovina",
+        "2010-macedonia",
+        "2010-montenegro"
+      ],
+      "featureCount": 48,
+      "file": "world_2010.geojson",
+      "sourceSha256": "d18dcbe41df5e68ec174e5f3887578142bf70fba72f56e204c9de5a8571ae0f4"
+    }
+  ],
+  "exclusions": [
+    {
+      "year": -3000,
+      "name": "Egypt",
+      "reason": "Upstream polygon extends far into Nubia; the same outline recurs at 2000 BCE. Early dynastic political control was not established for that footprint."
+    },
+    {
+      "year": -1500,
+      "name": "Kingdom of David and Solomon",
+      "reason": "Chronologically incompatible with the snapshot, already documented in the first-release audit."
+    },
+    {
+      "year": 200,
+      "name": "Roman Empire",
+      "reason": "Source includes an eastern extension toward southern Mesopotamia characteristic of disputed/temporary conquests; omitted pending a dated frontier reconstruction."
+    },
+    {
+      "year": 600,
+      "name": "Empire of Ghana",
+      "reason": "Early chronology and source footprint not secure enough for inclusion."
+    },
+    {
+      "year": 1000,
+      "name": "Mali",
+      "reason": "Mali Empire chronology begins in the thirteenth century; this small earlier region is not treated as the empire."
+    },
+    {
+      "year": 1200,
+      "name": "Fatimid Caliphate",
+      "reason": "Fatimid rule ended in 1171."
+    },
+    {
+      "year": 1200,
+      "name": "Ghaznavid Emirate",
+      "reason": "Ghaznavid rule ended in 1186."
+    },
+    {
+      "year": 1200,
+      "name": "Mongol Empire",
+      "reason": "The Mongol imperial foundation is conventionally dated 1206; cannot be shown as a unified empire in 1200."
+    },
+    {
+      "year": 1200,
+      "name": "Song Empire",
+      "reason": "Geometry repeats the 1000 Northern Song footprint and fails to distinguish Southern Song from Jin."
+    },
+    {
+      "year": 1200,
+      "name": "Sultanate of Delhi",
+      "reason": "The sultanate was founded in 1206; the 1200 label is premature."
+    },
+    {
+      "year": 1200,
+      "name": "Chola Empire",
+      "reason": "Source repeats the 1000 outline, including Sri Lankan territory not supported for 1200."
+    },
+    {
+      "year": 1200,
+      "name": "Byzantine Empire",
+      "reason": "Source retains extensive eastern/central Anatolia and southern Italian territory inconsistent with the twelfth-century losses; omitted pending a better dated source."
+    },
+    {
+      "year": 1300,
+      "name": "Chola Empire",
+      "reason": "The major Chola imperial period ended before this snapshot."
+    },
+    {
+      "year": 1400,
+      "name": "Great Khanate",
+      "reason": "Source repeats the Yuan-era outline after the establishment of the Ming in 1368."
+    },
+    {
+      "year": 1400,
+      "name": "Shogun Japan (Kamakura)",
+      "reason": "Kamakura rule ended in 1333; do not cosmetically relabel an unreviewed footprint."
+    },
+    {
+      "year": 1600,
+      "name": "Inca Empire",
+      "reason": "The source preserves a preconquest footprint long after the Spanish conquest and the end of the Vilcabamba state."
+    },
+    {
+      "year": 1600,
+      "name": "Songhai",
+      "reason": "The source does not adequately represent the consequences of the 1591 Moroccan invasion."
+    },
+    {
+      "year": 1600,
+      "name": "Ming Chinese Empire",
+      "reason": "Source extends much farther into northeast Asia than the selected 1500 outline; effective control and claimed jurisdictions are not distinguished."
+    },
+    {
+      "year": 1800,
+      "name": "United States of America",
+      "reason": "The source appears to include Florida before its 1821 transfer and is omitted."
+    },
+    {
+      "year": 1800,
+      "name": "Austrian Empire",
+      "reason": "That title dates from 1804; Habsburg lands should not be automatically relabeled without review."
+    },
+    {
+      "year": 1900,
+      "name": "Spain (Caribbean feature)",
+      "reason": "Source still assigns Cuba and Puerto Rico to Spain after 1898."
+    },
+    {
+      "year": 1900,
+      "name": "Kingdom of Hawaii",
+      "reason": "Hawaii was annexed by the United States in 1898; source authority is stale."
+    },
+    {
+      "year": 1900,
+      "name": "Kingdom of Brazil",
+      "reason": "Brazil became a republic in 1889; no unreviewed relabeling performed."
+    },
+    {
+      "year": 1960,
+      "name": "Zambia, Malawi, Tanzania, Zimbabwe",
+      "reason": "Stale or premature sovereign-authority fields; source requires dated colonial and independence review."
+    },
+    {
+      "year": 1960,
+      "name": "Egypt and Syria as separate authorities",
+      "reason": "They formed the United Arab Republic in 1958–1961; not included as separate independent countries."
+    },
+    {
+      "year": 1960,
+      "name": "China / Tibet",
+      "reason": "Separate source features require a specific historical control/dispute model that this layer does not supply."
+    },
+    {
+      "year": 1960,
+      "name": "Indonesia",
+      "reason": "West New Guinea status needs separate review; omitted rather than using a modern national silhouette."
+    },
+    {
+      "year": 1400,
+      "name": "Jiangshan s_ming_a0 main Ming outline",
+      "reason": "Although the phase is labelled 1388–1407, the geometry retains the same far-northeastern envelope as the source's Yongle expansion phase (141.26 E, 56.87 N). Omitted instead of treating the phase caption as proof of territorial accuracy."
+    },
+    {
+      "featureId": "1800-peru-colonial",
+      "year": 1800,
+      "reason": "The source incorrectly retains Upper Peru/Charcas (including Sucre and La Paz) within Peru after the 1776 creation of Río de la Plata. Removed rather than redrawn without a dated replacement.",
+      "source": "https://www.cultura.gob.es/en/cultura/archivos/difusion/mc-difusion/bicentenarios/contexto-historico/imperio-espanol/organizacion/virreinatos.html",
+      "reviewedAt": "2026-10-22"
+    },
+    {
+      "featureId": "1800-rioplata",
+      "year": 1800,
+      "reason": "The source omits Upper Peru/Charcas transferred to Río de la Plata in 1776. Removed together with the conflicting Peru outline.",
+      "source": "https://www.cultura.gob.es/en/cultura/archivos/difusion/mc-difusion/bicentenarios/contexto-historico/imperio-espanol/organizacion/virreinatos.html",
+      "reviewedAt": "2026-10-22"
+    },
+    {
+      "featureId": "1900-ethiopia",
+      "year": 1900,
+      "reason": "The source omits Harar far beyond the coarse outline despite incorporation into Ethiopia in 1887. Removed until a better dated geometry is sourced.",
+      "source": "https://whc.unesco.org/en/list/1189/",
+      "reviewedAt": "2026-10-22"
+    },
+    {
+      "year": 1994,
+      "name": "Serbia and Montenegro as separate sovereign authorities",
+      "reason": "The source labels both as separate authorities before the 2006 dissolution of their federation. They are not silently relabeled or merged."
+    },
+    {
+      "year": 1994,
+      "name": "Timor-Leste / East Timor",
+      "reason": "No named, separately reviewed polygon in the source snapshot; no modern polygon is backdated. Transition is covered in sourced historical entries."
+    },
+    {
+      "year": 1994,
+      "name": "Other unselected source entities",
+      "reason": "This pass reviews the named selected set; remaining upstream features are not assumed correct merely because they have a dated filename."
+    },
+    {
+      "year": 2000,
+      "name": "Serbia and Montenegro as separate sovereign authorities",
+      "reason": "The source labels both as separate authorities before the 2006 dissolution of their federation. They are not silently relabeled or merged."
+    },
+    {
+      "year": 2000,
+      "name": "Hong Kong",
+      "reason": "Source still gives the United Kingdom as authority after the 1997 handover."
+    },
+    {
+      "year": 2000,
+      "name": "Zaire",
+      "reason": "Source retains the former state name after its 1997 change to Democratic Republic of the Congo. Geometry not adopted without a fuller authority review."
+    },
+    {
+      "year": 2000,
+      "name": "Timor-Leste / East Timor",
+      "reason": "No named, separately reviewed polygon in the source snapshot; no modern polygon is backdated. Transition is covered in sourced historical entries."
+    },
+    {
+      "year": 2000,
+      "name": "Other unselected source entities",
+      "reason": "This pass reviews the named selected set; remaining upstream features are not assumed correct merely because they have a dated filename."
+    },
+    {
+      "year": 2010,
+      "name": "Serbia / Kosovo",
+      "reason": "Source has no separate reviewed Kosovo control/status model for 2010. Omitted pending a model that distinguishes sovereignty claims and administration."
+    },
+    {
+      "year": 2010,
+      "name": "Zaire",
+      "reason": "Source retains the former state name after its 1997 change to Democratic Republic of the Congo. Geometry not adopted without a fuller authority review."
+    },
+    {
+      "year": 2010,
+      "name": "Timor-Leste / East Timor",
+      "reason": "No named, separately reviewed polygon in the source snapshot; no modern polygon is backdated. Transition is covered in sourced historical entries."
+    },
+    {
+      "year": 2010,
+      "name": "Other unselected source entities",
+      "reason": "This pass reviews the named selected set; remaining upstream features are not assumed correct merely because they have a dated filename."
+    },
+    {
+      "year": -3000,
+      "name": "Egypt / Elam / Ur",
+      "reason": "The Egyptian outline extends into Kerma; Elam misses Susa; Ur is given a regional kingdom outline inappropriate to the stated early date. None is relabelled into a verified early state.",
+      "reviewVersion": 4
+    },
+    {
+      "year": -2000,
+      "name": "Egypt / Elam / Hittites / Ur",
+      "reason": "Egypt repeats the overextended Nubian outline; Elam misses Susa; Hittite political chronology is premature; Ur III ends before this source year.",
+      "reviewVersion": 4
+    },
+    {
+      "year": -1500,
+      "name": "David and Solomon / Zhoa / Sinic / Urartu",
+      "reason": "Anachronistic state labels or broad ethnic regions cannot be silently converted into contemporaneous states.",
+      "reviewVersion": 4
+    },
+    {
+      "year": -1000,
+      "name": "Hittites",
+      "reason": "The upstream imperial shape survives after the Bronze Age Hittite kingdom collapsed.",
+      "reviewVersion": 4
+    },
+    {
+      "year": -100,
+      "name": "Mauryan Empire",
+      "reason": "The source preserves a Mauryan label after the dynasty ended.",
+      "reviewVersion": 4
+    },
+    {
+      "year": 300,
+      "name": "Parthian Empire / Gupta Empire / Roman ruler labels",
+      "reason": "Parthia survives after 224 and Gupta imperial chronology is premature; Roman ruler labels do not reliably match 300.",
+      "reviewVersion": 4
+    },
+    {
+      "year": 400,
+      "name": "Gupta Empire",
+      "reason": "Source footprint reaches deep into peninsular India; imperial administration and cultural influence are not distinguished.",
+      "reviewVersion": 4
+    },
+    {
+      "year": 500,
+      "name": "Western Roman Empire / Jin Empire / Tuʻi Tonga",
+      "reason": "These labels are incompatible with the stated year or unsupported political phases.",
+      "reviewVersion": 4
+    },
+    {
+      "year": 700,
+      "name": "Sui / Sasanian / Umayyad Caliphate",
+      "reason": "Sui and Sasanian names persist after their dynasties; the Umayyad polygon includes Iberia before 711 and omits eastern regions. No source-year correction is invented.",
+      "reviewVersion": 4
+    },
+    {
+      "year": 900,
+      "name": "Carolingian Empire / Tibetan Empire",
+      "reason": "Do not retain undivided imperial labels after fragmentation. East and West Francia are selected separately.",
+      "reviewVersion": 4
+    },
+    {
+      "year": 1100,
+      "name": "Byzantine / Fatimid / Sukhothai / Wari",
+      "reason": "Byzantine and Fatimid outlines retain major earlier possessions; Sukhothai is premature, and Wari imperial chronology is insecure.",
+      "reviewVersion": 4
+    },
+    {
+      "year": 1700,
+      "name": "Manchu Empire / Dutch Brazil / Dutch Formosa",
+      "reason": "Source repeats an incomplete 1650 Qing footprint and obsolete Dutch colonial possessions. Use separately dated 1715 Qing reference with explicit review window.",
+      "reviewVersion": 4
+    },
+    {
+      "year": 1783,
+      "name": "United States",
+      "reason": "The source includes Florida before its 1821 transfer; excluded, as are 1800/1815 repetitions.",
+      "reviewVersion": 4
+    },
+    {
+      "year": 1815,
+      "name": "United States / New Granada / Peru",
+      "reason": "USA includes Florida prematurely; South American viceroyalty outlines require separate revolutionary-war and Upper Peru review.",
+      "reviewVersion": 4
+    },
+    {
+      "year": 1914,
+      "name": "Manchu Empire",
+      "reason": "The source retains Qing/Manchu state identity after the 1911–1912 revolution.",
+      "reviewVersion": 4
+    },
+    {
+      "year": 1920,
+      "name": "USSR / modern colonial-state authorities",
+      "reason": "USSR label precedes its 1922 formation; numerous future independent states are incorrectly present in the source.",
+      "reviewVersion": 4
+    },
+    {
+      "year": 1930,
+      "name": "United Kingdom",
+      "reason": "The source still includes the Irish Free State inside the UK. Use 1920 only through 1922, and the correctly separated 1938 UK/Ireland outlines from 1923 with explicit backward review.",
+      "reviewVersion": 4
+    },
+    {
+      "year": 1930,
+      "name": "White Russia / Far Eastern SSR / missing main USSR",
+      "reason": "The file retains expired Russian civil-war entities and lacks a coherent main Soviet outline.1938 geometry is an explicitly dated reference only within its reviewed Soviet phase.",
+      "reviewVersion": 4
+    },
+    {
+      "year": 1938,
+      "name": "Cochin China under Japan / Israel / obsolete Arabian emirates",
+      "reason": "These source labels/authorities are chronologically unsupported for 1938.",
+      "reviewVersion": 4
+    },
+    {
+      "year": 1945,
+      "name": "Pakistan / Bangladesh / United Arab Emirates / many future colonial states",
+      "reason": "Independent-state identities appear prematurely in the upstream file; excluded.",
+      "reviewVersion": 4
+    },
+    {
+      "year": 1960,
+      "name": "Vietnam / Indonesia / Egypt–Syria / premature African independence",
+      "reason": "A single Vietnam outline conceals division; West New Guinea needs separate review; Egypt/Syria are then UAR; numerous African names/authorities are premature.",
+      "reviewVersion": 4
+    },
+    {
+      "year": 1960,
+      "name": "Tibet as a separate sovereign feature",
+      "reason": "The upstream source classification is not adopted. The PRC feature is explicitly a partial source core, with missing Tibet geometry disclosed; no union or frontier is fabricated.",
+      "reviewVersion": 4
+    }
+  ],
+  "sourceFiles": [
+    {
+      "year": -500,
+      "filename": "world_bc500.geojson",
+      "bytes": 915851,
+      "sha256": "f72bc06ca45a9f680f20ef6007aaccd13a929cd1b632bd0fb41f161cb51ba3f6"
+    },
+    {
+      "year": -323,
+      "filename": "world_bc323.geojson",
+      "bytes": 888982,
+      "sha256": "3e90c33ce668d9559b52b501a8a8d5607e4cc86c4131dac30ae9aa4d6e9a7616"
+    },
+    {
+      "year": -1,
+      "filename": "world_bc1.geojson",
+      "bytes": 1185421,
+      "sha256": "830fac0104ebafff7b576333cd5ab4a9bf4b6f732ddf828cec47797cf65047cb"
+    },
+    {
+      "year": 200,
+      "filename": "world_200.geojson",
+      "bytes": 1165201,
+      "sha256": "ef811868efee04b5ae7cfe23538091f1cfa75534ecfad14d754d9cc690b2d2c7"
+    },
+    {
+      "year": 600,
+      "filename": "world_600.geojson",
+      "bytes": 1025118,
+      "sha256": "e8d285de5d4257c55158979e866191d13464abc74e3082fb5f2065b357beec7a"
+    },
+    {
+      "year": 800,
+      "filename": "world_800.geojson",
+      "bytes": 977296,
+      "sha256": "9d046cdc4662109c3f803ae46e2c8cba941aa092ec86eccc7823e6cf1554920c"
+    },
+    {
+      "year": 1000,
+      "filename": "world_1000.geojson",
+      "bytes": 1040461,
+      "sha256": "2140776fd7888c1d4a30e8f6debdaf56192cdf49587f3b6bb67841930ca82d29"
+    },
+    {
+      "year": 1200,
+      "filename": "world_1200.geojson",
+      "bytes": 1050917,
+      "sha256": "2d6913ecedb38e269e41d249c87874d81e3e8d7351754821f57e627442d91525"
+    },
+    {
+      "year": 1300,
+      "filename": "world_1300.geojson",
+      "bytes": 1021630,
+      "sha256": "a27985e60d936611d7933f0c30f1b52c36ef4a17225dfac25fb96abe40fa496f"
+    },
+    {
+      "year": 1400,
+      "filename": "world_1400.geojson",
+      "bytes": 1053803,
+      "sha256": "c6b0efcb42d9520a1a724f981373296e84ea2c0a0527de7a06f8f9e2465eb6ec"
+    },
+    {
+      "year": 1500,
+      "filename": "world_1500.geojson",
+      "bytes": 1170331,
+      "sha256": "d01ffc9b80629787f13d2b1c2f881f005bc0164433548e30f5c058ddee0bfc7b"
+    },
+    {
+      "year": 1600,
+      "filename": "world_1600.geojson",
+      "bytes": 1680222,
+      "sha256": "7285c07eeedfda9048de5354ea1744d327b07614085e9696c5802bb54c86849c"
+    },
+    {
+      "year": 1800,
+      "filename": "world_1800.geojson",
+      "bytes": 1638994,
+      "sha256": "51fcb6b1f1c361956a3fc24a9c646844ff88754842aa113780428fb4abcd5f2c"
+    },
+    {
+      "year": 1900,
+      "filename": "world_1900.geojson",
+      "bytes": 1296950,
+      "sha256": "9c9221c851eaba4948e11b2a0b078e89239231f8c74df0dc321750ae234f10b5"
+    },
+    {
+      "year": 1960,
+      "filename": "world_1960.geojson",
+      "bytes": 1502004,
+      "sha256": "6067386755f8fc120a4fca44f198952a18da89cd062aa8013d5a0d08cbad8988"
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Achaemenid Persian Empire (550–330 BCE)",
+      "url": "https://www.metmuseum.org/essays/the-achaemenid-persian-empire-550-330-b-c",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Western North Africa, 1000 BCE–1 CE",
+      "url": "https://www.metmuseum.org/toah/ht/04/afw.html",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Archaeological Sites of the Island of Meroe",
+      "url": "https://whc.unesco.org/en/list/1336/",
+      "publisher": "UNESCO World Heritage Centre",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "The Macedonian Empire, 336–323 BCE",
+      "url": "https://maps.lib.utexas.edu/maps/historical/shepherd_1911/shepherd-c-018-019.jpg",
+      "publisher": "William R. Shepherd; University of Texas Libraries",
+      "evidenceNote": "Historical atlas comparison of the broad extent; 1911 cartography is not modern historical GIS.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "The Roman Empire (27 BCE–393 CE)",
+      "url": "https://www.metmuseum.org/essays/the-roman-empire-27-b-c-393-a-d",
+      "publisher": "The Metropolitan Museum of Art",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "Territorial Expansion of Rome",
+      "url": "https://maps.lib.utexas.edu/maps/historical/shepherd_1911/shepherd-c-034-035.jpg",
+      "publisher": "William R. Shepherd; University of Texas Libraries",
+      "evidenceNote": "Independent historical-atlas context; temporary conquests and date ranges are distinguished.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "The Parthian Empire (247 BCE–224 CE)",
+      "url": "https://www.metmuseum.org/essays/the-parthian-empire-247-b-c-224-a-d",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Han Dynasty (206 BCE–220 CE)",
+      "url": "https://www.metmuseum.org/essays/han-dynasty-206-b-c-220-a-d",
+      "publisher": "The Metropolitan Museum of Art",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "The Sasanian Empire (224–651 CE)",
+      "url": "https://www.metmuseum.org/essays/the-sasanian-empire-224-651-a-d",
+      "publisher": "The Metropolitan Museum of Art",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "Byzantium (ca. 330–1453)",
+      "url": "https://www.metmuseum.org/essays/byzantium-ca-330-1453",
+      "publisher": "The Metropolitan Museum of Art",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "France, 500–1000 CE",
+      "url": "https://www.metmuseum.org/toah/ht/06/euwf.html",
+      "publisher": "The Metropolitan Museum of Art",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "Tang Dynasty (618–907)",
+      "url": "https://www.metmuseum.org/essays/tang-dynasty-618-906",
+      "publisher": "The Metropolitan Museum of Art",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "Carolingian Art",
+      "url": "https://www.metmuseum.org/essays/carolingian-art",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "The Art of the Abbasid Period (750–1258)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-abbasid-period-750-1258",
+      "publisher": "The Metropolitan Museum of Art",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "Timbuktu: An Islamic Cultural Center",
+      "url": "https://www.loc.gov/collections/islamic-manuscripts-from-mali/articles-and-essays/timbuktu-an-islamic-cultural-center/",
+      "publisher": "Library of Congress",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Northern Song Dynasty (960–1127)",
+      "url": "https://www.metmuseum.org/essays/northern-song-dynasty-960-1127",
+      "publisher": "The Metropolitan Museum of Art",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "The Art of the Fatimid Period (909–1171)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-fatimid-period-909-1171",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Angkor",
+      "url": "https://whc.unesco.org/en/list/668/",
+      "publisher": "UNESCO World Heritage Centre",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Great Living Chola Temples",
+      "url": "https://whc.unesco.org/en/list/250/",
+      "publisher": "UNESCO World Heritage Centre",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Central and North Asia, 500–1000 CE",
+      "url": "https://www.metmuseum.org/toah/ht/06/nc.html",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Central Europe (including Germany), 1000–1400 CE",
+      "url": "https://www.metmuseum.org/toah/ht/07/euwc.html",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "France, 1000–1400 CE",
+      "url": "https://www.metmuseum.org/toah/ht/07/euwf.html",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Great Britain and Ireland, 1000–1400 CE",
+      "url": "https://www.metmuseum.org/toah/ht/07/euwb.html",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "The Art of the Almoravid and Almohad Periods (ca. 1062–1269)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-almoravid-and-almohad-periods-ca-1062-1269",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Yuan Dynasty (1271–1368)",
+      "url": "https://www.metmuseum.org/essays/yuan-dynasty-1271-1368",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "The Art of the Ilkhanid Period (1256–1353)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-ilkhanid-period-1256-1353",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "The Art of the Mamluk Period (1250–1517)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-mamluk-period-1250-1517",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "The Art of the Timurid Period (ca. 1370–1507)",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-timurid-period-ca-1370-1507",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "The Mongol Dominions, 1300–1405",
+      "url": "https://maps.lib.utexas.edu/maps/historical/shepherd_1911/shepherd-c-092.jpg",
+      "publisher": "William R. Shepherd; University of Texas Libraries",
+      "evidenceNote": "Historical atlas comparison; the successor khanates are not treated as one uniform administration.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "The Art of the Ottomans before 1600",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-ottomans-before-1600",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "The Greater Ottoman Empire, 1600–1800",
+      "url": "https://www.metmuseum.org/essays/the-greater-ottoman-empire-1600-1800",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "The Ottoman Empire, 1481–1683",
+      "url": "https://maps.lib.utexas.edu/maps/historical/shepherd_1911/shepherd-c-124.jpg",
+      "publisher": "William R. Shepherd; University of Texas Libraries",
+      "evidenceNote": "Historical atlas comparison distinguishes successive conquests; not an exact reconstruction of every frontier.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Ming Dynasty (1368–1644)",
+      "url": "https://www.metmuseum.org/essays/ming-dynasty-1368-1644",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Polity chronology and broad historical context; does not certify individual schematic vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Central and Southern Andes, 1400–1600 CE",
+      "url": "https://www.metmuseum.org/toah/ht/08/sanc.html",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Mexico, 1400–1600 CE",
+      "url": "https://www.metmuseum.org/toah/ht/08/canm.html",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Encompassing the Globe: Portugal and the World in the 16 th and 17 th Centuries",
+      "url": "https://asia.si.edu/whats-on/exhibitions/encompassing-the-globe-portugal-and-the-world-in-the-16th-and-17th-centuries/",
+      "publisher": "Smithsonian National Museum of Asian Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "The Art of the Safavids before 1600",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-safavids-before-1600",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "The Art of the Mughals before 1600",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-mughals-before-1600",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "China, 1600–1800 CE",
+      "url": "https://www.metmuseum.org/toah/ht/09/eac.html",
+      "publisher": "The Metropolitan Museum of Art",
+      "evidenceNote": "Chronology and broad regional context; does not validate the imported boundary vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "The Qing Dynasty (1644–1911)",
+      "url": "https://www.metmuseum.org/essays/the-qing-dynasty-1644-1911-painting",
+      "publisher": "The Metropolitan Museum of Art",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "Mexico and Central America, 1600–1800 CE",
+      "url": "https://www.metmuseum.org/toah/ht/09/ca.html",
+      "publisher": "The Metropolitan Museum of Art",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "South America, 1600–1800 CE",
+      "url": "https://www.metmuseum.org/toah/ht/09/sa.html",
+      "publisher": "The Metropolitan Museum of Art",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "CShapes 2.0: independent chronology and broad-geography comparison",
+      "url": "https://icr.ethz.ch/data/cshapes/",
+      "publisher": "ETH Zürich International Conflict Research",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "Song dynasty maps: Northern and Southern Song",
+      "url": "https://afe.easia.columbia.edu/songdynasty-module/cities-new.html",
+      "publisher": "Columbia University, Asia for Educators",
+      "evidenceNote": "General territorial interpretation of the Song–Jin division; does not certify individual schematic vertices.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "Roman Empire: extent in 200 CE",
+      "url": "https://github.com/AWMC/geodata/blob/7ecf8bccea2efe1e1e9df2daf6001942de73fb87/Cultural-Data/political_shading/roman_empire_ce_200_extent/roman_empire_ce_200_extent.geojson",
+      "publisher": "Ancient World Mapping Center, University of North Carolina at Chapel Hill",
+      "evidenceNote": "Institutional GIS explicitly dated to 200 CE.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "AWMC GIS Data",
+      "url": "https://awmc.unc.edu/gis-data/",
+      "publisher": "Ancient World Mapping Center",
+      "evidenceNote": "Dataset description and access.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "UN member-state chronology and former-state notes",
+      "url": "https://research.un.org/en/unmembers/currentmembers",
+      "publisher": "United Nations Dag Hammarskjöld Library",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "The collapse of the Soviet Union",
+      "url": "https://history.state.gov/milestones/1989-1992/collapse-soviet-union",
+      "publisher": "U.S. Department of State, Office of the Historian",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "Czechoslovakia and its successor States",
+      "url": "https://www.un.org/en/about-us/member-states/czechoslovakia",
+      "publisher": "United Nations",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "German reunification on 3 October 1990",
+      "url": "https://www.bundesregierung.de/breg-en/service/archive/archive/the-chancellor-who-reunited-germany-413888",
+      "publisher": "German Federal Government",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "Independence celebrations in Eritrea, 24 May 1993",
+      "url": "https://digitallibrary.un.org/record/218378?ln=en",
+      "publisher": "United Nations",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "South Sudan independence on 9 July 2011",
+      "url": "https://press.un.org/en/2011/sgsm13696.doc.htm",
+      "publisher": "United Nations Secretary-General",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "Yugoslavia and its successor States",
+      "url": "https://www.un.org/en/about-us/member-states/yugoslavia",
+      "publisher": "United Nations",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "East Timor becomes independent,20 May 2002",
+      "url": "https://press.un.org/en/2002/sc7403.doc.htm",
+      "publisher": "United Nations Security Council",
+      "evidenceNote": "Confirms the transition; the upstream files do not offer a reviewed separate Timor-Leste polygon, so none is fabricated.",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "title": "The Monuments of the Kingdom of Kerma and Dokki Geil",
+      "url": "https://whc.unesco.org/en/tentativelists/6594/",
+      "publisher": "UNESCO World Heritage Centre",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "Indus: Mature Harappan period, ca. 2600–1900 BCE",
+      "url": "https://www.metmuseum.org/art/collection/search/326374",
+      "publisher": "The Metropolitan Museum of Art",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "Minoan Crete",
+      "url": "https://www.metmuseum.org/essays/minoan-crete",
+      "publisher": "The Metropolitan Museum of Art",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "The Middle Babylonian / Kassite Period (ca. 1595–1155 BCE)",
+      "url": "https://www.metmuseum.org/essays/the-middle-babylonian-kassite-period-ca-1595-1155-b-c-in-mesopotamia",
+      "publisher": "The Metropolitan Museum of Art",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "Egypt in the New Kingdom (ca. 1550–1070 BCE)",
+      "url": "https://www.metmuseum.org/essays/egypt-in-the-new-kingdom-ca-1550-1070-b-c",
+      "publisher": "The Metropolitan Museum of Art",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "Egypt in the Third Intermediate Period (ca. 1070–664 BCE)",
+      "url": "https://www.metmuseum.org/essays/egypt-in-the-third-intermediate-period-1070-712-b-c",
+      "publisher": "The Metropolitan Museum of Art",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "Mesopotamia, 1000 BCE–1 CE",
+      "url": "https://www.metmuseum.org/toah/ht/04/wam.html",
+      "publisher": "The Metropolitan Museum of Art",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "Gebel Barkal and the Sites of the Napatan Region",
+      "url": "https://whc.unesco.org/en/list/1073/",
+      "publisher": "UNESCO World Heritage Centre",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "The Hellenistic Age",
+      "url": "https://www.metmuseum.org/essays/art-of-the-hellenistic-age-and-the-hellenistic-tradition",
+      "publisher": "The Metropolitan Museum of Art",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "South Asia, 1000 BCE–1 CE",
+      "url": "https://www.metmuseum.org/toah/ht/04/ssa.html",
+      "publisher": "The Metropolitan Museum of Art",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "The Roman Republic",
+      "url": "https://www.metmuseum.org/essays/the-roman-republic",
+      "publisher": "The Metropolitan Museum of Art",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "Aksum",
+      "url": "https://whc.unesco.org/en/list/15/",
+      "publisher": "UNESCO World Heritage Centre",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "Historic City of Ayutthaya",
+      "url": "https://whc.unesco.org/en/list/576/",
+      "publisher": "UNESCO World Heritage Centre",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "Korea, 1400–1600 CE",
+      "url": "https://www.metmuseum.org/toah/ht/08/eak.html",
+      "publisher": "The Metropolitan Museum of Art",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "Art of the Edo Period (1615–1868)",
+      "url": "https://www.metmuseum.org/essays/art-of-the-edo-period-1615-1868",
+      "publisher": "The Metropolitan Museum of Art",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "The Art of the Mughals after 1600",
+      "url": "https://www.metmuseum.org/essays/the-art-of-the-mughals-after-1600",
+      "publisher": "The Metropolitan Museum of Art",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "The Russian Revolution, 1917",
+      "url": "https://www.nps.gov/features/shen/2019/hoover/lesson-1/timeline/1917-2.html",
+      "publisher": "U.S. National Park Service",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "Russia: revolution and the formation of the USSR in 1922",
+      "url": "https://1997-2001.state.gov/background_notes/russia_0005_bgn.html",
+      "publisher": "U.S. Department of State",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "The Chinese Revolution of 1949",
+      "url": "https://history.state.gov/milestones/1945-1952/chinese-rev",
+      "publisher": "U.S. Department of State, Office of the Historian",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "The Independence of Bangladesh in 1971",
+      "url": "https://www.nationalarchives.gov.uk/education/teaching-resources/independence-of-bangladesh/",
+      "publisher": "The National Archives, United Kingdom",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "History: Republic of China government relocation to Taiwan in 1949",
+      "url": "https://www.taiwan.gov.tw/content_3.php",
+      "publisher": "Government of Taiwan",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "The Korean War and the armistice",
+      "url": "https://history.state.gov/milestones/1953-1960/korean-war",
+      "publisher": "U.S. Department of State, Office of the Historian",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "UN member states: Viet Nam",
+      "url": "https://www.un.org/en/about-us/member-states/viet-nam",
+      "publisher": "United Nations",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "The Act of Union, 1707",
+      "url": "https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/act-of-union-1707/",
+      "publisher": "UK Parliament",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "The Anglo-Irish Treaty, 1921",
+      "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-9260/",
+      "publisher": "House of Commons Library",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "Joseon dynasty, 1392–1910",
+      "url": "https://www.metmuseum.org/toah/ht/10/eak.html",
+      "publisher": "The Metropolitan Museum of Art",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "Early dynastic and Bronze Age source review",
+      "url": "https://github.com/aourednik/historical-basemaps",
+      "publisher": "André Ourednik and contributors",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "The Art of the Samanids of Central Asia",
+      "url": "https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/introduction/chronology",
+      "publisher": "The Metropolitan Museum of Art",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "Liao Dynasty (907–1125)",
+      "url": "https://www.metmuseum.org/art/collection/search/44799",
+      "publisher": "The Metropolitan Museum of Art",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "Central Europe (including Germany), 1600–1800 CE",
+      "url": "https://www.metmuseum.org/toah/ht/09/euwc.html",
+      "publisher": "The Metropolitan Museum of Art",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "Iberian Peninsula, 1600–1800 CE",
+      "url": "https://www.metmuseum.org/toah/ht/09/eusi.html",
+      "publisher": "The Metropolitan Museum of Art",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "Low Countries, 1600–1800 CE",
+      "url": "https://www.metmuseum.org/toah/ht/09/euwl.html",
+      "publisher": "The Metropolitan Museum of Art",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "Eastern Europe and Scandinavia, 1600–1800 CE",
+      "url": "https://www.metmuseum.org/toah/ht/09/eue.html",
+      "publisher": "The Metropolitan Museum of Art",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "Independence and Partition, 1947",
+      "url": "https://www.nationalarchives.gov.uk/education/teaching-resources/indian-independence-part-two/",
+      "publisher": "The National Archives, United Kingdom",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "Central Europe and Low Countries, 1800–1900 CE",
+      "url": "https://www.metmuseum.org/toah/ht/10/euwc.html",
+      "publisher": "The Metropolitan Museum of Art",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "Russia: a country study — imperial title adopted in 1721",
+      "url": "https://tile.loc.gov/storage-services/master/frd/frdcstdy/ru/russiacountrystu00curt/russiacountrystu00curt.pdf",
+      "publisher": "Library of Congress, Federal Research Division",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    },
+    {
+      "title": "Crimean history: Russian annexation in 1783",
+      "url": "https://blogs.loc.gov/law/2014/03/crimean-history-status-and-referendum/",
+      "publisher": "Library of Congress, Law Library",
+      "checkedAt": "2026-10-23",
+      "evidenceNote": "Chronology and regional context only; does not certify every boundary vertex or uniform political control."
+    }
+  ],
+  "reviewDate": "2026-10-23",
+  "coverage": "Selected societies and states, with dated context at every civil year from 2600 BCE to 2010 CE and reviewed contemporary references through 2026. Geographic coverage is partial; no annual border reconstruction or exhaustive world map is claimed.",
+  "layers": [
+    {
+      "file": "territories-legacy-01.geojson",
+      "license": "GPL-3.0-only",
+      "featureCount": 58,
+      "attribution": "André Ourednik and historical-basemaps contributors",
+      "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "outputSha256": "321fab26b0ff2cb571a410c949214732e2a28af24661acf61b2129eaacdb5126",
+      "licenseFile": "territories.LICENSE"
+    },
+    {
+      "file": "territories-legacy-02.geojson",
+      "license": "GPL-3.0-only",
+      "featureCount": 24,
+      "attribution": "André Ourednik and historical-basemaps contributors",
+      "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "outputSha256": "122530f086cb85dae4ab1a6de2279fb5a98bff695406c2771eb4527ed30436c7",
+      "licenseFile": "territories.LICENSE"
+    },
+    {
+      "file": "territories-legacy-03.geojson",
+      "license": "GPL-3.0-only",
+      "featureCount": 17,
+      "attribution": "André Ourednik and historical-basemaps contributors",
+      "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "outputSha256": "efbcd2e3732ef45f4cd27b05959acc1690199750551a757d43861374bdb048e4",
+      "licenseFile": "territories.LICENSE"
+    },
+    {
+      "file": "territories-awmc.geojson",
+      "license": "ODbL-1.0",
+      "featureCount": 1,
+      "attribution": "Ancient World Mapping Center; Barrington Atlas; OpenStreetMap contributors (ODbL 1.0).",
+      "sourceCommit": "7ecf8bccea2efe1e1e9df2daf6001942de73fb87",
+      "sourceSha256": "b1517aa96d43547925985069f8beefa761c361cad5986d35c7d607e86821527d",
+      "outputSha256": "291218e22e24ec701882ea7a1f454ba2e22f3c99eecd3d02d9c8224140ab1d8d",
+      "licenseFile": "territories-awmc.LICENSE"
+    },
+    {
+      "file": "territories-modern-history-01.geojson",
+      "license": "GPL-3.0-only",
+      "featureCount": 36,
+      "attribution": "André Ourednik and historical-basemaps contributors",
+      "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "outputSha256": "6a4f024d1b57df08190ed239eb8b74368b4f49410f893a5228d99ff8410c3089",
+      "licenseFile": "territories-modern-history.LICENSE.md"
+    },
+    {
+      "file": "territories-modern-history-02.geojson",
+      "license": "GPL-3.0-only",
+      "featureCount": 41,
+      "attribution": "André Ourednik and historical-basemaps contributors",
+      "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "outputSha256": "abcde27ccf055d265c54f58218d2926a72086b7f40481848665f02090f7fcb0a",
+      "licenseFile": "territories-modern-history.LICENSE.md"
+    },
+    {
+      "file": "territories-modern-history-03.geojson",
+      "license": "GPL-3.0-only",
+      "featureCount": 45,
+      "attribution": "André Ourednik and historical-basemaps contributors",
+      "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "outputSha256": "c0ac4f361f0373f57c819d51acb490891234b46edcc5fa52208854fc9f90c850",
+      "licenseFile": "territories-modern-history.LICENSE.md"
+    },
+    {
+      "file": "territories-modern-history-04.geojson",
+      "license": "GPL-3.0-only",
+      "featureCount": 20,
+      "attribution": "André Ourednik and historical-basemaps contributors",
+      "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "outputSha256": "e2be9dfea14154303e970753ed27d014206d50271569beea8767fcd20ec00730",
+      "licenseFile": "territories-modern-history.LICENSE.md"
+    },
+    {
+      "file": "territories-context-01.geojson",
+      "license": "GPL-3.0-only",
+      "featureCount": 48,
+      "attribution": "André Ourednik and historical-basemaps contributors; atlas temporal context curation",
+      "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "outputSha256": "1bd08ff656cb3040361206cf7984e2ddd7d0bfb119dc438c37e7cd88a70ed37a",
+      "licenseFile": "territories.LICENSE"
+    },
+    {
+      "file": "territories-context-02.geojson",
+      "license": "GPL-3.0-only",
+      "featureCount": 29,
+      "attribution": "André Ourednik and historical-basemaps contributors; atlas temporal context curation",
+      "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "outputSha256": "a6d359107b84454c80582c10f13fa25bbfa249b73ea671d5631e045f9bd2b35b",
+      "licenseFile": "territories.LICENSE"
+    },
+    {
+      "file": "territories-context-03.geojson",
+      "license": "GPL-3.0-only",
+      "featureCount": 23,
+      "attribution": "André Ourednik and historical-basemaps contributors; atlas temporal context curation",
+      "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "outputSha256": "889b4572598e19f9731257d268c4a7f8f60eef8c140fa1ede6fcfa9167a78e0d",
+      "licenseFile": "territories.LICENSE"
+    },
+    {
+      "file": "territories-context-04.geojson",
+      "license": "GPL-3.0-only",
+      "featureCount": 19,
+      "attribution": "André Ourednik and historical-basemaps contributors; atlas temporal context curation",
+      "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "outputSha256": "6fa6b0b68544249e454ca8af2cde0b5f53e63dbb6e6e8f51af0bafce0382a28f",
+      "licenseFile": "territories.LICENSE"
+    },
+    {
+      "file": "territories-context-05.geojson",
+      "license": "GPL-3.0-only",
+      "featureCount": 29,
+      "attribution": "André Ourednik and historical-basemaps contributors; atlas temporal context curation",
+      "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "outputSha256": "49a5dc2c6399b9c28faf16f8b8679347cc0c732eac7d5248a705d22ac9d3c68b",
+      "licenseFile": "territories.LICENSE"
+    },
+    {
+      "file": "territories-context-06.geojson",
+      "license": "GPL-3.0-only",
+      "featureCount": 23,
+      "attribution": "André Ourednik and historical-basemaps contributors; atlas temporal context curation",
+      "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "outputSha256": "c2f50c451e4e6980d7ac37d6a7061ed4d6b2e060d096ae045b4b3bbea4bd0029",
+      "licenseFile": "territories.LICENSE"
+    },
+    {
+      "file": "territories-context-07.geojson",
+      "license": "GPL-3.0-only",
+      "featureCount": 36,
+      "attribution": "André Ourednik and historical-basemaps contributors; atlas temporal context curation",
+      "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "outputSha256": "8a839e533c6054f5da2fd134eb3f4f13ac9792ca3e445a014b7ba8da46a54c15",
+      "licenseFile": "territories.LICENSE"
+    },
+    {
+      "file": "territories-context-08.geojson",
+      "license": "GPL-3.0-only",
+      "featureCount": 64,
+      "attribution": "André Ourednik and historical-basemaps contributors; atlas temporal context curation",
+      "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "outputSha256": "53aef27e99bf32a861c699526e778c054e6e26721e11f1d4300257d3c4b5ea03",
+      "licenseFile": "territories.LICENSE"
+    },
+    {
+      "file": "territories-continuity-01.geojson",
+      "license": "GPL-3.0-only",
+      "licenseFile": "territories.LICENSE",
+      "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "featureCount": 23,
+      "attribution": "André Ourednik and historical-basemaps contributors; bounded Atlas regional context selection",
+      "outputSha256": "926198e1ae87f959cab858ac51206b4c992a1e95ebe44fbc329f490a59157abf"
+    },
+    {
+      "file": "territories-early-regional-01.geojson",
+      "license": "GPL-3.0-only",
+      "licenseFile": "territories.LICENSE",
+      "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "featureCount": 28,
+      "outputSha256": "a1eaf35cd78e23577d16e9a6aa8d2caefdea3bd54a93c94017561195a2408b1d",
+      "attribution": "André Ourednik and contributors; bounded Atlas regional context selection"
+    },
+    {
+      "file": "territories-regional-gaps-01.geojson",
+      "license": "GPL-3.0-only",
+      "licenseFile": "territories.LICENSE",
+      "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "featureCount": 60,
+      "outputSha256": "e85337992e89288573ff4ed240d15eea5e47fd569a62b4ffc5da9cc5e2f9d1ce",
+      "attribution": "André Ourednik and contributors; bounded Atlas regional context selection"
+    },
+    {
+      "file": "territories-gupta-schematic-375.geojson",
+      "license": "CC-BY-SA-3.0",
+      "licenseFile": "gupta-schematic-375.LICENSE",
+      "featureCount": 2,
+      "outputSha256": "e11cf797c1dcface97ab069413b93a7659867aa9f55fc46e6285ea36986f5e81",
+      "attribution": "Woudloper / Wikimedia Commons; map adapted and approximately georegistered by World History Atlas"
+    },
+    {
+      "file": "territories-gupta-schematic-450.geojson",
+      "license": "CC-BY-SA-4.0",
+      "licenseFile": "gupta-schematic-450.LICENSE",
+      "featureCount": 2,
+      "outputSha256": "83a56c7053ada4975de2a7876c56bb96f067e60f968816f07c7d78424d039743",
+      "attribution": "Woudloper / Wikimedia Commons; map adapted and approximately georegistered by World History Atlas"
+    },
+    {
+      "file": "territories-three-region-transitions-01.geojson",
+      "license": "GPL-3.0-only",
+      "licenseFile": "territories.LICENSE",
+      "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+      "featureCount": 12,
+      "outputSha256": "654fca31a5f9581fe0b29d5cc1588e17a222a1c07f3320799fc6c76043d80410",
+      "attribution": "André Ourednik and contributors; reviewed Borno and Ayutthaya regional context"
+    },
+    {
+      "file": "territories-later-gupta-context.geojson",
+      "license": "CC-BY-SA-3.0",
+      "licenseFile": "gupta-schematic-375.LICENSE",
+      "featureCount": 2,
+      "outputSha256": "2f858a7ed9e1d79d753f2d94f5273081c8aee11ba57d58c6db191e591545f1bf",
+      "attribution": "Woudloper / Wikimedia Commons; approximately georegistered by World History Atlas"
+    },
+    {
+      "file": "territories-later-pegu-context.geojson",
+      "license": "GPL-3.0-only",
+      "licenseFile": "territories.LICENSE",
+      "featureCount": 1,
+      "outputSha256": "6b8ea5a2a3231327de8a7f223c24168bf6c92528e1aae19f23aadeacddb98e54",
+      "attribution": "André Ourednik and contributors; Pegu regional context"
+    },
+    {
+      "file": "territories-later-borno-context.geojson",
+      "license": "CC-BY-4.0",
+      "licenseFile": "borno-hiribarren.LICENSE",
+      "featureCount": 4,
+      "outputSha256": "8b200e61ebcc55057fce00e7942b3892d6525b91a843f459163fbf7480ad46bf",
+      "attribution": "Vincent Hiribarren; raster core traced and approximately georeferenced by World History Atlas"
+    },
+    {
+      "file": "territories-gupta-successors-550.geojson",
+      "license": "CC-BY-SA-4.0",
+      "licenseFile": "gupta-successor-schematic.LICENSE",
+      "featureCount": 3,
+      "outputSha256": "a96c6157b31007a0a34e3bccef60b7ac9494369fc0e9bb24038f61a62b50ed28",
+      "attribution": "Woudloper / Wikimedia Commons; map adapted and approximately georegistered by World History Atlas"
+    },
+    {
+      "file": "territories-gupta-successors-590.geojson",
+      "license": "CC-BY-SA-4.0",
+      "licenseFile": "gupta-successor-schematic.LICENSE",
+      "featureCount": 4,
+      "outputSha256": "051489ab8733044beb5fcaf3dc5ed46a3fe0fcf8ecfd5e1af792dae99ce45997",
+      "attribution": "Woudloper / Wikimedia Commons; map adapted and approximately georegistered by World History Atlas"
+    },
+    {
+      "file": "territories-toungoo-sphere-1580.geojson",
+      "license": "CC-BY-SA-3.0",
+      "licenseFile": "toungoo-sphere-1580.LICENSE",
+      "featureCount": 1,
+      "outputSha256": "bb3269594f5c90f045938b3c49a6cfbae70f5a2ce1f3ad43dd2174010da3bb5a",
+      "attribution": "Soewinhan / Wikimedia Commons; source sphere adapted and approximately georegistered by World History Atlas"
+    },
+    {
+      "file": "china-open-warring-v17.geojson",
+      "license": "CC0-1.0",
+      "licenseFile": "china-open-warring-v17.LICENSE.md",
+      "featureCount": 7,
+      "outputSha256": "4a97f7f35abb0f1d84f860e1683904fa9e3da3628d96334be55fdff40f8daf94",
+      "attribution": "Ian Remsen / Wikimedia Commons"
+    },
+    {
+      "file": "china-open-song-jin-1141-v18.geojson",
+      "license": "CC-BY-3.0",
+      "licenseFile": "china-open-song-jin-1141.LICENSE.md",
+      "featureCount": 6,
+      "outputSha256": "3f7cee2d084afdfa70ed008844bc846fb281e917a956307eb3bf374539ab8f79",
+      "attribution": "Ian Kiu / Wikimedia Commons; adapted and georegistered by World History Atlas"
+    },
+    {
+      "file": "china-open-ming-1415-v18.geojson",
+      "license": "Public-Domain-US",
+      "licenseFile": "china-open-ming-1415.LICENSE.md",
+      "featureCount": 1,
+      "outputSha256": "970ab1268164ef0e7830688cf3048ea3046db382b2f0c7f558cafdd2563367a3",
+      "attribution": "Albert Herrmann and Georg Westermann, 1935; adapted and georegistered by World History Atlas"
+    }
+  ],
+  "selectionPolicy": "Newest eligible prior source per polity, inside an explicit inclusive contextValidity interval; otherwise earliest explicitly backward-reviewed source. Missing metadata means exact source year only. Original source years and licenses are preserved; never interpolate borders or extend expired identities.",
+  "contextSchema": {
+    "version": 1,
+    "field": "contextValidity",
+    "bounds": "inclusive civil years; no year zero",
+    "sourceYear": "the original dated outline; unchanged when rendered in another year",
+    "backwardReviewed": "a future-dated outline is eligible only when true and the selected year is in the stated interval",
+    "unreviewed": "exact source-year display only",
+    "selection": "one newest eligible prior source per polityId, otherwise earliest explicitly reviewed future source",
+    "precision": "dated-reference, not annual-frontier reconstruction"
+  },
+  "contextSourceFiles": [
+    {
+      "year": 100,
+      "file": "world_100.geojson",
+      "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_100.geojson",
+      "sourceSha256": "d3dba3d4988e481d6438821b7fad847946f7d549c602ebc5a3b49c508358f6ef",
+      "bytes": 1182426
+    },
+    {
+      "year": 400,
+      "file": "world_400.geojson",
+      "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_400.geojson",
+      "sourceSha256": "3a3cf57e1d117e81b49b9344af49b73fec0674aa14e7d1d1f1d345d08f9ce1f7",
+      "bytes": 1123300
+    },
+    {
+      "year": 500,
+      "file": "world_500.geojson",
+      "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_500.geojson",
+      "sourceSha256": "06f7512efec9151b91b5967e8bee3e2dacf8c623e8719de8c64a996bec5ec2c1",
+      "bytes": 968264
+    },
+    {
+      "year": 700,
+      "file": "world_700.geojson",
+      "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_700.geojson",
+      "sourceSha256": "bb66ebee15e57f5d43b0ca524dd9a230651bb821e7e002882b1981a25fd42a38",
+      "bytes": 966976
+    },
+    {
+      "year": 900,
+      "file": "world_900.geojson",
+      "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_900.geojson",
+      "sourceSha256": "f483b93e799d6518830ed6da6c3772c49170872d0f07515981a53e71d8dbc74c",
+      "bytes": 1056118
+    },
+    {
+      "year": 1100,
+      "file": "world_1100.geojson",
+      "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1100.geojson",
+      "sourceSha256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+      "bytes": 1065110
+    },
+    {
+      "year": 1650,
+      "file": "world_1650.geojson",
+      "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1650.geojson",
+      "sourceSha256": "e691a3b5bab4ca7a0629daffaf8cd31731ee76ad390b19dffc1c267b139de4e2",
+      "bytes": 1650748
+    },
+    {
+      "year": 1700,
+      "file": "world_1700.geojson",
+      "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1700.geojson",
+      "sourceSha256": "eb73d6b00e98205fb2082de050c35e4d698224b17849628d82584610186b88a4",
+      "bytes": 1625990
+    },
+    {
+      "year": 1715,
+      "file": "world_1715.geojson",
+      "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1715.geojson",
+      "sourceSha256": "fdf5097dd21c30c9d7bfb1d5c2c2a11a5a39c397e6910116d7173580619f5b5a",
+      "bytes": 1695707
+    },
+    {
+      "year": 1783,
+      "file": "world_1783.geojson",
+      "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1783.geojson",
+      "sourceSha256": "7cfa92418a8628dffa41e386394b86fb6f93310e449d8261990f6903160c1060",
+      "bytes": 1668045
+    },
+    {
+      "year": 1815,
+      "file": "world_1815.geojson",
+      "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1815.geojson",
+      "sourceSha256": "fb654f734583f550904cfa45f361e395c1a488c4960050da2632cb2ac7d1cd1e",
+      "bytes": 2413409
+    },
+    {
+      "year": 1878,
+      "file": "world_1878.geojson",
+      "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1878.geojson",
+      "sourceSha256": "e792520cd24cfb77b117d41533a59b0a5b82fc53a291fff1549ddc73e7f9a8b2",
+      "bytes": 1713853
+    },
+    {
+      "year": 1914,
+      "file": "world_1914.geojson",
+      "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1914.geojson",
+      "sourceSha256": "a99425f9486e2243835fdc75ad7d82e6ddf3c72fcef87a63429f3313d830cf19",
+      "bytes": 1289554
+    },
+    {
+      "year": 1920,
+      "file": "world_1920.geojson",
+      "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1920.geojson",
+      "sourceSha256": "fce1c97dc6a6095594cbb7eb896ccd5ce8b2d72254e73a24148c0a4ea200849f",
+      "bytes": 1685651
+    },
+    {
+      "year": 1930,
+      "file": "world_1930.geojson",
+      "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1930.geojson",
+      "sourceSha256": "5666e451125ceb0193532338bfecf6f403e1a4d7ff62f54fd560cafb0b0b1b61",
+      "bytes": 1403416
+    },
+    {
+      "year": 1938,
+      "file": "world_1938.geojson",
+      "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1938.geojson",
+      "sourceSha256": "f2565926fed1b197227b7fe126934a43ed75b8fce007e38be72a7d21a415d813",
+      "bytes": 1637285
+    },
+    {
+      "year": 1945,
+      "file": "world_1945.geojson",
+      "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1945.geojson",
+      "sourceSha256": "3005839db7bcc5256d511b3abb01f1140c0cce245189bc5c28e7d557a47bc775",
+      "bytes": 1563965
+    },
+    {
+      "year": 1960,
+      "file": "world_1960.geojson",
+      "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1960.geojson",
+      "sourceSha256": "6067386755f8fc120a4fca44f198952a18da89cd062aa8013d5a0d08cbad8988",
+      "bytes": 1502004
+    },
+    {
+      "year": -2000,
+      "file": "world_bc2000.geojson",
+      "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_bc2000.geojson",
+      "sourceSha256": "9d08a2390ca3d82f46eccfe97f44949922b69e4bb733f0fc2120e579de52a5d3",
+      "bytes": 858855
+    },
+    {
+      "year": -1500,
+      "file": "world_bc1500.geojson",
+      "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_bc1500.geojson",
+      "sourceSha256": "b17e8fab42e47b09fa8d52941d9fd55e03b0e3ba22dd0a71ad20f76e517ce485",
+      "bytes": 874767
+    },
+    {
+      "year": -1000,
+      "file": "world_bc1000.geojson",
+      "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_bc1000.geojson",
+      "sourceSha256": "ace64cae988ab72ab5536b76e052a9564eed81390404bccbc5e6a48ac646d7fc",
+      "bytes": 875454
+    },
+    {
+      "year": -700,
+      "file": "world_bc700.geojson",
+      "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_bc700.geojson",
+      "sourceSha256": "83515442984c57d4939c7fb236f16e8ab88411b76a26214cdf86b390ae36965c",
+      "bytes": 881812
+    },
+    {
+      "year": -400,
+      "file": "world_bc400.geojson",
+      "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_bc400.geojson",
+      "sourceSha256": "7c657b265b2896744efa2c56dd66f0f4a8e647f9dd3c3fbe2c4575515e4b260b",
+      "bytes": 899211
+    },
+    {
+      "year": -300,
+      "file": "world_bc300.geojson",
+      "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_bc300.geojson",
+      "sourceSha256": "d181645f7963e893fc5502a496c14927316939a2a38cba7722a38b75f80cf633",
+      "bytes": 909380
+    },
+    {
+      "year": -200,
+      "file": "world_bc200.geojson",
+      "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_bc200.geojson",
+      "sourceSha256": "e192a3330a7e51358b61a6bfffaf6ff3e9ebf4eb96b532a23632316e86066a80",
+      "bytes": 948654
+    },
+    {
+      "year": -100,
+      "file": "world_bc100.geojson",
+      "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_bc100.geojson",
+      "sourceSha256": "80ce07508ef86b4c4943193d7562578dc1150976bd0eb07581c620acf3044874",
+      "bytes": 958695
+    }
+  ],
+  "regionalContinuityReview": {
+    "reviewedAt": "2026-10-26",
+    "method": "Additive dated context; no annual border interpolation",
+    "documentation": "docs/REGIONAL_MAP_CONTINUITY.md",
+    "featureCount": 23
+  },
+  "earlyRegionalReview": {
+    "reviewedAt": "2026-10-26",
+    "documentation": "docs/EARLY_REGIONAL_MAP_REVIEW.md",
+    "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+    "inputs": [
+      {
+        "year": -1000,
+        "file": "world_bc1000.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "ace64cae988ab72ab5536b76e052a9564eed81390404bccbc5e6a48ac646d7fc",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_bc1000.geojson"
+      },
+      {
+        "year": -700,
+        "file": "world_bc700.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "83515442984c57d4939c7fb236f16e8ab88411b76a26214cdf86b390ae36965c",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_bc700.geojson"
+      },
+      {
+        "year": -500,
+        "file": "world_bc500.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "f72bc06ca45a9f680f20ef6007aaccd13a929cd1b632bd0fb41f161cb51ba3f6",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_bc500.geojson"
+      },
+      {
+        "year": -400,
+        "file": "world_bc400.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "7c657b265b2896744efa2c56dd66f0f4a8e647f9dd3c3fbe2c4575515e4b260b",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_bc400.geojson"
+      },
+      {
+        "year": -323,
+        "file": "world_bc323.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "3e90c33ce668d9559b52b501a8a8d5607e4cc86c4131dac30ae9aa4d6e9a7616",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_bc323.geojson"
+      },
+      {
+        "year": 500,
+        "file": "world_500.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "06f7512efec9151b91b5967e8bee3e2dacf8c623e8719de8c64a996bec5ec2c1",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_500.geojson"
+      },
+      {
+        "year": 800,
+        "file": "world_800.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "9d046cdc4662109c3f803ae46e2c8cba941aa092ec86eccc7823e6cf1554920c",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_800.geojson"
+      },
+      {
+        "year": 100,
+        "file": "world_100.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "d3dba3d4988e481d6438821b7fad847946f7d549c602ebc5a3b49c508358f6ef",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_100.geojson"
+      },
+      {
+        "year": 1000,
+        "file": "world_1000.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "2140776fd7888c1d4a30e8f6debdaf56192cdf49587f3b6bb67841930ca82d29",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1000.geojson"
+      },
+      {
+        "year": 1100,
+        "file": "world_1100.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1100.geojson"
+      },
+      {
+        "year": 1200,
+        "file": "world_1200.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "2d6913ecedb38e269e41d249c87874d81e3e8d7351754821f57e627442d91525",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1200.geojson"
+      },
+      {
+        "year": 1300,
+        "file": "world_1300.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "a27985e60d936611d7933f0c30f1b52c36ef4a17225dfac25fb96abe40fa496f",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1300.geojson"
+      },
+      {
+        "year": 700,
+        "file": "world_700.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "bb66ebee15e57f5d43b0ca524dd9a230651bb821e7e002882b1981a25fd42a38",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_700.geojson"
+      },
+      {
+        "year": 1400,
+        "file": "world_1400.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "c6b0efcb42d9520a1a724f981373296e84ea2c0a0527de7a06f8f9e2465eb6ec",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1400.geojson"
+      }
+    ],
+    "featureCount": 28
+  },
+  "regionalGapsReview": {
+    "reviewedAt": "2026-10-26",
+    "documentation": "docs/REGIONAL_GAPS_REVIEW.md",
+    "selection": "scripts/regional-gap-selection.json",
+    "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+    "inputs": [
+      {
+        "year": 100,
+        "file": "world_100.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "d3dba3d4988e481d6438821b7fad847946f7d549c602ebc5a3b49c508358f6ef",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_100.geojson"
+      },
+      {
+        "year": 200,
+        "file": "world_200.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "ef811868efee04b5ae7cfe23538091f1cfa75534ecfad14d754d9cc690b2d2c7",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_200.geojson"
+      },
+      {
+        "year": 600,
+        "file": "world_600.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "e8d285de5d4257c55158979e866191d13464abc74e3082fb5f2065b357beec7a",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_600.geojson"
+      },
+      {
+        "year": 700,
+        "file": "world_700.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "bb66ebee15e57f5d43b0ca524dd9a230651bb821e7e002882b1981a25fd42a38",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_700.geojson"
+      },
+      {
+        "year": 800,
+        "file": "world_800.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "9d046cdc4662109c3f803ae46e2c8cba941aa092ec86eccc7823e6cf1554920c",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_800.geojson"
+      },
+      {
+        "year": 900,
+        "file": "world_900.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "f483b93e799d6518830ed6da6c3772c49170872d0f07515981a53e71d8dbc74c",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_900.geojson"
+      },
+      {
+        "year": 1000,
+        "file": "world_1000.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "2140776fd7888c1d4a30e8f6debdaf56192cdf49587f3b6bb67841930ca82d29",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1000.geojson"
+      },
+      {
+        "year": 1100,
+        "file": "world_1100.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "8b038ee5ec8f032d01a67293e7cf08b7bd3ed58e00defc06af9144e67e708a86",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1100.geojson"
+      },
+      {
+        "year": 1300,
+        "file": "world_1300.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "a27985e60d936611d7933f0c30f1b52c36ef4a17225dfac25fb96abe40fa496f",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1300.geojson"
+      },
+      {
+        "year": 1500,
+        "file": "world_1500.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "d01ffc9b80629787f13d2b1c2f881f005bc0164433548e30f5c058ddee0bfc7b",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1500.geojson"
+      },
+      {
+        "year": 300,
+        "file": "world_300.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "86e6a21cd7a26230184abc57ed042bd9264b569b76406f79ace8618d625b3297",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_300.geojson"
+      },
+      {
+        "year": 1200,
+        "file": "world_1200.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "2d6913ecedb38e269e41d249c87874d81e3e8d7351754821f57e627442d91525",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1200.geojson"
+      },
+      {
+        "year": 1400,
+        "file": "world_1400.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "c6b0efcb42d9520a1a724f981373296e84ea2c0a0527de7a06f8f9e2465eb6ec",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1400.geojson"
+      },
+      {
+        "year": 1700,
+        "file": "world_1700.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "eb73d6b00e98205fb2082de050c35e4d698224b17849628d82584610186b88a4",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1700.geojson"
+      },
+      {
+        "year": 1815,
+        "file": "world_1815.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "fb654f734583f550904cfa45f361e395c1a488c4960050da2632cb2ac7d1cd1e",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1815.geojson"
+      },
+      {
+        "year": 1878,
+        "file": "world_1878.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "e792520cd24cfb77b117d41533a59b0a5b82fc53a291fff1549ddc73e7f9a8b2",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1878.geojson"
+      },
+      {
+        "year": 1600,
+        "file": "world_1600.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "7285c07eeedfda9048de5354ea1744d327b07614085e9696c5802bb54c86849c",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1600.geojson"
+      },
+      {
+        "year": 1800,
+        "file": "world_1800.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "51fcb6b1f1c361956a3fc24a9c646844ff88754842aa113780428fb4abcd5f2c",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1800.geojson"
+      },
+      {
+        "year": 500,
+        "file": "world_500.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "06f7512efec9151b91b5967e8bee3e2dacf8c623e8719de8c64a996bec5ec2c1",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_500.geojson"
+      }
+    ],
+    "featureCount": 60,
+    "regions": {
+      "south-asia": 20,
+      "africa": 23,
+      "southeast-asia": 17
+    }
+  },
+  "guptaSchematicReview": {
+    "reviewedAt": "2026-10-26",
+    "documentation": "docs/THREE_REGIONS_REVIEW.md",
+    "sources": [
+      {
+        "year": 375,
+        "sha256": "b7825f1f66b8143ad5de591dd398b9396b4eed2229ea44bf57cafb7c57931b25",
+        "license": "CC-BY-SA-3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:South_Asia_historical_AD375_EN.svg"
+      },
+      {
+        "year": 450,
+        "sha256": "50c1e11a8d2bc651644492265f6d4ca6b2e16eb0ad9b6816f4b1bb2df9492904",
+        "license": "CC-BY-SA-4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:South_Asia_historical_AD450_EN.svg"
+      }
+    ],
+    "featureCount": 4
+  },
+  "threeRegionTransitionsReview": {
+    "reviewedAt": "2026-10-26",
+    "documentation": "docs/THREE_REGIONS_REVIEW.md",
+    "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+    "inputs": [
+      {
+        "year": 1200,
+        "file": "world_1200.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "2d6913ecedb38e269e41d249c87874d81e3e8d7351754821f57e627442d91525",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1200.geojson"
+      },
+      {
+        "year": 1300,
+        "file": "world_1300.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "a27985e60d936611d7933f0c30f1b52c36ef4a17225dfac25fb96abe40fa496f",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1300.geojson"
+      },
+      {
+        "year": 1400,
+        "file": "world_1400.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "c6b0efcb42d9520a1a724f981373296e84ea2c0a0527de7a06f8f9e2465eb6ec",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1400.geojson"
+      },
+      {
+        "year": 1500,
+        "file": "world_1500.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "d01ffc9b80629787f13d2b1c2f881f005bc0164433548e30f5c058ddee0bfc7b",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1500.geojson"
+      },
+      {
+        "year": 1600,
+        "file": "world_1600.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "7285c07eeedfda9048de5354ea1744d327b07614085e9696c5802bb54c86849c",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1600.geojson"
+      },
+      {
+        "year": 1700,
+        "file": "world_1700.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "eb73d6b00e98205fb2082de050c35e4d698224b17849628d82584610186b88a4",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1700.geojson"
+      },
+      {
+        "year": 1815,
+        "file": "world_1815.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "fb654f734583f550904cfa45f361e395c1a488c4960050da2632cb2ac7d1cd1e",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1815.geojson"
+      },
+      {
+        "year": 1878,
+        "file": "world_1878.geojson",
+        "sourceCommit": "da7a4b735ecef70aebdc9c73e409d8a2500d50f3",
+        "sourceSha256": "e792520cd24cfb77b117d41533a59b0a5b82fc53a291fff1549ddc73e7f9a8b2",
+        "url": "https://github.com/aourednik/historical-basemaps/blob/da7a4b735ecef70aebdc9c73e409d8a2500d50f3/geojson/world_1878.geojson"
+      }
+    ],
+    "featureCount": 12
+  },
+  "laterMapGapsReview": {
+    "reviewedAt": "2026-10-26",
+    "documentation": "docs/LATER_MAP_GAPS_REVIEW.md",
+    "featureCount": 7,
+    "sourceImages": [
+      {
+        "year": 1890,
+        "file": "1890.png",
+        "sha256": "b9e6d91556e9716ddc84f034dfd7101d7817eb09cf044bb597d806ddcb39c1e0"
+      },
+      {
+        "year": 1893,
+        "file": "1893.png",
+        "sha256": "115bc8efe560d9e981b5aa1294e4c6976c3fd59f2dd2b20db6214983152b7cf1"
+      },
+      {
+        "year": 1898,
+        "file": "1898.png",
+        "sha256": "93cbed1aacc8326098fc0e8246b4beb70b7a9c730fc58f9a3a1e944b9d870860"
+      }
+    ],
+    "peguSourceSha256": "d01ffc9b80629787f13d2b1c2f881f005bc0164433548e30f5c058ddee0bfc7b",
+    "guptaLayerSha256": "e11cf797c1dcface97ab069413b93a7659867aa9f55fc46e6285ea36986f5e81"
+  },
+  "guptaSuccessorReview": {
+    "reviewedAt": "2026-10-27",
+    "documentation": "docs/GUPTA_AYUTTHAYA_REVIEW_2026_10_27.md",
+    "sources": [
+      {
+        "year": 550,
+        "sha256": "ba37bcd11d5975d6f94bfb634f4692df95c3d8fadbe470751fa3882c9afa1d96",
+        "license": "CC-BY-SA-4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:South_Asia_historical_AD550_EN.svg"
+      },
+      {
+        "year": 590,
+        "sha256": "6ea5bdcfb6c2e6c138e158ba3080b48f1e064b6890b098a9012c0caf73983175",
+        "license": "CC-BY-SA-4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:South_Asia_historical_AD590_EN.svg"
+      }
+    ],
+    "featureCount": 7
+  },
+  "toungooSphereReview": {
+    "reviewedAt": "2026-10-27",
+    "documentation": "docs/GUPTA_AYUTTHAYA_REVIEW_2026_10_27.md",
+    "source": {
+      "url": "https://commons.wikimedia.org/wiki/File:Map_of_Taungoo_Empire_(1580).png",
+      "sha256": "de7ab082e0dcce5f97704ae8ebacb5566e6c336b62c2a44a49ab458af3001b5b",
+      "license": "CC-BY-SA-3.0"
+    },
+    "featureCount": 1
+  },
+  "chinaBoundaryRightsReview": {
+    "reviewedAt": "2026-10-28",
+    "documentation": "docs/JIANGSHAN_BOUNDARY_RIGHTS_REVIEW_2026_10_28.md",
+    "ledger": "docs/JIANGSHAN_BOUNDARY_RIGHTS_AUDIT_2026_10_28.json",
+    "removedPolitical": 377,
+    "removedAdministrative": 3211,
+    "removedPriorSnapshot": 3,
+    "replacementFeatures": 7,
+    "followup": "Six candidate GPL features were withheld after their individual input lineage could not be established."
+  },
+  "chinaMapGapReview": {
+    "date": "2026-10-28",
+    "method": "Two dated map illustrations, geographically registered and independently checked; no annual interpolation. The 400 BCE and late Ming gaps remain.",
+    "review": "docs/CHINA_MAP_GAPS_2026_10_28.md"
+  }
+}

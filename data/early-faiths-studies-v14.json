@@ -1,0 +1,194 @@
+[
+  {
+    "id": "course-early-jewish-history",
+    "title": {
+      "en": "Early Jewish history · Communities, Temple and learning",
+      "zh": "早期犹太历史 · 社群、圣殿与学习"
+    },
+    "summary": {
+      "en": "Compare Jewish communities before 70 CE, the destruction of the Temple, rabbinic traditions and later preserved documents.",
+      "zh": "比较公元70年之前的犹太社群、圣殿被毁、拉比传统与后来的存世文献。"
+    },
+    "recordIds": [
+      "jewish-communities-second-temple",
+      "jerusalem-second-temple-destruction-70",
+      "rabbinic-judaism-after-70",
+      "christian-jewish-communities-late-antiquity",
+      "cairo-geniza-everyday-documents"
+    ],
+    "mapYears": {
+      "jewish-communities-second-temple": -300,
+      "jerusalem-second-temple-destruction-70": 70,
+      "rabbinic-judaism-after-70": 150,
+      "christian-jewish-communities-late-antiquity": 250,
+      "cairo-geniza-everyday-documents": 1100
+    },
+    "routeIds": [],
+    "questions": [
+      {
+        "en": "Why does the destruction of the Temple not mark the beginning of all Jewish diaspora?",
+        "zh": "为什么圣殿被毁不标志着所有犹太离散的开始？"
+      },
+      {
+        "en": "How can later rabbinic stories and archaeological remains illuminate the past while leaving different questions unresolved?",
+        "zh": "后世拉比故事与考古遗存如何照亮过去，又各自留下哪些未解决问题？"
+      },
+      {
+        "en": "What does the Cairo Geniza reveal about a particular community rather than the whole history of Judaism?",
+        "zh": "开罗藏经库揭示某一社群的什么，而不是整个犹太教史的什么？"
+      }
+    ],
+    "activity": {
+      "en": "Compare the 70 CE event with the later study tradition. Distinguish a dated destruction, literary memory and long-term community life.",
+      "zh": "比较公元70年事件与后来的学习传统，区分有日期的毁坏、文学记忆和长期社群生活。"
+    },
+    "kind": "reading-course",
+    "estimatedMinutes": 18,
+    "evidencePolicy": "Selected contexts and approximate editorial anchors, not an origin, ending or single route for all Jewish communities. Judaism continues."
+  },
+  {
+    "id": "course-early-christian-history",
+    "title": {
+      "en": "Early Christianity · Communities, letters and councils",
+      "zh": "早期基督教 · 社群、书信与会议"
+    },
+    "summary": {
+      "en": "Read early Jesus-following communities in Jewish contexts alongside letters, varied later relationships and a fourth-century toleration policy and council.",
+      "zh": "结合书信、后来各异的关系与四世纪宽容政策及会议，阅读犹太语境中的早期耶稣追随者社群。"
+    },
+    "recordIds": [
+      "early-christianity-jewish-context",
+      "paul-corinth-letters-50s",
+      "jerusalem-second-temple-destruction-70",
+      "christian-jewish-communities-late-antiquity",
+      "milan-toleration-313",
+      "council-of-nicaea-325",
+      "aksum-ezana-christianity"
+    ],
+    "mapYears": {
+      "early-christianity-jewish-context": 30,
+      "paul-corinth-letters-50s": 52,
+      "jerusalem-second-temple-destruction-70": 70,
+      "christian-jewish-communities-late-antiquity": 200,
+      "milan-toleration-313": 313,
+      "council-of-nicaea-325": 325,
+      "aksum-ezana-christianity": 350
+    },
+    "routeIds": [],
+    "questions": [
+      {
+        "en": "What can Paul’s letters tell us about particular communities, and why are they not a complete biography or itinerary?",
+        "zh": "保罗书信能说明特定社群的什么，为什么不是完整生平或行程？"
+      },
+      {
+        "en": "How does a gradual, uneven separation differ from a single date or a claim that Judaism ended?",
+        "zh": "渐进而各地不一的分化，与单一日期或“犹太教终结”的说法有何不同？"
+      },
+      {
+        "en": "Why should the 325 council and an Aksumite royal conversion not stand for every Christian community?",
+        "zh": "为什么不能让325年会议和阿克苏姆王室改宗代表所有基督徒社群？"
+      }
+    ],
+    "activity": {
+      "en": "Compare one letter-based account, a later scholarly argument and a dated council. Note what each can and cannot establish.",
+      "zh": "比较一份书信研究、一项后来的学术论证与一场有日期的会议，指出各自能与不能证明什么。"
+    },
+    "kind": "reading-course",
+    "estimatedMinutes": 20,
+    "evidencePolicy": "Editorial comparison, not a journey or a universal date of Christian–Jewish separation. Both traditions continue."
+  },
+  {
+    "id": "course-early-buddhist-history",
+    "title": {
+      "en": "Early Buddhism · Traditions, inscriptions and art",
+      "zh": "早期佛教 · 传统、铭文与艺术"
+    },
+    "summary": {
+      "en": "Compare a disputed chronology of the Buddha with an Ashokan pillar, sacred monuments, images and later monastic learning.",
+      "zh": "比较佛陀有争议的年代、阿育王石柱、圣地古迹、造像与后来的寺院学习。"
+    },
+    "recordIds": [
+      "early-buddhist-teachings-communities",
+      "lumbini-ashoka-pillar-249-bce",
+      "sanchi",
+      "buddhist-art-mathura-gandhara",
+      "deccan-buddhist-donor-networks",
+      "nalanda"
+    ],
+    "mapYears": {
+      "early-buddhist-teachings-communities": -400,
+      "lumbini-ashoka-pillar-249-bce": -249,
+      "sanchi": -100,
+      "buddhist-art-mathura-gandhara": 100,
+      "deccan-buddhist-donor-networks": 200,
+      "nalanda": 500
+    },
+    "routeIds": [],
+    "questions": [
+      {
+        "en": "Why does an Ashokan inscription not establish the exact year of the Buddha’s birth?",
+        "zh": "为什么阿育王铭文不能确立佛陀的准确出生年份？"
+      },
+      {
+        "en": "What can a surviving image or monument show about a particular place, and what can it not date everywhere?",
+        "zh": "存世造像或古迹能说明某个地点的什么，又不能为各地的什么断代？"
+      },
+      {
+        "en": "How do stories, inscriptions, art and later learning institutions differ as evidence?",
+        "zh": "传说、铭文、艺术与后来的学习机构作为证据有何不同？"
+      }
+    ],
+    "activity": {
+      "en": "Compare the Lumbini and museum chronologies. State one disagreement and distinguish the date of a source object from the event it remembers.",
+      "zh": "比较蓝毗尼与博物馆的编年，说明一处分歧，并区分实物年代与其纪念事件的年代。"
+    },
+    "kind": "reading-course",
+    "estimatedMinutes": 20,
+    "evidencePolicy": "The sequence uses selected sources and approximate anchors, not an itinerary, a precise lifespan of the Buddha or an end to Buddhism."
+  },
+  {
+    "id": "course-early-sikh-history",
+    "title": {
+      "en": "Early Sikh history · Gurus, Khalsa and later politics",
+      "zh": "早期锡克历史 · 古鲁、卡尔萨与后来的政治"
+    },
+    "summary": {
+      "en": "Follow Sikh community sources from the Gurus through the 1699 Khalsa gathering, then compare the much later Sikh kingdom.",
+      "zh": "依据锡克社群来源，从历代古鲁读至1699年卡尔萨聚会，再比较更晚的锡克王国。"
+    },
+    "recordIds": [
+      "sikh-gurus-punjab-1469-1708",
+      "mughal-empire",
+      "khalsa-anandpur-1699",
+      "sikh-kingdom-punjab"
+    ],
+    "mapYears": {
+      "sikh-gurus-punjab-1469-1708": 1500,
+      "mughal-empire": 1600,
+      "khalsa-anandpur-1699": 1699,
+      "sikh-kingdom-punjab": 1800
+    },
+    "routeIds": [],
+    "questions": [
+      {
+        "en": "Why are the ten Gurus, the 1699 gathering and the later kingdom distinct historical subjects?",
+        "zh": "为什么十位古鲁、1699年聚会与后来的王国是不同的历史主题？"
+      },
+      {
+        "en": "What can a Sikh community account tell us, and what further perspectives would deepen it?",
+        "zh": "锡克社群叙述能提供什么？哪些更多视角可以深化理解？"
+      },
+      {
+        "en": "Why does the end of a political kingdom not mean the end of a religious community?",
+        "zh": "为什么政治王国的终结不表示宗教社群的终结？"
+      }
+    ],
+    "activity": {
+      "en": "Compare the dates 1469, 1699, 1708 and 1799. Identify the event or focus each date represents and one thing it does not mean.",
+      "zh": "比较1469、1699、1708与1799年，指出每个日期代表的事件或关注点，以及它不意味着什么。"
+    },
+    "kind": "reading-course",
+    "estimatedMinutes": 15,
+    "evidencePolicy": "A selected comparison with community sources; it is not a mapped frontier, a complete biography or the end of Sikh religious life."
+  }
+]

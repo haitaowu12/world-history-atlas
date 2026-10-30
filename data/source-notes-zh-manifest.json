@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "language": "zh-Hans",
+  "method": "Locally generated machine-assisted translations with selected editorial corrections. English originals remain authoritative.",
+  "coverage": {
+    "uniqueDataNotes": 1800,
+    "dataOccurrences": 7199,
+    "translations": 1814,
+    "reviewedOverrides": 124
+  },
+  "files": [
+    {
+      "path": "source-notes-zh-01.json",
+      "records": 450,
+      "bytes": 126894,
+      "sha256": "14bfe0568e54719c7306ed53c0a69de58af509361b36b6585d900e4718998480"
+    },
+    {
+      "path": "source-notes-zh-02.json",
+      "records": 450,
+      "bytes": 120033,
+      "sha256": "3d3e330ed6ea152f1191485a703fc9a15881058fa917023931060fa5224bc0c4"
+    },
+    {
+      "path": "source-notes-zh-03.json",
+      "records": 450,
+      "bytes": 146777,
+      "sha256": "98acba2b54c29e6a58a7747f8d3a20ee58e9535770abecb8af554a8aaa1ef746"
+    },
+    {
+      "path": "source-notes-zh-04.json",
+      "records": 450,
+      "bytes": 128478,
+      "sha256": "2784b8c56462778e468de15ed18ae21fd7c2e7c0e3485736aebf5153669938cc"
+    },
+    {
+      "path": "source-notes-zh-05.json",
+      "records": 14,
+      "bytes": 3095,
+      "sha256": "1c9602242e4d75c33d155171d8dd92e93af88d21c05bc16c7b41ec7a632baf67"
+    }
+  ]
+}

@@ -1,0 +1,817 @@
+[
+  {
+    "id": "person-george-washington",
+    "title": {
+      "en": "George Washington · Command, government and the labor behind the estate",
+      "zh": "乔治·华盛顿 · 军事指挥、政府与庄园背后的劳动"
+    },
+    "start": 1732,
+    "end": 1799,
+    "region": "north-america",
+    "kind": "person",
+    "theme": "states",
+    "importance": 4,
+    "location": {
+      "lat": 38.71,
+      "lon": -77.09,
+      "label": "Mount Vernon, Virginia; plantation, retirement and household context"
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "George Washington’s public career grew from the landholding society of colonial Virginia. Born in 1732, he learned surveying and acquired military experience before becoming a planter at Mount Vernon. His changes to crops, milling and other enterprises depended on the work of enslaved people. The estate was an economic and household institution, not simply a retreat from politics.\n\nCongress commissioned him to command the Continental Army in 1775. Keeping an army together required supplies, trained officers, civilian cooperation and political support as well as battlefield decisions. At Valley Forge in 1777–1778, soldiers and camp households endured shortages and disease while building shelters and reorganizing daily work. French assistance later contributed to the victory at Yorktown; independence cannot be explained by one commander’s will alone.\n\nWashington resigned his commission before Congress at Annapolis in 1783. He returned to national public life to preside over the Constitutional Convention in Philadelphia in 1787 and served as president from 1789 to 1797. Cabinet organization, finance, foreign relations and growing party conflict made government a continuing institutional task. His commitment to western expansion also placed Indigenous land and authority under pressure.\n\nAfter two presidential terms he returned to Mount Vernon, where he died in 1799. His will directed emancipation of people he personally owned after Martha Washington’s death; it did not free everyone under the estate’s control. His life therefore connects republican authority and relinquishment of office to the coercive labor system that sustained his wealth.",
+      "zh": "乔治·华盛顿的公共事业生长于殖民地弗吉尼亚的土地占有社会。他1732年出生，学习测量并获得军事经验，后来经营弗农山庄。更换作物、磨坊及其他经营活动依赖被奴役者的劳动。庄园是经济和家庭制度，不只是政治生活之外的退隐场所。\n\n1775年，大陆会议委任他指挥大陆军。维持军队不仅需要战场决断，也需要补给、受训军官、平民合作与政治支持。1777—1778年在福吉谷，士兵和随军家庭忍受短缺与疾病，同时建造住处、重组日常工作。法国援助后来促成约克镇胜利；独立不能仅以一位统帅的意志解释。\n\n1783年，他在安纳波利斯向议会辞去军职。1787年重返全国公共生活，主持费城制宪会议，随后于1789—1797年任总统。内阁组织、财政、外交及加深的党争，使政府建设成为持续的制度工作。他支持向西扩张，也使原住民的土地与权威承受压力。\n\n两届总统任期结束后，他返回弗农山庄，1799年在那里去世。遗嘱要求在玛莎·华盛顿去世后，解放由他本人拥有的人；这并未涵盖庄园控制下的所有被奴役者。因此，其生平把共和权威、交出公职与支撑其财富的强制劳动制度连接在一起。"
+    },
+    "dateNote": {
+      "en": "Lifespan 1732–1799. Milestones identify an encampment, congressional and convention settings, retirement and death; no continuous route is reconstructed. The will’s emancipation provision applies to those Washington personally owned, not all enslaved people at Mount Vernon.",
+      "zh": "生卒1732—1799年。节点标示营地、议会与制宪会环境，以及退休和去世，不重建连续行程。遗嘱的解放条款适用于华盛顿本人拥有的人，不涵盖弗农山庄所有被奴役者。"
+    },
+    "sources": [
+      {
+        "title": "George Washington's Life",
+        "publisher": "Mount Vernon Ladies’ Association",
+        "url": "https://www.mountvernon.org/george-washington/biography",
+        "evidenceNote": "Actual source text captured centrally through the root Codex in-app browser and read locally by the regional author. Biography sections on surveying/plantation economy, enslaved labor and will, 1775 command, French alliance, 23 December 1783 Annapolis resignation, 1787 Philadelphia convention, 1789–1797 presidency, Mount Vernon retirement and 14 December 1799 death. Its Virginia ratification margin, unanimous popular-election language and exceptionalist comparisons are not adopted.",
+        "checkedAt": "2026-10-24",
+        "retrieval": "inspected-central-browser-capture"
+      },
+      {
+        "title": "What Happened at Valley Forge",
+        "publisher": "U.S. National Park Service",
+        "url": "https://www.nps.gov/vafo/learn/historyculture/valley-forge-history-and-significance.htm",
+        "evidenceNote": "Actual source text captured centrally through the root Codex in-app browser and read locally by the regional author. 1777–1778 camp, 19 December 1777 arrival and 19 June 1778 departure, supply/organizational reforms, training, camp diversity, civilians, requisitions and disease. Supports the encampment episode, not independent corroboration of the full Washington lifespan.",
+        "checkedAt": "2026-10-24",
+        "retrieval": "inspected-central-browser-capture"
+      }
+    ],
+    "relatedIds": [
+      "valley-forge-supply-households",
+      "american-revolution",
+      "us-constitution",
+      "virginia-racial-slavery"
+    ],
+    "expansion": {
+      "workstreams": [
+        "NA3"
+      ],
+      "release": 6,
+      "edition": "v12",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "Source text was captured centrally in the Codex in-app browser and inspected locally for the claims described. This selected narrative does not establish every participant’s experience, exact routes or historical boundaries.",
+        "zh": "来源文本由主研究流程在Codex内置浏览器中获取，本区域作者逐项阅读相应文本。这段精选叙述不确立每位参与者的经历、精确行程或历史疆界。"
+      }
+    },
+    "name": {
+      "en": "George Washington",
+      "zh": "乔治·华盛顿"
+    },
+    "milestones": [
+      {
+        "year": 1777,
+        "title": {
+          "en": "Winter encampment at Valley Forge",
+          "zh": "在福吉谷建立冬营"
+        },
+        "description": {
+          "en": "The army entered Valley Forge on 19 December, beginning a winter of supply, shelter and organizational challenges.",
+          "zh": "军队于12月19日进入福吉谷，开始面对补给、住宿与组织的冬季挑战。"
+        },
+        "location": {
+          "lat": 40.1,
+          "lon": -75.44,
+          "label": "Valley Forge, Pennsylvania; representative winter encampment area"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1783,
+        "title": {
+          "en": "Resigning the military commission",
+          "zh": "辞去军职"
+        },
+        "description": {
+          "en": "He returned his commission to Congress in Annapolis on 23 December.",
+          "zh": "12月23日在安纳波利斯向议会交还军职。"
+        },
+        "location": {
+          "lat": 38.98,
+          "lon": -76.49,
+          "label": "Annapolis, Maryland; congressional resignation setting"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1787,
+        "title": {
+          "en": "Presiding at the convention",
+          "zh": "主持制宪会议"
+        },
+        "description": {
+          "en": "He presided over the Philadelphia convention that drafted a new federal constitution.",
+          "zh": "主持在费城起草新联邦宪法的会议。"
+        },
+        "location": {
+          "lat": 39.95,
+          "lon": -75.15,
+          "label": "Philadelphia, Pennsylvania; Constitutional Convention setting"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1797,
+        "title": {
+          "en": "Returning to Mount Vernon",
+          "zh": "返回弗农山庄"
+        },
+        "description": {
+          "en": "He left the presidency after two terms and returned to his plantation household.",
+          "zh": "两届总统任期后离任，回到庄园家庭。"
+        },
+        "location": {
+          "lat": 38.71,
+          "lon": -77.09,
+          "label": "Mount Vernon, Virginia; plantation, retirement and household context"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1799,
+        "title": {
+          "en": "Death at Mount Vernon",
+          "zh": "在弗农山庄去世"
+        },
+        "description": {
+          "en": "He died on 14 December; his will’s limited emancipation instructions belonged to the estate’s continuing history.",
+          "zh": "12月14日去世；遗嘱中有限的解放指示属于庄园随后继续发展的历史。"
+        },
+        "location": {
+          "lat": 38.71,
+          "lon": -77.09,
+          "label": "Mount Vernon, Virginia; plantation, retirement and household context"
+        },
+        "approximate": false
+      }
+    ]
+  },
+  {
+    "id": "valley-forge-supply-households",
+    "title": {
+      "en": "Valley Forge · Supply systems and a camp society",
+      "zh": "福吉谷 · 补给体系与营地社会"
+    },
+    "start": 1777,
+    "end": 1778,
+    "region": "north-america",
+    "kind": "event",
+    "theme": "cities",
+    "importance": 3,
+    "location": {
+      "lat": 40.1,
+      "lon": -75.44,
+      "label": "Valley Forge, Pennsylvania; representative winter encampment area"
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "The Continental Army’s winter at Valley Forge joined military survival to the work of a temporary community. From December 1777 to June 1778, soldiers built huts, guarded approaches and obtained food, clothing and equipment near British-occupied Philadelphia. A bridge over the Schuylkill connected the camp with farms, a market and commissary activity north of the river. Supply was an organizational problem, rather than simply an absence of food everywhere nearby.\n\nWomen and children lived with the army, alongside free and enslaved Black people, Indigenous allies, immigrants and men with different reasons for serving. Their experiences were unequal. Some sought wages or freedom, while others had been conscripted. Local residents also disagreed about the war; assistance, refusal, requisition and accusations of disloyalty shaped their encounters with soldiers.\n\nDisease caused much of the mortality, including in spring when provisions improved. Care, sanitation and organization mattered alongside the better-known military training associated with Friedrich Wilhelm von Steuben. Keeping the army in one place also consumed timber, fences, livestock and stores from surrounding communities.\n\nThe camp’s transformation was therefore collective and costly. Its history is distinct from a battle narrative: no battle occurred at Valley Forge, and the 1777–1778 interval does not imply that everyone there shared one meaning of liberty.",
+      "zh": "大陆军在福吉谷过冬，把军事生存与临时社区的劳动结合起来。1777年12月至1778年6月，士兵在英军占领的费城附近建造木屋、守卫通道，并获取食物、衣物和装备。跨越斯库尔基尔河的桥梁，把营地与北岸农场、市场及军需活动相连。补给首先是组织问题，并不只是周边处处缺粮。\n\n妇女和儿童与军队同住，营地还有自由及被奴役的黑人、原住民盟友、移民，以及出于不同动机服役的人。他们的处境并不平等。有些人谋求工资或自由，另一些则被征召。当地居民对战争也有分歧；援助、拒绝、征用及“不忠”的指控，影响他们与士兵的关系。\n\n疾病造成大量死亡，甚至在春季补给改善后仍然如此。照护、卫生和组织，与冯·施托伊本的军事训练同样重要。大军集中驻扎，还消耗周边社区的木材、围栏、牲畜与储粮。\n\n因此，营地的转变既是集体成果，也付出社会成本。它与战役叙述不同：福吉谷没有发生战斗，1777—1778年的窗口也不意味着所有人对自由有共同理解。"
+    },
+    "dateNote": {
+      "en": "19 December 1777–19 June 1778 is the encampment interval. The point marks the camp area, not every hut, hospital, supply farm or resident’s address. Surrounding land use and community histories began earlier and continued afterward.",
+      "zh": "1777年12月19日至1778年6月19日为驻营期。点位代表营地区域，不是每座木屋、医院、供粮农场或居民地址。周边土地利用和社区历史更早开始，此后继续。"
+    },
+    "sources": [
+      {
+        "title": "What Happened at Valley Forge",
+        "publisher": "U.S. National Park Service",
+        "url": "https://www.nps.gov/vafo/learn/historyculture/valley-forge-history-and-significance.htm",
+        "evidenceNote": "Actual source text captured centrally through the root Codex in-app browser and read locally by the regional author. 1777–1778 camp, 19 December 1777 arrival and 19 June 1778 departure, supply/organizational reforms, training, camp diversity, civilians, requisitions and disease. Supports the encampment episode, not independent corroboration of the full Washington lifespan.",
+        "checkedAt": "2026-10-24",
+        "retrieval": "inspected-central-browser-capture"
+      }
+    ],
+    "relatedIds": [
+      "person-george-washington",
+      "american-revolution",
+      "haudenosaunee-revolution-era"
+    ],
+    "expansion": {
+      "workstreams": [
+        "NA3"
+      ],
+      "release": 6,
+      "edition": "v12",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "The principal inspected source is an NPS institutional synthesis, including its 2007 management-plan history. It supports the camp’s social and logistical context; head counts and hut totals that differ within the page are not adopted. No independent archival census or measured causal estimate is claimed.",
+        "zh": "主要已读来源为NPS机构综述，包括2007年管理规划的历史部分。它支持营地的社会与后勤背景；页面内部不同的人数及木屋数字不予采用。不声称独立档案普查或经测量的因果估计。"
+      }
+    }
+  },
+  {
+    "id": "person-abraham-lincoln",
+    "title": {
+      "en": "Abraham Lincoln · Union, emancipation and unfinished freedom",
+      "zh": "亚伯拉罕·林肯 · 联邦、解放与未完成的自由"
+    },
+    "start": 1809,
+    "end": 1865,
+    "region": "north-america",
+    "kind": "person",
+    "theme": "states",
+    "importance": 4,
+    "location": {
+      "lat": 39.8,
+      "lon": -89.65,
+      "label": "Springfield, Illinois; legal and political home, not every debate venue"
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Abraham Lincoln’s route to the presidency passed through self-education, legal work and competitive electoral politics. Born near Hodgenville, Kentucky, in 1809, he had limited access to formal schooling. Study and work carried him into Illinois law and the political world of Springfield. Service in the state legislature and Congress preceded a failed Senate campaign in 1858 whose debates brought him national attention.\n\nHis opposition to slavery’s expansion helped define his 1860 presidential campaign. Victory was followed by secession, and preserving the Union became his immediate war objective. The conflict nevertheless changed as enslaved people sought their own freedom, Black men entered federal service and emancipation became a Union military policy. These actions and pressures belong alongside presidential decisions.\n\nLincoln issued the final Emancipation Proclamation on 1 January 1863. It declared freedom in specified rebellious areas, exempting loyal border states and other named places. Its enforcement depended on military advances. It neither instantly ended slavery everywhere nor made freedom solely a gift bestowed from Washington.\n\nWartime government also expanded executive power, including restrictions on legal protections. Military victory and a second presidential term did not settle citizenship, land, education or equal treatment. Lincoln was shot at Ford’s Theatre in Washington and died on 15 April 1865, leaving those questions to a contested Reconstruction. His biography connects an extraordinary political ascent to the collective struggle that destroyed slavery and to the limits of what emancipation alone could accomplish.",
+      "zh": "亚伯拉罕·林肯通往总统职位的道路，经过自学、法律工作与竞争性的选举政治。他1809年生于肯塔基州霍奇维尔附近，接受正规教育的机会有限。学习和工作使他进入伊利诺伊州法律界及斯普林菲尔德的政治环境。在州议会和国会任职后，他1858年竞选参议员失利，但辩论使他获得全国关注。\n\n反对奴隶制扩张是1860年总统竞选的重要立场。胜选后南方各州分离，维护联邦成为他的直接战争目标。但战争也因被奴役者争取自由、黑人参加联邦军队，以及解放成为军事政策而改变。这些行动与压力应与总统决策一同理解。\n\n林肯于1863年1月1日颁布最终《解放宣言》，宣布指定叛乱地区被奴役者获得自由，同时豁免忠于联邦的边境州和其他明确列出的地方。执行依赖军事推进。宣言既没有立即在全国结束奴隶制，也不意味着自由只是从华盛顿授予的礼物。\n\n战时政府还扩大行政权，包括限制法律保障。军事胜利和第二届任期没有解决公民身份、土地、教育或平等待遇。林肯在华盛顿福特剧院遭枪击，1865年4月15日去世，把这些问题留给充满争议的重建时期。其生平把非凡的政治上升，与摧毁奴隶制的集体斗争及仅靠解放能够达到的限度联系起来。"
+    },
+    "dateNote": {
+      "en": "Lifespan 1809–1865. Milestones are limited to supported birth, proclamation and death settings; no exact relocation year is inferred from the NPS page’s compressed lawyer/Springfield chronology. January 1863 is not nationwide abolition.",
+      "zh": "生卒1809—1865年。节点限于有依据的出生、宣言颁布与去世环境，不从NPS压缩的律师/斯普林菲尔德叙述推断确切迁居年。1863年1月不是全国废奴的日期。"
+    },
+    "sources": [
+      {
+        "title": "Abraham Lincoln",
+        "publisher": "U.S. National Park Service",
+        "url": "https://www.nps.gov/people/abraham-lincoln.htm",
+        "evidenceNote": "Actual source text captured centrally through the root Codex in-app browser and read locally by the regional author. Biographical text: 1809 Hodgenville-area birth, self-education, law and Springfield career, 1858 Senate debates, 1860 election, secession/war, executive powers, second term and 15 April 1865 death in Washington. The page’s conflated lawyer/move chronology, cemetery name and overbroad proclamation wording are not adopted.",
+        "checkedAt": "2026-10-24",
+        "retrieval": "inspected-central-browser-capture"
+      },
+      {
+        "title": "Emancipation Proclamation (1863)",
+        "publisher": "U.S. National Archives",
+        "url": "https://www.archives.gov/milestone-documents/emancipation-proclamation",
+        "evidenceNote": "Actual source text captured centrally through the root Codex in-app browser and read locally by the regional author. Historical explanation and proclamation transcript: preliminary measure 22 September 1862; final measure issued at Washington on 1 January 1863, limited rebellious areas and explicit exceptions, military dependence, Black armed service and enslaved people’s own pursuit of freedom. Does not say nationwide slavery ended in January 1863.",
+        "checkedAt": "2026-10-24",
+        "retrieval": "inspected-central-browser-capture"
+      }
+    ],
+    "relatedIds": [
+      "penn-school-freedom-education",
+      "us-civil-war",
+      "person-frederick-douglass",
+      "person-harriet-tubman"
+    ],
+    "expansion": {
+      "workstreams": [
+        "NA3"
+      ],
+      "release": 6,
+      "edition": "v12",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "Source text was captured centrally in the Codex in-app browser and inspected locally for the claims described. This selected narrative does not establish every participant’s experience, exact routes or historical boundaries.",
+        "zh": "来源文本由主研究流程在Codex内置浏览器中获取，本区域作者逐项阅读相应文本。这段精选叙述不确立每位参与者的经历、精确行程或历史疆界。"
+      }
+    },
+    "name": {
+      "en": "Abraham Lincoln",
+      "zh": "亚伯拉罕·林肯"
+    },
+    "milestones": [
+      {
+        "year": 1809,
+        "title": {
+          "en": "Birth near Hodgenville",
+          "zh": "生于霍奇维尔附近"
+        },
+        "description": {
+          "en": "He was born in rural Kentucky on 12 February.",
+          "zh": "2月12日生于肯塔基州乡村。"
+        },
+        "location": {
+          "lat": 37.53,
+          "lon": -85.74,
+          "label": "Hodgenville vicinity, Kentucky; representative birthplace locality"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1863,
+        "title": {
+          "en": "Issuing the Emancipation Proclamation",
+          "zh": "颁布《解放宣言》"
+        },
+        "description": {
+          "en": "The 1 January proclamation applied to designated rebellious areas and depended on federal military enforcement.",
+          "zh": "1月1日的宣言适用于指定叛乱地区，其执行依赖联邦军事力量。"
+        },
+        "location": {
+          "lat": 38.9,
+          "lon": -77.04,
+          "label": "Washington, D.C.; presidential and proclamation context"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1865,
+        "title": {
+          "en": "Death in Washington",
+          "zh": "在华盛顿去世"
+        },
+        "description": {
+          "en": "He died on 15 April after being shot at Ford’s Theatre the previous evening.",
+          "zh": "前夜在福特剧院遭枪击，4月15日去世。"
+        },
+        "location": {
+          "lat": 38.9,
+          "lon": -77.03,
+          "label": "Washington, D.C., near Ford’s Theatre; representative assassination/death locality, not the theater as place of death"
+        },
+        "approximate": false
+      }
+    ]
+  },
+  {
+    "id": "person-martin-luther-king-jr",
+    "title": {
+      "en": "Martin Luther King Jr. · Churches, collective action and economic justice",
+      "zh": "小马丁·路德·金 · 教会、集体行动与经济正义"
+    },
+    "start": 1929,
+    "end": 1968,
+    "region": "north-america",
+    "kind": "person",
+    "theme": "states",
+    "importance": 4,
+    "location": {
+      "lat": 33.76,
+      "lon": -84.37,
+      "label": "Atlanta, Georgia; Ebenezer Baptist Church and organizing context"
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Martin Luther King Jr. developed his public voice through education, Baptist ministry and organized struggle against segregation. Study at Morehouse, Crozer and Boston University preceded his 1954 pastorate at Dexter Avenue Baptist Church in Montgomery. When the city’s Black residents began their bus boycott in 1955, he became a leading spokesman within a campaign sustained by many organizers, churches, workers and households.\n\nThe boycott exposed him and his family to arrest, bombing and intimidation. His subsequent leadership in the Southern Christian Leadership Conference helped connect local campaigns, drawing on Christian argument and nonviolent action. From 1960 he also served as co-pastor at Atlanta’s Ebenezer Baptist Church. A church was a workplace and organizing institution, not only the setting for memorable speeches.\n\nThe Nobel Peace Prize in 1964 recognized his movement leadership, but recognition did not complete the struggle. In 1968 Memphis sanitation workers demanded union recognition, safer equipment and adequate wages after two colleagues were killed. Their campaign had its own local leaders and a history preceding King’s arrival. He joined because racial equality and economic justice could not be separated.\n\nThe March protest he helped lead ended in violence, and police attacked demonstrators; he nevertheless returned to support continued nonviolent organizing. He was assassinated at the Lorraine Motel on 4 April. Workers and supporters continued afterward, reaching an agreement later that month. His life story therefore points outward to the institutions and collective labor that made action possible, rather than making one speaker responsible for every civil-rights achievement.",
+      "zh": "小马丁·路德·金通过教育、浸信会牧职及反对种族隔离的组织行动，形成公共表达。在莫尔豪斯学院、克罗泽神学院与波士顿大学学习后，他1954年到蒙哥马利德克斯特大道浸信会教堂任牧师。1955年当地黑人居民开始抵制公共汽车时，他成为重要发言人；运动依靠众多组织者、教会、工人和家庭维持。\n\n抵制使他及家人遭遇逮捕、炸弹袭击与恐吓。此后他领导南方基督教领袖会议，以基督教论述和非暴力行动连接地方运动。自1960年起，他还在亚特兰大埃比尼泽浸信会教堂担任共同牧师。教会是工作与组织机构，不只是著名演讲的背景。\n\n1964年诺贝尔和平奖认可其运动领导作用，但获奖并未完成斗争。1968年，两位同事遇难后，孟菲斯清洁工要求工会承认、较安全的设备和足够工资。当地运动有自己的领袖和早于金到访的历史。他参与是因为种族平等与经济正义无法分开。\n\n他协助领导的3月示威以暴力告终，警察袭击参加者；他仍返回支持继续的非暴力组织。4月4日，他在洛林汽车旅馆遇刺。工人和支持者随后继续行动，在当月晚些时候达成协议。其生平因此把目光引向使行动成为可能的制度与集体劳动，而不把所有民权成果归于一位演说者。"
+    },
+    "dateNote": {
+      "en": "Lifespan 1929–1968. Milestones distinguish Montgomery pastorate/boycott, Atlanta co-pastorate and Memphis support/assassination. The source biography’s historical terminology is not adopted as current narration. Local workers’ struggle continued after his death.",
+      "zh": "生卒1929—1968年。节点区分蒙哥马利牧职与抵制、亚特兰大共同牧职，以及在孟菲斯的支持行动和遇刺。不把来源传记中的历史称谓直接用作当前叙述。当地工人的斗争在他去世后继续。"
+    },
+    "sources": [
+      {
+        "title": "Martin Luther King Jr. – Biographical",
+        "publisher": "Nobel Foundation / NobelPrize.org",
+        "url": "https://www.nobelprize.org/prizes/peace/1964/king/biographical/",
+        "evidenceNote": "Actual source text captured centrally through the root Codex in-app browser and read locally by the regional author. Historical biography: 1929–1968 lifespan, Morehouse/Crozer/Boston education, 1954 Dexter Avenue pastorate in Montgomery, 1955 boycott leadership, 1957 SCLC presidency, 1960 Atlanta co-pastorate, 1964 Nobel award and 1968 Memphis death. Dated terminology, numerical publicity claims, sole-leader framing and contemporary party-campaign wording are not adopted.",
+        "checkedAt": "2026-10-24",
+        "retrieval": "inspected-central-browser-capture"
+      },
+      {
+        "title": "Memphis Sanitation Workers' Strike",
+        "publisher": "Martin Luther King, Jr. Research and Education Institute, Stanford University",
+        "url": "https://kinginstitute.stanford.edu/encyclopedia/memphis-sanitation-workers-strike",
+        "evidenceNote": "Actual source text captured centrally through the root Codex in-app browser and read locally by the regional author. Full historical entry: 1 February 1968 deaths of Echol Cole and Robert Walker, 12 February strike, union/safety/wage demands, local organizers and ministers, 18 and 28 March King involvement, police violence, 3 April return, 4 April assassination, 8 April march and 16 April agreement, later enforcement pressure. No King speech text is reproduced.",
+        "checkedAt": "2026-10-24",
+        "retrieval": "inspected-central-browser-capture"
+      }
+    ],
+    "relatedIds": [
+      "memphis-sanitation-strike-1968",
+      "montgomery-bus-boycott",
+      "us-civil-rights-movement"
+    ],
+    "expansion": {
+      "workstreams": [
+        "NA3"
+      ],
+      "release": 6,
+      "edition": "v12",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "Source text was captured centrally in the Codex in-app browser and inspected locally for the claims described. This selected narrative does not establish every participant’s experience, exact routes or historical boundaries.",
+        "zh": "来源文本由主研究流程在Codex内置浏览器中获取，本区域作者逐项阅读相应文本。这段精选叙述不确立每位参与者的经历、精确行程或历史疆界。"
+      }
+    },
+    "name": {
+      "en": "Martin Luther King Jr.",
+      "zh": "小马丁·路德·金"
+    },
+    "aliases": [
+      "Martin Luther King",
+      "MLK"
+    ],
+    "milestones": [
+      {
+        "year": 1954,
+        "title": {
+          "en": "Pastor in Montgomery",
+          "zh": "在蒙哥马利任牧师"
+        },
+        "description": {
+          "en": "He became pastor of Dexter Avenue Baptist Church.",
+          "zh": "到德克斯特大道浸信会教堂任牧师。"
+        },
+        "location": {
+          "lat": 32.38,
+          "lon": -86.3,
+          "label": "Montgomery, Alabama; church and boycott organizing setting"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1955,
+        "title": {
+          "en": "Leadership within a boycott",
+          "zh": "在抵制运动中承担领导工作"
+        },
+        "description": {
+          "en": "He became a spokesman for a community campaign against segregated buses.",
+          "zh": "在社区反对公共汽车隔离的运动中担任发言人。"
+        },
+        "location": {
+          "lat": 32.38,
+          "lon": -86.3,
+          "label": "Montgomery, Alabama; church and boycott organizing setting"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1960,
+        "title": {
+          "en": "Co-pastor at Ebenezer",
+          "zh": "在埃比尼泽担任共同牧师"
+        },
+        "description": {
+          "en": "He joined his father in the Atlanta church’s ministry while continuing movement work.",
+          "zh": "在亚特兰大教会与父亲共同从事牧职，同时继续运动工作。"
+        },
+        "location": {
+          "lat": 33.76,
+          "lon": -84.37,
+          "label": "Atlanta, Georgia; Ebenezer Baptist Church and organizing context"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1968,
+        "title": {
+          "en": "Supporting sanitation workers",
+          "zh": "支持清洁工"
+        },
+        "description": {
+          "en": "He addressed workers in Memphis in March and returned in April to support their demands.",
+          "zh": "3月在孟菲斯向工人演讲，4月返回支持其诉求。"
+        },
+        "location": {
+          "lat": 35.13,
+          "lon": -90.06,
+          "label": "Memphis, Tennessee; representative sanitation strike and final campaign setting"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1968,
+        "title": {
+          "en": "Assassinated at the Lorraine Motel",
+          "zh": "在洛林汽车旅馆遇刺"
+        },
+        "description": {
+          "en": "He was killed on 4 April while in Memphis for the workers’ campaign.",
+          "zh": "4月4日在孟菲斯支持工人运动期间被杀害。"
+        },
+        "location": {
+          "lat": 35.13,
+          "lon": -90.06,
+          "label": "Lorraine Motel, Memphis; representative assassination site"
+        },
+        "approximate": false
+      }
+    ]
+  },
+  {
+    "id": "memphis-sanitation-strike-1968",
+    "title": {
+      "en": "Memphis sanitation strike · Safety, wages and recognition",
+      "zh": "孟菲斯清洁工罢工 · 安全、工资与组织承认"
+    },
+    "start": 1968,
+    "end": 1968,
+    "region": "north-america",
+    "kind": "event",
+    "theme": "states",
+    "importance": 3,
+    "location": {
+      "lat": 35.13,
+      "lon": -90.06,
+      "label": "Memphis, Tennessee; representative sanitation strike and final campaign setting"
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "The deaths of sanitation workers Echol Cole and Robert Walker in a malfunctioning truck on 1 February 1968 exposed the dangers of a job already marked by low wages and racial inequality. Black public-works employees began their strike on 12 February. Led locally by T. O. Jones and supported by AFSCME, they demanded union recognition, safer conditions and better pay.\n\nThe dispute grew into a wider community campaign. Ministers formed Community on the Move for Equality, students joined demonstrations and workers continued daily marches. Municipal authority was itself contested: the mayor rejected a City Council move toward recognition. This was a struggle over how an essential city service was governed and whose labor counted.\n\nKing’s arrival brought national attention to an existing local movement. A 28 March march broke down amid violence; police killed a teenager and attacked people who had returned to Clayborn Temple. King returned in April and was assassinated on 4 April. On 8 April, Coretta Scott King, union leaders and supporters led a silent march.\n\nAn agreement on 16 April enabled recognition and improved wages, ending the strike. Implementation still required pressure later that year. Remembering the campaign only as the setting of King’s death would obscure the workers’ organizing, the conditions they challenged and the continuing work of making an agreement effective.",
+      "zh": "1968年2月1日，清洁工埃科尔·科尔和罗伯特·沃克被故障垃圾车压死，暴露出这份工作在低工资和种族不平等之外的危险。黑人市政工人2月12日开始罢工。运动由当地T.O.琼斯等领导，并获美国州、县、市雇员工会支持，要求承认工会、改善安全与增加工资。\n\n争议扩展为更广泛的社区行动。牧师组成“争取平等行动社区”，学生参加示威，工人持续每日游行。市政权力本身也受到争论：市长拒绝市议会朝承认工会迈进的决定。这是关于基本城市服务如何治理，以及谁的劳动得到重视的斗争。\n\n金的到来为既有地方运动带来全国关注。3月28日游行在暴力中中断；警察打死一名少年，并袭击返回克莱伯恩教堂的人。金4月再来，4月4日遇刺。4月8日，科雷塔·斯科特·金、工会领袖与支持者带领静默游行。\n\n4月16日的协议使工会得以获得承认并改善工资，罢工结束，但当年晚些时候仍需施压才能落实。若只把这场运动记作金遇刺的背景，便会遮蔽工人的组织、他们挑战的工作条件，以及使协议真正生效的持续劳动。"
+    },
+    "dateNote": {
+      "en": "The strike ran from 12 February to 16 April 1968; the 1 February deaths are its immediate context. The Memphis point represents the municipal labor struggle, not every workplace, march route or participant’s home.",
+      "zh": "罢工从1968年2月12日至4月16日；2月1日的遇难事件是直接背景。孟菲斯点位代表市政劳动斗争，不标示每个工作场所、游行路线或参加者家庭。"
+    },
+    "sources": [
+      {
+        "title": "Martin Luther King Jr. – Biographical",
+        "publisher": "Nobel Foundation / NobelPrize.org",
+        "url": "https://www.nobelprize.org/prizes/peace/1964/king/biographical/",
+        "evidenceNote": "Actual source text captured centrally through the root Codex in-app browser and read locally by the regional author. Historical biography: 1929–1968 lifespan, Morehouse/Crozer/Boston education, 1954 Dexter Avenue pastorate in Montgomery, 1955 boycott leadership, 1957 SCLC presidency, 1960 Atlanta co-pastorate, 1964 Nobel award and 1968 Memphis death. Dated terminology, numerical publicity claims, sole-leader framing and contemporary party-campaign wording are not adopted.",
+        "checkedAt": "2026-10-24",
+        "retrieval": "inspected-central-browser-capture"
+      },
+      {
+        "title": "Memphis Sanitation Workers' Strike",
+        "publisher": "Martin Luther King, Jr. Research and Education Institute, Stanford University",
+        "url": "https://kinginstitute.stanford.edu/encyclopedia/memphis-sanitation-workers-strike",
+        "evidenceNote": "Actual source text captured centrally through the root Codex in-app browser and read locally by the regional author. Full historical entry: 1 February 1968 deaths of Echol Cole and Robert Walker, 12 February strike, union/safety/wage demands, local organizers and ministers, 18 and 28 March King involvement, police violence, 3 April return, 4 April assassination, 8 April march and 16 April agreement, later enforcement pressure. No King speech text is reproduced.",
+        "checkedAt": "2026-10-24",
+        "retrieval": "inspected-central-browser-capture"
+      }
+    ],
+    "relatedIds": [
+      "person-martin-luther-king-jr",
+      "us-civil-rights-movement",
+      "person-ida-b-wells"
+    ],
+    "expansion": {
+      "workstreams": [
+        "NA3"
+      ],
+      "release": 6,
+      "edition": "v12",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "Stanford’s historical synthesis is the principal evidence for workers, dates and settlement; Nobel’s biography separately confirms King’s presence and death. The original union files and all cited speech texts were not independently read. Recognition and agreement are distinguished from guaranteed implementation.",
+        "zh": "工人、日期及协议主要依据斯坦福历史综述；诺贝尔传记另行佐证金在场及遇刺。未独立阅读原工会档案或所有所引演讲。区分组织承认、达成协议与保证落实。"
+      }
+    }
+  },
+  {
+    "id": "person-jane-addams",
+    "title": {
+      "en": "Jane Addams · Neighborhood work and international peace",
+      "zh": "简·亚当斯 · 街区工作与国际和平"
+    },
+    "start": 1860,
+    "end": 1935,
+    "region": "north-america",
+    "kind": "person",
+    "theme": "cities",
+    "importance": 4,
+    "location": {
+      "lat": 41.87,
+      "lon": -87.65,
+      "label": "Hull-House, Near West Side, Chicago; settlement and neighborhood context"
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Jane Addams used the opportunities of an affluent Illinois upbringing to search for a public vocation. After graduating from Rockford Female Seminary in 1881, she explored further study and spent time in Europe. A visit with Ellen Gates Starr to Toynbee Hall in London helped give shape to a settlement in which educated residents would live and work within an industrial neighborhood.\n\nIn 1889 the two women established Hull-House on Chicago’s Near West Side. Its work depended on a team, donors and neighborhood participation. Childcare, classes, cultural activities and employment assistance connected household needs to industrial-city conditions. Addams also pursued investigations into sanitation and other urban problems, and worked with fellow reformers on public policy. Services were a practical response to unequal opportunities; their existence did not by itself prove that every resident shared the reformers’ priorities.\n\nHer concern with civic participation included women’s suffrage and opposition to racial exclusion. Peace became another field of organization. In 1915 she headed the Women’s Peace Party and presided over the International Congress of Women at The Hague. Opposition to American entry into the First World War brought hostile publicity, while relief work offered a continuing way to assist civilians.\n\nShe received the Nobel Peace Prize in 1931 but was hospitalized in Baltimore while the ceremony took place in Oslo. She died in 1935. Her life connects local care and social investigation with difficult public arguments about war, belonging and the responsibilities of citizenship.",
+      "zh": "简·亚当斯利用伊利诺伊州富裕家庭带来的机会，寻找公共事业方向。1881年从罗克福德女子学校（Rockford Female Seminary）毕业后，她尝试继续学习并赴欧洲生活。与艾伦·盖茨·斯塔尔探访伦敦汤因比馆，使她逐渐形成社区定居服务机构的设想：受教育的工作人员住进工业街区，与居民一起生活和工作。\n\n1889年，两人在芝加哥近西区建立赫尔之家。其工作依靠团队、捐助者与街区参与。托育、课程、文化活动和就业援助，把家庭需要与工业城市的条件连接起来。亚当斯还调查卫生等城市问题，与其他改革者推进公共政策。服务是应对机会不平等的实际办法；服务存在本身不证明每位居民都认同改革者的优先事项。\n\n她对公共参与的关注包括女性选举权及反对种族排斥。和平成为另一种组织工作。1915年，她领导妇女和平党，并主持海牙国际妇女大会。反对美国参加第一次世界大战，使她遭遇敌对舆论，而救济工作仍提供援助平民的渠道。\n\n1931年获得诺贝尔和平奖时，她正在巴尔的摩住院，颁奖典礼则在奥斯陆举行。她1935年去世。其生平把地方照护与社会调查，同关于战争、归属和公民责任的艰难公共争论连接起来。"
+    },
+    "dateNote": {
+      "en": "Lifespan 1860–1935. The 1931 point marks her documented Baltimore hospitalization while the award ceremony occurred in Oslo; it does not imply a Nobel ceremony visit. Milestones select education, settlement work and peace organizing rather than a complete itinerary.",
+      "zh": "生卒1860—1935年。1931年点位表示有文献依据的巴尔的摩住院，而颁奖典礼在奥斯陆举行，不暗示亲赴诺贝尔典礼。节点选择教育、社区服务及和平组织，不构成完整行程。"
+    },
+    "sources": [
+      {
+        "title": "Jane Addams – Biographical",
+        "publisher": "Nobel Foundation / NobelPrize.org",
+        "url": "https://www.nobelprize.org/prizes/peace/1931/addams/biographical/",
+        "evidenceNote": "Actual source text captured centrally through the root Codex in-app browser and read locally by the regional author. Historical biography: 1860–1935 lifespan, 1881 Rockford graduation, Ellen Gates Starr and Hull-House founding 1889, educational/cultural services, civic investigations, 1915 Hague congress and peace leadership, wartime criticism, and Baltimore hospitalization during the 1931 Oslo award. No false award-attendance itinerary is inferred.",
+        "checkedAt": "2026-10-24",
+        "retrieval": "inspected-central-browser-capture"
+      },
+      {
+        "title": "Jane Addams",
+        "publisher": "Debra Michals, PhD / National Women’s History Museum",
+        "url": "https://www.womenshistory.org/education-resources/biographies/jane-addams",
+        "evidenceNote": "Actual source text captured centrally through the root Codex in-app browser and read locally by the regional author. Biography: privileged upbringing, Rockford education, 1888 Toynbee Hall visit, joint Hull-House founding and neighborhood services, team reform, suffrage/NAACP involvement, peace activism and 1935 death. The incorrect first-US-settlement-house claim and unsupported priority/office-duration claims are omitted.",
+        "checkedAt": "2026-10-24",
+        "retrieval": "inspected-central-browser-capture"
+      },
+      {
+        "title": "Jane Addams Hull-House Museum",
+        "publisher": "University of Illinois Chicago, Jane Addams Hull-House Museum",
+        "url": "https://hullhouse.uic.edu/",
+        "evidenceNote": "Actual source text captured centrally through the root Codex in-app browser and read locally by the regional author. Museum home-page institutional description confirms joint founding by Jane Addams and Ellen Gates Starr, Near West Side context and work concerning immigrant rights, labor, justice and democracy. Address provides present-day site orientation, not a claim about every historic facility. No exhibition or collection-item reading is implied.",
+        "checkedAt": "2026-10-24",
+        "retrieval": "inspected-central-browser-capture"
+      }
+    ],
+    "relatedIds": [
+      "hull-house-immigrant-neighborhood",
+      "person-ida-b-wells",
+      "seneca-falls-convention"
+    ],
+    "expansion": {
+      "workstreams": [
+        "NA3"
+      ],
+      "release": 6,
+      "edition": "v12",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "Source text was captured centrally in the Codex in-app browser and inspected locally for the claims described. This selected narrative does not establish every participant’s experience, exact routes or historical boundaries.",
+        "zh": "来源文本由主研究流程在Codex内置浏览器中获取，本区域作者逐项阅读相应文本。这段精选叙述不确立每位参与者的经历、精确行程或历史疆界。"
+      }
+    },
+    "name": {
+      "en": "Jane Addams",
+      "zh": "简·亚当斯"
+    },
+    "milestones": [
+      {
+        "year": 1881,
+        "title": {
+          "en": "Graduation at Rockford",
+          "zh": "在罗克福德毕业"
+        },
+        "description": {
+          "en": "She completed studies at Rockford Female Seminary; its later degree accreditation is a separate matter.",
+          "zh": "完成罗克福德女子学校（Rockford Female Seminary）学业；学校随后获得学位认证是另一件事。"
+        },
+        "location": {
+          "lat": 42.27,
+          "lon": -89.09,
+          "label": "Rockford, Illinois; Rockford Female Seminary education setting"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1889,
+        "title": {
+          "en": "Hull-House opens",
+          "zh": "赫尔之家开办"
+        },
+        "description": {
+          "en": "She and Ellen Gates Starr began a settlement in Chicago’s industrial Near West Side.",
+          "zh": "与艾伦·盖茨·斯塔尔在芝加哥工业化的近西区开始社区定居服务。"
+        },
+        "location": {
+          "lat": 41.87,
+          "lon": -87.65,
+          "label": "Hull-House, Near West Side, Chicago; settlement and neighborhood context"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1915,
+        "title": {
+          "en": "International Congress of Women",
+          "zh": "国际妇女大会"
+        },
+        "description": {
+          "en": "She presided over the peace congress at The Hague.",
+          "zh": "主持在海牙举行的和平大会。"
+        },
+        "location": {
+          "lat": 52.08,
+          "lon": 4.31,
+          "label": "The Hague, Netherlands; International Congress of Women setting"
+        },
+        "approximate": false
+      },
+      {
+        "year": 1931,
+        "title": {
+          "en": "Recognition while hospitalized",
+          "zh": "住院期间获奖"
+        },
+        "description": {
+          "en": "She was in Baltimore when the Nobel Peace Prize ceremony honored her in Oslo.",
+          "zh": "奥斯陆举行诺贝尔和平奖颁奖典礼时，她在巴尔的摩。"
+        },
+        "location": {
+          "lat": 39.29,
+          "lon": -76.61,
+          "label": "Baltimore, Maryland; hospitalization during the Oslo award ceremony, not an Oslo visit"
+        },
+        "approximate": false
+      }
+    ]
+  },
+  {
+    "id": "hull-house-immigrant-neighborhood",
+    "title": {
+      "en": "Hull-House · Care, learning and an industrial neighborhood",
+      "zh": "赫尔之家 · 照护、学习与工业街区"
+    },
+    "start": 1889,
+    "end": 1915,
+    "region": "north-america",
+    "kind": "place",
+    "theme": "cities",
+    "importance": 3,
+    "location": {
+      "lat": 41.87,
+      "lon": -87.65,
+      "label": "Hull-House, Near West Side, Chicago; settlement and neighborhood context"
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Hull-House began in 1889 when Jane Addams and Ellen Gates Starr moved into a house at Halsted and Polk Streets on Chicago’s industrial west side. The settlement connected educated resident workers with a neighborhood shaped by immigration and industrial labor. It was one institution within a wider urban reform movement, rather than the beginning of all American settlement work.\n\nThe range of activities expanded beyond any single reformer. A kindergarten and day care supported working households; evening classes, arts, a library and clubs offered opportunities for learning and association. Job assistance and other services responded to the practical demands of earning a living. Raising money, recruiting residents and maintaining facilities were part of the institution’s work as much as its public ideals.\n\nInvestigation connected local conditions to policy debates. Addams and colleagues addressed sanitation, factory work, child welfare and women’s political participation. The settlement’s account of needs was itself a perspective: neighborhood residents were people with their own languages, work and priorities, not merely recipients of expert instruction.\n\nThe selected 1889–1915 interval follows the founding through Addams’s widening peace activism. It does not mark Hull-House’s closure or the end of neighborhood change. The site helps readers connect immigrant city life and social reform without treating a list of services as proof of equal access or lasting outcomes.",
+      "zh": "1889年，简·亚当斯与艾伦·盖茨·斯塔尔搬入芝加哥工业西区哈尔斯特德街和波尔克街口的一所住宅，赫尔之家由此开始。定居服务机构把受教育的驻院工作人员与移民、工业劳动塑造的街区相连。它是更广泛城市改革运动中的机构，并非美国所有同类工作的起点。\n\n活动范围超出任何一位改革者。幼儿园与日间托育支持劳动家庭；晚课、艺术、图书馆和俱乐部提供学习、交往机会。就业援助等服务回应谋生的实际要求。筹款、招募驻院人员与维护设施，与公开理想同样属于机构工作。\n\n调查把地方条件与政策争论联系起来。亚当斯及同事关注卫生、工厂劳动、儿童福利与女性政治参与。服务机构对需要的描述本身也有视角：街区居民拥有自己的语言、工作和优先事项，并非仅仅接受专家指导的人。\n\n1889—1915年的观察窗口从创办延伸至亚当斯扩大的和平行动，不表示赫尔之家关闭或街区变化终止。这个地点帮助读者连接移民城市生活与社会改革，而不把服务清单当作平等获取或长期成效的证明。"
+    },
+    "dateNote": {
+      "en": "Selected institutional focus 1889–1915, not the complete lifespan of Hull-House. The point is the settlement site at neighborhood scale; activities expanded into multiple facilities and cannot all be assigned to one room or opening year.",
+      "zh": "所选机构观察期1889—1915年，并非赫尔之家的完整存续期。点位在街区尺度标示服务机构；活动扩展至多个设施，不能全部放进同一房间或创办年。"
+    },
+    "sources": [
+      {
+        "title": "Jane Addams – Biographical",
+        "publisher": "Nobel Foundation / NobelPrize.org",
+        "url": "https://www.nobelprize.org/prizes/peace/1931/addams/biographical/",
+        "evidenceNote": "Actual source text captured centrally through the root Codex in-app browser and read locally by the regional author. Historical biography: 1860–1935 lifespan, 1881 Rockford graduation, Ellen Gates Starr and Hull-House founding 1889, educational/cultural services, civic investigations, 1915 Hague congress and peace leadership, wartime criticism, and Baltimore hospitalization during the 1931 Oslo award. No false award-attendance itinerary is inferred.",
+        "checkedAt": "2026-10-24",
+        "retrieval": "inspected-central-browser-capture"
+      },
+      {
+        "title": "Jane Addams",
+        "publisher": "Debra Michals, PhD / National Women’s History Museum",
+        "url": "https://www.womenshistory.org/education-resources/biographies/jane-addams",
+        "evidenceNote": "Actual source text captured centrally through the root Codex in-app browser and read locally by the regional author. Biography: privileged upbringing, Rockford education, 1888 Toynbee Hall visit, joint Hull-House founding and neighborhood services, team reform, suffrage/NAACP involvement, peace activism and 1935 death. The incorrect first-US-settlement-house claim and unsupported priority/office-duration claims are omitted.",
+        "checkedAt": "2026-10-24",
+        "retrieval": "inspected-central-browser-capture"
+      },
+      {
+        "title": "Jane Addams Hull-House Museum",
+        "publisher": "University of Illinois Chicago, Jane Addams Hull-House Museum",
+        "url": "https://hullhouse.uic.edu/",
+        "evidenceNote": "Actual source text captured centrally through the root Codex in-app browser and read locally by the regional author. Museum home-page institutional description confirms joint founding by Jane Addams and Ellen Gates Starr, Near West Side context and work concerning immigrant rights, labor, justice and democracy. Address provides present-day site orientation, not a claim about every historic facility. No exhibition or collection-item reading is implied.",
+        "checkedAt": "2026-10-24",
+        "retrieval": "inspected-central-browser-capture"
+      }
+    ],
+    "relatedIds": [
+      "person-jane-addams",
+      "african-american-great-migration",
+      "person-ida-b-wells"
+    ],
+    "expansion": {
+      "workstreams": [
+        "NA3"
+      ],
+      "release": 6,
+      "edition": "v12",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "Two retrospective biographies supply the services and institutional context; they do not constitute an independent reading of every resident’s testimony or measured program outcomes. The museum biography’s erroneous first-US-settlement-house priority is expressly excluded.",
+        "zh": "两份回顾性传记提供服务及机构背景，不构成对每位街区居民见证的独立阅读，也不是项目成效测量。明确排除博物馆传记中“美国首家”的错误首创说法。"
+      }
+    }
+  },
+  {
+    "id": "penn-school-freedom-education",
+    "title": {
+      "en": "Penn School · Building education in freedom",
+      "zh": "佩恩学校 · 在自由中建立教育"
+    },
+    "start": 1862,
+    "end": 1865,
+    "region": "north-america",
+    "kind": "place",
+    "theme": "knowledge",
+    "importance": 3,
+    "location": {
+      "lat": 32.4,
+      "lon": -80.57,
+      "label": "Saint Helena Island, South Carolina; Penn School and Old Brick Church locality, not every classroom"
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Penn School on Saint Helena Island makes the history of emancipation visible through a particular community and institution. After the United States Army took control of the island in 1861, White plantation owners fled while many African American residents remained. The upheaval of war opened possibilities for schooling before the national end of slavery.\n\nThe school began in 1862 in the Old Brick Church, a building that enslaved workers had constructed for plantation owners in 1855. Its new use linked a place made under slavery to learning in freedom. Northern missionaries helped establish the school; Laura Towne, Ellen Murray and the African American teacher Charlotte Forten Grimké were among its early educators. Their work belonged to a larger history in which newly emancipated people pursued education as part of independence and citizenship.\n\nBy 1865 teaching had expanded across several buildings. Growth required places, teachers and sustained community commitment, rather than a proclamation alone. A school’s presence does not prove that all children could attend equally or that literacy removed every economic and political constraint.\n\nThe selected 1862–1865 focus follows the school’s wartime beginning, not its complete lifespan. It continued afterward and later became Penn Center, associated with civil-rights organizing. This local sequence connects Lincoln’s wartime emancipation policy to the work through which people sought to make freedom usable in daily life.",
+      "zh": "南卡罗来纳州圣赫勒拿岛的佩恩学校，使解放史通过特定社区和机构变得可见。1861年美国军队控制该岛后，白人种植园主逃离，许多非裔居民则留下。战争动荡在全国废奴之前，已经打开教育的可能性。\n\n学校于1862年在老砖教堂开办。这座建筑是被奴役工人于1855年为种植园主建造的。新的用途把奴隶制下建造的场所与自由中的学习相连。北方传教者帮助建立学校；劳拉·汤恩、艾伦·默里和非裔教师夏洛特·福滕·格里姆克是早期教育者。其工作属于更广泛的历史：新获自由者把教育作为独立生活与公民身份的一部分。\n\n到1865年，教学扩展至数座建筑。发展需要场所、教师和持续的社区投入，而不只是一纸宣言。学校存在不证明所有儿童有同等入学机会，也不意味着识字消除了经济与政治限制。\n\n1862—1865年的观察窗口，关注战时开端，不是学校完整存续期。学校随后继续，后来转为与民权组织活动相关的佩恩中心。这段地方序列把林肯的战时解放政策，与人们让自由能够进入日常生活的实际工作连接起来。"
+    },
+    "dateNote": {
+      "en": "Selected wartime-school focus 1862–1865. The 1861 occupation and 1855 church construction are separately dated context, not the school’s founding. The institution continued beyond 1865; the point is a rounded locality reference, not a footprint of all buildings.",
+      "zh": "1862—1865年为所选战时学校观察期。1861年军队控制与1855年教堂建设是分别标明的背景，不是学校创办年。机构在1865年后继续；点位是经过取整的地方参照，不是全部建筑的范围。"
+    },
+    "sources": [
+      {
+        "title": "Reconstruction Era African American Schools in the South",
+        "publisher": "U.S. National Park Service",
+        "url": "https://www.nps.gov/articles/reconstruction-era-african-american-schools-in-the-south.htm",
+        "evidenceNote": "Actual source text captured centrally through the root Codex in-app browser and read locally by the regional author. Introduction and Penn School section inspected: Saint Helena location, Army occupation in 1861, Old Brick Church built by enslaved workers in 1855, opening in 1862, Laura Towne/Ellen Murray/Charlotte Forten Grimké, expansion by 1865 and later Penn Center transition. This is the online synthesis of a historic resource study, not independent inspection of the full report or school registers.",
+        "checkedAt": "2026-10-24",
+        "retrieval": "inspected-central-browser-capture"
+      }
+    ],
+    "relatedIds": [
+      "person-abraham-lincoln",
+      "us-civil-war",
+      "us-civil-rights-movement"
+    ],
+    "expansion": {
+      "workstreams": [
+        "NA3"
+      ],
+      "release": 6,
+      "edition": "v12",
+      "sourceReview": "inspected-source-synthesis",
+      "reviewLimit": {
+        "en": "One inspected NPS institutional source supports this specific school sequence. The wider freedpeople’s educational movement is context, not a claim that this school represents every community or that Lincoln personally founded it. No enrollment/outcome audit is claimed.",
+        "zh": "一份已读NPS机构来源支持这段特定学校序列。更广泛的自由民教育运动是背景，不声称本校代表所有社区，也不声称林肯亲自创办。不声称入学数据或教育成效审计。"
+      }
+    }
+  }
+]

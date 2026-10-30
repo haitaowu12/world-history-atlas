@@ -1,0 +1,1532 @@
+[
+  {
+    "id": "route-silk-roads",
+    "title": {
+      "en": "Silk Roads: the Chang’an–Tianshan corridor",
+      "zh": "丝绸之路：长安—天山走廊"
+    },
+    "kind": "network",
+    "start": -200,
+    "end": 1600,
+    "summary": {
+      "en": "An overland network connected capital cities, oasis settlements, mountain passes, and religious centres. Goods moved through many hands, while travellers carried languages, beliefs, and practical knowledge. This layer follows selected parts of the corridor documented by UNESCO, rather than stretching one imaginary road from China to Europe. Branches around the Tianshan mountains explain why local geography mattered: deserts and passes shaped the available choices, while the importance of individual routes changed across centuries.",
+      "zh": "陆路网络把都城、绿洲聚落、山口与宗教中心连接起来。货物经过多次转手，旅行者也传播语言、信仰和实用知识。本图层选择联合国教科文组织所记录走廊的一部分，而不是画出一条从中国直达欧洲的想象道路。天山两侧的分支说明地方地理为何重要：沙漠与山口影响路线选择，各段道路的重要性也随世纪而变化。"
+    },
+    "dateNote": {
+      "en": "Broad network window: 2nd century BCE to 16th century CE. Individual nodes have no single arrival year.",
+      "zh": "广义网络时期为公元前2世纪至公元16世纪；各节点没有单一抵达年份。"
+    },
+    "caveat": {
+      "en": "Schematic connections, not surveyed ancient paths. Selected branches and many intermediate places are omitted; all nodes were not equally active at once.",
+      "zh": "连线为示意关系，并非测绘的古代道路。省略部分分支及许多中间地点，各节点也并非同时同等活跃。"
+    },
+    "geometryPrecision": "schematic",
+    "stops": [
+      {
+        "id": "changan",
+        "label": {
+          "en": "Chang’an / Xi’an",
+          "zh": "长安／西安"
+        },
+        "year": null,
+        "lat": 34.26,
+        "lon": 108.94,
+        "description": {
+          "en": "A capital and eastern gateway of the selected corridor.",
+          "zh": "这一选定走廊的都城与东部门户。"
+        }
+      },
+      {
+        "id": "dunhuang",
+        "label": {
+          "en": "Dunhuang / Yumen corridor",
+          "zh": "敦煌／玉门走廊"
+        },
+        "year": null,
+        "lat": 40.14,
+        "lon": 94.66,
+        "description": {
+          "en": "The Hexi corridor approached the desert routes here.",
+          "zh": "河西走廊在此通向沙漠道路。"
+        }
+      },
+      {
+        "id": "hami",
+        "label": {
+          "en": "Hami",
+          "zh": "哈密"
+        },
+        "year": null,
+        "lat": 42.82,
+        "lon": 93.51,
+        "description": {
+          "en": "An eastern access point toward the Tianshan branches.",
+          "zh": "通往天山分支的东部入口之一。"
+        }
+      },
+      {
+        "id": "turfan",
+        "label": {
+          "en": "Turfan / Gaochang",
+          "zh": "吐鲁番／高昌"
+        },
+        "year": null,
+        "lat": 42.85,
+        "lon": 89.53,
+        "description": {
+          "en": "Oasis settlement supported travellers and exchange.",
+          "zh": "绿洲聚落支持旅行与交换。"
+        }
+      },
+      {
+        "id": "kucha",
+        "label": {
+          "en": "Kucha",
+          "zh": "龟兹"
+        },
+        "year": null,
+        "lat": 41.72,
+        "lon": 82.96,
+        "description": {
+          "en": "A centre on the southern side of the Tianshan corridor.",
+          "zh": "天山走廊南侧的重要中心。"
+        }
+      },
+      {
+        "id": "chuy",
+        "label": {
+          "en": "Chuy Valley",
+          "zh": "楚河谷地"
+        },
+        "year": null,
+        "lat": 42.75,
+        "lon": 75.25,
+        "description": {
+          "en": "A representative anchor for routes across Central Asian valleys.",
+          "zh": "代表穿越中亚河谷的道路区域。"
+        }
+      },
+      {
+        "id": "talas",
+        "label": {
+          "en": "Talas Valley",
+          "zh": "怛逻斯河谷"
+        },
+        "year": null,
+        "lat": 42.52,
+        "lon": 72.24,
+        "description": {
+          "en": "A western valley connection in the selected corridor.",
+          "zh": "这一走廊西部的河谷连接区域。"
+        }
+      }
+    ],
+    "legs": [
+      {
+        "from": "changan",
+        "to": "dunhuang",
+        "evidenceNote": "UNESCO describes the westward Hexi corridor to the Yumen Pass of Dunhuang."
+      },
+      {
+        "from": "dunhuang",
+        "to": "hami",
+        "evidenceNote": "Selected approach to the Hami/Tianshan branches; not a direct surveyed path."
+      },
+      {
+        "from": "hami",
+        "to": "turfan",
+        "evidenceNote": "Selected eastern Tianshan/oasis connection within the UNESCO corridor."
+      },
+      {
+        "from": "turfan",
+        "to": "kucha",
+        "evidenceNote": "Selected southern Tianshan branch; intervening settlements omitted."
+      },
+      {
+        "from": "turfan",
+        "to": "chuy",
+        "evidenceNote": "Aggregate connection across northern Tianshan routes and passes; not a nonstop journey."
+      },
+      {
+        "from": "kucha",
+        "to": "chuy",
+        "evidenceNote": "Aggregate southern-branch connection through mountain passes; not a precisely reconstructed trail."
+      },
+      {
+        "from": "chuy",
+        "to": "talas",
+        "evidenceNote": "Selected western valley connection within the documented corridor."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Silk Roads: the Routes Network of Chang’an–Tianshan Corridor",
+        "url": "https://whc.unesco.org/en/list/1442/",
+        "publisher": "UNESCO World Heritage Centre",
+        "evidenceNote": "Corridor chronology, Hexi–Dunhuang approach, northern/southern Tianshan branches, Ili/Chuy/Talas valleys and archaeological sites.",
+        "checkedAt": "2026-10-22"
+      },
+      {
+        "title": "About the Silk Roads",
+        "url": "https://www.unesco.org/en/silk-roads/about-silk-roads",
+        "publisher": "UNESCO",
+        "evidenceNote": "Multiple overlapping routes, changing itineraries and exchanges beyond trade.",
+        "checkedAt": "2026-10-22"
+      }
+    ],
+    "personIds": [
+      "person-xuanzang"
+    ],
+    "relatedIds": [
+      "silk-roads-changan",
+      "mogao",
+      "samarkand"
+    ]
+  },
+  {
+    "id": "route-indian-ocean",
+    "title": {
+      "en": "Ports of the Indian Ocean world",
+      "zh": "印度洋世界的港口"
+    },
+    "kind": "network",
+    "start": 800,
+    "end": 1400,
+    "summary": {
+      "en": "Ports connected the South China Sea with the Persian Gulf, Arabian Sea, and East African coast. This small selection follows connections identified in UNESCO’s account of Quanzhou. Exchange depended on many journeys and intermediate markets, not necessarily ships sailing directly from one displayed port to another. Merchants and resident communities carried objects, techniques, and religious practices across these waters. Comparing the ports invites questions about who organised trade, who translated, and how inland producers supported maritime life.",
+      "zh": "港口把南海与波斯湾、阿拉伯海和东非海岸联系起来。这一小组选点依据联合国教科文组织对泉州交流关系的说明。交换依靠多次航程和中间市场，并不意味着船只总在两个显示港口之间直航。商人与侨居社区携带物品、技术和宗教实践跨越海域。比较这些港口，可以追问谁组织贸易、谁负责翻译，以及内陆生产者如何支持海上生活。"
+    },
+    "dateNote": {
+      "en": "Teaching focus c.800–1400; port histories and periods of prominence differ. Nodes are intentionally undated.",
+      "zh": "教学关注约800—1400年；各港历史与兴盛期不同，节点有意不设单一年份。"
+    },
+    "caveat": {
+      "en": "Lines indicate documented commercial connections, potentially through intermediaries. They do not show sailing tracks, direct voyages, trade volume, or a single simultaneous network.",
+      "zh": "连线表示可能经中介实现的商业联系，不代表航迹、直航、贸易量或在同一时刻完整存在的网络。"
+    },
+    "geometryPrecision": "schematic",
+    "stops": [
+      {
+        "id": "quanzhou",
+        "label": {
+          "en": "Quanzhou",
+          "zh": "泉州"
+        },
+        "year": null,
+        "lat": 24.87,
+        "lon": 118.68,
+        "description": {
+          "en": "A Chinese port with overseas trading and religious communities.",
+          "zh": "具有海外贸易与宗教社区的中国港口。"
+        }
+      },
+      {
+        "id": "siraf",
+        "label": {
+          "en": "Siraf",
+          "zh": "西拉夫"
+        },
+        "year": null,
+        "lat": 27.67,
+        "lon": 52.34,
+        "description": {
+          "en": "A Persian Gulf port named among Quanzhou’s connections.",
+          "zh": "泉州交流关系中提及的波斯湾港口。"
+        }
+      },
+      {
+        "id": "muscat",
+        "label": {
+          "en": "Muscat",
+          "zh": "马斯喀特"
+        },
+        "year": null,
+        "lat": 23.61,
+        "lon": 58.59,
+        "description": {
+          "en": "An Arabian port linked into wider maritime exchanges.",
+          "zh": "参与更广泛海上交换的阿拉伯港口。"
+        }
+      },
+      {
+        "id": "zanzibar",
+        "label": {
+          "en": "Zanzibar",
+          "zh": "桑给巴尔"
+        },
+        "year": null,
+        "lat": -6.17,
+        "lon": 39.19,
+        "description": {
+          "en": "An East African connection in the UNESCO account.",
+          "zh": "联合国教科文组织说明中的东非联系节点。"
+        }
+      }
+    ],
+    "legs": [
+      {
+        "from": "quanzhou",
+        "to": "siraf",
+        "evidenceNote": "UNESCO’s Quanzhou article names Siraf; this is a commercial connection, not an asserted direct voyage."
+      },
+      {
+        "from": "quanzhou",
+        "to": "muscat",
+        "evidenceNote": "UNESCO’s Quanzhou article names Muscat; intermediate ports are not reconstructed."
+      },
+      {
+        "from": "quanzhou",
+        "to": "zanzibar",
+        "evidenceNote": "UNESCO’s Quanzhou article names Zanzibar; multiple intermediaries may be involved."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Quanzhou",
+        "url": "https://en.unesco.org/silkroad/content/quanzhou",
+        "publisher": "UNESCO Silk Roads Programme",
+        "evidenceNote": "Indexed legacy article explicitly names Siraf, Muscat and Zanzibar among Quanzhou’s connections; its URL currently redirects to the programme homepage.",
+        "checkedAt": "2026-10-22"
+      },
+      {
+        "title": "Quanzhou: Emporium of the World in Song–Yuan China",
+        "url": "https://whc.unesco.org/en/list/1561/",
+        "publisher": "UNESCO World Heritage Centre",
+        "evidenceNote": "Archaeological evidence for maritime commerce, production and religious communities.",
+        "checkedAt": "2026-10-22"
+      },
+      {
+        "title": "About the Silk Roads",
+        "url": "https://www.unesco.org/en/silk-roads/about-silk-roads",
+        "publisher": "UNESCO",
+        "evidenceNote": "Maritime links between China, Southeast Asia, India, Arabia and Africa were multiple routes, not one itinerary.",
+        "checkedAt": "2026-10-22"
+      }
+    ],
+    "personIds": [],
+    "relatedIds": [
+      "quanzhou",
+      "kilwa",
+      "melaka"
+    ]
+  },
+  {
+    "id": "route-ibn-battuta-hajj",
+    "title": {
+      "en": "Ibn Battuta’s first pilgrimage",
+      "zh": "伊本·白图泰的首次朝觐"
+    },
+    "kind": "journey",
+    "start": 1325,
+    "end": 1326,
+    "summary": {
+      "en": "A journey begun in Tangier became an education in the connected institutions of the Muslim world. Ibn Battuta travelled with caravans, received hospitality, met scholars, and sought routes protected by powerful states. His first pilgrimage reached Mecca in 1326 after passing through Egypt and Syria. The selected stops follow Berkeley ORIAS’s reconstruction from the Rihla and modern scholarship. The story also asks how a retrospective travel narrative differs from a diary written on the road.",
+      "zh": "从丹吉尔出发的旅程，也成为认识穆斯林世界相互连接制度的学习过程。伊本·白图泰随商旅队前行，接受接待、会见学者，并寻找得到强大政权保护的道路。他经埃及和叙利亚，于1326年抵达麦加完成首次朝觐。选定节点依据伯克利ORIAS综合《游记》与现代研究的重建，同时引导我们区分事后整理的旅行叙事与旅途中的日记。"
+    },
+    "dateNote": {
+      "en": "1325–1326; years follow the first-pilgrimage reconstruction. Many shorter stops and an unsuccessful Red Sea approach are omitted.",
+      "zh": "1325—1326年；年份依据首次朝觐的重建，省略许多短暂停留及一次未成功的红海方向尝试。"
+    },
+    "caveat": {
+      "en": "Ordered selected stops; schematic connecting arcs are not the actual caravan trails. The Rihla was shaped after the journey, and some wider travel claims remain debated.",
+      "zh": "节点按选定行程排序，示意弧线不是实际商旅道路。《游记》在旅程后整理，其他部分旅行记述仍有争议。"
+    },
+    "geometryPrecision": "schematic",
+    "stops": [
+      {
+        "id": "tangier",
+        "label": {
+          "en": "Tangier",
+          "zh": "丹吉尔"
+        },
+        "year": 1325,
+        "lat": 35.76,
+        "lon": -5.83,
+        "description": {
+          "en": "Departure for the pilgrimage.",
+          "zh": "为朝觐启程。"
+        }
+      },
+      {
+        "id": "tunis",
+        "label": {
+          "en": "Tunis",
+          "zh": "突尼斯"
+        },
+        "year": 1325,
+        "lat": 36.8,
+        "lon": 10.18,
+        "description": {
+          "en": "A stay with access to scholars and caravan companions.",
+          "zh": "在此接触学者与同行朝觐者。"
+        }
+      },
+      {
+        "id": "alexandria",
+        "label": {
+          "en": "Alexandria",
+          "zh": "亚历山大"
+        },
+        "year": 1326,
+        "lat": 31.2,
+        "lon": 29.92,
+        "description": {
+          "en": "Reached Egypt after crossing North Africa.",
+          "zh": "横穿北非后进入埃及。"
+        }
+      },
+      {
+        "id": "cairo",
+        "label": {
+          "en": "Cairo",
+          "zh": "开罗"
+        },
+        "year": 1326,
+        "lat": 30.04,
+        "lon": 31.24,
+        "description": {
+          "en": "From Egypt he eventually took the road toward Syria.",
+          "zh": "从埃及最终转向通往叙利亚的道路。"
+        }
+      },
+      {
+        "id": "jerusalem",
+        "label": {
+          "en": "Jerusalem",
+          "zh": "耶路撒冷"
+        },
+        "year": 1326,
+        "lat": 31.78,
+        "lon": 35.23,
+        "description": {
+          "en": "Visited important pilgrimage sites.",
+          "zh": "访问重要宗教圣地。"
+        }
+      },
+      {
+        "id": "damascus",
+        "label": {
+          "en": "Damascus",
+          "zh": "大马士革"
+        },
+        "year": 1326,
+        "lat": 33.51,
+        "lon": 36.3,
+        "description": {
+          "en": "Joined the Syrian pilgrimage caravan.",
+          "zh": "加入叙利亚朝觐队伍。"
+        }
+      },
+      {
+        "id": "medina",
+        "label": {
+          "en": "Medina",
+          "zh": "麦地那"
+        },
+        "year": 1326,
+        "lat": 24.47,
+        "lon": 39.61,
+        "description": {
+          "en": "A visit before continuing to Mecca.",
+          "zh": "在继续前往麦加前停留。"
+        }
+      },
+      {
+        "id": "mecca",
+        "label": {
+          "en": "Mecca",
+          "zh": "麦加"
+        },
+        "year": 1326,
+        "lat": 21.422,
+        "lon": 39.826,
+        "description": {
+          "en": "Completed the pilgrimage rituals.",
+          "zh": "完成朝觐仪式。"
+        }
+      }
+    ],
+    "legs": [
+      {
+        "from": "tangier",
+        "to": "tunis",
+        "evidenceNote": "Chronological progression between selected documented stops; not a precise path."
+      },
+      {
+        "from": "tunis",
+        "to": "alexandria",
+        "evidenceNote": "Chronological progression between selected documented stops; not a precise path."
+      },
+      {
+        "from": "alexandria",
+        "to": "cairo",
+        "evidenceNote": "Chronological progression between selected documented stops; not a precise path."
+      },
+      {
+        "from": "cairo",
+        "to": "jerusalem",
+        "evidenceNote": "Chronological progression between selected documented stops; not a precise path."
+      },
+      {
+        "from": "jerusalem",
+        "to": "damascus",
+        "evidenceNote": "Chronological progression between selected documented stops; not a precise path."
+      },
+      {
+        "from": "damascus",
+        "to": "medina",
+        "evidenceNote": "Chronological progression between selected documented stops; not a precise path."
+      },
+      {
+        "from": "medina",
+        "to": "mecca",
+        "evidenceNote": "Chronological progression between selected documented stops; not a precise path."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Across North Africa to Cairo: 1325",
+        "url": "https://orias.berkeley.edu/resources-teachers/travels-ibn-battuta/journey/across-north-africa-cairo-1325",
+        "publisher": "ORIAS, University of California, Berkeley",
+        "evidenceNote": "Departure, North African overland route, Tunis stay and arrival in Egypt in 1326.",
+        "checkedAt": "2026-10-22"
+      },
+      {
+        "title": "Cairo to Jerusalem, Damascus, Medina, and Mecca: 1326",
+        "url": "https://orias.berkeley.edu/resources-teachers/travels-ibn-battuta/journey/cairo-jerusalem-damascus-medina-and-mecca-1326",
+        "publisher": "ORIAS, University of California, Berkeley",
+        "evidenceNote": "Egypt–Jerusalem–Damascus sequence and caravan institutions.",
+        "checkedAt": "2026-10-22"
+      },
+      {
+        "title": "The Hajj: from Medina to Mecca, 1326",
+        "url": "https://orias.berkeley.edu/resources-teachers/travels-ibn-battuta/journey/hajj-medina-mecca-1326",
+        "publisher": "ORIAS, University of California, Berkeley",
+        "evidenceNote": "Damascus–Medina–Mecca progression and pilgrimage context.",
+        "checkedAt": "2026-10-22"
+      }
+    ],
+    "personIds": [
+      "person-ibn-battuta"
+    ],
+    "relatedIds": [
+      "mali-empire"
+    ]
+  },
+  {
+    "id": "route-zheng-he",
+    "title": {
+      "en": "The networks of Zheng He’s fleets",
+      "zh": "郑和船队的航行网络"
+    },
+    "kind": "network",
+    "start": 1405,
+    "end": 1433,
+    "summary": {
+      "en": "Ming expeditions entered an already busy maritime world. Across seven expeditions, fleets and detached squadrons reached Southeast Asian ports, South Asia, the Persian Gulf, Arabia, and East Africa. Diplomacy, trade, tribute, and military intervention could occur together. The displayed connections combine selected stages from different expeditions. They show how a court projected power through ports and intermediaries, while leaving room to ask how local rulers, interpreters, merchants, and sailors shaped each encounter.",
+      "zh": "明朝远航进入了一个早已繁忙的海上世界。七次远航中的船队与分队抵达东南亚港口、南亚、波斯湾、阿拉伯和东非。外交、贸易、朝贡与军事干预可能同时发生。这里的连接汇集不同航次的部分阶段，展示宫廷如何借助港口与中介投射权力，也引导我们思考地方统治者、翻译、商人和水手如何塑造每次相遇。"
+    },
+    "dateNote": {
+      "en": "Combined expeditions, 1405–1433. Undated nodes are not a single ship’s itinerary; the 1413–1415 and 1417–1419 extensions differ.",
+      "zh": "汇集1405—1433年的远航。未设年份的节点不代表一艘船的单次行程；1413—1415与1417—1419年的延伸不同。"
+    },
+    "caveat": {
+      "en": "Schematic multi-voyage network. Different squadrons followed different paths; Zheng He did not personally lead every voyage or visit every mapped destination.",
+      "zh": "多个航次组成的示意网络。不同分队走过不同路线，郑和并非亲自率领每一航次或到访所有显示地点。"
+    },
+    "geometryPrecision": "schematic",
+    "stops": [
+      {
+        "id": "taicang",
+        "label": {
+          "en": "Liujiagang / Taicang",
+          "zh": "刘家港／太仓"
+        },
+        "year": null,
+        "lat": 31.45,
+        "lon": 121.1,
+        "description": {
+          "en": "Departure area for the first expedition.",
+          "zh": "第一次远航的出发区域。"
+        }
+      },
+      {
+        "id": "champa",
+        "label": {
+          "en": "Champa coast",
+          "zh": "占城海岸"
+        },
+        "year": null,
+        "lat": 13.78,
+        "lon": 109.22,
+        "description": {
+          "en": "A regional anchor for the fleet’s early Southeast Asian stops.",
+          "zh": "代表船队在东南亚较早停靠的区域。"
+        }
+      },
+      {
+        "id": "java",
+        "label": {
+          "en": "Java",
+          "zh": "爪哇"
+        },
+        "year": null,
+        "lat": -6.9,
+        "lon": 112.5,
+        "description": {
+          "en": "A selected island stop in the first-voyage sequence.",
+          "zh": "首航序列中的一个选定岛屿节点。"
+        }
+      },
+      {
+        "id": "melaka",
+        "label": {
+          "en": "Melaka",
+          "zh": "马六甲"
+        },
+        "year": null,
+        "lat": 2.19,
+        "lon": 102.25,
+        "description": {
+          "en": "A strategic port in the straits.",
+          "zh": "海峡中的战略港口。"
+        }
+      },
+      {
+        "id": "calicut",
+        "label": {
+          "en": "Calicut / Kozhikode",
+          "zh": "古里／科泽科德"
+        },
+        "year": null,
+        "lat": 11.25,
+        "lon": 75.78,
+        "description": {
+          "en": "A major destination on the Indian coast.",
+          "zh": "印度海岸的重要目的地。"
+        }
+      },
+      {
+        "id": "hormuz",
+        "label": {
+          "en": "Hormuz",
+          "zh": "忽鲁谟斯"
+        },
+        "year": null,
+        "lat": 27.06,
+        "lon": 56.46,
+        "description": {
+          "en": "Reached during the 1413–1415 expedition.",
+          "zh": "1413—1415年航次到达之地。"
+        }
+      },
+      {
+        "id": "aden",
+        "label": {
+          "en": "Aden",
+          "zh": "亚丁"
+        },
+        "year": null,
+        "lat": 12.79,
+        "lon": 45.02,
+        "description": {
+          "en": "Part of the western expansion in 1417–1419.",
+          "zh": "1417—1419年西部延伸的一部分。"
+        }
+      },
+      {
+        "id": "malindi",
+        "label": {
+          "en": "Malindi",
+          "zh": "马林迪"
+        },
+        "year": null,
+        "lat": -3.22,
+        "lon": 40.12,
+        "description": {
+          "en": "An East African destination of later fleet activity.",
+          "zh": "后续船队活动的东非目的地。"
+        }
+      }
+    ],
+    "legs": [
+      {
+        "from": "taicang",
+        "to": "champa",
+        "evidenceNote": "First-voyage sequence, with coastal staging places omitted."
+      },
+      {
+        "from": "champa",
+        "to": "java",
+        "evidenceNote": "First-voyage sequence in Columbia’s teaching account."
+      },
+      {
+        "from": "java",
+        "to": "melaka",
+        "evidenceNote": "Selected first-voyage sequence; not a precise sailing line."
+      },
+      {
+        "from": "melaka",
+        "to": "calicut",
+        "evidenceNote": "Selected first-voyage sequence, omitting Cochin and intermediate calls."
+      },
+      {
+        "from": "calicut",
+        "to": "hormuz",
+        "evidenceNote": "Western extension during 1413–1415; not the first voyage."
+      },
+      {
+        "from": "hormuz",
+        "to": "aden",
+        "evidenceNote": "Aggregate later extension linking the Persian Gulf and Arabian destinations; not a single asserted squadron itinerary."
+      },
+      {
+        "from": "aden",
+        "to": "malindi",
+        "evidenceNote": "Aggregate East African extension, with Mogadishu and Brawa omitted."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Ming Voyages",
+        "url": "https://afe.easia.columbia.edu/special/china_1000ce_mingvoyages.htm",
+        "publisher": "Asia for Educators, Columbia University",
+        "evidenceNote": "Voyage sequence, first-voyage ports, Hormuz in 1413–1415, Arabia/East Africa in 1417–1419, separate squadrons and leadership distinctions.",
+        "checkedAt": "2026-10-22"
+      },
+      {
+        "title": "Zheng He",
+        "url": "https://exploration.marinersmuseum.org/subject/zheng-he/",
+        "publisher": "The Mariners’ Museum and Park",
+        "evidenceNote": "First departure area, maritime purposes and geographic reach; disputed minor dates are excluded.",
+        "checkedAt": "2026-10-22"
+      }
+    ],
+    "personIds": [
+      "person-zheng-he"
+    ],
+    "relatedIds": [
+      "quanzhou",
+      "melaka",
+      "kilwa"
+    ]
+  },
+  {
+    "id": "route-tupaia",
+    "title": {
+      "en": "Tupaia aboard Endeavour",
+      "zh": "“奋进号”上的图帕亚"
+    },
+    "kind": "journey",
+    "start": 1769,
+    "end": 1770,
+    "summary": {
+      "en": "Tupaia’s presence changes the meaning of this voyage. His expertise helped a British expedition navigate the Society Islands and communicate with Māori in Aotearoa. The ship entered inhabited worlds with their own histories, political interests, and ways of knowing the sea. His drawings and island chart preserve part of that encounter. The journey also involved violence and misunderstandings, and his ability to interpret Polynesian languages did not extend automatically to the languages of Australia.",
+      "zh": "图帕亚的参与改变了这次航行的意义。他的知识帮助英国探险队在社会群岛航行，并在新西兰与毛利人交流。船只进入的是已有居民、历史、政治利益和海洋知识的世界。他的绘画与岛屿地图保存了相遇的一部分。航程也伴随暴力与误解，而他对波利尼西亚语言的理解，并不自动适用于澳大利亚的语言。"
+    },
+    "dateNote": {
+      "en": "Selected stops after joining in July 1769 through his death in Batavia in 1770. Earlier Polynesian voyaging is not reconstructed as this itinerary.",
+      "zh": "选取1769年7月加入至1770年卒于巴达维亚之间的节点；这并不是更早波利尼西亚航海史的完整重建。"
+    },
+    "caveat": {
+      "en": "Schematic arcs omit most coastal sailing and stops. This is Tupaia’s documented Endeavour segment, not the original settlement route of Polynesia.",
+      "zh": "示意弧线省略大部分沿岸航行与停靠。本层展示图帕亚在“奋进号”上的记录行程，并非波利尼西亚最初定居路线。"
+    },
+    "geometryPrecision": "schematic",
+    "stops": [
+      {
+        "id": "tahiti",
+        "label": {
+          "en": "Tahiti",
+          "zh": "塔希提"
+        },
+        "year": 1769,
+        "lat": -17.53,
+        "lon": -149.56,
+        "description": {
+          "en": "Joined the expedition in July.",
+          "zh": "于7月加入探险队。"
+        }
+      },
+      {
+        "id": "huahine",
+        "label": {
+          "en": "Huahine",
+          "zh": "胡阿希内"
+        },
+        "year": 1769,
+        "lat": -16.74,
+        "lon": -151.0,
+        "description": {
+          "en": "Helped the crew in the Society Islands.",
+          "zh": "在社会群岛协助船员。"
+        }
+      },
+      {
+        "id": "raiatea",
+        "label": {
+          "en": "Ra‘iātea",
+          "zh": "赖阿特阿"
+        },
+        "year": 1769,
+        "lat": -16.84,
+        "lon": -151.36,
+        "description": {
+          "en": "Returned to his home island with the expedition.",
+          "zh": "随探险队重返故乡岛屿。"
+        }
+      },
+      {
+        "id": "turanganui",
+        "label": {
+          "en": "Tūranganui-a-Kiwa / Gisborne",
+          "zh": "图兰加努伊阿基瓦／吉斯伯恩"
+        },
+        "year": 1769,
+        "lat": -38.67,
+        "lon": 178.02,
+        "description": {
+          "en": "Became an intermediary after the first violent landing.",
+          "zh": "首次暴力登陆后成为交流中介。"
+        }
+      },
+      {
+        "id": "uawa",
+        "label": {
+          "en": "Uawa / Tolaga Bay",
+          "zh": "乌阿瓦／托拉加湾"
+        },
+        "year": 1769,
+        "lat": -38.38,
+        "lon": 178.3,
+        "description": {
+          "en": "His drawings record exchanges in this region.",
+          "zh": "他的绘画记录了这一地区的交流。"
+        }
+      },
+      {
+        "id": "botany",
+        "label": {
+          "en": "Botany Bay",
+          "zh": "植物湾"
+        },
+        "year": 1770,
+        "lat": -33.99,
+        "lon": 151.21,
+        "description": {
+          "en": "Polynesian language connections did not extend to local languages here.",
+          "zh": "波利尼西亚的语言联系并未延伸到此地语言。"
+        }
+      },
+      {
+        "id": "batavia",
+        "label": {
+          "en": "Batavia / Jakarta",
+          "zh": "巴达维亚／雅加达"
+        },
+        "year": 1770,
+        "lat": -6.13,
+        "lon": 106.81,
+        "description": {
+          "en": "He died while the ship was at this colonial port.",
+          "zh": "船只停留这一殖民港口期间去世。"
+        }
+      }
+    ],
+    "legs": [
+      {
+        "from": "tahiti",
+        "to": "huahine",
+        "evidenceNote": "Chronological progression between selected documented stops; not a precise path."
+      },
+      {
+        "from": "huahine",
+        "to": "raiatea",
+        "evidenceNote": "Chronological progression between selected documented stops; not a precise path."
+      },
+      {
+        "from": "raiatea",
+        "to": "turanganui",
+        "evidenceNote": "Chronological progression between selected documented stops; not a precise path."
+      },
+      {
+        "from": "turanganui",
+        "to": "uawa",
+        "evidenceNote": "Chronological progression between selected documented stops; not a precise path."
+      },
+      {
+        "from": "uawa",
+        "to": "botany",
+        "evidenceNote": "Chronological progression between selected documented stops; not a precise path."
+      },
+      {
+        "from": "botany",
+        "to": "batavia",
+        "evidenceNote": "Chronological progression between selected documented stops; not a precise path."
+      }
+    ],
+    "sources": [
+      {
+        "title": "On tour with Tupaia",
+        "url": "https://www.nhm.ac.uk/discover/on-tour-with-tupaia.html",
+        "publisher": "Natural History Museum, London; interview with Anne Salmond",
+        "evidenceNote": "Navigation, Indigenous knowledge, Māori mediation, Australian language limits and the 1769–1770 voyage.",
+        "checkedAt": "2026-10-22"
+      },
+      {
+        "title": "Tupaia",
+        "url": "https://teara.govt.nz/en/biographies/6t2/tupaia",
+        "publisher": "Dictionary of New Zealand Biography, Manatū Taonga",
+        "evidenceNote": "Selected sequence Tahiti–Huahine–Ra‘iātea–New Zealand–Australia–Batavia; precise death day omitted because older accounts differ.",
+        "checkedAt": "2026-10-22"
+      },
+      {
+        "title": "Tupaia, 1725?–1770",
+        "url": "https://natlib.govt.nz/records/22529771",
+        "publisher": "National Library of New Zealand",
+        "evidenceNote": "The Uawa drawing and surviving artistic record.",
+        "checkedAt": "2026-10-22"
+      }
+    ],
+    "personIds": [
+      "person-tupaia"
+    ],
+    "relatedIds": [
+      "taputapuatea"
+    ]
+  },
+  {
+    "id": "route-beagle",
+    "title": {
+      "en": "Darwin’s Beagle: selected landfalls",
+      "zh": "达尔文与“小猎犬号”：部分停靠地"
+    },
+    "kind": "journey",
+    "start": 1831,
+    "end": 1836,
+    "summary": {
+      "en": "The Beagle voyage joined naval surveying with natural-history research. Darwin collected evidence from coastlines, islands, fossils, and living organisms, then spent years comparing what he had found. These selected landfalls reveal the geographical range behind that work, while the letters and notebooks show repeated visits, inland excursions, and the contribution of many other people. A line around the world cannot represent every day of the expedition, nor should the Galápagos visit be mistaken for an instant finished theory.",
+      "zh": "“小猎犬号”航行把海军测绘与博物研究结合起来。达尔文从海岸、岛屿、化石和生物中收集证据，随后多年比较研究。选定停靠地展示这些工作的地理范围，书信与笔记则记录重复访问、内陆考察及许多其他人的贡献。环绕世界的连线不能代表航行的每一天，也不应把加拉帕戈斯访问当成完整理论瞬间诞生的时刻。"
+    },
+    "dateNote": {
+      "en": "1831–1836. Years identify selected documented visits; the ship and Darwin sometimes travelled separately during land excursions.",
+      "zh": "1831—1836年。年份对应选定的有记录访问；达尔文进行陆地考察时有时与船只分开行动。"
+    },
+    "caveat": {
+      "en": "Selected chronological landfalls, joined schematically. Many stops, return visits and inland excursions are omitted. Lines are not nautical tracks.",
+      "zh": "选定停靠地按时间排序，以示意线连接；省略许多停靠、重访与内陆考察。连线并非航海轨迹。"
+    },
+    "geometryPrecision": "schematic",
+    "stops": [
+      {
+        "id": "plymouth",
+        "label": {
+          "en": "Plymouth",
+          "zh": "普利茅斯"
+        },
+        "year": 1831,
+        "lat": 50.37,
+        "lon": -4.14,
+        "description": {
+          "en": "Departure in December.",
+          "zh": "12月启程。"
+        }
+      },
+      {
+        "id": "praia",
+        "label": {
+          "en": "Praia, Santiago",
+          "zh": "圣地亚哥岛普拉亚"
+        },
+        "year": 1832,
+        "lat": 14.92,
+        "lon": -23.51,
+        "description": {
+          "en": "Early geological work in Cape Verde.",
+          "zh": "在佛得角进行早期地质工作。"
+        }
+      },
+      {
+        "id": "bahia",
+        "label": {
+          "en": "Salvador, Bahia",
+          "zh": "巴伊亚萨尔瓦多"
+        },
+        "year": 1832,
+        "lat": -12.97,
+        "lon": -38.5,
+        "description": {
+          "en": "A Brazilian landfall recorded in the notebooks.",
+          "zh": "笔记中记录的巴西停靠地。"
+        }
+      },
+      {
+        "id": "rio",
+        "label": {
+          "en": "Rio de Janeiro",
+          "zh": "里约热内卢"
+        },
+        "year": 1832,
+        "lat": -22.91,
+        "lon": -43.17,
+        "description": {
+          "en": "An extended Brazilian stay and excursions.",
+          "zh": "在巴西较长时间的停留与考察。"
+        }
+      },
+      {
+        "id": "montevideo",
+        "label": {
+          "en": "Montevideo",
+          "zh": "蒙得维的亚"
+        },
+        "year": 1832,
+        "lat": -34.9,
+        "lon": -56.2,
+        "description": {
+          "en": "The first of several visits to the region.",
+          "zh": "对这一地区多次访问中的首次。"
+        }
+      },
+      {
+        "id": "valparaiso",
+        "label": {
+          "en": "Valparaíso",
+          "zh": "瓦尔帕莱索"
+        },
+        "year": 1834,
+        "lat": -33.04,
+        "lon": -71.63,
+        "description": {
+          "en": "A base for work on the Pacific side of South America.",
+          "zh": "南美太平洋一侧研究的基地。"
+        }
+      },
+      {
+        "id": "galapagos",
+        "label": {
+          "en": "Galápagos",
+          "zh": "加拉帕戈斯"
+        },
+        "year": 1835,
+        "lat": -0.9,
+        "lon": -89.6,
+        "description": {
+          "en": "Visited islands in September–October; this anchor represents the archipelago.",
+          "zh": "9—10月访问群岛；点位代表整个群岛。"
+        }
+      },
+      {
+        "id": "tahiti",
+        "label": {
+          "en": "Tahiti",
+          "zh": "塔希提"
+        },
+        "year": 1835,
+        "lat": -17.53,
+        "lon": -149.56,
+        "description": {
+          "en": "A Pacific stop in November.",
+          "zh": "11月的太平洋停靠。"
+        }
+      },
+      {
+        "id": "sydney",
+        "label": {
+          "en": "Sydney",
+          "zh": "悉尼"
+        },
+        "year": 1836,
+        "lat": -33.86,
+        "lon": 151.21,
+        "description": {
+          "en": "An Australian visit in January.",
+          "zh": "1月访问澳大利亚。"
+        }
+      },
+      {
+        "id": "cape",
+        "label": {
+          "en": "Cape of Good Hope",
+          "zh": "好望角"
+        },
+        "year": 1836,
+        "lat": -33.92,
+        "lon": 18.42,
+        "description": {
+          "en": "A southern African stage on the return voyage.",
+          "zh": "回程中的南部非洲阶段。"
+        }
+      },
+      {
+        "id": "falmouth",
+        "label": {
+          "en": "Falmouth",
+          "zh": "法尔茅斯"
+        },
+        "year": 1836,
+        "lat": 50.15,
+        "lon": -5.07,
+        "description": {
+          "en": "Returned to Britain in October.",
+          "zh": "10月返回英国。"
+        }
+      }
+    ],
+    "legs": [
+      {
+        "from": "plymouth",
+        "to": "praia",
+        "evidenceNote": "Chronological progression between selected documented stops; not a precise path."
+      },
+      {
+        "from": "praia",
+        "to": "bahia",
+        "evidenceNote": "Chronological progression between selected documented stops; not a precise path."
+      },
+      {
+        "from": "bahia",
+        "to": "rio",
+        "evidenceNote": "Chronological progression between selected documented stops; not a precise path."
+      },
+      {
+        "from": "rio",
+        "to": "montevideo",
+        "evidenceNote": "Chronological progression between selected documented stops; not a precise path."
+      },
+      {
+        "from": "montevideo",
+        "to": "valparaiso",
+        "evidenceNote": "Chronological progression between selected documented stops; not a precise path."
+      },
+      {
+        "from": "valparaiso",
+        "to": "galapagos",
+        "evidenceNote": "Chronological progression between selected documented stops; not a precise path."
+      },
+      {
+        "from": "galapagos",
+        "to": "tahiti",
+        "evidenceNote": "Chronological progression between selected documented stops; not a precise path."
+      },
+      {
+        "from": "tahiti",
+        "to": "sydney",
+        "evidenceNote": "Chronological progression between selected documented stops; not a precise path."
+      },
+      {
+        "from": "sydney",
+        "to": "cape",
+        "evidenceNote": "Chronological progression between selected documented stops; not a precise path."
+      },
+      {
+        "from": "cape",
+        "to": "falmouth",
+        "evidenceNote": "Chronological progression between selected documented stops; not a precise path."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Itinerary of Charles Darwin",
+        "url": "https://darwin-online.org.uk/EditorialIntroductions/vanWyhe_Itinerary_of_Charles_Darwin.html",
+        "publisher": "Darwin Online; John van Wyhe",
+        "evidenceNote": "Documented 1831–1836 landfalls and dates; the incorrect-looking 1836 Bahia Blanca entry is not used.",
+        "checkedAt": "2026-10-22"
+      },
+      {
+        "title": "Chronological register",
+        "url": "https://darwin-online.org.uk/converted/published/2009_Rookmaaker_F2044b.html",
+        "publisher": "Kees Rookmaaker, Cambridge University Press / Darwin Online",
+        "evidenceNote": "Notebook-linked 1832 Praia, Bahia, Rio and Montevideo visits; distinction between Darwin ashore and ship movements.",
+        "checkedAt": "2026-10-22"
+      },
+      {
+        "title": "The Voyage of the Beagle",
+        "url": "https://www.darwinproject.ac.uk/voyage-beagle",
+        "publisher": "Darwin Correspondence Project, University of Cambridge",
+        "evidenceNote": "Letters, collecting, delayed departure and the 1831–1836 frame.",
+        "checkedAt": "2026-10-22"
+      }
+    ],
+    "personIds": [
+      "person-darwin"
+    ],
+    "relatedIds": []
+  },
+  {
+    "id": "route-forced-atlantic",
+    "title": {
+      "en": "Forced crossings of the Atlantic",
+      "zh": "横越大西洋的强迫迁移"
+    },
+    "kind": "network",
+    "start": 1501,
+    "end": 1866,
+    "summary": {
+      "en": "Enslavers forced people from many African societies into Atlantic crossings and labour regimes in the Americas. These movements were neither voluntary migration nor one uniform triangular route. Ships, merchants, and colonial institutions connected different regions over centuries, while captives resisted, maintained relationships, and created new communities under extreme coercion. The selected links illustrate regional relationships described by SlaveVoyages. They do not trace individual lives: a port of embarkation cannot tell us where a person was born, what language they spoke, or every journey that followed.",
+      "zh": "奴隶贩运者强迫来自众多非洲社会的人们横越大西洋，进入美洲的强制劳动制度。这既不是自愿迁移，也不是一条统一的三角航线。数百年间，船只、商人和殖民制度把不同区域连接起来；被俘者在极端强制下抵抗、维系关系并建立新社区。选定连线展示SlaveVoyages所说明的区域关系，并不重建个人生平：启运港无法告诉我们一个人的出生地、语言或后续所有经历。"
+    },
+    "dateNote": {
+      "en": "Broad transatlantic period, 1501–1866. Nodes aggregate changing regional systems and intentionally have no single date.",
+      "zh": "广义跨大西洋时期为1501—1866年。节点汇集不断变化的区域体系，故不设单一年份。"
+    },
+    "caveat": {
+      "en": "Regional anchors, not paired-port voyage claims. Schematic lines show selected relationships, not numbers, proportions, exact tracks, or the complete network. Embarkation regions are not birthplaces.",
+      "zh": "点位是区域参照，不是特定港口之间单次航程的断言。示意线表示选定关系，不表示人数、比例、精确航迹或全部网络。启运区域并不等于出生地。"
+    },
+    "geometryPrecision": "schematic",
+    "stops": [
+      {
+        "id": "west-central",
+        "label": {
+          "en": "West Central Africa · Luanda reference",
+          "zh": "中西部非洲·罗安达参照"
+        },
+        "year": null,
+        "lat": -8.84,
+        "lon": 13.23,
+        "description": {
+          "en": "A geographic anchor for a large and diverse embarkation region.",
+          "zh": "代表广阔且多样的启运区域。"
+        }
+      },
+      {
+        "id": "benin",
+        "label": {
+          "en": "Bight of Benin · Ouidah reference",
+          "zh": "贝宁湾·维达参照"
+        },
+        "year": null,
+        "lat": 6.36,
+        "lon": 2.09,
+        "description": {
+          "en": "Another embarkation region, connected to many inland histories.",
+          "zh": "另一启运区域，与众多内陆历史相连。"
+        }
+      },
+      {
+        "id": "brazil",
+        "label": {
+          "en": "Southeast Brazil · Rio reference",
+          "zh": "巴西东南部·里约参照"
+        },
+        "year": null,
+        "lat": -22.9,
+        "lon": -43.18,
+        "description": {
+          "en": "A disembarkation region followed by further forced movements.",
+          "zh": "登陆区域之一，之后往往还有进一步的强迫迁移。"
+        }
+      },
+      {
+        "id": "bahia",
+        "label": {
+          "en": "Bahia · Salvador reference",
+          "zh": "巴伊亚·萨尔瓦多参照"
+        },
+        "year": null,
+        "lat": -12.97,
+        "lon": -38.5,
+        "description": {
+          "en": "A Brazilian destination region within the wider Atlantic system.",
+          "zh": "更广泛大西洋体系中的巴西目的地区域。"
+        }
+      },
+      {
+        "id": "caribbean",
+        "label": {
+          "en": "Caribbean · Jamaica reference",
+          "zh": "加勒比海·牙买加参照"
+        },
+        "year": null,
+        "lat": 18.1,
+        "lon": -77.3,
+        "description": {
+          "en": "The Caribbean contained many different colonial destinations.",
+          "zh": "加勒比海包含许多不同的殖民地目的地。"
+        }
+      },
+      {
+        "id": "north-america",
+        "label": {
+          "en": "Mainland North America · Carolina reference",
+          "zh": "北美大陆·卡罗来纳参照"
+        },
+        "year": null,
+        "lat": 32.78,
+        "lon": -79.93,
+        "description": {
+          "en": "One destination region among many across the Americas.",
+          "zh": "美洲众多目的地区域之一。"
+        }
+      }
+    ],
+    "legs": [
+      {
+        "from": "west-central",
+        "to": "brazil",
+        "evidenceNote": "Selected regional relationship within SlaveVoyages’ many-to-many Atlantic synthesis; not a Luanda–Rio voyage record."
+      },
+      {
+        "from": "west-central",
+        "to": "caribbean",
+        "evidenceNote": "Selected regional relationship; not a claim that every captive travelled to Jamaica."
+      },
+      {
+        "from": "west-central",
+        "to": "north-america",
+        "evidenceNote": "Selected regional relationship; width and count have no quantitative meaning."
+      },
+      {
+        "from": "benin",
+        "to": "bahia",
+        "evidenceNote": "Selected regional relationship in the Atlantic synthesis; not a specific Ouidah–Salvador sailing."
+      },
+      {
+        "from": "benin",
+        "to": "caribbean",
+        "evidenceNote": "Selected regional relationship; the Caribbean anchor does not identify every destination island."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Volume and direction of the trans-Atlantic slave trade",
+        "url": "https://legacy.slavevoyages.org/blog/volume-and-direction-trans-atlantic-slave-trade",
+        "publisher": "SlaveVoyages; David Eltis and David Richardson",
+        "evidenceNote": "Regional map and text explain many-to-many African/American connections; map inspected directly, no quantities copied.",
+        "checkedAt": "2026-10-22"
+      },
+      {
+        "title": "Major regions and ports involved in the trans-Atlantic slave trade",
+        "url": "https://legacy.slavevoyages.org/blog/major-regions-ports-trans-atlantic-slave-trade",
+        "publisher": "SlaveVoyages; David Eltis and David Richardson",
+        "evidenceNote": "Map inspected for regional labels and geographic anchors; anchors are not asserted paired-port voyages.",
+        "checkedAt": "2026-10-22"
+      },
+      {
+        "title": "The Trans-Atlantic Slave Trade Database: methodology",
+        "url": "https://legacy.slavevoyages.org/blog/methodology-trans-atlantic",
+        "publisher": "SlaveVoyages",
+        "evidenceNote": "Records, estimates and gaps in evidence; individual origins cannot be equated with coastal departure points.",
+        "checkedAt": "2026-10-22"
+      }
+    ],
+    "personIds": [
+      "person-toussaint",
+      "person-harriet-tubman"
+    ],
+    "relatedIds": []
+  },
+  {
+    "id": "route-salt-march",
+    "title": {
+      "en": "The Salt March: from Sabarmati to Dandi",
+      "zh": "食盐进军：从萨巴尔马蒂到丹地"
+    },
+    "kind": "journey",
+    "start": 1930,
+    "end": 1930,
+    "summary": {
+      "en": "A walk made a colonial tax visible. Gandhi and fellow marchers left Sabarmati Ashram, spoke in towns and villages, and reached the coast at Dandi. Making salt there on 6 April challenged the British monopoly and helped widen civil disobedience. Speeches along the route show that the march involved sustained organising, persuasion, and practical cooperation. It was one part of a broader movement whose participants included people and places well beyond this line on the map.",
+      "zh": "一场步行使殖民税制变得可见。甘地与同行者离开萨巴尔马蒂修院，在城镇和村庄演讲，最终抵达丹地海岸。4月6日在此制盐，挑战了英国的垄断，并推动更广泛的公民不服从。沿途演讲显示，这场进军需要持续组织、劝说与实际合作。它只是更大运动的一部分，参与者和活动地点远超地图上的这条线。"
+    },
+    "dateNote": {
+      "en": "12 March–6 April 1930. Arrival at Dandi on 5 April preceded the salt-law action on 6 April; these are distinct events.",
+      "zh": "1930年3月12日至4月6日。4月5日抵达丹地，4月6日采取违反食盐法的行动，两者应区分。"
+    },
+    "caveat": {
+      "en": "Selected documented stops and speeches, linked schematically. Intermediate villages, overnight halts and the actual walking path are omitted.",
+      "zh": "选定有记录的停留与演讲地点，以示意线连接；省略中间村庄、夜宿地与实际步行道路。"
+    },
+    "geometryPrecision": "schematic",
+    "stops": [
+      {
+        "id": "sabarmati",
+        "label": {
+          "en": "Sabarmati Ashram",
+          "zh": "萨巴尔马蒂修院"
+        },
+        "year": 1930,
+        "lat": 23.06,
+        "lon": 72.58,
+        "description": {
+          "en": "Departure on 12 March.",
+          "zh": "3月12日出发。"
+        },
+        "dateLabel": {
+          "en": "12 March 1930",
+          "zh": "1930年3月12日"
+        }
+      },
+      {
+        "id": "aslali",
+        "label": {
+          "en": "Aslali",
+          "zh": "阿斯拉利"
+        },
+        "year": 1930,
+        "lat": 22.92,
+        "lon": 72.59,
+        "description": {
+          "en": "A speech linked the salt tax to village expenses.",
+          "zh": "演讲把盐税与村庄支出联系起来。"
+        },
+        "dateLabel": {
+          "en": "12 March 1930",
+          "zh": "1930年3月12日"
+        }
+      },
+      {
+        "id": "nadiad",
+        "label": {
+          "en": "Nadiad",
+          "zh": "纳迪亚德"
+        },
+        "year": 1930,
+        "lat": 22.69,
+        "lon": 72.86,
+        "description": {
+          "en": "A documented public address during the march.",
+          "zh": "进军期间有记录的公开演讲。"
+        },
+        "dateLabel": {
+          "en": "15 March 1930",
+          "zh": "1930年3月15日"
+        }
+      },
+      {
+        "id": "anand",
+        "label": {
+          "en": "Anand",
+          "zh": "阿南德"
+        },
+        "year": 1930,
+        "lat": 22.56,
+        "lon": 72.95,
+        "description": {
+          "en": "Spoke and met volunteers.",
+          "zh": "演讲并会见志愿者。"
+        },
+        "dateLabel": {
+          "en": "17 March 1930",
+          "zh": "1930年3月17日"
+        }
+      },
+      {
+        "id": "borsad",
+        "label": {
+          "en": "Borsad",
+          "zh": "博尔萨德"
+        },
+        "year": 1930,
+        "lat": 22.41,
+        "lon": 72.9,
+        "description": {
+          "en": "Addressed a public meeting.",
+          "zh": "在公众集会上讲话。"
+        },
+        "dateLabel": {
+          "en": "18 March 1930",
+          "zh": "1930年3月18日"
+        }
+      },
+      {
+        "id": "surat",
+        "label": {
+          "en": "Surat",
+          "zh": "苏拉特"
+        },
+        "year": 1930,
+        "lat": 21.17,
+        "lon": 72.83,
+        "description": {
+          "en": "A public address on 1 April.",
+          "zh": "4月1日公开演讲。"
+        },
+        "dateLabel": {
+          "en": "1 April 1930",
+          "zh": "1930年4月1日"
+        }
+      },
+      {
+        "id": "dandi",
+        "label": {
+          "en": "Dandi",
+          "zh": "丹地"
+        },
+        "year": 1930,
+        "lat": 20.89,
+        "lon": 72.8,
+        "description": {
+          "en": "Arrived on 5 April; broke the salt law on 6 April.",
+          "zh": "4月5日抵达，4月6日打破食盐法。"
+        },
+        "dateLabel": {
+          "en": "5–6 April 1930",
+          "zh": "1930年4月5—6日"
+        }
+      }
+    ],
+    "legs": [
+      {
+        "from": "sabarmati",
+        "to": "aslali",
+        "evidenceNote": "Chronological progression between selected documented stops; not a precise path."
+      },
+      {
+        "from": "aslali",
+        "to": "nadiad",
+        "evidenceNote": "Chronological progression between selected documented stops; not a precise path."
+      },
+      {
+        "from": "nadiad",
+        "to": "anand",
+        "evidenceNote": "Chronological progression between selected documented stops; not a precise path."
+      },
+      {
+        "from": "anand",
+        "to": "borsad",
+        "evidenceNote": "Chronological progression between selected documented stops; not a precise path."
+      },
+      {
+        "from": "borsad",
+        "to": "surat",
+        "evidenceNote": "Chronological progression between selected documented stops; not a precise path."
+      },
+      {
+        "from": "surat",
+        "to": "dandi",
+        "evidenceNote": "Chronological progression between selected documented stops; not a precise path."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Chronology 1930",
+        "url": "https://www.gandhiserve.net/about-mahatma-gandhi/chronologies/chronology-1930/",
+        "publisher": "GandhiServe archival research service",
+        "evidenceNote": "Chronology of speeches and march events: Nadiad, Anand, Borsad, Surat and Dandi.",
+        "checkedAt": "2026-10-22"
+      },
+      {
+        "title": "Speech at Aslali, 12 March 1930",
+        "url": "https://www.mkgandhi.org/civil_dis/speech1.php",
+        "publisher": "Gandhi Research Foundation / mkgandhi.org",
+        "evidenceNote": "Primary speech connecting salt taxation with village life.",
+        "checkedAt": "2026-10-22"
+      },
+      {
+        "title": "Discovering Dandi March",
+        "url": "https://www.dandimarch.org/",
+        "publisher": "Dandi Path Heritage Management, Gujarat Vidyapith and government partners",
+        "evidenceNote": "12 March departure and 6 April salt-law action; route reconstruction is interpretive.",
+        "checkedAt": "2026-10-22"
+      }
+    ],
+    "personIds": [
+      "person-gandhi"
+    ],
+    "relatedIds": [
+      "south-asia-independence-partition"
+    ]
+  }
+]

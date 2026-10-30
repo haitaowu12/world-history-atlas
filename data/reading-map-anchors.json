@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "checkedAt": "2026-10-25",
+  "policy": "Editorial episode anchors, not a claim that a thematic reading is a chronological itinerary. Existing article intervals, IDs and course order remain unchanged.",
+  "paths": {
+    "course-expansion-na2": {
+      "years": {
+        "navajo-long-walk-return": 1864,
+        "fort-laramie-treaty-1868": 1868,
+        "red-river-resistance": 1870,
+        "indian-act-assimilation": 1876,
+        "canadian-national-policy-tariffs-land": 1878
+      },
+      "note": {
+        "en": "Map anchors select documented episodes within the linked article ranges; the reading remains thematic.",
+        "zh": "地图锚点选取关联文章区间内有据可查的节点；阅读顺序仍按主题组织。"
+      },
+      "evidence": "Dates are drawn from the corresponding current entry titles, narratives and cited sources. Navigation correction only; no article date range is rewritten."
+    }
+  }
+}

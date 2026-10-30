@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "checkedAt": "2026-10-25",
+  "upstreamRepository": "https://github.com/DeanChensj/jiangshan-map",
+  "upstreamCommit": "10fdcaeeb3361525e2f34bd7ca767714341565f0",
+  "baselineCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+  "eventReviews": [
+    {
+      "id": "china-landmark-498",
+      "note": {
+        "en": "Upstream correction prompted independent inspection of History of Song, juan 12 and 316. This 1061 anchor concerns appointment as shumi fushi, not the earlier Kaifeng magistracy. Retains the frozen source identity and original wording.",
+        "zh": "上游修订促成对《宋史》卷十二、卷三百一十六的独立查阅。1061年节点指任枢密副使，而非较早的开封府任职；保留固定来源身份与原文。"
+      },
+      "patch": {
+        "title": {
+          "en": "Bao Zheng joins the central military administration",
+          "zh": "包拯出任枢密副使"
+        },
+        "summary": {
+          "en": "The annals of Emperor Renzong record Bao Zheng’s appointment as shumi fushi in Jiayou 6 (1061). This central military-administration office belongs to a later stage of his career than his service at Kaifeng. His biography separately describes opening the magistrate’s court to petitioners and recounts his reputation for firmness. Those accounts help explain his later public image, but they should not be compressed into a single Kaifeng event dated 1061.",
+          "zh": "仁宗本纪记载，嘉祐六年（1061年）包拯出任枢密副使。这一中央军政职务晚于其开封府任职。其本传另述开放府门以便民众陈诉，并记述其刚正声望。这些叙述有助于理解后世形象，但不应合并成一件发生在1061年的开封府事件。"
+        },
+        "dateNote": {
+          "en": "1061 is the civil-year equivalent of Jiayou 6. Juan 12 places the appointment in the fourth lunar month; no Gregorian day is asserted. Kaifeng is a representative capital location, not a verified office building.",
+          "zh": "1061年对应嘉祐六年。卷十二将任命记在农历四月，此处不换算公历日期。开封点位代表首都位置，并非经核实的官署建筑。"
+        }
+      },
+      "sources": [
+        {
+          "title": "History of Song · juan 12, Jiayou 6",
+          "url": "https://zh.wikisource.org/wiki/宋史/卷012#嘉祐六年",
+          "publisher": "History of Song · Wikisource digital transcription",
+          "evidenceNote": "Inspected annals: Jiayou 6 (1061), fourth lunar month, records Bao Zheng becoming shumi fushi. Only the civil year is used; no exact Gregorian day is inferred.",
+          "checkedAt": "2026-10-25"
+        },
+        {
+          "title": "History of Song · juan 316, Bao Zheng",
+          "url": "https://zh.wikisource.org/wiki/宋史/卷316#包拯",
+          "publisher": "History of Song · Wikisource digital transcription",
+          "evidenceNote": "Inspected digital primary-text transcription: distinguishes service at Kaifeng, fiscal office and later appointment as deputy military commissioner. Retrospective official biography; its reputation anecdotes are attributed, not independently established events.",
+          "checkedAt": "2026-10-25"
+        }
+      ]
+    }
+  ],
+  "personSupplements": [
+    {
+      "id": "person-xuanzang",
+      "keyFacts": {
+        "en": [
+          "The biography describes Nalanda as a community of teachers, students and patrons, with Xuanzang learning from Silabhadra. Reading it alongside the atlas’s Bihar study window adds institutional context without treating the upstream 631 arrival marker as settled chronology.",
+          "In juan 5, Harsa convenes an assembly at Kannauj around Xuanzang’s teaching. The narrator celebrates Mahayana victory; this is evidence for the biography’s religious perspective as well as court patronage. The upstream 642 marker is not adopted as an independently verified event date."
+        ],
+        "zh": [
+          "本传将那烂陀描述为教师、学生与施主共同支撑的群体，并叙述玄奘向戒贤学习。结合地图所列比哈尔学习时段，可理解寺院制度背景，而不将上游631年的抵达节点当成已定编年。",
+          "卷五叙述戒日王围绕玄奘讲论在曲女城（今Kannauj）设会。叙述者赞颂大乘得胜；这既反映王室护持，也体现传记的宗教立场。此处不采纳上游642年为独立核实的事件日期。"
+        ]
+      },
+      "sources": [
+        {
+          "title": "Biography of the Tripitaka Master · T2053, juan 3",
+          "url": "https://cbetaonline.dila.edu.tw/zh/T2053_003",
+          "publisher": "CBETA / Dharma Drum Institute of Liberal Arts",
+          "evidenceNote": "Inspected passage describes reception at Nalanda, meeting Silabhadra and studying the Yogacarabhumi. Religious biography with exemplary and visionary episodes; does not independently settle the arrival year.",
+          "checkedAt": "2026-10-25"
+        },
+        {
+          "title": "Biography of the Tripitaka Master · T2053, juan 5",
+          "url": "https://cbetaonline.dila.edu.tw/zh/T2053_005",
+          "publisher": "CBETA / Dharma Drum Institute of Liberal Arts",
+          "evidenceNote": "Inspected passage describes Harsa arranging an assembly at Qunücheng (Kannauj) and a subsequent Prayaga gathering. Claims of unanimous doctrinal success belong to the biographical narrator; no exact assembly year adopted here.",
+          "checkedAt": "2026-10-25"
+        }
+      ]
+    }
+  ]
+}

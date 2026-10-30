@@ -1,0 +1,28 @@
+export const journeys=[
+  {id:'world-1200',title:{en:'One world, around 1200',zh:'公元1200年的世界'},description:{en:'States, cities, scholarship, and living landscapes across all nine regions. What can we see when we hold the year still?',zh:'在同一个年份，比较九个地区的政权、城市、学术与生活景观。'},year:1200,stops:['cahokia','chimu-chan-chan','great-zimbabwe','eastern-roman-empire','abbasid-caliphate','nalanda','quanzhou','angkor','nan-madol']},
+  {id:'city-making',title:{en:'How people made cities',zh:'人们怎样建造城市'},description:{en:'From the Andes to the Indus, then to Mesoamerica and southern Africa: different answers to living together.',zh:'从安第斯与印度河流域，到中美洲与非洲南部，看看共同生活的不同方式。'},stops:['caral','mohenjo-daro','teotihuacan','angkor','great-zimbabwe']},
+  {id:'knowledge',title:{en:'Keeping and sharing knowledge',zh:'知识如何保存与传播'},description:{en:'Writing, learning communities, manuscript culture, industry, and a network for sharing information.',zh:'从文字、学习社群与手稿文化，到工业和信息共享网络。'},stops:['uruk-writing','nalanda','mogao','timbuktu','ironbridge','world-wide-web']},
+  {id:'connections',title:{en:'A world of exchange',zh:'交流织成的世界'},description:{en:'Ports, caravan networks, and roads. Compare connections across land and sea without assuming one universal route.',zh:'港口、商路与道路：比较陆地和海上的联系，不把历史简化成一条路线。'},stops:['aksum','silk-roads-changan','quanzhou','kilwa','venice-maritime','qhapaq-nan']},
+  {id:'living-landscapes',title:{en:'Living with land and water',zh:'与土地和水共生'},description:{en:'Settled foragers, wetland cultivators, aquaculture, and oceanic cultural landscapes. Living traditions continue.',zh:'定居采集者、湿地耕作者、水产养殖与海洋文化景观：延续至今的生活传统。'},stops:['jomon-northern-japan','kuk','budj-bim','nan-madol','rapa-nui','taputapuatea']},
+  {id:'participation',title:{en:'Who gets a voice?',zh:'谁拥有发言权？'},description:{en:'Voting rights, independence, diplomacy, and democratic participation through selected modern milestones.',zh:'通过现代史中的若干节点，探索投票权、独立、外交与民主参与。'},stops:['nz-womens-suffrage','un-charter','south-asia-independence-partition','bandung-conference','ghana-independence','south-africa-election']},
+{
+  "id": "changing-modern-map",
+  "title": {
+    "en": "How the modern map changed",
+    "zh": "现代地图如何改变"
+  },
+  "description": {
+    "en": "Follow separation, reunification, dissolution, and independence. Read the exact dates before comparing political outlines.",
+    "zh": "追踪分立、统一、解体与独立；比较政治轮廓前，先阅读具体日期。"
+  },
+  "stops": [
+    "singapore-independence",
+    "bangladesh-liberation",
+    "german-reunification",
+    "soviet-union-dissolution",
+    "czechoslovakia-dissolution",
+    "timor-leste-independence",
+    "south-sudan-independence"
+  ]
+}
+];

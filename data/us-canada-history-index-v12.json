@@ -1,0 +1,1647 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "0.11.0",
+  "referenceRelease": "5.1.1",
+  "areas": {
+    "US-AK": [
+      {
+        "recordId": "person-elizabeth-peratrovich",
+        "roles": [
+          "milestone",
+          "editorial"
+        ],
+        "milestoneYears": [
+          1911
+        ],
+        "locationAssociation": {
+          "place": {
+            "en": "Juneau",
+            "zh": "朱诺"
+          },
+          "note": {
+            "en": "Juneau: a reviewed named-place association with the modern reference area. The generalized outline omits the original representative point; neither point nor polygon was moved. This is geographic navigation, not a historical jurisdiction claim.",
+            "zh": "朱诺：根据地名核对与现代参照地区的关联。概略轮廓未包含原有代表点；没有移动点位或修改多边形。此关联用于地理导航，不是历史管辖论断。"
+          },
+          "sources": [
+            {
+              "title": "Anti-Discrimination Act of 1945 and Elizabeth Peratrovich",
+              "publisher": "Alaska State Archives",
+              "url": "https://archives.alaska.gov/education/peratrovich.html",
+              "checkedAt": "2026-10-24",
+              "retrieval": "inspected-text-via-central-iab-capture",
+              "evidenceNote": "Page identifies Alaska’s territorial legislature and Juneau AK archive addresses. Association concerns the representative Juneau setting, not the full campaign extent. Actual page text inspected through the root Codex in-app browser on 2026-10-24."
+            }
+          ],
+          "checkedAt": "2026-10-24"
+        }
+      },
+      {
+        "recordId": "alaska-purchase",
+        "roles": [
+          "editorial"
+        ],
+        "milestoneYears": [],
+        "locationAssociation": {
+          "place": {
+            "en": "Sitka",
+            "zh": "锡特卡"
+          },
+          "note": {
+            "en": "Sitka: a reviewed named-place association with the modern reference area. The generalized outline omits the original representative point; neither point nor polygon was moved. This is geographic navigation, not a historical jurisdiction claim.",
+            "zh": "锡特卡：根据地名核对与现代参照地区的关联。概略轮廓未包含原有代表点；没有移动点位或修改多边形。此关联用于地理导航，不是历史管辖论断。"
+          },
+          "sources": [
+            {
+              "title": "Sitka National Historical Park",
+              "publisher": "National Park Service",
+              "url": "https://www.nps.gov/sitk/index.htm",
+              "checkedAt": "2026-10-24",
+              "retrieval": "inspected-text-via-central-iab-capture",
+              "evidenceNote": "Park heading explicitly identifies Alaska. Sitka is a named modern place association, not the extent of the 1867 transaction or the Kiks.ádi homeland. Actual page text inspected through the root Codex in-app browser on 2026-10-24."
+            }
+          ],
+          "checkedAt": "2026-10-24"
+        }
+      },
+      {
+        "recordId": "sitka-kiksadi-resistance",
+        "roles": [
+          "editorial"
+        ],
+        "milestoneYears": [],
+        "locationAssociation": {
+          "place": {
+            "en": "Sitka",
+            "zh": "锡特卡"
+          },
+          "note": {
+            "en": "Sitka: a reviewed named-place association with the modern reference area. The generalized outline omits the original representative point; neither point nor polygon was moved. This is geographic navigation, not a historical jurisdiction claim.",
+            "zh": "锡特卡：根据地名核对与现代参照地区的关联。概略轮廓未包含原有代表点；没有移动点位或修改多边形。此关联用于地理导航，不是历史管辖论断。"
+          },
+          "sources": [
+            {
+              "title": "Sitka National Historical Park",
+              "publisher": "National Park Service",
+              "url": "https://www.nps.gov/sitk/index.htm",
+              "checkedAt": "2026-10-24",
+              "retrieval": "inspected-text-via-central-iab-capture",
+              "evidenceNote": "Park heading explicitly identifies Alaska. Sitka is a named modern place association, not the extent of the 1867 transaction or the Kiks.ádi homeland. Actual page text inspected through the root Codex in-app browser on 2026-10-24."
+            }
+          ],
+          "checkedAt": "2026-10-24"
+        }
+      },
+      {
+        "recordId": "alaska-anti-discrimination-1945",
+        "roles": [
+          "editorial"
+        ],
+        "milestoneYears": [],
+        "locationAssociation": {
+          "place": {
+            "en": "Juneau",
+            "zh": "朱诺"
+          },
+          "note": {
+            "en": "Juneau: a reviewed named-place association with the modern reference area. The generalized outline omits the original representative point; neither point nor polygon was moved. This is geographic navigation, not a historical jurisdiction claim.",
+            "zh": "朱诺：根据地名核对与现代参照地区的关联。概略轮廓未包含原有代表点；没有移动点位或修改多边形。此关联用于地理导航，不是历史管辖论断。"
+          },
+          "sources": [
+            {
+              "title": "Anti-Discrimination Act of 1945 and Elizabeth Peratrovich",
+              "publisher": "Alaska State Archives",
+              "url": "https://archives.alaska.gov/education/peratrovich.html",
+              "checkedAt": "2026-10-24",
+              "retrieval": "inspected-text-via-central-iab-capture",
+              "evidenceNote": "Page identifies Alaska’s territorial legislature and Juneau AK archive addresses. Association concerns the representative Juneau setting, not the full campaign extent. Actual page text inspected through the root Codex in-app browser on 2026-10-24."
+            }
+          ],
+          "checkedAt": "2026-10-24"
+        }
+      }
+    ],
+    "US-AL": [
+      {
+        "recordId": "us-civil-rights-movement",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "montgomery-bus-boycott",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "person-martin-luther-king-jr",
+        "roles": [
+          "milestone"
+        ],
+        "milestoneYears": [
+          1954,
+          1955
+        ]
+      },
+      {
+        "recordId": "person-george-washington-carver",
+        "roles": [
+          "representative",
+          "milestone"
+        ],
+        "milestoneYears": [
+          1896,
+          1906,
+          1943
+        ]
+      },
+      {
+        "recordId": "tuskegee-mobile-agricultural-education",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "US-AR": [],
+    "US-AZ": [
+      {
+        "recordId": "hohokam-canal-communities",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "US-CA": [
+      {
+        "recordId": "un-charter",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "chinese-exclusion-us",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "japanese-american-incarceration",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "person-dolores-huerta",
+        "roles": [
+          "representative",
+          "milestone"
+        ],
+        "milestoneYears": [
+          1955,
+          1962,
+          1965,
+          1970
+        ]
+      },
+      {
+        "recordId": "delano-grape-strike",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "alcatraz-occupation",
+        "roles": [
+          "editorial"
+        ],
+        "milestoneYears": [],
+        "locationAssociation": {
+          "place": {
+            "en": "Alcatraz Island",
+            "zh": "恶魔岛"
+          },
+          "note": {
+            "en": "Alcatraz Island: a reviewed named-place association with the modern reference area. The generalized outline omits the original representative point; neither point nor polygon was moved. This is geographic navigation, not a historical jurisdiction claim.",
+            "zh": "恶魔岛：根据地名核对与现代参照地区的关联。概略轮廓未包含原有代表点；没有移动点位或修改多边形。此关联用于地理导航，不是历史管辖论断。"
+          },
+          "sources": [
+            {
+              "title": "Alcatraz Island",
+              "publisher": "National Park Service",
+              "url": "https://www.nps.gov/alca/index.htm",
+              "checkedAt": "2026-10-24",
+              "retrieval": "inspected-text-via-central-iab-capture",
+              "evidenceNote": "Park heading explicitly identifies California. The island is omitted from the generalized administrative geometry at the original representative point. Actual page text inspected through the root Codex in-app browser on 2026-10-24."
+            }
+          ],
+          "checkedAt": "2026-10-24"
+        }
+      }
+    ],
+    "US-CO": [
+      {
+        "recordId": "mesa-verde-cliff-villages",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "US-CT": [],
+    "US-DC": [
+      {
+        "recordId": "dawes-allotment",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "new-deal-social-state",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "person-rachel-carson",
+        "roles": [
+          "milestone"
+        ],
+        "milestoneYears": [
+          1951
+        ]
+      },
+      {
+        "recordId": "person-sarah-winnemucca",
+        "roles": [
+          "milestone"
+        ],
+        "milestoneYears": [
+          1884
+        ]
+      },
+      {
+        "recordId": "person-abraham-lincoln",
+        "roles": [
+          "milestone"
+        ],
+        "milestoneYears": [
+          1865
+        ]
+      }
+    ],
+    "US-DE": [],
+    "US-FL": [
+      {
+        "recordId": "apollo-11",
+        "roles": [
+          "editorial"
+        ],
+        "milestoneYears": [],
+        "locationAssociation": {
+          "place": {
+            "en": "Kennedy Space Center",
+            "zh": "肯尼迪航天中心"
+          },
+          "note": {
+            "en": "Kennedy Space Center: a reviewed named-place association with the modern reference area. The generalized outline omits the original representative point; neither point nor polygon was moved. This is geographic navigation, not a historical jurisdiction claim.",
+            "zh": "肯尼迪航天中心：根据地名核对与现代参照地区的关联。概略轮廓未包含原有代表点；没有移动点位或修改多边形。此关联用于地理导航，不是历史管辖论断。"
+          },
+          "sources": [
+            {
+              "title": "Kennedy Space Center",
+              "publisher": "NASA",
+              "url": "https://www.nasa.gov/kennedy/",
+              "checkedAt": "2026-10-24",
+              "retrieval": "inspected-text-via-central-iab-capture",
+              "evidenceNote": "Location field explicitly identifies Kennedy Space Center, Florida. Actual page text inspected through the root Codex in-app browser on 2026-10-24."
+            }
+          ],
+          "checkedAt": "2026-10-24"
+        }
+      }
+    ],
+    "US-GA": [
+      {
+        "recordId": "cherokee-forced-removal",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "person-sequoyah",
+        "roles": [
+          "milestone"
+        ],
+        "milestoneYears": [
+          1828
+        ]
+      },
+      {
+        "recordId": "cherokee-phoenix-publication",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "person-martin-luther-king-jr",
+        "roles": [
+          "representative",
+          "milestone"
+        ],
+        "milestoneYears": [
+          1960
+        ]
+      }
+    ],
+    "US-HI": [],
+    "US-IA": [
+      {
+        "recordId": "person-george-washington-carver",
+        "roles": [
+          "milestone"
+        ],
+        "milestoneYears": [
+          1890,
+          1891,
+          1896
+        ]
+      }
+    ],
+    "US-ID": [],
+    "US-IL": [
+      {
+        "recordId": "cahokia",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "african-american-great-migration",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "person-ida-b-wells",
+        "roles": [
+          "representative",
+          "milestone"
+        ],
+        "milestoneYears": [
+          1895,
+          1913
+        ]
+      },
+      {
+        "recordId": "person-abraham-lincoln",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "person-jane-addams",
+        "roles": [
+          "representative",
+          "milestone"
+        ],
+        "milestoneYears": [
+          1881,
+          1889
+        ]
+      },
+      {
+        "recordId": "hull-house-immigrant-neighborhood",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "US-IN": [],
+    "US-KS": [],
+    "US-KY": [
+      {
+        "recordId": "person-abraham-lincoln",
+        "roles": [
+          "milestone"
+        ],
+        "milestoneYears": [
+          1809
+        ]
+      }
+    ],
+    "US-LA": [
+      {
+        "recordId": "poverty-point",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "louisiana-purchase",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "US-MA": [
+      {
+        "recordId": "person-frederick-douglass",
+        "roles": [
+          "milestone"
+        ],
+        "milestoneYears": [
+          1845
+        ]
+      },
+      {
+        "recordId": "person-sarah-winnemucca",
+        "roles": [
+          "milestone"
+        ],
+        "milestoneYears": [
+          1883
+        ]
+      }
+    ],
+    "US-MD": [
+      {
+        "recordId": "human-genome-project-completion",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "webb-first-science-images",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "person-harriet-tubman",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "person-rachel-carson",
+        "roles": [
+          "representative",
+          "milestone"
+        ],
+        "milestoneYears": [
+          1962
+        ]
+      },
+      {
+        "recordId": "person-jane-addams",
+        "roles": [
+          "milestone"
+        ],
+        "milestoneYears": [
+          1931
+        ]
+      }
+    ],
+    "US-ME": [],
+    "US-MI": [],
+    "US-MN": [
+      {
+        "recordId": "ojibwe-manoomin-waters",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "US-MO": [],
+    "US-MS": [],
+    "US-MT": [
+      {
+        "recordId": "person-sacagawea",
+        "roles": [
+          "milestone"
+        ],
+        "milestoneYears": [
+          1805
+        ]
+      }
+    ],
+    "US-NC": [],
+    "US-ND": [
+      {
+        "recordId": "person-sacagawea",
+        "roles": [
+          "representative",
+          "milestone"
+        ],
+        "milestoneYears": [
+          1804,
+          1805,
+          1806
+        ]
+      },
+      {
+        "recordId": "fort-mandan-indigenous-knowledge",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "US-NE": [],
+    "US-NH": [],
+    "US-NJ": [],
+    "US-NM": [
+      {
+        "recordId": "chaco",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "pueblo-revolt",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "navajo-long-walk-return",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "mimbres-painted-pottery",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "US-NV": [
+      {
+        "recordId": "person-sarah-winnemucca",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "US-NY": [
+      {
+        "recordId": "haudenosaunee-revolution-era",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "seneca-falls-convention",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "person-harriet-tubman",
+        "roles": [
+          "milestone"
+        ],
+        "milestoneYears": [
+          1913
+        ]
+      },
+      {
+        "recordId": "haudenosaunee-great-law",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "person-frederick-douglass",
+        "roles": [
+          "representative",
+          "milestone"
+        ],
+        "milestoneYears": [
+          1847
+        ]
+      },
+      {
+        "recordId": "un-indigenous-rights-declaration",
+        "roles": [
+          "editorial"
+        ],
+        "milestoneYears": [],
+        "locationAssociation": {
+          "place": {
+            "en": "United Nations Headquarters, New York",
+            "zh": "纽约联合国总部"
+          },
+          "note": {
+            "en": "United Nations Headquarters, New York: a reviewed named-place association with the modern reference area. The generalized outline omits the original representative point; neither point nor polygon was moved. This is geographic navigation, not a historical jurisdiction claim.",
+            "zh": "纽约联合国总部：根据地名核对与现代参照地区的关联。概略轮廓未包含原有代表点；没有移动点位或修改多边形。此关联用于地理导航，不是历史管辖论断。"
+          },
+          "sources": [
+            {
+              "title": "Visitors Services New York",
+              "publisher": "United Nations",
+              "url": "https://www.un.org/en/visit",
+              "checkedAt": "2026-10-24",
+              "retrieval": "inspected-text-via-central-iab-capture",
+              "evidenceNote": "Address section identifies New York, NY. This is the adoption marker, not the geographic extent of Indigenous rights. Actual page text inspected through the root Codex in-app browser on 2026-10-24."
+            }
+          ],
+          "checkedAt": "2026-10-24"
+        }
+      },
+      {
+        "recordId": "stonewall-uprising",
+        "roles": [
+          "editorial"
+        ],
+        "milestoneYears": [],
+        "locationAssociation": {
+          "place": {
+            "en": "Stonewall / Christopher Park, New York",
+            "zh": "纽约石墙／克里斯托弗公园"
+          },
+          "note": {
+            "en": "Stonewall / Christopher Park, New York: a reviewed named-place association with the modern reference area. The generalized outline omits the original representative point; neither point nor polygon was moved. This is geographic navigation, not a historical jurisdiction claim.",
+            "zh": "纽约石墙／克里斯托弗公园：根据地名核对与现代参照地区的关联。概略轮廓未包含原有代表点；没有移动点位或修改多边形。此关联用于地理导航，不是历史管辖论断。"
+          },
+          "sources": [
+            {
+              "title": "Stonewall National Monument",
+              "publisher": "National Park Service",
+              "url": "https://www.nps.gov/ston/index.htm",
+              "checkedAt": "2026-10-24",
+              "retrieval": "inspected-text-via-central-iab-capture",
+              "evidenceNote": "Park heading explicitly identifies New York. Actual page text inspected through the root Codex in-app browser on 2026-10-24."
+            }
+          ],
+          "checkedAt": "2026-10-24"
+        }
+      }
+    ],
+    "US-OH": [
+      {
+        "recordId": "hopewell-ceremonial-networks",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "US-OK": [
+      {
+        "recordId": "person-sequoyah",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "person-wilma-mankiller",
+        "roles": [
+          "representative",
+          "milestone"
+        ],
+        "milestoneYears": [
+          1985,
+          1987,
+          1995
+        ]
+      }
+    ],
+    "US-OR": [
+      {
+        "recordId": "person-sarah-winnemucca",
+        "roles": [
+          "milestone"
+        ],
+        "milestoneYears": [
+          1881
+        ]
+      }
+    ],
+    "US-PA": [
+      {
+        "recordId": "american-revolution",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "us-constitution",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "us-declaration-independence",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "person-harriet-tubman",
+        "roles": [
+          "milestone"
+        ],
+        "milestoneYears": [
+          1849
+        ]
+      },
+      {
+        "recordId": "person-george-washington",
+        "roles": [
+          "milestone"
+        ],
+        "milestoneYears": [
+          1777,
+          1787
+        ]
+      },
+      {
+        "recordId": "valley-forge-supply-households",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "US-RI": [],
+    "US-SC": [
+      {
+        "recordId": "person-harriet-tubman",
+        "roles": [
+          "milestone"
+        ],
+        "milestoneYears": [
+          1863
+        ]
+      },
+      {
+        "recordId": "penn-school-freedom-education",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "us-civil-war",
+        "roles": [
+          "editorial"
+        ],
+        "milestoneYears": [],
+        "locationAssociation": {
+          "place": {
+            "en": "Fort Sumter",
+            "zh": "萨姆特堡"
+          },
+          "note": {
+            "en": "Fort Sumter: a reviewed named-place association with the modern reference area. The generalized outline omits the original representative point; neither point nor polygon was moved. This is geographic navigation, not a historical jurisdiction claim.",
+            "zh": "萨姆特堡：根据地名核对与现代参照地区的关联。概略轮廓未包含原有代表点；没有移动点位或修改多边形。此关联用于地理导航，不是历史管辖论断。"
+          },
+          "sources": [
+            {
+              "title": "Fort Sumter and Fort Moultrie National Historical Park",
+              "publisher": "National Park Service",
+              "url": "https://www.nps.gov/fosu/index.htm",
+              "checkedAt": "2026-10-24",
+              "retrieval": "inspected-text-via-central-iab-capture",
+              "evidenceNote": "Park heading explicitly identifies South Carolina. Actual page text inspected through the root Codex in-app browser on 2026-10-24."
+            }
+          ],
+          "checkedAt": "2026-10-24"
+        }
+      }
+    ],
+    "US-SD": [],
+    "US-TN": [
+      {
+        "recordId": "person-sequoyah",
+        "roles": [
+          "milestone"
+        ],
+        "milestoneYears": [
+          1821
+        ]
+      },
+      {
+        "recordId": "person-ida-b-wells",
+        "roles": [
+          "milestone"
+        ],
+        "milestoneYears": [
+          1892
+        ]
+      },
+      {
+        "recordId": "person-martin-luther-king-jr",
+        "roles": [
+          "milestone"
+        ],
+        "milestoneYears": [
+          1968
+        ]
+      },
+      {
+        "recordId": "memphis-sanitation-strike-1968",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "US-TX": [
+      {
+        "recordId": "comanche-horse-networks",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "US-UT": [
+      {
+        "recordId": "transcontinental-railroad",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "US-VA": [
+      {
+        "recordId": "united-states-polity",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "person-zitkala-sa",
+        "roles": [
+          "representative",
+          "milestone"
+        ],
+        "milestoneYears": [
+          1918,
+          1926
+        ]
+      },
+      {
+        "recordId": "person-mary-ann-shadd",
+        "roles": [
+          "milestone"
+        ],
+        "milestoneYears": [
+          1878
+        ]
+      },
+      {
+        "recordId": "person-abraham-lincoln",
+        "roles": [
+          "milestone"
+        ],
+        "milestoneYears": [
+          1863
+        ]
+      },
+      {
+        "recordId": "person-george-washington",
+        "roles": [
+          "editorial"
+        ],
+        "milestoneYears": [],
+        "locationAssociation": {
+          "place": {
+            "en": "Mount Vernon, Virginia",
+            "zh": "弗吉尼亚州芒特弗农"
+          },
+          "note": {
+            "en": "Mount Vernon, Virginia: a reviewed named-place association with the modern reference area. The generalized outline omits the original representative point; neither point nor polygon was moved. This is geographic navigation, not a historical jurisdiction claim.",
+            "zh": "弗吉尼亚州芒特弗农：根据地名核对与现代参照地区的关联。概略轮廓未包含原有代表点；没有移动点位或修改多边形。此关联用于地理导航，不是历史管辖论断。"
+          },
+          "sources": [
+            {
+              "title": "George Washington: Biography",
+              "publisher": "George Washington’s Mount Vernon",
+              "url": "https://www.mountvernon.org/george-washington/biography",
+              "checkedAt": "2026-10-24",
+              "retrieval": "inspected-text-via-central-iab-capture",
+              "evidenceNote": "The institutional page provides the Mount Vernon, Virginia address. Association concerns the representative plantation/household context, not a claim of uninterrupted residence. Actual page text inspected through the root Codex in-app browser on 2026-10-24."
+            }
+          ],
+          "checkedAt": "2026-10-24"
+        }
+      },
+      {
+        "recordId": "virginia-racial-slavery",
+        "roles": [
+          "editorial"
+        ],
+        "milestoneYears": [],
+        "locationAssociation": {
+          "place": {
+            "en": "Jamestown",
+            "zh": "詹姆斯敦"
+          },
+          "note": {
+            "en": "Jamestown: a reviewed named-place association with the modern reference area. The generalized outline omits the original representative point; neither point nor polygon was moved. This is geographic navigation, not a historical jurisdiction claim.",
+            "zh": "詹姆斯敦：根据地名核对与现代参照地区的关联。概略轮廓未包含原有代表点；没有移动点位或修改多边形。此关联用于地理导航，不是历史管辖论断。"
+          },
+          "sources": [
+            {
+              "title": "Historic Jamestowne",
+              "publisher": "National Park Service",
+              "url": "https://www.nps.gov/jame/index.htm",
+              "checkedAt": "2026-10-24",
+              "retrieval": "inspected-text-via-central-iab-capture",
+              "evidenceNote": "Park heading explicitly identifies Virginia. The association concerns the representative Jamestown point, not the full reach of hereditary slavery. Actual page text inspected through the root Codex in-app browser on 2026-10-24."
+            }
+          ],
+          "checkedAt": "2026-10-24"
+        }
+      }
+    ],
+    "US-VT": [],
+    "US-WA": [],
+    "US-WI": [],
+    "US-WV": [],
+    "US-WY": [
+      {
+        "recordId": "fort-laramie-treaty-1868",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "CA-AB": [
+      {
+        "recordId": "person-john-ware",
+        "roles": [
+          "representative",
+          "milestone"
+        ],
+        "milestoneYears": [
+          1882,
+          1885,
+          1892,
+          1902,
+          1905
+        ]
+      },
+      {
+        "recordId": "southern-alberta-black-ranching",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "CA-BC": [
+      {
+        "recordId": "canadian-pacific-last-spike",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "canadian-residential-schools",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "delgamuukw-oral-history",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "japanese-canadian-dispossession",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "person-terry-fox",
+        "roles": [
+          "representative",
+          "milestone"
+        ],
+        "milestoneYears": [
+          1977,
+          1979,
+          1981
+        ]
+      },
+      {
+        "recordId": "kwakwakawakw-potlatch-repatriation",
+        "roles": [
+          "editorial"
+        ],
+        "milestoneYears": [],
+        "locationAssociation": {
+          "place": {
+            "en": "Alert Bay / U’mista Cultural Centre",
+            "zh": "警湾／乌米斯塔文化中心"
+          },
+          "note": {
+            "en": "Alert Bay / U’mista Cultural Centre: a reviewed named-place association with the modern reference area. The generalized outline omits the original representative point; neither point nor polygon was moved. This is geographic navigation, not a historical jurisdiction claim.",
+            "zh": "警湾／乌米斯塔文化中心：根据地名核对与现代参照地区的关联。概略轮廓未包含原有代表点；没有移动点位或修改多边形。此关联用于地理导航，不是历史管辖论断。"
+          },
+          "sources": [
+            {
+              "title": "U’mista Cultural Centre",
+              "publisher": "U’mista Cultural Society",
+              "url": "https://www.umista.ca/",
+              "checkedAt": "2026-10-24",
+              "retrieval": "inspected-text-via-central-iab-capture",
+              "evidenceNote": "Homepage explicitly locates the centre in Alert Bay, BC, Canada. This does not define Kwakwaka’wakw territory. Actual page text inspected through the root Codex in-app browser on 2026-10-24."
+            }
+          ],
+          "checkedAt": "2026-10-24"
+        }
+      },
+      {
+        "recordId": "komagata-maru-exclusion",
+        "roles": [
+          "editorial"
+        ],
+        "milestoneYears": [],
+        "locationAssociation": {
+          "place": {
+            "en": "Burrard Inlet, Vancouver",
+            "zh": "温哥华布拉德湾"
+          },
+          "note": {
+            "en": "Burrard Inlet, Vancouver: a reviewed named-place association with the modern reference area. The generalized outline omits the original representative point; neither point nor polygon was moved. This is geographic navigation, not a historical jurisdiction claim.",
+            "zh": "温哥华布拉德湾：根据地名核对与现代参照地区的关联。概略轮廓未包含原有代表点；没有移动点位或修改多边形。此关联用于地理导航，不是历史管辖论断。"
+          },
+          "sources": [
+            {
+              "title": "The Komagata Maru Incident of 1914",
+              "publisher": "Parks Canada",
+              "url": "https://www.canada.ca/en/parks-canada/news/2016/08/the-komagata-maru-incident-of-1914.html",
+              "checkedAt": "2026-10-24",
+              "retrieval": "inspected-text-via-central-iab-capture",
+              "evidenceNote": "Backgrounder places the ship in Vancouver harbour. Modern provincial association is British Columbia; the water anchorage is not moved onto a land polygon. Actual page text inspected through the root Codex in-app browser on 2026-10-24."
+            }
+          ],
+          "checkedAt": "2026-10-24"
+        }
+      },
+      {
+        "recordId": "gulf-georgia-cannery-labour",
+        "roles": [
+          "editorial"
+        ],
+        "milestoneYears": [],
+        "locationAssociation": {
+          "place": {
+            "en": "Gulf of Georgia Cannery, Steveston",
+            "zh": "斯蒂夫斯顿乔治亚湾罐头厂"
+          },
+          "note": {
+            "en": "Gulf of Georgia Cannery, Steveston: a reviewed named-place association with the modern reference area. The generalized outline omits the original representative point; neither point nor polygon was moved. This is geographic navigation, not a historical jurisdiction claim.",
+            "zh": "斯蒂夫斯顿乔治亚湾罐头厂：根据地名核对与现代参照地区的关联。概略轮廓未包含原有代表点；没有移动点位或修改多边形。此关联用于地理导航，不是历史管辖论断。"
+          },
+          "sources": [
+            {
+              "title": "Gulf of Georgia Cannery National Historic Site",
+              "publisher": "Parks Canada",
+              "url": "https://parks.canada.ca/lhn-nhs/bc/georgia",
+              "checkedAt": "2026-10-24",
+              "retrieval": "inspected-text-via-central-iab-capture",
+              "evidenceNote": "Site description explicitly identifies Steveston Village and British Columbia. Actual page text inspected through the root Codex in-app browser on 2026-10-24."
+            }
+          ],
+          "checkedAt": "2026-10-24"
+        }
+      }
+    ],
+    "CA-MB": [
+      {
+        "recordId": "metis-bison-hunt-governance",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "red-river-resistance",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "winnipeg-general-strike",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "person-louis-riel",
+        "roles": [
+          "representative",
+          "milestone"
+        ],
+        "milestoneYears": [
+          1869,
+          1870
+        ]
+      }
+    ],
+    "CA-NB": [],
+    "CA-NL": [
+      {
+        "recordId": "person-terry-fox",
+        "roles": [
+          "milestone"
+        ],
+        "milestoneYears": [
+          1980
+        ]
+      },
+      {
+        "recordId": "marathon-hope-public-fundraising",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "lanse-aux-meadows-woodworking",
+        "roles": [
+          "editorial"
+        ],
+        "milestoneYears": [],
+        "locationAssociation": {
+          "place": {
+            "en": "L’Anse aux Meadows, Newfoundland",
+            "zh": "纽芬兰兰塞奥梅多"
+          },
+          "note": {
+            "en": "L’Anse aux Meadows, Newfoundland: a reviewed named-place association with the modern reference area. The generalized outline omits the original representative point; neither point nor polygon was moved. This is geographic navigation, not a historical jurisdiction claim.",
+            "zh": "纽芬兰兰塞奥梅多：根据地名核对与现代参照地区的关联。概略轮廓未包含原有代表点；没有移动点位或修改多边形。此关联用于地理导航，不是历史管辖论断。"
+          },
+          "sources": [
+            {
+              "title": "L’Anse aux Meadows National Historic Site",
+              "publisher": "Parks Canada",
+              "url": "https://parks.canada.ca/lhn-nhs/nl/meadows",
+              "checkedAt": "2026-10-24",
+              "retrieval": "inspected-text-via-central-iab-capture",
+              "evidenceNote": "Site description identifies the tip of Newfoundland’s Great Northern Peninsula. The association uses today’s Newfoundland and Labrador reference unit. Actual page text inspected through the root Codex in-app browser on 2026-10-24."
+            }
+          ],
+          "checkedAt": "2026-10-24"
+        }
+      }
+    ],
+    "CA-NS": [
+      {
+        "recordId": "person-viola-desmond",
+        "roles": [
+          "representative",
+          "milestone"
+        ],
+        "milestoneYears": [
+          1946
+        ]
+      },
+      {
+        "recordId": "grand-pre-dykes-displacement",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "halifax-african-nova-scotian-archives",
+        "roles": [
+          "editorial"
+        ],
+        "milestoneYears": [],
+        "locationAssociation": {
+          "place": {
+            "en": "Halifax",
+            "zh": "哈利法克斯"
+          },
+          "note": {
+            "en": "Halifax: a reviewed named-place association with the modern reference area. The generalized outline omits the original representative point; neither point nor polygon was moved. This is geographic navigation, not a historical jurisdiction claim.",
+            "zh": "哈利法克斯：根据地名核对与现代参照地区的关联。概略轮廓未包含原有代表点；没有移动点位或修改多边形。此关联用于地理导航，不是历史管辖论断。"
+          },
+          "sources": [
+            {
+              "title": "African Nova Scotians in the Age of Slavery and Abolition",
+              "publisher": "Nova Scotia Archives",
+              "url": "https://archives.novascotia.ca/africanns/",
+              "checkedAt": "2026-10-24",
+              "retrieval": "inspected-text-via-central-iab-capture",
+              "evidenceNote": "Introduction connects Halifax and the African Nova Scotian documentary collection. Modern provincial association is Nova Scotia; the marker does not stand for every Black community. Actual page text inspected through the root Codex in-app browser on 2026-10-24."
+            }
+          ],
+          "checkedAt": "2026-10-24"
+        }
+      }
+    ],
+    "CA-NT": [],
+    "CA-NU": [
+      {
+        "recordId": "nunavut-creation",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "inuit-thule-mobility",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "kinngait-cooperative-printmaking",
+        "roles": [
+          "editorial"
+        ],
+        "milestoneYears": [],
+        "locationAssociation": {
+          "place": {
+            "en": "Kinngait (Cape Dorset)",
+            "zh": "金盖特（多塞特角）"
+          },
+          "note": {
+            "en": "Kinngait (Cape Dorset): a reviewed named-place association with the modern reference area. The generalized outline omits the original representative point; neither point nor polygon was moved. This is geographic navigation, not a historical jurisdiction claim.",
+            "zh": "金盖特（多塞特角）：根据地名核对与现代参照地区的关联。概略轮廓未包含原有代表点；没有移动点位或修改多边形。此关联用于地理导航，不是历史管辖论断。"
+          },
+          "sources": [
+            {
+              "title": "Kenojuak Ashevak: artistic community",
+              "publisher": "Inuit Art Foundation",
+              "url": "https://www.inuitartfoundation.org/profiles/artist/Kenojuak-Ashevak",
+              "checkedAt": "2026-10-24",
+              "retrieval": "inspected-text-via-central-iab-capture",
+              "evidenceNote": "Artistic Community field explicitly identifies Kinngait, Nunavut, Inuit Nunangat. The cooperative record represents the same named community; current Nunavut does not imply the territory existed before 1999. Actual page text inspected through the root Codex in-app browser on 2026-10-24."
+            }
+          ],
+          "checkedAt": "2026-10-24"
+        }
+      },
+      {
+        "recordId": "person-kenojuak-ashevak",
+        "roles": [
+          "editorial"
+        ],
+        "milestoneYears": [],
+        "locationAssociation": {
+          "place": {
+            "en": "Kinngait (Cape Dorset)",
+            "zh": "金盖特（多塞特角）"
+          },
+          "note": {
+            "en": "Kinngait (Cape Dorset): a reviewed named-place association with the modern reference area. The generalized outline omits the original representative point; neither point nor polygon was moved. This is geographic navigation, not a historical jurisdiction claim.",
+            "zh": "金盖特（多塞特角）：根据地名核对与现代参照地区的关联。概略轮廓未包含原有代表点；没有移动点位或修改多边形。此关联用于地理导航，不是历史管辖论断。"
+          },
+          "sources": [
+            {
+              "title": "Kenojuak Ashevak: artistic community",
+              "publisher": "Inuit Art Foundation",
+              "url": "https://www.inuitartfoundation.org/profiles/artist/Kenojuak-Ashevak",
+              "checkedAt": "2026-10-24",
+              "retrieval": "inspected-text-via-central-iab-capture",
+              "evidenceNote": "Artistic Community field explicitly identifies Kinngait, Nunavut, Inuit Nunangat. The cooperative record represents the same named community; current Nunavut does not imply the territory existed before 1999. Actual page text inspected through the root Codex in-app browser on 2026-10-24."
+            }
+          ],
+          "checkedAt": "2026-10-24"
+        }
+      }
+    ],
+    "CA-ON": [
+      {
+        "recordId": "canadian-confederation",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "royal-proclamation-niagara",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "canada-polity",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "indian-act-assimilation",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "canadian-constitution-1982",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "person-mary-two-axe-earley",
+        "roles": [
+          "milestone"
+        ],
+        "milestoneYears": [
+          1985
+        ]
+      },
+      {
+        "recordId": "person-mary-ann-shadd",
+        "roles": [
+          "representative",
+          "milestone"
+        ],
+        "milestoneYears": [
+          1851,
+          1853
+        ]
+      },
+      {
+        "recordId": "person-samuel-de-champlain",
+        "roles": [
+          "milestone"
+        ],
+        "milestoneYears": [
+          1613,
+          1615
+        ]
+      },
+      {
+        "recordId": "champlain-mapping-knowledge-exchange",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "person-john-a-macdonald",
+        "roles": [
+          "representative",
+          "milestone"
+        ],
+        "milestoneYears": [
+          1836,
+          1844,
+          1867,
+          1873,
+          1878
+        ]
+      },
+      {
+        "recordId": "canadian-national-policy-tariffs-land",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "person-tommy-douglas",
+        "roles": [
+          "milestone"
+        ],
+        "milestoneYears": [
+          1961
+        ]
+      },
+      {
+        "recordId": "person-terry-fox",
+        "roles": [
+          "milestone"
+        ],
+        "milestoneYears": [
+          1980
+        ]
+      },
+      {
+        "recordId": "person-kenojuak-ashevak",
+        "roles": [
+          "milestone"
+        ],
+        "milestoneYears": [
+          2004
+        ]
+      }
+    ],
+    "CA-PE": [],
+    "CA-QC": [
+      {
+        "recordId": "great-peace-montreal",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "person-mary-two-axe-earley",
+        "roles": [
+          "representative",
+          "milestone"
+        ],
+        "milestoneYears": [
+          1911
+        ]
+      },
+      {
+        "recordId": "quebec-french-settlement",
+        "roles": [
+          "editorial"
+        ],
+        "milestoneYears": [],
+        "locationAssociation": {
+          "place": {
+            "en": "Québec City",
+            "zh": "魁北克市"
+          },
+          "note": {
+            "en": "Québec City: a reviewed named-place association with the modern reference area. The generalized outline omits the original representative point; neither point nor polygon was moved. This is geographic navigation, not a historical jurisdiction claim.",
+            "zh": "魁北克市：根据地名核对与现代参照地区的关联。概略轮廓未包含原有代表点；没有移动点位或修改多边形。此关联用于地理导航，不是历史管辖论断。"
+          },
+          "sources": [
+            {
+              "title": "Historic District of Old Québec",
+              "publisher": "UNESCO World Heritage Centre",
+              "url": "https://whc.unesco.org/en/list/300/",
+              "checkedAt": "2026-10-24",
+              "retrieval": "inspected-text-via-central-iab-capture",
+              "evidenceNote": "Management section explicitly connects the City of Québec and the Province of Quebec. This association is for the representative city, not the full extent of New France or the Quiet Revolution. Actual page text inspected through the root Codex in-app browser on 2026-10-24."
+            }
+          ],
+          "checkedAt": "2026-10-24"
+        }
+      },
+      {
+        "recordId": "new-france-fur-alliance",
+        "roles": [
+          "editorial"
+        ],
+        "milestoneYears": [],
+        "locationAssociation": {
+          "place": {
+            "en": "Québec City",
+            "zh": "魁北克市"
+          },
+          "note": {
+            "en": "Québec City: a reviewed named-place association with the modern reference area. The generalized outline omits the original representative point; neither point nor polygon was moved. This is geographic navigation, not a historical jurisdiction claim.",
+            "zh": "魁北克市：根据地名核对与现代参照地区的关联。概略轮廓未包含原有代表点；没有移动点位或修改多边形。此关联用于地理导航，不是历史管辖论断。"
+          },
+          "sources": [
+            {
+              "title": "Historic District of Old Québec",
+              "publisher": "UNESCO World Heritage Centre",
+              "url": "https://whc.unesco.org/en/list/300/",
+              "checkedAt": "2026-10-24",
+              "retrieval": "inspected-text-via-central-iab-capture",
+              "evidenceNote": "Management section explicitly connects the City of Québec and the Province of Quebec. This association is for the representative city, not the full extent of New France or the Quiet Revolution. Actual page text inspected through the root Codex in-app browser on 2026-10-24."
+            }
+          ],
+          "checkedAt": "2026-10-24"
+        }
+      },
+      {
+        "recordId": "quebec-quiet-revolution",
+        "roles": [
+          "editorial"
+        ],
+        "milestoneYears": [],
+        "locationAssociation": {
+          "place": {
+            "en": "Québec City",
+            "zh": "魁北克市"
+          },
+          "note": {
+            "en": "Québec City: a reviewed named-place association with the modern reference area. The generalized outline omits the original representative point; neither point nor polygon was moved. This is geographic navigation, not a historical jurisdiction claim.",
+            "zh": "魁北克市：根据地名核对与现代参照地区的关联。概略轮廓未包含原有代表点；没有移动点位或修改多边形。此关联用于地理导航，不是历史管辖论断。"
+          },
+          "sources": [
+            {
+              "title": "Historic District of Old Québec",
+              "publisher": "UNESCO World Heritage Centre",
+              "url": "https://whc.unesco.org/en/list/300/",
+              "checkedAt": "2026-10-24",
+              "retrieval": "inspected-text-via-central-iab-capture",
+              "evidenceNote": "Management section explicitly connects the City of Québec and the Province of Quebec. This association is for the representative city, not the full extent of New France or the Quiet Revolution. Actual page text inspected through the root Codex in-app browser on 2026-10-24."
+            }
+          ],
+          "checkedAt": "2026-10-24"
+        }
+      },
+      {
+        "recordId": "person-samuel-de-champlain",
+        "roles": [
+          "editorial"
+        ],
+        "milestoneYears": [],
+        "locationAssociation": {
+          "place": {
+            "en": "Québec City",
+            "zh": "魁北克市"
+          },
+          "note": {
+            "en": "Québec City: a reviewed named-place association with the modern reference area. The generalized outline omits the original representative point; neither point nor polygon was moved. This is geographic navigation, not a historical jurisdiction claim.",
+            "zh": "魁北克市：根据地名核对与现代参照地区的关联。概略轮廓未包含原有代表点；没有移动点位或修改多边形。此关联用于地理导航，不是历史管辖论断。"
+          },
+          "sources": [
+            {
+              "title": "Historic District of Old Québec",
+              "publisher": "UNESCO World Heritage Centre",
+              "url": "https://whc.unesco.org/en/list/300/",
+              "checkedAt": "2026-10-24",
+              "retrieval": "inspected-text-via-central-iab-capture",
+              "evidenceNote": "Management section explicitly connects the City of Québec and the Province of Quebec. This association is for the representative city, not the full extent of New France or the Quiet Revolution. Actual page text inspected through the root Codex in-app browser on 2026-10-24."
+            }
+          ],
+          "checkedAt": "2026-10-24"
+        }
+      }
+    ],
+    "CA-SK": [
+      {
+        "recordId": "person-louis-riel",
+        "roles": [
+          "milestone"
+        ],
+        "milestoneYears": [
+          1885
+        ]
+      },
+      {
+        "recordId": "person-tommy-douglas",
+        "roles": [
+          "representative",
+          "milestone"
+        ],
+        "milestoneYears": [
+          1935,
+          1944,
+          1947
+        ]
+      },
+      {
+        "recordId": "saskatchewan-medicare-1962",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "CA-YT": []
+  }
+}
