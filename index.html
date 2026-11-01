@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#20363b">
+  <meta name="theme-color" content="#f7f8f7">
   <meta name="description" content="普天之下 · World History Atlas. Put each story back in its world. Explore concurrent histories in English and Chinese through maps, people, places and guided readings.">
   <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self'; object-src 'none'; base-uri 'self'; form-action 'none'">
   <title>World History Atlas · 普天之下</title>
@@ -14,49 +14,52 @@
   <meta property="og:image:alt" content="普天之下 · World History Atlas, exploring the world around 1200 CE.">
   <meta name="twitter:card" content="summary_large_image">
   <link rel="icon" href="./assets/favicon.svg?v=2" type="image/svg+xml"><link rel="stylesheet" href="./styles.css?v=29">
-  <link rel="stylesheet" href="./refinements.css?v=20"><link rel="stylesheet" href="./theme.css?v=26">
-  <script defer src="./assets/d3.v7.9.0.min.js"></script><script type="module" src="./app.mjs?v=50"></script>
+  <link rel="stylesheet" href="./refinements.css?v=20">
+  <script defer src="./assets/d3.v7.9.0.min.js"></script><script type="module" src="./app.mjs?v=51"></script>
   <link rel="stylesheet" href="./reading.css?v=1">
-  <link rel="stylesheet" href="./polish.css?v=1">
+  <link rel="stylesheet" href="./polish.css?v=1"><link rel="stylesheet" href="./theme.css?v=27">
 </head>
 <body>
 <a class="skip" href="#stories">Skip to historical entries</a>
 <header class="masthead">
   <a class="brand" href="#" id="brand-home" aria-label="World History Atlas home"><svg class="brand-mark" viewBox="0 0 40 40" aria-hidden="true"><circle cx="20" cy="20" r="16"/><ellipse cx="20" cy="20" rx="7.5" ry="16"/><path d="M4 20h32M7 11c8 5 18 5 26 0M7 29c8-5 18-5 26 0"/><path class="brand-orbit" d="M2 25C9 34 33 18 38 9"/><circle class="brand-point" cx="30" cy="18" r="2.5"/></svg><span><strong id="brand-name">World History Atlas</strong><small id="brand-subtitle">普天之下</small></span></a>
-  <nav aria-label="Main navigation"><button id="explore-nav" class="nav-button active" data-i18n="explore">Atlas</button><button id="chronology-nav" class="nav-button" data-i18n="chronology">Timeline</button><button id="journeys-nav" class="nav-button" data-i18n="readingNav">Readings</button><button id="people-nav" class="nav-button" data-i18n="people">People</button><button id="places-nav" class="nav-button" data-i18n="places">Places</button><button id="challenge-nav" class="nav-button" data-i18n="challenge">Challenge</button></nav>
+  <nav aria-label="Main navigation"><button id="explore-nav" aria-current="page" class="nav-button active" data-i18n="explore">Atlas</button><button id="chronology-nav" class="nav-button" data-i18n="chronology">Timeline</button><button id="journeys-nav" class="nav-button" data-i18n="readingNav">Readings</button><button id="people-nav" class="nav-button" data-i18n="people">People</button><button id="places-nav" class="nav-button" data-i18n="places">Places</button><button id="challenge-nav" class="nav-button" data-i18n="challenge">Challenge</button></nav>
   <div class="header-actions"><button id="notebook-nav" class="icon-button" aria-label="Open notebook" title="Notebook">▤</button><button id="language" class="language-button" lang="zh" aria-label="Switch to Chinese">中文</button><button id="share" class="share-button" data-i18n="share">Share ↗</button></div>
 </header>
+<section class="atlas-toolbar" aria-label="Find history"><div id="toolbar-controls-slot"><div id="explorer-controls" class="explorer-controls"><div class="search-wrap"><span aria-hidden="true">⌕</span><input id="search" type="search" maxlength="200" aria-label="Search history" placeholder="Places, people, empires…"><kbd>/</kbd></div><div class="filter-grid"><label><span class="sr-only" data-i18n="region">Region</span><select id="region" aria-label="Filter by region"></select></label><label><span class="sr-only" data-i18n="theme">Theme</span><select id="theme" aria-label="Filter by theme"></select></label></div><div class="mode-tabs" role="group" aria-label="Time filter"><button id="mode-year" class="selected" aria-pressed="true" data-i18n="atYear">At this time</button><button id="mode-all" aria-pressed="false" data-i18n="allTime">All history</button></div></div></div><button id="browse-stories" class="primary-button" aria-haspopup="dialog" aria-controls="stories-dialog">Browse stories</button></section>
 <main id="app" class="workspace">
-  <aside class="explorer" aria-label="History explorer">
-    <div class="explorer-heading"><span class="eyebrow" data-i18n="explorer">EXPLORE THE PAST</span><button id="about-nav" class="circle-button" aria-label="About the atlas and its sources">i</button></div>
-    <div class="search-wrap"><span aria-hidden="true">⌕</span><input id="search" type="search" maxlength="200" aria-label="Search history" placeholder="Places, people, empires…"><kbd>/</kbd></div>
-    <div class="mode-tabs" role="group" aria-label="Time filter"><button id="mode-year" class="selected" aria-pressed="true" data-i18n="atYear">At this time</button><button id="mode-all" aria-pressed="false" data-i18n="allTime">All history</button></div>
-    <div class="kind-tabs" id="kind-tabs" role="group" aria-label="Entry types"></div>
-    <details class="explorer-filters"><summary id="filter-summary">Filters</summary><div class="filter-grid"><label><span class="sr-only" data-i18n="region">Region</span><select id="region" aria-label="Filter by region"></select></label><label><span class="sr-only" data-i18n="theme">Theme</span><select id="theme" aria-label="Filter by theme"></select></label></div>
-    </details>
-    <div class="results-heading"><h1 id="results-heading">Loading history…</h1><button id="reset-filters" class="text-button" data-i18n="reset">Reset</button></div>
-    <div id="stories" class="stories" tabindex="-1" aria-labelledby="results-heading"></div>
-    <div id="sidebar-footer" class="sidebar-footer"></div>
-  </aside>
+
   <section class="map-stage" aria-label="World history map">
-    <div class="map-header"><div class="map-heading"><div class="eyebrow" id="era-title">AN AGE OF CONNECTIONS</div><div class="map-date" id="map-date">1200 <span>CE</span></div><p id="era-question">Many histories. One moment.</p></div><div class="map-heading-actions"><button id="map-dates-button" class="map-pill" data-action="map-dates" data-i18n="mapDates">Map dates</button><button id="regions-map-button" class="map-pill" data-action="regions-browse" data-i18n="regionsMapButton" aria-label="Browse states, provinces and regional units">Regions</button><button id="world-reset" class="map-pill" data-i18n="worldView">◎ World view</button><button id="layer-menu-button" class="map-pill" aria-expanded="false" aria-controls="layer-menu" data-i18n="layers">▧ Map layers</button></div></div>
+    <div class="map-header"><form id="year-form" class="year-form"><label class="sr-only" for="year-input" data-i18n="travelTo">Travel to year</label><input id="year-input" type="number" min="1" max="2026" value="1200" aria-label="Year"><select id="era" aria-label="Era"><option value="ce">CE</option><option value="bce">BCE</option></select><button type="submit" aria-label="Go to year">→</button></form><div class="map-heading"><div class="eyebrow" id="era-title">AN AGE OF CONNECTIONS</div><div class="map-date" id="map-date">1200 <span>CE</span></div><p id="era-question">Many histories. One moment.</p></div><div class="map-heading-actions"><button id="map-dates-button" class="map-pill" data-action="map-dates" data-i18n="mapDates">Map dates</button><button id="regions-map-button" class="map-pill" data-action="regions-browse" data-i18n="regionsMapButton" aria-label="Browse states, provinces and regional units">Regions</button><button id="world-reset" class="map-pill" data-i18n="worldView">◎ World view</button><button id="layer-menu-button" class="map-pill" aria-expanded="false" aria-controls="layer-menu" data-i18n="layers">▧ Map layers</button></div></div>
     <div id="map-wrap" class="map-wrap"><svg id="world-map" role="group" aria-label="Interactive world history map" tabindex="0"></svg><div id="map-tooltip" role="tooltip" hidden></div></div>
     <section id="layer-menu" class="layer-menu floating-card" aria-label="Map layers" hidden></section>
     <div class="map-snapshot" id="map-snapshot"></div>
     <div class="map-controls" aria-label="Map controls"><button id="zoom-in" aria-label="Zoom in">+</button><button id="zoom-out" aria-label="Zoom out">−</button><button id="zoom-reset" aria-label="Reset world view">⌖</button></div>
     <div id="territory-legend" class="territory-legend"></div>
     <div class="map-bottomline"><span id="map-instruction" data-i18n="mapHint">Drag to pan · Scroll to zoom · Double-click to trace a place</span><button id="map-method" data-i18n="mapNote">Map & sources ↗</button></div>
-    <article id="detail" class="detail-panel" aria-label="Selected history" hidden></article>
+
     <section id="journey-strip" class="journey-strip" aria-label="Journey navigation" hidden></section>
     <section id="challenge-panel" class="challenge-panel floating-card" aria-label="Geography challenge" hidden></section>
     <div id="moment-strip" class="moment-strip"></div>
   </section>
   <section class="timeline" aria-label="History timeline">
     <div class="era-rail" id="era-rail"></div>
-    <div class="timeline-main"><div class="time-buttons"><button id="previous-time" aria-label="Previous historical map">‹</button><button id="play" aria-label="Play timeline">▶</button><button id="next-time" aria-label="Next historical map">›</button></div><div class="time-slider"><input id="timeline-slider" type="range" min="0" max="8000" step="1" value="5400" aria-label="Historical year"><div id="timeline-ticks" class="timeline-ticks"></div></div><form id="year-form" class="year-form"><label class="sr-only" for="year-input" data-i18n="travelTo">Travel to year</label><input id="year-input" type="number" min="1" max="2026" value="1200" aria-label="Year"><select id="era" aria-label="Era"><option value="ce">CE</option><option value="bce">BCE</option></select><button type="submit" aria-label="Go to year">→</button></form></div>
-    <div class="timeline-bottom"><button id="chronology-open" class="text-button" data-i18n="parallel">▤ Compare regional timelines</button><details class="timeline-comparison"><summary data-i18n="regionalPreview">Regional preview</summary><div id="parallel-preview" class="parallel-preview"></div></details><span id="timeline-label"></span><button id="compare-button" class="text-button" data-i18n="compare">Compare entries</button><span id="atlas-count"></span></div>
+    <div class="timeline-main"><div class="time-buttons"><button id="previous-time" aria-label="Previous historical map">‹</button><button id="play" aria-label="Play timeline">▶</button><button id="next-time" aria-label="Next historical map">›</button></div><div class="time-slider"><input id="timeline-slider" type="range" min="0" max="8000" step="1" value="5400" aria-label="Historical year"><div id="timeline-ticks" class="timeline-ticks"></div></div></div>
+    <div class="timeline-bottom"><button class="regional-jump text-button" data-action="regional-jump" data-i18n="regionalJump">Regional timeline ↓</button><span id="timeline-label"></span><button id="compare-button" class="text-button" data-i18n="compare">Compare entries</button><span id="atlas-count"></span></div>
   </section>
+<section class="reading-pane" aria-label="History reading"><div id="reading-start"></div><article id="detail" class="detail-panel" aria-label="Selected history" hidden></article></section><section class="regional-panel" id="regional-panel" aria-labelledby="regional-heading"><div class="regional-heading"><div><h2 id="regional-heading" tabindex="-1" data-i18n="compactTitle">States and dynasties, side by side</h2><p id="regional-period"></p></div><div class="regional-options"><label class="sr-only" for="compact-region" data-i18n="region">Region</label><select id="compact-region"></select><label class="sr-only" for="compact-window" data-i18n="chronologyWindow">Time window</label><select id="compact-window"><option value="300">300 years</option><option value="600" selected>600 years</option><option value="1200">1200 years</option></select><button id="chronology-open" class="text-button" data-i18n="fullTimeline">Full timeline ↗</button></div></div><div class="compact-viewport" id="compact-viewport" tabindex="0" role="group" aria-label="Regional political timeline"><div id="compact-chart"></div></div><div class="regional-footer"><span id="compact-scope"></span><span id="compact-overflow"></span></div></section>
+
 </main>
+<dialog id="stories-dialog" aria-labelledby="results-heading"><button id="stories-close" class="dialog-close" aria-label="Close story browser">×</button><aside class="explorer" aria-label="History explorer">
+    <div class="explorer-heading"><span class="eyebrow" data-i18n="explorer">EXPLORE THE PAST</span><button id="about-nav" class="circle-button" aria-label="About the atlas and its sources">i</button></div>
+
+
+
+
+    <div id="browser-controls-slot"></div><div class="kind-tabs" id="kind-tabs" role="group" aria-label="Entry types"></div><div class="results-heading"><h1 id="results-heading">Loading history…</h1><button id="reset-filters" class="text-button" data-i18n="reset">Reset</button></div>
+    <div id="stories" class="stories" tabindex="-1" aria-labelledby="results-heading"></div>
+    <div id="sidebar-footer" class="sidebar-footer"></div>
+  </aside></dialog>
 <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
 <dialog id="dialog"><div id="dialog-content"></div></dialog>
 <noscript><p class="fatal">Enable JavaScript to explore the atlas, or download the <a href="./data/history.json">historical records</a>.</p></noscript>
