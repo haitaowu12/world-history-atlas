@@ -22,9 +22,10 @@ export function politicalTimelineLabel(record, lang='en') {
 
 // Choose by relevance before packing. The old chronological-first packing
 // allowed early minor entries to displace the states at the selected year.
-export function politicalTimelineLanes(records, window, year, {maxLanes=5} = {}) {
+export function politicalTimelineLanes(records, window, year, {maxLanes=5,selectedId=''} = {}) {
   const low=toOrdinal(window.start), high=toOrdinal(window.end), span=high-low+1;
   const candidates=records.filter(r=>r.start<=window.end&&r.end>=window.start).sort((a,b)=>
+    Number(b.id===selectedId)-Number(a.id===selectedId) ||
     Number(activeAt(b,year))-Number(activeAt(a,year)) ||
     (b.importance??3)-(a.importance??3) ||
     Math.min(Math.abs(a.start-year),Math.abs(a.end-year))-Math.min(Math.abs(b.start-year),Math.abs(b.end-year)) ||

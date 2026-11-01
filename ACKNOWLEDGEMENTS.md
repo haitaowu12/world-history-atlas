@@ -45,3 +45,7 @@ A citation does not imply endorsement or transfer the rights in a source page. S
 Tony Wu developed and maintains World History Atlas with help from **OpenAI Codex** for coding, research assistance, drafting and verification. The project owner is responsible for the selection and review of what is published; AI assistance does not establish historical accuracy.
 
 Original application code and documentation use [MIT](LICENSE). Original narrative and teaching material use [CC BY 4.0](docs/CONTENT_LICENSE.md). Imported and adapted third-party material retains its own notices. Please keep the relevant credits and identify modifications when reusing it.
+
+## Interface typography
+
+IBM Plex Sans and Source Serif 4 are bundled locally under the SIL Open Font License 1.1. Their notices are included in `dist/assets/fonts/`. Chinese text uses the device’s available Chinese fonts.
