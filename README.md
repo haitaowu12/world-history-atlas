@@ -20,13 +20,13 @@ Inspired by that work, and with help from OpenAI Codex, I built World History At
 
 ## Explore
 
-- Move through time and look at stories from different parts of the world in the same period.
+- Move through time and compare a compact selection of regional political timelines beside the map. Open the full timeline to browse all available states and dynasties.
 - Explore people, places, events and selected historical maps, with linked sources and notes about dates and uncertainty.
 - Switch between English and Chinese.
 - Follow short guided readings or explore longer sequences in chapters.
 - Save entries and personal notes in your browser, and export your notebook.
 
-The current application is **0.20.0**, with **70 guided readings**. This is a growing educational project with selected coverage. Maps have their own source dates and limits; an empty area does not mean an absence of people or history. Historical corrections, translation feedback and suggestions from different regional perspectives are welcome.
+The current application is **0.21.0**, with **70 guided readings**. This is a growing educational project with selected coverage. Maps have their own source dates and limits; an empty area does not mean an absence of people or history. Historical corrections, translation feedback and suggestions from different regional perspectives are welcome.
 
 ## Thank you to Jiangshan and the source community
 
