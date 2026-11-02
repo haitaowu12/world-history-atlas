@@ -113,6 +113,7 @@ function applyLanguage(){
  renderLayerMenu();
 }
 function render(){
+ $('#project-author').textContent=state.lang==='zh'?'Tony Wu · 更多作品 ↗':'Tony Wu · More projects ↗';
  if(warFocusActive&&(!occupationVisible()||!wartimeContextsAt(wartimeData,state.year).length))warFocusActive=false;
  yearFrames.cancel();
  if(americasLoader&&layers.view==='history'&&!americasLoader.ready(state.year)&&!americasPending.has(state.year)&&!americasFailures.has(state.year)){const year=state.year;americasPending.add(year);americasLoader.load(year).then(()=>americasFailures.delete(year)).catch(error=>{console.warn('Dated Americas context unavailable:',error.message);americasFailures.set(year,error.message);}).finally(()=>{americasPending.delete(year);if(state.year===year){restoreDatedDivisionFromURL();render();}});}

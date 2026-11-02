@@ -57,3 +57,5 @@ Read [CONTRIBUTING.md](CONTRIBUTING.md) and the [data policy](docs/DATA_POLICY.m
 Original application code and documentation use [MIT](LICENSE). Original historical summaries and teaching material use [CC BY 4.0](docs/CONTENT_LICENSE.md). Imported narratives, map layers, quotations, translations and dependencies retain their own notices. The repository is a mixed-license collection; neither MIT nor CC BY covers every file. Read [Acknowledgements & sources](ACKNOWLEDGEMENTS.md) and the [content and third-party notices](docs/CONTENT_LICENSE.md) before reusing material.
 
 This standalone repository retains the atlas-specific development history extracted from the earlier fork. Historical source links and old commit references remain valid in that fork.
+
+Built by [Tony Wu](https://haitaowu12.github.io/tony-wu-home/) · [More projects](https://haitaowu12.github.io/tony-wu-home/#work).
