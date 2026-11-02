@@ -118,3 +118,5 @@ dialog{border-color:var(--line);border-radius:5px;background:white}.dialog-inner
 
 @media(max-width:900px){.reading-pane>.journey-strip{position:sticky;top:0;left:auto;right:auto;bottom:auto;max-width:none;width:100%;margin:0;border:0;border-bottom:1px solid var(--line);border-radius:0;padding:12px 20px;z-index:8;background:var(--paper);box-shadow:none}.reading-pane>.journey-strip h3{font-size:17px}.reading-pane>.journey-strip .journey-controls{gap:8px}.reading-pane>.journey-strip .journey-controls button{min-height:44px;font-size:13px}.reading-pane>.journey-strip .journey-controls .reading-guide-link{margin-right:auto}.map-stage.has-journey .map-wrap{bottom:72px}}
 @media(max-width:550px){.map-stage.has-journey .map-wrap{bottom:79px}.reading-pane>.journey-strip h3{font-size:16px}.reading-pane>.journey-strip .journey-controls button{font-size:12px}.reading-pane>.journey-strip .journey-controls{gap:6px}}
+
+.project-footer{padding:10px 24px;border-top:1px solid var(--line);text-align:right;font-size:12px}.project-footer a{display:inline-block;padding:6px 0;color:var(--green);text-underline-offset:3px}
