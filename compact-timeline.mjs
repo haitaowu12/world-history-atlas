@@ -1,7 +1,7 @@
 import {REGIONS,toOrdinal,fromOrdinal,activeAt} from './core.mjs';
 import {timeWindow} from './atlas-model.mjs';
 import {isPoliticalTimelineRecord,politicalTimelineRecords} from './political-timeline.mjs?v=2';
-import {periodTracks} from './period-tracks.mjs';
+import {periodTracks} from './period-tracks.mjs?v=2';
 
 // Choose one reading subject at each dated interval. Preserve the record's
 // real dates; clipping here only controls the visual segment in this strip.
@@ -27,7 +27,7 @@ export function compactPoliticalTimeline(records,{year,region='across',span=600,
  const filtered=politicalTimelineRecords(records,{window,scope:'all'});
  if(isPoliticalTimelineRecord(selected,'all')&&selected.start<=window.end&&selected.end>=window.start&&!filtered.includes(selected))filtered.push(selected);
  const china=periodTracks[0];
- const available=REGIONS.filter(id=>filtered.some(r=>r.region===id)||id===china.region&&china.periods.some(r=>r.start<=window.end&&r.end>=window.start));
+ const available=REGIONS.filter(id=>filtered.some(r=>r.region===id)||periodTracks.some(track=>track.region===id&&track.periods?.some(r=>r.start<=window.end&&r.end>=window.start)));
  const preferred=[focus?.region,'east-asia',selected?.region,'europe','west-central-asia',...available];
  const ids=region==='across'?[...new Set(preferred.filter(id=>id&&(id===focus?.region||available.includes(id))))].slice(0,3):[region];
  const regions=ids.map(id=>{

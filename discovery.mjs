@@ -50,6 +50,27 @@ function personEntry(record) {
     location:libraryLocation(record),summary:record.summary,dateNote:record.dateNote,sourceIds:[record.id]};
 }
 
+// Directory matches can be followed as related reading. Their locations
+// remain the representative points of the records, not a travel itinerary.
+export function personEventSequence(row,getRecord) {
+  const events=(row?.recordIds||[]).map(getRecord).filter(record=>
+    record&&record.id!==row.recordId&&record.kind==='event'&&validYear(record.start)&&libraryLocation(record));
+  events.sort((a,b)=>a.start-b.start||a.id.localeCompare(b.id));
+  if(!events.length)return null;
+  return {
+    id:'person-events-'+row.id,kind:'network',narrativeType:'person-events',title:row.name,
+    start:events[0].start,end:Math.max(...events.map(record=>record.end)),legs:[],
+    summary:{
+      en:'Follow events linked to this person. Pins represent the events or their context, including mentions that do not establish the person’s presence.',
+      zh:'沿时间顺序阅读与此人相关的事件。图钉表示事件或其背景，文字提及并不证明此人亲历该地。'
+    },
+    stops:events.map(record=>({
+      id:record.id,recordId:record.id,year:record.start,label:record.title,
+      description:record.summary,location:record.location
+    }))
+  };
+}
+
 /** Build navigation indexes without changing any source record or adding claims. */
 export function buildDiscoveryIndex({records=[],people=[],library={},settlements=[]}={}) {
   const recordById=new Map(records.map(record=>[record.id,record]));
@@ -194,8 +215,9 @@ export function createDiscovery({records=[],people=[],library={},manifest={},set
   function person(id) {
     const row=index.personById.get(id);if(!row)return false;
     const biography=row.recordId?getRecord(row.recordId):null,related=row.recordIds.filter(recordId=>recordId!==row.recordId);
+    const eventSequence=personEventSequence(row,getRecord);
     const scope=biography?loc(biography.dateNote):txt('This person index links related texts. Its recorded span is inherited, and name-based associations do not establish personal presence at each location.','人物索引用于连接相关文字，所列年代沿用参考资料。姓名关联不能证明人物亲历了每个地点。');
-    openDialog(`${backButton('person')}<p class="eyebrow">${txt('Person','人物')} · ${esc(regionName(row.region))}</p><h2>${esc(loc(row.name))}</h2><p>${biography?txt('Biography focus','生平文章关注时期'):txt('Reference span','参考年代')}: ${formatSpan(biography||row)}</p>${row.summary?`<p>${esc(loc(row.summary))}</p>`:''}<p class="collection-note">${esc(scope)}</p><div class="button-row">${biography?`<button class="primary-button" data-action="open-dialog-story" data-id="${esc(biography.id)}">${txt('Read the biography','阅读生平')} ↗</button>`:''}${row.journeyIds.map(journeyId=>`<button class="secondary-button" data-action="open-route" data-id="${esc(journeyId)}">${txt('Follow the journey','沿地图探索行程')} ↗</button>`).join('')}</div>${row.aliases.length?`<p class="location-caption">${txt('Names and aliases','姓名与别名')}: ${esc(row.aliases.join(' · '))}</p>`:''}<h3>${txt('Related history and mentions','相关历史与文字提及')} · ${related.length}</h3>${related.length?eventCards(related):`<p>${txt('No additional linked entry is recorded yet.','目前尚无其他关联条目。')}</p>`}${evidence({sources:biography?.sources||[],references:row.profiles,profileSpans:row.profiles.filter(profile=>profileInterval(profile)),note:row.profiles.length?txt('Related mentions come from the whole atlas. A source profile interval and a biography focus interval retain their separate meanings.','相关文字检索覆盖整个地图。原资料人物年代与生平文章的关注区间保留各自含义。'):''})}`,{wide:true,nav:'people-nav'});
+    openDialog(`${backButton('person')}<p class="eyebrow">${txt('Person','人物')} · ${esc(regionName(row.region))}</p><h2>${esc(loc(row.name))}</h2><p>${biography?txt('Biography focus','生平文章关注时期'):txt('Reference span','参考年代')}: ${formatSpan(biography||row)}</p>${row.summary?`<p>${esc(loc(row.summary))}</p>`:''}<p class="collection-note">${esc(scope)}</p><div class="button-row">${row.journeyIds.map(journeyId=>`<button class="primary-button" data-action="open-route" data-id="${esc(journeyId)}">${txt('Follow the journey on the map','在地图上探索行程')} ↗</button>`).join('')}${biography?.milestones?.length?`<button class="${row.journeyIds.length?'secondary-button':'primary-button'}" data-action="open-person-milestones" data-id="${esc(biography.id)}">${txt('Follow life events on the map','在地图上探索生平事件')} ↗</button>`:''}${eventSequence?`<button class="${row.journeyIds.length||biography?.milestones?.length?'secondary-button':'primary-button'}" data-action="open-route" data-id="${esc(eventSequence.id)}">${txt('Follow related events','探索相关事件')} · ${eventSequence.stops.length} ↗</button>`:''}${biography?`<button class="secondary-button" data-action="open-dialog-story" data-id="${esc(biography.id)}">${txt('Read the biography','阅读生平')} ↗</button>`:''}</div>${row.aliases.length?`<p class="location-caption">${txt('Names and aliases','姓名与别名')}: ${esc(row.aliases.join(' · '))}</p>`:''}<h3>${txt('Related history and mentions','相关历史与文字提及')} · ${related.length}</h3>${related.length?eventCards(related):`<p>${txt('No additional linked entry is recorded yet.','目前尚无其他关联条目。')}</p>`}${evidence({sources:biography?.sources||[],references:row.profiles,profileSpans:row.profiles.filter(profile=>profileInterval(profile)),note:row.profiles.length?txt('Related mentions come from the whole atlas. A source profile interval and a biography focus interval retain their separate meanings.','相关文字检索覆盖整个地图。原资料人物年代与生平文章的关注区间保留各自含义。'):''})}`,{wide:true,nav:'people-nav'});
     onNavigate?.({kind:'person',id:row.id});
     return true;
   }
@@ -221,7 +243,7 @@ export function createDiscovery({records=[],people=[],library={},manifest={},set
       default:return false;
     }return true;
   }
-  return {index,showPeople:options=>showDirectory('person',options),showPlaces:options=>showDirectory('place',options),person,place,handle,
+  return {index,eventSequence:id=>personEventSequence(index.personById.get(id),getRecord),showPeople:options=>showDirectory('person',options),showPlaces:options=>showDirectory('place',options),person,place,handle,
     search:(q,options={})=>searchDiscovery(index,q,{lang:lang(),...options}),
     searchPeople:(q,options={})=>searchDiscovery(index,q,{lang:lang(),...options,kind:'person'}),
     searchPlaces:(q,options={})=>searchDiscovery(index,q,{lang:lang(),...options,kind:'place'}),

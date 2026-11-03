@@ -1,6 +1,6 @@
 # 普天之下 · World History Atlas — static publication
 
-Published from [557d6ec](https://github.com/haitaowu12/world-history-atlas/commit/557d6eccc90d6dfd775e243de46937c8ae43acbe).
+Published from [b1e996e](https://github.com/haitaowu12/world-history-atlas/commit/b1e996e747460fe8b5a2b4c9ea094a19821cf9cb).
 
 [GitHub Pages](https://haitaowu12.github.io/world-history-atlas/) · [GPT Site](https://world-history-atlas-tony.techiesea.chatgpt.site/) · [Source and acknowledgements](https://github.com/haitaowu12/world-history-atlas).
 

@@ -120,3 +120,26 @@ dialog{border-color:var(--line);border-radius:5px;background:white}.dialog-inner
 @media(max-width:550px){.map-stage.has-journey .map-wrap{bottom:79px}.reading-pane>.journey-strip h3{font-size:16px}.reading-pane>.journey-strip .journey-controls button{font-size:12px}.reading-pane>.journey-strip .journey-controls{gap:6px}}
 
 .project-footer{padding:10px 24px;border-top:1px solid var(--line);text-align:right;font-size:12px}.project-footer a{display:inline-block;padding:6px 0;color:var(--green);text-underline-offset:3px}
+
+.reading-pane>.person-journey {
+ position:sticky;top:0;left:auto;right:auto;bottom:auto;z-index:8;
+ width:100%;max-width:none;min-width:0;margin:0;padding:12px 18px;
+ border:0;border-bottom:1px solid var(--line);border-radius:0;box-shadow:none;
+}
+.person-journey .journey-controls{flex-wrap:wrap}
+.person-journey .journey-current-date{margin:0 0 8px;color:var(--muted);font-size:12px}
+.person-journey .route-dots{overflow:auto}
+.person-journey .route-dots button{min-width:6px}
+.active-person-stop{margin:12px 0;padding:10px 12px;border-left:2px solid var(--accent);background:var(--paper)}
+.active-person-stop h3,.active-person-stop p{margin:0 0 4px}
+.active-person-stop time{font-size:12px;color:var(--muted)}
+
+/* SVG focus outlines follow rectangular bounds, even for irregular map shapes. */
+#world-map {
+ -webkit-tap-highlight-color:transparent;
+ user-select:none;
+}
+#world-map:focus,#world-map [tabindex]:focus{outline:none}
+#world-map:focus-visible{box-shadow:inset 0 0 0 2px var(--accent)}
+#world-map .route-node:focus-visible circle,
+#world-map .period-place:focus-visible circle{stroke:var(--accent);stroke-width:3}

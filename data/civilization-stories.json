@@ -1,0 +1,286 @@
+[
+  {
+    "id": "egypt-theban-reunification",
+    "start": -2030,
+    "end": -2030,
+    "kind": "event",
+    "region": "africa",
+    "theme": "states",
+    "importance": 4,
+    "title": {
+      "en": "How Thebes reunited Egypt",
+      "zh": "底比斯如何重新统一埃及"
+    },
+    "summary": {
+      "en": "Mentuhotep II reunified Upper and Lower Egypt after a period of competing regional powers. The rise of a Theban royal court shows that reunification also shifted the center of political power.",
+      "zh": "孟图霍特普二世结束了地方政权并立的局面，重新统一上下埃及。底比斯王廷的崛起说明，重新统一也改变了政治权力的中心。"
+    },
+    "dateNote": {
+      "en": "Approximate reference year for the process described.",
+      "zh": "所选年份为相关历史过程的约略参照。"
+    },
+    "locationPrecision": "representative",
+    "location": {
+      "lon": 32.61,
+      "lat": 25.73,
+      "label": "Thebes",
+      "labelI18n": {
+        "en": "Thebes",
+        "zh": "底比斯"
+      }
+    },
+    "relatedIds": [
+      "egypt-middle-kingdom"
+    ],
+    "sources": [
+      {
+        "title": "Heilbrunn Timeline of Art History: Egypt",
+        "publisher": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/toah/ht/03/afe.html"
+      }
+    ]
+  },
+  {
+    "id": "egypt-ahmose-reunification",
+    "start": -1550,
+    "end": -1550,
+    "kind": "event",
+    "region": "africa",
+    "theme": "states",
+    "importance": 4,
+    "title": {
+      "en": "Ahmose and the end of divided rule",
+      "zh": "雅赫摩斯与分治的终结"
+    },
+    "summary": {
+      "en": "The Theban ruler Ahmose I defeated the Hyksos rulers of the eastern Delta. Reunification brought the Nile valley and Delta under one court and marks the transition into the New Kingdom. Contemporary Kerma in Nubia remained a separate power.",
+      "zh": "底比斯统治者雅赫摩斯一世击败了统治三角洲东部的喜克索斯政权。统一使尼罗河谷与三角洲归于同一朝廷，也标志着新王国的开端。同期努比亚的科尔马仍是独立的政治力量。"
+    },
+    "dateNote": {
+      "en": "Approximate reference year for the process described.",
+      "zh": "所选年份为相关历史过程的约略参照。"
+    },
+    "locationPrecision": "representative",
+    "location": {
+      "lon": 31.83,
+      "lat": 30.79,
+      "label": "Avaris, eastern Nile Delta",
+      "labelI18n": {
+        "en": "Avaris, eastern Nile Delta",
+        "zh": "尼罗河三角洲东部的阿瓦里斯"
+      }
+    },
+    "relatedIds": [
+      "egypt-new-kingdom"
+    ],
+    "sources": [
+      {
+        "title": "Heilbrunn Timeline of Art History: Egypt",
+        "publisher": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/toah/ht/03/afe.html"
+      }
+    ]
+  },
+  {
+    "id": "mesopotamia-city-rivalry",
+    "start": -2500,
+    "end": -2500,
+    "kind": "event",
+    "region": "west-central-asia",
+    "theme": "states",
+    "importance": 4,
+    "title": {
+      "en": "Why Sumerian cities competed",
+      "zh": "苏美尔城邦为何竞争"
+    },
+    "summary": {
+      "en": "Early Mesopotamia was a landscape of rival city-states. Royal inscriptions and monuments record competition while presenting each ruler’s own claims to power. This is the political world Sargon’s conquests would transform when Akkad brought multiple cities under one empire.",
+      "zh": "早期美索不达米亚由彼此竞争的城邦组成。王室铭文和纪念物既记载争斗，也表达统治者自身的权力主张。萨尔贡后来以征服改变了这一格局，将多个城邦纳入阿卡德帝国。"
+    },
+    "dateNote": {
+      "en": "Approximate reference year for the process described.",
+      "zh": "所选年份为相关历史过程的约略参照。"
+    },
+    "locationPrecision": "representative",
+    "location": {
+      "lon": 46.18,
+      "lat": 31.41,
+      "label": "Lagash, southern Mesopotamia",
+      "labelI18n": {
+        "en": "Lagash, southern Mesopotamia",
+        "zh": "美索不达米亚南部的拉伽什"
+      }
+    },
+    "relatedIds": [
+      "akkadian-empire"
+    ],
+    "sources": [
+      {
+        "title": "Heilbrunn Timeline of Art History: Mesopotamia",
+        "publisher": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/toah/ht/02/wam.html"
+      }
+    ]
+  },
+  {
+    "id": "mesopotamia-babylon-assur",
+    "start": -1792,
+    "end": -1792,
+    "kind": "event",
+    "region": "west-central-asia",
+    "theme": "states",
+    "importance": 4,
+    "title": {
+      "en": "Babylon rises in a land of rival courts",
+      "zh": "巴比伦在列国并立中崛起"
+    },
+    "summary": {
+      "en": "Hammurabi began his reign in a region with multiple centers of power. The northern kingdom built by Shamshi-Adad and the southern court at Babylon followed different political trajectories. Hammurabi’s later expansion changed that balance, which helps explain why his reign mattered beyond the law collection associated with his name.",
+      "zh": "汉谟拉比即位时，美索不达米亚已有多个权力中心。沙姆希阿达德在北方建立的王国与南方的巴比伦朝廷各自发展。汉谟拉比后来的扩张改变了这种力量格局，这也是其统治在著名法典之外的重要意义。"
+    },
+    "dateNote": {
+      "en": "1792 BCE is the conventional middle-chronology start of Hammurabi’s reign. The expansion discussed took place later.",
+      "zh": "按中年代体系，前1792年是汉谟拉比即位之年。文中所述扩张发生于其后。"
+    },
+    "locationPrecision": "representative",
+    "location": {
+      "lon": 44.42,
+      "lat": 32.54,
+      "label": "Babylon",
+      "labelI18n": {
+        "en": "Babylon",
+        "zh": "巴比伦"
+      }
+    },
+    "relatedIds": [
+      "old-babylon"
+    ],
+    "sources": [
+      {
+        "title": "Heilbrunn Timeline of Art History: Mesopotamia",
+        "publisher": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/toah/ht/03/wam.html"
+      }
+    ]
+  },
+  {
+    "id": "japan-onin-war",
+    "start": 1467,
+    "end": 1467,
+    "kind": "event",
+    "region": "east-asia",
+    "theme": "states",
+    "importance": 4,
+    "title": {
+      "en": "The Ōnin War and the breakdown of shogunal power",
+      "zh": "应仁之乱与幕府权力的瓦解"
+    },
+    "summary": {
+      "en": "Rival military houses fought in Kyoto from 1467 to 1477. The war devastated the capital and weakened the Ashikaga shogunate. Regional lords gained room to build their own power, so the beginning of the Sengoku era overlaps the continued existence of the Muromachi shogunate.",
+      "zh": "1467年至1477年，敌对的军事家族在京都交战。战乱重创首都，也削弱了足利幕府。地方大名有了扩大自身权力的空间，因此战国时代的开端与室町幕府的延续相重叠。"
+    },
+    "dateNote": {
+      "en": "The selected year marks the start of the event or political period.",
+      "zh": "所选年份标记该事件或政治时期的开始。"
+    },
+    "locationPrecision": "representative",
+    "location": {
+      "lon": 135.76,
+      "lat": 35.01,
+      "label": "Kyoto",
+      "labelI18n": {
+        "en": "Kyoto",
+        "zh": "京都"
+      }
+    },
+    "relatedIds": [
+      "muromachi-shogunate"
+    ],
+    "sources": [
+      {
+        "title": "Heilbrunn Timeline of Art History: Japan",
+        "publisher": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/toah/ht/08/eaj.html"
+      }
+    ]
+  },
+  {
+    "id": "japan-tokugawa-domains",
+    "start": 1603,
+    "end": 1603,
+    "kind": "event",
+    "region": "east-asia",
+    "theme": "states",
+    "importance": 4,
+    "title": {
+      "en": "How the Tokugawa governed through domains",
+      "zh": "德川幕府如何通过各藩治理日本"
+    },
+    "summary": {
+      "en": "The Tokugawa shogunate established its seat at Edo in 1603. Its government directly administered important cities and lands while daimyo ruled their own domains. This division helps explain how a long period of political stability could coexist with strong local institutions and growing castle towns.",
+      "zh": "德川幕府于1603年以江户为据点。幕府直辖重要城市和领地，大名则治理各自的藩。这种权力分配有助于解释，为何长期的政治稳定能与强有力的地方制度及城下町的发展并存。"
+    },
+    "dateNote": {
+      "en": "The selected year marks the start of the event or political period.",
+      "zh": "所选年份标记该事件或政治时期的开始。"
+    },
+    "locationPrecision": "representative",
+    "location": {
+      "lon": 139.75,
+      "lat": 35.69,
+      "label": "Edo, now Tokyo",
+      "labelI18n": {
+        "en": "Edo, now Tokyo",
+        "zh": "江户，今东京"
+      }
+    },
+    "relatedIds": [
+      "tokugawa-shogunate-political-order"
+    ],
+    "sources": [
+      {
+        "title": "Heilbrunn Timeline of Art History: Japan",
+        "publisher": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/toah/ht/09/eaj.html"
+      }
+    ]
+  },
+  {
+    "id": "egypt-piye-campaign",
+    "start": -730,
+    "end": -730,
+    "region": "africa",
+    "kind": "event",
+    "theme": "states",
+    "importance": 4,
+    "title": {
+      "en": "Piye and the rise of Kushite power",
+      "zh": "皮耶与库施势力的崛起"
+    },
+    "summary": {
+      "en": "Piye ruled Kush from Napata. When Egyptian rivals extended their power southward, he marched north and secured submissions from several rulers. His campaign shows how a political center in Nubia could reshape Egypt. Kushite authority was stronger in the south, and local rule persisted in parts of the Delta.",
+      "zh": "皮耶以纳帕塔为中心统治库施。埃及诸侯向南扩展势力时，他率军北上，迫使多位统治者归附。这场远征说明，努比亚的政治中心也能改变埃及的格局。库施在南部的权力较强，而三角洲部分地区仍由地方势力治理。"
+    },
+    "location": {
+      "lon": 31.83,
+      "lat": 18.54,
+      "label": "Napata, Kushite royal center",
+      "labelI18n": {
+        "en": "Napata, Kushite royal center",
+        "zh": "纳帕塔，库施王权中心"
+      }
+    },
+    "locationPrecision": "representative",
+    "dateNote": {
+      "en": "Approximate year of the campaign. Napata marks Piye’s political center.",
+      "zh": "约略的远征年份。点位标记皮耶的政治中心纳帕塔。"
+    },
+    "sources": [
+      {
+        "title": "Egypt in the Third Intermediate Period",
+        "publisher": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/essays/egypt-in-the-third-intermediate-period-1070-712-b-c"
+      }
+    ]
+  }
+]
