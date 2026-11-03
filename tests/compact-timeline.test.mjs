@@ -47,3 +47,17 @@ test('compact date coordinates clip continuing periods to the selected window, i
  const ongoing=compactPoliticalTimeline([state('ongoing','europe',900,2026)],{year:1200,region:'europe',span:600});
  assert.ok(ongoing.regions[0].rows[0].continuesAfter);assert.equal(ongoing.regions[0].rows[0].record.end,2026);
 });
+
+test('each new civilization focus covers its full declared range without widening dates',()=>{
+ for(const [focusId,start,end] of [['egypt',-2649,-30],['mesopotamia',-2900,-539],['japan',538,2026]]){
+  const group=compactPoliticalTimeline([],{year:start,focusId}).regions[0];
+  const periods=group.track.periods;
+  assert.equal(periods[0].start,start);
+  assert.equal(periods.at(-1).end,end);
+  for(let i=1;i<periods.length;i++){
+   assert.equal(toOrdinal(periods[i].start),toOrdinal(periods[i-1].end)+1,periods[i].id);
+  }
+  const last=compactPoliticalTimeline([],{year:end,focusId}).regions[0];
+  assert.ok(last.rows.some(row=>row.record.end===end));
+ }
+});

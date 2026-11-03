@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import {readFileSync} from 'node:fs';
 import {REGIONS} from '../dist/core.mjs';
 import {applyChinaReviews} from '../dist/china-review.mjs';
-import {buildDiscoveryIndex,searchDiscovery,nearbyDiscoveryRecords,createDiscovery} from '../dist/discovery.mjs';
+import {buildDiscoveryIndex,searchDiscovery,nearbyDiscoveryRecords,createDiscovery,personEventSequence} from '../dist/discovery.mjs';
 
 const read=file=>JSON.parse(readFileSync(new URL('../dist/data/'+file,import.meta.url),'utf8'));
 const manifest=read('china-import-manifest.json'),rawLibrary=read('china-library.json');
@@ -115,4 +115,18 @@ test('person/place details preserve source evidence and expose stable share iden
   assert.match(views.at(-1).html,/source display windows/);
   assert.equal(discovery.person('unknown'),false);
   assert.equal(discovery.place('unknown'),false);
+});
+
+test('related person events can be followed chronologically without inferring a travel leg',()=>{
+ const row=index.personById.get('china-person-sushi');
+ const sequence=personEventSequence(row,id=>index.recordById.get(id));
+ assert.ok(sequence.stops.length>1);
+ assert.equal(sequence.id,'person-events-china-person-sushi');
+ assert.deepEqual(sequence.legs,[]);
+ assert.deepEqual(sequence.stops.map(stop=>stop.year),sequence.stops.map(stop=>stop.year).sort((a,b)=>a-b));
+ for(const stop of sequence.stops){
+  const record=index.recordById.get(stop.recordId);
+  assert.equal(record.kind,'event');
+  assert.equal(stop.location,record.location);
+ }
 });

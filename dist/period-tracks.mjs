@@ -1,3 +1,5 @@
+import {civilizationTracks} from './civilization-tracks.mjs';
+
 // These are reading periods, not territorial claims. At transitions the
 // incoming period owns the display year; the linked readings give exact dates.
 const china = [
@@ -35,8 +37,8 @@ export const chinaPeriods = china.map(([id,start,end,en,zh,...relatedIds])=>({
 // Explicit associations prevent a modern place label from implying succession.
 export const periodTracks = [
  {id:'china',region:'east-asia',name:{en:'China',zh:'中国'},periods:chinaPeriods},
+ ...civilizationTracks,
  {id:'korea',region:'east-asia',name:{en:'Korea',zh:'朝鲜半岛'},ids:['goguryeo-consolidated-kingdom','baekje-regional-kingdom','silla-early-kingdom','later-silla-political-phase','goryeo-kingdom','joseon-kingdom']},
- {id:'japan',region:'east-asia',name:{en:'Japan',zh:'日本'},ids:['yamato-kofun-court','asuka-court-buddhist-institutions','nara-court-government','kamakura-shogunate','muromachi-shogunate','tokugawa-shogunate-political-order','japan-postwar-polity']},
  {id:'france',region:'europe',name:{en:'France',zh:'法国'},ids:['merovingian-dynasty','carolingian-dynasty','capetian-dynasty','france-fifth-republic']},
  {id:'india',region:'south-asia',name:{en:'India',zh:'印度'},ids:['maurya-empire','gupta-period','delhi-sultanate','mughal-empire','india-independent-polity']},
  {id:'usa',region:'north-america',name:{en:'United States',zh:'美国'},ids:['united-states-polity']},
