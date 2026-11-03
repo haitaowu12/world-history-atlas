@@ -1,0 +1,22 @@
+.regional-options{flex-wrap:wrap;justify-content:flex-end}
+.regional-options #compact-focus{max-width:125px}
+.compact-tracks .reading-period-bar{min-width:0;padding-inline:3px;border-left-width:1px;border-radius:0}
+.compact-tracks .compact-focus-gap{position:absolute;left:0;top:0}
+.map-bottomline #war-map-toggle{background:var(--panel,#fff);color:var(--ink);padding:6px 9px;border:1px solid var(--line);border-radius:4px}
+.map-bottomline #war-map-toggle[aria-pressed=true]{background:var(--accent);color:white}
+@media(max-width:550px){
+ .regional-options #compact-focus{max-width:105px}
+ .map-bottomline #war-map-toggle{font-size:11px}
+}
+.compact-tracks .compact-short{min-width:0;padding-inline:0;border-left-width:1px}
+.war-map-active .map-controls{left:auto;right:14px;top:74px;bottom:auto}
+.war-map-active .map-snapshot>.map-evidence-readout,
+.war-map-active .map-snapshot>.readout-modern{display:none}
+.war-map-active .occupation-key{max-width:100%}
+.war-map-active .occupation-key .occupation-years button,
+.war-map-active .occupation-key .occupation-focus button{min-height:28px}
+.war-event-point .occupation-point-symbol{fill:#165b74}
+.regional-footer .current-period{font-size:inherit;color:var(--accent);padding:2px 0;white-space:normal;text-align:left}
+.occupation-swatch.japan{background:repeating-linear-gradient(40deg,#a45826 0 2px,#f6e1cf 2px 5px)}
+.occupation-reference[tabindex="0"]{cursor:pointer}
+.occupation-reference:focus-visible{stroke:var(--accent);stroke-width:2px;vector-effect:non-scaling-stroke}
