@@ -177,7 +177,7 @@ const root = repoRoot;
 const errors = [];
 const fail = message => errors.push(message);
 const read = name => fs.readFileSync(path.join(root, name), 'utf8');
-let histories = ['history.json','china-depth-v7.json','world-depth-v7.json','modern-continuity-v7.json'].flatMap(file=>JSON.parse(read('dist/data/'+file)));
+let histories = ['history.json','china-depth-v7.json','china-donor-stories.json','world-depth-v7.json','modern-continuity-v7.json'].flatMap(file=>JSON.parse(read('dist/data/'+file)));
 const expansionManifest=JSON.parse(read('dist/data/'+CONTENT_MANIFEST));
 for(const file of expansionManifest.files) {
   const bytes=fs.readFileSync(path.join(root,'dist/data',file.file));

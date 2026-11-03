@@ -2,7 +2,8 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import {selectCshapesAt} from '../dist/cshapes-history.mjs';
-import {wartimeContextsAt,wartimeCountryReferences,wartimePlaces,wartimeForCountry} from '../dist/wartime-context.mjs';
+import {wartimeContextsAt,wartimeCountryReferences,wartimePlaces,wartimeForCountry,applyWartimeFollowup} from '../dist/wartime-context.mjs';
+import {warMapFollowup} from '../dist/war-map.mjs';
 import {DEFAULT_LAYERS,restoreMapLayers,selectMapView} from '../dist/map-views.mjs';
 
 const read=name=>JSON.parse(fs.readFileSync(new URL('../dist/data/'+name,import.meta.url),'utf8'));
@@ -59,4 +60,18 @@ test('country context, nearby markers and map view follow the selected year',()=
  assert.equal(DEFAULT_LAYERS.occupations,true);
  assert.equal(restoreMapLayers({occupations:false}).occupations,false);
  assert.equal(selectMapView({...DEFAULT_LAYERS,occupations:false},'reference').occupations,false);
+});
+
+test('Baltic reference shapes survive annexation in the occupation view and omit transition years',()=>{
+ const war=applyWartimeFollowup(data,warMapFollowup);
+ for(const [year,authority,count] of [[1939,null,0],[1940,'soviet',3],[1941,null,0],[1942,'germany',3],[1943,'germany',3],[1944,null,0]]){
+  const refs=wartimeCountryReferences(war,year,selectCshapesAt(countries,year),countries.features);
+  const baltic=refs.filter(({record})=>record.referenceFeatureId);
+  assert.equal(baltic.length,count);
+  for(const {record,feature} of baltic){
+   assert.equal(record.authority,authority);
+   assert.equal(feature.properties.id,record.referenceFeatureId);
+  }
+  assert.equal(refs.some(({record})=>record.id==='ww2-japanese-philippines'),year===1942||year===1943);
+ }
 });

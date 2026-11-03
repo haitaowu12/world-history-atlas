@@ -13,9 +13,9 @@
   <meta property="og:image" content="https://world-history-atlas-tony.techiesea.chatgpt.site/assets/atlas-preview.jpg">
   <meta property="og:image:alt" content="普天之下 · World History Atlas, exploring the world around 1200 CE.">
   <meta name="twitter:card" content="summary_large_image">
-  <link rel="icon" href="./assets/favicon.svg?v=2" type="image/svg+xml"><link rel="stylesheet" href="./styles.css?v=29">
+  <link rel="icon" href="./assets/favicon.svg?v=2" type="image/svg+xml"><link rel="stylesheet" href="./styles.css?v=30"><link rel="stylesheet" href="./period-tracks.css">
   <link rel="stylesheet" href="./refinements.css?v=20">
-  <script defer src="./assets/d3.v7.9.0.min.js"></script><script type="module" src="./app.mjs?v=51"></script>
+  <script defer src="./assets/d3.v7.9.0.min.js"></script><script type="module" src="./app.mjs?v=53"></script>
   <link rel="stylesheet" href="./reading.css?v=1">
   <link rel="stylesheet" href="./polish.css?v=1"><link rel="stylesheet" href="./theme.css?v=27">
 </head>
@@ -36,7 +36,7 @@
     <div class="map-snapshot" id="map-snapshot"></div>
     <div class="map-controls" aria-label="Map controls"><button id="zoom-in" aria-label="Zoom in">+</button><button id="zoom-out" aria-label="Zoom out">−</button><button id="zoom-reset" aria-label="Reset world view">⌖</button></div>
     <div id="territory-legend" class="territory-legend"></div>
-    <div class="map-bottomline"><span id="map-instruction" data-i18n="mapHint">Drag to pan · Scroll to zoom · Double-click to trace a place</span><button id="map-method" data-i18n="mapNote">Map & sources ↗</button></div>
+    <div class="map-bottomline"><span id="map-instruction" data-i18n="mapHint">Drag to pan · Scroll to zoom · Double-click to trace a place</span><button class="text-button" id="war-map-toggle" data-action="war-map-toggle">World War II map</button><button id="map-method" data-i18n="mapNote">Map & sources ↗</button></div>
 
     <section id="journey-strip" class="journey-strip" aria-label="Journey navigation" hidden></section>
     <section id="challenge-panel" class="challenge-panel floating-card" aria-label="Geography challenge" hidden></section>
@@ -47,7 +47,7 @@
     <div class="timeline-main"><div class="time-buttons"><button id="previous-time" aria-label="Previous historical map">‹</button><button id="play" aria-label="Play timeline">▶</button><button id="next-time" aria-label="Next historical map">›</button></div><div class="time-slider"><input id="timeline-slider" type="range" min="0" max="8000" step="1" value="5400" aria-label="Historical year"><div id="timeline-ticks" class="timeline-ticks"></div></div></div>
     <div class="timeline-bottom"><button class="regional-jump text-button" data-action="regional-jump" data-i18n="regionalJump">Regional timeline ↓</button><span id="timeline-label"></span><button id="compare-button" class="text-button" data-i18n="compare">Compare entries</button><span id="atlas-count"></span></div>
   </section>
-<section class="reading-pane" aria-label="History reading"><div id="reading-start"></div><article id="detail" class="detail-panel" aria-label="Selected history" hidden></article></section><section class="regional-panel" id="regional-panel" aria-labelledby="regional-heading"><div class="regional-heading"><div><h2 id="regional-heading" tabindex="-1" data-i18n="compactTitle">States and dynasties, side by side</h2><p id="regional-period"></p></div><div class="regional-options"><label class="sr-only" for="compact-region" data-i18n="region">Region</label><select id="compact-region"></select><label class="sr-only" for="compact-window" data-i18n="chronologyWindow">Time window</label><select id="compact-window"><option value="300">300 years</option><option value="600" selected>600 years</option><option value="1200">1200 years</option></select><button id="chronology-open" class="text-button" data-i18n="fullTimeline">Full timeline ↗</button></div></div><div class="compact-viewport" id="compact-viewport" tabindex="0" role="group" aria-label="Regional political timeline"><div id="compact-chart"></div></div><div class="regional-footer"><span id="compact-scope"></span><span id="compact-overflow"></span></div></section>
+<section class="reading-pane" aria-label="History reading"><div id="reading-start"></div><article id="detail" class="detail-panel" aria-label="Selected history" hidden></article></section><section class="regional-panel" id="regional-panel" aria-labelledby="regional-heading"><div class="regional-heading"><div><h2 id="regional-heading" tabindex="-1" data-i18n="compactTitle">States and dynasties, side by side</h2><p id="regional-period"></p></div><div class="regional-options"><label class="sr-only" for="compact-region" data-i18n="region">Region</label><select id="compact-region"></select><label class="sr-only" for="compact-focus">Country focus</label><select id="compact-focus" aria-label="Country focus"></select><label class="sr-only" for="compact-window" data-i18n="chronologyWindow">Time window</label><select id="compact-window"><option value="300">300 years</option><option value="600" selected>600 years</option><option value="1200">1200 years</option></select><button id="chronology-open" class="text-button" data-i18n="fullTimeline">Full timeline ↗</button></div></div><div class="compact-viewport" id="compact-viewport" tabindex="0" role="group" aria-label="Regional political timeline"><div id="compact-chart"></div></div><div class="regional-footer"><span id="compact-scope"></span><span id="compact-overflow"></span></div></section>
 
 </main>
 <footer class="project-footer"><a id="project-author" href="https://haitaowu12.github.io/tony-wu-home/">Tony Wu · More projects ↗</a></footer>

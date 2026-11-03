@@ -94,7 +94,7 @@ test('the actual full-atlas validator includes imported events, adapted routes a
   const {errors,report} = validateAtlas(root,{quiet:true});
   assert.deepEqual(errors,[]);
   const reviews = json('china-reviews.json');
-  const additions=['china-depth-v7.json','world-depth-v7.json','modern-continuity-v7.json'].flatMap(json);
+  const additions=['china-depth-v7.json','china-donor-stories.json','world-depth-v7.json','modern-continuity-v7.json'].flatMap(json);
   const expansion = json(CONTENT_MANIFEST).files.flatMap(item => json(item.file));
   assert.equal(report.records,json('history.json').length+additions.length+json('people.json').length+975+expansion.length);
   assert.equal(report.routes,json('routes.json').length+7);
