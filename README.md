@@ -2,7 +2,7 @@
 
 **把故事放回当时的世界。 · Put each story back in its world.**
 
-[Explore the atlas](https://world-history-atlas-tony.techiesea.chatgpt.site) · [GitHub Pages](https://haitaowu12.github.io/world-history-atlas/) · [简体中文](README_ZH.md) · [Acknowledgements & sources](ACKNOWLEDGEMENTS.md) · [Contribute](CONTRIBUTING.md)
+[Explore the atlas](https://world-history-atlas-guide.web.app) · [GitHub Pages](https://haitaowu12.github.io/world-history-atlas/) · [简体中文](README_ZH.md) · [Acknowledgements & sources](ACKNOWLEDGEMENTS.md) · [Contribute](CONTRIBUTING.md)
 
 ![普天之下 · World History Atlas, 1200 CE](dist/assets/atlas-preview.jpg)
 
@@ -59,3 +59,13 @@ Original application code and documentation use [MIT](LICENSE). Original histori
 This standalone repository retains the atlas-specific development history extracted from the earlier fork. Historical source links and old commit references remain valid in that fork.
 
 Built by [Tony Wu](https://haitaowu12.github.io/tony-wu-home/) · [More projects](https://haitaowu12.github.io/tony-wu-home/#work).
+
+## Firebase Hosting
+
+[Open the published project](https://world-history-atlas-guide.web.app/). Firebase Hosting is the primary destination for future releases. Run `npm run check`; publish the committed `dist/` application. Preserve the existing Pages and GPT Site identities.
+
+```sh
+firebase deploy --only hosting --project tony-wu-projects
+```
+
+The repository configuration selects the site and public output directory. Hosting uses the no-cost Spark plan; source pushes do not deploy automatically. Existing hosts remain available.

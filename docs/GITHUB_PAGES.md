@@ -1,11 +1,11 @@
-# GitHub Pages alongside the GPT Site
+# Legacy GitHub Pages and GPT Site publication
 
-普天之下 · World History Atlas is published at two addresses:
+Firebase Hosting at https://world-history-atlas-guide.web.app/ is the primary destination for future releases; see the repository README. These existing addresses remain available:
 
 - [GitHub Pages](https://haitaowu12.github.io/world-history-atlas/)
 - [GPT Site](https://world-history-atlas-tony.techiesea.chatgpt.site/)
 
-Both hosts serve the same static application. Publish application changes to each host separately.
+Each host serves an independent static snapshot. Updating Firebase does not update these legacy hosts.
 
 ## Pages configuration
 
@@ -38,9 +38,9 @@ python3 scripts/publish-pages.py --dry-run
 
 A successful push is not a completed deployment. Check the Pages build/status and open the public address. The public [`deployment.json`](https://haitaowu12.github.io/world-history-atlas/deployment.json) identifies the source commit, dist tree and application version.
 
-## Keep both hosts aligned
+## Updating legacy hosts
 
-Pages and the GPT Site are separate delivery destinations. Publish the same committed application snapshot to both when changing the app. The Pages helper does not publish the GPT Site, and Sites publication does not update `gh-pages`.
+Pages and the GPT Site are separate delivery destinations. When updating a legacy host, publish the same intended committed application snapshot. The Pages helper does not publish the GPT Site, and Sites publication does not update `gh-pages`.
 
 The app loads modules, data, fonts and images with relative paths, supporting the Pages project prefix. Hash links preserve the current host, year, language and reading/chapter state. Pages' sharing image points at its own host; the GPT Site retains its own social URLs.
 
