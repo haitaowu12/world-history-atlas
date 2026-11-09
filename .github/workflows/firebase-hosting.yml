@@ -2,7 +2,7 @@ name: Firebase Hosting
 
 on:
   push:
-    branches: [main]
+    branches: [main, 'feature/atlas-*']
   pull_request:
   workflow_dispatch:
 

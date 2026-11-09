@@ -130,7 +130,9 @@ JSON, screenshots and trace are retained in the workflow's `browser-evidence`
 artifact. Deployment is conditional on both the structural/test job and the
 browser job succeeding.
 
-Final test and publication results are recorded with the release pull request.
+Final test and publication results are recorded with the release commit and
+its GitHub Actions run. Branch verification can run before publication even
+when the connected integration cannot create a pull request.
 
 ## Remaining editorial work
 
