@@ -55,6 +55,11 @@ jobs:
           python-version: '3.13'
       - name: Install browser test client
         run: npm install --prefix "$RUNNER_TEMP/atlas-playwright" --no-save --package-lock=false --ignore-scripts playwright-core@1.62.1
+      - name: Install fonts for bilingual screenshot checks
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y --no-install-recommends fonts-noto-cjk fonts-noto-core
+          fc-match :lang=zh
       - name: Exercise stories, portraits and source credits
         env:
           ATLAS_PLAYWRIGHT_PATH: ${{ runner.temp }}/atlas-playwright/node_modules/playwright-core/index.mjs
