@@ -1,0 +1,72 @@
+import {safeSourceURL} from './core.mjs';
+
+const bilingual = value => value && ['en','zh'].every(lang => typeof value[lang] === 'string' && value[lang].trim());
+const assetPath = value => typeof value === 'string' && /^assets\/history-media\/[a-z0-9-]+\.(jpg|jpeg|png|webp)$/.test(value);
+const text = (value, lang) => typeof value === 'object' ? value?.[lang] || value?.en || '' : value || '';
+
+// Images are historical sources with their own identities and reuse terms.
+// A portrait caption must say when an image is a later depiction.
+export function auditHistoryMedia(catalog, recordIds) {
+  const errors = [], seen = new Set(), files = new Set(), records = new Set(recordIds);
+  if (catalog?.version !== 1 || !/^\d{4}-\d{2}-\d{2}$/.test(catalog?.reviewedAt || '') || !Array.isArray(catalog?.items)) return ['Media: invalid catalogue'];
+  for (const item of catalog.items) {
+    const fail = message => errors.push(`Media ${item.id || '(unnamed)'}: ${message}`);
+    if (!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(item.id || '') || seen.has(item.id)) fail('invalid or duplicate identity');
+    seen.add(item.id);
+    if (!['portrait','object','manuscript'].includes(item.kind)) fail('unknown image kind');
+    const representations={portrait:['historical-photograph','ancient-royal-image','later-depiction'],object:['object-photograph'],manuscript:['manuscript-detail']};
+    if (!representations[item.kind]?.includes(item.representation)) fail('missing or mismatched representation type');
+    if (!Array.isArray(item.recordIds) || !item.recordIds.length || new Set(item.recordIds).size !== item.recordIds.length || item.recordIds.some(id => !records.has(id))) fail('unknown or duplicate record link');
+    if (!assetPath(item.file) || files.has(item.file)) fail('invalid or duplicate local asset');
+    files.add(item.file);
+    if (!Number.isInteger(item.width) || !Number.isInteger(item.height) || item.width < 1 || item.height < 1 || item.width > 3000 || item.height > 3000) fail('invalid image dimensions');
+    if (!/^[a-f0-9]{64}$/.test(item.sha256 || '')) fail('missing image checksum');
+    if (!Number.isInteger(item.bytes) || item.bytes < 1 || item.bytes > 750000) fail('invalid image byte count');
+    for (const key of ['title','alt','caption','interpretation','transformation']) if (!bilingual(item[key])) fail(`missing bilingual ${key}`);
+    for (const key of ['creator','date','institution']) if (typeof item[key] !== 'string' || !item[key].trim()) fail(`missing ${key}`);
+    for (const key of ['sourceUrl','imageUrl','downloadedFrom','rightsSourceUrl']) if (!safeSourceURL(item[key])) fail(`invalid ${key}`);
+    if (!item.rights?.label?.trim() || !safeSourceURL(item.rights?.url) || !bilingual(item.rights?.note)) fail('incomplete rights evidence');
+    if (!/^\d{4}-\d{2}-\d{2}$/.test(item.checkedAt || '')) fail('missing source inspection date');
+  }
+  return errors;
+}
+
+export function createHistoryMedia(catalog = {items:[]}) {
+  const byRecord = new Map();
+  for (const item of catalog.items || []) {
+    if (!assetPath(item.file) || !safeSourceURL(item.sourceUrl) || !safeSourceURL(item.rights?.url)) continue;
+    for (const id of item.recordIds || []) byRecord.set(id, [...(byRecord.get(id) || []), item]);
+  }
+  return {
+    forRecord: id => byRecord.get(id) || [],
+    hasPortrait: id => (byRecord.get(id) || []).some(item => item.kind === 'portrait'),
+    portrait: id => (byRecord.get(id) || []).find(item => item.kind === 'portrait') || null
+  };
+}
+
+export function mediaThumbnail(item, lang, escape) {
+  if (!item || !assetPath(item.file)) return '';
+  return `<span class="history-thumbnail"><img src="./${escape(item.file)}" width="${item.width}" height="${item.height}" alt="${escape(text(item.alt,lang))}" loading="lazy" decoding="async" data-history-image><span class="history-image-fallback history-thumbnail-fallback" role="img" aria-label="${lang==='zh'?'图像暂时不可用':'Image unavailable'}" hidden>▧</span></span>`;
+}
+
+export function mediaFigures(items, lang, escape) {
+  const label = (en,zh) => lang === 'zh' ? zh : en;
+  return items.map(item => `<figure class="history-figure history-figure-${item.kind}">
+    <a class="history-image-link" href="./${escape(item.file)}" target="_blank" rel="noopener noreferrer" aria-label="${escape(label('Open full image: ','打开完整图像：')+text(item.title,lang))}" data-history-source="${escape(item.sourceUrl)}" data-history-source-label="${escape(label('Open collection record: ','打开馆藏记录：')+text(item.title,lang))}"><img src="./${escape(item.file)}" width="${item.width}" height="${item.height}" alt="${escape(text(item.alt,lang))}" loading="lazy" decoding="async" data-history-image><span class="history-image-fallback" hidden>${label('Image unavailable. Open the collection record; the caption remains below.','图像暂时不可用。可打开馆藏记录，说明仍保留在下方。')}</span></a>
+    <figcaption><strong>${escape(text(item.title,lang))}</strong><p>${escape(text(item.caption,lang))}</p><p class="history-image-interpretation">${escape(text(item.interpretation,lang))}</p><small>${escape(item.creator)} · ${escape(item.date)} · ${escape(item.institution)}</small><div class="history-image-credit"><a href="${escape(item.sourceUrl)}" target="_blank" rel="noopener noreferrer">${label('Collection record & credit','馆藏记录与图像来源')} ↗</a><a href="${escape(item.rights.url)}" target="_blank" rel="noopener noreferrer">${escape(item.rights.label)} ↗</a></div><details><summary>${label('Image reuse and interpretation','图像使用与解读说明')}</summary><p>${escape(text(item.rights.note,lang))}</p>${item.transformation?`<p>${escape(text(item.transformation,lang))}</p>`:''}<small>${label('Source inspected','来源查阅日期')}: ${escape(item.checkedAt)}</small></details></figcaption>
+  </figure>`).join('');
+}
+
+// Keep the caption and provenance readable when an image fails to load.
+export function handleHistoryImageError(event) {
+  const image = event.target;
+  if (!image?.hasAttribute?.('data-history-image')) return;
+  image.hidden = true;
+  const fallback = image.parentElement?.querySelector('.history-image-fallback');
+  if (fallback) fallback.hidden = false;
+  const link=image.parentElement;
+  if (safeSourceURL(link?.dataset?.historySource)) {
+    link.setAttribute('href',link.dataset.historySource);
+    link.setAttribute('aria-label',link.dataset.historySourceLabel);
+  }
+}

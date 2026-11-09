@@ -1,0 +1,545 @@
+[
+  {
+    "id": "ur-copper-complaint-tablet",
+    "title": {
+      "en": "A copper deal goes wrong: a letter found at Ur",
+      "zh": "一桩铜交易出了问题：乌尔出土的投诉信"
+    },
+    "start": -1750,
+    "end": -1750,
+    "region": "west-central-asia",
+    "theme": "exchange",
+    "kind": "event",
+    "importance": 3,
+    "location": {
+      "lat": 30.96,
+      "lon": 46.1,
+      "label": "Ur, the tablet’s excavation site; not a verified writing place",
+      "labelI18n": {
+        "en": "Ur, the tablet’s excavation site; not a verified writing place",
+        "zh": "乌尔，泥板出土地；并非已确定的写信地点"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "A small clay tablet preserves a business dispute rather than a king’s victory. Nanni complained to the merchant Ea-nāṣir that the copper offered to his messenger was below the promised quality. He also objected to how his messengers were treated. The letter ends with a demand to inspect and reject unsuitable ingots himself.\n\nTablets from Ea-nāṣir’s house connect his business to trade with Dilmun in the Gulf. Read the complaint beside the atlas’s royal histories: exchange also depended on messengers, payments, quality checks and trust. This is Nanni’s side of a disagreement; the letter does not tell us how it was settled.\n\nWhat would you ask to see before deciding who was responsible?",
+      "zh": "一块小泥板保存的不是君王的战功，而是一场交易纠纷。南尼向商人埃阿纳西尔抱怨：提供给使者的铜，品质不如先前所承诺的；他还不满对方对待使者的方式。信的结尾提出，今后要亲自验收铜锭，并拒收不合要求的货物。\n\n埃阿纳西尔住宅出土的泥板，将他的生意与海湾地区的迪尔蒙贸易联系起来。把这封信与王朝历史并读，可以看到交易还依靠使者、付款、验货和信任。这只是南尼一方的陈述，信中没有告诉我们纠纷最终如何解决。\n\n在判断谁该负责之前，你还想看到什么证据？"
+    },
+    "dateNote": {
+      "en": "About 1750 BCE is the conventional date of the complaint, not an exact year established by the letter. Ur is the documented findspot.",
+      "zh": "约公元前1750年是这封投诉信的通常断代，并非信中确定的精确年份。乌尔是有记录的出土地。"
+    },
+    "relatedIds": [
+      "old-babylon",
+      "kanesh-merchant-households",
+      "babylonian-recipe-tablets"
+    ],
+    "sources": [
+      {
+        "title": "UET 5, 0081 (P414985): Nanni’s tablet",
+        "publisher": "Cuneiform Digital Library Initiative",
+        "url": "https://cdli.earth/artifacts/414985",
+        "evidenceNote": "Catalogue identifies Ur, Akkadian clay tablet BM 131236, and the Old Babylonian period; transliteration is displayed. The apparent millimetre-unit error in its dimensions is not reused.",
+        "evidenceNoteZh": "目录确认乌尔、阿卡德语泥板BM 131236和古巴比伦时期，并展示转写。尺寸栏疑似毫米单位错误，未采用。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "The Legend of Ea-Naṣir: How a Babylonian Businessman Became an Internet Meme",
+        "publisher": "Gabriel Moshenska, UCL Institute of Archaeology; accepted manuscript",
+        "url": "https://discovery.ucl.ac.uk/10220181/1/Ea%20Nasir%20JCA%20accepted.pdf",
+        "evidenceNote": "The Complaint Tablet section reproduces the translated complaint and explains the Ur archive and Dilmun merchants; the photographed museum label gives about 1750 BCE. Only that section is used.",
+        "evidenceNoteZh": "“The Complaint Tablet”节转载投诉信译文，并说明乌尔档案与迪尔蒙商人；博物馆标签照片给出约前1750年。仅采用该节。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "expansion": {
+      "release": 10,
+      "edition": "v16",
+      "workstreams": [
+        "WA1"
+      ],
+      "sourceReview": "Original bilingual object-focused synthesis from inspected institutional collection records and scholarly or community interpretation; claims and limits are recorded per source.",
+      "reviewLimit": {
+        "en": "The narrative follows the surviving complainant’s account. It makes no finding of fraud and does not reconstruct a delivery route or the outcome of the dispute.",
+        "zh": "叙述依据传世的投诉方陈述；不据此判定欺诈，不复原送货路线，也不推定纠纷结果。"
+      }
+    }
+  },
+  {
+    "id": "babylonian-recipe-tablets",
+    "title": {
+      "en": "A recipe written in clay leaves room for a cook",
+      "zh": "写在泥板上的食谱，仍需要厨师的经验"
+    },
+    "start": -1900,
+    "end": -1600,
+    "region": "west-central-asia",
+    "theme": "knowledge",
+    "kind": "idea",
+    "importance": 3,
+    "location": {
+      "lat": 31.28,
+      "lon": 45.85,
+      "label": "Larsa, a possible provenance of YBC 4644; attribution uncertain",
+      "labelI18n": {
+        "en": "Larsa, a possible provenance of YBC 4644; attribution uncertain",
+        "zh": "拉尔萨，YBC 4644可能的来源地；归属未定"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "One Babylonian tablet, YBC 4644, lists twenty-five short recipes for stews and broths. Most include meat, while four are vegetable dishes. Onion, leek and garlic appear among the ingredients. Food preparation had become knowledge that someone considered worth recording in cuneiform.\n\nYet a written recipe is not the meal itself. When a Yale–Harvard team tested selected dishes, damaged tablets and uncertain ingredient words forced choices. Their results are modern interpretations of ancient instructions. The elaborate dishes may have belonged to palace or temple kitchens, so they cannot stand for what every household ate.\n\nCompare this tablet with Nanni’s complaint: the same writing technology could preserve both a disputed transaction and skilled work in a kitchen.",
+      "zh": "一块编号YBC 4644的巴比伦泥板，列出二十五则简短的炖菜或汤羹食谱。大多数使用肉类，另有四则蔬菜菜肴；洋葱、韭葱和大蒜也是所列食材。烹饪知识因此留下了楔形文字记录。\n\n不过，写下来的食谱并不等于一道可以直接重现的菜。耶鲁与哈佛研究团队试做其中一些菜肴时，泥板的破损与食材名称的疑义，都要求研究者作出选择。试做结果是对古代做法的现代解释。这些复杂菜肴可能属于宫廷或神庙厨房，不能代表每个家庭的饮食。\n\n将它与南尼的投诉信比较：同一种书写技术，既能保存交易争议，也能留下厨房里的专业知识。"
+    },
+    "dateNote": {
+      "en": "1900–1600 BCE follows the CDLI’s broad Old Babylonian dating for this tablet. It is not a claim that one recipe was used throughout all three centuries; Larsa is listed with a question mark.",
+      "zh": "公元前1900—1600年采用CDLI对此泥板给出的古巴比伦时期范围，不表示某道菜连续流传了三百年；来源地拉尔萨在目录中带有问号。"
+    },
+    "relatedIds": [
+      "old-babylon",
+      "uruk-writing",
+      "ur-copper-complaint-tablet"
+    ],
+    "sources": [
+      {
+        "title": "A Babylonian Cookbook: YBC 4644",
+        "publisher": "Cuneiform Digital Library Initiative, Eckart Frahm and Klaus Wagensonner",
+        "url": "https://cdli.earth/cdli-tablet/724",
+        "evidenceNote": "Object identification, broad date, possible Larsa provenance, twenty-five recipes and the division into twenty-one meat and four vegetable dishes.",
+        "evidenceNoteZh": "支持文物编号、宽泛断代、可能的拉尔萨来源、二十五则食谱，以及二十一则肉类与四则蔬菜菜肴的划分。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "What did ancient Babylonians eat? A Yale-Harvard team tested their recipes",
+        "publisher": "Yale MacMillan Center",
+        "url": "https://macmillan.yale.edu/stories/what-did-ancient-babylonians-eat-yale-harvard-team-tested-their-recipes",
+        "evidenceNote": "The 2018 account describes reconstruction choices, damaged texts, difficult vocabulary and the proposed palace or temple setting; it is evidence about interpretation, not exact ancient portions.",
+        "evidenceNoteZh": "2018年报道说明试做中的选择、泥板破损、难解词汇及宫廷或神庙背景的推测；它说明解释过程，不能确定古代用量。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "expansion": {
+      "release": 10,
+      "edition": "v16",
+      "workstreams": [
+        "WA1"
+      ],
+      "sourceReview": "Original bilingual object-focused synthesis from inspected institutional collection records and scholarly or community interpretation; claims and limits are recorded per source.",
+      "reviewLimit": {
+        "en": "The selected object has uncertain provenance and broad dating. Modern cooking experiments do not recover an exact ancient taste; the suggested elite setting is an interpretation.",
+        "zh": "所选文物的来源地和具体年代未定。现代试做不能还原唯一的古代味道；精英厨房背景属于解释。"
+      }
+    }
+  },
+  {
+    "id": "meketre-bakery-brewery-model",
+    "title": {
+      "en": "A tiny workshop keeps bread and beer in motion",
+      "zh": "小小作坊，让面包与啤酒的劳动留下来"
+    },
+    "start": -1981,
+    "end": -1975,
+    "region": "africa",
+    "theme": "culture",
+    "kind": "culture",
+    "importance": 3,
+    "location": {
+      "lat": 25.73,
+      "lon": 32.61,
+      "label": "Thebes, tomb of Meketre in the Southern Asasif",
+      "labelI18n": {
+        "en": "Thebes, tomb of Meketre in the Southern Asasif",
+        "zh": "底比斯，阿萨西夫南部的梅克特拉墓"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "In a wooden model from Meketre’s tomb, workers grind grain, mix dough, tend ovens and prepare beer. The two trades share ingredients but occupy separate rooms. Following the small figures from task to task makes an ancient workshop easier to understand than a list of kings.\n\nThe model was made for a senior official’s burial. Such tomb equipment was intended to provide for the deceased in the afterlife. It therefore offers a selected, purposeful picture of work, not a neutral survey of every Egyptian household. Women and men both appear in the grain-processing tasks.\n\nLook for the steps between grain and a finished loaf. Whose work would disappear from the story if we looked only at the tomb owner?",
+      "zh": "梅克特拉墓出土的一件木制模型中，工人磨谷、和面、照看烤炉并酿制啤酒。两种制作过程使用相近原料，却分在不同房间。沿着小人物的工序看过去，古代作坊便不再只是王表之外的模糊背景。\n\n这件模型为一位高级官员的墓葬而制。此类随葬品意在为亡者的来世提供所需，因此呈现的是经过选择、带有目的的劳动图景，不是所有埃及家庭的中性写照。处理谷物的劳动中，可以同时看到女性与男性。\n\n找一找：从谷物变成面包，需要经过哪些步骤？如果只看墓主人，谁的劳动就会从故事里消失？"
+    },
+    "dateNote": {
+      "en": "About 1981–1975 BCE is the museum’s date for the model. It does not date an observed working day; the tomb was excavated in 1920.",
+      "zh": "约公元前1981—1975年是博物馆对模型的断代，并非某个被观察到的工作日；墓葬于1920年发掘。"
+    },
+    "relatedIds": [
+      "egypt-middle-kingdom",
+      "deir-el-medina-workers",
+      "babylonian-recipe-tablets"
+    ],
+    "sources": [
+      {
+        "title": "Model Bakery and Brewery from the Tomb of Meketre, 20.3.12",
+        "publisher": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/art/collection/search/544258",
+        "evidenceNote": "Object date and Theban excavation context; the curatorial description identifies milling, dough, ovens, fermentation, separate rooms, and male and female figures.",
+        "evidenceNoteZh": "支持文物年代与底比斯发掘背景；策展说明辨认磨谷、面团、烤炉、发酵、分室布局及男女劳动者。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Setting Sail for the Afterlife",
+        "publisher": "Cooper Hewitt, Smithsonian Design Museum",
+        "url": "https://www.cooperhewitt.org/2016/06/07/setting-sail-for-the-afterlife/",
+        "evidenceNote": "Paragraphs on Middle Kingdom wooden models explain their intended afterlife function, including granaries, breweries and Meketre’s models.",
+        "evidenceNoteZh": "有关中王国木模型的段落说明来世供养用途，并提及粮仓、酿酒作坊与梅克特拉的模型。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "expansion": {
+      "release": 10,
+      "edition": "v16",
+      "workstreams": [
+        "AF3"
+      ],
+      "sourceReview": "Original bilingual object-focused synthesis from inspected institutional collection records and scholarly or community interpretation; claims and limits are recorded per source.",
+      "reviewLimit": {
+        "en": "The figures represent funerary provision for an elite owner. They cannot establish exact wages, individual identities or working conditions across Egypt.",
+        "zh": "人物形象服务于精英墓主的丧葬供养，不能据此确定工资、工人身份或全埃及的劳动条件。"
+      }
+    }
+  },
+  {
+    "id": "akan-goldweights-measure-trade",
+    "title": {
+      "en": "Small brass weights make gold dust count",
+      "zh": "小小黄铜砝码，怎样让金粉可以交易"
+    },
+    "start": 1500,
+    "end": 1700,
+    "region": "africa",
+    "theme": "exchange",
+    "kind": "culture",
+    "importance": 3,
+    "location": {
+      "lat": 6.69,
+      "lon": -1.62,
+      "label": "Kumasi, orientation for Akan gold-trading histories; workshop unknown",
+      "labelI18n": {
+        "en": "Kumasi, orientation for Akan gold-trading histories; workshop unknown",
+        "zh": "库马西，用于定位阿坎黄金贸易历史；制作工坊未知"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "A trader using gold dust needed more than precious metal: buyer and seller also needed an agreed measure. Akan metalworkers made small brass weights and calibrated them for use on balances. A geometric example in the Met dates to the sixteenth or seventeenth century.\n\nWeight standards linked local exchange to trading partners across the Sahara and on the Atlantic coast. Their patterns also invite questions. Some later figurative objects recalled proverbs or displayed prestige; scholars caution that not everything called a goldweight necessarily served as a working weight. The meaning of many geometric designs remains unknown.\n\nTry separating three questions: what is this object made of, how could its mass be used, and what might its pattern mean? The answers require different evidence.",
+      "zh": "使用金粉交易，不能只有贵金属：买卖双方还需要约定的衡量标准。阿坎金属工匠制作小型黄铜砝码，并校准重量，供天平使用。大都会艺术博物馆的一件几何形砝码，被断代为十六至十七世纪。\n\n重量标准把本地交换与撒哈拉两侧、大西洋沿岸的贸易伙伴联系起来。砝码的图案也提出了另一类问题。一些后期具象器物可以唤起谚语或展示地位；学者提醒，被称为“金砝码”的器物未必都实际用于称重。许多几何图案的含义仍不明。\n\n试着分别追问：它由什么制成？它的重量如何使用？它的图案意味着什么？这三个问题需要不同的证据。"
+    },
+    "dateNote": {
+      "en": "1500–1700 is an approximate envelope for the selected object’s sixteenth–seventeenth-century dating. Akan weighing traditions began earlier and continued later; the pin does not identify its workshop.",
+      "zh": "1500—1700年是所选文物“十六至十七世纪”断代的约略范围。阿坎称重传统起源更早、延续更久；点位不代表该物的制作工坊。"
+    },
+    "relatedIds": [
+      "asante-confederacy",
+      "sahel-transsaharan-exchange"
+    ],
+    "sources": [
+      {
+        "title": "Geometric gold weight, 1994.312.4",
+        "publisher": "The Metropolitan Museum of Art, Enid Schildkrout",
+        "url": "https://www.metmuseum.org/art/collection/search/317676",
+        "evidenceNote": "Object date, brass material and broad Akan attribution; distinctions between geometric and figurative objects, possible non-weighing uses, and uncertainty about pattern meanings. The page’s unrelated colonial chronology is not reused.",
+        "evidenceNoteZh": "支持年代、黄铜材质和宽泛阿坎归属；说明几何与具象器物之别、可能的非称重用途及图案含义疑义。不采用页面中与本文无关的殖民年代叙述。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "African Brilliance, Catalogue 22: Gold Weights, abrammuo",
+        "publisher": "Palmer Museum of Art, Pennsylvania State University",
+        "url": "https://exhibitions.psu.edu/s/african-brilliance/page/catalogue-22",
+        "evidenceNote": "The essay describes balance weighing, lost-wax casting and calibration, and standards connected with trans-Saharan and coastal exchange. Its photographed objects are later examples, not the Met object.",
+        "evidenceNoteZh": "文章说明天平称重、失蜡铸造和校准，以及与跨撒哈拉和沿海贸易相连的重量标准；所配实物是后期器物，并非大都会馆藏的同一件。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "expansion": {
+      "release": 10,
+      "edition": "v16",
+      "workstreams": [
+        "AF2"
+      ],
+      "sourceReview": "Original bilingual object-focused synthesis from inspected institutional collection records and scholarly or community interpretation; claims and limits are recorded per source.",
+      "reviewLimit": {
+        "en": "The selected object is attributed broadly to Akan makers in Ghana or Côte d’Ivoire, not a named Asante artist. Competing interpretations of figurative weights are retained; no design is assigned an invented proverb.",
+        "zh": "所选文物宽泛归属于加纳或科特迪瓦的阿坎工匠，并非某位已知阿散蒂艺术家的作品。保留具象砝码用途的不同解释，不为图案编造谚语。"
+      }
+    }
+  },
+  {
+    "id": "maya-cacao-vessel-story",
+    "title": {
+      "en": "A cacao cup introduces its owner",
+      "zh": "一只可可杯怎样介绍主人"
+    },
+    "start": 600,
+    "end": 900,
+    "region": "latin-america",
+    "theme": "culture",
+    "kind": "culture",
+    "importance": 3,
+    "location": {
+      "lat": 20.56,
+      "lon": -89.95,
+      "label": "Oxkintok region, a suggested source area for this ceramic style",
+      "labelI18n": {
+        "en": "Oxkintok region, a suggested source area for this ceramic style",
+        "zh": "奥什金托克一带，此陶器风格可能的产地"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "A carved Maya vessel shows a waterbird on one side and a diagonal band of writing on the other. The inscription identifies a cup for cacao and names an owner bearing the title sajal, associated with a lower-ranking noble. Decoration, writing and a drink could meet in a single object.\n\nThe Met’s curator suggests that the angled text becomes easier for companions to read when the vessel is tilted. That is an interpretation of its design, not a surviving report of one particular feast. Studies of other Maya vessels show how inscriptions could identify contents, owners or gift-givers.\n\nThe cup is attributed to a northern Yucatán style, probably from around Oxkintok. It cannot represent all Maya households. What can an inscription tell us that the shape alone cannot?",
+      "zh": "一只玛雅雕刻陶杯，一面是水鸟，另一面是一条斜向文字带。铭文说明这是可可杯，并标识一位拥有sajal头衔的主人；这个头衔与较低等级的贵族有关。图案、文字与饮品，在同一件器物上相遇。\n\n大都会艺术博物馆的策展解释认为，杯身倾斜时，文字更便于身旁的人阅读。这是对设计的解释，并非某次宴席的亲历记录。对其他玛雅器皿的研究，也说明铭文可以标示内容物、主人或赠礼者。\n\n该杯属于尤卡坦北部的一类风格，可能来自奥什金托克附近，不能代表所有玛雅家庭。与仅看器物形状相比，铭文多告诉了我们什么？"
+    },
+    "dateNote": {
+      "en": "600–900 CE follows the museum’s object date. The location is a proposed stylistic source region, not a documented excavation spot or a dated feast.",
+      "zh": "600—900年采用博物馆的文物断代。地点代表风格判断所提出的可能产区，并非有记录的发掘点或某次宴席。"
+    },
+    "relatedIds": [
+      "maya-classic-city-states",
+      "maya-dresden-codex",
+      "maya-living-languages"
+    ],
+    "sources": [
+      {
+        "title": "Vessel with water bird and hieroglyphic text",
+        "publisher": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/art/collection/search/761272",
+        "evidenceNote": "Supports 600–900 dating, waterbird and diagonal inscription, cacao identification, sajal title, proposed handling interpretation and probable Oxkintok-area style.",
+        "evidenceNoteZh": "支持600—900年断代、水鸟与斜向铭文、可可杯辨识、sajal头衔、持杯方式的解释及奥什金托克一带的可能风格来源。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "The Drinking Cup of a Classic Maya Noble",
+        "publisher": "James Doyle, The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/perspectives/maya-drinking-cup",
+        "evidenceNote": "The opening discussion explains name-tagging inscriptions on other vessels: vessel type, contents, owners and gift-givers. Those other vessels’ owners and findspot proposals are not transferred to this cup.",
+        "evidenceNoteZh": "文章开篇说明其他器物铭文如何标示器型、内容物、主人与赠礼者；未把其他器物的主人或产地推测移用于此杯。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "expansion": {
+      "release": 10,
+      "edition": "v16",
+      "workstreams": [
+        "LA1"
+      ],
+      "sourceReview": "Original bilingual object-focused synthesis from inspected institutional collection records and scholarly or community interpretation; claims and limits are recorded per source.",
+      "reviewLimit": {
+        "en": "The reading follows the museum’s published interpretation of one vessel. Probable origin and proposed social use remain qualified; no chemical residue analysis is claimed for this cup.",
+        "zh": "本文依据博物馆对一件陶杯的解释。可能产地和社交用途均保留限定，不声称此杯经过化学残留物检测。"
+      }
+    }
+  },
+  {
+    "id": "inka-imperial-tunic-story",
+    "title": {
+      "en": "An Inka tunic makes authority visible",
+      "zh": "一件印加衣服，怎样让权力被看见"
+    },
+    "start": 1400,
+    "end": 1535,
+    "region": "latin-america",
+    "theme": "culture",
+    "kind": "culture",
+    "importance": 3,
+    "location": {
+      "lat": -13.52,
+      "lon": -71.97,
+      "label": "Cusco, imperial context only; this tunic’s workshop is unknown",
+      "labelI18n": {
+        "en": "Cusco, imperial context only; this tunic’s workshop is unknown",
+        "zh": "库斯科，仅作帝国背景定位；此衣的制作工坊未知"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Black-and-white checks and a red V-shaped yoke turn a woven tunic into a striking sign of identity. The Met’s example is made from camelid fiber. A Spanish account of the 1532 encounter at Cajamarca describes Inka soldiers wearing checkerboard garments; it does not identify this surviving tunic or its wearer.\n\nFine cloth could serve as a reward, a political gift or an offering. Making it depended on skilled hands as well as imperial demands. Research on a different tunic from Caleta Vitor in Chile identifies local techniques within an imperial-looking garment, suggesting that provincial weavers helped shape what imperial style became.\n\nLook at the finished pattern, then think about the work behind it. How much can a uniform tell us about the person who made it?",
+      "zh": "黑白棋盘格与红色V形肩部，让一件织衣成为醒目的身份标识。大都会艺术博物馆所藏这件衣服使用骆驼科动物毛纤维织成。一份西班牙记录描述，1532年卡哈马卡会面时，印加军人身穿棋盘格衣服；它并未指认今天留存的这件衣服或其穿着者。\n\n精美织物可以用于奖赏、政治馈赠或祭献。它的制作既依赖熟练工匠，也回应帝国的要求。对智利卡莱塔维托尔另一件衣服的研究，在帝国式外观中辨认出地方技术，提出地方织工也参与塑造了所谓帝国风格。\n\n看过成品的图案，再想想背后的劳动：一件统一样式的衣服，能让我们了解制作者多少？"
+    },
+    "dateNote": {
+      "en": "1400–1535 CE is the museum’s dating of this object. Its catalogue allows Argentina, Bolivia, Chile or Peru; Cusco supplies historical context, not provenance. The 1532 account concerns garments of this type.",
+      "zh": "1400—1535年是博物馆对该物的断代。目录列出阿根廷、玻利维亚、智利或秘鲁等可能地区；库斯科只提供历史背景，不代表来源地。1532年的文字涉及此类衣服。"
+    },
+    "relatedIds": [
+      "inca-imperial-expansion",
+      "inka-quipu-recordkeeping",
+      "person-guaman-poma"
+    ],
+    "sources": [
+      {
+        "title": "Tunic, 2017.674",
+        "publisher": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/art/collection/search/751901",
+        "evidenceNote": "Object date, camelid fiber and broad geographic attribution; checkerboard pattern, the 1532 Jerez account, and cloth as controlled gifts and rewards.",
+        "evidenceNoteZh": "支持年代、骆驼科动物毛纤维与宽泛地理归属；说明棋盘格、1532年赫雷斯记述，以及受控制的馈赠与奖赏织物。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Inka Unku: Imperial or provincial? State-local relations",
+        "publisher": "Jacqueline Correa-Lau and colleagues, PLOS ONE 18(2), 2023",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0280511",
+        "evidenceNote": "Abstract and discussion of the Caleta Vitor case support the authors’ interpretation that provincial production combined state conventions and local techniques; comparison concerns a different object.",
+        "evidenceNoteZh": "摘要及卡莱塔维托尔案例讨论支持作者提出的解释：地方生产结合帝国规范与地方技术；比较对象是另一件文物。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "expansion": {
+      "release": 10,
+      "edition": "v16",
+      "workstreams": [
+        "LA2"
+      ],
+      "sourceReview": "Original bilingual object-focused synthesis from inspected institutional collection records and scholarly or community interpretation; claims and limits are recorded per source.",
+      "reviewLimit": {
+        "en": "The original maker, wearer and precise origin of the illustrated tunic are unknown. Evidence from Caleta Vitor is comparative and does not establish the construction history of the Met object.",
+        "zh": "所示衣服的制作者、穿着者和精确产地未知。卡莱塔维托尔的证据用于比较，不能确立大都会馆藏此衣的制作史。"
+      }
+    }
+  },
+  {
+    "id": "marshallese-navigation-charts",
+    "title": {
+      "en": "Learning to read an ocean with sticks and shells",
+      "zh": "用枝条与贝壳学习读懂海洋"
+    },
+    "start": 1920,
+    "end": 1929,
+    "region": "oceania",
+    "theme": "knowledge",
+    "kind": "idea",
+    "importance": 3,
+    "location": {
+      "lat": 7.09,
+      "lon": 171.38,
+      "label": "Majuro, where the Library of Congress charts were made in the 1920s",
+      "labelI18n": {
+        "en": "Majuro, where the Library of Congress charts were made in the 1920s",
+        "zh": "马朱罗，美国国会图书馆所藏图表在1920年代的制作地点"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "A Marshallese navigation chart can look unlike a paper map. Curved sticks and shells bring relationships among swells and islands into a form that a learner can study. Navigators memorized such charts on land; the objects were not simply carried aboard as route maps.\n\nThe Library of Congress holds three examples made in Majuro during the 1920s. A mattang teaches wave–island relationships, while rebbelib and meddo charts show broader or more limited island groups. They should not be read as scale drawings or interchangeable keys to every Pacific navigation tradition.\n\nThis is living knowledge as well as museum history. Waan Aelõñ in Majel documents Marshallese teaching through canoe work and navigation, including Captain Joel Korent using charts with learners. The making date of an object is not the beginning or end of the knowledge it helps transmit.",
+      "zh": "马绍尔群岛的航海图，可能完全不像纸上的地图。弯曲枝条与贝壳，将涌浪和岛屿之间的关系变成可以学习的形式。航海者在陆上记忆这类图表，而不是简单地把它们带上船当作航线图。\n\n美国国会图书馆保存三件1920年代在马朱罗制作的例子。mattang用于教学，呈现波浪与岛屿的关系；rebbelib和meddo则描绘较广或较小的岛群范围。它们不应被当作按比例绘制的图，也不能用来概括所有太平洋航海传统。\n\n这既是馆藏历史，也是活态知识。Waan Aelõñ in Majel记录了通过独木舟制作与航海开展的马绍尔教学，其中包括船长Joel Korent用图表指导学员。文物的制作年代，并不代表它所传授知识的起点或终点。"
+    },
+    "dateNote": {
+      "en": "1920–1929 represents the decade assigned to the three Library of Congress examples. It does not date the invention or disappearance of Marshallese navigation.",
+      "zh": "1920—1929年代表美国国会图书馆三件实例所标示的制作年代，不是马绍尔航海术的发明或消失时间。"
+    },
+    "relatedIds": [
+      "carolinian-wayfinding-transmission",
+      "person-mau-piailug",
+      "marshall-islands-nuclear-tests"
+    ],
+    "sources": [
+      {
+        "title": "The Unique Seafaring Charts of the Marshall Islands",
+        "publisher": "Cynthia Smith, Library of Congress, Geography and Map Division",
+        "url": "https://blogs.loc.gov/maps/2021/11/the-unique-seafaring-charts-of-the-marshall-islands/",
+        "evidenceNote": "Describes the three 1920s Majuro examples, chart types, land-based memorization and wave/island relationships. Its unsubstantiated millennia-old origin claim is not repeated.",
+        "evidenceNoteZh": "说明马朱罗1920年代三件实例、图表类型、陆上记忆及波浪与岛屿关系。未重复文章缺乏具体依据的数千年前起源说。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Waan Aelõñ in Majel: Canoes of the Marshall Islands",
+        "publisher": "Waan Aelõñ in Majel (WAM)",
+        "url": "https://www.canoesmarshallislands.com/",
+        "evidenceNote": "The community organization’s page documents training and identifies Captain Joel Korent holding charts used to train novice navigators; used as evidence of transmission, not object dating.",
+        "evidenceNoteZh": "社群组织页面记录培训，并说明Joel Korent船长手持用于指导初学者的图表；用于说明传承，不用于文物断代。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "expansion": {
+      "release": 10,
+      "edition": "v16",
+      "workstreams": [
+        "OC3"
+      ],
+      "sourceReview": "Original bilingual object-focused synthesis from inspected institutional collection records and scholarly or community interpretation; claims and limits are recorded per source.",
+      "reviewLimit": {
+        "en": "Named chart types and collection dates follow the institutional account. Related Carolinian readings are comparisons, not evidence that the traditions are identical. No ancient date of invention or complete technical reconstruction is claimed.",
+        "zh": "图表类别与馆藏年代依据机构说明。相关加罗林群岛条目供比较阅读，不证明两种传统相同。不推定远古发明年代，也不声称完成技术复原。"
+      }
+    }
+  },
+  {
+    "id": "tonga-ngatu-making-history",
+    "title": {
+      "en": "A cloth travels for a child’s celebration",
+      "zh": "一块树皮布，连接两地的家庭庆典"
+    },
+    "start": 1983,
+    "end": 1983,
+    "region": "oceania",
+    "theme": "culture",
+    "kind": "event",
+    "importance": 3,
+    "location": {
+      "lat": -21.14,
+      "lon": -175.2,
+      "label": "Nukuʻalofa, orientation for Tonga; the exact making place is unspecified",
+      "labelI18n": {
+        "en": "Nukuʻalofa, orientation for Tonga; the exact making place is unspecified",
+        "zh": "努库阿洛法，用于定位汤加；具体制作地点未记载"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "In 1983, Mafi Tu’inukuafe Latu and ’Anau Toili Latu made a large ngatu in Tonga. The cloth was brought to New Zealand for Toili Latu’s fifth birthday and haircutting celebration. Te Papa’s object record preserves the makers’ names and the family occasion, allowing the story to begin with their work rather than an anonymous museum label.\n\nNgatu is decorated barkcloth, made by beating and joining the inner bark of paper mulberry. Women’s collaborative work turns pieces of bark into large cloths that can carry family and ceremonial relationships. This example also connects a Tongan household occasion with life across the ocean.\n\nWhat would be lost if we recorded only the cloth’s measurements, and left out who made it and why it travelled?",
+      "zh": "1983年，Mafi Tu’inukuafe Latu与’Anau Toili Latu在汤加制作了一大块ngatu树皮布。它被带到新西兰，用于Toili Latu的五岁生日与剪发庆典。蒂帕帕博物馆的文物记录保留了制作者姓名和家庭场合，让故事可以从她们的劳动开始，而不是止于一张匿名标签。\n\nNgatu是装饰树皮布，以纸桑内皮经过敲打、拼接制成。女性合作劳动，将树皮转化为大片布料，也让家庭与礼仪关系有所寄托。这个实例把汤加的家庭庆典与跨海生活联系起来。\n\n如果只记录布料的尺寸，却不记录谁制作了它、它为何跨海而行，会失去什么？"
+    },
+    "dateNote": {
+      "en": "1983 dates the making and family occasion described by Te Papa. The museum records Tonga as the place of making but does not identify a town; no travel route is reconstructed.",
+      "zh": "1983年标记蒂帕帕记录的制作与家庭庆典。博物馆只记制作地为汤加，未指明城镇；本文不复原旅行路线。"
+    },
+    "relatedIds": [
+      "tonga-constitution",
+      "person-salote-tupou-iii",
+      "tui-tonga-maritime-polity"
+    ],
+    "sources": [
+      {
+        "title": "Ngatu fuatanga (tapa cloth), FE011135",
+        "publisher": "Museum of New Zealand Te Papa Tongarewa",
+        "url": "https://collections.tepapa.govt.nz/object/329697",
+        "evidenceNote": "Production and Significance sections identify both makers, Tonga, 1983 and the child’s New Zealand celebration; Overview explains paper-mulberry bark and collaborative decoration.",
+        "evidenceNoteZh": "Production与Significance栏目确认两位制作者、汤加、1983年及孩子在新西兰的庆典；Overview说明纸桑内皮与合作装饰。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Tapa: barkcloth art in the Pacific",
+        "publisher": "Museum of New Zealand Te Papa Tongarewa",
+        "url": "https://www.tepapa.govt.nz/digital-museum/explore-digital-museum/tapa-barkcloth-art-in-the-pacific",
+        "evidenceNote": "Introductory sections distinguish Pacific names and uses and describe links among diaspora practice, family, culture and land; they do not establish this object’s itinerary.",
+        "evidenceNoteZh": "开篇区分太平洋各地树皮布名称与用途，并说明侨居社群实践与家庭、文化、土地的联系；不能据此确立此物的具体行程。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "expansion": {
+      "release": 10,
+      "edition": "v16",
+      "workstreams": [
+        "OC3"
+      ],
+      "sourceReview": "Original bilingual object-focused synthesis from inspected institutional collection records and scholarly or community interpretation; claims and limits are recorded per source.",
+      "reviewLimit": {
+        "en": "This is one documented family object, not a universal account of Tongan ceremonies. The source gives two different descriptions of its rubbing surface, so the specific decoration technique is not resolved here. Its image remains rights-reserved.",
+        "zh": "这是一件有记录的家庭物品，不能概括所有汤加仪式。来源对拓纹底面的描述存在差异，本文不裁定具体装饰工序。其图片仍受版权保留。"
+      }
+    }
+  }
+]

@@ -1,0 +1,147 @@
+[
+  {
+    "id": "course-objects-world-stories",
+    "title": {
+      "en": "History in your hands: eight objects, many lives",
+      "zh": "手中的历史：八件实物，多种人生"
+    },
+    "summary": {
+      "en": "Read a complaint, recipes, a tiny workshop, a cacao cup, a tunic, weights, navigation charts and a family cloth. Ask what survives—and whose experiences are harder to see.",
+      "zh": "阅读投诉信、食谱、微缩工坊、可可杯、织衣、砝码、导航图与家族布艺，思考什么得以留存，以及哪些人的经历较难看见。"
+    },
+    "recordIds": [
+      "meketre-bakery-brewery-model",
+      "babylonian-recipe-tablets",
+      "ur-copper-complaint-tablet",
+      "maya-cacao-vessel-story",
+      "inka-imperial-tunic-story",
+      "akan-goldweights-measure-trade",
+      "marshallese-navigation-charts",
+      "tonga-ngatu-making-history"
+    ],
+    "mapYears": {
+      "meketre-bakery-brewery-model": -1978,
+      "babylonian-recipe-tablets": -1750,
+      "ur-copper-complaint-tablet": -1750,
+      "maya-cacao-vessel-story": 750,
+      "inka-imperial-tunic-story": 1450,
+      "akan-goldweights-measure-trade": 1600,
+      "marshallese-navigation-charts": 1925,
+      "tonga-ngatu-making-history": 1983
+    },
+    "routeIds": [],
+    "questions": [
+      {
+        "en": "Which statements come from inscriptions or documents, and which are curators’ interpretations?",
+        "zh": "哪些说法来自铭文或文书，哪些属于研究者的解释？"
+      },
+      {
+        "en": "How do an object’s production date, discovery date and a living tradition’s history differ?",
+        "zh": "实物制作年代、发现年代与延续至今的传统历史有何区别？"
+      },
+      {
+        "en": "What does a surviving elite or museum object leave out about everyday lives?",
+        "zh": "留存的精英物件或馆藏物件可能遗漏哪些日常经历？"
+      }
+    ],
+    "activity": {
+      "en": "Choose two objects. Note one thing each can establish, one question it cannot answer, and the source of the image if one is shown.",
+      "zh": "选择两件实物，各记录一项能够支持的认识、一项无法解答的问题；如有图像，也记录图像出处。"
+    },
+    "kind": "reading-course",
+    "estimatedMinutes": 24,
+    "evidencePolicy": "Original editorial reading of the linked sources. Dates and locations retain each record’s qualifications. This is not a reconstructed journey; images have separate dates and rights."
+  },
+  {
+    "id": "course-anshi-witnesses",
+    "title": {
+      "en": "The Tang crisis through surviving words",
+      "zh": "从留存文字看唐朝危机"
+    },
+    "summary": {
+      "en": "Put the An–Shi war beside Du Fu’s poem, Yan Zhenqing’s mourning draft and the later Jingyuan mutiny. Different kinds of writing reveal different parts of a crisis.",
+      "zh": "将安史之乱与杜甫诗作、颜真卿祭文草稿以及后来的泾原兵变相对读，观察不同文字揭示的危机面向。"
+    },
+    "recordIds": [
+      "tang-dynasty",
+      "china-anshi-war-and-recovery-755",
+      "china-du-fu-spring-view-757",
+      "china-yan-zhenqing-nephew-758",
+      "china-fengtian-refuge-783"
+    ],
+    "mapYears": {
+      "tang-dynasty": 755,
+      "china-anshi-war-and-recovery-755": 755,
+      "china-du-fu-spring-view-757": 757,
+      "china-yan-zhenqing-nephew-758": 758,
+      "china-fengtian-refuge-783": 783
+    },
+    "routeIds": [],
+    "questions": [
+      {
+        "en": "How does a poem’s emotional testimony differ from a chronological account?",
+        "zh": "诗歌的情感见证与编年记事有何区别？"
+      },
+      {
+        "en": "Why can a damaged family and a changed population register not be turned into one exact casualty count?",
+        "zh": "为何不能将一个受难家庭与人口登记的变化直接化为精确死亡总数？"
+      },
+      {
+        "en": "Why is the 783 mutiny related to, yet distinct from, the 755–763 war?",
+        "zh": "783年的兵变为何既与755—763年的战乱有关，又是不同事件？"
+      }
+    ],
+    "activity": {
+      "en": "Make a small evidence table: source type, date described, place represented and one limit. Use the mourning draft’s image caption to distinguish the date of writing from the events it recalls.",
+      "zh": "制作一张证据小表：来源类型、所述年份、代表地点及一项局限。根据祭文图像说明，区分书写日期与其追述的事件。"
+    },
+    "kind": "reading-course",
+    "estimatedMinutes": 16,
+    "evidencePolicy": "Original editorial reading of the linked sources. Dates and locations retain each record’s qualifications. This is not a reconstructed journey; images have separate dates and rights."
+  },
+  {
+    "id": "course-books-poems-public-life",
+    "title": {
+      "en": "Books, poems and public work",
+      "zh": "书籍、诗作与公共事务"
+    },
+    "summary": {
+      "en": "Follow a printing project across dynasties, read an exiled poet’s words, then examine a causeway and an encyclopedia. Separate composition, copying, appointment and construction dates.",
+      "zh": "从跨越王朝的刻书工程读到贬谪诗人的文字，再看堤道与类书，区分创作、抄写、任职和建造的年代。"
+    },
+    "recordIds": [
+      "china-classics-printing-932",
+      "china-su-shi-cold-food-1082",
+      "china-su-causeway-1089",
+      "china-yongle-encyclopedia-1403"
+    ],
+    "mapYears": {
+      "china-classics-printing-932": 932,
+      "china-su-shi-cold-food-1082": 1082,
+      "china-su-causeway-1089": 1090,
+      "china-yongle-encyclopedia-1403": 1408
+    },
+    "routeIds": [],
+    "questions": [
+      {
+        "en": "Why is the date of a poem not necessarily the date of the surviving handwritten scroll?",
+        "zh": "诗作年份为何未必是传世书卷的书写年份？"
+      },
+      {
+        "en": "Which dates begin an institution or project, and which mark work being completed?",
+        "zh": "哪些日期表示机构或工程的开端，哪些标记工作完成？"
+      },
+      {
+        "en": "How does survival affect the stories we can tell about old books?",
+        "zh": "资料的存亡如何影响我们能够讲述的古籍历史？"
+      }
+    ],
+    "activity": {
+      "en": "For each entry, write down what its date actually means. Compare a printed edition with a handwritten compilation without treating either as universal public access.",
+      "zh": "逐条记录日期实际表示什么，并比较刻印版本与手抄汇编，不将两者等同于人人都可获取。"
+    },
+    "kind": "reading-course",
+    "estimatedMinutes": 14,
+    "evidencePolicy": "Original editorial reading of the linked sources. Dates and locations retain each record’s qualifications. This is not a reconstructed journey; images have separate dates and rights."
+  }
+]

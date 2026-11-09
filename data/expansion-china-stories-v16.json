@@ -1,0 +1,434 @@
+[
+  {
+    "id": "china-anshi-war-and-recovery-755",
+    "title": {
+      "en": "An–Shi: a war that changed the Tang",
+      "zh": "安史之乱：改变唐朝的战争"
+    },
+    "start": 755,
+    "end": 763,
+    "region": "east-asia",
+    "kind": "event",
+    "theme": "states",
+    "importance": 4,
+    "location": {
+      "lon": 108.94,
+      "lat": 34.27,
+      "label": "Chang'an, representative affected capital",
+      "labelI18n": {
+        "en": "Chang'an, representative affected capital",
+        "zh": "长安，代表性的受战乱影响都城"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "The uprising associated with An Lushan and Shi Siming brought war into the Tang heartland, including Chang'an and Luoyang. It disrupted families as well as imperial government. Du Fu's poems and Yan Zhenqing's mourning manuscript let us approach that upheaval through individual experiences.\n\nThe rebellion ended in 763, but the Tang survived until 907. The court faced powerful military governors and a changed relationship with neighbouring empires. Recovery did not restore the earlier balance of power; it also did not end Tang cultural life.",
+      "zh": "安禄山、史思明发动的叛乱将战争带进唐朝腹地，包括长安、洛阳。受到冲击的不仅是朝廷，还有无数家庭。杜甫的诗与颜真卿的祭文，使我们能从个人经历接近这场动荡。\n\n叛乱在763年结束，唐朝却一直延续到907年。朝廷面对势力强大的节度使，与邻近帝国的关系也发生变化。战后恢复没有重建此前的权力格局，也没有使唐代文化生活就此终结。"
+    },
+    "dateNote": {
+      "en": "755–763 dates the rebellion, not the end of the Tang. The map point represents one affected capital; no campaign route or precise casualty total is asserted.",
+      "zh": "755—763年是叛乱的时段，并非唐朝的终点。地图点仅代表一座受影响的都城，不表示行军路线，也不主张精确伤亡总数。"
+    },
+    "sources": [
+      {
+        "title": "A Song of War Chariots: historical introduction",
+        "publisher": "Columbia University, Asia for Educators",
+        "url": "https://afe.easia.columbia.edu/main_pop/ps/ps_china-dufu-songofwar.htm",
+        "evidenceNote": "Introduction supports the 755–763 interval, devastation in Chang'an and Luoyang, and Du Fu's wartime experience; the older translated poem is not reproduced.",
+        "evidenceNoteZh": "导言支持755—763年的时段、长安洛阳受战乱影响及杜甫的经历；未转载页面的现代译诗。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "An Lushan Rebellion (755–763): introduction",
+        "publisher": "Michael Höckelmann, Oxford Bibliographies in Military History",
+        "url": "https://academic.oup.com/reference/62399/reference-article-abstract/573026203",
+        "evidenceNote": "Accessible introduction discusses military governors and changed relations with Tibetans and Uighurs; cautions against treating demographic losses as fatalities. Subscription bibliography not inspected.",
+        "evidenceNoteZh": "可读导言讨论节度使及与吐蕃、回纥关系的变化，并提醒不能将人口统计损失直接视为死亡人数；未查阅订阅区书目。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page-accessible-introduction"
+      },
+      {
+        "title": "Tang Dynasty (618–907)",
+        "publisher": "The Metropolitan Museum of Art, Department of Asian Art",
+        "url": "https://www.metmuseum.org/essays/tang-dynasty-618-906",
+        "evidenceNote": "Final narrative paragraph explains that the restored government and cultural production continued long after the rebellion.",
+        "evidenceNoteZh": "正文末段说明叛乱后朝廷与文化创作仍延续甚久。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "relatedIds": [
+      "tang-dynasty",
+      "china-du-fu-spring-view-757",
+      "china-yan-zhenqing-nephew-758"
+    ],
+    "expansion": {
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "release": 10,
+      "edition": "v16",
+      "sourceReview": "Original bilingual synthesis of inspected university, museum and scholarly material; Jiangshan's new event storyline supplied the research lead.",
+      "reviewLimit": {
+        "en": "Selected social and political consequences, not a complete military chronology. Later scholarship and personal writings answer different questions.",
+        "zh": "选取社会与政治后果，不是完整军事年表。后世研究与个人文字回答的是不同问题。"
+      }
+    }
+  },
+  {
+    "id": "china-du-fu-spring-view-757",
+    "title": {
+      "en": "A letter worth more than gold: Du Fu's Spring View",
+      "zh": "家书为何抵万金：杜甫的《春望》"
+    },
+    "start": 757,
+    "end": 757,
+    "region": "east-asia",
+    "kind": "culture",
+    "theme": "culture",
+    "importance": 4,
+    "location": {
+      "lon": 108.94,
+      "lat": 34.27,
+      "label": "Chang'an, poem's city setting; writing spot unknown",
+      "labelI18n": {
+        "en": "Chang'an, poem's city setting; writing spot unknown",
+        "zh": "长安，诗中的城市背景；具体写作地点不详"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Spring returns to Chang'an, but the poet cannot greet it with relief. In 757, while caught in the rebel-held capital, Du Fu wrote Spring View. Growing plants, birds and flowers sit beside anxiety about war and separation. News from home becomes more precious than treasure.\n\nThe poem brings political upheaval into the scale of one family. Its images help us ask what separation felt like; they do not measure everybody's experience. The value assigned to a letter is poetic emphasis, not a documented market price.",
+      "zh": "春天回到长安，诗人却无法因此释怀。757年，困在叛军占据的都城中的杜甫写下《春望》。草木、鸟鸣与花朵，同战争和离别的忧虑交织在一起；家中的消息比财宝还珍贵。\n\n这首诗把政治巨变缩小到一个家庭的尺度。诗中的意象让人思考分离的感受，却不能代表所有人的经历。“家书抵万金”是诗意的强调，不是有据可查的交易价格。"
+    },
+    "dateNote": {
+      "en": "Spring 757 follows the cited literary study. Columbia places Du Fu's capture in 756 and escape in 757. No exact composition day or spot is known from these sources.",
+      "zh": "据所引文学研究系于757年春。哥伦比亚大学资料记其756年被俘、757年逃离；这些来源未确立具体写作日期或地点。"
+    },
+    "sources": [
+      {
+        "title": "Selected Poems by Du Fu: Views in Springtime",
+        "publisher": "Columbia University, Asia for Educators",
+        "url": "https://afe.easia.columbia.edu/main_pop/ps/ps_china-dufu-selected.htm",
+        "evidenceNote": "Introduction, poem and teaching questions locate the work in rebel-held Chang'an and connect spring imagery with separation; modern translations are linked, not copied.",
+        "evidenceNoteZh": "导言、诗及教学问题将作品置于沦陷的长安，联系春景与离别；仅链接现代译文，不予复制。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Spring View: Chinese text",
+        "publisher": "Du Fu; Wikisource transcription of the classical poem",
+        "url": "https://zh.wikisource.org/wiki/春望",
+        "evidenceNote": "The Chinese poem supplies the images of city, plants, war signals and a family letter. The summary interprets these images rather than reproducing a modern translation.",
+        "evidenceNoteZh": "中文原诗包含城市、草木、烽火及家书意象；摘要解释这些意象，未转载现代译文。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page-primary-text"
+      },
+      {
+        "title": "You Molin: changes in Du Fu's thought through his use of ru",
+        "publisher": "Ocean University of China, Centre for Traditional Chinese Culture; study first published in 2020",
+        "url": "https://clajc.ouc.edu.cn/ctwhyjzx/2021/0225/c16713a313815/pagem.htm",
+        "evidenceNote": "Section two, subsection on the rebellion, explicitly dates Spring View to spring 757 in occupied Chang'an. Only that dated literary context is used.",
+        "evidenceNoteZh": "第二节讨论安史之乱的段落明确将《春望》系于757年春的沦陷长安；仅采用这一写作背景与系年。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "relatedIds": [
+      "tang-dynasty",
+      "china-anshi-war-and-recovery-755",
+      "china-yan-zhenqing-nephew-758"
+    ],
+    "expansion": {
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "release": 10,
+      "edition": "v16",
+      "sourceReview": "Original bilingual reading of the Chinese poem, checked against university teaching material and a dated literary study.",
+      "reviewLimit": {
+        "en": "A literary response to war, not a census, price record or complete biography. The location is the city setting.",
+        "zh": "这是对战争的文学回应，不是人口普查、物价记录或完整传记；地点表示城市背景。"
+      }
+    }
+  },
+  {
+    "id": "china-yan-zhenqing-nephew-758",
+    "title": {
+      "en": "Crossed-out words: a family's loss in Yan Zhenqing's draft",
+      "zh": "涂改中的家难：颜真卿《祭侄文稿》"
+    },
+    "start": 758,
+    "end": 758,
+    "region": "east-asia",
+    "kind": "culture",
+    "theme": "culture",
+    "importance": 4,
+    "location": {
+      "lon": 114.57,
+      "lat": 38.14,
+      "label": "Changshan, representative setting of the loss recalled; not the writing location",
+      "labelI18n": {
+        "en": "Changshan, representative setting of the loss recalled; not the writing location",
+        "zh": "常山，祭文追述家难的代表地点；并非写作地点"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "This manuscript preserves revisions instead of hiding them. In 758, Yan Zhenqing composed a requiem for his nephew Yan Jiming. The text recalls the deaths of Jiming and his father Yan Gaoqing after Changshan fell during the rebellion.\n\nAdded and crossed-out characters let a reader see composition in progress. The draft is both a work of calligraphy and a surviving voice of mourning. Its account comes from a bereaved relative loyal to the Tang court; that perspective is part of the evidence.",
+      "zh": "这份手稿没有隐藏修改痕迹。758年，颜真卿为侄儿颜季明撰写祭文，追述叛乱中常山陷落后季明与其父颜杲卿的死亡。\n\n增补与涂去的字让读者看到文章形成的过程。文稿既是书法作品，也是留存下来的哀悼之声。叙述者是一位失去亲人、忠于唐廷的人；这种立场也是理解史料的一部分。"
+    },
+    "dateNote": {
+      "en": "758 is the manuscript's date. Changshan marks the earlier loss remembered in it, not where Yan wrote. The map makes no exact battlefield or manuscript-location claim.",
+      "zh": "758年是文稿年代。常山标示文中追忆的较早家难，并非颜真卿落笔之处；地图不主张确切战场或手稿写作位置。"
+    },
+    "sources": [
+      {
+        "title": "Draft of a Requiem for My Nephew: object record and transcription",
+        "publisher": "National Palace Museum, Taipei",
+        "url": "https://digitalarchive.npm.gov.tw/opendata/Pub/DetailEng/3?dep=P&mode=full",
+        "evidenceNote": "Object 故書000060; transcription and catalogue description date it to 758, identify the family loss and preserve the deletions and additions.",
+        "evidenceNoteZh": "故書000060；释文与藏品说明确立758年、相关家难，并保留删改信息。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page-object-record-and-transcription"
+      },
+      {
+        "title": "Draft of a Requiem for My Nephew: selected work",
+        "publisher": "National Palace Museum, Taipei",
+        "url": "https://theme.npm.edu.tw/selection/Article.aspx?lang=2&sNo=04001003",
+        "evidenceNote": "Museum discussion explains the mourning context and revisions in a likely preliminary draft. Its moral appraisal is not presented as a neutral personality assessment.",
+        "evidenceNoteZh": "馆方讨论解释祭文背景及可能作为初稿的修改痕迹；其道德评价不作为中立的人格判定。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "relatedIds": [
+      "tang-dynasty",
+      "china-anshi-war-and-recovery-755",
+      "china-du-fu-spring-view-757"
+    ],
+    "expansion": {
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "release": 10,
+      "edition": "v16",
+      "sourceReview": "Original bilingual interpretation of the holding museum's manuscript transcription and catalogue discussion.",
+      "reviewLimit": {
+        "en": "An individual mourning text with a court-loyal perspective; it cannot establish all combatants' experiences or total losses.",
+        "zh": "这是具有忠于朝廷立场的个人祭文，不能确立所有参战者的经历或损失总数。"
+      }
+    }
+  },
+  {
+    "id": "china-su-shi-cold-food-1082",
+    "title": {
+      "en": "Rain in exile: Su Shi's Cold Food poems",
+      "zh": "贬居中的雨：苏轼寒食诗"
+    },
+    "start": 1082,
+    "end": 1082,
+    "region": "east-asia",
+    "kind": "culture",
+    "theme": "culture",
+    "importance": 4,
+    "location": {
+      "lon": 114.88,
+      "lat": 30.45,
+      "label": "Huangzhou, representative exile setting near modern Huanggang",
+      "labelI18n": {
+        "en": "Huangzhou, representative exile setting near modern Huanggang",
+        "zh": "黄州，今黄冈附近的代表性贬居背景"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Rain, changing seasons and disappointment enter two poems Su Shi composed during his Huangzhou exile in 1082. He later wrote them as calligraphy. Changes in character size and spacing give the surviving scroll a rhythm that readers can see as well as read.\n\nHuang Tingjian subsequently added his own inscription. The object therefore holds several moments: a poem's composition, its later writing, and another reader's response. Looking for those layers prevents us from treating every mark as something made on the same day.",
+      "zh": "雨、季节变化与失意，进入苏轼1082年贬居黄州时写成的两首寒食诗。其后他将诗写成书法，字形大小和间距的变化，使传世卷轴产生既可阅读又可观看的节奏。\n\n黄庭坚后来又加上题跋。于是，这件作品容纳了几个时刻：作诗、其后的书写，以及另一位读者的回应。辨认这些层次，能避免把卷上的每一笔都当作同一天的产物。"
+    },
+    "dateNote": {
+      "en": "1082 dates the poems. The National Palace Museum describes the calligraphy as later and places Huang Tingjian's colophon before the ninth lunar month of 1100; no Gregorian day is inferred.",
+      "zh": "1082年指诗歌写成。故宫说明书法为稍后书写，黄庭坚题跋在1100年农历九月之前；不据此推算公历具体日期。"
+    },
+    "sources": [
+      {
+        "title": "The Cold Food Observance: selected work",
+        "publisher": "National Palace Museum, Taipei",
+        "url": "https://theme.npm.edu.tw/selection/Article.aspx?lang=2&sNo=04001005",
+        "evidenceNote": "Dates the poems to 1082, distinguishes later calligraphy, and discusses character spacing and Huang Tingjian's later colophon.",
+        "evidenceNoteZh": "将诗系于1082年，区分稍后的书法，并讨论字距及黄庭坚后加的题跋。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Su Shi's Cold Food Observance: object record",
+        "publisher": "National Palace Museum, Taipei",
+        "url": "https://digitalarchive.npm.gov.tw/opendata/Pub/DetailEng/14714?dep=P&mode=full",
+        "evidenceNote": "Catalogue description supplies the Huangzhou exile context and distinguishes poem composition from subsequent transcription; the record preserves later inscriptions.",
+        "evidenceNoteZh": "藏品说明提供黄州贬居背景，区分作诗与其后誊写，记录并保留后世题跋。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page-object-record"
+      }
+    ],
+    "relatedIds": [
+      "northern-song",
+      "china-su-causeway-1089",
+      "china-du-fu-spring-view-757"
+    ],
+    "expansion": {
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "release": 10,
+      "edition": "v16",
+      "sourceReview": "Original bilingual synthesis from the holding museum's object and interpretation pages; retains the distinction between poem and object dates.",
+      "reviewLimit": {
+        "en": "One work from exile, not a complete account of Su Shi's politics or temperament. The pin is a regional setting.",
+        "zh": "这是贬居时期的一件作品，不是苏轼政治经历或性格的全貌；地图点仅表示区域背景。"
+      }
+    }
+  },
+  {
+    "id": "china-su-causeway-1089",
+    "title": {
+      "en": "Mud becomes a path: Su Shi and West Lake",
+      "zh": "湖泥成为长堤：苏轼与西湖"
+    },
+    "start": 1089,
+    "end": 1090,
+    "region": "east-asia",
+    "kind": "place",
+    "theme": "cities",
+    "importance": 4,
+    "location": {
+      "lon": 120.134,
+      "lat": 30.245,
+      "label": "Su Causeway, present-day West Lake reference point",
+      "labelI18n": {
+        "en": "Su Causeway, present-day West Lake reference point",
+        "zh": "苏堤，以今西湖位置作参考"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Su Shi returned to govern Hangzhou in 1089. The West Lake Museum dates a major dredging project to 1090: material removed from the lake helped form the causeway later named after him. Six bridges interrupted the long embankment.\n\nThe History of Song connects his work with water supply and transport as well as the lake. What visitors admire as scenery also belongs to the history of maintaining a city. Its beauty emerged through repeated human work, not an untouched landscape.",
+      "zh": "1089年，苏轼再任杭州知州。西湖博物馆将一次大规模疏浚系于1090年：从湖中清出的泥土被用于筑堤，后来这条长堤以他命名。六座桥分布在长堤上。\n\n《宋史》将这些工程同供水、运输以及湖泊联系起来。游人欣赏的景色，也是城市维护史的一部分。它的美来自反复的人力经营，并非从未改变的天然景观。"
+    },
+    "dateNote": {
+      "en": "1089 is the second Hangzhou appointment;1090 is the West Lake Museum's date for dredging and causeway work. The modern reference point does not define the Song shoreline or exact construction extent.",
+      "zh": "1089年指再任杭州，1090年为西湖博物馆所列疏浚筑堤年代。现代参考点不界定宋代岸线或工程确切范围。"
+    },
+    "sources": [
+      {
+        "title": "History of Song, volume 338: Su Shi",
+        "publisher": "Tuotuo and collaborators; Wikisource transcription",
+        "url": "https://zh.wikisource.org/wiki/宋史/卷338",
+        "evidenceNote": "Yuanyou year 4 appointment and the following Hangzhou section describe dredging, water supply, transport and the embankment; this is a retrospective dynastic biography.",
+        "evidenceNoteZh": "元祐四年任命及随后杭州段落记述疏浚、供水、运输和筑堤；这是后出的朝代传记。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page-primary-text"
+      },
+      {
+        "title": "West Lake Museum: Northern Song landscape history",
+        "publisher": "West Lake Museum, Hangzhou",
+        "url": "https://www.westlakemuseum.com/index.php/bwggk/bwgjj-en.html",
+        "evidenceNote": "Northern Song section dates dredging to 1090 and describes reuse of silt for a causeway with six bridges.",
+        "evidenceNoteZh": "北宋段落将疏浚系于1090年，说明以淤泥筑堤及六桥。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "West Lake Cultural Landscape of Hangzhou",
+        "publisher": "UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/1334/",
+        "evidenceNote": "The landscape account describes causeways and islands as products of repeated dredging and cultural landscape design, rather than untouched nature.",
+        "evidenceNoteZh": "景观说明将堤与岛解释为多次疏浚和文化景观营造的产物，而非未经人为改变的自然。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "relatedIds": [
+      "northern-song",
+      "southern-song",
+      "china-su-shi-cold-food-1082"
+    ],
+    "expansion": {
+      "workstreams": [
+        "CH2",
+        "CH3"
+      ],
+      "release": 10,
+      "edition": "v16",
+      "sourceReview": "Original bilingual synthesis comparing a dynastic biography with the local museum and UNESCO landscape account; distinguishes appointment and project dates.",
+      "reviewLimit": {
+        "en": "Selected municipal works; the sources do not reconstruct every labourer's experience or establish an unchanged surviving Song structure.",
+        "zh": "仅选取部分城市工程；来源未复原每位劳动者的经历，也未证明现存结构自宋代以来未经改变。"
+      }
+    }
+  },
+  {
+    "id": "china-yongle-encyclopedia-1403",
+    "title": {
+      "en": "An encyclopedia that preserved parts of lost books",
+      "zh": "保存失传书籍片段的《永乐大典》"
+    },
+    "start": 1403,
+    "end": 1408,
+    "region": "east-asia",
+    "kind": "culture",
+    "theme": "knowledge",
+    "importance": 4,
+    "location": {
+      "lon": 118.78,
+      "lat": 32.04,
+      "label": "Nanjing, representative compilation setting",
+      "labelI18n": {
+        "en": "Nanjing, representative compilation setting",
+        "zh": "南京，代表性的编纂地点"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "A first compilation disappointed the Yongle emperor. The enlarged project brought scholars together in Nanjing to gather earlier writings into a manuscript reference work, completed in 1408. Readers found entries through a system based on sounds and rhymes.\n\nIts survival tells another story. A later copy was made in 1562–1567, and most volumes eventually disappeared. Surviving portions preserve quotations from some books otherwise lost. An enormous collection could preserve knowledge while remaining difficult for most people to consult.",
+      "zh": "第一版汇编未令永乐帝满意，扩充后的工程将学者聚集在南京，收集前代著述，编成1408年完成的手写类书。读者通过音韵系统查找条目。\n\n它的存世过程又是另一段故事：1562—1567年抄成的后世副本，其多数书册也逐渐散失。幸存部分保存了一些已经失传的书籍引文。庞大的收藏能够保存知识，同时又可能让大多数人难以查阅。"
+    },
+    "dateNote": {
+      "en": "1403–1408 is the compilation interval. The surviving later duplicate belongs to 1562–1567. Nanjing is a city-level reference, not an identified desk or building.",
+      "zh": "1403—1408年指编纂时段。现存后世副本属于1562—1567年；南京仅为城市层面的参考，并非确定的案桌或建筑。"
+    },
+    "sources": [
+      {
+        "title": "Yongle Encyclopedia Volumes Fully Digitized",
+        "publisher": "Ian Chapman, Chinese Reference Librarian, Library of Congress Asian Division",
+        "url": "https://blogs.loc.gov/international-collections/2023/04/yongle-encyclopedia-volumes-fully-digitized/",
+        "evidenceNote": "Inspected collection essay supports Nanjing compilation, rhyme-based access,1562–1567 duplication, restricted circulation and later recovery of lost texts through quotations.",
+        "evidenceNoteZh": "已读馆藏文章支持南京编纂、音韵检索、1562—1567年复抄、有限流通及借引文保存佚书。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "relatedIds": [
+      "ming-dynasty",
+      "diamond-sutra-868",
+      "gutenberg-printing"
+    ],
+    "expansion": {
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "release": 10,
+      "edition": "v16",
+      "sourceReview": "Original bilingual synthesis of the inspected Library of Congress collection essay, prompted by the donor's new 1408 milestone.",
+      "reviewLimit": {
+        "en": "A manuscript project, not mass publication. The record does not claim that every quoted source or most of the encyclopedia survives.",
+        "zh": "这是手抄工程，不是大规模出版；不主张所有被引书籍或《大典》大部分内容仍然存世。"
+      }
+    }
+  }
+]

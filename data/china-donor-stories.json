@@ -22,23 +22,47 @@
     },
     "locationPrecision": "representative",
     "summary": {
-      "en": "In 783, a mutiny in the capital forced the Tang emperor Dezong to leave Chang’an for Fengtian. The imperial court depended on commanders and troops whose loyalties could shift. At Fengtian, the emperor had to defend a refuge while recovering the cooperation needed to govern.\n\nWhy this matters: Tang’s survival after the An Lushan Rebellion involved repeated negotiations with regional military powers. A map colored for Tang can conceal how much authority depended on those relationships.",
-      "zh": "783年，京师兵变迫使唐德宗离开长安，出奔奉天。朝廷依赖的将领与军队并非始终服从。德宗既要守住奉天，又要重新争取维持统治所需的支持。\n\n这件事有何意义：安史之乱后的唐朝必须反复与地方军事力量协调。地图上的唐朝色块，难以呈现朝廷对这些关系的依赖。"
+      "en": "An expected campaign reward could become a political crisis. In 783, soldiers of the Jingyuan army passing through Chang’an rebelled after receiving less than they expected. Emperor Dezong fled the capital and took refuge at Fengtian. The later Zizhi tongjian describes the hurried flight and the gathering of defenders around the court.\n\nRead this as a story about resources as well as commanders. David Graff’s study connects late Tang soldiers’ compensation to military loyalty and the taxes that sustained armies. The episode reveals why a single imperial color on a map cannot show how precarious the court’s control could be.",
+      "zh": "一次出征赏赐也可能引发政治危机。783年，途经长安的泾原军士因所得不及预期而哗变，唐德宗逃出京师，避难奉天。后出的《资治通鉴》记述了仓促出奔以及守军逐渐集结的过程。\n\n这不仅是将领的故事，也关乎财赋。历史学者David A. Graff的研究将唐后期士兵的待遇同军事忠诚、维持军队的赋税联系起来。这一事件说明，地图上同一种帝国颜色无法表达朝廷控制可能有多么脆弱。"
     },
     "dateNote": {
-      "en": "The year follows Jiangshan’s selected milestone. The point identifies a representative location for the story.",
-      "zh": "年份依据江山选录的历史节点。点位标记故事的代表地点。"
+      "en": "783 CE dates the mutiny and refuge. The chronicle uses a Chinese lunar month; no Gregorian month or day is asserted. Fengtian is represented near present-day Qian County.",
+      "zh": "783年为兵变与出奔奉天之年。编年史使用农历月份，此处不将其换算为公历月日。奉天以今乾县附近的代表点标示。"
     },
     "relatedIds": [
       "tang-dynasty"
     ],
     "sources": [
       {
+        "title": "The Reach of the Military: Tang",
+        "publisher": "David A. Graff · Journal of Chinese History, Cambridge University Press",
+        "url": "https://www.cambridge.org/core/journals/journal-of-chinese-history/article/reach-of-the-military-tang/ECFE9C64AE6E73EC4319B165A606F88C",
+        "evidenceNote": "Sections on soldiers’ compensation and resource extraction discuss the 783 Jingyuan mutiny and late Tang fiscal pressures.",
+        "evidenceNoteZh": "士兵待遇与资源征收部分讨论了783年泾原兵变及唐后期的财政压力。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Zizhi tongjian, volume 228: Jianzhong 4",
+        "publisher": "Sima Guang and collaborators · Wikisource transcription",
+        "url": "https://zh.wikisource.org/wiki/資治通鑑/卷228",
+        "evidenceNote": "The 783 account narrates the mutiny, departure from Chang’an, arrival at Fengtian and defensive preparations; it is a later chronicle, not an eyewitness transcript.",
+        "evidenceNoteZh": "783年记事叙述兵变、离开长安、抵达奉天与防御准备；属于后出编年史，并非现场实录。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
         "title": "Jiangshan: Southern Dynasties, Ten Kingdoms, late Tang and Western Han milestones",
         "publisher": "Jiangshan / 江山",
-        "url": "https://github.com/DeanChensj/jiangshan-map/pull/229"
+        "url": "https://github.com/DeanChensj/jiangshan-map/pull/229",
+        "evidenceNote": "Credit for the original topic selection. This pull request is not used as independent evidence for the historical claims.",
+        "evidenceNoteZh": "保留最初选题的归属。该拉取请求不作为历史论断的独立证据。"
       }
-    ]
+    ],
+    "reviewNote": {
+      "en": "The mutiny, date and refuge are checked against scholarship and the later chronicle. Narrative detail is attributed to its source; exact speeches and troop totals are not reproduced.",
+      "zh": "兵变、年份与避难地点已对照学术研究及后出编年史。叙事细节说明出处，不复述原文中的精确对话与兵力数字。"
+    }
   },
   {
     "id": "china-chu-jingnan-927",
@@ -47,7 +71,7 @@
       "zh": "楚与荆南：长江中游的政权与商路"
     },
     "start": 927,
-    "end": 927,
+    "end": 928,
     "region": "east-asia",
     "kind": "event",
     "theme": "exchange",
@@ -63,12 +87,12 @@
     },
     "locationPrecision": "representative",
     "summary": {
-      "en": "Ma Yin received the title King of Chu in 927. His court was based in Tanzhou, today’s Changsha. Nearby Jingnan was centered at Jiangling. The two centers sat on connected waterways, but they belonged to different political authorities.\n\nRead this alongside the northern succession. The Five Dynasties describe a sequence of northern courts. The southern kingdoms and their trade networks followed their own timelines.",
-      "zh": "927年，马殷受封楚王，治所在潭州，即今长沙。邻近的荆南以江陵为中心。两地水路相通，却分属不同政权。\n\n可以将此事与北方政权交替对读。五代是北方朝廷先后更替的序列，南方诸国与商贸网络则有各自的发展节奏。"
+      "en": "A royal title did not remove a ruler’s neighbors. Ma Yin had held the title Prince of Chu since 907; in 927 the Later Tang court raised it to King of the State of Chu. His center at Tanzhou was renamed Changsha Prefecture. Jingnan, centered at Jiangling, remained a separate regional power.\n\nThe New History of the Five Dynasties describes Ma Yin’s tea trade and the offices that marketed it farther north. The Zizhi tongjian also records conflict around Jiangling and a Chu attack in 928. Waterways carried goods, tribute and armies: connection did not mean political unity or peaceful trade. These are later historians’ accounts, not a measured reconstruction of traffic.",
+      "zh": "王号并不能消除周围的竞争者。马殷自907年已受封楚王，927年又获后唐朝廷进封楚国王，其中心潭州改称长沙府。以江陵为中心的荆南仍是另一地方政权。\n\n《新五代史》记述马殷经营茶贸，并在通往北方的地区设邸务售茶；《资治通鉴》则记载江陵周边的冲突以及928年楚军的进攻。水路既运送货物与贡使，也通行军队：交通相连并不等于政治统一或贸易和平。这些内容来自后世史家的叙述，不能据此复原精确的运输量。"
     },
     "dateNote": {
-      "en": "The year follows Jiangshan’s selected milestone. The point identifies a representative location for the story.",
-      "zh": "年份依据江山选录的历史节点。点位标记故事的代表地点。"
+      "en": "927–928 follows the upgraded investiture and the subsequent conflict. The earlier Chu title dates to 907. Jiangling is a representative point for Jingnan, not Ma Yin’s capital at Changsha.",
+      "zh": "927—928年涵盖进封与次年的冲突；较早的楚王封号始于907年。江陵是荆南的代表点，不是马殷在长沙的都城。"
     },
     "relatedIds": [
       "china-classics-printing-932",
@@ -76,11 +100,44 @@
     ],
     "sources": [
       {
+        "title": "New History of the Five Dynasties, volume 66: House of Chu",
+        "publisher": "Ouyang Xiu · Wikisource transcription",
+        "url": "https://zh.wikisource.org/wiki/新五代史/卷66",
+        "evidenceNote": "Distinguishes the earlier Chu title from the Tiancheng 2 investiture, identifies Tanzhou/Changsha, and describes tea marketing. The retrospective account is not a commercial census.",
+        "evidenceNoteZh": "区分早期楚王封号与天成二年的进封，记载潭州改长沙府以及茶叶销售；后出的史书不等同于商业统计。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Zizhi tongjian, volume 275: Tiancheng 2",
+        "publisher": "Sima Guang and collaborators · Wikisource transcription",
+        "url": "https://zh.wikisource.org/wiki/資治通鑑/卷275",
+        "evidenceNote": "The 927 entries record the Jiangling campaign and conferment of the Chu guowang title.",
+        "evidenceNoteZh": "927年记事记载江陵战事以及进封楚国王。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Zizhi tongjian, volume 276: Tiancheng 3",
+        "publisher": "Sima Guang and collaborators · Wikisource transcription",
+        "url": "https://zh.wikisource.org/wiki/資治通鑑/卷276",
+        "evidenceNote": "The 928 entry describes Chu naval forces attacking Jingnan and returning after peace. Exact strength and attributed speeches are not adopted.",
+        "evidenceNoteZh": "928年记事叙述楚水军攻荆南及议和返回；此处不采用精确兵力与所记对话。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
         "title": "Jiangshan: Southern Dynasties, Ten Kingdoms, late Tang and Western Han milestones",
         "publisher": "Jiangshan / 江山",
-        "url": "https://github.com/DeanChensj/jiangshan-map/pull/229"
+        "url": "https://github.com/DeanChensj/jiangshan-map/pull/229",
+        "evidenceNote": "Credit for the original topic selection. This pull request is not used as independent evidence for the historical claims.",
+        "evidenceNoteZh": "保留最初选题的归属。该拉取请求不作为历史论断的独立证据。"
       }
-    ]
+    ],
+    "reviewNote": {
+      "en": "This replaces a donor-only citation and clarifies the 907/927 titles. The sources are later Chinese court histories with their own political perspective.",
+      "zh": "此次补入原先只有捐赠项目引文的历史证据，并厘清907年与927年的封号。来源为后出的中国朝廷史书，具有自身的政治视角。"
+    }
   },
   {
     "id": "china-classics-printing-932",
@@ -89,7 +146,7 @@
       "zh": "九经雕版刊刻工程"
     },
     "start": 932,
-    "end": 932,
+    "end": 953,
     "region": "east-asia",
     "kind": "event",
     "theme": "knowledge",
@@ -105,23 +162,47 @@
     },
     "locationPrecision": "representative",
     "summary": {
-      "en": "In 932, the Later Tang court undertook a project to print the Nine Classics through its educational administration. Cutting the text into woodblocks required selecting an edition and committing resources to its reproduction. The date marks an initiative, rather than the completion of all its volumes.\n\nThe project shows how courts could use printing to transmit a shared scholarly tradition even in a period of political fragmentation.",
-      "zh": "932年，后唐朝廷经由教育机构启动九经刊刻工程。将文字刻入版木，既要选定底本，也要投入人力与物资。这个年份标记工程的启动，全部卷册并非当年刊成。\n\n这项工程说明，即使政权分立，朝廷也能通过印刷传播共同的经学传统。"
+      "en": "Could a book project outlast the court that began it? In 932, the Later Tang government ordered the National Academy to edit the Nine Classics and print them from woodblocks. The Zizhi tongjian records the completed blocks being presented in 953, under the Later Zhou—after several changes of dynasty.\n\nThe chronicle names Feng Dao, Li Yu and Tian Min in the project and comments on the texts’ subsequent circulation. The story brings editorial work into political history: scholars had to choose and check a text before carvers could reproduce it. This was an official edition, not the invention of printing or proof that everyone could obtain a copy.",
+      "zh": "一项图书工程能否比发起它的朝廷存续更久？932年，后唐命国子监校定九经、雕版印行。《资治通鉴》记载，版刻完成并呈献时已是953年的后周，中间经历了数次王朝更替。\n\n编年史在这项工程中提到冯道、李愚和田敏，并评论经书此后的传播。故事把校勘工作放回政治史：学者须先选择、核对文本，刻工才能复制。这是一次官刻工程，不是印刷术的发明，也不能证明人人都能获得书本。"
     },
     "dateNote": {
-      "en": "The year follows Jiangshan’s selected milestone. The point identifies a representative location for the story.",
-      "zh": "年份依据江山选录的历史节点。点位标记故事的代表地点。"
+      "en": "932 marks the order to edit and print; 953 marks the recorded presentation of the completed blocks. The Luoyang point represents the Later Tang court at the start, not every workshop over the full interval.",
+      "zh": "932年为校定与刊刻命令之年，953年为史书记载版成进献之年。洛阳点位代表启动时的后唐朝廷，并非整个期间所有刻印工场的位置。"
     },
     "relatedIds": [
       "china-chu-jingnan-927"
     ],
     "sources": [
       {
+        "title": "Zizhi tongjian, volume 277: Changxing 3",
+        "publisher": "Sima Guang and collaborators · Wikisource transcription",
+        "url": "https://zh.wikisource.org/wiki/資治通鑑/卷277",
+        "evidenceNote": "The 932 entry orders the National Academy to collate the Nine Classics and print them from blocks.",
+        "evidenceNoteZh": "932年记事载命国子监校定九经并雕印。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Zizhi tongjian, volume 291: Guangshun 3",
+        "publisher": "Sima Guang and collaborators · Wikisource transcription",
+        "url": "https://zh.wikisource.org/wiki/資治通鑑/卷291",
+        "evidenceNote": "The 953 entry recalls Feng Dao and Li Yu’s proposal, Tian Min’s editorial role, completion of the blocks and the chronicler’s assessment of circulation.",
+        "evidenceNoteZh": "953年记事追述冯道、李愚的建议与田敏的校勘，记版成进献，并评论经书传播。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
         "title": "Jiangshan: Southern Dynasties, Ten Kingdoms, late Tang and Western Han milestones",
         "publisher": "Jiangshan / 江山",
-        "url": "https://github.com/DeanChensj/jiangshan-map/pull/229"
+        "url": "https://github.com/DeanChensj/jiangshan-map/pull/229",
+        "evidenceNote": "Credit for the original topic selection. This pull request is not used as independent evidence for the historical claims.",
+        "evidenceNoteZh": "保留最初选题的归属。该拉取请求不作为历史论断的独立证据。"
       }
-    ]
+    ],
+    "reviewNote": {
+      "en": "The focus interval now includes completion. Both dated passages come from the same eleventh-century chronicle; they are not two independent eyewitness accounts. No numerical print run or literacy claim is inferred.",
+      "zh": "关注时段现包括工程完成。两段年代证据同出十一世纪编年史，并非两份独立现场记述；不据此推算印数或识字率。"
+    }
   },
   {
     "id": "china-salt-iron-debate-81bce",
@@ -146,22 +227,46 @@
     },
     "locationPrecision": "representative",
     "summary": {
-      "en": "In 81 BCE, a court debate in Chang’an examined the state’s role in salt and iron. Government monopolies could raise revenue and support frontier commitments. Critics questioned their burden on households and the place of government in trade and production.\n\nSet this beside the Atlas’s Western Han expansion dates. Campaigns and commanderies also depended on how the court raised and spent revenue. The surviving literary account presents opposing arguments through a later text.",
-      "zh": "公元前81年，西汉朝廷在长安讨论国家在盐铁经营中的角色。官营专卖可以增加收入、支撑边疆开支，批评者则质疑它给民户带来的负担，也追问官府应在贸易和生产中扮演什么角色。\n\n把盐铁之议与图鉴中的西汉扩张节点并读，可以看到征战和设置郡县也取决于朝廷怎样筹措与支出财赋。传世文本以后出的文学形式呈现双方论辩。"
+      "en": "Who should pay for frontier garrisons—and what should government sell? In 81 BCE, officials and selected scholars debated the Han state’s economic policies. In the transmitted Discourses on Salt and Iron, the government’s spokesman defends monopolies as a way to fund frontier expenditure. His critics say profit-seeking government burdens households and draws people away from farming.\n\nThe surviving work arranges opposing positions in dialogue. It lets readers compare arguments about livelihoods and public revenue, but it is a shaped literary account, not a verbatim recording of every speaker. Read the claims about the Xiongnu as the Han official’s case for his policy, not as a neutral description of all sides.",
+      "zh": "边塞驻军的费用应由谁负担，政府又该经营什么？公元前81年，官员与被举荐的学者讨论汉朝的经济政策。传世《盐铁论》中，官府发言者以筹措边费为理由维护专卖；批评者则认为官府逐利加重民户负担，使人离开农事。\n\n现存著作把对立立场组织成对话，供读者比较生计与国家收入之间的论辩，却不是对所有发言的逐字记录。书中有关匈奴的说法，应作为汉朝官员为政策辩护的立场来读，不能视为对各方的中立描述。"
     },
     "dateNote": {
-      "en": "The year follows Jiangshan’s selected milestone. The point identifies a representative location for the story.",
-      "zh": "年份依据江山选录的历史节点。点位标记故事的代表地点。"
+      "en": "81 BCE is the date of the court debate, not the date of every policy discussed or of the surviving textual edition. Chang’an represents the imperial court setting.",
+      "zh": "公元前81年为廷议之年，并非所论各项政策的设立年代，也不是现存文本版本的年代。长安代表朝廷背景地点。"
     },
     "relatedIds": [
       "han-dynasty"
     ],
     "sources": [
       {
+        "title": "A Record of the Debate on Salt and Iron",
+        "publisher": "Columbia University, Asia for Educators",
+        "url": "https://afe.easia.columbia.edu/main_pop/ps/ps_china-debate-salt-iron.htm",
+        "evidenceNote": "Introduction dates the debate to Emperor Zhao’s court in 81 BCE; translated excerpts present the fiscal and agrarian arguments. The atlas uses original summaries, not reproduced translation.",
+        "evidenceNoteZh": "导言将廷议置于汉昭帝朝的前81年；译文节选呈现财政与重农论辩。地图使用独立概述，不转载译文。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Discourses on Salt and Iron, volume 1: Fundamental Discussion",
+        "publisher": "Huan Kuan (compiler) · Wikisource transcription",
+        "url": "https://zh.wikisource.org/wiki/鹽鐵論/卷一",
+        "evidenceNote": "The transmitted Chinese dialogue contrasts the literati’s objections with arguments for salt and iron revenue, frontier expenditure and exchange. Statements are treated as attributed positions.",
+        "evidenceNoteZh": "传世中文对话对照文学之士的反对意见与盐铁收入、边费及交换的理由；各项主张均按发言立场解读。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
         "title": "Jiangshan: Southern Dynasties, Ten Kingdoms, late Tang and Western Han milestones",
         "publisher": "Jiangshan / 江山",
-        "url": "https://github.com/DeanChensj/jiangshan-map/pull/229"
+        "url": "https://github.com/DeanChensj/jiangshan-map/pull/229",
+        "evidenceNote": "Credit for the original topic selection. This pull request is not used as independent evidence for the historical claims.",
+        "evidenceNoteZh": "保留最初选题的归属。该拉取请求不作为历史论断的独立证据。"
       }
-    ]
+    ],
+    "reviewNote": {
+      "en": "Historical evidence now replaces the donor pull request as support for the date and arguments. The text preserves an organized debate with a perspective; it is not an unmediated record of public opinion.",
+      "zh": "日期与论辩内容现由历史资料支持，不再仅以捐赠项目的拉取请求为证。文本保存经过组织、具有立场的辩论，并非未经加工的民意记录。"
+    }
   }
 ]

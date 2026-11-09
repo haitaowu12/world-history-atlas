@@ -1,6 +1,6 @@
 // Presentation only: stable course IDs, source records and stop order are retained.
 const pair=(en,zh)=>({en,zh});
-export const RECOMMENDED_READINGS=['course-regional-pacific-cultural-work','course-early-china-evidence','course-modern-map'];
+export const RECOMMENDED_READINGS=['course-objects-world-stories','course-anshi-witnesses','course-books-poems-public-life'];
 export const READING_EDITS={
  'course-expansion-na3':{title:pair('United States and Canada: lives, work and rights','美国与加拿大：人生、劳动与权利'),summary:pair('Explore waterfront work, education, migration, public policy and community action in eight chapters. Read individual lives alongside the institutions and collective work around them.','分八章探索港口劳动、教育、迁徙、公共政策与社区行动，将个人经历与周围的制度及集体工作联系起来。')},
  'course-expansion-na2':{title:pair('North America: colonization, land and forced movement','北美：殖民、土地与强迫迁移'),summary:pair('Connect exchange and colonial claims with slavery, dispossession, education, treaties and cultural continuity. Compare the perspectives and limits of the surviving records.','将交流与殖民诉求同奴役、土地剥夺、教育、条约及文化延续联系起来，比较现存记录的视角与局限。')},
