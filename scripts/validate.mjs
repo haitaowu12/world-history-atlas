@@ -9,6 +9,7 @@ import { fileURLToPath } from 'node:url';
 import { REGIONS, validYear, activeAt, safeSourceURL, validateRecords } from '../dist/core.mjs';
 import { chinaRoutes } from '../dist/china-library.mjs';
 import { applyChinaReviews, linkChinaContext } from '../dist/china-review.mjs';
+import {auditHistoryMedia} from '../dist/history-media.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 
@@ -204,6 +205,22 @@ for (const review of [...(chinaReviews.eventReviews || []),...(chinaReviews.chro
   if (!review.note?.en || !review.note?.zh || !review.sources?.length || review.sources.some(source => !safeSourceURL(source.url) || !source.title || !source.publisher || !source.evidenceNote)) fail('China review overlay: missing claim-specific note or evidence');
 }
 const records = [...histories,...people,...linkChinaContext(reviewedChina.events,[...histories,...people])];
+// Credits and safe identities are required even when a browser can draw the image.
+try {
+  const media=JSON.parse(read('dist/data/history-media.json'));
+  const mediaErrors=auditHistoryMedia(media,records.map(r=>r.id));
+  errors.push(...mediaErrors);
+  if(!mediaErrors.length)for(const item of media.items){
+    const bytes=fs.readFileSync(path.join(root,'dist',item.file));
+    if(crypto.createHash('sha256').update(bytes).digest('hex')!==item.sha256)fail('Media '+item.id+': asset checksum mismatch');
+    if(bytes.length!==item.bytes)fail('Media '+item.id+': asset byte count mismatch');
+    if(bytes.length>750000)fail('Media '+item.id+': asset exceeds 750 KB');
+    const jpeg=bytes[0]===255&&bytes[1]===216&&bytes[2]===255;
+    const png=bytes.subarray(0,8).equals(Buffer.from([137,80,78,71,13,10,26,10]));
+    const webp=bytes.toString('ascii',0,4)==='RIFF'&&bytes.toString('ascii',8,12)==='WEBP';
+    if(!jpeg&&!png&&!webp)fail('Media '+item.id+': unrecognized image bytes');
+  }
+}catch(error){fail('Historical media: '+error.message);}
 const routes = [...JSON.parse(read('dist/data/routes.json')),...chinaRoutes(reviewedChina.library,chinaImport.manifest)];
 const courses = [...JSON.parse(read('dist/data/courses.json')),...JSON.parse(read('dist/data/'+expansionManifest.coursesFile))];
 errors.push(...auditExpansion(expansionRecords,expansionManifest,records));

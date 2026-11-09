@@ -1,6 +1,6 @@
 # Contributing
 
-Current application: **0.21.0**. This standalone repository uses `main`; run commands from its root. Current narrative manifest: `dist/data/content-expansion-v15.json` (content version 0.16.0). `npm run build:content` invokes `scripts/build-content-expansion-v15.mjs`; its additive input is `dist/data/expansion-jiangshan-review-v15.json`. V14 and earlier inputs are frozen checkpoints.
+Current application: **0.22.0**. This standalone repository uses `main`; run commands from its root. Current narrative manifest: `dist/data/content-expansion-v16.json`. `npm run build:content` invokes `scripts/build-content-expansion-v16.mjs`; its additive inputs are `dist/data/expansion-china-stories-v16.json`, `dist/data/expansion-world-stories-v16.json`, and `dist/data/story-readings-v16.json`. V15 and earlier expansion inputs are frozen checkpoints.
 
 Reading presentation lives in `dist/reading-catalog.mjs`: bilingual title/summary overrides, recommended IDs and chapter boundaries anchored to existing record IDs. The browser consumes this after loading narrative records and map anchors. Edit this layer for catalogue or chapter improvements; no content rebuild is needed. Preserve original course IDs, stop order, dates, questions and map anchors. Chapters must partition the complete sequence without dropping or duplicating records. Shared URLs retain the original absolute `step`; optional `chapter` limits navigation to a chapter. Estimates allocate the existing course duration proportionally and are not measured reading times.
 
@@ -20,7 +20,7 @@ Treat source selection and coverage as editorial choices. A named civilization, 
 
 ## Add or correct a historical entry
 
-For a correction to an existing V15 addition, edit `dist/data/expansion-jiangshan-review-v15.json` and run `npm run build:content`. For a new narrative batch, create an additive successor input and generator/manifest following the current V15 pattern; retain existing records and checkpoints. Do not modify V12–V14 files simply because older release notes name them as editable. Earlier base entries live in `dist/data/history.json`; preserve existing IDs when a supported correction is needed so notebooks and links continue to resolve.
+For a correction to a V16 story, edit its China or world input and run `npm run build:content`. For a new narrative batch, create an additive successor input and generator/manifest following the current V16 pattern; retain existing records and checkpoints. Correct frozen expansion claims through the existing evidence-review overlay rather than rewriting their source files. Earlier base entries live in `dist/data/history.json`; the four independently reviewed donor-topic stories live in `dist/data/china-donor-stories.json`. Preserve IDs when correcting them so notebooks and links continue to resolve.
 
 Each record contains:
 
@@ -59,7 +59,7 @@ Original biographies live in `dist/data/people.json`; expansion biographies live
 
 Expansion biographies require at least three supported milestones in chronological order and within the stated focus interval. Every milestone needs a location label explaining what the point represents. Do not add unsupported dates merely to satisfy this minimum; defer or narrow the profile instead.
 
-Expansion entries require at least two valid related records, an existing workstream, a bilingual `reviewLimit`, and per-source `evidenceNote`, `checkedAt` and truthful `retrieval` disclosure. Use the current addition as the schema reference: V15 uses `release: 9` and `edition: "v15"`. Earlier editions retain their own metadata; do not relabel them.
+Expansion entries require at least two valid related records, an existing workstream, a bilingual `reviewLimit`, and per-source `evidenceNote`, `checkedAt` and truthful `retrieval` disclosure. V16 also supplies `evidenceNoteZh` for inspected sources. Use the current addition as the schema reference: V16 uses `release: 10` and `edition: "v16"`. Earlier editions retain their own metadata; do not relabel them.
 
 Explain approximate dates and locations. A sequence of milestone places does not establish a documented travel path. Preserve profile IDs when adding milestones so notebooks and linked teaching materials keep working.
 
@@ -73,7 +73,7 @@ Validate `personIds` and `relatedIds` against the combined history and people co
 
 ## Guided readings and study guides
 
-Guided reading definitions are in `dist/journeys.mjs`; the validator imports them directly. Study guides are in `dist/data/courses.json`, with `recordIds`, `routeIds`, bilingual questions, an activity and an evidence policy.
+Guided reading definitions are in `dist/journeys.mjs`; the validator imports them directly. Base study guides are in `dist/data/courses.json`. The current additive story readings are in `dist/data/story-readings-v16.json` and are included by the content generator. They use `recordIds`, `routeIds`, bilingual questions, an activity and an evidence policy. When a reading needs a particular episode year, use an evidenced `mapYears` value within that record’s interval.
 
 All referenced records and routes must exist. The `world-1200` reading holds the exact year at 1200 CE, so every stop must include 1200 and the sequence must support its stated regional coverage. Check both the description and source evidence when changing a sequence.
 
@@ -95,7 +95,7 @@ The current worldwide regional layer follows [worldwide geographic method](docs/
 
 ## Run and verify
 
-No package installation or application compilation is required. After editing current narrative inputs, run `npm run build:content` before validation; the generator preserves the V14 baseline and earlier inputs. Presentation-only changes do not require regeneration.
+No package installation or application compilation is required. After editing current narrative inputs, run `npm run build:content` before validation; the generator preserves the V15 baseline and earlier expansion inputs. Presentation-only changes do not require regeneration.
 
 ```sh
 npm run serve
@@ -109,6 +109,14 @@ The first command serves the app at http://127.0.0.1:8080. Run checks in another
 For UI changes, inspect the affected behavior in a browser at desktop and narrow widths. Follow the relevant path: selected year, map snapshot, filters, detail panel, comparison, person milestone, route stop, reading step, challenge, notebook or shared link. Check keyboard focus and any error state the change affects. Report what was actually exercised; do not infer browser behavior from pure function tests.
 
 For content changes, manually review source fit. Automated checks verify structure and temporal consistency, not historical truth. Avoid broad test expansion unrelated to the changed risk.
+
+The Firebase workflow also runs `scripts/browser-acceptance.mjs` against Chrome before deployment. Its browser client is installed only in the CI runner’s temporary directory. The gate exercises the new images, source credits, portrait filter, bilingual details, reading stops, shared links, notebook preservation and missing-image/catalogue states. Screenshots, a trace and the result JSON are retained as the `browser-evidence` artifact. A local run can use `ATLAS_PLAYWRIGHT_PATH` and `ATLAS_CHROME_EXECUTABLE` to point to an existing Playwright client and Chrome installation.
+
+## Historical images and portraits
+
+Add images to `dist/assets/history-media/` and register them in `dist/data/history-media.json`. Every file needs a stable linked record, source identity, creator/date/institution, English and Chinese alt text, caption, interpretation and transformation notes, inspected source/rights URLs, a truthful inspection date, dimensions, byte count and SHA-256. Keep each image below 750 KB; prefer the source institution’s published thumbnail over an unnecessary full-resolution download.
+
+Check the actual image, source record and reuse terms. Label historical photographs, ancient royal images and later depictions separately; a later portrait does not establish a person’s appearance. Distinguish a manuscript’s writing date from the events or poems it recalls. Preserve aspect ratio and show the image-specific credit and rights beside the image. Update `dist/assets/history-media/NOTICE.md` when adding or replacing an asset. Do not download rights-reserved material merely because a narrative links to its catalogue page. A failed image must leave the narrative, caption and source link usable.
 
 ## Assets and dependencies
 

@@ -6,11 +6,12 @@ import {CONTENT_MANIFEST} from '../dist/content-expansion.mjs';
 import {buildReadingCatalog,filterReadings,chaptersFor,readingRange,READING_EDITS,READING_CHAPTERS,RECOMMENDED_READINGS} from '../dist/reading-catalog.mjs';
 const read=file=>JSON.parse(fs.readFileSync(new URL('../dist/data/'+file,import.meta.url)));
 const manifest=read(CONTENT_MANIFEST),courses=[...read('courses.json'),...read(manifest.coursesFile)];
-const records=[...['history.json','people.json','china-depth-v7.json','world-depth-v7.json','modern-continuity-v7.json'].flatMap(read),...read('china-import-manifest.json').eventFiles.flatMap(f=>read(f.path)),...manifest.files.flatMap(f=>read(f.file))];
+const records=[...['history.json','people.json','china-depth-v7.json','china-donor-stories.json','civilization-stories.json','world-depth-v7.json','modern-continuity-v7.json'].flatMap(read),...read('china-import-manifest.json').eventFiles.flatMap(f=>read(f.path)),...manifest.files.flatMap(f=>read(f.file))];
 const byId=new Map(records.map(r=>[r.id,r])),before=JSON.stringify(courses),paths=buildReadingCatalog(journeys,courses,byId);
+const expectedPathCount=journeys.length+courses.length;
 
 test('catalogue preserves every legacy identity, stop and map anchor without mutating inputs',()=>{
- assert.equal(paths.length,70);assert.equal(new Set(paths.map(p=>p.id)).size,70);
+ assert.equal(paths.length,expectedPathCount);assert.equal(new Set(paths.map(p=>p.id)).size,expectedPathCount);
  for(const source of [...journeys,...courses]){
   const actual=paths.find(p=>p.id===source.id);assert.ok(actual);
   assert.deepEqual(actual.stops,source.stops||source.recordIds);
@@ -43,7 +44,7 @@ test('search combines bilingual names and stop titles with region, theme and tim
  const theme=filterReadings(paths,{theme:'knowledge',region:'east-asia'});
  assert.ok(theme.length);assert.ok(theme.every(p=>p.themes.includes('knowledge')&&p.regions.includes('east-asia')));
  assert.equal(filterReadings(paths,{query:'no-such-reading-2917'}).length,0);
- assert.equal(filterReadings(paths).length,70);
+ assert.equal(filterReadings(paths).length,expectedPathCount);
  const missingDuration=[{...paths[0],estimatedMinutes:undefined}];assert.deepEqual(filterReadings(missingDuration,{minutes:'20'}),[]);
  assert.ok(filterReadings(paths,{query:'Sei Shonagon'}).some(p=>p.id==='course-expansion-ea2'));
 });

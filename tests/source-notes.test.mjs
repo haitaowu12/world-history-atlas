@@ -15,23 +15,24 @@ const chunks=manifest.files.map(file=>read(file.path));
 const notes=Object.assign({},...chunks);
 const esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 
-test('source descriptions are fully covered without changing the original data',()=>{
-  const original=new Set();let occurrences=0;
+test('all current source descriptions have Chinese text while frozen translation assets remain intact',()=>{
+  installSourceNoteTranslations(chunks);
   function collect(value){
     if(!value||typeof value!=='object')return;
     if(typeof value.evidenceNote==='string'&&value.evidenceNote.trim()){
-      occurrences++;original.add(value.evidenceNote);
+      // New entries can carry reviewed evidenceNoteZh alongside their English
+      // source note. Exercise the same precedence as the reader-facing view.
+      const translated=localizedSourceNote(value,'zh');
+      assert.equal(translated.missing,false,value.evidenceNote);
+      assert.match(translated.text,/[\u3400-\u9fff]/u,value.evidenceNote);
+      assert.doesNotMatch(translated.text,/中文译文仍在生成/,value.evidenceNote);
     }
     for(const child of Object.values(value))collect(child);
   }
   for(const file of fs.readdirSync(data))
     if(/\.(?:json|geojson)$/.test(file)&&!/^source-notes-zh-/.test(file))collect(read(file));
-  assert.equal(original.size,manifest.coverage.uniqueDataNotes);
-  assert.equal(occurrences,manifest.coverage.dataOccurrences);
-  for(const source of original){
-    assert.match(notes[source]||'',/[\u3400-\u9fff]/u,source);
-    assert.doesNotMatch(notes[source],/中文译文仍在生成/,source);
-  }
+  // Coverage counts in this manifest describe the frozen overlay's generation
+  // snapshot; its source bytes and all current rendered notes are checked here.
   assert.equal(Object.keys(notes).length,manifest.coverage.translations);
   for(const file of manifest.files){
     const bytes=fs.readFileSync(path.join(data,file.path));

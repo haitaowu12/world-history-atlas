@@ -37,9 +37,40 @@ jobs:
           if-no-files-found: error
           retention-days: 3
 
+  browser:
+    name: Browser acceptance
+    needs: build
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7
+        with:
+          node-version: '24'
+          package-manager-cache: false
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
+        with:
+          python-version: '3.13'
+      - name: Install browser test client
+        run: npm install --prefix "$RUNNER_TEMP/atlas-playwright" --no-save --package-lock=false --ignore-scripts playwright-core@1.62.1
+      - name: Exercise stories, portraits and source credits
+        env:
+          ATLAS_PLAYWRIGHT_PATH: ${{ runner.temp }}/atlas-playwright/node_modules/playwright-core/index.mjs
+          ATLAS_CHROME_EXECUTABLE: /usr/bin/google-chrome
+        run: node scripts/browser-acceptance.mjs
+      - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7
+        if: always()
+        with:
+          name: browser-evidence
+          path: browser-evidence
+          if-no-files-found: error
+          retention-days: 14
+
   deploy:
     name: Publish Firebase
-    needs: build
+    needs: [build, browser]
     if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
     runs-on: ubuntu-24.04
     timeout-minutes: 10

@@ -2,17 +2,17 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import {createHash} from 'node:crypto';
-import {CONTENT_MANIFEST,auditExpansion} from '../dist/content-expansion.mjs';
+import {auditExpansion} from '../dist/content-expansion.mjs';
 import {defaultState,filterRecords,validateRecords} from '../dist/core.mjs';
 import {traceForHash,traceFromHash,sharedMilestone,milestoneFromHash} from '../dist/share-context.mjs';
 const bytes=file=>fs.readFileSync(new URL('../dist/data/'+file,import.meta.url));
 const read=file=>JSON.parse(bytes(file));
-const previous=read('content-expansion-v14.json'),current=read(CONTENT_MANIFEST);
+const previous=read('content-expansion-v14.json'),current=read('content-expansion-v15.json');
 const fresh=read('expansion-jiangshan-review-v15.json');
 const all=[...['history.json','people.json','china-depth-v7.json','world-depth-v7.json','modern-continuity-v7.json'].flatMap(read),...read('china-import-manifest.json').eventFiles.flatMap(f=>read(f.path)),...current.files.flatMap(f=>read(f.file))];
 const by=new Map(all.map(r=>[r.id,r]));
 test('the Jiangshan review extends the published data without rewriting it',()=>{
- assert.equal(CONTENT_MANIFEST,'content-expansion-v15.json');assert.equal(current.version,'0.16.0');
+ assert.equal(current.addition.edition,'v15');assert.equal(current.version,'0.16.0');
  assert.equal(all.length,1911);assert.equal(by.size,all.length);assert.equal(fresh.length,2);
  for(const f of previous.files){assert.deepEqual(current.files.find(n=>n.file===f.file),f);assert.equal(createHash('sha256').update(bytes(f.file)).digest('hex'),f.sha256);}
  assert.deepEqual(validateRecords(all),[]);assert.deepEqual(auditExpansion(current.files.flatMap(f=>read(f.file)),current,all),[]);

@@ -2,15 +2,29 @@
 
 Planning baseline: V8, source commit `2517be5ebd87a12ba643823685b2bb4b8c6ca562`, 23 October 2026.
 
+Current release checkpoint: **0.22.0 / V16**, 9 November 2026, with **73 guided readings**. The [current expansion manifest](../dist/data/content-expansion-v16.json) records the selected additions and their source files. The V8 inventory and delivery sequence below remain a historical planning baseline.
+
 ## Goal and scope
 
 Build connected regional histories that explain change through time. Add political sequences, events, people, places and social history together, while keeping the main timeline focused on selected states, dynasties and comparable political formations. Adding more entries alone will not establish completeness or improve territorial coverage.
 
-This roadmap records the V8 planning baseline. The selected implementation of all three releases is documented in ; the baseline inventory and original backlog below are retained for comparison. “Gap” below means missing or insufficient standalone treatment in the current collection, not necessarily that a subject is never mentioned in another entry. Proposed subjects still require detailed research and checks against existing records before authoring.
+This roadmap retains the V8 planning baseline and records subsequent bounded progress below. “Gap” in the original backlog means missing or insufficient standalone treatment in the collection at that checkpoint, not necessarily that a subject was never mentioned in another entry. Proposed subjects still require detailed research and checks against the current records before authoring.
 
-## Current inventory
+## 0.22.0 progress: stories, evidence and images
 
-The selectable corpus contains 1,369 entries: 975 imported Jiangshan event records and 394 other entries, consisting of 370 history entries and 24 full biographies. The shared People index also contains inherited profiles; its larger headcount must not be treated as a count of full researched biographies. There are 112 records classified as political overviews across the corpus.
+| Slice | Delivered scope | Evidence and remaining limits |
+| --- | --- | --- |
+| China, CH1/CH2 | Six new bilingual stories: An–Shi war and recovery, Du Fu's *Spring View*, Yan Zhenqing's mourning draft, Su Shi's Cold Food poems and Hangzhou public work, and the Yongle Encyclopedia | [Jiangshan review and independent sources](JIANGSHAN_REVIEW_2026_11_09.md); this is a selected response to upstream topics, with no new donor code, prose or geometry import |
+| Earlier China donor stories | Four corrected entries on the Jingyuan Mutiny, Chu and Jingnan, Nine Classics printing, and the Salt and Iron debate | [Revised stories and source notes](../dist/data/china-donor-stories.json); donor provenance is retained and independent evidence supports the revised claims |
+| World stories, WA1/AF2/AF3/LA1/LA2/OC3 | Eight new bilingual stories about a copper complaint, recipes, bread and beer, goldweights, Maya cacao, Inka weaving, Marshallese charts and Tongan barkcloth | [World-story research notes](V16_WORLD_STORIES_RESEARCH.md); object dates, representative places and interpretation limits remain explicit |
+| Connected readings | Three new guided readings, bringing the total to 73 | [Reading sequences](../dist/data/story-readings-v16.json) reuse evidence-bearing records; they are teaching sequences, not reconstructed travel routes |
+| Historical images | 16 credited local images: ten portraits or depictions and six object or manuscript images | [Media research](HISTORICAL_MEDIA_2026_11_09.md), [manifest](../dist/data/history-media.json) and [image-specific notices](../dist/assets/history-media/NOTICE.md); later depictions and reproduction dates remain distinct from the subjects' lives |
+
+The 14 new stories deepen selected social, material and literary histories. They do not close the regional backlog or certify all inherited Jiangshan claims. Image availability is also uneven and should not determine which people deserve a biography.
+
+## V8 baseline inventory
+
+At the V8 checkpoint, the selectable corpus contained 1,369 entries: 975 imported Jiangshan event records and 394 other entries, consisting of 370 history entries and 24 full biographies. The shared People index also contained inherited profiles; its larger headcount must not be treated as a count of full researched biographies. There were 112 records classified as political overviews across that corpus.
 
 | Atlas region | Other entries, including full biographies | Imported event records | Full biographies |
 |---|---:|---:|---:|
@@ -25,7 +39,7 @@ The selectable corpus contains 1,369 entries: 975 imported Jiangshan event recor
 | Oceania | 32 | 0 | 2 |
 | **Total** | **394** | **975** | **24** |
 
-Counts use the application's current region assignments. Imported records originate in the China collection even when their representative location falls in another region. The nine broad region labels conceal substantial differences within regions. Counts measure inventory, not independent historical verification, quality or continuous coverage.
+These baseline counts use the V8 application's region assignments. Imported records originate in the China collection even when their representative location falls in another region. The nine broad region labels conceal substantial differences within regions. Counts measure inventory, not independent historical verification, quality or continuous coverage.
 
 Baseline files: `dist/data/history.json`, `china-depth-v7.json`, `world-depth-v7.json`, `modern-continuity-v7.json`, `people.json`, and the event files listed in `china-import-manifest.json`. Read alongside `V7_CHINA_REVIEW.md`, `V7_WORLD_RESEARCH.md`, `V7_MAP_COVERAGE_REVIEW.md` and `V8_GEOMETRY_FIX.md`.
 
@@ -68,7 +82,7 @@ The rows below are research workstreams. Large workstreams must be divided into 
 | EU2 | Early modern Europe in global context | Renaissance/Reformation anchors, Dutch Republic, Westphalia, scientific institutions | Ottoman–European interactions, Habsburg and Polish–Lithuanian histories, religion and state formation, colonial commerce, labour, science and Enlightenment. |
 | EU3 | Modern Europe beyond a few major turning points | Revolutions, industrial sites, world wars, Holocaust, Soviet Union, integration and reunification | Civilian and minority experiences; fascism and resistance; eastern Europe and the Balkans; postwar reconstruction, migration and social change. |
 
-## Proposed delivery sequence
+## Original proposed delivery sequence (V8)
 
 ### Preparation: define coverage before adding volume
 
@@ -128,4 +142,11 @@ These are starting frameworks, not blanket support for the proposed entries. Ins
 - [Te Papa Pacific Cultures research](https://tepapa.govt.nz/learn/research/pacific-cultures-research): Pacific histories and collection-based research; supplement with island-specific and community sources.
 - Existing atlas research registers already identify useful museum, archive and university leads for South Asia, Southeast Asia, East Asia, Europe and the Americas. Reuse the bibliography, while inspecting sources anew for each proposed claim.
 
-The next implementation step is to prepare individual source-and-record outlines for the first four regional batches. No additional political timeline rows or territorial shapes are implied merely by listing a topic here.
+## Next bounded content slices
+
+- **CH1/CH2 — Tang and Song lives beyond the court:** deepen a selected Gao Shi biography milestone and a local administration or household case only where independent texts and scholarship support the dates and claims. Keep the remaining An–Shi episode and chronology review separate from new storytelling.
+- **AF2/AF3 — makers, markets and work:** connect the goldweight and workshop stories to a bounded local account of production or exchange, using regional scholarship and named makers where the evidence preserves them.
+- **SA2/SE1/SE2 — port and workshop histories:** select a small South or Southeast Asian case that connects existing political entries to merchants, textile production or skilled work; inspect existing records before creating new IDs.
+- **NA1/OC3 — community accounts and material knowledge:** develop one nation- or island-specific case from community and institutional sources, with living traditions, colonial collection context and image permissions stated where applicable.
+
+Continue adding portraits to existing biographies when an attributable image and usable rights statement are available, retaining the image's date and representation limits. Each next slice needs its own source-and-record outline and explicit deferred scope; listing a topic here does not authorize an unsupported political timeline row or territorial shape.

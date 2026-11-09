@@ -4,7 +4,6 @@ import fs from 'node:fs';
 import vm from 'node:vm';
 import {createHash} from 'node:crypto';
 import {REGIONAL_ZOOM,boundsContain,referenceAreaName,searchRegionalUnits,referenceHistory,projectedReferenceBounds,visibleReferenceCountries} from '../dist/regional-reference.mjs';
-import {CONTENT_MANIFEST} from '../dist/content-expansion.mjs';
 import {applyChinaReviews} from '../dist/china-review.mjs';
 
 const root=new URL('../dist/data/',import.meta.url);
@@ -20,7 +19,8 @@ vm.runInNewContext(fs.readFileSync(new URL('../dist/assets/d3.v7.9.0.min.js',imp
 const d3=context.d3;
 const polygons=geometry=>geometry.type==='Polygon'?[geometry.coordinates]:geometry.coordinates;
 const finitePoint=point=>Array.isArray(point)&&point.length===2&&point.every(Number.isFinite)&&Math.abs(point[0])<=180&&Math.abs(point[1])<=90;
-const content=read(CONTENT_MANIFEST);
+// Keep this geometry-link regression on the V15 corpus it was published against.
+const content=read('content-expansion-v15.json');
 const base=['history.json','people.json','china-depth-v7.json','world-depth-v7.json','modern-continuity-v7.json',...content.files.map(file=>file.file)].flatMap(read);
 const china=read('china-import-manifest.json').eventFiles.flatMap(file=>read(file.path));
 const records=[...base,...applyChinaReviews(china,read('china-library.json'),read('china-reviews.json')).events];

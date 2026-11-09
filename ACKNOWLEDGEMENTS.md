@@ -12,6 +12,8 @@ The contribution is substantive: this atlas adapts attributed Jiangshan event na
 
 The pinned source's MIT license text and README's GPL-3.0 statement are both preserved. The atlas does not resolve that discrepancy by declaring all inherited material MIT or CC BY. The older inherited political and administrative polygons were removed from the current distribution; the [boundary review](docs/JIANGSHAN_BOUNDARY_RIGHTS_REVIEW_2026_10_28.md) records that decision and remaining non-polygon provenance questions. Historical notices and older commits are retained as history.
 
+For **0.22.0**, the [9 November 2026 review](docs/JIANGSHAN_REVIEW_2026_11_09.md) compares the intervening Jiangshan changes through upstream commit [`5be0dd1`](https://github.com/DeanChensj/jiangshan-map/tree/5be0dd1ae8550ea7376dde6aa95dd9c4eabe827e). Selected An–Shi, Su Shi and institutional topics informed six new China stories, researched from independent historical texts, scholarship and institutional records. Four earlier Jiangshan-inspired stories also received independent source corrections. This update imports no new donor code, prose or geometry; earlier inherited material keeps its existing attribution and notices.
+
 World History Atlas is maintained independently by Tony Wu. These credits do not imply endorsement by Jiangshan's authors or any source provider.
 
 特别感谢 DeanChensj 和江山时序的贡献者们。你们把地点、人物和事件放回地图中的方式，为这个项目提供了重要启发。普天之下也继承并改编了有明确归属的江山资料；这些贡献及其原始声明会继续保留。
@@ -39,6 +41,14 @@ The table is an entry point to source-specific attribution, transformations and 
 Thank you to the museums, libraries, archives, universities, heritage institutions, researchers and community organizations whose work helps put these histories in context. Individual entries and source notes link the evidence used for particular claims. The [source registry](docs/history-source-registry.json), [data policy](docs/DATA_POLICY.md) and [map methodology](docs/MAP_METHODOLOGY.md) explain the different roles of narrative sources, dates, representative locations and map geometry.
 
 A citation does not imply endorsement or transfer the rights in a source page. Source inspection, historical interpretation and translation remain open to correction. The collection is selective and does not claim complete or evenly distributed coverage.
+
+The 0.22.0 additions comprise **14 original bilingual stories**: six about China and eight about objects, work and knowledge across other regions. The [China review](docs/JIANGSHAN_REVIEW_2026_11_09.md) and [world-story research notes](docs/V16_WORLD_STORIES_RESEARCH.md) identify the selected evidence and its limits. Three new guided readings connect these additions, bringing the atlas to **73 guided readings**.
+
+## Historical portraits and object images
+
+The 0.22.0 image collection adds **16 locally held images**, including **ten portraits or depictions of historical people** and **six object or manuscript images**. Thank you to the named photographers, artists, collections and digitization contributors credited in the [image notice](dist/assets/history-media/NOTICE.md), including The Metropolitan Museum of Art, the National Palace Museum in Taipei, and Wikimedia Commons contributors and their source institutions.
+
+The [media manifest](dist/data/history-media.json) records each creator, collection, source, date, representation limit and applicable rights statement. It distinguishes a photograph or surviving object from a later depiction; a portrait is not automatically an eyewitness likeness. Image-specific public-domain, CC0 and CC BY-SA terms remain separate from the atlas's original-text license. The [media research notes](docs/HISTORICAL_MEDIA_2026_11_09.md) document this selection.
 
 ## Development and reuse
 

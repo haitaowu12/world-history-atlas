@@ -3,7 +3,6 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs';import vm from 'node:vm';import {createHash} from 'node:crypto';
 import {historicalContextFeatures} from '../dist/atlas-model.mjs';
 import {historicalCollection,historicalMetadata} from './map-fixtures.mjs';
-import {CONTENT_MANIFEST,auditExpansion} from '../dist/content-expansion.mjs';
 const bytes=f=>fs.readFileSync(new URL('../dist/data/'+f,import.meta.url));const read=f=>JSON.parse(bytes(f));
 const all=historicalCollection.features.filter(f=>!['historical-basemaps-china-review','remsen-warring-250','kiu-song-jin-1141','herrmann-ming-1415','historical-basemaps-regional-gaps','historical-basemaps-three-region-transitions','woudloper-gupta-schematic','woudloper-gupta-schematic-later-gaps','historical-basemaps-later-gaps','hiribarren-borno-regional-context','woudloper-gupta-successor-schematic','soewinhan-toungoo-sphere'].includes(f.properties.sourceDataset)),newRows=all.filter(f=>f.properties.sourceDataset==='historical-basemaps-early-regional');
 const at=y=>historicalContextFeatures(all,y),find=(y,id)=>at(y).find(f=>f.properties.polityId===id);
@@ -34,7 +33,7 @@ test('new source instances retain pins, finite windows and transport budgets',()
  for(const f of newRows){const p=f.properties;assert.equal(p.sourceCommit,'da7a4b735ecef70aebdc9c73e409d8a2500d50f3');assert.equal(p.license,'GPL-3.0-only');assert.ok(Number.isInteger(p.contextValidity.start)&&Number.isInteger(p.contextValidity.end));assert.ok(p.sourceFeatureIndices.length);assert.match(p.note.en,/not an annual frontier/);assert.ok(Number.isFinite(d3.geoArea(f)));}
 });
 test('V14 preserves prior content and separates undated tradition from archaeological dates',()=>{
- assert.equal(CONTENT_MANIFEST,'content-expansion-v15.json');const m=read('content-expansion-v14.json'),prior=read('content-expansion-v13.json'),fresh=read('expansion-early-china-v14.json');assert.equal(m.version,'0.15.0');assert.equal(fresh.length,3);
+ const checkpoint=read('content-expansion-v15.json');assert.equal(checkpoint.baseline.manifest,'content-expansion-v14.json');const m=read(checkpoint.baseline.manifest),prior=read('content-expansion-v13.json'),fresh=read('expansion-early-china-v14.json');assert.equal(m.version,'0.15.0');assert.equal(fresh.length,3);
  for(const f of prior.files){assert.deepEqual(m.files.find(x=>x.file===f.file),f);assert.equal(createHash('sha256').update(bytes(f.file)).digest('hex'),f.sha256);}
  const rows=m.files.flatMap(f=>read(f.file)),guide=read(m.earlyChinaGuideFile),yu=guide.items.find(i=>i.id==='yu-shun');assert.equal(yu.calendarRange,null);assert.equal(yu.recordId,undefined);assert.equal(yu.mapYear,undefined);assert.match(yu.summary.zh,/与“大禹”的“禹”分开/);
  assert.match(fresh.find(r=>r.id.startsWith('xia-')).dateNote.en,/unconfirmed/);assert.equal(fresh.find(r=>r.id.startsWith('xia-')).kind,'idea');

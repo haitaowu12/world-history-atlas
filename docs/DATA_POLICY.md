@@ -1,6 +1,8 @@
 # Historical data policy
 
-Current 0.13.0 addendum: [dated Americas and map-view method](AMERICAS_HISTORY_013.md) governs the separate Newberry/NRCan references, source-window replacement, palette and History / Modern geography view behavior. Earlier source-specific details below remain historical documentation; US/Canada are no longer universally represented by modern reference outlines.
+Current release: **0.22.0**, with **73 guided readings**, 14 new bilingual stories, four corrected earlier China donor stories and 16 credited local historical images. The [9 November Jiangshan review](JIANGSHAN_REVIEW_2026_11_09.md), [world-story research](V16_WORLD_STORIES_RESEARCH.md) and [image notice](../dist/assets/history-media/NOTICE.md) record the scope and source-specific limits.
+
+The retained 0.13.0 addendum on [dated Americas and the map-view method](AMERICAS_HISTORY_013.md) governs the separate Newberry/NRCan references, source-window replacement, palette and History / Modern geography view behavior. Earlier source-specific details below remain historical documentation; US/Canada are no longer universally represented by modern reference outlines.
 
 World History Atlas is an educational collection of selected histories. Its records, people, routes and maps answer different questions and have different evidence requirements. A missing entry or uncolored area never means that a region was uninhabited, ungoverned or lacked history.
 
@@ -25,6 +27,9 @@ The supported narrative range, 13,000 BCE–2026 CE, describes this release's ed
 | `china-library.json` and its place and settlement chunks | Original profile directory, seven chronicles, city notes, gazetteer, passes, era-place rows, reign names and schematic corridors |
 | `china-reviews.json` | Separate claim-specific corrections and annotations applied to selected imported events and chronicle stops |
 | `courses.json` and `journeys.mjs` | Editorial reading sequences and study prompts linked to existing records |
+| `expansion-china-stories-v16.json` and `expansion-world-stories-v16.json` | Six China stories and eight world stories with claim-specific evidence, bilingual date notes and representative-location explanations |
+| `story-readings-v16.json` | Three new editorial reading sequences connected to the source-bearing records |
+| `history-media.json` and `assets/history-media/` | Sixteen historical images with separate attribution, rights, representation limits, bilingual captions and file-integrity records |
 | `territories*.geojson` and `map-snapshots.json` | Source-specific approximate geometry with actual source years and reviewed display periods |
 | `contemporary-world-*.geojson` and its manifest | Dated reference country and territory geography, with source vintage and a reviewed display interval |
 | Natural Earth assets | Present-day reference geography for orientation |
@@ -109,9 +114,9 @@ A cultural range must be marked as `kind: "culture"`, visually distinguished and
 
 ### Source-specific notices
 
-Historical Basemaps geometry, AWMC geometry and Jiangshan schematics remain in separate files with separate license notices. The application code's MIT license does not relicense them.
+Historical Basemaps and AWMC geometry retain separate files and source-specific license notices. Notices for retired Jiangshan polygon files remain as historical attribution. The application code's MIT license does not relicense third-party material.
 
-The three Jiangshan shapes are explicitly labeled **“Jiangshan schematic outline”** and retain their original focus intervals. The upstream README declares GPL-3.0 while its root LICENSE is MIT; both notices are preserved. The source references several historical resources without identifying each outline's derivation. Document that unresolved provenance rather than asserting that the outlines were copied from CHGIS or that all upstream material is MIT. No CHGIS download is included in this release. See [the preserved notice](../dist/data/territories-jiangshan.LICENSE.md).
+Earlier releases included three shapes labeled **“Jiangshan schematic outline”** with their original focus intervals. Those political and administrative polygons were removed from the current distribution in 0.17.0; the [removal and replacement review](JIANGSHAN_BOUNDARY_RIGHTS_REVIEW_2026_10_28.md) and [preserved notice](../dist/data/territories-jiangshan.LICENSE.md) retain their history. The pinned source's README declared GPL-3.0 while its root LICENSE was MIT; both notices remain documented. Its references did not establish each outline's derivation or a uniform license. The [9 November review](JIANGSHAN_REVIEW_2026_11_09.md) examines later upstream notices without importing new geometry or resolving the remaining non-polygon lineage questions by assumption.
 
 Do not generate a missing territory from a capital point, a circle, modern country borders or an unsupported freehand shape. A new schematic needs explicit historical map evidence, permissible reuse, a date and an honest statement of its precision.
 
@@ -173,4 +178,17 @@ The divided China reading period includes separate northern and southern court c
 
 Baltic occupation hatches use the last separate CShapes units before Soviet annexation. They show Soviet occupation in 1940 and German occupation in 1942–1943. The hatches omit the 1941 and 1944 transitions, when an annual color would obscure the change in control. The Philippine hatch uses the contemporary CShapes archipelago reference for 1942–1943. These selected areas illustrate broad occupation context alongside local stories of changing control and resistance.
 
-The [Jiangshan milestone additions](https://github.com/DeanChensj/jiangshan-map/pull/229) inform four original bilingual readings on the Jingyuan Mutiny, Chu and Jingnan, the Nine Classics printing project, and the Salt and Iron debate. The event years and representative locations help readers find the stories on the map. The readings separate the selected events from their historical interpretation.
+The [Jiangshan milestone additions](https://github.com/DeanChensj/jiangshan-map/pull/229) supplied topic leads for four original bilingual stories on the Jingyuan Mutiny, Chu and Jingnan, the Nine Classics printing project, and the Salt and Iron debate. Their 0.22.0 corrections in [china-donor-stories.json](../dist/data/china-donor-stories.json) cite independent historical evidence for the revised claims and retain the donor credit. A source pull request records provenance; it does not independently verify the event years, places or interpretation.
+
+## 9. Story evidence and historical images in 0.22.0
+
+The six new China stories and eight new world stories follow the same claim-level policy as the rest of the original corpus. Their source records include `checkedAt`, `evidenceNote` and retrieval status; bilingual date notes explain the difference between an event, a text's composition, a surviving manuscript and an object's attributed production period. Object findspots, possible production regions and orientation points must remain distinguished. The [Jiangshan review](JIANGSHAN_REVIEW_2026_11_09.md) supplies topic provenance and deferred questions; this update adds original synthesis without importing donor code, prose or geometry.
+
+Historical image evidence has a separate scope:
+
+1. Match the image to the identified person or object and retain the creator, collection, source page and image date. Identify later depictions and unknown makers without inventing a likeness or attribution.
+2. Keep the subject's dates separate from the date of a portrait, photograph, manuscript or surviving copy. A manuscript image may illustrate a story about an earlier composition.
+3. Inspect the image's own rights statement. Record its download URL, transformations, dimensions and checksum in [history-media.json](../dist/data/history-media.json), and retain the applicable terms in the [image notice](../dist/assets/history-media/NOTICE.md). A historical citation alone supplies no image permission.
+4. Provide bilingual captions and alt text, including uncertainty that changes how the image should be read. The 0.22.0 selection includes ten portraits or depictions and six object or manuscript images; its distribution is selective, not a claim that every person has a documented portrait.
+
+These source notes and image records describe a bounded editorial review. They do not certify the entire inherited corpus, and automated checks cannot replace inspection of the cited evidence.

@@ -1,0 +1,822 @@
+{
+  "version": 1,
+  "reviewedAt": "2026-11-09",
+  "policy": {
+    "en": "Images illustrate particular records. Later portrayals, original objects and historical photographs are identified separately; no image is evidence for an unrecorded scene. Image-specific rights remain separate from the atlas text license.",
+    "zh": "图像用于说明特定记录。后世描绘、实物及历史照片分别标明；任何图像都不被当作未获文献支持的场景的证据。各图像的使用条款独立于图鉴文字许可证。"
+  },
+  "items": [
+    {
+      "id": "charles-darwin",
+      "file": "assets/history-media/charles-darwin.jpg",
+      "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Charles_Darwin_by_Julia_Margaret_Cameron%2C_c._1868_-_Original.jpg/960px-Charles_Darwin_by_Julia_Margaret_Cameron%2C_c._1868_-_Original.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Charles_Darwin_by_Julia_Margaret_Cameron%2C_c._1868_-_Original.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charles_Darwin_by_Julia_Margaret_Cameron,_c._1868_-_Original.jpg",
+      "width": 960,
+      "height": 1192,
+      "sha256": "844963d671bc92846cdf142c5028c6667bfd11137226bbbd64b377073b213499",
+      "bytes": 228033,
+      "recordIds": [
+        "person-darwin"
+      ],
+      "kind": "portrait",
+      "representation": "historical-photograph",
+      "title": {
+        "en": "Charles Darwin, photographed around 1868",
+        "zh": "查尔斯·达尔文，约1868年摄"
+      },
+      "alt": {
+        "en": "A side-facing photographic portrait of Charles Darwin with a long beard.",
+        "zh": "留着长胡须的查尔斯·达尔文侧身照片。"
+      },
+      "caption": {
+        "en": "Julia Margaret Cameron, photograph about 1868, this carbon print made in 1875. Art Institute of Chicago, Alfred Stieglitz Collection, 1949.881; via Wikimedia Commons.",
+        "zh": "朱莉娅·玛格丽特·卡梅伦约1868年摄，这张碳素照片印于1875年。芝加哥艺术博物馆阿尔弗雷德·施蒂格利茨收藏，编号1949.881；经维基共享资源提供。"
+      },
+      "creator": "Julia Margaret Cameron",
+      "date": "Photograph c. 1868; print 1875",
+      "institution": "Art Institute of Chicago, Alfred Stieglitz Collection",
+      "interpretation": {
+        "en": "The sitting and printing dates differ. This is a historical photographic portrait, not a scene from the Beagle voyage.",
+        "zh": "拍摄日期与照片印制日期不同。这是历史肖像照片，并非“小猎犬”号航行中的场景。"
+      },
+      "checkedAt": "2026-11-09",
+      "retrieval": "Object/file page and rights statement opened; downloaded bytes decoded and visually inspected.",
+      "rights": {
+        "label": "Public domain",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "note": {
+          "en": "The linked Wikimedia Commons file page records the public-domain basis for this image. Retain the named creator and collection when reusing.",
+          "zh": "所链接的维基共享资源文件页记录其公共领域依据。再利用时请保留具名作者与收藏机构。"
+        }
+      },
+      "rightsSourceUrl": "https://commons.wikimedia.org/wiki/File:Charles_Darwin_by_Julia_Margaret_Cameron,_c._1868_-_Original.jpg",
+      "transformation": {
+        "en": "Wikimedia-provided image or thumbnail, saved without local visual edits. Existing source restorations are credited separately.",
+        "zh": "保存维基共享资源提供的图像或缩略图，未作本地视觉修改；来源已有的修复另行注明。"
+      }
+    },
+    {
+      "id": "harriet-tubman",
+      "file": "assets/history-media/harriet-tubman.jpg",
+      "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Harriet_Tubman_c1868-69.jpg/960px-Harriet_Tubman_c1868-69.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Harriet_Tubman_c1868-69.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Harriet_Tubman_c1868-69.jpg",
+      "width": 960,
+      "height": 1538,
+      "sha256": "e7ca51f27e5c7eb1ce366e16067d13167095ba6582ba12c6f3566a907e42ee94",
+      "bytes": 436662,
+      "recordIds": [
+        "person-harriet-tubman"
+      ],
+      "kind": "portrait",
+      "representation": "historical-photograph",
+      "title": {
+        "en": "Harriet Tubman, 1868–1869",
+        "zh": "哈丽雅特·塔布曼，1868—1869年"
+      },
+      "alt": {
+        "en": "A seated Harriet Tubman in a long dress, one arm resting on a chair.",
+        "zh": "身着长裙的哈丽雅特·塔布曼坐像，一只手臂靠在椅背上。"
+      },
+      "caption": {
+        "en": "Benjamin F. Powelson photographed Tubman in Auburn, New York, in 1868–1869. This carte-de-visite preserves a portrait from her lifetime. Image via Wikimedia Commons.",
+        "zh": "本杰明·F·鲍威尔森于1868—1869年在纽约州奥本拍摄塔布曼。这张名片式照片出自她在世时。图像由维基共享资源提供。"
+      },
+      "creator": "Benjamin F. Powelson",
+      "date": "1868–1869",
+      "institution": "Wikimedia Commons; source image from Swann Galleries",
+      "interpretation": {
+        "en": "A posed historical photograph; it does not depict an Underground Railroad rescue or wartime action.",
+        "zh": "这是一张摆拍的历史照片，并非地下铁路营救或战时行动的现场记录。"
+      },
+      "checkedAt": "2026-11-09",
+      "retrieval": "Object/file page and rights statement opened; downloaded bytes decoded and visually inspected.",
+      "rights": {
+        "label": "Public domain",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "note": {
+          "en": "The linked Wikimedia Commons file page records the public-domain basis for this image. Retain the named creator and collection when reusing.",
+          "zh": "所链接的维基共享资源文件页记录其公共领域依据。再利用时请保留具名作者与收藏机构。"
+        }
+      },
+      "rightsSourceUrl": "https://commons.wikimedia.org/wiki/File:Harriet_Tubman_c1868-69.jpg",
+      "transformation": {
+        "en": "Wikimedia-provided image or thumbnail, saved without local visual edits. Existing source restorations are credited separately.",
+        "zh": "保存维基共享资源提供的图像或缩略图，未作本地视觉修改；来源已有的修复另行注明。"
+      }
+    },
+    {
+      "id": "hatshepsut",
+      "file": "assets/history-media/hatshepsut.jpg",
+      "downloadedFrom": "https://images.metmuseum.org/CRDImages/eg/web-large/DP-24215-002.jpg",
+      "imageUrl": "https://images.metmuseum.org/CRDImages/eg/original/DP-24215-002.jpg",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/544450",
+      "width": 468,
+      "height": 624,
+      "sha256": "a03bfeaf8df5ce2ab399620c06c72e75aab3bb26b0f92ed34ad9276490e428c4",
+      "bytes": 41820,
+      "recordIds": [
+        "person-hatshepsut"
+      ],
+      "kind": "portrait",
+      "representation": "ancient-royal-image",
+      "title": {
+        "en": "Hatshepsut represented as king",
+        "zh": "作为国王形象的哈特谢普苏特"
+      },
+      "alt": {
+        "en": "A seated limestone statue of Hatshepsut wearing a royal headcloth and kilt.",
+        "zh": "哈特谢普苏特的石灰岩坐像，戴王室头巾、穿短裙。"
+      },
+      "caption": {
+        "en": "Seated statue, about 1473–1458 BCE. The Metropolitan Museum of Art, 29.3.2; Rogers Fund, 1929. The sculpture presents Hatshepsut in royal dress.",
+        "zh": "坐像，约公元前1473—1458年。大都会艺术博物馆藏，29.3.2；罗杰斯基金，1929年。雕像呈现身着王室服饰的哈特谢普苏特。"
+      },
+      "creator": "Ancient Egyptian sculptor(s), names unrecorded",
+      "date": "c. 1473–1458 BCE",
+      "institution": "The Metropolitan Museum of Art",
+      "interpretation": {
+        "en": "An ancient royal image from her reign. Ceremonial representation is not a photographic record of appearance.",
+        "zh": "出自其统治时期的古代王室形象。礼仪性造像并不是容貌的摄影记录。"
+      },
+      "checkedAt": "2026-11-09",
+      "retrieval": "Object/file page and rights statement opened; downloaded bytes decoded and visually inspected.",
+      "accessionNumber": "29.3.2",
+      "creditLine": "Rogers Fund, 1929",
+      "rights": {
+        "label": "CC0 1.0 — The Met Open Access",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "The object is marked Public Domain; The Met releases this image under its Open Access CC0 policy.",
+          "zh": "该藏品标注为公共领域；大都会艺术博物馆按开放获取CC0政策发布此图像。"
+        }
+      },
+      "rightsSourceUrl": "https://www.metmuseum.org/policies/image-resources",
+      "transformation": {
+        "en": "Museum-provided web-size image; no local crop, recoloring or reconstruction.",
+        "zh": "采用馆方提供的网络尺寸图像；未在本地裁剪、改色或重构。"
+      }
+    },
+    {
+      "id": "kartini",
+      "file": "assets/history-media/kartini.jpg",
+      "downloadedFrom": "https://upload.wikimedia.org/wikipedia/commons/2/23/COLLECTIE_TROPENMUSEUM_Portret_van_Raden_Ajeng_Kartini_TMnr_10018776.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/COLLECTIE_TROPENMUSEUM_Portret_van_Raden_Ajeng_Kartini_TMnr_10018776.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:COLLECTIE_TROPENMUSEUM_Portret_van_Raden_Ajeng_Kartini_TMnr_10018776.jpg",
+      "width": 534,
+      "height": 700,
+      "sha256": "cd7ae4f203be99e971d0639d06dc2901fb6c8321b6e7092a2bc3901e178a50da",
+      "bytes": 52918,
+      "recordIds": [
+        "person-kartini"
+      ],
+      "kind": "portrait",
+      "representation": "historical-photograph",
+      "title": {
+        "en": "Kartini, photographed between 1890 and 1904",
+        "zh": "卡蒂尼，摄于1890—1904年之间"
+      },
+      "alt": {
+        "en": "Black-and-white portrait of Kartini wearing a patterned blouse.",
+        "zh": "身着花纹上衣的卡蒂尼黑白肖像。"
+      },
+      "caption": {
+        "en": "Photographer unknown, 1890–1904. Collectie Wereldmuseum (formerly Tropenmuseum), part of the National Museum of World Cultures, object 10018776; supplied through Wikimedia Commons.",
+        "zh": "摄影者不详，摄于1890—1904年。荷兰国家世界文化博物馆所属世界博物馆（原热带博物馆）藏，编号10018776；经维基共享资源提供。"
+      },
+      "creator": "Unknown photographer",
+      "date": "1890–1904",
+      "institution": "Collectie Wereldmuseum (v/h Tropenmuseum), part of the National Museum of World Cultures",
+      "interpretation": {
+        "en": "A photograph from Kartini’s lifetime. The archive gives a date range, not an exact sitting date.",
+        "zh": "卡蒂尼在世时的照片。馆藏目录给出的是日期范围，并无确切拍摄日。"
+      },
+      "rights": {
+        "label": "CC BY-SA 3.0",
+        "url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "note": {
+          "en": "Retain the museum credit and this license. The distributed file is the supplied 534 × 700 image, unchanged. Adaptations must follow the share-alike terms.",
+          "zh": "保留博物馆署名及本许可证。所发布的是馆方提供的534×700图像，未作修改；改编作品须遵循相同方式共享条款。"
+        }
+      },
+      "checkedAt": "2026-11-09",
+      "retrieval": "Object/file page and rights statement opened; downloaded bytes decoded and visually inspected.",
+      "rightsSourceUrl": "https://commons.wikimedia.org/wiki/File:COLLECTIE_TROPENMUSEUM_Portret_van_Raden_Ajeng_Kartini_TMnr_10018776.jpg",
+      "transformation": {
+        "en": "Wikimedia-provided image or thumbnail, saved without local visual edits. Existing source restorations are credited separately.",
+        "zh": "保存维基共享资源提供的图像或缩略图，未作本地视觉修改；来源已有的修复另行注明。"
+      }
+    },
+    {
+      "id": "liliuokalani",
+      "file": "assets/history-media/liliuokalani.jpg",
+      "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Liliuokalani%2C_c._1891.jpg/960px-Liliuokalani%2C_c._1891.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Liliuokalani%2C_c._1891.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Liliuokalani,_c._1891.jpg",
+      "width": 960,
+      "height": 1260,
+      "sha256": "d13bc9f9688678d47e4d47814ffc79c5d053ceb42660e551f214d5ff1df61186",
+      "bytes": 196743,
+      "recordIds": [
+        "person-liliuokalani"
+      ],
+      "kind": "portrait",
+      "representation": "historical-photograph",
+      "title": {
+        "en": "Liliʻuokalani, around 1891",
+        "zh": "莉莉乌奥卡拉尼，约1891年"
+      },
+      "alt": {
+        "en": "Liliʻuokalani seated in a formal dress and sash, with handwritten words beside the photograph.",
+        "zh": "莉莉乌奥卡拉尼身着礼服、佩绶带而坐，照片一侧有手写题字。"
+      },
+      "caption": {
+        "en": "James J. Williams, about 1891; Library of Congress image ppmsca.53150. Digital restoration by Adam Cuerden, via Wikimedia Commons. The inscription on the print is dated 1916.",
+        "zh": "詹姆斯·J·威廉斯，约1891年；美国国会图书馆图像ppmsca.53150。亚当·屈尔登作数字修复，经维基共享资源提供。照片上的题字日期为1916年。"
+      },
+      "creator": "James J. Williams; digital restoration by Adam Cuerden",
+      "date": "c. 1891; inscription 1916; digital restoration 2019",
+      "institution": "Library of Congress, Prints and Photographs Division; Wikimedia Commons",
+      "interpretation": {
+        "en": "A photograph made during her lifetime, preserved in a later inscribed print. The inscription date is not the date of the portrait sitting.",
+        "zh": "生前拍摄的照片，现存照片上有后加题字。题字日期不等于拍摄日期。"
+      },
+      "checkedAt": "2026-11-09",
+      "retrieval": "Object/file page and rights statement opened; downloaded bytes decoded and visually inspected.",
+      "rights": {
+        "label": "Public domain",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "note": {
+          "en": "The linked Wikimedia Commons file page records the public-domain basis for this image. Retain the named creator and collection when reusing.",
+          "zh": "所链接的维基共享资源文件页记录其公共领域依据。再利用时请保留具名作者与收藏机构。"
+        }
+      },
+      "rightsSourceUrl": "https://commons.wikimedia.org/wiki/File:Liliuokalani,_c._1891.jpg",
+      "transformation": {
+        "en": "Wikimedia-provided image or thumbnail, saved without local visual edits. Existing source restorations are credited separately.",
+        "zh": "保存维基共享资源提供的图像或缩略图，未作本地视觉修改；来源已有的修复另行注明。"
+      }
+    },
+    {
+      "id": "mansa-musa",
+      "file": "assets/history-media/mansa-musa.jpg",
+      "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Catalan_Atlas_BNF_Sheet_6_Mansa_Musa.jpg/960px-Catalan_Atlas_BNF_Sheet_6_Mansa_Musa.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Catalan_Atlas_BNF_Sheet_6_Mansa_Musa.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Catalan_Atlas_BNF_Sheet_6_Mansa_Musa.jpg",
+      "width": 960,
+      "height": 685,
+      "sha256": "ac4038d779bd1c054fdf845192839b50d952b8dca5b0b220c1ccae86e8e71f6a",
+      "bytes": 229955,
+      "recordIds": [
+        "person-mansa-musa"
+      ],
+      "kind": "portrait",
+      "representation": "later-depiction",
+      "title": {
+        "en": "Mansa Musa in the Catalan Atlas",
+        "zh": "加泰罗尼亚地图集中的曼萨·穆萨"
+      },
+      "alt": {
+        "en": "A crowned seated ruler holding a gold object, surrounded by labels and geographic lines on parchment.",
+        "zh": "羊皮纸地图上，一位戴冠的统治者坐着手持金色物件，周围有文字及地理线条。"
+      },
+      "caption": {
+        "en": "Detail of the Catalan Atlas, 1375, attributed to Abraham Cresques. Bibliothèque nationale de France, Espagnol 30, via Wikimedia Commons.",
+        "zh": "《加泰罗尼亚地图集》局部，1375年，归于亚伯拉罕·克雷斯克斯。法国国家图书馆藏，Espagnol 30，经维基共享资源提供。"
+      },
+      "creator": "Attributed to Abraham Cresques",
+      "date": "1375",
+      "institution": "Bibliothèque nationale de France, Département des manuscrits",
+      "interpretation": {
+        "en": "A European cartographic portrayal made after Musa’s reign. Its crown and gold express how the mapmaker represented royal power and wealth; they are not a verified likeness.",
+        "zh": "这是穆萨统治结束后的欧洲地图形象。王冠与黄金表现制图者对王权和财富的理解，并非经过证实的本人容貌。"
+      },
+      "checkedAt": "2026-11-09",
+      "retrieval": "Object/file page and rights statement opened; downloaded bytes decoded and visually inspected.",
+      "rights": {
+        "label": "Public domain",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "note": {
+          "en": "The linked Wikimedia Commons file page records the public-domain basis for this image. Retain the named creator and collection when reusing.",
+          "zh": "所链接的维基共享资源文件页记录其公共领域依据。再利用时请保留具名作者与收藏机构。"
+        }
+      },
+      "rightsSourceUrl": "https://commons.wikimedia.org/wiki/File:Catalan_Atlas_BNF_Sheet_6_Mansa_Musa.jpg",
+      "transformation": {
+        "en": "Wikimedia-provided image or thumbnail, saved without local visual edits. Existing source restorations are credited separately.",
+        "zh": "保存维基共享资源提供的图像或缩略图，未作本地视觉修改；来源已有的修复另行注明。"
+      }
+    },
+    {
+      "id": "marie-curie",
+      "file": "assets/history-media/marie-curie.jpg",
+      "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Marie_Curie_c._1920s_-_original.jpg/960px-Marie_Curie_c._1920s_-_original.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/Marie_Curie_c._1920s_-_original.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marie_Curie_c._1920s_-_original.jpg",
+      "width": 960,
+      "height": 1321,
+      "sha256": "cdf66f2fccef29d910f06b8c78ca756952b0db93e28965f9f1ae8b0e9ea2ea8b",
+      "bytes": 235013,
+      "recordIds": [
+        "person-marie-curie"
+      ],
+      "kind": "portrait",
+      "representation": "historical-photograph",
+      "title": {
+        "en": "Marie Curie, around 1920",
+        "zh": "玛丽·居里，约1920年"
+      },
+      "alt": {
+        "en": "Black-and-white head-and-shoulders photograph of Marie Curie wearing a dark jacket.",
+        "zh": "玛丽·居里身着深色外套的黑白半身照片。"
+      },
+      "caption": {
+        "en": "Henri Manuel’s portrait of Marie Curie, dated around 1920 in the file record. The source version without restoration is retained through Wikimedia Commons.",
+        "zh": "亨利·马努埃尔拍摄的玛丽·居里肖像，文件记录约为1920年。此处采用维基共享资源保留的未修复版本。"
+      },
+      "creator": "Henri Manuel",
+      "date": "c. 1920",
+      "institution": "Wikimedia Commons",
+      "interpretation": {
+        "en": "A photograph from Curie’s lifetime. The approximate date describes the portrait, not a particular discovery or award.",
+        "zh": "居里在世时的照片。约略日期仅指拍摄时间，不对应某项发现或获奖时刻。"
+      },
+      "checkedAt": "2026-11-09",
+      "retrieval": "Object/file page and rights statement opened; downloaded bytes decoded and visually inspected.",
+      "rights": {
+        "label": "Public domain",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "note": {
+          "en": "The linked Wikimedia Commons file page records the public-domain basis for this image. Retain the named creator and collection when reusing.",
+          "zh": "所链接的维基共享资源文件页记录其公共领域依据。再利用时请保留具名作者与收藏机构。"
+        }
+      },
+      "rightsSourceUrl": "https://commons.wikimedia.org/wiki/File:Marie_Curie_c._1920s_-_original.jpg",
+      "transformation": {
+        "en": "Wikimedia-provided image or thumbnail, saved without local visual edits. Existing source restorations are credited separately.",
+        "zh": "保存维基共享资源提供的图像或缩略图，未作本地视觉修改；来源已有的修复另行注明。"
+      }
+    },
+    {
+      "id": "murasaki-hiroshige",
+      "file": "assets/history-media/murasaki-hiroshige.png",
+      "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Murasaki_Shikibu_by_Hiroshige.png/500px-Murasaki_Shikibu_by_Hiroshige.png",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Murasaki_Shikibu_by_Hiroshige.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Murasaki_Shikibu_by_Hiroshige.png",
+      "width": 500,
+      "height": 251,
+      "sha256": "7b840ac6ae26de33952bff5723c27a44cbd78d7c5481f412756a1d2d9dd7cf9f",
+      "bytes": 234514,
+      "recordIds": [
+        "person-murasaki"
+      ],
+      "kind": "portrait",
+      "representation": "later-depiction",
+      "title": {
+        "en": "Murasaki Shikibu imagined at Ishiyama",
+        "zh": "石山寺中的紫式部：后世想象"
+      },
+      "alt": {
+        "en": "A three-panel woodblock print showing a woman on a veranda above a lake landscape under the moon.",
+        "zh": "三联木版画：月下湖景上方的廊台中坐着一位女子。"
+      },
+      "caption": {
+        "en": "Utagawa Hiroshige, about 1855: a later image of Murasaki Shikibu at Ishiyama Temple, within a view of Ōmi. Museum of Fine Arts, Boston source, via Wikimedia Commons.",
+        "zh": "歌川广重，约1855年：近江景色中的石山寺紫式部形象，是后世创作。来源为波士顿美术博物馆，经维基共享资源提供。"
+      },
+      "creator": "Utagawa Hiroshige",
+      "date": "c. 1855",
+      "institution": "Museum of Fine Arts, Boston; image via Wikimedia Commons",
+      "interpretation": {
+        "en": "Made centuries after Murasaki’s life. This is an artistic remembrance, not a contemporary likeness or proof that a specific writing scene occurred.",
+        "zh": "创作时间距紫式部生活的时代已有数百年。这是艺术性追忆，并非同时代肖像，也不能证明某个写作场景确曾发生。"
+      },
+      "checkedAt": "2026-11-09",
+      "retrieval": "Object/file page and rights statement opened; downloaded bytes decoded and visually inspected.",
+      "rights": {
+        "label": "Public domain",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "note": {
+          "en": "The linked Wikimedia Commons file page records the public-domain basis for this image. Retain the named creator and collection when reusing.",
+          "zh": "所链接的维基共享资源文件页记录其公共领域依据。再利用时请保留具名作者与收藏机构。"
+        }
+      },
+      "rightsSourceUrl": "https://commons.wikimedia.org/wiki/File:Murasaki_Shikibu_by_Hiroshige.png",
+      "transformation": {
+        "en": "Wikimedia-provided image or thumbnail, saved without local visual edits. Existing source restorations are credited separately.",
+        "zh": "保存维基共享资源提供的图像或缩略图，未作本地视觉修改；来源已有的修复另行注明。"
+      }
+    },
+    {
+      "id": "sor-juana",
+      "file": "assets/history-media/sor-juana.jpg",
+      "downloadedFrom": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Retrato_de_Sor_Juana_In%C3%A9s_de_la_Cruz_-_c.1750_-_Miguel_Cabrera_-_Museo_Nacional_de_Historia_-_Castillo_Chapultepec.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Retrato_de_Sor_Juana_In%C3%A9s_de_la_Cruz_-_c.1750_-_Miguel_Cabrera_-_Museo_Nacional_de_Historia_-_Castillo_Chapultepec.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Retrato_de_Sor_Juana_In%C3%A9s_de_la_Cruz_-_c.1750_-_Miguel_Cabrera_-_Museo_Nacional_de_Historia_-_Castillo_Chapultepec.jpg",
+      "width": 890,
+      "height": 1235,
+      "sha256": "243ad401734c3149165e81d32abd17b1ff77d0562f18af4716ab35c0b81ad458",
+      "bytes": 625665,
+      "recordIds": [
+        "person-sor-juana"
+      ],
+      "kind": "portrait",
+      "representation": "later-depiction",
+      "title": {
+        "en": "Sor Juana, painted in 1750",
+        "zh": "1750年绘制的胡安娜肖像"
+      },
+      "alt": {
+        "en": "Sor Juana in a nun’s habit, seated beside an open book with bookshelves behind her.",
+        "zh": "修女装束的胡安娜坐在摊开的书旁，背后是一排书架。"
+      },
+      "caption": {
+        "en": "Miguel Cabrera’s 1750 portrait of Sor Juana Inés de la Cruz. Museo Nacional de Historia, Mexico; image via Wikimedia Commons.",
+        "zh": "米格尔·卡布雷拉1750年绘制的胡安娜·伊内斯·德·拉·克鲁斯肖像。墨西哥国家历史博物馆藏，经维基共享资源提供。"
+      },
+      "creator": "Miguel Cabrera",
+      "date": "1750",
+      "institution": "Museo Nacional de Historia, INAH, Mexico",
+      "interpretation": {
+        "en": "Painted after Sor Juana’s death in 1695. The books and setting construct a learned public image; this is not a portrait painted from life.",
+        "zh": "画作晚于胡安娜1695年去世。书籍与环境塑造博学的公共形象，并非生前写生。"
+      },
+      "checkedAt": "2026-11-09",
+      "retrieval": "Object/file page and rights statement opened; downloaded bytes decoded and visually inspected.",
+      "rights": {
+        "label": "Public domain",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "note": {
+          "en": "The linked Wikimedia Commons file page records the public-domain basis for this image. Retain the named creator and collection when reusing.",
+          "zh": "所链接的维基共享资源文件页记录其公共领域依据。再利用时请保留具名作者与收藏机构。"
+        }
+      },
+      "rightsSourceUrl": "https://commons.wikimedia.org/wiki/File:Retrato_de_Sor_Juana_In%C3%A9s_de_la_Cruz_-_c.1750_-_Miguel_Cabrera_-_Museo_Nacional_de_Historia_-_Castillo_Chapultepec.jpg",
+      "transformation": {
+        "en": "Wikimedia-provided image or thumbnail, saved without local visual edits. Existing source restorations are credited separately.",
+        "zh": "保存维基共享资源提供的图像或缩略图，未作本地视觉修改；来源已有的修复另行注明。"
+      }
+    },
+    {
+      "id": "xuanzang",
+      "file": "assets/history-media/xuanzang.jpg",
+      "downloadedFrom": "https://images.metmuseum.org/CRDImages/as/web-large/DP-15580-007.jpg",
+      "imageUrl": "https://images.metmuseum.org/CRDImages/as/original/DP-15580-007.jpg",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/45372",
+      "width": 385,
+      "height": 624,
+      "sha256": "9f6bcfcc323c5016ed819448ae706c79715b4de2b2aab15ccef99ed287043fdd",
+      "bytes": 75793,
+      "recordIds": [
+        "person-xuanzang"
+      ],
+      "kind": "portrait",
+      "representation": "later-depiction",
+      "title": {
+        "en": "Xuanzang remembered in medieval Japan",
+        "zh": "中世纪日本对玄奘的追忆"
+      },
+      "alt": {
+        "en": "A painted scroll showing the seated monk Xuanzang with a standing attendant.",
+        "zh": "绘画挂轴中，玄奘端坐，身旁有一位站立的侍者。"
+      },
+      "caption": {
+        "en": "Fourteenth-century Japanese scroll, in the style of Kasuga Motomitsu. The Metropolitan Museum of Art, 29.160.29; H. O. Havemeyer Collection, Gift of Horace Havemeyer, 1929.",
+        "zh": "十四世纪日本挂轴，春日基光风格。大都会艺术博物馆藏，29.160.29；H. O. 哈维迈耶收藏，霍勒斯·哈维迈耶1929年捐赠。"
+      },
+      "creator": "Japanese artist, in the style of Kasuga Motomitsu",
+      "date": "14th century",
+      "institution": "The Metropolitan Museum of Art",
+      "interpretation": {
+        "en": "A later religious portrayal of a seventh-century monk, made to express Buddhist lineage and authority. It is not a contemporary likeness.",
+        "zh": "这是对七世纪僧人的后世宗教描绘，用以表达佛教传承与权威，并非同时代肖像。"
+      },
+      "checkedAt": "2026-11-09",
+      "retrieval": "Object/file page and rights statement opened; downloaded bytes decoded and visually inspected.",
+      "accessionNumber": "29.160.29",
+      "creditLine": "H. O. Havemeyer Collection, Gift of Horace Havemeyer, 1929",
+      "rights": {
+        "label": "CC0 1.0 — The Met Open Access",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "The object is marked Public Domain; The Met releases this image under its Open Access CC0 policy.",
+          "zh": "该藏品标注为公共领域；大都会艺术博物馆按开放获取CC0政策发布此图像。"
+        }
+      },
+      "rightsSourceUrl": "https://www.metmuseum.org/policies/image-resources",
+      "transformation": {
+        "en": "Museum-provided web-size image; no local crop, recoloring or reconstruction.",
+        "zh": "采用馆方提供的网络尺寸图像；未在本地裁剪、改色或重构。"
+      }
+    },
+    {
+      "id": "akan-goldweight",
+      "file": "assets/history-media/akan-goldweight.jpg",
+      "downloadedFrom": "https://images.metmuseum.org/CRDImages/ao/web-large/DP102138.jpg",
+      "imageUrl": "https://images.metmuseum.org/CRDImages/ao/original/DP102138.jpg",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/317676",
+      "width": 600,
+      "height": 542,
+      "sha256": "026c401196d15d37913bff7f62aac7d037b7475f16e1b33186fe124e75726d20",
+      "bytes": 32784,
+      "recordIds": [
+        "akan-goldweights-measure-trade"
+      ],
+      "kind": "object",
+      "representation": "object-photograph",
+      "title": {
+        "en": "A geometric Akan goldweight",
+        "zh": "阿坎几何纹称金砝码"
+      },
+      "alt": {
+        "en": "A small rectangular brass weight with a central ring and short raised bars.",
+        "zh": "小型长方形黄铜砝码，中间有圆环，两侧有短凸条。"
+      },
+      "caption": {
+        "en": "Akan brass goldweight, sixteenth–seventeenth century. The Metropolitan Museum of Art, 1994.312.4; Gift of Ernst Anspach, 1994.",
+        "zh": "阿坎黄铜称金砝码，十六至十七世纪。大都会艺术博物馆藏，1994.312.4；恩斯特·安斯帕赫1994年捐赠。"
+      },
+      "creator": "Akan artist, name unrecorded",
+      "date": "16th–17th century",
+      "institution": "The Metropolitan Museum of Art",
+      "interpretation": {
+        "en": "The object is brass, used in weighing gold; it is not itself a gold coin. The broader Akan attribution is retained rather than assigning it to a later named kingdom.",
+        "zh": "器物为黄铜材质，用于称量黄金，本身并非金币。此处保留较广泛的阿坎归属，不擅自归于后来的特定王国。"
+      },
+      "checkedAt": "2026-11-09",
+      "retrieval": "Object/file page and rights statement opened; downloaded bytes decoded and visually inspected.",
+      "accessionNumber": "1994.312.4",
+      "creditLine": "Gift of Ernst Anspach, 1994",
+      "rights": {
+        "label": "CC0 1.0 — The Met Open Access",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "The object is marked Public Domain; The Met releases this image under its Open Access CC0 policy.",
+          "zh": "该藏品标注为公共领域；大都会艺术博物馆按开放获取CC0政策发布此图像。"
+        }
+      },
+      "rightsSourceUrl": "https://www.metmuseum.org/policies/image-resources",
+      "transformation": {
+        "en": "Museum-provided web-size image; no local crop, recoloring or reconstruction.",
+        "zh": "采用馆方提供的网络尺寸图像；未在本地裁剪、改色或重构。"
+      }
+    },
+    {
+      "id": "inka-tunic",
+      "file": "assets/history-media/inka-tunic.jpg",
+      "downloadedFrom": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-14281-001.jpg",
+      "imageUrl": "https://images.metmuseum.org/CRDImages/ao/original/DP-14281-001.jpg",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/751901",
+      "width": 551,
+      "height": 625,
+      "sha256": "9d4307c5d813c39c176b5af6c70391d4305a123714f9b286fe9f997bc39f5b5c",
+      "bytes": 95369,
+      "recordIds": [
+        "inka-imperial-tunic-story"
+      ],
+      "kind": "object",
+      "representation": "object-photograph",
+      "title": {
+        "en": "An Inka checkerboard tunic",
+        "zh": "印加棋盘格纹上衣"
+      },
+      "alt": {
+        "en": "A woven tunic with a red yoke and black-and-white checkerboard pattern.",
+        "zh": "一件红色肩部、黑白棋盘格纹的织物上衣。"
+      },
+      "caption": {
+        "en": "Tapestry-woven tunic, 1400–1535 CE. The Metropolitan Museum of Art, 2017.674; Purchase, Fletcher Fund, Claudia Quentin Gift, and Harris Brisbane Dick Fund, 2017.",
+        "zh": "挂毯式织法上衣，公元1400—1535年。大都会艺术博物馆藏，2017.674；弗莱彻基金、克劳迪娅·昆廷捐赠及哈里斯·布里斯班·迪克基金于2017年购藏。"
+      },
+      "creator": "Inka artist(s), names unrecorded",
+      "date": "1400–1535 CE",
+      "institution": "The Metropolitan Museum of Art",
+      "interpretation": {
+        "en": "An actual surviving garment. The collection does not identify its original wearer or an exact production place.",
+        "zh": "这是一件实际存世的衣物。馆藏记录未确定其原穿着者或精确制作地点。"
+      },
+      "checkedAt": "2026-11-09",
+      "retrieval": "Object/file page and rights statement opened; downloaded bytes decoded and visually inspected.",
+      "accessionNumber": "2017.674",
+      "creditLine": "Purchase, Fletcher Fund, Claudia Quentin Gift, and Harris Brisbane Dick Fund, 2017",
+      "rights": {
+        "label": "CC0 1.0 — The Met Open Access",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "The object is marked Public Domain; The Met releases this image under its Open Access CC0 policy.",
+          "zh": "该藏品标注为公共领域；大都会艺术博物馆按开放获取CC0政策发布此图像。"
+        }
+      },
+      "rightsSourceUrl": "https://www.metmuseum.org/policies/image-resources",
+      "transformation": {
+        "en": "Museum-provided web-size image; no local crop, recoloring or reconstruction.",
+        "zh": "采用馆方提供的网络尺寸图像；未在本地裁剪、改色或重构。"
+      }
+    },
+    {
+      "id": "maya-cacao-vessel",
+      "file": "assets/history-media/maya-cacao-vessel.jpg",
+      "downloadedFrom": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-15497-005.jpg",
+      "imageUrl": "https://images.metmuseum.org/CRDImages/ao/original/DP-15497-005.jpg",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/761272",
+      "width": 600,
+      "height": 497,
+      "sha256": "664988c62a3493583098410f1a8bfd6dbdc83f354c7698f70eab92eadf5589e7",
+      "bytes": 95557,
+      "recordIds": [
+        "maya-cacao-vessel-story"
+      ],
+      "kind": "object",
+      "representation": "object-photograph",
+      "title": {
+        "en": "A Maya cup for cacao",
+        "zh": "玛雅可可杯"
+      },
+      "alt": {
+        "en": "A dark ceramic vessel carved with a long-necked waterbird and curling plants.",
+        "zh": "深色陶杯上雕刻着长颈水鸟与卷曲的植物纹样。"
+      },
+      "caption": {
+        "en": "Maya vessel with a waterbird and hieroglyphic text, 600–900 CE. The Metropolitan Museum of Art, 2017.396; Gift of Justin Kerr and Dicey Taylor, 2017.",
+        "zh": "饰有水鸟及象形文字的玛雅陶杯，公元600—900年。大都会艺术博物馆藏，2017.396；贾斯廷·克尔与戴西·泰勒2017年捐赠。"
+      },
+      "creator": "Maya artist(s), names unrecorded",
+      "date": "600–900 CE",
+      "institution": "The Metropolitan Museum of Art",
+      "interpretation": {
+        "en": "The object’s inscription identifies a cacao-drinking vessel. Its style suggests northern Yucatán; the image alone cannot establish an exact findspot.",
+        "zh": "器物上的铭文表明它用于饮用可可。其风格指向尤卡坦北部；仅凭图像无法确定精确出土地。"
+      },
+      "checkedAt": "2026-11-09",
+      "retrieval": "Object/file page and rights statement opened; downloaded bytes decoded and visually inspected.",
+      "accessionNumber": "2017.396",
+      "creditLine": "Gift of Justin Kerr and Dicey Taylor, 2017",
+      "rights": {
+        "label": "CC0 1.0 — The Met Open Access",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "The object is marked Public Domain; The Met releases this image under its Open Access CC0 policy.",
+          "zh": "该藏品标注为公共领域；大都会艺术博物馆按开放获取CC0政策发布此图像。"
+        }
+      },
+      "rightsSourceUrl": "https://www.metmuseum.org/policies/image-resources",
+      "transformation": {
+        "en": "Museum-provided web-size image; no local crop, recoloring or reconstruction.",
+        "zh": "采用馆方提供的网络尺寸图像；未在本地裁剪、改色或重构。"
+      }
+    },
+    {
+      "id": "meketre-bakery",
+      "file": "assets/history-media/meketre-bakery.jpg",
+      "downloadedFrom": "https://images.metmuseum.org/CRDImages/eg/web-large/DT208237.jpg",
+      "imageUrl": "https://images.metmuseum.org/CRDImages/eg/original/DT208237.jpg",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/544258",
+      "width": 498,
+      "height": 625,
+      "sha256": "1b321cefd8d9a4503f5bb4111ddf2964f9332d06c6263b0ca17e5952b7102ae9",
+      "bytes": 54439,
+      "recordIds": [
+        "meketre-bakery-brewery-model"
+      ],
+      "kind": "object",
+      "representation": "object-photograph",
+      "title": {
+        "en": "A bakery and brewery in miniature",
+        "zh": "微缩面包坊与酿酒坊"
+      },
+      "alt": {
+        "en": "A wooden architectural model with small figures working in two rooms.",
+        "zh": "木制建筑模型中的小人正在两个房间里劳动。"
+      },
+      "caption": {
+        "en": "Model from Meketre’s tomb, about 1981–1975 BCE. The Metropolitan Museum of Art, 20.3.12; Rogers Fund and Edward S. Harkness Gift, 1920.",
+        "zh": "梅克特拉墓出土模型，约公元前1981—1975年。大都会艺术博物馆藏，20.3.12；罗杰斯基金及爱德华·S·哈克尼斯1920年捐赠。"
+      },
+      "creator": "Ancient Egyptian maker(s), names unrecorded",
+      "date": "c. 1981–1975 BCE",
+      "institution": "The Metropolitan Museum of Art",
+      "interpretation": {
+        "en": "A funerary model of food production. It illustrates represented work and tools, not a surveyed floor plan or a complete record of everyday labour.",
+        "zh": "表现食品生产的随葬模型。它展示被表现的劳动与工具，并非实测平面图或日常劳动的完整记录。"
+      },
+      "checkedAt": "2026-11-09",
+      "retrieval": "Object/file page and rights statement opened; downloaded bytes decoded and visually inspected.",
+      "accessionNumber": "20.3.12",
+      "creditLine": "Rogers Fund and Edward S. Harkness Gift, 1920",
+      "rights": {
+        "label": "CC0 1.0 — The Met Open Access",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "The object is marked Public Domain; The Met releases this image under its Open Access CC0 policy.",
+          "zh": "该藏品标注为公共领域；大都会艺术博物馆按开放获取CC0政策发布此图像。"
+        }
+      },
+      "rightsSourceUrl": "https://www.metmuseum.org/policies/image-resources",
+      "transformation": {
+        "en": "Museum-provided web-size image; no local crop, recoloring or reconstruction.",
+        "zh": "采用馆方提供的网络尺寸图像；未在本地裁剪、改色或重构。"
+      }
+    },
+    {
+      "id": "su-cold-food",
+      "file": "assets/history-media/su-cold-food.jpg",
+      "downloadedFrom": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1856291&randomCode=1142338327",
+      "imageUrl": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=1856291&randomCode=1142338327",
+      "sourceUrl": "https://digitalarchive.npm.gov.tw/opendata/Pub/DetailEng/14714?dep=P&mode=full",
+      "width": 600,
+      "height": 443,
+      "sha256": "704c8e6c402a875d74721749483e2c77d9af0b477232e8cfb623aa0ce3229df5",
+      "bytes": 81338,
+      "recordIds": [
+        "china-su-shi-cold-food-1082"
+      ],
+      "kind": "manuscript",
+      "representation": "manuscript-detail",
+      "title": {
+        "en": "Su Shi’s Cold Food poems in calligraphy",
+        "zh": "苏轼寒食诗墨迹"
+      },
+      "alt": {
+        "en": "A section of Su Shi’s calligraphy with changing character sizes, red seals, and a photographic color scale.",
+        "zh": "苏轼书法局部，字形大小有变化，旁有红印及拍摄色标。"
+      },
+      "caption": {
+        "en": "The Cold Food Observance, Su Shi. Poems composed in 1082; the surviving calligraphy was transcribed later. National Palace Museum, Taipei, 購書001001. This detail shows the poems, not the scroll’s later title panel.",
+        "zh": "苏轼《寒食帖》。诗作成于1082年，存世墨迹为此后书写。台北故宫博物院藏，购书001001。此局部展示诗文，非卷首后加的题字。"
+      },
+      "creator": "Su Shi",
+      "date": "Poems composed 1082; calligraphy transcribed later, Northern Song",
+      "institution": "National Palace Museum, Taipei",
+      "interpretation": {
+        "en": "The poem’s composition date must not be treated as a securely dated writing session for this scroll. The complete object includes later seals and inscriptions.",
+        "zh": "不能将诗歌写作年份当作此卷墨迹书写时刻的确证。全卷还包括后加的印章与题跋。"
+      },
+      "checkedAt": "2026-11-09",
+      "retrieval": "Object/file page and rights statement opened; downloaded bytes decoded and visually inspected.",
+      "rights": {
+        "label": "CC0 1.0 — NPM presentation image",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "The source page identifies lower/presentation images as CC0. This is its public 600-pixel gallery image, with its scale and color bar preserved.",
+          "zh": "来源页将低分辨率／展示用图像标为CC0。此处采用其公开的600像素画廊图像，保留标尺与色标。"
+        }
+      },
+      "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/opendata/Pub/DetailEng/14714?dep=P&mode=full",
+      "transformation": {
+        "en": "A museum-photographed detail, downloaded unchanged from the public gallery; no local cropping or retouching.",
+        "zh": "直接保存馆方公开画廊中的局部照片，未作本地裁剪或修饰。"
+      }
+    },
+    {
+      "id": "yan-requiem",
+      "file": "assets/history-media/yan-requiem.jpg",
+      "downloadedFrom": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=519371&randomCode=85156012033",
+      "imageUrl": "https://digitalarchive.npm.gov.tw/opendata/Image/GetImage?imageId=519371&randomCode=85156012033",
+      "sourceUrl": "https://digitalarchive.npm.gov.tw/opendata/Pub/DetailEng/3?dep=P&mode=full",
+      "width": 600,
+      "height": 449,
+      "sha256": "5770ef66d5bee97bf146aa50bb34ae4161d92a6859a5c18728b911bd86cfae95",
+      "bytes": 95366,
+      "recordIds": [
+        "china-yan-zhenqing-nephew-758"
+      ],
+      "kind": "manuscript",
+      "representation": "manuscript-detail",
+      "title": {
+        "en": "Yan Zhenqing’s draft of mourning",
+        "zh": "颜真卿的祭文草稿"
+      },
+      "alt": {
+        "en": "Ink calligraphy with crossings-out and additions, preserved with red collector seals and a photographic scale.",
+        "zh": "墨书手稿中可见涂改和增补，旁有红色收藏印及拍摄标尺。"
+      },
+      "caption": {
+        "en": "Draft of a Requiem for My Nephew, Yan Zhenqing, 758. National Palace Museum, Taipei, 故書000060. Detail from the museum’s presentation image; the photographic scale is retained.",
+        "zh": "颜真卿《祭侄文稿》，758年。台北故宫博物院藏，故书000060。采用馆方展示图像的局部，保留拍摄标尺。"
+      },
+      "creator": "Yan Zhenqing",
+      "date": "758",
+      "institution": "National Palace Museum, Taipei",
+      "interpretation": {
+        "en": "A detail of a surviving written document, not an illustration of the battle. Later collection seals belong to the object’s subsequent history.",
+        "zh": "这是一份存世文字文献的局部，并非战斗场景的图画。后加收藏印属于此物的后续流传历史。"
+      },
+      "checkedAt": "2026-11-09",
+      "retrieval": "Object/file page and rights statement opened; downloaded bytes decoded and visually inspected.",
+      "rights": {
+        "label": "CC0 1.0 — NPM presentation image",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "The source page identifies lower/presentation images as CC0. This is its public 600-pixel gallery image, with its scale and color bar preserved.",
+          "zh": "来源页将低分辨率／展示用图像标为CC0。此处采用其公开的600像素画廊图像，保留标尺与色标。"
+        }
+      },
+      "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/opendata/Pub/DetailEng/3?dep=P&mode=full",
+      "transformation": {
+        "en": "A museum-photographed detail, downloaded unchanged from the public gallery; no local cropping or retouching.",
+        "zh": "直接保存馆方公开画廊中的局部照片，未作本地裁剪或修饰。"
+      }
+    }
+  ]
+}

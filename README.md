@@ -26,7 +26,15 @@ Inspired by that work, and with help from OpenAI Codex, I built World History At
 - Follow short guided readings or explore longer sequences in chapters.
 - Save entries and personal notes in your browser, and export your notebook.
 
-The current application is **0.21.0**, with **70 guided readings**. This is a growing educational project with selected coverage. Maps have their own source dates and limits; an empty area does not mean an absence of people or history. Historical corrections, translation feedback and suggestions from different regional perspectives are welcome.
+The current application is **0.22.0**, with **73 guided readings**. This is a growing educational project with selected coverage. Maps have their own source dates and limits; an empty area does not mean an absence of people or history. Historical corrections, translation feedback and suggestions from different regional perspectives are welcome.
+
+## Stories and images in 0.22.0
+
+- **14 new bilingual stories:** six China stories follow the An–Shi crisis through surviving words, Su Shi's poems and public work, and the Yongle Encyclopedia. Eight world stories explore a copper complaint, recipes, bread and beer, goldweights, Maya cacao, Inka weaving, Marshallese navigation and Tongan barkcloth.
+- **Four corrected earlier China stories:** the Jingyuan Mutiny, Chu and Jingnan, the Nine Classics printing project, and the Salt and Iron debate now have claim-specific evidence beyond their Jiangshan topic leads.
+- **16 credited local historical images:** ten portraits or depictions of historical people and six object or manuscript images, with bilingual captions, dates, representation limits and source links. Image rights are recorded individually in the [media notice](dist/assets/history-media/NOTICE.md).
+
+The [9 November Jiangshan review](docs/JIANGSHAN_REVIEW_2026_11_09.md) records selected topics, source checks and deferred work. This update uses those topics for original, independently sourced atlas writing; it imports no new Jiangshan code, prose or geometry. Three new guided readings connect the additions: **History in your hands**, **The Tang crisis through surviving words**, and **Books, poems and public work**. See the [content roadmap](docs/CONTENT_EXPANSION_PLAN.md) for the next bounded slices.
 
 ## Thank you to Jiangshan and the source community
 
@@ -54,7 +62,7 @@ Read [CONTRIBUTING.md](CONTRIBUTING.md) and the [data policy](docs/DATA_POLICY.m
 
 ## Reuse and attribution
 
-Original application code and documentation use [MIT](LICENSE). Original historical summaries and teaching material use [CC BY 4.0](docs/CONTENT_LICENSE.md). Imported narratives, map layers, quotations, translations and dependencies retain their own notices. The repository is a mixed-license collection; neither MIT nor CC BY covers every file. Read [Acknowledgements & sources](ACKNOWLEDGEMENTS.md) and the [content and third-party notices](docs/CONTENT_LICENSE.md) before reusing material.
+Original application code and documentation use [MIT](LICENSE). Original historical summaries and teaching material use [CC BY 4.0](docs/CONTENT_LICENSE.md). Imported narratives, map layers, quotations, translations and dependencies retain their own notices. Historical images have [file-specific credits and rights](dist/assets/history-media/NOTICE.md). The repository is a mixed-license collection; neither MIT nor CC BY covers every file. Read [Acknowledgements & sources](ACKNOWLEDGEMENTS.md) and the [content and third-party notices](docs/CONTENT_LICENSE.md) before reusing material.
 
 This standalone repository retains the atlas-specific development history extracted from the earlier fork. Historical source links and old commit references remain valid in that fork.
 
