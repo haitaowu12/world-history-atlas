@@ -6,7 +6,7 @@ import {warYears,warMapFollowup} from './war-map.mjs';
 import {compactPoliticalTimeline} from './compact-timeline.mjs?v=3';
 import {createAtlasMotion} from './ui-motion.mjs?v=1';
 import {buildReadingCatalog,readingRange} from './reading-catalog.mjs?v=2';
-import {createReadingBrowser} from './reading-browser.mjs?v=2';
+import {createReadingBrowser} from './reading-browser.mjs?v=3';
 import {traceForHash,traceFromHash,sharedMilestone,milestoneFromHash} from './share-context.mjs?v=1';
 import {installSourceNoteTranslations,sourceNoteHTML} from './source-notes.mjs?v=1';
 import {createAmericasLoader,composeAmericasFeatures,readingStepYear,americasParentLabels} from './americas-history.mjs?v=2';
@@ -27,7 +27,7 @@ import {composeHistoricalFeatures,outlineCaption,reviewSchematicName} from './ma
 import {politicalTimelineRecords,politicalTimelineLanes,politicalTimelineLabel} from './political-timeline.mjs?v=2';
 import {recordSearchText,relatedRecords} from './core.mjs';
 import {chinaRoutes} from './china-library.mjs?v=1';
-import {createDiscovery} from './discovery.mjs?v=23';
+import {createDiscovery} from './discovery.mjs?v=24';
 import {createHistoryReferences} from './history-reference.mjs?v=34';
 import {applyChinaReviews,linkChinaContext} from './china-review.mjs';
 import {MIN_YEAR,MAX_YEAR,REGIONS,THEMES,TIME_ANCHORS,normalizeYear,validYear,addYears,formatYear,formatPeriod,yearFromSlider,sliderFromYear,activeAt,filterRecords,contemporaries,stateFromHash,hashFromState,defaultState,validateRecords,validateNotebook,mergeNotebooks,toOrdinal,fromOrdinal} from './core.mjs';
@@ -763,7 +763,7 @@ function wireEvents(){
  case 'journey-next':{
   const action=button.dataset.action;
   advanceJourney(action==='journey-prev'?-1:1);
-  if(isPersonPath()){
+  if((journey||route||isPersonPath())&&!$('#dialog').open){
    const replacement=$(`#journey-strip [data-action="${action}"]`);
    (replacement?.disabled?$('#journey-strip h3'):replacement)?.focus({preventScroll:true});
   }
@@ -775,7 +775,12 @@ function wireEvents(){
  case 'open-person-milestones':
   closeDialog();selectStory(id,{focus:false});visitMilestone(id,0);fitPersonPath();revealPersonMap();break;
  case 'journey-stop':if(selected?.milestones)endedPerson=selected.id;clearPaths();render();break;
- case 'path-stop':if(journey){journeyIndex=index;visitJourneyStop();}else if(route)visitRouteStop(index);else if(selected?.milestones)visitMilestone(selected.id,index);break;
+ case 'path-stop':
+  if(journey){journeyIndex=index;visitJourneyStop();}
+  else if(route)visitRouteStop(index);
+  else if(selected?.milestones)visitMilestone(selected.id,index);
+  $('#journey-strip [aria-current="step"]')?.focus({preventScroll:true});
+  break;
  case 'route-library':showJourneys('routes');break;
  case 'reading-library':showJourneys('reading');break;
  case 'open-route':openRoute(id);break;
@@ -901,6 +906,16 @@ async function init(){try{
  if(layers.view==='history')try{await americasLoader.load(state.year);}catch(error){console.warn('Dated Americas context unavailable:',error.message);americasFailures.set(state.year,error.message);}restoreDatedDivisionFromURL();
  if(territorySelection?.properties.contemporary)layers=selectMapView(layers,'history');
  applyLanguage();regionalExplorer=createRegionalExplorer({historyAdditionFile:expansionManifest.regionalHistoryFile,records,getState:()=>state,getRoot:()=>root,getProjection:()=>projection,getTransform:()=>transform,getViewport:()=>({width,height}),getLabelObstacles:()=>markerObstacles,labelsEnabled:()=>layers.labels,getHistoricalDivisions:()=>layers.view==='history'&&layers.territories?americasLoader.peek(state.year):[],excludeModernCountries:()=>layers.view==='history'&&layers.territories?americasLoader.covered(state.year):new Set(),isChallenge:()=>!!challenge,enabled:()=>layers.regions&&!warFocusActive,setEnabled:value=>{layers.regions=value;try{localStorage.setItem('world-history-atlas-layers-v2',JSON.stringify(layers));}catch{}renderLayerMenu();},loadJSON,openDialog,closeDialog,focusLocation:(location,scale)=>focusLocation(location,scale,true),prepareMap:()=>{stopPlayback();clearPaths();clearSelection();state.region='all';state.query='';state.theme='all';state.savedOnly=false;kind='all';render();},onNavigate:updateURL,cachedPath,esc,sourceLink,formatPeriod,showTooltip,hideTooltip});
- initializeMap();wireEvents();render();exposeAPI();if(selected||route||territorySelection||placeSelection)focusCurrentSelection();restoreDirectorySelection();
- }catch(error){console.error('Atlas initialization failed:',error);$('#stories').innerHTML=`<div class="fatal"><strong>${t('loadError')}</strong><p>${esc(error.message)}</p><button id="retry-load" class="secondary-button">Reload</button></div>`;$('#retry-load').addEventListener('click',()=>location.reload());$('#map-date').textContent=state.lang==='zh'?'加载失败':'Unable to load';document.querySelectorAll('.timeline button,.timeline input,.timeline select').forEach(el=>el.disabled=true);}}
+ initializeMap();wireEvents();render();
+ for(const element of document.querySelectorAll('body > [inert], .masthead > [inert]'))element.inert=false;
+ $('#atlas-load-status').hidden=true;
+ exposeAPI();if(selected||route||territorySelection||placeSelection)focusCurrentSelection();restoreDirectorySelection();
+ }catch(error){
+  console.error('Atlas initialization failed:',error);
+  $('#atlas-load-status').hidden=false;
+  $('#atlas-load-status [role="status"]').textContent='Unable to load the atlas. · 历史地图未能加载。';
+  const retry=$('#retry-load');
+  retry.hidden=false;
+  retry.addEventListener('click',()=>location.reload());
+ }}
 init();

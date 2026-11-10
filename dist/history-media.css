@@ -25,7 +25,7 @@
 .portrait-filter{display:inline-flex;align-items:center;gap:8px;min-height:44px;font-size:.86rem;cursor:pointer}
 .portrait-filter input{width:18px;height:18px;accent-color:#a84234}
 .media-catalogue-note{max-width:70ch;font-size:.82rem;line-height:1.55;color:var(--muted,#625b52)}
-.history-figure a:focus-visible,.history-figure summary:focus-visible,.portrait-filter:has(:focus-visible){outline:3px solid #8b3a2b;outline-offset:3px}
+.history-figure a:focus-visible,.history-figure summary:focus-visible{outline:3px solid #8b3a2b;outline-offset:3px}
 @media(min-width:900px){.dialog-wide .history-figure-portrait{max-width:420px}}
 @media(max-width:480px){.history-figure figcaption{padding:12px}.history-figure img{max-height:280px}.history-thumbnail{width:56px;min-width:56px;height:72px}}
 @media(prefers-reduced-motion:reduce){.history-figure{scroll-behavior:auto}}

@@ -143,3 +143,6 @@ dialog{border-color:var(--line);border-radius:5px;background:white}.dialog-inner
 #world-map:focus-visible{box-shadow:inset 0 0 0 2px var(--accent)}
 #world-map .route-node:focus-visible circle,
 #world-map .period-place:focus-visible circle{stroke:var(--accent);stroke-width:3}
+
+.atlas-load-status{padding:10px 20px;border-bottom:1px solid var(--line);color:var(--muted);font-size:14px}
+.masthead nav[inert],.header-actions[inert],.atlas-toolbar[inert]{opacity:.5}

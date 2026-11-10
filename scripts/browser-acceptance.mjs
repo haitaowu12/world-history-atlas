@@ -53,7 +53,25 @@ try{
     await page.waitForFunction(selector=>{const image=document.querySelector(selector);return image?.complete&&image.naturalWidth>0;},selector);
   };
 
-  await goto('#year=1200&lang=en');
+  let resumeInitialLoad;
+  const initialLoad=new Promise(resolve=>{resumeInitialLoad=resolve;});
+  await page.route('**/data/history.json?*',async route=>{
+    await initialLoad;
+    await route.continue();
+  },{times:1});
+  await page.goto(base+'#year=1200&lang=en',{waitUntil:'domcontentloaded'});
+  try{
+    assert.equal(await page.locator('#atlas-load-status').isVisible(),true);
+    const readingsNav=page.locator('#journeys-nav');
+    const bounds=await readingsNav.boundingBox();
+    await page.mouse.click(bounds.x+bounds.width/2,bounds.y+bounds.height/2);
+    assert.equal(await page.locator('#dialog').isVisible(),false);
+    await page.keyboard.press('Tab');
+    assert.equal(await page.locator(':focus').getAttribute('id'),'project-author');
+  }finally{resumeInitialLoad();}
+  await loaded();
+  assert.equal(await page.locator('#atlas-load-status').isVisible(),false);
+  assert.equal(await page.getByRole('button',{name:'Readings',exact:true}).isVisible(),true);
   assert.equal(await page.evaluate(()=>window.atlasAPI.version),manifest.version);
   assert.equal(await page.locator('.fatal').count(),0);
   mark('Application starts with the selected content release',{version:manifest.version});
@@ -82,6 +100,23 @@ try{
   assert.equal(await page.locator('#discovery-portraits').isChecked(),true);
   assert.equal(await page.locator('.discovery-card').count(),portraitCount);
   mark('Keyboard portrait filter, credited profile and return state work',{portraits:portraitCount});
+
+  await page.locator('#discovery-portraits').uncheck();
+  const directoryCards=page.locator('#discovery-results .discovery-card');
+  const firstBatch=await directoryCards.count();
+  await page.locator('[data-action="discovery-more"]').click();
+  const card=directoryCards.nth(firstBatch+4);
+  const cardId=await card.getAttribute('data-id');
+  const expandedCount=await directoryCards.count();
+  await card.scrollIntoViewIfNeeded();
+  const directoryScroll=()=>page.locator('#dialog').evaluate(dialog=>dialog.scrollTop);
+  const savedScroll=await directoryScroll();
+  await card.click();
+  await page.locator('[data-action="discovery-back"]').click();
+  assert.equal(await directoryCards.count(),expandedCount);
+  assert.equal(await page.locator('#discovery-results :focus').getAttribute('data-id'),cardId);
+  assert.ok(Math.abs(await directoryScroll()-savedScroll)<2);
+  mark('Returning from an expanded directory profile restores the card and scroll position');
 
   // Read a Chinese manuscript as a story, with its image date separate from 1082.
   await goto('#year=1082&entry=china-su-shi-cold-food-1082&lang=en');
@@ -123,6 +158,17 @@ try{
   mark('All new guided-reading stops and the reading search resolve',{readings:readings.length,stops:readings.reduce((sum,r)=>sum+r.recordIds.length,0)});
 
   await page.setViewportSize({width:375,height:812});
+  await page.locator('#reading-results [data-id="course-anshi-witnesses"]').click();
+  await page.locator('#dialog [data-action="start-journey"]').click();
+  const next=page.locator('#journey-strip [data-action="journey-next"]');
+  await next.focus();
+  await page.keyboard.press('Enter');
+  assert.equal(await page.locator('#journey-strip [aria-current="step"]').getAttribute('data-index'),'1');
+  assert.equal(await page.locator('#journey-strip :focus').getAttribute('data-action'),'journey-next');
+  await page.keyboard.press('Enter');
+  assert.equal(await page.locator('#detail [data-action="save"]').getAttribute('data-id'),'china-du-fu-spring-view-757');
+  mark('A filtered reading opens on the first click and supports consecutive keyboard steps on a phone');
+
   await goto('#year=1082&entry=china-su-shi-cold-food-1082&lang=zh');
   await imageLoaded('#detail .history-figure img');
   assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth+1),'Mobile page must not overflow horizontally');
@@ -162,6 +208,16 @@ try{
   assert.equal(await missingPage.locator('#discovery-portraits').isDisabled(),true);
   assert.ok(await missingPage.locator('.discovery-card').count()>0);
   mark('An unavailable image catalogue does not prevent reading the atlas');
+
+  await missingPage.route('**/data/history.json?*',route=>route.abort(),{times:1});
+  await missingPage.reload();
+  const retry=missingPage.locator('#retry-load');
+  await retry.waitFor({state:'visible'});
+  assert.match(await missingPage.locator('#atlas-load-status').innerText(),/Unable to load/);
+  await retry.click();
+  await missingPage.waitForFunction(()=>!!window.atlasAPI,{},{timeout:90000});
+  assert.equal(await retry.isVisible(),false);
+  mark('A failed startup exposes a reload action and recovers when the data is available');
   await missingContext.close();
   evidence.status='passed';
 }catch(error){
