@@ -1,0 +1,1551 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "0.23.0",
+  "sourceRelease": "5.1.1",
+  "areas": {
+    "CA-BC": [
+      {
+        "recordId": "person-mungo-martin",
+        "roles": [
+          "editorial"
+        ],
+        "milestoneYears": [],
+        "locationAssociation": {
+          "place": {
+            "en": "Thunderbird Park, Victoria, British Columbia",
+            "zh": "不列颠哥伦比亚省维多利亚雷鸟公园"
+          },
+          "note": {
+            "en": "Reviewed named-place association. The generalized coast omits this representative museum-area point; the point is retained. This is a modern navigation link, not historical jurisdiction.",
+            "zh": "已核对地名关联。概化海岸未包含代表性博物馆区域点，保留原点；此为现代导航关联，非历史管辖判断。"
+          },
+          "sources": [
+            {
+              "title": "An Artist’s Legacy · Stories Carved in Cedar",
+              "publisher": "Royal BC Museum, with Kwakwaka’wakw community voices",
+              "url": "https://totems.royalbcmuseum.bc.ca/en/story/Legacy",
+              "evidenceNote": "Root read narrative and photo captions. Supports 1952 arrival with family,1953 Wawadiťła opening/pole/potlatch, Henry/David/Tony Hunt collaboration,1957 commission and 1958 presentation,1962 death and 1970 memorial. Birth heading 1881 conflicts with the stated death age83 and TCE 1879. No exact birth year, absolute first-public-potlatch claim or survey of all crests is asserted.",
+              "checkedAt": "2026-10-26",
+              "retrieval": "inspected-text"
+            }
+          ],
+          "checkedAt": "2026-10-26"
+        }
+      },
+      {
+        "recordId": "thunderbird-park-cultural-work",
+        "roles": [
+          "editorial"
+        ],
+        "milestoneYears": [],
+        "locationAssociation": {
+          "place": {
+            "en": "Thunderbird Park, Victoria, British Columbia",
+            "zh": "不列颠哥伦比亚省维多利亚雷鸟公园"
+          },
+          "note": {
+            "en": "Reviewed named-place association. The generalized coast omits this representative museum-area point; the point is retained. This is a modern navigation link, not historical jurisdiction.",
+            "zh": "已核对地名关联。概化海岸未包含代表性博物馆区域点，保留原点；此为现代导航关联，非历史管辖判断。"
+          },
+          "sources": [
+            {
+              "title": "An Artist’s Legacy · Stories Carved in Cedar",
+              "publisher": "Royal BC Museum, with Kwakwaka’wakw community voices",
+              "url": "https://totems.royalbcmuseum.bc.ca/en/story/Legacy",
+              "evidenceNote": "Root read narrative and photo captions. Supports 1952 arrival with family,1953 Wawadiťła opening/pole/potlatch, Henry/David/Tony Hunt collaboration,1957 commission and 1958 presentation,1962 death and 1970 memorial. Birth heading 1881 conflicts with the stated death age83 and TCE 1879. No exact birth year, absolute first-public-potlatch claim or survey of all crests is asserted.",
+              "checkedAt": "2026-10-26",
+              "retrieval": "inspected-text"
+            }
+          ],
+          "checkedAt": "2026-10-26"
+        }
+      },
+      {
+        "recordId": "gwaii-haanas-shared-stewardship",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "musqueam-cesnaem-belongings",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "CA-ON": [
+      {
+        "recordId": "person-shingwaukonse",
+        "roles": [
+          "representative",
+          "milestone"
+        ],
+        "milestoneYears": [
+          1831,
+          1832,
+          1838,
+          1850
+        ]
+      },
+      {
+        "recordId": "shingwauk-teaching-vision-institutions",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "CA-NS": [
+      {
+        "recordId": "person-rose-fortune",
+        "roles": [
+          "representative",
+          "milestone"
+        ],
+        "milestoneYears": [
+          1828,
+          1836,
+          1852
+        ]
+      },
+      {
+        "recordId": "annapolis-waterfront-black-labour",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "US-GA": [
+      {
+        "recordId": "person-susie-king-taylor",
+        "roles": [
+          "milestone"
+        ],
+        "milestoneYears": [
+          1862,
+          1866
+        ]
+      }
+    ],
+    "US-SC": [
+      {
+        "recordId": "person-susie-king-taylor",
+        "roles": [
+          "representative",
+          "milestone"
+        ],
+        "milestoneYears": [
+          1863
+        ]
+      },
+      {
+        "recordId": "camp-saxton-freedom-community",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "US-MA": [
+      {
+        "recordId": "person-susie-king-taylor",
+        "roles": [
+          "milestone"
+        ],
+        "milestoneYears": [
+          1874,
+          1886,
+          1902
+        ]
+      }
+    ],
+    "BD-F": [
+      {
+        "recordId": "damodarpur-charter-224",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "CU-03": [
+      {
+        "recordId": "cuban-missile-crisis-1962",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "FR-75": [
+      {
+        "recordId": "paris-vietnam-agreement-1973",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "DE-BE": [
+      {
+        "recordId": "cold-war-world-history",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "GR-J": [
+      {
+        "recordId": "paul-corinth-letters-50s",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "IN-PB": [
+      {
+        "recordId": "khalsa-anandpur-1699",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "IN-UP": [
+      {
+        "recordId": "early-gupta-prayaga-context",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "IN-MP": [
+      {
+        "recordId": "gupta-eran-bhanugupta-191",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "sanchi-donor-inscriptions",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "IT-MI": [
+      {
+        "recordId": "milan-toleration-313",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "MM-05": [
+      {
+        "recordId": "toungoo-port-garrisons-1564",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "ayutthaya-tenasserim-campaign-1593",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "NP-LU": [
+      {
+        "recordId": "lumbini-ashoka-pillar-249-bce",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "CN-HA": [
+      {
+        "recordId": "xia-tradition-and-erli-tou",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "erlitou-urban-bronze-centre",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "shang-kingship-and-evidence",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-liuxiu",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-caocao",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-simayi",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-xiaowendi",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-yangguang",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-wuzetian",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-zhaokuangyin",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-ouyangxiu",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-wanganshi",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-simaguang",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-lvbu",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-licunxu",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-chairong",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-gao-shi-fengqiu-office",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "RS-00": [
+      {
+        "recordId": "nonaligned-belgrade-1961",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "TR-16": [
+      {
+        "recordId": "council-of-nicaea-325",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "GB-WSM": [
+      {
+        "recordId": "person-mary-prince",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "VN-SG": [
+      {
+        "recordId": "tet-offensive-1968",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "VN-HN": [
+      {
+        "recordId": "vietnam-war-1954-1975",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "CN-JS": [
+      {
+        "recordId": "china-person-zu-chongzhi",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-yongle-encyclopedia-1403",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-xiangyu",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-sunquan",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-luxun",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-xiean",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-liuyu",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-fanzhongyan",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-xinqiji",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-zhuyuanzhang",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-xiexuan",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-liyu-nt",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-hanshizhong",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-hongxiuquan",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "CN-BJ": [
+      {
+        "recordId": "china-person-yelu-chucai",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-wentianxiang",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-kublaikhan",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-zhudi",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-yuqian",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-zhangjuzheng",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-kangxi",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-maozedong",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-dengxiaoping",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-anlushan",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-xuda",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-yongzheng",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-qianlong",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "EG-KN": [
+      {
+        "recordId": "meketre-bakery-brewery-model",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "GH-AH": [
+      {
+        "recordId": "akan-goldweights-measure-trade",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "IQ-DQ": [
+      {
+        "recordId": "ur-copper-complaint-tablet",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "babylonian-recipe-tablets",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "MX-YUC": [
+      {
+        "recordId": "maya-cacao-vessel-story",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "CN-ZJ": [
+      {
+        "recordId": "china-su-causeway-1089",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-wangxizhi",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-yuefei",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-luyou",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-qijiguang",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "CN-HE": [
+      {
+        "recordId": "china-yan-zhenqing-nephew-758",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-limu",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-yuanshao",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "CN-SN": [
+      {
+        "recordId": "china-anshi-war-and-recovery-755",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-du-fu-spring-view-757",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-shangyang",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-baiqi",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-wangjian",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-qinshihuang",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-liubang",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-hanxin",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-zhangliang",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-hanwendi",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-hanwudi",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-zhangqian",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-weiqing",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-huoqubing",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-simaqian",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-wangmang",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-yangjian",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-lishimin",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-lijing",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-tangxuanzong",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-wangwei",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-dufu",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-guoziyi",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-yanzhenqing",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-hanyu",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-liuyuxi",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-zhaoyun",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-fujian",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-huangchao",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-lizicheng",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "CN-HB": [
+      {
+        "recordId": "china-su-shi-cold-food-1082",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-guanyu",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-zhouyu",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-sushi",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "PE-CUS": [
+      {
+        "recordId": "inka-imperial-tunic-story",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "qeswachaka-renewal-knowledge",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "AO-CAB": [
+      {
+        "recordId": "mangaaka-carver-ritual-law",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "AR-C": [
+      {
+        "recordId": "madres-plaza-mayo-organizing",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "AU-QLD": [
+      {
+        "recordId": "torres-strait-maritime-strike-1936",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "AU-VIC": [
+      {
+        "recordId": "possum-cloaks-cultural-renewal",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "BD-C": [
+      {
+        "recordId": "bengal-kantha-household-memory",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "BR-PE": [
+      {
+        "recordId": "brazil-cordel-public-voices",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "CW-X01~": [
+      {
+        "recordId": "tula-curacao-freedom-1795",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "CD-KW": [
+      {
+        "recordId": "kuba-raffia-many-hands",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "EG-GZ": [
+      {
+        "recordId": "merer-logbook-limestone-work",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "FR-69": [
+      {
+        "recordId": "lyon-canuts-price-of-work-1831",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "IN-AP": [
+      {
+        "recordId": "coromandel-painted-cotton-workshops",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "ID-JT": [
+      {
+        "recordId": "pekalongan-batik-workshops",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "ID-AC": [
+      {
+        "recordId": "aceh-queens-and-negotiation",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "IR-14": [
+      {
+        "recordId": "persepolis-ration-records-travel",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "JP-01": [
+      {
+        "recordId": "ainu-attus-making",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "JP-47": [
+      {
+        "recordId": "ryukyu-rekidai-hoan-records",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "JP-29": [
+      {
+        "recordId": "shosoin-gifts-and-work",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "MX-DIF": [
+      {
+        "recordId": "codex-mendoza-translation",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "MN-039": [
+      {
+        "recordId": "china-person-genghiskhan",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "NG-OY": [
+      {
+        "recordId": "ibadan-adire-signatures-markets",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "NG-EK": [
+      {
+        "recordId": "olowe-ise-palace-door-commission",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "PS-WBK": [
+      {
+        "recordId": "bethlehem-embroidery-repair-markets",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "CN-XJ": [
+      {
+        "recordId": "china-person-banchao",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "CN-NM": [
+      {
+        "recordId": "china-person-mengtian",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "CN-GS": [
+      {
+        "recordId": "china-person-zuozongtang",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-jiangwei",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "CN-LN": [
+      {
+        "recordId": "china-person-nurhaci",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-huangtaiji",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "CN-GD": [
+      {
+        "recordId": "china-person-linzexu",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-sunzhongshan",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "CN-FJ": [
+      {
+        "recordId": "china-person-zhengchenggong",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "CN-SH": [
+      {
+        "recordId": "china-person-lihongzhang",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "CN-SD": [
+      {
+        "recordId": "china-person-mengzi",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-sunbin",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "CN-SC": [
+      {
+        "recordId": "china-person-liubei",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-zhugeliang",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-zhangfei",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "CN-GZ": [
+      {
+        "recordId": "china-person-wangyangming",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "CN-HN": [
+      {
+        "recordId": "china-person-quyuan",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-liuzongyuan",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-zengguofan",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "CN-JX": [
+      {
+        "recordId": "china-person-taoyuanming",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-libai",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-baijuyi",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "CN-AH": [
+      {
+        "recordId": "china-person-chensheng",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-dengai",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      },
+      {
+        "recordId": "china-person-huanwen",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "PL-MZ": [
+      {
+        "recordId": "oneg-shabbat-collecting-under-persecution",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "RU-NGR": [
+      {
+        "recordId": "onfim-birchbark-practice-play",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "WS-PA": [
+      {
+        "recordId": "pulemelei-settlement-landscape",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "KR-47": [
+      {
+        "recordId": "gaya-armor-workshops",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "KR-50": [
+      {
+        "recordId": "baekje-muryeong-tomb-records",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "TW-TPE": [
+      {
+        "recordId": "china-person-jiangjieshi",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "TR-34": [
+      {
+        "recordId": "cibali-tobacco-women-work-1904",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "TR-07": [
+      {
+        "recordId": "uluburun-cargo-connected-workshops",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "GB-NBL": [
+      {
+        "recordId": "vindolanda-birthday-two-hands",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "GB-BEN": [
+      {
+        "recordId": "grunwick-dignity-union-recognition",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "GB-CMD": [
+      {
+        "recordId": "equiano-autobiography-subscription-networks",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "US-CA": [
+      {
+        "recordId": "bracero-contracts-oral-histories",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "US-FL": [
+      {
+        "recordId": "fort-mose-freedom-households",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "US-HI": [
+      {
+        "recordId": "hawaiian-punana-leo",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "US-IL": [
+      {
+        "recordId": "pullman-strike-household-economy",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "UZ-FA": [
+      {
+        "recordId": "ferghana-ikat-thread-workshops",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ],
+    "UZ-BU": [
+      {
+        "recordId": "bukhara-suzani-shared-needlework",
+        "roles": [
+          "representative"
+        ],
+        "milestoneYears": []
+      }
+    ]
+  }
+}

@@ -10,6 +10,7 @@ import { REGIONS, validYear, activeAt, safeSourceURL, validateRecords } from '..
 import { chinaRoutes } from '../dist/china-library.mjs';
 import { applyChinaReviews, linkChinaContext } from '../dist/china-review.mjs';
 import {auditHistoryMedia} from '../dist/history-media.mjs';
+import {auditPlaceLabelTranslations} from '../dist/place-labels.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 
@@ -205,6 +206,12 @@ for (const review of [...(chinaReviews.eventReviews || []),...(chinaReviews.chro
   if (!review.note?.en || !review.note?.zh || !review.sources?.length || review.sources.some(source => !safeSourceURL(source.url) || !source.title || !source.publisher || !source.evidenceNote)) fail('China review overlay: missing claim-specific note or evidence');
 }
 const records = [...histories,...people,...linkChinaContext(reviewedChina.events,[...histories,...people])];
+if(expansionManifest.placeLabelsFile)try {
+  const content=fs.readFileSync(path.join(root,'dist/data',expansionManifest.placeLabelsFile));
+  const catalog=JSON.parse(content),receipt=expansionManifest.placeLabelTranslations;
+  errors.push(...auditPlaceLabelTranslations(catalog,records));
+  if(content.length!==receipt?.bytes||crypto.createHash('sha256').update(content).digest('hex')!==receipt?.sha256||catalog.items.length!==receipt?.records)fail('Place-label translation manifest receipt mismatch');
+}catch(error){fail('Place-label translations: '+error.message);}
 // Credits and safe identities are required even when a browser can draw the image.
 try {
   const media=JSON.parse(read('dist/data/'+(expansionManifest.mediaFile||'history-media.json')));

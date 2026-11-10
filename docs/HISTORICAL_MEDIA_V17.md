@@ -1,6 +1,6 @@
 # V17 historical image review
 
-Reviewed 9 November 2026 (Vancouver). Thirteen new local images, 1,534,669 bytes in total, bring the candidate catalogue to 29. The existing sixteen item objects and assets are unchanged. Activation follows the V17 content gate.
+Reviewed 9 November 2026 (Vancouver), with release validation completed on 10 November UTC. Thirteen new local images, 1,534,669 bytes in total, bring the active V17 catalogue to 29. The existing sixteen item objects and assets are unchanged.
 
 ## Admission and observed checks
 
@@ -40,4 +40,4 @@ Images considered but not admitted include the ambiguous alternative Wells file,
 
 ## Verification boundary
 
-The draft media schema was checked against existing records and explicitly planned V17 IDs. The release gate must repeat record-link and checksum checks against the complete activated manifest; a planned ID is not proof of a published article.
+The completed V17 release passed media record-link, byte-count and checksum checks against its activated manifest as part of the 325/325 passing local suite. The Li Bai portrait and Hội An dish were also opened in the bilingual browser review, including narrow phone layouts. See [release evidence](V17_RELEASE_EVIDENCE.md) for the recorded checks and screenshots. These results apply to the prepared output; Firebase publication remains blocked by unavailable direct deployment access.

@@ -1,0 +1,476 @@
+[
+  {
+    "id": "course-asia-stone-gifts-and-labels",
+    "title": {
+      "en": "Gifts, graves and the names that survive",
+      "zh": "赠予、墓葬与留下的姓名"
+    },
+    "summary": {
+      "en": "Compare donor inscriptions, a royal epitaph, armor and a gift inventory. Ask how words and objects identify participants differently, and how archaeology connects a surviving object to an event.",
+      "zh": "比较施主铭文、王室墓志、甲胄和献物清单，思考文字与器物如何以不同方式标识参与者，以及考古怎样把遗物与事件相连。"
+    },
+    "recordIds": [
+      "sanchi-donor-inscriptions",
+      "baekje-muryeong-tomb-records",
+      "gaya-armor-workshops",
+      "shosoin-gifts-and-work"
+    ],
+    "mapYears": {
+      "sanchi-donor-inscriptions": -50,
+      "baekje-muryeong-tomb-records": 525,
+      "gaya-armor-workshops": 450,
+      "shosoin-gifts-and-work": 756
+    },
+    "routeIds": [],
+    "questions": [
+      {
+        "en": "Which names belong to donors, owners, occupants or makers? Where do those categories overlap?",
+        "zh": "哪些姓名属于施主、所有者、墓主或制作者？这些身份在哪些地方重合？"
+      },
+      {
+        "en": "What dates come from an inscription, and which come from the interpretation of an object or burial?",
+        "zh": "哪些年代来自铭文，哪些来自对器物或墓葬的解释？"
+      },
+      {
+        "en": "How does each collection make elite and ordinary participants visible in different proportions?",
+        "zh": "各类材料如何以不同程度呈现精英与普通参与者？"
+      }
+    ],
+    "activity": {
+      "en": "Choose one written record and one object. Make a two-column note of what each identifies and what evidence connects it to the displayed date.",
+      "zh": "选择一则文字记录和一件器物，分两栏写下各自能识别什么，以及哪些证据把它们与展示年代联系起来。"
+    },
+    "kind": "reading-course",
+    "estimatedMinutes": 22,
+    "evidencePolicy": "Original comparative reading of the linked, individually sourced records. Selected map years are display anchors within each record’s qualified interval; connecting records does not assert a journey or direct influence. Objects, later copies and images retain separate dates and rights."
+  },
+  {
+    "id": "course-tang-poets-and-local-government",
+    "title": {
+      "en": "Poetry at the county desk and on the road",
+      "zh": "县衙与旅途中的诗文"
+    },
+    "summary": {
+      "en": "Move between Gao Shi’s county office and seven Tang writers’ biographies. Read changes of posting, exile and friendship alongside the choices writers made about what to describe.",
+      "zh": "从高适的县衙走进七位唐代作者的传记，把任职变动、贬谪与交游，和作者选择写下的内容并读。"
+    },
+    "recordIds": [
+      "china-gao-shi-fengqiu-office",
+      "china-person-wangwei",
+      "china-person-libai",
+      "china-person-dufu",
+      "china-person-hanyu",
+      "china-person-baijuyi",
+      "china-person-liuzongyuan",
+      "china-person-liuyuxi"
+    ],
+    "mapYears": {
+      "china-gao-shi-fengqiu-office": 749,
+      "china-person-wangwei": 740,
+      "china-person-libai": 759,
+      "china-person-dufu": 756,
+      "china-person-hanyu": 819,
+      "china-person-baijuyi": 815,
+      "china-person-liuzongyuan": 805,
+      "china-person-liuyuxi": 793
+    },
+    "routeIds": [],
+    "questions": [
+      {
+        "en": "How does an official’s voice change between a poem, a memorial and a later biography?",
+        "zh": "在诗歌、奏议与后世传记之间，官员的声音如何变化？"
+      },
+      {
+        "en": "Which changes of place are securely dated, and where does the atlas use a broader career interval?",
+        "zh": "哪些地点变化有明确年代，哪些使用较宽的仕历时段？"
+      },
+      {
+        "en": "What can literary descriptions reveal about ordinary people, and whose replies are missing?",
+        "zh": "文学描写能揭示普通人的哪些经历？哪些人的回应没有留下？"
+      }
+    ],
+    "activity": {
+      "en": "Place three supported career episodes on a small timeline. For each, separate the event from the writer’s interpretation of it.",
+      "zh": "将三个有据可查的仕历片段排成简短时间线，并分别记录事件本身与作者对事件的解释。"
+    },
+    "kind": "reading-course",
+    "estimatedMinutes": 32,
+    "evidencePolicy": "Original comparative reading of the linked, individually sourced records. Selected map years are display anchors within each record’s qualified interval; connecting records does not assert a journey or direct influence. Objects, later copies and images retain separate dates and rights."
+  },
+  {
+    "id": "course-chinese-capitals-and-statecraft",
+    "title": {
+      "en": "Changing capitals, changing government",
+      "zh": "都城迁移与治理变革"
+    },
+    "summary": {
+      "en": "Follow selected Northern Wei, Sui and Tang rulers and the general Li Jing. Compare a capital transfer, canal works, court advice and military campaigns as different ways of organizing power.",
+      "zh": "阅读北魏、隋唐君主与李靖的选段，比较迁都、运河工程、治国劝诫和军事行动怎样以不同方式组织权力。"
+    },
+    "recordIds": [
+      "china-person-xiaowendi",
+      "china-person-yangjian",
+      "china-person-yangguang",
+      "china-person-lishimin",
+      "china-person-lijing",
+      "china-person-wuzetian",
+      "china-person-tangxuanzong"
+    ],
+    "mapYears": {
+      "china-person-xiaowendi": 494,
+      "china-person-yangjian": 589,
+      "china-person-yangguang": 612,
+      "china-person-lishimin": 648,
+      "china-person-lijing": 630,
+      "china-person-wuzetian": 690,
+      "china-person-tangxuanzong": 755
+    },
+    "routeIds": [],
+    "questions": [
+      {
+        "en": "When does a reign span serve the story better than a lifespan?",
+        "zh": "在什么情况下，在位时段比生卒年更适合组织叙事？"
+      },
+      {
+        "en": "Which claims describe an intended policy, and which describe a documented outcome?",
+        "zh": "哪些说法描述政策意图，哪些描述有记录的结果？"
+      },
+      {
+        "en": "How do capital, battlefield and construction-site markers represent different kinds of evidence?",
+        "zh": "都城、战场与工程地点的地图标记，分别对应怎样的证据？"
+      }
+    ],
+    "activity": {
+      "en": "Choose two policies. Record the stated purpose, the evidence for what happened and one group whose experience would require another source.",
+      "zh": "选择两项政策，记录其所述目的、实际发生情况的证据，以及还需其他史料才能了解的一类人群。"
+    },
+    "kind": "reading-course",
+    "estimatedMinutes": 28,
+    "evidencePolicy": "Original comparative reading of the linked, individually sourced records. Selected map years are display anchors within each record’s qualified interval; connecting records does not assert a journey or direct influence. Objects, later copies and images retain separate dates and rights."
+  },
+  {
+    "id": "course-song-schools-loans-and-disagreement",
+    "title": {
+      "en": "Schools, loans and disagreement in the Song",
+      "zh": "宋代的学校、借贷与政见分歧"
+    },
+    "summary": {
+      "en": "Bring Fan Zhongyan, Ouyang Xiu, Wang Anshi, Sima Guang and Su Shi into one reading. Compare institution building, policy arguments, historical writing and the effects of political exclusion.",
+      "zh": "将范仲淹、欧阳修、王安石、司马光和苏轼放在同一阅读中，比较制度建设、政策争论、史学写作与政治排斥带来的影响。"
+    },
+    "recordIds": [
+      "china-person-fanzhongyan",
+      "china-person-ouyangxiu",
+      "china-person-wanganshi",
+      "china-person-simaguang",
+      "china-person-sushi"
+    ],
+    "mapYears": {
+      "china-person-fanzhongyan": 1035,
+      "china-person-ouyangxiu": 1030,
+      "china-person-wanganshi": 1069,
+      "china-person-simaguang": 1070,
+      "china-person-sushi": 1080
+    },
+    "routeIds": [],
+    "questions": [
+      {
+        "en": "How does Wang Anshi explain what seasonal lending should accomplish? What additional evidence would establish its results?",
+        "zh": "王安石如何说明季节性借贷应达到的作用？还需要什么证据才能确定结果？"
+      },
+      {
+        "en": "How do schools, chronicles and poetry preserve different kinds of public work?",
+        "zh": "学校、编年史与诗歌分别保存了怎样的公共事务经验？"
+      },
+      {
+        "en": "Which dates mark a work’s composition, a surviving manuscript or an official appointment?",
+        "zh": "哪些年代对应创作，哪些对应传世手稿或官职任命？"
+      }
+    ],
+    "activity": {
+      "en": "Write a short policy comparison using one intended mechanism and one documented consequence from the linked entries. Keep opinion and outcome in separate sentences.",
+      "zh": "依据相连条目写一段政策比较，选取一项预期机制和一项有记录的后果，把意见与结果分别写清。"
+    },
+    "kind": "reading-course",
+    "estimatedMinutes": 24,
+    "evidencePolicy": "Original comparative reading of the linked, individually sourced records. Selected map years are display anchors within each record’s qualified interval; connecting records does not assert a journey or direct influence. Objects, later copies and images retain separate dates and rights."
+  },
+  {
+    "id": "course-loyalty-and-historical-memory",
+    "title": {
+      "en": "Loyalty in a life, loyalty in later memory",
+      "zh": "生前的忠诚与后世的记忆"
+    },
+    "summary": {
+      "en": "Compare Tang and Song careers with a manuscript of mourning, a founding story and later reputations. Follow how different sources turn service, defeat and death into accounts of political belonging.",
+      "zh": "把唐宋人物的仕历与哀悼文稿、开国故事及后世声誉并读，观察不同材料怎样把效力、失败与死亡写成政治归属的叙述。"
+    },
+    "recordIds": [
+      "china-person-guoziyi",
+      "china-person-yanzhenqing",
+      "china-person-zhaokuangyin",
+      "china-person-yuefei",
+      "china-person-luyou",
+      "china-person-xinqiji",
+      "china-person-wentianxiang"
+    ],
+    "mapYears": {
+      "china-person-guoziyi": 755,
+      "china-person-yanzhenqing": 775,
+      "china-person-zhaokuangyin": 960,
+      "china-person-yuefei": 1141,
+      "china-person-luyou": 1202,
+      "china-person-xinqiji": 1168,
+      "china-person-wentianxiang": 1276
+    },
+    "routeIds": [],
+    "questions": [
+      {
+        "en": "What evidence was created close to the event, and what belongs to later commemoration?",
+        "zh": "哪些证据接近事件发生时，哪些属于后来的纪念？"
+      },
+      {
+        "en": "How do a mourning draft, a poem and a dynastic history choose different details?",
+        "zh": "祭文草稿、诗歌和王朝史如何选择不同细节？"
+      },
+      {
+        "en": "Where might a modern national label obscure an earlier person’s political commitments?",
+        "zh": "现代国家标签可能在哪些地方遮蔽早期人物的政治承诺？"
+      }
+    ],
+    "activity": {
+      "en": "Choose two figures and create separate lines for documented career events and later interpretations. Explain one difference between the lines.",
+      "zh": "选择两位人物，分别列出有据可查的生平事件与后世解释，并说明两列之间的一项差别。"
+    },
+    "kind": "reading-course",
+    "estimatedMinutes": 29,
+    "evidencePolicy": "Original comparative reading of the linked, individually sourced records. Selected map years are display anchors within each record’s qualified interval; connecting records does not assert a journey or direct influence. Objects, later copies and images retain separate dates and rights."
+  },
+  {
+    "id": "course-mongol-conquest-and-new-rule",
+    "title": {
+      "en": "Conquest and the work of a new government",
+      "zh": "征服与新政权的治理工作"
+    },
+    "summary": {
+      "en": "Read Genghis Khan, Kublai Khan, Wen Tianxiang and Zhu Yuanzhang across a period of conquest and dynastic change. Compare military expansion with the institutions and memories that followed it.",
+      "zh": "跨越征服与王朝更替，阅读成吉思汗、忽必烈、文天祥与朱元璋，比较军事扩张及其后出现的制度和记忆。"
+    },
+    "recordIds": [
+      "china-person-genghiskhan",
+      "china-person-kublaikhan",
+      "china-person-wentianxiang",
+      "china-person-zhuyuanzhang"
+    ],
+    "mapYears": {
+      "china-person-genghiskhan": 1209,
+      "china-person-kublaikhan": 1274,
+      "china-person-wentianxiang": 1276,
+      "china-person-zhuyuanzhang": 1369
+    },
+    "routeIds": [],
+    "questions": [
+      {
+        "en": "Which dates mark military conquest, a dynastic proclamation or an institutional change?",
+        "zh": "哪些年代对应军事征服，哪些对应建号或制度变化？"
+      },
+      {
+        "en": "How do accounts of administration and accounts of resistance describe the same political transition differently?",
+        "zh": "治理叙述与抵抗叙述，如何不同地描述同一政治转变？"
+      },
+      {
+        "en": "What makes a representative capital point useful, and what can it leave out about a large empire?",
+        "zh": "代表性都城点有什么用途，又可能遗漏大帝国的哪些空间差异？"
+      }
+    ],
+    "activity": {
+      "en": "Choose three dates from different entries. Label the kind of change each records, then explain why the dates cannot be collapsed into a single moment of transformation.",
+      "zh": "从不同条目选出三个年代，标明各自记录哪类变化，再解释为什么不能把它们压缩成一个转变时刻。"
+    },
+    "kind": "reading-course",
+    "estimatedMinutes": 22,
+    "evidencePolicy": "Original comparative reading of the linked, individually sourced records. Selected map years are display anchors within each record’s qualified interval; connecting records does not assert a journey or direct influence. Objects, later copies and images retain separate dates and rights."
+  },
+  {
+    "id": "course-ming-knowledge-defense-and-tax",
+    "title": {
+      "en": "Knowledge, defense and taxation in the Ming",
+      "zh": "明代的知识、防务与赋税"
+    },
+    "summary": {
+      "en": "Connect Yongle’s court with Yu Qian’s defense, Wang Yangming’s thought, Qi Jiguang’s training and Zhang Juzheng’s reforms. Ask how governing depended on compiling, learning, organizing and collecting.",
+      "zh": "将永乐朝廷与于谦的守城、王阳明的思想、戚继光的训练、张居正的改革相连，思考治理如何依靠编纂、学习、组织和征收。"
+    },
+    "recordIds": [
+      "china-person-zhudi",
+      "china-person-yuqian",
+      "china-person-wangyangming",
+      "china-person-qijiguang",
+      "china-person-zhangjuzheng"
+    ],
+    "mapYears": {
+      "china-person-zhudi": 1403,
+      "china-person-yuqian": 1449,
+      "china-person-wangyangming": 1506,
+      "china-person-qijiguang": 1559,
+      "china-person-zhangjuzheng": 1572
+    },
+    "routeIds": [],
+    "questions": [
+      {
+        "en": "How does each entry connect a named person with a wider institution or body of workers?",
+        "zh": "各条如何把一个有名人物与更广的制度或工作群体联系起来？"
+      },
+      {
+        "en": "Which reforms developed from earlier practices rather than beginning from nothing?",
+        "zh": "哪些改革是在先前实践上推进，而非从零开始？"
+      },
+      {
+        "en": "Where do exact dates help, and where does a selected career span avoid a disputed claim?",
+        "zh": "精确年代在哪些地方有帮助？选取仕历时段又在哪些地方避免了争议说法？"
+      }
+    ],
+    "activity": {
+      "en": "Make a comparison of one military and one civilian reform: its purpose, its organization and the limits of the evidence in the linked sources.",
+      "zh": "比较一项军事与一项民政改革，分别记录目的、组织方式和相连资料的证据范围。"
+    },
+    "kind": "reading-course",
+    "estimatedMinutes": 25,
+    "evidencePolicy": "Original comparative reading of the linked, individually sourced records. Selected map years are display anchors within each record’s qualified interval; connecting records does not assert a journey or direct influence. Objects, later copies and images retain separate dates and rights."
+  },
+  {
+    "id": "course-asian-textiles-and-hidden-hands",
+    "title": {
+      "en": "Textiles and the hands behind them",
+      "zh": "织物背后的双手"
+    },
+    "summary": {
+      "en": "Compare an Ainu robe, painted Coromandel cotton, Bengali kantha and Pekalongan batik. Follow materials and work through households, workshops, markets and museums without treating them as one tradition.",
+      "zh": "比较阿伊努长衣、科罗曼德尔彩绘棉布、孟加拉坎塔与北加浪岸蜡染，跟随材料和劳动穿过家庭、工坊、市场与博物馆，同时保留各自传统的差异。"
+    },
+    "recordIds": [
+      "ainu-attus-making",
+      "coromandel-painted-cotton-workshops",
+      "bengal-kantha-household-memory",
+      "pekalongan-batik-workshops"
+    ],
+    "mapYears": {
+      "ainu-attus-making": 1850,
+      "coromandel-painted-cotton-workshops": 1710,
+      "bengal-kantha-household-memory": 1900,
+      "pekalongan-batik-workshops": 1910
+    },
+    "routeIds": [],
+    "questions": [
+      {
+        "en": "Which tasks can be recognized in the material even when the maker’s name is unknown?",
+        "zh": "即使制作者姓名不详，仍能从材料中识别哪些工作？"
+      },
+      {
+        "en": "How do a household object and a workshop product preserve different relationships among maker, owner and seller?",
+        "zh": "家用品与工坊产品如何保存制作者、所有者和卖家之间不同的关系？"
+      },
+      {
+        "en": "What changes when a cloth moves from use into a museum collection?",
+        "zh": "布料从使用环境进入博物馆收藏，发生了哪些变化？"
+      }
+    ],
+    "activity": {
+      "en": "Draw a short sequence of making for two textiles using only the documented steps. Mark where the source identifies a worker, a workshop or neither.",
+      "zh": "只用资料记载的工序，为两类织物画出简短制作顺序，并标出哪里能确认工人、工坊，或二者都不能确认。"
+    },
+    "kind": "reading-course",
+    "estimatedMinutes": 22,
+    "evidencePolicy": "Original comparative reading of the linked, individually sourced records. Selected map years are display anchors within each record’s qualified interval; connecting records does not assert a journey or direct influence. Objects, later copies and images retain separate dates and rights."
+  },
+  {
+    "id": "course-asian-kilns-and-seaways",
+    "title": {
+      "en": "Kilns, cloth and ships across Asian seas",
+      "zh": "亚洲海域中的窑场、布料与船只"
+    },
+    "summary": {
+      "en": "Read two shipwreck cargoes beside textile production and Ryūkyū’s documents. Compare evidence that survives in objects with evidence that survives in paperwork, and keep each route’s certainty visible.",
+      "zh": "把两处沉船货物与纺织生产、琉球文书并读，比较器物与文件所保留的证据，并注意每条运输路径能够确认到什么程度。"
+    },
+    "recordIds": [
+      "belitung-shipwreck-workshops",
+      "vietnam-hoi-an-ceramic-cargo",
+      "coromandel-painted-cotton-workshops",
+      "ryukyu-rekidai-hoan-records"
+    ],
+    "mapYears": {
+      "belitung-shipwreck-workshops": 830,
+      "vietnam-hoi-an-ceramic-cargo": 1500,
+      "coromandel-painted-cotton-workshops": 1710,
+      "ryukyu-rekidai-hoan-records": 1697
+    },
+    "routeIds": [],
+    "questions": [
+      {
+        "en": "Which places are production regions, findspots, ports or archive locations?",
+        "zh": "哪些地点是产区、发现地、港口或档案所在地？"
+      },
+      {
+        "en": "What can an object’s style suggest, and what would prove its manufacturing place or destination?",
+        "zh": "器物风格能够提示什么？又需要什么才能确定产地或目的地？"
+      },
+      {
+        "en": "How do salvage, copying and collecting change what remains available to study?",
+        "zh": "打捞、抄录与收藏如何改变后人能够研究的材料？"
+      }
+    ],
+    "activity": {
+      "en": "Make an evidence map with different symbols for documented places and proposed connections. Leave an unknown destination blank instead of completing a route.",
+      "zh": "制作证据地图，用不同符号标记有记录的地点与推测的联系；未知目的地保持空白，不补成完整航线。"
+    },
+    "kind": "reading-course",
+    "estimatedMinutes": 23,
+    "evidencePolicy": "Original comparative reading of the linked, individually sourced records. Selected map years are display anchors within each record’s qualified interval; connecting records does not assert a journey or direct influence. Objects, later copies and images retain separate dates and rights."
+  },
+  {
+    "id": "course-courts-documents-and-authority",
+    "title": {
+      "en": "How courts made authority visible",
+      "zh": "王廷如何让权威可见"
+    },
+    "summary": {
+      "en": "Compare Aceh’s royal ancestry, Ryūkyū’s correspondence, Baekje’s funerary inscriptions and Shōsōin’s inventory. Ask how documents and objects gave power a form that could travel or survive.",
+      "zh": "比较亚齐王室祖系、琉球往来文书、百济墓志与正仓院清单，思考文字和器物怎样赋予权力可传递、可保存的形式。"
+    },
+    "recordIds": [
+      "aceh-queens-and-negotiation",
+      "ryukyu-rekidai-hoan-records",
+      "baekje-muryeong-tomb-records",
+      "shosoin-gifts-and-work"
+    ],
+    "mapYears": {
+      "aceh-queens-and-negotiation": 1689,
+      "ryukyu-rekidai-hoan-records": 1697,
+      "baekje-muryeong-tomb-records": 525,
+      "shosoin-gifts-and-work": 756
+    },
+    "routeIds": [],
+    "questions": [
+      {
+        "en": "Who created each record, who was expected to read it, and who preserved it?",
+        "zh": "每种记录由谁制作、预期由谁阅读，又由谁保存？"
+      },
+      {
+        "en": "How does a claim of ancestry differ from an epitaph’s identification or a shipping permit’s practical information?",
+        "zh": "祖系主张、墓志身份记载与船舶许可中的实用信息，有何区别？"
+      },
+      {
+        "en": "Where can a court’s own account be compared with a visitor’s account or material evidence?",
+        "zh": "哪些地方可以把王廷自述与来访者记述或实物证据比较？"
+      }
+    ],
+    "activity": {
+      "en": "Choose two records and write one question for their original readers and another for a historian today. Explain why the questions differ.",
+      "zh": "选择两种记录，为当时的读者和今天的历史研究者各写一个问题，并解释问题为何不同。"
+    },
+    "kind": "reading-course",
+    "estimatedMinutes": 21,
+    "evidencePolicy": "Original comparative reading of the linked, individually sourced records. Selected map years are display anchors within each record’s qualified interval; connecting records does not assert a journey or direct influence. Objects, later copies and images retain separate dates and rights."
+  }
+]

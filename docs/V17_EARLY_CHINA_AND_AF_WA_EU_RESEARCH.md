@@ -340,4 +340,67 @@ Ancient historical texts are public domain. Modern editions, museum writing and 
 
 ## World stories and readings
 
-In progress: six Africa-connected stories and six West/Central Asian stories are saved. Their full source-specific evidence notes are in expansion-africa-west-europe-stories-v17.json. This section will be completed after the remaining European stories and connected readings are saved.
+Completed: **18 original bilingual stories and 10 connected readings**. The stories are distributed as five Africa-map records, six West/Central Asia records and seven Europe-map records. Equiano's London publication story also carries AF4, reflecting its Atlantic subject rather than assigning an unsupported African birthplace. All AF1–AF4, WA1–WA3 and EU1–EU3 workstreams receive a bounded contribution; this does not close every historical topic in those broad rows.
+
+The cases develop the plan's makers, markets and work slice. Existing political overviews, named biographies and V16 object stories supply related reading rather than duplicate IDs. Every story keeps bilingual date and representative-place explanations, source-specific evidence notes and explicit interpretation limits. No new physical route is drawn.
+
+### Story and source map
+
+| Stable ID | Focus and inspected evidence | Main editorial decision |
+|---|---|---|
+| `kuba-raffia-many-hands` | 1875–1950; [The Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search/318398) | Collaborative raffia work; no invented individual artist or origin date. |
+| `mangaaka-carver-ritual-law` | 1880–1900; [The Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search/320053); [Ellen Howe and Adriana Rizzo, The Metropolitan Museum of Art](https://www.metmuseum.org/exhibitions/listings/2015/kongo/blog/posts/materials-that-make-mangaaka) | Carver, nganga and community use; altered museum condition remains visible. |
+| `olowe-ise-palace-door-commission` | 1904–1910; [Smithsonian National Museum of African Art](https://africa.si.edu/collection/object/nmafa_88-13-1); [The Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search/841603) | Ise portal, not the different Ikere doors; commemoration is a patron’s representation. |
+| `merer-logbook-limestone-work` | -2530–-2530; [Pierre Tallet and Mark Lehner, Museum of Fine Arts Boston](https://www.mfa.org/programs/lectures-and-courses/city-of-the-pyramids-new-discoveries-in-archeology-and-texts) | Late-Khufu transport log; Giza destination differs from Wadi el-Jarf findspot. |
+| `ibadan-adire-signatures-markets` | 1960–1969; [Victoria and Albert Museum](https://www.vam.ac.uk/articles/adire-tied-and-dyed-indigo-textiles) | An unsigned personal identity remains unnamed despite a repeated scorpion mark. |
+| `equiano-autobiography-subscription-networks` | 1789–1794; [Equiano’s World, scholarly research project](https://equianosworld.org/Narrative.php); [Equiano’s World, scholarly research project](https://equianosworld.org/associates-Subscribers.php) | Publication and audience building; no disputed birthplace coordinate. |
+| `uluburun-cargo-connected-workshops` | -1325–-1300; [Carlos de Juan Fuertes, Nautical Archaeology Digital Library](https://www.shiplib.org/shipwrecks/uluburun) | Late-fourteenth-century cargo; ship name, crew and complete course unknown. |
+| `persepolis-ration-records-travel` | -509–-494; [Richard T. Hallock edition; ISAC, University of Chicago](https://isac.uchicago.edu/publications/persepolis-fortification-tablets); [Muhammad A. Dandamayev, Encyclopaedia Iranica](https://www.iranicaonline.org/articles/persepolis-elamite-tablets/) | Fortification records differ from Treasury tablets; rations are not modern wages. |
+| `bukhara-suzani-shared-needlework` | 1800–1830; [The Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search/447384); [Angela Izrailova, Textile Society of America; University of Nebraska repository](https://digitalcommons.unl.edu/tsaconf/177/) | Shared embroidery; this object’s linen ground is not changed to generic cotton. |
+| `ferghana-ikat-thread-workshops` | 1850–1875; [Smithsonian National Museum of Asian Art](https://asia.si.edu/object/S2006.8/) | Warp dyeing precedes weaving; regional divisions of work do not identify individual makers. |
+| `cibali-tobacco-women-work-1904` | 1884–1904; [Rezan Has Museum](https://www.rhm.org.tr/en/tobacco-factory/); [Gülhan Balsoy, International Review of Social History](https://www.cambridge.org/core/journals/international-review-of-social-history/article/gendering-ottoman-labor-history-the-cibali-regie-factory-in-the-early-twentieth-century/3E716F74B9C1FE9278CF2DDC40AB1A7E) | Gendered skill categories and 1904 strike; identities are not inferred from a photograph. |
+| `bethlehem-embroidery-repair-markets` | 1850–1900; [The Palestinian Museum](https://palmuseum.org/en/collections/collections/bethlehem-thobe); [George Al-A’ma, The Palestinian Museum](https://www.palmuseum.org/en/exhibitions-and-events/events/reading-history-bethlehem-through-embroidery) | Couching, repair and markets; no wearer’s religion or mourning purpose is invented. |
+| `vindolanda-birthday-two-hands` | 97–105; [Roman Inscriptions of Britain, edited Vindolanda tablets](https://romaninscriptionsofbritain.org/inscriptions/TabVindol291) | Context dates 97–105; personal closing does not supply a precise year or writing location. |
+| `onfim-birchbark-practice-play` | 1240–1260; [State Historical Museum collection, ARTEFACT museum portal](https://ar.culture.ru/en/subject/berestyanaya-gramota-malchika-onfima) | Object date 1240–1260; rider as self-portrait is an interpretation. |
+| `aldus-griffo-portable-classics-1501` | 1501–1501; [The Grolier Club](https://grolierclub.omeka.net/exhibits/show/aldus-manutius/pressing-business); [Michael North, National Library of Medicine](https://circulatingnow.nlm.nih.gov/2015/02/06/aldus-manutius-and-early-medical-humanist-publishing/amp/) | Credit Griffo; do not equate italic or portability with lower prices. |
+| `lyon-canuts-price-of-work-1831` | 1831–1831; [Archives de Lyon](https://www.archives-lyon.fr/expos/les-origines-de-la-revolte-de-1831); [Musée d’Histoire de Lyon, Gadagne](https://www.gadagne-lyon.fr/mhl/revivez-la-revolte-des-canuts-gadagne) | Shared tariff/occupation sequence; conflicting details are not silently harmonized. |
+| `oneg-shabbat-collecting-under-persecution` | 1940–1943; [Dr. Havi Dreifuss, Yad Vashem](https://wwv.yadvashem.org/yv/en/exhibitions/ringelblum/index.asp); [American Jewish Joint Distribution Committee Archives](https://archives.jdc.org/exhibits/in-memoriam/emanuel-ringelblum/) | Collective documentary work; distinguish recording, concealment and postwar recovery. |
+| `grunwick-dignity-union-recognition` | 1976–1978; [London Museum](https://www.londonmuseum.org.uk/collections/london-stories/grunwick-strike/) | Migrant women’s organization and solidarity; retain defeat and unfulfilled demands. |
+
+### Source conflicts and retrieval limits
+
+- The Uluburun institutional project page timed out; the inspected nautical-archaeology library article supports the retained claim set. No inaccessible page is marked as opened.
+- The Adire museum article supports a signature without identifying a personal name. The Chinese text preserves that distinction.
+- Equiano’s World provides edition lists and subscription evidence. Its inconsistent early-life chronology is not used by the publication-focused record.
+- The suzani catalogue’s specific medium is silk on linen, despite broader contextual discussion of cotton grounds. The entry follows the object record.
+- The Cibali record combines the museum’s 1884 opening date with Gülhan Balsoy’s inspected research on the 1904 strike. It does not infer workers’ religion, ethnicity or names from their appearance.
+- The Bethlehem search excerpt included a mourning interpretation absent from the opened collection page. That claim was excluded.
+- Grolier’s exhibition identifies Griffo and challenges the common claim that italic necessarily saved paper and reduced costs. The NLM page is used for the portable-series date, not sole-inventor credit.
+- Lyon’s institutional pages differ on some detailed chronology, repression and economic framing. The tariff dispute, non-application, November occupation and December army return are common supported anchors. No body count, uniform wage reduction or claim of a wholly apolitical movement is adopted.
+- Yad Vashem’s Oneg Shabbat overview and JDC’s archival account support the retained chronology and collective methods. Their compressed container descriptions are not converted into a precise count. Failed retries of the USHMM detailed body are not represented as full retrieval.
+- London Museum supports the Grunwick demands and defeat. A broad sentence on East African independence chronology and image-catalogue month labels is not used to date the strike.
+
+### Connected reading inventory
+
+- `course-v17-cloth-shared-authorship` — Cloth and the many hands of authorship / 织物与共同制作的许多双手; 5 linked records, 22 estimated minutes.
+- `course-v17-objects-public-authority` — Objects that make authority visible / 让权威可见的物件; 4 linked records, 18 estimated minutes.
+- `course-v17-cargo-contracts-rations` — Cargo, contracts and rations / 货物、契约与配给; 4 linked records, 20 estimated minutes.
+- `course-v17-everyday-writing-surfaces` — Everyday writing: an invitation, a lesson, a letter / 日常书写：请柬、习作与书信; 4 linked records, 18 estimated minutes.
+- `course-v17-bookmaking-collaborators` — Who makes a book? / 谁制作一本书？; 4 linked records, 18 estimated minutes.
+- `course-v17-authors-build-audiences` — Authors who build their own audiences / 建立自己读者群的作者; 3 linked records, 16 estimated minutes.
+- `course-v17-price-of-labor` — The price of work and the power to negotiate / 劳动的价格与谈判的力量; 4 linked records, 20 estimated minutes.
+- `course-v17-records-under-persecution` — Preserving lives and identities under persecution / 在迫害中保存生命与身份; 3 linked records, 16 estimated minutes.
+- `course-v17-places-in-an-objects-life` — Where is the story? Places in an object’s life / 故事在哪里？物件生命中的地点; 4 linked records, 18 estimated minutes.
+- `course-v17-provisioning-monuments` — Feeding, recording and building in ancient Egypt / 古埃及的供给、记录与建造; 4 linked records, 18 estimated minutes.
+
+All 18 new story IDs occur in at least one new reading. Reading questions are original editorial prompts grounded in the linked records. Dates are within their records’ focus intervals; empty `routeIds` avoid presenting comparisons as travel itineraries. Map-point meanings receive their own reading because production, destination, findspot and present collection must not be conflated.
+
+### World-story image rights
+
+No source image is imported by this author. The parent integration owner separately reviewed the Met’s Public Domain Mangaaka image and Equiano’s eighteenth-century engraving for the matching story IDs. Their final creator credits, file integrity, image dates and reuse statements belong in the media manifest and notice. The Olowe collection pages, Adire article and other institutional pages are evidence sources, not implicit image licenses. No new portrait identification is inferred from these texts.
+
+### Verification boundary
+
+JSON structure, stable biography identities, bilingual fields, supported chronology exceptions, English summary lengths, source metadata, related-record resolution and reading map-year bounds are checked locally. The parent owns the integrated content build, application tests, browser review and publication. The source notes record inspected evidence rather than claiming every inherited related record has been freshly audited in this batch.
+
+The completed local check found **34 biographies, 103 milestones, 18 stories and 10 readings**, with no structural/reference/date-range errors. The 34 IDs and bilingual names exactly match the assigned baseline directory order. Biography summaries contain 109–121 English words; stories contain 116–138. All new stories occur in a reading. The five chronology exceptions listed above remain deliberate evidence limits. Merer’s title was revised to describe stone transport **for** Khufu’s pyramid, avoiding an implied phase before construction.

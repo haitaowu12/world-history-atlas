@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Atlas viewport review</title>
+<style>
+  *{box-sizing:border-box}body{margin:0;background:#e9eceb;color:#20332c;font:14px system-ui,sans-serif}
+  header{display:flex;align-items:center;gap:12px;padding:10px 16px;background:#fff;border-bottom:1px solid #c8ceca;flex-wrap:wrap}
+  h1{font-size:15px;margin:0}button,select{font:inherit;padding:6px 10px}button[aria-pressed=true]{background:#244c3e;color:white}
+  main{display:flex;justify-content:center;padding:12px;overflow:auto}iframe{box-sizing:content-box;border:1px solid #929e97;background:#faf8f2;flex-shrink:0}
+  output{font-variant-numeric:tabular-nums}
+</style>
+<header>
+  <h1>Atlas viewport review</h1>
+  <button data-width="1280" data-height="800">Desktop</button>
+  <button data-width="768" data-height="900">Tablet</button>
+  <button data-width="390" data-height="844" aria-pressed="true">Phone</button>
+  <button data-width="320" data-height="740">Small phone</button>
+  <label>Language <select id="review-language"><option value="en">English</option><option value="zh">中文</option></select></label>
+  <output id="review-size">390 × 844 CSS pixels</output>
+</header>
+<main><iframe id="atlas-review-frame" title="World History Atlas under review" width="390" height="844" src="./index.html#year=1200&amp;lang=en"></iframe></main>
+<script>
+  const frame=document.querySelector('iframe'),size=document.querySelector('output');
+  document.querySelectorAll('[data-width]').forEach(button=>button.addEventListener('click',()=>{
+    frame.width=button.dataset.width;frame.height=button.dataset.height;
+    document.querySelectorAll('[data-width]').forEach(item=>item.setAttribute('aria-pressed',String(item===button)));
+    size.textContent=frame.width+' × '+frame.height+' CSS pixels';
+  }));
+  document.querySelector('select').addEventListener('change',event=>{
+    const url=new URL(frame.contentWindow.location.href),params=new URLSearchParams(url.hash.slice(1));
+    params.set('lang',event.target.value);url.hash=params.toString();frame.src=url.href;
+  });
+</script>
+</html>

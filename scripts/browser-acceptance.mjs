@@ -5,6 +5,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import {spawn} from 'node:child_process';
 import {pathToFileURL,fileURLToPath} from 'node:url';
+import {CONTENT_MANIFEST} from '../dist/content-expansion.mjs';
 
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const output=path.resolve(process.env.ATLAS_BROWSER_OUTPUT||path.join(root,'browser-evidence'));
@@ -17,8 +18,11 @@ const base='http://127.0.0.1:8080/';
 let browser;
 const evidence={startedAt:new Date().toISOString(),checks:[],browser:null};
 const read=file=>JSON.parse(fs.readFileSync(path.join(root,'dist/data',file),'utf8'));
-const media=read('history-media.json');
-const readings=read('story-readings-v16.json');
+const manifest=read(CONTENT_MANIFEST);
+const media=read(manifest.mediaFile||'history-media.json');
+const priorCourses=new Set(read(read(manifest.baseline.manifest).coursesFile).map(course=>course.id));
+const readings=read(manifest.coursesFile).filter(course=>!priorCourses.has(course.id));
+const personIds=new Set(['people.json',...manifest.files.map(file=>file.file)].flatMap(read).filter(record=>record.kind==='person').map(record=>record.id));
 const mark=(name,details={})=>{evidence.checks.push({name,status:'passed',...details});console.log('PASS '+name);};
 
 try{
@@ -50,9 +54,9 @@ try{
   };
 
   await goto('#year=1200&lang=en');
-  assert.equal(await page.evaluate(()=>window.atlasAPI.version),'0.22.0');
+  assert.equal(await page.evaluate(()=>window.atlasAPI.version),manifest.version);
   assert.equal(await page.locator('.fatal').count(),0);
-  mark('Application starts with the V16 content release');
+  mark('Application starts with the selected content release',{version:manifest.version});
 
   // Decode every distributed file; a successful HTTP response is insufficient.
   const imageResults=await page.evaluate(async items=>Promise.all(items.map(item=>new Promise(resolve=>{
@@ -65,7 +69,7 @@ try{
   await page.locator('#people-nav').click();
   await page.locator('#discovery-portraits').focus();await page.keyboard.press('Space');
   assert.equal(await page.locator('#discovery-portraits').isChecked(),true);
-  const portraitCount=media.items.filter(item=>item.kind==='portrait').length;
+  const portraitCount=new Set(media.items.filter(item=>item.kind==='portrait').flatMap(item=>item.recordIds).filter(id=>personIds.has(id))).size;
   assert.equal(await page.locator('.discovery-card').count(),portraitCount);
   assert.ok(await page.locator('.media-catalogue-note').innerText().then(text=>text.includes('later')));
   await page.screenshot({path:path.join(output,'desktop-people.png')});
@@ -106,7 +110,7 @@ try{
   await page.reload();await loaded();assert.match(await page.locator('#detail h2').innerText(),/copper deal/i);
   mark('New story search, saved-entry preservation and shared-link reload work');
 
-  // Follow every stop of the three new readings through their public URLs.
+  // Follow every stop added by the selected release through its public URL.
   for(const reading of readings){
     for(const [step,id] of reading.recordIds.entries()){
       await goto('#lang=en&reading='+reading.id+'&step='+step);

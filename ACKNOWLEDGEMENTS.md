@@ -16,6 +16,8 @@ For **0.22.0**, the [9 November 2026 review](docs/JIANGSHAN_REVIEW_2026_11_09.md
 
 World History Atlas is maintained independently by Tony Wu. These credits do not imply endorsement by Jiangshan's authors or any source provider.
 
+For **0.23.0**, the [V17 review](docs/JIANGSHAN_REVIEW_V17.md) follows the next four commits through [`cfdd892`](https://github.com/DeanChensj/jiangshan-map/tree/cfdd892b3f69d0d1abce975ea887fc4a1ec1dab0). The donor's connected-story organization and search-parity work informed original atlas implementation and teaching methods. No new donor code, prose, translation, screenshot or geometry is copied. The [CH3 source comparison](docs/CH3_SOURCE_COMPARISON_V17.md) documents the correspondence and limits of the waterways and corridors already present.
+
 特别感谢 DeanChensj 和江山时序的贡献者们。你们把地点、人物和事件放回地图中的方式，为这个项目提供了重要启发。普天之下也继承并改编了有明确归属的江山资料；这些贡献及其原始声明会继续保留。
 
 ## Maps, data and software
@@ -44,7 +46,11 @@ A citation does not imply endorsement or transfer the rights in a source page. S
 
 The 0.22.0 additions comprise **14 original bilingual stories**: six about China and eight about objects, work and knowledge across other regions. The [China review](docs/JIANGSHAN_REVIEW_2026_11_09.md) and [world-story research notes](docs/V16_WORLD_STORIES_RESEARCH.md) identify the selected evidence and its limits. Three new guided readings connect these additions, bringing the atlas to **73 guided readings**.
 
+V17 adds **101 original bilingual biographies, 47 stories and 30 readings**. The [early-China and Africa/West Asia/Europe ledger](docs/V17_EARLY_CHINA_AND_AF_WA_EU_RESEARCH.md), [medieval-China and Asia ledger](docs/V17_MEDIEVAL_CHINA_AND_ASIA_RESEARCH.md), and [later-China and Americas/Pacific ledger](docs/V17_LATER_CHINA_AND_AMERICAS_PACIFIC_RESEARCH.md) identify the inspected texts, scholarship, museums, archives and community sources. Individual source notes explain what each passage supports and where interpretation remains qualified.
+
 ## Historical portraits and object images
+
+The current [V17 media catalogue](dist/data/history-media-v17.json) contains **29 images**, preserving the original sixteen and adding thirteen. The [V17 image review](docs/HISTORICAL_MEDIA_V17.md) records eleven public-domain portraits/depictions and two Met CC0 object photographs. Named artists, photographers, collections and prior digital edits remain credited. No AI-generated reconstruction or uncertain new portrait identification is included.
 
 The 0.22.0 image collection adds **16 locally held images**, including **ten portraits or depictions of historical people** and **six object or manuscript images**. Thank you to the named photographers, artists, collections and digitization contributors credited in the [image notice](dist/assets/history-media/NOTICE.md), including The Metropolitan Museum of Art, the National Palace Museum in Taipei, and Wikimedia Commons contributors and their source institutions.
 

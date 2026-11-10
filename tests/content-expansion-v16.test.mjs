@@ -2,7 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import {createHash} from 'node:crypto';
-import {CONTENT_MANIFEST,auditExpansion} from '../dist/content-expansion.mjs';
+import {auditExpansion} from '../dist/content-expansion.mjs';
 import {validateRecords} from '../dist/core.mjs';
 import {journeys} from '../dist/journeys.mjs';
 import {buildReadingCatalog} from '../dist/reading-catalog.mjs';
@@ -11,7 +11,7 @@ import {readingStepYear} from '../dist/americas-history.mjs';
 const bytes=file=>fs.readFileSync(new URL('../dist/data/'+file,import.meta.url));
 const read=file=>JSON.parse(bytes(file));
 const sha256=value=>createHash('sha256').update(value).digest('hex');
-const prior=read('content-expansion-v15.json'),manifest=read(CONTENT_MANIFEST);
+const prior=read('content-expansion-v15.json'),manifest=read('content-expansion-v16.json');
 const expansion=manifest.files.flatMap(file=>read(file.file));
 const fresh=manifest.addition.files.flatMap(read);
 const base=[...['history.json','people.json','china-depth-v7.json','china-donor-stories.json','civilization-stories.json','world-depth-v7.json','modern-continuity-v7.json'].flatMap(read),...read('china-import-manifest.json').eventFiles.flatMap(file=>read(file.path))];
@@ -33,8 +33,7 @@ const frozen={
  'evidence-followups-v11.json':'b384895cc88989d50a3f1e502b5035c3e3d6b95f6962e206b7fa23dd9c7f8cb5'
 };
 
-test('V16 selects the new manifest while preserving the frozen V15 inputs and descriptors',()=>{
- assert.equal(CONTENT_MANIFEST,'content-expansion-v16.json');
+test('the V16 checkpoint preserves the frozen V15 inputs and descriptors',()=>{
  assert.equal(manifest.baseline.manifest,'content-expansion-v15.json');
  for(const [file,hash] of Object.entries(frozen))assert.equal(sha256(bytes(file)),hash,file+' frozen receipt');
  for(const file of prior.files)assert.deepEqual(manifest.files.find(item=>item.file===file.file),file,file.file+' prior descriptor');

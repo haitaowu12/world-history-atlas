@@ -17,6 +17,12 @@ Original application code and project documentation are covered by the root [MIT
 
 The imported Jiangshan event prose, profiles, chronicles, quotations, existing English translations, city notes, place-name records and related source text are **not licensed by this project's CC BY notice**. Converting them to JSON, adding a citation, retaining them in an `originalText` field or displaying them beside a newly written essay does not change their source attribution or terms.
 
+## 0.23.0 continuation
+
+The six V17 narrative shards listed in the [release manifest](../dist/data/content-expansion-v17.json) contain **101 newly authored bilingual biographies and 47 stories**. The three `story-readings-*-v17.json` files contain **30 original readings**. Their original expression follows the CC BY 4.0 terms above. Existing profile IDs, factual names and references are retained for continuity; this does not relicense the inherited profile prose. The [donor review](JIANGSHAN_REVIEW_V17.md) records methodological credit without a new code, prose or geometry import.
+
+The [versioned V17 media catalogue](../dist/data/history-media-v17.json) preserves all sixteen earlier image objects and adds **eleven public-domain portraits/depictions and two Met CC0 object photographs**. The [image notice](../dist/assets/history-media/NOTICE.md) and [V17 rights review](HISTORICAL_MEDIA_V17.md) identify the individual files, creators, institutions, dates and transformations. Museum or scholarly pages cited for facts do not license their images or authorize reproducing their text. No restricted press photograph or uncertain portrait identification is added.
+
 ## 0.22.0 stories and historical images
 
 The **14 new bilingual stories** in [`expansion-china-stories-v16.json`](../dist/data/expansion-china-stories-v16.json) and [`expansion-world-stories-v16.json`](../dist/data/expansion-world-stories-v16.json), and the three new [guided readings](../dist/data/story-readings-v16.json), are original atlas writing under the CC BY 4.0 terms above. The six China stories use selected Jiangshan topics as research leads. The [9 November donor review](JIANGSHAN_REVIEW_2026_11_09.md) documents the selection; no new Jiangshan code, prose or geometry was imported for this update. New original explanatory text in the four corrected [earlier China stories](../dist/data/china-donor-stories.json) follows the same original-narrative terms. These changes do not alter any earlier import's license or its retained notices.

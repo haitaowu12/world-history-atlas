@@ -4,6 +4,10 @@ import vm from 'node:vm';
 import {buildAreaHistoryIndex} from '../dist/us-canada-reference.mjs';
 import {createHash} from 'node:crypto';
 import {auditExpansion,expansionCoverage,applyEvidenceReviews,hasReviewedLimitedChronology} from '../dist/content-expansion.mjs';
+import {buildDiscoveryIndex} from '../dist/discovery.mjs';
+import {buildReadingCatalog} from '../dist/reading-catalog.mjs';
+import {journeys} from '../dist/journeys.mjs';
+import {auditPlaceLabelTranslations} from '../dist/place-labels.mjs';
 
 const root=new URL('../',import.meta.url);
 const read=p=>JSON.parse(fs.readFileSync(new URL(p,root),'utf8'));
@@ -39,6 +43,9 @@ for(const profile of expectedProfiles){
 }
 for(const row of delta)for(const location of [row.location,...(row.milestones||[]).map(m=>m.location)])if(!location?.labelI18n?.en||!location?.labelI18n?.zh)throw Error(row.id+': bilingual place label missing');
 const errors=auditExpansion(rows,baseline,reviewedAll);
+const placeLabels=read('dist/data/place-labels-reviewed-v17.json');
+errors.push(...auditPlaceLabelTranslations(placeLabels,reviewedAll));
+if(placeLabels.items.length!==149)errors.push('V17 requires the 149 linked older place-label translations');
 if(errors.length)throw Error(errors.join('\n'));
 const coverage=expansionCoverage(rows,baseline.workstreams);
 const oldCourses=read('dist/data/'+baseline.coursesFile);
@@ -60,9 +67,16 @@ const output={schemaVersion:1,version:'0.23.0',preparedAt:'2026-11-09',
   baseline:{manifest:'content-expansion-v16.json',localCommit:'3849fb809e9340e0a06ffa9329c0cdcdb3f733a0',records:base.length+rows.length-delta.length},
   files,evidenceReviewsFile:'evidence-followups-v11.json',coursesFile:'expansion-courses-v17.json',geographicReferenceFile:'us-canada-reference.json',geographicAssociationsFile:'us-canada-area-links-v12.json',geographicIndexFile:'us-canada-history-index-v17.json',regionalHistoryFile:'regional-history-v17.json',earlyChinaGuideFile:'early-china-guide-v14.json',workstreams:baseline.workstreams,
   counts:{...counts(rows),readingPaths:courses.length,releases:Object.fromEntries([1,2,3,4,5,6,7,8,9,10,11].map(n=>[n,rows.filter(r=>r.expansion.release===n).length]))},
+  runtimeCounts:{records:all.length,biographies:all.filter(r=>r.kind==='person').length,
+    people:buildDiscoveryIndex({records:all,library:read('dist/data/china-library.json')}).people.length,
+    guidedReadings:buildReadingCatalog(journeys,[...read('dist/data/courses.json'),...courses],byId).length},
   addition:{edition:'v17',release:11,files:newFiles,...counts(delta),recordIds:delta.map(r=>r.id),
     regions:Object.fromEntries([...new Set(delta.map(r=>r.region))].map(region=>[region,counts(delta.filter(r=>r.region===region))]))},
   mediaFile:'history-media-v17.json',
+  placeLabelsFile:'place-labels-reviewed-v17.json',
+  placeLabelTranslations:{records:placeLabels.items.length,
+    bytes:fs.readFileSync(new URL('dist/data/place-labels-reviewed-v17.json',root)).length,
+    sha256:createHash('sha256').update(fs.readFileSync(new URL('dist/data/place-labels-reviewed-v17.json',root))).digest('hex')},
   chronologyExceptions:people.filter(hasReviewedLimitedChronology).map(r=>({recordId:r.id,milestones:r.milestones.length,...r.chronologyReview})),
   researchService:{...baseline.researchService,followup:{method:'Original bilingual biographies and regional stories from inspected historical texts, scholarship and institutional records. Source-profile identities are retained; explicit chronology reviews explain sparse dated evidence. Jiangshan updates are credited as method and topic leads; image rights remain separate.',checkedAt:'2026-11-09'}},
   method:{en:'V17 completes the 101 inherited reference profiles with researched biographies and adds 47 regional stories and 30 readings. It preserves profile identities, older reading URLs and released narrative files. Dates describe supported focus periods, and bilingual labels explain representative map points.',zh:'V17为101则沿用的人物资料补充经查证的生平，新增47篇地区故事及30条阅读路径。人物标识、旧阅读链接与已发布叙事文件保持不变。年代表示有证据支持的关注时段，双语标签说明地图代表点。'},

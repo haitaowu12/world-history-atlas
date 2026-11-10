@@ -1,12 +1,12 @@
 {
   "name": "world-history-atlas",
-  "version": "0.22.0",
+  "version": "0.23.0",
   "private": true,
   "type": "module",
   "description": "普天之下 · A bilingual atlas for putting history stories in their wider world.",
   "license": "MIT",
   "scripts": {
-    "build:content": "node scripts/build-content-expansion-v16.mjs",
+    "build:content": "node scripts/build-content-expansion-v17.mjs",
     "test": "node --test --experimental-test-isolation=none tests/*.test.mjs",
     "validate": "node scripts/validate.mjs",
     "check": "node scripts/validate.mjs && node --test --experimental-test-isolation=none tests/*.test.mjs",
@@ -22,7 +22,7 @@
     "type": "git",
     "url": "https://github.com/haitaowu12/world-history-atlas.git"
   },
-  "homepage": "https://world-history-atlas-tony.techiesea.chatgpt.site",
+  "homepage": "https://world-history-atlas-guide.web.app/",
   "bugs": {
     "url": "https://github.com/haitaowu12/world-history-atlas/issues"
   }

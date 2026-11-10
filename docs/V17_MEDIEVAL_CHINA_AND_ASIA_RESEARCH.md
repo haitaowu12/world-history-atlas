@@ -19,6 +19,7 @@ The edition uses the agreed review-batch label `2026-11-09`. Retrieval records d
 - Wen Tianxiang’s death uses the modern civil-calendar year 1283, with the conventional 1282 lunar-year discrepancy explained. Qi Jiguang’s source gives conflicting 1587/1588 death dates, so the profile closes at the inspected 1583 posting instead.
 - Yongle’s accession in 1402 differs from the first year of his era in 1403. Palace completion in 1420 differs from the formal capital move in 1421.
 - Zhang Juzheng’s 1581 Single Whip measure is an extension of fiscal consolidation, not the invention or instantaneous uniform adoption of silver taxation.
+- Independent cross-review corrected Fan Zhongyan’s school milestone from the compressed English biography: the appointment was in 1034, while the Suzhou gazetteer office and Soochow University explicitly date foundation to 1035. Both passages were inspected and the profile, milestone, sources and reading anchor were corrected.
 - Some consulted summaries contain errors outside the retained claims: the Taizong handout’s 624 succession date, the Suzhou biography’s conflation of Fan Zhongyan’s 1034 school with a charitable estate, the Yue Fei page’s emperor/date for rehabilitation, and the Xin Qiji genealogy article’s proposed Guangde appointment. These were not imported.
 
 ## Biography claim-to-source map
@@ -232,11 +233,13 @@ Dated anchors: 927 — Birth; 960 — The Song is founded; 976 — The reign end
 
 ID: `china-person-fanzhongyan`. Selected interval: 1015–1052.
 
-1015–1052 selects the documented official career through his death. The school is dated to his 1034 Suzhou appointment; the charitable estate’s separate chronology is not included.
+1015–1052 selects the documented official career through his death. The Suzhou appointment in 1034 is distinct from the school’s foundation in 1035; the charitable estate’s separate chronology is not included.
 
-Dated anchors: 1015 — Jinshi degree; 1034 — A school in Suzhou; 1043 — A reform program; 1045 — Dismissal from central office.
+Dated anchors: 1015 — Jinshi degree; 1035 — A school in Suzhou; 1043 — A reform program; 1045 — Dismissal from central office.
 
-- [Fan Zhongyan](https://english.suzhou.gov.cn/szsenglish/qqdyd/202303/f82c21adcddc4915a4efa1411e554c26.shtml) — Suzhou Municipal Government. Supports 1015 jinshi, 1034 Suzhou office and school, 1040 frontier appointment, 1043 reform proposals, 1045 dismissal and 1052 death. The charitable estate’s conflated date is excluded. Retrieval: `opened-page`.
+- [Fan Zhongyan](https://english.suzhou.gov.cn/szsenglish/qqdyd/202303/f82c21adcddc4915a4efa1411e554c26.shtml) — Suzhou Municipal Government. Supports 1015 jinshi, 1034 Suzhou appointment, 1040 frontier appointment, 1043 reform proposals, 1045 dismissal and 1052 death. Its compressed account of the school and charitable estate does not establish their foundation dates. Retrieval: `opened-page`.
+- [苏州文庙的缘起](https://dfzb.suzhou.gov.cn/dfzb/szdq/201901/57c24d8ceee54595850596099a7a5c26.shtml) — 苏州市地方志工作办公室. The opening paragraph dates the prefectural school’s foundation to Jingyou 2 (1035), during Fan’s prefectural appointment. Retrieval: `opened-page`.
+- [中小学师资现场教学基地——苏州中学](https://jxjypx.suda.edu.cn/63/d0/c12158a353232/page.htm) — 苏州大学继续教育学院. The opening historical account and 1035 chronology corroborate Fan’s foundation of the school. Later claims of uninterrupted institutional continuity are not adopted. Retrieval: `opened-page`.
 
 ### Ouyang Xiu / 欧阳修
 
@@ -264,12 +267,11 @@ Dated anchors: 1060 — A capital appointment; 1069 — The crop-loan proposal; 
 
 ID: `china-person-simaguang`. Selected interval: 1038–1086.
 
-1038–1086 runs from the cited examination year to death. The 1070 milestone marks departure from the capital, not a claim that the compilation began or ended in that year.
+1038–1086 runs from the cited examination year to death. The 1070 milestone marks his request to leave capital politics, not an arrival date in Luoyang or the beginning or completion of the chronicle.
 
-Dated anchors: 1038 — Jinshi degree; 1070 — Leaving the capital; 1086 — Death.
+Dated anchors: 1038 — Jinshi degree; 1070 — Requesting leave from the capital; 1086 — Death.
 
-- [Sima Guang](https://www.cuhk.edu.hk/renditions/authors/simag.html) — Chinese University of Hong Kong, Research Centre for Translation. Supports 1019–1086 lifespan, 1038 jinshi, opposition to Wang Anshi and 1070 departure from the capital to work on the Zizhi tongjian. Its erroneous 405 BCE chronicle start is excluded. Retrieval: `opened-page`.
-
+- [Sima Guang](https://www.cuhk.edu.hk/renditions/authors/simag.html) — Chinese University of Hong Kong, Research Centre for Translation. Supports 1019–1086 lifespan, 1038 jinshi, opposition to Wang Anshi and 1070 request to leave the capital, alongside discussion of the Zizhi tongjian. Its erroneous 405 BCE chronicle start is excluded. Retrieval: `opened-page`.
 - [Wang Anshi: Memorial on the Crop Loans Measure](https://afe.easia.columbia.edu/main_pop/ps/ps_china-wang-anshi-crop-loans.htm) — Columbia University, Asia for Educators. The dated 1069 memorial explains grain purchases, seasonal loans and the aim of reducing farmers’ dependence on costly private credit; this is policy advocacy, not demonstrated outcomes. Its introduction’s 1068 chief-councilor appointment is not used. Retrieval: `opened-page`.
 
 ### Su Shi / 苏轼
@@ -423,4 +425,173 @@ Dated anchors: 1547 — Jinshi degree; 1572 — Chief grand secretary; 1578 — 
 
 ## Regional stories and connected readings
 
-In preparation: thirteen object, workshop, document and local-administration stories, followed by ten comparative reading courses. Their final source ledger and checks will be added to this file before handoff.
+Thirteen original bilingual stories complete this assigned slice of CH2, EA1–EA3, SA1–SA3 and SE1–SE3. They focus on local administration, inscriptions, inventories, textiles, workshops, shipping and queenship. Ten original connected readings link all 47 records in this shard (34 upgraded biographies and 13 new stories), with three discussion questions and one activity per reading. Their map anchors fall inside the linked records’ selected intervals; an editorial connection does not imply a reconstructed journey or direct influence.
+
+### Source handling and material decisions
+
+- Muryeong: distinguish death (523), burial (525), and the queen’s burial (529). The recent article’s proposed movement of ritual objects is not asserted as a known sequence. The marker identifies Songsan-ri royal tombs, not Gongsanseong fortress.
+- Gaya: the fifth-century display range belongs to armor manufacture. Cemetery patterns support an archaeological interpretation of several polities; the object is not attributed to an invented smith or battle.
+- Shōsōin: distinguish the 752 ceremony, 756 gift and 757 commemoration from objects’ manufacture. Do not convert traditional lunar dates into unverified Gregorian day/month dates. A Persian style does not prove a Persian place of manufacture.
+- Ryūkyū: 1424–1867 dates the documents; 1697 dates a major compilation. NTU’s translation supplies the latter and the archival work. The Kyoto Review translation contains inconsistent or mistaken ancillary dates; those are excluded. Neither source is used as a blank endorsement of every chronological claim on its page.
+- Ainu: the Metropolitan Museum’s nineteenth-century robe has no identified individual maker or exact workshop. The Ainu Association is used for the inspected 1869 and 1872 historical passages, not its outdated present-day legal statements or inconsistent unrelated dates. The object’s display interval does not imply an end to Ainu culture.
+- Sanchi: download and inspect the actual Max Planck repository article, pp. 274–275, and Torlino’s section 3.2, pp. 166–167, in the Ca’ Foscari repository issue. Direct journal downloads were blocked; the public repository copies were readable. No donation totals, pilgrimage routes or universal claims about women’s freedom are inferred.
+- Coromandel: the object’s first-quarter eighteenth-century date is retained. East India Company import is probable, not certain. The marker represents the production coast, not a documented workshop.
+- Kantha: the 1870–1930 interval follows the Philadelphia Museum’s historical nakshi group. Historic Bengal is distinguished from present-day boundaries. Restricted press photographs are not reused.
+- Hội An: the Met dish is early sixteenth century, probably Hải Dương; the Smithsonian cup is fifteenth century. The editorial 1475–1525 window does not constitute a newly measured wreck date. The findspot name does not establish a departure port, destination, crew identity or cause of loss. Parent integration separately inspects and attributes the Met public-domain image.
+- Belitung: circa 830 is approximate. Sewn construction suggests western Indian Ocean technical connections without identifying every crew member. The ports remain unknown; the Smithsonian’s announced exhibition is not described as having actually occurred. Natali Pearson’s analysis supplies the salvage/display debate without importing current legal claims or a falsely precise cargo total.
+- Aceh: the 1689 memorandum concerns Kamalat Syah. Its author was a civilian trading-ship delegation, not a resident VOC official. Su Fang Ng’s abstract/opening excerpt supports analysis of royal genealogy; full chapter access is not claimed. Legendary ancestry is treated as representation.
+- Pekalongan: a canting is rendered as 蜡绘笔, not 蜡刀. A named entrepreneur’s signature is distinct from all the hands that applied wax. The natural/synthetic dye comparison and subcontracting relationship come from separate catalogue passages.
+
+### Rights and source independence
+
+All story prose and questions were newly written. The classical Gao Shi poem is public-domain source material, paraphrased without copying a modern translation. The modern institutional, scholarly and community sources retain their own copyright and licence terms; fact research does not make their prose or photographs atlas assets. Powerhouse catalogue text is restricted CC BY-NC-ND and its photography requires permission; no expression or image is copied. LACMA photographs and the Philadelphia Museum press images are likewise not reused. The Met Hội An dish has a separate public-domain image statement, handled in the central image catalogue. No donor code, prose, map or unverified portrait was reproduced in this shard.
+
+Each overview uses at least two sources from different institutions or identifiable authors; when a later article discusses another scholar’s inscriptions, the relevant primary scholarly passage was also inspected. Text sources and image rights are separate records.
+
+### Story claim-to-source map
+
+#### Gao Shi at the county desk / 县衙案前的高适
+
+ID: `china-gao-shi-fengqiu-office`. Workstreams: CH2. Display interval: 749–752.
+
+749–752 marks the inspected chronology of the Fengqiu appointment and resignation. The poem is associated with the posting; no exact composition day is asserted.
+
+- [高适](https://www.chinakongzi.org/kzsf/wxxs/zuozhe/gaoshi/200705/t20070525_37865.htm) — 中国孔子网. Biography dates the appointment to 749, departure to Tianbao 11 (752), and subsequent frontier service. Used for career context, not its evaluative ranking of poets. Retrieval: `opened-page`.
+- [封丘作](https://zh.wikisource.org/zh-hans/%E5%B0%81%E4%B8%98%E4%BD%9C) — 高适；维基文库古典文本. The inspected poem describes deadlines, greeting superiors, flogging commoners and conversation with the speaker’s family. Original paraphrase of a public-domain poem; no modern translation copied. Retrieval: `opened-page`.
+
+#### A royal tomb with names: Muryeong and his queen / 有名可考的王陵：武宁王与王后
+
+ID: `baekje-muryeong-tomb-records`. Workstreams: EA1. Display interval: 523–529.
+
+The selected interval runs from Muryeong’s death in 523 to the queen’s burial in 529. The king’s burial was in 525. These are different events, not competing dates for one funeral.
+
+- [Gold Diadem Ornaments Unearthed from the Tomb of King Muryeong](https://www.museum.go.kr/ENG/contents/E0201020000.do?relicRecommendPk=PS01001001_58&schM=list) — National Museum of Korea. The Muryeong section identifies the royal occupants through epitaphs and describes Chinese ceramics, a land-purchase certificate and coffins made with Japanese wood. Retrieval: `opened-page`.
+- [Reconstructing the Funerary Process within the Burial Chamber of the Tomb of King Muryeong](https://oak.go.kr/central/journallist/journaldetail.do?article_seq=29528) — Kang Wonpyo, Journal of Korean Art and Archaeology 19 (2025), National Museum of Korea; OAK repository. Inspected Introduction and Reconstructing the Funerary Process sections: 523 death, 525 burial, queen’s 529 burial, rushed 1971 excavation and later reassessment. Hypothetical movements of individual objects are not asserted as fact. Retrieval: `downloaded-page-text`.
+- [Baekje Historic Areas](https://whc.unesco.org/en/list/1477/) — UNESCO World Heritage Centre. The statement of Outstanding Universal Value situates Gongju’s royal tombs within Baekje’s exchanges with China and Japan. Retrieval: `opened-page`.
+
+#### Iron plates, skilled hands: armor in Gaya / 铁片与匠手：伽倻的甲胄
+
+ID: `gaya-armor-workshops`. Workstreams: EA1. Display interval: 400–500.
+
+400–500 is an approximate fifth-century display interval for the armor-production phase described by the museum, not a precise date for the occupant of Tomb 32.
+
+- [Armor from Jisan-dong Tomb 32](https://www.museum.go.kr/ENG/contents/E0201020000.do?relicRecommendPk=PS01001001_58&schM=list) — National Museum of Korea. The armor section describes nailed iron plates, separate neck and shoulder protection, the Goryeong findspot and fifth-century Daegaya manufacture. Retrieval: `opened-page`.
+- [Gaya Tumuli](https://whc.unesco.org/en/list/1666/) — UNESCO World Heritage Centre. The Outstanding Universal Value statement interprets seven cemeteries as evidence of autonomous Gaya polities with shared cultural practices and varying hierarchies. Retrieval: `opened-page`.
+
+#### A gift inventory becomes a world of objects / 一份献物清单里的器物世界
+
+ID: `shosoin-gifts-and-work`. Workstreams: EA2. Display interval: 752–757.
+
+752–757 covers the ceremonies and donations discussed here. The principal donation was in 756; it is not the manufacture date of every object. Traditional lunar-calendar day numbers are not converted into unverified Gregorian dates.
+
+- [The Shosoin Treasure House](https://www.kunaicho.go.jp/en/learn/institution/shisetsu/kyoto/shosoin01.html) — Imperial Household Agency. Describes Kōmyō’s 756 donation after Shōmu’s death, its inventory, the range of stored objects and the preservation setting. Retrieval: `opened-page`.
+- [Treasures of Shosoin](https://www.tnm.jp/modules/r_free_page/index.php?id=1968&lang=en) — Tokyo National Museum. Exhibition passages associate textiles with the 752 and 757 ceremonies and discuss instruments and vessels with cross-regional styles, including uncertain places of manufacture. Retrieval: `opened-page`.
+
+#### Letters that kept Ryūkyū connected / 维系琉球往来的文书
+
+ID: `ryukyu-rekidai-hoan-records`. Workstreams: EA3. Display interval: 1424–1867.
+
+1424–1867 is the span of the documents, not the kingdom’s full history. A documented compilation took place in 1697. Later twentieth-century losses belong to the archive’s transmission history.
+
+- [The Rekidai Hōan Documents of the Ryūkyū Kingdom](https://kyotoreview.org/issue-3-nations-and-stories/the-rekidai-hoan-documents-of-the-ryukyu-kingdom/amp/) — Kyoto Review of Southeast Asia; translated Okinawa archival editorial. Body text supplies 1424–1867 contents, two-copy transmission and losses in 1923 and 1945. Its inconsistent opening year and erroneous ruler/annexation dates are excluded. Retrieval: `opened-page`.
+- [歷代寶案（琉球之外交文書）](https://speccoll.lib.ntu.edu.tw/node/189) — National Taiwan University Library, translation of Kobata Atsushi’s 1992 study. Inspected discussion supports 1697 compilation, court and Kume copies, Kumemura’s literate community and the information carried in fuwen and zhizhao documents. An unrelated era-year conversion error is not reused. Retrieval: `opened-page`.
+
+#### Elm fiber and the hands that made an Ainu robe / 榆树纤维与制作阿伊努长衣的双手
+
+ID: `ainu-attus-making`. Workstreams: EA3. Display interval: 1800–1900.
+
+1800–1900 is an approximate display interval for the museum’s nineteenth-century dating. The 1869 reference concerns colonial administration, not the date the robe was sewn.
+
+- [Ainu robe, 1999.247.1](https://www.metmuseum.org/art/collection/search/53902) — The Metropolitan Museum of Art. Dates the robe to the nineteenth century, identifies elm fiber and embroidery, and describes women’s roles in design, weaving and sewing. Retrieval: `opened-page`.
+- [Ainu history](https://www.ainu-assn.or.jp/english/history.html) — Ainu Association of Hokkaido. The inspected nineteenth-century section describes the 1869 Colonization Commission and 1872 expropriation of Ainu land. Other inconsistent dates and outdated present-day legal statements on the site are not used. Retrieval: `opened-page`.
+
+#### Names on the stone: the donors of Sanchi / 刻在石上的姓名：桑奇的施主
+
+ID: `sanchi-donor-inscriptions`. Workstreams: SA1. Display interval: -100–-1.
+
+100–1 BCE is an approximate display interval for the first-century BCE donation records discussed in the inspected study. It is not the construction span of the entire Sanchi complex.
+
+- [The wheel-turning king and the lucky lottery: perspectives new and old on wealth and merriment within Buddhism](https://pure.mpg.de/rest/items/item_3501758_2/component/file_3501759/content) — Saskia Abrahms-Kavunenko and Matthew D. Milligan, Journal of Contemporary Religion 36.2 (2021), pp. 274–275; Max Planck repository. Actual downloaded PDF pp. 274–275 discusses Sanchi’s donor community, first-century BCE records and inscription 281 naming Dhamarakhitā of Madhuvana. No pilgrimage itinerary is inferred for an individual donor. Retrieval: `downloaded-pdf-text`.
+- [Some notes on the role of women in Early Buddhism, section 3.2](https://iris.unive.it/retrieve/26747b91-72c3-49ed-a37b-5a9a5e488688/22-21-PB.pdf) — Claudia Torlino, Journal of Asian Civilizations 45.2 (2022), pp. 166–167; Ca’ Foscari University repository. Inspected PDF section 3.2 describes female and nun donors and discusses their economic agency. The story does not generalize this local pattern to all Buddhist societies. Retrieval: `downloaded-pdf-text`.
+- [Buddhist Monuments at Sanchi](https://whc.unesco.org/en/list/524/) — UNESCO World Heritage Centre. Describes the monument complex, its building phases, railings and gateways; used to separate the selected inscriptions from the site’s much longer chronology. Retrieval: `opened-page`.
+
+#### Before the cargo: painting cotton on the Coromandel Coast / 装船之前：科罗曼德尔海岸的彩绘棉布
+
+ID: `coromandel-painted-cotton-workshops`. Workstreams: SA2. Display interval: 1700–1725.
+
+1700–1725 represents the museum’s first-quarter eighteenth-century attribution. It is an approximate object date, not the beginning or end of Coromandel textile production.
+
+- [Textile, 2005.166](https://www.metmuseum.org/art/collection/search/231243) — The Metropolitan Museum of Art. Identifies Coromandel manufacture in the first quarter of the eighteenth century, mostly freehand decoration, painted and resist/mordant-dyed cotton, and probable East India Company import for European furnishing. Retrieval: `opened-page`.
+- [The Global Craze for Cotton and Colour](https://www.rom.on.ca/magazine/global-craze-cotton-and-colour) — Sarah Fee, Royal Ontario Museum. The painting/printing and global-demand sections explain artisans’ color chemistry, production regions and older Indian Ocean markets followed by European company trade. Retrieval: `opened-page`.
+
+#### Old cloth, new stories: kantha in Bengal / 旧布上的新故事：孟加拉坎塔刺绣
+
+ID: `bengal-kantha-household-memory`. Workstreams: SA3. Display interval: 1870–1930.
+
+1870–1930 follows the Philadelphia Museum’s approximate range for the historical nakshi kanthas discussed here. Other kantha forms have different chronologies, and the practice continues.
+
+- [Kantha: a South Asian quilting tradition](https://www.vam.ac.uk/articles/kantha-a-south-asian-quilting-tradition) — Victoria and Albert Museum. Describes women’s household making, layered old cloth, reused threads, varied uses and imagery; identifies early twentieth-century examples from Bengal/Bangladesh. Retrieval: `opened-page`.
+- [A Century of Kanthas: Women’s Quilts in Bengal, 1870s–1970s](https://press.philamuseum.org/a-century-of-kanthas-womens-quilts-in-bengal-1870s1970s/) — Philadelphia Museum of Art. The historical nakshi section gives about 1870–1930, running stitches, household and devotional imagery, and heirloom transmission; distinguishes later galicha forms. Images are restricted press material and are not reused. Retrieval: `opened-page`.
+
+#### From a Vietnamese kiln to a ship’s hold / 从越南窑场到船舱
+
+ID: `vietnam-hoi-an-ceramic-cargo`. Workstreams: SE1. Display interval: 1475–1525.
+
+1475–1525 is an editorial approximate window for the late-fifteenth- to early-sixteenth-century cargo. It is not an independently dated sinking interval. The illustrated dish is catalogued early sixteenth century.
+
+- [Dish with bird in clouds, 2023.585](https://www.metmuseum.org/art/collection/search/828473) — The Metropolitan Museum of Art. The object record identifies an early-sixteenth-century Vietnamese blue-and-white dish, probably Hải Dương, recovered from the Hội An shipwreck. The image is marked Public Domain; catalogue attribution remains qualified. Retrieval: `opened-page`.
+- [Unseen Art History: Wine Cup from the Hoi An Hoard Shipwreck](https://asia-archive.si.edu/unseen-art-history-wine-cup-from-the-hoi-an-hoard-shipwreck/) — Smithsonian National Museum of Asian Art. Discusses a fifteenth-century Chu Đậu cup, Red River delta production, movement by river toward Vân Đồn, and the wreck’s late-fifteenth-/early-sixteenth-century context. Proposed final destination and cause of sinking are not adopted. Retrieval: `opened-page`.
+
+#### A cargo of bowls: the Belitung shipwreck / 一船陶碗：勿里洞沉船
+
+ID: `belitung-shipwreck-workshops`. Workstreams: SE2. Display interval: 830–830.
+
+About 830 is a conventional display anchor for a ninth-century wreck and associated objects, not a precisely recorded sinking year. Discovery in 1998 is part of the later archaeological history.
+
+- [Smithsonian and Singapore Present Shipwreck Treasures](https://asia-archive.si.edu/press-release/smithsonian-and-singapore-present-shipwreck-treasures/) — Smithsonian National Museum of Asian Art, 2010 announcement. Describes ninth-century cargo, ceramics and metalwork, 1998 discovery, sewn construction and explicitly unknown departure and destination ports. The planned exhibition is not described as having occurred. Retrieval: `opened-page`.
+- [Wrecked? Belitung, Indonesia and the politics of maritime heritage](https://indonesiaatmelbourne.unimelb.edu.au/wrecked-belitung-indonesia-and-the-politics-of-maritime-heritage/) — Natali Pearson, University of Melbourne, Indonesia at Melbourne. Identifies Changsha bowls, western Indian Ocean construction connections, objects dated about 830, and the commercial-salvage/display debate. Used as a named scholar’s analysis; no current legal advice or exact total cargo count is repeated. Retrieval: `opened-page`.
+
+#### Aceh’s queens: trading power and remembered ancestry / 亚齐女王：贸易权力与祖先记忆
+
+ID: `aceh-queens-and-negotiation`. Workstreams: SE2. Display interval: 1641–1699.
+
+1641–1699 covers the succession of four queens. The trader memorandum is dated 1689 and belongs to Kamalat Syah’s reign, not to the first queen’s.
+
+- [Memorandum of the chiefs of the civilian yacht Den Arent about Aceh in 1689: introduction](https://sejarah-nusantara.anri.go.id/hartakarun/item/05/introduction) — Sher Banu A. L. Khan, Arsip Nasional Republik Indonesia, Sejarah Nusantara. The archival introduction identifies the four queens and their reigns, the 1689 memorandum’s civilian authors, Dutch withdrawal and English/Dutch commercial rivalry. Retrieval: `opened-page`.
+- [Genealogical Memory: Constructing Female Rule in Seventeenth-Century Aceh](https://www.cambridge.org/core/books/abs/gendered-temporalities-in-the-early-modern-world/genealogical-memory-constructing-female-rule-in-seventeenthcentury-aceh/C3706790479972C2F873F07E3B806BA2) — Su Fang Ng, in Gendered Temporalities in the Early Modern World, Amsterdam University Press (2018); Cambridge Core. The publicly accessible abstract and opening passage analyze Taj al-Alam’s adaptation of paternal genealogy and legendary ancestry. Full chapter access is not claimed. Retrieval: `opened-abstract-and-excerpt`.
+
+#### Behind the signature: batik workshops in Pekalongan / 署名之后：北加浪岸的蜡染工坊
+
+ID: `pekalongan-batik-workshops`. Workstreams: SE3. Display interval: 1890–1910.
+
+1890–1910 links the documented workshop/subcontracting context around 1890 with two museum cloths dated about 1910. It is a selected episode, not the full lifespan of Pekalongan batik.
+
+- [Cotton sarong from North Java, 85/1074](https://collection.powerhouse.com.au/object/23479) — Powerhouse Museum; Hweifen Cheah’s curatorial note. Identifies the circa-1910 Eliza van Zuylen workshop sarong, signature, imported cotton, wax-resist process and women’s waxing work. The source’s restricted text/image licences do not become atlas asset licences. Retrieval: `opened-page`.
+- [Woman’s Hip Wrapper, M.91.184.345](https://collections.lacma.org/object/62077) — Los Angeles County Museum of Art, curatorial notes after Rens Heringa and Harmen C. Veldhuisen. Dates the Pekalongan cloth to about 1910; identifies natural and synthetic dyes and describes Indo-European outsourcing of selected patterns to Indo-Arab workshops around 1890. Retrieval: `opened-page`.
+
+### Reading coverage
+
+| Reading ID | Records | Minutes |
+| --- | ---: | ---: |
+| `course-asia-stone-gifts-and-labels` | 4 | 22 |
+| `course-tang-poets-and-local-government` | 8 | 32 |
+| `course-chinese-capitals-and-statecraft` | 7 | 28 |
+| `course-song-schools-loans-and-disagreement` | 5 | 24 |
+| `course-loyalty-and-historical-memory` | 7 | 29 |
+| `course-mongol-conquest-and-new-rule` | 4 | 22 |
+| `course-ming-knowledge-defense-and-tax` | 5 | 25 |
+| `course-asian-textiles-and-hidden-hands` | 4 | 22 |
+| `course-asian-kilns-and-seaways` | 4 | 23 |
+| `course-courts-documents-and-authority` | 4 | 21 |
+
+### Author checks
+
+- JSON parse: 34 biographies, 13 stories, 10 reading courses.
+- Biography chronology: 118 milestones; every biography has at least three. No chronology-review exceptions.
+- English lengths: all biography summaries 80–150 words; all story summaries 100–180 words.
+- Every story has at least two distinct source URLs, bilingual summary/date/source evidence text, at least two resolving related IDs, ordered nonzero years and a bilingual place label.
+- All reading IDs are unique; all 47 assigned records appear in at least one course. All course map anchors fall inside the linked record’s selected interval. Empty route arrays intentionally avoid invented travel routes.
+- Source selection, dates, name distinctions, EN/ZH parity and geographic labels were reviewed during authoring. Root separately checked the story shard and requested the Songsan-ri label, direct Ainu wording and canting translation corrections; all three are applied.
+- These are content-level checks. Root owns the aggregate build, regression tests, browser/accessibility checks, durable git checkpoints and publication verification.
+
+Final cross-review refinements: Du Fu’s Chinese wording now renders “poet-historian” without treating 诗史 as a personal honorific. Sima Guang’s 1070 marker now stays at Kaifeng and explicitly represents his request to leave, avoiding an unsupported year of arrival in Luoyang.

@@ -26,7 +26,17 @@ Inspired by that work, and with help from OpenAI Codex, I built World History At
 - Follow short guided readings or explore longer sequences in chapters.
 - Save entries and personal notes in your browser, and export your notebook.
 
-The current application is **0.22.0**, with **73 guided readings**. This is a growing educational project with selected coverage. Maps have their own source dates and limits; an empty area does not mean an absence of people or history. Historical corrections, translation feedback and suggestions from different regional perspectives are welcome.
+The repository release is **0.23.0**, with **2,084 historical entries, 278 full biographies and 103 guided readings**. The [release evidence](docs/V17_RELEASE_EVIDENCE.md) records checks and publication status; this branch's prepared output is not a claim that Firebase has been updated. This is a growing educational project with selected coverage. Maps have their own source dates and limits; an empty area does not mean an absence of people or history. Historical corrections, translation feedback and suggestions from different regional perspectives are welcome.
+
+## People, work and connected stories in 0.23.0
+
+- **101 existing person profiles now have researched biographies**, retaining their names, aliases and links. All 278 People-directory entries have a full biography. Six source reviews explain why fewer than three dated episodes are supported; dates are not invented to fill a timeline.
+- **47 new bilingual stories across nine regions** bring makers, households, workers, travelers and record keepers into the atlas. Topics include Merer's limestone deliveries, Equiano's publishing network, Sanchi's donors, Vietnamese ceramic cargo, shared stewardship in Gwaii Haanas and Pacific material knowledge.
+- **30 new guided readings** connect the new material with existing people, places and events. Earlier reading IDs, stop order and shared URLs are preserved.
+- **13 additional historical images** bring the catalogue to 29. The new public-domain portraits/depictions and two Met CC0 object photographs have bilingual captions, source links and file-specific rights. Later portrayals remain identified as such.
+- **Bilingual places and source notes for the additions**, plus Chinese place captions for all 975 imported entries and 149 older linked records. Guarded translations retain amended geographic qualifications. Search handles tone marks, accented names, full-width text and repeated spaces across map, People, references and readings.
+
+The [V17 Jiangshan review](docs/JIANGSHAN_REVIEW_V17.md) checks four newer donor commits, credits the connected-reading and search-parity methods, and records which features already existed. The [waterway/corridor comparison](docs/CH3_SOURCE_COMPARISON_V17.md) checks the inherited data against pinned source blobs and keeps historical and rights questions separate. No new donor code, prose or geometry is imported. The [roadmap](docs/CONTENT_EXPANSION_PLAN.md) distinguishes this completed publication scope from continuing regional research.
 
 ## Stories and images in 0.22.0
 
@@ -34,7 +44,7 @@ The current application is **0.22.0**, with **73 guided readings**. This is a gr
 - **Four corrected earlier China stories:** the Jingyuan Mutiny, Chu and Jingnan, the Nine Classics printing project, and the Salt and Iron debate now have claim-specific evidence beyond their Jiangshan topic leads.
 - **16 credited local historical images:** ten portraits or depictions of historical people and six object or manuscript images, with bilingual captions, dates, representation limits and source links. Image rights are recorded individually in the [media notice](dist/assets/history-media/NOTICE.md).
 
-The [9 November Jiangshan review](docs/JIANGSHAN_REVIEW_2026_11_09.md) records selected topics, source checks and deferred work. This update uses those topics for original, independently sourced atlas writing; it imports no new Jiangshan code, prose or geometry. Three new guided readings connect the additions: **History in your hands**, **The Tang crisis through surviving words**, and **Books, poems and public work**. See the [content roadmap](docs/CONTENT_EXPANSION_PLAN.md) for the next bounded slices.
+The [9 November Jiangshan review](docs/JIANGSHAN_REVIEW_2026_11_09.md) records that earlier release's selected topics, source checks and deferred work. It used those topics for original, independently sourced atlas writing, with no new Jiangshan code, prose or geometry import. Its three readings—**History in your hands**, **The Tang crisis through surviving words**, and **Books, poems and public work**—remain available unchanged.
 
 ## Thank you to Jiangshan and the source community
 
@@ -79,6 +89,8 @@ firebase deploy --only hosting --project tony-wu-projects
 The repository configuration selects the site and public output directory. Hosting uses the no-cost Spark plan. The `Firebase Hosting` workflow publishes successful `main` builds once its Google federation connection is configured. Existing hosts remain available.
 
 ### Automatic Firebase publication
+
+**November 2026 pause:** do not dispatch, retry or trigger GitHub Actions before December. V17 checkpoints use `review/atlas-completion-20261109`, outside the workflow's push patterns, and `[skip ci]`. No pull request was opened. Direct publication requires an existing authorized Firebase deployment session; the recovery environment did not have one.
 
 `.github/workflows/firebase-hosting.yml` runs the project checks and packages its public output on pull requests and pushes to `main`. Only a successful `main` build publishes to Firebase. Deployment uses the checked artifact, skips superseded commits and keeps the current live release when checks fail.
 

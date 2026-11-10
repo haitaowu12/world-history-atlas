@@ -1,0 +1,36 @@
+npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.
+
+> world-history-atlas@0.23.0 build:content
+> node scripts/build-content-expansion-v17.mjs
+
+{
+  "totalRecords": 2084,
+  "addition": {
+    "records": 148,
+    "biographies": 101,
+    "biographyMilestones": 330,
+    "politicalOverviews": 0,
+    "sourceURLs": 236
+  },
+  "cumulative": {
+    "records": 704,
+    "biographies": 254,
+    "biographyMilestones": 816,
+    "politicalOverviews": 71,
+    "sourceURLs": 1220,
+    "readingPaths": 80,
+    "releases": {
+      "1": 60,
+      "2": 121,
+      "3": 163,
+      "4": 96,
+      "5": 28,
+      "6": 26,
+      "7": 8,
+      "8": 38,
+      "9": 2,
+      "10": 14,
+      "11": 148
+    }
+  }
+}

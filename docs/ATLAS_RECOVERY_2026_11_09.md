@@ -140,3 +140,41 @@ security configuration to replace it.
   corridor date transformations are the existing 2026 caps on two source
   `9999` end years. See `CH3_SOURCE_COMPARISON_V17.md` for the implementation
   inventory and the historical/per-feature-rights questions that remain.
+
+### Completed V17 integration and release evidence
+
+- The agreed content increment is complete: 101 biography upgrades with 330
+  dated milestones, 47 regional stories and 30 new guided readings. The
+  prepared application has 2,084 unique historical entries, 278 biographies,
+  278 directory people, 103 readings and 29 historical images. The 148 new
+  records cite 236 distinct source URLs. All new stories occur in readings;
+  prior reading objects and the original sixteen media objects are preserved.
+- `npm run build:content` and `npm run check` both exited 0 against the final
+  inputs. The complete check reported 325/325 passing tests, with zero failures,
+  skips or cancellations. Workspace receipts are
+  `../recovery/v17-build-final.log` and `../recovery/v17-check-final.log`.
+- The place-caption overlay supplies 149 reviewed Chinese translations for
+  older linked records. Independent review retained the English inputs and
+  location qualifications, corrected subsequent-capital wording, and aligned
+  the established Kültepe name. The display module also supplies the 975
+  imported captions through 970 exact source pairs and five guarded amended
+  labels, preserving the existing geography and source review status.
+- Source cross-review corrections, media reuse evidence, CH3 limits and
+  completed counts are recorded in [V17 release evidence](V17_RELEASE_EVIDENCE.md)
+  and its linked research ledgers. The completed increment does not close all
+  32 continuing regional workstreams or certify inherited linked material.
+- The last pushed pre-integration checkpoint is
+  `300c2708a1e0d46337c8f0918d3005a863b5300e`; the final integration checkpoint
+  is recorded in the following documentation save. Supported CUA review is
+  complete: desktop, 768/390/320-pixel layouts, English/Chinese, portrait and
+  object credits, keyboard focus, one-point chronology and a shared reading
+  restored at step 2/5. Screenshots and command output are saved under
+  `docs/v17-evidence/`. Standalone Playwright's socket escalation was
+  automatically rejected and was not retried; no access or security setting
+  was changed.
+- The recovery branch remains outside workflow push patterns, no pull request
+  was opened, and no Actions workflow was run. Main's `3849fb8` baseline and
+  homepage backlinks remain preserved. Firebase publication is blocked on an
+  existing authorized direct deployment session. A live read-only browser check
+  on 10 November UTC still showed 1,936 entries and the preserved homepage
+  backlink; the live site has not received V17 from this continuation.

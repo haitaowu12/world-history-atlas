@@ -1,4 +1,5 @@
 import {createHistoryMedia,mediaFigures,mediaThumbnail,handleHistoryImageError} from './history-media.mjs';
+import {applyPlaceLabelTranslations} from './place-labels.mjs';
 import {civilizationOverlaps} from './civilization-tracks.mjs';
 import {periodTracks,chinaTransitions,chinaTransitionSource,chinaCourtSequences} from './period-tracks.mjs?v=2';
 import {warYears,warMapFollowup} from './war-map.mjs';
@@ -12,7 +13,7 @@ import {createAmericasLoader,composeAmericasFeatures,readingStepYear,americasPar
 import {DEFAULT_LAYERS,selectMapView,restoreMapLayers} from './map-views.mjs?v=2';
 import {applySearchUpdate,applyReviewedUpdate} from './upstream-intake.mjs?v=2';
 import {createRegionalExplorer} from './regional-explorer.mjs?v=28';
-import {CONTENT_MANIFEST,partitionExpansion,expansionCoverage,applyEvidenceReviews} from './content-expansion.mjs?v=33';
+import {CONTENT_MANIFEST,partitionExpansion,expansionCoverage,applyEvidenceReviews} from './content-expansion.mjs?v=34';
 import {waterFeatures,corridorFeatures,hydroVisible} from './inherited-geography.mjs';
 import {normalizeMapCollection} from './map-geometry.mjs';
 import {featureLabelAnchor} from './map-labels.mjs?v=1';
@@ -850,7 +851,7 @@ function contentCoverageHTML(){
  const rows=expansionCoverage(expansionRecords,expansionManifest.workstreams||[]);
  return `<h3>${state.lang==='zh'?'历史水系与通道':'Historical waterways and corridors'}</h3><p>${esc(localized(chinaWaterways.note))}</p><p><a href="${esc(chinaWaterways.source.url)}" target="_blank" rel="noopener noreferrer">${t('viewSource')}</a></p><h3>${t('expansionCoverage')}</h3><p>${t('expansionCoverageNote')}</p><div class="content-coverage">${rows.map(r=>`<button class="elsewhere-card" data-action="open-course" data-id="course-expansion-${r.id.toLowerCase()}"><span><strong>${esc(localized(r.title))}</strong><small>${r.records} ${t('records')} · ${r.biographies} ${t('people')}</small></span>↗</button>`).join('')}</div>`;
 }
-async function loadJSON(file){const url=new URL(file,location.href);url.searchParams.set('atlas',url.pathname.includes('/source-notes-zh-')?'0.18.2-source-zh':url.pathname.endsWith('/map-snapshots.json')||url.pathname.endsWith('/china-context-index-v7.json')?'0.18.2-china-references':url.pathname.includes('/wartime-occupation-')?'0.15.0-wartime-1':'0.22.0-stories-images');const response=await fetch(url);if(!response.ok)throw new Error(`A local atlas file could not load: ${file}`);return response.json();}
+async function loadJSON(file){const url=new URL(file,location.href);url.searchParams.set('atlas',url.pathname.includes('/source-notes-zh-')?'0.18.2-source-zh':url.pathname.endsWith('/map-snapshots.json')||url.pathname.endsWith('/china-context-index-v7.json')?'0.18.2-china-references':url.pathname.includes('/wartime-occupation-')?'0.15.0-wartime-1':'0.23.0-biographies-stories');const response=await fetch(url);if(!response.ok)throw new Error(`A local atlas file could not load: ${file}`);return response.json();}
 let chineseSourceNotesPromise;
 async function ensureChineseSourceNotes(){
  if(!chineseSourceNotesPromise)chineseSourceNotesPromise=(async()=>{try{const manifest=await loadJSON('./data/source-notes-zh-manifest.json');const chunks=await Promise.all(manifest.files.map(file=>loadJSON('./data/'+file.path)));installSourceNoteTranslations(chunks);return true;}catch(error){console.warn('Chinese source descriptions could not load:',error);chineseSourceNotesPromise=null;return false;}})();
@@ -885,7 +886,8 @@ async function init(){try{
  const palette=['#b6c5a6','#b6c8bd','#c5ba96','#a7bdbe','#d0b6a3','#b9b4c2','#bac09e','#a6beb1','#c5b99f'];
  contemporary={type:'FeatureCollection',features:contemporary.features.map(f=>({...f,properties:{...f.properties,contemporary:true,sourceYear:contemporaryData.geometryVintage,year:contemporaryData.reviewedYear,color:f.properties.category==='disputed'?'#b6ada1':palette[Array.from(f.properties.code).reduce((n,c)=>n+c.charCodeAt(0),0)%palette.length]}}))};
  land=normalizeMapCollection(land,d3.geoArea);disputedAreas=normalizeMapCollection(disputedAreas,d3.geoArea);countries=contemporary;
- records=[...histories,...people,...chinaEvents];recordIndex=new Map(records.map(r=>[r.id,r]));const errors=validateRecords(records);if(errors.length)throw new Error(errors.slice(0,3).join('; '));if(!window.d3||land.type!=='FeatureCollection')throw new Error('The map renderer or land geometry is unavailable.');
+ const placeLabels=expansionManifest.placeLabelsFile?await loadJSON('./data/'+expansionManifest.placeLabelsFile):{items:[]};
+ records=applyPlaceLabelTranslations([...histories,...people,...chinaEvents],placeLabels);recordIndex=new Map(records.map(r=>[r.id,r]));people=people.map(person=>recordIndex.get(person.id));const errors=validateRecords(records);if(errors.length)throw new Error(errors.slice(0,3).join('; '));if(!window.d3||land.type!=='FeatureCollection')throw new Error('The map renderer or land geometry is unavailable.');
 
  try{mediaCatalog=await loadJSON('./data/'+(expansionManifest.mediaFile||'history-media.json'));historyMedia=createHistoryMedia(mediaCatalog);}catch(error){mediaLoadFailed=true;console.warn('Historical images unavailable:',error.message);}
  discovery=createDiscovery({media:historyMedia,mediaLoadFailed,library:chinaData,manifest:chinaManifest,settlements:chinaSettlements,records,people,regions:REGIONAL,byId,getState:()=>state,openDialog,escape:esc,openStory:id=>{closeDialog();selectStory(id);},openRoute,openPlace:location=>{closeDialog();stopPlayback();clearPaths();clearSelection();placeSelection=location;render();focusLocation(location,4);},onNavigate:selection=>{directorySelection=selection;updateURL();}});

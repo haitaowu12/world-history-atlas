@@ -2,13 +2,36 @@
 
 Planning baseline: V8, source commit `2517be5ebd87a12ba643823685b2bb4b8c6ca562`, 23 October 2026.
 
-Current release checkpoint: **0.22.0 / V16**, 9 November 2026, with **73 guided readings**. The [current expansion manifest](../dist/data/content-expansion-v16.json) records the selected additions and their source files. The V8 inventory and delivery sequence below remain a historical planning baseline.
+Current repository checkpoint: **0.23.0 / V17**, 9 November 2026 review cycle, with **2,084 historical records, 278 full biographies and 103 guided readings**. The [current expansion manifest](../dist/data/content-expansion-v17.json) records the selected additions and their source files; [release evidence](V17_RELEASE_EVIDENCE.md) distinguishes validation from Firebase publication. The V8 inventory and delivery sequence below remain a historical planning baseline.
 
 ## Goal and scope
 
 Build connected regional histories that explain change through time. Add political sequences, events, people, places and social history together, while keeping the main timeline focused on selected states, dynasties and comparable political formations. Adding more entries alone will not establish completeness or improve territorial coverage.
 
 This roadmap retains the V8 planning baseline and records subsequent bounded progress below. “Gap” in the original backlog means missing or insufficient standalone treatment in the collection at that checkpoint, not necessarily that a subject was never mentioned in another entry. Proposed subjects still require detailed research and checks against the current records before authoring.
+
+## 0.23.0 completion scope and remaining research
+
+The recovery inventory found **101 profile-only people**, not the larger draft count reported in the inaccessible earlier thread. V17 completes those 101 biographies with **330 dated milestones**, adds **47 regional stories and 30 readings**, and preserves the 0.22.0 narrative files, all older reading sequences and the latest homepage backlinks. Six explicitly reviewed chronologies have one or two supported dated episodes. The 278-person directory now resolves to 278 biographies without duplicate identities.
+
+| Region | New stories | Examples and connected workstreams |
+| --- | ---: | --- |
+| Africa | 5 | Kuba and Mangaaka collaboration, Olowe, Merer, àdìrẹ; AF1–AF4 |
+| West and Central Asia | 6 | Uluburun, Persepolis, suzani, ikat, Cibali and Bethlehem; WA1–WA3 |
+| Europe | 7 | Equiano, Vindolanda, Onfim, portable classics, Lyon, Oneg Shabbat and Grunwick; EU1–EU3 |
+| East Asia | 6 | Gao Shi, Baekje and Gaya material evidence, Shōsōin, Ryūkyū records and Ainu making; CH2, EA1–EA3 |
+| South Asia | 3 | Sanchi donors, Coromandel cotton and Bengal kantha; SA1–SA3 |
+| Southeast Asia | 4 | Hội An and Belitung cargo, Aceh queens and Pekalongan batik; SE1–SE3 |
+| North America | 5 | Gwaii Haanas, c̓əsnaʔəm, Fort Mose, Pullman and Bracero work; NA1–NA3 |
+| Latin America and the Caribbean | 5 | Codex Mendoza, Q’eswachaka, Tula, cordel and the Mothers of the Plaza de Mayo; LA1–LA4 |
+| Oceania | 6 | Pacific exchange, community knowledge, land and colonial encounters; OC1–OC3 |
+| **Total** | **47** | Each story connects to at least one new guided reading |
+
+The [three research ledgers](V17_RELEASE_EVIDENCE.md#sources-and-review) record inspected evidence and editorial decisions. All new main and milestone locations have English and Chinese labels, and new source notes have Chinese counterparts. The [place-caption continuation](V17_PLACE_LABELS.md) supplies Chinese labels for all 975 imported entries and 149 older linked records, preserving existing geographic qualifications. Thirteen reviewed images bring the local catalogue to 29. Search normalization handles tone marks, accents, compatibility-width characters and repeated spaces across four reader-facing surfaces without changing identity matching.
+
+The newer [Jiangshan delta review](JIANGSHAN_REVIEW_V17.md) covers four commits, with no new donor narrative batch to import. CH3's [source/implementation comparison](CH3_SOURCE_COMPARISON_V17.md) verifies 187 river records, 62 lake edges, 41 water labels and 16 corridors against pinned source blobs. Their per-feature historical evidence and rights are still unresolved; no new geometry is added.
+
+This closes the defined **101 biographies / 47 stories / 30 readings** publication scope. The 32 regional workstreams below remain broader research categories, not a claim that every proposed polity, community or era has exhaustive treatment. Inherited events, quotations, older place labels and non-polygon geometry still require bounded claim-level or rights review. The new source ledgers do not certify every older record reached through a related link. Firebase publication is a separate final operation requiring existing authorized access.
 
 ## 0.22.0 progress: stories, evidence and images
 
