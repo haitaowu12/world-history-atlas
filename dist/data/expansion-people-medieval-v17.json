@@ -855,6 +855,15 @@
         "evidenceNoteZh": "记杜甫712—770年、756年被俘及757年逃离；诗作联系政治动荡、家人离散与自然观察，未转载现代译文。",
         "checkedAt": "2026-11-09",
         "retrieval": "opened-page"
+      },
+      {
+        "title": "The Late Wanderings of Du Fu: chronology and introduction",
+        "publisher": "The Chinese University of Hong Kong Press",
+        "url": "https://cup.cuhk.edu.hk/image/catalog/preview/9789882373921_SampleChapter.pdf",
+        "evidenceNote": "Chronology pp. ix–xi supports the probable Gongxian birthplace, 744 meeting with Li Bai in Luoyang or Chenliu, the 755 rebellion, 757 Fengxiang refuge and 770 final journey in Hunan.",
+        "evidenceNoteZh": "年表第ix—xi页支持可能的巩县出生地、744年在洛阳或陈留与李白相会、755年叛乱、757年凤翔朝廷及770年湖南最后行旅。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-pdf"
       }
     ],
     "milestones": [
@@ -1110,22 +1119,31 @@
     },
     "locationPrecision": "representative",
     "summary": {
-      "en": "Li Bai’s poems turn travel, friendship and imaginative freedom into a compelling literary voice. His connections also placed him close to the risks of court politics. After a period associated with the Hanlin Academy, he met Du Fu in 744; their friendship links two writers whose verse would take markedly different forms. The rebellion drew Li Bai into the orbit of Prince Yong, and he was sentenced to exile in 757. A pardon in 759 changed his fortunes again. His life can be approached through these documented reversals without turning every vivid poem into autobiography or treating the legends surrounding his drinking and death as established events.",
-      "zh": "李白把旅行、友情与想象中的自由写成鲜明的诗歌声音，但交游也使他接近宫廷政治的风险。在翰林经历之后，他于744年结识杜甫，把两位风格迥异的诗人联系起来。叛乱中，李白卷入永王的政治活动，757年被判流放，759年又遇赦。通过这些有据的转折，可以认识他的生活如何受权力变化影响。阅读诗歌时，生动的抒情并不必然等于自传；围绕饮酒和死亡形成的传说，也不应自动列入年表。"
+      "en": "Li Bai’s poems turn travel, friendship and imaginative freedom into a compelling literary voice. His connections also placed him close to the risks of court politics. After a period associated with the Hanlin Academy, he met Du Fu in 744; their friendship links two writers whose verse would take markedly different forms. The rebellion drew Li Bai into the orbit of Prince Yong, and he was sentenced to exile. A pardon in 759 changed his fortunes again. His life can be approached through these documented reversals without turning every vivid poem into autobiography or treating the legends surrounding his drinking and death as established events.",
+      "zh": "李白把旅行、友情与想象中的自由写成鲜明的诗歌声音，但交游也使他接近宫廷政治的风险。在翰林经历之后，他于744年结识杜甫，把两位风格迥异的诗人联系起来。叛乱中，李白卷入永王的政治活动，被判流放，759年又遇赦。通过这些有据的转折，可以认识他的生活如何受权力变化影响。阅读诗歌时，生动的抒情并不必然等于自传；围绕饮酒和死亡形成的传说，也不应自动列入年表。"
     },
     "dateNote": {
-      "en": "744–762 selects the documented friendship, exile, pardon and death. The Yangzi marker is representative, not an exact arrest or death location.",
-      "zh": "744—762年选取有据的交谊、流放、遇赦与卒年。长江标点为代表位置，并非确切被捕或死亡地点。"
+      "en": "744–762 selects friendship, pardon and death. The 744 meeting is placed in Luoyang or possibly Chenliu by the scholarly chronology; no exact exile-sentence year is assigned.",
+      "zh": "744—762年选取交谊、遇赦与卒年。学术年表将744年相会置于洛阳或可能的陈留；不确定流放判决的确切年份。"
     },
     "sources": [
       {
         "title": "About Li Bai",
         "publisher": "Academy of American Poets",
         "url": "https://poets.org/poet/li-bai",
-        "evidenceNote": "Supports Sichuan upbringing, travel and Hanlin service, meeting Du Fu in 744, exile in 757, pardon in 759 and death in 762.",
-        "evidenceNoteZh": "支持四川成长、旅行与翰林经历、744年结识杜甫、757年流放、759年获赦及762年卒。",
+        "evidenceNote": "Supports Sichuan upbringing, Hanlin service, association with Prince Yong, pardon in 759 and death in 762. Its simplified 757 exile chronology is not retained.",
+        "evidenceNoteZh": "支持四川成长、翰林经历、与永王关联、759年遇赦及762年卒；不采用简化的757年流放纪年。",
         "checkedAt": "2026-11-09",
         "retrieval": "opened-page"
+      },
+      {
+        "title": "The Late Wanderings of Du Fu: chronology and introduction",
+        "publisher": "The Chinese University of Hong Kong Press",
+        "url": "https://cup.cuhk.edu.hk/image/catalog/preview/9789882373921_SampleChapter.pdf",
+        "evidenceNote": "Chronology pp. ix–xi supports the probable Gongxian birthplace, 744 meeting with Li Bai in Luoyang or Chenliu, the 755 rebellion, 757 Fengxiang refuge and 770 final journey in Hunan.",
+        "evidenceNoteZh": "年表第ix—xi页支持可能的巩县出生地、744年在洛阳或陈留与李白相会、755年叛乱、757年凤翔朝廷及770年湖南最后行旅。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-pdf"
       }
     ],
     "milestones": [
@@ -1142,30 +1160,10 @@
         "location": {
           "lat": 34.62,
           "lon": 112.45,
-          "label": "Luoyang region, representative Tang literary setting",
+          "label": "Luoyang region; Chenliu is another proposed meeting site",
           "labelI18n": {
-            "en": "Luoyang region, representative Tang literary setting",
-            "zh": "洛阳地区，唐代文学交游的代表地点"
-          }
-        }
-      },
-      {
-        "year": 757,
-        "title": {
-          "en": "Sentenced to exile",
-          "zh": "被判流放"
-        },
-        "description": {
-          "en": "Association with Prince Yong brought political punishment.",
-          "zh": "与永王的关联招致政治惩罚。"
-        },
-        "location": {
-          "lat": 29.7,
-          "lon": 116.0,
-          "label": "Middle Yangzi, representative exile context",
-          "labelI18n": {
-            "en": "Middle Yangzi, representative exile context",
-            "zh": "长江中游，流放背景的代表地区"
+            "en": "Luoyang region; Chenliu is another proposed meeting site",
+            "zh": "洛阳地区；陈留亦为可能的相会地点"
           }
         }
       },
@@ -1200,12 +1198,12 @@
           "zh": "李白去世；后世死亡传说不列为史实里程碑。"
         },
         "location": {
-          "lat": 31.55,
-          "lon": 118.49,
-          "label": "Dangtu region, representative later-life setting",
+          "lat": 30.0,
+          "lon": 116.0,
+          "label": "Yangzi region, representative literary setting; not a verified death site",
           "labelI18n": {
-            "en": "Dangtu region, representative later-life setting",
-            "zh": "当涂地区，晚年生活的代表地点"
+            "en": "Yangzi region, representative literary setting; not a verified death site",
+            "zh": "长江流域，文学活动的代表地区；未确认死亡地点"
           }
         }
       }
@@ -1281,26 +1279,35 @@
         "evidenceNoteZh": "支持712年生于巩县、科举未第、旅行、与李白交往、律诗创作及770年卒。",
         "checkedAt": "2026-11-09",
         "retrieval": "opened-page"
+      },
+      {
+        "title": "The Late Wanderings of Du Fu: chronology and introduction",
+        "publisher": "The Chinese University of Hong Kong Press",
+        "url": "https://cup.cuhk.edu.hk/image/catalog/preview/9789882373921_SampleChapter.pdf",
+        "evidenceNote": "Chronology pp. ix–xi supports the probable Gongxian birthplace, 744 meeting with Li Bai in Luoyang or Chenliu, the 755 rebellion, 757 Fengxiang refuge and 770 final journey in Hunan.",
+        "evidenceNoteZh": "年表第ix—xi页支持可能的巩县出生地、744年在洛阳或陈留与李白相会、755年叛乱、757年凤翔朝廷及770年湖南最后行旅。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-pdf"
       }
     ],
     "milestones": [
       {
         "year": 712,
         "title": {
-          "en": "Birth in Gongxian",
-          "zh": "生于巩县"
+          "en": "Probable birth in the Gongxian area",
+          "zh": "可能生于巩县地区"
         },
         "description": {
-          "en": "The poet was born in the Henan region before the later court crisis.",
-          "zh": "诗人生于河南地区，早于后来席卷朝廷的危机。"
+          "en": "The scholarly chronology places his birth probably near Luoyang, at Gongxian.",
+          "zh": "学术年表将其出生地推测为洛阳附近的巩县。"
         },
         "location": {
           "lat": 34.75,
           "lon": 112.98,
-          "label": "Gongxian, represented by Gongyi",
+          "label": "Gongxian, probable birthplace represented by Gongyi",
           "labelI18n": {
-            "en": "Gongxian, represented by Gongyi",
-            "zh": "巩县，以今巩义代表"
+            "en": "Gongxian, probable birthplace represented by Gongyi",
+            "zh": "巩县，可能的出生地，以今巩义代表"
           }
         }
       },
@@ -1529,7 +1536,7 @@
       "en": "Yan Zhenqing: public duty and private mourning",
       "zh": "颜真卿：公职与家难"
     },
-    "start": 709,
+    "start": 758,
     "end": 785,
     "region": "east-asia",
     "kind": "person",
@@ -1550,8 +1557,8 @@
       "zh": "颜真卿的书法保存下来的，不只是受后世推崇的风格。758年为侄儿颜季明撰写的祭文，追忆安史战乱中的家族死亡。增补与涂改使它既是哀痛中写作的痕迹，也是带有忠于唐廷立场的文字。另一封传世信札，经学者据史事推定约作于775年，则属于较少礼仪色彩的通信世界。两类作品把官员的手迹置于公共责任与个人需要之间，也要求不同的阅读方式：祭文具有明确纪年，信札的年代则依赖历史比对。"
     },
     "dateNote": {
-      "en": "709–785 follows the museum lifespan. The 758 manuscript is dated; the letter assigned to 775 is approximate, not independently inscribed.",
-      "zh": "709—785年据馆方生卒年。758年祭文有纪年，775年信札为推定，未自署该年。"
+      "en": "758–785 selects the dated requiem, an approximately dated letter and death. The letter’s 775 date is inferred from historical comparison, not inscribed.",
+      "zh": "758—785年选取有纪年祭文、推定年代信札与卒年。775年信札据史事比定，并非自署纪年。"
     },
     "sources": [
       {
@@ -1574,26 +1581,6 @@
       }
     ],
     "milestones": [
-      {
-        "year": 709,
-        "title": {
-          "en": "Birth",
-          "zh": "出生"
-        },
-        "description": {
-          "en": "The museum dates the start of Yan’s life to 709; the point represents his later official world, not a verified birthplace.",
-          "zh": "馆方记其生于709年；此点代表后来任职的政治世界，不主张确切出生地点。"
-        },
-        "location": {
-          "lat": 34.27,
-          "lon": 108.94,
-          "label": "Chang'an, imperial capital represented by modern Xi'an",
-          "labelI18n": {
-            "en": "Chang'an, imperial capital represented by modern Xi'an",
-            "zh": "长安，以今西安代表的帝都"
-          }
-        }
-      },
       {
         "year": 758,
         "title": {
@@ -1648,10 +1635,10 @@
         "location": {
           "lat": 34.27,
           "lon": 108.94,
-          "label": "Chang'an, imperial capital represented by modern Xi'an",
+          "label": "Chang'an, representative official setting; not a death-site claim",
           "labelI18n": {
-            "en": "Chang'an, imperial capital represented by modern Xi'an",
-            "zh": "长安，以今西安代表的帝都"
+            "en": "Chang'an, representative official setting; not a death-site claim",
+            "zh": "长安，代表性仕宦背景；不作死亡地点认定"
           }
         }
       }
@@ -2188,10 +2175,10 @@
         "location": {
           "lat": 34.27,
           "lon": 108.94,
-          "label": "Chang'an, imperial capital represented by modern Xi'an",
+          "label": "Chang'an, representative official setting; not a birth or death site",
           "labelI18n": {
-            "en": "Chang'an, imperial capital represented by modern Xi'an",
-            "zh": "长安，以今西安代表的帝都"
+            "en": "Chang'an, representative official setting; not a birth or death site",
+            "zh": "长安，代表性仕宦背景；不是出生或死亡地认定"
           }
         }
       },
@@ -2216,26 +2203,6 @@
         }
       },
       {
-        "year": 805,
-        "title": {
-          "en": "Reform and political exile",
-          "zh": "革新与政治贬谪"
-        },
-        "description": {
-          "en": "The reform circle’s defeat displaced the officials with whom he was associated.",
-          "zh": "相关革新群体的失败使其成员遭到贬谪。"
-        },
-        "location": {
-          "lat": 34.27,
-          "lon": 108.94,
-          "label": "Chang'an, imperial capital represented by modern Xi'an",
-          "labelI18n": {
-            "en": "Chang'an, imperial capital represented by modern Xi'an",
-            "zh": "长安，以今西安代表的帝都"
-          }
-        }
-      },
-      {
         "year": 842,
         "title": {
           "en": "Death",
@@ -2248,10 +2215,10 @@
         "location": {
           "lat": 34.27,
           "lon": 108.94,
-          "label": "Chang'an, imperial capital represented by modern Xi'an",
+          "label": "Chang'an, representative official setting; not a birth or death site",
           "labelI18n": {
-            "en": "Chang'an, imperial capital represented by modern Xi'an",
-            "zh": "长安，以今西安代表的帝都"
+            "en": "Chang'an, representative official setting; not a birth or death site",
+            "zh": "长安，代表性仕宦背景；不是出生或死亡地认定"
           }
         }
       }
@@ -3093,6 +3060,1779 @@
     "relatedIds": [
       "china-su-shi-cold-food-1082",
       "china-su-causeway-1089"
+    ],
+    "expansion": {
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "release": 11,
+      "edition": "v17",
+      "sourceReview": "Original bilingual biography; dates and claims checked against the individually described sources. No donor prose reproduced.",
+      "reviewLimit": {
+        "en": "Selected career episodes; the mapped points represent named cities or regions, not exact buildings or a reconstructed itinerary.",
+        "zh": "选取仕途与创作片段；地图点代表所述城市或地区，并非确切建筑或复原行程。"
+      }
+    }
+  },
+  {
+    "id": "china-person-yuefei",
+    "sourceProfileId": "china-person-yuefei",
+    "name": {
+      "en": "Yue Fei",
+      "zh": "岳飞"
+    },
+    "title": {
+      "en": "Yue Fei: a Song commander and the changing meaning of loyalty",
+      "zh": "岳飞：宋朝将领与忠诚含义的变化"
+    },
+    "start": 1122,
+    "end": 1142,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "states",
+    "importance": 4,
+    "location": {
+      "lat": 30.25,
+      "lon": 120.15,
+      "label": "Hangzhou, representative city",
+      "labelI18n": {
+        "en": "Hangzhou, representative city",
+        "zh": "杭州，代表性城市"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Yue Fei entered the Song army in 1122 and rose through warfare against the Jurchen Jin and other armed opponents. His military service belonged to a divided political world in which the Southern Song court had to decide between continued fighting and negotiated survival. Recall and imprisonment in 1141 ended his command; he was executed the following year. Later temples, stories and political movements made him an enduring figure of loyalty. Historian Yue Du emphasizes that the state he served was the Song dynasty, while modern readers have given that loyalty changing national meanings. Keeping the commander beside his later reputation helps explain both a twelfth-century conflict and the uses of its memory.",
+      "zh": "岳飞1122年进入宋军，在对女真金朝及其他武装力量的战争中升任统帅。他所处的政治世界已经分裂，南宋朝廷需要在继续作战与议和求存之间作出选择。1141年被召回并入狱，结束了他的统军生涯，次年被处死。后来的祠庙、故事与政治活动不断把他塑造成忠诚典范。历史学者Yue Du强调，岳飞所效忠的国家是宋朝，而现代读者又为这种忠诚赋予不同的民族国家含义。将将领与后世声誉并读，有助于同时理解十二世纪冲突与历史记忆的用途。"
+    },
+    "dateNote": {
+      "en": "1122–1142 focuses on military service through execution; 1141 dates recall and imprisonment. Later commemorations are distinguished from lifetime events.",
+      "zh": "1122—1142年集中于从军至被处死；1141年为召回入狱。后世纪念与生前事件分开处理。"
+    },
+    "sources": [
+      {
+        "title": "Yue Fei",
+        "publisher": "Hangzhou municipal international portal",
+        "url": "https://www.ehangzhou.gov.cn/2020-09/03/c_271146.htm",
+        "evidenceNote": "Supports Tangyin origin, 1103–1142 lifespan, fighting the Jurchen Jin, recall and imprisonment in 1141, and execution. Its incorrect rehabilitation date and reign attribution are excluded.",
+        "evidenceNoteZh": "支持汤阴籍贯、1103—1142年、对金作战、1141年召回入狱与被处死；不采用错误的平反年份与皇帝归属。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Toward a Nation Defined by State: Tattooed Loyalty and the Evolution of Yue Fei’s Image, Yue Du",
+        "publisher": "Journal of Chinese History / Cambridge University Press",
+        "url": "https://www.cambridge.org/core/journals/journal-of-chinese-history/article/toward-a-nation-defined-by-state-tattooed-loyalty-and-the-evolution-of-yue-feis-11031142-image-from-the-song-to-the-present/D36D331BEBA1C16188E89856AAFB533B",
+        "evidenceNote": "Introduction supports enlistment in 1122, military service and later memorialization; the article argues that Yue’s own political loyalty concerned the Song dynastic state, while later national interpretations changed. No tattoo legend is asserted.",
+        "evidenceNoteZh": "导论支持1122年从军、军事任职及后世纪念；文章论证岳氏自身政治效忠指向宋朝国家，后来的民族国家解释则有所变化。不主张刺字传说为事实。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 1122,
+        "title": {
+          "en": "Joining the Song army",
+          "zh": "参加宋军"
+        },
+        "description": {
+          "en": "Yue entered military service before the collapse of the Northern Song court.",
+          "zh": "岳飞进入军队，早于北宋朝廷覆亡。"
+        },
+        "location": {
+          "lat": 36.06,
+          "lon": 114.35,
+          "label": "Tangyin region, representative northern origin; enlistment site not fixed",
+          "labelI18n": {
+            "en": "Tangyin region, representative northern origin; enlistment site not fixed",
+            "zh": "汤阴地区，代表北方出身；不确定入伍具体地点"
+          }
+        }
+      },
+      {
+        "year": 1141,
+        "title": {
+          "en": "Recall and imprisonment",
+          "zh": "召回与入狱"
+        },
+        "description": {
+          "en": "Court decisions removed the commander from the field.",
+          "zh": "朝廷决策使将领离开战场。"
+        },
+        "location": {
+          "lat": 30.25,
+          "lon": 120.15,
+          "label": "Hangzhou, representative city",
+          "labelI18n": {
+            "en": "Hangzhou, representative city",
+            "zh": "杭州，代表性城市"
+          }
+        }
+      },
+      {
+        "year": 1142,
+        "title": {
+          "en": "Execution",
+          "zh": "被处死"
+        },
+        "description": {
+          "en": "Yue’s death became the center of later debates about loyalty and state service.",
+          "zh": "岳飞之死成为后世讨论忠诚与效命国家的焦点。"
+        },
+        "location": {
+          "lat": 30.25,
+          "lon": 120.15,
+          "label": "Hangzhou, representative city",
+          "labelI18n": {
+            "en": "Hangzhou, representative city",
+            "zh": "杭州，代表性城市"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "southern-song",
+      "jurchen-jin-dynasty"
+    ],
+    "expansion": {
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "release": 11,
+      "edition": "v17",
+      "sourceReview": "Original bilingual biography; dates and claims checked against the individually described sources. No donor prose reproduced.",
+      "reviewLimit": {
+        "en": "Selected career episodes; the mapped points represent named cities or regions, not exact buildings or a reconstructed itinerary.",
+        "zh": "选取仕途与创作片段；地图点代表所述城市或地区，并非确切建筑或复原行程。"
+      }
+    }
+  },
+  {
+    "id": "china-person-luyou",
+    "sourceProfileId": "china-person-luyou",
+    "name": {
+      "en": "Lu You",
+      "zh": "陆游"
+    },
+    "title": {
+      "en": "Lu You: history in a poet’s everyday attention",
+      "zh": "陆游：诗人日常目光中的历史"
+    },
+    "start": 1172,
+    "end": 1210,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "culture",
+    "importance": 4,
+    "location": {
+      "lat": 30.0,
+      "lon": 120.58,
+      "label": "Lower Yangzi, representative later-life literary setting",
+      "labelI18n": {
+        "en": "Lower Yangzi, representative later-life literary setting",
+        "zh": "长江下游，晚年文学生活的代表地区"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Lu You is often remembered for frustrated hopes of recovering the north for the Song. His surviving poetry also records gardens, weather, reading and the pleasures of small encounters. Stephen Owen observes that this large, chronologically arranged body of work can approach the texture of a diary. In the Sword-Gate poem dated 1172, the traveler sees himself as a figure in a poetic scene and questions the role he is playing. A plum-blossom poem dated 1202 turns delight into an impossible wish to be beside every flowering tree. These different scales of attention allow political desire and daily experience to inhabit the same writer’s life without reducing one to an illustration of the other.",
+      "zh": "陆游常因希望宋朝恢复北方而不得的情怀被人记住，传世诗篇也记录园圃、天气、读书与细小相遇的趣味。Stephen Owen指出，这部篇幅庞大、依年代排列的诗作，具有接近日记的质感。1172年的剑门诗中，行旅者把自己看成诗意场景里的一个形象，反问所扮演的角色。1202年的咏梅诗则把喜爱化作不可能的愿望：分身到每一树花旁。不同尺度的关注，使政治愿望与日常经验能够存在于同一人生中，彼此又不只是对方的注脚。"
+    },
+    "dateNote": {
+      "en": "1172–1210 selects two dated poems and the death year. The 1202 point is a representative literary region, not a verified composition site; dates follow the anthology.",
+      "zh": "1172—1210年选取两首有系年的诗与卒年。1202年标点为文学生活的代表地区，并非已证写作地点；日期据诗文选本。"
+    },
+    "sources": [
+      {
+        "title": "An Anthology of Chinese Literature: Beginnings to 1911, Stephen Owen, pp. 661–662, 695",
+        "publisher": "W. W. Norton; author’s Harvard University repository",
+        "url": "https://sowen.scholars.harvard.edu/sites/g/files/omnuum3386/files/sowen/files/owen_stephen_-_an_anthology_of_chinese_literature_-_beginnings_to_1911.pdf",
+        "evidenceNote": "Inspected downloaded PDF: p. 695 gives 1125–1210 and the range of daily-life poetry; pp. 661–662 date the Sword-Gate poem to 1172 and Plum Blossoms III to 1202. No modern translation is reproduced.",
+        "evidenceNoteZh": "已下载并检查PDF：第695页记1125—1210年及日常诗题材，第661—662页将剑门诗系于1172年、《梅花绝句》之三系于1202年。未转载现代译诗。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "downloaded-pdf-text"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 1172,
+        "title": {
+          "en": "Writing the Sword-Gate scene",
+          "zh": "写入剑门雨景"
+        },
+        "description": {
+          "en": "A dated poem reflects on the traveler’s own poetic identity.",
+          "zh": "有系年的诗篇反观行旅者自身的诗人身份。"
+        },
+        "location": {
+          "lat": 32.22,
+          "lon": 105.56,
+          "label": "Jianmen Pass region, the poem’s named setting",
+          "labelI18n": {
+            "en": "Jianmen Pass region, the poem’s named setting",
+            "zh": "剑门关地区，诗中所指场景"
+          }
+        }
+      },
+      {
+        "year": 1202,
+        "title": {
+          "en": "A wish among plum blossoms",
+          "zh": "梅花间的愿望"
+        },
+        "description": {
+          "en": "The dated poem imagines multiplying the self to enjoy many flowering trees.",
+          "zh": "有系年的咏梅诗想象分身欣赏众多花树。"
+        },
+        "location": {
+          "lat": 30.0,
+          "lon": 120.58,
+          "label": "Lower Yangzi literary setting; writing site not established",
+          "labelI18n": {
+            "en": "Lower Yangzi literary setting; writing site not established",
+            "zh": "长江下游文学背景；未确认写作地点"
+          }
+        }
+      },
+      {
+        "year": 1210,
+        "title": {
+          "en": "Death",
+          "zh": "逝世"
+        },
+        "description": {
+          "en": "The anthology dates the end of Lu You’s life to 1210.",
+          "zh": "选本记陆游卒于1210年。"
+        },
+        "location": {
+          "lat": 30.0,
+          "lon": 120.58,
+          "label": "Lower Yangzi, representative later-life region",
+          "labelI18n": {
+            "en": "Lower Yangzi, representative later-life region",
+            "zh": "长江下游，晚年生活的代表地区"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "southern-song",
+      "china-person-xinqiji"
+    ],
+    "expansion": {
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "release": 11,
+      "edition": "v17",
+      "sourceReview": "Original bilingual biography; dates and claims checked against the individually described sources. No donor prose reproduced.",
+      "reviewLimit": {
+        "en": "Selected career episodes; the mapped points represent named cities or regions, not exact buildings or a reconstructed itinerary.",
+        "zh": "选取仕途与创作片段；地图点代表所述城市或地区，并非确切建筑或复原行程。"
+      }
+    }
+  },
+  {
+    "id": "china-person-xinqiji",
+    "sourceProfileId": "china-person-xinqiji",
+    "name": {
+      "en": "Xin Qiji",
+      "zh": "辛弃疾"
+    },
+    "title": {
+      "en": "Xin Qiji: crossing a political divide, writing across it",
+      "zh": "辛弃疾：越过政治分界，继续书写"
+    },
+    "start": 1162,
+    "end": 1207,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "culture",
+    "importance": 4,
+    "location": {
+      "lat": 32.06,
+      "lon": 118.8,
+      "label": "Nanjing, representative city",
+      "labelI18n": {
+        "en": "Nanjing, representative city",
+        "zh": "南京，代表性城市"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Xin Qiji came from Licheng in the north and entered Southern Song service in 1162. His career crossed a political boundary that remained central to his reputation as a writer. Office in Jiangyin was followed by a Jiankang appointment in 1168, linking literary ambition to the work and frustrations of provincial government. He became known for ci, lyrics composed to established tune patterns, and for the desire to recover the north. Later periods away from active office in Jiangxi formed another setting for his writing. The sequence of appointments is unevenly documented: local research can recover possibilities, but a newly proposed posting should not silently become a certain stop on his map.",
+      "zh": "辛弃疾来自北方历城，1162年进入南宋仕途。越过政治分界的经历，始终关联着他作为作家的声誉。江阴任职之后，1168年又任建康官职，使文学抱负与地方政务及其挫折相连。他以依词调写作的词著名，也因恢复北方的愿望受到重视。后来在江西离开积极政务的时期，又形成另一种写作背景。任职先后的证据并不均匀：地方考证可以提出新的可能，但新推定的官职地点不应悄悄变成地图上的确定一站。"
+    },
+    "dateNote": {
+      "en": "1162–1207 focuses on Song service through death. The disputed Guangde appointment reconstructed from later genealogy is excluded; 1168 Jiankang is separately documented.",
+      "zh": "1162—1207年集中于入宋任职至卒年。排除据后世谱牒考证而仍有讨论的广德任职；1168年建康任职另有记载。"
+    },
+    "sources": [
+      {
+        "title": "辛弃疾在广德任职考述, Wu Zongliang",
+        "publisher": "Xuancheng local history office / municipal government",
+        "url": "https://www.xuancheng.gov.cn/Content/show/350235.html",
+        "evidenceNote": "Supports 1140–1207 lifespan, Licheng origin, 1162 move into Song service and Jiangyin appointment, and 1168 Jiankang office. The article’s reconstructed Guangde posting is not used as an established milestone.",
+        "evidenceNoteZh": "支持1140—1207年、历城籍贯、1162年归宋及江阴任职、1168年建康任职；不把文章考证的广德任职作为已确证里程碑。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 1162,
+        "title": {
+          "en": "Entering Song service",
+          "zh": "进入宋朝仕途"
+        },
+        "description": {
+          "en": "Xin’s move south was followed by appointment at Jiangyin.",
+          "zh": "辛氏南来后，获任江阴官职。"
+        },
+        "location": {
+          "lat": 31.91,
+          "lon": 120.28,
+          "label": "Jiangyin, representative early Song appointment",
+          "labelI18n": {
+            "en": "Jiangyin, representative early Song appointment",
+            "zh": "江阴，入宋初任官职的代表地点"
+          }
+        }
+      },
+      {
+        "year": 1168,
+        "title": {
+          "en": "Office at Jiankang",
+          "zh": "建康任职"
+        },
+        "description": {
+          "en": "Jiankang became a setting for provincial administrative work.",
+          "zh": "建康成为其地方行政工作的地点。"
+        },
+        "location": {
+          "lat": 32.06,
+          "lon": 118.8,
+          "label": "Nanjing, representative city",
+          "labelI18n": {
+            "en": "Nanjing, representative city",
+            "zh": "南京，代表性城市"
+          }
+        }
+      },
+      {
+        "year": 1207,
+        "title": {
+          "en": "Death",
+          "zh": "逝世"
+        },
+        "description": {
+          "en": "His life ended after years associated with the Jiangxi region.",
+          "zh": "与江西地区相联系的多年生活之后，辛氏去世。"
+        },
+        "location": {
+          "lat": 28.32,
+          "lon": 117.71,
+          "label": "Jiangxi, represented by the Qianshan region",
+          "labelI18n": {
+            "en": "Jiangxi, represented by the Qianshan region",
+            "zh": "江西，以铅山地区代表"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "southern-song",
+      "china-person-luyou"
+    ],
+    "expansion": {
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "release": 11,
+      "edition": "v17",
+      "sourceReview": "Original bilingual biography; dates and claims checked against the individually described sources. No donor prose reproduced.",
+      "reviewLimit": {
+        "en": "Selected career episodes; the mapped points represent named cities or regions, not exact buildings or a reconstructed itinerary.",
+        "zh": "选取仕途与创作片段；地图点代表所述城市或地区，并非确切建筑或复原行程。"
+      }
+    }
+  },
+  {
+    "id": "china-person-wentianxiang",
+    "sourceProfileId": "china-person-wentianxiang",
+    "name": {
+      "en": "Wen Tianxiang",
+      "zh": "文天祥"
+    },
+    "title": {
+      "en": "Wen Tianxiang: resistance, captivity and a written legacy",
+      "zh": "文天祥：抵抗、囚禁与文字遗产"
+    },
+    "start": 1256,
+    "end": 1283,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "states",
+    "importance": 4,
+    "location": {
+      "lat": 39.91,
+      "lon": 116.39,
+      "label": "Beijing, representative capital",
+      "labelI18n": {
+        "en": "Beijing, representative capital",
+        "zh": "北京，代表性都城"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Wen Tianxiang achieved first place in the 1256 imperial examination, entering the Southern Song elite through its most celebrated path. As Mongol armies advanced, examination honor gave way to the demands of resistance and negotiation. His 1276 appointment as a chief minister belonged to the court’s emergency; subsequent efforts to continue the struggle ended in captivity. By 1279 he was imprisoned in Dadu, where writing became a means of explaining the loyalty he refused to abandon. Executed in 1283, he was later commemorated in a shrine near his place of confinement. His surviving reputation joins political choices to the poems and prose through which a defeated official addressed future readers.",
+      "zh": "文天祥1256年殿试第一，以最受推崇的科举道路进入南宋精英行列。蒙古军队推进之际，科名荣誉让位于抵抗与交涉的现实要求。1276年丞相任命属于朝廷危急中的应变，此后继续抗争的努力以被俘告终。至1279年，他被囚于大都，写作成为说明为何不愿放弃效忠的方式。1283年被处死后，后人在其囚禁地附近建祠纪念。他的声誉由政治选择与诗文共同构成，也让一位失败政权的官员得以向未来读者发言。"
+    },
+    "dateNote": {
+      "en": "1256–1283 follows civil years. The traditional year rendered as 1282 in one source corresponds here to the execution recorded by Beijing’s heritage authority in 1283; no exact day conversion is asserted.",
+      "zh": "1256—1283年采用公元年。一处来源以传统年次写作1282年，本条按北京文物部门记为公元1283年；不进一步主张具体日历换算。"
+    },
+    "sources": [
+      {
+        "title": "文天祥, Liu Shengyi",
+        "publisher": "Academy of Chinese Studies",
+        "url": "https://chiculture.org.hk/en/china-five-thousand-years/2906",
+        "evidenceNote": "Supports first place in the 1256 examination, resistance after 1275, 1276 negotiation and escape, 1279 imprisonment in Dadu and prison writing. Its 1282 death year follows a traditional-year convention and is not used as a civil-year date.",
+        "evidenceNoteZh": "支持1256年状元、1275年后抵抗、1276年议和与脱逃、1279年大都入狱和狱中写作；其1282年卒采用传统年次，不直接作公元年。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "文天祥祠",
+        "publisher": "Beijing Municipal Cultural Heritage Bureau",
+        "url": "https://wwj.beijing.gov.cn/bjww/362771/362779/dqpqgzdwwbhdw/523529/index.html",
+        "evidenceNote": "Supports 1236–1283 lifespan, 1276 chancellor appointment and execution at Dadu in civil year 1283; the later shrine’s 1376 foundation is not a lifetime event.",
+        "evidenceNoteZh": "支持1236—1283年、1276年丞相任命及公元1283年大都处死；后世祠堂始建于1376年，不作为生平事件。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 1256,
+        "title": {
+          "en": "First in the imperial examination",
+          "zh": "殿试第一"
+        },
+        "description": {
+          "en": "Examination success brought Wen into the senior literati world.",
+          "zh": "科举成功使文氏进入士人政治世界。"
+        },
+        "location": {
+          "lat": 30.25,
+          "lon": 120.15,
+          "label": "Hangzhou, representative city",
+          "labelI18n": {
+            "en": "Hangzhou, representative city",
+            "zh": "杭州，代表性城市"
+          }
+        }
+      },
+      {
+        "year": 1276,
+        "title": {
+          "en": "A chief minister during crisis",
+          "zh": "危机中的丞相"
+        },
+        "description": {
+          "en": "His appointment accompanied negotiations and the effort to sustain Song resistance.",
+          "zh": "任命伴随交涉及维持宋朝抵抗的努力。"
+        },
+        "location": {
+          "lat": 30.25,
+          "lon": 120.15,
+          "label": "Hangzhou, representative city",
+          "labelI18n": {
+            "en": "Hangzhou, representative city",
+            "zh": "杭州，代表性城市"
+          }
+        }
+      },
+      {
+        "year": 1279,
+        "title": {
+          "en": "Imprisonment in Dadu",
+          "zh": "大都囚禁"
+        },
+        "description": {
+          "en": "Captivity became the setting for the writing of a defeated loyalist.",
+          "zh": "囚禁成为败局中坚持效忠者的写作背景。"
+        },
+        "location": {
+          "lat": 39.91,
+          "lon": 116.39,
+          "label": "Beijing, representative capital",
+          "labelI18n": {
+            "en": "Beijing, representative capital",
+            "zh": "北京，代表性都城"
+          }
+        }
+      },
+      {
+        "year": 1283,
+        "title": {
+          "en": "Execution",
+          "zh": "被处死"
+        },
+        "description": {
+          "en": "Wen was executed in Dadu; later commemoration belongs to a separate history.",
+          "zh": "文氏在大都被处死，后世纪念另有其历史。"
+        },
+        "location": {
+          "lat": 39.91,
+          "lon": 116.39,
+          "label": "Beijing, representative capital",
+          "labelI18n": {
+            "en": "Beijing, representative capital",
+            "zh": "北京，代表性都城"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "southern-song",
+      "yuan-dynasty"
+    ],
+    "expansion": {
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "release": 11,
+      "edition": "v17",
+      "sourceReview": "Original bilingual biography; dates and claims checked against the individually described sources. No donor prose reproduced.",
+      "reviewLimit": {
+        "en": "Selected career episodes; the mapped points represent named cities or regions, not exact buildings or a reconstructed itinerary.",
+        "zh": "选取仕途与创作片段；地图点代表所述城市或地区，并非确切建筑或复原行程。"
+      }
+    }
+  },
+  {
+    "id": "china-person-genghiskhan",
+    "sourceProfileId": "china-person-genghiskhan",
+    "name": {
+      "en": "Genghis Khan",
+      "zh": "成吉思汗"
+    },
+    "title": {
+      "en": "Genghis Khan: creating a new political order through conquest",
+      "zh": "成吉思汗：征服中的新政治组织"
+    },
+    "start": 1206,
+    "end": 1227,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "states",
+    "importance": 4,
+    "location": {
+      "lat": 48.5,
+      "lon": 110.0,
+      "label": "Mongolian heartland, representative setting of the 1206 assembly",
+      "labelI18n": {
+        "en": "Mongolian heartland, representative setting of the 1206 assembly",
+        "zh": "蒙古腹地，1206年大会的代表地区"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Genghis Khan’s elevation in 1206 joined a personal rise to the creation of a new Mongol political order. The assembly and title expressed authority across previously competing affiliations, while military organization made further expansion possible. Campaigns against the Tangut Xia in 1209 and the Jin capital in 1215 were followed by a Central Asian invasion beginning in 1219. Conquest brought alliances, forced submission and devastating violence; the movement of armies should not be mistaken for peaceful connection alone. His successors extended the empire after his death in 1227. The selected years follow the construction and exercise of power while leaving the disputed year of his birth unresolved.",
+      "zh": "1206年成吉思汗地位的确立，把个人崛起与新的蒙古政治组织联系起来。大会和称号表达了跨越原有竞争关系的权威，军事组织又为进一步扩张提供条件。1209年对党项西夏、1215年对金朝都城的战争，随后连接到1219年开始的中亚入侵。征服包括联盟、被迫臣服和毁灭性暴力，军队的移动并不只是和平联系。1227年去世后，继承者继续扩张帝国。本条选取权力形成与运用的年代，不裁定存在争议的出生年份。"
+    },
+    "dateNote": {
+      "en": "1206–1227 is a focus interval from the assembly to death, not a full lifespan. Campaign points represent named regions; 1219 dates the opening of a campaign, not the conquest date of every city.",
+      "zh": "1206—1227年为大会至卒年的专题时段，并非完整生卒年。战役标点代表所述地区；1219年为战争开始，不是所有城市被征服的日期。"
+    },
+    "sources": [
+      {
+        "title": "Mongol Unity under Chinggis Khan",
+        "publisher": "Columbia University, Asia for Educators, Mongols in World History",
+        "url": "https://afe.easia.columbia.edu/mongols/figures/figu_geng_unity.htm",
+        "evidenceNote": "Describes the 1206 assembly and title, and the transformation of tribal affiliations into a new political organization.",
+        "evidenceNoteZh": "说明1206年大会与称号，以及部落关系向新政治组织的转变。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Chinggis Khan’s Three Invasions",
+        "publisher": "Columbia University, Asia for Educators, Mongols in World History",
+        "url": "https://afe.easia.columbia.edu/mongols/conquests/conquests_2c.htm",
+        "evidenceNote": "Supports the 1209 Xi Xia campaign, 1215 capture of the Jin capital, 1219 Central Asian campaign and 1227 death; explicitly discusses mass killing. The source’s overextended description of Jin territory is omitted.",
+        "evidenceNoteZh": "支持1209年西夏战争、1215年攻取金都、1219年中亚战争及1227年卒，并讨论大规模杀戮；不采用文中过度扩张金疆域的描述。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 1206,
+        "title": {
+          "en": "A new title and political organization",
+          "zh": "新称号与政治组织"
+        },
+        "description": {
+          "en": "An assembly recognized Genghis Khan’s authority over the new Mongol order.",
+          "zh": "大会确认成吉思汗在新蒙古政治组织中的权威。"
+        },
+        "location": {
+          "lat": 48.5,
+          "lon": 110.0,
+          "label": "Mongolian heartland; exact assembly site not fixed",
+          "labelI18n": {
+            "en": "Mongolian heartland; exact assembly site not fixed",
+            "zh": "蒙古腹地；不确定大会具体地点"
+          }
+        }
+      },
+      {
+        "year": 1209,
+        "title": {
+          "en": "Campaign against Xia",
+          "zh": "对西夏战争"
+        },
+        "description": {
+          "en": "The Tangut state became a target of Mongol expansion.",
+          "zh": "党项政权成为蒙古扩张的目标。"
+        },
+        "location": {
+          "lat": 38.48,
+          "lon": 106.23,
+          "label": "Xia capital region, represented by Yinchuan",
+          "labelI18n": {
+            "en": "Xia capital region, represented by Yinchuan",
+            "zh": "西夏都城地区，以今银川代表"
+          }
+        }
+      },
+      {
+        "year": 1215,
+        "title": {
+          "en": "The Jin capital is captured",
+          "zh": "攻取金朝都城"
+        },
+        "description": {
+          "en": "Mongol forces captured the capital in the region of modern Beijing.",
+          "zh": "蒙古军队攻取今北京地区的金朝都城。"
+        },
+        "location": {
+          "lat": 39.91,
+          "lon": 116.39,
+          "label": "Beijing, representative capital",
+          "labelI18n": {
+            "en": "Beijing, representative capital",
+            "zh": "北京，代表性都城"
+          }
+        }
+      },
+      {
+        "year": 1219,
+        "title": {
+          "en": "War in Central Asia",
+          "zh": "中亚战争开始"
+        },
+        "description": {
+          "en": "The campaign opened a new field of conquest and mass violence.",
+          "zh": "战争打开新的征服区域，并造成大规模暴力。"
+        },
+        "location": {
+          "lat": 43.0,
+          "lon": 68.3,
+          "label": "Central Asian frontier, representative campaign region",
+          "labelI18n": {
+            "en": "Central Asian frontier, representative campaign region",
+            "zh": "中亚边地，战争的代表区域"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "mongol-unified-phase",
+      "china-person-kublaikhan"
+    ],
+    "expansion": {
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "release": 11,
+      "edition": "v17",
+      "sourceReview": "Original bilingual biography; dates and claims checked against the individually described sources. No donor prose reproduced.",
+      "reviewLimit": {
+        "en": "Selected career episodes; the mapped points represent named cities or regions, not exact buildings or a reconstructed itinerary.",
+        "zh": "选取仕途与创作片段；地图点代表所述城市或地区，并非确切建筑或复原行程。"
+      }
+    }
+  },
+  {
+    "id": "china-person-kublaikhan",
+    "sourceProfileId": "china-person-kublaikhan",
+    "name": {
+      "en": "Kublai Khan",
+      "zh": "忽必烈"
+    },
+    "title": {
+      "en": "Kublai Khan: governing a conquered realm",
+      "zh": "忽必烈：治理被征服的疆域"
+    },
+    "start": 1271,
+    "end": 1294,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "states",
+    "importance": 4,
+    "location": {
+      "lat": 39.91,
+      "lon": 116.39,
+      "label": "Beijing, representative capital",
+      "labelI18n": {
+        "en": "Beijing, representative capital",
+        "zh": "北京，代表性都城"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Kublai Khan, a grandson of Genghis Khan, ruled through institutions as well as armies. The Yuan dynastic designation in 1271 and the capital at Dadu gave his authority a Chinese imperial form. Government offices, ritual and education were adapted to the needs of Mongol rule, while unequal treatment of different populations remained part of that order. The conquest of the Southern Song in 1279 completed another stage of expansion, but expeditions against Japan in 1274 and 1281 failed. Artists and scholars worked within these changing conditions, sometimes with limited access to office. His reign connects administrative accommodation with continuing conquest, asking how a ruler organized a diverse society without giving its inhabitants equal political standing.",
+      "zh": "成吉思汗之孙忽必烈既依靠军队，也通过制度统治。1271年的元朝国号与大都都城，使其权力采取中国皇朝的形式。官署、礼仪和教育经过调整，服务于蒙古统治，而不同群体受到不平等对待仍是秩序的一部分。1279年征服南宋，完成又一阶段扩张；1274年、1281年对日本的远征却失败了。艺术家与士人在这些变化条件下工作，有些人的仕途机会受到限制。他的统治将行政上的适应与持续征服相联系，提出如何组织多样社会、却不给所有成员平等政治地位的问题。"
+    },
+    "dateNote": {
+      "en": "1271–1294 selects the Yuan designation through Kublai’s death. The two Japan milestones refer to separate expeditions; the map does not reconstruct their sea routes.",
+      "zh": "1271—1294年选取元朝国号确立至忽必烈卒年。两次日本里程碑指不同远征，地图不复原海上航线。"
+    },
+    "sources": [
+      {
+        "title": "Khubilai Khan in China",
+        "publisher": "Columbia University, Asia for Educators",
+        "url": "https://afe.easia.columbia.edu/mongols/china/china2.htm",
+        "evidenceNote": "Discusses administration through Chinese institutions, government offices, ritual and education. These adopted practices do not imply the elimination of Mongol political distinctions.",
+        "evidenceNoteZh": "讨论采用中国行政机构、官职、礼仪与教育；这些做法并不意味着蒙古统治身份差别消失。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Military Successes and Failures",
+        "publisher": "Columbia University, Asia for Educators",
+        "url": "https://afe.easia.columbia.edu/mongols/china/china4_a.htm",
+        "evidenceNote": "Supports the Southern Song conquest in 1279 and unsuccessful Japan invasions in 1274 and 1281; weather is not presented as the sole explanation.",
+        "evidenceNoteZh": "支持1279年征服南宋及1274、1281年侵日失败；不把天气当作唯一解释。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Khubilai Khan, gallery introduction",
+        "publisher": "Columbia University, Asia for Educators",
+        "url": "https://afe.easia.columbia.edu/mongols/pop/khubilai/kkhan_pop.htm",
+        "evidenceNote": "Gives 1215–1294 and identifies Kublai as Genghis Khan’s grandson. The suggested painter of the portrait is not adopted as certain.",
+        "evidenceNoteZh": "记1215—1294年，并确认忽必烈为成吉思汗之孙；不将所提画像作者确认为定论。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Yuan Dynasty (1271–1368)",
+        "publisher": "The Metropolitan Museum of Art, Department of Asian Art",
+        "url": "https://www.metmuseum.org/essays/yuan-dynasty-1271-1368",
+        "evidenceNote": "Supports the 1271 dynastic designation, Dadu capital and the unequal position of southern Chinese elites alongside artistic activity.",
+        "evidenceNoteZh": "支持1271年王朝名称、大都都城，以及艺术活动背景下南方士人的不平等政治地位。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 1271,
+        "title": {
+          "en": "The Yuan dynastic designation",
+          "zh": "确立元朝国号"
+        },
+        "description": {
+          "en": "A Mongol ruler adopted a Chinese dynastic framework.",
+          "zh": "蒙古统治者采用中国王朝的名号框架。"
+        },
+        "location": {
+          "lat": 39.91,
+          "lon": 116.39,
+          "label": "Beijing, representative capital",
+          "labelI18n": {
+            "en": "Beijing, representative capital",
+            "zh": "北京，代表性都城"
+          }
+        }
+      },
+      {
+        "year": 1274,
+        "title": {
+          "en": "An unsuccessful Japan expedition",
+          "zh": "首次侵日失败"
+        },
+        "description": {
+          "en": "The invasion failed to establish lasting control.",
+          "zh": "入侵未能建立持续控制。"
+        },
+        "location": {
+          "lat": 33.59,
+          "lon": 130.4,
+          "label": "Hakata Bay region, representative Japanese campaign setting",
+          "labelI18n": {
+            "en": "Hakata Bay region, representative Japanese campaign setting",
+            "zh": "博多湾地区，日本战事的代表地点"
+          }
+        }
+      },
+      {
+        "year": 1279,
+        "title": {
+          "en": "The Southern Song is conquered",
+          "zh": "征服南宋"
+        },
+        "description": {
+          "en": "The fall of the Southern Song extended Yuan rule over its remaining realm.",
+          "zh": "南宋覆亡，元朝统治扩展至其残余疆域。"
+        },
+        "location": {
+          "lat": 22.25,
+          "lon": 113.08,
+          "label": "Southern Chinese coast, representative final campaign region",
+          "labelI18n": {
+            "en": "Southern Chinese coast, representative final campaign region",
+            "zh": "华南沿海，最后战事的代表区域"
+          }
+        }
+      },
+      {
+        "year": 1281,
+        "title": {
+          "en": "A second Japan expedition fails",
+          "zh": "第二次侵日失败"
+        },
+        "description": {
+          "en": "Another large expedition also failed to secure conquest.",
+          "zh": "另一场大规模远征也未实现征服。"
+        },
+        "location": {
+          "lat": 33.59,
+          "lon": 130.4,
+          "label": "Northern Kyushu, representative campaign region",
+          "labelI18n": {
+            "en": "Northern Kyushu, representative campaign region",
+            "zh": "九州北部，战事的代表地区"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "yuan-dynasty",
+      "china-person-genghiskhan"
+    ],
+    "expansion": {
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "release": 11,
+      "edition": "v17",
+      "sourceReview": "Original bilingual biography; dates and claims checked against the individually described sources. No donor prose reproduced.",
+      "reviewLimit": {
+        "en": "Selected career episodes; the mapped points represent named cities or regions, not exact buildings or a reconstructed itinerary.",
+        "zh": "选取仕途与创作片段；地图点代表所述城市或地区，并非确切建筑或复原行程。"
+      }
+    }
+  },
+  {
+    "id": "china-person-zhuyuanzhang",
+    "sourceProfileId": "china-person-zhuyuanzhang",
+    "name": {
+      "en": "Zhu Yuanzhang",
+      "zh": "朱元璋"
+    },
+    "title": {
+      "en": "Zhu Yuanzhang: rebuilding institutions and concentrating authority",
+      "zh": "朱元璋：重建制度与集中权力"
+    },
+    "start": 1368,
+    "end": 1398,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "states",
+    "importance": 4,
+    "location": {
+      "lat": 32.06,
+      "lon": 118.8,
+      "label": "Nanjing, representative city",
+      "labelI18n": {
+        "en": "Nanjing, representative city",
+        "zh": "南京，代表性城市"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Zhu Yuanzhang founded the Ming in 1368 and pursued a government that reached from the emperor’s court into village registration and local schools. Early measures established county granaries and promoted Confucian education. The lijia system introduced in 1381 organized households for administrative obligations, making local communities part of the state’s machinery. These institution-building projects accompanied an increasingly concentrated form of rule. The purge of Hu Weiyong in 1380 and the abolition of the chief minister’s position drew more decisions toward the emperor. His reign therefore links rebuilding after dynastic conflict with coercion and political suspicion. Schools and registers tell one part of that story; the destruction of officials and their networks tells another.",
+      "zh": "朱元璋1368年建立明朝，推动一种从皇帝朝廷延伸到乡村登记和地方学校的治理。早期措施兴设县级粮仓、推广儒学教育；1381年实行的里甲制度，把户籍与行政义务组织起来，使地方社区进入国家运转体系。这些制度营建伴随权力进一步集中。1380年胡惟庸案及丞相职位的废除，使更多决策直接归于皇帝。他的统治把王朝战乱后的重建与强制、政治猜忌联系起来：学校和簿册讲述其中一面，官员及其关系网络遭摧毁又呈现另一面。"
+    },
+    "dateNote": {
+      "en": "1368–1398 is the founding emperor’s reign. The selected institutional dates are separate decisions, not proof that implementation became uniform everywhere in those years.",
+      "zh": "1368—1398年为开国皇帝在位时段。制度纪年指具体决策，不证明各地当年即已实施一致。"
+    },
+    "sources": [
+      {
+        "title": "A Ming Chronology",
+        "publisher": "University of California Press, hosted by De Gruyter Brill",
+        "url": "https://www.degruyterbrill.com/document/doi/10.1525/9780520924079-003/pdf?licenseType=free",
+        "evidenceNote": "Chronology supports 1368 founding and granaries, 1369 schools, 1380 purge and direct rule, 1381 lijia registration, 1398 Hongwu death, 1402 Yongle accession, 1405 voyages and 1581 Single Whip. The capital’s 1420 construction date is kept separate from its 1421 formal move.",
+        "evidenceNoteZh": "年表支持1368年建国与粮仓、1369年学校、1380年清洗及皇帝直接理政、1381年里甲、1398年洪武卒、1402年永乐即位、1405年航海及1581年一条鞭；1420年营建与1421年正式迁都分开处理。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-pdf"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 1368,
+        "title": {
+          "en": "Founding the Ming",
+          "zh": "建立明朝"
+        },
+        "description": {
+          "en": "The new dynasty began alongside measures such as county granaries.",
+          "zh": "新王朝建立，同时推行县级粮仓等措施。"
+        },
+        "location": {
+          "lat": 32.06,
+          "lon": 118.8,
+          "label": "Nanjing, representative city",
+          "labelI18n": {
+            "en": "Nanjing, representative city",
+            "zh": "南京，代表性城市"
+          }
+        }
+      },
+      {
+        "year": 1369,
+        "title": {
+          "en": "County schools",
+          "zh": "县学措施"
+        },
+        "description": {
+          "en": "Confucian schools formed part of the early institutional program.",
+          "zh": "儒学学校成为初期制度计划的一部分。"
+        },
+        "location": {
+          "lat": 32.06,
+          "lon": 118.8,
+          "label": "Nanjing, representative city",
+          "labelI18n": {
+            "en": "Nanjing, representative city",
+            "zh": "南京，代表性城市"
+          }
+        }
+      },
+      {
+        "year": 1380,
+        "title": {
+          "en": "A purge and direct imperial rule",
+          "zh": "清洗与皇帝直接理政"
+        },
+        "description": {
+          "en": "The Hu Weiyong purge accompanied the ending of the chief minister’s office.",
+          "zh": "胡惟庸案伴随丞相职务的终止。"
+        },
+        "location": {
+          "lat": 32.06,
+          "lon": 118.8,
+          "label": "Nanjing, representative city",
+          "labelI18n": {
+            "en": "Nanjing, representative city",
+            "zh": "南京，代表性城市"
+          }
+        }
+      },
+      {
+        "year": 1381,
+        "title": {
+          "en": "Lijia registration",
+          "zh": "里甲编制"
+        },
+        "description": {
+          "en": "Household organization supported the administration of local obligations.",
+          "zh": "户的组织支持地方义务的行政管理。"
+        },
+        "location": {
+          "lat": 32.06,
+          "lon": 118.8,
+          "label": "Nanjing, representative city",
+          "labelI18n": {
+            "en": "Nanjing, representative city",
+            "zh": "南京，代表性城市"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "ming-dynasty",
+      "china-person-zhudi"
+    ],
+    "expansion": {
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "release": 11,
+      "edition": "v17",
+      "sourceReview": "Original bilingual biography; dates and claims checked against the individually described sources. No donor prose reproduced.",
+      "reviewLimit": {
+        "en": "Selected career episodes; the mapped points represent named cities or regions, not exact buildings or a reconstructed itinerary.",
+        "zh": "选取仕途与创作片段；地图点代表所述城市或地区，并非确切建筑或复原行程。"
+      }
+    }
+  },
+  {
+    "id": "china-person-zhudi",
+    "sourceProfileId": "china-person-zhudi",
+    "name": {
+      "en": "Zhu Di",
+      "zh": "朱棣"
+    },
+    "title": {
+      "en": "Zhu Di: making authority visible in books, fleets and a capital",
+      "zh": "朱棣：书籍、船队与都城中的皇权"
+    },
+    "start": 1402,
+    "end": 1424,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "states",
+    "importance": 4,
+    "location": {
+      "lat": 39.91,
+      "lon": 116.39,
+      "label": "Beijing, representative capital",
+      "labelI18n": {
+        "en": "Beijing, representative capital",
+        "zh": "北京，代表性都城"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Zhu Di seized the throne in 1402 after taking Nanjing from his nephew’s government. Violence against opponents accompanied a reign that also invested in ambitious cultural and infrastructural projects. The encyclopedia begun in 1403 gathered writings on an imperial scale, while Zheng He’s expeditions, beginning in 1405, carried court power into maritime networks. Construction in the north culminated in the formal move of the capital to Beijing in 1421. These undertakings depended on scholars, administrators, sailors and laborers whose work made imperial plans tangible. They also make the reign more than a succession of grand achievements: the question is how an insecure accession was followed by projects that organized knowledge, movement and space around a new center of rule.",
+      "zh": "朱棣1402年从侄儿政权手中夺取南京，登上皇位。对反对者的暴力清洗，与规模庞大的文化及建设工程并存。1403年开始编纂的类书，以皇朝规模汇集著述；1405年起郑和船队的航行，则把朝廷权力带入海上网络。北方营建最终在1421年正式迁都北京。这些事业依赖学者、官员、船员和劳作者，将皇帝计划变成可见事物。理解这一统治，需要追问一次争夺得来的即位，如何继之以围绕新权力中心组织知识、交通和空间的工程。"
+    },
+    "dateNote": {
+      "en": "1402 is accession; Yongle’s named era begins in 1403. Beijing’s palace completion in 1420 and the formal capital move in 1421 are distinguished. The interval ends with his death in 1424.",
+      "zh": "1402年为即位，永乐年号自1403年起。1420年宫殿竣工与1421年正式迁都分开处理，时段终于1424年卒。"
+    },
+    "sources": [
+      {
+        "title": "永乐皇帝",
+        "publisher": "The Palace Museum, Beijing",
+        "url": "https://www.dpm.org.cn/court/lineage/226257.html",
+        "evidenceNote": "Downloaded page text supports the 1402 seizure of Nanjing and accession, 1403 encyclopedia project, 1405 voyages, building sequence and formal Beijing capital move in 1421, and 1424 death. Disputed maternal ancestry is omitted.",
+        "evidenceNoteZh": "下载正文支持1402年夺取南京并即位、1403年类书工程、1405年航海、营建次序与1421年正式迁都北京、1424年卒；不采用有争议的生母说。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "downloaded-page-text"
+      },
+      {
+        "title": "A Ming Chronology",
+        "publisher": "University of California Press, hosted by De Gruyter Brill",
+        "url": "https://www.degruyterbrill.com/document/doi/10.1525/9780520924079-003/pdf?licenseType=free",
+        "evidenceNote": "Chronology supports 1368 founding and granaries, 1369 schools, 1380 purge and direct rule, 1381 lijia registration, 1398 Hongwu death, 1402 Yongle accession, 1405 voyages and 1581 Single Whip. The capital’s 1420 construction date is kept separate from its 1421 formal move.",
+        "evidenceNoteZh": "年表支持1368年建国与粮仓、1369年学校、1380年清洗及皇帝直接理政、1381年里甲、1398年洪武卒、1402年永乐即位、1405年航海及1581年一条鞭；1420年营建与1421年正式迁都分开处理。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-pdf"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 1402,
+        "title": {
+          "en": "Seizing the throne",
+          "zh": "夺取皇位"
+        },
+        "description": {
+          "en": "Zhu Di took Nanjing and became emperor after overthrowing his nephew’s rule.",
+          "zh": "朱棣攻取南京，推翻侄儿统治后即位。"
+        },
+        "location": {
+          "lat": 32.06,
+          "lon": 118.8,
+          "label": "Nanjing, representative city",
+          "labelI18n": {
+            "en": "Nanjing, representative city",
+            "zh": "南京，代表性城市"
+          }
+        }
+      },
+      {
+        "year": 1403,
+        "title": {
+          "en": "The encyclopedia project",
+          "zh": "启动类书工程"
+        },
+        "description": {
+          "en": "An imperial compilation gathered a vast range of writing.",
+          "zh": "皇室主持的编纂汇集多类著述。"
+        },
+        "location": {
+          "lat": 32.06,
+          "lon": 118.8,
+          "label": "Nanjing, representative city",
+          "labelI18n": {
+            "en": "Nanjing, representative city",
+            "zh": "南京，代表性城市"
+          }
+        }
+      },
+      {
+        "year": 1405,
+        "title": {
+          "en": "Zheng He’s first expedition",
+          "zh": "郑和首次航行"
+        },
+        "description": {
+          "en": "Court-sponsored maritime expeditions began.",
+          "zh": "朝廷资助的海上远征开始。"
+        },
+        "location": {
+          "lat": 32.06,
+          "lon": 118.8,
+          "label": "Nanjing, sponsoring court; not a precise sailing point",
+          "labelI18n": {
+            "en": "Nanjing, sponsoring court; not a precise sailing point",
+            "zh": "南京，支持航行的朝廷；并非精确出航点"
+          }
+        }
+      },
+      {
+        "year": 1421,
+        "title": {
+          "en": "A capital at Beijing",
+          "zh": "正式迁都北京"
+        },
+        "description": {
+          "en": "The formal capital move followed the major building program.",
+          "zh": "大规模营建之后，正式迁都北京。"
+        },
+        "location": {
+          "lat": 39.91,
+          "lon": 116.39,
+          "label": "Beijing, representative capital",
+          "labelI18n": {
+            "en": "Beijing, representative capital",
+            "zh": "北京，代表性都城"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "ming-dynasty",
+      "china-yongle-encyclopedia-1403"
+    ],
+    "expansion": {
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "release": 11,
+      "edition": "v17",
+      "sourceReview": "Original bilingual biography; dates and claims checked against the individually described sources. No donor prose reproduced.",
+      "reviewLimit": {
+        "en": "Selected career episodes; the mapped points represent named cities or regions, not exact buildings or a reconstructed itinerary.",
+        "zh": "选取仕途与创作片段；地图点代表所述城市或地区，并非确切建筑或复原行程。"
+      }
+    }
+  },
+  {
+    "id": "china-person-yuqian",
+    "sourceProfileId": "china-person-yuqian",
+    "name": {
+      "en": "Yu Qian",
+      "zh": "于谦"
+    },
+    "title": {
+      "en": "Yu Qian: defending a capital, losing a court struggle",
+      "zh": "于谦：守住都城，败于朝争"
+    },
+    "start": 1421,
+    "end": 1457,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "states",
+    "importance": 4,
+    "location": {
+      "lat": 39.91,
+      "lon": 116.39,
+      "label": "Beijing, representative capital",
+      "labelI18n": {
+        "en": "Beijing, representative capital",
+        "zh": "北京，代表性都城"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Yu Qian passed the jinshi examination in 1421 and developed an official career that included provincial administration. The capture of the Ming emperor in the Tumu crisis of 1449 brought him to the center of an emergency. As minister of war, he opposed abandoning Beijing, supported the new Jingtai emperor and organized the capital’s defense. Recruitment, supplies, weapons and training mattered alongside decisions at court: keeping a city required more than a declaration of resolve. The restoration of the captive emperor in 1457 reversed the political setting. Yu was executed on a treason charge. His career makes visible the precarious connection between serving a state in crisis and remaining secure under the ruler who followed.",
+      "zh": "于谦1421年进士及第，仕途包括地方行政。1449年土木危机中，明朝皇帝被俘，使他进入应急决策中心。作为兵部尚书，他反对放弃北京，支持新立的景泰帝，并组织都城防御。募兵、军粮、武器和操练与朝廷决策同样重要，保卫一城不能只靠决心声明。1457年被俘皇帝复位，政治环境随之翻转，于谦以谋反罪名被处死。他的生涯揭示了一种不稳固的联系：危机中为国家效力，并不能保证在后来的统治者手中安全。"
+    },
+    "dateNote": {
+      "en": "1421–1457 runs from examination success through execution. The 1449 point represents the defended capital; it is not the site of the Tumu defeat.",
+      "zh": "1421—1457年从进士及第到被处死。1449年标点代表所守卫的都城，并非土木战败地点。"
+    },
+    "sources": [
+      {
+        "title": "景泰皇帝, sections on Yu Qian and the defense of Beijing",
+        "publisher": "The Palace Museum, Beijing",
+        "url": "https://www.dpm.org.cn/court/lineage/226260.html",
+        "evidenceNote": "Downloaded page sections explicitly give Yu Qian’s 1421 jinshi, 1449 appointment and defense of Beijing, preparations and support of Jingtai, and execution following the 1457 restoration.",
+        "evidenceNoteZh": "下载正文相关段落明确记于谦1421年进士、1449年任命与北京保卫、备战及支持景泰、1457年复辟后被处死。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "downloaded-page-text"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 1421,
+        "title": {
+          "en": "Jinshi degree",
+          "zh": "进士及第"
+        },
+        "description": {
+          "en": "Yu entered the examination elite.",
+          "zh": "于谦进入科举士人行列。"
+        },
+        "location": {
+          "lat": 39.91,
+          "lon": 116.39,
+          "label": "Beijing, representative capital",
+          "labelI18n": {
+            "en": "Beijing, representative capital",
+            "zh": "北京，代表性都城"
+          }
+        }
+      },
+      {
+        "year": 1449,
+        "title": {
+          "en": "Defending Beijing",
+          "zh": "保卫北京"
+        },
+        "description": {
+          "en": "He took charge of military preparations after the emperor’s capture.",
+          "zh": "皇帝被俘后，于氏主持军事准备。"
+        },
+        "location": {
+          "lat": 39.91,
+          "lon": 116.39,
+          "label": "Beijing, representative capital",
+          "labelI18n": {
+            "en": "Beijing, representative capital",
+            "zh": "北京，代表性都城"
+          }
+        }
+      },
+      {
+        "year": 1457,
+        "title": {
+          "en": "Execution after restoration",
+          "zh": "复辟后被处死"
+        },
+        "description": {
+          "en": "The restored court treated a defender of the Jingtai regime as an enemy.",
+          "zh": "复辟后的朝廷将支持景泰政权者视为敌手。"
+        },
+        "location": {
+          "lat": 39.91,
+          "lon": 116.39,
+          "label": "Beijing, representative capital",
+          "labelI18n": {
+            "en": "Beijing, representative capital",
+            "zh": "北京，代表性都城"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "ming-dynasty",
+      "china-person-zhudi"
+    ],
+    "expansion": {
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "release": 11,
+      "edition": "v17",
+      "sourceReview": "Original bilingual biography; dates and claims checked against the individually described sources. No donor prose reproduced.",
+      "reviewLimit": {
+        "en": "Selected career episodes; the mapped points represent named cities or regions, not exact buildings or a reconstructed itinerary.",
+        "zh": "选取仕途与创作片段；地图点代表所述城市或地区，并非确切建筑或复原行程。"
+      }
+    }
+  },
+  {
+    "id": "china-person-wangyangming",
+    "sourceProfileId": "china-person-wangyangming",
+    "name": {
+      "en": "Wang Yangming",
+      "zh": "王阳明"
+    },
+    "title": {
+      "en": "Wang Yangming: moral knowledge tested in action",
+      "zh": "王阳明：在行动中检验道德认识"
+    },
+    "start": 1499,
+    "end": 1529,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "knowledge",
+    "importance": 4,
+    "location": {
+      "lat": 26.87,
+      "lon": 106.6,
+      "label": "Guizhou, representative setting of exile and reflection",
+      "labelI18n": {
+        "en": "Guizhou, representative setting of exile and reflection",
+        "zh": "贵州，贬谪与思考的代表地区"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Wang Yangming, also known as Wang Shouren, passed the highest civil examination in 1499. Punishment in 1506 sent him toward exile in Guizhou, where the insight associated with 1508 became a turning point in his philosophical account. He argued that moral knowing was not merely information stored before action: genuine understanding and conduct belonged together. His emphasis on innate moral awareness also challenged a learning practice centered only on accumulating external knowledge. Return to office brought military and administrative responsibilities, keeping his philosophy close to questions of public action. The resulting tradition asks a practical question: what does someone truly know if that knowledge leaves their conduct untouched?",
+      "zh": "王阳明本名王守仁，1499年通过最高级文官考试。1506年受罚后，他被贬往贵州；与1508年相联系的悟道，成为其思想历程的转折。他主张道德认识并非行动前储存的一套信息，真实理解与行为本来相连。对内在良知的重视，也挑战了只向外积累知识的学习方式。重返仕途后，军事和行政职责使其哲学持续接触公共行动的问题。由此形成的思想传统提出一个切实追问：如果某种知识丝毫不改变人的行为，究竟能说已经懂得了什么？"
+    },
+    "dateNote": {
+      "en": "1499–1529 selects examination through death. The 1508 insight is the biographical tradition discussed by the philosophical reference; its map point represents the Guizhou region.",
+      "zh": "1499—1529年选取科举至卒年。1508年悟道据哲学资料讨论的传记传统；标点代表贵州地区。"
+    },
+    "sources": [
+      {
+        "title": "Wang Yangming",
+        "publisher": "Stanford Encyclopedia of Philosophy",
+        "url": "https://plato.stanford.edu/entries/wang-yangming/",
+        "evidenceNote": "Biographical section gives 1499 examination, 1506 punishment and Guizhou exile, 1508 insight and 1529 death; philosophical sections explain unity of knowledge and action and innate moral knowing.",
+        "evidenceNoteZh": "传记部分记1499年科举、1506年受刑与贬贵州、1508年悟道及1529年卒；思想部分解释知行合一与良知。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 1499,
+        "title": {
+          "en": "The highest examination",
+          "zh": "通过最高级科举"
+        },
+        "description": {
+          "en": "Examination success brought Wang into imperial service.",
+          "zh": "科举成功使王氏进入皇朝仕途。"
+        },
+        "location": {
+          "lat": 39.91,
+          "lon": 116.39,
+          "label": "Beijing, representative capital",
+          "labelI18n": {
+            "en": "Beijing, representative capital",
+            "zh": "北京，代表性都城"
+          }
+        }
+      },
+      {
+        "year": 1506,
+        "title": {
+          "en": "Punishment and exile",
+          "zh": "受刑与贬谪"
+        },
+        "description": {
+          "en": "A political confrontation led to punishment and removal to Guizhou.",
+          "zh": "政治冲突导致受刑并贬往贵州。"
+        },
+        "location": {
+          "lat": 26.87,
+          "lon": 106.6,
+          "label": "Guizhou, destination of exile; not a punishment site",
+          "labelI18n": {
+            "en": "Guizhou, destination of exile; not a punishment site",
+            "zh": "贵州，贬谪目的地；不是受刑地点"
+          }
+        }
+      },
+      {
+        "year": 1508,
+        "title": {
+          "en": "A philosophical turning point",
+          "zh": "思想转折"
+        },
+        "description": {
+          "en": "The biographical account associates exile with a new understanding of moral knowledge.",
+          "zh": "传记叙述将贬谪生活与新的道德认识联系起来。"
+        },
+        "location": {
+          "lat": 26.87,
+          "lon": 106.6,
+          "label": "Guizhou, representative region",
+          "labelI18n": {
+            "en": "Guizhou, representative region",
+            "zh": "贵州，代表性地区"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "ming-dynasty",
+      "china-person-wanganshi"
+    ],
+    "expansion": {
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "release": 11,
+      "edition": "v17",
+      "sourceReview": "Original bilingual biography; dates and claims checked against the individually described sources. No donor prose reproduced.",
+      "reviewLimit": {
+        "en": "Selected career episodes; the mapped points represent named cities or regions, not exact buildings or a reconstructed itinerary.",
+        "zh": "选取仕途与创作片段；地图点代表所述城市或地区，并非确切建筑或复原行程。"
+      }
+    }
+  },
+  {
+    "id": "china-person-qijiguang",
+    "sourceProfileId": "china-person-qijiguang",
+    "name": {
+      "en": "Qi Jiguang",
+      "zh": "戚继光"
+    },
+    "title": {
+      "en": "Qi Jiguang: recruiting, training and adapting an army",
+      "zh": "戚继光：募兵、操练与军队调整"
+    },
+    "start": 1555,
+    "end": 1583,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "states",
+    "importance": 4,
+    "location": {
+      "lat": 28.66,
+      "lon": 121.42,
+      "label": "Taizhou region, representative coastal-defense setting",
+      "labelI18n": {
+        "en": "Taizhou region, representative coastal-defense setting",
+        "zh": "台州地区，沿海防御的代表地点"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Qi Jiguang’s military career connects coastal raiding with the practical work of building a fighting force. Assigned to Zhejiang in 1555, he recruited men from Yiwu in 1559 and organized mixed-weapon formations whose members had to act together. Fighting around Taizhou in 1561 tested that preparation. His later northern command, beginning in 1568, brought different conditions: frontier fortifications and coordination among infantry, cavalry, firearms and wagons. Support from Zhang Juzheng helped sustain this work, while the political changes after Zhang’s death preceded Qi’s transfer to Guangdong in 1583. Training manuals and defenses belong beside battles in this biography, because the effectiveness of an army depended on repeated practice, organization and material support.",
+      "zh": "戚继光的军事生涯，把沿海袭扰与建立作战力量的具体工作联系起来。1555年到浙江任职，1559年在义乌募兵，并组织需要成员协同的多兵器阵形。1561年台州地区的战事检验了这些准备。1568年开始的北方任职又面对不同条件，包括边防工事，以及步兵、骑兵、火器和战车的配合。张居正的支持有助于维持工作，张氏死后的政治变化则先于1583年戚氏调往广东。兵书与防御工程应与战役并列，因为军队的能力有赖反复操练、组织和物资保障。"
+    },
+    "dateNote": {
+      "en": "1555–1583 is a documented career interval. The source page gives inconsistent 1587/1588 death dates, so the profile does not assert a death year. Coastal raiders are not assigned a single ethnicity.",
+      "zh": "1555—1583年为有据仕途时段。来源网页的1587、1588年卒年不一致，本条不主张具体卒年。沿海袭扰者不被归为单一族群。"
+    },
+    "sources": [
+      {
+        "title": "戚继光",
+        "publisher": "The Palace Museum, Beijing",
+        "url": "https://www.dpm.org.cn/court/figure/104028.html",
+        "evidenceNote": "Downloaded text supports Zhejiang in 1555, Yiwu recruiting in 1559, Taizhou fighting in 1561, northern command in 1568 and Guangdong transfer in 1583, plus mixed-weapon drill and fortification. The page’s inconsistent 1587/1588 death dates are excluded.",
+        "evidenceNoteZh": "下载正文支持1555年浙江、1559年义乌募兵、1561年台州战事、1568年北方任职及1583年调广东，并说明多兵器操练与筑防；不采用网页不一致的1587、1588年卒年。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "downloaded-page-text"
+      },
+      {
+        "title": "张居正",
+        "publisher": "The Palace Museum, Beijing",
+        "url": "https://www.dpm.org.cn/court/figure/104014.html",
+        "evidenceNote": "Downloaded text supports 1547 jinshi, 1572 chief grand secretary, 1578 land survey, 1581 Single Whip and 1582 death, military patronage and later political reversal. Benefits claimed by the source are not universalized.",
+        "evidenceNoteZh": "下载正文支持1547年进士、1572年首辅、1578年清丈、1581年一条鞭与1582年卒、军事支持及身后政治翻转；不把来源所称成效普遍化。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "downloaded-page-text"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 1555,
+        "title": {
+          "en": "Service in Zhejiang",
+          "zh": "浙江任职"
+        },
+        "description": {
+          "en": "Coastal defense became a central responsibility.",
+          "zh": "沿海防务成为主要职责。"
+        },
+        "location": {
+          "lat": 29.0,
+          "lon": 120.5,
+          "label": "Zhejiang coast, representative defensive region",
+          "labelI18n": {
+            "en": "Zhejiang coast, representative defensive region",
+            "zh": "浙江沿海，防务的代表地区"
+          }
+        }
+      },
+      {
+        "year": 1559,
+        "title": {
+          "en": "Recruiting at Yiwu",
+          "zh": "义乌募兵"
+        },
+        "description": {
+          "en": "New recruits became the basis for coordinated training.",
+          "zh": "新募士卒成为协同操练的基础。"
+        },
+        "location": {
+          "lat": 29.31,
+          "lon": 120.08,
+          "label": "Yiwu",
+          "labelI18n": {
+            "en": "Yiwu",
+            "zh": "义乌"
+          }
+        }
+      },
+      {
+        "year": 1561,
+        "title": {
+          "en": "Fighting at Taizhou",
+          "zh": "台州战事"
+        },
+        "description": {
+          "en": "Coastal fighting tested the organization of the new force.",
+          "zh": "沿海战争检验新军组织。"
+        },
+        "location": {
+          "lat": 28.66,
+          "lon": 121.42,
+          "label": "Taizhou region",
+          "labelI18n": {
+            "en": "Taizhou region",
+            "zh": "台州地区"
+          }
+        }
+      },
+      {
+        "year": 1568,
+        "title": {
+          "en": "Northern frontier command",
+          "zh": "北方边防任职"
+        },
+        "description": {
+          "en": "A northern assignment required different defensive systems and cooperation among arms.",
+          "zh": "北方任命需要不同防御体系与兵种配合。"
+        },
+        "location": {
+          "lat": 40.05,
+          "lon": 117.4,
+          "label": "Jizhou frontier region",
+          "labelI18n": {
+            "en": "Jizhou frontier region",
+            "zh": "蓟州边防地区"
+          }
+        }
+      },
+      {
+        "year": 1583,
+        "title": {
+          "en": "Transfer to Guangdong",
+          "zh": "调往广东"
+        },
+        "description": {
+          "en": "A new posting followed changes in court patronage.",
+          "zh": "朝廷支持关系变化后，戚氏被调往新任地。"
+        },
+        "location": {
+          "lat": 23.13,
+          "lon": 113.26,
+          "label": "Guangdong, representative provincial setting",
+          "labelI18n": {
+            "en": "Guangdong, representative provincial setting",
+            "zh": "广东，代表性省域地点"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "ming-dynasty",
+      "china-person-zhangjuzheng"
+    ],
+    "expansion": {
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "release": 11,
+      "edition": "v17",
+      "sourceReview": "Original bilingual biography; dates and claims checked against the individually described sources. No donor prose reproduced.",
+      "reviewLimit": {
+        "en": "Selected career episodes; the mapped points represent named cities or regions, not exact buildings or a reconstructed itinerary.",
+        "zh": "选取仕途与创作片段；地图点代表所述城市或地区，并非确切建筑或复原行程。"
+      }
+    }
+  },
+  {
+    "id": "china-person-zhangjuzheng",
+    "sourceProfileId": "china-person-zhangjuzheng",
+    "name": {
+      "en": "Zhang Juzheng",
+      "zh": "张居正"
+    },
+    "title": {
+      "en": "Zhang Juzheng: making revenue and official performance count",
+      "zh": "张居正：财政与官员执行的改革"
+    },
+    "start": 1547,
+    "end": 1582,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "states",
+    "importance": 4,
+    "location": {
+      "lat": 39.91,
+      "lon": 116.39,
+      "label": "Beijing, representative capital",
+      "labelI18n": {
+        "en": "Beijing, representative capital",
+        "zh": "北京，代表性都城"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Zhang Juzheng entered the examination elite in 1547 and became chief grand secretary in 1572. His reform agenda joined court authority to information about land, taxes and the performance of officials. A land survey begun in 1578 sought to improve the state’s fiscal records; the Single Whip measures promoted in 1581 combined obligations and increased the role of payments in silver. Such changes depended on how local officers registered households and assessed demands, not simply on a decree from Beijing. Zhang also supported frontier commanders, including Qi Jiguang. His death in 1582 was followed by attacks on his position and family, showing how a program associated with one powerful minister could become vulnerable to a reversal at court.",
+      "zh": "张居正1547年进士及第，1572年成为首辅。改革计划把朝廷权威与土地、税收和官员办事情况的信息联系起来。1578年开始的清丈力图改进财政记录，1581年推广的一条鞭措施合并赋役，并扩大白银缴纳的作用。这些改变取决于地方官怎样登记、核定征收，不能只靠北京一道命令。张氏还支持包括戚继光在内的边防将领。1582年去世后，其政治地位与家庭遭到打击，显示与一位强臣紧密相连的计划，如何容易受到朝廷翻转的影响。"
+    },
+    "dateNote": {
+      "en": "1547–1582 follows examination through death. The 1578 and 1581 milestones date central initiatives, not uniform adoption in all districts or a claim that silver taxation began in 1581.",
+      "zh": "1547—1582年从科举至卒年。1578、1581年指中央举措，不等于各县同步实行，也不表示白银纳税始于1581年。"
+    },
+    "sources": [
+      {
+        "title": "张居正",
+        "publisher": "The Palace Museum, Beijing",
+        "url": "https://www.dpm.org.cn/court/figure/104014.html",
+        "evidenceNote": "Downloaded text supports 1547 jinshi, 1572 chief grand secretary, 1578 land survey, 1581 Single Whip and 1582 death, military patronage and later political reversal. Benefits claimed by the source are not universalized.",
+        "evidenceNoteZh": "下载正文支持1547年进士、1572年首辅、1578年清丈、1581年一条鞭与1582年卒、军事支持及身后政治翻转；不把来源所称成效普遍化。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "downloaded-page-text"
+      },
+      {
+        "title": "A Ming Chronology",
+        "publisher": "University of California Press, hosted by De Gruyter Brill",
+        "url": "https://www.degruyterbrill.com/document/doi/10.1525/9780520924079-003/pdf?licenseType=free",
+        "evidenceNote": "Chronology supports 1368 founding and granaries, 1369 schools, 1380 purge and direct rule, 1381 lijia registration, 1398 Hongwu death, 1402 Yongle accession, 1405 voyages and 1581 Single Whip. The capital’s 1420 construction date is kept separate from its 1421 formal move.",
+        "evidenceNoteZh": "年表支持1368年建国与粮仓、1369年学校、1380年清洗及皇帝直接理政、1381年里甲、1398年洪武卒、1402年永乐即位、1405年航海及1581年一条鞭；1420年营建与1421年正式迁都分开处理。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-pdf"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 1547,
+        "title": {
+          "en": "Jinshi degree",
+          "zh": "进士及第"
+        },
+        "description": {
+          "en": "Examination success began Zhang’s official career.",
+          "zh": "科举成功开启张氏仕途。"
+        },
+        "location": {
+          "lat": 39.91,
+          "lon": 116.39,
+          "label": "Beijing, representative capital",
+          "labelI18n": {
+            "en": "Beijing, representative capital",
+            "zh": "北京，代表性都城"
+          }
+        }
+      },
+      {
+        "year": 1572,
+        "title": {
+          "en": "Chief grand secretary",
+          "zh": "成为首辅"
+        },
+        "description": {
+          "en": "Zhang took the leading position in the Grand Secretariat.",
+          "zh": "张氏担任内阁的首要职务。"
+        },
+        "location": {
+          "lat": 39.91,
+          "lon": 116.39,
+          "label": "Beijing, representative capital",
+          "labelI18n": {
+            "en": "Beijing, representative capital",
+            "zh": "北京，代表性都城"
+          }
+        }
+      },
+      {
+        "year": 1578,
+        "title": {
+          "en": "A land survey",
+          "zh": "推行清丈"
+        },
+        "description": {
+          "en": "Improved land records were intended to strengthen fiscal administration.",
+          "zh": "改进土地记录以加强财政管理。"
+        },
+        "location": {
+          "lat": 39.91,
+          "lon": 116.39,
+          "label": "Beijing, representative capital",
+          "labelI18n": {
+            "en": "Beijing, representative capital",
+            "zh": "北京，代表性都城"
+          }
+        }
+      },
+      {
+        "year": 1581,
+        "title": {
+          "en": "Single Whip measures",
+          "zh": "一条鞭措施"
+        },
+        "description": {
+          "en": "Combined obligations and silver payments became a focus of fiscal reform.",
+          "zh": "合并赋役与白银缴纳成为财政改革重点。"
+        },
+        "location": {
+          "lat": 39.91,
+          "lon": 116.39,
+          "label": "Beijing, representative capital",
+          "labelI18n": {
+            "en": "Beijing, representative capital",
+            "zh": "北京，代表性都城"
+          }
+        }
+      },
+      {
+        "year": 1582,
+        "title": {
+          "en": "Death",
+          "zh": "逝世"
+        },
+        "description": {
+          "en": "The minister’s death preceded a political reversal against his legacy and family.",
+          "zh": "首辅去世，身后业绩与家族面临政治翻转。"
+        },
+        "location": {
+          "lat": 39.91,
+          "lon": 116.39,
+          "label": "Beijing, representative capital",
+          "labelI18n": {
+            "en": "Beijing, representative capital",
+            "zh": "北京，代表性都城"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-person-qijiguang",
+      "ming-dynasty"
     ],
     "expansion": {
       "workstreams": [

@@ -1353,7 +1353,7 @@
       }
     ],
     "relatedIds": [
-      "qin-empire",
+      "qin-unification",
       "china-person-xiangyu"
     ],
     "expansion": {
@@ -2159,7 +2159,7 @@
     ],
     "relatedIds": [
       "china-person-jiangwei",
-      "china-person-simazhao"
+      "western-jin-dynasty"
     ],
     "expansion": {
       "release": 11,
@@ -2615,6 +2615,1926 @@
       "reviewLimit": {
         "en": "The dynastic history is a retrospective account. Its moral judgments, speeches and army totals are not adopted as independently verified facts.",
         "zh": "正史属于事后编纂的叙述；其中道德评价、人物对话和军队总数不直接视为独立核实的事实。"
+      }
+    }
+  },
+  {
+    "id": "china-person-anlushan",
+    "sourceProfileId": "china-person-anlushan",
+    "name": {
+      "en": "An Lushan",
+      "zh": "安禄山"
+    },
+    "title": {
+      "en": "An Lushan · frontier command becomes rebellion",
+      "zh": "安禄山 · 边镇权力转为叛乱"
+    },
+    "start": 742,
+    "end": 757,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "states",
+    "importance": 3,
+    "location": {
+      "lat": 39.9,
+      "lon": 116.4,
+      "label": "Fanyang, frontier command",
+      "labelI18n": {
+        "en": "Fanyang, frontier command",
+        "zh": "范阳，边镇驻地"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "An Lushan rose through the Tang frontier armies and received the Pinglu command in 742. His authority depended on imperial appointments and relationships at court as well as soldiers on the border. In 755 he turned those resources against the dynasty, advancing from Fanyang and taking Luoyang. There he claimed an imperial title; the fighting also drove the Tang court from Chang’an. His own rule ended in a palace conspiracy in 757 involving his son An Qingxu and members of his household. The rebellion continued after his death. Following these changing centres of command reveals a struggle within an interconnected empire, not a simple opposition between a capital and an isolated frontier.",
+      "zh": "安禄山从唐朝边军中升迁，742年受任平卢节度使。他的权力既来自边境军队，也依靠皇帝任命与朝廷关系。755年，他将这些资源用于反叛，从范阳南下，攻取洛阳并称帝；战事又迫使唐廷离开长安。757年，安庆绪与身边人员参与的宫廷密谋结束了他的统治，但叛乱仍在继续。沿着这些变化的指挥中心观察，可以看出这是一场发生在相互联系的帝国内部的权力斗争，而非都城与孤立边地之间的简单对抗。"
+    },
+    "dateNote": {
+      "en": "742–757 is the selected period of documented activity, not a lifespan. Dates are given at civil-year precision; map points are representative.",
+      "zh": "742—757年为所选有据活动时期，并非生卒年。日期精度为公元年；地图点为代表位置。"
+    },
+    "sources": [
+      {
+        "title": "舊唐書 卷200上",
+        "publisher": "Liu Xu and the Later Jin historiographical commission; public-domain primary text, Wikisource transcription",
+        "url": "https://zh.wikisource.org/wiki/舊唐書/卷200上",
+        "evidenceNote": "Tianbao 1 appointment, Tianbao 14 rebellion and Zhide 2 assassination; Luoyang court and the conspirators.",
+        "evidenceNoteZh": "天宝元年任命、十四年起兵、至德二年被杀；洛阳政权及参与密谋者。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page-primary-text"
+      },
+      {
+        "title": "An Lu-shan",
+        "publisher": "Encyclopedia of World Biography / Encyclopedia.com",
+        "url": "https://www.encyclopedia.com/people/history/chinese-and-taiwanese-history-biographies/lu-shan",
+        "evidenceNote": "Confirms 742, 755–756 and 757 anchors and the rebellion’s continuation after his death.",
+        "evidenceNoteZh": "核对742年、755—756年与757年的锚点，以及其死后战事延续。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 742,
+        "title": {
+          "en": "Pinglu appointment",
+          "zh": "出任平卢节度使"
+        },
+        "description": {
+          "en": "The court placed him over a frontier military command.",
+          "zh": "朝廷任其掌管边镇军务。"
+        },
+        "location": {
+          "lat": 41.54,
+          "lon": 120.45,
+          "label": "Pinglu command region",
+          "labelI18n": {
+            "en": "Pinglu command region",
+            "zh": "平卢军镇地区"
+          }
+        }
+      },
+      {
+        "year": 755,
+        "title": {
+          "en": "Rebellion from Fanyang",
+          "zh": "从范阳起兵"
+        },
+        "description": {
+          "en": "His forces moved against the Tang government.",
+          "zh": "率军反叛唐廷。"
+        },
+        "location": {
+          "lat": 39.9,
+          "lon": 116.4,
+          "label": "Fanyang",
+          "labelI18n": {
+            "en": "Fanyang",
+            "zh": "范阳"
+          }
+        }
+      },
+      {
+        "year": 757,
+        "title": {
+          "en": "Killed in a palace plot",
+          "zh": "死于宫廷密谋"
+        },
+        "description": {
+          "en": "His household conspiracy transferred power to An Qingxu.",
+          "zh": "身边人员的密谋将权力交给安庆绪。"
+        },
+        "location": {
+          "lat": 34.62,
+          "lon": 112.45,
+          "label": "Luoyang",
+          "labelI18n": {
+            "en": "Luoyang",
+            "zh": "洛阳"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-anshi-war-and-recovery-755",
+      "tang-dynasty"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual synthesis of the inspected passages identified in each source note.",
+      "reviewLimit": {
+        "en": "Retrospective accounts are read for documented actions, not as proof of reported dialogue, motives or exact army totals.",
+        "zh": "事后记述用于核对有据行动，不将所载对话、动机或军队精确人数直接视为定论。"
+      }
+    }
+  },
+  {
+    "id": "china-person-huangchao",
+    "sourceProfileId": "china-person-huangchao",
+    "name": {
+      "en": "Huang Chao",
+      "zh": "黄巢"
+    },
+    "title": {
+      "en": "Huang Chao · taking a capital, feeding an army",
+      "zh": "黄巢 · 攻取都城与供应军粮"
+    },
+    "start": 875,
+    "end": 884,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "states",
+    "importance": 3,
+    "location": {
+      "lat": 34.26,
+      "lon": 108.94,
+      "label": "Chang’an, contested capital",
+      "labelI18n": {
+        "en": "Chang’an, contested capital",
+        "zh": "长安，争夺中的都城"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Huang Chao joined an uprising that spread during drought and political disorder in the late Tang. After Wang Xianzhi died in 878, he became the rebels’ leading commander. His forces reached Guangzhou before turning north and occupying Chang’an, where he proclaimed a new dynasty. Possessing a capital did not provide a secure state: disrupted cultivation and contested supply lines made provisions a central problem. The Old Tang History also records killings of officials and residents, challenging any account of an uncomplicated popular liberation. Expelled from Chang’an in 883, Huang died the following year. His campaign connects rural distress, mobile armies and the difficulties of governing a city acquired through war.",
+      "zh": "唐末旱灾与政治失序中，黄巢加入了扩展中的反叛。878年王仙芝死后，他成为起义军主要统帅。其军南至广州，又转向北方，进入长安并建立新政权。然而，占有都城并不等于掌握稳固国家：耕作中断、运输争夺使粮食供应成为要害。《旧唐书》还记载了杀害官员与居民的行为，不能将这段历史写成没有矛盾的民众解放。883年黄巢退出长安，次年死亡。他的战争把农村困境、流动作战与战后治理城市的难题联系起来。"
+    },
+    "dateNote": {
+      "en": "875–884 is the selected period of documented activity, not a lifespan. Dates are given at civil-year precision; map points are representative.",
+      "zh": "875—884年为所选有据活动时期，并非生卒年。日期精度为公元年；地图点为代表位置。"
+    },
+    "sources": [
+      {
+        "title": "舊唐書 卷200下: 黃巢",
+        "publisher": "Liu Xu and the Later Jin historiographical commission; public-domain primary text, Wikisource transcription",
+        "url": "https://zh.wikisource.org/wiki/舊唐書/卷200下",
+        "evidenceNote": "Rebel government, supply collapse, violence against inhabitants and Zhonghe 3 withdrawal from Chang’an.",
+        "evidenceNoteZh": "叛军政权、粮食困难、对居民施暴及中和三年退出长安。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page-primary-text"
+      },
+      {
+        "title": "Huang Ch’ao",
+        "publisher": "Encyclopedia of World Biography / Encyclopedia.com",
+        "url": "https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/huang-chao",
+        "evidenceNote": "Dates the uprising to 875, Wang Xianzhi’s death to 878, Guangzhou occupation to 879, and Huang’s death to 884.",
+        "evidenceNoteZh": "起事875年、王仙芝死于878年、879年进入广州及884年死亡的日期。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 875,
+        "title": {
+          "en": "Joins the uprising",
+          "zh": "参加起事"
+        },
+        "description": {
+          "en": "He fought within the movement led by Wang Xianzhi.",
+          "zh": "在王仙芝领导的反叛中作战。"
+        },
+        "location": {
+          "lat": 35.24,
+          "lon": 115.47,
+          "label": "Western Shandong, uprising region",
+          "labelI18n": {
+            "en": "Western Shandong, uprising region",
+            "zh": "鲁西，起事地区"
+          }
+        }
+      },
+      {
+        "year": 879,
+        "title": {
+          "en": "Guangzhou occupied",
+          "zh": "攻占广州"
+        },
+        "description": {
+          "en": "The rebel campaign reached the southern trading city.",
+          "zh": "战争抵达南方贸易城市。"
+        },
+        "location": {
+          "lat": 23.13,
+          "lon": 113.26,
+          "label": "Guangzhou",
+          "labelI18n": {
+            "en": "Guangzhou",
+            "zh": "广州"
+          }
+        }
+      },
+      {
+        "year": 883,
+        "title": {
+          "en": "Leaves Chang’an",
+          "zh": "退出长安"
+        },
+        "description": {
+          "en": "Coalition forces recovered the capital.",
+          "zh": "联合讨伐军收复都城。"
+        },
+        "location": {
+          "lat": 34.26,
+          "lon": 108.94,
+          "label": "Chang’an",
+          "labelI18n": {
+            "en": "Chang’an",
+            "zh": "长安"
+          }
+        }
+      },
+      {
+        "year": 884,
+        "title": {
+          "en": "Death after retreat",
+          "zh": "退败后死亡"
+        },
+        "description": {
+          "en": "His death ended his own command, not the wider disorder.",
+          "zh": "其死亡结束了个人统军，并未结束更广泛的动荡。"
+        },
+        "location": {
+          "lat": 36.2,
+          "lon": 117.1,
+          "label": "Shandong, final campaign region",
+          "labelI18n": {
+            "en": "Shandong, final campaign region",
+            "zh": "山东，最后作战地区"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-person-anlushan",
+      "china-person-licunxu"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual synthesis of the inspected passages identified in each source note.",
+      "reviewLimit": {
+        "en": "Retrospective accounts are read for documented actions, not as proof of reported dialogue, motives or exact army totals.",
+        "zh": "事后记述用于核对有据行动，不将所载对话、动机或军队精确人数直接视为定论。"
+      }
+    }
+  },
+  {
+    "id": "china-person-licunxu",
+    "sourceProfileId": "china-person-licunxu",
+    "name": {
+      "en": "Li Cunxu",
+      "zh": "李存勖"
+    },
+    "title": {
+      "en": "Li Cunxu · a dynasty built through personal loyalties",
+      "zh": "李存勖 · 私人效忠关系与建国"
+    },
+    "start": 908,
+    "end": 926,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "states",
+    "importance": 3,
+    "location": {
+      "lat": 34.62,
+      "lon": 112.45,
+      "label": "Luoyang",
+      "labelI18n": {
+        "en": "Luoyang",
+        "zh": "洛阳"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Li Cunxu inherited his father Li Keyong’s position as Prince of Jin in 908 and proclaimed the Later Tang in 923. His regime drew on the Tang name while adapting institutions to the world of competing northern armies. Military households mattered as much as formal offices. Adopted sons and experienced commanders brought networks of loyalty that could strengthen a ruler and also resist him. Historian Richard L. Davis traces such tensions between Cunxu and his adoptive brother Li Siyuan. Conquest did not settle their political relationship. Cunxu died in a soldiers’ mutiny in 926, after only a short imperial reign, making his career a study in the difficult passage from coalition warfare to government.",
+      "zh": "908年，李存勖继承父亲李克用的晋王地位，923年建立后唐。他借用唐的名号，又在北方诸军竞争的环境中调整制度。军事家族与正式官职同样重要：义子、宿将各自拥有忠诚网络，既能支持君主，也可能抵制君主。历史学家戴仁柱研究了李存勖与义兄李嗣源之间的紧张关系。征服敌国并未解决这种政治矛盾。926年李存勖死于兵变，短暂的帝王生涯说明，战争联盟转化为治理体系，需要处理难以由胜仗消除的权力关系。"
+    },
+    "dateNote": {
+      "en": "908–926 is the selected period of documented activity, not a lifespan. Dates are given at civil-year precision; map points are representative.",
+      "zh": "908—926年为所选有据活动时期，并非生卒年。日期精度为公元年；地图点为代表位置。"
+    },
+    "sources": [
+      {
+        "title": "新五代史 卷05",
+        "publisher": "Ouyang Xiu; public-domain primary text, Wikisource transcription",
+        "url": "https://zh.wikisource.org/wiki/新五代史/卷05",
+        "evidenceNote": "Tianyou 5 succession at Taiyuan anchors 908 and identifies Li Keyong as his father.",
+        "evidenceNoteZh": "天祐五年在太原继位，对应908年，并载其父为李克用。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page-primary-text"
+      },
+      {
+        "title": "From Warhorses to Ploughshares: The Later Tang Reign of Emperor Mingzong, preview",
+        "publisher": "Richard L. Davis / Hong Kong University Press, 2014",
+        "url": "https://hkupress.hku.hk/image/catalog/pdf-preview/9789888208104.pdf",
+        "evidenceNote": "Preface and pages 24–25: 923 founding, 926 mutiny, military adoption and rivalry with Li Siyuan.",
+        "evidenceNoteZh": "前言及第24—25页：923年建国、926年兵变、军人收养关系及与李嗣源的竞争。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-publisher-pdf-preview"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 908,
+        "title": {
+          "en": "Prince of Jin",
+          "zh": "继为晋王"
+        },
+        "description": {
+          "en": "He succeeded at Taiyuan after Li Keyong’s death.",
+          "zh": "李克用死后，在太原继位。"
+        },
+        "location": {
+          "lat": 37.87,
+          "lon": 112.55,
+          "label": "Taiyuan",
+          "labelI18n": {
+            "en": "Taiyuan",
+            "zh": "太原"
+          }
+        }
+      },
+      {
+        "year": 923,
+        "title": {
+          "en": "Later Tang founded",
+          "zh": "建立后唐"
+        },
+        "description": {
+          "en": "He assumed the imperial title under the Tang dynastic name.",
+          "zh": "以唐为国号称帝。"
+        },
+        "location": {
+          "lat": 36.29,
+          "lon": 115.15,
+          "label": "Weizhou, accession setting",
+          "labelI18n": {
+            "en": "Weizhou, accession setting",
+            "zh": "魏州，即位场景"
+          }
+        }
+      },
+      {
+        "year": 926,
+        "title": {
+          "en": "Soldiers’ mutiny",
+          "zh": "死于兵变"
+        },
+        "description": {
+          "en": "The imperial reign ended amid military rebellion.",
+          "zh": "其帝王统治在军队叛乱中结束。"
+        },
+        "location": {
+          "lat": 34.62,
+          "lon": 112.45,
+          "label": "Luoyang",
+          "labelI18n": {
+            "en": "Luoyang",
+            "zh": "洛阳"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-person-huangchao",
+      "china-person-chairong"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual synthesis of the inspected passages identified in each source note.",
+      "reviewLimit": {
+        "en": "Retrospective accounts are read for documented actions, not as proof of reported dialogue, motives or exact army totals.",
+        "zh": "事后记述用于核对有据行动，不将所载对话、动机或军队精确人数直接视为定论。"
+      }
+    }
+  },
+  {
+    "id": "china-person-chairong",
+    "sourceProfileId": "china-person-chairong",
+    "name": {
+      "en": "Chai Rong",
+      "zh": "柴荣"
+    },
+    "title": {
+      "en": "Chai Rong · campaigns and the resources of rule",
+      "zh": "柴荣 · 征战与统治资源"
+    },
+    "start": 954,
+    "end": 959,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "states",
+    "importance": 3,
+    "location": {
+      "lat": 34.8,
+      "lon": 114.31,
+      "label": "Kaifeng",
+      "labelI18n": {
+        "en": "Kaifeng",
+        "zh": "开封"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Chai Rong, adopted into Guo Wei’s household, became ruler of the Later Zhou in 954. His short reign joined military expansion with decisions about the resources available to government. The annals record temple closures and restrictions on copper in 955, then campaigns against Southern Tang. By 958 the southern campaign had established the Yangtze as the boundary between the two states. These changes affected religious institutions, local revenues and populations caught between armies. A northern campaign followed in 959, but Chai Rong died that year and a child succeeded him. His reign deserves attention as a political project in its own right, rather than merely a preface to the later Song.",
+      "zh": "柴荣幼年进入郭威家中并被收为养子，954年成为后周君主。他短暂的统治将军事扩张与国家资源安排联系在一起。本纪记载955年的裁并寺院、铜禁，以及随后对南唐的征战。至958年，南方战事使双方以长江为界。这些变化影响了宗教机构、地方收入与处于军队之间的民众。959年柴荣又率军北上，却在当年去世，由幼子继位。他的统治具有自身的政治目标，不应仅被写成后来宋朝建立的前奏。"
+    },
+    "dateNote": {
+      "en": "954–959 is the selected period of documented activity, not a lifespan. Dates are given at civil-year precision; map points are representative.",
+      "zh": "954—959年为所选有据活动时期，并非生卒年。日期精度为公元年；地图点为代表位置。"
+    },
+    "sources": [
+      {
+        "title": "新五代史 卷12",
+        "publisher": "Ouyang Xiu; public-domain primary text, Wikisource transcription",
+        "url": "https://zh.wikisource.org/wiki/新五代史/卷12",
+        "evidenceNote": "Xiande 1 accession, 2 temple and copper measures, 5 Yangtze boundary, 6 northern campaign and death.",
+        "evidenceNoteZh": "显德元年继位、二年寺院与铜禁措施、五年以江为界、六年北征及死亡。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page-primary-text"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 954,
+        "title": {
+          "en": "Succeeds Guo Wei",
+          "zh": "继承郭威之位"
+        },
+        "description": {
+          "en": "He became emperor after the Later Zhou founder died.",
+          "zh": "后周建立者去世后继位。"
+        },
+        "location": {
+          "lat": 34.8,
+          "lon": 114.31,
+          "label": "Kaifeng",
+          "labelI18n": {
+            "en": "Kaifeng",
+            "zh": "开封"
+          }
+        }
+      },
+      {
+        "year": 955,
+        "title": {
+          "en": "Temple and copper measures",
+          "zh": "寺院与铜禁措施"
+        },
+        "description": {
+          "en": "The annals record restrictions affecting religious and material resources.",
+          "zh": "本纪记录影响宗教与物资资源的限制措施。"
+        },
+        "location": {
+          "lat": 34.8,
+          "lon": 114.31,
+          "label": "Kaifeng",
+          "labelI18n": {
+            "en": "Kaifeng",
+            "zh": "开封"
+          }
+        }
+      },
+      {
+        "year": 958,
+        "title": {
+          "en": "Boundary at the Yangtze",
+          "zh": "以长江为界"
+        },
+        "description": {
+          "en": "Southern Tang ceded its territories north of the river.",
+          "zh": "南唐割让江北诸地。"
+        },
+        "location": {
+          "lat": 32.2,
+          "lon": 119.46,
+          "label": "Yangtze near Guazhou",
+          "labelI18n": {
+            "en": "Yangtze near Guazhou",
+            "zh": "瓜洲附近长江"
+          }
+        }
+      },
+      {
+        "year": 959,
+        "title": {
+          "en": "Death after northern campaigning",
+          "zh": "北征后去世"
+        },
+        "description": {
+          "en": "His young son inherited the throne.",
+          "zh": "幼子继承皇位。"
+        },
+        "location": {
+          "lat": 34.8,
+          "lon": 114.31,
+          "label": "Kaifeng",
+          "labelI18n": {
+            "en": "Kaifeng",
+            "zh": "开封"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-person-licunxu",
+      "china-person-liyu-nt"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual synthesis of the inspected passages identified in each source note.",
+      "reviewLimit": {
+        "en": "Retrospective accounts are read for documented actions, not as proof of reported dialogue, motives or exact army totals.",
+        "zh": "事后记述用于核对有据行动，不将所载对话、动机或军队精确人数直接视为定论。"
+      }
+    }
+  },
+  {
+    "id": "china-person-liyu-nt",
+    "sourceProfileId": "china-person-liyu-nt",
+    "name": {
+      "en": "Li Yu",
+      "zh": "李煜"
+    },
+    "title": {
+      "en": "Li Yu · a lost court and a lyric voice",
+      "zh": "李煜 · 失去的宫廷与词中声音"
+    },
+    "start": 961,
+    "end": 978,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "culture",
+    "importance": 3,
+    "location": {
+      "lat": 32.06,
+      "lon": 118.8,
+      "label": "Nanjing",
+      "labelI18n": {
+        "en": "Nanjing",
+        "zh": "南京"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Li Yu inherited Southern Tang in 961, ruling from Jinling within an increasingly constrained relationship with the Song. His court cultivated literature, calligraphy and painting, yet cultural activity did not secure political independence. Song armies took the capital in 975, and Li Yu was brought to Kaifeng. He died in 978. His lasting reputation rests on ci, lyrics composed to established musical patterns. Their images of separation, remembered pleasure and irreversible loss helped make political displacement emotionally legible. Reading these works alongside the annals brings together two kinds of evidence: a victor’s history of a defeated ruler and poetry whose speaking voice cannot always be treated as a literal diary.",
+      "zh": "961年，李煜在金陵继承南唐，在与宋朝日益受限的关系中执政。宫廷培养文学、书法与绘画，但文化活动无法保障政治独立。975年宋军攻取都城，李煜被带往开封，978年去世。他流传至今的声名主要来自按既有曲调填写的词。离别、旧日欢愉与无可挽回的失落，使政治上的流离获得可感的情绪。将词与本纪并读，便能看到两类证据：胜利者对亡国之君的历史叙述，以及不能一概当作逐日自传的诗歌声音。"
+    },
+    "dateNote": {
+      "en": "961–978 is the selected period of documented activity, not a lifespan. Dates are given at civil-year precision; map points are representative.",
+      "zh": "961—978年为所选有据活动时期，并非生卒年。日期精度为公元年；地图点为代表位置。"
+    },
+    "sources": [
+      {
+        "title": "新五代史 卷62: 南唐世家",
+        "publisher": "Ouyang Xiu; public-domain primary text, Wikisource transcription",
+        "url": "https://zh.wikisource.org/wiki/新五代史/卷62",
+        "evidenceNote": "Jianlong 2 accession and Kaibao 8 conquest; records literary and artistic activity and surrender to the Song.",
+        "evidenceNoteZh": "建隆二年继位、开宝八年亡国；记载文学艺术活动及向宋投降。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page-primary-text"
+      },
+      {
+        "title": "Emperor and Ci Writer Li Yu",
+        "publisher": "ChinaCulture.org",
+        "url": "https://en.chinaculture.org/library/2008-01/09/content_41644.htm",
+        "evidenceNote": "961, 975 and 978 dates; ci form and themes of separation and loss. The poisoning account and moral labels are not adopted.",
+        "evidenceNoteZh": "961、975、978年及词体、离别与失落主题；未采用毒杀说和道德标签。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 961,
+        "title": {
+          "en": "Rules at Jinling",
+          "zh": "在金陵继位"
+        },
+        "description": {
+          "en": "He succeeded Li Jing as Southern Tang ruler.",
+          "zh": "继李璟统治南唐。"
+        },
+        "location": {
+          "lat": 32.06,
+          "lon": 118.8,
+          "label": "Nanjing",
+          "labelI18n": {
+            "en": "Nanjing",
+            "zh": "南京"
+          }
+        }
+      },
+      {
+        "year": 975,
+        "title": {
+          "en": "Southern Tang conquered",
+          "zh": "南唐被征服"
+        },
+        "description": {
+          "en": "Song troops captured the capital.",
+          "zh": "宋军攻取都城。"
+        },
+        "location": {
+          "lat": 32.06,
+          "lon": 118.8,
+          "label": "Nanjing",
+          "labelI18n": {
+            "en": "Nanjing",
+            "zh": "南京"
+          }
+        }
+      },
+      {
+        "year": 978,
+        "title": {
+          "en": "Death in Kaifeng",
+          "zh": "在开封去世"
+        },
+        "description": {
+          "en": "His final years followed removal to the Song capital.",
+          "zh": "被迁往宋都后，在那里度过最后岁月。"
+        },
+        "location": {
+          "lat": 34.8,
+          "lon": 114.31,
+          "label": "Kaifeng",
+          "labelI18n": {
+            "en": "Kaifeng",
+            "zh": "开封"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-person-chairong",
+      "china-person-li-qingzhao"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual synthesis of the inspected passages identified in each source note.",
+      "reviewLimit": {
+        "en": "Retrospective accounts are read for documented actions, not as proof of reported dialogue, motives or exact army totals.",
+        "zh": "事后记述用于核对有据行动，不将所载对话、动机或军队精确人数直接视为定论。"
+      }
+    }
+  },
+  {
+    "id": "china-person-hanshizhong",
+    "sourceProfileId": "china-person-hanshizhong",
+    "name": {
+      "en": "Han Shizhong",
+      "zh": "韩世忠"
+    },
+    "title": {
+      "en": "Han Shizhong · river defence and the limits of command",
+      "zh": "韩世忠 · 江防与将权的边界"
+    },
+    "start": 1129,
+    "end": 1151,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "states",
+    "importance": 3,
+    "location": {
+      "lat": 32.2,
+      "lon": 119.43,
+      "label": "Zhenjiang, river-defence setting",
+      "labelI18n": {
+        "en": "Zhenjiang, river-defence setting",
+        "zh": "镇江，江防场景"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Han Shizhong helped restore Emperor Gaozong during the military coup of 1129, then defended the lower Yangtze against Jin forces. The Song History remembers both the pressure his ships placed on the enemy and the eventual Jin escape: the celebrated river campaign was not an uncomplicated annihilating victory. It also gives his wife, Lady Liang, an active role in signalling the fighting. Han opposed the court’s moves toward peace with the Jin. In 1141 his field command was removed, followed by retirement from central military office. He died in 1151. His biography places battlefield initiative beside the political limits imposed on commanders by the government they served.",
+      "zh": "1129年兵变中，韩世忠参与恢复宋高宗的皇位，随后在长江下游抵御金军。《宋史》既记述其舰船对敌军的压力，也记述金军最终脱身，因此这场著名江上战事并非毫无转折的歼灭性胜利。传记还写到梁夫人亲自击鼓参与指挥。韩世忠反对朝廷与金议和；1141年，他的野战军权被收回，随后退出中央军政职位，1151年去世。他的经历把战场上的主动权，与朝廷对将领权力的限制并置起来。"
+    },
+    "dateNote": {
+      "en": "1129–1151 is the selected period of documented activity, not a lifespan. Dates are given at civil-year precision; map points are representative.",
+      "zh": "1129—1151年为所选有据活动时期，并非生卒年。日期精度为公元年；地图点为代表位置。"
+    },
+    "sources": [
+      {
+        "title": "宋史 卷364: 韓世忠",
+        "publisher": "Toqto’a and the Yuan historiographical commission; public-domain primary text, Wikisource transcription",
+        "url": "https://zh.wikisource.org/wiki/宋史/卷364",
+        "evidenceNote": "Jianyan 3 counter-coup; river battle and Lady Liang; Shaoxing 11 loss of command and 21 death.",
+        "evidenceNoteZh": "建炎三年平定兵变；江战与梁夫人；绍兴十一年解除军权、二十一年去世。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page-primary-text"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 1129,
+        "title": {
+          "en": "Opposes the palace coup",
+          "zh": "参与平定兵变"
+        },
+        "description": {
+          "en": "His forces joined the campaign to restore Gaozong.",
+          "zh": "率军参加恢复高宗皇位的行动。"
+        },
+        "location": {
+          "lat": 30.25,
+          "lon": 120.15,
+          "label": "Hangzhou",
+          "labelI18n": {
+            "en": "Hangzhou",
+            "zh": "杭州"
+          }
+        }
+      },
+      {
+        "year": 1141,
+        "title": {
+          "en": "Military command removed",
+          "zh": "军权被收回"
+        },
+        "description": {
+          "en": "The court absorbed his army’s stores and he retired from office.",
+          "zh": "朝廷接收其军储，随后离开军政职位。"
+        },
+        "location": {
+          "lat": 30.25,
+          "lon": 120.15,
+          "label": "Hangzhou",
+          "labelI18n": {
+            "en": "Hangzhou",
+            "zh": "杭州"
+          }
+        }
+      },
+      {
+        "year": 1151,
+        "title": {
+          "en": "Death in retirement",
+          "zh": "退居后去世"
+        },
+        "description": {
+          "en": "He died after a decade away from field command.",
+          "zh": "离开野战指挥岗位约十年后去世。"
+        },
+        "location": {
+          "lat": 30.25,
+          "lon": 120.15,
+          "label": "Hangzhou",
+          "labelI18n": {
+            "en": "Hangzhou",
+            "zh": "杭州"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-person-yuefei",
+      "southern-song"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual synthesis of the inspected passages identified in each source note.",
+      "reviewLimit": {
+        "en": "Retrospective accounts are read for documented actions, not as proof of reported dialogue, motives or exact army totals.",
+        "zh": "事后记述用于核对有据行动，不将所载对话、动机或军队精确人数直接视为定论。"
+      }
+    }
+  },
+  {
+    "id": "china-person-xuda",
+    "sourceProfileId": "china-person-xuda",
+    "name": {
+      "en": "Xu Da",
+      "zh": "徐达"
+    },
+    "title": {
+      "en": "Xu Da · conquest and a continuing frontier",
+      "zh": "徐达 · 征服与持续的边疆战争"
+    },
+    "start": 1368,
+    "end": 1372,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "states",
+    "importance": 3,
+    "location": {
+      "lat": 39.91,
+      "lon": 116.39,
+      "label": "Dadu, captured Yuan capital",
+      "labelI18n": {
+        "en": "Dadu, captured Yuan capital",
+        "zh": "大都，被攻取的元都"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Xu Da was one of Zhu Yuanzhang’s principal commanders in the wars that established Ming rule. In 1368 his army entered the Yuan capital, Dadu, after the emperor had withdrawn north. The Ming History emphasizes the securing of government stores and palace buildings, presenting disciplined occupation as part of his reputation. Yet the capture of a capital did not end the military contest. Xu fought Köke Temür near Dingxi in 1370 and suffered a serious defeat during another northern expedition in 1372. Seen together, these episodes show the difference between a dynastic turning point and the continued work of campaigning, garrisoning and defending a frontier against opponents who remained in the field.",
+      "zh": "徐达是朱元璋建立明朝战争中的主要统帅之一。1368年，元帝北撤后，他率军进入元都大都。《明史》强调封存府库、保护宫殿等措施，把占领中的纪律写入他的形象。然而，夺取都城并未结束军事较量。1370年徐达在定西附近与扩廓帖木儿交战，1372年再次北征时又遭受严重失败。合看这些经历，可以区分王朝更替的转折点，与此后仍须进行的征战、驻防及应对继续抵抗者的边防工作。"
+    },
+    "dateNote": {
+      "en": "1368–1372 is the selected period of documented activity, not a lifespan. Dates are given at civil-year precision; map points are representative.",
+      "zh": "1368—1372年为所选有据活动时期，并非生卒年。日期精度为公元年；地图点为代表位置。"
+    },
+    "sources": [
+      {
+        "title": "明史 卷125: 徐達",
+        "publisher": "Zhang Tingyu and the Qing historiographical commission; public-domain primary text, Wikisource transcription",
+        "url": "https://zh.wikisource.org/wiki/明史/卷125",
+        "evidenceNote": "Hongwu 1 capture of Dadu, 3 Dingxi campaign and 5 defeat; occupation instructions and continuing northern warfare.",
+        "evidenceNoteZh": "洪武元年攻取大都、三年定西战事、五年失败；占领措施及持续北方战争。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page-primary-text"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 1368,
+        "title": {
+          "en": "Enters Dadu",
+          "zh": "进入大都"
+        },
+        "description": {
+          "en": "Yuan’s court had withdrawn north before his occupation.",
+          "zh": "元廷在其占领之前已向北撤离。"
+        },
+        "location": {
+          "lat": 39.91,
+          "lon": 116.39,
+          "label": "Dadu",
+          "labelI18n": {
+            "en": "Dadu",
+            "zh": "大都"
+          }
+        }
+      },
+      {
+        "year": 1370,
+        "title": {
+          "en": "Dingxi campaign",
+          "zh": "定西之战"
+        },
+        "description": {
+          "en": "His army defeated Köke Temür’s forces.",
+          "zh": "其军击败扩廓帖木儿部。"
+        },
+        "location": {
+          "lat": 35.58,
+          "lon": 104.63,
+          "label": "Dingxi region",
+          "labelI18n": {
+            "en": "Dingxi region",
+            "zh": "定西地区"
+          }
+        }
+      },
+      {
+        "year": 1372,
+        "title": {
+          "en": "Northern expedition defeated",
+          "zh": "北征受挫"
+        },
+        "description": {
+          "en": "The campaign exposed the limits of Ming military control.",
+          "zh": "此次战事显出明军控制能力的边界。"
+        },
+        "location": {
+          "lat": 45.0,
+          "lon": 106.0,
+          "label": "Mongolian plateau, representative campaign setting",
+          "labelI18n": {
+            "en": "Mongolian plateau, representative campaign setting",
+            "zh": "蒙古高原，代表性作战场景"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-person-zhuyuanzhang",
+      "ming-dynasty"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual synthesis of the inspected passages identified in each source note.",
+      "reviewLimit": {
+        "en": "Retrospective accounts are read for documented actions, not as proof of reported dialogue, motives or exact army totals.",
+        "zh": "事后记述用于核对有据行动，不将所载对话、动机或军队精确人数直接视为定论。"
+      }
+    }
+  },
+  {
+    "id": "china-person-nurhaci",
+    "sourceProfileId": "china-person-nurhaci",
+    "name": {
+      "en": "Nurhaci",
+      "zh": "努尔哈赤"
+    },
+    "title": {
+      "en": "Nurhaci · households, banners and a new state",
+      "zh": "努尔哈赤 · 户口、八旗与新政权"
+    },
+    "start": 1603,
+    "end": 1625,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "states",
+    "importance": 3,
+    "location": {
+      "lat": 41.72,
+      "lon": 125.03,
+      "label": "Hetu Ala",
+      "labelI18n": {
+        "en": "Hetu Ala",
+        "zh": "赫图阿拉"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Nurhaci’s rise rested on organizing people and supplies as well as winning battles. He established his capital at Hetu Ala in 1603, with workshops and stores supporting an expanding Jurchen polity. The banner system joined military service to households and production; its enlargement to eight banners in 1615 made it a framework for society as well as an army. In 1616 he proclaimed himself khan of the Later Jin. Conquests then shifted the state toward the towns and agricultural resources of Liaodong, and in 1625 he moved the capital to Shenyang. These successive centres reveal institutions changing with expansion, before his successor adopted the Qing dynastic name.",
+      "zh": "努尔哈赤的崛起不仅靠战胜对手，也靠组织人口与供应。1603年，他在赫图阿拉建立都城，以作坊与仓储支持扩张中的女真政权。八旗体系把军事服役与户口、生产相连；1615年扩为八旗后，它既是军队编制，也是社会组织框架。1616年努尔哈赤称汗，建立后金。此后的征服使政权转向辽东城镇及其农业资源，1625年迁都沈阳。这些先后形成的中心，呈现了后来改称清朝之前，制度随扩张而变化的过程。"
+    },
+    "dateNote": {
+      "en": "1603–1625 is the selected period of documented activity, not a lifespan. Dates are given at civil-year precision; map points are representative.",
+      "zh": "1603—1625年为所选有据活动时期，并非生卒年。日期精度为公元年；地图点为代表位置。"
+    },
+    "sources": [
+      {
+        "title": "Eminent Chinese of the Ch’ing Period: Nurhaci",
+        "publisher": "Arthur W. Hummel, editor; US Government Printing Office, 1943–1944; Wikisource transcription",
+        "url": "https://en.wikisource.org/wiki/Eminent_Chinese_of_the_Ch'ing_Period/Nurhaci",
+        "evidenceNote": "1603 Hetu Ala, 1615 eight banners, 1616 khan and 1625 Shenyang; household, supply and workshop organization.",
+        "evidenceNoteZh": "1603年赫图阿拉、1615年八旗、1616年称汗、1625年迁都沈阳；户口、补给与作坊组织。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page-public-domain-reference"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 1603,
+        "title": {
+          "en": "Capital at Hetu Ala",
+          "zh": "定都赫图阿拉"
+        },
+        "description": {
+          "en": "Workshops and stores supported the political centre.",
+          "zh": "作坊与仓储支持政治中心。"
+        },
+        "location": {
+          "lat": 41.72,
+          "lon": 125.03,
+          "label": "Hetu Ala",
+          "labelI18n": {
+            "en": "Hetu Ala",
+            "zh": "赫图阿拉"
+          }
+        }
+      },
+      {
+        "year": 1615,
+        "title": {
+          "en": "Eight banners",
+          "zh": "扩编八旗"
+        },
+        "description": {
+          "en": "Military organization incorporated households and supplies.",
+          "zh": "军事组织同时纳入户口与供应。"
+        },
+        "location": {
+          "lat": 41.72,
+          "lon": 125.03,
+          "label": "Hetu Ala",
+          "labelI18n": {
+            "en": "Hetu Ala",
+            "zh": "赫图阿拉"
+          }
+        }
+      },
+      {
+        "year": 1616,
+        "title": {
+          "en": "Later Jin proclaimed",
+          "zh": "建立后金"
+        },
+        "description": {
+          "en": "He assumed the title of khan.",
+          "zh": "以汗号建立政权。"
+        },
+        "location": {
+          "lat": 41.72,
+          "lon": 125.03,
+          "label": "Hetu Ala",
+          "labelI18n": {
+            "en": "Hetu Ala",
+            "zh": "赫图阿拉"
+          }
+        }
+      },
+      {
+        "year": 1625,
+        "title": {
+          "en": "Capital moves to Shenyang",
+          "zh": "迁都沈阳"
+        },
+        "description": {
+          "en": "The new centre lay within conquered Liaodong.",
+          "zh": "新中心位于征服后的辽东地区。"
+        },
+        "location": {
+          "lat": 41.8,
+          "lon": 123.43,
+          "label": "Shenyang",
+          "labelI18n": {
+            "en": "Shenyang",
+            "zh": "沈阳"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-person-huangtaiji",
+      "qing-dynasty"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual synthesis of the inspected passages identified in each source note.",
+      "reviewLimit": {
+        "en": "Retrospective accounts are read for documented actions, not as proof of reported dialogue, motives or exact army totals.",
+        "zh": "事后记述用于核对有据行动，不将所载对话、动机或军队精确人数直接视为定论。"
+      }
+    }
+  },
+  {
+    "id": "china-person-huangtaiji",
+    "sourceProfileId": "china-person-huangtaiji",
+    "name": {
+      "en": "Hong Taiji",
+      "zh": "皇太极"
+    },
+    "title": {
+      "en": "Hong Taiji · remaking the institutions of conquest",
+      "zh": "皇太极 · 重塑征服政权的制度"
+    },
+    "start": 1626,
+    "end": 1636,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "states",
+    "importance": 3,
+    "location": {
+      "lat": 41.8,
+      "lon": 123.43,
+      "label": "Shenyang",
+      "labelI18n": {
+        "en": "Shenyang",
+        "zh": "沈阳"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Hong Taiji succeeded Nurhaci in 1626 within a ruling family whose senior princes held their own banners. He gradually concentrated authority that had previously been shared, while incorporating Chinese officers and Mongol allies into an expanding state. The political community also received new names. In 1635 he ordered the use of Manchu in place of earlier designations; in 1636 he proclaimed the Qing dynasty and assumed an imperial title. These were acts of government and claims to legitimacy, not evidence that a timeless national identity had simply revealed itself. His career connects military coalition building with the deliberate reshaping of institutions, titles and collective belonging.",
+      "zh": "1626年皇太极继承努尔哈赤之位，当时宗室中的资深诸王各自拥有旗分。他逐步集中此前分掌的权力，同时把汉人将领与蒙古盟友纳入扩张的国家。政治共同体也获得了新名称：1635年他命令以“满洲”取代旧称，1636年改国号为清并称帝。这些都是治理行动与合法性主张，不能理解为一种自古不变的民族身份自然显露。皇太极的经历把军事联盟的建构，与制度、称号及共同归属的主动重塑联系起来。"
+    },
+    "dateNote": {
+      "en": "1626–1636 is the selected period of documented activity, not a lifespan. Dates are given at civil-year precision; map points are representative.",
+      "zh": "1626—1636年为所选有据活动时期，并非生卒年。日期精度为公元年；地图点为代表位置。"
+    },
+    "sources": [
+      {
+        "title": "Eminent Chinese of the Ch’ing Period: Abahai",
+        "publisher": "Arthur W. Hummel, editor; US Government Printing Office, 1943–1944; Wikisource transcription",
+        "url": "https://en.wikisource.org/wiki/Eminent_Chinese_of_the_Ch'ing_Period/Abahai",
+        "evidenceNote": "1626 succession, reduced joint rule, incorporation of Chinese officers and Mongol banners, 1635 name decree and 1636 Qing title.",
+        "evidenceNoteZh": "1626年继位、削弱共治、吸纳汉人将领与蒙古旗众、1635年更名及1636年清号。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page-public-domain-reference"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 1626,
+        "title": {
+          "en": "Succeeds as khan",
+          "zh": "继任汗位"
+        },
+        "description": {
+          "en": "Senior princes accepted his succession to Later Jin.",
+          "zh": "诸王接受其继承后金汗位。"
+        },
+        "location": {
+          "lat": 41.8,
+          "lon": 123.43,
+          "label": "Shenyang",
+          "labelI18n": {
+            "en": "Shenyang",
+            "zh": "沈阳"
+          }
+        }
+      },
+      {
+        "year": 1635,
+        "title": {
+          "en": "Manchu name decreed",
+          "zh": "颁定满洲名称"
+        },
+        "description": {
+          "en": "The ruler ordered a change in the polity’s collective designation.",
+          "zh": "统治者下令改变共同体的称谓。"
+        },
+        "location": {
+          "lat": 41.8,
+          "lon": 123.43,
+          "label": "Shenyang",
+          "labelI18n": {
+            "en": "Shenyang",
+            "zh": "沈阳"
+          }
+        }
+      },
+      {
+        "year": 1636,
+        "title": {
+          "en": "Qing imperial title",
+          "zh": "建立清帝国名号"
+        },
+        "description": {
+          "en": "The dynastic name and ruler’s title were changed.",
+          "zh": "更改国号并采用皇帝称号。"
+        },
+        "location": {
+          "lat": 41.8,
+          "lon": 123.43,
+          "label": "Shenyang",
+          "labelI18n": {
+            "en": "Shenyang",
+            "zh": "沈阳"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-person-nurhaci",
+      "qing-dynasty"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual synthesis of the inspected passages identified in each source note.",
+      "reviewLimit": {
+        "en": "The historical reference uses the older heading “Abahai.” Its speculative motives and erroneous dating of the Korean invasion are not used.",
+        "zh": "旧参考书以“Abahai”为条目名；未采用其中推测性动机及错误的侵朝纪年。"
+      }
+    }
+  },
+  {
+    "id": "china-person-lizicheng",
+    "sourceProfileId": "china-person-lizicheng",
+    "name": {
+      "en": "Li Zicheng",
+      "zh": "李自成"
+    },
+    "title": {
+      "en": "Li Zicheng · rebellion, relief and a brief capital",
+      "zh": "李自成 · 反叛、赈济与短暂占都"
+    },
+    "start": 1631,
+    "end": 1644,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "states",
+    "importance": 3,
+    "location": {
+      "lat": 34.26,
+      "lon": 108.94,
+      "label": "Xi’an, Shun political centre",
+      "labelI18n": {
+        "en": "Xi’an, Shun political centre",
+        "zh": "西安，大顺政治中心"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Li Zicheng joined Gao Yingxiang’s forces in 1631 and became a leading rebel commander after Gao’s execution in 1636. Famine and the promise of relief helped enlarge his following in Henan; military victory also required turning seized resources into administration. At Xiangyang and then Xi’an, his movement began building the institutions of a rival state. In 1644 he adopted the dynastic name Shun and captured Beijing as Ming authority collapsed. Success lasted only briefly. Wu Sangui’s forces and the Manchus defeated him at Shanhai Pass, forcing a retreat from the capital. His trajectory connects the desperation of regional rebellion with the different demands of holding and governing an empire.",
+      "zh": "1631年李自成加入高迎祥部，1636年高被处死后，李成为主要反叛统帅。河南饥荒与救济的许诺扩大了追随者队伍；军事胜利同时要求把夺得的资源转化为行政能力。在襄阳、继而西安，其势力开始建立与明朝竞争的国家机构。1644年李自成采用大顺国号，在明廷崩溃时攻入北京，但占都仅维持短暂时期。吴三桂军与满洲军在山海关击败他，迫其撤出都城。李的经历连接了地方反叛中的生存困境，以及占有、治理帝国所面临的不同要求。"
+    },
+    "dateNote": {
+      "en": "1631–1644 is the selected period of documented activity, not a lifespan. Dates are given at civil-year precision; map points are representative.",
+      "zh": "1631—1644年为所选有据活动时期，并非生卒年。日期精度为公元年；地图点为代表位置。"
+    },
+    "sources": [
+      {
+        "title": "Eminent Chinese of the Ch’ing Period: Li Tzŭ-ch'êng",
+        "publisher": "Arthur W. Hummel, editor; US Government Printing Office, 1943–1944; Wikisource transcription",
+        "url": "https://en.wikisource.org/wiki/Eminent_Chinese_of_the_Ch'ing_Period/Li_Tzŭ-ch'êng",
+        "evidenceNote": "1631 joining Gao, 1636 succession, Henan relief, Xiangyang administration and the 1644 Beijing–Shanhai sequence.",
+        "evidenceNoteZh": "1631年加入高部、1636年接续、河南赈济、襄阳行政及1644年北京—山海关过程。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page-public-domain-reference"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 1631,
+        "title": {
+          "en": "Joins Gao Yingxiang",
+          "zh": "加入高迎祥部"
+        },
+        "description": {
+          "en": "He entered a larger rebel coalition.",
+          "zh": "进入规模更大的反叛联盟。"
+        },
+        "location": {
+          "lat": 36.59,
+          "lon": 109.49,
+          "label": "Northern Shaanxi, rebel setting",
+          "labelI18n": {
+            "en": "Northern Shaanxi, rebel setting",
+            "zh": "陕北，反叛活动地区"
+          }
+        }
+      },
+      {
+        "year": 1636,
+        "title": {
+          "en": "Leads after Gao’s execution",
+          "zh": "高迎祥被处死后领军"
+        },
+        "description": {
+          "en": "He assumed the title Chuang Wang.",
+          "zh": "采用闯王称号。"
+        },
+        "location": {
+          "lat": 34.75,
+          "lon": 113.62,
+          "label": "Henan, representative campaigning region",
+          "labelI18n": {
+            "en": "Henan, representative campaigning region",
+            "zh": "河南，代表性作战地区"
+          }
+        }
+      },
+      {
+        "year": 1644,
+        "title": {
+          "en": "Captures Beijing",
+          "zh": "攻入北京"
+        },
+        "description": {
+          "en": "His Shun government briefly occupied the Ming capital.",
+          "zh": "大顺政权短暂占领明都。"
+        },
+        "location": {
+          "lat": 39.91,
+          "lon": 116.39,
+          "label": "Beijing, imperial court",
+          "labelI18n": {
+            "en": "Beijing, imperial court",
+            "zh": "北京，皇帝朝廷"
+          }
+        }
+      },
+      {
+        "year": 1644,
+        "title": {
+          "en": "Defeated at Shanhai Pass",
+          "zh": "山海关战败"
+        },
+        "description": {
+          "en": "Defeat brought withdrawal from Beijing.",
+          "zh": "战败后撤出北京。"
+        },
+        "location": {
+          "lat": 40.0,
+          "lon": 119.75,
+          "label": "Shanhai Pass",
+          "labelI18n": {
+            "en": "Shanhai Pass",
+            "zh": "山海关"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-person-huangtaiji",
+      "ming-dynasty"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual synthesis of the inspected passages identified in each source note.",
+      "reviewLimit": {
+        "en": "The selected interval avoids conflicting birth dates and traditions about his final fate. The older biography’s moral labels are not adopted.",
+        "zh": "所选时期避开有分歧的出生年及末年传说，不采用旧传记的道德标签。"
+      }
+    }
+  },
+  {
+    "id": "china-person-yongzheng",
+    "sourceProfileId": "china-person-yongzheng",
+    "name": {
+      "en": "Yongzheng Emperor",
+      "zh": "雍正帝"
+    },
+    "title": {
+      "en": "Yongzheng Emperor · reports, revenue and concentrated authority",
+      "zh": "雍正帝 · 奏报、财赋与集权"
+    },
+    "start": 1722,
+    "end": 1735,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "states",
+    "importance": 3,
+    "location": {
+      "lat": 39.91,
+      "lon": 116.39,
+      "label": "Beijing, imperial court",
+      "labelI18n": {
+        "en": "Beijing, imperial court",
+        "zh": "北京，皇帝朝廷"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "The Yongzheng emperor came to the throne in 1722; his reign era began the following year. He sought closer control over officials and provincial finances, combining administrative attention with coercive authority. Fiscal measures brought some informal fees into regulated revenue and supported allowances intended to reduce officials’ reliance on irregular income. The Grand Council, established in 1729, provided another channel for concentrated decision making. These institutional changes belong beside the punishments imposed on rivals and former allies. When Yongzheng died in 1735, his successor inherited a court with strengthened tools for monitoring and directing government across distant provinces.",
+      "zh": "雍正帝于1722年即位，次年启用雍正年号。他力求更紧密地控制官员与地方财政，将行政整顿与强制权力结合起来。财政措施把部分非正式收费纳入规范收入，并以养廉银减少官员对额外收入的依赖。1729年设立军机处，又提供了集中决策的渠道。这些制度变化应与惩处政敌、旧臣的行动一并观察。1735年雍正去世时，继任者接手的朝廷已拥有更有力的工具，监察并指挥远方各省的治理。"
+    },
+    "dateNote": {
+      "en": "1722–1735 is the selected period of documented activity, not a lifespan. Dates are given at civil-year precision; map points are representative.",
+      "zh": "1722—1735年为所选有据活动时期，并非生卒年。日期精度为公元年；地图点为代表位置。"
+    },
+    "sources": [
+      {
+        "title": "清世宗胤禛",
+        "publisher": "The Palace Museum",
+        "url": "https://www.dpm.org.cn/court/lineage/226259.html",
+        "evidenceNote": "1722 accession, fiscal measures, 1729 Grand Council and 1735 death; punishment of rivals and former allies.",
+        "evidenceNoteZh": "1722年即位、财政措施、1729年军机处及1735年死亡；惩处政敌与旧臣。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 1722,
+        "title": {
+          "en": "Accession",
+          "zh": "即位"
+        },
+        "description": {
+          "en": "The Yongzheng era began in 1723.",
+          "zh": "雍正年号始于1723年。"
+        },
+        "location": {
+          "lat": 39.91,
+          "lon": 116.39,
+          "label": "Beijing, imperial court",
+          "labelI18n": {
+            "en": "Beijing, imperial court",
+            "zh": "北京，皇帝朝廷"
+          }
+        }
+      },
+      {
+        "year": 1729,
+        "title": {
+          "en": "Grand Council established",
+          "zh": "设立军机处"
+        },
+        "description": {
+          "en": "A new body served concentrated imperial decision making.",
+          "zh": "新机构服务于集中的皇帝决策。"
+        },
+        "location": {
+          "lat": 39.91,
+          "lon": 116.39,
+          "label": "Beijing, imperial court",
+          "labelI18n": {
+            "en": "Beijing, imperial court",
+            "zh": "北京，皇帝朝廷"
+          }
+        }
+      },
+      {
+        "year": 1735,
+        "title": {
+          "en": "Death and succession",
+          "zh": "去世与继承"
+        },
+        "description": {
+          "en": "Hongli succeeded him on the throne.",
+          "zh": "弘历继承皇位。"
+        },
+        "location": {
+          "lat": 39.91,
+          "lon": 116.39,
+          "label": "Beijing, imperial court",
+          "labelI18n": {
+            "en": "Beijing, imperial court",
+            "zh": "北京，皇帝朝廷"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-person-kangxi",
+      "china-person-qianlong"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual synthesis of the inspected passages identified in each source note.",
+      "reviewLimit": {
+        "en": "Accession and reign-era dates are distinguished. Disputed succession legends are not used.",
+        "zh": "区分即位与年号起始，不采用有争议的继位传说。"
+      }
+    }
+  },
+  {
+    "id": "china-person-qianlong",
+    "sourceProfileId": "china-person-qianlong",
+    "name": {
+      "en": "Qianlong Emperor",
+      "zh": "乾隆帝"
+    },
+    "title": {
+      "en": "Qianlong Emperor · collecting culture, controlling texts",
+      "zh": "乾隆帝 · 收藏文化与控制文本"
+    },
+    "start": 1735,
+    "end": 1796,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "states",
+    "importance": 3,
+    "location": {
+      "lat": 39.91,
+      "lon": 116.39,
+      "label": "Beijing, imperial court",
+      "labelI18n": {
+        "en": "Beijing, imperial court",
+        "zh": "北京，皇帝朝廷"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Qianlong succeeded his father in 1735 and ruled through an expanding court culture of collecting, commissioning and classification. Paintings, calligraphy, gardens and official compilations helped present the emperor as a judge of knowledge and taste. The enormous Siku Quanshu project preserved many texts, while the same court searched for writings it considered hostile to Manchu rule and ordered works altered or destroyed. Cultural patronage and censorship therefore belonged to the same exercise of authority. In 1793 Qianlong received the Macartney embassy but rejected its principal requests for changes to trade arrangements. He formally abdicated in 1796 while continuing to intervene in government, separating the transfer of an imperial title from the surrender of political power.",
+      "zh": "乾隆于1735年继承父位，统治伴随着宫廷收藏、委托制作与知识分类的扩展。绘画、书法、园林和官修典籍，将皇帝呈现为学识与品味的裁定者。《四库全书》工程保存大量文本，同一朝廷也搜查被认为敌视满洲统治的著作，命令删改或销毁。文化赞助与文字审查因此属于同一种权力运作。1793年乾隆接见马戛尔尼使团，却拒绝其改变贸易安排的主要要求。1796年他正式退位，仍继续干预政务，皇位名号的移交并不等于政治权力的交出。"
+    },
+    "dateNote": {
+      "en": "1735–1796 is the selected period of documented activity, not a lifespan. Dates are given at civil-year precision; map points are representative.",
+      "zh": "1735—1796年为所选有据活动时期，并非生卒年。日期精度为公元年；地图点为代表位置。"
+    },
+    "sources": [
+      {
+        "title": "Eminent Chinese of the Ch’ing Period: Hung-li",
+        "publisher": "Arthur W. Hummel, editor; US Government Printing Office, 1943–1944; Wikisource transcription",
+        "url": "https://en.wikisource.org/wiki/Eminent_Chinese_of_the_Ch'ing_Period/Hung-li",
+        "evidenceNote": "1735 accession, art patronage, Siku compilation and censorship, 1793 embassy, 1796 abdication and continuing authority.",
+        "evidenceNoteZh": "1735年即位、艺术赞助、四库编纂与禁毁、1793年使团、1796年退位及继续掌权。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page-public-domain-reference"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 1735,
+        "title": {
+          "en": "Accession",
+          "zh": "即位"
+        },
+        "description": {
+          "en": "His Qianlong reign era began the following year.",
+          "zh": "乾隆年号自次年开始。"
+        },
+        "location": {
+          "lat": 39.91,
+          "lon": 116.39,
+          "label": "Beijing, imperial court",
+          "labelI18n": {
+            "en": "Beijing, imperial court",
+            "zh": "北京，皇帝朝廷"
+          }
+        }
+      },
+      {
+        "year": 1793,
+        "title": {
+          "en": "Receives Macartney",
+          "zh": "接见马戛尔尼"
+        },
+        "description": {
+          "en": "Trade requests did not secure the changes sought by the embassy.",
+          "zh": "使团提出的贸易要求未获得预期改变。"
+        },
+        "location": {
+          "lat": 40.98,
+          "lon": 117.94,
+          "label": "Chengde",
+          "labelI18n": {
+            "en": "Chengde",
+            "zh": "承德"
+          }
+        }
+      },
+      {
+        "year": 1796,
+        "title": {
+          "en": "Formal abdication",
+          "zh": "正式退位"
+        },
+        "description": {
+          "en": "He retained authority as retired emperor.",
+          "zh": "以太上皇身份保留权力。"
+        },
+        "location": {
+          "lat": 39.91,
+          "lon": 116.39,
+          "label": "Beijing, imperial court",
+          "labelI18n": {
+            "en": "Beijing, imperial court",
+            "zh": "北京，皇帝朝廷"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-person-yongzheng",
+      "china-event-qing-024"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual synthesis of the inspected passages identified in each source note.",
+      "reviewLimit": {
+        "en": "Retrospective accounts are read for documented actions, not as proof of reported dialogue, motives or exact army totals.",
+        "zh": "事后记述用于核对有据行动，不将所载对话、动机或军队精确人数直接视为定论。"
+      }
+    }
+  },
+  {
+    "id": "china-person-hongxiuquan",
+    "sourceProfileId": "china-person-hongxiuquan",
+    "name": {
+      "en": "Hong Xiuquan",
+      "zh": "洪秀全"
+    },
+    "title": {
+      "en": "Hong Xiuquan · religious texts and a rival kingdom",
+      "zh": "洪秀全 · 宗教文本与另立王国"
+    },
+    "start": 1843,
+    "end": 1864,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "states",
+    "importance": 3,
+    "location": {
+      "lat": 32.06,
+      "lon": 118.8,
+      "label": "Nanjing",
+      "labelI18n": {
+        "en": "Nanjing",
+        "zh": "南京"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Hong Xiuquan reinterpreted earlier visions after reading Christian tracts in 1843, coming to believe that he was Jesus’s younger brother. Preaching in Guangxi helped create the religious movement that became the Taiping challenge to Qing rule. After taking Nanjing in 1853, the Taiping made it their capital, Tianjing, and issued religious instructions alongside plans for government and land. Their publications are evidence of aspirations and prescribed order, not proof that every programme was implemented. Hong’s regime also suffered violent leadership struggles, including the killings of 1856. He died in 1864 before Qing forces captured the capital. His story links the circulation of printed religion to mass mobilization, civil war and contested political authority.",
+      "zh": "1843年洪秀全阅读基督教传教书后，重新解释早年的异象，自认为耶稣之弟。在广西的传教活动，促成了后来挑战清朝的太平天国运动。1853年太平军攻取南京，改为都城天京，发布宗教训诫，也提出治理与土地制度方案。这些出版物反映理想和规定秩序，不能据此认定每项方案都已实行。其政权还经历了1856年等暴力领导权斗争。洪秀全于1864年清军攻陷都城之前去世。他的故事把宗教印刷品的流通，与群众动员、内战和政治权威之争联系起来。"
+    },
+    "dateNote": {
+      "en": "1843–1864 is the selected period of documented activity, not a lifespan. Dates are given at civil-year precision; map points are representative.",
+      "zh": "1843—1864年为所选有据活动时期，并非生卒年。日期精度为公元年；地图点为代表位置。"
+    },
+    "sources": [
+      {
+        "title": "Eminent Chinese of the Ch’ing Period: Hung Hsiu-ch'üan",
+        "publisher": "Arthur W. Hummel, editor; US Government Printing Office, 1943–1944; Wikisource transcription",
+        "url": "https://en.wikisource.org/wiki/Eminent_Chinese_of_the_Ch'ing_Period/Hung_Hsiu-ch'üan",
+        "evidenceNote": "1843 interpretation of Christian tracts, Guangxi preaching, 1853 Nanjing, 1856 leadership killings and death in 1864; listed Taiping publications.",
+        "evidenceNoteZh": "1843年解释传教书、广西传教、1853年南京、1856年领导层杀戮及1864年死亡；太平天国出版物目录。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page-public-domain-reference"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 1843,
+        "title": {
+          "en": "Reinterprets religious tracts",
+          "zh": "重新解释宗教书籍"
+        },
+        "description": {
+          "en": "He connected Christian teachings with his earlier visions.",
+          "zh": "将基督教教义与早年的异象相联系。"
+        },
+        "location": {
+          "lat": 23.4,
+          "lon": 113.22,
+          "label": "Huaxian, Guangdong",
+          "labelI18n": {
+            "en": "Huaxian, Guangdong",
+            "zh": "广东花县"
+          }
+        }
+      },
+      {
+        "year": 1853,
+        "title": {
+          "en": "Capital at Nanjing",
+          "zh": "定都南京"
+        },
+        "description": {
+          "en": "The Taiping renamed the city Tianjing.",
+          "zh": "太平天国将南京改称天京。"
+        },
+        "location": {
+          "lat": 32.06,
+          "lon": 118.8,
+          "label": "Nanjing",
+          "labelI18n": {
+            "en": "Nanjing",
+            "zh": "南京"
+          }
+        }
+      },
+      {
+        "year": 1856,
+        "title": {
+          "en": "Leadership violence",
+          "zh": "领导层暴力斗争"
+        },
+        "description": {
+          "en": "Killings fractured the Taiping leadership.",
+          "zh": "杀戮使太平天国领导层分裂。"
+        },
+        "location": {
+          "lat": 32.06,
+          "lon": 118.8,
+          "label": "Nanjing",
+          "labelI18n": {
+            "en": "Nanjing",
+            "zh": "南京"
+          }
+        }
+      },
+      {
+        "year": 1864,
+        "title": {
+          "en": "Death during the final siege",
+          "zh": "最后围城期间去世"
+        },
+        "description": {
+          "en": "He died before Qing troops captured the capital.",
+          "zh": "在清军攻取都城之前去世。"
+        },
+        "location": {
+          "lat": 32.06,
+          "lon": 118.8,
+          "label": "Nanjing",
+          "labelI18n": {
+            "en": "Nanjing",
+            "zh": "南京"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-person-zengguofan",
+      "china-person-lihongzhang"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual synthesis of the inspected passages identified in each source note.",
+      "reviewLimit": {
+        "en": "The focus interval avoids disputed birth dates. His religious identity is presented as belief; the cause and exact day of death are not asserted.",
+        "zh": "活动时期避开有争议的出生年；宗教身份作为信仰叙述，不断定死因与确切死亡日期。"
+      }
+    }
+  },
+  {
+    "id": "china-person-lihongzhang",
+    "sourceProfileId": "china-person-lihongzhang",
+    "name": {
+      "en": "Li Hongzhang",
+      "zh": "李鸿章"
+    },
+    "title": {
+      "en": "Li Hongzhang · armies, companies and diplomacy",
+      "zh": "李鸿章 · 军队、企业与外交"
+    },
+    "start": 1862,
+    "end": 1895,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "states",
+    "importance": 3,
+    "location": {
+      "lat": 31.23,
+      "lon": 121.47,
+      "label": "Shanghai, military and commercial setting",
+      "labelI18n": {
+        "en": "Shanghai, military and commercial setting",
+        "zh": "上海，军事与商业场景"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Li Hongzhang brought his Huai Army to Shanghai in 1862, linking regional military organization with a treaty-port world of foreign weapons and shipping. His later projects extended beyond warfare. He proposed the China Merchants Steam Navigation Company in 1872, and a telegraph line between Tianjin and Shanghai was completed in 1881. Such enterprises combined official backing with commercial investment rather than fitting a simple division between state and private activity. As a senior diplomat, Li also negotiated after military defeat. The Treaty of Shimonoseki in 1895 exposed the limits of the institutions he had helped build. His career connects the practical work of acquiring technology with the unequal pressures surrounding late Qing government.",
+      "zh": "1862年李鸿章率淮军到达上海，把地方军事组织与通商口岸的外国武器、航运网络连接起来。此后的事业超出战争：1872年他提议创办轮船招商局，1881年天津至上海的电报线建成。这类企业结合官府支持与商业投资，不能简单归入纯官办或纯私营。作为高级外交官，李鸿章也在军事失败后参与谈判。1895年的《马关条约》显出了他参与建立的制度所面临的限度。他的经历把引进技术的具体工作，与晚清治理所承受的不平等外部压力联系起来。"
+    },
+    "dateNote": {
+      "en": "1862–1895 is the selected period of documented activity, not a lifespan. Dates are given at civil-year precision; map points are representative.",
+      "zh": "1862—1895年为所选有据活动时期，并非生卒年。日期精度为公元年；地图点为代表位置。"
+    },
+    "sources": [
+      {
+        "title": "Eminent Chinese of the Ch’ing Period: Li Hung-chang",
+        "publisher": "Arthur W. Hummel, editor; US Government Printing Office, 1943–1944; Wikisource transcription",
+        "url": "https://en.wikisource.org/wiki/Eminent_Chinese_of_the_Ch'ing_Period/Li_Hung-chang",
+        "evidenceNote": "1862 Shanghai deployment, 1872 steamship company proposal, 1881 telegraph and 1895 treaty negotiations; official/private investment arrangements.",
+        "evidenceNoteZh": "1862年进驻上海、1872年招商局提议、1881年电报线与1895年议约；官商投资安排。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page-public-domain-reference"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 1862,
+        "title": {
+          "en": "Huai Army reaches Shanghai",
+          "zh": "淮军抵达上海"
+        },
+        "description": {
+          "en": "Regional forces entered the treaty-port military setting.",
+          "zh": "地方军队进入通商口岸的军事环境。"
+        },
+        "location": {
+          "lat": 31.23,
+          "lon": 121.47,
+          "label": "Shanghai",
+          "labelI18n": {
+            "en": "Shanghai",
+            "zh": "上海"
+          }
+        }
+      },
+      {
+        "year": 1872,
+        "title": {
+          "en": "Steamship enterprise proposed",
+          "zh": "提议创办轮船企业"
+        },
+        "description": {
+          "en": "He promoted the China Merchants undertaking.",
+          "zh": "推动轮船招商局事业。"
+        },
+        "location": {
+          "lat": 31.23,
+          "lon": 121.47,
+          "label": "Shanghai",
+          "labelI18n": {
+            "en": "Shanghai",
+            "zh": "上海"
+          }
+        }
+      },
+      {
+        "year": 1881,
+        "title": {
+          "en": "Telegraph link completed",
+          "zh": "电报线路建成"
+        },
+        "description": {
+          "en": "The Tianjin–Shanghai line connected distant administrative and commercial centres.",
+          "zh": "津沪电报线连接远方行政与商业中心。"
+        },
+        "location": {
+          "lat": 39.13,
+          "lon": 117.2,
+          "label": "Tianjin, northern terminal",
+          "labelI18n": {
+            "en": "Tianjin, northern terminal",
+            "zh": "天津，北端终点"
+          }
+        }
+      },
+      {
+        "year": 1895,
+        "title": {
+          "en": "Shimonoseki negotiations",
+          "zh": "马关议约"
+        },
+        "description": {
+          "en": "He represented the Qing after defeat by Japan.",
+          "zh": "在对日战争失败后代表清廷议约。"
+        },
+        "location": {
+          "lat": 33.96,
+          "lon": 130.94,
+          "label": "Shimonoseki",
+          "labelI18n": {
+            "en": "Shimonoseki",
+            "zh": "下关"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-person-zengguofan",
+      "treaty-shimonoseki"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual synthesis of the inspected passages identified in each source note.",
+      "reviewLimit": {
+        "en": "Retrospective accounts are read for documented actions, not as proof of reported dialogue, motives or exact army totals.",
+        "zh": "事后记述用于核对有据行动，不将所载对话、动机或军队精确人数直接视为定论。"
       }
     }
   }

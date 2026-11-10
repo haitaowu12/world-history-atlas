@@ -56,3 +56,12 @@ Eleven additional images have separately reviewed identities, dates and reuse re
 The Rizal file retains the source crop credited to **FMSky**. The Equiano image is the **Project Gutenberg / Wikimedia Commons scan** of the 1789 engraving by **Daniel Orme after W. Denton**; the National Portrait Gallery record is used to corroborate attribution, not as the image supplier. The Wells caption keeps the University of Chicago archive’s 1893/1894 date alongside the Commons estimate of about 1895.
 
 Qin Shi Huang, Su Shi and Li Bai are explicitly presented as later depictions. The paintings of Ada Lovelace, Kangxi and Qianlong and the Equiano engraving are identified as works made during the subjects’ lifetimes, not photographs.
+
+### V17 object photographs
+
+| File | Creator / collection | Source and rights |
+| --- | --- | --- |
+| `mangaaka-power-figure.jpg` | Yombe-Kongo artist and nganga (ritual specialist) · The Metropolitan Museum of Art, 2008.30 | [Object record](https://www.metmuseum.org/art/collection/search/320053) · [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `hoi-an-bird-dish.jpg` | Vietnamese potter(s), names unrecorded · The Metropolitan Museum of Art, 2023.585; gift of Samuel and Gabrielle Lurie, 2023 | [Object record](https://www.metmuseum.org/art/collection/search/828473) · [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+
+The Met marks both objects Public Domain and supplies their photographs under its [Open Access policy](https://www.metmuseum.org/policies/image-resources). Museum web-size files are preserved without local crop, recoloring or reconstruction. The Mangaaka figure dates to about 1880–1900 and is not a portrait of a named person. The Vietnamese dish follows the museum's early-sixteenth-century date and probable Hải Dương origin. The complete purchase credit for the Mangaaka figure is retained in the media catalogue.

@@ -118,3 +118,25 @@ security configuration to replace it.
 - The image renderer supports lifetime painted/engraved portraits separately
   from photographs and later depictions, and can show an additional archive
   link for identification/date evidence. Existing media regression tests pass.
+
+### Complete profile-backlog checkpoint
+
+- All 101 planned biography upgrades are saved, with 330 dated milestones.
+  Six biographies have a source-linked limited-chronology review. Combined
+  record validation and expansion auditing passed with no errors after a
+  vocabulary correction; bilingual locations, identities and related targets
+  were also checked. The three regional research ledgers preserve the actual
+  claim-to-source decisions. Stories and readings remain in progress, and the
+  active release is still V16.
+- Two Met CC0 object photographs bring the candidate catalogue to 29 images.
+  All 29 local byte counts and SHA-256 receipts match. Candidate record links
+  were checked against current biographies and the three named V17 story IDs;
+  final activation must resolve those IDs in the completed release.
+- The 24 focused biography, directory, media, search and V9 regression tests
+  passed. This reuses the previously passing baseline for unchanged inputs;
+  a complete release check follows activation.
+- CH3 source correspondence was checked against fetched, hash-verified donor
+  blobs: 187 river records, 62 lake edges, 41 labels and 16 corridors. The only
+  corridor date transformations are the existing 2026 caps on two source
+  `9999` end years. See `CH3_SOURCE_COMPARISON_V17.md` for the implementation
+  inventory and the historical/per-feature-rights questions that remain.

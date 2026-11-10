@@ -3039,5 +3039,1624 @@
         "zh": "地图点代表有文献依据的历史场景，不是复原行程。古代言辞与轶事按传世叙事处理。"
       }
     }
+  },
+  {
+    "id": "china-person-caocao",
+    "name": {
+      "en": "Cao Cao",
+      "zh": "曹操"
+    },
+    "title": {
+      "en": "Cao Cao · Grain, armies and the Han court",
+      "zh": "曹操 · 粮食、军队与汉廷"
+    },
+    "kind": "person",
+    "sourceProfileId": "china-person-caocao",
+    "start": 196,
+    "end": 208,
+    "location": {
+      "lat": 34.03,
+      "lon": 113.85,
+      "label": "Xu, seat of the Han court under Cao Cao",
+      "labelI18n": {
+        "en": "Xu, seat of the Han court under Cao Cao",
+        "zh": "曹操控制下汉廷所在的许县"
+      }
+    },
+    "locationPrecision": "representative",
+    "region": "east-asia",
+    "theme": "states",
+    "importance": 3,
+    "summary": {
+      "en": "Cao Cao's power grew from a practical problem: armies could not survive without grain, and authority could not rest on victories alone. In 196 he brought the Han emperor's court to Xu and promoted agricultural colonies to provision his forces. This combined control of the court with a claim to act in the dynasty's name. At Guandu, attacks on Yuan Shao's supplies helped break a rival coalition. Expansion southward then met an alliance led by Sun Quan and Liu Bei at Red Cliffs. The setback left several centers of power in place. Reading his career through food, appointments and alliances makes it more intelligible than treating him as either a flawless strategist or a single villain.",
+      "zh": "曹操的权力建立在实际难题之上：军队离不开粮食，权威也不能只靠胜仗。196年，他将汉帝朝廷迁到许县，并推行屯田，为军队提供供给。控制朝廷与以汉朝名义行事，成为相互支撑的政治手段。官渡之战中，攻击袁绍粮运帮助他击破敌方联盟。随后向南扩张，却在赤壁遇到孙权与刘备的联合抵抗，战后多方势力继续并存。从粮食、官职与联盟来理解曹操，比把他写成无所不能的谋略家或单一反派，更能解释其成败。"
+    },
+    "dateNote": {
+      "en": "Focus: moving the Han court in 196, Guandu in 200 and Red Cliffs in 208. This is a political and military interval, not a lifespan. Ancient troop totals are not reused.",
+      "zh": "重点为196年迁汉廷、200年官渡及208年赤壁，属于政治军事活动时段，不是完整生卒年。未采用古书兵力总数。"
+    },
+    "sources": [
+      {
+        "title": "Chen Shou, Sanguozhi, chapter 1",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/三國志/卷01",
+        "evidenceNote": "Jian’an 1 records the court’s move to Xu and agricultural colonies; Jian’an 5 records Guandu and supply attacks. Pei Songzhi explicitly questions the troop disparity in the received account.",
+        "evidenceNoteZh": "建安元年记迁都许县及屯田，五年记官渡与袭击粮运；裴松之明确质疑传世记述中的兵力悬殊。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Chen Shou, Sanguozhi, chapter 47",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/三國志/卷47",
+        "evidenceNote": "Sun Quan’s annals date the allied Red Cliffs campaign to Jian’an 13 and describe illness and retreat.",
+        "evidenceNoteZh": "孙权纪将赤壁联军作战系于建安十三年，并记疾病与撤退。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 196,
+        "title": {
+          "en": "The court at Xu",
+          "zh": "汉廷迁许"
+        },
+        "description": {
+          "en": "Control of the imperial court and agricultural colonies strengthened Cao Cao’s political and supply base.",
+          "zh": "控制朝廷及推行屯田，增强了曹操的政治与供给基础。"
+        },
+        "location": {
+          "lat": 34.03,
+          "lon": 113.85,
+          "label": "Xu, near modern Xuchang",
+          "labelI18n": {
+            "en": "Xu, near modern Xuchang",
+            "zh": "许县，近今许昌"
+          }
+        }
+      },
+      {
+        "year": 200,
+        "title": {
+          "en": "Supplies at Guandu",
+          "zh": "官渡的粮运争夺"
+        },
+        "description": {
+          "en": "Attacks on Yuan Shao’s grain helped turn a prolonged confrontation into a victory.",
+          "zh": "袭击袁绍粮运，帮助曹操在长期对峙后取胜。"
+        },
+        "location": {
+          "lat": 34.75,
+          "lon": 114.0,
+          "label": "Guandu region, near modern Zhongmu",
+          "labelI18n": {
+            "en": "Guandu region, near modern Zhongmu",
+            "zh": "官渡一带，近今中牟"
+          }
+        }
+      },
+      {
+        "year": 208,
+        "title": {
+          "en": "Red Cliffs checks expansion",
+          "zh": "赤壁阻止南进"
+        },
+        "description": {
+          "en": "The Sun–Liu alliance defeated his southern campaign.",
+          "zh": "孙刘联盟击败其南征军队。"
+        },
+        "location": {
+          "lat": 29.88,
+          "lon": 113.6,
+          "label": "Red Cliffs region on the middle Yangzi; approximate",
+          "labelI18n": {
+            "en": "Red Cliffs region on the middle Yangzi; approximate",
+            "zh": "长江中游赤壁一带；约指"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-person-liubei",
+      "china-person-sunquan"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual biography from inspected primary texts and specialist interpretation. Inherited directory lifespan and itinerary are not evidence.",
+      "reviewLimit": {
+        "en": "The marker represents an attested setting, not a reconstructed journey. Ancient speeches and anecdotes are treated as transmitted narrative.",
+        "zh": "地图点代表有文献依据的历史场景，不是复原行程。古代言辞与轶事按传世叙事处理。"
+      }
+    }
+  },
+  {
+    "id": "china-person-liubei",
+    "name": {
+      "en": "Liu Bei",
+      "zh": "刘备"
+    },
+    "title": {
+      "en": "Liu Bei · Building a state from shifting alliances",
+      "zh": "刘备 · 在变化的联盟中建国"
+    },
+    "kind": "person",
+    "sourceProfileId": "china-person-liubei",
+    "start": 208,
+    "end": 223,
+    "location": {
+      "lat": 30.66,
+      "lon": 104.06,
+      "label": "Chengdu, Shu-Han capital",
+      "labelI18n": {
+        "en": "Chengdu, Shu-Han capital",
+        "zh": "蜀汉都城成都"
+      }
+    },
+    "locationPrecision": "representative",
+    "region": "east-asia",
+    "theme": "states",
+    "importance": 3,
+    "summary": {
+      "en": "Liu Bei moved through the fractured Han world by gathering followers and negotiating with stronger powers. Alliance with Sun Quan checked Cao Cao in 208, but cooperation did not settle their competing claims to Jingzhou. In the west, Liu Zhang invited him into Yi Province; their partnership became a war that ended with Liu Bei taking Chengdu. He proclaimed himself emperor in 221, presenting his state as a continuation of Han after Cao Pi's accession. An attack on his former ally Sun Quan then ended in defeat at Yiling. His final arrangements entrusted the young Liu Shan to Zhuge Liang and Li Yan. The career reveals how promises of restoration could coexist with territorial ambition and unstable alliances.",
+      "zh": "刘备在汉末分裂的局势中聚集追随者，与强势力量周旋。208年，他与孙权联合阻止曹操，但合作没有解决双方对荆州的竞争。向西发展时，刘璋邀请他进入益州，合作却转为战争，最终由刘备占领成都。221年，曹丕称帝之后，他也登基，以延续汉朝为建国理由。随后进攻旧盟友孙权，却在夷陵战败。临终时，他把年幼继承人刘禅托付给诸葛亮与李严。这段经历显示，恢复旧朝的政治承诺，如何与争夺领土、维持不稳固联盟同时存在。"
+    },
+    "dateNote": {
+      "en": "Focus: the 208 alliance through death in 223. The narrative follows Sanguozhi’s regnal sequence; claims of remote Han ancestry are not independently verified here.",
+      "zh": "重点为208年联盟至223年去世，依《三国志》在位年顺序编排；不把遥远的汉室世系主张视为已独立证实。"
+    },
+    "sources": [
+      {
+        "title": "Chen Shou, Sanguozhi, chapter 32",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/三國志/卷32",
+        "evidenceNote": "Supports the Red Cliffs alliance, invitation and conquest of Yi, 221 proclamation, 222 defeat and 223 deathbed arrangements. The imperial proclamation is a political claim, not proof of unanimous consent.",
+        "evidenceNoteZh": "支持赤壁联盟、受邀入益州及夺取成都、221年称帝、222年战败及223年托孤；登极文书是政治主张，不证明各方一致同意。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Chen Shou, Sanguozhi, chapter 47",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/三國志/卷47",
+        "evidenceNote": "Jian’an 19 confirms Liu Bei’s acquisition of Shu and the subsequent dispute over Jingzhou.",
+        "evidenceNoteZh": "建安十九年记刘备取得蜀地及随后荆州争端。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 208,
+        "title": {
+          "en": "Alliance on the Yangzi",
+          "zh": "长江上的联盟"
+        },
+        "description": {
+          "en": "Liu Bei joined Sun Quan’s forces against Cao Cao.",
+          "zh": "刘备与孙权方面联合抵抗曹操。"
+        },
+        "location": {
+          "lat": 29.88,
+          "lon": 113.6,
+          "label": "Red Cliffs region on the middle Yangzi; approximate",
+          "labelI18n": {
+            "en": "Red Cliffs region on the middle Yangzi; approximate",
+            "zh": "长江中游赤壁一带；约指"
+          }
+        }
+      },
+      {
+        "year": 214,
+        "title": {
+          "en": "Chengdu changes rulers",
+          "zh": "成都易主"
+        },
+        "description": {
+          "en": "The campaign against Liu Zhang ended with Liu Bei taking the provincial center.",
+          "zh": "对刘璋的战争以刘备占领益州中心结束。"
+        },
+        "location": {
+          "lat": 30.66,
+          "lon": 104.06,
+          "label": "Chengdu, Shu-Han capital",
+          "labelI18n": {
+            "en": "Chengdu, Shu-Han capital",
+            "zh": "蜀汉都城成都"
+          }
+        }
+      },
+      {
+        "year": 221,
+        "title": {
+          "en": "A claim to continue Han",
+          "zh": "延续汉统的主张"
+        },
+        "description": {
+          "en": "Liu Bei assumed the imperial title at Chengdu.",
+          "zh": "刘备在成都称帝。"
+        },
+        "location": {
+          "lat": 30.66,
+          "lon": 104.06,
+          "label": "Chengdu, Shu-Han capital",
+          "labelI18n": {
+            "en": "Chengdu, Shu-Han capital",
+            "zh": "蜀汉都城成都"
+          }
+        }
+      },
+      {
+        "year": 223,
+        "title": {
+          "en": "Succession at Yong’an",
+          "zh": "永安托孤"
+        },
+        "description": {
+          "en": "After the eastern defeat, his final arrangements named Zhuge Liang and Li Yan to support his successor.",
+          "zh": "东征失败后，临终安排由诸葛亮与李严辅佐继承者。"
+        },
+        "location": {
+          "lat": 31.05,
+          "lon": 109.58,
+          "label": "Yong’an, near modern Fengjie",
+          "labelI18n": {
+            "en": "Yong’an, near modern Fengjie",
+            "zh": "永安，近今奉节"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-person-zhugeliang",
+      "china-person-luxun",
+      "china-person-sunquan"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual biography from inspected primary texts and specialist interpretation. Inherited directory lifespan and itinerary are not evidence.",
+      "reviewLimit": {
+        "en": "The marker represents an attested setting, not a reconstructed journey. Ancient speeches and anecdotes are treated as transmitted narrative.",
+        "zh": "地图点代表有文献依据的历史场景，不是复原行程。古代言辞与轶事按传世叙事处理。"
+      }
+    }
+  },
+  {
+    "id": "china-person-sunquan",
+    "name": {
+      "en": "Sun Quan",
+      "zh": "孙权"
+    },
+    "title": {
+      "en": "Sun Quan · Holding the lower Yangzi together",
+      "zh": "孙权 · 经营长江下游"
+    },
+    "kind": "person",
+    "sourceProfileId": "china-person-sunquan",
+    "start": 200,
+    "end": 229,
+    "location": {
+      "lat": 32.06,
+      "lon": 118.79,
+      "label": "Jianye, Wu political center; later Jiankang",
+      "labelI18n": {
+        "en": "Jianye, Wu political center; later Jiankang",
+        "zh": "吴国政治中心建业，后称建康"
+      }
+    },
+    "locationPrecision": "representative",
+    "region": "east-asia",
+    "theme": "states",
+    "importance": 3,
+    "summary": {
+      "en": "Sun Quan inherited his brother Sun Ce's position in 200, but the territories and commanders he inherited did not form a settled kingdom. Building authority meant retaining experienced officers, negotiating with local elites and using force against communities beyond effective control. At Red Cliffs, he backed resistance to Cao Cao and cooperation with Liu Bei. Their alliance later fractured over Jingzhou, before further diplomacy restored cooperation against Wei. Sun Quan's imperial proclamation in 229 gave these regional arrangements a dynastic name: Wu. His story shifts attention from a single famous battle to the political work that kept a southern state operating among powerful neighbors, competing officials and communities with their own interests.",
+      "zh": "200年，孙权继承兄长孙策的地位，但接手的土地与将领并不构成一个已经稳定的王国。他需要留住有经验的军政人员，与地方精英合作，也对控制范围之外的群体动用武力。赤壁战前，他支持抵抗曹操，并与刘备联合。后来双方因荆州决裂，又通过外交重新合作抗魏。229年称帝，使这些区域性的经营拥有“吴”的王朝名号。他的经历把视线从一场著名战役移向持续的政治工作：如何在强邻、相互竞争的官员及各有诉求的地方群体之间，维持一个南方政权。"
+    },
+    "dateNote": {
+      "en": "Focus: succession to Sun Ce in 200 through imperial accession in 229. Ancient Wuchang refers to the Ezhou region, not the modern Wuhan district of that name.",
+      "zh": "重点为200年继孙策至229年称帝。此处古武昌指今鄂州一带，并非今日武汉同名城区。"
+    },
+    "sources": [
+      {
+        "title": "Chen Shou, Sanguozhi, chapter 47",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/三國志/卷47",
+        "evidenceNote": "Jian’an 5 records the unsettled succession and officers; Jian’an 13 records the alliance; later passages document Jingzhou competition and Huanglong 1 accession.",
+        "evidenceNoteZh": "建安五年记继承局势未稳及诸将支持，十三年记联盟，后文记荆州竞争及黄龙元年称帝。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 200,
+        "title": {
+          "en": "Succession after Sun Ce",
+          "zh": "孙策之后的继承"
+        },
+        "description": {
+          "en": "Sun Quan secured support from officers including Zhang Zhao and Zhou Yu.",
+          "zh": "孙权获得张昭、周瑜等军政人员支持。"
+        },
+        "location": {
+          "lat": 31.3,
+          "lon": 120.59,
+          "label": "Wu, near modern Suzhou",
+          "labelI18n": {
+            "en": "Wu, near modern Suzhou",
+            "zh": "吴县，近今苏州"
+          }
+        }
+      },
+      {
+        "year": 208,
+        "title": {
+          "en": "Choosing resistance",
+          "zh": "选择抵抗"
+        },
+        "description": {
+          "en": "He committed forces to the alliance opposing Cao Cao.",
+          "zh": "他派遣军队加入抵抗曹操的联盟。"
+        },
+        "location": {
+          "lat": 29.88,
+          "lon": 113.6,
+          "label": "Red Cliffs region on the middle Yangzi; approximate",
+          "labelI18n": {
+            "en": "Red Cliffs region on the middle Yangzi; approximate",
+            "zh": "长江中游赤壁一带；约指"
+          }
+        }
+      },
+      {
+        "year": 229,
+        "title": {
+          "en": "Emperor of Wu",
+          "zh": "吴帝登基"
+        },
+        "description": {
+          "en": "The imperial proclamation took place at Wuchang; the court later moved east.",
+          "zh": "在武昌举行称帝仪式，朝廷随后东迁。"
+        },
+        "location": {
+          "lat": 30.4,
+          "lon": 114.89,
+          "label": "Ancient Wuchang, modern Ezhou region",
+          "labelI18n": {
+            "en": "Ancient Wuchang, modern Ezhou region",
+            "zh": "古武昌，今鄂州一带"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-person-zhouyu",
+      "china-person-liubei",
+      "china-person-luxun"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual biography from inspected primary texts and specialist interpretation. Inherited directory lifespan and itinerary are not evidence.",
+      "reviewLimit": {
+        "en": "The marker represents an attested setting, not a reconstructed journey. Ancient speeches and anecdotes are treated as transmitted narrative.",
+        "zh": "地图点代表有文献依据的历史场景，不是复原行程。古代言辞与轶事按传世叙事处理。"
+      }
+    }
+  },
+  {
+    "id": "china-person-zhugeliang",
+    "name": {
+      "en": "Zhuge Liang",
+      "zh": "诸葛亮"
+    },
+    "title": {
+      "en": "Zhuge Liang · Administration behind a strategist’s fame",
+      "zh": "诸葛亮 · 谋略名声背后的治理"
+    },
+    "kind": "person",
+    "sourceProfileId": "china-person-zhugeliang",
+    "start": 223,
+    "end": 234,
+    "location": {
+      "lat": 30.66,
+      "lon": 104.06,
+      "label": "Chengdu, Shu-Han capital",
+      "labelI18n": {
+        "en": "Chengdu, Shu-Han capital",
+        "zh": "蜀汉都城成都"
+      }
+    },
+    "locationPrecision": "representative",
+    "region": "east-asia",
+    "theme": "states",
+    "importance": 3,
+    "summary": {
+      "en": "Zhuge Liang's work joined diplomacy, taxation, military supply and political counsel. He helped secure cooperation with Sun Quan, then supported Liu Bei's government at Chengdu. After Liu Bei died, he became the central administrator under Liu Shan and pursued campaigns intended to challenge Wei. Supply remained a persistent problem: the final campaign included soldiers farming near the Wei River to sustain a longer presence. The first northern expedition had already shown the consequences of failed command at Jieting. His memorials connect loyalty with responsibility for results. The annotated Sanguozhi also rejects some spectacular tales later attached to him. The historical official is most interesting where plans encounter distance, resources and other people's decisions.",
+      "zh": "诸葛亮的工作横跨外交、赋税、军粮与政治劝谏。他帮助促成与孙权的合作，又在成都支持刘备政权。刘备死后，他成为刘禅朝廷的主要执政者，并通过北方战役挑战魏国。供给始终是难题，最后一次出兵时，他安排军士在渭水附近耕作，以便长期驻扎。此前第一次北伐的街亭失利，已经显露指挥失误的后果。他的表文把忠诚与承担成败责任联系起来。《三国志》注还驳斥了某些附会于他的神奇故事。把计划放回距离、资源和其他人的选择之中，才更能看到这位历史人物。"
+    },
+    "dateNote": {
+      "en": "Focus: regency after Liu Bei’s death in 223 through the final campaign and death in 234. Dates follow Zhangwu 3 and Jianxing 6 and 12; no fictional stratagem supplies a milestone.",
+      "zh": "重点为223年刘备死后辅政至234年最后出兵及去世。依章武三年、建兴六年与十二年纪年，不以虚构计谋填补节点。"
+    },
+    "sources": [
+      {
+        "title": "Chen Shou, Sanguozhi, chapter 35",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/三國志/卷35",
+        "evidenceNote": "Supports 223 regency, the 228 Jieting reversal, 234 Wuzhang campaign, military farming and death. Pei Songzhi tests and rejects chronologically incompatible anecdotes, including the empty-fort story.",
+        "evidenceNoteZh": "支持223年辅政、228年街亭失利、234年五丈原战事、军屯与去世；裴松之对空城故事等年代不合的材料加以辨驳。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 223,
+        "title": {
+          "en": "Responsibility for the successor",
+          "zh": "辅佐新君"
+        },
+        "description": {
+          "en": "Liu Bei’s death left Zhuge Liang with a leading role in government under Liu Shan.",
+          "zh": "刘备去世后，诸葛亮在刘禅朝廷中承担主要政务。"
+        },
+        "location": {
+          "lat": 30.66,
+          "lon": 104.06,
+          "label": "Chengdu, Shu-Han capital",
+          "labelI18n": {
+            "en": "Chengdu, Shu-Han capital",
+            "zh": "蜀汉都城成都"
+          }
+        }
+      },
+      {
+        "year": 228,
+        "title": {
+          "en": "The Jieting reverse",
+          "zh": "街亭失利"
+        },
+        "description": {
+          "en": "Ma Su’s defeat disrupted the northern expedition, and Zhuge Liang accepted a reduction in rank.",
+          "zh": "马谡战败破坏北伐部署，诸葛亮自请降职。"
+        },
+        "location": {
+          "lat": 34.75,
+          "lon": 105.9,
+          "label": "Jieting region, Gansu; battlefield identification approximate",
+          "labelI18n": {
+            "en": "Jieting region, Gansu; battlefield identification approximate",
+            "zh": "甘肃街亭一带；战场定位为约指"
+          }
+        },
+        "approximate": true
+      },
+      {
+        "year": 234,
+        "title": {
+          "en": "Farming and stalemate at Wuzhang",
+          "zh": "五丈原的军屯与相持"
+        },
+        "description": {
+          "en": "The final campaign sought a sustainable food base; Zhuge Liang died while the armies faced each other.",
+          "zh": "最后出兵试图建立持久粮源，诸葛亮在两军相持时去世。"
+        },
+        "location": {
+          "lat": 34.27,
+          "lon": 107.63,
+          "label": "Wuzhang Plains, south of the Wei River",
+          "labelI18n": {
+            "en": "Wuzhang Plains, south of the Wei River",
+            "zh": "渭水以南的五丈原"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-person-liubei",
+      "china-person-simayi",
+      "china-person-sunquan"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual biography from inspected primary texts and specialist interpretation. Inherited directory lifespan and itinerary are not evidence.",
+      "reviewLimit": {
+        "en": "The marker represents an attested setting, not a reconstructed journey. Ancient speeches and anecdotes are treated as transmitted narrative.",
+        "zh": "地图点代表有文献依据的历史场景，不是复原行程。古代言辞与轶事按传世叙事处理。"
+      }
+    }
+  },
+  {
+    "id": "china-person-guanyu",
+    "name": {
+      "en": "Guan Yu",
+      "zh": "关羽"
+    },
+    "title": {
+      "en": "Guan Yu · Loyalty and a contested frontier",
+      "zh": "关羽 · 忠诚与争夺中的边地"
+    },
+    "kind": "person",
+    "sourceProfileId": "china-person-guanyu",
+    "start": 200,
+    "end": 219,
+    "location": {
+      "lat": 30.35,
+      "lon": 112.2,
+      "label": "Jiangling, strategic center in Jingzhou",
+      "labelI18n": {
+        "en": "Jiangling, strategic center in Jingzhou",
+        "zh": "荆州战略中心江陵"
+      }
+    },
+    "locationPrecision": "representative",
+    "region": "east-asia",
+    "theme": "states",
+    "importance": 3,
+    "summary": {
+      "en": "Guan Yu's recorded career was shaped by divided loyalties and the strategic importance of Jingzhou. Captured by Cao Cao in 200, he served briefly in Cao's army and killed Yan Liang at Baima before returning to Liu Bei. Later he commanded the territory left behind when Liu Bei established himself in the west. His offensive toward Fancheng in 219 gained an unexpected advantage when floods overwhelmed an opposing army. Yet Sun Quan's forces struck at his rear, took Jiangling and broke his army's cohesion. Guan Yu was captured and killed. The surviving biography supplies a compact history of service, military success and collapse; famous scenes from later storytelling should not silently replace that sequence.",
+      "zh": "关羽的文献生涯与效忠对象的变化、荆州的战略地位紧密相连。200年，他被曹操俘获，短暂为其作战，在白马杀颜良，随后返回刘备身边。刘备在西方建立根据地后，关羽负责留下的荆州地区。219年进攻樊城时，洪水冲垮敌军，使他一度取得优势。然而孙权军袭击后方，夺取江陵，瓦解了其部队的凝聚力。关羽最终被俘并遭杀害。传世列传提供的是一段紧凑的效力、胜利与崩溃史，后世讲述中的著名场景不应在没有说明的情况下代替这一顺序。"
+    },
+    "dateNote": {
+      "en": "Focus: 200–219. The 214 Jingzhou command follows Liu Bei’s conquest of Yi; the biography dates the last campaign to Jian’an 24.",
+      "zh": "重点为200—219年。214年荆州统兵承接刘备取得益州；最后战役在传记中系于建安二十四年。"
+    },
+    "sources": [
+      {
+        "title": "Chen Shou, Sanguozhi, chapter 36",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/三國志/卷36",
+        "evidenceNote": "Guan Yu’s biography records 200 service at Baima, later Jingzhou responsibility, the 219 flood, rear attack and death. Its unnamed physician is not identified as Hua Tuo; no Peach Garden oath or Five Passes episode is imported.",
+        "evidenceNoteZh": "关羽传记200年白马作战、后来的荆州职责、219年洪水、后方遇袭与死亡。未把未具名医师认定为华佗，也未引入桃园结义或过五关情节。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Chen Shou, Sanguozhi, chapter 32",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/三國志/卷32",
+        "evidenceNote": "Dates Liu Bei’s conquest of Chengdu to Jian’an 19, anchoring the Jingzhou command in 214.",
+        "evidenceNoteZh": "将刘备取得成都系于建安十九年，为214年荆州统兵提供时间依据。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 200,
+        "title": {
+          "en": "Service and return",
+          "zh": "短暂效力后归队"
+        },
+        "description": {
+          "en": "After service under Cao Cao at Baima, Guan Yu rejoined Liu Bei.",
+          "zh": "在曹操部下参加白马战事后，关羽返回刘备身边。"
+        },
+        "location": {
+          "lat": 35.58,
+          "lon": 114.52,
+          "label": "Baima region on the Yellow River; approximate",
+          "labelI18n": {
+            "en": "Baima region on the Yellow River; approximate",
+            "zh": "黄河白马一带；约指"
+          }
+        },
+        "approximate": true
+      },
+      {
+        "year": 214,
+        "title": {
+          "en": "Holding Jingzhou",
+          "zh": "留守荆州"
+        },
+        "description": {
+          "en": "Liu Bei’s western conquest left Guan Yu responsible for the eastern base.",
+          "zh": "刘备西方征服之后，关羽负责东部根据地。"
+        },
+        "location": {
+          "lat": 30.35,
+          "lon": 112.2,
+          "label": "Jiangling, strategic center in Jingzhou",
+          "labelI18n": {
+            "en": "Jiangling, strategic center in Jingzhou",
+            "zh": "荆州战略中心江陵"
+          }
+        }
+      },
+      {
+        "year": 219,
+        "title": {
+          "en": "Success turns to collapse",
+          "zh": "胜势转为败局"
+        },
+        "description": {
+          "en": "Floods aided his Fancheng offensive, but the loss of his rear to Sun Quan ended the campaign and his life.",
+          "zh": "洪水有利于樊城攻势，但后方落入孙权之手，最终导致败亡。"
+        },
+        "location": {
+          "lat": 32.04,
+          "lon": 112.14,
+          "label": "Fancheng, across the Han River from Xiangyang",
+          "labelI18n": {
+            "en": "Fancheng, across the Han River from Xiangyang",
+            "zh": "汉水北岸、与襄阳相对的樊城"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-person-liubei",
+      "china-person-sunquan",
+      "china-person-luxun"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual biography from inspected primary texts and specialist interpretation. Inherited directory lifespan and itinerary are not evidence.",
+      "reviewLimit": {
+        "en": "The marker represents an attested setting, not a reconstructed journey. Ancient speeches and anecdotes are treated as transmitted narrative.",
+        "zh": "地图点代表有文献依据的历史场景，不是复原行程。古代言辞与轶事按传世叙事处理。"
+      }
+    }
+  },
+  {
+    "id": "china-person-zhouyu",
+    "name": {
+      "en": "Zhou Yu",
+      "zh": "周瑜"
+    },
+    "title": {
+      "en": "Zhou Yu · Coalition command on the Yangzi",
+      "zh": "周瑜 · 长江上的联军指挥"
+    },
+    "kind": "person",
+    "sourceProfileId": "china-person-zhouyu",
+    "start": 198,
+    "end": 209,
+    "location": {
+      "lat": 30.35,
+      "lon": 112.2,
+      "label": "Jiangling, strategic center in Jingzhou",
+      "labelI18n": {
+        "en": "Jiangling, strategic center in Jingzhou",
+        "zh": "荆州战略中心江陵"
+      }
+    },
+    "locationPrecision": "representative",
+    "region": "east-asia",
+    "theme": "states",
+    "importance": 3,
+    "summary": {
+      "en": "Zhou Yu's command depended on cooperation as well as tactical decisions. A companion of Sun Ce, he later helped sustain Sun Quan's authority. When Cao Cao moved south, Zhou Yu argued that distance, disease and unfamiliar river warfare limited the invading army. At Red Cliffs he served alongside Cheng Pu and allied with Liu Bei; the biography credits Huang Gai with proposing the fire attack. Victory did not finish the campaign. Fighting around Jiangling continued against Cao Ren, and Zhou Yu was wounded before the city changed hands. These linked operations reveal a war of logistics, officers and coalition interests. They also make room for the many participants obscured when the battle is reduced to one brilliant hero.",
+      "zh": "周瑜的指挥既依靠战术，也依靠合作。他早年与孙策相交，后来支持孙权维持统治。曹操南下时，周瑜指出远距离作战、疾病和不熟悉水战对来军的限制。赤壁之战，他与程普共同统兵，并与刘备合作；列传把提出火攻之计的功劳归给黄盖。胜利没有结束整个战役，在江陵与曹仁的战斗仍持续进行，周瑜受伤后又继续督战，直到城池易手。把这些行动连起来，可以看到粮运、将领和联盟利益共同构成的战争，也让被单一英雄叙事遮蔽的参与者重新出现。"
+    },
+    "dateNote": {
+      "en": "Focus: return to Sun Ce’s service in 198, Red Cliffs in 208 and the Jiangling settlement in 209. No uncertain death-site identification is used as a map point.",
+      "zh": "重点为198年重归孙策、208年赤壁及209年江陵战后安排。不以有争议的去世地点作地图定位。"
+    },
+    "sources": [
+      {
+        "title": "Chen Shou, Sanguozhi, chapter 54",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/三國志/卷54",
+        "evidenceNote": "Zhou Yu section gives Jian’an 3 service, resistance arguments, shared command, Huang Gai’s proposal and the Jiangling fighting. Embedded speeches are treated as the historian’s account.",
+        "evidenceNoteZh": "周瑜部分记建安三年归队、抵抗理由、共同指挥、黄盖建议与江陵战事；所载言辞作为史家的记述。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Chen Shou, Sanguozhi, chapter 47",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/三國志/卷47",
+        "evidenceNote": "Jian’an 13–14 dates Red Cliffs and Cao Ren’s withdrawal from Jiangling, followed by Zhou Yu’s appointment as Nanjun administrator.",
+        "evidenceNoteZh": "建安十三至十四年定位赤壁、曹仁撤离江陵及周瑜任南郡太守。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 198,
+        "title": {
+          "en": "Returning to Sun Ce",
+          "zh": "归于孙策"
+        },
+        "description": {
+          "en": "Zhou Yu returned to the southeastern coalition and received a military command.",
+          "zh": "周瑜返回东南阵营并受任统兵。"
+        },
+        "location": {
+          "lat": 31.3,
+          "lon": 120.59,
+          "label": "Wu, near modern Suzhou",
+          "labelI18n": {
+            "en": "Wu, near modern Suzhou",
+            "zh": "吴县，近今苏州"
+          }
+        }
+      },
+      {
+        "year": 208,
+        "title": {
+          "en": "Shared command at Red Cliffs",
+          "zh": "赤壁共同统兵"
+        },
+        "description": {
+          "en": "Zhou Yu and Cheng Pu led forces allied with Liu Bei; Huang Gai’s fire attack forms part of the account.",
+          "zh": "周瑜与程普领兵，联合刘备；文献记黄盖参与策划火攻。"
+        },
+        "location": {
+          "lat": 29.88,
+          "lon": 113.6,
+          "label": "Red Cliffs region on the middle Yangzi; approximate",
+          "labelI18n": {
+            "en": "Red Cliffs region on the middle Yangzi; approximate",
+            "zh": "长江中游赤壁一带；约指"
+          }
+        }
+      },
+      {
+        "year": 209,
+        "title": {
+          "en": "Jiangling secured",
+          "zh": "取得江陵"
+        },
+        "description": {
+          "en": "Cao Ren withdrew after prolonged fighting, and Zhou Yu became Nanjun administrator.",
+          "zh": "长期战斗后曹仁撤离，周瑜出任南郡太守。"
+        },
+        "location": {
+          "lat": 30.35,
+          "lon": 112.2,
+          "label": "Jiangling, strategic center in Jingzhou",
+          "labelI18n": {
+            "en": "Jiangling, strategic center in Jingzhou",
+            "zh": "荆州战略中心江陵"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-person-sunquan",
+      "china-person-liubei",
+      "china-person-caocao"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual biography from inspected primary texts and specialist interpretation. Inherited directory lifespan and itinerary are not evidence.",
+      "reviewLimit": {
+        "en": "The marker represents an attested setting, not a reconstructed journey. Ancient speeches and anecdotes are treated as transmitted narrative.",
+        "zh": "地图点代表有文献依据的历史场景，不是复原行程。古代言辞与轶事按传世叙事处理。"
+      }
+    }
+  },
+  {
+    "id": "china-person-luxun",
+    "name": {
+      "en": "Lu Xun",
+      "zh": "陆逊"
+    },
+    "title": {
+      "en": "Lu Xun · Patience, command and coercion",
+      "zh": "陆逊 · 等待、指挥与强制"
+    },
+    "kind": "person",
+    "sourceProfileId": "china-person-luxun",
+    "start": 219,
+    "end": 228,
+    "location": {
+      "lat": 32.06,
+      "lon": 118.79,
+      "label": "Jianye, Wu political center; later Jiankang",
+      "labelI18n": {
+        "en": "Jianye, Wu political center; later Jiankang",
+        "zh": "吴国政治中心建业，后称建康"
+      }
+    },
+    "locationPrecision": "representative",
+    "region": "east-asia",
+    "theme": "states",
+    "importance": 3,
+    "summary": {
+      "en": "Lu Xun's career connects the expansion of Wu with the demands it placed on local society. His early commands drew people into military service and registered households; the biography even preserves criticism that he took people unjustly. In 219 he helped Lü Meng prepare the seizure of Guan Yu's rear. Against Liu Bei in 222, he resisted impatient colleagues, waited for an opportunity and used fire to break the enemy camps. A further victory over Wei at Shiting strengthened his standing. Military achievement rested on managing fellow commanders and drawing resources from the countryside. This Lu Xun is the third-century general, whose name and historical setting should remain distinct from the modern writer Lu Xun.",
+      "zh": "陆逊的经历把吴国扩张与地方社会承担的要求联系起来。早期统兵时，他将人口纳入军役和编户，传记甚至保存了他侵取民众的批评。219年，他协助吕蒙准备袭取关羽后方。222年对抗刘备时，他压住将领急战的要求，等待时机，再用火攻击破敌营。后来在石亭击败魏军，又巩固了其地位。军功依赖对同僚的协调，也依赖从乡村取得的资源。此处的陆逊是三世纪将领，姓名的英文拼写虽与现代作家鲁迅相近，人物和时代必须保持区分。"
+    },
+    "dateNote": {
+      "en": "Focus: the 219 Jingzhou operation, Yiling in 222 and Shiting in 228. These dated commands replace an unverified inherited lifespan.",
+      "zh": "重点为219年荆州行动、222年夷陵及228年石亭，采用有纪年的统兵活动，不沿用未经核实的生卒年。"
+    },
+    "sources": [
+      {
+        "title": "Chen Shou, Sanguozhi, chapter 58",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/三國志/卷58",
+        "evidenceNote": "Supports coerced recruitment and registration, Chunyu Shi’s criticism, the Jian’an 24 Jingzhou operation, Huangwu 1 Yiling and Huangwu 7 victory over Cao Xiu.",
+        "evidenceNoteZh": "支持征募与编户中的强制、淳于式批评、建安二十四年荆州行动、黄武元年夷陵及七年击败曹休。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Chen Shou, Sanguozhi, chapter 47",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/三國志/卷47",
+        "evidenceNote": "Huangwu 7 explicitly identifies the battle against Cao Xiu as Shiting.",
+        "evidenceNoteZh": "黄武七年明确将对曹休之战定位于石亭。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 219,
+        "title": {
+          "en": "Taking the rear",
+          "zh": "袭取后方"
+        },
+        "description": {
+          "en": "Diplomacy and concealed preparations helped Wu seize Guan Yu’s base.",
+          "zh": "外交往来与隐蔽准备帮助吴军夺取关羽根据地。"
+        },
+        "location": {
+          "lat": 30.35,
+          "lon": 112.2,
+          "label": "Jiangling, strategic center in Jingzhou",
+          "labelI18n": {
+            "en": "Jiangling, strategic center in Jingzhou",
+            "zh": "荆州战略中心江陵"
+          }
+        }
+      },
+      {
+        "year": 222,
+        "title": {
+          "en": "Yiling",
+          "zh": "夷陵之战"
+        },
+        "description": {
+          "en": "Lu Xun delayed the decisive attack before breaking Liu Bei’s camps.",
+          "zh": "陆逊等待时机，再发动决定性攻击，击破刘备营垒。"
+        },
+        "location": {
+          "lat": 30.56,
+          "lon": 111.45,
+          "label": "Yiling–Xiaoting region, near modern Yichang",
+          "labelI18n": {
+            "en": "Yiling–Xiaoting region, near modern Yichang",
+            "zh": "夷陵—猇亭一带，近今宜昌"
+          }
+        }
+      },
+      {
+        "year": 228,
+        "title": {
+          "en": "Shiting",
+          "zh": "石亭之战"
+        },
+        "description": {
+          "en": "A coordinated Wu operation defeated Cao Xiu’s invading army.",
+          "zh": "吴军协同作战，击败曹休进军。"
+        },
+        "location": {
+          "lat": 30.65,
+          "lon": 116.57,
+          "label": "Shiting region, western Anhui; approximate",
+          "labelI18n": {
+            "en": "Shiting region, western Anhui; approximate",
+            "zh": "皖西石亭一带；约指"
+          }
+        },
+        "approximate": true
+      }
+    ],
+    "relatedIds": [
+      "china-person-sunquan",
+      "china-person-guanyu",
+      "china-person-liubei"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual biography from inspected primary texts and specialist interpretation. Inherited directory lifespan and itinerary are not evidence.",
+      "reviewLimit": {
+        "en": "The marker represents an attested setting, not a reconstructed journey. Ancient speeches and anecdotes are treated as transmitted narrative.",
+        "zh": "地图点代表有文献依据的历史场景，不是复原行程。古代言辞与轶事按传世叙事处理。"
+      }
+    }
+  },
+  {
+    "id": "china-person-simayi",
+    "name": {
+      "en": "Sima Yi",
+      "zh": "司马懿"
+    },
+    "title": {
+      "en": "Sima Yi · From Wei commander to family power",
+      "zh": "司马懿 · 从魏臣到家族权力"
+    },
+    "kind": "person",
+    "sourceProfileId": "china-person-simayi",
+    "start": 238,
+    "end": 251,
+    "location": {
+      "lat": 34.68,
+      "lon": 112.45,
+      "label": "Luoyang, imperial capital",
+      "labelI18n": {
+        "en": "Luoyang, imperial capital",
+        "zh": "帝都洛阳"
+      }
+    },
+    "locationPrecision": "representative",
+    "region": "east-asia",
+    "theme": "states",
+    "importance": 3,
+    "summary": {
+      "en": "Sima Yi served the Cao-Wei state before his family displaced it. Campaigns and court appointments gave him authority across military and civil affairs. In 238 he conquered the Gongsun regime in Liaodong; the Jin history records extensive killing after Xiangping fell, alongside its praise of his generalship. The decisive move at the center came in 249, when he seized control while Cao Shuang accompanied the emperor to the Gaoping tombs. Promises of retirement were followed by executions. Further repression secured his position before his death in 251. He did not reign as emperor during his lifetime. The imperial title used by the Jinshu belongs to the dynasty his descendants later founded and shapes its retrospective account.",
+      "zh": "司马懿先为曹魏效力，后来其家族取而代之。战役与朝廷任命使他掌握横跨军政的权力。238年，他征服辽东公孙氏政权；《晋书》在赞扬统兵能力的同时，也记载襄平陷落后的大规模杀戮。249年，曹爽陪皇帝谒高平陵时，他在京城夺取控制权。许以免官退居的安排，随后转成诛杀。进一步镇压反对力量后，他于251年去世。司马懿生前并未当皇帝，《晋书》所用帝号来自其后人建立王朝后的追尊，也影响了史书回顾其生涯的方式。"
+    },
+    "dateNote": {
+      "en": "Focus: the 238 Liaodong campaign, 249 coup and death in 251. Jinshu’s posthumous imperial nomenclature is distinguished from his lifetime offices.",
+      "zh": "重点为238年辽东战役、249年政变及251年去世。区分《晋书》追尊帝号与生前官职。"
+    },
+    "sources": [
+      {
+        "title": "Jinshu, chapter 1",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/晉書/卷001",
+        "evidenceNote": "Jingchu 2 gives the Liaodong campaign and killings after Xiangping; Jiaping 1 records the coup and executions; Jiaping 3 records death and later posthumous titles. Praise and portent stories are not adopted as independent evidence.",
+        "evidenceNoteZh": "景初二年记辽东战役及襄平陷落后的杀戮，嘉平元年记政变与诛杀，三年记去世及后来的追尊。颂扬与征兆故事不作为独立证据。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 238,
+        "title": {
+          "en": "Liaodong conquered",
+          "zh": "征服辽东"
+        },
+        "description": {
+          "en": "The fall of Xiangping ended Gongsun rule and was followed by killings recorded in the dynastic history.",
+          "zh": "襄平陷落结束公孙氏统治，正史同时记载随后的杀戮。"
+        },
+        "location": {
+          "lat": 41.27,
+          "lon": 123.17,
+          "label": "Xiangping, modern Liaoyang region",
+          "labelI18n": {
+            "en": "Xiangping, modern Liaoyang region",
+            "zh": "襄平，今辽阳一带"
+          }
+        }
+      },
+      {
+        "year": 249,
+        "title": {
+          "en": "The Gaoping coup",
+          "zh": "高平陵政变"
+        },
+        "description": {
+          "en": "Sima Yi took control in Luoyang while Cao Shuang was outside the capital.",
+          "zh": "曹爽离京时，司马懿在洛阳夺权。"
+        },
+        "location": {
+          "lat": 34.68,
+          "lon": 112.45,
+          "label": "Luoyang, imperial capital",
+          "labelI18n": {
+            "en": "Luoyang, imperial capital",
+            "zh": "帝都洛阳"
+          }
+        }
+      },
+      {
+        "year": 251,
+        "title": {
+          "en": "Death before a dynasty",
+          "zh": "王朝建立之前去世"
+        },
+        "description": {
+          "en": "He died while still a Wei minister; imperial honors came later under his descendants.",
+          "zh": "他去世时仍为魏臣，帝号来自后人的追尊。"
+        },
+        "location": {
+          "lat": 34.68,
+          "lon": 112.45,
+          "label": "Luoyang, imperial capital",
+          "labelI18n": {
+            "en": "Luoyang, imperial capital",
+            "zh": "帝都洛阳"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-person-zhugeliang",
+      "china-person-caocao",
+      "western-jin-dynasty"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual biography from inspected primary texts and specialist interpretation. Inherited directory lifespan and itinerary are not evidence.",
+      "reviewLimit": {
+        "en": "The marker represents an attested setting, not a reconstructed journey. Ancient speeches and anecdotes are treated as transmitted narrative.",
+        "zh": "地图点代表有文献依据的历史场景，不是复原行程。古代言辞与轶事按传世叙事处理。"
+      }
+    }
+  },
+  {
+    "id": "china-person-wangxizhi",
+    "name": {
+      "en": "Wang Xizhi",
+      "zh": "王羲之"
+    },
+    "title": {
+      "en": "Wang Xizhi · A gathering preserved through copies",
+      "zh": "王羲之 · 由摹本延续的雅集"
+    },
+    "kind": "person",
+    "sourceProfileId": "china-person-wangxizhi",
+    "start": 353,
+    "end": 355,
+    "location": {
+      "lat": 30.0,
+      "lon": 120.58,
+      "label": "Kuaiji, near modern Shaoxing",
+      "labelI18n": {
+        "en": "Kuaiji, near modern Shaoxing",
+        "zh": "会稽，今绍兴附近"
+      }
+    },
+    "locationPrecision": "representative",
+    "region": "east-asia",
+    "theme": "culture",
+    "importance": 3,
+    "summary": {
+      "en": "Wang Xizhi joined literary friendship and official service in the Eastern Jin world. His most celebrated work is associated with a gathering at the Orchid Pavilion in 353, where poetry and wine prompted reflection on pleasure, change and mortality. The preface became a model for calligraphers across later centuries, but the surviving objects belong to a history of copying, collecting, engraving and attribution. They should not all be described as his original handwriting. His biography also records administrative concerns and a bitter dispute with Wang Shu, followed by a formal oath to leave office in 355. Reading the gathering beside that withdrawal brings artistic sociability and the pressures of elite public life into the same frame.",
+      "zh": "王羲之的生活把东晋士人的文学交游与官职相连。与他联系最深的作品，来自353年的兰亭聚会：诗与酒引出对欢乐、变化和生命终结的思考。《兰亭序》后来成为书法学习的典范，但今天所见实物属于摹写、收藏、刻石与鉴定的漫长历史，不能一律称为王羲之亲笔原迹。传记还记载他的行政关切，与王述的冲突，以及355年辞官后向父母墓所作的誓言。将雅集与退职并读，可以把艺术交往和士族公共生活的压力放回同一幅历史画面。"
+    },
+    "dateNote": {
+      "en": "Focus: the Orchid Pavilion gathering in 353 and the resignation oath dated Yonghe 11 (355). Two documented events are used; disputed or reconstructed lifespan dates are omitted.",
+      "zh": "重点为353年兰亭雅集及永和十一年（355）的辞官誓言，仅使用两个有据事件，不填入有争议或推算的生卒年。"
+    },
+    "sources": [
+      {
+        "title": "Jinshu, chapter 80",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/晉書/卷080",
+        "evidenceNote": "Preserves the Orchid Pavilion preface, administrative letters, the Wang Shu dispute and the explicitly dated 355 oath. Later anecdotes do not supply additional dated events.",
+        "evidenceNoteZh": "保存兰亭序文、行政书信、与王述的冲突及明确系于355年的誓言；后世轶事不能增添有日期的事件。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "The Making of Masterpieces: Copy of the Orchid Pavilion Preface",
+        "publisher": "Hong Kong Palace Museum",
+        "url": "https://www.hkpm.org.hk/en/exhibition/the-making-of-masterpieces-chinese-painting-and-calligraphy-from-the-palace-museum",
+        "evidenceNote": "Object entry dates the gathering to 353 and identifies a Tang copy attributed to Yu Shinan; it describes changing attribution, imperial collecting and later rubbings. The alleged burial of the original is not asserted as fact.",
+        "evidenceNoteZh": "展品条目将聚会定在353年，并把所展作品列为传虞世南唐摹本；说明归属变化、宫廷收藏及后世拓刻。不把原迹随葬之说当作事实。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 353,
+        "title": {
+          "en": "Orchid Pavilion gathering",
+          "zh": "兰亭雅集"
+        },
+        "description": {
+          "en": "A preface to the gathered poems became a lasting model through later copies and reproductions.",
+          "zh": "为聚会诗作撰写的序文，通过后世摹本与复制成为持久典范。"
+        },
+        "location": {
+          "lat": 29.91,
+          "lon": 120.5,
+          "label": "Orchid Pavilion region, near Shaoxing",
+          "labelI18n": {
+            "en": "Orchid Pavilion region, near Shaoxing",
+            "zh": "绍兴附近兰亭一带"
+          }
+        }
+      },
+      {
+        "year": 355,
+        "title": {
+          "en": "An oath to leave office",
+          "zh": "辞官誓言"
+        },
+        "description": {
+          "en": "The biography preserves a dated declaration that he would not seek office again.",
+          "zh": "传记保存了有明确纪年的不再出仕誓言。"
+        },
+        "location": {
+          "lat": 30.0,
+          "lon": 120.58,
+          "label": "Kuaiji, near modern Shaoxing",
+          "labelI18n": {
+            "en": "Kuaiji, near modern Shaoxing",
+            "zh": "会稽，今绍兴附近"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "eastern-jin-dynasty",
+      "china-person-xiean"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual biography from inspected primary texts and specialist interpretation. Inherited directory lifespan and itinerary are not evidence.",
+      "reviewLimit": {
+        "en": "The marker represents an attested setting, not a reconstructed journey. Ancient speeches and anecdotes are treated as transmitted narrative.",
+        "zh": "地图点代表有文献依据的历史场景，不是复原行程。古代言辞与轶事按传世叙事处理。"
+      }
+    },
+    "chronologyReview": {
+      "status": "limited-dated-evidence",
+      "note": {
+        "en": "Only two independently anchored events are needed for this focused profile; no third date is invented from undated anecdotes.",
+        "zh": "此篇聚焦传记仅有两个可定位事件，不以未纪年的轶事编造第三个日期。"
+      },
+      "sourceURLs": [
+        "https://zh.wikisource.org/wiki/晉書/卷080",
+        "https://www.hkpm.org.hk/en/exhibition/the-making-of-masterpieces-chinese-painting-and-calligraphy-from-the-palace-museum"
+      ],
+      "checkedAt": "2026-11-09"
+    }
+  },
+  {
+    "id": "china-person-xiean",
+    "name": {
+      "en": "Xie An",
+      "zh": "谢安"
+    },
+    "title": {
+      "en": "Xie An · Keeping a court together in crisis",
+      "zh": "谢安 · 危局中维系朝廷"
+    },
+    "kind": "person",
+    "sourceProfileId": "china-person-xiean",
+    "start": 373,
+    "end": 385,
+    "location": {
+      "lat": 32.06,
+      "lon": 118.79,
+      "label": "Jianye, Wu political center; later Jiankang",
+      "labelI18n": {
+        "en": "Jianye, Wu political center; later Jiankang",
+        "zh": "吴国政治中心建业，后称建康"
+      }
+    },
+    "locationPrecision": "representative",
+    "region": "east-asia",
+    "theme": "states",
+    "importance": 3,
+    "summary": {
+      "en": "Xie An's reputation for cultivated withdrawal did not keep him outside government. After years among literary companions around Kuaiji, he entered service and became central to the Eastern Jin court. His task involved balancing the imperial family, powerful ministers and commanders with regional bases. When Former Qin invaded in 383, Xie Shi, Xie Xuan and other generals fought the campaign while Xie An coordinated from the political center. The Jinshu's famous story of his calm reaction to victory is a crafted portrait of composure, not a direct view into his thoughts. Rivalries persisted after the danger passed. His career shows that preserving a regime required managing relationships as well as winning a battle.",
+      "zh": "谢安以退隐风雅著称，却并未始终置身政治之外。他早年在会稽一带与文人交游，后来出仕，逐渐成为东晋朝廷的核心人物。他需要在皇族、权臣和拥有地方军力的将领之间维持平衡。383年前秦入侵时，谢石、谢玄等将领在前线作战，谢安则在政治中心协调。《晋书》中得胜仍从容下棋的著名故事，是塑造镇定形象的叙事，并非对其内心的直接观察。危机解除后，权力竞争仍在继续。他的经历说明，维持政权既需要战场胜利，也需要处理人与人之间的关系。"
+    },
+    "dateNote": {
+      "en": "Focus: appointment as chief deputy in the Secretariat in 373, the Fei River campaign in 383 and death in 385. Annals supply the dates; the biography supplies political context.",
+      "zh": "重点为373年任尚书仆射、383年淝水战役及385年去世。本纪提供纪年，列传提供政治背景。"
+    },
+    "sources": [
+      {
+        "title": "Jinshu, chapter 79",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/晉書/卷079",
+        "evidenceNote": "Xie An section supports Kuaiji friendships, entry into service, management of court factions, delegation of campaign commands and later withdrawal. The go-playing episode is treated as literary characterization.",
+        "evidenceNoteZh": "谢安部分支持会稽交游、出仕、朝廷势力协调、委任前线将领及后来的出镇；围棋故事作为文学化人物塑造。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Jinshu, chapter 9",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/晉書/卷009",
+        "evidenceNote": "Ningkang 1 records the 373 appointment; Taiyuan 8 identifies the 383 battlefield commanders; Taiyuan 10 records death in 385.",
+        "evidenceNoteZh": "宁康元年记373年任职，太元八年记383年前线诸将，太元十年记385年去世。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 373,
+        "title": {
+          "en": "A leading court office",
+          "zh": "进入中枢要职"
+        },
+        "description": {
+          "en": "After Huan Wen’s death, Xie An became Shangshu Pushe, a leading administrative office.",
+          "zh": "桓温去世后，谢安任尚书仆射，进入行政中枢。"
+        },
+        "location": {
+          "lat": 32.06,
+          "lon": 118.79,
+          "label": "Jianye, Wu political center; later Jiankang",
+          "labelI18n": {
+            "en": "Jianye, Wu political center; later Jiankang",
+            "zh": "吴国政治中心建业，后称建康"
+          }
+        }
+      },
+      {
+        "year": 383,
+        "title": {
+          "en": "The Fei River crisis",
+          "zh": "淝水危机"
+        },
+        "description": {
+          "en": "Xie An coordinated the response while Xie Shi, Xie Xuan and other commanders fought the invading army.",
+          "zh": "谢安协调应对，谢石、谢玄等将领在前线抵抗入侵。"
+        },
+        "location": {
+          "lat": 32.06,
+          "lon": 118.79,
+          "label": "Jianye, Wu political center; later Jiankang",
+          "labelI18n": {
+            "en": "Jianye, Wu political center; later Jiankang",
+            "zh": "吴国政治中心建业，后称建康"
+          }
+        }
+      },
+      {
+        "year": 385,
+        "title": {
+          "en": "Death amid court rivalry",
+          "zh": "朝廷竞争中的终点"
+        },
+        "description": {
+          "en": "He returned from his regional command and died at the capital.",
+          "zh": "他从地方统兵任所返回都城后去世。"
+        },
+        "location": {
+          "lat": 32.06,
+          "lon": 118.79,
+          "label": "Jianye, Wu political center; later Jiankang",
+          "labelI18n": {
+            "en": "Jianye, Wu political center; later Jiankang",
+            "zh": "吴国政治中心建业，后称建康"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "eastern-jin-dynasty",
+      "china-person-wangxizhi",
+      "china-person-liuyu"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual biography from inspected primary texts and specialist interpretation. Inherited directory lifespan and itinerary are not evidence.",
+      "reviewLimit": {
+        "en": "The marker represents an attested setting, not a reconstructed journey. Ancient speeches and anecdotes are treated as transmitted narrative.",
+        "zh": "地图点代表有文献依据的历史场景，不是复原行程。古代言辞与轶事按传世叙事处理。"
+      }
+    }
+  },
+  {
+    "id": "china-person-taoyuanming",
+    "name": {
+      "en": "Tao Yuanming",
+      "zh": "陶渊明"
+    },
+    "title": {
+      "en": "Tao Yuanming · The work of returning home",
+      "zh": "陶渊明 · 归田并非无事"
+    },
+    "kind": "person",
+    "sourceProfileId": "china-person-taoyuanming",
+    "start": 405,
+    "end": 427,
+    "location": {
+      "lat": 29.7,
+      "lon": 115.95,
+      "label": "Chaisang, near modern Jiujiang",
+      "labelI18n": {
+        "en": "Chaisang, near modern Jiujiang",
+        "zh": "柴桑，今九江附近"
+      }
+    },
+    "locationPrecision": "representative",
+    "region": "east-asia",
+    "theme": "culture",
+    "importance": 3,
+    "summary": {
+      "en": "Tao Yuanming, also known as Tao Qian, made withdrawal from office a subject of lasting literary interest. Returning Home presents the decision through familiar things: children at the door, trees in a garden, a boat and the coming agricultural season. Yet the surviving biography and letters also speak of illness, poverty and worry about children carrying water and gathering fuel. Rural life was a choice with material consequences, not effortless escape. Later painters returned to the poem when considering their own relations with official power. The well-known account of refusing to bow for a small salary belongs to his biographical tradition; it should not crowd out the more searching conversation about dependence, work and dignity in his writing.",
+      "zh": "陶渊明又名陶潜，把辞官归田写成了长期引人思考的文学主题。《归去来兮辞》用门前的孩子、园中的树、行舟与将临的农时来呈现这一决定。然而传记与书信也谈到疾病、贫困，以及孩子挑水取薪的劳苦。乡居是带来实际后果的选择，并不是毫不费力的逃离。后来的画家反复表现这篇辞赋，借以思考自己与官场的关系。“不为五斗米折腰”的故事属于其传记传统，却不应遮盖作品中关于依赖、劳动和尊严的更深入讨论。"
+    },
+    "dateNote": {
+      "en": "Focus: the 405 resignation and Returning Home, through death in 427. Two dated anchors are used; literary scenes are not turned into separate calendar events.",
+      "zh": "重点为405年辞官与《归去来兮辞》至427年去世，使用两个有据日期，不把文学场景拆成独立纪年。"
+    },
+    "sources": [
+      {
+        "title": "Shen Yue, Songshu, chapter 93",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/宋書/卷93",
+        "evidenceNote": "Tao Qian section preserves the resignation tradition, Returning Home, letters concerning poverty and children’s labor, and death in Yuanjia 4. Literary first-person scenes are read as writing, not a literal daily log.",
+        "evidenceNoteZh": "陶潜部分保存辞官传统、《归去来兮辞》、谈贫困与子女劳作的书信，以及元嘉四年卒年。文学第一人称场景作为作品阅读，不作逐日日志。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "After Qian Xuan: Ode on Returning Home",
+        "publisher": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/art/collection/search/40311",
+        "evidenceNote": "Museum catalogue dates Tao’s poem to 405 after resignation and identifies the illustrated object as a fourteenth–fifteenth-century copy after Qian Xuan, supporting later artistic reception rather than a lifetime portrait.",
+        "evidenceNoteZh": "博物馆目录将陶诗定于405年辞官后，并将所藏画卷列为十四至十五世纪仿钱选作品，支持后世艺术接受史，并非生前肖像。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 405,
+        "title": {
+          "en": "Returning Home",
+          "zh": "归去来兮"
+        },
+        "description": {
+          "en": "Resignation became the setting for a poem about family, cultivation and the limits of official life.",
+          "zh": "辞官成为思考家庭、耕作与官场限制的辞赋背景。"
+        },
+        "location": {
+          "lat": 29.9,
+          "lon": 116.55,
+          "label": "Pengze region, the county of his final office",
+          "labelI18n": {
+            "en": "Pengze region, the county of his final office",
+            "zh": "彭泽一带，其最后任职的县域"
+          }
+        }
+      },
+      {
+        "year": 427,
+        "title": {
+          "en": "Death in Chaisang",
+          "zh": "柴桑去世"
+        },
+        "description": {
+          "en": "The Songshu dates his death to Yuanjia 4; later readers continued to reinterpret his choice of life.",
+          "zh": "《宋书》记其卒于元嘉四年，后世读者持续重新理解其生活选择。"
+        },
+        "location": {
+          "lat": 29.7,
+          "lon": 115.95,
+          "label": "Chaisang region, near modern Jiujiang",
+          "labelI18n": {
+            "en": "Chaisang region, near modern Jiujiang",
+            "zh": "柴桑一带，近今九江"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "eastern-jin-dynasty",
+      "china-person-wangxizhi",
+      "china-person-liuyu"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual biography from inspected primary texts and specialist interpretation. Inherited directory lifespan and itinerary are not evidence.",
+      "reviewLimit": {
+        "en": "The marker represents an attested setting, not a reconstructed journey. Ancient speeches and anecdotes are treated as transmitted narrative.",
+        "zh": "地图点代表有文献依据的历史场景，不是复原行程。古代言辞与轶事按传世叙事处理。"
+      }
+    },
+    "chronologyReview": {
+      "status": "limited-dated-evidence",
+      "note": {
+        "en": "The inspected sources establish resignation and death; the undated literary and biographical episodes do not justify a third dated milestone.",
+        "zh": "所查资料确定辞官与去世，未纪年的文学及传记情节不足以支持第三个日期。"
+      },
+      "sourceURLs": [
+        "https://zh.wikisource.org/wiki/宋書/卷93",
+        "https://www.metmuseum.org/art/collection/search/40311"
+      ],
+      "checkedAt": "2026-11-09"
+    }
+  },
+  {
+    "id": "china-person-liuyu",
+    "name": {
+      "en": "Liu Yu",
+      "zh": "刘裕"
+    },
+    "title": {
+      "en": "Liu Yu · Restoration becomes a new dynasty",
+      "zh": "刘裕 · 恢复旧朝与建立新朝"
+    },
+    "kind": "person",
+    "sourceProfileId": "china-person-liuyu",
+    "start": 404,
+    "end": 420,
+    "location": {
+      "lat": 32.06,
+      "lon": 118.79,
+      "label": "Jianye, Wu political center; later Jiankang",
+      "labelI18n": {
+        "en": "Jianye, Wu political center; later Jiankang",
+        "zh": "吴国政治中心建业，后称建康"
+      }
+    },
+    "locationPrecision": "representative",
+    "region": "east-asia",
+    "theme": "states",
+    "importance": 3,
+    "summary": {
+      "en": "Liu Yu first built his authority as a commander acting in the name of the Eastern Jin. In 404 his coalition rose against Huan Xuan and recovered the capital for the displaced dynasty. Subsequent campaigns increased his control over soldiers, appointments and territory. In 417 his generals captured Chang'an and ended Later Qin, but the northern gains proved difficult to hold after he returned east. The surviving history records the loss of the region in the following year. In 420 Liu Yu replaced the Jin emperor and founded the Liu-Song dynasty. The language of restoration had become the language of dynastic succession. His record connects military achievement with the problem of turning a personal command into a governing house.",
+      "zh": "刘裕最初以东晋名义统兵，逐渐建立权势。404年，他与盟友起兵反对桓玄，为被取代的晋朝夺回都城。此后的战役扩大了他对军队、官职与土地的控制。417年，麾下将领攻取长安，结束后秦，但他东归后，北方所得难以守住，史书记载次年关中失守。420年，刘裕取代晋帝，建立刘宋。恢复旧朝的语言转成了王朝更替的语言。他的经历将军事成就与另一道难题联系起来：如何把个人统兵的权力转为一个统治家族的制度。"
+    },
+    "dateNote": {
+      "en": "Focus: the 404 uprising, Chang’an campaign in 417 and accession in 420. Liu-Song is the fifth-century dynasty, distinct from the Song founded in 960.",
+      "zh": "重点为404年起兵、417年长安战事及420年称帝。刘宋为五世纪王朝，与960年建立的宋朝不同。"
+    },
+    "sources": [
+      {
+        "title": "Shen Yue, Songshu, chapter 1",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/宋書/卷1",
+        "evidenceNote": "Yuanxing 3 records the Jingkou uprising and recovery of the capital; the proclamation’s claim to restore Jin is used as political rhetoric, not proof of unanimous support.",
+        "evidenceNoteZh": "元兴三年记京口起兵与夺回都城；檄文恢复晋室的主张作为政治语言，不证明一致支持。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Shen Yue, Songshu, chapter 2",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/宋書/卷2",
+        "evidenceNote": "Yixi 13 records Wang Zhen’e’s capture of Chang’an and Liu Yu’s arrival; Yixi 14 records the breakdown of command and loss of Guanzhong.",
+        "evidenceNoteZh": "义熙十三年记王镇恶攻取长安及刘裕抵达，十四年记指挥体系破裂及关中失守。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Shen Yue, Songshu, chapter 3",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/宋書/卷3",
+        "evidenceNote": "Yongchu 1 records the 420 accession and change of reign title; the abdication ceremony is the new dynasty’s legitimating narrative.",
+        "evidenceNoteZh": "永初元年记420年登基与改元，禅让仪式属于新王朝的正统叙事。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 404,
+        "title": {
+          "en": "An uprising for Jin",
+          "zh": "以晋为名起兵"
+        },
+        "description": {
+          "en": "Liu Yu and allies rose at Jingkou and advanced against Huan Xuan.",
+          "zh": "刘裕与盟友在京口起兵，进攻桓玄。"
+        },
+        "location": {
+          "lat": 32.19,
+          "lon": 119.43,
+          "label": "Jingkou, modern Zhenjiang",
+          "labelI18n": {
+            "en": "Jingkou, modern Zhenjiang",
+            "zh": "京口，今镇江"
+          }
+        }
+      },
+      {
+        "year": 417,
+        "title": {
+          "en": "Chang’an captured",
+          "zh": "攻取长安"
+        },
+        "description": {
+          "en": "His generals ended Later Qin; holding the conquest would prove a separate challenge.",
+          "zh": "麾下将领结束后秦，守住征服所得却是另一项挑战。"
+        },
+        "location": {
+          "lat": 34.3,
+          "lon": 108.9,
+          "label": "Chang’an, former Later Qin capital",
+          "labelI18n": {
+            "en": "Chang’an, former Later Qin capital",
+            "zh": "后秦旧都长安"
+          }
+        }
+      },
+      {
+        "year": 420,
+        "title": {
+          "en": "Founding Liu-Song",
+          "zh": "建立刘宋"
+        },
+        "description": {
+          "en": "Liu Yu assumed the imperial title at Jiankang, ending Eastern Jin rule.",
+          "zh": "刘裕在建康称帝，结束东晋统治。"
+        },
+        "location": {
+          "lat": 32.06,
+          "lon": 118.79,
+          "label": "Jianye, Wu political center; later Jiankang",
+          "labelI18n": {
+            "en": "Jianye, Wu political center; later Jiankang",
+            "zh": "吴国政治中心建业，后称建康"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "eastern-jin-dynasty",
+      "china-person-xiean",
+      "china-person-taoyuanming"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual biography from inspected primary texts and specialist interpretation. Inherited directory lifespan and itinerary are not evidence.",
+      "reviewLimit": {
+        "en": "The marker represents an attested setting, not a reconstructed journey. Ancient speeches and anecdotes are treated as transmitted narrative.",
+        "zh": "地图点代表有文献依据的历史场景，不是复原行程。古代言辞与轶事按传世叙事处理。"
+      }
+    }
   }
 ]

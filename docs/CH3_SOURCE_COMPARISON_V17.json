@@ -1,0 +1,45 @@
+{
+  "checkedAt": "2026-11-09",
+  "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+  "sourceBlobs": {
+    "water": "ea79fbdf09f9e841852e8eccec2f78ca33d332ba",
+    "corridor": "70e049066702919ac3fbcb791fc0371ce5513475"
+  },
+  "waterComparison": {
+    "rivers": 187,
+    "lakes": 62,
+    "labels": 41,
+    "equalExceptLocalIDs": true
+  },
+  "corridorComparison": {
+    "count": 16,
+    "sourceCount": 16,
+    "fields": [
+      "kind",
+      "title.zh",
+      "summary.zh",
+      "segments",
+      "sourceSpan",
+      "start",
+      "end"
+    ],
+    "differences": [
+      {
+        "id": "china-corridor-wall-ming",
+        "field": "end",
+        "sourceValue": 9999,
+        "atlasValue": 2026,
+        "reason": "Atlas timeline maximum; original sourceSpan remains [1368,9999]."
+      },
+      {
+        "id": "china-corridor-canal-jinghang",
+        "field": "end",
+        "sourceValue": 9999,
+        "atlasValue": 2026,
+        "reason": "Atlas timeline maximum; original sourceSpan remains [1293,9999]."
+      }
+    ],
+    "unexpectedDifferences": 0
+  },
+  "meaning": "Byte-pinned source correspondence and implementation inventory; not independent historical or per-feature rights clearance."
+}
