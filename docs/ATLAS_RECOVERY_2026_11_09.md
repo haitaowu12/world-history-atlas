@@ -164,8 +164,10 @@ security configuration to replace it.
   and its linked research ledgers. The completed increment does not close all
   32 continuing regional workstreams or certify inherited linked material.
 - The last pushed pre-integration checkpoint is
-  `300c2708a1e0d46337c8f0918d3005a863b5300e`; the final integration checkpoint
-  is recorded in the following documentation save. Supported CUA review is
+  `300c2708a1e0d46337c8f0918d3005a863b5300e`. The completed tested release is
+  pushed at `07890359d4850611fd6e4aafe8d41d4b665c30a5`, tree
+  `451c765e70184517d02e5009d3ab334e892de650`, matching the tested local tree.
+  Supported CUA review is
   complete: desktop, 768/390/320-pixel layouts, English/Chinese, portrait and
   object credits, keyboard focus, one-point chronology and a shared reading
   restored at step 2/5. Screenshots and command output are saved under

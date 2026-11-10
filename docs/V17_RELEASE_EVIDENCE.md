@@ -8,7 +8,7 @@ The verified recovery baseline is [`3849fb809e9340e0a06ffa9329c0cdcdb3f733a0`](h
 
 The latest pushed checkpoint before final integration is [`300c2708a1e0d46337c8f0918d3005a863b5300e`](https://github.com/haitaowu12/world-history-atlas/commit/300c2708a1e0d46337c8f0918d3005a863b5300e). It preserves all 101 biography drafts, the media review and the CH3 source comparison. Earlier coherent checkpoints are retained in the branch history. That SHA is a recovery checkpoint, not the final integrated release receipt.
 
-**Final tested checkpoint:** the integration commit is followed by a documentation checkpoint recording its SHA. Main and the existing feature branch have not been overwritten or merged by this continuation.
+**Tested release checkpoint:** [`07890359d4850611fd6e4aafe8d41d4b665c30a5`](https://github.com/haitaowu12/world-history-atlas/commit/07890359d4850611fd6e4aafe8d41d4b665c30a5), tree `451c765e70184517d02e5009d3ab334e892de650`. The pushed tree matches the tested local tree, including prepared application/data files, research records, command output and screenshots. This receipt's subsequent documentation save records that successful push. Main and the existing feature branch have not been overwritten or merged by this continuation.
 
 ## Completed content scope
 
@@ -104,4 +104,4 @@ The deployment destination remains [the existing Firebase site](https://world-hi
 
 The workflow triggers were inspected before checkpoints: pushes to `main` or `feature/atlas-*`, pull requests, and manual dispatch can run `.github/workflows/firebase-hosting.yml`. The recovery branch is outside the push patterns, and checkpoints use `[skip ci]`. No pull request was opened, and no GitHub Actions workflow was dispatched, retried or triggered by this continuation. The user's pause remains in force before December 2026. GitHub Actions workload identity is not used as a substitute for the missing direct session.
 
-The remaining release step is publication and live verification when authorized Firebase access is available. Continuing research remains as itemized in the expansion plan, including inherited non-polygon provenance, older imported claims and further regional material.
+The remaining release step is publication and live verification when authorized Firebase access is available. Use the tested checkpoint on `review/atlas-completion-20261109` for that deployment; `main` still contains the earlier live release. Continuing research remains as itemized in the expansion plan, including inherited non-polygon provenance, older imported claims and further regional material.
