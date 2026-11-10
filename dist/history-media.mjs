@@ -8,13 +8,13 @@ const text = (value, lang) => typeof value === 'object' ? value?.[lang] || value
 // A portrait caption must say when an image is a later depiction.
 export function auditHistoryMedia(catalog, recordIds) {
   const errors = [], seen = new Set(), files = new Set(), records = new Set(recordIds);
-  if (catalog?.version !== 1 || !/^\d{4}-\d{2}-\d{2}$/.test(catalog?.reviewedAt || '') || !Array.isArray(catalog?.items)) return ['Media: invalid catalogue'];
+  if (![1,2].includes(catalog?.version) || !/^\d{4}-\d{2}-\d{2}$/.test(catalog?.reviewedAt || '') || !Array.isArray(catalog?.items)) return ['Media: invalid catalogue'];
   for (const item of catalog.items) {
     const fail = message => errors.push(`Media ${item.id || '(unnamed)'}: ${message}`);
     if (!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(item.id || '') || seen.has(item.id)) fail('invalid or duplicate identity');
     seen.add(item.id);
-    if (!['portrait','object','manuscript'].includes(item.kind)) fail('unknown image kind');
-    const representations={portrait:['historical-photograph','lifetime-portrait','ancient-royal-image','later-depiction'],object:['object-photograph'],manuscript:['manuscript-detail']};
+    if (!['portrait','object','manuscript','site','artwork','map'].includes(item.kind)) fail('unknown image kind');
+    const representations={portrait:['historical-photograph','lifetime-portrait','ancient-royal-image','later-depiction','modern-memorial'],object:['object-photograph'],manuscript:['manuscript-detail'],site:['site-photograph'],artwork:['historical-artwork'],map:['historical-map']};
     if (!representations[item.kind]?.includes(item.representation)) fail('missing or mismatched representation type');
     if (!Array.isArray(item.recordIds) || !item.recordIds.length || new Set(item.recordIds).size !== item.recordIds.length || item.recordIds.some(id => !records.has(id))) fail('unknown or duplicate record link');
     if (!assetPath(item.file) || files.has(item.file)) fail('invalid or duplicate local asset');
@@ -29,6 +29,13 @@ export function auditHistoryMedia(catalog, recordIds) {
     if (item.contextSources && (!Array.isArray(item.contextSources) || item.contextSources.some(source=>!bilingual(source.title)||!safeSourceURL(source.url)))) fail('invalid image context source');
     if (!/^\d{4}-\d{2}-\d{2}$/.test(item.checkedAt || '')) fail('missing source inspection date');
   }
+  const assetIds=new Set((catalog.items||[]).map(item=>item.id)),links=new Set();
+  for(const link of catalog.associations||[]) {
+    const key=link.assetId+'|'+link.recordId;
+    if(links.has(key)||!assetIds.has(link.assetId)||!records.has(link.recordId))errors.push('Media: invalid or duplicate association '+key);
+    links.add(key);
+    if(!['depicts-subject','named-person','related-work','named-site','historical-context'].includes(link.role)||!bilingual(link.context)||!safeSourceURL(link.evidenceUrl)||!/^\d{4}-\d{2}-\d{2}$/.test(link.checkedAt||''))errors.push('Media: incomplete association '+key);
+  }
   return errors;
 }
 
@@ -38,7 +45,17 @@ export function createHistoryMedia(catalog = {items:[]}) {
     if (!assetPath(item.file) || !safeSourceURL(item.sourceUrl) || !safeSourceURL(item.rights?.url)) continue;
     for (const id of item.recordIds || []) byRecord.set(id, [...(byRecord.get(id) || []), item]);
   }
+  const byAsset=new Map((catalog.items||[]).map(item=>[item.id,item]));
+  for(const link of catalog.associations||[]) {
+    const item=byAsset.get(link.assetId);
+    if(!item||!assetPath(item.file)||!safeSourceURL(link.evidenceUrl)||!bilingual(link.context))continue;
+    const items=(byRecord.get(link.recordId)||[]).filter(existing=>existing.id!==item.id);
+    byRecord.set(link.recordId,[...items,{...item,association:link}]);
+  }
   return {
+    items:()=>catalog.items||[],
+    coveredIds:()=>[...byRecord.keys()],
+    primary:id=>(byRecord.get(id)||[])[0]||null,
     forRecord: id => byRecord.get(id) || [],
     hasPortrait: id => (byRecord.get(id) || []).some(item => item.kind === 'portrait'),
     portrait: id => (byRecord.get(id) || []).find(item => item.kind === 'portrait') || null
@@ -54,7 +71,7 @@ export function mediaFigures(items, lang, escape) {
   const label = (en,zh) => lang === 'zh' ? zh : en;
   return items.map(item => `<figure class="history-figure history-figure-${item.kind}">
     <a class="history-image-link" href="./${escape(item.file)}" target="_blank" rel="noopener noreferrer" aria-label="${escape(label('Open full image: ','打开完整图像：')+text(item.title,lang))}" data-history-source="${escape(item.sourceUrl)}" data-history-source-label="${escape(label('Open collection record: ','打开馆藏记录：')+text(item.title,lang))}"><img src="./${escape(item.file)}" width="${item.width}" height="${item.height}" alt="${escape(text(item.alt,lang))}" loading="lazy" decoding="async" data-history-image><span class="history-image-fallback" hidden>${label('Image unavailable. Open the collection record; the caption remains below.','图像暂时不可用。可打开馆藏记录，说明仍保留在下方。')}</span></a>
-    <figcaption><strong>${escape(text(item.title,lang))}</strong><p>${escape(text(item.caption,lang))}</p><p class="history-image-interpretation">${escape(text(item.interpretation,lang))}</p><small>${escape(item.creator)} · ${escape(item.date)} · ${escape(item.institution)}</small><div class="history-image-credit"><a href="${escape(item.sourceUrl)}" target="_blank" rel="noopener noreferrer">${label('Collection record & credit','馆藏记录与图像来源')} ↗</a><a href="${escape(item.rights.url)}" target="_blank" rel="noopener noreferrer">${escape(item.rights.label)} ↗</a>${(item.contextSources||[]).filter(source=>safeSourceURL(source.url)).map(source=>`<a href="${escape(source.url)}" target="_blank" rel="noopener noreferrer">${escape(text(source.title,lang))} ↗</a>`).join('')}</div><details><summary>${label('Image reuse and interpretation','图像使用与解读说明')}</summary><p>${escape(text(item.rights.note,lang))}</p>${item.transformation?`<p>${escape(text(item.transformation,lang))}</p>`:''}<small>${label('Source inspected','来源查阅日期')}: ${escape(item.checkedAt)}</small></details></figcaption>
+    <figcaption>${item.association?`<p class="image-connection"><strong>${label('In this story','与本条目的联系')}</strong> ${escape(text(item.association.context,lang))}</p>`:''}<strong>${escape(text(item.title,lang))}</strong><p>${escape(text(item.caption,lang))}</p><p class="history-image-interpretation">${escape(text(item.interpretation,lang))}</p><small>${escape(item.creator)} · ${escape(item.date)} · ${escape(item.institution)}</small><div class="history-image-credit"><button class="text-button" data-action="visual-inspect" data-id="${escape(item.id)}">${label('Look closer','细看图像')} ↗</button><a href="${escape(item.sourceUrl)}" target="_blank" rel="noopener noreferrer">${label('Collection record & credit','馆藏记录与图像来源')} ↗</a><a href="${escape(item.rights.url)}" target="_blank" rel="noopener noreferrer">${escape(item.rights.label)} ↗</a>${(item.contextSources||[]).filter(source=>safeSourceURL(source.url)).map(source=>`<a href="${escape(source.url)}" target="_blank" rel="noopener noreferrer">${escape(text(source.title,lang))} ↗</a>`).join('')}</div><details><summary>${label('Image reuse and interpretation','图像使用与解读说明')}</summary><p>${escape(text(item.rights.note,lang))}</p>${item.transformation?`<p>${escape(text(item.transformation,lang))}</p>`:''}<small>${label('Source inspected','来源查阅日期')}: ${escape(item.checkedAt)}</small></details></figcaption>
   </figure>`).join('');
 }
 

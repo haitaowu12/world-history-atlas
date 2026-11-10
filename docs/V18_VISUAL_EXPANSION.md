@@ -29,3 +29,11 @@ The final coverage receipt will enumerate covered and uncovered IDs, report imag
 Implementation uses `review/atlas-visual-expansion-20261110`, based on `cc68736`. The sole workflow currently runs on pushes to `main` or `feature/atlas-*`, pull requests and manual dispatch. This review branch is outside the push patterns. Inspect triggers before each push, use `[skip ci]`, open no pull request and do not dispatch, retry or trigger Actions before December 2026. Main promotion and production publication are distinct from saving this branch.
 
 Progress, source ledgers, measured coverage and final checks will be recorded here and in the accompanying release evidence. No percentage target is claimed until the shipped assets and entry associations pass their checks.
+
+## Takeover and recovery, 10 November 2026
+
+The previous Pro owner stopped without a recoverable image checkpoint. The only verified remote state was `92813961701ce02936e02b71299693c4dde7a1b8`; its 62-image / 424-entry progress claim is not treated as committed content. Tony approved continuing from the saved checkpoint and rebuilding missing work with frequent commits. The replacement implementation owner recovered that exact branch, checked the old conversation was not running, and preserved main at `cc68736`.
+
+The source acquisition cache is local under `research/v18/` and excluded from Git. `node scripts/inventory-visuals.mjs` reconstructs its actual denominator. Candidate downloads are not admitted media: the catalogue requires source identity, reusable rights, visual review and a separate explicit entry association. Batch API reads avoid one request per biography. Provider rate limits stop or defer retrieval rather than being bypassed.
+
+The visual direction preserves the existing atlas and introduces an image-led collection: large uncropped images, visible type/date, source-linked inspection, magnification, linked stories and two-image comparison. Existing detail cards will use objects as well as portraits. Counts distinguish distinct assets from covered records.

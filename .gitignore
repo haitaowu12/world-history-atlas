@@ -12,3 +12,5 @@ docs/*VALIDATION.json
 docs/*-validation.json
 .firebase/
 gha-creds-*.json
+# Local source-acquisition cache; admitted evidence belongs in docs/v18-*.json.
+research/v18/
