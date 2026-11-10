@@ -1,0 +1,3111 @@
+[
+  {
+    "id": "china-person-xiaowendi",
+    "sourceProfileId": "china-person-xiaowendi",
+    "name": {
+      "en": "Emperor Xiaowen of Northern Wei",
+      "zh": "北魏孝文帝"
+    },
+    "title": {
+      "en": "Xiaowen: moving a court, changing its language",
+      "zh": "孝文帝：迁都与制度转变"
+    },
+    "start": 471,
+    "end": 499,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "states",
+    "importance": 4,
+    "location": {
+      "lat": 34.68,
+      "lon": 112.45,
+      "label": "Luoyang, representative capital",
+      "labelI18n": {
+        "en": "Luoyang, representative capital",
+        "zh": "洛阳，代表性都城"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Emperor Xiaowen ruled a Northern Wei court shaped by Tuoba traditions and the institutions of the people it governed. Moving the capital from Pingcheng to Luoyang in 493–494 made that negotiation visible in geography. Changes in language, dress and court practice accompanied the move; adopting Chinese forms did not simply erase the dynasty’s earlier history. Buddhist patronage supplied another language of authority. At Longmen, sculpture drew on connections between northern and southern artistic traditions. His reign thus links political decisions to the lives of officials, craftspeople and worshippers who inhabited an increasingly interconnected cultural world.",
+      "zh": "孝文帝统治的北魏朝廷，既承袭拓跋传统，也面对被统治地区已有的制度。493—494年由平城迁往洛阳，使这种调整落实在都城的选择上。语言、服饰和朝廷礼制的变化伴随迁都展开；采用汉文化形式，并不意味着此前的王朝历史被抹去。佛教赞助提供了另一种表达权威的方式。龙门石窟的造像体现南北艺术传统之间的联系。通过这一时期，可以把政治决策与官员、工匠、礼佛者的生活联系起来，观察制度和艺术如何共同参与文化的变化。"
+    },
+    "dateNote": {
+      "en": "471–499 is the reign, not a claimed lifespan. The capital transfer unfolded across 493–494; its milestone uses the concluding year.",
+      "zh": "471—499年为在位时段，并非生卒年。迁都经历493—494年，里程碑采用后一年。"
+    },
+    "sources": [
+      {
+        "title": "Northern Wei: Art & Architecture Thesaurus",
+        "publisher": "Getty Research Institute",
+        "url": "https://www.getty.edu/vow/AATFullDisplay?find=nanny&logic=OR&note=&page=1&subjectid=300018409",
+        "evidenceNote": "Dates Xiaowen’s reign to 471–499 and the move from Pingcheng to Luoyang to 493–494; describes patronage and changing institutions.",
+        "evidenceNoteZh": "记孝文帝在位471—499年、493—494年由平城迁洛阳，并讨论赞助与制度变化。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Period of the Northern and Southern Dynasties (386–581)",
+        "publisher": "The Metropolitan Museum of Art, Department of Asian Art",
+        "url": "https://www.metmuseum.org/pt/essays/period-of-the-northern-and-southern-dynasties-386-589",
+        "evidenceNote": "Discusses Tuoba rule, Xiaowen’s adoption of Chinese institutions and language, and connections between Longmen art and southern traditions.",
+        "evidenceNoteZh": "讨论拓跋统治、孝文帝采用汉语及相关制度，以及龙门艺术与南朝传统的联系。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 471,
+        "title": {
+          "en": "A Northern Wei reign begins",
+          "zh": "北魏新帝即位"
+        },
+        "description": {
+          "en": "Xiaowen’s reign began at the court then based in Pingcheng.",
+          "zh": "孝文帝开始在位，此时朝廷设于平城。"
+        },
+        "location": {
+          "lat": 40.09,
+          "lon": 113.29,
+          "label": "Pingcheng, represented by Datong",
+          "labelI18n": {
+            "en": "Pingcheng, represented by Datong",
+            "zh": "平城，以今大同代表"
+          }
+        }
+      },
+      {
+        "year": 494,
+        "title": {
+          "en": "A new capital at Luoyang",
+          "zh": "迁都洛阳"
+        },
+        "description": {
+          "en": "The move of 493–494 relocated the court and accompanied institutional and cultural reforms.",
+          "zh": "493—494年的迁都与制度、文化改革相伴展开。"
+        },
+        "location": {
+          "lat": 34.68,
+          "lon": 112.45,
+          "label": "Luoyang, representative capital",
+          "labelI18n": {
+            "en": "Luoyang, representative capital",
+            "zh": "洛阳，代表性都城"
+          }
+        }
+      },
+      {
+        "year": 499,
+        "title": {
+          "en": "The reign ends",
+          "zh": "统治结束"
+        },
+        "description": {
+          "en": "The end of Xiaowen’s reign closes this selection; the dynasty and its Buddhist artistic patronage continued.",
+          "zh": "本条选取的在位时段至此结束；北魏王朝与佛教艺术赞助仍在延续。"
+        },
+        "location": {
+          "lat": 34.68,
+          "lon": 112.45,
+          "label": "Luoyang, representative capital",
+          "labelI18n": {
+            "en": "Luoyang, representative capital",
+            "zh": "洛阳，代表性都城"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "northern-wei-dynasty",
+      "mogao"
+    ],
+    "expansion": {
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "release": 11,
+      "edition": "v17",
+      "sourceReview": "Original bilingual biography; dates and claims checked against the individually described sources. No donor prose reproduced.",
+      "reviewLimit": {
+        "en": "Selected career episodes; the mapped points represent named cities or regions, not exact buildings or a reconstructed itinerary.",
+        "zh": "选取仕途与创作片段；地图点代表所述城市或地区，并非确切建筑或复原行程。"
+      }
+    }
+  },
+  {
+    "id": "china-person-yangjian",
+    "sourceProfileId": "china-person-yangjian",
+    "name": {
+      "en": "Emperor Wen of Sui",
+      "zh": "杨坚"
+    },
+    "title": {
+      "en": "Yang Jian: rebuilding an imperial government",
+      "zh": "杨坚：重建帝国政府"
+    },
+    "start": 581,
+    "end": 604,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "states",
+    "importance": 4,
+    "location": {
+      "lat": 34.27,
+      "lon": 108.94,
+      "label": "Chang'an, imperial capital represented by modern Xi'an",
+      "labelI18n": {
+        "en": "Chang'an, imperial capital represented by modern Xi'an",
+        "zh": "长安，以今西安代表的帝都"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Yang Jian founded the Sui in 581 and brought the southern Chen realm under his rule in 589. Reunification required more than a change of ruler: officials had to administer territories with different recent political histories. His government developed legal and administrative arrangements that the Tang would inherit, while canals helped connect resources and centers of power. Buddhist patronage also belonged to this project of rule. The short duration of the dynasty can obscure these institutional ambitions. Reading his reign beside that of his successor separates the work of consolidation from the military and construction pressures that later strained Sui government.",
+      "zh": "杨坚于581年建立隋朝，589年灭陈，将南方纳入统治。统一不仅意味着更换君主，也意味着官员要治理政治经历不同的地区。他在位时发展的法律与行政安排，为唐朝提供了制度基础；运河工程则把资源产地与权力中心联系起来。对佛教的赞助同样是统治实践的一部分。隋朝国祚短暂，容易掩盖这些制度建设的意图。将文帝与继任者的统治相对读，可以区分前期整合的工作，与后来战争、营建给国家带来的压力。"
+    },
+    "dateNote": {
+      "en": "581–604 is Wendi’s reign. The 589 milestone marks the defeat of Chen, not the first unification since the Han.",
+      "zh": "581—604年为文帝在位时段。589年指灭陈，并非汉朝之后第一次统一。"
+    },
+    "sources": [
+      {
+        "title": "The Sui Dynasty",
+        "publisher": "University of Washington, Silk Road Seattle",
+        "url": "https://depts.washington.edu/silkroad/exhibit/sui/essay.html",
+        "evidenceNote": "Supports Wendi’s 581–604 reign, reunion in 589, administration and Buddhist patronage; Yangdi’s Luoyang building, 612 Korean campaign and death in 618. Its erroneous Yuezhi label is excluded.",
+        "evidenceNoteZh": "支持文帝581—604年在位、589年统一、行政与佛教赞助，以及炀帝营建洛阳、612年对高句丽战争、618年死亡；不采用文中误称月氏的说法。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 581,
+        "title": {
+          "en": "Sui is founded",
+          "zh": "隋朝建立"
+        },
+        "description": {
+          "en": "Yang Jian established a new dynasty after service in Northern Zhou.",
+          "zh": "杨坚在北周任职后建立新王朝。"
+        },
+        "location": {
+          "lat": 34.27,
+          "lon": 108.94,
+          "label": "Chang'an, imperial capital represented by modern Xi'an",
+          "labelI18n": {
+            "en": "Chang'an, imperial capital represented by modern Xi'an",
+            "zh": "长安，以今西安代表的帝都"
+          }
+        }
+      },
+      {
+        "year": 589,
+        "title": {
+          "en": "The Chen realm is conquered",
+          "zh": "灭陈统一"
+        },
+        "description": {
+          "en": "Sui conquest ended the separate Chen court in the south.",
+          "zh": "隋军征服陈朝，结束南方陈廷的独立统治。"
+        },
+        "location": {
+          "lat": 32.06,
+          "lon": 118.8,
+          "label": "Nanjing, representative city",
+          "labelI18n": {
+            "en": "Nanjing, representative city",
+            "zh": "南京，代表性城市"
+          }
+        }
+      },
+      {
+        "year": 604,
+        "title": {
+          "en": "Wendi’s reign ends",
+          "zh": "文帝统治结束"
+        },
+        "description": {
+          "en": "His death opened the succession to the second Sui emperor.",
+          "zh": "文帝去世，隋朝进入第二位皇帝的统治时期。"
+        },
+        "location": {
+          "lat": 34.27,
+          "lon": 108.94,
+          "label": "Chang'an, imperial capital represented by modern Xi'an",
+          "labelI18n": {
+            "en": "Chang'an, imperial capital represented by modern Xi'an",
+            "zh": "长安，以今西安代表的帝都"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "sui-reunification",
+      "chen-dynasty"
+    ],
+    "expansion": {
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "release": 11,
+      "edition": "v17",
+      "sourceReview": "Original bilingual biography; dates and claims checked against the individually described sources. No donor prose reproduced.",
+      "reviewLimit": {
+        "en": "Selected career episodes; the mapped points represent named cities or regions, not exact buildings or a reconstructed itinerary.",
+        "zh": "选取仕途与创作片段；地图点代表所述城市或地区，并非确切建筑或复原行程。"
+      }
+    }
+  },
+  {
+    "id": "china-person-yangguang",
+    "sourceProfileId": "china-person-yangguang",
+    "name": {
+      "en": "Emperor Yang of Sui",
+      "zh": "隋炀帝"
+    },
+    "title": {
+      "en": "Yang Guang: canals, campaigns and imperial demands",
+      "zh": "隋炀帝：运河、战争与帝国征发"
+    },
+    "start": 605,
+    "end": 618,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "states",
+    "importance": 4,
+    "location": {
+      "lat": 34.68,
+      "lon": 112.45,
+      "label": "Luoyang, representative capital",
+      "labelI18n": {
+        "en": "Luoyang, representative capital",
+        "zh": "洛阳，代表性都城"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Yang Guang inherited a reunited empire and tried to make its resources move on an imperial scale. The Tongji Canal, ordered in 605, linked Luoyang with waterways toward the south by joining and enlarging existing channels. Transport and capital building became visible expressions of his government’s ambitions. Those ambitions also reached beyond the empire: the 612 campaign against Goguryeo ended in disaster. Heavy demands and rebellion undermined Sui rule, and the emperor was killed in 618. His reign connects infrastructure with the labor and political power needed to create it. The survival of a useful waterway does not, by itself, measure what its construction cost the people compelled to work.",
+      "zh": "杨广继承了重新统一的帝国，试图以更大规模调动资源。605年下令开通的通济渠，利用并扩展既有河道，把洛阳与通往南方的水路连接起来。交通与都城营建成为其政务抱负的可见形式。这种抱负也伸向境外：612年进攻高句丽遭受惨败。沉重征发与叛乱动摇隋朝，皇帝于618年被杀。他的统治把基础设施与营造它所需的劳动、权力联系起来；一条水道后来继续使用，并不能单独衡量被征发者当时承担的代价。"
+    },
+    "dateNote": {
+      "en": "605–618 selects the canal, war and end of the reign. The Goguryeo marker represents the campaigning region, not a surveyed army route.",
+      "zh": "605—618年选取运河、战争及统治终结。高句丽标点代表战区，并非经测定的行军路线。"
+    },
+    "sources": [
+      {
+        "title": "The Sui Dynasty",
+        "publisher": "University of Washington, Silk Road Seattle",
+        "url": "https://depts.washington.edu/silkroad/exhibit/sui/essay.html",
+        "evidenceNote": "Supports Wendi’s 581–604 reign, reunion in 589, administration and Buddhist patronage; Yangdi’s Luoyang building, 612 Korean campaign and death in 618. Its erroneous Yuezhi label is excluded.",
+        "evidenceNoteZh": "支持文帝581—604年在位、589年统一、行政与佛教赞助，以及炀帝营建洛阳、612年对高句丽战争、618年死亡；不采用文中误称月氏的说法。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "隋炀帝与通济渠",
+        "publisher": "National Development and Reform Commission, Grand Canal cultural park resources",
+        "url": "https://www.ndrc.gov.cn/xwdt/ztzl/dyhgjwhgy/202010/t20201021_1301702.html",
+        "evidenceNote": "Opening historical paragraphs date the Tongji Canal order to 605 and explain its connection between Luoyang and southern waterways, using existing rivers and channels.",
+        "evidenceNoteZh": "开头史事段将开通济渠系于605年，说明其利用既有河渠连接洛阳与南方水路。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 605,
+        "title": {
+          "en": "Ordering the Tongji Canal",
+          "zh": "开通通济渠"
+        },
+        "description": {
+          "en": "The canal project connected the eastern capital’s region with southern waterways.",
+          "zh": "运河工程连接东都地区与南方水路。"
+        },
+        "location": {
+          "lat": 34.68,
+          "lon": 112.45,
+          "label": "Luoyang, representative capital",
+          "labelI18n": {
+            "en": "Luoyang, representative capital",
+            "zh": "洛阳，代表性都城"
+          }
+        }
+      },
+      {
+        "year": 612,
+        "title": {
+          "en": "War against Goguryeo",
+          "zh": "进攻高句丽"
+        },
+        "description": {
+          "en": "The failed campaign imposed another major demand on the Sui state.",
+          "zh": "战争失败，给隋朝国家带来又一重负担。"
+        },
+        "location": {
+          "lat": 39.03,
+          "lon": 125.75,
+          "label": "Goguryeo campaign region, represented near Pyongyang",
+          "labelI18n": {
+            "en": "Goguryeo campaign region, represented near Pyongyang",
+            "zh": "高句丽战区，以平壤附近代表"
+          }
+        }
+      },
+      {
+        "year": 618,
+        "title": {
+          "en": "Death and the collapse of Sui rule",
+          "zh": "死亡与隋政权崩解"
+        },
+        "description": {
+          "en": "Yang Guang was killed as rebellion fractured imperial authority.",
+          "zh": "叛乱使皇权瓦解，杨广被杀。"
+        },
+        "location": {
+          "lat": 32.39,
+          "lon": 119.42,
+          "label": "Jiangdu, represented by Yangzhou",
+          "labelI18n": {
+            "en": "Jiangdu, represented by Yangzhou",
+            "zh": "江都，以今扬州代表"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "sui-reunification",
+      "china-person-yangjian"
+    ],
+    "expansion": {
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "release": 11,
+      "edition": "v17",
+      "sourceReview": "Original bilingual biography; dates and claims checked against the individually described sources. No donor prose reproduced.",
+      "reviewLimit": {
+        "en": "Selected career episodes; the mapped points represent named cities or regions, not exact buildings or a reconstructed itinerary.",
+        "zh": "选取仕途与创作片段；地图点代表所述城市或地区，并非确切建筑或复原行程。"
+      }
+    }
+  },
+  {
+    "id": "china-person-lishimin",
+    "sourceProfileId": "china-person-lishimin",
+    "name": {
+      "en": "Emperor Taizong of Tang",
+      "zh": "唐太宗"
+    },
+    "title": {
+      "en": "Taizong: advice, conquest and imperial authority",
+      "zh": "唐太宗：纳谏、征服与皇权"
+    },
+    "start": 626,
+    "end": 649,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "states",
+    "importance": 4,
+    "location": {
+      "lat": 34.27,
+      "lon": 108.94,
+      "label": "Chang'an, imperial capital represented by modern Xi'an",
+      "labelI18n": {
+        "en": "Chang'an, imperial capital represented by modern Xi'an",
+        "zh": "长安，以今西安代表的帝都"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Li Shimin became Emperor Taizong in 626 after helping his father establish Tang rule. His government expanded imperial power through campaigns as well as administration. Yet the advice he prepared for his heir in 648 turns attention to a different problem: how should a ruler hear criticism and choose the people who govern? The text presents self-restraint and attention to counsel as duties of kingship. It is a statement of governing ideals by an emperor, with a particular audience and purpose. Placed beside the career of his general Li Jing, it shows how military success and the language of responsible rule worked together in the early Tang court.",
+      "zh": "李世民帮助父亲建立唐朝后，于626年即帝位，是为唐太宗。战争与行政建设共同扩展了皇权，但他648年为继承者撰写的训诫，把注意力转向另一问题：君主应如何听取批评、选择治理国家的人？文中把节制自身与接受谏言视为君主的责任。这是一位皇帝面向特定读者表达的治国理想，具有明确的写作目的。与将领李靖的经历相对读，可以看到早唐朝廷如何把军事成就与负责治国的语言结合起来。"
+    },
+    "dateNote": {
+      "en": "626–649 is the reign. The advice is dated 648; disputed birth dates and an erroneous coup date in the teaching introduction are excluded.",
+      "zh": "626—649年为在位时段，训诫作于648年；不采用有争议的生年及教学导言误记的政变年份。"
+    },
+    "sources": [
+      {
+        "title": "Emperor Taizong on Effective Government",
+        "publisher": "Columbia University, Asia for Educators",
+        "url": "https://afe.easia.columbia.edu/ps/china/taizong_effective.pdf",
+        "evidenceNote": "Introduction gives reign 626–649 and dates the advice to 648; the text discusses attention to counsel and governing responsibilities. The introduction’s erroneous 624 coup date is not used.",
+        "evidenceNoteZh": "导言记在位626—649年、训诫作于648年；正文讨论纳谏与治国责任。不采用导言误写的624年政变日期。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-pdf"
+      },
+      {
+        "title": "Tang Dynasty (618–907)",
+        "publisher": "The Metropolitan Museum of Art, Department of Asian Art",
+        "url": "https://www.metmuseum.org/essays/tang-dynasty-618-906",
+        "evidenceNote": "Supports Xuanzong’s 712–756 reign, Chang’an’s international connections and court art; describes Tang survival after the rebellion. The essay’s older Wang Wei lifespan is not used.",
+        "evidenceNoteZh": "支持玄宗在位712—756年、长安对外联系与宫廷艺术，并记叛乱后唐朝仍然延续；不采用文中王维的旧生卒系年。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 626,
+        "title": {
+          "en": "Taizong takes the throne",
+          "zh": "太宗即位"
+        },
+        "description": {
+          "en": "Li Shimin began the reign discussed here.",
+          "zh": "李世民开始本条所述统治。"
+        },
+        "location": {
+          "lat": 34.27,
+          "lon": 108.94,
+          "label": "Chang'an, imperial capital represented by modern Xi'an",
+          "labelI18n": {
+            "en": "Chang'an, imperial capital represented by modern Xi'an",
+            "zh": "长安，以今西安代表的帝都"
+          }
+        }
+      },
+      {
+        "year": 648,
+        "title": {
+          "en": "Advice for the heir",
+          "zh": "为继承者撰写训诫"
+        },
+        "description": {
+          "en": "His discussion of government stresses choosing ministers and accepting counsel.",
+          "zh": "治国论述强调选择大臣与接纳谏言。"
+        },
+        "location": {
+          "lat": 34.27,
+          "lon": 108.94,
+          "label": "Chang'an, imperial capital represented by modern Xi'an",
+          "labelI18n": {
+            "en": "Chang'an, imperial capital represented by modern Xi'an",
+            "zh": "长安，以今西安代表的帝都"
+          }
+        }
+      },
+      {
+        "year": 649,
+        "title": {
+          "en": "The reign ends",
+          "zh": "统治结束"
+        },
+        "description": {
+          "en": "Taizong’s death ended the reign, while the Tang state continued.",
+          "zh": "太宗去世，唐朝继续延续。"
+        },
+        "location": {
+          "lat": 34.27,
+          "lon": 108.94,
+          "label": "Chang'an, imperial capital represented by modern Xi'an",
+          "labelI18n": {
+            "en": "Chang'an, imperial capital represented by modern Xi'an",
+            "zh": "长安，以今西安代表的帝都"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "tang-dynasty",
+      "china-person-lijing"
+    ],
+    "expansion": {
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "release": 11,
+      "edition": "v17",
+      "sourceReview": "Original bilingual biography; dates and claims checked against the individually described sources. No donor prose reproduced.",
+      "reviewLimit": {
+        "en": "Selected career episodes; the mapped points represent named cities or regions, not exact buildings or a reconstructed itinerary.",
+        "zh": "选取仕途与创作片段；地图点代表所述城市或地区，并非确切建筑或复原行程。"
+      }
+    }
+  },
+  {
+    "id": "china-person-lijing",
+    "sourceProfileId": "china-person-lijing",
+    "name": {
+      "en": "Li Jing",
+      "zh": "李靖"
+    },
+    "title": {
+      "en": "Li Jing: campaigns that enlarged early Tang power",
+      "zh": "李靖：扩展早唐权力的战事"
+    },
+    "start": 621,
+    "end": 649,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "states",
+    "importance": 4,
+    "location": {
+      "lat": 34.27,
+      "lon": 108.94,
+      "label": "Chang'an, imperial capital represented by modern Xi'an",
+      "labelI18n": {
+        "en": "Chang'an, imperial capital represented by modern Xi'an",
+        "zh": "长安，以今西安代表的帝都"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Li Jing’s career connects the wars that established Tang rule with campaigns beyond its northern and western frontiers. In 621 he helped defeat Xiao Xian’s regime around Jiangling. His forces later struck the Eastern Turkic leadership, contributing to its defeat in 630, and campaigned against Tuyuhun in 635. These were collective military operations involving other commanders, allied forces and defeated communities. Li Jing also held senior posts at court, where military achievement could become political authority. Later generations attached strategic wisdom to his name, but the campaigns can be studied without assuming that every military text attributed to him was actually his work.",
+      "zh": "李靖的仕途把唐朝建立统治的战争，与其后向北方、西方拓展的战事联系起来。621年，他参与击败以江陵为中心的萧铣政权；630年，其军队打击东突厥统治者，参与东突厥的败亡；635年又出征吐谷浑。这些行动涉及其他将领、协同部队以及战败地区的社会，不能归结为一人的功业。李靖也在朝廷担任要职，军事成就因此转化为政治权威。后世把兵学智慧附着在他的名字上，但研究具体战事，并不需要预先认定所有托名兵书都出自其手。"
+    },
+    "dateNote": {
+      "en": "621–649 selects verified campaigns and death. Campaign markers represent associated cities or regions, not surveyed battlefields.",
+      "zh": "621—649年选取已核对的战事与卒年；地图表示相关城市、地区，并非经测定的战场。"
+    },
+    "sources": [
+      {
+        "title": "Li Jing, citing the Xianyang Dictionary (2007)",
+        "publisher": "Shaanxi Normal University, Shaanxi cultural resources project",
+        "url": "https://lishiwenhua.snnu.edu.cn/info/1359/16894.htm",
+        "evidenceNote": "Career paragraphs support the 621 Jiangling campaign, 630 Eastern Turkic defeat, 635 Tuyuhun campaign and 649 death. No troop totals or attribution of the later military dialogue is adopted.",
+        "evidenceNoteZh": "仕途段落支持621年江陵战事、630年击败东突厥、635年吐谷浑战事及649年卒；不采用兵力数字或后世兵书作者认定。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 621,
+        "title": {
+          "en": "Jiangling campaign",
+          "zh": "江陵战事"
+        },
+        "description": {
+          "en": "Li Jing served in the operations against Xiao Xian’s regime.",
+          "zh": "李靖参与征讨萧铣政权的行动。"
+        },
+        "location": {
+          "lat": 30.34,
+          "lon": 112.24,
+          "label": "Jiangling, representative campaign setting",
+          "labelI18n": {
+            "en": "Jiangling, representative campaign setting",
+            "zh": "江陵，战事代表地点"
+          }
+        }
+      },
+      {
+        "year": 630,
+        "title": {
+          "en": "Eastern Turkic defeat",
+          "zh": "东突厥败亡"
+        },
+        "description": {
+          "en": "Li Jing’s attacks formed part of the Tang defeat of the Eastern Turkic leadership.",
+          "zh": "李靖的进攻是唐军击败东突厥统治者的组成部分。"
+        },
+        "location": {
+          "lat": 40.38,
+          "lon": 111.82,
+          "label": "Horinger region, representative northern campaign area",
+          "labelI18n": {
+            "en": "Horinger region, representative northern campaign area",
+            "zh": "和林格尔地区，北方战事代表区域"
+          }
+        }
+      },
+      {
+        "year": 635,
+        "title": {
+          "en": "Tuyuhun campaign",
+          "zh": "出征吐谷浑"
+        },
+        "description": {
+          "en": "His command took Tang forces toward the Qinghai Lake region.",
+          "zh": "他统率唐军向青海湖地区作战。"
+        },
+        "location": {
+          "lat": 36.66,
+          "lon": 100.31,
+          "label": "Qinghai Lake region, representative campaign area",
+          "labelI18n": {
+            "en": "Qinghai Lake region, representative campaign area",
+            "zh": "青海湖地区，战事代表区域"
+          }
+        }
+      },
+      {
+        "year": 649,
+        "title": {
+          "en": "Death and commemoration",
+          "zh": "逝世与纪念"
+        },
+        "description": {
+          "en": "He was buried in the Zhaoling imperial burial complex.",
+          "zh": "李靖去世后陪葬昭陵。"
+        },
+        "location": {
+          "lat": 34.65,
+          "lon": 108.5,
+          "label": "Zhaoling, representative burial complex",
+          "labelI18n": {
+            "en": "Zhaoling, representative burial complex",
+            "zh": "昭陵，陪葬地所在陵区"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-person-lishimin",
+      "tang-dynasty"
+    ],
+    "expansion": {
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "release": 11,
+      "edition": "v17",
+      "sourceReview": "Original bilingual biography; dates and claims checked against the individually described sources. No donor prose reproduced.",
+      "reviewLimit": {
+        "en": "Selected career episodes; the mapped points represent named cities or regions, not exact buildings or a reconstructed itinerary.",
+        "zh": "选取仕途与创作片段；地图点代表所述城市或地区，并非确切建筑或复原行程。"
+      }
+    }
+  },
+  {
+    "id": "china-person-wuzetian",
+    "sourceProfileId": "china-person-wuzetian",
+    "name": {
+      "en": "Wu Zetian",
+      "zh": "武则天"
+    },
+    "title": {
+      "en": "Wu Zetian: making a claim to rule",
+      "zh": "武则天：建立统治的正当性"
+    },
+    "start": 674,
+    "end": 705,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "states",
+    "importance": 4,
+    "location": {
+      "lat": 34.68,
+      "lon": 112.45,
+      "label": "Luoyang, representative capital",
+      "labelI18n": {
+        "en": "Luoyang, representative capital",
+        "zh": "洛阳，代表性都城"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Wu Zetian exercised power within the Tang court before taking the imperial title in her own Zhou dynasty in 690. Her career exposes the gendered assumptions built into dynastic rule: women could wield influence, but claiming the emperor’s position required a different public argument. Buddhist patronage, new political symbols and recruitment through examinations helped her build that argument and find supporters beyond established aristocratic circles. Her 674 policy proposals also addressed agriculture and official conduct. This was no general opening of office to women; the examination system remained male. Forced from power in 705, she left a reign whose institutions and reputation need to be distinguished from hostile anecdotes in later histories.",
+      "zh": "武则天在唐廷掌握权力多年，690年以皇帝身份建立自己的周朝。她的经历显露了王朝统治中的性别门槛：女性可以施加影响，直接占据皇帝之位却需要另行建立公开的正当性。佛教赞助、新的政治象征与科举选才，帮助她寻找既有贵族圈子以外的支持者。674年的建言还涉及农业与官员行为。这并不意味着仕途向女性普遍开放，科举仍由男性参加。705年被迫退位后，她的制度实践与后世充满敌意的轶闻共同流传，阅读时应辨明两者的来源。"
+    },
+    "dateNote": {
+      "en": "674–705 selects documented policy and reign episodes. The sources disagree over 624/625 as her birth year; no exact birth year is asserted.",
+      "zh": "674—705年选取有据的政策与统治片段。来源对624、625年生有异说，此处不主张确切生年。"
+    },
+    "sources": [
+      {
+        "title": "Wu Zetian (625–705), Jennifer W. Jay",
+        "publisher": "Berkshire Encyclopedia of China",
+        "url": "https://chinaconnectu.com/wp-content/pdf/WUZetian.pdf",
+        "evidenceNote": "Supports 674 directives, assumption of the imperial title in 690, 705 abdication, examination recruitment and Buddhist legitimation; its birth year differs from the directory, so no birth year is asserted.",
+        "evidenceNoteZh": "支持674年建言、690年称帝、705年退位、科举选才与佛教政治合法性；其生年与原目录不同，因此不主张出生年份。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-pdf"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 674,
+        "title": {
+          "en": "Policy proposals",
+          "zh": "提出政务建言"
+        },
+        "description": {
+          "en": "A set of twelve proposals addressed agriculture, government and conduct.",
+          "zh": "十二条建言涉及农业、政务与行为规范。"
+        },
+        "location": {
+          "lat": 34.27,
+          "lon": 108.94,
+          "label": "Chang'an, imperial capital represented by modern Xi'an",
+          "labelI18n": {
+            "en": "Chang'an, imperial capital represented by modern Xi'an",
+            "zh": "长安，以今西安代表的帝都"
+          }
+        }
+      },
+      {
+        "year": 690,
+        "title": {
+          "en": "The Zhou imperial title",
+          "zh": "以周朝皇帝身份统治"
+        },
+        "description": {
+          "en": "Wu assumed the imperial title, with Luoyang central to her rule.",
+          "zh": "武氏称帝，洛阳成为其统治的中心。"
+        },
+        "location": {
+          "lat": 34.68,
+          "lon": 112.45,
+          "label": "Luoyang, representative capital",
+          "labelI18n": {
+            "en": "Luoyang, representative capital",
+            "zh": "洛阳，代表性都城"
+          }
+        }
+      },
+      {
+        "year": 705,
+        "title": {
+          "en": "Abdication",
+          "zh": "退位"
+        },
+        "description": {
+          "en": "She was compelled to abdicate and Zhongzong returned to the throne.",
+          "zh": "武氏被迫退位，中宗复位。"
+        },
+        "location": {
+          "lat": 34.68,
+          "lon": 112.45,
+          "label": "Luoyang, representative capital",
+          "labelI18n": {
+            "en": "Luoyang, representative capital",
+            "zh": "洛阳，代表性都城"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "tang-dynasty",
+      "china-person-tangxuanzong"
+    ],
+    "expansion": {
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "release": 11,
+      "edition": "v17",
+      "sourceReview": "Original bilingual biography; dates and claims checked against the individually described sources. No donor prose reproduced.",
+      "reviewLimit": {
+        "en": "Selected career episodes; the mapped points represent named cities or regions, not exact buildings or a reconstructed itinerary.",
+        "zh": "选取仕途与创作片段；地图点代表所述城市或地区，并非确切建筑或复原行程。"
+      }
+    }
+  },
+  {
+    "id": "china-person-tangxuanzong",
+    "sourceProfileId": "china-person-tangxuanzong",
+    "name": {
+      "en": "Emperor Xuanzong of Tang",
+      "zh": "唐玄宗"
+    },
+    "title": {
+      "en": "Xuanzong: a court of poets and a reign in crisis",
+      "zh": "唐玄宗：诗人的宫廷与统治危机"
+    },
+    "start": 712,
+    "end": 756,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "states",
+    "importance": 4,
+    "location": {
+      "lat": 34.27,
+      "lon": 108.94,
+      "label": "Chang'an, imperial capital represented by modern Xi'an",
+      "labelI18n": {
+        "en": "Chang'an, imperial capital represented by modern Xi'an",
+        "zh": "长安，以今西安代表的帝都"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Xuanzong’s reign is associated with the flourishing poetry, painting and court culture of the High Tang. Chang’an connected officials and artists with merchants, clerics and envoys from across Asia. Li Bai, Wang Wei and Du Fu nevertheless experienced that world from different social positions; a celebrated cultural era was not one shared biography. The rebellion beginning in 755 brought the court’s vulnerabilities into view and soon ended Xuanzong’s reign. The Tang itself survived. Reading his reign alongside the poems and mourning texts of its subjects moves beyond a tale of court splendor followed by collapse, revealing how cultural work continued through displacement and political change.",
+      "zh": "玄宗在位时期常与盛唐诗歌、绘画及宫廷文化的兴盛相联系。长安使官员、艺术家与来自亚洲各地的商人、僧侣、使者相遇。但李白、王维、杜甫在这一世界中的社会位置并不相同，一个著名的文化时代也不是所有人共同的人生。755年爆发的叛乱暴露了朝廷的脆弱，随后结束了玄宗的统治，唐朝本身却继续存在。把他的在位时期与臣民留下的诗歌、祭文相对读，可以看见流离和政治变化中的文化创作，而不只是一条由繁华直落覆亡的叙事。"
+    },
+    "dateNote": {
+      "en": "712–756 dates Xuanzong’s reign. The 755 rebellion is a turning point within it; neither date marks the end of Tang cultural production.",
+      "zh": "712—756年为玄宗在位时段，755年叛乱是其中的转折；这些日期并不表示唐代文化创作的终止。"
+    },
+    "sources": [
+      {
+        "title": "Tang Dynasty (618–907)",
+        "publisher": "The Metropolitan Museum of Art, Department of Asian Art",
+        "url": "https://www.metmuseum.org/essays/tang-dynasty-618-906",
+        "evidenceNote": "Supports Xuanzong’s 712–756 reign, Chang’an’s international connections and court art; describes Tang survival after the rebellion. The essay’s older Wang Wei lifespan is not used.",
+        "evidenceNoteZh": "支持玄宗在位712—756年、长安对外联系与宫廷艺术，并记叛乱后唐朝仍然延续；不采用文中王维的旧生卒系年。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Selected Poems by Du Fu: introduction and poems",
+        "publisher": "Columbia University, Asia for Educators",
+        "url": "https://afe.easia.columbia.edu/main_pop/ps/ps_china-dufu-selected.htm",
+        "evidenceNote": "Dates Du Fu to 712–770, capture in 756 and escape in 757; the poems connect political upheaval, family separation and observation of nature. Modern translations are not reproduced.",
+        "evidenceNoteZh": "记杜甫712—770年、756年被俘及757年逃离；诗作联系政治动荡、家人离散与自然观察，未转载现代译文。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 712,
+        "title": {
+          "en": "The reign begins",
+          "zh": "玄宗即位"
+        },
+        "description": {
+          "en": "Xuanzong began a reign associated with High Tang court culture.",
+          "zh": "玄宗开始统治，后世将其与盛唐宫廷文化相联系。"
+        },
+        "location": {
+          "lat": 34.27,
+          "lon": 108.94,
+          "label": "Chang'an, imperial capital represented by modern Xi'an",
+          "labelI18n": {
+            "en": "Chang'an, imperial capital represented by modern Xi'an",
+            "zh": "长安，以今西安代表的帝都"
+          }
+        }
+      },
+      {
+        "year": 755,
+        "title": {
+          "en": "Rebellion begins",
+          "zh": "叛乱爆发"
+        },
+        "description": {
+          "en": "The An–Shi uprising disrupted the court and the lives described in Tang poetry.",
+          "zh": "安史叛乱冲击朝廷，也改变了唐诗所见的个人生活。"
+        },
+        "location": {
+          "lat": 34.27,
+          "lon": 108.94,
+          "label": "Chang'an, imperial capital represented by modern Xi'an",
+          "labelI18n": {
+            "en": "Chang'an, imperial capital represented by modern Xi'an",
+            "zh": "长安，以今西安代表的帝都"
+          }
+        }
+      },
+      {
+        "year": 756,
+        "title": {
+          "en": "Xuanzong’s reign ends",
+          "zh": "玄宗统治结束"
+        },
+        "description": {
+          "en": "The reign ended during the rebellion; Tang rule continued under his successor.",
+          "zh": "叛乱期间玄宗在位结束，唐朝在继任者统治下继续。"
+        },
+        "location": {
+          "lat": 34.27,
+          "lon": 108.94,
+          "label": "Chang'an, imperial capital represented by modern Xi'an",
+          "labelI18n": {
+            "en": "Chang'an, imperial capital represented by modern Xi'an",
+            "zh": "长安，以今西安代表的帝都"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "tang-dynasty",
+      "china-anshi-war-and-recovery-755"
+    ],
+    "expansion": {
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "release": 11,
+      "edition": "v17",
+      "sourceReview": "Original bilingual biography; dates and claims checked against the individually described sources. No donor prose reproduced.",
+      "reviewLimit": {
+        "en": "Selected career episodes; the mapped points represent named cities or regions, not exact buildings or a reconstructed itinerary.",
+        "zh": "选取仕途与创作片段；地图点代表所述城市或地区，并非确切建筑或复原行程。"
+      }
+    }
+  },
+  {
+    "id": "china-person-wangwei",
+    "sourceProfileId": "china-person-wangwei",
+    "name": {
+      "en": "Wang Wei",
+      "zh": "王维"
+    },
+    "title": {
+      "en": "Wang Wei: a landscape made in words",
+      "zh": "王维：以文字营造山水"
+    },
+    "start": 721,
+    "end": 761,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "culture",
+    "importance": 4,
+    "location": {
+      "lat": 34.27,
+      "lon": 108.94,
+      "label": "Chang'an, imperial capital represented by modern Xi'an",
+      "labelI18n": {
+        "en": "Chang'an, imperial capital represented by modern Xi'an",
+        "zh": "长安，以今西安代表的帝都"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Wang Wei moved between official service, literary friendship and the imagined stillness of landscape. His examination success is conventionally dated to 721, although the sequence of his early career remains debated. Around 740 he acquired the Wangchuan estate, whose named sites became the subjects of twenty short poems. These poems invite attention to a changing view, a sound, or a moment when a place seems empty of people. His reputation as a painter extended that conversation between seeing and composing. The paintings now associated with Wangchuan are later versions, however; their relationship to a lost Tang work is part of the history of his reception, not proof of what his own brush produced.",
+      "zh": "王维在仕宦、文人交游与山水中想象的静境之间往返。进士及第通常系于721年，但早年经历的先后仍有讨论。约740年购得辋川别业后，他以其中有名称的地点写成二十首短诗，引人留意视角的变化、某种声响或仿佛无人之境。他作为画家的声誉，使观看与写作之间的关系继续延伸。然而，今天与辋川联系起来的画卷是后世版本；它们与已佚唐代作品的关系，属于王维接受史的一部分，不能直接证明他亲笔绘画的面貌。"
+    },
+    "dateNote": {
+      "en": "721 is the conventional examination year, about 740 an approximate acquisition date, and 761 the cited death year. No exact birth date or surviving autograph painting is claimed.",
+      "zh": "721年为通常采用的进士纪年，约740年为购得别业的推定年代，761年为所引卒年。不主张确切生年或传世绘画为本人真迹。"
+    },
+    "sources": [
+      {
+        "title": "心境的山水——开元政争与王维早期诗歌再探, Han Da",
+        "publisher": "Aisixiang, scholarly article",
+        "url": "https://www.aisixiang.com/data/167158.html",
+        "evidenceNote": "Discusses the conventional 721 examination date, court connections and the interpretive problems in dating Wang Wei’s early poems; its argument does not settle every disputed biographical detail.",
+        "evidenceNoteZh": "讨论通常采用的721年进士纪年、宫廷交游及早期诗歌系年的解释问题；不把论文观点视为解决所有传记争议。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Wangchuan Villa, F1911.205",
+        "publisher": "Smithsonian National Museum of Asian Art",
+        "url": "https://asia-archive.si.edu/object/F1911.205/",
+        "evidenceNote": "Places Wang Wei’s acquisition of the villa around 740 and explains his twenty site poems and later painted versions. The museum’s seventeenth-century painting is not a Tang original.",
+        "evidenceNoteZh": "将王维购得别业系于约740年，说明二十处题咏与后世图像；馆藏17世纪画卷并非唐代原作。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "About Wang Wei",
+        "publisher": "Academy of American Poets",
+        "url": "https://poets.org/poet/wang-wei",
+        "evidenceNote": "Supports landscape poetry, painting and conventional death year 761; birth year is not retained because specialist sources vary.",
+        "evidenceNoteZh": "支持山水诗、绘画及通常采用的761年卒年；专家资料生年有异说，此处不采用具体生年。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 721,
+        "title": {
+          "en": "Examination success",
+          "zh": "科举及第"
+        },
+        "description": {
+          "en": "The conventional chronology places his jinshi success in this year.",
+          "zh": "通常年谱将其进士及第系于此年。"
+        },
+        "location": {
+          "lat": 34.27,
+          "lon": 108.94,
+          "label": "Chang'an, imperial capital represented by modern Xi'an",
+          "labelI18n": {
+            "en": "Chang'an, imperial capital represented by modern Xi'an",
+            "zh": "长安，以今西安代表的帝都"
+          }
+        }
+      },
+      {
+        "year": 740,
+        "title": {
+          "en": "Wangchuan estate",
+          "zh": "辋川别业"
+        },
+        "description": {
+          "en": "The estate acquired around this time became a setting for poems about its named sites.",
+          "zh": "约在此时购得的别业，成为以园中地名题咏的场景。"
+        },
+        "location": {
+          "lat": 34.0,
+          "lon": 109.36,
+          "label": "Wangchuan region near Lantian; representative estate setting",
+          "labelI18n": {
+            "en": "Wangchuan region near Lantian; representative estate setting",
+            "zh": "蓝田附近辋川地区，别业的代表性地点"
+          }
+        },
+        "approximate": true
+      },
+      {
+        "year": 761,
+        "title": {
+          "en": "Death",
+          "zh": "逝世"
+        },
+        "description": {
+          "en": "His literary and artistic reputation continued to be shaped by later readers and painters.",
+          "zh": "后世读者与画家继续塑造他的文学和艺术声誉。"
+        },
+        "location": {
+          "lat": 34.27,
+          "lon": 108.94,
+          "label": "Chang'an, representative official and literary setting; not a claimed death site",
+          "labelI18n": {
+            "en": "Chang'an, representative official and literary setting; not a claimed death site",
+            "zh": "长安，仕宦与文学的代表地点；不主张确切死亡地点"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "tang-dynasty",
+      "china-person-libai"
+    ],
+    "expansion": {
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "release": 11,
+      "edition": "v17",
+      "sourceReview": "Original bilingual biography; dates and claims checked against the individually described sources. No donor prose reproduced.",
+      "reviewLimit": {
+        "en": "Selected career episodes; the mapped points represent named cities or regions, not exact buildings or a reconstructed itinerary.",
+        "zh": "选取仕途与创作片段；地图点代表所述城市或地区，并非确切建筑或复原行程。"
+      }
+    }
+  },
+  {
+    "id": "china-person-libai",
+    "sourceProfileId": "china-person-libai",
+    "name": {
+      "en": "Li Bai",
+      "zh": "李白"
+    },
+    "title": {
+      "en": "Li Bai: friendship, travel and the risks of patronage",
+      "zh": "李白：交游、旅行与依附权力的风险"
+    },
+    "start": 744,
+    "end": 762,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "culture",
+    "importance": 4,
+    "location": {
+      "lat": 29.7,
+      "lon": 116.0,
+      "label": "Middle Yangzi region, representative setting of exile and travel",
+      "labelI18n": {
+        "en": "Middle Yangzi region, representative setting of exile and travel",
+        "zh": "长江中游，流放与旅行的代表地区"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Li Bai’s poems turn travel, friendship and imaginative freedom into a compelling literary voice. His connections also placed him close to the risks of court politics. After a period associated with the Hanlin Academy, he met Du Fu in 744; their friendship links two writers whose verse would take markedly different forms. The rebellion drew Li Bai into the orbit of Prince Yong, and he was sentenced to exile in 757. A pardon in 759 changed his fortunes again. His life can be approached through these documented reversals without turning every vivid poem into autobiography or treating the legends surrounding his drinking and death as established events.",
+      "zh": "李白把旅行、友情与想象中的自由写成鲜明的诗歌声音，但交游也使他接近宫廷政治的风险。在翰林经历之后，他于744年结识杜甫，把两位风格迥异的诗人联系起来。叛乱中，李白卷入永王的政治活动，757年被判流放，759年又遇赦。通过这些有据的转折，可以认识他的生活如何受权力变化影响。阅读诗歌时，生动的抒情并不必然等于自传；围绕饮酒和死亡形成的传说，也不应自动列入年表。"
+    },
+    "dateNote": {
+      "en": "744–762 selects the documented friendship, exile, pardon and death. The Yangzi marker is representative, not an exact arrest or death location.",
+      "zh": "744—762年选取有据的交谊、流放、遇赦与卒年。长江标点为代表位置，并非确切被捕或死亡地点。"
+    },
+    "sources": [
+      {
+        "title": "About Li Bai",
+        "publisher": "Academy of American Poets",
+        "url": "https://poets.org/poet/li-bai",
+        "evidenceNote": "Supports Sichuan upbringing, travel and Hanlin service, meeting Du Fu in 744, exile in 757, pardon in 759 and death in 762.",
+        "evidenceNoteZh": "支持四川成长、旅行与翰林经历、744年结识杜甫、757年流放、759年获赦及762年卒。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 744,
+        "title": {
+          "en": "Meeting Du Fu",
+          "zh": "结识杜甫"
+        },
+        "description": {
+          "en": "The two poets formed a connection remembered through their work and later reception.",
+          "zh": "两位诗人建立交谊，相关记忆留在作品及后世接受中。"
+        },
+        "location": {
+          "lat": 34.62,
+          "lon": 112.45,
+          "label": "Luoyang region, representative Tang literary setting",
+          "labelI18n": {
+            "en": "Luoyang region, representative Tang literary setting",
+            "zh": "洛阳地区，唐代文学交游的代表地点"
+          }
+        }
+      },
+      {
+        "year": 757,
+        "title": {
+          "en": "Sentenced to exile",
+          "zh": "被判流放"
+        },
+        "description": {
+          "en": "Association with Prince Yong brought political punishment.",
+          "zh": "与永王的关联招致政治惩罚。"
+        },
+        "location": {
+          "lat": 29.7,
+          "lon": 116.0,
+          "label": "Middle Yangzi, representative exile context",
+          "labelI18n": {
+            "en": "Middle Yangzi, representative exile context",
+            "zh": "长江中游，流放背景的代表地区"
+          }
+        }
+      },
+      {
+        "year": 759,
+        "title": {
+          "en": "A pardon",
+          "zh": "遇赦"
+        },
+        "description": {
+          "en": "A pardon interrupted the sentence of exile.",
+          "zh": "赦令中止流放处分。"
+        },
+        "location": {
+          "lat": 29.7,
+          "lon": 116.0,
+          "label": "Yangzi region, representative setting",
+          "labelI18n": {
+            "en": "Yangzi region, representative setting",
+            "zh": "长江流域，代表性地点"
+          }
+        }
+      },
+      {
+        "year": 762,
+        "title": {
+          "en": "Death",
+          "zh": "逝世"
+        },
+        "description": {
+          "en": "Li Bai died; stories later attached to his death are not treated as milestones.",
+          "zh": "李白去世；后世死亡传说不列为史实里程碑。"
+        },
+        "location": {
+          "lat": 31.55,
+          "lon": 118.49,
+          "label": "Dangtu region, representative later-life setting",
+          "labelI18n": {
+            "en": "Dangtu region, representative later-life setting",
+            "zh": "当涂地区，晚年生活的代表地点"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-person-dufu",
+      "china-person-tangxuanzong"
+    ],
+    "expansion": {
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "release": 11,
+      "edition": "v17",
+      "sourceReview": "Original bilingual biography; dates and claims checked against the individually described sources. No donor prose reproduced.",
+      "reviewLimit": {
+        "en": "Selected career episodes; the mapped points represent named cities or regions, not exact buildings or a reconstructed itinerary.",
+        "zh": "选取仕途与创作片段；地图点代表所述城市或地区，并非确切建筑或复原行程。"
+      }
+    }
+  },
+  {
+    "id": "china-person-dufu",
+    "sourceProfileId": "china-person-dufu",
+    "name": {
+      "en": "Du Fu",
+      "zh": "杜甫"
+    },
+    "title": {
+      "en": "Du Fu: writing a life inside a war",
+      "zh": "杜甫：在战争中书写人生"
+    },
+    "start": 712,
+    "end": 770,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "culture",
+    "importance": 4,
+    "location": {
+      "lat": 34.27,
+      "lon": 108.94,
+      "label": "Chang'an, imperial capital represented by modern Xi'an",
+      "labelI18n": {
+        "en": "Chang'an, imperial capital represented by modern Xi'an",
+        "zh": "长安，以今西安代表的帝都"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Du Fu pursued an official career but is remembered through poems that give political upheaval a personal scale. Capture by rebels in 756 and escape in 757 placed him inside the crisis of the Tang court. In his poetry, anxiety about government sits beside hunger, separation, weather and close observation of other lives. The recurring wish to serve did not prevent him from recording suffering. His command of regulated verse also made form part of the achievement: carefully organized lines could hold conflicting feelings. Later readers called him a poet-historian, but his poems are situated acts of witness and composition, rather than a transparent chronicle of everyone’s experience.",
+      "zh": "杜甫追求仕途，却以把政治动荡写入个人生活的诗篇留名。756年落入叛军之手、757年逃离，使他亲历唐廷危机。诗中的政局忧虑与饥饿、离别、天气以及对他人生活的细察相伴；希望报效朝廷，并没有阻止他记录苦难。他对律诗的驾驭也使形式成为成就的一部分：组织严密的诗句，可以容纳互相牵引的情感。后世称他为“诗史”，但这些作品首先是特定处境下的见证与创作，不能作为所有人经历的透明年表。"
+    },
+    "dateNote": {
+      "en": "712–770 follows the cited lifespan. Capture in 756 and escape in 757 are separately documented; places are representative settings.",
+      "zh": "712—770年据所引生卒年。756年被俘与757年逃离分别有据；地点为代表性背景。"
+    },
+    "sources": [
+      {
+        "title": "Selected Poems by Du Fu: introduction and poems",
+        "publisher": "Columbia University, Asia for Educators",
+        "url": "https://afe.easia.columbia.edu/main_pop/ps/ps_china-dufu-selected.htm",
+        "evidenceNote": "Dates Du Fu to 712–770, capture in 756 and escape in 757; the poems connect political upheaval, family separation and observation of nature. Modern translations are not reproduced.",
+        "evidenceNoteZh": "记杜甫712—770年、756年被俘及757年逃离；诗作联系政治动荡、家人离散与自然观察，未转载现代译文。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "About Tu Fu",
+        "publisher": "Academy of American Poets",
+        "url": "https://poets.org/poet/tu-fu",
+        "evidenceNote": "Supports Gongxian birth in 712, failed examinations, travel, acquaintance with Li Bai, regulated verse and death in 770.",
+        "evidenceNoteZh": "支持712年生于巩县、科举未第、旅行、与李白交往、律诗创作及770年卒。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 712,
+        "title": {
+          "en": "Birth in Gongxian",
+          "zh": "生于巩县"
+        },
+        "description": {
+          "en": "The poet was born in the Henan region before the later court crisis.",
+          "zh": "诗人生于河南地区，早于后来席卷朝廷的危机。"
+        },
+        "location": {
+          "lat": 34.75,
+          "lon": 112.98,
+          "label": "Gongxian, represented by Gongyi",
+          "labelI18n": {
+            "en": "Gongxian, represented by Gongyi",
+            "zh": "巩县，以今巩义代表"
+          }
+        }
+      },
+      {
+        "year": 756,
+        "title": {
+          "en": "Caught in the rebellion",
+          "zh": "身陷叛乱"
+        },
+        "description": {
+          "en": "Rebels captured Du Fu during the conflict.",
+          "zh": "杜甫在战乱中被叛军俘获。"
+        },
+        "location": {
+          "lat": 34.27,
+          "lon": 108.94,
+          "label": "Chang'an, imperial capital represented by modern Xi'an",
+          "labelI18n": {
+            "en": "Chang'an, imperial capital represented by modern Xi'an",
+            "zh": "长安，以今西安代表的帝都"
+          }
+        }
+      },
+      {
+        "year": 757,
+        "title": {
+          "en": "Escape and reunion with the court",
+          "zh": "逃离并重归朝廷"
+        },
+        "description": {
+          "en": "He escaped rebel control and rejoined the Tang court.",
+          "zh": "杜甫脱离叛军控制，重归唐廷。"
+        },
+        "location": {
+          "lat": 34.37,
+          "lon": 107.4,
+          "label": "Fengxiang region, representative court refuge",
+          "labelI18n": {
+            "en": "Fengxiang region, representative court refuge",
+            "zh": "凤翔地区，朝廷避难地的代表位置"
+          }
+        }
+      },
+      {
+        "year": 770,
+        "title": {
+          "en": "Death",
+          "zh": "逝世"
+        },
+        "description": {
+          "en": "His lifetime ended, while the poems continued to find new readers.",
+          "zh": "杜甫去世，诗作此后仍不断获得新读者。"
+        },
+        "location": {
+          "lat": 28.23,
+          "lon": 112.94,
+          "label": "Hunan, representative final-travel region",
+          "labelI18n": {
+            "en": "Hunan, representative final-travel region",
+            "zh": "湖南，最后行旅的代表地区"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-du-fu-spring-view-757",
+      "china-person-libai"
+    ],
+    "expansion": {
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "release": 11,
+      "edition": "v17",
+      "sourceReview": "Original bilingual biography; dates and claims checked against the individually described sources. No donor prose reproduced.",
+      "reviewLimit": {
+        "en": "Selected career episodes; the mapped points represent named cities or regions, not exact buildings or a reconstructed itinerary.",
+        "zh": "选取仕途与创作片段；地图点代表所述城市或地区，并非确切建筑或复原行程。"
+      }
+    }
+  },
+  {
+    "id": "china-person-guoziyi",
+    "sourceProfileId": "china-person-guoziyi",
+    "name": {
+      "en": "Guo Ziyi",
+      "zh": "郭子仪"
+    },
+    "title": {
+      "en": "Guo Ziyi: a wartime commander remembered as a family elder",
+      "zh": "郭子仪：从战时统帅到福寿长者"
+    },
+    "start": 697,
+    "end": 781,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "states",
+    "importance": 4,
+    "location": {
+      "lat": 34.27,
+      "lon": 108.94,
+      "label": "Chang'an, imperial capital represented by modern Xi'an",
+      "labelI18n": {
+        "en": "Chang'an, imperial capital represented by modern Xi'an",
+        "zh": "长安，以今西安代表的帝都"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Guo Ziyi’s career joined the military institutions of the Tang to the alliances on which its survival depended. From a military examination background, he became a Shuofang commander during the An–Shi rebellion and worked with Uyghur forces in recovering the two capitals. That wartime record later supplied a different cultural image. Paintings and drama transformed him into an elder surrounded by prosperous descendants at a birthday celebration. The general and the auspicious family figure belong to different kinds of evidence: one concerns warfare and service, the other the wishes that later households expressed through his name. Reading both reveals how a political career can become part of domestic ritual and visual culture.",
+      "zh": "郭子仪的仕途把唐代军事制度与维系王朝的联盟联系起来。他出身武举，在安史战乱中担任朔方统帅，与回纥军队合作收复两京。这些战功后来又衍生出另一种文化形象：绘画与戏曲将他塑造成被显达子孙围绕、接受祝寿的长者。战时将领与吉祥家族形象属于不同层次的证据，前者涉及战争和任职，后者体现后世家庭借其名字表达的愿望。把两者一起阅读，可以观察政治生涯如何进入家居礼仪与视觉文化。"
+    },
+    "dateNote": {
+      "en": "697–781 follows the museum’s lifespan. The 755 milestone dates the war’s outbreak, not an independently established appointment day. Later birthday imagery is discussed without assigning it to his lifetime.",
+      "zh": "697—781年据馆方生卒年。755年里程碑指战争爆发，不是独立确认的任命日期。后世祝寿形象不放入其生前年表。"
+    },
+    "sources": [
+      {
+        "title": "郭子仪",
+        "publisher": "The Palace Museum, Beijing",
+        "url": "https://www.dpm.org.cn/lemmas/239788.html",
+        "evidenceNote": "Supports 697–781 lifespan, Huazhou Zhengxian origin, military examination background, Shuofang command during the rebellion and cooperation with Uyghur forces; identifies the family birthday scene as drama and legend.",
+        "evidenceNoteZh": "支持697—781年、华州郑县籍贯、武举出身、叛乱中担任朔方节度使及与回纥合作；把家庭祝寿场面明确归于戏剧与传说。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Guo Ziyi Birthday Celebration, object 1267",
+        "publisher": "Spencer Museum of Art, University of Kansas",
+        "url": "https://spencerart.ku.edu/art/collections-online/object/1267",
+        "evidenceNote": "Dates the An–Shi rebellion to 755–763 and discusses Guo’s later association with family prosperity in a late nineteenth-century depiction. Its attribution of the noble title to Xuanzong is not adopted.",
+        "evidenceNoteZh": "将安史之乱系于755—763年，说明19世纪晚期图像中郭氏与家族福寿的联系；不采用将封王归于玄宗的说法。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 697,
+        "title": {
+          "en": "Birth",
+          "zh": "出生"
+        },
+        "description": {
+          "en": "The museum dates his birth to 697 and identifies his origin as Zhengxian in Huazhou.",
+          "zh": "馆方记其生于697年，籍贯为华州郑县。"
+        },
+        "location": {
+          "lat": 34.51,
+          "lon": 109.77,
+          "label": "Huazhou Zhengxian, represented by Huazhou district",
+          "labelI18n": {
+            "en": "Huazhou Zhengxian, represented by Huazhou district",
+            "zh": "华州郑县，以今华州区代表"
+          }
+        }
+      },
+      {
+        "year": 755,
+        "title": {
+          "en": "The rebellion begins",
+          "zh": "安史战乱开始"
+        },
+        "description": {
+          "en": "The war of 755–763 became the setting for Guo’s Shuofang command and cooperation with Uyghur forces.",
+          "zh": "755—763年战争成为郭氏统领朔方、与回纥合作的背景。"
+        },
+        "location": {
+          "lat": 34.27,
+          "lon": 108.94,
+          "label": "Chang'an, a capital recovered during the war; not a 755 presence claim",
+          "labelI18n": {
+            "en": "Chang'an, a capital recovered during the war; not a 755 presence claim",
+            "zh": "长安，战争中收复的都城；不主张郭氏755年在此"
+          }
+        }
+      },
+      {
+        "year": 781,
+        "title": {
+          "en": "Death",
+          "zh": "逝世"
+        },
+        "description": {
+          "en": "The commander died; the family-prosperity image belongs to his later cultural reception.",
+          "zh": "将领去世；家族福寿形象属于后来的文化接受。"
+        },
+        "location": {
+          "lat": 34.27,
+          "lon": 108.94,
+          "label": "Chang'an, representative court setting; exact death site not asserted",
+          "labelI18n": {
+            "en": "Chang'an, representative court setting; exact death site not asserted",
+            "zh": "长安，代表性朝廷地点；不主张确切死亡地点"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-anshi-war-and-recovery-755",
+      "china-person-yanzhenqing"
+    ],
+    "expansion": {
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "release": 11,
+      "edition": "v17",
+      "sourceReview": "Original bilingual biography; dates and claims checked against the individually described sources. No donor prose reproduced.",
+      "reviewLimit": {
+        "en": "Selected career episodes; the mapped points represent named cities or regions, not exact buildings or a reconstructed itinerary.",
+        "zh": "选取仕途与创作片段；地图点代表所述城市或地区，并非确切建筑或复原行程。"
+      }
+    }
+  },
+  {
+    "id": "china-person-yanzhenqing",
+    "sourceProfileId": "china-person-yanzhenqing",
+    "name": {
+      "en": "Yan Zhenqing",
+      "zh": "颜真卿"
+    },
+    "title": {
+      "en": "Yan Zhenqing: public duty and private mourning",
+      "zh": "颜真卿：公职与家难"
+    },
+    "start": 709,
+    "end": 785,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "culture",
+    "importance": 4,
+    "location": {
+      "lat": 34.27,
+      "lon": 108.94,
+      "label": "Chang'an, imperial capital represented by modern Xi'an",
+      "labelI18n": {
+        "en": "Chang'an, imperial capital represented by modern Xi'an",
+        "zh": "长安，以今西安代表的帝都"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Yan Zhenqing’s calligraphy preserves more than an admired style. The draft he wrote in 758 for his nephew Yan Jiming recalls deaths in his family during the An–Shi rebellion. Corrections and additions make the work a record of writing under the pressure of grief, as well as a text shaped by loyalty to the Tang. Another surviving letter, assigned by scholars to about 775, belongs to a less ceremonial world of communication. These works place an official’s handwriting between public responsibility and personal need. They also invite different kinds of reading: the dated mourning text anchors an event, while the letter’s date depends on historical comparison.",
+      "zh": "颜真卿的书法保存下来的，不只是受后世推崇的风格。758年为侄儿颜季明撰写的祭文，追忆安史战乱中的家族死亡。增补与涂改使它既是哀痛中写作的痕迹，也是带有忠于唐廷立场的文字。另一封传世信札，经学者据史事推定约作于775年，则属于较少礼仪色彩的通信世界。两类作品把官员的手迹置于公共责任与个人需要之间，也要求不同的阅读方式：祭文具有明确纪年，信札的年代则依赖历史比对。"
+    },
+    "dateNote": {
+      "en": "709–785 follows the museum lifespan. The 758 manuscript is dated; the letter assigned to 775 is approximate, not independently inscribed.",
+      "zh": "709—785年据馆方生卒年。758年祭文有纪年，775年信札为推定，未自署该年。"
+    },
+    "sources": [
+      {
+        "title": "Draft of a Requiem for My Nephew, 故書000060",
+        "publisher": "National Palace Museum, Taipei",
+        "url": "https://digitalarchive.npm.gov.tw/opendata/Pub/DetailEng/3?dep=P&mode=full",
+        "evidenceNote": "The dated 758 manuscript and catalogue support Yan’s family mourning, the Changshan loss, and visible revisions; the date is that of writing, not the earlier deaths.",
+        "evidenceNoteZh": "758年有纪年手稿与馆藏说明支持颜氏家难、常山失守与文稿修改；该年为书写年代，并非较早的死亡日期。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page-object-record-and-transcription"
+      },
+      {
+        "title": "Letter to Liu Zhongshi: A Treasury of Calligraphy",
+        "publisher": "National Palace Museum, Taipei",
+        "url": "https://theme.npm.edu.tw/Calligraphy11402/en/page-2",
+        "evidenceNote": "Gives Yan’s 709–785 lifespan and explains that the unsigned, undated letter is assigned to 775 by comparison with historical events.",
+        "evidenceNoteZh": "记颜真卿709—785年，并说明未署款、未纪年的信札据相关史事推定为775年。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 709,
+        "title": {
+          "en": "Birth",
+          "zh": "出生"
+        },
+        "description": {
+          "en": "The museum dates the start of Yan’s life to 709; the point represents his later official world, not a verified birthplace.",
+          "zh": "馆方记其生于709年；此点代表后来任职的政治世界，不主张确切出生地点。"
+        },
+        "location": {
+          "lat": 34.27,
+          "lon": 108.94,
+          "label": "Chang'an, imperial capital represented by modern Xi'an",
+          "labelI18n": {
+            "en": "Chang'an, imperial capital represented by modern Xi'an",
+            "zh": "长安，以今西安代表的帝都"
+          }
+        }
+      },
+      {
+        "year": 758,
+        "title": {
+          "en": "A requiem for his nephew",
+          "zh": "撰写祭侄文稿"
+        },
+        "description": {
+          "en": "The draft records mourning for Yan Jiming and remembers the family’s losses at Changshan.",
+          "zh": "文稿祭奠颜季明，并追述常山的家族灾难。"
+        },
+        "location": {
+          "lat": 38.14,
+          "lon": 114.57,
+          "label": "Changshan, the earlier loss recalled, not the writing site",
+          "labelI18n": {
+            "en": "Changshan, the earlier loss recalled, not the writing site",
+            "zh": "常山，文中追忆家难之地，并非书写地点"
+          }
+        }
+      },
+      {
+        "year": 775,
+        "title": {
+          "en": "A letter’s inferred date",
+          "zh": "信札的推定年代"
+        },
+        "description": {
+          "en": "Scholars associate the Letter to Liu Zhongshi with events around this year.",
+          "zh": "学者将《刘中使帖》与这一年前后的史事联系起来。"
+        },
+        "location": {
+          "lat": 34.27,
+          "lon": 108.94,
+          "label": "Chang'an, imperial capital represented by modern Xi'an",
+          "labelI18n": {
+            "en": "Chang'an, imperial capital represented by modern Xi'an",
+            "zh": "长安，以今西安代表的帝都"
+          }
+        },
+        "approximate": true
+      },
+      {
+        "year": 785,
+        "title": {
+          "en": "Death",
+          "zh": "逝世"
+        },
+        "description": {
+          "en": "The museum’s biographical dates place his death in 785.",
+          "zh": "馆方传记纪年以785年为卒年。"
+        },
+        "location": {
+          "lat": 34.27,
+          "lon": 108.94,
+          "label": "Chang'an, imperial capital represented by modern Xi'an",
+          "labelI18n": {
+            "en": "Chang'an, imperial capital represented by modern Xi'an",
+            "zh": "长安，以今西安代表的帝都"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-yan-zhenqing-nephew-758",
+      "china-anshi-war-and-recovery-755"
+    ],
+    "expansion": {
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "release": 11,
+      "edition": "v17",
+      "sourceReview": "Original bilingual biography; dates and claims checked against the individually described sources. No donor prose reproduced.",
+      "reviewLimit": {
+        "en": "Selected career episodes; the mapped points represent named cities or regions, not exact buildings or a reconstructed itinerary.",
+        "zh": "选取仕途与创作片段；地图点代表所述城市或地区，并非确切建筑或复原行程。"
+      }
+    }
+  },
+  {
+    "id": "china-person-hanyu",
+    "sourceProfileId": "china-person-hanyu",
+    "name": {
+      "en": "Han Yu",
+      "zh": "韩愈"
+    },
+    "title": {
+      "en": "Han Yu: an argument that cost an office",
+      "zh": "韩愈：以仕途为代价的论辩"
+    },
+    "start": 792,
+    "end": 824,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "culture",
+    "importance": 4,
+    "location": {
+      "lat": 34.27,
+      "lon": 108.94,
+      "label": "Chang'an, imperial capital represented by modern Xi'an",
+      "labelI18n": {
+        "en": "Chang'an, imperial capital represented by modern Xi'an",
+        "zh": "长安，以今西安代表的帝都"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Han Yu treated writing as a way to intervene in public life. After passing the jinshi examination in 792, he combined official service with advocacy of guwen, prose that drew on ancient models to argue contemporary questions. His 819 protest against the emperor’s welcome of a Buddhist relic brought exile to Chaozhou. The memorial defended Confucian political and social obligations through an aggressive rejection of Buddhism and its foreign origin. That argument reveals his commitments and exclusions; it does not describe Buddhist communities on their own terms. His career connects stylistic choices with the danger of speaking to power, while his varied poetry and prose extend beyond this single confrontation.",
+      "zh": "韩愈把写作当作介入公共事务的方式。792年进士及第后，他一面为官，一面倡导借鉴古代文章、讨论当下问题的古文。819年，他反对皇帝迎奉佛骨，上表后被贬潮州。奏表以维护儒家的政治与社会义务为理由，激烈排斥佛教及其外来背景。这揭示了韩愈的信念与界限，却不是佛教社群对自身的说明。他的经历把文体选择与向权力发言的风险联系起来；其诗文的题材和风格，也远不止这一次冲突。"
+    },
+    "dateNote": {
+      "en": "792–824 selects the examination, the 819 memorial and death. The memorial is an attributed primary text, not independent proof of every accusation in it.",
+      "zh": "792—824年选取科举、819年奏表及卒年。奏表是韩愈的第一手论说，不独立证明其中所有指控。"
+    },
+    "sources": [
+      {
+        "title": "Han Yu",
+        "publisher": "Chinese University of Hong Kong, Research Centre for Translation",
+        "url": "https://cuhk.edu.hk/rct/renditions/authors/hanyu.html",
+        "evidenceNote": "Supports 768–824 lifespan, jinshi in 792, guwen advocacy and exile to Chaozhou in 819.",
+        "evidenceNoteZh": "支持768—824年、792年进士、古文倡导及819年贬潮州。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Memorial on the Bone of the Buddha",
+        "publisher": "Columbia University, Asia for Educators",
+        "url": "https://afe.easia.columbia.edu/main_pop/ps/ps_china-hanyu-bone-of-buddha.htm",
+        "evidenceNote": "Dates the memorial to 819 and supplies Han’s arguments against imperial sponsorship. These are presented as his exclusionary polemic, not neutral descriptions of Buddhism.",
+        "evidenceNoteZh": "将奏表系于819年，并提供韩愈反对皇室崇佛的论证；这些是韩氏排斥性的论说，不作佛教的中立描述。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 792,
+        "title": {
+          "en": "Passing the examination",
+          "zh": "进士及第"
+        },
+        "description": {
+          "en": "The jinshi degree opened a route into official service.",
+          "zh": "进士资格为仕途提供入口。"
+        },
+        "location": {
+          "lat": 34.27,
+          "lon": 108.94,
+          "label": "Chang'an, imperial capital represented by modern Xi'an",
+          "labelI18n": {
+            "en": "Chang'an, imperial capital represented by modern Xi'an",
+            "zh": "长安，以今西安代表的帝都"
+          }
+        }
+      },
+      {
+        "year": 819,
+        "title": {
+          "en": "Protest and exile",
+          "zh": "上表与贬谪"
+        },
+        "description": {
+          "en": "His protest against welcoming a Buddhist relic led to banishment to Chaozhou.",
+          "zh": "反对迎奉佛骨的奏表招致潮州贬谪。"
+        },
+        "location": {
+          "lat": 23.66,
+          "lon": 116.63,
+          "label": "Chaozhou, place of banishment",
+          "labelI18n": {
+            "en": "Chaozhou, place of banishment",
+            "zh": "潮州，贬谪地"
+          }
+        }
+      },
+      {
+        "year": 824,
+        "title": {
+          "en": "Death",
+          "zh": "逝世"
+        },
+        "description": {
+          "en": "His writings remained resources for later advocates of classical prose.",
+          "zh": "其文章继续成为后世古文倡导者的资源。"
+        },
+        "location": {
+          "lat": 34.27,
+          "lon": 108.94,
+          "label": "Chang'an, imperial capital represented by modern Xi'an",
+          "labelI18n": {
+            "en": "Chang'an, imperial capital represented by modern Xi'an",
+            "zh": "长安，以今西安代表的帝都"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "tang-dynasty",
+      "china-person-liuzongyuan"
+    ],
+    "expansion": {
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "release": 11,
+      "edition": "v17",
+      "sourceReview": "Original bilingual biography; dates and claims checked against the individually described sources. No donor prose reproduced.",
+      "reviewLimit": {
+        "en": "Selected career episodes; the mapped points represent named cities or regions, not exact buildings or a reconstructed itinerary.",
+        "zh": "选取仕途与创作片段；地图点代表所述城市或地区，并非确切建筑或复原行程。"
+      }
+    }
+  },
+  {
+    "id": "china-person-baijuyi",
+    "sourceProfileId": "china-person-baijuyi",
+    "name": {
+      "en": "Bai Juyi",
+      "zh": "白居易"
+    },
+    "title": {
+      "en": "Bai Juyi: poetry between office and ordinary lives",
+      "zh": "白居易：官职与日常生活之间的诗歌"
+    },
+    "start": 800,
+    "end": 846,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "culture",
+    "importance": 4,
+    "location": {
+      "lat": 29.7,
+      "lon": 116.0,
+      "label": "Jiangzhou, represented by Jiujiang",
+      "labelI18n": {
+        "en": "Jiangzhou, represented by Jiujiang",
+        "zh": "江州，以今九江代表"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Bai Juyi made the relationship between poetry and social responsibility a central concern. He entered the examination elite in 800, yet wrote verse that sought direct language and recognizable situations. The New Yuefu poems used literary form to question public conduct and draw attention to hardship. His own career moved between the capital and provincial office: banishment to Jiangzhou in 815 preceded appointments in Hangzhou and Suzhou. This movement brought the writer’s aspirations into contact with the routines of administration. His poems also explore friendship, aging and withdrawal. Reading both strands keeps the public critic and the person negotiating his own disappointments in the same life.",
+      "zh": "白居易把诗歌与社会责任的关系置于创作中心。800年进入科举精英行列后，他仍追求直接的语言与读者可以辨认的情境。新乐府借文学形式质问公共行为，关注困苦生活。他本人的仕途则在都城与地方之间移动：815年贬江州，后来又到杭州、苏州任职。这些经历使文人的抱负接触行政事务的日常。与此同时，他也写友情、衰老与退居。把两类作品一起读，才能在同一人生中看到批评时政者与消化个人失意者。"
+    },
+    "dateNote": {
+      "en": "800–846 begins with the documented jinshi degree and ends with the cited death year. Offices are dated separately from poems.",
+      "zh": "800—846年从有据的进士及第起，至所引卒年止；任职日期与诗作日期分别处理。"
+    },
+    "sources": [
+      {
+        "title": "Bai Juyi",
+        "publisher": "Chinese University of Hong Kong, Research Centre for Translation",
+        "url": "https://www.cuhk.edu.hk/rct/renditions/authors/baijuyi.html",
+        "evidenceNote": "Supports 772–846 lifespan, the 815 exile and the New Yuefu movement’s social concerns and accessible poetic language.",
+        "evidenceNoteZh": "支持772—846年、815年贬谪，以及新乐府关注社会与语言通俗的特点。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Bai Juyi, World Eras",
+        "publisher": "Gale, hosted by Encyclopedia.com",
+        "url": "https://www.encyclopedia.com/history/news-wires-white-papers-and-books/bai-juyi",
+        "evidenceNote": "Supports jinshi in 800, banishment to Jiangzhou in 815, Hangzhou office in 822 and Suzhou office in 825. The article’s incorrect assassination year is omitted.",
+        "evidenceNoteZh": "支持800年进士、815年贬江州、822年杭州任职及825年苏州任职；不采用文中错误的宰相遇刺年份。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 800,
+        "title": {
+          "en": "Jinshi degree",
+          "zh": "进士及第"
+        },
+        "description": {
+          "en": "Examination success brought Bai Juyi into official service.",
+          "zh": "科举成功使白居易进入官僚仕途。"
+        },
+        "location": {
+          "lat": 34.27,
+          "lon": 108.94,
+          "label": "Chang'an, imperial capital represented by modern Xi'an",
+          "labelI18n": {
+            "en": "Chang'an, imperial capital represented by modern Xi'an",
+            "zh": "长安，以今西安代表的帝都"
+          }
+        }
+      },
+      {
+        "year": 815,
+        "title": {
+          "en": "Banishment to Jiangzhou",
+          "zh": "贬谪江州"
+        },
+        "description": {
+          "en": "A provincial demotion interrupted his capital career.",
+          "zh": "地方贬职中断了他的京官生涯。"
+        },
+        "location": {
+          "lat": 29.7,
+          "lon": 116.0,
+          "label": "Jiangzhou, represented by Jiujiang",
+          "labelI18n": {
+            "en": "Jiangzhou, represented by Jiujiang",
+            "zh": "江州，以今九江代表"
+          }
+        }
+      },
+      {
+        "year": 822,
+        "title": {
+          "en": "Office in Hangzhou",
+          "zh": "杭州任职"
+        },
+        "description": {
+          "en": "Provincial administration became another setting for his public work.",
+          "zh": "地方行政成为其公共工作的另一场景。"
+        },
+        "location": {
+          "lat": 30.25,
+          "lon": 120.15,
+          "label": "Hangzhou, representative city",
+          "labelI18n": {
+            "en": "Hangzhou, representative city",
+            "zh": "杭州，代表性城市"
+          }
+        }
+      },
+      {
+        "year": 825,
+        "title": {
+          "en": "Office in Suzhou",
+          "zh": "苏州任职"
+        },
+        "description": {
+          "en": "He moved into an administrative post in another lower-Yangzi city.",
+          "zh": "他转到长江下游另一城市担任地方官。"
+        },
+        "location": {
+          "lat": 31.3,
+          "lon": 120.62,
+          "label": "Suzhou, representative city",
+          "labelI18n": {
+            "en": "Suzhou, representative city",
+            "zh": "苏州，代表性城市"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "tang-dynasty",
+      "china-person-liuyuxi"
+    ],
+    "expansion": {
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "release": 11,
+      "edition": "v17",
+      "sourceReview": "Original bilingual biography; dates and claims checked against the individually described sources. No donor prose reproduced.",
+      "reviewLimit": {
+        "en": "Selected career episodes; the mapped points represent named cities or regions, not exact buildings or a reconstructed itinerary.",
+        "zh": "选取仕途与创作片段；地图点代表所述城市或地区，并非确切建筑或复原行程。"
+      }
+    }
+  },
+  {
+    "id": "china-person-liuzongyuan",
+    "sourceProfileId": "china-person-liuzongyuan",
+    "name": {
+      "en": "Liu Zongyuan",
+      "zh": "柳宗元"
+    },
+    "title": {
+      "en": "Liu Zongyuan: exile, landscape and obligations",
+      "zh": "柳宗元：贬谪、山水与责任"
+    },
+    "start": 793,
+    "end": 819,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "culture",
+    "importance": 4,
+    "location": {
+      "lat": 26.22,
+      "lon": 111.62,
+      "label": "Yongzhou, represented by Lingling",
+      "labelI18n": {
+        "en": "Yongzhou, represented by Lingling",
+        "zh": "永州，以今零陵代表"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Liu Zongyuan passed the jinshi examination in 793 and joined an ambitious circle of reforming officials. Its defeat in 805 sent him to Yongzhou in a marginal post. The political setback became the setting for essays, fables and landscape writing that continue to invite readers into questions of power and perception. His descriptions of small, overlooked places gave literary attention to terrain beyond the capital. Appointment as prefect of Liuzhou in 815 restored more active administrative responsibilities, but he died there in 819. His career belongs beside Han Yu’s in the development of classical prose, while their writings offer different approaches to politics, philosophy and religious life.",
+      "zh": "柳宗元793年进士及第，后来加入试图改革政务的官员群体。805年革新失败后，他被贬永州，担任边缘性的官职。政治挫折成为散文、寓言与山水游记的写作背景，作品不断引导读者思考权力与观察方式。他描写不起眼的地点，使都城之外的地形进入文学视野。815年出任柳州刺史，使他重新承担较积极的行政职责，但819年便卒于当地。他与韩愈的经历共同构成古文发展的背景，两人的写作对政治、哲学和宗教生活又有不同回应。"
+    },
+    "dateNote": {
+      "en": "793–819 selects examination, exile, prefecture and death. Yongzhou and Liuzhou are different places, not interchangeable names.",
+      "zh": "793—819年选取科举、贬谪、地方任职与卒年。永州、柳州为不同地点，不作同名处理。"
+    },
+    "sources": [
+      {
+        "title": "Liu Zongyuan",
+        "publisher": "Yongzhou local history office",
+        "url": "https://dsfz.yzcity.gov.cn/yzdqw/yzmr/202005/b3b0274dc6b74da09e40d314d9245ce4.shtml",
+        "evidenceNote": "Supports 793 examination, exile after the 805 reform failure, Yongzhou writings, 815 Liuzhou appointment and death there in 819. Unchecked ideological appraisals and anecdotes are excluded.",
+        "evidenceNoteZh": "支持793年进士、805年革新失败后贬谪、永州写作、815年出任柳州刺史及819年卒于当地；不采用未经核对的思想标签与轶闻。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Han Yu",
+        "publisher": "Chinese University of Hong Kong, Research Centre for Translation",
+        "url": "https://cuhk.edu.hk/rct/renditions/authors/hanyu.html",
+        "evidenceNote": "Supports 768–824 lifespan, jinshi in 792, guwen advocacy and exile to Chaozhou in 819.",
+        "evidenceNoteZh": "支持768—824年、792年进士、古文倡导及819年贬潮州。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 793,
+        "title": {
+          "en": "Jinshi degree",
+          "zh": "进士及第"
+        },
+        "description": {
+          "en": "Liu Zongyuan entered the examination elite.",
+          "zh": "柳宗元取得进士资格。"
+        },
+        "location": {
+          "lat": 34.27,
+          "lon": 108.94,
+          "label": "Chang'an, imperial capital represented by modern Xi'an",
+          "labelI18n": {
+            "en": "Chang'an, imperial capital represented by modern Xi'an",
+            "zh": "长安，以今西安代表的帝都"
+          }
+        }
+      },
+      {
+        "year": 805,
+        "title": {
+          "en": "Exile to Yongzhou",
+          "zh": "贬谪永州"
+        },
+        "description": {
+          "en": "The failed reform movement ended in a marginal provincial appointment.",
+          "zh": "革新失败后，他被置于地方的边缘官职。"
+        },
+        "location": {
+          "lat": 26.22,
+          "lon": 111.62,
+          "label": "Yongzhou, represented by Lingling",
+          "labelI18n": {
+            "en": "Yongzhou, represented by Lingling",
+            "zh": "永州，以今零陵代表"
+          }
+        }
+      },
+      {
+        "year": 815,
+        "title": {
+          "en": "Prefect of Liuzhou",
+          "zh": "出任柳州刺史"
+        },
+        "description": {
+          "en": "A new appointment gave him responsibilities in Liuzhou, farther south.",
+          "zh": "新任命使他承担更南方柳州的治理职责。"
+        },
+        "location": {
+          "lat": 24.32,
+          "lon": 109.41,
+          "label": "Liuzhou, prefectural seat represented by the modern city",
+          "labelI18n": {
+            "en": "Liuzhou, prefectural seat represented by the modern city",
+            "zh": "柳州，以今市区代表州治"
+          }
+        }
+      },
+      {
+        "year": 819,
+        "title": {
+          "en": "Death in Liuzhou",
+          "zh": "卒于柳州"
+        },
+        "description": {
+          "en": "He died while still away from the central court.",
+          "zh": "他去世时仍远离中央朝廷。"
+        },
+        "location": {
+          "lat": 24.32,
+          "lon": 109.41,
+          "label": "Liuzhou",
+          "labelI18n": {
+            "en": "Liuzhou",
+            "zh": "柳州"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-person-hanyu",
+      "china-person-liuyuxi"
+    ],
+    "expansion": {
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "release": 11,
+      "edition": "v17",
+      "sourceReview": "Original bilingual biography; dates and claims checked against the individually described sources. No donor prose reproduced.",
+      "reviewLimit": {
+        "en": "Selected career episodes; the mapped points represent named cities or regions, not exact buildings or a reconstructed itinerary.",
+        "zh": "选取仕途与创作片段；地图点代表所述城市或地区，并非确切建筑或复原行程。"
+      }
+    }
+  },
+  {
+    "id": "china-person-liuyuxi",
+    "sourceProfileId": "china-person-liuyuxi",
+    "name": {
+      "en": "Liu Yuxi",
+      "zh": "刘禹锡"
+    },
+    "title": {
+      "en": "Liu Yuxi: a poet’s voice across provincial life",
+      "zh": "刘禹锡：地方生活中的诗人声音"
+    },
+    "start": 772,
+    "end": 842,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "culture",
+    "importance": 4,
+    "location": {
+      "lat": 34.27,
+      "lon": 108.94,
+      "label": "Chang'an, imperial capital represented by modern Xi'an",
+      "labelI18n": {
+        "en": "Chang'an, imperial capital represented by modern Xi'an",
+        "zh": "长安，以今西安代表的帝都"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Liu Yuxi entered official life through the jinshi examination in 793, but political conflict repeatedly displaced him from the center. Provincial service and banishment became part of the conditions in which he wrote. His poetry draws energy from folk literary forms, bringing cultivated composition into conversation with songs and voices beyond courtly circles. He also wrote philosophical prose, including discussions of Heaven that place him within the intellectual arguments of the Tang. His association with other exiled writers helps connect individual poems to networks of friendship and office. These works preserve a continuing capacity for response, rather than a career defined only by exclusion from the capital.",
+      "zh": "刘禹锡于793年进士及第，进入仕途，政治冲突却多次使他离开权力中心。地方任职与贬谪成为写作的生活条件。他的诗歌吸收民间文学形式，使文人创作与宫廷圈子以外的歌声相联系；哲学散文则通过对“天”等问题的讨论，参与唐代思想论辩。与其他贬谪文人的交往，也使具体诗作可以放回友情和官职构成的网络。作品呈现的是持续回应生活的能力，而不只是一条被都城排斥的仕途。"
+    },
+    "dateNote": {
+      "en": "772–842 follows the cited lifespan; 793 is the documented examination year. No undated individual poem is assigned an invented year.",
+      "zh": "772—842年据所引生卒年，793年进士有据；不为未定年的具体诗作虚设年份。"
+    },
+    "sources": [
+      {
+        "title": "Liu Yuxi",
+        "publisher": "Chinese University of Hong Kong, Research Centre for Translation",
+        "url": "https://www.cuhk.edu.hk/rct/renditions/authors/liuyx.html",
+        "evidenceNote": "Supports 772–842 lifespan, 793 jinshi, banishment, philosophical prose and engagement with folk literature. Does not date individual poems.",
+        "evidenceNoteZh": "支持772—842年、793年进士、贬谪、哲学散文及对民间文学的吸收；不为具体诗作定年。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Liu Zongyuan",
+        "publisher": "Yongzhou local history office",
+        "url": "https://dsfz.yzcity.gov.cn/yzdqw/yzmr/202005/b3b0274dc6b74da09e40d314d9245ce4.shtml",
+        "evidenceNote": "Supports 793 examination, exile after the 805 reform failure, Yongzhou writings, 815 Liuzhou appointment and death there in 819. Unchecked ideological appraisals and anecdotes are excluded.",
+        "evidenceNoteZh": "支持793年进士、805年革新失败后贬谪、永州写作、815年出任柳州刺史及819年卒于当地；不采用未经核对的思想标签与轶闻。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 772,
+        "title": {
+          "en": "Birth",
+          "zh": "出生"
+        },
+        "description": {
+          "en": "The university biographical note dates Liu Yuxi’s birth to 772; the point represents his later official world.",
+          "zh": "大学传记资料记其生于772年；标点代表后来任职的政治世界。"
+        },
+        "location": {
+          "lat": 34.27,
+          "lon": 108.94,
+          "label": "Chang'an, imperial capital represented by modern Xi'an",
+          "labelI18n": {
+            "en": "Chang'an, imperial capital represented by modern Xi'an",
+            "zh": "长安，以今西安代表的帝都"
+          }
+        }
+      },
+      {
+        "year": 793,
+        "title": {
+          "en": "Jinshi degree",
+          "zh": "进士及第"
+        },
+        "description": {
+          "en": "Liu Yuxi passed the same examination year as Liu Zongyuan.",
+          "zh": "刘禹锡与柳宗元同年进士及第。"
+        },
+        "location": {
+          "lat": 34.27,
+          "lon": 108.94,
+          "label": "Chang'an, imperial capital represented by modern Xi'an",
+          "labelI18n": {
+            "en": "Chang'an, imperial capital represented by modern Xi'an",
+            "zh": "长安，以今西安代表的帝都"
+          }
+        }
+      },
+      {
+        "year": 805,
+        "title": {
+          "en": "Reform and political exile",
+          "zh": "革新与政治贬谪"
+        },
+        "description": {
+          "en": "The reform circle’s defeat displaced the officials with whom he was associated.",
+          "zh": "相关革新群体的失败使其成员遭到贬谪。"
+        },
+        "location": {
+          "lat": 34.27,
+          "lon": 108.94,
+          "label": "Chang'an, imperial capital represented by modern Xi'an",
+          "labelI18n": {
+            "en": "Chang'an, imperial capital represented by modern Xi'an",
+            "zh": "长安，以今西安代表的帝都"
+          }
+        }
+      },
+      {
+        "year": 842,
+        "title": {
+          "en": "Death",
+          "zh": "逝世"
+        },
+        "description": {
+          "en": "His poems and philosophical writings survived the end of his official life.",
+          "zh": "官场生涯终结后，诗歌与哲学文字继续流传。"
+        },
+        "location": {
+          "lat": 34.27,
+          "lon": 108.94,
+          "label": "Chang'an, imperial capital represented by modern Xi'an",
+          "labelI18n": {
+            "en": "Chang'an, imperial capital represented by modern Xi'an",
+            "zh": "长安，以今西安代表的帝都"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-person-liuzongyuan",
+      "china-person-baijuyi"
+    ],
+    "expansion": {
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "release": 11,
+      "edition": "v17",
+      "sourceReview": "Original bilingual biography; dates and claims checked against the individually described sources. No donor prose reproduced.",
+      "reviewLimit": {
+        "en": "Selected career episodes; the mapped points represent named cities or regions, not exact buildings or a reconstructed itinerary.",
+        "zh": "选取仕途与创作片段；地图点代表所述城市或地区，并非确切建筑或复原行程。"
+      }
+    }
+  },
+  {
+    "id": "china-person-zhaokuangyin",
+    "sourceProfileId": "china-person-zhaokuangyin",
+    "name": {
+      "en": "Emperor Taizu of Song",
+      "zh": "赵匡胤"
+    },
+    "title": {
+      "en": "Zhao Kuangyin: a soldier becomes a founding emperor",
+      "zh": "赵匡胤：军人怎样成为开国皇帝"
+    },
+    "start": 927,
+    "end": 976,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "states",
+    "importance": 4,
+    "location": {
+      "lat": 34.8,
+      "lon": 114.31,
+      "label": "Kaifeng, Northern Song capital",
+      "labelI18n": {
+        "en": "Kaifeng, Northern Song capital",
+        "zh": "开封，北宋都城"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Zhao Kuangyin founded the Song in 960 after a career in the military world of the tenth century. Later histories made his accession the beginning of an orderly, morally guided dynasty and emphasized his preference for civil government. The distance between the soldier and the sage-like founder is itself historical evidence. Charles Hartman’s study shows how familiar accounts of the coup and the banquet at which commanders supposedly surrendered power reached their settled forms much later, amid Southern Song concerns. Taizu’s life therefore opens two connected questions: how a military leader established a new dynasty, and how later writers fashioned an exemplary origin for the state they served.",
+      "zh": "赵匡胤经历十世纪的军人政治，于960年建立宋朝。后世史书把他的即位写成有秩序、以道德治理的王朝开端，强调崇尚文治。军人与圣明开国者两种形象之间的距离，本身就是值得阅读的史料。Charles Hartman的研究指出，人们熟知的兵变与宴席释权叙事，较晚才在南宋政治关切中形成定型文本。太祖的一生由此提出两个相连的问题：军事首领如何建立新朝，后来的书写者又如何为自己服务的国家塑造典范起源。"
+    },
+    "dateNote": {
+      "en": "927–976 is the lifespan; 960–976 the reign. Birth and death markers use the later court’s city as a representative setting, not verified personal sites.",
+      "zh": "927—976年为生卒时段，960—976年为在位时段。生卒标点采用其朝廷城市作为代表背景，不认定个人的确切地点。"
+    },
+    "sources": [
+      {
+        "title": "From Soldier to Sage, chapter 9 in The Making of Song Dynasty History, Charles Hartman",
+        "publisher": "Cambridge University Press",
+        "url": "https://www.cambridge.org/core/books/abs/making-of-song-dynasty-history/from-soldier-to-sage/5F8E9725BBAC4E6A1934D63697AA83F6",
+        "evidenceNote": "Accessible chapter summary gives 927–976, reign 960–976, military origins, and later rewriting of the founding image; it dates the familiar coup and banquet narratives’ finalized forms to the 1130s.",
+        "evidenceNoteZh": "可访问的章节摘要记927—976年、在位960—976年、军人出身及开国形象的后世改写，并指出熟知的兵变与宴饮叙事在1130年代形成定型文本。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page-accessible-summary"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 927,
+        "title": {
+          "en": "Birth",
+          "zh": "出生"
+        },
+        "description": {
+          "en": "The chapter’s biographical dates begin in 927.",
+          "zh": "该章传记纪年始于927年。"
+        },
+        "location": {
+          "lat": 34.8,
+          "lon": 114.31,
+          "label": "Kaifeng, representative later court; not a birthplace claim",
+          "labelI18n": {
+            "en": "Kaifeng, representative later court; not a birthplace claim",
+            "zh": "开封，代表后来的朝廷；不作出生地认定"
+          }
+        }
+      },
+      {
+        "year": 960,
+        "title": {
+          "en": "The Song is founded",
+          "zh": "建立宋朝"
+        },
+        "description": {
+          "en": "A military leader became the founding emperor of the new dynasty.",
+          "zh": "一位军事首领成为新王朝的开国皇帝。"
+        },
+        "location": {
+          "lat": 34.8,
+          "lon": 114.31,
+          "label": "Kaifeng, Northern Song capital",
+          "labelI18n": {
+            "en": "Kaifeng, Northern Song capital",
+            "zh": "开封，北宋都城"
+          }
+        }
+      },
+      {
+        "year": 976,
+        "title": {
+          "en": "The reign ends",
+          "zh": "在位结束"
+        },
+        "description": {
+          "en": "Taizu died after a reign beginning in 960.",
+          "zh": "太祖自960年开始的统治以去世告终。"
+        },
+        "location": {
+          "lat": 34.8,
+          "lon": 114.31,
+          "label": "Kaifeng, Northern Song capital",
+          "labelI18n": {
+            "en": "Kaifeng, Northern Song capital",
+            "zh": "开封，北宋都城"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "northern-song",
+      "china-person-fanzhongyan"
+    ],
+    "expansion": {
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "release": 11,
+      "edition": "v17",
+      "sourceReview": "Original bilingual biography; dates and claims checked against the individually described sources. No donor prose reproduced.",
+      "reviewLimit": {
+        "en": "Selected career episodes; the mapped points represent named cities or regions, not exact buildings or a reconstructed itinerary.",
+        "zh": "选取仕途与创作片段；地图点代表所述城市或地区，并非确切建筑或复原行程。"
+      }
+    }
+  },
+  {
+    "id": "china-person-fanzhongyan",
+    "sourceProfileId": "china-person-fanzhongyan",
+    "name": {
+      "en": "Fan Zhongyan",
+      "zh": "范仲淹"
+    },
+    "title": {
+      "en": "Fan Zhongyan: schools, frontier service and reform",
+      "zh": "范仲淹：学校、边政与改革"
+    },
+    "start": 1015,
+    "end": 1052,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "knowledge",
+    "importance": 4,
+    "location": {
+      "lat": 31.3,
+      "lon": 120.62,
+      "label": "Suzhou, representative local administrative setting",
+      "labelI18n": {
+        "en": "Suzhou, representative local administrative setting",
+        "zh": "苏州，地方行政的代表地点"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Fan Zhongyan’s public life connected local education with arguments about how the Song should recruit and supervise its officials. After his 1015 examination success, he served in provincial government; in Suzhou in 1034, a prefectural school formed part of that work. Frontier service followed in 1040. Called to central responsibilities, he presented a reform program in 1043 addressing appointments, agriculture, labor obligations and military administration. Its political defeat and his dismissal in 1045 show that agreement about good government did not produce agreement about its methods. Remembered also for literary prose, Fan provides a link between the examination ideal and the contested practical business of running a state.",
+      "zh": "范仲淹的公共生涯，把地方教育与宋朝如何选用、考察官员的问题联系起来。1015年科举成功后，他进入地方行政；1034年任职苏州时，州学成为治理工作的一部分。1040年又转向边政。进入中央后，他于1043年提出改革计划，涉及任官、农业、劳役与军事管理。改革受挫、1045年被罢，说明即使认同善治目标，也未必同意实现方法。范仲淹同时以散文留名；通过他，可以把科举理想与国家运行中充满争论的实际事务相连接。"
+    },
+    "dateNote": {
+      "en": "1015–1052 selects the documented official career through his death. The school is dated to his 1034 Suzhou appointment; the charitable estate’s separate chronology is not included.",
+      "zh": "1015—1052年选取有据仕途至卒年。学校采用1034年苏州任职的纪年，不混入另有年代的义庄。"
+    },
+    "sources": [
+      {
+        "title": "Fan Zhongyan",
+        "publisher": "Suzhou Municipal Government",
+        "url": "https://english.suzhou.gov.cn/szsenglish/qqdyd/202303/f82c21adcddc4915a4efa1411e554c26.shtml",
+        "evidenceNote": "Supports 1015 jinshi, 1034 Suzhou office and school, 1040 frontier appointment, 1043 reform proposals, 1045 dismissal and 1052 death. The charitable estate’s conflated date is excluded.",
+        "evidenceNoteZh": "支持1015年进士、1034年苏州任职和学校、1040年边地任命、1043年改革建言、1045年罢相及1052年卒；不采用义庄混淆的年代。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 1015,
+        "title": {
+          "en": "Jinshi degree",
+          "zh": "进士及第"
+        },
+        "description": {
+          "en": "Examination success opened an official career.",
+          "zh": "科举成功开启官员生涯。"
+        },
+        "location": {
+          "lat": 34.8,
+          "lon": 114.31,
+          "label": "Kaifeng, Northern Song capital",
+          "labelI18n": {
+            "en": "Kaifeng, Northern Song capital",
+            "zh": "开封，北宋都城"
+          }
+        }
+      },
+      {
+        "year": 1034,
+        "title": {
+          "en": "A school in Suzhou",
+          "zh": "苏州兴学"
+        },
+        "description": {
+          "en": "Fan’s local administration included establishing a prefectural school.",
+          "zh": "范氏地方治理包括兴办州学。"
+        },
+        "location": {
+          "lat": 31.3,
+          "lon": 120.62,
+          "label": "Suzhou",
+          "labelI18n": {
+            "en": "Suzhou",
+            "zh": "苏州"
+          }
+        }
+      },
+      {
+        "year": 1043,
+        "title": {
+          "en": "A reform program",
+          "zh": "提出改革计划"
+        },
+        "description": {
+          "en": "Proposals addressed official selection and practical state responsibilities.",
+          "zh": "建言涉及官员选用及具体政务。"
+        },
+        "location": {
+          "lat": 34.8,
+          "lon": 114.31,
+          "label": "Kaifeng, Northern Song capital",
+          "labelI18n": {
+            "en": "Kaifeng, Northern Song capital",
+            "zh": "开封，北宋都城"
+          }
+        }
+      },
+      {
+        "year": 1045,
+        "title": {
+          "en": "Dismissal from central office",
+          "zh": "罢去中央职务"
+        },
+        "description": {
+          "en": "The reform program encountered resistance and Fan left central power.",
+          "zh": "改革遇到阻力，范氏离开中央权力位置。"
+        },
+        "location": {
+          "lat": 34.8,
+          "lon": 114.31,
+          "label": "Kaifeng, Northern Song capital",
+          "labelI18n": {
+            "en": "Kaifeng, Northern Song capital",
+            "zh": "开封，北宋都城"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "northern-song",
+      "china-person-wanganshi"
+    ],
+    "expansion": {
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "release": 11,
+      "edition": "v17",
+      "sourceReview": "Original bilingual biography; dates and claims checked against the individually described sources. No donor prose reproduced.",
+      "reviewLimit": {
+        "en": "Selected career episodes; the mapped points represent named cities or regions, not exact buildings or a reconstructed itinerary.",
+        "zh": "选取仕途与创作片段；地图点代表所述城市或地区，并非确切建筑或复原行程。"
+      }
+    }
+  },
+  {
+    "id": "china-person-ouyangxiu",
+    "sourceProfileId": "china-person-ouyangxiu",
+    "name": {
+      "en": "Ouyang Xiu",
+      "zh": "欧阳修"
+    },
+    "title": {
+      "en": "Ouyang Xiu: prose, poetry and the judgment of history",
+      "zh": "欧阳修：文章、诗歌与史家的判断"
+    },
+    "start": 1007,
+    "end": 1072,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "culture",
+    "importance": 4,
+    "location": {
+      "lat": 34.8,
+      "lon": 114.31,
+      "label": "Kaifeng, Northern Song capital",
+      "labelI18n": {
+        "en": "Kaifeng, Northern Song capital",
+        "zh": "开封，北宋都城"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Ouyang Xiu joined official life after passing the jinshi examination in 1030. His writing ranged across poetry, essays and historical narrative, making literary craft part of public intellectual work. As an advocate of classical prose, he helped renew a tradition associated with Han Yu, using models from the past to speak in a contemporary voice. His New History of the Five Dynasties also placed the recent age of competing regimes under a historian’s scrutiny. Official success, political disagreements and provincial service belonged to the same career. Reading his prose alongside his historical work asks how an author’s choices of language and example shape the moral judgments readers inherit.",
+      "zh": "欧阳修于1030年进士及第后进入仕途，创作横跨诗歌、散文与史书，使文学技艺成为公共思想活动的一部分。他倡导古文，延续与韩愈相关的传统，借鉴古代文章来表达当代问题。《新五代史》又把不久前诸政权竞逐的时代置于史家审视之下。仕途成功、政治分歧与地方任职共同构成其生涯。把散文与史学著作相对读，可以追问作者怎样通过语言和事例的选择，塑造后来读者继承的道德判断。"
+    },
+    "dateNote": {
+      "en": "1007–1072 is the cited lifespan; 1030 is the documented jinshi year. Undated works are discussed in the summary without fabricated composition years.",
+      "zh": "1007—1072年据所引生卒年，1030年进士有据。未具体定年的著作在正文讨论，不虚设成书年份。"
+    },
+    "sources": [
+      {
+        "title": "Ouyang Xiu",
+        "publisher": "Chinese University of Hong Kong, Research Centre for Translation",
+        "url": "https://www.cuhk.edu.hk/renditions/authors/ouyangx.html",
+        "evidenceNote": "Supports 1007–1072 lifespan, 1030 jinshi and work in classical prose, poetry and the New History of the Five Dynasties.",
+        "evidenceNoteZh": "支持1007—1072年、1030年进士，以及古文、诗歌和《新五代史》的写作。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 1007,
+        "title": {
+          "en": "Birth",
+          "zh": "出生"
+        },
+        "description": {
+          "en": "The university note dates the beginning of his life to 1007.",
+          "zh": "大学传记资料记其生于1007年。"
+        },
+        "location": {
+          "lat": 34.8,
+          "lon": 114.31,
+          "label": "Kaifeng, representative later official setting; not a birthplace",
+          "labelI18n": {
+            "en": "Kaifeng, representative later official setting; not a birthplace",
+            "zh": "开封，后来的仕宦背景；不作出生地认定"
+          }
+        }
+      },
+      {
+        "year": 1030,
+        "title": {
+          "en": "Examination success",
+          "zh": "科举及第"
+        },
+        "description": {
+          "en": "He passed the jinshi examination before a career combining office and writing.",
+          "zh": "进士及第后，其生涯兼有为官与写作。"
+        },
+        "location": {
+          "lat": 34.8,
+          "lon": 114.31,
+          "label": "Kaifeng, Northern Song capital",
+          "labelI18n": {
+            "en": "Kaifeng, Northern Song capital",
+            "zh": "开封，北宋都城"
+          }
+        }
+      },
+      {
+        "year": 1072,
+        "title": {
+          "en": "Death",
+          "zh": "逝世"
+        },
+        "description": {
+          "en": "His essays, verse and historical writing continued to circulate beyond his lifetime.",
+          "zh": "散文、诗词与史学著作在其身后继续流传。"
+        },
+        "location": {
+          "lat": 34.8,
+          "lon": 114.31,
+          "label": "Kaifeng, representative official world; not an exact death site",
+          "labelI18n": {
+            "en": "Kaifeng, representative official world; not an exact death site",
+            "zh": "开封，代表仕宦世界；并非确切死亡地点"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-person-hanyu",
+      "northern-song"
+    ],
+    "expansion": {
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "release": 11,
+      "edition": "v17",
+      "sourceReview": "Original bilingual biography; dates and claims checked against the individually described sources. No donor prose reproduced.",
+      "reviewLimit": {
+        "en": "Selected career episodes; the mapped points represent named cities or regions, not exact buildings or a reconstructed itinerary.",
+        "zh": "选取仕途与创作片段；地图点代表所述城市或地区，并非确切建筑或复原行程。"
+      }
+    }
+  },
+  {
+    "id": "china-person-wanganshi",
+    "sourceProfileId": "china-person-wanganshi",
+    "name": {
+      "en": "Wang Anshi",
+      "zh": "王安石"
+    },
+    "title": {
+      "en": "Wang Anshi: turning a diagnosis into policy",
+      "zh": "王安石：从诊断问题到制定政策"
+    },
+    "start": 1060,
+    "end": 1086,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "knowledge",
+    "importance": 4,
+    "location": {
+      "lat": 34.8,
+      "lon": 114.31,
+      "label": "Kaifeng, Northern Song capital",
+      "labelI18n": {
+        "en": "Kaifeng, Northern Song capital",
+        "zh": "开封，北宋都城"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Wang Anshi brought experience in local administration to a program that made government responsible for changing economic conditions. His 1069 memorial on crop loans described the difficulty farmers faced between harvests and proposed public credit alongside grain management. The argument treated expensive private borrowing as a problem that institutions could address. It was a proposal, however, not a report proving that every borrower benefited. Opponents including Sima Guang disputed the direction and methods of reform. Wang’s withdrawal to Jiangning in 1076 ended one phase of political leadership, while the controversy continued. His career invites readers to connect a policy’s stated purpose with the officials, information and coercive power needed to carry it out.",
+      "zh": "王安石把地方行政经验带入改革计划，主张政府主动改变经济条件。1069年的青苗奏议描述农民在收获之间面临的困难，提出以公共信贷配合粮食管理，把高成本私人借贷视为制度能够处理的问题。但奏议表达的是主张，并非证明每个借款者都受益的成效报告。司马光等反对者质疑改革的方向和方法。1076年退居江宁，结束了其政治领导的一个阶段，争论却继续存在。他的经历引导读者把政策目标与执行所需的官员、信息和强制力联系起来。"
+    },
+    "dateNote": {
+      "en": "1060–1086 selects his capital career through death. The 1069 loan memorial and 1076 retirement are separately evidenced; no universal policy outcome is claimed.",
+      "zh": "1060—1086年选取入京任职至卒年。1069年青苗奏议与1076年退居各有依据，不主张政策产生普遍一致的结果。"
+    },
+    "sources": [
+      {
+        "title": "王安石, Zou Zizhen",
+        "publisher": "Academy of Chinese Studies",
+        "url": "https://www.chiculture.org.hk/en/china-five-thousand-years/4065",
+        "evidenceNote": "Supports local administrative experience, 1060 capital appointment, 1069 reform program, 1076 retirement to Jiangning and 1086 death; partisan evaluations are not repeated.",
+        "evidenceNoteZh": "支持地方行政经历、1060年京官任命、1069年变法、1076年退居江宁及1086年卒；不重复党争式评价。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Wang Anshi: Memorial on the Crop Loans Measure",
+        "publisher": "Columbia University, Asia for Educators",
+        "url": "https://afe.easia.columbia.edu/main_pop/ps/ps_china-wang-anshi-crop-loans.htm",
+        "evidenceNote": "The dated 1069 memorial explains grain purchases, seasonal loans and the aim of reducing farmers’ dependence on costly private credit; this is policy advocacy, not demonstrated outcomes. Its introduction’s 1068 chief-councilor appointment is not used.",
+        "evidenceNoteZh": "有1069年纪年的奏议说明籴粜、季节性借贷及减少农民依赖高成本私人信贷的目标；这是政策主张，不是成效证明。不采用导言的1068年宰相任命说法。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 1060,
+        "title": {
+          "en": "A capital appointment",
+          "zh": "入京任职"
+        },
+        "description": {
+          "en": "After local service, Wang took up responsibilities in the capital.",
+          "zh": "地方任职之后，王氏进入京官职务。"
+        },
+        "location": {
+          "lat": 34.8,
+          "lon": 114.31,
+          "label": "Kaifeng, Northern Song capital",
+          "labelI18n": {
+            "en": "Kaifeng, Northern Song capital",
+            "zh": "开封，北宋都城"
+          }
+        }
+      },
+      {
+        "year": 1069,
+        "title": {
+          "en": "The crop-loan proposal",
+          "zh": "青苗法奏议"
+        },
+        "description": {
+          "en": "A memorial argued for seasonal public loans and grain-price measures.",
+          "zh": "奏议主张季节性公共借贷与粮价措施。"
+        },
+        "location": {
+          "lat": 34.8,
+          "lon": 114.31,
+          "label": "Kaifeng, Northern Song capital",
+          "labelI18n": {
+            "en": "Kaifeng, Northern Song capital",
+            "zh": "开封，北宋都城"
+          }
+        }
+      },
+      {
+        "year": 1076,
+        "title": {
+          "en": "Retirement to Jiangning",
+          "zh": "退居江宁"
+        },
+        "description": {
+          "en": "Wang withdrew from central leadership to Jiangning.",
+          "zh": "王氏退出中央领导职位，退居江宁。"
+        },
+        "location": {
+          "lat": 32.06,
+          "lon": 118.8,
+          "label": "Nanjing, representative city",
+          "labelI18n": {
+            "en": "Nanjing, representative city",
+            "zh": "南京，代表性城市"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-person-simaguang",
+      "china-song-money-networks"
+    ],
+    "expansion": {
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "release": 11,
+      "edition": "v17",
+      "sourceReview": "Original bilingual biography; dates and claims checked against the individually described sources. No donor prose reproduced.",
+      "reviewLimit": {
+        "en": "Selected career episodes; the mapped points represent named cities or regions, not exact buildings or a reconstructed itinerary.",
+        "zh": "选取仕途与创作片段；地图点代表所述城市或地区，并非确切建筑或复原行程。"
+      }
+    }
+  },
+  {
+    "id": "china-person-simaguang",
+    "sourceProfileId": "china-person-simaguang",
+    "name": {
+      "en": "Sima Guang",
+      "zh": "司马光"
+    },
+    "title": {
+      "en": "Sima Guang: governing through a history of decisions",
+      "zh": "司马光：以决策的历史思考治理"
+    },
+    "start": 1038,
+    "end": 1086,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "knowledge",
+    "importance": 4,
+    "location": {
+      "lat": 34.68,
+      "lon": 112.45,
+      "label": "Luoyang, representative capital",
+      "labelI18n": {
+        "en": "Luoyang, representative capital",
+        "zh": "洛阳，代表性都城"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Sima Guang passed the jinshi examination in 1038 and became an official whose political disagreements were inseparable from his historical work. He opposed Wang Anshi’s reforms and in 1070 sought to leave the capital. The Zizhi tongjian became the central undertaking of his years outside the court: a chronological history intended to make earlier political experience useful to rulers. Its organization encourages readers to follow decisions and consequences across successive regimes. Yet the selection of events and judgments is itself an argument about government. Reading Sima beside Wang brings two forms of public reasoning into conversation—a reform proposal directed at current conditions and a historical compilation directed at the uses of precedent.",
+      "zh": "司马光1038年进士及第，其后的政治分歧与史学工作密不可分。他反对王安石变法，1070年请求离开京师。在朝廷之外，《资治通鉴》成为其主要事业：以编年形式整理历史，希望过去的政治经验能够帮助统治者。这样的组织方式让读者跨越政权更替，追踪决策与后果；而事件和评判的取舍，本身也表达治国观念。将司马光与王安石相对读，可以让两种公共论证展开对话：一方针对当下条件提出改革，一方通过编史讨论先例的用途。"
+    },
+    "dateNote": {
+      "en": "1038–1086 runs from the cited examination year to death. The 1070 milestone marks departure from the capital, not a claim that the compilation began or ended in that year.",
+      "zh": "1038—1086年从所引科举纪年到卒年。1070年标示离京，不表示编修必定于该年开始或完成。"
+    },
+    "sources": [
+      {
+        "title": "Sima Guang",
+        "publisher": "Chinese University of Hong Kong, Research Centre for Translation",
+        "url": "https://www.cuhk.edu.hk/renditions/authors/simag.html",
+        "evidenceNote": "Supports 1019–1086 lifespan, 1038 jinshi, opposition to Wang Anshi and 1070 departure from the capital to work on the Zizhi tongjian. Its erroneous 405 BCE chronicle start is excluded.",
+        "evidenceNoteZh": "支持1019—1086年、1038年进士、反对王安石及1070年离京编修《资治通鉴》；不采用将编年起点误写为前405年的说法。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Wang Anshi: Memorial on the Crop Loans Measure",
+        "publisher": "Columbia University, Asia for Educators",
+        "url": "https://afe.easia.columbia.edu/main_pop/ps/ps_china-wang-anshi-crop-loans.htm",
+        "evidenceNote": "The dated 1069 memorial explains grain purchases, seasonal loans and the aim of reducing farmers’ dependence on costly private credit; this is policy advocacy, not demonstrated outcomes. Its introduction’s 1068 chief-councilor appointment is not used.",
+        "evidenceNoteZh": "有1069年纪年的奏议说明籴粜、季节性借贷及减少农民依赖高成本私人信贷的目标；这是政策主张，不是成效证明。不采用导言的1068年宰相任命说法。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 1038,
+        "title": {
+          "en": "Jinshi degree",
+          "zh": "进士及第"
+        },
+        "description": {
+          "en": "Examination success preceded his long official and scholarly career.",
+          "zh": "科举成功先于其长期官员与学者生涯。"
+        },
+        "location": {
+          "lat": 34.8,
+          "lon": 114.31,
+          "label": "Kaifeng, Northern Song capital",
+          "labelI18n": {
+            "en": "Kaifeng, Northern Song capital",
+            "zh": "开封，北宋都城"
+          }
+        }
+      },
+      {
+        "year": 1070,
+        "title": {
+          "en": "Leaving the capital",
+          "zh": "离开京师"
+        },
+        "description": {
+          "en": "Political disagreement accompanied his move away from central office and work on the chronicle.",
+          "zh": "政治分歧伴随其离开中央职位并从事编年史工作。"
+        },
+        "location": {
+          "lat": 34.68,
+          "lon": 112.45,
+          "label": "Luoyang, representative later compilation setting",
+          "labelI18n": {
+            "en": "Luoyang, representative later compilation setting",
+            "zh": "洛阳，后来编史的代表地点"
+          }
+        }
+      },
+      {
+        "year": 1086,
+        "title": {
+          "en": "Death",
+          "zh": "逝世"
+        },
+        "description": {
+          "en": "His political arguments and historical compilation remained part of later debate.",
+          "zh": "其政治主张与历史编纂此后仍参与思想论争。"
+        },
+        "location": {
+          "lat": 34.8,
+          "lon": 114.31,
+          "label": "Kaifeng, representative Song political setting",
+          "labelI18n": {
+            "en": "Kaifeng, representative Song political setting",
+            "zh": "开封，宋代政治的代表地点"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-person-wanganshi",
+      "northern-song"
+    ],
+    "expansion": {
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "release": 11,
+      "edition": "v17",
+      "sourceReview": "Original bilingual biography; dates and claims checked against the individually described sources. No donor prose reproduced.",
+      "reviewLimit": {
+        "en": "Selected career episodes; the mapped points represent named cities or regions, not exact buildings or a reconstructed itinerary.",
+        "zh": "选取仕途与创作片段；地图点代表所述城市或地区，并非确切建筑或复原行程。"
+      }
+    }
+  },
+  {
+    "id": "china-person-sushi",
+    "sourceProfileId": "china-person-sushi",
+    "name": {
+      "en": "Su Shi",
+      "zh": "苏轼"
+    },
+    "title": {
+      "en": "Su Shi: making literature in the space left by exile",
+      "zh": "苏轼：在贬谪留下的空间中写作"
+    },
+    "start": 1057,
+    "end": 1101,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "culture",
+    "importance": 4,
+    "location": {
+      "lat": 30.45,
+      "lon": 114.87,
+      "label": "Huangzhou, represented by Huanggang",
+      "labelI18n": {
+        "en": "Huangzhou, represented by Huanggang",
+        "zh": "黄州，以今黄冈代表"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Su Shi passed the jinshi examination in 1057, but literary accomplishment did not protect him from political punishment. His Huangzhou years, beginning in 1080, produced works that turned a restricted life into an expansive conversation with history, landscape and friendship. The Former Ode on the Red Cliff was composed in 1082. When he copied it for Fu Yaoyu in 1083, his request that the friend keep it privately gives the surviving calligraphy a social setting beyond its later museum fame. Poetry, prose and handwriting meet in the same object. Su’s work makes it possible to follow both the imaginative freedom of composition and the practical caution of an official living after disgrace.",
+      "zh": "苏轼1057年进士及第，文学成就却未能使他免于政治惩罚。1080年开始的黄州岁月，产生了把受限生活转化为与历史、山水和友情广泛对话的作品。1082年写成《前赤壁赋》，1083年为傅尧俞抄录时，又叮嘱友人私下收藏。这样的请求，使传世书迹拥有后来博物馆声名之外的交往背景。诗意、散文与书法汇聚在同一物件中。通过苏轼，可以同时追踪创作想象的自由，以及获罪官员在现实生活中的谨慎。"
+    },
+    "dateNote": {
+      "en": "1057–1101 selects examination through death. The 1082 composition and 1083 manuscript are distinct dates; the Huangzhou stay begins in 1080 after the 1079 prosecution.",
+      "zh": "1057—1101年选取科举至卒年。1082年创作与1083年书写为不同日期；1079年获罪后，1080年开始黄州生活。"
+    },
+    "sources": [
+      {
+        "title": "Su Shi, Former Ode on the Red Cliff, 故書000059",
+        "publisher": "National Palace Museum, Taipei",
+        "url": "https://digitalarchive.npm.gov.tw/opendata/Pub/Detail/882?dep=P&mode=full",
+        "evidenceNote": "Catalogue description supports 1057 jinshi, Huangzhou in 1080–1084, the 1082 ode and its 1083 calligraphic copy for Fu Yaoyu, and death in Changzhou in 1101; birth-date calendar variants are not resolved by this profile.",
+        "evidenceNoteZh": "馆藏说明支持1057年进士、1080—1084年黄州生活、1082年赋作、1083年为傅尧俞书写及1101年卒于常州；本条不裁定生年历法差异。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 1057,
+        "title": {
+          "en": "Jinshi degree",
+          "zh": "进士及第"
+        },
+        "description": {
+          "en": "Su Shi entered the examination elite.",
+          "zh": "苏轼进入科举士人行列。"
+        },
+        "location": {
+          "lat": 34.8,
+          "lon": 114.31,
+          "label": "Kaifeng, Northern Song capital",
+          "labelI18n": {
+            "en": "Kaifeng, Northern Song capital",
+            "zh": "开封，北宋都城"
+          }
+        }
+      },
+      {
+        "year": 1080,
+        "title": {
+          "en": "Life in Huangzhou",
+          "zh": "黄州生活开始"
+        },
+        "description": {
+          "en": "Demotion placed him in the setting of major later writing.",
+          "zh": "贬谪使他来到后来重要作品的生活背景中。"
+        },
+        "location": {
+          "lat": 30.45,
+          "lon": 114.87,
+          "label": "Huangzhou, represented by Huanggang",
+          "labelI18n": {
+            "en": "Huangzhou, represented by Huanggang",
+            "zh": "黄州，以今黄冈代表"
+          }
+        }
+      },
+      {
+        "year": 1082,
+        "title": {
+          "en": "The Red Cliff ode",
+          "zh": "写作赤壁赋"
+        },
+        "description": {
+          "en": "The prose work made history and landscape part of a literary conversation.",
+          "zh": "赋作将历史与山水纳入文学对话。"
+        },
+        "location": {
+          "lat": 30.45,
+          "lon": 114.87,
+          "label": "Huangzhou; not the location of the ancient battle",
+          "labelI18n": {
+            "en": "Huangzhou; not the location of the ancient battle",
+            "zh": "黄州；不作古战场位置认定"
+          }
+        }
+      },
+      {
+        "year": 1083,
+        "title": {
+          "en": "A manuscript for a friend",
+          "zh": "为友人书写"
+        },
+        "description": {
+          "en": "Su copied the ode for Fu Yaoyu with a request for private keeping.",
+          "zh": "苏轼为傅尧俞抄赋，并叮嘱私下收藏。"
+        },
+        "location": {
+          "lat": 30.45,
+          "lon": 114.87,
+          "label": "Huangzhou",
+          "labelI18n": {
+            "en": "Huangzhou",
+            "zh": "黄州"
+          }
+        }
+      },
+      {
+        "year": 1101,
+        "title": {
+          "en": "Death in Changzhou",
+          "zh": "卒于常州"
+        },
+        "description": {
+          "en": "He died in Changzhou after the later stages of his career.",
+          "zh": "晚年经历之后，苏轼卒于常州。"
+        },
+        "location": {
+          "lat": 31.78,
+          "lon": 119.97,
+          "label": "Changzhou",
+          "labelI18n": {
+            "en": "Changzhou",
+            "zh": "常州"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-su-shi-cold-food-1082",
+      "china-su-causeway-1089"
+    ],
+    "expansion": {
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "release": 11,
+      "edition": "v17",
+      "sourceReview": "Original bilingual biography; dates and claims checked against the individually described sources. No donor prose reproduced.",
+      "reviewLimit": {
+        "en": "Selected career episodes; the mapped points represent named cities or regions, not exact buildings or a reconstructed itinerary.",
+        "zh": "选取仕途与创作片段；地图点代表所述城市或地区，并非确切建筑或复原行程。"
+      }
+    }
+  }
+]

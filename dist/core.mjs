@@ -1,3 +1,4 @@
+import {normalizeSearch} from './search-text.mjs';
 // Civil chronology: negative years are BCE; positive years are CE. There is no year zero.
 export const MIN_YEAR = -13000;
 export const MAX_YEAR = 2026;
@@ -40,11 +41,11 @@ export function sliderFromYear(year) {
 export const activeAt = (record, year) => validYear(year) && validYear(record?.start) && validYear(record?.end) && record.start <= year && record.end >= year;
 const searchTextCache = new WeakMap();
 export function recordSearchText(record) {
-  if (!searchTextCache.has(record)) searchTextCache.set(record, [record.id,record.title?.en,record.title?.zh,record.summary?.en,record.summary?.zh,record.location?.label,record.name?.en,record.name?.zh,...(record.aliases||[])].filter(Boolean).join(' ').normalize('NFKC').toLocaleLowerCase());
+  if (!searchTextCache.has(record)) searchTextCache.set(record, normalizeSearch([record.id,record.title?.en,record.title?.zh,record.summary?.en,record.summary?.zh,record.location?.label,record.location?.labelI18n?.en,record.location?.labelI18n?.zh,record.name?.en,record.name?.zh,...(record.aliases||[])].filter(Boolean).join(' ')));
   return searchTextCache.get(record);
 }
 export function filterRecords(records, state, saved = []) {
-  const q = (state.query || '').trim().normalize('NFKC').toLocaleLowerCase();
+  const q = normalizeSearch(state.query);
   return records.filter(r =>
     (state.mode === 'all' || activeAt(r, state.year)) &&
     (!state.region || state.region === 'all' || r.region === state.region) &&

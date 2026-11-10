@@ -1,3 +1,4 @@
+import {normalizeSearch} from './search-text.mjs';
 // Presentation only: stable course IDs, source records and stop order are retained.
 const pair=(en,zh)=>({en,zh});
 export const RECOMMENDED_READINGS=['course-objects-world-stories','course-anshi-witnesses','course-books-poems-public-life'];
@@ -63,7 +64,7 @@ export function readingRange(path,chapterId=''){
  const chapter=chaptersFor(path).find(c=>c.id===chapterId);
  return chapter||{id:'',start:0,end:(path.stops||path.recordIds).length};
 }
-const normalize=value=>String(value).normalize('NFD').replace(/\p{M}/gu,'').toLowerCase();
+const normalize=normalizeSearch;
 export function buildReadingCatalog(journeys,courses,byId){
  return [...journeys,...courses.map(c=>({...c,description:c.summary,stops:c.recordIds}))].map(path=>{
   const edit=READING_EDITS[path.id],reading={...path,...edit,description:edit?.summary||path.description};

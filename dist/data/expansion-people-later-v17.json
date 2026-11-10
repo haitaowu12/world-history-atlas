@@ -1263,5 +1263,1359 @@
         "zh": "选取的事迹说明人物的历史处境，不构成完整行程。"
       }
     }
+  },
+  {
+    "id": "china-person-chensheng",
+    "sourceProfileId": "china-person-chensheng",
+    "name": {
+      "en": "Chen Sheng",
+      "zh": "陈胜"
+    },
+    "title": {
+      "en": "Chen Sheng · a conscript becomes a king",
+      "zh": "陈胜 · 从戍卒到王"
+    },
+    "start": -209,
+    "end": -209,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "states",
+    "importance": 3,
+    "location": {
+      "lat": 33.74,
+      "lon": 115.69,
+      "label": "Dazexiang area, representative revolt setting",
+      "labelI18n": {
+        "en": "Dazexiang area, representative revolt setting",
+        "zh": "大泽乡地区，起事的代表地点"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Chen Sheng enters Sima Qian’s history as a hired farm worker with ambitions beyond his assigned place. In 209 BCE, he and Wu Guang turned a group of men sent to frontier service into an armed challenge to Qin rule. Taking Chen, the insurgents proclaimed a restored Chu kingdom with Chen Sheng as king. Their success encouraged other commanders to establish power of their own, making a common rebellion difficult to direct. The biography records both the force of his challenge to inherited rank and the violence of his brief kingship. It offers a story of political possibility whose early promise did not guarantee durable institutions.",
+      "zh": "司马迁笔下的陈胜，最初是怀有远大志向的佣耕者。公元前209年，他与吴广把一队被征发戍边的人组织成反抗秦朝的武装。攻占陈地后，起事者建立张楚政权，拥陈胜为王。他的成功推动其他将领另立权力中心，也使共同的反秦事业难以统一指挥。传记既保存了对世袭地位的挑战，也记述其短暂王权中的暴力。这个故事呈现了政治变动的可能，同时说明最初的动员并不能保证制度长久。"
+    },
+    "dateNote": {
+      "en": "209 BCE is the focus year of rebellion and kingship. Reign-year dates in the primary texts are expressed as civil years. Map points are representative.",
+      "zh": "公元前209年为起事与称王的聚焦年份。原典年号纪年换算为公元纪年；地图点为代表位置。"
+    },
+    "sources": [
+      {
+        "title": "史記 卷048",
+        "publisher": "Sima Qian; public-domain primary text, Wikisource transcription",
+        "url": "https://zh.wikisource.org/wiki/史記/卷048",
+        "evidenceNote": "Opening and kingship passages support the conscription setting, 209 BCE rebellion, Chen capital and fragmentation. The reported threat of execution for delay is not asserted as a universal rule of Qin law.",
+        "evidenceNoteZh": "开篇及称王段支持征发背景、前209年起事、陈地政权与分裂；未将误期必死的叙述视为秦律的普遍规定。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page-primary-text"
+      }
+    ],
+    "milestones": [
+      {
+        "year": -209,
+        "title": {
+          "en": "Revolt with Wu Guang",
+          "zh": "与吴广起事"
+        },
+        "description": {
+          "en": "Conscripted men became the nucleus of an anti-Qin force.",
+          "zh": "被征发者成为反秦武装的核心。"
+        },
+        "location": {
+          "lat": 33.74,
+          "lon": 115.69,
+          "label": "Dazexiang area, representative revolt setting",
+          "labelI18n": {
+            "en": "Dazexiang area, representative revolt setting",
+            "zh": "大泽乡地区，起事的代表地点"
+          }
+        }
+      },
+      {
+        "year": -209,
+        "title": {
+          "en": "Kingship at Chen",
+          "zh": "在陈地称王"
+        },
+        "description": {
+          "en": "A rising force took territorial and royal form as Zhang Chu.",
+          "zh": "起事武装在张楚政权中取得领土与王权形式。"
+        },
+        "location": {
+          "lat": 33.73,
+          "lon": 114.89,
+          "label": "Chen, near present-day Huaiyang",
+          "labelI18n": {
+            "en": "Chen, near present-day Huaiyang",
+            "zh": "陈，今淮阳附近"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "qin-empire",
+      "china-person-xiangyu"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual reading of inspected dynastic histories. Retrospective judgments and reported speeches are treated as evidence of historical representation.",
+      "reviewLimit": {
+        "en": "The dynastic history is a retrospective account. Its moral judgments, speeches and army totals are not adopted as independently verified facts.",
+        "zh": "正史属于事后编纂的叙述；其中道德评价、人物对话和军队总数不直接视为独立核实的事实。"
+      }
+    },
+    "chronologyReview": {
+      "status": "limited-dated-evidence",
+      "note": {
+        "en": "Two distinct episodes are supported in the revolt year. The inherited birth year and the 207 BCE death date are not retained; precise conversion of the later death month is outside this profile.",
+        "zh": "起事年份可支持两个独立事迹。未保留原目录的出生年与前207年卒年；后续去世月份的精确换算不在本条范围内。"
+      },
+      "sourceURLs": [
+        "https://zh.wikisource.org/wiki/史記/卷048"
+      ],
+      "checkedAt": "2026-11-09"
+    }
+  },
+  {
+    "id": "china-person-lvbu",
+    "sourceProfileId": "china-person-lvbu",
+    "name": {
+      "en": "Lü Bu",
+      "zh": "吕布"
+    },
+    "title": {
+      "en": "Lü Bu · military talent without a secure coalition",
+      "zh": "吕布 · 勇力与不稳固的联盟"
+    },
+    "start": 192,
+    "end": 198,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "states",
+    "importance": 3,
+    "location": {
+      "lat": 35.76,
+      "lon": 115.03,
+      "label": "Puyang, contested Yan province centre",
+      "labelI18n": {
+        "en": "Puyang, contested Yan province centre",
+        "zh": "濮阳，兖州争夺中心"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Lü Bu served several competing leaders as the Han court lost control over its armies. He helped Wang Yun kill Dong Zhuo in 192, but their success did not secure the capital: Dong’s former followers drove him out. In 194, a rebellion against Cao Cao gave Lü Bu a base in Yan province. He subsequently moved into the struggles around Liu Bei and Yuan Shu in Xu province. The Records of the Three Kingdoms describes shifting promises, divided commanders and shortages as well as battlefield courage. Cao Cao’s siege in 198 brought these weaknesses together. Lü Bu’s career shows why prowess alone could not hold a coalition or sustain a regional state.",
+      "zh": "汉廷失去对军队的控制时，吕布先后依附于相互竞争的领袖。192年，他协助王允杀死董卓，但胜利没有稳住都城，董卓旧部很快将他逐出。194年，反曹操的叛乱使吕布在兖州取得据点。随后，他又卷入徐州刘备与袁术之间的争夺。《三国志》写下的不只有战场勇力，还有反复的承诺、分歧的部将和军粮短缺。198年曹操的围攻使这些弱点集中显现。吕布的经历说明，个人武勇不足以维系联盟或支撑地方政权。"
+    },
+    "dateNote": {
+      "en": "192–198 selects documented activity, not an inferred lifespan. Reign-year dates in the primary texts are expressed as civil years. Map points are representative.",
+      "zh": "192—198年选取有据活动，并非推算的生卒年。原典年号纪年换算为公元纪年；地图点为代表位置。"
+    },
+    "sources": [
+      {
+        "title": "三國志 卷07",
+        "publisher": "Chen Shou, with Pei Songzhi’s commentary; public-domain primary text, Wikisource transcription",
+        "url": "https://zh.wikisource.org/wiki/三國志/卷07",
+        "evidenceNote": "Lü Bu biography supports Yan rebellion, Xu province alliances and the Jian’an 3 siege; it supplies no dependable birth year.",
+        "evidenceNoteZh": "吕布传支持兖州叛乱、徐州联盟与建安三年围攻；未提供可靠出生年。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page-primary-text"
+      },
+      {
+        "title": "三國志 卷01",
+        "publisher": "Chen Shou, with Pei Songzhi’s commentary; public-domain primary text, Wikisource transcription",
+        "url": "https://zh.wikisource.org/wiki/三國志/卷01",
+        "evidenceNote": "Chuping 3 annal explicitly records Wang Yun and Lü Bu killing Dong Zhuo; Xingping 1 records the Yan rebellion.",
+        "evidenceNoteZh": "初平三年本纪明确记载王允、吕布诛董卓；兴平元年记兖州叛乱。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page-primary-text"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 192,
+        "title": {
+          "en": "Dong Zhuo killed",
+          "zh": "诛董卓"
+        },
+        "description": {
+          "en": "A court coup was followed by counterattack and flight.",
+          "zh": "宫廷政变之后，又遭反攻而出走。"
+        },
+        "location": {
+          "lat": 34.27,
+          "lon": 108.94,
+          "label": "Chang’an, court coup setting",
+          "labelI18n": {
+            "en": "Chang’an, court coup setting",
+            "zh": "长安，宫廷政变所在地"
+          }
+        }
+      },
+      {
+        "year": 194,
+        "title": {
+          "en": "Yan province contested",
+          "zh": "争夺兖州"
+        },
+        "description": {
+          "en": "Cao Cao’s opponents invited Lü Bu to command in Yan province.",
+          "zh": "曹操的反对者迎吕布主掌兖州。"
+        },
+        "location": {
+          "lat": 35.76,
+          "lon": 115.03,
+          "label": "Puyang, contested Yan province centre",
+          "labelI18n": {
+            "en": "Puyang, contested Yan province centre",
+            "zh": "濮阳，兖州争夺中心"
+          }
+        }
+      },
+      {
+        "year": 198,
+        "title": {
+          "en": "Siege at Xiapi",
+          "zh": "下邳围攻"
+        },
+        "description": {
+          "en": "Cao Cao’s campaign exposed divisions within Lü Bu’s command.",
+          "zh": "曹操的战役暴露了吕布军中的分裂。"
+        },
+        "location": {
+          "lat": 34.05,
+          "lon": 117.97,
+          "label": "Xiapi area, lower Si River",
+          "labelI18n": {
+            "en": "Xiapi area, lower Si River",
+            "zh": "下邳地区，泗水下游"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-person-caocao",
+      "china-person-liubei"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual reading of inspected dynastic histories. Retrospective judgments and reported speeches are treated as evidence of historical representation.",
+      "reviewLimit": {
+        "en": "The dynastic history is a retrospective account. Its moral judgments, speeches and army totals are not adopted as independently verified facts.",
+        "zh": "正史属于事后编纂的叙述；其中道德评价、人物对话和军队总数不直接视为独立核实的事实。"
+      }
+    }
+  },
+  {
+    "id": "china-person-yuanshao",
+    "sourceProfileId": "china-person-yuanshao",
+    "name": {
+      "en": "Yuan Shao",
+      "zh": "袁绍"
+    },
+    "title": {
+      "en": "Yuan Shao · a great family in a fragmented empire",
+      "zh": "袁绍 · 分裂帝国中的大族"
+    },
+    "start": 190,
+    "end": 202,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "states",
+    "importance": 3,
+    "location": {
+      "lat": 36.3,
+      "lon": 114.62,
+      "label": "Ye, Yuan regional power centre",
+      "labelI18n": {
+        "en": "Ye, Yuan regional power centre",
+        "zh": "邺，袁氏地方权力中心"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Yuan Shao possessed family prestige, followers and a territorial base that made him a leading contender after Han authority fractured. The coalition against Dong Zhuo chose him as its leader in 190. Taking control of Ji province the following year gave his ambitions a stronger foundation. His confrontation with Cao Cao culminated at Guandu in 200, where attacks on supplies and defections helped break his army. The biography preserves disputes among advisers over how to fight; these are also a historian’s explanation of defeat. Yuan restored control over some rebellious cities, but his death in 202 left a succession struggle. Defeat did not end his power immediately, yet it weakened what his sons inherited.",
+      "zh": "袁绍拥有家族声望、追随者与领土基础，在汉朝权威瓦解后成为主要竞争者。190年，讨董卓联盟推他为盟主；次年取得冀州，又加强了这一基础。200年，他与曹操在官渡决战，粮运遭袭与部将倒戈促成军队溃败。传记保存了谋士对作战方式的争论，这些记述也承担着史家解释失败的作用。袁绍随后重新控制部分叛离的城邑，但202年的去世引发继承冲突。官渡之败没有立即终结其势力，却削弱了诸子接手的基业。"
+    },
+    "dateNote": {
+      "en": "190–202 selects documented activity, not an inferred lifespan. Reign-year dates in the primary texts are expressed as civil years. Map points are representative.",
+      "zh": "190—202年选取有据活动，并非推算的生卒年。原典年号纪年换算为公元纪年；地图点为代表位置。"
+    },
+    "sources": [
+      {
+        "title": "三國志 卷06",
+        "publisher": "Chen Shou, with Pei Songzhi’s commentary; public-domain primary text, Wikisource transcription",
+        "url": "https://zh.wikisource.org/wiki/三國志/卷06",
+        "evidenceNote": "Yuan Shao section supports elite background, adviser disputes, Guandu defeat, restored cities and death in Jian’an 7.",
+        "evidenceNoteZh": "袁绍部分支持家世、谋士争论、官渡失败、重新平定城邑及建安七年去世。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page-primary-text"
+      },
+      {
+        "title": "三國志 卷01",
+        "publisher": "Chen Shou, with Pei Songzhi’s commentary; public-domain primary text, Wikisource transcription",
+        "url": "https://zh.wikisource.org/wiki/三國志/卷01",
+        "evidenceNote": "Chuping 1 coalition leadership and Chuping 2 acquisition of Ji province provide dated anchors.",
+        "evidenceNoteZh": "初平元年推为盟主、二年取得冀州，提供明确纪年。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page-primary-text"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 190,
+        "title": {
+          "en": "Coalition leadership",
+          "zh": "联盟领袖"
+        },
+        "description": {
+          "en": "Regional opponents of Dong Zhuo chose Yuan as their leader.",
+          "zh": "反董卓的地方势力推袁绍为盟主。"
+        },
+        "location": {
+          "lat": 35.93,
+          "lon": 115.02,
+          "label": "Henei–Hebei region, representative coalition setting",
+          "labelI18n": {
+            "en": "Henei–Hebei region, representative coalition setting",
+            "zh": "河内至河北地区，联盟代表场景"
+          }
+        }
+      },
+      {
+        "year": 191,
+        "title": {
+          "en": "Ji province base",
+          "zh": "冀州基础"
+        },
+        "description": {
+          "en": "He displaced Han Fu and took control of the province.",
+          "zh": "他取代韩馥，控制冀州。"
+        },
+        "location": {
+          "lat": 36.3,
+          "lon": 114.62,
+          "label": "Ye, Yuan regional power centre",
+          "labelI18n": {
+            "en": "Ye, Yuan regional power centre",
+            "zh": "邺，袁氏地方权力中心"
+          }
+        }
+      },
+      {
+        "year": 200,
+        "title": {
+          "en": "Guandu defeat",
+          "zh": "官渡战败"
+        },
+        "description": {
+          "en": "Destroyed supplies and defections helped unravel his campaign.",
+          "zh": "粮运被毁与部将倒戈促成战役失败。"
+        },
+        "location": {
+          "lat": 34.8,
+          "lon": 114.0,
+          "label": "Guandu area",
+          "labelI18n": {
+            "en": "Guandu area",
+            "zh": "官渡地区"
+          }
+        }
+      },
+      {
+        "year": 202,
+        "title": {
+          "en": "Death and succession",
+          "zh": "去世与继承"
+        },
+        "description": {
+          "en": "His death opened disputes among his heirs.",
+          "zh": "其去世开启诸子之间的继承争夺。"
+        },
+        "location": {
+          "lat": 36.3,
+          "lon": 114.62,
+          "label": "Ye, Yuan regional power centre",
+          "labelI18n": {
+            "en": "Ye, Yuan regional power centre",
+            "zh": "邺，袁氏地方权力中心"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-person-caocao",
+      "china-person-lvbu"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual reading of inspected dynastic histories. Retrospective judgments and reported speeches are treated as evidence of historical representation.",
+      "reviewLimit": {
+        "en": "The dynastic history is a retrospective account. Its moral judgments, speeches and army totals are not adopted as independently verified facts.",
+        "zh": "正史属于事后编纂的叙述；其中道德评价、人物对话和军队总数不直接视为独立核实的事实。"
+      }
+    }
+  },
+  {
+    "id": "china-person-zhangfei",
+    "sourceProfileId": "china-person-zhangfei",
+    "name": {
+      "en": "Zhang Fei",
+      "zh": "张飞"
+    },
+    "title": {
+      "en": "Zhang Fei · service, command and harsh discipline",
+      "zh": "张飞 · 从军、统率与严酷纪律"
+    },
+    "start": 219,
+    "end": 221,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "states",
+    "importance": 3,
+    "location": {
+      "lat": 31.56,
+      "lon": 106.0,
+      "label": "Langzhong, Zhang Fei’s final military base",
+      "labelI18n": {
+        "en": "Langzhong, Zhang Fei’s final military base",
+        "zh": "阆中，张飞最后的军事基地"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Zhang Fei’s biography presents a long association with Liu Bei and Guan Yu, built through shared military service. It credits him with covering Liu Bei’s retreat at Changban and participating in the conquest of the Sichuan basin. Promotion under Liu Bei’s new royal and imperial titles made him a senior figure in the emerging Shu state. The same account links his end to the treatment of his own soldiers: Liu Bei warned against excessive punishment, and subordinates killed Zhang Fei before the campaign against Wu in 221. This is a portrait of command that joins courage to an institutional problem—how a general’s authority depended on the people he disciplined.",
+      "zh": "张飞的传记展现了他与刘备、关羽在长期从军中建立的关系。史书将长坂掩护撤退及参与夺取四川盆地的功劳归于他。刘备称王、称帝时给予的晋升，使张飞成为蜀汉形成过程中的高级将领。同一传记也把他的结局同对士卒的待遇联系起来：刘备曾劝止过度处罚，而部下于221年伐吴前杀死张飞。这幅将领画像把勇气与统率问题放在一起：军官的权力，也取决于他如何对待执行命令的人。"
+    },
+    "dateNote": {
+      "en": "219–221 selects documented activity, not an inferred lifespan. Reign-year dates in the primary texts are expressed as civil years. Map points are representative.",
+      "zh": "219—221年选取有据活动，并非推算的生卒年。原典年号纪年换算为公元纪年；地图点为代表位置。"
+    },
+    "sources": [
+      {
+        "title": "三國志 卷36",
+        "publisher": "Chen Shou, with Pei Songzhi’s commentary; public-domain primary text, Wikisource transcription",
+        "url": "https://zh.wikisource.org/wiki/三國志/卷36",
+        "evidenceNote": "Zhang Fei biography records earlier service, Changban and Sichuan episodes, promotion with Liu Bei’s Hanzhong kingship, Zhangwu 1 promotion and murder; Huang Zhong’s adjacent biography dates the kingship to Jian’an 24.",
+        "evidenceNoteZh": "张飞传记述早年从军、长坂与入蜀、刘备为汉中王时的晋升、章武元年升职与遇害；相邻黄忠传明确称王在建安二十四年。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page-primary-text"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 219,
+        "title": {
+          "en": "Right General",
+          "zh": "右将军"
+        },
+        "description": {
+          "en": "Liu Bei’s Hanzhong kingship brought Zhang Fei a senior command.",
+          "zh": "刘备称汉中王后，张飞获授高级军职。"
+        },
+        "location": {
+          "lat": 33.07,
+          "lon": 107.03,
+          "label": "Hanzhong, royal-title setting",
+          "labelI18n": {
+            "en": "Hanzhong, royal-title setting",
+            "zh": "汉中，王号的历史场景"
+          }
+        }
+      },
+      {
+        "year": 221,
+        "title": {
+          "en": "Promotion under the emperor",
+          "zh": "称帝后的晋升"
+        },
+        "description": {
+          "en": "He became General of Chariots and Cavalry.",
+          "zh": "获任车骑将军。"
+        },
+        "location": {
+          "lat": 30.67,
+          "lon": 104.06,
+          "label": "Chengdu, Shu imperial court",
+          "labelI18n": {
+            "en": "Chengdu, Shu imperial court",
+            "zh": "成都，蜀汉朝廷"
+          }
+        }
+      },
+      {
+        "year": 221,
+        "title": {
+          "en": "Killed before departure",
+          "zh": "出兵前遇害"
+        },
+        "description": {
+          "en": "Subordinates killed him at his Langzhong base before the Wu campaign.",
+          "zh": "伐吴出发前，部下在阆中驻地将其杀死。"
+        },
+        "location": {
+          "lat": 31.56,
+          "lon": 106.0,
+          "label": "Langzhong",
+          "labelI18n": {
+            "en": "Langzhong",
+            "zh": "阆中"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-person-liubei",
+      "china-person-guanyu"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual reading of inspected dynastic histories. Retrospective judgments and reported speeches are treated as evidence of historical representation.",
+      "reviewLimit": {
+        "en": "The dynastic history is a retrospective account. Its moral judgments, speeches and army totals are not adopted as independently verified facts.",
+        "zh": "正史属于事后编纂的叙述；其中道德评价、人物对话和军队总数不直接视为独立核实的事实。"
+      }
+    }
+  },
+  {
+    "id": "china-person-zhaoyun",
+    "sourceProfileId": "china-person-zhaoyun",
+    "name": {
+      "en": "Zhao Yun",
+      "zh": "赵云"
+    },
+    "title": {
+      "en": "Zhao Yun · guarding people, holding a retreat",
+      "zh": "赵云 · 护持与有序撤退"
+    },
+    "start": 223,
+    "end": 229,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "states",
+    "importance": 3,
+    "location": {
+      "lat": 33.07,
+      "lon": 107.03,
+      "label": "Hanzhong, northern campaign base",
+      "labelI18n": {
+        "en": "Hanzhong, northern campaign base",
+        "zh": "汉中，北伐基地"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Zhao Yun’s surviving biography is brief beside the fame later attached to him. It follows a soldier who moved from Gongsun Zan’s service into Liu Bei’s circle and protected Liu Bei’s family during the retreat at Changban. The record then traces appointments in Shu and participation in Zhuge Liang’s northern campaigns. In 228, Zhao Yun and Deng Zhi faced a stronger force while the main army attacked elsewhere. Their operation failed, but Zhao kept his soldiers together during withdrawal; he nevertheless lost rank. His death followed in 229. The account offers a useful distinction between winning a campaign and fulfilling responsibilities within a defeated army.",
+      "zh": "与后世声名相比，赵云留存的正史传记篇幅很短。它记载一位从公孙瓒部下进入刘备集团的军人，以及他在长坂撤退时保护刘备家属的经历。随后，传记转向蜀汉任官与诸葛亮北伐。228年，主力向别处进攻时，赵云与邓芝面对兵力更强的对手。行动失利，但赵云在撤退中保持部众完整，仍因此受到降职处分。次年他去世。这段记载使人能够区分两件事：赢得一场战役，以及在失败的军队中履行将领职责。"
+    },
+    "dateNote": {
+      "en": "223–229 selects documented activity, not an inferred lifespan. Reign-year dates in the primary texts are expressed as civil years. Map points are representative.",
+      "zh": "223—229年选取有据活动，并非推算的生卒年。原典年号纪年换算为公元纪年；地图点为代表位置。"
+    },
+    "sources": [
+      {
+        "title": "三國志 卷36",
+        "publisher": "Chen Shou, with Pei Songzhi’s commentary; public-domain primary text, Wikisource transcription",
+        "url": "https://zh.wikisource.org/wiki/三國志/卷36",
+        "evidenceNote": "Zhao Yun main text and separately identified commentary support the early affiliation, family protection, Jianxing 1 offices, Jianxing 6 campaign and Jianxing 7 death. No birth year is stated.",
+        "evidenceNoteZh": "赵云正文及明确区分的裴注支持早期归属、保护家属、建兴元年官职、六年战事与七年去世；无出生年记载。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page-primary-text"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 223,
+        "title": {
+          "en": "Senior Shu appointment",
+          "zh": "蜀汉高级军职"
+        },
+        "description": {
+          "en": "He received new offices after Liu Shan’s accession.",
+          "zh": "刘禅即位后，赵云获得新的军职。"
+        },
+        "location": {
+          "lat": 30.67,
+          "lon": 104.06,
+          "label": "Chengdu, Shu court",
+          "labelI18n": {
+            "en": "Chengdu, Shu court",
+            "zh": "成都，蜀汉朝廷"
+          }
+        }
+      },
+      {
+        "year": 228,
+        "title": {
+          "en": "Defeat and withdrawal",
+          "zh": "失利与撤退"
+        },
+        "description": {
+          "en": "The Ji Valley operation failed, but his force avoided a general collapse.",
+          "zh": "箕谷行动失利，其部队仍避免了全面溃散。"
+        },
+        "location": {
+          "lat": 34.05,
+          "lon": 107.5,
+          "label": "Ji Valley region, approximate campaign setting",
+          "labelI18n": {
+            "en": "Ji Valley region, approximate campaign setting",
+            "zh": "箕谷地区，战役的大致位置"
+          }
+        }
+      },
+      {
+        "year": 229,
+        "title": {
+          "en": "Death",
+          "zh": "去世"
+        },
+        "description": {
+          "en": "The biography records his death in Jianxing year seven.",
+          "zh": "本传记其卒于建兴七年。"
+        },
+        "location": {
+          "lat": 30.67,
+          "lon": 104.06,
+          "label": "Shu heartland, representative memorial setting",
+          "labelI18n": {
+            "en": "Shu heartland, representative memorial setting",
+            "zh": "蜀汉腹地，纪念性代表位置"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-person-liubei",
+      "china-person-zhugeliang"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual reading of inspected dynastic histories. Retrospective judgments and reported speeches are treated as evidence of historical representation.",
+      "reviewLimit": {
+        "en": "The dynastic history is a retrospective account. Its moral judgments, speeches and army totals are not adopted as independently verified facts.",
+        "zh": "正史属于事后编纂的叙述；其中道德评价、人物对话和军队总数不直接视为独立核实的事实。"
+      }
+    }
+  },
+  {
+    "id": "china-person-jiangwei",
+    "sourceProfileId": "china-person-jiangwei",
+    "name": {
+      "en": "Jiang Wei",
+      "zh": "姜维"
+    },
+    "title": {
+      "en": "Jiang Wei · the choices of a frontier commander",
+      "zh": "姜维 · 边地将领的抉择"
+    },
+    "start": 228,
+    "end": 263,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "states",
+    "importance": 3,
+    "location": {
+      "lat": 34.58,
+      "lon": 105.73,
+      "label": "Tianshui region, Jiang Wei’s early setting",
+      "labelI18n": {
+        "en": "Tianshui region, Jiang Wei’s early setting",
+        "zh": "天水地区，姜维早年活动地"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Jiang Wei entered Shu service in 228 after the advance of Zhuge Liang’s army disrupted his position in Tianshui. The Records of the Three Kingdoms preserves differing accounts of that transfer, making it difficult to reduce his choice to a simple declaration of loyalty. He rose to command repeated campaigns against Wei, drawing on familiarity with the northwestern frontier. Defeat at Duangu in 256 exposed the costs of these efforts. During Wei’s invasion in 263, he defended Jiange while Deng Ai approached Chengdu by another line. Liu Shan’s surrender then made continued resistance untenable. Jiang Wei’s career connects strategic ambition with the limited resources and divided decisions of a smaller state.",
+      "zh": "228年，诸葛亮军队的推进打乱了姜维在天水的处境，他由此进入蜀汉。《三国志》及裴注保存了不同的归蜀经过，难以将其选择简化为一次单纯的忠诚宣言。他后来利用对西北边地的熟悉，多次率军进攻魏国；256年段谷之败显示了这些行动的代价。263年魏军入侵时，他在剑阁阻击，邓艾却从另一方向逼近成都。刘禅投降后，继续抵抗失去基础。姜维的生涯把战略抱负同一个较小国家的资源限制与决策分歧联系起来。"
+    },
+    "dateNote": {
+      "en": "228–263 selects documented activity, not an inferred lifespan. Reign-year dates in the primary texts are expressed as civil years. Map points are representative.",
+      "zh": "228—263年选取有据活动，并非推算的生卒年。原典年号纪年换算为公元纪年；地图点为代表位置。"
+    },
+    "sources": [
+      {
+        "title": "三國志 卷44",
+        "publisher": "Chen Shou, with Pei Songzhi’s commentary; public-domain primary text, Wikisource transcription",
+        "url": "https://zh.wikisource.org/wiki/三國志/卷44",
+        "evidenceNote": "Jiang Wei section dates transfer to Jianxing 6, Duangu defeat to Yanxi 19 and surrender to Jingyao 6; commentary explicitly flags differing transfer accounts.",
+        "evidenceNoteZh": "姜维部分记归蜀在建兴六年、段谷败于延熙十九年、投降在景耀六年；裴注明示归蜀记载有异。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page-primary-text"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 228,
+        "title": {
+          "en": "Entry into Shu service",
+          "zh": "进入蜀汉"
+        },
+        "description": {
+          "en": "A disrupted frontier administration preceded his transfer to Zhuge Liang.",
+          "zh": "边地行政秩序动摇后，他转入诸葛亮麾下。"
+        },
+        "location": {
+          "lat": 34.58,
+          "lon": 105.73,
+          "label": "Tianshui region",
+          "labelI18n": {
+            "en": "Tianshui region",
+            "zh": "天水地区"
+          }
+        }
+      },
+      {
+        "year": 256,
+        "title": {
+          "en": "Duangu defeat",
+          "zh": "段谷之败"
+        },
+        "description": {
+          "en": "A failed rendezvous and Wei resistance ended in a major reverse.",
+          "zh": "会师未成，加上魏军抵抗，造成严重失利。"
+        },
+        "location": {
+          "lat": 34.4,
+          "lon": 105.8,
+          "label": "Duangu region, approximate battlefield anchor",
+          "labelI18n": {
+            "en": "Duangu region, approximate battlefield anchor",
+            "zh": "段谷地区，大致战场锚点"
+          }
+        }
+      },
+      {
+        "year": 263,
+        "title": {
+          "en": "Surrender after Chengdu falls",
+          "zh": "成都降后归降"
+        },
+        "description": {
+          "en": "Liu Shan’s order reached Jiang Wei after the defence of Jiange.",
+          "zh": "剑阁防御之后，姜维接到刘禅降令。"
+        },
+        "location": {
+          "lat": 32.29,
+          "lon": 105.52,
+          "label": "Jiange, defensive position",
+          "labelI18n": {
+            "en": "Jiange, defensive position",
+            "zh": "剑阁，防御据点"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-person-zhugeliang",
+      "china-person-dengai"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual reading of inspected dynastic histories. Retrospective judgments and reported speeches are treated as evidence of historical representation.",
+      "reviewLimit": {
+        "en": "The dynastic history is a retrospective account. Its moral judgments, speeches and army totals are not adopted as independently verified facts.",
+        "zh": "正史属于事后编纂的叙述；其中道德评价、人物对话和军队总数不直接视为独立核实的事实。"
+      }
+    }
+  },
+  {
+    "id": "china-person-dengai",
+    "sourceProfileId": "china-person-dengai",
+    "name": {
+      "en": "Deng Ai",
+      "zh": "邓艾"
+    },
+    "title": {
+      "en": "Deng Ai · grain, waterways and the conquest of Shu",
+      "zh": "邓艾 · 军粮、水道与灭蜀"
+    },
+    "start": 241,
+    "end": 263,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "states",
+    "importance": 3,
+    "location": {
+      "lat": 32.62,
+      "lon": 116.98,
+      "label": "Shouchun region, military agriculture and transport",
+      "labelI18n": {
+        "en": "Shouchun region, military agriculture and transport",
+        "zh": "寿春地区，军屯与运输场景"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Deng Ai’s military career began with practical questions about food and transport. His biography describes experience in agricultural administration and proposals to connect irrigation, settlement and the movement of grain. Canal works in 241 turned those ideas into military infrastructure. Later, he defended Wei’s northwestern frontier against Jiang Wei, including a victory at Duangu in 256. In 263 his army used a difficult approach through the mountains while another Wei force confronted Shu at Jiange. Liu Shan surrendered when Deng Ai reached the Chengdu region. Read together, these episodes make the conquest more than a tale of a daring march: maintaining armies depended on fields, water and organized supplies.",
+      "zh": "邓艾的军事业绩始于粮食与运输这样的实际问题。本传记述他从事农业行政，并主张把灌溉、屯田和粮运联系起来。241年的漕渠工程使这些设想成为军事设施。后来，他在西北边境抵御姜维，包括256年段谷获胜。263年，另一支魏军在剑阁牵制蜀军时，邓艾军队由艰险山路进逼成都，促成刘禅投降。将这些经历并读，灭蜀便不只是一段奇袭故事：维持军队所依靠的，还有田地、水源与有组织的供给。"
+    },
+    "dateNote": {
+      "en": "241–263 selects documented activity, not an inferred lifespan. Reign-year dates in the primary texts are expressed as civil years. Map points are representative.",
+      "zh": "241—263年选取有据活动，并非推算的生卒年。原典年号纪年换算为公元纪年；地图点为代表位置。"
+    },
+    "sources": [
+      {
+        "title": "三國志 卷28",
+        "publisher": "Chen Shou, with Pei Songzhi’s commentary; public-domain primary text, Wikisource transcription",
+        "url": "https://zh.wikisource.org/wiki/三國志/卷28",
+        "evidenceNote": "Deng Ai section describes agricultural proposals, Zhengshi 2 canal works, Jiaping 1 frontier action, Ganlu 1 Duangu victory and Jingyuan 4 conquest.",
+        "evidenceNoteZh": "邓艾部分记述农政建议、正始二年漕渠工程、嘉平元年边地行动、甘露元年段谷获胜与景元四年灭蜀。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page-primary-text"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 241,
+        "title": {
+          "en": "Waterways for grain",
+          "zh": "漕渠运粮"
+        },
+        "description": {
+          "en": "Canal development supported military agriculture and transport.",
+          "zh": "漕渠建设支持军屯与运输。"
+        },
+        "location": {
+          "lat": 32.62,
+          "lon": 116.98,
+          "label": "Shouchun–Huai River region",
+          "labelI18n": {
+            "en": "Shouchun–Huai River region",
+            "zh": "寿春至淮河地区"
+          }
+        }
+      },
+      {
+        "year": 256,
+        "title": {
+          "en": "Victory at Duangu",
+          "zh": "段谷获胜"
+        },
+        "description": {
+          "en": "His force defeated Jiang Wei’s campaign.",
+          "zh": "其部队击败姜维此次进攻。"
+        },
+        "location": {
+          "lat": 34.4,
+          "lon": 105.8,
+          "label": "Duangu region, approximate battlefield anchor",
+          "labelI18n": {
+            "en": "Duangu region, approximate battlefield anchor",
+            "zh": "段谷地区，大致战场锚点"
+          }
+        }
+      },
+      {
+        "year": 263,
+        "title": {
+          "en": "Shu surrenders",
+          "zh": "蜀汉投降"
+        },
+        "description": {
+          "en": "His mountain approach brought a Wei army to the Chengdu region.",
+          "zh": "由山路进军，使魏军抵达成都地区。"
+        },
+        "location": {
+          "lat": 30.67,
+          "lon": 104.06,
+          "label": "Chengdu, surrender setting",
+          "labelI18n": {
+            "en": "Chengdu, surrender setting",
+            "zh": "成都，投降场景"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-person-jiangwei",
+      "china-person-simazhao"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual reading of inspected dynastic histories. Retrospective judgments and reported speeches are treated as evidence of historical representation.",
+      "reviewLimit": {
+        "en": "The dynastic history is a retrospective account. Its moral judgments, speeches and army totals are not adopted as independently verified facts.",
+        "zh": "正史属于事后编纂的叙述；其中道德评价、人物对话和军队总数不直接视为独立核实的事实。"
+      }
+    }
+  },
+  {
+    "id": "china-person-huanwen",
+    "sourceProfileId": "china-person-huanwen",
+    "name": {
+      "en": "Huan Wen",
+      "zh": "桓温"
+    },
+    "title": {
+      "en": "Huan Wen · campaigns and pressure on the court",
+      "zh": "桓温 · 征战与朝廷压力"
+    },
+    "start": 347,
+    "end": 373,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "states",
+    "importance": 3,
+    "location": {
+      "lat": 31.56,
+      "lon": 118.49,
+      "label": "Gushu, Huan Wen’s power base",
+      "labelI18n": {
+        "en": "Gushu, Huan Wen’s power base",
+        "zh": "姑孰，桓温权力基地"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Huan Wen’s conquest of Cheng-Han in 347 made him a powerful figure within the Eastern Jin. Control of regional armies allowed a commander far from the capital to influence decisions at court. Northern campaigns brought both achievement and frustration: the expedition of 369 ran short of supplies and ended in defeat. Huan then intervened directly in the succession, deposing an emperor in 371. The Book of Jin presents his ambition through ominous stories and moral judgment, but its account also reveals a structural tension between the dynasty and the armies defending it. His death in 373 left that tension unresolved; the imperial title had survived an extraordinarily powerful minister.",
+      "zh": "347年灭成汉之役使桓温成为东晋权势人物。控制地方军队，让一位远离首都的统帅能够影响宫廷决策。北伐既有进展，也有挫折：369年的远征因补给不足而以失败告终。随后，桓温直接干预皇位继承，于371年废立皇帝。《晋书》借预兆故事与道德评价描述其野心，但叙述背后也呈现出一种结构性矛盾：王朝依靠军队自卫，又受到统军者的威胁。373年桓温去世时，这一矛盾仍未解决；皇位则经历了强臣掌权而继续存在。"
+    },
+    "dateNote": {
+      "en": "347–373 selects documented activity, not an inferred lifespan. Reign-year dates in the primary texts are expressed as civil years. Map points are representative.",
+      "zh": "347—373年选取有据活动，并非推算的生卒年。原典年号纪年换算为公元纪年；地图点为代表位置。"
+    },
+    "sources": [
+      {
+        "title": "晉書 卷098",
+        "publisher": "Fang Xuanling and the Tang historiographical commission; public-domain primary text, Wikisource transcription",
+        "url": "https://zh.wikisource.org/wiki/晉書/卷098",
+        "evidenceNote": "Huan Wen biography supports conquest, regional command, Taihe 4 supply failure and court intervention; supernatural episodes are not adopted.",
+        "evidenceNoteZh": "桓温传支持征服、地方军权、太和四年补给失败及干预宫廷；未采用神异情节。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page-primary-text"
+      },
+      {
+        "title": "晉書 卷008",
+        "publisher": "Fang Xuanling and the Tang historiographical commission; public-domain primary text, Wikisource transcription",
+        "url": "https://zh.wikisource.org/wiki/晉書/卷008",
+        "evidenceNote": "Yonghe 3 annal dates Chengdu’s capture and Li Shi’s surrender to 347.",
+        "evidenceNoteZh": "永和三年本纪将成都陷落、李势投降定于347年。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page-primary-text"
+      },
+      {
+        "title": "晉書 卷009",
+        "publisher": "Fang Xuanling and the Tang historiographical commission; public-domain primary text, Wikisource transcription",
+        "url": "https://zh.wikisource.org/wiki/晉書/卷009",
+        "evidenceNote": "Xian’an 1 and Ningkang 1 annals date the imperial replacement and Huan’s death to 371 and 373.",
+        "evidenceNoteZh": "咸安元年、宁康元年本纪分别支持371年废立与373年去世。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page-primary-text"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 347,
+        "title": {
+          "en": "Chengdu taken",
+          "zh": "攻取成都"
+        },
+        "description": {
+          "en": "The surrender of Li Shi ended Cheng-Han rule.",
+          "zh": "李势投降，成汉统治结束。"
+        },
+        "location": {
+          "lat": 30.67,
+          "lon": 104.06,
+          "label": "Chengdu",
+          "labelI18n": {
+            "en": "Chengdu",
+            "zh": "成都"
+          }
+        }
+      },
+      {
+        "year": 369,
+        "title": {
+          "en": "Northern expedition fails",
+          "zh": "北伐失败"
+        },
+        "description": {
+          "en": "Transport difficulties and defeat checked the campaign.",
+          "zh": "运输困难与战败阻断远征。"
+        },
+        "location": {
+          "lat": 35.58,
+          "lon": 114.55,
+          "label": "Fangtou region, northern campaign setting",
+          "labelI18n": {
+            "en": "Fangtou region, northern campaign setting",
+            "zh": "枋头地区，北伐场景"
+          }
+        }
+      },
+      {
+        "year": 371,
+        "title": {
+          "en": "Emperor deposed",
+          "zh": "废立皇帝"
+        },
+        "description": {
+          "en": "Military authority enabled intervention in the imperial succession.",
+          "zh": "军事权威使其能够干预皇位继承。"
+        },
+        "location": {
+          "lat": 32.06,
+          "lon": 118.79,
+          "label": "Jiankang, Eastern Jin court",
+          "labelI18n": {
+            "en": "Jiankang, Eastern Jin court",
+            "zh": "建康，东晋朝廷"
+          }
+        }
+      },
+      {
+        "year": 373,
+        "title": {
+          "en": "Death at Gushu",
+          "zh": "卒于姑孰"
+        },
+        "description": {
+          "en": "He died before obtaining the exceptional honours he sought.",
+          "zh": "他在取得所求的特殊礼遇之前去世。"
+        },
+        "location": {
+          "lat": 31.56,
+          "lon": 118.49,
+          "label": "Gushu",
+          "labelI18n": {
+            "en": "Gushu",
+            "zh": "姑孰"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-person-fujian",
+      "china-person-xiexuan"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual reading of inspected dynastic histories. Retrospective judgments and reported speeches are treated as evidence of historical representation.",
+      "reviewLimit": {
+        "en": "The dynastic history is a retrospective account. Its moral judgments, speeches and army totals are not adopted as independently verified facts.",
+        "zh": "正史属于事后编纂的叙述；其中道德评价、人物对话和军队总数不直接视为独立核实的事实。"
+      }
+    }
+  },
+  {
+    "id": "china-person-fujian",
+    "sourceProfileId": "china-person-fujian",
+    "name": {
+      "en": "Fu Jian",
+      "zh": "苻坚"
+    },
+    "title": {
+      "en": "Fu Jian · conquest and a coalition’s limits",
+      "zh": "苻坚 · 征服与联盟的限度"
+    },
+    "start": 357,
+    "end": 383,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "states",
+    "importance": 3,
+    "location": {
+      "lat": 34.27,
+      "lon": 108.94,
+      "label": "Chang’an, Former Qin capital",
+      "labelI18n": {
+        "en": "Chang’an, Former Qin capital",
+        "zh": "长安，前秦都城"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Fu Jian became ruler of Former Qin in 357 and built an expanding state around Chang’an. Working with Wang Meng and other advisers, he combined military conquest with offices, schooling and the incorporation of defeated elites. The conquest of Former Yan in 370 brought new territory and people, including families moved into the Guanzhong region. Expansion also produced a difficult problem: armies and leaders incorporated by conquest did not necessarily share a lasting political commitment. In 383 Fu Jian attacked Eastern Jin and suffered defeat at the Fei River. The dynastic histories frame the disaster as a ruler ignoring advice; their account also exposes the strains of governing a large, recently assembled realm.",
+      "zh": "苻坚于357年成为前秦统治者，以长安为中心扩张国家。他与王猛等谋臣合作，将军事征服同官制、学校及接纳战败精英结合起来。370年灭前燕后，新的领土与人口进入其统治，其中一些家族被迁往关中。扩张也带来难题：征服所纳入的军队和领袖未必具有持久的政治认同。383年，苻坚进攻东晋，在淝水战败。正史将灾难归结为君主不听劝谏；这些叙述也揭示了治理一个刚刚拼合的大国所承受的压力。"
+    },
+    "dateNote": {
+      "en": "357–383 selects documented activity, not an inferred lifespan. Reign-year dates in the primary texts are expressed as civil years. Map points are representative.",
+      "zh": "357—383年选取有据活动，并非推算的生卒年。原典年号纪年换算为公元纪年；地图点为代表位置。"
+    },
+    "sources": [
+      {
+        "title": "晉書 卷113",
+        "publisher": "Fang Xuanling and the Tang historiographical commission; public-domain primary text, Wikisource transcription",
+        "url": "https://zh.wikisource.org/wiki/晉書/卷113",
+        "evidenceNote": "Shengping 1 accession, Wang Meng’s role, schools and offices, and Taihe 5 conquest and population relocation support the state-building account.",
+        "evidenceNoteZh": "升平元年即位、王猛作用、学校官制及太和五年灭燕迁民，支持建制叙述。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page-primary-text"
+      },
+      {
+        "title": "晉書 卷114",
+        "publisher": "Fang Xuanling and the Tang historiographical commission; public-domain primary text, Wikisource transcription",
+        "url": "https://zh.wikisource.org/wiki/晉書/卷114",
+        "evidenceNote": "The 383 campaign narrative records court debate, defeat and subsequent defections; army totals, supernatural explanations and exact speeches are excluded.",
+        "evidenceNoteZh": "383年战役叙述记录朝议、失败与随后叛离；排除兵力总数、神异解释及精确对话。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page-primary-text"
+      },
+      {
+        "title": "晉書 卷009",
+        "publisher": "Fang Xuanling and the Tang historiographical commission; public-domain primary text, Wikisource transcription",
+        "url": "https://zh.wikisource.org/wiki/晉書/卷009",
+        "evidenceNote": "Taiyuan 8 annal anchors the Fei River defeat to 383.",
+        "evidenceNoteZh": "太元八年本纪将淝水之败定于383年。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page-primary-text"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 357,
+        "title": {
+          "en": "Former Qin rulership",
+          "zh": "统治前秦"
+        },
+        "description": {
+          "en": "He assumed the title Heavenly King of Great Qin.",
+          "zh": "他即大秦天王位。"
+        },
+        "location": {
+          "lat": 34.27,
+          "lon": 108.94,
+          "label": "Chang’an",
+          "labelI18n": {
+            "en": "Chang’an",
+            "zh": "长安"
+          }
+        }
+      },
+      {
+        "year": 370,
+        "title": {
+          "en": "Former Yan conquered",
+          "zh": "灭前燕"
+        },
+        "description": {
+          "en": "Conquest brought new populations and the resettlement of defeated elites.",
+          "zh": "征服带来新人口，并迁移战败精英。"
+        },
+        "location": {
+          "lat": 36.3,
+          "lon": 114.62,
+          "label": "Ye, Former Yan capital",
+          "labelI18n": {
+            "en": "Ye, Former Yan capital",
+            "zh": "邺，前燕都城"
+          }
+        }
+      },
+      {
+        "year": 383,
+        "title": {
+          "en": "Defeat at the Fei River",
+          "zh": "淝水战败"
+        },
+        "description": {
+          "en": "Eastern Jin forces broke the invading army’s advance.",
+          "zh": "东晋军队击退前秦进攻。"
+        },
+        "location": {
+          "lat": 32.58,
+          "lon": 116.78,
+          "label": "Shouchun–Fei River region",
+          "labelI18n": {
+            "en": "Shouchun–Fei River region",
+            "zh": "寿春至淝水地区"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-person-xiexuan",
+      "china-person-huanwen"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual reading of inspected dynastic histories. Retrospective judgments and reported speeches are treated as evidence of historical representation.",
+      "reviewLimit": {
+        "en": "The dynastic history is a retrospective account. Its moral judgments, speeches and army totals are not adopted as independently verified facts.",
+        "zh": "正史属于事后编纂的叙述；其中道德评价、人物对话和军队总数不直接视为独立核实的事实。"
+      }
+    }
+  },
+  {
+    "id": "china-person-xiexuan",
+    "sourceProfileId": "china-person-xiexuan",
+    "name": {
+      "en": "Xie Xuan",
+      "zh": "谢玄"
+    },
+    "title": {
+      "en": "Xie Xuan · defence and the work of supply",
+      "zh": "谢玄 · 防御与补给工作"
+    },
+    "start": 377,
+    "end": 384,
+    "region": "east-asia",
+    "kind": "person",
+    "theme": "states",
+    "importance": 3,
+    "location": {
+      "lat": 32.39,
+      "lon": 119.42,
+      "label": "Guangling, Xie Xuan’s command centre",
+      "labelI18n": {
+        "en": "Guangling, Xie Xuan’s command centre",
+        "zh": "广陵，谢玄统军中心"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Xie Xuan’s appointment to command north of the Yangtze in 377 linked the influence of the Xie family at court with the practical defence of Eastern Jin. His forces helped defeat Fu Jian’s invasion at the Fei River in 383, alongside other commanders whose roles the dynastic history also records. Victory opened an opportunity to advance north. The next phase required more than battlefield success: the biography describes improving waterways to move supplies through difficult terrain. These works supported the campaign into the Yellow River region. Xie Xuan’s story makes logistics visible within a celebrated victory and shows how defence, expansion and transport could become parts of the same military undertaking.",
+      "zh": "377年谢玄受命统辖江北军务，将谢氏在朝廷的影响力与东晋防御的实际需要联系起来。383年，他与其他将领共同在淝水击败苻坚的进攻；正史也记录了这些同僚的作用。胜利提供了北进机会，但下一阶段所需的不只有战场胜绩。传记写到谢玄改善水道，使补给能够通过困难地形，支持向黄河地区推进。谢玄的故事让著名胜利背后的后勤工作显现出来，也说明防御、扩张与运输如何成为同一军事行动的组成部分。"
+    },
+    "dateNote": {
+      "en": "377–384 selects documented activity, not an inferred lifespan. Reign-year dates in the primary texts are expressed as civil years. Map points are representative.",
+      "zh": "377—384年选取有据活动，并非推算的生卒年。原典年号纪年换算为公元纪年；地图点为代表位置。"
+    },
+    "sources": [
+      {
+        "title": "晉書 卷079",
+        "publisher": "Fang Xuanling and the Tang historiographical commission; public-domain primary text, Wikisource transcription",
+        "url": "https://zh.wikisource.org/wiki/晉書/卷079",
+        "evidenceNote": "Xie Xuan section supports collective command at Fei River and later improvements to navigation for supply.",
+        "evidenceNoteZh": "谢玄部分支持淝水多将协同作战及其后为粮运改善水道。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page-primary-text"
+      },
+      {
+        "title": "晉書 卷009",
+        "publisher": "Fang Xuanling and the Tang historiographical commission; public-domain primary text, Wikisource transcription",
+        "url": "https://zh.wikisource.org/wiki/晉書/卷009",
+        "evidenceNote": "Taiyuan 2 appointment, Taiyuan 8 battle and Taiyuan 9 northward campaign provide 377, 383 and 384 anchors.",
+        "evidenceNoteZh": "太元二年任命、八年战役与九年北进，提供377、383、384年的纪年锚点。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page-primary-text"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 377,
+        "title": {
+          "en": "Command north of the Yangtze",
+          "zh": "统辖江北"
+        },
+        "description": {
+          "en": "He became inspector of Yan province and administrator of Guangling.",
+          "zh": "任兖州刺史、广陵相。"
+        },
+        "location": {
+          "lat": 32.39,
+          "lon": 119.42,
+          "label": "Guangling",
+          "labelI18n": {
+            "en": "Guangling",
+            "zh": "广陵"
+          }
+        }
+      },
+      {
+        "year": 383,
+        "title": {
+          "en": "Fei River defence",
+          "zh": "淝水防御"
+        },
+        "description": {
+          "en": "His troops fought with other Jin commands against Former Qin.",
+          "zh": "其部队与其他晋军协同抵御前秦。"
+        },
+        "location": {
+          "lat": 32.58,
+          "lon": 116.78,
+          "label": "Fei River region",
+          "labelI18n": {
+            "en": "Fei River region",
+            "zh": "淝水地区"
+          }
+        }
+      },
+      {
+        "year": 384,
+        "title": {
+          "en": "Northward campaign",
+          "zh": "向北推进"
+        },
+        "description": {
+          "en": "His command advanced toward Juancheng as Former Qin fractured.",
+          "zh": "前秦分裂之际，其部向鄄城推进。"
+        },
+        "location": {
+          "lat": 35.57,
+          "lon": 115.51,
+          "label": "Juancheng, northern campaign setting",
+          "labelI18n": {
+            "en": "Juancheng, northern campaign setting",
+            "zh": "鄄城，北进场景"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-person-fujian",
+      "china-person-huanwen"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual reading of inspected dynastic histories. Retrospective judgments and reported speeches are treated as evidence of historical representation.",
+      "reviewLimit": {
+        "en": "The dynastic history is a retrospective account. Its moral judgments, speeches and army totals are not adopted as independently verified facts.",
+        "zh": "正史属于事后编纂的叙述；其中道德评价、人物对话和军队总数不直接视为独立核实的事实。"
+      }
+    }
   }
 ]

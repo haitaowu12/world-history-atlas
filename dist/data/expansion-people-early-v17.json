@@ -1,0 +1,3043 @@
+[
+  {
+    "id": "china-person-mengzi",
+    "name": {
+      "en": "Mencius",
+      "zh": "孟子"
+    },
+    "title": {
+      "en": "Mencius · Learning to govern humanely",
+      "zh": "孟子 · 仁政如何可能"
+    },
+    "kind": "person",
+    "sourceProfileId": "china-person-mengzi",
+    "start": -323,
+    "end": -314,
+    "location": {
+      "lat": 36.82,
+      "lon": 118.3,
+      "label": "Linzi, capital of Qi",
+      "labelI18n": {
+        "en": "Linzi, capital of Qi",
+        "zh": "齐都临淄"
+      }
+    },
+    "locationPrecision": "representative",
+    "region": "east-asia",
+    "theme": "knowledge",
+    "importance": 3,
+    "summary": {
+      "en": "Mencius carried a demanding question into the courts of the Warring States: what would government look like if rulers began with people's needs? In the dialogues associated with him, secure livelihoods make moral conduct possible, while conquest and display offer no substitute for care. His account of human nature starts from capacities for compassion and judgment that require cultivation, rather than from a claim that everyone already behaves well. The book also preserves frustration: rulers listened without necessarily changing their policies. Its conversations were collected and shaped by later followers. Reading them alongside Qin's reforms reveals competing answers to the same problem—how to establish order in a world of rival states.",
+      "zh": "孟子走入战国诸侯的宫廷，提出一个要求很高的问题：如果君主从百姓的生活出发，政治应当怎样运作？《孟子》中的对话把稳定的生计视为践行道德的条件，认为征服和炫耀不能代替对人的照顾。他讨论人性时，强调恻隐与判断能力需要培育，并不是说人人已经行为良善。书中也保留了劝说的挫折：君主愿意听，并不意味着愿意改变政策。这些对话由后学整理而成。把它与秦国变法并读，可以看到面对列国竞争，思想家提出了怎样不同的秩序方案。"
+    },
+    "dateNote": {
+      "en": "Focus: ruler encounters datable to 323–314 BCE in the Internet Encyclopedia of Philosophy. The single approximate marker stands for that interval; traditional birth and death dates are not treated as established.",
+      "zh": "重点为《互联网哲学百科全书》所列可断代至前323—前314年的诸侯会见。唯一的约年节点代表这一时段，不把传统生卒年当作定论。"
+    },
+    "sources": [
+      {
+        "title": "Mencius",
+        "publisher": "Stanford Encyclopedia of Philosophy",
+        "url": "https://plato.stanford.edu/entries/mencius/",
+        "evidenceNote": "Sections on life, moral psychology and political philosophy support the dialogues, cultivation and humane government; the work has a layered transmission.",
+        "evidenceNoteZh": "生平、道德心理与政治哲学各节支持对话、修养和仁政论述，并说明文本经过后世编订。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Mencius",
+        "publisher": "Internet Encyclopedia of Philosophy",
+        "url": "https://iep.utm.edu/mencius/",
+        "evidenceNote": "Biographical section dates ruler encounters to 323–314 BCE and distinguishes them from uncertain traditional lifespan dates.",
+        "evidenceNoteZh": "生平节将诸侯会见定在前323—前314年，并与不确定的传统生卒年区分。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": -320,
+        "title": {
+          "en": "Counsel at Warring States courts",
+          "zh": "在诸侯宫廷论政"
+        },
+        "description": {
+          "en": "Around this period, the dialogues place Mencius advising rulers on livelihood, war and humane government. The year is an approximate anchor within the dated encounter interval.",
+          "zh": "这一时期的对话记述孟子就生计、战争和仁政劝说诸侯。此年仅为可断代会见时段内的约略定位。"
+        },
+        "location": {
+          "lat": 36.82,
+          "lon": 118.3,
+          "label": "Linzi, capital of Qi",
+          "labelI18n": {
+            "en": "Linzi, capital of Qi",
+            "zh": "齐都临淄"
+          }
+        },
+        "approximate": true
+      }
+    ],
+    "relatedIds": [
+      "zhou-dynasty",
+      "china-person-shangyang"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual biography from inspected primary texts and specialist interpretation. Inherited directory lifespan and itinerary are not evidence.",
+      "reviewLimit": {
+        "en": "The marker represents an attested setting, not a reconstructed journey. Ancient speeches and anecdotes are treated as transmitted narrative.",
+        "zh": "地图点代表有文献依据的历史场景，不是复原行程。古代言辞与轶事按传世叙事处理。"
+      }
+    },
+    "chronologyReview": {
+      "status": "limited-dated-evidence",
+      "note": {
+        "en": "The inspected biographies establish a short encounter interval, not three separately dated life events.",
+        "zh": "所查资料能确定一段会见时期，不能据此编造三个独立的生平日期。"
+      },
+      "sourceURLs": [
+        "https://plato.stanford.edu/entries/mencius/",
+        "https://iep.utm.edu/mencius/"
+      ],
+      "checkedAt": "2026-11-09"
+    }
+  },
+  {
+    "id": "china-person-shangyang",
+    "name": {
+      "en": "Shang Yang",
+      "zh": "商鞅"
+    },
+    "title": {
+      "en": "Shang Yang · Remaking the Qin state",
+      "zh": "商鞅 · 重塑秦国制度"
+    },
+    "kind": "person",
+    "sourceProfileId": "china-person-shangyang",
+    "start": -356,
+    "end": -338,
+    "location": {
+      "lat": 34.36,
+      "lon": 108.71,
+      "label": "Xianyang, Qin court in the Wei valley",
+      "labelI18n": {
+        "en": "Xianyang, Qin court in the Wei valley",
+        "zh": "渭水流域的秦都咸阳"
+      }
+    },
+    "locationPrecision": "representative",
+    "region": "east-asia",
+    "theme": "states",
+    "importance": 3,
+    "summary": {
+      "en": "Shang Yang's reforms made farming, military service and official rewards parts of a single political project. The Shiji describes households registered in groups, rewards for military achievement, pressure to divide large families, and penalties that reached beyond an individual offender. County officials and common measures strengthened the court's reach into local life. These changes challenged hereditary privilege while imposing new forms of coercion. Their author did not enjoy lasting protection: after Duke Xiao died, his opponents pursued and killed him. The Book of Lord Shang developed related arguments over several generations. It is evidence for a tradition of statecraft, not a transcript of everything Shang Yang personally believed or enacted.",
+      "zh": "商鞅把农业、军役和官府赏罚纳入同一个政治方案。《史记》记述了编户连坐、按军功授爵、促使大家庭分户，以及牵连个人以外的严厉刑罚。设置县官、统一度量，也让国君更直接地介入地方生活。这些措施冲击世袭特权，同时建立了新的强制机制。变法者本人并未获得持久保护：秦孝公死后，政敌追捕并杀死了他。与其相关的《商君书》经过几代人的形成，反映的是一种治国思想传统，不能把全书都当作商鞅个人言行的实录。"
+    },
+    "dateNote": {
+      "en": "Focus: the conventional reform period, 356–338 BCE; 350 BCE marks the Xianyang and county-administration measures. Regnal chronology is read with Shiji chapters 5 and 68. No inherited birth year is retained.",
+      "zh": "重点为通常所定的前356—前338年变法时期；前350年对应迁都咸阳与县制措施。纪年结合《史记》卷五、卷六十八，不沿用未经核实的出生年。"
+    },
+    "sources": [
+      {
+        "title": "Sima Qian, Shiji, chapter 68",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/史記/卷068",
+        "evidenceNote": "Reform provisions, the Xianyang move, the Wei campaign and death after Duke Xiao; the biography also contains moralizing anecdotes, which are not treated as literal reports.",
+        "evidenceNoteZh": "支持变法条文、迁都咸阳、对魏作战及孝公死后的败亡；未将其中劝诫性轶事当作现场实录。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Sima Qian, Shiji, chapter 5",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/史記/卷005",
+        "evidenceNote": "Qin annals supply Duke Xiao’s sequence of reforms, Xianyang administration and death; civil-year labels follow conventional regnal conversion.",
+        "evidenceNoteZh": "秦本纪提供孝公时期变法、咸阳行政和去世的纪年顺序；公元纪年采用通行的在位年换算。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "The Book of Lord Shang",
+        "publisher": "Columbia University Press",
+        "url": "https://cup.columbia.edu/book/the-book-of-lord-shang/9780231542333/",
+        "evidenceNote": "Publisher summary of Yuri Pines’s edition dates compilation to the fourth–third centuries BCE and attributes the work to Shang Yang and followers.",
+        "evidenceNoteZh": "尤锐译注本的出版社说明将成书定在前四至前三世纪，作者包括商鞅及其后学。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": -356,
+        "title": {
+          "en": "Reform and rewards",
+          "zh": "变法与奖惩"
+        },
+        "description": {
+          "en": "The conventional first reform date marks measures tying households, agricultural production and military merit to state administration.",
+          "zh": "通常以此年为初次变法时间，户籍、农业生产和军功开始更紧密地纳入国家管理。"
+        },
+        "location": {
+          "lat": 34.36,
+          "lon": 108.71,
+          "label": "Xianyang, Qin court in the Wei valley",
+          "labelI18n": {
+            "en": "Xianyang, Qin court in the Wei valley",
+            "zh": "渭水流域的秦都咸阳"
+          }
+        }
+      },
+      {
+        "year": -350,
+        "title": {
+          "en": "A capital and county officials",
+          "zh": "新都与县官"
+        },
+        "description": {
+          "en": "The move to Xianyang accompanied administrative consolidation and common measures.",
+          "zh": "迁都咸阳伴随地方行政整合及度量制度调整。"
+        },
+        "location": {
+          "lat": 34.36,
+          "lon": 108.71,
+          "label": "Xianyang, Qin court in the Wei valley",
+          "labelI18n": {
+            "en": "Xianyang, Qin court in the Wei valley",
+            "zh": "渭水流域的秦都咸阳"
+          }
+        }
+      },
+      {
+        "year": -338,
+        "title": {
+          "en": "Loss of royal protection",
+          "zh": "失去国君保护"
+        },
+        "description": {
+          "en": "Duke Xiao’s death was followed by Shang Yang’s arrest campaign and killing; the institutional program outlived its sponsor.",
+          "zh": "孝公去世后，商鞅遭追捕并被杀；相关制度并未随其身亡而全部终止。"
+        },
+        "location": {
+          "lat": 34.36,
+          "lon": 108.71,
+          "label": "Xianyang, Qin court in the Wei valley",
+          "labelI18n": {
+            "en": "Xianyang, Qin court in the Wei valley",
+            "zh": "渭水流域的秦都咸阳"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "zhou-dynasty",
+      "qin-unification"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual biography from inspected primary texts and specialist interpretation. Inherited directory lifespan and itinerary are not evidence.",
+      "reviewLimit": {
+        "en": "The marker represents an attested setting, not a reconstructed journey. Ancient speeches and anecdotes are treated as transmitted narrative.",
+        "zh": "地图点代表有文献依据的历史场景，不是复原行程。古代言辞与轶事按传世叙事处理。"
+      }
+    }
+  },
+  {
+    "id": "china-person-sunbin",
+    "name": {
+      "en": "Sun Bin",
+      "zh": "孙膑"
+    },
+    "title": {
+      "en": "Sun Bin · Strategy and the stories of victory",
+      "zh": "孙膑 · 兵法与胜利的叙事"
+    },
+    "kind": "person",
+    "sourceProfileId": "china-person-sunbin",
+    "start": -353,
+    "end": -341,
+    "location": {
+      "lat": 36.82,
+      "lon": 118.3,
+      "label": "Linzi, capital of Qi",
+      "labelI18n": {
+        "en": "Linzi, capital of Qi",
+        "zh": "齐都临淄"
+      }
+    },
+    "locationPrecision": "representative",
+    "region": "east-asia",
+    "theme": "states",
+    "importance": 3,
+    "summary": {
+      "en": "Sun Bin appears in the Shiji as a strategist serving Qi after suffering mutilation in the rival state of Wei. Working with Tian Ji, he redirects attention from a besieged ally toward the enemy's vulnerable home territory. The battles of Guiling and Maling became celebrated examples of anticipation and deception. Their surviving accounts differ, however, in what happened to the opposing commander Pang Juan. Bamboo manuscripts excavated at Yinqueshan in 1972 restored a military text associated with Sun Bin and made those differences visible. His story therefore connects two kinds of historical work: examining how armies fought and asking how later writers turned a campaign into an exemplary lesson.",
+      "zh": "《史记》中的孙膑先在魏国遭受膑刑，后来为齐国谋划战事。他与田忌合作，把行动的重点从救援受围的盟国，转向敌国本土的弱处。桂陵和马陵之战因而成为预判与用计的著名故事。不过，传世记述对对手庞涓的遭遇并不完全一致。1972年，银雀山出土的竹简使与孙膑有关的兵书重新进入研究视野，也显露了不同叙事之间的差别。他的经历连接着两种历史问题：军队如何作战，后来的作者又如何把一次战役写成可供学习的范例。"
+    },
+    "dateNote": {
+      "en": "Focus: Guiling and Maling, conventionally 353 and 341 BCE. These dates do not establish a lifespan. The battlefield markers represent regional settings, and the accounts differ in campaign details.",
+      "zh": "重点为通常系于前353年、前341年的桂陵与马陵之战，不据此推定生卒年。战役地点仅代表区域场景，各种记述对细节存在差异。"
+    },
+    "sources": [
+      {
+        "title": "Sima Qian, Shiji, chapter 65",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/史記/卷065",
+        "evidenceNote": "Sun Bin’s service with Tian Ji and the two battle narratives; reported speeches, the racing anecdote and the precise ambush details are literary testimony.",
+        "evidenceNoteZh": "支持孙膑辅佐田忌及两场战役的叙事；言辞、赛马故事和伏击细节属于文学化的文献见证。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Signs, clues and traces: anticipation in ancient Chinese political and military texts",
+        "publisher": "Albert Galvany / Early China, author-hosted article",
+        "url": "https://www.academia.edu/13490949/Signs_clues_and_traces_anticipation_in_ancient_Chinese_political_and_military_texts",
+        "evidenceNote": "Albert Galvany’s Early China study gives 353 and 341 BCE and compares Shiji, Zhanguo ce and Yinqueshan versions.",
+        "evidenceNoteZh": "Albert Galvany发表于《Early China》的研究采用前353、前341年，并比较《史记》《战国策》与银雀山文本。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Sun Bin Art of War",
+        "publisher": "China Culture",
+        "url": "https://en.chinaculture.org/created/2005-07/21/content_70807.htm",
+        "evidenceNote": "Documents the 1972 Yinqueshan recovery, incomplete slips and uncertainty over the second section’s attribution.",
+        "evidenceNoteZh": "说明1972年银雀山出土、竹简残缺及第二部分归属未定。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": -353,
+        "title": {
+          "en": "Guiling",
+          "zh": "桂陵之战"
+        },
+        "description": {
+          "en": "The conventional chronology places Qi’s intervention against Wei here; the sources emphasize pressure on the enemy’s rear.",
+          "zh": "通行纪年将齐国对魏的干预系于此年，文献强调攻击敌方后方的思路。"
+        },
+        "location": {
+          "lat": 35.24,
+          "lon": 115.44,
+          "label": "Guiling, Heze region; battlefield location approximate",
+          "labelI18n": {
+            "en": "Guiling, Heze region; battlefield location approximate",
+            "zh": "桂陵，今菏泽一带；战场位置为约指"
+          }
+        },
+        "approximate": true
+      },
+      {
+        "year": -341,
+        "title": {
+          "en": "Maling",
+          "zh": "马陵之战"
+        },
+        "description": {
+          "en": "Qi’s victory became a narrative about misleading an opponent. The texts disagree on some participants’ fates.",
+          "zh": "齐军胜利成为误导对手的兵学故事，不同文本对部分人物结局记载有异。"
+        },
+        "location": {
+          "lat": 35.63,
+          "lon": 118.35,
+          "label": "Maling, Shandong region; disputed battlefield setting",
+          "labelI18n": {
+            "en": "Maling, Shandong region; disputed battlefield setting",
+            "zh": "马陵，山东一带；战场定位有争议"
+          }
+        },
+        "approximate": true
+      }
+    ],
+    "relatedIds": [
+      "zhou-dynasty",
+      "china-person-shangyang"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual biography from inspected primary texts and specialist interpretation. Inherited directory lifespan and itinerary are not evidence.",
+      "reviewLimit": {
+        "en": "The marker represents an attested setting, not a reconstructed journey. Ancient speeches and anecdotes are treated as transmitted narrative.",
+        "zh": "地图点代表有文献依据的历史场景，不是复原行程。古代言辞与轶事按传世叙事处理。"
+      }
+    },
+    "chronologyReview": {
+      "status": "limited-dated-evidence",
+      "note": {
+        "en": "Two conventionally dated battles are supportable; no third dated event or exact lifespan is established.",
+        "zh": "能支持两个通行战役纪年，不能据此增添第三个日期或精确生卒年。"
+      },
+      "sourceURLs": [
+        "https://zh.wikisource.org/wiki/史記/卷065",
+        "https://www.academia.edu/13490949/Signs_clues_and_traces_anticipation_in_ancient_Chinese_political_and_military_texts",
+        "https://en.chinaculture.org/created/2005-07/21/content_70807.htm"
+      ],
+      "checkedAt": "2026-11-09"
+    }
+  },
+  {
+    "id": "china-person-quyuan",
+    "name": {
+      "en": "Qu Yuan",
+      "zh": "屈原"
+    },
+    "title": {
+      "en": "Qu Yuan · A voice preserved in poetry",
+      "zh": "屈原 · 诗歌保存的声音"
+    },
+    "kind": "person",
+    "sourceProfileId": "china-person-quyuan",
+    "start": -300,
+    "end": -278,
+    "location": {
+      "lat": 29.3,
+      "lon": 113.08,
+      "label": "Miluo region, associated with Qu Yuan’s received biography",
+      "labelI18n": {
+        "en": "Miluo region, associated with Qu Yuan’s received biography",
+        "zh": "传世屈原生平所关联的汨罗地区"
+      }
+    },
+    "locationPrecision": "representative",
+    "region": "east-asia",
+    "theme": "knowledge",
+    "importance": 3,
+    "summary": {
+      "en": "Qu Yuan's historical voice reaches us through poems and through a biography written much later. The Shiji presents a Chu courtier whose advice was displaced by rivals and whose exile sharpened his criticism of political failure. Poems associated with him in the Songs of Chu use journeys, fragrant plants and encounters with the divine to explore loyalty, estrangement and frustrated ambition. This is a literary world as well as a political one; its speakers cannot simply be converted into a day-by-day life. Later commemoration, including Dragon Boat Festival traditions, made Qu Yuan a figure through whom readers debated service, integrity and belonging. The atlas separates that enduring reception from the uncertain detail of his lifetime.",
+      "zh": "屈原的声音通过诗篇，以及写成于更晚时期的传记流传下来。《史记》把他描写为楚国朝臣：意见被排挤，放逐又加深了他对政治失败的批评。《楚辞》中与他相联系的作品，以远游、香草和神灵相遇等意象，讨论忠诚、疏离与难以实现的抱负。这既是政治世界，也是文学世界，不能把诗中的叙述者逐句转换成日常生平。后来包括端午节在内的纪念传统，使读者不断借屈原思考出仕、操守与归属。图集将这种持久的接受史，与其生前难以确定的细节区分呈现。"
+    },
+    "dateNote": {
+      "en": "Focus: the early third century BCE and the traditional death date of 278 BCE. The exact lifespan and attribution of individual poems remain uncertain; 278 is marked approximate, not independently established by Shiji chapter 84.",
+      "zh": "重点为公元前三世纪初及传统的前278年卒年。精确生卒年与部分诗作归属未定；前278年标为约年，并非《史记》卷八十四独立确定的日期。"
+    },
+    "sources": [
+      {
+        "title": "Sima Qian, Shiji, chapter 84",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/史記/卷084",
+        "evidenceNote": "Retrospective account of Chu service, political displacement, Li Sao and later remembrance by Jia Yi. It does not establish an exact lifespan.",
+        "evidenceNoteZh": "支持关于仕楚、政治失意、《离骚》及贾谊追怀的后世记述，不能据此确定精确生卒年。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Qu Yuan",
+        "publisher": "China Culture",
+        "url": "https://en.chinaculture.org/focus/focus/cities/2011-06/07/content_416231.htm",
+        "evidenceNote": "Provides the conventional 278 BCE death date and later festival association; its modern patriotic and Romanticist characterizations are not adopted as ancient identities.",
+        "evidenceNoteZh": "提供通常采用的前278年卒年及后世节俗关联；未将现代爱国主义或浪漫主义标签倒置为古人的自我身份。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": -278,
+        "title": {
+          "en": "A traditional endpoint",
+          "zh": "传统记忆中的生平终点"
+        },
+        "description": {
+          "en": "Later chronology commonly places Qu Yuan’s death in this year. His literary and commemorative afterlife continued to change.",
+          "zh": "后来的通行年表常把屈原去世系于此年；此后文学接受与纪念方式仍不断变化。"
+        },
+        "location": {
+          "lat": 29.3,
+          "lon": 113.08,
+          "label": "Miluo region; traditional association",
+          "labelI18n": {
+            "en": "Miluo region; traditional association",
+            "zh": "汨罗地区；传统关联地点"
+          }
+        },
+        "approximate": true
+      }
+    ],
+    "relatedIds": [
+      "zhou-dynasty",
+      "china-person-baiqi"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual biography from inspected primary texts and specialist interpretation. Inherited directory lifespan and itinerary are not evidence.",
+      "reviewLimit": {
+        "en": "The marker represents an attested setting, not a reconstructed journey. Ancient speeches and anecdotes are treated as transmitted narrative.",
+        "zh": "地图点代表有文献依据的历史场景，不是复原行程。古代言辞与轶事按传世叙事处理。"
+      }
+    },
+    "chronologyReview": {
+      "status": "limited-dated-evidence",
+      "note": {
+        "en": "Only a traditional endpoint is available; poems and retrospective anecdotes cannot supply three dated milestones.",
+        "zh": "仅能提供传统的生平终点，诗篇与后世轶事不能构成三个确定纪年。"
+      },
+      "sourceURLs": [
+        "https://zh.wikisource.org/wiki/史記/卷084",
+        "https://en.chinaculture.org/focus/focus/cities/2011-06/07/content_416231.htm"
+      ],
+      "checkedAt": "2026-11-09"
+    }
+  },
+  {
+    "id": "china-person-baiqi",
+    "name": {
+      "en": "Bai Qi",
+      "zh": "白起"
+    },
+    "title": {
+      "en": "Bai Qi · Conquest and its human cost",
+      "zh": "白起 · 征服及其代价"
+    },
+    "kind": "person",
+    "sourceProfileId": "china-person-baiqi",
+    "start": -293,
+    "end": -257,
+    "location": {
+      "lat": 34.36,
+      "lon": 108.71,
+      "label": "Xianyang, Qin court in the Wei valley",
+      "labelI18n": {
+        "en": "Xianyang, Qin court in the Wei valley",
+        "zh": "渭水流域的秦都咸阳"
+      }
+    },
+    "locationPrecision": "representative",
+    "region": "east-asia",
+    "theme": "states",
+    "importance": 3,
+    "summary": {
+      "en": "Bai Qi helped turn Qin's military strength into territorial expansion. The Shiji follows him from victories against Han and Wei to the capture of Chu's capital, Ying, and the defeat of Zhao at Changping. These were campaigns that damaged rival states' ability to resist Qin, but their history also includes the killing of surrendered soldiers. Ancient casualty totals are not dependable counts; the violence itself remains central to the account. Bai Qi's final conflict was with his own court. He resisted another attack on Zhao, lost royal favor and was ordered to die. His career shows the insecurity of a commander whose victories increased both the ruler's power and dependence on him.",
+      "zh": "白起把秦国的军事力量转化为领土扩张。《史记》记载他击败韩、魏，攻取楚都郢，又在长平击败赵军。这些战役削弱了诸侯抵抗秦国的能力，其中也包括对投降士卒的杀戮。古书中的伤亡数字不能当作可靠统计，但暴力本身不能从叙述中删去。白起最后面对的冲突来自本国宫廷。他反对继续进攻赵国，随后失去君主信任，被命令自尽。他的经历说明：将领的胜利既增强国君权势，也可能让双方的依赖与猜忌同时加深。"
+    },
+    "dateNote": {
+      "en": "Focus: the documented command sequence from Yique (293 BCE) to Bai Qi’s death (conventionally 257 BCE). Civil years follow the Qin regnal chronology; birth is not supplied.",
+      "zh": "重点为伊阙之战（前293年）至白起去世（通常系于前257年）的统兵时期。公元纪年依秦王在位年换算，不填补出生年。"
+    },
+    "sources": [
+      {
+        "title": "Sima Qian, Shiji, chapter 73",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/史記/卷073",
+        "evidenceNote": "Bai Qi’s campaigns, Changping prisoners, refusal of renewed attack and death; no ancient casualty total is reused as a measured count.",
+        "evidenceNoteZh": "支持白起诸战、长平降卒、拒绝再战及败亡；未把古代伤亡数字作为实测统计采用。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": -293,
+        "title": {
+          "en": "Victory at Yique",
+          "zh": "伊阙胜利"
+        },
+        "description": {
+          "en": "The defeat of Han and Wei strengthened Qin’s position east of its core territory.",
+          "zh": "击败韩魏增强了秦国向东发展的军事地位。"
+        },
+        "location": {
+          "lat": 34.56,
+          "lon": 112.48,
+          "label": "Yique, south of Luoyang",
+          "labelI18n": {
+            "en": "Yique, south of Luoyang",
+            "zh": "洛阳以南的伊阙"
+          }
+        }
+      },
+      {
+        "year": -278,
+        "title": {
+          "en": "Chu loses Ying",
+          "zh": "楚失郢都"
+        },
+        "description": {
+          "en": "Qin’s capture of Ying forced a shift in Chu’s political center.",
+          "zh": "秦军攻取郢都，迫使楚国转移政治中心。"
+        },
+        "location": {
+          "lat": 30.41,
+          "lon": 112.18,
+          "label": "Ying, near present-day Jingzhou",
+          "labelI18n": {
+            "en": "Ying, near present-day Jingzhou",
+            "zh": "郢，今荆州附近"
+          }
+        }
+      },
+      {
+        "year": -260,
+        "title": {
+          "en": "Changping",
+          "zh": "长平之战"
+        },
+        "description": {
+          "en": "Zhao’s defeat was followed, in the Shiji account, by mass killing of prisoners.",
+          "zh": "据《史记》记述，赵军战败后，大批降卒遭到杀害。"
+        },
+        "location": {
+          "lat": 35.8,
+          "lon": 112.93,
+          "label": "Changping, Gaoping region",
+          "labelI18n": {
+            "en": "Changping, Gaoping region",
+            "zh": "长平，今高平一带"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "qin-unification",
+      "china-person-limu"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual biography from inspected primary texts and specialist interpretation. Inherited directory lifespan and itinerary are not evidence.",
+      "reviewLimit": {
+        "en": "The marker represents an attested setting, not a reconstructed journey. Ancient speeches and anecdotes are treated as transmitted narrative.",
+        "zh": "地图点代表有文献依据的历史场景，不是复原行程。古代言辞与轶事按传世叙事处理。"
+      }
+    }
+  },
+  {
+    "id": "china-person-limu",
+    "name": {
+      "en": "Li Mu",
+      "zh": "李牧"
+    },
+    "title": {
+      "en": "Li Mu · Protecting a state under pressure",
+      "zh": "李牧 · 守护危局中的赵国"
+    },
+    "kind": "person",
+    "sourceProfileId": "china-person-limu",
+    "start": -243,
+    "end": -229,
+    "location": {
+      "lat": 36.61,
+      "lon": 114.49,
+      "label": "Handan, capital of Zhao",
+      "labelI18n": {
+        "en": "Handan, capital of Zhao",
+        "zh": "赵都邯郸"
+      }
+    },
+    "locationPrecision": "representative",
+    "region": "east-asia",
+    "theme": "states",
+    "importance": 3,
+    "summary": {
+      "en": "Li Mu's biography begins with a different image of military skill: keeping soldiers and herds safe by refusing unnecessary battle. On Zhao's northern frontier, the Shiji credits him with disciplined defenses, attention to supplies and training, and protection of agriculture and pastoral life. Later he fought Yan and helped resist Qin as Zhao's position deteriorated. The same narrative explains his removal through court intrigue and Qin's bribery of a royal favorite. That account exposes the historian's interest in the relationship between rulers and capable servants, as well as recording Zhao's crisis. Li Mu was killed before the final capture of Zhao's king. His unknown birth date and the undated frontier anecdotes should not become a fabricated itinerary.",
+      "zh": "李牧传记开篇呈现了另一种军事能力：通过避免无谓交战，保护士卒与牲畜。《史记》称他在赵国北部边地整顿防御，重视供给、训练，并维护农牧生产。后来他攻燕，又在赵国局势恶化时抵御秦军。同一传记用宫廷离间和秦国贿赂宠臣来解释他的被罢免；这既记录赵国危机，也表现史家对君臣关系的关注。李牧在赵王最终被俘之前遭杀害。他的出生年不详，北疆故事也缺少确切年份，不能把这些材料拼成看似完整的行程。"
+    },
+    "dateNote": {
+      "en": "Focus: the Yan campaign conventionally dated 243 BCE through the removal and death in 229 BCE. Earlier northern service is undated. The Zhao annals and biography use regnal years; campaign accounts are not identical in every chapter.",
+      "zh": "重点为通常系于前243年的攻燕至前229年的罢免与被杀。更早的北疆任职没有确切日期。《赵世家》与列传采用在位年纪年，不同篇章的战役记述并非全同。"
+    },
+    "sources": [
+      {
+        "title": "Sima Qian, Shiji, chapter 81",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/史記/卷081",
+        "evidenceNote": "Li Mu section supports defensive practices, the Yan and Qin campaigns, dismissal and execution. Precise troop and casualty totals are omitted.",
+        "evidenceNoteZh": "李牧部分支持防御措施、对燕秦作战、罢免及被杀，未采用精确兵员与伤亡数字。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": -243,
+        "title": {
+          "en": "Service against Yan",
+          "zh": "率军攻燕"
+        },
+        "description": {
+          "en": "The biography places an attack on Yan in the first year of King Daoxiang.",
+          "zh": "传记将对燕作战记于赵悼襄王元年。"
+        },
+        "location": {
+          "lat": 36.61,
+          "lon": 114.49,
+          "label": "Handan, capital of Zhao",
+          "labelI18n": {
+            "en": "Handan, capital of Zhao",
+            "zh": "赵都邯郸"
+          }
+        }
+      },
+      {
+        "year": -233,
+        "title": {
+          "en": "Resistance at Yi’an",
+          "zh": "宜安抗秦"
+        },
+        "description": {
+          "en": "The Zhao tradition credits Li Mu with a victory over a Qin army; other annalistic accounts preserve a different emphasis.",
+          "zh": "赵国一系记述称李牧击退秦军，其他本纪的叙事重点有所不同。"
+        },
+        "location": {
+          "lat": 38.04,
+          "lon": 114.82,
+          "label": "Yi’an region, near modern Gaocheng",
+          "labelI18n": {
+            "en": "Yi’an region, near modern Gaocheng",
+            "zh": "宜安一带，近今藁城"
+          }
+        },
+        "approximate": true
+      },
+      {
+        "year": -229,
+        "title": {
+          "en": "Removal during invasion",
+          "zh": "入侵中遭罢免"
+        },
+        "description": {
+          "en": "Li Mu was replaced and killed while Qin’s invasion threatened Zhao’s survival.",
+          "zh": "秦军入侵危及赵国存续时，李牧被撤换并杀害。"
+        },
+        "location": {
+          "lat": 36.61,
+          "lon": 114.49,
+          "label": "Handan, capital of Zhao",
+          "labelI18n": {
+            "en": "Handan, capital of Zhao",
+            "zh": "赵都邯郸"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-person-baiqi",
+      "china-person-wangjian"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual biography from inspected primary texts and specialist interpretation. Inherited directory lifespan and itinerary are not evidence.",
+      "reviewLimit": {
+        "en": "The marker represents an attested setting, not a reconstructed journey. Ancient speeches and anecdotes are treated as transmitted narrative.",
+        "zh": "地图点代表有文献依据的历史场景，不是复原行程。古代言辞与轶事按传世叙事处理。"
+      }
+    }
+  },
+  {
+    "id": "china-person-wangjian",
+    "name": {
+      "en": "Wang Jian",
+      "zh": "王翦"
+    },
+    "title": {
+      "en": "Wang Jian · The resources behind conquest",
+      "zh": "王翦 · 征服背后的资源"
+    },
+    "kind": "person",
+    "sourceProfileId": "china-person-wangjian",
+    "start": -229,
+    "end": -223,
+    "location": {
+      "lat": 34.36,
+      "lon": 108.71,
+      "label": "Xianyang, Qin court in the Wei valley",
+      "labelI18n": {
+        "en": "Xianyang, Qin court in the Wei valley",
+        "zh": "渭水流域的秦都咸阳"
+      }
+    },
+    "locationPrecision": "representative",
+    "region": "east-asia",
+    "theme": "states",
+    "importance": 3,
+    "summary": {
+      "en": "Wang Jian commanded several of the campaigns that brought Qin's rivals under imperial rule. His biography makes victory depend on resources and political trust as much as battlefield daring. In the account of the Chu campaign, a smaller expedition failed before the king accepted Wang Jian's demand for a much larger force. The general then delayed battle while preparing his army. Stories about his repeated requests for estates underline the tension between a ruler and a commander entrusted with enormous power. He also campaigned against Zhao and Yan. Distinguishing Wang Jian from his son Wang Ben matters: later summaries can collapse different commanders and campaigns into one effortless march toward unification.",
+      "zh": "王翦统率了秦兼并诸侯过程中的多次重要战役。他的传记把胜利与资源、政治信任联系起来，并不只强调临阵勇武。伐楚的叙事先写较小规模的远征失败，随后秦王才接受王翦增兵的要求；王翦又通过等待和准备选择作战时机。他反复请求田宅的故事，表现了国君与掌握大军的将领之间的紧张关系。他还参与攻赵、攻燕。把王翦与其子王贲区分开来很有必要，否则不同将领和战役容易被压缩成一场毫无阻力的统一进程。"
+    },
+    "dateNote": {
+      "en": "Focus: campaigns of 229–223 BCE. Shiji’s annals and biography arrange some Chu operations differently; 223 BCE marks the conventional completion of the conquest, not an exact date for every episode. No lifespan is inferred.",
+      "zh": "重点为前229—前223年的战役。《史记》本纪与列传对部分伐楚行动的编排有差异；前223年指通行的灭楚完成年，并非每个情节的精确日期。不推定完整生卒年。"
+    },
+    "sources": [
+      {
+        "title": "Sima Qian, Shiji, chapter 73",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/史記/卷073",
+        "evidenceNote": "Wang Jian biography supports Zhao, Yan and Chu commands, the contrast with Li Xin and the political-trust anecdotes; his son’s campaigns remain distinct.",
+        "evidenceNoteZh": "王翦传支持其赵、燕、楚战事，与李信的对比及君臣信任故事；其子战役另行区分。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Sima Qian, Shiji, chapter 6",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/史記/卷006",
+        "evidenceNote": "Qin regnal annals anchor Zhao’s defeat and the sequence of conquest; comparison reveals differences from the Chu campaign biography.",
+        "evidenceNoteZh": "秦王纪年定位赵国败亡与兼并顺序；与列传对读可见伐楚编排差异。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": -229,
+        "title": {
+          "en": "Qin attacks Zhao",
+          "zh": "秦大举攻赵"
+        },
+        "description": {
+          "en": "Wang Jian entered the final campaign against Zhao.",
+          "zh": "王翦参与对赵国的最后一轮大规模进攻。"
+        },
+        "location": {
+          "lat": 36.61,
+          "lon": 114.49,
+          "label": "Handan, capital of Zhao",
+          "labelI18n": {
+            "en": "Handan, capital of Zhao",
+            "zh": "赵都邯郸"
+          }
+        }
+      },
+      {
+        "year": -228,
+        "title": {
+          "en": "Zhao’s king captured",
+          "zh": "赵王被俘"
+        },
+        "description": {
+          "en": "The capture of the king ended Zhao’s rule at Handan, although resistance continued elsewhere.",
+          "zh": "赵王被俘，邯郸的赵国政权终结，其他地区仍有抵抗。"
+        },
+        "location": {
+          "lat": 36.61,
+          "lon": 114.49,
+          "label": "Handan, capital of Zhao",
+          "labelI18n": {
+            "en": "Handan, capital of Zhao",
+            "zh": "赵都邯郸"
+          }
+        }
+      },
+      {
+        "year": -223,
+        "title": {
+          "en": "Chu conquered",
+          "zh": "楚国被征服"
+        },
+        "description": {
+          "en": "Qin completed the conquest of Chu after campaigns described across the annals and biography.",
+          "zh": "本纪与列传所载的一系列作战之后，秦完成了对楚的征服。"
+        },
+        "location": {
+          "lat": 32.58,
+          "lon": 116.79,
+          "label": "Shouchun region, late Chu capital",
+          "labelI18n": {
+            "en": "Shouchun region, late Chu capital",
+            "zh": "楚国后期都城寿春一带"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "qin-unification",
+      "china-person-qinshihuang"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual biography from inspected primary texts and specialist interpretation. Inherited directory lifespan and itinerary are not evidence.",
+      "reviewLimit": {
+        "en": "The marker represents an attested setting, not a reconstructed journey. Ancient speeches and anecdotes are treated as transmitted narrative.",
+        "zh": "地图点代表有文献依据的历史场景，不是复原行程。古代言辞与轶事按传世叙事处理。"
+      }
+    }
+  },
+  {
+    "id": "china-person-qinshihuang",
+    "name": {
+      "en": "Qin Shi Huang",
+      "zh": "秦始皇"
+    },
+    "title": {
+      "en": "Qin Shi Huang · Making an empire governable",
+      "zh": "秦始皇 · 建立帝国的统治秩序"
+    },
+    "kind": "person",
+    "sourceProfileId": "china-person-qinshihuang",
+    "start": -247,
+    "end": -210,
+    "location": {
+      "lat": 34.36,
+      "lon": 108.71,
+      "label": "Xianyang, Qin court in the Wei valley",
+      "labelI18n": {
+        "en": "Xianyang, Qin court in the Wei valley",
+        "zh": "渭水流域的秦都咸阳"
+      }
+    },
+    "locationPrecision": "representative",
+    "region": "east-asia",
+    "theme": "states",
+    "importance": 3,
+    "summary": {
+      "en": "Ying Zheng inherited the throne of Qin before claiming the new title of First Emperor in 221 BCE. Conquest joined regions with different institutions and traditions; common measures, writing standards and appointed administrators helped the court govern them. Roads, frontier works, palaces and the Lishan burial complex also demanded labor on a vast scale. The Shiji preserves both official inscriptions celebrating order and accounts of punishment and suppression, including restrictions on books. Archaeology adds another perspective through workshops, weapons and the terracotta army. His empire was brief, but later rulers continued to work within institutions Qin had expanded. The imposing material remains invite questions about the people whose labor made imperial power visible.",
+      "zh": "嬴政先继承秦王之位，前221年兼并诸侯后，采用“始皇帝”这一新称号。征服将制度和传统各异的地区纳入一体，统一度量、文字规范和任命地方官员，帮助朝廷实施统治。道路、边防、宫殿与骊山陵墓也征用了大量劳力。《史记》一方面保存歌颂秩序的官方刻辞，另一方面记载刑罚与压制，包括对书籍的限制。考古发现的作坊、兵器和兵马俑又提供了另一种视角。秦帝国虽短暂，后来统治者仍沿用并调整秦所扩展的制度。宏大的遗存也促使人追问：是谁的劳动让皇权变得可见？"
+    },
+    "dateNote": {
+      "en": "Focus: accession as Qin king in 247 BCE through death in 210 BCE, rather than a full lifespan. Regnal year 1 began in 246 BCE; accession year and first regnal year are distinct.",
+      "zh": "重点为前247年继秦王位至前210年去世，不作完整生平年表。秦王政元年为前246年，即位之年与元年需要区分。"
+    },
+    "sources": [
+      {
+        "title": "Sima Qian, Shiji, chapter 6",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/史記/卷006",
+        "evidenceNote": "Supports imperial title, administrative standards, inscriptions, book restrictions, construction and death. Supernatural portents and enormous headcounts are not treated as established fact.",
+        "evidenceNoteZh": "支持帝号、制度标准、刻辞、禁书、建设与去世；未将神异征兆及巨额人数视为确定事实。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "An Introduction to the Qin Empire (221–206 BCE)",
+        "publisher": "Asian Art Museum",
+        "url": "https://education.asianart.org/resources/an-introduction-to-the-qin-empire/",
+        "evidenceNote": "Museum account confirms accession in 247 BCE, final conquest in 221 BCE and the Xianyang administrative setting.",
+        "evidenceNoteZh": "博物馆说明确认前247年即位、前221年完成兼并及咸阳的行政背景。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": -247,
+        "title": {
+          "en": "King of Qin",
+          "zh": "继秦王位"
+        },
+        "description": {
+          "en": "Ying Zheng inherited the Qin kingship; his first full regnal year followed in 246 BCE.",
+          "zh": "嬴政继秦王位，次年为秦王政元年。"
+        },
+        "location": {
+          "lat": 34.36,
+          "lon": 108.71,
+          "label": "Xianyang, Qin court in the Wei valley",
+          "labelI18n": {
+            "en": "Xianyang, Qin court in the Wei valley",
+            "zh": "渭水流域的秦都咸阳"
+          }
+        }
+      },
+      {
+        "year": -221,
+        "title": {
+          "en": "First Emperor",
+          "zh": "称始皇帝"
+        },
+        "description": {
+          "en": "The defeat of the remaining rival kingdom accompanied a new imperial title and administrative program.",
+          "zh": "最后的敌国被兼并后，采用新帝号并推行帝国行政措施。"
+        },
+        "location": {
+          "lat": 34.36,
+          "lon": 108.71,
+          "label": "Xianyang, Qin court in the Wei valley",
+          "labelI18n": {
+            "en": "Xianyang, Qin court in the Wei valley",
+            "zh": "渭水流域的秦都咸阳"
+          }
+        }
+      },
+      {
+        "year": -213,
+        "title": {
+          "en": "Restrictions on books",
+          "zh": "限制书籍"
+        },
+        "description": {
+          "en": "The Shiji records approval of Li Si’s proposal to suppress specified privately held texts, with stated exemptions.",
+          "zh": "《史记》记载采纳李斯建议，禁毁指定的私藏典籍，同时列有豁免类别。"
+        },
+        "location": {
+          "lat": 34.36,
+          "lon": 108.71,
+          "label": "Xianyang, Qin court in the Wei valley",
+          "labelI18n": {
+            "en": "Xianyang, Qin court in the Wei valley",
+            "zh": "渭水流域的秦都咸阳"
+          }
+        }
+      },
+      {
+        "year": -210,
+        "title": {
+          "en": "Death during a tour",
+          "zh": "巡行途中去世"
+        },
+        "description": {
+          "en": "The emperor’s death opened a succession crisis described by the Han historian.",
+          "zh": "皇帝在巡行途中去世，汉代史家记述了随后发生的继承危机。"
+        },
+        "location": {
+          "lat": 37.16,
+          "lon": 115.14,
+          "label": "Shaqiu region; traditional location of the death",
+          "labelI18n": {
+            "en": "Shaqiu region; traditional location of the death",
+            "zh": "沙丘一带；传统所记去世地点"
+          }
+        },
+        "approximate": true
+      }
+    ],
+    "relatedIds": [
+      "qin-unification",
+      "qin-mausoleum"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual biography from inspected primary texts and specialist interpretation. Inherited directory lifespan and itinerary are not evidence.",
+      "reviewLimit": {
+        "en": "The marker represents an attested setting, not a reconstructed journey. Ancient speeches and anecdotes are treated as transmitted narrative.",
+        "zh": "地图点代表有文献依据的历史场景，不是复原行程。古代言辞与轶事按传世叙事处理。"
+      }
+    }
+  },
+  {
+    "id": "china-person-mengtian",
+    "name": {
+      "en": "Meng Tian",
+      "zh": "蒙恬"
+    },
+    "title": {
+      "en": "Meng Tian · Armies, walls and roads",
+      "zh": "蒙恬 · 军队、边墙与道路"
+    },
+    "kind": "person",
+    "sourceProfileId": "china-person-mengtian",
+    "start": -221,
+    "end": -210,
+    "location": {
+      "lat": 40.66,
+      "lon": 109.84,
+      "label": "Jiuyuan region, Qin northern frontier",
+      "labelI18n": {
+        "en": "Jiuyuan region, Qin northern frontier",
+        "zh": "秦朝北部边疆的九原地区"
+      }
+    },
+    "locationPrecision": "representative",
+    "region": "east-asia",
+    "theme": "states",
+    "importance": 3,
+    "summary": {
+      "en": "Meng Tian belonged to a military family serving Qin across generations. After the conquests, he commanded forces on the northern frontier, where campaigns, settlement and defensive construction reshaped the relationship between the empire and neighboring communities. The walls in his biography followed terrain and connected strategic positions; they were not the later brick monuments often used to illustrate the Great Wall today. He also supervised a direct road between the frontier and the imperial heartland, a project the Shiji describes as unfinished. When the First Emperor died, succession politics reached even this distant command. Meng Tian's removal and death show how vulnerable a frontier army remained to decisions made inside the court.",
+      "zh": "蒙恬出身于几代为秦效力的军事家族。兼并诸侯后，他统率北疆军队，战争、移民和防御设施改变了帝国与周边群体的关系。传记中的边墙依山川地势修筑、连接战略位置，并非今天常用来表现长城的后世砖石建筑。他还主持连接边疆与帝国腹地的直道工程，《史记》明确说该工程尚未完成。始皇帝去世后，继位斗争延伸到远方军营。蒙恬被撤换并死亡，说明边疆军队即使掌握兵力，仍受到宫廷决定的支配。"
+    },
+    "dateNote": {
+      "en": "Focus: service from the Qi campaign in 221 BCE through death in 210 BCE. The northern campaign and road are anchored by Shiji chapter 6’s regnal chronology; the road is not described as completed.",
+      "zh": "重点为前221年伐齐至前210年去世。北征与直道日期结合《史记》卷六的在位年纪年，不把直道写成已全部完工。"
+    },
+    "sources": [
+      {
+        "title": "Sima Qian, Shiji, chapter 88",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/史記/卷088",
+        "evidenceNote": "Meng family biography supports northern command, terrain-based defensive works, the unfinished direct road and succession-related death.",
+        "evidenceNoteZh": "蒙氏传记支持北疆统兵、因地制宜的边防工程、尚未完成的直道及继位危机中的死亡。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Sima Qian, Shiji, chapter 6",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/史記/卷006",
+        "evidenceNote": "Regnal years 32, 35 and 37 anchor the northern campaign, road works and imperial death.",
+        "evidenceNoteZh": "始皇三十二、三十五、三十七年分别定位北征、直道工程及皇帝去世。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": -221,
+        "title": {
+          "en": "Service in the final conquest",
+          "zh": "参与最后的兼并"
+        },
+        "description": {
+          "en": "The biography associates Meng Tian with the campaign against Qi.",
+          "zh": "传记将蒙恬与伐齐战役相联系。"
+        },
+        "location": {
+          "lat": 36.82,
+          "lon": 118.3,
+          "label": "Linzi, capital of Qi",
+          "labelI18n": {
+            "en": "Linzi, capital of Qi",
+            "zh": "齐都临淄"
+          }
+        }
+      },
+      {
+        "year": -215,
+        "title": {
+          "en": "Northern campaign",
+          "zh": "北方战役"
+        },
+        "description": {
+          "en": "Qin forces took territory south of the Yellow River’s northern bend, followed by defensive and settlement works.",
+          "zh": "秦军夺取黄河北曲以南地区，随后开展边防及移民建设。"
+        },
+        "location": {
+          "lat": 39.61,
+          "lon": 109.78,
+          "label": "Ordos region; representative campaign setting",
+          "labelI18n": {
+            "en": "Ordos region; representative campaign setting",
+            "zh": "鄂尔多斯地区；战役区域示意"
+          }
+        }
+      },
+      {
+        "year": -212,
+        "title": {
+          "en": "The direct road",
+          "zh": "修筑直道"
+        },
+        "description": {
+          "en": "Work linked the Jiuyuan frontier with the Ganquan–Yunyang region; the biography calls the project unfinished.",
+          "zh": "工程连接九原边地与甘泉、云阳一带，传记说明尚未完成。"
+        },
+        "location": {
+          "lat": 34.67,
+          "lon": 108.8,
+          "label": "Yunyang region, southern end of the road project",
+          "labelI18n": {
+            "en": "Yunyang region, southern end of the road project",
+            "zh": "云阳地区，直道工程南端"
+          }
+        }
+      },
+      {
+        "year": -210,
+        "title": {
+          "en": "Command overturned",
+          "zh": "军权与命运逆转"
+        },
+        "description": {
+          "en": "Succession orders after the emperor’s death brought Meng Tian’s command and life to an end.",
+          "zh": "皇帝去世后的继位命令结束了蒙恬的统兵与生命。"
+        },
+        "location": {
+          "lat": 37.49,
+          "lon": 110.26,
+          "label": "Shangjun region, northern Qin command",
+          "labelI18n": {
+            "en": "Shangjun region, northern Qin command",
+            "zh": "秦北部军政区域上郡"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-person-qinshihuang",
+      "qin-unification"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual biography from inspected primary texts and specialist interpretation. Inherited directory lifespan and itinerary are not evidence.",
+      "reviewLimit": {
+        "en": "The marker represents an attested setting, not a reconstructed journey. Ancient speeches and anecdotes are treated as transmitted narrative.",
+        "zh": "地图点代表有文献依据的历史场景，不是复原行程。古代言辞与轶事按传世叙事处理。"
+      }
+    }
+  },
+  {
+    "id": "china-person-xiangyu",
+    "name": {
+      "en": "Xiang Yu",
+      "zh": "项羽"
+    },
+    "title": {
+      "en": "Xiang Yu · Victory without a lasting settlement",
+      "zh": "项羽 · 胜利之后的秩序难题"
+    },
+    "kind": "person",
+    "sourceProfileId": "china-person-xiangyu",
+    "start": -209,
+    "end": -202,
+    "location": {
+      "lat": 34.26,
+      "lon": 117.18,
+      "label": "Pengcheng, Xiang Yu’s political center",
+      "labelI18n": {
+        "en": "Pengcheng, Xiang Yu’s political center",
+        "zh": "项羽的政治中心彭城"
+      }
+    },
+    "locationPrecision": "representative",
+    "region": "east-asia",
+    "theme": "states",
+    "importance": 3,
+    "summary": {
+      "en": "Xiang Yu rose with the rebellions that dismantled Qin rule. His victory at Julu made him a leading commander, but defeating an empire did not settle who would inherit it. In 206 BCE he distributed kingdoms among allies and rivals and established his own center at Pengcheng. The arrangement soon unraveled as excluded rulers, competing ambitions and warfare fractured the coalition. Liu Bang's forces eventually surrounded him at Gaixia. Sima Qian turned his final defeat into one of the Shiji's most memorable narratives, complete with speeches and songs. Those literary scenes should be read alongside the harder political question: why military predominance could not produce a durable agreement among the victors.",
+      "zh": "项羽随推翻秦统治的起义而崛起，巨鹿之战使他成为主要军事统帅。然而打败一个帝国，并没有解决由谁继承其统治的问题。前206年，他在盟友与竞争者之间分封诸王，以彭城为自己的中心。被排斥者的不满、各方野心和持续战争，很快破坏了这一安排。后来刘邦一方的军队在垓下围住项羽。司马迁把他的最终失败写成《史记》中格外鲜明的叙事，包含言辞与歌声。阅读这些文学场景时，也应追问实际的政治难题：军事优势为何没能转化为胜利者之间持久的协议？"
+    },
+    "dateNote": {
+      "en": "Focus: uprising in 209 BCE to defeat and death in 202 BCE. Civil-year labels follow the Qin–Han sequence; the final speeches and songs are transmitted literary testimony.",
+      "zh": "重点为前209年起兵至前202年败亡。公元纪年依秦汉之际的通行序列；临终言辞与歌唱作为传世文学性记述呈现。"
+    },
+    "sources": [
+      {
+        "title": "Sima Qian, Shiji, chapter 7",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/史記/卷007",
+        "evidenceNote": "Supports the uprising, Julu, division into kingdoms, Pengcheng center, coalition failures and Gaixia defeat; vivid final scenes are attributed to the historian’s narrative.",
+        "evidenceNoteZh": "支持起兵、巨鹿、分封、彭城中心、联盟破裂及垓下败亡；末路场景归于史家的叙事。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Sima Qian, Shiji, chapter 8",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/史記/卷008",
+        "evidenceNote": "Liu Bang’s annals independently organize the rivalry and coalition negotiations from the Han founder’s perspective.",
+        "evidenceNoteZh": "高祖本纪从汉开国者的立场编排双方竞争与联盟谈判，可与项羽本纪对读。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": -209,
+        "title": {
+          "en": "Rebellion in the southeast",
+          "zh": "东南起兵"
+        },
+        "description": {
+          "en": "Xiang Yu joined Xiang Liang’s uprising against Qin.",
+          "zh": "项羽参与项梁领导的反秦起兵。"
+        },
+        "location": {
+          "lat": 31.3,
+          "lon": 120.59,
+          "label": "Wu, near modern Suzhou",
+          "labelI18n": {
+            "en": "Wu, near modern Suzhou",
+            "zh": "吴县，近今苏州"
+          }
+        }
+      },
+      {
+        "year": -207,
+        "title": {
+          "en": "Julu",
+          "zh": "巨鹿之战"
+        },
+        "description": {
+          "en": "Victory over Qin forces strengthened his standing among the rebel armies.",
+          "zh": "战胜秦军提高了他在反秦诸军中的地位。"
+        },
+        "location": {
+          "lat": 37.22,
+          "lon": 114.93,
+          "label": "Julu region; representative battlefield setting",
+          "labelI18n": {
+            "en": "Julu region; representative battlefield setting",
+            "zh": "巨鹿一带；战场区域示意"
+          }
+        }
+      },
+      {
+        "year": -206,
+        "title": {
+          "en": "Dividing the conquered world",
+          "zh": "分封诸王"
+        },
+        "description": {
+          "en": "The settlement assigned kingdoms while Xiang Yu ruled from Pengcheng; it soon provoked renewed conflict.",
+          "zh": "分封安排建立诸王政权，项羽据彭城而治；新冲突随后爆发。"
+        },
+        "location": {
+          "lat": 34.26,
+          "lon": 117.18,
+          "label": "Pengcheng, modern Xuzhou",
+          "labelI18n": {
+            "en": "Pengcheng, modern Xuzhou",
+            "zh": "彭城，今徐州"
+          }
+        }
+      },
+      {
+        "year": -202,
+        "title": {
+          "en": "Defeat at Gaixia",
+          "zh": "垓下败局"
+        },
+        "description": {
+          "en": "Liu Bang and allied forces defeated Xiang Yu’s army; his death ended the central rivalry.",
+          "zh": "刘邦及盟军击败项羽军队，项羽随后死亡，核心争夺由此结束。"
+        },
+        "location": {
+          "lat": 33.31,
+          "lon": 117.62,
+          "label": "Gaixia region, northern Anhui; approximate",
+          "labelI18n": {
+            "en": "Gaixia region, northern Anhui; approximate",
+            "zh": "皖北垓下一带；约指"
+          }
+        },
+        "approximate": true
+      }
+    ],
+    "relatedIds": [
+      "china-person-liubang",
+      "han-dynasty"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual biography from inspected primary texts and specialist interpretation. Inherited directory lifespan and itinerary are not evidence.",
+      "reviewLimit": {
+        "en": "The marker represents an attested setting, not a reconstructed journey. Ancient speeches and anecdotes are treated as transmitted narrative.",
+        "zh": "地图点代表有文献依据的历史场景，不是复原行程。古代言辞与轶事按传世叙事处理。"
+      }
+    }
+  },
+  {
+    "id": "china-person-liubang",
+    "name": {
+      "en": "Liu Bang",
+      "zh": "刘邦"
+    },
+    "title": {
+      "en": "Liu Bang · Building a winning coalition",
+      "zh": "刘邦 · 建立能够取胜的联盟"
+    },
+    "kind": "person",
+    "sourceProfileId": "china-person-liubang",
+    "start": -209,
+    "end": -202,
+    "location": {
+      "lat": 34.3,
+      "lon": 108.9,
+      "label": "Chang’an, Han capital",
+      "labelI18n": {
+        "en": "Chang’an, Han capital",
+        "zh": "汉都长安"
+      }
+    },
+    "locationPrecision": "representative",
+    "region": "east-asia",
+    "theme": "states",
+    "importance": 3,
+    "summary": {
+      "en": "Liu Bang's rise began in local office and rebellion, not in an established royal court. The Shiji follows his force from Pei into Qin's heartland and then through a war in which allies repeatedly changed sides. Victory required commanders, supplies and agreements about who would receive conquered territory. Zhang Liang's advice and Han Xin's campaigns belonged to that larger coalition. In 202 BCE Liu Bang became emperor and shifted his political center toward the Chang'an region. The settlement combined imperial administration with kingdoms granted to powerful allies and relatives. Subsequent conflict over those kingdoms shows that founding the Han dynasty was a continuing negotiation over power, rather than a single moment when conquest became stable government.",
+      "zh": "刘邦的崛起始于地方职务和起兵，而非现成的王室宫廷。《史记》记述他从沛县进入秦的腹地，随后卷入一场盟友不断改换阵营的战争。取胜需要将领、供给，也需要对征服所得作出分配承诺。张良的谋划与韩信的战役，都是这一大联盟的组成部分。前202年，刘邦称帝，并将政治中心转向长安地区。新秩序把帝国行政与分封给功臣、宗亲的王国结合起来。围绕这些王国的后续冲突表明，汉朝的建立是一场持续的权力协商，而非征服突然变成稳定统治的单一时刻。"
+    },
+    "dateNote": {
+      "en": "Focus: the 209–202 BCE rise to imperial power. The inherited birth date is omitted; the interval does not claim to cover the entire reign.",
+      "zh": "重点为前209—前202年取得帝位的过程。不采用原目录的出生年，此区间也不表示完整在位时期。"
+    },
+    "sources": [
+      {
+        "title": "Sima Qian, Shiji, chapter 8",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/史記/卷008",
+        "evidenceNote": "Pei uprising, entry into Qin, Chu–Han coalition negotiations, imperial accession and the move toward Guanzhong; myths of birth and exact army totals are excluded.",
+        "evidenceNoteZh": "支持沛县起兵、入秦、楚汉联盟协商、称帝及入都关中；不采用出生神话与精确军队人数。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Sima Qian, Shiji, chapter 55",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/史記/卷055",
+        "evidenceNote": "Zhang Liang’s counsel on rewarding allies helps explain coalition-building rather than attributing victory to a single commander.",
+        "evidenceNoteZh": "张良关于分配利益的建议支持联盟形成的叙述，而非将胜利归于一位统帅。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": -209,
+        "title": {
+          "en": "A force at Pei",
+          "zh": "沛县起兵"
+        },
+        "description": {
+          "en": "Local supporters made Liu Bang a leader in the movement against Qin.",
+          "zh": "地方支持者拥立刘邦，加入反秦行动。"
+        },
+        "location": {
+          "lat": 34.73,
+          "lon": 116.93,
+          "label": "Pei, near modern Peixian",
+          "labelI18n": {
+            "en": "Pei, near modern Peixian",
+            "zh": "沛县，近今沛县"
+          }
+        }
+      },
+      {
+        "year": -206,
+        "title": {
+          "en": "King of Han",
+          "zh": "受封汉王"
+        },
+        "description": {
+          "en": "The post-Qin division assigned him Han; renewed war soon challenged that settlement.",
+          "zh": "秦亡后的分封使他成为汉王，新的战争很快冲击这一安排。"
+        },
+        "location": {
+          "lat": 33.07,
+          "lon": 107.03,
+          "label": "Hanzhong, initial Han kingdom center",
+          "labelI18n": {
+            "en": "Hanzhong, initial Han kingdom center",
+            "zh": "汉王国初期中心汉中"
+          }
+        }
+      },
+      {
+        "year": -202,
+        "title": {
+          "en": "Imperial accession",
+          "zh": "建立汉朝帝位"
+        },
+        "description": {
+          "en": "Coalition victory over Xiang Yu allowed Liu Bang to take the imperial title and reorganize territorial rewards.",
+          "zh": "联盟战胜项羽后，刘邦称帝并重新分配封国。"
+        },
+        "location": {
+          "lat": 34.3,
+          "lon": 108.9,
+          "label": "Chang’an, Han capital",
+          "labelI18n": {
+            "en": "Chang’an, Han capital",
+            "zh": "汉都长安"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "han-dynasty",
+      "china-person-xiangyu"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual biography from inspected primary texts and specialist interpretation. Inherited directory lifespan and itinerary are not evidence.",
+      "reviewLimit": {
+        "en": "The marker represents an attested setting, not a reconstructed journey. Ancient speeches and anecdotes are treated as transmitted narrative.",
+        "zh": "地图点代表有文献依据的历史场景，不是复原行程。古代言辞与轶事按传世叙事处理。"
+      }
+    }
+  },
+  {
+    "id": "china-person-hanxin",
+    "name": {
+      "en": "Han Xin",
+      "zh": "韩信"
+    },
+    "title": {
+      "en": "Han Xin · A commander and the politics of reward",
+      "zh": "韩信 · 将领与封赏政治"
+    },
+    "kind": "person",
+    "sourceProfileId": "china-person-hanxin",
+    "start": -206,
+    "end": -196,
+    "location": {
+      "lat": 34.3,
+      "lon": 108.9,
+      "label": "Chang’an, Han capital",
+      "labelI18n": {
+        "en": "Chang’an, Han capital",
+        "zh": "汉都长安"
+      }
+    },
+    "locationPrecision": "representative",
+    "region": "east-asia",
+    "theme": "states",
+    "importance": 3,
+    "summary": {
+      "en": "Han Xin's career exposes the bargain at the heart of Liu Bang's coalition. His armies defeated rival forces in the north and east, while his ruler needed him to keep men and territory committed to the wider war. The Shiji's famous battlefield narratives emphasize surprise, timing and an opponent's mistaken expectations. They also describe bargaining: after conquering Qi, Han Xin requested a royal title. Once Xiang Yu was defeated, his independent position became harder to sustain. Transferred to Chu, then reduced to marquis, he was eventually killed on an accusation of rebellion arranged through Empress Lü and Xiao He. The surviving account is a Han court narrative; the accusation should not be confused with independently preserved trial evidence.",
+      "zh": "韩信的经历揭示了刘邦联盟中的利益交换。他的军队在北方和东方击败对手，刘邦则需要他继续把兵力和地盘投入共同战争。《史记》著名的战场叙事强调突然性、时机和对手的误判，也写到政治议价：攻取齐地后，韩信要求王号。项羽被击败后，他的独立地位越来越难以维持。先被徙封为楚王，随后降为淮阴侯，最终在谋反指控下被吕后与萧何设局杀死。现存叙述来自汉代宫廷史学传统；其中的指控，不能等同于独立保存、可逐项核验的审判证据。"
+    },
+    "dateNote": {
+      "en": "Focus: Han command from 206 BCE to execution in 196 BCE. The inherited birth year is not retained. Dates follow the Han regnal sequence in the annals and biography.",
+      "zh": "重点为前206年任汉将至前196年被杀。不保留原目录出生年，日期依本纪与列传中的汉王、皇帝纪年。"
+    },
+    "sources": [
+      {
+        "title": "Sima Qian, Shiji, chapter 92",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/史記/卷092",
+        "evidenceNote": "Command appointment, Jingxing narrative, Qi kingship, demotion and the reported conspiracy against Empress Lü; accusation is attributed, not independently adjudicated.",
+        "evidenceNoteZh": "支持拜将、井陉叙事、齐王封号、降爵与针对吕后的谋反指控；指控按史书叙述标明，不作独立裁判。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Sima Qian, Shiji, chapter 8",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/史記/卷008",
+        "evidenceNote": "The Han founder’s annals provide the regnal framework and the transfer and arrest of Han Xin.",
+        "evidenceNoteZh": "高祖本纪提供纪年框架及韩信徙封、被捕的背景。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": -206,
+        "title": {
+          "en": "Command for Han",
+          "zh": "受命为汉将"
+        },
+        "description": {
+          "en": "Han Xin entered senior command as Liu Bang prepared to contest the post-Qin settlement.",
+          "zh": "刘邦准备挑战秦亡后的分封格局时，韩信进入高级统帅位置。"
+        },
+        "location": {
+          "lat": 33.07,
+          "lon": 107.03,
+          "label": "Hanzhong, Han kingdom",
+          "labelI18n": {
+            "en": "Hanzhong, Han kingdom",
+            "zh": "汉王国的汉中"
+          }
+        }
+      },
+      {
+        "year": -204,
+        "title": {
+          "en": "Victory at Jingxing",
+          "zh": "井陉获胜"
+        },
+        "description": {
+          "en": "The campaign defeated Zhao; its received account made tactical deception central to Han Xin’s reputation.",
+          "zh": "战役击败赵国，传世叙事使用计成为韩信声名的重要部分。"
+        },
+        "location": {
+          "lat": 38.03,
+          "lon": 114.14,
+          "label": "Jingxing pass region",
+          "labelI18n": {
+            "en": "Jingxing pass region",
+            "zh": "井陉关一带"
+          }
+        }
+      },
+      {
+        "year": -203,
+        "title": {
+          "en": "King of Qi",
+          "zh": "成为齐王"
+        },
+        "description": {
+          "en": "A request for a royal title made the allocation of power within the coalition explicit.",
+          "zh": "请求王号使联盟内部的权力分配问题浮出水面。"
+        },
+        "location": {
+          "lat": 36.82,
+          "lon": 118.3,
+          "label": "Linzi, capital of Qi",
+          "labelI18n": {
+            "en": "Linzi, capital of Qi",
+            "zh": "齐都临淄"
+          }
+        }
+      },
+      {
+        "year": -196,
+        "title": {
+          "en": "Execution at the capital",
+          "zh": "在京城被杀"
+        },
+        "description": {
+          "en": "Empress Lü’s court killed Han Xin on a charge of rebellion, according to the transmitted account.",
+          "zh": "据传世记述，吕后方面以谋反罪杀死韩信。"
+        },
+        "location": {
+          "lat": 34.3,
+          "lon": 108.9,
+          "label": "Chang’an, Han capital",
+          "labelI18n": {
+            "en": "Chang’an, Han capital",
+            "zh": "汉都长安"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-person-liubang",
+      "china-person-zhangliang"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual biography from inspected primary texts and specialist interpretation. Inherited directory lifespan and itinerary are not evidence.",
+      "reviewLimit": {
+        "en": "The marker represents an attested setting, not a reconstructed journey. Ancient speeches and anecdotes are treated as transmitted narrative.",
+        "zh": "地图点代表有文献依据的历史场景，不是复原行程。古代言辞与轶事按传世叙事处理。"
+      }
+    }
+  },
+  {
+    "id": "china-person-zhangliang",
+    "name": {
+      "en": "Zhang Liang",
+      "zh": "张良"
+    },
+    "title": {
+      "en": "Zhang Liang · Advice that held allies together",
+      "zh": "张良 · 维系联盟的谋略"
+    },
+    "kind": "person",
+    "sourceProfileId": "china-person-zhangliang",
+    "start": -218,
+    "end": -201,
+    "location": {
+      "lat": 34.3,
+      "lon": 108.9,
+      "label": "Chang’an, Han capital",
+      "labelI18n": {
+        "en": "Chang’an, Han capital",
+        "zh": "汉都长安"
+      }
+    },
+    "locationPrecision": "representative",
+    "region": "east-asia",
+    "theme": "states",
+    "importance": 3,
+    "summary": {
+      "en": "Zhang Liang came from a family that had served the kingdom of Han, which Qin destroyed. The Shiji begins his political story with an unsuccessful attack on the First Emperor, then follows his shift toward advising Liu Bang. His most consequential interventions concerned relationships: avoiding a confrontation that could not be won, recruiting useful allies and making territorial promises credible. The biography credits him with helping resolve the quarrel over Han Xin's kingship and securing allies for the final campaign against Xiang Yu. Later rewards acknowledged counsel as a form of service alongside battlefield achievement. The mysterious old man who gives him a military book belongs to the biography's exemplary storytelling, not a verified account of his education.",
+      "zh": "张良的家族曾仕于被秦所灭的韩国。《史记》从一次未遂的刺秦行动写起，随后叙述他转而辅佐刘邦。他的重要建议往往关乎人与人的关系：避免无法取胜的正面对抗，争取可用的盟友，并让领土分配的承诺取得信任。传记把解决韩信王号之争、召集盟军完成对项羽的最后一击，都与他的谋划联系起来。战后的封赏也承认，出谋划策与临阵战功一样，是建国服务的一种。至于授予兵书的神秘老人，则属于传记的劝诫性故事，不能作为其求学过程的可靠记录。"
+    },
+    "dateNote": {
+      "en": "Focus: the attack conventionally dated 218 BCE to enfeoffment as Marquis of Liu in 201 BCE. No exact birth or death date is asserted.",
+      "zh": "重点为通常系于前218年的刺秦行动至前201年受封留侯，不断言精确生卒年。"
+    },
+    "sources": [
+      {
+        "title": "Sima Qian, Shiji, chapter 55",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/史記/卷055",
+        "evidenceNote": "Supports family background, attack, service to Liu Bang, coalition advice and sixth-year enfeoffment; supernatural instruction is treated as a story.",
+        "evidenceNoteZh": "支持家世、刺秦、辅佐刘邦、联盟建议及汉六年封侯；神秘授书按故事处理。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Sima Qian, Shiji, chapter 6",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/史記/卷006",
+        "evidenceNote": "Qin year 29 records the attack at Bolangsha, providing the conventional 218 BCE anchor.",
+        "evidenceNoteZh": "秦始皇二十九年记博浪沙袭击，提供通行的前218年定位。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": -218,
+        "title": {
+          "en": "An attack on Qin’s emperor",
+          "zh": "袭击秦始皇"
+        },
+        "description": {
+          "en": "The failed Bolangsha attack tied Zhang Liang’s early opposition to the destruction of Han.",
+          "zh": "博浪沙袭击未遂，把张良早期反秦行动与韩国覆亡联系起来。"
+        },
+        "location": {
+          "lat": 35.05,
+          "lon": 113.96,
+          "label": "Bolangsha region, near Xinxiang; approximate",
+          "labelI18n": {
+            "en": "Bolangsha region, near Xinxiang; approximate",
+            "zh": "博浪沙，近今新乡；约指"
+          }
+        },
+        "approximate": true
+      },
+      {
+        "year": -206,
+        "title": {
+          "en": "Counsel during the division",
+          "zh": "分封前后的谋划"
+        },
+        "description": {
+          "en": "Zhang Liang helped Liu Bang negotiate danger and position in the post-Qin settlement.",
+          "zh": "张良帮助刘邦在秦亡后的格局中应对危险、争取位置。"
+        },
+        "location": {
+          "lat": 34.36,
+          "lon": 108.71,
+          "label": "Xianyang, Qin court in the Wei valley",
+          "labelI18n": {
+            "en": "Xianyang, Qin court in the Wei valley",
+            "zh": "渭水流域的秦都咸阳"
+          }
+        }
+      },
+      {
+        "year": -201,
+        "title": {
+          "en": "Marquis of Liu",
+          "zh": "受封留侯"
+        },
+        "description": {
+          "en": "The imperial court rewarded his advisory service in the sixth Han year.",
+          "zh": "汉六年，朝廷以封侯酬答其谋划之功。"
+        },
+        "location": {
+          "lat": 34.3,
+          "lon": 108.9,
+          "label": "Chang’an, Han capital",
+          "labelI18n": {
+            "en": "Chang’an, Han capital",
+            "zh": "汉都长安"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-person-liubang",
+      "china-person-hanxin"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual biography from inspected primary texts and specialist interpretation. Inherited directory lifespan and itinerary are not evidence.",
+      "reviewLimit": {
+        "en": "The marker represents an attested setting, not a reconstructed journey. Ancient speeches and anecdotes are treated as transmitted narrative.",
+        "zh": "地图点代表有文献依据的历史场景，不是复原行程。古代言辞与轶事按传世叙事处理。"
+      }
+    }
+  },
+  {
+    "id": "china-person-hanwendi",
+    "name": {
+      "en": "Emperor Wen of Han",
+      "zh": "汉文帝"
+    },
+    "title": {
+      "en": "Emperor Wen of Han · The work of restraint",
+      "zh": "汉文帝 · 节制统治的实践"
+    },
+    "kind": "person",
+    "sourceProfileId": "china-person-hanwendi",
+    "start": -180,
+    "end": -157,
+    "location": {
+      "lat": 34.3,
+      "lon": 108.9,
+      "label": "Chang’an, Han capital",
+      "labelI18n": {
+        "en": "Chang’an, Han capital",
+        "zh": "汉都长安"
+      }
+    },
+    "locationPrecision": "representative",
+    "region": "east-asia",
+    "theme": "states",
+    "importance": 3,
+    "summary": {
+      "en": "Emperor Wen entered the imperial court after the fall of the Lü family's political position. His annals present restraint as an active form of rule: reducing demands, encouraging agriculture and hearing criticism. The account of Chunyu Tiying's petition links one family's predicament to the decision to abolish specified mutilating punishments. It does not mean punishment itself disappeared. Wen also faced rebellion among imperial relatives and conflict along the northern frontier, so the image of frugality coexists with military and dynastic pressures. Sima Qian's portrait helped establish a lasting model of the considerate ruler. Reading the edicts and the historian's praise together lets us distinguish a political ideal from the practical decisions made in its name.",
+      "zh": "吕氏政治势力覆亡后，汉文帝由代国进入帝国宫廷。本纪把节制写成一种主动的统治方式：减少征求、劝勉农业、听取批评。淳于缇萦上书的故事，则把一个家庭的困境与废除特定肉刑的决定联系起来，但这并不意味着刑罚本身消失。文帝也面临宗室叛乱和北部边境冲突，因此节俭形象始终与军事、王朝压力并存。司马迁的描写帮助形成了体恤民生的君主典范。把诏令与史家的赞语并读，可以区分政治理想，以及以这一理想为名作出的具体决定。"
+    },
+    "dateNote": {
+      "en": "Focus: imperial accession in 180 BCE through death in 157 BCE. The 167 BCE reform concerns specified mutilating punishments, not abolition of the penal system.",
+      "zh": "重点为前180年即帝位至前157年去世。前167年的改革针对特定肉刑，不是废除整个刑罚体系。"
+    },
+    "sources": [
+      {
+        "title": "Sima Qian, Shiji, chapter 10",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/史記/卷010",
+        "evidenceNote": "Accession crisis, edicts on criticism and agriculture, Tiying’s petition, military pressures, frugality and death; royal self-description is distinguished from measured social outcomes.",
+        "evidenceNoteZh": "支持即位危机、关于批评与农业的诏令、缇萦上书、军事压力、节俭及去世；君主自述不等同于可统计的社会成效。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": -180,
+        "title": {
+          "en": "From Dai to the imperial court",
+          "zh": "由代入朝即位"
+        },
+        "description": {
+          "en": "Senior officials invited the king of Dai to become emperor after the Lü crisis.",
+          "zh": "吕氏危机后，重臣迎立代王为帝。"
+        },
+        "location": {
+          "lat": 34.3,
+          "lon": 108.9,
+          "label": "Chang’an, Han capital",
+          "labelI18n": {
+            "en": "Chang’an, Han capital",
+            "zh": "汉都长安"
+          }
+        }
+      },
+      {
+        "year": -167,
+        "title": {
+          "en": "Changing punishments",
+          "zh": "更改刑罚"
+        },
+        "description": {
+          "en": "The annals connect Tiying’s petition with an order abolishing specified bodily mutilations.",
+          "zh": "本纪将缇萦上书与下诏废除特定肉刑相联系。"
+        },
+        "location": {
+          "lat": 34.3,
+          "lon": 108.9,
+          "label": "Chang’an, Han capital",
+          "labelI18n": {
+            "en": "Chang’an, Han capital",
+            "zh": "汉都长安"
+          }
+        }
+      },
+      {
+        "year": -157,
+        "title": {
+          "en": "A restrained funeral order",
+          "zh": "节制丧葬的遗命"
+        },
+        "description": {
+          "en": "The recorded final edict reduced mourning demands and rejected burdensome funeral display.",
+          "zh": "所载遗诏缩减居丧要求，反对增加民众负担的丧葬铺张。"
+        },
+        "location": {
+          "lat": 34.3,
+          "lon": 108.9,
+          "label": "Chang’an, Han capital",
+          "labelI18n": {
+            "en": "Chang’an, Han capital",
+            "zh": "汉都长安"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "han-dynasty",
+      "china-person-hanwudi"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual biography from inspected primary texts and specialist interpretation. Inherited directory lifespan and itinerary are not evidence.",
+      "reviewLimit": {
+        "en": "The marker represents an attested setting, not a reconstructed journey. Ancient speeches and anecdotes are treated as transmitted narrative.",
+        "zh": "地图点代表有文献依据的历史场景，不是复原行程。古代言辞与轶事按传世叙事处理。"
+      }
+    }
+  },
+  {
+    "id": "china-person-hanwudi",
+    "name": {
+      "en": "Emperor Wu of Han",
+      "zh": "汉武帝"
+    },
+    "title": {
+      "en": "Emperor Wu of Han · Expansion and the price of empire",
+      "zh": "汉武帝 · 扩张与帝国的代价"
+    },
+    "kind": "person",
+    "sourceProfileId": "china-person-hanwudi",
+    "start": -141,
+    "end": -87,
+    "location": {
+      "lat": 34.3,
+      "lon": 108.9,
+      "label": "Chang’an, Han capital",
+      "labelI18n": {
+        "en": "Chang’an, Han capital",
+        "zh": "汉都长安"
+      }
+    },
+    "locationPrecision": "representative",
+    "region": "east-asia",
+    "theme": "states",
+    "importance": 3,
+    "summary": {
+      "en": "Emperor Wu expanded the ambitions of the Han court. Campaigns against the Xiongnu, western embassies and new territorial administrations drew distant societies into changing relations with the empire. At home, the court sponsored classical learning and reorganized ritual authority. These projects required resources. Sima Qian's fiscal history follows the burdens of transport, military rewards and revenue gathering, providing a counterpoint to accounts of imperial achievement. The reign also ended amid violent court conflict, including accusations of witchcraft that destroyed the crown prince's position. His history is therefore best read across institutions and households as well as campaigns: the same government that extended connections could impose heavy demands on those who supplied its soldiers, officials and ceremonies.",
+      "zh": "汉武帝扩大了汉廷的政治抱负。对匈奴的战争、向西派遣使团和新设地方行政，使远方社会与帝国建立了不断变化的关系。国内则扶持经典学习，重整祭祀权威。这些行动都需要资源。司马迁的财政史追踪运输、军功赏赐和筹集收入带来的负担，为帝国功业叙事提供另一面。晚年宫廷还发生激烈冲突，巫蛊指控最终摧毁了太子的地位。因此，理解这一时期不能只看战役，还要看制度与家庭：扩展联系的同一个政权，也可能向供养军队、官吏和礼仪的人们提出沉重要求。"
+    },
+    "dateNote": {
+      "en": "Focus: the reign, 141–87 BCE. The learning milestone refers to the 124 BCE provision for students attached to the erudites; it does not imply an immediate, exclusive ideological monopoly.",
+      "zh": "重点为前141—前87年的在位时期。学习节点指前124年为博士设置弟子员，不意味着立即形成唯一思想的垄断。"
+    },
+    "sources": [
+      {
+        "title": "Ban Gu and successors, Hanshu, chapter 6",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/漢書/卷006",
+        "evidenceNote": "Accession, Yuan-shuo fifth-year students, campaigns, the witchcraft crisis and death; edicts are used for policy, not as proof that all goals were achieved.",
+        "evidenceNoteZh": "支持即位、元朔五年博士弟子员、战争、巫蛊危机及去世；诏令用于说明政策，不能证明目标均已实现。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Sima Qian, Shiji, chapter 30",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/史記/卷030",
+        "evidenceNote": "Fiscal narrative connects warfare and construction with transport burdens, exhausted funds and revenue initiatives.",
+        "evidenceNoteZh": "财政叙事将战争与工程联系到转输负担、府库耗损及筹款措施。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Sima Qian, Shiji, chapter 123",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/史記/卷123",
+        "evidenceNote": "Zhang Qian’s missions supply evidence for diplomatic connections and their political aims.",
+        "evidenceNoteZh": "张骞使行提供外交联系及其政治目标的证据。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": -141,
+        "title": {
+          "en": "Accession",
+          "zh": "即位"
+        },
+        "description": {
+          "en": "Liu Che inherited an established Han monarchy and began a long reign.",
+          "zh": "刘彻继承已有的汉朝君主制度，开始长期统治。"
+        },
+        "location": {
+          "lat": 34.3,
+          "lon": 108.9,
+          "label": "Chang’an, Han capital",
+          "labelI18n": {
+            "en": "Chang’an, Han capital",
+            "zh": "汉都长安"
+          }
+        }
+      },
+      {
+        "year": -124,
+        "title": {
+          "en": "Students for the erudites",
+          "zh": "为博士置弟子员"
+        },
+        "description": {
+          "en": "The court expanded the institutional support for learning and recruitment through classical study.",
+          "zh": "朝廷扩大学习机构，通过经典研究培养、选用人才。"
+        },
+        "location": {
+          "lat": 34.3,
+          "lon": 108.9,
+          "label": "Chang’an, Han capital",
+          "labelI18n": {
+            "en": "Chang’an, Han capital",
+            "zh": "汉都长安"
+          }
+        }
+      },
+      {
+        "year": -91,
+        "title": {
+          "en": "The crown prince’s crisis",
+          "zh": "太子危机"
+        },
+        "description": {
+          "en": "Witchcraft accusations and armed conflict at Chang’an ended in the deaths of the crown prince and empress.",
+          "zh": "巫蛊指控及长安的武装冲突，最终导致太子与皇后死亡。"
+        },
+        "location": {
+          "lat": 34.3,
+          "lon": 108.9,
+          "label": "Chang’an, Han capital",
+          "labelI18n": {
+            "en": "Chang’an, Han capital",
+            "zh": "汉都长安"
+          }
+        }
+      },
+      {
+        "year": -87,
+        "title": {
+          "en": "Succession after a long reign",
+          "zh": "长期统治后的继承"
+        },
+        "description": {
+          "en": "The emperor appointed the young Liu Fuling as heir shortly before his death.",
+          "zh": "皇帝去世前立年幼的刘弗陵为继承人。"
+        },
+        "location": {
+          "lat": 34.3,
+          "lon": 108.9,
+          "label": "Chang’an, Han capital",
+          "labelI18n": {
+            "en": "Chang’an, Han capital",
+            "zh": "汉都长安"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-person-zhangqian",
+      "china-person-simaqian"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual biography from inspected primary texts and specialist interpretation. Inherited directory lifespan and itinerary are not evidence.",
+      "reviewLimit": {
+        "en": "The marker represents an attested setting, not a reconstructed journey. Ancient speeches and anecdotes are treated as transmitted narrative.",
+        "zh": "地图点代表有文献依据的历史场景，不是复原行程。古代言辞与轶事按传世叙事处理。"
+      }
+    }
+  },
+  {
+    "id": "china-person-zhangqian",
+    "name": {
+      "en": "Zhang Qian",
+      "zh": "张骞"
+    },
+    "title": {
+      "en": "Zhang Qian · Diplomacy beyond the frontier",
+      "zh": "张骞 · 边疆以外的外交"
+    },
+    "kind": "person",
+    "sourceProfileId": "china-person-zhangqian",
+    "start": -139,
+    "end": -119,
+    "location": {
+      "lat": 34.3,
+      "lon": 108.9,
+      "label": "Chang’an, Han capital",
+      "labelI18n": {
+        "en": "Chang’an, Han capital",
+        "zh": "汉都长安"
+      }
+    },
+    "locationPrecision": "representative",
+    "region": "east-asia",
+    "theme": "exchange",
+    "importance": 3,
+    "summary": {
+      "en": "Zhang Qian traveled west to seek an alliance, not to inaugurate a commercial road. Detention by the Xiongnu prolonged the mission, and the Yuezhi did not accept the alliance Han wanted. Yet the journey brought the court information about societies beyond its familiar horizon. The Shiji distinguishes places he visited from countries he knew through reports, an essential distinction for mapping his experience. His companion Ganfu and local guides also belong to this history of movement. A later mission to the Wusun multiplied diplomatic contacts through deputy envoys. These journeys joined existing regional connections; they did not create travel or exchange from nothing, and they cannot be reduced to one continuous line called the Silk Road.",
+      "zh": "张骞向西出行的目标是寻求联盟，而非开通一条商路。匈奴的拘留延长了使行，月氏也没有接受汉廷期望的联盟。不过，旅程为朝廷带回了熟悉范围之外的社会信息。《史记》区分他亲自到达的地方与通过传闻得知的国家，这是绘制其经历时不可忽略的差别。同行的甘父和地方向导，也属于这段人员流动史。后来出使乌孙时，他派副使前往各地，增多了外交接触。这些旅程连接原有的区域往来，并非从无到有地创造贸易，更不能被压缩成一条名叫“丝绸之路”的连续线。"
+    },
+    "dateNote": {
+      "en": "Focus: the first departure, dated 139 BCE by UNESCO’s current overview and often 138 BCE elsewhere, through the 119 BCE second mission. The first marker is approximate. Return in 126 BCE is the conventional endpoint of the first mission.",
+      "zh": "重点为首次出发至前119年的第二次出使。联合国教科文组织现行概述采用前139年，其他年表常用前138年，因此首个节点标为约年；前126年为首次归汉的通常日期。"
+    },
+    "sources": [
+      {
+        "title": "Sima Qian, Shiji, chapter 123",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/史記/卷123",
+        "evidenceNote": "Mission objective, detention, Ganfu, visited versus reported societies, unsuccessful alliance and Wusun deputy missions; ancient ethnographic judgments are not adopted.",
+        "evidenceNoteZh": "支持任务目标、拘留、甘父、亲历与传闻的区分、未成联盟及乌孙副使；不沿用古代民族评价。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "About the Silk Roads",
+        "publisher": "UNESCO",
+        "url": "https://www.unesco.org/en/silk-roads/about-silk-roads?hub=196704",
+        "evidenceNote": "The diplomatic-travel section supplies 139 BCE and 119 BCE; its single-founder language is narrowed through Shiji’s account of existing societies and intermediaries.",
+        "evidenceNoteZh": "外交旅行部分提供前139、前119年；关于单一开创者的措辞，结合《史记》中的既有社会与中介加以限定。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": -139,
+        "title": {
+          "en": "An embassy seeking allies",
+          "zh": "寻求盟友的使团"
+        },
+        "description": {
+          "en": "The first departure belongs around 139–138 BCE and sought the Yuezhi as partners against the Xiongnu.",
+          "zh": "首次出发约在前139—前138年，目标是联络月氏共同对抗匈奴。"
+        },
+        "location": {
+          "lat": 34.3,
+          "lon": 108.9,
+          "label": "Chang’an, Han capital",
+          "labelI18n": {
+            "en": "Chang’an, Han capital",
+            "zh": "汉都长安"
+          }
+        },
+        "approximate": true
+      },
+      {
+        "year": -126,
+        "title": {
+          "en": "Information returns to court",
+          "zh": "把见闻带回朝廷"
+        },
+        "description": {
+          "en": "The conventional return date marks the delivery of reports after a prolonged mission and detention.",
+          "zh": "通行归汉日期标志着长期使行与拘留之后，见闻报告进入朝廷。"
+        },
+        "location": {
+          "lat": 34.3,
+          "lon": 108.9,
+          "label": "Chang’an, Han capital",
+          "labelI18n": {
+            "en": "Chang’an, Han capital",
+            "zh": "汉都长安"
+          }
+        }
+      },
+      {
+        "year": -119,
+        "title": {
+          "en": "A new embassy to the Wusun",
+          "zh": "再遣使至乌孙"
+        },
+        "description": {
+          "en": "Zhang Qian and deputy envoys extended official contacts across several existing political networks.",
+          "zh": "张骞与副使沿既有政治网络，扩展官方交往。"
+        },
+        "location": {
+          "lat": 42.2,
+          "lon": 77.5,
+          "label": "Issyk-Kul region, representative Wusun setting",
+          "labelI18n": {
+            "en": "Issyk-Kul region, representative Wusun setting",
+            "zh": "伊塞克湖地区；乌孙场景的代表点"
+          }
+        },
+        "approximate": true
+      }
+    ],
+    "relatedIds": [
+      "silk-roads-changan",
+      "china-person-hanwudi"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual biography from inspected primary texts and specialist interpretation. Inherited directory lifespan and itinerary are not evidence.",
+      "reviewLimit": {
+        "en": "The marker represents an attested setting, not a reconstructed journey. Ancient speeches and anecdotes are treated as transmitted narrative.",
+        "zh": "地图点代表有文献依据的历史场景，不是复原行程。古代言辞与轶事按传世叙事处理。"
+      }
+    }
+  },
+  {
+    "id": "china-person-weiqing",
+    "name": {
+      "en": "Wei Qing",
+      "zh": "卫青"
+    },
+    "title": {
+      "en": "Wei Qing · Command, supply and court favor",
+      "zh": "卫青 · 统兵、供给与宫廷关系"
+    },
+    "kind": "person",
+    "sourceProfileId": "china-person-weiqing",
+    "start": -127,
+    "end": -106,
+    "location": {
+      "lat": 34.3,
+      "lon": 108.9,
+      "label": "Chang’an, Han capital",
+      "labelI18n": {
+        "en": "Chang’an, Han capital",
+        "zh": "汉都长安"
+      }
+    },
+    "locationPrecision": "representative",
+    "region": "east-asia",
+    "theme": "states",
+    "importance": 3,
+    "summary": {
+      "en": "Wei Qing's rise connected a vulnerable household position with access to the imperial court through his sister Wei Zifu. The Shiji nevertheless traces his authority through repeated commands, particularly the seizure of territory around the Yellow River's northern bend and the large campaign beyond the desert. Those operations required transport, horses and coordination among separate forces. Victory also brought captives, new settlements and rewards that tied military success to the emperor's patronage. The biography records disputes over failed subordinate commanders and contrasts Wei Qing's caution with Huo Qubing's increasing prominence. Together these episodes show command as an institutional and political task, not merely a sequence of personal feats. The map uses broad campaign settings rather than a purported exact marching route.",
+      "zh": "卫青的崛起，从处境脆弱的家庭成员开始，经由姐姐卫子夫进入皇帝身边。《史记》同时也通过多次统兵说明其权力来源，尤其是夺取黄河北曲一带，以及越过沙漠的大规模远征。这些行动需要运输、马匹和多路部队的协调。胜利又带来俘虏、移民与封赏，把军事成功同皇帝恩遇相联系。传记记述了对失利部将如何处置的争议，也比较卫青的谨慎与霍去病日益上升的地位。这些片段说明，统军既是制度工作，也是政治工作，并非一串个人壮举。地图采用宽泛的战役场景，不声称复原精确行军路线。"
+    },
+    "dateNote": {
+      "en": "Focus: the 127 BCE northern-bend campaign through the conventional death year, 106 BCE. The selected campaigns are anchored by Yuan-shuo and Yuan-shou regnal years; no birth date is supplied.",
+      "zh": "重点为前127年河南地战役至通常所定的前106年卒年。所选战役依元朔、元狩纪年定位，不补写出生年。"
+    },
+    "sources": [
+      {
+        "title": "Sima Qian, Shiji, chapter 111",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/史記/卷111",
+        "evidenceNote": "Wei Qing’s household background, northern campaigns, appointment as general-in-chief, debates over subordinate responsibility and later death. Ancient casualty and horse totals are not presented as measured statistics.",
+        "evidenceNoteZh": "支持卫青家庭背景、北征、任大将军、部将责任争议及晚年去世；不把古代伤亡与马匹数字当作实测统计。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Sima Qian, Shiji, chapter 30",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/史記/卷030",
+        "evidenceNote": "Documents the fiscal and transport demands accompanying the Shuofang and northern campaigns.",
+        "evidenceNoteZh": "说明朔方及北方战事所需的财政和运输负担。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": -127,
+        "title": {
+          "en": "The northern bend",
+          "zh": "争夺河南地"
+        },
+        "description": {
+          "en": "A campaign brought territory within the Yellow River bend under Han control and supported the new Shuofang administration.",
+          "zh": "战役使黄河曲流内的地区转入汉控制，并支持新设朔方行政。"
+        },
+        "location": {
+          "lat": 40.8,
+          "lon": 107.4,
+          "label": "Shuofang region, northern Yellow River bend",
+          "labelI18n": {
+            "en": "Shuofang region, northern Yellow River bend",
+            "zh": "黄河北曲的朔方地区"
+          }
+        }
+      },
+      {
+        "year": -124,
+        "title": {
+          "en": "General-in-chief",
+          "zh": "任大将军"
+        },
+        "description": {
+          "en": "After another expedition, the court placed other commanders under Wei Qing’s senior command.",
+          "zh": "又一次远征后，朝廷使其他将领受卫青统属。"
+        },
+        "location": {
+          "lat": 40.8,
+          "lon": 107.4,
+          "label": "Shuofang frontier command",
+          "labelI18n": {
+            "en": "Shuofang frontier command",
+            "zh": "朔方边防统帅部所在区域"
+          }
+        }
+      },
+      {
+        "year": -119,
+        "title": {
+          "en": "Across the desert",
+          "zh": "越漠作战"
+        },
+        "description": {
+          "en": "Wei Qing and Huo Qubing led separate major expeditions, exposing the dependence of distant warfare on horses and supplies.",
+          "zh": "卫青、霍去病分别率领大军远征，显现远方战争对马匹与供给的依赖。"
+        },
+        "location": {
+          "lat": 41.0,
+          "lon": 111.8,
+          "label": "Dingxiang frontier departure region",
+          "labelI18n": {
+            "en": "Dingxiang frontier departure region",
+            "zh": "定襄边地出发区域"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-person-huoqubing",
+      "china-person-hanwudi"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual biography from inspected primary texts and specialist interpretation. Inherited directory lifespan and itinerary are not evidence.",
+      "reviewLimit": {
+        "en": "The marker represents an attested setting, not a reconstructed journey. Ancient speeches and anecdotes are treated as transmitted narrative.",
+        "zh": "地图点代表有文献依据的历史场景，不是复原行程。古代言辞与轶事按传世叙事处理。"
+      }
+    }
+  },
+  {
+    "id": "china-person-huoqubing",
+    "name": {
+      "en": "Huo Qubing",
+      "zh": "霍去病"
+    },
+    "title": {
+      "en": "Huo Qubing · A short career in frontier war",
+      "zh": "霍去病 · 边疆战争中的短暂生涯"
+    },
+    "kind": "person",
+    "sourceProfileId": "china-person-huoqubing",
+    "start": -123,
+    "end": -117,
+    "location": {
+      "lat": 34.3,
+      "lon": 108.9,
+      "label": "Chang’an, Han capital",
+      "labelI18n": {
+        "en": "Chang’an, Han capital",
+        "zh": "汉都长安"
+      }
+    },
+    "locationPrecision": "representative",
+    "region": "east-asia",
+    "theme": "states",
+    "importance": 3,
+    "summary": {
+      "en": "Huo Qubing's short career was bound to Emperor Wu's expansion and to the military household of his uncle Wei Qing. The Shiji describes a young commander favored with selected cavalry, rapid operations and substantial rewards. Campaigns in the Hexi corridor and beyond the desert helped alter the balance between Han and Xiongnu powers. They also displaced people and depended on supplies, captured resources and costly losses of horses. The historian's portrait includes criticism of the contrast between the commander's privileged provisions and hungry soldiers. After his death, the imperial funeral used a mound resembling the Qilian mountains to turn a campaign landscape into commemoration. His story links military achievement to the choices about what a court chooses to remember.",
+      "zh": "霍去病短暂的仕途与汉武帝的扩张，以及舅父卫青的军事家庭紧密相连。《史记》描写这位年轻统帅拥有优选骑兵，善于快速行动，并得到丰厚封赏。河西与漠北战役改变了汉与匈奴的力量关系，同时也使人口迁移，并依赖供给、缴获资源和代价高昂的马匹消耗。史家的描写还包含批评：将领享有优厚食物，与士卒饥饿形成反差。他去世后，皇帝以形似祁连山的墓冢纪念，将战役景观转化为追怀形式。其故事把军事成就与宫廷选择如何记忆战争联系起来。"
+    },
+    "dateNote": {
+      "en": "Focus: first recorded successes in 123 BCE through death in 117 BCE. The biography’s age statements are not used to manufacture an exact birthday. Distant campaign locations are regional anchors.",
+      "zh": "重点为前123年首次所记战功至前117年去世。不用传记年龄推造精确出生日期；远征地点采用区域定位。"
+    },
+    "sources": [
+      {
+        "title": "Sima Qian, Shiji, chapter 111",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/史記/卷111",
+        "evidenceNote": "Supports early service, Yuan-shou second-year Hexi campaigns, fourth-year desert expedition, criticism of provisions and sixth-year death and funeral mound.",
+        "evidenceNoteZh": "支持早期任职、元狩二年河西战役、四年越漠、对军中供给的批评，以及六年去世与墓冢安排。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": -123,
+        "title": {
+          "en": "First distinction",
+          "zh": "初获战功"
+        },
+        "description": {
+          "en": "Service with Wei Qing brought Huo Qubing the title Marquis of Champion.",
+          "zh": "随卫青出征取得战功，获封冠军侯。"
+        },
+        "location": {
+          "lat": 41.0,
+          "lon": 111.8,
+          "label": "Dingxiang frontier region",
+          "labelI18n": {
+            "en": "Dingxiang frontier region",
+            "zh": "定襄边地"
+          }
+        }
+      },
+      {
+        "year": -121,
+        "title": {
+          "en": "Campaigns in Hexi",
+          "zh": "河西战役"
+        },
+        "description": {
+          "en": "Campaigns and the surrender of Xiongnu leaders changed control and settlement in the corridor.",
+          "zh": "作战与匈奴首领归降，改变了河西的控制和人口分布。"
+        },
+        "location": {
+          "lat": 38.93,
+          "lon": 100.45,
+          "label": "Hexi corridor, representative Zhangye setting",
+          "labelI18n": {
+            "en": "Hexi corridor, representative Zhangye setting",
+            "zh": "河西走廊；以张掖为代表点"
+          }
+        }
+      },
+      {
+        "year": -119,
+        "title": {
+          "en": "Beyond the desert",
+          "zh": "深入漠北"
+        },
+        "description": {
+          "en": "A separate large expedition accompanied Wei Qing’s campaign. Exact farthest points are not mapped as certain.",
+          "zh": "与卫青分别率领大军远征，不把最远抵达点绘作定论。"
+        },
+        "location": {
+          "lat": 40.1,
+          "lon": 114.3,
+          "label": "Dai frontier departure region",
+          "labelI18n": {
+            "en": "Dai frontier departure region",
+            "zh": "代郡边地出发区域"
+          }
+        }
+      },
+      {
+        "year": -117,
+        "title": {
+          "en": "A landscape in commemoration",
+          "zh": "纪念中的山川"
+        },
+        "description": {
+          "en": "His funeral mound was shaped, according to the biography, to evoke the Qilian mountains.",
+          "zh": "据传记记述，墓冢仿祁连山形，以纪念战功。"
+        },
+        "location": {
+          "lat": 34.34,
+          "lon": 108.57,
+          "label": "Maoling region, burial setting",
+          "labelI18n": {
+            "en": "Maoling region, burial setting",
+            "zh": "茂陵地区，墓葬所在"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-person-weiqing",
+      "china-person-hanwudi"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual biography from inspected primary texts and specialist interpretation. Inherited directory lifespan and itinerary are not evidence.",
+      "reviewLimit": {
+        "en": "The marker represents an attested setting, not a reconstructed journey. Ancient speeches and anecdotes are treated as transmitted narrative.",
+        "zh": "地图点代表有文献依据的历史场景，不是复原行程。古代言辞与轶事按传世叙事处理。"
+      }
+    }
+  },
+  {
+    "id": "china-person-simaqian",
+    "name": {
+      "en": "Sima Qian",
+      "zh": "司马迁"
+    },
+    "title": {
+      "en": "Sima Qian · Choosing whose lives to preserve",
+      "zh": "司马迁 · 选择为谁留下历史"
+    },
+    "kind": "person",
+    "sourceProfileId": "china-person-simaqian",
+    "start": -109,
+    "end": -99,
+    "location": {
+      "lat": 34.3,
+      "lon": 108.9,
+      "label": "Chang’an, Han capital",
+      "labelI18n": {
+        "en": "Chang’an, Han capital",
+        "zh": "汉都长安"
+      }
+    },
+    "locationPrecision": "representative",
+    "region": "east-asia",
+    "theme": "knowledge",
+    "importance": 3,
+    "summary": {
+      "en": "Sima Qian inherited a project as well as an office from his father Sima Tan. Travel, court records and transmitted accounts supplied material for a history that moved between rulers, families, institutions and individual lives. Its structure allowed the same conflict to look different from different positions. After defending the defeated general Li Ling, Sima Qian suffered imprisonment and castration. His letter to Ren An explains the wish to finish his work amid humiliation and isolation. The resulting Shiji is indispensable, but its speeches, judgments and carefully arranged scenes are also historical writing shaped by an author. Reading Sima Qian means attending both to the people he preserves and to the choices through which he makes them memorable.",
+      "zh": "司马迁从父亲司马谈那里继承的不只是官职，还有一项写史计划。旅行、宫廷档案与传闻，为他在君主、家族、制度和个人之间展开历史提供材料。这种结构使同一场冲突可以从不同立场被观察。为战败的李陵辩护后，司马迁遭监禁与宫刑。《报任安书》说明，他在屈辱与孤立中仍希望完成著作。《史记》因此不可或缺，但书中的言辞、评价和精心安排的场景，也是作者塑造的历史写作。阅读司马迁，既要关注他保存的人物，也要观察他如何使这些人物令人记住。"
+    },
+    "dateNote": {
+      "en": "Focus: appointment as Grand Scribe around 109 BCE, the 104 BCE calendar reform and the Li Ling crisis of 99 BCE. The punishment followed that crisis; no precise execution date, completion year or disputed birth/death year is asserted.",
+      "zh": "重点为约前109年任太史令、前104年历法改革及前99年李陵事件。刑罚发生在事件之后，不断言施刑的精确日期、完稿年或有争议的生卒年。"
+    },
+    "sources": [
+      {
+        "title": "Sima Qian, Shiji, chapter 130",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/史記/卷130",
+        "evidenceNote": "Autobiographical account of travel, succession to Sima Tan, access to archives, calendar chronology, Li Ling imprisonment and the organization of the work.",
+        "evidenceNoteZh": "自序支持旅行、继承司马谈职事、利用档案、改历纪年、李陵之祸与全书结构。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Ban Gu and successors, Hanshu, chapter 62",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/漢書/卷062",
+        "evidenceNote": "The biography and preserved letter to Ren An explain the punishment and the author’s stated commitment to completing his history.",
+        "evidenceNoteZh": "传记及所收《报任安书》说明受刑，以及作者自述完成史书的志向。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": -109,
+        "title": {
+          "en": "The Grand Scribe’s office",
+          "zh": "担任太史令"
+        },
+        "description": {
+          "en": "After his father’s death, Sima Qian gained an office with access to the court’s records.",
+          "zh": "父亲去世后，司马迁担任太史令，得以利用宫廷典籍。"
+        },
+        "location": {
+          "lat": 34.3,
+          "lon": 108.9,
+          "label": "Chang’an, Han capital",
+          "labelI18n": {
+            "en": "Chang’an, Han capital",
+            "zh": "汉都长安"
+          }
+        },
+        "approximate": true
+      },
+      {
+        "year": -104,
+        "title": {
+          "en": "Calendar reform",
+          "zh": "太初改历"
+        },
+        "description": {
+          "en": "The autobiographical chronology anchors his work in the year of the Taichu calendar reform.",
+          "zh": "自序把其工作置于太初改历的纪年背景中。"
+        },
+        "location": {
+          "lat": 34.3,
+          "lon": 108.9,
+          "label": "Chang’an, Han capital",
+          "labelI18n": {
+            "en": "Chang’an, Han capital",
+            "zh": "汉都长安"
+          }
+        }
+      },
+      {
+        "year": -99,
+        "title": {
+          "en": "The Li Ling crisis",
+          "zh": "李陵之祸"
+        },
+        "description": {
+          "en": "His intervention over Li Ling’s defeat brought imprisonment and later punishment, while the history remained a personal commitment.",
+          "zh": "为李陵战败申辩导致下狱及其后受刑，写史仍是其个人志业。"
+        },
+        "location": {
+          "lat": 34.3,
+          "lon": 108.9,
+          "label": "Chang’an, Han capital",
+          "labelI18n": {
+            "en": "Chang’an, Han capital",
+            "zh": "汉都长安"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-person-hanwudi",
+      "china-person-quyuan"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual biography from inspected primary texts and specialist interpretation. Inherited directory lifespan and itinerary are not evidence.",
+      "reviewLimit": {
+        "en": "The marker represents an attested setting, not a reconstructed journey. Ancient speeches and anecdotes are treated as transmitted narrative.",
+        "zh": "地图点代表有文献依据的历史场景，不是复原行程。古代言辞与轶事按传世叙事处理。"
+      }
+    }
+  },
+  {
+    "id": "china-person-wangmang",
+    "name": {
+      "en": "Wang Mang",
+      "zh": "王莽"
+    },
+    "title": {
+      "en": "Wang Mang · Changing institutions in an ancient name",
+      "zh": "王莽 · 借古制重建秩序"
+    },
+    "kind": "person",
+    "sourceProfileId": "china-person-wangmang",
+    "start": 9,
+    "end": 23,
+    "location": {
+      "lat": 34.3,
+      "lon": 108.9,
+      "label": "Chang’an, renamed Chang’an with a different first character under Xin",
+      "labelI18n": {
+        "en": "Chang’an, renamed Chang’an with a different first character under Xin",
+        "zh": "新朝改称常安的长安"
+      }
+    },
+    "locationPrecision": "representative",
+    "region": "east-asia",
+    "theme": "states",
+    "importance": 3,
+    "summary": {
+      "en": "Wang Mang replaced the Han ruling house with the Xin dynasty while presenting institutional change as a return to ancient ideals. Land rules, restrictions on buying and selling enslaved people, new currencies and revised titles aimed to reorder society from the court outward. The Hanshu also records confusion, coercive enforcement and the retreat from some measures. Flooding and widening rebellion compounded the regime's difficulties before insurgents entered the capital and killed him. That history was compiled under the restored Han and is openly hostile to his legitimacy. Its detailed policy reports remain valuable, but neither its portrait of a wholly fraudulent ruler nor a modern label such as socialist adequately explains the mix of classicism, ambition and administrative disruption.",
+      "zh": "王莽以新朝取代汉室，同时把制度变更解释为恢复古代理想。土地规定、限制买卖奴婢、改铸货币和更换官号，试图从朝廷向外重整社会。《汉书》也记载混乱、强制执行，以及部分措施的退让。洪水与不断扩大的起事进一步加重政权困难，最终起兵者攻入京城，杀死王莽。这部史书写成于复兴后的汉朝，对其合法性抱有明确敌意；其中的政策细节仍有价值。但无论把他写成完全虚伪的篡位者，还是套用现代的“社会主义者”标签，都不足以解释复古思想、政治野心与行政扰动的交织。"
+    },
+    "dateNote": {
+      "en": "Focus: Xin rule, 9–23 CE. Land and sale restrictions were announced in 9 and relaxed in 12; legislation is distinguished from implementation and does not mean slavery ended.",
+      "zh": "重点为公元9—23年的新朝统治。9年颁布的土地与买卖限制在12年有所放宽；区分法令与实行，不称奴隶制度已被终结。"
+    },
+    "sources": [
+      {
+        "title": "Ban Gu and successors, Hanshu, chapter 099中",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/漢書/卷099中",
+        "evidenceNote": "Xin’s first-year enactments, currency measures, the Yellow River breach and fourth-year relaxation of land and private-dependent sale rules; hostile authorial judgments are identified as such.",
+        "evidenceNoteZh": "支持新朝元年措施、货币政策、黄河决口，以及四年放宽王田与私属买卖限制；敌对的作者评价与政策记录区分。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Ban Gu and successors, Hanshu, chapter 099下",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/漢書/卷099下",
+        "evidenceNote": "Later fiscal pressure, rebellion and the fall of Chang’an in 23 CE; portents and exaggerated numerical claims are excluded.",
+        "evidenceNoteZh": "支持后期财政压力、起事及23年常安陷落；不采用征兆神话与夸大数字。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 9,
+        "title": {
+          "en": "A new dynasty and new rules",
+          "zh": "新王朝与新法令"
+        },
+        "description": {
+          "en": "Wang Mang announced Xin rule and measures concerning land, dependent labor and money.",
+          "zh": "王莽建立新朝，颁布有关土地、依附人口与货币的措施。"
+        },
+        "location": {
+          "lat": 34.3,
+          "lon": 108.9,
+          "label": "Chang’an, Han capital",
+          "labelI18n": {
+            "en": "Chang’an, Han capital",
+            "zh": "汉都长安"
+          }
+        }
+      },
+      {
+        "year": 12,
+        "title": {
+          "en": "A retreat from sale restrictions",
+          "zh": "放宽买卖限制"
+        },
+        "description": {
+          "en": "The court permitted sales of designated royal land and suspended punishment of specified private-dependent transactions.",
+          "zh": "朝廷准许王田买卖，并暂不追究所列私属交易。"
+        },
+        "location": {
+          "lat": 34.3,
+          "lon": 108.9,
+          "label": "Chang’an, Han capital",
+          "labelI18n": {
+            "en": "Chang’an, Han capital",
+            "zh": "汉都长安"
+          }
+        }
+      },
+      {
+        "year": 23,
+        "title": {
+          "en": "The capital falls",
+          "zh": "京城陷落"
+        },
+        "description": {
+          "en": "Insurgents entered the capital and Wang Mang was killed as Xin rule collapsed.",
+          "zh": "起兵者进入京城，王莽被杀，新朝统治崩溃。"
+        },
+        "location": {
+          "lat": 34.3,
+          "lon": 108.9,
+          "label": "Chang’an, Han capital",
+          "labelI18n": {
+            "en": "Chang’an, Han capital",
+            "zh": "汉都长安"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "han-dynasty",
+      "china-person-liuxiu"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual biography from inspected primary texts and specialist interpretation. Inherited directory lifespan and itinerary are not evidence.",
+      "reviewLimit": {
+        "en": "The marker represents an attested setting, not a reconstructed journey. Ancient speeches and anecdotes are treated as transmitted narrative.",
+        "zh": "地图点代表有文献依据的历史场景，不是复原行程。古代言辞与轶事按传世叙事处理。"
+      }
+    }
+  },
+  {
+    "id": "china-person-liuxiu",
+    "name": {
+      "en": "Liu Xiu",
+      "zh": "刘秀"
+    },
+    "title": {
+      "en": "Liu Xiu · Rebuilding Han after civil war",
+      "zh": "刘秀 · 战乱之后重建汉朝"
+    },
+    "kind": "person",
+    "sourceProfileId": "china-person-liuxiu",
+    "start": 23,
+    "end": 36,
+    "location": {
+      "lat": 34.68,
+      "lon": 112.45,
+      "label": "Luoyang, imperial capital",
+      "labelI18n": {
+        "en": "Luoyang, imperial capital",
+        "zh": "帝都洛阳"
+      }
+    },
+    "locationPrecision": "representative",
+    "region": "east-asia",
+    "theme": "states",
+    "importance": 3,
+    "summary": {
+      "en": "Liu Xiu emerged from the coalitions fighting Wang Mang and became the founder of the Eastern Han. Success at Kunyang helped his rise, but a battle did not automatically make him the uncontested heir to Han authority. He built support in the north, accepted the imperial title in 25 and governed from Luoyang while other rulers still held large territories. His annals combine campaigns with amnesties, administrative consolidation and orders addressing the treatment of enslaved people. The defeat of Gongsun Shu's regime at Chengdu in 36 completed a major stage of reunification, accompanied by violence rather than a peaceful handover. Restoration meant constructing new agreements, offices and loyalties while claiming continuity with an older dynasty.",
+      "zh": "刘秀从反抗王莽的联盟中崛起，后来成为东汉的开创者。昆阳胜利帮助他取得地位，但一场战役并未自动使他成为无人争议的汉朝继承者。他在北方建立支持，25年称帝，以洛阳为统治中心，此时其他政权仍控制大片地区。本纪把战争与赦令、行政整合以及有关奴婢待遇的诏令并列记述。36年公孙述政权在成都败亡，完成了重新统一的重要阶段，过程伴随暴力，并非和平交接。“中兴”意味着在宣称继承旧王朝的同时，重新建立协议、官署和忠诚关系。"
+    },
+    "dateNote": {
+      "en": "Focus: Kunyang in 23 CE through the defeat of the Chengdu regime in 36 CE. This is the consolidation period, not Liu Xiu’s complete reign or lifespan.",
+      "zh": "重点为23年昆阳之战至36年成都政权败亡。这是权力整合期，不是刘秀完整的在位期或生平。"
+    },
+    "sources": [
+      {
+        "title": "Fan Ye, Hou Hanshu, chapter 1上",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/後漢書/卷1上",
+        "evidenceNote": "Kunyang, northern coalition-building and the 25 CE accession; supernatural legitimacy claims are treated as court rhetoric.",
+        "evidenceNoteZh": "支持昆阳、北方联盟形成及25年即位；神异受命说作为宫廷修辞处理。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Fan Ye, Hou Hanshu, chapter 1下",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/後漢書/卷1下",
+        "evidenceNote": "Administrative reductions, protections concerning enslaved people and the 36 CE Chengdu campaign, including the violence after victory.",
+        "evidenceNoteZh": "支持省并行政、涉及奴婢的保护规定及36年成都战事，包括战胜后的暴力。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 23,
+        "title": {
+          "en": "Kunyang",
+          "zh": "昆阳之战"
+        },
+        "description": {
+          "en": "Liu Xiu helped break the attacking Xin force, strengthening his position among the rebels.",
+          "zh": "刘秀参与击破来攻的新军，提升了在起兵者中的地位。"
+        },
+        "location": {
+          "lat": 33.62,
+          "lon": 113.35,
+          "label": "Kunyang, modern Ye County region",
+          "labelI18n": {
+            "en": "Kunyang, modern Ye County region",
+            "zh": "昆阳，今叶县一带"
+          }
+        }
+      },
+      {
+        "year": 25,
+        "title": {
+          "en": "Imperial accession",
+          "zh": "称帝"
+        },
+        "description": {
+          "en": "He adopted the imperial title near Hao while rival claimants still competed for power.",
+          "zh": "在其他称帝者仍争夺权力时，他于鄗附近即帝位。"
+        },
+        "location": {
+          "lat": 37.6,
+          "lon": 114.61,
+          "label": "Hao–Gaoyi region, accession setting",
+          "labelI18n": {
+            "en": "Hao–Gaoyi region, accession setting",
+            "zh": "鄗、高邑地区，即位场景"
+          }
+        }
+      },
+      {
+        "year": 35,
+        "title": {
+          "en": "Orders on dependent labor",
+          "zh": "有关奴婢待遇的诏令"
+        },
+        "description": {
+          "en": "Orders denied reduced punishment for killing enslaved people and addressed specific abuses; they did not abolish slavery.",
+          "zh": "诏令规定杀害奴婢不得减罪，并处理特定虐待行为，但未废除奴隶制度。"
+        },
+        "location": {
+          "lat": 34.68,
+          "lon": 112.45,
+          "label": "Luoyang, imperial capital",
+          "labelI18n": {
+            "en": "Luoyang, imperial capital",
+            "zh": "帝都洛阳"
+          }
+        }
+      },
+      {
+        "year": 36,
+        "title": {
+          "en": "Chengdu defeated",
+          "zh": "成都政权败亡"
+        },
+        "description": {
+          "en": "Han armies defeated Gongsun Shu’s regime; the annals also record the subsequent sack and killings.",
+          "zh": "汉军击败公孙述政权，本纪也记载随后屠掠与杀戮。"
+        },
+        "location": {
+          "lat": 30.66,
+          "lon": 104.06,
+          "label": "Chengdu, Gongsun Shu’s capital",
+          "labelI18n": {
+            "en": "Chengdu, Gongsun Shu’s capital",
+            "zh": "公孙述都城成都"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-person-wangmang",
+      "han-dynasty"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual biography from inspected primary texts and specialist interpretation. Inherited directory lifespan and itinerary are not evidence.",
+      "reviewLimit": {
+        "en": "The marker represents an attested setting, not a reconstructed journey. Ancient speeches and anecdotes are treated as transmitted narrative.",
+        "zh": "地图点代表有文献依据的历史场景，不是复原行程。古代言辞与轶事按传世叙事处理。"
+      }
+    }
+  },
+  {
+    "id": "china-person-banchao",
+    "name": {
+      "en": "Ban Chao",
+      "zh": "班超"
+    },
+    "title": {
+      "en": "Ban Chao · Negotiating and coercing the oasis states",
+      "zh": "班超 · 绿洲诸国间的交涉与武力"
+    },
+    "kind": "person",
+    "sourceProfileId": "china-person-banchao",
+    "start": 73,
+    "end": 102,
+    "location": {
+      "lat": 41.72,
+      "lon": 82.96,
+      "label": "Kucha region, Western Regions protectorate setting",
+      "labelI18n": {
+        "en": "Kucha region, Western Regions protectorate setting",
+        "zh": "西域都护驻地所关联的龟兹地区"
+      }
+    },
+    "locationPrecision": "representative",
+    "region": "east-asia",
+    "theme": "exchange",
+    "importance": 3,
+    "summary": {
+      "en": "Ban Chao's career joined writing, diplomacy and force. His biography begins with paid copying in Luoyang before describing campaigns and missions among the oasis states of the Western Regions. Local rulers, rival envoys and regional armies were active participants in these encounters; Han authority depended on shifting alliances as well as threats and violence. Appointment as protector-general formalized a position he had spent years building. The family connection is equally revealing: his sister Ban Zhao petitioned for his return when age and illness made continued service difficult. He reached Luoyang in 102 and died soon afterward. Reading that petition alongside victory reports changes the scale of the story from imperial geography to the cost of prolonged separation.",
+      "zh": "班超的仕途连接了书写、外交与武力。传记从他在洛阳佣书供养家人写起，随后记述在西域绿洲诸国的军事行动和使行。当地君主、竞争使者及区域军队都是积极的参与者；汉朝权威依靠变化中的联盟，也依靠威胁与暴力。任西域都护，使他多年经营的地位获得正式承认。家庭联系同样值得关注：年老患病、难以继续任职时，妹妹班昭上书请求让他归来。102年，他抵达洛阳，不久去世。把这封上书与战功报告并读，视野便从帝国地理转向长期骨肉分离的代价。"
+    },
+    "dateNote": {
+      "en": "Focus: the first Western Regions mission in 73 CE through return and death in 102. The protector-general appointment belongs to 91. The marker represents Kucha, not an exact headquarters footprint or travel route.",
+      "zh": "重点为73年首次西域使行至102年归来及去世；任都护在91年。地图以龟兹为代表，并非精确官署范围或行程。"
+    },
+    "sources": [
+      {
+        "title": "Fan Ye, Hou Hanshu, chapter 47",
+        "publisher": "Transmitted ancient text; Wikisource edition",
+        "url": "https://zh.wikisource.org/wiki/後漢書/卷47",
+        "evidenceNote": "The biography supports copying work, 73 CE missions, coercion and local alliances, the 91 CE appointment, Ban Zhao’s petition, and 102 CE return and death. The source’s ethnic stereotypes are not repeated.",
+        "evidenceNoteZh": "传记支持佣书、73年使行、武力与地方联盟、91年任命、班昭上书及102年归来去世；不重复原文的族群刻板评价。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 73,
+        "title": {
+          "en": "A mission among oasis states",
+          "zh": "出使绿洲诸国"
+        },
+        "description": {
+          "en": "After service under Dou Gu, Ban Chao undertook a mission involving Shanshan and other states.",
+          "zh": "随窦固任职后，班超出使鄯善等国。"
+        },
+        "location": {
+          "lat": 39.03,
+          "lon": 88.16,
+          "label": "Shanshan region, eastern Tarim Basin; approximate",
+          "labelI18n": {
+            "en": "Shanshan region, eastern Tarim Basin; approximate",
+            "zh": "塔里木盆地东部鄯善地区；约指"
+          }
+        },
+        "approximate": true
+      },
+      {
+        "year": 91,
+        "title": {
+          "en": "Protector-general",
+          "zh": "任西域都护"
+        },
+        "description": {
+          "en": "The appointment recognized a Han position maintained through regional negotiation and military pressure.",
+          "zh": "任命确认了通过地方交涉与军事压力维持的汉朝地位。"
+        },
+        "location": {
+          "lat": 41.72,
+          "lon": 82.96,
+          "label": "Kucha region",
+          "labelI18n": {
+            "en": "Kucha region",
+            "zh": "龟兹地区"
+          }
+        }
+      },
+      {
+        "year": 102,
+        "title": {
+          "en": "Return to Luoyang",
+          "zh": "归洛阳"
+        },
+        "description": {
+          "en": "Following appeals including Ban Zhao’s petition, he returned ill and died in the same year.",
+          "zh": "包括班昭上书在内的请求之后，他带病归来，同年去世。"
+        },
+        "location": {
+          "lat": 34.68,
+          "lon": 112.45,
+          "label": "Luoyang, imperial capital",
+          "labelI18n": {
+            "en": "Luoyang, imperial capital",
+            "zh": "帝都洛阳"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-person-ban-zhao",
+      "silk-roads-changan"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual biography from inspected primary texts and specialist interpretation. Inherited directory lifespan and itinerary are not evidence.",
+      "reviewLimit": {
+        "en": "The marker represents an attested setting, not a reconstructed journey. Ancient speeches and anecdotes are treated as transmitted narrative.",
+        "zh": "地图点代表有文献依据的历史场景，不是复原行程。古代言辞与轶事按传世叙事处理。"
+      }
+    }
+  }
+]

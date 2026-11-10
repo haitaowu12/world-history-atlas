@@ -21,3 +21,22 @@ Each record carries the exact URL, inspected claim coverage, bilingual evidence 
 ## Remaining assigned work
 
 Twenty-four additional directory biographies, sixteen Americas–Pacific stories and ten connected readings are in progress. This is a checkpoint, not a completion claim.
+
+## Chinese biographies: primary-text batch
+
+Public-domain primary texts were opened as full chapter transcriptions, with the relevant biography passages and annals inspected. Modern English and Chinese summaries are original. These are retrospective histories, not verbatim speech transcripts. Record sources distinguish base text and commentary where the distinction affects a claim.
+
+| Key | Date/claim anchors | Decision |
+| --- | --- | --- |
+| chensheng | Shiji 48, Second Emperor year1: revolt and kingship at Chen. | Two milestones in209BCE; declared limited-dated-evidence. Remove inherited240BCE birth and207BCE death. No claim that all late Qin conscripts were necessarily executed. |
+| lvbu | Sanguozhi1: Chuping3 coup; volume7: Xingping1 rebellion and Jian’an3 siege. | Focus192–198; no unsupported160 birth or exact execution-day conversion. |
+| yuanshao | Sanguozhi1: Chuping1/2 coalition and Ji province; volume6: Jian’an5/7 defeat and death. | Focus190–202; no inherited154 birth. |
+| zhangfei | Sanguozhi36, including adjacent Huang Zhong passage: Jian’an24 royal promotion, Zhangwu1 office and murder. | Focus219–221; no inherited165 birth. Distinct promotion and death episodes share221. |
+| zhaoyun | Sanguozhi36: Jianxing1 offices,6 Ji Valley,7 death. | Focus223–229; no inherited168 birth. Avoid novel-only exploits. |
+| jiangwei | Sanguozhi44: Jianxing6 transfer, Yanxi19 defeat, Jingyao6 surrender. | Explicitly preserve divergent accounts of his transfer to Shu. |
+| dengai | Sanguozhi28: Zhengshi2 waterways, Ganlu1 Duangu, Jingyuan4 conquest. | Focus241–263; logistics foregrounded, no projected mountain itinerary. |
+| huanwen | Jinshu98 narrative; annals8/9: Yonghe3 conquest, Taihe4 defeat, Xian’an1 deposition, Ningkang1 death. | Distinguish346 campaign departure from347 conquest. |
+| fujian | Jinshu113–114: Shengping1 accession, Taihe5 Yan conquest; annal9 Taiyuan8 battle. | No supernatural causation or implausibly precise army counts. |
+| xiexuan | Jinshu79 transport narrative; annal9 Taiyuan2/8/9 appointments and campaigns. | Collective command at Fei River; logistics and source perspective retained. |
+
+Civil-year conversion uses the edition’s linked era-year annotations and the consistent annal sequence (Chuping1=190, Xingping1=194, Jian’an1=196; Shu Jianxing1=223, Yanxi1=238, Jingyao1=258; Wei Zhengshi1=240, Ganlu1=256, Jingyuan1=260; Jin Yonghe1=345, Taihe1=366, Xian’an1=371, Ningkang1=373, Taiyuan1=376). No exact lunar-to-civil day conversion is claimed.

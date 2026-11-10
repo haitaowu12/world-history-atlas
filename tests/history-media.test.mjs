@@ -8,7 +8,7 @@ import {CONTENT_MANIFEST} from '../dist/content-expansion.mjs';
 const read=file=>JSON.parse(fs.readFileSync(new URL('../dist/data/'+file,import.meta.url),'utf8'));
 const manifest=read(CONTENT_MANIFEST);
 const records=['history.json','people.json','china-depth-v7.json','china-donor-stories.json','civilization-stories.json','world-depth-v7.json','modern-continuity-v7.json',...manifest.files.map(f=>f.file)].flatMap(read);
-const catalog=read('history-media.json');
+const catalog=read(manifest.mediaFile||'history-media.json');
 const ids=records.map(r=>r.id);
 
 test('every published image has a real local asset, linked record, bilingual interpretation and reusable source',()=>{
@@ -28,6 +28,7 @@ test('image admission rejects broken attribution, identities, dimensions and loc
     item=>{item.interpretation.zh='';},
     item=>{item.transformation.en='';},
     item=>{item.representation='unlabeled-reconstruction';},
+    item=>{item.contextSources=[{title:{en:'Archive',zh:'档案'},url:'javascript:alert(1)'}];},
     item=>{item.rightsSourceUrl='';},
     item=>{item.bytes=0;},
     item=>{item.width=0;}
@@ -47,6 +48,7 @@ test('the public image caption retains credit, rights and later-depiction contex
     for(const lang of ['en','zh']){
       const html=mediaFigures([item],lang,escape);
       for(const value of [item.sourceUrl,item.rights.url,item.interpretation[lang],item.caption[lang],item.alt[lang]])assert.ok(html.includes(escape(value)));
+      for(const source of item.contextSources||[])assert.ok(html.includes(escape(source.url))&&html.includes(escape(source.title[lang])));
       assert.match(html,/loading="lazy"/);
     }
   }

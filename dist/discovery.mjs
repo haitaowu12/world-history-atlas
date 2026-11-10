@@ -2,6 +2,7 @@ import {mediaFigures,mediaThumbnail} from './history-media.mjs';
 import {sourceNoteHTML} from './source-notes.mjs?v=1';
 import {REGIONS,activeAt,formatPeriod,formatYear,recordSearchText,relatedRecords,safeSourceURL,validYear} from './core.mjs';
 import {libraryLocation,nearLibraryPlace} from './china-library.mjs?v=1';
+import {normalizeSearch} from './search-text.mjs';
 
 const normalize = value => String(value ?? '').normalize('NFKC').toLocaleLowerCase().trim();
 const strings = value => typeof value === 'string' ? [value] : Array.isArray(value) ? value.flatMap(strings) : value && typeof value === 'object' ? Object.values(value).flatMap(strings) : [];
@@ -27,7 +28,7 @@ function exactPersonLink(profile,peopleById) {
 function mentionMatches(record,names) {
   const text=recordSearchText(record);
   return names.some(name=>{
-    const key=normalize(name);if(key.length<2)return false;
+    const key=normalizeSearch(name);if(key.length<2)return false;
     const at=text.indexOf(key);if(at<0)return false;
     if(/[^\u0000-\u007f]/.test(key))return true;
     // English aliases must match words: "Li" must not match "Delhi".
@@ -101,7 +102,7 @@ export function buildDiscoveryIndex({records=[],people=[],library={},settlements
     row.journeyIds=unique(row.journeyIds);
     row.start=row.intervals.length?Math.min(...row.intervals.map(interval=>interval.start)):null;
     row.end=row.intervals.length?Math.max(...row.intervals.map(interval=>interval.end)):null;
-    row.searchText=normalize(strings([row.name,row.title,row.summary,row.aliases]).join(' '));
+    row.searchText=normalizeSearch(strings([row.name,row.title,row.summary,row.aliases]).join(' '));
   }
 
   const placeRows=[],placeById=new Map(),pointGroups=new Map();
@@ -139,15 +140,15 @@ export function buildDiscoveryIndex({records=[],people=[],library={},settlements
     const translated=row.references.find(reference=>reference.name?.zh);if(translated)row.name={en:localize(row.name,'en'),zh:translated.name.zh};
     row.start=row.intervals.length?Math.min(...row.intervals.map(interval=>interval.start)):null;
     row.end=row.intervals.length?Math.max(...row.intervals.map(interval=>interval.end)):null;
-    row.searchText=normalize(strings([row.name,row.aliases,row.references.map(reference=>[reference.description,reference.summary])]).join(' '));
+    row.searchText=normalizeSearch(strings([row.name,row.aliases,row.references.map(reference=>[reference.description,reference.summary])]).join(' '));
   }
   return {people:personRows,places:placeRows,personById,placeById,recordById,settlements,referencePlaces};
 }
 
 function score(row,query) {
   if(!query)return 0;
-  const primary=strings(row.name).map(normalize);if(primary.includes(query))return 4;
-  const names=[...primary,...row.aliases.map(normalize)];
+  const primary=strings(row.name).map(normalizeSearch);if(primary.includes(query))return 4;
+  const names=[...primary,...row.aliases.map(normalizeSearch)];
   if(names.includes(query))return 3;
   if(names.some(name=>name.startsWith(query)))return 2;
   return 1;
@@ -156,7 +157,7 @@ function score(row,query) {
 /** Undated place references stay discoverable; no occupancy dates are invented. */
 export function searchDiscovery(index,query='',{kind,region='all',year,limit,sort='regions',lang='en'}={}) {
   if(kind&&!['all','person','place'].includes(kind))return [];
-  const q=normalize(query),rows=kind==='person'?index.people:kind==='place'?index.places:[...index.people,...index.places];
+  const q=normalizeSearch(query),rows=kind==='person'?index.people:kind==='place'?index.places:[...index.people,...index.places];
   let matches=rows.filter(row=>(!region||region==='all'||row.region===region) &&
     (!validYear(year)||!row.intervals.length||row.intervals.some(interval=>activeAt(interval,year))) && (!q||row.searchText.includes(q)));
   const alphabetic=(a,b)=>localize(a.name,lang).localeCompare(localize(b.name,lang),lang==='zh'?'zh-CN':'en')||a.id.localeCompare(b.id);

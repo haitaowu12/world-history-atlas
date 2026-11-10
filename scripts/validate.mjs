@@ -207,7 +207,7 @@ for (const review of [...(chinaReviews.eventReviews || []),...(chinaReviews.chro
 const records = [...histories,...people,...linkChinaContext(reviewedChina.events,[...histories,...people])];
 // Credits and safe identities are required even when a browser can draw the image.
 try {
-  const media=JSON.parse(read('dist/data/history-media.json'));
+  const media=JSON.parse(read('dist/data/'+(expansionManifest.mediaFile||'history-media.json')));
   const mediaErrors=auditHistoryMedia(media,records.map(r=>r.id));
   errors.push(...mediaErrors);
   if(!mediaErrors.length)for(const item of media.items){

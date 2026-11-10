@@ -99,3 +99,22 @@ security configuration to replace it.
   supported Sites preview successfully loaded the existing atlas and its
   278-person directory in the shared browser. Expanded-content and responsive
   checks follow once the release inputs are complete.
+
+### Regional research and image checkpoint
+
+- The next saved draft snapshot contains 63 biographies and 205 milestones
+  across the early, medieval and later China shards. All saved main and
+  milestone places have English and Chinese labels. Two pending related-ID
+  corrections were reported to the content author; runtime admission still
+  requires every actual target record.
+- Shared search normalization handles tone marks/diacritics, compatibility
+  width and repeated spaces across map, People, references and readings.
+  Historical identity matching remains strict. The 32 focused search,
+  directory, core and reading tests passed.
+- Eleven reviewed images are saved in a versioned candidate media catalogue,
+  preserving all sixteen V16 item objects. The new catalogue contains 27
+  images and remains inactive until V17. See `HISTORICAL_MEDIA_V17.md` and
+  the image-specific NOTICE for source identity, date, rights and reuse.
+- The image renderer supports lifetime painted/engraved portraits separately
+  from photographs and later depictions, and can show an additional archive
+  link for identification/date evidence. Existing media regression tests pass.

@@ -34,3 +34,25 @@ The Met images are the museum’s provided web-size files. The item pages mark t
 The National Palace Museum images are public 600-pixel presentation details from its object pages. Those pages specify CC0 for lower/presentation images and CC BY 4.0 for higher-resolution downloads. The atlas includes the presentation files, retaining photographic scales and color targets.
 
 Commons images retain the file-specific public-domain basis or license linked above. The atlas has not applied local crops, recoloring, or generative edits.
+
+## V17 additions
+
+Eleven additional images have separately reviewed identities, dates and reuse records. The [V17 media catalogue](../../data/history-media-v17.json) retains the original sixteen entries unchanged.
+
+| File | Creator / collection | Source and rights |
+| --- | --- | --- |
+| `qin-shi-huang.jpg` | Unknown artist · British Library, Or. 11515, f.11v | [Source](https://commons.wikimedia.org/wiki/File:Qin_Shi_Huang.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) |
+| `su-shi.jpg` | Shangguan Zhou · Wanxiaotang huazhuan; Wikimedia Commons | [Source](https://commons.wikimedia.org/wiki/File:Su_Shi.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) |
+| `frederick-douglass.jpg` | George Kendall Warren · US National Archives and Records Administration, 558770 | [Source](https://commons.wikimedia.org/wiki/File:Frederick_Douglass_(circa_1879).jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) |
+| `ida-b-wells.jpg` | Cihak and Zima · University of Chicago Library, Wells Papers, apf1-08637 | [Source](https://commons.wikimedia.org/wiki/File:Ida_B._Wells_circa_1895_by_Cihak_and_Zima.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) |
+| `ada-lovelace.jpg` | Margaret Sarah Carpenter · UK Government Art Collection | [Source](https://commons.wikimedia.org/wiki/File:Ada_Lovelace.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) |
+| `kangxi.jpg` | Unknown Qing court artist · Palace Museum, Beijing | [Source](https://commons.wikimedia.org/wiki/File:Kangxi_Emperor.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) |
+| `qianlong.jpg` | Giuseppe Castiglione (Lang Shining) · Palace Museum, Beijing | [Source](https://commons.wikimedia.org/wiki/File:%E6%B8%85%E9%AB%98%E5%AE%97%E4%B9%BE%E9%9A%86%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) |
+| `rabindranath-tagore.jpg` | Print credited to Generalstabens litografiska anstalt · Les Prix Nobel 1913; Wikimedia Commons | [Source](https://commons.wikimedia.org/wiki/File:Rabindranath_Tagore_in_1909.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) |
+| `jose-rizal.jpg` | Unknown photographer · José Rizal image archive; Wikimedia Commons | [Source](https://commons.wikimedia.org/wiki/File:Jose_Rizal_full.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) |
+| `li-bai.jpg` | Liang Kai · Tokyo National Museum, TA-164 | [Source](https://commons.wikimedia.org/wiki/File:Liang_Kai_-_Li_Bai_In_Stroll.jpg) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) |
+| `olaudah-equiano.png` | Daniel Orme, after W. Denton · Project Gutenberg; Wikimedia Commons | [Source](https://commons.wikimedia.org/wiki/File:Olaudah_Equiano_-_Project_Gutenberg_eText_15399.png) · [Public domain](https://creativecommons.org/publicdomain/mark/1.0/) |
+
+The Rizal file retains the source crop credited to **FMSky**. The Equiano image is the **Project Gutenberg / Wikimedia Commons scan** of the 1789 engraving by **Daniel Orme after W. Denton**; the National Portrait Gallery record is used to corroborate attribution, not as the image supplier. The Wells caption keeps the University of Chicago archive’s 1893/1894 date alongside the Commons estimate of about 1895.
+
+Qin Shi Huang, Su Shi and Li Bai are explicitly presented as later depictions. The paintings of Ada Lovelace, Kangxi and Qianlong and the Equiano engraving are identified as works made during the subjects’ lifetimes, not photographs.

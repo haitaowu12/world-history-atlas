@@ -1,6 +1,7 @@
 import {formatYear, formatPeriod, validYear, safeSourceURL} from './core.mjs';
+import {normalizeSearch} from './search-text.mjs';
 
-const norm = value => String(value ?? '').normalize('NFKC').toLocaleLowerCase();
+const norm = normalizeSearch;
 const words = value => typeof value === 'string' ? value : Array.isArray(value) ? value.map(words).join(' ') : value && typeof value === 'object' ? Object.values(value).map(words).join(' ') : '';
 export function searchLibrary(rows, query) {
   const q = norm(query).trim();
