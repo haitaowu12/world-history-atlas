@@ -16,7 +16,7 @@
 
 受到它的启发，在 OpenAI Codex 的帮助下，我做出了普天之下。很高兴能把它分享给其他家长、学习者，以及喜欢把历史放回更大背景中理解的人。
 
-— [Tony Wu](https://haitaowu12.github.io/tony-wu-home/)
+— [Tony Wu](https://tony-wu-home.web.app/)
 
 ## 可以怎样探索
 
