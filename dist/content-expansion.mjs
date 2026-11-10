@@ -6,6 +6,18 @@ export function partitionExpansion(records) {
   return {histories:records.filter(r=>r.kind!=='person'),people:records.filter(r=>r.kind==='person')};
 }
 
+// Sparse ancient chronologies must disclose their evidence gap instead of
+// acquiring an invented date merely to meet a numerical milestone target.
+export function hasReviewedLimitedChronology(record) {
+  const review=record.chronologyReview, count=record.milestones?.length||0;
+  return record.kind==='person' && record.expansion?.release>=11 && count>=1 && count<3 &&
+    review?.status==='limited-dated-evidence' &&
+    ['en','zh'].every(lang=>typeof review.note?.[lang]==='string'&&review.note[lang].trim()) &&
+    /^\d{4}-\d{2}-\d{2}$/.test(review.checkedAt||'') &&
+    Array.isArray(review.sourceURLs) && review.sourceURLs.length>0 &&
+    review.sourceURLs.every(url=>record.sources?.some(source=>source.url===url));
+}
+
 // Source-only follow-ups preserve released narrative files and the prior review scope.
 export function applyEvidenceReviews(records,reviews=[]) {
   const byId=new Map(records.map(r=>[r.id,r])),seen=new Set();
@@ -42,20 +54,21 @@ export function auditExpansion(records, manifest, allRecords=records) {
   const streams=new Set((manifest.workstreams||[]).map(s=>s.id));
   for(const r of records) {
     if(!r.expansion?.workstreams?.length||r.expansion.workstreams.some(id=>!streams.has(id)))errors.push(r.id+': unknown or missing content workstream');
-    if(![1,2,3,4,5,6,7,8,9,10].includes(r.expansion?.release))errors.push(r.id+': invalid editorial release');
+    if(![1,2,3,4,5,6,7,8,9,10,11].includes(r.expansion?.release))errors.push(r.id+': invalid editorial release');
     if(typeof r.expansion?.sourceReview!=='string'||!r.expansion.sourceReview.trim())errors.push(r.id+': source-review disclosure missing');
     for(const id of r.relatedIds||[])if(!ids.has(id)||id===r.id)errors.push(r.id+': broken related entry '+id);
     if(r.timeline&&r.kind!=='polity')errors.push(r.id+': only political overviews may enter the political timeline');
-    if(r.kind==='person'&&(!r.name?.en||!r.name?.zh||(r.milestones?.length||0)<2))errors.push(r.id+': incomplete full biography');
+    if(r.kind==='person'&&(!r.name?.en||!r.name?.zh||((r.milestones?.length||0)<2&&!hasReviewedLimitedChronology(r))))errors.push(r.id+': incomplete full biography');
+    if(r.chronologyReview&&!hasReviewedLimitedChronology(r))errors.push(r.id+': invalid chronology exception');
     for(const s of r.sources||[])if(!s.evidenceNote?.trim()||!s.checkedAt)errors.push(r.id+': source evidence/date missing');
     if(r.expansion?.release>=4) {
-      const edition=({4:'v10',5:'v11',6:'v12',7:'v13',8:'v14',9:'v15',10:'v16'})[r.expansion.release];
-      if(r.expansion.edition!==edition)errors.push(r.id+': missing '+edition.toUpperCase()+' edition');
+      const edition=({4:'v10',5:'v11',6:'v12',7:'v13',8:'v14',9:'v15',10:'v16',11:'v17'})[r.expansion.release];
+      if(r.expansion.edition!==edition)errors.push(r.id+': missing '+(edition||'known').toUpperCase()+' edition');
       if((r.relatedIds?.length||0)<2)errors.push(r.id+': current entry needs connected reading');
       if(!r.expansion.reviewLimit?.en||!r.expansion.reviewLimit?.zh)errors.push(r.id+': missing bilingual review scope');
       if((r.sources||[]).some(s=>!s.retrieval))errors.push(r.id+': missing source access disclosure');
       if(r.kind==='person') {
-        if((r.milestones?.length||0)<3)errors.push(r.id+': current biography needs at least three supported milestones');
+        if((r.milestones?.length||0)<3&&!hasReviewedLimitedChronology(r))errors.push(r.id+': current biography needs three supported milestones or a documented chronology exception');
         for(const [i,m] of (r.milestones||[]).entries()) {
           if(m.year<r.start||m.year>r.end||(i>0&&m.year<r.milestones[i-1].year))errors.push(r.id+': biography milestones outside focus or out of order');
           if(!m.location?.label)errors.push(r.id+': milestone place meaning missing');

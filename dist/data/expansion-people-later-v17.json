@@ -1,0 +1,1267 @@
+[
+  {
+    "id": "china-person-zhengchenggong",
+    "sourceProfileId": "china-person-zhengchenggong",
+    "name": {
+      "en": "Zheng Chenggong",
+      "zh": "郑成功"
+    },
+    "title": {
+      "en": "Zheng Chenggong · a Ming loyalist across the strait",
+      "zh": "郑成功 · 跨海的明朝效忠者"
+    },
+    "start": 1650,
+    "end": 1662,
+    "region": "east-asia",
+    "theme": "states",
+    "kind": "person",
+    "importance": 3,
+    "location": {
+      "lat": 24.48,
+      "lon": 118.08,
+      "label": "Xiamen, Zheng maritime base",
+      "labelI18n": {
+        "en": "Xiamen, Zheng maritime base",
+        "zh": "厦门，郑氏海上基地"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Zheng Chenggong built his resistance to Qing rule around coastal strongholds rather than an inland capital. Xiamen and Kinmen became bases in 1650; from this maritime setting he carried the Ming loyalist struggle into Taiwan. His forces landed there in 1661 and challenged the Dutch colonial government. The episode survives in competing memories: a Japanese memorial museum follows his cross-border family history, while the former Dutch governor Frederick Coyett later published a defence of his own conduct. Zheng died in Taiwan in 1662. Reading these accounts together reveals how a military campaign became a story repeatedly retold by communities on different shores.",
+      "zh": "郑成功的抗清事业以沿海据点为依托。1650年，厦门与金门成为他的基地；他随后把效忠明朝的战争带到台湾，军队于1661年登陆，与荷兰殖民当局作战。这段经历留下了不同立场的叙述：日本的纪念馆着重介绍他的跨海家世，荷兰末任台湾长官揆一则在事后出版著作为自身辩护。郑成功于1662年在台湾去世。将这些材料并读，可以看见一场战争如何成为海峡两岸及海外社群不断重述的历史。"
+    },
+    "dateNote": {
+      "en": "1650–1662 is the selected documented period of activity, not a lifespan. Map points represent the named settings.",
+      "zh": "1650—1662年是本条选取的有据活动时段，并非生卒年；地图点代表所注明的历史场景。"
+    },
+    "sources": [
+      {
+        "title": "Who is Zheng Chenggong? — biographical timeline",
+        "publisher": "TEI-SEI-KO Memorial Museum",
+        "url": "https://teiseikokinenkan.com/en/about",
+        "evidenceNote": "Timeline supports the 1650 bases, 1661 Taiwan campaign and 1662 death; narrative identifies Ming loyalty. Old-calendar days and its erroneous 1683 Ming endpoint are not adopted.",
+        "evidenceNoteZh": "年表支持1650年基地、1661年台湾战事及1662年去世；正文说明其效忠明朝。未采用旧历日或该页把明朝终点写成1683年的说法。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "The painting on the title page of Neglected Formosa",
+        "publisher": "National Museum of Taiwan History",
+        "url": "https://the.nmth.gov.tw/nmth/en-US/Special/SpecialItemDetail/0057e407-7c1e-4534-aba9-9cd9b6ac700d?exhibitionId=cab96750-807f-49f3-8a8e-426bc0b59c51",
+        "evidenceNote": "Object description identifies the 1661 landing and Coyett’s 1675 publication as a defence of his conduct.",
+        "evidenceNoteZh": "藏品说明识别1661年登陆场景，并说明揆一1675年出版著作为自身辩护。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 1650,
+        "title": {
+          "en": "Coastal bases",
+          "zh": "沿海基地"
+        },
+        "description": {
+          "en": "Xiamen and Kinmen supported his resistance to the Qing.",
+          "zh": "厦门与金门支持其抗清活动。"
+        },
+        "location": {
+          "lat": 24.48,
+          "lon": 118.08,
+          "label": "Xiamen, Zheng maritime base",
+          "labelI18n": {
+            "en": "Xiamen, Zheng maritime base",
+            "zh": "厦门，郑氏海上基地"
+          }
+        }
+      },
+      {
+        "year": 1661,
+        "title": {
+          "en": "War in Taiwan",
+          "zh": "台湾战事"
+        },
+        "description": {
+          "en": "His army landed in Taiwan and fought the Dutch colonial forces.",
+          "zh": "其军队登陆台湾，与荷兰殖民军作战。"
+        },
+        "location": {
+          "lat": 22.99,
+          "lon": 120.16,
+          "label": "Tainan, site of the Dutch–Zheng conflict",
+          "labelI18n": {
+            "en": "Tainan, site of the Dutch–Zheng conflict",
+            "zh": "台南，荷郑战争发生地"
+          }
+        }
+      },
+      {
+        "year": 1662,
+        "title": {
+          "en": "Death in Taiwan",
+          "zh": "在台湾去世"
+        },
+        "description": {
+          "en": "His death left the continuation of Zheng rule to his successors.",
+          "zh": "他的去世使郑氏政权的延续转由继承者承担。"
+        },
+        "location": {
+          "lat": 22.99,
+          "lon": 120.16,
+          "label": "Tainan, site of the Dutch–Zheng conflict",
+          "labelI18n": {
+            "en": "Tainan, site of the Dutch–Zheng conflict",
+            "zh": "台南，荷郑战争发生地"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-landmark-450",
+      "china-landmark-451",
+      "china-landmark-421"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual biography based on the inspected sources identified below; the directory supplies identity continuity only.",
+      "reviewLimit": {
+        "en": "Selected episodes explain the person’s historical setting; they do not reconstruct a complete itinerary.",
+        "zh": "选取的事迹说明人物的历史处境，不构成完整行程。"
+      }
+    }
+  },
+  {
+    "id": "china-person-kangxi",
+    "sourceProfileId": "china-person-kangxi",
+    "name": {
+      "en": "Kangxi Emperor",
+      "zh": "康熙帝"
+    },
+    "title": {
+      "en": "Kangxi Emperor · ruling through travel and images",
+      "zh": "康熙帝 · 巡行、图像与统治"
+    },
+    "start": 1661,
+    "end": 1689,
+    "region": "east-asia",
+    "theme": "states",
+    "kind": "person",
+    "importance": 3,
+    "location": {
+      "lat": 39.91,
+      "lon": 116.39,
+      "label": "Beijing, imperial and national capital",
+      "labelI18n": {
+        "en": "Beijing, imperial and national capital",
+        "zh": "北京，帝国及现代国家首都"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "The Kangxi emperor inherited the throne as a child in 1661; the reign era bearing his name began the following year. His long reign combined warfare and consolidation with patronage of scholarship and practical interest in governing resources. Southern inspection tours made imperial authority visible beyond Beijing. On the first tour in 1684 and the second in 1689, travel connected the court with prosperous regions whose cooperation mattered to Qing rule. Wang Hui and his workshop turned the second tour into handscrolls. Their ordered landscapes and ceremonial encounters offer evidence of how the court wished its presence to be seen, as well as glimpses of cities and livelihoods.",
+      "zh": "康熙帝于1661年幼年即位，次年才开始使用“康熙”年号。他在位期间通过战争巩固统治，也赞助学术，关注治理所需的资源。南巡使北京以外的居民能够看见皇权的到来。1684年的首次南巡与1689年的第二次南巡，把宫廷同对清朝统治十分重要的江南地区联系起来。王翚及其画家团队将第二次南巡绘成长卷。画中的城市、生产活动和仪式既保存了历史景观，也表现了宫廷希望臣民如何看待皇帝。"
+    },
+    "dateNote": {
+      "en": "1661–1689 is the selected documented period of activity, not a lifespan. Map points represent the named settings.",
+      "zh": "1661—1689年是本条选取的有据活动时段，并非生卒年；地图点代表所注明的历史场景。"
+    },
+    "sources": [
+      {
+        "title": "Kangxi Emperor",
+        "publisher": "The Palace Museum",
+        "url": "https://www.dpm.org.cn/court/lineage/226256.html",
+        "evidenceNote": "Opening biography explicitly dates accession to 1661 and identifies cultural patronage, warfare and resource administration; the page heading gives the 1662 reign-era start.",
+        "evidenceNoteZh": "传记正文明确记载1661年即位，并介绍文化赞助、战争与资源治理；页首1662年是年号起点。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Qing Dynasty Grandeur — handscroll lesson",
+        "publisher": "Columbia University, Asia for Educators",
+        "url": "https://afe.easia.columbia.edu/qing/lp-hand-scroll.html",
+        "evidenceNote": "Background dates the first and second southern tours to 1684 and 1689 and explains Wang Hui’s scroll commission and its political purposes.",
+        "evidenceNoteZh": "背景部分记载1684年与1689年南巡，并解释王翚受命绘画及其政治意涵。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 1661,
+        "title": {
+          "en": "Child emperor",
+          "zh": "幼年即位"
+        },
+        "description": {
+          "en": "Xuanye succeeded the Shunzhi emperor; the Kangxi era began in 1662.",
+          "zh": "玄烨继顺治帝即位，康熙年号始于1662年。"
+        },
+        "location": {
+          "lat": 39.91,
+          "lon": 116.39,
+          "label": "Beijing, imperial and national capital",
+          "labelI18n": {
+            "en": "Beijing, imperial and national capital",
+            "zh": "北京，帝国及现代国家首都"
+          }
+        }
+      },
+      {
+        "year": 1684,
+        "title": {
+          "en": "First southern tour",
+          "zh": "首次南巡"
+        },
+        "description": {
+          "en": "An imperial tour connected the court with southern subjects.",
+          "zh": "皇帝巡行将宫廷与南方臣民联系起来。"
+        },
+        "location": {
+          "lat": 32.06,
+          "lon": 118.79,
+          "label": "Nanjing, representative southern-tour setting",
+          "labelI18n": {
+            "en": "Nanjing, representative southern-tour setting",
+            "zh": "南京，南巡的代表性场景"
+          }
+        }
+      },
+      {
+        "year": 1689,
+        "title": {
+          "en": "A tour becomes a handscroll",
+          "zh": "巡行进入长卷"
+        },
+        "description": {
+          "en": "The second southern tour later became the subject of Wang Hui’s workshop paintings.",
+          "zh": "第二次南巡后来成为王翚团队绘画的题材。"
+        },
+        "location": {
+          "lat": 31.3,
+          "lon": 120.59,
+          "label": "Suzhou, city represented in the southern-tour scrolls",
+          "labelI18n": {
+            "en": "Suzhou, city represented in the southern-tour scrolls",
+            "zh": "苏州，南巡图所绘城市"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-event-qing-004",
+      "china-landmark-422",
+      "china-event-qing-005"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual biography based on the inspected sources identified below; the directory supplies identity continuity only.",
+      "reviewLimit": {
+        "en": "Selected episodes explain the person’s historical setting; they do not reconstruct a complete itinerary.",
+        "zh": "选取的事迹说明人物的历史处境，不构成完整行程。"
+      }
+    }
+  },
+  {
+    "id": "china-person-linzexu",
+    "sourceProfileId": "china-person-linzexu",
+    "name": {
+      "en": "Lin Zexu",
+      "zh": "林则徐"
+    },
+    "title": {
+      "en": "Lin Zexu · administration and the opium crisis",
+      "zh": "林则徐 · 政务与鸦片危机"
+    },
+    "start": 1811,
+    "end": 1839,
+    "region": "east-asia",
+    "theme": "states",
+    "kind": "person",
+    "importance": 3,
+    "location": {
+      "lat": 23.13,
+      "lon": 113.26,
+      "label": "Guangzhou, Pearl River political and trading centre",
+      "labelI18n": {
+        "en": "Guangzhou, Pearl River political and trading centre",
+        "zh": "广州，珠江流域的政治与贸易中心"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Lin Zexu approached the opium trade as an official responsible for public order, revenue and livelihoods. Before the confrontation at Guangzhou, his career included examination success in 1811, provincial administration and river conservancy. Appointed imperial commissioner at the end of 1838, he sought to stop opium consumption and trafficking, using both treatment measures and severe penalties. In 1839 he required foreign merchants to surrender opium and promise to end the trade. The dispute drew together addiction, commercial profit, Chinese jurisdiction and British imperial power. His career therefore opens a wider question than an individual’s courage: how could an administrative campaign govern a trade sustained across imperial borders?",
+      "zh": "林则徐从官员维护秩序、财政与民生的职责出发处理鸦片问题。在广州的冲突之前，他已于1811年考中进士，历任地方官，并参与河工。1838年底受命为钦差大臣后，他试图同时制止吸食与贩运，既提出戒治措施，也施行严厉处罚。1839年，他要求外国商人交出鸦片并承诺停止交易。由此产生的争端把成瘾、商业利益、中国司法权与英国帝国力量交织在一起。他的经历引出一个超越个人勇气的问题：行政禁令如何面对跨越帝国边界的贸易网络？"
+    },
+    "dateNote": {
+      "en": "1811–1839 is the selected documented period of activity, not a lifespan. Map points represent the named settings.",
+      "zh": "1811—1839年是本条选取的有据活动时段，并非生卒年；地图点代表所注明的历史场景。"
+    },
+    "sources": [
+      {
+        "title": "Lin Tsê-hsü",
+        "publisher": "Arthur W. Hummel, ed., Eminent Chinese of the Ch’ing Period (US Government Printing Office), via Wikisource",
+        "url": "https://en.wikisource.org/wiki/Eminent_Chinese_of_the_Ch'ing_Period/Lin_Ts%C3%AA-hs%C3%BC",
+        "evidenceNote": "Biography supports 1811 examination, provincial and river work, 1838 appointment and 1839 confiscation demands; historical romanization is modernized.",
+        "evidenceNoteZh": "传记支持1811年科举、地方及河工经历、1838年任命和1839年缴烟要求；旧式拼写已转换为通行人名。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "The Opium War and Foreign Encroachment",
+        "publisher": "Columbia University, Asia for Educators",
+        "url": "https://afe.easia.columbia.edu/special/china_1750_opium.htm",
+        "evidenceNote": "The teaching account connects the commission, treatment and coercion, foreign merchant pledges and British intervention; its sweeping numerical and causal claims are not reproduced.",
+        "evidenceNoteZh": "教学材料将钦差使命、戒治与强制措施、外商保证书和英国干预联系起来；未采用其中笼统的数字及因果判断。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 1811,
+        "title": {
+          "en": "Entry into the Hanlin Academy",
+          "zh": "进入翰林院"
+        },
+        "description": {
+          "en": "Success in the metropolitan examination opened a scholarly official career.",
+          "zh": "中进士后入翰林院，开启文官生涯。"
+        },
+        "location": {
+          "lat": 39.91,
+          "lon": 116.39,
+          "label": "Beijing, imperial and national capital",
+          "labelI18n": {
+            "en": "Beijing, imperial and national capital",
+            "zh": "北京，帝国及现代国家首都"
+          }
+        }
+      },
+      {
+        "year": 1838,
+        "title": {
+          "en": "Imperial commission",
+          "zh": "受命为钦差"
+        },
+        "description": {
+          "en": "The court appointed him to confront the opium trade at Guangzhou.",
+          "zh": "朝廷派其赴广州处理鸦片贸易。"
+        },
+        "location": {
+          "lat": 39.91,
+          "lon": 116.39,
+          "label": "Beijing, imperial and national capital",
+          "labelI18n": {
+            "en": "Beijing, imperial and national capital",
+            "zh": "北京，帝国及现代国家首都"
+          }
+        }
+      },
+      {
+        "year": 1839,
+        "title": {
+          "en": "Demands at Guangzhou",
+          "zh": "广州的缴烟要求"
+        },
+        "description": {
+          "en": "He required foreign merchants to surrender opium and pledge to stop importing it.",
+          "zh": "他要求外商交出鸦片并承诺停止输入。"
+        },
+        "location": {
+          "lat": 23.13,
+          "lon": 113.26,
+          "label": "Guangzhou, Pearl River political and trading centre",
+          "labelI18n": {
+            "en": "Guangzhou, Pearl River political and trading centre",
+            "zh": "广州，珠江流域的政治与贸易中心"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-event-qing-029",
+      "china-landmark-114",
+      "china-landmark-424"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual biography based on the inspected sources identified below; the directory supplies identity continuity only.",
+      "reviewLimit": {
+        "en": "Selected episodes explain the person’s historical setting; they do not reconstruct a complete itinerary.",
+        "zh": "选取的事迹说明人物的历史处境，不构成完整行程。"
+      }
+    }
+  },
+  {
+    "id": "china-person-zengguofan",
+    "sourceProfileId": "china-person-zengguofan",
+    "name": {
+      "en": "Zeng Guofan",
+      "zh": "曾国藩"
+    },
+    "title": {
+      "en": "Zeng Guofan · an army and a family archive",
+      "zh": "曾国藩 · 军队与家书"
+    },
+    "start": 1838,
+    "end": 1864,
+    "region": "east-asia",
+    "theme": "states",
+    "kind": "person",
+    "importance": 3,
+    "location": {
+      "lat": 28.23,
+      "lon": 112.94,
+      "label": "Changsha, Hunan military organization",
+      "labelI18n": {
+        "en": "Changsha, Hunan military organization",
+        "zh": "长沙，湖南军事组织中心"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Zeng Guofan’s career joined the world of the examination scholar to the emergency politics of civil war. After becoming a jinshi in 1838, he served at court. Returning to Hunan for family mourning, he entered the campaign against the Taiping and organized the Xiang Army in the 1850s. His forces’ capture of Nanjing in 1864 helped end the Taiping state. Alongside this military record, letters to his son preserve another register: study, family duties and advice issued while campaigning. Reading the letters beside the army’s history reveals how elite education and personal networks sustained an official whose authority expanded far beyond ordinary civil administration.",
+      "zh": "曾国藩的生涯把科举士人的生活与内战中的非常政治联系起来。他于1838年中进士，入朝任职；后来回湖南守丧，转而投入对太平军的作战，并在1850年代组织湘军。其部队于1864年攻下南京，促成太平天国政权的覆亡。军事记录之外，他给儿子的信呈现了另一种声音：读书、家族责任，以及军务之中持续写下的教诲。将家书与战争史并读，可以理解士人教育和私人关系如何支撑一位权力超出常规文官职掌的官员。"
+    },
+    "dateNote": {
+      "en": "1838–1864 is the selected documented period of activity, not a lifespan. Map points represent the named settings.",
+      "zh": "1838—1864年是本条选取的有据活动时段，并非生卒年；地图点代表所注明的历史场景。"
+    },
+    "sources": [
+      {
+        "title": "Zeng Guofan (1811–1872)",
+        "publisher": "Berkshire Publishing, Encyclopedia of China",
+        "url": "https://www.berkshirepublishing.com/ecph-china/2018/01/16/zeng-guofan-1811-1872/",
+        "evidenceNote": "Chronology supports 1838 jinshi, 1853 militia organization and 1864 Nanjing capture.",
+        "evidenceNoteZh": "年表支持1838年进士、1853年组织团练及1864年攻下南京。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Zeng Guofan: letters to his son",
+        "publisher": "Patricia Buckley Ebrey, Chinese Autobiographical Writing, University of Washington",
+        "url": "https://uw.manifoldapp.org/read/chinese-autobiographical-writing/section/754de7d9-ff00-40e3-a494-7ab6d1748252",
+        "evidenceNote": "Editorial introduction identifies family mourning, militia recruitment, examination career and letters on his son’s education. No translated letter is copied.",
+        "evidenceNoteZh": "编者导言介绍守丧、募兵、科举经历及对子弟教育的家书；未复制现代译文。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 1838,
+        "title": {
+          "en": "Scholar at court",
+          "zh": "科举入仕"
+        },
+        "description": {
+          "en": "The jinshi degree led to service in the Hanlin Academy.",
+          "zh": "中进士后进入翰林院任职。"
+        },
+        "location": {
+          "lat": 39.91,
+          "lon": 116.39,
+          "label": "Beijing, imperial and national capital",
+          "labelI18n": {
+            "en": "Beijing, imperial and national capital",
+            "zh": "北京，帝国及现代国家首都"
+          }
+        }
+      },
+      {
+        "year": 1853,
+        "title": {
+          "en": "Organizing Hunan militia",
+          "zh": "组织湖南团练"
+        },
+        "description": {
+          "en": "His wartime authority grew through the organization of regional forces.",
+          "zh": "其战时权力随地方武装的组织而扩大。"
+        },
+        "location": {
+          "lat": 28.23,
+          "lon": 112.94,
+          "label": "Changsha, Hunan mobilization centre",
+          "labelI18n": {
+            "en": "Changsha, Hunan mobilization centre",
+            "zh": "长沙，湖南动员中心"
+          }
+        }
+      },
+      {
+        "year": 1864,
+        "title": {
+          "en": "Nanjing captured",
+          "zh": "南京陷落"
+        },
+        "description": {
+          "en": "The Xiang Army captured the Taiping capital.",
+          "zh": "湘军攻下太平天国都城。"
+        },
+        "location": {
+          "lat": 32.06,
+          "lon": 118.79,
+          "label": "Nanjing, political and military centre",
+          "labelI18n": {
+            "en": "Nanjing, political and military centre",
+            "zh": "南京，政治与军事中心"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-landmark-426",
+      "china-landmark-427",
+      "china-landmark-054"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual biography based on the inspected sources identified below; the directory supplies identity continuity only.",
+      "reviewLimit": {
+        "en": "Selected episodes explain the person’s historical setting; they do not reconstruct a complete itinerary.",
+        "zh": "选取的事迹说明人物的历史处境，不构成完整行程。"
+      }
+    }
+  },
+  {
+    "id": "china-person-zuozongtang",
+    "sourceProfileId": "china-person-zuozongtang",
+    "name": {
+      "en": "Zuo Zongtang",
+      "zh": "左宗棠"
+    },
+    "title": {
+      "en": "Zuo Zongtang · regional armies and imperial priorities",
+      "zh": "左宗棠 · 地方军队与帝国防务"
+    },
+    "start": 1860,
+    "end": 1885,
+    "region": "east-asia",
+    "theme": "states",
+    "kind": "person",
+    "importance": 3,
+    "location": {
+      "lat": 36.06,
+      "lon": 103.83,
+      "label": "Lanzhou, representative northwestern administrative centre",
+      "labelI18n": {
+        "en": "Lanzhou, representative northwestern administrative centre",
+        "zh": "兰州，西北行政的代表性中心"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Zuo Zongtang rose through warfare rather than success at the highest civil examination. In 1860 he recruited forces against the Taiping, then held senior offices in Zhejiang and Fujian. His assignment to Shaanxi and Gansu in 1866 shifted his career toward the northwest, where campaigns against Muslim rebels and rival powers expanded Qing control. The struggle involved decisions about imperial resources as well as battlefield command: Zuo argued for western campaigns while Li Hongzhang emphasized coastal defence. Later service took him back toward Fujian, where he died in 1885. His career links provincial military organization to competing visions of what the Qing state should defend and finance.",
+      "zh": "左宗棠并未通过最高一级科举考试，而是借战事进入权力中心。1860年，他招募部队对抗太平军，随后出任浙江、福建的重要官职。1866年调任陕甘总督，使其事业转向西北；此后的镇压与征战扩大了清朝在该地区的控制。这些战争不仅涉及指挥，也涉及财政取舍：他主张为西部军事行动筹款，李鸿章则强调海防。晚年左宗棠再次赴福建任事，并于1885年在那里去世。他的经历将地方军队的成长同清廷究竟应保卫何处、投入何种资源的争论联系起来。"
+    },
+    "dateNote": {
+      "en": "1860–1885 is the selected documented period of activity, not a lifespan. Map points represent the named settings.",
+      "zh": "1860—1885年是本条选取的有据活动时段，并非生卒年；地图点代表所注明的历史场景。"
+    },
+    "sources": [
+      {
+        "title": "Zuo Zongtang — full article",
+        "publisher": "Gregory C. Ference, EBSCO Research Starters / Salem Press",
+        "url": "https://www.ebsco.com/research-starters/history/zuo-zongtang",
+        "evidenceNote": "Full article supports recruitment in 1860, the 1866 appointment, northwestern campaigns, funding dispute and death at Fuzhou in 1885; erroneous overview wording about late-1880s service is excluded.",
+        "evidenceNoteZh": "完整正文支持1860年募兵、1866年任命、西北战事、筹饷争议及1885年卒于福州；排除摘要所称“1880年代末”任职的错误。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Zuo Zongtang",
+        "publisher": "People’s Government of Hunan Province",
+        "url": "https://www.enghunan.gov.cn/hneng/AboutHunan/HistoryCulture/Celebrities/ArmyGovernment/201806/t20180619_5035358.html",
+        "evidenceNote": "Early-life section identifies Xiangyin origin and unsuccessful pursuit of the highest examination before his military career.",
+        "evidenceNoteZh": "早年部分说明湘阴籍贯及军旅生涯前未能通过最高级考试的经历。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 1860,
+        "title": {
+          "en": "Recruiting a force",
+          "zh": "募兵参战"
+        },
+        "description": {
+          "en": "He raised volunteers for fighting in Jiangxi and Anhui.",
+          "zh": "他招募志愿部队，赴江西、安徽作战。"
+        },
+        "location": {
+          "lat": 28.23,
+          "lon": 112.94,
+          "label": "Hunan, representative recruiting region",
+          "labelI18n": {
+            "en": "Hunan, representative recruiting region",
+            "zh": "湖南，代表性募兵地区"
+          }
+        }
+      },
+      {
+        "year": 1866,
+        "title": {
+          "en": "A northwestern appointment",
+          "zh": "调任西北"
+        },
+        "description": {
+          "en": "Appointment as Shaanxi–Gansu governor-general redirected his work.",
+          "zh": "陕甘总督的任命使其工作重心转向西北。"
+        },
+        "location": {
+          "lat": 36.06,
+          "lon": 103.83,
+          "label": "Lanzhou, representative Shaanxi–Gansu setting",
+          "labelI18n": {
+            "en": "Lanzhou, representative Shaanxi–Gansu setting",
+            "zh": "兰州，陕甘总督辖区的代表地点"
+          }
+        }
+      },
+      {
+        "year": 1885,
+        "title": {
+          "en": "Death at Fuzhou",
+          "zh": "卒于福州"
+        },
+        "description": {
+          "en": "His final service was in Fujian.",
+          "zh": "其最后阶段任职于福建。"
+        },
+        "location": {
+          "lat": 26.08,
+          "lon": 119.3,
+          "label": "Fuzhou, last posting and place of death",
+          "labelI18n": {
+            "en": "Fuzhou, last posting and place of death",
+            "zh": "福州，最后任职及去世地点"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-landmark-507",
+      "china-landmark-509",
+      "china-landmark-428"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual biography based on the inspected sources identified below; the directory supplies identity continuity only.",
+      "reviewLimit": {
+        "en": "Selected episodes explain the person’s historical setting; they do not reconstruct a complete itinerary.",
+        "zh": "选取的事迹说明人物的历史处境，不构成完整行程。"
+      }
+    }
+  },
+  {
+    "id": "china-person-sunzhongshan",
+    "sourceProfileId": "china-person-sunzhongshan",
+    "name": {
+      "en": "Sun Yat-sen",
+      "zh": "孙中山"
+    },
+    "title": {
+      "en": "Sun Yat-sen · revolution through overseas networks",
+      "zh": "孙中山 · 海外网络中的革命"
+    },
+    "start": 1894,
+    "end": 1924,
+    "region": "east-asia",
+    "theme": "states",
+    "kind": "person",
+    "importance": 3,
+    "location": {
+      "lat": 23.13,
+      "lon": 113.26,
+      "label": "Guangzhou, Pearl River political and trading centre",
+      "labelI18n": {
+        "en": "Guangzhou, Pearl River political and trading centre",
+        "zh": "广州，珠江流域的政治与贸易中心"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Sun Yat-sen’s revolution depended on people and money moving between places. The Revive China Society, founded in Honolulu in 1894, and the Revolutionary Alliance formed in Tokyo in 1905 connected overseas supporters, students and activists. Publications, donations and bonds helped sustain a campaign repeatedly interrupted by failed uprisings. Sun became provisional president at Nanjing in January 1912 and soon relinquished the office during negotiations with Yuan Shikai. The republic remained contested. In Guangzhou, Sun continued trying to build a political and military base; the Whampoa Military Academy opened in 1924 with Soviet and Chinese Communist assistance. His career makes overseas organizing central to the history of the Chinese republic.",
+      "zh": "孙中山的革命依靠人员和资金在不同地点之间流动。1894年成立于檀香山的兴中会，以及1905年在东京成立的同盟会，把海外支持者、学生和活动家联系起来。报刊、捐款与债券支撑了屡遭起义失败打击的事业。1912年1月，孙中山在南京就任临时大总统，不久在与袁世凯的协商中交出职位。共和国的制度与权力仍受到争夺。此后，他在广州继续建立政治和军事基础，1924年黄埔军校在苏联及中国共产党协助下开办。他的经历说明，海外组织活动是中国共和历史的重要组成部分。"
+    },
+    "dateNote": {
+      "en": "1894–1924 is the selected documented period of activity, not a lifespan. Map points represent the named settings.",
+      "zh": "1894—1924年是本条选取的有据活动时段，并非生卒年；地图点代表所注明的历史场景。"
+    },
+    "sources": [
+      {
+        "title": "Revolution Once More: museum exhibition introduction",
+        "publisher": "Hong Kong Leisure and Cultural Services Department and Guangzhou Museum",
+        "url": "https://www.info.gov.hk/gia/general/201009/16/P201009160150_print.htm",
+        "evidenceNote": "Exhibition history supports Honolulu 1894, Tokyo 1905, overseas fundraising, Nanjing presidency in 1912 and the 1924 Whampoa academy. Dates are retained at year level.",
+        "evidenceNoteZh": "展览介绍支持1894年檀香山、1905年东京、海外筹资、1912年南京就职及1924年黄埔军校；日期仅采用年份。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 1894,
+        "title": {
+          "en": "A society in Honolulu",
+          "zh": "檀香山结社"
+        },
+        "description": {
+          "en": "The Revive China Society created an overseas organizing base.",
+          "zh": "兴中会建立了海外组织基础。"
+        },
+        "location": {
+          "lat": 21.31,
+          "lon": -157.86,
+          "label": "Honolulu, founding setting of the Revive China Society",
+          "labelI18n": {
+            "en": "Honolulu, founding setting of the Revive China Society",
+            "zh": "檀香山，兴中会成立地"
+          }
+        }
+      },
+      {
+        "year": 1905,
+        "title": {
+          "en": "Alliance in Tokyo",
+          "zh": "东京同盟"
+        },
+        "description": {
+          "en": "Revolutionary groups joined in the Tongmenghui.",
+          "zh": "革命团体联合组成同盟会。"
+        },
+        "location": {
+          "lat": 35.68,
+          "lon": 139.76,
+          "label": "Tokyo, Tongmenghui organizing centre",
+          "labelI18n": {
+            "en": "Tokyo, Tongmenghui organizing centre",
+            "zh": "东京，同盟会组织中心"
+          }
+        }
+      },
+      {
+        "year": 1912,
+        "title": {
+          "en": "Provisional presidency",
+          "zh": "临时总统"
+        },
+        "description": {
+          "en": "Sun assumed the presidency in Nanjing, then relinquished it that year.",
+          "zh": "孙中山在南京就任，并于当年卸任。"
+        },
+        "location": {
+          "lat": 32.06,
+          "lon": 118.79,
+          "label": "Nanjing, political and military centre",
+          "labelI18n": {
+            "en": "Nanjing, political and military centre",
+            "zh": "南京，政治与军事中心"
+          }
+        }
+      },
+      {
+        "year": 1924,
+        "title": {
+          "en": "Whampoa opens",
+          "zh": "黄埔开学"
+        },
+        "description": {
+          "en": "The academy joined political organization to officer training.",
+          "zh": "军校把政治组织与军官训练联系起来。"
+        },
+        "location": {
+          "lat": 23.09,
+          "lon": 113.42,
+          "label": "Changzhou Island, Whampoa Military Academy",
+          "labelI18n": {
+            "en": "Changzhou Island, Whampoa Military Academy",
+            "zh": "长洲岛，黄埔军校"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "china-landmark-430",
+      "china-event-roc-001",
+      "china-landmark-055"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual biography based on the inspected sources identified below; the directory supplies identity continuity only.",
+      "reviewLimit": {
+        "en": "Selected episodes explain the person’s historical setting; they do not reconstruct a complete itinerary.",
+        "zh": "选取的事迹说明人物的历史处境，不构成完整行程。"
+      }
+    }
+  },
+  {
+    "id": "china-person-jiangjieshi",
+    "sourceProfileId": "china-person-jiangjieshi",
+    "name": {
+      "en": "Chiang Kai-shek",
+      "zh": "蒋介石"
+    },
+    "title": {
+      "en": "Chiang Kai-shek · military power and authoritarian rule",
+      "zh": "蒋介石 · 军事权力与威权统治"
+    },
+    "start": 1924,
+    "end": 1975,
+    "region": "east-asia",
+    "theme": "states",
+    "kind": "person",
+    "importance": 3,
+    "location": {
+      "lat": 25.04,
+      "lon": 121.51,
+      "label": "Taipei, presidential government after 1949",
+      "labelI18n": {
+        "en": "Taipei, presidential government after 1949",
+        "zh": "台北，1949年后的总统政府所在地"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Chiang Kai-shek’s power grew from the military institutions of the Nationalist revolution. Commandant of Whampoa in 1924, he led the Northern Expedition from 1926 and later headed the Nationalist government. War against Japan and the renewed civil war reshaped his rule. After military defeat and the government’s relocation to Taiwan in 1949, he resumed the presidency in Taipei in 1950. Official chronologies emphasize state building; Taiwan’s National Human Rights Museum documents the coercive machinery behind authoritarian rule, including military trials of civilians and Chiang’s intervention in sentences. Holding these records together connects the commander’s political survival with the experiences of people persecuted under his government.",
+      "zh": "蒋介石的权力从国民革命的军事制度中成长。1924年出任黄埔军校校长后，他于1926年领导北伐，后来主持国民政府。对日战争与再次爆发的国共内战改变了他的统治。1949年军事失败、政府迁台后，他于1950年在台北恢复总统职务。官方年表强调国家建设，台湾国家人权博物馆则记录威权统治的强制机制，包括以军事审判处理平民，以及蒋介石亲自干预刑期。将这些材料并读，可以把军事领导人的政治延续与其政府之下遭受迫害者的经历联系起来。"
+    },
+    "dateNote": {
+      "en": "1924–1975 is the selected documented period of activity, not a lifespan. Map points represent the named settings.",
+      "zh": "1924—1975年是本条选取的有据活动时段，并非生卒年；地图点代表所注明的历史场景。"
+    },
+    "sources": [
+      {
+        "title": "Chiang Kai-shek: presidents since 1947",
+        "publisher": "Office of the President, Republic of China (Taiwan)",
+        "url": "https://english.president.gov.tw/Page/83",
+        "evidenceNote": "Official chronology supplies the 1924 academy appointment, 1926 expedition, 1949 relocation, 1950 presidency and 1975 death; its partisan explanations are not adopted.",
+        "evidenceNoteZh": "官方年表提供1924年军校任命、1926年北伐、1949年迁台、1950年复职与1975年去世；未采用其党派性解释。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "White Terror cases",
+        "publisher": "Su Jui-chiang, National Human Rights Museum",
+        "url": "https://memory.nhrm.gov.tw/NormalNode/Detail/83?MenuNode=14",
+        "evidenceNote": "Explains persecution beyond Communist membership, military trials of civilians and Chiang’s direct alteration of sentences.",
+        "evidenceNoteZh": "说明受迫害者不限于共产党员、平民遭军事审判，以及蒋介石直接更改刑期。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 1924,
+        "title": {
+          "en": "Whampoa command",
+          "zh": "执掌黄埔"
+        },
+        "description": {
+          "en": "He became commandant of the military academy.",
+          "zh": "他出任黄埔军校校长。"
+        },
+        "location": {
+          "lat": 23.09,
+          "lon": 113.42,
+          "label": "Whampoa Military Academy, Guangzhou",
+          "labelI18n": {
+            "en": "Whampoa Military Academy, Guangzhou",
+            "zh": "广州黄埔军校"
+          }
+        }
+      },
+      {
+        "year": 1926,
+        "title": {
+          "en": "Northern Expedition",
+          "zh": "北伐开始"
+        },
+        "description": {
+          "en": "He led the National Revolutionary Army’s northern campaign.",
+          "zh": "他领导国民革命军北伐。"
+        },
+        "location": {
+          "lat": 23.13,
+          "lon": 113.26,
+          "label": "Guangzhou, Pearl River political and trading centre",
+          "labelI18n": {
+            "en": "Guangzhou, Pearl River political and trading centre",
+            "zh": "广州，珠江流域的政治与贸易中心"
+          }
+        }
+      },
+      {
+        "year": 1950,
+        "title": {
+          "en": "Presidency in Taipei",
+          "zh": "在台北复职"
+        },
+        "description": {
+          "en": "He resumed the presidency after the government relocated to Taiwan.",
+          "zh": "政府迁台后，他恢复总统职务。"
+        },
+        "location": {
+          "lat": 25.04,
+          "lon": 121.51,
+          "label": "Taipei, presidential office",
+          "labelI18n": {
+            "en": "Taipei, presidential office",
+            "zh": "台北，总统府"
+          }
+        }
+      },
+      {
+        "year": 1975,
+        "title": {
+          "en": "Death",
+          "zh": "去世"
+        },
+        "description": {
+          "en": "His death ended his personal presidency.",
+          "zh": "他的去世结束了个人总统任期。"
+        },
+        "location": {
+          "lat": 25.04,
+          "lon": 121.51,
+          "label": "Taipei",
+          "labelI18n": {
+            "en": "Taipei",
+            "zh": "台北"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "xinhai-revolution",
+      "china-event-roc-016",
+      "prc-political-period"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual biography based on the inspected sources identified below; the directory supplies identity continuity only.",
+      "reviewLimit": {
+        "en": "Selected episodes explain the person’s historical setting; they do not reconstruct a complete itinerary.",
+        "zh": "选取的事迹说明人物的历史处境，不构成完整行程。"
+      }
+    }
+  },
+  {
+    "id": "china-person-maozedong",
+    "sourceProfileId": "china-person-maozedong",
+    "name": {
+      "en": "Mao Zedong",
+      "zh": "毛泽东"
+    },
+    "title": {
+      "en": "Mao Zedong · revolution, state and mass campaigns",
+      "zh": "毛泽东 · 革命、国家与群众运动"
+    },
+    "start": 1943,
+    "end": 1976,
+    "region": "east-asia",
+    "theme": "states",
+    "kind": "person",
+    "importance": 3,
+    "location": {
+      "lat": 39.91,
+      "lon": 116.39,
+      "label": "Beijing, imperial and national capital",
+      "labelI18n": {
+        "en": "Beijing, imperial and national capital",
+        "zh": "北京，帝国及现代国家首都"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Mao Zedong moved from revolutionary organizer and guerrilla commander to Communist Party chairman in 1943. After the establishment of the People’s Republic in 1949, he and his colleagues transformed landholding, industry and everyday political life. These changes expanded state power while campaigns imposed severe human costs. The Great Leap Forward brought catastrophic suffering; conflict within the leadership then fed into the Cultural Revolution, launched in 1966. Mao encouraged mass mobilization and a personal cult that helped turn political disagreements into persecution. His death in 1976 closed this phase of personal rule. Understanding his career requires examining both revolutionary institution building and the people harmed by the state’s campaigns.",
+      "zh": "毛泽东从革命组织者和游击战争指挥者逐步成为中共领导人，1943年出任中央政治局主席。1949年中华人民共和国成立后，他与同僚推动土地制度、工业和日常政治生活的改造。这些变化扩大了国家权力，政治运动也造成沉重的人道代价。大跃进带来灾难性苦难，领导层的冲突随后卷入1966年发动的文化大革命。毛泽东鼓励群众动员，个人崇拜又使政治分歧转化为迫害。1976年他的去世结束了这一阶段的个人统治。理解他的生涯，需要同时考察革命建制与国家运动中受害者的经历。"
+    },
+    "dateNote": {
+      "en": "1943–1976 is the selected documented period of activity, not a lifespan. Map points represent the named settings.",
+      "zh": "1943—1976年是本条选取的有据活动时段，并非生卒年；地图点代表所注明的历史场景。"
+    },
+    "sources": [
+      {
+        "title": "Mao Zedong: public introduction",
+        "publisher": "Delia Davin and Tim Wright, Oxford Bibliographies in Chinese Studies",
+        "url": "https://academic.oup.com/reference/62338/reference-article-abstract/571461696",
+        "evidenceNote": "Accessible introduction supports 1943 party chairmanship, 1949 state formation, transformations and suffering, personal cult, and death in 1976. Subscription bibliography not inspected.",
+        "evidenceNoteZh": "公开导言支持1943年党内主席职务、1949年建国、社会改造与苦难、个人崇拜及1976年去世；未查阅订阅区书目。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page-accessible-introduction"
+      },
+      {
+        "title": "Introduction to the Cultural Revolution",
+        "publisher": "Stefanie Lamb, Stanford University SPICE",
+        "url": "https://spice.fsi.stanford.edu/docs/introduction_to_the_cultural_revolution",
+        "evidenceNote": "Supports the 1966–1976 Cultural Revolution, leadership conflict, mobilization and Great Leap catastrophe. No disputed numerical death estimate is adopted.",
+        "evidenceNoteZh": "支持1966—1976年文革、领导层冲突、群众动员和大跃进灾难；未采用具体死亡估计。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 1943,
+        "title": {
+          "en": "Party chairmanship",
+          "zh": "党内主席职务"
+        },
+        "description": {
+          "en": "His gradual rise culminated in chairmanship of the party leadership.",
+          "zh": "其逐步上升的党内地位达到中央主席层级。"
+        },
+        "location": {
+          "lat": 36.6,
+          "lon": 109.49,
+          "label": "Yan’an, wartime Communist leadership centre",
+          "labelI18n": {
+            "en": "Yan’an, wartime Communist leadership centre",
+            "zh": "延安，战时中共领导中心"
+          }
+        }
+      },
+      {
+        "year": 1949,
+        "title": {
+          "en": "People’s Republic established",
+          "zh": "中华人民共和国成立"
+        },
+        "description": {
+          "en": "A revolutionary leadership became a national government.",
+          "zh": "革命领导层转为全国政府。"
+        },
+        "location": {
+          "lat": 39.91,
+          "lon": 116.39,
+          "label": "Beijing, imperial and national capital",
+          "labelI18n": {
+            "en": "Beijing, imperial and national capital",
+            "zh": "北京，帝国及现代国家首都"
+          }
+        }
+      },
+      {
+        "year": 1966,
+        "title": {
+          "en": "Cultural Revolution begins",
+          "zh": "文化大革命开始"
+        },
+        "description": {
+          "en": "A struggle over political authority expanded into mass upheaval.",
+          "zh": "政治权力的斗争扩大为群众性动乱。"
+        },
+        "location": {
+          "lat": 39.91,
+          "lon": 116.39,
+          "label": "Beijing, imperial and national capital",
+          "labelI18n": {
+            "en": "Beijing, imperial and national capital",
+            "zh": "北京，帝国及现代国家首都"
+          }
+        }
+      },
+      {
+        "year": 1976,
+        "title": {
+          "en": "Death",
+          "zh": "去世"
+        },
+        "description": {
+          "en": "His death ended nearly three decades of personal leadership over the new state.",
+          "zh": "他的去世结束了其对新国家近三十年的个人领导。"
+        },
+        "location": {
+          "lat": 39.91,
+          "lon": 116.39,
+          "label": "Beijing, imperial and national capital",
+          "labelI18n": {
+            "en": "Beijing, imperial and national capital",
+            "zh": "北京，帝国及现代国家首都"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "prc-political-period",
+      "china-event-prc-001",
+      "china-person-dengxiaoping"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual biography based on the inspected sources identified below; the directory supplies identity continuity only.",
+      "reviewLimit": {
+        "en": "Selected episodes explain the person’s historical setting; they do not reconstruct a complete itinerary.",
+        "zh": "选取的事迹说明人物的历史处境，不构成完整行程。"
+      }
+    }
+  },
+  {
+    "id": "china-person-dengxiaoping",
+    "sourceProfileId": "china-person-dengxiaoping",
+    "name": {
+      "en": "Deng Xiaoping",
+      "zh": "邓小平"
+    },
+    "title": {
+      "en": "Deng Xiaoping · market reform and political limits",
+      "zh": "邓小平 · 市场改革与政治边界"
+    },
+    "start": 1956,
+    "end": 1989,
+    "region": "east-asia",
+    "theme": "states",
+    "kind": "person",
+    "importance": 3,
+    "location": {
+      "lat": 39.91,
+      "lon": 116.39,
+      "label": "Beijing, imperial and national capital",
+      "labelI18n": {
+        "en": "Beijing, imperial and national capital",
+        "zh": "北京，帝国及现代国家首都"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Deng Xiaoping’s post-Mao authority rested on decades inside the Communist Party, including service as general secretary from 1956. Purged during the Cultural Revolution and restored to senior office, he emerged as China’s effective leader by the end of 1978. Economic reform widened the role of markets and incentives and changed daily livelihoods. Political power, however, remained under party control. Deng opposed liberalization that threatened that control and supported the military suppression of the 1989 democracy movement. His career brings two developments into the same frame: changes that increased economic opportunity and a leadership willing to use armed force against political dissent. Neither can be separated from the history of the reform period.",
+      "zh": "邓小平在毛泽东之后取得的权威，建立在数十年的中共资历之上，其中包括1956年起担任中央总书记。文革中被打倒、随后重返高层后，他到1978年底成为实际最高领导人。经济改革扩大了市场与激励的作用，改变了日常生计；政治权力则继续由党掌握。邓小平反对威胁这一控制的政治自由化，并支持1989年以军队镇压民主运动。他的生涯同时呈现两种发展：经济机会的扩大，以及领导层用武力压制政治异议的选择。两者都属于改革时期的历史。"
+    },
+    "dateNote": {
+      "en": "1956–1989 is the selected documented period of activity, not a lifespan. Map points represent the named settings.",
+      "zh": "1956—1989年是本条选取的有据活动时段，并非生卒年；地图点代表所注明的历史场景。"
+    },
+    "sources": [
+      {
+        "title": "Deng Xiaoping: public introduction",
+        "publisher": "Delia Davin and Tim Wright, Oxford Bibliographies in Chinese Studies",
+        "url": "https://academic.oup.com/reference/62338/reference-article-abstract/571461493",
+        "evidenceNote": "Public introduction supports the 1956 office, Cultural Revolution removals, effective leadership in 1978, market reform and 1989 military suppression. Subscription bibliography not inspected.",
+        "evidenceNoteZh": "公开导言支持1956年职务、文革中的罢黜、1978年实际领导地位、市场改革和1989年军事镇压；未查阅订阅区书目。",
+        "checkedAt": "2026-11-09",
+        "retrieval": "opened-page-accessible-introduction"
+      }
+    ],
+    "milestones": [
+      {
+        "year": 1956,
+        "title": {
+          "en": "General secretary",
+          "zh": "中央总书记"
+        },
+        "description": {
+          "en": "The Eighth Party Congress elected him general secretary.",
+          "zh": "中共八大后获选为中央总书记。"
+        },
+        "location": {
+          "lat": 39.91,
+          "lon": 116.39,
+          "label": "Beijing, imperial and national capital",
+          "labelI18n": {
+            "en": "Beijing, imperial and national capital",
+            "zh": "北京，帝国及现代国家首都"
+          }
+        }
+      },
+      {
+        "year": 1978,
+        "title": {
+          "en": "Effective national leadership",
+          "zh": "成为实际最高领导人"
+        },
+        "description": {
+          "en": "By the year’s end his experience and alliances displaced Hua Guofeng’s predominance.",
+          "zh": "年底，其资历与支持网络使其取代华国锋的主导地位。"
+        },
+        "location": {
+          "lat": 39.91,
+          "lon": 116.39,
+          "label": "Beijing, imperial and national capital",
+          "labelI18n": {
+            "en": "Beijing, imperial and national capital",
+            "zh": "北京，帝国及现代国家首都"
+          }
+        }
+      },
+      {
+        "year": 1989,
+        "title": {
+          "en": "Military suppression",
+          "zh": "军事镇压"
+        },
+        "description": {
+          "en": "He backed the use of military force against the democracy movement.",
+          "zh": "他支持以军队镇压民主运动。"
+        },
+        "location": {
+          "lat": 39.91,
+          "lon": 116.39,
+          "label": "Beijing, imperial and national capital",
+          "labelI18n": {
+            "en": "Beijing, imperial and national capital",
+            "zh": "北京，帝国及现代国家首都"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "prc-political-period",
+      "china-person-maozedong"
+    ],
+    "expansion": {
+      "release": 11,
+      "edition": "v17",
+      "workstreams": [
+        "CH1",
+        "CH2"
+      ],
+      "sourceReview": "Original bilingual biography based on the inspected sources identified below; the directory supplies identity continuity only.",
+      "reviewLimit": {
+        "en": "Selected episodes explain the person’s historical setting; they do not reconstruct a complete itinerary.",
+        "zh": "选取的事迹说明人物的历史处境，不构成完整行程。"
+      }
+    }
+  }
+]

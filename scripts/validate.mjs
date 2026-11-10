@@ -3,7 +3,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import crypto from 'node:crypto';
-import {CONTENT_MANIFEST,auditExpansion,partitionExpansion,applyEvidenceReviews} from '../dist/content-expansion.mjs';
+import {CONTENT_MANIFEST,auditExpansion,partitionExpansion,applyEvidenceReviews,hasReviewedLimitedChronology} from '../dist/content-expansion.mjs';
 import { journeys } from '../dist/journeys.mjs';
 import { fileURLToPath } from 'node:url';
 import { REGIONS, validYear, activeAt, safeSourceURL, validateRecords } from '../dist/core.mjs';
@@ -350,7 +350,7 @@ if (land.type !== 'FeatureCollection' || !Array.isArray(land.features) || !land.
 // Validate interactive historical layers without treating structural checks as fact review.
 for (const person of people) {
   if (person.kind !== 'person') fail(person.id + ': biography needs person kind');
-  if (!Array.isArray(person.milestones) || person.milestones.length < 2) fail(person.id + ': insufficient milestones');
+  if (!Array.isArray(person.milestones) || (person.milestones.length < 2 && !hasReviewedLimitedChronology(person))) fail(person.id + ': insufficient milestones');
   for (const m of person.milestones || []) {
     if (!validYear(m.year)) fail(person.id + ': invalid milestone year');
     if (!m.title?.en || !m.title?.zh || !m.description?.en || !m.description?.zh) fail(person.id + ': incomplete bilingual milestone');

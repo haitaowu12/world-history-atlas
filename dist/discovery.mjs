@@ -19,7 +19,8 @@ export const PERSON_PROFILE_LINKS = Object.freeze({
 });
 
 function exactPersonLink(profile,peopleById) {
-  const target=peopleById.get(PERSON_PROFILE_LINKS[profile.id]);
+  const sameId=peopleById.get(profile.id);
+  const target=sameId?.sourceProfileId===profile.id?sameId:peopleById.get(PERSON_PROFILE_LINKS[profile.id]);
   return target && ['en','zh'].every(lang=>normalize(target.name?.[lang])===normalize(profile.name?.[lang])) ? target : null;
 }
 
@@ -106,7 +107,8 @@ export function buildDiscoveryIndex({records=[],people=[],library={},settlements
   const placeRows=[],placeById=new Map(),pointGroups=new Map();
   function addPlace(input,{record=null,reference=null}={}) {
     const location=libraryLocation(input);if(!location)return;
-    const name=reference?(reference.name||reference.title||reference.modern):{en:location.label,zh:location.label};
+    const name=reference?(reference.name||reference.title||reference.modern):{
+      en:location.labelI18n?.en||location.label,zh:location.labelI18n?.zh||location.label};
     const label=normalize(localize(name,'en'));
     // This groups identical representative point/name references only. Nearby
     // settlements, name variants and political succession are never inferred.
@@ -118,7 +120,7 @@ export function buildDiscoveryIndex({records=[],people=[],library={},settlements
       placeRows.push(row);pointGroups.set(key,row);placeById.set(row.id,row);}
     const sourceId=record?.id||reference.id;row.sourceIds.push(sourceId);placeById.set(sourceId,row);
     row.regions=unique([...row.regions,record?.region||referenceRegion(input,records)]);
-    if(record){row.recordIds.push(record.id);row.aliases.push(...strings([record.title,record.name,record.aliases,record.location?.label]));
+    if(record){row.recordIds.push(record.id);row.aliases.push(...strings([record.title,record.name,record.aliases,record.location?.label,record.location?.labelI18n]));
       if(validInterval(record))row.intervals.push({start:record.start,end:record.end,meaning:'entry-focus',sourceId:record.id});}
     if(reference){row.references.push(reference);row.referenceIds.push(reference.id);
       row.aliases.push(...strings([reference.name,reference.title,reference.aliases,reference.modern]));

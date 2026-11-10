@@ -78,3 +78,24 @@ security configuration to replace it.
   person profiles or narrative records in that delta.
 - Content, media, application checks and publication: pending; later entries
   in this record will report observed results separately.
+
+### Biography and navigation checkpoint
+
+- Nine later Chinese biographies (Zheng Chenggong through Deng Xiaoping) are
+  saved as a researched draft shard, with 31 dated milestones and bilingual
+  source notes. The active manifest remains V16 until the full V17 admission
+  checks pass; this checkpoint does not inflate the published entry count.
+- Same-ID profile upgrades now merge through an explicit `sourceProfileId`
+  identity link and preserve the inherited reference interval and aliases.
+  The Places directory respects the record's bilingual location labels.
+- Chronologies with fewer than three supported dates require an explicit,
+  bilingual, dated review linked to actual sources. No zero-point exception
+  is allowed. The V17 generator requires the entire 101/47/30 scope before
+  producing a release manifest.
+- Baseline `npm run check`: 313/313 tests passed. The 16 focused biography,
+  directory and image tests pass after these application changes.
+- Standalone Playwright launch was blocked by the runtime's local-socket
+  restriction; automatic approval review rejected a sandbox escalation. The
+  supported Sites preview successfully loaded the existing atlas and its
+  278-person directory in the shared browser. Expanded-content and responsive
+  checks follow once the release inputs are complete.
