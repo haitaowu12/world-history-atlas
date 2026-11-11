@@ -4,7 +4,7 @@
 
 Reviewed application main `1b9156caf402d039057b9c1310da0e1a86318d89` and the deployed atlas. Applied the current frontend, interaction, visual-explanation and motion guidance from Second Brain integration `c0dea84f1c3dd8135d6f6c50bc894299d09371c5`.
 
-The existing paper/green map identity and content organization remain appropriate. The visual-expansion work already has an active owner on `review/atlas-visual-expansion-20261110` (observed head `b735bf61b129f9effa69925edf0bffc466bd85a3`). The separate map/portrait fix branch `fix/atlas-map-controls-portraits-20261111` was also observed. This change does not replace either branch or claim its work. Integrate this timeline slice alongside those changes after reviewing any shared-file conflicts.
+The combined review branch brings the timeline changes into the visual expansion at `047d395`, including its map-control and portrait fixes.
 
 ## Finding and implementation
 
@@ -21,10 +21,12 @@ Independent source review identified two issues in the initial change: a termina
 ## Verification and release status
 
 - Content/schema validator: passed.
-- Full Node suite: **331 tests passed**.
+- Combined Node suite: **362 tests passed**.
 - Six focused chronology/playback checks cover nonuniform moments, BCE/CE chronology, bilingual terminal guidance, allowed reading paces, actual handler endpoint cleanup and accessible visible time context.
 - JavaScript syntax and diff whitespace checks: passed.
 
-The deployed baseline was inspected. The modified UI could not be rendered because local Chromium could not create its process-singleton socket and the cloud browser could not reach the isolated preview. No desktop/narrow pixel or browser-journey pass is claimed. Before integration, verify timeline wrapping at 390 px, both languages, keyboard/assistive descriptions, pace changes during playback, manual interruption, tab hiding and the final endpoint in a working browser.
+The combined build reconciles the HTML asset references. Playback stops when the tab is hidden.
+
+Chrome rendered the combined Atlas and the Chinese controls at 390 px. The cue showed the 15-year gap from 1200 to 1215, People displayed available images by default, and the desktop timeline accepted a pace change while playing. A manual step stopped playback. At the final year the button returned to Play immediately and Next was disabled. Tab hiding and the operating-system reduced-motion override were not exercised in the browser.
 
 Prepared as a review branch. No merge, deployment, content-image publication or GitHub Actions run is part of this slice. Commits use `[skip ci]` under the existing Actions pause.
