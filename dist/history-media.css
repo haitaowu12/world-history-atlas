@@ -46,3 +46,5 @@
 @media(max-width:900px){.visual-study-grid{grid-template-columns:1fr}.visual-study-images>span{height:180px}}
 
 .entry-more-images{margin:18px 0}.entry-more-images>summary{min-height:44px;align-content:center;cursor:pointer;font-size:.88rem;font-weight:600}.entry-more-images>summary:focus-visible{outline:3px solid #8b3a2b;outline-offset:3px}
+
+.source-scope>summary,.dataset-credits>summary{cursor:pointer;min-height:36px;align-content:center;font-size:.8rem;color:var(--muted)}.source-scope>summary:focus-visible,.dataset-credits>summary:focus-visible{outline:3px solid #8b3a2b;outline-offset:3px}.dataset-credits{margin:14px 0}.source-scope[open]{margin-top:8px}

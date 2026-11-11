@@ -3,14 +3,15 @@
   "reviewedAt": "2026-11-11",
   "baselineManifest": "content-expansion-v17.json",
   "total": 2084,
-  "covered": 104,
-  "assets": 63,
-  "percent": 4.990403071017274,
+  "covered": 109,
+  "assets": 68,
+  "percent": 5.230326295585413,
   "coveredIds": [
     "achaemenid-empire",
     "akan-goldweights-measure-trade",
     "alaska-purchase",
     "american-revolution",
+    "benin-kingdom",
     "camp-saxton-freedom-community",
     "carolingian-dynasty",
     "cherokee-forced-removal",
@@ -59,6 +60,7 @@
     "china-su-shi-cold-food-1082",
     "china-yan-zhenqing-nephew-758",
     "chinese-exclusion-us",
+    "chola-dynasty",
     "dawes-allotment",
     "eastern-roman-empire",
     "egypt-middle-kingdom",
@@ -71,6 +73,7 @@
     "herat-manuscript-workshops",
     "inka-imperial-tunic-story",
     "justinian-law-compilation",
+    "kushan-networks",
     "louisiana-purchase",
     "mamluk-sultanate",
     "mangaaka-carver-ritual-law",
@@ -78,9 +81,11 @@
     "meketre-bakery-brewery-model",
     "merovingian-dynasty",
     "mimbres-painted-pottery",
+    "moche-north-coast",
     "nasrid-granada",
     "navajo-long-walk-return",
     "new-deal-social-state",
+    "olmec-centres",
     "ottonian-dynasty",
     "persepolis",
     "persepolis-ration-records-travel",
@@ -130,7 +135,6 @@
     "hittite-hattusha",
     "lapita-voyaging",
     "yin-xu",
-    "olmec-centres",
     "zhou-dynasty",
     "lapita-teouma-community",
     "neo-assyria",
@@ -151,7 +155,6 @@
     "rome-imperial-city",
     "aksum",
     "hopewell-ceremonial-networks",
-    "kushan-networks",
     "teotihuacan",
     "sasanian-empire",
     "mogao",
@@ -175,7 +178,6 @@
     "angkor",
     "samarra",
     "chaco",
-    "chola-dynasty",
     "quanzhou",
     "venice-maritime",
     "fatimid-caliphate",
@@ -207,7 +209,6 @@
     "ming-dynasty",
     "timurid-dynasty",
     "joseon-kingdom",
-    "benin-kingdom",
     "florence-renaissance",
     "melaka",
     "qhapaq-nan",
@@ -641,7 +642,6 @@
     "chinampa-lake-agriculture",
     "popol-vuh-transmission",
     "chavin-ritual-center",
-    "moche-north-coast",
     "paracas-textile-labor",
     "andean-altitude-agriculture",
     "inka-quipu-recordkeeping",
@@ -2096,11 +2096,11 @@
   ],
   "target": 1042,
   "targetMet": false,
-  "remaining": 938,
+  "remaining": 933,
   "regions": {
     "africa": {
       "total": 136,
-      "covered": 8
+      "covered": 9
     },
     "east-asia": {
       "total": 1215,
@@ -2112,7 +2112,7 @@
     },
     "latin-america": {
       "total": 93,
-      "covered": 3
+      "covered": 5
     },
     "north-america": {
       "total": 123,
@@ -2124,7 +2124,7 @@
     },
     "south-asia": {
       "total": 95,
-      "covered": 2
+      "covered": 4
     },
     "southeast-asia": {
       "total": 100,
@@ -2143,7 +2143,7 @@
     "later-depiction": 11,
     "lifetime-portrait": 4,
     "manuscript-detail": 3,
-    "object-photograph": 17
+    "object-photograph": 22
   },
   "shards": [
     {
@@ -2189,6 +2189,13 @@
       "associations": 10
     },
     {
+      "file": "visual-assets-atlantic-rebuild-07-v18.json",
+      "bytes": 13401,
+      "sha256": "cd20798265c7691782ab92edd062409c138a7d4042038ab9e9769fbb16d96cdd",
+      "assets": 5,
+      "associations": 0
+    },
+    {
       "file": "visual-assets-china-rebuild-01-v18.json",
       "bytes": 74193,
       "sha256": "50b8726e424c2b4b5985b34c0f53265f104c4b784c6d9a62135a58a0693d0c81",
@@ -2196,6 +2203,6 @@
       "associations": 43
     }
   ],
-  "assetBytes": 8217701,
+  "assetBytes": 8716351,
   "verification": "All admitted files match their SHA-256, byte count and encoded dimensions. Source identity, reuse rights, pixel review and entry relevance require the individual editorial records; structural validation does not establish those facts."
 }

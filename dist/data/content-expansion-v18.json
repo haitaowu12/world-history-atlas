@@ -2670,6 +2670,13 @@
         "associations": 10
       },
       {
+        "file": "visual-assets-atlantic-rebuild-07-v18.json",
+        "bytes": 13401,
+        "sha256": "cd20798265c7691782ab92edd062409c138a7d4042038ab9e9769fbb16d96cdd",
+        "assets": 5,
+        "associations": 0
+      },
+      {
         "file": "visual-assets-china-rebuild-01-v18.json",
         "bytes": 74193,
         "sha256": "50b8726e424c2b4b5985b34c0f53265f104c4b784c6d9a62135a58a0693d0c81",
@@ -2678,8 +2685,8 @@
       }
     ],
     "coverageFile": "visual-coverage-v18.json",
-    "assets": 63,
-    "covered": 104,
+    "assets": 68,
+    "covered": 109,
     "total": 2084,
     "target": 1042
   }

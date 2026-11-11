@@ -60,7 +60,7 @@ test('existing Chinese notes, missing translations, and unsafe text behave safel
   assert.doesNotMatch(html,/机器辅助/);assert.match(html,/English &lt;source&gt;/);
   assert.match(sourceNoteHTML({evidenceNote:'New <untranslated> note'},'zh',esc),/暂无中文译文/);
   assert.match(sourceNoteHTML({evidenceNote:'New <untranslated> note'},'zh',esc),/&lt;untranslated&gt;/);
-  assert.equal(sourceNoteHTML({evidenceNote:'已有中文说明'},'zh',esc),'<small class="source-evidence-note" lang="zh">已有中文说明</small>');
+  assert.equal(sourceNoteHTML({evidenceNote:'已有中文说明'},'zh',esc),'<details class="source-scope"><summary>这则来源支持什么</summary><small class="source-evidence-note" lang="zh">已有中文说明</small></details>');
   installSourceNoteTranslations([{'English source mentioning 北京':'提及北京的中文译文'}]);
   assert.equal(localizedSourceNote({evidenceNote:'English source mentioning 北京'},'zh').text,'提及北京的中文译文');
   assert.equal(sourceNoteHTML({},'zh',esc),'');

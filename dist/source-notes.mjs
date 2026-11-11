@@ -23,12 +23,21 @@ export function localizedSourceNote(source, language) {
   if (/[\u3400-\u9fff]/u.test(original)) return {text:original, original:'', translated:false, missing:false};
   return {text:original, original:'', translated:false, missing:true};
 }
-export function sourceNoteHTML(source, language, escape) {
+function sourceNoteBody(source, language, escape) {
   const note = localizedSourceNote(source, language);
   if (!note.text) return '';
-  if (language !== 'zh') return `<small class="source-evidence-note">${escape(note.text)}</small>`;
-  if (note.missing) return `<small class="source-evidence-note" lang="en">${escape(note.text)}</small><small class="source-translation-status">暂无中文译文</small>`;
-  if (!note.translated) return `<small class="source-evidence-note" lang="zh">${escape(note.text)}</small>`;
+  if (language !== 'zh') return `<small class="source-evidence-note">${escape(conciseSourceNote(note.text))}</small>`;
+  if (note.missing) return `<small class="source-evidence-note" lang="en">${escape(conciseSourceNote(note.text))}</small><small class="source-translation-status">暂无中文译文</small>`;
+  if (!note.translated) return `<small class="source-evidence-note" lang="zh">${escape(conciseSourceNote(note.text))}</small>`;
   const label=note.machine?'机器辅助翻译 · 查看英文原文':'查看英文原文';
-  return `<small class="source-evidence-note" lang="zh">${escape(note.text)}</small><details class="source-original"><summary>${label}</summary><small lang="en">${escape(note.original)}</small></details>`;
+  return `<small class="source-evidence-note" lang="zh">${escape(conciseSourceNote(note.text))}</small><details class="source-original"><summary>${label}</summary><small lang="en">${escape(conciseSourceNote(note.original))}</small></details>`;
+}
+
+// Remove successful retrieval narration only, never a limitation or historical qualifier.
+export function conciseSourceNote(value){
+ return String(value||'').replace(/(?:^|\s)Retrieval: (?:page text|page passages) inspected\./g,'').replace(/(?:^|\s)Access: opened page extract\./g,'').replace(/^Directly inspected /,'').trim().replace(/^([a-z])/,letter=>letter.toUpperCase());
+}
+export function sourceNoteHTML(source,language,escape){
+ const body=sourceNoteBody(source,language,escape);if(!body)return '';
+ return `<details class="source-scope"><summary>${language==='zh'?'这则来源支持什么':'What this source covers'}</summary>${body}</details>`;
 }

@@ -33,8 +33,15 @@ export function visualCoverage(catalog,records){
  return {total:records.length,covered:ids.length,assets:rows.length,percent:records.length?100*ids.length/records.length:0,coveredIds:ids.sort(),uncoveredIds:records.filter(r=>!ids.includes(r.id)).map(r=>r.id)};
 }
 
+export function orderVisualRows(rows){
+ const groups=new Map(['object','document','site','manuscript','artwork','map','photograph','portrait'].map(kind=>[kind,[]]));
+ for(const row of rows){if(!groups.has(row.kind))groups.set(row.kind,[]);groups.get(row.kind).push(row);}
+ const ordered=[];while(ordered.length<rows.length)for(const group of groups.values())if(group.length)ordered.push(group.shift());
+ return ordered;
+}
+
 export function createVisualLibrary({catalog,records,getLanguage,regions,regionName,openDialog,openStory,escape:esc}){
- const rows=visualRows(catalog,records),coverage=visualCoverage(catalog,records);
+ const rows=orderVisualRows(visualRows(catalog,records)),coverage=visualCoverage(catalog,records);
  const studies=availableVisualStudies(rows);
  const filters={query:'',region:'all',type:'all'};let limit=24,selected=[];
  const lang=()=>getLanguage(),txt=(en,zh)=>lang()==='zh'?zh:en,L=v=>loc(v,lang());
