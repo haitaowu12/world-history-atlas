@@ -88,3 +88,9 @@ export function handleHistoryImageError(event) {
     link.setAttribute('aria-label',link.dataset.historySourceLabel);
   }
 }
+
+export function entryMediaFigures(items,lang,escape){
+ if(!items.length)return '';
+ const pair=items.length===2?`<button class="secondary-button" data-action="visual-pair" data-id="${escape(items.map(item=>item.id).join(','))}">${lang==='zh'?'并排对读这两幅图像':'Read these two images side by side'} ↗</button>`:'';
+ return mediaFigures(items.slice(0,1),lang,escape)+pair+(items.length>1?`<details class="entry-more-images"><summary>${lang==='zh'?'更多相关图像':'More images for this story'} (${items.length-1})</summary>${mediaFigures(items.slice(1),lang,escape)}</details>`:'');
+}

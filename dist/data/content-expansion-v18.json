@@ -2654,11 +2654,32 @@
         "sha256": "6ebd0c6fc07fe5d0afd4d0d785921f4092d2181c5104a33c4e5c32ddb345c325",
         "assets": 6,
         "associations": 0
+      },
+      {
+        "file": "visual-assets-atlantic-rebuild-05-v18.json",
+        "bytes": 12680,
+        "sha256": "4d9adbf95f85694644c424146fbba199650f12966baa3119e20f6a6585dc07a0",
+        "assets": 5,
+        "associations": 0
+      },
+      {
+        "file": "visual-assets-atlantic-rebuild-06-v18.json",
+        "bytes": 7688,
+        "sha256": "c2f5e84e49fe7d70e8d78939c1f60731c3b03f2150cb76e3413df16e36117251",
+        "assets": 0,
+        "associations": 10
+      },
+      {
+        "file": "visual-assets-china-rebuild-01-v18.json",
+        "bytes": 74193,
+        "sha256": "50b8726e424c2b4b5985b34c0f53265f104c4b784c6d9a62135a58a0693d0c81",
+        "assets": 5,
+        "associations": 43
       }
     ],
     "coverageFile": "visual-coverage-v18.json",
-    "assets": 53,
-    "covered": 53,
+    "assets": 63,
+    "covered": 104,
     "total": 2084,
     "target": 1042
   }
