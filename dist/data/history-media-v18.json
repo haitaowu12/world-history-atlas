@@ -3466,6 +3466,263 @@
         "en": "Source-supplied image or thumbnail saved byte-for-byte, with no local crop, recoloring, retouching or generation.",
         "zh": "逐字节保存来源提供的图像或缩略图，未作本地裁切、调色、修饰或生成。"
       }
+    },
+    {
+      "id": "china-rebuild-taizong",
+      "file": "assets/history-media/china-rebuild-taizong.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:TangTaizong.jpg",
+      "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/TangTaizong.jpg/960px-TangTaizong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/TangTaizong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "bytes": 468837,
+      "width": 960,
+      "height": 1989,
+      "sha256": "3b8f0e6f4c86af3cf47d09180e333cb132b7dbfe60209c17232ec4cdb957b4d2",
+      "recordIds": [
+        "china-person-lishimin"
+      ],
+      "kind": "portrait",
+      "representation": "later-depiction",
+      "title": {
+        "en": "Taizong in a Ming standing portrait",
+        "zh": "明代唐太宗立像"
+      },
+      "alt": {
+        "en": "Taizong stands in a yellow robe with colored dragons, a black cap and black shoes, holding a decorated belt with both hands.",
+        "zh": "唐太宗戴黑帽、穿饰彩龙的黄袍与黑鞋，双手握住装饰腰带站立。"
+      },
+      "caption": {
+        "en": "Standing Portrait of Emperor Tang Taizong (I), anonymous, Ming dynasty. National Palace Museum, Taipei, 中畫000263. The museum records a remounting in 1748, centuries after the Tang ruler’s life.",
+        "zh": "《唐太宗立像（一）》，明代无款，台北国立故宫博物院藏，中画000263。馆藏记录载1748年重装，距离唐太宗在世已有千余年。"
+      },
+      "creator": "Anonymous Ming painter",
+      "date": "Ming dynasty, 1368–1644; remounted 1748",
+      "institution": "National Palace Museum, Taipei, 中畫000263",
+      "interpretation": {
+        "en": "The dragon robe and formal pose present an imperial image created in a later dynasty. The 1748 inscription dates the remounting, not the original painting or Taizong’s reign.",
+        "zh": "龙袍与正式姿态呈现后世王朝塑造的帝王形象。1748年题记标明重装时间，不是原画创作年代，也不是太宗在位年代。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "NPM: portrait and remounting inscription",
+            "zh": "故宫：肖像及重装题记"
+          },
+          "url": "https://digitalarchive.npm.gov.tw/Collection/Detail/1825?dep=P"
+        }
+      ],
+      "checkedAt": "2026-11-11",
+      "retrieval": "Source metadata, date and attribution reviewed; original downloaded pixels inspected; explicit named-subject entry associations checked.",
+      "rightsSourceUrl": "https://commons.wikimedia.org/wiki/File:TangTaizong.jpg",
+      "rights": {
+        "label": "Public domain",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "note": {
+          "en": "The linked Commons source marks this historical two-dimensional artwork and its faithful reproduction public domain. The named collection and qualified attribution are retained.",
+          "zh": "所链接的维基共享资源将历史二维作品及其忠实复制图标为公共领域；保留具名馆藏与有保留的作者归属。"
+        }
+      },
+      "transformation": {
+        "en": "The source-supplied image or thumbnail is saved unchanged, without local cropping, resizing, recoloring or retouching.",
+        "zh": "原样保存来源提供的图像或缩略图，未作本地裁切、缩放、调色或修饰。"
+      }
+    },
+    {
+      "id": "china-rebuild-sun-quan",
+      "file": "assets/history-media/china-rebuild-sun-quan.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sun_Quan_Tang.jpg",
+      "downloadedFrom": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Sun_Quan_Tang.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Sun_Quan_Tang.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "bytes": 545145,
+      "width": 936,
+      "height": 1270,
+      "sha256": "3260c6b233b5c547c36a6361898016527370aa6f43b17232b4e9fb60c02924e5",
+      "recordIds": [
+        "china-person-sunquan"
+      ],
+      "kind": "portrait",
+      "representation": "later-depiction",
+      "title": {
+        "en": "Sun Quan and attendants in The Thirteen Emperors",
+        "zh": "《历代帝王图》中的孙权与侍从"
+      },
+      "alt": {
+        "en": "Sun Quan stands in a black and red robe with a ceremonial crown, holding a feather fan between two attendants; the upper-left inscription names him.",
+        "zh": "孙权戴垂旒冠、穿黑红礼服，持羽扇立于两名侍从之间，左上题字标明“吴主孙权”。"
+      },
+      "caption": {
+        "en": "Detail of The Thirteen Emperors, traditionally attributed to Yan Liben. Museum of Fine Arts, Boston, Denman Waldo Ross Collection, 31.643. The seventh-century scroll includes later replacement sections; Sun Quan belongs to its early group of rulers.",
+        "zh": "《历代帝王图》局部，传统归于阎立本，波士顿美术馆丹曼·沃尔多·罗斯收藏，编号31.643。七世纪手卷包含后世补绘，孙权位于前段帝王组像。"
+      },
+      "creator": "Traditionally attributed to Yan Liben (died 673); later replacement sections by unknown hands",
+      "date": "Second half of the 7th century, with later replacement; precise date of this section not established",
+      "institution": "Museum of Fine Arts, Boston, Denman Waldo Ross Collection, 31.643",
+      "interpretation": {
+        "en": "The first group of emperors is generally understood to include later replacement paintings. This inscribed likeness of Sun Quan is a retrospective court image, not a portrait made in his third-century lifetime.",
+        "zh": "前段帝王像通常被认为包含后世补绘。这幅有题字标识的孙权像是回顾性的宫廷图像，不是他三世纪在世时的肖像。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "MFA-contributed catalog: later replacement",
+            "zh": "波士顿美术馆提供的目录：后世补绘"
+          },
+          "url": "https://amica.davidrumsey.com/amico1033128-17069.html"
+        },
+        {
+          "title": {
+            "en": "University of Chicago scroll record",
+            "zh": "芝加哥大学手卷记录"
+          },
+          "url": "https://scrolls.uchicago.edu/view-scroll/61"
+        }
+      ],
+      "checkedAt": "2026-11-11",
+      "retrieval": "Source metadata, date and attribution reviewed; original downloaded pixels inspected; explicit named-subject entry associations checked.",
+      "rightsSourceUrl": "https://commons.wikimedia.org/wiki/File:Sun_Quan_Tang.jpg",
+      "rights": {
+        "label": "Public domain",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "note": {
+          "en": "The linked Commons source marks this historical two-dimensional artwork and its faithful reproduction public domain. The named collection and qualified attribution are retained.",
+          "zh": "所链接的维基共享资源将历史二维作品及其忠实复制图标为公共领域；保留具名馆藏与有保留的作者归属。"
+        }
+      },
+      "transformation": {
+        "en": "The source-supplied image or thumbnail is saved unchanged, without local cropping, resizing, recoloring or retouching.",
+        "zh": "原样保存来源提供的图像或缩略图，未作本地裁切、缩放、调色或修饰。"
+      }
+    },
+    {
+      "id": "china-rebuild-sima-yi",
+      "file": "assets/history-media/china-rebuild-sima-yi.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%AD%8F%C2%B7%E5%A4%AA%E5%82%85_%E5%8F%B8%E9%A6%AC%E6%87%BF.jpg",
+      "downloadedFrom": "https://upload.wikimedia.org/wikipedia/commons/8/80/%E9%AD%8F%C2%B7%E5%A4%AA%E5%82%85_%E5%8F%B8%E9%A6%AC%E6%87%BF.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/%E9%AD%8F%C2%B7%E5%A4%AA%E5%82%85_%E5%8F%B8%E9%A6%AC%E6%87%BF.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "bytes": 369133,
+      "width": 988,
+      "height": 1229,
+      "sha256": "678544c6cb8cbef4e7c83f34638601d74d4fdbf2072cab918c8d56a58bf75887",
+      "recordIds": [
+        "china-person-simayi"
+      ],
+      "kind": "portrait",
+      "representation": "later-depiction",
+      "title": {
+        "en": "Sima Yi in a Ming book of historical portraits",
+        "zh": "明代古人像册中的司马懿"
+      },
+      "alt": {
+        "en": "Black-and-white half-length portrait of a bearded Sima Yi in a folded cap, hands inside his sleeves, with his name at upper right and verse at upper left.",
+        "zh": "司马懿戴折巾、留须、双手笼袖的黑白半身像，右上题姓名，左上有赞辞。"
+      },
+      "caption": {
+        "en": "Sima Yi in Lidai guren xiangzan, a portrait book published in Hongzhi 11 (1498). Zhu Tianran wrote the encomia; the illustrator is unnamed. Digital reproduction via Wikimedia Commons.",
+        "zh": "《历代古人像赞》中的司马懿像，该书刊于弘治十一年（1498）。朱天然撰赞，绘者无名。数字复制图由维基共享资源提供。"
+      },
+      "creator": "Anonymous illustrator; encomia and preface by Zhu Tianran",
+      "date": "Book published 1498; precise impression date not established",
+      "institution": "Lidai guren xiangzan; reproduction via Wikimedia Commons",
+      "interpretation": {
+        "en": "The adjacent verse recognizes military talent while condemning ambition and concentrated power. That judgment belongs to a Ming portrait book, centuries after Sima Yi’s life.",
+        "zh": "旁侧赞辞肯定统兵才干，却批评野心与专权。这一评价来自明代像册，距离司马懿在世已逾千年。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "1498 edition and unnamed illustrator",
+            "zh": "1498年刊本与无名绘者"
+          },
+          "url": "https://www.shuge.org/meet/topic/43456/"
+        },
+        {
+          "title": {
+            "en": "Digitized historical portrait book",
+            "zh": "数字化《历代古人像赞》"
+          },
+          "url": "https://www.shidianguji.com/zh/book/NGJ892411999028085148107/chapter/1lq125w174i7n"
+        }
+      ],
+      "checkedAt": "2026-11-11",
+      "retrieval": "Source metadata, date and attribution reviewed; original downloaded pixels inspected; explicit named-subject entry associations checked.",
+      "rightsSourceUrl": "https://commons.wikimedia.org/wiki/File:%E9%AD%8F%C2%B7%E5%A4%AA%E5%82%85_%E5%8F%B8%E9%A6%AC%E6%87%BF.jpg",
+      "rights": {
+        "label": "Public domain",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "note": {
+          "en": "The Commons source marks the image public domain. The independently identified 1498 portrait-book edition supports the historical-work basis; the modern writer or scan uploader is not credited as the original artist.",
+          "zh": "维基共享资源将图像标为公共领域；另行核实的1498年像赞刊本支持其历史作品依据，不把现代撰稿者或上传者视为原画作者。"
+        }
+      },
+      "transformation": {
+        "en": "The source-supplied image or thumbnail is saved unchanged, without local cropping, resizing, recoloring or retouching.",
+        "zh": "原样保存来源提供的图像或缩略图，未作本地裁切、缩放、调色或修饰。"
+      }
+    },
+    {
+      "id": "china-rebuild-yue-fei",
+      "file": "assets/history-media/china-rebuild-yue-fei.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E6%98%8E%E4%BA%BA%E3%80%8A%E5%B2%B3%E9%A3%9E%E5%83%8F%E3%80%8B%E8%BD%B4.jpg",
+      "downloadedFrom": "https://upload.wikimedia.org/wikipedia/commons/7/70/%E6%98%8E%E4%BA%BA%E3%80%8A%E5%B2%B3%E9%A3%9E%E5%83%8F%E3%80%8B%E8%BD%B4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/%E6%98%8E%E4%BA%BA%E3%80%8A%E5%B2%B3%E9%A3%9E%E5%83%8F%E3%80%8B%E8%BD%B4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "bytes": 200263,
+      "width": 1000,
+      "height": 1752,
+      "sha256": "61da39950ade297fb6b16864cab3a30de4402d4aa141317bf3176c12d4359b62",
+      "recordIds": [
+        "china-person-yuefei"
+      ],
+      "kind": "portrait",
+      "representation": "later-depiction",
+      "title": {
+        "en": "Yue Fei in a Ming seated portrait",
+        "zh": "明代岳飞坐像"
+      },
+      "alt": {
+        "en": "Yue Fei sits in a brown robe with colorful dragon-like motifs, a blue cloth cap and black boots, holding an open blue-covered book above a red belt with pale jade plaques.",
+        "zh": "岳飞戴蓝巾、穿饰彩色蟒纹的褐袍与黑靴端坐，双手捧蓝皮书，腰系嵌浅色玉牌的红带。"
+      },
+      "caption": {
+        "en": "Anonymous Ming portrait of Yue Fei, ink and color on silk, Palace Museum, Beijing. The museum identifies his embroidered python robe, jade belt and book, explaining that the dress follows Ming conventions.",
+        "zh": "明代无款《岳飞像》轴，绢本设色，北京故宫博物院藏。馆方说明画中织金蟒袍、玉带与书册，并指出衣冠依照明代制度绘制。"
+      },
+      "creator": "Anonymous Ming painter",
+      "date": "Ming dynasty, 1368–1644",
+      "institution": "Palace Museum, Beijing",
+      "interpretation": {
+        "en": "The painting belongs to Yue Fei’s later commemoration. Its Ming-style official dress is evidence of the painter’s historical setting, not a record of Southern Song military uniform.",
+        "zh": "画作属于对岳飞的后世纪念。明式官服反映画家所处的历史环境，并非南宋军装的记录。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Palace Museum: portrait and Ming clothing",
+            "zh": "故宫博物院：肖像及明代衣冠"
+          },
+          "url": "https://www.dpm.org.cn/show/255511.html"
+        },
+        {
+          "title": {
+            "en": "Palace Museum exhibition object",
+            "zh": "故宫博物院展品记录"
+          },
+          "url": "https://gugongzhanlan.dpm.org.cn/artListShare/135"
+        }
+      ],
+      "checkedAt": "2026-11-11",
+      "retrieval": "Source metadata, date and attribution reviewed; original downloaded pixels inspected; explicit named-subject entry associations checked.",
+      "rightsSourceUrl": "https://commons.wikimedia.org/wiki/File:%E6%98%8E%E4%BA%BA%E3%80%8A%E5%B2%B3%E9%A3%9E%E5%83%8F%E3%80%8B%E8%BD%B4.jpg",
+      "rights": {
+        "label": "Public domain",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "note": {
+          "en": "The linked Commons source marks this historical two-dimensional artwork and its faithful reproduction public domain. The named collection and qualified attribution are retained.",
+          "zh": "所链接的维基共享资源将历史二维作品及其忠实复制图标为公共领域；保留具名馆藏与有保留的作者归属。"
+        }
+      },
+      "transformation": {
+        "en": "The source-supplied image or thumbnail is saved unchanged, without local cropping, resizing, recoloring or retouching.",
+        "zh": "原样保存来源提供的图像或缩略图，未作本地裁切、缩放、调色或修饰。"
+      }
     }
   ],
   "associations": [
@@ -4609,6 +4866,702 @@
         },
         "reviewedField": "title",
         "reviewMethod": "Explicit reviewed subject/action list; no automatic keyword admission"
+      }
+    },
+    {
+      "recordId": "china-person-lishimin",
+      "role": "depicts-subject",
+      "context": {
+        "en": "This Ming court image commemorates Taizong, whose advice and expansion of imperial power are examined in the biography.",
+        "zh": "明代宫廷形象纪念本传讨论纳谏与皇权扩张的唐太宗。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/舊唐書/卷2",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "唐太宗",
+        "entryTitle": {
+          "en": "Taizong: advice, conquest and imperial authority",
+          "zh": "唐太宗：纳谏、征服与皇权"
+        },
+        "entrySummary": {
+          "en": "Li Shimin became Emperor Taizong in 626 after helping his father establish Tang rule. His government expanded imperial power through campaigns as well as administration. Yet the advice he prepared for his heir in 648 turns attention to a different problem: how should a ruler hear criticism and choose the people who govern? The text presents self-restraint and attention to counsel as duties of kingship. It is a statement of governing ideals by an emperor, with a particular audience and purpose. Placed beside the career of his general Li Jing, it shows how military success and the language of responsible rule worked together in the early Tang court.",
+          "zh": "李世民帮助父亲建立唐朝后，于626年即帝位，是为唐太宗。战争与行政建设共同扩展了皇权，但他648年为继承者撰写的训诫，把注意力转向另一问题：君主应如何听取批评、选择治理国家的人？文中把节制自身与接受谏言视为君主的责任。这是一位皇帝面向特定读者表达的治国理想，具有明确的写作目的。与将领李靖的经历相对读，可以看到早唐朝廷如何把军事成就与负责治国的语言结合起来。"
+        },
+        "reviewedField": "title",
+        "reviewMethod": "Explicit reviewed subject/action list; no automatic keyword admission"
+      },
+      "assetId": "china-rebuild-taizong"
+    },
+    {
+      "recordId": "china-landmark-346",
+      "role": "named-person",
+      "context": {
+        "en": "The portrait identifies Li Shimin, whose role in the Taiyuan uprising preceded his later position as Emperor Taizong.",
+        "zh": "肖像标识参与晋阳起兵的李世民，他后来成为唐太宗。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/舊唐書/卷2",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "李世民",
+        "entryTitle": {
+          "en": "Li Shimin persuades his father Li Yuan to rise in Taiyuan and march west to capture Chang'an",
+          "zh": "李世民劝父唐国公李渊于晋阳起兵西进，十一月攻克大兴城迎立代王"
+        },
+        "entrySummary": {
+          "en": "Li Shimin persuades his father Li Yuan to rise in Taiyuan and march west to capture Chang'an",
+          "zh": "李世民劝父唐国公李渊于晋阳起兵西进，十一月攻克大兴城迎立代王"
+        },
+        "reviewedField": "title",
+        "reviewMethod": "Explicit reviewed subject/action list; no automatic keyword admission"
+      },
+      "assetId": "china-rebuild-taizong"
+    },
+    {
+      "recordId": "china-landmark-347",
+      "role": "named-person",
+      "context": {
+        "en": "Li Shimin commanded the campaign against Xue Rengao at Qianshuiyuan, one of the victories behind his rise to imperial power.",
+        "zh": "李世民统率浅水原迎战薛仁杲的战役，这是他取得皇权之前的重要胜利之一。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/舊唐書/卷2",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "李世民",
+        "entryTitle": {
+          "en": "Battle of Qianshuiyuan: Li Shimin destroys Xue Rengao's Western Qin army to secure Longyou",
+          "zh": "浅水原之战：秦王李世民歼灭西秦薛仁杲主力，平定陇右"
+        },
+        "entrySummary": {
+          "en": "Battle of Qianshuiyuan: Li Shimin destroys Xue Rengao's Western Qin army to secure Longyou",
+          "zh": "浅水原之战：秦王李世民歼灭西秦薛仁杲主力，平定陇右"
+        },
+        "reviewedField": "title",
+        "reviewMethod": "Explicit reviewed subject/action list; no automatic keyword admission"
+      },
+      "assetId": "china-rebuild-taizong"
+    },
+    {
+      "recordId": "china-event-tang-002",
+      "role": "named-person",
+      "context": {
+        "en": "Li Shimin’s victory at Hulao broke Dou Jiande’s intervention and helped force Wang Shichong’s surrender. The portrait connects that campaign to the future Taizong.",
+        "zh": "李世民在虎牢击破窦建德援军，促成王世充投降；肖像把该战役与后来成为太宗的统帅联系起来。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/舊唐書/卷2",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "李世民",
+        "entryTitle": {
+          "en": "Battle of Hulao: Li Shimin captures Dou Jiande and Wang Shichong; Li Jing pacifies Xiao Xian",
+          "zh": "虎牢之战李世民擒窦建德、降王世充；李靖平萧铣"
+        },
+        "entrySummary": {
+          "en": "Battle of Hulao: Li Shimin captures Dou Jiande and Wang Shichong; Li Jing pacifies Xiao Xian",
+          "zh": "虎牢之战李世民擒窦建德、降王世充；李靖平萧铣"
+        },
+        "reviewedField": "title",
+        "reviewMethod": "Explicit reviewed subject/action list; no automatic keyword admission"
+      },
+      "assetId": "china-rebuild-taizong"
+    },
+    {
+      "recordId": "china-landmark-124",
+      "role": "named-person",
+      "context": {
+        "en": "The later Taizong portrait identifies Li Shimin, whose capture of Dou Jiande at Hulao transformed the campaign against Wang Shichong.",
+        "zh": "后世太宗像标识李世民；他在虎牢擒获窦建德，改变了对王世充作战的局势。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/舊唐書/卷2",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "李世民",
+        "entryTitle": {
+          "en": "Battle of Hulao: Li Shimin captures Dou Jiande at Hulao Pass, forcing Wang Shichong to yield",
+          "zh": "虎牢之战：李世民率精骑据虎牢关生擒窦建德，王世充随即出降"
+        },
+        "entrySummary": {
+          "en": "Battle of Hulao: Li Shimin captures Dou Jiande at Hulao Pass, forcing Wang Shichong to yield",
+          "zh": "虎牢之战：李世民率精骑据虎牢关生擒窦建德，王世充随即出降"
+        },
+        "reviewedField": "title",
+        "reviewMethod": "Explicit reviewed subject/action list; no automatic keyword admission"
+      },
+      "assetId": "china-rebuild-taizong"
+    },
+    {
+      "recordId": "china-landmark-348",
+      "role": "named-person",
+      "context": {
+        "en": "Li Shimin is the commander behind the Hulao victory described here. The Ming court painting presents him in the imperial status he attained afterward.",
+        "zh": "李世民是本条目虎牢胜利的统帅；明代宫廷画表现他后来取得的帝王身份。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/舊唐書/卷2",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "李世民",
+        "entryTitle": {
+          "en": "Battle of Hulao: Li Shimin captures Dou Jiande with armored cavalry; Wang Shichong surrenders",
+          "zh": "虎牢之战：李世民率玄甲骑擒窦建德，洛阳王世充出降"
+        },
+        "entrySummary": {
+          "en": "Battle of Hulao: Li Shimin captures Dou Jiande with armored cavalry; Wang Shichong surrenders",
+          "zh": "虎牢之战：李世民率玄甲骑擒窦建德，洛阳王世充出降"
+        },
+        "reviewedField": "title",
+        "reviewMethod": "Explicit reviewed subject/action list; no automatic keyword admission"
+      },
+      "assetId": "china-rebuild-taizong"
+    },
+    {
+      "recordId": "china-event-tang-003",
+      "role": "named-person",
+      "context": {
+        "en": "The Xuanwu Gate coup opened Li Shimin’s path to the throne. The portrait presents his later identity as Taizong.",
+        "zh": "玄武门政变为李世民即位开辟道路；肖像表现他后来的唐太宗身份。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/舊唐書/卷2",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "李世民",
+        "entryTitle": {
+          "en": "Xuanwu Gate Incident; Li Shimin (Taizong) ascends the throne",
+          "zh": "玄武门之变，李世民即位"
+        },
+        "entrySummary": {
+          "en": "Xuanwu Gate Incident; Li Shimin (Taizong) ascends the throne",
+          "zh": "玄武门之变，李世民即位"
+        },
+        "reviewedField": "title",
+        "reviewMethod": "Explicit reviewed subject/action list; no automatic keyword admission"
+      },
+      "assetId": "china-rebuild-taizong"
+    },
+    {
+      "recordId": "china-landmark-016",
+      "role": "named-person",
+      "context": {
+        "en": "The portrait identifies the Li Shimin who became Taizong after the Xuanwu Gate coup; Zhenguan was the reign title adopted the following year.",
+        "zh": "肖像标识玄武门政变后即位的李世民；次年采用贞观年号。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/舊唐書/卷2",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "唐太宗",
+        "entryTitle": {
+          "en": "Xuanwu Gate Incident in Chang'an; Li Shimin ascends as Emperor Taizong",
+          "zh": "玄武门之变，李世民即位为唐太宗，次年改元贞观"
+        },
+        "entrySummary": {
+          "en": "Xuanwu Gate Incident in Chang'an; Li Shimin ascends as Emperor Taizong",
+          "zh": "玄武门之变，李世民即位为唐太宗，次年改元贞观"
+        },
+        "reviewedField": "title",
+        "reviewMethod": "Explicit reviewed subject/action list; no automatic keyword admission"
+      },
+      "assetId": "china-rebuild-taizong"
+    },
+    {
+      "recordId": "china-event-tang-004",
+      "role": "named-person",
+      "context": {
+        "en": "Li Shimin’s reign as Taizong is the connection. The Ming portrait presents the emperor whose government came to be remembered as the Zhenguan era.",
+        "zh": "关联点是李世民作为唐太宗的统治；明代肖像表现后世以“贞观之治”记忆的君主。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/舊唐書/卷2",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "唐太宗",
+        "entryTitle": {
+          "en": "Emperor Taizong (Li Shimin) inaugurates the prosperous Reign of Zhenguan",
+          "zh": "唐太宗李世民即位，开创贞观之治"
+        },
+        "entrySummary": {
+          "en": "Emperor Taizong (Li Shimin) inaugurates the prosperous Reign of Zhenguan",
+          "zh": "唐太宗李世民即位，开创贞观之治"
+        },
+        "reviewedField": "title",
+        "reviewMethod": "Explicit reviewed subject/action list; no automatic keyword admission"
+      },
+      "assetId": "china-rebuild-taizong"
+    },
+    {
+      "recordId": "china-event-tang-009",
+      "role": "named-person",
+      "context": {
+        "en": "This portrait relates to Taizong’s Goguryeo campaign, the second part of this entry; Xuanzang’s return is a separate subject.",
+        "zh": "本图关联条目后半唐太宗亲征高句丽的内容；玄奘归国是另一主题。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/舊唐書/卷3",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "唐太宗",
+        "entryTitle": {
+          "en": "Xuanzang returns to Chang'an with Sanskrit sutras; Emperor Taizong campaigns in Goguryeo",
+          "zh": "玄奘自天竺载经归长安译经；唐太宗亲征高句丽克辽东城"
+        },
+        "entrySummary": {
+          "en": "Xuanzang returns to Chang'an with Sanskrit sutras; Emperor Taizong campaigns in Goguryeo",
+          "zh": "玄奘自天竺载经归长安译经；唐太宗亲征高句丽克辽东城"
+        },
+        "reviewedField": "title",
+        "reviewMethod": "Explicit reviewed subject/action list; no automatic keyword admission"
+      },
+      "assetId": "china-rebuild-taizong"
+    },
+    {
+      "recordId": "china-person-sunquan",
+      "role": "depicts-subject",
+      "context": {
+        "en": "The scroll figure identifies Sun Quan, whose succession, alliances and construction of Wu are the subject of this biography.",
+        "zh": "手卷人物标识本传主角孙权，对应其继位、结盟与建立吴国的经历。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/三國志/卷47",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "孙权",
+        "entryTitle": {
+          "en": "Sun Quan · Holding the lower Yangzi together",
+          "zh": "孙权 · 经营长江下游"
+        },
+        "entrySummary": {
+          "en": "Sun Quan inherited his brother Sun Ce's position in 200, but the territories and commanders he inherited did not form a settled kingdom. Building authority meant retaining experienced officers, negotiating with local elites and using force against communities beyond effective control. At Red Cliffs, he backed resistance to Cao Cao and cooperation with Liu Bei. Their alliance later fractured over Jingzhou, before further diplomacy restored cooperation against Wei. Sun Quan's imperial proclamation in 229 gave these regional arrangements a dynastic name: Wu. His story shifts attention from a single famous battle to the political work that kept a southern state operating among powerful neighbors, competing officials and communities with their own interests.",
+          "zh": "200年，孙权继承兄长孙策的地位，但接手的土地与将领并不构成一个已经稳定的王国。他需要留住有经验的军政人员，与地方精英合作，也对控制范围之外的群体动用武力。赤壁战前，他支持抵抗曹操，并与刘备联合。后来双方因荆州决裂，又通过外交重新合作抗魏。229年称帝，使这些区域性的经营拥有“吴”的王朝名号。他的经历把视线从一场著名战役移向持续的政治工作：如何在强邻、相互竞争的官员及各有诉求的地方群体之间，维持一个南方政权。"
+        },
+        "reviewedField": "title",
+        "reviewMethod": "Explicit reviewed subject/action list; no automatic keyword admission"
+      },
+      "assetId": "china-rebuild-sun-quan"
+    },
+    {
+      "recordId": "china-landmark-327",
+      "role": "named-person",
+      "context": {
+        "en": "Sun Quan succeeded Sun Ce’s position in Jiangdong. The imperial costume is the later painter’s representation, not evidence that he was already emperor in 200.",
+        "zh": "孙权继承孙策在江东的地位；画中帝王礼服来自后世表现，并不说明他在200年已称帝。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/三國志/卷47",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "孙权",
+        "entryTitle": {
+          "en": "Aged nineteen, Sun Quan succeeds his brother Sun Ce and consolidates rule over Jiangdong",
+          "zh": "孙策遇刺身亡，年十九岁的孙权继领江东六郡"
+        },
+        "entrySummary": {
+          "en": "Aged nineteen, Sun Quan succeeds his brother Sun Ce and consolidates rule over Jiangdong",
+          "zh": "孙策遇刺身亡，年十九岁的孙权继领江东六郡"
+        },
+        "reviewedField": "title",
+        "reviewMethod": "Explicit reviewed subject/action list; no automatic keyword admission"
+      },
+      "assetId": "china-rebuild-sun-quan"
+    },
+    {
+      "recordId": "china-event-donghan-028",
+      "role": "named-person",
+      "context": {
+        "en": "The portrait identifies Sun Quan, the Wu leader who negotiated the Jingzhou division and then suffered defeat at Hefei and Xiaoyao Ford.",
+        "zh": "肖像标识孙权，这位吴方领袖参与荆州划界协商，随后在合肥、逍遥津作战失利。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/三國志/卷47",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "孙权",
+        "entryTitle": {
+          "en": "Sun-Liu Xiang River pact divides Jingzhou; Zhang Liao routs Sun Quan at Xiaoyao Ford",
+          "zh": "孙刘“湘水划界”分荆州；张辽威震逍遥津大破孙权"
+        },
+        "entrySummary": {
+          "en": "Sun-Liu Xiang River pact divides Jingzhou; Zhang Liao routs Sun Quan at Xiaoyao Ford",
+          "zh": "孙刘“湘水划界”分荆州；张辽威震逍遥津大破孙权"
+        },
+        "reviewedField": "title",
+        "reviewMethod": "Explicit reviewed subject/action list; no automatic keyword admission"
+      },
+      "assetId": "china-rebuild-sun-quan"
+    },
+    {
+      "recordId": "china-landmark-487",
+      "role": "named-person",
+      "context": {
+        "en": "The portrait identifies Sun Quan, whose attack on Hefei ended in defeat at Xiaoyao Ford. It links the battle entry to the Wu leader’s broader career.",
+        "zh": "肖像标识进攻合肥而败于逍遥津的孙权，把战役条目与这位吴方领袖的经历相连。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/三國志/卷47",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "孙权",
+        "entryTitle": {
+          "en": "Battle of Hefei: Zhang Liao leads 800 vanguard riders to rout Sun Quan's army at Xiaoyao Ford",
+          "zh": "合肥之战：张辽率八百勇士冲阵大破孙权十万军，威震逍遥津"
+        },
+        "entrySummary": {
+          "en": "Battle of Hefei: Zhang Liao leads 800 vanguard riders to rout Sun Quan's army at Xiaoyao Ford",
+          "zh": "合肥之战：张辽率八百勇士冲阵大破孙权十万军，威震逍遥津"
+        },
+        "reviewedField": "title",
+        "reviewMethod": "Explicit reviewed subject/action list; no automatic keyword admission"
+      },
+      "assetId": "china-rebuild-sun-quan"
+    },
+    {
+      "recordId": "china-landmark-098",
+      "role": "named-person",
+      "context": {
+        "en": "Sun Quan moved his seat to E County, renamed Wuchang. The named ruler’s portrait connects the administrative decision to its political actor.",
+        "zh": "孙权迁治鄂县并改名武昌；具名君主的肖像把这项行政决定与行动者联系起来。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/三國志/卷47",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "孙权",
+        "entryTitle": {
+          "en": "Sun Quan establishes Wuchang as his military and political capital on the Yangtze",
+          "zh": "孙权自公安徙治鄂县，取“以武而昌”改名武昌"
+        },
+        "entrySummary": {
+          "en": "Sun Quan establishes Wuchang as his military and political capital on the Yangtze",
+          "zh": "孙权自公安徙治鄂县，取“以武而昌”改名武昌"
+        },
+        "reviewedField": "title",
+        "reviewMethod": "Explicit reviewed subject/action list; no automatic keyword admission"
+      },
+      "assetId": "china-rebuild-sun-quan"
+    },
+    {
+      "recordId": "china-event-sanguo-007",
+      "role": "named-person",
+      "context": {
+        "en": "Sun Quan proclaimed himself emperor at Wuchang in 229 and moved to Jianye later that year. The scroll presents the imperial identity he claimed.",
+        "zh": "孙权229年在武昌称帝，同年稍后迁都建业；手卷表现他所取得的帝王身份。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/三國志/卷47",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "孙权",
+        "entryTitle": {
+          "en": "Sun Quan proclaims himself emperor of Wu and moves the capital to Jianye",
+          "zh": "孙权称帝，迁都建业"
+        },
+        "entrySummary": {
+          "en": "Sun Quan proclaims himself emperor of Wu and moves the capital to Jianye",
+          "zh": "孙权称帝，迁都建业"
+        },
+        "reviewedField": "title",
+        "reviewMethod": "Explicit reviewed subject/action list; no automatic keyword admission"
+      },
+      "assetId": "china-rebuild-sun-quan"
+    },
+    {
+      "recordId": "china-person-simayi",
+      "role": "depicts-subject",
+      "context": {
+        "en": "The Ming book’s verse weighs Sima Yi’s military talent against his ambition, showing how later readers judged the Wei commander and founder of his family’s power.",
+        "zh": "明代像册赞辞把司马懿的军事才干与野心并列，展示后世如何评价这位魏将及司马氏家族权力的奠基者。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/晉書/卷001",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "司马懿",
+        "entryTitle": {
+          "en": "Sima Yi · From Wei commander to family power",
+          "zh": "司马懿 · 从魏臣到家族权力"
+        },
+        "entrySummary": {
+          "en": "Sima Yi served the Cao-Wei state before his family displaced it. Campaigns and court appointments gave him authority across military and civil affairs. In 238 he conquered the Gongsun regime in Liaodong; the Jin history records extensive killing after Xiangping fell, alongside its praise of his generalship. The decisive move at the center came in 249, when he seized control while Cao Shuang accompanied the emperor to the Gaoping tombs. Promises of retirement were followed by executions. Further repression secured his position before his death in 251. He did not reign as emperor during his lifetime. The imperial title used by the Jinshu belongs to the dynasty his descendants later founded and shapes its retrospective account.",
+          "zh": "司马懿先为曹魏效力，后来其家族取而代之。战役与朝廷任命使他掌握横跨军政的权力。238年，他征服辽东公孙氏政权；《晋书》在赞扬统兵能力的同时，也记载襄平陷落后的大规模杀戮。249年，曹爽陪皇帝谒高平陵时，他在京城夺取控制权。许以免官退居的安排，随后转成诛杀。进一步镇压反对力量后，他于251年去世。司马懿生前并未当皇帝，《晋书》所用帝号来自其后人建立王朝后的追尊，也影响了史书回顾其生涯的方式。"
+        },
+        "reviewedField": "title",
+        "reviewMethod": "Explicit reviewed subject/action list; no automatic keyword admission"
+      },
+      "assetId": "china-rebuild-sima-yi"
+    },
+    {
+      "recordId": "china-landmark-486",
+      "role": "named-person",
+      "context": {
+        "en": "Sima Yi entered Cao Cao’s administration as a literary clerk. The portrait identifies the future military and political leader at this early stage of his career.",
+        "zh": "司马懿以文学掾身份进入曹操幕府；肖像标识这位日后军政领袖生涯早期的任职者。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/晉書/卷001",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "司马懿",
+        "entryTitle": {
+          "en": "Chancellor Cao Cao summons Sima Yi of Henei to Ye as literary clerk and military advisor",
+          "zh": "曹操任丞相辟河内司马懿为文学掾，随幕府参赞军谋"
+        },
+        "entrySummary": {
+          "en": "Chancellor Cao Cao summons Sima Yi of Henei to Ye as literary clerk and military advisor",
+          "zh": "曹操任丞相辟河内司马懿为文学掾，随幕府参赞军谋"
+        },
+        "reviewedField": "title",
+        "reviewMethod": "Explicit reviewed subject/action list; no automatic keyword admission"
+      },
+      "assetId": "china-rebuild-sima-yi"
+    },
+    {
+      "recordId": "china-landmark-488",
+      "role": "named-person",
+      "context": {
+        "en": "Sima Yi directed the expedition that defeated Meng Da at Xincheng. The Ming book gives the named commander a later commemorative form.",
+        "zh": "司马懿主持在新城击败孟达的行动；明代像册呈现这位具名统帅的后世纪念形象。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/晉書/卷001",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "司马懿",
+        "entryTitle": {
+          "en": "Sima Yi marches 1,200 li from Wan in eight days, storming Xincheng to capture rebel Meng Da",
+          "zh": "司马懿自宛城八日急行千二百里，奇袭上庸新城斩叛将孟达"
+        },
+        "entrySummary": {
+          "en": "Sima Yi marches 1,200 li from Wan in eight days, storming Xincheng to capture rebel Meng Da",
+          "zh": "司马懿自宛城八日急行千二百里，奇袭上庸新城斩叛将孟达"
+        },
+        "reviewedField": "title",
+        "reviewMethod": "Explicit reviewed subject/action list; no automatic keyword admission"
+      },
+      "assetId": "china-rebuild-sima-yi"
+    },
+    {
+      "recordId": "china-event-sanguo-010",
+      "role": "named-person",
+      "context": {
+        "en": "Sima Yi commanded the campaign against Gongsun Yuan in Liaodong. His Ming portrait connects the conquest to the commander whose career the Jin history records.",
+        "zh": "司马懿统率讨伐辽东公孙渊的战役；明代肖像把这场征服与《晋书》记述的统帅生涯相连。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/晉書/卷001",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "司马懿",
+        "entryTitle": {
+          "en": "Sima Yi conquers Liaodong and executes Gongsun Yuan, recovering Lelang and Daifang",
+          "zh": "司马懿远征辽东斩公孙渊，收复辽东与乐浪、带方"
+        },
+        "entrySummary": {
+          "en": "Sima Yi conquers Liaodong and executes Gongsun Yuan, recovering Lelang and Daifang",
+          "zh": "司马懿远征辽东斩公孙渊，收复辽东与乐浪、带方"
+        },
+        "reviewedField": "title",
+        "reviewMethod": "Explicit reviewed subject/action list; no automatic keyword admission"
+      },
+      "assetId": "china-rebuild-sima-yi"
+    },
+    {
+      "recordId": "china-landmark-332",
+      "role": "named-person",
+      "context": {
+        "en": "Sima Yi’s siege of Xiangping ended the Gongsun regime in Liaodong. The later portrait identifies the commander responsible for the campaign.",
+        "zh": "司马懿围攻襄平，终结辽东公孙氏政权；后世肖像标识主持该战役的统帅。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/晉書/卷001",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "司马懿",
+        "entryTitle": {
+          "en": "Sima Yi leads a rapid campaign to conquer Liaodong and crush warlord Gongsun Yuan at Xiangping",
+          "zh": "太尉司马懿率四万军日行百里远征辽东，声东击西攻克襄平斩公孙渊"
+        },
+        "entrySummary": {
+          "en": "Sima Yi leads a rapid campaign to conquer Liaodong and crush warlord Gongsun Yuan at Xiangping",
+          "zh": "太尉司马懿率四万军日行百里远征辽东，声东击西攻克襄平斩公孙渊"
+        },
+        "reviewedField": "title",
+        "reviewMethod": "Explicit reviewed subject/action list; no automatic keyword admission"
+      },
+      "assetId": "china-rebuild-sima-yi"
+    },
+    {
+      "recordId": "china-landmark-489",
+      "role": "named-person",
+      "context": {
+        "en": "Sima Yi is the commander who moved south to relieve Fancheng, connecting this operation to his wider service under Wei.",
+        "zh": "司马懿是南下解樊城之围的统帅，这一行动属于其为魏效力的军事生涯。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/晉書/卷001",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "司马懿",
+        "entryTitle": {
+          "en": "Grand Commandant Sima Yi leads light cavalry south to relieve besieged Fancheng from Wu forces",
+          "zh": "东吴四路攻魏，太尉司马懿亲率轻骑疾驰南下解樊城之围"
+        },
+        "entrySummary": {
+          "en": "Grand Commandant Sima Yi leads light cavalry south to relieve besieged Fancheng from Wu forces",
+          "zh": "东吴四路攻魏，太尉司马懿亲率轻骑疾驰南下解樊城之围"
+        },
+        "reviewedField": "title",
+        "reviewMethod": "Explicit reviewed subject/action list; no automatic keyword admission"
+      },
+      "assetId": "china-rebuild-sima-yi"
+    },
+    {
+      "recordId": "china-event-sanguo-011",
+      "role": "named-person",
+      "context": {
+        "en": "Sima Yi seized control in Luoyang while Cao Shuang accompanied the emperor to the Gaoping tombs. The book’s critical verse adds a later judgment on his concentration of power.",
+        "zh": "曹爽陪皇帝谒高平陵时，司马懿夺取洛阳控制权；像册的批评性赞辞提供后世对其专权的评价。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/晉書/卷001",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "司马懿",
+        "entryTitle": {
+          "en": "Incident at the Gaoping Tombs; Sima Yi seizes power in Wei",
+          "zh": "高平陵之变，司马懿控制曹魏朝政"
+        },
+        "entrySummary": {
+          "en": "Incident at the Gaoping Tombs; Sima Yi seizes power in Wei",
+          "zh": "高平陵之变，司马懿控制曹魏朝政"
+        },
+        "reviewedField": "title",
+        "reviewMethod": "Explicit reviewed subject/action list; no automatic keyword admission"
+      },
+      "assetId": "china-rebuild-sima-yi"
+    },
+    {
+      "recordId": "china-landmark-333",
+      "role": "named-person",
+      "context": {
+        "en": "Sima Yi took Luoyang’s arsenals during the Gaoping coup. The Ming portrait and its verse connect this seizure to later judgments of his ambition.",
+        "zh": "高平陵政变中，司马懿控制洛阳武库；明代像与赞辞把这次夺权联系到后世对其野心的评价。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/晉書/卷001",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "司马懿",
+        "entryTitle": {
+          "en": "Gaoping Tombs Coup: Sima Yi seizes Luoyang arsenals while regent Cao Shuang is outside the city",
+          "zh": "高平陵之变：太傅司马懿乘曹爽陪魏帝祭高平陵闭城据武库"
+        },
+        "entrySummary": {
+          "en": "Gaoping Tombs Coup: Sima Yi seizes Luoyang arsenals while regent Cao Shuang is outside the city",
+          "zh": "高平陵之变：太傅司马懿乘曹爽陪魏帝祭高平陵闭城据武库"
+        },
+        "reviewedField": "title",
+        "reviewMethod": "Explicit reviewed subject/action list; no automatic keyword admission"
+      },
+      "assetId": "china-rebuild-sima-yi"
+    },
+    {
+      "recordId": "china-person-yuefei",
+      "role": "depicts-subject",
+      "context": {
+        "en": "The Ming portrait is itself evidence of Yue Fei’s later commemoration, complementing this biography’s distinction between the Song commander and later ideals of loyalty.",
+        "zh": "明代肖像本身就是岳飞后世纪念的例证，与本传区分宋代将领及后来忠诚观念的写法相呼应。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/宋史/卷365",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "岳飞",
+        "entryTitle": {
+          "en": "Yue Fei: a Song commander and the changing meaning of loyalty",
+          "zh": "岳飞：宋朝将领与忠诚含义的变化"
+        },
+        "entrySummary": {
+          "en": "Yue Fei entered the Song army in 1122 and rose through warfare against the Jurchen Jin and other armed opponents. His military service belonged to a divided political world in which the Southern Song court had to decide between continued fighting and negotiated survival. Recall and imprisonment in 1141 ended his command; he was executed the following year. Later temples, stories and political movements made him an enduring figure of loyalty. Historian Yue Du emphasizes that the state he served was the Song dynasty, while modern readers have given that loyalty changing national meanings. Keeping the commander beside his later reputation helps explain both a twelfth-century conflict and the uses of its memory.",
+          "zh": "岳飞1122年进入宋军，在对女真金朝及其他武装力量的战争中升任统帅。他所处的政治世界已经分裂，南宋朝廷需要在继续作战与议和求存之间作出选择。1141年被召回并入狱，结束了他的统军生涯，次年被处死。后来的祠庙、故事与政治活动不断把他塑造成忠诚典范。历史学者Yue Du强调，岳飞所效忠的国家是宋朝，而现代读者又为这种忠诚赋予不同的民族国家含义。将将领与后世声誉并读，有助于同时理解十二世纪冲突与历史记忆的用途。"
+        },
+        "reviewedField": "title",
+        "reviewMethod": "Explicit reviewed subject/action list; no automatic keyword admission"
+      },
+      "assetId": "china-rebuild-yue-fei"
+    },
+    {
+      "recordId": "china-landmark-502",
+      "role": "named-person",
+      "context": {
+        "en": "The Song history credits Yue Fei with repeated appeals to spare Qianzhou’s population. The Ming portrait shows the later veneration of the commander associated with this account.",
+        "zh": "《宋史》记岳飞多次请求保全虔州百姓；明代肖像呈现后世对这位将领的尊崇。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/宋史/卷365",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "岳飞",
+        "entryTitle": {
+          "en": "After pacifying rebels in Ganzhou, Yue Fei pleads with Emperor Gaozong to spare all townspeople",
+          "zh": "岳飞奉诏平定吉虔盗乱，力谏高宗勿屠虔州保全全城百姓"
+        },
+        "entrySummary": {
+          "en": "After pacifying rebels in Ganzhou, Yue Fei pleads with Emperor Gaozong to spare all townspeople",
+          "zh": "岳飞奉诏平定吉虔盗乱，力谏高宗勿屠虔州保全全城百姓"
+        },
+        "reviewedField": "title",
+        "reviewMethod": "Explicit reviewed subject/action list; no automatic keyword admission"
+      },
+      "assetId": "china-rebuild-yue-fei"
+    },
+    {
+      "recordId": "china-landmark-099",
+      "role": "named-person",
+      "context": {
+        "en": "Yue Fei’s command moved to Ezhou after the Xiangyang victories. The portrait commemorates the commander who made that base central to his operations.",
+        "zh": "襄阳战役后，岳飞移屯鄂州；肖像纪念把该基地用于军事行动的统帅。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/宋史/卷365",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "岳飞",
+        "entryTitle": {
+          "en": "Yue Fei garrisons his headquarters at Ezhou, forging the elite Yue Family Army to reclaim the North",
+          "zh": "岳飞凯旋驻节鄂州大本营，练成精锐“岳家军”经略中原"
+        },
+        "entrySummary": {
+          "en": "Yue Fei garrisons his headquarters at Ezhou, forging the elite Yue Family Army to reclaim the North",
+          "zh": "岳飞凯旋驻节鄂州大本营，练成精锐“岳家军”经略中原"
+        },
+        "reviewedField": "title",
+        "reviewMethod": "Explicit reviewed subject/action list; no automatic keyword admission"
+      },
+      "assetId": "china-rebuild-yue-fei"
+    },
+    {
+      "recordId": "china-landmark-395",
+      "role": "named-person",
+      "context": {
+        "en": "Yue Fei directed the recovery of Xiangyang and neighboring prefectures in 1134. The later seated portrait identifies the commander behind those operations.",
+        "zh": "岳飞于1134年统率收复襄阳及附近州郡的行动；后世坐像标识主持这些战事的将领。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/宋史/卷365",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "岳飞",
+        "entryTitle": {
+          "en": "Aged thirty-two, Yue Fei recaptures the six commanderies around Xiangyang in his first northern push",
+          "zh": "年三十二岁的岳飞首次北伐两月连克襄阳、信阳等荆襄六郡"
+        },
+        "entrySummary": {
+          "en": "Aged thirty-two, Yue Fei recaptures the six commanderies around Xiangyang in his first northern push",
+          "zh": "年三十二岁的岳飞首次北伐两月连克襄阳、信阳等荆襄六郡"
+        },
+        "reviewedField": "title",
+        "reviewMethod": "Explicit reviewed subject/action list; no automatic keyword admission"
+      },
+      "assetId": "china-rebuild-yue-fei"
+    },
+    {
+      "assetId": "china-rebuild-yue-fei",
+      "recordId": "china-landmark-394",
+      "role": "named-person",
+      "context": {
+        "en": "The Song history describes Yue Fei’s fighting near Niutou Mountain and recovery of Jiankang. The Ming portrait commemorates the commander associated with that campaign.",
+        "zh": "《宋史》记岳飞在牛头山附近作战并收复建康；明代肖像纪念主持该战役的将领。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/宋史/卷365",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "岳飞",
+        "entryTitle": {
+          "en": "Yue Fei ambushes Jin commander Wuzhu at Mt. Niutou and retakes Jiankang, steadying Southern Song",
+          "zh": "建康牛头山之战：岳飞设伏夜袭大破金兀术，收复建康"
+        },
+        "entrySummary": {
+          "en": "Yue Fei ambushes Jin commander Wuzhu at Mt. Niutou and retakes Jiankang, steadying Southern Song",
+          "zh": "建康牛头山之战：岳飞设伏夜袭大破金兀术，收复建康"
+        },
+        "reviewedField": "title",
+        "reviewMethod": "Explicit entry and Songshi passage at the fourth Jianyan year reviewed"
       }
     }
   ]

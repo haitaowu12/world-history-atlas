@@ -178,7 +178,8 @@ export function nearbyDiscoveryRecords(index,place,km=20) {
 export function createDiscovery({records=[],people=[],library={},manifest={},settlements=[],regions={},byId,getState,
   openDialog,openStory,openRoute,openPlace,onNavigate,media,mediaLoadFailed=false,escape:esc}={}) {
   const index=buildDiscoveryIndex({records,people,library,settlements}),getRecord=byId||((id)=>index.recordById.get(id));
-  let mode='person',query='',region='all',sort='regions',yearFilter=null,limit=48,portraitsOnly=false;
+  let mode='person',query='',region='all',sort='regions',yearFilter=null,limit=48;
+  let directoryReturn=null;
   const portraitFor=row=>media?.portrait(row.recordId||row.id)||media?.portrait(row.id);
   const personMedia=row=>media?.forRecord(row.recordId||row.id)||[];
   const lang=()=>getState?.().lang||'en',txt=(en,zh)=>lang()==='zh'?zh:en,loc=value=>localize(value,lang());
@@ -203,32 +204,34 @@ export function createDiscovery({records=[],people=[],library={},manifest={},set
     return `<button class="library-card discovery-card" data-action="${row.action}" data-id="${esc(row.id)}">${row.kind==='person'?mediaThumbnail(portraitFor(row),lang(),esc):''}<span class="eyebrow">${esc(regionName(row.region))}</span><strong>${esc(loc(row.name))}</strong>${context?`<span class="discovery-card-context">${esc(context.length>170?context.slice(0,169)+'…':context)}</span>`:''}<small class="discovery-card-meta">${caption} · ${row.recordIds.length} ${row.recordIds.length===1?txt('linked entry','条关联记录'):txt('linked entries','条关联记录')}</small>${row.kind==='person'?`<small>${biography?txt('Biography focus','生平文章关注时期'):txt('Reference span','参考年代')}: ${formatSpan(biography||row)}</small>`:''}</button>`;
   }
   function results() {
-    const matches=searchDiscovery(index,query,{kind:mode,region,year:yearFilter,sort,lang:lang()}).filter(row=>!portraitsOnly||mode!=='person'||portraitFor(row));
+    const matches=searchDiscovery(index,query,{kind:mode,region,year:yearFilter,sort,lang:lang()});
     return `<p class="library-result-count" role="status">${matches.length} ${mode==='person'?txt(matches.length===1?'person':'people','位人物'):txt(matches.length===1?'place reference':'place references','条地点参照')}${validYear(yearFilter)?` · ${formatYear(yearFilter,lang())}`:''}</p>${matches.length?`<div class="library-grid discovery-grid">${matches.slice(0,limit).map(card).join('')}</div>`:`<p class="collection-note">${txt('No matches with these filters. Try another name or select all regions and all history.','当前条件下没有匹配结果。请尝试其他名称，或选择所有地区与所有时期。')}</p>`}${matches.length>limit?`<button class="secondary-button library-more" data-action="discovery-more">${txt('Show more','显示更多')} · ${limit} / ${matches.length}</button>`:''}`;
   }
   function paintResults(){const element=document.querySelector('#discovery-results');if(element)element.innerHTML=results();}
   function showDirectory(next,options={}) {
+    directoryReturn=null;
     mode=next;query=options.query??'';region=REGIONS.includes(options.region)?options.region:'all';sort=options.sort||'regions';
-    yearFilter=validYear(options.year)?options.year:null;limit=48;portraitsOnly=next==='person'&&!!options.portraits;
+    yearFilter=validYear(options.year)?options.year:null;limit=options.limit??48;
     const isPerson=mode==='person',title=isPerson?txt('History, through human lives.','通过人生，走进历史。'):txt('Every place has many histories.','每一处地方，都有多重历史。');
     const intro=isPerson?txt('Explore biographies, dated episodes and related reading across the world. Search a name or an alias, or follow a region through time.','在同一个目录中探索世界各地的人物生平、年代节点与相关历史。搜索姓名和别名，或按地区与年代浏览。'):txt('Explore named places and the representative locations of historical entries. Open a place to read its history alongside other records nearby.','探索历史地名与各类历史条目的代表地点。打开一处地点，将其历史与附近其他记录一起阅读。');
-    openDialog(`<section class="discovery-directory"><p class="eyebrow">${isPerson?txt('People','人物'):txt('Places','地点')}</p><h2>${title}</h2><p>${intro}</p><div class="discovery-controls library-search"><label class="sr-only" for="discovery-search">${isPerson?txt('Search people','搜索人物'):txt('Search places','搜索地点')}</label><input id="discovery-search" type="search" maxlength="200" value="${esc(query)}" placeholder="${isPerson?txt('Names and aliases…','姓名与别名……'):txt('Places and historical names…','地点与历史地名……')}"><label class="sr-only" for="discovery-region">${txt('Directory region','目录地区')}</label><select id="discovery-region"><option value="all">${txt('All regions','所有地区')}</option>${REGIONS.map(id=>`<option value="${id}" ${region===id?'selected':''}>${esc(regionName(id))}</option>`).join('')}</select><label class="sr-only" for="discovery-sort">${txt('Browse order','浏览顺序')}</label><select id="discovery-sort">${[['regions','Across regions','跨地区浏览'],['chronological','Chronological','按年代'],['alphabetical','Alphabetical','按名称']].map(([id,en,zh])=>`<option value="${id}" ${sort===id?'selected':''}>${txt(en,zh)}</option>`).join('')}</select></div><div class="discovery-time-filter">${isPerson?`<label class="portrait-filter"><input type="checkbox" id="discovery-portraits" ${mediaLoadFailed?'disabled':''} ${portraitsOnly?'checked':''}>${txt('With portraits / depictions','含肖像或历史描绘')}</label>`:''}<button class="secondary-button" data-action="discovery-time" aria-pressed="${validYear(yearFilter)}">${validYear(yearFilter)?txt('At this time','此时此刻')+' · '+formatYear(yearFilter,lang()):txt('All history','所有时期')}</button>${validYear(yearFilter)&&!isPerson?`<small>${txt('Undated place references remain available. Dates describe entry focus periods, not continuous occupation.','未标年代的地点参照仍可检索。年代表示条目关注范围，不代表连续居住。')}</small>`:''}</div>${isPerson?`<p class="media-catalogue-note">${mediaLoadFailed?txt('The image catalogue could not load. Biographies and sources remain available.','图像目录未能加载，生平文章与来源仍可阅读。'):txt('Selected portraits and later depictions have image dates and source credits. A later image does not establish what someone looked like.','精选肖像与后世描绘均附图像年代及来源。后世图像不能据此确定人物的真实容貌。')}</p>`:''}<div id="discovery-results">${results()}</div></section>`,{wide:true,nav:isPerson?'people-nav':'places-nav'});
-    document.querySelector('#discovery-portraits')?.addEventListener('change',event=>{portraitsOnly=event.target.checked;limit=48;paintResults();});
+    openDialog(`<section class="discovery-directory"><p class="eyebrow">${isPerson?txt('People','人物'):txt('Places','地点')}</p><h2>${title}</h2><p>${intro}</p><div class="discovery-controls library-search"><label class="sr-only" for="discovery-search">${isPerson?txt('Search people','搜索人物'):txt('Search places','搜索地点')}</label><input id="discovery-search" type="search" maxlength="200" value="${esc(query)}" placeholder="${isPerson?txt('Names and aliases…','姓名与别名……'):txt('Places and historical names…','地点与历史地名……')}"><label class="sr-only" for="discovery-region">${txt('Directory region','目录地区')}</label><select id="discovery-region"><option value="all">${txt('All regions','所有地区')}</option>${REGIONS.map(id=>`<option value="${id}" ${region===id?'selected':''}>${esc(regionName(id))}</option>`).join('')}</select><label class="sr-only" for="discovery-sort">${txt('Browse order','浏览顺序')}</label><select id="discovery-sort">${[['regions','Across regions','跨地区浏览'],['chronological','Chronological','按年代'],['alphabetical','Alphabetical','按名称']].map(([id,en,zh])=>`<option value="${id}" ${sort===id?'selected':''}>${txt(en,zh)}</option>`).join('')}</select></div><div class="discovery-time-filter"><button class="secondary-button" data-action="discovery-time" aria-pressed="${validYear(yearFilter)}">${validYear(yearFilter)?txt('At this time','此时此刻')+' · '+formatYear(yearFilter,lang()):txt('All history','所有时期')}</button>${validYear(yearFilter)&&!isPerson?`<small>${txt('Undated place references remain available. Dates describe entry focus periods, not continuous occupation.','未标年代的地点参照仍可检索。年代表示条目关注范围，不代表连续居住。')}</small>`:''}</div>${isPerson?`<p class="media-catalogue-note">${mediaLoadFailed?txt('The image catalogue could not load. Biographies and sources remain available.','图像目录未能加载，生平文章与来源仍可阅读。'):txt('Selected portraits and later depictions have image dates and source credits. A later image does not establish what someone looked like.','精选肖像与后世描绘均附图像年代及来源。后世图像不能据此确定人物的真实容貌。')}</p>`:''}<div id="discovery-results">${results()}</div></section>`,{wide:true,nav:isPerson?'people-nav':'places-nav'});
     document.querySelector('#discovery-search')?.addEventListener('input',event=>{query=event.target.value;limit=48;paintResults();});
     document.querySelector('#discovery-region')?.addEventListener('change',event=>{region=event.target.value;limit=48;paintResults();});
     document.querySelector('#discovery-sort')?.addEventListener('change',event=>{sort=event.target.value;limit=48;paintResults();});
   }
   function backButton(next){return `<button class="text-button" data-action="discovery-back" data-id="${next}">← ${next==='person'?txt('People','人物'):txt('Places','地点')}</button>`;}
-  function person(id) {
+  function person(id,returnToDirectory=null) {
+    directoryReturn=returnToDirectory;
     const row=index.personById.get(id);if(!row)return false;
     const biography=row.recordId?getRecord(row.recordId):null,related=row.recordIds.filter(recordId=>recordId!==row.recordId);
     const eventSequence=personEventSequence(row,getRecord);
     const scope=biography?loc(biography.dateNote):txt('This person index links related texts. Its recorded span is inherited, and name-based associations do not establish personal presence at each location.','人物索引用于连接相关文字，所列年代沿用参考资料。姓名关联不能证明人物亲历了每个地点。');
-    openDialog(`${backButton('person')}<p class="eyebrow">${txt('Person','人物')} · ${esc(regionName(row.region))}</p><h2>${esc(loc(row.name))}</h2>${mediaFigures(personMedia(row),lang(),esc)}<p>${biography?txt('Biography focus','生平文章关注时期'):txt('Reference span','参考年代')}: ${formatSpan(biography||row)}</p>${row.summary?`<p>${esc(loc(row.summary))}</p>`:''}<p class="collection-note">${esc(scope)}</p><div class="button-row">${row.journeyIds.map(journeyId=>`<button class="primary-button" data-action="open-route" data-id="${esc(journeyId)}">${txt('Follow the journey on the map','在地图上探索行程')} ↗</button>`).join('')}${biography?.milestones?.length?`<button class="${row.journeyIds.length?'secondary-button':'primary-button'}" data-action="open-person-milestones" data-id="${esc(biography.id)}">${txt('Follow life events on the map','在地图上探索生平事件')} ↗</button>`:''}${eventSequence?`<button class="${row.journeyIds.length||biography?.milestones?.length?'secondary-button':'primary-button'}" data-action="open-route" data-id="${esc(eventSequence.id)}">${txt('Follow related events','探索相关事件')} · ${eventSequence.stops.length} ↗</button>`:''}${biography?`<button class="secondary-button" data-action="open-dialog-story" data-id="${esc(biography.id)}">${txt('Read the biography','阅读生平')} ↗</button>`:''}</div>${row.aliases.length?`<p class="location-caption">${txt('Names and aliases','姓名与别名')}: ${esc(row.aliases.join(' · '))}</p>`:''}<h3>${txt('Related history and mentions','相关历史与文字提及')} · ${related.length}</h3>${related.length?eventCards(related):`<p>${txt('No additional linked entry is recorded yet.','目前尚无其他关联条目。')}</p>`}${evidence({sources:biography?.sources||[],references:row.profiles,profileSpans:row.profiles.filter(profile=>profileInterval(profile)),note:row.profiles.length?txt('Related mentions come from the whole atlas. A source profile interval and a biography focus interval retain their separate meanings.','相关文字检索覆盖整个地图。原资料人物年代与生平文章的关注区间保留各自含义。'):''})}`,{wide:true,nav:'people-nav'});
+    openDialog(`${backButton('person')}<p class="eyebrow">${txt('Person','人物')} · ${esc(regionName(row.region))}</p><h2>${esc(loc(row.name))}</h2><p>${biography?txt('Biography focus','生平文章关注时期'):txt('Reference span','参考年代')}: ${formatSpan(biography||row)}</p><div class="button-row">${row.journeyIds.map(journeyId=>`<button class="primary-button" data-action="open-route" data-id="${esc(journeyId)}">${txt('Follow the journey on the map','在地图上探索行程')} ↗</button>`).join('')}${biography?.milestones?.length?`<button class="${row.journeyIds.length?'secondary-button':'primary-button'}" data-action="open-person-milestones" data-id="${esc(biography.id)}">${txt('Follow life events on the map','在地图上探索生平事件')} ↗</button>`:''}${eventSequence?`<button class="${row.journeyIds.length||biography?.milestones?.length?'secondary-button':'primary-button'}" data-action="open-route" data-id="${esc(eventSequence.id)}">${txt('Follow related events','探索相关事件')} · ${eventSequence.stops.length} ↗</button>`:''}${biography?`<button class="secondary-button" data-action="open-dialog-story" data-id="${esc(biography.id)}">${txt('Read the biography','阅读生平')} ↗</button>`:''}</div>${row.summary?`<p>${esc(loc(row.summary))}</p>`:''}<p class="collection-note">${esc(scope)}</p>${mediaFigures(personMedia(row),lang(),esc)}${row.aliases.length?`<p class="location-caption">${txt('Names and aliases','姓名与别名')}: ${esc(row.aliases.join(' · '))}</p>`:''}<h3>${txt('Related history and mentions','相关历史与文字提及')} · ${related.length}</h3>${related.length?eventCards(related):`<p>${txt('No additional linked entry is recorded yet.','目前尚无其他关联条目。')}</p>`}${evidence({sources:biography?.sources||[],references:row.profiles,profileSpans:row.profiles.filter(profile=>profileInterval(profile)),note:row.profiles.length?txt('Related mentions come from the whole atlas. A source profile interval and a biography focus interval retain their separate meanings.','相关文字检索覆盖整个地图。原资料人物年代与生平文章的关注区间保留各自含义。'):''})}`,{wide:true,nav:'people-nav'});
     onNavigate?.({kind:'person',id:row.id});
     return true;
   }
-  function place(id) {
+  function place(id,returnToDirectory=null) {
+    directoryReturn=returnToDirectory;
     const row=index.placeById.get(id);if(!row)return false;
     const nearby=nearbyDiscoveryRecords(index,row),names=settlements.filter(reference=>nearLibraryPlace(row,reference,20)).sort((a,b)=>a.start-b.start||a.id.localeCompare(b.id));
     const references=index.referencePlaces.filter(reference=>nearLibraryPlace(row,reference,20)),notes=references.filter(reference=>reference.description||reference.summary);
@@ -241,11 +244,26 @@ export function createDiscovery({records=[],people=[],library={},manifest={},set
     switch(action){
       case 'discovery-people':showDirectory('person');break;
       case 'discovery-places':showDirectory('place');break;
-      case 'discovery-person':return person(id);
-      case 'discovery-place':return place(id);
-      case 'discovery-back':showDirectory(id==='person'?'person':'place',{query,region,sort,year:yearFilter,portraits:portraitsOnly});break;
+      case 'discovery-person':
+      case 'discovery-place':{
+        const directory=document.querySelector('#dialog[open]:has(#discovery-results)');
+        const previous=directory?{id,scroll:directory.scrollTop}:null;
+        return action==='discovery-person'?person(id,previous):place(id,previous);
+      }
+      case 'discovery-back':{
+        const previous=directoryReturn;
+        const next=id==='person'?'person':'place';
+        showDirectory(next,previous?{query,region,sort,year:yearFilter,limit}:{});
+        if(previous){
+          document.querySelector('#dialog').scrollTop=previous.scroll;
+          const card=[...document.querySelectorAll('#discovery-results .discovery-card')].find(el=>el.dataset.id===previous.id);
+          card?.focus({preventScroll:true});
+          card?.scrollIntoView({block:'nearest',behavior:'instant'});
+        }
+        break;
+      }
       case 'discovery-more':limit+=48;paintResults();break;
-      case 'discovery-time':showDirectory(mode,{query,region,sort,year:validYear(yearFilter)?null:getState().year,portraits:portraitsOnly});break;
+      case 'discovery-time':showDirectory(mode,{query,region,sort,year:validYear(yearFilter)?null:getState().year});break;
       case 'discovery-locate':{const row=index.placeById.get(id);if(!row)return false;openPlace({...row.location,label:loc(row.name)});break;}
       default:return false;
     }return true;

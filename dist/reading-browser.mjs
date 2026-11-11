@@ -19,7 +19,7 @@ export function createReadingBrowser({paths,getLanguage,openDialog,escape:esc,re
   document.querySelector('#reading-reset').hidden=unfiltered;
   document.querySelector('#reading-count').textContent=text(`${matching.length} of ${all.length} readings`,`${all.length}篇中显示${matching.length}篇`);
   document.querySelector('#reading-results').innerHTML=matching.length?
-   `${recommended.length?`<section aria-labelledby="reading-start"><h3 id="reading-start">${text('Start here','从这里开始')}</h3><div class="journey-grid reading-featured">${recommended.map(p=>card(p,true)).join('')}</div></section><h3>${text('Explore the collection','探索全部阅读')}</h3>`:''}<div class="journey-grid">${rest.map(p=>card(p)).join('')}</div>`:
+   `${recommended.length?`<section aria-labelledby="recommended-readings"><h3 id="recommended-readings">${text('Start here','从这里开始')}</h3><div class="journey-grid reading-featured">${recommended.map(p=>card(p,true)).join('')}</div></section><h3>${text('Explore the collection','探索全部阅读')}</h3>`:''}<div class="journey-grid">${rest.map(p=>card(p)).join('')}</div>`:
    `<p class="reading-empty">${text('No readings match these filters. Try a different topic or a longer reading time.','没有符合筛选的阅读。可尝试其他主题或更长的阅读时间。')}</p>`;
  }
  function show(tabs){
@@ -28,7 +28,7 @@ export function createReadingBrowser({paths,getLanguage,openDialog,escape:esc,re
   form.addEventListener('submit',event=>event.preventDefault());
   const update=()=>{filters.query=document.querySelector('#reading-query').value;filters.region=document.querySelector('#reading-region').value;filters.theme=document.querySelector('#reading-theme').value;filters.minutes=document.querySelector('#reading-minutes').value;savedScroll=0;selectedId='';renderResults();};
   document.querySelector('#reading-query').addEventListener('input',update);
-  form.addEventListener('change',update);
+  form.addEventListener('change',event=>{if(event.target.matches('select'))update();});
   document.querySelector('#reading-reset').addEventListener('click',()=>{
    document.querySelector('#reading-query').value='';for(const id of ['region','theme','minutes'])document.querySelector('#reading-'+id).value='all';update();dialog().scrollTop=0;document.querySelector('#reading-query').focus({preventScroll:true});
   });

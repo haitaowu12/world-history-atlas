@@ -71,3 +71,14 @@ Added five Met Open Access objects for Benin, Moche, Olmec, Chola and Kushan his
 Reading cleanup is presentation-only: 966 repeated generic dating notes become one concise sentence; 979 entries group dataset/topic repository links separately from historical reading; six exactly matched bilingual review-scope templates are shortened across 166 entries. Source evidence moves into labelled native disclosures. Successful retrieval narration is omitted, while indexed-excerpt limits, disputed dates, retrospective speeches/army counts and shared evidence remain. Frozen source text and citations are unchanged. A duplicate-fact guard is tested, but no current-entry removal count is claimed. The gallery now interleaves image kinds so objects and documents appear alongside portraits.
 
 Validation: all **345 tests pass**, zero failures or skips; `git diff --check` is clean. Browser acceptance remains pending under the checkpoint 3 connection limitation. Previous durable review checkpoint: `3a88d93269723950d9dab7a4acdb0193a27952f2`. Main and Actions are unchanged; no release or deployment.
+
+
+### Reconstruction checkpoint 5
+
+Integrated the four reviewed China shard-02 images (Taizong, Sun Quan, Sima Yi and Yue Fei) and 29 explicit new entry associations. The ledgers preserve later-image dates and avoid treating those portraits as contemporary event scenes. Total: **72 assets / 138 of 2,084 unique entries (6.62%)**. The target remains 1,042 entries and is not met.
+
+Reconciled main through the isolated interface hotfix `5e610c8dd7b4f21b41a5d699a9b6399dc28ca6cb`, preserving both refreshed README files, live preview image, loading-state accessibility and directory-return improvements. Kept the V18 Images navigation while resolving the single HTML merge conflict. The fixed war-map control positioning and removal of the portrait-only filter are now also present in this review work.
+
+`npm run check` passed **347 tests**, no failures or skips. The real shared Chrome preview now works via the desktop's ordinary terminal server. At 500 CSS-pixel width, the 72-image collection, Cao Cao/Zhuge Liang guided comparison, observation reveal, loaded images and source credits were inspected without horizontal overflow. The new Taizong image loads in the collection and its linked biography, retains Ming image dating and the 1748 remounting distinction, and switches to Chinese title/alt text. Keyboard magnification increased from 100% to 125% with image width changing from 385 to 481.25 pixels. The isolated production hotfix had separate 1168/700/500-width and bilingual directory browser checks; these checks are not a claim that all V18 content is release-ready.
+
+The prior checkpoint is durably saved at `1ec53faba0c43237530c307ab28c621003d2dd78`. Main promotion and Firebase publication remain separate from this V18 review save. No Actions are used.

@@ -2682,11 +2682,18 @@
         "sha256": "50b8726e424c2b4b5985b34c0f53265f104c4b784c6d9a62135a58a0693d0c81",
         "assets": 5,
         "associations": 43
+      },
+      {
+        "file": "visual-assets-china-rebuild-02-v18.json",
+        "bytes": 54945,
+        "sha256": "edc3917271f6f7f7175f5095a217c68d9012ab3cc2fdc3d3fa7c1872e0a03efc",
+        "assets": 4,
+        "associations": 29
       }
     ],
     "coverageFile": "visual-coverage-v18.json",
-    "assets": 68,
-    "covered": 109,
+    "assets": 72,
+    "covered": 138,
     "total": 2084,
     "target": 1042
   }
