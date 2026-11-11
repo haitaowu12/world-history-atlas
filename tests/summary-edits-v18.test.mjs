@@ -7,8 +7,8 @@ import {loadAtlasRecords,readAtlasData} from '../scripts/lib/atlas-records.mjs';
 const manifest=readAtlasData('content-expansion-v18.json'),edits=readAtlasData(manifest.summaryEditsFile);
 const original=loadAtlasRecords({...manifest,summaryEditsFile:null}).records;
 const revised=loadAtlasRecords(manifest).records;
-test('sixty-one summary edits preserve every historical field and source',()=>{
- assert.equal(edits.items.length,61);assert.deepEqual(revised.map(r=>r.id),original.map(r=>r.id));
+test('eighty-six summary edits preserve every historical field and source',()=>{
+ assert.equal(edits.items.length,86);assert.deepEqual(revised.map(r=>r.id),original.map(r=>r.id));
  const targets=new Set(edits.items.map(e=>e.recordId));
  for(let i=0;i<original.length;i++){
   const before=original[i],after=revised[i];
@@ -43,4 +43,15 @@ test('browser and command-line assembly share the same summary-only overlay',()=
  const app=fs.readFileSync(new URL('../dist/app.mjs',import.meta.url),'utf8');
  const node=fs.readFileSync(new URL('../scripts/lib/atlas-records.mjs',import.meta.url),'utf8');
  for(const source of [app,node]){assert.match(source,/applySummaryEdits\(applyPlaceLabelTranslations/);assert.match(source,/summaryEditsFile/);}
+});
+test('fourth prose pass retains material caveats and specific historical distinctions',()=>{
+ const byId=new Map(revised.map(r=>[r.id,r]));
+ const get=id=>byId.get(id).summary;
+ assert.match(get('lapita-teouma-community').en,/probably arrived/);assert.match(get('lapita-teouma-community').en,/marine foods affect/);
+ assert.match(get('samarkand-observatory').en,/1424/);assert.match(get('samarkand-observatory').en,/1437/);assert.match(get('samarkand-observatory').en,/Qadi Zada, al-Kashi and Ulugh Beg/);
+ assert.match(get('singapore-trading-post-treaty').en,/Sultan Hussein Shah and Temenggong Abdul Rahman/);assert.match(get('singapore-trading-post-treaty').en,/1824.*unequal conditions/);
+ assert.match(get('hangul-promulgation').en,/1443.*1446/);assert.match(get('hangul-promulgation').en,/did not instantly replace/);assert.doesNotMatch(get('hangul-promulgation').en,/script widened/);
+ assert.match(get('indonesian-independence').en,/experiences varied across the archipelago/);assert.match(get('indonesian-independence').zh,/群岛各地经历各异/);
+ assert.match(get('vietnam-hoi-an-ceramic-cargo').en,/not a proven itinerary/);assert.match(get('vietnam-hoi-an-ceramic-cargo').en,/do not establish a single exact sinking year/);
+ assert.match(get('vanuatu-sand-drawing-knowledge').en,/possible returns/);
 });

@@ -324,3 +324,11 @@ A sixty-first summary-only edit removes Edo’s generic concluding lesson while 
 Final validation: **446 checks passed**, zero failures or skips. Chrome verified both new photographs at their expected dimensions, the English and Chinese contextual captions, the revised Edo prose in both languages, the 409-image / 795-entry gallery count, and no horizontal overflow at the existing 485-pixel content width. The integrated timeline remains intact.
 
 Checkpoint 27 is remotely saved as `3b0557cc4ea8953f24d6f3dcb5c1e59efcabdffc`, tree `5e95fe22011797f8d14327f37bf2989146109943`, matching local `6f1f97b`; ref/tree and zero Actions runs were verified. This is further review work, not a production release.
+
+### Reconstruction checkpoint 29
+
+Twenty-five more bilingual summaries remove repetitive reading instructions and closing recaps, bringing the separate summary-only overlay to **86 entries**. The selected prose is 3,709 characters shorter (16.8%). All historical fields and source lists remain unchanged. Hangul’s generic concluding sentence was deleted instead of strengthening “can widen” to a causal assertion; its design dates, twenty-eight letters and gradual adoption remain. Samarkand keeps named collaborators and separate construction/publication dates. Indonesian regional diversity, Teouma’s isotope/dating limits, Hội An’s uncertain itinerary and object dates, and community return discussions all remain.
+
+Final validation: **447 checks passed**, zero failures or skips. A baseline-only comparison initially rejected the first edited V18-only object story; it now explicitly applies only baseline-targeted edits in that comparison, verifies every other target is a V18 addition, and leaves full-record overlay preservation testing intact. Chrome verified Hangul, Samarkand and Hội An in English and Chinese, the existing Hội An image’s decoded dimensions, and no horizontal overflow at the current 485-pixel content width. No test threshold was weakened.
+
+Image coverage remains **409 images / 795 of 2,087 unique entries (38.09%)**; the half-entry target is not yet met. Checkpoint 28 is remotely saved as `f5f1d5dab7fc04bb2552d8f964f3c8402e4819c8`, tree `1ebbeb98a1215879c89e462c9c7e05396819b15a`, matching local `2e53d6e`. Ref/tree and zero Actions runs were verified. No publication is claimed.
