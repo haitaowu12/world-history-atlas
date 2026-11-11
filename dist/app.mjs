@@ -7,6 +7,7 @@ import {periodTracks,chinaTransitions,chinaTransitionSource,chinaCourtSequences}
 import {warYears,warMapFollowup} from './war-map.mjs';
 import {compactPoliticalTimeline} from './compact-timeline.mjs?v=3';
 import {createAtlasMotion} from './ui-motion.mjs?v=1';
+import {timelineStep,playbackDelay} from './timeline-playback.mjs?v=1';
 import {buildReadingCatalog,readingRange} from './reading-catalog.mjs?v=2';
 import {createReadingBrowser} from './reading-browser.mjs?v=3';
 import {traceForHash,traceFromHash,sharedMilestone,milestoneFromHash} from './share-context.mjs?v=1';
@@ -64,7 +65,7 @@ const yearFrames=createFrameQueue(year=>setYear(year),callback=>requestAnimation
 const compactViewportQuery=matchMedia('(max-width:900px)');compactViewportQuery.addEventListener('change',()=>{positionReadingControls();if(records.length)renderCompactChronology();});
 const motionPreference=matchMedia('(prefers-reduced-motion:reduce)');
 let reducedMotion=motionPreference.matches;
-motionPreference.addEventListener('change',event=>{reducedMotion=event.matches;});
+motionPreference.addEventListener('change',event=>{reducedMotion=event.matches;if(reducedMotion)stopPlayback();});
 const uiMotion=createAtlasMotion(motionPreference);
 const t=key=>translations[state.lang][key]||translations.en[key]||key,localized=v=>typeof v==='string'?v:v?.[state.lang]||v?.en||'',regionName=id=>localized(REGIONAL[id]?.name)||id,themeName=id=>themes[id]?.[state.lang==='zh'?1:0]||id,byId=id=>recordIndex.get(id),colorFor=r=>REGIONAL[r.region]?.color||colors[r.theme]||'#6e856e';
 const sourceLink=s=>`<a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">${esc(s.title)} ↗</a><small>${esc(s.publisher||'')}</small>${sourceNoteHTML(s,state.lang,esc)}`;
@@ -122,7 +123,7 @@ function applyLanguage(){
  $('#era option[value=ce]').textContent=state.lang==='en'?'CE':'公元';$('#era option[value=bce]').textContent=state.lang==='en'?'BCE':'前';
  $('#timeline-ticks').innerHTML=TIME_ANCHORS.map(year=>`<button data-action="year" data-year="${year}">${year===1?(state.lang==='zh'?'公元1年':'1 CE'):year<0?`${Math.abs(year).toLocaleString()} ${state.lang==='zh'?'前':'BCE'}`:year}</button>`).join('');
  $('#stories-close').setAttribute('aria-label',t('closeStories'));
- $('#play').setAttribute('aria-label',t(timer?'stopPlayback':'playTimeline'));
+ refreshPlaybackControls();
  renderLayerMenu();
 }
 function render(){
@@ -149,7 +150,7 @@ function render(){
  $('#timeline-slider').value=sliderFromYear(state.year);$('#timeline-slider').style.setProperty('--time-progress',`${sliderFromYear(state.year)/80}%`);$('#timeline-slider').setAttribute('aria-valuetext',formatYear(state.year,state.lang));$('#year-input').value=Math.abs(state.year);$('#year-input').max=state.year<0?String(-MIN_YEAR):String(MAX_YEAR);$('#era').value=state.year<0?'bce':'ce';
  $('#era-rail').innerHTML=ERAS.map(e=>`<button class="era-button ${e.id===era.id?'active':''}" data-action="year" data-year="${e.year}" aria-pressed="${e.id===era.id}">${esc(localized(e.short))}</button>`).join('');
  const rail=$('#era-rail');if(width<700&&rail.dataset.activeEra!==era.id){const active=rail.querySelector('.active');if(active)rail.scrollLeft=active.offsetLeft-rail.offsetLeft-(rail.clientWidth-active.offsetWidth)/2;rail.dataset.activeEra=era.id;}
- $('#atlas-count').textContent=`${records.length} ${t('records')} · ${politicalTimelineRecords(records).length} ${state.lang==='zh'?'条政权概述':'state overviews'}`;$('#timeline-label').textContent=state.lang==='zh'?'非均匀时间刻度':'Uneven time scale';$('#compare-button').textContent=`${t('compare')}${state.compare.length?' ('+state.compare.length+'/2)':''}`;
+ $('#atlas-count').textContent=`${records.length} ${t('records')} · ${politicalTimelineRecords(records).length} ${state.lang==='zh'?'条政权概述':'state overviews'}`;refreshPlaybackControls();$('#compare-button').textContent=`${t('compare')}${state.compare.length?' ('+state.compare.length+'/2)':''}`;
  renderTerritories();renderMarkers();regionalExplorer?.render();renderRoutes();renderDetail();renderJourney();renderCompactChronology();renderReadingStart();renderMoments();renderChallenge();readingPane.scrollTop=readingScroll;updateURL();
 }
 function countryMatches(query){
@@ -527,10 +528,11 @@ function renderChinaMapDetail(){
  places.select('text').text(d=>d.name);
 }
 function placeDetail(location){const items=nearbyHistories(records,location);return `<div class="detail-region">${t('throughTime')}</div><h2 tabindex="-1">${t('tracePlace')}</h2><p class="location-caption">${esc(localized(location.labelI18n)||location.label||'')} · ${location.lat.toFixed(2)}°, ${location.lon.toFixed(2)}°</p>${location.inheritedPlace?`<div class="detail-note"><strong>${state.lang==='zh'?'历史地名参照':'Historical place reference'}</strong>${esc(localized(location.inheritedPlace.remark))}<p>${state.lang==='zh'?'来源展示时段，并非建城年代或连续都城地位：':'Source display window, not a founding date or continuous capital status: '}${formatPeriod(location.inheritedPlace,state.lang)}</p></div>`:''}<p class="detail-body">${t('traceIntro')}</p><div class="place-history">${items.map(({record:r,km})=>`<button data-action="select" data-id="${r.id}" style="--region-color:${colorFor(r)}"><strong>${esc(localized(r.title))}</strong><span>${esc(formatPeriod(r,state.lang))} · ${Math.round(km)} km</span></button>`).join('')||`<p class="location-caption">${t('traceEmpty')}</p>`}</div>`;}
-function stopPlayback(){if(timer){clearInterval(timer);timer=null;}$('#play').textContent='▶';$('#play').setAttribute('aria-label',t('playTimeline'));}
+function refreshPlaybackControls(){const step=timelineStep(state.year,historicalMoments(),state.lang),zh=state.lang==='zh';$('#play').textContent=timer?(zh?'暂停':'Pause'):(zh?'播放':'Play');$('#play').setAttribute('aria-label',t(timer?'stopPlayback':'playTimeline'));$('#play').setAttribute('aria-pressed',String(Boolean(timer)));for(const [id,label,year] of [['previous-time',step.previousLabel,step.previous],['next-time',step.nextLabel,step.next]]){const button=$('#'+id);button.setAttribute('aria-label',label);button.title=label;button.disabled=year===undefined;}$('#playback-pace-label').textContent=zh?'每个时点的停留时间':'Pause between moments';$('#playback-pace').title=zh?'每个时点的停留时间（秒）':'Seconds to read each moment';$('#timeline-label').textContent=step.hint;$('#timeline-label').title=step.detail;$('#timeline-scale-note').textContent=zh?'时间间隔不等':'Uneven time steps';$('#timeline-slider').title=zh?'非均匀时间刻度':'Uneven time scale';}
+function stopPlayback(){if(timer){clearInterval(timer);timer=null;}refreshPlaybackControls();}
 function historicalMoments(){return [...new Set([MIN_YEAR,MAX_YEAR,...snapshotData.snapshots.map(s=>s.year),...records.filter(r=>inferKind(r)==='event'&&(r.importance||3)>=4).map(r=>r.start)])].sort((a,b)=>a-b);}
-function stepTime(direction,fromPlayback=false){const moments=historicalMoments(),next=direction>0?moments.find(x=>x>state.year):moments.toReversed().find(x=>x<state.year);if(next===undefined){stopPlayback();return false;}setYear(next,{fromPlayback});return true;}
-function playTimeline(){if(timer){stopPlayback();return;}clearPaths();clearSelection();challenge=null;state.mode='year';if(state.year===MAX_YEAR)state.year=MIN_YEAR;render();$('#play').textContent='Ⅱ';$('#play').setAttribute('aria-label',t('stopPlayback'));timer=setInterval(()=>stepTime(1,true),3000);}
+function stepTime(direction,fromPlayback=false){const step=timelineStep(state.year,historicalMoments(),state.lang),next=direction>0?step.next:step.previous;if(next===undefined){stopPlayback();return false;}setYear(next,{fromPlayback});if(fromPlayback&&timelineStep(state.year,historicalMoments(),state.lang).next===undefined)stopPlayback();return true;}
+function playTimeline(){if(timer){stopPlayback();return;}clearPaths();clearSelection();challenge=null;state.mode='year';if(state.year===MAX_YEAR)state.year=MIN_YEAR;render();timer=setInterval(()=>stepTime(1,true),playbackDelay($('#playback-pace').value));refreshPlaybackControls();}
 function routeStops(r){return (r.stops||[]).map((s,i)=>({...s,id:s.id||`stop-${i}`,lat:s.lat??s.location?.lat,lon:s.lon??s.location?.lon,label:s.label||s.title||s.location?.label||'',description:s.description||s.summary||{en:'',zh:''}}));}
 function personStops(r){return (r.milestones||[]).map((m,i)=>({...m,id:`${r.id}-${i}`,label:m.title,lat:m.location.lat,lon:m.location.lon}));}
 function routeLines(r,stops){if(Array.isArray(r.legs))return r.legs.map(leg=>{const a=typeof leg.from==='number'?stops[leg.from]:stops.find(s=>s.id===leg.from),b=typeof leg.to==='number'?stops[leg.to]:stops.find(s=>s.id===leg.to);return a&&b?{a,b}:null;}).filter(Boolean);if(r.kind==='network')return [];return stops.slice(1).map((s,i)=>({a:stops[i],b:s}));}
@@ -700,7 +702,9 @@ function wireEvents(){
  $('#timeline-slider').addEventListener('input',event=>yearFrames.queue(yearFromSlider(event.target.value)));
  $('#timeline-slider').addEventListener('keydown',event=>{const steps={ArrowLeft:-1,ArrowDown:-1,ArrowRight:1,ArrowUp:1,PageDown:-100,PageUp:100};if(Object.hasOwn(steps,event.key)){event.preventDefault();setYear(addYears(state.year,steps[event.key]*(event.shiftKey?10:1)));}else if(event.key==='Home'||event.key==='End'){event.preventDefault();setYear(event.key==='Home'?MIN_YEAR:MAX_YEAR);}});
  $('#year-form').addEventListener('submit',event=>{event.preventDefault();const raw=$('#year-input').value.trim(),magnitude=Number(raw),year=$('#era').value==='bce'?-magnitude:magnitude;if(!/^\d+$/.test(raw)||magnitude<=0||!validYear(year)){toast(t('invalidYear'));return;}setYear(year);});$('#era').addEventListener('change',()=>$('#year-input').max=$('#era').value==='ce'?String(MAX_YEAR):String(-MIN_YEAR));
+ document.addEventListener('visibilitychange',()=>{if(document.hidden&&timer)stopPlayback();});
  $('#play').addEventListener('click',playTimeline);$('#previous-time').addEventListener('click',()=>stepTime(-1));$('#next-time').addEventListener('click',()=>stepTime(1));
+ $('#playback-pace').addEventListener('change',()=>{if(timer){clearInterval(timer);timer=setInterval(()=>stepTime(1,true),playbackDelay($('#playback-pace').value));}refreshPlaybackControls();});
  $('#language').addEventListener('click',async event=>{stopPlayback();const button=event.currentTarget,previous=state.lang,target=previous==='en'?'zh':'en';button.disabled=true;try{if(target==='zh')await ensureChineseSourceNotes();if(state.lang!==previous)return;state.lang=target;applyLanguage();render();}finally{button.disabled=false;}});
  $('#zoom-in').addEventListener('click',()=>zoomBy(1.5));$('#zoom-out').addEventListener('click',()=>zoomBy(1/1.5));$('#zoom-reset').addEventListener('click',resetMap);$('#world-reset').addEventListener('click',()=>{resetMap();state.region='all';render();});
  $('#layer-menu-button').addEventListener('click',()=>{const open=$('#layer-menu').hidden;$('#layer-menu').hidden=!open;$('#layer-menu-button').setAttribute('aria-expanded',String(open));if(open)$('#layer-menu button')?.focus();});
