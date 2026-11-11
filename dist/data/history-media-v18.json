@@ -14756,6 +14756,72 @@
       }
     },
     {
+      "id": "china-batch-13-ayusi-1755",
+      "file": "assets/history-media/china-batch-13-ayusi-1755.jpg",
+      "recordIds": [
+        "china-event-qing-018"
+      ],
+      "title": {
+        "en": "Ayusi remembered after the 1755 Ili campaign",
+        "zh": "1755年伊犁战役后的阿玉锡形象"
+      },
+      "alt": {
+        "en": "A mounted soldier carries a long lance across a pale handscroll, between imperial calligraphy, red seals and a written account.",
+        "zh": "浅色手卷中，骑兵持长矛策马，左右有御题书法、红色印章与文字叙述。"
+      },
+      "caption": {
+        "en": "Giuseppe Castiglione painted Ayusi in 1755 after his raid on Dawachi’s camp. The Qianlong emperor’s accompanying text presents the soldier’s achievement from the Qing court’s viewpoint. This is a commemorative court portrait, not an eyewitness image of combat.",
+        "zh": "郎世宁于1755年阿玉锡袭击达瓦齐营地后奉命绘像。乾隆帝的配文从清廷角度表彰战功。这是纪功宫廷肖像，并非战场实录。"
+      },
+      "interpretation": {
+        "en": "The rider stands out against an empty ground, framed by imperial writing. Portrait and praise turn military service into an image of merit, showing how the Qing court commemorated this campaign.",
+        "zh": "空白背景突出骑者，御题文字环绕其侧。肖像与赞词把军旅经历塑造成受表彰的功勋，显示清廷如何纪念这场战役。"
+      },
+      "creator": "Giuseppe Castiglione (Lang Shining); imperial inscriptions by the Qianlong emperor",
+      "date": "1755; court portrait commissioned after the campaign",
+      "institution": "National Palace Museum, Taipei; 故畫00109900000",
+      "kind": "portrait",
+      "representation": "lifetime-portrait",
+      "checkedAt": "2026-11-11",
+      "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/3765?dep=P",
+      "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001099N000000000SDAAA/full/!3000,3000/0/default.jpg",
+      "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001099N000000000SDAAA/full/!3000,3000/0/default.jpg",
+      "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/3765?dep=P",
+      "rights": {
+        "label": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/",
+        "note": {
+          "en": "清郎世寧畫阿玉錫持矛盪寇圖 卷。國立故宮博物院，臺北，CC BY 4.0 @ www.npm.gov.tw",
+          "zh": "清郎世寧畫阿玉錫持矛盪寇圖 卷。國立故宮博物院，臺北，CC BY 4.0 @ www.npm.gov.tw"
+        }
+      },
+      "width": 3000,
+      "height": 412,
+      "bytes": 186276,
+      "sha256": "b2a615d624b2557f9c2967292d36ca37da442371a962e794eec554abe44069fb",
+      "format": "jpeg",
+      "transformation": {
+        "en": "Official IIIF whole-scroll image resized by the source service to 3000 pixels wide; no local crop, retouching or conversion.",
+        "zh": "馆方IIIF整卷图由来源服务缩放至3000像素宽；未在本地裁切、修饰或转换。"
+      },
+      "retrieval": "Source text, inscription, IIIF manifest, image receipt, original target and editorial review are preserved in docs/v18-china-batch-13-evidence.json.",
+      "contextSources": [],
+      "metadataI18n": {
+        "date": {
+          "en": "1755; court portrait commissioned after the campaign",
+          "zh": "1755年；战役后奉命绘制的宫廷肖像"
+        },
+        "creator": {
+          "en": "Giuseppe Castiglione (Lang Shining); imperial inscriptions by the Qianlong emperor",
+          "zh": "郎世宁绘；乾隆帝题字"
+        },
+        "institution": {
+          "en": "National Palace Museum, Taipei; 故畫00109900000",
+          "zh": "国立故宫博物院，台北；故画00109900000"
+        }
+      }
+    },
+    {
       "id": "china-culture-12-night-revels-ming-garden",
       "file": "assets/history-media/china-culture-12-night-revels-ming-garden.jpg",
       "recordIds": [
@@ -15569,6 +15635,168 @@
         "institution": {
           "en": "Palace Museum, Beijing",
           "zh": "北京故宫博物院"
+        }
+      }
+    },
+    {
+      "id": "oceania-awm-p00670-001",
+      "recordIds": [
+        "australian-federation"
+      ],
+      "kind": "photograph",
+      "representation": "historical-photograph",
+      "title": {
+        "en": "A French Arch for Federation",
+        "zh": "联邦庆典中的法国拱门"
+      },
+      "alt": {
+        "en": "A crowded procession passes beneath a decorated arch reading “France welcomes Australian Federation”; flags hang across the street.",
+        "zh": "拥挤的游行队伍经过写有“法国欢迎澳大利亚联邦成立”的装饰拱门，街道上方悬挂旗帜。"
+      },
+      "caption": {
+        "en": "Sydney, 1901. A photograph of Federation celebrations beneath the French Arch, preserved as a film copy negative.",
+        "zh": "悉尼，1901年。法国拱门下的联邦成立庆祝活动；馆藏为翻拍底片。"
+      },
+      "interpretation": {
+        "en": "The temporary arch and crowded street made Federation a public spectacle. The ceremony celebrated national unity while the founding arrangements excluded First Nations peoples.",
+        "zh": "临时拱门与拥挤街道把联邦成立变成公共盛典。仪式庆祝国家团结，建国安排却仍排斥原住民。"
+      },
+      "creator": "Photographer unidentified",
+      "date": "1901",
+      "institution": "Australian War Memorial",
+      "credit": "Australian War Memorial, P00670.001",
+      "sourceUrl": "https://www.awm.gov.au/collection/C38131",
+      "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/P00670.001/screen/3904203.JPG",
+      "rightsSourceUrl": "https://www.awm.gov.au/collection/C38131",
+      "rights": {
+        "label": "Public domain",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "note": {
+          "en": "The item record marks this photograph public domain. The Memorial’s copyright policy explicitly permits copying and reproducing images in this category without permission.",
+          "zh": "单件记录将这张照片标为公有领域。纪念馆版权政策明确允许无需许可复制及再版此类图像。"
+        }
+      },
+      "width": 640,
+      "height": 499,
+      "file": "assets/history-media/oceania-awm-p00670-001.jpg",
+      "downloadedFrom": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/P00670.001/screen/3904203.JPG",
+      "bytes": 238574,
+      "sha256": "7399dedf86c2028eb3d91d4daf9eb9e16f4d52166b1d5e2f06d1ceddbb38dda4",
+      "checkedAt": "2026-11-11",
+      "transformation": {
+        "en": "Official JPEG preserved unchanged; no crop, retouching or recolouring. The original AWM accession and credit strip is retained.",
+        "zh": "官方JPEG原样保存，未裁剪、修饰或改色。保留原有馆藏编号及澳大利亚战争纪念馆署名条。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Federation",
+            "zh": "澳大利亚联邦成立"
+          },
+          "url": "https://www.nma.gov.au/defining-moments/resources/federation"
+        },
+        {
+          "title": {
+            "en": "Indigenous referendum",
+            "zh": "原住民公投"
+          },
+          "url": "https://www.nma.gov.au/defining-moments/resources/indigenous-referendum"
+        }
+      ],
+      "retrieval": "Item-specific rights, full target records, byte receipts and pixel review are preserved in docs/v18-oceania-images-01-evidence.json.",
+      "metadataI18n": {
+        "date": {
+          "en": "1901",
+          "zh": "1901年"
+        },
+        "creator": {
+          "en": "Photographer unidentified",
+          "zh": "摄影者未详"
+        },
+        "institution": {
+          "en": "Australian War Memorial",
+          "zh": "澳大利亚战争纪念馆"
+        }
+      }
+    },
+    {
+      "id": "oceania-mv-675839",
+      "recordIds": [
+        "australia-1967-referendum"
+      ],
+      "kind": "object",
+      "representation": "object-photograph",
+      "title": {
+        "en": "A badge from the 1967 referendum campaign",
+        "zh": "1967年公投宣传徽章"
+      },
+      "alt": {
+        "en": "A round white badge bears black lettering: “VOTE YES FOR ABORIGINES”.",
+        "zh": "白色圆形徽章上印有黑字：“VOTE YES FOR ABORIGINES”（为原住民投赞成票）。"
+      },
+      "caption": {
+        "en": "Campaign badge, about 1967. Modern collection photograph by Jon Augier, Museums Victoria. The inscription preserves the campaign’s historical wording.",
+        "zh": "公投宣传徽章，约1967年。乔恩·奥吉尔为维多利亚博物馆拍摄的现代藏品照片。铭文保留当时宣传用语。"
+      },
+      "interpretation": {
+        "en": "A wearable slogan made support for constitutional reform visible in everyday life. Such campaign material accompanied years of Indigenous organizing and allied activism. The referendum changed constitutional provisions; it did not first confer citizenship or voting rights.",
+        "zh": "可佩戴的口号使支持修宪的立场在日常生活中可见。这类宣传品伴随原住民及盟友多年的组织行动。公投改变了宪法条款，并非首次授予公民身份或投票权。"
+      },
+      "creator": "Jon Augier (photographer); badge maker unidentified",
+      "date": "Badge c.1967; photograph date not supplied",
+      "institution": "Museums Victoria",
+      "credit": "Photograph: Jon Augier / Museums Victoria, media 675839, CC BY 4.0",
+      "sourceUrl": "https://collections.museumsvictoria.com.au/items/2052835",
+      "imageUrl": "https://collections.museumsvictoria.com.au/content/media/39/675839-large.jpg",
+      "rightsSourceUrl": "https://collections.museumsvictoria.com.au/items/2052835",
+      "rights": {
+        "label": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/",
+        "note": {
+          "en": "The item’s media 675839 explicitly licenses this photograph under CC BY 4.0 and identifies photographer Jon Augier and Museums Victoria.",
+          "zh": "单件记录中的媒体675839明确将此照片以CC BY 4.0授权，并注明摄影师乔恩·奥吉尔与维多利亚博物馆。"
+        }
+      },
+      "width": 2181,
+      "height": 2171,
+      "file": "assets/history-media/oceania-mv-675839.jpg",
+      "downloadedFrom": "https://collections.museumsvictoria.com.au/content/media/39/675839-large.jpg",
+      "bytes": 419609,
+      "sha256": "e81142adfec3ce38247a0ea985b7cb666aa9764f5bbf4f11666080a85f1a05d6",
+      "checkedAt": "2026-11-11",
+      "transformation": {
+        "en": "Official JPEG preserved unchanged; no crop, retouching or recolouring.",
+        "zh": "官方JPEG原样保存，未裁剪、修饰或改色。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Indigenous referendum",
+            "zh": "原住民公投"
+          },
+          "url": "https://www.nma.gov.au/defining-moments/resources/indigenous-referendum"
+        },
+        {
+          "title": {
+            "en": "1967 Indigenous referendum: rights and freedoms",
+            "zh": "1967年原住民公投：权利与自由"
+          },
+          "url": "https://digital-classroom.nma.gov.au/learning-modules/rights-and-freedoms-defining-moments-1945-present/110-1967-indigenous-referendum"
+        }
+      ],
+      "retrieval": "Item-specific rights, full target records, byte receipts and pixel review are preserved in docs/v18-oceania-images-01-evidence.json.",
+      "metadataI18n": {
+        "date": {
+          "en": "Badge c.1967; photograph date not supplied",
+          "zh": "徽章约制于1967年；拍摄日期未载"
+        },
+        "creator": {
+          "en": "Jon Augier (photographer); badge maker unidentified",
+          "zh": "乔恩·奥吉尔摄影；徽章制作者未详"
+        },
+        "institution": {
+          "en": "Museums Victoria",
+          "zh": "维多利亚博物馆"
         }
       }
     },
@@ -28128,6 +28356,79 @@
           "zh": "史密森学会国立亚洲艺术博物馆"
         }
       }
+    },
+    {
+      "id": "world-batch-15-f1904-100",
+      "file": "assets/history-media/world-batch-15-f1904-100.jpg",
+      "recordIds": [
+        "edo-urban-culture"
+      ],
+      "kind": "object",
+      "representation": "object-photograph",
+      "title": {
+        "en": "A woodblock behind Hiroshige’s fish prints",
+        "zh": "广重鱼类版画背后的木版"
+      },
+      "alt": {
+        "en": "A dark rectangular wooden printing block bears carved outlines of two fish, blossoms and rows of Japanese writing.",
+        "zh": "深色长方形印刷木版上，刻着两条鱼、花朵与成行日文。"
+      },
+      "caption": {
+        "en": "Japan, c. 1840–1842. Woodblock for Utagawa Hiroshige’s design of olive halibut, black rockfish and cherry blossom, from the so-called Large Fish series.",
+        "zh": "日本，约1840—1842年。用于歌川广重所谓《大鱼》系列中牙鲆、黑鲉与樱花图案的印刷木版。"
+      },
+      "interpretation": {
+        "en": "Carved fins, scales and lettering reveal the skilled work behind reproducible pictures. This surviving block is a tool used to make paper impressions. The museum credits Hiroshige with the design; its carver and printer remain unidentified.",
+        "zh": "雕刻的鱼鳍、鳞片与文字展示可复制图像背后的技艺。这块留存木版是制作纸本印张的工具。馆方将图案归于广重，刻工与印工的身份未详。"
+      },
+      "creator": "Design: Utagawa Hiroshige; block carver unidentified",
+      "date": "c. 1840–1842",
+      "institution": "National Museum of Asian Art, Smithsonian Institution",
+      "credit": "National Museum of Asian Art, Smithsonian Institution; Gift of Charles Lang Freer",
+      "sourceUrl": "https://asia.si.edu/object/F1904.100/",
+      "imageUrl": "https://ids.si.edu/ids/download?id=FS-8002_12_screen",
+      "downloadedFrom": "https://ids.si.edu/ids/download?id=FS-8002_12_screen",
+      "rightsSourceUrl": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/fsg/20.txt",
+      "rights": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "The official Smithsonian record marks both this object and this specific image CC0. Credit: National Museum of Asian Art, Smithsonian Institution; Gift of Charles Lang Freer.",
+          "zh": "史密森官方记录将此作品及此特定图像均标为CC0。来源：史密森学会国立亚洲艺术博物馆；查尔斯·朗·弗利尔捐赠。"
+        }
+      },
+      "transformation": {
+        "en": "Official Screen Image JPEG preserved unchanged; no local crop, retouching or recolouring.",
+        "zh": "官方屏幕版JPEG原样保存；未在本地裁剪、修饰或改色。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Art of the Edo Period (1615–1868)",
+            "zh": "江户时期的艺术（1615—1868年）"
+          },
+          "url": "https://www.metmuseum.org/essays/art-of-the-edo-period-1615-1868"
+        }
+      ],
+      "width": 1200,
+      "height": 830,
+      "bytes": 187206,
+      "sha256": "458cb0882d4a7476898348ddf141df71f832c547d4e59466ba3b17a34c057080",
+      "checkedAt": "2026-11-11",
+      "metadataI18n": {
+        "date": {
+          "en": "c. 1840–1842",
+          "zh": "约1840—1842年"
+        },
+        "creator": {
+          "en": "Design: Utagawa Hiroshige; block carver unidentified",
+          "zh": "图案：歌川广重；刻工未详"
+        },
+        "institution": {
+          "en": "National Museum of Asian Art, Smithsonian Institution",
+          "zh": "史密森学会国立亚洲艺术博物馆"
+        }
+      }
     }
   ],
   "associations": [
@@ -37068,6 +37369,17 @@
         "zh": "塌陷形态记录了成品陶器背后的风险。蓝釉下的黑彩结合成形、装饰与烧制工序，有些器物在生产中失败。拉卡为目录所记产地，考古出土背景未载。"
       },
       "evidenceUrl": "https://asia.si.edu/object/F1909.376/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "world-batch-15-f1904-100",
+      "recordId": "edo-urban-culture",
+      "role": "related-work",
+      "context": {
+        "en": "Carved fins, scales and lettering reveal the skilled work behind reproducible pictures. This surviving block is a tool used to make paper impressions. The museum credits Hiroshige with the design; its carver and printer remain unidentified.",
+        "zh": "雕刻的鱼鳍、鳞片与文字展示可复制图像背后的技艺。这块留存木版是制作纸本印张的工具。馆方将图案归于广重，刻工与印工的身份未详。"
+      },
+      "evidenceUrl": "https://asia.si.edu/object/F1904.100/",
       "checkedAt": "2026-11-11"
     }
   ]

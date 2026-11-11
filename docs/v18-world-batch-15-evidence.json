@@ -1,0 +1,642 @@
+{
+  "checkedAt": "2026-11-11",
+  "items": [
+    {
+      "id": "world-batch-15-f1904-100",
+      "file": "assets/history-media/world-batch-15-f1904-100.jpg",
+      "recordIds": [
+        "edo-urban-culture"
+      ],
+      "kind": "object",
+      "representation": "object-photograph",
+      "title": {
+        "en": "A woodblock behind Hiroshige’s fish prints",
+        "zh": "广重鱼类版画背后的木版"
+      },
+      "alt": {
+        "en": "A dark rectangular wooden printing block bears carved outlines of two fish, blossoms and rows of Japanese writing.",
+        "zh": "深色长方形印刷木版上，刻着两条鱼、花朵与成行日文。"
+      },
+      "caption": {
+        "en": "Japan, c. 1840–1842. Woodblock for Utagawa Hiroshige’s design of olive halibut, black rockfish and cherry blossom, from the so-called Large Fish series.",
+        "zh": "日本，约1840—1842年。用于歌川广重所谓《大鱼》系列中牙鲆、黑鲉与樱花图案的印刷木版。"
+      },
+      "interpretation": {
+        "en": "Carved fins, scales and lettering reveal the skilled work behind reproducible pictures. This surviving block is a tool used to make paper impressions. The museum credits Hiroshige with the design; its carver and printer remain unidentified.",
+        "zh": "雕刻的鱼鳍、鳞片与文字展示可复制图像背后的技艺。这块留存木版是制作纸本印张的工具。馆方将图案归于广重，刻工与印工的身份未详。"
+      },
+      "creator": "Design: Utagawa Hiroshige; block carver unidentified",
+      "date": "c. 1840–1842",
+      "institution": "National Museum of Asian Art, Smithsonian Institution",
+      "credit": "National Museum of Asian Art, Smithsonian Institution; Gift of Charles Lang Freer",
+      "sourceUrl": "https://asia.si.edu/object/F1904.100/",
+      "imageUrl": "https://ids.si.edu/ids/download?id=FS-8002_12_screen",
+      "downloadedFrom": "https://ids.si.edu/ids/download?id=FS-8002_12_screen",
+      "rightsSourceUrl": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/fsg/20.txt",
+      "rights": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "The official Smithsonian record marks both this object and this specific image CC0. Credit: National Museum of Asian Art, Smithsonian Institution; Gift of Charles Lang Freer.",
+          "zh": "史密森官方记录将此作品及此特定图像均标为CC0。来源：史密森学会国立亚洲艺术博物馆；查尔斯·朗·弗利尔捐赠。"
+        }
+      },
+      "transformation": {
+        "en": "Official Screen Image JPEG preserved unchanged; no local crop, retouching or recolouring.",
+        "zh": "官方屏幕版JPEG原样保存；未在本地裁剪、修饰或改色。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Art of the Edo Period (1615–1868)",
+            "zh": "江户时期的艺术（1615—1868年）"
+          },
+          "url": "https://www.metmuseum.org/essays/art-of-the-edo-period-1615-1868"
+        }
+      ],
+      "width": 1200,
+      "height": 830,
+      "bytes": 187206,
+      "sha256": "458cb0882d4a7476898348ddf141df71f832c547d4e59466ba3b17a34c057080",
+      "checkedAt": "2026-11-11"
+    }
+  ],
+  "associations": [
+    {
+      "assetId": "world-batch-15-f1904-100",
+      "recordId": "edo-urban-culture",
+      "role": "related-work",
+      "context": {
+        "en": "Carved fins, scales and lettering reveal the skilled work behind reproducible pictures. This surviving block is a tool used to make paper impressions. The museum credits Hiroshige with the design; its carver and printer remain unidentified.",
+        "zh": "雕刻的鱼鳍、鳞片与文字展示可复制图像背后的技艺。这块留存木版是制作纸本印张的工具。馆方将图案归于广重，刻工与印工的身份未详。"
+      },
+      "evidenceUrl": "https://asia.si.edu/object/F1904.100/",
+      "checkedAt": "2026-11-11"
+    }
+  ],
+  "ledger": [
+    {
+      "assetId": "world-batch-15-f1904-100",
+      "sourceReceipt": "/workspace/scratch/9c606a8aab7f/world-history-atlas/research/v18/world-batch-15/fsg_F1904.100.json",
+      "bulkReceipt": "research/v18/world-batch-14/fsg-32.jsonl",
+      "sourceUrl": "https://asia.si.edu/object/F1904.100/",
+      "rightsSourceUrl": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/fsg/20.txt",
+      "objectRights": [
+        {
+          "label": "Restrictions & Rights",
+          "content": "CC0"
+        }
+      ],
+      "imageUsage": {
+        "access": "CC0"
+      },
+      "imageId": "FS-8002_12",
+      "objectDate": [
+        {
+          "label": "Date",
+          "content": "ca. 1840-1842"
+        },
+        {
+          "label": "Period",
+          "content": "Edo period"
+        }
+      ],
+      "photographDate": "Not supplied; these are modern collection photographs of historical objects/artworks.",
+      "origin": [
+        {
+          "label": "Origin",
+          "content": "Japan"
+        }
+      ],
+      "provenance": [
+        "To 1904",
+        "Bolton Coit Brown (1864-1936), Woodstock, NY, and New York to 1904 [1]",
+        "From 1904 to 1919",
+        "Charles Lang Freer (1854-1919), purchased from Bolton Coit Brown in 1904 [2]",
+        "From 1920",
+        "Freer Gallery of Art, gift of Charles Lang Freer in 1920 [3]",
+        "Notes:",
+        "[1] See Original Miscellaneous List, S.I. 1217, pg. 21-A, Freer Gallery of Art and Arthur M. Sackler Gallery Archives.",
+        "[2] See note 1.",
+        "[3] The original deed of Charles Lang Freer's gift was signed in 1906. The collection was received in 1920 upon the completion of the Freer Gallery."
+      ],
+      "visualReview": "Full 1200 × 830 image inspected: dark wooden block, two opposing fish, individually cut fins and scales, blossoms, Japanese text; chipped/worn edge and lower-right labels. This is a physical printing block, not an imagined historical likeness. Selected first media FS-8002_12; second media has inconsistent dimensions and is not admitted.",
+      "relationship": {
+        "en": "Fine carved fins, scales and lettering reveal the skilled work behind the woodblock prints named in the Edo urban-culture entry. This is a printing tool, not a finished paper impression: it makes the material process behind reproducible pictures visible. The museum attributes the design to Hiroshige but does not identify a block carver or printer; the designer should not be assumed to have performed every production step.",
+        "zh": "精细雕刻的鱼鳍、鳞片与文字，展示江户城市文化条目所述木版画背后的技艺。这是印刷工具，而非完成的纸本印张，使可复制图像背后的物质工序可见。馆方将图案归于广重，但未指明刻工或印工；不能假定设计者亲自完成所有制作步骤。"
+      },
+      "targetRecords": [
+        {
+          "id": "edo-urban-culture",
+          "title": {
+            "en": "Edo Japan: cities under warrior government",
+            "zh": "江户日本：武家政权下的城市"
+          },
+          "start": 1615,
+          "end": 1868,
+          "region": "east-asia",
+          "theme": "culture",
+          "kind": "culture",
+          "importance": 4,
+          "location": {
+            "lat": 35.69,
+            "lon": 139.75,
+            "label": "Edo / Tokyo"
+          },
+          "locationPrecision": "representative",
+          "summary": {
+            "en": "Under Tokugawa rule, artisans and merchants contributed to a vibrant urban culture despite their lower place in the official social hierarchy. Kabuki theatre, woodblock prints and popular literature served expanding city audiences. Older courtly and Chinese-inspired traditions were also reworked rather than simply abandoned. Foreign contact was controlled, with limited exchange continuing through places such as Nagasaki; Japan was not entirely sealed off. Edo’s cultural history therefore connects state regulation with commercial creativity. The contrast between official status and economic influence is a useful way to explore how social orders actually functioned.",
+            "zh": "德川统治下，工匠与商人虽在官方等级中地位较低，却推动了城市文化。歌舞伎、木版画和通俗文学面向不断扩大的市民群体，旧有宫廷传统和中国风格也被重新诠释。对外交往受到限制，但长崎等地仍有交流，日本并非完全封闭。江户文化显示国家规范与商业创造如何并存，也揭示法定身份与经济影响力的差距。"
+          },
+          "dateNote": {
+            "en": "Uses the source’s 1615–1868 art-historical focus, not the 1603 establishment date of the Tokugawa shogunate.",
+            "zh": "采用来源的1615—1868年艺术史关注时段，并非德川幕府1603年建立日期。"
+          },
+          "sources": [
+            {
+              "title": "Art of the Edo Period (1615–1868)",
+              "url": "https://www.metmuseum.org/essays/art-of-the-edo-period-1615-1868",
+              "publisher": "The Metropolitan Museum of Art",
+              "checkedAt": "2026-10-22",
+              "evidenceNote": "Uses the source’s 1615–1868 art-historical focus, not the 1603 establishment date of the Tokugawa shogunate."
+            }
+          ]
+        }
+      ],
+      "sourcePageRead": false
+    }
+  ],
+  "sourceRecord": {
+    "record": {
+      "id": "ld1-1643390182193-1643390184653-0",
+      "version": "",
+      "unitCode": "FSG",
+      "linkedId": "",
+      "type": "edanmdm",
+      "content": {
+        "freetext": {
+          "date": [
+            {
+              "label": "Date",
+              "content": "ca. 1840-1842"
+            },
+            {
+              "label": "Period",
+              "content": "Edo period"
+            }
+          ],
+          "name": [
+            {
+              "label": "Artist",
+              "content": "Utagawa Hiroshige 歌川広重 (1797-1858)"
+            }
+          ],
+          "notes": [
+            {
+              "label": "Provenance",
+              "content": "To 1904"
+            },
+            {
+              "label": "Provenance",
+              "content": "Bolton Coit Brown (1864-1936), Woodstock, NY, and New York to 1904 [1]"
+            },
+            {
+              "label": "Provenance",
+              "content": "From 1904 to 1919"
+            },
+            {
+              "label": "Provenance",
+              "content": "Charles Lang Freer (1854-1919), purchased from Bolton Coit Brown in 1904 [2]"
+            },
+            {
+              "label": "Provenance",
+              "content": "From 1920"
+            },
+            {
+              "label": "Provenance",
+              "content": "Freer Gallery of Art, gift of Charles Lang Freer in 1920 [3]"
+            },
+            {
+              "label": "Provenance",
+              "content": "Notes:"
+            },
+            {
+              "label": "Provenance",
+              "content": "[1] See Original Miscellaneous List, S.I. 1217, pg. 21-A, Freer Gallery of Art and Arthur M. Sackler Gallery Archives."
+            },
+            {
+              "label": "Provenance",
+              "content": "[2] See note 1."
+            },
+            {
+              "label": "Provenance",
+              "content": "[3] The original deed of Charles Lang Freer's gift was signed in 1906. The collection was received in 1920 upon the completion of the Freer Gallery."
+            },
+            {
+              "label": "Collection",
+              "content": "Freer Gallery of Art Collection"
+            },
+            {
+              "label": "Exhibition History",
+              "content": "Bountiful Waters: Aquatic Life in Japanese Art (March 8 to September 14, 2014)"
+            },
+            {
+              "label": "Previous custodian or owner",
+              "content": "Bolton Coit Brown (1864-1936) (C.L. Freer source)"
+            },
+            {
+              "label": "Previous custodian or owner",
+              "content": "Charles Lang Freer (1854-1919)"
+            }
+          ],
+          "place": [
+            {
+              "label": "Origin",
+              "content": "Japan"
+            }
+          ],
+          "topic": [
+            {
+              "label": "Topic",
+              "content": "wood"
+            },
+            {
+              "label": "Topic",
+              "content": "fish"
+            },
+            {
+              "label": "Topic",
+              "content": "flower"
+            },
+            {
+              "label": "Topic",
+              "content": "Edo period (1615 - 1868)"
+            },
+            {
+              "label": "Topic",
+              "content": "Japan"
+            },
+            {
+              "label": "Topic",
+              "content": "Japanese Art"
+            },
+            {
+              "label": "Topic",
+              "content": "Charles Lang Freer collection"
+            }
+          ],
+          "setName": [
+            {
+              "label": "Related Online Resources",
+              "content": "Google Arts & Culture"
+            },
+            {
+              "label": "See more items in",
+              "content": "National Museum of Asian Art"
+            }
+          ],
+          "creditLine": [
+            {
+              "label": "Credit Line",
+              "content": "Gift of Charles Lang Freer"
+            }
+          ],
+          "dataSource": [
+            {
+              "label": "Data Source",
+              "content": "National Museum of Asian Art"
+            }
+          ],
+          "identifier": [
+            {
+              "label": "Accession Number",
+              "content": "F1904.100"
+            }
+          ],
+          "objectType": [
+            {
+              "label": "Type",
+              "content": "Tool and Equipment"
+            }
+          ],
+          "objectRights": [
+            {
+              "label": "Restrictions & Rights",
+              "content": "CC0"
+            }
+          ],
+          "physicalDescription": [
+            {
+              "label": "Medium",
+              "content": "Wood"
+            },
+            {
+              "label": "Dimensions",
+              "content": "H x W x D: 26.8 x 39.3 x 1.5 cm (10 9/16 x 15 1/2 x 9/16 in)"
+            }
+          ]
+        },
+        "indexedStructured": {
+          "date": [
+            "1615-1868",
+            "1830s",
+            "1840s"
+          ],
+          "name": [
+            "Freer, Charles Lang",
+            "Brown, Bolton Coit"
+          ],
+          "place": [
+            "Japan"
+          ],
+          "topic": [
+            "Charles Lang Freer collection",
+            "Art",
+            "Wood",
+            "Fishes",
+            "Edo period, Japan, (1600 - 1868)",
+            "Japanese Art",
+            "Flowers"
+          ],
+          "culture": [
+            "Japanese"
+          ],
+          "geoLocation": [
+            {
+              "L2": {
+                "type": "Country",
+                "content": "Japan"
+              }
+            }
+          ],
+          "object_type": [
+            "Tools and equipment"
+          ],
+          "online_media_type": [
+            "Images"
+          ]
+        },
+        "descriptiveNonRepeating": {
+          "guid": "http://n2t.net/ark:/65665/ye3f7c19f7c-a147-4adf-9302-dbe4bdebf0be",
+          "title": {
+            "label": "Title",
+            "content": "Woodblock for the design of Olive Halibut (hirame), Black Rockfish (mebaru), and sprig of cherry blossom, from an untitled series known as the \"Large Fish\" series"
+          },
+          "record_ID": "fsg_F1904.100",
+          "unit_code": "FSG",
+          "title_sort": "WOODBLOCK FOR THE DESIGN OF OLIVE HALIBUT (HIRAME), BLACK ROCKFISH (MEBARU), AND SPRIG OF CHERRY BLOSSOM, FROM AN UNTITLED SERIES KNOWN AS THE \"LARGE FISH\" SERIES",
+          "data_source": "National Museum of Asian Art",
+          "record_link": "https://asia.si.edu/object/F1904.100/",
+          "online_media": {
+            "media": [
+              {
+                "id": "media:FS-8002_12",
+                "guid": "http://n2t.net/ark:/65665/jy57e3b91f0-fa0f-43a2-b5c9-2f2a5df9b4c9",
+                "type": "Images",
+                "idsId": "FS-8002_12",
+                "usage": {
+                  "access": "CC0"
+                },
+                "content": "https://ids.si.edu/ids/deliveryService?id=FS-8002_12",
+                "thumbnail": "https://ids.si.edu/ids/deliveryService?id=FS-8002_12",
+                "altTextAccessibility": "Woodblock",
+                "extDescrAccessibility": "Wood, H x W x D: 26.8 x 39.3 x 1.5 cm (10 9/16 x 15 1/2 x 9/16 in)",
+                "resources": [
+                  {
+                    "label": "High-resolution TIFF",
+                    "url": "https://ids.si.edu/ids/download?id=FS-8002_12.tif",
+                    "width": 4200,
+                    "height": 2906,
+                    "dimensions": "4200x2906"
+                  },
+                  {
+                    "label": "High-resolution JPEG",
+                    "url": "https://ids.si.edu/ids/download?id=FS-8002_12.jpg",
+                    "width": 4200,
+                    "height": 2906,
+                    "dimensions": "4200x2906"
+                  },
+                  {
+                    "label": "Screen Image",
+                    "url": "https://ids.si.edu/ids/download?id=FS-8002_12_screen"
+                  },
+                  {
+                    "label": "Thumbnail Image",
+                    "url": "https://ids.si.edu/ids/download?id=FS-8002_12_thumb"
+                  }
+                ]
+              },
+              {
+                "id": "media:FS-8002_13",
+                "guid": "http://n2t.net/ark:/65665/jy57a12861b-b059-46f6-8766-aba01883933c",
+                "type": "Images",
+                "idsId": "FS-8002_13",
+                "usage": {
+                  "access": "CC0"
+                },
+                "content": "https://ids.si.edu/ids/deliveryService?id=FS-8002_13",
+                "thumbnail": "https://ids.si.edu/ids/deliveryService?id=FS-8002_13",
+                "altTextAccessibility": "Woodblock",
+                "extDescrAccessibility": "Wood, H x W x D: 17.9 x 27.2 x 2.3 cm (7 1/16 x 10 11/16 x 7/8 in)",
+                "resources": [
+                  {
+                    "label": "Screen Image",
+                    "url": "https://ids.si.edu/ids/download?id=FS-8002_13_screen"
+                  },
+                  {
+                    "label": "Thumbnail Image",
+                    "url": "https://ids.si.edu/ids/download?id=FS-8002_13_thumb"
+                  }
+                ]
+              }
+            ],
+            "mediaCount": 2
+          },
+          "metadata_usage": {
+            "access": "CC0"
+          }
+        }
+      },
+      "url": "edanmdm:fsg_F1904.100",
+      "hash": "2049af505b1726ee9bb8628760206a532bd7be71",
+      "docSignature": "5d8e74331599651ac484fa4e1336c27f",
+      "timestamp": 1663786530,
+      "lastTimeUpdated": 1770376598,
+      "title": "Woodblock for the design of Olive Halibut (hirame), Black Rockfish (mebaru), and sprig of cherry blossom, from an untitled series known as the \"Large Fish\" series"
+    },
+    "url": "https://ids.si.edu/ids/download?id=FS-8002_12_screen",
+    "bucket": "fsg-32.jsonl",
+    "bulkPath": "research/v18/world-batch-14/fsg-32.jsonl"
+  },
+  "targetRecords": [
+    {
+      "id": "edo-urban-culture",
+      "title": {
+        "en": "Edo Japan: cities under warrior government",
+        "zh": "江户日本：武家政权下的城市"
+      },
+      "start": 1615,
+      "end": 1868,
+      "region": "east-asia",
+      "theme": "culture",
+      "kind": "culture",
+      "importance": 4,
+      "location": {
+        "lat": 35.69,
+        "lon": 139.75,
+        "label": "Edo / Tokyo"
+      },
+      "locationPrecision": "representative",
+      "summary": {
+        "en": "Under Tokugawa rule, artisans and merchants contributed to a vibrant urban culture despite their lower place in the official social hierarchy. Kabuki theatre, woodblock prints and popular literature served expanding city audiences. Older courtly and Chinese-inspired traditions were also reworked rather than simply abandoned. Foreign contact was controlled, with limited exchange continuing through places such as Nagasaki; Japan was not entirely sealed off. Edo’s cultural history therefore connects state regulation with commercial creativity. The contrast between official status and economic influence is a useful way to explore how social orders actually functioned.",
+        "zh": "德川统治下，工匠与商人虽在官方等级中地位较低，却推动了城市文化。歌舞伎、木版画和通俗文学面向不断扩大的市民群体，旧有宫廷传统和中国风格也被重新诠释。对外交往受到限制，但长崎等地仍有交流，日本并非完全封闭。江户文化显示国家规范与商业创造如何并存，也揭示法定身份与经济影响力的差距。"
+      },
+      "dateNote": {
+        "en": "Uses the source’s 1615–1868 art-historical focus, not the 1603 establishment date of the Tokugawa shogunate.",
+        "zh": "采用来源的1615—1868年艺术史关注时段，并非德川幕府1603年建立日期。"
+      },
+      "sources": [
+        {
+          "title": "Art of the Edo Period (1615–1868)",
+          "url": "https://www.metmuseum.org/essays/art-of-the-edo-period-1615-1868",
+          "publisher": "The Metropolitan Museum of Art",
+          "checkedAt": "2026-10-22",
+          "evidenceNote": "Uses the source’s 1615–1868 art-historical focus, not the 1603 establishment date of the Tokugawa shogunate."
+        }
+      ]
+    }
+  ],
+  "pixelReview": "Owner independently viewed the 1200×830 photograph: two carved fish, blossoms and reversed lettering on dark wood; no placeholder or replacement image.",
+  "held": [
+    {
+      "recordId": "fsg_F1904.283",
+      "title": "Sketch for a woodblock print",
+      "reason": "Not admitted: Edo-period attribution alone does not justify additional general coverage. Selected printing block provides a more specific manufacturing narrative."
+    },
+    {
+      "recordId": "fsg_F1903.74",
+      "title": "Matsukaze and Murasame",
+      "reason": "Not admitted: Edo-period attribution alone does not justify additional general coverage. Selected printing block provides a more specific manufacturing narrative."
+    },
+    {
+      "recordId": "fsg_F1917.36",
+      "title": "Bracelet",
+      "reason": "Not admitted: no specific uncovered world-history narrative match established in this bounded review; no dynasty/region-only association."
+    },
+    {
+      "recordId": "fsg_F1907.149",
+      "title": "Manuscript letter",
+      "reason": "Not admitted: Edo-period attribution alone does not justify additional general coverage. Selected printing block provides a more specific manufacturing narrative."
+    },
+    {
+      "recordId": "fsg_F1914.54",
+      "title": "Durga Mahishasuramardini (\"Slayer of the Buffalo Demon\")",
+      "reason": "Not admitted: no specific uncovered world-history narrative match established in this bounded review; no dynasty/region-only association."
+    },
+    {
+      "recordId": "fsg_F1911.129",
+      "title": "Bodhisattva Avalokiteshvara (Guanyin)",
+      "reason": "Not admitted: no specific uncovered world-history narrative match established in this bounded review; no dynasty/region-only association."
+    },
+    {
+      "recordId": "fsg_F1907.126",
+      "title": "Whose Sleeves? 誰が袖屏風 (右隻）",
+      "reason": "Not admitted: Edo-period attribution alone does not justify additional general coverage. Selected printing block provides a more specific manufacturing narrative."
+    },
+    {
+      "recordId": "fsg_F1904.41",
+      "title": "Panel",
+      "reason": "Not admitted: Edo-period attribution alone does not justify additional general coverage. Selected printing block provides a more specific manufacturing narrative."
+    },
+    {
+      "recordId": "fsg_F1916.166",
+      "title": "Forked blade (<em>zhang</em> 璋)",
+      "reason": "Not admitted: no specific uncovered world-history narrative match established in this bounded review; no dynasty/region-only association."
+    },
+    {
+      "recordId": "fsg_F1904.30",
+      "title": "Water plants with blue flowers",
+      "reason": "Not admitted: Edo-period attribution alone does not justify additional general coverage. Selected printing block provides a more specific manufacturing narrative."
+    },
+    {
+      "recordId": "fsg_F1901.123",
+      "title": "Tomb jar",
+      "reason": "Not admitted: no specific uncovered world-history narrative match established in this bounded review; no dynasty/region-only association."
+    },
+    {
+      "recordId": "fsg_F1916.678",
+      "title": "Brocade, silk. Altar cloth",
+      "reason": "Not admitted: Edo-period attribution alone does not justify additional general coverage. Selected printing block provides a more specific manufacturing narrative."
+    },
+    {
+      "recordId": "fsg_F1904.122",
+      "title": "A branch of medlars",
+      "reason": "Not admitted: Edo-period attribution alone does not justify additional general coverage. Selected printing block provides a more specific manufacturing narrative."
+    },
+    {
+      "recordId": "fsg_F1916.766",
+      "title": "Cylindrical bead",
+      "reason": "Not admitted: no specific uncovered world-history narrative match established in this bounded review; no dynasty/region-only association."
+    },
+    {
+      "recordId": "fsg_F1899.10",
+      "title": "Seto ware vase with two lugs",
+      "reason": "Not admitted: Edo-period attribution alone does not justify additional general coverage. Selected printing block provides a more specific manufacturing narrative."
+    },
+    {
+      "recordId": "fsg_F1917.354",
+      "title": "Disk (<em>bi</em> 璧)",
+      "reason": "Not admitted: no specific uncovered world-history narrative match established in this bounded review; no dynasty/region-only association."
+    },
+    {
+      "recordId": "fsg_F1903.108",
+      "title": "Woman stretching cloth to dry; two children at play",
+      "reason": "Not admitted: Edo-period attribution alone does not justify additional general coverage. Selected printing block provides a more specific manufacturing narrative."
+    },
+    {
+      "recordId": "fsg_F1898.135i",
+      "title": "Young Crow and Maple Leaves",
+      "reason": "Not admitted: Edo-period attribution alone does not justify additional general coverage. Selected printing block provides a more specific manufacturing narrative."
+    },
+    {
+      "recordId": "fsg_F1917.375",
+      "title": "Disk (<em>bi</em>) with raised uniform curls arranged in a grid and masks, reworked",
+      "reason": "Not admitted: no specific uncovered world-history narrative match established in this bounded review; no dynasty/region-only association."
+    },
+    {
+      "recordId": "fsg_F1916.75",
+      "title": "Girl seated at an embroidery frame",
+      "reason": "Not admitted: no specific uncovered world-history narrative match established in this bounded review; no dynasty/region-only association."
+    },
+    {
+      "recordId": "fsg_F1896.98",
+      "title": "Vase in Oribe style, probably Seto ware",
+      "reason": "Not admitted: Edo-period attribution alone does not justify additional general coverage. Selected printing block provides a more specific manufacturing narrative."
+    },
+    {
+      "recordId": "fsg_F1896.55",
+      "title": "Tea bowl with design of chrysanthemums",
+      "reason": "Not admitted: Edo-period attribution alone does not justify additional general coverage. Selected printing block provides a more specific manufacturing narrative."
+    },
+    {
+      "recordId": "fsg_F1916.164",
+      "title": "Forked blade (<em>zhang</em> 璋)",
+      "reason": "Not admitted: no specific uncovered world-history narrative match established in this bounded review; no dynasty/region-only association."
+    },
+    {
+      "recordId": "fsg_F1902.195-196",
+      "title": "Folding screens mounted with poems from the anthology, Shin kokinshu 新古今集和歌色紙貼付屏風 （一双、画像：左隻のみ）",
+      "reason": "Not admitted: Edo-period attribution alone does not justify additional general coverage. Selected printing block provides a more specific manufacturing narrative."
+    },
+    {
+      "recordId": "fsg_F1899.9",
+      "title": "Tamba ware tea-leaf storage jar",
+      "reason": "Not admitted: Edo-period attribution alone does not justify additional general coverage. Selected printing block provides a more specific manufacturing narrative."
+    },
+    {
+      "recordId": "fsg_F1923.15",
+      "title": "Buddha draped in robes portraying the Realms of Desire",
+      "reason": "Not admitted: no specific uncovered world-history narrative match established in this bounded review; no dynasty/region-only association."
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 # Historical images: credits and reuse
 
-Reviewed 2026-11-11. 403 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
+Reviewed 2026-11-11. 407 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
 
 Historical artifacts, surviving places and later depictions retain their source identities. No generated reconstructions are included in this catalogue.
 
@@ -3000,6 +3000,20 @@ Official museum image saved unchanged; watermark, labels and calibration chart r
 
 Official museum image saved unchanged; watermark, labels and calibration chart retained. No crop, retouching or conversion.
 
+## Ayusi remembered after the 1755 Ili campaign / 1755年伊犁战役后的阿玉锡形象
+
+- File: china-batch-13-ayusi-1755.jpg
+- Creator: Giuseppe Castiglione (Lang Shining); imperial inscriptions by the Qianlong emperor
+- Date: 1755; court portrait commissioned after the campaign
+- Collection: National Palace Museum, Taipei; 故畫00109900000
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/3765?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/3765?dep=P
+
+清郎世寧畫阿玉錫持矛盪寇圖 卷。國立故宮博物院，臺北，CC BY 4.0 @ www.npm.gov.tw
+
+Official IIIF whole-scroll image resized by the source service to 3000 pixels wide; no local crop, retouching or conversion.
+
 ## Night Revels reinvented in a Ming garden / 明代庭园中重构的韩熙载夜宴
 
 - File: china-culture-12-night-revels-ming-garden.jpg
@@ -3153,6 +3167,34 @@ The source-supplied image or thumbnail is saved unchanged, without local croppin
 The linked Commons source marks this historical two-dimensional artwork and its faithful reproduction public domain. The named collection and qualified attribution are retained.
 
 The source-supplied image or thumbnail is saved unchanged, without local cropping, resizing, recoloring or retouching.
+
+## A French Arch for Federation / 联邦庆典中的法国拱门
+
+- File: oceania-awm-p00670-001.jpg
+- Creator: Photographer unidentified
+- Date: 1901
+- Collection: Australian War Memorial
+- Source: https://www.awm.gov.au/collection/C38131
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://www.awm.gov.au/collection/C38131
+
+The item record marks this photograph public domain. The Memorial’s copyright policy explicitly permits copying and reproducing images in this category without permission.
+
+Official JPEG preserved unchanged; no crop, retouching or recolouring. The original AWM accession and credit strip is retained.
+
+## A badge from the 1967 referendum campaign / 1967年公投宣传徽章
+
+- File: oceania-mv-675839.jpg
+- Creator: Jon Augier (photographer); badge maker unidentified
+- Date: Badge c.1967; photograph date not supplied
+- Collection: Museums Victoria
+- Source: https://collections.museumsvictoria.com.au/items/2052835
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://collections.museumsvictoria.com.au/items/2052835
+
+The item’s media 675839 explicitly licenses this photograph under CC BY 4.0 and identifies photographer Jon Augier and Museums Victoria.
+
+Official JPEG preserved unchanged; no crop, retouching or recolouring.
 
 ## Kongo crucifix: Christianity in an African court / 刚果十字架：非洲宫廷中的基督教
 
@@ -5641,6 +5683,20 @@ Official Screen Image JPEG preserved unchanged; no local crop, retouching or rec
 - Source: https://asia.si.edu/object/F1909.376/
 - Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
 - Rights evidence: https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/fsg/08.txt
+
+The official Smithsonian record marks both this object and this specific image CC0. Credit: National Museum of Asian Art, Smithsonian Institution; Gift of Charles Lang Freer.
+
+Official Screen Image JPEG preserved unchanged; no local crop, retouching or recolouring.
+
+## A woodblock behind Hiroshige’s fish prints / 广重鱼类版画背后的木版
+
+- File: world-batch-15-f1904-100.jpg
+- Creator: Design: Utagawa Hiroshige; block carver unidentified
+- Date: c. 1840–1842
+- Collection: National Museum of Asian Art, Smithsonian Institution
+- Source: https://asia.si.edu/object/F1904.100/
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/fsg/20.txt
 
 The official Smithsonian record marks both this object and this specific image CC0. Credit: National Museum of Asian Art, Smithsonian Institution; Gift of Charles Lang Freer.
 

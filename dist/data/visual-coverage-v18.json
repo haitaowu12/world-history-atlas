@@ -3,9 +3,9 @@
   "reviewedAt": "2026-11-11",
   "baselineManifest": "content-expansion-v17.json",
   "total": 2087,
-  "covered": 789,
-  "assets": 403,
-  "percent": 37.80546238620029,
+  "covered": 793,
+  "assets": 407,
+  "percent": 37.997125059894586,
   "coveredIds": [
     "abbasid-caliphate",
     "achaemenid-empire",
@@ -17,6 +17,8 @@
     "angkor",
     "asante-confederacy",
     "athens-acropolis",
+    "australia-1967-referendum",
+    "australian-federation",
     "ayyubid-dynasty",
     "bagan",
     "bagan-royal-political-phase",
@@ -116,6 +118,7 @@
     "china-event-qing-013",
     "china-event-qing-016",
     "china-event-qing-017",
+    "china-event-qing-018",
     "china-event-qing-019",
     "china-event-qing-020",
     "china-event-qing-021",
@@ -577,6 +580,7 @@
     "early-buddhist-teachings-communities",
     "early-chakri-monarchy",
     "eastern-roman-empire",
+    "edo-urban-culture",
     "egypt-ahmose-reunification",
     "egypt-middle-kingdom",
     "egypt-new-kingdom",
@@ -841,7 +845,6 @@
     "qhapaq-nan",
     "songhai-empire",
     "himeji",
-    "edo-urban-culture",
     "pueblo-revolt",
     "haudenosaunee-revolution-era",
     "first-fleet-colonization",
@@ -852,7 +855,6 @@
     "brazil-abolition",
     "adwa-victory",
     "philippine-american-war",
-    "australian-federation",
     "mexican-revolution",
     "russian-revolutions",
     "salt-march",
@@ -868,7 +870,6 @@
     "cuban-revolution-victory",
     "congo-independence-crisis",
     "oau-foundation",
-    "australia-1967-referendum",
     "apollo-11",
     "bangladesh-liberation",
     "khmer-rouge-cambodia",
@@ -2011,7 +2012,6 @@
     "china-event-qing-012",
     "china-event-qing-014",
     "china-event-qing-015",
-    "china-event-qing-018",
     "china-landmark-506",
     "china-event-qing-023",
     "china-event-qing-026",
@@ -2099,7 +2099,7 @@
   ],
   "target": 1044,
   "targetMet": false,
-  "remaining": 255,
+  "remaining": 251,
   "regions": {
     "africa": {
       "total": 136,
@@ -2107,7 +2107,7 @@
     },
     "east-asia": {
       "total": 1216,
-      "covered": 540
+      "covered": 542
     },
     "europe": {
       "total": 122,
@@ -2123,7 +2123,7 @@
     },
     "oceania": {
       "total": 89,
-      "covered": 16
+      "covered": 18
     },
     "south-asia": {
       "total": 95,
@@ -2143,12 +2143,12 @@
     "ancient-royal-image": 2,
     "document-facsimile": 24,
     "historical-artwork": 67,
-    "historical-photograph": 34,
+    "historical-photograph": 35,
     "historical-portrait": 29,
     "later-depiction": 66,
-    "lifetime-portrait": 17,
+    "lifetime-portrait": 18,
     "manuscript-detail": 31,
-    "object-photograph": 80,
+    "object-photograph": 82,
     "site-photograph": 52
   },
   "shards": [
@@ -2272,6 +2272,13 @@
       "associations": 0
     },
     {
+      "file": "visual-assets-china-batch-13-v18.json",
+      "bytes": 3386,
+      "sha256": "3dc7c02d9d7541ad3853461650a12557fcc9cde6c3b7b3ad5684a69bb8ee5796",
+      "assets": 1,
+      "associations": 0
+    },
+    {
       "file": "visual-assets-china-culture-12-v18.json",
       "bytes": 6380,
       "sha256": "8942e95070785094e0566cde1bff0cc43be319f3e226dc92ee932039d3d42775",
@@ -2370,6 +2377,13 @@
       "associations": 3
     },
     {
+      "file": "visual-assets-oceania-images-01-v18.json",
+      "bytes": 7274,
+      "sha256": "25f90d019ac0341e89c990f97986940725cc9761408bdab836621671f84a5440",
+      "assets": 2,
+      "associations": 0
+    },
+    {
       "file": "visual-assets-world-batch-02-v18.json",
       "bytes": 30673,
       "sha256": "69ee747653c5e840d4a1c83d550b8dbb447af83aafc559392076e8b3f87345aa",
@@ -2452,8 +2466,15 @@
       "sha256": "8672c1354fab1974cea37931dd45041d30e5b261d0c6baecea7d75d43b58803f",
       "assets": 3,
       "associations": 3
+    },
+    {
+      "file": "visual-assets-world-batch-15-v18.json",
+      "bytes": 4100,
+      "sha256": "05a582b418538e790aa429cd6966d35d7e707621c8ca33c180378dd5aafcdbe2",
+      "assets": 1,
+      "associations": 1
     }
   ],
-  "assetBytes": 76887186,
+  "assetBytes": 77918851,
   "verification": "All admitted files match their SHA-256, byte count and encoded dimensions. Source identity, reuse rights, pixel review and entry relevance require the individual editorial records; structural validation does not establish those facts."
 }

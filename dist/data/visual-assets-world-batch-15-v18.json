@@ -1,0 +1,78 @@
+{
+  "version": 2,
+  "reviewedAt": "2026-11-11",
+  "items": [
+    {
+      "id": "world-batch-15-f1904-100",
+      "file": "assets/history-media/world-batch-15-f1904-100.jpg",
+      "recordIds": [
+        "edo-urban-culture"
+      ],
+      "kind": "object",
+      "representation": "object-photograph",
+      "title": {
+        "en": "A woodblock behind Hiroshige’s fish prints",
+        "zh": "广重鱼类版画背后的木版"
+      },
+      "alt": {
+        "en": "A dark rectangular wooden printing block bears carved outlines of two fish, blossoms and rows of Japanese writing.",
+        "zh": "深色长方形印刷木版上，刻着两条鱼、花朵与成行日文。"
+      },
+      "caption": {
+        "en": "Japan, c. 1840–1842. Woodblock for Utagawa Hiroshige’s design of olive halibut, black rockfish and cherry blossom, from the so-called Large Fish series.",
+        "zh": "日本，约1840—1842年。用于歌川广重所谓《大鱼》系列中牙鲆、黑鲉与樱花图案的印刷木版。"
+      },
+      "interpretation": {
+        "en": "Carved fins, scales and lettering reveal the skilled work behind reproducible pictures. This surviving block is a tool used to make paper impressions. The museum credits Hiroshige with the design; its carver and printer remain unidentified.",
+        "zh": "雕刻的鱼鳍、鳞片与文字展示可复制图像背后的技艺。这块留存木版是制作纸本印张的工具。馆方将图案归于广重，刻工与印工的身份未详。"
+      },
+      "creator": "Design: Utagawa Hiroshige; block carver unidentified",
+      "date": "c. 1840–1842",
+      "institution": "National Museum of Asian Art, Smithsonian Institution",
+      "credit": "National Museum of Asian Art, Smithsonian Institution; Gift of Charles Lang Freer",
+      "sourceUrl": "https://asia.si.edu/object/F1904.100/",
+      "imageUrl": "https://ids.si.edu/ids/download?id=FS-8002_12_screen",
+      "downloadedFrom": "https://ids.si.edu/ids/download?id=FS-8002_12_screen",
+      "rightsSourceUrl": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/fsg/20.txt",
+      "rights": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "The official Smithsonian record marks both this object and this specific image CC0. Credit: National Museum of Asian Art, Smithsonian Institution; Gift of Charles Lang Freer.",
+          "zh": "史密森官方记录将此作品及此特定图像均标为CC0。来源：史密森学会国立亚洲艺术博物馆；查尔斯·朗·弗利尔捐赠。"
+        }
+      },
+      "transformation": {
+        "en": "Official Screen Image JPEG preserved unchanged; no local crop, retouching or recolouring.",
+        "zh": "官方屏幕版JPEG原样保存；未在本地裁剪、修饰或改色。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Art of the Edo Period (1615–1868)",
+            "zh": "江户时期的艺术（1615—1868年）"
+          },
+          "url": "https://www.metmuseum.org/essays/art-of-the-edo-period-1615-1868"
+        }
+      ],
+      "width": 1200,
+      "height": 830,
+      "bytes": 187206,
+      "sha256": "458cb0882d4a7476898348ddf141df71f832c547d4e59466ba3b17a34c057080",
+      "checkedAt": "2026-11-11"
+    }
+  ],
+  "associations": [
+    {
+      "assetId": "world-batch-15-f1904-100",
+      "recordId": "edo-urban-culture",
+      "role": "related-work",
+      "context": {
+        "en": "Carved fins, scales and lettering reveal the skilled work behind reproducible pictures. This surviving block is a tool used to make paper impressions. The museum credits Hiroshige with the design; its carver and printer remain unidentified.",
+        "zh": "雕刻的鱼鳍、鳞片与文字展示可复制图像背后的技艺。这块留存木版是制作纸本印张的工具。馆方将图案归于广重，刻工与印工的身份未详。"
+      },
+      "evidenceUrl": "https://asia.si.edu/object/F1904.100/",
+      "checkedAt": "2026-11-11"
+    }
+  ]
+}

@@ -1745,6 +1745,47 @@
           "evidenceNoteZh": "鉴定说明认为此为其他明人附名唐寅之作，并指出画中为明代家具。"
         }
       ]
+    },
+    {
+      "id": "china-event-qing-018",
+      "patch": {
+        "title": {
+          "en": "Qing armies enter Ili; Dawachi is defeated and captured",
+          "zh": "清军进入伊犁，达瓦齐败逃被俘"
+        },
+        "summary": {
+          "en": "In 1755, Qing forces advanced into Ili against the Dzungar ruler Dawachi. Ayusi, a Dzungar soldier serving the Qing, led a night attack near Gedeng. Dawachi fled south of the Tian Shan and was later captured by the ruler of Ush. Qianlong celebrated Ayusi’s service in a poem and commissioned Castiglione to paint him with a lance. The portrait preserves the Qing court’s account of victory.",
+          "zh": "1755年，清军进入伊犁，进攻准噶尔统治者达瓦齐。投效清廷的准噶尔军人阿玉锡率队在格登附近夜袭。达瓦齐向天山以南逃走，后被乌什城主擒获。乾隆作歌表彰阿玉锡，并命郎世宁绘制其持矛像。这幅画保存了清廷对胜利的叙述。"
+        },
+        "dateNote": {
+          "en": "1755 dates the campaign and commissioned portrait. The map point represents the Ili region, not the precise raid or capture site.",
+          "zh": "1755年为本次战役与奉命绘像之年；地图点位仅示意伊犁地区，并非夜袭或被俘的确切地点。"
+        },
+        "location": {
+          "lon": 81.3,
+          "lat": 43.9,
+          "label": "Ili region: representative reference point",
+          "labelI18n": {
+            "en": "Ili region: representative reference point",
+            "zh": "伊犁地区：示意参考点"
+          },
+          "labelProvenance": "reviewed-reference-anchor"
+        }
+      },
+      "note": {
+        "en": "Replaced the misleading English claim that Dawachi was destroyed with the documented defeat, flight and capture. Narrowed the account to the 1755 campaign and its court portrait.",
+        "zh": "将英文中达瓦齐被“摧毁”的误译改为有据可查的战败、逃走与被俘；叙述聚焦1755年战役及其宫廷纪功肖像。"
+      },
+      "sources": [
+        {
+          "title": "Ayusi Sweeping Bandits with a Lance — collection record and Lin Li-na commentary",
+          "url": "https://digitalarchive.npm.gov.tw/Collection/Detail/3765?dep=P",
+          "publisher": "National Palace Museum, Taipei",
+          "evidenceNote": "Chinese catalogue, Qianlong 20 date and yihai inscription support 1755; an older English paragraph misprints 1775. The commentary records the raid, Dawachi’s flight and capture. Troop totals and hostile court labels are not adopted as independent facts.",
+          "evidenceNoteZh": "中文目录、乾隆二十年纪年与乙亥题记支持1755年；较旧英文简介误作1775年。研究说明记载夜袭、达瓦齐逃走及被俘；不将兵数和宫廷敌我称谓直接采用为独立事实。",
+          "checkedAt": "2026-11-11"
+        }
+      ]
     }
   ]
 }

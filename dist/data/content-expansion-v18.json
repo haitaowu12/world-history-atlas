@@ -2449,15 +2449,15 @@
   },
   "chinaReviewsFile": "china-visual-reviews-v18.json",
   "chinaVisualReviews": {
-    "bytes": 101893,
-    "sha256": "42579b5c5b76d5b3b73b666d2a40451b67abda5ba3c74d4dda2e8969f2e7e524",
-    "records": 38
+    "bytes": 104827,
+    "sha256": "c6b2f7451ee23e1992d0d4fccdf26d0ebefe847ec45e051357dcabbfff3c965c",
+    "records": 39
   },
   "mediaLocalization": {
     "file": "history-media-localization-zh-v18.json",
-    "bytes": 177404,
-    "sha256": "4ae64086dec0141d16b36cacda07c20b7579c9380ecf99738aa5d5167d9ff22d",
-    "assets": 403
+    "bytes": 179228,
+    "sha256": "e20b8305ccc37263dc82df30e0e0331a5990ce746a9a62327756f7c4cedcf0c2",
+    "assets": 407
   },
   "visualExpansion": {
     "baselineManifest": "content-expansion-v17.json",
@@ -2582,6 +2582,13 @@
         "associations": 0
       },
       {
+        "file": "visual-assets-china-batch-13-v18.json",
+        "bytes": 3386,
+        "sha256": "3dc7c02d9d7541ad3853461650a12557fcc9cde6c3b7b3ad5684a69bb8ee5796",
+        "assets": 1,
+        "associations": 0
+      },
+      {
         "file": "visual-assets-china-culture-12-v18.json",
         "bytes": 6380,
         "sha256": "8942e95070785094e0566cde1bff0cc43be319f3e226dc92ee932039d3d42775",
@@ -2680,6 +2687,13 @@
         "associations": 3
       },
       {
+        "file": "visual-assets-oceania-images-01-v18.json",
+        "bytes": 7274,
+        "sha256": "25f90d019ac0341e89c990f97986940725cc9761408bdab836621671f84a5440",
+        "assets": 2,
+        "associations": 0
+      },
+      {
         "file": "visual-assets-world-batch-02-v18.json",
         "bytes": 30673,
         "sha256": "69ee747653c5e840d4a1c83d550b8dbb447af83aafc559392076e8b3f87345aa",
@@ -2762,11 +2776,18 @@
         "sha256": "8672c1354fab1974cea37931dd45041d30e5b261d0c6baecea7d75d43b58803f",
         "assets": 3,
         "associations": 3
+      },
+      {
+        "file": "visual-assets-world-batch-15-v18.json",
+        "bytes": 4100,
+        "sha256": "05a582b418538e790aa429cd6966d35d7e707621c8ca33c180378dd5aafcdbe2",
+        "assets": 1,
+        "associations": 1
       }
     ],
     "coverageFile": "visual-coverage-v18.json",
-    "assets": 403,
-    "covered": 789,
+    "assets": 407,
+    "covered": 793,
     "total": 2087,
     "target": 1044
   }

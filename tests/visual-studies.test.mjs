@@ -6,8 +6,8 @@ import {entryMediaFigures} from '../dist/history-media.mjs';
 import {loadAtlasRecords,readAtlasData} from '../scripts/lib/atlas-records.mjs';
 const {manifest,records}=loadAtlasRecords(),catalog=readAtlasData(manifest.mediaFile);
 const escape=v=>String(v).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-test('seventeen source-specific studies require their actual two admitted images',()=>{
- assert.equal(availableVisualStudies(catalog.items).length,17);
+test('eighteen source-specific studies require their actual two admitted images',()=>{
+ assert.equal(availableVisualStudies(catalog.items).length,18);
  for(const study of VISUAL_STUDIES){assert.equal(new Set(study.assets).size,2);assert.equal(matchingVisualStudy([...study.assets].reverse()),study);assert.equal(availableVisualStudies(catalog.items.filter(i=>i.id!==study.assets[0])).includes(study),false);for(const lang of ['en','zh']){assert.ok(study.title[lang]);assert.ok(study.question[lang]);assert.ok(study.observations.length>=2);assert.ok(study.observations.every(o=>o[lang].length>30));}}
  assert.equal(matchingVisualStudy([VISUAL_STUDIES[0].assets[0],VISUAL_STUDIES[0].assets[0]]),null);assert.equal(matchingVisualStudy(['missing','unknown']),null);
 });
