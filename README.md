@@ -2,55 +2,45 @@
 
 **把故事放回当时的世界。 · Put each story back in its world.**
 
-[Explore the atlas](https://world-history-atlas-guide.web.app) · [GitHub Pages](https://haitaowu12.github.io/world-history-atlas/) · [简体中文](README_ZH.md) · [Acknowledgements & sources](ACKNOWLEDGEMENTS.md) · [Contribute](CONTRIBUTING.md)
+An English–Chinese atlas for exploring what was happening in different parts of the world at the same time. Follow a person, place or story through maps, timelines and guided readings.
 
-![普天之下 · World History Atlas, 1200 CE](dist/assets/atlas-preview.jpg)
+[**Explore the live atlas →**](https://world-history-atlas-guide.web.app/) · [简体中文](README_ZH.md) · [Sources & credits](ACKNOWLEDGEMENTS.md) · [Contribute](CONTRIBUTING.md)
 
-## Why I built this
+[![The live atlas at 1200 CE: a light map, story panel and side-by-side regional timelines](docs/images/atlas-live-2026-11-11.jpg)](https://world-history-atlas-guide.web.app/)
 
-This started with telling my daughter history stories. I kept finding that a story was explained on its own, with little sense of the wider world around it. Whenever I told her about an event or explained an artifact, I wanted to add some context: what was life like then, and what was happening elsewhere in the world at the same time?
-
-I had been trying to piece that together myself for a while. I also wanted to tell these stories in both English and Chinese, so my daughter could learn about the wider world while feeling connected to, and proud of, her Chinese heritage.
-
-Then I came across [Jiangshan Map / 江山时序](https://github.com/DeanChensj/jiangshan-map), by DeanChensj and contributors. It brought Chinese history onto a map through places, events and people's stories. It gave me a concrete way to pursue something I had wanted to make for a long time.
-
-Inspired by that work, and with help from OpenAI Codex, I built World History Atlas. I'm glad to share it with other parents, learners and anyone who enjoys putting history in perspective.
-
-— Tony Wu
+*Live interface, 11 November 2026. A light, map-first layout with red accents, readable story cards and regional timelines kept alongside the map.*
 
 ## Explore
 
-- Move through time and compare a compact selection of regional political timelines beside the map. Open the full timeline to browse all available states and dynasties.
-- Explore people, places, events and selected historical maps, with linked sources and notes about dates and uncertainty.
-- Switch between English and Chinese.
-- Follow short guided readings or explore longer sequences in chapters.
-- Save entries and personal notes in your browser, and export your notebook.
+- **See the wider world.** Choose a year, search across regions and themes, and compare states and dynasties side by side.
+- **Follow human stories.** Browse people and places, open biographies, and trace dated events on the map.
+- **Read in English or Chinese.** Take a short guided reading or explore longer sequences in chapters.
+- **Look at the evidence.** Selected portraits, objects and documents carry image dates, source links and individual rights notices.
+- **Keep your own notebook.** Save entries and notes in your browser, then export them.
 
-The repository release is **0.23.0**, with **2,084 historical entries, 278 full biographies and 103 guided readings**. The [release evidence](docs/V17_RELEASE_EVIDENCE.md) records checks and publication status; this branch's prepared output is not a claim that Firebase has been updated. This is a growing educational project with selected coverage. Maps have their own source dates and limits; an empty area does not mean an absence of people or history. Historical corrections, translation feedback and suggestions from different regional perspectives are welcome.
+Coverage is selective and growing. Historical maps have different dates and limits; an empty area does not mean an absence of people or history.
 
-## People, work and connected stories in 0.23.0
+## Development update · November 2026
 
-- **101 existing person profiles now have researched biographies**, retaining their names, aliases and links. All 278 People-directory entries have a full biography. Six source reviews explain why fewer than three dated episodes are supported; dates are not invented to fill a timeline.
-- **47 new bilingual stories across nine regions** bring makers, households, workers, travelers and record keepers into the atlas. Topics include Merer's limestone deliveries, Equiano's publishing network, Sanchi's donors, Vietnamese ceramic cargo, shared stewardship in Gwaii Haanas and Pacific material knowledge.
-- **30 new guided readings** connect the new material with existing people, places and events. Earlier reading IDs, stop order and shared URLs are preserved.
-- **13 additional historical images** bring the catalogue to 29. The new public-domain portraits/depictions and two Met CC0 object photographs have bilingual captions, source links and file-specific rights. Later portrayals remain identified as such.
-- **Bilingual places and source notes for the additions**, plus Chinese place captions for all 975 imported entries and 149 older linked records. Guarded translations retain amended geographic qualifications. Search handles tone marks, accented names, full-width text and repeated spaces across map, People, references and readings.
+**Published content:** the live Firebase site carries the V17 / **0.23.0** collection: **2,084 historical entries, 278 biographies and 103 guided readings**, with 29 credited historical images. The collection adds everyday work, material culture and connected stories across nine regions. [V17 research and checks](docs/V17_RELEASE_EVIDENCE.md).
 
-The [V17 Jiangshan review](docs/JIANGSHAN_REVIEW_V17.md) checks four newer donor commits, credits the connected-reading and search-parity methods, and records which features already existed. The [waterway/corridor comparison](docs/CH3_SOURCE_COMPARISON_V17.md) checks the inherited data against pinned source blobs and keeps historical and rights questions separate. No new donor code, prose or geometry is imported. The [roadmap](docs/CONTENT_EXPANSION_PLAN.md) distinguishes this completed publication scope from continuing regional research.
+**In development:** the next visual expansion is being built on a [separate review branch](https://github.com/haitaowu12/world-history-atlas/tree/review/atlas-visual-expansion-20261110). It adds sourced objects, documents and portraits, image comparisons, and a shorter presentation of reading notes and credits. This work is **not yet a published release**. See the [development record](https://github.com/haitaowu12/world-history-atlas/blob/review/atlas-visual-expansion-20261110/docs/V18_VISUAL_EXPANSION.md) for current coverage, checks and remaining work.
 
-## Stories and images in 0.22.0
+Firebase is the primary live destination. Older [GitHub Pages](https://haitaowu12.github.io/world-history-atlas/) and GPT Site links may show earlier versions. GitHub Actions are paused through November 2026; do not dispatch or retry workflows before December.
 
-- **14 new bilingual stories:** six China stories follow the An–Shi crisis through surviving words, Su Shi's poems and public work, and the Yongle Encyclopedia. Eight world stories explore a copper complaint, recipes, bread and beer, goldweights, Maya cacao, Inka weaving, Marshallese navigation and Tongan barkcloth.
-- **Four corrected earlier China stories:** the Jingyuan Mutiny, Chu and Jingnan, the Nine Classics printing project, and the Salt and Iron debate now have claim-specific evidence beyond their Jiangshan topic leads.
-- **16 credited local historical images:** ten portraits or depictions of historical people and six object or manuscript images, with bilingual captions, dates, representation limits and source links. Image rights are recorded individually in the [media notice](dist/assets/history-media/NOTICE.md).
+## Why I built this
 
-The [9 November Jiangshan review](docs/JIANGSHAN_REVIEW_2026_11_09.md) records that earlier release's selected topics, source checks and deferred work. It used those topics for original, independently sourced atlas writing, with no new Jiangshan code, prose or geometry import. Its three readings—**History in your hands**, **The Tang crisis through surviving words**, and **Books, poems and public work**—remain available unchanged.
+I started this while telling my daughter history stories. I wanted to show what life was like then and what was happening elsewhere at the same time, in both English and Chinese, so she could explore the wider world while staying connected to her Chinese heritage.
 
-## Thank you to Jiangshan and the source community
+[Jiangshan Map / 江山时序](https://github.com/DeanChensj/jiangshan-map), by DeanChensj and contributors, helped turn that idea into something I could build. With help from OpenAI Codex, I made this atlas for other parents, learners and people who enjoy putting history in perspective.
 
-A particular thank you to **DeanChensj and the Jiangshan Map contributors** for making [the original project](https://github.com/DeanChensj/jiangshan-map) available. It inspired this atlas, and this project also adapts attributed Jiangshan narratives, translations, place records and chronicles. Their contribution goes beyond inspiration.
+Tony Wu
 
-World History Atlas is independently maintained. Please also explore [Jiangshan's original live atlas](https://deanchen.me/jiangshan-map/). The [acknowledgements](ACKNOWLEDGEMENTS.md) name the projects, mapmakers, data providers and historical-source institutions behind this work, and explain the inherited material and retained notices.
+## Sources and acknowledgements
+
+Thank you to **DeanChensj and the Jiangshan Map contributors**. Their work is both an inspiration and a source of attributed narratives, translations, place records and chronicles adapted in this project. World History Atlas is independently maintained; please also explore [Jiangshan's original atlas](https://deanchen.me/jiangshan-map/).
+
+[Sources & credits](ACKNOWLEDGEMENTS.md) document the projects, mapmakers, data providers and institutions behind the atlas. Historical corrections and perspectives from different regions are welcome.
 
 ## Run locally
 
@@ -62,36 +52,12 @@ cd world-history-atlas
 npm run serve
 ```
 
-Open http://127.0.0.1:8080. To check the application and data, run `npm run check`.
+Open http://127.0.0.1:8080. Run `npm run check` to validate the application and data. The committed `dist/` directory is the static application.
 
-## Feedback and contributions
+## Contribute and reuse
 
-[Open an issue](https://github.com/haitaowu12/world-history-atlas/issues) with a correction, translation suggestion, usability problem or idea for a connected history. For a historical correction, include the entry's link or title and a source supporting the change. Contributions from parents, educators, historians and different language and regional communities would be especially useful.
+[Open an issue](https://github.com/haitaowu12/world-history-atlas/issues) for a correction, translation suggestion or usability problem. Include an entry link or title and a supporting source for historical corrections. Read the [contribution guide](CONTRIBUTING.md) and [data policy](docs/DATA_POLICY.md) before changing records.
 
-Read [CONTRIBUTING.md](CONTRIBUTING.md) and the [data policy](docs/DATA_POLICY.md) before changing historical records.
+Original application code and documentation use [MIT](LICENSE); original historical summaries and teaching material use [CC BY 4.0](docs/CONTENT_LICENSE.md). Imported material and dependencies retain their own notices. Images have [file-specific credits and rights](dist/assets/history-media/NOTICE.md). This is a mixed-license collection: neither MIT nor CC BY covers every file.
 
-## Reuse and attribution
-
-Original application code and documentation use [MIT](LICENSE). Original historical summaries and teaching material use [CC BY 4.0](docs/CONTENT_LICENSE.md). Imported narratives, map layers, quotations, translations and dependencies retain their own notices. Historical images have [file-specific credits and rights](dist/assets/history-media/NOTICE.md). The repository is a mixed-license collection; neither MIT nor CC BY covers every file. Read [Acknowledgements & sources](ACKNOWLEDGEMENTS.md) and the [content and third-party notices](docs/CONTENT_LICENSE.md) before reusing material.
-
-This standalone repository retains the atlas-specific development history extracted from the earlier fork. Historical source links and old commit references remain valid in that fork.
-
-Built by [Tony Wu](https://tony-wu-home.web.app/) · [More projects](https://tony-wu-home.web.app/#work).
-
-## Firebase Hosting
-
-[Open the published project](https://world-history-atlas-guide.web.app/). Firebase Hosting is the primary destination for future releases. Run `npm run check`; publish the committed `dist/` application. Preserve the existing Pages and GPT Site identities.
-
-```sh
-firebase deploy --only hosting --project tony-wu-projects
-```
-
-The repository configuration selects the site and public output directory. Hosting uses the no-cost Spark plan. The `Firebase Hosting` workflow publishes successful `main` builds once its Google federation connection is configured. Existing hosts remain available.
-
-### Automatic Firebase publication
-
-**November 2026 pause:** do not dispatch, retry or trigger GitHub Actions before December. V17 checkpoints use `review/atlas-completion-20261109`, outside the workflow's push patterns, and `[skip ci]`. No pull request was opened. Direct publication requires an existing authorized Firebase deployment session; the recovery environment did not have one.
-
-`.github/workflows/firebase-hosting.yml` runs the project checks and packages its public output on pull requests and pushes to `main`. Only a successful `main` build publishes to Firebase. Deployment uses the checked artifact, skips superseded commits and keeps the current live release when checks fail.
-
-The one-time Google connection requires the repository variables `FIREBASE_WORKLOAD_IDENTITY_PROVIDER` and `FIREBASE_DEPLOY_SERVICE_ACCOUNT`. Authentication uses short-lived GitHub identity tokens. A manual run from `main` can retry publication after a connection failure. Find the build and deployment result under **Actions → Firebase Hosting**.
+Built by [Tony Wu](https://tony-wu-home.web.app/) · [More projects](https://tony-wu-home.web.app/#work)
