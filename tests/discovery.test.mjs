@@ -130,3 +130,34 @@ test('related person events can be followed chronologically without inferring a 
   assert.equal(stop.location,record.location);
  }
 });
+
+
+test('people always show available portraits without excluding unillustrated people in either language',()=>{
+  const original=globalThis.document;
+  const events=new Map(),views=[];
+  const result={innerHTML:''};
+  globalThis.document={querySelector:selector=>selector==='#discovery-results'?result:{addEventListener:(type,fn)=>events.set(selector+':'+type,fn)}};
+  try{
+    const pair=people.slice(0,2),image={file:'assets/history-media/test-portrait.jpg',width:100,height:120,alt:{en:'Historical portrait',zh:'历史肖像'}};
+    for(const lang of ['en','zh']){
+      const discovery=createDiscovery({records:pair,people:pair,regions:{},getState:()=>({lang,year:1200}),escape:String,
+        media:{portrait:id=>id===pair[0].id?image:null},openDialog:html=>views.push(html)});
+      // Even callers retaining the former option cannot hide other people.
+      discovery.showPeople({portraits:true});
+      const html=views.at(-1);
+      assert.match(html,/role="status">2 /);
+      for(const person of pair)assert.ok(html.includes('data-id="'+person.id+'"'));
+      assert.equal((html.match(/data-history-image/g)||[]).length,1);
+      assert.ok(html.includes(image.alt[lang]));
+      assert.doesNotMatch(html,/discovery-portraits|portrait-filter|type="checkbox"/);
+      events.get('#discovery-search:input')({target:{value:pair[1].title[lang]}});
+      assert.ok(result.innerHTML.includes('data-id="'+pair[1].id+'"'),'search still finds an unillustrated person');
+      assert.doesNotMatch(result.innerHTML,/data-history-image/);
+    }
+    const missing=createDiscovery({records:pair,people:pair,getState:()=>({lang:'en'}),escape:String,mediaLoadFailed:true,openDialog:html=>views.push(html)});
+    missing.showPeople();
+    assert.match(views.at(-1),/role="status">2 /);
+    assert.match(views.at(-1),/could not load/);
+    assert.doesNotMatch(views.at(-1),/discovery-portraits/);
+  }finally{if(original===undefined)delete globalThis.document;else globalThis.document=original;}
+});

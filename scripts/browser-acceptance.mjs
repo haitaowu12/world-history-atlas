@@ -22,7 +22,6 @@ const manifest=read(CONTENT_MANIFEST);
 const media=read(manifest.mediaFile||'history-media.json');
 const priorCourses=new Set(read(read(manifest.baseline.manifest).coursesFile).map(course=>course.id));
 const readings=read(manifest.coursesFile).filter(course=>!priorCourses.has(course.id));
-const personIds=new Set(['people.json',...manifest.files.map(file=>file.file)].flatMap(read).filter(record=>record.kind==='person').map(record=>record.id));
 const mark=(name,details={})=>{evidence.checks.push({name,status:'passed',...details});console.log('PASS '+name);};
 
 try{
@@ -76,6 +75,27 @@ try{
   assert.equal(await page.locator('.fatal').count(),0);
   mark('Application starts with the selected content release',{version:manifest.version});
 
+  // The war-specific placement must win over later detail/responsive theme rules.
+  for(const width of [1440,700,500]){
+    await page.setViewportSize({width,height:1000});
+    await goto('#year=1942&lang=zh&mode=year&entry=second-world-war&view=history');
+    if(await page.locator('.map-stage.war-map-active').count()===0)await page.locator('#war-map-toggle').click();
+    if(await page.locator('.map-stage.detail-open').count())await page.locator('#detail [data-action="close-detail"]').click();
+    await page.locator('#reading-start [data-id="second-world-war"]').click();
+    assert.equal(await page.locator('.map-stage.war-map-active.detail-open').count(),1);
+    const controls=await page.locator('.map-controls').boundingBox();
+    assert.ok(controls.width<=44&&controls.height<=124,`war control stack at ${width}px`);
+    await page.locator('#zoom-in').focus();await page.keyboard.press('Enter');
+    assert.equal(await page.locator(':focus').getAttribute('id'),'zoom-in');
+    await page.locator('#zoom-reset').click();
+    await page.locator('#war-map-toggle').focus();await page.keyboard.press('Enter');
+    const regular=await page.locator('.map-controls').boundingBox();
+    assert.ok(regular.width<=44&&regular.height<=124,`regular control stack at ${width}px`);
+  }
+  await page.setViewportSize({width:1440,height:1000});
+  await goto('#year=1200&lang=en');
+  mark('War and regular controls remain compact with an entry open across desktop and narrow layouts');
+
   // Decode every distributed file; a successful HTTP response is insufficient.
   const imageResults=await page.evaluate(async items=>Promise.all(items.map(item=>new Promise(resolve=>{
     const image=new Image();image.onload=()=>resolve({id:item.id,width:image.naturalWidth,height:image.naturalHeight});
@@ -85,23 +105,26 @@ try{
   mark('Every local historical image decodes at its declared dimensions',{images:imageResults.length});
 
   await page.locator('#people-nav').click();
-  await page.locator('#discovery-portraits').focus();await page.keyboard.press('Space');
-  assert.equal(await page.locator('#discovery-portraits').isChecked(),true);
-  const portraitCount=new Set(media.items.filter(item=>item.kind==='portrait').flatMap(item=>item.recordIds).filter(id=>personIds.has(id))).size;
-  assert.equal(await page.locator('.discovery-card').count(),portraitCount);
+  assert.equal(await page.locator('#discovery-portraits').count(),0);
+  const allPeopleCount=await page.locator('.library-result-count').innerText();
+  const firstPeopleCount=await page.locator('.discovery-card').count();
+  assert.ok(firstPeopleCount>20,'the directory must retain people without portraits');
+  assert.ok(await page.locator('.discovery-card img').count()>0,'available portraits appear by default');
   assert.ok(await page.locator('.media-catalogue-note').innerText().then(text=>text.includes('later')));
   await page.screenshot({path:path.join(output,'desktop-people.png')});
+  await page.locator('#discovery-search').fill('Harriet Tubman');
   await page.locator('[data-action="discovery-person"][data-id="person-harriet-tubman"]').click();
   await imageLoaded('#dialog-content .history-figure img');
   const tubman=media.items.find(item=>item.id==='harriet-tubman');
   assert.equal(await page.locator('#dialog-content .history-image-credit a').first().getAttribute('href'),tubman.sourceUrl);
   assert.ok((await page.locator('#dialog-content').innerText()).includes(tubman.creator));
   await page.locator('[data-action="discovery-back"]').click();
-  assert.equal(await page.locator('#discovery-portraits').isChecked(),true);
-  assert.equal(await page.locator('.discovery-card').count(),portraitCount);
-  mark('Keyboard portrait filter, credited profile and return state work',{portraits:portraitCount});
+  assert.equal(await page.locator('#discovery-portraits').count(),0);
+  await page.locator('#discovery-search').fill('');
+  assert.equal(await page.locator('.library-result-count').innerText(),allPeopleCount);
+  assert.equal(await page.locator('.discovery-card').count(),firstPeopleCount);
+  mark('Default portraits, complete people directory and credited profile work');
 
-  await page.locator('#discovery-portraits').uncheck();
   const directoryCards=page.locator('#discovery-results .discovery-card');
   const firstBatch=await directoryCards.count();
   await page.locator('[data-action="discovery-more"]').click();
@@ -205,7 +228,7 @@ try{
   await missingPage.goto(base+'#year=755&lang=en');await missingPage.waitForFunction(()=>!!window.atlasAPI,{},{timeout:90000});
   await missingPage.locator('#people-nav').click();
   assert.match(await missingPage.locator('.media-catalogue-note').innerText(),/could not load/);
-  assert.equal(await missingPage.locator('#discovery-portraits').isDisabled(),true);
+  assert.equal(await missingPage.locator('#discovery-portraits').count(),0);
   assert.ok(await missingPage.locator('.discovery-card').count()>0);
   mark('An unavailable image catalogue does not prevent reading the atlas');
 
