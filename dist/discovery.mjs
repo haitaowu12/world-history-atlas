@@ -1,4 +1,4 @@
-import {mediaFigures,mediaThumbnail} from './history-media.mjs?v=5';
+import {mediaFigures,mediaThumbnail} from './history-media.mjs?v=6';
 import {sourceNoteHTML} from './source-notes.mjs?v=1';
 import {REGIONS,activeAt,formatPeriod,formatYear,recordSearchText,relatedRecords,safeSourceURL,validYear} from './core.mjs';
 import {libraryLocation,nearLibraryPlace} from './china-library.mjs?v=1';

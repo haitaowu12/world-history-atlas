@@ -35,3 +35,7 @@ The research validator passed 206 image hashes, 53 semantic regressions and 7,28
 ## World biography batch extension
 
 238 assets, 714 localized credit fields. The prior 206 rows are unchanged; all English date/creator/institution strings exactly match their source metadata. All 238 image hashes pass. Date precision distinguishes photograph exposure, publication, recto/verso, copies and uncertain attribution. Localization SHA256: `f656e083534dd365bbbe2fe25f39fa1cde7f587c1be0af9c3ccacf768bbcb0ca`.
+
+## China 06 and World 07 extension
+
+295 assets, 885 localized date/creator/collection fields. The prior 238 rows remain exactly unchanged. All English source strings and 295 file hashes match, with 103 semantic regressions and 10,479 assertions passing. Culture labels remain cultures rather than invented individual artists; Mauludi and Hijri dates are distinct; the uncertain Sun Yat-sen museum attribution remains qualified as a Commons credit. Localization SHA-256: `c894276befaf0472f9963a8c1e53386b3f0c9a1610c809880ae8c346b530d116`.

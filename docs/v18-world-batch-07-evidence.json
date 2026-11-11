@@ -1,0 +1,889 @@
+{
+  "reviewedAt": "2026-11-11",
+  "batch": "world-batch-07",
+  "ownerReview": "Admitted image pixels, exact file hashes, source and rights records reviewed before integration. Research candidates and held files are excluded.",
+  "evidence": {
+    "source-rights-ledger.json": [
+      {
+        "assetId": "world07-met-38460",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/38460",
+        "rightsSourceUrl": "https://www.metmuseum.org/art/collection/search/38460",
+        "receipt": "research/v18/world-batch-07/receipts/met-38460.json",
+        "identityEvidence": {
+          "Title": "Vessel",
+          "Date": "300 BCE–CE 200",
+          "Culture": "Thailand (Ban Chiang culture)",
+          "Medium": "Terracotta",
+          "Dimensions": "H. 11 1/8 in. (28.2 cm); Diam. 8 1/4 in. (21 cm); Diam. of rim 8 1/2 in. (21.6 cm)",
+          "Classification": "Ceramics",
+          "Credit Line": "Gift of André Emmerich, 1988",
+          "Object Number": "1988.224.2"
+        },
+        "rightsEvidence": {
+          "isOasc": true,
+          "isRestricted": false,
+          "originalImageUrl": "https://images.metmuseum.org/CRDImages/as/original/1988_224_2_O4_sf.jpg"
+        },
+        "downloadedFrom": "https://images.metmuseum.org/CRDImages/as/web-large/1988_224_2_O4_sf.jpg",
+        "sha256": "2fbe1453f3fdc4e7a70521debda1d86272d09c196f6b5f3238acaab2c769fafe",
+        "bytes": 145027,
+        "width": 600,
+        "height": 450,
+        "recordIds": [
+          "ban-chiang-village-archaeology"
+        ],
+        "association": "This terracotta vessel belongs to Ban Chiang culture, 300 BCE–200 CE, a late phase of the settlement tradition. Its museum attribution is not an excavated findspot.",
+        "pixelReview": "Entire image viewed in contact-review-1.jpg / contact-review-2.jpg; no synthetic reconstruction or local image editing."
+      },
+      {
+        "assetId": "world07-met-453183",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/453183",
+        "rightsSourceUrl": "https://www.metmuseum.org/art/collection/search/453183",
+        "receipt": "research/v18/world-batch-07/receipts/met-453183.json",
+        "identityEvidence": {
+          "Title": "The House of Bijapur",
+          "Artist": " Painting by Chand Muhammad (Indian, active 1680s)",
+          "Date": "ca. 1680",
+          "Geography": "Made in India, Deccan, Bijapur",
+          "Medium": "Ink, opaque watercolor, gold, and silver on paper",
+          "Dimensions": "Page: H. 16 1/4 in. (41.3 cm)           W. 12 13/16 in. (32.5cm)Mat: H. 22 in. (55.9 cm)         W. 16 in. (40.6 cm)",
+          "Classification": "Codices",
+          "Credit Line": "Purchase, Gifts in memory of Richard Ettinghausen; Schimmel Foundation Inc., Ehsan Yarshater, Karekin Beshir Ltd., Margaret Mushekian, Mr. and Mrs. Edward Ablat and Mr. and Mrs. Jerome A. Straka Gifts; The Friends of the Islamic Department Fund; Gifts of Mrs. A. Lincoln Scott and George Blumenthal, Bequests of Florence L. Goldmark, Charles R. Gerth and Millie Bruhl Frederick, and funds from various donors, by exchange; Louis E. and Theresa S. Seley Purchase Fund for Islamic Art and Rogers Fund, 1982",
+          "Object Number": "1982.213"
+        },
+        "rightsEvidence": {
+          "isOasc": true,
+          "isRestricted": false,
+          "originalImageUrl": "https://images.metmuseum.org/CRDImages/is/original/DP231353.jpg"
+        },
+        "downloadedFrom": "https://images.metmuseum.org/CRDImages/is/web-large/DP231353.jpg",
+        "sha256": "e259d24f3f64e6aacd61aa4f09d14c2d571958bb2545a4d1302667abd9cd51ea",
+        "bytes": 118718,
+        "width": 472,
+        "height": 624,
+        "recordIds": [
+          "bijapur-adilshahi"
+        ],
+        "association": "Painted around 1680 by Kamal Muhammad and Chand Muhammad, this dynastic composition gathers the Adil Shahi rulers across generations. It is a symbolic assembly, not a meeting witnessed by the artists.",
+        "pixelReview": "Entire image viewed in contact-review-1.jpg / contact-review-2.jpg; no synthetic reconstruction or local image editing."
+      },
+      {
+        "assetId": "world07-met-252456",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/252456",
+        "rightsSourceUrl": "https://www.metmuseum.org/art/collection/search/252456",
+        "receipt": "research/v18/world-batch-07/receipts/met-252456.json",
+        "identityEvidence": {
+          "Title": "Gold stater",
+          "Period": "Archaic",
+          "Date": "ca. 560–546 BCE",
+          "Culture": "Lydian",
+          "Medium": "Gold",
+          "Dimensions": "9/16 × 1/2 in., 0.283oz. (1.5 × 1.2 cm, 8.036g)",
+          "Classification": "Coins",
+          "Credit Line": "Gift of The American Society for the Excavation of Sardis, 1926",
+          "Object Number": "26.59.4"
+        },
+        "rightsEvidence": {
+          "isOasc": true,
+          "isRestricted": false,
+          "originalImageUrl": "https://images.metmuseum.org/CRDImages/gr/original/DP-17995-001.jpg"
+        },
+        "downloadedFrom": "https://images.metmuseum.org/CRDImages/gr/web-large/DP-17995-001.jpg",
+        "sha256": "5d9196ab750d715b5f119328a41895bcf69d4363dccca0ab9bcad12a7a532860",
+        "bytes": 61693,
+        "width": 600,
+        "height": 450,
+        "recordIds": [
+          "sardis-early-coinage"
+        ],
+        "association": "Dated about 560–546 BCE, this Lydian gold coin brings early standardized coinage into view. Its lion-and-bull design belongs to the monetary world associated with Sardis.",
+        "pixelReview": "Entire image viewed in contact-review-1.jpg / contact-review-2.jpg; no synthetic reconstruction or local image editing."
+      },
+      {
+        "assetId": "world07-met-327592",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/327592",
+        "rightsSourceUrl": "https://www.metmuseum.org/art/collection/search/327592",
+        "receipt": "research/v18/world-batch-07/receipts/met-327592.json",
+        "identityEvidence": {
+          "Title": "Foundation cone with cuneiform inscription of Enmetena of Lagash",
+          "Period": "Early Dynastic IIIb",
+          "Date": "ca. 2500–2350 BCE",
+          "Geography": "Southern Mesopotamia",
+          "Culture": "Sumerian",
+          "Medium": "Clay",
+          "Dimensions": "9 5/16 × 2 7/16 × 2 7/16 in. (23.6 × 6.2 × 6.2 cm)",
+          "Credit Line": "Purchase, Friends of Inanna Gifts, 1999",
+          "Object Number": "1999.190.1"
+        },
+        "rightsEvidence": {
+          "isOasc": true,
+          "isRestricted": false,
+          "originalImageUrl": "https://images.metmuseum.org/CRDImages/an/original/DP-32867-001.jpg"
+        },
+        "downloadedFrom": "https://images.metmuseum.org/CRDImages/an/web-large/DP-32867-001.jpg",
+        "sha256": "3826cafdf4c90f03e09d36875e8d6f55f296ea6d035ea985f936092a656cfd2f",
+        "bytes": 37808,
+        "width": 599,
+        "height": 417,
+        "recordIds": [
+          "mesopotamia-city-rivalry"
+        ],
+        "association": "The cuneiform inscription names Enmetena of Lagash. This Early Dynastic foundation object, about 2500–2350 BCE, is direct evidence of a city ruler presenting his authority in writing.",
+        "pixelReview": "Entire image viewed in contact-review-1.jpg / contact-review-2.jpg; no synthetic reconstruction or local image editing."
+      },
+      {
+        "assetId": "world07-met-307598",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/307598",
+        "rightsSourceUrl": "https://www.metmuseum.org/art/collection/search/307598",
+        "receipt": "research/v18/world-batch-07/receipts/met-307598.json",
+        "identityEvidence": {
+          "Title": "Eagle relief",
+          "Artist": "Toltec artist(s)",
+          "Date": "900–1200 CE",
+          "Geography": "Mexico",
+          "Culture": "Toltec",
+          "Medium": "Andesite or dacite, Maya blue, stucco, red pigment",
+          "Dimensions": "H. 27 1/2 × W. 29 1/2 × D. 3 in. (69.9 × 74.9 × 7.6 cm)",
+          "Classification": "Stone-Sculpture",
+          "Credit Line": "Gift of Frederic E. Church, 1893",
+          "Object Number": "93.27.1"
+        },
+        "rightsEvidence": {
+          "isOasc": true,
+          "isRestricted": false,
+          "originalImageUrl": "https://images.metmuseum.org/CRDImages/ao/original/DP-17616-001.jpg"
+        },
+        "downloadedFrom": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-17616-001.jpg",
+        "sha256": "b96becde47e21b2b3d7308f65558faa1f78c4a22c77a3c8c6da837ad5fa67a8c",
+        "bytes": 195083,
+        "width": 599,
+        "height": 553,
+        "recordIds": [
+          "toltec-tula-state"
+        ],
+        "association": "This Toltec relief dates to 900–1200 CE. Its eagle imagery provides a surviving example of the sculptural vocabulary of the Toltec world; it is not a photograph of Tula's ancient appearance.",
+        "pixelReview": "Entire image viewed in contact-review-1.jpg / contact-review-2.jpg; no synthetic reconstruction or local image editing."
+      },
+      {
+        "assetId": "world07-met-451303",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/451303",
+        "rightsSourceUrl": "https://www.metmuseum.org/art/collection/search/451303",
+        "receipt": "research/v18/world-batch-07/receipts/met-451303.json",
+        "identityEvidence": {
+          "Title": "\\\"Timur before Battle\\",
+          "Author": "Sharaf al-din &#39;Ali Yazdi (Iranian, Yazd 1370s–1454 Yazd)",
+          "Calligrapher": "Ya&#39;qub ibn Hasan, known as Siraj al-Husaini (active Shiraz, Iran)",
+          "Date": "839 AH/1436 CE",
+          "Geography": "Made in Iran",
+          "Medium": "Ink, opaque watercolor, silver, and gold on paper",
+          "Dimensions": "H. 11 1/2 in. (29.2 cm)W. 8 in. (20.3 cm)",
+          "Classification": "Codices",
+          "Credit Line": "Rogers Fund, 1955",
+          "Object Number": "55.121.16"
+        },
+        "rightsEvidence": {
+          "isOasc": true,
+          "isRestricted": false,
+          "originalImageUrl": "https://images.metmuseum.org/CRDImages/is/original/DP164663.jpg"
+        },
+        "downloadedFrom": "https://images.metmuseum.org/CRDImages/is/web-large/DP164663.jpg",
+        "sha256": "fadbd9a64787d36e716bc4a7814375bb6c57470e236763ab7384206043985dda",
+        "bytes": 78938,
+        "width": 436,
+        "height": 624,
+        "recordIds": [
+          "timurid-dynasty"
+        ],
+        "association": "This manuscript painting was made in 1436, after Timur's death. It illustrates a campaign episode from 1403 in a courtly history associated with his descendants, rather than recording the event on the spot.",
+        "pixelReview": "Entire image viewed in contact-review-1.jpg / contact-review-2.jpg; no synthetic reconstruction or local image editing."
+      },
+      {
+        "assetId": "world07-met-544779",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/544779",
+        "rightsSourceUrl": "https://www.metmuseum.org/art/collection/search/544779",
+        "receipt": "research/v18/world-batch-07/receipts/met-544779.json",
+        "identityEvidence": {
+          "Title": "Relief with Head of King Ahmose Wearing the Red Crown",
+          "Period": "New Kingdom",
+          "Dynasty": "Dynasty 18",
+          "Reign": "reign of Ahmose I",
+          "Date": "ca. 1550–1525 BCE",
+          "Geography": "From Egypt, Northern Upper Egypt, Abydos, Pyramid Temple of King Ahmose, Egypt Exploration Fund excavations, 1906–07",
+          "Medium": "Limestone, paint",
+          "Dimensions": "H. 45 cm (17 11/16 in); W. 37 cm (14 9/16 in)",
+          "Credit Line": "Gift of Egypt Exploration Fund, 1906",
+          "Object Number": "06.1231.34"
+        },
+        "rightsEvidence": {
+          "isOasc": true,
+          "isRestricted": false,
+          "originalImageUrl": "https://images.metmuseum.org/CRDImages/eg/original/vshatrelief.jpg"
+        },
+        "downloadedFrom": "https://images.metmuseum.org/CRDImages/eg/web-large/vshatrelief.jpg",
+        "sha256": "5dbe6ff4c91a8cdd38ec3cf8162a348ccc73ccaf512bbc609dfa04d25d33f72a",
+        "bytes": 162646,
+        "width": 569,
+        "height": 624,
+        "recordIds": [
+          "egypt-ahmose-reunification"
+        ],
+        "association": "The relief comes from Ahmose's pyramid temple at Abydos and dates to his reign, about 1550–1525 BCE. It shows royal representation from the reign linked to reunification, not a scene of the military campaigns.",
+        "pixelReview": "Entire image viewed in contact-review-1.jpg / contact-review-2.jpg; no synthetic reconstruction or local image editing."
+      },
+      {
+        "assetId": "world07-met-548212",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/548212",
+        "rightsSourceUrl": "https://www.metmuseum.org/art/collection/search/548212",
+        "receipt": "research/v18/world-batch-07/receipts/met-548212.json",
+        "identityEvidence": {
+          "Title": "Relief of Nebhepetre Mentuhotep II and the Goddess Hathor",
+          "Period": "Middle Kingdom",
+          "Dynasty": "Dynasty 11",
+          "Reign": "late reign of Mentuhotep II",
+          "Date": "ca. 2010–2000 B.C.",
+          "Geography": "From Egypt, Upper Egypt, Thebes, Deir el-Bahri, Temple of Mentuhotep II, Egypt Exploration Fund excavations, 1907",
+          "Medium": "Limestone, paint",
+          "Dimensions": "H. 36 cm (14 3/16 in); W. 98 cm (38 9/16 in)",
+          "Credit Line": "Gift of Egypt Exploration Fund, 1907",
+          "Object Number": "07.230.2"
+        },
+        "rightsEvidence": {
+          "isOasc": true,
+          "isRestricted": false,
+          "originalImageUrl": "https://images.metmuseum.org/CRDImages/eg/original/DP322047.jpg"
+        },
+        "downloadedFrom": "https://images.metmuseum.org/CRDImages/eg/web-large/DP322047.jpg",
+        "sha256": "30362b8a7cbd3dac0a8724d7eb5ef61d56c6aec27ba6fae130b68c5504e19d71",
+        "bytes": 77315,
+        "width": 600,
+        "height": 237,
+        "recordIds": [
+          "egypt-theban-reunification"
+        ],
+        "association": "From the king's Deir el-Bahri temple, about 2010–2000 BCE, this relief connects Theban kingship with Hathor. The goddess's image was damaged in the Amarna period and restored in antiquity; the surviving surface has multiple historical layers.",
+        "pixelReview": "Entire image viewed in contact-review-1.jpg / contact-review-2.jpg; no synthetic reconstruction or local image editing."
+      },
+      {
+        "assetId": "world07-met-322353",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/322353",
+        "rightsSourceUrl": "https://www.metmuseum.org/art/collection/search/322353",
+        "receipt": "research/v18/world-batch-07/receipts/met-322353.json",
+        "identityEvidence": {
+          "Title": "Drachm",
+          "Period": "Parthian",
+          "Date": "ca. 70–57 BCE",
+          "Geography": "Iran",
+          "Culture": "Parthian",
+          "Medium": "Silver",
+          "Dimensions": "Thickness 0.25 cm., Diameter 2.09 cm",
+          "Credit Line": "Bequest of Joseph H. Durkee, 1898",
+          "Object Number": "99.35.2955"
+        },
+        "rightsEvidence": {
+          "isOasc": true,
+          "isRestricted": false,
+          "originalImageUrl": "https://images.metmuseum.org/CRDImages/an/original/DP-13132-023.jpg"
+        },
+        "downloadedFrom": "https://images.metmuseum.org/CRDImages/an/web-large/DP-13132-023.jpg",
+        "sha256": "6007688169b134bb1ec5e2f4ea7329dd847ea46baa93e7fa49dea85c80605f0f",
+        "bytes": 27098,
+        "width": 600,
+        "height": 600,
+        "recordIds": [
+          "parthian-empire"
+        ],
+        "association": "The museum identifies this coin with Phraates III, about 70–57 BCE. The royal image offers a contemporary expression of Parthian authority; the dynastic name Arsaces does not make it a portrait of the dynasty's founder.",
+        "pixelReview": "Entire image viewed in contact-review-1.jpg / contact-review-2.jpg; no synthetic reconstruction or local image editing."
+      },
+      {
+        "assetId": "world07-met-316873",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/316873",
+        "rightsSourceUrl": "https://www.metmuseum.org/art/collection/search/316873",
+        "receipt": "research/v18/world-batch-07/receipts/met-316873.json",
+        "identityEvidence": {
+          "Title": "Temple Model",
+          "Date": "1400–1521",
+          "Geography": "Mexico, Mesoamerica, Guerrero (?), Balsas River region",
+          "Culture": "Mexica (Aztec)",
+          "Medium": "Ceramic",
+          "Dimensions": "H. 5 3/4 × W. 2 × D. 3 in. (14.6 × 5.1 × 7.6 cm)",
+          "Classification": "Ceramics-Sculpture",
+          "Credit Line": "Bequest of Arthur M. Bullowa, 1993  ",
+          "Object Number": "1994.35.48"
+        },
+        "rightsEvidence": {
+          "isOasc": true,
+          "isRestricted": false,
+          "originalImageUrl": "https://images.metmuseum.org/CRDImages/ao/original/DP341942.jpg"
+        },
+        "downloadedFrom": "https://images.metmuseum.org/CRDImages/ao/web-large/DP341942.jpg",
+        "sha256": "e1c3788df5d25e9cebd103a47a7a2c5c06056081713f0217179432c2a51c6dc9",
+        "bytes": 36973,
+        "width": 468,
+        "height": 624,
+        "recordIds": [
+          "mexica-triple-alliance"
+        ],
+        "association": "Dated 1400–1521, this small model preserves a Mexica temple form from the era of the Triple Alliance. Its Guerrero attribution is uncertain, and it is not a reconstruction of a specifically identified temple in Tenochtitlan.",
+        "pixelReview": "Entire image viewed in contact-review-1.jpg / contact-review-2.jpg; no synthetic reconstruction or local image editing."
+      },
+      {
+        "assetId": "world07-met-308005",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/308005",
+        "rightsSourceUrl": "https://www.metmuseum.org/art/collection/search/308005",
+        "receipt": "research/v18/world-batch-07/receipts/met-308005.json",
+        "identityEvidence": {
+          "Title": "Sarong (Kain Lepas)",
+          "Date": "mid to late 19th century",
+          "Geography": "Indonesia, Java, Pekalongan",
+          "Culture": "Javanese",
+          "Medium": "Cotton, paint",
+          "Dimensions": "Overall: 44 x 84 in. (111.76 x 213.36 cm)Other: 44 in. (111.76 cm)",
+          "Classification": "Textiles-Woven",
+          "Credit Line": "Rogers Fund, 1930",
+          "Object Number": "30.88.2"
+        },
+        "rightsEvidence": {
+          "isOasc": true,
+          "isRestricted": false,
+          "originalImageUrl": "https://images.metmuseum.org/CRDImages/ao/original/DP145501.jpg"
+        },
+        "downloadedFrom": "https://images.metmuseum.org/CRDImages/ao/web-large/DP145501.jpg",
+        "sha256": "5525ed96858e444ebbe942b06a2afcfc792939fd35a455106d4986298b460446",
+        "bytes": 92982,
+        "width": 599,
+        "height": 366,
+        "recordIds": [
+          "pekalongan-batik-workshops"
+        ],
+        "association": "This mid-to-late nineteenth-century Pekalongan sarong provides an earlier local comparison for the entry's later workshop stories. It is not the signed 1910 garment discussed in the narrative and is not attributed to that maker.",
+        "pixelReview": "Entire image viewed in contact-review-1.jpg / contact-review-2.jpg; no synthetic reconstruction or local image editing."
+      },
+      {
+        "assetId": "world07-met-322265",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/322265",
+        "rightsSourceUrl": "https://www.metmuseum.org/art/collection/search/322265",
+        "receipt": "research/v18/world-batch-07/receipts/met-322265.json",
+        "identityEvidence": {
+          "Title": "Altar",
+          "Date": "ca. 232",
+          "Geography": "Syria, probably from Palmyra",
+          "Medium": "Limestone",
+          "Dimensions": "20 7/16 × 8 1/4 × 5 1/4 in. (52 × 21 × 13.3 cm)",
+          "Credit Line": "Purchase, 1895",
+          "Object Number": "95.28"
+        },
+        "rightsEvidence": {
+          "isOasc": true,
+          "isRestricted": false,
+          "originalImageUrl": "https://images.metmuseum.org/CRDImages/an/original/DP-15732-011.jpg"
+        },
+        "downloadedFrom": "https://images.metmuseum.org/CRDImages/an/web-large/DP-15732-011.jpg",
+        "sha256": "e55e7d94947c7cb29d4036483ed5dd0ca1662e025de25e349eb593bf4868d7c5",
+        "bytes": 65310,
+        "width": 468,
+        "height": 624,
+        "recordIds": [
+          "palmyra-oasis-city"
+        ],
+        "association": "The museum dates this limestone altar to about 232 CE and gives Palmyra as its probable origin. Its dedication to the so-called Nameless God illuminates religious life in the oasis city, with the findspot qualification retained.",
+        "pixelReview": "Entire image viewed in contact-review-1.jpg / contact-review-2.jpg; no synthetic reconstruction or local image editing."
+      },
+      {
+        "assetId": "world07-met-452271",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/452271",
+        "rightsSourceUrl": "https://www.metmuseum.org/art/collection/search/452271",
+        "receipt": "research/v18/world-batch-07/receipts/met-452271.json",
+        "identityEvidence": {
+          "Title": "Tiraz Veil",
+          "Date": "dated 373 AH/983–984 CE",
+          "Geography": "Attributed to Egypt, Tinnis",
+          "Medium": "Silk; plain weave, tapestry weave",
+          "Dimensions": "Textile: L. 23 3/8 in. (59.4 cm)             W. 55 3/4 in. (141.6 cm)Mount: L. 31 1/2 in. (80 cm)             W. 64 3/8 in. (163.5 cm)             D. 2 in. (5.1 cm)",
+          "Classification": "Textiles-Woven",
+          "Credit Line": "Rogers Fund, 1971",
+          "Object Number": "1971.151"
+        },
+        "rightsEvidence": {
+          "isOasc": true,
+          "isRestricted": false,
+          "originalImageUrl": "https://images.metmuseum.org/CRDImages/is/original/DP101032.jpg"
+        },
+        "downloadedFrom": "https://images.metmuseum.org/CRDImages/is/web-large/DP101032.jpg",
+        "sha256": "04f07f936d31fbe9f4071a56ca577a9f59fe20a8fea35436cfff41e69c0814cb",
+        "bytes": 78832,
+        "width": 599,
+        "height": 250,
+        "recordIds": [
+          "fatimid-caliphate"
+        ],
+        "association": "The veil's inscription dates it to 373 AH/983–984 CE and names the Fatimid caliph al-Aziz. Attributed to Tinnis, it links textile production with named state authority rather than merely supplying a decorative pattern.",
+        "pixelReview": "Entire image viewed in contact-review-1.jpg / contact-review-2.jpg; no synthetic reconstruction or local image editing."
+      },
+      {
+        "assetId": "world07-met-321908",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/321908",
+        "rightsSourceUrl": "https://www.metmuseum.org/art/collection/search/321908",
+        "receipt": "research/v18/world-batch-07/receipts/met-321908.json",
+        "identityEvidence": {
+          "Title": "Cuneiform cylinder: inscription of Nebuchadnezzar II commemorating the reconstruction of Etemenanki, the ziggurat at Babylon",
+          "Period": "Neo-Babylonian",
+          "Date": "ca. 604–562 BCE",
+          "Geography": "Mesopotamia, Babylon (?)",
+          "Culture": "Babylonian",
+          "Medium": "Clay",
+          "Dimensions": "3.5 x 3.12 x 1.18 in. (8.89 x 7.92 x 3 cm)",
+          "Credit Line": "Purchase, 1886",
+          "Object Number": "86.11.284"
+        },
+        "rightsEvidence": {
+          "isOasc": true,
+          "isRestricted": false,
+          "originalImageUrl": "https://images.metmuseum.org/CRDImages/an/original/ME86_11_284.jpg"
+        },
+        "downloadedFrom": "https://images.metmuseum.org/CRDImages/an/web-large/ME86_11_284.jpg",
+        "sha256": "4b5408cfe024c4b1ff7e9d5204f7e874229353f6700f49cc901e17a788c099f3",
+        "bytes": 85751,
+        "width": 600,
+        "height": 536,
+        "recordIds": [
+          "neo-babylonian-empire"
+        ],
+        "association": "This clay cylinder fragment commemorates Nebuchadnezzar II's rebuilding of Babylon's Etemenanki ziggurat, about 604–562 BCE. It is an original royal building inscription, not a later imagined view of the tower.",
+        "pixelReview": "Entire image viewed in contact-review-1.jpg / contact-review-2.jpg; no synthetic reconstruction or local image editing."
+      },
+      {
+        "assetId": "world07-met-312671",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/312671",
+        "rightsSourceUrl": "https://www.metmuseum.org/art/collection/search/312671",
+        "receipt": "research/v18/world-batch-07/receipts/met-312671.json",
+        "identityEvidence": {
+          "Title": "Tunic",
+          "Date": "7th–9th century",
+          "Geography": "Peru",
+          "Culture": "Wari",
+          "Medium": "Cotton, camelid hair",
+          "Dimensions": "H. 43 1/4 x W. 40 in. (109.9 x 101.6cm)",
+          "Classification": "Textiles-Woven",
+          "Credit Line": "The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979",
+          "Object Number": "1979.206.461"
+        },
+        "rightsEvidence": {
+          "isOasc": true,
+          "isRestricted": false,
+          "originalImageUrl": "https://images.metmuseum.org/CRDImages/ao/original/1979.206.461.jpg"
+        },
+        "downloadedFrom": "https://images.metmuseum.org/CRDImages/ao/web-large/1979.206.461.jpg",
+        "sha256": "f06ec4f1557cfa3c8aacf3398ba81e037c51156fc68cf35a4a855cc38c95c8bf",
+        "bytes": 356066,
+        "width": 600,
+        "height": 507,
+        "recordIds": [
+          "wari-imperial-world"
+        ],
+        "association": "This seventh-to-ninth-century cotton and camelid-fiber tunic exemplifies Wari textile design. Standardized designs suggest organized production, but do not by themselves prove a particular state workshop made this garment.",
+        "pixelReview": "Entire image viewed in contact-review-1.jpg / contact-review-2.jpg; no synthetic reconstruction or local image editing."
+      },
+      {
+        "assetId": "world07-met-457583",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/457583",
+        "rightsSourceUrl": "https://www.metmuseum.org/art/collection/search/457583",
+        "receipt": "research/v18/world-batch-07/receipts/met-457583.json",
+        "identityEvidence": {
+          "Title": "Dinar of Tughril (r. 1040–63)",
+          "Date": "dated 444 AH/1052–53 CE",
+          "Geography": "Excavated in Iran, Nishapur. Minted in Iran, Nishapur",
+          "Medium": "Gold",
+          "Dimensions": "D. 1/16 in. (0.2 cm)Diam. 7/8 in. (2.2 cm)Wt. 0.1 oz. (2.8 g)",
+          "Classification": "Coins",
+          "Credit Line": "Rogers Fund, 1939",
+          "Object Number": "39.40.127.513"
+        },
+        "rightsEvidence": {
+          "isOasc": true,
+          "isRestricted": false,
+          "originalImageUrl": "https://images.metmuseum.org/CRDImages/is/original/DP368492.jpg"
+        },
+        "downloadedFrom": "https://images.metmuseum.org/CRDImages/is/web-large/DP368492.jpg",
+        "sha256": "bf26db38e47fb9b2603d7e1cef14deb3df51526f3ae8b407ffe0a7dfc170a947",
+        "bytes": 27251,
+        "width": 456,
+        "height": 624,
+        "recordIds": [
+          "great-seljuqs"
+        ],
+        "association": "Dated 444 AH/1052–53 CE, this Nishapur coin names Tughril and the Abbasid caliph. Its inscription makes visible the relationship between Seljuq rule and caliphal legitimacy.",
+        "pixelReview": "Entire image viewed in contact-review-1.jpg / contact-review-2.jpg; no synthetic reconstruction or local image editing."
+      },
+      {
+        "assetId": "world07-met-29616",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/29616",
+        "rightsSourceUrl": "https://www.metmuseum.org/art/collection/search/29616",
+        "receipt": "research/v18/world-batch-07/receipts/met-29616.json",
+        "identityEvidence": {
+          "Title": "Flintlock Blunderbuss",
+          "Date": "dated Mauludi-era 1225/1796–97 CE",
+          "Geography": "Srirangapatna, Karnataka",
+          "Culture": "Indian, Mysore, Srirangapatna",
+          "Medium": "Steel, wood, silver, gold, copper alloy",
+          "Dimensions": "L. 40 3/8 in. (102.5 cm); L. of barrel 23 3/4 in. (60.2 cm); Cal. 1.75 (44.0 mm); Wt. 6 lb. (2741 g)",
+          "Classification": "Firearms-Guns-Flintlock",
+          "Credit Line": "Gift of Christian A. Zabriskie, 1936",
+          "Object Number": "36.149.2"
+        },
+        "rightsEvidence": {
+          "isOasc": true,
+          "isRestricted": false,
+          "originalImageUrl": "https://images.metmuseum.org/CRDImages/aa/original/DP165770.jpg"
+        },
+        "downloadedFrom": "https://images.metmuseum.org/CRDImages/aa/web-large/DP165770.jpg",
+        "sha256": "750d7cf8da8fd10fb5b7adf41e2ba62af168a82caa8a95250513b34885f4177c",
+        "bytes": 12864,
+        "width": 599,
+        "height": 297,
+        "recordIds": [
+          "mysore-hyder-tipu-phase"
+        ],
+        "association": "Made at Srirangapatna and dated 1796–97, this surviving firearm belonged to Tipu Sultan's armory. Its tiger decoration links courtly design with the military institutions of late-eighteenth-century Mysore.",
+        "pixelReview": "Entire image viewed in contact-review-1.jpg / contact-review-2.jpg; no synthetic reconstruction or local image editing."
+      },
+      {
+        "assetId": "world07-cma-kantha",
+        "sourceUrl": "https://www.clevelandart.org/art/1996.350",
+        "rightsSourceUrl": "https://www.clevelandart.org/art/1996.350",
+        "receipt": "research/v18/world-batch-07/receipts/cma-1996.350.json",
+        "identityEvidence": {
+          "title": "Kantha",
+          "accession_number": "1996.350",
+          "creation_date": "1800s",
+          "culture": [
+            "India, Bengal, 19th century"
+          ],
+          "technique": "embroidery and quilting, cotton",
+          "creditline": "Gift of William E. Ward in memory of his wife, Evelyn Svec Ward",
+          "share_license_status": "CC0"
+        },
+        "rightsEvidence": {
+          "share_license_status": "CC0"
+        },
+        "downloadedFrom": "https://www.clevelandart.org/_next/image?url=https%3A%2F%2Fpiction.clevelandart.org%2Fcma%2Fump.di%3Fe%3D7AD59A9DC4B7D80E561B78E4CE758F4E039A9BC5531F9B45A539F1554E76CDD2%26s%3D24247294%26se%3D399313166%26v%3D2%26f%3D1996.350_o5.jpg&w=640&q=75",
+        "sha256": "87a9d45b74afccd8b69dde784d614929ac9f92ed4bea5be62c4f2364abe467e0",
+        "bytes": 63992,
+        "width": 640,
+        "height": 399,
+        "recordIds": [
+          "bengal-kantha-household-memory"
+        ],
+        "association": "This nineteenth-century embroidered and quilted cotton kantha is attributed to Bengal. Its preserved stitches and motifs give the household textile tradition a concrete example; the maker and the particular family history are not recorded.",
+        "pixelReview": "Entire image viewed in contact-review-1.jpg / contact-review-2.jpg; no synthetic reconstruction or local image editing."
+      }
+    ],
+    "review-report.json": {
+      "items": 18,
+      "associations": 18,
+      "uniqueRecords": 18,
+      "newUniqueCoverage": 18,
+      "newRecordIds": [
+        "ban-chiang-village-archaeology",
+        "bengal-kantha-household-memory",
+        "bijapur-adilshahi",
+        "egypt-ahmose-reunification",
+        "egypt-theban-reunification",
+        "fatimid-caliphate",
+        "great-seljuqs",
+        "mesopotamia-city-rivalry",
+        "mexica-triple-alliance",
+        "mysore-hyder-tipu-phase",
+        "neo-babylonian-empire",
+        "palmyra-oasis-city",
+        "parthian-empire",
+        "pekalongan-batik-workshops",
+        "sardis-early-coinage",
+        "timurid-dynasty",
+        "toltec-tula-state",
+        "wari-imperial-world"
+      ],
+      "comparisonCatalogSHA256": "5c446d93cd32014f10267df43a29cc3b2bda4fb7064928c78ec42f910e22d2b3",
+      "schemaAuditErrors": [],
+      "pixelReviewSheets": [
+        "contact-review-1.jpg",
+        "contact-review-2.jpg"
+      ],
+      "heldCandidates": 25,
+      "allFilesWithinByteAndDimensionLimits": true
+    },
+    "held-candidates.json": [
+      {
+        "candidate": "cma-1917.26",
+        "sourceUrl": "https://clevelandart.org/art/1917.26",
+        "reason": "Source researched, no admitted download: institutional image request encountered 403 access restriction. No further alternate route attempted in this phase."
+      },
+      {
+        "candidate": "cma-1940.469",
+        "sourceUrl": "https://clevelandart.org/art/1940.469",
+        "reason": "Source researched, no admitted download: institutional image request encountered 403 access restriction. No further alternate route attempted in this phase."
+      },
+      {
+        "candidate": "cma-1971.149",
+        "sourceUrl": "https://clevelandart.org/art/1971.149",
+        "reason": "Source researched, no admitted download: institutional image request encountered 403 access restriction. No further alternate route attempted in this phase."
+      },
+      {
+        "candidate": "cma-1985.199",
+        "sourceUrl": "https://clevelandart.org/art/1985.199",
+        "reason": "Djenné attribution and 1300s–1600s dating uncertain; do not use as excavated settlement evidence."
+      },
+      {
+        "candidate": "cma-1995.21",
+        "sourceUrl": "https://clevelandart.org/art/1995.21",
+        "reason": "Nok head dating (20–620 CE testing range) does not match current entry window; additionally image retrieval unavailable."
+      },
+      {
+        "candidate": "cma-1995.244",
+        "sourceUrl": "https://clevelandart.org/art/1995.244",
+        "reason": "Source researched, no admitted download: institutional image request encountered 403 access restriction. No further alternate route attempted in this phase."
+      },
+      {
+        "candidate": "cma-2003.90",
+        "sourceUrl": "https://clevelandart.org/art/2003.90",
+        "reason": "Source researched, no admitted download: institutional image request encountered 403 access restriction. No further alternate route attempted in this phase."
+      },
+      {
+        "candidate": "cma-2004.85",
+        "sourceUrl": "https://clevelandart.org/art/2004.85",
+        "reason": "Source researched, no admitted download: institutional image request encountered 403 access restriction. No further alternate route attempted in this phase."
+      },
+      {
+        "candidate": "met-313662",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/313662",
+        "reason": "Not admitted: per-image metadata does not grant unrestricted Open Access; no generic footer substitution."
+      },
+      {
+        "candidate": "met-327799",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/327799",
+        "reason": "Downloaded, not admitted: geographic/site association too indirect for Hattusha; source includes a modern seal impression."
+      },
+      {
+        "candidate": "met-37835",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/37835",
+        "reason": "Downloaded, not admitted: early twelfth-century Jain cover postdates current narrative window; subject identification is uncertain."
+      },
+      {
+        "candidate": "met-38224",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/38224",
+        "reason": "Downloaded, not admitted: fifth–sixth-century shrine too late for selected early narrative targets."
+      },
+      {
+        "candidate": "met-38235",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/38235",
+        "reason": "Source researched, no admitted download: institutional image request encountered 403 access restriction. No further alternate route attempted in this phase."
+      },
+      {
+        "candidate": "met-38314",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/38314",
+        "reason": "Source researched, no admitted download: institutional image request encountered 403 access restriction. No further alternate route attempted in this phase."
+      },
+      {
+        "candidate": "met-38474",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/38474",
+        "reason": "Source researched, no admitted download: institutional image request encountered 403 access restriction. No further alternate route attempted in this phase."
+      },
+      {
+        "candidate": "met-39110",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/39110",
+        "reason": "Source researched, no admitted download: institutional image request encountered 403 access restriction. No further alternate route attempted in this phase."
+      },
+      {
+        "candidate": "met-39120",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/39120",
+        "reason": "Source researched, no admitted download: institutional image request encountered 403 access restriction. No further alternate route attempted in this phase."
+      },
+      {
+        "candidate": "met-39320",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/39320",
+        "reason": "Source researched, no admitted download: institutional image request encountered 403 access restriction. No further alternate route attempted in this phase."
+      },
+      {
+        "candidate": "met-39378",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/39378",
+        "reason": "Source researched, no admitted download: institutional image request encountered 403 access restriction. No further alternate route attempted in this phase."
+      },
+      {
+        "candidate": "met-446288",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/446288",
+        "reason": "Source researched, no admitted download: institutional image request encountered 403 access restriction. No further alternate route attempted in this phase."
+      },
+      {
+        "candidate": "met-452770",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/452770",
+        "reason": "Source researched, no admitted download: institutional image request encountered 403 access restriction. No further alternate route attempted in this phase."
+      },
+      {
+        "candidate": "met-551805",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/551805",
+        "reason": "Source researched, no admitted download: institutional image request encountered 403 access restriction. No further alternate route attempted in this phase."
+      },
+      {
+        "candidate": "met-553568",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/553568",
+        "reason": "Not admitted: per-image metadata does not grant unrestricted Open Access; no generic footer substitution."
+      },
+      {
+        "candidate": "met-690570",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/690570",
+        "reason": "Not admitted: per-image metadata does not grant unrestricted Open Access; no generic footer substitution."
+      },
+      {
+        "candidate": "met-75200",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/75200",
+        "reason": "Source researched, no admitted download: institutional image request encountered 403 access restriction. No further alternate route attempted in this phase."
+      }
+    ],
+    "file-copy-manifest.json": [
+      {
+        "source": "research/v18/world-batch-07/assets/met-38460.jpg",
+        "destination": "assets/history-media/world07-met-38460.jpg",
+        "sha256": "2fbe1453f3fdc4e7a70521debda1d86272d09c196f6b5f3238acaab2c769fafe",
+        "bytes": 145027,
+        "width": 600,
+        "height": 450
+      },
+      {
+        "source": "research/v18/world-batch-07/assets/met-453183.jpg",
+        "destination": "assets/history-media/world07-met-453183.jpg",
+        "sha256": "e259d24f3f64e6aacd61aa4f09d14c2d571958bb2545a4d1302667abd9cd51ea",
+        "bytes": 118718,
+        "width": 472,
+        "height": 624
+      },
+      {
+        "source": "research/v18/world-batch-07/assets/met-252456.jpg",
+        "destination": "assets/history-media/world07-met-252456.jpg",
+        "sha256": "5d9196ab750d715b5f119328a41895bcf69d4363dccca0ab9bcad12a7a532860",
+        "bytes": 61693,
+        "width": 600,
+        "height": 450
+      },
+      {
+        "source": "research/v18/world-batch-07/assets/met-327592.jpg",
+        "destination": "assets/history-media/world07-met-327592.jpg",
+        "sha256": "3826cafdf4c90f03e09d36875e8d6f55f296ea6d035ea985f936092a656cfd2f",
+        "bytes": 37808,
+        "width": 599,
+        "height": 417
+      },
+      {
+        "source": "research/v18/world-batch-07/assets/met-307598.jpg",
+        "destination": "assets/history-media/world07-met-307598.jpg",
+        "sha256": "b96becde47e21b2b3d7308f65558faa1f78c4a22c77a3c8c6da837ad5fa67a8c",
+        "bytes": 195083,
+        "width": 599,
+        "height": 553
+      },
+      {
+        "source": "research/v18/world-batch-07/assets/met-451303.jpg",
+        "destination": "assets/history-media/world07-met-451303.jpg",
+        "sha256": "fadbd9a64787d36e716bc4a7814375bb6c57470e236763ab7384206043985dda",
+        "bytes": 78938,
+        "width": 436,
+        "height": 624
+      },
+      {
+        "source": "research/v18/world-batch-07/assets/met-544779.jpg",
+        "destination": "assets/history-media/world07-met-544779.jpg",
+        "sha256": "5dbe6ff4c91a8cdd38ec3cf8162a348ccc73ccaf512bbc609dfa04d25d33f72a",
+        "bytes": 162646,
+        "width": 569,
+        "height": 624
+      },
+      {
+        "source": "research/v18/world-batch-07/assets/met-548212.jpg",
+        "destination": "assets/history-media/world07-met-548212.jpg",
+        "sha256": "30362b8a7cbd3dac0a8724d7eb5ef61d56c6aec27ba6fae130b68c5504e19d71",
+        "bytes": 77315,
+        "width": 600,
+        "height": 237
+      },
+      {
+        "source": "research/v18/world-batch-07/assets/met-322353.jpg",
+        "destination": "assets/history-media/world07-met-322353.jpg",
+        "sha256": "6007688169b134bb1ec5e2f4ea7329dd847ea46baa93e7fa49dea85c80605f0f",
+        "bytes": 27098,
+        "width": 600,
+        "height": 600
+      },
+      {
+        "source": "research/v18/world-batch-07/assets/met-316873.jpg",
+        "destination": "assets/history-media/world07-met-316873.jpg",
+        "sha256": "e1c3788df5d25e9cebd103a47a7a2c5c06056081713f0217179432c2a51c6dc9",
+        "bytes": 36973,
+        "width": 468,
+        "height": 624
+      },
+      {
+        "source": "research/v18/world-batch-07/assets/met-308005.jpg",
+        "destination": "assets/history-media/world07-met-308005.jpg",
+        "sha256": "5525ed96858e444ebbe942b06a2afcfc792939fd35a455106d4986298b460446",
+        "bytes": 92982,
+        "width": 599,
+        "height": 366
+      },
+      {
+        "source": "research/v18/world-batch-07/assets/met-322265.jpg",
+        "destination": "assets/history-media/world07-met-322265.jpg",
+        "sha256": "e55e7d94947c7cb29d4036483ed5dd0ca1662e025de25e349eb593bf4868d7c5",
+        "bytes": 65310,
+        "width": 468,
+        "height": 624
+      },
+      {
+        "source": "research/v18/world-batch-07/assets/met-452271.jpg",
+        "destination": "assets/history-media/world07-met-452271.jpg",
+        "sha256": "04f07f936d31fbe9f4071a56ca577a9f59fe20a8fea35436cfff41e69c0814cb",
+        "bytes": 78832,
+        "width": 599,
+        "height": 250
+      },
+      {
+        "source": "research/v18/world-batch-07/assets/met-321908.jpg",
+        "destination": "assets/history-media/world07-met-321908.jpg",
+        "sha256": "4b5408cfe024c4b1ff7e9d5204f7e874229353f6700f49cc901e17a788c099f3",
+        "bytes": 85751,
+        "width": 600,
+        "height": 536
+      },
+      {
+        "source": "research/v18/world-batch-07/assets/met-312671.jpg",
+        "destination": "assets/history-media/world07-met-312671.jpg",
+        "sha256": "f06ec4f1557cfa3c8aacf3398ba81e037c51156fc68cf35a4a855cc38c95c8bf",
+        "bytes": 356066,
+        "width": 600,
+        "height": 507
+      },
+      {
+        "source": "research/v18/world-batch-07/assets/met-457583.jpg",
+        "destination": "assets/history-media/world07-met-457583.jpg",
+        "sha256": "bf26db38e47fb9b2603d7e1cef14deb3df51526f3ae8b407ffe0a7dfc170a947",
+        "bytes": 27251,
+        "width": 456,
+        "height": 624
+      },
+      {
+        "source": "research/v18/world-batch-07/assets/met-29616.jpg",
+        "destination": "assets/history-media/world07-met-29616.jpg",
+        "sha256": "750d7cf8da8fd10fb5b7adf41e2ba62af168a82caa8a95250513b34885f4177c",
+        "bytes": 12864,
+        "width": 599,
+        "height": 297
+      },
+      {
+        "source": "research/v18/world-batch-07/assets/cma-1996.350-small.jpg",
+        "destination": "assets/history-media/world07-cma-kantha.jpg",
+        "sha256": "87a9d45b74afccd8b69dde784d614929ac9f92ed4bea5be62c4f2364abe467e0",
+        "bytes": 63992,
+        "width": 640,
+        "height": 399
+      }
+    ]
+  }
+}

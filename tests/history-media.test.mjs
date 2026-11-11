@@ -2,7 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import {createHash} from 'node:crypto';
-import {auditHistoryMedia,createHistoryMedia,mediaFigures,handleHistoryImageError} from '../dist/history-media.mjs';
+import {auditHistoryMedia,createHistoryMedia,mediaFigures,mediaContextSources,handleHistoryImageError} from '../dist/history-media.mjs';
 import {loadAtlasRecords} from '../scripts/lib/atlas-records.mjs';
 import {CONTENT_MANIFEST} from '../dist/content-expansion.mjs';
 
@@ -49,7 +49,7 @@ test('the public image caption retains credit, rights and later-depiction contex
     for(const lang of ['en','zh']){
       const html=mediaFigures([item],lang,escape);
       for(const value of [item.sourceUrl,item.rights.url,item.interpretation[lang],item.caption[lang],item.alt[lang]])assert.ok(html.includes(escape(value)));
-      for(const source of item.contextSources||[])assert.ok(html.includes(escape(source.url))&&html.includes(escape(source.title[lang])));
+      for(const source of mediaContextSources(item))assert.ok(html.includes(escape(source.url))&&html.includes(escape(source.title[lang])));
       assert.match(html,/loading="lazy"/);
     }
   }
@@ -64,4 +64,21 @@ test('broken images keep their caption available and expose a readable fallback'
   assert.equal(attributes.href,'https://example.org/object/1');
   assert.equal(attributes['aria-label'],'Open collection record: portrait');
   assert.doesNotThrow(()=>handleHistoryImageError({target:{}}));
+});
+
+test('image credits deduplicate source and license destinations while retaining distinct reading',()=>{
+ const item=structuredClone(catalog.items[0]);
+ item.contextSources=[
+  {title:{en:'Repeated collection',zh:'重复馆藏'},url:item.sourceUrl},
+  {title:{en:'Repeated rights',zh:'重复许可'},url:item.rights.url},
+  {title:{en:'Further reading',zh:'延伸阅读'},url:'https://example.org/reading'},
+  {title:{en:'Same reading twice',zh:'再次重复阅读'},url:'https://example.org/reading'}
+ ];
+ assert.equal(mediaContextSources(item).length,1);
+ for(const lang of ['en','zh']){const html=mediaFigures([item],lang,String);assert.equal(html.split('href="'+item.sourceUrl+'"').length-1,1);assert.equal(html.split('href="'+item.rights.url+'"').length-1,1);assert.ok(html.includes(item.contextSources[2].title[lang]));assert.ok(!html.includes(item.contextSources[0].title[lang]));}
+});
+
+test('a relationship identical to the caption is displayed once',()=>{
+ const item=structuredClone(catalog.items[0]);item.association={context:item.caption};
+ for(const lang of ['en','zh']){const html=mediaFigures([item],lang,String);assert.equal(html.split(item.caption[lang]).length-1,1);assert.ok(!html.includes('class="image-connection"'));}
 });

@@ -1,6 +1,6 @@
 # Historical images: credits and reuse
 
-Reviewed 2026-11-11. 238 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
+Reviewed 2026-11-11. 295 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
 
 Historical artifacts, surviving places and later depictions retain their source identities. No generated reconstructions are included in this catalogue.
 
@@ -1529,6 +1529,552 @@ Source image or source-generated thumbnail saved unchanged. No local cropping, r
 Ouyang Xiu’s letter to Sima Guang. The National Palace Museum, Taipei, CC BY 4.0 @ www.npm.gov.tw. The museum explicitly opens its low-resolution images under CC0 and medium-resolution images under CC BY 4.0. This unchanged public display image is credited under CC BY 4.0; the historical work is also out of copyright.
 
 Source image or source-generated thumbnail saved unchanged. No local cropping, resizing, recoloring or retouching.
+
+## Liu Bang in an album of rulers and ministers / 《圣君贤臣全身像》中的刘邦
+
+- File: china-batch-06-liubang.jpg
+- Creator: Anonymous Chinese artist
+- Date: Unknown
+- Collection: National Palace Museum, Taipei; 中畫00033000013
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/17965?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/17965?dep=P
+
+聖君賢臣全身像 冊 漢高祖。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Smaller derivative supplied by the source image service, saved unchanged. Full source framing retained; no local image editing or conversion.
+
+## Emperor Wu of Han in an imperial portrait album / 帝王册页中的汉武帝
+
+- File: china-batch-06-hanwudi.jpg
+- Creator: Anonymous Chinese artist
+- Date: Unknown
+- Collection: National Palace Museum, Taipei; 中畫00033000016
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/17968?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/17968?dep=P
+
+聖君賢臣全身像 冊 武帝。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Smaller derivative supplied by the source image service, saved unchanged. Full source framing retained; no local image editing or conversion.
+
+## Xuanzong in an album of exemplary rulers / 《圣君贤臣全身像》中的唐玄宗
+
+- File: china-batch-06-tangxuanzong.jpg
+- Creator: Anonymous Chinese artist
+- Date: Unknown
+- Collection: National Palace Museum, Taipei; 中畫00033000027
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/17979?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/17979?dep=P
+
+聖君賢臣全身像 冊 玄宗。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Smaller derivative supplied by the source image service, saved unchanged. Full source framing retained; no local image editing or conversion.
+
+## Li Jing in an album of sages and worthies / 《历代圣贤半身像》中的李靖
+
+- File: china-batch-06-lijing.jpg
+- Creator: Anonymous Chinese artist
+- Date: Unknown
+- Collection: National Palace Museum, Taipei; 中畫00032800028
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/17858?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/17858?dep=P
+
+歷代聖賢半身像 冊 李靖。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Smaller derivative supplied by the source image service, saved unchanged. Full source framing retained; no local image editing or conversion.
+
+## Yan Zhenqing in an album of historical worthies / 《历代圣贤半身像》中的颜真卿
+
+- File: china-batch-06-yanzhenqing.jpg
+- Creator: Anonymous Chinese artist
+- Date: Unknown
+- Collection: National Palace Museum, Taipei; 中畫00032800034
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/17864?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/17864?dep=P
+
+歷代聖賢半身像 冊 顏真卿。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Smaller derivative supplied by the source image service, saved unchanged. Full source framing retained; no local image editing or conversion.
+
+## Liu Zongyuan in an album of sages and worthies / 《历代圣贤半身像》中的柳宗元
+
+- File: china-batch-06-liuzongyuan.jpg
+- Creator: Anonymous Chinese artist
+- Date: Unknown
+- Collection: National Palace Museum, Taipei; 中畫00032800039
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/17869?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/17869?dep=P
+
+歷代聖賢半身像 冊 柳宗元。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Smaller derivative supplied by the source image service, saved unchanged. Full source framing retained; no local image editing or conversion.
+
+## A farewell poem in Wang Yangming’s hand / 王阳明手书送别诗
+
+- File: china-batch-06-wangyangming.jpg
+- Creator: Wang Shouren (Wang Yangming, 1472–1529)
+- Date: 1514
+- Collection: National Palace Museum, Taipei; 故書00001500000
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/2476?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/2476?dep=P
+
+明王守仁書五言古詩 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Smaller derivative supplied by the source image service, saved unchanged. Full source framing retained; no local image editing or conversion.
+
+## Wang Anshi’s letter to an assistant prefect / 王安石《致通判比部尺牍》
+
+- File: china-batch-06-wanganshi.jpg
+- Creator: Wang Anshi (1021–1086)
+- Date: Northern Song; exact date unknown
+- Collection: National Palace Museum, Taipei; 故書00024300012
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/1115?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/1115?dep=P
+
+宋人法書（一） 冊 宋王安石致通判比部尺牘。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Smaller derivative supplied by the source image service, saved unchanged. Full source framing retained; no local image editing or conversion.
+
+## Xie An gaming at a mountain villa / 缂丝《谢安赌墅图》
+
+- File: china-batch-06-xiean.jpg
+- Creator: Anonymous Chinese weaver
+- Date: Song dynasty (960–1279)
+- Collection: National Palace Museum, Taipei; 故絲00013100000
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/13795?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/13795?dep=P
+
+宋緙絲謝安賭墅圖 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Smaller derivative supplied by the source image service, saved unchanged. Full source framing retained; no local image editing or conversion.
+
+## Standing portrait of Li Cunxu / 后唐庄宗李存勖立像
+
+- File: china-batch-06-licunxu.jpg
+- Creator: Anonymous Chinese artist
+- Date: Unknown; remounted 1748
+- Collection: National Palace Museum, Taipei; 中畫00026500000
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/1827?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/1827?dep=P
+
+後唐莊宗立像 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Smaller derivative supplied by the source image service, saved unchanged. Full source framing retained; no local image editing or conversion.
+
+## Xiaowen and his entourage worshipping the Buddha / 孝文帝及侍从礼佛图浮雕
+
+- File: china-batch-06-xiaowendi.jpg
+- Creator: Anonymous Northern Wei sculptors
+- Date: ca. 522–523
+- Collection: The Metropolitan Museum of Art; 35.146
+- Source: https://www.metmuseum.org/art/collection/search/42707
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/policies/image-resources
+
+The Metropolitan Museum of Art, Open Access (CC0); Fletcher Fund, 1935.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recolouring or retouching.
+
+## Wang Yuanqi’s Wangchuan Villa / 王原祁《辋川图》
+
+- File: china-batch-06-wangwei.jpg
+- Creator: Wang Yuanqi (1642–1715)
+- Date: 1711
+- Collection: The Metropolitan Museum of Art; 1977.80
+- Source: https://www.metmuseum.org/art/collection/search/49187
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/policies/image-resources
+
+The Metropolitan Museum of Art, Open Access (CC0); Ex coll.: C. C. Wang Family, Purchase, Douglas Dillon Gift, 1977.
+
+Smaller derivative supplied by the source image service, saved unchanged. Full source framing retained; no local image editing or conversion.
+
+## Bai Qi in a Ming portrait / 明人白起像
+
+- File: china-batch-06-baiqi.jpg
+- Creator: Anonymous Chinese artist
+- Date: Ming dynasty (1368–1644)
+- Collection: Chinese Historical Figures Portrait Catalogue, vol. 1 (2003), p. 94
+- Source: https://commons.wikimedia.org/wiki/File:Bai_Qi.jpg
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Bai_Qi.jpg
+
+Public-domain historical artwork or printed page, reproduced faithfully; source and collection identified in the credit.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recolouring or retouching.
+
+## Li Mu in a Qing portrait / 清人李牧像
+
+- File: china-batch-06-limu.jpg
+- Creator: Anonymous Chinese artist
+- Date: Qing dynasty (1644–1911)
+- Collection: Chinese Historical Figures Portrait Catalogue, vol. 1 (2003), p. 98
+- Source: https://commons.wikimedia.org/wiki/File:Li_Mu1.jpg
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Li_Mu1.jpg
+
+Public-domain historical artwork or printed page, reproduced faithfully; source and collection identified in the credit.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recolouring or retouching.
+
+## Wang Jian in a Ming portrait / 明人王翦像
+
+- File: china-batch-06-wangjian.jpg
+- Creator: Anonymous Chinese artist
+- Date: Ming dynasty (1368–1644)
+- Collection: Chinese Historical Figures Portrait Catalogue, vol. 1 (2003), p. 99
+- Source: https://commons.wikimedia.org/wiki/File:%E7%A7%A6%E5%A4%A7%E5%B0%86%E5%86%9B%E7%8E%8B%E7%BF%A6.jpg
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:%E7%A7%A6%E5%A4%A7%E5%B0%86%E5%86%9B%E7%8E%8B%E7%BF%A6.jpg
+
+Public-domain historical artwork or printed page, reproduced faithfully; source and collection identified in the credit.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recolouring or retouching.
+
+## Chai Rong, Emperor Shizong of Later Zhou / 后周世宗柴荣像
+
+- File: china-batch-06-chairong.jpg
+- Creator: Anonymous Chinese artist
+- Date: Qing dynasty (1644–1911)
+- Collection: Chinese Historical Figures Portrait Catalogue, vol. 1 (2003), p. 57
+- Source: https://commons.wikimedia.org/wiki/File:Chai_Rong_(Zhou_Shizong).jpg
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Chai_Rong_(Zhou_Shizong).jpg
+
+Public-domain historical artwork or printed page, reproduced faithfully; source and collection identified in the credit.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recolouring or retouching.
+
+## Liu Yu, Emperor Wu of Liu Song / 宋武帝刘裕像
+
+- File: china-batch-06-liuyu.jpg
+- Creator: Anonymous Chinese artist
+- Date: Qing dynasty (1644–1911)
+- Collection: Chinese Historical Figures Portrait Catalogue, vol. 1 (2003), p. 40
+- Source: https://commons.wikimedia.org/wiki/File:Liu_Yu_(Song_Wudi).jpg
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Liu_Yu_(Song_Wudi).jpg
+
+Public-domain historical artwork or printed page, reproduced faithfully; source and collection identified in the credit.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recolouring or retouching.
+
+## Fu Jian in an 1893 illustrated history / 1893年绣像历史小说中的苻坚
+
+- File: china-batch-06-fujian.jpg
+- Creator: Anonymous illustrator
+- Date: 1893
+- Collection: Harvard-Yenching Library, Hanan Collection; drs:49802792, vol. 1
+- Source: https://commons.wikimedia.org/wiki/File:Harvard_drs_49802792_%E7%B9%A1%E5%83%8F%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9%E7%BA%8C%E7%B7%A8_v.1_(%E8%8B%BB%E5%A0%85).jpg
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Harvard_drs_49802792_%E7%B9%A1%E5%83%8F%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9%E7%BA%8C%E7%B7%A8_v.1_(%E8%8B%BB%E5%A0%85).jpg
+
+Public-domain historical artwork or printed page, reproduced faithfully; source and collection identified in the credit.
+
+Existing source crop/detail retained unchanged; no additional local cropping, recolouring or retouching.
+
+## Huan Wen in an 1893 illustrated history / 1893年绣像历史小说中的桓温
+
+- File: china-batch-06-huanwen.png
+- Creator: Anonymous illustrator
+- Date: 1893
+- Collection: Harvard-Yenching Library, Hanan Collection; drs:49802792, digital page 43
+- Source: https://commons.wikimedia.org/wiki/File:Huan_Wen_%E6%A1%93%E6%BA%AB.png
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Huan_Wen_%E6%A1%93%E6%BA%AB.png
+
+Public-domain historical artwork or printed page, reproduced faithfully; source and collection identified in the credit.
+
+Existing source crop/detail retained unchanged; no additional local cropping, recolouring or retouching.
+
+## Li Yu in the Sancai Tuhui / 《三才图会》中的李煜
+
+- File: china-batch-06-liyu.jpg
+- Creator: Anonymous illustrator; encyclopedia compiled by Wang Qi and Wang Siyi
+- Date: 1609
+- Collection: Sancai Tuhui, volume 23
+- Source: https://commons.wikimedia.org/wiki/File:Li_Yu_scth.jpg
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Li_Yu_scth.jpg
+
+Public-domain historical artwork or printed page, reproduced faithfully; source and collection identified in the credit.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recolouring or retouching.
+
+## Xie Xuan in a Qing palace portrait / 清宫画本中的谢玄
+
+- File: china-batch-06-xiexuan.png
+- Creator: Anonymous Chinese artist
+- Date: Qing dynasty (1644–1911)
+- Collection: Qing Palace Portrait Album; reproduced by Palace Museum Press, 1994
+- Source: https://commons.wikimedia.org/wiki/File:%E6%99%89%E5%BA%B7%E6%A8%82%E7%8D%BB%E6%AD%A6%E5%85%AC%E8%AC%9D%E7%8E%84.png
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:%E6%99%89%E5%BA%B7%E6%A8%82%E7%8D%BB%E6%AD%A6%E5%85%AC%E8%AC%9D%E7%8E%84.png
+
+Public-domain historical artwork or printed page, reproduced faithfully; source and collection identified in the credit.
+
+Smaller derivative supplied by the source image service, saved unchanged. Full source framing retained; no local image editing or conversion.
+
+## Guan Yu in the Sancai Tuhui / 《三才图会》中的关羽
+
+- File: china-batch-06-guanyu.jpg
+- Creator: Anonymous illustrator; encyclopedia compiled by Wang Qi and Wang Siyi
+- Date: 1609
+- Collection: Sancai Tuhui, volume 25, leaf 42
+- Source: https://commons.wikimedia.org/wiki/File:Guanyu-1.jpg
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Guanyu-1.jpg
+
+Public-domain historical artwork or printed page, reproduced faithfully; source and collection identified in the credit.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recolouring or retouching.
+
+## Ming-dynasty portrait of Zhang Fei / 明人画张飞像轴
+
+- File: china-batch-06-zhangfei.png
+- Creator: Anonymous Chinese artist
+- Date: Ming dynasty (1368–1644)
+- Collection: The Palace Museum, Beijing; 故00006227
+- Source: https://digicol.dpm.org.cn/cultural/detail?id=de9e11ff0b7e449eaf254dabd4446a30
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:%E6%98%8E%E4%BA%BA%E7%94%BB%E5%BC%A0%E9%A3%9E%E5%83%8F%E8%BD%B4.png
+
+Public-domain historical artwork or printed page, reproduced faithfully; source and collection identified in the credit.
+
+Smaller derivative supplied by the source image service, saved unchanged. Full source framing retained; no local image editing or conversion.
+
+## A prediction of Wei Qing’s future rank / 《钳徒论相》中的卫青故事
+
+- File: china-batch-06-weiqing.jpg
+- Creator: Ma Tai (1885–1937)
+- Date: 1928
+- Collection: Ma Tai Hua Bao (馬駘畫寶), 1928
+- Source: https://commons.wikimedia.org/wiki/File:%E9%89%97%E5%BE%92%E8%AB%96%E7%9B%B8.jpg
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:%E9%89%97%E5%BE%92%E8%AB%96%E7%9B%B8.jpg
+
+Ma Tai, Ma Tai Hua Bao (1928). Artwork and faithful reproduction are public domain.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recolouring or retouching.
+
+## Zhou Yu and the fire at Red Cliffs / 《赤壁纵火》中的周瑜
+
+- File: china-batch-06-zhouyu.jpg
+- Creator: Ma Tai (1885–1937)
+- Date: 1928
+- Collection: Ma Tai Hua Bao (馬駘畫寶), 1928
+- Source: https://commons.wikimedia.org/wiki/File:%E8%B5%A4%E5%A3%81%E7%B8%B1%E7%81%AB.jpg
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:%E8%B5%A4%E5%A3%81%E7%B8%B1%E7%81%AB.jpg
+
+Ma Tai, Ma Tai Hua Bao (1928). Artwork and faithful reproduction are public domain.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recolouring or retouching.
+
+## Lu Xun burning the linked camps / 《火焚连寨》中的陆逊
+
+- File: china-batch-06-luxun.jpg
+- Creator: Ma Tai (1885–1937)
+- Date: 1928
+- Collection: Ma Tai Hua Bao (馬駘畫寶), 1928
+- Source: https://commons.wikimedia.org/wiki/File:%E7%81%AB%E7%84%9A%E9%80%A3%E5%AF%A8.jpg
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:%E7%81%AB%E7%84%9A%E9%80%A3%E5%AF%A8.jpg
+
+Ma Tai, Ma Tai Hua Bao (1928). Artwork and faithful reproduction are public domain.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recolouring or retouching.
+
+## The stone horse at Huo Qubing’s tomb / 霍去病墓石马
+
+- File: china-batch-06-huoqubing-recto.jpg
+- Creator: Victor Segalen (photograph, 1878–1919); anonymous Western Han sculptor
+- Date: Photograph 1914; sculpture Western Han
+- Collection: Bibliothèque nationale de France; ark:/12148/btv1b10527554t, image 1
+- Source: https://commons.wikimedia.org/wiki/File:Recueil._Mission_arch%C3%A9ologique,_Chine,_1914._Hing-p%27ing_hien_(Xingping)_-_lot_de_photographies_-_Victor_Segalen_-_btv1b10527554t_(01_of_12).jpg
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Recueil._Mission_arch%C3%A9ologique,_Chine,_1914._Hing-p%27ing_hien_(Xingping)_-_lot_de_photographies_-_Victor_Segalen_-_btv1b10527554t_(01_of_12).jpg
+
+Victor Segalen, 1914; Bibliothèque nationale de France. Photograph and ancient sculpture are public domain.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recolouring or retouching.
+
+## Wu Zetian in an eighteenth-century imperial album / 十八世纪帝王册中的武则天
+
+- File: china-batch-06-wuzetian.jpg
+- Creator: Anonymous Chinese artist
+- Date: 18th century
+- Collection: British Library; Or 2231, image catalogue 3335
+- Source: https://imagesonline.bl.uk/asset/3335/
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:A_Tang_Dynasty_Empress_Wu_Zetian.JPG
+
+Public-domain historical artwork or printed page, reproduced faithfully; source and collection identified in the credit.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recolouring or retouching.
+
+## Xin Qiji’s Qu Guo Tie / 辛弃疾《去国帖》
+
+- File: china-batch-06-xinqiji.jpg
+- Creator: Xin Qiji (1140–1207)
+- Date: 1175, tenth lunar month
+- Collection: The Palace Museum, Beijing; 新00133450-7/16
+- Source: https://www.dpm.org.cn/collection/handwriting/228390.html
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Xin_Qiji_calligraphy_of_Qu_Guo_Tie,_Song_dynasty.jpg
+
+Public-domain historical artwork or printed page, reproduced faithfully; source and collection identified in the credit.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recolouring or retouching.
+
+## Huang Chao in a late-Ming historical novel / 晚明历史小说中的黄巢
+
+- File: china-batch-06-huangchao.jpg
+- Creator: Anonymous illustrator
+- Date: Late Ming, 17th century
+- Collection: Fudan University Library late-Ming edition; facsimile in Guben Xiaoshuo Jicheng, CADAL 06200302
+- Source: https://commons.wikimedia.org/wiki/File:%E9%BB%83%E5%B7%A2%EF%BC%88%E6%AE%98%E5%94%90%E4%BA%94%E4%BB%A3%E5%8F%B2%E6%BC%94%E7%BE%A9%E5%82%B3%EF%BC%89.jpg
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:%E9%BB%83%E5%B7%A2%EF%BC%88%E6%AE%98%E5%94%90%E4%BA%94%E4%BB%A3%E5%8F%B2%E6%BC%94%E7%BE%A9%E5%82%B3%EF%BC%89.jpg
+
+Public-domain historical artwork or printed page, reproduced faithfully; source and collection identified in the credit.
+
+Existing source crop/detail retained unchanged; no additional local cropping, recolouring or retouching.
+
+## Han Shizhong among the Four Generals / 《中兴四将图》中的韩世忠
+
+- File: china-batch-06-hanshizhong.jpg
+- Creator: Attributed to Liu Songnian (active late 12th–early 13th century)
+- Date: Southern Song (1127–1279)
+- Collection: National Museum of China; Four Generals of the Restoration
+- Source: https://www.chnmuseum.cn/yj/xscg/xslw/201812/t20181224_33203.shtml
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:%E9%9F%93%E4%B8%96%E5%BF%A0.jpg
+
+Public-domain historical artwork or printed page, reproduced faithfully; source and collection identified in the credit.
+
+Existing source crop/detail retained unchanged; no additional local cropping, recolouring or retouching.
+
+## Yelü Chucai in an 1830 portrait book / 1830年《古圣贤像传略》中的耶律楚材
+
+- File: china-batch-06-yelu-chucai.jpg
+- Creator: Anonymous illustrator; compiled by Gu Yuan (1799–1851)
+- Date: 1830
+- Collection: National Archives of Japan; 290-0047, volume 12, digital page 3
+- Source: https://commons.wikimedia.org/wiki/File:NAJDA-290-0047_%E5%8F%A4%E8%81%96%E8%B3%A2%E5%83%8F%E4%BC%9D%E7%95%A512_(page_3_%E8%80%B6%E5%BE%8B%E6%A5%9A%E6%9D%90_crop).jpg
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:NAJDA-290-0047_%E5%8F%A4%E8%81%96%E8%B3%A2%E5%83%8F%E4%BC%9D%E7%95%A512_(page_3_%E8%80%B6%E5%BE%8B%E6%A5%9A%E6%9D%90_crop).jpg
+
+Public-domain historical artwork or printed page, reproduced faithfully; source and collection identified in the credit.
+
+Existing source crop/detail retained unchanged; no additional local cropping, recolouring or retouching.
+
+## Qi Jiguang’s manual: organizing the ranks / 戚继光《纪效新书》：束伍第一
+
+- File: china-batch-06-qijiguang-page2.jpg
+- Creator: Qi Jiguang (text, 1528–1588); edition corrected by 平山子龍
+- Date: 1798 edition of a 16th-century text
+- Collection: National Archives of Japan; 299-0257, volumes 1–7, digital page 2
+- Source: https://commons.wikimedia.org/wiki/File:NAJDA-299-0257_%E7%B4%80%E5%8A%B9%E6%96%B0%E6%9B%B8_%E5%B7%BB1-7.pdf
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:NAJDA-299-0257_%E7%B4%80%E5%8A%B9%E6%96%B0%E6%9B%B8_%E5%B7%BB1-7.pdf
+
+Public-domain historical artwork or printed page, reproduced faithfully; source and collection identified in the credit.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recolouring or retouching.
+
+## Portrait of Zheng Chenggong / 郑成功画像
+
+- File: china-batch-06-zhengchenggong.jpg
+- Creator: Anonymous Chinese artist
+- Date: 17th century
+- Collection: National Taiwan Museum
+- Source: https://commons.wikimedia.org/wiki/File:The_Portrait_of_Koxinga.jpg
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:The_Portrait_of_Koxinga.jpg
+
+Public-domain historical artwork or printed page, reproduced faithfully; source and collection identified in the credit.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recolouring or retouching.
+
+## Sun Yat-sen in 1922 / 1922年的孙中山
+
+- File: china-batch-06-sunzhongshan.jpg
+- Creator: Shanghai Boer photographic studio
+- Date: 15 November 1922
+- Collection: Sun Yat-sen Memorial Museum attribution in the Commons source
+- Source: https://commons.wikimedia.org/wiki/File:%E5%AD%99%E4%B8%AD%E5%B1%B1%E8%82%96%E5%83%8F.jpg
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:%E5%AD%99%E4%B8%AD%E5%B1%B1%E8%82%96%E5%83%8F.jpg
+
+Shanghai Boer studio, 1922. The Commons source marks the photograph public domain in China and the United States.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recolouring or retouching.
+
+## Chiang Kai-shek at the Cairo Conference / 开罗会议上的蒋介石
+
+- File: china-batch-06-jiangjieshi.jpg
+- Creator: Unidentified U.S. government photographer; FDR Presidential Library
+- Date: 25 November 1943
+- Collection: U.S. National Archives / Franklin D. Roosevelt Presidential Library; 196609
+- Source: https://commons.wikimedia.org/wiki/File:Franklin_D._Roosevelt,_Chiang_Kai-shek,_and_Winston_Churchill_at_the_Cairo_Conference,_1943.jpg
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Franklin_D._Roosevelt,_Chiang_Kai-shek,_and_Winston_Churchill_at_the_Cairo_Conference,_1943.jpg
+
+U.S. government photograph, public domain; courtesy of the named presidential library and the U.S. National Archives.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recolouring or retouching.
+
+## Mao Zedong meets Richard Nixon / 毛泽东会见尼克松
+
+- File: china-batch-06-maozedong.jpg
+- Creator: U.S. White House photographic office; individual photographer not identified
+- Date: 21 February 1972
+- Collection: U.S. National Archives / Richard Nixon Presidential Library; 194759, NLRN-WHPO-8649-01
+- Source: https://commons.wikimedia.org/wiki/File:President_Nixon_meets_with_China%27s_Communist_Party_Leader,_Mao_Tse-_Tung,_02-29-1972_-_NARA_-_194759.tif
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:President_Nixon_meets_with_China%27s_Communist_Party_Leader,_Mao_Tse-_Tung,_02-29-1972_-_NARA_-_194759.tif
+
+U.S. government photograph, public domain; courtesy of the named presidential library and the U.S. National Archives.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recolouring or retouching.
+
+## Deng Xiaoping arrives at the White House / 邓小平到访白宫
+
+- File: china-batch-06-dengxiaoping-original.jpg
+- Creator: Carter White House Staff Photographers
+- Date: 29 January 1979
+- Collection: U.S. National Archives / Jimmy Carter Presidential Library; 183157
+- Source: https://commons.wikimedia.org/wiki/File:Deng_Xiaoping_and_Jimmy_Carter_at_the_arrival_ceremony_for_the_Vice_Premier_of_China._-_NARA_-_183157.tif
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Deng_Xiaoping_and_Jimmy_Carter_at_the_arrival_ceremony_for_the_Vice_Premier_of_China._-_NARA_-_183157.tif
+
+U.S. government photograph, public domain; courtesy of the named presidential library and the U.S. National Archives.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recolouring or retouching.
+
+## Tu Youyou in Stockholm / 屠呦呦在斯德哥尔摩
+
+- File: china-batch-06-tu-youyou.jpg
+- Creator: Bengt Nyman
+- Date: 6 December 2015
+- Collection: Bengt Nyman, via Flickr and Wikimedia Commons
+- Source: https://commons.wikimedia.org/wiki/File:D810_4987_Tu_Youyou,_medicine_(22945001843)_(cropped).jpg
+- Rights: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:D810_4987_Tu_Youyou,_medicine_(22945001843)_(cropped).jpg
+
+Photo: Bengt Nyman, CC BY 2.0. Cropped version supplied by Wikimedia Commons.
+
+Existing source crop/detail retained unchanged; no additional local cropping, recolouring or retouching.
 
 ## Cao Cao in the Sancai Tuhui / 《三才图会》中的曹操像
 
@@ -3335,3 +3881,255 @@ Institution-provided JPEG, unchanged.
 Public-domain White House photograph by Sharon Farmer. Credit: William J. Clinton Presidential Library.
 
 Institution-provided JPEG, unchanged.
+
+## Ban Chiang painted vessel / 班清彩陶器
+
+- File: world07-met-38460.jpg
+- Creator: Thailand (Ban Chiang culture)
+- Date: 300 BCE–CE 200
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/38460
+- Rights: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/38460
+
+The Metropolitan Museum of Art, Open Access (CC0). Accession 1988.224.2.
+
+Museum-provided web derivative saved without local visual edits.
+
+## The House of Bijapur / 比贾布尔王室
+
+- File: world07-met-453183.jpg
+- Creator: Kamal Muhammad and Chand Muhammad
+- Date: ca. 1680
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/453183
+- Rights: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/453183
+
+The Metropolitan Museum of Art, Open Access (CC0). Accession 1982.213.
+
+Museum-provided web derivative saved without local visual edits.
+
+## Lydian gold stater / 吕底亚金币
+
+- File: world07-met-252456.jpg
+- Creator: Lydian
+- Date: ca. 560–546 BCE
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/252456
+- Rights: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/252456
+
+The Metropolitan Museum of Art, Open Access (CC0). Accession 26.59.4.
+
+Museum-provided web derivative saved without local visual edits.
+
+## Foundation cone of Enmetena of Lagash / 拉伽什恩美铁那奠基锥
+
+- File: world07-met-327592.jpg
+- Creator: Sumerian
+- Date: ca. 2500–2350 BCE
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/327592
+- Rights: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/327592
+
+The Metropolitan Museum of Art, Open Access (CC0). Accession 1999.190.1.
+
+Museum-provided web derivative saved without local visual edits.
+
+## Toltec eagle relief / 托尔特克鹰浮雕
+
+- File: world07-met-307598.jpg
+- Creator: Toltec artist(s)
+- Date: 900–1200 CE
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/307598
+- Rights: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/307598
+
+The Metropolitan Museum of Art, Open Access (CC0). Accession 93.27.1.
+
+Museum-provided web derivative saved without local visual edits.
+
+## Timur before Battle, from a Zafarnama / 《胜利之书》中的战前帖木儿
+
+- File: world07-met-451303.jpg
+- Creator: Unrecorded maker
+- Date: 839 AH/1436 CE
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/451303
+- Rights: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/451303
+
+The Metropolitan Museum of Art, Open Access (CC0). Accession 55.121.16.
+
+Museum-provided web derivative saved without local visual edits.
+
+## Ahmose wearing the Red Crown / 戴红冠的阿赫摩斯
+
+- File: world07-met-544779.jpg
+- Creator: Unrecorded maker
+- Date: ca. 1550–1525 BCE
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/544779
+- Rights: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/544779
+
+The Metropolitan Museum of Art, Open Access (CC0). Accession 06.1231.34.
+
+Museum-provided web derivative saved without local visual edits.
+
+## Mentuhotep II and Hathor / 孟图霍特普二世与哈托尔
+
+- File: world07-met-548212.jpg
+- Creator: Unrecorded maker
+- Date: ca. 2010–2000 B.C.
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/548212
+- Rights: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/548212
+
+The Metropolitan Museum of Art, Open Access (CC0). Accession 07.230.2.
+
+Museum-provided web derivative saved without local visual edits.
+
+## Silver drachm of Phraates III / 弗拉特斯三世银币
+
+- File: world07-met-322353.jpg
+- Creator: Parthian
+- Date: ca. 70–57 BCE
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/322353
+- Rights: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/322353
+
+The Metropolitan Museum of Art, Open Access (CC0). Accession 99.35.2955.
+
+Museum-provided web derivative saved without local visual edits.
+
+## Mexica ceramic temple model / 墨西加陶制神庙模型
+
+- File: world07-met-316873.jpg
+- Creator: Mexica (Aztec)
+- Date: 1400–1521
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/316873
+- Rights: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/316873
+
+The Metropolitan Museum of Art, Open Access (CC0). Accession 1994.35.48.
+
+Museum-provided web derivative saved without local visual edits.
+
+## Sarong from Pekalongan / 北加浪岸围裙布
+
+- File: world07-met-308005.jpg
+- Creator: Javanese
+- Date: mid to late 19th century
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/308005
+- Rights: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/308005
+
+The Metropolitan Museum of Art, Open Access (CC0). Accession 30.88.2.
+
+Museum-provided web derivative saved without local visual edits.
+
+## Inscribed altar, probably from Palmyra / 可能出自帕尔米拉的铭文祭坛
+
+- File: world07-met-322265.jpg
+- Creator: Unrecorded maker
+- Date: ca. 232
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/322265
+- Rights: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/322265
+
+The Metropolitan Museum of Art, Open Access (CC0). Accession 95.28.
+
+Museum-provided web derivative saved without local visual edits.
+
+## Fatimid tiraz veil / 法蒂玛提拉兹织物
+
+- File: world07-met-452271.jpg
+- Creator: Unrecorded maker
+- Date: dated 373 AH/983–984 CE
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/452271
+- Rights: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/452271
+
+The Metropolitan Museum of Art, Open Access (CC0). Accession 1971.151.
+
+Museum-provided web derivative saved without local visual edits.
+
+## Nebuchadnezzar II's Etemenanki inscription / 尼布甲尼撒二世的埃特曼安基铭文
+
+- File: world07-met-321908.jpg
+- Creator: Babylonian
+- Date: ca. 604–562 BCE
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/321908
+- Rights: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/321908
+
+The Metropolitan Museum of Art, Open Access (CC0). Accession 86.11.284.
+
+Museum-provided web derivative saved without local visual edits.
+
+## Wari patterned tunic / 瓦里纹样外衣
+
+- File: world07-met-312671.jpg
+- Creator: Wari
+- Date: 7th–9th century
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/312671
+- Rights: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/312671
+
+The Metropolitan Museum of Art, Open Access (CC0). Accession 1979.206.461.
+
+Museum-provided web derivative saved without local visual edits.
+
+## Gold coin of Tughril from Nishapur / 尼沙布尔铸造的图格里勒金币
+
+- File: world07-met-457583.jpg
+- Creator: Unrecorded maker
+- Date: dated 444 AH/1052–53 CE
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/457583
+- Rights: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/457583
+
+The Metropolitan Museum of Art, Open Access (CC0). Accession 39.40.127.513.
+
+Museum-provided web derivative saved without local visual edits.
+
+## Flintlock from Tipu Sultan's armory / 蒂普苏丹军械库的燧发枪
+
+- File: world07-met-29616.jpg
+- Creator: Indian, Mysore, Srirangapatna
+- Date: dated Mauludi-era 1225/1796–97 CE
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/29616
+- Rights: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/29616
+
+The Metropolitan Museum of Art, Open Access (CC0). Accession 36.149.2.
+
+Museum-provided web derivative saved without local visual edits.
+
+## Bengal kantha, nineteenth century / 十九世纪孟加拉坎塔
+
+- File: world07-cma-kantha.jpg
+- Creator: Unrecorded maker, Bengal
+- Date: 1800s
+- Collection: Cleveland Museum of Art
+- Source: https://www.clevelandart.org/art/1996.350
+- Rights: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.clevelandart.org/art/1996.350
+
+Cleveland Museum of Art, CC0. Accession 1996.350.
+
+Museum-provided 640-pixel displayed derivative saved without local visual edits.
