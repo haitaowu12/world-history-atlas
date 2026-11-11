@@ -2443,21 +2443,21 @@
   ],
   "summaryEditsFile": "summary-edits-v18.json",
   "summaryEdits": {
-    "bytes": 75685,
-    "sha256": "5a5f241282b770aab403af7c99f26db291cdeb38f4d9fcc8c28e4e76f9d9f3a9",
-    "records": 25
+    "bytes": 146548,
+    "sha256": "fee2632f99dfd184c64c9e94ba00f9423542decb064654a8b03d10692034251c",
+    "records": 60
   },
   "chinaReviewsFile": "china-visual-reviews-v18.json",
   "chinaVisualReviews": {
-    "bytes": 98821,
-    "sha256": "f3ff768937f8b77181e5b4c6640a693a4f9cb1b04b006cecaeec534e2bf4b875",
-    "records": 37
+    "bytes": 101893,
+    "sha256": "42579b5c5b76d5b3b73b666d2a40451b67abda5ba3c74d4dda2e8969f2e7e524",
+    "records": 38
   },
   "mediaLocalization": {
     "file": "history-media-localization-zh-v18.json",
-    "bytes": 172757,
-    "sha256": "cd2918c7cd31adfeec64dd2e1c05790134f3e1015953a3904795d7bd1de35c1d",
-    "assets": 394
+    "bytes": 177404,
+    "sha256": "4ae64086dec0141d16b36cacda07c20b7579c9380ecf99738aa5d5167d9ff22d",
+    "assets": 403
   },
   "visualExpansion": {
     "baselineManifest": "content-expansion-v17.json",
@@ -2573,6 +2573,20 @@
         "sha256": "2c5010cfc1db268c3047d6b45d1c77f9f13e5fd2a6d054b22108c0759f108f33",
         "assets": 4,
         "associations": 7
+      },
+      {
+        "file": "visual-assets-china-batch-12-v18.json",
+        "bytes": 16525,
+        "sha256": "750b02cd8466e48eb22038ae1b1d242f6e389536c72dc1827be7be0898652217",
+        "assets": 4,
+        "associations": 0
+      },
+      {
+        "file": "visual-assets-china-culture-12-v18.json",
+        "bytes": 6380,
+        "sha256": "8942e95070785094e0566cde1bff0cc43be319f3e226dc92ee932039d3d42775",
+        "assets": 2,
+        "associations": 0
       },
       {
         "file": "visual-assets-china-rebuild-01-v18.json",
@@ -2741,11 +2755,18 @@
         "sha256": "0aa2ebb4e20cf1ea3bbd4521baa7e199dc0613e0c2956bf98d1a25c7ae6431b9",
         "assets": 4,
         "associations": 4
+      },
+      {
+        "file": "visual-assets-world-batch-14-v18.json",
+        "bytes": 11830,
+        "sha256": "8672c1354fab1974cea37931dd45041d30e5b261d0c6baecea7d75d43b58803f",
+        "assets": 3,
+        "associations": 3
       }
     ],
     "coverageFile": "visual-coverage-v18.json",
-    "assets": 394,
-    "covered": 782,
+    "assets": 403,
+    "covered": 789,
     "total": 2087,
     "target": 1044
   }

@@ -3,9 +3,9 @@
   "reviewedAt": "2026-11-11",
   "baselineManifest": "content-expansion-v17.json",
   "total": 2087,
-  "covered": 782,
-  "assets": 394,
-  "percent": 37.47005270723527,
+  "covered": 789,
+  "assets": 403,
+  "percent": 37.80546238620029,
   "coveredIds": [
     "abbasid-caliphate",
     "achaemenid-empire",
@@ -17,6 +17,7 @@
     "angkor",
     "asante-confederacy",
     "athens-acropolis",
+    "ayyubid-dynasty",
     "bagan",
     "bagan-royal-political-phase",
     "ban-chiang-village-archaeology",
@@ -266,6 +267,7 @@
     "china-landmark-186",
     "china-landmark-190",
     "china-landmark-192",
+    "china-landmark-194",
     "china-landmark-197",
     "china-landmark-200",
     "china-landmark-202",
@@ -279,6 +281,7 @@
     "china-landmark-223",
     "china-landmark-225",
     "china-landmark-227",
+    "china-landmark-235",
     "china-landmark-240",
     "china-landmark-244",
     "china-landmark-247",
@@ -440,6 +443,7 @@
     "china-landmark-519",
     "china-landmark-520",
     "china-landmark-523",
+    "china-landmark-526",
     "china-landmark-529",
     "china-landmark-532",
     "china-landmark-533",
@@ -466,6 +470,7 @@
     "china-person-hanwudi",
     "china-person-hanxin",
     "china-person-hanyu",
+    "china-person-hongxiuquan",
     "china-person-huangchao",
     "china-person-huangtaiji",
     "china-person-huanwen",
@@ -488,6 +493,7 @@
     "china-person-liuyuxi",
     "china-person-liuzongyuan",
     "china-person-liyu-nt",
+    "china-person-lizicheng",
     "china-person-luxun",
     "china-person-luyou",
     "china-person-lvbu",
@@ -584,6 +590,7 @@
     "fort-laramie-treaty-1868",
     "french-revolution",
     "galileo-telescope",
+    "goryeo-kingdom",
     "great-seljuqs",
     "great-zimbabwe",
     "gupta-period",
@@ -821,7 +828,6 @@
     "ghana-wagadu",
     "chaco",
     "quanzhou",
-    "goryeo-kingdom",
     "cordoba-caliphate",
     "ly-dynasty",
     "mali-empire",
@@ -1010,7 +1016,6 @@
     "makuria-kingdom",
     "almoravid-dynasty",
     "almohad-dynasty",
-    "ayyubid-dynasty",
     "purepecha-state",
     "mixtec-kingdoms",
     "champa-kingdoms",
@@ -1518,8 +1523,6 @@
     "china-person-yuanshao",
     "china-person-zhaoyun",
     "china-person-jiangwei",
-    "china-person-lizicheng",
-    "china-person-hongxiuquan",
     "china-event-zhanguo-001",
     "china-landmark-027",
     "china-landmark-187",
@@ -1847,7 +1850,6 @@
     "china-event-wudai-015",
     "china-event-wudai-016",
     "china-event-wudai-017",
-    "china-landmark-526",
     "china-event-beisong-002",
     "china-event-beisong-003",
     "china-event-beisong-004",
@@ -1937,7 +1939,6 @@
     "china-event-yuan-011",
     "china-event-yuan-012",
     "china-landmark-251",
-    "china-landmark-194",
     "china-landmark-196",
     "china-event-yuan-014",
     "china-event-yuan-017",
@@ -1999,7 +2000,6 @@
     "china-landmark-131",
     "china-event-qing-002",
     "china-landmark-111",
-    "china-landmark-235",
     "china-landmark-450",
     "china-landmark-154",
     "china-landmark-421",
@@ -2099,15 +2099,15 @@
   ],
   "target": 1044,
   "targetMet": false,
-  "remaining": 262,
+  "remaining": 255,
   "regions": {
     "africa": {
       "total": 136,
-      "covered": 37
+      "covered": 38
     },
     "east-asia": {
       "total": 1216,
-      "covered": 534
+      "covered": 540
     },
     "europe": {
       "total": 122,
@@ -2142,13 +2142,13 @@
     "ancient-portrait": 1,
     "ancient-royal-image": 2,
     "document-facsimile": 24,
-    "historical-artwork": 64,
+    "historical-artwork": 67,
     "historical-photograph": 34,
     "historical-portrait": 29,
     "later-depiction": 66,
     "lifetime-portrait": 17,
     "manuscript-detail": 31,
-    "object-photograph": 74,
+    "object-photograph": 80,
     "site-photograph": 52
   },
   "shards": [
@@ -2263,6 +2263,20 @@
       "sha256": "2c5010cfc1db268c3047d6b45d1c77f9f13e5fd2a6d054b22108c0759f108f33",
       "assets": 4,
       "associations": 7
+    },
+    {
+      "file": "visual-assets-china-batch-12-v18.json",
+      "bytes": 16525,
+      "sha256": "750b02cd8466e48eb22038ae1b1d242f6e389536c72dc1827be7be0898652217",
+      "assets": 4,
+      "associations": 0
+    },
+    {
+      "file": "visual-assets-china-culture-12-v18.json",
+      "bytes": 6380,
+      "sha256": "8942e95070785094e0566cde1bff0cc43be319f3e226dc92ee932039d3d42775",
+      "assets": 2,
+      "associations": 0
     },
     {
       "file": "visual-assets-china-rebuild-01-v18.json",
@@ -2431,8 +2445,15 @@
       "sha256": "0aa2ebb4e20cf1ea3bbd4521baa7e199dc0613e0c2956bf98d1a25c7ae6431b9",
       "assets": 4,
       "associations": 4
+    },
+    {
+      "file": "visual-assets-world-batch-14-v18.json",
+      "bytes": 11830,
+      "sha256": "8672c1354fab1974cea37931dd45041d30e5b261d0c6baecea7d75d43b58803f",
+      "assets": 3,
+      "associations": 3
     }
   ],
-  "assetBytes": 76144269,
+  "assetBytes": 76887186,
   "verification": "All admitted files match their SHA-256, byte count and encoded dimensions. Source identity, reuse rights, pixel review and entry relevance require the individual editorial records; structural validation does not establish those facts."
 }

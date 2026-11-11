@@ -1703,6 +1703,48 @@
           "evidenceNoteZh": "记述任期、赈济、九门部署及德胜门指挥；兵数作为史书记载加以归属，并非独立清点。"
         }
       ]
+    },
+    {
+      "id": "china-landmark-526",
+      "patch": {
+        "title": {
+          "en": "Night Revels of Han Xizai: a Southern Tang story in later painting",
+          "zh": "韩熙载夜宴：后世绘画中的南唐故事"
+        },
+        "start": 937,
+        "end": 975,
+        "summary": {
+          "en": "Gu Hongzhong served as a painter at the Southern Tang court. A transmitted story says the ruler sent him to observe Han Xizai’s night parties and paint what he saw. Surviving copies and later adaptations turned the gathering into a lasting subject for figure painting. The Taipei scroll preserves the final scene in an old copy, while a Ming version relocates the dance into a garden.",
+          "zh": "顾闳中曾任南唐宫廷画家。流传的故事称，君主派他观察韩熙载的夜宴并绘出所见。现存摹本与后世改绘使这一聚会成为人物画的长久题材。台北故宫旧摹卷保存末段场面，明代版本则将舞蹈移入庭园。"
+        },
+        "dateNote": {
+          "en": "937–975 marks the Southern Tang setting. The party, original painting and surviving copy have no established exact year in these museum records. The inherited 960 date is retained in the review history.",
+          "zh": "937—975年表示南唐背景。馆藏记录未确立夜宴、原作与现存摹本的具体年份；继承的960年保留在校订记录中。"
+        },
+        "theme": "culture"
+      },
+      "note": {
+        "en": "Replaced an unsupported exact-year commission with the Southern Tang context. The surviving images are a copy and a later adaptation; their museum attributions, rather than catalogue titles alone, guide the account.",
+        "zh": "将未获核实的具体年份委托改为南唐背景。现存图像为摹本与后世改绘，叙述采用馆方鉴定说明，而非仅依据馆藏题名。"
+      },
+      "sources": [
+        {
+          "title": "The Night Revels of Han Hsi-tsai",
+          "url": "https://digitalarchive.npm.gov.tw/Collection/Detail/1289?dep=P",
+          "publisher": "National Palace Museum, Taipei",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "The museum describes an old copy rather than Gu Hongzhong’s original, gives the Southern Tang context as 937–975, and presents the commission as a transmitted story.",
+          "evidenceNoteZh": "馆方说明这是旧摹本而非顾闳中原迹，以937—975年为南唐背景，并将奉命作画叙述为传说。"
+        },
+        {
+          "title": "Illustration of Han Hsi-tsai’s Evening Banquet",
+          "url": "https://digitalarchive.npm.gov.tw/Collection/Detail/5461?dep=P",
+          "publisher": "National Palace Museum, Taipei",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "The attribution discussion identifies another Ming artist’s work under Tang Yin’s name and points to Ming furniture.",
+          "evidenceNoteZh": "鉴定说明认为此为其他明人附名唐寅之作，并指出画中为明代家具。"
+        }
+      ]
     }
   ]
 }

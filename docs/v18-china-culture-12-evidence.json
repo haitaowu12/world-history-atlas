@@ -1,0 +1,1342 @@
+{
+  "checkedAt": "2026-11-11",
+  "originalRecord": {
+    "id": "china-landmark-526",
+    "title": {
+      "en": "Court painter Gu Hongzhong paints Night Revels of Han Xizai in Jinling for ruler Li Yu",
+      "zh": "南唐画家顾闳中奉李煜命夜窥韩府，绘成传世名画《韩熙载夜宴图》"
+    },
+    "start": 960,
+    "end": 960,
+    "location": {
+      "lon": 118.79,
+      "lat": 32.04,
+      "label": "Jinling (Nanjing)",
+      "labelI18n": {
+        "en": "Jinling (Nanjing)",
+        "zh": "金陵（今江苏南京）"
+      },
+      "labelProvenance": "inherited-source-place-pair"
+    },
+    "region": "east-asia",
+    "theme": "culture",
+    "kind": "event",
+    "importance": 1,
+    "summary": {
+      "en": "Court painter Gu Hongzhong paints Night Revels of Han Xizai in Jinling for ruler Li Yu",
+      "zh": "南唐画家顾闳中奉李煜命夜窥韩府，绘成传世名画《韩熙载夜宴图》"
+    },
+    "dateNote": {
+      "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+      "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+    },
+    "locationPrecision": "representative",
+    "sources": [
+      {
+        "title": "Chronicles of the Realm — js/lore_data.js (frozen source dataset)",
+        "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/lore_data.js",
+        "publisher": "DeanChensj / Chronicles of the Realm",
+        "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+        "checkedAt": "2026-10-23"
+      }
+    ],
+    "aliases": [
+      "金陵（今江苏南京）",
+      "Jinling (Nanjing)"
+    ],
+    "provenance": {
+      "dataset": "jiangshan",
+      "status": "inherited",
+      "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+      "periodId": "wudai",
+      "periodIds": [
+        "wudai"
+      ],
+      "sourceRecords": [
+        {
+          "file": "js/lore_data.js",
+          "path": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/525",
+          "index": 525
+        }
+      ],
+      "note": {
+        "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+        "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+      }
+    },
+    "relatedIds": []
+  },
+  "adoptedReview": {
+    "id": "china-landmark-526",
+    "patch": {
+      "title": {
+        "en": "Night Revels of Han Xizai: a Southern Tang story in later painting",
+        "zh": "韩熙载夜宴：后世绘画中的南唐故事"
+      },
+      "start": 937,
+      "end": 975,
+      "summary": {
+        "en": "Gu Hongzhong served as a painter at the Southern Tang court. A transmitted story says the ruler sent him to observe Han Xizai’s night parties and paint what he saw. Surviving copies and later adaptations turned the gathering into a lasting subject for figure painting. The Taipei scroll preserves the final scene in an old copy, while a Ming version relocates the dance into a garden.",
+        "zh": "顾闳中曾任南唐宫廷画家。流传的故事称，君主派他观察韩熙载的夜宴并绘出所见。现存摹本与后世改绘使这一聚会成为人物画的长久题材。台北故宫旧摹卷保存末段场面，明代版本则将舞蹈移入庭园。"
+      },
+      "dateNote": {
+        "en": "937–975 marks the Southern Tang setting. The party, original painting and surviving copy have no established exact year in these museum records. The inherited 960 date is retained in the review history.",
+        "zh": "937—975年表示南唐背景。馆藏记录未确立夜宴、原作与现存摹本的具体年份；继承的960年保留在校订记录中。"
+      },
+      "theme": "culture"
+    },
+    "note": {
+      "en": "Replaced an unsupported exact-year commission with the Southern Tang context. The surviving images are a copy and a later adaptation; their museum attributions, rather than catalogue titles alone, guide the account.",
+      "zh": "将未获核实的具体年份委托改为南唐背景。现存图像为摹本与后世改绘，叙述采用馆方鉴定说明，而非仅依据馆藏题名。"
+    },
+    "sources": [
+      {
+        "title": "The Night Revels of Han Hsi-tsai",
+        "url": "https://digitalarchive.npm.gov.tw/Collection/Detail/1289?dep=P",
+        "publisher": "National Palace Museum, Taipei",
+        "checkedAt": "2026-11-11",
+        "evidenceNote": "The museum describes an old copy rather than Gu Hongzhong’s original, gives the Southern Tang context as 937–975, and presents the commission as a transmitted story.",
+        "evidenceNoteZh": "馆方说明这是旧摹本而非顾闳中原迹，以937—975年为南唐背景，并将奉命作画叙述为传说。"
+      },
+      {
+        "title": "Illustration of Han Hsi-tsai’s Evening Banquet",
+        "url": "https://digitalarchive.npm.gov.tw/Collection/Detail/5461?dep=P",
+        "publisher": "National Palace Museum, Taipei",
+        "checkedAt": "2026-11-11",
+        "evidenceNote": "The attribution discussion identifies another Ming artist’s work under Tang Yin’s name and points to Ming furniture.",
+        "evidenceNoteZh": "鉴定说明认为此为其他明人附名唐寅之作，并指出画中为明代家具。"
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "china-culture-12-night-revels-ming-garden",
+      "file": "assets/history-media/china-culture-12-night-revels-ming-garden.jpg",
+      "recordIds": [
+        "china-landmark-526"
+      ],
+      "title": {
+        "en": "Night Revels reinvented in a Ming garden",
+        "zh": "明代庭园中重构的韩熙载夜宴"
+      },
+      "alt": {
+        "en": "A seated man beats a patterned drum while a blue-robed dancer performs before a large screen, with attendants, garden rocks and a table nearby.",
+        "zh": "坐者击打彩饰大鼓，蓝衣舞者在大屏风前起舞，旁有侍者、园石与桌案。"
+      },
+      "caption": {
+        "en": "A Ming-dynasty adaptation of Han Xizai’s Night Revels, catalogued under Tang Yin. The museum’s attribution discussion identifies it as another Ming artist’s work bearing Tang Yin’s name.",
+        "zh": "韩熙载夜宴题材的明代改绘，馆藏题名归于唐寅；馆方鉴定说明认为实为其他明人附名之作。"
+      },
+      "interpretation": {
+        "en": "The artist moves the drumming-and-dance episode into a garden furnished with Ming chairs, tables and a screen. Comparing it with the old scroll copy reveals how painters remade a tenth-century story for later viewers.",
+        "zh": "画家把击鼓观舞情节移入庭园，布置明式椅、桌和屏风。与旧摹卷并观，可见画家如何为后世观众重新塑造十世纪故事。"
+      },
+      "creator": "Unidentified Ming artist, formerly attributed to Tang Yin",
+      "date": "Ming dynasty (1368–1644); exact year unknown; tenth-century subject",
+      "institution": "National Palace Museum, Taipei; 故畫001322N000000000",
+      "kind": "artwork",
+      "representation": "historical-artwork",
+      "checkedAt": "2026-11-11",
+      "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/5461?dep=P",
+      "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001322N000000000PAA/full/full/0/default.jpg",
+      "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001322N000000000PAA/full/!1400,1400/0/default.jpg",
+      "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/5461?dep=P",
+      "rights": {
+        "label": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/",
+        "note": {
+          "en": "明唐寅畫韓熙載夜宴圖 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+          "zh": "明唐寅畫韓熙載夜宴圖 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+        }
+      },
+      "width": 695,
+      "height": 1400,
+      "bytes": 147606,
+      "sha256": "37b573a0264f4dbd7a303958b62b525aeee377730a2e4703d69d5b6a0020aadb",
+      "format": "jpeg",
+      "transformation": {
+        "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+        "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+      },
+      "retrieval": "Source text, IIIF identity, image receipt and pixel-review findings are preserved in docs/v18-china-culture-12-evidence.json.",
+      "contextSources": []
+    },
+    {
+      "id": "china-culture-12-night-revels-old-copy",
+      "file": "assets/history-media/china-culture-12-night-revels-old-copy.jpg",
+      "recordIds": [
+        "china-landmark-526"
+      ],
+      "title": {
+        "en": "Night Revels: an old copy of the final scene",
+        "zh": "《韩熙载夜宴图》末段的旧摹本"
+      },
+      "alt": {
+        "en": "Eight figures occupy the right half of a long silk scroll; a calligraphic colophon and seals fill the left.",
+        "zh": "长卷右半部绘八个人物，左半部为书法题跋与印记。"
+      },
+      "caption": {
+        "en": "An old copy of the final scene of Night Revels of Han Xizai. The National Palace Museum does not consider this the original by Gu Hongzhong; its precise production date is not established.",
+        "zh": "《韩熙载夜宴图》末段的旧摹本。故宫说明不认为此卷是顾闳中原作；制作的确切年代未定。"
+      },
+      "interpretation": {
+        "en": "Eight figures occupy the painted scene at right; a later reader encounters it beside the calligraphic colophon at left. Copying, mounting and written appraisal have shaped the object now preserved by the museum.",
+        "zh": "右侧画面有八个人物，左侧配有书法题跋。摹写、装裱与文字鉴赏共同塑造了今天馆藏的这件作品。"
+      },
+      "creator": "Unidentified master, after the composition associated with Gu Hongzhong",
+      "date": "Undated old copy; Southern Tang subject (937–975)",
+      "institution": "National Palace Museum, Taipei; 故畫000921N000000000",
+      "kind": "artwork",
+      "representation": "historical-artwork",
+      "checkedAt": "2026-11-11",
+      "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/1289?dep=P",
+      "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A000921N000000000SDAAA/full/full/0/default.jpg",
+      "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A000921N000000000SDAAA/full/!1400,1400/0/default.jpg",
+      "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/1289?dep=P",
+      "rights": {
+        "label": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/",
+        "note": {
+          "en": "五代南唐顧閎中畫韓熙載夜宴圖 卷。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+          "zh": "五代南唐顧閎中畫韓熙載夜宴圖 卷。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+        }
+      },
+      "width": 1400,
+      "height": 216,
+      "bytes": 46011,
+      "sha256": "d6bd3fb69b0b907ef070d26053790450abc35b436a7e00083a51e7461a10ec48",
+      "format": "jpeg",
+      "transformation": {
+        "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+        "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+      },
+      "retrieval": "Source text, IIIF identity, image receipt and pixel-review findings are preserved in docs/v18-china-culture-12-evidence.json.",
+      "contextSources": []
+    }
+  ],
+  "pixelReview": {
+    "oldCopy": "Owner viewed entire source-served scroll: eight figures at right and colophon at left. Full scroll retained, not a cropped figure.",
+    "mingGarden": "Owner viewed the complete source-served image: blue dancer, drum, screen, furniture and garden. No local crop or retouch."
+  },
+  "sources": [
+    {
+      "itemId": "1289",
+      "sourceText": " 五代南唐顧閎中畫韓熙載夜宴圖 卷 - 故宮 Loading 跳到主要內容區塊 ::: 首頁 典藏新選 典藏檢索 開放圖檔 清代檔案 古籍輿圖 典藏檢索 ::: 首頁 典藏檢索 五代南唐顧閎中畫韓熙載夜宴圖 卷 The Night Revels of Han Hsi-tsai 繪畫 展示資訊 風格故事- 琺瑯彩瓷特展 2022/01/13~2024-/05/22 北部院區 第一展覽區 207 參觀主題網站 --> file_download 下載 100萬像素圖檔下載(CC0) 600萬像素圖檔下載(CC BY 4.0) 使用說明 CC0 低階圖像無須申請、不限用途、不用付費即可公開使用，且不需註明出處。 CC BY 4.0 中階圖像與文字均無須申請、不限用途、不用付費即可公開使用，請於適當位置呈現姓名標示。 content_copy 複製標示文字 五代南唐顧閎中畫韓熙載夜宴圖 卷。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw 複製IIIF連結 開啟IIIF article 什麼是IIIF? 基本資料 典藏尺寸 質地 題跋資料 印記資料 主題 技法 參考資料 保存維護 基本資料 --> 文物統一編號 故畫000921N000000000 作品號 故畫00092100000 品名 五代南唐顧閎中畫韓熙載夜宴圖 卷 The Night Revels of Han Hsi-tsai 分類 繪畫 作者 顧閎中 數量 一卷 典藏尺寸 --> 位置 尺寸(公分) 隔水一 13.3 隔水二 13.6 隔水三 13.6 本幅 27.9x69 拖尾 28x64.9 質地 --> 質地位置 質地 拖尾 紙 本幅 絹 題跋資料 --> 題跋類別 作者 位置 款識 書體 全文 題跋 張澂 印記 expand_more 拖尾 紹興辛酉五月澹喦居士張澂題 行書 顧閎中。江南人。事偽主為待詔。作士女體近周昉而加纖麗。嘗為後主每伺韓熙載夜宴。命閎中圖以上之。此圖豐肌長襦裠。周昉法也。予在嶠南於端溪陳子真家。見其世藏諸帝像。左右宮人梳髻與此略同。李氏自謂。南唐故衣冠多用唐制。然風流實承六朝之餘。畫家者言。辨古畫當先問衣冠車服。蓋謂是也。紹興辛酉五月澹喦居士張澂題。 印主 印記 張澂 澹嵒漫士 印記資料 --> 印記類別 印主 印記 收傳印記 （一半印不可辨） 收傳印記 軍司（半印） 收傳印記 挹清閣（重一） 收傳印記 趙氏（半印） 主題 --> 主題類別 主題(第一層) 主題(第二層) 主題說明 主要主題 人物 仕女 主要主題 人物 官員（臣） 主要主題 經史‧故事 韓熙載夜宴 其他主題 人物 侍從（侍女、童僕） 侍從；侍女 其他主題 器用 傢俱（屏風） 傢俱（椅子） 其他主題 器用 樂器 鼓錘 技法 --> 技法 技法細目 人物衣紋描法(勻稱線條) 工筆 參考資料 --> 類別 參考資料 內容簡介 顧閎中（活動於西元十世紀中葉），江南人，事南唐元宗父子為待詔，與周文矩同時。相傳韓熙載好聲伎，專為夜飲，賓客揉集。後主欲見其尊俎鐙燭觥籌交錯之態，命閎中夜至其第竊窺之，目識心記，圖繪以上，故世傳有韓熙載夜宴圖。此圖為夜宴圖最後一段，人物僅八人，無款印，畫甚舊，縱非顧之原跡，亦可能為極早之高手摹本。 Description Ku Hung-chung was a native of the Kiangnan region who served as a Painter-in-Attendance at the court of the Southern T'ang (937-975). He was a contemporary of the famous figure painter, Chou Wen-chu. It is said that the subject of this painting, Han Hsi-tsai, was famous for his all-night parties with music, dancing and a wide assortment of guests. The emperor was curious about such festive goings-on and ordered Ku Hung-chung to attend at night, peek at the activities, and later paint what he saw. This painting which includes only eight figures represents the last scene of The Night Revels of Han Hsi-tsai. It also has neither the signature nor seals of the artist. Though not considered the original painting by Ku Hung-chung, it is a close copy of considerable age by a master. 收藏著錄 故宮書畫錄（卷四），第二冊，頁18 收藏著錄 故宮書畫圖錄，第十五冊，頁105-106 參考書目 1.〈五代‧南唐顧閎中(傳)韓熙載夜宴圖〉，收入國立故宮博物院編輯委員會編，《名寶上珍》（臺北：國立故宮博物院，1995年初版一刷），頁209。 保存維護 --> 本院文物保存維護依〈國立故宮博物院典藏文物管理作業要點〉及〈國立故宮博物院文物修護業務作業原則〉辦理 抽盤點紀錄 修護紀錄 100萬像素圖檔下載 close 驗證碼 驗證碼錯誤 replay 重新產生 600萬像素圖檔下載 close 驗證碼 驗證碼錯誤 replay 重新產生 ::: 網站資料開放宣告 網站資料開放宣告 開放院藏書畫類、器物類、織品類文物低階圖像（100萬畫素）計約41萬幅， 以 「公眾領域貢獻宣告」（CC0）規範 ，不須註明出處。 開放院藏書畫類、器物類、織品類文物中階圖像（600萬畫素）計約41萬幅，中階圖檔及本網站文字均以 「CC授權條款4.0」之CC BY 姓名標示規範 ，無須申請、不限用途、不用付費即可公開使用，惟需於適當位置呈現中文或英文姓名標示（選擇一種表示型式），○○○○○為使用圖檔之品名。 中文表示型式： ○○○○○ 國立故宮博物院，臺北，CC BY 4.0 @ www.npm.gov.tw 英文表示型式： ○○○○○ The National Palace Museum, Taipei, CC BY 4.0 @ www.npm.gov.tw 上述文物低階、中階圖像，均無需申請、不限用途、不用付費，可直接下載，公開使用，但不包括專利權及商標權。惟使用者使用開放資料之圖檔自行製作製成品時，應避免使他人誤會為係本院所製作之製成品。 · 隱私權宣告 · 資訊安全政策 · 關於本站 關於本站 --> 關於本站 《故宮典藏資料檢索》提供國立故宮博物院（簡稱本院）所藏器物、書畫和織品的典藏資料檢索，上述三者可再往下細分為銅器、陶瓷器、玉器、琺瑯器、雕刻、漆器、錢幣、文具、雜項、織品、絲繡、繪畫、法書、法帖、拓片和成扇等16類。 如需查詢本院所藏檔案文獻，請至 國立故宮博物院清代檔案檢索系統 。 如需查詢本院所藏善本古籍，請至 國立故宮博物院古籍輿圖檢索系統 。 使用方式 《故宮典藏資料檢索》提供使用者「簡易（關鍵字）查詢」、「進階查詢」、「查詢結果後分類篩選」等檢索功能，並有列表及卡片兩種模式可以檢視檢索結果，在列表模式可勾選搜尋結果並匯出清單（檔案格式為csv）。 本站提供100萬畫素圖檔及600萬畫素圖檔予使用者下載利用，圖檔使用授權規範請參考本站網站資料開放宣告。使用者也可以直接在線上以IIIF瀏覽600萬畫素圖檔。 IIIF服務 2021年本院導入國際圖像互通架構（International Image Interoperability Framework， https://iiif.io ，以下簡稱IIIF），希望提供大眾更加便捷的文物資訊服務。IIIF為一數位文物影像的標準，該標準支援各國博物館的典藏資源系統，使用者可以將來自不同博物館的文物圖像，放在IIIF的瀏覽視窗中一同欣賞、比較。 IIIF多元且豐富的圖像閱覽功能，期待能提供學術研究者，在查詢圖像資料時更為簡便的數位人文工具，以及作為一般大眾與歷史文物之間的橋樑。 故宮數位典藏IIIF服務說明 凡例 搜尋結果圖例 總 ：總集，指多件作品合為一卷或一冊。 件 ：附件，為總集中的作品。 · 意見回饋 國立故宮博物院著作權所有 © 2024 NATIONAL PALACE MUSEUM. All Rights Reserved. more_vert 字體放大 text_increase 字體縮小 text_decrease 分享 LINE facebook twitter share 返回頂端 keyboard_tab ",
+      "receipt": {
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/1289?dep=P",
+        "title": "NPM 故宮 - 五代南唐顧閎中畫韓熙載夜宴圖　卷",
+        "download": {
+          "url": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A000921N000000000SDAAA/full/!1400,1400/0/default.jpg",
+          "localFile": "1289.jpg",
+          "bytes": 46011,
+          "sha256": "d6bd3fb69b0b907ef070d26053790450abc35b436a7e00083a51e7461a10ec48",
+          "width": 1400,
+          "height": 216
+        }
+      },
+      "iiifManifest": {
+        "@context": "https://iiif.io/api/presentation/2/context.json",
+        "@id": "https://digitalarchive.npm.gov.tw/Integrate/GetJson?cid=1289&dept=P&imageName=",
+        "@type": "sc:Manifest",
+        "label": "NPM 故宮 - 五代南唐顧閎中畫韓熙載夜宴圖　卷",
+        "logo": "https://www.npm.gov.tw/images/favicon/apple-icon-57x57.png",
+        "metadata": [
+          {
+            "label": "Chinese Title",
+            "value": "五代南唐顧閎中畫韓熙載夜宴圖　卷"
+          },
+          {
+            "label": "Time",
+            "value": ""
+          }
+        ],
+        "rendering": [
+          {
+            "@id": "https://digitalarchive.npm.gov.tw/Collection/Detail?id=1289&dep=P",
+            "format": "text/html",
+            "label": "DigitalArchives"
+          },
+          {
+            "@id": "https://digitalarchive.npm.gov.tw/Integrate/IIIFViewer?id=1289&dep=P&imageName=",
+            "format": "text/html",
+            "label": "IIIF Viewer"
+          }
+        ],
+        "license": "https://data.gov.tw/license",
+        "viewingDirection": "left-to-right",
+        "viewingHint": null,
+        "sequences": [
+          {
+            "@type": "sc:Sequence",
+            "canvases": [
+              {
+                "label": "K2A000921N000000000SDAAA",
+                "@id": "https://digitalarchive.npm.gov.tw/Canvas/K2A000921N000000000SDAAA",
+                "@type": "sc:Canvas",
+                "height": "600",
+                "width": "3896",
+                "images": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Annotation/K2A000921N000000000SDAAA",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://digitalarchive.npm.gov.tw/Canvas/K2A000921N000000000SDAAA",
+                    "resource": {
+                      "description": "",
+                      "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A000921N000000000SDAAA/full/,300/0/default.jpg",
+                      "@type": "dctypes:Image",
+                      "format": "image/jpeg",
+                      "service": {
+                        "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A000921N000000000SDAAA",
+                        "@context": "https://iiif.io/api/image/2/context.json",
+                        "profile": "https://iiif.io/api/image/2/level1.json"
+                      }
+                    }
+                  }
+                ],
+                "otherContent": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Integrate/GetJsonOtherContent?server=iiifod&n1=K2A&item=K2A000921N000000000SDAAA&ObjectID=1289&Dept=P",
+                    "@type": "sc:AnnotationList"
+                  }
+                ]
+              },
+              {
+                "label": "K2A000921N000000000PAK",
+                "@id": "https://digitalarchive.npm.gov.tw/Canvas/K2A000921N000000000PAK",
+                "@type": "sc:Canvas",
+                "height": "930",
+                "width": "1241",
+                "images": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Annotation/K2A000921N000000000PAK",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://digitalarchive.npm.gov.tw/Canvas/K2A000921N000000000PAK",
+                    "resource": {
+                      "description": "",
+                      "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A000921N000000000PAK/full/,300/0/default.jpg",
+                      "@type": "dctypes:Image",
+                      "format": "image/jpeg",
+                      "service": {
+                        "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A000921N000000000PAK",
+                        "@context": "https://iiif.io/api/image/2/context.json",
+                        "profile": "https://iiif.io/api/image/2/level1.json"
+                      }
+                    }
+                  }
+                ],
+                "otherContent": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Integrate/GetJsonOtherContent?server=iiifod&n1=K2A&item=K2A000921N000000000PAK&ObjectID=1289&Dept=P",
+                    "@type": "sc:AnnotationList"
+                  }
+                ]
+              },
+              {
+                "label": "K2A000921N000000000PAJ",
+                "@id": "https://digitalarchive.npm.gov.tw/Canvas/K2A000921N000000000PAJ",
+                "@type": "sc:Canvas",
+                "height": "930",
+                "width": "1241",
+                "images": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Annotation/K2A000921N000000000PAJ",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://digitalarchive.npm.gov.tw/Canvas/K2A000921N000000000PAJ",
+                    "resource": {
+                      "description": "",
+                      "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A000921N000000000PAJ/full/,300/0/default.jpg",
+                      "@type": "dctypes:Image",
+                      "format": "image/jpeg",
+                      "service": {
+                        "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A000921N000000000PAJ",
+                        "@context": "https://iiif.io/api/image/2/context.json",
+                        "profile": "https://iiif.io/api/image/2/level1.json"
+                      }
+                    }
+                  }
+                ],
+                "otherContent": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Integrate/GetJsonOtherContent?server=iiifod&n1=K2A&item=K2A000921N000000000PAJ&ObjectID=1289&Dept=P",
+                    "@type": "sc:AnnotationList"
+                  }
+                ]
+              },
+              {
+                "label": "K2A000921N000000000PAI",
+                "@id": "https://digitalarchive.npm.gov.tw/Canvas/K2A000921N000000000PAI",
+                "@type": "sc:Canvas",
+                "height": "930",
+                "width": "1241",
+                "images": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Annotation/K2A000921N000000000PAI",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://digitalarchive.npm.gov.tw/Canvas/K2A000921N000000000PAI",
+                    "resource": {
+                      "description": "",
+                      "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A000921N000000000PAI/full/,300/0/default.jpg",
+                      "@type": "dctypes:Image",
+                      "format": "image/jpeg",
+                      "service": {
+                        "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A000921N000000000PAI",
+                        "@context": "https://iiif.io/api/image/2/context.json",
+                        "profile": "https://iiif.io/api/image/2/level1.json"
+                      }
+                    }
+                  }
+                ],
+                "otherContent": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Integrate/GetJsonOtherContent?server=iiifod&n1=K2A&item=K2A000921N000000000PAI&ObjectID=1289&Dept=P",
+                    "@type": "sc:AnnotationList"
+                  }
+                ]
+              },
+              {
+                "label": "K2A000921N000000000PAH",
+                "@id": "https://digitalarchive.npm.gov.tw/Canvas/K2A000921N000000000PAH",
+                "@type": "sc:Canvas",
+                "height": "930",
+                "width": "1241",
+                "images": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Annotation/K2A000921N000000000PAH",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://digitalarchive.npm.gov.tw/Canvas/K2A000921N000000000PAH",
+                    "resource": {
+                      "description": "",
+                      "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A000921N000000000PAH/full/,300/0/default.jpg",
+                      "@type": "dctypes:Image",
+                      "format": "image/jpeg",
+                      "service": {
+                        "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A000921N000000000PAH",
+                        "@context": "https://iiif.io/api/image/2/context.json",
+                        "profile": "https://iiif.io/api/image/2/level1.json"
+                      }
+                    }
+                  }
+                ],
+                "otherContent": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Integrate/GetJsonOtherContent?server=iiifod&n1=K2A&item=K2A000921N000000000PAH&ObjectID=1289&Dept=P",
+                    "@type": "sc:AnnotationList"
+                  }
+                ]
+              },
+              {
+                "label": "K2A000921N000000000PAG",
+                "@id": "https://digitalarchive.npm.gov.tw/Canvas/K2A000921N000000000PAG",
+                "@type": "sc:Canvas",
+                "height": "930",
+                "width": "1241",
+                "images": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Annotation/K2A000921N000000000PAG",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://digitalarchive.npm.gov.tw/Canvas/K2A000921N000000000PAG",
+                    "resource": {
+                      "description": "",
+                      "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A000921N000000000PAG/full/,300/0/default.jpg",
+                      "@type": "dctypes:Image",
+                      "format": "image/jpeg",
+                      "service": {
+                        "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A000921N000000000PAG",
+                        "@context": "https://iiif.io/api/image/2/context.json",
+                        "profile": "https://iiif.io/api/image/2/level1.json"
+                      }
+                    }
+                  }
+                ],
+                "otherContent": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Integrate/GetJsonOtherContent?server=iiifod&n1=K2A&item=K2A000921N000000000PAG&ObjectID=1289&Dept=P",
+                    "@type": "sc:AnnotationList"
+                  }
+                ]
+              },
+              {
+                "label": "K2A000921N000000000PAF",
+                "@id": "https://digitalarchive.npm.gov.tw/Canvas/K2A000921N000000000PAF",
+                "@type": "sc:Canvas",
+                "height": "930",
+                "width": "1241",
+                "images": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Annotation/K2A000921N000000000PAF",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://digitalarchive.npm.gov.tw/Canvas/K2A000921N000000000PAF",
+                    "resource": {
+                      "description": "",
+                      "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A000921N000000000PAF/full/,300/0/default.jpg",
+                      "@type": "dctypes:Image",
+                      "format": "image/jpeg",
+                      "service": {
+                        "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A000921N000000000PAF",
+                        "@context": "https://iiif.io/api/image/2/context.json",
+                        "profile": "https://iiif.io/api/image/2/level1.json"
+                      }
+                    }
+                  }
+                ],
+                "otherContent": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Integrate/GetJsonOtherContent?server=iiifod&n1=K2A&item=K2A000921N000000000PAF&ObjectID=1289&Dept=P",
+                    "@type": "sc:AnnotationList"
+                  }
+                ]
+              },
+              {
+                "label": "K2A000921N000000000PAE",
+                "@id": "https://digitalarchive.npm.gov.tw/Canvas/K2A000921N000000000PAE",
+                "@type": "sc:Canvas",
+                "height": "646",
+                "width": "1000",
+                "images": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Annotation/K2A000921N000000000PAE",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://digitalarchive.npm.gov.tw/Canvas/K2A000921N000000000PAE",
+                    "resource": {
+                      "description": "",
+                      "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A000921N000000000PAE/full/,300/0/default.jpg",
+                      "@type": "dctypes:Image",
+                      "format": "image/jpeg",
+                      "service": {
+                        "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A000921N000000000PAE",
+                        "@context": "https://iiif.io/api/image/2/context.json",
+                        "profile": "https://iiif.io/api/image/2/level1.json"
+                      }
+                    }
+                  }
+                ],
+                "otherContent": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Integrate/GetJsonOtherContent?server=iiifod&n1=K2A&item=K2A000921N000000000PAE&ObjectID=1289&Dept=P",
+                    "@type": "sc:AnnotationList"
+                  }
+                ]
+              },
+              {
+                "label": "K2A000921N000000000PAD",
+                "@id": "https://digitalarchive.npm.gov.tw/Canvas/K2A000921N000000000PAD",
+                "@type": "sc:Canvas",
+                "height": "641",
+                "width": "1000",
+                "images": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Annotation/K2A000921N000000000PAD",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://digitalarchive.npm.gov.tw/Canvas/K2A000921N000000000PAD",
+                    "resource": {
+                      "description": "",
+                      "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A000921N000000000PAD/full/,300/0/default.jpg",
+                      "@type": "dctypes:Image",
+                      "format": "image/jpeg",
+                      "service": {
+                        "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A000921N000000000PAD",
+                        "@context": "https://iiif.io/api/image/2/context.json",
+                        "profile": "https://iiif.io/api/image/2/level1.json"
+                      }
+                    }
+                  }
+                ],
+                "otherContent": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Integrate/GetJsonOtherContent?server=iiifod&n1=K2A&item=K2A000921N000000000PAD&ObjectID=1289&Dept=P",
+                    "@type": "sc:AnnotationList"
+                  }
+                ]
+              },
+              {
+                "label": "K2A000921N000000000PAC",
+                "@id": "https://digitalarchive.npm.gov.tw/Canvas/K2A000921N000000000PAC",
+                "@type": "sc:Canvas",
+                "height": "645",
+                "width": "1000",
+                "images": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Annotation/K2A000921N000000000PAC",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://digitalarchive.npm.gov.tw/Canvas/K2A000921N000000000PAC",
+                    "resource": {
+                      "description": "",
+                      "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A000921N000000000PAC/full/,300/0/default.jpg",
+                      "@type": "dctypes:Image",
+                      "format": "image/jpeg",
+                      "service": {
+                        "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A000921N000000000PAC",
+                        "@context": "https://iiif.io/api/image/2/context.json",
+                        "profile": "https://iiif.io/api/image/2/level1.json"
+                      }
+                    }
+                  }
+                ],
+                "otherContent": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Integrate/GetJsonOtherContent?server=iiifod&n1=K2A&item=K2A000921N000000000PAC&ObjectID=1289&Dept=P",
+                    "@type": "sc:AnnotationList"
+                  }
+                ]
+              },
+              {
+                "label": "K2A000921N000000000PAB",
+                "@id": "https://digitalarchive.npm.gov.tw/Canvas/K2A000921N000000000PAB",
+                "@type": "sc:Canvas",
+                "height": "643",
+                "width": "1000",
+                "images": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Annotation/K2A000921N000000000PAB",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://digitalarchive.npm.gov.tw/Canvas/K2A000921N000000000PAB",
+                    "resource": {
+                      "description": "",
+                      "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A000921N000000000PAB/full/,300/0/default.jpg",
+                      "@type": "dctypes:Image",
+                      "format": "image/jpeg",
+                      "service": {
+                        "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A000921N000000000PAB",
+                        "@context": "https://iiif.io/api/image/2/context.json",
+                        "profile": "https://iiif.io/api/image/2/level1.json"
+                      }
+                    }
+                  }
+                ],
+                "otherContent": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Integrate/GetJsonOtherContent?server=iiifod&n1=K2A&item=K2A000921N000000000PAB&ObjectID=1289&Dept=P",
+                    "@type": "sc:AnnotationList"
+                  }
+                ]
+              },
+              {
+                "label": "K2A000921N000000000PAA",
+                "@id": "https://digitalarchive.npm.gov.tw/Canvas/K2A000921N000000000PAA",
+                "@type": "sc:Canvas",
+                "height": "646",
+                "width": "1000",
+                "images": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Annotation/K2A000921N000000000PAA",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://digitalarchive.npm.gov.tw/Canvas/K2A000921N000000000PAA",
+                    "resource": {
+                      "description": "",
+                      "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A000921N000000000PAA/full/,300/0/default.jpg",
+                      "@type": "dctypes:Image",
+                      "format": "image/jpeg",
+                      "service": {
+                        "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A000921N000000000PAA",
+                        "@context": "https://iiif.io/api/image/2/context.json",
+                        "profile": "https://iiif.io/api/image/2/level1.json"
+                      }
+                    }
+                  }
+                ],
+                "otherContent": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Integrate/GetJsonOtherContent?server=iiifod&n1=K2A&item=K2A000921N000000000PAA&ObjectID=1289&Dept=P",
+                    "@type": "sc:AnnotationList"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "itemId": "5461",
+      "sourceText": " 明唐寅畫韓熙載夜宴圖 軸 - 故宮 Loading 跳到主要內容區塊 ::: 首頁 典藏新選 典藏檢索 開放圖檔 清代檔案 古籍輿圖 典藏檢索 ::: 首頁 典藏檢索 明唐寅畫韓熙載夜宴圖 軸 Illustration of Han Hsi-tsai’s “Evening Banguet” 繪畫 展示資訊 風格故事- 琺瑯彩瓷特展 2022/01/13~2024-/05/22 北部院區 第一展覽區 207 參觀主題網站 --> file_download 下載 100萬像素圖檔下載(CC0) 600萬像素圖檔下載(CC BY 4.0) 使用說明 CC0 低階圖像無須申請、不限用途、不用付費即可公開使用，且不需註明出處。 CC BY 4.0 中階圖像與文字均無須申請、不限用途、不用付費即可公開使用，請於適當位置呈現姓名標示。 content_copy 複製標示文字 明唐寅畫韓熙載夜宴圖 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw 複製IIIF連結 開啟IIIF article 什麼是IIIF? 基本資料 典藏尺寸 質地 題跋資料 印記資料 主題 技法 參考資料 保存維護 基本資料 --> 文物統一編號 故畫001322N000000000 作品號 故畫00132200000 品名 明唐寅畫韓熙載夜宴圖 軸 Illustration of Han Hsi-tsai’s “Evening Banguet” 分類 繪畫 作者 唐寅 數量 一軸 典藏尺寸 --> 位置 尺寸(公分) 本幅 146.4x72.6 質地 --> 質地位置 質地 本幅 絹 題跋資料 --> 題跋類別 作者 位置 款識 書體 全文 作者款識 唐寅 印記 expand_more 本幅 酒資長苦欠經營。預給餐錢費水衡。多少如花後屏女。燒金不學耿先生。吳門唐寅畫并題。 行書 印主 印記 唐寅 吳趨 唐寅 唐子畏圖書 唐寅 唐寅私印 印記資料 --> 印記類別 印主 印記 鑑藏寶璽 清內府印 三希堂精鑑璽 鑑藏寶璽 清內府印 石渠寶笈 鑑藏寶璽 清內府印 宜子孫 鑑藏寶璽 宣統帝 宣統御覽之寶 鑑藏寶璽 清仁宗 嘉慶御覽之寶 鑑藏寶璽 清仁宗 嘉慶鑑賞 鑑藏寶璽 清仁宗 寶笈三編 主題 --> 主題類別 主題(第一層) 主題(第二層) 主題說明 主要主題 經史‧故事 韓熙載夜宴圖 次要主題 人物 仕女 次要主題 人物 侍從（侍女、童僕） 次要主題 人物 官員（臣） 次要主題 花草 萱花 次要主題 建築 庭院 次要主題 建築 欄杆 次要主題 器用 傢俱（屏風） 傢俱、山水屏風 次要主題 器用 飲食器 爵碗瓶、盤 其他主題 山水 夜景（月景） 其他主題 山水 奇石 其他主題 果蔬 其他主題 翎毛 其他主題 翎毛 寒鴉 其他主題 器用 花器 其他主題 器用 樂器 杖、拍板 技法 --> 技法 技法細目 人物衣紋描法(粗細線條) 工筆 苔點 皴法 寫意 參考資料 --> 類別 參考資料 內容簡介 韓熙載是五代南唐朝廷的官員，有政治才幹，也具藝術造詣。他眼見國勢日衰， 痛心貴族官僚爭權奪利，把一腔苦衷寄託在歌舞夜宴之中。南唐後主李煜聽說他生活荒縱，即派畫家顧閎中深夜潛入韓宅， 窺看其縱情聲色的場面，回來後畫成「韓熙載夜宴圖卷」。原畫明代曾流傳於蘇州，唐寅（西元一四七○－一五二三年）將原畫中主角擊鼓作樂的場景改畫為以庭園為背景，成為再創造的故事人物畫。 內容簡介 唐寅（西元一四七０－一五二三年），江蘇蘇州人，字伯虎，號六如。碧綠梧桐、青翠竹叢、紅榴白蓮，庭院點燃蠟炬。韓熙載戴著紗帽穿長袍，捲袖擊花鼓伴奏。小吏拿拍板侍於側，少女在前表演六么舞，眾目皆注視著。 此圖為觀舞場面畫家插繪許多家具，有夾頭榫平頭案、燈掛式交椅（上覆錦繡椅披）、座屏、束腰彎腿帶托泥鼓架，皆是明代家具，並非五代風格。而與另一張同名（重慶市博物館藏）唐寅臨本有多處近似，然細審此圖並非唐寅真蹟，應為明人附名之作。 內容簡介 唐寅（西元一四七０－一五二三），江蘇蘇州人，字子畏，一字伯虎，號六如。稟性爽朗，狂逸不羈。初同周臣學畫，青出於藍。畫的題材很廣。山水畫學李成、范寬、馬夏及元朝四家。能詩善畫。因為胸中多數千卷書，畫中充滿了文學氣質，加深了畫的內涵。碧綠的梧桐、青翠的竹叢，紅色石榴花、潔白的蓮花。畫屏高漲，曲欄低徊。韓熙載戴著紗帽，穿著紅袍，捲著袖子撾鼓。小吏拿著板子侍側於後，舞姬在前舞蹈。桌案上列著酒肴。庭院內點燃蠟炬。描繪出韓熙載生活的情形。 內容簡介 韓熙載是五代南唐朝廷的官員，有政治才幹，也具藝術造詣。他眼見國勢日衰，痛心貴族官僚爭權奪利，把一腔苦衷寄託在歌舞夜宴之中。南唐後主李煜聽說他生活荒縱，即派畫家顧閎中深夜潛入韓宅， 窺看其縱情聲色的場面，回來後畫成「韓熙載夜宴圖卷」。原畫明代曾流傳於蘇州，唐寅（西元一四七○－一五二三年）將原畫中主角擊鼓作樂的場景改畫為以庭園為背景，成為再創造的故事人物畫。(20091016) Description Han Xizai (902-970) was a Southern Tang court official during the Five Dynasties. A political talent, he also had a flair for the arts. He witnessed how national strength weakened and became distressed as nobility and bureaucrats struggled for power, thus burying his sorrow in song and dance at evening banquets. Li Yu, last ruler of the Southern Tang, heard of his desperation, so he sent the painter Gu Hongzhong at night to Han’s residence to observe Han’s indulgences. After returning, Gu painted “Han Xizai’s Night Revels.” The original work had circulated around Suzhou in the Ming dynasty, and Tang Yin converted the central figure beating a drum in the original into the garden scene here, thus re-inventing the narrative.(20091016) Description T’ang Yin was a native of Suchou in Kiangsu province. In his early years he loved to drink, but was advised by his friend Chu Yun-ming to take the government examinations. He studied painting with Chou Ch’en, and soon surpassed his teacher. The subjects he painted were broad and refined. In landscape painting he followed Li Ch’eng, Fan K’uan, Ma Yuan, Hsia Kuai, and the Four Masters of the Yuan dynasty. He was good at both calligraphy and poetry, but when other people praised him he said, “My immortality will not lie there,” meaning that his true value was as a painter. Of broader capabilities than his master, both in the quantity of books he authored and in the literary disposition of his painting, he added depth of content to the painting style he had studied, thus becoming one of the Four Masters of the Ming. The we-t’ung tree in this painting is verdant, the bamboo grove a fresh shade of green, and the blossoms pure white. The painted screen is tall and broad, the winding balustrade low. Han Hsi-tsai is wearing an official’s hat and red robe, and with sleeves rolled up is beating a drum. One of the two smaller officials at his side is holding bundles of bamboo slats, perhaps to beat out a complementary rhythm. In front, two dancing girls are performing. There is wine on the table, and candles burn in the courtyard. Han Hsi-tsai is depicted with a very lifelike spirit. Description T’ang Yin (style name Po-hu and sobriquet Liu-ju) was a native of Soochow, Kiangsu. In a garden setting ablaze in the colors of white lotuses, red pomegranates, verdant bamboo, and emerald pawlonia trees, the figure of Han Hsi-tsai can be seen wearing a gauze cap and long-sleeved garment rolled up as he beats a tune on the large drum before him. A lower official stands to his side accompanying his performance with wooden clappers. In front, a maiden performs a dance with her eyes fixed on the host. This dance scene includes many examples of furniture introduced by the artist. There are recessed-leg tables with bridle-and-tenon joints, a “lamphanger” foldable chair with a brocaded cloth draped over its high back, a large standing screen, and a waisted drum stand with curved legs and circular horizontal stretchers. These are all examples of Ming (1368-1644) style furniture and not that of the Five Dynasties (907-960) when the original version was done. This painting is similar to another copy of the same title by T’ang Yin in the Chungking City Museum. Close comparison suggests that the National Palace Museum version is not the original, but could have been done by another Ming dynasty artist nonetheless. Description Han Hsi-tsai was a Southern T’ang court official during the Five Dynasties. A political talent, he was also had a flair for the arts. He witnessed how national strength weakened and was distressed as nobility and bureaucrats struggled for power, burying his sorrow in song and dance at evening banquets. Li Yu, last ruler of the Southern T’ang, heard that his desperation, so he sent the painter Ku Hung-chung at night to Han’s residence to view his indulgences. After returning, Ku painted “Han Hsi-tsai’s Night Revels”. The original work had circulated around Soochow in the Ming dynasty, and T’ang Yin converted the central figure beating a drum in the original into a garden scene, thus reinventing the narrative. 收藏著錄 石渠寶笈三編（延春閣），第四冊，頁1863 收藏著錄 故宮書畫錄（卷五），第三冊，頁38 收藏著錄 故宮書畫圖錄，第七冊，頁13-14 參考書目 1.劉英貝，《吳偉人物畫風格研究》，國立中央大學藝術學研究所碩士論文，2007年。 參考書目 鄭淑方，〈明唐寅畫韓熙載夜宴圖 軸〉，收入劉芳如主編《她-女性形象與才藝》（臺北：國立故宮博物院，2020.10），頁94-95、260。 參考書目 〈明唐寅畫韓熙載夜宴圖 軸〉，收入林莉娜、陳建志、鄭淑方主編《明四大家特展-唐寅》（臺北：國立故宮博物院，2014.07），頁132-135、304。 參考書目 〈明唐寅畫韓熙載夜宴圖 軸〉，收入國立故宮博物院編輯委員會、林莉娜主編《畫中家具特展》（臺北：國立故宮博物院，1996.10），頁64-65、123。 保存維護 --> 本院文物保存維護依〈國立故宮博物院典藏文物管理作業要點〉及〈國立故宮博物院文物修護業務作業原則〉辦理 抽盤點紀錄 修護紀錄 100萬像素圖檔下載 close 驗證碼 驗證碼錯誤 replay 重新產生 600萬像素圖檔下載 close 驗證碼 驗證碼錯誤 replay 重新產生 ::: 網站資料開放宣告 網站資料開放宣告 開放院藏書畫類、器物類、織品類文物低階圖像（100萬畫素）計約41萬幅， 以 「公眾領域貢獻宣告」（CC0）規範 ，不須註明出處。 開放院藏書畫類、器物類、織品類文物中階圖像（600萬畫素）計約41萬幅，中階圖檔及本網站文字均以 「CC授權條款4.0」之CC BY 姓名標示規範 ，無須申請、不限用途、不用付費即可公開使用，惟需於適當位置呈現中文或英文姓名標示（選擇一種表示型式），○○○○○為使用圖檔之品名。 中文表示型式： ○○○○○ 國立故宮博物院，臺北，CC BY 4.0 @ www.npm.gov.tw 英文表示型式： ○○○○○ The National Palace Museum, Taipei, CC BY 4.0 @ www.npm.gov.tw 上述文物低階、中階圖像，均無需申請、不限用途、不用付費，可直接下載，公開使用，但不包括專利權及商標權。惟使用者使用開放資料之圖檔自行製作製成品時，應避免使他人誤會為係本院所製作之製成品。 · 隱私權宣告 · 資訊安全政策 · 關於本站 關於本站 --> 關於本站 《故宮典藏資料檢索》提供國立故宮博物院（簡稱本院）所藏器物、書畫和織品的典藏資料檢索，上述三者可再往下細分為銅器、陶瓷器、玉器、琺瑯器、雕刻、漆器、錢幣、文具、雜項、織品、絲繡、繪畫、法書、法帖、拓片和成扇等16類。 如需查詢本院所藏檔案文獻，請至 國立故宮博物院清代檔案檢索系統 。 如需查詢本院所藏善本古籍，請至 國立故宮博物院古籍輿圖檢索系統 。 使用方式 《故宮典藏資料檢索》提供使用者「簡易（關鍵字）查詢」、「進階查詢」、「查詢結果後分類篩選」等檢索功能，並有列表及卡片兩種模式可以檢視檢索結果，在列表模式可勾選搜尋結果並匯出清單（檔案格式為csv）。 本站提供100萬畫素圖檔及600萬畫素圖檔予使用者下載利用，圖檔使用授權規範請參考本站網站資料開放宣告。使用者也可以直接在線上以IIIF瀏覽600萬畫素圖檔。 IIIF服務 2021年本院導入國際圖像互通架構（International Image Interoperability Framework， https://iiif.io ，以下簡稱IIIF），希望提供大眾更加便捷的文物資訊服務。IIIF為一數位文物影像的標準，該標準支援各國博物館的典藏資源系統，使用者可以將來自不同博物館的文物圖像，放在IIIF的瀏覽視窗中一同欣賞、比較。 IIIF多元且豐富的圖像閱覽功能，期待能提供學術研究者，在查詢圖像資料時更為簡便的數位人文工具，以及作為一般大眾與歷史文物之間的橋樑。 故宮數位典藏IIIF服務說明 凡例 搜尋結果圖例 總 ：總集，指多件作品合為一卷或一冊。 件 ：附件，為總集中的作品。 · 意見回饋 國立故宮博物院著作權所有 © 2024 NATIONAL PALACE MUSEUM. All Rights Reserved. more_vert 字體放大 text_increase 字體縮小 text_decrease 分享 LINE facebook twitter share 返回頂端 keyboard_tab ",
+      "receipt": {
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/5461?dep=P",
+        "title": "NPM 故宮 - 明唐寅畫韓熙載夜宴圖　軸",
+        "download": {
+          "url": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001322N000000000PAA/full/!1400,1400/0/default.jpg",
+          "localFile": "5461.jpg",
+          "bytes": 147606,
+          "sha256": "37b573a0264f4dbd7a303958b62b525aeee377730a2e4703d69d5b6a0020aadb",
+          "width": 695,
+          "height": 1400
+        }
+      },
+      "iiifManifest": {
+        "@context": "https://iiif.io/api/presentation/2/context.json",
+        "@id": "https://digitalarchive.npm.gov.tw/Integrate/GetJson?cid=5461&dept=P&imageName=",
+        "@type": "sc:Manifest",
+        "label": "NPM 故宮 - 明唐寅畫韓熙載夜宴圖　軸",
+        "logo": "https://www.npm.gov.tw/images/favicon/apple-icon-57x57.png",
+        "metadata": [
+          {
+            "label": "Chinese Title",
+            "value": "明唐寅畫韓熙載夜宴圖　軸"
+          },
+          {
+            "label": "Time",
+            "value": ""
+          }
+        ],
+        "rendering": [
+          {
+            "@id": "https://digitalarchive.npm.gov.tw/Collection/Detail?id=5461&dep=P",
+            "format": "text/html",
+            "label": "DigitalArchives"
+          },
+          {
+            "@id": "https://digitalarchive.npm.gov.tw/Integrate/IIIFViewer?id=5461&dep=P&imageName=",
+            "format": "text/html",
+            "label": "IIIF Viewer"
+          }
+        ],
+        "license": "https://data.gov.tw/license",
+        "viewingDirection": "left-to-right",
+        "viewingHint": null,
+        "sequences": [
+          {
+            "@type": "sc:Sequence",
+            "canvases": [
+              {
+                "label": "K2A001322N000000000PAA",
+                "@id": "https://digitalarchive.npm.gov.tw/Canvas/K2A001322N000000000PAA",
+                "@type": "sc:Canvas",
+                "height": "2264",
+                "width": "1124",
+                "images": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Annotation/K2A001322N000000000PAA",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://digitalarchive.npm.gov.tw/Canvas/K2A001322N000000000PAA",
+                    "resource": {
+                      "description": "",
+                      "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001322N000000000PAA/full/,300/0/default.jpg",
+                      "@type": "dctypes:Image",
+                      "format": "image/jpeg",
+                      "service": {
+                        "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001322N000000000PAA",
+                        "@context": "https://iiif.io/api/image/2/context.json",
+                        "profile": "https://iiif.io/api/image/2/level1.json"
+                      }
+                    }
+                  }
+                ],
+                "otherContent": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Integrate/GetJsonOtherContent?server=iiifod&n1=K2A&item=K2A001322N000000000PAA&ObjectID=5461&Dept=P",
+                    "@type": "sc:AnnotationList"
+                  }
+                ]
+              },
+              {
+                "label": "K2A001322N000000000PAB",
+                "@id": "https://digitalarchive.npm.gov.tw/Canvas/K2A001322N000000000PAB",
+                "@type": "sc:Canvas",
+                "height": "1214",
+                "width": "724",
+                "images": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Annotation/K2A001322N000000000PAB",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://digitalarchive.npm.gov.tw/Canvas/K2A001322N000000000PAB",
+                    "resource": {
+                      "description": "",
+                      "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001322N000000000PAB/full/,300/0/default.jpg",
+                      "@type": "dctypes:Image",
+                      "format": "image/jpeg",
+                      "service": {
+                        "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001322N000000000PAB",
+                        "@context": "https://iiif.io/api/image/2/context.json",
+                        "profile": "https://iiif.io/api/image/2/level1.json"
+                      }
+                    }
+                  }
+                ],
+                "otherContent": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Integrate/GetJsonOtherContent?server=iiifod&n1=K2A&item=K2A001322N000000000PAB&ObjectID=5461&Dept=P",
+                    "@type": "sc:AnnotationList"
+                  }
+                ]
+              },
+              {
+                "label": "K2A001322N000000000PAC",
+                "@id": "https://digitalarchive.npm.gov.tw/Canvas/K2A001322N000000000PAC",
+                "@type": "sc:Canvas",
+                "height": "911",
+                "width": "1226",
+                "images": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Annotation/K2A001322N000000000PAC",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://digitalarchive.npm.gov.tw/Canvas/K2A001322N000000000PAC",
+                    "resource": {
+                      "description": "",
+                      "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001322N000000000PAC/full/,300/0/default.jpg",
+                      "@type": "dctypes:Image",
+                      "format": "image/jpeg",
+                      "service": {
+                        "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001322N000000000PAC",
+                        "@context": "https://iiif.io/api/image/2/context.json",
+                        "profile": "https://iiif.io/api/image/2/level1.json"
+                      }
+                    }
+                  }
+                ],
+                "otherContent": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Integrate/GetJsonOtherContent?server=iiifod&n1=K2A&item=K2A001322N000000000PAC&ObjectID=5461&Dept=P",
+                    "@type": "sc:AnnotationList"
+                  }
+                ]
+              },
+              {
+                "label": "K2A001322N000000000PAD",
+                "@id": "https://digitalarchive.npm.gov.tw/Canvas/K2A001322N000000000PAD",
+                "@type": "sc:Canvas",
+                "height": "911",
+                "width": "1226",
+                "images": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Annotation/K2A001322N000000000PAD",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://digitalarchive.npm.gov.tw/Canvas/K2A001322N000000000PAD",
+                    "resource": {
+                      "description": "",
+                      "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001322N000000000PAD/full/,300/0/default.jpg",
+                      "@type": "dctypes:Image",
+                      "format": "image/jpeg",
+                      "service": {
+                        "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001322N000000000PAD",
+                        "@context": "https://iiif.io/api/image/2/context.json",
+                        "profile": "https://iiif.io/api/image/2/level1.json"
+                      }
+                    }
+                  }
+                ],
+                "otherContent": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Integrate/GetJsonOtherContent?server=iiifod&n1=K2A&item=K2A001322N000000000PAD&ObjectID=5461&Dept=P",
+                    "@type": "sc:AnnotationList"
+                  }
+                ]
+              },
+              {
+                "label": "K2A001322N000000000PAE",
+                "@id": "https://digitalarchive.npm.gov.tw/Canvas/K2A001322N000000000PAE",
+                "@type": "sc:Canvas",
+                "height": "911",
+                "width": "1226",
+                "images": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Annotation/K2A001322N000000000PAE",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://digitalarchive.npm.gov.tw/Canvas/K2A001322N000000000PAE",
+                    "resource": {
+                      "description": "",
+                      "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001322N000000000PAE/full/,300/0/default.jpg",
+                      "@type": "dctypes:Image",
+                      "format": "image/jpeg",
+                      "service": {
+                        "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001322N000000000PAE",
+                        "@context": "https://iiif.io/api/image/2/context.json",
+                        "profile": "https://iiif.io/api/image/2/level1.json"
+                      }
+                    }
+                  }
+                ],
+                "otherContent": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Integrate/GetJsonOtherContent?server=iiifod&n1=K2A&item=K2A001322N000000000PAE&ObjectID=5461&Dept=P",
+                    "@type": "sc:AnnotationList"
+                  }
+                ]
+              },
+              {
+                "label": "K2A001322N000000000PAF",
+                "@id": "https://digitalarchive.npm.gov.tw/Canvas/K2A001322N000000000PAF",
+                "@type": "sc:Canvas",
+                "height": "911",
+                "width": "1226",
+                "images": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Annotation/K2A001322N000000000PAF",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://digitalarchive.npm.gov.tw/Canvas/K2A001322N000000000PAF",
+                    "resource": {
+                      "description": "",
+                      "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001322N000000000PAF/full/,300/0/default.jpg",
+                      "@type": "dctypes:Image",
+                      "format": "image/jpeg",
+                      "service": {
+                        "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001322N000000000PAF",
+                        "@context": "https://iiif.io/api/image/2/context.json",
+                        "profile": "https://iiif.io/api/image/2/level1.json"
+                      }
+                    }
+                  }
+                ],
+                "otherContent": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Integrate/GetJsonOtherContent?server=iiifod&n1=K2A&item=K2A001322N000000000PAF&ObjectID=5461&Dept=P",
+                    "@type": "sc:AnnotationList"
+                  }
+                ]
+              },
+              {
+                "label": "K2A001322N000000000PAG",
+                "@id": "https://digitalarchive.npm.gov.tw/Canvas/K2A001322N000000000PAG",
+                "@type": "sc:Canvas",
+                "height": "911",
+                "width": "1226",
+                "images": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Annotation/K2A001322N000000000PAG",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://digitalarchive.npm.gov.tw/Canvas/K2A001322N000000000PAG",
+                    "resource": {
+                      "description": "",
+                      "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001322N000000000PAG/full/,300/0/default.jpg",
+                      "@type": "dctypes:Image",
+                      "format": "image/jpeg",
+                      "service": {
+                        "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001322N000000000PAG",
+                        "@context": "https://iiif.io/api/image/2/context.json",
+                        "profile": "https://iiif.io/api/image/2/level1.json"
+                      }
+                    }
+                  }
+                ],
+                "otherContent": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Integrate/GetJsonOtherContent?server=iiifod&n1=K2A&item=K2A001322N000000000PAG&ObjectID=5461&Dept=P",
+                    "@type": "sc:AnnotationList"
+                  }
+                ]
+              },
+              {
+                "label": "K2A001322N000000000PAH",
+                "@id": "https://digitalarchive.npm.gov.tw/Canvas/K2A001322N000000000PAH",
+                "@type": "sc:Canvas",
+                "height": "911",
+                "width": "1226",
+                "images": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Annotation/K2A001322N000000000PAH",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://digitalarchive.npm.gov.tw/Canvas/K2A001322N000000000PAH",
+                    "resource": {
+                      "description": "",
+                      "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001322N000000000PAH/full/,300/0/default.jpg",
+                      "@type": "dctypes:Image",
+                      "format": "image/jpeg",
+                      "service": {
+                        "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001322N000000000PAH",
+                        "@context": "https://iiif.io/api/image/2/context.json",
+                        "profile": "https://iiif.io/api/image/2/level1.json"
+                      }
+                    }
+                  }
+                ],
+                "otherContent": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Integrate/GetJsonOtherContent?server=iiifod&n1=K2A&item=K2A001322N000000000PAH&ObjectID=5461&Dept=P",
+                    "@type": "sc:AnnotationList"
+                  }
+                ]
+              },
+              {
+                "label": "K2A001322N000000000PAI",
+                "@id": "https://digitalarchive.npm.gov.tw/Canvas/K2A001322N000000000PAI",
+                "@type": "sc:Canvas",
+                "height": "911",
+                "width": "1226",
+                "images": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Annotation/K2A001322N000000000PAI",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://digitalarchive.npm.gov.tw/Canvas/K2A001322N000000000PAI",
+                    "resource": {
+                      "description": "",
+                      "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001322N000000000PAI/full/,300/0/default.jpg",
+                      "@type": "dctypes:Image",
+                      "format": "image/jpeg",
+                      "service": {
+                        "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001322N000000000PAI",
+                        "@context": "https://iiif.io/api/image/2/context.json",
+                        "profile": "https://iiif.io/api/image/2/level1.json"
+                      }
+                    }
+                  }
+                ],
+                "otherContent": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Integrate/GetJsonOtherContent?server=iiifod&n1=K2A&item=K2A001322N000000000PAI&ObjectID=5461&Dept=P",
+                    "@type": "sc:AnnotationList"
+                  }
+                ]
+              },
+              {
+                "label": "K2A001322N000000000PAJ",
+                "@id": "https://digitalarchive.npm.gov.tw/Canvas/K2A001322N000000000PAJ",
+                "@type": "sc:Canvas",
+                "height": "911",
+                "width": "1226",
+                "images": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Annotation/K2A001322N000000000PAJ",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://digitalarchive.npm.gov.tw/Canvas/K2A001322N000000000PAJ",
+                    "resource": {
+                      "description": "",
+                      "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001322N000000000PAJ/full/,300/0/default.jpg",
+                      "@type": "dctypes:Image",
+                      "format": "image/jpeg",
+                      "service": {
+                        "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001322N000000000PAJ",
+                        "@context": "https://iiif.io/api/image/2/context.json",
+                        "profile": "https://iiif.io/api/image/2/level1.json"
+                      }
+                    }
+                  }
+                ],
+                "otherContent": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Integrate/GetJsonOtherContent?server=iiifod&n1=K2A&item=K2A001322N000000000PAJ&ObjectID=5461&Dept=P",
+                    "@type": "sc:AnnotationList"
+                  }
+                ]
+              },
+              {
+                "label": "K2A001322N000000000PAK",
+                "@id": "https://digitalarchive.npm.gov.tw/Canvas/K2A001322N000000000PAK",
+                "@type": "sc:Canvas",
+                "height": "911",
+                "width": "1226",
+                "images": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Annotation/K2A001322N000000000PAK",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://digitalarchive.npm.gov.tw/Canvas/K2A001322N000000000PAK",
+                    "resource": {
+                      "description": "",
+                      "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001322N000000000PAK/full/,300/0/default.jpg",
+                      "@type": "dctypes:Image",
+                      "format": "image/jpeg",
+                      "service": {
+                        "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001322N000000000PAK",
+                        "@context": "https://iiif.io/api/image/2/context.json",
+                        "profile": "https://iiif.io/api/image/2/level1.json"
+                      }
+                    }
+                  }
+                ],
+                "otherContent": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Integrate/GetJsonOtherContent?server=iiifod&n1=K2A&item=K2A001322N000000000PAK&ObjectID=5461&Dept=P",
+                    "@type": "sc:AnnotationList"
+                  }
+                ]
+              },
+              {
+                "label": "K2A001322N000000000PAL",
+                "@id": "https://digitalarchive.npm.gov.tw/Canvas/K2A001322N000000000PAL",
+                "@type": "sc:Canvas",
+                "height": "3222",
+                "width": "1468",
+                "images": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Annotation/K2A001322N000000000PAL",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://digitalarchive.npm.gov.tw/Canvas/K2A001322N000000000PAL",
+                    "resource": {
+                      "description": "",
+                      "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001322N000000000PAL/full/,300/0/default.jpg",
+                      "@type": "dctypes:Image",
+                      "format": "image/jpeg",
+                      "service": {
+                        "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001322N000000000PAL",
+                        "@context": "https://iiif.io/api/image/2/context.json",
+                        "profile": "https://iiif.io/api/image/2/level1.json"
+                      }
+                    }
+                  }
+                ],
+                "otherContent": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Integrate/GetJsonOtherContent?server=iiifod&n1=K2A&item=K2A001322N000000000PAL&ObjectID=5461&Dept=P",
+                    "@type": "sc:AnnotationList"
+                  }
+                ]
+              },
+              {
+                "label": "K2A001322N000000000PAM",
+                "@id": "https://digitalarchive.npm.gov.tw/Canvas/K2A001322N000000000PAM",
+                "@type": "sc:Canvas",
+                "height": "5790",
+                "width": "2896",
+                "images": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Annotation/K2A001322N000000000PAM",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://digitalarchive.npm.gov.tw/Canvas/K2A001322N000000000PAM",
+                    "resource": {
+                      "description": "",
+                      "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001322N000000000PAM/full/,300/0/default.jpg",
+                      "@type": "dctypes:Image",
+                      "format": "image/jpeg",
+                      "service": {
+                        "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001322N000000000PAM",
+                        "@context": "https://iiif.io/api/image/2/context.json",
+                        "profile": "https://iiif.io/api/image/2/level1.json"
+                      }
+                    }
+                  }
+                ],
+                "otherContent": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Integrate/GetJsonOtherContent?server=iiifod&n1=K2A&item=K2A001322N000000000PAM&ObjectID=5461&Dept=P",
+                    "@type": "sc:AnnotationList"
+                  }
+                ]
+              },
+              {
+                "label": "K2A001322N000000000PAN",
+                "@id": "https://digitalarchive.npm.gov.tw/Canvas/K2A001322N000000000PAN",
+                "@type": "sc:Canvas",
+                "height": "2546",
+                "width": "3301",
+                "images": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Annotation/K2A001322N000000000PAN",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://digitalarchive.npm.gov.tw/Canvas/K2A001322N000000000PAN",
+                    "resource": {
+                      "description": "",
+                      "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001322N000000000PAN/full/,300/0/default.jpg",
+                      "@type": "dctypes:Image",
+                      "format": "image/jpeg",
+                      "service": {
+                        "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001322N000000000PAN",
+                        "@context": "https://iiif.io/api/image/2/context.json",
+                        "profile": "https://iiif.io/api/image/2/level1.json"
+                      }
+                    }
+                  }
+                ],
+                "otherContent": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Integrate/GetJsonOtherContent?server=iiifod&n1=K2A&item=K2A001322N000000000PAN&ObjectID=5461&Dept=P",
+                    "@type": "sc:AnnotationList"
+                  }
+                ]
+              },
+              {
+                "label": "K2A001322N000000000PAO",
+                "@id": "https://digitalarchive.npm.gov.tw/Canvas/K2A001322N000000000PAO",
+                "@type": "sc:Canvas",
+                "height": "2546",
+                "width": "3301",
+                "images": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Annotation/K2A001322N000000000PAO",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://digitalarchive.npm.gov.tw/Canvas/K2A001322N000000000PAO",
+                    "resource": {
+                      "description": "",
+                      "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001322N000000000PAO/full/,300/0/default.jpg",
+                      "@type": "dctypes:Image",
+                      "format": "image/jpeg",
+                      "service": {
+                        "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001322N000000000PAO",
+                        "@context": "https://iiif.io/api/image/2/context.json",
+                        "profile": "https://iiif.io/api/image/2/level1.json"
+                      }
+                    }
+                  }
+                ],
+                "otherContent": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Integrate/GetJsonOtherContent?server=iiifod&n1=K2A&item=K2A001322N000000000PAO&ObjectID=5461&Dept=P",
+                    "@type": "sc:AnnotationList"
+                  }
+                ]
+              },
+              {
+                "label": "K2A001322N000000000PAP",
+                "@id": "https://digitalarchive.npm.gov.tw/Canvas/K2A001322N000000000PAP",
+                "@type": "sc:Canvas",
+                "height": "2546",
+                "width": "3300",
+                "images": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Annotation/K2A001322N000000000PAP",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://digitalarchive.npm.gov.tw/Canvas/K2A001322N000000000PAP",
+                    "resource": {
+                      "description": "",
+                      "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001322N000000000PAP/full/,300/0/default.jpg",
+                      "@type": "dctypes:Image",
+                      "format": "image/jpeg",
+                      "service": {
+                        "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001322N000000000PAP",
+                        "@context": "https://iiif.io/api/image/2/context.json",
+                        "profile": "https://iiif.io/api/image/2/level1.json"
+                      }
+                    }
+                  }
+                ],
+                "otherContent": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Integrate/GetJsonOtherContent?server=iiifod&n1=K2A&item=K2A001322N000000000PAP&ObjectID=5461&Dept=P",
+                    "@type": "sc:AnnotationList"
+                  }
+                ]
+              },
+              {
+                "label": "K2A001322N000000000PAQ",
+                "@id": "https://digitalarchive.npm.gov.tw/Canvas/K2A001322N000000000PAQ",
+                "@type": "sc:Canvas",
+                "height": "2546",
+                "width": "3300",
+                "images": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Annotation/K2A001322N000000000PAQ",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://digitalarchive.npm.gov.tw/Canvas/K2A001322N000000000PAQ",
+                    "resource": {
+                      "description": "",
+                      "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001322N000000000PAQ/full/,300/0/default.jpg",
+                      "@type": "dctypes:Image",
+                      "format": "image/jpeg",
+                      "service": {
+                        "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001322N000000000PAQ",
+                        "@context": "https://iiif.io/api/image/2/context.json",
+                        "profile": "https://iiif.io/api/image/2/level1.json"
+                      }
+                    }
+                  }
+                ],
+                "otherContent": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Integrate/GetJsonOtherContent?server=iiifod&n1=K2A&item=K2A001322N000000000PAQ&ObjectID=5461&Dept=P",
+                    "@type": "sc:AnnotationList"
+                  }
+                ]
+              },
+              {
+                "label": "K2A001322N000000000PAR",
+                "@id": "https://digitalarchive.npm.gov.tw/Canvas/K2A001322N000000000PAR",
+                "@type": "sc:Canvas",
+                "height": "3379",
+                "width": "2273",
+                "images": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Annotation/K2A001322N000000000PAR",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://digitalarchive.npm.gov.tw/Canvas/K2A001322N000000000PAR",
+                    "resource": {
+                      "description": "",
+                      "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001322N000000000PAR/full/,300/0/default.jpg",
+                      "@type": "dctypes:Image",
+                      "format": "image/jpeg",
+                      "service": {
+                        "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001322N000000000PAR",
+                        "@context": "https://iiif.io/api/image/2/context.json",
+                        "profile": "https://iiif.io/api/image/2/level1.json"
+                      }
+                    }
+                  }
+                ],
+                "otherContent": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Integrate/GetJsonOtherContent?server=iiifod&n1=K2A&item=K2A001322N000000000PAR&ObjectID=5461&Dept=P",
+                    "@type": "sc:AnnotationList"
+                  }
+                ]
+              },
+              {
+                "label": "K2A001322N000000000PAS",
+                "@id": "https://digitalarchive.npm.gov.tw/Canvas/K2A001322N000000000PAS",
+                "@type": "sc:Canvas",
+                "height": "2534",
+                "width": "3379",
+                "images": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Annotation/K2A001322N000000000PAS",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "https://digitalarchive.npm.gov.tw/Canvas/K2A001322N000000000PAS",
+                    "resource": {
+                      "description": "",
+                      "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001322N000000000PAS/full/,300/0/default.jpg",
+                      "@type": "dctypes:Image",
+                      "format": "image/jpeg",
+                      "service": {
+                        "@id": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001322N000000000PAS",
+                        "@context": "https://iiif.io/api/image/2/context.json",
+                        "profile": "https://iiif.io/api/image/2/level1.json"
+                      }
+                    }
+                  }
+                ],
+                "otherContent": [
+                  {
+                    "@id": "https://digitalarchive.npm.gov.tw/Integrate/GetJsonOtherContent?server=iiifod&n1=K2A&item=K2A001322N000000000PAS&ObjectID=5461&Dept=P",
+                    "@type": "sc:AnnotationList"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "holds": {
+    "checks": [
+      {
+        "candidate": "china-culture-12-night-revels-old-copy",
+        "duplicateSourceIds": [],
+        "duplicateHashes": []
+      },
+      {
+        "candidate": "china-culture-12-night-revels-ming-garden",
+        "duplicateSourceIds": [],
+        "duplicateHashes": []
+      }
+    ],
+    "baselineCovered": 782,
+    "netCoverageUnconditional": 0,
+    "netCoverageIfCorrectionAccepted": 1
+  }
+}

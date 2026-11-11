@@ -1,6 +1,6 @@
 # Historical images: credits and reuse
 
-Reviewed 2026-11-11. 394 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
+Reviewed 2026-11-11. 403 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
 
 Historical artifacts, surviving places and later depictions retain their source identities. No generated reconstructions are included in this catalogue.
 
@@ -2944,6 +2944,90 @@ Official image-service derivative saved unchanged; no local crop, retouching or 
 
 Official image-service derivative saved unchanged; no local crop, retouching or conversion.
 
+## Sacred treasure of the Taiping kingdom / 太平天国的“圣宝”
+
+- File: china-batch-12-hong-sacred-treasure.jpg
+- Creator: Unidentified mint; museum photograph
+- Date: Taiping period, 1851–1864; exact casting year unrecorded
+- Collection: National Museum of History, Taipei; 78-01051
+- Source: https://tcmb.culture.tw/zh-tw/detail?id=14000139479&indexCode=MOCCOLLECTIONS
+- Rights: CC BY 3.0 TW (https://creativecommons.org/licenses/by/3.0/tw/)
+- Rights evidence: https://tcmb.culture.tw/zh-tw/detail?id=14000139479&indexCode=MOCCOLLECTIONS
+
+太平天國背聖寶 / 授權人：文化部典藏網 / 國立歷史博物館；創用CC姓名標示 3.0 台灣及其後版本(CC BY 3.0 TW +) @ 國家文化記憶庫
+
+Official museum image saved unchanged; watermark, labels and calibration chart retained. No crop, retouching or conversion.
+
+## Li Zicheng’s reign name on money / 钱币上的李自成永昌年号
+
+- File: china-batch-12-li-zicheng-yongchang.jpg
+- Creator: Unidentified mint; museum photograph
+- Date: Yongchang era, 1644–1645; individual casting year unrecorded
+- Collection: National Museum of History, Taipei; 77-00139
+- Source: https://tcmb.culture.tw/zh-tw/detail?id=14000138568&indexCode=MOCCOLLECTIONS
+- Rights: CC BY 3.0 TW (https://creativecommons.org/licenses/by/3.0/tw/)
+- Rights evidence: https://tcmb.culture.tw/zh-tw/detail?id=14000138568&indexCode=MOCCOLLECTIONS
+
+永昌通寶折五 / 授權人：文化部典藏網 / 國立歷史博物館；創用CC姓名標示 3.0 台灣及其後版本(CC BY 3.0 TW +) @ 國家文化記憶庫
+
+Official museum image saved unchanged; watermark, labels and calibration chart retained. No crop, retouching or conversion.
+
+## Han Lin’er’s Longfeng reign on a coin / 钱币上的韩林儿龙凤年号
+
+- File: china-batch-12-han-liner-longfeng.jpg
+- Creator: Unidentified mint; museum photograph
+- Date: Longfeng era of Han Lin’er; after its inauguration in 1355; exact year unrecorded
+- Collection: National Museum of History, Taipei; 78-01028
+- Source: https://tcmb.culture.tw/zh-tw/detail?id=14000139456&indexCode=MOCCOLLECTIONS
+- Rights: CC BY 3.0 TW (https://creativecommons.org/licenses/by/3.0/tw/)
+- Rights evidence: https://tcmb.culture.tw/zh-tw/detail?id=14000139456&indexCode=MOCCOLLECTIONS
+
+龍鳳通寶 / 授權人：文化部典藏網 / 國立歷史博物館；創用CC姓名標示 3.0 台灣及其後版本(CC BY 3.0 TW +) @ 國家文化記憶庫
+
+Official museum image saved unchanged; watermark, labels and calibration chart retained. No crop, retouching or conversion.
+
+## The Yongli court’s name survives on money / 钱币保存的永历朝廷年号
+
+- File: china-batch-12-southern-ming-yongli.jpg
+- Creator: Unidentified mint; museum photograph
+- Date: Yongli coinage, 1647–1662; exact casting year unrecorded
+- Collection: National Museum of History, Taipei; 78-01035
+- Source: https://tcmb.culture.tw/zh-tw/detail?id=14000139463&indexCode=MOCCOLLECTIONS
+- Rights: CC BY 3.0 TW (https://creativecommons.org/licenses/by/3.0/tw/)
+- Rights evidence: https://tcmb.culture.tw/zh-tw/detail?id=14000139463&indexCode=MOCCOLLECTIONS
+
+永曆通寶背工 / 授權人：文化部典藏網 / 國立歷史博物館；創用CC姓名標示 3.0 台灣及其後版本(CC BY 3.0 TW +) @ 國家文化記憶庫
+
+Official museum image saved unchanged; watermark, labels and calibration chart retained. No crop, retouching or conversion.
+
+## Night Revels reinvented in a Ming garden / 明代庭园中重构的韩熙载夜宴
+
+- File: china-culture-12-night-revels-ming-garden.jpg
+- Creator: Unidentified Ming artist, formerly attributed to Tang Yin
+- Date: Ming dynasty (1368–1644); exact year unknown; tenth-century subject
+- Collection: National Palace Museum, Taipei; 故畫001322N000000000
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/5461?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/5461?dep=P
+
+明唐寅畫韓熙載夜宴圖 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## Night Revels: an old copy of the final scene / 《韩熙载夜宴图》末段的旧摹本
+
+- File: china-culture-12-night-revels-old-copy.jpg
+- Creator: Unidentified master, after the composition associated with Gu Hongzhong
+- Date: Undated old copy; Southern Tang subject (937–975)
+- Collection: National Palace Museum, Taipei; 故畫000921N000000000
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/1289?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/1289?dep=P
+
+五代南唐顧閎中畫韓熙載夜宴圖 卷。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
 ## Cao Cao in the Sancai Tuhui / 《三才图会》中的曹操像
 
 - File: china-rebuild-cao-cao.jpg
@@ -5519,3 +5603,45 @@ Official IIIF derivative downloaded unchanged; no local crop, retouching or reco
 Wellcome Collection marks this digital item CC BY 4.0. Credit: Wenceslaus Hollar, after John Evelyn / Wellcome Collection.
 
 Official IIIF derivative downloaded unchanged; no local crop, retouching or recolouring.
+
+## Amita and eight bodhisattvas / 阿弥陀佛与八大菩萨
+
+- File: world-batch-14-f1906-269.jpg
+- Creator: Unidentified Korean artist
+- Date: Mid–late 14th century
+- Collection: National Museum of Asian Art, Smithsonian Institution
+- Source: https://asia.si.edu/object/F1906.269/
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/fsg/18.txt
+
+The official Smithsonian record marks both this object and this specific image CC0. Credit: National Museum of Asian Art, Smithsonian Institution; Gift of Charles Lang Freer.
+
+Official Screen Image JPEG preserved unchanged; no local crop, retouching or recolouring.
+
+## A many-spouted ceramic lamp / 多嘴陶灯
+
+- File: world-batch-14-f1931-7.jpg
+- Creator: Unidentified Syrian maker
+- Date: 12th–13th century
+- Collection: National Museum of Asian Art, Smithsonian Institution
+- Source: https://asia.si.edu/object/F1931.7/
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/fsg/04.txt
+
+The official Smithsonian record marks both this object and this specific image CC0. Credit: National Museum of Asian Art, Smithsonian Institution; Purchase — Charles Lang Freer Endowment.
+
+Official Screen Image JPEG preserved unchanged; no local crop, retouching or recolouring.
+
+## A pitcher that failed in production / 烧制失败的水壶
+
+- File: world-batch-14-f1909-376.jpg
+- Creator: Unidentified Raqqa potter
+- Date: 12th–13th century
+- Collection: National Museum of Asian Art, Smithsonian Institution
+- Source: https://asia.si.edu/object/F1909.376/
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/fsg/08.txt
+
+The official Smithsonian record marks both this object and this specific image CC0. Credit: National Museum of Asian Art, Smithsonian Institution; Gift of Charles Lang Freer.
+
+Official Screen Image JPEG preserved unchanged; no local crop, retouching or recolouring.

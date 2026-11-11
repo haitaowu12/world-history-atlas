@@ -284,3 +284,15 @@ Aligned discovery metadata with the existing Firebase primary site, `https://wor
 The optional legacy Pages exporter retains this canonical and sharing identity instead of expecting the retired host. It was syntax-checked but not executed for publication. This does not activate GitHub Actions, submit a sitemap to a search service, or change production hosting.
 
 Validation: **427 checks passed**, zero failures or skips. The sitemap also parsed with an independent XML parser. Chrome verified the local canonical/social fields, visible robots content and rendered XML sitemap. Coverage is unchanged at **394 assets / 782 of 2,087 entries**, with **262** more needed for the half-entry target. This local checkpoint follows `231bea069c47856c533db981640c631ea4251278` and is not a production release.
+
+### Reconstruction checkpoint 25
+
+Nine new images add two later versions of the Night Revels story, four political coins, a Goryeo Buddhist painting, and two Ayyubid ceramics. Item-level CC BY 4.0, CC BY 3.0 TW and CC0 permissions, unmodified image receipts and full target records are preserved in the three batch-12/culture-12/world-14 evidence dossiers. All 394 previous image records and all 656 previous associations remain exactly unchanged.
+
+The Night Revels entry now uses the Southern Tang contextual span 937–975 instead of asserting an exact 960 commission. The inherited date remains in provenance. Taipei's old copy is not presented as Gu Hongzhong's original, and its Ming garden adaptation is not authenticated as Tang Yin. The Yongli coin clearly separates Zhu Youlang's 1646 accession from the 1647 start of his reign era. Unresolved chronologies and restricted images remain excluded.
+
+Two new bilingual guided studies compare later Night Revels compositions and political reign names on coins, bringing the total to 17. Thirty-five additional bilingual summary edits remove repetition while preserving archaeological uncertainty, regional differences, and the violence of imperial expansion. There are now 38 focused story reviews, 60 summary-only edits and 7 image-date sequences.
+
+Coverage is **403 images / 789 of 2,087 unique entries (37.81%)**, with **255** additional entries needed for 50%. Final validation: **432 checks passed**, zero failures or skips. Chrome verified all nine new image loads, both study language paths and keyboard observation disclosures, the corrected Night Revels chronology, the Yongli accession/era distinction, Jōmon in both languages and shortened Timbuktu prose. The rendered page width was 485 CSS pixels with no horizontal overflow. A mistaken Jōmon test URL was corrected to the actual assembled record ID; no result was claimed for the invalid URL.
+
+The previously approved checkpoints 19–24 were successfully saved to remote review commit `eef5a10ff6f7d2d0e88752cf2d7e8dd6292365f7`, tree `78628813b4b6858dcf33705005225a0515119f43`, exactly matching local `f2eb68c`. Ref readback and zero Actions runs were verified. Main remained `b212fcc4293c72f8ff08f4b0fcd8109bd5caa94b`; separate timeline `fb0c69a` was read without alteration. This checkpoint is not a production release.
