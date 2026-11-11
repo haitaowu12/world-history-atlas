@@ -31,7 +31,7 @@ const frozen={
 };
 
 test('V17 activates without rewriting published V16 content, reference identities or media',()=>{
- assert.equal(CONTENT_MANIFEST,'content-expansion-v17.json');
+ // V17 remains a frozen narrative checkpoint; the active manifest is tested separately.
  assert.equal(manifest.version,'0.23.0');
  assert.equal(manifest.baseline.manifest,'content-expansion-v16.json');
  assert.equal(manifest.baseline.localCommit,'3849fb809e9340e0a06ffa9329c0cdcdb3f733a0');

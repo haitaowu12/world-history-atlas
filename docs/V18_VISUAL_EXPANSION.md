@@ -37,3 +37,13 @@ The previous Pro owner stopped without a recoverable image checkpoint. The only 
 The source acquisition cache is local under `research/v18/` and excluded from Git. `node scripts/inventory-visuals.mjs` reconstructs its actual denominator. Candidate downloads are not admitted media: the catalogue requires source identity, reusable rights, visual review and a separate explicit entry association. Batch API reads avoid one request per biography. Provider rate limits stop or defer retrieval rather than being bypassed.
 
 The visual direction preserves the existing atlas and introduces an image-led collection: large uncropped images, visible type/date, source-linked inspection, magnification, linked stories and two-image comparison. Existing detail cards will use objects as well as portraits. Counts distinguish distinct assets from covered records.
+
+## Reconstruction checkpoint, 11 November 2026
+
+The prior executor's later image batches and unpushed commit were unavailable after restoration. Searches of the current workspace, accessible remote Git objects and Space backups did not recover those files. This is new reconstruction from verified review commit `d28a466ce1df55b6642bdccdb17f416180480164`, not recovery of the former 897-entry claim. Main was independently observed at `fe11da29637e97d4d23c23c982fc0547bdb8e93e` and is not changed by this checkpoint.
+
+The V18 image builder now assembles independently reviewed source shards and checks every asset's SHA-256, byte count and encoded dimensions. Its receipt counts unique assembled entry IDs and reports regional coverage, image types, missing IDs and the half-entry target. `npm run check:visual-target` fails until that target is reached. V17 narrative files, source records, image credits and geographic associations remain unchanged; derived geographic index versions follow the active manifest.
+
+First reconstructed batch: six public-domain Met objects, including Mimbres pottery and Merovingian, Carolingian, Ottonian, Byzantine and Nasrid material. Each has its own object record, CC0 evidence and pixel inspection. Current total: **35 images covering 35 of 2,084 unique entries (1.68%)**, target **1,042**. This is a foundation checkpoint, not completion. Source ledger: `references/media/atlantic-rebuild-01.md`.
+
+Validation: `npm run check` passed all **336 tests** with zero failures or skips. This includes actual encoded image dimensions, unique-entry coverage, preservation of frozen narrative inputs and keyboard focus after “Show more”. The under-half target command correctly fails. Reconstructed UI has not yet been browser accepted. No GitHub Actions, main promotion or production deployment occurred.

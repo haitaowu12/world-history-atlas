@@ -1,9 +1,9 @@
 {
   "name": "world-history-atlas",
-  "version": "0.23.0",
+  "version": "0.24.0",
   "private": true,
   "type": "module",
-  "description": "普天之下 · A bilingual atlas for putting history stories in their wider world.",
+  "description": "\u666e\u5929\u4e4b\u4e0b \u00b7 A bilingual atlas for putting history stories in their wider world.",
   "license": "MIT",
   "scripts": {
     "build:content": "node scripts/build-content-expansion-v17.mjs",
@@ -12,7 +12,9 @@
     "check": "node scripts/validate.mjs && node --test --experimental-test-isolation=none tests/*.test.mjs",
     "serve": "python3 scripts/serve.py",
     "build:regions": "node scripts/build-regional-reference.mjs",
-    "publish:pages": "npm run check && python3 scripts/publish-pages.py"
+    "publish:pages": "npm run check && python3 scripts/publish-pages.py",
+    "build:visuals": "node scripts/build-visual-expansion-v18.mjs",
+    "check:visual-target": "node scripts/build-visual-expansion-v18.mjs --require-target"
   },
   "engines": {
     "node": ">=22"

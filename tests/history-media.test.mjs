@@ -3,11 +3,12 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import {createHash} from 'node:crypto';
 import {auditHistoryMedia,createHistoryMedia,mediaFigures,handleHistoryImageError} from '../dist/history-media.mjs';
+import {loadAtlasRecords} from '../scripts/lib/atlas-records.mjs';
 import {CONTENT_MANIFEST} from '../dist/content-expansion.mjs';
 
 const read=file=>JSON.parse(fs.readFileSync(new URL('../dist/data/'+file,import.meta.url),'utf8'));
 const manifest=read(CONTENT_MANIFEST);
-const records=['history.json','people.json','china-depth-v7.json','china-donor-stories.json','civilization-stories.json','world-depth-v7.json','modern-continuity-v7.json',...manifest.files.map(f=>f.file)].flatMap(read);
+const {records}=loadAtlasRecords();
 const catalog=read(manifest.mediaFile||'history-media.json');
 const ids=records.map(r=>r.id);
 

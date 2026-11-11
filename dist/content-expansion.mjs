@@ -1,6 +1,6 @@
 // One source manifest feeds the map, search, People and editorial audit.
 // Structural coverage is not a certification of historical claims or borders.
-export const CONTENT_MANIFEST = 'content-expansion-v17.json';
+export const CONTENT_MANIFEST = 'content-expansion-v18.json';
 
 export function partitionExpansion(records) {
   return {histories:records.filter(r=>r.kind!=='person'),people:records.filter(r=>r.kind==='person')};

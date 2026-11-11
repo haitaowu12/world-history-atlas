@@ -11,7 +11,8 @@ export const REPRESENTATIONS={
  'manuscript-detail':{en:'Manuscript',zh:'手稿'},
  'site-photograph':{en:'Site photograph',zh:'遗址照片'},
  'historical-artwork':{en:'Historical artwork',zh:'历史艺术作品'},
- 'historical-map':{en:'Historical map',zh:'历史地图'}
+ 'historical-map':{en:'Historical map',zh:'历史地图'},
+ 'document-facsimile':{en:'Historical document',zh:'历史文献'}
 };
 const loc=(v,l)=>typeof v==='object'?v?.[l]||v?.en||'':v||'';
 export function visualRows(catalog,records){
@@ -60,7 +61,7 @@ export function createVisualLibrary({catalog,records,getLanguage,regions,regionN
  return {browse,inspect,handle(action,id){
   if(action==='visual-browse')browse();else if(action==='visual-inspect')inspect(id);else if(action==='visual-story')openStory(id);
   else if(action==='visual-pick'){selected=selected.includes(id)?selected.filter(x=>x!==id):selected.length<2?[...selected,id]:[selected[1],id];updateResults();document.querySelector(`.visual-pick[data-id="${CSS.escape(id)}"]`)?.focus();}
-  else if(action==='visual-more'){limit+=24;updateResults();}
+  else if(action==='visual-more'){const next=filterVisualRows(rows,filters)[limit];limit+=24;updateResults();if(next)document.querySelector(`.visual-open[data-id="${CSS.escape(next.id)}"]`)?.focus();}
   else if(action==='visual-compare')compare();else return false;return true;
  }};
 }
