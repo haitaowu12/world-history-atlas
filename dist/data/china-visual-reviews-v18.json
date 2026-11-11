@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "reviewedAt": "2026-11-11",
+  "policy": "Two targeted historical corrections; geographic anchors remain pending separate review.",
+  "eventReviews": [
+    {
+      "id": "china-landmark-359",
+      "patch": {
+        "title": {
+          "en": "Li Bai, Du Fu and Gao Shi travel through Liang and Song",
+          "zh": "李白、杜甫与高适同游梁宋"
+        },
+        "summary": {
+          "en": "In 744, Du Fu met Li Bai, then travelled with him and Gao Shi through Liang and Song, around present-day Kaifeng and Shangqiu. The meeting is placed at Luoyang or possibly Chenliu. Du Fu and Li Bai travelled together again in Shandong in 745 before parting at the end of that year.",
+          "zh": "744年，杜甫结识李白，随后与李白、高适同游梁宋，即今开封、商丘一带。相遇地点一般记为洛阳，也可能是陈留。745年，杜甫与李白又同游山东，至年底分别。"
+        },
+        "dateNote": {
+          "en": "744 marks their meeting and Liang–Song travels; their Shandong journey followed in 745.",
+          "zh": "744年为相识及同游梁宋之年；山东之游在745年。"
+        },
+        "location": {
+          "lon": 112.45,
+          "lat": 34.62,
+          "label": "Luoyang: reference point for Liang–Song travels",
+          "labelI18n": {
+            "en": "Luoyang: reference point for Liang–Song travels",
+            "zh": "洛阳：梁宋之游的参考点"
+          },
+          "labelProvenance": "reviewed-reference-anchor"
+        },
+        "relatedIds": [
+          "china-person-libai",
+          "china-person-dufu",
+          "tang-dynasty"
+        ]
+      },
+      "note": {
+        "en": "Reviewed the meeting, alternative meeting place and subsequent travels against Daniel Hsieh’s chronology. Removed unsupported hunting and drinking details. Existing geographic anchor is not a verified meeting site.",
+        "zh": "据Daniel Hsieh年表核对相识年份、相遇地点的不同记载及后续同游；删除未获核实的猎酒细节。现有地理锚点并非已证实的相遇地点。"
+      },
+      "sources": [
+        {
+          "title": "The Late Wanderings of Du Fu — Chronology, entries for 744–745",
+          "url": "https://cup.cuhk.edu.hk/image/catalog/preview/9789882373921_SampleChapter.pdf",
+          "publisher": "The Chinese University of Hong Kong Press",
+          "author": "Daniel Hsieh",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "PDF page 1, chronology entries for 744 and 745; allows Luoyang or Chenliu and identifies Liang–Song and Shandong travels.",
+          "retrieval": "Read the linked source directly; relevant chronology or object passage reviewed.",
+          "evidenceNoteZh": "PDF第1页744与745年年表：相遇地点为洛阳或陈留，并记载梁宋及山东之游。"
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-368",
+      "patch": {
+        "title": {
+          "en": "Yan Zhenqing writes a requiem for his nephew",
+          "zh": "颜真卿书写《祭侄文稿》"
+        },
+        "summary": {
+          "en": "After Yan Gaoqing and his son Jiming died resisting the An Lushan rebels, Yan Zhenqing sent his elder nephew Quanming to recover their remains. In 758 he wrote a requiem for Jiming. The surviving draft preserves crossed-out words and shifts from regular to running and cursive script, bringing a family’s wartime loss into the history of calligraphy.",
+          "zh": "颜杲卿与儿子季明在抵抗安史叛军时遇难后，颜真卿派长侄泉明前往收殓遗骸。758年，他为季明写下祭文。传世文稿保留涂改字句，楷、行、草笔法交织，使一个家族的战乱创痛留在了书法史中。"
+        },
+        "dateNote": {
+          "en": "Dated in the manuscript to the third day of the ninth lunar month, Qianyuan 1 (758).",
+          "zh": "文稿自署乾元元年（758）九月初三，为农历日期。"
+        },
+        "location": {
+          "lon": 107.39,
+          "lat": 34.52,
+          "label": "Fengxiang: inherited reference point; writing site unresolved",
+          "labelI18n": {
+            "en": "Fengxiang: inherited reference point; writing site unresolved",
+            "zh": "凤翔：原资料参考点；书写地点未定"
+          },
+          "labelProvenance": "reviewed-reference-anchor"
+        },
+        "relatedIds": [
+          "china-person-yanzhenqing",
+          "china-yan-zhenqing-nephew-758",
+          "china-anshi-war-and-recovery-755",
+          "tang-dynasty"
+        ]
+      },
+      "note": {
+        "en": "Corrected the recovery of remains to Quanming, retained the manuscript’s 758 date, and replaced generic praise with observable features of the draft. Composition location remains unresolved.",
+        "zh": "将收殓遗骸者改为泉明，保留文稿自署的758年纪年，以文稿可见特征替换空泛赞语；书写地点尚待核实。"
+      },
+      "sources": [
+        {
+          "title": "Draft of a Requiem for My Nephew — collection record and transcription",
+          "url": "https://digitalarchive.npm.gov.tw/opendata/Pub/DetailEng/3?dep=P&mode=full",
+          "publisher": "National Palace Museum, Taipei",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "Object 故書000060N000000000: manuscript date and Quanming passage; description dated 20110913 identifies 758.",
+          "retrieval": "Read the linked source directly; relevant chronology or object passage reviewed.",
+          "evidenceNoteZh": "藏品故書000060N000000000的文稿纪年与泉明段落；20110913条说明确认创作于758年。"
+        },
+        {
+          "title": "Draft of a Requiem for My Nephew — Introduction",
+          "url": "https://theme.npm.edu.tw/selection/Article.aspx?lang=2&sNo=04001003",
+          "publisher": "National Palace Museum, Taipei",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "Introduction paragraphs 2–3 identify the elder nephew Ch’uan-ming (Quanming) and recovery; final paragraph describes revisions.",
+          "retrieval": "Read the linked source directly; relevant chronology or object passage reviewed.",
+          "evidenceNoteZh": "介绍第2至3段记述长侄泉明及收殓遗骸；末段说明文稿中的多处涂改。"
+        }
+      ]
+    }
+  ]
+}

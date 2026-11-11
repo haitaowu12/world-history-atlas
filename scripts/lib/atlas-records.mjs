@@ -7,7 +7,7 @@ import {applyPlaceLabelTranslations} from '../../dist/place-labels.mjs';
 
 const root=new URL('../../',import.meta.url);
 export const readAtlasData=file=>JSON.parse(fs.readFileSync(new URL('dist/data/'+file,root),'utf8'));
-export function loadAtlasRecords(manifestFile=CONTENT_MANIFEST){
+export function loadAtlasRecords(manifestFile=CONTENT_MANIFEST,{chinaReviewsFile}={}){
  const manifest=readAtlasData(manifestFile),chinaManifest=readAtlasData('china-import-manifest.json');
  let library=readAtlasData('china-library.json');
  for(const file of library.placeFiles||[])Object.assign(library,readAtlasData(file.path||file.file));
@@ -21,6 +21,8 @@ export function loadAtlasRecords(manifestFile=CONTENT_MANIFEST){
  const baseline=applyChinaReviews(chinaManifest.eventFiles.flatMap(file=>readAtlasData(file.path||file.file)),library,readAtlasData('china-reviews.json'));
  let current={events:baseline.events,people,library:applySearchUpdate(baseline.library,readAtlasData('jiangshan-search-update.json'))};
  for(const file of ['jiangshan-reviewed-update.json','jiangshan-followup-v15.json','jiangshan-reviewed-followup-v16.json'])current=applyReviewedUpdate(current.events,current.people,current.library,readAtlasData(file));
+ const reviewFile=chinaReviewsFile||manifest.chinaReviewsFile;
+ if(reviewFile){const updated=applyChinaReviews(current.events,current.library,readAtlasData(reviewFile));current={...current,...updated};}
  const captions=manifest.placeLabelsFile?readAtlasData(manifest.placeLabelsFile):{items:[]};
  const records=applyPlaceLabelTranslations([...histories,...current.people,...linkChinaContext(current.events,[...histories,...current.people])],captions);
  if(new Set(records.map(record=>record.id)).size!==records.length)throw new Error('Duplicate assembled atlas identity');

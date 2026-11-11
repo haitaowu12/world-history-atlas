@@ -90,3 +90,11 @@ Added 21 individually reviewed links from six existing images to previously unco
 Full validation: **347 checks passed**, zero failures or skips. The new Chinese manuscript link loads from its entry into the image inspector; its 600 × 449 source image, NPM record, CC0 credit and five linked stories are visible at 500 CSS-pixel width without horizontal overflow. The underlying donor entry's attribution of recovering the remains and the Li Bai–Du Fu meeting place are being corrected in a separate evidence layer, not silently certified by the new image links.
 
 Checkpoint 5 is remotely verified at `fa9ec406a8621be28ab083019b6c1eef05b9168e`, tree `2a07a6e74c9a348a19fa587085760afe38cb1906`. This checkpoint changes review content only, with no production deployment or Actions.
+
+### Reconstruction checkpoint 7
+
+Added a separate, manifest-receipted V18 story-review layer for two image-linked Tang entries. The Li Bai–Du Fu story now distinguishes the uncertain Luoyang/Chenliu meeting location from their documented Liang–Song and Shandong travels. The manuscript story credits Quanming with recovering family remains, retains the manuscript's lunar date in 758, and explains visible revisions. Both have concise bilingual narratives and evidence notes, authoritative reading links, and direct links to the related biographies. Frozen donor files, identities, dates and coordinates remain intact; inherited map anchors are explicitly labelled as references rather than verified meeting or writing sites.
+
+All **350 checks pass**, zero failures or skips. New regression checks verify the review receipt, unchanged unrelated entries and geography, preserved source provenance and the two substantive corrections. Actual browser checks verified both entries in English and Chinese, the corrected source-note disclosure and three connected-reading links on the poets' entry. Image coverage remains **72 assets / 159 of 2,084 entries**.
+
+Checkpoint 6 is saved remotely at `a8445a7e0cdcb476944672ed012e0208eec74681`. This remains review work; no Actions or production publication.

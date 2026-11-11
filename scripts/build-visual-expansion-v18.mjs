@@ -1,4 +1,4 @@
-// Assemble reviewed image shards, preserving every published V17 narrative byte.
+// Assemble reviewed images and a separate correction layer; frozen V17 source bytes stay intact.
 import fs from 'node:fs';
 import {createHash} from 'node:crypto';
 import {loadAtlasRecords,readAtlasData} from './lib/atlas-records.mjs';
@@ -9,7 +9,9 @@ const root=new URL('../',import.meta.url),data=new URL('dist/data/',root);
 const sha=bytes=>createHash('sha256').update(bytes).digest('hex');
 const write=(file,value)=>fs.writeFileSync(new URL(file,root),JSON.stringify(value,null,2)+'\n');
 const baseline=readAtlasData('content-expansion-v17.json');
-const {records}=loadAtlasRecords('content-expansion-v17.json');
+const chinaReviewsFile='china-visual-reviews-v18.json';
+const reviewBytes=fs.readFileSync(new URL(chinaReviewsFile,data));
+const {records}=loadAtlasRecords('content-expansion-v17.json',{chinaReviewsFile});
 const shards=fs.readdirSync(data).filter(f=>/^visual-assets-.*-v18\.json$/.test(f)).sort();
 const catalog={...readAtlasData('history-media-v17.json'),version:2,reviewedAt:'2026-11-11',associations:[]};
 const receipts=[];
@@ -36,8 +38,8 @@ const summary={schemaVersion:1,reviewedAt:catalog.reviewedAt,baselineManifest:'c
  shards:receipts,assetBytes:catalog.items.reduce((n,item)=>n+item.bytes,0),
  verification:'All admitted files match their SHA-256, byte count and encoded dimensions. Source identity, reuse rights, pixel review and entry relevance require the individual editorial records; structural validation does not establish those facts.'};
 if(process.argv.includes('--require-target')&&!summary.targetMet)throw Error(`Visual target unmet: ${summary.covered}/${summary.total}; need ${target}`);
-const manifest={...baseline,version:'0.24.0',preparedAt:'2026-11-11',mediaFile:'history-media-v18.json',geographicIndexFile:'us-canada-history-index-v18.json',regionalHistoryFile:'regional-history-v18.json',visualExpansion:{baselineManifest:'content-expansion-v17.json',shards:receipts,coverageFile:'visual-coverage-v18.json',assets:summary.assets,covered:summary.covered,total:summary.total,target}};
-// This phase changes images only. Preserve the exact existing geography associations.
+const manifest={...baseline,version:'0.24.0',preparedAt:'2026-11-11',mediaFile:'history-media-v18.json',chinaReviewsFile,chinaVisualReviews:{bytes:reviewBytes.length,sha256:sha(reviewBytes),records:JSON.parse(reviewBytes).eventReviews.length},geographicIndexFile:'us-canada-history-index-v18.json',regionalHistoryFile:'regional-history-v18.json',visualExpansion:{baselineManifest:'content-expansion-v17.json',shards:receipts,coverageFile:'visual-coverage-v18.json',assets:summary.assets,covered:summary.covered,total:summary.total,target}};
+// The correction layer preserves coordinates. Keep existing geography-index associations.
 for(const [key,file] of [['geographicIndexFile',manifest.geographicIndexFile],['regionalHistoryFile',manifest.regionalHistoryFile]]){
  const index=readAtlasData(baseline[key]);
  write('dist/data/'+file,{...index,contentVersion:manifest.version});

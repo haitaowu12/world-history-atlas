@@ -205,6 +205,13 @@ catch (error) { fail('China review overlay: '+error.message); }
 for (const review of [...(chinaReviews.eventReviews || []),...(chinaReviews.chronicleReviews || [])]) {
   if (!review.note?.en || !review.note?.zh || !review.sources?.length || review.sources.some(source => !safeSourceURL(source.url) || !source.title || !source.publisher || !source.evidenceNote)) fail('China review overlay: missing claim-specific note or evidence');
 }
+if(expansionManifest.chinaReviewsFile)try {
+  const content=fs.readFileSync(path.join(root,'dist/data',expansionManifest.chinaReviewsFile));
+  const review=JSON.parse(content),receipt=expansionManifest.chinaVisualReviews;
+  if(content.length!==receipt?.bytes||crypto.createHash('sha256').update(content).digest('hex')!==receipt?.sha256||review.eventReviews.length!==receipt?.records)fail('Visual-story review receipt mismatch');
+  for(const row of review.eventReviews||[])if(!row.note?.en||!row.note?.zh||!row.sources?.length||row.sources.some(source=>!safeSourceURL(source.url)||!source.title||!source.publisher||!source.evidenceNote||!source.checkedAt))fail('Visual-story review: missing claim-specific evidence');
+  reviewedChina=applyChinaReviews(reviewedChina.events,reviewedChina.library,review);
+}catch(error){fail('Visual-story review: '+error.message);}
 const records = [...histories,...people,...linkChinaContext(reviewedChina.events,[...histories,...people])];
 if(expansionManifest.placeLabelsFile)try {
   const content=fs.readFileSync(path.join(root,'dist/data',expansionManifest.placeLabelsFile));
