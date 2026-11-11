@@ -8,7 +8,7 @@ import {applyPlaceLabelTranslations} from '../../dist/place-labels.mjs';
 const root=new URL('../../',import.meta.url);
 export const readAtlasData=file=>JSON.parse(fs.readFileSync(new URL('dist/data/'+file,root),'utf8'));
 export function loadAtlasRecords(manifestFile=CONTENT_MANIFEST,{chinaReviewsFile}={}){
- const manifest=readAtlasData(manifestFile),chinaManifest=readAtlasData('china-import-manifest.json');
+ const manifest=typeof manifestFile==='string'?readAtlasData(manifestFile):manifestFile,chinaManifest=readAtlasData('china-import-manifest.json');
  let library=readAtlasData('china-library.json');
  for(const file of library.placeFiles||[])Object.assign(library,readAtlasData(file.path||file.file));
  const additions=partitionExpansion(manifest.files.flatMap(file=>readAtlasData(file.file)));

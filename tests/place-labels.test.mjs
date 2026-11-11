@@ -40,14 +40,15 @@ test('reviewed captions match the exact record and English text and never overwr
  assert.ok(auditPlaceLabelTranslations({...catalog,items:[...catalog.items,...catalog.items]},[record]).length);
 });
 
-test('every older record directly linked from a V17 story or reading has a Chinese place caption',()=>{
+test('every older record directly linked from a V17 or V18 story or reading has a Chinese place caption',()=>{
  const manifest=read(CONTENT_MANIFEST),catalog=read(manifest.placeLabelsFile);
  const base=['history.json','people.json','china-depth-v7.json','china-donor-stories.json','civilization-stories.json','world-depth-v7.json','modern-continuity-v7.json'].flatMap(read);
  const records=applyEvidenceReviews([...base,...imported,...manifest.files.flatMap(file=>read(file.file))],read(manifest.evidenceReviewsFile));
- assert.equal(catalog.items.length,149);
+ assert.equal(catalog.items.length,151);
+ for(const frozen of read('place-labels-reviewed-v17.json').items)assert.deepEqual(catalog.items.find(item=>item.recordId===frozen.recordId),frozen);
  assert.deepEqual(auditPlaceLabelTranslations(catalog,records),[]);
  const translated=applyPlaceLabelTranslations(records,catalog),byId=new Map(translated.map(record=>[record.id,record]));
- const fresh=manifest.addition.files.flatMap(read),linked=new Set(fresh.flatMap(record=>record.relatedIds));
+ const fresh=[...read('content-expansion-v17.json').addition.files,...manifest.addition.files].flatMap(read),linked=new Set(fresh.flatMap(record=>record.relatedIds));
  for(const file of ['story-readings-africa-west-europe-v17.json','story-readings-asia-v17.json','story-readings-americas-pacific-v17.json'])for(const course of read(file))for(const id of course.recordIds)linked.add(id);
  for(const id of linked)assert.match(byId.get(id)?.location?.labelI18n?.zh||'',/[\u3400-\u9fff]/u,id+' Chinese caption');
 });

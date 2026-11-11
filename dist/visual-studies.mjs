@@ -10,5 +10,82 @@ export const VISUAL_STUDIES=[
  {id:'independence-and-government',assets:['atlantic-rebuild-declaration-of-independence','atlantic-rebuild-constitution'],title:b('Declaring independence, designing government','宣告独立，设计政府'),question:b('How does a declaration of political separation differ from a framework for governing?','政治分离的宣言与治理框架，有什么不同？'),observations:[
  b('The 1776 Declaration explains and announces separation from Britain. This is the faded engrossed parchment; its present appearance reflects its material history, not how clearly every copy could be read in 1776.','1776年《独立宣言》说明并宣告与英国分离。这是如今已褪色的誊清羊皮纸，其现状反映保存历程，并不表示1776年的所有版本都如此难辨。'),
  b('The 1787 Constitution sets out institutions and powers. Open the linked entries to compare the eleven-year gap, the Articles of Confederation between them, and the people excluded from the political equality these documents invoked.','1787年《宪法》规定机构及权力。打开关联条目，比较其间十一年的变化、《邦联条例》的过渡安排，以及被这些文献所诉诸的政治平等排除的人群。')]}];
+VISUAL_STUDIES.push(...[
+ {
+  "id": "weaving-empire-local-patterns",
+  "assets": [
+   "inka-tunic",
+   "world-batch-02-met-308120"
+  ],
+  "title": {
+   "en": "One empire, different weaving choices",
+   "zh": "同一帝国，不同织法"
+  },
+  "question": {
+   "en": "Compare the checkerboard grid with the stars. Where do repetition and variation appear?",
+   "zh": "对照棋盘格与星纹：重复与变化各出现在哪里？"
+  },
+  "observations": [
+   {
+    "en": "The black-and-white checkerboard tunic repeats a bold geometric design beneath a red yoke. Its date range, 1400–1535, is a museum attribution rather than a known year of weaving.",
+    "zh": "黑白棋盘格上衣在红色肩部下重复排列醒目的几何纹样。1400—1535年是博物馆的断代范围，而非已知织造年份。"
+   },
+   {
+    "en": "The Chuquibamba tunic combines imperial-style proportions with local stars containing contrasting square centers. Follow its story to ask how the museum’s maker attribution changes what we notice about local work.",
+    "zh": "丘基班巴织衣把帝国式比例与地方星纹结合，星心是对比鲜明的方块。沿故事追问：博物馆对制作者的归属，如何改变我们对地方劳动的理解？"
+   }
+  ]
+ },
+ {
+  "id": "indus-water-spaces",
+  "assets": [
+   "world-batch-03-dholavira",
+   "world-batch-03-mohenjo-daro"
+  ],
+  "title": {
+   "en": "Water in two Harappan cities",
+   "zh": "两座哈拉帕城市中的水"
+  },
+  "question": {
+   "en": "Look at the edges, steps and surrounding buildings. How were these spaces built around water?",
+   "zh": "观察边缘、台阶与周围建筑：这些空间如何围绕水来建造？"
+  },
+  "observations": [
+   {
+    "en": "The Dholavira photograph shows a reservoir integrated into a city’s water-storage system. The stepped edge makes the depth and access visible in a modern view of the surviving structure.",
+    "zh": "多拉维拉照片显示城市蓄水系统中的一座水池。台阶边缘让我们从遗存的现代照片中看见深度与出入方式。"
+   },
+   {
+    "en": "The Great Bath at Mohenjo-daro sits within a built complex. Its precise use remains debated; the visible basin alone does not prove a particular ritual. Both images show excavated remains today, not untouched Bronze Age cityscapes.",
+    "zh": "摩亨佐达罗的大浴池位于建筑群内。其具体用途仍有争论，可见的池体本身不能证明某种特定仪式。两图展示今天的发掘遗存，而非未经变化的青铜时代城市。"
+   }
+  ]
+ },
+ {
+  "id": "encyclopedias-copy-craft",
+  "assets": [
+   "china-batch-05-yongle",
+   "world-batch-04-met-591843"
+  ],
+  "title": {
+   "en": "Collecting knowledge: plants and bookbinding",
+   "zh": "汇集知识：植物与书籍装订"
+  },
+  "question": {
+   "en": "What does each page ask its reader to identify or learn? Compare the image with the text around it.",
+   "zh": "每一页希望读者辨认或学习什么？把图像与周围文字对照起来。"
+  },
+  "observations": [
+   {
+    "en": "The Yongle Encyclopedia page depicts bitter orange. This surviving leaf is from a 1562–1567 manuscript copy of the work compiled in 1403–1408, so the page’s age differs from the compilation’s age.",
+    "zh": "《永乐大典》这一页描绘枳实。它来自1562—1567年的抄本，原书编纂于1403—1408年，因此书页年代不同于编纂年代。"
+   },
+   {
+    "en": "The Encyclopédie plate shows procedures for binding books, making a craft process part of a printed reference work. The Met’s 1751–65 publication range is not an independently dated year for this particular plate.",
+    "zh": "《百科全书》图版展示书籍装订工序，使工艺过程成为印本工具书的内容。大都会列出的1751—1765年是出版记录范围，并非单独确定的本幅图版年代。"
+   }
+  ]
+ }
+]);
 export function availableVisualStudies(rows){const ids=new Set(rows.map(r=>r.id));return VISUAL_STUDIES.filter(s=>s.assets.length===2&&new Set(s.assets).size===2&&s.assets.every(id=>ids.has(id)));}
 export function matchingVisualStudy(ids){if(ids.length!==2||new Set(ids).size!==2)return null;return VISUAL_STUDIES.find(s=>s.assets.every(id=>ids.includes(id)))||null;}

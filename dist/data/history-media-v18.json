@@ -11725,6 +11725,39 @@
   ],
   "associations": [
     {
+      "recordId": "cao-zhenxiu-famous-women-album",
+      "assetId": "china-batch-03-ban-zhao",
+      "role": "related-work",
+      "context": {
+        "en": "The Ban Zhao leaf is one part of the 1799 album commissioned by Cao Zhenxiu and painted by Gai Qi.",
+        "zh": "班昭图是1799年曹贞秀委托改琦绘制的画册中的一页。"
+      },
+      "evidenceUrl": "https://www.metmuseum.org/art/collection/search/733847",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "recordId": "chuquibamba-stars-imperial-tunic",
+      "assetId": "world-batch-02-met-308120",
+      "role": "depicts-subject",
+      "context": {
+        "en": "This is the Chuquibamba star-patterned tunic discussed in the story, Met 33.149.100.",
+        "zh": "这就是故事讨论的丘基班巴星纹织衣，大都会藏品号33.149.100。"
+      },
+      "evidenceUrl": "https://www.metmuseum.org/art/collection/search/308120",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "recordId": "majapahit-clay-domestic-architecture",
+      "assetId": "world-batch-02-met-38577",
+      "role": "depicts-subject",
+      "context": {
+        "en": "This is the terracotta column surround discussed in the story, Met 1992.151.",
+        "zh": "这就是故事讨论的陶制柱饰，大都会藏品号1992.151。"
+      },
+      "evidenceUrl": "https://www.metmuseum.org/art/collection/search/38577",
+      "checkedAt": "2026-11-11"
+    },
+    {
       "assetId": "atlantic-rebuild-met-323723",
       "recordId": "achaemenid-empire",
       "role": "named-site",

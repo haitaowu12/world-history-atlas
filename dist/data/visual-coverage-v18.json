@@ -2,10 +2,10 @@
   "schemaVersion": 1,
   "reviewedAt": "2026-11-11",
   "baselineManifest": "content-expansion-v17.json",
-  "total": 2084,
-  "covered": 360,
+  "total": 2087,
+  "covered": 363,
   "assets": 175,
-  "percent": 17.27447216890595,
+  "percent": 17.393387637757545,
   "coveredIds": [
     "abbasid-caliphate",
     "achaemenid-empire",
@@ -21,6 +21,7 @@
     "borobudur",
     "bukhara-suzani-shared-needlework",
     "camp-saxton-freedom-community",
+    "cao-zhenxiu-famous-women-album",
     "caracalla-citizenship-edict",
     "caral",
     "carolingian-dynasty",
@@ -254,6 +255,7 @@
     "china-yongle-encyclopedia-1403",
     "chinese-exclusion-us",
     "chola-dynasty",
+    "chuquibamba-stars-imperial-tunic",
     "coromandel-painted-cotton-workshops",
     "coromandel-textile-work",
     "dawes-allotment",
@@ -291,6 +293,7 @@
     "lalibela-rock-hewn-churches",
     "lambayeque-sican-craft",
     "louisiana-purchase",
+    "majapahit-clay-domestic-architecture",
     "majapahit-java",
     "mamluk-sultanate",
     "mangaaka-carver-ritual-law",
@@ -2094,25 +2097,25 @@
     "china-event-prc-011",
     "china-event-prc-012"
   ],
-  "target": 1042,
+  "target": 1044,
   "targetMet": false,
-  "remaining": 682,
+  "remaining": 681,
   "regions": {
     "africa": {
       "total": 136,
       "covered": 18
     },
     "east-asia": {
-      "total": 1215,
-      "covered": 230
+      "total": 1216,
+      "covered": 231
     },
     "europe": {
       "total": 122,
       "covered": 22
     },
     "latin-america": {
-      "total": 93,
-      "covered": 13
+      "total": 94,
+      "covered": 14
     },
     "north-america": {
       "total": 123,
@@ -2127,8 +2130,8 @@
       "covered": 21
     },
     "southeast-asia": {
-      "total": 100,
-      "covered": 11
+      "total": 101,
+      "covered": 12
     },
     "west-central-asia": {
       "total": 111,
@@ -2147,6 +2150,13 @@
     "site-photograph": 21
   },
   "shards": [
+    {
+      "file": "visual-assets-artifact-stories-v18.json",
+      "bytes": 1527,
+      "sha256": "338c52e7e296dd5f272baca7b80c3ba873c8f473a9c019c8fc4bd8a0c76d0553",
+      "assets": 0,
+      "associations": 3
+    },
     {
       "file": "visual-assets-atlantic-rebuild-01-v18.json",
       "bytes": 14942,

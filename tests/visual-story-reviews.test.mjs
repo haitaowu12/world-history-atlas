@@ -3,14 +3,16 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import {createHash} from 'node:crypto';
 import {loadAtlasRecords,readAtlasData} from '../scripts/lib/atlas-records.mjs';
+import {applyPlaceLabelTranslations} from '../dist/place-labels.mjs';
 import {applyChinaReviews} from '../dist/china-review.mjs';
 const old=loadAtlasRecords('content-expansion-v17.json').records,now=loadAtlasRecords().records;
 const before=new Map(old.map(r=>[r.id,r])),after=new Map(now.map(r=>[r.id,r]));
 const manifest=readAtlasData('content-expansion-v18.json'),reviews=readAtlasData(manifest.chinaReviewsFile);
 test('V18 story corrections preserve all identities, years, coordinates and unrelated records',()=>{
- assert.deepEqual(now.map(r=>r.id),old.map(r=>r.id));
+ assert.deepEqual(now.filter(r=>before.has(r.id)).map(r=>r.id),old.map(r=>r.id));
+ const translated=new Map(applyPlaceLabelTranslations(old,readAtlasData(manifest.placeLabelsFile)).map(r=>[r.id,r]));
  const targets=new Set(reviews.eventReviews.map(r=>r.id));assert.deepEqual([...targets],['china-landmark-359','china-landmark-368']);
- for(const row of now){const prior=before.get(row.id);if(!targets.has(row.id)){assert.deepEqual(row,prior,row.id);continue;}
+ for(const row of now.filter(r=>before.has(r.id))){const prior=translated.get(row.id);if(!targets.has(row.id)){assert.deepEqual(row,prior,row.id);continue;}
   for(const key of ['start','end','locationPrecision'])assert.equal(row[key],prior[key]);
   for(const key of ['lon','lat'])assert.equal(row.location[key],prior.location[key]);
   assert.equal(row.provenance.status,'reviewed');assert.deepEqual(row.provenance.originalText,{title:prior.title,summary:prior.summary});

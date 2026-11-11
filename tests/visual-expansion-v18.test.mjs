@@ -13,7 +13,7 @@ const {records}=loadAtlasRecords();
 test('V18 activates a separate visual manifest and preserves frozen narrative/media inputs',()=>{
  assert.equal(CONTENT_MANIFEST,'content-expansion-v18.json');assert.equal(manifest.version,'0.24.0');
  for(const [file,expected] of Object.entries({'content-expansion-v17.json':'8adb915f1105d17492316c3179fd21c24c67bde70227e772e1ae9e075352ec30','history-media-v17.json':'050f7679fc60746de7c436df613461ffbeba501078bf14f75876d741a87f4fbf'}))assert.equal(hash(fs.readFileSync(new URL('dist/data/'+file,root))),expected,file);
- assert.deepEqual(manifest.files,readAtlasData('content-expansion-v17.json').files);
+ for(const frozen of readAtlasData('content-expansion-v17.json').files)assert.deepEqual(manifest.files.find(row=>row.file===frozen.file),frozen);
  for(const item of readAtlasData('history-media-v17.json').items){const {metadataI18n,...source}=catalog.items.find(row=>row.id===item.id);assert.deepEqual(source,item);if(metadataI18n)for(const key of ['date','creator','institution'])assert.equal(metadataI18n[key].en,item[key]);}
 });
 test('the coverage receipt is reproducible from unique assembled entries and shipped associations',()=>{
@@ -35,7 +35,7 @@ test('the target command cannot silently pass an under-half catalogue',()=>{
  const run=spawnSync(process.execPath,['scripts/build-visual-expansion-v18.mjs','--require-target'],{cwd:root,encoding:'utf8'});
  assert.equal(run.status,receipt.targetMet?0:1);if(!receipt.targetMet)assert.match(run.stderr,/Visual target unmet/);
 });
-test('image-only expansion preserves all reviewed geographic associations',()=>{
+test('visual expansion preserves existing geographic associations without locating unproven object origins',()=>{
  const before=readAtlasData('content-expansion-v17.json');
  for(const key of ['geographicIndexFile','regionalHistoryFile']){const previous=readAtlasData(before[key]),current=readAtlasData(manifest[key]);assert.deepEqual(current,{...previous,contentVersion:manifest.version});}
 });

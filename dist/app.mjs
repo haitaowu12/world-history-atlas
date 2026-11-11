@@ -1,5 +1,5 @@
 import {readerDateNote,readerFactLines,readerSourceListHTML,readerReviewLimit} from './reader-copy.mjs';
-import {createVisualLibrary} from './visual-library.mjs?v=4';
+import {createVisualLibrary} from './visual-library.mjs?v=5';
 import {entryMediaFigures,createHistoryMedia,mediaFigures,mediaThumbnail,handleHistoryImageError} from './history-media.mjs?v=2';
 import {applyPlaceLabelTranslations} from './place-labels.mjs';
 import {civilizationOverlaps} from './civilization-tracks.mjs';
@@ -15,7 +15,7 @@ import {createAmericasLoader,composeAmericasFeatures,readingStepYear,americasPar
 import {DEFAULT_LAYERS,selectMapView,restoreMapLayers} from './map-views.mjs?v=2';
 import {applySearchUpdate,applyReviewedUpdate} from './upstream-intake.mjs?v=2';
 import {createRegionalExplorer} from './regional-explorer.mjs?v=28';
-import {CONTENT_MANIFEST,partitionExpansion,expansionCoverage,applyEvidenceReviews} from './content-expansion.mjs?v=34';
+import {CONTENT_MANIFEST,partitionExpansion,expansionCoverage,applyEvidenceReviews} from './content-expansion.mjs?v=35';
 import {waterFeatures,corridorFeatures,hydroVisible} from './inherited-geography.mjs';
 import {normalizeMapCollection} from './map-geometry.mjs';
 import {featureLabelAnchor} from './map-labels.mjs?v=1';

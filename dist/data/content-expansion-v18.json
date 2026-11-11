@@ -3,9 +3,8 @@
   "version": "0.24.0",
   "preparedAt": "2026-11-11",
   "baseline": {
-    "manifest": "content-expansion-v16.json",
-    "localCommit": "3849fb809e9340e0a06ffa9329c0cdcdb3f733a0",
-    "records": 1936
+    "manifest": "content-expansion-v17.json",
+    "records": 2084
   },
   "files": [
     {
@@ -217,6 +216,12 @@
       "records": 16,
       "sha256": "8406c79abcbb120464b90dbd23dfbf1a7500bca50cf399895aed0738a0c7b74b",
       "bytes": 78160
+    },
+    {
+      "file": "artifact-stories-v18.json",
+      "records": 3,
+      "sha256": "a9a3c7e74c74df2277af7f2827fc14732c8d755e26381bf51192a7eb6b90d2db",
+      "bytes": 14682
     }
   ],
   "evidenceReviewsFile": "evidence-followups-v11.json",
@@ -685,11 +690,11 @@
     }
   ],
   "counts": {
-    "records": 704,
+    "records": 707,
     "biographies": 254,
     "biographyMilestones": 816,
     "politicalOverviews": 71,
-    "sourceURLs": 1220,
+    "sourceURLs": 1225,
     "readingPaths": 80,
     "releases": {
       "1": 60,
@@ -702,253 +707,62 @@
       "8": 38,
       "9": 2,
       "10": 14,
-      "11": 148
+      "11": 148,
+      "12": 3
     }
   },
   "runtimeCounts": {
-    "records": 2084,
+    "records": 2087,
     "biographies": 278,
     "people": 278,
     "guidedReadings": 103
   },
   "addition": {
-    "edition": "v17",
-    "release": 11,
+    "edition": "v18",
+    "release": 12,
     "files": [
-      "expansion-people-early-v17.json",
-      "expansion-people-medieval-v17.json",
-      "expansion-people-later-v17.json",
-      "expansion-africa-west-europe-stories-v17.json",
-      "expansion-asia-stories-v17.json",
-      "expansion-americas-pacific-stories-v17.json"
+      "artifact-stories-v18.json"
     ],
-    "records": 148,
-    "biographies": 101,
-    "biographyMilestones": 330,
+    "records": 3,
+    "biographies": 0,
+    "biographyMilestones": 0,
     "politicalOverviews": 0,
-    "sourceURLs": 236,
+    "sourceURLs": 6,
     "recordIds": [
-      "china-person-mengzi",
-      "china-person-shangyang",
-      "china-person-sunbin",
-      "china-person-quyuan",
-      "china-person-baiqi",
-      "china-person-limu",
-      "china-person-wangjian",
-      "china-person-qinshihuang",
-      "china-person-mengtian",
-      "china-person-xiangyu",
-      "china-person-liubang",
-      "china-person-hanxin",
-      "china-person-zhangliang",
-      "china-person-hanwendi",
-      "china-person-hanwudi",
-      "china-person-zhangqian",
-      "china-person-weiqing",
-      "china-person-huoqubing",
-      "china-person-simaqian",
-      "china-person-wangmang",
-      "china-person-liuxiu",
-      "china-person-banchao",
-      "china-person-caocao",
-      "china-person-liubei",
-      "china-person-sunquan",
-      "china-person-zhugeliang",
-      "china-person-guanyu",
-      "china-person-zhouyu",
-      "china-person-luxun",
-      "china-person-simayi",
-      "china-person-wangxizhi",
-      "china-person-xiean",
-      "china-person-taoyuanming",
-      "china-person-liuyu",
-      "china-person-xiaowendi",
-      "china-person-yangjian",
-      "china-person-yangguang",
-      "china-person-lishimin",
-      "china-person-lijing",
-      "china-person-wuzetian",
-      "china-person-tangxuanzong",
-      "china-person-wangwei",
-      "china-person-libai",
-      "china-person-dufu",
-      "china-person-guoziyi",
-      "china-person-yanzhenqing",
-      "china-person-hanyu",
-      "china-person-baijuyi",
-      "china-person-liuzongyuan",
-      "china-person-liuyuxi",
-      "china-person-zhaokuangyin",
-      "china-person-fanzhongyan",
-      "china-person-ouyangxiu",
-      "china-person-wanganshi",
-      "china-person-simaguang",
-      "china-person-sushi",
-      "china-person-yuefei",
-      "china-person-luyou",
-      "china-person-xinqiji",
-      "china-person-wentianxiang",
-      "china-person-genghiskhan",
-      "china-person-kublaikhan",
-      "china-person-zhuyuanzhang",
-      "china-person-zhudi",
-      "china-person-yuqian",
-      "china-person-wangyangming",
-      "china-person-qijiguang",
-      "china-person-zhangjuzheng",
-      "china-person-zhengchenggong",
-      "china-person-kangxi",
-      "china-person-linzexu",
-      "china-person-zengguofan",
-      "china-person-zuozongtang",
-      "china-person-sunzhongshan",
-      "china-person-jiangjieshi",
-      "china-person-maozedong",
-      "china-person-dengxiaoping",
-      "china-person-chensheng",
-      "china-person-lvbu",
-      "china-person-yuanshao",
-      "china-person-zhangfei",
-      "china-person-zhaoyun",
-      "china-person-jiangwei",
-      "china-person-dengai",
-      "china-person-huanwen",
-      "china-person-fujian",
-      "china-person-xiexuan",
-      "china-person-anlushan",
-      "china-person-huangchao",
-      "china-person-licunxu",
-      "china-person-chairong",
-      "china-person-liyu-nt",
-      "china-person-hanshizhong",
-      "china-person-xuda",
-      "china-person-nurhaci",
-      "china-person-huangtaiji",
-      "china-person-lizicheng",
-      "china-person-yongzheng",
-      "china-person-qianlong",
-      "china-person-hongxiuquan",
-      "china-person-lihongzhang",
-      "kuba-raffia-many-hands",
-      "mangaaka-carver-ritual-law",
-      "olowe-ise-palace-door-commission",
-      "merer-logbook-limestone-work",
-      "ibadan-adire-signatures-markets",
-      "equiano-autobiography-subscription-networks",
-      "uluburun-cargo-connected-workshops",
-      "persepolis-ration-records-travel",
-      "bukhara-suzani-shared-needlework",
-      "ferghana-ikat-thread-workshops",
-      "cibali-tobacco-women-work-1904",
-      "bethlehem-embroidery-repair-markets",
-      "vindolanda-birthday-two-hands",
-      "onfim-birchbark-practice-play",
-      "aldus-griffo-portable-classics-1501",
-      "lyon-canuts-price-of-work-1831",
-      "oneg-shabbat-collecting-under-persecution",
-      "grunwick-dignity-union-recognition",
-      "china-gao-shi-fengqiu-office",
-      "baekje-muryeong-tomb-records",
-      "gaya-armor-workshops",
-      "shosoin-gifts-and-work",
-      "ryukyu-rekidai-hoan-records",
-      "ainu-attus-making",
-      "sanchi-donor-inscriptions",
-      "coromandel-painted-cotton-workshops",
-      "bengal-kantha-household-memory",
-      "vietnam-hoi-an-ceramic-cargo",
-      "belitung-shipwreck-workshops",
-      "aceh-queens-and-negotiation",
-      "pekalongan-batik-workshops",
-      "gwaii-haanas-shared-stewardship",
-      "musqueam-cesnaem-belongings",
-      "fort-mose-freedom-households",
-      "pullman-strike-household-economy",
-      "bracero-contracts-oral-histories",
-      "codex-mendoza-translation",
-      "qeswachaka-renewal-knowledge",
-      "tula-curacao-freedom-1795",
-      "brazil-cordel-public-voices",
-      "madres-plaza-mayo-organizing",
-      "palau-bai-knowledge-collection",
-      "vanuatu-sand-drawing-knowledge",
-      "torres-strait-maritime-strike-1936",
-      "possum-cloaks-cultural-renewal",
-      "hawaiian-punana-leo",
-      "pulemelei-settlement-landscape"
+      "cao-zhenxiu-famous-women-album",
+      "chuquibamba-stars-imperial-tunic",
+      "majapahit-clay-domestic-architecture"
     ],
     "regions": {
       "east-asia": {
-        "records": 107,
-        "biographies": 101,
-        "biographyMilestones": 330,
-        "politicalOverviews": 0,
-        "sourceURLs": 158
-      },
-      "africa": {
-        "records": 5,
+        "records": 1,
         "biographies": 0,
         "biographyMilestones": 0,
         "politicalOverviews": 0,
-        "sourceURLs": 7
-      },
-      "europe": {
-        "records": 7,
-        "biographies": 0,
-        "biographyMilestones": 0,
-        "politicalOverviews": 0,
-        "sourceURLs": 11
-      },
-      "west-central-asia": {
-        "records": 6,
-        "biographies": 0,
-        "biographyMilestones": 0,
-        "politicalOverviews": 0,
-        "sourceURLs": 10
-      },
-      "south-asia": {
-        "records": 3,
-        "biographies": 0,
-        "biographyMilestones": 0,
-        "politicalOverviews": 0,
-        "sourceURLs": 7
-      },
-      "southeast-asia": {
-        "records": 4,
-        "biographies": 0,
-        "biographyMilestones": 0,
-        "politicalOverviews": 0,
-        "sourceURLs": 8
-      },
-      "north-america": {
-        "records": 5,
-        "biographies": 0,
-        "biographyMilestones": 0,
-        "politicalOverviews": 0,
-        "sourceURLs": 11
+        "sourceURLs": 2
       },
       "latin-america": {
-        "records": 5,
+        "records": 1,
         "biographies": 0,
         "biographyMilestones": 0,
         "politicalOverviews": 0,
-        "sourceURLs": 11
+        "sourceURLs": 2
       },
-      "oceania": {
-        "records": 6,
+      "southeast-asia": {
+        "records": 1,
         "biographies": 0,
         "biographyMilestones": 0,
         "politicalOverviews": 0,
-        "sourceURLs": 13
+        "sourceURLs": 2
       }
     }
   },
   "mediaFile": "history-media-v18.json",
-  "placeLabelsFile": "place-labels-reviewed-v17.json",
+  "placeLabelsFile": "place-labels-reviewed-v18.json",
   "placeLabelTranslations": {
-    "records": 149,
-    "bytes": 27817,
-    "sha256": "b5e10aaf2248672c42b17aa93ab48cc65d4881cd419d2a87b26435b4b02673b0"
+    "records": 151,
+    "bytes": 28119,
+    "sha256": "22485fd9711abdaef2e6abefcbd3a1298eb32d7fddc01cd2709dcb9177a2ed08"
   },
   "chronologyExceptions": [
     {
@@ -1053,8 +867,8 @@
     }
   },
   "method": {
-    "en": "V17 completes the 101 inherited reference profiles with researched biographies and adds 47 regional stories and 30 readings. It preserves profile identities, older reading URLs and released narrative files. Dates describe supported focus periods, and bilingual labels explain representative map points.",
-    "zh": "V17为101则沿用的人物资料补充经查证的生平，新增47篇地区故事及30条阅读路径。人物标识、旧阅读链接与已发布叙事文件保持不变。年代表示有证据支持的关注时段，双语标签说明地图代表点。"
+    "en": "V18 connects historical images with their stories, adds object-centered readings and side-by-side looking exercises, and preserves released narratives with separate source-backed corrections.",
+    "zh": "V18把历史图像与故事连接起来，新增以文物为中心的阅读与图像对照，并以独立、有据可查的校订层保留已发布叙事。"
   },
   "coverage": [
     {
@@ -1629,12 +1443,13 @@
         "china-person-qianlong",
         "china-person-hongxiuquan",
         "china-person-lihongzhang",
-        "china-gao-shi-fengqiu-office"
+        "china-gao-shi-fengqiu-office",
+        "cao-zhenxiu-famous-women-album"
       ],
-      "records": 132,
+      "records": 133,
       "biographies": 108,
       "politicalOverviews": 1,
-      "sourceCount": 200
+      "sourceCount": 202
     },
     {
       "id": "CH3",
@@ -1971,12 +1786,13 @@
         "ifugao-rice-landscape",
         "austronesian-early-expansions",
         "belitung-shipwreck-workshops",
-        "aceh-queens-and-negotiation"
+        "aceh-queens-and-negotiation",
+        "majapahit-clay-domestic-architecture"
       ],
-      "records": 14,
+      "records": 15,
       "biographies": 2,
       "politicalOverviews": 3,
-      "sourceCount": 21
+      "sourceCount": 23
     },
     {
       "id": "SE3",
@@ -2270,12 +2086,13 @@
         "person-guaman-poma",
         "taquile-textile-transmission",
         "inka-imperial-tunic-story",
-        "qeswachaka-renewal-knowledge"
+        "qeswachaka-renewal-knowledge",
+        "chuquibamba-stars-imperial-tunic"
       ],
-      "records": 16,
+      "records": 17,
       "biographies": 2,
       "politicalOverviews": 0,
-      "sourceCount": 32
+      "sourceCount": 33
     },
     {
       "id": "LA3",
@@ -2640,6 +2457,13 @@
     "baselineManifest": "content-expansion-v17.json",
     "shards": [
       {
+        "file": "visual-assets-artifact-stories-v18.json",
+        "bytes": 1527,
+        "sha256": "338c52e7e296dd5f272baca7b80c3ba873c8f473a9c019c8fc4bd8a0c76d0553",
+        "assets": 0,
+        "associations": 3
+      },
+      {
         "file": "visual-assets-atlantic-rebuild-01-v18.json",
         "bytes": 14942,
         "sha256": "0f5d376e2163d21763f74d32fa6a844802e147d481716a5ed283b8cc076551ab",
@@ -2761,8 +2585,8 @@
     ],
     "coverageFile": "visual-coverage-v18.json",
     "assets": 175,
-    "covered": 360,
-    "total": 2084,
-    "target": 1042
+    "covered": 363,
+    "total": 2087,
+    "target": 1044
   }
 }
