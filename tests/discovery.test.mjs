@@ -161,3 +161,12 @@ test('people always show available portraits without excluding unillustrated peo
     assert.doesNotMatch(views.at(-1),/discovery-portraits/);
   }finally{if(original===undefined)delete globalThis.document;else globalThis.document=original;}
 });
+
+test('People cards prefer portraits and otherwise show a related work without hiding anyone',()=>{
+ const original=globalThis.document,views=[];globalThis.document={querySelector:()=>({addEventListener(){}})};
+ const rows=people.slice(0,3),art={file:'assets/history-media/test-work.jpg',width:200,height:100,alt:{en:'Calligraphy by the writer',zh:'文人的书法作品'}},portrait={...art,file:'assets/history-media/test-person.jpg'};
+ try{for(const lang of ['en','zh']){
+  const discovery=createDiscovery({records:rows,people:rows,regions:{},getState:()=>({lang,year:1200}),escape:String,openDialog:html=>views.push(html),media:{portrait:id=>id===rows[0].id?portrait:null,primary:id=>rows.slice(0,2).some(r=>r.id===id)?art:null}});
+  discovery.showPeople();const html=views.at(-1);assert.equal((html.match(/data-history-image/g)||[]).length,2);assert.equal((html.match(/test-person\.jpg/g)||[]).length,1);assert.equal((html.match(/test-work\.jpg/g)||[]).length,1);for(const row of rows)assert.ok(html.includes('data-id="'+row.id+'"'));
+ }}finally{globalThis.document=original;}
+});

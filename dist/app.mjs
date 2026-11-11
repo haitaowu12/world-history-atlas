@@ -1,5 +1,5 @@
 import {readerDateNote,readerFactLines,readerSourceListHTML,readerReviewLimit} from './reader-copy.mjs';
-import {createVisualLibrary} from './visual-library.mjs';
+import {createVisualLibrary} from './visual-library.mjs?v=2';
 import {entryMediaFigures,createHistoryMedia,mediaFigures,mediaThumbnail,handleHistoryImageError} from './history-media.mjs';
 import {applyPlaceLabelTranslations} from './place-labels.mjs';
 import {civilizationOverlaps} from './civilization-tracks.mjs';
@@ -29,7 +29,7 @@ import {composeHistoricalFeatures,outlineCaption,reviewSchematicName} from './ma
 import {politicalTimelineRecords,politicalTimelineLanes,politicalTimelineLabel} from './political-timeline.mjs?v=2';
 import {recordSearchText,relatedRecords} from './core.mjs';
 import {chinaRoutes} from './china-library.mjs?v=1';
-import {createDiscovery} from './discovery.mjs?v=24';
+import {createDiscovery} from './discovery.mjs?v=25';
 import {createHistoryReferences} from './history-reference.mjs?v=34';
 import {applyChinaReviews,linkChinaContext} from './china-review.mjs';
 import {MIN_YEAR,MAX_YEAR,REGIONS,THEMES,TIME_ANCHORS,normalizeYear,validYear,addYears,formatYear,formatPeriod,yearFromSlider,sliderFromYear,activeAt,filterRecords,contemporaries,stateFromHash,hashFromState,defaultState,validateRecords,validateNotebook,mergeNotebooks,toOrdinal,fromOrdinal} from './core.mjs';

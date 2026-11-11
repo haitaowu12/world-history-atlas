@@ -98,3 +98,11 @@ Added a separate, manifest-receipted V18 story-review layer for two image-linked
 All **350 checks pass**, zero failures or skips. New regression checks verify the review receipt, unchanged unrelated entries and geography, preserved source provenance and the two substantive corrections. Actual browser checks verified both entries in English and Chinese, the corrected source-note disclosure and three connected-reading links on the poets' entry. Image coverage remains **72 assets / 159 of 2,084 entries**.
 
 Checkpoint 6 is saved remotely at `a8445a7e0cdcb476944672ed012e0208eec74681`. This remains review work; no Actions or production publication.
+
+### Reconstruction checkpoint 8
+
+Added nine Chinese cultural images and ten Met Open Access objects, with individually reviewed links to 38 additional entries. Total: **91 assets / 197 of 2,084 unique entries (9.45%)**. The target remains 1,042 entries and is not met. The collection includes later depictions of poets and scholars, Mughal and Safavid paintings, a Kongo crucifix, a Maya column, a Chuquibamba tunic and a Majapahit architectural sculpture. Dates, named collections, source links and rights accompany each image. Two modern memorial candidates were held for incomplete underlying-work rights; Li Qingzhao instead uses a documented historical painting.
+
+People cards now prefer an available portrait and otherwise show a related artwork without excluding anyone. The English gallery count handles a single image correctly. All **351 checks pass**, zero failures or skips. Real Chrome checks at 500 CSS pixels verified the Li Bai–Du Fu comparison, bilingual Ban Zhao People results including an unillustrated person, the 91-image collection, and the Kongo crucifix inspector with source, rights and linked stories. No horizontal overflow was observed in those flows. Cache versions were updated and the revised People behavior rechecked after detecting an earlier cached module.
+
+Checkpoint 7 is saved remotely at `55ba185947643e69d2d798e939cd16513650d038`. This is a review-branch checkpoint, not a production release; no Actions are used.

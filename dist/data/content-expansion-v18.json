@@ -2683,6 +2683,13 @@
         "associations": 0
       },
       {
+        "file": "visual-assets-china-batch-03-v18.json",
+        "bytes": 39641,
+        "sha256": "ef3624ce95fdcc87d59b725e1d26a807839b39c82478687fdccc2c8f64a9a648",
+        "assets": 9,
+        "associations": 17
+      },
+      {
         "file": "visual-assets-china-rebuild-01-v18.json",
         "bytes": 74193,
         "sha256": "50b8726e424c2b4b5985b34c0f53265f104c4b784c6d9a62135a58a0693d0c81",
@@ -2702,11 +2709,18 @@
         "sha256": "d499d09511fe4ca0b041c72375043e96961a265c0a0c4142bb0bcdde967755d2",
         "assets": 0,
         "associations": 21
+      },
+      {
+        "file": "visual-assets-world-batch-02-v18.json",
+        "bytes": 30673,
+        "sha256": "69ee747653c5e840d4a1c83d550b8dbb447af83aafc559392076e8b3f87345aa",
+        "assets": 10,
+        "associations": 0
       }
     ],
     "coverageFile": "visual-coverage-v18.json",
-    "assets": 72,
-    "covered": 159,
+    "assets": 91,
+    "covered": 197,
     "total": 2084,
     "target": 1042
   }
