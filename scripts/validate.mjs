@@ -9,7 +9,7 @@ import { fileURLToPath } from 'node:url';
 import { REGIONS, validYear, activeAt, safeSourceURL, validateRecords } from '../dist/core.mjs';
 import { chinaRoutes } from '../dist/china-library.mjs';
 import { applyChinaReviews, linkChinaContext } from '../dist/china-review.mjs';
-import {auditHistoryMedia} from '../dist/history-media.mjs';
+import {auditHistoryMedia,applyMediaLocalization} from '../dist/history-media.mjs';
 import {auditPlaceLabelTranslations} from '../dist/place-labels.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
@@ -222,6 +222,12 @@ if(expansionManifest.placeLabelsFile)try {
 // Credits and safe identities are required even when a browser can draw the image.
 try {
   const media=JSON.parse(read('dist/data/'+(expansionManifest.mediaFile||'history-media.json')));
+  if(expansionManifest.mediaLocalization) {
+    const receipt=expansionManifest.mediaLocalization,bytes=fs.readFileSync(path.join(root,'dist/data',receipt.file)),layer=JSON.parse(bytes);
+    if(bytes.length!==receipt.bytes||crypto.createHash('sha256').update(bytes).digest('hex')!==receipt.sha256||layer.items.length!==receipt.assets)fail('Media localization receipt mismatch');
+    const expected=applyMediaLocalization(media,layer);
+    for(let i=0;i<media.items.length;i++)if(JSON.stringify(media.items[i].metadataI18n)!==JSON.stringify(expected.items[i].metadataI18n))fail('Media localization output mismatch: '+media.items[i].id);
+  }
   const mediaErrors=auditHistoryMedia(media,records.map(r=>r.id));
   errors.push(...mediaErrors);
   if(!mediaErrors.length)for(const item of media.items){

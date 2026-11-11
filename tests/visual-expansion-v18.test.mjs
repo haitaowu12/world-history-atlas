@@ -14,7 +14,7 @@ test('V18 activates a separate visual manifest and preserves frozen narrative/me
  assert.equal(CONTENT_MANIFEST,'content-expansion-v18.json');assert.equal(manifest.version,'0.24.0');
  for(const [file,expected] of Object.entries({'content-expansion-v17.json':'8adb915f1105d17492316c3179fd21c24c67bde70227e772e1ae9e075352ec30','history-media-v17.json':'050f7679fc60746de7c436df613461ffbeba501078bf14f75876d741a87f4fbf'}))assert.equal(hash(fs.readFileSync(new URL('dist/data/'+file,root))),expected,file);
  assert.deepEqual(manifest.files,readAtlasData('content-expansion-v17.json').files);
- for(const item of readAtlasData('history-media-v17.json').items)assert.deepEqual(catalog.items.find(row=>row.id===item.id),item);
+ for(const item of readAtlasData('history-media-v17.json').items){const {metadataI18n,...source}=catalog.items.find(row=>row.id===item.id);assert.deepEqual(source,item);if(metadataI18n)for(const key of ['date','creator','institution'])assert.equal(metadataI18n[key].en,item[key]);}
 });
 test('the coverage receipt is reproducible from unique assembled entries and shipped associations',()=>{
  const actual=visualCoverage(catalog,records);

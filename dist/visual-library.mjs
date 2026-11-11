@@ -1,5 +1,5 @@
 import {availableVisualStudies,matchingVisualStudy} from './visual-studies.mjs';
-import {mediaFigures} from './history-media.mjs';
+import {mediaFigures,mediaMetadata} from './history-media.mjs?v=2';
 import {normalizeSearch} from './search-text.mjs';
 
 export const REPRESENTATIONS={
@@ -21,7 +21,7 @@ export function visualRows(catalog,records){
  return (catalog.items||[]).map(item=>{
   const ids=[...new Set([...(item.recordIds||[]),...(catalog.associations||[]).filter(link=>link.assetId===item.id).map(link=>link.recordId)])];
   const linked=ids.map(id=>byId.get(id)).filter(Boolean);
-  return {...item,linked,regions:[...new Set(linked.map(r=>r.region))],search:normalizeSearch([loc(item.title,'en'),loc(item.title,'zh'),item.creator,item.institution,...linked.flatMap(r=>[r.title.en,r.title.zh])].join(' '))};
+  return {...item,linked,regions:[...new Set(linked.map(r=>r.region))],search:normalizeSearch([loc(item.title,'en'),loc(item.title,'zh'),item.creator,item.institution,mediaMetadata(item,'creator','zh'),mediaMetadata(item,'institution','zh'),...linked.flatMap(r=>[r.title.en,r.title.zh])].join(' '))};
  });
 }
 export function filterVisualRows(rows,{query='',region='all',type='all'}={}){
@@ -49,7 +49,7 @@ export function createVisualLibrary({catalog,records,getLanguage,regions,regionN
  function image(item){return `<img src="./${esc(item.file)}" width="${item.width}" height="${item.height}" alt="${esc(L(item.alt))}" loading="lazy" decoding="async" data-history-image><span class="history-image-fallback" hidden>${txt('Image unavailable','图像暂时不可用')}</span>`;}
  function renderResults(){
   const filtered=filterVisualRows(rows,filters);
-  return `<p class="visual-result-count" role="status">${filtered.length} ${txt(filtered.length===1?'image':'images','幅图像')}</p><div class="visual-grid">${filtered.slice(0,limit).map(item=>`<article class="visual-card"><button class="visual-open" data-action="visual-inspect" data-id="${esc(item.id)}"><span class="visual-card-image">${image(item)}</span><span class="visual-card-copy"><small>${esc(badge(item))}</small><strong>${esc(L(item.title))}</strong><span>${esc(item.date)}</span></span></button><button class="visual-pick" data-action="visual-pick" data-id="${esc(item.id)}" aria-pressed="${selected.includes(item.id)}">${selected.includes(item.id)?'✓ ':''}${txt('Compare','对照')}<span class="sr-only"> ${esc(L(item.title))}</span></button></article>`).join('')}</div>${!filtered.length?`<p>${txt('No matching images. Try another name, region or image type.','没有符合条件的图像。请尝试其他名称、地区或图像类型。')}</p>`:''}${filtered.length>limit?`<button class="secondary-button" data-action="visual-more">${txt('Show more','显示更多')} · ${limit} / ${filtered.length}</button>`:''}`;
+  return `<p class="visual-result-count" role="status">${filtered.length} ${txt(filtered.length===1?'image':'images','幅图像')}</p><div class="visual-grid">${filtered.slice(0,limit).map(item=>`<article class="visual-card"><button class="visual-open" data-action="visual-inspect" data-id="${esc(item.id)}"><span class="visual-card-image">${image(item)}</span><span class="visual-card-copy"><small>${esc(badge(item))}</small><strong>${esc(L(item.title))}</strong><span>${esc(mediaMetadata(item,'date',lang()))}</span></span></button><button class="visual-pick" data-action="visual-pick" data-id="${esc(item.id)}" aria-pressed="${selected.includes(item.id)}">${selected.includes(item.id)?'✓ ':''}${txt('Compare','对照')}<span class="sr-only"> ${esc(L(item.title))}</span></button></article>`).join('')}</div>${!filtered.length?`<p>${txt('No matching images. Try another name, region or image type.','没有符合条件的图像。请尝试其他名称、地区或图像类型。')}</p>`:''}${filtered.length>limit?`<button class="secondary-button" data-action="visual-more">${txt('Show more','显示更多')} · ${limit} / ${filtered.length}</button>`:''}`;
  }
  function updateResults(){const target=document.querySelector('#visual-results');if(target)target.innerHTML=renderResults();updateCompare();}
  function updateCompare(){const button=document.querySelector('[data-action="visual-compare"]');if(button){button.disabled=selected.length!==2;button.textContent=txt('Compare selected','对照已选图像')+` (${selected.length}/2)`;}}
