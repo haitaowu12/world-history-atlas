@@ -722,6 +722,18 @@
         "zh": "十五至十六世纪的廷巴克图是伊斯兰学术与教学中心。清真寺和学校支撑着当地的知识与宗教生活，城市又靠近撒哈拉商路与河流交通的交汇处。"
       },
       "rationale": "Remove reader-reminder phrasing without narrowing the intellectual history."
+    },
+    {
+      "recordId": "edo-urban-culture",
+      "before": {
+        "en": "Under Tokugawa rule, artisans and merchants contributed to a vibrant urban culture despite their lower place in the official social hierarchy. Kabuki theatre, woodblock prints and popular literature served expanding city audiences. Older courtly and Chinese-inspired traditions were also reworked rather than simply abandoned. Foreign contact was controlled, with limited exchange continuing through places such as Nagasaki; Japan was not entirely sealed off. Edo’s cultural history therefore connects state regulation with commercial creativity. The contrast between official status and economic influence is a useful way to explore how social orders actually functioned.",
+        "zh": "德川统治下，工匠与商人虽在官方等级中地位较低，却推动了城市文化。歌舞伎、木版画和通俗文学面向不断扩大的市民群体，旧有宫廷传统和中国风格也被重新诠释。对外交往受到限制，但长崎等地仍有交流，日本并非完全封闭。江户文化显示国家规范与商业创造如何并存，也揭示法定身份与经济影响力的差距。"
+      },
+      "after": {
+        "en": "Under Tokugawa rule, artisans and merchants contributed to urban culture despite their lower place in the official social hierarchy. Kabuki theatre, woodblock prints and popular literature served expanding city audiences. Older courtly and Chinese-inspired traditions were also reworked rather than simply abandoned. Foreign contact was controlled, with limited exchange continuing through places such as Nagasaki; Japan was not entirely sealed off.",
+        "zh": "德川统治下，工匠与商人虽在官方等级中地位较低，却推动了城市文化。歌舞伎、木版画和通俗文学面向不断扩大的市民群体，旧有宫廷传统和中国风格也被重新诠释。对外交往受到限制，但长崎等地仍有交流，日本并非完全封闭。"
+      },
+      "rationale": "Remove a generic concluding lesson and an unspecific adjective; preserve social hierarchy, artistic traditions and limited foreign exchange."
     }
   ]
 }

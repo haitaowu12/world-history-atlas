@@ -1,0 +1,51 @@
+{
+  "scope": "Summary-only prose edit; no new historical verification claimed. All other record fields remain unchanged.",
+  "originalRecord": {
+    "id": "edo-urban-culture",
+    "title": {
+      "en": "Edo Japan: cities under warrior government",
+      "zh": "江户日本：武家政权下的城市"
+    },
+    "start": 1615,
+    "end": 1868,
+    "region": "east-asia",
+    "theme": "culture",
+    "kind": "culture",
+    "importance": 4,
+    "location": {
+      "lat": 35.69,
+      "lon": 139.75,
+      "label": "Edo / Tokyo"
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Under Tokugawa rule, artisans and merchants contributed to a vibrant urban culture despite their lower place in the official social hierarchy. Kabuki theatre, woodblock prints and popular literature served expanding city audiences. Older courtly and Chinese-inspired traditions were also reworked rather than simply abandoned. Foreign contact was controlled, with limited exchange continuing through places such as Nagasaki; Japan was not entirely sealed off. Edo’s cultural history therefore connects state regulation with commercial creativity. The contrast between official status and economic influence is a useful way to explore how social orders actually functioned.",
+      "zh": "德川统治下，工匠与商人虽在官方等级中地位较低，却推动了城市文化。歌舞伎、木版画和通俗文学面向不断扩大的市民群体，旧有宫廷传统和中国风格也被重新诠释。对外交往受到限制，但长崎等地仍有交流，日本并非完全封闭。江户文化显示国家规范与商业创造如何并存，也揭示法定身份与经济影响力的差距。"
+    },
+    "dateNote": {
+      "en": "Uses the source’s 1615–1868 art-historical focus, not the 1603 establishment date of the Tokugawa shogunate.",
+      "zh": "采用来源的1615—1868年艺术史关注时段，并非德川幕府1603年建立日期。"
+    },
+    "sources": [
+      {
+        "title": "Art of the Edo Period (1615–1868)",
+        "url": "https://www.metmuseum.org/essays/art-of-the-edo-period-1615-1868",
+        "publisher": "The Metropolitan Museum of Art",
+        "checkedAt": "2026-10-22",
+        "evidenceNote": "Uses the source’s 1615–1868 art-historical focus, not the 1603 establishment date of the Tokugawa shogunate."
+      }
+    ]
+  },
+  "edit": {
+    "recordId": "edo-urban-culture",
+    "before": {
+      "en": "Under Tokugawa rule, artisans and merchants contributed to a vibrant urban culture despite their lower place in the official social hierarchy. Kabuki theatre, woodblock prints and popular literature served expanding city audiences. Older courtly and Chinese-inspired traditions were also reworked rather than simply abandoned. Foreign contact was controlled, with limited exchange continuing through places such as Nagasaki; Japan was not entirely sealed off. Edo’s cultural history therefore connects state regulation with commercial creativity. The contrast between official status and economic influence is a useful way to explore how social orders actually functioned.",
+      "zh": "德川统治下，工匠与商人虽在官方等级中地位较低，却推动了城市文化。歌舞伎、木版画和通俗文学面向不断扩大的市民群体，旧有宫廷传统和中国风格也被重新诠释。对外交往受到限制，但长崎等地仍有交流，日本并非完全封闭。江户文化显示国家规范与商业创造如何并存，也揭示法定身份与经济影响力的差距。"
+    },
+    "after": {
+      "en": "Under Tokugawa rule, artisans and merchants contributed to urban culture despite their lower place in the official social hierarchy. Kabuki theatre, woodblock prints and popular literature served expanding city audiences. Older courtly and Chinese-inspired traditions were also reworked rather than simply abandoned. Foreign contact was controlled, with limited exchange continuing through places such as Nagasaki; Japan was not entirely sealed off.",
+      "zh": "德川统治下，工匠与商人虽在官方等级中地位较低，却推动了城市文化。歌舞伎、木版画和通俗文学面向不断扩大的市民群体，旧有宫廷传统和中国风格也被重新诠释。对外交往受到限制，但长崎等地仍有交流，日本并非完全封闭。"
+    },
+    "rationale": "Remove a generic concluding lesson and an unspecific adjective; preserve social hierarchy, artistic traditions and limited foreign exchange."
+  }
+}

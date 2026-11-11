@@ -3,9 +3,9 @@
   "reviewedAt": "2026-11-11",
   "baselineManifest": "content-expansion-v17.json",
   "total": 2087,
-  "covered": 793,
-  "assets": 407,
-  "percent": 37.997125059894586,
+  "covered": 795,
+  "assets": 409,
+  "percent": 38.092956396741734,
   "coveredIds": [
     "abbasid-caliphate",
     "achaemenid-empire",
@@ -606,6 +606,7 @@
     "heian-court",
     "herat-manuscript-workshops",
     "hoi-an-port-households",
+    "holocaust",
     "hoysala-dynasty",
     "hull-house-immigrant-neighborhood",
     "hundred-years-war",
@@ -613,6 +614,7 @@
     "ilkhanid-iran",
     "inca-imperial-expansion",
     "indian-rebellion-1857",
+    "indonesian-independence",
     "indus-civilization-urban-networks",
     "inka-imperial-tunic-story",
     "ironbridge",
@@ -858,8 +860,6 @@
     "mexican-revolution",
     "russian-revolutions",
     "salt-march",
-    "holocaust",
-    "indonesian-independence",
     "south-asia-independence-partition",
     "prc-proclamation",
     "european-integration",
@@ -2099,7 +2099,7 @@
   ],
   "target": 1044,
   "targetMet": false,
-  "remaining": 251,
+  "remaining": 249,
   "regions": {
     "africa": {
       "total": 136,
@@ -2111,7 +2111,7 @@
     },
     "europe": {
       "total": 122,
-      "covered": 45
+      "covered": 46
     },
     "latin-america": {
       "total": 94,
@@ -2131,7 +2131,7 @@
     },
     "southeast-asia": {
       "total": 101,
-      "covered": 20
+      "covered": 21
     },
     "west-central-asia": {
       "total": 111,
@@ -2143,7 +2143,7 @@
     "ancient-royal-image": 2,
     "document-facsimile": 24,
     "historical-artwork": 67,
-    "historical-photograph": 35,
+    "historical-photograph": 37,
     "historical-portrait": 29,
     "later-depiction": 66,
     "lifetime-portrait": 18,
@@ -2152,6 +2152,13 @@
     "site-photograph": 52
   },
   "shards": [
+    {
+      "file": "visual-assets-archive-events-01-v18.json",
+      "bytes": 7093,
+      "sha256": "167004407e63ce7d1efa263218a906aa0e10a9c7b0a5859af978174f5b7d6acb",
+      "assets": 2,
+      "associations": 0
+    },
     {
       "file": "visual-assets-artifact-stories-v18.json",
       "bytes": 1527,
@@ -2475,6 +2482,6 @@
       "associations": 1
     }
   ],
-  "assetBytes": 77918851,
+  "assetBytes": 78378819,
   "verification": "All admitted files match their SHA-256, byte count and encoded dimensions. Source identity, reuse rights, pixel review and entry relevance require the individual editorial records; structural validation does not establish those facts."
 }

@@ -314,3 +314,13 @@ The eighteenth guided comparison contrasts public Federation celebration with th
 Final validation: **444 checks passed**, zero failures or skips. Chrome verified all four new images at their expected dimensions, the revised Ili and printing-block stories in both languages, Australian study English/Chinese credits and keyboard observations, and no horizontal overflow at a 485-pixel content width. The existing timeline integration remains intact. The initial build correctly rejected an oversized source derivative; a conforming source-served image and the missing source checkedAt field were supplied before the successful build. No check threshold was weakened.
 
 The preceding timeline checkpoint was saved after fresh authorization at remote `668478a2d204bc1227a179ef7c37bd6d417f9c15`, tree `027ebcb6f4bc1aec0d08f38d8f0b6675fc36eacf`, matching local `54818ee`. Its ref/tree and zero Actions runs were verified. Main and the separate timeline branch remain unchanged. No publication is claimed.
+
+### Reconstruction checkpoint 28
+
+Two unchanged Australian War Memorial photographs add Indonesian independence slogans in Jakarta and survivors at Bergen-Belsen. Both have individual public-domain declarations and successful image receipts, separate from the website’s text licence. Captions distinguish the Jakarta catalogue date from an independently established exposure time and Belsen’s liberation date from the photograph’s unspecified day. The Belsen image is non-graphic; no names, ethnic identities or personal histories are inferred from visible faces. Original credit strips and complete frames remain intact.
+
+A sixty-first summary-only edit removes Edo’s generic concluding lesson while retaining its artistic, social and foreign-contact details. All 407 previous image records and 660 previous associations remain exactly unchanged. Coverage is now **409 images / 795 of 2,087 unique entries (38.09%)**, with **249** more needed for the half-entry target.
+
+Final validation: **446 checks passed**, zero failures or skips. Chrome verified both new photographs at their expected dimensions, the English and Chinese contextual captions, the revised Edo prose in both languages, the 409-image / 795-entry gallery count, and no horizontal overflow at the existing 485-pixel content width. The integrated timeline remains intact.
+
+Checkpoint 27 is remotely saved as `3b0557cc4ea8953f24d6f3dcb5c1e59efcabdffc`, tree `5e95fe22011797f8d14327f37bf2989146109943`, matching local `6f1f97b`; ref/tree and zero Actions runs were verified. This is further review work, not a production release.

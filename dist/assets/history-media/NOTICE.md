@@ -1,6 +1,6 @@
 # Historical images: credits and reuse
 
-Reviewed 2026-11-11. 407 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
+Reviewed 2026-11-11. 409 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
 
 Historical artifacts, surviving places and later depictions retain their source identities. No generated reconstructions are included in this catalogue.
 
@@ -409,6 +409,34 @@ Museum-provided web-size image; no local crop, recoloring or reconstruction.
 The object is marked Public Domain; The Met releases this image under its Open Access CC0 policy.
 
 Museum-provided web-size image; no local crop, recoloring or reconstruction.
+
+## Independence slogans in Jakarta / 雅加达的独立标语
+
+- File: archive-awm-c318469.jpg
+- Creator: Life (catalogued maker)
+- Date: 1945-08-17 (catalogue date)
+- Collection: Australian War Memorial
+- Source: https://www.awm.gov.au/collection/C318469
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://www.awm.gov.au/collection/C318469
+
+The individual photograph is marked public domain in its item record. The Memorial’s separate copyright policy permits copying and reproducing public-domain images without permission.
+
+Official JPEG bytes preserved unchanged, including institutional credit strip; no cropping, retouching, recolouring or recompression.
+
+## Survivors at Bergen-Belsen / 贝尔根—贝尔森的幸存者
+
+- File: archive-awm-043302.jpg
+- Creator: Photographer not identified in item record
+- Date: 1945; exact exposure date not supplied
+- Collection: Australian War Memorial
+- Source: https://www.awm.gov.au/collection/043302
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://www.awm.gov.au/collection/043302
+
+The individual photograph is marked public domain in its item record. The Memorial’s separate copyright policy permits copying and reproducing public-domain images without permission.
+
+Official JPEG bytes preserved unchanged, including institutional credit strip; no cropping, retouching, recolouring or recompression.
 
 ## Mimbres bowl with two rabbits / 绘有双兔的米姆布雷斯碗
 
