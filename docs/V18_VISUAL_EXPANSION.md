@@ -47,3 +47,9 @@ The V18 image builder now assembles independently reviewed source shards and che
 First reconstructed batch: six public-domain Met objects, including Mimbres pottery and Merovingian, Carolingian, Ottonian, Byzantine and Nasrid material. Each has its own object record, CC0 evidence and pixel inspection. Current total: **35 images covering 35 of 2,084 unique entries (1.68%)**, target **1,042**. This is a foundation checkpoint, not completion. Source ledger: `references/media/atlantic-rebuild-01.md`.
 
 Validation: `npm run check` passed all **336 tests** with zero failures or skips. This includes actual encoded image dimensions, unique-entry coverage, preservation of frozen narrative inputs and keyboard focus after “Show more”. The under-half target command correctly fails. Reconstructed UI has not yet been browser accepted. No GitHub Actions, main promotion or production deployment occurred.
+
+### Reconstruction checkpoint 2
+
+Added 18 NARA documents in three six-image shards. These include founding documents, emancipation and civil rights, treaties and Indigenous protest, immigration restrictions, war diplomacy, railways and the New Deal. The introduced Lend-Lease bill is not presented as the enacted law; the Louisiana image shows binding and seal; the Navajo image is a signature page; the Cherokee petition is the 1836 protest against New Echota. All original source bytes were inspected and checked; ledgers `references/media/atlantic-rebuild-02.md` through `-04.md` retain exact identity, rights and hashes.
+
+**53 images / 53 of 2,084 entries (2.54%)**. `npm run check`: all **336 checks pass**, no failures or skips. No UI changes in this checkpoint. The earlier six-image checkpoint is verified remotely at `86623a51d5298953eb3700fcfa11551a52729468`; main remains `fe11da2`. No Actions or deployment.

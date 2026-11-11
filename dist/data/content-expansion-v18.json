@@ -2633,11 +2633,32 @@
         "sha256": "0f5d376e2163d21763f74d32fa6a844802e147d481716a5ed283b8cc076551ab",
         "assets": 6,
         "associations": 0
+      },
+      {
+        "file": "visual-assets-atlantic-rebuild-02-v18.json",
+        "bytes": 14626,
+        "sha256": "f1baef967f9aa33db94fadd6dd9804f521eafa7d05db53d74a34e09521541283",
+        "assets": 6,
+        "associations": 0
+      },
+      {
+        "file": "visual-assets-atlantic-rebuild-03-v18.json",
+        "bytes": 14490,
+        "sha256": "eed86e22dcd42fe16a080c5728620c34a12934d8ae48b734df681e513d692c71",
+        "assets": 6,
+        "associations": 0
+      },
+      {
+        "file": "visual-assets-atlantic-rebuild-04-v18.json",
+        "bytes": 15054,
+        "sha256": "6ebd0c6fc07fe5d0afd4d0d785921f4092d2181c5104a33c4e5c32ddb345c325",
+        "assets": 6,
+        "associations": 0
       }
     ],
     "coverageFile": "visual-coverage-v18.json",
-    "assets": 35,
-    "covered": 35,
+    "assets": 53,
+    "covered": 53,
     "total": 2084,
     "target": 1042
   }

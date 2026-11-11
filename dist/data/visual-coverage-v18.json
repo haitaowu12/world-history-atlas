@@ -3,12 +3,15 @@
   "reviewedAt": "2026-11-11",
   "baselineManifest": "content-expansion-v17.json",
   "total": 2084,
-  "covered": 35,
-  "assets": 35,
-  "percent": 1.6794625719769674,
+  "covered": 53,
+  "assets": 53,
+  "percent": 2.543186180422265,
   "coveredIds": [
     "akan-goldweights-measure-trade",
+    "alaska-purchase",
+    "american-revolution",
     "carolingian-dynasty",
+    "cherokee-forced-removal",
     "china-person-kangxi",
     "china-person-libai",
     "china-person-qianlong",
@@ -16,15 +19,22 @@
     "china-person-sushi",
     "china-su-shi-cold-food-1082",
     "china-yan-zhenqing-nephew-758",
+    "chinese-exclusion-us",
+    "dawes-allotment",
     "eastern-roman-empire",
     "equiano-autobiography-subscription-networks",
+    "first-world-war",
+    "fort-laramie-treaty-1868",
     "inka-imperial-tunic-story",
+    "louisiana-purchase",
     "mangaaka-carver-ritual-law",
     "maya-cacao-vessel-story",
     "meketre-bakery-brewery-model",
     "merovingian-dynasty",
     "mimbres-painted-pottery",
     "nasrid-granada",
+    "navajo-long-walk-return",
+    "new-deal-social-state",
     "ottonian-dynasty",
     "person-ada-lovelace",
     "person-darwin",
@@ -41,6 +51,14 @@
     "person-rabindranath-tagore",
     "person-sor-juana",
     "person-xuanzang",
+    "second-world-war",
+    "transcontinental-railroad",
+    "un-charter",
+    "united-states-polity",
+    "us-civil-rights-movement",
+    "us-civil-war",
+    "us-constitution",
+    "us-declaration-independence",
     "vietnam-hoi-an-ceramic-cargo"
   ],
   "uncoveredIds": [
@@ -163,9 +181,7 @@
     "pueblo-revolt",
     "asante-confederacy",
     "ironbridge",
-    "american-revolution",
     "haudenosaunee-revolution-era",
-    "us-constitution",
     "first-fleet-colonization",
     "french-revolution",
     "haitian-revolution",
@@ -175,7 +191,6 @@
     "treaty-waitangi",
     "new-zealand-wars",
     "indian-rebellion-1857",
-    "us-civil-war",
     "canadian-confederation",
     "tonga-constitution",
     "brazil-abolition",
@@ -185,20 +200,16 @@
     "australian-federation",
     "mexican-revolution",
     "xinhai-revolution",
-    "first-world-war",
     "russian-revolutions",
     "samoa-mau-independence",
     "salt-march",
     "holocaust",
-    "second-world-war",
     "indonesian-independence",
-    "un-charter",
     "south-asia-independence-partition",
     "prc-proclamation",
     "european-integration",
     "algerian-independence",
     "dien-bien-phu",
-    "us-civil-rights-movement",
     "bandung-conference",
     "ghana-independence",
     "cuban-revolution-victory",
@@ -268,9 +279,6 @@
     "malaya-independence",
     "philippines-independence-1946",
     "straits-settlements-formation",
-    "louisiana-purchase",
-    "alaska-purchase",
-    "transcontinental-railroad",
     "nunavut-creation",
     "great-peace-montreal",
     "brazil-independence",
@@ -347,8 +355,6 @@
     "mesa-verde-cliff-villages",
     "quebec-french-settlement",
     "royal-proclamation-niagara",
-    "us-declaration-independence",
-    "cherokee-forced-removal",
     "seneca-falls-convention",
     "canadian-pacific-last-spike",
     "montgomery-bus-boycott",
@@ -409,7 +415,6 @@
     "konbaung-dynasty",
     "kamakura-shogunate",
     "muromachi-shogunate",
-    "united-states-polity",
     "canada-polity",
     "india-independent-polity",
     "ghana-independent-polity",
@@ -575,15 +580,11 @@
     "sitka-kiksadi-resistance",
     "metis-bison-hunt-governance",
     "red-river-resistance",
-    "fort-laramie-treaty-1868",
-    "navajo-long-walk-return",
-    "dawes-allotment",
     "indian-act-assimilation",
     "canadian-residential-schools",
     "virginia-racial-slavery",
     "new-france-fur-alliance",
     "metacom-war-survival",
-    "chinese-exclusion-us",
     "japanese-american-incarceration",
     "winnipeg-general-strike",
     "quebec-quiet-revolution",
@@ -592,7 +593,6 @@
     "stonewall-uprising",
     "alcatraz-occupation",
     "delgamuukw-oral-history",
-    "new-deal-social-state",
     "taino-caribbean-societies",
     "maya-classic-city-states",
     "maya-living-languages",
@@ -2096,7 +2096,7 @@
   ],
   "target": 1042,
   "targetMet": false,
-  "remaining": 1007,
+  "remaining": 989,
   "regions": {
     "africa": {
       "total": 136,
@@ -2108,7 +2108,7 @@
     },
     "europe": {
       "total": 122,
-      "covered": 9
+      "covered": 11
     },
     "latin-america": {
       "total": 93,
@@ -2116,7 +2116,7 @@
     },
     "north-america": {
       "total": 123,
-      "covered": 4
+      "covered": 20
     },
     "oceania": {
       "total": 89,
@@ -2137,11 +2137,12 @@
   },
   "types": {
     "ancient-royal-image": 1,
+    "document-facsimile": 17,
     "historical-photograph": 9,
     "later-depiction": 7,
     "lifetime-portrait": 4,
     "manuscript-detail": 2,
-    "object-photograph": 12
+    "object-photograph": 13
   },
   "shards": [
     {
@@ -2150,8 +2151,29 @@
       "sha256": "0f5d376e2163d21763f74d32fa6a844802e147d481716a5ed283b8cc076551ab",
       "assets": 6,
       "associations": 0
+    },
+    {
+      "file": "visual-assets-atlantic-rebuild-02-v18.json",
+      "bytes": 14626,
+      "sha256": "f1baef967f9aa33db94fadd6dd9804f521eafa7d05db53d74a34e09521541283",
+      "assets": 6,
+      "associations": 0
+    },
+    {
+      "file": "visual-assets-atlantic-rebuild-03-v18.json",
+      "bytes": 14490,
+      "sha256": "eed86e22dcd42fe16a080c5728620c34a12934d8ae48b734df681e513d692c71",
+      "assets": 6,
+      "associations": 0
+    },
+    {
+      "file": "visual-assets-atlantic-rebuild-04-v18.json",
+      "bytes": 15054,
+      "sha256": "6ebd0c6fc07fe5d0afd4d0d785921f4092d2181c5104a33c4e5c32ddb345c325",
+      "assets": 6,
+      "associations": 0
     }
   ],
-  "assetBytes": 4722715,
+  "assetBytes": 6160023,
   "verification": "All admitted files match their SHA-256, byte count and encoded dimensions. Source identity, reuse rights, pixel review and entry relevance require the individual editorial records; structural validation does not establish those facts."
 }
