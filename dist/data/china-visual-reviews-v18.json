@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "reviewedAt": "2026-11-11",
-  "policy": "Ten source-backed bilingual narrative corrections, preserving original records and identifying regional reference points.",
+  "policy": "Source-backed bilingual narrative corrections with original records and representative map points preserved.",
   "eventReviews": [
     {
       "id": "china-landmark-359",
@@ -1065,6 +1065,642 @@
           "evidenceNote": "The artist’s inscription dates the start to 1347 and says the painting remained unfinished in 1350; collection notes document its fire damage and division.",
           "evidenceNoteZh": "画家题记记1347年始作，1350年仍未完成；馆藏说明记录后来的火厄与分割。",
           "retrieval": "Full institutional source page retained in China batch 08 research; inscription and conflicting descriptions reviewed."
+        }
+      ]
+    },
+    {
+      "id": "china-event-zhanguo-015",
+      "patch": {
+        "title": {
+          "en": "Qin captures Chu’s capital Ying",
+          "zh": "秦军攻陷楚都郢"
+        },
+        "summary": {
+          "en": "In 278 BCE, Bai Qi’s Qin army captured Ying, and the Chu court moved east. The Shiji separately tells of Qu Yuan’s death in the Miluo River. That account does not date his death to the day or year of Ying’s capture.",
+          "zh": "前278年，白起率秦军攻陷郢都，楚廷东迁。《史记》另记屈原自沉汨罗江，但该篇并未把他的死亡明确系于郢都失陷之日或之年。"
+        },
+        "dateNote": {
+          "en": "278 BCE dates the capture of Ying, not the end of Chu or a securely dated death of Qu Yuan.",
+          "zh": "前278年指郢都失陷，并非楚国灭亡，也非已确证的屈原卒年。"
+        },
+        "locationPrecision": "representative"
+      },
+      "note": {
+        "en": "Separate Qi’s recovery and Qu Yuan’s death from the dated conquest; no new death date asserted.",
+        "zh": "将田单复齐及屈原之死与有纪年的攻城分开，不另定卒年。"
+      },
+      "sources": [
+        {
+          "title": "Shiji 73: Bai Qi",
+          "url": "https://zh.wikisource.org/wiki/史記/卷073",
+          "publisher": "Sima Qian; Wikisource transcription",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "Supports capture of Ying, not destruction of the state of Chu.",
+          "retrieval": "Targeted read-only web connector; retained receipt web-passages1.json",
+          "evidenceNoteZh": "支持攻陷郢都，不表示楚国在此时灭亡。"
+        },
+        {
+          "title": "Shiji 84: Qu Yuan",
+          "url": "https://zh.wikisource.org/wiki/史記/卷084",
+          "publisher": "Sima Qian; Wikisource transcription",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "Records Qu Yuan’s death at Miluo but does not assign the passage an exact year.",
+          "retrieval": "Targeted read-only web connector; retained receipt web-passages5.json",
+          "evidenceNoteZh": "记屈原自沉汨罗江，所引段落没有给出确切卒年。"
+        },
+        {
+          "title": "Qu Yuan and his works",
+          "url": "https://www.xinhuanet.com/politics/2015-06/20/c_127934690.htm",
+          "publisher": "Xinhua",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "Search excerpt corroborates 278 BCE capture; literary reconstruction surrounding it is not adopted.",
+          "retrieval": "Targeted read-only web connector; retained receipt web-r3.json",
+          "evidenceNoteZh": "检索摘要支持前278年郢都失陷；不采用其周围的文学化重构。"
+        }
+      ]
+    },
+    {
+      "id": "china-event-nansong-005",
+      "patch": {
+        "title": {
+          "en": "Yue Fei’s army wins at Yancheng and Yingchang",
+          "zh": "岳飞军在郾城与颍昌获胜"
+        },
+        "summary": {
+          "en": "In the 1140 campaign against Jin, Yue Fei’s army fought at Yancheng and Yingchang. The Songshi records victories at both places, with Yue Yun reinforcing Wang Gui at Yingchang. It also preserves a later account of an advance to Zhuxianzhen.",
+          "zh": "1140年对金作战中，岳飞军在郾城与颍昌交战。《宋史》记两地获胜，岳云赴颍昌增援王贵；书中还保存了进至朱仙镇的后世记述。"
+        },
+        "dateNote": {
+          "en": "1140 is Shaoxing 10. The point represents the Yancheng area, not Zhuxianzhen.",
+          "zh": "1140年为绍兴十年；地图点代表郾城一带，不是朱仙镇。"
+        },
+        "locationPrecision": "representative",
+        "location": {
+          "lon": 114.021,
+          "lat": 33.581,
+          "label": "Yancheng area",
+          "labelI18n": {
+            "en": "Yancheng area",
+            "zh": "郾城一带"
+          },
+          "labelProvenance": "reviewed-reference-anchor"
+        }
+      },
+      "note": {
+        "en": "Keep the reported campaigns, remove the unqualified Zhuxianzhen victory; source criticism of that episode remains a follow-up.",
+        "zh": "保留有史书记载的战役，删除未经限定的朱仙镇大捷说；该情节的史源考证另行跟进。"
+      },
+      "sources": [
+        {
+          "title": "Songshi 365: Yue Fei",
+          "url": "https://zh.wikisource.org/wiki/宋史/卷365",
+          "publisher": "Songshi; Wikisource transcription",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "Records Yancheng and Yingchang victories, and also a Zhuxianzhen account. Attribution is necessary: reading this text is not independent corroboration of all its episodes.",
+          "retrieval": "Targeted read-only web connector; retained receipt web-passages4.json",
+          "evidenceNoteZh": "记郾城与颍昌获胜，也收录朱仙镇故事；本条将相关记述归于《宋史》。"
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-068",
+      "patch": {
+        "title": {
+          "en": "Emperor Taizu dies and Taizong succeeds him",
+          "zh": "宋太祖去世，宋太宗即位"
+        },
+        "summary": {
+          "en": "Emperor Taizu died at Wansui Hall in 976 and his younger brother succeeded him as Taizong. The candlelight-and-axe story comes from a later account by the monk Wenying. Historian Li Tao recorded it while questioning several details.",
+          "zh": "976年，宋太祖在万岁殿去世，其弟继位为宋太宗。“烛影斧声”故事出自僧人文莹的后世记述；史家李焘收录时，对其中若干细节提出疑问。"
+        },
+        "dateNote": {
+          "en": "976 dates the death and succession; the cause of death is not resolved here.",
+          "zh": "976年为去世与继位之年；本条不判定死因。"
+        },
+        "locationPrecision": "representative"
+      },
+      "note": {
+        "en": "Replace sensational mystery headline with death and succession; preserve anecdote only as attributed later writing.",
+        "zh": "以去世与继位替代悬疑标题，轶闻仅作为注明来源的后世书写。"
+      },
+      "sources": [
+        {
+          "title": "Songshi 3: Taizu",
+          "url": "https://zh.wikisource.org/wiki/宋史/卷003",
+          "publisher": "Songshi; Wikisource transcription",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "Death in Wansui Hall in Kaibao 9, not an account of murder.",
+          "retrieval": "Targeted read-only web connector; retained receipt web-passages5.json",
+          "evidenceNoteZh": "记开宝九年太祖在万岁殿去世，没有认定谋杀。"
+        },
+        {
+          "title": "Songshi 4: Taizong",
+          "url": "https://zh.wikisource.org/zh-hant/宋史/卷004",
+          "publisher": "Songshi; Wikisource transcription",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "Search excerpt supplies succession in 976.",
+          "retrieval": "Targeted read-only web connector; retained receipt web-r3.json",
+          "evidenceNoteZh": "检索摘要记太祖去世后太宗于976年即位。"
+        },
+        {
+          "title": "Xu Zizhi Tongjian Changbian 17",
+          "url": "https://zh.wikisource.org/zh/續資治通鑑長編/卷017",
+          "publisher": "Li Tao; Wikisource transcription",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "Li Tao identifies Wenying as the source and questions details; proves the narrative’s textual status, not the death’s cause.",
+          "retrieval": "Targeted read-only web connector; retained receipt web-passages4.json",
+          "evidenceNoteZh": "李焘标明文莹为故事来源，并质疑细节；此为叙事来源证据，不是死因证明。"
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-443",
+      "patch": {
+        "title": {
+          "en": "Tao Yuanming leaves office at Pengze",
+          "zh": "陶渊明辞去彭泽令"
+        },
+        "summary": {
+          "en": "In 405, Tao Yuanming resigned after a short term as magistrate of Pengze and returned home. His own account and later biographies explain the decision differently. His withdrawal became central to the later image of the poet living close to the land.",
+          "zh": "405年，陶渊明短暂担任彭泽令后辞官归乡。他本人的叙述与后世传记，对辞官缘由有不同解释；归隐田园成为后世陶渊明形象的重要内容。"
+        },
+        "dateNote": {
+          "en": "405 dates the departure from office, not the composition of Drinking V.",
+          "zh": "405年指辞官归乡，不是《饮酒》其五的作年。"
+        },
+        "locationPrecision": "representative",
+        "start": 405,
+        "end": 405,
+        "location": {
+          "lon": 115.99,
+          "lat": 29.56,
+          "label": "Chaisang / Mount Lu: home-region reference",
+          "labelI18n": {
+            "en": "Chaisang / Mount Lu: home-region reference",
+            "zh": "柴桑、庐山一带：归乡背景参考点"
+          },
+          "labelProvenance": "reviewed-reference-anchor"
+        }
+      },
+      "note": {
+        "en": "Explicitly change 393 to 405 and refocus on departure; do not merely redate the original chrysanthemum-poem claim.",
+        "zh": "明确将393改为405并聚焦辞官，不是简单把原有采菊诗句改系于405年。"
+      },
+      "sources": [
+        {
+          "title": "Tao Yuanming’s resignation from Pengze",
+          "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002851551",
+          "publisher": "Kim Young, Journal of Chinese Studies 74 (2022), 99–118; KCI",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "Abstract dates office and resignation in 405 and distinguishes the poet’s explanation from later interpretations. Does not date Drinking V.",
+          "retrieval": "Targeted read-only web connector; retained receipt web-passages2.json",
+          "evidenceNoteZh": "论文摘要将任职、辞官系于405年，并区分陶渊明本人及后世的解释；未据此确定《饮酒》其五作年。"
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-039",
+      "patch": {
+        "title": {
+          "en": "Sun Quan moves his capital from Wuchang to Jianye",
+          "zh": "孙权由武昌迁都建业"
+        },
+        "summary": {
+          "en": "Sun Quan became emperor at Wuchang in the fourth lunar month of 229. In the ninth month he moved the capital to Jianye, present-day Nanjing, leaving his heir Sun Deng at Wuchang with Lu Xun’s assistance.",
+          "zh": "229年农历四月，孙权在武昌称帝；九月迁都建业，即今南京，留太子孙登镇守武昌，由陆逊辅佐。"
+        },
+        "dateNote": {
+          "en": "Both events fall in 229; the map marks Jianye, the later capital, not the accession site.",
+          "zh": "两事均在229年；地图标示迁入的建业，不是称帝地点。"
+        },
+        "locationPrecision": "representative"
+      },
+      "note": {
+        "en": "Correct the sequence and distinguish historical Wuchang (Ezhou) from modern Wuhan’s Wuchang district.",
+        "zh": "纠正先后顺序；史文武昌为今鄂州，不应混同今武汉市武昌区。"
+      },
+      "sources": [
+        {
+          "title": "Ezhou historical chronology",
+          "url": "https://www.ezhou.gov.cn/zjez/ezgk/lsyg/201902/t20190222_176954.html",
+          "publisher": "Ezhou municipal government",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "April 229 accession at Wuchang precedes September move to Jianye; months follow the historical calendar.",
+          "retrieval": "Targeted read-only web connector; retained receipt web-passages4.json",
+          "evidenceNoteZh": "记229年农历四月在武昌称帝，九月迁都建业。"
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-225",
+      "patch": {
+        "title": {
+          "en": "Shao prefecture becomes Baoqing prefecture",
+          "zh": "邵州升为宝庆府"
+        },
+        "summary": {
+          "en": "Emperor Lizong succeeded to the Song throne in 1224. His Baoqing era began in 1225, when Shao prefecture was elevated to Baoqing prefecture, at present-day Shaoyang. Lizong had previously held the title of Shaozhou defence commissioner.",
+          "zh": "宋理宗于1224年即位，1225年改元宝庆，并将邵州升为宝庆府，即今邵阳。理宗此前曾获授邵州防御使。"
+        },
+        "dateNote": {
+          "en": "1225 dates the era change and prefecture elevation; the accession was in 1224.",
+          "zh": "1225年指改元与升府；即位在1224年。"
+        },
+        "locationPrecision": "representative"
+      },
+      "note": {
+        "en": "Remove conflated accession year and unsupported residence implication.",
+        "zh": "消除即位年份混淆，不把遥领职衔写成实际居住。"
+      },
+      "sources": [
+        {
+          "title": "Songshi 41: Lizong",
+          "url": "https://zh.wikisource.org/wiki/宋史/卷041",
+          "publisher": "Songshi; Wikisource transcription",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "Accession in Jiading 17 (1224); Baoqing era begins following year.",
+          "retrieval": "Targeted read-only web connector; retained receipt web-passages4.json",
+          "evidenceNoteZh": "记嘉定十七年即位，次年改元宝庆，即1224年与1225年。"
+        },
+        {
+          "title": "Baoqing old city",
+          "url": "https://wwj.hunan.gov.cn/wwj/c100310/c100314/201411/t20141119_10483043.html",
+          "publisher": "Hunan Cultural Heritage Administration / Shaoyang Cultural Heritage Bureau",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "Supports prefecture elevation in 1225.",
+          "retrieval": "Targeted read-only web connector; retained receipt web-passages3.json",
+          "evidenceNoteZh": "支持1225年邵州升为宝庆府。"
+        }
+      ]
+    },
+    {
+      "id": "china-event-ming-019",
+      "patch": {
+        "title": {
+          "en": "Wang Zhi inspects the northeastern frontier",
+          "zh": "汪直巡察东北边疆"
+        },
+        "summary": {
+          "en": "In 1479, Wang Zhi inspected the northeastern frontier. The Mingshi biography next describes him supervising a campaign commanded by Zhu Yong against Jianzhou Jurchens. His earlier rise had been tied to the Western Depot, established under his leadership in 1477.",
+          "zh": "1479年，汪直巡察东北边疆。《明史》本传随后叙述朱永统兵、汪直监军，对建州女真用兵。汪直此前因西厂而得势；西厂于1477年设立，由他掌领。"
+        },
+        "dateNote": {
+          "en": "1479 dates the recorded frontier tour; the following campaign narrative is not assigned a separate exact date here.",
+          "zh": "1479年指史书所记巡边；其后叙述的战役不另定精确日期。"
+        },
+        "locationPrecision": "representative",
+        "location": {
+          "lon": 124.75,
+          "lat": 41.73,
+          "label": "Liaodong / Jianzhou: regional campaign reference",
+          "labelI18n": {
+            "en": "Liaodong / Jianzhou: regional campaign reference",
+            "zh": "辽东、建州一带：战役区域参考点"
+          },
+          "labelProvenance": "reviewed-reference-anchor"
+        }
+      },
+      "note": {
+        "en": "Narrow to Mingshi biography: Joseon coordination and the exact battlefield are not established by this source.",
+        "zh": "限于《明史》本传可证内容；朝鲜协同作战及确切战场尚未由此史料落实。"
+      },
+      "sources": [
+        {
+          "title": "Mingshi 304: Wang Zhi",
+          "url": "https://zh.wikisource.org/wiki/明史/卷304",
+          "publisher": "Mingshi; Wikisource transcription",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "Records the 1479 frontier tour, followed in the biography by the Zhu Yong/Wang Zhi campaign; this reading does not independently establish an exact campaign date or Joseon coordination.",
+          "retrieval": "Targeted read-only web connector; retained receipt web-passages4.json; web-passages5.json",
+          "evidenceNoteZh": "记成化十二年后设西厂及十五年巡边，继述朱永统兵、汪直监军；不据此另定战役日期或认定与朝鲜协同。"
+        }
+      ]
+    },
+    {
+      "id": "china-event-ming-013",
+      "patch": {
+        "title": {
+          "en": "Ming forces withdraw after the Lam Son victories",
+          "zh": "蓝山军获胜后，明军撤退"
+        },
+        "summary": {
+          "en": "After Lam Son victories in 1427, Ming commanders agreed to withdraw from Vietnam. Le Loi became emperor in 1428, founding the Later Le dynasty. Withdrawal and dynastic foundation belong to successive years.",
+          "zh": "1427年蓝山军获胜后，明军将领议和撤出越南。黎利于1428年称帝，开创后黎朝；撤军与建朝分属前后两年。"
+        },
+        "dateNote": {
+          "en": "1427 anchors the agreement and withdrawal sequence; 1428 dates Le Loi’s accession.",
+          "zh": "1427年为议和撤军过程的时间锚点；黎利称帝在1428年。"
+        },
+        "locationPrecision": "representative"
+      },
+      "note": {
+        "en": "Separate withdrawal from foundation; no claim that all troops crossed the border on one converted Gregorian day.",
+        "zh": "区分撤军与建朝，不断言所有军队于某一换算后的公历日期越境。"
+      },
+      "sources": [
+        {
+          "title": "Xuong Giang citadel",
+          "url": "https://baotanglichsu.vn/vi/Articles/1508/51632/phe-thanh-xuong-giang.html",
+          "publisher": "Vietnam National Museum of History",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "Supports withdrawal after negotiations in 1427; calendar conversion and completion date are not adjudicated.",
+          "retrieval": "Targeted read-only web connector; retained receipt web-passages3.json",
+          "evidenceNoteZh": "支持1427年议和撤军过程；不判定精确日期的历法换算或撤军完成日。"
+        },
+        {
+          "title": "Le Loi and the founding of the Le dynasty",
+          "url": "https://baotanglichsu.vn/vi/Articles/2001/66142/loi-sam-truyen-ve-le-loi.html",
+          "publisher": "Vietnam National Museum of History (republished popular history)",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "Supports accession in 1428; surrounding prophetic anecdotes not adopted.",
+          "retrieval": "Targeted read-only web connector; retained receipt web-passages3.json",
+          "evidenceNoteZh": "支持黎利于1428年即位；不采用周围的预言故事。"
+        }
+      ]
+    },
+    {
+      "id": "china-event-qing-022",
+      "patch": {
+        "title": {
+          "en": "Fuk’anggan reaches Taiwan; Zhuluo is renamed Jiayi",
+          "zh": "福康安赴台作战，诸罗改名嘉义"
+        },
+        "summary": {
+          "en": "In 1787, Fuk’anggan crossed to Taiwan during the Lin Shuangwen uprising. The Qing court renamed Zhuluo as Jiayi in recognition of the town’s defenders. Fighting continued into 1788. A conch sent with the commander preserves a box inscription recording its 1787 dispatch and 1788 return to the court.",
+          "zh": "1787年，福康安在林爽文事件期间渡海赴台作战。清廷为褒奖诸罗守城者，将县名改为嘉义；战事延续至1788年。随统帅出行的法螺，其匣签记下1787年赐发、1788年缴回宫廷的经历。"
+        },
+        "dateNote": {
+          "en": "1787 anchors the commander’s arrival and county renaming; the campaign ended in 1788. The map point represents Jiayi.",
+          "zh": "1787年指统帅抵台与县名更改；战事结束于1788年。地图点代表嘉义。"
+        }
+      },
+      "note": {
+        "en": "Separated the 1787 arrival and renaming from the 1788 campaign endpoint, using museum chronology, the institutional historical map and the conch inscription.",
+        "zh": "据博物馆展览说明、学术机构历史地图及法螺匣签，分开1787年抵台、改名与1788年战事终结。"
+      },
+      "sources": [
+        {
+          "title": "The Lin Shuangwen campaign: Fangliao battle print",
+          "url": "https://south.npm.gov.tw/ExhibitionsDetailC003110.aspx?Cond=0d617d24-20c0-44b3-97d7-97b8667b72ef",
+          "publisher": "Southern Branch of the National Palace Museum",
+          "evidenceNote": "Exhibition item description dates the campaign endpoint to the second lunar month of 1788. No Gregorian day conversion adopted.",
+          "evidenceNoteZh": "展品说明记战事于1788年农历二月结束；不换算具体公历日期。",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "title": "Qing Taiwan: changes in administrative divisions",
+          "url": "https://thcts.sinica.edu.tw/themes/rc03-3.php",
+          "publisher": "Institute of Taiwan History, Academia Sinica",
+          "evidenceNote": "Dates Zhuluo’s renaming as Jiayi to 1787, in recognition of the defenders.",
+          "evidenceNoteZh": "记1787年因褒奖守城者，将诸罗改名嘉义。",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "title": "Right-spiraling conch: box inscription",
+          "url": "https://digitalarchive.npm.gov.tw/Collection/Detail/2700?dep=U",
+          "publisher": "National Palace Museum, Taipei",
+          "evidenceNote": "The box inscription records dispatch with Fuk’anggan in Qianlong 52 (1787) and return in Qianlong 53 (1788).",
+          "evidenceNoteZh": "匣签记乾隆五十二年（1787）随福康安赐发、五十三年（1788）缴回。",
+          "checkedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "china-event-qing-020",
+      "patch": {
+        "title": {
+          "en": "Qing conquest of Altishahr; the Ili command follows in 1762",
+          "zh": "清军征服回部；伊犁将军于1762年设立"
+        },
+        "summary": {
+          "en": "The Qing campaign against the Khoja leaders in Altishahr ended in 1759. This followed the earlier wars against the Dzungars. The court celebrated conquest in inscriptions and images. The office of the Ili general, responsible for military and administrative affairs north and south of the Tianshan, was established later, in the tenth lunar month of 1762.",
+          "zh": "1759年，清军对回部大小和卓的战争结束，此前已发生对准噶尔的多次战争。清廷以碑文与图像纪念征服。统辖天山南北军政事务的伊犁将军一职，则到1762年农历十月才设立。"
+        },
+        "dateNote": {
+          "en": "1759 marks the Altishahr campaign endpoint. The Ili general was established in 1762; the Ili map point is a regional reference, not the location of every campaign episode.",
+          "zh": "1759年指回部战事终结；伊犁将军设于1762年。伊犁点位是区域参照，并非所有战事的发生地。"
+        }
+      },
+      "note": {
+        "en": "Separated the 1759 campaign endpoint from the 1762 administrative appointment; retained the inherited anchor, location and original text.",
+        "zh": "分开1759年战事终结与1762年设官，保留继承的时间锚点、位置与原文。"
+      },
+      "sources": [
+        {
+          "title": "Qianlong: chronology for 1759 and 1762",
+          "url": "https://www.dpm.org.cn/court/lineage/226263.html?isappinstalled=0",
+          "publisher": "The Palace Museum, Beijing",
+          "evidenceNote": "The chronology places the end of the Altishahr campaign in 1759 and establishment of the Ili general in the tenth lunar month of 1762. Court victory language is not adopted as a neutral description.",
+          "evidenceNoteZh": "年表分列1759年回部战事结束与1762年农历十月设立伊犁将军；不把宫廷报捷措辞作为中立叙述。",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "title": "Guanbao: Conquering Altishahr stele text",
+          "url": "https://digitalarchive.npm.gov.tw/Collection/Detail/1562?dep=P",
+          "publisher": "National Palace Museum, Taipei",
+          "evidenceNote": "The title and full transcription identify a court victory text commemorating conquest, not establishment of the Ili general. The calligraphy itself is not assigned a precise creation year.",
+          "evidenceNoteZh": "品名与全文释文表明这是纪念征服的宫廷报捷文字，不是设立伊犁将军的文书；不为书法本身推定精确创作年份。",
+          "checkedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-378",
+      "patch": {
+        "title": {
+          "en": "Liu Yuxi is demoted to Langzhou",
+          "zh": "刘禹锡被贬为朗州司马"
+        },
+        "summary": {
+          "en": "After the reform movement failed in 805, Liu Yuxi was demoted to Langzhou, present-day Changde. His next provincial appointment was at Lianzhou in 815. His Bamboo Branch Lyrics belong to a different setting: their preface describes hearing local singers at Jianping.",
+          "zh": "805年革新失败后，刘禹锡被贬为朗州司马，朗州即今常德。815年，他再次出任连州刺史。《竹枝词》属于另一创作场景，其序写的是在建平听当地人联歌。"
+        },
+        "dateNote": {
+          "en": "805 anchors the demotion, not the composition of Bamboo Branch Lyrics.",
+          "zh": "805年指贬任朗州，不是《竹枝词》的创作年。"
+        },
+        "locationPrecision": "representative"
+      },
+      "note": {
+        "en": "Separate the Langzhou exile from the Jianping song preface.",
+        "zh": "将朗州贬谪与建平《竹枝词》序的场景分开。"
+      },
+      "sources": [
+        {
+          "title": "Tang-period historical geography of Guangdong",
+          "url": "https://www.gdwsw.gov.cn/shsy/content/post_27283.html",
+          "publisher": "Xu Junming and Xu Xiaomei, Lingnan Wenshi; Guangdong cultural history portal",
+          "evidenceNote": "Explicit 805 demotion to Langzhou, then 815 Lianzhou.",
+          "checkedAt": "2026-11-11",
+          "evidenceNoteZh": "核对805年由连州改贬朗州，以及815年再任连州；不采用页面其他未经本次核对的历史概括。"
+        },
+        {
+          "title": "Bamboo Branch Lyrics, nine poems: preface",
+          "url": "https://sou-yun.cn/Query.aspx?id=16893&type=poem1",
+          "publisher": "Liu Yuxi; Sou-yun transcription",
+          "evidenceNote": "Preface explicitly locates inspiration at Jianping; editorial metadata gives 822 and Fengjie, not Langzhou 805.",
+          "checkedAt": "2026-11-11",
+          "evidenceNoteZh": "《竹枝词》序明确写到建平听歌，区别于朗州贬谪；页面822年的编年信息不用于改动条目锚点。"
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-379",
+      "patch": {
+        "title": {
+          "en": "Liu Yuxi becomes prefect of Hezhou",
+          "zh": "刘禹锡出任和州刺史"
+        },
+        "summary": {
+          "en": "In 824, Liu Yuxi moved from Kuizhou to serve as prefect of Hezhou, in present-day Anhui. Local tradition connects his modest dwelling there with Inscription on My Humble Room, a text celebrating virtue over material luxury. Its authorship and place of composition have been debated.",
+          "zh": "824年，刘禹锡由夔州转任和州刺史，和州位于今安徽。地方传说把他在此的简朴居所与《陋室铭》相联系，文章重德行而轻物质奢华；其作者归属和写作地点仍有学术争论。"
+        },
+        "dateNote": {
+          "en": "824 dates the appointment; it is not an established composition date for the inscription.",
+          "zh": "824年指任职，不是已确证的《陋室铭》作年。"
+        },
+        "locationPrecision": "representative"
+      },
+      "note": {
+        "en": "Anchor the appointment and distinguish literary tradition from established chronology.",
+        "zh": "以任职为锚点，将文学传说与任职年代区分。"
+      },
+      "sources": [
+        {
+          "title": "Liu Yuxi: public service and literary tradition",
+          "url": "https://www.gdjct.gd.gov.cn/zhyw/content/post_62863.html",
+          "publisher": "Nanfang Daily, republished by Guangdong discipline commission",
+          "evidenceNote": "824 Hezhou appointment is stated separately from room anecdote introduced as tradition. Unrelated chronology on this newspaper page is not adopted.",
+          "checkedAt": "2026-11-11",
+          "evidenceNoteZh": "文章将824年和州任职与“相传”的居室轶事分开；不采用页面其他未经核对的年代叙述。"
+        },
+        {
+          "title": "Bian Xiaoxuan: Humble Room Inscription is not by Liu Yuxi",
+          "url": "https://www.aisixiang.com/data/141127.html",
+          "publisher": "Bian Xiaoxuan; Aisixiang republication",
+          "evidenceNote": "Scholar disputes authorship and describes competing scholarship. No adjudication here; proves why exact composition claim needs qualification.",
+          "checkedAt": "2026-11-11",
+          "evidenceNoteZh": "卞孝萱提出作者归属异议，并讨论不同学术观点；据此说明存在争论，不裁定作者。"
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-383",
+      "patch": {
+        "title": {
+          "en": "Fan Zhongyan takes charge of Yan prefecture’s frontier defence",
+          "zh": "范仲淹主持延州边防"
+        },
+        "summary": {
+          "en": "In 1040, Fan Zhongyan took charge of Yan prefecture during the war with Western Xia. The Songshi describes him reorganizing its troops and strengthening frontier positions. Dashun fort belonged to his later Qingzhou command: the Song Huiyao dates its construction to 1042.",
+          "zh": "1040年，对西夏战争期间，范仲淹兼知延州。《宋史》记他整编州兵、加强边防；大顺城则属于此后庆州任上的建设，《宋会要辑稿》系其筑城于1042年。"
+        },
+        "dateNote": {
+          "en": "1040 anchors the Yan posting, not Dashun’s construction or a dated autumn lyric.",
+          "zh": "1040年指延州任职，不是大顺城筑城年，也不用于确定秋词作年。"
+        },
+        "locationPrecision": "representative"
+      },
+      "note": {
+        "en": "Separate places and years; remove the unverified poem-composition claim.",
+        "zh": "区分地点与年代，移除未核实的作词时间。"
+      },
+      "sources": [
+        {
+          "title": "Songshi 314: Fan Zhongyan",
+          "url": "https://zh.wikisource.org/wiki/宋史/卷314",
+          "publisher": "Yuan official history; Wikisource transcription",
+          "evidenceNote": "Yan posting, reorganization and subsequent Qingzhou/Dashun sequence, not poem date.",
+          "checkedAt": "2026-11-11",
+          "evidenceNoteZh": "本传记延州任职、整编部队及此后庆州、大顺城的次序，不用于确定作词日期。"
+        },
+        {
+          "title": "Su Shunqin and Ouyang Xiu",
+          "url": "https://dfzb.suzhou.gov.cn/dfzb/fzxh/200902/4718f0adbda74b12afc80eab95a1fda6.shtml",
+          "publisher": "Suzhou Local Gazetteer Office",
+          "evidenceNote": "Dates frontier appointment sequence to 1040.",
+          "checkedAt": "2026-11-11",
+          "evidenceNoteZh": "地方志文章明确把边防任职次序系于1040年。"
+        },
+        {
+          "title": "Song Huiyao Jigao 104: Dashun fort",
+          "url": "https://zh.wikisource.org/wiki/宋會要輯稿/卷104",
+          "publisher": "Song institutional records, later compilation; Wikisource transcription",
+          "evidenceNote": "Explicit Qingli 2 (1042), near Qingzhou Rouyuan, not the 1040 Yan marker.",
+          "checkedAt": "2026-11-11",
+          "evidenceNoteZh": "明确记庆历二年（1042年）在庆州柔远寨附近建大顺城，区别于1040年的延州任职。"
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-480",
+      "patch": {
+        "title": {
+          "en": "Yu Qian begins his Henan and Shanxi administration",
+          "zh": "于谦开始巡抚河南、山西"
+        },
+        "summary": {
+          "en": "Yu Qian was appointed to oversee Henan and Shanxi in 1430. The Mingshi describes grain relief, support for displaced households and visits to the districts under his charge. It counts nineteen years in office, including interruptions for mourning, before his recall to Beijing in 1448.",
+          "zh": "1430年，于谦受命巡抚河南、山西。《明史》记他发粮赈济、安置流民，并巡视所部；书中称其前后在任十九年，其间曾归乡治丧，1448年奉召入京。"
+        },
+        "dateNote": {
+          "en": "1430 dates the appointment. The Mingshi’s nineteen-year account includes intervals away for mourning.",
+          "zh": "1430年指任命；《明史》所述前后十九年任期中，包括离职归乡治丧的间隔。"
+        },
+        "locationPrecision": "representative"
+      },
+      "note": {
+        "en": "Retain the sourced tenure as an attributed span; do not date the Two Sleeves Clear poem to 1430. The injustice cases in the biography precede this tenure in Jiangxi.",
+        "zh": "保留有来源的前后任期，不将“两袖清风”诗系于1430年；传记中的平反冤狱属于此前江西巡按。"
+      },
+      "sources": [
+        {
+          "title": "Mingshi 170: Yu Qian",
+          "url": "https://zh.wikisource.org/zh-hans/明史/卷170",
+          "publisher": "Qing official history; Wikisource transcription",
+          "evidenceNote": "Reports tenure, relief, nine-gate deployment and Desheng command; attributed figures are not independent headcounts.",
+          "checkedAt": "2026-11-11",
+          "evidenceNoteZh": "记述任期、赈济、九门部署及德胜门指挥；兵数作为史书记载加以归属，并非独立清点。"
+        },
+        {
+          "title": "Yu Qian in Jincheng",
+          "url": "https://www.jcgov.gov.cn/dtxx/ztzl/2022nzt/2022_qljc/ljxf/202210/t20221025_1688867.shtml",
+          "publisher": "Jincheng municipal government, discipline commission article",
+          "evidenceNote": "Explicit 1430 appointment and 1448 recall. The later paragraph mistakenly names Yingzong for initial promotion; that claim is not adopted. Inclusive nineteen-year wording comes from Mingshi.",
+          "checkedAt": "2026-11-11",
+          "evidenceNoteZh": "核对1430年任命及1448年入京；不采用文章另一处误写初次提拔皇帝的叙述，十九年任期引自《明史》。"
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-481",
+      "patch": {
+        "title": {
+          "en": "Yu Qian helps defend Beijing against Esen",
+          "zh": "于谦主持北京防御，抵御也先"
+        },
+        "summary": {
+          "en": "In 1449, Yu Qian organized Beijing’s defence against Esen’s Oirat army. The Mingshi reports 220,000 troops deployed outside the city’s nine gates, with Yu Qian and Shi Heng commanding at Desheng Gate. Its account describes fighting at several gates before Esen withdrew.",
+          "zh": "1449年，于谦组织北京防御，抵御也先率领的瓦剌军。《明史》记二十二万军分列九门之外，于谦与石亨在德胜门督战；战事涉及多处城门，随后也先撤军。"
+        },
+        "dateNote": {
+          "en": "1449 dates the defence. The reported 220,000 is a citywide deployment, not the force at Desheng Gate alone.",
+          "zh": "1449年指北京保卫战；史书记载的二十二万是九门部署总数，不是德胜门一处兵力。"
+        },
+        "locationPrecision": "representative"
+      },
+      "note": {
+        "en": "Attribute the troop figure and correct its geographic scope.",
+        "zh": "注明兵数出处，纠正其地理范围。"
+      },
+      "sources": [
+        {
+          "title": "Mingshi 170: Yu Qian",
+          "url": "https://zh.wikisource.org/zh-hans/明史/卷170",
+          "publisher": "Qing official history; Wikisource transcription",
+          "evidenceNote": "Reports tenure, relief, nine-gate deployment and Desheng command; attributed figures are not independent headcounts.",
+          "checkedAt": "2026-11-11",
+          "evidenceNoteZh": "记述任期、赈济、九门部署及德胜门指挥；兵数作为史书记载加以归属，并非独立清点。"
         }
       ]
     }

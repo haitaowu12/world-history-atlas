@@ -200,3 +200,18 @@ dialog{border:1px solid #bcc8b7;border-radius:9px;background:var(--panel);color:
 
 .early-china-section{padding:1rem 0;border-top:1px solid var(--line,#d9ded9)}
 .early-china-section h3{margin-top:0}
+
+/* Dates belong to an object, its text and its later readers in different ways. */
+.image-time-layers{margin:22px 0;padding:16px;border:1px solid #c9d4c6;border-radius:8px;background:#f0f3e9}
+.image-time-layers h3{margin:0 0 8px;font-size:15px;color:#274d3d}
+.image-time-layers>p{font-size:13px;line-height:1.6;margin:0 0 14px}
+.image-time-layers ol{list-style:none;margin:0;padding:0 0 0 8px}
+.image-time-layers li{position:relative;padding:0 0 16px 20px;border-left:2px solid #a9bfae}
+.image-time-layers li:last-child{border-left-color:transparent;padding-bottom:0}
+.image-time-layers li:before{content:"";position:absolute;left:-6px;top:6px;width:10px;height:10px;border-radius:50%;background:#315a45;border:1px solid #f0f3e9}
+.image-time-layers summary{cursor:pointer;min-height:44px;font-size:13px;line-height:1.5;overflow-wrap:anywhere}
+.image-time-layers summary strong{display:block;margin-top:5px;font-weight:500}
+.image-time-date{font-weight:700;color:#264b3a}
+.image-time-layers details>p{margin:10px 0 0;font-size:13px;line-height:1.7}
+.image-time-layers summary:focus-visible{outline:2px solid #315a45;outline-offset:4px;border-radius:2px}
+@media(max-width:500px){.image-time-layers{padding:12px}.image-time-layers li{padding-left:16px}}

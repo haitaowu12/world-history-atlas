@@ -1,6 +1,6 @@
 // Node-side assembly for audits and release builders; mirrors the reader's reviews.
 import fs from 'node:fs';
-import {CONTENT_MANIFEST, partitionExpansion, applyEvidenceReviews} from '../../dist/content-expansion.mjs';
+import {CONTENT_MANIFEST, partitionExpansion, applyEvidenceReviews, applySummaryEdits} from '../../dist/content-expansion.mjs';
 import {applyChinaReviews, linkChinaContext} from '../../dist/china-review.mjs';
 import {applySearchUpdate, applyReviewedUpdate} from '../../dist/upstream-intake.mjs';
 import {applyPlaceLabelTranslations} from '../../dist/place-labels.mjs';
@@ -24,7 +24,7 @@ export function loadAtlasRecords(manifestFile=CONTENT_MANIFEST,{chinaReviewsFile
  const reviewFile=chinaReviewsFile||manifest.chinaReviewsFile;
  if(reviewFile){const updated=applyChinaReviews(current.events,current.library,readAtlasData(reviewFile));current={...current,...updated};}
  const captions=manifest.placeLabelsFile?readAtlasData(manifest.placeLabelsFile):{items:[]};
- const records=applyPlaceLabelTranslations([...histories,...current.people,...linkChinaContext(current.events,[...histories,...current.people])],captions);
+ const records=applySummaryEdits(applyPlaceLabelTranslations([...histories,...current.people,...linkChinaContext(current.events,[...histories,...current.people])],captions),manifest.summaryEditsFile?readAtlasData(manifest.summaryEditsFile):{items:[]});
  if(new Set(records.map(record=>record.id)).size!==records.length)throw new Error('Duplicate assembled atlas identity');
  return {manifest,records,people:records.filter(record=>record.kind==='person'),library:current.library,courses:[...readAtlasData('courses.json'),...readAtlasData(manifest.coursesFile)]};
 }

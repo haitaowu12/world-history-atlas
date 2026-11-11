@@ -1,0 +1,1341 @@
+{
+  "reviewedAt": "2026-11-11",
+  "ownerReview": "Five narrow bilingual corrections admitted after reading full primary passages and source limits. Dates, coordinates and original-source identity preserved. The Langzhou entry uses the source-supported 815 Lianzhou posting without adding an unquoted return-to-capital assertion; its irrelevant Hezhou source is omitted. The Lu You tradition and Lü Bu exact-year issue remain held.",
+  "before": [
+    {
+      "id": "china-landmark-378",
+      "title": {
+        "en": "Exiled for ten years to Langzhou, poet Liu Yuxi adapts folk songs into Bamboo Branch Lyrics",
+        "zh": "刘禹锡坐永贞革新贬朗州司马十年"
+      },
+      "start": 805,
+      "end": 805,
+      "location": {
+        "lon": 111.69,
+        "lat": 29.05,
+        "label": "Langzhou (Changde, Hunan)",
+        "labelI18n": {
+          "en": "Langzhou (Changde, Hunan)",
+          "zh": "朗州（常德）"
+        },
+        "labelProvenance": "inherited-source-place-pair"
+      },
+      "region": "east-asia",
+      "theme": "states",
+      "kind": "event",
+      "importance": 1,
+      "summary": {
+        "en": "Exiled for ten years to Langzhou, poet Liu Yuxi adapts folk songs into Bamboo Branch Lyrics",
+        "zh": "刘禹锡坐永贞革新贬朗州司马十年"
+      },
+      "dateNote": {
+        "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+        "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+      },
+      "locationPrecision": "representative",
+      "sources": [
+        {
+          "title": "Chronicles of the Realm — js/lore_data.js (frozen source dataset)",
+          "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/lore_data.js",
+          "publisher": "DeanChensj / Chronicles of the Realm",
+          "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+          "checkedAt": "2026-10-23"
+        }
+      ],
+      "aliases": [
+        "朗州（常德）",
+        "Langzhou (Changde, Hunan)"
+      ],
+      "provenance": {
+        "dataset": "jiangshan",
+        "status": "inherited",
+        "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+        "periodId": "tang",
+        "periodIds": [
+          "tang"
+        ],
+        "sourceRecords": [
+          {
+            "file": "js/lore_data.js",
+            "path": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/377",
+            "index": 377
+          }
+        ],
+        "note": {
+          "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+          "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+        }
+      },
+      "relatedIds": [
+        "tang-dynasty"
+      ]
+    },
+    {
+      "id": "china-landmark-379",
+      "title": {
+        "en": "As Prefect of Hezhou, Liu Yuxi writes Inscription on My Humble Room celebrating inner virtue",
+        "zh": "和州刺史刘禹锡居斗室泰然处之，撰铭《陋室铭》传世"
+      },
+      "start": 824,
+      "end": 824,
+      "location": {
+        "lon": 118.36,
+        "lat": 31.72,
+        "label": "Hezhou (Hexian, Anhui)",
+        "labelI18n": {
+          "en": "Hezhou (Hexian, Anhui)",
+          "zh": "和州（马鞍山和县）"
+        },
+        "labelProvenance": "inherited-source-place-pair"
+      },
+      "region": "east-asia",
+      "theme": "states",
+      "kind": "event",
+      "importance": 1,
+      "summary": {
+        "en": "As Prefect of Hezhou, Liu Yuxi writes Inscription on My Humble Room celebrating inner virtue",
+        "zh": "和州刺史刘禹锡居斗室泰然处之，撰铭《陋室铭》传世"
+      },
+      "dateNote": {
+        "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+        "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+      },
+      "locationPrecision": "representative",
+      "sources": [
+        {
+          "title": "Chronicles of the Realm — js/lore_data.js (frozen source dataset)",
+          "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/lore_data.js",
+          "publisher": "DeanChensj / Chronicles of the Realm",
+          "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+          "checkedAt": "2026-10-23"
+        }
+      ],
+      "aliases": [
+        "和州（马鞍山和县）",
+        "Hezhou (Hexian, Anhui)"
+      ],
+      "provenance": {
+        "dataset": "jiangshan",
+        "status": "inherited",
+        "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+        "periodId": "tang",
+        "periodIds": [
+          "tang"
+        ],
+        "sourceRecords": [
+          {
+            "file": "js/lore_data.js",
+            "path": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/378",
+            "index": 378
+          }
+        ],
+        "note": {
+          "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+          "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+        }
+      },
+      "relatedIds": [
+        "tang-dynasty"
+      ]
+    },
+    {
+      "id": "china-landmark-383",
+      "title": {
+        "en": "Guarding frontier Yan'an against Western Xia, Fan Zhongyan fortifies forts and writes autumn ci",
+        "zh": "西夏元昊大举犯边，范仲淹自请知延州筑大顺城固防"
+      },
+      "start": 1040,
+      "end": 1040,
+      "location": {
+        "lon": 109.49,
+        "lat": 36.59,
+        "label": "Yan'an (Shaanxi)",
+        "labelI18n": {
+          "en": "Yan'an (Shaanxi)",
+          "zh": "延州（延安）"
+        },
+        "labelProvenance": "inherited-source-place-pair"
+      },
+      "region": "east-asia",
+      "theme": "states",
+      "kind": "event",
+      "importance": 1,
+      "summary": {
+        "en": "Guarding frontier Yan'an against Western Xia, Fan Zhongyan fortifies forts and writes autumn ci",
+        "zh": "西夏元昊大举犯边，范仲淹自请知延州筑大顺城固防"
+      },
+      "dateNote": {
+        "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+        "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+      },
+      "locationPrecision": "representative",
+      "sources": [
+        {
+          "title": "Chronicles of the Realm — js/lore_data.js (frozen source dataset)",
+          "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/lore_data.js",
+          "publisher": "DeanChensj / Chronicles of the Realm",
+          "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+          "checkedAt": "2026-10-23"
+        }
+      ],
+      "aliases": [
+        "延州（延安）",
+        "Yan'an (Shaanxi)"
+      ],
+      "provenance": {
+        "dataset": "jiangshan",
+        "status": "inherited",
+        "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+        "periodId": "beisong",
+        "periodIds": [
+          "beisong"
+        ],
+        "sourceRecords": [
+          {
+            "file": "js/lore_data.js",
+            "path": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/382",
+            "index": 382
+          }
+        ],
+        "note": {
+          "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+          "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+        }
+      },
+      "relatedIds": [
+        "northern-song",
+        "liao-dynasty",
+        "western-xia-dynasty"
+      ]
+    },
+    {
+      "id": "china-landmark-446",
+      "title": {
+        "en": "Revisiting Shen Garden in Shaoxing, Lu You meets former wife Tang Wan and brushes Phoenix Hairpin",
+        "zh": "陆游春日重游绍兴沈园偶遇唐琬，题词《钗头凤》凄婉千古"
+      },
+      "start": 1155,
+      "end": 1155,
+      "location": {
+        "lon": 120.58,
+        "lat": 30,
+        "label": "Shen Garden, Shaoxing",
+        "labelI18n": {
+          "en": "Shen Garden, Shaoxing",
+          "zh": "绍兴沈园"
+        },
+        "labelProvenance": "inherited-source-place-pair"
+      },
+      "region": "east-asia",
+      "theme": "culture",
+      "kind": "event",
+      "importance": 1,
+      "summary": {
+        "en": "Revisiting Shen Garden in Shaoxing, Lu You meets former wife Tang Wan and brushes Phoenix Hairpin",
+        "zh": "陆游春日重游绍兴沈园偶遇唐琬，题词《钗头凤》凄婉千古"
+      },
+      "dateNote": {
+        "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+        "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+      },
+      "locationPrecision": "representative",
+      "sources": [
+        {
+          "title": "Chronicles of the Realm — js/lore_data.js (frozen source dataset)",
+          "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/lore_data.js",
+          "publisher": "DeanChensj / Chronicles of the Realm",
+          "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+          "checkedAt": "2026-10-23"
+        }
+      ],
+      "aliases": [
+        "绍兴沈园",
+        "Shen Garden, Shaoxing"
+      ],
+      "provenance": {
+        "dataset": "jiangshan",
+        "status": "inherited",
+        "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+        "periodId": "nansong",
+        "periodIds": [
+          "nansong"
+        ],
+        "sourceRecords": [
+          {
+            "file": "js/lore_data.js",
+            "path": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/445",
+            "index": 445
+          }
+        ],
+        "note": {
+          "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+          "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+        }
+      },
+      "relatedIds": [
+        "southern-song",
+        "jurchen-jin-dynasty",
+        "western-xia-dynasty"
+      ]
+    },
+    {
+      "id": "china-landmark-480",
+      "title": {
+        "en": "Yu Qian governs Henan and Shanxi nineteen years with incorruptible integrity and famine relief",
+        "zh": "于谦巡抚河南山西十九载，平反冤狱赈济灾黎，赋诗“两袖清风”"
+      },
+      "start": 1430,
+      "end": 1430,
+      "location": {
+        "lon": 114.35,
+        "lat": 34.79,
+        "label": "Kaifeng (Henan & Shanxi)",
+        "labelI18n": {
+          "en": "Kaifeng (Henan & Shanxi)",
+          "zh": "开封（巡抚河南山西）"
+        },
+        "labelProvenance": "inherited-source-place-pair"
+      },
+      "region": "east-asia",
+      "theme": "culture",
+      "kind": "event",
+      "importance": 1,
+      "summary": {
+        "en": "Yu Qian governs Henan and Shanxi nineteen years with incorruptible integrity and famine relief",
+        "zh": "于谦巡抚河南山西十九载，平反冤狱赈济灾黎，赋诗“两袖清风”"
+      },
+      "dateNote": {
+        "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+        "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+      },
+      "locationPrecision": "representative",
+      "sources": [
+        {
+          "title": "Chronicles of the Realm — js/lore_data.js (frozen source dataset)",
+          "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/lore_data.js",
+          "publisher": "DeanChensj / Chronicles of the Realm",
+          "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+          "checkedAt": "2026-10-23"
+        }
+      ],
+      "aliases": [
+        "开封（巡抚河南山西）",
+        "Kaifeng (Henan & Shanxi)"
+      ],
+      "provenance": {
+        "dataset": "jiangshan",
+        "status": "inherited",
+        "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+        "periodId": "ming",
+        "periodIds": [
+          "ming"
+        ],
+        "sourceRecords": [
+          {
+            "file": "js/lore_data.js",
+            "path": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/479",
+            "index": 479
+          }
+        ],
+        "note": {
+          "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+          "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+        }
+      },
+      "relatedIds": [
+        "ming-dynasty"
+      ]
+    },
+    {
+      "id": "china-landmark-481",
+      "title": {
+        "en": "Defense of Beijing: Yu Qian rallies 220,000 troops outside Desheng Gate to rout Esen's host",
+        "zh": "北京保卫战：于谦亲督二十二万军背城血战，于德胜门大破瓦剌也先"
+      },
+      "start": 1449,
+      "end": 1449,
+      "location": {
+        "lon": 116.38,
+        "lat": 39.95,
+        "label": "Desheng Gate, Beijing",
+        "labelI18n": {
+          "en": "Desheng Gate, Beijing",
+          "zh": "北京德胜门"
+        },
+        "labelProvenance": "inherited-source-place-pair"
+      },
+      "region": "east-asia",
+      "theme": "states",
+      "kind": "event",
+      "importance": 1,
+      "summary": {
+        "en": "Defense of Beijing: Yu Qian rallies 220,000 troops outside Desheng Gate to rout Esen's host",
+        "zh": "北京保卫战：于谦亲督二十二万军背城血战，于德胜门大破瓦剌也先"
+      },
+      "dateNote": {
+        "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+        "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+      },
+      "locationPrecision": "representative",
+      "sources": [
+        {
+          "title": "Chronicles of the Realm — js/lore_data.js (frozen source dataset)",
+          "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/lore_data.js",
+          "publisher": "DeanChensj / Chronicles of the Realm",
+          "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+          "checkedAt": "2026-10-23"
+        }
+      ],
+      "aliases": [
+        "北京德胜门",
+        "Desheng Gate, Beijing"
+      ],
+      "provenance": {
+        "dataset": "jiangshan",
+        "status": "inherited",
+        "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+        "periodId": "ming",
+        "periodIds": [
+          "ming"
+        ],
+        "sourceRecords": [
+          {
+            "file": "js/lore_data.js",
+            "path": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/480",
+            "index": 480
+          }
+        ],
+        "note": {
+          "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+          "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+        }
+      },
+      "relatedIds": [
+        "ming-dynasty"
+      ]
+    }
+  ],
+  "proposals": {
+    "schemaVersion": 1,
+    "reviewedAt": "2026-11-11",
+    "eventReviews": [
+      {
+        "id": "china-landmark-378",
+        "status": "ready",
+        "patch": {
+          "title": {
+            "en": "Liu Yuxi is demoted to Langzhou",
+            "zh": "刘禹锡被贬为朗州司马"
+          },
+          "summary": {
+            "en": "After the reform movement failed in 805, Liu Yuxi was demoted to Langzhou, present-day Changde. He spent the following years there before returning to the capital in 815. His Bamboo Branch Lyrics belong to a different setting: their preface describes hearing local singers at Jianping.",
+            "zh": "805年革新失败后，刘禹锡被贬为朗州司马，朗州即今常德。他在当地度过此后数年，815年奉召回京。《竹枝词》属于另一创作场景，其序写的是在建平听当地人联歌。"
+          },
+          "dateNote": {
+            "en": "805 anchors the demotion, not the composition of Bamboo Branch Lyrics.",
+            "zh": "805年指贬任朗州，不是《竹枝词》的创作年。"
+          },
+          "locationPrecision": "representative",
+          "provenance": {
+            "dataset": "jiangshan",
+            "status": "inherited",
+            "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+            "periodId": "tang",
+            "periodIds": [
+              "tang"
+            ],
+            "sourceRecords": [
+              {
+                "file": "js/lore_data.js",
+                "path": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/377",
+                "index": 377
+              }
+            ],
+            "note": {
+              "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+              "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+            },
+            "storyCorrections05Original": {
+              "start": 805,
+              "end": 805,
+              "location": {
+                "lon": 111.69,
+                "lat": 29.05,
+                "label": "Langzhou (Changde, Hunan)",
+                "labelI18n": {
+                  "en": "Langzhou (Changde, Hunan)",
+                  "zh": "朗州（常德）"
+                },
+                "labelProvenance": "inherited-source-place-pair"
+              },
+              "title": {
+                "en": "Exiled for ten years to Langzhou, poet Liu Yuxi adapts folk songs into Bamboo Branch Lyrics",
+                "zh": "刘禹锡坐永贞革新贬朗州司马十年"
+              },
+              "summary": {
+                "en": "Exiled for ten years to Langzhou, poet Liu Yuxi adapts folk songs into Bamboo Branch Lyrics",
+                "zh": "刘禹锡坐永贞革新贬朗州司马十年"
+              },
+              "dateNote": {
+                "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+                "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+              }
+            }
+          }
+        },
+        "note": {
+          "en": "Separate the Langzhou exile from the Jianping song preface.",
+          "zh": "将朗州贬谪与建平《竹枝词》序的场景分开。"
+        },
+        "sources": [
+          {
+            "title": "Tang-period historical geography of Guangdong",
+            "url": "https://www.gdwsw.gov.cn/shsy/content/post_27283.html",
+            "publisher": "Xu Junming and Xu Xiaomei, Lingnan Wenshi; Guangdong cultural history portal",
+            "evidenceNote": "Explicit 805 demotion to Langzhou, then 815 Lianzhou.",
+            "checkedAt": "2026-11-11",
+            "retrieval": "Direct web connector page passage; web-5.json, line 65",
+            "passage": "永贞元年（805年）曾被贬连州（今连县），未到任，又改贬朗州（今湖南常德）。"
+          },
+          {
+            "title": "Liu Yuxi: public service and literary tradition",
+            "url": "https://www.gdjct.gd.gov.cn/zhyw/content/post_62863.html",
+            "publisher": "Nanfang Daily, republished by Guangdong discipline commission",
+            "evidenceNote": "824 Hezhou appointment is stated separately from room anecdote introduced as tradition. Unrelated chronology on this newspaper page is not adopted.",
+            "checkedAt": "2026-11-11",
+            "retrieval": "Direct web connector page passage; web-3.json, lines 79–81",
+            "passage": "824年，刘禹锡从夔州调往和州（今安徽和县），担任刺史。 / 相传，当地知县有意刁难"
+          },
+          {
+            "title": "Bamboo Branch Lyrics, nine poems: preface",
+            "url": "https://sou-yun.cn/Query.aspx?id=16893&type=poem1",
+            "publisher": "Liu Yuxi; Sou-yun transcription",
+            "evidenceNote": "Preface explicitly locates inspiration at Jianping; editorial metadata gives 822 and Fengjie, not Langzhou 805.",
+            "checkedAt": "2026-11-11",
+            "retrieval": "Direct web connector page passage; web-3.json, lines 6–9",
+            "passage": "岁正月，余来建平，里中儿联歌竹枝，吹短笛击鼓以赴节。"
+          }
+        ]
+      },
+      {
+        "id": "china-landmark-379",
+        "status": "ready",
+        "patch": {
+          "title": {
+            "en": "Liu Yuxi becomes prefect of Hezhou",
+            "zh": "刘禹锡出任和州刺史"
+          },
+          "summary": {
+            "en": "In 824, Liu Yuxi moved from Kuizhou to serve as prefect of Hezhou, in present-day Anhui. Local tradition connects his modest dwelling there with Inscription on My Humble Room, a text celebrating virtue over material luxury. Its authorship and place of composition have been debated.",
+            "zh": "824年，刘禹锡由夔州转任和州刺史，和州位于今安徽。地方传说把他在此的简朴居所与《陋室铭》相联系，文章重德行而轻物质奢华；其作者归属和写作地点仍有学术争论。"
+          },
+          "dateNote": {
+            "en": "824 dates the appointment; it is not an established composition date for the inscription.",
+            "zh": "824年指任职，不是已确证的《陋室铭》作年。"
+          },
+          "locationPrecision": "representative",
+          "provenance": {
+            "dataset": "jiangshan",
+            "status": "inherited",
+            "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+            "periodId": "tang",
+            "periodIds": [
+              "tang"
+            ],
+            "sourceRecords": [
+              {
+                "file": "js/lore_data.js",
+                "path": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/378",
+                "index": 378
+              }
+            ],
+            "note": {
+              "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+              "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+            },
+            "storyCorrections05Original": {
+              "start": 824,
+              "end": 824,
+              "location": {
+                "lon": 118.36,
+                "lat": 31.72,
+                "label": "Hezhou (Hexian, Anhui)",
+                "labelI18n": {
+                  "en": "Hezhou (Hexian, Anhui)",
+                  "zh": "和州（马鞍山和县）"
+                },
+                "labelProvenance": "inherited-source-place-pair"
+              },
+              "title": {
+                "en": "As Prefect of Hezhou, Liu Yuxi writes Inscription on My Humble Room celebrating inner virtue",
+                "zh": "和州刺史刘禹锡居斗室泰然处之，撰铭《陋室铭》传世"
+              },
+              "summary": {
+                "en": "As Prefect of Hezhou, Liu Yuxi writes Inscription on My Humble Room celebrating inner virtue",
+                "zh": "和州刺史刘禹锡居斗室泰然处之，撰铭《陋室铭》传世"
+              },
+              "dateNote": {
+                "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+                "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+              }
+            }
+          }
+        },
+        "note": {
+          "en": "Anchor the appointment and distinguish literary tradition from established chronology.",
+          "zh": "以任职为锚点，将文学传说与任职年代区分。"
+        },
+        "sources": [
+          {
+            "title": "Liu Yuxi: public service and literary tradition",
+            "url": "https://www.gdjct.gd.gov.cn/zhyw/content/post_62863.html",
+            "publisher": "Nanfang Daily, republished by Guangdong discipline commission",
+            "evidenceNote": "824 Hezhou appointment is stated separately from room anecdote introduced as tradition. Unrelated chronology on this newspaper page is not adopted.",
+            "checkedAt": "2026-11-11",
+            "retrieval": "Direct web connector page passage; web-3.json, lines 79–81",
+            "passage": "824年，刘禹锡从夔州调往和州（今安徽和县），担任刺史。 / 相传，当地知县有意刁难"
+          },
+          {
+            "title": "Bian Xiaoxuan: Humble Room Inscription is not by Liu Yuxi",
+            "url": "https://www.aisixiang.com/data/141127.html",
+            "publisher": "Bian Xiaoxuan; Aisixiang republication",
+            "evidenceNote": "Scholar disputes authorship and describes competing scholarship. No adjudication here; proves why exact composition claim needs qualification.",
+            "checkedAt": "2026-11-11",
+            "retrieval": "Direct web connector page passage; web-2.json, lines 28–30",
+            "passage": "我在1963年出版的《刘禹锡年谱》中提出《陋室铭》非刘禹锡作。"
+          }
+        ]
+      },
+      {
+        "id": "china-landmark-383",
+        "status": "ready",
+        "patch": {
+          "title": {
+            "en": "Fan Zhongyan takes charge of Yan prefecture’s frontier defence",
+            "zh": "范仲淹主持延州边防"
+          },
+          "summary": {
+            "en": "In 1040, Fan Zhongyan took charge of Yan prefecture during the war with Western Xia. The Songshi describes him reorganizing its troops and strengthening frontier positions. Dashun fort belonged to his later Qingzhou command: the Song Huiyao dates its construction to 1042.",
+            "zh": "1040年，对西夏战争期间，范仲淹兼知延州。《宋史》记他整编州兵、加强边防；大顺城则属于此后庆州任上的建设，《宋会要辑稿》系其筑城于1042年。"
+          },
+          "dateNote": {
+            "en": "1040 anchors the Yan posting, not Dashun’s construction or a dated autumn lyric.",
+            "zh": "1040年指延州任职，不是大顺城筑城年，也不用于确定秋词作年。"
+          },
+          "locationPrecision": "representative",
+          "provenance": {
+            "dataset": "jiangshan",
+            "status": "inherited",
+            "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+            "periodId": "beisong",
+            "periodIds": [
+              "beisong"
+            ],
+            "sourceRecords": [
+              {
+                "file": "js/lore_data.js",
+                "path": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/382",
+                "index": 382
+              }
+            ],
+            "note": {
+              "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+              "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+            },
+            "storyCorrections05Original": {
+              "start": 1040,
+              "end": 1040,
+              "location": {
+                "lon": 109.49,
+                "lat": 36.59,
+                "label": "Yan'an (Shaanxi)",
+                "labelI18n": {
+                  "en": "Yan'an (Shaanxi)",
+                  "zh": "延州（延安）"
+                },
+                "labelProvenance": "inherited-source-place-pair"
+              },
+              "title": {
+                "en": "Guarding frontier Yan'an against Western Xia, Fan Zhongyan fortifies forts and writes autumn ci",
+                "zh": "西夏元昊大举犯边，范仲淹自请知延州筑大顺城固防"
+              },
+              "summary": {
+                "en": "Guarding frontier Yan'an against Western Xia, Fan Zhongyan fortifies forts and writes autumn ci",
+                "zh": "西夏元昊大举犯边，范仲淹自请知延州筑大顺城固防"
+              },
+              "dateNote": {
+                "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+                "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+              }
+            }
+          }
+        },
+        "note": {
+          "en": "Separate places and years; remove the unverified poem-composition claim.",
+          "zh": "区分地点与年代，移除未核实的作词时间。"
+        },
+        "sources": [
+          {
+            "title": "Songshi 314: Fan Zhongyan",
+            "url": "https://zh.wikisource.org/wiki/宋史/卷314",
+            "publisher": "Yuan official history; Wikisource transcription",
+            "evidenceNote": "Yan posting, reorganization and subsequent Qingzhou/Dashun sequence, not poem date.",
+            "checkedAt": "2026-11-11",
+            "retrieval": "Direct web connector page passage; web-5.json, lines 146–150",
+            "passage": "延州諸砦多失守，仲淹自請行，遷戶部郎中兼知延州。"
+          },
+          {
+            "title": "Su Shunqin and Ouyang Xiu",
+            "url": "https://dfzb.suzhou.gov.cn/dfzb/fzxh/200902/4718f0adbda74b12afc80eab95a1fda6.shtml",
+            "publisher": "Suzhou Local Gazetteer Office",
+            "evidenceNote": "Dates frontier appointment sequence to 1040.",
+            "checkedAt": "2026-11-11",
+            "retrieval": "Direct web connector page passage; web-6.json, line 24",
+            "passage": "范仲淹于1040年复“天章阁待制，知永兴军”，不久，为陕西都转运使，兼知延州。"
+          },
+          {
+            "title": "Song Huiyao Jigao 104: Dashun fort",
+            "url": "https://zh.wikisource.org/wiki/宋會要輯稿/卷104",
+            "publisher": "Song institutional records, later compilation; Wikisource transcription",
+            "evidenceNote": "Explicit Qingli 2 (1042), near Qingzhou Rouyuan, not the 1040 Yan marker.",
+            "checkedAt": "2026-11-11",
+            "retrieval": "Direct web connector page passage; web-6.json, line 688",
+            "passage": "庆历二年，范仲淹于庆州柔远寨东北四十里大顺川建城，四月辛巳，诏城名大顺。"
+          }
+        ]
+      },
+      {
+        "id": "china-landmark-480",
+        "status": "ready",
+        "patch": {
+          "title": {
+            "en": "Yu Qian begins his Henan and Shanxi administration",
+            "zh": "于谦开始巡抚河南、山西"
+          },
+          "summary": {
+            "en": "Yu Qian was appointed to oversee Henan and Shanxi in 1430. The Mingshi describes grain relief, support for displaced households and visits to the districts under his charge. It counts nineteen years in office, including interruptions for mourning, before his recall to Beijing in 1448.",
+            "zh": "1430年，于谦受命巡抚河南、山西。《明史》记他发粮赈济、安置流民，并巡视所部；书中称其前后在任十九年，其间曾归乡治丧，1448年奉召入京。"
+          },
+          "dateNote": {
+            "en": "1430 dates the appointment. Nineteen years is the Mingshi’s inclusive account of the tenure, not nineteen uninterrupted elapsed years.",
+            "zh": "1430年指任命；十九年是《明史》对前后任期的计数，不是连续任职满十九周年。"
+          },
+          "locationPrecision": "representative",
+          "provenance": {
+            "dataset": "jiangshan",
+            "status": "inherited",
+            "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+            "periodId": "ming",
+            "periodIds": [
+              "ming"
+            ],
+            "sourceRecords": [
+              {
+                "file": "js/lore_data.js",
+                "path": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/479",
+                "index": 479
+              }
+            ],
+            "note": {
+              "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+              "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+            },
+            "storyCorrections05Original": {
+              "start": 1430,
+              "end": 1430,
+              "location": {
+                "lon": 114.35,
+                "lat": 34.79,
+                "label": "Kaifeng (Henan & Shanxi)",
+                "labelI18n": {
+                  "en": "Kaifeng (Henan & Shanxi)",
+                  "zh": "开封（巡抚河南山西）"
+                },
+                "labelProvenance": "inherited-source-place-pair"
+              },
+              "title": {
+                "en": "Yu Qian governs Henan and Shanxi nineteen years with incorruptible integrity and famine relief",
+                "zh": "于谦巡抚河南山西十九载，平反冤狱赈济灾黎，赋诗“两袖清风”"
+              },
+              "summary": {
+                "en": "Yu Qian governs Henan and Shanxi nineteen years with incorruptible integrity and famine relief",
+                "zh": "于谦巡抚河南山西十九载，平反冤狱赈济灾黎，赋诗“两袖清风”"
+              },
+              "dateNote": {
+                "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+                "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+              }
+            }
+          }
+        },
+        "note": {
+          "en": "Retain the sourced tenure as an attributed span; do not date the Two Sleeves Clear poem to 1430. The injustice cases in the biography precede this tenure in Jiangxi.",
+          "zh": "保留有来源的前后任期，不将“两袖清风”诗系于1430年；传记中的平反冤狱属于此前江西巡按。"
+        },
+        "sources": [
+          {
+            "title": "Mingshi 170: Yu Qian",
+            "url": "https://zh.wikisource.org/zh-hans/明史/卷170",
+            "publisher": "Qing official history; Wikisource transcription",
+            "evidenceNote": "Reports tenure, relief, nine-gate deployment and Desheng command; attributed figures are not independent headcounts.",
+            "checkedAt": "2026-11-11",
+            "retrieval": "Direct web connector page passage; web-1.json, lines 135–144",
+            "passage": "前后在任十九年，丁内外艰，皆令归治丧，旋起复。 / 率师二十二万，列阵九门外 / 而谦自与石亨率副总兵范广、武兴陈德胜门外，当也先。"
+          },
+          {
+            "title": "Yu Qian in Jincheng",
+            "url": "https://www.jcgov.gov.cn/dtxx/ztzl/2022nzt/2022_qljc/ljxf/202210/t20221025_1688867.shtml",
+            "publisher": "Jincheng municipal government, discipline commission article",
+            "evidenceNote": "Explicit 1430 appointment and 1448 recall. The later paragraph mistakenly names Yingzong for initial promotion; that claim is not adopted. Inclusive nineteen-year wording comes from Mingshi.",
+            "checkedAt": "2026-11-11",
+            "retrieval": "Direct web connector page passage; web-3.json, lines 43–46",
+            "passage": "宣德五年（1430），以兵部右侍郎巡抚河南、山西。"
+          }
+        ]
+      },
+      {
+        "id": "china-landmark-481",
+        "status": "ready",
+        "patch": {
+          "title": {
+            "en": "Yu Qian helps defend Beijing against Esen",
+            "zh": "于谦主持北京防御，抵御也先"
+          },
+          "summary": {
+            "en": "In 1449, Yu Qian organized Beijing’s defence against Esen’s Oirat army. The Mingshi reports 220,000 troops deployed outside the city’s nine gates, with Yu Qian and Shi Heng commanding at Desheng Gate. Its account describes fighting at several gates before Esen withdrew.",
+            "zh": "1449年，于谦组织北京防御，抵御也先率领的瓦剌军。《明史》记二十二万军分列九门之外，于谦与石亨在德胜门督战；战事涉及多处城门，随后也先撤军。"
+          },
+          "dateNote": {
+            "en": "1449 dates the defence. The reported 220,000 is a citywide deployment, not the force at Desheng Gate alone.",
+            "zh": "1449年指北京保卫战；史书记载的二十二万是九门部署总数，不是德胜门一处兵力。"
+          },
+          "locationPrecision": "representative",
+          "provenance": {
+            "dataset": "jiangshan",
+            "status": "inherited",
+            "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+            "periodId": "ming",
+            "periodIds": [
+              "ming"
+            ],
+            "sourceRecords": [
+              {
+                "file": "js/lore_data.js",
+                "path": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/480",
+                "index": 480
+              }
+            ],
+            "note": {
+              "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+              "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+            },
+            "storyCorrections05Original": {
+              "start": 1449,
+              "end": 1449,
+              "location": {
+                "lon": 116.38,
+                "lat": 39.95,
+                "label": "Desheng Gate, Beijing",
+                "labelI18n": {
+                  "en": "Desheng Gate, Beijing",
+                  "zh": "北京德胜门"
+                },
+                "labelProvenance": "inherited-source-place-pair"
+              },
+              "title": {
+                "en": "Defense of Beijing: Yu Qian rallies 220,000 troops outside Desheng Gate to rout Esen's host",
+                "zh": "北京保卫战：于谦亲督二十二万军背城血战，于德胜门大破瓦剌也先"
+              },
+              "summary": {
+                "en": "Defense of Beijing: Yu Qian rallies 220,000 troops outside Desheng Gate to rout Esen's host",
+                "zh": "北京保卫战：于谦亲督二十二万军背城血战，于德胜门大破瓦剌也先"
+              },
+              "dateNote": {
+                "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+                "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+              }
+            }
+          }
+        },
+        "note": {
+          "en": "Attribute the troop figure and correct its geographic scope.",
+          "zh": "注明兵数出处，纠正其地理范围。"
+        },
+        "sources": [
+          {
+            "title": "Mingshi 170: Yu Qian",
+            "url": "https://zh.wikisource.org/zh-hans/明史/卷170",
+            "publisher": "Qing official history; Wikisource transcription",
+            "evidenceNote": "Reports tenure, relief, nine-gate deployment and Desheng command; attributed figures are not independent headcounts.",
+            "checkedAt": "2026-11-11",
+            "retrieval": "Direct web connector page passage; web-1.json, lines 135–144",
+            "passage": "前后在任十九年，丁内外艰，皆令归治丧，旋起复。 / 率师二十二万，列阵九门外 / 而谦自与石亨率副总兵范广、武兴陈德胜门外，当也先。"
+          }
+        ]
+      },
+      {
+        "id": "china-landmark-446",
+        "status": "hold-exact-chronology",
+        "patch": {
+          "title": {
+            "en": "Lu You and the Shen Garden reunion tradition",
+            "zh": "陆游与沈园重逢传说"
+          },
+          "summary": {
+            "en": "Zhou Mi’s later Qidong Yeyu tells of Lu You meeting his former wife, Lady Tang, at Shen Garden and writing Phoenix Hairpin on its wall. It places the encounter in 1155. The story became central to the garden’s literary associations, but the exact date and details remain matters of textual interpretation.",
+            "zh": "周密后来的《齐东野语》记陆游在沈园遇见前妻唐氏，并在园壁题《钗头凤》，将此事系于1155年。这一故事成为沈园文学记忆的重要内容，但具体日期与细节仍需辨析不同文献。"
+          },
+          "dateNote": {
+            "en": "1155 is the date assigned by Zhou Mi’s anecdote, not an independently established encounter date.",
+            "zh": "1155年是周密笔记对故事的系年，不是独立确证的相逢日期。"
+          },
+          "locationPrecision": "representative",
+          "provenance": {
+            "dataset": "jiangshan",
+            "status": "inherited",
+            "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+            "periodId": "nansong",
+            "periodIds": [
+              "nansong"
+            ],
+            "sourceRecords": [
+              {
+                "file": "js/lore_data.js",
+                "path": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/445",
+                "index": 445
+              }
+            ],
+            "note": {
+              "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+              "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+            },
+            "storyCorrections05Original": {
+              "start": 1155,
+              "end": 1155,
+              "location": {
+                "lon": 120.58,
+                "lat": 30,
+                "label": "Shen Garden, Shaoxing",
+                "labelI18n": {
+                  "en": "Shen Garden, Shaoxing",
+                  "zh": "绍兴沈园"
+                },
+                "labelProvenance": "inherited-source-place-pair"
+              },
+              "title": {
+                "en": "Revisiting Shen Garden in Shaoxing, Lu You meets former wife Tang Wan and brushes Phoenix Hairpin",
+                "zh": "陆游春日重游绍兴沈园偶遇唐琬，题词《钗头凤》凄婉千古"
+              },
+              "summary": {
+                "en": "Revisiting Shen Garden in Shaoxing, Lu You meets former wife Tang Wan and brushes Phoenix Hairpin",
+                "zh": "陆游春日重游绍兴沈园偶遇唐琬，题词《钗头凤》凄婉千古"
+              },
+              "dateNote": {
+                "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+                "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+              }
+            }
+          }
+        },
+        "note": {
+          "en": "Keep held unless the owner explicitly accepts a dated literary-tradition record; do not present as a verified encounter or silently replace the year.",
+          "zh": "除非明确接受以传说系年为条目形式，否则继续暂缓；不可当作已核实会面，也不可暗改年代。"
+        },
+        "sources": [
+          {
+            "title": "Qidong Yeyu 1: Lu You remembers his former wife",
+            "url": "https://zh.wikisource.org/zh-hans/齊東野語/卷一",
+            "publisher": "Zhou Mi; Wikisource transcription",
+            "evidenceNote": "Later anecdote explicitly dates scene to Shaoxing yihai (1155); passage calls wife Tang shi, not given name Wan. Same section quotes a later poem recalling forty years, so exact chronology is not independently resolved.",
+            "checkedAt": "2026-11-11",
+            "retrieval": "Direct web connector page passage; web-4.json, lines 273–280",
+            "passage": "尝以春日出游，相遇于禹迹寺南之沈氏园。 / 为赋《钗头凤》一词，题园壁间 / 实绍兴乙亥岁也。"
+          }
+        ]
+      }
+    ]
+  },
+  "admittedReviews": [
+    {
+      "id": "china-landmark-378",
+      "patch": {
+        "title": {
+          "en": "Liu Yuxi is demoted to Langzhou",
+          "zh": "刘禹锡被贬为朗州司马"
+        },
+        "summary": {
+          "en": "After the reform movement failed in 805, Liu Yuxi was demoted to Langzhou, present-day Changde. His next provincial appointment was at Lianzhou in 815. His Bamboo Branch Lyrics belong to a different setting: their preface describes hearing local singers at Jianping.",
+          "zh": "805年革新失败后，刘禹锡被贬为朗州司马，朗州即今常德。815年，他再次出任连州刺史。《竹枝词》属于另一创作场景，其序写的是在建平听当地人联歌。"
+        },
+        "dateNote": {
+          "en": "805 anchors the demotion, not the composition of Bamboo Branch Lyrics.",
+          "zh": "805年指贬任朗州，不是《竹枝词》的创作年。"
+        },
+        "locationPrecision": "representative"
+      },
+      "note": {
+        "en": "Separate the Langzhou exile from the Jianping song preface.",
+        "zh": "将朗州贬谪与建平《竹枝词》序的场景分开。"
+      },
+      "sources": [
+        {
+          "title": "Tang-period historical geography of Guangdong",
+          "url": "https://www.gdwsw.gov.cn/shsy/content/post_27283.html",
+          "publisher": "Xu Junming and Xu Xiaomei, Lingnan Wenshi; Guangdong cultural history portal",
+          "evidenceNote": "Explicit 805 demotion to Langzhou, then 815 Lianzhou.",
+          "checkedAt": "2026-11-11",
+          "evidenceNoteZh": "核对805年由连州改贬朗州，以及815年再任连州；不采用页面其他未经本次核对的历史概括。"
+        },
+        {
+          "title": "Bamboo Branch Lyrics, nine poems: preface",
+          "url": "https://sou-yun.cn/Query.aspx?id=16893&type=poem1",
+          "publisher": "Liu Yuxi; Sou-yun transcription",
+          "evidenceNote": "Preface explicitly locates inspiration at Jianping; editorial metadata gives 822 and Fengjie, not Langzhou 805.",
+          "checkedAt": "2026-11-11",
+          "evidenceNoteZh": "《竹枝词》序明确写到建平听歌，区别于朗州贬谪；页面822年的编年信息不用于改动条目锚点。"
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-379",
+      "patch": {
+        "title": {
+          "en": "Liu Yuxi becomes prefect of Hezhou",
+          "zh": "刘禹锡出任和州刺史"
+        },
+        "summary": {
+          "en": "In 824, Liu Yuxi moved from Kuizhou to serve as prefect of Hezhou, in present-day Anhui. Local tradition connects his modest dwelling there with Inscription on My Humble Room, a text celebrating virtue over material luxury. Its authorship and place of composition have been debated.",
+          "zh": "824年，刘禹锡由夔州转任和州刺史，和州位于今安徽。地方传说把他在此的简朴居所与《陋室铭》相联系，文章重德行而轻物质奢华；其作者归属和写作地点仍有学术争论。"
+        },
+        "dateNote": {
+          "en": "824 dates the appointment; it is not an established composition date for the inscription.",
+          "zh": "824年指任职，不是已确证的《陋室铭》作年。"
+        },
+        "locationPrecision": "representative"
+      },
+      "note": {
+        "en": "Anchor the appointment and distinguish literary tradition from established chronology.",
+        "zh": "以任职为锚点，将文学传说与任职年代区分。"
+      },
+      "sources": [
+        {
+          "title": "Liu Yuxi: public service and literary tradition",
+          "url": "https://www.gdjct.gd.gov.cn/zhyw/content/post_62863.html",
+          "publisher": "Nanfang Daily, republished by Guangdong discipline commission",
+          "evidenceNote": "824 Hezhou appointment is stated separately from room anecdote introduced as tradition. Unrelated chronology on this newspaper page is not adopted.",
+          "checkedAt": "2026-11-11",
+          "evidenceNoteZh": "文章将824年和州任职与“相传”的居室轶事分开；不采用页面其他未经核对的年代叙述。"
+        },
+        {
+          "title": "Bian Xiaoxuan: Humble Room Inscription is not by Liu Yuxi",
+          "url": "https://www.aisixiang.com/data/141127.html",
+          "publisher": "Bian Xiaoxuan; Aisixiang republication",
+          "evidenceNote": "Scholar disputes authorship and describes competing scholarship. No adjudication here; proves why exact composition claim needs qualification.",
+          "checkedAt": "2026-11-11",
+          "evidenceNoteZh": "卞孝萱提出作者归属异议，并讨论不同学术观点；据此说明存在争论，不裁定作者。"
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-383",
+      "patch": {
+        "title": {
+          "en": "Fan Zhongyan takes charge of Yan prefecture’s frontier defence",
+          "zh": "范仲淹主持延州边防"
+        },
+        "summary": {
+          "en": "In 1040, Fan Zhongyan took charge of Yan prefecture during the war with Western Xia. The Songshi describes him reorganizing its troops and strengthening frontier positions. Dashun fort belonged to his later Qingzhou command: the Song Huiyao dates its construction to 1042.",
+          "zh": "1040年，对西夏战争期间，范仲淹兼知延州。《宋史》记他整编州兵、加强边防；大顺城则属于此后庆州任上的建设，《宋会要辑稿》系其筑城于1042年。"
+        },
+        "dateNote": {
+          "en": "1040 anchors the Yan posting, not Dashun’s construction or a dated autumn lyric.",
+          "zh": "1040年指延州任职，不是大顺城筑城年，也不用于确定秋词作年。"
+        },
+        "locationPrecision": "representative"
+      },
+      "note": {
+        "en": "Separate places and years; remove the unverified poem-composition claim.",
+        "zh": "区分地点与年代，移除未核实的作词时间。"
+      },
+      "sources": [
+        {
+          "title": "Songshi 314: Fan Zhongyan",
+          "url": "https://zh.wikisource.org/wiki/宋史/卷314",
+          "publisher": "Yuan official history; Wikisource transcription",
+          "evidenceNote": "Yan posting, reorganization and subsequent Qingzhou/Dashun sequence, not poem date.",
+          "checkedAt": "2026-11-11",
+          "evidenceNoteZh": "本传记延州任职、整编部队及此后庆州、大顺城的次序，不用于确定作词日期。"
+        },
+        {
+          "title": "Su Shunqin and Ouyang Xiu",
+          "url": "https://dfzb.suzhou.gov.cn/dfzb/fzxh/200902/4718f0adbda74b12afc80eab95a1fda6.shtml",
+          "publisher": "Suzhou Local Gazetteer Office",
+          "evidenceNote": "Dates frontier appointment sequence to 1040.",
+          "checkedAt": "2026-11-11",
+          "evidenceNoteZh": "地方志文章明确把边防任职次序系于1040年。"
+        },
+        {
+          "title": "Song Huiyao Jigao 104: Dashun fort",
+          "url": "https://zh.wikisource.org/wiki/宋會要輯稿/卷104",
+          "publisher": "Song institutional records, later compilation; Wikisource transcription",
+          "evidenceNote": "Explicit Qingli 2 (1042), near Qingzhou Rouyuan, not the 1040 Yan marker.",
+          "checkedAt": "2026-11-11",
+          "evidenceNoteZh": "明确记庆历二年（1042年）在庆州柔远寨附近建大顺城，区别于1040年的延州任职。"
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-480",
+      "patch": {
+        "title": {
+          "en": "Yu Qian begins his Henan and Shanxi administration",
+          "zh": "于谦开始巡抚河南、山西"
+        },
+        "summary": {
+          "en": "Yu Qian was appointed to oversee Henan and Shanxi in 1430. The Mingshi describes grain relief, support for displaced households and visits to the districts under his charge. It counts nineteen years in office, including interruptions for mourning, before his recall to Beijing in 1448.",
+          "zh": "1430年，于谦受命巡抚河南、山西。《明史》记他发粮赈济、安置流民，并巡视所部；书中称其前后在任十九年，其间曾归乡治丧，1448年奉召入京。"
+        },
+        "dateNote": {
+          "en": "1430 dates the appointment. The Mingshi’s nineteen-year account includes intervals away for mourning.",
+          "zh": "1430年指任命；《明史》所述前后十九年任期中，包括离职归乡治丧的间隔。"
+        },
+        "locationPrecision": "representative"
+      },
+      "note": {
+        "en": "Retain the sourced tenure as an attributed span; do not date the Two Sleeves Clear poem to 1430. The injustice cases in the biography precede this tenure in Jiangxi.",
+        "zh": "保留有来源的前后任期，不将“两袖清风”诗系于1430年；传记中的平反冤狱属于此前江西巡按。"
+      },
+      "sources": [
+        {
+          "title": "Mingshi 170: Yu Qian",
+          "url": "https://zh.wikisource.org/zh-hans/明史/卷170",
+          "publisher": "Qing official history; Wikisource transcription",
+          "evidenceNote": "Reports tenure, relief, nine-gate deployment and Desheng command; attributed figures are not independent headcounts.",
+          "checkedAt": "2026-11-11",
+          "evidenceNoteZh": "记述任期、赈济、九门部署及德胜门指挥；兵数作为史书记载加以归属，并非独立清点。"
+        },
+        {
+          "title": "Yu Qian in Jincheng",
+          "url": "https://www.jcgov.gov.cn/dtxx/ztzl/2022nzt/2022_qljc/ljxf/202210/t20221025_1688867.shtml",
+          "publisher": "Jincheng municipal government, discipline commission article",
+          "evidenceNote": "Explicit 1430 appointment and 1448 recall. The later paragraph mistakenly names Yingzong for initial promotion; that claim is not adopted. Inclusive nineteen-year wording comes from Mingshi.",
+          "checkedAt": "2026-11-11",
+          "evidenceNoteZh": "核对1430年任命及1448年入京；不采用文章另一处误写初次提拔皇帝的叙述，十九年任期引自《明史》。"
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-481",
+      "patch": {
+        "title": {
+          "en": "Yu Qian helps defend Beijing against Esen",
+          "zh": "于谦主持北京防御，抵御也先"
+        },
+        "summary": {
+          "en": "In 1449, Yu Qian organized Beijing’s defence against Esen’s Oirat army. The Mingshi reports 220,000 troops deployed outside the city’s nine gates, with Yu Qian and Shi Heng commanding at Desheng Gate. Its account describes fighting at several gates before Esen withdrew.",
+          "zh": "1449年，于谦组织北京防御，抵御也先率领的瓦剌军。《明史》记二十二万军分列九门之外，于谦与石亨在德胜门督战；战事涉及多处城门，随后也先撤军。"
+        },
+        "dateNote": {
+          "en": "1449 dates the defence. The reported 220,000 is a citywide deployment, not the force at Desheng Gate alone.",
+          "zh": "1449年指北京保卫战；史书记载的二十二万是九门部署总数，不是德胜门一处兵力。"
+        },
+        "locationPrecision": "representative"
+      },
+      "note": {
+        "en": "Attribute the troop figure and correct its geographic scope.",
+        "zh": "注明兵数出处，纠正其地理范围。"
+      },
+      "sources": [
+        {
+          "title": "Mingshi 170: Yu Qian",
+          "url": "https://zh.wikisource.org/zh-hans/明史/卷170",
+          "publisher": "Qing official history; Wikisource transcription",
+          "evidenceNote": "Reports tenure, relief, nine-gate deployment and Desheng command; attributed figures are not independent headcounts.",
+          "checkedAt": "2026-11-11",
+          "evidenceNoteZh": "记述任期、赈济、九门部署及德胜门指挥；兵数作为史书记载加以归属，并非独立清点。"
+        }
+      ]
+    }
+  ],
+  "sourceChecks": {
+    "sources": [
+      {
+        "title": "Tang-period historical geography of Guangdong",
+        "url": "https://www.gdwsw.gov.cn/shsy/content/post_27283.html",
+        "publisher": "Xu Junming and Xu Xiaomei, Lingnan Wenshi; Guangdong cultural history portal",
+        "evidenceNote": "Explicit 805 demotion to Langzhou, then 815 Lianzhou.",
+        "checkedAt": "2026-11-11",
+        "retrieval": "Direct web connector page passage; web-5.json, line 65",
+        "passage": "永贞元年（805年）曾被贬连州（今连县），未到任，又改贬朗州（今湖南常德）。"
+      },
+      {
+        "title": "Liu Yuxi: public service and literary tradition",
+        "url": "https://www.gdjct.gd.gov.cn/zhyw/content/post_62863.html",
+        "publisher": "Nanfang Daily, republished by Guangdong discipline commission",
+        "evidenceNote": "824 Hezhou appointment is stated separately from room anecdote introduced as tradition. Unrelated chronology on this newspaper page is not adopted.",
+        "checkedAt": "2026-11-11",
+        "retrieval": "Direct web connector page passage; web-3.json, lines 79–81",
+        "passage": "824年，刘禹锡从夔州调往和州（今安徽和县），担任刺史。 / 相传，当地知县有意刁难"
+      },
+      {
+        "title": "Bamboo Branch Lyrics, nine poems: preface",
+        "url": "https://sou-yun.cn/Query.aspx?id=16893&type=poem1",
+        "publisher": "Liu Yuxi; Sou-yun transcription",
+        "evidenceNote": "Preface explicitly locates inspiration at Jianping; editorial metadata gives 822 and Fengjie, not Langzhou 805.",
+        "checkedAt": "2026-11-11",
+        "retrieval": "Direct web connector page passage; web-3.json, lines 6–9",
+        "passage": "岁正月，余来建平，里中儿联歌竹枝，吹短笛击鼓以赴节。"
+      },
+      {
+        "title": "Bian Xiaoxuan: Humble Room Inscription is not by Liu Yuxi",
+        "url": "https://www.aisixiang.com/data/141127.html",
+        "publisher": "Bian Xiaoxuan; Aisixiang republication",
+        "evidenceNote": "Scholar disputes authorship and describes competing scholarship. No adjudication here; proves why exact composition claim needs qualification.",
+        "checkedAt": "2026-11-11",
+        "retrieval": "Direct web connector page passage; web-2.json, lines 28–30",
+        "passage": "我在1963年出版的《刘禹锡年谱》中提出《陋室铭》非刘禹锡作。"
+      },
+      {
+        "title": "Songshi 314: Fan Zhongyan",
+        "url": "https://zh.wikisource.org/wiki/宋史/卷314",
+        "publisher": "Yuan official history; Wikisource transcription",
+        "evidenceNote": "Yan posting, reorganization and subsequent Qingzhou/Dashun sequence, not poem date.",
+        "checkedAt": "2026-11-11",
+        "retrieval": "Direct web connector page passage; web-5.json, lines 146–150",
+        "passage": "延州諸砦多失守，仲淹自請行，遷戶部郎中兼知延州。"
+      },
+      {
+        "title": "Su Shunqin and Ouyang Xiu",
+        "url": "https://dfzb.suzhou.gov.cn/dfzb/fzxh/200902/4718f0adbda74b12afc80eab95a1fda6.shtml",
+        "publisher": "Suzhou Local Gazetteer Office",
+        "evidenceNote": "Dates frontier appointment sequence to 1040.",
+        "checkedAt": "2026-11-11",
+        "retrieval": "Direct web connector page passage; web-6.json, line 24",
+        "passage": "范仲淹于1040年复“天章阁待制，知永兴军”，不久，为陕西都转运使，兼知延州。"
+      },
+      {
+        "title": "Song Huiyao Jigao 104: Dashun fort",
+        "url": "https://zh.wikisource.org/wiki/宋會要輯稿/卷104",
+        "publisher": "Song institutional records, later compilation; Wikisource transcription",
+        "evidenceNote": "Explicit Qingli 2 (1042), near Qingzhou Rouyuan, not the 1040 Yan marker.",
+        "checkedAt": "2026-11-11",
+        "retrieval": "Direct web connector page passage; web-6.json, line 688",
+        "passage": "庆历二年，范仲淹于庆州柔远寨东北四十里大顺川建城，四月辛巳，诏城名大顺。"
+      },
+      {
+        "title": "Mingshi 170: Yu Qian",
+        "url": "https://zh.wikisource.org/zh-hans/明史/卷170",
+        "publisher": "Qing official history; Wikisource transcription",
+        "evidenceNote": "Reports tenure, relief, nine-gate deployment and Desheng command; attributed figures are not independent headcounts.",
+        "checkedAt": "2026-11-11",
+        "retrieval": "Direct web connector page passage; web-1.json, lines 135–144",
+        "passage": "前后在任十九年，丁内外艰，皆令归治丧，旋起复。 / 率师二十二万，列阵九门外 / 而谦自与石亨率副总兵范广、武兴陈德胜门外，当也先。"
+      },
+      {
+        "title": "Yu Qian in Jincheng",
+        "url": "https://www.jcgov.gov.cn/dtxx/ztzl/2022nzt/2022_qljc/ljxf/202210/t20221025_1688867.shtml",
+        "publisher": "Jincheng municipal government, discipline commission article",
+        "evidenceNote": "Explicit 1430 appointment and 1448 recall. The later paragraph mistakenly names Yingzong for initial promotion; that claim is not adopted. Inclusive nineteen-year wording comes from Mingshi.",
+        "checkedAt": "2026-11-11",
+        "retrieval": "Direct web connector page passage; web-3.json, lines 43–46",
+        "passage": "宣德五年（1430），以兵部右侍郎巡抚河南、山西。"
+      },
+      {
+        "title": "Qidong Yeyu 1: Lu You remembers his former wife",
+        "url": "https://zh.wikisource.org/zh-hans/齊東野語/卷一",
+        "publisher": "Zhou Mi; Wikisource transcription",
+        "evidenceNote": "Later anecdote explicitly dates scene to Shaoxing yihai (1155); passage calls wife Tang shi, not given name Wan. Same section quotes a later poem recalling forty years, so exact chronology is not independently resolved.",
+        "checkedAt": "2026-11-11",
+        "retrieval": "Direct web connector page passage; web-4.json, lines 273–280",
+        "passage": "尝以春日出游，相遇于禹迹寺南之沈氏园。 / 为赋《钗头凤》一词，题园壁间 / 实绍兴乙亥岁也。"
+      }
+    ],
+    "failedReads": [
+      {
+        "url": "https://lyj.nanyang.gov.cn/2024/04-08/402939.html",
+        "status": "403 Forbidden; not retried or bypassed; not proposal evidence"
+      },
+      {
+        "url": "https://zh.wikisource.org/wiki/續資治通鑑長編/卷136",
+        "status": "connector inaccessible; no retry"
+      },
+      {
+        "url": "https://www.guoxuemi.com/a/57kgiv/141646k.html",
+        "status": "502; no retry"
+      },
+      {
+        "url": "https://www.cqfj.gov.cn/zjfj/fjwl/zmrw/202410/t20241014_13704317.html",
+        "status": "timeout; no retry"
+      }
+    ],
+    "extraScope": "Qing023 and Qing028 not examined; existing holds preserved."
+  },
+  "validation": {
+    "baselineRecords": 6,
+    "proposedRecords": 6,
+    "ready": 5,
+    "held": 1,
+    "unchangedDates": true,
+    "unchangedCoordinates": true,
+    "existingSourcesPreserved": true,
+    "productionChanges": false
+  },
+  "ownerAdmittedAssociations": [
+    {
+      "assetId": "china-batch-09-liuyuxi",
+      "recordId": "china-landmark-378",
+      "role": "named-person",
+      "context": {
+        "en": "The portrait and facing biography frame Liu Yuxi as a poet worth remembering in Qing China.",
+        "zh": "肖像与对页传记呈现清代对刘禹锡这位唐代诗人的追忆。"
+      },
+      "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/35797?dep=P",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "china-batch-09-liuyuxi",
+      "recordId": "china-landmark-379",
+      "role": "named-person",
+      "context": {
+        "en": "The portrait and facing biography frame Liu Yuxi as a poet worth remembering in Qing China.",
+        "zh": "肖像与对页传记呈现清代对刘禹锡这位唐代诗人的追忆。"
+      },
+      "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/35797?dep=P",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "china-batch-05-fanzhongyan",
+      "recordId": "china-landmark-383",
+      "role": "named-person",
+      "context": {
+        "en": "This 1609 printed portrait remembers the Song reformer through the dress and tablet of an exemplary official. Its title names Fan Wenzheng, his posthumous honorific.",
+        "zh": "这幅1609年的版画用礼冠与笏板塑造宋代改革者的官员典范形象；上方题名“范文正”使用了他的谥号。"
+      },
+      "evidenceUrl": "https://commons.wikimedia.org/wiki/File:Fan_Zhongyan_scth.jpg",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "china-batch-05-yuqian",
+      "recordId": "china-landmark-480",
+      "role": "named-person",
+      "context": {
+        "en": "The tablet, frontal pose and ceremonial clothing commemorate service to the state. Gu Jianlong painted Yu Qian roughly two centuries after the minister’s execution.",
+        "zh": "笏板、正面姿态与礼服纪念于谦的国家臣僚身份；顾见龙作画时，距离这位大臣被处死已约两百年。"
+      },
+      "evidenceUrl": "https://commons.wikimedia.org/wiki/File:Yu_Qian_by_Gu_Jianlong.jpg",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "china-batch-05-yuqian",
+      "recordId": "china-landmark-481",
+      "role": "named-person",
+      "context": {
+        "en": "The tablet, frontal pose and ceremonial clothing commemorate service to the state. Gu Jianlong painted Yu Qian roughly two centuries after the minister’s execution.",
+        "zh": "笏板、正面姿态与礼服纪念于谦的国家臣僚身份；顾见龙作画时，距离这位大臣被处死已约两百年。"
+      },
+      "evidenceUrl": "https://commons.wikimedia.org/wiki/File:Yu_Qian_by_Gu_Jianlong.jpg",
+      "checkedAt": "2026-11-11"
+    }
+  ],
+  "presentation": "Existing image interpretation is reused so redundant connection prose is not shown above the same portrait caption."
+}

@@ -1,0 +1,3538 @@
+{
+  "reviewedAt": "2026-11-11",
+  "ownerReview": "Four named focal-subject associations admitted after reading full bilingual records, source excerpts and album identification. Existing image pixels and rights remain unchanged. The Xuanzong opening title now names both emperors, with verified positions. Research proposals and holds below remain preserved as submitted.",
+  "evidence": [
+    {
+      "association": {
+        "assetId": "china-batch-06-tangxuanzong",
+        "recordId": "china-fengtian-refuge-783",
+        "role": "historical-context",
+        "context": {
+          "en": "Emperor Dezong stands at left, opposite Xuanzong, in this later album of rulers. He is the emperor whose flight to Fengtian anchors the account of the 783 mutiny.",
+          "zh": "唐德宗在这册后世帝王图像的左页，右页为唐玄宗。他正是783年兵变后出奔奉天、贯穿本篇叙事的皇帝。"
+        },
+        "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/17979?dep=P",
+        "checkedAt": "2026-11-11"
+      },
+      "record": {
+        "id": "china-fengtian-refuge-783",
+        "title": {
+          "en": "The Jingyuan Mutiny and the court at Fengtian",
+          "zh": "泾原兵变与奉天朝廷"
+        },
+        "start": 783,
+        "end": 783,
+        "region": "east-asia",
+        "kind": "event",
+        "theme": "states",
+        "importance": 4,
+        "location": {
+          "lon": 108.24,
+          "lat": 34.53,
+          "label": "Fengtian, present-day Qian County",
+          "labelI18n": {
+            "en": "Fengtian, present-day Qian County",
+            "zh": "奉天，今乾县"
+          }
+        },
+        "locationPrecision": "representative",
+        "summary": {
+          "en": "An expected campaign reward could become a political crisis. In 783, soldiers of the Jingyuan army passing through Chang’an rebelled after receiving less than they expected. Emperor Dezong fled the capital and took refuge at Fengtian. The later Zizhi tongjian describes the hurried flight and the gathering of defenders around the court.\n\nRead this as a story about resources as well as commanders. David Graff’s study connects late Tang soldiers’ compensation to military loyalty and the taxes that sustained armies. The episode reveals why a single imperial color on a map cannot show how precarious the court’s control could be.",
+          "zh": "一次出征赏赐也可能引发政治危机。783年，途经长安的泾原军士因所得不及预期而哗变，唐德宗逃出京师，避难奉天。后出的《资治通鉴》记述了仓促出奔以及守军逐渐集结的过程。\n\n这不仅是将领的故事，也关乎财赋。历史学者David A. Graff的研究将唐后期士兵的待遇同军事忠诚、维持军队的赋税联系起来。这一事件说明，地图上同一种帝国颜色无法表达朝廷控制可能有多么脆弱。"
+        },
+        "dateNote": {
+          "en": "783 CE dates the mutiny and refuge. The chronicle uses a Chinese lunar month; no Gregorian month or day is asserted. Fengtian is represented near present-day Qian County.",
+          "zh": "783年为兵变与出奔奉天之年。编年史使用农历月份，此处不将其换算为公历月日。奉天以今乾县附近的代表点标示。"
+        },
+        "relatedIds": [
+          "tang-dynasty"
+        ],
+        "sources": [
+          {
+            "title": "The Reach of the Military: Tang",
+            "publisher": "David A. Graff · Journal of Chinese History, Cambridge University Press",
+            "url": "https://www.cambridge.org/core/journals/journal-of-chinese-history/article/reach-of-the-military-tang/ECFE9C64AE6E73EC4319B165A606F88C",
+            "evidenceNote": "Sections on soldiers’ compensation and resource extraction discuss the 783 Jingyuan mutiny and late Tang fiscal pressures.",
+            "evidenceNoteZh": "士兵待遇与资源征收部分讨论了783年泾原兵变及唐后期的财政压力。",
+            "checkedAt": "2026-11-09",
+            "retrieval": "opened-page"
+          },
+          {
+            "title": "Zizhi tongjian, volume 228: Jianzhong 4",
+            "publisher": "Sima Guang and collaborators · Wikisource transcription",
+            "url": "https://zh.wikisource.org/wiki/資治通鑑/卷228",
+            "evidenceNote": "The 783 account narrates the mutiny, departure from Chang’an, arrival at Fengtian and defensive preparations; it is a later chronicle, not an eyewitness transcript.",
+            "evidenceNoteZh": "783年记事叙述兵变、离开长安、抵达奉天与防御准备；属于后出编年史，并非现场实录。",
+            "checkedAt": "2026-11-09",
+            "retrieval": "opened-page"
+          },
+          {
+            "title": "Jiangshan: Southern Dynasties, Ten Kingdoms, late Tang and Western Han milestones",
+            "publisher": "Jiangshan / 江山",
+            "url": "https://github.com/DeanChensj/jiangshan-map/pull/229",
+            "evidenceNote": "Credit for the original topic selection. This pull request is not used as independent evidence for the historical claims.",
+            "evidenceNoteZh": "保留最初选题的归属。该拉取请求不作为历史论断的独立证据。"
+          }
+        ],
+        "reviewNote": {
+          "en": "The mutiny, date and refuge are checked against scholarship and the later chronicle. Narrative detail is attributed to its source; exact speeches and troop totals are not reproduced.",
+          "zh": "兵变、年份与避难地点已对照学术研究及后出编年史。叙事细节说明出处，不复述原文中的精确对话与兵力数字。"
+        }
+      },
+      "asset": {
+        "title": {
+          "en": "Xuanzong in an album of exemplary rulers",
+          "zh": "《圣君贤臣全身像》中的唐玄宗"
+        },
+        "alt": {
+          "en": "Xuanzong stands on the right page in ceremonial robes; Emperor Dezong occupies the left page.",
+          "zh": "右页为身着礼服的唐玄宗，左页为唐德宗。"
+        },
+        "caption": {
+          "en": "Later portrait of Xuanzong, right, with Dezong on the facing page. Date unestablished.",
+          "zh": "后世唐玄宗像在右页，对页为唐德宗；绘制年代未定。"
+        },
+        "interpretation": {
+          "en": "This album remembers Xuanzong as one ruler in a long dynastic succession. The uniform ceremonial setting differs from the poetry, music and rebellion associated with his reign.",
+          "zh": "册页把玄宗放在漫长的帝王序列中；统一的礼仪形象，与他在位时的诗歌、音乐和叛乱形成不同的观看角度。"
+        },
+        "creator": "Anonymous Chinese artist",
+        "date": "Unknown",
+        "institution": "National Palace Museum, Taipei; 中畫00033000027",
+        "kind": "portrait",
+        "representation": "later-depiction",
+        "id": "china-batch-06-tangxuanzong",
+        "file": "assets/history-media/china-batch-06-tangxuanzong.jpg",
+        "recordIds": [
+          "china-person-tangxuanzong"
+        ],
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/17979?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/C2A%2FC2A000330N000000014PAA/full/full/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/17979?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "聖君賢臣全身像 冊 玄宗。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "聖君賢臣全身像 冊 玄宗。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/C2A%2FC2A000330N000000014PAA/full/1400,/0/default.jpg",
+        "width": 1400,
+        "height": 1048,
+        "bytes": 154619,
+        "sha256": "e1c8c3fa071733a3eeb3fc9d6a33999fe5aa807588a7eec0da93a009c87d31cd",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Smaller derivative supplied by the source image service, saved unchanged. Full source framing retained; no local image editing or conversion.",
+          "zh": "采用来源图像服务提供的小尺寸版本，原样保存。保留完整取景，未作本地图像编辑或格式转换。"
+        },
+        "retrieval": "Source-served derivative downloaded and decoded; pixels checked against the preserved original. Exact production auditHistoryMedia validator and loadAtlasRecords IDs used.",
+        "contextSources": [
+          {
+            "title": {
+              "en": "Collection / source: Xuanzong in an album of exemplary rulers",
+              "zh": "馆藏或来源：《圣君贤臣全身像》中的唐玄宗"
+            },
+            "url": "https://digitalarchive.npm.gov.tw/Collection/Detail/17979?dep=P"
+          },
+          {
+            "title": {
+              "en": "Tang dynasty: art and historical context",
+              "zh": "唐代艺术与历史背景"
+            },
+            "url": "https://www.metmuseum.org/essays/tang-dynasty-618-906"
+          }
+        ],
+        "metadataI18n": {
+          "date": {
+            "en": "Unknown",
+            "zh": "年代不详"
+          },
+          "creator": {
+            "en": "Anonymous Chinese artist",
+            "zh": "中国佚名艺术家"
+          },
+          "institution": {
+            "en": "National Palace Museum, Taipei; 中畫00033000027",
+            "zh": "台北故宫博物院；中畫00033000027"
+          }
+        }
+      },
+      "decision": "propose",
+      "basis": "Both full bilingual narratives center Dezong’s flight and endangered court. The left sitter is named on the artwork and museum album table; not inferred from chronology.",
+      "sourceEvidenceIds": [
+        "dezong-opening",
+        "xuanzong-object"
+      ],
+      "visualReview": "Opened and inspected full existing local image individually; identification and left/right position checked. No download or image edit.",
+      "narrativeScope": "Association validates the identified principal subject; inherited provenance is not upgraded to blanket historical verification."
+    },
+    {
+      "association": {
+        "assetId": "china-batch-08-taoyuanming",
+        "recordId": "china-landmark-185",
+        "role": "historical-context",
+        "context": {
+          "en": "Xie Lingyun appears at left, opposite Tao Yuanming, in this undated portrait album. The poet and Yongjia governor is the central figure in this account of landscape poetry.",
+          "zh": "绘制年代未定的肖像册左页为谢灵运，右页为陶渊明。这位诗人与永嘉太守，正是条目所述山水诗故事的主角。"
+        },
+        "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/17851?dep=P",
+        "checkedAt": "2026-11-11"
+      },
+      "record": {
+        "id": "china-landmark-185",
+        "title": {
+          "en": "Xie Lingyun governs Yongjia (Wenzhou), pioneering classical Chinese landscape poetry",
+          "zh": "谢灵运出任永嘉太守，遍游永嘉楠溪江山水，开创中国古典山水诗派"
+        },
+        "start": 422,
+        "end": 422,
+        "location": {
+          "lon": 120.66,
+          "lat": 28.01,
+          "label": "Yongjia Commandery (Wenzhou, Zhejiang)",
+          "labelI18n": {
+            "en": "Yongjia Commandery (Wenzhou, Zhejiang)",
+            "zh": "永嘉郡（今浙江温州）"
+          },
+          "labelProvenance": "inherited-source-place-pair"
+        },
+        "region": "east-asia",
+        "theme": "culture",
+        "kind": "event",
+        "importance": 1,
+        "summary": {
+          "en": "Xie Lingyun governs Yongjia (Wenzhou), pioneering classical Chinese landscape poetry",
+          "zh": "谢灵运出任永嘉太守，遍游永嘉楠溪江山水，开创中国古典山水诗派"
+        },
+        "dateNote": {
+          "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+          "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+        },
+        "locationPrecision": "representative",
+        "sources": [
+          {
+            "title": "Chronicles of the Realm — js/lore_data.js (frozen source dataset)",
+            "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/lore_data.js",
+            "publisher": "DeanChensj / Chronicles of the Realm",
+            "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+            "checkedAt": "2026-10-23"
+          }
+        ],
+        "aliases": [
+          "永嘉郡（今浙江温州）",
+          "Yongjia Commandery (Wenzhou, Zhejiang)"
+        ],
+        "provenance": {
+          "dataset": "jiangshan",
+          "status": "inherited",
+          "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+          "periodId": "nanbei",
+          "periodIds": [
+            "nanbei"
+          ],
+          "sourceRecords": [
+            {
+              "file": "js/lore_data.js",
+              "path": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/184",
+              "index": 184
+            }
+          ],
+          "note": {
+            "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+            "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+          }
+        },
+        "relatedIds": [
+          "northern-wei-dynasty",
+          "liu-song-dynasty"
+        ]
+      },
+      "asset": {
+        "id": "china-batch-08-taoyuanming",
+        "file": "assets/history-media/china-batch-08-taoyuanming.jpg",
+        "recordIds": [
+          "china-landmark-338"
+        ],
+        "title": {
+          "en": "Tao Yuanming, right, and Xie Lingyun, left",
+          "zh": "陶渊明（右）与谢灵运（左）"
+        },
+        "alt": {
+          "en": "Tao Yuanming, right, and Xie Lingyun, left; two portraits with inscriptions on facing pages.",
+          "zh": "陶渊明（右）与谢灵运（左）；两幅肖像及题字保留在完整对开中。"
+        },
+        "caption": {
+          "en": "Historical portraits, painting date unestablished: Tao Yuanming, right, and Xie Lingyun, left.",
+          "zh": "绘制年代未定的历史肖像：陶渊明（右）与谢灵运（左）。"
+        },
+        "interpretation": {
+          "en": "Tao Yuanming and Xie Lingyun share the same album format but differ in their headwear and posture. Compare how a portrait collection creates both likeness and distinction.",
+          "zh": "陶渊明与谢灵运采用相同的册页格式，冠服与姿态却各有差异。比较肖像集如何同时表现共性与区别。"
+        },
+        "creator": "Anonymous Chinese artist",
+        "date": "Undated",
+        "institution": "National Palace Museum, Taipei; 中畫000328N000000011",
+        "kind": "portrait",
+        "representation": "historical-portrait",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/17851?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/C2A%2FC2A000328N000000011PAA/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/C2A%2FC2A000328N000000011PAA/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/17851?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "歷代聖賢半身像 冊 陶淵明。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "歷代聖賢半身像 冊 陶淵明。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 1400,
+        "height": 1048,
+        "bytes": 116290,
+        "sha256": "ab6732b10024489122b1c4fd9b24371cd8c9f7d7b56ec28e6fc5946bf2f9089c",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, original derivative bytes and pixel-review contact sheet preserved in China batch 08.",
+        "contextSources": [],
+        "metadataI18n": {
+          "date": {
+            "en": "Undated",
+            "zh": "年代未详"
+          },
+          "creator": {
+            "en": "Anonymous Chinese artist",
+            "zh": "中国佚名艺术家"
+          },
+          "institution": {
+            "en": "National Palace Museum, Taipei; 中畫000328N000000011",
+            "zh": "台北故宫博物院；中畫000328N000000011"
+          }
+        }
+      },
+      "decision": "propose",
+      "basis": "Direct portrait of the named principal poet, not an unrelated poem by a common author. The Songshu account independently connects Yongjia office, excursions and poetry. Do not imply the picture documents a particular journey or was painted in 422.",
+      "sourceEvidenceIds": [
+        "xie-opening",
+        "xie-biography",
+        "xie-nanxi"
+      ],
+      "visualReview": "Opened and inspected full existing local image individually; identification and left/right position checked. No download or image edit.",
+      "narrativeScope": "Association validates the identified principal subject; inherited provenance is not upgraded to blanket historical verification."
+    },
+    {
+      "association": {
+        "assetId": "china-batch-08-song-gaozong",
+        "recordId": "china-landmark-186",
+        "role": "historical-context",
+        "context": {
+          "en": "The Song imperial album portrays Gaozong at right, with his identification at left. It introduces the ruler whose court took refuge around Wenzhou in 1130.",
+          "zh": "宋代帝像册右页绘高宗，左页为身份题记。画像对应1130年朝廷在温州一带避难的故事主角。"
+        },
+        "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/14767?dep=P",
+        "checkedAt": "2026-11-11"
+      },
+      "record": {
+        "id": "china-landmark-186",
+        "title": {
+          "en": "Fleeing Jurchen Jin pursuit by sea, Emperor Gaozong of Song holds court at Wenzhou",
+          "zh": "金军渡江南侵搜山检海，宋高宗赵构自明州航海驻跸温州江心屿"
+        },
+        "start": 1130,
+        "end": 1130,
+        "location": {
+          "lon": 120.66,
+          "lat": 28.01,
+          "label": "Wen Zhou (Wenzhou, Zhejiang)",
+          "labelI18n": {
+            "en": "Wen Zhou (Wenzhou, Zhejiang)",
+            "zh": "温州（今浙江温州）"
+          },
+          "labelProvenance": "inherited-source-place-pair"
+        },
+        "region": "east-asia",
+        "theme": "states",
+        "kind": "event",
+        "importance": 1,
+        "summary": {
+          "en": "Fleeing Jurchen Jin pursuit by sea, Emperor Gaozong of Song holds court at Wenzhou",
+          "zh": "金军渡江南侵搜山检海，宋高宗赵构自明州航海驻跸温州江心屿"
+        },
+        "dateNote": {
+          "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+          "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+        },
+        "locationPrecision": "representative",
+        "sources": [
+          {
+            "title": "Chronicles of the Realm — js/lore_data.js (frozen source dataset)",
+            "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/lore_data.js",
+            "publisher": "DeanChensj / Chronicles of the Realm",
+            "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+            "checkedAt": "2026-10-23"
+          }
+        ],
+        "aliases": [
+          "温州（今浙江温州）",
+          "Wen Zhou (Wenzhou, Zhejiang)"
+        ],
+        "provenance": {
+          "dataset": "jiangshan",
+          "status": "inherited",
+          "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+          "periodId": "nansong",
+          "periodIds": [
+            "nansong"
+          ],
+          "sourceRecords": [
+            {
+              "file": "js/lore_data.js",
+              "path": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/185",
+              "index": 185
+            }
+          ],
+          "note": {
+            "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+            "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+          }
+        },
+        "relatedIds": [
+          "southern-song",
+          "jurchen-jin-dynasty",
+          "western-xia-dynasty"
+        ]
+      },
+      "asset": {
+        "id": "china-batch-08-song-gaozong",
+        "file": "assets/history-media/china-batch-08-song-gaozong.jpg",
+        "recordIds": [
+          "china-event-nansong-001"
+        ],
+        "title": {
+          "en": "Emperor Gaozong in the Song imperial album",
+          "zh": "宋代帝像册中的宋高宗"
+        },
+        "alt": {
+          "en": "Gaozong appears at right in a court cap and robe, with an identifying inscription on the left.",
+          "zh": "宋高宗戴冠着袍，位于右页；左页保留身份题记。"
+        },
+        "caption": {
+          "en": "Historical portrait of Song Gaozong; painting date unestablished. The complete mounted opening preserves portrait and identification.",
+          "zh": "宋高宗历史肖像，绘制年代未定；完整装裱对开保留画像及身份题记。"
+        },
+        "interpretation": {
+          "en": "The black court cap extends beyond the painted face. Compare the portrait’s close framing with the generous space around the identifying text.",
+          "zh": "黑色冠帽延伸至面容两侧。比较紧凑的人物构图与题字周围宽阔的留白。"
+        },
+        "creator": "Anonymous Chinese artist",
+        "date": "Undated",
+        "institution": "National Palace Museum, Taipei; 中畫000322N000000011",
+        "kind": "portrait",
+        "representation": "historical-portrait",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/14767?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/C2A%2FC2A000322N000000011PAA/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/C2A%2FC2A000322N000000011PAA/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/14767?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "宋代帝半身像 冊 宋高宗。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "宋代帝半身像 冊 宋高宗。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 1400,
+        "height": 1050,
+        "bytes": 195229,
+        "sha256": "f57f4913ffebaa9b14273a57f792eb6d63daca55acfbac95ad51364e7ee556c9",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, original derivative bytes and pixel-review contact sheet preserved in China batch 08.",
+        "contextSources": [],
+        "metadataI18n": {
+          "date": {
+            "en": "Undated",
+            "zh": "年代未详"
+          },
+          "creator": {
+            "en": "Anonymous Chinese artist",
+            "zh": "中国佚名艺术家"
+          },
+          "institution": {
+            "en": "National Palace Museum, Taipei; 中畫000322N000000011",
+            "zh": "台北故宫博物院；中畫000322N000000011"
+          }
+        }
+      },
+      "decision": "propose",
+      "basis": "Both languages center Gaozong and Wenzhou refuge. Songshi confirms the maritime arrival and city stay; the secondary source corroborates Jiangxin. Portrait is not presented as a scene of the escape.",
+      "sourceEvidenceIds": [
+        "gaozong-object",
+        "gaozong-1130",
+        "gaozong-jiangxin"
+      ],
+      "visualReview": "Opened and inspected full existing local image individually; identification and left/right position checked. No download or image edit.",
+      "narrativeScope": "Association validates the identified principal subject; inherited provenance is not upgraded to blanket historical verification."
+    },
+    {
+      "association": {
+        "assetId": "china-batch-08-song-gaozong",
+        "recordId": "china-landmark-085",
+        "role": "historical-context",
+        "context": {
+          "en": "Gaozong, shown at right in this undated imperial portrait album, made Lin’an the court’s official residence in 1138. The city functioned as the Southern Song capital.",
+          "zh": "年代未定的帝像册右页绘宋高宗。1138年，他将临安定为行在所；临安由此成为南宋实际上的都城。"
+        },
+        "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/14767?dep=P",
+        "checkedAt": "2026-11-11"
+      },
+      "record": {
+        "id": "china-landmark-085",
+        "title": {
+          "en": "Emperor Gaozong establishes Lin'an (Hangzhou) as capital of the Southern Song",
+          "zh": "宋高宗正式定临安府（杭州）为南宋行在（都城）"
+        },
+        "start": 1138,
+        "end": 1138,
+        "location": {
+          "lon": 120.15,
+          "lat": 30.28,
+          "label": "Lin'an (Hangzhou)",
+          "labelI18n": {
+            "en": "Lin'an (Hangzhou)",
+            "zh": "临安府"
+          },
+          "labelProvenance": "inherited-source-place-pair"
+        },
+        "region": "east-asia",
+        "theme": "states",
+        "kind": "event",
+        "importance": 1,
+        "summary": {
+          "en": "Emperor Gaozong establishes Lin'an (Hangzhou) as capital of the Southern Song",
+          "zh": "宋高宗正式定临安府（杭州）为南宋行在（都城）"
+        },
+        "dateNote": {
+          "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+          "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+        },
+        "locationPrecision": "representative",
+        "sources": [
+          {
+            "title": "Chronicles of the Realm — js/lore_data.js (frozen source dataset)",
+            "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/lore_data.js",
+            "publisher": "DeanChensj / Chronicles of the Realm",
+            "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+            "checkedAt": "2026-10-23"
+          }
+        ],
+        "aliases": [
+          "临安府",
+          "Lin'an (Hangzhou)"
+        ],
+        "provenance": {
+          "dataset": "jiangshan",
+          "status": "inherited",
+          "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+          "periodId": "nansong",
+          "periodIds": [
+            "nansong"
+          ],
+          "sourceRecords": [
+            {
+              "file": "js/lore_data.js",
+              "path": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/84",
+              "index": 84
+            }
+          ],
+          "note": {
+            "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+            "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+          }
+        },
+        "relatedIds": [
+          "southern-song",
+          "jurchen-jin-dynasty",
+          "western-xia-dynasty"
+        ]
+      },
+      "asset": {
+        "id": "china-batch-08-song-gaozong",
+        "file": "assets/history-media/china-batch-08-song-gaozong.jpg",
+        "recordIds": [
+          "china-event-nansong-001"
+        ],
+        "title": {
+          "en": "Emperor Gaozong in the Song imperial album",
+          "zh": "宋代帝像册中的宋高宗"
+        },
+        "alt": {
+          "en": "Gaozong appears at right in a court cap and robe, with an identifying inscription on the left.",
+          "zh": "宋高宗戴冠着袍，位于右页；左页保留身份题记。"
+        },
+        "caption": {
+          "en": "Historical portrait of Song Gaozong; painting date unestablished. The complete mounted opening preserves portrait and identification.",
+          "zh": "宋高宗历史肖像，绘制年代未定；完整装裱对开保留画像及身份题记。"
+        },
+        "interpretation": {
+          "en": "The black court cap extends beyond the painted face. Compare the portrait’s close framing with the generous space around the identifying text.",
+          "zh": "黑色冠帽延伸至面容两侧。比较紧凑的人物构图与题字周围宽阔的留白。"
+        },
+        "creator": "Anonymous Chinese artist",
+        "date": "Undated",
+        "institution": "National Palace Museum, Taipei; 中畫000322N000000011",
+        "kind": "portrait",
+        "representation": "historical-portrait",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/14767?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/C2A%2FC2A000322N000000011PAA/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/C2A%2FC2A000322N000000011PAA/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/14767?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "宋代帝半身像 冊 宋高宗。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "宋代帝半身像 冊 宋高宗。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 1400,
+        "height": 1050,
+        "bytes": 195229,
+        "sha256": "f57f4913ffebaa9b14273a57f792eb6d63daca55acfbac95ad51364e7ee556c9",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, original derivative bytes and pixel-review contact sheet preserved in China batch 08.",
+        "contextSources": [],
+        "metadataI18n": {
+          "date": {
+            "en": "Undated",
+            "zh": "年代未详"
+          },
+          "creator": {
+            "en": "Anonymous Chinese artist",
+            "zh": "中国佚名艺术家"
+          },
+          "institution": {
+            "en": "National Palace Museum, Taipei; 中畫000322N000000011",
+            "zh": "台北故宫博物院；中畫000322N000000011"
+          }
+        }
+      },
+      "decision": "propose",
+      "basis": "Gaozong’s decision is the principal action in both languages. Association preserves formal xingzai versus de facto capital distinction rather than amplifying a permanent-capital legal designation.",
+      "sourceEvidenceIds": [
+        "gaozong-object",
+        "gaozong-1138"
+      ],
+      "visualReview": "Opened and inspected full existing local image individually; identification and left/right position checked. No download or image edit.",
+      "narrativeScope": "Association validates the identified principal subject; inherited provenance is not upgraded to blanket historical verification."
+    }
+  ],
+  "sources": [
+    {
+      "id": "dezong-opening",
+      "url": "https://digitalarchive.npm.gov.tw/Collection/Detail/1892?dep=P",
+      "quote": "聖君賢臣全身像 冊 玄宗 27 14 27 著錄細目 聖君賢臣全身像 冊 德宗 28 14 28",
+      "location": "Album collection table: columns 件 / 開 / 幅",
+      "scope": "Opening 14 contains leaves 27 Xuanzong and 28 Dezong. Pixel labels independently put Dezong at left and Xuanzong at right.",
+      "checkedAt": "2026-11-11",
+      "retrieval": "existing local source inspected",
+      "localReceipt": "research/v18/china-batch-08/album330-source.txt",
+      "receiptSha256": "c9ec93a4969c3401faacb90e3e79dc0d5fa40400c9e82250699f5de865ef2fa2"
+    },
+    {
+      "id": "xuanzong-object",
+      "url": "https://digitalarchive.npm.gov.tw/Collection/Detail/17979?dep=P",
+      "quote": "作品號 中畫00033000027 品名 聖君賢臣全身像 冊 玄宗",
+      "location": "Basic information",
+      "scope": "Exact catalog object and full-opening derivative, not a newly acquired Dezong photograph.",
+      "checkedAt": "2026-11-11",
+      "retrieval": "existing local source inspected",
+      "localReceipt": "research/v18/china-batch-06/tangxuanzong-source.txt",
+      "receiptSha256": "f47948bdb3a92197e966efb4f9bb092d1781b445f545fe629e31f5c84abb72a8"
+    },
+    {
+      "id": "xie-opening",
+      "url": "https://digitalarchive.npm.gov.tw/Collection/Detail/1890?dep=P",
+      "quote": "歷代聖賢半身像 冊 陶淵明 21 11 21 著錄細目 歷代聖賢半身像 冊 謝靈運 22 11 22",
+      "location": "Album collection table: columns 件 / 開 / 幅",
+      "scope": "Tao Yuanming and Xie Lingyun occupy opening 11. Pixels show Xie at left with identifying text and leaf 22 accession strip.",
+      "checkedAt": "2026-11-11",
+      "retrieval": "existing local source inspected",
+      "localReceipt": "research/v18/china-batch-08/album328-source.txt",
+      "receiptSha256": "53ff7523f1ef5a654a993bfe2a9d88656937699da848cd13eebeec61b9a9c4aa"
+    },
+    {
+      "id": "gaozong-object",
+      "url": "https://digitalarchive.npm.gov.tw/Collection/Detail/14767?dep=P",
+      "quote": "宋朝高宗皇帝。徽宗子。欽宗弟。諱構。",
+      "location": "題跋資料 / 對幅",
+      "scope": "The facing inscription explicitly identifies Song Gaozong, personal name Gou; he is the right-hand portrait.",
+      "checkedAt": "2026-11-11",
+      "retrieval": "existing local source inspected",
+      "localReceipt": "research/v18/china-batch-08/14767-source.txt",
+      "receiptSha256": "42784417299afc3dd10f4c44d81eb90b1d2065c5763055548552aeb7455a01ad"
+    },
+    {
+      "id": "xie-biography",
+      "url": "https://zh.wikisource.org/wiki/宋書/卷67",
+      "quote": "出為永嘉太守。郡有名山水，靈運素所愛好",
+      "location": "Xie Lingyun biography, paragraph beginning 仍除宋國黃門侍郎",
+      "scope": "Early dynastic biography confirms Yongjia office, excursions and poetry; later in paragraph: 所至輙為詩詠，以致其意焉. No modern eyewitness or exact portrait date claimed.",
+      "checkedAt": "2026-11-11",
+      "retrieval": "opened through connected web search"
+    },
+    {
+      "id": "xie-nanxi",
+      "url": "https://www.forestry.gov.cn/c/www/dfdt/690169.jhtml",
+      "quote": "谢灵运出任永嘉太守，在此驻足，留下名诗佳句",
+      "location": "2026-09-28 Xinhua Daily Telegraph republication, second substantive paragraph",
+      "scope": "Supports local Nanxi/Yongjia literary association, not every scenic-tour claim or the assertion of a formally founded school.",
+      "checkedAt": "2026-11-11",
+      "retrieval": "opened through connected web search"
+    },
+    {
+      "id": "gaozong-1130",
+      "url": "https://zh.wikisource.org/wiki/宋史/卷026",
+      "quote": "甲子，泊溫州港口。",
+      "location": "Jianyan 4, first lunar month; second month: 庚寅，帝次溫州。",
+      "scope": "Later dynastic chronicle verifies Gaozong’s maritime refuge and Wenzhou presence in 1130. Read alongside Jiangxin secondary source; no exact Gregorian day asserted.",
+      "checkedAt": "2026-11-11",
+      "retrieval": "opened through connected web search"
+    },
+    {
+      "id": "gaozong-jiangxin",
+      "url": "https://news.66wz.com/system/2022/05/04/105464487.shtml",
+      "quote": "二月初二，御舟停驻温州江心寺。",
+      "location": "Paragraph beginning 高宗居留瓯江口期間",
+      "scope": "Corroborates Jiangxin stage of refuge, not a scene shown by the portrait. This article has unrelated conversion errors (Shaoxing 8 labelled 1140; Shaoxing 4 labelled 1184), which are explicitly not adopted.",
+      "checkedAt": "2026-11-11",
+      "retrieval": "opened through connected web search"
+    },
+    {
+      "id": "gaozong-1138",
+      "url": "https://paper.people.com.cn/rmrb/pc/content/202512/27/content_30127489.html",
+      "quote": "宋高宗下诏，正式以临安为“行在所”",
+      "location": "Second substantive paragraph, 2025-12-27, Sun Huan, China Grand Canal Museum",
+      "scope": "Dates the decision to 1138 and distinguishes formal xingzaisuo from de facto capital. Prefer this museum-authored account to the source with an unrelated 1279 fall-of-Linan error.",
+      "checkedAt": "2026-11-11",
+      "retrieval": "opened through connected web search"
+    }
+  ],
+  "held": [
+    {
+      "recordId": "china-event-zhanguo-015",
+      "decision": "excluded-by-assignment",
+      "reason": "Owner correction pass or explicit historical hold; no association emitted.",
+      "record": {
+        "id": "china-event-zhanguo-015",
+        "title": {
+          "en": "Bai Qi captures Chu capital Ying as Qu Yuan drowns; Tian Dan restores Qi (279 BCE)",
+          "zh": "秦白起拔楚都郢，屈原投江；前279年田单复齐"
+        },
+        "start": -278,
+        "end": -278,
+        "location": {
+          "lon": 112.2,
+          "lat": 30.35,
+          "label": "Ying (Jiangling)",
+          "labelI18n": {
+            "en": "Ying (Jiangling)",
+            "zh": "郢都（江陵）"
+          },
+          "labelProvenance": "inherited-source-place-pair"
+        },
+        "region": "east-asia",
+        "theme": "states",
+        "kind": "event",
+        "importance": 1,
+        "summary": {
+          "en": "Bai Qi captures Chu capital Ying as Qu Yuan drowns; Tian Dan restores Qi (279 BCE)",
+          "zh": "秦白起拔楚都郢，屈原投江；前279年田单复齐"
+        },
+        "dateNote": {
+          "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+          "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+        },
+        "locationPrecision": "representative",
+        "sources": [
+          {
+            "title": "Chronicles of the Realm — js/map_data.js (frozen source dataset)",
+            "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/map_data.js",
+            "publisher": "DeanChensj / Chronicles of the Realm",
+            "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+            "checkedAt": "2026-10-23"
+          }
+        ],
+        "aliases": [
+          "郢都（江陵）",
+          "Ying (Jiangling)"
+        ],
+        "provenance": {
+          "dataset": "jiangshan",
+          "status": "inherited",
+          "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+          "periodId": "zhanguo",
+          "periodIds": [
+            "zhanguo"
+          ],
+          "sourceRecords": [
+            {
+              "file": "js/map_data.js",
+              "path": "/DYNASTY_DATA/0/milestones/14",
+              "index": 14
+            }
+          ],
+          "note": {
+            "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+            "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+          }
+        },
+        "relatedIds": [
+          "zhou-dynasty"
+        ]
+      }
+    },
+    {
+      "recordId": "china-event-nansong-005",
+      "decision": "excluded-by-assignment",
+      "reason": "Owner correction pass or explicit historical hold; no association emitted.",
+      "record": {
+        "id": "china-event-nansong-005",
+        "title": {
+          "en": "Yue Fei's northern campaign wins victories at Yancheng and Zhuxianzhen",
+          "zh": "岳飞北伐，郾城、颍昌大捷，进兵朱仙镇"
+        },
+        "start": 1140,
+        "end": 1140,
+        "location": {
+          "lon": 114.021,
+          "lat": 33.581,
+          "label": "Yancheng / Zhuxianzhen",
+          "labelI18n": {
+            "en": "Yancheng / Zhuxianzhen",
+            "zh": "郾城 · 朱仙镇"
+          },
+          "labelProvenance": "inherited-source-place-pair"
+        },
+        "region": "east-asia",
+        "theme": "states",
+        "kind": "event",
+        "importance": 1,
+        "summary": {
+          "en": "Yue Fei's northern campaign wins victories at Yancheng and Zhuxianzhen",
+          "zh": "岳飞北伐，郾城、颍昌大捷，进兵朱仙镇"
+        },
+        "dateNote": {
+          "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+          "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+        },
+        "locationPrecision": "representative",
+        "sources": [
+          {
+            "title": "Chronicles of the Realm — js/map_data.js (frozen source dataset)",
+            "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/map_data.js",
+            "publisher": "DeanChensj / Chronicles of the Realm",
+            "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+            "checkedAt": "2026-10-23"
+          }
+        ],
+        "aliases": [
+          "郾城 · 朱仙镇",
+          "Yancheng / Zhuxianzhen"
+        ],
+        "provenance": {
+          "dataset": "jiangshan",
+          "status": "inherited",
+          "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+          "periodId": "nansong",
+          "periodIds": [
+            "nansong"
+          ],
+          "sourceRecords": [
+            {
+              "file": "js/map_data.js",
+              "path": "/DYNASTY_DATA/12/milestones/4",
+              "index": 4
+            }
+          ],
+          "note": {
+            "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+            "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+          }
+        },
+        "relatedIds": [
+          "southern-song",
+          "jurchen-jin-dynasty",
+          "western-xia-dynasty"
+        ]
+      }
+    },
+    {
+      "recordId": "china-landmark-068",
+      "decision": "excluded-by-assignment",
+      "reason": "Owner correction pass or explicit historical hold; no association emitted.",
+      "record": {
+        "id": "china-landmark-068",
+        "title": {
+          "en": "Candlelight and Axe-Sound Mystery at Wansui Hall: Emperor Taizu dies and Taizong ascends",
+          "zh": "斧声烛影：宋太祖与晋王赵光义夜饮万岁殿暴崩，宋太宗即位"
+        },
+        "start": 976,
+        "end": 976,
+        "location": {
+          "lon": 114.35,
+          "lat": 34.79,
+          "label": "Dongjing (Kaifeng)",
+          "labelI18n": {
+            "en": "Dongjing (Kaifeng)",
+            "zh": "东京开封府"
+          },
+          "labelProvenance": "inherited-source-place-pair"
+        },
+        "region": "east-asia",
+        "theme": "states",
+        "kind": "event",
+        "importance": 1,
+        "summary": {
+          "en": "Candlelight and Axe-Sound Mystery at Wansui Hall: Emperor Taizu dies and Taizong ascends",
+          "zh": "斧声烛影：宋太祖与晋王赵光义夜饮万岁殿暴崩，宋太宗即位"
+        },
+        "dateNote": {
+          "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+          "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+        },
+        "locationPrecision": "representative",
+        "sources": [
+          {
+            "title": "Chronicles of the Realm — js/lore_data.js (frozen source dataset)",
+            "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/lore_data.js",
+            "publisher": "DeanChensj / Chronicles of the Realm",
+            "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+            "checkedAt": "2026-10-23"
+          }
+        ],
+        "aliases": [
+          "东京开封府",
+          "Dongjing (Kaifeng)"
+        ],
+        "provenance": {
+          "dataset": "jiangshan",
+          "status": "inherited",
+          "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+          "periodId": "beisong",
+          "periodIds": [
+            "beisong"
+          ],
+          "sourceRecords": [
+            {
+              "file": "js/lore_data.js",
+              "path": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/67",
+              "index": 67
+            }
+          ],
+          "note": {
+            "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+            "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+          }
+        },
+        "relatedIds": [
+          "northern-song",
+          "liao-dynasty"
+        ]
+      }
+    },
+    {
+      "recordId": "china-landmark-443",
+      "decision": "excluded-by-assignment",
+      "reason": "Owner correction pass or explicit historical hold; no association emitted.",
+      "record": {
+        "id": "china-landmark-443",
+        "title": {
+          "en": "Tao Yuanming farms beneath Mount Lu, writing Picking chrysanthemums by the eastern hedge",
+          "zh": "陶渊明归隐庐山栗里躬耕垄亩，赋“采菊东篱下，悠然见南山”"
+        },
+        "start": 393,
+        "end": 393,
+        "location": {
+          "lon": 115.99,
+          "lat": 29.56,
+          "label": "Chestnut Lane, Mt. Lu",
+          "labelI18n": {
+            "en": "Chestnut Lane, Mt. Lu",
+            "zh": "庐山栗里（柴桑）"
+          },
+          "labelProvenance": "inherited-source-place-pair"
+        },
+        "region": "east-asia",
+        "theme": "culture",
+        "kind": "event",
+        "importance": 1,
+        "summary": {
+          "en": "Tao Yuanming farms beneath Mount Lu, writing Picking chrysanthemums by the eastern hedge",
+          "zh": "陶渊明归隐庐山栗里躬耕垄亩，赋“采菊东篱下，悠然见南山”"
+        },
+        "dateNote": {
+          "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+          "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+        },
+        "locationPrecision": "representative",
+        "sources": [
+          {
+            "title": "Chronicles of the Realm — js/lore_data.js (frozen source dataset)",
+            "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/lore_data.js",
+            "publisher": "DeanChensj / Chronicles of the Realm",
+            "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+            "checkedAt": "2026-10-23"
+          }
+        ],
+        "aliases": [
+          "庐山栗里（柴桑）",
+          "Chestnut Lane, Mt. Lu"
+        ],
+        "provenance": {
+          "dataset": "jiangshan",
+          "status": "inherited",
+          "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+          "periodId": "dongjin",
+          "periodIds": [
+            "dongjin"
+          ],
+          "sourceRecords": [
+            {
+              "file": "js/lore_data.js",
+              "path": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/442",
+              "index": 442
+            }
+          ],
+          "note": {
+            "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+            "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+          }
+        },
+        "relatedIds": [
+          "eastern-jin-dynasty",
+          "northern-wei-dynasty"
+        ]
+      }
+    },
+    {
+      "recordId": "china-landmark-039",
+      "decision": "excluded-by-assignment",
+      "reason": "Owner correction pass or explicit historical hold; no association emitted.",
+      "record": {
+        "id": "china-landmark-039",
+        "title": {
+          "en": "Sun Quan moves his capital to Jianye (Nanjing) and proclaims the Eastern Wu Empire",
+          "zh": "孙权自武昌迁都建业（今南京），正式称帝建立东吴"
+        },
+        "start": 229,
+        "end": 229,
+        "location": {
+          "lon": 118.78,
+          "lat": 32.06,
+          "label": "Jianye (Nanjing)",
+          "labelI18n": {
+            "en": "Jianye (Nanjing)",
+            "zh": "建业"
+          },
+          "labelProvenance": "inherited-source-place-pair"
+        },
+        "region": "east-asia",
+        "theme": "cities",
+        "kind": "event",
+        "importance": 1,
+        "summary": {
+          "en": "Sun Quan moves his capital to Jianye (Nanjing) and proclaims the Eastern Wu Empire",
+          "zh": "孙权自武昌迁都建业（今南京），正式称帝建立东吴"
+        },
+        "dateNote": {
+          "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+          "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+        },
+        "locationPrecision": "representative",
+        "sources": [
+          {
+            "title": "Chronicles of the Realm — js/lore_data.js (frozen source dataset)",
+            "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/lore_data.js",
+            "publisher": "DeanChensj / Chronicles of the Realm",
+            "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+            "checkedAt": "2026-10-23"
+          }
+        ],
+        "aliases": [
+          "建业",
+          "Jianye (Nanjing)"
+        ],
+        "provenance": {
+          "dataset": "jiangshan",
+          "status": "inherited",
+          "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+          "periodId": "sanguo",
+          "periodIds": [
+            "sanguo"
+          ],
+          "sourceRecords": [
+            {
+              "file": "js/lore_data.js",
+              "path": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/38",
+              "index": 38
+            }
+          ],
+          "note": {
+            "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+            "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+          }
+        },
+        "relatedIds": []
+      }
+    },
+    {
+      "recordId": "china-landmark-225",
+      "decision": "excluded-by-assignment",
+      "reason": "Owner correction pass or explicit historical hold; no association emitted.",
+      "record": {
+        "id": "china-landmark-225",
+        "title": {
+          "en": "Emperor Lizong of Song elevates his former fief Shao Zhou to Baoqing Prefecture (Shaoyang)",
+          "zh": "宋理宗赵昀即位改元宝庆，以潜邸升邵州为宝庆府，控扼湘西南"
+        },
+        "start": 1225,
+        "end": 1225,
+        "location": {
+          "lon": 111.47,
+          "lat": 27.24,
+          "label": "Baoqing Prefecture (Shaoyang, Hunan)",
+          "labelI18n": {
+            "en": "Baoqing Prefecture (Shaoyang, Hunan)",
+            "zh": "宝庆府（今湖南邵阳）"
+          },
+          "labelProvenance": "inherited-source-place-pair"
+        },
+        "region": "east-asia",
+        "theme": "states",
+        "kind": "event",
+        "importance": 1,
+        "summary": {
+          "en": "Emperor Lizong of Song elevates his former fief Shao Zhou to Baoqing Prefecture (Shaoyang)",
+          "zh": "宋理宗赵昀即位改元宝庆，以潜邸升邵州为宝庆府，控扼湘西南"
+        },
+        "dateNote": {
+          "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+          "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+        },
+        "locationPrecision": "representative",
+        "sources": [
+          {
+            "title": "Chronicles of the Realm — js/lore_data.js (frozen source dataset)",
+            "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/lore_data.js",
+            "publisher": "DeanChensj / Chronicles of the Realm",
+            "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+            "checkedAt": "2026-10-23"
+          }
+        ],
+        "aliases": [
+          "宝庆府（今湖南邵阳）",
+          "Baoqing Prefecture (Shaoyang, Hunan)"
+        ],
+        "provenance": {
+          "dataset": "jiangshan",
+          "status": "inherited",
+          "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+          "periodId": "nansong",
+          "periodIds": [
+            "nansong"
+          ],
+          "sourceRecords": [
+            {
+              "file": "js/lore_data.js",
+              "path": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/224",
+              "index": 224
+            }
+          ],
+          "note": {
+            "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+            "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+          }
+        },
+        "relatedIds": [
+          "southern-song",
+          "jurchen-jin-dynasty",
+          "western-xia-dynasty"
+        ]
+      }
+    },
+    {
+      "recordId": "china-event-ming-019",
+      "decision": "excluded-by-assignment",
+      "reason": "Owner correction pass or explicit historical hold; no association emitted.",
+      "record": {
+        "id": "china-event-ming-019",
+        "title": {
+          "en": "Emperor Xianzong sets up the Western Depot; Ming-Joseon forces launch the Chenghua Campaign",
+          "zh": "明宪宗设西厂；汪直、朱永联合朝鲜发起“成化犁庭”"
+        },
+        "start": 1479,
+        "end": 1479,
+        "location": {
+          "lon": 124.75,
+          "lat": 41.73,
+          "label": "Beijing · Hetu Ala",
+          "labelI18n": {
+            "en": "Beijing · Hetu Ala",
+            "zh": "北京 · 赫图阿拉"
+          },
+          "labelProvenance": "inherited-source-place-pair"
+        },
+        "region": "east-asia",
+        "theme": "states",
+        "kind": "event",
+        "importance": 1,
+        "summary": {
+          "en": "Emperor Xianzong sets up the Western Depot; Ming-Joseon forces launch the Chenghua Campaign",
+          "zh": "明宪宗设西厂；汪直、朱永联合朝鲜发起“成化犁庭”"
+        },
+        "dateNote": {
+          "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+          "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+        },
+        "locationPrecision": "representative",
+        "sources": [
+          {
+            "title": "Chronicles of the Realm — js/map_data.js (frozen source dataset)",
+            "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/map_data.js",
+            "publisher": "DeanChensj / Chronicles of the Realm",
+            "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+            "checkedAt": "2026-10-23"
+          }
+        ],
+        "aliases": [
+          "北京 · 赫图阿拉",
+          "Beijing · Hetu Ala"
+        ],
+        "provenance": {
+          "dataset": "jiangshan",
+          "status": "inherited",
+          "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+          "periodId": "ming",
+          "periodIds": [
+            "ming"
+          ],
+          "sourceRecords": [
+            {
+              "file": "js/map_data.js",
+              "path": "/DYNASTY_DATA/14/milestones/18",
+              "index": 18
+            }
+          ],
+          "note": {
+            "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+            "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+          }
+        },
+        "relatedIds": [
+          "ming-dynasty"
+        ]
+      }
+    },
+    {
+      "recordId": "china-event-ming-013",
+      "decision": "excluded-by-assignment",
+      "reason": "Owner correction pass or explicit historical hold; no association emitted.",
+      "record": {
+        "id": "china-event-ming-013",
+        "title": {
+          "en": "Emperor Xuanzong abolishes Jiaozhi Province and withdraws from Vietnam; Le Loi founds Later Le",
+          "zh": "明宣宗罢交趾布政使司撤军弃安南，黎利建后黎朝"
+        },
+        "start": 1427,
+        "end": 1427,
+        "location": {
+          "lon": 105.851,
+          "lat": 21.031,
+          "label": "Jiaozhi (Hanoi)",
+          "labelI18n": {
+            "en": "Jiaozhi (Hanoi)",
+            "zh": "交趾（河内）"
+          },
+          "labelProvenance": "inherited-source-place-pair"
+        },
+        "region": "southeast-asia",
+        "theme": "states",
+        "kind": "event",
+        "importance": 1,
+        "summary": {
+          "en": "Emperor Xuanzong abolishes Jiaozhi Province and withdraws from Vietnam; Le Loi founds Later Le",
+          "zh": "明宣宗罢交趾布政使司撤军弃安南，黎利建后黎朝"
+        },
+        "dateNote": {
+          "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+          "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+        },
+        "locationPrecision": "representative",
+        "sources": [
+          {
+            "title": "Chronicles of the Realm — js/map_data.js (frozen source dataset)",
+            "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/map_data.js",
+            "publisher": "DeanChensj / Chronicles of the Realm",
+            "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+            "checkedAt": "2026-10-23"
+          }
+        ],
+        "aliases": [
+          "交趾（河内）",
+          "Jiaozhi (Hanoi)"
+        ],
+        "provenance": {
+          "dataset": "jiangshan",
+          "status": "inherited",
+          "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+          "periodId": "ming",
+          "periodIds": [
+            "ming"
+          ],
+          "sourceRecords": [
+            {
+              "file": "js/map_data.js",
+              "path": "/DYNASTY_DATA/14/milestones/12",
+              "index": 12
+            }
+          ],
+          "note": {
+            "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+            "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+          }
+        },
+        "relatedIds": [
+          "ming-dynasty"
+        ]
+      }
+    },
+    {
+      "recordId": "china-event-xihan-007",
+      "decision": "excluded-by-assignment",
+      "reason": "Owner correction pass or explicit historical hold; no association emitted.",
+      "record": {
+        "id": "china-event-xihan-007",
+        "title": {
+          "en": "Emperor Wu adopts Dong Zhongshu plan, elevating Confucianism and founding the Imperial Academy",
+          "zh": "汉武帝采董仲舒策罢黜百家、独尊儒术，兴太学置博士"
+        },
+        "start": -134,
+        "end": -134,
+        "location": {
+          "lon": 108.941,
+          "lat": 34.261,
+          "label": "Chang'an",
+          "labelI18n": {
+            "en": "Chang'an",
+            "zh": "长安"
+          },
+          "labelProvenance": "inherited-source-place-pair"
+        },
+        "region": "east-asia",
+        "theme": "states",
+        "kind": "event",
+        "importance": 1,
+        "summary": {
+          "en": "Emperor Wu adopts Dong Zhongshu plan, elevating Confucianism and founding the Imperial Academy",
+          "zh": "汉武帝采董仲舒策罢黜百家、独尊儒术，兴太学置博士"
+        },
+        "dateNote": {
+          "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+          "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+        },
+        "locationPrecision": "representative",
+        "sources": [
+          {
+            "title": "Chronicles of the Realm — js/map_data.js (frozen source dataset)",
+            "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/map_data.js",
+            "publisher": "DeanChensj / Chronicles of the Realm",
+            "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+            "checkedAt": "2026-10-23"
+          }
+        ],
+        "aliases": [
+          "长安",
+          "Chang'an"
+        ],
+        "provenance": {
+          "dataset": "jiangshan",
+          "status": "inherited",
+          "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+          "periodId": "xihan",
+          "periodIds": [
+            "xihan"
+          ],
+          "sourceRecords": [
+            {
+              "file": "js/map_data.js",
+              "path": "/DYNASTY_DATA/2/milestones/6",
+              "index": 6
+            }
+          ],
+          "note": {
+            "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+            "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+          }
+        },
+        "relatedIds": [
+          "han-dynasty"
+        ]
+      }
+    },
+    {
+      "recordId": "china-event-qing-023",
+      "decision": "excluded-by-assignment",
+      "reason": "Owner correction pass or explicit historical hold; no association emitted.",
+      "record": {
+        "id": "china-event-qing-023",
+        "title": {
+          "en": "Gorkha campaign concluded; 29-Article Ordinance and Golden Urn instituted",
+          "zh": "福康安击退廓尔喀，颁《钦定藏内善后章程》与金瓶掣签制"
+        },
+        "start": 1792,
+        "end": 1792,
+        "location": {
+          "lon": 91.111,
+          "lat": 29.651,
+          "label": "Lhasa",
+          "labelI18n": {
+            "en": "Lhasa",
+            "zh": "拉萨"
+          },
+          "labelProvenance": "inherited-source-place-pair"
+        },
+        "region": "east-asia",
+        "theme": "states",
+        "kind": "event",
+        "importance": 1,
+        "summary": {
+          "en": "Gorkha campaign concluded; 29-Article Ordinance and Golden Urn instituted",
+          "zh": "福康安击退廓尔喀，颁《钦定藏内善后章程》与金瓶掣签制"
+        },
+        "dateNote": {
+          "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+          "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+        },
+        "locationPrecision": "representative",
+        "sources": [
+          {
+            "title": "Chronicles of the Realm — js/map_data.js (frozen source dataset)",
+            "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/map_data.js",
+            "publisher": "DeanChensj / Chronicles of the Realm",
+            "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+            "checkedAt": "2026-10-23"
+          }
+        ],
+        "aliases": [
+          "拉萨",
+          "Lhasa"
+        ],
+        "provenance": {
+          "dataset": "jiangshan",
+          "status": "inherited",
+          "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+          "periodId": "qing",
+          "periodIds": [
+            "qing"
+          ],
+          "sourceRecords": [
+            {
+              "file": "js/map_data.js",
+              "path": "/DYNASTY_DATA/15/milestones/22",
+              "index": 22
+            }
+          ],
+          "note": {
+            "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+            "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+          }
+        },
+        "relatedIds": [
+          "qing-dynasty"
+        ]
+      }
+    }
+  ],
+  "rejected": [
+    {
+      "assetId": "china-batch-08-simaqian",
+      "recordId": "han-dynasty",
+      "decision": "reject",
+      "reason": "Sima Qian is one example in a broad institutional overview; do not fill this dynasty entry with one peripheral portrait.",
+      "record": {
+        "id": "han-dynasty",
+        "title": {
+          "en": "Han: an enduring model of empire",
+          "zh": "汉：延续深远的帝国模式"
+        },
+        "start": -206,
+        "end": 220,
+        "region": "east-asia",
+        "theme": "states",
+        "kind": "polity",
+        "importance": 5,
+        "location": {
+          "lat": 34.26,
+          "lon": 108.94,
+          "label": "Chang’an, near present-day Xi’an",
+          "labelI18n": {
+            "en": "Chang’an, near present-day Xi’an",
+            "zh": "长安，今西安附近"
+          },
+          "labelProvenance": "reviewed-display-translation"
+        },
+        "locationPrecision": "representative",
+        "summary": {
+          "en": "Han rulers rebuilt imperial power after Qin’s fall, developing a bureaucracy and a political culture shaped by classical learning. Chang’an became a major capital, while diplomacy and military campaigns linked the court with Central Asia. Sima Qian’s historical writing helped establish models for later dynastic histories. Elite tombs preserve household models, entertainment and beliefs about the afterlife, revealing social worlds beyond government alone. Han rule was interrupted by the Xin dynasty and later restored from Luoyang. Its institutional legacy lasted much longer than any stable set of imperial borders.",
+          "zh": "汉在秦亡后重建帝国，以官僚制度和经典学问塑造政治文化。长安成为大都会，外交与战争又将朝廷和中亚联系起来。司马迁的著述为后世史书提供重要范式。墓葬中的住宅、乐舞和来世形象，还展现了政治之外的社会生活。汉的统治曾被新朝打断，后来以洛阳为都城恢复；制度影响远比某一时刻的疆界持久。"
+        },
+        "dateNote": {
+          "en": "Dynastic frame 206 BCE–220 CE includes the 9–25 CE interruption; Western Han and Eastern Han had different capitals.",
+          "zh": "前206—公元220年的王朝框架包含公元9—25年的中断；西汉与东汉都城不同。"
+        },
+        "sources": [
+          {
+            "title": "Han Dynasty (206 B.C.–220 A.D.)",
+            "url": "https://www.metmuseum.org/essays/han-dynasty-206-b-c-220-a-d",
+            "publisher": "The Metropolitan Museum of Art",
+            "checkedAt": "2026-10-22",
+            "evidenceNote": "Dynastic frame 206 BCE–220 CE includes the 9–25 CE interruption; Western Han and Eastern Han had different capitals."
+          }
+        ]
+      },
+      "asset": {
+        "id": "china-batch-08-simaqian",
+        "file": "assets/history-media/china-batch-08-simaqian.jpg",
+        "recordIds": [
+          "china-landmark-437"
+        ],
+        "title": {
+          "en": "Sima Qian, right, and Yang Xiong, left",
+          "zh": "司马迁（右）与扬雄（左）"
+        },
+        "alt": {
+          "en": "Sima Qian, right, and Yang Xiong, left; two portraits with inscriptions on facing pages.",
+          "zh": "司马迁（右）与扬雄（左）；两幅肖像及题字保留在完整对开中。"
+        },
+        "caption": {
+          "en": "Historical portraits, painting date unestablished: Sima Qian, right, and Yang Xiong, left.",
+          "zh": "绘制年代未定的历史肖像：司马迁（右）与扬雄（左）。"
+        },
+        "interpretation": {
+          "en": "Sima Qian appears at right, facing Yang Xiong. The paired inscriptions and portraits place two writers within a remembered lineage of scholarship.",
+          "zh": "司马迁在右，与左页扬雄相对。成对的题字与肖像，把两位作者列入后世记忆中的学术谱系。"
+        },
+        "creator": "Anonymous Chinese artist",
+        "date": "Undated",
+        "institution": "National Palace Museum, Taipei; 中畫000328N000000008",
+        "kind": "portrait",
+        "representation": "historical-portrait",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/17845?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/C2A%2FC2A000328N000000008PAA/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/C2A%2FC2A000328N000000008PAA/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/17845?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "歷代聖賢半身像 冊 司馬遷。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "歷代聖賢半身像 冊 司馬遷。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 1400,
+        "height": 1048,
+        "bytes": 115658,
+        "sha256": "6f56c6df900d487a8d823e9abc211966598bbeb8bb3d571630c5101229078173",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, original derivative bytes and pixel-review contact sheet preserved in China batch 08.",
+        "contextSources": [],
+        "metadataI18n": {
+          "date": {
+            "en": "Undated",
+            "zh": "年代未详"
+          },
+          "creator": {
+            "en": "Anonymous Chinese artist",
+            "zh": "中国佚名艺术家"
+          },
+          "institution": {
+            "en": "National Palace Museum, Taipei; 中畫000328N000000008",
+            "zh": "台北故宫博物院；中畫000328N000000008"
+          }
+        }
+      }
+    },
+    {
+      "assetId": "china-batch-08-simaqian",
+      "recordId": "china-person-chensheng",
+      "decision": "reject",
+      "reason": "Narrator/historian is not the biography’s subject Chen Sheng.",
+      "record": {
+        "id": "china-person-chensheng",
+        "sourceProfileId": "china-person-chensheng",
+        "name": {
+          "en": "Chen Sheng",
+          "zh": "陈胜"
+        },
+        "title": {
+          "en": "Chen Sheng · a conscript becomes a king",
+          "zh": "陈胜 · 从戍卒到王"
+        },
+        "start": -209,
+        "end": -209,
+        "region": "east-asia",
+        "kind": "person",
+        "theme": "states",
+        "importance": 3,
+        "location": {
+          "lat": 33.74,
+          "lon": 115.69,
+          "label": "Dazexiang area, representative revolt setting",
+          "labelI18n": {
+            "en": "Dazexiang area, representative revolt setting",
+            "zh": "大泽乡地区，起事的代表地点"
+          }
+        },
+        "locationPrecision": "representative",
+        "summary": {
+          "en": "Chen Sheng enters Sima Qian’s history as a hired farm worker with ambitions beyond his assigned place. In 209 BCE, he and Wu Guang turned a group of men sent to frontier service into an armed challenge to Qin rule. Taking Chen, the insurgents proclaimed a restored Chu kingdom with Chen Sheng as king. Their success encouraged other commanders to establish power of their own, making a common rebellion difficult to direct. The biography records both the force of his challenge to inherited rank and the violence of his brief kingship. It offers a story of political possibility whose early promise did not guarantee durable institutions.",
+          "zh": "司马迁笔下的陈胜，最初是怀有远大志向的佣耕者。公元前209年，他与吴广把一队被征发戍边的人组织成反抗秦朝的武装。攻占陈地后，起事者建立张楚政权，拥陈胜为王。他的成功推动其他将领另立权力中心，也使共同的反秦事业难以统一指挥。传记既保存了对世袭地位的挑战，也记述其短暂王权中的暴力。这个故事呈现了政治变动的可能，同时说明最初的动员并不能保证制度长久。"
+        },
+        "dateNote": {
+          "en": "209 BCE is the focus year of rebellion and kingship. Reign-year dates in the primary texts are expressed as civil years. Map points are representative.",
+          "zh": "公元前209年为起事与称王的聚焦年份。原典年号纪年换算为公元纪年；地图点为代表位置。"
+        },
+        "sources": [
+          {
+            "title": "史記 卷048",
+            "publisher": "Sima Qian; public-domain primary text, Wikisource transcription",
+            "url": "https://zh.wikisource.org/wiki/史記/卷048",
+            "evidenceNote": "Opening and kingship passages support the conscription setting, 209 BCE rebellion, Chen capital and fragmentation. The reported threat of execution for delay is not asserted as a universal rule of Qin law.",
+            "evidenceNoteZh": "开篇及称王段支持征发背景、前209年起事、陈地政权与分裂；未将误期必死的叙述视为秦律的普遍规定。",
+            "checkedAt": "2026-11-09",
+            "retrieval": "opened-page-primary-text"
+          }
+        ],
+        "milestones": [
+          {
+            "year": -209,
+            "title": {
+              "en": "Revolt with Wu Guang",
+              "zh": "与吴广起事"
+            },
+            "description": {
+              "en": "Conscripted men became the nucleus of an anti-Qin force.",
+              "zh": "被征发者成为反秦武装的核心。"
+            },
+            "location": {
+              "lat": 33.74,
+              "lon": 115.69,
+              "label": "Dazexiang area, representative revolt setting",
+              "labelI18n": {
+                "en": "Dazexiang area, representative revolt setting",
+                "zh": "大泽乡地区，起事的代表地点"
+              }
+            }
+          },
+          {
+            "year": -209,
+            "title": {
+              "en": "Kingship at Chen",
+              "zh": "在陈地称王"
+            },
+            "description": {
+              "en": "A rising force took territorial and royal form as Zhang Chu.",
+              "zh": "起事武装在张楚政权中取得领土与王权形式。"
+            },
+            "location": {
+              "lat": 33.73,
+              "lon": 114.89,
+              "label": "Chen, near present-day Huaiyang",
+              "labelI18n": {
+                "en": "Chen, near present-day Huaiyang",
+                "zh": "陈，今淮阳附近"
+              }
+            }
+          }
+        ],
+        "relatedIds": [
+          "qin-unification",
+          "china-person-xiangyu"
+        ],
+        "expansion": {
+          "release": 11,
+          "edition": "v17",
+          "workstreams": [
+            "CH1",
+            "CH2"
+          ],
+          "sourceReview": "Original bilingual reading of inspected dynastic histories. Retrospective judgments and reported speeches are treated as evidence of historical representation.",
+          "reviewLimit": {
+            "en": "The dynastic history is a retrospective account. Its moral judgments, speeches and army totals are not adopted as independently verified facts.",
+            "zh": "正史属于事后编纂的叙述；其中道德评价、人物对话和军队总数不直接视为独立核实的事实。"
+          }
+        },
+        "chronologyReview": {
+          "status": "limited-dated-evidence",
+          "note": {
+            "en": "Two distinct episodes are supported in the revolt year. The inherited birth year and the 207 BCE death date are not retained; precise conversion of the later death month is outside this profile.",
+            "zh": "起事年份可支持两个独立事迹。未保留原目录的出生年与前207年卒年；后续去世月份的精确换算不在本条范围内。"
+          },
+          "sourceURLs": [
+            "https://zh.wikisource.org/wiki/史記/卷048"
+          ],
+          "checkedAt": "2026-11-09"
+        }
+      },
+      "asset": {
+        "id": "china-batch-08-simaqian",
+        "file": "assets/history-media/china-batch-08-simaqian.jpg",
+        "recordIds": [
+          "china-landmark-437"
+        ],
+        "title": {
+          "en": "Sima Qian, right, and Yang Xiong, left",
+          "zh": "司马迁（右）与扬雄（左）"
+        },
+        "alt": {
+          "en": "Sima Qian, right, and Yang Xiong, left; two portraits with inscriptions on facing pages.",
+          "zh": "司马迁（右）与扬雄（左）；两幅肖像及题字保留在完整对开中。"
+        },
+        "caption": {
+          "en": "Historical portraits, painting date unestablished: Sima Qian, right, and Yang Xiong, left.",
+          "zh": "绘制年代未定的历史肖像：司马迁（右）与扬雄（左）。"
+        },
+        "interpretation": {
+          "en": "Sima Qian appears at right, facing Yang Xiong. The paired inscriptions and portraits place two writers within a remembered lineage of scholarship.",
+          "zh": "司马迁在右，与左页扬雄相对。成对的题字与肖像，把两位作者列入后世记忆中的学术谱系。"
+        },
+        "creator": "Anonymous Chinese artist",
+        "date": "Undated",
+        "institution": "National Palace Museum, Taipei; 中畫000328N000000008",
+        "kind": "portrait",
+        "representation": "historical-portrait",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/17845?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/C2A%2FC2A000328N000000008PAA/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/C2A%2FC2A000328N000000008PAA/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/17845?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "歷代聖賢半身像 冊 司馬遷。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "歷代聖賢半身像 冊 司馬遷。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 1400,
+        "height": 1048,
+        "bytes": 115658,
+        "sha256": "6f56c6df900d487a8d823e9abc211966598bbeb8bb3d571630c5101229078173",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, original derivative bytes and pixel-review contact sheet preserved in China batch 08.",
+        "contextSources": [],
+        "metadataI18n": {
+          "date": {
+            "en": "Undated",
+            "zh": "年代未详"
+          },
+          "creator": {
+            "en": "Anonymous Chinese artist",
+            "zh": "中国佚名艺术家"
+          },
+          "institution": {
+            "en": "National Palace Museum, Taipei; 中畫000328N000000008",
+            "zh": "台北故宫博物院；中畫000328N000000008"
+          }
+        }
+      }
+    },
+    {
+      "assetId": "china-batch-08-sunquan-jinwudi",
+      "recordId": "china-landmark-330",
+      "decision": "prior-hold",
+      "reason": "Prior Ruxukou boating anecdote/217 chronology hold remains unresolved.",
+      "record": {
+        "id": "china-landmark-330",
+        "title": {
+          "en": "At Ruxukou Sun Quan sails boldly past Wei lines; Cao Cao sighs that sons should be like Sun",
+          "zh": "濡须口之战：曹操率大军南攻濡须，孙权乘大船入曹营观军"
+        },
+        "start": 217,
+        "end": 217,
+        "location": {
+          "lon": 117.88,
+          "lat": 31.45,
+          "label": "Ruxukou (Anhui)",
+          "labelI18n": {
+            "en": "Ruxukou (Anhui)",
+            "zh": "濡须口（无为）"
+          },
+          "labelProvenance": "inherited-source-place-pair"
+        },
+        "region": "east-asia",
+        "theme": "states",
+        "kind": "event",
+        "importance": 1,
+        "summary": {
+          "en": "At Ruxukou Sun Quan sails boldly past Wei lines; Cao Cao sighs that sons should be like Sun",
+          "zh": "濡须口之战：曹操率大军南攻濡须，孙权乘大船入曹营观军"
+        },
+        "dateNote": {
+          "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+          "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+        },
+        "locationPrecision": "representative",
+        "sources": [
+          {
+            "title": "Chronicles of the Realm — js/lore_data.js (frozen source dataset)",
+            "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/lore_data.js",
+            "publisher": "DeanChensj / Chronicles of the Realm",
+            "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+            "checkedAt": "2026-10-23"
+          }
+        ],
+        "aliases": [
+          "濡须口（无为）",
+          "Ruxukou (Anhui)"
+        ],
+        "provenance": {
+          "dataset": "jiangshan",
+          "status": "inherited",
+          "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+          "periodId": "donghan",
+          "periodIds": [
+            "donghan"
+          ],
+          "sourceRecords": [
+            {
+              "file": "js/lore_data.js",
+              "path": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/329",
+              "index": 329
+            }
+          ],
+          "note": {
+            "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+            "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+          }
+        },
+        "relatedIds": [
+          "han-dynasty"
+        ]
+      },
+      "asset": {
+        "id": "china-batch-08-sunquan-jinwudi",
+        "file": "assets/history-media/china-batch-08-sunquan-jinwudi.jpg",
+        "recordIds": [
+          "china-event-sanguo-014"
+        ],
+        "title": {
+          "en": "Sun Quan, right, and Emperor Wu of Jin, left",
+          "zh": "孙权（右）与晋武帝（左）"
+        },
+        "alt": {
+          "en": "Sun Quan, right, and Emperor Wu of Jin, left; two portraits with inscriptions on facing pages.",
+          "zh": "孙权（右）与晋武帝（左）；两幅肖像及题字保留在完整对开中。"
+        },
+        "caption": {
+          "en": "Historical portraits, painting date unestablished: Sun Quan, right, and Emperor Wu of Jin, left.",
+          "zh": "绘制年代未定的历史肖像：孙权（右）与晋武帝（左）。"
+        },
+        "interpretation": {
+          "en": "Sun Quan stands at right and Sima Yan at left. The matching courtly format brings the founders of Wu and Western Jin into the same historical album.",
+          "zh": "右页孙权、左页司马炎都采用宫廷全身像格式，把吴与西晋的创建者并置于同一历史图册。"
+        },
+        "creator": "Anonymous Chinese artist",
+        "date": "Undated",
+        "institution": "National Palace Museum, Taipei; 中畫000330N000000011",
+        "kind": "portrait",
+        "representation": "historical-portrait",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/17973?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/C2A%2FC2A000330N000000011PAA/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/C2A%2FC2A000330N000000011PAA/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/17973?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "聖君賢臣全身像 冊 吳帝。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "聖君賢臣全身像 冊 吳帝。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 1400,
+        "height": 1048,
+        "bytes": 161278,
+        "sha256": "105353214e72dd9d675d817c1a50f57d010b165cbd7f8973b0b3cfd41435a2d4",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, original derivative bytes and pixel-review contact sheet preserved in China batch 08.",
+        "contextSources": [],
+        "metadataI18n": {
+          "date": {
+            "en": "Undated",
+            "zh": "年代未详"
+          },
+          "creator": {
+            "en": "Anonymous Chinese artist",
+            "zh": "中国佚名艺术家"
+          },
+          "institution": {
+            "en": "National Palace Museum, Taipei; 中畫000330N000000011",
+            "zh": "台北故宫博物院；中畫000330N000000011"
+          }
+        }
+      }
+    },
+    {
+      "assetId": "china-batch-08-sunquan-jinwudi",
+      "recordId": "china-landmark-440",
+      "decision": "reject",
+      "reason": "Lu Xun is the principal biographical actor, not Sun Quan. Prior episode-specific hold also remains.",
+      "record": {
+        "id": "china-landmark-440",
+        "title": {
+          "en": "Appointed Chancellor of Eastern Wu in Nanjing, Lu Xun remonstrates over the succession dispute",
+          "zh": "陆逊出任东吴丞相辅佐孙权，直言谏阻两宫太子废立之争，次年愤懑卒于建业"
+        },
+        "start": 244,
+        "end": 244,
+        "location": {
+          "lon": 118.78,
+          "lat": 32.06,
+          "label": "Jianye (Nanjing)",
+          "labelI18n": {
+            "en": "Jianye (Nanjing)",
+            "zh": "建业（南京）"
+          },
+          "labelProvenance": "inherited-source-place-pair"
+        },
+        "region": "east-asia",
+        "theme": "states",
+        "kind": "event",
+        "importance": 1,
+        "summary": {
+          "en": "Appointed Chancellor of Eastern Wu in Nanjing, Lu Xun remonstrates over the succession dispute",
+          "zh": "陆逊出任东吴丞相辅佐孙权，直言谏阻两宫太子废立之争，次年愤懑卒于建业"
+        },
+        "dateNote": {
+          "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+          "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+        },
+        "locationPrecision": "representative",
+        "sources": [
+          {
+            "title": "Chronicles of the Realm — js/lore_data.js (frozen source dataset)",
+            "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/lore_data.js",
+            "publisher": "DeanChensj / Chronicles of the Realm",
+            "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+            "checkedAt": "2026-10-23"
+          }
+        ],
+        "aliases": [
+          "建业（南京）",
+          "Jianye (Nanjing)"
+        ],
+        "provenance": {
+          "dataset": "jiangshan",
+          "status": "inherited",
+          "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+          "periodId": "sanguo",
+          "periodIds": [
+            "sanguo"
+          ],
+          "sourceRecords": [
+            {
+              "file": "js/lore_data.js",
+              "path": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/439",
+              "index": 439
+            }
+          ],
+          "note": {
+            "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+            "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+          }
+        },
+        "relatedIds": []
+      },
+      "asset": {
+        "id": "china-batch-08-sunquan-jinwudi",
+        "file": "assets/history-media/china-batch-08-sunquan-jinwudi.jpg",
+        "recordIds": [
+          "china-event-sanguo-014"
+        ],
+        "title": {
+          "en": "Sun Quan, right, and Emperor Wu of Jin, left",
+          "zh": "孙权（右）与晋武帝（左）"
+        },
+        "alt": {
+          "en": "Sun Quan, right, and Emperor Wu of Jin, left; two portraits with inscriptions on facing pages.",
+          "zh": "孙权（右）与晋武帝（左）；两幅肖像及题字保留在完整对开中。"
+        },
+        "caption": {
+          "en": "Historical portraits, painting date unestablished: Sun Quan, right, and Emperor Wu of Jin, left.",
+          "zh": "绘制年代未定的历史肖像：孙权（右）与晋武帝（左）。"
+        },
+        "interpretation": {
+          "en": "Sun Quan stands at right and Sima Yan at left. The matching courtly format brings the founders of Wu and Western Jin into the same historical album.",
+          "zh": "右页孙权、左页司马炎都采用宫廷全身像格式，把吴与西晋的创建者并置于同一历史图册。"
+        },
+        "creator": "Anonymous Chinese artist",
+        "date": "Undated",
+        "institution": "National Palace Museum, Taipei; 中畫000330N000000011",
+        "kind": "portrait",
+        "representation": "historical-portrait",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/17973?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/C2A%2FC2A000330N000000011PAA/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/C2A%2FC2A000330N000000011PAA/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/17973?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "聖君賢臣全身像 冊 吳帝。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "聖君賢臣全身像 冊 吳帝。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 1400,
+        "height": 1048,
+        "bytes": 161278,
+        "sha256": "105353214e72dd9d675d817c1a50f57d010b165cbd7f8973b0b3cfd41435a2d4",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, original derivative bytes and pixel-review contact sheet preserved in China batch 08.",
+        "contextSources": [],
+        "metadataI18n": {
+          "date": {
+            "en": "Undated",
+            "zh": "年代未详"
+          },
+          "creator": {
+            "en": "Anonymous Chinese artist",
+            "zh": "中国佚名艺术家"
+          },
+          "institution": {
+            "en": "National Palace Museum, Taipei; 中畫000330N000000011",
+            "zh": "台北故宫博物院；中畫000330N000000011"
+          }
+        }
+      }
+    },
+    {
+      "assetId": "china-batch-08-liji",
+      "recordId": "china-event-nanbei-022",
+      "decision": "reject",
+      "reason": "Yuchi Jiong is not Yuchi Jingde; shared surname is a false match.",
+      "record": {
+        "id": "china-event-nanbei-022",
+        "title": {
+          "en": "Western Wei general Yuchi Jiong conquers Chengdu and annexes Sichuan from the Liang dynasty",
+          "zh": "西魏尉迟迥伐蜀攻克成都，尽取萧梁巴蜀益州之地"
+        },
+        "start": 553,
+        "end": 553,
+        "location": {
+          "lon": 104.071,
+          "lat": 30.571,
+          "label": "Chengdu",
+          "labelI18n": {
+            "en": "Chengdu",
+            "zh": "成都"
+          },
+          "labelProvenance": "inherited-source-place-pair"
+        },
+        "region": "east-asia",
+        "theme": "states",
+        "kind": "event",
+        "importance": 1,
+        "summary": {
+          "en": "Western Wei general Yuchi Jiong conquers Chengdu and annexes Sichuan from the Liang dynasty",
+          "zh": "西魏尉迟迥伐蜀攻克成都，尽取萧梁巴蜀益州之地"
+        },
+        "dateNote": {
+          "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+          "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+        },
+        "locationPrecision": "representative",
+        "sources": [
+          {
+            "title": "Chronicles of the Realm — js/map_data.js (frozen source dataset)",
+            "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/map_data.js",
+            "publisher": "DeanChensj / Chronicles of the Realm",
+            "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+            "checkedAt": "2026-10-23"
+          }
+        ],
+        "aliases": [
+          "成都",
+          "Chengdu"
+        ],
+        "provenance": {
+          "dataset": "jiangshan",
+          "status": "inherited",
+          "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+          "periodId": "nanbei",
+          "periodIds": [
+            "nanbei"
+          ],
+          "sourceRecords": [
+            {
+              "file": "js/map_data.js",
+              "path": "/DYNASTY_DATA/7/milestones/21",
+              "index": 21
+            }
+          ],
+          "note": {
+            "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+            "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+          }
+        },
+        "relatedIds": [
+          "liang-dynasty"
+        ]
+      },
+      "asset": {
+        "id": "china-batch-08-liji",
+        "file": "assets/history-media/china-batch-08-liji.jpg",
+        "recordIds": [
+          "china-event-tang-013"
+        ],
+        "title": {
+          "en": "Li Ji, right, and Yuchi Jingde, left",
+          "zh": "李勣（右）与尉迟敬德（左）"
+        },
+        "alt": {
+          "en": "Li Ji, right, and Yuchi Jingde, left; two portraits with inscriptions on facing pages.",
+          "zh": "李勣（右）与尉迟敬德（左）；两幅肖像及题字保留在完整对开中。"
+        },
+        "caption": {
+          "en": "Historical portraits, painting date unestablished: Li Ji, right, and Yuchi Jingde, left.",
+          "zh": "绘制年代未定的历史肖像：李勣（右）与尉迟敬德（左）。"
+        },
+        "interpretation": {
+          "en": "Li Ji appears at right, facing Yuchi Jingde. Compare their headwear, facial hair and the inscriptions that identify these remembered Tang commanders.",
+          "zh": "李勣在右，尉迟敬德在左。比较冠服、须髯与题字，看看册页如何辨识这两位唐代名将。"
+        },
+        "creator": "Anonymous Chinese artist",
+        "date": "Undated",
+        "institution": "National Palace Museum, Taipei; 中畫000328N000000015",
+        "kind": "portrait",
+        "representation": "historical-portrait",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/17859?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/C2A%2FC2A000328N000000015PAA/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/C2A%2FC2A000328N000000015PAA/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/17859?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "歷代聖賢半身像 冊 李勣。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "歷代聖賢半身像 冊 李勣。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 1400,
+        "height": 1048,
+        "bytes": 118333,
+        "sha256": "3a8d2f27a54528cca23454f1b82b6ff4a51d0f64e0c9c98e7193f4c905f959e2",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, original derivative bytes and pixel-review contact sheet preserved in China batch 08.",
+        "contextSources": [],
+        "metadataI18n": {
+          "date": {
+            "en": "Undated",
+            "zh": "年代未详"
+          },
+          "creator": {
+            "en": "Anonymous Chinese artist",
+            "zh": "中国佚名艺术家"
+          },
+          "institution": {
+            "en": "National Palace Museum, Taipei; 中畫000328N000000015",
+            "zh": "台北故宫博物院；中畫000328N000000015"
+          }
+        }
+      }
+    },
+    {
+      "assetId": "china-batch-06-tangxuanzong",
+      "recordId": "china-landmark-245",
+      "decision": "reject",
+      "reason": "Hun Jian and the treaty ambush are central; commissioning ruler Dezong is insufficient.",
+      "record": {
+        "id": "china-landmark-245",
+        "title": {
+          "en": "Tibetan forces ambush Tang envoy Hun Jian during treaty talks in the Ambush of Pingliang",
+          "zh": "唐德宗遣浑瑊与吐蕃会盟于平凉川，吐蕃伏兵劫盟史称平凉劫盟"
+        },
+        "start": 787,
+        "end": 787,
+        "location": {
+          "lon": 106.67,
+          "lat": 35.54,
+          "label": "Pingliang (Gansu)",
+          "labelI18n": {
+            "en": "Pingliang (Gansu)",
+            "zh": "平凉川（今甘肃平凉）"
+          },
+          "labelProvenance": "inherited-source-place-pair"
+        },
+        "region": "east-asia",
+        "theme": "states",
+        "kind": "event",
+        "importance": 1,
+        "summary": {
+          "en": "Tibetan forces ambush Tang envoy Hun Jian during treaty talks in the Ambush of Pingliang",
+          "zh": "唐德宗遣浑瑊与吐蕃会盟于平凉川，吐蕃伏兵劫盟史称平凉劫盟"
+        },
+        "dateNote": {
+          "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+          "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+        },
+        "locationPrecision": "representative",
+        "sources": [
+          {
+            "title": "Chronicles of the Realm — js/lore_data.js (frozen source dataset)",
+            "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/lore_data.js",
+            "publisher": "DeanChensj / Chronicles of the Realm",
+            "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+            "checkedAt": "2026-10-23"
+          }
+        ],
+        "aliases": [
+          "平凉川（今甘肃平凉）",
+          "Pingliang (Gansu)"
+        ],
+        "provenance": {
+          "dataset": "jiangshan",
+          "status": "inherited",
+          "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+          "periodId": "tang",
+          "periodIds": [
+            "tang"
+          ],
+          "sourceRecords": [
+            {
+              "file": "js/lore_data.js",
+              "path": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/244",
+              "index": 244
+            }
+          ],
+          "note": {
+            "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+            "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+          }
+        },
+        "relatedIds": [
+          "tang-dynasty"
+        ]
+      },
+      "asset": {
+        "title": {
+          "en": "Xuanzong in an album of exemplary rulers",
+          "zh": "《圣君贤臣全身像》中的唐玄宗"
+        },
+        "alt": {
+          "en": "Xuanzong stands on the right page in ceremonial robes; Emperor Dezong occupies the left page.",
+          "zh": "右页为身着礼服的唐玄宗，左页为唐德宗。"
+        },
+        "caption": {
+          "en": "Later portrait of Xuanzong, right, with Dezong on the facing page. Date unestablished.",
+          "zh": "后世唐玄宗像在右页，对页为唐德宗；绘制年代未定。"
+        },
+        "interpretation": {
+          "en": "This album remembers Xuanzong as one ruler in a long dynastic succession. The uniform ceremonial setting differs from the poetry, music and rebellion associated with his reign.",
+          "zh": "册页把玄宗放在漫长的帝王序列中；统一的礼仪形象，与他在位时的诗歌、音乐和叛乱形成不同的观看角度。"
+        },
+        "creator": "Anonymous Chinese artist",
+        "date": "Unknown",
+        "institution": "National Palace Museum, Taipei; 中畫00033000027",
+        "kind": "portrait",
+        "representation": "later-depiction",
+        "id": "china-batch-06-tangxuanzong",
+        "file": "assets/history-media/china-batch-06-tangxuanzong.jpg",
+        "recordIds": [
+          "china-person-tangxuanzong"
+        ],
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/17979?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/C2A%2FC2A000330N000000014PAA/full/full/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/17979?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "聖君賢臣全身像 冊 玄宗。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "聖君賢臣全身像 冊 玄宗。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/C2A%2FC2A000330N000000014PAA/full/1400,/0/default.jpg",
+        "width": 1400,
+        "height": 1048,
+        "bytes": 154619,
+        "sha256": "e1c8c3fa071733a3eeb3fc9d6a33999fe5aa807588a7eec0da93a009c87d31cd",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Smaller derivative supplied by the source image service, saved unchanged. Full source framing retained; no local image editing or conversion.",
+          "zh": "采用来源图像服务提供的小尺寸版本，原样保存。保留完整取景，未作本地图像编辑或格式转换。"
+        },
+        "retrieval": "Source-served derivative downloaded and decoded; pixels checked against the preserved original. Exact production auditHistoryMedia validator and loadAtlasRecords IDs used.",
+        "contextSources": [
+          {
+            "title": {
+              "en": "Collection / source: Xuanzong in an album of exemplary rulers",
+              "zh": "馆藏或来源：《圣君贤臣全身像》中的唐玄宗"
+            },
+            "url": "https://digitalarchive.npm.gov.tw/Collection/Detail/17979?dep=P"
+          },
+          {
+            "title": {
+              "en": "Tang dynasty: art and historical context",
+              "zh": "唐代艺术与历史背景"
+            },
+            "url": "https://www.metmuseum.org/essays/tang-dynasty-618-906"
+          }
+        ],
+        "metadataI18n": {
+          "date": {
+            "en": "Unknown",
+            "zh": "年代不详"
+          },
+          "creator": {
+            "en": "Anonymous Chinese artist",
+            "zh": "中国佚名艺术家"
+          },
+          "institution": {
+            "en": "National Palace Museum, Taipei; 中畫00033000027",
+            "zh": "台北故宫博物院；中畫00033000027"
+          }
+        }
+      }
+    },
+    {
+      "assetId": "china-batch-08-yuefei-zhuxi",
+      "recordId": "china-landmark-501",
+      "decision": "prior-hold",
+      "reason": "Enlistment age and maternal-exhortation anecdote remain held.",
+      "record": {
+        "id": "china-landmark-501",
+        "title": {
+          "en": "Twenty-year-old Yue Fei enlists in the army from his hometown Tangyin, vowed to loyal service",
+          "zh": "二十岁的农家子岳飞自相州汤阴应募从军，母勉以尽忠报国"
+        },
+        "start": 1122,
+        "end": 1122,
+        "location": {
+          "lon": 114.36,
+          "lat": 35.92,
+          "label": "Tangyin, Xiangzhou (Anyang, Henan)",
+          "labelI18n": {
+            "en": "Tangyin, Xiangzhou (Anyang, Henan)",
+            "zh": "相州汤阴（今河南安阳汤阴）"
+          },
+          "labelProvenance": "inherited-source-place-pair"
+        },
+        "region": "east-asia",
+        "theme": "states",
+        "kind": "event",
+        "importance": 1,
+        "summary": {
+          "en": "Twenty-year-old Yue Fei enlists in the army from his hometown Tangyin, vowed to loyal service",
+          "zh": "二十岁的农家子岳飞自相州汤阴应募从军，母勉以尽忠报国"
+        },
+        "dateNote": {
+          "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+          "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+        },
+        "locationPrecision": "representative",
+        "sources": [
+          {
+            "title": "Chronicles of the Realm — js/lore_data.js (frozen source dataset)",
+            "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/lore_data.js",
+            "publisher": "DeanChensj / Chronicles of the Realm",
+            "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+            "checkedAt": "2026-10-23"
+          }
+        ],
+        "aliases": [
+          "相州汤阴（今河南安阳汤阴）",
+          "Tangyin, Xiangzhou (Anyang, Henan)"
+        ],
+        "provenance": {
+          "dataset": "jiangshan",
+          "status": "inherited",
+          "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+          "periodId": "beisong",
+          "periodIds": [
+            "beisong"
+          ],
+          "sourceRecords": [
+            {
+              "file": "js/lore_data.js",
+              "path": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/500",
+              "index": 500
+            }
+          ],
+          "note": {
+            "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+            "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+          }
+        },
+        "relatedIds": [
+          "northern-song",
+          "liao-dynasty",
+          "jurchen-jin-dynasty",
+          "western-xia-dynasty"
+        ]
+      },
+      "asset": {
+        "id": "china-batch-08-yuefei-zhuxi",
+        "file": "assets/history-media/china-batch-08-yuefei-zhuxi.jpg",
+        "recordIds": [
+          "china-event-nansong-009"
+        ],
+        "title": {
+          "en": "Yue Fei, right, and Zhu Xi, left",
+          "zh": "岳飞（右）与朱熹（左）"
+        },
+        "alt": {
+          "en": "Yue Fei, right, and Zhu Xi, left; two portraits with inscriptions on facing pages.",
+          "zh": "岳飞（右）与朱熹（左）；两幅肖像及题字保留在完整对开中。"
+        },
+        "caption": {
+          "en": "Historical portraits, painting date unestablished: Yue Fei, right, and Zhu Xi, left.",
+          "zh": "绘制年代未定的历史肖像：岳飞（右）与朱熹（左）。"
+        },
+        "interpretation": {
+          "en": "Yue Fei’s military career and Zhu Xi’s teaching are represented by different people on the same opening. The paired portraits reveal a later canon that honors both military service and scholarship.",
+          "zh": "岳飞的军事经历与朱熹的讲学活动分别对应右、左两位人物；同一对开呈现后世兼重武功与学问的典范体系。"
+        },
+        "creator": "Anonymous Chinese artist",
+        "date": "Undated",
+        "institution": "National Palace Museum, Taipei; 中畫000328N000000028",
+        "kind": "portrait",
+        "representation": "historical-portrait",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/17885?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/C2A%2FC2A000328N000000028PAA/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/C2A%2FC2A000328N000000028PAA/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/17885?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "歷代聖賢半身像 冊 岳飛。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "歷代聖賢半身像 冊 岳飛。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 1400,
+        "height": 1048,
+        "bytes": 127026,
+        "sha256": "15b00cc080f2ead858240a93845bd79af0ee4908917fe02a4cf408ef7b48a0aa",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, original derivative bytes and pixel-review contact sheet preserved in China batch 08.",
+        "contextSources": [],
+        "metadataI18n": {
+          "date": {
+            "en": "Undated",
+            "zh": "年代未详"
+          },
+          "creator": {
+            "en": "Anonymous Chinese artist",
+            "zh": "中国佚名艺术家"
+          },
+          "institution": {
+            "en": "National Palace Museum, Taipei; 中畫000328N000000028",
+            "zh": "台北故宫博物院；中畫000328N000000028"
+          }
+        }
+      }
+    },
+    {
+      "assetId": "china-batch-08-yuefei-zhuxi",
+      "recordId": "china-landmark-086",
+      "decision": "prior-hold",
+      "reason": "Fengbo Pavilion death setting remains held.",
+      "record": {
+        "id": "china-landmark-086",
+        "title": {
+          "en": "General Yue Fei is executed at Fengbo Pavilion in Lin'an",
+          "zh": "绍兴和议达成，岳飞于临安风波亭遇害"
+        },
+        "start": 1142,
+        "end": 1142,
+        "location": {
+          "lon": 120.15,
+          "lat": 30.28,
+          "label": "Lin'an (Hangzhou)",
+          "labelI18n": {
+            "en": "Lin'an (Hangzhou)",
+            "zh": "临安府"
+          },
+          "labelProvenance": "inherited-source-place-pair"
+        },
+        "region": "east-asia",
+        "theme": "states",
+        "kind": "event",
+        "importance": 1,
+        "summary": {
+          "en": "General Yue Fei is executed at Fengbo Pavilion in Lin'an",
+          "zh": "绍兴和议达成，岳飞于临安风波亭遇害"
+        },
+        "dateNote": {
+          "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+          "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+        },
+        "locationPrecision": "representative",
+        "sources": [
+          {
+            "title": "Chronicles of the Realm — js/lore_data.js (frozen source dataset)",
+            "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/lore_data.js",
+            "publisher": "DeanChensj / Chronicles of the Realm",
+            "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+            "checkedAt": "2026-10-23"
+          }
+        ],
+        "aliases": [
+          "临安府",
+          "Lin'an (Hangzhou)"
+        ],
+        "provenance": {
+          "dataset": "jiangshan",
+          "status": "inherited",
+          "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+          "periodId": "nansong",
+          "periodIds": [
+            "nansong"
+          ],
+          "sourceRecords": [
+            {
+              "file": "js/lore_data.js",
+              "path": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/85",
+              "index": 85
+            }
+          ],
+          "note": {
+            "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+            "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+          }
+        },
+        "relatedIds": [
+          "southern-song",
+          "jurchen-jin-dynasty",
+          "western-xia-dynasty"
+        ]
+      },
+      "asset": {
+        "id": "china-batch-08-yuefei-zhuxi",
+        "file": "assets/history-media/china-batch-08-yuefei-zhuxi.jpg",
+        "recordIds": [
+          "china-event-nansong-009"
+        ],
+        "title": {
+          "en": "Yue Fei, right, and Zhu Xi, left",
+          "zh": "岳飞（右）与朱熹（左）"
+        },
+        "alt": {
+          "en": "Yue Fei, right, and Zhu Xi, left; two portraits with inscriptions on facing pages.",
+          "zh": "岳飞（右）与朱熹（左）；两幅肖像及题字保留在完整对开中。"
+        },
+        "caption": {
+          "en": "Historical portraits, painting date unestablished: Yue Fei, right, and Zhu Xi, left.",
+          "zh": "绘制年代未定的历史肖像：岳飞（右）与朱熹（左）。"
+        },
+        "interpretation": {
+          "en": "Yue Fei’s military career and Zhu Xi’s teaching are represented by different people on the same opening. The paired portraits reveal a later canon that honors both military service and scholarship.",
+          "zh": "岳飞的军事经历与朱熹的讲学活动分别对应右、左两位人物；同一对开呈现后世兼重武功与学问的典范体系。"
+        },
+        "creator": "Anonymous Chinese artist",
+        "date": "Undated",
+        "institution": "National Palace Museum, Taipei; 中畫000328N000000028",
+        "kind": "portrait",
+        "representation": "historical-portrait",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/17885?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/C2A%2FC2A000328N000000028PAA/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/C2A%2FC2A000328N000000028PAA/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/17885?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "歷代聖賢半身像 冊 岳飛。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "歷代聖賢半身像 冊 岳飛。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 1400,
+        "height": 1048,
+        "bytes": 127026,
+        "sha256": "15b00cc080f2ead858240a93845bd79af0ee4908917fe02a4cf408ef7b48a0aa",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, original derivative bytes and pixel-review contact sheet preserved in China batch 08.",
+        "contextSources": [],
+        "metadataI18n": {
+          "date": {
+            "en": "Undated",
+            "zh": "年代未详"
+          },
+          "creator": {
+            "en": "Anonymous Chinese artist",
+            "zh": "中国佚名艺术家"
+          },
+          "institution": {
+            "en": "National Palace Museum, Taipei; 中畫000328N000000028",
+            "zh": "台北故宫博物院；中畫000328N000000028"
+          }
+        }
+      }
+    },
+    {
+      "assetId": "china-batch-08-song-gaozong",
+      "recordId": "china-landmark-191",
+      "decision": "reject",
+      "reason": "Kong Duanyou and sacred heirlooms are central; Gaozong is contextual.",
+      "record": {
+        "id": "china-landmark-191",
+        "title": {
+          "en": "Duke Yansheng Kong Duanyou escorts sacred Confucian heirlooms south and settles in Quzhou",
+          "zh": "衍圣公孔端友负楷木圣像随宋高宗南渡，诏赐家衢州形成孔氏南宗"
+        },
+        "start": 1129,
+        "end": 1129,
+        "location": {
+          "lon": 118.87,
+          "lat": 28.97,
+          "label": "Qu Zhou (Quzhou, Zhejiang)",
+          "labelI18n": {
+            "en": "Qu Zhou (Quzhou, Zhejiang)",
+            "zh": "衢州（今浙江衢州）"
+          },
+          "labelProvenance": "inherited-source-place-pair"
+        },
+        "region": "east-asia",
+        "theme": "states",
+        "kind": "event",
+        "importance": 1,
+        "summary": {
+          "en": "Duke Yansheng Kong Duanyou escorts sacred Confucian heirlooms south and settles in Quzhou",
+          "zh": "衍圣公孔端友负楷木圣像随宋高宗南渡，诏赐家衢州形成孔氏南宗"
+        },
+        "dateNote": {
+          "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+          "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+        },
+        "locationPrecision": "representative",
+        "sources": [
+          {
+            "title": "Chronicles of the Realm — js/lore_data.js (frozen source dataset)",
+            "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/lore_data.js",
+            "publisher": "DeanChensj / Chronicles of the Realm",
+            "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+            "checkedAt": "2026-10-23"
+          }
+        ],
+        "aliases": [
+          "衢州（今浙江衢州）",
+          "Qu Zhou (Quzhou, Zhejiang)"
+        ],
+        "provenance": {
+          "dataset": "jiangshan",
+          "status": "inherited",
+          "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+          "periodId": "nansong",
+          "periodIds": [
+            "nansong"
+          ],
+          "sourceRecords": [
+            {
+              "file": "js/lore_data.js",
+              "path": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/190",
+              "index": 190
+            }
+          ],
+          "note": {
+            "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+            "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+          }
+        },
+        "relatedIds": [
+          "southern-song",
+          "jurchen-jin-dynasty",
+          "western-xia-dynasty"
+        ]
+      },
+      "asset": {
+        "id": "china-batch-08-song-gaozong",
+        "file": "assets/history-media/china-batch-08-song-gaozong.jpg",
+        "recordIds": [
+          "china-event-nansong-001"
+        ],
+        "title": {
+          "en": "Emperor Gaozong in the Song imperial album",
+          "zh": "宋代帝像册中的宋高宗"
+        },
+        "alt": {
+          "en": "Gaozong appears at right in a court cap and robe, with an identifying inscription on the left.",
+          "zh": "宋高宗戴冠着袍，位于右页；左页保留身份题记。"
+        },
+        "caption": {
+          "en": "Historical portrait of Song Gaozong; painting date unestablished. The complete mounted opening preserves portrait and identification.",
+          "zh": "宋高宗历史肖像，绘制年代未定；完整装裱对开保留画像及身份题记。"
+        },
+        "interpretation": {
+          "en": "The black court cap extends beyond the painted face. Compare the portrait’s close framing with the generous space around the identifying text.",
+          "zh": "黑色冠帽延伸至面容两侧。比较紧凑的人物构图与题字周围宽阔的留白。"
+        },
+        "creator": "Anonymous Chinese artist",
+        "date": "Undated",
+        "institution": "National Palace Museum, Taipei; 中畫000322N000000011",
+        "kind": "portrait",
+        "representation": "historical-portrait",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/14767?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/C2A%2FC2A000322N000000011PAA/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/C2A%2FC2A000322N000000011PAA/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/14767?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "宋代帝半身像 冊 宋高宗。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "宋代帝半身像 冊 宋高宗。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 1400,
+        "height": 1050,
+        "bytes": 195229,
+        "sha256": "f57f4913ffebaa9b14273a57f792eb6d63daca55acfbac95ad51364e7ee556c9",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, original derivative bytes and pixel-review contact sheet preserved in China batch 08.",
+        "contextSources": [],
+        "metadataI18n": {
+          "date": {
+            "en": "Undated",
+            "zh": "年代未详"
+          },
+          "creator": {
+            "en": "Anonymous Chinese artist",
+            "zh": "中国佚名艺术家"
+          },
+          "institution": {
+            "en": "National Palace Museum, Taipei; 中畫000322N000000011",
+            "zh": "台北故宫博物院；中畫000322N000000011"
+          }
+        }
+      }
+    },
+    {
+      "assetId": "china-batch-08-ming-yingzong",
+      "recordId": "china-event-yuan-008",
+      "decision": "reject",
+      "reason": "Yuan Yingzong is not Ming Yingzong.",
+      "record": {
+        "id": "china-event-yuan-008",
+        "title": {
+          "en": "Coup at Nanpo: Censor Tegshi assassinates reformist Emperor Yingzong and Chancellor Baiju",
+          "zh": "南坡之变：铁失于上都南坡行帐弑元英宗与丞相拜住"
+        },
+        "start": 1323,
+        "end": 1323,
+        "location": {
+          "lon": 116.181,
+          "lat": 42.151,
+          "label": "Nanpo (south of Shangdu)",
+          "labelI18n": {
+            "en": "Nanpo (south of Shangdu)",
+            "zh": "上都南坡（多伦南）"
+          },
+          "labelProvenance": "inherited-source-place-pair"
+        },
+        "region": "east-asia",
+        "theme": "states",
+        "kind": "event",
+        "importance": 1,
+        "summary": {
+          "en": "Coup at Nanpo: Censor Tegshi assassinates reformist Emperor Yingzong and Chancellor Baiju",
+          "zh": "南坡之变：铁失于上都南坡行帐弑元英宗与丞相拜住"
+        },
+        "dateNote": {
+          "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+          "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+        },
+        "locationPrecision": "representative",
+        "sources": [
+          {
+            "title": "Chronicles of the Realm — js/map_data.js (frozen source dataset)",
+            "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/map_data.js",
+            "publisher": "DeanChensj / Chronicles of the Realm",
+            "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+            "checkedAt": "2026-10-23"
+          }
+        ],
+        "aliases": [
+          "上都南坡（多伦南）",
+          "Nanpo (south of Shangdu)"
+        ],
+        "provenance": {
+          "dataset": "jiangshan",
+          "status": "inherited",
+          "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+          "periodId": "yuan",
+          "periodIds": [
+            "yuan"
+          ],
+          "sourceRecords": [
+            {
+              "file": "js/map_data.js",
+              "path": "/DYNASTY_DATA/13/milestones/7",
+              "index": 7
+            }
+          ],
+          "note": {
+            "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+            "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+          }
+        },
+        "relatedIds": [
+          "yuan-dynasty"
+        ]
+      },
+      "asset": {
+        "id": "china-batch-08-ming-yingzong",
+        "file": "assets/history-media/china-batch-08-ming-yingzong.jpg",
+        "recordIds": [
+          "china-event-ming-016"
+        ],
+        "title": {
+          "en": "Emperor Yingzong: a seated court portrait",
+          "zh": "明英宗宫廷坐像"
+        },
+        "alt": {
+          "en": "The Emperor Yingzong sits frontally on an ornate throne in a yellow dragon robe.",
+          "zh": "明英宗身着黄色龙袍，正面端坐于装饰华丽的宝座上。"
+        },
+        "caption": {
+          "en": "Historical court image of the Emperor Yingzong. The exact painting date is not given in the collection record.",
+          "zh": "明英宗的历史宫廷肖像；馆藏条目未给出确切绘制年代。"
+        },
+        "interpretation": {
+          "en": "A frontal pose and symmetrical throne give the seated ruler a composed presence. Compare this official image with the reversal of fortune in the Tumu story.",
+          "zh": "正面姿态与对称宝座，使端坐的君主显得沉稳。将这种官方形象与土木堡故事中的命运转折对照。"
+        },
+        "creator": "Anonymous Chinese artist",
+        "date": "Undated",
+        "institution": "National Palace Museum, Taipei; 中畫000314N000000000",
+        "kind": "portrait",
+        "representation": "historical-portrait",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/1876?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/C2A%2FC2A000314N000000000PAA/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/C2A%2FC2A000314N000000000PAA/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/1876?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "明英宗坐像 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "明英宗坐像 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 1049,
+        "height": 1400,
+        "bytes": 259307,
+        "sha256": "29c7f2a144ea18845c07db7c44dd9db4253983927511249e216abd12b19741b1",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, original derivative bytes and pixel-review contact sheet preserved in China batch 08.",
+        "contextSources": [],
+        "metadataI18n": {
+          "date": {
+            "en": "Undated",
+            "zh": "年代未详"
+          },
+          "creator": {
+            "en": "Anonymous Chinese artist",
+            "zh": "中国佚名艺术家"
+          },
+          "institution": {
+            "en": "National Palace Museum, Taipei; 中畫000314N000000000",
+            "zh": "台北故宫博物院；中畫000314N000000000"
+          }
+        }
+      }
+    },
+    {
+      "assetId": "china-batch-08-longqing",
+      "recordId": "china-event-ming-028",
+      "decision": "hold",
+      "reason": "Longqing is a reign-era label here; source review must establish the ruler’s specific decision and scope of licensed trade before substituting his portrait for the port/policy subject.",
+      "record": {
+        "id": "china-event-ming-028",
+        "title": {
+          "en": "Longqing Opening lifts maritime ban at Yuegang in Fujian",
+          "zh": "隆庆开关，于福建漳州月港开放海外贸易"
+        },
+        "start": 1567,
+        "end": 1567,
+        "location": {
+          "lon": 117.651,
+          "lat": 24.511,
+          "label": "Yuegang (Zhangzhou)",
+          "labelI18n": {
+            "en": "Yuegang (Zhangzhou)",
+            "zh": "月港（漳州）"
+          },
+          "labelProvenance": "inherited-source-place-pair"
+        },
+        "region": "east-asia",
+        "theme": "exchange",
+        "kind": "event",
+        "importance": 1,
+        "summary": {
+          "en": "Longqing Opening lifts maritime ban at Yuegang in Fujian",
+          "zh": "隆庆开关，于福建漳州月港开放海外贸易"
+        },
+        "dateNote": {
+          "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+          "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+        },
+        "locationPrecision": "representative",
+        "sources": [
+          {
+            "title": "Chronicles of the Realm — js/map_data.js (frozen source dataset)",
+            "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/map_data.js",
+            "publisher": "DeanChensj / Chronicles of the Realm",
+            "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+            "checkedAt": "2026-10-23"
+          }
+        ],
+        "aliases": [
+          "月港（漳州）",
+          "Yuegang (Zhangzhou)"
+        ],
+        "provenance": {
+          "dataset": "jiangshan",
+          "status": "inherited",
+          "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+          "periodId": "ming",
+          "periodIds": [
+            "ming"
+          ],
+          "sourceRecords": [
+            {
+              "file": "js/map_data.js",
+              "path": "/DYNASTY_DATA/14/milestones/27",
+              "index": 27
+            }
+          ],
+          "note": {
+            "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+            "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+          }
+        },
+        "relatedIds": [
+          "ming-dynasty"
+        ]
+      },
+      "asset": {
+        "id": "china-batch-08-longqing",
+        "file": "assets/history-media/china-batch-08-longqing.jpg",
+        "recordIds": [
+          "china-event-ming-029"
+        ],
+        "title": {
+          "en": "Longqing emperor: a seated court portrait",
+          "zh": "隆庆帝宫廷坐像"
+        },
+        "alt": {
+          "en": "The Longqing emperor sits frontally on an ornate throne in a yellow dragon robe.",
+          "zh": "隆庆帝身着黄色龙袍，正面端坐于装饰华丽的宝座上。"
+        },
+        "caption": {
+          "en": "Historical court image of the Longqing emperor. The exact painting date is not given in the collection record.",
+          "zh": "隆庆帝的历史宫廷肖像；馆藏条目未给出确切绘制年代。"
+        },
+        "interpretation": {
+          "en": "The throne’s high back frames the Longqing emperor, while large dragon patterns run down his robe. The seated figure and repeated ornaments organize the painting around imperial authority.",
+          "zh": "隆庆帝身后是高耸椅背，袍服上排列硕大的龙纹。端坐人物与重复装饰共同构成以皇权为中心的画面。"
+        },
+        "creator": "Anonymous Chinese artist",
+        "date": "Undated",
+        "institution": "National Palace Museum, Taipei; 中畫000319N000000000",
+        "kind": "portrait",
+        "representation": "historical-portrait",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/1881?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/C2A%2FC2A000319N000000000PAA/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/C2A%2FC2A000319N000000000PAA/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/1881?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "明穆宗坐像 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "明穆宗坐像 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 1051,
+        "height": 1400,
+        "bytes": 366129,
+        "sha256": "c00defd3a947e775212c3d372b393618b7af188474d64f32d989fcda408c15cf",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, original derivative bytes and pixel-review contact sheet preserved in China batch 08.",
+        "contextSources": [
+          {
+            "url": "https://www.npm.gov.tw/NewChineseArtDownload.ashx?bid=4661",
+            "title": {
+              "en": "NPM research on Ming–Mongol border exchange",
+              "zh": "故宫研究：明蒙边境互市"
+            }
+          }
+        ],
+        "metadataI18n": {
+          "date": {
+            "en": "Undated",
+            "zh": "年代未详"
+          },
+          "creator": {
+            "en": "Anonymous Chinese artist",
+            "zh": "中国佚名艺术家"
+          },
+          "institution": {
+            "en": "National Palace Museum, Taipei; 中畫000319N000000000",
+            "zh": "台北故宫博物院；中畫000319N000000000"
+          }
+        }
+      }
+    },
+    {
+      "assetId": "china-batch-08-wanli",
+      "recordId": "china-landmark-139",
+      "decision": "reject",
+      "reason": "Wanli is the reign period; Li Hualong and Hailongtun are the principal subjects.",
+      "record": {
+        "id": "china-landmark-139",
+        "title": {
+          "en": "Bozhou Campaign: Ming commander Li Hualong storms Hailongtun Fortress, ending Yang tusi rule",
+          "zh": "万历平播之役：李化龙督八路明军攻克海龙屯，灭播州杨氏土司改土归流"
+        },
+        "start": 1600,
+        "end": 1600,
+        "location": {
+          "lon": 106.82,
+          "lat": 27.81,
+          "label": "Hailongtun Fortress (Zunyi, Guizhou)",
+          "labelI18n": {
+            "en": "Hailongtun Fortress (Zunyi, Guizhou)",
+            "zh": "海龙屯（今贵州遵义）"
+          },
+          "labelProvenance": "inherited-source-place-pair"
+        },
+        "region": "east-asia",
+        "theme": "states",
+        "kind": "event",
+        "importance": 1,
+        "summary": {
+          "en": "Bozhou Campaign: Ming commander Li Hualong storms Hailongtun Fortress, ending Yang tusi rule",
+          "zh": "万历平播之役：李化龙督八路明军攻克海龙屯，灭播州杨氏土司改土归流"
+        },
+        "dateNote": {
+          "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+          "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+        },
+        "locationPrecision": "representative",
+        "sources": [
+          {
+            "title": "Chronicles of the Realm — js/lore_data.js (frozen source dataset)",
+            "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/lore_data.js",
+            "publisher": "DeanChensj / Chronicles of the Realm",
+            "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+            "checkedAt": "2026-10-23"
+          }
+        ],
+        "aliases": [
+          "海龙屯（今贵州遵义）",
+          "Hailongtun Fortress (Zunyi, Guizhou)"
+        ],
+        "provenance": {
+          "dataset": "jiangshan",
+          "status": "inherited",
+          "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+          "periodId": "ming",
+          "periodIds": [
+            "ming"
+          ],
+          "sourceRecords": [
+            {
+              "file": "js/lore_data.js",
+              "path": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/138",
+              "index": 138
+            }
+          ],
+          "note": {
+            "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+            "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+          }
+        },
+        "relatedIds": [
+          "ming-dynasty"
+        ]
+      },
+      "asset": {
+        "id": "china-batch-08-wanli",
+        "file": "assets/history-media/china-batch-08-wanli.jpg",
+        "recordIds": [
+          "china-landmark-419"
+        ],
+        "title": {
+          "en": "Wanli emperor: a seated court portrait",
+          "zh": "万历帝宫廷坐像"
+        },
+        "alt": {
+          "en": "The Wanli emperor sits frontally on an ornate throne in a yellow dragon robe.",
+          "zh": "万历帝身着黄色龙袍，正面端坐于装饰华丽的宝座上。"
+        },
+        "caption": {
+          "en": "Historical court image of the Wanli emperor. The exact painting date is not given in the collection record.",
+          "zh": "万历帝的历史宫廷肖像；馆藏条目未给出确切绘制年代。"
+        },
+        "interpretation": {
+          "en": "The portrait presents Wanli as an adult, richly dressed and seated beneath a high-backed throne. His ceremonial image belongs to a different stage of life from the child ruler in the reform story.",
+          "zh": "画像呈现成年万历帝，服饰华丽，端坐于高背宝座上。这种礼仪形象与改革故事中的幼帝属于不同人生阶段。"
+        },
+        "creator": "Anonymous Chinese artist",
+        "date": "Undated",
+        "institution": "National Palace Museum, Taipei; 中畫000297N000000000",
+        "kind": "portrait",
+        "representation": "historical-portrait",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/1859?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/C2A%2FC2A000297N000000000PAA/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/C2A%2FC2A000297N000000000PAA/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/1859?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "明神宗坐像 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "明神宗坐像 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 972,
+        "height": 1400,
+        "bytes": 221970,
+        "sha256": "32c9504733ed81e9dfa138d14ff9a0e48ae9433f908998b95a4658c2219bef8b",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, original derivative bytes and pixel-review contact sheet preserved in China batch 08.",
+        "contextSources": [],
+        "metadataI18n": {
+          "date": {
+            "en": "Undated",
+            "zh": "年代未详"
+          },
+          "creator": {
+            "en": "Anonymous Chinese artist",
+            "zh": "中国佚名艺术家"
+          },
+          "institution": {
+            "en": "National Palace Museum, Taipei; 中畫000297N000000000",
+            "zh": "台北故宫博物院；中畫000297N000000000"
+          }
+        }
+      }
+    },
+    {
+      "assetId": "china-batch-06-liuzongyuan",
+      "recordId": "china-gao-shi-fengqiu-office",
+      "decision": "reject",
+      "reason": "Bai Juyi is a comparison, not Gao Shi, the central poet/official.",
+      "record": {
+        "id": "china-gao-shi-fengqiu-office",
+        "title": {
+          "en": "Gao Shi at the county desk",
+          "zh": "县衙案前的高适"
+        },
+        "start": 749,
+        "end": 752,
+        "region": "east-asia",
+        "theme": "culture",
+        "kind": "culture",
+        "importance": 3,
+        "location": {
+          "lat": 35.04,
+          "lon": 114.42,
+          "label": "Fengqiu, representative county seat",
+          "labelI18n": {
+            "en": "Fengqiu, representative county seat",
+            "zh": "封丘，代表性县治"
+          }
+        },
+        "locationPrecision": "representative",
+        "summary": {
+          "en": "A county job brought Gao Shi close to the machinery of Tang government. Appointed to Fengqiu in 749, he described an office where even a small jurisdiction generated deadlines, formal greetings and punishments. His poem “Written at Fengqiu” turns from the humiliation of bowing before superiors to the distress of flogging ordinary people. At home, the speaker’s family laughs at the life he has acquired. The scene gives local administration a voice quite different from a court proclamation.\n\nGao left the post in 752 and later served on a frontier staff. Reading this episode beside Du Fu and Bai Juyi connects poetic ambition with the daily work of government. The poem offers a crafted account of an official’s discomfort; its force comes from bringing hierarchy, household conversation and the people subject to punishment into the same frame.",
+          "zh": "749年，高适出任封丘县尉，进入唐代地方行政的日常。《封丘作》写小县也有繁多期限，要迎送上官，还要执行刑罚。诗人从向上司屈身的难堪，写到鞭打百姓的悲伤；回家诉说，家人却笑他如今的处境。县衙的权力关系、普通人的遭遇和家庭里的对话，就这样进入同一首诗。\n\n高适于752年离职，后来进入边地幕府。把这段经历与杜甫、白居易的作品并读，可以看到文学志向怎样与治理事务相遇。诗中的官员带有作者经营的自我形象，并非县务档案；它仍让读者贴近地方官在等级、职责与同情之间感到的冲突。"
+        },
+        "dateNote": {
+          "en": "749–752 marks the inspected chronology of the Fengqiu appointment and resignation. The poem is associated with the posting; no exact composition day is asserted.",
+          "zh": "749—752年对应所核查的封丘任职与辞官时段。诗与这段任职经历相关，不指定确切写作日期。"
+        },
+        "relatedIds": [
+          "china-person-dufu",
+          "china-person-baijuyi",
+          "tang-dynasty"
+        ],
+        "sources": [
+          {
+            "title": "高适",
+            "publisher": "中国孔子网",
+            "url": "https://www.chinakongzi.org/kzsf/wxxs/zuozhe/gaoshi/200705/t20070525_37865.htm",
+            "evidenceNote": "Biography dates the appointment to 749, departure to Tianbao 11 (752), and subsequent frontier service. Used for career context, not its evaluative ranking of poets.",
+            "evidenceNoteZh": "传记记749年任封丘县尉、天宝十一载（752）辞官及后来入幕经历。采用仕历，不采用诗人高下评价。",
+            "checkedAt": "2026-11-09",
+            "retrieval": "opened-page"
+          },
+          {
+            "title": "封丘作",
+            "publisher": "高适；维基文库古典文本",
+            "url": "https://zh.wikisource.org/zh-hans/%E5%B0%81%E4%B8%98%E4%BD%9C",
+            "evidenceNote": "The inspected poem describes deadlines, greeting superiors, flogging commoners and conversation with the speaker’s family. Original paraphrase of a public-domain poem; no modern translation copied.",
+            "evidenceNoteZh": "所读诗文写公务期限、迎送上官、鞭挞黎庶与归家问妻子。依据公版古诗自行转述，未复制现代译文。",
+            "checkedAt": "2026-11-09",
+            "retrieval": "opened-page"
+          }
+        ],
+        "expansion": {
+          "release": 11,
+          "edition": "v17",
+          "workstreams": [
+            "CH2"
+          ],
+          "sourceReview": "Original bilingual synthesis from inspected institutional, primary-text and scholarly passages; each source states which claims it supports.",
+          "reviewLimit": {
+            "en": "Poetic self-presentation is distinguished from administrative documentation; the source does not establish the frequency of punishments or the responses of the people punished.",
+            "zh": "区分诗人的自我叙述与行政档案；作品不能确定刑罚的频率，也未记录受罚者的回应。"
+          }
+        }
+      },
+      "asset": {
+        "title": {
+          "en": "Liu Zongyuan (right) and Bai Juyi (left)",
+          "zh": "柳宗元（右）与白居易（左）"
+        },
+        "alt": {
+          "en": "Liu Zongyuan’s portrait and identifying inscription occupy the right page; Bai Juyi is on the left.",
+          "zh": "柳宗元的画像与题记在右页；左页为白居易。"
+        },
+        "caption": {
+          "en": "Later portrait of Liu Zongyuan, right, facing Bai Juyi. Date unestablished.",
+          "zh": "后世柳宗元像在右页，左页为白居易；绘制年代未定。"
+        },
+        "interpretation": {
+          "en": "The inscription identifies Liu Zihou by his given name Zongyuan. The paired opening places him among remembered writers and officials rather than reconstructing his appearance in exile.",
+          "zh": "题记以“柳子厚，名宗元”明确身份。对开册页将他列入后世纪念的文臣之中。"
+        },
+        "creator": "Anonymous Chinese artist",
+        "date": "Unknown",
+        "institution": "National Palace Museum, Taipei; 中畫00032800039",
+        "kind": "portrait",
+        "representation": "later-depiction",
+        "id": "china-batch-06-liuzongyuan",
+        "file": "assets/history-media/china-batch-06-liuzongyuan.jpg",
+        "recordIds": [
+          "china-person-liuzongyuan"
+        ],
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/17869?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/C2A%2FC2A000328N000000020PAA/full/full/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/17869?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "歷代聖賢半身像 冊 柳宗元。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "歷代聖賢半身像 冊 柳宗元。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/C2A%2FC2A000328N000000020PAA/full/1400,/0/default.jpg",
+        "width": 1400,
+        "height": 1048,
+        "bytes": 119459,
+        "sha256": "5ae1f182867c6da4052467bda10bb16c4b40c1a9da90446862336379edf914f5",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Smaller derivative supplied by the source image service, saved unchanged. Full source framing retained; no local image editing or conversion.",
+          "zh": "采用来源图像服务提供的小尺寸版本，原样保存。保留完整取景，未作本地图像编辑或格式转换。"
+        },
+        "retrieval": "Source-served derivative downloaded and decoded; pixels checked against the preserved original. Exact production auditHistoryMedia validator and loadAtlasRecords IDs used.",
+        "contextSources": [
+          {
+            "title": {
+              "en": "Collection / source: Liu Zongyuan in an album of sages and worthies",
+              "zh": "馆藏或来源：《历代圣贤半身像》中的柳宗元"
+            },
+            "url": "https://digitalarchive.npm.gov.tw/Collection/Detail/17869?dep=P"
+          },
+          {
+            "title": {
+              "en": "Liu Zongyuan: Yongzhou historical account",
+              "zh": "永州地方史：柳宗元"
+            },
+            "url": "https://dsfz.yzcity.gov.cn/yzdqw/yzmr/202005/b3b0274dc6b74da09e40d314d9245ce4.shtml"
+          }
+        ],
+        "metadataI18n": {
+          "date": {
+            "en": "Unknown",
+            "zh": "年代不详"
+          },
+          "creator": {
+            "en": "Anonymous Chinese artist",
+            "zh": "中国佚名艺术家"
+          },
+          "institution": {
+            "en": "National Palace Museum, Taipei; 中畫00032800039",
+            "zh": "台北故宫博物院；中畫00032800039"
+          }
+        }
+      }
+    },
+    {
+      "assetId": "china-batch-06-liubang",
+      "recordId": "china-event-xihan-004",
+      "decision": "prior-hold",
+      "reason": "Prior pass held the Wen reform entry. This different portrait could remove the prior scene mismatch, but no renewed chronological review is undertaken and no hold is overridden.",
+      "record": {
+        "id": "china-event-xihan-004",
+        "title": {
+          "en": "Emperor Wen abolishes corporal punishment and land taxes, ushering in the Rule of Wen and Jing",
+          "zh": "汉文帝废除肉刑、免收全国田租，与景帝轻徭薄赋共创“文景之治”"
+        },
+        "start": -167,
+        "end": -167,
+        "location": {
+          "lon": 108.94,
+          "lat": 34.34,
+          "label": "Chang'an",
+          "labelI18n": {
+            "en": "Chang'an",
+            "zh": "长安"
+          },
+          "labelProvenance": "inherited-source-place-pair"
+        },
+        "region": "east-asia",
+        "theme": "culture",
+        "kind": "event",
+        "importance": 1,
+        "summary": {
+          "en": "Emperor Wen abolishes corporal punishment and land taxes, ushering in the Rule of Wen and Jing",
+          "zh": "汉文帝废除肉刑、免收全国田租，与景帝轻徭薄赋共创“文景之治”"
+        },
+        "dateNote": {
+          "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+          "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+        },
+        "locationPrecision": "representative",
+        "sources": [
+          {
+            "title": "Chronicles of the Realm — js/map_data.js (frozen source dataset)",
+            "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/map_data.js",
+            "publisher": "DeanChensj / Chronicles of the Realm",
+            "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+            "checkedAt": "2026-10-23"
+          }
+        ],
+        "aliases": [
+          "长安",
+          "Chang'an"
+        ],
+        "provenance": {
+          "dataset": "jiangshan",
+          "status": "inherited",
+          "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+          "periodId": "xihan",
+          "periodIds": [
+            "xihan"
+          ],
+          "sourceRecords": [
+            {
+              "file": "js/map_data.js",
+              "path": "/DYNASTY_DATA/2/milestones/3",
+              "index": 3
+            }
+          ],
+          "note": {
+            "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+            "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+          }
+        },
+        "relatedIds": [
+          "han-dynasty"
+        ]
+      },
+      "asset": {
+        "title": {
+          "en": "Liu Bang in an album of rulers and ministers",
+          "zh": "《圣君贤臣全身像》中的刘邦"
+        },
+        "alt": {
+          "en": "Two robed emperors stand on facing album pages; Liu Bang is on the right.",
+          "zh": "对开的册页中各有一位身着礼服的帝王；刘邦在右页。"
+        },
+        "caption": {
+          "en": "Later portrait of Liu Bang, right, facing Emperor Wen, left. The album’s date is unestablished.",
+          "zh": "后世刘邦像在右页，左页为汉文帝；册页绘制年代未定。"
+        },
+        "interpretation": {
+          "en": "Ceremonial dress places the Han founder within a sequence of exemplary rulers. Keeping the opening intact makes the two identities legible.",
+          "zh": "礼服将汉朝开国者置于历代君主的序列之中。保留完整对开，便于辨认两位不同人物。"
+        },
+        "creator": "Anonymous Chinese artist",
+        "date": "Unknown",
+        "institution": "National Palace Museum, Taipei; 中畫00033000013",
+        "kind": "portrait",
+        "representation": "later-depiction",
+        "id": "china-batch-06-liubang",
+        "file": "assets/history-media/china-batch-06-liubang.jpg",
+        "recordIds": [
+          "china-person-liubang"
+        ],
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/17965?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/C2A%2FC2A000330N000000007PAA/full/full/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/17965?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "聖君賢臣全身像 冊 漢高祖。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "聖君賢臣全身像 冊 漢高祖。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/C2A%2FC2A000330N000000007PAA/full/1400,/0/default.jpg",
+        "width": 1400,
+        "height": 1048,
+        "bytes": 162953,
+        "sha256": "8b183a45c26ad38ad6ef22f1e19bd2a211bf36e5b3ab43920489e86f24f9b952",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Smaller derivative supplied by the source image service, saved unchanged. Full source framing retained; no local image editing or conversion.",
+          "zh": "采用来源图像服务提供的小尺寸版本，原样保存。保留完整取景，未作本地图像编辑或格式转换。"
+        },
+        "retrieval": "Source-served derivative downloaded and decoded; pixels checked against the preserved original. Exact production auditHistoryMedia validator and loadAtlasRecords IDs used.",
+        "contextSources": [
+          {
+            "title": {
+              "en": "Collection / source: Liu Bang in an album of rulers and ministers",
+              "zh": "馆藏或来源：《圣君贤臣全身像》中的刘邦"
+            },
+            "url": "https://digitalarchive.npm.gov.tw/Collection/Detail/17965?dep=P"
+          },
+          {
+            "title": {
+              "en": "Sima Qian, Shiji: Gaozu",
+              "zh": "司马迁《史记·高祖本纪》"
+            },
+            "url": "https://zh.wikisource.org/wiki/史記/卷008"
+          }
+        ],
+        "metadataI18n": {
+          "date": {
+            "en": "Unknown",
+            "zh": "年代不详"
+          },
+          "creator": {
+            "en": "Anonymous Chinese artist",
+            "zh": "中国佚名艺术家"
+          },
+          "institution": {
+            "en": "National Palace Museum, Taipei; 中畫00033000013",
+            "zh": "台北故宫博物院；中畫00033000013"
+          }
+        }
+      }
+    }
+  ],
+  "validation": {
+    "errors": [],
+    "physical": [
+      {
+        "assetId": "china-batch-06-tangxuanzong",
+        "file": "assets/history-media/china-batch-06-tangxuanzong.jpg",
+        "sha256": "e1c8c3fa071733a3eeb3fc9d6a33999fe5aa807588a7eec0da93a009c87d31cd",
+        "expectedSha256": "e1c8c3fa071733a3eeb3fc9d6a33999fe5aa807588a7eec0da93a009c87d31cd"
+      },
+      {
+        "assetId": "china-batch-08-taoyuanming",
+        "file": "assets/history-media/china-batch-08-taoyuanming.jpg",
+        "sha256": "ab6732b10024489122b1c4fd9b24371cd8c9f7d7b56ec28e6fc5946bf2f9089c",
+        "expectedSha256": "ab6732b10024489122b1c4fd9b24371cd8c9f7d7b56ec28e6fc5946bf2f9089c"
+      },
+      {
+        "assetId": "china-batch-08-song-gaozong",
+        "file": "assets/history-media/china-batch-08-song-gaozong.jpg",
+        "sha256": "f57f4913ffebaa9b14273a57f792eb6d63daca55acfbac95ad51364e7ee556c9",
+        "expectedSha256": "f57f4913ffebaa9b14273a57f792eb6d63daca55acfbac95ad51364e7ee556c9"
+      }
+    ],
+    "productionWrites": false
+  }
+}

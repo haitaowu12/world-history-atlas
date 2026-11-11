@@ -1,0 +1,1232 @@
+{
+  "reviewedAt": "2026-11-11",
+  "ownerReview": "Eight proposals reviewed against full bilingual records and retained source passages. Tao changes explicitly from 393 to 405 and no poem date is inferred. Ming 1479 is narrowed to the explicitly dated frontier tour; following campaign sequence is attributed. Six existing images admitted based on corrected focal subjects; no orphaned research images introduced.",
+  "admittedReviews": [
+    {
+      "id": "china-event-zhanguo-015",
+      "patch": {
+        "title": {
+          "en": "Qin captures Chu’s capital Ying",
+          "zh": "秦军攻陷楚都郢"
+        },
+        "summary": {
+          "en": "In 278 BCE, Bai Qi’s Qin army captured Ying, and the Chu court moved east. The Shiji separately tells of Qu Yuan’s death in the Miluo River. That account does not date his death to the day or year of Ying’s capture.",
+          "zh": "前278年，白起率秦军攻陷郢都，楚廷东迁。《史记》另记屈原自沉汨罗江，但该篇并未把他的死亡明确系于郢都失陷之日或之年。"
+        },
+        "dateNote": {
+          "en": "278 BCE dates the capture of Ying, not the end of Chu or a securely dated death of Qu Yuan.",
+          "zh": "前278年指郢都失陷，并非楚国灭亡，也非已确证的屈原卒年。"
+        },
+        "locationPrecision": "representative"
+      },
+      "note": {
+        "en": "Separate Qi’s recovery and Qu Yuan’s death from the dated conquest; no new death date asserted.",
+        "zh": "将田单复齐及屈原之死与有纪年的攻城分开，不另定卒年。"
+      },
+      "sources": [
+        {
+          "title": "Shiji 73: Bai Qi",
+          "url": "https://zh.wikisource.org/wiki/史記/卷073",
+          "publisher": "Sima Qian; Wikisource transcription",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "Supports capture of Ying, not destruction of the state of Chu.",
+          "retrieval": "Targeted read-only web connector; retained receipt web-passages1.json",
+          "evidenceNoteZh": "支持攻陷郢都，不表示楚国在此时灭亡。"
+        },
+        {
+          "title": "Shiji 84: Qu Yuan",
+          "url": "https://zh.wikisource.org/wiki/史記/卷084",
+          "publisher": "Sima Qian; Wikisource transcription",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "Records Qu Yuan’s death at Miluo but does not assign the passage an exact year.",
+          "retrieval": "Targeted read-only web connector; retained receipt web-passages5.json",
+          "evidenceNoteZh": "记屈原自沉汨罗江，所引段落没有给出确切卒年。"
+        },
+        {
+          "title": "Qu Yuan and his works",
+          "url": "https://www.xinhuanet.com/politics/2015-06/20/c_127934690.htm",
+          "publisher": "Xinhua",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "Search excerpt corroborates 278 BCE capture; literary reconstruction surrounding it is not adopted.",
+          "retrieval": "Targeted read-only web connector; retained receipt web-r3.json",
+          "evidenceNoteZh": "检索摘要支持前278年郢都失陷；不采用其周围的文学化重构。"
+        }
+      ]
+    },
+    {
+      "id": "china-event-nansong-005",
+      "patch": {
+        "title": {
+          "en": "Yue Fei’s army wins at Yancheng and Yingchang",
+          "zh": "岳飞军在郾城与颍昌获胜"
+        },
+        "summary": {
+          "en": "In the 1140 campaign against Jin, Yue Fei’s army fought at Yancheng and Yingchang. The Songshi records victories at both places, with Yue Yun reinforcing Wang Gui at Yingchang. It also preserves a later account of an advance to Zhuxianzhen.",
+          "zh": "1140年对金作战中，岳飞军在郾城与颍昌交战。《宋史》记两地获胜，岳云赴颍昌增援王贵；书中还保存了进至朱仙镇的后世记述。"
+        },
+        "dateNote": {
+          "en": "1140 is Shaoxing 10. The point represents the Yancheng area, not Zhuxianzhen.",
+          "zh": "1140年为绍兴十年；地图点代表郾城一带，不是朱仙镇。"
+        },
+        "locationPrecision": "representative",
+        "location": {
+          "lon": 114.021,
+          "lat": 33.581,
+          "label": "Yancheng area",
+          "labelI18n": {
+            "en": "Yancheng area",
+            "zh": "郾城一带"
+          },
+          "labelProvenance": "reviewed-reference-anchor"
+        }
+      },
+      "note": {
+        "en": "Keep the reported campaigns, remove the unqualified Zhuxianzhen victory; source criticism of that episode remains a follow-up.",
+        "zh": "保留有史书记载的战役，删除未经限定的朱仙镇大捷说；该情节的史源考证另行跟进。"
+      },
+      "sources": [
+        {
+          "title": "Songshi 365: Yue Fei",
+          "url": "https://zh.wikisource.org/wiki/宋史/卷365",
+          "publisher": "Songshi; Wikisource transcription",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "Records Yancheng and Yingchang victories, and also a Zhuxianzhen account. Attribution is necessary: reading this text is not independent corroboration of all its episodes.",
+          "retrieval": "Targeted read-only web connector; retained receipt web-passages4.json",
+          "evidenceNoteZh": "记郾城与颍昌获胜，也收录朱仙镇故事；本条将相关记述归于《宋史》。"
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-068",
+      "patch": {
+        "title": {
+          "en": "Emperor Taizu dies and Taizong succeeds him",
+          "zh": "宋太祖去世，宋太宗即位"
+        },
+        "summary": {
+          "en": "Emperor Taizu died at Wansui Hall in 976 and his younger brother succeeded him as Taizong. The candlelight-and-axe story comes from a later account by the monk Wenying. Historian Li Tao recorded it while questioning several details.",
+          "zh": "976年，宋太祖在万岁殿去世，其弟继位为宋太宗。“烛影斧声”故事出自僧人文莹的后世记述；史家李焘收录时，对其中若干细节提出疑问。"
+        },
+        "dateNote": {
+          "en": "976 dates the death and succession; the cause of death is not resolved here.",
+          "zh": "976年为去世与继位之年；本条不判定死因。"
+        },
+        "locationPrecision": "representative"
+      },
+      "note": {
+        "en": "Replace sensational mystery headline with death and succession; preserve anecdote only as attributed later writing.",
+        "zh": "以去世与继位替代悬疑标题，轶闻仅作为注明来源的后世书写。"
+      },
+      "sources": [
+        {
+          "title": "Songshi 3: Taizu",
+          "url": "https://zh.wikisource.org/wiki/宋史/卷003",
+          "publisher": "Songshi; Wikisource transcription",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "Death in Wansui Hall in Kaibao 9, not an account of murder.",
+          "retrieval": "Targeted read-only web connector; retained receipt web-passages5.json",
+          "evidenceNoteZh": "记开宝九年太祖在万岁殿去世，没有认定谋杀。"
+        },
+        {
+          "title": "Songshi 4: Taizong",
+          "url": "https://zh.wikisource.org/zh-hant/宋史/卷004",
+          "publisher": "Songshi; Wikisource transcription",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "Search excerpt supplies succession in 976.",
+          "retrieval": "Targeted read-only web connector; retained receipt web-r3.json",
+          "evidenceNoteZh": "检索摘要记太祖去世后太宗于976年即位。"
+        },
+        {
+          "title": "Xu Zizhi Tongjian Changbian 17",
+          "url": "https://zh.wikisource.org/zh/續資治通鑑長編/卷017",
+          "publisher": "Li Tao; Wikisource transcription",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "Li Tao identifies Wenying as the source and questions details; proves the narrative’s textual status, not the death’s cause.",
+          "retrieval": "Targeted read-only web connector; retained receipt web-passages4.json",
+          "evidenceNoteZh": "李焘标明文莹为故事来源，并质疑细节；此为叙事来源证据，不是死因证明。"
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-443",
+      "patch": {
+        "title": {
+          "en": "Tao Yuanming leaves office at Pengze",
+          "zh": "陶渊明辞去彭泽令"
+        },
+        "summary": {
+          "en": "In 405, Tao Yuanming resigned after a short term as magistrate of Pengze and returned home. His own account and later biographies explain the decision differently. His withdrawal became central to the later image of the poet living close to the land.",
+          "zh": "405年，陶渊明短暂担任彭泽令后辞官归乡。他本人的叙述与后世传记，对辞官缘由有不同解释；归隐田园成为后世陶渊明形象的重要内容。"
+        },
+        "dateNote": {
+          "en": "405 dates the departure from office, not the composition of Drinking V.",
+          "zh": "405年指辞官归乡，不是《饮酒》其五的作年。"
+        },
+        "locationPrecision": "representative",
+        "start": 405,
+        "end": 405,
+        "location": {
+          "lon": 115.99,
+          "lat": 29.56,
+          "label": "Chaisang / Mount Lu: home-region reference",
+          "labelI18n": {
+            "en": "Chaisang / Mount Lu: home-region reference",
+            "zh": "柴桑、庐山一带：归乡背景参考点"
+          },
+          "labelProvenance": "reviewed-reference-anchor"
+        }
+      },
+      "note": {
+        "en": "Explicitly change 393 to 405 and refocus on departure; do not merely redate the original chrysanthemum-poem claim.",
+        "zh": "明确将393改为405并聚焦辞官，不是简单把原有采菊诗句改系于405年。"
+      },
+      "sources": [
+        {
+          "title": "Tao Yuanming’s resignation from Pengze",
+          "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002851551",
+          "publisher": "Kim Young, Journal of Chinese Studies 74 (2022), 99–118; KCI",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "Abstract dates office and resignation in 405 and distinguishes the poet’s explanation from later interpretations. Does not date Drinking V.",
+          "retrieval": "Targeted read-only web connector; retained receipt web-passages2.json",
+          "evidenceNoteZh": "论文摘要将任职、辞官系于405年，并区分陶渊明本人及后世的解释；未据此确定《饮酒》其五作年。"
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-039",
+      "patch": {
+        "title": {
+          "en": "Sun Quan moves his capital from Wuchang to Jianye",
+          "zh": "孙权由武昌迁都建业"
+        },
+        "summary": {
+          "en": "Sun Quan became emperor at Wuchang in the fourth lunar month of 229. In the ninth month he moved the capital to Jianye, present-day Nanjing, leaving his heir Sun Deng at Wuchang with Lu Xun’s assistance.",
+          "zh": "229年农历四月，孙权在武昌称帝；九月迁都建业，即今南京，留太子孙登镇守武昌，由陆逊辅佐。"
+        },
+        "dateNote": {
+          "en": "Both events fall in 229; the map marks Jianye, the later capital, not the accession site.",
+          "zh": "两事均在229年；地图标示迁入的建业，不是称帝地点。"
+        },
+        "locationPrecision": "representative"
+      },
+      "note": {
+        "en": "Correct the sequence and distinguish historical Wuchang (Ezhou) from modern Wuhan’s Wuchang district.",
+        "zh": "纠正先后顺序；史文武昌为今鄂州，不应混同今武汉市武昌区。"
+      },
+      "sources": [
+        {
+          "title": "Ezhou historical chronology",
+          "url": "https://www.ezhou.gov.cn/zjez/ezgk/lsyg/201902/t20190222_176954.html",
+          "publisher": "Ezhou municipal government",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "April 229 accession at Wuchang precedes September move to Jianye; months follow the historical calendar.",
+          "retrieval": "Targeted read-only web connector; retained receipt web-passages4.json",
+          "evidenceNoteZh": "记229年农历四月在武昌称帝，九月迁都建业。"
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-225",
+      "patch": {
+        "title": {
+          "en": "Shao prefecture becomes Baoqing prefecture",
+          "zh": "邵州升为宝庆府"
+        },
+        "summary": {
+          "en": "Emperor Lizong succeeded to the Song throne in 1224. His Baoqing era began in 1225, when Shao prefecture was elevated to Baoqing prefecture, at present-day Shaoyang. Lizong had previously held the title of Shaozhou defence commissioner.",
+          "zh": "宋理宗于1224年即位，1225年改元宝庆，并将邵州升为宝庆府，即今邵阳。理宗此前曾获授邵州防御使。"
+        },
+        "dateNote": {
+          "en": "1225 dates the era change and prefecture elevation; the accession was in 1224.",
+          "zh": "1225年指改元与升府；即位在1224年。"
+        },
+        "locationPrecision": "representative"
+      },
+      "note": {
+        "en": "Remove conflated accession year and unsupported residence implication.",
+        "zh": "消除即位年份混淆，不把遥领职衔写成实际居住。"
+      },
+      "sources": [
+        {
+          "title": "Songshi 41: Lizong",
+          "url": "https://zh.wikisource.org/wiki/宋史/卷041",
+          "publisher": "Songshi; Wikisource transcription",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "Accession in Jiading 17 (1224); Baoqing era begins following year.",
+          "retrieval": "Targeted read-only web connector; retained receipt web-passages4.json",
+          "evidenceNoteZh": "记嘉定十七年即位，次年改元宝庆，即1224年与1225年。"
+        },
+        {
+          "title": "Baoqing old city",
+          "url": "https://wwj.hunan.gov.cn/wwj/c100310/c100314/201411/t20141119_10483043.html",
+          "publisher": "Hunan Cultural Heritage Administration / Shaoyang Cultural Heritage Bureau",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "Supports prefecture elevation in 1225.",
+          "retrieval": "Targeted read-only web connector; retained receipt web-passages3.json",
+          "evidenceNoteZh": "支持1225年邵州升为宝庆府。"
+        }
+      ]
+    },
+    {
+      "id": "china-event-ming-019",
+      "patch": {
+        "title": {
+          "en": "Wang Zhi inspects the northeastern frontier",
+          "zh": "汪直巡察东北边疆"
+        },
+        "summary": {
+          "en": "In 1479, Wang Zhi inspected the northeastern frontier. The Mingshi biography next describes him supervising a campaign commanded by Zhu Yong against Jianzhou Jurchens. His earlier rise had been tied to the Western Depot, established under his leadership in 1477.",
+          "zh": "1479年，汪直巡察东北边疆。《明史》本传随后叙述朱永统兵、汪直监军，对建州女真用兵。汪直此前因西厂而得势；西厂于1477年设立，由他掌领。"
+        },
+        "dateNote": {
+          "en": "1479 dates the recorded frontier tour; the following campaign narrative is not assigned a separate exact date here.",
+          "zh": "1479年指史书所记巡边；其后叙述的战役不另定精确日期。"
+        },
+        "locationPrecision": "representative",
+        "location": {
+          "lon": 124.75,
+          "lat": 41.73,
+          "label": "Liaodong / Jianzhou: regional campaign reference",
+          "labelI18n": {
+            "en": "Liaodong / Jianzhou: regional campaign reference",
+            "zh": "辽东、建州一带：战役区域参考点"
+          },
+          "labelProvenance": "reviewed-reference-anchor"
+        }
+      },
+      "note": {
+        "en": "Narrow to Mingshi biography: Joseon coordination and the exact battlefield are not established by this source.",
+        "zh": "限于《明史》本传可证内容；朝鲜协同作战及确切战场尚未由此史料落实。"
+      },
+      "sources": [
+        {
+          "title": "Mingshi 304: Wang Zhi",
+          "url": "https://zh.wikisource.org/wiki/明史/卷304",
+          "publisher": "Mingshi; Wikisource transcription",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "Records the 1479 frontier tour, followed in the biography by the Zhu Yong/Wang Zhi campaign; this reading does not independently establish an exact campaign date or Joseon coordination.",
+          "retrieval": "Targeted read-only web connector; retained receipt web-passages4.json; web-passages5.json",
+          "evidenceNoteZh": "记成化十二年后设西厂及十五年巡边，继述朱永统兵、汪直监军；不据此另定战役日期或认定与朝鲜协同。"
+        }
+      ]
+    },
+    {
+      "id": "china-event-ming-013",
+      "patch": {
+        "title": {
+          "en": "Ming forces withdraw after the Lam Son victories",
+          "zh": "蓝山军获胜后，明军撤退"
+        },
+        "summary": {
+          "en": "After Lam Son victories in 1427, Ming commanders agreed to withdraw from Vietnam. Le Loi became emperor in 1428, founding the Later Le dynasty. Withdrawal and dynastic foundation belong to successive years.",
+          "zh": "1427年蓝山军获胜后，明军将领议和撤出越南。黎利于1428年称帝，开创后黎朝；撤军与建朝分属前后两年。"
+        },
+        "dateNote": {
+          "en": "1427 anchors the agreement and withdrawal sequence; 1428 dates Le Loi’s accession.",
+          "zh": "1427年为议和撤军过程的时间锚点；黎利称帝在1428年。"
+        },
+        "locationPrecision": "representative"
+      },
+      "note": {
+        "en": "Separate withdrawal from foundation; no claim that all troops crossed the border on one converted Gregorian day.",
+        "zh": "区分撤军与建朝，不断言所有军队于某一换算后的公历日期越境。"
+      },
+      "sources": [
+        {
+          "title": "Xuong Giang citadel",
+          "url": "https://baotanglichsu.vn/vi/Articles/1508/51632/phe-thanh-xuong-giang.html",
+          "publisher": "Vietnam National Museum of History",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "Supports withdrawal after negotiations in 1427; calendar conversion and completion date are not adjudicated.",
+          "retrieval": "Targeted read-only web connector; retained receipt web-passages3.json",
+          "evidenceNoteZh": "支持1427年议和撤军过程；不判定精确日期的历法换算或撤军完成日。"
+        },
+        {
+          "title": "Le Loi and the founding of the Le dynasty",
+          "url": "https://baotanglichsu.vn/vi/Articles/2001/66142/loi-sam-truyen-ve-le-loi.html",
+          "publisher": "Vietnam National Museum of History (republished popular history)",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "Supports accession in 1428; surrounding prophetic anecdotes not adopted.",
+          "retrieval": "Targeted read-only web connector; retained receipt web-passages3.json",
+          "evidenceNoteZh": "支持黎利于1428年即位；不采用周围的预言故事。"
+        }
+      ]
+    }
+  ],
+  "admittedImageLinks": [
+    {
+      "recordId": "china-event-zhanguo-015",
+      "assetId": "china-batch-06-baiqi",
+      "role": "named-person",
+      "context": {
+        "en": "Bai Qi is the Qin commander in this account of Ying’s capture.",
+        "zh": "白起是这则郢都陷落记述中的秦军统帅。"
+      },
+      "evidenceUrl": "https://commons.wikimedia.org/wiki/File:Bai_Qi.jpg",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "recordId": "china-event-nansong-005",
+      "assetId": "china-batch-08-yuefei-zhuxi",
+      "role": "named-person",
+      "context": {
+        "en": "Yue Fei, at right, is the commander in this story; Zhu Xi is at left.",
+        "zh": "岳飞在右，是这则故事中的统帅；朱熹在左。"
+      },
+      "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/17885?dep=P",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "recordId": "china-landmark-068",
+      "assetId": "china-batch-08-song-taizong",
+      "role": "named-person",
+      "context": {
+        "en": "The portrait identifies Taizong, who succeeded his brother in 976.",
+        "zh": "此像辨识976年继兄即位的宋太宗。"
+      },
+      "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/14758?dep=P",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "recordId": "china-landmark-443",
+      "assetId": "china-batch-08-taoyuanming",
+      "role": "named-person",
+      "context": {
+        "en": "Tao Yuanming, at right, is the poet who left office; Xie Lingyun is at left.",
+        "zh": "右页陶渊明是辞官归乡的诗人，左页为谢灵运。"
+      },
+      "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/17851?dep=P",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "recordId": "china-landmark-039",
+      "assetId": "china-batch-08-sunquan-jinwudi",
+      "role": "named-person",
+      "context": {
+        "en": "Sun Quan, at right, is the ruler who moved to Jianye; Sima Yan is at left.",
+        "zh": "右页孙权是迁都建业的君主，左页为司马炎。"
+      },
+      "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/17973?dep=P",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "recordId": "china-landmark-225",
+      "assetId": "china-batch-08-song-lizong",
+      "role": "named-person",
+      "context": {
+        "en": "The portrait identifies Lizong, whose Baoqing era gave the prefecture its new name.",
+        "zh": "此像辨识宋理宗，新府名取自他的宝庆年号。"
+      },
+      "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/14782?dep=P",
+      "checkedAt": "2026-11-11"
+    }
+  ],
+  "held": [
+    "china-event-xihan-007: academy chronology disputed",
+    "Qu Yuan portrait: now peripheral to the corrected Ying capture focus",
+    "Xuande and Chenghua portraits: no longer named focal figures in the narrowed corrected narratives"
+  ],
+  "evidence": [
+    {
+      "key": "dong",
+      "title": "Hanshu 56: Dong Zhongshu",
+      "url": "https://zh.wikisource.org/wiki/漢書/卷056",
+      "publisher": "Ban Gu; Wikisource transcription",
+      "checkedAt": "2026-11-11",
+      "evidenceNote": "Supports recommendation, not a same-year foundation.",
+      "retrieval": "Targeted read-only web connector; retained receipt web-passages3.json",
+      "exactQuote": "臣願陛下興太學，置明師，以養天下之士",
+      "receipt": "web-passages3.json"
+    },
+    {
+      "key": "hanreview",
+      "title": "Xu Jianwei: The process and date of establishing the Western Han Imperial Academy",
+      "url": "https://ccj.pku.edu.cn/article/info?aid=787462097559621",
+      "publisher": "Journal of Traditional Chinese Culture 2024(4), 28–37; Peking University portal",
+      "checkedAt": "2026-11-11",
+      "evidenceNote": "Abstract disputes the traditional 124 BCE chronology and proposes 134–131 BCE establishment with institutional completion in 130 BCE. Do not silently adjudicate this scholarly disagreement.",
+      "retrieval": "Targeted read-only web connector; retained receipt web-passages5.json",
+      "exactQuote": "时间在元光元年",
+      "receipt": "web-passages5.json"
+    },
+    {
+      "key": "bai",
+      "title": "Shiji 73: Bai Qi",
+      "url": "https://zh.wikisource.org/wiki/史記/卷073",
+      "publisher": "Sima Qian; Wikisource transcription",
+      "checkedAt": "2026-11-11",
+      "evidenceNote": "Supports capture of Ying, not destruction of the state of Chu.",
+      "retrieval": "Targeted read-only web connector; retained receipt web-passages1.json",
+      "exactQuote": "攻楚，拔郢，燒夷陵",
+      "receipt": "web-passages1.json"
+    },
+    {
+      "key": "qu",
+      "title": "Shiji 84: Qu Yuan",
+      "url": "https://zh.wikisource.org/wiki/史記/卷084",
+      "publisher": "Sima Qian; Wikisource transcription",
+      "checkedAt": "2026-11-11",
+      "evidenceNote": "Records Qu Yuan’s death at Miluo but does not assign the passage an exact year.",
+      "retrieval": "Targeted read-only web connector; retained receipt web-passages5.json",
+      "exactQuote": "於是懷石遂自（投）［沈］汨羅以死。",
+      "receipt": "web-passages5.json"
+    },
+    {
+      "key": "yingyear",
+      "title": "Qu Yuan and his works",
+      "url": "https://www.xinhuanet.com/politics/2015-06/20/c_127934690.htm",
+      "publisher": "Xinhua",
+      "checkedAt": "2026-11-11",
+      "evidenceNote": "Search excerpt corroborates 278 BCE capture; literary reconstruction surrounding it is not adopted.",
+      "retrieval": "Targeted read-only web connector; retained receipt web-r3.json",
+      "exactQuote": "公元前278年，秦将白起攻陷楚国都城郢地。",
+      "receipt": "web-r3.json"
+    },
+    {
+      "key": "yue",
+      "title": "Songshi 365: Yue Fei",
+      "url": "https://zh.wikisource.org/wiki/宋史/卷365",
+      "publisher": "Songshi; Wikisource transcription",
+      "checkedAt": "2026-11-11",
+      "evidenceNote": "Records Yancheng and Yingchang victories, and also a Zhuxianzhen account. Attribution is necessary: reading this text is not independent corroboration of all its episodes.",
+      "retrieval": "Targeted read-only web connector; retained receipt web-passages4.json",
+      "exactQuote": "方郾城再捷",
+      "receipt": "web-passages4.json"
+    },
+    {
+      "key": "taizu",
+      "title": "Songshi 3: Taizu",
+      "url": "https://zh.wikisource.org/wiki/宋史/卷003",
+      "publisher": "Songshi; Wikisource transcription",
+      "checkedAt": "2026-11-11",
+      "evidenceNote": "Death in Wansui Hall in Kaibao 9, not an account of murder.",
+      "retrieval": "Targeted read-only web connector; retained receipt web-passages5.json",
+      "exactQuote": "癸丑夕，帝崩於萬歲殿",
+      "receipt": "web-passages5.json"
+    },
+    {
+      "key": "taizong",
+      "title": "Songshi 4: Taizong",
+      "url": "https://zh.wikisource.org/zh-hant/宋史/卷004",
+      "publisher": "Songshi; Wikisource transcription",
+      "checkedAt": "2026-11-11",
+      "evidenceNote": "Search excerpt supplies succession in 976.",
+      "retrieval": "Targeted read-only web connector; retained receipt web-r3.json",
+      "exactQuote": "開寶九年冬十月癸丑，太祖崩，帝遂即皇帝位。",
+      "receipt": "web-r3.json"
+    },
+    {
+      "key": "candles",
+      "title": "Xu Zizhi Tongjian Changbian 17",
+      "url": "https://zh.wikisource.org/zh/續資治通鑑長編/卷017",
+      "publisher": "Li Tao; Wikisource transcription",
+      "checkedAt": "2026-11-11",
+      "evidenceNote": "Li Tao identifies Wenying as the source and questions details; proves the narrative’s textual status, not the death’s cause.",
+      "retrieval": "Targeted read-only web connector; retained receipt web-passages4.json",
+      "exactQuote": "此據吳僧文瑩所為湘山野錄，正史、實錄並無之。",
+      "receipt": "web-passages4.json"
+    },
+    {
+      "key": "tao",
+      "title": "Tao Yuanming’s resignation from Pengze",
+      "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002851551",
+      "publisher": "Kim Young, Journal of Chinese Studies 74 (2022), 99–118; KCI",
+      "checkedAt": "2026-11-11",
+      "evidenceNote": "Abstract dates office and resignation in 405 and distinguishes the poet’s explanation from later interpretations. Does not date Drinking V.",
+      "retrieval": "Targeted read-only web connector; retained receipt web-passages2.json",
+      "exactQuote": "405年8月",
+      "receipt": "web-passages2.json"
+    },
+    {
+      "key": "sun",
+      "title": "Ezhou historical chronology",
+      "url": "https://www.ezhou.gov.cn/zjez/ezgk/lsyg/201902/t20190222_176954.html",
+      "publisher": "Ezhou municipal government",
+      "checkedAt": "2026-11-11",
+      "evidenceNote": "April 229 accession at Wuchang precedes September move to Jianye; months follow the historical calendar.",
+      "retrieval": "Targeted read-only web connector; retained receipt web-passages4.json",
+      "exactQuote": "九月迁都建业",
+      "receipt": "web-passages4.json"
+    },
+    {
+      "key": "lizong",
+      "title": "Songshi 41: Lizong",
+      "url": "https://zh.wikisource.org/wiki/宋史/卷041",
+      "publisher": "Songshi; Wikisource transcription",
+      "checkedAt": "2026-11-11",
+      "evidenceNote": "Accession in Jiading 17 (1224); Baoqing era begins following year.",
+      "retrieval": "Targeted read-only web connector; retained receipt web-passages4.json",
+      "exactQuote": "詔改明年爲寶慶元年",
+      "receipt": "web-passages4.json"
+    },
+    {
+      "key": "baoqing",
+      "title": "Baoqing old city",
+      "url": "https://wwj.hunan.gov.cn/wwj/c100310/c100314/201411/t20141119_10483043.html",
+      "publisher": "Hunan Cultural Heritage Administration / Shaoyang Cultural Heritage Bureau",
+      "checkedAt": "2026-11-11",
+      "evidenceNote": "Supports prefecture elevation in 1225.",
+      "retrieval": "Targeted read-only web connector; retained receipt web-passages3.json",
+      "exactQuote": "南宋理宗宝庆元年（1225年）升邵州为宝庆府",
+      "receipt": "web-passages3.json"
+    },
+    {
+      "key": "wang",
+      "title": "Mingshi 304: Wang Zhi",
+      "url": "https://zh.wikisource.org/wiki/明史/卷304",
+      "publisher": "Mingshi; Wikisource transcription",
+      "checkedAt": "2026-11-11",
+      "evidenceNote": "Western Depot follows Chenghua 12 (1476), hence 1477. Chenghua 15 (1479) frontier tour leads into campaign with Zhu Yong; no independent verification here of Joseon coordination or precise battlefield.",
+      "retrieval": "Targeted read-only web connector; retained receipt web-passages4.json; web-passages5.json",
+      "exactQuote": "十五年秋，詔直巡邊",
+      "receipt": "web-passages4.json; web-passages5.json"
+    },
+    {
+      "key": "viet",
+      "title": "Xuong Giang citadel",
+      "url": "https://baotanglichsu.vn/vi/Articles/1508/51632/phe-thanh-xuong-giang.html",
+      "publisher": "Vietnam National Museum of History",
+      "checkedAt": "2026-11-11",
+      "evidenceNote": "Supports withdrawal after negotiations in 1427; calendar conversion and completion date are not adjudicated.",
+      "retrieval": "Targeted read-only web connector; retained receipt web-passages3.json",
+      "exactQuote": "Ngày 22/12/1427, quân Minh rút quân về nước.",
+      "receipt": "web-passages3.json"
+    },
+    {
+      "key": "le",
+      "title": "Le Loi and the founding of the Le dynasty",
+      "url": "https://baotanglichsu.vn/vi/Articles/2001/66142/loi-sam-truyen-ve-le-loi.html",
+      "publisher": "Vietnam National Museum of History (republished popular history)",
+      "checkedAt": "2026-11-11",
+      "evidenceNote": "Supports accession in 1428; surrounding prophetic anecdotes not adopted.",
+      "retrieval": "Targeted read-only web connector; retained receipt web-passages3.json",
+      "exactQuote": "Năm 1428, Lê Lợi lên ngôi Hoàng đế ở Đông Kinh",
+      "receipt": "web-passages3.json"
+    }
+  ],
+  "baselineRecords": [
+    {
+      "id": "china-landmark-039",
+      "title": {
+        "en": "Sun Quan moves his capital to Jianye (Nanjing) and proclaims the Eastern Wu Empire",
+        "zh": "孙权自武昌迁都建业（今南京），正式称帝建立东吴"
+      },
+      "start": 229,
+      "end": 229,
+      "location": {
+        "lon": 118.78,
+        "lat": 32.06,
+        "label": "Jianye (Nanjing)"
+      },
+      "region": "east-asia",
+      "theme": "cities",
+      "kind": "event",
+      "importance": 1,
+      "summary": {
+        "en": "Sun Quan moves his capital to Jianye (Nanjing) and proclaims the Eastern Wu Empire",
+        "zh": "孙权自武昌迁都建业（今南京），正式称帝建立东吴"
+      },
+      "dateNote": {
+        "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+        "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+      },
+      "locationPrecision": "representative",
+      "sources": [
+        {
+          "title": "Chronicles of the Realm — js/lore_data.js (frozen source dataset)",
+          "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/lore_data.js",
+          "publisher": "DeanChensj / Chronicles of the Realm",
+          "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+          "checkedAt": "2026-10-23"
+        }
+      ],
+      "aliases": [
+        "建业",
+        "Jianye (Nanjing)"
+      ],
+      "provenance": {
+        "dataset": "jiangshan",
+        "status": "inherited",
+        "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+        "periodId": "sanguo",
+        "periodIds": [
+          "sanguo"
+        ],
+        "sourceRecords": [
+          {
+            "file": "js/lore_data.js",
+            "path": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/38",
+            "index": 38
+          }
+        ],
+        "note": {
+          "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+          "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+        }
+      }
+    },
+    {
+      "id": "china-landmark-443",
+      "title": {
+        "en": "Tao Yuanming farms beneath Mount Lu, writing Picking chrysanthemums by the eastern hedge",
+        "zh": "陶渊明归隐庐山栗里躬耕垄亩，赋“采菊东篱下，悠然见南山”"
+      },
+      "start": 393,
+      "end": 393,
+      "location": {
+        "lon": 115.99,
+        "lat": 29.56,
+        "label": "Chestnut Lane, Mt. Lu"
+      },
+      "region": "east-asia",
+      "theme": "culture",
+      "kind": "event",
+      "importance": 1,
+      "summary": {
+        "en": "Tao Yuanming farms beneath Mount Lu, writing Picking chrysanthemums by the eastern hedge",
+        "zh": "陶渊明归隐庐山栗里躬耕垄亩，赋“采菊东篱下，悠然见南山”"
+      },
+      "dateNote": {
+        "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+        "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+      },
+      "locationPrecision": "representative",
+      "sources": [
+        {
+          "title": "Chronicles of the Realm — js/lore_data.js (frozen source dataset)",
+          "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/lore_data.js",
+          "publisher": "DeanChensj / Chronicles of the Realm",
+          "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+          "checkedAt": "2026-10-23"
+        }
+      ],
+      "aliases": [
+        "庐山栗里（柴桑）",
+        "Chestnut Lane, Mt. Lu"
+      ],
+      "provenance": {
+        "dataset": "jiangshan",
+        "status": "inherited",
+        "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+        "periodId": "dongjin",
+        "periodIds": [
+          "dongjin"
+        ],
+        "sourceRecords": [
+          {
+            "file": "js/lore_data.js",
+            "path": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/442",
+            "index": 442
+          }
+        ],
+        "note": {
+          "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+          "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+        }
+      }
+    },
+    {
+      "id": "china-event-zhanguo-015",
+      "title": {
+        "en": "Bai Qi captures Chu capital Ying as Qu Yuan drowns; Tian Dan restores Qi (279 BCE)",
+        "zh": "秦白起拔楚都郢，屈原投江；前279年田单复齐"
+      },
+      "start": -278,
+      "end": -278,
+      "location": {
+        "lon": 112.2,
+        "lat": 30.35,
+        "label": "Ying (Jiangling)"
+      },
+      "region": "east-asia",
+      "theme": "states",
+      "kind": "event",
+      "importance": 1,
+      "summary": {
+        "en": "Bai Qi captures Chu capital Ying as Qu Yuan drowns; Tian Dan restores Qi (279 BCE)",
+        "zh": "秦白起拔楚都郢，屈原投江；前279年田单复齐"
+      },
+      "dateNote": {
+        "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+        "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+      },
+      "locationPrecision": "representative",
+      "sources": [
+        {
+          "title": "Chronicles of the Realm — js/map_data.js (frozen source dataset)",
+          "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/map_data.js",
+          "publisher": "DeanChensj / Chronicles of the Realm",
+          "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+          "checkedAt": "2026-10-23"
+        }
+      ],
+      "aliases": [
+        "郢都（江陵）",
+        "Ying (Jiangling)"
+      ],
+      "provenance": {
+        "dataset": "jiangshan",
+        "status": "inherited",
+        "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+        "periodId": "zhanguo",
+        "periodIds": [
+          "zhanguo"
+        ],
+        "sourceRecords": [
+          {
+            "file": "js/map_data.js",
+            "path": "/DYNASTY_DATA/0/milestones/14",
+            "index": 14
+          }
+        ],
+        "note": {
+          "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+          "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+        }
+      }
+    },
+    {
+      "id": "china-event-xihan-007",
+      "title": {
+        "en": "Emperor Wu adopts Dong Zhongshu plan, elevating Confucianism and founding the Imperial Academy",
+        "zh": "汉武帝采董仲舒策罢黜百家、独尊儒术，兴太学置博士"
+      },
+      "start": -134,
+      "end": -134,
+      "location": {
+        "lon": 108.941,
+        "lat": 34.261,
+        "label": "Chang'an"
+      },
+      "region": "east-asia",
+      "theme": "states",
+      "kind": "event",
+      "importance": 1,
+      "summary": {
+        "en": "Emperor Wu adopts Dong Zhongshu plan, elevating Confucianism and founding the Imperial Academy",
+        "zh": "汉武帝采董仲舒策罢黜百家、独尊儒术，兴太学置博士"
+      },
+      "dateNote": {
+        "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+        "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+      },
+      "locationPrecision": "representative",
+      "sources": [
+        {
+          "title": "Chronicles of the Realm — js/map_data.js (frozen source dataset)",
+          "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/map_data.js",
+          "publisher": "DeanChensj / Chronicles of the Realm",
+          "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+          "checkedAt": "2026-10-23"
+        }
+      ],
+      "aliases": [
+        "长安",
+        "Chang'an"
+      ],
+      "provenance": {
+        "dataset": "jiangshan",
+        "status": "inherited",
+        "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+        "periodId": "xihan",
+        "periodIds": [
+          "xihan"
+        ],
+        "sourceRecords": [
+          {
+            "file": "js/map_data.js",
+            "path": "/DYNASTY_DATA/2/milestones/6",
+            "index": 6
+          }
+        ],
+        "note": {
+          "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+          "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+        }
+      }
+    },
+    {
+      "id": "china-landmark-068",
+      "title": {
+        "en": "Candlelight and Axe-Sound Mystery at Wansui Hall: Emperor Taizu dies and Taizong ascends",
+        "zh": "斧声烛影：宋太祖与晋王赵光义夜饮万岁殿暴崩，宋太宗即位"
+      },
+      "start": 976,
+      "end": 976,
+      "location": {
+        "lon": 114.35,
+        "lat": 34.79,
+        "label": "Dongjing (Kaifeng)"
+      },
+      "region": "east-asia",
+      "theme": "states",
+      "kind": "event",
+      "importance": 1,
+      "summary": {
+        "en": "Candlelight and Axe-Sound Mystery at Wansui Hall: Emperor Taizu dies and Taizong ascends",
+        "zh": "斧声烛影：宋太祖与晋王赵光义夜饮万岁殿暴崩，宋太宗即位"
+      },
+      "dateNote": {
+        "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+        "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+      },
+      "locationPrecision": "representative",
+      "sources": [
+        {
+          "title": "Chronicles of the Realm — js/lore_data.js (frozen source dataset)",
+          "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/lore_data.js",
+          "publisher": "DeanChensj / Chronicles of the Realm",
+          "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+          "checkedAt": "2026-10-23"
+        }
+      ],
+      "aliases": [
+        "东京开封府",
+        "Dongjing (Kaifeng)"
+      ],
+      "provenance": {
+        "dataset": "jiangshan",
+        "status": "inherited",
+        "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+        "periodId": "beisong",
+        "periodIds": [
+          "beisong"
+        ],
+        "sourceRecords": [
+          {
+            "file": "js/lore_data.js",
+            "path": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/67",
+            "index": 67
+          }
+        ],
+        "note": {
+          "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+          "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+        }
+      }
+    },
+    {
+      "id": "china-event-nansong-005",
+      "title": {
+        "en": "Yue Fei's northern campaign wins victories at Yancheng and Zhuxianzhen",
+        "zh": "岳飞北伐，郾城、颍昌大捷，进兵朱仙镇"
+      },
+      "start": 1140,
+      "end": 1140,
+      "location": {
+        "lon": 114.021,
+        "lat": 33.581,
+        "label": "Yancheng / Zhuxianzhen"
+      },
+      "region": "east-asia",
+      "theme": "states",
+      "kind": "event",
+      "importance": 1,
+      "summary": {
+        "en": "Yue Fei's northern campaign wins victories at Yancheng and Zhuxianzhen",
+        "zh": "岳飞北伐，郾城、颍昌大捷，进兵朱仙镇"
+      },
+      "dateNote": {
+        "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+        "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+      },
+      "locationPrecision": "representative",
+      "sources": [
+        {
+          "title": "Chronicles of the Realm — js/map_data.js (frozen source dataset)",
+          "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/map_data.js",
+          "publisher": "DeanChensj / Chronicles of the Realm",
+          "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+          "checkedAt": "2026-10-23"
+        }
+      ],
+      "aliases": [
+        "郾城 · 朱仙镇",
+        "Yancheng / Zhuxianzhen"
+      ],
+      "provenance": {
+        "dataset": "jiangshan",
+        "status": "inherited",
+        "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+        "periodId": "nansong",
+        "periodIds": [
+          "nansong"
+        ],
+        "sourceRecords": [
+          {
+            "file": "js/map_data.js",
+            "path": "/DYNASTY_DATA/12/milestones/4",
+            "index": 4
+          }
+        ],
+        "note": {
+          "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+          "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+        }
+      }
+    },
+    {
+      "id": "china-landmark-225",
+      "title": {
+        "en": "Emperor Lizong of Song elevates his former fief Shao Zhou to Baoqing Prefecture (Shaoyang)",
+        "zh": "宋理宗赵昀即位改元宝庆，以潜邸升邵州为宝庆府，控扼湘西南"
+      },
+      "start": 1225,
+      "end": 1225,
+      "location": {
+        "lon": 111.47,
+        "lat": 27.24,
+        "label": "Baoqing Prefecture (Shaoyang, Hunan)"
+      },
+      "region": "east-asia",
+      "theme": "states",
+      "kind": "event",
+      "importance": 1,
+      "summary": {
+        "en": "Emperor Lizong of Song elevates his former fief Shao Zhou to Baoqing Prefecture (Shaoyang)",
+        "zh": "宋理宗赵昀即位改元宝庆，以潜邸升邵州为宝庆府，控扼湘西南"
+      },
+      "dateNote": {
+        "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+        "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+      },
+      "locationPrecision": "representative",
+      "sources": [
+        {
+          "title": "Chronicles of the Realm — js/lore_data.js (frozen source dataset)",
+          "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/lore_data.js",
+          "publisher": "DeanChensj / Chronicles of the Realm",
+          "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+          "checkedAt": "2026-10-23"
+        }
+      ],
+      "aliases": [
+        "宝庆府（今湖南邵阳）",
+        "Baoqing Prefecture (Shaoyang, Hunan)"
+      ],
+      "provenance": {
+        "dataset": "jiangshan",
+        "status": "inherited",
+        "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+        "periodId": "nansong",
+        "periodIds": [
+          "nansong"
+        ],
+        "sourceRecords": [
+          {
+            "file": "js/lore_data.js",
+            "path": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/224",
+            "index": 224
+          }
+        ],
+        "note": {
+          "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+          "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+        }
+      }
+    },
+    {
+      "id": "china-event-ming-013",
+      "title": {
+        "en": "Emperor Xuanzong abolishes Jiaozhi Province and withdraws from Vietnam; Le Loi founds Later Le",
+        "zh": "明宣宗罢交趾布政使司撤军弃安南，黎利建后黎朝"
+      },
+      "start": 1427,
+      "end": 1427,
+      "location": {
+        "lon": 105.851,
+        "lat": 21.031,
+        "label": "Jiaozhi (Hanoi)"
+      },
+      "region": "southeast-asia",
+      "theme": "states",
+      "kind": "event",
+      "importance": 1,
+      "summary": {
+        "en": "Emperor Xuanzong abolishes Jiaozhi Province and withdraws from Vietnam; Le Loi founds Later Le",
+        "zh": "明宣宗罢交趾布政使司撤军弃安南，黎利建后黎朝"
+      },
+      "dateNote": {
+        "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+        "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+      },
+      "locationPrecision": "representative",
+      "sources": [
+        {
+          "title": "Chronicles of the Realm — js/map_data.js (frozen source dataset)",
+          "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/map_data.js",
+          "publisher": "DeanChensj / Chronicles of the Realm",
+          "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+          "checkedAt": "2026-10-23"
+        }
+      ],
+      "aliases": [
+        "交趾（河内）",
+        "Jiaozhi (Hanoi)"
+      ],
+      "provenance": {
+        "dataset": "jiangshan",
+        "status": "inherited",
+        "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+        "periodId": "ming",
+        "periodIds": [
+          "ming"
+        ],
+        "sourceRecords": [
+          {
+            "file": "js/map_data.js",
+            "path": "/DYNASTY_DATA/14/milestones/12",
+            "index": 12
+          }
+        ],
+        "note": {
+          "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+          "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+        }
+      }
+    },
+    {
+      "id": "china-event-ming-019",
+      "title": {
+        "en": "Emperor Xianzong sets up the Western Depot; Ming-Joseon forces launch the Chenghua Campaign",
+        "zh": "明宪宗设西厂；汪直、朱永联合朝鲜发起“成化犁庭”"
+      },
+      "start": 1479,
+      "end": 1479,
+      "location": {
+        "lon": 124.75,
+        "lat": 41.73,
+        "label": "Beijing · Hetu Ala"
+      },
+      "region": "east-asia",
+      "theme": "states",
+      "kind": "event",
+      "importance": 1,
+      "summary": {
+        "en": "Emperor Xianzong sets up the Western Depot; Ming-Joseon forces launch the Chenghua Campaign",
+        "zh": "明宪宗设西厂；汪直、朱永联合朝鲜发起“成化犁庭”"
+      },
+      "dateNote": {
+        "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+        "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+      },
+      "locationPrecision": "representative",
+      "sources": [
+        {
+          "title": "Chronicles of the Realm — js/map_data.js (frozen source dataset)",
+          "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/map_data.js",
+          "publisher": "DeanChensj / Chronicles of the Realm",
+          "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+          "checkedAt": "2026-10-23"
+        }
+      ],
+      "aliases": [
+        "北京 · 赫图阿拉",
+        "Beijing · Hetu Ala"
+      ],
+      "provenance": {
+        "dataset": "jiangshan",
+        "status": "inherited",
+        "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+        "periodId": "ming",
+        "periodIds": [
+          "ming"
+        ],
+        "sourceRecords": [
+          {
+            "file": "js/map_data.js",
+            "path": "/DYNASTY_DATA/14/milestones/18",
+            "index": 18
+          }
+        ],
+        "note": {
+          "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+          "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+        }
+      }
+    }
+  ],
+  "sourceReceipts": {
+    "web-r2.json": {
+      "content": [
+        {
+          "type": "text",
+          "text": "도연명陶淵明의 팽택령彭澤令 사직辭職에 대한 소고小考 (https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002851551)\n【turn904868search0】 [wordlim: 200] Crawled: 3 months ago; 在中国历史长河中，窥探这一现象的典型事例就是东晋陶渊明（365~427）辞官彭泽令，选择“归田园居”之事。 ... 405年8月，陶渊明在叔父陶夔的推荐下担任彭泽令，在官八十余日，11月便辞官归乡。\n\n--------------------------------------------------------------------------------\nAn investigation paper into the reasons for Tao Ximing's resignation from official Peng Zhan-ling (https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002851551)\n【turn904868search1】 [wordlim: 200] Published: 4.9 years ago; Crawled: 2 weeks ago; 在中国历史长河中，窥探这一现象的典型事例就是东晋陶渊明（365~427）辞官彭泽令，选择“归田园居”之事。 ... 405年8月，陶渊明在叔父陶夔的推荐下担任彭泽令，在官八十余日，11月便辞官归乡。\n\n--------------------------------------------------------------------------------\n第二节 成化至正德年间的政治宪宗怠政，汪直掌西厂 - 《中国通史 第九卷 中古时代·明时期（上册）》 - 数字图书馆，智慧电子阅览室系统 (https://szzy.7lue.cn/read/be52d935a71af4ba759983fee793b3ea/9007d7a9ddf5f3abe92c452e4b114a0f.md)\n【turn904868search2】 [wordlim: 200] Crawled: 3 days ago; 宪宗不是一个励精图治、有所作为的皇帝。 ... 成化十三年（1477）春正月，东厂之外又开设了西厂，以太监汪直掌西厂。汪直是大藤峡瑶人，朝廷镇压瑶民起义时被俘入宫，初为万贵妃昭德宫内使。\n\n--------------------------------------------------------------------------------\n第二节 汪直 - 《中国通史 第九卷 中古时代·明时期（下册）》 - 数字图书馆，智慧电子阅览室系统 (https://szzy.7lue.cn/read/7f53466aa8aa3caf29a333b2b912b4d0/9f96f3d10d74cbec367e08586b000ff6.md)\n【turn904868search3】 [wordlim: 200] Crawled: 3 days ago; 汪直利用西厂，加强对官员的侦缉，压制反对他的官员。 ... 成化十五年（1479），汪直开始干预边事。自天顺（1457—1464）以来， 鞑靼人进入黄河以南、宁夏至偏头关之间的河套地区，对明朝北边形成很大威胁。\n\n--------------------------------------------------------------------------------\n明史纪事本末 (四库全书本)/全览2 - 维基文库，自由的图书馆 (https://zh.wikisource.org/zh-hans/%E6%98%8E%E5%8F%B2%E7%B4%80%E4%BA%8B%E6%9C%AC%E6%9C%AB_%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29/%E5%85%A8%E8%A6%BD2)\n【turn904868search4】 [wordlim: 200] Crawled: 2 days ago; 　　宪宗成化十三年春正月置西厂命太监汪直诇刺外事汪直者大藤峡猺獞也猺贼平直以㓜男入禁中为昭徳宫内使寻堂御马监事年少黠谲上宠之先是妖人李子龙以左道惑众内使鲍石郑忠敬信之夤缘入内府时引至万岁山观望谋不轨锦衣官校发其事伏诛自是上锐意欲知外事乃选锦衣官校善刺事者百馀人则置厂于灵济宫前号西厂永乐中尽僇建文诸臣怀疑不自安始设东厂主刺奸至是名西厂以别东厂也纵直出入分命诸校广刺督责大政小事方言巷语悉采以闻　二月籍没福建都指挥杨⿱家⿱少师荣曾孙也居乡逃罪入京师锦衣百戸韦瑛故无赖冒内官韦姓者从征延绥升百戸至是诣汪直报之谓⿱家赀巨万常杀人将招纳亡命下海直喜发卒捕之词连兵部主事杨仕伟中书舍人董玙俱下狱濒死⿱⿱竟毙复遣瑛籍其家　三月左都御史李宾奏拟妄报妖言者坐斩时西厂旗校以捕妖言图官赏无籍者多为赝书诱愚民行事者捕之加以法外之刑冤死相属无敢言者故宾奏之　夏四月汪直令韦瑛执左通政方贤太医院判蒋宗武下西厂狱礼部郎中乐章行人张廷网使安南还刑部郎中武清广西勘事还浙江布政使刘福起复至京汪直并令韦瑛执系之御史黄本云南贵州清军刷卷还汪直令韦瑛搜得象笏一执送锦衣卫问为民　五月罢西厂时汪直开西厂罗织数起大狱臣民悚怵大学士商辂䟽言近日伺察太繁政令太急刑网太密人情疑畏汹汹不安盖缘陛下委听断于汪直而直又寄耳目于群小也中外骚然安保其无意外不测之变往者曹钦之反皆逯杲有以激之一旦祸兴卒难消弥望陛下㫁自宸衷革去西厂罢汪直以全其身诛韦瑛以正其罪疏入上怒曰一内竖辄危天下乎太监怀恩传旨诘责甚厉辂曰朝臣无大小有罪皆请旨收问直敢擅逮三品以上京官大同宣府北门锁钥守备不可一日缺直则一日擒械数人南京祖宗根本重地留守大臣直辄收捕诸近侍直辄易置直不黜国家安得不危恩啮指而退奏上上立命去西厂召怀恩数直罪责之谪韦瑛戍宣府　兵部尚书项忠削籍为民初汪直掌西厂士大夫无与往还左都御史王越因西征识韦瑛遂深相结日往伺直吏部尚书尹旻偕诸卿贰欲诣直属越为介既见直相率诸卿贰叩头出直大悦一日项忠途遇直既过觉之追及下舆谢忠不为礼寻辱忠于朝复遣校卒直上堂辞色甚厉忠亦不为礼而王越谋代忠又毁短之直以是衔忠日掇拾其事危甚忠具䟽倡九卿劾奏直令武选郎中姚璧持赴旻署名旻曰本项公所撰当以兵部为首璧曰公六卿长也旻怒曰今日亦知六卿长乎即遣人报韦瑛直愈怒思有以中忠会千戸吴绶者先在楚军挠法忠逐绶绶从直营求书记颇工文词直喜得授锦衣副千戸及西厂罢上有时密召直察外间事直因以吴绶能文事封进遂命绶于镇抚司问刑直乃嗾东厂官校发江西都指挥刘江指挥黄宾事诬构忠给事中郭镗御史冯瓘附直交论忠违法忠廷辩慷慨不少屈狱成竟坐削籍璧亦降调璧故尚书夔子也　六月以御史戴缙王亿言复西厂命汪直仍刺事缙言近年灾变洊臻未闻大臣进何贤退何不肖惟太监汪直釐奸剔弊允合公论而止以官校韦瑛张皇行事遂革西厂伏望推诚任人命两京大臣自陈去留㫁自圣衷上悦时缙九年不迁以觊进故颂直其自陈一事尤直所喜盖直常恶商辂李宾难于施行也亿言汪直所行不独可为今日法且可为万世法天下闻而唾之　大学士商辂尚书薛远董方左都御史李宾并致仕以王越为兵部尚书兼左都御史掌院事时越附汪直嗾御史冯瑾排诸大臣辂既致仕远等相继自陈去　十一月以御史冯瓘为大理寺丞戴缙为尚宝司少卿缙寻擢佥都御史王亿为湖广按察副使\n\n--------------------------------------------------------------------------------\n九江历史上的今天 · 11月28日 · 归去来兮辞，田园何日归？_陶渊明_彭泽_日期 (https://www.sohu.com/a/610890451_120180705)\n【turn904868search5】 [wordlim: 200] Published: 4.0 years ago; Crawled: 3 weeks ago; 鄂州虽然距离彭泽不太远，陶渊明听到妹妹的死讯也要过几天，得到消息再挂冠而去，笔者估计大约在 12 月 20 日左右，不早于 12 月 15 日。 ... 综上，笔者估算陶渊明在 405 年 9 月 10 日到十月初之间就任彭泽县令，在 405 年 12 月 15 日以后辞官，不会超过次年 1 月初，否则就超出了“在官八十馀日”的范围。\n\n--------------------------------------------------------------------------------\n陶渊明：田园梦还是要有的，万一实现了呢？ (https://m.thepaper.cn/newsDetail_forward_17086304)\n【turn904868search6】 [wordlim: 200] Published: 4.7 years ago; Crawled: last month; 晋安帝义熙元年（公元405年），陶渊明在《归去来兮辞》中，扪心自问：“归去来兮，田园将芜胡不归？” ... 于是同年，四十岁的他在做了八十几天的彭泽县令后，决定辞官回家。\n\n--------------------------------------------------------------------------------\n晋代千古隐士陶渊明(下) (https://www.kanzhongguo.eu/book/export/html/52495)\n【turn904868search7】 [wordlim: 200] Published: 7.8 years ago; Crawled: last month; 义熙元年（405年）秋天，在仕途上几经沉浮的陶渊明就任彭泽县令，为了减轻农民的负担，就任之初果断决定清查全县户口。 ... 县主簿蒋惠如实告诉陶渊明：“回禀大人，据我所知，敢于隐瞒户口的主要有两种人：一种是财大气粗的大地主，因为有钱，他们就用大量钱财贿赂清查的衙役，帮他们隐瞒人口；另一种是当地的豪绅，他们因为家族中有人在州郡中做官，清查人员不敢进行正常的工作，如富豪何泰的弟弟何隆，长期担任寻阳郡丞，是太守的副职，主管一郡官员的考核和选拔任用，所以彭泽县历任县令都对何泰家格外优待。\n\n--------------------------------------------------------------------------------\n历代通鉴纂要/卷80 - 维基文库，自由的图书馆 (https://zh.wikisource.org/zh-hans/%E6%AD%B7%E4%BB%A3%E9%80%9A%E9%91%91%E7%BA%82%E8%A6%81/%E5%8D%B780)\n【turn904868search8】 [wordlim: 200] Crawled: yesterday; 两河豪杰李通等帅众归飞由是金人动息山川险要飞𣅜得其实磁相泽路𣈆降汾隰之境𣅜期​日兴兵与官军会所揭旗以岳为号父老百姓争挽车牵牛载糗粮以馈义军顶盆焚香迎候者充满道路自燕以南金人号令不行兀术欲佥军以抗飞河北无一人应者乃叹曰自我起北方以来未有如今日之挫衄金将乌陵思谋素桀黠亦不能制其下但谕之曰毋轻动待岳家军来即降金将王镇崔庆李觊崔虎华旺等皆率所部降飞龙虎大王之将忔查等亦自其国来降韩常亦欲以众五万内附飞大喜语其下曰直抵黄龙府与诸君痛饮耳方指日渡河而秦桧欲画淮以北与金​和讽䑓臣请班师飞奏金人锐气沮丧尽弃辎重疾走渡河而我豪杰向风士卒用命时不再来机难轻失桧知飞志锐不可回乃先请张俊杨沂中等归而后上言飞孤军不可久留飞一日奉十二金字牌乃愤惋泣下东面再拜曰十年之力废于一旦乃自郾城引兵还民遮马痛哭诉曰我等迎官军金人皆知之相公去我軰无噍类矣飞亦悲泣取诏示之曰吾不得擅留哭声震野飞留五日以待民徙从而南者如市初兀术败于朱仙镇欲弃汴去有书生叩马曰太子毋走自古未有权臣​在内而大将能立功于外者岳少保且不免况成功乎兀术悟遂留不去及飞还河南新复府州皆复为金有飞至鄂力请解兵柄不许巳而入觐帝问之飞拜谢而巳寻遣使谕世忠罢兵还镇\n\n--------------------------------------------------------------------------------\n漯河市 (https://zh.wikipedia.org/wiki/%E6%BC%AF%E6%B2%B3%E5%B8%82)\n【turn904868search46】 [wordlim: 200] Crawled: last month; 南宋绍兴十年（1140年）七月上旬，岳飞率一支轻骑驻守郾城，和金兀术一万五千精骑发生激战。 ... 岳飞乘胜进军朱仙镇，大败金兀术的十万大军。\n\n--------------------------------------------------------------------------------\n不一样的陶渊明：反复出仕与反复退隐 (https://m.thepaper.cn/baijiahao_24488535)\n【turn904868search9】 [wordlim: 200] Published: 3.2 years ago; Crawled: last month; 陶渊明所任的祭酒究竟是一般的祭酒从事史，还是地位相当高的别驾祭酒，史料有缺，现在已难确指；按一般的情理来推测，应当不是高居于吏职之首的别驾祭酒，而是分管某一领域的祭酒从事史。 ... 可知到乙巳即义熙元年（405）三月，陶渊明对自己的“一形似有制”、失去充分自由深感不满，对如此卖劲地在外面奔走效劳狠狠地自嘲——“伊余何为者，勉励从兹役？” ... 陶渊明最后这三次为官（镇军参军、建威参军、彭泽令）的时间，包括其间的空隙，加起来也不足两年，义熙元年（405）十一月他终于彻底归隐了。 ... 至于最后一次充当彭泽令，经济因素尤其明显，他在《归去来兮辞》的小序中不仅明确地说到这一次复出可望有一笔不菲的“公田之利”，也就是充当县令的官俸，而且说起过去历次出仕都是“口腹自役”——为了吃饭而奔忙。\n\n--------------------------------------------------------------------------------\n汪直 _ 百科 (https://baike.sogou.com/m/fullLemma?lid=516364)\n【turn904868search10】 [wordlim: 200] Crawled: 4 months ago; 成化十三年（1477年）正月，明宪宗建立西厂，由汪直统领，钦定校尉人数多于东厂一倍。 ... 同年，商辂弹劾西厂奏章中说“今汪直年幼，未谙世事，止凭韦瑛等主使”，在外监军时期怀恩评价“直年少喜功”，按古代标准符合这个条件的，再以入宫时间推算，应该是提督西厂时候只有十五六岁，被贬南京时候二十出头。\n\n--------------------------------------------------------------------------------\n“九江十景”之四：渊明故里 (https://gd.huaxia.com/c/2021/08/26/740660.shtml)\n【turn904868search11】 [wordlim: 200] Published: 5.2 years ago; Crawled: 5 months ago; 义熙元年（405年）秋，陶渊明任彭泽县令，到任八十一天，碰到浔阳郡派遣邮至，属吏说：“当束带迎之。” ... 陶渊明13年的仕宦生活，自辞彭泽县令结束，终于同黑暗官场彻底决裂，抛弃功名利禄，归隐田园。\n\n--------------------------------------------------------------------------------\n1140年 (https://zh.wikipedia.org/wiki/1140%E5%B9%B4)\n【turn904868search47】 [wordlim: 200] Crawled: 5 months ago; 1140年 ... * 五月，完顏兀朮撕毀1139年與南宋的和議，再次大舉南侵，岳飛、劉錡分別在郾城之戰、順昌之戰以少勝多，予以金軍沉重打擊，岳飛相繼收復鄭州、洛陽等地，乘勝進佔朱仙鎮，完顏兀朮退至開封。\n\n--------------------------------------------------------------------------------\n不为五斗米折腰？我们错了1600年！真相是陶渊明五仕三隐后，悟出人生为何不能当官 (https://www.jfdaily.com/wx/detail.do?id=93443)\n【turn904868search12】 [wordlim: 200] Published: 8.4 years ago; Crawled: last month; 家里实在揭不开锅了，急忙求应彭泽令，我们的大诗人开始了他人生中的最后一次为官之旅。\n\n义熙元年乙巳（405年）八月，42岁的陶渊明出任彭泽令，十一月即辞官归隐。\n\n--------------------------------------------------------------------------------\n胡正良|风流也曾醉千秋（下）——王朝背影之东晋文艺三杰篇 (https://m.thepaper.cn/newsDetail_forward_27158700)\n【turn904868search13】 [wordlim: 200] Published: 2.5 years ago; Crawled: 2 months ago; 9岁丧父的陶渊明，在柴桑的乡下度过少年时代后，因为贫穷而出仕谋生，29岁时，受王羲之后人的关照任江州祭酒，不久因不满官场黑暗而辞职归隐，入东晋权臣桓玄门下谋生时，又遇母亲去世只能回家守丧，刘裕当政时出任参军，继而入刘敬宣帐前任参军，公元405年8月改任彭泽县令。 ... 这个故事发生在晋安帝司马德宗的义熙元年（405年），刚过不惑之年的陶渊明就任彭泽县令时，浔阳郡派督邮刘云前来彭泽检查公务，并提前通知他好好接待。\n\n--------------------------------------------------------------------------------\n陶渊明为何辞官隐居（共8篇） (https://www.gerenjianli.cn/fwdq/shiyongwen/10333183.html)\n【turn904868search14】 [wordlim: 200] Published: 3.6 years ago; Crawled: last month; 于是405年他便改任建威将军江州刺史刘敬宣的参军。 ... 陶渊明彻底觉悟到世俗与自己崇尚自然的本性是相违背的，他不能改变本性以适应世俗，再加上对政局的失望，于是坚决地辞官归隐了。 ... 稍有疑问的是，此事发生在义熙元年（405），距陶渊明二十九岁出仕已近十三年。在任彭泽令之前，陶渊明还担任过江州祭酒、桓玄幕僚、刘裕镇军参军、刘敬宣建威参军等职，对官场应酬应该早已习惯；而且诸如镇军参军、建威参军这样的军府僚佐，晋见上司的礼节要求更为严格，不要说束带见之，跪拜叩首都是常事。\n\n--------------------------------------------------------------------------------\n (https://www.people.com.cn/24hour/n/2013/0321/c25408-20859124.html)\n【turn904868search15】 [wordlim: 200] Published: 13.7 years ago; Crawled: 13.7 years ago; 　　岳飞庙位于距七朝古都开封城南22.5公里、中国历史文化名镇朱仙镇镇区内。绍兴十年（1140年），民族英雄岳飞出师中原，收复失地，大破金兵于朱仙镇。 ... 近年来，朱仙镇岳飞庙不仅是青少年爱国主义教育的场所，还是传播民族之魂的重要阵地。\n\n--------------------------------------------------------------------------------\n抗金战绩\n\n岳飞一生，以抗金报国为志，战绩彪炳，深得宋朝军民爱戴，甚至获敌军敬重。\n\n<visual (https://chiculture.org.hk/sites/mainsite/files/2019-08/0111_yuefei_pdf_cn.pdf)\n【turn904868search48】 [wordlim: 200] Published: 7.7 years ago; 图中用白色箭头表示“1136年岳飞北伐路线”，用黄色箭头表示“1140年岳飞大举北伐路线”。地图上标注的地点包括：黄河、河南府（洛阳）、郑州、开封府（汴京）、朱仙镇、许州（颍昌）、临颍、陈州、蔡州、唐州、邓州、襄阳府、随州、德安府、信阳军、光州、商州、虢州、长水、永宁、汝州、高沙、郾城、颍州等；区域文字有“浙水”“颍水”“汉水”“长江”等。\n\n--------------------------------------------------------------------------------\n郾城大捷传青史 家国情怀贯古今——“岳飞与漯河”系列之一（下） (https://static.lhrb.com.cn/files/app/lhapp/html/News/202303/08/99113295.html?v=1679886815)\n【turn904868search16】 [wordlim: 200] Published: 3.7 years ago; Crawled: 3.6 years ago; ## 郾城大捷传青史 家国情怀贯古今——“岳飞与漯河”系列之一（下） ... 绍兴十年（公元1140年）七月十三日，岳家军骁将杨再兴率三百名骑兵巡逻到临颍县境内的小商桥时，突然遇到敌方的大队人马。 ... 所幸在十三日下午，岳飞的部将张宪已从颍昌府带领背嵬军和游奕军赶到临颍县，并于十四日清晨在小商桥投入战斗，杀死金兵甚多，而且追赶金军至临颍县城三十里外，金兵或往颍昌府方向、或往开封府尉氏县方向逃跑。\n\n--------------------------------------------------------------------------------\n汪直设西厂乱政始末｜明史纪事本末·卷三十七｜史书馆 (https://shishuguan.com/books/mingshi-jishi-benmo-baihuawen-full/volume-38/chapter-1)\n【turn904868search17】 [wordlim: 200] Crawled: today; 从此皇上急切地想要了解宫外事务，于是挑选了百余名善于刺探的锦衣卫官员校尉，在灵济宫前另外设置了一个工厂，称为西厂。 ... 放任汪直出入，分别命令各校尉，广泛刺探督察，大的政事小事，方言巷语，全都采集上报。 ... 肆罗织之文，振威福之势，兵连西北，民困东南，天下之人但知有西厂而不知有朝廷，但知畏惧汪直而不知畏惧陛下。\n\n--------------------------------------------------------------------------------\n宦官汪直：一个明朝宦官，为何能在成化年间擅政？|锦衣卫|明宪宗|马文升|辽东|陈钺_新浪新闻 (https://k.sina.cn/article_1279616590_4c45664e001019bve.html)\n【turn904868search18】 [wordlim: 200] Published: 6.6 years ago; Crawled: 4 weeks ago; 明成化十二年（公元1477年），当时的一名道士李子龙，以“左道”驰名一时，在朝中有极多的亲信。 ... 成化十三年（公元1478年）正月，明宪宗正式设立西厂，命汪直负责刺探朝廷外事务。 ... 同年四月，汪直令韦瑛逮捕通政使司左通政方贤、太医院判蒋宗武下西厂狱；当时礼部郎中乐章、行人张廷网出使安南归还，刑部郎中武清从广西勘事归还，浙江布政使刘福起复至京师，均被汪直并令韦瑛逮捕。\n\n--------------------------------------------------------------------------------\n明宪宗时期设置西厂 因朝中局势而两兴两废-凯风网 (https://www.kaiwind.com/n428/c813178/content.html)\n【turn904868search19】 [wordlim: 200] Published: 4.2 years ago; Crawled: 4 months ago; 明宪宗看后，正中下怀，于是在成化十三年（1477年）六月十五日下令复开西厂。 ... 西厂重开之后，与汪直勾结在一起、充当其帮凶的主要是王越和陈钺。 ... 成化十五年（1479年）秋，汪直受命巡边，“率飞骑日驰数百里，御史、主事等官迎拜马首，箠挞守令”。\n\n--------------------------------------------------------------------------------\n郾城之役：骑兵战阵 \n \n \n \n \n \nI. \n郾城之役的背景及基本资料 \n自靖康之难后，宋朝的首 (https://www.edb.gov.hk/attachment/sc/curriculum-development/kla/pshe/references-and-resources/chinese-history/war5_sc.pdf)\n【turn904868search49】 [wordlim: 200] Published: 6 months ago; 郾城之役的背景及基本资料 ... 当时岳飞驻守长江中游的江陵府，进行了北伐，目 ... 朱仙镇\n\n--------------------------------------------------------------------------------\n郾城之戰 (https://zh.wikipedia.org/wiki/%E9%83%BE%E5%9F%8E%E4%B9%8B%E6%88%B0)\n【turn904868search50】 [wordlim: 200] Crawled: 2.9 years ago; 所以，在岳家军顺利北向进军之日，在金军已有准备从河南撤退的迹象之时，岳飞就已经向南宋王朝发出呼吁，要它‘速赐指挥，令诸路之兵火速并进’；及至张俊的部队从毫州撤退之后，金军并力来打击岳家军时，在郾城和颍昌府的几次战役当中，岳家军虽然还勉强获胜，不曾落得失败的下场，而用战略眼光来估量这场战争，却已注定是必败之局了”。 ... *  现存朱仙镇之战最早记录见于岳飞之孙岳珂編撰《鄂国金佗稡编》卷八《鄂王行实编年》：“先臣獨以其軍進至朱仙鎮，距京師才四十五里。\n\n--------------------------------------------------------------------------------\n《成化十四年》中的汪直，从广西叛军中的幼童，逆袭为西厂老板_百科TA说 (https://wapbaike.baidu.com/tashuo/browse/content?fromModule=tashuo-article_bottom-tashuo-feed&id=097c78352a46f0e4534957f9)\n【turn904868search20】 [wordlim: 200] Published: 6.6 years ago; Crawled: 4 weeks ago; 最终于成化十三年（1477年）正月，宪宗选拔锦衣卫擅长刺探消息的校尉100多人，在灵济宫前设立官衙，称“西厂”。 ... 仁宣时期“三杨”之一杨荣的后代，时任福建军官的杨泰、杨华父子为非作歹，欺压乡里，后来父子二人逃到北京行贿，被西厂侦知抓捕，汪直经皇帝同意将二人判处死刑。\n\n--------------------------------------------------------------------------------\n大明内阁首辅商辂为何领衔上疏弹劾宦官汪直？西厂的十大恶行_凤凰网 (https://i.ifeng.com/c/8ES3H7uNVcQ)\n【turn904868search21】 [wordlim: 200] Published: 4.7 years ago; Crawled: 4 months ago; 明宪宗成化十三年（公元1477年），为强化侦缉搜捕能力，皇帝朱见深在东厂之外，又增设了西厂。 ... 早在明英宗正统十四年（公元1449年）农历八月，朱祁镇被瓦剌生俘、郕王（即明代宗朱祁钰）监国之时，商辂就进入大明内阁，成为阁员。 ... 针对西厂设立后大狱不断的状况，时任内阁首辅的商辂率领同僚上书朝廷，条陈西厂及汪直恶行十款：\n\n--------------------------------------------------------------------------------\n明通鑑/卷037 - 维基文库，自由的图书馆 (https://zh.wikisource.org/wiki/%E6%98%8E%E9%80%9A%E9%91%91/%E5%8D%B7037)\n【turn904868search22】 [wordlim: 200] Crawled: 2 months ago; 辂奏罢西厂，汪直谮其“尝纳指挥杨勰贿，欲脱其罪”，辂不自安。会戴缙复颂直功，请复西厂，辂遂力求去。 ... 汪直治杨勰之狱，谤诸大臣受贿，自商辂外，并及刑部尚书董方、都御史李宾等，上颇信之。 ... 考异〗《明史》、《三编》，皆书“工部尚书”，而《三编·目》中又书“兵部”，疑“兵”字误也。\n"
+        }
+      ],
+      "isError": false
+    },
+    "web-passages5.json": {
+      "content": [
+        {
+          "type": "text",
+          "text": "明史/卷304 - 维基文库，自由的图书馆 (https://zh.wikisource.org/wiki/%E6%98%8E%E5%8F%B2/%E5%8D%B7304)\n【turn313597view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"turn366617view3\",\"lineno\":231}); Total lines: 361\nL228: 五月，大學士商輅與萬安、劉珝、劉吉奏其狀。帝震怒，命司禮太監懷恩、覃吉、黃高至閣下，厲色傳旨，言：「疏出誰意？」輅口數直罪甚悉，因言：「臣等同心一意，為國除害，無有先後。」珝慷慨泣下。恩遂據實以奏。頃之，傳旨慰勞。翼日，尚書忠及諸大臣疏亦入。帝不得已，罷西廠，使懷恩數直罪而宥之，令歸御馬監，調韋瑛邊衛，散諸旗校還錦衣。中外大悅。然帝眷直不衰。直因言閣疏出司禮監黃賜、陳祖生意，為楊曄報復。帝即斥賜、祖生於南京。御史戴縉者，佞人也，九年秩滿不得遷。窺帝旨，盛稱直功。詔復開西廠，以千戶吳綬為鎮撫，直焰愈熾。未幾，令東廠官校誣奏項忠，且諷言官郭鏜、馮貫等論忠違法事。帝命三法司、錦衣衛會問。眾知出直意，無敢違，竟勒忠為民。而左都御史李賓亦失直旨褫職，大學士輅亦罷去。一時九卿劾罷者，尚書董方、薛遠及侍郎滕昭、程萬里等數十人。以所善王越為兵部尚書兼左都御史，陳鉞為右副都御史巡撫遼東。\nL229: 十五年秋，詔直巡邊，率飛騎日馳數百里，御史、主事等官迎拜馬首，箠撻守令。各邊都御史畏直，服櫜迎謁，供張百里外。至遼東，陳鉞郊迎蒲伏，廚傳尤盛，左右皆有賄。直大悅。惟河南巡撫秦纮與直抗禮，而密奏直巡邊擾民。帝弗省。兵部侍郎馬文升方撫諭遼東，直至不為禮，又輕鉞，被陷坐戍，由是直威勢傾天下。\nL230: \nL231: 直年少喜兵。陳鉞諷直征伏當加，立邊功自固。直聽之，用撫寧侯朱永總兵，而自監其軍。師還，永封保國公，鉞晉右都御史，直加祿米。又用王越言，詐稱亦思馬因犯邊。詔永同越西討，直為監軍。越封威寧伯，直再加祿米。已，伏當加寇遼東，亦思馬因寇大同，殺掠甚眾。遼東巡按強珍發鉞奸狀，直右鉞謫珍。於是惡直者，指王越、陳鉞為二鉞。小中官阿醜工俳優，一日於帝前為醉者謾罵狀。人言駕至，謾如故。言汪太監至，則避走。曰：「今人但知汪太監也。」又為直狀，操兩鉞趨帝前。旁人問之，曰：「吾將兵，仗此兩鉞耳。」問何鉞，曰：「王越、陳鉞也。」帝聽然而笑，稍稍悟，然廷臣猶未敢攻直也。會東廠尚銘獲賊得厚賞，直忌，且怒銘不告。銘懼，乃廉得其所泄禁中秘語奏之，盡發王越交通不法事，帝始疏直。\nL232: 十七年秋，命直偕越往宣府禦敵。敵退，直請班師。不許，徙鎮大同，而盡召將吏還，獨留直、越。直既久鎮不得還，寵日衰。給事御史交章奏其苛擾，請仍罷西廠。閣臣萬安亦力言之。而大同巡撫郭鏜復言直與總兵許寧不和，恐誤邊事。帝乃調直南京御馬監，罷西廠不復設。中外欣然。尋又以言官言，降直奉御，而褫逐其黨王越、戴縉、吳綬等。陳鉞已致仕，不問。韋瑛後坐他事誅，人皆快之，然直竟良死。縉由御史不數年至南京工部尚書。越、鉞頗以材進。縉無他能，工側媚而已。\nL233: \nL234: 西廠廢，尚銘遂專東廠事。聞京師有富室，輒以事羅織，得重賄乃已。賣官鬻爵，無所不至。帝尋覺之，謫充南京凈軍，籍其家，輦送內府，數日不盡。而陳準代為東廠。準素善懷恩，既代銘，誡諸校尉曰：「有大逆，告我。非是，若勿預也。」都人安之。\nL235: ### 梁芳\nL236: \nL237: [【85†编辑】]\nL238: \nL239: 梁芳者，憲宗朝內侍也。貪黷諛佞，與韋興比。而諂萬貴妃，日進美珠珍寶悅妃意。其黨錢能、韋眷、王敬等，爭假采辦名，出監大鎮。帝以妃故，不問也。妖人李孜省、僧繼曉皆由芳進，共為奸利。取中旨授官，累數千人，名傳奉官，有白衣躐至太常卿者。陜西巡撫鄭時論芳被黜，陜民哭送之。帝聞頗悔，斥傳奉官十人，系六人獄，詔自後傳旨授官者俱覆奏，然不罪芳也。刑部員外郎林俊以劾芳及繼曉下獄。久之，帝視內帑，見累朝金七窖俱盡，謂芳及韋興曰：「糜費帑藏，實由汝二人。」興不敢對。芳曰：「建顯靈宮及諸祠廟，為陛下祈萬年福耳。」帝不懌曰：「吾不汝瑕，後之人將與汝計矣」。芳大懼，遂說貴妃勸帝廢太子，而立興王。會泰山累震，占者言應在東朝。帝懼，乃止。孝宗立，謫芳居南京，尋下獄，興亦斥退。正德初，群閹復薦興司香太和山，兼分守湖廣行都司地方。尚書劉大夏、給事中周璽、御史曹來旬諫，不聽。興遂復用，而芳卒廢以死。\nL240: #### 錢能\nL241: \nL242: [【86†编辑】]\nL243: \n\n--------------------------------------------------------------------------------\n宋史/卷003 - 维基文库，自由的图书馆 (https://zh.wikisource.org/wiki/%E5%AE%8B%E5%8F%B2/%E5%8D%B7003)\n【turn313597view1】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"turn366617view1\",\"lineno\":255}); Total lines: 315\nL246: 　　五月己巳，幸東水磑，遂幸飛龍院，觀漁金水河。甲戌，遣司勳員外郎和峴往江南路採訪。殺盧絳。庚辰，幸講武池，遂幸玉津園觀稼。宋州大風，壞城樓、官民舍幾五千間。甲申，以閣門副使田守奇等充賀契丹生辰使。晉州以北漢嵐、石、憲三州巡檢使王洪武等來獻。\nL247: \nL248: 　　六月庚子，步至晉王邸，命作機輪，輓金水河注邸中為池。癸卯，吳越王進銀、絹、綿以倍萬計。乙卯，熒惑入南斗。\nL249: \nL250: 　　秋七月戊辰，幸晉王第觀新池。丙子，幸京兆尹光美第視疾。戊寅，再幸光美第。泉州節度使陳洪進乞朝覲。丙戌，命近臣祈晴。丁亥，命修先代帝王及五嶽四瀆祠廟。庚寅，幸光美第。\nL251: \nL252: 　　八月乙未朔，吳越國王進射火箭軍士。己亥，幸新龍興寺。辛丑，太子中允郭思齊坐贓棄市。乙巳，幸等覺院，遂幸東染院，賜工人錢。又幸控鶴營觀習射，賜帛有差。又幸開寶寺觀藏經。丁未，遣侍衛馬軍都指揮使党進、宣徽北院使潘美伐北漢。丙辰，遣使率兵分五道入太原。\nL253: \nL254: 　　九月甲子，幸綾錦院。庚午，權高麗國事王伷遣使來朝獻。党進敗北漢軍於太原城北。辛巳，命忻、代行營都監郭進遷山後諸州民。庚寅，幸城南池亭，遂幸禮賢宅，又幸晉王第。\nL255: 　　冬十月甲午朔旦，賜文武百官衣有差。丁酉，兵馬監押馬繼恩率兵入河東界，焚蕩四十餘砦。己亥，幸西教場。庚子，鎮州巡檢郭進焚壽陽縣，俘九千人。辛丑，晉、隰巡檢穆彥璋入河東，俘二千餘人。党進敗北漢軍於太原城北。己酉，吳越王獻馴象。癸丑夕，帝崩於萬歲殿，年五十，殯於殿西階，諡曰英武聖文神德皇帝，廟號太祖。太平興國二年四月乙卯，葬永昌陵。大中祥符元年，加上尊諡曰啟運立極英武睿文神德聖功至明大孝皇帝。\nL256: \nL257: 　　帝性孝友節儉，質任自然，不事矯飾。受禪之初，頗好微行，或諫其輕出。曰：「帝王之興，自有天命，周世宗見諸將方面大耳者皆殺之，我終日侍側，不能害也。」既而微行愈數，有諫，輒語之曰：「有天命者任自為之，不汝禁也。」一日，罷朝，坐便殿，不樂者久之。左右請其故。曰：「爾謂為天子容易耶？早作乘快誤決一事，故不樂耳。」汴京新宮成，御正殿坐，令洞開諸門，謂左右曰：「此如我心，少有邪曲，人皆見之。」\nL258: 　　吳越錢俶來朝，自宰相以下咸請留俶而取其地，帝不聽，遣俶歸國。及辭，取群臣留俶章疏數十軸，封識遺俶，戒以途中密觀，俶屆途啟視，皆留己不遣之章也。俶自是感懼，江南平，遂乞納土。南漢劉鋹在其國，好置酖以毒臣下。既歸朝，從幸講武池，帝酌卮酒賜鋹，鋹疑有毒，捧杯泣曰：「臣罪在不赦，陛下既待臣以不死，願為大梁布衣，觀太平之盛，未敢飲此酒。」帝笑而謂之曰：「朕推赤心於人腹中，寧肯爾耶？」即取鋹酒自飲，別酌以賜鋹。\nL259: \nL260: 　　王彥升擅殺韓通，雖預佐命，終身不與節鉞。王全斌入蜀，貪恣殺降，雖有大功，即加貶絀。\nL261: \nL262: 　　宮中葦簾，緣用青布；常服之衣，浣濯至再。魏國長公主襦飾翠羽，戒勿復用，又教之曰：「汝生長富貴，當念惜福。」見孟昶寶裝溺器，摏而碎之，曰：「汝以七寶飾此，當以何器貯食？所為如是，不亡何待！」\nL263: \nL264: 　　晚好讀書，嘗讀二典，歎曰：「堯、舜之罪四凶，止從投竄，何近代法網之密乎！」謂宰相曰：「五代諸侯跋扈，有枉法殺人者，朝廷置而不問。人命至重，姑息藩鎮，當若是耶？自今諸州決大辟，錄案聞奏，付刑部覆視之。」遂著為令。\nL265: 　　乾德改元，先諭宰相曰：「年號須擇前代所未有者。」三年，蜀平，蜀宮人入內，帝見其鏡背有志「乾德四年鑄」者，召竇儀等詰之。儀對曰：「此必蜀物，蜀主嘗有此號。」乃大喜曰：「作相須讀書人。」由是大重儒者。\nL266: \nL267: 　　受命杜太后，傳位太宗。太宗嘗病亟，帝往視之，親為灼艾，太宗覺痛，帝亦取艾自灸。每對近臣言：太宗龍行虎步，生時有異，他日必為太平天子，福德吾所不及云。\nL268: ## 紀讚\nL269: \nL270: [【53†编辑】]\nL271: \nL272: 　　贊曰：昔者堯、舜以禪代，湯、武以征伐，皆南面而有天下。四聖人者往，世道升降，否泰推移。當斯民塗炭之秋，皇天眷求民主，亦惟責其濟斯世而已。使其必得四聖人之才，而後以其行事畀之，則生民平治之期，殆無日也。\nL273: \nL274: 　　五季亂極，宋太祖起介胄之中，踐九五之位，原其得國，視晉、漢、周亦豈甚相絕哉？及其發號施令，名藩大將，俯首聽命，四方列國，次第削平，此非人力所易致也。建隆以來，釋藩鎮兵權，繩贓吏重法，以塞濁亂之源。州郡司牧，下至令錄、幕職，躬自引對；務農興學，慎罰薄斂，與世休息，迄於丕平；治定功成，制禮作樂。在位十有七年之間，而三百餘載之基，傳之子孫，世有典則。遂使三代而降，考論聲明文物之治，道德仁義之風，宋於漢、唐，蓋無讓焉。嗚呼，創業垂統之君，規模若是，亦可謂遠也已矣！\nL275: \nL276: 【54†Image†thumb.wikimedia.org】\nL277: \nL278: 此元朝作品在全世界都属于【55†公有领域†zh.wikipedia.org】，因为作者逝世已经超过100年，且作品于1931年1月1日之前出版。\nL279: \nL280: Public domain Public domain false false\n\n--------------------------------------------------------------------------------\n西汉立太学的过程与时间 ———兼及汉武帝太初以前的年代问题 (https://ccj.pku.edu.cn/article/info?aid=787462097559621)\n【turn313597view2】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"turn683005view6\",\"lineno\":55}); Total lines: 103\nL0: 【0†Login】\nL1: \nL2: |\nL3: \nL4: 【1†Registration】\nL5: \nL6: |\nL7: \nL8: 中文(简体)\nL9: \nL10:   * 【2†Home】\nL11:   * 【3†Journals】\nL12:   * 【4†Articles】\nL13:   * 【5†About】\nL14: \nL15: Journal of traditional Chinese culture\nL16: \nL17: [Input] [Input] [Input] [Input] [Input]\nL18: \nL19: [Select]\nL20: \nL21: [Input: Please enter search term]\nL22: \nL23: [Input]\nL24: \nL25: [Input]\nL26: \nL27:   * 【6†Journal homepage】\nL28:   * 【7†Introduction】\nL29:   * 【8†Editorial Board】\nL30:   * 【9†Instructions for Authors】\nL31:   * 【10†Back Issues】\nL32: \nL33: 【11†Journal of traditional Chinese culture】 ›› 【12†2024 , (4)】 : 28-37.\nL34: \nL35: 西汉立太学的过程与时间 ———兼及汉武帝太初以前的年代问题\nL36: \nL37: 作 者：\nL38: \nL39:   *   【13†徐建委】\nL40: \nL41: 【14†1】\nL42: Affiliation(s)：\nL43: \nL44:   * 1 中国人民大学文学院\nL45: ### Cite this article\nL46: \nL47: GB/T 7714\nL48: \nL49: 徐建委等.西汉立太学的过程与时间 ———兼及汉武帝太初以前的年代问题[J].,2024,2(4):28-37.\nL50: \nL51: MLA\nL52: \nL53: 徐建委. \"西汉立太学的过程与时间 ———兼及汉武帝太初以前的年代问题.\",2,4(2024):28-37.\nL54: \nL55: APA\nL56: \nL57: 徐建委. (2024)西汉立太学的过程与时间 ———兼及汉武帝太初以前的年代问题[J].,,2(4),28-37.\nL58: \nL59: Export\nL60: \nL61:   * 【15†BibTeX】\nL62:   * 【16†EndNote】\nL63:   * 【17†RefMan】\nL64:   * 【18†NoteFirst】\nL65:   * 【19†NoteExpress】\nL66: \nL67: More formats\nL68: ### Abstract\nL69: \nL70: 《史记·儒林列传》 载汉武帝立太学诏本为两篇诏书合并而成, 这一点已 由顾江龙指出。 在此基础上, 尚有两个重要的文献细节可以帮助我们纠正 《汉书》 对材料的误读, 还原西汉立太学的整个过程: 其一为学官为学舍之义, 非学术职官。 《史记》 所云 “公孙弘为学官”, 其义指公孙弘元光五年 (前 130) 以左内史代行太 常事。 其二为班昭误读材料, 将孔臧任太常时间录为元朔二年 (前 127) 至元朔五年 (前 124)。 孔臧于元朔三年 (前 126) 免太常, 因原始材料无年号, 造成了班昭误以 为他任职三年。 故立太学诏书中的太常臧不可能是孔臧。 太常臧必为 《百官公卿表》 之王臧。 武帝立太学由田蚡、 韩安国主持, 太常王臧参与奏议, 时间在元光元年 (前 134) 至元光四年 (前 131) 三月间。 元光五年, 时任左内史同时代行太常事的公孙 弘建议为博士弟子拓宽仕进之路, 至此西汉太学制度得以确立。\nL71: ### Keywords\nL72: \nL73: 太学；学官；年号；田蚡；公孙弘\nL74: \nL75: 【20†PDF(1945 KB)】\nL76: \nL77: 544\nL78: \nL79: Read\nL80: \nL81: 【21†Image】\nL82: \nL83: add\nL84: \nL85:   * Related articles\nL86: \nL87:   *   *   *   * Address： No.5 Yiheyuan Road, Haidian District, Beijing　Post Code：100871\nL88: ©2012-2023 北京大学 版权所有\nL89: \nL90:   *   * Scan QR code on WeChat to share with friends\nL91: \nL92: [Input]\nL93: #### Advanced\nL94: \nL95: Associator  | Search Fields  | Keywords  |\nL96: --- | --- | --- | ---\nL97:  | [Select]  | [Input] [Select]  |\nL98: [Select]  | [Select]  | [Input] [Select]  |\nL99: [Select]  | [Select]  | [Input] [Select]  |\nL100: [Select]  | [Select]  | [Input] [Select]  |\nL101: [Select]  | [Select]  | [Input] [Select] 【22†Image】  |\nL102: Year  | [Input] - [Input] [Input] [Input]\n\n--------------------------------------------------------------------------------\nInternal Error ()\n【turn313597view3】 [wordlim: 200] Source: open({\"ref_id\":\"https://zh.wikisource.org/wiki/明史/卷014\",\"lineno\":145}); \nURL https://zh.wikisource.org/wiki/%E6%98%8E%E5%8F%B2/%E5%8D%B7014 is not accessible via this tool.\n--------------------------------------------------------------------------------\n史記/卷084 - 维基文库，自由的图书馆 (https://zh.wikisource.org/wiki/%E5%8F%B2%E8%A8%98/%E5%8D%B7084)\n【turn313597view4】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://zh.wikisource.org/wiki/史記/卷084\",\"lineno\":150}); Total lines: 235\nL144: 長子頃襄王立，以其弟子蘭為令尹。楚人既咎子蘭以勸懷王入秦而不反也。\nL145: \nL146: 屈平既嫉之，雖放流，睠顧楚國，系心懷王，不忘欲反，冀幸君之一悟，俗之一改也。其存君興國而欲反覆之，一篇之中三致志焉。然終無可奈何，故不可以反，卒以此見懷王之終不悟也。人君無愚智賢不肖，莫不欲求忠以自為，舉賢以自佐，然亡國破家相隨屬，而聖君治國累世而不見者，其所謂忠者不忠，而所謂賢者不賢也。懷王以不知忠臣之分，故內惑於鄭袖，外欺於張儀，疏屈平而信上官大夫、令尹子蘭。兵挫地削，亡其六郡，身客死於秦，為天下笑。此不知人之禍也。《易》曰：「井泄不食，為我心惻，可以汲。王明，并受其福。」王之不明，豈足福哉？\nL147: \nL148: 令尹子蘭聞之大怒，卒使上官大夫短屈原於頃襄王，頃襄王怒而遷之。\nL149: 屈原至於江濱，被髪行吟澤畔。顏色憔悴，形容枯槁。漁父見而問之曰：「子非三閭大夫歟？何故而至此？」屈原曰：「舉世混濁而我獨清，眾人皆醉而我獨醒，是以見放。」漁父曰：「夫聖人者，不凝滯於物而能與世推移。舉世混濁，何不隨其流而揚其波？眾人皆醉，何不餔其糟而啜其醨？何故懷瑾握瑜而自令見放為？」屈原曰：「吾聞之，新沐者必彈冠，新浴者必振衣，人又誰能以身之察察，受物之汶汶者乎？寧赴常流而葬乎江魚腹中耳，又安能以皓皓之白而蒙世俗之溫蠖乎？」\nL150: \nL151: 乃作《懷沙》之賦。其辭曰：\nL152: \nL153: 「陶陶孟夏兮，草木莽莽。傷懷永哀兮，汩徂南土。眴兮窈窈，孔靜幽墨。冤結紆軫兮，離愍之長鞠；撫情效志兮，俛詘以自抑。\nL154: \nL155: 刓方以為圜兮，常度未替；易初本由兮，君子所鄙。章畫職墨兮，前度未改；內直質重兮，大人所盛。巧匠不斲兮，孰察其揆正？玄文幽處兮，矇謂之不章；離婁微睇兮，瞽以為無明。變白而為黑兮，倒上以為下。鳳皇在笯兮，雞雉翔舞。同糅玉石兮，一而相量。夫黨人之鄙妒兮，羌不知吾所臧。\nL156: 任重載盛兮，陷滯而不濟；懷瑾握瑜兮，窮不得余所示。邑犬群吠兮，吠所怪也；誹駿疑桀兮，固庸態也。文質疏內兮，眾不知吾之異采；材樸委積兮，莫知余之所有。重仁襲義兮，謹厚以為豐；重華不可牾兮，孰知余之從容！迸固有不并兮，豈知其故也？湯禹久遠兮，邈不可慕也。懲違改忿兮，抑心而自彊；離湣而不遷兮，願志之有象。進路北次兮，日昧昧其將暮；含憂虞哀兮，限之以大故。\nL157: \nL158: 亂曰：浩浩沅、湘兮，分流汨兮。修路幽拂兮，道遠忽兮。曾唫恒悲兮，永嘆慨兮。世既莫吾知兮，人心不可謂兮。懷情抱質兮，獨無匹兮。伯樂既歿兮，驥將焉程兮？人生稟命兮，各有所錯兮。定心廣志，餘何畏懼兮？曾傷爰哀，永嘆喟兮。世溷不吾知，心不可謂兮。知死不可讓兮，願勿愛兮。明以告君子兮，吾將以為類兮。」\nL159: \nL160: 於是懷石遂自（投）［沈］汨羅以死。\nL161: \nL162: 屈原既死之後，楚有宋玉、唐勒、景差之徒者，皆好辭而以賦見稱；然皆祖屈原之從容辭令，終莫敢直諫。其後楚日以削，數十年竟為秦所滅。\nL163: \nL164: 自屈原沈汨羅後百有餘年，漢有賈生，為長沙王太傅，過湘水，投書以弔屈原。\nL165: ## 賈誼\nL166: \nL167: [【51†编辑】]\nL168: \nL169: 【47†Image†thumb.wikimedia.org】  | 【48†维基百科†zh.wikipedia.org】條目：【52†賈誼†zh.wikipedia.org】\nL170: \nL171: 賈生名誼，雒陽人也。年十八，以能誦詩屬書聞於郡中。吳廷尉為河南守，聞其秀才，召置門下，甚幸愛。孝文皇帝初立，聞河南守吳公治平為天下第一，故與李斯同邑而常學事焉，乃徵為廷尉。廷尉乃言賈生年少，頗通諸子百家之書。文帝召以為博士。\nL172: \nL173: 是時賈生年二十餘，最為少。每詔令議下，諸老先生不能言，賈生盡為之對，人人各如其意所欲出。諸生於是乃以為能，不及也。孝文帝說之，超遷，一歲中至太中大夫。\nL174: \nL175: 賈生以為漢興至孝文二十餘年，天下和洽，而固當改正朔，易服色，法制度，定官名，興禮樂，乃悉草具其事儀法，色尚黃，數用五，為官名，悉更秦之法。孝文帝初即位，謙讓未遑也。諸律令所更定，及列侯悉就國，其說皆自賈生發之。於是天子議以為賈生任公卿之位。絳、灌、東陽侯、馮敬之屬盡害之，乃短賈生曰：「雒陽之人，年少初學，專欲擅權，紛亂諸事。」於是天子後亦疏之，不用其議，乃以賈生為長沙王太傅。\n"
+        }
+      ],
+      "isError": false
+    },
+    "web-passages1.json": {
+      "content": [
+        {
+          "type": "text",
+          "text": "續湘山野錄 - 维基文库，自由的图书馆 (https://zh.wikisource.org/wiki/%E7%BA%8C%E6%B9%98%E5%B1%B1%E9%87%8E%E9%8C%84)\n【turn306677search0】 [wordlim: 200] Crawled: 2 months ago; # 續湘山野錄 ...  |  | 續湘山野錄 ... “燭影斧聲”最早見於此書。\n\n--------------------------------------------------------------------------------\n續資治通鑑長編/卷017 - 维基文库，自由的图书馆 (https://zh.wikisource.org/zh/%E7%BA%8C%E8%B3%87%E6%B2%BB%E9%80%9A%E9%91%91%E9%95%B7%E7%B7%A8/%E5%8D%B7017)\n【turn306677search1】 [wordlim: 200] Crawled: 2 months ago; 左右皆不得聞，但遙見燭影下晉王時或離席，若有所遜避之狀，既而上引柱斧翟□□地^{[15]}，大聲謂晉王曰：「好為之。」〈此據吳僧文瑩所為湘山野錄，正史、實錄並無之。 ... 宦官宮妾悉屏之，但遙見燭影下，太宗時或避席，有不可勝之狀。 ... 且非獨此章為不可信，其它章要不全是，蓋禹偁用文章名天下，今所傳遺事語多鄙俗，略不似禹偁平日心聲。\n\n--------------------------------------------------------------------------------\n湘山野録 (四庫全書本)/續 - 维基文库，自由的图书馆 (https://zh.wikisource.org/zh/%E6%B9%98%E5%B1%B1%E9%87%8E%E9%8C%B2_%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29/%E7%BA%8C)\n【turn306677search2】 [wordlim: 200] Crawled: last month; 　　太平興國五年祕書丞安徳裕知廣濟軍是歳亢旱因禱於髣山神祠方注香神自幃中冉冉而出古服峩冠拱揖而前立安以至誠所感殊不爲懼遂訴愆亢之災荅曰某堆阜之神也竊鄉人之薦愧無酬荅恨力小地卑不能興致雲雨雖云龍司厥職動息由天某當爲公至主者之所密候雨信必先期奉報言訖而隱安是夕夢神白雨候甚邇只在來早及期大澍千里告足翌日公具牢醴以謝之\n　　績湘山野録\n\n--------------------------------------------------------------------------------\n花草稡編 (四庫全書本)/全覽 - 維基文庫，自由的圖書館 (https://zh.wikisource.org/zh-hant/%E8%8A%B1%E8%8D%89%E7%A8%A1%E7%B7%A8_%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29/%E5%85%A8%E8%A6%BD)\n【turn306677search3】 [wordlim: 200] Crawled: today; 平林漠漠煙如織寒山一帯傷心碧瞑色入高樓有人 ... ​ 〈湘山野錄雲此詞不知何人冩在鼎州滄水驛樓復不知何人所撰魏道輔㤗見而𢜤之後至長沙得古〉 ... 〈文士亦往往聲其詞○按自玄宗末以至大中初相去殆幾百年始有此調其在太白同時如王杜後此〉\n〈如元白諸家俱未有此詞且曾氏亦止雲古風豈後之詞家以其字句之同而遂名之耶〉 ... 聞馬嘶　畫羅金翡翠香燭銷成淚花落子規啼綠窓\n\n--------------------------------------------------------------------------------\nCấm thành Thăng Long: Giá trị dân tộc, ý nghĩa toàn cầu (https://baotanglichsu.vn/vi/Articles/2001/65298/cam-thanh-thang-long-gia-tri-dan-toc-y-nghia-toan-cau.html)\n【turn306677search4】 [wordlim: 200] Published: 16.3 years ago; Crawled: today; - Năm 1430 đổi tên là thành Đông Kinh, dưới triều Lê sơ (1428 - 1527) rồi triều Mạc (1527 - 1592), triều Lê Trung hưng (1593 - 1788).\n\n--------------------------------------------------------------------------------\nThông báo Khoa học 2017 * (https://baotanglichsu.vn/DataFiles/asset/upload/data_hung_/thong_bao_khoa_hoc/so_1_nam_2017/Pham_Hoang_Manh_Ha_-_He_thong_tuoc_vi....pdf)\n【turn306677search24】 [wordlim: 200] Published: 8.9 years ago; - *Lịch triều hiến chương loại chí* của Phan Huy Chú cũng khẳng định: Thuận Thiên năm đầu (1428)… ông (Lưu Nhân Chú) được phong Suy trung Tán trị Hiệp mưu Dương vũ công thần, nhập nội kiểm hiệu Bình Chương Quân Quốc Trọng Sự (quan hàm Tể tướng).\n\n*Đại Việt sử ký toàn thư* chép: năm 1427… lấy Thông hầu (chức ban của Lê Lợi năm 1427, không phải tước vị) Lê Nhân Chú làm Hành quân độc quân Nhập nội Đại tư mã, lĩnh Tiền - Hậu - Tả - Hữu tứ vệ, kiêm tri Tân vệ quân sự.\n\n--------------------------------------------------------------------------------\nTriều đại có nhiều vua bị chết nhất trong lịch sử phong kiến Việt Nam (https://baotanglichsu.vn/vi/Articles/2001/66764/trieu-djai-co-nhieu-vua-bi-chet-nhat-trong-lich-su-phong-kien-viet-nam.html)\n【turn306677search5】 [wordlim: 200] Published: 12.1 years ago; Crawled: last month; Nhà Hậu Lê (1428 – 1789) chia làm hai thời kỳ là Lê sơ (1428-1527) và Lê trung hưng (1533-1789).\n\n--------------------------------------------------------------------------------\n湘山野録 (四庫全書本)/全覽 - 維基文庫，自由的圖書館 (https://zh.wikisource.org/zh-hant/%E6%B9%98%E5%B1%B1%E9%87%8E%E9%8C%B2_%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29/%E5%85%A8%E8%A6%BD)\n【turn306677search6】 [wordlim: 200] Crawled: last month; 　　撫人饒餗者馳辨逞才素押闔於都下熙寧初免解到闕因又失意當朝廷始立青苖方沮議交上大丞相閉門不視事之際生將出關以詩投相閣曰又還垂翅下𤎆霄歸指臨川去路遙二畝荒田須賣卻要錢凖備納青苖丞相亦以十金贐之生少與劉史館相公沖之有素時劉相館職知衡州生假道封下因謁之公覩名𥿄已顣額不悅生趨前亟曰某此行有少急幹不可暫緩行李已出南關又不敢望旌麾潛過須一拜見但乞一飯而去公既聞不肻少留遂開懷待之問曰塗中無闕否生曰並無惟乏好酒爾遂贈佳醖一擔拜別鞭馬遂行公頗幸其去至來陽密覘其令譽不甚謹遽謁之曰知郡學士甚託致意有雙壺乃兵廚精醖仗某攜至奉贈請具書謝之其令聞以書為謝必非誑詐又幸其以酒令故人送至其勢可持大喜之急戒刻木數刻間醵金半鍰贐之瞥然遂去後數日劉公得謝醖書方寤寤已噬臍矣又一歳下第出京庇巨商厚貨以免徵算自撰除目一𥿄盡宰府兩禁及三路巨鎭除拜遷移皆近擬議凡過關首謁局吏坐定遽曰還聞近日差除否仕人無不願聞者曰某前數日聞鎮院臨出京在某官宅恰見內探錄至遂行其間寧不少關親舊者聞之無不願見讀訖即曰下第窮生弊舟無一物致煩公吏略賜一檢其官皆曰豈煩如是言訖拜辭飄然遂行凡藉此術下汴淮歴江海其關賦僅免二三千緡茍移其用以濟大謀遂為妙䇿歟\n　　都尉李文和公性謙雅雖累世勲忠尚天姻而識學優贍與楊文公為禪悅深交其法辨與天下禪伯相角沁園東北濵於池曰靜淵莊搆茆齋延高僧遇蕭國大長主垂悅之日設高座鳴法鼓於宅之法堂命谷隱石霜葉縣三大禪者登座演法時大長主松巒閣設箔觀焉臨際宗範每登座拈拄杖敲擊牀機以示法用前二師說法竟其末葉縣禪師者機用剛猛始登座以拄杖就膝拗折擲於地無一語便下文和笑曰老作家手段終別師曰都尉亦不得無過斯須蕭國召公入箔怪問曰末後長老何故發怒公雍容對曰宗門作用施設不定乞無賜訝公將薨治而不亂自寫遺頌曰拈下幞頭脫卻腰帶若覓生死問取皮袋時膈胃躁𤍠尼道堅就機問曰都尉衆生見刼盡大火所燒時切要照管主人翁公曰大師與我煎一服藥來尼無語公曰這師姑藥也不會煎投枕未安而沒\n　　吾友契嵩師熙寧四年沒於餘杭靈隱山翠微堂人葬訖不壞者五物睛舌鼻及耳毫數珠時恐厚誣以烈火重鍜鍜之愈堅嵩之文僅參韓栁間治平中以所著書曰輔敎編攜詣闕下大學者若今首揆王相歐陽諸巨公皆低簪以禮焉王仲儀公素為京尹特上殿以其編進呈許附敎藏賜號明敎大師嵩童體完潔至死無犯火訖根器不壞此節可高天下之士余昔怪其累夕講談音若清磬未嘗少嗄及終方得其驗嵩字仲靈藤州人詩類老杜楊公濟蟠收全集公濟深伏其才答嵩詩有千年猶可照吳Image: 邦之句\n\n--------------------------------------------------------------------------------\n欽定古今圖書集成/博物彙編/神異典/第044卷 - 维基文库，自由的图书馆 (https://zh.wikisource.org/wiki/%E6%AC%BD%E5%AE%9A%E5%8F%A4%E4%BB%8A%E5%9C%96%E6%9B%B8%E9%9B%86%E6%88%90/%E5%8D%9A%E7%89%A9%E5%BD%99%E7%B7%A8/%E7%A5%9E%E7%95%B0%E5%85%B8/%E7%AC%AC044%E5%8D%B7)\n【turn306677search7】 [wordlim: 200] Crawled: 4 days ago; 《湘山野錄》：蜀先主開建初，賜道士杜光庭為廣德先 生、戶部侍郎、蔡國公。 ... 《錄異記》：鍾傳初入洪州，命修一城，軍吏散掘墓甎，以 稱用。\n\n--------------------------------------------------------------------------------\nLời 'sấm truyền' về Lê Lợi (https://baotanglichsu.vn/vi/Articles/2001/66142/loi-sam-truyen-ve-le-loi.html)\n【turn306677search8】 [wordlim: 200] Published: 14.5 years ago; Crawled: 4 weeks ago; Năm 1428, Lê Lợi lên ngôi Hoàng đế ở Đông Kinh, mở đầu triều Lê sơ, triều đại lâu dài nhất trong lịch sử phong kiến Viêt Nam. ... Năm 1427, Lưu Thanh là chỉ huy đồn Tam Giang.\n\n--------------------------------------------------------------------------------\n宋史/卷365 - 维基文库，自由的图书馆 (https://zh.wikisource.org/wiki/%E5%AE%8B%E5%8F%B2/%E5%8D%B7365)\n【turn306677view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({\"ref_id\":\"turn366617view0\",\"pattern\":\"郾城\"}); Total lines: 275\nNo matching text found for \"郾城\"\n--------------------------------------------------------------------------------\n宋史/卷003 - 维基文库，自由的图书馆 (https://zh.wikisource.org/wiki/%E5%AE%8B%E5%8F%B2/%E5%8D%B7003)\n【turn306677view1】 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({\"ref_id\":\"turn366617view1\",\"pattern\":\"萬歲殿\"}); Total lines: 315\nNo matching text found for \"萬歲殿\"\n--------------------------------------------------------------------------------\n宋史/卷041 - 维基文库，自由的图书馆 (https://zh.wikisource.org/wiki/%E5%AE%8B%E5%8F%B2/%E5%8D%B7041)\n【turn306677view2】 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({\"ref_id\":\"turn366617view2\",\"pattern\":\"邵州\"}); Total lines: 421\nNo matching text found for \"邵州\"\n--------------------------------------------------------------------------------\n明史/卷304 - 维基文库，自由的图书馆 (https://zh.wikisource.org/wiki/%E6%98%8E%E5%8F%B2/%E5%8D%B7304)\n【turn306677view3】 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({\"ref_id\":\"turn366617view3\",\"pattern\":\"十五年\"}); Total lines: 361\nNo matching text found for \"十五年\"\n--------------------------------------------------------------------------------\n史記/卷073 - 维基文库，自由的图书馆 (https://zh.wikisource.org/wiki/%E5%8F%B2%E8%A8%98/%E5%8D%B7073)\n【turn306677view4】 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({\"ref_id\":\"turn366617view4\",\"pattern\":\"拔郢\"}); Total lines: 221\nL0: 【0†跳转到内容】\nL1: \nL2: [Input] 主菜单\nL3: \nL4: 主菜单\nL5: \nL6: [Button: 移至侧栏] [Button: 隐藏]\nL7: \nL8: 导航\nL9: \nL10:   * 【1†首页】\nL11:   * 【2†随机作品】\nL51: ## 目录\nL52: \nL53: [Button: 移至侧栏] [Button: 隐藏]\nL54: \nL55:   * 【18†（首段）】\nL56:   * 【19†1 白起】\nL57:   * 【20†2 王翦】 开关王翦子章节\nL58:     * 【21†2.1 孫 王離】\nL59:   * 【22†3 贊】\nL60:   * 【23†4 索隱述贊】\nL61: \nL62: [Input] 开关目录\nL63: # 史記/卷073\nL64: \nL65: [Input] 1种语言\nL66: \nL67:   * 【24†日本語†ja.wikisource.org】\nL68: \nL69: 【25†编辑链接†www.wikidata.org】\nL70: \nL71:   * 【26†作品】\nL72:   * 【27†讨论】\nL73: \nL74: [Input] 不转换\nL75: \nL76:   * 【28†不转换】\nL77:   * 【29†简体】\nL78:   * 【30†繁體】\nL79: \nL80:   * 【26†阅读】\nL81:   * 【31†编辑】\nL82:   * 【32†查看历史】\nL83: \nL84: [Input] 工具\nL85: \nL86: 工具\nL87: \nL88: [Button: 移至侧栏] [Button: 隐藏]\nL89: \nL90: 操作\nL91: \nL92:   * 【26†阅读】\nL93:   * 【31†编辑】\nL94:   * 【32†查看历史】\nL95: \nL96: 常规\nL97: \nL98:   * 【33†链入页面】\nL99:   * 【34†相关更改】\nL100:   * 【35†上传文件†commons.wikimedia.org】\nL101:   * 【36†固定链接】\nL102:   * 【37†页面信息】\nL103:   * 【38†引用此页】\nL104:   * 【39†获取短链接】\nL105: \nL106: 打印/导出\nL107:   * 可打印版\nL108:   * 【40†下载为EPUB†ws-export.wmcloud.org】\nL109:   * 【41†下载为MOBI†ws-export.wmcloud.org】\nL110:   * 【42†下载为PDF†ws-export.wmcloud.org】\nL111:   * 【43†其他格式†ws-export.wmcloud.org】\nL112: \nL113: 在其他项目中\nL114: \nL115:   * 【44†维基数据项目†www.wikidata.org】\nL116: \nL117: 外观\nL118: \nL119: [Button: 移至侧栏] [Button: 隐藏]\nL120: \nL121: 【40†下载†ws-export.wmcloud.org】\nL122: \nL123: < 【45†史記】\nL124: \nL125: 【46†穰侯列傳 第十二】 ◄  | 【45†史記】\nL126: 卷七十三 白起王翦列傳 第十三  | ► 【47†孟子荀卿列傳 第十四】\nL127: \nL128: 白起 王翦_{孫:離}\nL129: ## 白起\nL130: \nL131: [【48†编辑】]\nL132: \nL133: 【49†Image†thumb.wikimedia.org】  | 【50†维基百科†zh.wikipedia.org】條目：【51†白起†zh.wikipedia.org】\nL134: \nL135: 白起者，郿人也。善用兵，事秦昭王。昭王十三年，而白起為左庶長，將而擊韓之新城。是歲，穰侯相秦，舉任鄙以為漢中守。其明年，白起為左更，攻韓、魏於伊闕，斬首二十四萬，又虜其將公孫喜，拔五城。起遷為國尉。涉河取韓安邑以東，到乾河。明年，白起為大良造。攻魏，拔之，取城小大六十一。明年，起與客卿錯攻垣城，拔之。後五年，白起攻趙，拔光狼城。後七年，白起攻楚，拔鄢、鄧五城。其明年，攻楚，拔郢，燒夷陵，遂東至竟陵。楚王亡去郢，東走徙陳。秦以郢為南郡。白起遷為武安君。武安君因取楚，定巫、黔中郡。昭王三十四年，白起攻魏，拔華陽，走芒卯，而虜三晉將，斬首十三萬。與趙將賈偃戰，沈其卒二萬人於河中。昭王四十三年，白起攻韓陘城，拔五城，斬首五萬。四十四年，白起攻南陽太行道，絕之。\nL136: 四十五年，伐韓之野王。野王降秦，上黨道絕。其守馮亭與民謀曰：「鄭道已絕，韓必不可得為民。秦兵日進，韓不能應，不如以上黨歸趙。趙若受我，秦怒，必攻趙。趙被兵，必親韓。韓趙為一，則可以當秦。」因使人報趙。趙孝成王與平陽君、平原君計之。平陽君曰：「不如勿受。受之，禍大於所得。」平原君曰：「無故得一郡，受之便。」趙受之，因封馮亭為華陽君。\nL137: \nL138: 四十六年，秦攻韓緱氏、藺，拔之。\nL139: 四十七年，秦使左庶長王龁攻韓，取上黨。上黨民走趙。趙軍長平，以按據上黨民。四月，龁因攻趙。趙使廉頗將。趙軍士卒犯秦斥兵，秦斥兵斬趙裨將茄。六月，陷趙軍，取二鄣四尉。七月，趙軍筑壘壁而守之。秦又攻其壘，取二尉，敗其陣，奪西壘壁。廉頗堅壁以待秦，秦數挑戰，趙兵不出。趙王數以為讓。而秦相應侯又使人行千金於趙為反閒，曰：「秦之所惡，獨畏馬服子趙括將耳，廉頗易與，且降矣。」趙王既怒廉頗軍多失亡，軍數敗，又反堅壁不敢戰，而又聞秦反閒之言，因使趙括代廉頗將以擊秦。秦聞馬服子將，乃陰使武安君白起為上將軍。而王龁為尉裨將，令軍中有敢泄武安君將者斬。趙括至，則出兵擊秦軍。秦軍詳敗而走，張二奇兵以劫之。趙軍逐勝，追造秦壁。壁堅拒不得入，而秦奇兵二萬五千人絕趙軍後，又一軍五千騎絕趙壁閒，趙軍分而為二，糧道絕。而秦出輕兵擊之。趙戰不利，因筑壁堅守，以待救至。秦王聞趙食道絕，王自之河內，賜民爵各一級，發年十五以上悉詣長平，遮絕趙救及糧食。\nL140: 至九月，趙卒不得食四十六日，皆內陰相殺食。來攻秦壘，欲出。為四隊，四五復之，不能出。其將軍趙括出銳卒自搏戰，秦軍射殺趙括。括軍敗，卒四十萬人降武安君。武安君計曰：「前秦已拔上黨，上黨民不樂為秦而歸趙。趙卒反覆。非盡殺之，恐為亂。」乃挾詐而盡阬殺之，遺其小者二百四十人歸趙。前後斬首虜四十五萬人。趙人大震。\nL141: \nL142: 四十八年十月，秦復定上黨郡。秦分軍為二：王龁攻皮牢，拔之；司馬梗定太原。韓、趙恐，使蘇代厚幣說秦相應侯曰：「武安君禽馬服子乎？」曰：「然。」又曰：「即圍邯鄲乎？」曰：「然。」「趙亡則秦王王矣，武安君為三公。武安君所為秦戰勝攻取者七十餘城，南定鄢、郢、漢中，北禽趙括之軍，雖周、召、呂望之功不益於此矣。今趙亡，秦王王，則武安君必為三公，君能為之下乎？雖無欲為之下，固不得已矣。秦嘗攻韓，圍邢丘，困上黨，上黨之民皆反為趙，天下不樂為秦民之日久矣。今亡趙，北地入燕，東地入齊，南地入韓、魏，則君之所得民亡幾何人。故不如因而割之，無以為武安君功也。」於是應侯言於秦王曰：「秦兵勞，請許韓、趙之割地以和，且休士卒。」王聽之，割韓垣雍、趙六城以和。正月，皆罷兵。武安君聞之，由是與應侯有隙。\nL143: 其九月，秦復發兵，使五大夫王陵攻趙邯鄲。是時武安君病，不任行。四十九年正月，陵攻邯鄲，少利，秦益發兵佐陵。陵兵亡五校。武安君病愈，秦王欲使武安君代陵將。武安君言曰：「邯鄲實未易攻也。且諸侯救日至，彼諸侯怨秦之日久矣。今秦雖破長平軍，而秦卒死者過半，國內空。遠絕河山而爭人國都，趙應其內，諸侯攻其外，破秦軍必矣。不可。」秦王自命，不行；乃使應侯請之，武安君終辭不肯行，遂稱病。\nL144: \nL145: 秦王使王龁代陵將，八九月圍邯鄲，不能拔。楚使春申君及魏公子將兵數十萬攻秦軍，秦軍多失亡。武安君言曰：「秦不聽臣計，今如何矣！」秦王聞之，怒，彊起武安君，武安君遂稱病甐。應侯請之，不起。於是免武安君為士伍，遷之陰密。武安君病，未能行。居三月，諸侯攻秦軍急，秦軍數卻，使者日至。秦王乃使人遣白起，不得留咸陽中。武安君既行，出咸陽西門十里，至杜郵。秦昭王與應侯群臣議曰：「白起之遷，其意尚怏怏不服，有餘言。」秦王乃使使者賜之劍，自裁。武安君引劍將自剄，曰：「我何罪于天而至此哉？」良久，曰：「我固當死。長平之戰，趙卒降者數十萬人，我詐而盡阬之，是足以死。」遂自殺。武安君之死也，以秦昭王五十年十一月。死而非其罪，秦人憐之，鄉邑皆祭祀焉。\nL146: ## 王翦\nL147: \nL148: [【52†编辑】]\nL149: \nL150: 【49†Image†thumb.wikimedia.org】  | 【50†维基百科†zh.wikipedia.org】條目：【53†王翦†zh.wikipedia.org】\nL151: \nL152: 王翦者，頻陽東鄉人也。少而好兵，事秦始皇。始皇十一年，翦將攻趙閼與，破之，拔九城，十八年，翦將攻趙。歲餘，遂拔趙，趙王降，盡定趙地為郡。明年，燕使荊軻為賊於秦，秦王使王翦攻燕。燕王喜走遼東，翦遂定燕薊而還。秦使翦子王賁擊荊，荊兵敗。還擊魏，魏王降，遂定魏地。\nL153: \nL154: 秦始皇既滅三晉，走燕王，而數破荊師。秦將李信者，年少壯勇，嘗以兵數千逐燕太子丹至於衍水中，卒破得丹，始皇以為賢勇。於是始皇問李信：「吾欲攻取荊，於將軍度用幾何人而足？」李信曰：「不過用二十萬人。」始皇問王翦，王翦曰：「非六十萬人不可。」始皇曰：「王將軍老矣，何怯也！李將軍果勢壯勇，其言是也。」遂使李信及蒙恬將二十萬南伐荊。王翦言不用，因謝病，歸老於頻陽。李信攻平與，蒙恬攻寢，大破荊軍。信又攻鄢郢，破之，於是引兵而西，與蒙恬會城父。荊人因隨之，三日三夜不頓舍，大破李信軍，入兩壁，殺七都尉，秦軍走。\nL155: 始皇聞之，大怒，自馳如頻陽，見謝王翦曰：「寡人以不用將軍計，李信果辱秦軍。今聞荊兵日進而西，將軍雖病，獨忍棄寡人乎！」王翦謝曰：「老臣罷病悖亂，唯大王更擇賢將。」始皇謝曰：「已矣，將軍勿復言！」王翦曰：「大王必不得已用臣，非六十萬人不可。」始皇曰：「為聽將軍計耳。」於是王翦將兵六十萬人，始皇自送至灞上。王翦行，請美田宅園池甚眾。始皇曰：「將軍行矣，何憂貧乎？」王翦曰：「為大王將，有功終不得封侯，故及大王之向臣，臣亦及時以請園池為子孫業耳。」始皇大笑。王翦既至關，使使還請善田者五輩。或曰：「將軍之乞貸，亦已甚矣。」王翦曰：「不然。夫秦王怚而不信人。今空秦國甲士而專委於我，我不多請田宅為子孫業以自堅，顧令秦王坐而疑我邪？」\n\n--------------------------------------------------------------------------------\n漢書/卷056 - 维基文库，自由的图书馆 (https://zh.wikisource.org/wiki/%E6%BC%A2%E6%9B%B8/%E5%8D%B7056)\n【turn306677view5】 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({\"ref_id\":\"turn366617view5\",\"pattern\":\"太學\"}); Total lines: 217\nNo matching text found for \"太學\"\n--------------------------------------------------------------------------------\n도연명陶淵明의 팽택령彭澤令 사직辭職에 대한 소고小考 (https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002851551)\n【turn306677view6】 [wordlim: 200] Crawled: today; Content type: text/html; Source: find({\"ref_id\":\"turn366617view8\",\"pattern\":\"405\"}); Total lines: 139\nNo matching text found for \"405\""
+        }
+      ],
+      "isError": false
+    },
+    "web-passages2.json": {
+      "content": [
+        {
+          "type": "text",
+          "text": "宋史/卷365 - 维基文库，自由的图书馆 (https://zh.wikisource.org/wiki/%E5%AE%8B%E5%8F%B2/%E5%8D%B7365)\n【turn511578view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"turn366617view0\",\"lineno\":150}); Total lines: 275\nL147: 會金攻楚急，詔張俊援之。俊辭，乃遣飛行，而命劉光世出兵援飛。飛屯三墪為楚援，尋抵承州，三戰三捷，殺高太保，俘酋長七十餘人。光世等皆不敢前，飛師孤力寡，楚遂陷。詔飛還守通、泰，有旨可守即守，如不可，但於沙洲保護百姓，伺便掩擊。飛以泰無險可恃，退保柴墟，戰于南霸橋，金大敗。渡百姓於沙上，飛以精騎二百殿，金兵不敢近。飛以泰州失守待罪。\nL148: \nL149: 紹興元年，張俊請飛同討李成。時成將馬進犯洪州，連營西山。飛曰：「賊貪而不慮後，若以騎兵自上流絕生米渡，出其不意，破之必矣。」飛請自為先鋒，俊大喜。飛重鎧躍馬，潛出賊右，突其陣，所部從之。進大敗，走筠州。飛抵城東，賊出城，布陣十五里，飛設伏，以紅羅為幟，上刺「岳」字，選騎二百隨幟而前。賊易其少，薄之，伏發，賊敗走。飛使人呼曰：「不從賊者坐，吾不汝殺。」坐而降者八萬餘人。進以餘卒奔成于南康。飛夜引兵至朱家山，又斬其將趙萬。成聞進敗，自引兵十餘萬來。飛與遇於樓子莊，大破成軍，追斬進。成走蘄州，降偽齊。\nL150: \nL151: 張用寇江西，用亦相人，飛以書諭之曰：「吾與汝同里，南薰門、鐵路步之戰，皆汝所悉。今吾在此，欲戰則出，不戰則降。」用得書曰：「果吾父也。」遂降。\nL152: 江、淮平，俊奏飛功第一，加神武右軍副統制，留洪州，彈壓盜賊，授親衞大夫、建州觀察使。建寇范汝為陷邵武，江西安撫李回檄飛分兵保建昌軍及撫州，飛遣人以「岳」字幟植城門，賊望見，相戒勿犯。賊黨姚達、饒青逼建昌，飛遣王萬、徐慶討擒之。升神武副軍都統制。\nL153: \nL154: 二年，賊曹成擁眾十餘萬，由江西歷湖湘，據道、賀二州。命飛權知潭州，兼權荊湖東路安撫都總管，付金字牌、黃旗招成。成聞飛將至，驚曰：「岳家軍來矣。」即分道而遁。飛至茶陵，奉詔招之，成不從。飛奏：「比年多命招安，故盜力強則肆暴，力屈則就招，苟不略加剿除，蠭起之眾未可遽殄。」許之。\n\n--------------------------------------------------------------------------------\n宋史/卷003 - 维基文库，自由的图书馆 (https://zh.wikisource.org/wiki/%E5%AE%8B%E5%8F%B2/%E5%8D%B7003)\n【turn511578view1】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"turn366617view1\",\"lineno\":230}); Total lines: 315\nL222: 　　五月壬申朔，以吳越國王錢俶守太師、尚書令，益食邑。知桂陽監張侃發前官隱沒羨銀，追罪兵部郎中董樞、右讚善大夫孔璘，殺之，太子洗馬趙瑜杖配海島；侃受賞，遷屯田員外郎。辛巳，祈晴。甲申，江南寧遠軍及沿江砦並降。乙酉，詔武岡、長沙等十縣民為賊鹵掠者蠲其逋租，仍給復一年。甲午，安南都護丁璉遣使來貢。辛丑，河決濮州。\nL223: \nL224: 　　六月壬寅，曹彬等遣使言，敗江南軍於其城下。丁未，宋州觀察判官崔絢、錄事參軍馬德休並坐贓棄市。辛亥，河決澶州頓丘。甲子，彗出柳，長四丈，辰見東方。\nL225: \nL226: 　　秋七月辛未朔，日有食之。庚辰，遣閣門使郝崇信、太常丞呂端使契丹。癸未，西天東印土王子穰結說囉來朝獻。甲申，詔吳越王班師。己亥，山後兩林鬼主、懷化將軍勿尼等來朝獻。\nL227: \nL228: 　　八月乙卯，幸東水磑觀魚，遂幸北園。辛酉，詔權停今年貢舉。壬戌，契丹遣左衛大將軍耶律霸德等致御衣、玉帶、名馬。西南蕃順化王子若廢等來獻名馬。癸亥，丁德裕敗潤州兵於城下。\nL229: \nL230: 　　九月壬申，狩近郊，逐兔，馬蹶墜地，因引佩刀刺馬殺之。既而悔之，曰：「吾為天下主，輕事畋獵，又何罪馬哉！」自是遂不復獵。戊寅，潤州降。\nL231: 　　冬十月己亥朔，江南主遣徐鉉、周惟簡來乞緩師。辛亥，詔郡國令佐察民有孝悌力田、奇材異行或文武可用者遣詣闕。丁巳，修西京宮闕。江南主貢銀五萬兩、絹五萬匹，乞緩師。戊午，改潤州鎮海軍節度為鎮江軍節度。幸晉王北園。己未，曹彬遣都虞候劉遇破江南軍於皖口，擒其將朱令贇、王暉。\nL232: \nL233: 　　十一月辛未，江南主遣徐鉉等再奉表乞緩師，不報。甲申，曹彬夜敗江南軍於城下。丙戌，以校書郎宋準、殿直邢文慶充賀契丹正旦使。乙未，曹彬克昇州，俘其國主煜，江南平，凡得州十九、軍三、縣一百八十、戶六十五萬五千六十。臨視新龍興寺。\nL234: \nL235: 　　十二月庚子，幸惠民河觀築堰。辛丑，赦江南，復一歲；兵戈所經，二歲。戊申，三佛齊遣使來獻方物。己酉，幸龍興寺。辛亥，免開封府諸縣今年秋租十之三。己未，以恩赦侯劉鋹為彭城郡公。甲子，契丹遣使耶律烏正來賀正旦。丁卯，吳越國王乞以長春節朝覲，從之。\n\n--------------------------------------------------------------------------------\n宋史/卷041 - 维基文库，自由的图书馆 (https://zh.wikisource.org/wiki/%E5%AE%8B%E5%8F%B2/%E5%8D%B7041)\n【turn511578view2】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"turn366617view2\",\"lineno\":155}); Total lines: 421\nL146: ## 寶慶元年\nL147: \nL148: [【54†编辑】]\nL149: \nL150: 　　寶慶元年春正月壬戌朔，詔舉賢良。庚午，湖州盜潘壬、潘丙、潘甫謀立濟王竑，竑聞變，匿水竇中，盜得之，擁至州治，以黃袍加其身，守臣謝周卿率官屬入賀。初，壬等偽稱李全以精兵二十萬助討史彌遠擅廢立之罪，比明視之，皆太湖漁人及巡尉兵卒，竑乃遣王元春告於朝，而率州兵誅賊。彌遠奏遣殿司將彭任討之，至則盜平。又遣其客秦天錫托宣醫治竑疾，諭旨逼竑死，尋詔貶爲巴陵郡公。辛未，詔保寧軍節度使師彌爲檢校少保。詔以皇太后弟奉國軍節度使楊谷、保寧節度楊石並開府儀同三司。丙戌，濟王竑訃聞，特輟視朝。己丑，上寧宗諡冊、寶。\nL151: \nL152: 　　二月甲午，詔故太師、武勝定國軍節度使、鄂王岳飛諡忠武。丙申，詔師彌檢校少師、嗣秀王。丙辰，楚州火。戊午，發廩振在京細民，給犒馬步軍、皇城司守衛軍有差。\nL153: \nL154: 　　三月癸酉，葬寧宗於會稽永茂陵。\nL155: \nL156: 　　夏四月辛卯朔，寧宗祔廟。壬辰，詔皇兄竑贈少師、保靜、鎮潼軍節度使，直舍人院王塈等繳奏命，遂寢。丁酉，皇太后手書：「多病，自今免垂簾聽政。」壬寅，帝兩請皇太后垂簾，不允。辛亥，發廩振在京細民。\nL157: 　　五月甲子，詔：「內外文武大小之臣，于國政有所見聞，封章來上，毋或有隱。」丙寅，詔不熄爲保康軍承宣使、嗣濮王。\nL158: \nL159: 　　六月辛卯，太白晝見。丁未，詔史彌遠爲太師，依前右丞相兼樞密使，進封魏國公。彌遠辭免太師。\nL160: \nL161: 　　秋七月丁丑，滁州大水，詔振恤之。乙酉，詔行大宋元寶錢。\nL162: \nL163: 　　八月壬寅，以司農丞姚子才封事切直，詔進一秩，授秘書郎。癸卯，詔知袁州趙䈣夫直秘閣、福建提點刑獄，以旌廉吏。丙午，詔侍從、給諫、卿監、郎官，並在外前執政、侍從、帥臣、監司，各舉廉吏三人。戊申，詔侍從、兩省、台諫、三衙、知閣、御帶、環衛官，在外前執政、侍從，帥臣、監司、都副都統制及屯戍主將，其各舉堪充將帥三人。己酉，地震。壬子，張九成贈太師，追封崇國公，諡文忠。甲寅，以程頤四世孫源爲籍田令。乙卯，莫澤言真德秀舛論綱常，簡節上語，曲爲濟王地。詔德秀煥章閣待制、提舉玉隆萬壽宮。丁巳，詔戒貪吏。\nL164: \nL165: 　　九月丙寅，著作佐郎陶崇上保業、慎獨、謹微、持久四事，帝嘉納之。\nL166: \nL167: 　　冬十月癸巳，有流星大如太白。甲寅，詔會稽欑宮所在，稅賦盡免折科，山陰縣權免三年。\n\n--------------------------------------------------------------------------------\n明史/卷304 - 维基文库，自由的图书馆 (https://zh.wikisource.org/wiki/%E6%98%8E%E5%8F%B2/%E5%8D%B7304)\n【turn511578view3】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"turn366617view3\",\"lineno\":235}); Total lines: 361\nL235: ### 梁芳\nL236: \nL237: [【85†编辑】]\nL238: \nL239: 梁芳者，憲宗朝內侍也。貪黷諛佞，與韋興比。而諂萬貴妃，日進美珠珍寶悅妃意。其黨錢能、韋眷、王敬等，爭假采辦名，出監大鎮。帝以妃故，不問也。妖人李孜省、僧繼曉皆由芳進，共為奸利。取中旨授官，累數千人，名傳奉官，有白衣躐至太常卿者。陜西巡撫鄭時論芳被黜，陜民哭送之。帝聞頗悔，斥傳奉官十人，系六人獄，詔自後傳旨授官者俱覆奏，然不罪芳也。刑部員外郎林俊以劾芳及繼曉下獄。久之，帝視內帑，見累朝金七窖俱盡，謂芳及韋興曰：「糜費帑藏，實由汝二人。」興不敢對。芳曰：「建顯靈宮及諸祠廟，為陛下祈萬年福耳。」帝不懌曰：「吾不汝瑕，後之人將與汝計矣」。芳大懼，遂說貴妃勸帝廢太子，而立興王。會泰山累震，占者言應在東朝。帝懼，乃止。孝宗立，謫芳居南京，尋下獄，興亦斥退。正德初，群閹復薦興司香太和山，兼分守湖廣行都司地方。尚書劉大夏、給事中周璽、御史曹來旬諫，不聽。興遂復用，而芳卒廢以死。\nL240: #### 錢能\nL241: \nL242: [【86†编辑】]\nL243: \nL244: 錢能，芳黨也。憲宗時，鄭忠鎮貴州，韋朗鎮遼東，能鎮雲南，並恣縱，而能尤橫。貴州巡撫陳宣劾忠，因請盡撤諸鎮監，帝不允。而雲南巡按御史郭陽顧上疏譽能，請留之雲南。舊制，安南貢道出廣西，後請改由雲南，弗許也。能詐言安南捕盜兵入境，請遣指揮使郭景往諭其王，詔從之。能遂令景以玉帶、彩繒、犬馬遺王，紿其貢使改道雲南。邊吏格之不得入，乃去。復遣景與指揮盧安等索寶貨於幹崖、孟密諸土司，至逼淫曩罕弄女孫，許為奏授宣撫。逾三年，事發。詔巡撫都御史王恕廉之，捕景，景赴井死。再遣刑部郎中鍾蕃往按，事皆實。帝宥能，而致其黨九人於法。指揮姜和、李祥不就逮，能復上疏為二人求宥，帝曲從之。巡按御史甄希賢復劾能杖守礦千戶一人死，亦不罪。召歸，安置南京。復夤緣得南京守備。時恕為南京參贊尚書，能心憚恕不敢肆。久之卒。\nL245: \nL246: 韋眷、王敬亦芳黨。眷為廣東市舶太監，縱賈人通諸番，聚珍寶甚富。請以廣南均徭戶六十隸市舶。布政使彭韶爭之，詔給其半。眷又誣奏布政使陳選，被逮道卒，自是，人莫敢逆眷者。弘治初，眷因結蔡用妄舉李父貴冒紀太后族，降左少監，撤回京。事詳《紀太后傳》。\n\n--------------------------------------------------------------------------------\n漢書/卷056 - 维基文库，自由的图书馆 (https://zh.wikisource.org/wiki/%E6%BC%A2%E6%9B%B8/%E5%8D%B7056)\n【turn511578view4】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"turn366617view5\",\"lineno\":135}); Total lines: 217\nL133: > 蓋聞五帝三王之道，改制作樂而天下洽和，百王同之。當虞氏之樂莫盛於<韶>，〈師古曰：<韶>，舜樂。〉於周莫盛於<勺>。〈張晏曰：<勺>，周頌篇也，言能成先祖之功以養天下也。師古曰：勺讀與酌同。〉聖王已沒，鐘鼓筦絃之聲未衰，〈師古曰：筦與管字同。〉而大道微缺，陵夷至虖桀紂之行，〈師古曰：陵夷，言漸穨替也。解在成紀。〉王道大壞矣。夫五百年之間，守文之君，當塗之士，欲則先王之法以戴翼其世者甚衆，〈師古曰：翼，助也。〉然猶不能反，日以仆滅，〈師古曰：反，還也。還於正道也。仆，斃也，音赴。〉至後王而後止，豈其所持操或誖繆而失其統與？〈師古曰：操，執也。誖，乖也。統，緒也。操音千高反。與讀曰歟。後皆類此。〉固天降命不可復反，必推之於大衰而後息與？〈師古曰：息，止也。〉烏虖!〈師古曰：虖讀曰呼。嗚呼，歎辭也。〉凡所爲屑屑，夙興夜寐，務法上古者，又將無補與？〈師古曰：屑屑，動作之貌。補，益也。〉三代受命，其符安在？災異之變，何緣而起？性命之情，或夭或壽，或仁或鄙，〈師古曰：夭壽，命也。仁鄙，性也。鄙謂不通也。〉習聞其號，未燭厥理。〈師古曰：燭，照也。〉伊欲風流而令行，刑輕而姦改，〈師古曰：伊，惟也。〉百姓和樂，政事宣昭，何脩何飭而膏露降，百穀登，〈師古曰：登，成也。〉德潤四海，澤臻屮木，〈師古曰：臻，至也。屮，古草字也。〉三光全，寒暑平，受天之祜，〈師古曰：祜，福也，音怙。〉享鬼神之靈，〈師古曰：爲鬼神所歆饗。〉德澤洋溢，施虖方外，延及羣生？〈師古曰：施亦延也。洋音羊。施音弋豉反。〉\nL134: >\nL135: > 子大夫明先聖之業，習俗化之變，終始之序，講聞高誼之日久矣，其明以諭朕。〈師古曰：諭謂曉告也。〉科別其條，勿猥勿并，〈師古曰：猥，積也。并，合也。欲其一二疏理而言之。〉取之於術，慎其所出。迺其不正不直，不忠不極，枉于執事，書之不泄，興于朕躬，毋悼後害。〈師古曰：極，中也。公卿執事有不忠直而阿枉者，皆令言之。朕自發書，不有漏泄，勿懼有後害而不言也。〉子大夫其盡心，靡有所隱，朕將親覽焉。\nL136: 仲舒對曰：\nL137: > 陛下發德音，下明詔，求天命與情性，皆非愚臣之所能及也。臣謹案《春秋》之中，視前世已行之事，以觀天人相與之際，甚可畏也。國家將有失道之敗，而天迺先出災害以譴告之，〈師古曰：譴，責也。〉不知自省，〈師古曰：省，視也。〉又出怪異以警懼之，尚不知變，而傷敗迺至。以此見天心之仁愛人君而欲止其亂也。自非大亡道之世者，天盡欲扶持而全安之，事在彊勉而已矣。〈師古曰：彊音其兩反。此下並同。〉彊勉學問，則聞見博而知益明；彊勉行道，則德日起而大有功：此皆可使還至而立有效者也。〈師古曰：還讀曰旋。旋，速也。〉<詩>曰夙夜匪解，〈師古曰：大雅烝人之詩也。夙，早也。解讀曰懈。懈，怠也。其下亦同。〉<書>云茂哉茂哉!〈師古曰：虞書咎繇謨之辭也。茂，勉也。〉皆彊勉之謂也。\nL138: >\n\n--------------------------------------------------------------------------------\n도연명陶淵明의 팽택령彭澤令 사직辭職에 대한 소고小考 (https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002851551)\n【turn511578view5】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"turn366617view8\",\"lineno\":50}); Total lines: 139\nL50: 无论哪个时代，知识分子的处世与出仕问题，可作为评价该人物的标准。在中国历史长河中，窥探这一现象的典型事例就是东晋陶渊明（365~427）辞官彭泽令，选择“归田园居”之事。本论文旨在考察陶渊明辞官彭泽令的背景及缘由。405年8月，陶渊明在叔父陶夔的推荐下担任彭泽令，在官八十余日，11月便辞官归乡。陶渊明的辞官缘由，可分为陶渊明的自我解说以及后人的解说两大派别。陶渊明在解释自己的辞官理由时，说自己生活艰难为解决生计问题决定出仕，但自己的本性又向往自然，热爱田园，当时恰巧自己唯一的妹妹嫁到程氏家后病逝，为了奔丧吊唁，选择辞官。但后人在对此表示认同的同时，也提出了其它理由。一是气概说，陶渊明以要接待督邮巡行之事为契机，表示自己不能为五斗米而折腰，当天就扔掉了自己的印绶，辞官而归。另一种说法是机微说，说陶渊明是因为当时的政局混乱，预知东晋要灭亡，故而辞职。机微说是为了补充气概说之不足，也存在儒家学者想要美化彭泽令辞官这一层面。因此，本论文在以41岁为陶渊明靖节分割线进行评价的前提下，对陶渊明辞去彭泽令的原因进行考察。陶渊明在武人势力更需要崛起的时代背景下，为了解决自己的生计问题，在没有正确理解自己能力的情况下，轻率地选择出仕，但又无法适应现实世界与官僚社会，一时无法忍受愤恨而辞官。由此可见，陶渊明是一个无法适应官场生活的知识分子。但陶渊明41岁辞去彭泽令，刘宋建国也不再选择出仕，而是隐居田园回归自然，坚守自己的气节。所以可以评价陶渊明是一位高节的隐士\n\n--------------------------------------------------------------------------------\n續資治通鑑長編/卷017 - 维基文库，自由的图书馆 (https://zh.wikisource.org/zh/%E7%BA%8C%E8%B3%87%E6%B2%BB%E9%80%9A%E9%91%91%E9%95%B7%E7%B7%A8/%E5%8D%B7017)\n【turn511578view6】 [wordlim: 200] Crawled: yesterday; Content type: text/html; Source: open({\"ref_id\":\"turn306677search1\",\"lineno\":140}); Total lines: 421\nL132: 丙子，以煜司空、知左右內史事湯悅為太子少詹事，太子太保徐游、左內史侍郎徐鉉為太子率更令，右內史舍人張洎、王克貞為太子中允。克貞，新塗人，在江南守道中立，國人稱其長者。\nL133: \nL134: 鉉性質直，無矯飾。有盧氏簿謝岳者，鉉之故人也。凡銓選之制，年七十即罷去。岳與虢州刺史有隙，奏嶽年過，不堪其任。時江南人士爵齒，有司疑者，必質於鉉。岳求哀曰：「犬馬之齒，公實知之。岳家貧，親屬多，仰俸祿以給，今罷去，即填溝壑，願公言不知。」鉉曰：「我實知而言不知，是欺天也。」卒以實對，吏部遂罷岳官。然故人子弟及親族之孤貧者來依鉉，鉉必分俸開館以納之。\nL135: \nL136: 以兩浙都鈐轄使沈承禮為威武節度使。初圍潤州，城中兵夜出焚柵，或請往救之。承禮曰：「兵法所謂擊東南而備西北者此也。」命士擐甲不動。既而焚柵兵去攻他壁，諸將不設備者悉驚擾，獨承禮所部，敵人不敢窺焉。\nL137: \nL138: 初，盧絳在宣州，聞金陵陷，帥觽趨福建，欲割據嶺表。至歙州，刺史龔慎儀閉城拒之，絳怒，攻拔其城，殺慎儀，縱火大略，所過莫不驚擾。傳檄至福州，觀察判官查元方斬其使。己卯，上聞絳叛，遣其弟襲^{【42†[1]】}〈未見襲時為何官。〉齎詔書招諭之。\nL139: \nL140: 幸左飛龍院，觀衛士射，遂幸北苑，令衛士與契丹使騎射。\nL141: 庚辰，詔幸西京，將以四月有事於南郊。\nL142: \nL143: 濟州團練使李謙溥以疾自隰州肩輿還京師，上遣中使持湯劑就賜之，又遣太醫診視。謙溥累上章納祿，不許，壬午，卒。上甚悼焉，賻贈加等，葬事官給。\nL144: \nL145: 癸未，命翰林學士李昉，知制誥扈蒙、李穆等，於禮部貢院同閱諸道所解孝弟力田及有文武材幹者凡四百七十八人。及試，問所習之業，皆無可採。而濮州以孝弟薦名者二百七十人，上駭其多，召問於講武殿，率不如詔。猶自言能習武，複試以騎射，則皆隕越顛沛，上顧曰：「止可隸兵籍耳。」觽皆號泣求免。乃悉令退去，劾本州官司濫舉之罪。\nL146: \nL147: 丙申，遣太常丞魏咸熙，於開封府諸縣定三等人戶稅額。咸熙，仁浦之子也。\nL148: \nL149: 浚洛水。\nL150: \nL151: 二月己亥，髃臣再奉表請加尊號曰一統太平。上曰：「燕、晉未複，遽可謂一統太平乎？」不許。髃臣請易以立極居尊，上不得已，許之。\n"
+        }
+      ],
+      "isError": false
+    },
+    "web-search4.json": {
+      "content": [
+        {
+          "type": "text",
+          "text": "宋史/卷365 - 维基文库，自由的图书馆 (https://zh.wikisource.org/zh/%E5%AE%8B%E5%8F%B2/%E5%8D%B7365)\n【turn197016search0】 [wordlim: 200] Crawled: 2 weeks ago; 方郾城再捷，飛謂雲曰：「賊屢敗，必還攻潁昌，汝宜速援王貴。」 ... 先是，紹興五年，飛遣梁興等布德意，招結兩河豪傑，山砦韋銓、孫謀等歛兵固堡，以待王師，李通、胡清、李寶、李興、張恩、孫琪等舉眾來歸。\n\n--------------------------------------------------------------------------------\n明史/卷304 - 维基文库，自由的图书馆 (https://zh.wikisource.org/wiki/%E6%98%8E%E5%8F%B2/%E5%8D%B7304)\n【turn197016search1】 [wordlim: 200] Crawled: 4 weeks ago; 及寘鐇反，命永及右都御史楊一清往討。 ... 是時，瑾兄都督同知景祥死，京師籍籍謂瑾將以八月十五日俟百官送葬，因作亂。\n\n--------------------------------------------------------------------------------\n明史/卷304 - 维基文库，自由的图书馆 (https://zh.wikisource.org/zh-hans/%E6%98%8E%E5%8F%B2/%E5%8D%B7304)\n【turn197016search2】 [wordlim: 200] Crawled: 2 weeks ago; 及寘𫔍反，命永及右都御史杨一清往讨。 ... 是时，瑾兄都督同知景祥死，京师籍籍谓瑾将以八月十五日俟百官送葬，因作乱。 ... 其年，叙宁夏功，封弟英镇安伯，马永成兄山亦封平凉伯。\n\n--------------------------------------------------------------------------------\n明史 (四庫全書本)/卷304 - 維基文庫，自由的圖書館 (https://zh.wikisource.org/zh-hant/%E6%98%8E%E5%8F%B2_%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29/%E5%8D%B7304)\n【turn197016search3】 [wordlim: 200] Crawled: 3 weeks ago; 　　張永保定新城人正徳初總神機營與瑾為黨已而惡其所為瑾亦覺其不附已也言於帝將黜之南京永知之直趨帝前訢瑾陷已帝召瑾與質方爭辯永輒奮拳毆瑾帝令谷大用等置酒為解由是二人益不合及寘鐇反命永及右都御史楊一清往討帝戎服送之東華門賜闗防金𤓰鋼斧以行寵遇甚盛瑾亦忌之而帝方嚮永不能間也師出寘鐇已禽永遂率五百騎撫定餘黨還次靈州一清乘間勸奏瑾不法事永曰彼晨夕上前言能必濟乎一清曰公亦上信臣因為之畫策永大喜語詳一清傳是時瑾兄都督同知景祥死京師籍籍謂瑾將以八月十五日俟百官送𦵏因作亂適永㨗疏至將以是日獻俘瑾使緩其期欲俟事成竝禽永或以告永永先期入獻俘是夜遂奏誅瑾於是英國公張懋兵部尚書王敝等奏永輯寧中外兩建奇勲遂封永兄富為泰安伯弟容為安定伯涿州男子王豸嘗刺龍形及人王字於足永以為妖人禽之兵部尚書何鑑乞加永封下廷臣議永欲身自封侯引劉永誠鄭和故事風廷臣內閣以非制格之永意沮乃辭免恩澤吏部尚書楊一清言宜聴永讓以成其賢事竟已久之坐庫官盜庫銀事閒住九年北邊有警命永督宣府大同延綏軍禦之寇退乃還寧王宸濠反帝南征永率邊兵二千先行時王守仁已禽宸濠檻車北上永以帝意遮守仁欲縱宸濠於鄱陽湖俟帝至與戰守仁不可至杭州詣永永拒不見守仁叱門者徑入大呼曰我王守仁也來與公議國家事何拒我永為氣懾守仁因言江西荼毒已極王師至亂將不測永大悟乃曰羣小在側永來欲保䕶聖躬耳非欲攘功也因指江上檻車曰此宜歸我守仁曰我何用此即付永而與永偕還江西時太監張忠等已從大江至南昌方窮治逆黨見永至大沮永留數旬促忠同歸江西賴以安忠等屢讒守仁亦賴永營解獲免武宗崩永督九門防變世宗立御史蕭淮奏谷大用邱聚輩蠱惑先帝黨惡為奸並及永詔永閒住已而淮復劾永在江西不法事再降永奉御司香孝陵然永在江西尚非張忠比也嘉靖八年大學士楊一清等言永功大不可泯乃起永掌御用監提督團營未幾卒谷大用者瑾掌司禮監時提督西厰分遣官校逺出偵事江西南康民吳登顯等五月五日為競渡誣以擅造龍舟籍其家天下皆重足屏息建鷹房草場於安州奪民田無數瑾誅大用辭西厰未幾帝復欲用之大學士李東陽力諫乃止六年劉六劉七反命大用總督軍務偕伏羌伯毛鋭兵部侍郎陸完討之大用駐臨清召邊將許恭郤永江彬劉暉等入內地聴調遣久之無功㑹賊過鎮江狼山遇𩗗風舟覆陸完兵至殲之遂封大用弟大亮為永清伯而先是平寘鐇時其兄大寛已封髙平伯矣義子冒陞賞者不可勝紀世宗立以迎立功賜金幣給事中閻閎極論之尋降奉御居南京已召守康陵嘉靖十年籍其家魏彬當瑾時總三千營瑾誅代掌司禮監其年敘寧夏功封弟英鎮安伯馬永成兄山亦封平涼伯世宗立彬不自安為英辭伯爵詔改都督同知世襲錦衣指揮使給事中楊秉義徐景嵩吳嚴皆言彬附和逆瑾結姻江彬宜置極典帝宥不問已而御史復論之始令閒住張忠霸州人正徳時御馬太監與司禮張雄東厰張鋭並侍豹房用事時號三張性皆兇悖忠利大盜張茂財結為弟引入豹房侍帝蹴鞠而雄至怨其父不愛已致自宮拒不見同儕勸之乃垂簾杖其父然後相抱泣其無人理如此鋭以捕妖言功加祿至一百二十石每緝事先令邏卒誘人為奸乃捕之得賄則釋往往以危法中人三人並交通宸濠受臧賢錢寧等賄以助成其叛寧王反忠勸帝親征其遮王守仁㨗欲縱宸濠鄱陽待帝自戰皆忠之謀也是時又有吳經者尤親暱帝南征經先至Image: 揚 --（『昜』上『旦』之『日』與『一』相連）州嘗夜半燃炬通衢遍入寡婦處女家掠以出號哭震逺近許以金贖貧者多自經先是又有劉允者以正徳十年奉敕往迎烏斯藏僧所齎金寶以百餘萬計廷臣交章諫不聴允至成都治裝嵗餘費又數十萬公私匱竭既至為番人所襲允走免將士死者數百人盡亡其所齎及歸武帝已崩世宗用御史王鈞等言張忠吳經發孝陵衛充軍張雄張鋭下都察院鞫治允亦得罪世宗習見正徳時宦侍之禍即位後御近侍甚嚴有罪撻之至死或陳屍示戒張佐鮑忠麥福黃錦輩雖由興邸舊人掌司禮監督東厰然皆謹飭不敢大肆帝又盡撤天下鎮守內臣及典京營倉Image: 場 --（『昜』上『旦』之『日』與『一』相連）者終四十餘年不復設故嘉靖朝雖內臣權勢尚在然其害視他時差減雲\n\n--------------------------------------------------------------------------------\n明史 (四庫全書本)/卷304 - 维基文库，自由的图书馆 (https://zh.wikisource.org/zh/%E6%98%8E%E5%8F%B2_%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29/%E5%8D%B7304)\n【turn197016search4】 [wordlim: 200] Crawled: last month; # 明史 (四庫全書本)/卷304 ... 　　明太祖既定江左鑒前代之失置宦者不及百人迨末年頒祖訓乃定為十有二監及各司局稍稱備員矣然定制不得兼外臣文武銜不得御外臣冠服官無過四品月米一石衣食於内庭嘗鐫鐡牌置宫門曰内臣不得干預政事預者斬敕諸司不得與文移往來有老閹供事久一日從容語及政事帝大怒即日斥還鄉嘗用杜安道為御用監安道外臣也以鑷工侍帝數十年帷幄計議皆與知性縝密不泄過諸大臣前一揖不啟口而退太祖愛之然亡他寵異後遷出為光祿寺卿有趙成者洪武八年以内侍使河州市馬其後以市馬出者又有司禮監慶童等然皆不敢有所干竊建文帝嗣位御内臣益嚴詔出外稍不法許有司械聞及燕師逼江北内臣多逃入其軍漏朝廷虚實文皇以為忠於己而狗兒輩復以軍功得幸即位後遂多所委任永樂元年内官監李興奉敇徃勞暹羅國王三年遣太監鄭和帥舟師下西洋八年監都督譚青營有内官王安等又命馬靖鎮甘肅馬騏鎮交阯十八年置東厰令敇事蓋明世宦官出使專征監軍分鎮刺臣民隠事諸大權皆自永樂間始初太祖制内臣不許讀書識字後宣宗設内書堂選小内侍令大學士陳山教習之遂為定制用是多通文墨曉古今逞其智巧逢君作奸數𫝊之後勢成積重始於王振卒於魏忠賢考其禍敗其去漢唐何逺哉雖間有彼善於此者終不足贖其撓權干政之罪也今摭其有闗成敗者作宦官𫝊\n\n--------------------------------------------------------------------------------\n漢書/卷056 - 维基文库，自由的图书馆 (https://zh.wikisource.org/zh/%E6%BC%A2%E6%9B%B8/%E5%8D%B7056)\n【turn197016search5】 [wordlim: 200] Crawled: last month; > 臣聞<論語>曰：有始有卒者，其唯聖人虖!〈 ... 卒，終也，言終始如一者，唯聖人能之。〉今陛下幸加惠，留聽於承學之臣，〈師古曰：言轉承師說而學之，蓋謙辭也。〉 ... 故聖人法天而立道，亦溥愛而亡私，〈師古曰：溥，遍也，音普。〉\n\n--------------------------------------------------------------------------------\n明史 (四库全书本)/卷304 - 维基文库，自由的图书馆 (https://zh.wikisource.org/zh-hans/%E6%98%8E%E5%8F%B2_%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29/%E5%8D%B7304)\n【turn197016search6】 [wordlim: 200] Crawled: 2 weeks ago; 　　梁芳者宪宗朝内侍也贪黩谀佞与韦兴比而謟万贵妃日进美珠珍宝悦妃意其党钱能韦眷王敬等争假采办名出监大镇帝以妃故不问也妖人李孜省僧继晓皆由芳进共为奸利取中旨授官累数千人名传奉官有白衣躐至太常卿者陜西巡抚郑时论芳被黜陜民哭送之帝闻颇悔斥传奉官十人系六人狱诏自后传旨授官者俱覆奏然不罪芳也刑部员外郎林俊以劾芳及继晓下狱久之帝视内帑见累朝金七窖俱尽谓芳及韦兴曰靡费帑藏实由汝二人兴不敢对芳曰建显灵宫及诸祠庙为陛下祈万年福耳帝不怿曰吾不汝瑕后之人将与汝计矣芳大惧遂说贵妃劝帝废太子而立兴王会泰山屡震占者言应在东朝帝惧乃止孝宗立谪芳居南京寻下狱兴亦斥退正徳初群奄复荐兴司香太和山兼分守湖广行都司地方尚书刘大夏给事中周玺御史曹来旬谏不听兴遂复用而芳卒废以死钱能芳党也宪宗时郑忠镇贵州韦朗镇辽东能镇云南并恣纵而能尤横贵州巡抚陈宣劾忠因请尽撤诸镇监帝不允而云南巡按御史郭阳顾上疏誉能请留之云南旧制安南贡道出广西后请改由云南弗许也能诈言安南捕盗兵入境请遣指挥使郭景往谕其王诏从之能遂令景以玉带彩缯犬马遗王绐其贡使改道云南边吏格之不得入乃去复遣景与指挥卢安等索宝货于干崖孟密诸土司至逼淫曩罕弄女孙许为奏授宣抚逾三年事发诏巡抚都御史王恕廉之捕景景赴井死再遣刑部郎中锺蕃往按事皆实帝宥能而致其党九人于法指挥姜和李祥不就逮能复上疏为二人求宥帝曲从之巡按御史甄希贤复劾能杖守矿千户一人死亦不罪召归安置南京复夤缘得南京守备时恕为南京参赞尚书能心惮恕不敢肆久之卒韦眷王敬亦芳党眷为广东市舶太监纵贾人通诸番聚珍宝甚富请以广南均徭户六十隶市舶布政使彭韶争之诏给其半眷又诬奏布政使陈选被逮道卒自是人莫敢逆眷者弘治初眷因结蔡用妄举李父贵冒纪太后族已而诈伪事觉降左少监撤回京王敬好左道信妖人王臣使南方挟臣同行伪为诏括书画古玩聚白金十万馀两至苏州召诸生使录妖书且辱之诸生大哗巡抚王恕以闻东厂尚铭亦发其事诏斩臣而黜敬充孝陵卫净军\n\n--------------------------------------------------------------------------------\nNhững vua chúa đánh trận siêu đẳng trong sử Việt (3) (https://baotanglichsu.vn/vi/Articles/3098/14211/nhung-vua-chua-djanh-tran-sieu-djang-trong-su-viet-3.html)\n【turn197016search7】 [wordlim: 200] Published: 13.5 years ago; Crawled: 5 days ago; Năm 1418, Lê Lợi đã cùng những hào kiệt, đồng chí hướng chính thức phất ngọn cờ khởi nghĩa Lam Sơn, kêu gọi dân Việt đồng lòng đứng lên đánh đuổi quân xâm lược Minh cứu nước. ... Sau nhiều trận thắng, đến cuối năm 1425, ông làm chủ toàn bộ đất đai từ Thanh Hóa trở vào, các thành của đối phương đều bị bao vây. ... Cuối năm 1427, vua Minh điều một lực lượng viện binh lớn sang nước Việt. ... Sau thất bại này, quân Minh xin giảng hòa để rút quân.\n\n--------------------------------------------------------------------------------\n欽定古今圖書集成/方輿彙編/職方典/第0370卷 - 維基文庫，自由的圖書館 (https://zh.wikisource.org/zh-hant/%E6%AC%BD%E5%AE%9A%E5%8F%A4%E4%BB%8A%E5%9C%96%E6%9B%B8%E9%9B%86%E6%88%90/%E6%96%B9%E8%BC%BF%E5%BD%99%E7%B7%A8/%E8%81%B7%E6%96%B9%E5%85%B8/%E7%AC%AC0370%E5%8D%B7)\n【turn197016search8】 [wordlim: 200] Crawled: last month; 宋元豐三年，陞許州為潁昌府。 ... 隋開皇初，始改縣曰郾城，仍屬潁川郡。 ... 宋人伐鄭，取長葛，即此。\n\n--------------------------------------------------------------------------------\nPhế thành Xương Giang (https://baotanglichsu.vn/vi/Articles/1508/51632/phe-thanh-xuong-giang.html)\n【turn197016search9】 [wordlim: 200] Published: 14.1 years ago; Crawled: 2 months ago; Ngày 22/12/1427, quân Minh rút quân về nước.\n\nChiến thắng Xương Giang đã ghi thêm chiến công vào sử vàng dân tộc Việt, là niềm tự hào của nhân dân cả nước, góp phần chấm dứt 20 năm ách đô hộ của nhà Minh đối với nước Đại Việt.\n\n--------------------------------------------------------------------------------\n明史 - 维基文库，自由的图书馆 (https://zh.wikisource.org/zh/%E6%98%8E%E5%8F%B2)\n【turn197016search10】 [wordlim: 200] Crawled: last week;   * 明史 (四庫全書本) ...   * 卷五　　本紀第五　成祖一 ...   * 卷十三　本紀第十三　憲宗一\n  * 卷十四　本紀第十四　憲宗二\n  * 卷十五　本紀第十五　孝宗\n  * 卷十六　本紀第十六　武宗\n\n--------------------------------------------------------------------------------\nTrận đánh khiến quân tướng phương Bắc tay rụng chân rời (https://baotanglichsu.vn/vi/Articles/2001/66235/tran-djanh-khien-quan-tuong-phuong-bac-tay-rung-chan-roi.html)\n【turn197016search11】 [wordlim: 200] Published: 14.3 years ago; Crawled: 2 months ago; Năm 1407 lấy cớ sang đánh nhà Hồ để lập dòng dõi nhà Trần, cứu cho dân khỏi khổ sở, Minh Thành Tổ huy động 80 vạn quân, sai Thành Quốc Công là Chu Năng làm đại tướng, chia binh làm 2 đạo sang đánh Đại Việt. ... Tuy vua tôi nhà Hồ đã phòng bị, nhưng trước sức mạnh của binh tướng nhà Minh, lại thêm lòng dân dao động vì tin theo lời hứa ủng hộ dòng dõi nhà Trần (của người Minh) nên nhà Hồ liên tiếp bị thất bại phải rút vào Thanh Hóa. ... Đầu năm 1427, vua Minh sai An viên hầu Liễu Thăng và Mộc Thạch chỉ huy 15 vạn quân, chia làm hai đường tiến vào nước ta. ... Để thỏa lòng giận trong một buổi mà mang tiếng giết người đầu hàng mãi mãi muôn năm, chi bằng tha mạng cho ức vạn người mà tuyệt mối chiến tranh sau này, sử xanh ghi chép, tiếng thơm muôn đời, há chẳng lớn sao.” ... Từ trận Lạc Thủy đầu tiên năm 1414 đến chiến thắng Chi Lăng, Xương Giang (1427), toàn dân ta đã trải qua 10 năm “nếm mật nằm gai” đấu tranh cực kỳ anh dũng đánh đuổi quân xâm lược, viết lên những trang sử chói lọi vinh quang trong sự nghiệp xây dựng và bảo vệ non sông đất nước.\n\n--------------------------------------------------------------------------------\n明史 - 维基文库，自由的图书馆 (https://zh.wikisource.org/zh-hans/%E6%98%8E%E5%8F%B2)\n【turn197016search12】 [wordlim: 200] Crawled: last week; 《明史》三百三十六卷，〈内府刊本。〉 ... 凡《本纪》二十四卷、《志》七十五卷、《表》一十三卷、《列传》二百二十卷、《目录》四卷。 ... 十五年之内，几经同事迁流，三百馀卷之书，以次随时告竣。\n"
+        }
+      ],
+      "isError": false
+    },
+    "web-passages4.json": {
+      "content": [
+        {
+          "type": "text",
+          "text": "宋史/卷365 - 维基文库，自由的图书馆 (https://zh.wikisource.org/wiki/%E5%AE%8B%E5%8F%B2/%E5%8D%B7365)\n【turn683005view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"turn366617view0\",\"lineno\":190}); Total lines: 275\nL190: 兀朮大懼，會龍虎大王議，以為諸帥易與，獨飛不可當，欲誘致其師，併力一戰。中外聞之，大懼，詔飛審處自固。飛曰：「金人伎窮矣。」乃日出挑戰，且罵之。兀朮怒，合龍虎大王、蓋天大王與韓常之兵逼郾城。飛遣子雲領騎兵直貫其陣，戒之曰：「不勝，先斬汝！」鏖戰數十合，賊屍布野。\nL191: \nL192: 初，兀朮有勁軍，皆重鎧，貫以韋索，三人為聯，號「拐子馬」，官軍不能當。是役也，以萬五千騎來，飛戒步卒以麻札刀入陣，勿仰視，第斫馬足。拐子馬相連，一馬仆，二馬不能行，官軍奮擊，遂大敗之。兀朮大慟曰：「自海上起兵，皆以此勝，今已矣！」兀朮益兵來，部將王剛以五十騎覘敵，遇之，奮斬其將。飛時出視戰地，望見黃塵蔽天，自以四十騎突戰，敗之。\nL193: \nL194: 方郾城再捷，飛謂雲曰：「賊屢敗，必還攻潁昌，汝宜速援王貴。」既而兀朮果至，貴將遊奕、雲將背嵬戰于城西。雲以騎兵八百挺前決戰，步軍張左右翼繼之，殺兀朮婿夏金吾、副統軍粘罕索孛堇，兀朮遁去。\nL195: 梁興會太行忠義及兩河豪傑等，累戰皆捷，中原大震。飛奏：「興等過河，人心願歸朝廷。金兵累敗，兀朮等皆令老少北去，正中興之機。」飛進軍朱仙鎮，距汴京四十五里，與兀朮對壘而陣，遣驍將以背嵬騎五百奮擊，大破之，兀朮遁還汴京。飛檄陵臺令行視諸陵，葺治之。\nL196: \nL197: 先是，紹興五年，飛遣梁興等布德意，招結兩河豪傑，山砦韋銓、孫謀等歛兵固堡，以待王師，李通、胡清、李寶、李興、張恩、孫琪等舉眾來歸。金人動息，山川險要，一時皆得其實。盡磁、相、開德、澤、潞、晉、絳、汾、隰之境，皆期日興兵，與官軍會。其所揭旗以「岳」為號，父老百姓爭挽車牽牛，載糗糧以餽義軍，頂盆焚香迎候者，充滿道路。自燕以南，金號令不行，兀朮欲簽軍以抗飛，河北無一人從者。乃嘆曰：「自我起北方以來，未有如今日之挫衂。」金帥烏陵思謀素號桀黠，亦不能制其下，但諭之曰：「毋輕動，俟岳家軍來即降。」金統制王鎮、統領崔慶、將官李覬崔虎華旺等皆率所部降，以至禁衞龍虎大王下忔查千戶高勇之屬，皆密受飛旗牓，自北方來降。金將軍韓常欲以五萬眾內附。飛大喜，語其下曰：「直抵黃龍府，與諸君痛飲爾！」\n\n--------------------------------------------------------------------------------\n宋史/卷003 - 维基文库，自由的图书馆 (https://zh.wikisource.org/wiki/%E5%AE%8B%E5%8F%B2/%E5%8D%B7003)\n【turn683005view1】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"turn366617view1\",\"lineno\":246}); Total lines: 315\nL246: 　　五月己巳，幸東水磑，遂幸飛龍院，觀漁金水河。甲戌，遣司勳員外郎和峴往江南路採訪。殺盧絳。庚辰，幸講武池，遂幸玉津園觀稼。宋州大風，壞城樓、官民舍幾五千間。甲申，以閣門副使田守奇等充賀契丹生辰使。晉州以北漢嵐、石、憲三州巡檢使王洪武等來獻。\nL247: \nL248: 　　六月庚子，步至晉王邸，命作機輪，輓金水河注邸中為池。癸卯，吳越王進銀、絹、綿以倍萬計。乙卯，熒惑入南斗。\nL249: \nL250: 　　秋七月戊辰，幸晉王第觀新池。丙子，幸京兆尹光美第視疾。戊寅，再幸光美第。泉州節度使陳洪進乞朝覲。丙戌，命近臣祈晴。丁亥，命修先代帝王及五嶽四瀆祠廟。庚寅，幸光美第。\nL251: \nL252: 　　八月乙未朔，吳越國王進射火箭軍士。己亥，幸新龍興寺。辛丑，太子中允郭思齊坐贓棄市。乙巳，幸等覺院，遂幸東染院，賜工人錢。又幸控鶴營觀習射，賜帛有差。又幸開寶寺觀藏經。丁未，遣侍衛馬軍都指揮使党進、宣徽北院使潘美伐北漢。丙辰，遣使率兵分五道入太原。\nL253: \nL254: 　　九月甲子，幸綾錦院。庚午，權高麗國事王伷遣使來朝獻。党進敗北漢軍於太原城北。辛巳，命忻、代行營都監郭進遷山後諸州民。庚寅，幸城南池亭，遂幸禮賢宅，又幸晉王第。\n\n--------------------------------------------------------------------------------\n宋史/卷041 - 维基文库，自由的图书馆 (https://zh.wikisource.org/wiki/%E5%AE%8B%E5%8F%B2/%E5%8D%B7041)\n【turn683005view2】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"turn366617view2\",\"lineno\":139}); Total lines: 421\nL134: ## 嘉定十七年\nL135: \nL136: [【53†编辑】]\nL137: \nL138: 　　十七年八月丙戌，寧宗違豫，自是不視朝。壬辰，疾篤，彌遠稱詔以貴誠爲皇子，改賜名昀，授武泰軍節度使，封成國公。閏月丙申，寧宗疾甚，丁酉，崩于福寧殿。彌遠使楊谷、楊石入白楊皇后，稱遺旨以皇子竑開府儀同三司，進封濟陽郡王、判寧國府，命子昀嗣皇帝位。大赦。尊楊皇后曰皇太后，同聽政。封竑爲濟王，賜第湖州，以醴泉觀使就第。癸亥，詔宮中自服三年喪。\nL139: \nL140: 　　九月乙亥，詔褒表老儒，以傅伯成爲顯謨閣學士，楊簡寶謨閣直學士，並提舉南京鴻慶宮。柴中行敘復元職，授右文殿修撰、主管南京鴻慶宮。戊寅，詔兄濟王妻衛國夫人吳氏封許國夫人。己卯，皇太后、皇帝御便殿垂簾。詔以先聖四十九代孫行可爲迪功郎，授判、司、簿、尉；以禮部侍郎程珌、吏部侍郎朱著、中書舍人真德秀兼侍讀；工部侍郎葛洪、起居郎喬行簡、宗正少卿陳貴誼、軍器監王塈兼侍講。壬午，葛洪權工部尚書，升兼侍讀。辛卯，祀明堂，大赦。\nL141: \nL142: 　　冬十月戊戌，詔諸路提點刑獄以十一月按理囚徒。己亥，嗣秀王師嵓薨。壬子，詔百官奉按月給。\nL143: 　　十一月甲子，右正言麋溧請承順東朝，繼志述事，壹以孝宗爲法，而新政之切者，曰畏天、悅親、講學、仁民。上嘉納焉。癸未，以五月十六日爲皇太后壽慶節。丁亥，詔改明年爲寶慶元年。戊子，以葛洪爲端明殿學士、同簽書樞密院事。己丑，詔以生日爲天基節。\nL144: \n\n--------------------------------------------------------------------------------\n明史/卷304 - 维基文库，自由的图书馆 (https://zh.wikisource.org/wiki/%E6%98%8E%E5%8F%B2/%E5%8D%B7304)\n【turn683005view3】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"turn366617view3\",\"lineno\":227}); Total lines: 361\nL221: ### 汪直\nL222: \nL223: [【83†编辑】]\nL224: \nL225: 汪直者，大藤峽瑤種也。初給事萬貴妃於昭德宮，遷御馬監太監。【84†成化十二年】，黑眚見宮中，妖人李子龍以符術結太監韋舍私入大內，事發，伏誅。帝心惡之，銳欲知外事。直為人便黠，帝因令易服，將校尉一二人密出伺察，人莫知也，獨都御史王越與結歡。明年設西廠，以直領之，列官校刺事。南京鎮監覃力朋進貢還，以百艘載私鹽，騷擾州縣。武城縣典史詰之，力朋擊典史，折其齒，射殺一人。直廉得以聞，逮治論斬。力朋後得幸免，而帝以此謂直能摘奸，益幸直。直乃任錦衣百戶韋瑛為心腹，屢興大獄。\nL226: \nL227: 建寧衛指揮楊曄，故少師榮曾孫也，與父泰為仇家所告，逃入京，匿姊夫董玙所。玙為請瑛，瑛陽諾而馳報直。直即捕曄、玙考訊，三琶之。琶者，錦衣酷刑也。骨節皆寸解，絕而復蘇。曄不勝苦，妄言寄金於其叔父兵部主事士偉所。直不復奏請，捕士偉下獄，並掠其妻孥。獄具，曄死獄中，泰論斬，士偉等皆謫官，郎中武清、樂章，行人張廷綱，參政劉福等皆無故被收案。自諸王府邊鎮及南北河道，所在校尉羅列，民間鬥詈雞狗瑣事，輒置重法，人情大擾。直每出，隨從甚眾，公卿皆避道。兵部尚書項忠不避，迫辱之，權焰出東廠上。\n\n--------------------------------------------------------------------------------\n历史沿革 (https://www.ezhou.gov.cn/zjez/ezgk/lsyg/201902/t20190222_176954.html)\n【turn683005view4】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"turn366617view6\",\"lineno\":49}); Total lines: 285\nL44: 　　魏黄初元年（220年），孙权在樊口设樊山戍；魏黄初二年（221年）四月，孙权自公安迁鄂县，取\"以武而昌\"之义，改鄂县为武昌县。分江夏立武昌郡，辖武昌、阳新、沙羡、下雉、柴桑、浔阳等六县。八月曹丕封孙权为吴王。筑吴王城。\nL45: \nL46: 　　吴黄武三年（224年），佛门名士支谦与印度僧人维祗难、竺律炎居武昌，共译《法句经》《太子瑞应本起经》，江南始传佛教；吴黄武五年（226年），孙权采武昌铜铁作千口剑、万口刀。后出土有孙权之侄铭文弩机、侄孙“孙将军门楼”。\nL47: \nL48: 　　吴黄龙元年（229年）四月，孙权称帝，是为吴大帝；在南郊筑坛祭天。传有黄龙蟠于江心矶上积日方去，遂改元黄龙。由建业迁富户千家落籍武昌，居民增至10万。于西山建避暑宫、读书堂。颁屯田令，鼓励垦荒。武昌为中国四大铸镜中心之一，有“铜镜之乡”美誉；九月迁都建业，陆逊辅太子孙登留守武昌，为吴陪都。\nL49: \nL50: 　　吴赤乌元年（238年），传武昌麒麟现。\nL51: \nL52: 　　吴甘露元年（265年）九月，末帝孙皓自建业迁都武昌。不愿意离建业者编唱“宁饮建业水，不食武昌鱼”童谣，樊口鳊鱼始名“武昌鱼”。次年十二月还都建业。\n\n--------------------------------------------------------------------------------\n續資治通鑑長編/卷017 - 维基文库，自由的图书馆 (https://zh.wikisource.org/zh/%E7%BA%8C%E8%B3%87%E6%B2%BB%E9%80%9A%E9%91%91%E9%95%B7%E7%B7%A8/%E5%8D%B7017)\n【turn683005view5】 [wordlim: 200] Crawled: yesterday; Content type: text/html; Source: open({\"ref_id\":\"turn511578view6\",\"lineno\":282}); Total lines: 421\nL282: 丁酉，安守忠言與洛羅寨兵馬監押馬繼恩，〈繼恩，未見。〉領兵出遼州路，焚北漢四十餘寨，獲牛羊人口數千。〈按八月遣內衣庫副使孫晏宣與濮州刺史安守忠取遼州路入河東界。守忠傳亦載守忠時知遼州，與馬繼恩入界事，而舊錄乃云：遼州知州齊超上言，蓋誤也。齊超實澤州刺史，別取沁州路入界，非遼州也。新錄止稱遼州，當是覺舊錄誤，故改之，今直書安守忠。〉\nL283: \nL284: 齊超言領兵沁州路，敗北漢軍五百人，擒三十人。〈此據本紀也。新、舊錄無之，疑實錄脫誤，或與安守忠同日奏到耳。當考。〉\nL285: \nL286: 己亥，幸西教場，觀飛山軍士發機石。\nL287: \nL288: 庚子，郭進言破北漢壽陽縣，俘其民九十餘口。\nL289: \nL290: 黨進言又敗北漢軍千餘人於太原城北。\nL291: \nL292: 初，涇州官歲市馬，彰義節度使張鐸厚增其直，而私取之，累積至十六萬貫，及擅借公帑錢萬餘緡，侵用官麴六千四百餘餅。事發，召歸京師，本州械系其子保常及親吏宋習。上以鐸宿舊，詔釋不問，但罷其旄鉞而已，其所侵盜，皆蠲除之。保常洎習亦得免。庚戌，以鐸為左屯衛上將軍。鐸，河朔人也。\nL293: 初，有神降於盩厔縣民張守真家，自言：「我天之尊神，號黑殺將軍，玉帝之輔也。」守真每齋戒祈請，神必降室中，風肅然，聲若嬰兒，獨守真能曉之，所言禍福多驗。守真遂為道士。上不豫，驛召守真至闕下。壬子，命內侍王繼恩就建隆觀設黃籙醮，令守真降神，神言：「天上宮闕已成，玉□開。晉王有仁心。」言訖不複降。〈此據國史符瑞志，稍增以楊億談苑。談苑又云^{【55†[14]】}：「太祖聞守真言以為妖，將加誅，會宴駕。」恐不然也，今不取。〉上聞其言，即夜召晉王，屬以後事。左右皆不得聞，但遙見燭影下晉王時或離席，若有所遜避之狀，既而上引柱斧翟□□地^{【56†[15]】}，大聲謂晉王曰：「好為之。」〈此據吳僧文瑩所為湘山野錄，正史、實錄並無之。野錄云：祖宗潛躍日，嘗與一道士游於關河，無定姓名，自曰混沌，或又曰真無。每有乏則探囊，金愈探愈出。三人者每劇飲爛醉。生喜歌步虛為戲^{【57†[16]】}，能引其喉於杳冥間作清徵之聲。時或一二句，隨天風飄下，惟祖宗聞之，曰：「金猴虎頭四，真龍得真位。」至醒詰之，則曰：「醉夢間語，豈足憑耶？」至膺圖受禪之日，乃庚申正月初四也。自御極不再見，下詔草澤篃訪之。人或見於轘轅道中，或嵩、洛間，乃開寶乙亥歲也。上已祓禊，駕幸西沼，生醉坐於岸木陰下，笑揖太祖曰：「別來喜安。」上大喜，亟遣中人密引至後掖，恐其遁去，急回蹕見之，一如平時，抵掌浩飲。上謂生曰：「我久欲見汝，決□一事，無他，我壽還得幾多？」生曰：「但今年十月二十日夜晴，則可延一紀，不爾，則當速措置。」上酷留之，俾宿後苑。苑吏或見宿於木末鳥巢中，或數日不見。上常切切記其語，至所期之夕，御太清閣以望氣。是夕果晴，星斗明燦，上心方喜。俄而陰霾四起，天地陡變，雪雹驟降^{【58†[17]】}，移仗下閣。急傳宮鑰開門，召開封尹，即太宗也。延入大寢，酌酒對飲。宦官宮妾悉屏之，但遙見燭影下，太宗時或避席，有不可勝之狀。飲訖，禁漏三鼓，殿下雪已數寸。太祖引柱斧翟□□雪，顧太宗曰：「好做，好做。」遂解帶就寢，鼻息如雷。是夕，太宗留宿禁內，將五鼓，伺廬者寂無所聞^{【59†[18]】}，太祖已崩矣。太宗受遺詔，於柩前即位。逮曉登明堂，宣遺詔罷，聲慟，引近臣環玉衣以瞻聖體，玉色瑩然如出湯沐。太祖英武，其達生知命，蓋有如此者。文瑩宜不妄，故特著於此。然文瑩所言道士，不得姓名，豈即張守真耶？或複一道士也。恐文瑩得之傳聞，故不審，如云「於西沼木陰下笑揖太祖」，「止宿後苑鳥巢中」，言「十月二十日夜晴，則聖壽可延一紀」，疑皆好事者飾說，未必然也。又云「太宗留宿禁內」，此亦謬誤。太祖既不豫，寧複自登閣，且至殿庭翟□□雪乎？今略加刪潤，更俟考詳。顧命，大事也，而實錄、正史皆不能記，可不惜哉。蔡敦直筆云：太祖召陳摶入朝，宣問壽數，對以丙子歲十月二十日夜或見雪，當辦行計，若晴霽須展一紀。至期前夕，上不寢。初，夜遣宮人出視，回奏星象明燦。交更，再令出視，乃奏天陰，繼言雪下，遂出禁鑰，遣中使召太宗入對，命置酒，付宸翰屬以繼位，夜分乃退。上就寢，侍寢者聞鼻息聲異，急視之，已崩。太宗於是入繼。按敦所載，與文瑩略同，但即以道士者為陳摶耳。摶本傳及談苑並稱摶終太祖朝未嘗入見，恐敦亦誤矣，當是張守真也。王禹偁建隆遺事云：上將宴駕，前一日，遣中使急召宰相趙普、盧多遜入宮，見於寢閤。上曰：「吾知此疾必不起，要見卿等者無它，為有數事未暇行之，卿等將筆硯來，依吾言寫之，身後切須行之，吾瞑目無恨也。」遂授普等筆硯，上自陳述，普等依上言而寫，數事皆濟世安民之道，普等因嗚咽流涕而言：「此則謹依謨訓而行之。然有一大事，未見陛下處置。」上曰：「何事也？」普等曰：「儲嗣未定，陛下儻有不諱，諸王中當立何人？」上曰：「可立晉王。」普等複曰：「陛下艱難創業，卒至升平，自有聖子當受命^{【60†[19]】}，未可議及昆弟也。臣等恐大事一去，卒不可還，陛下宜熟計之。」上曰：「吾上不忍違太后慈訓，下為海內方小康，思得長君以撫之，吾意已決矣，願公等善為我輔晉王。」遂出御府珠玉金器賜普等，令歸第。翌日，上崩於長慶殿。由是晉王聞普等有此奏議，大銜之。嗣位後，坐多遜事連秦府，貶死於嶺表。趙普以婦人取媚於禁中，遂獲免。謹按世所傳建隆遺事十三章，此其第十一章也，事尤悖謬不可信。蓋開寶六年八月，趙普已罷相，出鎮河陽，後三年太祖晏駕，此時趙普實在河陽，安得與盧多遜並居相位耶？又遺事第七章稱「杜太后及太祖召晉王、秦王、南陽王等相約傳位，陶穀為誓書，趙普告天地宗廟。」此固不然也。設如所言，則太祖傳位晉王約已定於建隆初矣。開寶末，命宰相又何請耶？就使複請，則決非趙普也。且遺事乃一人所著，其首尾固當參同，今第七章既云爾，其第十一章又云爾，豈不自相矛盾耶？臣燾嘗反覆推究此章，蓋普之怨家仇人多遜親黨所為^{【61†[20]】}，欲肆其詆毀，故托名禹偁竄寄遺事中，實非禹偁作也。禹偁事太宗坐直言屢黜，故髃小因之，然禹偁素識道理，忠義人也，決不敢鑿空駕虛，污蔑君父，若此不顧。且禹偁集所載表章多代普作，禹偁傳亦稱普雅愛重禹偁，縱禹偁書惡不為普隱，亦須驗實傳信。方太祖宴駕時，普不在相位，士大夫孰不知之，而此章乃云與盧多遜同入宮，其非禹偁所著，蓋明甚。必多遜親黨不習朝廷之故者所妄作也。且非獨此章為不可信，其它章要不全是，蓋禹偁用文章名天下，今所傳遺事語多鄙俗，略不似禹偁平日心聲。故臣燾竊有疑焉，特信其可信耳。學士大夫以書托名禹偁則遽信之，不複推究，此最害義者。故不可不辨，以曉來世云。〉\n\n--------------------------------------------------------------------------------\n西汉立太学的过程与时间 ———兼及汉武帝太初以前的年代问题 (https://ccj.pku.edu.cn/article/info?aid=787462097559621)\n【turn683005view6】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://ccj.pku.edu.cn/article/info?aid=787462097559621\",\"lineno\":null}); Total lines: 103\nL0: 【0†Login】\nL1: \nL2: |\nL3: \nL4: 【1†Registration】\nL5: \nL6: |\nL7: \nL8: 中文(简体)\nL9: \nL10:   * 【2†Home】\nL11:   * 【3†Journals】\nL12:   * 【4†Articles】\nL13:   * 【5†About】\nL14: \nL15: Journal of traditional Chinese culture\nL16: \nL17: [Input] [Input] [Input] [Input] [Input]\nL18: \nL19: [Select]\nL20: \nL21: [Input: Please enter search term]\nL22: \nL23: [Input]\nL24: \nL25: [Input]\nL26: \nL27:   * 【6†Journal homepage】\nL28:   * 【7†Introduction】\nL29:   * 【8†Editorial Board】\nL30:   * 【9†Instructions for Authors】\nL31:   * 【10†Back Issues】\nL32: \nL33: 【11†Journal of traditional Chinese culture】 ›› 【12†2024 , (4)】 : 28-37.\nL34: \nL35: 西汉立太学的过程与时间 ———兼及汉武帝太初以前的年代问题\nL36: \nL37: 作 者：\nL38: \nL39:   *   【13†徐建委】\nL40: \nL41: 【14†1】\n\n--------------------------------------------------------------------------------\n汉武帝在长安建立太学，太学生们的学习生活是啥样的？_京报网 (https://news.bjd.com.cn/2023/08/30/10547000.shtml)\n【turn683005view7】 [wordlim: 200] Crawled: last month; Content type: text/html; Source: open({\"ref_id\":\"https://news.bjd.com.cn/2023/08/30/10547000.shtml\",\"lineno\":null}); Total lines: 335\nL0: [Input] [Input]\nL1: \nL2:   * 【0†悦读†www.bjd.com.cn】\nL3:   * 【1†新闻†www.bjd.com.cn】\nL4:   * 【2†评论†www.bjd.com.cn】\nL5:   * 【3†深度†www.bjd.com.cn】\nL6:   * 【4†理论†www.bjd.com.cn】\nL7:   * 【5†视频†www.bjd.com.cn】\nL8:   * 【6†图库†www.bjd.com.cn】\nL9:   * 【7†文化†www.bjd.com.cn】\nL10:   * 【8†财经†www.bjd.com.cn】\nL11:   * ···\nL12: \nL13: [Input: 请输入关键字]\nL14: \nL15: 【9†Image: search†img.bjd.com.cn】\nL16: \nL17: 【10†Image: 电子报†img.bjd.com.cn】\nL18: \nL19: 电子报\nL20: \nL21: 【11†Image†img.bjd.com.cn】\nL22:   * 【12†头条†www.bjd.com.cn】\nL23:   * 【13†要闻†www.bjd.com.cn】\nL24:   * 【14†互联网†www.bjd.com.cn】\nL25:   * 【15†体坛†www.bjd.com.cn】\nL26:   * 【16†科教†www.bjd.com.cn】\nL27:   * 【17†消费†www.bjd.com.cn】\nL28:   * 【18†矩阵†www.bjd.com.cn】\nL29:   * 【19†论坛†www.bjd.com.cn】\nL30:   * 【20†京报网摘†www.bjd.com.cn】\nL31: \nL32:   * 【21†北京日报】\nL33:   * 【22†北京晚报†bjrbdzb.bjd.com.cn】\nL34:   * 【23†北京城市副中心报†bjrbdzb.bjd.com.cn】\nL35:   * 【24†北京商报†epaper.bbtnews.com.cn】\nL36:   * 【25†冬奥会会刊†www.bjd.com.cn】\nL37:   * 【26†冬残奥会会刊†www.bjd.com.cn】\nL38:   * 【27†服贸会会刊†www.bjd.com.cn】\nL39:   * 【28†中关村论坛会刊†www.bjd.com.cn】\n"
+        }
+      ],
+      "isError": false
+    },
+    "web-primary.json": {
+      "content": [
+        {
+          "type": "text",
+          "text": "宋史/卷365 - 维基文库，自由的图书馆 (https://zh.wikisource.org/wiki/%E5%AE%8B%E5%8F%B2/%E5%8D%B7365)\n【turn366617view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://zh.wikisource.org/wiki/宋史/卷365\",\"lineno\":null}); Total lines: 275\nL0: 【0†跳转到内容】\nL1: \nL2: [Input] 主菜单\nL3: \nL4: 主菜单\nL5: \nL6: [Button: 移至侧栏] [Button: 隐藏]\nL7: \nL8: 导航\nL9: \nL10:   * 【1†首页】\nL11:   * 【2†随机作品】\nL12:   * 【3†随机作者】\nL13:   * 【4†随机原本】\nL14:   * 【5†所有页面】\nL15: \nL16: 编者\nL17: \nL18:   * 【6†社群首页】\nL19:   * 【7†写字间】\nL20:   * 【8†最近更改】\nL21:   * 【9†特殊页面】\nL22: \nL23: 帮助\nL24: \nL25:   * 【10†帮助】\nL26:   * 【11†关于维基文库】\nL27:   * 【12†联系我们】\nL28:   * 【13†方针与指引】\nL29: \nL30: 显示选项\nL31: \nL32: 【14†搜索】\nL33: \nL34: [Input: 搜索Wikisource内容]\nL35: \nL36: [Input]\nL37: \nL38: [Button: 搜索]\nL39: \nL40: [Input] 外观\nL41: \nL42:   * 【15†资助†donate.wikimedia.org】\nL43:   * 【16†创建账号】\nL44:   * 【17†登录】\nL45: \nL46: [Input] 个人工具\nL47: \nL48:   * 【15†资助†donate.wikimedia.org】\nL49:   * 【16†创建账号】\nL50:   * 【17†登录】\nL51: ## 目录\nL52: \nL53: [Button: 移至侧栏] [Button: 隐藏]\nL54: \nL55:   * 【18†（首段）】\nL56:   * 【19†1 子 雲】\nL57: \nL58: [Input] 开关目录\nL59: # 宋史/卷365\nL60: \nL61: [Input] 添加语言\nL62: \nL63: 【20†添加链接†www.wikidata.org】\nL64: \nL65:   * 【21†作品】\nL66:   * 【22†讨论】\nL67: \nL68: [Input] 不转换\nL69: \nL70:   * 【23†不转换】\nL71:   * 【24†简体】\nL72:   * 【25†繁體】\nL73: \nL74:   * 【21†阅读】\nL75:   * 【26†编辑】\nL76:   * 【27†查看历史】\nL77: \nL78: [Input] 工具\nL79: \nL80: 工具\nL81: \nL82: [Button: 移至侧栏] [Button: 隐藏]\nL83: \nL84: 操作\nL85: \nL86:   * 【21†阅读】\nL87:   * 【26†编辑】\nL88:   * 【27†查看历史】\nL89: \nL90: 常规\nL91: \nL92:   * 【28†链入页面】\nL93:   * 【29†相关更改】\nL94:   * 【30†上传文件†commons.wikimedia.org】\nL95:   * 【31†固定链接】\nL96:   * 【32†页面信息】\nL97:   * 【33†引用此页】\nL98:   * 【34†获取短链接】\nL99: \nL100: 打印/导出\n\n--------------------------------------------------------------------------------\n宋史/卷003 - 维基文库，自由的图书馆 (https://zh.wikisource.org/wiki/%E5%AE%8B%E5%8F%B2/%E5%8D%B7003)\n【turn366617view1】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://zh.wikisource.org/wiki/宋史/卷003\",\"lineno\":null}); Total lines: 315\nL0: 【0†跳转到内容】\nL1: \nL2: [Input] 主菜单\nL3: \nL4: 主菜单\nL5: \nL6: [Button: 移至侧栏] [Button: 隐藏]\nL7: \nL8: 导航\nL9: \nL10:   * 【1†首页】\nL11:   * 【2†随机作品】\nL12:   * 【3†随机作者】\nL13:   * 【4†随机原本】\nL14:   * 【5†所有页面】\nL15: \nL16: 编者\nL17: \nL18:   * 【6†社群首页】\nL19:   * 【7†写字间】\nL20:   * 【8†最近更改】\nL21:   * 【9†特殊页面】\nL22: \nL23: 帮助\nL24: \nL25:   * 【10†帮助】\nL26:   * 【11†关于维基文库】\nL27:   * 【12†联系我们】\nL28:   * 【13†方针与指引】\nL29: \nL30: 显示选项\nL31: \nL32: 【14†搜索】\nL33: \nL34: [Input: 搜索Wikisource内容]\nL35: \nL36: [Input]\nL37: \nL38: [Button: 搜索]\nL39: \nL40: [Input] 外观\nL41: \nL42:   * 【15†资助†donate.wikimedia.org】\nL43:   * 【16†创建账号】\nL44:   * 【17†登录】\nL45: \nL46: [Input] 个人工具\nL47: \nL48:   * 【15†资助†donate.wikimedia.org】\nL49:   * 【16†创建账号】\nL50:   * 【17†登录】\nL51: ## 目录\nL52: \nL53: [Button: 移至侧栏] [Button: 隐藏]\nL54: \nL55:   * 【18†（首段）】\nL56:   * 【19†1 開寶五年】\nL57:   * 【20†2 開寶六年】\nL58:   * 【21†3 開寶七年】\nL59:   * 【22†4 開寶八年】\nL60:   * 【23†5 開寶九年】\nL61:   * 【24†6 紀讚】\nL62: \nL63: [Input] 开关目录\nL64: # 宋史/卷003\nL65: \nL66: [Input] 添加语言\nL67: \nL68: 【25†添加链接†www.wikidata.org】\nL69: \nL70:   * 【26†作品】\nL71:   * 【27†讨论】\nL72: \nL73: [Input] 不转换\nL74: \nL75:   * 【28†不转换】\nL76:   * 【29†简体】\nL77:   * 【30†繁體】\nL78: \nL79:   * 【26†阅读】\nL80:   * 【31†编辑】\nL81:   * 【32†查看历史】\nL82: \nL83: [Input] 工具\nL84: \nL85: 工具\nL86: \nL87: [Button: 移至侧栏] [Button: 隐藏]\nL88: \nL89: 操作\nL90: \nL91:   * 【26†阅读】\nL92:   * 【31†编辑】\nL93:   * 【32†查看历史】\nL94: \nL95: 常规\nL96: \nL97:   * 【33†链入页面】\nL98:   * 【34†相关更改】\nL99:   * 【35†上传文件†commons.wikimedia.org】\nL100:   * 【36†固定链接】\nL101:   * 【37†页面信息】\nL102:   * 【38†引用此页】\nL103:   * 【39†获取短链接】\nL104: \nL105: 打印/导出\n\n--------------------------------------------------------------------------------\n宋史/卷041 - 维基文库，自由的图书馆 (https://zh.wikisource.org/wiki/%E5%AE%8B%E5%8F%B2/%E5%8D%B7041)\n【turn366617view2】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://zh.wikisource.org/wiki/宋史/卷041\",\"lineno\":null}); Total lines: 421\nL0: 【0†跳转到内容】\nL1: \nL2: [Input] 主菜单\nL3: \nL4: 主菜单\nL5: \nL6: [Button: 移至侧栏] [Button: 隐藏]\nL7: \nL8: 导航\nL9: \nL10:   * 【1†首页】\nL11:   * 【2†随机作品】\nL12:   * 【3†随机作者】\nL13:   * 【4†随机原本】\nL14:   * 【5†所有页面】\nL15: \nL16: 编者\nL17: \nL18:   * 【6†社群首页】\nL19:   * 【7†写字间】\nL20:   * 【8†最近更改】\nL21:   * 【9†特殊页面】\nL22: \nL23: 帮助\nL24: \nL25:   * 【10†帮助】\nL26:   * 【11†关于维基文库】\nL27:   * 【12†联系我们】\nL28:   * 【13†方针与指引】\nL29: \nL30: 显示选项\nL31: \nL32: 【14†搜索】\nL33: \nL34: [Input: 搜索Wikisource内容]\nL35: \nL36: [Input]\nL37: \nL38: [Button: 搜索]\nL39: \nL40: [Input] 外观\nL41: \nL42:   * 【15†资助†donate.wikimedia.org】\nL43:   * 【16†创建账号】\nL44:   * 【17†登录】\nL45: \nL46: [Input] 个人工具\nL47: \nL48:   * 【15†资助†donate.wikimedia.org】\nL49:   * 【16†创建账号】\nL50:   * 【17†登录】\nL51: ## 目录\nL52: \nL53: [Button: 移至侧栏] [Button: 隐藏]\nL54: \nL55:   * 【18†（首段）】\nL56:   * 【19†1 嘉定十七年】\nL57:   * 【20†2 寶慶元年】\nL58:   * 【21†3 寶慶二年】\nL59:   * 【22†4 寶慶三年】\nL60:   * 【23†5 紹定元年】\nL61:   * 【24†6 紹定二年】\nL62:   * 【25†7 紹定三年】\nL63:   * 【26†8 紹定四年】\nL64:   * 【27†9 紹定五年】\nL65:   * 【28†10 紹定六年】\nL66:   * 【29†11 端平元年】\nL67: \nL68: [Input] 开关目录\n\n--------------------------------------------------------------------------------\n明史/卷304 - 维基文库，自由的图书馆 (https://zh.wikisource.org/wiki/%E6%98%8E%E5%8F%B2/%E5%8D%B7304)\n【turn366617view3】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://zh.wikisource.org/wiki/明史/卷304\",\"lineno\":null}); Total lines: 361\nL0: 【0†跳转到内容】\nL1: \nL2: [Input] 主菜单\nL3: \nL4: 主菜单\nL5: \nL6: [Button: 移至侧栏] [Button: 隐藏]\nL7: \nL8: 导航\nL9: \nL10:   * 【1†首页】\nL11:   * 【2†随机作品】\nL12:   * 【3†随机作者】\nL13:   * 【4†随机原本】\nL14:   * 【5†所有页面】\nL15: \nL16: 编者\nL17: \nL18:   * 【6†社群首页】\nL19:   * 【7†写字间】\nL20:   * 【8†最近更改】\nL21:   * 【9†特殊页面】\nL22: \nL23: 帮助\nL24: \nL25:   * 【10†帮助】\nL26:   * 【11†关于维基文库】\nL27:   * 【12†联系我们】\nL28:   * 【13†方针与指引】\nL29: \nL30: 显示选项\nL31: \nL32: 【14†搜索】\nL33: \nL34: [Input: 搜索Wikisource内容]\nL35: \nL36: [Input]\nL37: \nL38: [Button: 搜索]\nL39: \nL40: [Input] 外观\nL41: \nL42:   * 【15†资助†donate.wikimedia.org】\nL43:   * 【16†创建账号】\nL44:   * 【17†登录】\nL45: \nL46: [Input] 个人工具\nL47: \nL48:   * 【15†资助†donate.wikimedia.org】\nL49:   * 【16†创建账号】\nL50:   * 【17†登录】\nL51: ## 目录\nL52: \nL53: [Button: 移至侧栏] [Button: 隐藏]\nL54: \nL55:   * 【18†（首段）】\nL56:   * 【19†1 宦官】 开关宦官子章节\nL57:     * 【20†1.1 鄭和】\nL58:       * 【21†1.1.1 侯顯】\nL59:     * 【22†1.2 金英〈(興安)〉】\nL60:       * 【23†1.2.1 范弘】\nL61:     * 【24†1.3 王振】\nL62:     * 【25†1.4 曹吉祥】\nL63:       * 【26†1.4.1 劉永誠】\nL64:     * 【27†1.5 懷恩】\nL65:       * 【28†1.5.1 覃吉】\nL66:     * 【29†1.6 汪直】\nL67:     * 【30†1.7 梁芳】\nL68:       * 【31†1.7.1 錢能】\nL69:     * 【32†1.8 何鼎〈（鄧原）〉】\nL70:     * 【33†1.9 李廣】\nL71:     * 【34†1.10 蔣琮】\nL72:     * 【35†1.11 劉瑾】\nL73:     * 【36†1.12 張永】\nL74:     * 【37†1.13 谷大用】\nL75:       * 【38†1.13.1 魏彬】\nL76:       * 【39†1.13.2 張忠】\nL77: \nL78: [Input] 开关目录\n\n--------------------------------------------------------------------------------\n史記/卷073 - 维基文库，自由的图书馆 (https://zh.wikisource.org/wiki/%E5%8F%B2%E8%A8%98/%E5%8D%B7073)\n【turn366617view4】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://zh.wikisource.org/wiki/史記/卷073\",\"lineno\":null}); Total lines: 221\nL0: 【0†跳转到内容】\nL1: \nL2: [Input] 主菜单\nL3: \nL4: 主菜单\nL5: \nL6: [Button: 移至侧栏] [Button: 隐藏]\nL7: \nL8: 导航\nL9: \nL10:   * 【1†首页】\nL11:   * 【2†随机作品】\nL12:   * 【3†随机作者】\nL13:   * 【4†随机原本】\nL14:   * 【5†所有页面】\nL15: \nL16: 编者\nL17: \nL18:   * 【6†社群首页】\nL19:   * 【7†写字间】\nL20:   * 【8†最近更改】\nL21:   * 【9†特殊页面】\nL22: \nL23: 帮助\nL24: \nL25:   * 【10†帮助】\nL26:   * 【11†关于维基文库】\nL27:   * 【12†联系我们】\nL28:   * 【13†方针与指引】\nL29: \nL30: 显示选项\nL31: \nL32: 【14†搜索】\nL33: \nL34: [Input: 搜索Wikisource内容]\nL35: \nL36: [Input]\nL37: \nL38: [Button: 搜索]\nL39: \nL40: [Input] 外观\nL41: \nL42:   * 【15†资助†donate.wikimedia.org】\nL43:   * 【16†创建账号】\nL44:   * 【17†登录】\nL45: \nL46: [Input] 个人工具\nL47: \nL48:   * 【15†资助†donate.wikimedia.org】\nL49:   * 【16†创建账号】\nL50:   * 【17†登录】\nL51: ## 目录\nL52: \nL53: [Button: 移至侧栏] [Button: 隐藏]\nL54: \nL55:   * 【18†（首段）】\nL56:   * 【19†1 白起】\nL57:   * 【20†2 王翦】 开关王翦子章节\nL58:     * 【21†2.1 孫 王離】\nL59:   * 【22†3 贊】\nL60:   * 【23†4 索隱述贊】\nL61: \nL62: [Input] 开关目录\nL63: # 史記/卷073\nL64: \nL65: [Input] 1种语言\nL66: \nL67:   * 【24†日本語†ja.wikisource.org】\nL68: \nL69: 【25†编辑链接†www.wikidata.org】\nL70: \nL71:   * 【26†作品】\nL72:   * 【27†讨论】\nL73: \nL74: [Input] 不转换\nL75: \nL76:   * 【28†不转换】\nL77:   * 【29†简体】\nL78:   * 【30†繁體】\nL79: \nL80:   * 【26†阅读】\nL81:   * 【31†编辑】\nL82:   * 【32†查看历史】\nL83: \nL84: [Input] 工具\nL85: \nL86: 工具\nL87: \nL88: [Button: 移至侧栏] [Button: 隐藏]\nL89: \nL90: 操作\nL91: \nL92:   * 【26†阅读】\nL93:   * 【31†编辑】\nL94:   * 【32†查看历史】\nL95: \nL96: 常规\nL97: \nL98:   * 【33†链入页面】\nL99:   * 【34†相关更改】\nL100:   * 【35†上传文件†commons.wikimedia.org】\nL101:   * 【36†固定链接】\nL102:   * 【37†页面信息】\nL103:   * 【38†引用此页】\nL104:   * 【39†获取短链接】\nL105: \nL106: 打印/导出\n\n--------------------------------------------------------------------------------\n漢書/卷056 - 维基文库，自由的图书馆 (https://zh.wikisource.org/wiki/%E6%BC%A2%E6%9B%B8/%E5%8D%B7056)\n【turn366617view5】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://zh.wikisource.org/wiki/漢書/卷056\",\"lineno\":null}); Total lines: 217\nL0: 【0†跳转到内容】\nL1: \nL2: [Input] 主菜单\nL3: \nL4: 主菜单\nL5: \nL6: [Button: 移至侧栏] [Button: 隐藏]\nL7: \nL8: 导航\nL9: \nL10:   * 【1†首页】\nL11:   * 【2†随机作品】\nL12:   * 【3†随机作者】\nL13:   * 【4†随机原本】\nL14:   * 【5†所有页面】\nL15: \nL16: 编者\nL17: \nL18:   * 【6†社群首页】\nL19:   * 【7†写字间】\nL20:   * 【8†最近更改】\nL21:   * 【9†特殊页面】\nL22: \nL23: 帮助\nL24: \nL25:   * 【10†帮助】\nL26:   * 【11†关于维基文库】\nL27:   * 【12†联系我们】\nL28:   * 【13†方针与指引】\nL29: \nL30: 显示选项\nL31: \nL32: 【14†搜索】\nL33: \nL34: [Input: 搜索Wikisource内容]\nL35: \nL36: [Input]\nL37: \nL38: [Button: 搜索]\nL39: \nL40: [Input] 外观\nL41: \nL42:   * 【15†资助†donate.wikimedia.org】\nL43:   * 【16†创建账号】\nL44:   * 【17†登录】\nL45: \nL46: [Input] 个人工具\nL47: \nL48:   * 【15†资助†donate.wikimedia.org】\nL49:   * 【16†创建账号】\nL50:   * 【17†登录】\nL51: ## 目录\nL52: \nL53: [Button: 移至侧栏] [Button: 隐藏]\nL54: \nL55:   * 【18†（首段）】\nL56:   * 【19†1 董仲舒】\nL57:   * 【20†2 贊】\nL58: \nL59: [Input] 开关目录\nL60: # 漢書/卷056\nL61: \nL62: [Input] 添加语言\nL63: \nL64: 【21†添加链接†www.wikidata.org】\nL65: \nL66:   * 【22†作品】\nL67:   * 【23†讨论】\nL68: \nL69: [Input] 不转换\nL70: \nL71:   * 【24†不转换】\nL72:   * 【25†简体】\nL73:   * 【26†繁體】\nL74: \nL75:   * 【22†阅读】\nL76:   * 【27†编辑】\nL77:   * 【28†查看历史】\nL78: \nL79: [Input] 工具\nL80: \nL81: 工具\nL82: \nL83: [Button: 移至侧栏] [Button: 隐藏]\nL84: \nL85: 操作\nL86: \nL87:   * 【22†阅读】\nL88:   * 【27†编辑】\nL89:   * 【28†查看历史】\nL90: \nL91: 常规\nL92: \nL93:   * 【29†链入页面】\nL94:   * 【30†相关更改】\nL95:   * 【31†上传文件†commons.wikimedia.org】\nL96:   * 【32†固定链接】\nL97:   * 【33†页面信息】\nL98:   * 【34†引用此页】\nL99:   * 【35†获取短链接】\nL100: \nL101: 打印/导出\n\n--------------------------------------------------------------------------------\n历史沿革 (https://www.ezhou.gov.cn/zjez/ezgk/lsyg/201902/t20190222_176954.html)\n【turn366617view6】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://www.ezhou.gov.cn/zjez/ezgk/lsyg/201902/t20190222_176954.html\",\"lineno\":null}); Total lines: 285\nL0: 繁体 简体 【0†English】 【1†市民频道 |】 【2†企业频道 |】\nL1: \nL2: 【3†智能问答】 【4†无障碍浏览】 【5†长者模式】 [Input: 我要查...]\nL3: \nL4:   * 【6†首页】\nL5:   * 【7†政府信息公开】\nL6:   * 【8†网上办事】\nL7:   * 【9†互动交流】\nL8:   * 【10†走进鄂州】\nL9:   * 【11†数据】\nL10:   * 【12†专题聚焦】\nL11:   * 【13†站群导航】\nL12: \nL13: 【14†Image】 当前位置 :【15†首页】 > 【10†走进鄂州】 > 【16†鄂州概况】 > 【17†历史沿革】\nL14: ## 历史沿革\nL15: \nL16: 信息来源：鄂州政府网 日期：2026-03-02 语音：【18†Image: 播放】\nL17: \nL18: 　　公元前3000年前后，鄂州境内已有人类繁衍生息。\nL19: \nL20: 　　帝尧时（约公元前2550—公元前2070年），为樊国。\nL21: \nL22: 　　夏时（前公元2070—公元前1600年），为古三苗之地。\nL23: \nL24: 　　殷商时（公元前1600—公元前1046年），为鄂国。\nL25: \nL26: 　　西周夷王七年（公元前879年），楚君熊渠伐扬越，至鄂。封中子红为鄂王，筑鄂王城。传六王至熊咢犹居于此，为楚之国都。熊咢铸“夜雨楚公钟”（宋政和三年出土）。有汀祖官山、新庙楼塘、华容码头、沼山金老坟、葛店平顶山、段店城子山、涂镇金盆地、公友龟山等西周至东周遗址。\nL27: \nL28: 　　春秋时（公元前770—公元前476年），为楚之别都。楚共王熊审封其三子子皙为鄂君。始铸铜镜。子皙与鄂地越人泛舟于鄂渚，有越人歌谣流传。\nL29: \nL30: 　　楚平王六年（公元前522年），伍子胥奔吴，旧传县东三里有接渡石。泽林申映湾传为申包胥故里。\nL31: \nL32: 　　战国时（公元前475—公元前221年），为鄂邑。\n\n--------------------------------------------------------------------------------\n宝庆古城话春秋-湖南省文物局 (https://wwj.hunan.gov.cn/wwj/c100310/c100314/201411/t20141119_10483043.html)\n【turn366617view7】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://wwj.hunan.gov.cn/wwj/c100310/c100314/201411/t20141119_10483043.html\",\"lineno\":null}); Total lines: 92\nL0: 无障碍浏览\nL1: \nL2: 【0†Image】\nL3: \nL4: 【1†Image】\nL5: \nL6: [Input: 请输入关键词进行搜索...] [Input]\nL7: \nL8:   * 【2†网站首页】\nL9:   * 【3†机构概况】\nL10:   * 【4†新闻资讯】\nL11:   * 【5†政府信息公开】\nL12:   * 【6†办事服务†zwfw-new.hunan.gov.cn】\nL13:   * 【7†互动交流】\nL14: \nL15: 【8†Image】 【2†首页】>【4†新闻资讯】>【9†文物资源】\nL16: ### 宝庆古城话春秋\nL17: \nL18: 来源：邵阳市文物局      作者：申小娟      发布时间：2014-11-19 16:30\nL19: \nL20: 宝庆府古城墙，位于湖南省邵阳市大祥区资江南岸，2002年被公布为湖南省级文物保护单位，2013年3月又被国务院公布为全国重点文物保护单位，是宝庆古城现存最大的建筑物，它集中体现了邵阳地区文明发展的进程，见证了邵阳城市建设的悠久历史。\nL21: \nL22: 一、宝庆府古城墙传承了邵阳地区2000多年的历史文化\nL23: \nL24: （一）湘西南的政治经济文化的中心\nL25: \nL26: 宝庆府古城，即汉初（公元前206年起）昭陵县古城，三国吴宝鼎元年（266年）所置昭陵郡亦治此。晋邵陵县、邵陵郡治，隋末到唐初的建州、南梁州，唐至北宋时期邵州皆治此，南宋至清朝末年的宝庆府（其中元代称为宝庆路总管府）均治此。民国时期的湖南省第六行政督察公署（又称邵阳专员公署）、中华人民共和国成立之后的邵阳地区专员公署、邵阳市亦治此。因此，自建城以来，这里一直是湘西南地区政治、经济、文化、教育、军事的中心。\nL27: \nL28: （二）宝庆府古城的历史变迁\nL29: \nL30: 宝庆府古城经历了一个由县城而郡城、州城，由州城而府城的逐步升级、拓展的历史变迁过程。\n\n--------------------------------------------------------------------------------\n도연명陶淵明의 팽택령彭澤令 사직辭職에 대한 소고小考 (https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002851551)\n【turn366617view8】 [wordlim: 200] Crawled: last week; Content type: text/html; Source: open({\"ref_id\":\"https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002851551\",\"lineno\":null}); Total lines: 139\nL0: 【0†본문 바로가기】\nL1: \nL2: #\nL3: 【1†KOAJ KoreaOpen Access Journals】\nL4: \nL5:   * 【2†KOAJ 소개】\nL6:   * 【3†학술지】\nL7:   * 【4†논문】\nL8:   * 【5†통계】\nL9: \nL10: \nL11: \nL12:   * 한국어\nL13:   * English\nL14: \nL15: toggle menu\nL16: \nL17: [Input] [Input] [Input]\nL18: \nL19: [Input] [Input] [Input]\nL20: \nL21: [Input]\nL22: \nL23: KCI 등재\nL24: ## 도연명陶淵明의 팽택령彭澤令 사직辭職에 대한 소고小考\nL25: \nL26: An investigation paper into the reasons for Tao Ximing's resignation from official Peng Zhan-ling\nL27: \nL28: 중국학논총\nL29: 약어 : -\nL30: 2022 no.74, pp.99 - 118\nL31: DOI : 10.23004/kchcu.2022..74.005\nL32: 발행기관 : 한국중국문화학회\nL33: 연구분야 : 중국어와문학\nL34: Copyright © 한국중국문화학회\nL35: \nL36: 김영 ^{1}\nL37: \nL38: ^{1}전북대학교\nL39: \nL40: 인용한 논문 수 :   -\nL41: \nL42: 75 회 열람\nL43: \nL44: 현재 페이지 인쇄 PDF 다운로드 인용보기\nL45: \nL46: 공유\nL47: ### 초록\nL48: 어느 시대를 막론하고 지식인의 처세에서 출사出仕와 사직辭職은 그 사람을 평가하는 하나의 척도였다. 유구한 중국 역사에서 이러한 단면을 엿볼 수 있는 전형적인 사례로는 도연명을 들 수 있다. 도연명은 41세에 1년을 기약하고 팽택령에 부임하였으나 겨우 80일을 재직하고 갑자기 사직하고 귀향하였다. 이러한 사실 때문에 도연명의 사직의 변이 있었음에도 불구하고 후인들이 그의 사직의 변을 그대로 수용하지 않고 다른 설명을 시도하였는데, 그 이유는 그의 갑작스러운 사직이 유자儒者로서 신중하지 못한 처사가 아닌가 하는 의문 때문이었다. 이로 인하여 소통蕭統의 기개설氣槪說, 주희朱熹와 김창협金昌協의 기미설幾微說 등이 있게 되었다. 본 논문에서는 두 가지 설이 도연명의 평택령 사직을 유가적 관점에서 보충하고 41세 이후의 행적을 반영하여 긍정적으로 설명하고 있다는 인식 아래 그 한계와 문제점을 지적하면서 새로운 설명을 시도하였다.\n"
+        }
+      ],
+      "isError": false
+    },
+    "web-r3.json": {
+      "content": [
+        {
+          "type": "text",
+          "text": "宋史/卷041 - 维基文库，自由的图书馆 (https://zh.wikisource.org/zh-hans/%E5%AE%8B%E5%8F%B2/%E5%8D%B7041)\n【turn739932search0】 [wordlim: 200] Crawled: 2 weeks ago; # 宋史/卷041 ... 　　嘉定十三年八月，景献太子薨，宁宗以国本未立，选太祖十世孙年十五以上者教育，如高宗择普安、恩平故事，遂以十四年六月丙寅立贵和为皇子，改赐名竑，而以帝嗣沂王。\n\n--------------------------------------------------------------------------------\n宋史/卷003 - 维基文库，自由的图书馆 (https://zh.wikisource.org/zh-hans/%E5%AE%8B%E5%8F%B2/%E5%8D%B7003)\n【turn739932search1】 [wordlim: 200] Crawled: 2 weeks ago; ## 开宝九年 ... 辛亥，命德昭迎劳吴越国王钱俶于宋州。 ... 乙卯，吴越王奏内客省使丁德裕贪很，贬房州刺史。 ... 己未，吴越国王钱俶偕子惟濬等朝于崇德殿，进银绢以万计。 ... 癸酉，以皇子德芳为检校太保、贵州防御使，中书侍郎、同平章事沈义伦为大内都部署，右卫大将军王仁赡权判留司、三司兼知开封府事。\n\n--------------------------------------------------------------------------------\n文 史 哲\nLITERATURE,\nHISTORY,\nAND\nPHILOSOPHY\n2023年第2期 (https://library.ttcdw.com/dev/upload/webUploader/202401/17066043970268d93ebb157d2b.pdf)\n【turn739932search48】 [wordlim: 200] Published: 7 months ago; 编号 1 | 皇帝庙号 太祖 | 去世时间 开宝九年十月二十日 | 去世地点 万岁殿① | 出处 《宋大诏令集》卷七《开宝遗制》②;《宋会要辑稿· 礼》二九之一(遗制) --- | --- | --- | --- | --- 编号 2 | 皇帝庙号 太宗 | 去世时间 至道三年三月二十九日 | 去世地点 万岁殿 | 出处 《宋大诏令集》卷七《至道遗制》;《宋会要辑稿·礼》 二九之六(遗制) 编号 3 | 皇帝庙号 真宗 | 去世时间 乾兴元年二月十九日 | 去世地点 延庆殿 | 出处 《宋大诏令集》卷七《乾兴遗诏》;《宋会要辑稿·礼》 二九之一七(遗制) 编号 4 | 皇帝庙号 仁宗 | 去世时间 嘉祐八年三月二十九日 | 去世地点 福宁殿 | 出处 《宋大诏令集》卷七《嘉祐遗制》;《宋会要辑稿·礼》二 九之三六(遗制);王珪《华阳集》卷二○《仁宗遗诏》 编号 5 | 皇帝庙号 英宗 | 去世时间 治平四年正月八日 | 去世地点 福宁殿 | 出处 《宋大诏令集》卷七《治平遗制》;《宋会要辑稿·礼》 二九之四七(遗制);欧阳修《居士集》卷一九《英宗 遗制》 编号 6 | 皇帝庙号 神宗 | 去世时间 元丰八年三月五日 | 去世地点 福宁殿 | 出处 《宋大诏令集》卷七《元丰遗诏》;《宋会要辑稿·礼》 二九之五七(遗制) 编号 7 | 皇帝庙号 哲宗 | 去世时间 元符三年正月十二日 | 去世地点 福宁殿 | 出处 《宋大诏令集》卷七《元符遗制》;《宋会要辑稿·礼》 二九之六七(遗制) 编号 | 皇帝庙号 徽宗 | 去世时间 绍兴五年四月二十一日 | 去世地点 五国城 | 出处 无遗诏(《中兴礼书》卷二三六《永祐陵》;《宋史》卷 一二二《礼志》) 编号 | 皇帝庙号 钦宗 | 去世时间 绍兴三十一年五月十九日 | 去世地点 | 出处 无遗诏(《中兴礼书》卷二四八《钦宗恭文顺德仁孝 皇帝》;《宋史》卷一二二《礼志》) 编号 8 | 皇帝庙号 高宗 | 去世时间 淳熙十四年十月八日 | 去世地点 德寿宫 | 出处 《中兴礼书续编》卷三五《永思陵·遗诰》 编号 9 | 皇帝庙号 孝宗 | 去世时间 绍熙五年六月九日 | 去世地点 重华宫重华殿 | 出处 《宋会要辑稿·礼》三○之一(遗诰) 编号 10 | 皇帝庙号 光宗 | 去世时间 庆元六年八月八日 | 去世地点 寿康宫寿康殿 | 出处 《宋会要辑稿·礼》三○之五四(遗诰) 编号 11 | 皇帝庙号 宁宗 | 去世时间 嘉定十七年闰八月三日 | 去世地点 福宁殿 | 出处 《宋会要辑稿·礼》三○之七九、四九之九六(遗制/ 遗诏)③ 编号 12 | 皇帝庙号 理宗 | 去世时间 景定五年十月二十五日 | 去世地点 | 出处 《碧梧玩芳集》卷二《景定五年十月丁卯诏》④ 编号 | 皇帝庙号 度宗 | 去世时间 咸淳十年七月九日 | 去世地点 福宁殿 | 出处 《宋史》卷四六《度宗纪》:“遗诏太子 即皇帝位” 编号 13 | 皇帝庙号 端宗 | 去世时间 景炎三年四月十六日 | 去世地点 | 出处 《文山先生全集》卷一七《宋少保右丞相兼枢密使信 国公文山先生纪年录》引;《续宰辅编年录》卷二五 (遗诏)。\n\n--------------------------------------------------------------------------------\n宋史/卷004 - 维基文库，自由的图书馆 (https://zh.wikisource.org/zh-hans/%E5%AE%8B%E5%8F%B2/%E5%8D%B7004)\n【turn739932search2】 [wordlim: 200] Crawled: 2 weeks ago; < 宋史 ... 　　太宗神功圣德文武皇帝讳炅，初名匡乂，改赐光义，即位之二年改今讳，宣祖第三子也，母曰昭宪皇后杜氏。 ... 　　开宝九年冬十月癸丑，太祖崩，帝遂即皇帝位。 ... 甲寅，御乾元殿受朝，乐县而不作。\n\n--------------------------------------------------------------------------------\n宋史/卷041 - 维基文库，自由的图书馆 (https://zh.wikisource.org/wiki/%E5%AE%8B%E5%8F%B2/%E5%8D%B7041)\n【turn739932search3】 [wordlim: 200] Crawled: 2 months ago; 卷四十 ◄  | 宋史 ... 　　嘉定十三年八月，景獻太子薨，寧宗以國本未立，選太祖十世孫年十五以上者教育，如高宗擇普安、恩平故事，遂以十四年六月丙寅立貴和爲皇子，改賜名竑，而以帝嗣沂王。\n\n--------------------------------------------------------------------------------\n全屏显示 专题 章节 (https://mooc1.chaoxing.com/mooc-ans/ztnodedetailcontroller/visitnodedetail?_fromV2_=&_from_=&courseId=91936664&knowledgeId=91936733&rtag=)\n【turn739932search4】 [wordlim: 200] Crawled: last month; 开宝九年十月二十日（976年11月14日）晚上，宋朝的开国皇帝宋太祖赵匡胤突然去世。 ... 对于宋太祖的死，《宋史·太祖纪》上只有一段简略的记载：“癸丑夕，帝崩于万岁殿，年五十，殡于殿西阶。” ... 由于《续湘山野录》中的这段记载，语气隐隐约约，文辞闪闪烁烁，于是便给后人留下了“烛影斧声”的千古之谜，自宋代以来，不知有多少文人学者探究过这个问题，即宋太祖究竟是怎么死的。\n\n--------------------------------------------------------------------------------\n燭影斧聲 (https://zh.wikipedia.org/wiki/%E7%87%AD%E5%BD%B1%E6%96%A7%E8%81%B2)\n【turn739932search49】 [wordlim: 200] Crawled: 8 months ago; 斧聲燭影之事宋史无载，《宋史·太祖本纪》记载：“帝崩于万岁殿，年五十。”開寶九年冬十月癸丑深夜（976年11月14日），赵光义就在灵柩前即位，且一反逾年改元的慣例，於開寶九年十二月甲寅（977年1月15日）改元太平興國。 ... 后十六载，乃开宝乙亥岁（976年）也，上已祓禊，驾幸西沼，生醉坐于岸木阴下，笑揖太祖曰：“别来喜安。” ... 逮晓登明堂，宣遗诏罢，声恸，引近臣环玉衣以瞻圣体，玉色温莹如出汤沐。 ... 故事中的「燭影」是宋太祖兄弟兩人飲酒的身影，「斧聲」是宋太祖持斧剷除殿上積雪的聲音。\n\n--------------------------------------------------------------------------------\n全屏显示 专题 章节 (https://mooc1.chaoxing.com/mooc-ans/ztnodedetailcontroller/visitnodedetail?_from_=&courseId=91936664&knowledgeId=91936733&rtag=)\n【turn739932search5】 [wordlim: 200] Crawled: last month; 第二天，他的弟弟赵光义继承了皇位，即历史上的宋太宗。对于宋太祖的死，《宋史·太祖纪》上只有一段简略的记载：“癸丑夕，帝崩于万岁殿，年五十，殡于殿西阶。” ... 由于《续湘山野录》中的这段记载，语气隐隐约约，文辞闪闪烁烁，于是便给后人留下了“烛影斧声”的千古之谜，自宋代以来，不知有多少文人学者探究过这个问题，即宋太祖究竟是怎么死的。 ... 宋史·太宗纪》也曾提出一串疑问：太宗即位后，为什么不照嗣统继位次年改元的惯例，急急忙忙将只剩两个月的开宝九年改为太平兴国元年？\n\n--------------------------------------------------------------------------------\n“烛影斧声”之谜 (https://www.lsqn.cn/ChinaHistory/other/200703/69263.html)\n【turn739932search6】 [wordlim: 200] Crawled: 2.7 years ago;     开宝九年十月十日（1976年11 月14日）晚上，宋朝的开国皇帝宋太祖赵匡胤突然去世。 ... 对于宋太祖的死，《宋史·太祖本纪》上只有一段简略的记载：“癸丑夕，帝崩于万岁殿，年五十，殡于殿西阶。” ... 由于《续湘山野录》中的这段记载，语气隐隐约约，文辞闪闪烁烁，于是便给后人留下了“烛影斧声”的千古之谜，自宋代以来，不知有多少文人学者探究过这个问题，即宋太祖究竟是怎么死的。\n\n--------------------------------------------------------------------------------\n宋史全文·开宝九年_虚阁网 (https://www.xuges.com/ls/ssqw/017.htm)\n【turn739932search7】 [wordlim: 200] Crawled: 3.5 years ago; 太祖以诸国未平，恐将帅恃功为过，故抑全斌等以立国法。 ... 　　冬十月癸丑，上崩于万岁殿。 ... 　　壬子夜，大雪，上召晋王光义延入大寝，属以后事，宦官、宫妾悉屏之，左右皆不得闻，但遥见烛影下晋王时或离席，若有所逊避之状。既而上引柱斧戳地，大声谓晋王曰：“好为之！” ... 宋后见晋王愕然，遽呼曰：“吾子母之命皆托于官家！” ... 风化之本，孝弟为先，或不顺父兄异居别籍者，御史台及所在纠察之。\n\n--------------------------------------------------------------------------------\n宋史/卷004 - 維基文庫，自由的圖書館 (https://zh.wikisource.org/zh-hant/%E5%AE%8B%E5%8F%B2/%E5%8D%B7004)\n【turn739932search8】 [wordlim: 200] Crawled: 3 weeks ago; # 宋史/卷004 ... 　　太宗神功聖德文武皇帝諱炅，初名匡乂，改賜光義，即位之二年改今諱，宣祖第三子也，母曰昭憲皇后杜氏。 ... 　　開寶九年冬十月癸丑，太祖崩，帝遂即皇帝位。 ... 甲寅，御乾元殿受朝，樂縣而不作。\n\n--------------------------------------------------------------------------------\n宋史 (四庫全書本)/卷041 - 维基文库，自由的图书馆 (https://zh.wikisource.org/zh/%E5%AE%8B%E5%8F%B2_%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29/%E5%8D%B7041)\n【turn739932search9】 [wordlim: 200] Crawled: last month; 　　端平元年春正月庚子朔詔求直言侍從卿監郎官在外執政從官舉堪為監司守令者各二人三衙統帥知閤御帶環衞官在外總管軍帥舉堪為将帥者各二人鍾震陳公益李性傳張虙並兼侍讀徐清叟黄朴李大同葉味道並兼崇政殿説書辛丑趙范依前㳂江制置副使權移司知黄州史嵩之權京湖安撫制置使兼知襄陽府陳韡華文閣待制仍知隆興府江西安撫使詔徳安三關使彭哲去年十月北兵至棄闗遁削二秩勒停乙巳賜故少傅權參知政事任希夷諡宣憲丙午詔趙范兼淮西制置副使任責防禦太白熒惑合在斗戊申金主完顔守緖傳位于宗室承麟已酉城破守緒自經死承麟為亂兵所殺執其參知政事張天綱丙寅詔太師中書令榮王已進王爵宜封三代曽祖子奭贈太師吳國公祖伯旴贈太師益國公父師意贈太師越國公戊辰以樞密院言詔京西忠順統制江海棗陽同統制郭勝向因所部兵行劫坐不發覺除名廣州拘管遇赦還軍前自効有功並叙復元受軍職史嵩之露布告金亡謹遣郭春按循故壤詣奉先縣汛掃祖宗諸陵還師屯信陽命王旻守隨州王安國守棗陽蒋成守光化楊恢守均並益兵飭備經理唐鄧屯田二月辛未監察御史洪咨夔言上親政之始斥逐李知孝梁成大其謟事權姦黨私罔上倡淫黷貨罪大罰輕詔李知孝削一秩罷祠梁成大削兩秩壬申以趙彦呐為四川安撫制置使兼知興元府丁亥詔端平元年正月以前諸命官貶竄物故者許令歸葬三月己酉以賈渉子似道為籍田令辛酉詔遣太常寺主簿朱楊祖閣門祗𠉀林拓詣洛陽省謁八陵四月辛未詔遣朱復之詣八陵相度脩奉丁丑詔比年宗親貧窶或致失所甚非國家睦族之意大宗正司南外西外宗正司其申嚴州郡以時贍給違者有刑監察御史王遂言史嵩之本不知兵矜功自侈謀身詭秘欺君誤國留之襄陽一日則有一日之憂不報戊寅嵗星守太微垣上相星壬午監察御史洪咨夔言今殘金雖滅隣國方彊益嚴守備尤恐不逮豈可動色相賀渙然觧體以重方来之憂上嘉納甲申日生赤暈丙戌以滅金獲其主完顔守緒遺骨告太廟其玉寳法物并俘囚張天綱完顔好海等命有司審實以聞庚寅詔授孟珙帶御器械京襄部押官屬陳一薦江海官兩轉餘論功行賞金降人夹谷奴婢改姓同名鼎王聞顯呼延寔来伯友石大瑞白華各授官有差丁酉臣僚言江淮荆襄諸路都大提點坑冶吳淵恃才貪虐籍人家貲以數百萬計掩為己有其弟潛違道干譽任用非類詔吳淵落右文殿脩撰吳潛落袐閣脩撰並放罷五月庚子極卒贈少師戊申太平州螟已酉太隂入氐乙夘詔李知孝瑞州居住梁成大潮州居住吳澤南康軍居住並再降授官尋盡追爵秩詔魏了翁赴闕丙辰以趙范為兩淮制置使節州軍馬兼㳂江制置副使壬戌以崔與之為端明殿學士提舉西京嵩山崇福宫陳韡權工部尚書知隆興府江西安撫使丙寅詔黄幹李燔李道𫝊陳宓樓昉徐宣胡夢昱皆阨於權姦而各行其志沒齒無怨其賜諡復官優贈存恤仍各録用其子以旌忠義戴埜其復元資以勵士風建陽縣盜發衆數千人焚劫邵武麻沙長平六月戊辰朔鄭清之等進奏選徳殿柱有金書六字曰毋不敬思無邪上曰此坐右銘也庚午熒惑填星合于胃壬申詔蠲漳泉興化三州丁米錢丙子以李鳴復為侍御史兼侍講戊寅以喬行簡知樞密院事曽從龍參知政事鄭性之簽書樞密院事陳貴誼兼同知樞密院事已夘詔故巴陵縣公竑可盡復本身官爵有司其檢視墓域以時致祭妻吳昨自請為尼特賜慧淨法空大師紹興府月給衣資緡錢詔殿司選精鋭千人命統制婁拱統領楊辛討捕建陽縣盜辛巳詔故端明殿學士開府儀同三司史彌逺贈資政殿大學士諡忠宣熒惑犯塡星丙戌有流星大如太白戊子日暈不匝生格氣癸巳史嵩之進兵部尚書禁毁銅錢作器用并貿易下海秋七月乙巳詔嘉興縣王臨年百二嵗補廸功郎致仕八月癸酉詔河南新復郡縣乆廢播種民甚艱食江淮制司其發米麥百萬石徃濟歸附軍民仍牓諭開封應天河南三京甲戌朱楊祖林拓朝謁八陵回以圖進上問諸陵相去幾何及陵前澗水新復楊祖悉以對上忍涕太息乙亥以趙范為京河闗陕宣撫使知開封府東京留守趙葵京河制置使知應天府南京留守全子才關陕制置使知河南府西京留守甲午權邵武軍王埜以平建陽宼有功官兩轉餘推賞有差九月庚子趙范依舊京西湖北安撫制置大使知襄陽府辛丑熒惑入井壬寅趙范言趙葵全子才輕遣偏師復西京趙楷劉子澄參贊失計師退無律致後陣敗覆詔趙葵削一秩措置河南京東營田邉備全子才削一秩措置唐鄧息營田邊備劉子澄趙楷並削三秩放罷又言楊義一軍之敗皆由徐敏子范用吉怠於赴援致不能支詔范用吉降武翼郎徐敏子削三秩放罷楊義削四秩勒停自效己酉真徳秀言權臣罔上講筵官亦傅會其言今承其弊有當慮者五事并及泉漳冦盜鹽法之弊帝嘉納之詔進士何霆編類朱熹觧注文字有補經筵授上文學冬十月己夘眞徳秀進太學衍義辛卯陳貴誼薨贈少保十一月壬子京湖制司剏鎭北軍詔以襄陽府駐劄御前忠衛軍為名壬戌太白經天十二月己卯大元遣王檝来戊子王檝辭于後殿辛卯遣鄒伸之李復禮喬仕安劉溥報謝各進二秩\n\n--------------------------------------------------------------------------------\n赵匡胤 (https://zh.wikipedia.org/wiki/%E8%B5%B5%E5%8C%A1%E8%83%A4)\n【turn739932search50】 [wordlim: 200] Crawled: 2 months ago; 開寶九年十月二十日癸丑（976年11月14日），宋太祖於萬歲殿逝世，享年49歲，在位16年。 ... 北宋僧人文瑩所著《續湘山野錄》記載太祖逝世前夕與趙光義飲酒時出現「燭影」、「柱斧」等情節，後世據此形成「燭影斧聲」之說；《續資治通鑑長編》、《宋史》等史籍則記有昭憲太后臨終要求太祖日後傳位於弟的「金匱之盟」。\n\n--------------------------------------------------------------------------------\n卷二十三-世史正纲全文原文-识典古籍 (https://www.shidianguji.com/book/CADAL02046788/chapter/1l8afebsxdijq)\n【turn739932search10】 [wordlim: 200] Crawled: 2 months ago; 按宋史太祖纪云：开宝元年冬十月癸丑夕，帝崩于万岁殿，殡于殿西阶。太宗纪云：开宝九年冬十月癸丑，太祖崩，帝遂即皇帝位。 ... 所可惜者，太祖临崩，但遥见烛影摇红，及闻大声汝好为之之言，不能不起万世之疑。\n\n--------------------------------------------------------------------------------\n从“金匮之盟”到“烛影斧声”：宋太宗的即位真相 (https://m.allhistory.com/ah/article/5c94d9bb2a99a60001357399)\n【turn739932search11】 [wordlim: 200] Crawled: 2 months ago; > “癸丑夕，帝崩于万岁殿，年五十，殡于殿西阶。” ... 到了开宝九年（976年）时，这位失踪已久的道士又忽然出现，在赵匡胤问及自己寿命时说道，如果今年十月二十日（即癸丑日）这天晚上天晴的话就可以再活十二年，如果不晴的话就得准备后事了。 ... “烛影斧声”听起来，不免有些荒诞不经，其作者文莹是北宋中期一位不知名僧人，不知从何处能得到如此秘闻，也或许文莹的初衷只是想向人追捧太宗得位符合天意，却不想反而引起了人们对太祖死因的种种猜疑。\n\n其后的《续资治通鉴长编》和《宋史纪事本末》也都引用了这个故事，只是将“好做”二字改为了“好为之”。\n\n--------------------------------------------------------------------------------\n卷上-宋纪受终考全文原文-识典古籍 (https://www.shidianguji.com/book/NGJ89241199902552072930/chapter/1luifrpx8e2hy)\n【turn739932search12】 [wordlim: 200] Crawled: last month; 公可据之人也温公可据则文莹可黜 ... 宋史\n\n太祖纪开宝九年冬十月癸丑夕帝崩于万岁殿\n\n太宗纪开宝九年冬十月癸丑太祖崩帝遂即皇\n\n--------------------------------------------------------------------------------\n屈原和他的作品-新华网 (https://www.xinhuanet.com/politics/2015-06/20/c_127934690.htm)\n【turn739932search13】 [wordlim: 200] Published: 11.4 years ago; Crawled: last week; 　　公元前278年，秦将白起攻陷楚国都城郢地。 ... 就在洞庭湖畔、汨罗江边，有一位白发苍苍的老人，在听到秦人入郢之后，悲伤哀叹，回忆九年前离开郢都时的情形，情不自禁地吟诵出来一曲凄婉哀怨的楚歌——《哀郢》。 ... 　　屈原与楚王同宗，自是楚国贵族出身。《\n\n--------------------------------------------------------------------------------\n卷二十三-世史正纲全文原文-识典古籍 (https://www.shidianguji.com/book/HY2082/chapter/1knxf61fnvrjc)\n【turn739932search14】 [wordlim: 200] Crawled: 2 months ago; 昞宋开宝九皇帝年十年二月太宗 ... 冬十月癸丑诸宋主殂于万岁殿十 ... 其信而信之因其疑而疑之可也按宋史 ... 云开宝九年冬十月癸丑太祖崩帝遂即\n\n--------------------------------------------------------------------------------\n深夜书屋 (https://www.midnightreader.net/public/episode/3d2b55b7-9e00-4149-9d98-fe7936a57468/d218ddaf-6e29-4fbf-a92c-ad7dc169eafc)\n【turn739932search15】 [wordlim: 200] Published: 1.4 years ago; Crawled: 2 months ago; 有关“斧声烛影”的疑问，主要在以下几个方面。 ... 癸丑，“上崩于万岁殿。 ... 故自元代以后，屡有史籍将宋太祖死亡之日属之壬子日，如元末陈𣐕《通鉴续编》开宝九年“纲”曰：“冬十月，宋主有疾。 ... 至于《长编》将《续湘山野录》所载宋太祖于十月癸丑晚召见赵光义，提前一日系于壬子晚之目的，有学者认为，若如文莹所云将宋太祖“死期”定在“十月甲寅将五鼓时”，将下“距宋太宗‘逮晓登明堂，宣遗诏罢’便即位的时间不多于两小时”，“则《涑水记闻》所称宦官王继恩以私意迎宋太宗入继大统一事便缺乏‘合理’的完成时间”，所以李焘遂将宋太祖“‘死期’前移一天”，而在宋太祖死亡至宋太宗继位间的一天时间中，李焘未作任何记载，如此“‘有乖常理’的叙事手法，适足以为后人提供进一步探究事件真相的线索”。\n\n--------------------------------------------------------------------------------\n2018/2019  \nC149\n\n年（西元前278），秦將白起攻破郢都，屈原悲憤欲絕，遂自沉汨羅江 (https://mirror1.dsedj.gov.mo/tplan/2018/plan/C149.pdf)\n【turn739932search51】 [wordlim: 200] Published: 7.3 years ago; 年（西元前278），秦將白起攻破郢都，屈原悲憤欲絕，遂自沉汨羅江。 ... 招楚懷王的靈魂：招魂。\n\n--------------------------------------------------------------------------------\n宋朝皇室 (https://zh.wikipedia.org/wiki/%E5%AE%8B%E6%9C%9D%E7%9A%87%E5%AE%A4)\n【turn739932search52】 [wordlim: 200] Crawled: 3 months ago; 開寶九年（976年），宋太祖在北征契丹的途中，與其弟趙光義飲酒，共宿宮中；翌晨，太祖猝崩，得年50岁。據湘山野錄記載，有「燭影斧聲」的說法，普遍猜測宋太祖趙匡胤是被意圖篡位的宋太宗趙光義所弒。\n\n--------------------------------------------------------------------------------\nPowerPoint 演示文稿 (https://courses.edx.org/c4x/PekingX/02132750x/asset/09.pdf)\n【turn739932search53】 [wordlim: 200] Published: 12.0 years ago; 左侧为一幅宋太宗赵光义的画像：人物身穿白色宽袍，戴黑色官帽，站立正面偏左，背景为淡色；画像左下竖排题字为“宋太宗赵光义”。 ... “斧声烛影”中的兄终弟及 ... 斧丑，上崩于万岁殿。\n\n邓广铭《宋太祖太宗皇位授受问题辨析》，载《邓广铭治史丛稿》\n"
+        }
+      ],
+      "isError": false
+    },
+    "web-passages3.json": {
+      "content": [
+        {
+          "type": "text",
+          "text": "宋史/卷365 - 维基文库，自由的图书馆 (https://zh.wikisource.org/wiki/%E5%AE%8B%E5%8F%B2/%E5%8D%B7365)\n【turn416293view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"turn366617view0\",\"lineno\":185}); Total lines: 275\nL184: 飛知劉豫結粘罕，而兀朮惡劉豫，可以間而動。會軍中得兀朮諜者，飛陽責之曰：「汝非吾軍中人張斌耶？吾向遣汝至齊，約誘至四太子，汝往不復來。吾繼遣人問，齊已許我，今冬以會合寇江為名，致四太子于清河。汝所持書竟不至，何背我耶？」諜冀緩死，即詭服。乃作蠟書，言與劉豫同謀誅兀朮事，因謂諜曰：「吾今貸汝。」復遣至齊，問舉兵期，刲股納書，戒勿泄。諜歸，以書示兀朮，兀朮大驚，馳白其主，遂廢豫。飛奏：「宜乘廢豫之際，擣其不備，長驅以取中原。」不報。\nL185: \nL186: 八年，還軍鄂州。王庶視師江、淮，飛與庶書：「今歲若不舉兵，當納節請閑。」庶甚壯之。秋，召赴行在，命詣資善堂見皇太子。飛退而喜曰：「社稷得人矣，中興基業，其在是乎？」會金遣使將歸河南地，飛言：「金人不可信，和好不可恃，相臣謀國不臧，恐貽後世譏。」檜銜之。\n\n--------------------------------------------------------------------------------\n宋史/卷003 - 维基文库，自由的图书馆 (https://zh.wikisource.org/wiki/%E5%AE%8B%E5%8F%B2/%E5%8D%B7003)\n【turn416293view1】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"turn366617view1\",\"lineno\":260}); Total lines: 315\nL258: 　　吳越錢俶來朝，自宰相以下咸請留俶而取其地，帝不聽，遣俶歸國。及辭，取群臣留俶章疏數十軸，封識遺俶，戒以途中密觀，俶屆途啟視，皆留己不遣之章也。俶自是感懼，江南平，遂乞納土。南漢劉鋹在其國，好置酖以毒臣下。既歸朝，從幸講武池，帝酌卮酒賜鋹，鋹疑有毒，捧杯泣曰：「臣罪在不赦，陛下既待臣以不死，願為大梁布衣，觀太平之盛，未敢飲此酒。」帝笑而謂之曰：「朕推赤心於人腹中，寧肯爾耶？」即取鋹酒自飲，別酌以賜鋹。\nL259: \nL260: 　　王彥升擅殺韓通，雖預佐命，終身不與節鉞。王全斌入蜀，貪恣殺降，雖有大功，即加貶絀。\nL261: \nL262: 　　宮中葦簾，緣用青布；常服之衣，浣濯至再。魏國長公主襦飾翠羽，戒勿復用，又教之曰：「汝生長富貴，當念惜福。」見孟昶寶裝溺器，摏而碎之，曰：「汝以七寶飾此，當以何器貯食？所為如是，不亡何待！」\nL263: \nL264: 　　晚好讀書，嘗讀二典，歎曰：「堯、舜之罪四凶，止從投竄，何近代法網之密乎！」謂宰相曰：「五代諸侯跋扈，有枉法殺人者，朝廷置而不問。人命至重，姑息藩鎮，當若是耶？自今諸州決大辟，錄案聞奏，付刑部覆視之。」遂著為令。\n\n--------------------------------------------------------------------------------\n宋史/卷041 - 维基文库，自由的图书馆 (https://zh.wikisource.org/wiki/%E5%AE%8B%E5%8F%B2/%E5%8D%B7041)\n【turn416293view2】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"turn366617view2\",\"lineno\":132}); Total lines: 421\nL131: 　　理宗建道備德大功復興烈文仁武聖明安孝皇帝，諱昀，太祖十世孫。父希瓐，追封榮王，家於紹興府山陰縣，母全氏。以開禧元年正月癸亥生於邑中虹橋裏第。前一夕，榮王夢一紫衣金帽人來謁，比寤，夜漏未盡十刻，室中五采爛然，赤光屬天，如日正中。既誕三日，家人聞戶外車馬聲，亟出，無所睹。幼嘗晝寢，人忽見身隱隱如龍鱗。是時，寧宗弟沂靖惠王薨，無嗣，以宗室希瞿子賜名均爲沂王后，尋改賜名貴和。\nL132: \nL133: 　　嘉定十三年八月，景獻太子薨，寧宗以國本未立，選太祖十世孫年十五以上者教育，如高宗擇普安、恩平故事，遂以十四年六月丙寅立貴和爲皇子，改賜名竑，而以帝嗣沂王。六月乙亥，補秉義郎。八月甲子，授右監門衛大將軍，賜名貴誠。十五年五月丁巳，以竑爲檢校少保，進封濟國公。己未，以帝爲邵州防禦使。帝性凝重寡言，潔修好學，每朝參待漏，或多笑語，帝獨儼然。出入殿庭，矩度有常，見者斂容。會濟國公竑與丞相史彌遠有違言，彌遠日謀媒蘖其失于寧宗，屬意於帝而未遂。\n\n--------------------------------------------------------------------------------\n明史/卷304 - 维基文库，自由的图书馆 (https://zh.wikisource.org/wiki/%E6%98%8E%E5%8F%B2/%E5%8D%B7304)\n【turn416293view3】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"turn366617view3\",\"lineno\":210}); Total lines: 361\nL206: #### 劉永誠\nL207: \nL208: [【80†编辑】]\nL209: \nL210: 其與吉祥分道征兀良哈者劉永誠，永樂時，嘗為偏將，累從北征。宣德、正統中，再擊兀良哈。後監鎮甘、涼，戰沙漠，有功。景泰末，掌團營。英宗復辟，勒兵從，官其嗣子聚。成化中，永誠始卒。\nL211: ### 懷恩\nL212: \nL213: [【81†编辑】]\nL214: \n\n--------------------------------------------------------------------------------\n漢書/卷056 - 维基文库，自由的图书馆 (https://zh.wikisource.org/wiki/%E6%BC%A2%E6%9B%B8/%E5%8D%B7056)\n【turn416293view4】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"turn366617view5\",\"lineno\":157}); Total lines: 217\nL157: > 臣聞堯受命，以天下爲憂，而未以位爲樂也，故誅逐亂臣，務求賢聖，是以得舜，禹，稷，卨，咎繇。衆聖輔德，賢能佐職，敎化大行，天下和洽，萬民皆安仁樂誼，各得其宜，動作應禮，從容中道。〈師古曰：從音千容反。中音竹仲反。〉故孔子曰如有王者，必世而後仁，此之謂也。〈師古曰：<【51†論語】>載孔子之言也。言如有受命王者，必三十年，仁政乃成。〉堯在位七十載，廼遜于位以禪虞舜。堯崩，天下不歸堯子丹朱而歸舜。舜知不可辟，〈師古曰：辟讀曰避。〉乃即天子之位，以禹爲相，因堯之輔佐，繼其統業，是以垂拱無爲而天下治。孔子曰<韶>盡美矣，又盡善也，〈師古曰：<【51†論語】>載孔子之言。韶，舜樂也。孔子嘉舜之德，故聽其樂，而云盡善盡美矣。〉此之謂也。至於殷紂，逆天暴物，殺戮賢知，殘賊百姓。伯夷，太公皆當世賢者，隱處而不爲臣。守職之人皆奔走逃亡，入于河海。〈師古曰：謂若鼓方叔，播鼗武，少師陽之屬也。事在<禮樂志>。〉天下秏亂，〈師古曰：秏，不明也，音莫報反。〉萬民不安，故天下去殷而從周。文王順天理物，師用賢聖，是以閎夭，大顛，散宜生等亦聚於朝廷。〈臣瓚曰：皆文王賢臣。〉愛施兆民，天下歸之，故太公起海濱而即三公也。〈師古曰：濱，涯也。即，就也。濱音賓，又音頻。〉當此之時，紂尚在上，尊卑昬亂，百姓散亡，故文王悼痛而欲安之，是以日昃而不暇食也。孔子作<春秋>，先正王而繫萬事，見素王之文焉。〈師古曰：見，顯示也。〉繇此觀之，〈師古曰：繇讀與由同。〉帝王之條貫同，然而勞逸異者，所遇之時異也。孔子曰<武>盡美矣，未盡善也，〈師古曰：亦<【51†論語】>載孔子之言也。武，周武王樂也。以其用兵伐紂，故有慚德，未盡善也。〉此之謂也。 臣聞制度文采玄黃之飾，所以明尊卑，異貴賤，而勸有德也。故《春秋》受命所先制者，改正朔，易服色，所以應天也。然則宮室旌旗之制，有法而然者也。故孔子曰：奢則不遜，儉則固。〈師古曰：<【51†論語】>載孔子之言。遜，順也。固，陋也。〉儉非聖人之中制也。臣聞良玉不瑑，資質潤美，不待刻瑑，此亡異於達巷黨人不學而自知也。〈孟康曰：人，項橐也。〉然則常玉不瑑，不成文章；君子不學，不成其德。 臣聞聖王之治天下也，少則習之學，長則材諸位，〈服虔曰：在位當知材知日有益於政也。應劭曰：隨其材之優劣而授之位也。師古曰：應說近之。謂授之位以試其材也。〉爵祿以養其德，刑罰以威其惡，故民曉於禮誼而恥犯其上。武王行大誼，平殘賊，周公作禮樂以文之，至於成康之隆，囹圄空虛四十餘年，此亦敎化之漸而仁誼之流，非獨傷肌膚之效也。至秦則不然。師申商之法，〈師古曰：申，申不害也。商，商鞅也。〉行韓非之說，憎帝王之道，以貪狼爲俗，〈師古曰：狼性皆貪，故謂貪爲貪狼也。〉非有文德以敎訓於天下也。誅名而不察實，〈師古曰：誅，責也。〉爲善者不必免，而犯惡者未必刑也。是以百官皆飾空言虛辭而不顧實：外有事君之禮，內有背上之心。造僞飾詐，趣利無恥；又好用憯酷之吏，〈師古曰：憯，痛也，音千感反。〉賦斂亡度，竭民財力，百姓散亡，不得從耕織之業，羣盜並起。是以刑者甚衆，死者相望，而姦不息，俗化使然也。故孔子曰導之以政，齊之以刑，民免而無恥，〈師古曰：<【51†論語】>載孔子之言也。言以政法敎導之，以刑戮整齊之，則人苟免而已，無恥愧也。〉此之謂也。 今陛下并有天下，海內莫不率服，廣覽兼聽，極羣下之知，盡天下之美，至德昭然，施於方外。夜郎，康居，殊方萬里，說德歸誼，〈師古曰：夜郎，西南夷也。康居，西域國也。說讀曰悅。〉此太平之致也。然而功不加於百姓者，殆王心未加焉。曾子曰：尊其所聞，則高明矣；行其所知，則光大矣。高明光大，不在於它，在乎加之意而已。〈師古曰：曾子之書也。曾子，曾參。〉願陛下因用所聞，設誠於內而致行之，則三王何異哉! 陛下親耕藉田以爲農先，夙寤晨興，憂勞萬民，思惟往古，而務以求賢，此亦堯舜之用心也，然而未云獲者，士素不厲也。〈師古曰：厲謂勸勉之也。一曰砥礪其行也。〉夫不素養士而欲求賢，譬猶不瑑玉而求文采也。故養士之大者，莫大虖太學；太學者，賢士之所關也，〈師古曰：關，由也。〉敎化之本原也。今以一郡一國之衆，對亡應書者，〈師古曰：書謂舉賢良文學之詔書也。〉是王道往往而絕也。臣願陛下興太學，置明師，以養天下之士，數考問以盡其材，則英俊宜可得矣。今之郡守，縣令，民之師帥，所使承流而宣化也；故師帥不賢，則主德不宣，恩澤不流。今吏旣亡敎訓於下，或不承用主上之法，暴虐百姓，與姦爲市，〈師古曰：言小吏有爲姦欺者，守令不舉，乃反與之交易求利也。〉貧窮孤弱，冤苦失職，甚不稱陛下之意。是以陰陽錯繆，氛氣充塞，羣生寡遂，黎民未濟，皆長吏不明，使至於此也。 夫長吏多出於郎中，中郎，吏二千石子弟選郎吏，又以富訾，未必賢也。〈師古曰：訾與資同。〉且古所謂功者，以任官稱職爲差，〈師古曰：差，次也。〉非所謂積日絫久也。故小材雖絫日，不離於小官；賢材雖未久，不害爲輔佐。〈師古曰：害猶妨也。〉是以有司竭力盡知，務治其業而以赴功。 今則不然：累日以取貴，積久以致官，是以廉恥貿亂，賢不肖渾殽，未得其真。臣愚以爲使諸列侯，郡守，二千石各擇其吏民之賢者，歲貢各二人以給宿衞，且以觀大臣之能；所貢賢者有賞，所貢不肖者有罰。夫如是，諸侯，吏二千石皆盡心於求賢，天下之士可得而官使也。〈師古曰：授之以官，以使其材也。〉徧得天下之賢人，則三王之盛易爲，而堯舜之名可及也。毋以日月爲功，實試賢能爲上，量材而授官，錄德而定位，〈師古曰：錄謂存視也。〉則廉恥殊路，賢不肖異處矣。陛下加惠，寬臣之罪，令勿牽制於文，使得切磋究之，臣敢不盡愚!\n\n--------------------------------------------------------------------------------\nPhế thành Xương Giang (https://baotanglichsu.vn/vi/Articles/1508/51632/phe-thanh-xuong-giang.html)\n【turn416293view5】 [wordlim: 200] Crawled: 5 days ago; Content type: text/html; Source: open({\"ref_id\":\"turn0search9\",\"lineno\":null}); Total lines: 129\nL25: Từ Đông Quan, tướng giặc là Hoàng Phúc và Thôi Tụ đã vội vàng thu thập quân lương tiến về Xương Giang trong khi chưa biết thành đã bị hạ. Giữa cánh đồng Xương Giang, giặc Minh bị bao vây chặt bốn bề buộc chúng tiến thoái lưỡng nan. Ngày 3/11/1427, quân Lam Sơn tổ chức đợt tổng tấn công. Sau một ngày chiến đấu, nghĩa quân đã giành được thắng lợi giòn giã, bắt sống Thôi Tụ, Hoàng Phúc.\nL26: Kết quả này là một trong những nhân tố quan trọng khiến Vương Thông ở thành Đông Quan phải chấp nhận nghị hòa. Ngày 22/11/1427, Lê Lợi cùng Tổng binh Vương Thông mở hội thề ở thành Đông Đô. Ngày 22/12/1427, quân Minh rút quân về nước.\nL27: Chiến thắng Xương Giang đã ghi thêm chiến công vào sử vàng dân tộc Việt, là niềm tự hào của nhân dân cả nước, góp phần chấm dứt 20 năm ách đô hộ của nhà Minh đối với nước Đại Việt. Nhà sử học Lê Quý Đôn từng đánh giá về chiến thắng này: \"Từ triều Trần bắt được Tích Lệ Cơ, Ô Mã Nhi cho đến lúc ấy, nước Nam thắng giặc phương Bắc chưa có trận nào lớn như vậy\". (theo Đại Việt thông sử). Trong Đại cáo Bình Ngô, Nguyễn Trãi viết: \"Gió mây vì thế mà biến sắc/Trời trăng ảm đạm đến lu mờ...\nL28: Lạng Giang, Lạng Sơn thây chất đầy đường/Xương Giang, Bình Than máu loang đỏ nước/Ghê gớm thay, sắc phong vân phải đổi, Thảm đạm thay ánh nhật nguyệt phải mờ...\".\nL29: Nhằm ôn lại truyền thống lịch sử vẻ vang, khí thế hào hùng và tinh thần thượng võ quyết thắng giặc ngoại xâm, từ năm 1998, lễ hội Xương Giang được tổ chức thường niên vào 2 ngày 6 - 7 tháng Giêng. Hằng năm vào ngày này, các nhà sư ở chùa Thành (xã Xương Giang) đều tổ chức lễ cầu siêu cho linh hồn các tướng sĩ tham gia trận đánh Xương Giang năm xưa và ước vọng đầu năm mới cho nhân dân an lạc, quốc thái dân an.\n\n--------------------------------------------------------------------------------\nLời 'sấm truyền' về Lê Lợi (https://baotanglichsu.vn/vi/Articles/2001/66142/loi-sam-truyen-ve-le-loi.html)\n【turn416293view6】 [wordlim: 200] Crawled: 2 weeks ago; Content type: text/html; Source: open({\"ref_id\":\"turn306677search8\",\"lineno\":null}); Total lines: 116\nL16: Quả là lời tiên đoán trúng phóc! Năm 1428, Lê Lợi lên ngôi Hoàng đế ở Đông Kinh, mở đầu triều Lê sơ, triều đại lâu dài nhất trong lịch sử phong kiến Viêt Nam. Ông lúc đó 43 tuổi, xưng là \"Thuận thiên thừa vận Duệ văn Anh vũ đại vương\", đặt tên nước là Đại Việt, đổi niên hiệu, đại xá thiên hạ, ban bài Cáo Bình Ngô.\nL17: \nL18: 【0†Image†media.baodatviet.vn】\nL19: Năm 1428, Lê Lợi lên ngôi Hoàng đế ở Đông Kinh, mở đầu triều Lê sơ, triều đại lâu dài nhất trong lịch sử phong kiến Viêt Nam.\nL20: Tướng giặc ngả mũ... theo phục\nL21: Theo sử sách, Lưu Thanh là một trong những viên tướng của nhà Minh, từng nhiều phen đem quân đi đàn áp Lê Lợi. Năm 1427, Lưu Thanh là chỉ huy đồn Tam Giang. Giữa năm 1427, có một sự kiện khá độc đáo, gắn liền với vị tướng giặc này, đã được sách Đại Việt sử kí toàn thư chép lại như sau: \"Tháng 6, bọn Chỉ huy sứ (của quân Minh) là Lưu Thanh đóng ở đồn Tam Giang ra hàng. Nguyên trước kia, bọn lính Tam Giang từng vào Thanh Hóa để đánh Lam Sơn theo lệnh điều động của quan Tổng binh.\nL22: Bại trận trở về, có tên ngụy binh buông lời khinh mạn nhà vua (tức Lê Lợi). Lưu Thanh liền mắng: Thằng man di vô lễ. Ông ấy (chỉ Lê Lợi) sẽ là Hoàng đế của chúng mày đấy...\".\nL23: Sử thần Ngô Sĩ Liên bàn rằng, Vua nổi dậy, nghĩa binh đi tới đâu là quân Minh thua chạy đến đấy, nhưng đó có phải là vì quân ta đông mà quân giặc ít đâu? Đó cũng có phải là vì quân ta mạnh mà quân địch yếu đâu? Tất cả chỉ là vì đức của Vua hiệp với lẽ của trời, trời giúp Vua, Vua lại làm đẹp lòng người nên người theo về đó thôi. Bấy giờ, không những chỉ có người nước ta vui lòng theo phục, mà cả đến bọn phản nghịch cũng tôn kính, cho nên chúng không còn ý chí chiến đấu, cùng nhau ra hàng là phải lắm.\n\n--------------------------------------------------------------------------------\n历史沿革 (https://www.ezhou.gov.cn/zjez/ezgk/lsyg/201902/t20190222_176954.html)\n【turn416293view7】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"turn366617view6\",\"lineno\":40}); Total lines: 285\nL33: 　　楚怀王六年（公元前323年），怀王封其弟启为鄂君，颁发“鄂君启金节”（安徽寿县出土），鄂邑水陆商队货运楚国各地。\nL34: \nL35: 　　楚顷襄王二十一年（公元前278年），屈原放逐江南，行吟鄂渚。《九章·涉江》云：“乘鄂渚而反顾兮，欸秋冬之绪风”。西山有屈原“望楚亭”。\nL36: \nL37: 　　楚负刍五年（公元前223年），秦攻楚，俘楚王，秦王嬴政从汉水至鄂渚樊口，废负刍为庶人，楚亡。\nL38: \nL39: 　　秦始皇二十六年（公元前221年），秦置鄂县，属南郡，其领域西北界长江、东抵江西、南接湖南。\nL40: \nL41: 　　汉高祖六年（公元前201年），汉为鄂县，属江夏郡。刘邦封大将樊哙于鄂县，灌婴筑鄂县城；汉高祖十一年（公元前196年），荆王刘贾于沼山大战淮南王英布，战死，刘邦为其立荆王庙。\nL42: \nL43: 　　汉建安十三年（208年），曹操南征，关羽驻军樊口。孙刘联军大破曹军于赤壁，魏、蜀、吴三国鼎立势成；汉建安十四年（209年），孙权与周瑜、鲁肃、张昭于城东虎头山商议建都大计，闻凤鸣，遂筑凤凰台。\n\n--------------------------------------------------------------------------------\n宝庆古城话春秋-湖南省文物局 (https://wwj.hunan.gov.cn/wwj/c100310/c100314/201411/t20141119_10483043.html)\n【turn416293view8】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"turn366617view7\",\"lineno\":32}); Total lines: 92\nL31: 据《前汉书·地理志》载：长沙国属地有“昭陵”。《大清一统志》云：“昭陵故城，即今府治，汉置县。隋改曰邵阳，唐为邵州治，宋以后为宝庆府治。”《宝庆府志·工书一》：“宝庆府城，东临邵水，北带资江，南倚天池，西濬城隍。汉之昭陵，唐之邵州，咸治于斯，宋代仍旧。”南宋理宗宝庆元年（1225年）升邵州为宝庆府，府城向西面扩展，城址规模基本上定型，其平面呈长方形，东西长约1400米，南北宽约800米，城周长约4370余米，墙高约8.3米，宽约5米。设城门五道：东曰朝天门、西曰定远门、南曰大安门、北曰丰庆门、西北曰临津门；西、南二门各筑瓮城，广80余米，瓮城内驻兵守御。明洪武六年（1373年），对宝庆府城墙进行了全面维修，形成五门、六马面、七楼、十二炮台的格局。清代至民国初年，基本上保留了明代的格局。\nL32: \nL33: 辛亥革命（1911年）之后，废除了封建制度，封闭自守的城堡制亦被废弃。1939年，为便于抗日时期城内居民疏散，将古城的东、南、西三面城墙拆除，仅保留了北面临江一线与西北隅少部分城墙及庆丰、临津两道城门，全长约1300米，另存部分城墙基址，总长1000余米。\nL34: \nL35: （三）宝庆府古城的街巷布局及演变\n\n--------------------------------------------------------------------------------\n續資治通鑑長編/卷017 - 维基文库，自由的图书馆 (https://zh.wikisource.org/zh/%E7%BA%8C%E8%B3%87%E6%B2%BB%E9%80%9A%E9%91%91%E9%95%B7%E7%B7%A8/%E5%8D%B7017)\n【turn416293view9】 [wordlim: 200] Crawled: yesterday; Content type: text/html; Source: open({\"ref_id\":\"turn511578view6\",\"lineno\":255}); Total lines: 421\nL254: 初平江南，袁州刺史劉茂忠與吉州刺史屠令堅相約拒命，會令堅死，監軍侍其禎權知吉州，其事遂寢，乃與禎俱入朝。茂忠常侵掠邊邑，上詰之，茂忠曰：「臣事李煜惟力是視，雖陛下親征，臣當殞身不顧。」上嘉其忠□。庚戌，以茂忠為登州刺史，禎為閒廄使。〈禎，未見。〉 晉州獲北漢諜者趙訓，械送闕下，上釋不誅，給裝服遣之。\nL255: \nL256: 廢江南諸縣偽署制置使^{【52†[11]】}。\nL257: \nL258: 辛亥，命鎮州西山巡檢、洺州防禦使郭進為河東道忻、代等州行營馬步軍都監。\nL259: \nL260: 壬子，以樞密副使楚昭輔^{【53†[12]】}、右衛大將軍判三司王仁贍分領宣徽南北院事，自後宣徽使闕，即命樞密副使兼領院事。〈宣徽使除授，其後不備書，此其始事，故特出之。〉\nL261: \nL262: 丙辰，詔分兵入北漢界，西上閤門使郝崇信與解州刺史王政忠出汾州，內衣庫副使閻彥進與澤州刺史齊超〈超，未見。〉出沁州，內衣庫副使孫晏宣〈晏宣，未見。〉與濮州刺史安守忠出遼州，引進副使齊延琛〈延琛，未見。〉與晉、隰州巡檢、汝州刺史穆彥璋〈彥璋，未見。〉出石州，洛苑副使侯美與郭進出忻、代。\nL263: \nL264: 九月甲子，幸綾錦院。 乙丑，開封府言京城諸官司獄皆空，無系囚。\nL265: \nL266: 丙寅，始令刺史、郎中、將軍以上私忌給假。\n"
+        }
+      ],
+      "isError": false
+    }
+  }
+}

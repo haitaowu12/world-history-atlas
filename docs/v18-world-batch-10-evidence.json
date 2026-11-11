@@ -1,0 +1,2023 @@
+{
+  "reviewedAt": "2026-11-11",
+  "ownerReview": "Nine images admitted for seven newly illustrated histories. Actual pixels, full bilingual targets and item-specific rights were reviewed. Only Panama and Tonga receive complementary views. In Copyright and weak matches remain excluded. Source-served derivatives stay unchanged. Bangkok negative and print dates remain distinct. Source catalogue language and colonial satire are attributed rather than endorsed.",
+  "evidence": [
+    {
+      "assetId": "world-batch-10-ezqx6c7n",
+      "status": "candidate-admitted",
+      "recordIds": [
+        "caribbean-sugar-labor"
+      ],
+      "sourceUrl": "https://wellcomecollection.org/works/ezqx6c7n",
+      "sourceTitle": "Sugar: a plantation of sugar cane in the Caribbean islands, with black workers and processing equipment in the foreground. Engraving, 1683, after S. Leclerc, ca 1671.",
+      "sourceDescription": null,
+      "rights": {
+        "id": "cc-by",
+        "type": "License",
+        "label": "Attribution 4.0 International (CC BY 4.0)",
+        "url": "http://creativecommons.org/licenses/by/4.0/"
+      },
+      "receipt": "research/v18/world-batch-10/detail-ezqx6c7n.json",
+      "manifestReceipt": "research/v18/world-batch-10/manifest-ezqx6c7n.json",
+      "targetRecord": {
+        "id": "caribbean-sugar-labor",
+        "title": {
+          "en": "Caribbean sugar: plantations, skill and coercion",
+          "zh": "加勒比蔗糖：种植园、技能与强制"
+        },
+        "start": 1650,
+        "end": 1800,
+        "region": "latin-america",
+        "theme": "exchange",
+        "kind": "culture",
+        "location": {
+          "lat": 13.16,
+          "lon": -59.55,
+          "label": "Barbados; representative plantation island, not the whole Atlantic system",
+          "labelI18n": {
+            "en": "Barbados; representative plantation island, not the whole Atlantic system",
+            "zh": "巴巴多斯；代表性种植园岛屿，并非整个大西洋体系"
+          },
+          "labelProvenance": "reviewed-display-translation"
+        },
+        "locationPrecision": "representative",
+        "importance": 4,
+        "ongoing": false,
+        "summary": {
+          "en": "Sugar production tied Caribbean land and water to coerced African labour and Atlantic markets. Plantation work involved more than cutting cane: mills, boiling houses, transport and provisioning demanded coordinated tasks, many requiring experience and skill. Enslaved people faced long hours, dangerous machinery and punishment within an institution that treated human beings as property.\n\nThe plantation combined field agriculture with concentrated processing, making labour discipline and the timing of harvest central to profit. Households, food cultivation, cultural practices and resistance formed part of enslaved people’s lives despite the coercive order. Museum and archaeological interpretation can recover traces beyond account books written by owners. Comparing sugar with mining at Potosí and cotton economies elsewhere reveals connected systems of exploitation without assuming that every colony, crop or labour regime was identical.",
+          "zh": "蔗糖生产把加勒比的土地和水，同被强制劳动的非洲人及大西洋市场连接起来。种植园劳动不只是砍甘蔗：磨坊、煮糖房、运输与给养需要协调，其中许多任务依靠经验和技能。奴隶制把人当作财产，人们承受长工时、危险机械及惩罚。\n\n种植园结合田间农业和集中加工，使劳动纪律及收获时机成为利润关键。家庭、食物栽培、文化实践与抵抗，仍存在于受奴役者的生活中。博物馆及考古解释能发现园主账本之外的痕迹。把蔗糖同波托西采矿和其他棉业经济比较，可见彼此联系的剥削体系，而不假设每个殖民地、作物和劳动制度完全相同。"
+        },
+        "dateNote": {
+          "en": "Editorial focus c.1650–1800; neither the beginning nor the abolition of Caribbean slavery is assigned to these endpoints.",
+          "zh": "编辑关注约1650—1800年；不把两端定为加勒比奴隶制的开始或废除日期。"
+        },
+        "sources": [
+          {
+            "title": "Slave Labor",
+            "url": "https://slaveryandremembrance.org/articles/article/?id=A0056",
+            "publisher": "slaveryandremembrance.org",
+            "evidenceNote": "Institutional slavery-history account of plantation tasks and dangerous labour. Access: opened-page-extract.",
+            "checkedAt": "2026-10-23",
+            "retrieval": "opened-page-extract"
+          },
+          {
+            "title": "Slavery in the Caribbean",
+            "url": "https://www.liverpoolmuseums.org.uk/archaeologyofslavery/slavery-caribbean",
+            "publisher": "www.liverpoolmuseums.org.uk",
+            "evidenceNote": "Museum archaeological work on Caribbean plantation environments and settlements. Access: indexed-excerpt.",
+            "checkedAt": "2026-10-23",
+            "retrieval": "indexed-excerpt"
+          }
+        ],
+        "relatedIds": [
+          "potosi-silver-labor",
+          "haitian-revolution",
+          "brazil-abolition"
+        ],
+        "expansion": {
+          "workstreams": [
+            "LA3"
+          ],
+          "release": 3,
+          "sourceReview": "Source-specific retrieved excerpts inspected; full-page access limitations retained in source notes."
+        },
+        "keyFacts": {
+          "en": [
+            "Sugar production tied Caribbean land and water to coerced African labour and Atlantic markets.",
+            "The plantation combined field agriculture with concentrated processing, making labour discipline and the timing of harvest central to profit."
+          ],
+          "zh": [
+            "蔗糖生产把加勒比的土地和水，同被强制劳动的非洲人及大西洋市场连接起来。",
+            "种植园结合田间农业和集中加工，使劳动纪律及收获时机成为利润关键。"
+          ]
+        }
+      },
+      "relationship": {
+        "en": "Follow the cane from field to processing equipment. Published in 1683 after Leclerc, this colonial engraving organizes many skilled tasks into one view; the orderly scene does not convey the coercion behind plantation production.",
+        "zh": "顺着甘蔗从田间看到加工设备。这幅1683年依据勒克莱尔作品出版的殖民地版画，把多种技术劳动组织在同一画面中；整齐的场景并未呈现种植园生产背后的强制。"
+      },
+      "visualReview": "Actual downloaded pixels inspected on contact sheet; sugar engraving inspected separately full size. Content, orientation and legibility checked.",
+      "sha256": "281c5e53892e0969766edfcae842fc16ddbeb9623f10cd48484433b04f80b815",
+      "bytes": 329462,
+      "width": 711,
+      "height": 1000
+    },
+    {
+      "assetId": "world-batch-10-uy9yc45v",
+      "status": "candidate-admitted",
+      "recordIds": [
+        "panama-canal-labour"
+      ],
+      "sourceUrl": "https://wellcomecollection.org/works/uy9yc45v",
+      "sourceTitle": "Panama Canal construction workers (American and European) dining in the Isthmian Canal Commission (I.C.C.) hotel, Culebra. Photograph, ca. 1910.",
+      "sourceDescription": null,
+      "rights": {
+        "id": "pdm",
+        "type": "License",
+        "label": "Public Domain Mark",
+        "url": "https://creativecommons.org/share-your-work/public-domain/pdm/"
+      },
+      "receipt": "research/v18/world-batch-10/detail-uy9yc45v.json",
+      "manifestReceipt": null,
+      "targetRecord": {
+        "id": "panama-canal-labour",
+        "title": {
+          "en": "Building the Panama Canal · Labour beneath the engineering",
+          "zh": "修筑巴拿马运河 · 工程背后的劳动"
+        },
+        "start": 1904,
+        "end": 1914,
+        "region": "latin-america",
+        "kind": "event",
+        "theme": "exchange",
+        "importance": 3,
+        "location": {
+          "lat": 9.27,
+          "lon": -79.92,
+          "label": "Gatún, Panama; representative canal construction zone"
+        },
+        "locationPrecision": "representative",
+        "summary": {
+          "en": "The U.S. construction of the Panama Canal between 1904 and 1914 depended on a workforce recruited across the Caribbean, Europe and elsewhere. Canal Authority recruitment tables show the importance of the Antilles, especially Barbados. The canal’s movement of ships would rest on an earlier movement of workers and on the households that sustained them.\n\nEmployment was organized through the so-called gold and silver rolls. These categories combined differences of pay and occupation with racial and national hierarchies. Archival research shows that Black workers could be confined to the silver roll even when performing skilled work. The division also affected housing and services, extending workplace inequality into everyday life.\n\nThis history changes the question asked of an engineering landmark. Excavation volumes and locks alone do not explain who bore the burdens of construction or how the Canal Zone operated socially. Official payroll and recruitment records make some of those arrangements visible, while leaving many individual experiences harder to recover. The point at Gatún represents one major construction area; the labour system crossed a much larger zone and the sea routes that supplied it.",
+          "zh": "美国于1904—1914年修筑巴拿马运河，依靠从加勒比、欧洲及其他地区招募的劳动者。运河管理机构的招工表显示，安的列斯群岛、尤其巴巴多斯具有重要地位。后来船只的通行，建立在更早的劳工迁移及支撑他们的家庭之上。\n\n雇佣通过所谓“金名册”与“银名册”组织。这些类别把工资、职业差别同种族及国籍等级结合起来。档案研究显示，黑人劳动者即使从事技术工作，也可能被限制在银名册之内。区别还延伸到住房与服务，使职场不平等进入日常生活。\n\n这种历史改变了理解工程地标时提出的问题。开挖量与船闸并不足以解释谁承担建设负担，以及运河区如何作为社会运作。官方工资与招工档案使部分制度可见，却也留下许多难以恢复的个人经历。加通点位代表一个重要施工区；劳动体系覆盖更大地带，并连接提供劳工的海上路线。"
+        },
+        "dateNote": {
+          "en": "1904–1914 is the U.S. construction phase. Gatún is representative, not a pin for every worker, camp or recruitment port.",
+          "zh": "1904—1914年为美国施工阶段。加通是代表点，不代表所有工人、营地或招工港口。"
+        },
+        "sources": [
+          {
+            "title": "Work Force",
+            "publisher": "Panama Canal Authority",
+            "url": "https://pancanal.com/en/work-force/",
+            "evidenceNote": "Inspected recruitment and workforce tables for 1904–1914: Antillean and European recruitment, especially Barbados. Tables do not include every origin or all U.S. personnel.",
+            "checkedAt": "2026-10-23",
+            "retrieval": "inspected-text"
+          },
+          {
+            "title": "The Panama Canal: The African American Experience",
+            "publisher": "Patrice Brown / U.S. National Archives, Prologue",
+            "url": "https://www.archives.gov/publications/prologue/1997/summer/panama-canal",
+            "evidenceNote": "Inspected archive-based essay: gold/silver rolls, racialized pay categories, skilled Black workers, housing/services and Record Group 185 research context.",
+            "checkedAt": "2026-10-23",
+            "retrieval": "inspected-text"
+          }
+        ],
+        "keyFacts": {
+          "en": [
+            "Workers arrived through Caribbean and transatlantic recruitment.",
+            "Gold and silver rolls encoded racialized inequality.",
+            "Pay divisions extended into housing and services."
+          ],
+          "zh": [
+            "劳工通过加勒比与跨大西洋招募而来。",
+            "金银名册体现种族化不平等。",
+            "工资类别延伸到住房与服务。"
+          ]
+        },
+        "relatedIds": [
+          "panama-independence",
+          "panama-canal-transfer",
+          "caribbean-sugar-labor"
+        ],
+        "expansion": {
+          "workstreams": [
+            "LA3",
+            "LA4"
+          ],
+          "release": 4,
+          "edition": "v10",
+          "sourceReview": "inspected-source-synthesis",
+          "reviewLimit": {
+            "en": "The engineering authority’s tables and archive-based social history offer different evidence types. Recruitment counts are not equated with complete worker populations; no aggregate casualty figure is asserted.",
+            "zh": "工程机构表格与基于档案的社会史提供不同证据类型。招募数不等于完整劳工人口，本条不宣称总体伤亡数字。"
+          }
+        }
+      },
+      "relationship": {
+        "en": "The catalogue identifies these diners at Culebra as American and European canal workers around 1910. Compare the large dining hall with the West Indian and Panamanian workers’ housing: services and accommodation were part of the canal’s unequal labour system.",
+        "zh": "馆藏将这些约1910年在库莱布拉就餐的人认定为美国和欧洲运河工人。可将大餐厅与西印度群岛和巴拿马工人的住房比较：服务和住宿也是运河不平等劳动制度的一部分。"
+      },
+      "visualReview": "Actual downloaded pixels inspected on contact sheet; sugar engraving inspected separately full size. Content, orientation and legibility checked.",
+      "sha256": "7a994ba03ed0225a1f43ef25e01141dcd45e4838b48c694f2f580e2608cc1777",
+      "bytes": 210500,
+      "width": 1000,
+      "height": 805
+    },
+    {
+      "assetId": "world-batch-10-vc6w6cxg",
+      "status": "candidate-admitted",
+      "recordIds": [
+        "panama-canal-labour"
+      ],
+      "sourceUrl": "https://wellcomecollection.org/works/vc6w6cxg",
+      "sourceTitle": "Panama Canal workers' (West Indian and Panaman) quarters: exterior view of wooden huts with resident children in foreground. Photograph, ca. 1910.",
+      "sourceDescription": null,
+      "rights": {
+        "id": "pdm",
+        "type": "License",
+        "label": "Public Domain Mark",
+        "url": "https://creativecommons.org/share-your-work/public-domain/pdm/"
+      },
+      "receipt": "research/v18/world-batch-10/detail-vc6w6cxg.json",
+      "manifestReceipt": null,
+      "targetRecord": {
+        "id": "panama-canal-labour",
+        "title": {
+          "en": "Building the Panama Canal · Labour beneath the engineering",
+          "zh": "修筑巴拿马运河 · 工程背后的劳动"
+        },
+        "start": 1904,
+        "end": 1914,
+        "region": "latin-america",
+        "kind": "event",
+        "theme": "exchange",
+        "importance": 3,
+        "location": {
+          "lat": 9.27,
+          "lon": -79.92,
+          "label": "Gatún, Panama; representative canal construction zone"
+        },
+        "locationPrecision": "representative",
+        "summary": {
+          "en": "The U.S. construction of the Panama Canal between 1904 and 1914 depended on a workforce recruited across the Caribbean, Europe and elsewhere. Canal Authority recruitment tables show the importance of the Antilles, especially Barbados. The canal’s movement of ships would rest on an earlier movement of workers and on the households that sustained them.\n\nEmployment was organized through the so-called gold and silver rolls. These categories combined differences of pay and occupation with racial and national hierarchies. Archival research shows that Black workers could be confined to the silver roll even when performing skilled work. The division also affected housing and services, extending workplace inequality into everyday life.\n\nThis history changes the question asked of an engineering landmark. Excavation volumes and locks alone do not explain who bore the burdens of construction or how the Canal Zone operated socially. Official payroll and recruitment records make some of those arrangements visible, while leaving many individual experiences harder to recover. The point at Gatún represents one major construction area; the labour system crossed a much larger zone and the sea routes that supplied it.",
+          "zh": "美国于1904—1914年修筑巴拿马运河，依靠从加勒比、欧洲及其他地区招募的劳动者。运河管理机构的招工表显示，安的列斯群岛、尤其巴巴多斯具有重要地位。后来船只的通行，建立在更早的劳工迁移及支撑他们的家庭之上。\n\n雇佣通过所谓“金名册”与“银名册”组织。这些类别把工资、职业差别同种族及国籍等级结合起来。档案研究显示，黑人劳动者即使从事技术工作，也可能被限制在银名册之内。区别还延伸到住房与服务，使职场不平等进入日常生活。\n\n这种历史改变了理解工程地标时提出的问题。开挖量与船闸并不足以解释谁承担建设负担，以及运河区如何作为社会运作。官方工资与招工档案使部分制度可见，却也留下许多难以恢复的个人经历。加通点位代表一个重要施工区；劳动体系覆盖更大地带，并连接提供劳工的海上路线。"
+        },
+        "dateNote": {
+          "en": "1904–1914 is the U.S. construction phase. Gatún is representative, not a pin for every worker, camp or recruitment port.",
+          "zh": "1904—1914年为美国施工阶段。加通是代表点，不代表所有工人、营地或招工港口。"
+        },
+        "sources": [
+          {
+            "title": "Work Force",
+            "publisher": "Panama Canal Authority",
+            "url": "https://pancanal.com/en/work-force/",
+            "evidenceNote": "Inspected recruitment and workforce tables for 1904–1914: Antillean and European recruitment, especially Barbados. Tables do not include every origin or all U.S. personnel.",
+            "checkedAt": "2026-10-23",
+            "retrieval": "inspected-text"
+          },
+          {
+            "title": "The Panama Canal: The African American Experience",
+            "publisher": "Patrice Brown / U.S. National Archives, Prologue",
+            "url": "https://www.archives.gov/publications/prologue/1997/summer/panama-canal",
+            "evidenceNote": "Inspected archive-based essay: gold/silver rolls, racialized pay categories, skilled Black workers, housing/services and Record Group 185 research context.",
+            "checkedAt": "2026-10-23",
+            "retrieval": "inspected-text"
+          }
+        ],
+        "keyFacts": {
+          "en": [
+            "Workers arrived through Caribbean and transatlantic recruitment.",
+            "Gold and silver rolls encoded racialized inequality.",
+            "Pay divisions extended into housing and services."
+          ],
+          "zh": [
+            "劳工通过加勒比与跨大西洋招募而来。",
+            "金银名册体现种族化不平等。",
+            "工资类别延伸到住房与服务。"
+          ]
+        },
+        "relatedIds": [
+          "panama-independence",
+          "panama-canal-transfer",
+          "caribbean-sugar-labor"
+        ],
+        "expansion": {
+          "workstreams": [
+            "LA3",
+            "LA4"
+          ],
+          "release": 4,
+          "edition": "v10",
+          "sourceReview": "inspected-source-synthesis",
+          "reviewLimit": {
+            "en": "The engineering authority’s tables and archive-based social history offer different evidence types. Recruitment counts are not equated with complete worker populations; no aggregate casualty figure is asserted.",
+            "zh": "工程机构表格与基于档案的社会史提供不同证据类型。招募数不等于完整劳工人口，本条不宣称总体伤亡数字。"
+          }
+        }
+      },
+      "relationship": {
+        "en": "This photograph records housing identified by the catalogue as belonging to West Indian and Panamanian canal workers. Children and domestic space bring households into a construction history often told through locks and excavators.",
+        "zh": "馆藏说明将这张照片中的住房认定为西印度群岛和巴拿马运河工人的住所。孩子和家庭空间使这段常以船闸与挖掘机讲述的工程史，也呈现劳动者的家庭。"
+      },
+      "visualReview": "Actual downloaded pixels inspected on contact sheet; sugar engraving inspected separately full size. Content, orientation and legibility checked.",
+      "sha256": "f51a4365a2b1787c550c6f7746e2bc7a496470f6c4c90f8000342a6d70b4ff66",
+      "bytes": 233390,
+      "width": 1000,
+      "height": 802
+    },
+    {
+      "assetId": "world-batch-10-qz68qjan",
+      "status": "candidate-admitted",
+      "recordIds": [
+        "petra-caravan-water"
+      ],
+      "sourceUrl": "https://wellcomecollection.org/works/qz68qjan",
+      "sourceTitle": "Petra: rock-cut buildings. Coloured lithograph by Louis Haghe after David Roberts, 1849.",
+      "sourceDescription": null,
+      "rights": {
+        "id": "pdm",
+        "type": "License",
+        "label": "Public Domain Mark",
+        "url": "https://creativecommons.org/share-your-work/public-domain/pdm/"
+      },
+      "receipt": "research/v18/world-batch-10/detail-qz68qjan.json",
+      "manifestReceipt": null,
+      "targetRecord": {
+        "id": "petra-caravan-water",
+        "title": {
+          "en": "Petra: a caravan city shaped by stone and water",
+          "zh": "佩特拉：由石与水塑造的商旅城市"
+        },
+        "start": -300,
+        "end": 106,
+        "region": "west-central-asia",
+        "kind": "place",
+        "theme": "cities",
+        "location": {
+          "lat": 30.33,
+          "lon": 35.44,
+          "label": "Petra; representative archaeological reference"
+        },
+        "locationPrecision": "representative",
+        "importance": 3,
+        "summary": {
+          "en": "Petra occupied a setting where routes between Arabia, Egypt and the Levant could meet. Nabataean builders worked with a landscape of gorges and rock faces, creating architecture that joined local practices with wider eastern Mediterranean forms. The city’s commercial role depended on connections and the organization of a demanding environment, rather than isolation from neighboring societies.\n\nThe Nabataean political phase and Rome’s annexation in 106 provide one framework for reading the site, but its occupation and later meanings extend beyond those boundaries. A carved façade cannot alone explain the lives of merchants, workers or residents throughout the city. Placing Petra beside Palmyra and the wider exchange network brings infrastructure, patronage and movement into the same account without turning a caravan crossroads into a surveyed itinerary.",
+          "zh": "佩特拉位于阿拉伯、埃及和黎凡特交通相交的环境。纳巴泰建筑者利用峡谷与岩壁，把地方实践同更广的东地中海形式结合。城市商业作用依赖联系，以及对复杂环境的组织，并非与邻近社会隔绝。\n\n纳巴泰政治阶段与106年罗马兼并，提供一种阅读遗址的框架，但居住历史与后续意义超出这些边界。一面岩凿立面不足以解释全城商人、劳动者和居民的生活。与帕尔米拉及更广交换网络并读，可以把基础设施、资助和流动放进同一叙述，而不把商旅交汇点当成精确测绘行程。"
+        },
+        "dateNote": {
+          "en": "c.300BCE–106CE is a selected Nabataean-period focus ending at Roman annexation, not Petra’s complete settlement lifespan. No Nabataean territorial polygon is inferred.",
+          "zh": "约前300—106年为纳巴泰时期的所选范围，以罗马兼并为终点，不是佩特拉聚落完整寿命。不推导纳巴泰疆域多边形。"
+        },
+        "sources": [
+          {
+            "title": "Petra",
+            "url": "https://whc.unesco.org/en/list/326/",
+            "publisher": "UNESCO World Heritage Centre",
+            "evidenceNote": "Nabataean caravan city, architectural traditions, routes and landscape. Site evidence does not fix the borders of the kingdom.",
+            "checkedAt": "2026-10-23",
+            "retrievalStatus": "page-text-inspected"
+          },
+          {
+            "title": "Trade between the Romans and the Empires of Asia",
+            "url": "https://www.metmuseum.org/fr/essays/trade-between-the-romans-and-the-empires-of-asia",
+            "publisher": "The Metropolitan Museum of Art",
+            "evidenceNote": "Sea routes connected Indian and Persian Gulf ports with Red Sea and Mediterranean routes; exchange used multiple intermediaries.",
+            "checkedAt": "2026-10-23",
+            "retrievalStatus": "page-text-inspected"
+          }
+        ],
+        "relatedIds": [
+          "palmyra-oasis-city",
+          "parthian-empire",
+          "roman-republic"
+        ],
+        "expansion": {
+          "workstreams": [
+            "WA1"
+          ],
+          "release": 2,
+          "sourceReview": "Source-noted synthesis; see individual retrievalStatus and V9_SOUTH_WEST_ASIA_RESEARCH.md. Date windows and pins are editorial references, not verified frontiers."
+        },
+        "keyFacts": {
+          "en": [
+            "Petra occupied a setting where routes between Arabia, Egypt and the Levant could meet.",
+            "Nabataean builders worked with a landscape of gorges and rock faces, creating architecture that joined local practices with wider eastern Mediterranean forms."
+          ],
+          "zh": [
+            "佩特拉位于阿拉伯、埃及和黎凡特交通相交的环境。",
+            "纳巴泰建筑者利用峡谷与岩壁，把地方实践同更广的东地中海形式结合。"
+          ]
+        }
+      },
+      "relationship": {
+        "en": "Haghe’s 1849 lithograph after Roberts places carved buildings within Petra’s rock landscape. It offers a nineteenth-century view of the surviving site, useful for tracing the relationship between architecture and terrain.",
+        "zh": "哈格1849年依据罗伯茨作品制作的石版画，将雕刻建筑置于佩特拉的岩石地貌中。这是遗址在十九世纪的景象，有助于观察建筑与地形的关系。"
+      },
+      "visualReview": "Actual downloaded pixels inspected on contact sheet; sugar engraving inspected separately full size. Content, orientation and legibility checked.",
+      "sha256": "68c591c568a70cbcef889b6141bdedcd3da4a85bd5174b18cd5ceeb96bfdabda",
+      "bytes": 222612,
+      "width": 1000,
+      "height": 631
+    },
+    {
+      "assetId": "world-batch-10-gkxy2rh2",
+      "status": "candidate-admitted",
+      "recordIds": [
+        "zulu-kingdom-phase"
+      ],
+      "sourceUrl": "https://wellcomecollection.org/works/gkxy2rh2",
+      "sourceTitle": "A fat complacent Briton sits on a stool while a Zulu man writes \"Despise not your enemy\" on a blackboard. Wood engraving by Swain after J. Tenniel, 1879.",
+      "sourceDescription": "<p>In the Battle of Isandlwana on 22 January 1879, a British force had been defeated by the Zulu army</p>",
+      "rights": {
+        "id": "pdm",
+        "type": "License",
+        "label": "Public Domain Mark",
+        "url": "https://creativecommons.org/share-your-work/public-domain/pdm/"
+      },
+      "receipt": "research/v18/world-batch-10/detail-gkxy2rh2.json",
+      "manifestReceipt": null,
+      "targetRecord": {
+        "id": "zulu-kingdom-phase",
+        "title": {
+          "en": "Zulu kingdom: state building and colonial war",
+          "zh": "祖鲁王国：国家建设与殖民战争"
+        },
+        "start": 1816,
+        "end": 1879,
+        "region": "africa",
+        "kind": "polity",
+        "theme": "states",
+        "importance": 4,
+        "location": {
+          "lat": -28.3,
+          "lon": 31.42,
+          "label": "KwaZulu region; representative royal landscape"
+        },
+        "locationPrecision": "representative",
+        "summary": {
+          "en": "The nineteenth-century Zulu kingdom developed through military and political consolidation under rulers including Shaka and his successors. Communities were reorganized within a regional landscape already shaped by competition, migration and exchange. Explaining this history through a single ruler’s personality or an automatic chain of warfare would hide the choices and experiences of many neighboring societies.\n\nThe 1879 British invasion brought these regional politics into direct conflict with imperial expansion. Zulu resistance included the victory at Isandlwana, followed by further campaigning and the defeat and partition of the kingdom. British military accounts are useful evidence but carry the perspectives of the invading institution; they should be read beside southern African scholarship and community histories. The political interval ends at conquest, while Zulu-speaking communities, cultural institutions and political claims continued. A timeline row therefore marks a particular state phase, not the beginning or end of a people.",
+          "zh": "十九世纪祖鲁王国在沙卡及其继承者等统治者领导下，通过军事与政治整合发展。社区在早已受竞争、迁移和交换影响的区域景观中重新组织。若只用某位君主的性格或自动发生的战争链解释，就会遮蔽众多邻近社会的选择和经历。\n\n1879年英国入侵，使区域政治同帝国扩张直接冲突。祖鲁抵抗包括伊散德尔瓦纳的胜利，随后战争继续，王国最终战败并被分割。英国军事叙述是有用证据，却带有入侵机构的视角，应同南部非洲研究及社区历史对读。政治窗口止于征服，祖鲁语社区、文化制度与政治主张仍在继续。因此，年表标记的是特定国家阶段，而非一个民族的开始或结束。"
+        },
+        "dateNote": {
+          "en": "1816–1879 focuses from Shaka’s accession to British conquest. Earlier Zulu chiefship and later cultural/political institutions fall outside this state-phase interval.",
+          "zh": "1816—1879年关注沙卡即位至英国征服；更早酋邦及后来的文化、政治机构超出此国家阶段窗口。"
+        },
+        "sources": [
+          {
+            "title": "Zulu Community",
+            "url": "https://sahistory.org.za/article/zulu-community",
+            "publisher": "South African History Online",
+            "evidenceNote": "Indexed account dates Shaka’s reign 1816–28 and discusses community formation; not sole evidence for disputed population/military claims.",
+            "checkedAt": "2026-10-23",
+            "retrieval": "indexed-text"
+          },
+          {
+            "title": "Zulu War",
+            "url": "https://www.nam.ac.uk/explore/zulu-war",
+            "publisher": "National Army Museum, United Kingdom",
+            "evidenceNote": "1879 war and defeat of the Zulu kingdom; colonial military institutional perspective identified.",
+            "checkedAt": "2026-10-23",
+            "retrieval": "inspected-text"
+          }
+        ],
+        "keyFacts": {
+          "en": [
+            "The nineteenth-century Zulu kingdom developed through military and political consolidation under rulers including Shaka and his successors.",
+            "Communities were reorganized within a regional landscape already shaped by competition, migration and exchange."
+          ],
+          "zh": [
+            "十九世纪祖鲁王国在沙卡及其继承者等统治者领导下，通过军事与政治整合发展。",
+            "社区在早已受竞争、迁移和交换影响的区域景观中重新组织。"
+          ]
+        },
+        "relatedIds": [
+          "mapungubwe-hill-kingdom",
+          "south-africa-election",
+          "person-albertina-sisulu"
+        ],
+        "expansion": {
+          "workstreams": [
+            "AF3"
+          ],
+          "release": 2,
+          "sourceReview": "mixed-access-synthesis",
+          "reviewLimit": {
+            "en": "This synthesis combines inspected institutional text with indexed scholarly material. Source-level retrieval notes identify access limits; a second URL is not always independent corroboration.",
+            "zh": "本综合结合已阅读的机构正文与学术索引材料。各来源的取得说明列出限制；第二个网址并不总是独立佐证。"
+          }
+        },
+        "countryGroup": "southern-africa",
+        "timeline": {
+          "level": "major",
+          "label": {
+            "en": "Zulu kingdom",
+            "zh": "祖鲁王国"
+          }
+        }
+      },
+      "relationship": {
+        "en": "Published in 1879, Tenniel’s cartoon responds to the British defeat at Isandlwana. Its reversal of teacher and pupil criticizes British complacency while using the stereotypes of British imperial satire.",
+        "zh": "特尼尔的这幅1879年漫画回应英国在伊散德尔瓦纳的失败。教师与学生角色的倒置批评英国的自满，同时采用了英国帝国讽刺画中的刻板形象。"
+      },
+      "visualReview": "Actual downloaded pixels inspected on contact sheet; sugar engraving inspected separately full size. Content, orientation and legibility checked.",
+      "sha256": "18f2ff5a1b147bc876c4ad8f171678451cd6b66b78e19e362b3d47ea6380a7a0",
+      "bytes": 372813,
+      "width": 743,
+      "height": 1000
+    },
+    {
+      "assetId": "world-batch-10-m7ysb8zx",
+      "status": "candidate-admitted",
+      "recordIds": [
+        "tui-tonga-maritime-polity"
+      ],
+      "sourceUrl": "https://wellcomecollection.org/works/m7ysb8zx",
+      "sourceTitle": "Catamarans and a canoe in Tonga, Polynesia, encountered by Captain Cook on his second voyage, 1772-1775. Engraving by W. Watts, 1777, after W. Hodges.",
+      "sourceDescription": null,
+      "rights": {
+        "id": "pdm",
+        "type": "License",
+        "label": "Public Domain Mark",
+        "url": "https://creativecommons.org/share-your-work/public-domain/pdm/"
+      },
+      "receipt": "research/v18/world-batch-10/detail-m7ysb8zx.json",
+      "manifestReceipt": null,
+      "targetRecord": {
+        "id": "tui-tonga-maritime-polity",
+        "title": {
+          "en": "Tuʻi Tonga: authority through island connections",
+          "zh": "图伊汤加：岛际联系中的权威"
+        },
+        "start": 1200,
+        "end": 1800,
+        "kind": "polity",
+        "theme": "states",
+        "region": "oceania",
+        "location": {
+          "lat": -21.18,
+          "lon": -175.12,
+          "label": "Tongatapu; representative chiefly center",
+          "labelI18n": {
+            "en": "Tongatapu; representative chiefly center",
+            "zh": "汤加塔布岛；首领权力的代表性中心"
+          },
+          "labelProvenance": "reviewed-display-translation"
+        },
+        "locationPrecision": "representative",
+        "importance": 4,
+        "summary": {
+          "en": "A political system centered on the Tuʻi Tonga lineage integrated the Tongan archipelago while maintaining relationships with communities farther away. Archaeologists connect its consolidation after about 1200 with monumental centers, chiefly tombs, tribute and the movement of people and valuables. Chemical analysis of stone tools identifies imports from Fiji and Samoa, making exchange visible even when perishable goods have disappeared.\n\nThe evidence supports a maritime political economy, rather than a solid block of land bounded like a modern state. An imported adze establishes movement of material; it does not by itself prove annexation of the quarry’s island or a direct voyage between two points. Following Tonga alongside Samoa and Fiji reveals different combinations of craft production, kinship and authority within a connected Pacific world. The broad interval here is a qualified political focus, not a claim of unchanged government or borders.",
+          "zh": "以图伊汤加谱系为中心的政治体系整合了汤加群岛，并与更远的社区保持关系。考古学家把约1200年以后的整合，与大型政治礼仪中心、首领墓葬、贡纳以及人员和贵重物品的流动相联系。石器化学分析识别出来自斐济和萨摩亚的材料，即使易腐物品已经消失，交换仍可留下证据。\n\n这些材料支持一种海洋政治经济，不能把它画成现代国家般的连续领土。进口石锛说明材料发生移动，不能单凭它认定采石岛被兼并，或两地存在一次直航。把汤加与萨摩亚、斐济并读，可以看到工艺生产、亲属关系和权威的不同组合。本条的宽泛年代是有保留的政治关注期，不表示政府与疆界一直不变。"
+        },
+        "dateNote": {
+          "en": "Approximate focus c. 1200–1800 follows archaeological/dynastic studies. Influence, exchange and direct rule are different claims.",
+          "zh": "约1200—1800年的关注期采用考古与王朝研究。影响、交换与直接统治是不同的论断。"
+        },
+        "sources": [
+          {
+            "title": "Stone tools from the ancient Tongan state reveal prehistoric interaction centers in the Central Pacific",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4115531/",
+            "publisher": "Geoffrey R. Clark and colleagues / PNAS, 2014",
+            "evidenceNote": "Inspected full paper: geochemical provenance of tools, chiefly centers, intensification after c. 1200 and distinction between interaction and control.",
+            "checkedAt": "2026-10-23",
+            "retrieval": "page-text"
+          },
+          {
+            "title": "Social memory and the Langi (Royal tombs) of Lapaha, Tonga",
+            "url": "https://openresearch-repository.anu.edu.au/items/19d8aae3-f0a4-4c72-8b28-c03f6c1d1a75",
+            "publisher": "Geoffrey Clark / Australian National University",
+            "evidenceNote": "Indexed abstract gives approximate Tuʻi Tonga phase c. 1200–1800; full repository page could not be retrieved.",
+            "checkedAt": "2026-10-23",
+            "retrieval": "indexed-excerpt"
+          }
+        ],
+        "relatedIds": [
+          "lapaha-tongan-centre",
+          "tonga-constitution",
+          "lapita-voyaging"
+        ],
+        "expansion": {
+          "workstreams": [
+            "OC1"
+          ],
+          "release": 2,
+          "sourceReview": "Evidence synthesis; per-source retrieval and limits stated"
+        },
+        "ongoing": false,
+        "keyFacts": {
+          "en": [
+            "Chiefly centers concentrated people and valuables.",
+            "Imported tools are evidence of interaction, not automatic proof of conquest."
+          ],
+          "zh": [
+            "首领中心汇集人员和贵重物品。",
+            "进口工具证明联系，不自动证明征服。"
+          ]
+        },
+        "countryGroup": "tonga",
+        "timeline": {
+          "level": "major",
+          "label": {
+            "en": "Tuʻi Tonga",
+            "zh": "图伊汤加"
+          }
+        }
+      },
+      "relationship": {
+        "en": "This 1777 engraving after Hodges depicts Tongan vessels encountered during Cook’s second voyage. The boats give a concrete view of maritime mobility within the story of island connections; the European voyage image is one observer’s representation.",
+        "zh": "这幅1777年依据霍奇斯作品制作的版画，描绘库克第二次航行期间见到的汤加船只。它为群岛联系中的海上流动提供具体图像，同时也是欧洲航行观察者的一种表现。"
+      },
+      "visualReview": "Actual downloaded pixels inspected on contact sheet; sugar engraving inspected separately full size. Content, orientation and legibility checked.",
+      "sha256": "0ef76b8b2719b25273baa94a0703957c14648994cfc8d0b0dff5699ad072be38",
+      "bytes": 273655,
+      "width": 1000,
+      "height": 642
+    },
+    {
+      "assetId": "world-batch-10-p342kq5t",
+      "status": "candidate-admitted",
+      "recordIds": [
+        "tui-tonga-maritime-polity"
+      ],
+      "sourceUrl": "https://wellcomecollection.org/works/p342kq5t",
+      "sourceTitle": "A gathering at the ceremonial drinking of kava and obeisance to the king in Tongatapu, Tonga. Engraving by W. Sharp, 1784, after J. Webber.",
+      "sourceDescription": "<p>They show reverence by touching the king's foot with their heads. Probably the event seen by Cook and Webber on 27 June 1777. The king is identified as Fatafei Poulaho, 36th Tu'i Tonga, c. 1770-1784 (Joppien and Smith, loc. cit.), also called Tupoulahi and Paulaho</p>",
+      "rights": {
+        "id": "pdm",
+        "type": "License",
+        "label": "Public Domain Mark",
+        "url": "https://creativecommons.org/share-your-work/public-domain/pdm/"
+      },
+      "receipt": "research/v18/world-batch-10/detail-p342kq5t.json",
+      "manifestReceipt": null,
+      "targetRecord": {
+        "id": "tui-tonga-maritime-polity",
+        "title": {
+          "en": "Tuʻi Tonga: authority through island connections",
+          "zh": "图伊汤加：岛际联系中的权威"
+        },
+        "start": 1200,
+        "end": 1800,
+        "kind": "polity",
+        "theme": "states",
+        "region": "oceania",
+        "location": {
+          "lat": -21.18,
+          "lon": -175.12,
+          "label": "Tongatapu; representative chiefly center",
+          "labelI18n": {
+            "en": "Tongatapu; representative chiefly center",
+            "zh": "汤加塔布岛；首领权力的代表性中心"
+          },
+          "labelProvenance": "reviewed-display-translation"
+        },
+        "locationPrecision": "representative",
+        "importance": 4,
+        "summary": {
+          "en": "A political system centered on the Tuʻi Tonga lineage integrated the Tongan archipelago while maintaining relationships with communities farther away. Archaeologists connect its consolidation after about 1200 with monumental centers, chiefly tombs, tribute and the movement of people and valuables. Chemical analysis of stone tools identifies imports from Fiji and Samoa, making exchange visible even when perishable goods have disappeared.\n\nThe evidence supports a maritime political economy, rather than a solid block of land bounded like a modern state. An imported adze establishes movement of material; it does not by itself prove annexation of the quarry’s island or a direct voyage between two points. Following Tonga alongside Samoa and Fiji reveals different combinations of craft production, kinship and authority within a connected Pacific world. The broad interval here is a qualified political focus, not a claim of unchanged government or borders.",
+          "zh": "以图伊汤加谱系为中心的政治体系整合了汤加群岛，并与更远的社区保持关系。考古学家把约1200年以后的整合，与大型政治礼仪中心、首领墓葬、贡纳以及人员和贵重物品的流动相联系。石器化学分析识别出来自斐济和萨摩亚的材料，即使易腐物品已经消失，交换仍可留下证据。\n\n这些材料支持一种海洋政治经济，不能把它画成现代国家般的连续领土。进口石锛说明材料发生移动，不能单凭它认定采石岛被兼并，或两地存在一次直航。把汤加与萨摩亚、斐济并读，可以看到工艺生产、亲属关系和权威的不同组合。本条的宽泛年代是有保留的政治关注期，不表示政府与疆界一直不变。"
+        },
+        "dateNote": {
+          "en": "Approximate focus c. 1200–1800 follows archaeological/dynastic studies. Influence, exchange and direct rule are different claims.",
+          "zh": "约1200—1800年的关注期采用考古与王朝研究。影响、交换与直接统治是不同的论断。"
+        },
+        "sources": [
+          {
+            "title": "Stone tools from the ancient Tongan state reveal prehistoric interaction centers in the Central Pacific",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4115531/",
+            "publisher": "Geoffrey R. Clark and colleagues / PNAS, 2014",
+            "evidenceNote": "Inspected full paper: geochemical provenance of tools, chiefly centers, intensification after c. 1200 and distinction between interaction and control.",
+            "checkedAt": "2026-10-23",
+            "retrieval": "page-text"
+          },
+          {
+            "title": "Social memory and the Langi (Royal tombs) of Lapaha, Tonga",
+            "url": "https://openresearch-repository.anu.edu.au/items/19d8aae3-f0a4-4c72-8b28-c03f6c1d1a75",
+            "publisher": "Geoffrey Clark / Australian National University",
+            "evidenceNote": "Indexed abstract gives approximate Tuʻi Tonga phase c. 1200–1800; full repository page could not be retrieved.",
+            "checkedAt": "2026-10-23",
+            "retrieval": "indexed-excerpt"
+          }
+        ],
+        "relatedIds": [
+          "lapaha-tongan-centre",
+          "tonga-constitution",
+          "lapita-voyaging"
+        ],
+        "expansion": {
+          "workstreams": [
+            "OC1"
+          ],
+          "release": 2,
+          "sourceReview": "Evidence synthesis; per-source retrieval and limits stated"
+        },
+        "ongoing": false,
+        "keyFacts": {
+          "en": [
+            "Chiefly centers concentrated people and valuables.",
+            "Imported tools are evidence of interaction, not automatic proof of conquest."
+          ],
+          "zh": [
+            "首领中心汇集人员和贵重物品。",
+            "进口工具证明联系，不自动证明征服。"
+          ]
+        },
+        "countryGroup": "tonga",
+        "timeline": {
+          "level": "major",
+          "label": {
+            "en": "Tuʻi Tonga",
+            "zh": "图伊汤加"
+          }
+        }
+      },
+      "relationship": {
+        "en": "The collection identifies the ruler as Tuʻi Tonga Fatafehi Paulaho and tentatively links the scene to June 1777. Published in 1784 after Webber, it makes ceremony and social hierarchy visible alongside the maritime connections shown by the boats.",
+        "zh": "馆藏将统治者认定为图伊汤加法塔费希·保拉霍，并暂将场景联系到1777年6月。这幅1784年依据韦伯作品出版的版画，在船只所呈现的海上联系之外，展现仪式和社会等级。"
+      },
+      "visualReview": "Actual downloaded pixels inspected on contact sheet; sugar engraving inspected separately full size. Content, orientation and legibility checked.",
+      "sha256": "4109da28ca14d8aab960dbff9292885929d76667611cf24b7acce936b686b103",
+      "bytes": 291237,
+      "width": 1000,
+      "height": 646
+    },
+    {
+      "assetId": "world-batch-10-yjmaexfb",
+      "status": "candidate-admitted",
+      "recordIds": [
+        "kamakura-shogunate"
+      ],
+      "sourceUrl": "https://wellcomecollection.org/works/yjmaexfb",
+      "sourceTitle": "The bronze statue of Dai-Bouts, near Kamakura, Japan. Photograph by Felice Beato, ca. 1868.",
+      "sourceDescription": null,
+      "rights": {
+        "id": "pdm",
+        "type": "License",
+        "label": "Public Domain Mark",
+        "url": "https://creativecommons.org/share-your-work/public-domain/pdm/"
+      },
+      "receipt": "research/v18/world-batch-10/detail-yjmaexfb.json",
+      "manifestReceipt": null,
+      "targetRecord": {
+        "id": "kamakura-shogunate",
+        "title": {
+          "en": "Kamakura: warrior government beside the imperial court",
+          "zh": "镰仓幕府：与天皇宫廷并存的武家政府"
+        },
+        "start": 1185,
+        "end": 1333,
+        "region": "east-asia",
+        "countryGroup": "japan",
+        "location": {
+          "lat": 35.32,
+          "lon": 139.55,
+          "label": "Kamakura; representative warrior government center"
+        },
+        "theme": "states",
+        "kind": "polity",
+        "importance": 4,
+        "locationPrecision": "representative",
+        "ongoing": false,
+        "summary": {
+          "en": "The Kamakura period brought a shift in political power toward provincial military families. Warrior government operated from Kamakura while the imperial court continued in Kyoto. This coexistence is more useful than imagining a clean replacement of every earlier institution.\n\nNew patrons supported Buddhist sculpture, narrative painting and religious movements. Connections with China also shaped learning and artistic production. The fall of the Kamakura government in 1333 began another contested political transition. Its institutional end should not be confused with the end of warrior influence or the disappearance of the imperial court.",
+          "zh": "镰仓时期，政治权力向地方军事家族转移。武家政府以镰仓为中心运作，天皇宫廷则继续存在于京都。理解这种并存，比想象此前所有机构被彻底替代更有帮助。\n\n新的资助者支持佛教雕塑、叙事绘画和宗教运动。与中国的联系也塑造学问和艺术生产。1333年镰仓政府倒台，开启另一段充满竞争的政治过渡。机构终结不能等同于武家影响消失，也不表示天皇宫廷不再存在。"
+        },
+        "dateNote": {
+          "en": "1185–1333 follows the political-period convention used by Columbia; formal shogunal appointment occurred in 1192. The Met combines Kamakura and Nanbokucho in a longer 1185–1392 art-history essay. Kamakura is the government point, not the imperial capital.",
+          "zh": "1185—1333年采用哥伦比亚大学的政治时期分期；正式征夷大将军任命在1192年。大都会文章将镰仓与南北朝合为1185—1392年的艺术史阶段。点位为幕府政府，不是天皇都城。"
+        },
+        "sources": [
+          {
+            "title": "Kamakura Period (1185–1333)",
+            "url": "https://afe.easia.columbia.edu/tps/1000ce_jp.htm",
+            "publisher": "Columbia University — Asia for Educators",
+            "evidenceNote": "Distinguishes warrior governments and political-period dates.",
+            "checkedAt": "2026-10-23"
+          },
+          {
+            "title": "Kamakura and Nanbokucho Periods",
+            "url": "https://www.metmuseum.org/essays/kamakura-and-nanbokucho-periods-1185-1392",
+            "publisher": "The Metropolitan Museum of Art",
+            "evidenceNote": "Describes political shift, new patrons and religious/artistic changes.",
+            "checkedAt": "2026-10-23"
+          }
+        ],
+        "keyFacts": {
+          "en": [
+            "The imperial court continued alongside warrior government.",
+            "1185 and the 1192 appointment represent different milestones."
+          ],
+          "zh": [
+            "天皇宫廷与武家政府并存。",
+            "1185年与1192年任命代表不同里程碑。"
+          ]
+        },
+        "relatedIds": [
+          "heian-court",
+          "muromachi-shogunate"
+        ],
+        "timeline": {
+          "level": "major",
+          "label": {
+            "en": "Kamakura",
+            "zh": "镰仓幕府"
+          }
+        }
+      },
+      "relationship": {
+        "en": "Beato’s photograph, catalogued around 1868, records the surviving Great Buddha at Kamakura. Read the later photograph alongside the entry’s account of Buddhist sculpture and patronage under warrior government.",
+        "zh": "馆藏约定年代为1868年的比托照片，记录镰仓留存的大佛。可将这张后世照片与条目关于武家政府时期佛教雕塑及资助的叙述并读。"
+      },
+      "visualReview": "Actual downloaded pixels inspected on contact sheet; sugar engraving inspected separately full size. Content, orientation and legibility checked.",
+      "sha256": "4f56ba2168eeb40e7baf2ab5d2c7bfb213481487b9a6054887292c466a9f4d5b",
+      "bytes": 301974,
+      "width": 823,
+      "height": 1000
+    },
+    {
+      "assetId": "world-batch-10-w6up2kpv",
+      "status": "candidate-admitted",
+      "recordIds": [
+        "early-chakri-monarchy"
+      ],
+      "sourceUrl": "https://wellcomecollection.org/works/w6up2kpv",
+      "sourceTitle": "Bangkok, Siam [Thailand]. Photograph, 1981, from a negative by John Thomson, 1865.",
+      "sourceDescription": "<p>View of Chao Phraya river from a height. The courtyard of a temple in the foreground, river behind. Similar to Thomson's negative number 392, but with the sun shining and lacking the two moored boats</p>",
+      "rights": {
+        "id": "pdm",
+        "type": "License",
+        "label": "Public Domain Mark",
+        "url": "https://creativecommons.org/share-your-work/public-domain/pdm/"
+      },
+      "receipt": "research/v18/world-batch-10/detail-w6up2kpv.json",
+      "manifestReceipt": null,
+      "targetRecord": {
+        "id": "early-chakri-monarchy",
+        "title": {
+          "en": "Early Chakri monarchy: a new capital and later reform",
+          "zh": "早期却克里王朝：新都城与后期改革"
+        },
+        "start": 1782,
+        "end": 1932,
+        "region": "southeast-asia",
+        "theme": "states",
+        "kind": "polity",
+        "location": {
+          "lat": 13.75,
+          "lon": 100.49,
+          "label": "Bangkok/Rattanakosin; representative court center"
+        },
+        "locationPrecision": "representative",
+        "importance": 4,
+        "summary": {
+          "en": "The Chakri court established its capital at Rattanakosin in 1782, across the river from Thonburi. The change reorganized royal space while reusing institutions and people from earlier political worlds. Palaces, religious foundations and river access made the capital an administrative and ceremonial center.\n\nThe long period before 1932 included changes in government and relationships with foreign powers rather than one static “traditional” order. The constitutional transformation of 1932 altered the monarchy’s governing framework; it did not end the dynasty itself. Keeping that distinction in the date note prevents the bar from suggesting that the Chakri royal house ceased to exist in 1932. The entry connects Thonburi and Ayutthaya to the established constitutional-change record through political institutions and a changing capital landscape.",
+          "zh": "1782年，却克里宫廷在吞武里对岸的拉达那哥欣建都。变化重组王室空间，同时沿用早期政治世界中的制度与人口。宫殿、宗教营建与河流通道，使都城成为行政和仪式中心。\n\n1932年以前的漫长时期包含政府及对外关系的变化，并非静止的“传统”秩序。1932年的宪制转变改变君主制的治理框架，却没有终结王朝本身。日期说明保留这一区分，避免长条暗示却克里王室于1932年消失。本条通过制度及变化中的都城景观，将吞武里和阿瑜陀耶连接到已有立宪转型记录。"
+        },
+        "dateNote": {
+          "en": "1782–1932 covers the preconstitutional phase, not the full dynasty or all later monarchy.",
+          "zh": "1782—1932年仅指立宪前阶段，不是王朝全部历史或后来君主制的终点。"
+        },
+        "sources": [
+          {
+            "title": "Bangkok celebrates foundation of Rattanakosin",
+            "url": "https://thailand.prd.go.th/en/content/category/detail/id/2078/iid/281319",
+            "publisher": "Government Public Relations Department, Thailand",
+            "evidenceNote": "1782 capital and Chakri foundation; modern commemoration is not neutral evidence of all later policy. Retrieval: page text inspected.",
+            "checkedAt": "2026-10-23",
+            "retrievalStatus": "page text inspected"
+          },
+          {
+            "title": "Thailand’s forgotten palace",
+            "url": "https://www.unesco.org/en/articles/thailands-forgotten-palace?hub=66947",
+            "publisher": "UNESCO",
+            "evidenceNote": "1767 Thonburi capital, 1768 palace and 1782 overthrow; later royal/naval reuse. Retrieval: page text inspected.",
+            "checkedAt": "2026-10-23",
+            "retrievalStatus": "page text inspected"
+          },
+          {
+            "title": "Biography of Pridi Banomyong",
+            "url": "https://bookshop.iseas.edu.sg/component/get/23589",
+            "publisher": "ISEAS–Yusof Ishak Institute",
+            "evidenceNote": "1900–1983, 1932 revolution, university foundation and Free Thai; adapted biographical account has commemorative framing. Retrieval: page text inspected.",
+            "checkedAt": "2026-10-23",
+            "retrievalStatus": "page text inspected"
+          }
+        ],
+        "relatedIds": [
+          "siam-constitutional-change",
+          "thonburi-kingdom",
+          "ayutthaya-kingdom"
+        ],
+        "keyFacts": {
+          "en": [
+            "Capital foundation and dynasty termination are different claims.",
+            "1932 changed the governing framework."
+          ],
+          "zh": [
+            "建都与王朝终结是不同断言。",
+            "1932年改变了治理框架。"
+          ]
+        },
+        "expansion": {
+          "workstreams": [
+            "SE1"
+          ],
+          "release": 1,
+          "sourceReview": "Sources individually inspected as described in each evidence note; original bilingual synthesis; no new territorial geometry."
+        },
+        "countryGroup": "early-chakri-monarchy",
+        "timeline": {
+          "level": "major",
+          "label": {
+            "en": "Early Chakri monarchy",
+            "zh": "早期却克里王朝"
+          }
+        }
+      },
+      "relationship": {
+        "en": "Thomson’s 1865 negative connects Bangkok’s religious buildings with the Chao Phraya River. The museum’s photograph was printed in 1981: distinguish the recorded city from the later photographic print.",
+        "zh": "汤姆森1865年的底片把曼谷宗教建筑与湄南河联系起来。馆藏照片于1981年印制：应区分被记录的城市年代与后来的照片印制年代。"
+      },
+      "visualReview": "Actual downloaded pixels inspected on contact sheet; sugar engraving inspected separately full size. Content, orientation and legibility checked.",
+      "sha256": "cba97f3400b1b5b2115632afd43679e66c92d6c269b99bd3ff78f1093a559d3d",
+      "bytes": 294510,
+      "width": 1000,
+      "height": 790
+    }
+  ],
+  "held": [
+    {
+      "sourceId": "d5kz6wfn",
+      "status": "rejected",
+      "reason": "In Copyright: excluded before download."
+    },
+    {
+      "sourceId": "ttmas5yb",
+      "status": "held",
+      "reason": "Damaged upper portion and near-duplicate Bangkok view; stronger view selected."
+    },
+    {
+      "sourceId": "nncrvjze",
+      "status": "held",
+      "reason": "Carthage ruins not identified as Punic rather than Roman in item record; held against ambiguous period association."
+    },
+    {
+      "sourceId": "grz7vy9y",
+      "status": "held",
+      "reason": "Valid arrival photograph, but two contrasting daily-life photographs already teach the target labour structure; avoid excess gallery count."
+    },
+    {
+      "sourceId": "utufbn8z",
+      "status": "held",
+      "reason": "Valid Petra ravine view held in favour of one architecture-and-landscape image."
+    },
+    {
+      "sourceId": "ymamuzuu",
+      "status": "held",
+      "reason": "Valid but undated battle engraving; selected dated Isandlwana satire as a single more interpretable primary document."
+    },
+    {
+      "sourceId": "keb6w8fx",
+      "status": "held",
+      "reason": "Third Tonga image held; title gives circa 1782 while production says 1784. Vessel and kava views already serve distinct maritime and authority purposes."
+    },
+    {
+      "query": "Aachen",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Adwa",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Akbar",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Ananda-Coomaraswamy",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Ayutthaya",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Babylon",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Barkcloth",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Benares",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Bengal-revenue",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Black-Death",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "British-factory",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Bukhara",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Calcutta-science",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Calcutta",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Carthage",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Ceylon-crafts",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Ceylon-tea",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Cholera",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Constantinople",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Cyrus",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Damascus-mosque",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Dejima",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Dreyfus",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Florence",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Fram",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Garibaldi",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Grand-Pre",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Great-Exhibition",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Gutenberg",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Hagia-Sophia",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Hammurabi",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Harlem",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Himeji",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Huguenot",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Isfahan",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Jain",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Kamakura",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Khiva",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Luther",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Macao",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Madura",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Magna-Carta",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Mughal",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Nagasaki-harbour",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Nagasaki",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Nara",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Palermo",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Panama-canal",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Petra",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Priest-Parsees",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Printing",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Royal-Society",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Samarkand",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Serfs-Russia",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Siam",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Sokoto",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Taj-Mahal",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Tipu",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Tonga",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Vaccination",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Vienna-congress",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Westphalia",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Zanzibar",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Zoroastrian",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "Zulu-war",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "plague",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "smallpox",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "suffrage",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    },
+    {
+      "query": "sugar-plantation",
+      "status": "no-additional-admission",
+      "reason": "Search results reviewed for direct target, date and narrative fit. Unrelated results, portraits of peripheral people, generic regional scenes and temporally mismatched religious representations excluded; exact admitted items listed separately."
+    }
+  ],
+  "copyManifest": [
+    {
+      "assetId": "world-batch-10-ezqx6c7n",
+      "source": "research/v18/world-batch-10/images/ezqx6c7n.jpg",
+      "destination": "dist/assets/history-media/world-batch-10-ezqx6c7n.jpg",
+      "sha256": "281c5e53892e0969766edfcae842fc16ddbeb9623f10cd48484433b04f80b815",
+      "bytes": 329462,
+      "width": 711,
+      "height": 1000
+    },
+    {
+      "assetId": "world-batch-10-uy9yc45v",
+      "source": "research/v18/world-batch-10/images/uy9yc45v.jpg",
+      "destination": "dist/assets/history-media/world-batch-10-uy9yc45v.jpg",
+      "sha256": "7a994ba03ed0225a1f43ef25e01141dcd45e4838b48c694f2f580e2608cc1777",
+      "bytes": 210500,
+      "width": 1000,
+      "height": 805
+    },
+    {
+      "assetId": "world-batch-10-vc6w6cxg",
+      "source": "research/v18/world-batch-10/images/vc6w6cxg.jpg",
+      "destination": "dist/assets/history-media/world-batch-10-vc6w6cxg.jpg",
+      "sha256": "f51a4365a2b1787c550c6f7746e2bc7a496470f6c4c90f8000342a6d70b4ff66",
+      "bytes": 233390,
+      "width": 1000,
+      "height": 802
+    },
+    {
+      "assetId": "world-batch-10-qz68qjan",
+      "source": "research/v18/world-batch-10/images/qz68qjan.jpg",
+      "destination": "dist/assets/history-media/world-batch-10-qz68qjan.jpg",
+      "sha256": "68c591c568a70cbcef889b6141bdedcd3da4a85bd5174b18cd5ceeb96bfdabda",
+      "bytes": 222612,
+      "width": 1000,
+      "height": 631
+    },
+    {
+      "assetId": "world-batch-10-gkxy2rh2",
+      "source": "research/v18/world-batch-10/images/gkxy2rh2.jpg",
+      "destination": "dist/assets/history-media/world-batch-10-gkxy2rh2.jpg",
+      "sha256": "18f2ff5a1b147bc876c4ad8f171678451cd6b66b78e19e362b3d47ea6380a7a0",
+      "bytes": 372813,
+      "width": 743,
+      "height": 1000
+    },
+    {
+      "assetId": "world-batch-10-m7ysb8zx",
+      "source": "research/v18/world-batch-10/images/m7ysb8zx.jpg",
+      "destination": "dist/assets/history-media/world-batch-10-m7ysb8zx.jpg",
+      "sha256": "0ef76b8b2719b25273baa94a0703957c14648994cfc8d0b0dff5699ad072be38",
+      "bytes": 273655,
+      "width": 1000,
+      "height": 642
+    },
+    {
+      "assetId": "world-batch-10-p342kq5t",
+      "source": "research/v18/world-batch-10/images/p342kq5t.jpg",
+      "destination": "dist/assets/history-media/world-batch-10-p342kq5t.jpg",
+      "sha256": "4109da28ca14d8aab960dbff9292885929d76667611cf24b7acce936b686b103",
+      "bytes": 291237,
+      "width": 1000,
+      "height": 646
+    },
+    {
+      "assetId": "world-batch-10-yjmaexfb",
+      "source": "research/v18/world-batch-10/images/yjmaexfb.jpg",
+      "destination": "dist/assets/history-media/world-batch-10-yjmaexfb.jpg",
+      "sha256": "4f56ba2168eeb40e7baf2ab5d2c7bfb213481487b9a6054887292c466a9f4d5b",
+      "bytes": 301974,
+      "width": 823,
+      "height": 1000
+    },
+    {
+      "assetId": "world-batch-10-w6up2kpv",
+      "source": "research/v18/world-batch-10/images/w6up2kpv.jpg",
+      "destination": "dist/assets/history-media/world-batch-10-w6up2kpv.jpg",
+      "sha256": "cba97f3400b1b5b2115632afd43679e66c92d6c269b99bd3ff78f1093a559d3d",
+      "bytes": 294510,
+      "width": 1000,
+      "height": 790
+    }
+  ],
+  "ownerAdmittedShard": {
+    "version": 2,
+    "reviewedAt": "2026-11-11",
+    "items": [
+      {
+        "id": "world-batch-10-ezqx6c7n",
+        "file": "assets/history-media/world-batch-10-ezqx6c7n.jpg",
+        "recordIds": [
+          "caribbean-sugar-labor"
+        ],
+        "kind": "artwork",
+        "representation": "historical-artwork",
+        "title": {
+          "en": "Sugar work from field to boiling house",
+          "zh": "从蔗田到煮糖房的劳动"
+        },
+        "alt": {
+          "en": "Workers cut and carry cane beside a mill and a long boiling house.",
+          "zh": "工人在磨坊和长形煮糖房旁砍伐、搬运甘蔗。"
+        },
+        "caption": {
+          "en": "A 1683 engraving after Leclerc’s design of about 1671 follows sugar production from cane fields to processing equipment.",
+          "zh": "1683年版画依据勒克莱尔约1671年的设计，将蔗田与加工器具组织在同一画面。"
+        },
+        "interpretation": {
+          "en": "Cutting, carrying, milling and boiling appear in one ordered composition. Compare the visible skilled tasks with the coercive labour system described in the story.",
+          "zh": "砍伐、搬运、碾压与煮糖被组织在一幅有序构图中。把可见的熟练工序与故事中的强制劳动制度对照阅读。"
+        },
+        "creator": "Engraver unidentified, after Sébastien Leclerc",
+        "date": "1683, after a design of circa 1671",
+        "institution": "Wellcome Collection",
+        "sourceUrl": "https://wellcomecollection.org/works/ezqx6c7n",
+        "imageUrl": "https://iiif.wellcomecollection.org/image/b12032402_L0077081.JP2/full/!1000,1000/0/default.jpg",
+        "downloadedFrom": "https://iiif.wellcomecollection.org/image/b12032402_L0077081.JP2/full/!1000,1000/0/default.jpg",
+        "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/ezqx6c7n?include=items,production,contributors",
+        "rights": {
+          "label": "Attribution 4.0 International (CC BY 4.0)",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "Wellcome Collection marks this digital item Attribution 4.0 International (CC BY 4.0). Credit: Wellcome Collection.",
+            "zh": "惠康收藏为此数字藏品标注知识共享署名4.0许可。图像来源：惠康收藏。"
+          }
+        },
+        "transformation": {
+          "en": "Official IIIF derivative downloaded unchanged; no local crop, retouching or recolouring.",
+          "zh": "下载官方IIIF衍生图像，未作本地裁剪、修饰或改色。"
+        },
+        "contextSources": [
+          {
+            "title": {
+              "en": "Slave Labor",
+              "zh": "奴隶劳动"
+            },
+            "url": "https://slaveryandremembrance.org/articles/article/?id=A0056"
+          }
+        ],
+        "width": 711,
+        "height": 1000,
+        "bytes": 329462,
+        "sha256": "281c5e53892e0969766edfcae842fc16ddbeb9623f10cd48484433b04f80b815",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "id": "world-batch-10-uy9yc45v",
+        "file": "assets/history-media/world-batch-10-uy9yc45v.jpg",
+        "recordIds": [
+          "panama-canal-labour"
+        ],
+        "kind": "photograph",
+        "representation": "historical-photograph",
+        "title": {
+          "en": "Dining at the Canal Commission hotel",
+          "zh": "运河委员会旅馆的餐厅"
+        },
+        "alt": {
+          "en": "Diners sit at rows of tables under the rafters of a large dining hall.",
+          "zh": "就餐者坐在大餐厅屋架下的一排排餐桌旁。"
+        },
+        "caption": {
+          "en": "American and European canal workers dining at Culebra, about 1910, as identified by the collection.",
+          "zh": "约1910年库莱布拉的运河工人用餐；馆藏辨识为美国及欧洲劳动者。"
+        },
+        "interpretation": {
+          "en": "Rows of tables turn meals into an organized service. Compare this large dining hall with the workers’ households at Cristóbal.",
+          "zh": "成排餐桌显示有组织的用餐服务。把这间大餐厅与克里斯托瓦尔的工人住房对照起来。"
+        },
+        "creator": "Unidentified photographer",
+        "date": "Circa 1910",
+        "institution": "Wellcome Collection",
+        "sourceUrl": "https://wellcomecollection.org/works/uy9yc45v",
+        "imageUrl": "https://iiif.wellcomecollection.org/image/V0030216/full/!1000,1000/0/default.jpg",
+        "downloadedFrom": "https://iiif.wellcomecollection.org/image/V0030216/full/!1000,1000/0/default.jpg",
+        "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/uy9yc45v?include=items,production,contributors",
+        "rights": {
+          "label": "Public Domain Mark",
+          "url": "https://creativecommons.org/share-your-work/public-domain/pdm/",
+          "note": {
+            "en": "Wellcome Collection marks this digital item Public Domain Mark. Credit: Wellcome Collection.",
+            "zh": "惠康收藏为此数字藏品标注公共领域标识。图像来源：惠康收藏。"
+          }
+        },
+        "transformation": {
+          "en": "Official IIIF derivative downloaded unchanged; no local crop, retouching or recolouring.",
+          "zh": "下载官方IIIF衍生图像，未作本地裁剪、修饰或改色。"
+        },
+        "contextSources": [
+          {
+            "title": {
+              "en": "Work Force",
+              "zh": "劳动力"
+            },
+            "url": "https://pancanal.com/en/work-force/"
+          }
+        ],
+        "width": 1000,
+        "height": 805,
+        "bytes": 210500,
+        "sha256": "7a994ba03ed0225a1f43ef25e01141dcd45e4838b48c694f2f580e2608cc1777",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "id": "world-batch-10-vc6w6cxg",
+        "file": "assets/history-media/world-batch-10-vc6w6cxg.jpg",
+        "recordIds": [
+          "panama-canal-labour"
+        ],
+        "kind": "photograph",
+        "representation": "historical-photograph",
+        "title": {
+          "en": "Workers’ households at Cristóbal",
+          "zh": "克里斯托瓦尔的工人家庭住房"
+        },
+        "alt": {
+          "en": "Wooden dwellings line a raised walkway, with children and other residents outside.",
+          "zh": "木制住房排列在架高的步道两侧，孩子与其他居民站在屋外。"
+        },
+        "caption": {
+          "en": "Housing for West Indian and Panamanian canal workers at Cristóbal, about 1910, with children in the walkway.",
+          "zh": "约1910年克里斯托瓦尔的西印度与巴拿马运河工人住房，步道上可见儿童。"
+        },
+        "interpretation": {
+          "en": "Wooden dwellings open onto shared raised walkways. The children make household life visible within the history of a construction workforce.",
+          "zh": "木制住房面向共用的架高步道。孩子的身影让家庭生活进入工程劳工的历史。"
+        },
+        "creator": "Unidentified photographer",
+        "date": "Circa 1910",
+        "institution": "Wellcome Collection",
+        "sourceUrl": "https://wellcomecollection.org/works/vc6w6cxg",
+        "imageUrl": "https://iiif.wellcomecollection.org/image/V0030222/full/!1000,1000/0/default.jpg",
+        "downloadedFrom": "https://iiif.wellcomecollection.org/image/V0030222/full/!1000,1000/0/default.jpg",
+        "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/vc6w6cxg?include=items,production,contributors",
+        "rights": {
+          "label": "Public Domain Mark",
+          "url": "https://creativecommons.org/share-your-work/public-domain/pdm/",
+          "note": {
+            "en": "Wellcome Collection marks this digital item Public Domain Mark. Credit: Wellcome Collection.",
+            "zh": "惠康收藏为此数字藏品标注公共领域标识。图像来源：惠康收藏。"
+          }
+        },
+        "transformation": {
+          "en": "Official IIIF derivative downloaded unchanged; no local crop, retouching or recolouring.",
+          "zh": "下载官方IIIF衍生图像，未作本地裁剪、修饰或改色。"
+        },
+        "contextSources": [
+          {
+            "title": {
+              "en": "Work Force",
+              "zh": "劳动力"
+            },
+            "url": "https://pancanal.com/en/work-force/"
+          }
+        ],
+        "width": 1000,
+        "height": 802,
+        "bytes": 233390,
+        "sha256": "f51a4365a2b1787c550c6f7746e2bc7a496470f6c4c90f8000342a6d70b4ff66",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "id": "world-batch-10-qz68qjan",
+        "file": "assets/history-media/world-batch-10-qz68qjan.jpg",
+        "recordIds": [
+          "petra-caravan-water"
+        ],
+        "kind": "artwork",
+        "representation": "historical-artwork",
+        "title": {
+          "en": "Petra’s architecture and rock faces",
+          "zh": "佩特拉的建筑与岩壁"
+        },
+        "alt": {
+          "en": "Carved façades rise from reddish cliffs beside small figures and a rocky foreground.",
+          "zh": "雕刻立面从红褐色峭壁中耸起，旁有小幅人物，前景为岩石地面。"
+        },
+        "caption": {
+          "en": "Haghe’s 1849 lithograph after Roberts presents Petra’s surviving rock-cut architecture.",
+          "zh": "哈格依罗伯茨作品制作的1849年石版画，描绘佩特拉留存的岩凿建筑。"
+        },
+        "interpretation": {
+          "en": "The small figures accentuate the scale of carved façades and cliffs. Follow where masonry-like architectural forms emerge from the rock itself.",
+          "zh": "小幅人物衬出雕凿立面与峭壁的尺度。观察仿佛砌筑的建筑形式，怎样直接从岩体中浮现。"
+        },
+        "creator": "Louis Haghe after David Roberts",
+        "date": "1849",
+        "institution": "Wellcome Collection",
+        "sourceUrl": "https://wellcomecollection.org/works/qz68qjan",
+        "imageUrl": "https://iiif.wellcomecollection.org/image/V0049429/full/!1000,1000/0/default.jpg",
+        "downloadedFrom": "https://iiif.wellcomecollection.org/image/V0049429/full/!1000,1000/0/default.jpg",
+        "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/qz68qjan?include=items,production,contributors",
+        "rights": {
+          "label": "Public Domain Mark",
+          "url": "https://creativecommons.org/share-your-work/public-domain/pdm/",
+          "note": {
+            "en": "Wellcome Collection marks this digital item Public Domain Mark. Credit: Wellcome Collection.",
+            "zh": "惠康收藏为此数字藏品标注公共领域标识。图像来源：惠康收藏。"
+          }
+        },
+        "transformation": {
+          "en": "Official IIIF derivative downloaded unchanged; no local crop, retouching or recolouring.",
+          "zh": "下载官方IIIF衍生图像，未作本地裁剪、修饰或改色。"
+        },
+        "contextSources": [
+          {
+            "title": {
+              "en": "Petra",
+              "zh": "佩特拉"
+            },
+            "url": "https://whc.unesco.org/en/list/326/"
+          }
+        ],
+        "width": 1000,
+        "height": 631,
+        "bytes": 222612,
+        "sha256": "68c591c568a70cbcef889b6141bdedcd3da4a85bd5174b18cd5ceeb96bfdabda",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "id": "world-batch-10-gkxy2rh2",
+        "file": "assets/history-media/world-batch-10-gkxy2rh2.jpg",
+        "recordIds": [
+          "zulu-kingdom-phase"
+        ],
+        "kind": "artwork",
+        "representation": "historical-artwork",
+        "title": {
+          "en": "A British lesson after Isandlwana",
+          "zh": "伊散德尔瓦纳之后的英国教训"
+        },
+        "alt": {
+          "en": "A Zulu man writes “Despise not your enemy” on a blackboard before a seated British figure.",
+          "zh": "一名祖鲁男子在黑板上写下“不要轻视你的敌人”，一名英国形象坐在前方。"
+        },
+        "caption": {
+          "en": "An 1879 British cartoon turns the defeat at Isandlwana into a lesson against underestimating an opponent.",
+          "zh": "1879年英国讽刺画把伊散德尔瓦纳战败化为轻敌的教训。"
+        },
+        "interpretation": {
+          "en": "The chalkboard reverses the roles of teacher and pupil. British complacency is the target, while the figures retain the stereotypes of British imperial satire.",
+          "zh": "黑板将教师与学生的角色颠倒：英国的自满受到讽刺，人物仍带有英国帝国讽刺画的刻板形象。"
+        },
+        "creator": "Swain after John Tenniel",
+        "date": "1879",
+        "institution": "Wellcome Collection",
+        "sourceUrl": "https://wellcomecollection.org/works/gkxy2rh2",
+        "imageUrl": "https://iiif.wellcomecollection.org/image/V0040082/full/!1000,1000/0/default.jpg",
+        "downloadedFrom": "https://iiif.wellcomecollection.org/image/V0040082/full/!1000,1000/0/default.jpg",
+        "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/gkxy2rh2?include=items,production,contributors",
+        "rights": {
+          "label": "Public Domain Mark",
+          "url": "https://creativecommons.org/share-your-work/public-domain/pdm/",
+          "note": {
+            "en": "Wellcome Collection marks this digital item Public Domain Mark. Credit: Wellcome Collection.",
+            "zh": "惠康收藏为此数字藏品标注公共领域标识。图像来源：惠康收藏。"
+          }
+        },
+        "transformation": {
+          "en": "Official IIIF derivative downloaded unchanged; no local crop, retouching or recolouring.",
+          "zh": "下载官方IIIF衍生图像，未作本地裁剪、修饰或改色。"
+        },
+        "contextSources": [
+          {
+            "title": {
+              "en": "Zulu Community",
+              "zh": "祖鲁社群"
+            },
+            "url": "https://sahistory.org.za/article/zulu-community"
+          }
+        ],
+        "width": 743,
+        "height": 1000,
+        "bytes": 372813,
+        "sha256": "18f2ff5a1b147bc876c4ad8f171678451cd6b66b78e19e362b3d47ea6380a7a0",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "id": "world-batch-10-m7ysb8zx",
+        "file": "assets/history-media/world-batch-10-m7ysb8zx.jpg",
+        "recordIds": [
+          "tui-tonga-maritime-polity"
+        ],
+        "kind": "artwork",
+        "representation": "historical-artwork",
+        "title": {
+          "en": "Tongan boats in a voyage engraving",
+          "zh": "航海版画中的汤加船只"
+        },
+        "alt": {
+          "en": "Large sailing vessels and smaller canoes occupy a choppy sea beneath dark clouds.",
+          "zh": "大型帆船与较小的独木舟航行在乌云下起伏的海面上。"
+        },
+        "caption": {
+          "en": "Tongan sailing vessels in a 1777 engraving after observations made during Cook’s second voyage.",
+          "zh": "1777年版画中的汤加帆船，依据库克第二次航行期间的观察绘制。"
+        },
+        "interpretation": {
+          "en": "Compare the tall sails, low hulls and smaller canoes. This European voyage image gives maritime mobility a visible form within the story of island connections.",
+          "zh": "比较高帆、低矮船身与小型独木舟。这幅欧洲航海图像，让岛际联系中的海上流动获得具体形态。"
+        },
+        "creator": "William Watts after William Hodges",
+        "date": "1777",
+        "institution": "Wellcome Collection",
+        "sourceUrl": "https://wellcomecollection.org/works/m7ysb8zx",
+        "imageUrl": "https://iiif.wellcomecollection.org/image/V0044832/full/!1000,1000/0/default.jpg",
+        "downloadedFrom": "https://iiif.wellcomecollection.org/image/V0044832/full/!1000,1000/0/default.jpg",
+        "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/m7ysb8zx?include=items,production,contributors",
+        "rights": {
+          "label": "Public Domain Mark",
+          "url": "https://creativecommons.org/share-your-work/public-domain/pdm/",
+          "note": {
+            "en": "Wellcome Collection marks this digital item Public Domain Mark. Credit: Wellcome Collection.",
+            "zh": "惠康收藏为此数字藏品标注公共领域标识。图像来源：惠康收藏。"
+          }
+        },
+        "transformation": {
+          "en": "Official IIIF derivative downloaded unchanged; no local crop, retouching or recolouring.",
+          "zh": "下载官方IIIF衍生图像，未作本地裁剪、修饰或改色。"
+        },
+        "contextSources": [
+          {
+            "title": {
+              "en": "Stone tools from the ancient Tongan state reveal prehistoric interaction centers in the Central Pacific",
+              "zh": "古代汤加国家的石器揭示太平洋中部史前交往中心"
+            },
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4115531/"
+          }
+        ],
+        "width": 1000,
+        "height": 642,
+        "bytes": 273655,
+        "sha256": "0ef76b8b2719b25273baa94a0703957c14648994cfc8d0b0dff5699ad072be38",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "id": "world-batch-10-p342kq5t",
+        "file": "assets/history-media/world-batch-10-p342kq5t.jpg",
+        "recordIds": [
+          "tui-tonga-maritime-polity"
+        ],
+        "kind": "artwork",
+        "representation": "historical-artwork",
+        "title": {
+          "en": "Kava and chiefly authority on Tongatapu",
+          "zh": "汤加塔布的卡瓦饮礼与首领权威"
+        },
+        "alt": {
+          "en": "A crowd sits in a large roofed hall around a central ceremonial gathering.",
+          "zh": "人群坐在宽大的有顶大厅内，围绕中央的仪式聚会。"
+        },
+        "caption": {
+          "en": "A 1784 engraving of kava ceremony and deference to Tuʻi Tonga Paulaho; the collection tentatively connects it to June 1777.",
+          "zh": "1784年版画表现卡瓦饮礼及对图伊汤加保拉霍的敬礼；馆方暂将场景系于1777年6月。"
+        },
+        "interpretation": {
+          "en": "Rows of seated figures direct attention toward the central ceremony. The composition makes social rank visible alongside the seafaring technology in the paired boat image.",
+          "zh": "成排而坐的人群把视线引向中央仪式。构图使社会等级可见，与另一幅船图中的航海技术形成对读。"
+        },
+        "creator": "William Sharp after John Webber",
+        "date": "1784; probably depicts a ceremony in June 1777",
+        "institution": "Wellcome Collection",
+        "sourceUrl": "https://wellcomecollection.org/works/p342kq5t",
+        "imageUrl": "https://iiif.wellcomecollection.org/image/V0019243/full/!1000,1000/0/default.jpg",
+        "downloadedFrom": "https://iiif.wellcomecollection.org/image/V0019243/full/!1000,1000/0/default.jpg",
+        "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/p342kq5t?include=items,production,contributors",
+        "rights": {
+          "label": "Public Domain Mark",
+          "url": "https://creativecommons.org/share-your-work/public-domain/pdm/",
+          "note": {
+            "en": "Wellcome Collection marks this digital item Public Domain Mark. Credit: Wellcome Collection.",
+            "zh": "惠康收藏为此数字藏品标注公共领域标识。图像来源：惠康收藏。"
+          }
+        },
+        "transformation": {
+          "en": "Official IIIF derivative downloaded unchanged; no local crop, retouching or recolouring.",
+          "zh": "下载官方IIIF衍生图像，未作本地裁剪、修饰或改色。"
+        },
+        "contextSources": [
+          {
+            "title": {
+              "en": "Stone tools from the ancient Tongan state reveal prehistoric interaction centers in the Central Pacific",
+              "zh": "古代汤加国家的石器揭示太平洋中部史前交往中心"
+            },
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4115531/"
+          }
+        ],
+        "width": 1000,
+        "height": 646,
+        "bytes": 291237,
+        "sha256": "4109da28ca14d8aab960dbff9292885929d76667611cf24b7acce936b686b103",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "id": "world-batch-10-yjmaexfb",
+        "file": "assets/history-media/world-batch-10-yjmaexfb.jpg",
+        "recordIds": [
+          "kamakura-shogunate"
+        ],
+        "kind": "photograph",
+        "representation": "historical-photograph",
+        "title": {
+          "en": "Kamakura’s Great Buddha photographed",
+          "zh": "镜头中的镰仓大佛"
+        },
+        "alt": {
+          "en": "A seated bronze Buddha fills the image above an offering table and incense vessels.",
+          "zh": "端坐的铜佛占据画面主体，下方有供桌与香器。"
+        },
+        "caption": {
+          "en": "Beato’s photograph of Kamakura’s surviving Great Buddha, cataloged about 1868.",
+          "zh": "比托拍摄镰仓留存的大佛，馆藏定年约1868年。"
+        },
+        "interpretation": {
+          "en": "Offerings, vessels and trees surround the monumental seated figure. The later photograph records a surviving Buddhist sculpture in Kamakura’s changing religious landscape.",
+          "zh": "供物、器皿与树木围绕巨大的坐像。这幅较晚照片记录了镰仓宗教景观中留存的佛教雕塑。"
+        },
+        "creator": "Felice Beato",
+        "date": "Circa 1868",
+        "institution": "Wellcome Collection",
+        "sourceUrl": "https://wellcomecollection.org/works/yjmaexfb",
+        "imageUrl": "https://iiif.wellcomecollection.org/image/V0037653/full/!1000,1000/0/default.jpg",
+        "downloadedFrom": "https://iiif.wellcomecollection.org/image/V0037653/full/!1000,1000/0/default.jpg",
+        "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/yjmaexfb?include=items,production,contributors",
+        "rights": {
+          "label": "Public Domain Mark",
+          "url": "https://creativecommons.org/share-your-work/public-domain/pdm/",
+          "note": {
+            "en": "Wellcome Collection marks this digital item Public Domain Mark. Credit: Wellcome Collection.",
+            "zh": "惠康收藏为此数字藏品标注公共领域标识。图像来源：惠康收藏。"
+          }
+        },
+        "transformation": {
+          "en": "Official IIIF derivative downloaded unchanged; no local crop, retouching or recolouring.",
+          "zh": "下载官方IIIF衍生图像，未作本地裁剪、修饰或改色。"
+        },
+        "contextSources": [
+          {
+            "title": {
+              "en": "Kamakura Period (1185–1333)",
+              "zh": "镰仓时期（1185—1333年）"
+            },
+            "url": "https://afe.easia.columbia.edu/tps/1000ce_jp.htm"
+          }
+        ],
+        "width": 823,
+        "height": 1000,
+        "bytes": 301974,
+        "sha256": "4f56ba2168eeb40e7baf2ab5d2c7bfb213481487b9a6054887292c466a9f4d5b",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "id": "world-batch-10-w6up2kpv",
+        "file": "assets/history-media/world-batch-10-w6up2kpv.jpg",
+        "recordIds": [
+          "early-chakri-monarchy"
+        ],
+        "kind": "photograph",
+        "representation": "historical-photograph",
+        "title": {
+          "en": "Bangkok’s river and temple roofs",
+          "zh": "曼谷的河流与寺院屋顶"
+        },
+        "alt": {
+          "en": "Temple roofs and a courtyard overlook a wide river and the buildings on its far bank.",
+          "zh": "寺院屋顶和庭院俯临宽阔河流，远岸分布着建筑。"
+        },
+        "caption": {
+          "en": "Bangkok seen in Thomson’s 1865 negative, reproduced in this 1981 photographic print.",
+          "zh": "汤姆森1865年底片记录的曼谷，此件照片于1981年印制。"
+        },
+        "interpretation": {
+          "en": "Layered temple roofs lead the eye toward the Chao Phraya River and its far bank. Religious buildings and river access share the same capital landscape.",
+          "zh": "层叠寺院屋顶把视线引向湄南河与远岸。宗教建筑和河流通道共同构成都城景观。"
+        },
+        "creator": "John Thomson",
+        "date": "Negative 1865; print 1981",
+        "institution": "Wellcome Collection",
+        "sourceUrl": "https://wellcomecollection.org/works/w6up2kpv",
+        "imageUrl": "https://iiif.wellcomecollection.org/image/V0036850/full/!1000,1000/0/default.jpg",
+        "downloadedFrom": "https://iiif.wellcomecollection.org/image/V0036850/full/!1000,1000/0/default.jpg",
+        "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/w6up2kpv?include=items,production,contributors",
+        "rights": {
+          "label": "Public Domain Mark",
+          "url": "https://creativecommons.org/share-your-work/public-domain/pdm/",
+          "note": {
+            "en": "Wellcome Collection marks this digital item Public Domain Mark. Credit: Wellcome Collection.",
+            "zh": "惠康收藏为此数字藏品标注公共领域标识。图像来源：惠康收藏。"
+          }
+        },
+        "transformation": {
+          "en": "Official IIIF derivative downloaded unchanged; no local crop, retouching or recolouring.",
+          "zh": "下载官方IIIF衍生图像，未作本地裁剪、修饰或改色。"
+        },
+        "contextSources": [
+          {
+            "title": {
+              "en": "Bangkok celebrates foundation of Rattanakosin",
+              "zh": "曼谷纪念拉达那哥欣建都"
+            },
+            "url": "https://thailand.prd.go.th/en/content/category/detail/id/2078/iid/281319"
+          }
+        ],
+        "width": 1000,
+        "height": 790,
+        "bytes": 294510,
+        "sha256": "cba97f3400b1b5b2115632afd43679e66c92d6c269b99bd3ff78f1093a559d3d",
+        "checkedAt": "2026-11-11"
+      }
+    ],
+    "associations": [
+      {
+        "assetId": "world-batch-10-ezqx6c7n",
+        "recordId": "caribbean-sugar-labor",
+        "role": "depicts-subject",
+        "context": {
+          "en": "Cutting, carrying, milling and boiling appear in one ordered composition. Compare the visible skilled tasks with the coercive labour system described in the story.",
+          "zh": "砍伐、搬运、碾压与煮糖被组织在一幅有序构图中。把可见的熟练工序与故事中的强制劳动制度对照阅读。"
+        },
+        "evidenceUrl": "https://wellcomecollection.org/works/ezqx6c7n",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "assetId": "world-batch-10-uy9yc45v",
+        "recordId": "panama-canal-labour",
+        "role": "depicts-subject",
+        "context": {
+          "en": "Rows of tables turn meals into an organized service. Compare this large dining hall with the workers’ households at Cristóbal.",
+          "zh": "成排餐桌显示有组织的用餐服务。把这间大餐厅与克里斯托瓦尔的工人住房对照起来。"
+        },
+        "evidenceUrl": "https://wellcomecollection.org/works/uy9yc45v",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "assetId": "world-batch-10-vc6w6cxg",
+        "recordId": "panama-canal-labour",
+        "role": "depicts-subject",
+        "context": {
+          "en": "Wooden dwellings open onto shared raised walkways. The children make household life visible within the history of a construction workforce.",
+          "zh": "木制住房面向共用的架高步道。孩子的身影让家庭生活进入工程劳工的历史。"
+        },
+        "evidenceUrl": "https://wellcomecollection.org/works/vc6w6cxg",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "assetId": "world-batch-10-qz68qjan",
+        "recordId": "petra-caravan-water",
+        "role": "depicts-subject",
+        "context": {
+          "en": "The small figures accentuate the scale of carved façades and cliffs. Follow where masonry-like architectural forms emerge from the rock itself.",
+          "zh": "小幅人物衬出雕凿立面与峭壁的尺度。观察仿佛砌筑的建筑形式，怎样直接从岩体中浮现。"
+        },
+        "evidenceUrl": "https://wellcomecollection.org/works/qz68qjan",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "assetId": "world-batch-10-gkxy2rh2",
+        "recordId": "zulu-kingdom-phase",
+        "role": "historical-context",
+        "context": {
+          "en": "The chalkboard reverses the roles of teacher and pupil. British complacency is the target, while the figures retain the stereotypes of British imperial satire.",
+          "zh": "黑板将教师与学生的角色颠倒：英国的自满受到讽刺，人物仍带有英国帝国讽刺画的刻板形象。"
+        },
+        "evidenceUrl": "https://wellcomecollection.org/works/gkxy2rh2",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "assetId": "world-batch-10-m7ysb8zx",
+        "recordId": "tui-tonga-maritime-polity",
+        "role": "depicts-subject",
+        "context": {
+          "en": "Compare the tall sails, low hulls and smaller canoes. This European voyage image gives maritime mobility a visible form within the story of island connections.",
+          "zh": "比较高帆、低矮船身与小型独木舟。这幅欧洲航海图像，让岛际联系中的海上流动获得具体形态。"
+        },
+        "evidenceUrl": "https://wellcomecollection.org/works/m7ysb8zx",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "assetId": "world-batch-10-p342kq5t",
+        "recordId": "tui-tonga-maritime-polity",
+        "role": "depicts-subject",
+        "context": {
+          "en": "Rows of seated figures direct attention toward the central ceremony. The composition makes social rank visible alongside the seafaring technology in the paired boat image.",
+          "zh": "成排而坐的人群把视线引向中央仪式。构图使社会等级可见，与另一幅船图中的航海技术形成对读。"
+        },
+        "evidenceUrl": "https://wellcomecollection.org/works/p342kq5t",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "assetId": "world-batch-10-yjmaexfb",
+        "recordId": "kamakura-shogunate",
+        "role": "historical-context",
+        "context": {
+          "en": "Offerings, vessels and trees surround the monumental seated figure. The later photograph records a surviving Buddhist sculpture in Kamakura’s changing religious landscape.",
+          "zh": "供物、器皿与树木围绕巨大的坐像。这幅较晚照片记录了镰仓宗教景观中留存的佛教雕塑。"
+        },
+        "evidenceUrl": "https://wellcomecollection.org/works/yjmaexfb",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "assetId": "world-batch-10-w6up2kpv",
+        "recordId": "early-chakri-monarchy",
+        "role": "depicts-subject",
+        "context": {
+          "en": "Layered temple roofs lead the eye toward the Chao Phraya River and its far bank. Religious buildings and river access share the same capital landscape.",
+          "zh": "层叠寺院屋顶把视线引向湄南河与远岸。宗教建筑和河流通道共同构成都城景观。"
+        },
+        "evidenceUrl": "https://wellcomecollection.org/works/w6up2kpv",
+        "checkedAt": "2026-11-11"
+      }
+    ]
+  }
+}

@@ -2,6 +2,26 @@
 // Structural coverage is not a certification of historical claims or borders.
 export const CONTENT_MANIFEST = 'content-expansion-v18.json';
 
+// Editorial tightening does not promote historical evidence or overwrite source files.
+export function applySummaryEdits(records, edits={items:[]}) {
+  if(!Array.isArray(edits.items))throw Error('Invalid summary-edit list');
+  const byId=new Map(records.map(row=>[row.id,row])),seen=new Set();
+  for(const edit of edits.items){
+    const row=byId.get(edit.recordId);
+    if(!row||seen.has(edit.recordId))throw Error('Unknown or duplicate summary-edit target '+edit.recordId);
+    seen.add(edit.recordId);
+    if(Object.keys(edit).some(key=>!['recordId','before','after','rationale'].includes(key)))throw Error(edit.recordId+': summary edits cannot change other fields');
+    if(!/^\d{4}-\d{2}-\d{2}$/.test(edits.editedAt||'')||!edit.rationale?.trim())throw Error(edit.recordId+': missing editorial provenance');
+    for(const lang of ['en','zh']){
+      if(typeof edit.after?.[lang]!=='string'||!edit.after[lang].trim())throw Error(edit.recordId+': missing bilingual edited summary');
+      if(edit.before?.[lang]!==row.summary?.[lang])throw Error(edit.recordId+': summary changed since editorial review');
+    }
+    if(Object.keys(edit.before).some(key=>!['en','zh'].includes(key))||Object.keys(edit.after).some(key=>!['en','zh'].includes(key)))throw Error(edit.recordId+': unsupported summary field');
+    byId.set(row.id,{...row,summary:{...edit.after},editorialRevision:{editedAt:edits.editedAt,scope:'summary-only',previousSummary:{...row.summary},rationale:edit.rationale}});
+  }
+  return records.map(row=>byId.get(row.id));
+}
+
 export function partitionExpansion(records) {
   return {histories:records.filter(r=>r.kind!=='person'),people:records.filter(r=>r.kind==='person')};
 }

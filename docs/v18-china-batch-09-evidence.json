@@ -1,0 +1,3295 @@
+{
+  "reviewedAt": "2026-11-11",
+  "ownerReview": "Fifteen authentic derivatives admitted after pixel and full-target review. Exact dates distinguish original works, inscriptions and later editions. Chinese creator Li Tang is corrected to 李棠 from the source transcription. Taiwan story separates 1787 dispatch and renaming from the 1788 campaign endpoint before accepting the conch connection. Qing 023 and Qing 028 remain held. No prior hold is silently overridden. All image bytes and 339 previous metadata translations are unchanged.",
+  "accepted": [
+    {
+      "assetId": "china-batch-09-liuyuxi",
+      "catalogId": 35797,
+      "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/35797?dep=P",
+      "sourceReceipt": "35797-source.html",
+      "sourceText": "35797-source.txt",
+      "downloadReceipt": "35797-receipt.json",
+      "sourceSha256": "fb565eb9cda0af32396967dbf846573f439f5eb803c5854c4b607cd75ec88378",
+      "rightsQuote": "中階圖像與文字均無須申請、不限用途、不用付費即可公開使用，請於適當位置呈現姓名標示。",
+      "credit": "清李志井李凌雲歷代詩家像 冊 劉禹錫。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+      "pixelReviewed": true,
+      "review": "Full selected derivative visually inspected. Album sides and visible subject checked; scroll sections explicitly identified. Unchanged museum derivative.",
+      "targetEvidence": [
+        {
+          "record": {
+            "id": "china-person-liuyuxi",
+            "sourceProfileId": "china-person-liuyuxi",
+            "name": {
+              "en": "Liu Yuxi",
+              "zh": "刘禹锡"
+            },
+            "title": {
+              "en": "Liu Yuxi: a poet’s voice across provincial life",
+              "zh": "刘禹锡：地方生活中的诗人声音"
+            },
+            "start": 772,
+            "end": 842,
+            "region": "east-asia",
+            "kind": "person",
+            "theme": "culture",
+            "importance": 4,
+            "location": {
+              "lat": 34.27,
+              "lon": 108.94,
+              "label": "Chang'an, imperial capital represented by modern Xi'an",
+              "labelI18n": {
+                "en": "Chang'an, imperial capital represented by modern Xi'an",
+                "zh": "长安，以今西安代表的帝都"
+              }
+            },
+            "locationPrecision": "representative",
+            "summary": {
+              "en": "Liu Yuxi entered official life through the jinshi examination in 793, but political conflict repeatedly displaced him from the center. Provincial service and banishment became part of the conditions in which he wrote. His poetry draws energy from folk literary forms, bringing cultivated composition into conversation with songs and voices beyond courtly circles. He also wrote philosophical prose, including discussions of Heaven that place him within the intellectual arguments of the Tang. His association with other exiled writers helps connect individual poems to networks of friendship and office. These works preserve a continuing capacity for response, rather than a career defined only by exclusion from the capital.",
+              "zh": "刘禹锡于793年进士及第，进入仕途，政治冲突却多次使他离开权力中心。地方任职与贬谪成为写作的生活条件。他的诗歌吸收民间文学形式，使文人创作与宫廷圈子以外的歌声相联系；哲学散文则通过对“天”等问题的讨论，参与唐代思想论辩。与其他贬谪文人的交往，也使具体诗作可以放回友情和官职构成的网络。作品呈现的是持续回应生活的能力，而不只是一条被都城排斥的仕途。"
+            },
+            "dateNote": {
+              "en": "772–842 follows the cited lifespan; 793 is the documented examination year. No undated individual poem is assigned an invented year.",
+              "zh": "772—842年据所引生卒年，793年进士有据；不为未定年的具体诗作虚设年份。"
+            },
+            "sources": [
+              {
+                "title": "Liu Yuxi",
+                "publisher": "Chinese University of Hong Kong, Research Centre for Translation",
+                "url": "https://www.cuhk.edu.hk/rct/renditions/authors/liuyx.html",
+                "evidenceNote": "Supports 772–842 lifespan, 793 jinshi, banishment, philosophical prose and engagement with folk literature. Does not date individual poems.",
+                "evidenceNoteZh": "支持772—842年、793年进士、贬谪、哲学散文及对民间文学的吸收；不为具体诗作定年。",
+                "checkedAt": "2026-11-09",
+                "retrieval": "opened-page"
+              },
+              {
+                "title": "Liu Zongyuan",
+                "publisher": "Yongzhou local history office",
+                "url": "https://dsfz.yzcity.gov.cn/yzdqw/yzmr/202005/b3b0274dc6b74da09e40d314d9245ce4.shtml",
+                "evidenceNote": "Supports 793 examination, exile after the 805 reform failure, Yongzhou writings, 815 Liuzhou appointment and death there in 819. Unchecked ideological appraisals and anecdotes are excluded.",
+                "evidenceNoteZh": "支持793年进士、805年革新失败后贬谪、永州写作、815年出任柳州刺史及819年卒于当地；不采用未经核对的思想标签与轶闻。",
+                "checkedAt": "2026-11-09",
+                "retrieval": "opened-page"
+              }
+            ],
+            "milestones": [
+              {
+                "year": 772,
+                "title": {
+                  "en": "Birth",
+                  "zh": "出生"
+                },
+                "description": {
+                  "en": "The university biographical note dates Liu Yuxi’s birth to 772; the point represents his later official world.",
+                  "zh": "大学传记资料记其生于772年；标点代表后来任职的政治世界。"
+                },
+                "location": {
+                  "lat": 34.27,
+                  "lon": 108.94,
+                  "label": "Chang'an, representative official setting; not a birth or death site",
+                  "labelI18n": {
+                    "en": "Chang'an, representative official setting; not a birth or death site",
+                    "zh": "长安，代表性仕宦背景；不是出生或死亡地认定"
+                  }
+                }
+              },
+              {
+                "year": 793,
+                "title": {
+                  "en": "Jinshi degree",
+                  "zh": "进士及第"
+                },
+                "description": {
+                  "en": "Liu Yuxi passed the same examination year as Liu Zongyuan.",
+                  "zh": "刘禹锡与柳宗元同年进士及第。"
+                },
+                "location": {
+                  "lat": 34.27,
+                  "lon": 108.94,
+                  "label": "Chang'an, imperial capital represented by modern Xi'an",
+                  "labelI18n": {
+                    "en": "Chang'an, imperial capital represented by modern Xi'an",
+                    "zh": "长安，以今西安代表的帝都"
+                  }
+                }
+              },
+              {
+                "year": 842,
+                "title": {
+                  "en": "Death",
+                  "zh": "逝世"
+                },
+                "description": {
+                  "en": "His poems and philosophical writings survived the end of his official life.",
+                  "zh": "官场生涯终结后，诗歌与哲学文字继续流传。"
+                },
+                "location": {
+                  "lat": 34.27,
+                  "lon": 108.94,
+                  "label": "Chang'an, representative official setting; not a birth or death site",
+                  "labelI18n": {
+                    "en": "Chang'an, representative official setting; not a birth or death site",
+                    "zh": "长安，代表性仕宦背景；不是出生或死亡地认定"
+                  }
+                }
+              }
+            ],
+            "relatedIds": [
+              "china-person-liuzongyuan",
+              "china-person-baijuyi"
+            ],
+            "expansion": {
+              "workstreams": [
+                "CH1",
+                "CH2"
+              ],
+              "release": 11,
+              "edition": "v17",
+              "sourceReview": "Original bilingual biography; dates and claims checked against the individually described sources. No donor prose reproduced.",
+              "reviewLimit": {
+                "en": "Selected career episodes; the mapped points represent named cities or regions, not exact buildings or a reconstructed itinerary.",
+                "zh": "选取仕途与创作片段；地图点代表所述城市或地区，并非确切建筑或复原行程。"
+              }
+            }
+          },
+          "previouslyCovered": false,
+          "connection": {
+            "en": "The named poet appears beside a written life. The portrait belongs to the later reception of his writing and career, rather than to his Tang lifetime.",
+            "zh": "具名诗人与生平文字并列，展示后世如何记忆其诗文与仕宦，不是唐代生前写照。"
+          }
+        }
+      ],
+      "fullInstitutionalTextFile": "35797-source.txt",
+      "identityEvidence": "基本資料 --> 文物統一編號 購畫001090N000000008 作品號 購畫00109000008 品名 清李志井李凌雲歷代詩家像 冊 劉禹錫 Portraits of Poets Through the Ages: Liu Yuxi 分類 繪畫 作者 李志井,李凌雲 書體 楷書 作品語文 漢文 釋文 劉禹錫。字夢得。彭城人。登□元進士。宏辭二科。精于古文。多才麗。名重一時。辟淮南杜佑掌書記。曲蒙禮異。後入朝為監察御史。轉屯田員外郎。判度支監鐵案兼崇陵判官。後以王叔文黨。斥連州刺史。在道貶朗州司馬。久之召還。作玄都觀詩。語涉譏忿。當路不喜。復出為播州刺史。裴度以其母老。請稍內遷。憲宗初不之聽。終不欲傷其親。易連州。又徒夔州。後由和刺史入為主客郎中。復作遊玄都觀詩。詆切相近。聞者益薄之。令分司東都。裴度薦授禮部郎。集賢殿直學士。度罷。復刺蘇州。以政最。賜金紫。徙汝同二州。再遷賓客分司。會昌時加撿校禮部尚書。卒年七十二。贈戶部尚書。李凌雲錄。 質地 --> 質地位置 質地 本幅 紙 題跋資料 --> 題跋類別 作者 位置 款識 書體 全文 作者款識 李志井 本幅 劉禹錫。（隸書）夢得素善詩。晚節尤精。嘗與元微之。韋楚老在白樂天第。各賦金陵懷古詩。獨先成。樂天覽之曰。四人探驪龍。子先獲珠。所餘麟爪何用耶。于是罷唱。樂天與之酬復煩多。因□其詩。以時無在其右者。其鋒森然少□。當推為詩豪。獎許其警句。如雲裡高山頭白早。海中仙果子生遲。沉舟側畔千帆過。病□□頭萬木春。以為在處。應有神物護持。李志井摹。（楷書） 楷書 印記資料 --> 印記類別 印主 印記 作者印記 李凌雲 我友 作者印記 李凌雲 李凌雲印 作者印記 李凌雲 延龍 主題 --> 主題類別 主題(第一層) 主題(第二層) 主題說明 主要主題 人物 官員（臣） 劉禹錫 其他主題 器用 傢俱（屏風） 技法 --> 技法 技法細目 人物衣紋描法(勻稱線條) "
+    },
+    {
+      "assetId": "china-batch-09-wangyangming-landscape",
+      "catalogId": 18491,
+      "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/18491?dep=P",
+      "sourceReceipt": "18491-source.html",
+      "sourceText": "18491-source.txt",
+      "downloadReceipt": "18491-receipt.json",
+      "sourceSha256": "de430e1384e56b8118d2d18d1b99db5b0456779e12baf17f733b12d3f7534008",
+      "rightsQuote": "中階圖像與文字均無須申請、不限用途、不用付費即可公開使用，請於適當位置呈現姓名標示。",
+      "credit": "明王守仁山水畫真跡 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+      "pixelReviewed": true,
+      "review": "Full selected derivative visually inspected. Album sides and visible subject checked; scroll sections explicitly identified. Unchanged museum derivative.",
+      "targetEvidence": [
+        {
+          "record": {
+            "id": "china-person-wangyangming",
+            "sourceProfileId": "china-person-wangyangming",
+            "name": {
+              "en": "Wang Yangming",
+              "zh": "王阳明"
+            },
+            "title": {
+              "en": "Wang Yangming: moral knowledge tested in action",
+              "zh": "王阳明：在行动中检验道德认识"
+            },
+            "start": 1499,
+            "end": 1529,
+            "region": "east-asia",
+            "kind": "person",
+            "theme": "knowledge",
+            "importance": 4,
+            "location": {
+              "lat": 26.87,
+              "lon": 106.6,
+              "label": "Guizhou, representative setting of exile and reflection",
+              "labelI18n": {
+                "en": "Guizhou, representative setting of exile and reflection",
+                "zh": "贵州，贬谪与思考的代表地区"
+              }
+            },
+            "locationPrecision": "representative",
+            "summary": {
+              "en": "Wang Yangming, also known as Wang Shouren, passed the highest civil examination in 1499. Punishment in 1506 sent him toward exile in Guizhou, where the insight associated with 1508 became a turning point in his philosophical account. He argued that moral knowing was not merely information stored before action: genuine understanding and conduct belonged together. His emphasis on innate moral awareness also challenged a learning practice centered only on accumulating external knowledge. Return to office brought military and administrative responsibilities, keeping his philosophy close to questions of public action. The resulting tradition asks a practical question: what does someone truly know if that knowledge leaves their conduct untouched?",
+              "zh": "王阳明本名王守仁，1499年通过最高级文官考试。1506年受罚后，他被贬往贵州；与1508年相联系的悟道，成为其思想历程的转折。他主张道德认识并非行动前储存的一套信息，真实理解与行为本来相连。对内在良知的重视，也挑战了只向外积累知识的学习方式。重返仕途后，军事和行政职责使其哲学持续接触公共行动的问题。由此形成的思想传统提出一个切实追问：如果某种知识丝毫不改变人的行为，究竟能说已经懂得了什么？"
+            },
+            "dateNote": {
+              "en": "1499–1529 selects examination through death. The 1508 insight is the biographical tradition discussed by the philosophical reference; its map point represents the Guizhou region.",
+              "zh": "1499—1529年选取科举至卒年。1508年悟道据哲学资料讨论的传记传统；标点代表贵州地区。"
+            },
+            "sources": [
+              {
+                "title": "Wang Yangming",
+                "publisher": "Stanford Encyclopedia of Philosophy",
+                "url": "https://plato.stanford.edu/entries/wang-yangming/",
+                "evidenceNote": "Biographical section gives 1499 examination, 1506 punishment and Guizhou exile, 1508 insight and 1529 death; philosophical sections explain unity of knowledge and action and innate moral knowing.",
+                "evidenceNoteZh": "传记部分记1499年科举、1506年受刑与贬贵州、1508年悟道及1529年卒；思想部分解释知行合一与良知。",
+                "checkedAt": "2026-11-09",
+                "retrieval": "opened-page"
+              }
+            ],
+            "milestones": [
+              {
+                "year": 1499,
+                "title": {
+                  "en": "The highest examination",
+                  "zh": "通过最高级科举"
+                },
+                "description": {
+                  "en": "Examination success brought Wang into imperial service.",
+                  "zh": "科举成功使王氏进入皇朝仕途。"
+                },
+                "location": {
+                  "lat": 39.91,
+                  "lon": 116.39,
+                  "label": "Beijing, representative capital",
+                  "labelI18n": {
+                    "en": "Beijing, representative capital",
+                    "zh": "北京，代表性都城"
+                  }
+                }
+              },
+              {
+                "year": 1506,
+                "title": {
+                  "en": "Punishment and exile",
+                  "zh": "受刑与贬谪"
+                },
+                "description": {
+                  "en": "A political confrontation led to punishment and removal to Guizhou.",
+                  "zh": "政治冲突导致受刑并贬往贵州。"
+                },
+                "location": {
+                  "lat": 26.87,
+                  "lon": 106.6,
+                  "label": "Guizhou, destination of exile; not a punishment site",
+                  "labelI18n": {
+                    "en": "Guizhou, destination of exile; not a punishment site",
+                    "zh": "贵州，贬谪目的地；不是受刑地点"
+                  }
+                }
+              },
+              {
+                "year": 1508,
+                "title": {
+                  "en": "A philosophical turning point",
+                  "zh": "思想转折"
+                },
+                "description": {
+                  "en": "The biographical account associates exile with a new understanding of moral knowledge.",
+                  "zh": "传记叙述将贬谪生活与新的道德认识联系起来。"
+                },
+                "location": {
+                  "lat": 26.87,
+                  "lon": 106.6,
+                  "label": "Guizhou, representative region",
+                  "labelI18n": {
+                    "en": "Guizhou, representative region",
+                    "zh": "贵州，代表性地区"
+                  }
+                }
+              }
+            ],
+            "relatedIds": [
+              "ming-dynasty",
+              "china-person-wanganshi"
+            ],
+            "expansion": {
+              "workstreams": [
+                "CH1",
+                "CH2"
+              ],
+              "release": 11,
+              "edition": "v17",
+              "sourceReview": "Original bilingual biography; dates and claims checked against the individually described sources. No donor prose reproduced.",
+              "reviewLimit": {
+                "en": "Selected career episodes; the mapped points represent named cities or regions, not exact buildings or a reconstructed itinerary.",
+                "zh": "选取仕途与创作片段；地图点代表所述城市或地区，并非确切建筑或复原行程。"
+              }
+            }
+          },
+          "previouslyCovered": true,
+          "connection": {
+            "en": "The philosopher also practiced painting and calligraphy. The museum identifies Ni Zan’s influence in this quiet composition, expanding the biography beyond Wang’s teaching and public career.",
+            "zh": "这位思想家亦从事书画；馆方指出宁静构图受到倪瓒影响，使其生平不止于讲学与政治活动。"
+          }
+        }
+      ],
+      "fullInstitutionalTextFile": "18491-source.txt",
+      "identityEvidence": "基本資料 --> 文物統一編號 贈畫000608N000000000 作品號 贈畫00060800000 品名 明王守仁山水畫真跡 軸 Authentic Landscape Painting 分類 繪畫 作者 王守仁,Wang Shouren 創作時間 明武宗正德元年（1506） 數量 一軸 典藏尺寸 --> 位置 尺寸(公分) 全幅 224x46 本幅 82.6x29 質地 --> 質地位置 質地 本幅 紙 題跋資料 --> 題跋類別 作者 位置 款識 書體 全文 作者款識 王守仁 印記 expand_more 本幅 安得於嘉林甘泉間。構一草舍以老是鄉。無懷葛天之民求之未遠。蓋學問之道隨處即是。惟宜讀書以先之。丙寅（西元一五０六年）正月七日為籽餘年先生。守仁學。 行書 印主 印記 王守仁 陽明山人 簽 包首 明王文成公真跡。辛未孟夏老父銘青所贈。懺綺閣主人□□。 印記資料 --> 印記類別 印主 印記 收傳印記 子孫億世家傳之寶 收傳印記 朱之赤 休寧朱之赤珍藏圖書 收傳印記 朱之赤 朱臥庵收藏印 收傳印記 朱之赤 第一希有 收傳印記 劉恕 寒碧主人 收傳印記 劉恕 蓉峰鑑藏 主題 --> 主題類別 主題(第一層) 主題(第二層) 主題說明 主要主題 山水 其他主題 山水 江河、湖海 其他主題 建築 房舍 其他主題 樹木 其他主題 樹木 松 技法 --> 技法 技法細目 苔點 寫意 參考資料 --> 類別 參考資料 內容簡介 王守仁（1472－1528）字伯安，浙江餘姚人。明代大學者，創立知行合一的「陽明學說」，對後世影響甚深。由於其事功偉大，書畫成就卻少有人知。 本幅繪一河兩岸，遠岸巨岩在望，中空處有幾道小水瀑，近岸則是三樹兩屋，空寂而無一人。這種寧靜的天地，從構圖和呈現的意境，很明顯的受到元代畫家倪瓚的影響。畫上款題，也直接的呼應出作者的希望。七行行草書題款，寫得自由在自在，書法的風格則是集王羲之字的〈聖教序〉為主，瘦勁而具骨氣。 張學良先生捐贈於民國88年。(20110204) Description Wang Shouren (style name Bo’an) was a native of Yuyao in Zhejiang. A great scholar of the Ming dynasty, he was founder of the philosophical “School of the Mind” (integrating thought and action) and had a profound influence on later generations. Due to Wang’s achievements as a thinker, few people realize that he was also an accomplished painter and calligrapher. This painting shows a stretch of water between two banks. Large rocks appear by the distant shore along with the cataracts of a waterfall. On the foreground shore is an area of three trees and two buildings devoid of any human activity. Both in terms of composition and atmosphere, this sparse and tranquil scene clearly reflects the influence of the landscape style associated with the Yuan painter Ni Zan. The inscription at the top of the work also directly reflects the artist’s aspirations. The semi-cursive script inscription in seven lines is written with freedom and ease, the calligraphic style based mostly on the “Sacred Teachings” compilation of Wang Xizhi characters, revealing both slenderness and spirit. Mr. Chang Hsueh-liang donated this painting to the National Palace Museum in 1999.(20110204) Description 王守仁(1472-1528)字伯安，浙江餘姚人。他是明代的大學者，創立知行合一的「陽明學說」對後世影響甚深。由於王守仁事功偉大，大家反而少知到他書畫皆有成就。本幅一河兩岸，遠岸巨岩在望，中空處有幾道小水瀑，近岸則是三樹兩屋，空寂而無一人。這種寧靜的天地，從構圖和呈現的意境，很明顯的受到元代畫家倪瓚的影響。畫上款題，也直接的呼應出作者的希望。七行行草書題款，寫得自由在自在，書法的風格則是以王羲之的「聖教序」為主，瘦勁而具骨氣。本幅為張學良將軍捐贈。 Description Wang Shou-jen (also known as Wang Yang-ming), a native of Chekiang, was the founding philosopher of the School of the Mind. Influential for his great achievements in the Ming dynasty as a thinker, few people realize that he was also accomplished in painting and calligraphy in his own right. This painting, dated to1506, shows two banks separated by a stretch of water. In the foreground are three sparse trees and two empty huts. A waterfall appears falling from the opposing cliff. This sparse and tranquil scene clearly was influenced by the landscape style of the Yuan painter Ni Tsan both in composition and technique. The inscription at the top echoes the free and elegant manner associated with Wang. Based on the “Sacred Teachings” work of calligraphy by Wang Hsi-chih, it has a sense of slenderness and spirit. This work was donated to the National Palace Museum by General Chang Hsueh-liang. 收藏著錄 故宮受贈文物選萃，頁73、166-167 "
+    },
+    {
+      "assetId": "china-batch-09-jinchuan-memorial",
+      "catalogId": 3141,
+      "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/3141?dep=P",
+      "sourceReceipt": "3141-source.html",
+      "sourceText": "3141-source.txt",
+      "downloadReceipt": "3141-receipt.json",
+      "sourceSha256": "f6562b973950480dd24715bed00e8a895cdc724761defd47a298adcc5e794d8f",
+      "rightsQuote": "中階圖像與文字均無須申請、不限用途、不用付費即可公開使用，請於適當位置呈現姓名標示。",
+      "credit": "皇武遠揚平定兩金川大捷恭紀 冊。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+      "pixelReviewed": true,
+      "review": "Full selected derivative visually inspected. Album sides and visible subject checked; scroll sections explicitly identified. Unchanged museum derivative.",
+      "targetEvidence": [
+        {
+          "record": {
+            "id": "china-landmark-264",
+            "title": {
+              "en": "After a five-year war Agui subdues Greater and Lesser Jinchuan, abolishing its native chiefdoms",
+              "zh": "阿桂历五年平定大小金川，废土司设屯置厅，改土归流"
+            },
+            "start": 1776,
+            "end": 1776,
+            "location": {
+              "lon": 102.07,
+              "lat": 31.48,
+              "label": "Greater & Lesser Jinchuan (Jinchuan, Aba, Sichuan)",
+              "labelI18n": {
+                "en": "Greater & Lesser Jinchuan (Jinchuan, Aba, Sichuan)",
+                "zh": "大小金川（今四川阿坝金川）"
+              },
+              "labelProvenance": "inherited-source-place-pair"
+            },
+            "region": "east-asia",
+            "theme": "states",
+            "kind": "event",
+            "importance": 1,
+            "summary": {
+              "en": "After a five-year war Agui subdues Greater and Lesser Jinchuan, abolishing its native chiefdoms",
+              "zh": "阿桂历五年平定大小金川，废土司设屯置厅，改土归流"
+            },
+            "dateNote": {
+              "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+              "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+            },
+            "locationPrecision": "representative",
+            "sources": [
+              {
+                "title": "Chronicles of the Realm — js/lore_data.js (frozen source dataset)",
+                "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/lore_data.js",
+                "publisher": "DeanChensj / Chronicles of the Realm",
+                "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+                "checkedAt": "2026-10-23"
+              }
+            ],
+            "aliases": [
+              "大小金川（今四川阿坝金川）",
+              "Greater & Lesser Jinchuan (Jinchuan, Aba, Sichuan)"
+            ],
+            "provenance": {
+              "dataset": "jiangshan",
+              "status": "inherited",
+              "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+              "periodId": "qing",
+              "periodIds": [
+                "qing"
+              ],
+              "sourceRecords": [
+                {
+                  "file": "js/lore_data.js",
+                  "path": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/263",
+                  "index": 263
+                }
+              ],
+              "note": {
+                "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+                "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+              }
+            },
+            "relatedIds": [
+              "qing-dynasty"
+            ]
+          },
+          "previouslyCovered": false,
+          "connection": {
+            "en": "The heading explicitly announces completion of the two Jinchuan campaigns. Its formal praise records the court’s celebration of military success and should be read as a partisan voice.",
+            "zh": "题首明确写“平定两金川大功告成”；颂词记录宫廷如何庆祝战事，应作为具有立场的当时声音阅读。"
+          }
+        }
+      ],
+      "fullInstitutionalTextFile": "3141-source.txt",
+      "identityEvidence": "基本資料 --> 文物統一編號 故書000935N000000000 more 故書000935N000000001 故書000935N000000002 故書000935N000000003 故書000935N000000004 故書000935N000000005 故書000935N000000006 故書000935N000000007 故書000935N000000008 故書000935N000000009 故書000935N000000010 故書000935N000000011 故書000935N000000012 故書000935N000000013 故書000935N000000014 故書000935N000000015 故書000935N000000016 作品號 故書00093500000 品名 皇武遠揚平定兩金川大捷恭紀 冊 Record on the Great Victory in the Pacification of Jinchuan 分類 法書 書體 楷書 數量 一冊：十六開（本幅十六開十六幅） 作品語文 漢文 釋文 平定兩金川大功告成恭紀四言頌謹序。臣聞三才並立。人和得天地之先。五禮聿脩。軍律濟德威之用。變伐光於丹浦。令肅風雷陳師。肇自青邱威申。弧矢粵稽。往牒紀事非誣。幸際昌期。歌功倍烈。欽維我皇帝陛下。治洽重熙。威稜互徼。徧函覆於八紘。允矣皇風戴韙。恢幅員於六幕。芔然帝澤。遐均放諸。日竁月𩨳而遙。無思不服極之。譯象狄鞮以外。率土皆臣。乃金川之錯壤。介玉壘之邊隅。服屬土酋。敢抗顏於閫寄。憑陵地險。頻荐食於鄰番。幸憲典暫。寬前此已邀祝。網顧兇殘彌恣。今茲復逞。跳梁靖聚。蟻之紛爭。事非得已。懲貪狼之抗拒。罰在必行。皇上授鉞元戎。運籌萬里。簡三韓之功。旅甄七萃之雄。師動參旗而匝地。眾慰望雲。揚齋斧以摩天師。如時雨先敚。郅支之壘。進犁谷蠡之庭。趲拉全疆。遂摧枯而振朽。促浸絕徼旋。移楯以駐牙。宜喜絨布之鴟巢。攻其要隘。勒圍噶依之兔窟。搗以全鋒。守四十日而奚逃。挈二千人而就縛。從此筰都西去。統歸釋警。投烽還令。越巂東來。永屬含淳。服教膚公迅奏。捷書與賀表齊飛。吉語歡傳。庥氣共祥。光洊至皇上乘陽和而舉典謁陵寢。以展虔翠。葆初移紅旗早至。乃諏吉日。祗奉安輿。迎懿嘏於岱宗。遞頒異數。告鴻勳於闕里。疊沛殊恩。雲爛日華。葳禮則聖人旋蹕。馬騰士飽。敵愾而大。帥還朝聽。笳鼓之聲。揚鉅典矞。皇乎郊勞。執渠魁而俘獻壯。猷彪炳夫。神謨延懋賞以躬桓。繪凌烟之毛髮。庸酬五載。奕葉菁茅。詔讀十行。萬年磐石。臣等圖披王會。群欽大烈。耿光化被。陳常咸慶。戢干櫜矢。誠懽誠忭。願申禱祝之葵衷。以詠以歌。曷罄形容於蚓曲。謹拜稽首以獻頌曰。惟皇御寓。無逸作所。天幬地緪。光被四表。叶蹻足抗首。聖神文武。來享來王。悉臣悉主。粵闢西陲。撫鎮華離。疆理回部。營屯伊犁。聲教暨訖。中外均禧。繄兩金川。冉駹蠻裔。哤語注鳴習險倚勢。戊辰受降帝恩。曲賜何馴。弗馴何悖。助悖趲拉。逆豎曰僧格桑。侵佔鄂什。蠶食狙狂。釁搆郎卡。睗睒跳踉。子索諾木。益肆凶橫。叶維此二酋。讎如水火。既而黨惡。天誅首禍。特簡元戎。肆伐么髍。震蜀之西。從天而下。羽衛期門。吉林索倫。捷牧美諾。鼠竄狼奔。移兵促浸。電掣雲屯。聚而殲旃。窖屍出獻。叶帝褒元老。運長擊短。乘勝摧堅。欽承廟算。冞入其阻。勒圍痛洗。叶礟火訇轟。賊何能免。剔搜巢窟。為噶喇依。媍姑頭目。捕鹵靡遺。渠魁面縛。梏拳鉤羅。叶三捷露布。速於星飛。我皇履盛。雝雝肅肅。謁陵告勳。以介景福。躬掖慈寧。延釐泰嶽。釋奠闕里。隆禮盛樂。敷天裒對。闓澤霑濡。省刑廣額。賜復蠲租。神人既洽。迴蹕凝庥。叶西師聿至。震旅樂凱。帝勞于郊。崇臺崔嵬。珪組以錫。丹青以待。命之建櫜。永永萬載。御門受俘。懋典熊熊。廟社同獻。戢兵何眾。叶聖人讓善。曰此武功。惟天用休。聖祖神宗。文母至德。徽號尊崇。聖孝彌篤。文治彌隆。悅以勞民。歌傳枤杜。奮以濯征。截聞淮浦。漢定氐羌。象林銅柱。唐平元濟。韓碑柳雅。叶孰比我后。登三函五。小臣獻頌。敬述皇武。原任廣東惠州府知府臣李棠。原任浙江紹興府知府臣高象震。原任江西贛州府知府臣丁亭。原任廣西思恩府知府臣邢璵。原任廣西鎮安府知府臣屠士相。原任湖北襄陽府知府臣程夢元。原任順天府北路同知臣王裕銓。原任山西汾州府同知臣李納璧。原任安徽直隸和州知州臣劉長城。原任廣東化州知州臣王墀。原任雲南寧州知州臣張埛。原任雲南宣威州知州臣謝佐邦。原任貴州威寧州知州臣王葆元。原任東城副指揮臣金堡。原任中城兵馬司吏目臣羅性。原任北城兵馬司吏目臣席約。原任順天府武清縣知縣臣甄克允。原任直隸鹽山縣知縣臣陳洪書。原任直隸寧晉縣知縣臣顧永中。原任安徽桐城縣知縣臣涂寧先。原任安徽鳳陽縣知縣臣李元標。原任安徽涇縣知縣臣李峰。原任安徽旌德縣知縣臣張天佑。原任浙江錢塘縣知縣臣孫震。原任這將慈谿縣知縣臣翁纘祖。原任浙江壽昌縣知縣臣劉翬。原任江西都昌縣知縣臣徐士縉。原任福建長汀縣知縣臣周麟生。原任湖北竹谿縣知縣臣范金。原任湖南長沙縣知縣臣李蒔。原任湖南安化縣知縣臣劉光汾。原任湖南安化縣知縣臣夏至選。原任湖南清泉縣知縣臣鄒健。原任河南夏邑縣知縣臣孫默。原任河南輝縣知縣臣賀芬。原任河南淇縣知縣臣廖為霖。原任山東齊河縣知縣臣范麗光。原任山西介休縣知縣臣陳曾公。原任山東濰縣知縣臣李含芳。原任山西稷山縣知縣臣米步青。原任山東臨朐縣知縣臣俞開甲。原任山西安邑縣知縣臣馬良騏。原任陜西榆林縣知縣臣孫讓。原任廣東長樂縣知縣臣丁履仁。原任廣東東莞縣知縣臣王溥。原任廣西昭平縣知縣臣李隆善。原任四川華陽縣知縣臣張素。原任安徽懷寧縣降調知縣臣陳瑞。原任山西虞鄉縣降調知縣臣蕭際恩。原任雲南署五嶆通判降調知縣臣黃佾。原任廣西鎮安府降三級留任教授候選知縣臣朱瑴。原署湖南東安縣降調知縣臣孟濟。原署廣西歸順州知州龍英州州同臣熊名相。原署雲南威信州州判候補經歷臣鄭琯。原任福建清縣洪白場鹽大使臣周天益。原任直隸東鹿縣縣丞臣吳士謹。原任福建南平縣縣丞臣宋大組。原任湖南益陽縣縣丞臣魏承輔。原任河南試用縣丞借補鹿邑縣典史臣李大榮。原任河南許州吏目臣陳萼棣。原任湖南茶陵州吏目臣金瑞。原任雲南路南州吏目臣李玢。原任順天通州和合驛巡檢臣陳大有。原任江蘇青浦縣澱山司巡檢臣郭家齊。原任江蘇贛榆縣青口司巡檢臣孫廷楷。原任浙江定海縣沈嶴司巡檢臣郭維剛。原任江西廬陵縣富田司巡檢臣張得清。原任福建閩縣閩安鎮巡檢臣張廷魁。原任福建永定縣巡檢臣張士珍。原任順天宛平縣典史臣曹興祖。原任直隸天津縣典史陳高克諧。原任直隸平鄉縣典史臣安生。原任直隸沙河縣典史臣席紹明。原任江蘇東臺縣典史陳莫光佐。原任安徽懷寧縣典史臣李如碧。原任浙江山陰縣典史臣沈夢麟。原任福建連江縣典史臣趙淵。原任湖北房縣典史臣吳杕。原任湖南瀏陽縣典史臣何上選。原任廣西桂平縣典史臣彭章玫。原任雲南師宗縣典史臣曹文裕。原任貴州普定縣典史臣鄭開業。原任河南南陽縣林水驛驛丞臣熊斌恭進。 典藏尺寸 --> 位置 尺寸(公分) 本幅 30.7x39.5 質地 --> 質地位置 質地 本幅 紙 題跋資料 --> 題跋類別 作者 位置 款識 書體 全文 簽 封面 楷書 皇武遠揚平定兩金川大捷恭紀謹序。臣李棠等。 印記資料 --> 印記類別 印主 印記 鑑藏寶璽 宣統帝 宣統御覽之寶 參考資料 --> 類別 參考資料 收藏著錄 故宮書畫錄（卷八），第四冊，頁29 "
+    },
+    {
+      "assetId": "china-batch-09-gao-shi-seven-scholars",
+      "catalogId": 6417,
+      "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/6417?dep=P",
+      "sourceReceipt": "6417-source.html",
+      "sourceText": "6417-source.txt",
+      "downloadReceipt": "6417-receipt.json",
+      "sourceSha256": "d94542ac09582e781ff2baf4803ff1c3773960cd2f750e562fd3e4b10ae7a5dc",
+      "rightsQuote": "中階圖像與文字均無須申請、不限用途、不用付費即可公開使用，請於適當位置呈現姓名標示。",
+      "credit": "清丁觀鵬仿韓滉七才子過關 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+      "pixelReviewed": true,
+      "review": "Full selected derivative visually inspected. Album sides and visible subject checked; scroll sections explicitly identified. Unchanged museum derivative.",
+      "targetEvidence": [
+        {
+          "record": {
+            "id": "china-gao-shi-fengqiu-office",
+            "title": {
+              "en": "Gao Shi at the county desk",
+              "zh": "县衙案前的高适"
+            },
+            "start": 749,
+            "end": 752,
+            "region": "east-asia",
+            "theme": "culture",
+            "kind": "culture",
+            "importance": 3,
+            "location": {
+              "lat": 35.04,
+              "lon": 114.42,
+              "label": "Fengqiu, representative county seat",
+              "labelI18n": {
+                "en": "Fengqiu, representative county seat",
+                "zh": "封丘，代表性县治"
+              }
+            },
+            "locationPrecision": "representative",
+            "summary": {
+              "en": "A county job brought Gao Shi close to the machinery of Tang government. Appointed to Fengqiu in 749, he described an office where even a small jurisdiction generated deadlines, formal greetings and punishments. His poem “Written at Fengqiu” turns from the humiliation of bowing before superiors to the distress of flogging ordinary people. At home, the speaker’s family laughs at the life he has acquired. The scene gives local administration a voice quite different from a court proclamation.\n\nGao left the post in 752 and later served on a frontier staff. Reading this episode beside Du Fu and Bai Juyi connects poetic ambition with the daily work of government. The poem offers a crafted account of an official’s discomfort; its force comes from bringing hierarchy, household conversation and the people subject to punishment into the same frame.",
+              "zh": "749年，高适出任封丘县尉，进入唐代地方行政的日常。《封丘作》写小县也有繁多期限，要迎送上官，还要执行刑罚。诗人从向上司屈身的难堪，写到鞭打百姓的悲伤；回家诉说，家人却笑他如今的处境。县衙的权力关系、普通人的遭遇和家庭里的对话，就这样进入同一首诗。\n\n高适于752年离职，后来进入边地幕府。把这段经历与杜甫、白居易的作品并读，可以看到文学志向怎样与治理事务相遇。诗中的官员带有作者经营的自我形象，并非县务档案；它仍让读者贴近地方官在等级、职责与同情之间感到的冲突。"
+            },
+            "dateNote": {
+              "en": "749–752 marks the inspected chronology of the Fengqiu appointment and resignation. The poem is associated with the posting; no exact composition day is asserted.",
+              "zh": "749—752年对应所核查的封丘任职与辞官时段。诗与这段任职经历相关，不指定确切写作日期。"
+            },
+            "relatedIds": [
+              "china-person-dufu",
+              "china-person-baijuyi",
+              "tang-dynasty"
+            ],
+            "sources": [
+              {
+                "title": "高适",
+                "publisher": "中国孔子网",
+                "url": "https://www.chinakongzi.org/kzsf/wxxs/zuozhe/gaoshi/200705/t20070525_37865.htm",
+                "evidenceNote": "Biography dates the appointment to 749, departure to Tianbao 11 (752), and subsequent frontier service. Used for career context, not its evaluative ranking of poets.",
+                "evidenceNoteZh": "传记记749年任封丘县尉、天宝十一载（752）辞官及后来入幕经历。采用仕历，不采用诗人高下评价。",
+                "checkedAt": "2026-11-09",
+                "retrieval": "opened-page"
+              },
+              {
+                "title": "封丘作",
+                "publisher": "高适；维基文库古典文本",
+                "url": "https://zh.wikisource.org/zh-hans/%E5%B0%81%E4%B8%98%E4%BD%9C",
+                "evidenceNote": "The inspected poem describes deadlines, greeting superiors, flogging commoners and conversation with the speaker’s family. Original paraphrase of a public-domain poem; no modern translation copied.",
+                "evidenceNoteZh": "所读诗文写公务期限、迎送上官、鞭挞黎庶与归家问妻子。依据公版古诗自行转述，未复制现代译文。",
+                "checkedAt": "2026-11-09",
+                "retrieval": "opened-page"
+              }
+            ],
+            "expansion": {
+              "release": 11,
+              "edition": "v17",
+              "workstreams": [
+                "CH2"
+              ],
+              "sourceReview": "Original bilingual synthesis from inspected institutional, primary-text and scholarly passages; each source states which claims it supports.",
+              "reviewLimit": {
+                "en": "Poetic self-presentation is distinguished from administrative documentation; the source does not establish the frequency of punishments or the responses of the people punished.",
+                "zh": "区分诗人的自我叙述与行政档案；作品不能确定刑罚的频率，也未记录受罚者的回应。"
+              }
+            }
+          },
+          "previouslyCovered": false,
+          "connection": {
+            "en": "The label identifies Gao Shi, the poet in the Fengqiu officeholding story. This imagined assembly of Tang scholars shows his later reputation, not an actual shared journey or the county appointment.",
+            "zh": "题名明确辨识封丘任职故事中的高适；唐代文士的想象聚会表现后世声望，并非真实同行或县尉任命场景。"
+          }
+        }
+      ],
+      "fullInstitutionalTextFile": "6417-source.txt",
+      "identityEvidence": "基本資料 --> 文物統一編號 故畫002766N000000000 作品號 故畫00276600000 品名 清丁觀鵬仿韓滉七才子過關 軸 Seven Scholars Going through the Pass in the Manner of Han Huang 分類 繪畫 作者 丁觀鵬 數量 一軸 典藏尺寸 --> 位置 尺寸(公分) 本幅 94.5x54.7 質地 --> 質地位置 質地 本幅 紙 題跋資料 --> 題跋類別 作者 位置 款識 書體 全文 作者款識 丁觀鵬 印記 expand_more 本幅 臣丁觀鵬奉勒恭摹韓滉筆意 行楷書 印主 印記 丁觀鵬 臣觀鵬 丁觀鵬 恭畫 題跋 汪由敦 本幅 戊辰（1748）夏臣汪由敦恭紀 行書 綵樓選句日。翩翩美少年。那知驢背上。鬚髥領七賢。世代考莫窮。姓名忽已傳。足稱忘年交。堪比登仙船。（右宋之問）。司勳亦俊才。佳句如陰鏗。忽入畫裡看。少年憶渭城。如何冒風雪。聯轡將焉征。（右崔顥。）透得詩畫禪。逢場聊作戲。藴玉山故輝。含珠川以媚。破帽與氅衣。裝束殊高致。試看一鞭揮。維摩果不二（右王維。）馬上執青簡。遙識為參軍。清辭留人間。往往如吳均。詩人多坎坷。流寓劍水濵。胡為别杜老。而追作者群。（右岑參。）諫議倜儻人。丰姿秀堪睹。正史獨遺名。發潛可惜許。騎牛過函關。關尹曾逢否。介紹崔李間。莫逆忘爾汝。有子世業傳。飛白繼其武。（右史白。）意不喜長安。賜金得放返。懵騰策蹇驢。酒氣餘燥吻。髙節超塵寰。浮名何增損。若將比竹林。位置嵇與阮。（右李白。）達夫尚節義。其詩故可傳。據鞍意自殊。默搆成佳篇。韓相留墨妙。致我思古人。獨惜有遺舛。杜老與浩然。（右高適。） 內府藏韓滉畫七才子過關圖。標姓名者五。而缺其二。昔人嘗詳辨之。迄莫能定。皇上幾餘流賞。博稽旁證。題為王維岑參。以補所缺。各系以詩。書於卷中。復命畫苑臣倣為是幀。而臣備錄。御製諸詩於上。戊辰（1748）夏臣汪由敦恭紀。 印記資料 --> 印記類別 印主 印記 鑑藏寶璽 清內府印 三希堂精鑑璽 鑑藏寶璽 清高宗 石渠定鑑 鑑藏寶璽 清內府印 石渠寶笈 鑑藏寶璽 清內府印 宜子孫 鑑藏寶璽 宣統帝 宣統御覽之寶 鑑藏寶璽 清高宗 乾隆御覽之寶 鑑藏寶璽 清高宗 乾隆鑑賞 鑑藏寶璽 清仁宗 嘉慶御覽之寶 鑑藏寶璽 清高宗 養心殿鑑藏寶 鑑藏寶璽 清高宗 寶笈重編 主題 --> 主題類別 主題(第一層) 主題(第二層) 主題說明 主要主題 人物 高士（士人、隱士） 七才子 主要主題 經史‧故事 次要主題 人物 侍從（侍女、童僕） 次要主題 走獸 牛 次要主題 走獸 馬 次要主題 走獸 騾．驢 次要主題 樹木 松 其他主題 花草 藤蘿 其他主題 建築 城牆 隘門 其他主題 器用 服飾（對人） 其他主題 器用 飲食器 其他主題 樹木 技法 --> 技法 技法細目 人物衣紋描法(勻稱線條) 工筆 皴法 披麻皴 寫意 參考資料 --> 類別 參考資料 收藏著錄 石渠寶笈續編（養心殿），第三冊，頁1253 收藏著錄 故宮書畫錄（卷八），第四冊，頁121 收藏著錄 故宮書畫圖錄，第十三冊，頁133-134 "
+    },
+    {
+      "assetId": "china-batch-09-fukanggan-conch",
+      "catalogId": 2700,
+      "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/2700?dep=U",
+      "sourceReceipt": "2700-source.html",
+      "sourceText": "2700-source.txt",
+      "downloadReceipt": "2700-receipt.json",
+      "sourceSha256": "aaed6159b18262d9fe4abe348ccca1b2559cdedc1cf1f277142634d5e85f9f9b",
+      "rightsQuote": "中階圖像與文字均無須申請、不限用途、不用付費即可公開使用，請於適當位置呈現姓名標示。",
+      "credit": "右旋白螺。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+      "pixelReviewed": true,
+      "review": "Full selected derivative visually inspected. Album sides and visible subject checked; scroll sections explicitly identified. Unchanged museum derivative.",
+      "targetEvidence": [
+        {
+          "record": {
+            "id": "china-event-qing-022",
+            "title": {
+              "en": "Fuk’anggan crosses the strait to suppress Lin Shuangwen’s uprising; Zhuluo is renamed Jiayi",
+              "zh": "福康安率军渡海平定台湾林爽文起义，乾隆赐改诸罗县为“嘉义”"
+            },
+            "start": 1787,
+            "end": 1787,
+            "location": {
+              "lon": 120.45,
+              "lat": 23.48,
+              "label": "Jiayi (Zhuluo)",
+              "labelI18n": {
+                "en": "Jiayi (Zhuluo)",
+                "zh": "嘉义（诸罗）"
+              },
+              "labelProvenance": "inherited-source-place-pair"
+            },
+            "region": "east-asia",
+            "theme": "states",
+            "kind": "event",
+            "importance": 1,
+            "summary": {
+              "en": "Fuk’anggan crosses the strait to suppress Lin Shuangwen’s uprising; Zhuluo is renamed Jiayi",
+              "zh": "福康安率军渡海平定台湾林爽文起义，乾隆赐改诸罗县为“嘉义”"
+            },
+            "dateNote": {
+              "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+              "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+            },
+            "locationPrecision": "representative",
+            "sources": [
+              {
+                "title": "Chronicles of the Realm — js/map_data.js (frozen source dataset)",
+                "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/map_data.js",
+                "publisher": "DeanChensj / Chronicles of the Realm",
+                "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+                "checkedAt": "2026-10-23"
+              }
+            ],
+            "aliases": [
+              "嘉义（诸罗）",
+              "Jiayi (Zhuluo)"
+            ],
+            "provenance": {
+              "dataset": "jiangshan",
+              "status": "inherited",
+              "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+              "periodId": "qing",
+              "periodIds": [
+                "qing"
+              ],
+              "sourceRecords": [
+                {
+                  "file": "js/map_data.js",
+                  "path": "/DYNASTY_DATA/15/milestones/21",
+                  "index": 21
+                }
+              ],
+              "note": {
+                "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+                "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+              }
+            },
+            "relatedIds": [
+              "qing-dynasty"
+            ]
+          },
+          "previouslyCovered": false,
+          "connection": {
+            "en": "This particular object accompanied the commander named in the Taiwan campaign entry. The record connects military action with court ritual protection; it does not establish the claimed supernatural effects.",
+            "zh": "此器随台湾战事条目中的统帅出行，将军事活动与宫廷祈护仪式相连；记录中的神异说法不等于已获证实。"
+          }
+        }
+      ],
+      "fullInstitutionalTextFile": "2700-source.txt",
+      "identityEvidence": "基本資料 --> 文物統一編號 故雜000558N000000000 品名 右旋白螺 Right-spiraling conch 分類 雜項 時代 清 乾隆 西元1736-1795年 尺寸 長18.9公分 寬9.4公分 說明 印度聖貝，螺體上下加鑲鍍金裝飾吹口及護板，吹口飾蓮瓣及卷草紋，護板釘接於螺口與底端，內板銀質，刻藏文右旋螺贊詞及漢、蒙、滿、藏文款識：「大清乾隆年製」；外板則鍍金，並敲飾五瓣花式錦、鑄藏文贊詞與卷草紋，緣鑲珊瑚、松石、青金石等，底端刻「乾隆年製」。藏傳佛教法器海螺是法會時吹奏的樂器之一。佛經上講釋迦摩尼說法時聲音洪亮，猶如大螺貝之聲響徹四方，使聞聲者可以驅魔，滅諸罪障。自然生長的螺紋自左向右旋轉，此種右旋白螺少而珍貴。乾隆在其御製《白螺贊》視右旋螺為祥瑞，據說渡海時若供於船頭，便能風平浪靜。從盒內題記看來，此法螺曾用於乾隆五十二年（1787）福康安平定林爽文事件，以保佑其渡海平安。 參考資料 --> 書名 作者/編者 出版者 出版日期 《故宮文物月刊》407 期 《故宮文物月刊》編輯部 國立故宮博物院 2017/02 《精彩一百 國寶總動員》 主編/蔡玫芬 文字撰述：論文/蔡玫芬、何傳馨、林天人；單品說明/余佩瑾、吳曉筠、侯怡利、張志光、張湘雯、張麗端、陳慧霞、游國慶、黃蘭茵、劉祐竹、蔡慶良、鄧淑蘋、賴依縵（按姓氏筆畫排序） 臺北巿：國立故宮博物院 2011/11 《故宮文物月刊》200期 本院圖書文獻、書畫、器物三處同仁聯合執筆 臺北巿：國立故宮博物院 1999/11 《乾隆皇帝的文化大業》 馮明珠主編 臺北巿：國立故宮博物院 2000/09 《皇權與佛法：藏傳佛教法器特展圖錄》 蔡玫芬 臺北巿：國立故宮博物院 1999/06 款識 --> 識文位置 識文種類 全文 附件白綾 白綾 大利益吉祥右旋白螺乾隆五十二年八月，賜福康安帶赴臺灣剿平逆賊林爽文，莊大田等，往來渡海平安。五十三年七月凱旋後繳回供奉，永賀護佑普被吉祥。 器身 年號款 大清乾隆年製 底(外) 年號款 乾隆年製 "
+    },
+    {
+      "assetId": "china-batch-09-song-sericulture",
+      "catalogId": 14545,
+      "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/14545?dep=P",
+      "sourceReceipt": "14545-source.html",
+      "sourceText": "14545-source.txt",
+      "downloadReceipt": "14545-receipt.json",
+      "sourceSha256": "62fcdf658470bf92000857e508f6577cddd810e5c33380a58958054a6f4183bf",
+      "rightsQuote": "中階圖像與文字均無須申請、不限用途、不用付費即可公開使用，請於適當位置呈現姓名標示。",
+      "credit": "歷朝名人圖繪 冊 宋劉松年蠶事圖。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+      "pixelReviewed": true,
+      "review": "Full selected derivative visually inspected. Album sides and visible subject checked; scroll sections explicitly identified. Unchanged museum derivative.",
+      "targetEvidence": [
+        {
+          "record": {
+            "id": "china-song-textile-households",
+            "title": {
+              "en": "Song textiles: household work and skilled workshops",
+              "zh": "宋代纺织：家庭劳动与专业作坊"
+            },
+            "start": 960,
+            "end": 1279,
+            "region": "east-asia",
+            "kind": "culture",
+            "theme": "exchange",
+            "location": {
+              "lat": 30.27,
+              "lon": 120.16,
+              "label": "Lower Yangzi; representative textile-producing setting"
+            },
+            "locationPrecision": "representative",
+            "importance": 4,
+            "summary": {
+              "en": "Silk’s prestige can hide the many stages of labour that made cloth possible. Feeding silkworms, tending trays, handling cocoons and preparing thread required repeated household work, often performed by women. Complex patterned fabrics also depended on skilled professional weaving in official and private workshops. These tasks belonged to connected settings rather than one uniform factory system.\n\nMost people did not dress exclusively in luxurious silk: hemp, ramie and, increasingly toward the end of the period, cotton also mattered. A painted sericulture handscroll offers a carefully composed image of production, not an unmediated record of every worker’s conditions. Reading it beside written accounts helps ask whose effort was celebrated, organized or left unnamed. The resulting history connects elite garments and traded goods to ordinary maintenance work, while allowing divisions of skill and gender to differ across households and workshops.",
+              "zh": "丝织品的声望容易遮蔽成布之前的多重劳动。养蚕、清理蚕盘、处理蚕茧与准备丝线，需要反复进行的家庭工作，往往由女性承担。复杂花纹织物还依靠官营或私营作坊中的专业织工。这些工作属于相互联系的不同环境，并非统一的工厂体系。\n\n多数人并不全穿华贵丝绸，麻、苎麻以及宋末日益重要的棉也参与日常衣着。蚕织画卷提供的是经过组织的生产图像，不是每位劳动者处境的直接记录。把画面与文字记载并读，有助于追问哪些劳动被赞颂、被组织，哪些劳动者没有留下姓名。这样的历史把精英服饰和贸易商品与普通日常维护连接起来，同时允许家庭和作坊中的技能、性别分工存在差异。"
+            },
+            "dateNote": {
+              "en": "Song-period focus, 960–1279. The representative point is not the origin of all fibres or a boundary for textile production.",
+              "zh": "关注960—1279年的宋代；坐标既不是所有纤维的起源地，也不是纺织生产的边界。"
+            },
+            "sources": [
+              {
+                "title": "Textiles and Silk",
+                "url": "https://afe.easia.columbia.edu/songdynasty-module/econ-rev-silk.html",
+                "publisher": "Columbia University, Asia for Educators",
+                "evidenceNote": "Household sericulture, women’s labour, professional complex-loom weaving and the importance of plant-fibre clothing. Describes broad divisions, not every workshop’s workforce. Retrieval: full-page text inspected.",
+                "checkedAt": "2026-10-23"
+              },
+              {
+                "title": "Sericulture (The Process of Making Silk), 1977.5",
+                "url": "https://www.clevelandart.org/art/1977.5",
+                "publisher": "Cleveland Museum of Art",
+                "evidenceNote": "Southern Song painted handscroll associated with silk work; visual evidence is an elite artistic representation, not a census or photographic record. Retrieval: full-page text inspected.",
+                "checkedAt": "2026-10-23"
+              }
+            ],
+            "relatedIds": [
+              "northern-song",
+              "southern-song",
+              "china-song-urban-markets"
+            ],
+            "expansion": {
+              "workstreams": [
+                "CH2"
+              ],
+              "release": 2,
+              "sourceReview": "Original bilingual synthesis; full-page, indexed-only and single-institution evidence limits are disclosed per source. Not a claim that the inherited China corpus or map geometries are fully verified."
+            },
+            "keyFacts": {
+              "en": [
+                "Silk’s prestige can hide the many stages of labour that made cloth possible.",
+                "Feeding silkworms, tending trays, handling cocoons and preparing thread required repeated household work, often performed by women."
+              ],
+              "zh": [
+                "丝织品的声望容易遮蔽成布之前的多重劳动。",
+                "养蚕、清理蚕盘、处理蚕茧与准备丝线，需要反复进行的家庭工作，往往由女性承担。"
+              ]
+            }
+          },
+          "previouslyCovered": false,
+          "connection": {
+            "en": "The pictured buildings and workers organize silk production into household spaces. Read beside the textile entry, the composition makes the labor behind cloth visible without treating an elite painting as a complete survey of working conditions.",
+            "zh": "建筑与劳动者将蚕织生产安排在家庭空间；与纺织条目并读，可看见布帛背后的劳动，但精英绘画并非劳动处境的完整调查。"
+          }
+        }
+      ],
+      "fullInstitutionalTextFile": "14545-source.txt",
+      "identityEvidence": "基本資料 --> 文物統一編號 故畫001260N000000003 作品號 故畫00126000003 品名 歷朝名人圖繪 冊 宋劉松年蠶事圖 Silk Cultivation 分類 繪畫 作者 劉松年 數量 一幅 典藏尺寸 --> 位置 尺寸(公分) 本幅 31.6x51.6 質地 --> 質地位置 質地 本幅 絹 題跋資料 --> 題跋類別 作者 位置 款識 書體 全文 作者款識 劉松年 松年 印記資料 --> 印記類別 印主 印記 收傳印記 耿昭忠 丹誠 收傳印記 耿昭忠 真賞 收傳印記 耿昭忠 琴書堂 鑑藏寶璽 清高宗 乾隆御覽之寶 主題 --> 主題類別 主題(第一層) 主題(第二層) 主題說明 主要主題 人物 百姓 主要主題 人物 農夫 主要主題 建築 房舍 次要主題 山水 江河、湖海 江河 次要主題 建築 庭院 其他主題 人物 孩童 其他主題 山水 其他主題 花草 其他主題 建築 稻草堆 稻草 其他主題 建築 籬笆、圍牆 圍牆 其他主題 器用 罐 其他主題 器用 耕織漁獵 織（紡紗用具） 其他主題 器用 傢俱（屏風） 蓆。墊。炕 其他主題 器用 廚房陳設 其他主題 器用 籃．簍．籮筐 竹藍 其他主題 樹木 其他主題 樹木 松 技法 --> 技法 技法細目 人物衣紋描法(勻稱線條) 工筆 參考資料 --> 類別 參考資料 收藏著錄 石渠寶笈初編（重華宮），下冊，頁736 收藏著錄 故宮書畫錄（卷六），第四冊，頁258 收藏著錄 故宮書畫圖錄，第二十八冊，頁364-367 "
+    },
+    {
+      "assetId": "china-batch-09-mao-gong-ding",
+      "catalogId": 1438,
+      "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/1438?dep=U",
+      "sourceReceipt": "1438-source.html",
+      "sourceText": "1438-source.txt",
+      "downloadReceipt": "1438-receipt.json",
+      "sourceSha256": "8f92653aeaecf1001136b75a52c00bfd505f6f5b82a06c85b9446028c93810ec",
+      "rightsQuote": "中階圖像與文字均無須申請、不限用途、不用付費即可公開使用，請於適當位置呈現姓名標示。",
+      "credit": "毛公鼎。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+      "pixelReviewed": true,
+      "review": "Full selected derivative visually inspected. Album sides and visible subject checked; scroll sections explicitly identified. Unchanged museum derivative.",
+      "targetEvidence": [
+        {
+          "record": {
+            "id": "zhou-dynasty",
+            "title": {
+              "en": "Zhou: kings, lineages and competing states",
+              "zh": "周：王权、宗族与列国"
+            },
+            "start": -1046,
+            "end": -256,
+            "region": "east-asia",
+            "theme": "states",
+            "kind": "polity",
+            "importance": 4,
+            "location": {
+              "lat": 34.3,
+              "lon": 108.8,
+              "label": "Fenghao region, near present-day Xi’an",
+              "labelI18n": {
+                "en": "Fenghao region, near present-day Xi’an",
+                "zh": "丰镐地区，今西安附近"
+              },
+              "labelProvenance": "reviewed-display-translation"
+            },
+            "locationPrecision": "representative",
+            "summary": {
+              "en": "The Zhou replaced Shang rule and governed through relationships with aristocratic lineages. Bronze vessels recorded gifts, offices and ancestral claims, making ritual objects evidence of political authority. After the royal court moved east, regional rulers increasingly acted independently. Competition among these states changed warfare, administration and intellectual life. The long Zhou interval therefore contains very different political worlds: an early royal order and later fragmentation. Reading its objects alongside its chronology helps distinguish a dynasty’s continuing name from its changing ability to command other rulers.",
+              "zh": "周取代商后，通过与贵族宗族的关系组织统治。青铜器铭文记录赏赐、官职和祖先功绩，礼器也因此成为政治权力的证据。王室东迁后，地方诸侯日益独立，列国竞争推动战争、行政与思想变化。漫长的周代包含早期王权与后期分裂等不同局面；王朝名称的延续，并不意味着控制力始终相同。"
+            },
+            "dateNote": {
+              "en": "Uses the Met’s conventional 1046–256 BCE dynastic dates; the Western Zhou ended in 771 BCE. The pin represents the early capital region.",
+              "zh": "采用大都会博物馆所列公元前1046—256年；西周结束于前771年。标记代表早期都城地区。"
+            },
+            "sources": [
+              {
+                "title": "Shang and Zhou Dynasties: The Bronze Age of China",
+                "url": "https://www.metmuseum.org/essays/shang-and-zhou-dynasties-the-bronze-age-of-china",
+                "publisher": "The Metropolitan Museum of Art",
+                "checkedAt": "2026-10-22",
+                "evidenceNote": "Uses the Met’s conventional 1046–256 BCE dynastic dates; the Western Zhou ended in 771 BCE. The pin represents the early capital region."
+              }
+            ]
+          },
+          "previouslyCovered": false,
+          "connection": {
+            "en": "This is one of the inscribed ritual vessels central to the Zhou entry’s account of offices and political authority. The exterior photograph shows the vessel’s form; the inscription is transcribed on the linked museum page.",
+            "zh": "此器正是周代条目所述通过铭文记述官职与政治权力的礼器实例；外观照片展示器形，馆藏链接提供铭文内容。"
+          }
+        }
+      ],
+      "fullInstitutionalTextFile": "1438-source.txt",
+      "identityEvidence": "基本資料 --> 文物統一編號 中銅000651N000000000 品名 毛公鼎 Ding cauldron of Duke Mao 分類 銅器 時代 西周晚期 西元前827-782年 尺寸 通高53.8公分 腹深27.2公分 口徑47.0公分 說明 本器器形簡樸，端正厚實。半球形的器身立於三蹄足之上，口沿上有兩個寬厚的立耳。全器器身光素，僅於口沿下方飾以一周精簡的重環紋及一道凸弦紋。器內有銘文五百字，為迄今所知最長的青銅器銘文。內容以古雅精奧的文風表達了宣王對毛公的殷切期待，體例與《尚書‧文侯之命》相似，除印證西周時期的行政及典章制度，也為西周「宣王中興」及不見於文獻記載的毛公，提供了詳實的史料。 參考資料 --> 書名 作者/編者 出版者 出版日期 《國寶菁華 器物篇》 主編/林柏亭；文字撰述/呂世浩、余佩瑾、施靜菲、陳玉秀、陳慧霞、張麗端、嵇若昕、游國慶、廖寶秀、楊美莉、鄧淑蘋、蔡玫芬 國立故宮博物院 2006/12 《精彩一百 國寶總動員》 主編/蔡玫芬 文字撰述：論文/蔡玫芬、何傳馨、林天人；單品說明/余佩瑾、吳曉筠、侯怡利、張志光、張湘雯、張麗端、陳慧霞、游國慶、黃蘭茵、劉祐竹、蔡慶良、鄧淑蘋、賴依縵（按姓氏筆畫排序） 臺北巿：國立故宮博物院 2011/11 天保九如 : 九十年來新增文物選粹 = 90 years of collecting : A selection of fine works of art acquired by the National Palace Museum 宋兆霖主編 國立故宮博物院 2015/10 《故宮銅器圖錄》上冊下編 國立故宮、中央博物院聯合管理處 中華叢書委員會 1958/07 《國立故宮博物院藏品選目》 國立故宮博物院 臺北巿：國立故宮博物院 1972/04 《吉金耀采—院藏歷代銅器》 游國慶 臺北市：國立故宮博物院 2015/01 《故宮西周金文錄》 游國慶、國立故宮博物院編輯委員會 臺北巿：國立故宮博物院 2001/07 《故宮勝概新編》 馮明珠 臺北巿：國立故宮博物院 2009/09 款識 --> 識文位置 識文種類 全文 腹（內） 紀事 王若曰父厂音丕顯文武皇天引／厭厥德配我有周膺受大命率褱／不廷方亡不閈于文武耿光唯天爿田（將）／集厥命亦唯先正各厥辟恪堇（謹）大命／肆皇天亡矢（懌）臨保我有周丕共（鞏）先王配命／民又（閔）天疾畏（威）司（嗣）余小子弗彶（及）邦將害吉冊冊四方大／從（縱）不靜烏虖走瞿（愍）余小子圂湛于喜（艱）永共（恐）先／王王曰父厂音今余唯巠（經）先王命命汝我邦／我家內外心于小大政甹（屏）朕立（位）虩許上下若否／雨于四方死毋童（動）余一人在位引（矧）唯乃知余／非庸又聞（昏）汝毋敢妄寧虔夙夕惠我一人／雍我邦小大猷毋折緘告余先王若德用／卬（仰）卲（昭）皇天東田（緟）恪大命康能四國俗（欲）我弗作／先王憂王曰父厂音雨于之庶出入事于外尃（敷）命尃／政蓺小大楚（胥）賦無唯正（政）聞引（矧）其唯王智（知）迺／唯是喪我國厤（曆）自今出入尃（敷）命于外厥非／先告父厂音父厂音舍命毋有敢心尃命于外王／曰父厂音今余唯東田（緟）先王命命汝亟一方囗弓（長掌）／我邦我家毋隹頁于政勿雍（壅）建（楗）庶人貯（賈）毋／敢龍廾龍廾迺（侮）鰥寡善效乃友正毋敢／湎于酒汝毋敢（墜）在乃服恪夙夕敬念王／畏（威）不晹（易）汝毋弗帥用先王作明井（型）俗（欲）汝弗／以乃辟羊于喜（艱）王曰父厂音已曰汲（及）茲卿／事寮大史寮于父即尹命女韭井丮止（攝）司（司）公／族雨于參有司小子師氏虎臣雨于（與）朕褻事／以乃族干（扞）吾王身取貝耑卅易汝矩鬯鬯一卣／廾圭瓚寶朱巿黃玉環玉王余金車屖車爻／朱囗弓（韔）束衣斤虎熏裏右畫革尃畫車昏金／甬昔（錯）衡金止重金敕□金簟弼（笰）魚（箙）馬／四匹攸（攸金）勒（革）金鉤金（膺）朱旂二鈴易女茲（賸）／用歲用政（征）毛公厂音對揚天子皇／休用作尊鼎子子孫孫永寶用 "
+    },
+    {
+      "assetId": "china-batch-09-hongwu-xuda-edict",
+      "catalogId": 26834,
+      "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/26834?dep=P",
+      "sourceReceipt": "26834-source.html",
+      "sourceText": "26834-source.txt",
+      "downloadReceipt": "26834-receipt.json",
+      "sourceSha256": "6a485a491ee43804fa80d0ba150bbe628cf448a15b7649fb2c565473de656051",
+      "rightsQuote": "中階圖像與文字均無須申請、不限用途、不用付費即可公開使用，請於適當位置呈現姓名標示。",
+      "credit": "明太祖御筆（一） 冊 皇帝勅賜大將軍魏國公兼太子太傅徐達。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+      "pixelReviewed": true,
+      "review": "Full selected derivative visually inspected. Album sides and visible subject checked; scroll sections explicitly identified. Unchanged museum derivative.",
+      "targetEvidence": [
+        {
+          "record": {
+            "id": "china-person-xuda",
+            "sourceProfileId": "china-person-xuda",
+            "name": {
+              "en": "Xu Da",
+              "zh": "徐达"
+            },
+            "title": {
+              "en": "Xu Da · conquest and a continuing frontier",
+              "zh": "徐达 · 征服与持续的边疆战争"
+            },
+            "start": 1368,
+            "end": 1372,
+            "region": "east-asia",
+            "kind": "person",
+            "theme": "states",
+            "importance": 3,
+            "location": {
+              "lat": 39.91,
+              "lon": 116.39,
+              "label": "Dadu, captured Yuan capital",
+              "labelI18n": {
+                "en": "Dadu, captured Yuan capital",
+                "zh": "大都，被攻取的元都"
+              }
+            },
+            "locationPrecision": "representative",
+            "summary": {
+              "en": "Xu Da was one of Zhu Yuanzhang’s principal commanders in the wars that established Ming rule. In 1368 his army entered the Yuan capital, Dadu, after the emperor had withdrawn north. The Ming History emphasizes the securing of government stores and palace buildings, presenting disciplined occupation as part of his reputation. Yet the capture of a capital did not end the military contest. Xu fought Köke Temür near Dingxi in 1370 and suffered a serious defeat during another northern expedition in 1372. Seen together, these episodes show the difference between a dynastic turning point and the continued work of campaigning, garrisoning and defending a frontier against opponents who remained in the field.",
+              "zh": "徐达是朱元璋建立明朝战争中的主要统帅之一。1368年，元帝北撤后，他率军进入元都大都。《明史》强调封存府库、保护宫殿等措施，把占领中的纪律写入他的形象。然而，夺取都城并未结束军事较量。1370年徐达在定西附近与扩廓帖木儿交战，1372年再次北征时又遭受严重失败。合看这些经历，可以区分王朝更替的转折点，与此后仍须进行的征战、驻防及应对继续抵抗者的边防工作。"
+            },
+            "dateNote": {
+              "en": "1368–1372 is the selected period of documented activity, not a lifespan. Dates are given at civil-year precision; map points are representative.",
+              "zh": "1368—1372年为所选有据活动时期，并非生卒年。日期精度为公元年；地图点为代表位置。"
+            },
+            "sources": [
+              {
+                "title": "明史 卷125: 徐達",
+                "publisher": "Zhang Tingyu and the Qing historiographical commission; public-domain primary text, Wikisource transcription",
+                "url": "https://zh.wikisource.org/wiki/明史/卷125",
+                "evidenceNote": "Hongwu 1 capture of Dadu, 3 Dingxi campaign and 5 defeat; occupation instructions and continuing northern warfare.",
+                "evidenceNoteZh": "洪武元年攻取大都、三年定西战事、五年失败；占领措施及持续北方战争。",
+                "checkedAt": "2026-11-09",
+                "retrieval": "opened-page-primary-text"
+              }
+            ],
+            "milestones": [
+              {
+                "year": 1368,
+                "title": {
+                  "en": "Enters Dadu",
+                  "zh": "进入大都"
+                },
+                "description": {
+                  "en": "Yuan’s court had withdrawn north before his occupation.",
+                  "zh": "元廷在其占领之前已向北撤离。"
+                },
+                "location": {
+                  "lat": 39.91,
+                  "lon": 116.39,
+                  "label": "Dadu",
+                  "labelI18n": {
+                    "en": "Dadu",
+                    "zh": "大都"
+                  }
+                }
+              },
+              {
+                "year": 1370,
+                "title": {
+                  "en": "Dingxi campaign",
+                  "zh": "定西之战"
+                },
+                "description": {
+                  "en": "His army defeated Köke Temür’s forces.",
+                  "zh": "其军击败扩廓帖木儿部。"
+                },
+                "location": {
+                  "lat": 35.58,
+                  "lon": 104.63,
+                  "label": "Dingxi region",
+                  "labelI18n": {
+                    "en": "Dingxi region",
+                    "zh": "定西地区"
+                  }
+                }
+              },
+              {
+                "year": 1372,
+                "title": {
+                  "en": "Northern expedition defeated",
+                  "zh": "北征受挫"
+                },
+                "description": {
+                  "en": "The campaign exposed the limits of Ming military control.",
+                  "zh": "此次战事显出明军控制能力的边界。"
+                },
+                "location": {
+                  "lat": 45,
+                  "lon": 106,
+                  "label": "Mongolian plateau, representative campaign setting",
+                  "labelI18n": {
+                    "en": "Mongolian plateau, representative campaign setting",
+                    "zh": "蒙古高原，代表性作战场景"
+                  }
+                }
+              }
+            ],
+            "relatedIds": [
+              "china-person-zhuyuanzhang",
+              "ming-dynasty"
+            ],
+            "expansion": {
+              "release": 11,
+              "edition": "v17",
+              "workstreams": [
+                "CH1",
+                "CH2"
+              ],
+              "sourceReview": "Original bilingual synthesis of the inspected passages identified in each source note.",
+              "reviewLimit": {
+                "en": "Retrospective accounts are read for documented actions, not as proof of reported dialogue, motives or exact army totals.",
+                "zh": "事后记述用于核对有据行动，不将所载对话、动机或军队精确人数直接视为定论。"
+              }
+            }
+          },
+          "previouslyCovered": false,
+          "connection": {
+            "en": "The emperor shares sacrificial meat after praying for crops with the general named in the biography. This direct address reveals the relationship between sovereign and commander through ritual favor rather than an imagined battle.",
+            "zh": "皇帝祈谷祭祀后与传记中的将军分享祭肉；直接称名的敕书通过礼仪恩赐呈现君臣关系，而非想象战场。"
+          }
+        }
+      ],
+      "fullInstitutionalTextFile": "26834-source.txt",
+      "identityEvidence": "基本資料 --> 文物統一編號 中書000014N000000011 作品號 中書00001400011 品名 明太祖御筆（一） 冊 皇帝勅賜大將軍魏國公兼太子太傅徐達 分類 法書 作者 朱元璋 書體 草書 數量 一幅 作品語文 漢文 釋文 （朱書）皇帝勅賜大將軍魏國公。兼太子太傅徐達。農作將興。今旦日吉時良。修年彝祀歲君。風雲雷雨。岳鎮海瀆之神。酹于先農。為民祈榖。神賜之胙。與卿同享。虔恭神福。故勅諭。 典藏尺寸 --> 位置 尺寸(公分) 本幅二十一 37.8x35.3 本幅二十二 37.8x35.3 質地 --> 質地位置 質地 本幅 紙 參考資料 --> 類別 參考資料 收藏著錄 石渠寶笈三編（南薰殿），第九冊，頁4596-4606 參考書目 陳宏澤，〈明太祖御筆（一） 冊 皇帝勅賜大將軍魏國公兼太子太傅徐達〉，收入蔡君彞、邱士華主編《碁人奕事-古代圍棋文化》（臺北：國立故宮博物院，2025.08），頁52-53。 "
+    },
+    {
+      "assetId": "china-batch-09-xining-cash",
+      "catalogId": 11574,
+      "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/11574?dep=U",
+      "sourceReceipt": "11574-source.html",
+      "sourceText": "11574-source.txt",
+      "downloadReceipt": "11574-receipt.json",
+      "sourceSha256": "dd2694527adfdfe90cc67729b45151d82a141c3d9a8b803607ec5539dbc75689",
+      "rightsQuote": "中階圖像與文字均無須申請、不限用途、不用付費即可公開使用，請於適當位置呈現姓名標示。",
+      "credit": "熙寧元寶。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+      "pixelReviewed": true,
+      "review": "Full selected derivative visually inspected. Album sides and visible subject checked; scroll sections explicitly identified. Unchanged museum derivative.",
+      "targetEvidence": [
+        {
+          "record": {
+            "id": "china-song-money-networks",
+            "title": {
+              "en": "Song money: paper promises and public authority",
+              "zh": "宋代货币：纸面信用与公共权力"
+            },
+            "start": 1000,
+            "end": 1279,
+            "region": "east-asia",
+            "kind": "idea",
+            "theme": "exchange",
+            "location": {
+              "lat": 30.66,
+              "lon": 104.06,
+              "label": "Chengdu; representative early paper-money setting",
+              "labelI18n": {
+                "en": "Chengdu; representative early paper-money setting",
+                "zh": "成都；早期纸币背景的代表地点"
+              },
+              "labelProvenance": "reviewed-display-translation"
+            },
+            "locationPrecision": "representative",
+            "importance": 4,
+            "summary": {
+              "en": "Paper currency emerged from the practical difficulties of moving and paying large quantities of metal money. Merchant instruments and later government issues depended on acceptance, redemption arrangements and confidence in the issuer. Their history is therefore a story of commercial organization and public authority, not simply the discovery that writing a number on paper could replace coins.\n\nDifferent kinds of money continued to coexist, and conditions varied between regions and periods. Later Yuan and Ming paper currencies extended the history without making their institutions identical to Song practices. A Ming note preserved in the British Museum expresses value through an image of coin strings, showing how paper could refer to older monetary forms. That object is a later comparison rather than a surviving Song note. Keeping these distinctions visible prevents a useful museum illustration from becoming false evidence for an earlier issue.",
+              "zh": "纸币的出现，与大量金属货币运输和支付的不便有关。商人使用的凭券，以及后来的政府发行，都依赖接受范围、兑现安排和对发行者的信任。因此，这不仅是发现“在纸上写个数字就能代替钱”的故事，也涉及商业组织和公共权力。\n\n不同货币继续并存，各地各时期的条件也不相同。元、明纸币延续了这一历史，却不意味着它们与宋代制度完全一致。大英博物馆保存的一张明代纸钞，用钱串图像表达价值，显示纸面货币如何援引旧有货币形式。这件实物只是较晚的比较材料，并非宋代遗钞。保持这些区别，可以避免把有用的博物馆图像误当作更早发行的直接证据。"
+            },
+            "dateNote": {
+              "en": "Approximate focus: eleventh-century development through the Song endpoint; not a claim that every region used one stable currency.",
+              "zh": "约以十一世纪发展至宋代终结为关注范围；不表示各地使用同一种稳定货币。"
+            },
+            "sources": [
+              {
+                "title": "Paper Money",
+                "url": "https://afe.easia.columbia.edu/songdynasty-module/econ-rev-money.html",
+                "publisher": "Columbia University, Asia for Educators",
+                "evidenceNote": "Development from merchant instruments to government paper currency; distinguish Song discussion from later Yuan/Ming illustrations. Retrieval: full-page text inspected.",
+                "checkedAt": "2026-10-23"
+              },
+              {
+                "title": "Banknote: CIB,EA.260",
+                "url": "https://www.britishmuseum.org/collection/object/C_CIB-EA-260",
+                "publisher": "The British Museum",
+                "evidenceNote": "Catalogue metadata identifies a Ming paper note of one guan, represented as a string of 1,000 cash; this is a later comparison, not a surviving Song note. Retrieval: indexed museum catalogue metadata inspected; full object narrative not retrieved.",
+                "checkedAt": "2026-10-23"
+              }
+            ],
+            "relatedIds": [
+              "northern-song",
+              "southern-song",
+              "china-song-urban-markets",
+              "yuan-dynasty"
+            ],
+            "expansion": {
+              "workstreams": [
+                "CH2"
+              ],
+              "release": 2,
+              "sourceReview": "Original bilingual synthesis; full-page, indexed-only and single-institution evidence limits are disclosed per source. Not a claim that the inherited China corpus or map geometries are fully verified."
+            },
+            "keyFacts": {
+              "en": [
+                "Paper currency emerged from the practical difficulties of moving and paying large quantities of metal money.",
+                "Merchant instruments and later government issues depended on acceptance, redemption arrangements and confidence in the issuer."
+              ],
+              "zh": [
+                "纸币的出现，与大量金属货币运输和支付的不便有关。",
+                "商人使用的凭券，以及后来的政府发行，都依赖接受范围、兑现安排和对发行者的信任。"
+              ]
+            }
+          },
+          "previouslyCovered": false,
+          "connection": {
+            "en": "Metal cash remained important alongside paper instruments. This surviving Song coin supplies a contemporary material comparison for the entry’s discussion of moving, paying and representing monetary value.",
+            "zh": "金属钱与纸面凭券并存；这枚宋钱为条目所述货币运输、支付与价值表达提供当时实物参照。"
+          }
+        }
+      ],
+      "fullInstitutionalTextFile": "11574-source.txt",
+      "identityEvidence": "基本資料 --> 文物統一編號 購錢002236N000000000 品名 熙寧元寶 Coin with inscription \"Xining yuanbao\" 分類 錢幣 時代 北宋 西元960-1127年 尺寸 待測量 說明 銅質，方孔圓錢，正面有楷書：「熙寧元寶」四字，背面無文。 "
+    },
+    {
+      "assetId": "china-batch-09-wangyangming-xiang-shrine",
+      "catalogId": 26934,
+      "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/26934?dep=P",
+      "sourceReceipt": "26934-source.html",
+      "sourceText": "26934-source.txt",
+      "downloadReceipt": "26934-PAF-receipt.json",
+      "sourceSha256": "99037e035f98fa68e1ae49a677965f5ec5649d878c2beb41f56ec2ff36e5e715",
+      "rightsQuote": "中階圖像與文字均無須申請、不限用途、不用付費即可公開使用，請於適當位置呈現姓名標示。",
+      "credit": "明王守仁書象祠記 卷。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+      "pixelReviewed": true,
+      "review": "Full selected derivative visually inspected. Album sides and visible subject checked; scroll sections explicitly identified. Unchanged museum derivative.",
+      "targetEvidence": [
+        {
+          "record": {
+            "id": "china-tusi-local-institutions",
+            "title": {
+              "en": "Tusi institutions: local authority and imperial negotiation",
+              "zh": "土司制度：地方权力与帝国协商"
+            },
+            "start": 1200,
+            "end": 1900,
+            "region": "east-asia",
+            "kind": "idea",
+            "theme": "states",
+            "location": {
+              "lat": 28.84,
+              "lon": 109.98,
+              "label": "Laosicheng; representative Tusi heritage site"
+            },
+            "locationPrecision": "representative",
+            "importance": 4,
+            "summary": {
+              "en": "Tusi institutions joined hereditary local leadership with appointments and recognition from imperial governments. The relationship could involve titles, obligations, jurisdiction and competing claims to authority. It was neither identical to direct county administration nor a single independent state with one boundary. Different places and periods require their own political histories.\n\nThe UNESCO grouping of Laosicheng, Tangya and Hailongtun preserves administrative, residential, ceremonial and defensive evidence. Layouts and building forms show interactions between local practices and imperial symbols. An official heritage narrative emphasizes connection and accommodation, but material combination alone does not prove that relations were always peaceful or consensual. Examining institutions alongside community experience helps explain both negotiated rule and unequal power. This entry supplies a regional framework for individual fortresses and campaigns without turning every monument into a separate dynasty or projecting present administrative categories backward unchanged.",
+              "zh": "土司制度把世袭地方首领，与帝国政府的任命和承认联系起来。这种关系涉及名号、义务、司法权限和相互竞争的权威主张。它既不等同于直接的州县行政，也不是拥有单一边界的独立国家；不同地点与时期都需要各自的政治史。\n\n老司城、唐崖和海龙屯组成的世界遗产，保存了行政、居住、仪式和防御方面的证据。布局与建筑形式显示地方实践同帝国符号之间的互动。官方遗产叙述强调联系和调适，但物质形式的结合本身，不能证明关系始终和平或出于一致同意。把制度与社区经验并读，才能同时解释协商统治与不平等权力。本条为具体城堡和战争提供区域框架，不把每处遗址变成一个王朝，也不把今天的行政类别原样投射到过去。"
+            },
+            "dateNote": {
+              "en": "Approximate thirteenth–nineteenth-century institutional focus; the official dossier extends into the early twentieth century. No common founding/end date or territorial polygon is asserted.",
+              "zh": "约关注十三至十九世纪的制度；官方档案还涉及二十世纪初。不主张统一起止年或共同领土边界。"
+            },
+            "sources": [
+              {
+                "title": "Tusi Sites",
+                "url": "https://whc.unesco.org/en/list/1474/",
+                "publisher": "UNESCO World Heritage Centre",
+                "evidenceNote": "Laosicheng, Tangya and Hailongtun; hereditary local offices, central appointments and architectural evidence. Official heritage framing does not prove peaceful consent or uniform local experience; single official dossier. Retrieval: full-page text inspected.",
+                "checkedAt": "2026-10-23"
+              }
+            ],
+            "relatedIds": [
+              "yuan-dynasty",
+              "ming-dynasty",
+              "qing-dynasty",
+              "china-landmark-139"
+            ],
+            "expansion": {
+              "workstreams": [
+                "CH2"
+              ],
+              "release": 3,
+              "sourceReview": "Original bilingual synthesis; full-page, indexed-only and single-institution evidence limits are disclosed per source. Not a claim that the inherited China corpus or map geometries are fully verified."
+            },
+            "keyFacts": {
+              "en": [
+                "Tusi institutions joined hereditary local leadership with appointments and recognition from imperial governments.",
+                "The relationship could involve titles, obligations, jurisdiction and competing claims to authority."
+              ],
+              "zh": [
+                "土司制度把世袭地方首领，与帝国政府的任命和承认联系起来。",
+                "这种关系涉及名号、义务、司法权限和相互竞争的权威主张。"
+              ]
+            }
+          },
+          "previouslyCovered": false,
+          "connection": {
+            "en": "The text responds to a local An chief’s rebuilding of a shrine and discusses moral transformation. It offers a Ming scholar’s voice within negotiations between hereditary local authority and imperial cultural ideals.",
+            "zh": "文字回应安氏宣慰重修祠宇，并讨论教化；在世袭地方权力与帝国文化理想的互动中，留下明代士人的声音。"
+          }
+        },
+        {
+          "record": {
+            "id": "china-person-wangyangming",
+            "sourceProfileId": "china-person-wangyangming",
+            "name": {
+              "en": "Wang Yangming",
+              "zh": "王阳明"
+            },
+            "title": {
+              "en": "Wang Yangming: moral knowledge tested in action",
+              "zh": "王阳明：在行动中检验道德认识"
+            },
+            "start": 1499,
+            "end": 1529,
+            "region": "east-asia",
+            "kind": "person",
+            "theme": "knowledge",
+            "importance": 4,
+            "location": {
+              "lat": 26.87,
+              "lon": 106.6,
+              "label": "Guizhou, representative setting of exile and reflection",
+              "labelI18n": {
+                "en": "Guizhou, representative setting of exile and reflection",
+                "zh": "贵州，贬谪与思考的代表地区"
+              }
+            },
+            "locationPrecision": "representative",
+            "summary": {
+              "en": "Wang Yangming, also known as Wang Shouren, passed the highest civil examination in 1499. Punishment in 1506 sent him toward exile in Guizhou, where the insight associated with 1508 became a turning point in his philosophical account. He argued that moral knowing was not merely information stored before action: genuine understanding and conduct belonged together. His emphasis on innate moral awareness also challenged a learning practice centered only on accumulating external knowledge. Return to office brought military and administrative responsibilities, keeping his philosophy close to questions of public action. The resulting tradition asks a practical question: what does someone truly know if that knowledge leaves their conduct untouched?",
+              "zh": "王阳明本名王守仁，1499年通过最高级文官考试。1506年受罚后，他被贬往贵州；与1508年相联系的悟道，成为其思想历程的转折。他主张道德认识并非行动前储存的一套信息，真实理解与行为本来相连。对内在良知的重视，也挑战了只向外积累知识的学习方式。重返仕途后，军事和行政职责使其哲学持续接触公共行动的问题。由此形成的思想传统提出一个切实追问：如果某种知识丝毫不改变人的行为，究竟能说已经懂得了什么？"
+            },
+            "dateNote": {
+              "en": "1499–1529 selects examination through death. The 1508 insight is the biographical tradition discussed by the philosophical reference; its map point represents the Guizhou region.",
+              "zh": "1499—1529年选取科举至卒年。1508年悟道据哲学资料讨论的传记传统；标点代表贵州地区。"
+            },
+            "sources": [
+              {
+                "title": "Wang Yangming",
+                "publisher": "Stanford Encyclopedia of Philosophy",
+                "url": "https://plato.stanford.edu/entries/wang-yangming/",
+                "evidenceNote": "Biographical section gives 1499 examination, 1506 punishment and Guizhou exile, 1508 insight and 1529 death; philosophical sections explain unity of knowledge and action and innate moral knowing.",
+                "evidenceNoteZh": "传记部分记1499年科举、1506年受刑与贬贵州、1508年悟道及1529年卒；思想部分解释知行合一与良知。",
+                "checkedAt": "2026-11-09",
+                "retrieval": "opened-page"
+              }
+            ],
+            "milestones": [
+              {
+                "year": 1499,
+                "title": {
+                  "en": "The highest examination",
+                  "zh": "通过最高级科举"
+                },
+                "description": {
+                  "en": "Examination success brought Wang into imperial service.",
+                  "zh": "科举成功使王氏进入皇朝仕途。"
+                },
+                "location": {
+                  "lat": 39.91,
+                  "lon": 116.39,
+                  "label": "Beijing, representative capital",
+                  "labelI18n": {
+                    "en": "Beijing, representative capital",
+                    "zh": "北京，代表性都城"
+                  }
+                }
+              },
+              {
+                "year": 1506,
+                "title": {
+                  "en": "Punishment and exile",
+                  "zh": "受刑与贬谪"
+                },
+                "description": {
+                  "en": "A political confrontation led to punishment and removal to Guizhou.",
+                  "zh": "政治冲突导致受刑并贬往贵州。"
+                },
+                "location": {
+                  "lat": 26.87,
+                  "lon": 106.6,
+                  "label": "Guizhou, destination of exile; not a punishment site",
+                  "labelI18n": {
+                    "en": "Guizhou, destination of exile; not a punishment site",
+                    "zh": "贵州，贬谪目的地；不是受刑地点"
+                  }
+                }
+              },
+              {
+                "year": 1508,
+                "title": {
+                  "en": "A philosophical turning point",
+                  "zh": "思想转折"
+                },
+                "description": {
+                  "en": "The biographical account associates exile with a new understanding of moral knowledge.",
+                  "zh": "传记叙述将贬谪生活与新的道德认识联系起来。"
+                },
+                "location": {
+                  "lat": 26.87,
+                  "lon": 106.6,
+                  "label": "Guizhou, representative region",
+                  "labelI18n": {
+                    "en": "Guizhou, representative region",
+                    "zh": "贵州，代表性地区"
+                  }
+                }
+              }
+            ],
+            "relatedIds": [
+              "ming-dynasty",
+              "china-person-wanganshi"
+            ],
+            "expansion": {
+              "workstreams": [
+                "CH1",
+                "CH2"
+              ],
+              "release": 11,
+              "edition": "v17",
+              "sourceReview": "Original bilingual biography; dates and claims checked against the individually described sources. No donor prose reproduced.",
+              "reviewLimit": {
+                "en": "Selected career episodes; the mapped points represent named cities or regions, not exact buildings or a reconstructed itinerary.",
+                "zh": "选取仕途与创作片段；地图点代表所述城市或地区，并非确切建筑或复原行程。"
+              }
+            }
+          },
+          "previouslyCovered": true,
+          "connection": {
+            "en": "The text responds to a local An chief’s rebuilding of a shrine and discusses moral transformation. It offers a Ming scholar’s voice within negotiations between hereditary local authority and imperial cultural ideals.",
+            "zh": "文字回应安氏宣慰重修祠宇，并讨论教化；在世袭地方权力与帝国文化理想的互动中，留下明代士人的声音。"
+          }
+        }
+      ],
+      "fullInstitutionalTextFile": "26934-source.txt",
+      "identityEvidence": "基本資料 --> 文物統一編號 贈書000581N000000000 作品號 贈書00058100000 品名 明王守仁書象祠記 卷 Record of Xiang's Shrine 分類 法書 作者 王守仁,Wang Shouren [Wang Yangming] 書體 草書 數量 一卷 作品語文 漢文 釋文 象祠記。靈博之山。有象祠焉。其下諸苗夷之居者。咸神而祀之。宣慰安君因諸苗夷之請。新其祠屋。而請記於余。余曰。毀之乎。其新之也。曰。新之。新之也。何居乎。曰斯祠之肇也。蓋莫知其原。然吾諸蠻夷之居是者。自吾父。吾祖。遡曾。高而上。皆尊奉而禋祀焉。舉之而不敢廢也。予曰。胡然乎。有庳之祠。唐之人蓋嘗毀之。象之道。以為子則不孝。以為弟則傲。斥於唐。而猶存於今。壞於有庳。而猶盛於茲土也。胡然乎。我知之矣。君子之愛夫若人也。推及於其屋之烏。而況於聖人之弟乎哉。然則祠者為舜。非為象也。意象之死。其在干羽既格之後乎。不然。古之驁桀者豈少哉。而象之祠獨延於世。吾於是蓋有以見舜德之至。入人之深。而流澤之遠且久也。象之不仁。蓋其始焉耳。又烏知其終之不見化於舜也。書不云乎。克諧以孝。烝烝乂。不格姦。瞽瞍亦允若。瞍已化而為慈父。象猶不弟。不可以為諧。進治於善。則不至於惡。不底於奸。則必入於善。信乎象蓋已化於舜矣。孟子曰。天子使吏治其國。象不得以有為也。斯蓋舜愛象之深而慮之詳。所以扶持輔導之者周也。不然。周公之德。而管蔡不免焉。斯可以見象之既化於舜。故能任賢使能而安於其位。澤加於其民。既死而人懷之也。諸侯之卿。命於天子。蓋周官之制。其殆倣於舜之封象歟。吾於（脫一是字）蓋有以信人性之善。天下無不可化之人也。然是唐人之毀之也。據象之始也。今之諸夷之奉之也。承象之終也。斯義也。吾將以表於世。使知人之不善。雖若象焉。猶可以改。而君子之脩德。及其至也。雖若象之不仁。而猶可以化之也。年弟守仁。 典藏尺寸 --> 位置 尺寸(公分) 本幅 30.9x700 拖尾 32.8x116 質地 --> 質地位置 質地 本幅 紙 拖尾 紙 題跋資料 --> 題跋類別 作者 位置 款識 書體 全文 題跋 趙爾萃 印記 expand_more 拖尾 宣統二年（西元一九一０年）傲徠山民跋 行草書 王文成功大楷筆力堅卓。天骨開張。大草則又轉折自如。風神瀏利。憶次兄處存一卷子。內有行楷及章草。各盡其妙。亦可謂能者無所不能矣。宣統二年（西元一九一０年）傲徠山民跋。 印主 印記 趙爾萃 趙爾萃印 印記資料 --> 印記類別 印主 印記 收傳印記 羅家倫 志希圖書 收傳印記 趙爾萃 傲徠山民眼福 收傳印記 趙爾萃 傲徠山房 收傳印記 羅家倫 羅家倫 作者印記 王守仁 王守仁印 作者印記 王守仁 弘治己末會試第一人 作者印記 王守仁 陽明山人 參考資料 --> 類別 參考資料 收藏著錄 羅家倫夫人張維楨女史捐贈書畫目錄，頁94-101、166-167 "
+    },
+    {
+      "assetId": "china-batch-09-mou-yi-clothes",
+      "catalogId": 618,
+      "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/618?dep=P",
+      "sourceReceipt": "618-source.html",
+      "sourceText": "618-source.txt",
+      "downloadReceipt": "618-PAK-receipt.json",
+      "sourceSha256": "4ab467569ccc47b340238de0cb0dccc1dfdf7781d01beaf069562c2731e3e09e",
+      "rightsQuote": "中階圖像與文字均無須申請、不限用途、不用付費即可公開使用，請於適當位置呈現姓名標示。",
+      "credit": "宋牟益擣衣圖 卷。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+      "pixelReviewed": true,
+      "review": "Full selected derivative visually inspected. Album sides and visible subject checked; scroll sections explicitly identified. Unchanged museum derivative.",
+      "targetEvidence": [
+        {
+          "record": {
+            "id": "china-song-textile-households",
+            "title": {
+              "en": "Song textiles: household work and skilled workshops",
+              "zh": "宋代纺织：家庭劳动与专业作坊"
+            },
+            "start": 960,
+            "end": 1279,
+            "region": "east-asia",
+            "kind": "culture",
+            "theme": "exchange",
+            "location": {
+              "lat": 30.27,
+              "lon": 120.16,
+              "label": "Lower Yangzi; representative textile-producing setting"
+            },
+            "locationPrecision": "representative",
+            "importance": 4,
+            "summary": {
+              "en": "Silk’s prestige can hide the many stages of labour that made cloth possible. Feeding silkworms, tending trays, handling cocoons and preparing thread required repeated household work, often performed by women. Complex patterned fabrics also depended on skilled professional weaving in official and private workshops. These tasks belonged to connected settings rather than one uniform factory system.\n\nMost people did not dress exclusively in luxurious silk: hemp, ramie and, increasingly toward the end of the period, cotton also mattered. A painted sericulture handscroll offers a carefully composed image of production, not an unmediated record of every worker’s conditions. Reading it beside written accounts helps ask whose effort was celebrated, organized or left unnamed. The resulting history connects elite garments and traded goods to ordinary maintenance work, while allowing divisions of skill and gender to differ across households and workshops.",
+              "zh": "丝织品的声望容易遮蔽成布之前的多重劳动。养蚕、清理蚕盘、处理蚕茧与准备丝线，需要反复进行的家庭工作，往往由女性承担。复杂花纹织物还依靠官营或私营作坊中的专业织工。这些工作属于相互联系的不同环境，并非统一的工厂体系。\n\n多数人并不全穿华贵丝绸，麻、苎麻以及宋末日益重要的棉也参与日常衣着。蚕织画卷提供的是经过组织的生产图像，不是每位劳动者处境的直接记录。把画面与文字记载并读，有助于追问哪些劳动被赞颂、被组织，哪些劳动者没有留下姓名。这样的历史把精英服饰和贸易商品与普通日常维护连接起来，同时允许家庭和作坊中的技能、性别分工存在差异。"
+            },
+            "dateNote": {
+              "en": "Song-period focus, 960–1279. The representative point is not the origin of all fibres or a boundary for textile production.",
+              "zh": "关注960—1279年的宋代；坐标既不是所有纤维的起源地，也不是纺织生产的边界。"
+            },
+            "sources": [
+              {
+                "title": "Textiles and Silk",
+                "url": "https://afe.easia.columbia.edu/songdynasty-module/econ-rev-silk.html",
+                "publisher": "Columbia University, Asia for Educators",
+                "evidenceNote": "Household sericulture, women’s labour, professional complex-loom weaving and the importance of plant-fibre clothing. Describes broad divisions, not every workshop’s workforce. Retrieval: full-page text inspected.",
+                "checkedAt": "2026-10-23"
+              },
+              {
+                "title": "Sericulture (The Process of Making Silk), 1977.5",
+                "url": "https://www.clevelandart.org/art/1977.5",
+                "publisher": "Cleveland Museum of Art",
+                "evidenceNote": "Southern Song painted handscroll associated with silk work; visual evidence is an elite artistic representation, not a census or photographic record. Retrieval: full-page text inspected.",
+                "checkedAt": "2026-10-23"
+              }
+            ],
+            "relatedIds": [
+              "northern-song",
+              "southern-song",
+              "china-song-urban-markets"
+            ],
+            "expansion": {
+              "workstreams": [
+                "CH2"
+              ],
+              "release": 2,
+              "sourceReview": "Original bilingual synthesis; full-page, indexed-only and single-institution evidence limits are disclosed per source. Not a claim that the inherited China corpus or map geometries are fully verified."
+            },
+            "keyFacts": {
+              "en": [
+                "Silk’s prestige can hide the many stages of labour that made cloth possible.",
+                "Feeding silkworms, tending trays, handling cocoons and preparing thread required repeated household work, often performed by women."
+              ],
+              "zh": [
+                "丝织品的声望容易遮蔽成布之前的多重劳动。",
+                "养蚕、清理蚕盘、处理蚕茧与准备丝线，需要反复进行的家庭工作，往往由女性承担。"
+              ]
+            }
+          },
+          "previouslyCovered": false,
+          "connection": {
+            "en": "The scissors, fabric and shared workspace make garment preparation visible. This Southern Song image is a literary interpretation with Tang-style figures, not an unmediated picture of a Song workshop.",
+            "zh": "剪刀、布料与共同工作空间呈现成衣劳动；此南宋作品以唐风人物阐释诗意，并非宋代作坊的直接写照。"
+          }
+        }
+      ],
+      "fullInstitutionalTextFile": "618-source.txt",
+      "identityEvidence": "基本資料 --> 文物統一編號 故畫000999N000000000 作品號 故畫00099900000 品名 宋牟益擣衣圖 卷 Preparing Clothes 分類 繪畫 作者 牟益,Mou Yi 數量 一卷 典藏尺寸 --> 位置 尺寸(公分) 本幅 27.1x266.4 後隔水 27.3x12.1 拖尾 27.3x564.2 前隔水 28x11.8 質地 --> 質地位置 質地 本幅 紙 拖尾 紙 前隔水 綾 後隔水 綾 題跋資料 --> 題跋類別 作者 位置 款識 書體 全文 作者款識 牟益 拖尾 嘉熙庚子良月既望。蜀客牟益德新書。 行書 右謝惠連擣衣詩五言十二韻。曲盡閨闈婉𡡗動息矉伸之態。意韻萬千。妙在言外。詠歎不已。因取周昉美人。稍加位置。畫為橫卷。思短筆拙。雖不足以形容謝詩妙處。若曰模章寫句。亦自謂得其仿佛。顧年踰耳順之三。疲敝精神。尚爾兒戲。良可憫笑。志之所好。自忘其勞。不知視苦身疾作。務積而不能用。與夫夜以繼日。思慮善否者。其為樂果何如。得之果惡乎在。寓目者毋徒議筆墨之工拙。試與共商榷之。嘉熙庚子良月既望。蜀客牟益德新書。 作者款識 牟益 拖尾 行書 戊戌春。寓鄱陽安國僧舍。嘗作此圖。積日月而後成。雖不自以為奇。念為之勤。非知音不妄出。後二年。攜至豫章。遂歸連帥文昌吳公。是歲秋。館于東湖董良史圃中。復為此紙。視前增人十。樹四。砧杵之上。又加屋焉。始題數語於後。聊披閱以自娛。良史既見。有欲得之色而不言。僕曰。子欲之乎。曰是所欲而不敢請。僕曰。子以我為難乎。嬉戲鄙事。取之於己（原書我）而不竭者。於朋友又何難。遂舉以遺之。良史好古博雅。藏書萬卷。古玩名帖。羅列几格。乃欲以此圖錯置其間。猶肆筵設席。水陸畢陳。而山肴野蔌。尚所不棄。竊喜小道獨有所偶。於是載書。 題跋 董史 印記 expand_more 本幅 史書 行書 謝惠連擣衣詩。衡紀無淹度。晷運倐如催。白露滋園菊。秋風落庭槐。肅肅莎雞羽。烈烈寒螿啼。夕陰結空幕。宵月皓中閨。美人戒裳服。端飾相招攜。簪玉出北房。鳴金步南階。（此字脫）。櫩高砧響發。楹長杵聲哀。微芳起兩袖。輕汗染雙題。紈素既已成。君子行未歸。裁用笥中刀。縫為萬里衣。盈篋自余手。幽緘候君開。腰帶准疇昔。不知今是非。款。史書。 印主 印記 董史 董氏適適堂奇蹟 董史 書帷寶繪 董史 洪董良史 董史 董史祕玩 題跋 清高宗 印記 expand_more 本幅 乾隆丁卯（西元一七四七年）首夏御題於長春書屋即用圖間謝恵連擣衣詩韻兼效其體。 行書 凉飈颯蕭瑟。節序忽已催。絡緯吟露莎。鵯鶋棲夜槐。佳人未忍眠。顰眉黯如啼。舉首見明月。攬衾對空閨。憶遠各呻吟。命侣聊招攜。尺素出文笥。平砧列閒階。女伴強笑言。黙喻中懐哀。長短准舊度。袗襲别新題。不裁雙鴛鴦。留待君予歸。王風咏執簧。七月廑授衣。圖史堪起予。往復卷更開。髙咏恵連詩。遑問學歩非。乾隆丁卯（西元一七四七年）首夏御題於長春書屋即用圖間謝恵連擣衣詩韻兼效其體。 印主 印記 清高宗 雲霞思 清高宗 乾 清高宗 隆 清高宗 幾暇臨池 題跋 清高宗 印記 expand_more 本幅 次韻再題次韻再題。時戊辰（西元一七四八年）清和月七日。。時戊辰（西元一七四八年）清和月七日。 行書 溶溶凉露濕庭阿。雙杵悲聲散綺羅。暖殿忽思同展玩。頓教霑漬淚痕多。獨旦凄其賦錦衾。横圖觸景痛難禁。江邨題句真清絶。急節曽悲樹下砧。 沼宫靄靄女桑低。盆手曽三玉腕提。盛典即今成往蹟。空憐蠶月冷椒閨。昔曽用謝惠連韻題此圖巻端。毎讀巻尾髙士奇所題三絶句及識語。感其意而悲之。重爲檢閱。則宛然予意中事矣。夫人雖貴賤不同。其爲倫常之情則一也。觸景傷神。次韻再題。時戊辰（西元一七四八年）清和月七日。 印主 印記 清高宗 宸翰 題跋 清高宗 印記 expand_more 本幅 甲戌（西元一七五四年）寒食節前一日值孝賢皇后忌辰。追念前徽。撫懷節序。悲不自已。載展是卷距戊辰舊題又星霜七易。披圖觸緒。繭館猶新。用寫傷情。仍賡舊韻。御筆。 行書 鴻龍運玉斗。紀序相嬗催。新烟引緑榆。兔目吐髙槐。邇日頻望雨。愁卜桑鳩啼。孰謂斷魂節。憶昔别椒閨。東巡禮岱宗。鳳翣聊相擕。大故遭登舟。銀漢不可階。兹辰值忌辰。慼慼余懷悲。遣緒展斯圖。圖間有舊題。傳神擅老牟。宛似秋氣歸。佳人閙掃粧。相聚擣寒衣。即今重織維。親蠶館復開。何當盆手三。愴念前人非。甲戌（西元一七五四年）寒食節前一日值孝賢皇后忌辰。追念前徽。撫懷節序。悲不自已。載展是卷距戊辰舊題又星霜七易。披圖觸緒。繭館猶新。用寫傷情。仍謝舊韻。御筆。 印主 印記 清高宗 中和 清高宗 染翰 題跋 拖尾 閒中 行書 蟲聲日夜戒衣裘。（山谷）。鐵馬追風塞草秋。（東坡）。默默此時誰會得。（荊公）。畫成應遣一生愁。（司馬公）。右集句一首。閒中。 題跋 曾鼎 拖尾 曾鼎 行書 隙月漏微光。涼聲入衣早。銀漢迴碧波。白露下秋草。深閨美人思流年。感此煢煢那得眠。鳴環緩步踏幽影。畫欄斜倚雙蟬娟。鸐關音信經年絕。帶綰同心向誰說。并刀旋翦製寒衣。數尺纖書淚成血。良工善得詩家情。筆端描寫逾丹青。至今流落在人手。展翫尤為人所稱。嗟哉男兒有身當報國。共期百歲全令德。功成名就歡相逢。莫為搗衣空歎息。曾鼎。 題跋 黃榘 印記 expand_more 拖尾 黃矩 行書 佳人何事搗寒衣。和淚裁縫欲寄誰。惆悵愁隨霜葉墜。丁東聲襍草蛩悲。九秋風露難成夢。萬里關山有所思。一段閑情誰解得。淒涼都付畫兼詩。唐王右丞能詩善畫。東坡謂其詩中有畫。畫中有詩。然而世不多見。惟輞川圖陽關圖有之。千百年來。士大夫學詩畫者。多倣其意。惜乎知此者不知彼。知彼者不知此。得於此者失於彼。得於彼者失於此。求其兼美者。百不一二。吁。此無他。能得詩畫三昧者。乃可與言也。今觀牟祈德新所繪搗衣圖。蓋摹江左謝惠連詩意。其風簷月席。煙露草虫之情。閨房簪珥之態。皆含蓄在（原書多）圖內。非特描寫形容以為工者。真所謂畫中有詩者也。使小謝復生而見之。必賞其能為之傳神云。內弟子昌。自其聶氏故居攜歸城東別館。蓋藏其家已三世矣。後人宜寶之。黃榘。 印主 印記 黃榘 體方 黃榘 治世之音 黃榘 江上清風 題跋 黃慶 拖尾 時洪武初元中秋日良識。 楷書 余生平愛古人畫。追憶先人所藏。悉燬於壬辰之變。可痛惜哉。兵定之後。余深有以述前志。又值困頓之餘。弗盡如願。雖間得二三。殊無絕筆。獨此卷得之豫章夏氏之三友堂。前太守曹公仲修。嘗撫卷翫嘆而謂余曰。慎勿視其簡淡而輕棄焉。畫史尤工於詩文者也。觀其摹章寫句。曲盡幽閨情態。亦已至矣。想當下筆之初。心融神會。用意豈淺淺哉。時洪武初元中秋日良識。 題跋 黃慶 印記 expand_more 拖尾 洪武辛未夏。黃慶書。 楷書 履道藏其父仲善所跋搗衣圖。未書于卷。而謫居遼東。履道珍藏不敢失墜。余在泮。求為書之。余嘉其志。故特書于卷後。若履道可謂知所愛矣。洪武辛未夏。黃慶書。鈐印二。黃太宇氏。湖陰釣徒。 印主 印記 黃慶 黃太宇氏 黃慶 湖陰釣徒 題跋 搢紳 拖尾 搢紳書 草書 妙畫又善文。自王右丞蘇內翰來。寥寥矣。此牟祈畫。有識語甚佳。其人大宋一奇士。無大名位。可惜。此畫則王蘇不如矣。是可寶也。視公麟七月圖皆民事。髣髴哉。搢紳書。 題跋 習韶 印記 expand_more 拖尾 奉議大夫兵部郎中廬陵習韶書 草書 池塘春水已生魚。門外飛花點石渠。惆悵東風（點去）近來無過雁。一簾香雨搗衣圖。奉議大夫兵部郎中廬陵習韶書。 印主 印記 習韶 習韶 習韶 尚庸之印 習韶 文章公器 習韶 虛菴 習韶 天與人文 題跋 張峻 印記 expand_more 拖尾 時永樂廿年。龍集壬寅。秋七月中元日。後學秀峰張峻識并書。 行書 落葉蕭蕭風露涼。深閨感此搗衣裳。三邊夢斷雲連海。雙杵敲殘月滿床。聲雜候蟲秋慘切。愁隨更漏夜添長。縫成不怕關山阻。惆悵憑誰遠寄將。右搗衣圖一卷。乃牟祈德新所畫。曲盡閨房簪珥之態。皆妙絕一時。信名筆也。昔藏於城南聶履道之家。當時以為至寶。至其子子昌。與益勤善。乃以此卷贈之。暇日俾余題識。余觀此圖。妙在意外。固不容論。而又復覩諸先達之雄文鉅篇。播之詠歌。發揮之至矣。奚庸贅辭。因其請之數。固不容默喙而已也。遂掇拾陳腐。執筆惶悚。所謂持布鼓過雷門。正謂此也。時永樂廿年。龍集壬寅。秋七月中元日。後學秀峰張峻識并書。 印主 印記 張峻 齊岳之章 張峻 清河世家 張峻 玉壺秋水 張峻 古齋圖書 張峻 珊瑚玉樹交枝柯 題跋 高士奇 印記 expand_more 拖尾 康熙辛未閏七月朔日。題於信天巢。并書。看書者維揚顧書宣。同郡王赤抒。大兒元受。江屯?抱瓮翁高士奇。 行書 玉鋪皎月移秋陰。老槐葉脫孤螿吟。閒庭露冷夜涼入。美人相對鳴秋砧。宮眉倒暈出新樣。晚妝鬧掃橫珠簪。風絃露索響寂歷。雙杵宛中宮商音。暗泉石竇聽決決。金戈鐵馬來駸駸。愁多力少斷復續。可憐驚起雙棲禽。摒當次第入筐篋。鈎縚緜密親縫紝。燈光香灺黯無語。羅屏斜展檐櫳深。小謝詩篇老牟畫。等閒寫出璇閨心。騰聲傳寶自南宋。年將五百留至今。春窗日嫩一披卷。恍如秋夜天橫參。幽噫怨亂百感作。移人那減雍門琴。幸我心無不平事。否則懭悢添胸襟。團窠細錦密包褁。對客誇比雙南金。康熙辛未閏七月朔日。題於信天巢。并書。看書者維揚顧書宣。同郡王赤抒。大兒元受。江邨抱瓮翁高士奇。 印主 印記 高士奇 士奇 高士奇 高澹人 題跋 高士奇 印記 expand_more 拖尾 江邨再題 行書 暮春題此詩後。臥病累月。新秋乘曉涼書之。流光忽忽。漸授衣時矣。良可嘆夫。江邨再題。 印主 印記 高士奇 高詹事 題跋 高士奇 拖尾 江村獨旦翁高士奇 行書 一鈎（纖字點去）新月離纖阿。露冷雲屏掩越羅。打叠縑緗寒計早。花間蟋蟀漸聲多。早秋涼氣拂衣衾。病骨凌晨苦不禁。誰更碧梧高樹下。舊裳重浣試清砧。迢迢碧漢玉繩低。雙杵含情手懶提。對此更添他日恨。遠行裁剪斷深閨。不閱此卷三年矣。甲戌秋七月四日。輕陰微涼。坐簡靜齋盆蘭側展觀。重題三斷句。回憶山荊在日。服食起居。皆豫為經理。今日之事。與辛未年異。所謂懭悢添胸襟也。用花嶼堂墨紫毫筆書之。付兩子輿軒珍祕。江村獨旦翁高士奇。 題跋 沈德潛 印記 expand_more 拖尾 臣沈德潛敬題 行書 秋氣入庭戶。節序將人催。叢叢綻瘦菊。瑟瑟飛古槐。彼美念遠人。於悒不敢啼。涼風尋幽幔。明月厭空閏。同心兩無?巾口口午?。素手各相攜。開笥檢舊服。把杵下閒階。彷彿女嬃砧。音響悽以哀。更為裁紈綺。錦字密緘題。畫師寫閒靜。共望征人歸。未知別後體。還稱故時衣。貞心既已傳。生面若為開。聊比東山詩。愜當誰云非。臣沈德潛敬題。 印主 印記 沈德潛 德 沈德潛 潛 沈德潛 筆沾春雨 題跋 高士奇 印記 expand_more 拖尾 庚午三月。朗潤堂重裝。 南宋牟益擣衣圖真蹟。康熙己巳九月。購於都下。壹百肆拾兩。庚午三月。朗潤堂重裝。 印主 印記 高士奇 朗潤堂 印記資料 --> 印記類別 印主 印記 收傳印記 董史 □董氏□之記 收傳印記 士珍 收傳印記 安岐 子孫保之 收傳印記 天逸齋 收傳印記 安岐 心賞 收傳印記 安岐 古香書屋 收傳印記 張孟兼 白石山房書畫之記 收傳印記 安岐 安 收傳印記 安岐 安氏儀周書畫之章 收傳印記 安岐 安岐之印 收傳印記 安岐 安儀周家珍藏 收傳印記 高士奇 江村秘藏（重一） 收傳印記 高士奇 江村草堂 收傳印記 董史 洪董良史（半印） 收傳印記 董史 書帷寶繪（重二。半印一） 收傳印記 高士奇 朗潤堂印 收傳印記 高士奇 高士奇（重七。半印二） 收傳印記 高士奇 高士奇圖書記（半印） 收傳印記 安岐 朝鮮人 收傳印記 董史 董氏適適堂奇蹟 收傳印記 董史 董史秘玩（重二。半印一） 收傳印記 安岐 儀周珍藏（重一） 收傳印記 安岐 儀周鑑賞 收傳印記 高士奇 澹人 鑑藏寶璽 清高宗 八徵耄念之寶 鑑藏寶璽 清高宗 三希堂精鑑璽 鑑藏寶璽 清高宗 五福五代堂古稀天子寶 鑑藏寶璽 清高宗 內府書畫之寶 鑑藏寶璽 清高宗 內府書畫之寶（重一） 鑑藏寶璽 清高宗 太上皇帝之寶 鑑藏寶璽 清高宗 古希天子 鑑藏寶璽 清高宗 石渠定鑑 鑑藏寶璽 清高宗 石渠寶笈 鑑藏寶璽 清高宗 宜子孫 鑑藏寶璽 宣統帝 宣統御覽之寶 鑑藏寶璽 清高宗 乾隆御覽之寶 鑑藏寶璽 清高宗 乾隆鑑賞 鑑藏寶璽 清高宗 御賞 鑑藏寶璽 清高宗 御賞（重八） 鑑藏寶璽 清仁宗 嘉慶御覽之寶 鑑藏寶璽 清高宗 壽 鑑藏寶璽 清高宗 寧壽宮續入石渠寶笈 鑑藏寶璽 清高宗 樂壽堂鑒藏寶 鑑藏寶璽 清高宗 稽古右文之璽 鑑藏寶璽 清高宗 稽古右文之璽（重八） 鑑藏寶璽 清高宗 寶笈重編 主題 --> 主題類別 主題(第一層) 主題(第二層) 主題說明 主要主題 人物 仕女 其他主題 人物 侍從（侍女、童僕） 侍女 其他主題 花草 其他主題 花草 菊 其他主題 建築 庭院 其他主題 建築 迴廊 其他主題 建築 欄杆 其他主題 建築 籬笆、圍牆 圍牆 其他主題 草蟲 蜂 其他主題 經史‧故事 故事 其他主題 器用 耕織漁獵 織（布、剪刀） 其他主題 器用 傢俱（屏風） 傢俱（屏風、簾子） 其他主題 器用 飲食器 壺、碗 其他主題 器用 燭台．蠟燭 燭 其他主題 樹木 技法 --> 技法 技法細目 人物衣紋描法(粗細線條) 工筆 白描 參考資料 --> 類別 參考資料 內容簡介 牟益（西元一一七八年－？），字德新，四川人。工人物畫，晚年好研究古文與篆書。此幅畫南朝詩人謝惠連（三九七－四三三）擣衣詩詩意。全卷用淡墨白描，婦女三十二人。面目豐腴，衣裙寬大，猶是唐人遺意。所畫人物樹木屋宇雜物，無一不精。眉宇之間，多有愁思之意，蓋天風漸寒，裁衣寄遠，固有懷思未能止也。 Description Mou I (style-name Te-hsin) was a native of Szechuan. He excelled at figure painting. In his later years his avocations were studying ancient inscriptions and seal script calligraphy. This long handscroll illustrates the poem Making Clothes by Hsieh Hui-lien (397-433), which relates a story of women making clothes for their men away at war. In somber black and white, the entire scroll is limned in light ink in the uncolored outline (pai-miao) method. The thirty-two women depicted here reflect T'ang (618-907) ideals of beauty with their rounded faces and figures and full gowns. Their faces bear expressions of worried sadness, as if in these ever-colder days sending clothing to their faraway spouses is not enough to dispel their anxiety. 參考書目 劉芳如，〈宋牟益擣衣圖 卷〉，收入《國寶的形成-書畫菁華特展》（臺北：國立故宮博物院，2017.10），頁150-161、313-316。 參考書目 國立故宮博物院編輯委員會，〈宋牟益擣衣圖 卷〉，收入《故宮書畫菁華特輯》（臺北：國立故宮博物院，1996.10），頁126-131。 收藏著錄 石渠寶笈續編 （寧壽宮），第五冊，頁2730 收藏著錄 故宮書畫錄（卷四），第二冊，頁64-69 收藏著錄 故宮書畫圖錄，第十六冊，頁341-352 參考書目 1.林莉娜，〈宋牟益擣衣圖〉，收入王耀庭、許郭璜、陳階晉編，《故宮書畫菁華特輯》（臺北：國立故宮博物院，1987年初版，2001年再版），頁126-131。 2.馬孟晶，〈牟益擣衣圖〉，收入劉芳如、張華芝主編，《群芳譜 — 女性的形象與才藝》（臺北：國立故宮博物院，2003年初版一刷），頁136-137。 3.劉芳如，〈宋牟益擣衣圖〉，收入國立故宮博物院編輯委員會編，《仕女畫之美》（臺北：國立故宮博物院，1988年四月初版），頁78。 4.張華芝，〈宋牟益擣衣圖〉，《故宮文物月刊》，第300期（2008年3月），頁20-21。 5.魏可欣，〈哀哀搗聲訴衷情 — 談牟益〈搗衣圖〉卷之圖與文〉，《故宮文物月刊》，第306期（2008年9月），頁40-49。 6.姜又文，〈再析Ellen Johnston Laing, \"Erotic Themes and Romantic Heroines Depicted by Ch'iu Ying\"一文中的《擣衣圖》及《美人春思圖》〉，《議藝份子》，第11期(2008年9月)，頁9-25。 "
+    },
+    {
+      "assetId": "china-batch-09-qianlong-ten-campaigns-kesi",
+      "catalogId": 1907,
+      "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/1907?dep=P",
+      "sourceReceipt": "1907-source.html",
+      "sourceText": "1907-source.txt",
+      "downloadReceipt": "1907-PAC-receipt.json",
+      "sourceSha256": "5cddcff105414c24d2786bf047a6f9ff633334962d2ba71c7cbf649370ceaf24",
+      "rightsQuote": "中階圖像與文字均無須申請、不限用途、不用付費即可公開使用，請於適當位置呈現姓名標示。",
+      "credit": "清人緙絲乾隆書十全記 卷。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+      "pixelReviewed": true,
+      "review": "Full selected derivative visually inspected. Album sides and visible subject checked; scroll sections explicitly identified. Unchanged museum derivative.",
+      "targetEvidence": [
+        {
+          "record": {
+            "id": "china-person-qianlong",
+            "sourceProfileId": "china-person-qianlong",
+            "name": {
+              "en": "Qianlong Emperor",
+              "zh": "乾隆帝"
+            },
+            "title": {
+              "en": "Qianlong Emperor · collecting culture, controlling texts",
+              "zh": "乾隆帝 · 收藏文化与控制文本"
+            },
+            "start": 1735,
+            "end": 1796,
+            "region": "east-asia",
+            "kind": "person",
+            "theme": "states",
+            "importance": 3,
+            "location": {
+              "lat": 39.91,
+              "lon": 116.39,
+              "label": "Beijing, imperial court",
+              "labelI18n": {
+                "en": "Beijing, imperial court",
+                "zh": "北京，皇帝朝廷"
+              }
+            },
+            "locationPrecision": "representative",
+            "summary": {
+              "en": "Qianlong succeeded his father in 1735 and ruled through an expanding court culture of collecting, commissioning and classification. Paintings, calligraphy, gardens and official compilations helped present the emperor as a judge of knowledge and taste. The enormous Siku Quanshu project preserved many texts, while the same court searched for writings it considered hostile to Manchu rule and ordered works altered or destroyed. Cultural patronage and censorship therefore belonged to the same exercise of authority. In 1793 Qianlong received the Macartney embassy but rejected its principal requests for changes to trade arrangements. He formally abdicated in 1796 while continuing to intervene in government, separating the transfer of an imperial title from the surrender of political power.",
+              "zh": "乾隆于1735年继承父位，统治伴随着宫廷收藏、委托制作与知识分类的扩展。绘画、书法、园林和官修典籍，将皇帝呈现为学识与品味的裁定者。《四库全书》工程保存大量文本，同一朝廷也搜查被认为敌视满洲统治的著作，命令删改或销毁。文化赞助与文字审查因此属于同一种权力运作。1793年乾隆接见马戛尔尼使团，却拒绝其改变贸易安排的主要要求。1796年他正式退位，仍继续干预政务，皇位名号的移交并不等于政治权力的交出。"
+            },
+            "dateNote": {
+              "en": "1735–1796 is the selected period of documented activity, not a lifespan. Dates are given at civil-year precision; map points are representative.",
+              "zh": "1735—1796年为所选有据活动时期，并非生卒年。日期精度为公元年；地图点为代表位置。"
+            },
+            "sources": [
+              {
+                "title": "Eminent Chinese of the Ch’ing Period: Hung-li",
+                "publisher": "Arthur W. Hummel, editor; US Government Printing Office, 1943–1944; Wikisource transcription",
+                "url": "https://en.wikisource.org/wiki/Eminent_Chinese_of_the_Ch'ing_Period/Hung-li",
+                "evidenceNote": "1735 accession, art patronage, Siku compilation and censorship, 1793 embassy, 1796 abdication and continuing authority.",
+                "evidenceNoteZh": "1735年即位、艺术赞助、四库编纂与禁毁、1793年使团、1796年退位及继续掌权。",
+                "checkedAt": "2026-11-09",
+                "retrieval": "opened-page-public-domain-reference"
+              }
+            ],
+            "milestones": [
+              {
+                "year": 1735,
+                "title": {
+                  "en": "Accession",
+                  "zh": "即位"
+                },
+                "description": {
+                  "en": "His Qianlong reign era began the following year.",
+                  "zh": "乾隆年号自次年开始。"
+                },
+                "location": {
+                  "lat": 39.91,
+                  "lon": 116.39,
+                  "label": "Beijing, imperial court",
+                  "labelI18n": {
+                    "en": "Beijing, imperial court",
+                    "zh": "北京，皇帝朝廷"
+                  }
+                }
+              },
+              {
+                "year": 1793,
+                "title": {
+                  "en": "Receives Macartney",
+                  "zh": "接见马戛尔尼"
+                },
+                "description": {
+                  "en": "Trade requests did not secure the changes sought by the embassy.",
+                  "zh": "使团提出的贸易要求未获得预期改变。"
+                },
+                "location": {
+                  "lat": 40.98,
+                  "lon": 117.94,
+                  "label": "Chengde",
+                  "labelI18n": {
+                    "en": "Chengde",
+                    "zh": "承德"
+                  }
+                }
+              },
+              {
+                "year": 1796,
+                "title": {
+                  "en": "Formal abdication",
+                  "zh": "正式退位"
+                },
+                "description": {
+                  "en": "He retained authority as retired emperor.",
+                  "zh": "以太上皇身份保留权力。"
+                },
+                "location": {
+                  "lat": 39.91,
+                  "lon": 116.39,
+                  "label": "Beijing, imperial court",
+                  "labelI18n": {
+                    "en": "Beijing, imperial court",
+                    "zh": "北京，皇帝朝廷"
+                  }
+                }
+              }
+            ],
+            "relatedIds": [
+              "china-person-yongzheng",
+              "china-event-qing-024"
+            ],
+            "expansion": {
+              "release": 11,
+              "edition": "v17",
+              "workstreams": [
+                "CH1",
+                "CH2"
+              ],
+              "sourceReview": "Original bilingual synthesis of the inspected passages identified in each source note.",
+              "reviewLimit": {
+                "en": "Retrospective accounts are read for documented actions, not as proof of reported dialogue, motives or exact army totals.",
+                "zh": "事后记述用于核对有据行动，不将所载对话、动机或军队精确人数直接视为定论。"
+              }
+            }
+          },
+          "previouslyCovered": true,
+          "connection": {
+            "en": "Imperial writing became a costly crafted object. The textile connects Qianlong’s collecting and commissioning to the presentation of his military record as perfect achievement, a claim made by the emperor.",
+            "zh": "御书化为精制织物，将乾隆的收藏与委托制作同“十全武功”的自我表述联系起来；“十全”是皇帝自身的主张。"
+          }
+        }
+      ],
+      "fullInstitutionalTextFile": "1907-source.txt",
+      "identityEvidence": "基本資料 --> 文物統一編號 中絲000009N000000000 作品號 中絲00000900000 品名 清人緙絲乾隆書十全記 卷 Silk Tapestry (Kesi) of Qianlong Emperor's Record of Ten Great Campaigns by Qing Dynasty Embroiderers 分類 絲繡 作者 Anonymous 書體 行書 數量 一卷 作品語文 漢文 釋文 （緙絲乾隆十全記）十全記。昨准廓爾喀歸降。命凱旋班師。詩有十全大武揚之句。蓋引而未發。茲特敘而記之。夫記者志也。虞書。朕志先定。乃在心。周禮。春官掌邦國之志。乃在事。旅獒志以道寧。則兼心與事而言之。然總不出夫道。得其道。乃能合於天。以冀承乎貺。則予之十全武功。庶幾有契於斯。而可志以記之乎。十功者。平準噶爾為二。定回部為一。掃金川為二。靖臺灣為一。降緬甸安南各一。即今之受廓爾喀降。合為十。其內地之三叛么膺。弗屑數也。平準噶爾者二。乙亥年以達瓦齊篡奪。諸部瓦解。朕因其部落接踵內屬。乘機致討。以成前志。未半載。遂俘達瓦齊。不意阿睦爾撒納潛逃。欲占伊犁。於是復命進剿逆賊。竄入俄羅斯。以患痘身斃。俄羅斯傳送其屍。伊犁遂平。定回部者一。當大兵西伐。時逆回小和卓木。背恩反覆。因命兆惠等統兵追剿。傳檄拔達克山縛獻。於是其弟兄大小和卓木一擒一斃。掃金川者二。先是金川娑羅奔。搆釁鄰番。戊辰歲。命傅恆厚集諸路官兵。將擣其中堅。而逆酋稽首請降。至壬辰。兩金川聯結作亂。命阿桂統師進剿。至丙申遂平其全境。靖臺灣者一。丁未逆民林爽文莊大田。創立天地會名目。煽誘匪徒。謀為不軌。命福康安海蘭察等統兵過海。將二逆悉行擒獲就誅。降緬甸者一。因緬匪侵擾邊境。命傅恆為經略前往。屢破賊壘。而彼即詣營請降。因而罷師。至戊申。其國長孟隕奉表入貢。乞恕前罪。遂允其請。降安南者一。初黎維祁為阮光平所侵。命孫士毅統兵。為之克復。黎城復封。黎維祁為王。乃阮光平再至。而黎維祁即棄國奔內地。更命福康安前往剿除。而阮光平備陳情事。再四籲懇乞降。並請於庚戌年親來瞻覲祝釐。朕既先有天厭黎氏之語。而安南又無人可付。亦即允其歸降。凡此八次。用兵皆非得已而俱荷。天佑成功。今并此廓爾喀兩次降順。蓋已十蕆大功。我武既揚。實屬厚幸。至於誅王倫。翦蘇四十三。滅田五三事。則係內地亂民。旋即討平。弗薌其事。兹故不列於武功云。前已酉廓爾喀之降。蓋因彼擾藏邊界。發偏師以問罪。而所遣鄂輝等未宣我武。巴忠乃遷就完事。致彼弗懼。而去歲復來。以至大掠後藏。飽欲而歸。使長此以往。彼將占藏地。嚇眾番。全蜀無寧歲矣。戊申歲廓爾喀滋事之始。命鄂輝成德。統率勁旅往剿彼時。因巴忠素曉唐古特語。令往會同籌辦。詎意巴忠諸事擅專。竟與噶布倫丹津班珠爾等。私同沙瑪爾巴定議。每歲令歲中許給廓爾喀元寶三百箇。退還侵地。並立大小合同二紙。鄂輝成德為其所愚。隨同附和。未曾示以兵威。是以廓爾喀去歲復敢侵擾。既將丹津班珠爾等裹去為質。並搶掠札什倫布廟財物。披猖已極。不得不命將興師。聲罪致討。且廓爾喀年來侵佔附近部落。兼并巴勒布三部。與後藏之聶拉木濟嚨宗喀等處毗連。不大加懲創。必至搶佔前後藏地。蜀中打箭鑪一帶將無寧歲矣。是以罪庸臣。選名將。勵眾軍。籌儲餉。去秋於木蘭圍場中。聞廓爾喀復來侵擾之信。朕謂不過與唐古特因錢債起釁。初未有發兵之意。而已忠一聞此事。旋即自戕。始疑此事必有弊端。諭令鄂輝查奏。始知有許銀贖地之事。駐藏大臣俘習渾。當廓爾喀搶掠之時。既不帶兵剿殺。又欲將班禪額爾德尼及達賴喇嘛移駐泰寧等處。幸而達賴喇嘛未從其言。是竟欲委棄藏地。本應即行正法。念其父那木札爾曾經陣亡。從寬令於藏地枷責。雅滿泰同係駐藏大臣。得習渾之奏。竟與聯銜因令一併枷責。以示嚴懲。旋念事關重大。福康安謀勇素著。足堪倚任。因命同海蘭察等。率領巴圖魯。侍衛章京。及索倫屯。疏兵丁前往。大張撻伐。福康安自擦木進兵之後。連次克捷。隨時褒賞。軍糧軍械尤為緊要。去冬即命孫士毅馳往籌辦。今春更命和琳馳抵藏中辦理。其濟嚨以外。令惠齡往來專司趲運。數月以來。宵旰籌謀。實未嘗一刻置懷也。福康安等深感朕恩。弗辭勞苦。於去歲冬月。即率索倫四川降番等精兵。次第由西寧冒雪而進。今歲五月。遂臨賊境。收復藏邊。攻克賊疆。履線險如平地。渡溜要若蹄涔。繞上襲下。埋根批吭。手足胼胝。有所弗恤。七戰七勝。賊人喪膽。福康安等到藏於今歲閏四月廿七日。自第哩浪古帶兵起程。五月初六日至擦木地方。即乘陰雨。連夜發兵。分隊進討海蘭察等。由正路直攻賊寨。福康安督率官兵。攻克碉座。賊人即已驚怖。初八日行抵瑪噶爾。轄爾甲地方。峭壁深林。內藏賊匪三百餘名。官兵擊殺數十名。福康安又派兵埋伏半山。故留一路。誘賊上山。及山半帶兵橫衝。賊眾奔竄。直追至邦杏地方。沿途剿殺無算。初九日直抵濟嚨官寨。分遣兵丁攻撲。使賊人處處受敵。不能相顧。初十日丑刻。同時並進。搶上東南山梁。攻得喇嘛寺。屯聚賊匪又將石砌碉座立時焚燬。官兵等冒雨攻圍。殲戮賊眾殆盡。亥刻遂攻破官寨。藏地全復。十五日至熱索橋。過此即屬賊境。福康安等一面遣兵。由上游峩綠山下。扎筏徑渡。直撲賊卡。而正路官兵。乘勝搭橋。一時並濟將士。無不人人奮勇。痛加剿殺。十七日復行前進。深入賊境一百六七十里。地名協布魯。該處當路有橫河一道。水深溜急。而橋座賊已拆毀。福康安等於二十三日帶兵繞至橫河上游。借接枯樹搭橋。賊匪鎗聲不絕。因於日暮大雨時。佯令各兵徹退。至夜半。賊匪回寨。趕緊接縛大木過河。分為三路。於二十四日黎明。併力壓下。盡行焚燬賊寨。痛殲賊眾。二十四日攻克協布魯後。自噶多正路至足木古拉巴載山梁山下。有橫河一道。對面大山。即係東覺。福康安與海蘭察分為兩路。福康安探得上游噶多普山上樹木茂密。可以藏身。因繞行。於六月初六日下至山麓鳧水渡河。官兵奮勇剿殺。將近河碉卡木城。盡行奪據。而海蘭察亦連日潛伏。冒雨步行。初六日黎明徑登博爾東拉山巔。繞至賊卡之上。將木城石卡全行拆毀。旋與福康安會合一處。併力追剿。於初九日至雍鴉地方。因官兵等冒險登陟。辛勤已甚。暫令休息。而賊酋遣人乞降。經福康安嚴行駁飭。惟是該處大山層疊而堆補木。與甲爾古拉兩山之間又有橫河一道。福康安等將官兵分為數隊。左一路由橫河上游繞道進攻。右一路由帕朗古攻橋進撲。甲爾古拉賊匪。排鎗連環不斷。我兵乘勢競進。奪據橋座。剿殺更倍於前。計自擦木邦杏濟嚨熱索橋協布魯東覺帕朗古前後。凡七戰皆獲全勝。共殺賊目二十餘名。賊匪三四千名。生擒二百餘名。雖山徑險仄。河溜湍急。福康安等鼓勇直前。如履平地。如渡蹄涔。賊勢甚為窮蹙。前已屢遣頭人詣營納款。至此次益加震讋。哀懇乞降。無不惟命是從矣。及兵臨陽布。賊遂屢遣頭人。匍匐乞降。將軍所檄事件。無不謹從。而獨不敢身詣軍營。蓋彼去歲誘藏之噶布倫丹津班珠爾等前去。故不敢出也。賊人經官兵屢戰屢勝之後。其力實不能支。卑辭乞命。心膽俱落。凡福康安等檄諭之事。無不一一遵奉。先將裹去之噶布倫丹津班珠爾等送出。繼又將上冬搶去扎什倫布廟之金銀器皿。悉數繳還。並沙瑪爾巴骨殖及前私立合同二張。亦俱呈出。不敢再提唐古特錢債一事。且言從前為沙瑪爾巴所唆。實已悔之無及。惟乞大皇帝憐憫全部生靈。網開一面。其畏懼情形。似屬真誠。其賊酋拉特納巴都爾與其叔巴都爾薩野。不敢親自來營。自謂從前誘裹噶布倫等一事。罪惡已極。懼于擒戮。故不敢出此。亦真情。無怪其然也。我武既揚。必期掃穴犁庭。不遺一介。亦非體上天好生之意。即使盡得其地。而西藏邊外又數千里之遙。所謂不可耕而守者。亦將付之他人。乃降旨允降班師。以蕆斯事。昔唐太宗策頡利曰。示之必克。其和乃固。廓爾喀非頡利之比。番邊殊長安之近。彼且乞命籲恩。准之不暇。又安敢言和乎。然今日之宣兵威。使賊固意求降歸順。實與唐太宗之論有所符合。昔予記土爾扈特之事。於歸降歸順。已悉言之。若今廓爾喀之謝罪乞命。歸降歸順。蓋並有焉。以其悔過。誠而獻地。切也。向著土爾扈特歸順記云。始逆命而終徠服。謂之歸降。弗加征而自臣屬。謂之歸順。言土爾扈特之投誠。乃歸順。非歸降也。若今之廓爾喀畏威悔罪。雖屬歸降。然其悔罪之意極為真摯。並請定期五年一貢。永遵約束。又將邊外扎木地方獻歸西藏。是則誠心嚮化。不但歸降而且歸順矣。迺知守中國者。不可徒言偃武修文以自示弱也。彼偃武修文之不已。必致棄其故有而不能守。是亦不可不知耳。知進知退。易有明言。予實服膺不敢忘。每於用武之際。更切深思。定於志以合乎道。幸而五十七年之間。十全武功。豈非天貺。然天貺愈深。予懼益切。不敢言感。惟恐難承。兢兢惶惶。以俟天眷。為歸政全人。夫復何言。乾隆壬子季秋御筆。（緙印二）。八徵耄念之寶。自彊不息。 典藏尺寸 --> 位置 尺寸(公分) 隔水三 35.9x12.2 隔水二 35.9x12.7 隔水四 35.9x12.8 隔水一 35.9x13.3 隔水五 35.9x15.1 本幅 35.9x354.2 天綾 35.9x58.3 引首 35.9x84.8 質地 --> 質地位置 質地 引首 絹 本幅 絹 題跋資料 --> 題跋類別 作者 位置 款識 書體 全文 作者款識 清高宗 引首 止戈成績。（緙印一）。八徵耄念之寶。 行書 印記資料 --> 印記類別 印主 印記 鑑藏寶璽 清高宗 八徵耄念之寶 鑑藏寶璽 清高宗 五福五代堂古稀天子寶 鑑藏寶璽 清高宗 太上皇帝之寶 技法 --> 技法 技法細目 繡 參考資料 --> 類別 參考資料 參考書目 1.嵇若昕，〈緙絲乾隆書十全記〉，收入馮明珠主編，《乾隆皇帝的文化大業》（臺北：國立故宮博物院，2002年初版一刷），頁66-67。 2.嵇若昕，〈乾隆皇帝和他的文化顧問們〉，《故宮文物月刊》，第235期（2002年10月），頁52-53。 "
+    },
+    {
+      "assetId": "china-batch-09-jinchuan-red-flag-courier",
+      "catalogId": 5669,
+      "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/5669?dep=P",
+      "sourceReceipt": "5669-source.html",
+      "sourceText": "5669-source.txt",
+      "downloadReceipt": "5669-PAK-receipt.json",
+      "sourceSha256": "abec83e548a9465e84d44fa61ff5940702646e52a9d7bb787f1245893a1c2944",
+      "rightsQuote": "中階圖像與文字均無須申請、不限用途、不用付費即可公開使用，請於適當位置呈現姓名標示。",
+      "credit": "清弘旿畫紅旂三捷圖 卷。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+      "pixelReviewed": true,
+      "review": "Full selected derivative visually inspected. Album sides and visible subject checked; scroll sections explicitly identified. Unchanged museum derivative.",
+      "targetEvidence": [
+        {
+          "record": {
+            "id": "china-landmark-264",
+            "title": {
+              "en": "After a five-year war Agui subdues Greater and Lesser Jinchuan, abolishing its native chiefdoms",
+              "zh": "阿桂历五年平定大小金川，废土司设屯置厅，改土归流"
+            },
+            "start": 1776,
+            "end": 1776,
+            "location": {
+              "lon": 102.07,
+              "lat": 31.48,
+              "label": "Greater & Lesser Jinchuan (Jinchuan, Aba, Sichuan)",
+              "labelI18n": {
+                "en": "Greater & Lesser Jinchuan (Jinchuan, Aba, Sichuan)",
+                "zh": "大小金川（今四川阿坝金川）"
+              },
+              "labelProvenance": "inherited-source-place-pair"
+            },
+            "region": "east-asia",
+            "theme": "states",
+            "kind": "event",
+            "importance": 1,
+            "summary": {
+              "en": "After a five-year war Agui subdues Greater and Lesser Jinchuan, abolishing its native chiefdoms",
+              "zh": "阿桂历五年平定大小金川，废土司设屯置厅，改土归流"
+            },
+            "dateNote": {
+              "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+              "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+            },
+            "locationPrecision": "representative",
+            "sources": [
+              {
+                "title": "Chronicles of the Realm — js/lore_data.js (frozen source dataset)",
+                "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/lore_data.js",
+                "publisher": "DeanChensj / Chronicles of the Realm",
+                "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+                "checkedAt": "2026-10-23"
+              }
+            ],
+            "aliases": [
+              "大小金川（今四川阿坝金川）",
+              "Greater & Lesser Jinchuan (Jinchuan, Aba, Sichuan)"
+            ],
+            "provenance": {
+              "dataset": "jiangshan",
+              "status": "inherited",
+              "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+              "periodId": "qing",
+              "periodIds": [
+                "qing"
+              ],
+              "sourceRecords": [
+                {
+                  "file": "js/lore_data.js",
+                  "path": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/263",
+                  "index": 263
+                }
+              ],
+              "note": {
+                "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+                "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+              }
+            },
+            "relatedIds": [
+              "qing-dynasty"
+            ]
+          },
+          "previouslyCovered": false,
+          "connection": {
+            "en": "The painting follows the delivery of Jinchuan victory news. Beside the campaign entry, the solitary rider makes the movement of military information visible rather than replacing it with a generic battle.",
+            "zh": "画卷表现传递金川捷报；与战役条目并读，独骑使军事消息的流动可见，而非以泛泛战斗图代替史事。"
+          }
+        }
+      ],
+      "fullInstitutionalTextFile": "5669-source.txt",
+      "identityEvidence": "基本資料 --> 文物統一編號 故畫001675N000000000 作品號 故畫00167500000 品名 清弘旿畫紅旂三捷圖 卷 Depiction of Three Victories Signalled by Red Flags 分類 繪畫 作者 弘旿 數量 一卷 典藏尺寸 --> 位置 尺寸(公分) 隔水三 12.9 隔水二 13.8 隔水一 14.6 引首 33.3x107 本幅 33.5x507 質地 --> 質地位置 質地 引首 紙 本幅 紙 題跋資料 --> 題跋類別 作者 位置 款識 書體 全文 作者款識 弘旿 印記 expand_more 本幅 紅旗三捷圖。（八分書）。臣弘旿敬繪。（楷書）。 隸書 印主 印記 弘旿 臣 弘旿 旿 作者款識 弘旿 印記 expand_more 引首 御製。將軍阿桂奏攻克勒烏圍賊巢。紅旗報捷。喜成七言十首以當凱歌。廿四中秋夜丑時。木蘭營裡遞紅旗。本來不寐問軍報。孰謂今宵宛見之。七千里外路迢遙。向十餘朝茲八朝。可識眾心同一志。嘉哉行賞自宜昭。賊巢最是勒烏圍。甲雜小連噶喇依。破竹勢成應不日。速傳捷信願無違。行營半夜那來喧。卻是紅旌到敘門。五載勤勞同上下。鴻勳集總沐天恩。紅燈一點引紅旗。傾刻行營人盡知。舊部新藩同賀喜。古來報捷可如斯。成言原有付兒行。一見紅旗即奏將。雖是慈心早知喜。更馳侍衛報山莊。一破賊巢飛騎馳。未遑詳悉盡陳之。將軍宣力宜優賜。先示端倪加勉宜。前次受降惟戢斧。今番報捷乃犁庭。敬承天眷能無慰。未至武成心未寧。宵衣惟吾理合然。喜而不寐那能眠。乃知屐齒事宜有。較彼殊猶高下懸。三捷盼來一月間。此時軍務正相關。執渠掃穴歌耆定。佇待郊𦥄奏凱還。將軍阿桂攻克勒烏圍紅旗馳報上。褒答優嘉並御製凱歌十首。片刻而成。臣既聞大捷復得快覩。鴻篇抃躍。歡欣不能自已。謹繪紅旗三捷圖。恭錄宸章於卷首。以誌初捷之喜。俟再捷三捷紅旗續至。復瞻景鑠且伸。微臣舞蹈翹企之誠云爾。臣弘旿敬書。 楷書 印主 印記 弘旿 臣 弘旿 旿 作者款識 弘旿 印記 expand_more 引首 （御製凱歌二十首并恭跋，文不錄。）將軍阿桂奏功克噶喇依賊巢。紅旗報捷。喜成凱歌十首。甲午桃花寺蹕停。軍書正此俯窗櫺。幸哉今日仍憑處。綠柳中飛一㸃星。勒圍報捷夜行營。重值上陵晝返程。一刻萬人齊色喜。光明日月永銷兵。三穴猶延一月餘。六軍奮勇豈饒渠。周遭火氣熾攻處。早爛區區釜底魚。旬餘棧驛八朝至。一片旗紅萬馬飛。夾路群番喜且懼。國之慶也國之威。險惡山川靖梟獍。邪深機阱絕根株。從今番部都安堵。強食奸欺自此無。蠶叢絕險隱妖氛。百戰功成古未聞。鼜鼓冬冬聲凱獻。羌兒稽首送將軍。堅碉林立萬重山。破險衝鋒歷盡艱。奏績都資將軍力。紅旗一道入桃關。姜維征處號維州。艷羨戎人謡語留。今日勒圍為內地。無憂城果是無憂。盼捷經冬復入春。垂成偏覺意廑頻。今宵料得方安枕。明告慎哉用武人。流離此日穴巢傾。耆定從茲可罷兵。歌凱莫教容易聽。五年功幸一朝成。於郊臺迎勞將軍阿桂凱旋將士等成凱歌十首。郊臺仍是此郊臺。何幸重脩盛事來。漫謂數年經契濶。精神注似日相陪。勲臣率拜列靈旗。軍士鳴螺赫武儀。樂奏鐃歌行抱見。詰戎家法萬年垂。己巳班師本受降。庚辰郊勞典鴻厖。放牛歸馬予素志。凱獻何期此見雙。凖部回城定五年。金川小㓂亦如前。嘉予將士久敵愾。不覺對之增惻焉。地險加之眾志堅。林碉步步戰而前。小於昔事難過倍。慰矣恆因意𢢀然。鑿穴而居避火器。終於面縛出蕃城。貪生螻蟻固如此。聚族將焚語豈誠。倐經於役五春秋。棧道﨑嶇似坦郵。夾路花紅復柳綠。阿誰致悔覓封侯。脫卻戎衣換吉衣。龍章示獎特恩稀。同心戮力還掄最。便解天閑賜六飛。兵洗金川永不波。潢池跋扈竟如何。良鄉遠近多黎庶。歡喜都來聽凱歌。凱歌亦豈易為聞。五歲辛勤勞眾軍。我實未曾安午夜。幾多憂慮與平分。乾隆四十一年歲次丙申二月十二日甲寅。皇上謁陵禮成。廻蹕駐桃花寺行宮。適將軍阿桂奏報攻克。噶喇依賊巢逆酋索諾术兄弟並黨惡賊目。悉行擒獲獻俘。奏凱紅旗馳至。伏惟金川逆酋背恩梗化。仰賴皇上宸衷獨斷。速奏膚功。臣叼蒙近侍快瞻武功告成。敬讀天章懽忻抃舞褚毫難罄。但自慚筆墨拙劣。不足以張聖武之光。然雀躍之私不能自已。昨歲敬繪紅旗三捷圖以進。茲承命恭錄御製凱歌二十首於卷首。以誌集勳偃武之盛。臣曷勝榮幸。臣弘敬旿識。 楷書 楷書 印主 印記 弘旿 臣 弘旿 旿 印記資料 --> 印記類別 印主 印記 鑑藏寶璽 清內府印 三希堂精鑑璽 鑑藏寶璽 清高宗 石渠定鑑 鑑藏寶璽 清內府印 石渠寶笈 鑑藏寶璽 清內府印 宜子孫 鑑藏寶璽 宣統帝 宣統御覽之寶 鑑藏寶璽 清高宗 乾清宮鑑藏寶 鑑藏寶璽 清高宗 乾隆御覽之寶 鑑藏寶璽 清高宗 乾隆鑑賞 鑑藏寶璽 清仁宗 嘉慶御覽之寶 鑑藏寶璽 清高宗 寶笈重編 主題 --> 主題類別 主題(第一層) 主題(第二層) 主題說明 主要主題 山水 次要主題 山水 石磴、棧道 棧道 次要主題 走獸 馬 其他主題 人物 百姓 其他主題 人物 軍士 其他主題 山水 山徑 其他主題 山水 雲 其他主題 山水 溪澗、湍泉 其他主題 山水 瀑布 其他主題 建築 碉堡或煙台 其他主題 建築 寺廟 其他主題 建築 房舍 其他主題 建築 城牆 其他主題 建築 茅草屋 其他主題 建築 帳篷 其他主題 器用 旗 旌旗 其他主題 樹木 松 技法 --> 技法 技法細目 人物衣紋描法(減筆) 苔點 皴法 披麻皴 寫意 參考資料 --> 類別 參考資料 收藏著錄 石渠寶笈續編（乾清宮），第二冊，頁572 收藏著錄 故宮書畫錄（卷八），第四冊，頁47 收藏著錄 故宮書畫圖錄，第二十冊，頁253-258 "
+    },
+    {
+      "assetId": "china-batch-09-hongwu-revenue-edict",
+      "catalogId": 26879,
+      "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/26879?dep=P",
+      "sourceReceipt": "26879-source.html",
+      "sourceText": "26879-source.txt",
+      "downloadReceipt": "26879-receipt.json",
+      "sourceSha256": "f562bce4e69f764ee3e779bb46f1d901f5599493ab6ac85da97a3a55a8b74d24",
+      "rightsQuote": "中階圖像與文字均無須申請、不限用途、不用付費即可公開使用，請於適當位置呈現姓名標示。",
+      "credit": "明太祖御筆（一） 冊 諭戶部。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+      "pixelReviewed": true,
+      "review": "Full selected derivative visually inspected. Album sides and visible subject checked; scroll sections explicitly identified. Unchanged museum derivative.",
+      "targetEvidence": [
+        {
+          "record": {
+            "id": "china-person-zhuyuanzhang",
+            "sourceProfileId": "china-person-zhuyuanzhang",
+            "name": {
+              "en": "Zhu Yuanzhang",
+              "zh": "朱元璋"
+            },
+            "title": {
+              "en": "Zhu Yuanzhang: rebuilding institutions and concentrating authority",
+              "zh": "朱元璋：重建制度与集中权力"
+            },
+            "start": 1368,
+            "end": 1398,
+            "region": "east-asia",
+            "kind": "person",
+            "theme": "states",
+            "importance": 4,
+            "location": {
+              "lat": 32.06,
+              "lon": 118.8,
+              "label": "Nanjing, representative city",
+              "labelI18n": {
+                "en": "Nanjing, representative city",
+                "zh": "南京，代表性城市"
+              }
+            },
+            "locationPrecision": "representative",
+            "summary": {
+              "en": "Zhu Yuanzhang founded the Ming in 1368 and pursued a government that reached from the emperor’s court into village registration and local schools. Early measures established county granaries and promoted Confucian education. The lijia system introduced in 1381 organized households for administrative obligations, making local communities part of the state’s machinery. These institution-building projects accompanied an increasingly concentrated form of rule. The purge of Hu Weiyong in 1380 and the abolition of the chief minister’s position drew more decisions toward the emperor. His reign therefore links rebuilding after dynastic conflict with coercion and political suspicion. Schools and registers tell one part of that story; the destruction of officials and their networks tells another.",
+              "zh": "朱元璋1368年建立明朝，推动一种从皇帝朝廷延伸到乡村登记和地方学校的治理。早期措施兴设县级粮仓、推广儒学教育；1381年实行的里甲制度，把户籍与行政义务组织起来，使地方社区进入国家运转体系。这些制度营建伴随权力进一步集中。1380年胡惟庸案及丞相职位的废除，使更多决策直接归于皇帝。他的统治把王朝战乱后的重建与强制、政治猜忌联系起来：学校和簿册讲述其中一面，官员及其关系网络遭摧毁又呈现另一面。"
+            },
+            "dateNote": {
+              "en": "1368–1398 is the founding emperor’s reign. The selected institutional dates are separate decisions, not proof that implementation became uniform everywhere in those years.",
+              "zh": "1368—1398年为开国皇帝在位时段。制度纪年指具体决策，不证明各地当年即已实施一致。"
+            },
+            "sources": [
+              {
+                "title": "A Ming Chronology",
+                "publisher": "University of California Press, hosted by De Gruyter Brill",
+                "url": "https://www.degruyterbrill.com/document/doi/10.1525/9780520924079-003/pdf?licenseType=free",
+                "evidenceNote": "Chronology supports 1368 founding and granaries, 1369 schools, 1380 purge and direct rule, 1381 lijia registration, 1398 Hongwu death, 1402 Yongle accession, 1405 voyages and 1581 Single Whip. The capital’s 1420 construction date is kept separate from its 1421 formal move.",
+                "evidenceNoteZh": "年表支持1368年建国与粮仓、1369年学校、1380年清洗及皇帝直接理政、1381年里甲、1398年洪武卒、1402年永乐即位、1405年航海及1581年一条鞭；1420年营建与1421年正式迁都分开处理。",
+                "checkedAt": "2026-11-09",
+                "retrieval": "opened-pdf"
+              }
+            ],
+            "milestones": [
+              {
+                "year": 1368,
+                "title": {
+                  "en": "Founding the Ming",
+                  "zh": "建立明朝"
+                },
+                "description": {
+                  "en": "The new dynasty began alongside measures such as county granaries.",
+                  "zh": "新王朝建立，同时推行县级粮仓等措施。"
+                },
+                "location": {
+                  "lat": 32.06,
+                  "lon": 118.8,
+                  "label": "Nanjing, representative city",
+                  "labelI18n": {
+                    "en": "Nanjing, representative city",
+                    "zh": "南京，代表性城市"
+                  }
+                }
+              },
+              {
+                "year": 1369,
+                "title": {
+                  "en": "County schools",
+                  "zh": "县学措施"
+                },
+                "description": {
+                  "en": "Confucian schools formed part of the early institutional program.",
+                  "zh": "儒学学校成为初期制度计划的一部分。"
+                },
+                "location": {
+                  "lat": 32.06,
+                  "lon": 118.8,
+                  "label": "Nanjing, representative city",
+                  "labelI18n": {
+                    "en": "Nanjing, representative city",
+                    "zh": "南京，代表性城市"
+                  }
+                }
+              },
+              {
+                "year": 1380,
+                "title": {
+                  "en": "A purge and direct imperial rule",
+                  "zh": "清洗与皇帝直接理政"
+                },
+                "description": {
+                  "en": "The Hu Weiyong purge accompanied the ending of the chief minister’s office.",
+                  "zh": "胡惟庸案伴随丞相职务的终止。"
+                },
+                "location": {
+                  "lat": 32.06,
+                  "lon": 118.8,
+                  "label": "Nanjing, representative city",
+                  "labelI18n": {
+                    "en": "Nanjing, representative city",
+                    "zh": "南京，代表性城市"
+                  }
+                }
+              },
+              {
+                "year": 1381,
+                "title": {
+                  "en": "Lijia registration",
+                  "zh": "里甲编制"
+                },
+                "description": {
+                  "en": "Household organization supported the administration of local obligations.",
+                  "zh": "户的组织支持地方义务的行政管理。"
+                },
+                "location": {
+                  "lat": 32.06,
+                  "lon": 118.8,
+                  "label": "Nanjing, representative city",
+                  "labelI18n": {
+                    "en": "Nanjing, representative city",
+                    "zh": "南京，代表性城市"
+                  }
+                }
+              }
+            ],
+            "relatedIds": [
+              "ming-dynasty",
+              "china-person-zhudi"
+            ],
+            "expansion": {
+              "workstreams": [
+                "CH1",
+                "CH2"
+              ],
+              "release": 11,
+              "edition": "v17",
+              "sourceReview": "Original bilingual biography; dates and claims checked against the individually described sources. No donor prose reproduced.",
+              "reviewLimit": {
+                "en": "Selected career episodes; the mapped points represent named cities or regions, not exact buildings or a reconstructed itinerary.",
+                "zh": "选取仕途与创作片段；地图点代表所述城市或地区，并非确切建筑或复原行程。"
+              }
+            }
+          },
+          "previouslyCovered": true,
+          "connection": {
+            "en": "The founder addresses how revenue instructions reach local offices and taxpayers. This surviving administrative text adds an imperial voice to the biography’s discussion of Ming institutions.",
+            "zh": "开国皇帝讨论税粮指令如何传至地方官府与纳税户；留存政务文本为其传记中的明初制度提供御前声音。"
+          }
+        }
+      ],
+      "fullInstitutionalTextFile": "26879-source.txt",
+      "identityEvidence": "基本資料 --> 文物統一編號 中書000014N000000041 作品號 中書00001400039 品名 明太祖御筆（一） 冊 諭戶部 Imperial Penmanship of Emperor Taizu of Ming Dynasty (One): Imperial Edict to the Ministry of Revenue 分類 法書 作者 朱元璋,Emperor Taizu of Ming Dynasty 書體 草書 數量 一幅 作品語文 漢文 釋文 （朱書）戶部。洪武十七年閏十月二十三日。欽奉聖旨。天下戶口錢糧。已有定額。糧稅戶戶自有由帖照憑。每歲該夏秋二稅。民人未嘗缺少。其戶部前官。故意作弊。陰通諸布政司。奸出百端。所以歲令各布政司。苗稼未成之時。先申認狀。弊出多端。您戶部新任官出榜昭示。更行下諸司。今後止是照依舊額徵收。如是不足先額。著落布政司重要罪責。直隸著令該府重罪過。如此上下易為。法有繩規。事不紊煩。榜後的有仍前妄行者。罪以重刑。 典藏尺寸 --> 位置 尺寸(公分) 本幅七十九 37.1x39.5 本幅七十八 37.2x39.6 質地 --> 質地位置 質地 本幅 紙 參考資料 --> 類別 參考資料 收藏著錄 石渠寶笈三編（南薰殿），第九冊，頁4596-4606 "
+    },
+    {
+      "assetId": "china-batch-09-hongwu-southwest-logistics",
+      "catalogId": 27062,
+      "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/27062?dep=P",
+      "sourceReceipt": "27062-source.html",
+      "sourceText": "27062-source.txt",
+      "downloadReceipt": "27062-receipt.json",
+      "sourceSha256": "7c95bc6217b2bed0cfdead0ae9ca36e1f10dd6509b20229a81cdaef1c2642307",
+      "rightsQuote": "中階圖像與文字均無須申請、不限用途、不用付費即可公開使用，請於適當位置呈現姓名標示。",
+      "credit": "明太祖御筆（二） 冊 右軍都督府軍務事。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+      "pixelReviewed": true,
+      "review": "Full selected derivative visually inspected. Album sides and visible subject checked; scroll sections explicitly identified. Unchanged museum derivative.",
+      "targetEvidence": [
+        {
+          "record": {
+            "id": "china-tusi-local-institutions",
+            "title": {
+              "en": "Tusi institutions: local authority and imperial negotiation",
+              "zh": "土司制度：地方权力与帝国协商"
+            },
+            "start": 1200,
+            "end": 1900,
+            "region": "east-asia",
+            "kind": "idea",
+            "theme": "states",
+            "location": {
+              "lat": 28.84,
+              "lon": 109.98,
+              "label": "Laosicheng; representative Tusi heritage site"
+            },
+            "locationPrecision": "representative",
+            "importance": 4,
+            "summary": {
+              "en": "Tusi institutions joined hereditary local leadership with appointments and recognition from imperial governments. The relationship could involve titles, obligations, jurisdiction and competing claims to authority. It was neither identical to direct county administration nor a single independent state with one boundary. Different places and periods require their own political histories.\n\nThe UNESCO grouping of Laosicheng, Tangya and Hailongtun preserves administrative, residential, ceremonial and defensive evidence. Layouts and building forms show interactions between local practices and imperial symbols. An official heritage narrative emphasizes connection and accommodation, but material combination alone does not prove that relations were always peaceful or consensual. Examining institutions alongside community experience helps explain both negotiated rule and unequal power. This entry supplies a regional framework for individual fortresses and campaigns without turning every monument into a separate dynasty or projecting present administrative categories backward unchanged.",
+              "zh": "土司制度把世袭地方首领，与帝国政府的任命和承认联系起来。这种关系涉及名号、义务、司法权限和相互竞争的权威主张。它既不等同于直接的州县行政，也不是拥有单一边界的独立国家；不同地点与时期都需要各自的政治史。\n\n老司城、唐崖和海龙屯组成的世界遗产，保存了行政、居住、仪式和防御方面的证据。布局与建筑形式显示地方实践同帝国符号之间的互动。官方遗产叙述强调联系和调适，但物质形式的结合本身，不能证明关系始终和平或出于一致同意。把制度与社区经验并读，才能同时解释协商统治与不平等权力。本条为具体城堡和战争提供区域框架，不把每处遗址变成一个王朝，也不把今天的行政类别原样投射到过去。"
+            },
+            "dateNote": {
+              "en": "Approximate thirteenth–nineteenth-century institutional focus; the official dossier extends into the early twentieth century. No common founding/end date or territorial polygon is asserted.",
+              "zh": "约关注十三至十九世纪的制度；官方档案还涉及二十世纪初。不主张统一起止年或共同领土边界。"
+            },
+            "sources": [
+              {
+                "title": "Tusi Sites",
+                "url": "https://whc.unesco.org/en/list/1474/",
+                "publisher": "UNESCO World Heritage Centre",
+                "evidenceNote": "Laosicheng, Tangya and Hailongtun; hereditary local offices, central appointments and architectural evidence. Official heritage framing does not prove peaceful consent or uniform local experience; single official dossier. Retrieval: full-page text inspected.",
+                "checkedAt": "2026-10-23"
+              }
+            ],
+            "relatedIds": [
+              "yuan-dynasty",
+              "ming-dynasty",
+              "qing-dynasty",
+              "china-landmark-139"
+            ],
+            "expansion": {
+              "workstreams": [
+                "CH2"
+              ],
+              "release": 3,
+              "sourceReview": "Original bilingual synthesis; full-page, indexed-only and single-institution evidence limits are disclosed per source. Not a claim that the inherited China corpus or map geometries are fully verified."
+            },
+            "keyFacts": {
+              "en": [
+                "Tusi institutions joined hereditary local leadership with appointments and recognition from imperial governments.",
+                "The relationship could involve titles, obligations, jurisdiction and competing claims to authority."
+              ],
+              "zh": [
+                "土司制度把世袭地方首领，与帝国政府的任命和承认联系起来。",
+                "这种关系涉及名号、义务、司法权限和相互竞争的权威主张。"
+              ]
+            }
+          },
+          "previouslyCovered": false,
+          "connection": {
+            "en": "The text names local chiefs and explicitly discusses supplying troops. It gives the regional tusi framework a concrete administrative document showing the uneven practical demands of imperial rule.",
+            "zh": "文本点名土官并明确讨论军粮，为土司制度框架提供具体政务文书，展示帝国统治在实际资源与义务上的不均衡。"
+          }
+        }
+      ],
+      "fullInstitutionalTextFile": "27062-source.txt",
+      "identityEvidence": "基本資料 --> 文物統一編號 中書000015N000000021 more 中書000015N000000022 作品號 中書00001500012 品名 明太祖御筆（二） 冊 右軍都督府軍務事 Imperial Penmanship of Emperor Taizu of Ming Dynasty (Two): Imperial Edict on Military Affair of the Chief Military Commission of the Right 分類 法書 作者 朱元璋,Emperor Taizu of Ming Dynasty 書體 行書 數量 一幅 作品語文 漢文 釋文 （朱書）右軍都督府為軍務事。洪武二十一年二月初十日。本府僉都督王成。於奉天門早朝。欽奉右軍。差人前去播州水西烏散烏蒙占宜仁德建昌武定馬湖各各土官處說知。六肇不肯當差。芒部東川與白夷私通。已差阿奴亦結暗地往來。要與我每廝殺。我每調兵。本要與白夷家廝殺。不想東川芒部這等心歹為這般。且不與白夷廝殺。先與東川芒部討得分曉了方過去。如今我每無糧。這軍馬且在六肇地面上。種二年田。却去芒部種二年田。再過東川二年種田。方去白夷廝殺。我則這般要與白夷廝殺。無糧難去。既是東川他通了。他必定請將白夷軍來。與我每就東廝殺。却不省了我行遠路。我每自種自喫著。修營寨成家。在東川芒部地面上等他。請白夷十萬二十萬軍來東川芒部。納與他人糧象馬草料與我每戰。說水西等土官。這東川芒部人。六肇人。你每休藏他。走在你地面裡隱下了。不便於你。土官早前我買馬征達達。他每不肯。如今達達征取了也。他每不曾將馬助氣力。倒通了百夷。說與眾土官知道。（楷書釋文同上）。 典藏尺寸 --> 位置 尺寸(公分) 本幅三 44x37.1 本幅二 44x37.3 本幅一 45x75 質地 --> 質地位置 質地 本幅 紙 參考資料 --> 類別 參考資料 收藏著錄 石渠寶笈三編（南薰殿），第九冊，頁4606-4616 "
+    }
+  ],
+  "decisions": [
+    {
+      "catalogId": 1101,
+      "status": "held",
+      "reason": "Fu Bi letter is authentic, but no strong uncovered target; famine-relief record has unsupported numerical claims."
+    },
+    {
+      "catalogId": 11574,
+      "status": "admitted",
+      "reason": "Item-specific rights, identity, chronology, target narrative and pixels reviewed."
+    },
+    {
+      "catalogId": 1425,
+      "status": "held",
+      "reason": "Museum Chinese description calls this a likely later imitation; English description has an inconsistent Li Kan lifespan. Not admitted as a1245 original."
+    },
+    {
+      "catalogId": 1438,
+      "status": "admitted",
+      "reason": "Item-specific rights, identity, chronology, target narrative and pixels reviewed."
+    },
+    {
+      "catalogId": 14545,
+      "status": "admitted",
+      "reason": "Item-specific rights, identity, chronology, target narrative and pixels reviewed."
+    },
+    {
+      "catalogId": 17587,
+      "status": "held",
+      "reason": "Lu Zhi portrait has no direct uncovered subject entry; avoid linking through same court or city."
+    },
+    {
+      "catalogId": 18491,
+      "status": "admitted",
+      "reason": "Item-specific rights, identity, chronology, target narrative and pixels reviewed."
+    },
+    {
+      "catalogId": 1907,
+      "status": "admitted",
+      "reason": "Item-specific rights, identity, chronology, target narrative and pixels reviewed."
+    },
+    {
+      "catalogId": 26834,
+      "status": "admitted",
+      "reason": "Item-specific rights, identity, chronology, target narrative and pixels reviewed."
+    },
+    {
+      "catalogId": 26879,
+      "status": "admitted",
+      "reason": "Item-specific rights, identity, chronology, target narrative and pixels reviewed."
+    },
+    {
+      "catalogId": 26934,
+      "status": "admitted",
+      "reason": "Item-specific rights, identity, chronology, target narrative and pixels reviewed."
+    },
+    {
+      "catalogId": 2700,
+      "status": "admitted",
+      "reason": "Item-specific rights, identity, chronology, target narrative and pixels reviewed."
+    },
+    {
+      "catalogId": 27062,
+      "status": "admitted",
+      "reason": "Item-specific rights, identity, chronology, target narrative and pixels reviewed."
+    },
+    {
+      "catalogId": 27879,
+      "status": "held",
+      "reason": "First image is album title; later Prince Cheng copy is not Lu Ji autograph. No strong new direct target."
+    },
+    {
+      "catalogId": 2965,
+      "status": "held",
+      "reason": "Recovered ritual crown documented1793; do not turn return date into manufacture date or link to held Qing023."
+    },
+    {
+      "catalogId": 3012,
+      "status": "held",
+      "reason": "Tibetan ritual vessel presented1793, but no sufficiently specific target outside chronology-held Qing023."
+    },
+    {
+      "catalogId": 3141,
+      "status": "admitted",
+      "reason": "Item-specific rights, identity, chronology, target narrative and pixels reviewed."
+    },
+    {
+      "catalogId": 35797,
+      "status": "admitted",
+      "reason": "Item-specific rights, identity, chronology, target narrative and pixels reviewed."
+    },
+    {
+      "catalogId": 43770,
+      "status": "held",
+      "reason": "Late Shang oracle bone lacks a documented Anyang findspot in item page; no site-specific Yin Xu claim."
+    },
+    {
+      "catalogId": 5669,
+      "status": "admitted",
+      "reason": "Item-specific rights, identity, chronology, target narrative and pixels reviewed."
+    },
+    {
+      "catalogId": 5745,
+      "status": "held",
+      "reason": "Same underlying scroll as5751; no duplicate asset. First image shows only edge/mounting."
+    },
+    {
+      "catalogId": 5751,
+      "status": "held",
+      "reason": "Held: Qing028 bundles1826 seizure with later restoration. No link pending entry chronology correction;5751 and5745 are one underlying scroll."
+    },
+    {
+      "catalogId": 603,
+      "status": "held",
+      "reason": "Long, faint attributed farming scroll; no sufficiently legible specific scene selected."
+    },
+    {
+      "catalogId": 618,
+      "status": "admitted",
+      "reason": "Item-specific rights, identity, chronology, target narrative and pixels reviewed."
+    },
+    {
+      "catalogId": 6417,
+      "status": "admitted",
+      "reason": "Item-specific rights, identity, chronology, target narrative and pixels reviewed."
+    },
+    {
+      "catalogId": 98,
+      "status": "held",
+      "reason": "Traditional Wen Tianxiang ownership attribution unproved; no new direct target."
+    }
+  ],
+  "copyManifest": [
+    {
+      "assetId": "china-batch-09-liuyuxi",
+      "sourceFile": "research/v18/china-batch-09/35797.jpg",
+      "targetFile": "assets/history-media/china-batch-09-liuyuxi.jpg",
+      "sha256": "83fee918486aa79b0906e7cc4e3bed5b34e3cfd2073333b0f96fcb4703c6df16",
+      "bytes": 234438,
+      "width": 1400,
+      "height": 1049
+    },
+    {
+      "assetId": "china-batch-09-wangyangming-landscape",
+      "sourceFile": "research/v18/china-batch-09/18491.jpg",
+      "targetFile": "assets/history-media/china-batch-09-wangyangming-landscape.jpg",
+      "sha256": "0e9b95bb18fef7c72752c714992672b378136eccd5c3fd141f57155c74b1748e",
+      "bytes": 142180,
+      "width": 560,
+      "height": 1400
+    },
+    {
+      "assetId": "china-batch-09-jinchuan-memorial",
+      "sourceFile": "research/v18/china-batch-09/3141.jpg",
+      "targetFile": "assets/history-media/china-batch-09-jinchuan-memorial.jpg",
+      "sha256": "fbaa27d886c1684bfef3265be1fbd6c981296967b641235b228c38cedeed4432",
+      "bytes": 211401,
+      "width": 1400,
+      "height": 1048
+    },
+    {
+      "assetId": "china-batch-09-gao-shi-seven-scholars",
+      "sourceFile": "research/v18/china-batch-09/6417.jpg",
+      "targetFile": "assets/history-media/china-batch-09-gao-shi-seven-scholars.jpg",
+      "sha256": "a4f82ebddb0420fe2cc8f6d611b3ea7a9b7eef854bac9929d1c87affa8322702",
+      "bytes": 270479,
+      "width": 815,
+      "height": 1400
+    },
+    {
+      "assetId": "china-batch-09-fukanggan-conch",
+      "sourceFile": "research/v18/china-batch-09/2700.jpg",
+      "targetFile": "assets/history-media/china-batch-09-fukanggan-conch.jpg",
+      "sha256": "dc29cb77b867a8bd46f508ae840a026d5e9a3914cce8bb874b6db7411ef23ab5",
+      "bytes": 95134,
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "assetId": "china-batch-09-song-sericulture",
+      "sourceFile": "research/v18/china-batch-09/14545.jpg",
+      "targetFile": "assets/history-media/china-batch-09-song-sericulture.jpg",
+      "sha256": "f654b44b03eba19b7e9dfcb4cb867aa427f3d40bd43f280fab8ba728145d538d",
+      "bytes": 134768,
+      "width": 1400,
+      "height": 1048
+    },
+    {
+      "assetId": "china-batch-09-mao-gong-ding",
+      "sourceFile": "research/v18/china-batch-09/1438.jpg",
+      "targetFile": "assets/history-media/china-batch-09-mao-gong-ding.jpg",
+      "sha256": "384a337be2b259138d7e8c8439bfae1805aad4902215a25109a4fcfb98e76a29",
+      "bytes": 90384,
+      "width": 1050,
+      "height": 1400
+    },
+    {
+      "assetId": "china-batch-09-hongwu-xuda-edict",
+      "sourceFile": "research/v18/china-batch-09/26834.jpg",
+      "targetFile": "assets/history-media/china-batch-09-hongwu-xuda-edict.jpg",
+      "sha256": "836bbb4b0f059be04552ccb8ea0a76efde0074d1e67089a7cace57997ae59eb0",
+      "bytes": 156572,
+      "width": 1400,
+      "height": 1048
+    },
+    {
+      "assetId": "china-batch-09-xining-cash",
+      "sourceFile": "research/v18/china-batch-09/11574.jpg",
+      "targetFile": "assets/history-media/china-batch-09-xining-cash.jpg",
+      "sha256": "06d51412e8916268f8c52a13389aaec2a00296c161c99c5f06928c25592f289f",
+      "bytes": 148266,
+      "width": 1400,
+      "height": 930
+    },
+    {
+      "assetId": "china-batch-09-wangyangming-xiang-shrine",
+      "sourceFile": "research/v18/china-batch-09/26934-PAF.jpg",
+      "targetFile": "assets/history-media/china-batch-09-wangyangming-xiang-shrine.jpg",
+      "sha256": "5afd12b256bd177d1dd625c13c157fa3a1280f9b3c82e8cb8e168c8d03f4247a",
+      "bytes": 176976,
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "assetId": "china-batch-09-mou-yi-clothes",
+      "sourceFile": "research/v18/china-batch-09/618-PAK.jpg",
+      "targetFile": "assets/history-media/china-batch-09-mou-yi-clothes.jpg",
+      "sha256": "c8cf66bcc1906c26533a5f6349e2e7dde068ab9d27cee8e3c991e46319736097",
+      "bytes": 181398,
+      "width": 1400,
+      "height": 1048
+    },
+    {
+      "assetId": "china-batch-09-qianlong-ten-campaigns-kesi",
+      "sourceFile": "research/v18/china-batch-09/1907-PAC.jpg",
+      "targetFile": "assets/history-media/china-batch-09-qianlong-ten-campaigns-kesi.jpg",
+      "sha256": "8e4f51b61a5374d809874c2c6f2b0efdfe061bde221ec2fe3f358b4a08e73f7f",
+      "bytes": 211536,
+      "width": 1400,
+      "height": 1048
+    },
+    {
+      "assetId": "china-batch-09-jinchuan-red-flag-courier",
+      "sourceFile": "research/v18/china-batch-09/5669-PAK.jpg",
+      "targetFile": "assets/history-media/china-batch-09-jinchuan-red-flag-courier.jpg",
+      "sha256": "b30c64136fdf7a28cb386fc0e37c4fdcba2b5c6ac60db0cfcc5063d45bb425e0",
+      "bytes": 248017,
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "assetId": "china-batch-09-hongwu-revenue-edict",
+      "sourceFile": "research/v18/china-batch-09/26879.jpg",
+      "targetFile": "assets/history-media/china-batch-09-hongwu-revenue-edict.jpg",
+      "sha256": "798e49d2b186e84c75d054d5df9e47afaa53629aa89832bfc6a2dc555764f62c",
+      "bytes": 163320,
+      "width": 1400,
+      "height": 1048
+    },
+    {
+      "assetId": "china-batch-09-hongwu-southwest-logistics",
+      "sourceFile": "research/v18/china-batch-09/27062.jpg",
+      "targetFile": "assets/history-media/china-batch-09-hongwu-southwest-logistics.jpg",
+      "sha256": "eb371b25c6fb61fbce3db71212f5adc4ee0645b53ea9c46aa700199acce89e4c",
+      "bytes": 153427,
+      "width": 1400,
+      "height": 1050
+    }
+  ],
+  "ownerAdmittedShard": {
+    "items": [
+      {
+        "id": "china-batch-09-liuyuxi",
+        "file": "assets/history-media/china-batch-09-liuyuxi.jpg",
+        "recordIds": [
+          "china-person-liuyuxi"
+        ],
+        "title": {
+          "en": "Liu Yuxi in a Qing portrait album",
+          "zh": "清代册页中的刘禹锡"
+        },
+        "alt": {
+          "en": "Liu Yuxi sits in a chair on the right; his biography fills the facing left page.",
+          "zh": "右页刘禹锡坐于椅中，左页为传记文字。"
+        },
+        "caption": {
+          "en": "Qing-dynasty commemorative portrait of the Tang poet Liu Yuxi, with its facing biography retained.",
+          "zh": "清代绘唐代诗人刘禹锡纪念像，保留对页传记。"
+        },
+        "interpretation": {
+          "en": "The portrait and facing biography frame Liu Yuxi as a poet worth remembering in Qing China.",
+          "zh": "肖像与对页传记呈现清代对刘禹锡这位唐代诗人的追忆。"
+        },
+        "creator": "Li Zhijing and Li Lingyun, as cataloged",
+        "date": "Qing dynasty; exact year unrecorded",
+        "institution": "National Palace Museum, Taipei; 購畫001090N000000008",
+        "kind": "portrait",
+        "representation": "later-depiction",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/35797?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/B2A%2FB2A001090N000000008PAA/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/B2A%2FB2A001090N000000008PAA/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/35797?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "清李志井李凌雲歷代詩家像 冊 劉禹錫。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "清李志井李凌雲歷代詩家像 冊 劉禹錫。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 1400,
+        "height": 1049,
+        "bytes": 234438,
+        "sha256": "83fee918486aa79b0906e7cc4e3bed5b34e3cfd2073333b0f96fcb4703c6df16",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, original derivative bytes and pixel-review contact sheet preserved in China batch 09.",
+        "contextSources": [],
+        "metadataI18n": {
+          "date": {
+            "en": "Qing dynasty; exact year unrecorded",
+            "zh": "清代；具体年份未载"
+          },
+          "creator": {
+            "en": "Li Zhijing and Li Lingyun, as cataloged",
+            "zh": "李志井绘、李凌云书"
+          },
+          "institution": {
+            "en": "National Palace Museum, Taipei; 購畫001090N000000008",
+            "zh": "国立故宫博物院，台北；購畫001090N000000008"
+          }
+        }
+      },
+      {
+        "id": "china-batch-09-wangyangming-landscape",
+        "file": "assets/history-media/china-batch-09-wangyangming-landscape.jpg",
+        "recordIds": [
+          "china-person-wangyangming"
+        ],
+        "title": {
+          "en": "Wang Yangming’s sparse river landscape",
+          "zh": "王阳明疏林江岸图"
+        },
+        "alt": {
+          "en": "Three trees and two empty huts face a rocky bank across water; a seven-line inscription stands above.",
+          "zh": "三株树与两间空屋隔水面对岩岸，上方有七行题字。"
+        },
+        "caption": {
+          "en": "Wang Shouren’s landscape, dated 1506 in the museum catalog. His inscription specifies the seventh day of the first lunar month.",
+          "zh": "王守仁山水，馆藏定年1506；自题为丙寅正月初七。"
+        },
+        "interpretation": {
+          "en": "The philosopher also practiced painting and calligraphy. The museum identifies Ni Zan’s influence in this quiet composition, expanding the biography beyond Wang’s teaching and public career.",
+          "zh": "这位思想家亦从事书画；馆方指出宁静构图受到倪瓒影响，使其生平不止于讲学与政治活动。"
+        },
+        "creator": "Wang Shouren (Wang Yangming)",
+        "date": "1506",
+        "institution": "National Palace Museum, Taipei; 贈畫000608N000000000",
+        "kind": "artwork",
+        "representation": "historical-artwork",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/18491?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/A2A%2FA2A000608N000000000PAA/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/A2A%2FA2A000608N000000000PAA/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/18491?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "明王守仁山水畫真跡 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "明王守仁山水畫真跡 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 560,
+        "height": 1400,
+        "bytes": 142180,
+        "sha256": "0e9b95bb18fef7c72752c714992672b378136eccd5c3fd141f57155c74b1748e",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, original derivative bytes and pixel-review contact sheet preserved in China batch 09.",
+        "contextSources": [],
+        "metadataI18n": {
+          "date": {
+            "en": "1506",
+            "zh": "1506年"
+          },
+          "creator": {
+            "en": "Wang Shouren (Wang Yangming)",
+            "zh": "王守仁（王阳明）"
+          },
+          "institution": {
+            "en": "National Palace Museum, Taipei; 贈畫000608N000000000",
+            "zh": "国立故宫博物院，台北；贈畫000608N000000000"
+          }
+        }
+      },
+      {
+        "id": "china-batch-09-jinchuan-memorial",
+        "file": "assets/history-media/china-batch-09-jinchuan-memorial.jpg",
+        "recordIds": [
+          "china-landmark-264"
+        ],
+        "title": {
+          "en": "A congratulatory album on the Jinchuan campaign",
+          "zh": "贺平金川颂册"
+        },
+        "alt": {
+          "en": "Vertical calligraphy occupies the first photographed opening, framed by golden dragons.",
+          "zh": "首幅馆方摄影中，纵列书法由金色龙纹边框围绕。"
+        },
+        "caption": {
+          "en": "Opening of a Qing court congratulatory album on completing the campaigns against Greater and Lesser Jinchuan. Exact production year is unrecorded.",
+          "zh": "清代祝贺平定大小金川颂册开篇；确切制作年未载。"
+        },
+        "interpretation": {
+          "en": "The heading explicitly announces completion of the two Jinchuan campaigns. Its formal praise records the court’s celebration of military success and should be read as a partisan voice.",
+          "zh": "题首明确写“平定两金川大功告成”；颂词记录宫廷如何庆祝战事，应作为具有立场的当时声音阅读。"
+        },
+        "creator": "Li Tang and other former officials, as named in the album",
+        "date": "Qing dynasty; undated",
+        "institution": "National Palace Museum, Taipei; 故書000935N000000000",
+        "kind": "manuscript",
+        "representation": "manuscript-detail",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/3141?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/K2B%2FK2B000935N000000000PAB/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/K2B%2FK2B000935N000000000PAB/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/3141?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "皇武遠揚平定兩金川大捷恭紀 冊。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "皇武遠揚平定兩金川大捷恭紀 冊。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 1400,
+        "height": 1048,
+        "bytes": 211401,
+        "sha256": "fbaa27d886c1684bfef3265be1fbd6c981296967b641235b228c38cedeed4432",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, original derivative bytes and pixel-review contact sheet preserved in China batch 09.",
+        "contextSources": [],
+        "metadataI18n": {
+          "date": {
+            "en": "Qing dynasty; undated",
+            "zh": "清代；未纪年"
+          },
+          "creator": {
+            "en": "Li Tang and other former officials, as named in the album",
+            "zh": "李棠及册中具名的其他原任官员"
+          },
+          "institution": {
+            "en": "National Palace Museum, Taipei; 故書000935N000000000",
+            "zh": "国立故宫博物院，台北；故書000935N000000000"
+          }
+        }
+      },
+      {
+        "id": "china-batch-09-gao-shi-seven-scholars",
+        "file": "assets/history-media/china-batch-09-gao-shi-seven-scholars.jpg",
+        "recordIds": [
+          "china-gao-shi-fengqiu-office"
+        ],
+        "title": {
+          "en": "Gao Shi among seven imagined Tang travelers",
+          "zh": "七贤过关图中的高适"
+        },
+        "alt": {
+          "en": "Seven labeled scholars travel on mounts; Gao Shi is the rear figure at the right, above Cui Hao.",
+          "zh": "七位具名文士骑乘出行；高适在右后方、崔颢上方。"
+        },
+        "caption": {
+          "en": "Ding Guanpeng’s Qing painting after a work attributed to Han Huang, with Wang Youdun’s colophon dated 1748. Gao Shi is labeled at the right rear.",
+          "zh": "丁观鹏临传韩滉《七贤过关图》，附汪由敦1748年题记；高适题名位于右后方。"
+        },
+        "interpretation": {
+          "en": "The label identifies Gao Shi, the poet in the Fengqiu officeholding story. This imagined assembly of Tang scholars shows his later reputation, not an actual shared journey or the county appointment.",
+          "zh": "题名明确辨识封丘任职故事中的高适；唐代文士的想象聚会表现后世声望，并非真实同行或县尉任命场景。"
+        },
+        "creator": "Ding Guanpeng; colophon by Wang Youdun",
+        "date": "Qing dynasty; colophon dated 1748",
+        "institution": "National Palace Museum, Taipei; 故畫002766N000000000",
+        "kind": "artwork",
+        "representation": "historical-artwork",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/6417?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A002766N000000000PAA/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A002766N000000000PAA/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/6417?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "清丁觀鵬仿韓滉七才子過關 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "清丁觀鵬仿韓滉七才子過關 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 815,
+        "height": 1400,
+        "bytes": 270479,
+        "sha256": "a4f82ebddb0420fe2cc8f6d611b3ea7a9b7eef854bac9929d1c87affa8322702",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, original derivative bytes and pixel-review contact sheet preserved in China batch 09.",
+        "contextSources": [],
+        "metadataI18n": {
+          "date": {
+            "en": "Qing dynasty; colophon dated 1748",
+            "zh": "清代；题跋纪年1748年"
+          },
+          "creator": {
+            "en": "Ding Guanpeng; colophon by Wang Youdun",
+            "zh": "丁观鹏绘、汪由敦题"
+          },
+          "institution": {
+            "en": "National Palace Museum, Taipei; 故畫002766N000000000",
+            "zh": "国立故宫博物院，台北；故畫002766N000000000"
+          }
+        }
+      },
+      {
+        "id": "china-batch-09-fukanggan-conch",
+        "file": "assets/history-media/china-batch-09-fukanggan-conch.jpg",
+        "recordIds": [
+          "china-event-qing-022"
+        ],
+        "title": {
+          "en": "The ritual conch sent with Fuk’anggan to Taiwan",
+          "zh": "随福康安赴台的法螺"
+        },
+        "alt": {
+          "en": "A white conch with gilded, jewel-set fittings lies horizontally beside its museum label.",
+          "zh": "白色法螺横置，饰以鎏金嵌宝配件，下方为馆藏标签。"
+        },
+        "caption": {
+          "en": "Qianlong-period conch. Its box label records dispatch with Fuk’anggan to Taiwan in 1787 and return to the court in 1788.",
+          "zh": "乾隆时期法螺，原匣签记1787年随福康安赴台、1788年缴回宫廷。"
+        },
+        "interpretation": {
+          "en": "The box inscription traces this conch from imperial ritual to Fuk’anggan’s Taiwan voyage and back to court.",
+          "zh": "原匣题记串起这件法螺从宫廷仪式、随福康安渡海赴台，到返回宫廷的经历。"
+        },
+        "creator": "Unidentified court artisans",
+        "date": "Qianlong reign, 1736–1795; documented use 1787–1788",
+        "institution": "National Palace Museum, Taipei; 故雜000558N000000000",
+        "kind": "object",
+        "representation": "object-photograph",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/2700?dep=U",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/K1D%2FK1D000558N000000000PAA/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/K1D%2FK1D000558N000000000PAA/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/2700?dep=U",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "右旋白螺。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "右旋白螺。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 1400,
+        "height": 1050,
+        "bytes": 95134,
+        "sha256": "dc29cb77b867a8bd46f508ae840a026d5e9a3914cce8bb874b6db7411ef23ab5",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, original derivative bytes and pixel-review contact sheet preserved in China batch 09.",
+        "contextSources": [],
+        "metadataI18n": {
+          "date": {
+            "en": "Qianlong reign, 1736–1795; documented use 1787–1788",
+            "zh": "乾隆时期，1736—1795年；有据使用于1787—1788年"
+          },
+          "creator": {
+            "en": "Unidentified court artisans",
+            "zh": "佚名宫廷工匠"
+          },
+          "institution": {
+            "en": "National Palace Museum, Taipei; 故雜000558N000000000",
+            "zh": "国立故宫博物院，台北；故雜000558N000000000"
+          }
+        }
+      },
+      {
+        "id": "china-batch-09-song-sericulture",
+        "file": "assets/history-media/china-batch-09-song-sericulture.jpg",
+        "recordIds": [
+          "china-song-textile-households"
+        ],
+        "title": {
+          "en": "Sericulture attributed to Liu Songnian",
+          "zh": "传刘松年《蚕事图》"
+        },
+        "alt": {
+          "en": "Workers handle textile equipment in and around tiled buildings; trees and carriers fill the courtyard.",
+          "zh": "人物在瓦屋内外操作纺织器具，院中有树木与搬运者。"
+        },
+        "caption": {
+          "en": "Painting cataloged as Song-dynasty Silk Cultivation by Liu Songnian. The exact year is not established.",
+          "zh": "馆藏题为宋刘松年《蚕事图》，确切年代未定。"
+        },
+        "interpretation": {
+          "en": "Buildings, trays and workers organize silk production into household spaces. Follow how the painter connects separate tasks.",
+          "zh": "建筑、器具与劳动者把蚕织生产安排在家庭空间中。观察画家如何连接不同工序。"
+        },
+        "creator": "Attributed to Liu Songnian",
+        "date": "Cataloged as Song dynasty; exact year unrecorded",
+        "institution": "National Palace Museum, Taipei; 故畫001260N000000003",
+        "kind": "artwork",
+        "representation": "historical-artwork",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/14545?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001260N000000003PAA/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001260N000000003PAA/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/14545?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "歷朝名人圖繪 冊 宋劉松年蠶事圖。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "歷朝名人圖繪 冊 宋劉松年蠶事圖。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 1400,
+        "height": 1048,
+        "bytes": 134768,
+        "sha256": "f654b44b03eba19b7e9dfcb4cb867aa427f3d40bd43f280fab8ba728145d538d",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, original derivative bytes and pixel-review contact sheet preserved in China batch 09.",
+        "contextSources": [],
+        "metadataI18n": {
+          "date": {
+            "en": "Cataloged as Song dynasty; exact year unrecorded",
+            "zh": "馆藏著录为宋代；具体年份未载"
+          },
+          "creator": {
+            "en": "Attributed to Liu Songnian",
+            "zh": "传刘松年"
+          },
+          "institution": {
+            "en": "National Palace Museum, Taipei; 故畫001260N000000003",
+            "zh": "国立故宫博物院，台北；故畫001260N000000003"
+          }
+        }
+      },
+      {
+        "id": "china-batch-09-mao-gong-ding",
+        "file": "assets/history-media/china-batch-09-mao-gong-ding.jpg",
+        "recordIds": [
+          "zhou-dynasty"
+        ],
+        "title": {
+          "en": "The Duke Mao bronze cauldron",
+          "zh": "毛公鼎"
+        },
+        "alt": {
+          "en": "A bronze cauldron stands on three legs beneath two upright handles.",
+          "zh": "青铜鼎立于三足之上，口沿有两只立耳。"
+        },
+        "caption": {
+          "en": "Late Western Zhou bronze, cataloged 827–782 BCE. Its interior bears a long inscription concerning royal commands and Duke Mao.",
+          "zh": "西周晚期铜器，馆藏定为公元前827—782年；内壁长铭涉及王命与毛公。"
+        },
+        "interpretation": {
+          "en": "This is one of the inscribed ritual vessels central to the Zhou entry’s account of offices and political authority. The exterior photograph shows the vessel’s form; the inscription is transcribed on the linked museum page.",
+          "zh": "此器正是周代条目所述通过铭文记述官职与政治权力的礼器实例；外观照片展示器形，馆藏链接提供铭文内容。"
+        },
+        "creator": "Unidentified Western Zhou bronze founders",
+        "date": "Late Western Zhou, 827–782 BCE (museum dating)",
+        "institution": "National Palace Museum, Taipei; 中銅000651N000000000",
+        "kind": "object",
+        "representation": "object-photograph",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/1438?dep=U",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/C1A%2FC1A000651N000000000PAA/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/C1A%2FC1A000651N000000000PAA/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/1438?dep=U",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "毛公鼎。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "毛公鼎。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 1050,
+        "height": 1400,
+        "bytes": 90384,
+        "sha256": "384a337be2b259138d7e8c8439bfae1805aad4902215a25109a4fcfb98e76a29",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, original derivative bytes and pixel-review contact sheet preserved in China batch 09.",
+        "contextSources": [],
+        "metadataI18n": {
+          "date": {
+            "en": "Late Western Zhou, 827–782 BCE (museum dating)",
+            "zh": "西周晚期，公元前827—782年（馆藏定年）"
+          },
+          "creator": {
+            "en": "Unidentified Western Zhou bronze founders",
+            "zh": "佚名西周铸铜工匠"
+          },
+          "institution": {
+            "en": "National Palace Museum, Taipei; 中銅000651N000000000",
+            "zh": "国立故宫博物院，台北；中銅000651N000000000"
+          }
+        }
+      },
+      {
+        "id": "china-batch-09-hongwu-xuda-edict",
+        "file": "assets/history-media/china-batch-09-hongwu-xuda-edict.jpg",
+        "recordIds": [
+          "china-person-xuda"
+        ],
+        "title": {
+          "en": "Hongwu’s edict to Xu Da",
+          "zh": "明太祖敕徐达"
+        },
+        "alt": {
+          "en": "Red cursive writing fills the right leaf; a black-ink transcription occupies the left.",
+          "zh": "右页为朱笔草书，左页为墨笔释文。"
+        },
+        "caption": {
+          "en": "Undated imperial manuscript addressed to General Xu Da, cataloged as Zhu Yuanzhang’s handwriting. The whole opening is retained.",
+          "zh": "致大将军徐达的未纪年敕书，馆藏著录为朱元璋御笔；保留完整对开。"
+        },
+        "interpretation": {
+          "en": "The emperor shares sacrificial meat with Xu Da after praying for crops. This direct address presents the sovereign–commander relationship through a ritual gift.",
+          "zh": "皇帝祈谷后与徐达分享祭肉；直接称名的敕书，通过礼仪馈赠呈现君臣关系。"
+        },
+        "creator": "Zhu Yuanzhang (Hongwu emperor), as cataloged",
+        "date": "Hongwu period; exact year unrecorded",
+        "institution": "National Palace Museum, Taipei; 中書000014N000000011",
+        "kind": "manuscript",
+        "representation": "manuscript-detail",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/26834?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/C2B%2FC2B000014N000000011PAA/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/C2B%2FC2B000014N000000011PAA/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/26834?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "明太祖御筆（一） 冊 皇帝勅賜大將軍魏國公兼太子太傅徐達。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "明太祖御筆（一） 冊 皇帝勅賜大將軍魏國公兼太子太傅徐達。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 1400,
+        "height": 1048,
+        "bytes": 156572,
+        "sha256": "836bbb4b0f059be04552ccb8ea0a76efde0074d1e67089a7cace57997ae59eb0",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, original derivative bytes and pixel-review contact sheet preserved in China batch 09.",
+        "contextSources": [],
+        "metadataI18n": {
+          "date": {
+            "en": "Hongwu period; exact year unrecorded",
+            "zh": "洪武时期；具体年份未载"
+          },
+          "creator": {
+            "en": "Zhu Yuanzhang (Hongwu emperor), as cataloged",
+            "zh": "朱元璋（明太祖），据馆藏著录"
+          },
+          "institution": {
+            "en": "National Palace Museum, Taipei; 中書000014N000000011",
+            "zh": "国立故宫博物院，台北；中書000014N000000011"
+          }
+        }
+      },
+      {
+        "id": "china-batch-09-xining-cash",
+        "file": "assets/history-media/china-batch-09-xining-cash.jpg",
+        "recordIds": [
+          "china-song-money-networks"
+        ],
+        "title": {
+          "en": "A Xining yuanbao cash coin",
+          "zh": "熙宁元宝"
+        },
+        "alt": {
+          "en": "The coin’s corroded four-character inscription surrounds a square hole; a museum label stands at the lower right.",
+          "zh": "锈蚀的钱文四字围绕方孔，右下为馆藏标签。"
+        },
+        "caption": {
+          "en": "Northern Song Xining yuanbao coin. The collection record dates the object to the Northern Song rather than a particular minting year.",
+          "zh": "北宋熙宁元宝；馆藏将实物定为北宋，未载具体铸年。"
+        },
+        "interpretation": {
+          "en": "Metal cash remained important alongside paper instruments. This surviving Song coin supplies a contemporary material comparison for the entry’s discussion of moving, paying and representing monetary value.",
+          "zh": "金属钱与纸面凭券并存；这枚宋钱为条目所述货币运输、支付与价值表达提供当时实物参照。"
+        },
+        "creator": "Unidentified Northern Song mint",
+        "date": "Northern Song dynasty, 960–1127",
+        "institution": "National Palace Museum, Taipei; 購錢002236N000000000",
+        "kind": "object",
+        "representation": "object-photograph",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/11574?dep=U",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/B1O%2FB1O002236N000000000PAA/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/B1O%2FB1O002236N000000000PAA/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/11574?dep=U",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "熙寧元寶。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "熙寧元寶。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 1400,
+        "height": 930,
+        "bytes": 148266,
+        "sha256": "06d51412e8916268f8c52a13389aaec2a00296c161c99c5f06928c25592f289f",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, original derivative bytes and pixel-review contact sheet preserved in China batch 09.",
+        "contextSources": [],
+        "metadataI18n": {
+          "date": {
+            "en": "Northern Song dynasty, 960–1127",
+            "zh": "北宋，960—1127年"
+          },
+          "creator": {
+            "en": "Unidentified Northern Song mint",
+            "zh": "佚名北宋铸钱机构"
+          },
+          "institution": {
+            "en": "National Palace Museum, Taipei; 購錢002236N000000000",
+            "zh": "国立故宫博物院，台北；購錢002236N000000000"
+          }
+        }
+      },
+      {
+        "id": "china-batch-09-wangyangming-xiang-shrine",
+        "file": "assets/history-media/china-batch-09-wangyangming-xiang-shrine.jpg",
+        "recordIds": [
+          "china-tusi-local-institutions"
+        ],
+        "title": {
+          "en": "Wang Yangming’s Record of the Shrine to Xiang",
+          "zh": "王阳明《象祠记》"
+        },
+        "alt": {
+          "en": "The opening lines of the cursive text appear beside silk mounting and red collector seals.",
+          "zh": "草书正文开篇与绫裱、朱色鉴藏印并列。"
+        },
+        "caption": {
+          "en": "Museum-photographed opening section of Wang Shouren’s Record of the Shrine to Xiang. The manuscript itself is undated.",
+          "zh": "王守仁《象祠记》正文开篇的馆方分段摄影；此书迹未纪年。"
+        },
+        "interpretation": {
+          "en": "The text responds to a local An chief’s rebuilding of a shrine and discusses moral transformation. It offers a Ming scholar’s voice within negotiations between hereditary local authority and imperial cultural ideals.",
+          "zh": "文字回应安氏宣慰重修祠宇，并讨论教化；在世袭地方权力与帝国文化理想的互动中，留下明代士人的声音。"
+        },
+        "creator": "Wang Shouren (Wang Yangming)",
+        "date": "Ming dynasty; manuscript undated",
+        "institution": "National Palace Museum, Taipei; 贈書000581N000000000",
+        "kind": "manuscript",
+        "representation": "manuscript-detail",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/26934?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/A2B%2FA2B000581N000000000PAF/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/A2B%2FA2B000581N000000000PAF/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/26934?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "明王守仁書象祠記 卷。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "明王守仁書象祠記 卷。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 1400,
+        "height": 1050,
+        "bytes": 176976,
+        "sha256": "5afd12b256bd177d1dd625c13c157fa3a1280f9b3c82e8cb8e168c8d03f4247a",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, original derivative bytes and pixel-review contact sheet preserved in China batch 09.",
+        "contextSources": [],
+        "metadataI18n": {
+          "date": {
+            "en": "Ming dynasty; manuscript undated",
+            "zh": "明代；书迹未纪年"
+          },
+          "creator": {
+            "en": "Wang Shouren (Wang Yangming)",
+            "zh": "王守仁（王阳明）"
+          },
+          "institution": {
+            "en": "National Palace Museum, Taipei; 贈書000581N000000000",
+            "zh": "国立故宫博物院，台北；贈書000581N000000000"
+          }
+        }
+      },
+      {
+        "id": "china-batch-09-mou-yi-clothes",
+        "file": "assets/history-media/china-batch-09-mou-yi-clothes.jpg",
+        "recordIds": [
+          "china-song-textile-households"
+        ],
+        "title": {
+          "en": "Cutting and sewing in Mou Yi’s Preparing Clothes",
+          "zh": "牟益《捣衣图》中的裁缝"
+        },
+        "alt": {
+          "en": "Women sit and stand around fabric on a platform; one holds scissors before a landscape screen.",
+          "zh": "女子围坐或站在平台上的布料旁，一人持剪刀，背后立山水屏风。"
+        },
+        "caption": {
+          "en": "Official section photograph from Mou Yi’s 1240 handscroll, interpreting Xie Huilian’s older poem through Tang-style figures preparing clothes.",
+          "zh": "牟益1240年画卷的馆方分段摄影，以唐风制衣人物阐释谢惠连旧诗。"
+        },
+        "interpretation": {
+          "en": "Scissors, fabric and a shared workspace connect this poetic scene to the textile story’s stages of garment making.",
+          "zh": "剪刀、布料与共同工作空间，把这幅诗意图景同纺织故事中的成衣工序联系起来。"
+        },
+        "creator": "Mou Yi",
+        "date": "1240; dated in the artist’s inscription",
+        "institution": "National Palace Museum, Taipei; 故畫000999N000000000",
+        "kind": "artwork",
+        "representation": "historical-artwork",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/618?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A000999N000000000PAK/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A000999N000000000PAK/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/618?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "宋牟益擣衣圖 卷。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "宋牟益擣衣圖 卷。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 1400,
+        "height": 1048,
+        "bytes": 181398,
+        "sha256": "c8cf66bcc1906c26533a5f6349e2e7dde068ab9d27cee8e3c991e46319736097",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, original derivative bytes and pixel-review contact sheet preserved in China batch 09.",
+        "contextSources": [],
+        "metadataI18n": {
+          "date": {
+            "en": "1240; dated in the artist’s inscription",
+            "zh": "1240年，据作者题记"
+          },
+          "creator": {
+            "en": "Mou Yi",
+            "zh": "牟益"
+          },
+          "institution": {
+            "en": "National Palace Museum, Taipei; 故畫000999N000000000",
+            "zh": "国立故宫博物院，台北；故畫000999N000000000"
+          }
+        }
+      },
+      {
+        "id": "china-batch-09-qianlong-ten-campaigns-kesi",
+        "file": "assets/history-media/china-batch-09-qianlong-ten-campaigns-kesi.jpg",
+        "recordIds": [
+          "china-person-qianlong"
+        ],
+        "title": {
+          "en": "Qianlong’s Ten Complete Victories in woven silk",
+          "zh": "缂丝乾隆《十全记》"
+        },
+        "alt": {
+          "en": "Woven calligraphy, collector seals and part of the large heading occupy a mounted scroll section.",
+          "zh": "装裱卷段包含缂织文字、鉴藏印及大字引首的一部分。"
+        },
+        "caption": {
+          "en": "Official photographed section 3 of a Qing kesi textile reproducing Qianlong’s Ten Complete Victories text of 1792. Textile manufacture is not separately dated.",
+          "zh": "清代缂丝乾隆《十全记》的馆方第3段摄影；所摹文字为1792年，织造年代未另载。"
+        },
+        "interpretation": {
+          "en": "Imperial writing became a costly crafted object. The textile connects Qianlong’s collecting and commissioning to the presentation of his military record as perfect achievement, a claim made by the emperor.",
+          "zh": "御书化为精制织物，将乾隆的收藏与委托制作同“十全武功”的自我表述联系起来；“十全”是皇帝自身的主张。"
+        },
+        "creator": "Unidentified Qing kesi weavers; text by Qianlong",
+        "date": "Qing dynasty; reproduces an imperial text dated 1792",
+        "institution": "National Palace Museum, Taipei; 中絲000009N000000000",
+        "kind": "object",
+        "representation": "object-photograph",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/1907?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/C2C%2FC2C000009N000000000PAC/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/C2C%2FC2C000009N000000000PAC/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/1907?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "清人緙絲乾隆書十全記 卷。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "清人緙絲乾隆書十全記 卷。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 1400,
+        "height": 1048,
+        "bytes": 211536,
+        "sha256": "8e4f51b61a5374d809874c2c6f2b0efdfe061bde221ec2fe3f358b4a08e73f7f",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, original derivative bytes and pixel-review contact sheet preserved in China batch 09.",
+        "contextSources": [],
+        "metadataI18n": {
+          "date": {
+            "en": "Qing dynasty; reproduces an imperial text dated 1792",
+            "zh": "清代；摹织1792年御制文字"
+          },
+          "creator": {
+            "en": "Unidentified Qing kesi weavers; text by Qianlong",
+            "zh": "佚名清代缂丝工匠；乾隆撰文"
+          },
+          "institution": {
+            "en": "National Palace Museum, Taipei; 中絲000009N000000000",
+            "zh": "国立故宫博物院，台北；中絲000009N000000000"
+          }
+        }
+      },
+      {
+        "id": "china-batch-09-jinchuan-red-flag-courier",
+        "file": "assets/history-media/china-batch-09-jinchuan-red-flag-courier.jpg",
+        "recordIds": [
+          "china-landmark-264"
+        ],
+        "title": {
+          "en": "A courier in Red Flags Announcing Three Victories",
+          "zh": "《红旗三捷图》中的驰使"
+        },
+        "alt": {
+          "en": "A mounted courier rides along a steep mountain path past trees and a small building.",
+          "zh": "骑马信使沿陡峭山路驰行，经过树木与小屋。"
+        },
+        "caption": {
+          "en": "Official photographed section 11 of Hongwu’s Red Flags Announcing Three Victories. The scroll records its presentation in 1775 and additions in 1776.",
+          "zh": "弘旿《红旗三捷图》的馆方第11段摄影；卷中记1775年进呈、1776年增题。"
+        },
+        "interpretation": {
+          "en": "The solitary rider carries Jinchuan victory news through a mountainous landscape. The painting makes the movement of military information its subject.",
+          "zh": "独骑在山地传递金川捷报；画卷以军事消息的流动为观看焦点。"
+        },
+        "creator": "Hongwu (弘旿), Qing imperial-clan painter",
+        "date": "1775; additional inscriptions 1776",
+        "institution": "National Palace Museum, Taipei; 故畫001675N000000000",
+        "kind": "artwork",
+        "representation": "historical-artwork",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/5669?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001675N000000000PAK/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001675N000000000PAK/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/5669?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "清弘旿畫紅旂三捷圖 卷。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "清弘旿畫紅旂三捷圖 卷。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 1400,
+        "height": 1050,
+        "bytes": 248017,
+        "sha256": "b30c64136fdf7a28cb386fc0e37c4fdcba2b5c6ac60db0cfcc5063d45bb425e0",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, original derivative bytes and pixel-review contact sheet preserved in China batch 09.",
+        "contextSources": [],
+        "metadataI18n": {
+          "date": {
+            "en": "1775; additional inscriptions 1776",
+            "zh": "1775年；1776年增题"
+          },
+          "creator": {
+            "en": "Hongwu (弘旿), Qing imperial-clan painter",
+            "zh": "清宗室画家弘旿"
+          },
+          "institution": {
+            "en": "National Palace Museum, Taipei; 故畫001675N000000000",
+            "zh": "国立故宫博物院，台北；故畫001675N000000000"
+          }
+        }
+      },
+      {
+        "id": "china-batch-09-hongwu-revenue-edict",
+        "file": "assets/history-media/china-batch-09-hongwu-revenue-edict.jpg",
+        "recordIds": [
+          "china-person-zhuyuanzhang"
+        ],
+        "title": {
+          "en": "Hongwu’s instructions to the Ministry of Revenue",
+          "zh": "明太祖谕户部"
+        },
+        "alt": {
+          "en": "The red-ink edict appears on the right; its black-ink transcription is on the left gold leaf.",
+          "zh": "右为朱笔谕旨，左为金笺墨笔释文。"
+        },
+        "caption": {
+          "en": "Edict dated 1384, the twenty-third day of the intercalary tenth lunar month, concerning household taxation and local administrators.",
+          "zh": "1384年农历闰十月二十三日谕旨，涉及户口税粮与地方官员。"
+        },
+        "interpretation": {
+          "en": "The founder addresses how revenue instructions reach local offices and taxpayers. This surviving administrative text adds an imperial voice to the biography’s discussion of Ming institutions.",
+          "zh": "开国皇帝讨论税粮指令如何传至地方官府与纳税户；留存政务文本为其传记中的明初制度提供御前声音。"
+        },
+        "creator": "Zhu Yuanzhang (Hongwu emperor), as cataloged",
+        "date": "1384, intercalary tenth lunar month, day 23",
+        "institution": "National Palace Museum, Taipei; 中書000014N000000041",
+        "kind": "manuscript",
+        "representation": "manuscript-detail",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/26879?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/C2B%2FC2B000014N000000041PAA/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/C2B%2FC2B000014N000000041PAA/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/26879?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "明太祖御筆（一） 冊 諭戶部。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "明太祖御筆（一） 冊 諭戶部。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 1400,
+        "height": 1048,
+        "bytes": 163320,
+        "sha256": "798e49d2b186e84c75d054d5df9e47afaa53629aa89832bfc6a2dc555764f62c",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, original derivative bytes and pixel-review contact sheet preserved in China batch 09.",
+        "contextSources": [],
+        "metadataI18n": {
+          "date": {
+            "en": "1384, intercalary tenth lunar month, day 23",
+            "zh": "1384年农历闰十月二十三日"
+          },
+          "creator": {
+            "en": "Zhu Yuanzhang (Hongwu emperor), as cataloged",
+            "zh": "朱元璋（明太祖），据馆藏著录"
+          },
+          "institution": {
+            "en": "National Palace Museum, Taipei; 中書000014N000000041",
+            "zh": "国立故宫博物院，台北；中書000014N000000041"
+          }
+        }
+      },
+      {
+        "id": "china-batch-09-hongwu-southwest-logistics",
+        "file": "assets/history-media/china-batch-09-hongwu-southwest-logistics.jpg",
+        "recordIds": [
+          "china-tusi-local-institutions"
+        ],
+        "title": {
+          "en": "A Ming order on southwestern military supplies",
+          "zh": "明初西南军务谕旨"
+        },
+        "alt": {
+          "en": "Red vertical writing spans a large paper sheet with interlinear corrections and an identifying heading.",
+          "zh": "大幅纸页上为朱笔纵书，带行间修改及题首标识。"
+        },
+        "caption": {
+          "en": "Military order dated 1388, second lunar month, day 10. It discusses southwestern local chiefs, troops and grain shortages.",
+          "zh": "1388年农历二月初十军务谕旨，涉及西南土官、军队与缺粮。"
+        },
+        "interpretation": {
+          "en": "The text names local chiefs and explicitly discusses supplying troops. It gives the regional tusi framework a concrete administrative document showing the uneven practical demands of imperial rule.",
+          "zh": "文本点名土官并明确讨论军粮，为土司制度框架提供具体政务文书，展示帝国统治在实际资源与义务上的不均衡。"
+        },
+        "creator": "Hongwu court; cataloged in Zhu Yuanzhang’s imperial handwriting album",
+        "date": "1388, second lunar month, day 10",
+        "institution": "National Palace Museum, Taipei; 中書000015N000000021",
+        "kind": "manuscript",
+        "representation": "manuscript-detail",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/27062?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/C2B%2FC2B000015N000000021PAA/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/C2B%2FC2B000015N000000021PAA/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/27062?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "明太祖御筆（二） 冊 右軍都督府軍務事。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "明太祖御筆（二） 冊 右軍都督府軍務事。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 1400,
+        "height": 1050,
+        "bytes": 153427,
+        "sha256": "eb371b25c6fb61fbce3db71212f5adc4ee0645b53ea9c46aa700199acce89e4c",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, original derivative bytes and pixel-review contact sheet preserved in China batch 09.",
+        "contextSources": [],
+        "metadataI18n": {
+          "date": {
+            "en": "1388, second lunar month, day 10",
+            "zh": "1388年农历二月初十日"
+          },
+          "creator": {
+            "en": "Hongwu court; cataloged in Zhu Yuanzhang’s imperial handwriting album",
+            "zh": "洪武朝廷；收入明太祖御笔册"
+          },
+          "institution": {
+            "en": "National Palace Museum, Taipei; 中書000015N000000021",
+            "zh": "国立故宫博物院，台北；中書000015N000000021"
+          }
+        }
+      }
+    ],
+    "associations": [
+      {
+        "recordId": "china-person-liuyuxi",
+        "assetId": "china-batch-09-liuyuxi",
+        "role": "named-person",
+        "context": {
+          "en": "The portrait and facing biography frame Liu Yuxi as a poet worth remembering in Qing China.",
+          "zh": "肖像与对页传记呈现清代对刘禹锡这位唐代诗人的追忆。"
+        },
+        "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/35797?dep=P",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "recordId": "china-person-wangyangming",
+        "assetId": "china-batch-09-wangyangming-landscape",
+        "role": "related-work",
+        "context": {
+          "en": "The philosopher also practiced painting and calligraphy. The museum identifies Ni Zan’s influence in this quiet composition, expanding the biography beyond Wang’s teaching and public career.",
+          "zh": "这位思想家亦从事书画；馆方指出宁静构图受到倪瓒影响，使其生平不止于讲学与政治活动。"
+        },
+        "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/18491?dep=P",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "recordId": "china-landmark-264",
+        "assetId": "china-batch-09-jinchuan-memorial",
+        "role": "related-work",
+        "context": {
+          "en": "The heading explicitly announces completion of the two Jinchuan campaigns. Its formal praise records the court’s celebration of military success and should be read as a partisan voice.",
+          "zh": "题首明确写“平定两金川大功告成”；颂词记录宫廷如何庆祝战事，应作为具有立场的当时声音阅读。"
+        },
+        "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/3141?dep=P",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "recordId": "china-gao-shi-fengqiu-office",
+        "assetId": "china-batch-09-gao-shi-seven-scholars",
+        "role": "related-work",
+        "context": {
+          "en": "The label identifies Gao Shi, the poet in the Fengqiu officeholding story. This imagined assembly of Tang scholars shows his later reputation, not an actual shared journey or the county appointment.",
+          "zh": "题名明确辨识封丘任职故事中的高适；唐代文士的想象聚会表现后世声望，并非真实同行或县尉任命场景。"
+        },
+        "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/6417?dep=P",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "recordId": "china-event-qing-022",
+        "assetId": "china-batch-09-fukanggan-conch",
+        "role": "related-work",
+        "context": {
+          "en": "The box inscription traces this conch from imperial ritual to Fuk’anggan’s Taiwan voyage and back to court.",
+          "zh": "原匣题记串起这件法螺从宫廷仪式、随福康安渡海赴台，到返回宫廷的经历。"
+        },
+        "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/2700?dep=U",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "recordId": "china-song-textile-households",
+        "assetId": "china-batch-09-song-sericulture",
+        "role": "related-work",
+        "context": {
+          "en": "Buildings, trays and workers organize silk production into household spaces. Follow how the painter connects separate tasks.",
+          "zh": "建筑、器具与劳动者把蚕织生产安排在家庭空间中。观察画家如何连接不同工序。"
+        },
+        "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/14545?dep=P",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "recordId": "zhou-dynasty",
+        "assetId": "china-batch-09-mao-gong-ding",
+        "role": "related-work",
+        "context": {
+          "en": "This is one of the inscribed ritual vessels central to the Zhou entry’s account of offices and political authority. The exterior photograph shows the vessel’s form; the inscription is transcribed on the linked museum page.",
+          "zh": "此器正是周代条目所述通过铭文记述官职与政治权力的礼器实例；外观照片展示器形，馆藏链接提供铭文内容。"
+        },
+        "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/1438?dep=U",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "recordId": "china-person-xuda",
+        "assetId": "china-batch-09-hongwu-xuda-edict",
+        "role": "related-work",
+        "context": {
+          "en": "The emperor shares sacrificial meat with Xu Da after praying for crops. This direct address presents the sovereign–commander relationship through a ritual gift.",
+          "zh": "皇帝祈谷后与徐达分享祭肉；直接称名的敕书，通过礼仪馈赠呈现君臣关系。"
+        },
+        "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/26834?dep=P",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "recordId": "china-song-money-networks",
+        "assetId": "china-batch-09-xining-cash",
+        "role": "related-work",
+        "context": {
+          "en": "Metal cash remained important alongside paper instruments. This surviving Song coin supplies a contemporary material comparison for the entry’s discussion of moving, paying and representing monetary value.",
+          "zh": "金属钱与纸面凭券并存；这枚宋钱为条目所述货币运输、支付与价值表达提供当时实物参照。"
+        },
+        "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/11574?dep=U",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "recordId": "china-tusi-local-institutions",
+        "assetId": "china-batch-09-wangyangming-xiang-shrine",
+        "role": "related-work",
+        "context": {
+          "en": "The text responds to a local An chief’s rebuilding of a shrine and discusses moral transformation. It offers a Ming scholar’s voice within negotiations between hereditary local authority and imperial cultural ideals.",
+          "zh": "文字回应安氏宣慰重修祠宇，并讨论教化；在世袭地方权力与帝国文化理想的互动中，留下明代士人的声音。"
+        },
+        "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/26934?dep=P",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "recordId": "china-person-wangyangming",
+        "assetId": "china-batch-09-wangyangming-xiang-shrine",
+        "role": "related-work",
+        "context": {
+          "en": "The text responds to a local An chief’s rebuilding of a shrine and discusses moral transformation. It offers a Ming scholar’s voice within negotiations between hereditary local authority and imperial cultural ideals.",
+          "zh": "文字回应安氏宣慰重修祠宇，并讨论教化；在世袭地方权力与帝国文化理想的互动中，留下明代士人的声音。"
+        },
+        "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/26934?dep=P",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "recordId": "china-song-textile-households",
+        "assetId": "china-batch-09-mou-yi-clothes",
+        "role": "related-work",
+        "context": {
+          "en": "Scissors, fabric and a shared workspace connect this poetic scene to the textile story’s stages of garment making.",
+          "zh": "剪刀、布料与共同工作空间，把这幅诗意图景同纺织故事中的成衣工序联系起来。"
+        },
+        "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/618?dep=P",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "recordId": "china-person-qianlong",
+        "assetId": "china-batch-09-qianlong-ten-campaigns-kesi",
+        "role": "related-work",
+        "context": {
+          "en": "Imperial writing became a costly crafted object. The textile connects Qianlong’s collecting and commissioning to the presentation of his military record as perfect achievement, a claim made by the emperor.",
+          "zh": "御书化为精制织物，将乾隆的收藏与委托制作同“十全武功”的自我表述联系起来；“十全”是皇帝自身的主张。"
+        },
+        "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/1907?dep=P",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "recordId": "china-landmark-264",
+        "assetId": "china-batch-09-jinchuan-red-flag-courier",
+        "role": "related-work",
+        "context": {
+          "en": "The solitary rider carries Jinchuan victory news through a mountainous landscape. The painting makes the movement of military information its subject.",
+          "zh": "独骑在山地传递金川捷报；画卷以军事消息的流动为观看焦点。"
+        },
+        "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/5669?dep=P",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "recordId": "china-person-zhuyuanzhang",
+        "assetId": "china-batch-09-hongwu-revenue-edict",
+        "role": "related-work",
+        "context": {
+          "en": "The founder addresses how revenue instructions reach local offices and taxpayers. This surviving administrative text adds an imperial voice to the biography’s discussion of Ming institutions.",
+          "zh": "开国皇帝讨论税粮指令如何传至地方官府与纳税户；留存政务文本为其传记中的明初制度提供御前声音。"
+        },
+        "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/26879?dep=P",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "recordId": "china-tusi-local-institutions",
+        "assetId": "china-batch-09-hongwu-southwest-logistics",
+        "role": "related-work",
+        "context": {
+          "en": "The text names local chiefs and explicitly discusses supplying troops. It gives the regional tusi framework a concrete administrative document showing the uneven practical demands of imperial rule.",
+          "zh": "文本点名土官并明确讨论军粮，为土司制度框架提供具体政务文书，展示帝国统治在实际资源与义务上的不均衡。"
+        },
+        "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/27062?dep=P",
+        "checkedAt": "2026-11-11"
+      }
+    ]
+  },
+  "taiwanChronology": {
+    "sourceUrls": [
+      "https://south.npm.gov.tw/ExhibitionsDetailC003110.aspx?Cond=0d617d24-20c0-44b3-97d7-97b8667b72ef",
+      "https://thcts.sinica.edu.tw/themes/rc03-3.php",
+      "https://digitalarchive.npm.gov.tw/Collection/Detail/2700?dep=U"
+    ],
+    "shortQuotes": [
+      {
+        "source": "National Palace Museum exhibition",
+        "quote": "到乾隆五十三年（1788） 二月被平定"
+      },
+      {
+        "source": "Academia Sinica historical map",
+        "quote": "遂將諸羅縣改名為嘉義縣"
+      }
+    ],
+    "correction": {
+      "id": "china-event-qing-022",
+      "patch": {
+        "title": {
+          "en": "Fuk’anggan reaches Taiwan; Zhuluo is renamed Jiayi",
+          "zh": "福康安赴台作战，诸罗改名嘉义"
+        },
+        "summary": {
+          "en": "In 1787, Fuk’anggan crossed to Taiwan during the Lin Shuangwen uprising. The Qing court renamed Zhuluo as Jiayi in recognition of the town’s defenders. Fighting continued into 1788. A conch sent with the commander preserves a box inscription recording its 1787 dispatch and 1788 return to the court.",
+          "zh": "1787年，福康安在林爽文事件期间渡海赴台作战。清廷为褒奖诸罗守城者，将县名改为嘉义；战事延续至1788年。随统帅出行的法螺，其匣签记下1787年赐发、1788年缴回宫廷的经历。"
+        },
+        "dateNote": {
+          "en": "1787 anchors the commander’s arrival and county renaming; the campaign ended in 1788. The map point represents Jiayi.",
+          "zh": "1787年指统帅抵台与县名更改；战事结束于1788年。地图点代表嘉义。"
+        }
+      },
+      "note": {
+        "en": "Separated the 1787 arrival and renaming from the 1788 campaign endpoint, using museum chronology, the institutional historical map and the conch inscription.",
+        "zh": "据博物馆展览说明、学术机构历史地图及法螺匣签，分开1787年抵台、改名与1788年战事终结。"
+      },
+      "sources": [
+        {
+          "title": "The Lin Shuangwen campaign: Fangliao battle print",
+          "url": "https://south.npm.gov.tw/ExhibitionsDetailC003110.aspx?Cond=0d617d24-20c0-44b3-97d7-97b8667b72ef",
+          "publisher": "Southern Branch of the National Palace Museum",
+          "evidenceNote": "Exhibition item description dates the campaign endpoint to the second lunar month of 1788. No Gregorian day conversion adopted.",
+          "evidenceNoteZh": "展品说明记战事于1788年农历二月结束；不换算具体公历日期。",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "title": "Qing Taiwan: changes in administrative divisions",
+          "url": "https://thcts.sinica.edu.tw/themes/rc03-3.php",
+          "publisher": "Institute of Taiwan History, Academia Sinica",
+          "evidenceNote": "Dates Zhuluo’s renaming as Jiayi to 1787, in recognition of the defenders.",
+          "evidenceNoteZh": "记1787年因褒奖守城者，将诸罗改名嘉义。",
+          "checkedAt": "2026-11-11"
+        },
+        {
+          "title": "Right-spiraling conch: box inscription",
+          "url": "https://digitalarchive.npm.gov.tw/Collection/Detail/2700?dep=U",
+          "publisher": "National Palace Museum, Taipei",
+          "evidenceNote": "The box inscription records dispatch with Fuk’anggan in Qianlong 52 (1787) and return in Qianlong 53 (1788).",
+          "evidenceNoteZh": "匣签记乾隆五十二年（1787）随福康安赐发、五十三年（1788）缴回。",
+          "checkedAt": "2026-11-11"
+        }
+      ]
+    }
+  }
+}

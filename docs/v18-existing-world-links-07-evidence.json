@@ -1,0 +1,2182 @@
+{
+  "reviewedAt": "2026-11-11",
+  "ownerReview": "Three focal-person or author-work connections admitted after full narrative and existing pixel review. No image bytes, date, credit or rights changed. Addams is pictured with Belmont, not Hull-House co-founder Starr. NPG fresh live-page rejection is preserved as an access limit; identification relies on admitted metadata and indexed institutional evidence without any new rights assertion.",
+  "evidence": [
+    {
+      "association": {
+        "assetId": "world-batch-06-caesar",
+        "recordId": "roman-republic",
+        "role": "historical-context",
+        "context": {
+          "en": "This late-Republican gem portrays Julius Caesar, whose dictatorship is part of this account of Rome’s republican crisis. Its miniature profile makes political portraiture visible at the scale of a personal object.",
+          "zh": "这枚共和国晚期宝石刻有尤利乌斯·凯撒侧像；他的独裁统治是本篇共和危机叙事的重要环节。微型头像让政治肖像以随身物件的尺度呈现。"
+        },
+        "evidenceUrl": "https://www.metmuseum.org/essays/the-roman-republic",
+        "checkedAt": "2026-11-11"
+      },
+      "record": {
+        "id": "roman-republic",
+        "title": {
+          "en": "Rome: expansion and the republic’s crisis",
+          "zh": "罗马：扩张与共和危机"
+        },
+        "start": -509,
+        "end": -27,
+        "region": "europe",
+        "theme": "states",
+        "kind": "polity",
+        "importance": 5,
+        "location": {
+          "lat": 41.89,
+          "lon": 12.49,
+          "label": "Rome"
+        },
+        "locationPrecision": "representative",
+        "summary": {
+          "en": "Rome’s republic combined magistrates, a senate and citizen assemblies, while struggles over status reshaped access to political power. Conquest and diplomacy created an extensive Mediterranean empire long before emperors ruled it. Provincial wealth enriched some Romans, but military demands and growing inequality intensified conflict. Civil wars and the dictatorship of Julius Caesar exposed the limits of republican institutions under these pressures. Octavian’s victory and his adoption of the title Augustus marked a new political settlement. The republic therefore illustrates how overseas expansion could transform the social foundations of government at home.",
+          "zh": "罗马共和国结合官职、元老院与公民大会，身份斗争不断改变参与政治的资格。皇帝出现之前，征服与外交已经建立广阔的地中海帝国。行省财富使部分罗马人富裕，军事负担与不平等却加剧冲突。内战和凯撒独裁暴露共和制度面对这些压力的局限。屋大维胜利并获得奥古斯都称号后，形成新的政治安排；海外扩张也深刻改变了本土社会。"
+        },
+        "dateNote": {
+          "en": "509 BCE is the traditional foundation date; 27 BCE marks Octavian’s title Augustus, a conventional transition to imperial rule.",
+          "zh": "前509年为传统建国年代；前27年屋大维获奥古斯都称号，通常作为帝制开端。"
+        },
+        "sources": [
+          {
+            "title": "The Roman Republic",
+            "url": "https://www.metmuseum.org/essays/the-roman-republic",
+            "publisher": "The Metropolitan Museum of Art",
+            "checkedAt": "2026-10-22",
+            "evidenceNote": "509 BCE is the traditional foundation date; 27 BCE marks Octavian’s title Augustus, a conventional transition to imperial rule."
+          }
+        ]
+      },
+      "asset": {
+        "id": "world-batch-06-caesar",
+        "recordIds": [
+          "person-julius-caesar"
+        ],
+        "kind": "portrait",
+        "representation": "ancient-portrait",
+        "title": {
+          "en": "Caesar’s profile cut into amethyst",
+          "zh": "刻入紫水晶的凯撒侧像"
+        },
+        "alt": {
+          "en": "A tiny purple gemstone contains a pale profile head; a ruler below shows its small scale.",
+          "zh": "微小的紫色宝石内刻浅色侧面头像，下方标尺显示其尺寸。"
+        },
+        "caption": {
+          "en": "Roman amethyst intaglio, about 50–40 BCE, identified by the Met as a portrait bust of Julius Caesar.",
+          "zh": "罗马紫水晶凹雕，约公元前50至40年，大都会将其识别为尤利乌斯·凯撒的胸像。"
+        },
+        "interpretation": {
+          "en": "A political face could circulate at the scale of a gemstone, as well as in monumental sculpture. The ruler helps recover the intimate size of this ancient portrait.",
+          "zh": "政治人物的面孔不仅出现于纪念性雕塑，也能以宝石的尺度流传。标尺帮助我们理解这件古代肖像的微小尺寸。"
+        },
+        "file": "assets/history-media/world-batch-06-caesar.jpg",
+        "sha256": "920a60e5720e6e996279004fcc93b9bf168e3aa8480d2009860ae79f751a974c",
+        "bytes": 45434,
+        "width": 600,
+        "height": 600,
+        "checkedAt": "2026-11-11",
+        "downloadedFrom": "https://images.metmuseum.org/CRDImages/gr/web-large/DP111331.jpg",
+        "imageUrl": "https://images.metmuseum.org/CRDImages/gr/original/DP111331.jpg",
+        "credit": "Rogers Fund, 1911",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/248572",
+        "rightsSourceUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access",
+        "rights": {
+          "label": "CC0",
+          "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "note": {
+            "en": "CC0 public-domain image. Credit: Rogers Fund, 1911.",
+            "zh": "CC0公有领域图像。署名：Rogers Fund, 1911。"
+          }
+        },
+        "creator": "Unrecorded Roman gem engraver",
+        "date": "ca. 50–40 BCE",
+        "institution": "The Metropolitan Museum of Art",
+        "metadataI18n": {
+          "date": {
+            "en": "ca. 50–40 BCE",
+            "zh": "约公元前50—40年"
+          },
+          "creator": {
+            "en": "Unrecorded Roman gem engraver",
+            "zh": "罗马宝石雕刻者，姓名未载"
+          },
+          "institution": {
+            "en": "The Metropolitan Museum of Art",
+            "zh": "大都会艺术博物馆"
+          }
+        },
+        "transformation": {
+          "en": "Institution-provided JPEG, unchanged.",
+          "zh": "馆方提供的JPEG，未作修改。"
+        },
+        "contextSources": [
+          {
+            "title": {
+              "en": "Read the related history",
+              "zh": "阅读相关历史"
+            },
+            "url": "https://www.metmuseum.org/essays/the-roman-republic"
+          }
+        ]
+      },
+      "sourceEvidenceIds": [
+        "caesar-object",
+        "republic-history"
+      ],
+      "decision": "propose-admit",
+      "rationale": "Reviewed full bilingual record, not just name matching. Image identifies a focal actor or the author of the specifically discussed central literary work. Context limits claim to that connection.",
+      "historicalReviewStatus": "Unchanged. Image association does not mark inherited narrative as re-reviewed.",
+      "fileValidation": {
+        "assetId": "world-batch-06-caesar",
+        "localPath": "dist/assets/history-media/world-batch-06-caesar.jpg",
+        "sha256": "920a60e5720e6e996279004fcc93b9bf168e3aa8480d2009860ae79f751a974c",
+        "width": 600,
+        "height": 600,
+        "bytes": 45434,
+        "decoded": true,
+        "matchesAdmittedMetadata": true,
+        "visualInspection": "Reviewed research contact sheet: gemstone profile with ruler; complete Murasaki triptych; two women in pencil. No new image downloaded or edited."
+      }
+    },
+    {
+      "association": {
+        "assetId": "murasaki-hiroshige",
+        "recordId": "heian-court",
+        "role": "historical-context",
+        "context": {
+          "en": "Hiroshige’s nineteenth-century print remembers Murasaki Shikibu, author of The Tale of Genji discussed in this account of Heian courtly writing. The Ishiyama setting is a later artistic remembrance.",
+          "zh": "广重的十九世纪版画追忆紫式部；她所著《源氏物语》是本篇平安宫廷书写故事的重要作品。石山寺场景属于后世艺术追忆。"
+        },
+        "evidenceUrl": "https://www.metmuseum.org/essays/heian-period-794-1185",
+        "checkedAt": "2026-11-11"
+      },
+      "record": {
+        "id": "heian-court",
+        "title": {
+          "en": "Heian Japan: writing a courtly world",
+          "zh": "平安日本：书写宫廷世界"
+        },
+        "start": 794,
+        "end": 1185,
+        "region": "east-asia",
+        "theme": "culture",
+        "kind": "culture",
+        "importance": 4,
+        "location": {
+          "lat": 35.02,
+          "lon": 135.76,
+          "label": "Heiankyō / Kyoto"
+        },
+        "locationPrecision": "representative",
+        "summary": {
+          "en": "The imperial court moved to Heiankyō and developed a culture closely associated with aristocratic households. The Fujiwara family exercised influence through marriage and regency, while poetry, diaries and narratives gave court life lasting literary form. Kana writing made new kinds of Japanese expression possible; The Tale of Genji is a celebrated example. Buddhist practice and continental connections remained important even as distinctive local artistic forms developed. By the late twelfth century, military families were challenging courtly political dominance. The period shows that a cultural capital can remain influential while practical political power shifts elsewhere.",
+          "zh": "朝廷迁往平安京后，贵族家庭塑造了宫廷文化。藤原氏通过婚姻和摄政影响政局，诗歌、日记与物语保存了宫廷生活。假名使日语书写产生新的形式，《源氏物语》即为著名例证。佛教与大陆交流依旧重要，本土艺术也逐渐发展。十二世纪后期武家力量上升，说明文化中心可以持续有影响力，而实际政治权力已向别处转移。"
+        },
+        "dateNote": {
+          "en": "794 marks the move to Heiankyō; 1185 is the conventional end used in the source, associated with the victory of the Minamoto.",
+          "zh": "794年迁都平安京；1185年为来源采用的惯例终点，与源氏胜利相关。"
+        },
+        "sources": [
+          {
+            "title": "Heian Period (794–1185)",
+            "url": "https://www.metmuseum.org/essays/heian-period-794-1185",
+            "publisher": "The Metropolitan Museum of Art",
+            "checkedAt": "2026-10-22",
+            "evidenceNote": "794 marks the move to Heiankyō; 1185 is the conventional end used in the source, associated with the victory of the Minamoto."
+          }
+        ]
+      },
+      "asset": {
+        "id": "murasaki-hiroshige",
+        "file": "assets/history-media/murasaki-hiroshige.png",
+        "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Murasaki_Shikibu_by_Hiroshige.png/500px-Murasaki_Shikibu_by_Hiroshige.png",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Murasaki_Shikibu_by_Hiroshige.png",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Murasaki_Shikibu_by_Hiroshige.png",
+        "width": 500,
+        "height": 251,
+        "sha256": "7b840ac6ae26de33952bff5723c27a44cbd78d7c5481f412756a1d2d9dd7cf9f",
+        "bytes": 234514,
+        "recordIds": [
+          "person-murasaki"
+        ],
+        "kind": "portrait",
+        "representation": "later-depiction",
+        "title": {
+          "en": "Murasaki Shikibu imagined at Ishiyama",
+          "zh": "石山寺中的紫式部：后世想象"
+        },
+        "alt": {
+          "en": "A three-panel woodblock print showing a woman on a veranda above a lake landscape under the moon.",
+          "zh": "三联木版画：月下湖景上方的廊台中坐着一位女子。"
+        },
+        "caption": {
+          "en": "Utagawa Hiroshige, about 1855: a later image of Murasaki Shikibu at Ishiyama Temple, within a view of Ōmi. Museum of Fine Arts, Boston source, via Wikimedia Commons.",
+          "zh": "歌川广重，约1855年：近江景色中的石山寺紫式部形象，是后世创作。来源为波士顿美术博物馆，经维基共享资源提供。"
+        },
+        "creator": "Utagawa Hiroshige",
+        "date": "c. 1855",
+        "institution": "Museum of Fine Arts, Boston; image via Wikimedia Commons",
+        "interpretation": {
+          "en": "Made centuries after Murasaki’s life. This is an artistic remembrance, not a contemporary likeness or proof that a specific writing scene occurred.",
+          "zh": "创作时间距紫式部生活的时代已有数百年。这是艺术性追忆，并非同时代肖像，也不能证明某个写作场景确曾发生。"
+        },
+        "checkedAt": "2026-11-09",
+        "retrieval": "Object/file page and rights statement opened; downloaded bytes decoded and visually inspected.",
+        "rights": {
+          "label": "Public domain",
+          "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "note": {
+            "en": "The linked Wikimedia Commons file page records the public-domain basis for this image. Retain the named creator and collection when reusing.",
+            "zh": "所链接的维基共享资源文件页记录其公共领域依据。再利用时请保留具名作者与收藏机构。"
+          }
+        },
+        "rightsSourceUrl": "https://commons.wikimedia.org/wiki/File:Murasaki_Shikibu_by_Hiroshige.png",
+        "transformation": {
+          "en": "Wikimedia-provided image or thumbnail, saved without local visual edits. Existing source restorations are credited separately.",
+          "zh": "保存维基共享资源提供的图像或缩略图，未作本地视觉修改；来源已有的修复另行注明。"
+        },
+        "metadataI18n": {
+          "date": {
+            "en": "c. 1855",
+            "zh": "约1855年"
+          },
+          "creator": {
+            "en": "Utagawa Hiroshige",
+            "zh": "歌川广重"
+          },
+          "institution": {
+            "en": "Museum of Fine Arts, Boston; image via Wikimedia Commons",
+            "zh": "波士顿美术博物馆；图像经维基共享资源提供"
+          }
+        }
+      },
+      "sourceEvidenceIds": [
+        "murasaki-object",
+        "genji-authorship",
+        "heian-history"
+      ],
+      "decision": "propose-admit",
+      "rationale": "Reviewed full bilingual record, not just name matching. Image identifies a focal actor or the author of the specifically discussed central literary work. Context limits claim to that connection.",
+      "historicalReviewStatus": "Unchanged. Image association does not mark inherited narrative as re-reviewed.",
+      "fileValidation": {
+        "assetId": "murasaki-hiroshige",
+        "localPath": "dist/assets/history-media/murasaki-hiroshige.png",
+        "sha256": "7b840ac6ae26de33952bff5723c27a44cbd78d7c5481f412756a1d2d9dd7cf9f",
+        "width": 500,
+        "height": 251,
+        "bytes": 234514,
+        "decoded": true,
+        "matchesAdmittedMetadata": true,
+        "visualInspection": "Reviewed research contact sheet: gemstone profile with ruler; complete Murasaki triptych; two women in pencil. No new image downloaded or edited."
+      }
+    },
+    {
+      "association": {
+        "assetId": "world-batch-06-npg-npg-95-54",
+        "recordId": "hull-house-immigrant-neighborhood",
+        "role": "historical-context",
+        "context": {
+          "en": "Jane Addams appears with Alva Belmont in this 1912 drawing. Addams co-founded Hull-House with Ellen Gates Starr; Belmont, the other sitter here, should not be mistaken for Starr.",
+          "zh": "这幅1912年的素描绘有简·亚当斯与阿尔娃·贝尔蒙特。亚当斯与艾伦·盖茨·斯塔尔共同创办赫尔之家；画中另一位人物贝尔蒙特并非斯塔尔。"
+        },
+        "evidenceUrl": "https://www.womenshistory.org/education-resources/biographies/jane-addams",
+        "checkedAt": "2026-11-11"
+      },
+      "record": {
+        "id": "hull-house-immigrant-neighborhood",
+        "title": {
+          "en": "Hull-House · Care, learning and an industrial neighborhood",
+          "zh": "赫尔之家 · 照护、学习与工业街区"
+        },
+        "start": 1889,
+        "end": 1915,
+        "region": "north-america",
+        "kind": "place",
+        "theme": "cities",
+        "importance": 3,
+        "location": {
+          "lat": 41.87,
+          "lon": -87.65,
+          "label": "Hull-House, Near West Side, Chicago; settlement and neighborhood context"
+        },
+        "locationPrecision": "representative",
+        "summary": {
+          "en": "Hull-House began in 1889 when Jane Addams and Ellen Gates Starr moved into a house at Halsted and Polk Streets on Chicago’s industrial west side. The settlement connected educated resident workers with a neighborhood shaped by immigration and industrial labor. It was one institution within a wider urban reform movement, rather than the beginning of all American settlement work.\n\nThe range of activities expanded beyond any single reformer. A kindergarten and day care supported working households; evening classes, arts, a library and clubs offered opportunities for learning and association. Job assistance and other services responded to the practical demands of earning a living. Raising money, recruiting residents and maintaining facilities were part of the institution’s work as much as its public ideals.\n\nInvestigation connected local conditions to policy debates. Addams and colleagues addressed sanitation, factory work, child welfare and women’s political participation. The settlement’s account of needs was itself a perspective: neighborhood residents were people with their own languages, work and priorities, not merely recipients of expert instruction.\n\nThe selected 1889–1915 interval follows the founding through Addams’s widening peace activism. It does not mark Hull-House’s closure or the end of neighborhood change. The site helps readers connect immigrant city life and social reform without treating a list of services as proof of equal access or lasting outcomes.",
+          "zh": "1889年，简·亚当斯与艾伦·盖茨·斯塔尔搬入芝加哥工业西区哈尔斯特德街和波尔克街口的一所住宅，赫尔之家由此开始。定居服务机构把受教育的驻院工作人员与移民、工业劳动塑造的街区相连。它是更广泛城市改革运动中的机构，并非美国所有同类工作的起点。\n\n活动范围超出任何一位改革者。幼儿园与日间托育支持劳动家庭；晚课、艺术、图书馆和俱乐部提供学习、交往机会。就业援助等服务回应谋生的实际要求。筹款、招募驻院人员与维护设施，与公开理想同样属于机构工作。\n\n调查把地方条件与政策争论联系起来。亚当斯及同事关注卫生、工厂劳动、儿童福利与女性政治参与。服务机构对需要的描述本身也有视角：街区居民拥有自己的语言、工作和优先事项，并非仅仅接受专家指导的人。\n\n1889—1915年的观察窗口从创办延伸至亚当斯扩大的和平行动，不表示赫尔之家关闭或街区变化终止。这个地点帮助读者连接移民城市生活与社会改革，而不把服务清单当作平等获取或长期成效的证明。"
+        },
+        "dateNote": {
+          "en": "Selected institutional focus 1889–1915, not the complete lifespan of Hull-House. The point is the settlement site at neighborhood scale; activities expanded into multiple facilities and cannot all be assigned to one room or opening year.",
+          "zh": "所选机构观察期1889—1915年，并非赫尔之家的完整存续期。点位在街区尺度标示服务机构；活动扩展至多个设施，不能全部放进同一房间或创办年。"
+        },
+        "sources": [
+          {
+            "title": "Jane Addams – Biographical",
+            "publisher": "Nobel Foundation / NobelPrize.org",
+            "url": "https://www.nobelprize.org/prizes/peace/1931/addams/biographical/",
+            "evidenceNote": "Actual source text captured centrally through the root Codex in-app browser and read locally by the regional author. Historical biography: 1860–1935 lifespan, 1881 Rockford graduation, Ellen Gates Starr and Hull-House founding 1889, educational/cultural services, civic investigations, 1915 Hague congress and peace leadership, wartime criticism, and Baltimore hospitalization during the 1931 Oslo award. No false award-attendance itinerary is inferred.",
+            "checkedAt": "2026-10-24",
+            "retrieval": "inspected-central-browser-capture"
+          },
+          {
+            "title": "Jane Addams",
+            "publisher": "Debra Michals, PhD / National Women’s History Museum",
+            "url": "https://www.womenshistory.org/education-resources/biographies/jane-addams",
+            "evidenceNote": "Actual source text captured centrally through the root Codex in-app browser and read locally by the regional author. Biography: privileged upbringing, Rockford education, 1888 Toynbee Hall visit, joint Hull-House founding and neighborhood services, team reform, suffrage/NAACP involvement, peace activism and 1935 death. The incorrect first-US-settlement-house claim and unsupported priority/office-duration claims are omitted.",
+            "checkedAt": "2026-10-24",
+            "retrieval": "inspected-central-browser-capture"
+          },
+          {
+            "title": "Jane Addams Hull-House Museum",
+            "publisher": "University of Illinois Chicago, Jane Addams Hull-House Museum",
+            "url": "https://hullhouse.uic.edu/",
+            "evidenceNote": "Actual source text captured centrally through the root Codex in-app browser and read locally by the regional author. Museum home-page institutional description confirms joint founding by Jane Addams and Ellen Gates Starr, Near West Side context and work concerning immigrant rights, labor, justice and democracy. Address provides present-day site orientation, not a claim about every historic facility. No exhibition or collection-item reading is implied.",
+            "checkedAt": "2026-10-24",
+            "retrieval": "inspected-central-browser-capture"
+          }
+        ],
+        "relatedIds": [
+          "person-jane-addams",
+          "african-american-great-migration",
+          "person-ida-b-wells"
+        ],
+        "expansion": {
+          "workstreams": [
+            "NA3"
+          ],
+          "release": 6,
+          "edition": "v12",
+          "sourceReview": "inspected-source-synthesis",
+          "reviewLimit": {
+            "en": "Two retrospective biographies supply the services and institutional context; they do not constitute an independent reading of every resident’s testimony or measured program outcomes. The museum biography’s erroneous first-US-settlement-house priority is expressly excluded.",
+            "zh": "两份回顾性传记提供服务及机构背景，不构成对每位街区居民见证的独立阅读，也不是项目成效测量。明确排除博物馆传记中“美国首家”的错误首创说法。"
+          }
+        }
+      },
+      "asset": {
+        "id": "world-batch-06-npg-npg-95-54",
+        "recordIds": [
+          "person-jane-addams"
+        ],
+        "kind": "portrait",
+        "representation": "lifetime-portrait",
+        "title": {
+          "en": "Jane Addams and Alva Belmont, 1912",
+          "zh": "简·亚当斯与阿尔娃·贝尔蒙特，1912年"
+        },
+        "alt": {
+          "en": "A pencil drawing shows two seated women in profile, one wearing an elaborate hat.",
+          "zh": "铅笔画以侧面描绘两位坐着的女性，其中一位戴着装饰繁复的帽子。"
+        },
+        "caption": {
+          "en": "Wallace Morgan drew Jane Addams and Alva Belmont in pencil in 1912. The museum identifies both women as social reformers and Belmont as a suffragist.",
+          "zh": "华莱士·摩根于1912年以铅笔描绘简·亚当斯与阿尔娃·贝尔蒙特。博物馆将两人列为社会改革者，并将贝尔蒙特列为妇女参政权活动家。"
+        },
+        "interpretation": {
+          "en": "A shared portrait places Addams beside another reformer rather than isolating her as a solitary public figure. The rapid pencil strokes preserve the character of a drawn encounter.",
+          "zh": "双人肖像将亚当斯置于另一位改革者身旁，而非将她孤立为单独的公众人物。快速的铅笔笔触保留了现场描绘的特点。"
+        },
+        "file": "assets/history-media/world-batch-06-npg-npg-95-54.jpg",
+        "downloadedFrom": "https://ids.si.edu/ids/download?id=NPG-NPG_95_54Addams_Belmont-000001_screen",
+        "imageUrl": "https://ids.si.edu/ids/download?id=NPG-NPG_95_54Addams_Belmont-000001.jpg",
+        "sourceUrl": "https://npg.si.edu/object/npg_NPG.95.54",
+        "sha256": "7c3bdd1bb0f4994e0106a8f0833dffd29e98c0ade063d5e4779e93da8601becc",
+        "bytes": 147254,
+        "width": 1200,
+        "height": 911,
+        "creator": "Wallace Morgan, 1873 - 1948",
+        "date": "1912",
+        "institution": "National Portrait Gallery, Smithsonian Institution",
+        "checkedAt": "2026-11-11",
+        "rightsSourceUrl": "https://www.si.edu/openaccess",
+        "rights": {
+          "label": "CC0",
+          "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "note": {
+            "en": "CC0 public-domain image. Credit: National Portrait Gallery, Smithsonian Institution.",
+            "zh": "CC0公有领域图像。署名：National Portrait Gallery, Smithsonian Institution。"
+          }
+        },
+        "transformation": {
+          "en": "Institution-provided JPEG, unchanged.",
+          "zh": "馆方提供的JPEG，未作修改。"
+        },
+        "metadataI18n": {
+          "date": {
+            "en": "1912",
+            "zh": "1912年"
+          },
+          "creator": {
+            "en": "Wallace Morgan, 1873 - 1948",
+            "zh": "华莱士·摩根（Wallace Morgan，1873—1948）"
+          },
+          "institution": {
+            "en": "National Portrait Gallery, Smithsonian Institution",
+            "zh": "史密森学会国家肖像馆"
+          }
+        },
+        "contextSources": [
+          {
+            "title": {
+              "en": "Read the related history",
+              "zh": "阅读相关历史"
+            },
+            "url": "https://www.nobelprize.org/prizes/peace/1931/addams/biographical/"
+          }
+        ]
+      },
+      "sourceEvidenceIds": [
+        "addams-object",
+        "hull-house-history"
+      ],
+      "decision": "propose-admit",
+      "rationale": "Reviewed full bilingual record, not just name matching. Image identifies a focal actor or the author of the specifically discussed central literary work. Context limits claim to that connection.",
+      "historicalReviewStatus": "Unchanged. Image association does not mark inherited narrative as re-reviewed.",
+      "fileValidation": {
+        "assetId": "world-batch-06-npg-npg-95-54",
+        "localPath": "dist/assets/history-media/world-batch-06-npg-npg-95-54.jpg",
+        "sha256": "7c3bdd1bb0f4994e0106a8f0833dffd29e98c0ade063d5e4779e93da8601becc",
+        "width": 1200,
+        "height": 911,
+        "bytes": 147254,
+        "decoded": true,
+        "matchesAdmittedMetadata": true,
+        "visualInspection": "Reviewed research contact sheet: gemstone profile with ruler; complete Murasaki triptych; two women in pencil. No new image downloaded or edited."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "caesar-object",
+      "url": "https://www.metmuseum.org/art/collection/search/248572",
+      "quote": "Portrait bust of Julius Caesar.",
+      "finding": "Object 11.195.6, amethyst, ca. 50–40 BCE; opened full institutional page.",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "republic-history",
+      "url": "https://www.metmuseum.org/essays/the-roman-republic",
+      "quote": "culminated with the dictatorship of Julius Caesar and his assassination on March 15, 44 B.C.",
+      "finding": "Opened institutional essay connects expansion, social conflict, civil war and Caesar’s dictatorship.",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "murasaki-object",
+      "url": "https://commons.wikimedia.org/wiki/File:Murasaki_Shikibu_by_Hiroshige.png",
+      "quote": "Novelist and poet Murasaki Shikibu at Ishiyama Temple.",
+      "finding": "Opened file page identifies Hiroshige, c.1855 and complete three-panel print; this is a later portrayal.",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "genji-authorship",
+      "url": "https://www.metmuseum.org/exhibitions/listings/2019/tale-of-genji",
+      "quote": "Written by Murasaki Shikibu, a lady-in-waiting in the early eleventh-century imperial court",
+      "finding": "Search-indexed institutional exhibition description; not a full-page inspection.",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "heian-history",
+      "url": "https://www.metmuseum.org/essays/heian-period-794-1185",
+      "quote": "This refined sensibility and interest in the arts is clearly expressed in the literary classic The Tale of Genji",
+      "finding": "Opened essay links Genji, courtly literary activity and kana. Does not validate the later imagined Ishiyama scene.",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "addams-object",
+      "url": "https://npg.si.edu/object/npg_NPG.95.54",
+      "quote": "Jane Addams and Alva Belmont",
+      "finding": "Search-indexed museum record identifies both sitters and 1912. Direct page returned Request Rejected; admitted asset metadata retained without alteration.",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "hull-house-history",
+      "url": "https://www.womenshistory.org/education-resources/biographies/jane-addams",
+      "quote": "In 1889, Addams and Starr founded Hull House in Chicago’s poor, industrial west side",
+      "finding": "Opened biography establishes co-founding, services and team reform. Its erroneous first-US-settlement claim is explicitly not adopted.",
+      "checkedAt": "2026-11-11"
+    }
+  ],
+  "rejected": [
+    {
+      "assetId": "world-batch-03-sanchi",
+      "recordId": "deccan-buddhist-donor-networks",
+      "decision": "reject-retained",
+      "reason": "Comparative mention, not actual narrative setting. Retain existing-links-02 rejection.",
+      "record": {
+        "id": "deccan-buddhist-donor-networks",
+        "title": {
+          "en": "Deccan Buddhism: donors, monasteries and sacred landscapes",
+          "zh": "德干佛教：捐献者、寺院与神圣景观"
+        },
+        "start": -200,
+        "end": 400,
+        "region": "south-asia",
+        "kind": "culture",
+        "theme": "culture",
+        "location": {
+          "lat": 16.57,
+          "lon": 80.36,
+          "label": "Amaravati region; representative reference"
+        },
+        "locationPrecision": "representative",
+        "importance": 3,
+        "summary": {
+          "en": "Early Buddhist establishments in the Deccan grew within landscapes already associated with powerful trees, serpents and other sacred beings. Sculpture and architecture drew on these local visual traditions as communities created stupas, pilgrimage settings and places for teaching. Donations linked religious institutions to wider social networks, making a monument the outcome of many contributions rather than simply the command of a king.\n\nComparing this material with Sanchi and Ajanta reveals both shared religious purposes and regional choices. The survival of carved stone favors some kinds of evidence over others; it does not reveal every household’s beliefs or the full membership of a monastery. Reading images together with their settings helps explain how institutions took root while avoiding a story of one unchanged religious style spreading everywhere.",
+          "zh": "德干早期佛教机构成长于树木、蛇神等已具有神圣意义的景观中。雕刻和建筑吸收这些视觉传统，形成佛塔、朝礼场所与讲学空间。捐献把宗教机构与更广的社会网络连接起来，使一处纪念建筑体现许多人的参与，而不只是国王的命令。\n\n与桑奇、阿旃陀比较，可以同时观察共同的宗教目的和区域选择。石雕的保存偏重某些证据，并不能展示每个家庭的信仰或寺院全体成员。把图像放回具体环境，有助于解释机构如何扎根，而不把传播写成一种形式始终不变地覆盖各地。"
+        },
+        "dateNote": {
+          "en": "Focus follows the exhibition’s 200 BCE–400 CE framework; this is a network of institutions, not a political territory.",
+          "zh": "关注时段采用展览的前200—400年框架；所述为机构网络，不是政治疆域。"
+        },
+        "sources": [
+          {
+            "title": "Tree & Serpent: Early Buddhist Art in India, 200 BCE–400 CE",
+            "url": "https://www.metmuseum.org/zh/exhibitions/tree-and-serpent%2Fvisiting-guide",
+            "publisher": "The Metropolitan Museum of Art",
+            "evidenceNote": "Curator audio transcript: donors, Buddhist establishments and local sacred landscapes in the Deccan; not a Chinese translation despite the page path.",
+            "checkedAt": "2026-10-23",
+            "retrievalStatus": "page-text-inspected"
+          },
+          {
+            "title": "Jain Sculpture",
+            "url": "https://www.metmuseum.org/essays/jain-sculpture",
+            "publisher": "The Metropolitan Museum of Art",
+            "evidenceNote": "Mahavira, tirthankaras, ascetic imagery and the distinction between liberated teachers and their representations.",
+            "checkedAt": "2026-10-23",
+            "retrievalStatus": "page-text-inspected"
+          }
+        ],
+        "relatedIds": [
+          "sanchi",
+          "satavahana-dynasty",
+          "ajanta-cave-workshops"
+        ],
+        "expansion": {
+          "workstreams": [
+            "SA1"
+          ],
+          "release": 2,
+          "sourceReview": "Source-noted synthesis; see individual retrievalStatus and V9_SOUTH_WEST_ASIA_RESEARCH.md. Date windows and pins are editorial references, not verified frontiers."
+        },
+        "keyFacts": {
+          "en": [
+            "Early Buddhist establishments in the Deccan grew within landscapes already associated with powerful trees, serpents and other sacred beings.",
+            "Sculpture and architecture drew on these local visual traditions as communities created stupas, pilgrimage settings and places for teaching."
+          ],
+          "zh": [
+            "德干早期佛教机构成长于树木、蛇神等已具有神圣意义的景观中。",
+            "雕刻和建筑吸收这些视觉传统，形成佛塔、朝礼场所与讲学空间。"
+          ]
+        }
+      },
+      "asset": {
+        "id": "world-batch-03-sanchi",
+        "recordIds": [
+          "sanchi"
+        ],
+        "kind": "site",
+        "representation": "site-photograph",
+        "file": "assets/history-media/world-batch-03-sanchi.jpg",
+        "sha256": "7d522db4ec60c27a23c7f09ab97b2e83c66b25ae1a8cd86b0231030dacfcab5a",
+        "bytes": 213808,
+        "width": 960,
+        "height": 640,
+        "title": {
+          "en": "Sanchi’s Great Stupa",
+          "zh": "桑吉大塔"
+        },
+        "alt": {
+          "en": "A rounded stone stupa rises behind a carved gateway.",
+          "zh": "圆顶石塔矗立在雕刻门楼之后。"
+        },
+        "caption": {
+          "en": "The Great Stupa at Sanchi, seen in a modern photograph. Its gateways and enclosure guide movement around the monument.",
+          "zh": "现代照片中的桑吉大塔。门楼和围栏引导人们环绕佛塔行进。"
+        },
+        "interpretation": {
+          "en": "Look at the relationship between gate, path and dome: Buddhist worship shaped both architecture and movement.",
+          "zh": "观察门、路径与圆顶的关系：佛教礼拜同时塑造了建筑和行进方式。"
+        },
+        "creator": "Bernard Gagnon",
+        "date": "2013-12-03",
+        "institution": "Wikimedia Commons / credited photographer",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stupa_1,_Sanchi_02.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Stupa_1%2C_Sanchi_02.jpg",
+        "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Stupa_1%2C_Sanchi_02.jpg/960px-Stupa_1%2C_Sanchi_02.jpg",
+        "checkedAt": "2026-11-11",
+        "rightsSourceUrl": "https://commons.wikimedia.org/wiki/File:Stupa_1,_Sanchi_02.jpg",
+        "rights": {
+          "label": "CC BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "note": {
+            "en": "Photograph: Bernard Gagnon, CC BY-SA 3.0, as stated on the Commons file page. The depicted ancient or medieval architecture predates modern copyright; the photograph retains its separate license. Credit and license must accompany reuse.",
+            "zh": "照片作者：Bernard Gagnon；依Commons文件页采用CC BY-SA 3.0。所摄古代或中世纪建筑早于现代版权，照片本身仍适用独立许可。再次使用须保留署名与许可。"
+          }
+        },
+        "contextSources": [
+          {
+            "title": {
+              "en": "Read the site’s history",
+              "zh": "阅读遗址历史"
+            },
+            "url": "https://whc.unesco.org/en/list/524/"
+          }
+        ],
+        "retrieval": "Commons source-page metadata and UNESCO site description retained in research; delivered JPEG decoded, SHA-256 checked and visually reviewed.",
+        "transformation": {
+          "en": "Commons-provided delivery JPEG preserved byte-for-byte. Any source-page crop or edit belongs to the credited source; no local image editing.",
+          "zh": "逐字节保留Commons提供的JPEG。来源页已有的裁切或编辑属于所署名来源；未在本地编辑图像。"
+        },
+        "metadataI18n": {
+          "date": {
+            "en": "2013-12-03",
+            "zh": "2013年12月3日"
+          },
+          "creator": {
+            "en": "Bernard Gagnon",
+            "zh": "贝尔纳·加尼翁（Bernard Gagnon）"
+          },
+          "institution": {
+            "en": "Wikimedia Commons / credited photographer",
+            "zh": "维基共享资源／署名摄影者"
+          }
+        }
+      }
+    },
+    {
+      "assetId": "world-batch-05-cusco-imperial-city",
+      "recordId": "person-pachacuti",
+      "decision": "hold-retained",
+      "reason": "Existing-links-05 requires specific attribution of pictured Qorikancha masonry phase. No new phase evidence retrieved; no admission.",
+      "record": {
+        "id": "person-pachacuti",
+        "title": {
+          "en": "Pachacuti · Reorganizing an expanding Inca state",
+          "zh": "帕查库蒂 · 重组扩张中的印加国家"
+        },
+        "start": 1438,
+        "end": 1471,
+        "region": "latin-america",
+        "theme": "states",
+        "kind": "person",
+        "location": {
+          "lat": -13.52,
+          "lon": -71.98,
+          "label": "Cusco; representative royal and administrative center"
+        },
+        "locationPrecision": "representative",
+        "importance": 4,
+        "ongoing": false,
+        "summary": {
+          "en": "Pachacuti is associated with the transformation of Cusco’s rulers into an expanding imperial power during the fifteenth century. Political narratives connect his accession with conflict against the Chancas, while the reorganization of Cusco linked rule to a capital with sacred, administrative and productive functions. Expansion drew on conquest, alliances and the incorporation of existing local authorities.\n\nThe traditions about him were written down after the Spanish conquest and do not supply an uncontested modern-style life chronology. Conventional reign dates are therefore a reference for comparison, not proof of a precise annual frontier. His significance extends beyond military victories to the organization of a diverse Andean political world. The institutions attributed to imperial rule also depended on practices developed by earlier societies. Comparing his story with regional archaeology prevents a ruler’s biography from absorbing the history of every people incorporated into Tawantinsuyu.",
+          "zh": "帕查库蒂与十五世纪库斯科统治者向帝国强权的转变有关。政治叙述把他即位同对昌卡人的冲突相连，库斯科重组则把统治同具有神圣、行政及生产功能的都城联系起来。扩张依赖征服、联盟及对既有地方权威的纳入。\n\n关于他的传统在西班牙征服后才被写下，不能提供没有争议的现代式生平年表。传统统治年代因此是比较参照，而非精确逐年边界的证明。其重要性超出战功，也涉及组织多样的安第斯政治世界。帝国制度还依赖更早社会发展的实践。把个人故事同区域考古比较，可避免统治者传记吞没被纳入塔万廷苏尤的各族历史。"
+        },
+        "dateNote": {
+          "en": "Working reign focus c.1438–1471 follows the British Museum; other surveys extend to c.1473. These are not birth/death dates.",
+          "zh": "约1438—1471年的统治观察窗口采用大英博物馆；其他研究延至约1473年，并非生卒年。"
+        },
+        "sources": [
+          {
+            "title": "Pachacuti Inca Yupanqui",
+            "url": "https://www.britishmuseum.org/collection/term/BIOG184445",
+            "publisher": "www.britishmuseum.org",
+            "evidenceNote": "Museum authority record supplies a conventional active/reign interval; full-page fetch failed, indexed record inspected. Access: indexed-excerpt.",
+            "checkedAt": "2026-10-23",
+            "retrieval": "indexed-excerpt"
+          },
+          {
+            "title": "City of Cuzco",
+            "url": "https://whc.unesco.org/en/list/273/",
+            "publisher": "UNESCO World Heritage Centre",
+            "evidenceNote": "UNESCO account links Pachacuti to Cusco’s urban organization. Access: opened-page-extract.",
+            "checkedAt": "2026-10-23",
+            "retrieval": "opened-page-extract"
+          },
+          {
+            "title": "Central and Southern Andes, 1400–1600 A.D. | Chronology",
+            "url": "https://www.metmuseum.org/toah/ht/08/sanc",
+            "publisher": "The Metropolitan Museum of Art",
+            "evidenceNote": "Museum chronology contextualizes expansion and differing dates. Access: opened-page-extract.",
+            "checkedAt": "2026-10-23",
+            "retrieval": "opened-page-extract"
+          }
+        ],
+        "relatedIds": [
+          "cusco-imperial-city",
+          "inca-imperial-expansion",
+          "andean-altitude-agriculture"
+        ],
+        "expansion": {
+          "workstreams": [
+            "LA2"
+          ],
+          "release": 1,
+          "sourceReview": "Source-specific retrieved excerpts inspected; full-page access limitations retained in source notes."
+        },
+        "keyFacts": {
+          "en": [
+            "Pachacuti is associated with the transformation of Cusco’s rulers into an expanding imperial power during the fifteenth century.",
+            "The traditions about him were written down after the Spanish conquest and do not supply an uncontested modern-style life chronology."
+          ],
+          "zh": [
+            "帕查库蒂与十五世纪库斯科统治者向帝国强权的转变有关。",
+            "关于他的传统在西班牙征服后才被写下，不能提供没有争议的现代式生平年表。"
+          ]
+        },
+        "name": {
+          "en": "Pachacuti Inca Yupanqui",
+          "zh": "帕查库蒂·印加·尤潘基"
+        },
+        "milestones": [
+          {
+            "year": 1438,
+            "title": {
+              "en": "Conventional accession",
+              "zh": "传统即位年代"
+            },
+            "description": {
+              "en": "Museum chronologies conventionally place the beginning of his imperial phase around this year.",
+              "zh": "博物馆年表通常把其帝国阶段起点置于此年左右。"
+            },
+            "location": {
+              "lat": -13.52,
+              "lon": -71.98,
+              "label": "Cusco; representative royal and administrative center"
+            },
+            "approximate": true
+          },
+          {
+            "year": 1471,
+            "title": {
+              "en": "Conventional reign endpoint",
+              "zh": "传统统治终点"
+            },
+            "description": {
+              "en": "The British Museum uses this approximate endpoint; other chronologies differ.",
+              "zh": "大英博物馆采用这一近似终点，其他年表不同。"
+            },
+            "location": {
+              "lat": -13.52,
+              "lon": -71.98,
+              "label": "Cusco; representative royal and administrative center"
+            },
+            "approximate": true
+          }
+        ],
+        "aliases": [
+          "Pachacutec",
+          "帕查库特克",
+          "帕查库提"
+        ]
+      },
+      "asset": {
+        "id": "world-batch-05-cusco-imperial-city",
+        "recordIds": [
+          "cusco-imperial-city"
+        ],
+        "kind": "site",
+        "representation": "site-photograph",
+        "file": "assets/history-media/world-batch-05-cusco-imperial-city.jpg",
+        "sha256": "5b11d983f426718315ea0bdf60826a3065f681f0721040489e5230d50d4e3402",
+        "bytes": 212008,
+        "width": 960,
+        "height": 660,
+        "title": {
+          "en": "Inca masonry at Qorikancha",
+          "zh": "科里坎查的印加石墙"
+        },
+        "alt": {
+          "en": "Smooth fitted stone blocks form a wall below later buildings.",
+          "zh": "精密拼接的平整石块构成墙体，上方为后建建筑。"
+        },
+        "caption": {
+          "en": "Qorikancha’s Inca walls survive beneath and beside the colonial Santo Domingo complex.",
+          "zh": "科里坎查的印加石墙保存在殖民时期圣多明各建筑群之下与旁侧。"
+        },
+        "interpretation": {
+          "en": "The junction between masonry traditions makes the city’s layered history visible.",
+          "zh": "不同砌筑传统的交界让城市的多层历史可见。"
+        },
+        "creator": "Håkan Svensson (Xauxa)",
+        "date": "Photograph: 2002-07",
+        "institution": "Wikimedia Commons / credited photographer",
+        "metadataI18n": {
+          "date": {
+            "en": "Photograph: 2002-07",
+            "zh": "拍摄于2002年7月"
+          },
+          "creator": {
+            "en": "Håkan Svensson (Xauxa)",
+            "zh": "署名摄影者（Håkan Svensson，Xauxa）"
+          },
+          "institution": {
+            "en": "Wikimedia Commons / credited photographer",
+            "zh": "维基共享资源／署名摄影者"
+          }
+        },
+        "historicalPeriod": {
+          "en": "Inca fifteenth-century fabric with Spanish colonial construction above",
+          "zh": "15世纪印加建筑遗存，上叠西班牙殖民时期建筑"
+        },
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cusco_Coricancha_Inti-Huasi_main_view.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Cusco_Coricancha_Inti-Huasi_main_view.jpg",
+        "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Cusco_Coricancha_Inti-Huasi_main_view.jpg/960px-Cusco_Coricancha_Inti-Huasi_main_view.jpg",
+        "checkedAt": "2026-11-11",
+        "rightsSourceUrl": "https://commons.wikimedia.org/wiki/File:Cusco_Coricancha_Inti-Huasi_main_view.jpg",
+        "rights": {
+          "label": "CC BY 2.5",
+          "url": "https://creativecommons.org/licenses/by/2.5",
+          "note": {
+            "en": "Photograph © Håkan Svensson (Xauxa), CC BY 2.5. Retain attribution, the license and any change notices when reusing this photograph.",
+            "zh": "照片署名：Håkan Svensson (Xauxa)；许可：CC BY 2.5。再次使用时须保留署名、许可及修改说明。"
+          }
+        },
+        "contextSources": [
+          {
+            "title": {
+              "en": "Explore this site’s history",
+              "zh": "了解遗址历史"
+            },
+            "url": "https://whc.unesco.org/en/list/273/"
+          }
+        ],
+        "retrieval": "Commons source-page revisions and image metadata retained. Delivered bytes decoded, hashed and individually reviewed.",
+        "transformation": {
+          "en": "Commons-provided JPEG, unchanged locally. Source-side cropping or processing is described on the file page.",
+          "zh": "采用Commons提供的JPEG，未在本地修改。来源已有的裁切或处理见文件页说明。"
+        }
+      }
+    },
+    {
+      "assetId": "mansa-musa",
+      "recordId": "mali-empire",
+      "decision": "reject",
+      "reason": "Current revised account does not name Musa or Catalan Atlas. European-source generality does not establish focal relevance.",
+      "record": {
+        "id": "mali-empire",
+        "title": {
+          "en": "Mali Empire: power, exchange and historical evidence",
+          "zh": "马里帝国：权力、交流与历史证据"
+        },
+        "start": 1201,
+        "end": 1600,
+        "location": {
+          "lat": 12,
+          "lon": -8.5,
+          "label": "Mande heartland: a representative point, not an identified capital"
+        },
+        "region": "africa",
+        "theme": "states",
+        "summary": {
+          "en": "Mali grew from a kingdom in the Mande region into a state with connections across West Africa and distant trade networks. Historians reconstruct its past using oral traditions, Arabic chronicles, European accounts and archaeology. These sources answer different questions and do not always agree. Even the location and character of its capitals remain subjects of research.",
+          "zh": "马里从曼德地区的王国发展为一个联系西非多地与远方贸易网络的国家。历史学家结合口述传统、阿拉伯文献、欧洲记录和考古材料重建其过去。不同来源回答的问题并不相同，也未必彼此一致；其都城的位置与性质至今仍是研究课题。"
+        },
+        "dateNote": {
+          "en": "Broad thirteenth-to-sixteenth-century focus follows the cited research abstract; endpoints are century bins, not exact founding and dissolution years. The marker is a regional reference, not a claimed capital.",
+          "zh": "依据所引研究摘要，大致选取十三至十六世纪；端点是世纪分段，不是精确的建国或解体年份。标记是区域参照点，不代表已确定的首都。"
+        },
+        "sources": [
+          {
+            "title": "The Empire of Mali — research abstract",
+            "url": "https://discovery.ucl.ac.uk/id/eprint/10070150/",
+            "publisher": "UCL Discovery"
+          }
+        ],
+        "locationPrecision": "representative",
+        "kind": "polity",
+        "importance": 4
+      },
+      "asset": {
+        "id": "mansa-musa",
+        "file": "assets/history-media/mansa-musa.jpg",
+        "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Catalan_Atlas_BNF_Sheet_6_Mansa_Musa.jpg/960px-Catalan_Atlas_BNF_Sheet_6_Mansa_Musa.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Catalan_Atlas_BNF_Sheet_6_Mansa_Musa.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Catalan_Atlas_BNF_Sheet_6_Mansa_Musa.jpg",
+        "width": 960,
+        "height": 685,
+        "sha256": "ac4038d779bd1c054fdf845192839b50d952b8dca5b0b220c1ccae86e8e71f6a",
+        "bytes": 229955,
+        "recordIds": [
+          "person-mansa-musa"
+        ],
+        "kind": "portrait",
+        "representation": "later-depiction",
+        "title": {
+          "en": "Mansa Musa in the Catalan Atlas",
+          "zh": "加泰罗尼亚地图集中的曼萨·穆萨"
+        },
+        "alt": {
+          "en": "A crowned seated ruler holding a gold object, surrounded by labels and geographic lines on parchment.",
+          "zh": "羊皮纸地图上，一位戴冠的统治者坐着手持金色物件，周围有文字及地理线条。"
+        },
+        "caption": {
+          "en": "Detail of the Catalan Atlas, 1375, attributed to Abraham Cresques. Bibliothèque nationale de France, Espagnol 30, via Wikimedia Commons.",
+          "zh": "《加泰罗尼亚地图集》局部，1375年，归于亚伯拉罕·克雷斯克斯。法国国家图书馆藏，Espagnol 30，经维基共享资源提供。"
+        },
+        "creator": "Attributed to Abraham Cresques",
+        "date": "1375",
+        "institution": "Bibliothèque nationale de France, Département des manuscrits",
+        "interpretation": {
+          "en": "A European cartographic portrayal made after Musa’s reign. Its crown and gold express how the mapmaker represented royal power and wealth; they are not a verified likeness.",
+          "zh": "这是穆萨统治结束后的欧洲地图形象。王冠与黄金表现制图者对王权和财富的理解，并非经过证实的本人容貌。"
+        },
+        "checkedAt": "2026-11-09",
+        "retrieval": "Object/file page and rights statement opened; downloaded bytes decoded and visually inspected.",
+        "rights": {
+          "label": "Public domain",
+          "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "note": {
+            "en": "The linked Wikimedia Commons file page records the public-domain basis for this image. Retain the named creator and collection when reusing.",
+            "zh": "所链接的维基共享资源文件页记录其公共领域依据。再利用时请保留具名作者与收藏机构。"
+          }
+        },
+        "rightsSourceUrl": "https://commons.wikimedia.org/wiki/File:Catalan_Atlas_BNF_Sheet_6_Mansa_Musa.jpg",
+        "transformation": {
+          "en": "Wikimedia-provided image or thumbnail, saved without local visual edits. Existing source restorations are credited separately.",
+          "zh": "保存维基共享资源提供的图像或缩略图，未作本地视觉修改；来源已有的修复另行注明。"
+        },
+        "metadataI18n": {
+          "date": {
+            "en": "1375",
+            "zh": "1375年"
+          },
+          "creator": {
+            "en": "Attributed to Abraham Cresques",
+            "zh": "归于亚伯拉罕·克雷斯克斯（Abraham Cresques）"
+          },
+          "institution": {
+            "en": "Bibliothèque nationale de France, Département des manuscrits",
+            "zh": "法国国家图书馆手稿部"
+          }
+        }
+      }
+    },
+    {
+      "assetId": "mansa-musa",
+      "recordId": "sahel-transsaharan-exchange",
+      "decision": "reject",
+      "reason": "Regional trade theme and gold do not establish this ruler as a focal actor in the actual target text.",
+      "record": {
+        "id": "sahel-transsaharan-exchange",
+        "title": {
+          "en": "Across the Sahara: exchange, scholarship and coercion",
+          "zh": "横越撒哈拉：交换、学术与强制"
+        },
+        "start": 1100,
+        "end": 1600,
+        "region": "africa",
+        "kind": "culture",
+        "theme": "exchange",
+        "importance": 3,
+        "location": {
+          "lat": 20.5,
+          "lon": -7.5,
+          "label": "Western Sahara/Sahel corridor; schematic regional reference"
+        },
+        "locationPrecision": "representative",
+        "summary": {
+          "en": "Trans-Saharan exchange connected communities on both sides of the desert through routes that depended on knowledge of water, seasons and local political conditions. Gold, salt and other goods moved through networks of producers, carriers and merchants. The prosperity of Sahelian courts was one result, but the story also includes the labour of supplying caravans and the power of communities controlling stages of a journey.\n\nReligious learning, texts and artistic forms circulated with people and commerce. Enslavement and forced movement were also part of these networks and must remain visible beside accounts of wealth and cosmopolitanism. Ghana/Wagadu, Mali, Songhai and Kanem–Borno occupied different regions and periods; their participation does not make the entire Sahara one trading state. The map point marks a broad corridor for comparison, not a verified stop, a direct documented route or a permanent road across an otherwise empty desert.",
+          "zh": "跨撒哈拉交换通过依赖水源、季节与地方政治知识的路线，连接沙漠两侧社区。黄金、盐及其他物品经生产者、运输者与商人的网络流动。萨赫勒宫廷的繁荣是结果之一，故事也包括供应商队所需的劳动，以及控制途中节点的社区权力。\n\n宗教学问、文本与艺术形式随人口和商业一起流传。奴役和强迫迁移同样属于这些网络，不能被财富与多元交流的叙述遮蔽。瓦加杜／加纳、马里、桑海及卡涅姆—博尔诺分属不同区域与时期；参与贸易不意味着整个撒哈拉是一国。本图点位标记用于比较的宽泛走廊，不是已核实停靠点、直接文献路线，或穿越“空旷”沙漠的永久道路。"
+        },
+        "dateNote": {
+          "en": "1100–1600 is a comparative medieval/early-modern study window. Routes operated before and after it and changed over time. The coordinate is a corridor reference.",
+          "zh": "1100—1600年为中世纪及近代早期比较窗口；路线早于并晚于此期，且不断变化；坐标为走廊参照。"
+        },
+        "sources": [
+          {
+            "title": "Sahel: Art and Empires on the Shores of the Sahara",
+            "url": "https://www.metmuseum.org/es/exhibitions/sahel-art-empire-sahara",
+            "publisher": "The Metropolitan Museum of Art",
+            "evidenceNote": "Exhibition overview connects Sahelian polities, trade, Islam and arts; bounded regional context, not annual border evidence.",
+            "checkedAt": "2026-10-23",
+            "retrieval": "inspected-text"
+          },
+          {
+            "title": "Kanem, Bornu, and the Fazzān: Notes on the political history of a Trade Route",
+            "url": "https://www.cambridge.org/core/journals/journal-of-african-history/article/kanem-bornu-and-the-fazzan-notes-on-the-political-history-of-a-trade-route/2472FC74F3B7C178F5994EDD38AAF92E",
+            "publisher": "B. G. Martin, Journal of African History / Cambridge University Press",
+            "evidenceNote": "Inspected scholarly extract/reference material on northern routes and political communications; full article body not retrieved.",
+            "checkedAt": "2026-10-23",
+            "retrieval": "inspected-extract-and-references"
+          }
+        ],
+        "keyFacts": {
+          "en": [
+            "Trans-Saharan exchange connected communities on both sides of the desert through routes that depended on knowledge of water, seasons and local political conditions.",
+            "Gold, salt and other goods moved through networks of producers, carriers and merchants."
+          ],
+          "zh": [
+            "跨撒哈拉交换通过依赖水源、季节与地方政治知识的路线，连接沙漠两侧社区。",
+            "黄金、盐及其他物品经生产者、运输者与商人的网络流动。"
+          ]
+        },
+        "relatedIds": [
+          "ghana-wagadu",
+          "mali-empire",
+          "songhai-empire",
+          "timbuktu"
+        ],
+        "expansion": {
+          "workstreams": [
+            "AF2"
+          ],
+          "release": 2,
+          "sourceReview": "mixed-access-synthesis",
+          "reviewLimit": {
+            "en": "This synthesis combines inspected institutional text with indexed scholarly material. Source-level retrieval notes identify access limits; a second URL is not always independent corroboration.",
+            "zh": "本综合结合已阅读的机构正文与学术索引材料。各来源的取得说明列出限制；第二个网址并不总是独立佐证。"
+          }
+        }
+      },
+      "asset": {
+        "id": "mansa-musa",
+        "file": "assets/history-media/mansa-musa.jpg",
+        "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Catalan_Atlas_BNF_Sheet_6_Mansa_Musa.jpg/960px-Catalan_Atlas_BNF_Sheet_6_Mansa_Musa.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Catalan_Atlas_BNF_Sheet_6_Mansa_Musa.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Catalan_Atlas_BNF_Sheet_6_Mansa_Musa.jpg",
+        "width": 960,
+        "height": 685,
+        "sha256": "ac4038d779bd1c054fdf845192839b50d952b8dca5b0b220c1ccae86e8e71f6a",
+        "bytes": 229955,
+        "recordIds": [
+          "person-mansa-musa"
+        ],
+        "kind": "portrait",
+        "representation": "later-depiction",
+        "title": {
+          "en": "Mansa Musa in the Catalan Atlas",
+          "zh": "加泰罗尼亚地图集中的曼萨·穆萨"
+        },
+        "alt": {
+          "en": "A crowned seated ruler holding a gold object, surrounded by labels and geographic lines on parchment.",
+          "zh": "羊皮纸地图上，一位戴冠的统治者坐着手持金色物件，周围有文字及地理线条。"
+        },
+        "caption": {
+          "en": "Detail of the Catalan Atlas, 1375, attributed to Abraham Cresques. Bibliothèque nationale de France, Espagnol 30, via Wikimedia Commons.",
+          "zh": "《加泰罗尼亚地图集》局部，1375年，归于亚伯拉罕·克雷斯克斯。法国国家图书馆藏，Espagnol 30，经维基共享资源提供。"
+        },
+        "creator": "Attributed to Abraham Cresques",
+        "date": "1375",
+        "institution": "Bibliothèque nationale de France, Département des manuscrits",
+        "interpretation": {
+          "en": "A European cartographic portrayal made after Musa’s reign. Its crown and gold express how the mapmaker represented royal power and wealth; they are not a verified likeness.",
+          "zh": "这是穆萨统治结束后的欧洲地图形象。王冠与黄金表现制图者对王权和财富的理解，并非经过证实的本人容貌。"
+        },
+        "checkedAt": "2026-11-09",
+        "retrieval": "Object/file page and rights statement opened; downloaded bytes decoded and visually inspected.",
+        "rights": {
+          "label": "Public domain",
+          "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "note": {
+            "en": "The linked Wikimedia Commons file page records the public-domain basis for this image. Retain the named creator and collection when reusing.",
+            "zh": "所链接的维基共享资源文件页记录其公共领域依据。再利用时请保留具名作者与收藏机构。"
+          }
+        },
+        "rightsSourceUrl": "https://commons.wikimedia.org/wiki/File:Catalan_Atlas_BNF_Sheet_6_Mansa_Musa.jpg",
+        "transformation": {
+          "en": "Wikimedia-provided image or thumbnail, saved without local visual edits. Existing source restorations are credited separately.",
+          "zh": "保存维基共享资源提供的图像或缩略图，未作本地视觉修改；来源已有的修复另行注明。"
+        },
+        "metadataI18n": {
+          "date": {
+            "en": "1375",
+            "zh": "1375年"
+          },
+          "creator": {
+            "en": "Attributed to Abraham Cresques",
+            "zh": "归于亚伯拉罕·克雷斯克斯（Abraham Cresques）"
+          },
+          "institution": {
+            "en": "Bibliothèque nationale de France, Département des manuscrits",
+            "zh": "法国国家图书馆手稿部"
+          }
+        }
+      }
+    },
+    {
+      "assetId": "world-batch-06-met-16584",
+      "recordId": "valley-forge-supply-households",
+      "decision": "reject",
+      "reason": "Current narrative emphasizes household/supply systems, not Washington. A famous commander is not a substitute for the workers or actual camp.",
+      "record": {
+        "id": "valley-forge-supply-households",
+        "title": {
+          "en": "Valley Forge · Supply systems and a camp society",
+          "zh": "福吉谷 · 补给体系与营地社会"
+        },
+        "start": 1777,
+        "end": 1778,
+        "region": "north-america",
+        "kind": "event",
+        "theme": "cities",
+        "importance": 3,
+        "location": {
+          "lat": 40.1,
+          "lon": -75.44,
+          "label": "Valley Forge, Pennsylvania; representative winter encampment area"
+        },
+        "locationPrecision": "representative",
+        "summary": {
+          "en": "The Continental Army’s winter at Valley Forge joined military survival to the work of a temporary community. From December 1777 to June 1778, soldiers built huts, guarded approaches and obtained food, clothing and equipment near British-occupied Philadelphia. A bridge over the Schuylkill connected the camp with farms, a market and commissary activity north of the river. Supply was an organizational problem, rather than simply an absence of food everywhere nearby.\n\nWomen and children lived with the army, alongside free and enslaved Black people, Indigenous allies, immigrants and men with different reasons for serving. Their experiences were unequal. Some sought wages or freedom, while others had been conscripted. Local residents also disagreed about the war; assistance, refusal, requisition and accusations of disloyalty shaped their encounters with soldiers.\n\nDisease caused much of the mortality, including in spring when provisions improved. Care, sanitation and organization mattered alongside the better-known military training associated with Friedrich Wilhelm von Steuben. Keeping the army in one place also consumed timber, fences, livestock and stores from surrounding communities.\n\nThe camp’s transformation was therefore collective and costly. Its history is distinct from a battle narrative: no battle occurred at Valley Forge, and the 1777–1778 interval does not imply that everyone there shared one meaning of liberty.",
+          "zh": "大陆军在福吉谷过冬，把军事生存与临时社区的劳动结合起来。1777年12月至1778年6月，士兵在英军占领的费城附近建造木屋、守卫通道，并获取食物、衣物和装备。跨越斯库尔基尔河的桥梁，把营地与北岸农场、市场及军需活动相连。补给首先是组织问题，并不只是周边处处缺粮。\n\n妇女和儿童与军队同住，营地还有自由及被奴役的黑人、原住民盟友、移民，以及出于不同动机服役的人。他们的处境并不平等。有些人谋求工资或自由，另一些则被征召。当地居民对战争也有分歧；援助、拒绝、征用及“不忠”的指控，影响他们与士兵的关系。\n\n疾病造成大量死亡，甚至在春季补给改善后仍然如此。照护、卫生和组织，与冯·施托伊本的军事训练同样重要。大军集中驻扎，还消耗周边社区的木材、围栏、牲畜与储粮。\n\n因此，营地的转变既是集体成果，也付出社会成本。它与战役叙述不同：福吉谷没有发生战斗，1777—1778年的窗口也不意味着所有人对自由有共同理解。"
+        },
+        "dateNote": {
+          "en": "19 December 1777–19 June 1778 is the encampment interval. The point marks the camp area, not every hut, hospital, supply farm or resident’s address. Surrounding land use and community histories began earlier and continued afterward.",
+          "zh": "1777年12月19日至1778年6月19日为驻营期。点位代表营地区域，不是每座木屋、医院、供粮农场或居民地址。周边土地利用和社区历史更早开始，此后继续。"
+        },
+        "sources": [
+          {
+            "title": "What Happened at Valley Forge",
+            "publisher": "U.S. National Park Service",
+            "url": "https://www.nps.gov/vafo/learn/historyculture/valley-forge-history-and-significance.htm",
+            "evidenceNote": "Actual source text captured centrally through the root Codex in-app browser and read locally by the regional author. 1777–1778 camp, 19 December 1777 arrival and 19 June 1778 departure, supply/organizational reforms, training, camp diversity, civilians, requisitions and disease. Supports the encampment episode, not independent corroboration of the full Washington lifespan.",
+            "checkedAt": "2026-10-24",
+            "retrieval": "inspected-central-browser-capture"
+          }
+        ],
+        "relatedIds": [
+          "person-george-washington",
+          "american-revolution",
+          "haudenosaunee-revolution-era"
+        ],
+        "expansion": {
+          "workstreams": [
+            "NA3"
+          ],
+          "release": 6,
+          "edition": "v12",
+          "sourceReview": "inspected-source-synthesis",
+          "reviewLimit": {
+            "en": "The principal inspected source is an NPS institutional synthesis, including its 2007 management-plan history. It supports the camp’s social and logistical context; head counts and hut totals that differ within the page are not adopted. No independent archival census or measured causal estimate is claimed.",
+            "zh": "主要已读来源为NPS机构综述，包括2007年管理规划的历史部分。它支持营地的社会与后勤背景；页面内部不同的人数及木屋数字不予采用。不声称独立档案普查或经测量的因果估计。"
+          }
+        }
+      },
+      "asset": {
+        "id": "world-batch-06-met-16584",
+        "recordIds": [
+          "person-george-washington"
+        ],
+        "kind": "portrait",
+        "representation": "lifetime-portrait",
+        "title": {
+          "en": "Washington painted by Gilbert Stuart",
+          "zh": "吉尔伯特·斯图尔特笔下的华盛顿"
+        },
+        "alt": {
+          "en": "White-haired Washington wears a black coat and white neckcloth against a dark green background.",
+          "zh": "白发的华盛顿身穿黑色外套与白色领巾，背后是深绿色背景。"
+        },
+        "caption": {
+          "en": "Gilbert Stuart began this oil portrait in 1795, during Washington’s presidency. Technical study shows that the coat was changed from brown to black.",
+          "zh": "吉尔伯特·斯图尔特于1795年、华盛顿担任总统期间开始绘制这幅油画。技术研究显示，画中外套由棕色改为黑色。"
+        },
+        "interpretation": {
+          "en": "Clothing helped construct the president’s public image. The change from American wool to the appearance of European silk velvet makes the portrait a useful study of political self-presentation.",
+          "zh": "服装参与塑造总统的公众形象。从美国羊毛料改绘为欧洲丝绒的外观，使肖像成为观察政治形象塑造的线索。"
+        },
+        "file": "assets/history-media/world-batch-06-met-16584.jpg",
+        "downloadedFrom": "https://images.metmuseum.org/CRDImages/ad/web-large/DT62.jpg",
+        "imageUrl": "https://images.metmuseum.org/CRDImages/ad/original/DT62.jpg",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/16584",
+        "sha256": "da83c54d5a644acc61d2a87d51695c92ee2ed088ab96a776b85fbd3b5fd53470",
+        "bytes": 66806,
+        "width": 523,
+        "height": 625,
+        "creator": "Gilbert Stuart",
+        "date": "begun 1795",
+        "institution": "The Metropolitan Museum of Art",
+        "checkedAt": "2026-11-11",
+        "rightsSourceUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access",
+        "rights": {
+          "label": "CC0",
+          "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "note": {
+            "en": "CC0 public-domain image. Credit: The Metropolitan Museum of Art, Rogers Fund, 1907.",
+            "zh": "CC0公有领域图像。署名：The Metropolitan Museum of Art, Rogers Fund, 1907。"
+          }
+        },
+        "transformation": {
+          "en": "Institution-provided JPEG, unchanged.",
+          "zh": "馆方提供的JPEG，未作修改。"
+        },
+        "metadataI18n": {
+          "date": {
+            "en": "begun 1795",
+            "zh": "始作于1795年"
+          },
+          "creator": {
+            "en": "Gilbert Stuart",
+            "zh": "吉尔伯特·斯图尔特"
+          },
+          "institution": {
+            "en": "The Metropolitan Museum of Art",
+            "zh": "大都会艺术博物馆"
+          }
+        },
+        "contextSources": [
+          {
+            "title": {
+              "en": "Read the related history",
+              "zh": "阅读相关历史"
+            },
+            "url": "https://www.mountvernon.org/george-washington/biography"
+          }
+        ]
+      }
+    },
+    {
+      "assetId": "world-batch-06-yosano",
+      "recordId": "seito-women-print",
+      "decision": "reject",
+      "reason": "Full text names the editorial collective, not Yosano; wider association with the journal is insufficient.",
+      "record": {
+        "id": "seito-women-print",
+        "title": {
+          "en": "Seitō · A collective makes a literary public",
+          "zh": "《青鞜》 · 集体出版与文学公共空间"
+        },
+        "start": 1911,
+        "end": 1915,
+        "region": "east-asia",
+        "kind": "culture",
+        "theme": "culture",
+        "importance": 3,
+        "location": {
+          "lat": 35.69,
+          "lon": 139.75,
+          "label": "Tokyo; representative educational and editorial setting"
+        },
+        "locationPrecision": "representative",
+        "summary": {
+          "en": "Seitō’s first issue appeared on 1 September 1911. The women who edited and published it included Hiratsuka Raichō, Yasumochi Yoshiko, Mozume Kazuko, Kiuchi Teiko and Nakano Hatsuko. Treating the magazine as a collective makes visible the work behind a manifesto: selecting writing, assembling issues and creating a readership for women’s words.\n\nLiterary work became a means of discussing social authority. The magazine broadened its attention to relationships, sexuality and women’s autonomy, while translations brought writers from outside Japan into local debate. These connections did not erase differences among contributors or turn the magazine into the voice of every Japanese woman. Access depended on literacy, circulation and the ability to withstand public criticism.\n\nSchools prohibited reading it, and authorities seized some issues as threats to public morals. Those responses show how the regulation of print could constrain a new discussion space. The selected early-years window is editorial, rather than a claim that the journal closed in 1915. This record follows the production and reception of a publication alongside Hiratsuka’s life, inviting comparison with education and other women’s writing already represented in the atlas.",
+          "zh": "《青鞜》创刊号于1911年9月1日出版。参与编辑和发行的女性包括平塚雷鸟、保持研子、物集和子、木内锭子与中野初子。把杂志视为集体事业，就能看到宣言背后的工作：选择作品、编排期刊，并为女性文字建立读者群。\n\n文学由此成为讨论社会权威的途径。杂志逐渐关注亲密关系、性及女性自主，通过翻译把日本以外的作者引入本地讨论。这些联系并未消除作者之间的分歧，也不使杂志自动成为所有日本女性的声音。阅读机会取决于识字、流通及承受社会批评的能力。\n\n一些学校禁止学生阅读，当局也以有碍公共道德为由没收部分期刊。这些反应显示，出版管制会约束新出现的讨论空间。所选早期年份是编辑观察窗口，并非声称杂志于1915年停刊。本条将出版物的制作与接受过程同平塚的生平并读，并与图谱已有的教育及女性写作条目进行比较。"
+        },
+        "dateNote": {
+          "en": "1911–1915 is a selected early-years focus, not the complete publication lifespan or an exact closure date. The inspected library account supports themes and reception; individual seized issues were not independently collated.",
+          "zh": "1911—1915年是选择的早期观察段，并非完整刊期或确切停刊时间。所查图书馆说明支持主题与接受史，未独立核对每期被没收刊物。"
+        },
+        "sources": [
+          {
+            "title": "The 1911 manifesto that shaped feminism in Japan",
+            "publisher": "State Library Victoria",
+            "url": "https://www.slv.vic.gov.au/seito-hiratsuka-raicho",
+            "evidenceNote": "Inspected collection interpretation: five named women editors, 1 September 1911 first issue, transition from literature to social debates, translated writers, school prohibitions and seizure of issues. First-ever and movement-wide causal superlatives are not adopted; quotations are paraphrased.",
+            "checkedAt": "2026-10-24",
+            "retrieval": "inspected-text"
+          },
+          {
+            "title": "HIRATSUKA Raicho",
+            "publisher": "National Diet Library, Japan",
+            "url": "https://www.ndl.go.jp/portrait/e/datas/380",
+            "evidenceNote": "Inspected biographical catalogue text: 1886–1971, Tokyo birth, 1906 Japan Women’s University graduation, 1911 Seitō-sha and magazine, 1920 New Woman’s Association with Ichikawa Fusae, criticism, maternity protection and postwar activism. No precise date is assigned to the postwar offices.",
+            "checkedAt": "2026-10-24",
+            "retrieval": "inspected-text"
+          }
+        ],
+        "relatedIds": [
+          "person-hiratsuka-raicho",
+          "person-yosano-akiko",
+          "person-tsuda-umeko"
+        ],
+        "expansion": {
+          "workstreams": [
+            "EA3"
+          ],
+          "release": 5,
+          "edition": "v11",
+          "sourceReview": "inspected-source-synthesis",
+          "reviewLimit": {
+            "en": "A bounded synthesis of the inspected sources, not independent specialist review. Institutional accounts may share commemorative traditions. Dates and representative points do not reconstruct a continuous itinerary or establish territorial geometry.",
+            "zh": "对已查阅来源的有限综合，未经独立专家审阅。机构叙述可能共享纪念传统。日期及代表性点位不构成连续行程或疆域依据。"
+          }
+        }
+      },
+      "asset": {
+        "id": "world-batch-06-yosano",
+        "recordIds": [
+          "person-yosano-akiko"
+        ],
+        "kind": "portrait",
+        "representation": "historical-photograph",
+        "title": {
+          "en": "Yosano Akiko",
+          "zh": "与谢野晶子"
+        },
+        "alt": {
+          "en": "Yosano wears a dark kimono with a patterned collar and looks directly toward the camera.",
+          "zh": "与谢野身着深色和服，衣领带纹样，直视镜头。"
+        },
+        "caption": {
+          "en": "A historical photograph selected by the National Diet Library for its Yosano Akiko biography; the exhibition does not give an exposure date.",
+          "zh": "日本国立国会图书馆为与谢野晶子传记选用的历史照片；展览未给出拍摄日期。"
+        },
+        "interpretation": {
+          "en": "The image accompanies a career spanning poetry, protest against war and women’s education. The linked library record also leads to her books and manuscripts.",
+          "zh": "图像伴随一段涵盖诗歌、反战表达与女子教育的生涯。链接的图书馆记录还可引向她的著作与手稿。"
+        },
+        "file": "assets/history-media/world-batch-06-yosano.jpg",
+        "sha256": "785e7948ce7f8df9ddec00552acc07e0a5decd46c51dbc2529a8540a6118d13a",
+        "bytes": 596876,
+        "width": 810,
+        "height": 1101,
+        "checkedAt": "2026-11-11",
+        "downloadedFrom": "https://www.ndl.go.jp/portrait/img/portrait/0347_1.jpg",
+        "imageUrl": "https://www.ndl.go.jp/portrait/img/portrait/0347_1.jpg",
+        "credit": "National Diet Library, Japan",
+        "sourceUrl": "https://www.ndl.go.jp/portrait/e/datas/347",
+        "rightsSourceUrl": "https://www.ndl.go.jp/portrait/e/about",
+        "rights": {
+          "label": "Public Domain",
+          "url": "https://www.ndl.go.jp/portrait/e/about",
+          "note": {
+            "en": "The exhibition explicitly states that all of its images are public domain and that its digitized images may be reused, including commercially, without application. Credit: National Diet Library, Portraits of Modern Japanese Historical Figures.",
+            "zh": "该展览明确说明所有图像均属公有领域，数字图像可无需申请再次使用，包括商业用途。署名：日本国立国会图书馆“近代日本人肖像”。"
+          }
+        },
+        "creator": "Photographer unrecorded in the exhibition",
+        "date": "Photograph undated in the exhibition record",
+        "institution": "National Diet Library, Japan",
+        "metadataI18n": {
+          "date": {
+            "en": "Photograph undated in the exhibition record",
+            "zh": "展览记录未载照片拍摄日期"
+          },
+          "creator": {
+            "en": "Photographer unrecorded in the exhibition",
+            "zh": "展览未载摄影者姓名"
+          },
+          "institution": {
+            "en": "National Diet Library, Japan",
+            "zh": "日本国立国会图书馆"
+          }
+        },
+        "transformation": {
+          "en": "Institution-provided JPEG, unchanged.",
+          "zh": "馆方提供的JPEG，未作修改。"
+        },
+        "contextSources": [
+          {
+            "title": {
+              "en": "Read the related history",
+              "zh": "阅读相关历史"
+            },
+            "url": "https://www.wul.waseda.ac.jp/kotenseki/search.php?cndbn=%E4%B8%8E%E8%AC%9D%E9%87%8E+%E6%99%B6%E5%AD%90"
+          }
+        ]
+      }
+    },
+    {
+      "assetId": "world-batch-06-npg-npg-99-167-13",
+      "recordId": "cherokee-phoenix-publication",
+      "decision": "reject",
+      "reason": "Full target concerns the paper, editors and bilingual public forum, not Sequoyah; a writing-tablet portrait is not this newspaper.",
+      "record": {
+        "id": "cherokee-phoenix-publication",
+        "title": {
+          "en": "The Cherokee Phoenix · A nation speaks in print",
+          "zh": "《切罗基凤凰报》 · 一个民族的印刷声音"
+        },
+        "start": 1828,
+        "end": 1834,
+        "region": "north-america",
+        "kind": "idea",
+        "theme": "knowledge",
+        "importance": 3,
+        "location": {
+          "lat": 34.54,
+          "lon": -84.91,
+          "label": "New Echota, Georgia; historical newspaper publication center"
+        },
+        "locationPrecision": "representative",
+        "summary": {
+          "en": "The Cherokee Nation began publishing the Cherokee Phoenix at New Echota in February 1828. Its pages placed Cherokee syllabary and English text within the same newspaper, bringing written Cherokee into a recurring public forum. This was an institution of a living nation debating education, government and its future while the United States and Georgia pressed for removal.\n\nThe paper covered national government, community and religious activities, relations with other Indigenous peoples, and arguments over land. Congressional debates and court decisions appeared beside subjects closer to everyday life. Reading these materials shows that resistance was also sustained through information, editorial judgment and communication among readers.\n\nThe original newspaper ceased publication in 1834, before the forced removal of 1838. Its surviving run therefore cannot provide eyewitness reporting of that later event. Western Carolina University’s digital project transcribes selected English-language articles concerning Cherokee and regional history; it does not reproduce the whole bilingual paper. The distinction matters: a searchable modern archive offers an entry into this political world while preserving only part of what its historical readers encountered.",
+          "zh": "切罗基民族于1828年2月在新埃科塔出版《切罗基凤凰报》。报纸把切罗基音节文字与英语放在同一公共版面，使书面切罗基语进入持续性的讨论空间。当美国政府与佐治亚州推动强迁时，这一仍然存续的民族正通过报刊讨论教育、治理与自身前途。\n\n报纸报道民族政府、社区及宗教活动，与其他原住民族的关系，以及有关土地的争论。国会辩论和法院判决，同更贴近日常生活的题材并列。这些材料显示，抵抗也通过信息、编辑判断及读者之间的沟通持续展开。\n\n原报于1834年停刊，早于1838年的强制迁移，因此不能将存世报刊当成对后来事件的现场报道。西卡罗来纳大学的数字项目转录了涉及切罗基及地区历史的部分英语文章，并未重现完整双语报纸。这个区别很重要：可检索的现代档案让人进入当时的政治世界，却只保留了历史读者所见内容的一部分。"
+        },
+        "dateNote": {
+          "en": "1828–1834 is the original New Echota publication run. This interval neither dates Cherokee sovereignty nor the complete history of subsequent Cherokee newspapers.",
+          "zh": "1828—1834年为新埃科塔原报刊行期，不代表切罗基主权的起讫，也不是后续切罗基报刊的全部历史。"
+        },
+        "sources": [
+          {
+            "title": "About the Cherokee Phoenix Project",
+            "publisher": "Western Carolina University, Hunter Library",
+            "url": "https://www.wcu.edu/library/digitalcollections/cherokeephoenix/about.html",
+            "evidenceNote": "Inspected project essay: first issue 21 February 1828, bilingual contents, range of reporting, final issue 31 May 1834 and selective English transcription policy.",
+            "checkedAt": "2026-10-23",
+            "retrieval": "inspected-text"
+          },
+          {
+            "title": "Cherokee Phoenix digital collection",
+            "publisher": "Western Carolina University, Hunter Library",
+            "url": "https://www.wcu.edu/library/digitalcollections/cherokeephoenix/",
+            "evidenceNote": "Inspected collection introduction: historical run and warnings about selective transcription and checking original issues; same source family as project essay.",
+            "checkedAt": "2026-10-23",
+            "retrieval": "inspected-text"
+          }
+        ],
+        "keyFacts": {
+          "en": [
+            "The original run began at New Echota in 1828.",
+            "Cherokee and English appeared together.",
+            "The surviving run ends before the 1838 forced removal."
+          ],
+          "zh": [
+            "原报于1828年在新埃科塔创刊。",
+            "切罗基语与英语共同刊载。",
+            "存世原报止于1838年强迁之前。"
+          ]
+        },
+        "relatedIds": [
+          "person-sequoyah",
+          "cherokee-forced-removal",
+          "person-wilma-mankiller"
+        ],
+        "expansion": {
+          "workstreams": [
+            "NA1",
+            "NA2"
+          ],
+          "release": 4,
+          "edition": "v10",
+          "sourceReview": "inspected-source-synthesis",
+          "reviewLimit": {
+            "en": "Both citations belong to one university project. Its selected English transcriptions do not stand for the full bilingual archive; no untranslated Cherokee article is claimed as read.",
+            "zh": "两条引用属于同一大学项目。所选英语转录不能代替完整双语档案；未声称阅读未经翻译的切罗基语文章。"
+          }
+        }
+      },
+      "asset": {
+        "id": "world-batch-06-npg-npg-99-167-13",
+        "recordIds": [
+          "person-sequoyah"
+        ],
+        "kind": "portrait",
+        "representation": "lifetime-portrait",
+        "title": {
+          "en": "Sequoyah with a writing tablet, 1838",
+          "zh": "塞阔雅与写字板，1838年"
+        },
+        "alt": {
+          "en": "Sequoyah wears a red turban and blue coat, holds a pipe, and points to characters on a tablet.",
+          "zh": "塞阔雅戴红色头巾、穿蓝色外套，衔着烟斗，指向写字板上的字符。"
+        },
+        "caption": {
+          "en": "This hand-coloured lithograph was published in 1838, during Sequoyah’s lifetime. The museum attributes it to R. T., after Henry Inman and Charles Bird King, with lithography by J. T. Bowen’s firm.",
+          "zh": "这幅手工着色石版画于1838年、塞阔雅在世时出版。博物馆将其归于R. T.，仿亨利·英曼与查尔斯·伯德·金的作品，由J. T. 鲍恩公司石印。"
+        },
+        "interpretation": {
+          "en": "The writing tablet makes literacy the portrait’s central attribute. Its chain of copying and publication shows how an Indigenous inventor’s image circulated through nineteenth-century print culture.",
+          "zh": "写字板使文字创造成为肖像的核心特征。临摹与出版的链条，展示一位原住民发明家的形象如何在十九世纪印刷文化中流传。"
+        },
+        "file": "assets/history-media/world-batch-06-npg-npg-99-167-13.jpg",
+        "downloadedFrom": "https://ids.si.edu/ids/download?id=NPG-NPG_99_167_13Sequoyah-000002_screen",
+        "imageUrl": "https://ids.si.edu/ids/download?id=NPG-NPG_99_167_13Sequoyah-000002.jpg",
+        "sourceUrl": "https://npg.si.edu/object/npg_NPG.99.167.13",
+        "sha256": "bdd12739d71ad6a84eefe7cfeec5fd93b1c7f8efa92c6b4b5472b007db803aed",
+        "bytes": 75181,
+        "width": 817,
+        "height": 1200,
+        "creator": "R. T.; Henry Inman, 28 Oct 1801 - 17 Jan 1846; Charles Bird King, 26 Sep 1785 - 18 Mar 1862; J. T. Bowen Lithography Company, active 1834 - 1844?",
+        "date": "1838",
+        "institution": "National Portrait Gallery, Smithsonian Institution",
+        "checkedAt": "2026-11-11",
+        "rightsSourceUrl": "https://www.si.edu/openaccess",
+        "rights": {
+          "label": "CC0",
+          "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "note": {
+            "en": "CC0 public-domain image. Credit: National Portrait Gallery, Smithsonian Institution; gift of Betty A. and Lloyd G. Schermer.",
+            "zh": "CC0公有领域图像。署名：National Portrait Gallery, Smithsonian Institution; gift of Betty A. and Lloyd G. Schermer。"
+          }
+        },
+        "transformation": {
+          "en": "Institution-provided JPEG, unchanged.",
+          "zh": "馆方提供的JPEG，未作修改。"
+        },
+        "metadataI18n": {
+          "date": {
+            "en": "1838",
+            "zh": "1838年"
+          },
+          "creator": {
+            "en": "R. T.; Henry Inman, 28 Oct 1801 - 17 Jan 1846; Charles Bird King, 26 Sep 1785 - 18 Mar 1862; J. T. Bowen Lithography Company, active 1834 - 1844?",
+            "zh": "R. T.；亨利·英曼（Henry Inman，1801年10月28日—1846年1月17日）；查尔斯·伯德·金（Charles Bird King，1785年9月26日—1862年3月18日）；J. T. 鲍恩石印公司（J. T. Bowen Lithography Company，活跃于1834—1844年？）"
+          },
+          "institution": {
+            "en": "National Portrait Gallery, Smithsonian Institution",
+            "zh": "史密森学会国家肖像馆"
+          }
+        },
+        "contextSources": [
+          {
+            "title": {
+              "en": "Read the related history",
+              "zh": "阅读相关历史"
+            },
+            "url": "https://www.aoc.gov/explore-capitol-campus/art/sequoyah-statue"
+          }
+        ]
+      }
+    },
+    {
+      "assetId": "world-batch-09-hrjwe54r",
+      "recordId": "athenian-assembly-citizenship",
+      "decision": "reject",
+      "reason": "Actual setting is the Pnyx; Acropolis is the wrong site.",
+      "record": {
+        "id": "athenian-assembly-citizenship",
+        "title": {
+          "en": "Athenian assembly: participation and exclusion",
+          "zh": "雅典公民大会：参与及其界限"
+        },
+        "start": -450,
+        "end": -400,
+        "region": "europe",
+        "kind": "idea",
+        "theme": "states",
+        "importance": 4,
+        "location": {
+          "lat": 37.971,
+          "lon": 23.719,
+          "label": "Athens, Pnyx area; representative assembly setting, not a territorial boundary"
+        },
+        "locationPrecision": "representative",
+        "summary": {
+          "en": "In classical Athens, the assembly made decisions about war, peace, alliances and public policy. Its participants were adult male citizens. Women, resident foreigners and enslaved people were outside this political body, although all formed part of the society in which it operated. A citizenship rule introduced in 451 BCE required citizen parentage on both sides.\n\nFormal eligibility also differed from practical attendance. Someone living far from the city faced a different journey to a meeting from a nearby resident. The assembly therefore offers a concrete way to examine political participation: who could speak and vote, which decisions were shared, and whose labour and lives remained beyond the franchise. The map point marks the Pnyx area, a civic meeting setting. The selected half-century is a reading focus, not a claim that the institution began in 450 BCE or ended in 400 BCE.",
+          "zh": "古典时期的雅典公民大会决定战争、和平、联盟及公共事务。参加者是成年男性公民。妇女、外来定居者和被奴役者被排除在这一政治机构之外，尽管他们都是雅典社会的一部分。公元前451年的公民资格规定要求父母双方均具有公民身份。\n\n法律上的资格也不等于实际到场的机会。住在远处的居民与城市附近的居民，参加会议所需的路程并不相同。因此，公民大会提供了考察政治参与的具体切入点：谁可以发言和表决，哪些决定由集体作出，谁的劳动与生活处在选举权之外。地图标示普尼克斯山附近的公共集会环境。所选半世纪是阅读范围，不表示该制度始于前450年或终于前400年。"
+        },
+        "dateNote": {
+          "en": "Selected focus: c.450–400 BCE; institutional practices changed before and after this interval.",
+          "zh": "精选观察期约为公元前450—前400年，前后制度均有变化。"
+        },
+        "sources": [
+          {
+            "title": "Classical Athens: The Assembly",
+            "url": "https://www.ime.gr/chronos/05/en/politics/321assembly.html",
+            "publisher": "Foundation of the Hellenic World",
+            "evidenceNote": "Supports assembly powers, adult male citizenship, exclusions, the 451 BCE parentage rule and participation barriers. Post-404 BCE pay is outside this selected focus.",
+            "checkedAt": "2026-10-23",
+            "retrieval": "inspected-text"
+          }
+        ],
+        "keyFacts": {
+          "en": [
+            "Citizenship and attendance were different questions."
+          ],
+          "zh": [
+            "公民资格与实际参会是不同问题。"
+          ]
+        },
+        "relatedIds": [
+          "athens-acropolis",
+          "person-alexander-great",
+          "roman-republic"
+        ],
+        "expansion": {
+          "workstreams": [
+            "EU1"
+          ],
+          "release": 4,
+          "edition": "v10",
+          "sourceReview": "inspected-source-synthesis",
+          "reviewLimit": {
+            "en": "One institutional synthesis is used for a bounded account; this is not a reconstruction of every constitutional change.",
+            "zh": "根据一篇机构性综述撰写有限范围的说明，不重建全部宪政变迁。"
+          }
+        }
+      },
+      "asset": {
+        "id": "world-batch-09-hrjwe54r",
+        "file": "assets/history-media/world-batch-09-hrjwe54r.jpg",
+        "recordIds": [
+          "athens-acropolis"
+        ],
+        "kind": "photograph",
+        "representation": "historical-photograph",
+        "title": {
+          "en": "The Acropolis photographed around 1870",
+          "zh": "约1870年拍摄的雅典卫城"
+        },
+        "alt": {
+          "en": "Stone columns and walls stand above scattered blocks and broken architectural pieces.",
+          "zh": "石柱与墙体矗立于散落的石块和建筑残件之上。"
+        },
+        "caption": {
+          "en": "Petros Moraites photographed the Acropolis around 1870, including parts of the Propylaea and Temple of Athena Nike.",
+          "zh": "彼得罗斯·莫赖蒂斯约1870年拍摄雅典卫城，画面包含山门与雅典娜胜利神庙的部分遗迹。"
+        },
+        "interpretation": {
+          "en": "Standing columns and fallen blocks share the frame. Compare the monument’s surviving structure with the scattered stone in the foreground.",
+          "zh": "直立的柱子与倒落的石块同在画面中。比较遗迹保留下来的结构与前景散落的石材。"
+        },
+        "creator": "Petros Moraites",
+        "date": "Circa 1870",
+        "institution": "Wellcome Collection",
+        "sourceUrl": "https://wellcomecollection.org/works/hrjwe54r",
+        "imageUrl": "https://iiif.wellcomecollection.org/image/V0038671/full/!1000,1000/0/default.jpg",
+        "downloadedFrom": "https://iiif.wellcomecollection.org/image/V0038671/full/!1000,1000/0/default.jpg",
+        "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/hrjwe54r?include=items,production,contributors",
+        "rights": {
+          "label": "Public Domain Mark",
+          "url": "https://creativecommons.org/share-your-work/public-domain/pdm/",
+          "note": {
+            "en": "Wellcome Collection identifies this digital item with the Public Domain Mark. Credit: Wellcome Collection.",
+            "zh": "惠康收藏为此数字藏品标注公共领域标识。图像来源：惠康收藏。"
+          }
+        },
+        "transformation": {
+          "en": "Official IIIF derivative, downloaded unchanged; no local crop, retouching or recolouring.",
+          "zh": "下载官方IIIF衍生图像，未作本地裁剪、修饰或改色。"
+        },
+        "contextSources": [
+          {
+            "title": {
+              "en": "Acropolis, Athens",
+              "zh": "雅典卫城"
+            },
+            "url": "https://whc.unesco.org/en/list/404/"
+          }
+        ],
+        "width": 1000,
+        "height": 729,
+        "bytes": 330409,
+        "sha256": "f88fec9a0c2af2ed6846f560aa12373456938eb1746ce1a27998d0e56101eef4",
+        "checkedAt": "2026-11-11",
+        "metadataI18n": {
+          "date": {
+            "en": "Circa 1870",
+            "zh": "约1870年"
+          },
+          "creator": {
+            "en": "Petros Moraites",
+            "zh": "彼得罗斯·莫赖蒂斯（Petros Moraites）"
+          },
+          "institution": {
+            "en": "Wellcome Collection",
+            "zh": "惠康收藏（Wellcome Collection）"
+          }
+        }
+      }
+    },
+    {
+      "assetId": "atlantic-rebuild-civil-rights-act",
+      "recordId": "person-martin-luther-king-jr",
+      "decision": "reject",
+      "reason": "This specific law is not a focal episode in the current biography, which centers ministry, boycott and Memphis labor organizing.",
+      "record": {
+        "id": "person-martin-luther-king-jr",
+        "title": {
+          "en": "Martin Luther King Jr. · Churches, collective action and economic justice",
+          "zh": "小马丁·路德·金 · 教会、集体行动与经济正义"
+        },
+        "start": 1929,
+        "end": 1968,
+        "region": "north-america",
+        "kind": "person",
+        "theme": "states",
+        "importance": 4,
+        "location": {
+          "lat": 33.76,
+          "lon": -84.37,
+          "label": "Atlanta, Georgia; Ebenezer Baptist Church and organizing context"
+        },
+        "locationPrecision": "representative",
+        "summary": {
+          "en": "Martin Luther King Jr. developed his public voice through education, Baptist ministry and organized struggle against segregation. Study at Morehouse, Crozer and Boston University preceded his 1954 pastorate at Dexter Avenue Baptist Church in Montgomery. When the city’s Black residents began their bus boycott in 1955, he became a leading spokesman within a campaign sustained by many organizers, churches, workers and households.\n\nThe boycott exposed him and his family to arrest, bombing and intimidation. His subsequent leadership in the Southern Christian Leadership Conference helped connect local campaigns, drawing on Christian argument and nonviolent action. From 1960 he also served as co-pastor at Atlanta’s Ebenezer Baptist Church. A church was a workplace and organizing institution, not only the setting for memorable speeches.\n\nThe Nobel Peace Prize in 1964 recognized his movement leadership, but recognition did not complete the struggle. In 1968 Memphis sanitation workers demanded union recognition, safer equipment and adequate wages after two colleagues were killed. Their campaign had its own local leaders and a history preceding King’s arrival. He joined because racial equality and economic justice could not be separated.\n\nThe March protest he helped lead ended in violence, and police attacked demonstrators; he nevertheless returned to support continued nonviolent organizing. He was assassinated at the Lorraine Motel on 4 April. Workers and supporters continued afterward, reaching an agreement later that month. His life story therefore points outward to the institutions and collective labor that made action possible, rather than making one speaker responsible for every civil-rights achievement.",
+          "zh": "小马丁·路德·金通过教育、浸信会牧职及反对种族隔离的组织行动，形成公共表达。在莫尔豪斯学院、克罗泽神学院与波士顿大学学习后，他1954年到蒙哥马利德克斯特大道浸信会教堂任牧师。1955年当地黑人居民开始抵制公共汽车时，他成为重要发言人；运动依靠众多组织者、教会、工人和家庭维持。\n\n抵制使他及家人遭遇逮捕、炸弹袭击与恐吓。此后他领导南方基督教领袖会议，以基督教论述和非暴力行动连接地方运动。自1960年起，他还在亚特兰大埃比尼泽浸信会教堂担任共同牧师。教会是工作与组织机构，不只是著名演讲的背景。\n\n1964年诺贝尔和平奖认可其运动领导作用，但获奖并未完成斗争。1968年，两位同事遇难后，孟菲斯清洁工要求工会承认、较安全的设备和足够工资。当地运动有自己的领袖和早于金到访的历史。他参与是因为种族平等与经济正义无法分开。\n\n他协助领导的3月示威以暴力告终，警察袭击参加者；他仍返回支持继续的非暴力组织。4月4日，他在洛林汽车旅馆遇刺。工人和支持者随后继续行动，在当月晚些时候达成协议。其生平因此把目光引向使行动成为可能的制度与集体劳动，而不把所有民权成果归于一位演说者。"
+        },
+        "dateNote": {
+          "en": "Lifespan 1929–1968. Milestones distinguish Montgomery pastorate/boycott, Atlanta co-pastorate and Memphis support/assassination. The source biography’s historical terminology is not adopted as current narration. Local workers’ struggle continued after his death.",
+          "zh": "生卒1929—1968年。节点区分蒙哥马利牧职与抵制、亚特兰大共同牧职，以及在孟菲斯的支持行动和遇刺。不把来源传记中的历史称谓直接用作当前叙述。当地工人的斗争在他去世后继续。"
+        },
+        "sources": [
+          {
+            "title": "Martin Luther King Jr. – Biographical",
+            "publisher": "Nobel Foundation / NobelPrize.org",
+            "url": "https://www.nobelprize.org/prizes/peace/1964/king/biographical/",
+            "evidenceNote": "Actual source text captured centrally through the root Codex in-app browser and read locally by the regional author. Historical biography: 1929–1968 lifespan, Morehouse/Crozer/Boston education, 1954 Dexter Avenue pastorate in Montgomery, 1955 boycott leadership, 1957 SCLC presidency, 1960 Atlanta co-pastorate, 1964 Nobel award and 1968 Memphis death. Dated terminology, numerical publicity claims, sole-leader framing and contemporary party-campaign wording are not adopted.",
+            "checkedAt": "2026-10-24",
+            "retrieval": "inspected-central-browser-capture"
+          },
+          {
+            "title": "Memphis Sanitation Workers' Strike",
+            "publisher": "Martin Luther King, Jr. Research and Education Institute, Stanford University",
+            "url": "https://kinginstitute.stanford.edu/encyclopedia/memphis-sanitation-workers-strike",
+            "evidenceNote": "Actual source text captured centrally through the root Codex in-app browser and read locally by the regional author. Full historical entry: 1 February 1968 deaths of Echol Cole and Robert Walker, 12 February strike, union/safety/wage demands, local organizers and ministers, 18 and 28 March King involvement, police violence, 3 April return, 4 April assassination, 8 April march and 16 April agreement, later enforcement pressure. No King speech text is reproduced.",
+            "checkedAt": "2026-10-24",
+            "retrieval": "inspected-central-browser-capture"
+          }
+        ],
+        "relatedIds": [
+          "memphis-sanitation-strike-1968",
+          "montgomery-bus-boycott",
+          "us-civil-rights-movement"
+        ],
+        "expansion": {
+          "workstreams": [
+            "NA3"
+          ],
+          "release": 6,
+          "edition": "v12",
+          "sourceReview": "inspected-source-synthesis",
+          "reviewLimit": {
+            "en": "Source text was captured centrally in the Codex in-app browser and inspected locally for the claims described. This selected narrative does not establish every participant’s experience, exact routes or historical boundaries.",
+            "zh": "来源文本由主研究流程在Codex内置浏览器中获取，本区域作者逐项阅读相应文本。这段精选叙述不确立每位参与者的经历、精确行程或历史疆界。"
+          }
+        },
+        "name": {
+          "en": "Martin Luther King Jr.",
+          "zh": "小马丁·路德·金"
+        },
+        "aliases": [
+          "Martin Luther King",
+          "MLK"
+        ],
+        "milestones": [
+          {
+            "year": 1954,
+            "title": {
+              "en": "Pastor in Montgomery",
+              "zh": "在蒙哥马利任牧师"
+            },
+            "description": {
+              "en": "He became pastor of Dexter Avenue Baptist Church.",
+              "zh": "到德克斯特大道浸信会教堂任牧师。"
+            },
+            "location": {
+              "lat": 32.38,
+              "lon": -86.3,
+              "label": "Montgomery, Alabama; church and boycott organizing setting"
+            },
+            "approximate": false
+          },
+          {
+            "year": 1955,
+            "title": {
+              "en": "Leadership within a boycott",
+              "zh": "在抵制运动中承担领导工作"
+            },
+            "description": {
+              "en": "He became a spokesman for a community campaign against segregated buses.",
+              "zh": "在社区反对公共汽车隔离的运动中担任发言人。"
+            },
+            "location": {
+              "lat": 32.38,
+              "lon": -86.3,
+              "label": "Montgomery, Alabama; church and boycott organizing setting"
+            },
+            "approximate": false
+          },
+          {
+            "year": 1960,
+            "title": {
+              "en": "Co-pastor at Ebenezer",
+              "zh": "在埃比尼泽担任共同牧师"
+            },
+            "description": {
+              "en": "He joined his father in the Atlanta church’s ministry while continuing movement work.",
+              "zh": "在亚特兰大教会与父亲共同从事牧职，同时继续运动工作。"
+            },
+            "location": {
+              "lat": 33.76,
+              "lon": -84.37,
+              "label": "Atlanta, Georgia; Ebenezer Baptist Church and organizing context"
+            },
+            "approximate": false
+          },
+          {
+            "year": 1968,
+            "title": {
+              "en": "Supporting sanitation workers",
+              "zh": "支持清洁工"
+            },
+            "description": {
+              "en": "He addressed workers in Memphis in March and returned in April to support their demands.",
+              "zh": "3月在孟菲斯向工人演讲，4月返回支持其诉求。"
+            },
+            "location": {
+              "lat": 35.13,
+              "lon": -90.06,
+              "label": "Memphis, Tennessee; representative sanitation strike and final campaign setting"
+            },
+            "approximate": false
+          },
+          {
+            "year": 1968,
+            "title": {
+              "en": "Assassinated at the Lorraine Motel",
+              "zh": "在洛林汽车旅馆遇刺"
+            },
+            "description": {
+              "en": "He was killed on 4 April while in Memphis for the workers’ campaign.",
+              "zh": "4月4日在孟菲斯支持工人运动期间被杀害。"
+            },
+            "location": {
+              "lat": 35.13,
+              "lon": -90.06,
+              "label": "Lorraine Motel, Memphis; representative assassination site"
+            },
+            "approximate": false
+          }
+        ]
+      },
+      "asset": {
+        "id": "atlantic-rebuild-civil-rights-act",
+        "recordIds": [
+          "us-civil-rights-movement"
+        ],
+        "file": "assets/history-media/atlantic-rebuild-civil-rights-act.jpg",
+        "sourceUrl": "https://www.archives.gov/milestone-documents/civil-rights-act",
+        "imageUrl": "https://www.archives.gov/files/milestone-documents/images/doc-097-big.jpg",
+        "downloadedFrom": "https://www.archives.gov/files/milestone-documents/images/doc-097-big.jpg",
+        "width": 500,
+        "height": 749,
+        "bytes": 57418,
+        "sha256": "da300fa91f09fb7ae126c59b7afb828a39818ab2725d4bd223270781afb6b2de",
+        "kind": "document",
+        "representation": "document-facsimile",
+        "title": {
+          "en": "Civil Rights Act of 1964",
+          "zh": "1964年《民权法》"
+        },
+        "creator": "United States Congress",
+        "date": "2 July 1964",
+        "institution": "United States National Archives",
+        "caption": {
+          "en": "The act prohibited major forms of discrimination after sustained civil-rights organizing.",
+          "zh": "经过持续的民权组织动员，该法禁止多种主要歧视形式。"
+        },
+        "alt": {
+          "en": "A printed law page headed with the congressional session.",
+          "zh": "印有国会届次标题的法律书页。"
+        },
+        "interpretation": {
+          "en": "An enacted law is a primary source for legal change, while organizing and enforcement require further evidence.",
+          "zh": "已制定法律是法律变化的原始资料，组织动员及执行仍需其他证据。"
+        },
+        "rightsSourceUrl": "https://www.archives.gov/global-pages/privacy.html",
+        "rights": {
+          "label": "Public domain",
+          "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "note": {
+            "en": "Public-domain historical document and National Archives reproduction; source item identifies the document. NARA permits reuse of public-domain materials and its own reproductions.",
+            "zh": "公有领域历史文书及美国国家档案馆复制图；原始条目标明文献身份。档案馆允许重用公有领域资料及自身制作的复制图。"
+          }
+        },
+        "checkedAt": "2026-11-11",
+        "transformation": {
+          "en": "Published source image saved byte-for-byte, without local editing.",
+          "zh": "逐字节保存来源发布图像，未作本地编辑。"
+        },
+        "metadataI18n": {
+          "date": {
+            "en": "2 July 1964",
+            "zh": "1964年7月2日"
+          },
+          "creator": {
+            "en": "United States Congress",
+            "zh": "美国国会"
+          },
+          "institution": {
+            "en": "United States National Archives",
+            "zh": "美国国家档案馆"
+          }
+        }
+      }
+    },
+    {
+      "assetId": "world-batch-05-timbuktu",
+      "recordId": "timbuktu-manuscript-law-and-learning",
+      "decision": "reject",
+      "reason": "A mosque photograph does not depict the named library manuscripts, contents or legal documents.",
+      "record": {
+        "id": "timbuktu-manuscript-law-and-learning",
+        "title": {
+          "en": "Timbuktu manuscripts · Law, livelihood and learning",
+          "zh": "廷巴克图手稿 · 法律、生计与学习"
+        },
+        "start": 1600,
+        "end": 1858,
+        "region": "africa",
+        "kind": "culture",
+        "theme": "knowledge",
+        "importance": 3,
+        "location": {
+          "lat": 16.77,
+          "lon": -3.01,
+          "label": "Timbuktu; teaching and scholarly community, not a settled birthplace coordinate"
+        },
+        "locationPrecision": "representative",
+        "summary": {
+          "en": "Manuscripts preserved in libraries around Timbuktu reveal scholarship concerned with everyday obligations as well as theology. The Library of Congress exhibition describes texts on inheritance, commercial contracts, arithmetic and the social value of labour. Poems could help students remember rules; commentaries and examples allowed knowledge to be taught and debated.\n\nThe same collections also preserve the unequal institutions within which learning operated. Commercial agreements concern the trafficking of enslaved people, and an emancipation certificate records a woman being granted freedom. Ahmad Baba’s legal opinion limited permissible enslavement within Islamic law without rejecting the institution altogether. Intellectual achievement and coercive social relations therefore belong in the same history.\n\nThe selected seventeenth-to-nineteenth-century focus connects Baba’s writing to later manuscript copies, including objects catalogued as copied in 1733, 1809 and 1858. A copy date does not date the invention of its subject or every earlier version. This is a study of described surviving texts, not a new translation of their Arabic pages or a claim that legal prescriptions show how every household actually behaved.",
+          "zh": "廷巴克图周边图书馆保存的手稿，显示学术既关乎神学，也关乎日常义务。美国国会图书馆展览介绍了继承、商业契约、算术及劳动社会价值的文本。诗歌可帮助学生记忆规则；注释与例题使知识能够教学和讨论。\n\n同一批收藏也保存了学术活动所在社会的不平等制度。商业契约涉及贩运被奴役者，解放证书记载一名女性获释。艾哈迈德·巴巴的法律意见在伊斯兰法内限制可许可的奴役，却未全面否定该制度。因此，思想成就和强制性的社会关系属于同一段历史。\n\n本条所选十七至十九世纪窗口，把巴巴著述与后来的手稿抄本相连，其中有目录注明抄于1733、1809和1858年的实物。抄写日期不是知识主题的发明年，也不是所有更早版本的年代。本条研究的是传世文本的已读解说，不是重新翻译阿拉伯语页面，也不声称法律规范证明每个家庭实际如何生活。"
+        },
+        "dateNote": {
+          "en": "Approximate editorial focus 1600–1858 connects seventeenth-century writing with dated later copies. It is not the beginning/end of Timbuktu scholarship. Copy years belong to particular catalogued objects, not every text discussed.",
+          "zh": "约1600—1858年为编辑观察窗口，连接十七世纪著述与有日期的后世抄本，并非廷巴克图学术的起止年。抄写年属于特定目录实物，不适用于所有所述文本。"
+        },
+        "sources": [
+          {
+            "title": "Ancient Manuscripts from the Desert Libraries of Timbuktu: Exhibition",
+            "publisher": "Library of Congress, with Mamma Haidara and Cheick Zayni Baye libraries",
+            "url": "https://www.loc.gov/exhibits/mali/mali-exhibit.html",
+            "evidenceNote": "Exhibition descriptions inspected, especially objects 2–4, 6, 11, 20–23: verse teaching, inheritance, commerce, Ahmad Baba's legal opinion on enslavement, arithmetic, labour and commercial/emancipation documents. Descriptions of manuscript contents were read, not a new Arabic transcription or full translation.",
+            "checkedAt": "2026-10-24",
+            "retrieval": "inspected-text"
+          },
+          {
+            "title": "Ancient Manuscripts from the Desert Libraries of Timbuktu: Exhibition Items",
+            "publisher": "Library of Congress",
+            "url": "https://www.loc.gov/exhibits/mali/mali-checklist.html",
+            "evidenceNote": "Catalogue checklist inspected: astronomy copy dated 1733, a text copied 1809 and two Sufi works copied 1858. Copy dates identify surviving artifacts, not all original composition dates. This shares the exhibition's source family and is not independent corroboration.",
+            "checkedAt": "2026-10-24",
+            "retrieval": "inspected-text"
+          }
+        ],
+        "relatedIds": [
+          "person-ahmad-baba",
+          "timbuktu",
+          "songhai-empire"
+        ],
+        "expansion": {
+          "workstreams": [
+            "AF2"
+          ],
+          "release": 5,
+          "edition": "v11",
+          "sourceReview": "inspected-source-synthesis",
+          "reviewLimit": {
+            "en": "The inspected exhibition and checklist share one institutional source family. Their descriptions support subjects, object dates and provenance; this entry does not claim independent philological review or measured prevalence of practices.",
+            "zh": "已读展览与目录属于同一机构来源。其解说支持主题、实物日期与来源信息；本条不声称独立语文学审查或经测量的实践普及程度。"
+          }
+        }
+      },
+      "asset": {
+        "id": "world-batch-05-timbuktu",
+        "recordIds": [
+          "timbuktu"
+        ],
+        "kind": "site",
+        "representation": "site-photograph",
+        "file": "assets/history-media/world-batch-05-timbuktu.jpg",
+        "sha256": "5acce3adf85c51050240e0e85ddc3a532a1e68601c2599981002c492b16ba064",
+        "bytes": 264227,
+        "width": 960,
+        "height": 1280,
+        "title": {
+          "en": "Djingareyber Mosque, Timbuktu",
+          "zh": "廷巴克图的金加雷贝尔清真寺"
+        },
+        "alt": {
+          "en": "A tapered earthen tower with projecting wooden beams rises behind thick walls.",
+          "zh": "带有外伸木梁的渐收土筑塔体立于厚墙之后。"
+        },
+        "caption": {
+          "en": "Djingareyber is one of Timbuktu’s historic mosques and centres of learning.",
+          "zh": "金加雷贝尔是廷巴克图的历史清真寺和学习中心之一。"
+        },
+        "interpretation": {
+          "en": "Thick earth walls and projecting timbers make the building’s materials visible; its survival depends on repeated maintenance.",
+          "zh": "厚土墙与外伸木梁让建筑材料清晰可见；建筑的延续依靠反复维护。"
+        },
+        "creator": "KaTeznik",
+        "date": "Photograph: 2005-01-07",
+        "institution": "Wikimedia Commons / credited photographer",
+        "metadataI18n": {
+          "date": {
+            "en": "Photograph: 2005-01-07",
+            "zh": "拍摄于2005年1月7日"
+          },
+          "creator": {
+            "en": "KaTeznik",
+            "zh": "署名摄影者（KaTeznik）"
+          },
+          "institution": {
+            "en": "Wikimedia Commons / credited photographer",
+            "zh": "维基共享资源／署名摄影者"
+          }
+        },
+        "historicalPeriod": {
+          "en": "Founded in the fourteenth century; maintained and altered over subsequent centuries",
+          "zh": "始建于14世纪，历代持续维护和改建"
+        },
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Djingareiber_cour.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Djingareiber_cour.jpg",
+        "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Djingareiber_cour.jpg/960px-Djingareiber_cour.jpg",
+        "checkedAt": "2026-11-11",
+        "rightsSourceUrl": "https://commons.wikimedia.org/wiki/File:Djingareiber_cour.jpg",
+        "rights": {
+          "label": "CC BY-SA 2.0 fr",
+          "url": "https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en",
+          "note": {
+            "en": "Photograph © KaTeznik, CC BY-SA 2.0 fr. Retain attribution, the license and any change notices when reusing this photograph. Share adaptations under the same license.",
+            "zh": "照片署名：KaTeznik；许可：CC BY-SA 2.0 fr。再次使用时须保留署名、许可及修改说明。改编作品须沿用相同许可。"
+          }
+        },
+        "contextSources": [
+          {
+            "title": {
+              "en": "Explore this site’s history",
+              "zh": "了解遗址历史"
+            },
+            "url": "https://whc.unesco.org/en/list/119/"
+          }
+        ],
+        "retrieval": "Commons source-page revisions and image metadata retained. Delivered bytes decoded, hashed and individually reviewed.",
+        "transformation": {
+          "en": "Commons-provided JPEG, unchanged locally. Source-side cropping or processing is described on the file page.",
+          "zh": "采用Commons提供的JPEG，未在本地修改。来源已有的裁切或处理见文件页说明。"
+        }
+      }
+    },
+    {
+      "assetId": "world-batch-04-met-39147",
+      "recordId": "sukhothai-political-centers",
+      "decision": "reject",
+      "reason": "Political infrastructure, waterworks, roads and ceramic production are focal. Shared period/region for a bronze sculpture is inadequate.",
+      "record": {
+        "id": "sukhothai-political-centers",
+        "title": {
+          "en": "Sukhothai: connected towns and political institutions",
+          "zh": "素可泰：相连的城镇与政治制度"
+        },
+        "start": 1201,
+        "end": 1400,
+        "region": "southeast-asia",
+        "theme": "states",
+        "kind": "polity",
+        "location": {
+          "lat": 17.02,
+          "lon": 99.7,
+          "label": "Sukhothai; representative capital location"
+        },
+        "locationPrecision": "representative",
+        "importance": 3,
+        "summary": {
+          "en": "Sukhothai’s political landscape included related towns rather than one isolated capital. Waterworks, roads, religious establishments and production sites linked urban centers with their hinterlands. Archaeological evidence of ceramics also places this landscape within wider exchange networks.\n\nRoyal inscriptions and monuments express claims about authority and religious patronage, but those claims need comparison with the material record. A later national origin story is not identical to the experience of every community living in the region. The political focus here complements the existing art-and-city entry: it asks how infrastructure and institutional relationships helped sustain a kingdom. Broad century dates are used because the evidence summarized here does not justify assigning uniform administrative control to every year and location.",
+          "zh": "素可泰的政治景观包含相互关联的城镇，而非孤立首都。水利、道路、宗教机构及生产场所把城市中心同腹地连接起来；陶瓷考古证据又使其进入更广泛的交换网络。\n\n王室铭文和纪念建筑表达权威与宗教资助诉求，但需要同物质遗存比较。后来的民族起源叙事，不等于当地每个社区的经验。本条政治重点补充已有艺术与城市记录，追问基础设施和制度关系如何维持王国。这里使用世纪范围，因为所概括证据不足以为每一年、每一处地点赋予同样行政控制。"
+        },
+        "dateNote": {
+          "en": "Illustrative thirteenth–fourteenth-century focus; not exact kingdom founding and absorption dates.",
+          "zh": "示例性关注十三至十四世纪；不表示王国精确建立与被吸收日期。"
+        },
+        "sources": [
+          {
+            "title": "Historic Town of Sukhothai and Associated Historic Towns",
+            "url": "https://whc.unesco.org/en/list/574/",
+            "publisher": "UNESCO World Heritage Centre",
+            "evidenceNote": "Political/administrative centers, water infrastructure and ceramic export; broad internal period descriptions vary. Retrieval: page text inspected.",
+            "checkedAt": "2026-10-23",
+            "retrievalStatus": "page text inspected"
+          },
+          {
+            "title": "Angkor",
+            "url": "https://whc.unesco.org/en/list/668/",
+            "publisher": "UNESCO World Heritage Centre",
+            "evidenceNote": "Royal capitals, hydraulic landscape and religious monuments; archaeological phases are not annual boundaries. Retrieval: page text inspected.",
+            "checkedAt": "2026-10-23",
+            "retrievalStatus": "page text inspected"
+          }
+        ],
+        "relatedIds": [
+          "sukhothai-urban-arts",
+          "ayutthaya-kingdom"
+        ],
+        "keyFacts": {
+          "en": [
+            "Related towns shared water and communication infrastructure.",
+            "Ceramic production connected political centers with exchange."
+          ],
+          "zh": [
+            "相连城镇共享水利与交通设施。",
+            "陶瓷生产连接政治中心与交换。"
+          ]
+        },
+        "expansion": {
+          "workstreams": [
+            "SE1"
+          ],
+          "release": 1,
+          "sourceReview": "Sources individually inspected as described in each evidence note; original bilingual synthesis; no new territorial geometry.",
+          "evidenceLimit": "Single institution/source family; see evidence note and research register. Further independent corroboration remains desirable."
+        },
+        "countryGroup": "sukhothai-political-centers",
+        "timeline": {
+          "level": "secondary",
+          "label": {
+            "en": "Sukhothai",
+            "zh": "素可泰"
+          }
+        }
+      },
+      "asset": {
+        "recordIds": [
+          "sukhothai-urban-arts"
+        ],
+        "kind": "object",
+        "representation": "object-photograph",
+        "title": {
+          "en": "Prajnaparamita in Sukhothai-period bronze",
+          "zh": "素可泰时期的般若波罗蜜多铜像"
+        },
+        "alt": {
+          "en": "A small standing bronze figure wears a tall headdress and fitted garment, with both hands extended forward.",
+          "zh": "小型铜像直立，戴高冠，着贴身长衣，双手向前伸出。"
+        },
+        "caption": {
+          "en": "Standing Prajnaparamita, Thailand, thirteenth century. The Met classifies this bronze within the Sukhothai period.",
+          "zh": "立姿般若波罗蜜多像，泰国，十三世纪。大都会将此铜像归为素可泰时期。"
+        },
+        "interpretation": {
+          "en": "The figure supplies an object-scale view of the religious arts discussed in the entry. Its small cast form complements the much larger temples of the Sukhothai landscape.",
+          "zh": "这尊铜像从实物尺度呈现条目讨论的宗教艺术，与素可泰景观中的大型寺庙形成补充。"
+        },
+        "id": "world-batch-04-met-39147",
+        "file": "assets/history-media/world-batch-04-met-39147.jpg",
+        "downloadedFrom": "https://images.metmuseum.org/CRDImages/as/web-large/1985_55.JPG",
+        "imageUrl": "https://images.metmuseum.org/CRDImages/as/original/1985_55.JPG",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/39147",
+        "sha256": "3bd969a1447292abd3369bfdfffddcf07b8681ddf1183587c49fb396967baef9",
+        "bytes": 19365,
+        "width": 401,
+        "height": 624,
+        "creator": "Unrecorded Thai bronze caster",
+        "date": "13th century",
+        "institution": "The Metropolitan Museum of Art",
+        "checkedAt": "2026-11-11",
+        "rightsSourceUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access",
+        "rights": {
+          "label": "CC0",
+          "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "note": {
+            "en": "The object page marks the image Public Domain and the API returns isPublicDomain: true. Met Open Access releases it under CC0. Collection credit: Purchase, Lita Annenberg Hazen Charitable Trust Gift, 1985",
+            "zh": "馆藏页将图像标为公有领域，API亦确认公有领域状态；大都会开放获取政策以CC0发布。入藏署名见馆藏记录。"
+          }
+        },
+        "transformation": {
+          "en": "Museum-provided web-large JPEG preserved byte-for-byte. No local crop, resize, recolouring or image generation.",
+          "zh": "逐字节保存博物馆提供的web-large JPEG，未在本地裁剪、缩放、调色或生成内容。"
+        },
+        "retrieval": "Official object API, collection page and Open Access policy inspected. Delivery JPEG decoded, hashed and pixels reviewed; receipts and entry-level decisions retained in world-batch-04.",
+        "metadataI18n": {
+          "date": {
+            "en": "13th century",
+            "zh": "13世纪"
+          },
+          "creator": {
+            "en": "Unrecorded Thai bronze caster",
+            "zh": "泰国青铜铸造者，姓名未载"
+          },
+          "institution": {
+            "en": "The Metropolitan Museum of Art",
+            "zh": "大都会艺术博物馆"
+          }
+        }
+      }
+    }
+  ]
+}

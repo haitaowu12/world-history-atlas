@@ -1,0 +1,836 @@
+{
+  "reviewedAt": "2026-11-11",
+  "ownerReview": "All admitted pixels, complete target narratives, source-specific rights and dated text reviewed. Copies tightened where needed; no held alternatives admitted. Source-served derivatives unchanged.",
+  "ledger": [
+    {
+      "assetId": "world-batch-13-amj4m7pg",
+      "status": "candidate-admitted",
+      "recordIds": [
+        "ptolemaic-egypt"
+      ],
+      "sourceUrl": "https://wellcomecollection.org/works/amj4m7pg",
+      "sourceTitle": "Karnak Temple, Luxor, Egypt: the Avenue of Rams leading to the propylon of Ptolemy III Eurgetes I; people wearing robes walking on the avenue. Photograph by Pascal Sébah, ca. 1875.",
+      "sourceDescription": null,
+      "production": [
+        {
+          "label": "1875",
+          "agents": [],
+          "dates": [
+            {
+              "label": "1875",
+              "type": "Period"
+            }
+          ],
+          "type": "ProductionEvent",
+          "places": [
+            {
+              "label": "Egypt",
+              "type": "Place"
+            }
+          ]
+        }
+      ],
+      "contributors": [
+        {
+          "agent": {
+            "id": "hx5wx952",
+            "label": "Pascal Sebah",
+            "type": "Person"
+          },
+          "roles": [],
+          "primary": true,
+          "type": "Contributor"
+        }
+      ],
+      "rights": {
+        "id": "pdm",
+        "type": "License",
+        "label": "Public Domain Mark",
+        "url": "https://creativecommons.org/share-your-work/public-domain/pdm/"
+      },
+      "receipt": "research/v18/world-batch-13/detail-amj4m7pg.json",
+      "targetRecords": [
+        {
+          "id": "ptolemaic-egypt",
+          "title": {
+            "en": "Ptolemaic Egypt: a Mediterranean kingdom",
+            "zh": "托勒密埃及：地中海王国"
+          },
+          "start": -305,
+          "end": -30,
+          "region": "africa",
+          "theme": "states",
+          "kind": "polity",
+          "importance": 4,
+          "location": {
+            "lat": 31.2,
+            "lon": 29.92,
+            "label": "Alexandria"
+          },
+          "locationPrecision": "representative",
+          "summary": {
+            "en": "After Alexander’s conquests and death, Ptolemy established a ruling house in Egypt. Alexandria became a major political and intellectual centre, drawing Greek-speaking scholars and settlers into an Egyptian landscape with much older institutions. The dynasty used both Greek and Egyptian forms of kingship, while temples and new urban foundations expressed these overlapping traditions. This was not a simple replacement of one culture by another. It was a society shaped by unequal power, migration and adaptation. The kingdom’s final confrontation with Rome ended dynastic independence, but Alexandria continued as a major Mediterranean city.",
+            "zh": "亚历山大征服并去世后，托勒密在埃及建立统治家族。亚历山大城成为政治与学术中心，希腊语学者和移民进入拥有更古老制度的埃及社会。王朝同时使用希腊与埃及王权形式，神庙与新城市表达这些交叠传统。这并非一种文化简单取代另一种，而是由不平等权力、迁徙与适应塑造的社会。罗马结束王国独立后，亚历山大城仍是地中海重要城市。"
+          },
+          "dateNote": {
+            "en": "305–30 BCE is the royal-dynasty frame; Ptolemy governed Egypt from 323 BCE before taking the royal title.",
+            "zh": "前305—30年指正式王朝；托勒密自前323年已治理埃及，后来才称王。"
+          },
+          "sources": [
+            {
+              "title": "Ptolemaic Period",
+              "url": "https://egymonuments.gov.eg/historical-periods/ptolemaic-period/",
+              "publisher": "Egyptian Ministry of Tourism and Antiquities",
+              "checkedAt": "2026-10-22",
+              "evidenceNote": "Ministry account supports Alexander’s death in 323 BCE and Ptolemy’s subsequent rule of Egypt."
+            },
+            {
+              "title": "Egypt in the Ptolemaic Period",
+              "url": "https://www.metmuseum.org/essays/egypt-in-the-ptolemaic-period",
+              "publisher": "The Metropolitan Museum of Art",
+              "checkedAt": "2026-10-22",
+              "evidenceNote": "Essay explicitly distinguishes Alexander’s conquest in 332 BCE from the dynasty’s 305 BCE beginning and 30 BCE end; supports Alexandria, Greek/Egyptian kingship, temples and social hierarchy."
+            }
+          ]
+        }
+      ],
+      "relationship": {
+        "en": "The gateway identified by the catalogue as Ptolemy III’s rises beyond the avenue of rams. Its carved Egyptian temple forms make the dynasty’s participation in older religious institutions visible. Sébah photographed the surviving site around 1875, more than two millennia after its royal patrons; the people and condition of the avenue belong to that later encounter.",
+        "zh": "目录将前方门楼认定为托勒密三世的建筑。它采用埃及神庙的雕刻形式，具体呈现这一王朝对更古老宗教制度的参与。塞巴约于1875年拍摄遗址，距离王室赞助者的时代已逾两千年；画面中的人物与通道保存状况属于这次后来的相遇。"
+      },
+      "visualReview": "Full 1000px derivative visually inspected: central carved gateway, ram sculptures, robed figures, photographer signature and lower-left gateway identification. Image not cropped.",
+      "sha256": "30129dc4fde5b1e9297322fdea30d59abaeaa9eac24ed2347cb8b8b50ccd50f1",
+      "bytes": 286255,
+      "width": 1000,
+      "height": 746
+    },
+    {
+      "assetId": "world-batch-13-pkfqsqnh",
+      "status": "candidate-admitted",
+      "recordIds": [
+        "magna-carta"
+      ],
+      "sourceUrl": "https://wellcomecollection.org/works/pkfqsqnh",
+      "sourceTitle": "King William IV holding a scroll of the Magna Carta in his right hand. Mezzotint by D. Lucas after R. Bowyer, 1830.",
+      "sourceDescription": null,
+      "production": [
+        {
+          "label": "London (Pall Mall) : R. Bowyer & M. Parkes, 1830.",
+          "agents": [
+            {
+              "label": "R. Bowyer & M. Parkes",
+              "type": "Agent"
+            }
+          ],
+          "dates": [
+            {
+              "label": "1830",
+              "type": "Period"
+            }
+          ],
+          "function": {
+            "label": "Publication",
+            "type": "Concept"
+          },
+          "type": "ProductionEvent",
+          "places": [
+            {
+              "label": "London (Pall Mall)",
+              "type": "Place"
+            }
+          ]
+        }
+      ],
+      "contributors": [
+        {
+          "agent": {
+            "id": "xxmwgksj",
+            "label": "Robert Bowyer",
+            "type": "Person"
+          },
+          "roles": [],
+          "primary": true,
+          "type": "Contributor"
+        },
+        {
+          "agent": {
+            "id": "qkfebp2e",
+            "label": "David Lucas",
+            "type": "Person"
+          },
+          "roles": [],
+          "primary": false,
+          "type": "Contributor"
+        }
+      ],
+      "rights": {
+        "id": "pdm",
+        "type": "License",
+        "label": "Public Domain Mark",
+        "url": "https://creativecommons.org/share-your-work/public-domain/pdm/"
+      },
+      "receipt": "research/v18/world-batch-13/detail-pkfqsqnh.json",
+      "targetRecords": [
+        {
+          "id": "magna-carta",
+          "title": {
+            "en": "Magna Carta: bargaining over royal power",
+            "zh": "大宪章：围绕王权的协商"
+          },
+          "start": 1215,
+          "end": 1215,
+          "region": "europe",
+          "theme": "states",
+          "kind": "event",
+          "importance": 4,
+          "location": {
+            "lat": 51.44,
+            "lon": -0.57,
+            "label": "Runnymede"
+          },
+          "locationPrecision": "representative",
+          "summary": {
+            "en": "King John’s disputes with rebellious barons produced Magna Carta at Runnymede. The charter addressed specific grievances about royal government and asserted that the ruler’s actions could be constrained by agreed rules. Its protections were unequal and did not amount to modern universal citizenship; most inhabitants had no part in negotiating it. Later generations nevertheless reread and reused the document when arguing about lawful government and individual liberties. Its importance lies both in the medieval crisis that created it and in centuries of interpretation. A document can acquire meanings far beyond its original political bargain.",
+            "zh": "约翰王与反叛贵族的争端，在兰尼米德促成《大宪章》。文书回应王室治理中的具体诉求，并主张君主行动也受约定规则限制。其保障并不平等，更不等于现代普遍公民权，多数居民没有参与协商。但后世不断重新解释它，用于讨论依法治理与个人自由。因此，它的重要性既来自中世纪危机，也来自数百年的再阐释。"
+          },
+          "dateNote": {
+            "en": "The 1215 charter emerged from the June negotiations at Runnymede; later reissues and interpretations are separate stages.",
+            "zh": "1215年宪章出自6月兰尼米德谈判；后来的重颁与阐释属于不同阶段。"
+          },
+          "sources": [
+            {
+              "title": "Magna Carta: Enduring Legacy",
+              "url": "https://www.archives.gov/exhibits/featured-documents/magna-carta/legacy.html",
+              "publisher": "U.S. National Archives",
+              "checkedAt": "2026-10-22",
+              "evidenceNote": "The 1215 charter emerged from the June negotiations at Runnymede; later reissues and interpretations are separate stages."
+            }
+          ]
+        }
+      ],
+      "relationship": {
+        "en": "The catalogue identifies the scroll in William IV’s hand as Magna Carta. A nineteenth-century king is thus presented through a document born of conflict with a medieval king. The portrait gives a concrete example of the charter’s later reuse as a symbol of lawful monarchy, rather than illustrating the negotiations at Runnymede in 1215.",
+        "zh": "目录将威廉四世手中的卷轴认定为《大宪章》。这位十九世纪国王借助一份源自贵族与中世纪国王冲突的文书来塑造形象。肖像具体显示了宪章后来如何成为依法治理的王权象征，而非描绘1215年兰尼米德的谈判。"
+      },
+      "visualReview": "Full native 782×1000 pixels inspected: half-length sitter, right hand on rolled scroll, coat star and publisher line. Scroll is identified by the catalogue, not an invented readable transcription.",
+      "sha256": "d0d1f1417aec356e0269f605137fce3318a93dc055ef6dbd9dbfc0dfd6c87861",
+      "bytes": 161897,
+      "width": 782,
+      "height": 1000
+    },
+    {
+      "assetId": "world-batch-13-jyukn8gt",
+      "status": "candidate-admitted",
+      "recordIds": [
+        "battle-plassey"
+      ],
+      "sourceUrl": "https://wellcomecollection.org/works/jyukn8gt",
+      "sourceTitle": "Robert Clive, 1st Baron Clive. Mezzotint by C. Corbutt after T. Gainsborough.",
+      "sourceDescription": "<p>Half-length to left, wearing wig, facing front</p>",
+      "production": [
+        {
+          "label": "London (in Cornhill) : Printed for John Bowles ; [London] (in Fleet Street) : Robert Sayer ; [London] (in St Pauls Church Yard) : Carington Bowles, [between 1700 and 1799]",
+          "agents": [
+            {
+              "label": "Printed for John Bowles ;",
+              "type": "Agent"
+            },
+            {
+              "label": "Robert Sayer ;",
+              "type": "Agent"
+            },
+            {
+              "label": "Carington Bowles",
+              "type": "Agent"
+            }
+          ],
+          "dates": [
+            {
+              "label": "[between 1700 and 1799]",
+              "type": "Period"
+            }
+          ],
+          "function": {
+            "label": "Publication",
+            "type": "Concept"
+          },
+          "type": "ProductionEvent",
+          "places": [
+            {
+              "label": "London (in Cornhill)",
+              "type": "Place"
+            },
+            {
+              "label": "[London] (in Fleet Street)",
+              "type": "Place"
+            },
+            {
+              "label": "[London] (in St Pauls Church Yard)",
+              "type": "Place"
+            }
+          ]
+        }
+      ],
+      "contributors": [
+        {
+          "agent": {
+            "id": "bv84yrtj",
+            "label": "Thomas Gainsborough",
+            "type": "Person"
+          },
+          "roles": [],
+          "primary": true,
+          "type": "Contributor"
+        },
+        {
+          "agent": {
+            "id": "upshy2ut",
+            "label": "Corbutt, C. (Charles), approximately 1736-approximately 1765",
+            "type": "Person"
+          },
+          "roles": [],
+          "primary": false,
+          "type": "Contributor"
+        }
+      ],
+      "rights": {
+        "id": "pdm",
+        "type": "License",
+        "label": "Public Domain Mark",
+        "url": "https://creativecommons.org/share-your-work/public-domain/pdm/"
+      },
+      "receipt": "research/v18/world-batch-13/detail-jyukn8gt.json",
+      "targetRecords": [
+        {
+          "id": "battle-plassey",
+          "title": {
+            "en": "1757: Plassey and the Company's political power",
+            "zh": "1757年：普拉西战役与公司的政治权力"
+          },
+          "start": 1757,
+          "end": 1757,
+          "region": "south-asia",
+          "theme": "states",
+          "kind": "event",
+          "importance": 4,
+          "location": {
+            "lat": 23.8,
+            "lon": 88.25,
+            "label": "Palashi / Plassey; representative battlefield area"
+          },
+          "locationYear": 1757,
+          "locationPrecision": "representative",
+          "summary": {
+            "en": "At Plassey, the East India Company's army defeated Bengal's nawab Siraj-ud-Daulah. The outcome depended on political collusion as well as fighting: Mir Jafar, one of the nawab's commanders, had agreed with Company representatives and influential bankers to replace him. Indian soldiers formed a large part of the Company's force. The victory greatly increased the Company's leverage in Bengal, but it did not place all India under British rule in one day. Plassey reveals how a trading corporation became a territorial power through local alliances, military force and access to wealth.",
+            "zh": "普拉西战役中，东印度公司军队击败孟加拉纳瓦布西拉杰·乌德·达乌拉。结果不仅取决于战斗，还与政治合谋有关：纳瓦布的将领米尔·贾法尔已与公司代表及有影响力的银行家达成取代他的安排。公司军队本身也包含大量印度士兵。胜利大幅增强公司在孟加拉的影响力，却没有使整个印度在一天内归于英国。该事件展示贸易公司如何通过地方联盟、武力和财富取得领土权力。"
+          },
+          "dateNote": {
+            "en": "The battle took place on 23 June 1757. This is a battlefield event, not the beginning of uniform British sovereignty over the entire subcontinent.",
+            "zh": "战役发生于1757年6月23日。这是一次战场事件，不代表英国对整个次大陆的统一主权从当天开始。"
+          },
+          "keyFacts": {
+            "en": [
+              "The Company's army included Indian sepoys alongside European troops.",
+              "Mir Jafar's prior agreement to replace the nawab makes political alliance essential to explaining the result."
+            ],
+            "zh": [
+              "公司军队包括印度兵及欧洲军人。",
+              "米尔·贾法尔事先同意取代纳瓦布，政治联盟是解释战果的重要因素。"
+            ]
+          },
+          "sources": [
+            {
+              "title": "Battle of Plassey",
+              "url": "https://www.nam.ac.uk/explore/battle-plassey",
+              "publisher": "National Army Museum",
+              "evidenceNote": "Battle date, army composition, banking interests, Mir Jafar's agreement and consequences in Bengal.",
+              "checkedAt": "2026-10-23"
+            },
+            {
+              "title": "Plan of the Battle of Plassey, 1757",
+              "url": "https://collection.nam.ac.uk/detail.php?acc=1964-11-65-1",
+              "publisher": "National Army Museum",
+              "evidenceNote": "Contemporary battle-plan object; a military perspective to read alongside the political context.",
+              "checkedAt": "2026-10-23"
+            }
+          ],
+          "relatedIds": [
+            "mughal-empire",
+            "indian-rebellion-1857",
+            "crown-rule-india"
+          ],
+          "ongoing": false
+        }
+      ],
+      "relationship": {
+        "en": "The inscription turns Plassey into one of Clive’s titles and lists his offices in Bengal and the East India Company’s army. This is a portrait of imperial status, not a view of the battle. Read beside the entry’s account of Indian soldiers, Mir Jafar and bankers, it shows how a collective and negotiated victory could be attached to one British commander’s public identity.",
+        "zh": "题字把普拉西变成克莱武的头衔，并列出他在孟加拉和东印度公司军队中的职务。这是展示帝国地位的肖像，不是战场图。与条目中印度士兵、米尔·贾法尔和银行家的叙述并读，可看见一场依赖集体行动与政治协商的胜利，如何被归入一名英国统帅的公共形象。"
+      },
+      "visualReview": "Full native 719×1000 pixels inspected: wig, coat star, half-length pose; lower inscription explicitly includes Baron of Plassey and East India Company forces. No exact publication year inferred.",
+      "sha256": "1b3010c5a58cd054d3cc0a812852c0063866dd0f6041d1de9485ea3a33a2d466",
+      "bytes": 170013,
+      "width": 719,
+      "height": 1000
+    },
+    {
+      "assetId": "world-batch-13-a4n7r9v4",
+      "status": "candidate-admitted",
+      "recordIds": [
+        "royal-society-experiments"
+      ],
+      "sourceUrl": "https://wellcomecollection.org/works/a4n7r9v4",
+      "sourceTitle": "Francis Bacon and William Brouncker flanking a bust of King Charles II set on a pedestal, surrounded by symbols of scientific learning representing the Royal Society. Etching by W. Hollar, 1667, after J. Evelyn.",
+      "sourceDescription": null,
+      "production": [
+        {
+          "label": "1667",
+          "agents": [],
+          "dates": [
+            {
+              "label": "1667",
+              "type": "Period"
+            }
+          ],
+          "type": "ProductionEvent",
+          "places": [
+            {
+              "label": "England",
+              "type": "Place"
+            }
+          ]
+        }
+      ],
+      "contributors": [
+        {
+          "agent": {
+            "id": "guwebnhx",
+            "label": "John Evelyn",
+            "type": "Person"
+          },
+          "roles": [],
+          "primary": true,
+          "type": "Contributor"
+        },
+        {
+          "agent": {
+            "id": "grpnw8f2",
+            "label": "John Beale",
+            "type": "Person"
+          },
+          "roles": [],
+          "primary": false,
+          "type": "Contributor"
+        },
+        {
+          "agent": {
+            "id": "w62bmdw5",
+            "label": "Wenceslaus Hollar",
+            "type": "Person"
+          },
+          "roles": [],
+          "primary": false,
+          "type": "Contributor"
+        }
+      ],
+      "rights": {
+        "id": "cc-by",
+        "type": "License",
+        "label": "Attribution 4.0 International (CC BY 4.0)",
+        "url": "http://creativecommons.org/licenses/by/4.0/"
+      },
+      "receipt": "research/v18/world-batch-13/detail-a4n7r9v4.json",
+      "targetRecords": [
+        {
+          "id": "royal-society-experiments",
+          "title": {
+            "en": "The Royal Society: making experiments public",
+            "zh": "皇家学会：共同记录与讨论实验"
+          },
+          "start": 1660,
+          "end": 1662,
+          "location": {
+            "lat": 51.515,
+            "lon": -0.084,
+            "label": "London, near the original Gresham College site; representative meeting location"
+          },
+          "region": "europe",
+          "theme": "knowledge",
+          "summary": {
+            "en": "A group meeting after Christopher Wren’s lecture at Gresham College in November 1660 developed into the Royal Society, which received its first royal charter in 1662. Meeting minutes show a practical culture of demonstrations, observations and debate, ranging from air pressure to instruments and everyday materials. The members drew on earlier academies and exchanged information beyond London. Their records make it possible to study unsuccessful experiments and changing standards of evidence alongside celebrated discoveries. This was one institution within a wider history of knowledge, with membership shaped by contemporary social inequalities. Its foundation did not mean that reliable science began suddenly in one country.",
+            "zh": "1660年11月，克里斯托弗·雷恩在格雷沙姆学院演讲后的一次聚会，逐渐发展为皇家学会，并于1662年获得首份王室特许状。会议记录呈现了演示、观察和讨论的实践文化，内容涵盖气压、仪器与日常材料。成员借鉴较早的学术组织，并与伦敦以外的人交流信息。这些记录使人们能够在著名发现之外，研究失败的实验与不断变化的证据标准。皇家学会只是更广泛知识史中的一个机构，其成员构成受到当时社会不平等的影响。它的成立不意味着可靠科学突然在某一国家开始。"
+          },
+          "dateNote": {
+            "en": "The first meeting was 28 November 1660; the first charter followed in 1662. The window represents institutional formation, not the dates of every later experiment. The pin approximates the original Gresham College location.",
+            "zh": "首次聚会发生于1660年11月28日，首份特许状颁于1662年。此时段表示机构形成，不是每项后续实验的日期。点位近似标示原格雷沙姆学院所在地。"
+          },
+          "locationPrecision": "representative",
+          "sources": [
+            {
+              "title": "History of the Royal Society",
+              "url": "https://royalsociety.org/about-us/who-we-are/history/",
+              "publisher": "The Royal Society",
+              "evidenceNote": "Institutional history gives the November 1660 meeting, the 1662 charter and the early experimental and correspondence culture.",
+              "checkedAt": "2026-10-23"
+            },
+            {
+              "title": "On this day — the first Journal Book",
+              "url": "https://royalsociety.org/blog/2021/11/on-this-day/",
+              "publisher": "The Royal Society",
+              "evidenceNote": "Archive curator discusses primary meeting minutes, explicitly distinguishes 28 November 1660 from the later anniversary tradition and describes the founders’ debt to other academies.",
+              "checkedAt": "2026-10-23"
+            }
+          ],
+          "ongoing": false,
+          "kind": "event",
+          "importance": 3,
+          "keyFacts": {
+            "en": [
+              "Meeting minutes preserve experiments, debate and changing procedures.",
+              "The founders drew on earlier academies and wider correspondence networks."
+            ],
+            "zh": [
+              "会议记录保存了实验、争论和程序变化。",
+              "创办者借鉴较早学术组织，并依赖更广泛的通信网络。"
+            ]
+          },
+          "relatedIds": [
+            "galileo-telescope",
+            "watt-separate-condenser",
+            "world-wide-web"
+          ]
+        }
+      ],
+      "relationship": {
+        "en": "Books and measuring instruments surround the royal bust, with the Society’s president Brouncker on one side and Francis Bacon on the other. This 1667 allegory brings royal patronage, intellectual ancestry and practical investigation into one institutional image. Bacon had died before the Society’s foundation, so the assembly is symbolic rather than a record of a meeting or experiment.",
+        "zh": "书籍和测量仪器围绕王室胸像，学会会长布龙克与弗朗西斯·培根分列两侧。这幅1667年的寓意图把王室赞助、思想源流和实践研究组合成机构形象。培根在学会创立之前已经去世，因此画面是象征性聚合，而非某次聚会或实验的实录。"
+      },
+      "visualReview": "Full native 858×1000 derivative inspected: named Brouncker and Bacon, pedestal inscription to Charles II, winged figure, books and instruments. Etched date 1667 visible. CC BY item uses its catalogue-linked IIIF presentation manifest.",
+      "sha256": "89321be2f01609d2b2655f87060146ab250d4bfa6c3044199971b506bf2afddc",
+      "bytes": 492070,
+      "width": 858,
+      "height": 1000
+    }
+  ],
+  "copyManifest": [
+    {
+      "assetId": "world-batch-13-amj4m7pg",
+      "source": "research/v18/world-batch-13/images/amj4m7pg.jpg",
+      "destination": "dist/assets/history-media/world-batch-13-amj4m7pg.jpg",
+      "sha256": "30129dc4fde5b1e9297322fdea30d59abaeaa9eac24ed2347cb8b8b50ccd50f1",
+      "bytes": 286255,
+      "width": 1000,
+      "height": 746
+    },
+    {
+      "assetId": "world-batch-13-pkfqsqnh",
+      "source": "research/v18/world-batch-13/images/pkfqsqnh.jpg",
+      "destination": "dist/assets/history-media/world-batch-13-pkfqsqnh.jpg",
+      "sha256": "d0d1f1417aec356e0269f605137fce3318a93dc055ef6dbd9dbfc0dfd6c87861",
+      "bytes": 161897,
+      "width": 782,
+      "height": 1000
+    },
+    {
+      "assetId": "world-batch-13-jyukn8gt",
+      "source": "research/v18/world-batch-13/images/jyukn8gt.jpg",
+      "destination": "dist/assets/history-media/world-batch-13-jyukn8gt.jpg",
+      "sha256": "1b3010c5a58cd054d3cc0a812852c0063866dd0f6041d1de9485ea3a33a2d466",
+      "bytes": 170013,
+      "width": 719,
+      "height": 1000
+    },
+    {
+      "assetId": "world-batch-13-a4n7r9v4",
+      "source": "research/v18/world-batch-13/images/a4n7r9v4.jpg",
+      "destination": "dist/assets/history-media/world-batch-13-a4n7r9v4.jpg",
+      "sha256": "89321be2f01609d2b2655f87060146ab250d4bfa6c3044199971b506bf2afddc",
+      "bytes": 492070,
+      "width": 858,
+      "height": 1000
+    }
+  ],
+  "ownerAdmittedShard": {
+    "version": 2,
+    "reviewedAt": "2026-11-11",
+    "items": [
+      {
+        "id": "world-batch-13-amj4m7pg",
+        "file": "assets/history-media/world-batch-13-amj4m7pg.jpg",
+        "recordIds": [
+          "ptolemaic-egypt"
+        ],
+        "kind": "photograph",
+        "representation": "historical-photograph",
+        "title": {
+          "en": "Ptolemy III’s gateway at Karnak",
+          "zh": "卡尔纳克的托勒密三世门楼"
+        },
+        "alt": {
+          "en": "Ram sculptures line a sandy approach to a carved gateway, with several people standing in front.",
+          "zh": "公羊雕像排列在沙土通道两侧，前方雕刻门楼下站着数人。"
+        },
+        "caption": {
+          "en": "Pascal Sébah photographed the surviving gateway of Ptolemy III at Karnak around 1875.",
+          "zh": "帕斯卡尔·塞巴约于1875年拍摄卡尔纳克留存的托勒密三世门楼。"
+        },
+        "interpretation": {
+          "en": "Ram sculptures lead toward the carved gateway. Egyptian temple forms connect the dynasty to older religious institutions; the people and condition of the avenue belong to the much later photograph.",
+          "zh": "公羊雕像把视线引向雕刻门楼。埃及神庙形式将王朝与更古老的宗教制度相连；画中人物与通道的保存状况，则属于很久之后的拍摄时刻。"
+        },
+        "creator": "Pascal Sébah",
+        "date": "About 1875",
+        "institution": "Wellcome Collection",
+        "sourceUrl": "https://wellcomecollection.org/works/amj4m7pg",
+        "imageUrl": "https://iiif.wellcomecollection.org/image/V0038640/full/!1000,1000/0/default.jpg",
+        "downloadedFrom": "https://iiif.wellcomecollection.org/image/V0038640/full/!1000,1000/0/default.jpg",
+        "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/amj4m7pg?include=items,production,contributors",
+        "rights": {
+          "label": "Public Domain Mark",
+          "url": "https://creativecommons.org/share-your-work/public-domain/pdm/",
+          "note": {
+            "en": "Wellcome Collection marks this digital item Public Domain Mark. Credit: Wellcome Collection.",
+            "zh": "惠康收藏为此数字藏品标注公共领域标识。图像来源：惠康收藏。"
+          }
+        },
+        "transformation": {
+          "en": "Official IIIF derivative downloaded unchanged; no local crop, retouching or recolouring.",
+          "zh": "下载官方IIIF衍生图像，未作本地裁剪、修饰或改色。"
+        },
+        "contextSources": [
+          {
+            "title": {
+              "en": "Ptolemaic Period",
+              "zh": "延伸阅读：托勒密埃及：地中海王国"
+            },
+            "url": "https://egymonuments.gov.eg/historical-periods/ptolemaic-period/"
+          }
+        ],
+        "width": 1000,
+        "height": 746,
+        "bytes": 286255,
+        "sha256": "30129dc4fde5b1e9297322fdea30d59abaeaa9eac24ed2347cb8b8b50ccd50f1",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "id": "world-batch-13-pkfqsqnh",
+        "file": "assets/history-media/world-batch-13-pkfqsqnh.jpg",
+        "recordIds": [
+          "magna-carta"
+        ],
+        "kind": "portrait",
+        "representation": "historical-portrait",
+        "title": {
+          "en": "William IV holds Magna Carta",
+          "zh": "威廉四世手持《大宪章》"
+        },
+        "alt": {
+          "en": "William IV poses beneath drapery with a rolled document in his right hand and a star on his coat.",
+          "zh": "威廉四世在帷幕后摆姿，右手持卷轴，外套佩有星章。"
+        },
+        "caption": {
+          "en": "An 1830 mezzotint of William IV holding a scroll identified by the catalogue as Magna Carta.",
+          "zh": "1830年威廉四世美柔汀肖像版画；馆藏目录将其所持卷轴辨识为《大宪章》。"
+        },
+        "interpretation": {
+          "en": "A nineteenth-century king presents himself through a charter born of conflict with a medieval king. The document’s later symbolic authority becomes visible in the pose and scroll.",
+          "zh": "十九世纪国王借一份源自贵族与中世纪国王冲突的宪章塑造形象。姿态与卷轴呈现了这份文书后来获得的象征权威。"
+        },
+        "creator": "David Lucas, after Robert Bowyer; published by R. Bowyer & M. Parkes",
+        "date": "1830",
+        "institution": "Wellcome Collection",
+        "sourceUrl": "https://wellcomecollection.org/works/pkfqsqnh",
+        "imageUrl": "https://iiif.wellcomecollection.org/image/V0048374/full/!1000,1000/0/default.jpg",
+        "downloadedFrom": "https://iiif.wellcomecollection.org/image/V0048374/full/!1000,1000/0/default.jpg",
+        "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/pkfqsqnh?include=items,production,contributors",
+        "rights": {
+          "label": "Public Domain Mark",
+          "url": "https://creativecommons.org/share-your-work/public-domain/pdm/",
+          "note": {
+            "en": "Wellcome Collection marks this digital item Public Domain Mark. Credit: Wellcome Collection.",
+            "zh": "惠康收藏为此数字藏品标注公共领域标识。图像来源：惠康收藏。"
+          }
+        },
+        "transformation": {
+          "en": "Official IIIF derivative downloaded unchanged; no local crop, retouching or recolouring.",
+          "zh": "下载官方IIIF衍生图像，未作本地裁剪、修饰或改色。"
+        },
+        "contextSources": [
+          {
+            "title": {
+              "en": "Magna Carta: Enduring Legacy",
+              "zh": "延伸阅读：大宪章：围绕王权的协商"
+            },
+            "url": "https://www.archives.gov/exhibits/featured-documents/magna-carta/legacy.html"
+          }
+        ],
+        "width": 782,
+        "height": 1000,
+        "bytes": 161897,
+        "sha256": "d0d1f1417aec356e0269f605137fce3318a93dc055ef6dbd9dbfc0dfd6c87861",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "id": "world-batch-13-jyukn8gt",
+        "file": "assets/history-media/world-batch-13-jyukn8gt.jpg",
+        "recordIds": [
+          "battle-plassey"
+        ],
+        "kind": "portrait",
+        "representation": "historical-portrait",
+        "title": {
+          "en": "Clive styled “Baron of Plassey”",
+          "zh": "以“普拉西男爵”为名的克莱武"
+        },
+        "alt": {
+          "en": "A half-length portrait of Robert Clive bears a printed inscription naming him Baron of Plassey and commander of Company forces.",
+          "zh": "罗伯特·克莱武半身像下的题字称他为普拉西男爵及公司军队统帅。"
+        },
+        "caption": {
+          "en": "An eighteenth-century print after Gainsborough, inscribed with Clive’s title “Baron of Plassey” and his Company offices. Its exact year is unrecorded.",
+          "zh": "十八世纪依据庚斯博罗作品制作的版画，题记列克莱武“普拉西男爵”头衔及公司职务；具体年份未载。"
+        },
+        "interpretation": {
+          "en": "The inscription attaches the victory to one commander’s public identity. Compare that claim to status with the linked account of Indian soldiers, Mir Jafar and bankers.",
+          "zh": "题记把胜利归入一位统帅的公共形象。可将这种地位宣示，与关联条目中印度士兵、米尔·贾法尔和银行家的作用对照。"
+        },
+        "creator": "C. Corbutt, after Thomas Gainsborough; published by John Bowles, Robert Sayer and Carington Bowles",
+        "date": "Eighteenth century; catalogue range 1700–1799",
+        "institution": "Wellcome Collection",
+        "sourceUrl": "https://wellcomecollection.org/works/jyukn8gt",
+        "imageUrl": "https://iiif.wellcomecollection.org/image/L0040164/full/!1000,1000/0/default.jpg",
+        "downloadedFrom": "https://iiif.wellcomecollection.org/image/L0040164/full/!1000,1000/0/default.jpg",
+        "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/jyukn8gt?include=items,production,contributors",
+        "rights": {
+          "label": "Public Domain Mark",
+          "url": "https://creativecommons.org/share-your-work/public-domain/pdm/",
+          "note": {
+            "en": "Wellcome Collection marks this digital item Public Domain Mark. Credit: Wellcome Collection.",
+            "zh": "惠康收藏为此数字藏品标注公共领域标识。图像来源：惠康收藏。"
+          }
+        },
+        "transformation": {
+          "en": "Official IIIF derivative downloaded unchanged; no local crop, retouching or recolouring.",
+          "zh": "下载官方IIIF衍生图像，未作本地裁剪、修饰或改色。"
+        },
+        "contextSources": [
+          {
+            "title": {
+              "en": "Battle of Plassey",
+              "zh": "延伸阅读：1757年：普拉西战役与公司的政治权力"
+            },
+            "url": "https://www.nam.ac.uk/explore/battle-plassey"
+          }
+        ],
+        "width": 719,
+        "height": 1000,
+        "bytes": 170013,
+        "sha256": "1b3010c5a58cd054d3cc0a812852c0063866dd0f6041d1de9485ea3a33a2d466",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "id": "world-batch-13-a4n7r9v4",
+        "file": "assets/history-media/world-batch-13-a4n7r9v4.jpg",
+        "recordIds": [
+          "royal-society-experiments"
+        ],
+        "kind": "artwork",
+        "representation": "historical-artwork",
+        "title": {
+          "en": "Patronage and instruments in the Royal Society’s image",
+          "zh": "皇家学会图像中的赞助与仪器"
+        },
+        "alt": {
+          "en": "Brouncker and Bacon flank a bust of Charles II beneath a winged figure; books, globes and instruments fill the arches.",
+          "zh": "布龙克与培根分列查理二世胸像两旁，上方有带翼人物，拱门内布满书籍、地球仪与仪器。"
+        },
+        "caption": {
+          "en": "Hollar’s 1667 allegory, after Evelyn, places Brouncker and Francis Bacon beside Charles II’s bust. Bacon had died before the Society’s foundation.",
+          "zh": "霍拉尔1667年依据伊夫林设计的寓意图，将布龙克与弗朗西斯·培根置于查理二世胸像旁；培根在学会创立前已经去世。"
+        },
+        "interpretation": {
+          "en": "Books, globes and instruments surround royal authority. Their arrangement joins patronage, intellectual ancestry and practical investigation in a symbolic institutional portrait.",
+          "zh": "书籍、地球仪与仪器围绕王权形象排列，将赞助、思想源流与实践研究组合成象征性的机构肖像。"
+        },
+        "creator": "Wenceslaus Hollar, after John Evelyn",
+        "date": "1667",
+        "institution": "Wellcome Collection",
+        "sourceUrl": "https://wellcomecollection.org/works/a4n7r9v4",
+        "imageUrl": "https://iiif.wellcomecollection.org/image/b15436263_V0006674-LS-LS.jp2/full/!1000,1000/0/default.jpg",
+        "downloadedFrom": "https://iiif.wellcomecollection.org/image/b15436263_V0006674-LS-LS.jp2/full/!1000,1000/0/default.jpg",
+        "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/a4n7r9v4?include=items,production,contributors",
+        "rights": {
+          "label": "Attribution 4.0 International (CC BY 4.0)",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "Wellcome Collection marks this digital item CC BY 4.0. Credit: Wenceslaus Hollar, after John Evelyn / Wellcome Collection.",
+            "zh": "惠康收藏为此数字藏品标注CC BY 4.0。署名：文策斯劳斯·霍拉尔，依据约翰·伊夫林作品／惠康收藏。"
+          }
+        },
+        "transformation": {
+          "en": "Official IIIF derivative downloaded unchanged; no local crop, retouching or recolouring.",
+          "zh": "下载官方IIIF衍生图像，未作本地裁剪、修饰或改色。"
+        },
+        "contextSources": [
+          {
+            "title": {
+              "en": "History of the Royal Society",
+              "zh": "延伸阅读：皇家学会：共同记录与讨论实验"
+            },
+            "url": "https://royalsociety.org/about-us/who-we-are/history/"
+          }
+        ],
+        "width": 858,
+        "height": 1000,
+        "bytes": 492070,
+        "sha256": "89321be2f01609d2b2655f87060146ab250d4bfa6c3044199971b506bf2afddc",
+        "checkedAt": "2026-11-11"
+      }
+    ],
+    "associations": [
+      {
+        "assetId": "world-batch-13-amj4m7pg",
+        "recordId": "ptolemaic-egypt",
+        "role": "historical-context",
+        "context": {
+          "en": "Ram sculptures lead toward the carved gateway. Egyptian temple forms connect the dynasty to older religious institutions; the people and condition of the avenue belong to the much later photograph.",
+          "zh": "公羊雕像把视线引向雕刻门楼。埃及神庙形式将王朝与更古老的宗教制度相连；画中人物与通道的保存状况，则属于很久之后的拍摄时刻。"
+        },
+        "evidenceUrl": "https://wellcomecollection.org/works/amj4m7pg",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "assetId": "world-batch-13-pkfqsqnh",
+        "recordId": "magna-carta",
+        "role": "historical-context",
+        "context": {
+          "en": "A nineteenth-century king presents himself through a charter born of conflict with a medieval king. The document’s later symbolic authority becomes visible in the pose and scroll.",
+          "zh": "十九世纪国王借一份源自贵族与中世纪国王冲突的宪章塑造形象。姿态与卷轴呈现了这份文书后来获得的象征权威。"
+        },
+        "evidenceUrl": "https://wellcomecollection.org/works/pkfqsqnh",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "assetId": "world-batch-13-jyukn8gt",
+        "recordId": "battle-plassey",
+        "role": "named-person",
+        "context": {
+          "en": "The inscription attaches the victory to one commander’s public identity. Compare that claim to status with the linked account of Indian soldiers, Mir Jafar and bankers.",
+          "zh": "题记把胜利归入一位统帅的公共形象。可将这种地位宣示，与关联条目中印度士兵、米尔·贾法尔和银行家的作用对照。"
+        },
+        "evidenceUrl": "https://wellcomecollection.org/works/jyukn8gt",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "assetId": "world-batch-13-a4n7r9v4",
+        "recordId": "royal-society-experiments",
+        "role": "historical-context",
+        "context": {
+          "en": "Books, globes and instruments surround royal authority. Their arrangement joins patronage, intellectual ancestry and practical investigation in a symbolic institutional portrait.",
+          "zh": "书籍、地球仪与仪器围绕王权形象排列，将赞助、思想源流与实践研究组合成象征性的机构肖像。"
+        },
+        "evidenceUrl": "https://wellcomecollection.org/works/a4n7r9v4",
+        "checkedAt": "2026-11-11"
+      }
+    ]
+  }
+}

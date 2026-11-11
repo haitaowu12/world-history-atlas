@@ -2441,17 +2441,23 @@
       "sourceCount": 76
     }
   ],
+  "summaryEditsFile": "summary-edits-v18.json",
+  "summaryEdits": {
+    "bytes": 75685,
+    "sha256": "5a5f241282b770aab403af7c99f26db291cdeb38f4d9fcc8c28e4e76f9d9f3a9",
+    "records": 25
+  },
   "chinaReviewsFile": "china-visual-reviews-v18.json",
   "chinaVisualReviews": {
-    "bytes": 61825,
-    "sha256": "b6a68373bec94f4956a299233531605966841ecef978e06b1fd7685238e31edc",
-    "records": 22
+    "bytes": 98821,
+    "sha256": "f3ff768937f8b77181e5b4c6640a693a4f9cb1b04b006cecaeec534e2bf4b875",
+    "records": 37
   },
   "mediaLocalization": {
     "file": "history-media-localization-zh-v18.json",
-    "bytes": 147542,
-    "sha256": "e3a5864b4176ad8bf191b5be65b7b39bbe40d4b3387a460e3f12a47678f4fe5c",
-    "assets": 339
+    "bytes": 172757,
+    "sha256": "cd2918c7cd31adfeec64dd2e1c05790134f3e1015953a3904795d7bd1de35c1d",
+    "assets": 394
   },
   "visualExpansion": {
     "baselineManifest": "content-expansion-v17.json",
@@ -2535,8 +2541,8 @@
       },
       {
         "file": "visual-assets-china-batch-06-v18.json",
-        "bytes": 152966,
-        "sha256": "82e53d7b326d4822c27992cd6b33334c181c48d983d68633a1b620d802e24de4",
+        "bytes": 152956,
+        "sha256": "a7db18db81118b94b55b346a8a8a0cbcad5dd4863fac82dccb1257bd94ec8932",
         "assets": 39,
         "associations": 27
       },
@@ -2546,6 +2552,27 @@
         "sha256": "033a3f7c99fb5c49b8c966c0b9854f314116d9d4e0543b2f4478b5685b58ef16",
         "assets": 31,
         "associations": 50
+      },
+      {
+        "file": "visual-assets-china-batch-09-v18.json",
+        "bytes": 60170,
+        "sha256": "af345b3345cd5d48a1baf2edbbb8f343d045ae28db740acef250a7860d331d53",
+        "assets": 15,
+        "associations": 16
+      },
+      {
+        "file": "visual-assets-china-batch-10-v18.json",
+        "bytes": 42559,
+        "sha256": "c25254d11fdd9b6a222de660e83f873113350234e585984667fb655ce9f58381",
+        "assets": 12,
+        "associations": 12
+      },
+      {
+        "file": "visual-assets-china-batch-11-v18.json",
+        "bytes": 17908,
+        "sha256": "2c5010cfc1db268c3047d6b45d1c77f9f13e5fd2a6d054b22108c0759f108f33",
+        "assets": 4,
+        "associations": 7
       },
       {
         "file": "visual-assets-china-rebuild-01-v18.json",
@@ -2562,6 +2589,13 @@
         "associations": 29
       },
       {
+        "file": "visual-assets-corrected-links-05-v18.json",
+        "bytes": 2822,
+        "sha256": "95870eb40798c1ff7c67b7c8a595a72f0310fce7082851c854025eddafe34adb",
+        "assets": 0,
+        "associations": 5
+      },
+      {
         "file": "visual-assets-corrected-stories-02-v18.json",
         "bytes": 3850,
         "sha256": "97b0b60822b7701f1b7e213ba18ac2c081d6916f38599e421af97a1bbb0af54f",
@@ -2574,6 +2608,13 @@
         "sha256": "470f27cad575a4729c427b6fb44a47d2339c6bc21dcf8ea06737c4cbe9870d40",
         "assets": 0,
         "associations": 7
+      },
+      {
+        "file": "visual-assets-corrected-stories-04-v18.json",
+        "bytes": 2691,
+        "sha256": "a3240c985e91aae80a92d8088c592990d4cce05415b6a64f22aea2252e29c979",
+        "assets": 0,
+        "associations": 6
       },
       {
         "file": "visual-assets-existing-links-01-v18.json",
@@ -2609,6 +2650,20 @@
         "sha256": "e550249c703b4cd425e410ad533210980a604ac9414cad4028088c234f2bcf8f",
         "assets": 0,
         "associations": 5
+      },
+      {
+        "file": "visual-assets-existing-links-06-v18.json",
+        "bytes": 2523,
+        "sha256": "8b9ead9338ac2e392684b20dc4ac299f01c66263022de906967732c1888a6c12",
+        "assets": 0,
+        "associations": 4
+      },
+      {
+        "file": "visual-assets-existing-world-links-07-v18.json",
+        "bytes": 2110,
+        "sha256": "7f431206dd2e2b7b664276324551002929079eee7f83e1e2f296688606dbc31a",
+        "assets": 0,
+        "associations": 3
       },
       {
         "file": "visual-assets-world-batch-02-v18.json",
@@ -2658,11 +2713,39 @@
         "sha256": "5b35c08b37b35262da1d082a404755b7493266d8d21e5f66791bccb4a261fca2",
         "assets": 13,
         "associations": 13
+      },
+      {
+        "file": "visual-assets-world-batch-10-v18.json",
+        "bytes": 30429,
+        "sha256": "f353aff29d1c397e2ededd583c5e75e4f4953f85b3aa1cae90ea4129ce349704",
+        "assets": 9,
+        "associations": 9
+      },
+      {
+        "file": "visual-assets-world-batch-11-v18.json",
+        "bytes": 21771,
+        "sha256": "b5476f847147f531fbd2bf691508a5300b39412022f72d1aad0841bc0fc6c734",
+        "assets": 5,
+        "associations": 6
+      },
+      {
+        "file": "visual-assets-world-batch-12-v18.json",
+        "bytes": 21304,
+        "sha256": "43fcaae67c32925bfbdf432596ee36958669f287b1fbfc84a9ad2138a72ac74d",
+        "assets": 6,
+        "associations": 6
+      },
+      {
+        "file": "visual-assets-world-batch-13-v18.json",
+        "bytes": 14757,
+        "sha256": "0aa2ebb4e20cf1ea3bbd4521baa7e199dc0613e0c2956bf98d1a25c7ae6431b9",
+        "assets": 4,
+        "associations": 4
       }
     ],
     "coverageFile": "visual-coverage-v18.json",
-    "assets": 339,
-    "covered": 718,
+    "assets": 394,
+    "covered": 782,
     "total": 2087,
     "target": 1044
   }

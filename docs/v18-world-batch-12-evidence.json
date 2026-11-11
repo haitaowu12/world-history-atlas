@@ -1,0 +1,961 @@
+{
+  "reviewedAt": "2026-11-11",
+  "ownerReview": "All six admitted image pixels, full bilingual target narratives and source rights reviewed. Te Papa exact-media rights and Smithsonian image-specific CC0 retained; conflicting generic Smithsonian indexed restriction recorded. Later book/portrait dates and colonial viewpoints remain explicit. No claim of original church, donor or complete ownership chain.",
+  "ledger": [
+    {
+      "assetId": "world-batch-12-waitangi-account",
+      "sourceReceipt": "receipts/tepapa-226690.html",
+      "mediaId": "80627",
+      "relationship": {
+        "en": "The cover promises English and Māori treaty texts. Its claim to an authoritative history invites comparison with the differing texts and the perspectives of Māori signatories.",
+        "zh": "封面说明书中收录英文和毛利文条约。其权威历史的自我定位，应与文本差异及毛利签署者的视角对读。"
+      },
+      "provenanceLimit": "Museum credit and production statements retained in full source receipt. No complete pre-acquisition ownership history is asserted."
+    },
+    {
+      "assetId": "world-batch-12-tupou-portrait",
+      "sourceReceipt": "receipts/tepapa-18150.html",
+      "mediaId": "388724",
+      "relationship": {
+        "en": "The cane, chair and formal coat stage royal presence in a domestic setting. The constitution reshaped institutions while retaining the king’s central authority.",
+        "zh": "手杖、椅子与正式外衣，在居住环境中呈现王者身份。宪法改造制度的同时，保留了国王的核心权威。"
+      },
+      "provenanceLimit": "Museum credit and production statements retained in full source receipt. No complete pre-acquisition ownership history is asserted."
+    },
+    {
+      "assetId": "world-batch-12-waikato-camp",
+      "sourceReceipt": "receipts/tepapa-1416740.html",
+      "mediaId": "338382",
+      "relationship": {
+        "en": "Tents and tracks make military occupation visible. The distant view does not show Māori experiences of the invasion or establish that the surrounding land was empty.",
+        "zh": "帐篷与道路使军事占领可见。远景没有呈现毛利人的被侵略经历，也不能证明周围土地原本无人居住。"
+      },
+      "provenanceLimit": "Museum credit and production statements retained in full source receipt. No complete pre-acquisition ownership history is asserted."
+    },
+    {
+      "assetId": "world-batch-12-mau-leaflet",
+      "sourceReceipt": "receipts/tepapa-1389720.html",
+      "mediaId": "327489",
+      "relationship": {
+        "en": "The official crest and numbered assertions turn print into an instrument of colonial authority. These are the administration’s accusations, not an impartial account of the movement.",
+        "zh": "官方纹章与编号论断，使印刷品成为殖民权力工具。这些是当局的指责，而非对运动的中立叙述。"
+      },
+      "provenanceLimit": "Museum credit and production statements retained in full source receipt. No complete pre-acquisition ownership history is asserted."
+    },
+    {
+      "assetId": "world-batch-12-ethiopian-cross",
+      "sourceReceipt": "receipts/nmafa-33.jsonl",
+      "recordId": "nmafa_97-19-1",
+      "mediaId": "NMAfA-D20000673",
+      "objectRights": [
+        {
+          "label": "Restrictions & Rights",
+          "content": "CC0"
+        }
+      ],
+      "imageUsage": {
+        "access": "CC0"
+      },
+      "provenance": [
+        "Unknown artist, Ethiopia; acquired by unknown antiquities dealer, Addis Ababa, Ethiopia; sold to Rémy Audouin, Paris, 1980 [1]; sold to the National Museum of African Art, Washington, D.C., 1997.",
+        "[1] Exported with approval by the National Museum of Ethiopia, September 19, 1980. See accession files, National Museum of African Art, Washington, D.C."
+      ],
+      "provenanceLimit": "Original workshop and early ownership chain are not established. Cross export approval dated 1980 is catalogued; this is not proof of every prior transfer."
+    },
+    {
+      "assetId": "world-batch-12-ethiopian-manuscript",
+      "sourceReceipt": "receipts/nmafa-20.jsonl",
+      "recordId": "nmafa_2004-7-7",
+      "mediaId": "NMAfA-D20100137-000002",
+      "objectRights": [
+        {
+          "label": "Restrictions & Rights",
+          "content": "CC0"
+        }
+      ],
+      "imageUsage": {
+        "access": "CC0"
+      },
+      "provenance": [
+        "Joseph and Patricia Brumit, Sun City West, -- to 2004"
+      ],
+      "provenanceLimit": "The museum explicitly avoids encouraging manuscript dismemberment; this historic fragment was an exception. Provenance before the Brumit collection is not given."
+    }
+  ],
+  "smithsonianSelectedRecords": [
+    {
+      "recordId": "nmafa_97-19-1",
+      "url": "edanmdm:nmafa_97-19-1",
+      "objectRights": [
+        {
+          "label": "Restrictions & Rights",
+          "content": "CC0"
+        }
+      ],
+      "date": [
+        {
+          "label": "Date",
+          "content": "14th-15th century"
+        }
+      ],
+      "indexedRights": [
+        "Copyright protected/restricted"
+      ],
+      "selectedImage": {
+        "id": "media:NMAfA-D20000673",
+        "guid": "http://n2t.net/ark:/65665/vg4973536d1-2679-4741-aa69-b084607d585f",
+        "type": "Images",
+        "idsId": "NMAfA-D20000673",
+        "usage": {
+          "access": "CC0"
+        },
+        "width": 1004,
+        "height": 1280,
+        "content": "https://ids.si.edu/ids/deliveryService?id=NMAfA-D20000673",
+        "maxsize": 3000,
+        "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NMAfA-D20000673",
+        "altTextAccessibility": "Ethiopian Orthodox",
+        "extDescrAccessibility": "Copper alloy H x W x D: 30.9 x 23.2 x 2.5 cm (12 3/16 x 9 1/8 x 1 in.) Cast copper alloy cross with a central four-cross openwork design encircled by openwork triangular patterns.  A hollow tubular shaft would have fit over the end of a pole to be carried aloft during religious processionals.",
+        "resources": [
+          {
+            "label": "High-resolution JPEG",
+            "url": "https://ids.si.edu/ids/download?id=NMAfA-D20000673.jpg",
+            "width": 1177,
+            "height": 1500,
+            "dimensions": "1177x1500"
+          },
+          {
+            "label": "Screen Image",
+            "url": "https://ids.si.edu/ids/download?id=NMAfA-D20000673_screen"
+          },
+          {
+            "label": "Thumbnail Image",
+            "url": "https://ids.si.edu/ids/download?id=NMAfA-D20000673_thumb"
+          }
+        ]
+      },
+      "description": [
+        {
+          "label": "Description",
+          "content": "Cast copper alloy cross with a central four-cross openwork design encircled by openwork triangular patterns. A hollow tubular shaft would have fit over the end of a pole to be carried aloft during religious processionals."
+        },
+        {
+          "label": "Provenance",
+          "content": "Unknown artist, Ethiopia; acquired by unknown antiquities dealer, Addis Ababa, Ethiopia; sold to Rémy Audouin, Paris, 1980 [1]; sold to the National Museum of African Art, Washington, D.C., 1997."
+        },
+        {
+          "label": "Provenance",
+          "content": "[1] Exported with approval by the National Museum of Ethiopia, September 19, 1980. See accession files, National Museum of African Art, Washington, D.C."
+        }
+      ]
+    },
+    {
+      "recordId": "nmafa_2004-7-7",
+      "url": "edanmdm:nmafa_2004-7-7",
+      "objectRights": [
+        {
+          "label": "Restrictions & Rights",
+          "content": "CC0"
+        }
+      ],
+      "date": [
+        {
+          "label": "Date",
+          "content": "15th century"
+        }
+      ],
+      "indexedRights": [
+        "Copyright protected/restricted"
+      ],
+      "selectedImage": {
+        "id": "media:NMAfA-D20100137-000002",
+        "guid": "http://n2t.net/ark:/65665/vg49c60d1a5-0ac1-4a47-a4a4-e3fb3f197ea7",
+        "type": "Images",
+        "idsId": "NMAfA-D20100137-000002",
+        "usage": {
+          "access": "CC0"
+        },
+        "width": 2348,
+        "height": 2880,
+        "content": "https://ids.si.edu/ids/deliveryService?id=NMAfA-D20100137-000002",
+        "maxsize": 3000,
+        "thumbnail": "https://ids.si.edu/ids/deliveryService?id=NMAfA-D20100137-000002",
+        "altTextAccessibility": "Ethiopian Orthodox",
+        "extDescrAccessibility": "Parchment, pigment H x W x D: 26 x 19.5 cm (10 1/4 x 7 11/16 in.) Painting on vellum of a man playing an Ethiopian box lute,  in a 3/4 pose, wearing a red robe. The headtie and cloak are orange with yellow folds. The hair and beard are white with black lines and he is wearing a rod earring.",
+        "resources": [
+          {
+            "label": "High-resolution JPEG",
+            "url": "https://ids.si.edu/ids/download?id=NMAfA-D20100137-000002.jpg",
+            "width": 2446,
+            "height": 3000,
+            "dimensions": "2446x3000"
+          },
+          {
+            "label": "Screen Image",
+            "url": "https://ids.si.edu/ids/download?id=NMAfA-D20100137-000002_screen"
+          },
+          {
+            "label": "Thumbnail Image",
+            "url": "https://ids.si.edu/ids/download?id=NMAfA-D20100137-000002_thumb"
+          }
+        ]
+      },
+      "description": [
+        {
+          "label": "Description",
+          "content": "Painting on vellum of a man playing an Ethiopian box lute, in a 3/4 pose, wearing a red robe. The headtie and cloak are orange with yellow folds. The hair and beard are white with black lines and he is wearing a rod earring."
+        },
+        {
+          "label": "Provenance",
+          "content": "Joseph and Patricia Brumit, Sun City West, -- to 2004"
+        }
+      ]
+    }
+  ],
+  "targetNarratives": [
+    {
+      "id": "treaty-waitangi",
+      "title": {
+        "en": "Waitangi: an agreement with different meanings",
+        "zh": "怀唐伊：含义不同的条约"
+      },
+      "start": 1840,
+      "end": 1840,
+      "region": "oceania",
+      "theme": "states",
+      "kind": "event",
+      "importance": 5,
+      "location": {
+        "lat": -35.27,
+        "lon": 174.08,
+        "label": "Waitangi"
+      },
+      "locationPrecision": "representative",
+      "summary": {
+        "en": "Te Tiriti o Waitangi was negotiated between Māori rangatira and representatives of the British Crown amid expanding settlement. Most signatories signed the Māori text, whose language about governance and chiefly authority differed significantly from the English version’s statement about sovereignty. Some leaders signed after debate, while others refused or had no opportunity. These differences matter to understanding later conflict over land and authority; the treaty cannot be treated as an uncomplicated surrender of a single unified Māori sovereignty. Its texts and the promises surrounding them became central evidence in continuing arguments about the relationship between Māori and the Crown.",
+        "zh": "欧洲移民扩张之际，毛利首领与英国王室代表协商《怀唐伊条约》。多数签署者签的是毛利文本，其中治理权与首领权威的表述，与英文“主权”存在重要差异。有些首领讨论后签署，另一些拒绝或没有机会。理解后来的土地与权力冲突，必须重视这些差异，不能把条约当成毛利人简单统一地交出主权。文本及相关承诺持续成为毛利人与王室关系争论的依据。"
+      },
+      "dateNote": {
+        "en": "First signed on 6 February 1840; signatures were collected elsewhere during the following months. The two language texts are not equivalent.",
+        "zh": "首次签署于1840年2月6日，随后数月各地继续签署；两种语言文本并不等义。"
+      },
+      "sources": [
+        {
+          "title": "The Treaty in brief",
+          "url": "https://nzhistory.govt.nz/politics/treaty/the-treaty-in-brief",
+          "publisher": "Manatū Taonga — Ministry for Culture and Heritage",
+          "checkedAt": "2026-10-22",
+          "evidenceNote": "First signed on 6 February 1840; signatures were collected elsewhere during the following months. The two language texts are not equivalent."
+        }
+      ]
+    },
+    {
+      "id": "new-zealand-wars",
+      "title": {
+        "en": "The New Zealand Wars: land and sovereignty",
+        "zh": "新西兰战争：土地与主权"
+      },
+      "start": 1845,
+      "end": 1872,
+      "region": "oceania",
+      "theme": "states",
+      "kind": "event",
+      "importance": 4,
+      "location": {
+        "lat": -37.79,
+        "lon": 175.28,
+        "label": "Waikato, one major theatre"
+      },
+      "locationPrecision": "representative",
+      "summary": {
+        "en": "British and colonial forces fought a series of conflicts with Māori communities over authority and the expansion of settlement. Māori defended land and political autonomy, but alliances did not divide neatly along ethnic lines: other Māori communities supported the Crown for their own reasons. Fighting moved between regions and took different forms rather than constituting one continuous campaign. Deaths and subsequent confiscations caused lasting damage to many communities. The wars show why colonial histories require attention to local decisions and competing claims, and why the signing of a treaty did not by itself settle questions of sovereignty.",
+        "zh": "英国与殖民地军队因统治权和移民扩张，与毛利社会展开一系列战争。毛利人保卫土地与自治，但阵营并非完全按族群划分，另有毛利群体基于自身理由支持王室。战争发生于不同地区、形式各异，并非一场连续战役。伤亡和随后的土地没收对许多社区造成长久破坏。殖民史必须关注地方选择与不同权利主张，签署条约本身并未解决主权问题。"
+      },
+      "dateNote": {
+        "en": "1845–1872 covers the main sequence conventionally grouped as the New Zealand Wars; coercion and resistance continued afterward.",
+        "zh": "1845—1872年指通常归入新西兰战争的主要阶段；其后强制行动与抵抗仍在持续。"
+      },
+      "sources": [
+        {
+          "title": "New Zealand’s 19th-century wars",
+          "url": "https://nzhistory.govt.nz/war/new-zealands-19th-century-wars/introduction",
+          "publisher": "Manatū Taonga — Ministry for Culture and Heritage",
+          "checkedAt": "2026-10-22",
+          "evidenceNote": "1845–1872 covers the main sequence conventionally grouped as the New Zealand Wars; coercion and resistance continued afterward."
+        },
+        {
+          "title": "New Zealand Wars timeline",
+          "url": "https://nzhistory.govt.nz/war/new-zealands-19th-century-wars/nzwars-timeline",
+          "publisher": "Manatū Taonga — Ministry for Culture and Heritage",
+          "checkedAt": "2026-10-22",
+          "evidenceNote": "1845–1872 covers the main sequence conventionally grouped as the New Zealand Wars; coercion and resistance continued afterward."
+        }
+      ]
+    },
+    {
+      "id": "tonga-constitution",
+      "title": {
+        "en": "1875: Tonga defines a constitutional kingdom",
+        "zh": "1875：汤加建立宪制王国"
+      },
+      "start": 1875,
+      "end": 1875,
+      "region": "oceania",
+      "theme": "states",
+      "kind": "event",
+      "importance": 4,
+      "location": {
+        "lat": -21.14,
+        "lon": -175.2,
+        "label": "Nukuʻalofa"
+      },
+      "locationPrecision": "representative",
+      "summary": {
+        "en": "King George Tupou I’s constitution and the creation of a parliament helped define Tonga as a unified kingdom in an era of expanding foreign power. The arrangements combined existing chiefly relationships with selected constitutional ideas, including a Hawaiian model sent to the king. Parliament included government officials, nobles and elected representatives, and received powers over taxation and legislation. This was not modern equal participation: royal and chiefly authority remained central. Tonga’s choices show Pacific leaders adapting institutions to strengthen sovereignty, while also reshaping political relationships within their own society. Constitutional borrowing was an active political strategy.",
+        "zh": "乔治·图普一世颁布宪法并建立议会，在外来势力扩张时代强化统一王国。制度结合原有酋长关系与选择吸收的宪政观念，其中包括送到国王手中的夏威夷宪法。议会由政府官员、贵族和民选代表组成，拥有税收与立法权限，但并非现代平等参与，王权与贵族权力仍居核心。汤加展现太平洋领导人主动改造制度、维护主权并重组内部关系的策略。"
+      },
+      "dateNote": {
+        "en": "The constitution was granted on 4 November 1875; parliament had opened in September to discuss the proposed settlement.",
+        "zh": "宪法于1875年11月4日颁布；议会已于9月开会讨论拟议制度。"
+      },
+      "sources": [
+        {
+          "title": "History of the Tongan Parliament",
+          "url": "https://parliament.gov.to/en/about-parliament/history",
+          "publisher": "Legislative Assembly of Tonga",
+          "checkedAt": "2026-10-22",
+          "evidenceNote": "The constitution was granted on 4 November 1875; parliament had opened in September to discuss the proposed settlement."
+        },
+        {
+          "title": "Tonga 1875 Constitution, revised 2013",
+          "url": "https://www.constituteproject.org/constitution/Tonga_2013?lang=en",
+          "publisher": "Constitute / Comparative Constitutions Project",
+          "checkedAt": "2026-10-22",
+          "evidenceNote": "The constitution was granted on 4 November 1875; parliament had opened in September to discuss the proposed settlement."
+        }
+      ]
+    },
+    {
+      "id": "samoa-mau-independence",
+      "title": {
+        "en": "Samoa: the Mau and the path to independence",
+        "zh": "萨摩亚：马乌运动与独立之路"
+      },
+      "start": 1926,
+      "end": 1962,
+      "region": "oceania",
+      "theme": "states",
+      "kind": "event",
+      "importance": 4,
+      "location": {
+        "lat": -13.83,
+        "lon": -171.77,
+        "label": "Apia"
+      },
+      "locationPrecision": "representative",
+      "summary": {
+        "en": "The Mau movement organized resistance to New Zealand’s administration through public meetings, newspapers and widespread noncooperation. Samoans refused taxes and official institutions while asserting their right to govern their own affairs. Colonial repression did not extinguish these demands. Recognition of the Mau as a legitimate political organization in 1936 was an important change, but self-government emerged slowly. After the Second World War, international decolonization and United Nations pressure joined Samoan political efforts in the path toward independence. The history restores Pacific Islanders as political organizers whose decisions shaped the end of colonial rule.",
+        "zh": "马乌运动通过集会、报纸和广泛不合作反抗新西兰管治。萨摩亚人拒缴税款、抵制官方机构，主张自己治理事务。殖民镇压没有消除这些诉求。1936年马乌获承认为合法政治组织，但自治进展仍缓慢。二战后，全球去殖民化与联合国压力同萨摩亚人的政治努力共同推动独立。这段历史呈现太平洋岛民作为组织者与决策者的主体地位。"
+      },
+      "dateNote": {
+        "en": "1926 marks organizing meetings that preceded the Mau’s formal organization in 1927; Western Samoa became independent on 1 January 1962.",
+        "zh": "1926年指马乌正式成立前的组织集会，1927年形成组织；西萨摩亚于1962年1月1日独立。"
+      },
+      "sources": [
+        {
+          "title": "The rise of the Mau movement",
+          "url": "https://nzhistory.govt.nz/politics/samoa/rise-of-mau",
+          "publisher": "Manatū Taonga — Ministry for Culture and Heritage",
+          "checkedAt": "2026-10-22",
+          "evidenceNote": "1926 marks organizing meetings that preceded the Mau’s formal organization in 1927; Western Samoa became independent on 1 January 1962."
+        },
+        {
+          "title": "Towards independence",
+          "url": "https://nzhistory.govt.nz/page/towards-independence",
+          "publisher": "Manatū Taonga — Ministry for Culture and Heritage",
+          "checkedAt": "2026-10-22",
+          "evidenceNote": "1926 marks organizing meetings that preceded the Mau’s formal organization in 1927; Western Samoa became independent on 1 January 1962."
+        }
+      ]
+    },
+    {
+      "id": "ethiopia-early-solomonic",
+      "title": {
+        "en": "Early Solomonic Ethiopia: legitimacy, churches and exchange",
+        "zh": "埃塞俄比亚早期所罗门王朝：合法性、教会与交流"
+      },
+      "start": 1270,
+      "end": 1530,
+      "region": "africa",
+      "kind": "polity",
+      "theme": "states",
+      "importance": 4,
+      "location": {
+        "lat": 11.85,
+        "lon": 38.95,
+        "label": "Amhara/Lasta region; representative highland reference"
+      },
+      "locationPrecision": "representative",
+      "summary": {
+        "en": "Yekuno Amlak’s overthrow of the Zagwe dynasty in 1270 marks the conventional beginning of the Early Solomonic period. Rulers claimed descent from the ancient Aksumite line and the biblical union of Solomon and the Queen of Sheba. This was a powerful claim of legitimacy, not a genealogy independently demonstrated by modern historical evidence.\n\nRoyal authority developed through relationships with monasteries, church patronage and regional communities. Manuscripts, painted churches and precious furnishings expressed piety while also making political prestige visible. Trade and contacts beyond the highlands placed this history within the Red Sea and wider regional world. The selected period links the Aksum and Lalibela entries to later Ethiopian history without implying one unchanged capital or frontier. Studying the kingdom alongside Harar also makes room for neighboring Muslim urban histories rather than presenting the Horn as a single religious or political landscape.",
+        "zh": "叶库诺·阿姆拉克于1270年推翻扎格维王朝，通常被视作早期所罗门时期的开始。统治者声称继承古阿克苏姆王系，并追溯至《圣经》中所罗门与示巴女王的结合。这是有力的合法性主张，并非现代历史证据已独立证明的族谱。\n\n王权通过与修道院、教会资助及区域社区的关系发展。抄本、彩绘教堂和珍贵陈设既表达虔敬，也展示政治威望。高地以外的贸易和交往将这段历史置于红海及更广的区域世界。本条把阿克苏姆、拉利贝拉与后来的埃塞俄比亚历史相连，不暗示首都或边疆始终相同。与哈勒尔并读，也能纳入邻近穆斯林城市史，而不把非洲之角描绘为单一宗教或政治景观。"
+      },
+      "dateNote": {
+        "en": "1270–1530 follows the Met’s Early Solomonic period convention, not the entire dynasty’s duration. The coordinate marks a broad highland context.",
+        "zh": "1270—1530年采用大都会“早期所罗门时期”的分期，并非整个王朝存续；坐标为宽泛高地背景。"
+      },
+      "sources": [
+        {
+          "title": "African Christianity in Ethiopia",
+          "url": "https://www.metmuseum.org/essays/african-christianity-in-ethiopia",
+          "publisher": "The Metropolitan Museum of Art",
+          "evidenceNote": "Early Solomonic period 1270–1530; asserted Solomonic ancestry is a legitimacy claim; royal/monastic patronage and exchange.",
+          "checkedAt": "2026-10-23",
+          "retrieval": "inspected-text"
+        },
+        {
+          "title": "The Rock-hewn Churches of Lalibela",
+          "url": "https://www.metmuseum.org/essays/the-rock-hewn-churches-of-lalibela",
+          "publisher": "The Metropolitan Museum of Art",
+          "evidenceNote": "Indexed scholarly essay on holy geography, patronage and architectural interpretation.",
+          "checkedAt": "2026-10-23",
+          "retrieval": "indexed-text"
+        }
+      ],
+      "keyFacts": {
+        "en": [
+          "Yekuno Amlak’s overthrow of the Zagwe dynasty in 1270 marks the conventional beginning of the Early Solomonic period.",
+          "Rulers claimed descent from the ancient Aksumite line and the biblical union of Solomon and the Queen of Sheba."
+        ],
+        "zh": [
+          "叶库诺·阿姆拉克于1270年推翻扎格维王朝，通常被视作早期所罗门时期的开始。",
+          "统治者声称继承古阿克苏姆王系，并追溯至《圣经》中所罗门与示巴女王的结合。"
+        ]
+      },
+      "relatedIds": [
+        "aksum",
+        "lalibela-rock-hewn-churches",
+        "gondar-permanent-capital",
+        "harar-urban-world"
+      ],
+      "expansion": {
+        "workstreams": [
+          "AF3"
+        ],
+        "release": 2,
+        "sourceReview": "mixed-access-synthesis",
+        "reviewLimit": {
+          "en": "This synthesis combines inspected institutional text with indexed scholarly material. Source-level retrieval notes identify access limits; a second URL is not always independent corroboration.",
+          "zh": "本综合结合已阅读的机构正文与学术索引材料。各来源的取得说明列出限制；第二个网址并不总是独立佐证。"
+        }
+      },
+      "countryGroup": "ethiopian-highlands",
+      "timeline": {
+        "level": "major",
+        "label": {
+          "en": "Early Solomonic Ethiopia",
+          "zh": "埃塞俄比亚早期所罗门王朝"
+        }
+      }
+    }
+  ],
+  "held": [
+    {
+      "candidate": "Smithsonian exact object nmnhanthropology_8552873",
+      "sourceUrl": "https://www.si.edu/object/nmnhanthropology_8552873",
+      "status": "blocked",
+      "reason": "Direct object page returned HTTP 403. No retry, mirror, or alternate-route retrieval of this object was attempted. Search excerpts alone were not used to approve image reuse."
+    },
+    {
+      "candidate": "Smithsonian African Art bulk scan",
+      "status": "partial-source-failure",
+      "reason": "Sequential bounded scan stopped at first transient 503. Later separate range stopped at another 503. No failed bucket was retried; only successfully returned bulk records were considered. Retrieved buckets represent 0–6 and 8–59, not a complete collection."
+    },
+    {
+      "candidate": "Lauaki Namulau‘ulu Mamoe, Te Papa 112969",
+      "sourceUrl": "https://collections.tepapa.govt.nz/object/112969",
+      "status": "held-relevance",
+      "reason": "Portrait and No Known Copyright Restrictions verified, but c.1909 portrait predates the entry’s specific 1926–1962 Mau organizing focus. The actual 1930 suppression leaflet is a better direct match. Not attached to the distinct 1962–2022 fa‘amatai diaspora narrative."
+    },
+    {
+      "candidate": "Te Papa 331, Samoa Scrapbook and Album",
+      "sourceUrl": "https://collections.tepapa.govt.nz/object/331",
+      "status": "held-no-image",
+      "reason": "Directly relevant 1919 commission collection, but retrieved parent record supplies no image media to admit."
+    },
+    {
+      "candidate": "Te Papa 1314343, Hoisting the Union Jack",
+      "sourceUrl": "https://collections.tepapa.govt.nz/object/1314343",
+      "status": "held-relevance",
+      "reason": "1914 colonial annexation postcard is not an image of the 1918 epidemic or the 1926 onward Mau movement. No regional substitution."
+    },
+    {
+      "candidate": "Te Papa 944949, Sextant",
+      "sourceUrl": "https://collections.tepapa.govt.nz/object/944949",
+      "status": "held-rights-and-relevance",
+      "reason": "All Rights Reserved and unrelated to selected core events."
+    },
+    {
+      "candidate": "Te Papa Lapita sherds 83813, 83815, 91902",
+      "status": "held-rights",
+      "reason": "Official indexed object records explicitly state All Rights Reserved with copyright holder being sought. No images downloaded."
+    },
+    {
+      "candidate": "Te Papa ngatu 329697",
+      "status": "held-rights",
+      "reason": "Actual bilingual Atlas narrative already explicitly records image rights-reserved. No rights-cleared substitute cloth was used for the named 1983 family object."
+    },
+    {
+      "candidate": "Smithsonian nmafa_89-8-34 Beer straw",
+      "status": "held-relevance",
+      "reason": "Historical Ganda artifact is not itself evidence for the named barkcloth craft or court-political narrative."
+    },
+    {
+      "candidate": "Smithsonian nmafa_69-4-1 Headrest",
+      "status": "held-relevance",
+      "reason": "Tellem headrest does not document Djenné-Djeno urbanism or the targeted political histories."
+    },
+    {
+      "candidate": "Smithsonian nmafa_74-20-1 Tusk",
+      "status": "held-relevance",
+      "reason": "Kongo material is not interchangeable with Luba, Kuba or other political networks."
+    },
+    {
+      "candidate": "Smithsonian Ethiopian icons nmafa_73-24-1 and nmafa_94-21-1",
+      "status": "held-specificity",
+      "reason": "A period-matching Ethiopian icon cannot independently document the named Gondar royal capital without a specific site or workshop connection."
+    },
+    {
+      "candidate": "Smithsonian nmafa_91-20-1 Mahdi flag",
+      "status": "held-relevance",
+      "reason": "Excellent identifiable historical object, but no matching uncovered Mahdist narrative identified in the assigned target set; not relabeled to a generic African imperialism entry."
+    },
+    {
+      "candidate": "Te Papa 1416740 verso 338381",
+      "status": "held-image-choice",
+      "reason": "Preview is pasted newspaper clippings on reverse, not the camp photograph. Front 338382 selected after full image inspection."
+    }
+  ],
+  "copyManifest": [
+    {
+      "source": "research/v18/world-batch-12/assets/world-batch-12-waitangi-account.jpg",
+      "destination": "assets/history-media/world-batch-12-waitangi-account.jpg",
+      "sha256": "265f9fd7732d508f599c6dd835e5622f9f3ee99661ab7852cb378d0e7856d0ba",
+      "bytes": 149154
+    },
+    {
+      "source": "research/v18/world-batch-12/assets/world-batch-12-tupou-portrait.jpg",
+      "destination": "assets/history-media/world-batch-12-tupou-portrait.jpg",
+      "sha256": "1f47184334f8fa776cae021d1894676a074c2f08d9d10d92ad3ddd4d64f58baf",
+      "bytes": 140260
+    },
+    {
+      "source": "research/v18/world-batch-12/assets/world-batch-12-waikato-camp.jpg",
+      "destination": "assets/history-media/world-batch-12-waikato-camp.jpg",
+      "sha256": "1b11305c4570481843e735c45d4846878b7ac9d4ebd53e75191e17bb38be5a0e",
+      "bytes": 83128
+    },
+    {
+      "source": "research/v18/world-batch-12/assets/world-batch-12-mau-leaflet.jpg",
+      "destination": "assets/history-media/world-batch-12-mau-leaflet.jpg",
+      "sha256": "544d8f83c5201f2a47ee6ef60d6210e2ad7931ea08f3f3ef72097d9f0a1bbfcc",
+      "bytes": 72200
+    },
+    {
+      "source": "research/v18/world-batch-12/assets/world-batch-12-ethiopian-cross.jpg",
+      "destination": "assets/history-media/world-batch-12-ethiopian-cross.jpg",
+      "sha256": "54a631a5720ff431d443f93006db9ab5547a03d659b4463ee50bcb3fb41a1573",
+      "bytes": 142535
+    },
+    {
+      "source": "research/v18/world-batch-12/assets/world-batch-12-ethiopian-manuscript.jpg",
+      "destination": "assets/history-media/world-batch-12-ethiopian-manuscript.jpg",
+      "sha256": "08731d240f773460f63a05ee4392facdfd508fcd23d2d71846176c7c6e40743a",
+      "bytes": 251329
+    }
+  ],
+  "ownerAdmittedShard": {
+    "version": 2,
+    "reviewedAt": "2026-11-11",
+    "policy": {
+      "admission": "Exact named subjects and directly relevant material practices; source-served unchanged imagery with specific rights and limitations.",
+      "sourceReceipts": "research/v18/world-batch-12/source-rights-ledger.json"
+    },
+    "items": [
+      {
+        "id": "world-batch-12-waitangi-account",
+        "recordIds": [
+          "treaty-waitangi"
+        ],
+        "kind": "document",
+        "representation": "document-facsimile",
+        "title": {
+          "en": "A later account of Waitangi",
+          "zh": "后来的怀唐伊签署记述"
+        },
+        "alt": {
+          "en": "A worn blue pamphlet cover names William Colenso and the signing of the Treaty of Waitangi.",
+          "zh": "磨损的蓝色册封标有威廉·科伦索姓名与怀唐伊条约签署主题。"
+        },
+        "caption": {
+          "en": "William Colenso’s account was published in Wellington in 1890, fifty years after the signing. This is its printed cover, not an 1840 treaty sheet.",
+          "zh": "威廉·科伦索的记述于1890年在惠灵顿出版，距签署已五十年。这是书册封面，并非1840年的条约原件。"
+        },
+        "interpretation": {
+          "en": "The cover promises English and Māori treaty texts. Its claim to an authoritative history invites comparison with the differing texts and the perspectives of Māori signatories.",
+          "zh": "封面说明书中收录英文和毛利文条约。其权威历史的自我定位，应与文本差异及毛利签署者的视角对读。"
+        },
+        "creator": "William Colenso (author); New Zealand Government Printer (publisher)",
+        "date": "1890",
+        "institution": "Museum of New Zealand Te Papa Tongarewa",
+        "credit": "Museum of New Zealand Te Papa Tongarewa",
+        "sourceUrl": "https://collections.tepapa.govt.nz/object/226690",
+        "rightsSourceUrl": "https://collections.tepapa.govt.nz/object/226690",
+        "downloadedFrom": "https://media.tepapa.govt.nz/collection/80627/preview",
+        "imageUrl": "https://media.tepapa.govt.nz/collection/80627/preview",
+        "rights": {
+          "label": "No Known Copyright Restrictions",
+          "url": "https://www.tepapa.govt.nz/about-collections-online#no-known-copyright",
+          "note": {
+            "en": "The object page and this image’s embedded media record state No Known Copyright Restrictions.",
+            "zh": "器物页面与该图像的嵌入媒体记录均标明“无已知版权限制”。"
+          }
+        },
+        "transformation": {
+          "en": "Unchanged museum-served preview JPEG; no local crop, retouching or resizing.",
+          "zh": "馆方预览JPEG原样保存，未在本地裁切、修饰或缩放。"
+        },
+        "retrieval": "Full object HTML and image-specific embedded rights inspected; source-served image visually inspected at full resolution.",
+        "file": "assets/history-media/world-batch-12-waitangi-account.jpg",
+        "sha256": "265f9fd7732d508f599c6dd835e5622f9f3ee99661ab7852cb378d0e7856d0ba",
+        "bytes": 149154,
+        "width": 704,
+        "height": 1000,
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "id": "world-batch-12-tupou-portrait",
+        "recordIds": [
+          "tonga-constitution"
+        ],
+        "kind": "portrait",
+        "representation": "historical-photograph",
+        "title": {
+          "en": "Tupou I after the constitution",
+          "zh": "宪法颁布后的图普一世"
+        },
+        "alt": {
+          "en": "An elderly king stands with a walking stick beside a chair on mats in front of a veranda.",
+          "zh": "年长的国王拄杖站在铺席上，身旁有椅子，身后是门廊。"
+        },
+        "caption": {
+          "en": "Alfred Burton photographed George Tupou I on 26 July 1884. The portrait postdates the king’s 1875 constitution; it does not show its proclamation.",
+          "zh": "阿尔弗雷德·伯顿于1884年7月26日拍摄乔治·图普一世。肖像晚于国王1875年颁布宪法，并非颁宪现场。"
+        },
+        "interpretation": {
+          "en": "The cane, chair and formal coat stage royal presence in a domestic setting. The constitution reshaped institutions while retaining the king’s central authority.",
+          "zh": "手杖、椅子与正式外衣，在居住环境中呈现王者身份。宪法改造制度的同时，保留了国王的核心权威。"
+        },
+        "creator": "Alfred Burton; Burton Brothers studio",
+        "date": "26 July 1884",
+        "institution": "Museum of New Zealand Te Papa Tongarewa",
+        "credit": "Museum of New Zealand Te Papa Tongarewa",
+        "sourceUrl": "https://collections.tepapa.govt.nz/object/18150",
+        "rightsSourceUrl": "https://collections.tepapa.govt.nz/object/18150",
+        "downloadedFrom": "https://media.tepapa.govt.nz/collection/388724/preview",
+        "imageUrl": "https://media.tepapa.govt.nz/collection/388724/preview",
+        "rights": {
+          "label": "No Known Copyright Restrictions",
+          "url": "https://www.tepapa.govt.nz/about-collections-online#no-known-copyright",
+          "note": {
+            "en": "The object page and this image’s embedded media record state No Known Copyright Restrictions.",
+            "zh": "器物页面与该图像的嵌入媒体记录均标明“无已知版权限制”。"
+          }
+        },
+        "transformation": {
+          "en": "Unchanged museum-served preview JPEG; no local crop, retouching or resizing.",
+          "zh": "馆方预览JPEG原样保存，未在本地裁切、修饰或缩放。"
+        },
+        "retrieval": "Full object HTML and image-specific embedded rights inspected; source-served image visually inspected at full resolution.",
+        "file": "assets/history-media/world-batch-12-tupou-portrait.jpg",
+        "sha256": "1f47184334f8fa776cae021d1894676a074c2f08d9d10d92ad3ddd4d64f58baf",
+        "bytes": 140260,
+        "width": 1000,
+        "height": 771,
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "id": "world-batch-12-waikato-camp",
+        "recordIds": [
+          "new-zealand-wars"
+        ],
+        "kind": "photograph",
+        "representation": "historical-photograph",
+        "title": {
+          "en": "A naval camp in the Waikato campaign",
+          "zh": "怀卡托战役中的海军营地"
+        },
+        "alt": {
+          "en": "Pale tents cluster beside tracks and a waterway beneath open hills.",
+          "zh": "浅色帐篷聚集于小路与水道旁，后方是开阔丘陵。"
+        },
+        "caption": {
+          "en": "Daniel Beere’s 1864 photograph records the naval camp at Mangatāwhiri Creek. Te Papa places it in his series documenting sites of the Waikato campaign.",
+          "zh": "丹尼尔·比尔1864年的照片记录了曼加塔菲里溪海军营地。蒂帕帕将其置于记录怀卡托战役地点的系列中。"
+        },
+        "interpretation": {
+          "en": "Tents and tracks make military occupation visible. The distant view does not show Māori experiences of the invasion or establish that the surrounding land was empty.",
+          "zh": "帐篷与道路使军事占领可见。远景没有呈现毛利人的被侵略经历，也不能证明周围土地原本无人居住。"
+        },
+        "creator": "Daniel Beere",
+        "date": "1864",
+        "institution": "Museum of New Zealand Te Papa Tongarewa",
+        "credit": "Museum of New Zealand Te Papa Tongarewa",
+        "sourceUrl": "https://collections.tepapa.govt.nz/object/1416740",
+        "rightsSourceUrl": "https://collections.tepapa.govt.nz/object/1416740",
+        "downloadedFrom": "https://media.tepapa.govt.nz/collection/338382/preview",
+        "imageUrl": "https://media.tepapa.govt.nz/collection/338382/preview",
+        "rights": {
+          "label": "No Known Copyright Restrictions",
+          "url": "https://www.tepapa.govt.nz/about-collections-online#no-known-copyright",
+          "note": {
+            "en": "The object page and this image’s embedded media record state No Known Copyright Restrictions.",
+            "zh": "器物页面与该图像的嵌入媒体记录均标明“无已知版权限制”。"
+          }
+        },
+        "transformation": {
+          "en": "Unchanged museum-served preview JPEG; no local crop, retouching or resizing.",
+          "zh": "馆方预览JPEG原样保存，未在本地裁切、修饰或缩放。"
+        },
+        "retrieval": "Full object HTML and image-specific embedded rights inspected; source-served image visually inspected at full resolution.",
+        "file": "assets/history-media/world-batch-12-waikato-camp.jpg",
+        "sha256": "1b11305c4570481843e735c45d4846878b7ac9d4ebd53e75191e17bb38be5a0e",
+        "bytes": 83128,
+        "width": 1000,
+        "height": 584,
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "id": "world-batch-12-mau-leaflet",
+        "recordIds": [
+          "samoa-mau-independence"
+        ],
+        "kind": "document",
+        "representation": "document-facsimile",
+        "title": {
+          "en": "Colonial print against the Mau",
+          "zh": "针对马乌运动的殖民传单"
+        },
+        "alt": {
+          "en": "A royal coat of arms heads a Samoan-language leaflet with three numbered claims and a governor’s name.",
+          "zh": "萨摩亚文传单上方有王室纹章，下方列三项说法并署总督姓名。"
+        },
+        "caption": {
+          "en": "The New Zealand government issued this leaflet in Samoa on 10 February 1930. It used Nelson’s abandoned libel case to discredit the Mau movement.",
+          "zh": "新西兰政府于1930年2月10日在萨摩亚发布此传单，借尼尔森撤回诽谤诉讼一事贬损马乌运动。"
+        },
+        "interpretation": {
+          "en": "The official crest and numbered assertions turn print into an instrument of colonial authority. These are the administration’s accusations, not an impartial account of the movement.",
+          "zh": "官方纹章与编号论断，使印刷品成为殖民权力工具。这些是当局的指责，而非对运动的中立叙述。"
+        },
+        "creator": "New Zealand Government",
+        "date": "10 February 1930",
+        "institution": "Museum of New Zealand Te Papa Tongarewa",
+        "credit": "Museum of New Zealand Te Papa Tongarewa",
+        "sourceUrl": "https://collections.tepapa.govt.nz/object/1389720",
+        "rightsSourceUrl": "https://collections.tepapa.govt.nz/object/1389720",
+        "downloadedFrom": "https://media.tepapa.govt.nz/collection/327489/preview",
+        "imageUrl": "https://media.tepapa.govt.nz/collection/327489/preview",
+        "rights": {
+          "label": "No Known Copyright Restrictions",
+          "url": "https://www.tepapa.govt.nz/about-collections-online#no-known-copyright",
+          "note": {
+            "en": "The object page and this image’s embedded media record state No Known Copyright Restrictions.",
+            "zh": "器物页面与该图像的嵌入媒体记录均标明“无已知版权限制”。"
+          }
+        },
+        "transformation": {
+          "en": "Unchanged museum-served preview JPEG; no local crop, retouching or resizing.",
+          "zh": "馆方预览JPEG原样保存，未在本地裁切、修饰或缩放。"
+        },
+        "retrieval": "Full object HTML and image-specific embedded rights inspected; source-served image visually inspected at full resolution.",
+        "file": "assets/history-media/world-batch-12-mau-leaflet.jpg",
+        "sha256": "544d8f83c5201f2a47ee6ef60d6210e2ad7931ea08f3f3ef72097d9f0a1bbfcc",
+        "bytes": 72200,
+        "width": 669,
+        "height": 1000,
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "id": "world-batch-12-ethiopian-cross",
+        "recordIds": [
+          "ethiopia-early-solomonic"
+        ],
+        "kind": "object",
+        "representation": "object-photograph",
+        "title": {
+          "en": "A cross carried in procession",
+          "zh": "用于巡游的十字架"
+        },
+        "alt": {
+          "en": "Openwork crosses sit within a circular band edged with small triangular loops above a hollow shaft.",
+          "zh": "镂空十字置于圆环内，边缘饰小三角环，下接空心柄。"
+        },
+        "caption": {
+          "en": "This Ethiopian copper-alloy processional cross dates to the fourteenth–fifteenth century. Its hollow shaft fitted a pole used to carry it aloft.",
+          "zh": "这件埃塞俄比亚铜合金巡游十字架作于十四至十五世纪。空心柄可套在长杆上，以便高举行进。"
+        },
+        "interpretation": {
+          "en": "Casting and openwork gave public worship a material form during the Early Solomonic period. The catalogue does not identify a royal patron or a specific original church.",
+          "zh": "铸造与镂空技艺，使早期所罗门时期的公共礼拜具有物质形式。目录未确定王室委托者或最初所属教堂。"
+        },
+        "creator": "Unidentified Ethiopian Orthodox artist",
+        "date": "14th-15th century",
+        "institution": "National Museum of African Art, Smithsonian Institution",
+        "credit": "National Museum of African Art, Smithsonian Institution; Museum purchase",
+        "sourceUrl": "https://africa.si.edu/collection/object/nmafa_97-19-1",
+        "rightsSourceUrl": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/nmafa/21.txt",
+        "downloadedFrom": "https://ids.si.edu/ids/download?id=NMAfA-D20000673_screen",
+        "imageUrl": "https://ids.si.edu/ids/download?id=NMAfA-D20000673_screen",
+        "rights": {
+          "label": "CC0",
+          "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "note": {
+            "en": "The official Smithsonian bulk record marks the object and this image usage.access CC0. The generic indexed media-rights field says restricted; the explicit image-specific CC0 field is used.",
+            "zh": "史密森官方批量记录将作品及此图像usage.access标为CC0。通用索引媒体权利栏显示有限制；此处依据明确的逐图CC0字段。"
+          }
+        },
+        "transformation": {
+          "en": "Official Smithsonian Screen Image JPEG preserved unchanged.",
+          "zh": "史密森官方屏幕版JPEG原样保存。"
+        },
+        "retrieval": "Full official bulk metadata, specific image CC0, provenance and full pixels inspected.",
+        "file": "assets/history-media/world-batch-12-ethiopian-cross.jpg",
+        "sha256": "54a631a5720ff431d443f93006db9ab5547a03d659b4463ee50bcb3fb41a1573",
+        "bytes": 142535,
+        "width": 941,
+        "height": 1200,
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "id": "world-batch-12-ethiopian-manuscript",
+        "recordIds": [
+          "ethiopia-early-solomonic"
+        ],
+        "kind": "manuscript",
+        "representation": "manuscript-detail",
+        "title": {
+          "en": "David in an Ethiopian manuscript",
+          "zh": "埃塞俄比亚抄本中的大卫"
+        },
+        "alt": {
+          "en": "A bearded figure in red and yellow robes holds a stringed instrument on a worn parchment leaf.",
+          "zh": "磨损的羊皮纸页上，蓄须人物穿红黄衣袍，手持弦乐器。"
+        },
+        "caption": {
+          "en": "This fifteenth-century Ethiopian manuscript leaf represents King David with a stringed instrument. The museum relates it to the Psalms and notes calligraphy practice on its reverse.",
+          "zh": "这页十五世纪埃塞俄比亚抄本描绘持弦乐器的大卫王。博物馆将其与《诗篇》联系，并指出背面有书法练习。"
+        },
+        "interpretation": {
+          "en": "The colored robes and carefully drawn strings reveal the labor of manuscript painting. This is medieval biblical imagery, not a portrait of a Solomonic Ethiopian ruler; its original monastery is not identified.",
+          "zh": "彩色衣袍与细描琴弦体现抄本绘制劳动。这是中世纪圣经图像，并非埃塞俄比亚所罗门王朝君主的肖像；原属修道院未定。"
+        },
+        "creator": "Unidentified Ethiopian Orthodox artist",
+        "date": "15th century",
+        "institution": "National Museum of African Art, Smithsonian Institution",
+        "credit": "National Museum of African Art, Smithsonian Institution; Gift of Joseph and Patricia Brumit",
+        "sourceUrl": "https://africa.si.edu/collection/object/nmafa_2004-7-7",
+        "rightsSourceUrl": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/nmafa/14.txt",
+        "downloadedFrom": "https://ids.si.edu/ids/download?id=NMAfA-D20100137-000002_screen",
+        "imageUrl": "https://ids.si.edu/ids/download?id=NMAfA-D20100137-000002_screen",
+        "rights": {
+          "label": "CC0",
+          "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "note": {
+            "en": "The official Smithsonian bulk record marks the object and this image usage.access CC0. The generic indexed media-rights field says restricted; the explicit image-specific CC0 field is used.",
+            "zh": "史密森官方批量记录将作品及此图像usage.access标为CC0。通用索引媒体权利栏显示有限制；此处依据明确的逐图CC0字段。"
+          }
+        },
+        "transformation": {
+          "en": "Official Smithsonian Screen Image JPEG preserved unchanged.",
+          "zh": "史密森官方屏幕版JPEG原样保存。"
+        },
+        "retrieval": "Full official bulk metadata, specific image CC0, provenance and full pixels inspected.",
+        "file": "assets/history-media/world-batch-12-ethiopian-manuscript.jpg",
+        "sha256": "08731d240f773460f63a05ee4392facdfd508fcd23d2d71846176c7c6e40743a",
+        "bytes": 251329,
+        "width": 978,
+        "height": 1200,
+        "checkedAt": "2026-11-11"
+      }
+    ],
+    "associations": [
+      {
+        "assetId": "world-batch-12-waitangi-account",
+        "recordId": "treaty-waitangi",
+        "role": "historical-context",
+        "context": {
+          "en": "The cover promises English and Māori treaty texts. Its claim to an authoritative history invites comparison with the differing texts and the perspectives of Māori signatories.",
+          "zh": "封面说明书中收录英文和毛利文条约。其权威历史的自我定位，应与文本差异及毛利签署者的视角对读。"
+        },
+        "evidenceUrl": "https://collections.tepapa.govt.nz/object/226690",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "assetId": "world-batch-12-tupou-portrait",
+        "recordId": "tonga-constitution",
+        "role": "historical-context",
+        "context": {
+          "en": "The cane, chair and formal coat stage royal presence in a domestic setting. The constitution reshaped institutions while retaining the king’s central authority.",
+          "zh": "手杖、椅子与正式外衣，在居住环境中呈现王者身份。宪法改造制度的同时，保留了国王的核心权威。"
+        },
+        "evidenceUrl": "https://collections.tepapa.govt.nz/object/18150",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "assetId": "world-batch-12-waikato-camp",
+        "recordId": "new-zealand-wars",
+        "role": "historical-context",
+        "context": {
+          "en": "Tents and tracks make military occupation visible. The distant view does not show Māori experiences of the invasion or establish that the surrounding land was empty.",
+          "zh": "帐篷与道路使军事占领可见。远景没有呈现毛利人的被侵略经历，也不能证明周围土地原本无人居住。"
+        },
+        "evidenceUrl": "https://collections.tepapa.govt.nz/object/1416740",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "assetId": "world-batch-12-mau-leaflet",
+        "recordId": "samoa-mau-independence",
+        "role": "historical-context",
+        "context": {
+          "en": "The official crest and numbered assertions turn print into an instrument of colonial authority. These are the administration’s accusations, not an impartial account of the movement.",
+          "zh": "官方纹章与编号论断，使印刷品成为殖民权力工具。这些是当局的指责，而非对运动的中立叙述。"
+        },
+        "evidenceUrl": "https://collections.tepapa.govt.nz/object/1389720",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "assetId": "world-batch-12-ethiopian-cross",
+        "recordId": "ethiopia-early-solomonic",
+        "role": "related-work",
+        "context": {
+          "en": "Casting and openwork gave public worship a material form during the Early Solomonic period. The catalogue does not identify a royal patron or a specific original church.",
+          "zh": "铸造与镂空技艺，使早期所罗门时期的公共礼拜具有物质形式。目录未确定王室委托者或最初所属教堂。"
+        },
+        "evidenceUrl": "https://africa.si.edu/collection/object/nmafa_97-19-1",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "assetId": "world-batch-12-ethiopian-manuscript",
+        "recordId": "ethiopia-early-solomonic",
+        "role": "related-work",
+        "context": {
+          "en": "The colored robes and carefully drawn strings reveal the labor of manuscript painting. This is medieval biblical imagery, not a portrait of a Solomonic Ethiopian ruler; its original monastery is not identified.",
+          "zh": "彩色衣袍与细描琴弦体现抄本绘制劳动。这是中世纪圣经图像，并非埃塞俄比亚所罗门王朝君主的肖像；原属修道院未定。"
+        },
+        "evidenceUrl": "https://africa.si.edu/collection/object/nmafa_2004-7-7",
+        "checkedAt": "2026-11-11"
+      }
+    ]
+  }
+}

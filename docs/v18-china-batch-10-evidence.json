@@ -1,0 +1,2558 @@
+{
+  "reviewedAt": "2026-11-11",
+  "ownerReview": "Twelve images admitted after actual pixel, full narrative and item rights review. Qing020 first received a separate source-based chronology correction. Retained unknown copying dates, lunar dates, imperial additions and current ceramic attribution. All source-served derivatives unchanged.",
+  "accepted": [
+    {
+      "assetId": "china-batch-10-torghut-reception-text",
+      "catalogId": 2994,
+      "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/2994?dep=P",
+      "sourceReceipt": "2994-source.html",
+      "sourceText": "2994-source.txt",
+      "downloadReceipt": "2994-receipt.json",
+      "sourceSha256": "bcf2e202007eee2a379fcea8b361bf85e828bd47c41d9a218b42cc50f5c6f06f",
+      "rightsQuote": "中階圖像與文字均無須申請、不限用途、不用付費即可公開使用，請於適當位置呈現姓名標示。",
+      "credit": "清錢陳群書御製頒和賜詩 冊。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+      "pixelReviewed": true,
+      "review": "Entire selected source-served derivative visually inspected. Visible content: Calligraphy on an album opening names the Torghut khan Ubashi; red collection seals overlap the text.",
+      "targetEvidence": [
+        {
+          "record": {
+            "id": "china-event-qing-021",
+            "title": {
+              "en": "Torghut Mongols under Ubashi Khan return from the Volga to Ili",
+              "zh": "渥巴锡率土尔扈特部自伏尔加河万里东归"
+            },
+            "start": 1771,
+            "end": 1771,
+            "location": {
+              "lon": 81.321,
+              "lat": 43.921,
+              "label": "Ili / Chengde",
+              "labelI18n": {
+                "en": "Ili / Chengde",
+                "zh": "伊犁 · 承德"
+              },
+              "labelProvenance": "inherited-source-place-pair"
+            },
+            "region": "east-asia",
+            "theme": "states",
+            "kind": "event",
+            "importance": 1,
+            "summary": {
+              "en": "Torghut Mongols under Ubashi Khan return from the Volga to Ili",
+              "zh": "渥巴锡率土尔扈特部自伏尔加河万里东归"
+            },
+            "dateNote": {
+              "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+              "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+            },
+            "locationPrecision": "representative",
+            "sources": [
+              {
+                "title": "Chronicles of the Realm — js/map_data.js (frozen source dataset)",
+                "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/map_data.js",
+                "publisher": "DeanChensj / Chronicles of the Realm",
+                "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+                "checkedAt": "2026-10-23"
+              }
+            ],
+            "aliases": [
+              "伊犁 · 承德",
+              "Ili / Chengde"
+            ],
+            "provenance": {
+              "dataset": "jiangshan",
+              "status": "inherited",
+              "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+              "periodId": "qing",
+              "periodIds": [
+                "qing"
+              ],
+              "sourceRecords": [
+                {
+                  "file": "js/map_data.js",
+                  "path": "/DYNASTY_DATA/15/milestones/20",
+                  "index": 20
+                }
+              ],
+              "note": {
+                "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+                "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+              }
+            },
+            "relatedIds": [
+              "qing-dynasty"
+            ]
+          },
+          "previouslyCovered": false,
+          "connection": {
+            "en": "The opening names the migrating community and reports its arrival at Ili. Its language of submission reveals how the Qing court framed the movement, rather than giving the migrants’ own account.",
+            "zh": "开篇点明迁徙群体并记其抵达伊犁；“归顺”的措辞显示清廷如何解释此事，并非迁徙者自身的叙述。"
+          }
+        }
+      ],
+      "identityEvidence": "文物統一編號 故書000787N000000000 more 故書000787N000000001 故書000787N000000002 故書000787N000000003 故書000787N000000004 故書000787N000000005 故書000787N000000006 故書000787N000000007 故書000787N000000008 故書000787N000000009 故書000787N000000010 故書000787N000000011 故書000787N000000012 故書000787N000000013 故書000787N000000014 故書000787N000000015 故書000787N000000016 故書000787N000000017 故書000787N000000018 故書000787N000000019 故書000787N000000020 故書000787N000000021 故書000787N000000022 故書000787N000000023 故書000787N000000024 故書000787N000000025 故書000787N000000026 故書000787N000000027 故書000787N000000028 故書000787N000000029 故書000787N000000030 故書000787N000000031 故書000787N000000032 故書000787N000000033 故書000787N000000034 故書000787N000000035 故書000787N000000036 故書000787N000000037 作品號 故書00078700000 品名 清錢陳群書御製頒和賜詩 冊 Transcription of the \"Imperial Bestowal of a Poem in Celebration of Peace\" 分類 法書 作者 錢陳群,Qian Chenqun 書體 行草書 數量 一冊：三十七開（本幅三十七開三十七幅） 作品語文 漢文 釋文 御製熱河各體詩。乾隆三十六年。伊犁將軍奏土爾扈特汗渥巴錫率全部歸順。詩以誌事。有序。伊犁將軍伊勒圖等。奏土爾扈特汗渥巴錫。及其台吉策伯克多爾濟。並舍楞等。率其部衆三萬餘戶來歸。先期遣使至伊犁具書通款。自言為阿玉奇汗正系。向居俄羅斯地。久願為大皇帝臣僕。而無機可乘。乃於去冬謀棄舊游牧。挈屬内附。因自彼逸出。行程萬千有餘里。閲半年始抵卡倫。乞准令入覲以伸積誠。渥巴錫亦先後來至伊犁。察其詞意懇切。郵函以聞。先是安泰奏偵知土爾扈特部内附信。即遣額駙色布騰巴爾珠爾往迎之。今即諭其偕渥巴錫等。至山莊朝謁。而舒赫德亦先所命。由烏什馳往莅其事者。因令代伊勒圖為將軍。駐伊犁安輯新附之衆。給以餼贍。振其乏也。授之牧地。資其生也。其汗及台吉宰桑至者將錫宴賚。封爵秩。而其部衆則量地分編以居。聯其情。亦渙其勢也。蓋土爾扈特自入俄羅斯。遠阻聲教。越今幾六七十年。乾隆丙子秋。其汗敦嚕布喇什。雖曾使人入貢。第宴而遣之。兹乃不藉招致。全部内屬。誠有不期然而然者。且凖噶爾自底定以來。築城安屯。無異中國郡縣。今土爾扈特復隸我藩屬。於是四衛拉特之衆。盡撫而有之。可謂盛矣。然余履泰持盈之念。彌以是為兢兢。序而系之以詩。紀實也。其詳分注各句下。此則毋庸覼縷矣。土爾扈特部。昔汗阿玉奇。今來渥巴錫。渥巴錫為土爾扈特汗阿玉奇之孫。敦嚕布喇什汗子也。明背俄羅斯。向化非招致。頒恩應博施。舍楞逃復返。平定伊犁時。舍楞曾計害我副都統唐喀祿。逃匿俄羅斯。彼時即向索取。而俄羅斯以土爾扈特舊係彼屬。竟不送還。今舍楞既棄彼來歸。俄羅斯即向我求索。亦有詞折之。然莫若先以此意令典屬傳檄示知。尤見中國光明正大。彼亦合無辭。衛拉昔相忌。携孥往海濱。準噶爾舊凡四部。曰綽羅斯。曰都爾伯特。曰和碩特。曰土爾扈特。為四衛拉特。策妄阿拉布坦時。與土爾扈特搆釁。其汗阿玉奇統全部西北去。乃以輝特為一衛拉特。而土爾扈特部遂居俄羅斯地。終焉懷故土。遂爾棄殊倫。俄羅斯素不奉佛。土爾扈特在彼。俗尚不同。知伊犁黄教振興。因思還歸故土。且聞從前投誠之都爾伯特部。在此得膺封爵。樂業安居。遂棄其現居之額濟勒游牧。率屬内附。弗受將為盜。初聞土爾扈特來歸之信。議者或以舍楞前此負罪逃去。不宜與衆同受其降。余以彼既棄俄羅斯而來。若拒而弗納。彼退無所歸。必為盜抄掠。非所以寧我邊圉。且恐舍楞不來。同行之衆。或疑畏不敢前。殊非善全之計。若俟其既至。執而罪之。尤非所以昭威信示懷徠也。彼既悔罪輸忱。則宥其已往。益足彰我寛仁。而衛拉全部。莫非王臣。亦從來未有之事。又何必過為顧慮乎。俾安皆我民。從今蒙古類。無一不王臣。七月十日。啟程幸熱河駐蹕木蘭行圍。即事疊去歲啟蹕詩韻。有序。三驅獮侯吉涓將啟虞旌。兩日秋霖。漲盛致稽蹕路。展行期之信宿快晴已過洗車。遣衛士以經營。穩步無煩涉馬。牽舟誠速。昨來正報梁成。灑道何頻。晨後又逢雨集。豈柔金之生水。信有恒占。乃旬歲而一經。竟無愆度。辛巳之成規可按。大安之豫適宜遵小駐御園。計里略同緩頓。先臨行館。詰朝仍敕停鑾。惟農事之關心。積潦懼妨良稼。幸田功之蓄目如雲暢好高原。十五蠲租倍常年而更咨善䘏七言紀事。疊舊韻而兼誌惄懷。膩霖今歲又逢過。生水陰金屢漲河。辛未辛巳。皆大雨水。今歲又然。或以辛為陰金值歲。主多水。占騐之說。豈果有之乎。橋待畢成權駐輦。途看可治先（去聲）循阿。幸然高隴仍秋熟。惜矣低田受潦多。滿望懼將作虛望。今歲春夏少雨。自夏至後膏澤優霑。早稼晩禾。並皆芃茂。滿擬可望豐收。乃七月朔日以來。大雨兩晝夜。漲潦殊盛。深懼妨農。今沿途所見高田。豐蔚可觀。實為得之意外。然下隰業已受傷。勑免經過租賦十分之五。視常例有加。並令督臣勘察被水成災者。照例撫䘏。用副廑念。自慙之外更云何。喜晴。七月十二日。每有喜晴詩。足知憂澇倍。今朝晴似定。徂靈輕變綵。西北捲碧天。東南歸大海。農功望庶仍。行旅愁稍解。白河漲未涸。誰謂可立待。白河水漲。待橋未成。因暫返御園。恭問皇太后安即事書懷。有序。伏庚甫退。時行宿漲猶留。處暑初交。置頓成杠未遍。諮首塗而請紆掖輦。稍須東上之園。率前導而期偫方舟。徐駐適中之館。乃問白河而徑度。戒道將需半旬。因瞻紫籞而依馳。詢安已經三昔。爰迴御苑。敬侍慈顔。雖兩辛之卜胥符。演潤或緣乎歲紀。而一水之占倍惕。沮塗偏軫夫農功。至如典重詰戎。佇俟風高而表扈。矧若恩推懷遠。行看日近以迎鑾。是用摛言。以當誌事。今歲秋霖過辛巳。厗奚異漲候橋搘。五朝待那安清蹕。密雲城外白河水勢湍急。深至二丈餘。不能及時減落。搘柱既難以施工。牽舟又艱於速致。努三在彼督辦橋座。云非四五日弗克蕆事。若因此停蹕久待。殊為無益。且違定省。已閲三日。因於十三日仍迴御園。恭請聖母安。俟奏報橋成。再奉安輿啟行。三日濶應謁聖慈。遮莫園中仍復返。逍遥河上豈其宜。箕疇黙騐咎徴應。惕與慚俱祗自知。處暑。雲斂秋曦耀。風輕午爽招。天容真處暑。地氣已收潮。潮潤潮濕之文。雖不見字典。而人率以為常談。范成大有征衫潮潤冷爐熏之句。知宋時亦用之。不自今矣。御苑身聊憩。河堤念正焦。高晉等奏黄河伏汛甫退。七月初水復加長。在在平堤。清口亦有倒漾之勢。擬開王營減壩以洩其漲。未識邇日消減若何。廑念殊切。更思白檀畔。漲退可支橋。河南廵撫何煟。奏報黄河伏汛已過。工程平穩。詩以誌慰。秋雨霃霪實異常。河工處處慮周防。驛馳五百初驚懼。今秋畿輔雨水甚大。昨高晉奏黄河防險情形。云河南汛水亦長。茲聞何煟有五百里驛章。頗為疑懼。啟閲。驚懷始定。牘覽始終悉審詳。何煟奏立秋來。沁黄並漲。水勢甚為浩瀚。因督率工員。相機防䕶。加堰鑲修。現在漲水全消。工程平穩。額手欣慰。諭以撫河諸臣。及在事員弁。下部議敘。拍岸盈堤將有事。安瀾消漲幸無殃。手加額為欣猶惕。更望徐淮報吉章。兩江總督大學士高晉。總河李宏等。奏報黄河水勢漸消。詩以誌事。南河居下游。其險倍豫省。昨聞漲水增。廑望常引領。朝來接報章。手戰不敢省。見云各工平。怵然心始定。叶。毛城峰山閘。宣洩勢猶猛。無已權輕重。王營減溟涬。兩岸謹脩防。子堰築堤頂。坐蟄及滲漫。隨宜補裡戧。叶。賴值異漲消。無事獲寧靜。洪湖亦漸長。抵黄力期併。今年洪澤湖水小力弱。又值黄水盛漲。清口遂有倒漾之勢。茲高晉等奏。日來黄水雖尚高於清七八寸。而清水既旺。日内自可暢出清口。及閱所繪之圖。黄水直至淮安。已歷數十里。恐所過沙停淤積。日久有妨運道。因諭相度形勢。量施人力濬治。毋專待清水滌刷。坐致延悮。其清河安東。潦或成災眚。七月初黄河漲勢甚盛。堤工在在危險。雖開毛城舖峰山閘宣洩。尚不足以殺其勢。高晉等議啟王營減壩。以洩異漲。導由鹽河歸海。前經奏報情形。深切廑念。今據奏自開減壩以來。黄水日見消落。其堤頂漫水。堤坡坐蜇。滲水之處。並皆搶築子堰。或䟎幫裡戧。各工現俱穩固。即下㳺出槽漫灘之水。亦未傷及田廬。惟減壩洩下之水。經由清河安東二縣地。瀕河草屋低田。間有被淹者。已飭屬確勘撫䘏。不使一夫失所。覽奏嘉慰。諭部將高晉李宏及在工員弁。並予錄敘。一體善撫䘏。弗致民饑窘。叶。覽慰南顧憂。敬哉敢自幸。恭奉皇太后啟程之作。臨河轉蹕謁徽萱。五日徘徊駐御園。漲退橋成馳奏牘。秋高途治啟鑾軒。前以白河漲盛。密雲橋難猝成。仍回御園駐蹕。敬詢聖母起居。既命努三等於河干董視架橋。並遣侍衛往來詢促。昨始奏報剋日成梁。遂於十九日恭奉安輿啟行。而經涂坦治如常。則由預勅步兵代為執役。因行賞以旌之。已期舊例可違約。每歲巡幸木蘭。隨圍之扎薩克王公台吉等。例於古北口外次第迎鑾。今已逾期十日。豈可復令其久待乎。况覲新來待沛恩。土爾扈特汗渥巴錫等。率全部來歸。諭令於木蘭覲謁觀圍。回至山莊宴賚。一切亦須早為部署也。尚有低田存潦水。民艱一路重詳論。出古北口。柔金勝剛金。生水自倍蓰。秋初漲潮河。勢過昨歲已。而何新築城。嚙根復致圮。賴人知預防。避潦早遷徙。所以災轉輕。不幸中幸耳。今歲潮河漲勢。較去歲更甚。因軍民等曾經水患。七月初一等日。見大雨晝夜不止。即徙高處。預防水至。雖廬舍被冲。而人無傷損。猶為不幸中之幸。然人鮮寧居。亦堪廑念。因發帑賞葺房屋。並開倉平糶。賞借月糧。以資口食。兹復降旨。將旗營各兵糧。歲支本色兩季。使米穀留餘贍給。永期饒裕。經過漲已消。沙痕存岸涘。頹墻埋草木。原占川路峙。再築仍再傾。當讓地於水。昨歲新修邊墻。復經水傾圮。兹親臨閱視。其地適當來水之衝。盪擊勢所難免。不宜與水相爭。因諭就缺處。結築礟臺。以存規制。現傾之垣。竟毋庸修補。使讓地於水。可杜後患。宣命罷重為。庶免紛更屢。如云弛禦邊。禦邊豈繋此。自古長城之築。原以設險禦邊。已昧在德之訓。我朝幅員遠訖。口外仍屬近畿。即蒙古新舊諸藩。皆係臣僕。並不得僅云中外一家。更無可議為輕弛邊備。又何藉此重門之禦。屢事修復滋費耶。關外。關外田贏關内洼。連朝馬上看來佳。低雖經潦消原易。高自如雲茂正排。茅舍地頭還種韭。𤓰籬墻角更堆柴。覩斯生計較彼可。將曰紓懷轉繾懷。北來。日向北來日減愁。黍風禾露茂迎眸。已知下隰未成澇。更喜高原可卜秋。圖近忘遐誰則免。小佳差勝意堪留。愛斯每為遲行轡。計里何須問野郵。灤陽别墅。灤江横渡至灤陽。松蓋陰森䕶庵堂。雖是當前尚餘熱。已知不久欲成凉。遥看雲影閒將淡。靜聽波聲猶覺狂。溪狹迅消無害稼。獨遲行旅正何妨。至避暑山莊。即事有作。漲消橋就坦途培。至止還遲十日來。初傳旨於七月八日啟鑾。因雨展期兩日。復以白河漲盛。密雲橋難猝就。仍自懷柔回駐御園。直至督促橋成。於十九日啟程。較每常至山莊。計遲旬日。嶺過廣仁境詄蕩。門臨麗正象昭回。峰容水態如相迓。松牖雲莊暢好陪。不事招徠歸遠域。行看嘉宴此重開。土爾扈特汗渥巴錫等。率全部十萬衆投誠。其汗及台吉等。遠來覲謁。計九月中旬。可至山莊。當於萬樹園開宴行賞。如都爾伯特萊凌等之例也。秀起堂。先至其他姑舍諸。山堂真比衆超如。近峰遠嶺秀無盡。秘思妍辭起有餘。將擬披襟頓延爽。試教搴幌迥含虛。拈毫得句肩輿去。孤負誰看架上書。出麗正門恭迎皇太后。即事誌喜。橋穩途平鳳輦移。康彊逢吉謁慈怡。無疆慶外有餘慶。不敢期間願永期。簷際錘峰對閬苑。階前列水即瑶池。神仙境藴中和氣。豫養高年百倍宜。題宜照齋。巉巗跋馬進園門。便有書齋向迥原。庭據千峰延日朗。窗標雙樹受風翻。已看林色秋非夏。愛聽禽聲靜不喧。宜照寧惟供目眺。萬㡬絜矩一心存。登四面雲山亭子。早晚峭寒卓午熱。山中無定有其常。敞亭底識最高處。向日坐來猶覺凉。畫屏攅簇衆嶙峋。碧落秋澄迥暢神。却憶去年遲駐蹕。歷觀題柱闕庚寅。每歲至山莊必登此亭。登必有詩題柱。昨歲因朕六旬慶典。中秋後始啟鑾至熱河。駐四日即幸木蘭。未及登此。遂闕題詠。四面虛明俯萬巒。真教遊目綠雲端。摛毫句擬新鄰舊。欲去陳言戛戛難。玉岑精舍。西北山居此最深。等閒跋馬不常尋。陟高降下斯稱便。據榻拈毫率與吟。未可依然為漫語。所欣卓爾寄崇心。促成大笑鳴鞭去。付爾千秋對玉岑。晚荷二首。落落蕭蕭開尚仍。拏舟佳會得閒憑。愛蓮說裡稱君子。不過後凋未足稱。廻舟向浦為橈停。詎藉花臺藥嶼寧。今日掞毫有别趣。綠雲田地㸃踈星。即事。崇山峻嶺試遊娛。高下巖城繞作郛。單騎縁林常遇鹿。扁舟漾沼不驚鳬。閒聽颯筑蒼松泛。坐愛茸茵細草鋪。與木石居似之矣。沛然聞善信能乎。熱。出口覺凉爽。山莊候轉更。單衣仍盛熱。十日為（去聲）連晴。渚際紛鷗浴。林中遲鹿鳴。鹿凉始鳴。熱則遲。弗相鬥。故無聲。秋炎未可少。火廹晚田成。千尺雪。引釃由來一水源。高低景各占芳園。因而有悟為文理。氣以行之緒是言。㵝㵝溶溶繞碧潯。誰云滕六弗知音。設如數典寒山畔。祗擬遥思不擬臨。永恬居。谷轉向西行。歩隨境入清。板橋經幾架。雲閣見層甍。素榻偶然據。好山依舊呈。兩言垂訓誨。萬緒冺將迎。創得齋。石溪往往響流泉。泉盡峰迴門面前。誰謂山齋得已久。今朝又創豈非然。高下岩松翠蔭籠。後凋不改鎮童童。於斯漫擬得非創。亦有新青鬛與鬉。夕佳樓。築室隨山向。山樓所向西。故常含夕照。因以額前題。紫翠色如幻。偨池狀莫齊。無殊元亮趣。歸去每來兮。過東嶺遂至水月菴。自東而升嶺謂西。自西而升嶺謂東。崇岡横拖豈有改。以人分别致不同。適坐夕佳。樓名。攬山氣。爓爓葉影翻丹翠。秋暄未免意向凉。圖就峰陰皜曦避。巖樓已自高近天。略陟數武嶺造巔。由斯就下乃甚易。峰陰歩歩隨人遷。熱則喜凉寒喜暖。誰恤其情誰知滿。水月菴中大士云。如來轉物物物轉。山心精舍。庵旁精舍號山心。繚曲因之復窈深。庭有香泥鹿留跡。樹多嘉䕃鳥耽吟。一窗風月偶來往。四壁詩書自古今。瞥眼不知幾閱歲。種松枝幹已森森。新月。秋月雖過孟。却是愁中度。七月初秋霖過多。各河漲盛。永定北運隄岸。俱有漫口。低田不免被潦。且潮白諸河。難以剋期成橋。稽程十日。對之頗為煩懣。仲已較孟佳。况值忘愁處。漫擬一鈎窄。寧非全體露。懸宇流寒光。映林盪幽趣。玉兎豈有翼。試看飛不住。即景。一峰陰靄一峰晴。晴即炎隨陰爽迎。映水岸旁人倒立。卧山坡上樹横生。霜遲林葉連空翠。露下湖波徹底清。攬鏡乍看增白髮。不忘聖祖弄孫情。桂。塞苑何來江國枝。中秋節近不違期。猗風香逐金風遞。浥露穗擎玉露垂。又已隔年看淨品。去歲京中度中秋看桂。誰能特地罷摛詞。設如擬作月中樹。無翼飛來有所思。以上計三十六首。又恩賜錢陳群奏進謝恩詩至。即以其韻答之。並書以賜。宣毫端硯常隨側。即景摛詞每寓欽。何必多思甫老句。所無逸緬旦公心。往來筆札如覿面。賡和篇章總託忱。善頌雖卿頗自許。不忘規更佇佳音。臣於九月初。自浙起程北上。舟至丹陽。摺使從熱河行在歸。恭接到頒和御製古今體四十首。喜遠徼之來歸。紀沮塗之就涸。皇仁普汜。睿慮周詳。一一見諸吟詠。至于秋獮展期。杠梁遄治。安輪豫適。並塞恬嬉。聖心愈蓋淵沖。詩境愈益高遠。恭讀至出古北口一首末云。宣命罷重為。庶免紛更屢。如云弛禦邊。禦邊豈繫此。仰見皇猷赫濯。文德誕敷。遠至邇安。久道化成之治云。又臣蒙恩賜和疊欽字韻七律一首。臣跪誦之下。慚感交并。敬繕於冊。恭呈御覽。臣錢陳羣敬識。時年八十有六。 典藏尺寸 --> 位置 尺寸(公分) 本幅 17.3x21.8 全幅 18.2x22.5 質地 --> 質地位置 質地 本幅 紙 題跋資料 --> 題跋類別 作者 位置 款識 書體 全文 簽 封面 楷書 錢陳羣書。御製頒和恩賜詩。 印記資料 --> 印記類別 印主 印記 作者印記 錢陳群 臣錢陳群 作者印記 錢陳群 宮傅尚書 鑑藏寶璽 清內府印 三希堂精鑑璽 鑑藏寶璽 清高宗 太上皇帝 鑑藏寶璽 清高宗 石渠定鑑 鑑藏寶璽 清內府印 石渠寶笈 鑑藏寶璽 清內府印 宜子孫 鑑藏寶璽 宣統帝 宣統御覽之寶 鑑藏寶璽 清高宗 乾隆御覽之寶 鑑藏寶璽 清高宗 乾隆鑑賞 鑑藏寶璽 清高宗 寧壽宮續入石渠寶笈 鑑藏寶璽 清高宗 樂壽堂鑑藏寶 鑑藏寶璽 清高宗 寶笈重編 參考資料 --> 類別 參考資料 收藏著錄 石渠寶笈續編（寧壽宮），第五冊，頁2932-2939 收藏著錄 故宮書畫錄（卷八），第四冊，頁23 ",
+      "publicationCopy": {
+        "id": "china-batch-10-torghut-reception-text",
+        "file": "assets/history-media/china-batch-10-torghut-reception-text.jpg",
+        "recordIds": [
+          "china-event-qing-021"
+        ],
+        "title": {
+          "en": "A court account of the Torghut arrival",
+          "zh": "宫廷笔下的土尔扈特东迁"
+        },
+        "alt": {
+          "en": "Calligraphy on an album opening names the Torghut khan Ubashi; red collection seals overlap the text.",
+          "zh": "册页书法题及土尔扈特汗渥巴锡，红色鉴藏印叠于文字间。"
+        },
+        "caption": {
+          "en": "Qian Chenqun’s transcription opens with Qianlong’s 1771 text on Ubashi and the Torghut migration. The copying itself is not separately dated.",
+          "zh": "钱陈群书册开篇为乾隆1771年关于渥巴锡及土尔扈特东迁的文字，抄写时间未另行注明。"
+        },
+        "interpretation": {
+          "en": "The opening names the migrating community and reports its arrival at Ili. Its language of submission reveals how the Qing court framed the movement, rather than giving the migrants’ own account.",
+          "zh": "开篇点明迁徙群体并记其抵达伊犁；“归顺”的措辞显示清廷如何解释此事，并非迁徙者自身的叙述。"
+        },
+        "creator": "Qian Chenqun; text by the Qianlong emperor",
+        "date": "Qing dynasty; transcribes an imperial text of 1771",
+        "institution": "National Palace Museum, Taipei; 故書000787N000000000",
+        "kind": "manuscript",
+        "representation": "manuscript-detail",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/2994?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/K2B%2FK2B000787N000000000PAB/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/K2B%2FK2B000787N000000000PAB/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/2994?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "清錢陳群書御製頒和賜詩 冊。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "清錢陳群書御製頒和賜詩 冊。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 1400,
+        "height": 1048,
+        "bytes": 243519,
+        "sha256": "5ad912c337874fc232c9985a3b320f7c624b07308a24a5d0b5218983367ec5c1",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, unchanged derivative bytes and individual pixel review preserved in China batch 10.",
+        "contextSources": [],
+        "metadataI18n": {
+          "date": {
+            "en": "Qing dynasty; transcribes an imperial text of 1771",
+            "zh": "清代；抄录1771年御制文字"
+          },
+          "creator": {
+            "en": "Qian Chenqun; text by the Qianlong emperor",
+            "zh": "钱陈群书；乾隆帝撰文"
+          },
+          "institution": {
+            "en": "National Palace Museum, Taipei; 故書000787N000000000",
+            "zh": "国立故宫博物院，台北；故書000787N000000000"
+          }
+        }
+      }
+    },
+    {
+      "assetId": "china-batch-10-torghut-white-eagle",
+      "catalogId": 6717,
+      "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/6717?dep=P",
+      "sourceReceipt": "6717-source.html",
+      "sourceText": "6717-source.txt",
+      "downloadReceipt": "6717-receipt.json",
+      "sourceSha256": "a1d1b23d059abe5ac0a8765e1f8c59e6f2b943c48a744a071dd8f50d65bdbed3",
+      "rightsQuote": "中階圖像與文字均無須申請、不限用途、不用付費即可公開使用，請於適當位置呈現姓名標示。",
+      "credit": "清艾啟蒙畫土爾扈特白鷹 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+      "pixelReviewed": true,
+      "review": "Entire selected source-served derivative visually inspected. Visible content: A white eagle spreads one wing on a padded perch with lion-shaped feet; an imperial poem occupies the upper right.",
+      "targetEvidence": [
+        {
+          "record": {
+            "id": "china-event-qing-021",
+            "title": {
+              "en": "Torghut Mongols under Ubashi Khan return from the Volga to Ili",
+              "zh": "渥巴锡率土尔扈特部自伏尔加河万里东归"
+            },
+            "start": 1771,
+            "end": 1771,
+            "location": {
+              "lon": 81.321,
+              "lat": 43.921,
+              "label": "Ili / Chengde",
+              "labelI18n": {
+                "en": "Ili / Chengde",
+                "zh": "伊犁 · 承德"
+              },
+              "labelProvenance": "inherited-source-place-pair"
+            },
+            "region": "east-asia",
+            "theme": "states",
+            "kind": "event",
+            "importance": 1,
+            "summary": {
+              "en": "Torghut Mongols under Ubashi Khan return from the Volga to Ili",
+              "zh": "渥巴锡率土尔扈特部自伏尔加河万里东归"
+            },
+            "dateNote": {
+              "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+              "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+            },
+            "locationPrecision": "representative",
+            "sources": [
+              {
+                "title": "Chronicles of the Realm — js/map_data.js (frozen source dataset)",
+                "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/map_data.js",
+                "publisher": "DeanChensj / Chronicles of the Realm",
+                "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+                "checkedAt": "2026-10-23"
+              }
+            ],
+            "aliases": [
+              "伊犁 · 承德",
+              "Ili / Chengde"
+            ],
+            "provenance": {
+              "dataset": "jiangshan",
+              "status": "inherited",
+              "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+              "periodId": "qing",
+              "periodIds": [
+                "qing"
+              ],
+              "sourceRecords": [
+                {
+                  "file": "js/map_data.js",
+                  "path": "/DYNASTY_DATA/15/milestones/20",
+                  "index": 20
+                }
+              ],
+              "note": {
+                "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+                "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+              }
+            },
+            "relatedIds": [
+              "qing-dynasty"
+            ]
+          },
+          "previouslyCovered": false,
+          "connection": {
+            "en": "The named gift makes the court relationships following the Torghut migration tangible. The inscription falls two years after the 1771 arrival; the image concerns a later tribute encounter, not the journey itself.",
+            "zh": "具名贡物使土尔扈特迁徙之后的宫廷关系可见；题记在1771年抵达的两年之后，图画呈现后续进贡交往，而不是迁徙途中。"
+          }
+        }
+      ],
+      "identityEvidence": "文物統一編號 故畫003085N000000000 作品號 故畫00308500000 品名 清艾啟蒙畫土爾扈特白鷹 軸 分類 繪畫 作者 艾啟蒙 數量 一軸 典藏尺寸 --> 位置 尺寸(公分) 本幅 147x89.5 質地 --> 質地位置 質地 本幅 絹 題跋資料 --> 題跋類別 作者 位置 款識 書體 全文 作者款識 艾啟蒙 印記 expand_more 本幅（題於鷹架上） 臣艾啟蒙恭畫 楷書 印主 印記 艾啟蒙 恭畫 作者款識 艾啟蒙 本幅 臣艾啟蒙恭繪 楷書 題跋 于敏中 印記 expand_more 本幅 乾隆癸巳（1773）仲秋月上澣。臣于敏中奉敕敬書。 楷書 歸順重來入覲班。白鷹為獻擎縧環。素翹圖瑞百禽表。竦翮凌虛萬里間。班史休誇一雉賦。周王或異四狼還。懐柔西北猷粗具。戢靖金川計正艱。御製土爾扈特貝子錫喇扣肯恭進白鷹。命畫院繪圖。因題是什。乾隆癸巳（1773）仲秋月上澣。臣于敏中奉勅敬書。 印主 印記 于敏中 臣于敏中 于敏中 依光日月 印記資料 --> 印記類別 印主 印記 鑑藏寶璽 清內府印 三希堂精鑑璽 鑑藏寶璽 清高宗 石渠定鑑 鑑藏寶璽 清內府印 石渠寶笈 鑑藏寶璽 清內府印 宜子孫 鑑藏寶璽 宣統帝 宣統御覽之寶 鑑藏寶璽 清高宗 乾清宮鑑藏寶 鑑藏寶璽 清高宗 乾隆御覽之寶 鑑藏寶璽 清高宗 乾隆鑑賞 鑑藏寶璽 清仁宗 嘉慶御覽之寶 鑑藏寶璽 清高宗 寶笈重編 主題 --> 主題類別 主題(第一層) 主題(第二層) 主題說明 主要主題 翎毛 鷹 主要主題 器用 鷹架、縧韝、獅座 技法 --> 技法 技法細目 工筆 界畫 參考資料 --> 類別 參考資料 收藏著錄 石渠寶笈續編（乾清宮），第二冊，頁799 收藏著錄 故宮書畫錄（卷八），第四冊，頁131 收藏著錄 故宮書畫圖錄，第十四冊，頁111-112 ",
+      "publicationCopy": {
+        "id": "china-batch-10-torghut-white-eagle",
+        "file": "assets/history-media/china-batch-10-torghut-white-eagle.jpg",
+        "recordIds": [
+          "china-event-qing-021"
+        ],
+        "title": {
+          "en": "The white eagle presented by a Torghut noble",
+          "zh": "土尔扈特贵族进献的白鹰"
+        },
+        "alt": {
+          "en": "A white eagle spreads one wing on a padded perch with lion-shaped feet; an imperial poem occupies the upper right.",
+          "zh": "白鹰在软垫鹰架上展开一翼，鹰架有狮形足；右上方为御制诗。"
+        },
+        "caption": {
+          "en": "Ignaz Sichelbarth painted the white eagle presented by the Torghut noble Shilakouken. Yu Minzhong’s inscription dates to 1773, the first ten days of the eighth lunar month.",
+          "zh": "艾启蒙绘土尔扈特贝子锡喇扣肯所进白鹰；于敏中题记纪年1773年农历八月上旬。"
+        },
+        "interpretation": {
+          "en": "The named gift makes the court relationships following the Torghut migration tangible. The inscription falls two years after the 1771 arrival; the image concerns a later tribute encounter, not the journey itself.",
+          "zh": "具名贡物使土尔扈特迁徙之后的宫廷关系可见；题记在1771年抵达的两年之后，图画呈现后续进贡交往，而不是迁徙途中。"
+        },
+        "creator": "Ignaz Sichelbarth (Ai Qimeng); inscription by Yu Minzhong",
+        "date": "Qing dynasty; inscription dated 1773, eighth lunar month, first ten days",
+        "institution": "National Palace Museum, Taipei; 故畫003085N000000000",
+        "kind": "artwork",
+        "representation": "historical-artwork",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/6717?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A003085N000000000PAA/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A003085N000000000PAA/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/6717?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "清艾啟蒙畫土爾扈特白鷹 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "清艾啟蒙畫土爾扈特白鷹 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 850,
+        "height": 1400,
+        "bytes": 167276,
+        "sha256": "5d2cede2632004c09df28853d8868c7dd5c17d80c96ec8973302f230fd8e56b4",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, unchanged derivative bytes and individual pixel review preserved in China batch 10.",
+        "contextSources": [],
+        "metadataI18n": {
+          "date": {
+            "en": "Qing dynasty; inscription dated 1773, eighth lunar month, first ten days",
+            "zh": "清代；题记为1773年农历八月上旬"
+          },
+          "creator": {
+            "en": "Ignaz Sichelbarth (Ai Qimeng); inscription by Yu Minzhong",
+            "zh": "艾启蒙绘；于敏中书御制诗"
+          },
+          "institution": {
+            "en": "National Palace Museum, Taipei; 故畫003085N000000000",
+            "zh": "国立故宫博物院，台北；故畫003085N000000000"
+          }
+        }
+      }
+    },
+    {
+      "assetId": "china-batch-10-chenghua-doucai-cup",
+      "catalogId": 2494,
+      "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/2494?dep=U",
+      "sourceReceipt": "2494-source.html",
+      "sourceText": "2494-source.txt",
+      "downloadReceipt": "2494-receipt.json",
+      "sourceSha256": "181f38cb993a0f8f726fbb1c26a90025800be8cbc61a7b42d96ecc4b4cbefec4",
+      "rightsQuote": "中階圖像與文字均無須申請、不限用途、不用付費即可公開使用，請於適當位置呈現姓名標示。",
+      "credit": "鬥彩人物圖杯。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+      "pixelReviewed": true,
+      "review": "Entire selected source-served derivative visually inspected. Visible content: A small white porcelain cup carries blue outlines and coloured details of a scholar, attendant and bamboo.",
+      "targetEvidence": [
+        {
+          "record": {
+            "id": "ming-dynasty",
+            "title": {
+              "en": "Ming: rebuilding court and cultural authority",
+              "zh": "明：重建宫廷与文化权威"
+            },
+            "start": 1368,
+            "end": 1644,
+            "region": "east-asia",
+            "theme": "states",
+            "kind": "polity",
+            "importance": 4,
+            "location": {
+              "lat": 39.92,
+              "lon": 116.39,
+              "label": "Beijing, later Ming capital",
+              "labelI18n": {
+                "en": "Beijing, later Ming capital",
+                "zh": "北京，明朝后来的都城"
+              },
+              "labelProvenance": "reviewed-display-translation"
+            },
+            "locationPrecision": "representative",
+            "summary": {
+              "en": "The Ming established a new ruling house after the Yuan and made cultural restoration part of its claim to legitimacy. Court painters revived earlier models intended to display virtuous government, while scholar-artists developed more personal approaches to brushwork. Ceramics, lacquer, textiles and illustrated narratives reveal a varied material world extending beyond a single imperial style. Comparing court and literati production shows how political authority and cultural prestige could overlap without becoming identical. The dynasty’s long duration also matters: the early Ming and the late Ming belonged to substantially different social and commercial settings.",
+              "zh": "明取代元后，以文化复兴作为政治合法性的一部分。宫廷画家恢复早期典范，借作品彰显德政；文人画家则强调书写性与个性。陶瓷、漆器、织物和叙事图像展现了多样的物质生活，并非只有一种“帝国风格”。比较宫廷与文人艺术，可以理解政治权力与文化声望如何交叠又保持区别；明初与晚明也不可视作完全相同的社会。"
+            },
+            "dateNote": {
+              "en": "1368–1644 is the conventional main-dynasty span; Southern Ming successor courts continued afterward. Beijing represents the later capital, not the first capital Nanjing.",
+              "zh": "1368—1644年为通常所列主体王朝时段；南明后续政权仍延续。北京代表后期都城，早期都城为南京。"
+            },
+            "sources": [
+              {
+                "title": "Ming Dynasty (1368–1644)",
+                "url": "https://www.metmuseum.org/essays/ming-dynasty-1368-1644",
+                "publisher": "The Metropolitan Museum of Art",
+                "checkedAt": "2026-10-22",
+                "evidenceNote": "1368–1644 is the conventional main-dynasty span; Southern Ming successor courts continued afterward. Beijing represents the later capital, not the first capital Nanjing."
+              }
+            ]
+          },
+          "previouslyCovered": false,
+          "connection": {
+            "en": "The Ming narrative describes a varied material culture. This cup makes one ceramic process visible: decoration required coordinating colour applied below and above the glaze. Its scholarly imagery brings literary taste into a small vessel.",
+            "zh": "明代叙述强调多样的物质文化；此杯呈现一种具体制瓷工艺，即协调釉下与釉上的彩饰，并将文人趣味带入小型器皿。"
+          }
+        }
+      ],
+      "identityEvidence": "文物統一編號 故瓷003515N000000000 品名 鬥彩人物圖杯 Cup with figure decoration in doucai painted enamels 分類 陶瓷器 時代 明 成化 西元1465-1487年 尺寸 高4.0公分 口徑6.1公分 底徑2.5公分 說明 杯形。敞口、深壁、平底、淺挖足。器內白釉，外壁以釉下青花勾勒，再於釉上加填紅、黃、綠彩，畫二組人物圖︰其一為文士坐水畔觀鵝，童子捧書侍於旁；其一為文士出遊，童子抱琴相隨。草、葉、衣裳、用彩鮮明；而其餘雲、水、鵝則淡染柔和。杯底青書「大明成化年製」款，六字三行雙方框。此種釉上彩與釉下彩共呈瓷器圖景上的表現法，稱為「鬥彩」，以明代成化年間(1465-1487)所製最享盛名，構圖優雅，色彩純淨柔美。後世競仿不輟，但皆難達其畫境般的效果，故歷來最受賞鑑家珍視。 參考資料 --> 書名 作者/編者 出版者 出版日期 《故宮瓷器錄 第二輯 明（甲）》(上編) 國立故宮 中央博物院聯合管理處 國立故宮 中央博物院聯合管理處 1962/01 款識 --> 識文位置 識文種類 全文 底（外） 年號款 大明成化年製 ",
+      "publicationCopy": {
+        "id": "china-batch-10-chenghua-doucai-cup",
+        "file": "assets/history-media/china-batch-10-chenghua-doucai-cup.jpg",
+        "recordIds": [
+          "ming-dynasty"
+        ],
+        "title": {
+          "en": "A Chenghua cup combining blue and coloured enamels",
+          "zh": "青花与彩料相合的成化斗彩杯"
+        },
+        "alt": {
+          "en": "A small white porcelain cup carries blue outlines and coloured details of a scholar, attendant and bamboo.",
+          "zh": "小型白瓷杯以青花轮廓与彩色细节描绘文士、侍童及竹丛。"
+        },
+        "caption": {
+          "en": "Doucai cup, Chenghua reign, 1465–1487. Underglaze blue outlines are combined with red, yellow and green overglaze enamels.",
+          "zh": "成化时期（1465—1487年）斗彩杯，以釉下青花勾线，配合釉上红、黄、绿彩。"
+        },
+        "interpretation": {
+          "en": "The Ming narrative describes a varied material culture. This cup makes one ceramic process visible: decoration required coordinating colour applied below and above the glaze. Its scholarly imagery brings literary taste into a small vessel.",
+          "zh": "明代叙述强调多样的物质文化；此杯呈现一种具体制瓷工艺，即协调釉下与釉上的彩饰，并将文人趣味带入小型器皿。"
+        },
+        "creator": "Unidentified Ming porcelain artisans",
+        "date": "Chenghua reign, 1465–1487",
+        "institution": "National Palace Museum, Taipei; 故瓷003515N000000000",
+        "kind": "object",
+        "representation": "object-photograph",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/2494?dep=U",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/K1B%2FK1B003515N000000000PAA/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/K1B%2FK1B003515N000000000PAA/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/2494?dep=U",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "鬥彩人物圖杯。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "鬥彩人物圖杯。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 1400,
+        "height": 1050,
+        "bytes": 56324,
+        "sha256": "709034fe9cbbbe94b7ea4cab533cfdb43e28acf7c97076ab26d8202d677345be",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, unchanged derivative bytes and individual pixel review preserved in China batch 10.",
+        "contextSources": [],
+        "metadataI18n": {
+          "date": {
+            "en": "Chenghua reign, 1465–1487",
+            "zh": "成化时期，1465—1487年"
+          },
+          "creator": {
+            "en": "Unidentified Ming porcelain artisans",
+            "zh": "佚名明代制瓷工匠"
+          },
+          "institution": {
+            "en": "National Palace Museum, Taipei; 故瓷003515N000000000",
+            "zh": "国立故宫博物院，台北；故瓷003515N000000000"
+          }
+        }
+      }
+    },
+    {
+      "assetId": "china-batch-10-guoxi-early-spring",
+      "catalogId": 47,
+      "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/47?dep=P",
+      "sourceReceipt": "47-source.html",
+      "sourceText": "47-source.txt",
+      "downloadReceipt": "47-receipt.json",
+      "sourceSha256": "3798602744055cce828664d8332f91406fc6c470ae0733a3f41546f952764f5c",
+      "rightsQuote": "中階圖像與文字均無須申請、不限用途、不用付費即可公開使用，請於適當位置呈現姓名標示。",
+      "credit": "宋郭熙早春圖 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+      "pixelReviewed": true,
+      "review": "Entire selected source-served derivative visually inspected. Visible content: Pines, curling rocks and mist lead upward to high peaks; tiny paths, buildings and streams animate the mountains.",
+      "targetEvidence": [
+        {
+          "record": {
+            "id": "northern-song",
+            "title": {
+              "en": "Northern Song: governing through learning",
+              "zh": "北宋：学问与官僚政治"
+            },
+            "start": 960,
+            "end": 1127,
+            "region": "east-asia",
+            "theme": "states",
+            "kind": "polity",
+            "importance": 4,
+            "location": {
+              "lat": 34.8,
+              "lon": 114.3,
+              "label": "Bianjing / Kaifeng",
+              "labelI18n": {
+                "en": "Bianjing / Kaifeng",
+                "zh": "汴京／开封"
+              },
+              "labelProvenance": "reviewed-display-translation"
+            },
+            "locationPrecision": "representative",
+            "summary": {
+              "en": "The Northern Song placed scholar-officials and civil examinations near the centre of government. Learning, political service and artistic expression became closely connected, though officials disagreed sharply about policy and their responsibilities. Court painters created images of an ordered natural world, while literati used painting and calligraphy for more personal purposes. These differences reveal competing ideas about what culture should do. Song history is therefore more than a sequence of inventions: it also offers a way to explore administration, elite recruitment and the relationship between individual expression and service to the state.",
+              "zh": "北宋以士大夫和科举制度为政治核心之一，学问、仕途与艺术表达紧密联系，但官员对政策和责任也常有分歧。宫廷画家营造秩序井然的自然图景，文人则以书画表达个人志趣。不同艺术观念折射文化与国家的多种关系。宋史不仅是一串发明清单，也能帮助理解行政、精英选拔以及个人表达和公共责任之间的张力。"
+            },
+            "dateNote": {
+              "en": "960–1127 covers Northern Song. The court moved south after the loss of the northern capital, rather than the Song dynasty ending in 1127.",
+              "zh": "960—1127年指北宋；1127年后朝廷南迁，并非宋朝终结。"
+            },
+            "sources": [
+              {
+                "title": "Northern Song Dynasty (960–1127)",
+                "url": "https://www.metmuseum.org/essays/northern-song-dynasty-960-1127",
+                "publisher": "The Metropolitan Museum of Art",
+                "checkedAt": "2026-10-22",
+                "evidenceNote": "960–1127 covers Northern Song. The court moved south after the loss of the northern capital, rather than the Song dynasty ending in 1127."
+              }
+            ]
+          },
+          "previouslyCovered": false,
+          "connection": {
+            "en": "This court painter’s ordered yet shifting mountain world directly illustrates the Northern Song entry’s discussion of artistic ideals and state service. It is an imagined inhabitable landscape, not a topographic survey.",
+            "zh": "这位宫廷画家营造秩序与变化并存的山水，直接对应北宋条目关于艺术理想与朝廷服务的讨论；它是可居游的意境，并非地形测绘。"
+          }
+        }
+      ],
+      "identityEvidence": "文物統一編號 故畫000053N000000000 作品號 故畫00005300000 品名 宋郭熙早春圖 軸 Early Spring 分類 繪畫 作者 郭熙,Guo Xi 書體 楷書 創作時間 宋神宗熙寧五年（1072） 數量 一軸 典藏尺寸 --> 位置 尺寸(公分) 本幅 158.3x108.1 質地 --> 質地位置 質地 本幅 絹 題跋資料 --> 題跋類別 作者 位置 款識 書體 全文 作者款識 郭熙 印記 expand_more 本幅 壬子年（西元一○七二年）郭熙畫 印主 印記 郭熙 郭熙筆 題跋 清高宗 印記 expand_more 本幅 行書 樹纔發葉溪開凍，樓閣仙居最上層；不藉柳桃閒點綴，春山早見氣如蒸。乾隆己卯（西元1759年）御題。 印主 印記 清高宗 乾 清高宗 隆 題籤 清高宗 包首 郭熙早春圖真跡。御府寶藏。神品。 行書 印記資料 --> 印記類別 印主 印記 收傳印記 索額圖 九如清玩 收傳印記 索額圖 也園珍賞 收傳印記 耿昭忠 丹誠 收傳印記 耿昭忠 公 收傳印記 明內府印 司印（半印） 收傳印記 王世貞 仲雅 收傳印記 耿昭忠 宜爾子孫 收傳印記 金章宗 明昌御覽 收傳印記 阿爾喜普 東平 收傳印記 阿爾喜普 阿爾喜普之印 收傳印記 耿昭忠 信公珍賞 收傳印記 耿昭忠 珍秘 收傳印記 耿昭忠 真賞 收傳印記 索額圖 御賜忠孝堂長白山索氏珍藏 收傳印記 耿昭忠 都尉耿信公書畫之章 收傳印記 耿昭忠 琴書堂 收傳印記 善卿 收傳印記 肅齋 收傳印記 朱棡 道濟書府 鑑藏寶璽 清高宗 三希堂精鑑璽 鑑藏寶璽 清高宗 石渠寶笈 鑑藏寶璽 清高宗 石渠繼鑑 鑑藏寶璽 清高宗 宜子孫 鑑藏寶璽 宣統帝 宣統御覽之寶 鑑藏寶璽 宣統帝 宣統鑑賞 鑑藏寶璽 清高宗 乾隆御覽之寶 鑑藏寶璽 清高宗 乾隆鑑賞 鑑藏寶璽 宣統帝 無逸齋精鑒璽 鑑藏寶璽 清仁宗 嘉慶御覽之寶 鑑藏寶璽 清高宗 養心殿鑑藏寶 主題 --> 主題類別 主題(第一層) 主題(第二層) 主題說明 主要主題 山水 春景 早春 次要主題 山水 溪澗、湍泉 次要主題 山水 瀑布 次要主題 樹木 松 次要主題 樹木 寒林．枯樹 其他主題 人物 百姓 其他主題 人物 行旅 其他主題 人物 孩童 其他主題 人物 漁夫、船夫 其他主題 山水 山徑 其他主題 山水 江河、湖海 其他主題 建築 寺廟 其他主題 建築 亭 其他主題 建築 茅草屋 其他主題 建築 橋 其他主題 船 篷舟 技法 --> 技法 技法細目 皴法 卷雲皴 參考資料 --> 類別 參考資料 內容簡介 郭熙（西元一０二三－約一０八五年），河南溫縣人。畫幅左側中間有一行小字隸書款：「早春。壬子年郭熙畫」，知此畫作於一０七二年。「早春」是「谿山行旅」之後，北宋山水另一里程碑。范寬呈現出大自然莊嚴與永恆的特質，郭熙則捕捉山水在一年四季中不同的風貌和煙雲變幻的氣氛，他畫山石多用「雲頭皴」，林木則以「蟹爪枝」見長。全幅煙嵐浮動，暗示宇宙間無窮的生機。 內容簡介 畫面左側河谷上方款書「早春壬子年（1072）郭熙畫」，上鈐「郭熙筆」一印。郭熙，河陽溫縣人，活動於宋神宗朝（1067－1084），曾為朝廷官署內廷作畫，享年八十餘歲。 本幅為郭熙傳世的重要代表作，成功地於巨大山水構圖中展現春景生機。順著畫面中央軸線，蜿蜒布列的岩塊、巨松、主山、遠峰，連成充滿能量的山體動勢。其中運筆用墨更見巧思，細膩描繪畫中的人物活動，營造出得以居游的景致。 (20110913) 內容簡介 作於一○七二年的〈早春圖〉，不僅是郭熙傳世的代表作，也是山水畫史中最重要的里程碑。郭熙在宋神宗時進入宮廷服務，正當王安石變法之際，官府殿閣的新建布置中，都使用了郭熙的山水。此作可能原來也是其中之一。 畫中構圖有著對稱性的安排，但在秩序感中又充滿著韻律的變化。而藉著墨色深淺所營造出來的光影效果，更為此山水增添了空間的奇幻。舟樵行旅等活動的加入，也進一步將此意境轉化成一個生機處處，可遊可居的神奇所在。這些表現都可以從他的《林泉高致》書中，得到理論上的印證。(20061206) Description Done in 1072, this is not only the finest representative work of the master Kuo Hsi, it is also one of the most important surviving milestones in the history of Chinese landscape painting. Under Emperor Shen-tsung, Kuo Hsi entered service at court, and during the government reforms of Grand Councilor Wang An-shih, his landscapes were used to furnish new government offices and halls. This painting may very well have been one of these works. The composition here is arranged in a symmetrical manner, but the sense of order still reveals variations full of rhythm and movement. In addition, the effect of light and dark achieved through the use of graded washes of ink also add considerably to the illusory effect of space in this landscape. The inclusion of such activities as boating, gathering firewood, and traveling takes the painting further in transforming this artistic vision into one full of life, a mystical realm where the viewer can travel and live. These forms of expression can also be found in Kuo Hsi’s notes on painting recorded in Lofty Ambitions Among Forests and Streams, making this work evidence of his theories.(20061206) Description Along the left side of the painting is a signature that reads, “‘Early Spring’ painted by Guo Xi in the ‘renzi’ year (1072).” It also bears a seal for “Brushed by Guo Xi.” A native of Wenxian in Heyang, Guo Xi was active under Emperor Shenzong (r. 1067-1084) and did paintings for the court, living beyond the age of 80. This is an important representative work surviving from the hand of Guo Xi, successfully expressing the vitality of a spring scene by means of a monumental landscape composition. Following the central axis of the painting, an array of rocky features, large pines, the main mountain, and distant peaks wind back and forth, connecting to create a dynamic mountain form filled with energy. The use of brush and ink here is even more skillful, the activities of figures in the painting done with delicacy to construct a fine scene where one can live and travel vicariously. (20110913) Description \"Early Spring\" is here conceived of as a mist and forestfilled mountain. The brushwork registers infinite variations of pressure and ink: the silhouette of the rocks and boulders are delineated with a heavy touch, the fog-washed trees with a light one. The washed work in harmony to express a complete idea of nature's forms under these seasonal conditions - with the tree-tops disappearing perceptibly into the vapor, their trunks still vigorously etched in darker ink. Such virtuosity, subtety, and assiduous attention to the details of expression have been urmatched by any of Kuo Hsi's followers, and this monument, dated 1072, stands as the painter's supreme masterpiece. Kuo Hsi, a native of Honan, served as an official in the Imperial Painting Academy. He excelled at landscapes and wintry forests, which were executed with complex formal compositions and profound content. Description Kuo Hsi (active late 11th century) came from Wen-hsien, Honan. He was a student (i-hsueh) in the Painting Academy, specializing in landscapes and wintry trees. He was extremely skilful and profoundly original, and although he studied the style of Li Ch’eng he was also able to express his own feelings. On a large screen or high wall he would paint tall pines and large trees, winding streams and jagged promontories, lofty peaks and soaring cliffs, or high mountains gracefully rising, transformed or obliterated by mist and clouds and partially visible among them – he could render a thousand forms and myriad appearances. His mountain peaks were high and precipitous, his trees characterized by “crab-claw” branches, and his ink fairly dilute; his brushwork resembled that of cursive calligraphy, In his early years he concentrated on developing his skill, while in his later year his brushwork became increasingly strong. He wrote the Treatise on Landscape Painting (Shan-shui hua-lun) in which he said that one should study the near and far, the shallow and deep, the effects of wind and rain, light and shadow, and the changes of the seasons and times of day. 網頁展示說明 郭熙（活動於十一世紀），河南溫縣人。神宗熙寧年間（1068-1077），為翰林圖畫院藝學，善畫山水。著有《林泉高致》一書，是我國畫史上討論山水畫的一部重要論著。 這幅畫的主要景物集中在中軸線上，近景有大石和巨松，背後銜接中景扭動的山石，隔著雲霧，兩座山峰在遠景突起，居中矗立，下臨深淵，深山中有宏偉的殿堂樓閣。左側平坡委迤，令人覺得既深且遠。作者以粗闊扭曲的線條，描繪山石輪廓，再用乾溼濃淡不同的墨色，層層皴擦出岩石表面的紋理，因為形狀像捲曲的雲塊，所以稱為「捲雲皴」。樹木枝幹虯曲，枝椏像伸指布掌的樣子，稱為「蟹爪枝」，是承襲自宋初李成一系的特色。 畫幅右側畫家自題：「早春。壬子（1072）年郭熙畫。」顧名思義，這幅畫作是在描寫瑞雪消融，雲煙變幻，大地復甦，草木發枝，一片欣欣向榮的早春景象。 網頁展示說明 Kuo Hsi, a native of Honan province, entitled this work \"Early Spring\" and signed it \"Painted by Kuo Hsi in the jen-tzu year (1072).\" Coming after \"Travelers Among Mountains and Streams\" by Fan K'uan, this is one of the Museum's masterpieces of Northern Sung monumental landscape painting. Fan K'uan represented the solemn and eternal features of the mountains, while Kuo captured the essence of spring with his evanescent and atmospheric use of ink washes. With \"cloud-head\" texture strokes for the mountain forms and \"crab-claw\" ones for the trees, the landscape in this painting seems to almost pulsate, flow, and disappear (only to reappear again), suggesting the hidden forces of Nature and the cosmos at work. 收藏著錄 石渠寶笈初編（養心殿），上冊，頁642 收藏著錄 故宮書畫錄（卷五），第三冊，頁52-53 收藏著錄 故宮書畫圖錄，第一冊，頁213-214 參考書目 1.何傳馨，〈宋郭熙早春圖〉，收入王耀庭、許郭璜、陳階晉編，《故宮書畫菁華特輯》（臺北：國立故宮博物院，1987年初版，2001年再版），頁74-77。 2.許郭璜，〈宋郭熙早春圖〉，收入《李郭山水畫系特展》（臺北：國立故宮博物院，1999年初版），頁1-4。 3.〈宋郭熙早春圖〉，收入國立故宮博物院編輯委員會編，《春景山水畫特展圖錄》（臺北：國立故宮博物院，1987年一月初版），頁46。 4.陳韻如，〈宋郭熙早春圖 軸〉，收入林柏亭主編，《大觀-北宋書畫特展》（臺北：國立故宮博物院，2006年初版一刷），頁72-77。 5.陳韻如，〈早春圖〉，收入林柏亭主編，《國寶菁華 — 書畫‧圖書文獻篇》（臺北：國立故宮博物院，2006年12月），頁197。 6.〈宋郭熙早春圖〉，收入國立故宮博物院編輯委員會編，《名寶上珍》（臺北：國立故宮博物院，1995年初版一刷），頁224。 7.何傳馨，〈國之重寶 — 書畫精萃特展〉，《故宮文物月刊》，第19期（1984年10月），頁20。 8.高木森，〈郭熙「早春圖」有一半是裱工偽造的劣蹟嗎？ — 評徐小虎的「表面之下 — 補筆之研究」〉，《故宮文物月刊》，第117期（1992年12月），頁76-93。 9.江兆申，〈山鷓棘雀、早春與文會(談故宮三張宋畫)〉，《故宮季刊》，第十一卷第四期（1977年夏），頁13-21。 10.李霖燦，〈山水畫中點景人物的斷代研究〉，《故宮季刊》，第十三卷第二期（1978年冬），頁25-40。 11.李霖燦，〈故宮博物院的名畫寶藏(上)〉，《故宮季刊》，第十三卷第四期（1979年夏），頁69-83。 12.陳葆真，〈從空間表現法看南宋小景山水畫的發展〉，《故宮學術季刊》，第十三卷第三期（1996年春），頁83-117。 13.沈以正，〈由郭熙與張擇端探討對北宋繪畫創作的理念與技法〉，《中華民國建國八十年中國藝術文物討論會論文集 書畫(上)》（臺北：國立故宮博物院，1992），頁33-44。 14.《郭熙早春圖》（台北：國立故宮博物院，1980）。 15.小川裕充，〈「院中名畫」--從董羽、巨然、燕蕭到郭熙〉，《藝術學》，第23期(2007年1月)，頁229-308。 16.朱淑媛，《北宋郭熙繪畫觀研究》，中國文化學院藝術研究所碩士論文，1979年。 17.楊元錚，〈談耿昭忠與安岐的兩方\"珍祕\"印〉，《故宮博物院院刊》，總第141期(2009年第1期)，頁60-63。 18.陳韻如，〈宋郭熙早春圖〉，收入蔡玫芬主編，《精彩一百 國寶總動員》（臺北：國立故宮博物院，2011年九月初版一刷），頁262。 19.賴國生；〈院藏高劍父山水圖賞析〉，《故宮文物月刊》，第356期（2012年11月份），頁116-126。 20.陳韻如；〈兩宋山水畫意的轉折──試論李唐山水畫的畫史位置〉，《故宮學術季刊》，第二十九卷第四期（2012年夏），頁75-107。 網頁展示說明 郭熙（活動於西元十一世紀），河南溫縣人，神宗時為宮廷畫師，早先曾經為京師幾個重要的宮殿與寺廟繪製大型的屏風畫或壁畫，深受皇帝賞識，後來升遷為翰林圖畫院最高職位的「待詔」，製作了許多大型山水畫。他擅長巨障長松，煙雲變滅之景，山石用「卷雲皴」，樹木作「蟹爪」狀，創為一派。 此圖作於神宗熙寧五年（1072），是存世最著名之作。畫上自題「早春」，顧名思義，畫的是初春瑞雪消融，大地甦醒，草木發枝，一片欣欣向榮的景象。主要景物集中於中軸線上，近景大石與高大的松樹，銜接中景「S」形的山石，隔著雲霧，再起二峰，主峰居中，下臨深淵，溪澗從谷間潺潺流下，深山中有宏偉的殿堂樓閣，懸崖上有草亭，背後襯以遠山。左側平坡委迤，遂覺有千里之遙。筆墨清潤，構圖綜合高遠、深遠、平遠法，呈現了可行，可望，可居，可游的理想山水。 (20110913) 參考書目 陳韻如，〈宋郭熙早春圖 軸〉，收入陳韻如主編《公主的雅集-蒙元皇室與書畫鑑藏文化特展》（臺北：國立故宮博物院，2016.10），頁100-107、270-271。 參考書目 國立故宮博物院編輯委員會，〈宋郭熙早春圖 軸〉，收入《故宮書畫菁華特輯》（臺北：國立故宮博物院，1996.10），頁74-77。 參考書目 劉芳如，〈宋郭熙早春圖 軸〉，收入劉芳如、浦莉安、陳韻如主編《鎮院國寶-范寬．郭熙．李唐》（臺北：國立故宮博物院，2021.10），頁72-103。 參考書目 朱龍興，〈宋郭熙早春圖 軸〉，收入余佩瑾主編《甲子萬年-國立故宮博物院百年院慶特展》（臺北：國立故宮博物院，2025.10），頁132-137。 ",
+      "publicationCopy": {
+        "id": "china-batch-10-guoxi-early-spring",
+        "file": "assets/history-media/china-batch-10-guoxi-early-spring.jpg",
+        "recordIds": [
+          "northern-song"
+        ],
+        "title": {
+          "en": "Guo Xi’s Early Spring",
+          "zh": "郭熙《早春图》"
+        },
+        "alt": {
+          "en": "Pines, curling rocks and mist lead upward to high peaks; tiny paths, buildings and streams animate the mountains.",
+          "zh": "松树、卷曲山石与云雾向高峰延伸，细小山径、楼阁与溪流点染山间。"
+        },
+        "caption": {
+          "en": "Early Spring, signed and dated 1072 by Guo Xi. The poem at upper right was added by Qianlong in 1759.",
+          "zh": "郭熙款署1072年的《早春图》；右上方御题诗为乾隆1759年所加。"
+        },
+        "interpretation": {
+          "en": "This court painter’s ordered yet shifting mountain world directly illustrates the Northern Song entry’s discussion of artistic ideals and state service. It is an imagined inhabitable landscape, not a topographic survey.",
+          "zh": "这位宫廷画家营造秩序与变化并存的山水，直接对应北宋条目关于艺术理想与朝廷服务的讨论；它是可居游的意境，并非地形测绘。"
+        },
+        "creator": "Guo Xi",
+        "date": "1072; imperial poem added in 1759",
+        "institution": "National Palace Museum, Taipei; 故畫000053N000000000",
+        "kind": "artwork",
+        "representation": "historical-artwork",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/47?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A000053N000000000PAA/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A000053N000000000PAA/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/47?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "宋郭熙早春圖 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "宋郭熙早春圖 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 979,
+        "height": 1400,
+        "bytes": 177620,
+        "sha256": "c3c91dbc7348b0544e76f42faca2d67a22c38f4f3d9d3cf50c28c2482d2e51a3",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, unchanged derivative bytes and individual pixel review preserved in China batch 10.",
+        "contextSources": [],
+        "metadataI18n": {
+          "date": {
+            "en": "1072; imperial poem added in 1759",
+            "zh": "1072年；1759年增御题诗"
+          },
+          "creator": {
+            "en": "Guo Xi",
+            "zh": "郭熙"
+          },
+          "institution": {
+            "en": "National Palace Museum, Taipei; 故畫000053N000000000",
+            "zh": "国立故宫博物院，台北；故畫000053N000000000"
+          }
+        }
+      }
+    },
+    {
+      "assetId": "china-batch-10-fankuan-mountains-travelers",
+      "catalogId": 1195,
+      "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/1195?dep=P",
+      "sourceReceipt": "1195-source.html",
+      "sourceText": "1195-source.txt",
+      "downloadReceipt": "1195-receipt.json",
+      "sourceSha256": "32a28827932cfdb59bee9e0a4fbe89de3adcf633121e74e589900080fdd5e900",
+      "rightsQuote": "中階圖像與文字均無須申請、不限用途、不用付費即可公開使用，請於適當位置呈現姓名標示。",
+      "credit": "宋范寬谿山行旅圖 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+      "pixelReviewed": true,
+      "review": "Entire selected source-served derivative visually inspected. Visible content: A massive central cliff rises above a misty valley, wooded slopes and a small pack-animal train.",
+      "targetEvidence": [
+        {
+          "record": {
+            "id": "northern-song",
+            "title": {
+              "en": "Northern Song: governing through learning",
+              "zh": "北宋：学问与官僚政治"
+            },
+            "start": 960,
+            "end": 1127,
+            "region": "east-asia",
+            "theme": "states",
+            "kind": "polity",
+            "importance": 4,
+            "location": {
+              "lat": 34.8,
+              "lon": 114.3,
+              "label": "Bianjing / Kaifeng",
+              "labelI18n": {
+                "en": "Bianjing / Kaifeng",
+                "zh": "汴京／开封"
+              },
+              "labelProvenance": "reviewed-display-translation"
+            },
+            "locationPrecision": "representative",
+            "summary": {
+              "en": "The Northern Song placed scholar-officials and civil examinations near the centre of government. Learning, political service and artistic expression became closely connected, though officials disagreed sharply about policy and their responsibilities. Court painters created images of an ordered natural world, while literati used painting and calligraphy for more personal purposes. These differences reveal competing ideas about what culture should do. Song history is therefore more than a sequence of inventions: it also offers a way to explore administration, elite recruitment and the relationship between individual expression and service to the state.",
+              "zh": "北宋以士大夫和科举制度为政治核心之一，学问、仕途与艺术表达紧密联系，但官员对政策和责任也常有分歧。宫廷画家营造秩序井然的自然图景，文人则以书画表达个人志趣。不同艺术观念折射文化与国家的多种关系。宋史不仅是一串发明清单，也能帮助理解行政、精英选拔以及个人表达和公共责任之间的张力。"
+            },
+            "dateNote": {
+              "en": "960–1127 covers Northern Song. The court moved south after the loss of the northern capital, rather than the Song dynasty ending in 1127.",
+              "zh": "960—1127年指北宋；1127年后朝廷南迁，并非宋朝终结。"
+            },
+            "sources": [
+              {
+                "title": "Northern Song Dynasty (960–1127)",
+                "url": "https://www.metmuseum.org/essays/northern-song-dynasty-960-1127",
+                "publisher": "The Metropolitan Museum of Art",
+                "checkedAt": "2026-10-22",
+                "evidenceNote": "960–1127 covers Northern Song. The court moved south after the loss of the northern capital, rather than the Song dynasty ending in 1127."
+              }
+            ]
+          },
+          "previouslyCovered": false,
+          "connection": {
+            "en": "Unlike Guo Xi’s court career, the museum reports that Fan Kuan never held official office. His manipulation of distance and scale offers a distinct artistic ideal within the Northern Song narrative, making travelers almost disappear beneath the mountain.",
+            "zh": "馆方记范宽未入朝任职，与郭熙的宫廷生涯不同；他以远近及尺度对比令行旅几乎隐没于巨峰之下，为北宋叙述提供另一种艺术理想。"
+          }
+        }
+      ],
+      "identityEvidence": "文物統一編號 故畫000826N000000000 作品號 故畫00082600000 品名 宋范寬谿山行旅圖 軸 Travelers Among Mountains and Streams 分類 繪畫 作者 范寬,Fan Kuan 數量 一軸 典藏尺寸 --> 位置 尺寸(公分) 本幅 206.3x103.3 質地 --> 質地位置 質地 本幅 絹 題跋資料 --> 題跋類別 作者 位置 款識 書體 全文 作者款識 范寬 本幅 范寬 題跋 董其昌 印記 expand_more 詩塘 北宋范中立谿山行旅圖。董其昌觀。 印主 印記 董其昌 宗伯學士 董其昌 董其昌印 印記資料 --> 印記類別 印主 印記 收傳印記 ☐☐山房 收傳印記 明官印 司印（半印） 收傳印記 錢勰 忠孝之家 收傳印記 周祚新 祚新之印 收傳印記 周祚新 墨農鑑賞 收傳印記 梁清標 蕉林祕玩 收傳印記 梁清標 觀其大略 鑑藏寶璽 清高宗 石渠寶笈 鑑藏寶璽 宣統帝 宣統御覽之寶 鑑藏寶璽 宣統帝 宣統鑑賞 鑑藏寶璽 清高宗 重華宮鑑藏寶 鑑藏寶璽 清高宗 乾隆御賞之寶 鑑藏寶璽 清高宗 乾隆御覽之寶 鑑藏寶璽 宣統帝 無逸齋精鑑璽 鑑藏寶璽 清仁宗 嘉慶御覽之寶 鑑藏寶璽 清高宗 樂善堂圖書記 主題 --> 主題類別 主題(第一層) 主題(第二層) 主題說明 主要主題 山水 次要主題 山水 溪澗、湍泉 次要主題 山水 瀑布 次要主題 建築 臺閣 其他主題 人物 行旅 其他主題 山水 山徑 其他主題 走獸 騾．驢 其他主題 建築 橋 其他主題 樹木 技法 --> 技法 技法細目 界畫 皴法 雨點皴 參考資料 --> 類別 參考資料 內容簡介 此幅繪峻峰大嶺，飛瀑雲騰。山凹有蘭若，路側車馬紆行，筆勢雄厚，撲人眉宇。畫幅右角樹蔭下有范寬二字款。詩塘董其昌行楷書題：北宗范中立谿山行旅圖，董其昌觀。鈐印二：宗伯學士。董其昌印。 著錄見顧復撰平生壯觀，七、三三。吳其貞書畫記，三、二五六。張庚著圖畫精意識，三、五五。石渠寶笈初編八○。故宮畫錄卷五、四一。故宮名畫三百種，六。故宮宋畫精華，一四。 范寬（西元十世紀），陝西華原人。字中立，本名中正。性溫厚，有大度，關中人謂性緩為寬，故時人稱之為范寬。為人風儀峭古，舉止疎野，嗜酒落魄，不拘於世，常往來於京洛之間。喜畫山水，始師李成，又師荊落，既乃歎曰：「與其師人，不若師諸造化。」乃捨舊習，卜居終南太華，徧觀奇勝。居山水間，常危坐終日。縱目四顧，以求其趣。對景造意，不取繁飾，寫山真骨，自成一家，而與關仝，李成並馳方駕，為北宋三大家之一。生卒年不詳。 內容簡介 范寬向來被視為山水成立期的大師，可惜生平不詳，只知他曾隱居終南、太華，晚年來往於開封、洛陽間，但未入朝任職，大約一○二五年時還在世。本幅被公認為他的真蹟，甚至視為宋代山水畫的代表形象。 畫中山水並非模仿真實空間為目標，而是巧妙地在近、中、遠三段式的基本構圖中，藉推遠主山、拉近中景、突顯近景渺小行旅與主山巍峨崇高的對比等手法，創造了一種如臨其境的壯碩山水之趣。 畫幅右下角樹蔭中藏有「范寬」二字款，左下腳則有「忠孝之家」印，為錢勰所有，他也是蘇軾的朋友。(20061206) Description Fan K'uan has long been considered a founding master of Chinese landscape painting. Unfortunately, little is known about him, including his birth and death dates. However, he apparently lived in reclusion in the Chung-nan and T'ai-hua Mountains, and in later years traveled between K'ai-feng and Loyang. He never became an official and was still living around 1025. This is universally regarded as an authentic work of his and representative of Sung landscape painting, especially the Northern Sung monumental manner. The artist's purpose here apparently was not to replicate realistic space. Rather, by cleverly manipulating the basic compositional blocks of the fore-, middle-, and background, he could push back the main mountain peak, reign in the middleground, and focus on the minute travelers in the foreground. With the dramatic contrast between tiny figures and towering central mountains, the artist created an interesting scene placing the viewer in the midst of a monumental landscape. In the lower right corner, hidden among the trees, is the brief signature “Fan K’uan”, and in the lower left is the seal “Chung-hsiao chih chia” (Of the Family of Chung-hsiao). The latter belonged to Ch'ien Hsieh, a friend of the Northern Sung literary great Su Shih.(20061206) 網頁展示說明 此畫右下山林枝葉間有「范寬」的款署。范寬（活動於11世紀初期），字中立，華原（今陝西耀縣）人，擅長山水，初學李成、荊浩，因長年觀察自然而獨創一家面貌。 本幅構圖簡潔，近景為下方中央的巨石，中景則是驢隊所在，遠景是一聳立主山。其山腰下藉雲霧留白，凸顯空間遠隔之效。全幅以方折線條鉤勒輪廓，再藉短筆皴畫土石質感。龐大山體與畫中行旅驢隊相映，展現出懾人的雄壯氣勢。 (20110913) 網頁展示說明 Among the leaves of the trees in the lower right part of the mountain forest is the signature for “Fan Kuan.” A native of Huayuan (modern Yaoxian, Shaanxi), Fan Kuan (style name Zhongli) excelled at landscape painting, at first studying the styles of Li Cheng and Jing Hao and, because of his long years observing nature, he was able to create a style of his own. The composition of this painting is succinct; the foreground consists of large rocky outcroppings in the lower center, the middle ground reveals a line of donkeys, and in the distance stands a towering mountain. The foot of the peak has been left blank to suggest a band of clouds and mist, highlighting the effect of distance and height in the space. Angular strokes outline the forms throughout the work, to which short brush texturing was added to give substance to the landscape forms. The contrast between the monumental peak and the small train of donkeys here express an absorbing aura of majesty. (20110913) 參考書目 劉芳如，〈宋范寬谿山行旅圖 軸〉，收入《典範與流傳-范寬及其傳派》（臺北：國立故宮博物院，2015.07），頁54-69、320。 參考書目 國立故宮博物院編輯委員會，〈宋范寬谿山行旅圖 軸〉，收入《故宮書畫菁華特輯》（臺北：國立故宮博物院，1996.10），頁70-73。 參考書目 劉芳如，〈宋范寬谿山行旅圖 軸〉，收入劉芳如、浦莉安、陳韻如主編《鎮院國寶-范寬●郭熙●李唐》（臺北：國立故宮博物院，2021.10），頁40-71。 參考書目 陳建志，〈宋范寬谿山行旅圖 軸〉，收入余佩瑾主編《甲子萬年-國立故宮博物院百年院慶特展》（臺北：國立故宮博物院，2025.10），頁126-131。 收藏著錄 石渠寶笈初編（重華宮），頁802 收藏著錄 故宮書畫錄（卷五），第三冊，頁41 收藏著錄 故宮書畫圖錄，第一冊，頁167-168 參考書目 1.何傳馨，〈宋范寬谿山行旅圖〉，收入王耀庭、許郭璜、陳階晉編，《故宮書畫菁華特輯》（臺北：國立故宮博物院，1987年初版，2001年再版），頁70-73。 2.王耀庭，〈宋范寬谿山行旅圖〉，收入王耀庭主編，《傳移模寫》（臺北：國立故宮博物院，2007年初版），頁59。 3.陳韻如，〈宋范寬谿山行旅圖 軸〉，收入林柏亭主編，《大觀-北宋書畫特展》（臺北：國立故宮博物院，2006年初版一刷），頁54-59。 4.王耀庭、何傳馨，〈谿山行旅圖〉，收入林柏亭主編，《國寶菁華 — 書畫‧圖書文獻篇》（臺北：國立故宮博物院，2006年12月），頁196。 5.〈宋范寬谿山行旅圖〉，收入國立故宮博物院編輯委員會編，《名寶上珍》（臺北：國立故宮博物院，1995年初版一刷），頁218。 6.何傳馨，〈國之重寶 — 書畫精萃特展〉，《故宮文物月刊》，第19期（1984年10月），頁21。 7.王裕民，〈谿山行旅圖鈐印的新發現〉，《故宮文物月刊》，第166期（1997年1月），頁46-57。 8.陳韻如，〈范寬谿山行旅圖〉，《故宮文物月刊》，第282期（2006年9月），頁18-25。 9.李霖燦，〈山水畫中點景人物的斷代研究〉，《故宮季刊》，第十三卷第二期（1978年冬），頁25-40。 10.李霖燦，〈故宮博物院的名畫寶藏(上)〉，《故宮季刊》，第十三卷第四期（1979年夏），頁69-83。 11.陳葆真，〈從空間表現法看南宋小景山水畫的發展〉，《故宮學術季刊》，第十三卷第三期（1996年春），頁83-117。 12.《范寬谿山行旅》（台北：國立故宮博物院，1983）。 13.林宛珍，〈由「谿山行旅圖」談范寬畫風及其時代意義〉，《東吳文史學報》，第8期（1990），頁205-266。 14.陳韻如，〈宋范寬谿山行旅圖〉，收入蔡玫芬主編，《精彩一百 國寶總動員》（臺北：國立故宮博物院，2011年九月初版一刷），頁256。 15.劉芳如，〈探索谿山源—范寬故里記行〉，《故宮文物月刊》，第348期（2012年3月），頁84-89。 16.陳韻如；〈兩宋山水畫意的轉折──試論李唐山水畫的畫史位置〉，《故宮學術季刊》，第二十九卷第四期（2012年夏），頁75-107。 ",
+      "publicationCopy": {
+        "id": "china-batch-10-fankuan-mountains-travelers",
+        "file": "assets/history-media/china-batch-10-fankuan-mountains-travelers.jpg",
+        "recordIds": [
+          "northern-song"
+        ],
+        "title": {
+          "en": "Fan Kuan’s towering mountains and minute travelers",
+          "zh": "范宽笔下的巨峰与微小行旅"
+        },
+        "alt": {
+          "en": "A massive central cliff rises above a misty valley, wooded slopes and a small pack-animal train.",
+          "zh": "巨大主峰立于云谷、林坡与细小驮队之上。"
+        },
+        "caption": {
+          "en": "Fan Kuan’s Travelers Among Mountains and Streams, Northern Song. The work is undated; Dong Qichang’s title above the painting is a later addition.",
+          "zh": "北宋范宽《谿山行旅图》，本画未纪年；画上董其昌题签为后加。"
+        },
+        "interpretation": {
+          "en": "Unlike Guo Xi’s court career, the museum reports that Fan Kuan never held official office. His manipulation of distance and scale offers a distinct artistic ideal within the Northern Song narrative, making travelers almost disappear beneath the mountain.",
+          "zh": "馆方记范宽未入朝任职，与郭熙的宫廷生涯不同；他以远近及尺度对比令行旅几乎隐没于巨峰之下，为北宋叙述提供另一种艺术理想。"
+        },
+        "creator": "Fan Kuan",
+        "date": "Northern Song; exact year unrecorded",
+        "institution": "National Palace Museum, Taipei; 故畫000826N000000000",
+        "kind": "artwork",
+        "representation": "historical-artwork",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/1195?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A000826N000000000PAA/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A000826N000000000PAA/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/1195?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "宋范寬谿山行旅圖 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "宋范寬谿山行旅圖 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 643,
+        "height": 1400,
+        "bytes": 99618,
+        "sha256": "330126abbf5c517f8a2821e8630f93120b7efe6af8c8b118b6f13f618e9c5370",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, unchanged derivative bytes and individual pixel review preserved in China batch 10.",
+        "contextSources": [],
+        "metadataI18n": {
+          "date": {
+            "en": "Northern Song; exact year unrecorded",
+            "zh": "北宋；具体年份未载"
+          },
+          "creator": {
+            "en": "Fan Kuan",
+            "zh": "范宽"
+          },
+          "institution": {
+            "en": "National Palace Museum, Taipei; 故畫000826N000000000",
+            "zh": "国立故宫博物院，台北；故畫000826N000000000"
+          }
+        }
+      }
+    },
+    {
+      "assetId": "china-batch-10-nizan-riverbank",
+      "catalogId": 602,
+      "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/602?dep=P",
+      "sourceReceipt": "602-source.html",
+      "sourceText": "602-source.txt",
+      "downloadReceipt": "602-receipt.json",
+      "sourceSha256": "1af0edb37d8992a316a9cda9ba1f8f860f62e45e4ddfe9e42b1465bcf467d3d5",
+      "rightsQuote": "中階圖像與文字均無須申請、不限用途、不用付費即可公開使用，請於適當位置呈現姓名標示。",
+      "credit": "元倪瓚江岸望山圖 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+      "pixelReviewed": true,
+      "review": "Entire selected source-served derivative visually inspected. Visible content: An empty pavilion and trees occupy the near shore, across broad water from layered mountains; several inscriptions stand above.",
+      "targetEvidence": [
+        {
+          "record": {
+            "id": "yuan-dynasty",
+            "title": {
+              "en": "Yuan: Mongol rule and connected Eurasia",
+              "zh": "元：蒙古统治与欧亚联系"
+            },
+            "start": 1271,
+            "end": 1368,
+            "region": "east-asia",
+            "theme": "states",
+            "kind": "polity",
+            "importance": 4,
+            "location": {
+              "lat": 39.91,
+              "lon": 116.39,
+              "label": "Dadu / Khanbaliq, present-day Beijing",
+              "labelI18n": {
+                "en": "Dadu / Khanbaliq, present-day Beijing",
+                "zh": "大都／汗八里，今北京"
+              },
+              "labelProvenance": "reviewed-display-translation"
+            },
+            "locationPrecision": "representative",
+            "summary": {
+              "en": "The Yuan dynasty placed China within a wider Mongol political world. Rulers governed from Dadu and adapted Chinese administrative practices, while movements across Eurasia brought new people and artistic materials into the court’s orbit. Conquest also produced unequal political opportunities: many southern scholars found themselves excluded from influential office and turned toward private artistic expression. The dynasty’s history therefore combines long-distance connection with coercion and discrimination. Later factional conflict, calamities and rebellion undermined its rule. Yuan institutions and artistic experiments continued to shape society after the ruling house lost power in China.",
+              "zh": "元将中国纳入更广阔的蒙古政治世界。统治者以大都为中心，吸收中国行政传统，欧亚交流也将新的人员、材料和艺术带入宫廷。征服同时造成政治机会的不平等，许多南方士人难获要职，转向私人艺术表达。元史因此兼有远距离联系、强制与歧视；后期派系斗争、灾害和叛乱削弱统治，其制度与艺术影响则超过王朝本身。"
+            },
+            "dateNote": {
+              "en": "1271 marks the Yuan proclamation; conquest of the Southern Song was completed in 1279. 1368 marks loss of rule in China, not the end of Mongol peoples or all successor states.",
+              "zh": "1271年为建元，1279年灭南宋；1368年指退出中国主要统治中心，并非蒙古民族或所有后继政权终结。"
+            },
+            "sources": [
+              {
+                "title": "Yuan Dynasty (1271–1368)",
+                "url": "https://www.metmuseum.org/essays/yuan-dynasty-1271-1368",
+                "publisher": "The Metropolitan Museum of Art",
+                "checkedAt": "2026-10-22",
+                "evidenceNote": "1271 marks the Yuan proclamation; conquest of the Southern Song was completed in 1279. 1368 marks loss of rule in China, not the end of Mongol peoples or all successor states."
+              }
+            ]
+          },
+          "previouslyCovered": false,
+          "connection": {
+            "en": "A personally exchanged painting gives concrete form to the Yuan entry’s account of private artistic expression. The inscription, empty pavilion and broad water make the work a social gift as well as an exercise in landscape brushwork.",
+            "zh": "私人赠答的绘画具体呈现元代条目中的个人艺术表达；题诗、空亭与大幅水面，使作品既是山水笔墨实践，也是一件交往之礼。"
+          }
+        }
+      ],
+      "identityEvidence": "文物統一編號 故畫000292N000000000 作品號 故畫00029200000 品名 元倪瓚江岸望山圖 軸 Mountains Viewed from a Riverbank 分類 繪畫 作者 倪瓚,Ni Zan 創作時間 元順帝至正二十三年（1363） 數量 一軸 典藏尺寸 --> 位置 尺寸(公分) 本幅 111.3x33.2 詩塘 18.3x34.1 質地 --> 質地位置 質地 本幅 紙 詩塘 紙 題跋資料 --> 題跋類別 作者 位置 款識 書體 全文 作者款識 倪瓚 本幅 江上春風積雨晴。隔江春樹夕陽明。疎松近水笙聲迥。青嶂浮嵐（眉字點去）黛色橫。秦望山頭悲往迹。雲門寺裡看題名。蹇余亦欲尋奇勝。舟過錢塘半日程。癸卯（西元一三六三年）二月十七日。賦此詩。并寫江岸望山圖。奉送惟允友契之會稽。倪瓚。 楷書 題跋 莫士安 印記 expand_more 本幅 吳興莫士安 楷書 潮未生時江正平。江山江樹摠分明。吳中越上從教去。都向風波穩處行。吳興莫士安。 印主 印記 莫士安 是菴 莫士安 吳興 莫士安 吳興是菴百不居士莫維恭圖書 題跋 本幅 丹房生 楷書 杳靄鐘聲隔翠微。清泉白石映斜暉。道人定是知心者。結箇茅亭待我歸。丹房生。 題跋 印記 expand_more 本幅 白雲山人得完 楷書 江波渺渺樹離離。隔岸青山雨後奇。偶向雲林畫中見。卻思京口待潮時。白雲山人得完。 印主 印記 無隱乎爾 敬修 題跋 清高宗 印記 expand_more 詩塘 丙午仲夏月。用瓚自題韻。御題。 行書 江鄉易雨艱致晴。晴景難圖潤與明。能事老迂一亭占。寄情秦望兩巒横。髙風漫議掩於畫。别裁應知不為名。設曰錢塘堪望處。甲辰春蹕憶迴程。丙午（西元一七八六年）仲夏月用瓚自題韻。御題。 印主 印記 清高宗 古稀天子之寶 清高宗 猶日孜孜 印記資料 --> 印記類別 印主 印記 收傳印記 卞永譽 卞令之鑑定（方印） 收傳印記 卞永譽 卞令之鑑定（長方印） 收傳印記 卞永譽 令之清玩 收傳印記 卞永譽 仙客 收傳印記 如蘅 收傳印記 卞永譽 式古堂書畫印 收傳印記 吳璵之印 收傳印記 其貞 收傳印記 長水李季子泰符私印 收傳印記 梁清標 蒼巖 收傳印記 安岐 儀周鑑賞 收傳印記 梁清標 蕉林居士 鑑藏寶璽 清高宗 八徵耄念之寶 鑑藏寶璽 清內府印 三希堂精鑑璽 鑑藏寶璽 清高宗 太上皇帝 鑑藏寶璽 清高宗 古希天子 鑑藏寶璽 清高宗 石渠定鑑 鑑藏寶璽 清內府印 石渠寶笈 鑑藏寶璽 清內府印 宜子孫 鑑藏寶璽 宣統帝 宣統御覽之寶 鑑藏寶璽 清高宗 乾隆御覽之寶 鑑藏寶璽 清高宗 乾隆鑑賞 鑑藏寶璽 清高宗 寶笈重編 主題 --> 主題類別 主題(第一層) 主題(第二層) 主題說明 主要主題 山水 江河、湖海 江河 主要主題 山水 春景 次要主題 建築 亭 次要主題 樹木 竹 次要主題 樹木 松 次要主題 樹木 寒林．枯樹 枯樹 其他主題 樹木 技法 --> 技法 技法細目 苔點 皴法 折帶皴 寫意 參考資料 --> 類別 參考資料 內容簡介 倪瓚（西元一三0一至一三七四年），字元鎮，號雲林、迂翁，江蘇吳鍚人，家富饒，築清閟閣，蓄古書畫，善山水，為元四大家之一。 此畫倪瓚六十三歲（西元一三六三年）作。山上長皴，未成折帶；遠樹橫點，神似大痴。蓋雲林本學董源，而又幼於黃公望三十三歲，故不能無影響也。此畫本為贈行而作，受畫者由水路往會稽，故所畫係舟中望兩岸之景，受畫者為誰，已不可知。上款惟允二字，係畫商妄改，藉增此畫身價。 內容簡介 倪瓚（1301－1374），江蘇無錫人。字元鎮，號雲林、迂翁。家富饒，築清閟閣，蓄古書畫。善山水，為元四大家之一。 此畫為倪氏六十三歲之作，筆墨秀逸簡淡，山上長皴未成折帶；遠樹橫點神似大癡。蓋雲林本學董源，而又小黃公望三十三歲，故受其影響。此畫本為贈行而作，受畫者由水路往會稽，故所畫係舟中望兩岸之景，至於受畫者為誰？已不可知。上款惟允二字，係畫商妄改，藉增此畫身價。 (20110913) Description Ni Zan (style name Yuanzhen; sobriquets Yunlin and Yuweng) was a native of Wuxi in Jiangsu. From a wealthy family, he had the Qingbi Pavilion built to house his collection of ancient painting and calligraphy. He excelled at painting landscapes, becoming known as one of the Four Yuan Masters. This painting was done by Ni Zan at the Chinese age of 63. The use of brush and ink is elegantly untrammeled and simply plain, the long texture strokes of the mountains not angular. The horizontal dots for the distant trees appear much like that of Huang Gongwang’s. In fact, Ni Zan studied the style of their common ancestor in painting, Dong Yuan, and he was 33 years younger than Huang, thus accounting for the influence. This painting was done as a gift, and it’s recipient took a water route to Guiji, hence the rendering of a boating scene between two banks. The identification of the recipient, however, is now unknown. The two characters for “Weiyun” (the renowned Chen Ruyan) in the inscription appear to have been added by a seller of the painting sometime in the past, perhaps to increase its value. (20110913) Description Ni Tsan, style name Yuan Chen, sobriquet Yun-lin, was a native of Wu-hsi, Kiangsu. He came from a wealthy family and built the Ch'ing-pi-ko to house his collection of classical paintings and calligraphy. He is considered one of the Four Masters of the Yuan Dynasty. This painting was completed in 1363 when Ni Tsan was sixty-two years old. The mountains are rendered in long, continuous hemp fiber strokes, rather than the abbreviated lines of his later works. The small trees in the middle-ground are textured with horizontal dabs in the manner of Huang Kung-wang. Ni first studied the works of Tung Yuan and was thirty-three years younger than Huang Kung-wang. Therefore, the stylistic influence of these two Masters on the work of Ni Tsan was ineveitable. Whether this work was actually executed for Ni's friend Wei-yun (Ch'en Ju-yen) as the inscription states is open to question. Two characters in the inscription have been erased and the words \"Wei-Yun\" were witten in their place. 收藏著錄 石渠寶笈續編（獅子林），第七冊，頁4027 收藏著錄 故宮書畫錄（卷五），第三冊，頁216-217 收藏著錄 故宮書畫圖錄，第四冊，頁279-280 研究性論著 倪瓚（西元1301－1374年）﹐字元鎮﹐號雲林﹑迂翁﹐江蘇無錫人。家富饒﹐嘗築清閟閣﹐以蓄藏古書畫。好學﹐工詞翰﹐善書畫。好寫汀渚遙岑﹐小山竹樹等平遠景。晚年喜畫竹﹐以寫胸中逸氣。 此畫為倪瓚六十三歲（1363）作﹐由畫上題詩﹐知為贈行而作﹐受贈者由水路去會稽﹐因而畫舟中望兩岸之景。款上稱「並寫江岸望山圖奉送惟允友契之會稽」﹐惟允為陳汝言之字﹐但「惟允」二字﹐與其他題詩之字比較起來﹐筆蹟不似﹐疑係後人妄改﹐藉以增加此畫之身價。 倪氏早年從董巨入手﹐五十幾歲時，山石全用披麻長皴﹔至六十歲則漸入荊關，筆簡氣壯。晚年則是明顯的折帶皴法﹐呈現靜穆蕭疏的風格。本幅畫高樹空亭﹐隔岸望山﹐山上長皴﹐未成折帶﹐利用苔點﹑深淺皴法及留白的運用﹐將山石立體實感呈現而出﹐氣勢雄壯，與其晚年渴筆皴擦之冷峻堅實的山石較不同。清吳升曾評此畫：「皴法全用大披麻﹐得巨然神髓。迂翁畫大抵平遠山峰﹐不多作樹﹔似此高崖峭壁﹐具太華削成之勢﹔大小樹點葉紛披﹐都非向來面目﹐乃知此翁繪妙中掃空蹊徑﹐有如許大手筆也。」（註1）此畫曾經由卞永譽﹑梁清標及安岐等鑒藏家所庋藏。（童文娥） 註1：吳升﹐《大觀錄》（四）（台北﹐國立中央圖書館﹐1970）﹐卷十七﹐頁2117。 參考書目 1.蔣復璁，〈倪瓚江岸望山圖〉，收入國立故宮博物院編，《元四大家》（臺北：國立故宮博物院，1975年初版，1976年二版，1984年三版），頁52。 2.童文娥，〈帝國的回憶 國立故宮博物院瑰寶赴法展專輯二 — 倪瓚江岸望山〉，《故宮文物月刊》，第186期（1998年9月），頁34-35。 3.陳葆真，〈從陸治的《溪山仙館》看吳派畫家摹仿倪瓚的模式 〉，《國立臺灣大學美術史研究集刊》，第1期(1994)，頁205-297。 ",
+      "publicationCopy": {
+        "id": "china-batch-10-nizan-riverbank",
+        "file": "assets/history-media/china-batch-10-nizan-riverbank.jpg",
+        "recordIds": [
+          "yuan-dynasty"
+        ],
+        "title": {
+          "en": "Ni Zan’s landscape for a departing friend",
+          "zh": "倪瓒为送友而作的江岸山水"
+        },
+        "alt": {
+          "en": "An empty pavilion and trees occupy the near shore, across broad water from layered mountains; several inscriptions stand above.",
+          "zh": "近岸有空亭与树木，隔着宽阔水面是重叠山峰，上方列有多段题记。"
+        },
+        "caption": {
+          "en": "Mountains Viewed from a Riverbank, 1363, second lunar month, day 17. The museum identifies it as a farewell gift; the recipient’s name was later altered and remains uncertain.",
+          "zh": "《江岸望山图》，1363年农历二月十七日。馆方指出此为赠行之作，但受赠人姓名后经改动，身份未定。"
+        },
+        "interpretation": {
+          "en": "A personally exchanged painting gives concrete form to the Yuan entry’s account of private artistic expression. The inscription, empty pavilion and broad water make the work a social gift as well as an exercise in landscape brushwork.",
+          "zh": "私人赠答的绘画具体呈现元代条目中的个人艺术表达；题诗、空亭与大幅水面，使作品既是山水笔墨实践，也是一件交往之礼。"
+        },
+        "creator": "Ni Zan",
+        "date": "1363, second lunar month, day 17; later inscriptions",
+        "institution": "National Palace Museum, Taipei; 故畫000292N000000000",
+        "kind": "artwork",
+        "representation": "historical-artwork",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/602?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A000292N000000000PAA/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A000292N000000000PAA/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/602?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "元倪瓚江岸望山圖 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "元倪瓚江岸望山圖 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 374,
+        "height": 1400,
+        "bytes": 78217,
+        "sha256": "4deacc8c9d263f92b292c492ca599f3428914b071960fcee676f8c9db5b47aac",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, unchanged derivative bytes and individual pixel review preserved in China batch 10.",
+        "contextSources": [],
+        "metadataI18n": {
+          "date": {
+            "en": "1363, second lunar month, day 17; later inscriptions",
+            "zh": "1363年农历二月十七日；附后人题记"
+          },
+          "creator": {
+            "en": "Ni Zan",
+            "zh": "倪瓒"
+          },
+          "institution": {
+            "en": "National Palace Museum, Taipei; 故畫000292N000000000",
+            "zh": "国立故宫博物院，台北；故畫000292N000000000"
+          }
+        }
+      }
+    },
+    {
+      "assetId": "china-batch-10-mayuan-spring-path",
+      "catalogId": 14633,
+      "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/14633?dep=P",
+      "sourceReceipt": "14633-source.html",
+      "sourceText": "14633-source.txt",
+      "downloadReceipt": "14633-PAB-receipt.json",
+      "sourceSha256": "5dfe122508571b2bf24a81539277f921d793fa85fb95ce7f6055e0dff945cffa",
+      "rightsQuote": "中階圖像與文字均無須申請、不限用途、不用付費即可公開使用，請於適當位置呈現姓名標示。",
+      "credit": "名繪集珍 冊 宋馬遠山徑春行。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+      "pixelReviewed": true,
+      "review": "Entire selected source-served derivative visually inspected. Visible content: A scholar and a servant carrying a zither stand beneath a willow; birds and an imperial couplet occupy the open space.",
+      "targetEvidence": [
+        {
+          "record": {
+            "id": "southern-song",
+            "title": {
+              "en": "Southern Song: a court remade in the south",
+              "zh": "南宋：在南方重建的朝廷"
+            },
+            "start": 1127,
+            "end": 1279,
+            "region": "east-asia",
+            "theme": "states",
+            "kind": "polity",
+            "importance": 4,
+            "location": {
+              "lat": 30.25,
+              "lon": 120.17,
+              "label": "Lin’an / Hangzhou",
+              "labelI18n": {
+                "en": "Lin’an / Hangzhou",
+                "zh": "临安／杭州"
+              },
+              "labelProvenance": "reviewed-display-translation"
+            },
+            "locationPrecision": "representative",
+            "summary": {
+              "en": "After losing the northern capital, the Song court established itself around Hangzhou. The southern political and cultural world developed its own artistic language, including intimate landscape views, refined ceramics and poetic court painting. Neo-Confucian thinkers investigated how moral cultivation and the study of things related to knowledge. Northern and southern China were now governed by different states, making this period especially useful for comparing simultaneous histories rather than assuming one dynasty occupied the entire region. The Mongol conquest ended the Southern Song state, while its cultural practices continued to influence later generations.",
+              "zh": "失去北方都城后，宋廷在杭州一带重建政治中心。南方的文化环境发展出精微山水、陶瓷和富有诗意的宫廷绘画。理学家则探讨修养、格物与知识的关系。此时南北由不同国家统治，适合用同时代对照理解历史，而非假定一个王朝始终覆盖整个地区。蒙古征服终结南宋国家，其文化实践却继续影响后世。"
+            },
+            "dateNote": {
+              "en": "1127–1279 covers the Southern Song state; the representative pin is its capital, Lin’an, now Hangzhou.",
+              "zh": "1127—1279年为南宋时期；标记为都城临安，即今杭州。"
+            },
+            "sources": [
+              {
+                "title": "Southern Song Dynasty (1127–1279)",
+                "url": "https://www.metmuseum.org/essays/southern-song-dynasty-1127-1279",
+                "publisher": "The Metropolitan Museum of Art",
+                "checkedAt": "2026-10-22",
+                "evidenceNote": "1127–1279 covers the Southern Song state; the representative pin is its capital, Lin’an, now Hangzhou."
+              }
+            ]
+          },
+          "previouslyCovered": false,
+          "connection": {
+            "en": "The small encounter, corner-weighted composition and poem directly illustrate the Southern Song narrative’s intimate landscape and poetic court painting.",
+            "zh": "小型相遇场景、偏角构图与诗句，直接呈现南宋条目中的精微山水与诗意宫廷绘画。"
+          }
+        }
+      ],
+      "identityEvidence": "文物統一編號 故畫001289N000000013 作品號 故畫00128900013 品名 名繪集珍 冊 宋馬遠山徑春行 Walking on a Mountain Path in Spring 分類 繪畫 作者 馬遠 數量 一幅 典藏尺寸 --> 位置 尺寸(公分) 本幅 27.4x43.1 質地 --> 質地位置 質地 本幅 絹 題跋資料 --> 題跋類別 作者 位置 款識 書體 全文 作者款識 馬遠 本幅 觸袖野花多自舞。避人幽鳥不成啼。(款)。馬遠。 題籤 馬遠山徑春行 印記資料 --> 印記類別 印主 印記 收傳印記 □□緘□ 收傳印記 張孝思 張則之 收傳印記 梁清標 棠邨審定 收傳印記 梁清標 蕉林玉立氏圖書 主題 --> 主題類別 主題(第一層) 主題(第二層) 主題說明 主要主題 山水 春景 次要主題 人物 高士（士人、隱士） 次要主題 樹木 楊柳 其他主題 人物 侍從（侍女、童僕） 童僕 其他主題 山水 江河、湖海 江河 其他主題 翎毛 黃鸝 其他主題 器用 文玩（琴棋書畫） 琴 其他主題 樹木 技法 --> 技法 技法細目 人物衣紋描法(粗細線條) 皴法 斧劈皴 參考資料 --> 類別 參考資料 內容簡介 春風微拂，楊柳款擺，文人帶著攜琴的僮僕緩步而行，撚鬚靜觀。他的衣袖觸動了路旁的野花，停留在枝條上的小鳥似乎也被突然闖入的人所驚動，拍翅飛起。尺幅之間，沒有戲劇性的事件發生，卻紀錄了一個凝定的悠閒而詩意的片刻，正與宋寧宗的題詩相應：「觸袖野花多自舞，避人幽鳥不成啼。」這正反映了從北宋末徽宗朝開始提倡的詩畫結合之風。此外，由於南宋皇室對書畫興趣濃厚，宮廷畫作上常有當代帝后的題詩，本幅即是一典型代表。 馬遠號欽山，南宋光宗、寧宗朝（西元1190－1224年）時任職畫院待詔。他的家族中從祖父、父親到子姪輩，世代均以能畫著稱，也有多位擔任宮廷畫家，並深受皇室欣賞，馬遠則是其中最負盛名者。 畫中的物象集中於一邊，留白較多，這正是以馬遠、夏珪為代表的馬夏畫派最著名的「半邊一角」構圖。以側鋒刷染表現石塊堅硬的質感，則是馬夏風格註冊商標之一的斧劈皴，和畫搖曳柳條之柔軟綿長的筆法恰成對比，可以看出畫家對筆墨的精確掌握。 (馬孟晶) 內容簡介 馬遠，河中人，後遷居錢塘，南宋光宗、寧宗朝（1190--1224）為畫院待詔，號欽山。祖父兄子世代均以畫名。畫山水更能以臨安風光為題材，取景重心，偏置畫幅一角，故其構圖有「馬一角」之稱。 江南春晴，高士白袍，頭戴漆紗籠冠，捻鬚閒吟，寬袖觸動了野花，驚嚇樹稍上的一對黃鶯。一童抱琴相隨，似是尋勝覓句，又似赴約訪友。本幅人物行動中所成意境，恰如畫上題詩宋寧宗所題：「觸袖野花多自舞﹔避人幽鳥不成啼。」但也讓人寫想起此境是從宋人程頤「春日偶成詩」：「雲淡風輕近午天﹔傍花隨柳過前川。」轉化而來。畫境透過詩句文字的解釋，更能明確的引起欣賞者的共鳴，此是一例。。宋代畫家自署名款，往往於石隙樹根，不引起人注意處。本幅見名款署於幅左下角。幅左柳樹相交叉，前方一枝橫斜直上，上挂垂絲，出枝長而條暢，造形上即所謂「拖枝馬遠」之特徵。馬遠用筆沉厚，見於柳樹幹及岩石之輪廓，又畫人物畫衣紋，下筆重，若釘頭，收筆尖，如鼠尾，但行筆又略顫掣，極具變化。 內容簡介 馬遠，河中人，後遷居錢塘，南宋光宗、寧宗朝(西元1190-1224年)為畫院待詔，號欽山。祖父兄子世代均以畫名。畫山水更能以臨安風光為題材，取景重心，偏置畫幅一角，故其構圖有「馬一角」之稱。本幅畫柳岸鶯啼，高士白袍，頭戴漆紗籠冠，一童抱琴相隨，行動中所成意境，恰如畫上宋寧宗題詩：「觸袖野花多自舞；避人幽鳥不成啼。」馬遠用筆沉厚，其畫衣紋，下筆重若釘頭，收筆尖如鼠尾，但行筆又略顫掣，極具變化。用墨則輕重層次極多。本幅選自「名繪集珍」冊第十三幅。 內容簡介 畫上寧宗題詩「觸袖野花多自舞，避人幽鳥不成啼」，書法率意秀雅。左下畫緣款署馬遠，為光宗（1190-1194在位）、寧宗（1195-1224在位）朝宮廷畫家。 詩句描寫自然中靜謐野花，因高士步入轉為動態，枝頭黃鶯隨之飛離。畫面融合詩意，動靜相參。近景幽鳥離枝，而柳絲尚飄動；抱琴侍童將進入畫面中心，而高士則停步駐足靜觀自然，撚鬚覓句，目光延伸至虛渺大地。畫面上飛離的鳥兒及垂柳飄動方向，將觀者目光導向帝王題詩及背後詩思。(20101015) Description Emperor Ningzong’s poem inscribed in the upper right corner reads, “The wild flowers dance when brushed by my sleeves. Reclusive birds make no sound as they shun the presence of people.” The calligraphy is direct yet beautifully elegant. In the lower left is the signature of Ma Yuan, a court painter in the reigns of Emperors Guangzong (r. 1190-1194) and Ningzong (r. 1195-1224). These lines of poetry describe the stillness and tranquility of wild flowers, only to be disturbed by the intrusion of a lofty scholar taking a walk, a golden oriole responding by taking off in flight. The painting fuses lyrical meanings as stillness and activity intersect at this moment. As the bird takes flight, the branches of the weeping willow seem to blow in the breeze at the same time. A child attendant carries a wrapped zither proceeding to the middle of the painting while the lofty scholar seems to have stopped in mid-step to ponder the beauty of Nature. He twists his beard as if composing a verse, his view extending into the misty distance of the great void. The direction of the bird in flight and the movement of the willow branches naturally take the viewer’s eyes to the imperial inscription and the poetic intent behind it.(20101015) Description Ma Yuan (sobriquet Ch’in-shan) was originally a native of Ho-chung, but his family later moved to Ch’ien-t’ang (modern Hangchou). He served as Painter-in-Attendance during the reigns of Kuang-tsung and Ning-tsung (1190-1224). From grandfather to son, the entire family court painters. Willows grow on the bank of a stream, orioles chirp, and a scholar in white robes wearing a translucent stiff cap walks in solitude, followed by servant boy carrying a lute. It is like the poem inscribed by Ning-tsung which reads, “The wild flowers dance when brushed by my sleeve; The reclusive birds make no sound, shunning man’s presence.” Ma Yuan’s use of brush was heavy and coarse and his rendering of drapery was decisive, often using the so-called “nail-head” brush strokes and pointed “rat-tai1” strokes. His use of ink includes many layers of light and dark washes. This is the thirteenth leaf from the album Ming-hui chi-chen. 參考書目 1.〈宋馬遠山徑春行〉，收入國立故宮博物院編輯委員會編，《春景山水畫特展圖錄》（臺北：國立故宮博物院，1987年一月初版），頁47。 2.王耀庭，〈馬遠山徑春行〉，收入國立故宮博物院編，《宋代書畫冊頁名品特展》（臺北：國立故宮博物院，1995年初版一刷），頁271-272。 3.王耀庭，〈「七十件書畫冊頁名品特展」精選(四) — 馬遠山徑春行〉，《故宮文物月刊》，第149期（1995年8月），頁66-67。 4.王耀庭，〈帝國的回憶 國立故宮博物院瑰寶赴法展專輯一 — 馬遠山徑春行〉，《故宮文物月刊》，第185期（1998年8月），頁46-47。 5.蕭麗玲，〈也談馬遠〈山徑春行〉的詩畫關係〉，《故宮文物月刊》，第288期（2007年3月），頁88-92。 6.李霖燦，〈山水畫中點景人物的斷代研究〉，《故宮季刊》，第十三卷第二期（1978年冬），頁25-40。 7.許文美，〈山徑春行〉，收入何傳馨主編，《文藝紹興：南宋藝術與文化‧書畫卷》（臺北：國立故宮博物院，2010年十月初版一刷），頁360-361。 收藏著錄 故宮書畫圖錄，第二十九冊，頁152-159 參考書目 何傳馨，〈名繪集珍 冊 宋馬遠山徑春行〉，收入《文藝紹興-南宋藝術與文化‧書畫卷》（臺北：國立故宮博物院，2010.10），頁192-193、361。 參考書目 許文美，〈名繪集珍 冊 宋馬遠山徑春行〉，收入許文美主編《無聲詩-南宋的小品繪畫》（臺北：國立故宮博物院，2021.12），頁28-31、167。 收藏著錄 石渠寶笈三編（延春閣），第五冊，頁2490 收藏著錄 故宮書畫錄（卷六），第四冊，頁180 ",
+      "publicationCopy": {
+        "id": "china-batch-10-mayuan-spring-path",
+        "file": "assets/history-media/china-batch-10-mayuan-spring-path.jpg",
+        "recordIds": [
+          "southern-song"
+        ],
+        "title": {
+          "en": "Ma Yuan’s spring walk",
+          "zh": "马远《山径春行》"
+        },
+        "alt": {
+          "en": "A scholar and a servant carrying a zither stand beneath a willow; birds and an imperial couplet occupy the open space.",
+          "zh": "文士与携琴侍童立于柳下，禽鸟与御题诗句位于留白处。"
+        },
+        "caption": {
+          "en": "Southern Song painting by Ma Yuan, with a couplet by Emperor Ningzong. The museum dates Ma’s court service to 1190–1224, not this undated leaf to a particular year.",
+          "zh": "南宋马远画，附宋宁宗题句；馆方所记1190—1224年为供职时期，并非此未纪年册页的确切创作年。"
+        },
+        "interpretation": {
+          "en": "The small encounter, corner-weighted composition and poem directly illustrate the Southern Song narrative’s intimate landscape and poetic court painting.",
+          "zh": "小型相遇场景、偏角构图与诗句，直接呈现南宋条目中的精微山水与诗意宫廷绘画。"
+        },
+        "creator": "Ma Yuan; couplet by Emperor Ningzong",
+        "date": "Southern Song; exact year unrecorded",
+        "institution": "National Palace Museum, Taipei; 故畫001289N000000013",
+        "kind": "artwork",
+        "representation": "historical-artwork",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/14633?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001289N000000013PAB/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001289N000000013PAB/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/14633?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "名繪集珍 冊 宋馬遠山徑春行。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "名繪集珍 冊 宋馬遠山徑春行。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 1400,
+        "height": 1050,
+        "bytes": 140400,
+        "sha256": "dab9e062e854e2bc8001faa6e0b2bc57a50151fdf6665d2cf97d127de995507d",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, unchanged derivative bytes and individual pixel review preserved in China batch 10.",
+        "contextSources": [],
+        "metadataI18n": {
+          "date": {
+            "en": "Southern Song; exact year unrecorded",
+            "zh": "南宋；具体年份未载"
+          },
+          "creator": {
+            "en": "Ma Yuan; couplet by Emperor Ningzong",
+            "zh": "马远绘；宋宁宗题句"
+          },
+          "institution": {
+            "en": "National Palace Museum, Taipei; 故畫001289N000000013",
+            "zh": "国立故宫博物院，台北；故畫001289N000000013"
+          }
+        }
+      }
+    },
+    {
+      "assetId": "china-batch-10-zhuda-white-plum",
+      "catalogId": 4745,
+      "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/4745?dep=P",
+      "sourceReceipt": "4745-source.html",
+      "sourceText": "4745-source.txt",
+      "downloadReceipt": "4745-receipt.json",
+      "sourceSha256": "9d16b943cf908aa36fdc12cb4b4b6469809b987639474cf3f761ca5f716c2fef",
+      "rightsQuote": "中階圖像與文字均無須申請、不限用途、不用付費即可公開使用，請於適當位置呈現姓名標示。",
+      "credit": "清傳綮寫生 冊 白梅。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+      "pixelReviewed": true,
+      "review": "Entire selected source-served derivative visually inspected. Visible content: Angular branches and faint blossoms cross a largely empty sheet; a poem stands at upper right.",
+      "targetEvidence": [
+        {
+          "record": {
+            "id": "qing-dynasty",
+            "title": {
+              "en": "Qing: a multiethnic imperial order",
+              "zh": "清：多民族的帝国秩序"
+            },
+            "start": 1644,
+            "end": 1912,
+            "region": "east-asia",
+            "theme": "states",
+            "kind": "polity",
+            "importance": 5,
+            "location": {
+              "lat": 39.92,
+              "lon": 116.39,
+              "label": "Beijing",
+              "labelI18n": {
+                "en": "Beijing",
+                "zh": "北京"
+              },
+              "labelProvenance": "reviewed-display-translation"
+            },
+            "locationPrecision": "representative",
+            "summary": {
+              "en": "The Manchu ruling house took Beijing in 1644 and built an empire through conquest, alliance and administrative adaptation. Court patronage embraced Chinese cultural traditions while retaining a distinct imperial identity. Paintings could celebrate authority, reinterpret earlier masters or express dissent after dynastic change. The Qing story spans expansion, artistic production and later political crisis rather than a single unchanging system. Its nineteenth-century pressures and reform debates eventually fed the 1911 revolution. The dynasty ended with abdication in 1912, while communities and institutions associated with it continued into republican and later histories.",
+              "zh": "满洲统治者于1644年进入北京，通过征服、联盟与制度调整建立帝国。宫廷吸收中国文化传统，也保持自身皇权特色。绘画既能歌颂统治，也可重释古人或表达易代之际的不同立场。清史涵盖扩张、文化创造和后期危机；十九世纪的压力与改革争论最终汇入辛亥革命。1912年退位结束王朝，与其相关的群体和制度则继续存在。"
+            },
+            "dateNote": {
+              "en": "1644 is the entry into Beijing, not the 1636 adoption of the Qing name. The 1912 abdication is supported by the 1911-revolution source.",
+              "zh": "1644年为入北京，并非1636年改国号为清；1912年退位依据辛亥革命史料。"
+            },
+            "sources": [
+              {
+                "title": "The Qing Dynasty (1644–1911): Painting",
+                "url": "https://www.metmuseum.org/essays/the-qing-dynasty-1644-1911-painting",
+                "publisher": "The Metropolitan Museum of Art",
+                "checkedAt": "2026-10-22",
+                "evidenceNote": "1644 is the entry into Beijing, not the 1636 adoption of the Qing name. The 1912 abdication is supported by the 1911-revolution source."
+              },
+              {
+                "title": "The Chinese Revolution of 1911",
+                "url": "https://history.state.gov/milestones/1899-1913/chinese-rev",
+                "publisher": "U.S. Department of State, Office of the Historian",
+                "checkedAt": "2026-10-22",
+                "evidenceNote": "1644 is the entry into Beijing, not the 1636 adoption of the Qing name. The 1912 abdication is supported by the 1911-revolution source."
+              }
+            ]
+          },
+          "previouslyCovered": false,
+          "connection": {
+            "en": "The museum identifies Zhu Da as a Ming imperial descendant who became a monk after the dynasty fell. His spare personal brushwork makes the Qing narrative’s artistic responses to dynastic change concrete, without assigning the plum an unproven political allegory.",
+            "zh": "馆方记朱耷为明宗室后裔，易代后出家；疏简个人笔墨具体呈现清代条目中的易代艺术回应，但不据此为梅花强加未经证实的政治寓意。"
+          }
+        }
+      ],
+      "identityEvidence": "文物統一編號 故畫001203N000000011 作品號 故畫00120300011 品名 清傳綮寫生 冊 白梅 White Plum Blossoms 分類 繪畫 作者 朱耷 創作時間 清世祖順治十六年（1659） 數量 一幅 典藏尺寸 --> 位置 尺寸(公分) 本幅 24.6x31.5 質地 --> 質地位置 質地 本幅 紙 題跋資料 --> 題跋類別 作者 位置 款識 書體 全文 作者款識 朱耷 印記 expand_more 本幅 碧蓮花競雪天開。又道寒巖放早梅。大抵春回俱一致。只教迸散白雪堆。 行楷書 印主 印記 朱耷 雪衲 朱耷 刃菴 印記資料 --> 印記類別 印主 印記 收傳印記 宋致 宋致審定 主題 --> 主題類別 主題(第一層) 主題(第二層) 主題說明 次要主題 花草 梅（白．紅．蠟梅） 白梅 技法 --> 技法 技法細目 寫意 參考資料 --> 類別 參考資料 收藏著錄 石渠寶笈初編（養心殿），上冊，頁509-510 收藏著錄 故宮書畫錄（卷六），第四冊，頁141-143 收藏著錄 故宮書畫圖錄，第二十三冊，頁298-301 參考書目 1.劉芳如，〈清傳綮早梅圖〉，收入國立故宮博物院編輯委員會編，《畫梅名品特展》（臺北：國立故宮博物院，1991年元月初版），頁97。 2.〈清傳綮寫生 冊 白梅〉，收入譚怡令、劉芳如、林莉娜主編《滿庭芳-歷代花卉名品特展》（臺北：國立故宮博物院，2010年十二月初版一刷），頁122-123。 網頁展示說明 傳綮（約1626-1705）為明皇族後裔，原名朱耷，號八大山人，江西南昌人。明亡後出家為僧，後又改信道教。作畫多採水墨大寫意法，尤以花鳥最稱特出。筆墨簡練，將物象擬人化，用象徵手法表達寓意，締造了藉物抒情的獨到風格。 本幅選自〈寫生冊〉，為其卅四歲（1659）壯年時期的作品。筆法雖較晚期拘謹，但取景布局，奇絕無倫，充分刻畫出作者特立不群的性情。白梅以外的餘白幾乎佔據全幅過半，幸而右上角自題七絕一首，適時穩定了畫面的均衡之勢。(20110102) 網頁展示說明 Chuanqi was a descendant of the Ming dynasty imperial family. A native of Nanchang in Jiangxi, his original name was Zhu Da, and he had the sobriquet Bada shanren. After the fall of the Ming in 1644, he became a Buddhist monk but later converted to Daoism. Most of his paintings were done in a very expressive \"sketching ideas\" manner, his bird-and-flower subjects being most outstanding. With his mature and succinct brush and ink, he personified his subjects, using symbolic methods of expression to convey meaning and thus creating an original style with which to convey his feelings. This work, from \"Album of Sketches from Life,\" was done at the Chinese age of 34 (1659), making it a relatively early work by Chuanqi. Although the brushwork is more cautious than that of his later years, the arrangement of the scenery is quite unusual with a style of its own, fully portraying the personal and individual nature of the artist. The blank area of the painting, except for that representing the white plum blossoms, takes up more than half of the composition. In the upper right corner is the artist's inscription, which suitably balances the compositional force. (20110102) 網頁展示說明 伝綮（1626？-1705？）、明皇族の後裔、本名は朱耷、號は八大山人、江西南昌の人。明朝滅亡後に出家して僧侶となったが、後に道教に改宗した。作品の多くに水墨大写意を用い、特に花鳥畫が傑出している。簡素な筆遣いで物象を擬人化し、象徵的に寓意を表した。物象を通してその思いを表現する独自の作風を生み出した。 本作は『写生冊』に収錄されている。伝綮34歳（1659）、壯年期の作品である。筆法は晩期ほどの伸びやかさはなくやや堅苦しいが、構図や配置には独特の個性があり、畫家の世俗とは距離を置く姿勢がよく表れている。余白が畫面の大部分を占めているが、右上にある自題の七言絕句一首が畫面全体のバランスを取っている。(20110102) ",
+      "publicationCopy": {
+        "id": "china-batch-10-zhuda-white-plum",
+        "file": "assets/history-media/china-batch-10-zhuda-white-plum.jpg",
+        "recordIds": [
+          "qing-dynasty"
+        ],
+        "title": {
+          "en": "Zhu Da’s spare White Plum",
+          "zh": "朱耷疏简的《白梅》"
+        },
+        "alt": {
+          "en": "Angular branches and faint blossoms cross a largely empty sheet; a poem stands at upper right.",
+          "zh": "转折枝条与淡墨花朵横穿大片留白，右上有题诗。"
+        },
+        "caption": {
+          "en": "White Plum from Chuanqi’s Sketches from Life, dated 1659 in the collection record. Chuanqi was a name used by Zhu Da.",
+          "zh": "传綮《写生》册之《白梅》，馆藏定年1659；传綮为朱耷所用名号。"
+        },
+        "interpretation": {
+          "en": "The museum identifies Zhu Da as a Ming imperial descendant who became a monk after the dynasty fell. His spare personal brushwork makes the Qing narrative’s artistic responses to dynastic change concrete, without assigning the plum an unproven political allegory.",
+          "zh": "馆方记朱耷为明宗室后裔，易代后出家；疏简个人笔墨具体呈现清代条目中的易代艺术回应，但不据此为梅花强加未经证实的政治寓意。"
+        },
+        "creator": "Zhu Da, using the name Chuanqi",
+        "date": "1659 (museum dating)",
+        "institution": "National Palace Museum, Taipei; 故畫001203N000000011",
+        "kind": "artwork",
+        "representation": "historical-artwork",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/4745?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001203N000000011PAA/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001203N000000011PAA/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/4745?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "清傳綮寫生 冊 白梅。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "清傳綮寫生 冊 白梅。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 1400,
+        "height": 1048,
+        "bytes": 126937,
+        "sha256": "ed63a58bb07dc6ef1f18b407bfcbe08998588f6901aa7457f74f177687f8d476",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, unchanged derivative bytes and individual pixel review preserved in China batch 10.",
+        "contextSources": [],
+        "metadataI18n": {
+          "date": {
+            "en": "1659 (museum dating)",
+            "zh": "1659年（馆藏定年）"
+          },
+          "creator": {
+            "en": "Zhu Da, using the name Chuanqi",
+            "zh": "朱耷，时署传綮"
+          },
+          "institution": {
+            "en": "National Palace Museum, Taipei; 故畫001203N000000011",
+            "zh": "国立故宫博物院，台北；故畫001203N000000011"
+          }
+        }
+      }
+    },
+    {
+      "assetId": "china-batch-10-guan-celadon-washer",
+      "catalogId": 26307,
+      "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/26307?dep=U",
+      "sourceReceipt": "26307-source.html",
+      "sourceText": "26307-source.txt",
+      "downloadReceipt": "26307-receipt.json",
+      "sourceSha256": "a74ffc47c8a82d2e1d270a3fd0e3bb90158f24deb90090926d8c2cca6d96be11",
+      "rightsQuote": "中階圖像與文字均無須申請、不限用途、不用付費即可公開使用，請於適當位置呈現姓名標示。",
+      "credit": "官窯 青瓷印花龍紋洗。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+      "pixelReviewed": true,
+      "review": "Entire selected source-served derivative visually inspected. Visible content: A low green-glazed bowl shows a network of crackles and a faint dragon in its interior.",
+      "targetEvidence": [
+        {
+          "record": {
+            "id": "southern-song",
+            "title": {
+              "en": "Southern Song: a court remade in the south",
+              "zh": "南宋：在南方重建的朝廷"
+            },
+            "start": 1127,
+            "end": 1279,
+            "region": "east-asia",
+            "theme": "states",
+            "kind": "polity",
+            "importance": 4,
+            "location": {
+              "lat": 30.25,
+              "lon": 120.17,
+              "label": "Lin’an / Hangzhou",
+              "labelI18n": {
+                "en": "Lin’an / Hangzhou",
+                "zh": "临安／杭州"
+              },
+              "labelProvenance": "reviewed-display-translation"
+            },
+            "locationPrecision": "representative",
+            "summary": {
+              "en": "After losing the northern capital, the Song court established itself around Hangzhou. The southern political and cultural world developed its own artistic language, including intimate landscape views, refined ceramics and poetic court painting. Neo-Confucian thinkers investigated how moral cultivation and the study of things related to knowledge. Northern and southern China were now governed by different states, making this period especially useful for comparing simultaneous histories rather than assuming one dynasty occupied the entire region. The Mongol conquest ended the Southern Song state, while its cultural practices continued to influence later generations.",
+              "zh": "失去北方都城后，宋廷在杭州一带重建政治中心。南方的文化环境发展出精微山水、陶瓷和富有诗意的宫廷绘画。理学家则探讨修养、格物与知识的关系。此时南北由不同国家统治，适合用同时代对照理解历史，而非假定一个王朝始终覆盖整个地区。蒙古征服终结南宋国家，其文化实践却继续影响后世。"
+            },
+            "dateNote": {
+              "en": "1127–1279 covers the Southern Song state; the representative pin is its capital, Lin’an, now Hangzhou.",
+              "zh": "1127—1279年为南宋时期；标记为都城临安，即今杭州。"
+            },
+            "sources": [
+              {
+                "title": "Southern Song Dynasty (1127–1279)",
+                "url": "https://www.metmuseum.org/essays/southern-song-dynasty-1127-1279",
+                "publisher": "The Metropolitan Museum of Art",
+                "checkedAt": "2026-10-22",
+                "evidenceNote": "1127–1279 covers the Southern Song state; the representative pin is its capital, Lin’an, now Hangzhou."
+              }
+            ]
+          },
+          "previouslyCovered": false,
+          "connection": {
+            "en": "The glaze and shallow form give the Southern Song narrative’s refined ceramics a specific example. The later mistaken label also shows why an imperial collection’s attribution must be distinguished from current object research.",
+            "zh": "釉色与浅器形为南宋条目中的精致陶瓷提供实例；后世误题又说明宫廷旧定名应与现今器物研究区分。"
+          }
+        }
+      ],
+      "identityEvidence": "文物統一編號 故瓷014111N000000000 品名 官窯 青瓷印花龍紋洗 Washer with impressed dragon decoration in celadon glaze, Guan ware 分類 陶瓷器 時代 南宋 西元1127-1279年 尺寸 高4.7公分 口徑18.0公分 說明 圓口，深壁微外鼓，平底無足。全器滿施青釉，釉色偏綠，釉表滿佈開片，局部有冰裂紋。因採用墊燒法燒製，底面有一圈無釉的「蛇目」痕。口沿有磨釉痕跡，傳世帶木座，底刻「宋汝窯蟠螭洗」、「甲」字，和「古稀天子御玩」。以今日的陶瓷史視野來看，這件作品無疑是南宋官窯，但乾隆皇帝將南宋官窯看成是汝窯，說明他有時候也官、汝不分。 參考資料 --> 書名 作者/編者 出版者 出版日期 《得佳趣─乾隆皇帝的陶瓷品味》 余佩瑾 國立故宮博物院 2012/01 《貴似晨星：清宮傳世12至14世紀青瓷特展》 余佩瑾 國立故宮博物院 2016/05 《品牌的故事：乾隆皇帝的文物收藏與包裝藝術》 余佩瑾、吳曉筠、侯怡利、何炎泉、許媛婷、洪順興 國立故宮博物院 2017/12 《皇帝的多寶格》 余佩瑾、侯怡利、吳曉筠、黃蘭茵、張莅 國立故宮博物院 2020/04 《故宮瓷器錄 第一輯 宋元》(上編) 國立故宮 中央博物院聯合管理處 國立故宮 中央博物院聯合管理處 1961/04 南宋官窯特展 蔡和璧 國立故宮博物院 1989 《文藝紹興－南宋藝術與文化‧器物卷》 蔡玫芬 臺北巿：國立故宮博物院 2010/10 ",
+      "publicationCopy": {
+        "id": "china-batch-10-guan-celadon-washer",
+        "file": "assets/history-media/china-batch-10-guan-celadon-washer.jpg",
+        "recordIds": [
+          "southern-song"
+        ],
+        "title": {
+          "en": "A Southern Song Guan-ware washer",
+          "zh": "南宋官窑青瓷洗"
+        },
+        "alt": {
+          "en": "A low green-glazed bowl shows a network of crackles and a faint dragon in its interior.",
+          "zh": "低矮青釉器表面遍布开片，内底隐约可见龙纹。"
+        },
+        "caption": {
+          "en": "Guan-ware washer with impressed dragon decoration, Southern Song, 1127–1279. The later wooden stand calls it Ru ware, an attribution the museum rejects.",
+          "zh": "南宋（1127—1279年）官窑青瓷印花龙纹洗；后配木座称其为汝窑，馆方不采此旧定名。"
+        },
+        "interpretation": {
+          "en": "The glaze and shallow form give the Southern Song narrative’s refined ceramics a specific example. The later mistaken label also shows why an imperial collection’s attribution must be distinguished from current object research.",
+          "zh": "釉色与浅器形为南宋条目中的精致陶瓷提供实例；后世误题又说明宫廷旧定名应与现今器物研究区分。"
+        },
+        "creator": "Unidentified Guan-kiln potters",
+        "date": "Southern Song, 1127–1279",
+        "institution": "National Palace Museum, Taipei; 故瓷014111N000000000",
+        "kind": "object",
+        "representation": "object-photograph",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/26307?dep=U",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/K1B%2FK1B014111N000000000PAA/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/K1B%2FK1B014111N000000000PAA/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/26307?dep=U",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "官窯 青瓷印花龍紋洗。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "官窯 青瓷印花龍紋洗。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 1400,
+        "height": 1050,
+        "bytes": 83719,
+        "sha256": "9a450b01c6bbcce2f4996c1637825f0dd7ad9273cea81cefcdee15fcf98501b7",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, unchanged derivative bytes and individual pixel review preserved in China batch 10.",
+        "contextSources": [],
+        "metadataI18n": {
+          "date": {
+            "en": "Southern Song, 1127–1279",
+            "zh": "南宋，1127—1279年"
+          },
+          "creator": {
+            "en": "Unidentified Guan-kiln potters",
+            "zh": "佚名官窑陶工"
+          },
+          "institution": {
+            "en": "National Palace Museum, Taipei; 故瓷014111N000000000",
+            "zh": "国立故宫博物院，台北；故瓷014111N000000000"
+          }
+        }
+      }
+    },
+    {
+      "assetId": "china-batch-10-qin-measure-rubbing",
+      "catalogId": 19492,
+      "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/19492?dep=P",
+      "sourceReceipt": "19492-source.html",
+      "sourceText": "19492-source.txt",
+      "downloadReceipt": "19492-PAB-receipt.json",
+      "sourceSha256": "75226975be5f0fa92d1f5620272f8039df64e311927b416a974b66cdda7946e8",
+      "rightsQuote": "中階圖像與文字均無須申請、不限用途、不用付費即可公開使用，請於適當位置呈現姓名標示。",
+      "credit": "秦量墨拓 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+      "pixelReviewed": true,
+      "review": "Entire selected source-served derivative visually inspected. Visible content: A rubbing records a handled oval measure and its inscription, with later collector writing and seals.",
+      "targetEvidence": [
+        {
+          "record": {
+            "id": "qin-unification",
+            "title": {
+              "en": "Qin: unification and its human cost",
+              "zh": "秦：统一及其社会代价"
+            },
+            "start": -221,
+            "end": -206,
+            "region": "east-asia",
+            "theme": "states",
+            "kind": "polity",
+            "importance": 4,
+            "location": {
+              "lat": 34.33,
+              "lon": 108.71,
+              "label": "Xianyang, Qin imperial capital",
+              "labelI18n": {
+                "en": "Xianyang, Qin imperial capital",
+                "zh": "咸阳，秦朝帝都"
+              },
+              "labelProvenance": "reviewed-display-translation"
+            },
+            "locationPrecision": "representative",
+            "summary": {
+              "en": "Qin conquered the remaining rival states and created an imperial government claiming authority over a unified realm. Standardization of writing, weights and measures helped officials administer distant communities, while roads and large construction projects connected the new political order. The dynasty depended on military force and demanding labor obligations. Its collapse soon after the First Emperor’s death shows that administrative ambition did not guarantee durable consent. Later dynasties retained important imperial institutions even as they condemned aspects of Qin rule. The mausoleum nearby offers one material view of this concentration of resources.",
+              "zh": "秦灭六国，建立统辖统一帝国的政治制度。文字、度量衡等标准化措施帮助官员治理远方社会，道路和大型工程连接新的国家秩序。军事实力与繁重劳役也是其基础。始皇去世后王朝迅速崩溃，说明行政组织能力并不等同于持久认同。后世一面批评秦政，一面继承若干帝国制度；陵墓则留下资源高度集中的物质见证。"
+            },
+            "dateNote": {
+              "en": "221–206 BCE covers the imperial dynasty, not the much earlier Qin state. Xianyang is a capital reference, not a territorial centre.",
+              "zh": "前221—206年指秦帝国，并非更早的秦国；咸阳为都城参照点。"
+            },
+            "sources": [
+              {
+                "title": "China, 1000 B.C.–1 A.D.",
+                "url": "https://www.metmuseum.org/toah/ht/04/eac.html",
+                "publisher": "The Metropolitan Museum of Art",
+                "checkedAt": "2026-10-22",
+                "evidenceNote": "221–206 BCE covers the imperial dynasty, not the much earlier Qin state. Xianyang is a capital reference, not a territorial centre."
+              }
+            ]
+          },
+          "previouslyCovered": false,
+          "connection": {
+            "en": "The inscription explicitly orders inconsistent measures to be unified. It directly documents the Qin entry’s standardization policy, while the vessel outline shows the practical measuring object carrying that order.",
+            "zh": "铭文明确要求度量不一者统一，直接对应秦条目的标准化政策；器形拓影显示承载诏令的实际量器。"
+          }
+        }
+      ],
+      "identityEvidence": "文物統一編號 贈拓000355N000000000 作品號 贈拓00035500000 品名 秦量墨拓 軸 Ink Rubbing of a Qin Measure 分類 拓片 作者 秦朝 Qin Dynasty 書體 金文 數量 一軸 作品語文 漢文 釋文 廿六年皇帝盡并兼天下諸侯。黔首大安。立號為皇帝。乃詔丞相狀綰。法度量則不一。兼疑者。皆明一之。（拓器形） 典藏尺寸 --> 位置 尺寸(公分) 全幅 149.5x45.7 本幅 66.6x20.7 質地 --> 質地位置 質地 本幅 紙 題跋資料 --> 題跋類別 作者 位置 款識 書體 全文 題跋 易培基 印記 expand_more 本幅 楷書 秦量。陳簠齋所藏。得之廠肆。鹿山。 印主 印記 易培基 易培基印 題籤 秦量 印記資料 --> 印記類別 印主 印記 收傳印記 海濱病史 收傳印記 齋東陶父 收傳印記 簠齋吉金文字 參考資料 --> 類別 參考資料 內容簡介 秦朝為統一全國量制，由官府頒發標準量器，以戰國時期秦國量制為標準。秦量外壁大多帶有秦始皇二十六年（西元前二二一年）的統一度量衡詔書，或加刻二世詔書。此量扁橢圓形，一端有柄，外壁刻有秦始皇二十六年詔書四十字。秦量文字與小篆的平正婉轉不同，易圓為方，筆畫勁挺遒勁，瘦硬樸拙，字體大小錯落，結體偃仰相映，隨勢生姿，恣意而富奇趣。此拓為譚伯羽、譚季甫先生昆仲捐贈。(20120104) Description The Qin dynasty, after unifying China, set about standardizing units across the land, issuing measures using its norms previously from the Warring States. The outsides of most Qin measures are inscribed with the imperial edict for standards issued in 221 BCE or a subsequent one. The measure for this rubbing (donated by Messrs. Tann Boyu and Tann Jifu) is flat and oval in shape with a handle on one side and engraved outside with 40 characters of the 221 edict. Qin measure characters differ from the straight, even winding of small seal script, being rounded yet angular. The strokes are strong, upright and powerful with a thin hardness simple and awkward. Character size varies and forms lean with momentum, making for rich and unusual forms. (20120104) 收藏著錄 譚伯羽譚季甫先生昆仲捐贈文物目錄，頁236、436 ",
+      "publicationCopy": {
+        "id": "china-batch-10-qin-measure-rubbing",
+        "file": "assets/history-media/china-batch-10-qin-measure-rubbing.jpg",
+        "recordIds": [
+          "qin-unification"
+        ],
+        "title": {
+          "en": "The standardization edict on a Qin measure",
+          "zh": "秦量上的统一度量衡诏书"
+        },
+        "alt": {
+          "en": "A rubbing records a handled oval measure and its inscription, with later collector writing and seals.",
+          "zh": "拓片记录带柄椭圆量器及铭文，旁有后世藏家题记与印章。"
+        },
+        "caption": {
+          "en": "Undated paper rubbing of a Qin measure bearing the forty-character standardization edict of 221 BCE. The rubbing itself is not dated to the Qin dynasty.",
+          "zh": "未纪年纸本秦量拓片，所拓为公元前221年四十字统一度量衡诏书；拓片本身并非据此定为秦代。"
+        },
+        "interpretation": {
+          "en": "The inscription explicitly orders inconsistent measures to be unified. It directly documents the Qin entry’s standardization policy, while the vessel outline shows the practical measuring object carrying that order.",
+          "zh": "铭文明确要求度量不一者统一，直接对应秦条目的标准化政策；器形拓影显示承载诏令的实际量器。"
+        },
+        "creator": "Unidentified rubbing maker; Qin imperial inscription",
+        "date": "Rubbing undated; reproduces an edict of 221 BCE",
+        "institution": "National Palace Museum, Taipei; 贈拓000355N000000000",
+        "kind": "manuscript",
+        "representation": "manuscript-detail",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/19492?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/A2I%2FA2I000355N000000000PAB/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/A2I%2FA2I000355N000000000PAB/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/19492?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "秦量墨拓 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "秦量墨拓 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 1065,
+        "height": 1400,
+        "bytes": 125150,
+        "sha256": "782b40528fca2b61d298d8520d748c9fbc2c126144cdccfc255b99fde37a32fb",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, unchanged derivative bytes and individual pixel review preserved in China batch 10.",
+        "contextSources": [],
+        "metadataI18n": {
+          "date": {
+            "en": "Rubbing undated; reproduces an edict of 221 BCE",
+            "zh": "拓制年代未载；复制公元前221年诏书"
+          },
+          "creator": {
+            "en": "Unidentified rubbing maker; Qin imperial inscription",
+            "zh": "佚名拓工；秦代诏书铭文"
+          },
+          "institution": {
+            "en": "National Palace Museum, Taipei; 贈拓000355N000000000",
+            "zh": "国立故宫博物院，台北；贈拓000355N000000000"
+          }
+        }
+      }
+    },
+    {
+      "assetId": "china-batch-10-wenzhengming-drunken-pavilion",
+      "catalogId": 2478,
+      "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/2478?dep=P",
+      "sourceReceipt": "2478-source.html",
+      "sourceText": "2478-source.txt",
+      "downloadReceipt": "2478-PAB-receipt.json",
+      "sourceSha256": "95a6c15972693ce3fc2f5125796ce89e7310ac538106ef2b6917f07d419f04a1",
+      "rightsQuote": "中階圖像與文字均無須申請、不限用途、不用付費即可公開使用，請於適當位置呈現姓名標示。",
+      "credit": "明文徵明書醉翁亭記 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+      "pixelReviewed": true,
+      "review": "Entire selected source-served derivative visually inspected. Visible content: Fine regular-script columns reproduce the essay beside a dated signature and red seals.",
+      "targetEvidence": [
+        {
+          "record": {
+            "id": "china-landmark-386",
+            "title": {
+              "en": "Prefect Ouyang Xiu governs Chuzhou lightly and writes Pavilion of the Old Drunkard on Mt. Langya",
+              "zh": "欧阳修左迁知滁州宽简治民，作《醉翁亭记》与民同乐"
+            },
+            "start": 1046,
+            "end": 1046,
+            "location": {
+              "lon": 118.32,
+              "lat": 32.3,
+              "label": "Langya Mountain, Chuzhou",
+              "labelI18n": {
+                "en": "Langya Mountain, Chuzhou",
+                "zh": "滁州琅琊山"
+              },
+              "labelProvenance": "inherited-source-place-pair"
+            },
+            "region": "east-asia",
+            "theme": "states",
+            "kind": "event",
+            "importance": 1,
+            "summary": {
+              "en": "Prefect Ouyang Xiu governs Chuzhou lightly and writes Pavilion of the Old Drunkard on Mt. Langya",
+              "zh": "欧阳修左迁知滁州宽简治民，作《醉翁亭记》与民同乐"
+            },
+            "dateNote": {
+              "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+              "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+            },
+            "locationPrecision": "representative",
+            "sources": [
+              {
+                "title": "Chronicles of the Realm — js/lore_data.js (frozen source dataset)",
+                "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/lore_data.js",
+                "publisher": "DeanChensj / Chronicles of the Realm",
+                "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+                "checkedAt": "2026-10-23"
+              }
+            ],
+            "aliases": [
+              "滁州琅琊山",
+              "Langya Mountain, Chuzhou"
+            ],
+            "provenance": {
+              "dataset": "jiangshan",
+              "status": "inherited",
+              "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+              "periodId": "beisong",
+              "periodIds": [
+                "beisong"
+              ],
+              "sourceRecords": [
+                {
+                  "file": "js/lore_data.js",
+                  "path": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/385",
+                  "index": 385
+                }
+              ],
+              "note": {
+                "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+                "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+              }
+            },
+            "relatedIds": [
+              "northern-song",
+              "liao-dynasty",
+              "western-xia-dynasty"
+            ]
+          },
+          "previouslyCovered": false,
+          "connection": {
+            "en": "The named text is the literary work central to the Chuzhou entry. A Ming calligrapher’s careful transcription shows its continuing readership centuries after Ouyang’s local service.",
+            "zh": "此篇正是滁州条目的核心文学作品；明代书家精心抄写，展示欧阳修任职数百年后的持续阅读与传播。"
+          }
+        }
+      ],
+      "identityEvidence": "文物統一編號 故書000017N000000000 作品號 故書00001700000 品名 明文徵明書醉翁亭記 軸 Record of the Pavilion of the Drunken Old Man 分類 法書 作者 文徵明,Wen Zhengming 書體 楷書 創作時間 明世宗嘉靖三十年（1551） 數量 一軸 作品語文 漢文 釋文 醉翁亭記。環滁皆山也。其西南諸峯林壑猶美。望之蔚然而深秀者。瑯琊也。山行六七里。漸聞水聲。潺潺而瀉。出於兩峰之間者。釀泉也。峰回路轉。有亭翼然臨於泉上者。醉翁亭也。作亭者誰。山之僧智仙也。名之者誰。太守自謂也。太守與客來飲於此。飲少輙醉。而年又最高。故自號曰醉翁也。醉翁之意不在酒。在乎山水之間也。山水之樂。得之心而寓之酒也。若夫日出而林霏開。雲歸而巗穴暝。晦明變化者。山間之朝暮也。野芳發而幽香。佳木秀而繁蔭。風霜高潔。水落而石出者。山間之四時也。朝而往。暮而歸。四時之景不同。而樂亦無窮也。至於負者歌於塗。行者休於樹。前者呼。後者應。傴僂提携往來而不絕者。滁人遊也。臨溪而漁。溪深而魚肥。釀泉為酒。泉香而酒冽。山肴野簌。雜然而前陳者。太守宴也。宴酣之樂。非絲非竹。射者中奕者。勝觥籌交錯。坐起喧嘩者。眾賓歡也。蒼顏白髪頹乎其中者。太守醉也。已而夕陽在山。人影散亂。太守歸而賓客從也。林樹陰翳。鳴聲上下。遊人去而禽鳥樂也。然而禽鳥知山林之樂。而不知人之樂。人知從太守遊而樂。而不知太守之樂。其樂也。醉能同其樂。醒能述以文者。太守也。太守謂誰。廬陵歐陽修也。 典藏尺寸 --> 位置 尺寸(公分) 本幅 53.5x28.6 質地 --> 質地位置 質地 本幅 紙 題跋資料 --> 題跋類別 作者 位置 款識 書體 全文 作者款識 文徵明 印記 expand_more 余於梅韻堂。展玩右軍黃庭經初刻。見其筋骨肉三者俱備。後人得其一忘其一。即唐初諸公。親覩右軍墨蹟。尚不能得。何況今日。至其冰姿玉質。宛如飛天仙人。又如臨波仙子。雖久為規撫。而杳不能至。近余且屏居梅韻齋中。案頭日置黃庭經一本。展玩逾時。倦則啜茗數杯。否亦握卷引臥。再日頹然。如是者數月。而右軍運筆之法。炙之愈出。味之愈永。幾為執筆擬之。終日不成一字。近秋初氣爽。偶檢閱歐陽文公文集。愛其婉逸流媚。世傳歐陽公得昌黎遺稿于廢書簏中。讀而心慕之。苦心探賾。至忘寢食。遂以文章名冠天下。予輙有動於中。因倣右軍作小楷數百餘字。聊以寄意。敢云如鳳凰臺之於黃鶴樓也。時嘉靖三十年辛亥（西元一五五一年）七月二十四日。長洲文徵明書于玉磬山房。時年八十有二。 楷書 印主 印記 文徵明 文徵明印 文徵明 衡山 印記資料 --> 印記類別 印主 印記 鑑藏寶璽 清仁宗 嘉慶御覽之寶 參考資料 --> 類別 參考資料 內容簡介 文徵明（西元一四七○－一五五九年），是十六世紀明代中葉蘇州畫壇具有重要影響力的藝術家。在鑑賞與臨習古代書蹟上，他下了許多工夫，並從其中獲得新的創作力量。這幅八十二歲（一五五一）的小楷書後有長跋，談到當時書法上的體驗與書歐陽修「醉翁亭記」的原由。歐陽修從韓愈的文章得到啟發，文徵明也希望從鑽研王羲之的書蹟中，追求如不食人間煙火的仙人一般，冰清玉骨的質感。 內容簡介 文徵明（1470－1559），長洲（今江蘇蘇州）人。本名璧，字徵明，後以字行。亦字徵仲，號停雲生、衡山居士。詩文、書畫並佳。兼善各種書體，尤以小楷及行書最具個人特色。 本幅為文氏八十二歲所書，以極精秀的小楷抄錄歐陽修的〈醉翁亭記〉，並在抄錄原文後，以長跋敘明他仿王羲之風格作此小楷的箇中原委。此作用筆多偏鋒，鋒芒外顯，但結體緊密，用筆穩健精整，是其傳世小楷之極品。 (20110913) 內容簡介 文徵明（西元一四七０－一五五九年），江蘇長洲（今江蘇蘇州）人。初名壁，字徵明，後以字行。亦字徵仲，號停雲生、山居士。詩文書畫並佳，畫師沈周，為明四大家之一。 文徵明兼善各種書體，尤以小楷及行書最具個人特色。小楷師承二王，尤其是「黃庭經」、「樂毅論」。本幅為文氏八十二歲所書的「醉翁亭記」，結體穩當，用筆精妙，是其傳世小楷之極品。 Description Wen Cheng-ming, a native of Soochow, was gifted at all the scholarly arts of poetry, prose, calligraphy and painting. A student of Shen Chou, he became one of the Four Great Masters of the Ming. Wen was gifted at all script types of calligraphy, but small standard and running script best exemplify his personal style. In small standard script, he followed after the Two Wangs, especially the Huang-t'ing Classic and Yueh-i Discussion. This work was done at the age of 81. The characters are stable and the use the brush is superb, making it a masterpiece of small standard script by him, despite the age at which he did it. Description Wen Zhengming (originally name Bi; style names Zhengming [by which he later went] and Zhengzhong; sobriquet Hengshan jushi) was a native of Changzhou (modern Suzhou, Jiangsu). Gifted at poetry and prose as well as painting and calligraphy, including various script types, he especially excelled at small regular and running script, which most reflected his personal style. This work, done by Wen at the age of 82 by Chinese reckoning, uses extremely refined and beautiful small regular script to transcribe Ouyang Xiu’s “Record on the Pavilion of the Old Drunk.” After transcribing the text, Wen also added a long colophon describing why he did this work in small regular script imitating Wang Xizhi’s style. Many of the strokes here were done with a slanted brush exposing its sharp tip. The character forms, nonetheless, are dense and the brushwork steady and refined, making this a masterpiece of Wen’s surviving small regular script. (20110913) Description Wen Cheng-ming was a very influential artist in Soochow art circles during the 16th century in the middle of the Ming dynasty. Wen delved into the connoisseurship and copying of ancient works of calligraphy, from which he received inspiration. In this long colophon done in small standard script in 1551 at the age of 81, Wen discusses his experiences in calligraphy resulting from his transcription of Ou-yang Hsiu's (1007-1072) Record on the Pavilion of the Old Drunk. Ou-yang Hsiu in turn had been inspired by Han Yu's essay. Wen Cheng-ming also hoped that, in his diligent study and pursuit of Wang Hsi-chih's calligraphy, his style would also achieve an air of elegant simplicity both pure and noble. 收藏著錄 故宮書畫錄（卷二），第一冊，頁9-10 研究性論著 宋仁宗慶曆五年（1045）歐陽修（1007--1072）上疏論朋黨，為范仲淹（989--1052）辯護，被人誣陷，貶謫為滁州（現在的安徽滁縣）知州。為排遣心中的鬱悶，常到滁州西南的琅琊山漫遊，山僧特地修築一亭，供他飲酒小憩。此後歐陽修與友人常來此遊玩，飲酒賦詩，命名為「醉翁亭」，於慶曆六年撰〈醉翁亭記〉。文章先介紹醉翁亭的地理位置，四周的景觀，描寫山裡早晚的景色和季節的變化，然後敘述滁州人遊山的情形，及歐陽修與友人們宴樂的情形。最後藉著禽鳥、山林與客人的快樂，抒發愉悅滿足的心情。 這篇文章與范仲淹的〈岳陽樓記〉寫於同一年，同樣是觸景生情，范仲淹以「先憂後樂」為主旨，歐陽修則是暫且拋開國家大事，悠遊於山水之樂中，可以看出北宋士大夫面臨失意挫折時，各有不同的自處之道。 文徵明（1470--1559）以精秀的小楷書此記，時八十二歲（1551），但用筆穩健精整，一點也看不出年歲的影響。書後有長跋，談到當時書法上的體驗與寫〈醉翁亭記〉的原由。他說近幾個月來，專心展玩〈黃庭經〉初拓本，感覺此帖有「冰姿玉質，宛如飛天仙人，又如臨波仙子」的氣質，逐漸體會到王羲之運筆的方法與精神，可是「擬之終日，不成一字」。一日檢讀歐陽修文集，對於歐陽修文筆的婉逸流媚十分欣賞，想到歐陽修少年時，得到韓愈的遺稿，因而苦心鑽研，終於以文章名天下。受到這樣的啟發，遂倣王羲之法完成這件精心之作。 細看之下，文徵明這件書蹟雖然說是要學〈黃庭經〉筆法，卻顯露出歐陽詢（557--641）那種結體嚴密，筆畫勁健的風格。〈黃庭經〉是魏晉時，流傳於道士之間，論養生之道的經文。內容有兩種，一般以外景經和內景經別之。傳世刻本有「永和十二年山陰縣寫」者，為黃庭外景經，相傳是王羲之所書。從南朝梁代以來，這件書蹟經常在書法文獻中提到，明代中葉書家對臨習此經特別有興趣。〈黃庭經〉刻本有不同系統，以書風論，可歸為歐陽詢、虞世南和褚遂良臨本。歐臨本如〈越州石氏本〉，文徵明父子所刻的〈停雲館帖〉兩本中的第二本（不全本），即是根據〈越州石氏本〉翻刻的。 由此可以看出，文徵明是透過歐陽詢再追溯王羲之的筆法。 十六世紀初正德中期，蘇州前輩書畫家逐漸凋零，文徵明繼起，成為藝壇的領袖，嘉靖六年（1527）辭去四年短暫而不如意的公職，從北京回到蘇州，從此專心於藝事，到晚年時無論書法與繪畫都達到極高的造詣，在寫這件〈醉翁亭記〉時，心情大概也和所景仰的歐陽修一樣，寄以無盡的喜樂。（何傳馨） 網頁展示說明 文徵明（1470－1559），長洲（今江蘇蘇州）人。本名璧，字徵明，後以字行。亦字徵仲，號停雲生、衡山居士。詩文、書畫並佳。兼善各種書體，尤以小楷及行書最具個人特色。 本幅為文氏八十二歲所書，以極精秀的小楷抄錄歐陽修的〈醉翁亭記〉，並在抄錄原文後，以長跋敘明他仿王羲之風格作此小楷的箇中原委。此作用筆多偏鋒，鋒芒外顯，但結體緊密，用筆穩健精整，是其傳世小楷之極品。 (20110913) 參考書目 〈明文徵明書醉翁亭記 軸〉，收入吳誦芬、童文娥、譚怡令主編《明四大家特展－文徵明》（臺北：國立故宮博物院，2014.03），頁200-201、335-336。 參考書目 1.江兆申，〈文徵明小楷醉翁亭記 軸〉，收入國立故宮博物院編，《吳派畫九十年展》（臺北：國立故宮博物院，1975年初版，1976年再版，1981年三版），頁316。 2.何傳馨，〈明文徵明醉翁亭記〉，收入何傳馨編，《書法之美特展圖錄》（臺北：國立故宮博物院，1992年五月初版一刷），頁89。 3.陳韻如，〈明文徵明書醉翁亭記〉，收入蔡玫芬主編，《精彩一百 國寶總動員》（臺北：國立故宮博物院，2011年九月初版一刷），頁232。 ",
+      "publicationCopy": {
+        "id": "china-batch-10-wenzhengming-drunken-pavilion",
+        "file": "assets/history-media/china-batch-10-wenzhengming-drunken-pavilion.jpg",
+        "recordIds": [
+          "china-landmark-386"
+        ],
+        "title": {
+          "en": "Wen Zhengming copies the Drunken Pavilion essay",
+          "zh": "文徵明书《醉翁亭记》"
+        },
+        "alt": {
+          "en": "Fine regular-script columns reproduce the essay beside a dated signature and red seals.",
+          "zh": "小楷纵行抄录文章，旁有纪年署款与朱印。"
+        },
+        "caption": {
+          "en": "Wen Zhengming’s copy dated 1551, seventh lunar month, day 24, of Ouyang Xiu’s Drunken Pavilion essay. It is a later copy, not the 1046 original.",
+          "zh": "文徵明1551年农历七月二十四日书欧阳修《醉翁亭记》，为后世抄本，而非1046年原稿。"
+        },
+        "interpretation": {
+          "en": "The named text is the literary work central to the Chuzhou entry. A Ming calligrapher’s careful transcription shows its continuing readership centuries after Ouyang’s local service.",
+          "zh": "此篇正是滁州条目的核心文学作品；明代书家精心抄写，展示欧阳修任职数百年后的持续阅读与传播。"
+        },
+        "creator": "Wen Zhengming; text by Ouyang Xiu",
+        "date": "1551, seventh lunar month, day 24; copies an essay of 1046",
+        "institution": "National Palace Museum, Taipei; 故書000017N000000000",
+        "kind": "manuscript",
+        "representation": "manuscript-detail",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/2478?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/K2B%2FK2B000017N000000000PAB/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/K2B%2FK2B000017N000000000PAB/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/2478?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "明文徵明書醉翁亭記 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "明文徵明書醉翁亭記 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 1050,
+        "height": 1400,
+        "bytes": 191696,
+        "sha256": "bad66d1d0093507a54b8fd38aa7336902f647d0daf63dee1e9d262be448960ad",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, unchanged derivative bytes and individual pixel review preserved in China batch 10.",
+        "contextSources": [],
+        "metadataI18n": {
+          "date": {
+            "en": "1551, seventh lunar month, day 24; copies an essay of 1046",
+            "zh": "1551年农历七月二十四日；抄录1046年文章"
+          },
+          "creator": {
+            "en": "Wen Zhengming; text by Ouyang Xiu",
+            "zh": "文徵明书；欧阳修撰文"
+          },
+          "institution": {
+            "en": "National Palace Museum, Taipei; 故書000017N000000000",
+            "zh": "国立故宫博物院，台北；故書000017N000000000"
+          }
+        }
+      }
+    },
+    [
+      {
+        "assetId": "china-batch-10-altishahr-commemoration",
+        "catalogId": 1562,
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/1562?dep=P",
+        "sourceReceipt": "1562-source.html",
+        "sourceText": "1562-source.txt",
+        "downloadReceipt": "1562-PAA-receipt.json",
+        "sourceSha256": "3d7e49a8cc665863245094f39ba108a84e620804968d0e715a8376896afdcab3",
+        "rightsQuote": "中階圖像與文字均無須申請、不限用途、不用付費即可公開使用，請於適當位置呈現姓名標示。",
+        "credit": "清觀保平定回部告成太學碑文 卷。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+        "pixelReviewed": true,
+        "review": "Entire selected source-served derivative visually inspected. Visible content: The opening of a calligraphic scroll announces an imperial inscription commemorating completion of the campaign.",
+        "targetEvidence": [
+          {
+            "record": {
+              "id": "china-event-qing-020",
+              "title": {
+                "en": "Pacification of the Dzungars and Altishahr; General of Ili established",
+                "zh": "平定准噶尔、回部，设伊犁将军"
+              },
+              "start": 1759,
+              "end": 1759,
+              "location": {
+                "lon": 81.301,
+                "lat": 43.901,
+                "label": "Ili",
+                "labelI18n": {
+                  "en": "Ili",
+                  "zh": "伊犁"
+                },
+                "labelProvenance": "inherited-source-place-pair"
+              },
+              "region": "east-asia",
+              "theme": "states",
+              "kind": "event",
+              "importance": 1,
+              "summary": {
+                "en": "Pacification of the Dzungars and Altishahr; General of Ili established",
+                "zh": "平定准噶尔、回部，设伊犁将军"
+              },
+              "dateNote": {
+                "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+                "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+              },
+              "locationPrecision": "representative",
+              "sources": [
+                {
+                  "title": "Chronicles of the Realm — js/map_data.js (frozen source dataset)",
+                  "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/map_data.js",
+                  "publisher": "DeanChensj / Chronicles of the Realm",
+                  "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+                  "checkedAt": "2026-10-23"
+                }
+              ],
+              "aliases": [
+                "伊犁",
+                "Ili"
+              ],
+              "provenance": {
+                "dataset": "jiangshan",
+                "status": "inherited",
+                "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+                "periodId": "qing",
+                "periodIds": [
+                  "qing"
+                ],
+                "sourceRecords": [
+                  {
+                    "file": "js/map_data.js",
+                    "path": "/DYNASTY_DATA/15/milestones/19",
+                    "index": 19
+                  }
+                ],
+                "note": {
+                  "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+                  "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+                }
+              },
+              "relatedIds": [
+                "qing-dynasty"
+              ]
+            },
+            "previouslyCovered": false,
+            "connection": {
+              "en": "The text celebrates the Qing victory in the emperor’s own political language. It is evidence of official commemoration, not a neutral account of the conquered communities or an image of the fighting.",
+              "zh": "文字以皇帝的政治语言赞颂清军胜利，是官方纪功的证据，而非被征服群体的中立叙述或战斗实景。"
+            }
+          }
+        ],
+        "identityEvidence": "文物統一編號 中書000043N000000000 作品號 中書00004300000 品名 清觀保平定回部告成太學碑文 卷 Conquering Altishahr Stele Erected at the Imperial Academy 分類 法書 作者 索綽絡觀保,Guwamboo 書體 楷書 數量 一卷 作品語文 漢文 釋文 御製平定回部告成太學碑文。建非常之功者。以舉非常之事。舉非常之事者。以藉非常之人。然亦有不藉非常之人。而舉非常之事。終建非常之功者。則賴昊蒼篤貺。神運斡旋。事若禍而移福。機似逆而轉順。順天者昌。逆天者亡。故犁准夷之庭。掃回部之穴。五年之間。兩勳並集。始遲疑猶未敢信。終劼劬以底有成。荷天之龍在茲。畏天之鑒益在茲。爰敘其事如左。達瓦齊之就俘也。伊犁已大定矣。無何而阿莫爾撒納叛。彼其志本欲藉我力以成己事。時也。人心未定。佐饔者嘗一蜮肆狂。萬狙應響。蜂屯蟻襍。不可爬梳。畏難者羣謂不出。所料準夷終不可取。並有欲棄巴里坤為退守謀。然予計其眾志不齊。將有歸正倒戈者。於是。督策將帥之臣。整師亟進。既而。伊犁諸台吉宰桑。果悔過勤王。思討逆賊以自贖。此天恩助順者一也。二酋大小和卓木者。以回部望族。久為準噶爾所拘于阿巴哈斯鄂拓者也。我師既定伊犁。乃釋其囚。以兵送大和卓木波羅尼都歸葉爾奇木。俾統其舊屬。而令小和卓木霍集占居於伊犁。撫其在伊犁眾回。乃小和卓木助阿逆攻勤王之台吉宰桑等。阿逆賴以苟延。及我師再入。阿逆遂逃入哈薩克。而霍集占亦即收其餘眾。竄歸舊穴。此天恩助順者二也。准夷之事。前記略見梗概。茲不復紀。紀興師討㺄回之由。則以我將軍兆惠。在伊犁時。曾遣副都統阿敏道往㺄回議事。小和卓木乃以計誘阿敏道而拘之。及我師抵庫車問罪。彼攜阿敏道以來援。至中途害之。及從行者百人。彼猶逞其狂悖。抗我師顏。且敢冒死入庫車城。乃雅爾哈善略無紀律。致彼出入自由。然我滿洲索倫眾兵士無不念國家之恩、效疆場之力。故能以少勝眾。逆渠懼而兔脫。此天恩助順者三也。知僨轅之無濟。掄榦才之可任。時將軍兆惠以搜勦準夷餘黨至布魯特部落。已款服其眾。因命旋師。定回部。於是。克庫車。存沙雅爾。定阿克蘇。略烏什。收和闐。師之所至。降者望風。直至葉爾奇木城下。而我軍人馬周行萬有餘里。亦猶強弩之末矣。二酋以其逸待之力。統數萬人與我三千餘人戰。我師之過河者纔四百餘。猶能斬將搴旗。退而築堡黑水。固守以待。此天恩助順者四也。萬里之外。抱水救火。其曷能濟。乃予以去年六月。即降旨派兵撥馬。欲以更易。久在行間者耳。故兵馬率早在途。一趲進而各爭前恐後。人人有敵愾之憤。此天恩助順者五也。副將軍富德及參贊舒赫德輩率師進援以速。行戈壁中。馬力復疲。值狂㺄回據險坐俟。頗有難進之勢。夫援軍不能進則固守以待者。危矣。而參贊阿里袞驅後隊之馬適至。夜擣賊營。我師內外夾攻。彼不知我軍凡有幾萬。握炭流湯之徒。自相蹂躪。顧命不暇。於是解黑水之圍。鹿駭麞驚。遁而保窟。我之兩軍。合隊全旅。以迴阿克蘇。此天恩助順者六也。既而。彼料我必再入。泰山之壓難當。乃於我師未進之先。攜其部落。載其重器。逃而遠去。而葉爾奇木。哈什哈爾二城之舊伯克等。遂獻城以降。參贊明瑞一邀之於霍斯庫魯克。副將軍富德再陷之於阿爾楚爾。於是離心者。面內前途者反旆。二酋惟挈其妻孥及舊僕僅三百人入拔達克山境。此天恩助順者七也。人跡不通之地。語言不同之國。既已雀毆。寧不狼顧。其授我與否。固未可定也。然一聞將軍之檄。莫不援旗請奮。整旅前遮。遂得兇渠函首。露布遙傳。此天恩助順者八也。夷考西師之役。非予夙願之圖。何則實以國家幅員不為不廣。屬國不為不多。惟廑守成之志。無希開創之名。兼以承平日久。人習於逸。既無非常之人。安能舉非常之事。而建非常之功哉。然而。輾轉輻湊。每以艱而獲易。視若失而反得。故自締始。以逮定功。雖予自問。亦將有所不解其故。而不敢期其必然者。故曰。非人力也。天也。夫天如是顯佑國家者。以祖宗之敬天愛民蒙眷顧者深也。則我後世子孫。其何以心上蒼之心。志列祖之志。勉繼繩於有永。保丕基於無窮乎。繫以銘曰。二酋偝德。始亂為賊。是興王師。報怨以直。伊犁既平。蕞爾奚屑。徐議耕闢。徐議戍設。以噢以咻。伊予本懷。豈其弗戢。圖彼藐㺄回。彼㺄回不量。怒臂當車。戕我王臣。助彼狂狙。始攻庫車。僨轅敗事。用人弗當。至今為愧。悖逆罪重。我武宜揚。易將整師。直壓彼疆。阿蘇烏什。玉隴和闐。傳檄以定。月袒羊牽。二酋孽深。知不可活。狼狽相顧。固守其穴。桓桓我師。周行萬里。馬不進焉。強弩末矣。以四百人。戰萬餘虜。退猶能守。黑水築堡。聞信達都。為之傷悼。所幸後軍。早行在道。督勑速援。人同怒心。曾不兩月。賊境逼臨。彼復徼隙。馬繼以進。賊營夜斫。出其不意。賊乃大驚。謂自天降。孰敢鋒攖。大鞣大膊。如虎搏兔。案角隴種。誰敢迴顧。黑水圍解。合軍暫旋。整旅三路。期並進焉。賊偵軍威。信不可支。挈其妻孥。遁投所依。所依亦回。豈不自謀。豈伊庇猿。而受林憂。利厥輜重。無遺盡掠。遣其都丸。遂來獻馘。詎惟獻馘。並以稱臣。捧賚表章。將諸都門。奏凱班師。前歌後舞。尸遂染鍔。溫禺釁鼓。露布至都。正逮初陽。慈寧稱慶。亞歲迎祥。郊廟告成。諸典並舉。皇皇太學。豐碑再樹。豐碑再樹。敢予喜功。用不得已。天眷屢蒙。始之以武。終之以文。戡亂惟義。撫眾惟仁。布惠施恩。寰寓共喜。古不羈縻。今為臣子。疆闢二萬。兵出五年。據實書事。永矢乾乾。臣觀保敬書。 典藏尺寸 --> 位置 尺寸(公分) 隔水一 12.7 隔水二 12.7 本幅 37.7x971 質地 --> 質地位置 質地 本幅 紙 印記資料 --> 印記類別 印主 印記 作者印記 索綽絡觀保 臣保 作者印記 索綽絡觀保 載筆西清 鑑藏寶璽 清高宗 八徵耄念之寶 鑑藏寶璽 清高宗 五福五代堂古稀天子寶 鑑藏寶璽 清高宗 太上皇帝之寶 鑑藏寶璽 清高宗 妙意寫清快 鑑藏寶璽 清高宗 研露 鑑藏寶璽 清內府印 避暑山莊 參考資料 --> 類別 參考資料 收藏著錄 故宮書畫錄（卷八），第四冊，頁170 ",
+        "publicationCopy": {
+          "id": "china-batch-10-altishahr-commemoration",
+          "file": "assets/history-media/china-batch-10-altishahr-commemoration.jpg",
+          "recordIds": [
+            "china-event-qing-020"
+          ],
+          "title": {
+            "en": "A court commemoration of the Altishahr campaign",
+            "zh": "宫廷纪念平定回部的碑文"
+          },
+          "alt": {
+            "en": "The opening of a calligraphic scroll announces an imperial inscription commemorating completion of the campaign.",
+            "zh": "书法卷开篇题明御制平定回部告成碑文。"
+          },
+          "caption": {
+            "en": "Guanbao’s undated transcription of Qianlong’s inscription commemorating the Altishahr campaign. The pictured opening names the commemorative text; it does not date the calligraphy to 1759.",
+            "zh": "观保未纪年书乾隆《平定回部告成太学碑文》；所示开篇点明碑文题名，并未据此将书迹定为1759年。"
+          },
+          "interpretation": {
+            "en": "The text celebrates the Qing victory in the emperor’s own political language. It is evidence of official commemoration, not a neutral account of the conquered communities or an image of the fighting.",
+            "zh": "文字以皇帝的政治语言赞颂清军胜利，是官方纪功的证据，而非被征服群体的中立叙述或战斗实景。"
+          },
+          "creator": "Guanbao; text by the Qianlong emperor",
+          "date": "Qing dynasty; calligraphy undated",
+          "institution": "National Palace Museum, Taipei; 中書000043N000000000",
+          "kind": "manuscript",
+          "representation": "manuscript-detail",
+          "checkedAt": "2026-11-11",
+          "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/1562?dep=P",
+          "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/C2B%2FC2B000043N000000000PAA/full/full/0/default.jpg",
+          "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/C2B%2FC2B000043N000000000PAA/full/!1400,1400/0/default.jpg",
+          "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/1562?dep=P",
+          "rights": {
+            "label": "CC BY 4.0",
+            "url": "https://creativecommons.org/licenses/by/4.0/",
+            "note": {
+              "en": "清觀保平定回部告成太學碑文 卷。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+              "zh": "清觀保平定回部告成太學碑文 卷。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+            }
+          },
+          "width": 1400,
+          "height": 1050,
+          "bytes": 271555,
+          "sha256": "efacd02ef55dabc8313b53dbf2c98d1ed06e52d479fb4debffc5f198146319fd",
+          "format": "jpeg",
+          "transformation": {
+            "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+            "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+          },
+          "retrieval": "Source page, IIIF manifest, unchanged derivative bytes and individual pixel review preserved in China batch 10.",
+          "contextSources": [],
+          "metadataI18n": {
+            "date": {
+              "en": "Qing dynasty; calligraphy undated",
+              "zh": "清代；书迹未纪年"
+            },
+            "creator": {
+              "en": "Guanbao; text by the Qianlong emperor",
+              "zh": "观保书；乾隆帝撰文"
+            },
+            "institution": {
+              "en": "National Palace Museum, Taipei; 中書000043N000000000",
+              "zh": "国立故宫博物院，台北；中書000043N000000000"
+            }
+          }
+        }
+      }
+    ]
+  ],
+  "conditionalResolvedBy": "docs/v18-ili-chronology-evidence.json",
+  "copyManifest": [
+    {
+      "assetId": "china-batch-10-torghut-reception-text",
+      "sourceFile": "research/v18/china-batch-10/2994.jpg",
+      "targetFile": "assets/history-media/china-batch-10-torghut-reception-text.jpg",
+      "sha256": "5ad912c337874fc232c9985a3b320f7c624b07308a24a5d0b5218983367ec5c1",
+      "bytes": 243519,
+      "width": 1400,
+      "height": 1048
+    },
+    {
+      "assetId": "china-batch-10-torghut-white-eagle",
+      "sourceFile": "research/v18/china-batch-10/6717.jpg",
+      "targetFile": "assets/history-media/china-batch-10-torghut-white-eagle.jpg",
+      "sha256": "5d2cede2632004c09df28853d8868c7dd5c17d80c96ec8973302f230fd8e56b4",
+      "bytes": 167276,
+      "width": 850,
+      "height": 1400
+    },
+    {
+      "assetId": "china-batch-10-chenghua-doucai-cup",
+      "sourceFile": "research/v18/china-batch-10/2494.jpg",
+      "targetFile": "assets/history-media/china-batch-10-chenghua-doucai-cup.jpg",
+      "sha256": "709034fe9cbbbe94b7ea4cab533cfdb43e28acf7c97076ab26d8202d677345be",
+      "bytes": 56324,
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "assetId": "china-batch-10-guoxi-early-spring",
+      "sourceFile": "research/v18/china-batch-10/47.jpg",
+      "targetFile": "assets/history-media/china-batch-10-guoxi-early-spring.jpg",
+      "sha256": "c3c91dbc7348b0544e76f42faca2d67a22c38f4f3d9d3cf50c28c2482d2e51a3",
+      "bytes": 177620,
+      "width": 979,
+      "height": 1400
+    },
+    {
+      "assetId": "china-batch-10-fankuan-mountains-travelers",
+      "sourceFile": "research/v18/china-batch-10/1195.jpg",
+      "targetFile": "assets/history-media/china-batch-10-fankuan-mountains-travelers.jpg",
+      "sha256": "330126abbf5c517f8a2821e8630f93120b7efe6af8c8b118b6f13f618e9c5370",
+      "bytes": 99618,
+      "width": 643,
+      "height": 1400
+    },
+    {
+      "assetId": "china-batch-10-nizan-riverbank",
+      "sourceFile": "research/v18/china-batch-10/602.jpg",
+      "targetFile": "assets/history-media/china-batch-10-nizan-riverbank.jpg",
+      "sha256": "4deacc8c9d263f92b292c492ca599f3428914b071960fcee676f8c9db5b47aac",
+      "bytes": 78217,
+      "width": 374,
+      "height": 1400
+    },
+    {
+      "assetId": "china-batch-10-mayuan-spring-path",
+      "sourceFile": "research/v18/china-batch-10/14633-PAB.jpg",
+      "targetFile": "assets/history-media/china-batch-10-mayuan-spring-path.jpg",
+      "sha256": "dab9e062e854e2bc8001faa6e0b2bc57a50151fdf6665d2cf97d127de995507d",
+      "bytes": 140400,
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "assetId": "china-batch-10-zhuda-white-plum",
+      "sourceFile": "research/v18/china-batch-10/4745.jpg",
+      "targetFile": "assets/history-media/china-batch-10-zhuda-white-plum.jpg",
+      "sha256": "ed63a58bb07dc6ef1f18b407bfcbe08998588f6901aa7457f74f177687f8d476",
+      "bytes": 126937,
+      "width": 1400,
+      "height": 1048
+    },
+    {
+      "assetId": "china-batch-10-guan-celadon-washer",
+      "sourceFile": "research/v18/china-batch-10/26307.jpg",
+      "targetFile": "assets/history-media/china-batch-10-guan-celadon-washer.jpg",
+      "sha256": "9a450b01c6bbcce2f4996c1637825f0dd7ad9273cea81cefcdee15fcf98501b7",
+      "bytes": 83719,
+      "width": 1400,
+      "height": 1050
+    },
+    {
+      "assetId": "china-batch-10-qin-measure-rubbing",
+      "sourceFile": "research/v18/china-batch-10/19492-PAB.jpg",
+      "targetFile": "assets/history-media/china-batch-10-qin-measure-rubbing.jpg",
+      "sha256": "782b40528fca2b61d298d8520d748c9fbc2c126144cdccfc255b99fde37a32fb",
+      "bytes": 125150,
+      "width": 1065,
+      "height": 1400
+    },
+    {
+      "assetId": "china-batch-10-wenzhengming-drunken-pavilion",
+      "sourceFile": "research/v18/china-batch-10/2478-PAB.jpg",
+      "targetFile": "assets/history-media/china-batch-10-wenzhengming-drunken-pavilion.jpg",
+      "sha256": "bad66d1d0093507a54b8fd38aa7336902f647d0daf63dee1e9d262be448960ad",
+      "bytes": 191696,
+      "width": 1050,
+      "height": 1400
+    },
+    {
+      "assetId": "china-batch-10-altishahr-commemoration",
+      "sourceFile": "research/v18/china-batch-10/1562-PAA.jpg",
+      "targetFile": "assets/history-media/china-batch-10-altishahr-commemoration.jpg",
+      "sha256": "efacd02ef55dabc8313b53dbf2c98d1ed06e52d479fb4debffc5f198146319fd",
+      "bytes": 271555,
+      "width": 1400,
+      "height": 1050
+    }
+  ],
+  "ownerAdmittedShard": {
+    "items": [
+      {
+        "id": "china-batch-10-torghut-reception-text",
+        "file": "assets/history-media/china-batch-10-torghut-reception-text.jpg",
+        "recordIds": [
+          "china-event-qing-021"
+        ],
+        "title": {
+          "en": "A court account of the Torghut arrival",
+          "zh": "宫廷笔下的土尔扈特东迁"
+        },
+        "alt": {
+          "en": "Calligraphy on an album opening names the Torghut khan Ubashi; red collection seals overlap the text.",
+          "zh": "册页书法题及土尔扈特汗渥巴锡，红色鉴藏印叠于文字间。"
+        },
+        "caption": {
+          "en": "Qian Chenqun’s transcription opens with Qianlong’s 1771 text on Ubashi and the Torghut migration. The copying itself is not separately dated.",
+          "zh": "钱陈群书册开篇为乾隆1771年关于渥巴锡及土尔扈特东迁的文字，抄写时间未另行注明。"
+        },
+        "interpretation": {
+          "en": "The opening names the migrating community and reports its arrival at Ili. Its language of submission reveals how the Qing court framed the movement, rather than giving the migrants’ own account.",
+          "zh": "开篇点明迁徙群体并记其抵达伊犁；“归顺”的措辞显示清廷如何解释此事，并非迁徙者自身的叙述。"
+        },
+        "creator": "Qian Chenqun; text by the Qianlong emperor",
+        "date": "Qing dynasty; transcribes an imperial text of 1771",
+        "institution": "National Palace Museum, Taipei; 故書000787N000000000",
+        "kind": "manuscript",
+        "representation": "manuscript-detail",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/2994?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/K2B%2FK2B000787N000000000PAB/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/K2B%2FK2B000787N000000000PAB/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/2994?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "清錢陳群書御製頒和賜詩 冊。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "清錢陳群書御製頒和賜詩 冊。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 1400,
+        "height": 1048,
+        "bytes": 243519,
+        "sha256": "5ad912c337874fc232c9985a3b320f7c624b07308a24a5d0b5218983367ec5c1",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, unchanged derivative bytes and individual pixel review preserved in China batch 10.",
+        "contextSources": []
+      },
+      {
+        "id": "china-batch-10-torghut-white-eagle",
+        "file": "assets/history-media/china-batch-10-torghut-white-eagle.jpg",
+        "recordIds": [
+          "china-event-qing-021"
+        ],
+        "title": {
+          "en": "The white eagle presented by a Torghut noble",
+          "zh": "土尔扈特贵族进献的白鹰"
+        },
+        "alt": {
+          "en": "A white eagle spreads one wing on a padded perch with lion-shaped feet; an imperial poem occupies the upper right.",
+          "zh": "白鹰在软垫鹰架上展开一翼，鹰架有狮形足；右上方为御制诗。"
+        },
+        "caption": {
+          "en": "Ignaz Sichelbarth painted the white eagle presented by the Torghut noble Shilakouken. Yu Minzhong’s inscription dates to 1773, the first ten days of the eighth lunar month.",
+          "zh": "艾启蒙绘土尔扈特贝子锡喇扣肯所进白鹰；于敏中题记纪年1773年农历八月上旬。"
+        },
+        "interpretation": {
+          "en": "The named gift makes the court relationships following the Torghut migration tangible. The inscription falls two years after the 1771 arrival; the image concerns a later tribute encounter, not the journey itself.",
+          "zh": "具名贡物使土尔扈特迁徙之后的宫廷关系可见；题记在1771年抵达的两年之后，图画呈现后续进贡交往，而不是迁徙途中。"
+        },
+        "creator": "Ignaz Sichelbarth (Ai Qimeng); inscription by Yu Minzhong",
+        "date": "Qing dynasty; inscription dated 1773, eighth lunar month, first ten days",
+        "institution": "National Palace Museum, Taipei; 故畫003085N000000000",
+        "kind": "artwork",
+        "representation": "historical-artwork",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/6717?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A003085N000000000PAA/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A003085N000000000PAA/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/6717?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "清艾啟蒙畫土爾扈特白鷹 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "清艾啟蒙畫土爾扈特白鷹 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 850,
+        "height": 1400,
+        "bytes": 167276,
+        "sha256": "5d2cede2632004c09df28853d8868c7dd5c17d80c96ec8973302f230fd8e56b4",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, unchanged derivative bytes and individual pixel review preserved in China batch 10.",
+        "contextSources": []
+      },
+      {
+        "id": "china-batch-10-chenghua-doucai-cup",
+        "file": "assets/history-media/china-batch-10-chenghua-doucai-cup.jpg",
+        "recordIds": [
+          "ming-dynasty"
+        ],
+        "title": {
+          "en": "A Chenghua cup combining blue and coloured enamels",
+          "zh": "青花与彩料相合的成化斗彩杯"
+        },
+        "alt": {
+          "en": "A small white porcelain cup carries blue outlines and coloured details of a scholar, attendant and bamboo.",
+          "zh": "小型白瓷杯以青花轮廓与彩色细节描绘文士、侍童及竹丛。"
+        },
+        "caption": {
+          "en": "Doucai cup, Chenghua reign, 1465–1487. Underglaze blue outlines are combined with red, yellow and green overglaze enamels.",
+          "zh": "成化时期（1465—1487年）斗彩杯，以釉下青花勾线，配合釉上红、黄、绿彩。"
+        },
+        "interpretation": {
+          "en": "Blue outlines and coloured enamel coordinate decoration below and above the glaze. Figures and plants bring literary taste into a small vessel used in Ming material life.",
+          "zh": "青花线条与彩绘协调釉下、釉上的装饰，人物与花木把文人趣味带入明代日用小器。"
+        },
+        "creator": "Unidentified Ming porcelain artisans",
+        "date": "Chenghua reign, 1465–1487",
+        "institution": "National Palace Museum, Taipei; 故瓷003515N000000000",
+        "kind": "object",
+        "representation": "object-photograph",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/2494?dep=U",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/K1B%2FK1B003515N000000000PAA/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/K1B%2FK1B003515N000000000PAA/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/2494?dep=U",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "鬥彩人物圖杯。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "鬥彩人物圖杯。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 1400,
+        "height": 1050,
+        "bytes": 56324,
+        "sha256": "709034fe9cbbbe94b7ea4cab533cfdb43e28acf7c97076ab26d8202d677345be",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, unchanged derivative bytes and individual pixel review preserved in China batch 10.",
+        "contextSources": []
+      },
+      {
+        "id": "china-batch-10-guoxi-early-spring",
+        "file": "assets/history-media/china-batch-10-guoxi-early-spring.jpg",
+        "recordIds": [
+          "northern-song"
+        ],
+        "title": {
+          "en": "Guo Xi’s Early Spring",
+          "zh": "郭熙《早春图》"
+        },
+        "alt": {
+          "en": "Pines, curling rocks and mist lead upward to high peaks; tiny paths, buildings and streams animate the mountains.",
+          "zh": "松树、卷曲山石与云雾向高峰延伸，细小山径、楼阁与溪流点染山间。"
+        },
+        "caption": {
+          "en": "Early Spring, signed and dated 1072 by Guo Xi. The poem at upper right was added by Qianlong in 1759.",
+          "zh": "郭熙款署1072年的《早春图》；右上方御题诗为乾隆1759年所加。"
+        },
+        "interpretation": {
+          "en": "Rock masses rise through bands of mist, with paths, trees and buildings leading the eye between near and distant views. Guo Xi’s court landscape creates an imagined world that people could inhabit.",
+          "zh": "山石穿过层层烟岚，路径、树木和建筑引导视线往来于近景与远景。郭熙的宫廷山水营造出可居游的想象世界。"
+        },
+        "creator": "Guo Xi",
+        "date": "1072; imperial poem added in 1759",
+        "institution": "National Palace Museum, Taipei; 故畫000053N000000000",
+        "kind": "artwork",
+        "representation": "historical-artwork",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/47?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A000053N000000000PAA/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A000053N000000000PAA/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/47?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "宋郭熙早春圖 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "宋郭熙早春圖 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 979,
+        "height": 1400,
+        "bytes": 177620,
+        "sha256": "c3c91dbc7348b0544e76f42faca2d67a22c38f4f3d9d3cf50c28c2482d2e51a3",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, unchanged derivative bytes and individual pixel review preserved in China batch 10.",
+        "contextSources": []
+      },
+      {
+        "id": "china-batch-10-fankuan-mountains-travelers",
+        "file": "assets/history-media/china-batch-10-fankuan-mountains-travelers.jpg",
+        "recordIds": [
+          "northern-song"
+        ],
+        "title": {
+          "en": "Fan Kuan’s towering mountains and minute travelers",
+          "zh": "范宽笔下的巨峰与微小行旅"
+        },
+        "alt": {
+          "en": "A massive central cliff rises above a misty valley, wooded slopes and a small pack-animal train.",
+          "zh": "巨大主峰立于云谷、林坡与细小驮队之上。"
+        },
+        "caption": {
+          "en": "Fan Kuan’s Travelers Among Mountains and Streams, Northern Song. The work is undated; Dong Qichang’s title above the painting is a later addition.",
+          "zh": "北宋范宽《谿山行旅图》，本画未纪年；画上董其昌题签为后加。"
+        },
+        "interpretation": {
+          "en": "Tiny travellers move beneath a towering rock face. Compare this dramatic change in scale with Guo Xi’s shifting viewpoints; the museum distinguishes Fan Kuan’s life away from official service from Guo’s court career.",
+          "zh": "微小行旅从巨岩之下经过。可将强烈的尺度反差同郭熙不断转换的视点对照；馆方区分范宽未仕的生涯与郭熙的宫廷经历。"
+        },
+        "creator": "Fan Kuan",
+        "date": "Northern Song; exact year unrecorded",
+        "institution": "National Palace Museum, Taipei; 故畫000826N000000000",
+        "kind": "artwork",
+        "representation": "historical-artwork",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/1195?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A000826N000000000PAA/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A000826N000000000PAA/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/1195?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "宋范寬谿山行旅圖 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "宋范寬谿山行旅圖 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 643,
+        "height": 1400,
+        "bytes": 99618,
+        "sha256": "330126abbf5c517f8a2821e8630f93120b7efe6af8c8b118b6f13f618e9c5370",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, unchanged derivative bytes and individual pixel review preserved in China batch 10.",
+        "contextSources": []
+      },
+      {
+        "id": "china-batch-10-nizan-riverbank",
+        "file": "assets/history-media/china-batch-10-nizan-riverbank.jpg",
+        "recordIds": [
+          "yuan-dynasty"
+        ],
+        "title": {
+          "en": "Ni Zan’s landscape for a departing friend",
+          "zh": "倪瓒为送友而作的江岸山水"
+        },
+        "alt": {
+          "en": "An empty pavilion and trees occupy the near shore, across broad water from layered mountains; several inscriptions stand above.",
+          "zh": "近岸有空亭与树木，隔着宽阔水面是重叠山峰，上方列有多段题记。"
+        },
+        "caption": {
+          "en": "Mountains Viewed from a Riverbank, 1363, second lunar month, day 17. The museum identifies it as a farewell gift; the recipient’s name was later altered and remains uncertain.",
+          "zh": "《江岸望山图》，1363年农历二月十七日。馆方指出此为赠行之作，但受赠人姓名后经改动，身份未定。"
+        },
+        "interpretation": {
+          "en": "An empty pavilion, broad water and distant hills separate the near and far banks. The inscription turns this private landscape into a social gift, with its original recipient’s identity still uncertain.",
+          "zh": "空亭、宽阔水面与远山隔开近岸和彼岸，题诗则使私人山水成为赠答之礼；原受赠者身份仍未确定。"
+        },
+        "creator": "Ni Zan",
+        "date": "1363, second lunar month, day 17; later inscriptions",
+        "institution": "National Palace Museum, Taipei; 故畫000292N000000000",
+        "kind": "artwork",
+        "representation": "historical-artwork",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/602?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A000292N000000000PAA/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A000292N000000000PAA/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/602?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "元倪瓚江岸望山圖 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "元倪瓚江岸望山圖 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 374,
+        "height": 1400,
+        "bytes": 78217,
+        "sha256": "4deacc8c9d263f92b292c492ca599f3428914b071960fcee676f8c9db5b47aac",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, unchanged derivative bytes and individual pixel review preserved in China batch 10.",
+        "contextSources": []
+      },
+      {
+        "id": "china-batch-10-mayuan-spring-path",
+        "file": "assets/history-media/china-batch-10-mayuan-spring-path.jpg",
+        "recordIds": [
+          "southern-song"
+        ],
+        "title": {
+          "en": "Ma Yuan’s spring walk",
+          "zh": "马远《山径春行》"
+        },
+        "alt": {
+          "en": "A scholar and a servant carrying a zither stand beneath a willow; birds and an imperial couplet occupy the open space.",
+          "zh": "文士与携琴侍童立于柳下，禽鸟与御题诗句位于留白处。"
+        },
+        "caption": {
+          "en": "Ma Yuan’s undated Southern Song painting with a couplet by Emperor Ningzong.",
+          "zh": "南宋马远未纪年画，附宋宁宗题句。"
+        },
+        "interpretation": {
+          "en": "Figures and branches gather at one corner, leaving an expanse of open space for the gaze to travel. The imperial couplet joins poetry to this intimate court landscape.",
+          "zh": "人物与树枝聚于一角，大片留白让视线游移；御题诗句使诗歌与精微的宫廷山水相连。"
+        },
+        "creator": "Ma Yuan; couplet by Emperor Ningzong",
+        "date": "Southern Song; exact year unrecorded",
+        "institution": "National Palace Museum, Taipei; 故畫001289N000000013",
+        "kind": "artwork",
+        "representation": "historical-artwork",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/14633?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001289N000000013PAB/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001289N000000013PAB/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/14633?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "名繪集珍 冊 宋馬遠山徑春行。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "名繪集珍 冊 宋馬遠山徑春行。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 1400,
+        "height": 1050,
+        "bytes": 140400,
+        "sha256": "dab9e062e854e2bc8001faa6e0b2bc57a50151fdf6665d2cf97d127de995507d",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, unchanged derivative bytes and individual pixel review preserved in China batch 10.",
+        "contextSources": []
+      },
+      {
+        "id": "china-batch-10-zhuda-white-plum",
+        "file": "assets/history-media/china-batch-10-zhuda-white-plum.jpg",
+        "recordIds": [
+          "qing-dynasty"
+        ],
+        "title": {
+          "en": "Zhu Da’s spare White Plum",
+          "zh": "朱耷疏简的《白梅》"
+        },
+        "alt": {
+          "en": "Angular branches and faint blossoms cross a largely empty sheet; a poem stands at upper right.",
+          "zh": "转折枝条与淡墨花朵横穿大片留白，右上有题诗。"
+        },
+        "caption": {
+          "en": "White Plum from Chuanqi’s Sketches from Life, dated 1659 in the collection record. Chuanqi was a name used by Zhu Da.",
+          "zh": "传綮《写生》册之《白梅》，馆藏定年1659；传綮为朱耷所用名号。"
+        },
+        "interpretation": {
+          "en": "Long bare branches and a few pale blossoms leave much of the page open. The museum identifies Zhu Da as a Ming imperial descendant who became a monk after the dynasty fell.",
+          "zh": "长枝疏花留下大片空白。馆方记朱耷为明宗室后裔，明亡后出家。"
+        },
+        "creator": "Zhu Da, using the name Chuanqi",
+        "date": "1659 (museum dating)",
+        "institution": "National Palace Museum, Taipei; 故畫001203N000000011",
+        "kind": "artwork",
+        "representation": "historical-artwork",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/4745?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001203N000000011PAA/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A001203N000000011PAA/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/4745?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "清傳綮寫生 冊 白梅。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "清傳綮寫生 冊 白梅。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 1400,
+        "height": 1048,
+        "bytes": 126937,
+        "sha256": "ed63a58bb07dc6ef1f18b407bfcbe08998588f6901aa7457f74f177687f8d476",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, unchanged derivative bytes and individual pixel review preserved in China batch 10.",
+        "contextSources": []
+      },
+      {
+        "id": "china-batch-10-guan-celadon-washer",
+        "file": "assets/history-media/china-batch-10-guan-celadon-washer.jpg",
+        "recordIds": [
+          "southern-song"
+        ],
+        "title": {
+          "en": "A Southern Song Guan-ware washer",
+          "zh": "南宋官窑青瓷洗"
+        },
+        "alt": {
+          "en": "A low green-glazed bowl shows a network of crackles and a faint dragon in its interior.",
+          "zh": "低矮青釉器表面遍布开片，内底隐约可见龙纹。"
+        },
+        "caption": {
+          "en": "A Guan-ware washer with impressed dragon decoration, Southern Song, 1127–1279.",
+          "zh": "南宋（1127—1279年）官窑青瓷印花龙纹洗。"
+        },
+        "interpretation": {
+          "en": "The shallow form and crackled glaze reward close looking. The catalogue distinguishes its current Guan-ware attribution from the Ru-ware label on a later wooden stand, which is not pictured here.",
+          "zh": "浅器形与开片釉面值得细看。馆藏把如今的官窑定名与后配木座上的汝窑旧题区分；本图未展示木座。"
+        },
+        "creator": "Unidentified Guan-kiln potters",
+        "date": "Southern Song, 1127–1279",
+        "institution": "National Palace Museum, Taipei; 故瓷014111N000000000",
+        "kind": "object",
+        "representation": "object-photograph",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/26307?dep=U",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/K1B%2FK1B014111N000000000PAA/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/K1B%2FK1B014111N000000000PAA/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/26307?dep=U",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "官窯 青瓷印花龍紋洗。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "官窯 青瓷印花龍紋洗。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 1400,
+        "height": 1050,
+        "bytes": 83719,
+        "sha256": "9a450b01c6bbcce2f4996c1637825f0dd7ad9273cea81cefcdee15fcf98501b7",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, unchanged derivative bytes and individual pixel review preserved in China batch 10.",
+        "contextSources": []
+      },
+      {
+        "id": "china-batch-10-qin-measure-rubbing",
+        "file": "assets/history-media/china-batch-10-qin-measure-rubbing.jpg",
+        "recordIds": [
+          "qin-unification"
+        ],
+        "title": {
+          "en": "The standardization edict on a Qin measure",
+          "zh": "秦量上的统一度量衡诏书"
+        },
+        "alt": {
+          "en": "A rubbing records a handled oval measure and its inscription, with later collector writing and seals.",
+          "zh": "拓片记录带柄椭圆量器及铭文，旁有后世藏家题记与印章。"
+        },
+        "caption": {
+          "en": "Undated paper rubbing of a Qin measure bearing the forty-character standardization edict of 221 BCE. The rubbing itself is not dated to the Qin dynasty.",
+          "zh": "未纪年纸本秦量拓片，所拓为公元前221年四十字统一度量衡诏书；拓片本身并非据此定为秦代。"
+        },
+        "interpretation": {
+          "en": "The inscription explicitly orders inconsistent measures to be unified. It directly documents the Qin entry’s standardization policy, while the vessel outline shows the practical measuring object carrying that order.",
+          "zh": "铭文明确要求度量不一者统一，直接对应秦条目的标准化政策；器形拓影显示承载诏令的实际量器。"
+        },
+        "creator": "Unidentified rubbing maker; Qin imperial inscription",
+        "date": "Rubbing undated; reproduces an edict of 221 BCE",
+        "institution": "National Palace Museum, Taipei; 贈拓000355N000000000",
+        "kind": "manuscript",
+        "representation": "manuscript-detail",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/19492?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/A2I%2FA2I000355N000000000PAB/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/A2I%2FA2I000355N000000000PAB/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/19492?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "秦量墨拓 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "秦量墨拓 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 1065,
+        "height": 1400,
+        "bytes": 125150,
+        "sha256": "782b40528fca2b61d298d8520d748c9fbc2c126144cdccfc255b99fde37a32fb",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, unchanged derivative bytes and individual pixel review preserved in China batch 10.",
+        "contextSources": []
+      },
+      {
+        "id": "china-batch-10-wenzhengming-drunken-pavilion",
+        "file": "assets/history-media/china-batch-10-wenzhengming-drunken-pavilion.jpg",
+        "recordIds": [
+          "china-landmark-386"
+        ],
+        "title": {
+          "en": "Wen Zhengming copies the Drunken Pavilion essay",
+          "zh": "文徵明书《醉翁亭记》"
+        },
+        "alt": {
+          "en": "Fine regular-script columns reproduce the essay beside a dated signature and red seals.",
+          "zh": "小楷纵行抄录文章，旁有纪年署款与朱印。"
+        },
+        "caption": {
+          "en": "Wen Zhengming’s copy dated 1551, seventh lunar month, day 24, of Ouyang Xiu’s Drunken Pavilion essay. It is a later copy, not the 1046 original.",
+          "zh": "文徵明1551年农历七月二十四日书欧阳修《醉翁亭记》，为后世抄本，而非1046年原稿。"
+        },
+        "interpretation": {
+          "en": "The named text is the literary work central to the Chuzhou entry. A Ming calligrapher’s careful transcription shows its continuing readership centuries after Ouyang’s local service.",
+          "zh": "此篇正是滁州条目的核心文学作品；明代书家精心抄写，展示欧阳修任职数百年后的持续阅读与传播。"
+        },
+        "creator": "Wen Zhengming; text by Ouyang Xiu",
+        "date": "1551, seventh lunar month, day 24; copies an essay of 1046",
+        "institution": "National Palace Museum, Taipei; 故書000017N000000000",
+        "kind": "manuscript",
+        "representation": "manuscript-detail",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/2478?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/K2B%2FK2B000017N000000000PAB/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/K2B%2FK2B000017N000000000PAB/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/2478?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "明文徵明書醉翁亭記 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "明文徵明書醉翁亭記 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 1050,
+        "height": 1400,
+        "bytes": 191696,
+        "sha256": "bad66d1d0093507a54b8fd38aa7336902f647d0daf63dee1e9d262be448960ad",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, unchanged derivative bytes and individual pixel review preserved in China batch 10.",
+        "contextSources": []
+      },
+      {
+        "id": "china-batch-10-altishahr-commemoration",
+        "file": "assets/history-media/china-batch-10-altishahr-commemoration.jpg",
+        "recordIds": [
+          "china-event-qing-020"
+        ],
+        "title": {
+          "en": "A court commemoration of the Altishahr campaign",
+          "zh": "宫廷纪念平定回部的碑文"
+        },
+        "alt": {
+          "en": "The opening of a calligraphic scroll announces an imperial inscription commemorating completion of the campaign.",
+          "zh": "书法卷开篇题明御制平定回部告成碑文。"
+        },
+        "caption": {
+          "en": "The opening of Guanbao’s undated copy of Qianlong’s inscription commemorating the conquest of Altishahr.",
+          "zh": "观保未纪年书乾隆《平定回部告成太学碑文》的开篇。"
+        },
+        "interpretation": {
+          "en": "Large regular characters and imperial seals frame a celebration of Qing victory. The emperor’s political language records official commemoration from the conquering court’s perspective.",
+          "zh": "端整大字与御玺包围着清军报捷文字。皇帝的政治语言记录征服一方的宫廷纪功。"
+        },
+        "creator": "Guanbao; text by the Qianlong emperor",
+        "date": "Qing dynasty; calligraphy undated",
+        "institution": "National Palace Museum, Taipei; 中書000043N000000000",
+        "kind": "manuscript",
+        "representation": "manuscript-detail",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/1562?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/C2B%2FC2B000043N000000000PAA/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/C2B%2FC2B000043N000000000PAA/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/1562?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "清觀保平定回部告成太學碑文 卷。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "清觀保平定回部告成太學碑文 卷。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 1400,
+        "height": 1050,
+        "bytes": 271555,
+        "sha256": "efacd02ef55dabc8313b53dbf2c98d1ed06e52d479fb4debffc5f198146319fd",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, unchanged derivative bytes and individual pixel review preserved in China batch 10.",
+        "contextSources": []
+      }
+    ],
+    "associations": [
+      {
+        "recordId": "china-event-qing-021",
+        "assetId": "china-batch-10-torghut-reception-text",
+        "role": "related-work",
+        "context": {
+          "en": "The opening names the migrating community and reports its arrival at Ili. Its language of submission reveals how the Qing court framed the movement, rather than giving the migrants’ own account.",
+          "zh": "开篇点明迁徙群体并记其抵达伊犁；“归顺”的措辞显示清廷如何解释此事，并非迁徙者自身的叙述。"
+        },
+        "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/2994?dep=P",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "recordId": "china-event-qing-021",
+        "assetId": "china-batch-10-torghut-white-eagle",
+        "role": "related-work",
+        "context": {
+          "en": "The named gift makes the court relationships following the Torghut migration tangible. The inscription falls two years after the 1771 arrival; the image concerns a later tribute encounter, not the journey itself.",
+          "zh": "具名贡物使土尔扈特迁徙之后的宫廷关系可见；题记在1771年抵达的两年之后，图画呈现后续进贡交往，而不是迁徙途中。"
+        },
+        "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/6717?dep=P",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "recordId": "ming-dynasty",
+        "assetId": "china-batch-10-chenghua-doucai-cup",
+        "role": "related-work",
+        "context": {
+          "en": "Blue outlines and coloured enamel coordinate decoration below and above the glaze. Figures and plants bring literary taste into a small vessel used in Ming material life.",
+          "zh": "青花线条与彩绘协调釉下、釉上的装饰，人物与花木把文人趣味带入明代日用小器。"
+        },
+        "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/2494?dep=U",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "recordId": "northern-song",
+        "assetId": "china-batch-10-guoxi-early-spring",
+        "role": "related-work",
+        "context": {
+          "en": "Rock masses rise through bands of mist, with paths, trees and buildings leading the eye between near and distant views. Guo Xi’s court landscape creates an imagined world that people could inhabit.",
+          "zh": "山石穿过层层烟岚，路径、树木和建筑引导视线往来于近景与远景。郭熙的宫廷山水营造出可居游的想象世界。"
+        },
+        "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/47?dep=P",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "recordId": "northern-song",
+        "assetId": "china-batch-10-fankuan-mountains-travelers",
+        "role": "related-work",
+        "context": {
+          "en": "Tiny travellers move beneath a towering rock face. Compare this dramatic change in scale with Guo Xi’s shifting viewpoints; the museum distinguishes Fan Kuan’s life away from official service from Guo’s court career.",
+          "zh": "微小行旅从巨岩之下经过。可将强烈的尺度反差同郭熙不断转换的视点对照；馆方区分范宽未仕的生涯与郭熙的宫廷经历。"
+        },
+        "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/1195?dep=P",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "recordId": "yuan-dynasty",
+        "assetId": "china-batch-10-nizan-riverbank",
+        "role": "related-work",
+        "context": {
+          "en": "An empty pavilion, broad water and distant hills separate the near and far banks. The inscription turns this private landscape into a social gift, with its original recipient’s identity still uncertain.",
+          "zh": "空亭、宽阔水面与远山隔开近岸和彼岸，题诗则使私人山水成为赠答之礼；原受赠者身份仍未确定。"
+        },
+        "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/602?dep=P",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "recordId": "southern-song",
+        "assetId": "china-batch-10-mayuan-spring-path",
+        "role": "related-work",
+        "context": {
+          "en": "Figures and branches gather at one corner, leaving an expanse of open space for the gaze to travel. The imperial couplet joins poetry to this intimate court landscape.",
+          "zh": "人物与树枝聚于一角，大片留白让视线游移；御题诗句使诗歌与精微的宫廷山水相连。"
+        },
+        "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/14633?dep=P",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "recordId": "qing-dynasty",
+        "assetId": "china-batch-10-zhuda-white-plum",
+        "role": "related-work",
+        "context": {
+          "en": "Long bare branches and a few pale blossoms leave much of the page open. The museum identifies Zhu Da as a Ming imperial descendant who became a monk after the dynasty fell.",
+          "zh": "长枝疏花留下大片空白。馆方记朱耷为明宗室后裔，明亡后出家。"
+        },
+        "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/4745?dep=P",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "recordId": "southern-song",
+        "assetId": "china-batch-10-guan-celadon-washer",
+        "role": "related-work",
+        "context": {
+          "en": "The shallow form and crackled glaze reward close looking. The catalogue distinguishes its current Guan-ware attribution from the Ru-ware label on a later wooden stand, which is not pictured here.",
+          "zh": "浅器形与开片釉面值得细看。馆藏把如今的官窑定名与后配木座上的汝窑旧题区分；本图未展示木座。"
+        },
+        "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/26307?dep=U",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "recordId": "qin-unification",
+        "assetId": "china-batch-10-qin-measure-rubbing",
+        "role": "related-work",
+        "context": {
+          "en": "The inscription explicitly orders inconsistent measures to be unified. It directly documents the Qin entry’s standardization policy, while the vessel outline shows the practical measuring object carrying that order.",
+          "zh": "铭文明确要求度量不一者统一，直接对应秦条目的标准化政策；器形拓影显示承载诏令的实际量器。"
+        },
+        "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/19492?dep=P",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "recordId": "china-landmark-386",
+        "assetId": "china-batch-10-wenzhengming-drunken-pavilion",
+        "role": "related-work",
+        "context": {
+          "en": "The named text is the literary work central to the Chuzhou entry. A Ming calligrapher’s careful transcription shows its continuing readership centuries after Ouyang’s local service.",
+          "zh": "此篇正是滁州条目的核心文学作品；明代书家精心抄写，展示欧阳修任职数百年后的持续阅读与传播。"
+        },
+        "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/2478?dep=P",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "recordId": "china-event-qing-020",
+        "assetId": "china-batch-10-altishahr-commemoration",
+        "role": "related-work",
+        "context": {
+          "en": "Large regular characters and imperial seals frame a celebration of Qing victory. The emperor’s political language records official commemoration from the conquering court’s perspective.",
+          "zh": "端整大字与御玺包围着清军报捷文字。皇帝的政治语言记录征服一方的宫廷纪功。"
+        },
+        "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/1562?dep=P",
+        "checkedAt": "2026-11-11"
+      }
+    ]
+  }
+}

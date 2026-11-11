@@ -1,0 +1,128 @@
+{
+  "reviewedAt": "2026-11-11",
+  "scope": "Bounded chronology correction; no new image admitted by this correction.",
+  "before": {
+    "id": "china-event-qing-020",
+    "title": {
+      "en": "Pacification of the Dzungars and Altishahr; General of Ili established",
+      "zh": "平定准噶尔、回部，设伊犁将军"
+    },
+    "start": 1759,
+    "end": 1759,
+    "location": {
+      "lon": 81.301,
+      "lat": 43.901,
+      "label": "Ili",
+      "labelI18n": {
+        "en": "Ili",
+        "zh": "伊犁"
+      },
+      "labelProvenance": "inherited-source-place-pair"
+    },
+    "region": "east-asia",
+    "theme": "states",
+    "kind": "event",
+    "importance": 1,
+    "summary": {
+      "en": "Pacification of the Dzungars and Altishahr; General of Ili established",
+      "zh": "平定准噶尔、回部，设伊犁将军"
+    },
+    "dateNote": {
+      "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+      "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+    },
+    "locationPrecision": "representative",
+    "sources": [
+      {
+        "title": "Chronicles of the Realm — js/map_data.js (frozen source dataset)",
+        "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/map_data.js",
+        "publisher": "DeanChensj / Chronicles of the Realm",
+        "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+        "checkedAt": "2026-10-23"
+      }
+    ],
+    "aliases": [
+      "伊犁",
+      "Ili"
+    ],
+    "provenance": {
+      "dataset": "jiangshan",
+      "status": "inherited",
+      "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+      "periodId": "qing",
+      "periodIds": [
+        "qing"
+      ],
+      "sourceRecords": [
+        {
+          "file": "js/map_data.js",
+          "path": "/DYNASTY_DATA/15/milestones/19",
+          "index": 19
+        }
+      ],
+      "note": {
+        "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+        "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+      }
+    },
+    "relatedIds": [
+      "qing-dynasty"
+    ]
+  },
+  "review": {
+    "id": "china-event-qing-020",
+    "patch": {
+      "title": {
+        "en": "Qing conquest of Altishahr; the Ili command follows in 1762",
+        "zh": "清军征服回部；伊犁将军于1762年设立"
+      },
+      "summary": {
+        "en": "The Qing campaign against the Khoja leaders in Altishahr ended in 1759. This followed the earlier wars against the Dzungars. The court celebrated conquest in inscriptions and images. The office of the Ili general, responsible for military and administrative affairs north and south of the Tianshan, was established later, in the tenth lunar month of 1762.",
+        "zh": "1759年，清军对回部大小和卓的战争结束，此前已发生对准噶尔的多次战争。清廷以碑文与图像纪念征服。统辖天山南北军政事务的伊犁将军一职，则到1762年农历十月才设立。"
+      },
+      "dateNote": {
+        "en": "1759 marks the Altishahr campaign endpoint. The Ili general was established in 1762; the Ili map point is a regional reference, not the location of every campaign episode.",
+        "zh": "1759年指回部战事终结；伊犁将军设于1762年。伊犁点位是区域参照，并非所有战事的发生地。"
+      }
+    },
+    "note": {
+      "en": "Separated the 1759 campaign endpoint from the 1762 administrative appointment; retained the inherited anchor, location and original text.",
+      "zh": "分开1759年战事终结与1762年设官，保留继承的时间锚点、位置与原文。"
+    },
+    "sources": [
+      {
+        "title": "Qianlong: chronology for 1759 and 1762",
+        "url": "https://www.dpm.org.cn/court/lineage/226263.html?isappinstalled=0",
+        "publisher": "The Palace Museum, Beijing",
+        "evidenceNote": "The chronology places the end of the Altishahr campaign in 1759 and establishment of the Ili general in the tenth lunar month of 1762. Court victory language is not adopted as a neutral description.",
+        "evidenceNoteZh": "年表分列1759年回部战事结束与1762年农历十月设立伊犁将军；不把宫廷报捷措辞作为中立叙述。",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "title": "Guanbao: Conquering Altishahr stele text",
+        "url": "https://digitalarchive.npm.gov.tw/Collection/Detail/1562?dep=P",
+        "publisher": "National Palace Museum, Taipei",
+        "evidenceNote": "The title and full transcription identify a court victory text commemorating conquest, not establishment of the Ili general. The calligraphy itself is not assigned a precise creation year.",
+        "evidenceNoteZh": "品名与全文释文表明这是纪念征服的宫廷报捷文字，不是设立伊犁将军的文书；不为书法本身推定精确创作年份。",
+        "checkedAt": "2026-11-11"
+      }
+    ]
+  },
+  "passages": [
+    {
+      "url": "https://www.dpm.org.cn/court/lineage/226263.html?isappinstalled=0",
+      "location": "1759 chronology, lines 438–440",
+      "quote": "平回之役结束。"
+    },
+    {
+      "url": "https://www.dpm.org.cn/court/lineage/226263.html?isappinstalled=0",
+      "location": "1762 chronology, lines 451–454",
+      "quote": "十月　设立伊犁将军，统辖天山南北路。"
+    }
+  ],
+  "limits": [
+    "Palace Museum chronological entries read directly.",
+    "NPM paper abstracts were leads only; full PDF fetches timed out, and a separately restricted PDF was not retried.",
+    "Image associations remain a separate source, rights and pixel review."
+  ]
+}

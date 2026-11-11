@@ -1,0 +1,1531 @@
+{
+  "reviewedAt": "2026-11-11",
+  "ownerReview": "All admitted pixels, complete target narratives, source-specific rights and dated text reviewed. Copies tightened where needed; no held alternatives admitted. Source-served derivatives unchanged.",
+  "ledger": [
+    {
+      "assetId": "china-batch-11-lvbu-halberd",
+      "catalogId": 6960,
+      "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/6960?dep=P",
+      "sourceReceipt": "6960-source.html",
+      "sourceText": "6960-source.txt",
+      "downloadReceipt": "6960-PAC-receipt.json",
+      "sourceSha256": "2d2cda372785c2ed77b92e35722ca4576400d74d2b2d7f14757bb5e3503d16e8",
+      "rightsQuote": "中階圖像與文字均無須申請、不限用途、不用付費即可公開使用，請於適當位置呈現姓名標示。",
+      "credit": "明戴進太平樂事 冊 試射。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+      "pixelReviewed": true,
+      "review": "Selected derivative individually inspected at actual pixel dimensions: An armoured archer draws a bow beside fellow soldiers and a camp enclosure, facing a tall halberd at the right. PAC retains full painted scene, unlike PAB album opening with empty left leaf; official framing unchanged.",
+      "targetEvidence": [
+        {
+          "record": {
+            "id": "china-person-lvbu",
+            "sourceProfileId": "china-person-lvbu",
+            "name": {
+              "en": "Lü Bu",
+              "zh": "吕布"
+            },
+            "title": {
+              "en": "Lü Bu · military talent without a secure coalition",
+              "zh": "吕布 · 勇力与不稳固的联盟"
+            },
+            "start": 192,
+            "end": 198,
+            "region": "east-asia",
+            "kind": "person",
+            "theme": "states",
+            "importance": 3,
+            "location": {
+              "lat": 35.76,
+              "lon": 115.03,
+              "label": "Puyang, contested Yan province centre",
+              "labelI18n": {
+                "en": "Puyang, contested Yan province centre",
+                "zh": "濮阳，兖州争夺中心"
+              }
+            },
+            "locationPrecision": "representative",
+            "summary": {
+              "en": "Lü Bu served several competing leaders as the Han court lost control over its armies. He helped Wang Yun kill Dong Zhuo in 192, but their success did not secure the capital: Dong’s former followers drove him out. In 194, a rebellion against Cao Cao gave Lü Bu a base in Yan province. He subsequently moved into the struggles around Liu Bei and Yuan Shu in Xu province. The Records of the Three Kingdoms describes shifting promises, divided commanders and shortages as well as battlefield courage. Cao Cao’s siege in 198 brought these weaknesses together. Lü Bu’s career shows why prowess alone could not hold a coalition or sustain a regional state.",
+              "zh": "汉廷失去对军队的控制时，吕布先后依附于相互竞争的领袖。192年，他协助王允杀死董卓，但胜利没有稳住都城，董卓旧部很快将他逐出。194年，反曹操的叛乱使吕布在兖州取得据点。随后，他又卷入徐州刘备与袁术之间的争夺。《三国志》写下的不只有战场勇力，还有反复的承诺、分歧的部将和军粮短缺。198年曹操的围攻使这些弱点集中显现。吕布的经历说明，个人武勇不足以维系联盟或支撑地方政权。"
+            },
+            "dateNote": {
+              "en": "192–198 selects documented activity, not an inferred lifespan. Reign-year dates in the primary texts are expressed as civil years. Map points are representative.",
+              "zh": "192—198年选取有据活动，并非推算的生卒年。原典年号纪年换算为公元纪年；地图点为代表位置。"
+            },
+            "sources": [
+              {
+                "title": "三國志 卷07",
+                "publisher": "Chen Shou, with Pei Songzhi’s commentary; public-domain primary text, Wikisource transcription",
+                "url": "https://zh.wikisource.org/wiki/三國志/卷07",
+                "evidenceNote": "Lü Bu biography supports Yan rebellion, Xu province alliances and the Jian’an 3 siege; it supplies no dependable birth year.",
+                "evidenceNoteZh": "吕布传支持兖州叛乱、徐州联盟与建安三年围攻；未提供可靠出生年。",
+                "checkedAt": "2026-11-09",
+                "retrieval": "opened-page-primary-text"
+              },
+              {
+                "title": "三國志 卷01",
+                "publisher": "Chen Shou, with Pei Songzhi’s commentary; public-domain primary text, Wikisource transcription",
+                "url": "https://zh.wikisource.org/wiki/三國志/卷01",
+                "evidenceNote": "Chuping 3 annal explicitly records Wang Yun and Lü Bu killing Dong Zhuo; Xingping 1 records the Yan rebellion.",
+                "evidenceNoteZh": "初平三年本纪明确记载王允、吕布诛董卓；兴平元年记兖州叛乱。",
+                "checkedAt": "2026-11-09",
+                "retrieval": "opened-page-primary-text"
+              }
+            ],
+            "milestones": [
+              {
+                "year": 192,
+                "title": {
+                  "en": "Dong Zhuo killed",
+                  "zh": "诛董卓"
+                },
+                "description": {
+                  "en": "A court coup was followed by counterattack and flight.",
+                  "zh": "宫廷政变之后，又遭反攻而出走。"
+                },
+                "location": {
+                  "lat": 34.27,
+                  "lon": 108.94,
+                  "label": "Chang’an, court coup setting",
+                  "labelI18n": {
+                    "en": "Chang’an, court coup setting",
+                    "zh": "长安，宫廷政变所在地"
+                  }
+                }
+              },
+              {
+                "year": 194,
+                "title": {
+                  "en": "Yan province contested",
+                  "zh": "争夺兖州"
+                },
+                "description": {
+                  "en": "Cao Cao’s opponents invited Lü Bu to command in Yan province.",
+                  "zh": "曹操的反对者迎吕布主掌兖州。"
+                },
+                "location": {
+                  "lat": 35.76,
+                  "lon": 115.03,
+                  "label": "Puyang, contested Yan province centre",
+                  "labelI18n": {
+                    "en": "Puyang, contested Yan province centre",
+                    "zh": "濮阳，兖州争夺中心"
+                  }
+                }
+              },
+              {
+                "year": 198,
+                "title": {
+                  "en": "Siege at Xiapi",
+                  "zh": "下邳围攻"
+                },
+                "description": {
+                  "en": "Cao Cao’s campaign exposed divisions within Lü Bu’s command.",
+                  "zh": "曹操的战役暴露了吕布军中的分裂。"
+                },
+                "location": {
+                  "lat": 34.05,
+                  "lon": 117.97,
+                  "label": "Xiapi area, lower Si River",
+                  "labelI18n": {
+                    "en": "Xiapi area, lower Si River",
+                    "zh": "下邳地区，泗水下游"
+                  }
+                }
+              }
+            ],
+            "relatedIds": [
+              "china-person-caocao",
+              "china-person-liubei"
+            ],
+            "expansion": {
+              "release": 11,
+              "edition": "v17",
+              "workstreams": [
+                "CH1",
+                "CH2"
+              ],
+              "sourceReview": "Original bilingual reading of inspected dynastic histories. Retrospective judgments and reported speeches are treated as evidence of historical representation.",
+              "reviewLimit": {
+                "en": "The dynastic history is a retrospective account. Its moral judgments, speeches and army totals are not adopted as independently verified facts.",
+                "zh": "正史属于事后编纂的叙述；其中道德评价、人物对话和军队总数不直接视为独立核实的事实。"
+              }
+            }
+          },
+          "previouslyCovered": false,
+          "connection": {
+            "en": "A later artist turns Lü Bu’s mediation between rival forces into a display of archery. Read beside the biography’s unstable alliances, the scene shows how martial skill became a memorable way of telling his story; it is not a contemporary likeness.",
+            "zh": "后世画家把吕布在敌对军队之间的调停，表现为射术展示；与传记中不稳定的联盟并读，可见武勇如何成为讲述其故事的鲜明方式，而非当时写生的容貌。"
+          }
+        }
+      ],
+      "identityEvidence": "文物統一編號 故畫003145N000000006 作品號 故畫00314500006 品名 明戴進太平樂事 冊 試射 分類 繪畫 作者 戴進 數量 一幅 典藏尺寸 --> 位置 尺寸(公分) 本幅 21.8x22 質地 --> 質地位置 質地 本幅 絹 主題 --> 主題類別 主題(第一層) 主題(第二層) 主題說明 主要主題 經史‧故事 轅門射戟（呂布） 次要主題 人物 軍士 次要主題 器用 兵器 弓、箭、旗、茅 其他主題 建築 營房帳篷 其他主題 樹木 竹 其他主題 樹木 楊柳 技法 --> 技法 技法細目 人物衣紋描法(粗細線條) 工筆 皴法 斧劈皴 寫意 參考資料 --> 類別 參考資料 收藏著錄 石渠寶笈初編（養心殿），下冊，頁496 收藏著錄 故宮書畫錄（卷八），第四冊，頁139 收藏著錄 故宮書畫圖錄，第二十二冊，頁154-157 保存維護 --> 本院文物保存維護依〈國立故宮博物院典藏文物管理作業要點〉及〈國立故宮博物院文物修護業務作業原則〉辦理 抽盤點紀錄 修護紀錄 100萬像素圖檔下載 close 驗證碼 驗證碼錯誤 replay 重新產生 600萬像素圖檔下載 close 驗證碼 驗證碼錯誤 replay 重新產生 ::: ",
+      "publicationCopy": {
+        "id": "china-batch-11-lvbu-halberd",
+        "file": "assets/history-media/china-batch-11-lvbu-halberd.jpg",
+        "recordIds": [
+          "china-person-lvbu"
+        ],
+        "title": {
+          "en": "Lü Bu’s halberd shot in Ming painting",
+          "zh": "明代绘画中的吕布辕门射戟"
+        },
+        "alt": {
+          "en": "An armoured archer draws a bow beside fellow soldiers and a camp enclosure, facing a tall halberd at the right.",
+          "zh": "披甲射手在军士与营帐旁张弓，对着右侧高竖的戟。"
+        },
+        "caption": {
+          "en": "Testing Archery, catalogued under Dai Jin, Ming dynasty. The museum identifies the subject as Lü Bu shooting the halberd at the camp gate.",
+          "zh": "《太平乐事》册之《试射》，馆藏归于明代戴进，主题明确标为吕布“辕门射戟”。"
+        },
+        "interpretation": {
+          "en": "A later artist turns Lü Bu’s mediation between rival forces into a display of archery. Read beside the biography’s unstable alliances, the scene shows how martial skill became a memorable way of telling his story; it is not a contemporary likeness.",
+          "zh": "后世画家把吕布在敌对军队之间的调停，表现为射术展示；与传记中不稳定的联盟并读，可见武勇如何成为讲述其故事的鲜明方式，而非当时写生的容貌。"
+        },
+        "creator": "Catalogued under Dai Jin",
+        "date": "Ming dynasty; exact year unrecorded",
+        "institution": "National Palace Museum, Taipei; 故畫003145N000000006",
+        "kind": "artwork",
+        "representation": "historical-artwork",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/6960?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A003145N000000006PAC/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A003145N000000006PAC/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/6960?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "明戴進太平樂事 冊 試射。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "明戴進太平樂事 冊 試射。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 1400,
+        "height": 1055,
+        "bytes": 220582,
+        "sha256": "c7dd2565ed2a875272c64b3d4799d64d7572344affe87ca183d66cdc49bab800",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, original derivative bytes and pixel-review contact sheet preserved in China batch 11.",
+        "contextSources": [],
+        "metadataI18n": {
+          "date": {
+            "en": "Ming dynasty; exact year unrecorded",
+            "zh": "明代；具体年份未载"
+          },
+          "creator": {
+            "en": "Catalogued under Dai Jin",
+            "zh": "馆藏归于戴进"
+          },
+          "institution": {
+            "en": "National Palace Museum, Taipei; 故畫003145N000000006",
+            "zh": "国立故宫博物院，台北；故畫003145N000000006"
+          }
+        }
+      }
+    },
+    {
+      "assetId": "china-batch-11-baoxie-road-rubbing",
+      "catalogId": 34632,
+      "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/34632?dep=P",
+      "sourceReceipt": "34632-source.html",
+      "sourceText": "34632-source.txt",
+      "downloadReceipt": "34632-receipt.json",
+      "sourceSha256": "84f5ae3f8ee82e0f9fbef0aa0864efffac6a07803c28083b2f5eb813dcdfad05",
+      "rightsQuote": "中階圖像與文字均無須申請、不限用途、不用付費即可公開使用，請於適當位置呈現姓名標示。",
+      "credit": "漢潘宗伯等題名造橋殘石墨拓本 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+      "pixelReviewed": true,
+      "review": "Selected derivative individually inspected at actual pixel dimensions: Pale characters emerge from a mottled black rubbing; a long commentary fills the lower and left portions, with calibration cards retained at the edge. Left-hand commentary visibly includes the surrender passage. No manufacture date inferred from catalog discovery-year field.",
+      "targetEvidence": [
+        {
+          "record": {
+            "id": "china-person-dengai",
+            "sourceProfileId": "china-person-dengai",
+            "name": {
+              "en": "Deng Ai",
+              "zh": "邓艾"
+            },
+            "title": {
+              "en": "Deng Ai · grain, waterways and the conquest of Shu",
+              "zh": "邓艾 · 军粮、水道与灭蜀"
+            },
+            "start": 241,
+            "end": 263,
+            "region": "east-asia",
+            "kind": "person",
+            "theme": "states",
+            "importance": 3,
+            "location": {
+              "lat": 32.62,
+              "lon": 116.98,
+              "label": "Shouchun region, military agriculture and transport",
+              "labelI18n": {
+                "en": "Shouchun region, military agriculture and transport",
+                "zh": "寿春地区，军屯与运输场景"
+              }
+            },
+            "locationPrecision": "representative",
+            "summary": {
+              "en": "Deng Ai’s military career began with practical questions about food and transport. His biography describes experience in agricultural administration and proposals to connect irrigation, settlement and the movement of grain. Canal works in 241 turned those ideas into military infrastructure. Later, he defended Wei’s northwestern frontier against Jiang Wei, including a victory at Duangu in 256. In 263 his army used a difficult approach through the mountains while another Wei force confronted Shu at Jiange. Liu Shan surrendered when Deng Ai reached the Chengdu region. Read together, these episodes make the conquest more than a tale of a daring march: maintaining armies depended on fields, water and organized supplies.",
+              "zh": "邓艾的军事业绩始于粮食与运输这样的实际问题。本传记述他从事农业行政，并主张把灌溉、屯田和粮运联系起来。241年的漕渠工程使这些设想成为军事设施。后来，他在西北边境抵御姜维，包括256年段谷获胜。263年，另一支魏军在剑阁牵制蜀军时，邓艾军队由艰险山路进逼成都，促成刘禅投降。将这些经历并读，灭蜀便不只是一段奇袭故事：维持军队所依靠的，还有田地、水源与有组织的供给。"
+            },
+            "dateNote": {
+              "en": "241–263 selects documented activity, not an inferred lifespan. Reign-year dates in the primary texts are expressed as civil years. Map points are representative.",
+              "zh": "241—263年选取有据活动，并非推算的生卒年。原典年号纪年换算为公元纪年；地图点为代表位置。"
+            },
+            "sources": [
+              {
+                "title": "三國志 卷28",
+                "publisher": "Chen Shou, with Pei Songzhi’s commentary; public-domain primary text, Wikisource transcription",
+                "url": "https://zh.wikisource.org/wiki/三國志/卷28",
+                "evidenceNote": "Deng Ai section describes agricultural proposals, Zhengshi 2 canal works, Jiaping 1 frontier action, Ganlu 1 Duangu victory and Jingyuan 4 conquest.",
+                "evidenceNoteZh": "邓艾部分记述农政建议、正始二年漕渠工程、嘉平元年边地行动、甘露元年段谷获胜与景元四年灭蜀。",
+                "checkedAt": "2026-11-09",
+                "retrieval": "opened-page-primary-text"
+              }
+            ],
+            "milestones": [
+              {
+                "year": 241,
+                "title": {
+                  "en": "Waterways for grain",
+                  "zh": "漕渠运粮"
+                },
+                "description": {
+                  "en": "Canal development supported military agriculture and transport.",
+                  "zh": "漕渠建设支持军屯与运输。"
+                },
+                "location": {
+                  "lat": 32.62,
+                  "lon": 116.98,
+                  "label": "Shouchun–Huai River region",
+                  "labelI18n": {
+                    "en": "Shouchun–Huai River region",
+                    "zh": "寿春至淮河地区"
+                  }
+                }
+              },
+              {
+                "year": 256,
+                "title": {
+                  "en": "Victory at Duangu",
+                  "zh": "段谷获胜"
+                },
+                "description": {
+                  "en": "His force defeated Jiang Wei’s campaign.",
+                  "zh": "其部队击败姜维此次进攻。"
+                },
+                "location": {
+                  "lat": 34.4,
+                  "lon": 105.8,
+                  "label": "Duangu region, approximate battlefield anchor",
+                  "labelI18n": {
+                    "en": "Duangu region, approximate battlefield anchor",
+                    "zh": "段谷地区，大致战场锚点"
+                  }
+                }
+              },
+              {
+                "year": 263,
+                "title": {
+                  "en": "Shu surrenders",
+                  "zh": "蜀汉投降"
+                },
+                "description": {
+                  "en": "His mountain approach brought a Wei army to the Chengdu region.",
+                  "zh": "由山路进军，使魏军抵达成都地区。"
+                },
+                "location": {
+                  "lat": 30.67,
+                  "lon": 104.06,
+                  "label": "Chengdu, surrender setting",
+                  "labelI18n": {
+                    "en": "Chengdu, surrender setting",
+                    "zh": "成都，投降场景"
+                  }
+                }
+              }
+            ],
+            "relatedIds": [
+              "china-person-jiangwei",
+              "western-jin-dynasty"
+            ],
+            "expansion": {
+              "release": 11,
+              "edition": "v17",
+              "workstreams": [
+                "CH1",
+                "CH2"
+              ],
+              "sourceReview": "Original bilingual reading of inspected dynastic histories. Retrospective judgments and reported speeches are treated as evidence of historical representation.",
+              "reviewLimit": {
+                "en": "The dynastic history is a retrospective account. Its moral judgments, speeches and army totals are not adopted as independently verified facts.",
+                "zh": "正史属于事后编纂的叙述；其中道德评价、人物对话和军队总数不直接视为独立核实的事实。"
+              }
+            }
+          },
+          "previouslyCovered": false,
+          "connection": {
+            "en": "The commentary explicitly links reopening the road to Zhong Hui and Deng Ai’s 263 conquest and Liu Shan’s surrender. It lets the conquest narrative be read through damaged inscriptions and a Song scholar’s reconstruction of transport history.",
+            "zh": "考释明确将阁道重通与263年钟会、邓艾灭蜀及刘禅投降联系起来，使灭蜀叙事能通过残损铭文与宋人对交通史的重建来阅读。"
+          }
+        },
+        {
+          "record": {
+            "id": "china-event-sanguo-013",
+            "title": {
+              "en": "Wei generals Deng Ai and Zhong Hui conquer Shu Han at Chengdu",
+              "zh": "邓艾、钟会率魏军伐蜀，蜀汉亡"
+            },
+            "start": 263,
+            "end": 263,
+            "location": {
+              "lon": 104.071,
+              "lat": 30.571,
+              "label": "Chengdu",
+              "labelI18n": {
+                "en": "Chengdu",
+                "zh": "成都"
+              },
+              "labelProvenance": "inherited-source-place-pair"
+            },
+            "region": "east-asia",
+            "theme": "states",
+            "kind": "event",
+            "importance": 1,
+            "summary": {
+              "en": "Wei generals Deng Ai and Zhong Hui conquer Shu Han at Chengdu",
+              "zh": "邓艾、钟会率魏军伐蜀，蜀汉亡"
+            },
+            "dateNote": {
+              "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+              "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+            },
+            "locationPrecision": "representative",
+            "sources": [
+              {
+                "title": "Chronicles of the Realm — js/map_data.js (frozen source dataset)",
+                "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/map_data.js",
+                "publisher": "DeanChensj / Chronicles of the Realm",
+                "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+                "checkedAt": "2026-10-23"
+              }
+            ],
+            "aliases": [
+              "成都",
+              "Chengdu"
+            ],
+            "provenance": {
+              "dataset": "jiangshan",
+              "status": "inherited",
+              "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+              "periodId": "sanguo",
+              "periodIds": [
+                "sanguo"
+              ],
+              "sourceRecords": [
+                {
+                  "file": "js/map_data.js",
+                  "path": "/DYNASTY_DATA/4/milestones/12",
+                  "index": 12
+                }
+              ],
+              "note": {
+                "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+                "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+              }
+            },
+            "relatedIds": []
+          },
+          "previouslyCovered": false,
+          "connection": {
+            "en": "The commentary explicitly links reopening the road to Zhong Hui and Deng Ai’s 263 conquest and Liu Shan’s surrender. It lets the conquest narrative be read through damaged inscriptions and a Song scholar’s reconstruction of transport history.",
+            "zh": "考释明确将阁道重通与263年钟会、邓艾灭蜀及刘禅投降联系起来，使灭蜀叙事能通过残损铭文与宋人对交通史的重建来阅读。"
+          }
+        },
+        {
+          "record": {
+            "id": "china-landmark-092",
+            "title": {
+              "en": "Wei general Deng Ai marches through Yinping to Chengdu; Liu Shan surrenders",
+              "zh": "魏将邓艾偷渡阴平直抵成都，刘禅出降，蜀汉灭亡"
+            },
+            "start": 263,
+            "end": 263,
+            "location": {
+              "lon": 104.06,
+              "lat": 30.67,
+              "label": "Chengdu",
+              "labelI18n": {
+                "en": "Chengdu",
+                "zh": "成都"
+              },
+              "labelProvenance": "inherited-source-place-pair"
+            },
+            "region": "east-asia",
+            "theme": "states",
+            "kind": "event",
+            "importance": 1,
+            "summary": {
+              "en": "Wei general Deng Ai marches through Yinping to Chengdu; Liu Shan surrenders",
+              "zh": "魏将邓艾偷渡阴平直抵成都，刘禅出降，蜀汉灭亡"
+            },
+            "dateNote": {
+              "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+              "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+            },
+            "locationPrecision": "representative",
+            "sources": [
+              {
+                "title": "Chronicles of the Realm — js/lore_data.js (frozen source dataset)",
+                "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/lore_data.js",
+                "publisher": "DeanChensj / Chronicles of the Realm",
+                "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+                "checkedAt": "2026-10-23"
+              }
+            ],
+            "aliases": [
+              "成都",
+              "Chengdu"
+            ],
+            "provenance": {
+              "dataset": "jiangshan",
+              "status": "inherited",
+              "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+              "periodId": "sanguo",
+              "periodIds": [
+                "sanguo"
+              ],
+              "sourceRecords": [
+                {
+                  "file": "js/lore_data.js",
+                  "path": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/91",
+                  "index": 91
+                }
+              ],
+              "note": {
+                "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+                "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+              }
+            },
+            "relatedIds": []
+          },
+          "previouslyCovered": false,
+          "connection": {
+            "en": "The commentary explicitly links reopening the road to Zhong Hui and Deng Ai’s 263 conquest and Liu Shan’s surrender. It lets the conquest narrative be read through damaged inscriptions and a Song scholar’s reconstruction of transport history.",
+            "zh": "考释明确将阁道重通与263年钟会、邓艾灭蜀及刘禅投降联系起来，使灭蜀叙事能通过残损铭文与宋人对交通史的重建来阅读。"
+          }
+        }
+      ],
+      "identityEvidence": "文物統一編號 購拓000044N000000000 作品號 購拓00004400000 品名 漢潘宗伯等題名造橋殘石墨拓本 軸 Ink Rubbing of the Fragmentary Stone Inscription of the “Record of Bridge Construction,” Titled by Pan Zongbo et al. 分類 拓片 作者 Pan Zongbo et al. 書體 楷書 創作時間 宋光宗紹熙五年（1194） 數量 一軸 作品語文 漢文 釋文 潘宗伯韓仲元□□□□。□□伯韓仲元以泰□六年五月十日造此石□□□□。□□□□□□景元四年十二月十日。蕩寇將軍率浮□□□□□□□□□□□□□□□□□□□□□□□□□□□□□中□□□木工二千人始□□閣道。（楷書）。□（魏）潘宗伯韓仲元李孝章通褒斜閣道碑陰。 潘宗伯韓仲元記造橋閣十九字。紹熙甲寅（西元一一九四年）始見於石門之南□（崖）。其泰字下一字不顯。止有六年以下字。至此字下三字又不能□（識）。□（微）有偏旁。漢魏兩晉以泰紀年者凡七。惟魏明帝有泰和六年。晉武帝有泰康十年。餘皆一二年或四三年。則知此為泰和六年明矣。是歲。蜀建興十年。先是太和四年。魏司馬懿伐蜀。五年。蜀諸葛亮圍祁山。魏詔司馬懿拒之。□（秋）七月。亮復軍。明年。亮休士作木牛流馬。故魏人得入褒谷治橋閣矣。後題景元四年三十八字者。魏陳留王年號。自泰和六年至此。凡三十有三年。則此二號皆魏之紀年無疑。其書盪寇將軍云者。蜀張薿亦有此將軍號。魏盪寇將軍浮亭侯李苞字孝章。復通此閣道於景元四年。即蜀炎興元年冬十一月。魏鍾會鄧艾率眾伐蜀。至江油降馬邈。至綿竹斬諸葛瞻。劉禪詣艾降。巴蜀皆平。十二月。魏分益州為梁州。褒余閣道於是乎通矣。慶元元年中秋日南鄭令臨淄晏袤書。（隸書）。 典藏尺寸 --> 位置 尺寸(公分) 本幅 124.5x99.6 全幅 239x102 質地 --> 質地位置 質地 本幅 紙 保存維護 --> 本院文物保存維護依〈國立故宮博物院典藏文物管理作業要點〉及〈國立故宮博物院文物修護業務作業原則〉辦理 抽盤點紀錄 修護紀錄 100萬像素圖檔下載 close 驗證碼 驗證碼錯誤 replay 重新產生 600萬像素圖檔下載 close 驗證碼 驗證碼錯誤 replay 重新產生 ::: ",
+      "publicationCopy": {
+        "id": "china-batch-11-baoxie-road-rubbing",
+        "file": "assets/history-media/china-batch-11-baoxie-road-rubbing.jpg",
+        "recordIds": [
+          "china-person-dengai"
+        ],
+        "title": {
+          "en": "A road inscription reread after the conquest of Shu",
+          "zh": "灭蜀之后的道路铭文与宋人考证"
+        },
+        "alt": {
+          "en": "Pale characters emerge from a mottled black rubbing; a long commentary fills the lower and left portions, with calibration cards retained at the edge.",
+          "zh": "斑驳墨拓中显出浅色文字，左侧及下方有长篇考释，边缘保留来源照片的校色卡。"
+        },
+        "caption": {
+          "en": "Rubbing of the Baoxie road inscription and Yan Mao’s commentary, signed in 1195. The catalog’s date field says 1194, the discovery year given in the text; the date of making this paper rubbing is not established.",
+          "zh": "褒斜阁道铭文及晏袤考释的拓片，考释署1195年；馆藏年代栏为1194年，即文中所记发现年，纸本拓制时间未能确定。"
+        },
+        "interpretation": {
+          "en": "The commentary explicitly links reopening the road to Zhong Hui and Deng Ai’s 263 conquest and Liu Shan’s surrender. It lets the conquest narrative be read through damaged inscriptions and a Song scholar’s reconstruction of transport history.",
+          "zh": "考释明确将阁道重通与263年钟会、邓艾灭蜀及刘禅投降联系起来，使灭蜀叙事能通过残损铭文与宋人对交通史的重建来阅读。"
+        },
+        "creator": "Unidentified rubbing maker; commentary by Yan Mao",
+        "date": "Rubbing undated; commentary signed 1195, recording discovery in 1194",
+        "institution": "National Palace Museum, Taipei; 購拓000044N000000000",
+        "kind": "manuscript",
+        "representation": "manuscript-detail",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/34632?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/B2I%2FB2I000044N000000000PAA/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/B2I%2FB2I000044N000000000PAA/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/34632?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "漢潘宗伯等題名造橋殘石墨拓本 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "漢潘宗伯等題名造橋殘石墨拓本 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 1042,
+        "height": 1400,
+        "bytes": 366315,
+        "sha256": "ec798329bcca6c2bc9549270fcf899f9978005a879c0e08e29f8a42421ec8400",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, original derivative bytes and pixel-review contact sheet preserved in China batch 11.",
+        "contextSources": [],
+        "metadataI18n": {
+          "date": {
+            "en": "Rubbing undated; commentary signed 1195, recording discovery in 1194",
+            "zh": "拓制未纪年；考释署1195年，记1194年发现"
+          },
+          "creator": {
+            "en": "Unidentified rubbing maker; commentary by Yan Mao",
+            "zh": "佚名拓工；晏袤考释"
+          },
+          "institution": {
+            "en": "National Palace Museum, Taipei; 購拓000044N000000000",
+            "zh": "国立故宫博物院，台北；購拓000044N000000000"
+          }
+        }
+      }
+    },
+    {
+      "assetId": "china-batch-11-tang-restoration-ode",
+      "catalogId": 31239,
+      "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/31239?dep=P",
+      "sourceReceipt": "31239-source.html",
+      "sourceText": "31239-source.txt",
+      "downloadReceipt": "31239-c4-PAA-receipt.json",
+      "sourceSha256": "045735b151210b446f59c4fcbbb6712a7eb0b7648c2647786c630a84694c4b03",
+      "rightsQuote": "中階圖像與文字均無須申請、不限用途、不用付費即可公開使用，請於適當位置呈現姓名標示。",
+      "credit": "清何紹基書中興頌 冊。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+      "pixelReviewed": true,
+      "review": "Selected derivative individually inspected at actual pixel dimensions: Large regular-script characters across an album opening name An Lushan and record the fall of Luoyang and Chang’an.",
+      "targetEvidence": [
+        {
+          "record": {
+            "id": "china-person-anlushan",
+            "sourceProfileId": "china-person-anlushan",
+            "name": {
+              "en": "An Lushan",
+              "zh": "安禄山"
+            },
+            "title": {
+              "en": "An Lushan · frontier command becomes rebellion",
+              "zh": "安禄山 · 边镇权力转为叛乱"
+            },
+            "start": 742,
+            "end": 757,
+            "region": "east-asia",
+            "kind": "person",
+            "theme": "states",
+            "importance": 3,
+            "location": {
+              "lat": 39.9,
+              "lon": 116.4,
+              "label": "Fanyang, frontier command",
+              "labelI18n": {
+                "en": "Fanyang, frontier command",
+                "zh": "范阳，边镇驻地"
+              }
+            },
+            "locationPrecision": "representative",
+            "summary": {
+              "en": "An Lushan rose through the Tang frontier armies and received the Pinglu command in 742. His authority depended on imperial appointments and relationships at court as well as soldiers on the border. In 755 he rose against the dynasty from Fanyang. His armies then took Luoyang, where he claimed an imperial title in 756; the fighting also drove the Tang court from Chang’an. His own rule ended in a palace conspiracy in 757 involving his son An Qingxu and members of his household. The rebellion continued after his death. Following these changing centres of command reveals a struggle within an interconnected empire, not a simple opposition between a capital and an isolated frontier.",
+              "zh": "安禄山从唐朝边军中升迁，742年受任平卢节度使。他的权力既来自边境军队，也依靠皇帝任命与朝廷关系。755年，他从范阳起兵反唐。此后的进军夺取洛阳，他于756年在那里称帝；战事也迫使唐廷离开长安。757年，安庆绪与身边人员参与的宫廷密谋结束了他的统治，但叛乱仍在继续。沿着这些变化的指挥中心观察，可以看出这是一场发生在相互联系的帝国内部的权力斗争，而非都城与孤立边地之间的简单对抗。"
+            },
+            "dateNote": {
+              "en": "742–757 is the selected period of documented activity, not a lifespan. Dates are given at civil-year precision; map points are representative.",
+              "zh": "742—757年为所选有据活动时期，并非生卒年。日期精度为公元年；地图点为代表位置。"
+            },
+            "sources": [
+              {
+                "title": "舊唐書 卷200上",
+                "publisher": "Liu Xu and the Later Jin historiographical commission; public-domain primary text, Wikisource transcription",
+                "url": "https://zh.wikisource.org/wiki/舊唐書/卷200上",
+                "evidenceNote": "Tianbao 1 appointment, Tianbao 14 rebellion, Tianbao 15 imperial proclamation and Zhide 2 assassination; Luoyang court and the conspirators. The twelfth-month capture is not automatically converted to civil 755.",
+                "evidenceNoteZh": "天宝元年任命、十四年起兵、十五年称帝、至德二年被杀；洛阳政权及参与密谋者。未把十二月攻城自动换算为公历755年。",
+                "checkedAt": "2026-11-09",
+                "retrieval": "opened-page-primary-text"
+              },
+              {
+                "title": "An Lu-shan",
+                "publisher": "Encyclopedia of World Biography / Encyclopedia.com",
+                "url": "https://www.encyclopedia.com/people/history/chinese-and-taiwanese-history-biographies/lu-shan",
+                "evidenceNote": "Confirms 742, 755–756 and 757 anchors and the rebellion’s continuation after his death.",
+                "evidenceNoteZh": "核对742年、755—756年与757年的锚点，以及其死后战事延续。",
+                "checkedAt": "2026-11-09",
+                "retrieval": "opened-page"
+              }
+            ],
+            "milestones": [
+              {
+                "year": 742,
+                "title": {
+                  "en": "Pinglu appointment",
+                  "zh": "出任平卢节度使"
+                },
+                "description": {
+                  "en": "The court placed him over a frontier military command.",
+                  "zh": "朝廷任其掌管边镇军务。"
+                },
+                "location": {
+                  "lat": 41.54,
+                  "lon": 120.45,
+                  "label": "Pinglu command region",
+                  "labelI18n": {
+                    "en": "Pinglu command region",
+                    "zh": "平卢军镇地区"
+                  }
+                }
+              },
+              {
+                "year": 755,
+                "title": {
+                  "en": "Rebellion from Fanyang",
+                  "zh": "从范阳起兵"
+                },
+                "description": {
+                  "en": "His forces moved against the Tang government.",
+                  "zh": "率军反叛唐廷。"
+                },
+                "location": {
+                  "lat": 39.9,
+                  "lon": 116.4,
+                  "label": "Fanyang",
+                  "labelI18n": {
+                    "en": "Fanyang",
+                    "zh": "范阳"
+                  }
+                }
+              },
+              {
+                "year": 757,
+                "title": {
+                  "en": "Killed in a palace plot",
+                  "zh": "死于宫廷密谋"
+                },
+                "description": {
+                  "en": "His household conspiracy transferred power to An Qingxu.",
+                  "zh": "身边人员的密谋将权力交给安庆绪。"
+                },
+                "location": {
+                  "lat": 34.62,
+                  "lon": 112.45,
+                  "label": "Luoyang",
+                  "labelI18n": {
+                    "en": "Luoyang",
+                    "zh": "洛阳"
+                  }
+                }
+              }
+            ],
+            "relatedIds": [
+              "china-anshi-war-and-recovery-755",
+              "tang-dynasty"
+            ],
+            "expansion": {
+              "release": 11,
+              "edition": "v17",
+              "workstreams": [
+                "CH1",
+                "CH2"
+              ],
+              "sourceReview": "Original bilingual synthesis of the inspected passages identified in each source note.",
+              "reviewLimit": {
+                "en": "Retrospective accounts are read for documented actions, not as proof of reported dialogue, motives or exact army totals.",
+                "zh": "事后记述用于核对有据行动，不将所载对话、动机或军队精确人数直接视为定论。"
+              }
+            }
+          },
+          "previouslyCovered": false,
+          "connection": {
+            "en": "The opening names An Lushan’s advance and the flight of the Tang court. Its later praise of dynastic recovery makes this a partisan Tang account, transmitted through nineteenth-century calligraphy, rather than a portrait of the rebel.",
+            "zh": "开篇点出安禄山进军与唐廷出奔；后文颂扬王朝恢复，显示它是经十九世纪书法传写的唐朝立场记述，而不是叛军领袖的肖像。"
+          }
+        },
+        {
+          "record": {
+            "id": "china-event-tang-031",
+            "title": {
+              "en": "An Lushan and Shi Siming rebel at Fanyang, sparking the An–Shi Rebellion",
+              "zh": "安禄山、史思明于范阳起兵，安史之乱爆发"
+            },
+            "start": 755,
+            "end": 755,
+            "location": {
+              "lon": 116.401,
+              "lat": 39.901,
+              "label": "Fanyang (Youzhou)",
+              "labelI18n": {
+                "en": "Fanyang (Youzhou)",
+                "zh": "范阳"
+              },
+              "labelProvenance": "inherited-source-place-pair"
+            },
+            "region": "east-asia",
+            "theme": "states",
+            "kind": "event",
+            "importance": 1,
+            "summary": {
+              "en": "An Lushan and Shi Siming rebel at Fanyang, sparking the An–Shi Rebellion",
+              "zh": "安禄山、史思明于范阳起兵，安史之乱爆发"
+            },
+            "dateNote": {
+              "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+              "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+            },
+            "locationPrecision": "representative",
+            "sources": [
+              {
+                "title": "Chronicles of the Realm — js/map_data.js (frozen source dataset)",
+                "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/map_data.js",
+                "publisher": "DeanChensj / Chronicles of the Realm",
+                "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+                "checkedAt": "2026-10-23"
+              }
+            ],
+            "aliases": [
+              "范阳",
+              "Fanyang (Youzhou)"
+            ],
+            "provenance": {
+              "dataset": "jiangshan",
+              "status": "inherited",
+              "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+              "periodId": "tang",
+              "periodIds": [
+                "tang"
+              ],
+              "sourceRecords": [
+                {
+                  "file": "js/map_data.js",
+                  "path": "/DYNASTY_DATA/9/milestones/30",
+                  "index": 30
+                }
+              ],
+              "note": {
+                "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+                "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+              }
+            },
+            "relatedIds": [
+              "tang-dynasty"
+            ]
+          },
+          "previouslyCovered": false,
+          "connection": {
+            "en": "The opening names An Lushan’s advance and the flight of the Tang court. Its later praise of dynastic recovery makes this a partisan Tang account, transmitted through nineteenth-century calligraphy, rather than a portrait of the rebel.",
+            "zh": "开篇点出安禄山进军与唐廷出奔；后文颂扬王朝恢复，显示它是经十九世纪书法传写的唐朝立场记述，而不是叛军领袖的肖像。"
+          }
+        }
+      ],
+      "identityEvidence": "文物統一編號 贈書000197N000000000 more 贈書000197N000000001 贈書000197N000000002 贈書000197N000000003 贈書000197N000000004 贈書000197N000000005 贈書000197N000000006 贈書000197N000000007 贈書000197N000000008 贈書000197N000000009 贈書000197N000000010 贈書000197N000000011 贈書000197N000000012 贈書000197N000000013 贈書000197N000000014 贈書000197N000000015 作品號 贈書00019700000 品名 清何紹基書中興頌 冊 Transcription of the Dynastic Revival Ode 分類 法書 作者 何紹基,He Shaoji 書體 楷書 數量 一冊：十七開（前副頁一開一幅；本幅十五開三十幅；後副頁一開一幅） 作品語文 漢文 釋文 大唐中興頌有序。尚書水部員外郎兼殿中侍御史荊南節度判官元結撰。金紫光祿大夫前行撫州刾史上柱國魯郡開國公顏真卿書。天寶十四秊。安祿山陷洛陽。明秊。陷長安。天子幸蜀。太子即位于靈武。明秊。皇帝移軍鳳翔。其秊復兩京。上皇還京師。於戯。前代帝王有盛德大業者。必見於歌頌。若今歌頌大業。刻之金石。非老于文。學其誰宜。為頌曰。噫嘻。前朝孽臣姦驕。為惽為妖。邊將騁兵。毒亂國經。羣生失寍。大駕南巡。百寮竄身。奉賊稱臣。天將昌唐。繄聣我皇。匹馬北方。獨立一呼。千麾万旟。戎卒前駈。我師其東。儲皇撫戎。蕩攘羣兇。復復指期。曾不逾時。有國無之。事有至難。宗廟再安。二聖重歡。地闢天開。蠲除秗災。瑞慶大來。凶徒逆儔。涵濡天休。死生堪羞。功勞位尊。忠烈名存。澤流子孫。盛德之興。山髙日昇。萬福是膺。能令大君。聲容沄沄。不在斯文。湘江東西。中直浯溪。石崖天齊。可磨可鐫。刋此頌焉。何千萬年。上元二秊秋八月撰。大厯六秊夏六月刻。用小歐筆法寫中興頌碑文。咸豐己未（西元一八五九年）六月既望。蝯叟。 典藏尺寸 --> 位置 尺寸(公分) 本幅 25x19 後副頁 33x22.9 全幅 33x45.8 質地 --> 質地位置 質地 本幅 紙 題跋資料 --> 題跋類別 作者 位置 款識 書體 全文 題跋 譚澤闓 印記 expand_more 後副頁 甲寅八月上海重裝。中秋日題記。 楷書 壬子小除夕在長沙徐兼民見詒。甲寅八月上海重裝。中秋日題記。 印主 印記 譚澤闓 茶陵譚澤闓印 題跋 徐崇立 印記 expand_more 後副頁 己未夏四月徐崇立記 楷書 此冊藏余家。當時以賤直得之。辛亥避亂南歸頻歲居。瓶齋遂舉以為寶劍烈士之贈。舊歲辟地京師。㱕途迂道滬上。雪來柳往。流轉江湖。重聚缾齋。得覩故物。世變日亟。又不如壬子居湘之可偷安。蝯叟是冊。書於咸豐己未。今茲復直己未。蓋已甲子一周矣。展卷憮然。輒題紙尾。己未夏四月。徐崇立記。 印主 印記 徐崇立 徐崇立 徐崇立 劍石 簽 印記 expand_more 前副頁 蝯叟書中興頌 印主 印記 譚伯羽 習是齋藏天隨閣遺篋珍品 簽 譚澤闓 印記 expand_more 甲寅中秋題 蝯叟書中興頌冊子。瓶齋所藏。甲寅中秋題。 印主 印記 譚澤闓印 印記資料 --> 印記類別 印主 印記 收傳印記 譚伯羽 天隨閣所得銘心絕品 收傳印記 譚澤闓 阿缾審定 收傳印記 譚澤闓 瓶齋所藏 收傳印記 譚伯羽 習是齋藏天隨閣遺篋珍品（重二） 收傳印記 譚伯羽 習齋臨過 收傳印記 譚澤闓 缾齋曾藏得者寶之 收傳印記 譚澤闓 觀缾居鑑藏金石書畫記 作者印記 何紹基 子貞 作者印記 何紹基 何紹基印 參考資料 --> 類別 參考資料 收藏著錄 譚伯羽譚季甫先生昆仲捐贈文物目錄，頁195、326 保存維護 --> 本院文物保存維護依〈國立故宮博物院典藏文物管理作業要點〉及〈國立故宮博物院文物修護業務作業原則〉辦理 抽盤點紀錄 修護紀錄 100萬像素圖檔下載 close 驗證碼 驗證碼錯誤 replay 重新產生 600萬像素圖檔下載 close 驗證碼 驗證碼錯誤 replay 重新產生 ::: ",
+      "publicationCopy": {
+        "id": "china-batch-11-tang-restoration-ode",
+        "file": "assets/history-media/china-batch-11-tang-restoration-ode.jpg",
+        "recordIds": [
+          "china-person-anlushan"
+        ],
+        "title": {
+          "en": "A Qing copy of the Tang Restoration Ode",
+          "zh": "清人抄写的《大唐中兴颂》"
+        },
+        "alt": {
+          "en": "Large regular-script characters across an album opening name An Lushan and record the fall of Luoyang and Chang’an.",
+          "zh": "册页两面的大楷写出安禄山之名，并记洛阳与长安失守。"
+        },
+        "caption": {
+          "en": "He Shaoji copied the Tang Restoration Ode in 1859. Yuan Jie composed the original text in 761; the inscription was carved in 771. This is a Qing transcription of that account.",
+          "zh": "何绍基1859年书《大唐中兴颂》，原文由元结撰于761年，771年刻石；此册为清代抄写的文本。"
+        },
+        "interpretation": {
+          "en": "The opening names An Lushan’s advance and the flight of the Tang court. Its later praise of dynastic recovery makes this a partisan Tang account, transmitted through nineteenth-century calligraphy, rather than a portrait of the rebel.",
+          "zh": "开篇点出安禄山进军与唐廷出奔；后文颂扬王朝恢复，显示它是经十九世纪书法传写的唐朝立场记述，而不是叛军领袖的肖像。"
+        },
+        "creator": "He Shaoji; text by Yuan Jie",
+        "date": "1859; text composed 761, original inscription carved 771",
+        "institution": "National Palace Museum, Taipei; 贈書000197N000000000",
+        "kind": "manuscript",
+        "representation": "manuscript-detail",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/31239?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/A2B%2FA2B000197N000000003PAA/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/A2B%2FA2B000197N000000003PAA/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/31239?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "清何紹基書中興頌 冊。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "清何紹基書中興頌 冊。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 1400,
+        "height": 1048,
+        "bytes": 181455,
+        "sha256": "4c1d063be97ebefeb79caa080997b50a3efec5c44065ffa232a3fafba4750229",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, original derivative bytes and pixel-review contact sheet preserved in China batch 11.",
+        "contextSources": [],
+        "metadataI18n": {
+          "date": {
+            "en": "1859; text composed 761, original inscription carved 771",
+            "zh": "1859年；原文撰于761年，原碑刻于771年"
+          },
+          "creator": {
+            "en": "He Shaoji; text by Yuan Jie",
+            "zh": "何绍基书；元结撰文"
+          },
+          "institution": {
+            "en": "National Palace Museum, Taipei; 贈書000197N000000000",
+            "zh": "国立故宫博物院，台北；贈書000197N000000000"
+          }
+        }
+      }
+    },
+    {
+      "assetId": "china-batch-11-caishi-later-commentary",
+      "catalogId": 31667,
+      "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/31667?dep=P",
+      "sourceReceipt": "31667-source.html",
+      "sourceText": "31667-source.txt",
+      "downloadReceipt": "31667-c1-PAA-receipt.json",
+      "sourceSha256": "21027c13791732bc9398195a157022438acd231f8c6575ea50951242cad95779",
+      "rightsQuote": "中階圖像與文字均無須申請、不限用途、不用付費即可公開使用，請於適當位置呈現姓名標示。",
+      "credit": "清劉墉行楷書 冊 書宋虞允文尺牘。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+      "pixelReviewed": true,
+      "review": "Selected derivative individually inspected at actual pixel dimensions: An album opening finishes a copied letter and continues with a commentary beginning with Yu Yunwen’s battle at Caishi.",
+      "targetEvidence": [
+        {
+          "record": {
+            "id": "china-event-nansong-007",
+            "title": {
+              "en": "Yu Yunwen defeats Jin Emperor Wanyan Liang at the Battle of Caishi",
+              "zh": "金海陵王南侵，虞允文采石矶大捷"
+            },
+            "start": 1161,
+            "end": 1161,
+            "location": {
+              "lon": 118.461,
+              "lat": 31.661,
+              "label": "Caishi (Ma'anshan)",
+              "labelI18n": {
+                "en": "Caishi (Ma'anshan)",
+                "zh": "采石（马鞍山）"
+              },
+              "labelProvenance": "inherited-source-place-pair"
+            },
+            "region": "east-asia",
+            "theme": "states",
+            "kind": "event",
+            "importance": 1,
+            "summary": {
+              "en": "Yu Yunwen defeats Jin Emperor Wanyan Liang at the Battle of Caishi",
+              "zh": "金海陵王南侵，虞允文采石矶大捷"
+            },
+            "dateNote": {
+              "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+              "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+            },
+            "locationPrecision": "representative",
+            "sources": [
+              {
+                "title": "Chronicles of the Realm — js/map_data.js (frozen source dataset)",
+                "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/map_data.js",
+                "publisher": "DeanChensj / Chronicles of the Realm",
+                "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+                "checkedAt": "2026-10-23"
+              }
+            ],
+            "aliases": [
+              "采石（马鞍山）",
+              "Caishi (Ma'anshan)"
+            ],
+            "provenance": {
+              "dataset": "jiangshan",
+              "status": "inherited",
+              "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+              "periodId": "nansong",
+              "periodIds": [
+                "nansong"
+              ],
+              "sourceRecords": [
+                {
+                  "file": "js/map_data.js",
+                  "path": "/DYNASTY_DATA/12/milestones/6",
+                  "index": 6
+                }
+              ],
+              "note": {
+                "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+                "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+              }
+            },
+            "relatedIds": [
+              "southern-song",
+              "jurchen-jin-dynasty",
+              "western-xia-dynasty"
+            ]
+          },
+          "previouslyCovered": false,
+          "connection": {
+            "en": "The added commentary explicitly praises the scholar-official’s courage at Caishi and then criticizes his later arrangements in Shu. It preserves a later assessment of command, allowing victory to be considered beside decisions that received a different judgment.",
+            "zh": "附评明确赞许这位文臣在采石的勇略，又批评他后来的守蜀部署；这是后世对军事指挥的评价，可将胜绩与获得不同评判的决策并观。"
+          }
+        }
+      ],
+      "identityEvidence": "文物統一編號 贈書000152N000000006 more 贈書000152N000000007 作品號 贈書00015200006 品名 清劉墉行楷書 冊 書宋虞允文尺牘 Calligraphy in Semi-Regular Script: Transcription of the Letter by Yu Yunwen of Song Dynasty 分類 法書 作者 劉墉,Liu Yong 書體 行草書 數量 一幅 作品語文 漢文 釋文 允文病久氣羸。多臥少行立。執筆作此。書不成字。簡禮文甚矣。賜書只乞草聖一帖。既以示相親。又將為子孫百世之藏也。河朔鵝梨五十枚。南詔餘甘子一桶納上方尊俎。報答春光之勝。亦或一助。允文又稟。（劉墉款題）雍公采石一戰。書生之勇略著矣。及玉麟堂會食不成。實由天意。若其守蜀改吳璘舊規。終貽蜀患。與姜維易武侯規畫略同也。 典藏尺寸 --> 位置 尺寸(公分) 本幅 20.2x13.9 質地 --> 質地位置 質地 本幅 紙 印記資料 --> 印記類別 印主 印記 作者印記 劉墉 石庵 參考資料 --> 類別 參考資料 收藏著錄 譚伯羽譚季甫先生昆仲捐贈文物目錄，頁169、273-275 保存維護 --> 本院文物保存維護依〈國立故宮博物院典藏文物管理作業要點〉及〈國立故宮博物院文物修護業務作業原則〉辦理 抽盤點紀錄 修護紀錄 100萬像素圖檔下載 close 驗證碼 驗證碼錯誤 replay 重新產生 600萬像素圖檔下載 close 驗證碼 驗證碼錯誤 replay 重新產生 ::: ",
+      "publicationCopy": {
+        "id": "china-batch-11-caishi-later-commentary",
+        "file": "assets/history-media/china-batch-11-caishi-later-commentary.jpg",
+        "recordIds": [
+          "china-event-nansong-007"
+        ],
+        "title": {
+          "en": "Liu Yong reflects on Yu Yunwen’s Caishi victory",
+          "zh": "刘墉评虞允文采石之战"
+        },
+        "alt": {
+          "en": "An album opening finishes a copied letter and continues with a commentary beginning with Yu Yunwen’s battle at Caishi.",
+          "zh": "册页先续抄尺牍，接着以虞允文采石之战开头作评。"
+        },
+        "caption": {
+          "en": "Liu Yong’s undated Qing copy of a letter by the Song official Yu Yunwen, followed by Liu’s commentary. The letter concerns illness and gifts; the following note turns to military judgment.",
+          "zh": "刘墉未纪年的清代书册，抄宋代虞允文尺牍并附评论；信中谈疾病与馈赠，后面的评语转入军事判断。"
+        },
+        "interpretation": {
+          "en": "The added commentary explicitly praises the scholar-official’s courage at Caishi and then criticizes his later arrangements in Shu. It preserves a later assessment of command, allowing victory to be considered beside decisions that received a different judgment.",
+          "zh": "附评明确赞许这位文臣在采石的勇略，又批评他后来的守蜀部署；这是后世对军事指挥的评价，可将胜绩与获得不同评判的决策并观。"
+        },
+        "creator": "Liu Yong, copying Yu Yunwen and adding commentary",
+        "date": "Qing dynasty; copy undated",
+        "institution": "National Palace Museum, Taipei; 贈書000152N000000006",
+        "kind": "manuscript",
+        "representation": "manuscript-detail",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/31667?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/A2B%2FA2B000152N000000007PAA/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/A2B%2FA2B000152N000000007PAA/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/31667?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "清劉墉行楷書 冊 書宋虞允文尺牘。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "清劉墉行楷書 冊 書宋虞允文尺牘。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 1400,
+        "height": 1048,
+        "bytes": 171940,
+        "sha256": "94b9e2b59091819e91a645e111cc9c8002dd8997daf8a4a6dcf634dd1a1be4ef",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, original derivative bytes and pixel-review contact sheet preserved in China batch 11.",
+        "contextSources": [],
+        "metadataI18n": {
+          "date": {
+            "en": "Qing dynasty; copy undated",
+            "zh": "清代；抄本未纪年"
+          },
+          "creator": {
+            "en": "Liu Yong, copying Yu Yunwen and adding commentary",
+            "zh": "刘墉临虞允文书并作评"
+          },
+          "institution": {
+            "en": "National Palace Museum, Taipei; 贈書000152N000000006",
+            "zh": "国立故宫博物院，台北；贈書000152N000000006"
+          }
+        }
+      }
+    }
+  ],
+  "copyManifest": [
+    {
+      "assetId": "china-batch-11-lvbu-halberd",
+      "sourceFile": "research/v18/china-batch-11/6960-PAC.jpg",
+      "targetFile": "assets/history-media/china-batch-11-lvbu-halberd.jpg",
+      "sha256": "c7dd2565ed2a875272c64b3d4799d64d7572344affe87ca183d66cdc49bab800",
+      "bytes": 220582,
+      "width": 1400,
+      "height": 1055
+    },
+    {
+      "assetId": "china-batch-11-baoxie-road-rubbing",
+      "sourceFile": "research/v18/china-batch-11/34632.jpg",
+      "targetFile": "assets/history-media/china-batch-11-baoxie-road-rubbing.jpg",
+      "sha256": "ec798329bcca6c2bc9549270fcf899f9978005a879c0e08e29f8a42421ec8400",
+      "bytes": 366315,
+      "width": 1042,
+      "height": 1400
+    },
+    {
+      "assetId": "china-batch-11-tang-restoration-ode",
+      "sourceFile": "research/v18/china-batch-11/31239-c4-PAA.jpg",
+      "targetFile": "assets/history-media/china-batch-11-tang-restoration-ode.jpg",
+      "sha256": "4c1d063be97ebefeb79caa080997b50a3efec5c44065ffa232a3fafba4750229",
+      "bytes": 181455,
+      "width": 1400,
+      "height": 1048
+    },
+    {
+      "assetId": "china-batch-11-caishi-later-commentary",
+      "sourceFile": "research/v18/china-batch-11/31667-c1-PAA.jpg",
+      "targetFile": "assets/history-media/china-batch-11-caishi-later-commentary.jpg",
+      "sha256": "94b9e2b59091819e91a645e111cc9c8002dd8997daf8a4a6dcf634dd1a1be4ef",
+      "bytes": 171940,
+      "width": 1400,
+      "height": 1048
+    }
+  ],
+  "ownerAdmittedShard": {
+    "items": [
+      {
+        "id": "china-batch-11-lvbu-halberd",
+        "file": "assets/history-media/china-batch-11-lvbu-halberd.jpg",
+        "recordIds": [
+          "china-person-lvbu"
+        ],
+        "title": {
+          "en": "Lü Bu’s halberd shot in Ming painting",
+          "zh": "明代绘画中的吕布辕门射戟"
+        },
+        "alt": {
+          "en": "An armoured archer draws a bow beside fellow soldiers and a camp enclosure, facing a tall halberd at the right.",
+          "zh": "披甲射手在军士与营帐旁张弓，对着右侧高竖的戟。"
+        },
+        "caption": {
+          "en": "Testing Archery, catalogued under Dai Jin, Ming dynasty. The museum identifies the subject as Lü Bu shooting the halberd at the camp gate.",
+          "zh": "《太平乐事》册之《试射》，馆藏归于明代戴进，主题明确标为吕布“辕门射戟”。"
+        },
+        "interpretation": {
+          "en": "A later artist turns Lü Bu’s mediation between rival forces into a display of archery. Read beside the biography’s unstable alliances, the scene shows how martial skill became a memorable way of telling his story; it is not a contemporary likeness.",
+          "zh": "后世画家把吕布在敌对军队之间的调停，表现为射术展示；与传记中不稳定的联盟并读，可见武勇如何成为讲述其故事的鲜明方式，而非当时写生的容貌。"
+        },
+        "creator": "Catalogued under Dai Jin",
+        "date": "Ming dynasty; exact year unrecorded",
+        "institution": "National Palace Museum, Taipei; 故畫003145N000000006",
+        "kind": "artwork",
+        "representation": "historical-artwork",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/6960?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A003145N000000006PAC/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/K2A%2FK2A003145N000000006PAC/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/6960?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "明戴進太平樂事 冊 試射。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "明戴進太平樂事 冊 試射。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 1400,
+        "height": 1055,
+        "bytes": 220582,
+        "sha256": "c7dd2565ed2a875272c64b3d4799d64d7572344affe87ca183d66cdc49bab800",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, original derivative bytes and pixel-review contact sheet preserved in China batch 11.",
+        "contextSources": []
+      },
+      {
+        "id": "china-batch-11-baoxie-road-rubbing",
+        "file": "assets/history-media/china-batch-11-baoxie-road-rubbing.jpg",
+        "recordIds": [
+          "china-person-dengai"
+        ],
+        "title": {
+          "en": "A road inscription reread after the conquest of Shu",
+          "zh": "灭蜀之后的道路铭文与宋人考证"
+        },
+        "alt": {
+          "en": "Pale characters emerge from a mottled black rubbing; a long commentary fills the lower and left portions, with calibration cards retained at the edge.",
+          "zh": "斑驳墨拓中显出浅色文字，左侧及下方有长篇考释，边缘保留来源照片的校色卡。"
+        },
+        "caption": {
+          "en": "Rubbing of the Baoxie road inscription and Yan Mao’s commentary, signed in 1195. The catalog’s date field says 1194, the discovery year given in the text; the date of making this paper rubbing is not established.",
+          "zh": "褒斜阁道铭文及晏袤考释的拓片，考释署1195年；馆藏年代栏为1194年，即文中所记发现年，纸本拓制时间未能确定。"
+        },
+        "interpretation": {
+          "en": "The commentary explicitly links reopening the road to Zhong Hui and Deng Ai’s 263 conquest and Liu Shan’s surrender. It lets the conquest narrative be read through damaged inscriptions and a Song scholar’s reconstruction of transport history.",
+          "zh": "考释明确将阁道重通与263年钟会、邓艾灭蜀及刘禅投降联系起来，使灭蜀叙事能通过残损铭文与宋人对交通史的重建来阅读。"
+        },
+        "creator": "Unidentified rubbing maker; commentary by Yan Mao",
+        "date": "Rubbing undated; commentary signed 1195, recording discovery in 1194",
+        "institution": "National Palace Museum, Taipei; 購拓000044N000000000",
+        "kind": "manuscript",
+        "representation": "manuscript-detail",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/34632?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/B2I%2FB2I000044N000000000PAA/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/B2I%2FB2I000044N000000000PAA/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/34632?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "漢潘宗伯等題名造橋殘石墨拓本 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "漢潘宗伯等題名造橋殘石墨拓本 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 1042,
+        "height": 1400,
+        "bytes": 366315,
+        "sha256": "ec798329bcca6c2bc9549270fcf899f9978005a879c0e08e29f8a42421ec8400",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, original derivative bytes and pixel-review contact sheet preserved in China batch 11.",
+        "contextSources": []
+      },
+      {
+        "id": "china-batch-11-tang-restoration-ode",
+        "file": "assets/history-media/china-batch-11-tang-restoration-ode.jpg",
+        "recordIds": [
+          "china-person-anlushan"
+        ],
+        "title": {
+          "en": "A Qing copy of the Tang Restoration Ode",
+          "zh": "清人抄写的《大唐中兴颂》"
+        },
+        "alt": {
+          "en": "Large regular-script characters across an album opening name An Lushan and record the fall of Luoyang and Chang’an.",
+          "zh": "册页两面的大楷写出安禄山之名，并记洛阳与长安失守。"
+        },
+        "caption": {
+          "en": "He Shaoji copied the Tang Restoration Ode in 1859. Yuan Jie composed the original text in 761; the inscription was carved in 771. This is a Qing transcription of that account.",
+          "zh": "何绍基1859年书《大唐中兴颂》，原文由元结撰于761年，771年刻石；此册为清代抄写的文本。"
+        },
+        "interpretation": {
+          "en": "The opening names An Lushan’s advance and the flight of the Tang court. Its later praise of dynastic recovery makes this a partisan Tang account, transmitted through nineteenth-century calligraphy, rather than a portrait of the rebel.",
+          "zh": "开篇点出安禄山进军与唐廷出奔；后文颂扬王朝恢复，显示它是经十九世纪书法传写的唐朝立场记述，而不是叛军领袖的肖像。"
+        },
+        "creator": "He Shaoji; text by Yuan Jie",
+        "date": "1859; text composed 761, original inscription carved 771",
+        "institution": "National Palace Museum, Taipei; 贈書000197N000000000",
+        "kind": "manuscript",
+        "representation": "manuscript-detail",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/31239?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/A2B%2FA2B000197N000000003PAA/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/A2B%2FA2B000197N000000003PAA/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/31239?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "清何紹基書中興頌 冊。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "清何紹基書中興頌 冊。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 1400,
+        "height": 1048,
+        "bytes": 181455,
+        "sha256": "4c1d063be97ebefeb79caa080997b50a3efec5c44065ffa232a3fafba4750229",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, original derivative bytes and pixel-review contact sheet preserved in China batch 11.",
+        "contextSources": []
+      },
+      {
+        "id": "china-batch-11-caishi-later-commentary",
+        "file": "assets/history-media/china-batch-11-caishi-later-commentary.jpg",
+        "recordIds": [
+          "china-event-nansong-007"
+        ],
+        "title": {
+          "en": "Liu Yong reflects on Yu Yunwen’s Caishi victory",
+          "zh": "刘墉评虞允文采石之战"
+        },
+        "alt": {
+          "en": "An album opening finishes a copied letter and continues with a commentary beginning with Yu Yunwen’s battle at Caishi.",
+          "zh": "册页先续抄尺牍，接着以虞允文采石之战开头作评。"
+        },
+        "caption": {
+          "en": "Liu Yong’s undated Qing copy of a letter by the Song official Yu Yunwen, followed by Liu’s commentary. The letter concerns illness and gifts; the following note turns to military judgment.",
+          "zh": "刘墉未纪年的清代书册，抄宋代虞允文尺牍并附评论；信中谈疾病与馈赠，后面的评语转入军事判断。"
+        },
+        "interpretation": {
+          "en": "The added commentary explicitly praises the scholar-official’s courage at Caishi and then criticizes his later arrangements in Shu. It preserves a later assessment of command, allowing victory to be considered beside decisions that received a different judgment.",
+          "zh": "附评明确赞许这位文臣在采石的勇略，又批评他后来的守蜀部署；这是后世对军事指挥的评价，可将胜绩与获得不同评判的决策并观。"
+        },
+        "creator": "Liu Yong, copying Yu Yunwen and adding commentary",
+        "date": "Qing dynasty; copy undated",
+        "institution": "National Palace Museum, Taipei; 贈書000152N000000006",
+        "kind": "manuscript",
+        "representation": "manuscript-detail",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/31667?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/A2B%2FA2B000152N000000007PAA/full/full/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/A2B%2FA2B000152N000000007PAA/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/31667?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "清劉墉行楷書 冊 書宋虞允文尺牘。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "清劉墉行楷書 冊 書宋虞允文尺牘。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 1400,
+        "height": 1048,
+        "bytes": 171940,
+        "sha256": "94b9e2b59091819e91a645e111cc9c8002dd8997daf8a4a6dcf634dd1a1be4ef",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official image-service derivative saved unchanged; no local crop, retouching or conversion.",
+          "zh": "来源图像服务提供的版本原样保存；未作本地裁切、修饰或格式转换。"
+        },
+        "retrieval": "Source page, IIIF manifest, original derivative bytes and pixel-review contact sheet preserved in China batch 11.",
+        "contextSources": []
+      }
+    ],
+    "associations": [
+      {
+        "recordId": "china-person-lvbu",
+        "assetId": "china-batch-11-lvbu-halberd",
+        "role": "related-work",
+        "context": {
+          "en": "A later artist turns Lü Bu’s mediation between rival forces into a display of archery. Read beside the biography’s unstable alliances, the scene shows how martial skill became a memorable way of telling his story; it is not a contemporary likeness.",
+          "zh": "后世画家把吕布在敌对军队之间的调停，表现为射术展示；与传记中不稳定的联盟并读，可见武勇如何成为讲述其故事的鲜明方式，而非当时写生的容貌。"
+        },
+        "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/6960?dep=P",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "recordId": "china-person-dengai",
+        "assetId": "china-batch-11-baoxie-road-rubbing",
+        "role": "related-work",
+        "context": {
+          "en": "The commentary explicitly links reopening the road to Zhong Hui and Deng Ai’s 263 conquest and Liu Shan’s surrender. It lets the conquest narrative be read through damaged inscriptions and a Song scholar’s reconstruction of transport history.",
+          "zh": "考释明确将阁道重通与263年钟会、邓艾灭蜀及刘禅投降联系起来，使灭蜀叙事能通过残损铭文与宋人对交通史的重建来阅读。"
+        },
+        "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/34632?dep=P",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "recordId": "china-event-sanguo-013",
+        "assetId": "china-batch-11-baoxie-road-rubbing",
+        "role": "related-work",
+        "context": {
+          "en": "The commentary explicitly links reopening the road to Zhong Hui and Deng Ai’s 263 conquest and Liu Shan’s surrender. It lets the conquest narrative be read through damaged inscriptions and a Song scholar’s reconstruction of transport history.",
+          "zh": "考释明确将阁道重通与263年钟会、邓艾灭蜀及刘禅投降联系起来，使灭蜀叙事能通过残损铭文与宋人对交通史的重建来阅读。"
+        },
+        "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/34632?dep=P",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "recordId": "china-landmark-092",
+        "assetId": "china-batch-11-baoxie-road-rubbing",
+        "role": "related-work",
+        "context": {
+          "en": "The commentary explicitly links reopening the road to Zhong Hui and Deng Ai’s 263 conquest and Liu Shan’s surrender. It lets the conquest narrative be read through damaged inscriptions and a Song scholar’s reconstruction of transport history.",
+          "zh": "考释明确将阁道重通与263年钟会、邓艾灭蜀及刘禅投降联系起来，使灭蜀叙事能通过残损铭文与宋人对交通史的重建来阅读。"
+        },
+        "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/34632?dep=P",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "recordId": "china-person-anlushan",
+        "assetId": "china-batch-11-tang-restoration-ode",
+        "role": "related-work",
+        "context": {
+          "en": "The opening names An Lushan’s advance and the flight of the Tang court. Its later praise of dynastic recovery makes this a partisan Tang account, transmitted through nineteenth-century calligraphy, rather than a portrait of the rebel.",
+          "zh": "开篇点出安禄山进军与唐廷出奔；后文颂扬王朝恢复，显示它是经十九世纪书法传写的唐朝立场记述，而不是叛军领袖的肖像。"
+        },
+        "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/31239?dep=P",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "recordId": "china-event-tang-031",
+        "assetId": "china-batch-11-tang-restoration-ode",
+        "role": "related-work",
+        "context": {
+          "en": "The opening names An Lushan’s advance and the flight of the Tang court. Its later praise of dynastic recovery makes this a partisan Tang account, transmitted through nineteenth-century calligraphy, rather than a portrait of the rebel.",
+          "zh": "开篇点出安禄山进军与唐廷出奔；后文颂扬王朝恢复，显示它是经十九世纪书法传写的唐朝立场记述，而不是叛军领袖的肖像。"
+        },
+        "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/31239?dep=P",
+        "checkedAt": "2026-11-11"
+      },
+      {
+        "recordId": "china-event-nansong-007",
+        "assetId": "china-batch-11-caishi-later-commentary",
+        "role": "related-work",
+        "context": {
+          "en": "The added commentary explicitly praises the scholar-official’s courage at Caishi and then criticizes his later arrangements in Shu. It preserves a later assessment of command, allowing victory to be considered beside decisions that received a different judgment.",
+          "zh": "附评明确赞许这位文臣在采石的勇略，又批评他后来的守蜀部署；这是后世对军事指挥的评价，可将胜绩与获得不同评判的决策并观。"
+        },
+        "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/31667?dep=P",
+        "checkedAt": "2026-11-11"
+      }
+    ]
+  },
+  "held": [
+    {
+      "catalogId": 3175,
+      "status": "held",
+      "reason": "Named Zhang Juzheng inscription on Baiyue landscape is not central to his fiscal-reform biography. Original-attribution reference also warrants fuller object attribution research; no portrait inferred."
+    },
+    {
+      "catalogId": 26316,
+      "status": "held",
+      "reason": "Exact Xin Qiji poem is verified, but no source establishes connection of this specific poem to the uncovered Shangrao date anchor. First IIIF canvas is the landscape verso, not the text; no generic fan association admitted."
+    },
+    {
+      "catalogId": 35798,
+      "status": "held",
+      "reason": "Xin Qiji poem not independently tied to the exact uncovered Shangrao story/date. Not admitted just from author name."
+    },
+    {
+      "catalogId": 17073,
+      "status": "held",
+      "reason": "Official IIIF response not parseable JSON; no verified derivative or pixel review. No retry or alternate image route attempted."
+    },
+    {
+      "catalogId": 6960,
+      "status": "ready-biography; conditional-landmark455",
+      "reason": "Named Lü Bu halberd scene verified; separate correction/evidence file for landmark."
+    },
+    {
+      "catalogId": 34632,
+      "status": "ready",
+      "reason": "Full inscription commentary explicitly names conquest commanders and surrender; rubbing date distinguished from discovery and commentary dates."
+    },
+    {
+      "catalogId": 31239,
+      "status": "ready",
+      "reason": "Named An Lushan text; selection requires actual relevant album opening. Relevant selected opening individually inspected; source-served pixels unchanged."
+    },
+    {
+      "catalogId": 31667,
+      "status": "ready",
+      "reason": "Commentary explicitly discusses Caishi; first letter opening not used as unrelated battle illustration. Relevant selected opening individually inspected; source-served pixels unchanged."
+    }
+  ],
+  "conditionalNotAdmitted": {
+    "status": "conditional; owner review required, no production writes",
+    "recordId": "china-landmark-455",
+    "originalRecord": {
+      "id": "china-landmark-455",
+      "title": {
+        "en": "Shooting the Halberd at Camp Gate: Lü Bu hits a halberd prong from 150 paces to save Liu Bei",
+        "zh": "辕门射戟：吕布百五十步外射中戟支，化解纪灵攻刘备之围"
+      },
+      "start": 196,
+      "end": 196,
+      "location": {
+        "lon": 117.18,
+        "lat": 34.26,
+        "label": "Xuzhou",
+        "labelI18n": {
+          "en": "Xuzhou",
+          "zh": "徐州辕门"
+        },
+        "labelProvenance": "inherited-source-place-pair"
+      },
+      "region": "east-asia",
+      "theme": "states",
+      "kind": "event",
+      "importance": 1,
+      "summary": {
+        "en": "Shooting the Halberd at Camp Gate: Lü Bu hits a halberd prong from 150 paces to save Liu Bei",
+        "zh": "辕门射戟：吕布百五十步外射中戟支，化解纪灵攻刘备之围"
+      },
+      "dateNote": {
+        "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+        "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+      },
+      "locationPrecision": "representative",
+      "sources": [
+        {
+          "title": "Chronicles of the Realm — js/lore_data.js (frozen source dataset)",
+          "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/lore_data.js",
+          "publisher": "DeanChensj / Chronicles of the Realm",
+          "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+          "checkedAt": "2026-10-23"
+        }
+      ],
+      "aliases": [
+        "徐州辕门",
+        "Xuzhou"
+      ],
+      "provenance": {
+        "dataset": "jiangshan",
+        "status": "inherited",
+        "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+        "periodId": "donghan",
+        "periodIds": [
+          "donghan"
+        ],
+        "sourceRecords": [
+          {
+            "file": "js/lore_data.js",
+            "path": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/454",
+            "index": 454
+          }
+        ],
+        "note": {
+          "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+          "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+        }
+      },
+      "relatedIds": [
+        "han-dynasty"
+      ]
+    },
+    "proposedReplacementFields": {
+      "title": {
+        "en": "Lü Bu’s halberd shot: an account of armed mediation",
+        "zh": "辕门射戟：吕布武力调停的记述"
+      },
+      "summary": {
+        "en": "The Records of the Three Kingdoms recounts that Lü Bu intervened when Yuan Shu’s general Ji Ling attacked Liu Bei. At a meeting, he proposed that the armies separate if his arrow hit a small branch of a halberd set at the camp gate. The account says he succeeded, and the forces withdrew. It presents archery as a means of mediating a dangerous alliance struggle.",
+        "zh": "《三国志》记述，袁术部将纪灵进攻刘备时，吕布出面干预。他在会面时提议，若能射中营门所竖戟的小支，各军便罢兵。传文称他一箭命中，双方随后退去，将射术表现为调停危险联盟争端的手段。"
+      }
+    },
+    "source": {
+      "url": "https://zh.wikisource.org/wiki/三國志/卷07",
+      "title": "三國志 卷07，呂布傳",
+      "retrieval": "Opened with web tool 2026-11-11; passage at line142",
+      "fullRelevantPassage": "術遣將紀靈等步騎三萬攻備，備求救於布。布諸將謂布曰：「將軍常欲殺備，今可假手於術。」布曰：「不然。術若破備，則北連太山諸將，吾爲在術圍中，不得不救也。」便嚴步兵千、騎二百，馳往赴備。靈等聞布至，皆斂兵不敢復攻。布於沛西南一里安屯，遣鈴下請靈等，靈等亦請布共飲食。布謂靈等曰：「玄德，布弟也。弟爲諸君所困，故來救之。布性不喜合鬬，但喜解鬬耳。」布令門候於營門中舉一隻戟，布言：「諸君觀布射戟小支，一發中者諸君當解去，不中可留決鬬。」布舉弓射戟，正中小支。諸將皆驚，言「將軍天威也」！明日復歡會，然後各罷。"
+    },
+    "dateReview": "Inherited 196 anchor is not independently established by this passage alone. Preserve only if parent independently verifies; otherwise the entry still needs date review. Do not claim no later tradition supplies 150 paces: that distance is merely absent from this inspected passage.",
+    "imageEvidence": {
+      "url": "https://digitalarchive.npm.gov.tw/Collection/Detail/6960?dep=P",
+      "quote": "主要主題 經史‧故事 轅門射戟（呂布）",
+      "assetId": "china-batch-11-lvbu-halberd"
+    },
+    "associationNotInReadyShard": {
+      "recordId": "china-landmark-455",
+      "assetId": "china-batch-11-lvbu-halberd",
+      "role": "related-work",
+      "context": {
+        "en": "The museum identifies this Ming painting as the halberd-shot episode recounted in the entry. It shows later visual reception, not an eyewitness record or measurement of the shot.",
+        "zh": "馆方将此明画主题定为条目所述辕门射戟，展示后世图像接受，而非现场记录或射程测量。"
+      },
+      "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/6960?dep=P",
+      "checkedAt": "2026-11-11"
+    }
+  },
+  "sourcePassages": {
+    "6960": " 明戴進太平樂事 冊 試射 - 故宮 Loading 跳到主要內容區塊 ::: 首頁 典藏新選 典藏檢索 開放圖檔 清代檔案 古籍輿圖 典藏檢索 ::: 首頁 典藏檢索 明戴進太平樂事 冊 試射 繪畫 ",
+    "34632": " 漢潘宗伯等題名造橋殘石墨拓本 軸 - 故宮 Loading 跳到主要內容區塊 ::: 首頁 典藏新選 典藏檢索 開放圖檔 清代檔案 古籍輿圖 典藏檢索 ::: 首頁 典藏檢索 漢潘宗伯等題名造橋殘石墨拓本 軸 Ink Rubbing of the Fragmentary Stone Inscription of the “Record of Bridge Construction,” Titled by Pan Zongbo et al. 拓片 潘宗伯韓仲元□□□□。□□伯韓仲元以泰□六年五月十日造此石□□□□。□□□□□□景元四年十二月十日。蕩寇將軍率浮□□□□□□□□□□□□□□□□□□□□□□□□□□□□□中□□□木工二千人始□□閣道。（楷書）。□（魏）潘宗伯韓仲元李孝章通褒斜閣道碑陰。 潘宗伯韓仲元記造橋閣十九字。紹熙甲寅（西元一一九四年）始見於石門之南□（崖）。其泰字下一字不顯。止有六年以下字。至此字下三字又不能□（識）。□（微）有偏旁。漢魏兩晉以泰紀年者凡七。惟魏明帝有泰和六年。晉武帝有泰康十年。餘皆一二年或四三年。則知此為泰和六年明矣。是歲。蜀建興十年。先是太和四年。魏司馬懿伐蜀。五年。蜀諸葛亮圍祁山。魏詔司馬懿拒之。□（秋）七月。亮復軍。明年。亮休士作木牛流馬。故魏人得入褒谷治橋閣矣。後題景元四年三十八字者。魏陳留王年號。自泰和六年至此。凡三十有三年。則此二號皆魏之紀年無疑。其書盪寇將軍云者。蜀張薿亦有此將軍號。魏盪寇將軍浮亭侯李苞字孝章。復通此閣道於景元四年。即蜀炎興元年冬十一月。魏鍾會鄧艾率眾伐蜀。至江油降馬邈。至綿竹斬諸葛瞻。劉禪詣艾降。巴蜀皆平。十二月。魏分益州為梁州。褒余閣道於是乎通矣。慶元元年中秋日南鄭令臨淄晏袤書。（隸書）。 ",
+    "31239": " 清何紹基書中興頌 冊 - 故宮 Loading 跳到主要內容區塊 ::: 首頁 典藏新選 典藏檢索 開放圖檔 清代檔案 古籍輿圖 典藏檢索 ::: 首頁 典藏檢索 清何紹基書中興頌 冊 Transcription of the Dynastic Revival Ode 法書 大唐中興頌有序。尚書水部員外郎兼殿中侍御史荊南節度判官元結撰。金紫光祿大夫前行撫州刾史上柱國魯郡開國公顏真卿書。天寶十四秊。安祿山陷洛陽。明秊。陷長安。天子幸蜀。太子即位于靈武。明秊。皇帝移軍鳳翔。其秊復兩京。上皇還京師。於戯。前代帝王有盛德大業者。必見於歌頌。若今歌頌大業。刻之金石。非老于文。學其誰宜。為頌曰。噫嘻。前朝孽臣姦驕。為惽為妖。邊將騁兵。毒亂國經。羣生失寍。大駕南巡。百寮竄身。奉賊稱臣。天將昌唐。繄聣我皇。匹馬北方。獨立一呼。千麾万旟。戎卒前駈。我師其東。儲皇撫戎。蕩攘羣兇。復復指期。曾不逾時。有國無之。事有至難。宗廟再安。二聖重歡。地闢天開。蠲除秗災。瑞慶大來。凶徒逆儔。涵濡天休。死生堪羞。功勞位尊。忠烈名存。澤流子孫。盛德之興。山髙日昇。萬福是膺。能令大君。聲容沄沄。不在斯文。湘江東西。中直浯溪。石崖天齊。可磨可鐫。刋此頌焉。何千萬年。上元二秊秋八月撰。大厯六秊夏六月刻。用小歐筆法寫中興頌碑文。咸豐己未（西元一八五九年）六月既望。蝯叟。 ",
+    "31667": " 清劉墉行楷書 冊 書宋虞允文尺牘 - 故宮 Loading 跳到主要內容區塊 ::: 首頁 典藏新選 典藏檢索 開放圖檔 清代檔案 古籍輿圖 典藏檢索 ::: 首頁 典藏檢索 清劉墉行楷書 冊 書宋虞允文尺牘 Calligraphy in Semi-Regular Script: Transcription of the Letter by Yu Yunwen of Song Dynasty 法書 允文病久氣羸。多臥少行立。執筆作此。書不成字。簡禮文甚矣。賜書只乞草聖一帖。既以示相親。又將為子孫百世之藏也。河朔鵝梨五十枚。南詔餘甘子一桶納上方尊俎。報答春光之勝。亦或一助。允文又稟。（劉墉款題）雍公采石一戰。書生之勇略著矣。及玉麟堂會食不成。實由天意。若其守蜀改吳璘舊規。終貽蜀患。與姜維易武侯規畫略同也。 "
+  }
+}

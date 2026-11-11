@@ -1,6 +1,6 @@
 # Historical images: credits and reuse
 
-Reviewed 2026-11-11. 339 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
+Reviewed 2026-11-11. 394 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
 
 Historical artifacts, surviving places and later depictions retain their source identities. No generated reconstructions are included in this catalogue.
 
@@ -1558,7 +1558,7 @@ Smaller derivative supplied by the source image service, saved unchanged. Full s
 
 Smaller derivative supplied by the source image service, saved unchanged. Full source framing retained; no local image editing or conversion.
 
-## Xuanzong in an album of exemplary rulers / 《圣君贤臣全身像》中的唐玄宗
+## Xuanzong, right, and Dezong, left / 唐玄宗（右）与唐德宗（左）
 
 - File: china-batch-06-tangxuanzong.jpg
 - Creator: Anonymous Chinese artist
@@ -2507,6 +2507,440 @@ Official image-service derivative saved unchanged; no local crop, retouching or 
 - Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/5126?dep=P
 
 歷代名繪 冊 無款滕王閣圖。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## Liu Yuxi in a Qing portrait album / 清代册页中的刘禹锡
+
+- File: china-batch-09-liuyuxi.jpg
+- Creator: Li Zhijing and Li Lingyun, as cataloged
+- Date: Qing dynasty; exact year unrecorded
+- Collection: National Palace Museum, Taipei; 購畫001090N000000008
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/35797?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/35797?dep=P
+
+清李志井李凌雲歷代詩家像 冊 劉禹錫。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## Wang Yangming’s sparse river landscape / 王阳明疏林江岸图
+
+- File: china-batch-09-wangyangming-landscape.jpg
+- Creator: Wang Shouren (Wang Yangming)
+- Date: 1506
+- Collection: National Palace Museum, Taipei; 贈畫000608N000000000
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/18491?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/18491?dep=P
+
+明王守仁山水畫真跡 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## A congratulatory album on the Jinchuan campaign / 贺平金川颂册
+
+- File: china-batch-09-jinchuan-memorial.jpg
+- Creator: Li Tang and other former officials, as named in the album
+- Date: Qing dynasty; undated
+- Collection: National Palace Museum, Taipei; 故書000935N000000000
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/3141?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/3141?dep=P
+
+皇武遠揚平定兩金川大捷恭紀 冊。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## Gao Shi among seven imagined Tang travelers / 七贤过关图中的高适
+
+- File: china-batch-09-gao-shi-seven-scholars.jpg
+- Creator: Ding Guanpeng; colophon by Wang Youdun
+- Date: Qing dynasty; colophon dated 1748
+- Collection: National Palace Museum, Taipei; 故畫002766N000000000
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/6417?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/6417?dep=P
+
+清丁觀鵬仿韓滉七才子過關 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## The ritual conch sent with Fuk’anggan to Taiwan / 随福康安赴台的法螺
+
+- File: china-batch-09-fukanggan-conch.jpg
+- Creator: Unidentified court artisans
+- Date: Qianlong reign, 1736–1795; documented use 1787–1788
+- Collection: National Palace Museum, Taipei; 故雜000558N000000000
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/2700?dep=U
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/2700?dep=U
+
+右旋白螺。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## Sericulture attributed to Liu Songnian / 传刘松年《蚕事图》
+
+- File: china-batch-09-song-sericulture.jpg
+- Creator: Attributed to Liu Songnian
+- Date: Cataloged as Song dynasty; exact year unrecorded
+- Collection: National Palace Museum, Taipei; 故畫001260N000000003
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/14545?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/14545?dep=P
+
+歷朝名人圖繪 冊 宋劉松年蠶事圖。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## The Duke Mao bronze cauldron / 毛公鼎
+
+- File: china-batch-09-mao-gong-ding.jpg
+- Creator: Unidentified Western Zhou bronze founders
+- Date: Late Western Zhou, 827–782 BCE (museum dating)
+- Collection: National Palace Museum, Taipei; 中銅000651N000000000
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/1438?dep=U
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/1438?dep=U
+
+毛公鼎。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## Hongwu’s edict to Xu Da / 明太祖敕徐达
+
+- File: china-batch-09-hongwu-xuda-edict.jpg
+- Creator: Zhu Yuanzhang (Hongwu emperor), as cataloged
+- Date: Hongwu period; exact year unrecorded
+- Collection: National Palace Museum, Taipei; 中書000014N000000011
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/26834?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/26834?dep=P
+
+明太祖御筆（一） 冊 皇帝勅賜大將軍魏國公兼太子太傅徐達。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## A Xining yuanbao cash coin / 熙宁元宝
+
+- File: china-batch-09-xining-cash.jpg
+- Creator: Unidentified Northern Song mint
+- Date: Northern Song dynasty, 960–1127
+- Collection: National Palace Museum, Taipei; 購錢002236N000000000
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/11574?dep=U
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/11574?dep=U
+
+熙寧元寶。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## Wang Yangming’s Record of the Shrine to Xiang / 王阳明《象祠记》
+
+- File: china-batch-09-wangyangming-xiang-shrine.jpg
+- Creator: Wang Shouren (Wang Yangming)
+- Date: Ming dynasty; manuscript undated
+- Collection: National Palace Museum, Taipei; 贈書000581N000000000
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/26934?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/26934?dep=P
+
+明王守仁書象祠記 卷。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## Cutting and sewing in Mou Yi’s Preparing Clothes / 牟益《捣衣图》中的裁缝
+
+- File: china-batch-09-mou-yi-clothes.jpg
+- Creator: Mou Yi
+- Date: 1240; dated in the artist’s inscription
+- Collection: National Palace Museum, Taipei; 故畫000999N000000000
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/618?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/618?dep=P
+
+宋牟益擣衣圖 卷。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## Qianlong’s Ten Complete Victories in woven silk / 缂丝乾隆《十全记》
+
+- File: china-batch-09-qianlong-ten-campaigns-kesi.jpg
+- Creator: Unidentified Qing kesi weavers; text by Qianlong
+- Date: Qing dynasty; reproduces an imperial text dated 1792
+- Collection: National Palace Museum, Taipei; 中絲000009N000000000
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/1907?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/1907?dep=P
+
+清人緙絲乾隆書十全記 卷。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## A courier in Red Flags Announcing Three Victories / 《红旗三捷图》中的驰使
+
+- File: china-batch-09-jinchuan-red-flag-courier.jpg
+- Creator: Hongwu (弘旿), Qing imperial-clan painter
+- Date: 1775; additional inscriptions 1776
+- Collection: National Palace Museum, Taipei; 故畫001675N000000000
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/5669?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/5669?dep=P
+
+清弘旿畫紅旂三捷圖 卷。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## Hongwu’s instructions to the Ministry of Revenue / 明太祖谕户部
+
+- File: china-batch-09-hongwu-revenue-edict.jpg
+- Creator: Zhu Yuanzhang (Hongwu emperor), as cataloged
+- Date: 1384, intercalary tenth lunar month, day 23
+- Collection: National Palace Museum, Taipei; 中書000014N000000041
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/26879?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/26879?dep=P
+
+明太祖御筆（一） 冊 諭戶部。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## A Ming order on southwestern military supplies / 明初西南军务谕旨
+
+- File: china-batch-09-hongwu-southwest-logistics.jpg
+- Creator: Hongwu court; cataloged in Zhu Yuanzhang’s imperial handwriting album
+- Date: 1388, second lunar month, day 10
+- Collection: National Palace Museum, Taipei; 中書000015N000000021
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/27062?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/27062?dep=P
+
+明太祖御筆（二） 冊 右軍都督府軍務事。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## A court account of the Torghut arrival / 宫廷笔下的土尔扈特东迁
+
+- File: china-batch-10-torghut-reception-text.jpg
+- Creator: Qian Chenqun; text by the Qianlong emperor
+- Date: Qing dynasty; transcribes an imperial text of 1771
+- Collection: National Palace Museum, Taipei; 故書000787N000000000
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/2994?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/2994?dep=P
+
+清錢陳群書御製頒和賜詩 冊。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## The white eagle presented by a Torghut noble / 土尔扈特贵族进献的白鹰
+
+- File: china-batch-10-torghut-white-eagle.jpg
+- Creator: Ignaz Sichelbarth (Ai Qimeng); inscription by Yu Minzhong
+- Date: Qing dynasty; inscription dated 1773, eighth lunar month, first ten days
+- Collection: National Palace Museum, Taipei; 故畫003085N000000000
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/6717?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/6717?dep=P
+
+清艾啟蒙畫土爾扈特白鷹 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## A Chenghua cup combining blue and coloured enamels / 青花与彩料相合的成化斗彩杯
+
+- File: china-batch-10-chenghua-doucai-cup.jpg
+- Creator: Unidentified Ming porcelain artisans
+- Date: Chenghua reign, 1465–1487
+- Collection: National Palace Museum, Taipei; 故瓷003515N000000000
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/2494?dep=U
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/2494?dep=U
+
+鬥彩人物圖杯。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## Guo Xi’s Early Spring / 郭熙《早春图》
+
+- File: china-batch-10-guoxi-early-spring.jpg
+- Creator: Guo Xi
+- Date: 1072; imperial poem added in 1759
+- Collection: National Palace Museum, Taipei; 故畫000053N000000000
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/47?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/47?dep=P
+
+宋郭熙早春圖 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## Fan Kuan’s towering mountains and minute travelers / 范宽笔下的巨峰与微小行旅
+
+- File: china-batch-10-fankuan-mountains-travelers.jpg
+- Creator: Fan Kuan
+- Date: Northern Song; exact year unrecorded
+- Collection: National Palace Museum, Taipei; 故畫000826N000000000
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/1195?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/1195?dep=P
+
+宋范寬谿山行旅圖 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## Ni Zan’s landscape for a departing friend / 倪瓒为送友而作的江岸山水
+
+- File: china-batch-10-nizan-riverbank.jpg
+- Creator: Ni Zan
+- Date: 1363, second lunar month, day 17; later inscriptions
+- Collection: National Palace Museum, Taipei; 故畫000292N000000000
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/602?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/602?dep=P
+
+元倪瓚江岸望山圖 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## Ma Yuan’s spring walk / 马远《山径春行》
+
+- File: china-batch-10-mayuan-spring-path.jpg
+- Creator: Ma Yuan; couplet by Emperor Ningzong
+- Date: Southern Song; exact year unrecorded
+- Collection: National Palace Museum, Taipei; 故畫001289N000000013
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/14633?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/14633?dep=P
+
+名繪集珍 冊 宋馬遠山徑春行。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## Zhu Da’s spare White Plum / 朱耷疏简的《白梅》
+
+- File: china-batch-10-zhuda-white-plum.jpg
+- Creator: Zhu Da, using the name Chuanqi
+- Date: 1659 (museum dating)
+- Collection: National Palace Museum, Taipei; 故畫001203N000000011
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/4745?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/4745?dep=P
+
+清傳綮寫生 冊 白梅。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## A Southern Song Guan-ware washer / 南宋官窑青瓷洗
+
+- File: china-batch-10-guan-celadon-washer.jpg
+- Creator: Unidentified Guan-kiln potters
+- Date: Southern Song, 1127–1279
+- Collection: National Palace Museum, Taipei; 故瓷014111N000000000
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/26307?dep=U
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/26307?dep=U
+
+官窯 青瓷印花龍紋洗。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## The standardization edict on a Qin measure / 秦量上的统一度量衡诏书
+
+- File: china-batch-10-qin-measure-rubbing.jpg
+- Creator: Unidentified rubbing maker; Qin imperial inscription
+- Date: Rubbing undated; reproduces an edict of 221 BCE
+- Collection: National Palace Museum, Taipei; 贈拓000355N000000000
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/19492?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/19492?dep=P
+
+秦量墨拓 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## Wen Zhengming copies the Drunken Pavilion essay / 文徵明书《醉翁亭记》
+
+- File: china-batch-10-wenzhengming-drunken-pavilion.jpg
+- Creator: Wen Zhengming; text by Ouyang Xiu
+- Date: 1551, seventh lunar month, day 24; copies an essay of 1046
+- Collection: National Palace Museum, Taipei; 故書000017N000000000
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/2478?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/2478?dep=P
+
+明文徵明書醉翁亭記 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## A court commemoration of the Altishahr campaign / 宫廷纪念平定回部的碑文
+
+- File: china-batch-10-altishahr-commemoration.jpg
+- Creator: Guanbao; text by the Qianlong emperor
+- Date: Qing dynasty; calligraphy undated
+- Collection: National Palace Museum, Taipei; 中書000043N000000000
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/1562?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/1562?dep=P
+
+清觀保平定回部告成太學碑文 卷。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## Lü Bu’s halberd shot in Ming painting / 明代绘画中的吕布辕门射戟
+
+- File: china-batch-11-lvbu-halberd.jpg
+- Creator: Catalogued under Dai Jin
+- Date: Ming dynasty; exact year unrecorded
+- Collection: National Palace Museum, Taipei; 故畫003145N000000006
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/6960?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/6960?dep=P
+
+明戴進太平樂事 冊 試射。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## A road inscription reread after the conquest of Shu / 灭蜀之后的道路铭文与宋人考证
+
+- File: china-batch-11-baoxie-road-rubbing.jpg
+- Creator: Unidentified rubbing maker; commentary by Yan Mao
+- Date: Rubbing undated; commentary signed 1195, recording discovery in 1194
+- Collection: National Palace Museum, Taipei; 購拓000044N000000000
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/34632?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/34632?dep=P
+
+漢潘宗伯等題名造橋殘石墨拓本 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## A Qing copy of the Tang Restoration Ode / 清人抄写的《大唐中兴颂》
+
+- File: china-batch-11-tang-restoration-ode.jpg
+- Creator: He Shaoji; text by Yuan Jie
+- Date: 1859; text composed 761, original inscription carved 771
+- Collection: National Palace Museum, Taipei; 贈書000197N000000000
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/31239?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/31239?dep=P
+
+清何紹基書中興頌 冊。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## Liu Yong reflects on Yu Yunwen’s Caishi victory / 刘墉评虞允文采石之战
+
+- File: china-batch-11-caishi-later-commentary.jpg
+- Creator: Liu Yong, copying Yu Yunwen and adding commentary
+- Date: Qing dynasty; copy undated
+- Collection: National Palace Museum, Taipei; 贈書000152N000000006
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/31667?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/31667?dep=P
+
+清劉墉行楷書 冊 書宋虞允文尺牘。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
 
 Official image-service derivative saved unchanged; no local crop, retouching or conversion.
 
@@ -4749,3 +5183,339 @@ Official IIIF derivative, downloaded unchanged; no local crop, retouching or rec
 Wellcome Collection identifies this digital item with the Public Domain Mark. Credit: Wellcome Collection.
 
 Official IIIF derivative, downloaded unchanged; no local crop, retouching or recolouring.
+
+## Sugar work from field to boiling house / 从蔗田到煮糖房的劳动
+
+- File: world-batch-10-ezqx6c7n.jpg
+- Creator: Engraver unidentified, after Sébastien Leclerc
+- Date: 1683, after a design of circa 1671
+- Collection: Wellcome Collection
+- Source: https://wellcomecollection.org/works/ezqx6c7n
+- Rights: Attribution 4.0 International (CC BY 4.0) (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://api.wellcomecollection.org/catalogue/v2/works/ezqx6c7n?include=items,production,contributors
+
+Wellcome Collection marks this digital item Attribution 4.0 International (CC BY 4.0). Credit: Wellcome Collection.
+
+Official IIIF derivative downloaded unchanged; no local crop, retouching or recolouring.
+
+## Dining at the Canal Commission hotel / 运河委员会旅馆的餐厅
+
+- File: world-batch-10-uy9yc45v.jpg
+- Creator: Unidentified photographer
+- Date: Circa 1910
+- Collection: Wellcome Collection
+- Source: https://wellcomecollection.org/works/uy9yc45v
+- Rights: Public Domain Mark (https://creativecommons.org/share-your-work/public-domain/pdm/)
+- Rights evidence: https://api.wellcomecollection.org/catalogue/v2/works/uy9yc45v?include=items,production,contributors
+
+Wellcome Collection marks this digital item Public Domain Mark. Credit: Wellcome Collection.
+
+Official IIIF derivative downloaded unchanged; no local crop, retouching or recolouring.
+
+## Workers’ households at Cristóbal / 克里斯托瓦尔的工人家庭住房
+
+- File: world-batch-10-vc6w6cxg.jpg
+- Creator: Unidentified photographer
+- Date: Circa 1910
+- Collection: Wellcome Collection
+- Source: https://wellcomecollection.org/works/vc6w6cxg
+- Rights: Public Domain Mark (https://creativecommons.org/share-your-work/public-domain/pdm/)
+- Rights evidence: https://api.wellcomecollection.org/catalogue/v2/works/vc6w6cxg?include=items,production,contributors
+
+Wellcome Collection marks this digital item Public Domain Mark. Credit: Wellcome Collection.
+
+Official IIIF derivative downloaded unchanged; no local crop, retouching or recolouring.
+
+## Petra’s architecture and rock faces / 佩特拉的建筑与岩壁
+
+- File: world-batch-10-qz68qjan.jpg
+- Creator: Louis Haghe after David Roberts
+- Date: 1849
+- Collection: Wellcome Collection
+- Source: https://wellcomecollection.org/works/qz68qjan
+- Rights: Public Domain Mark (https://creativecommons.org/share-your-work/public-domain/pdm/)
+- Rights evidence: https://api.wellcomecollection.org/catalogue/v2/works/qz68qjan?include=items,production,contributors
+
+Wellcome Collection marks this digital item Public Domain Mark. Credit: Wellcome Collection.
+
+Official IIIF derivative downloaded unchanged; no local crop, retouching or recolouring.
+
+## A British lesson after Isandlwana / 伊散德尔瓦纳之后的英国教训
+
+- File: world-batch-10-gkxy2rh2.jpg
+- Creator: Swain after John Tenniel
+- Date: 1879
+- Collection: Wellcome Collection
+- Source: https://wellcomecollection.org/works/gkxy2rh2
+- Rights: Public Domain Mark (https://creativecommons.org/share-your-work/public-domain/pdm/)
+- Rights evidence: https://api.wellcomecollection.org/catalogue/v2/works/gkxy2rh2?include=items,production,contributors
+
+Wellcome Collection marks this digital item Public Domain Mark. Credit: Wellcome Collection.
+
+Official IIIF derivative downloaded unchanged; no local crop, retouching or recolouring.
+
+## Tongan boats in a voyage engraving / 航海版画中的汤加船只
+
+- File: world-batch-10-m7ysb8zx.jpg
+- Creator: William Watts after William Hodges
+- Date: 1777
+- Collection: Wellcome Collection
+- Source: https://wellcomecollection.org/works/m7ysb8zx
+- Rights: Public Domain Mark (https://creativecommons.org/share-your-work/public-domain/pdm/)
+- Rights evidence: https://api.wellcomecollection.org/catalogue/v2/works/m7ysb8zx?include=items,production,contributors
+
+Wellcome Collection marks this digital item Public Domain Mark. Credit: Wellcome Collection.
+
+Official IIIF derivative downloaded unchanged; no local crop, retouching or recolouring.
+
+## Kava and chiefly authority on Tongatapu / 汤加塔布的卡瓦饮礼与首领权威
+
+- File: world-batch-10-p342kq5t.jpg
+- Creator: William Sharp after John Webber
+- Date: 1784; probably depicts a ceremony in June 1777
+- Collection: Wellcome Collection
+- Source: https://wellcomecollection.org/works/p342kq5t
+- Rights: Public Domain Mark (https://creativecommons.org/share-your-work/public-domain/pdm/)
+- Rights evidence: https://api.wellcomecollection.org/catalogue/v2/works/p342kq5t?include=items,production,contributors
+
+Wellcome Collection marks this digital item Public Domain Mark. Credit: Wellcome Collection.
+
+Official IIIF derivative downloaded unchanged; no local crop, retouching or recolouring.
+
+## Kamakura’s Great Buddha photographed / 镜头中的镰仓大佛
+
+- File: world-batch-10-yjmaexfb.jpg
+- Creator: Felice Beato
+- Date: Circa 1868
+- Collection: Wellcome Collection
+- Source: https://wellcomecollection.org/works/yjmaexfb
+- Rights: Public Domain Mark (https://creativecommons.org/share-your-work/public-domain/pdm/)
+- Rights evidence: https://api.wellcomecollection.org/catalogue/v2/works/yjmaexfb?include=items,production,contributors
+
+Wellcome Collection marks this digital item Public Domain Mark. Credit: Wellcome Collection.
+
+Official IIIF derivative downloaded unchanged; no local crop, retouching or recolouring.
+
+## Bangkok’s river and temple roofs / 曼谷的河流与寺院屋顶
+
+- File: world-batch-10-w6up2kpv.jpg
+- Creator: John Thomson
+- Date: Negative 1865; print 1981
+- Collection: Wellcome Collection
+- Source: https://wellcomecollection.org/works/w6up2kpv
+- Rights: Public Domain Mark (https://creativecommons.org/share-your-work/public-domain/pdm/)
+- Rights evidence: https://api.wellcomecollection.org/catalogue/v2/works/w6up2kpv?include=items,production,contributors
+
+Wellcome Collection marks this digital item Public Domain Mark. Credit: Wellcome Collection.
+
+Official IIIF derivative downloaded unchanged; no local crop, retouching or recolouring.
+
+## Béhanzin after surrender / 投降之后的贝汉津
+
+- File: world-batch-11-mwzn6pu9.jpg
+- Creator: Unidentified wood engraver, after a photograph credited in the print to Major Fairtlough
+- Date: Undated
+- Collection: Wellcome Collection
+- Source: https://wellcomecollection.org/works/mwzn6pu9
+- Rights: Public Domain Mark (https://creativecommons.org/share-your-work/public-domain/pdm/)
+- Rights evidence: https://api.wellcomecollection.org/catalogue/v2/works/mwzn6pu9?include=items,production,contributors
+
+Wellcome Collection marks this digital item Public Domain Mark. Credit: Wellcome Collection.
+
+Official IIIF derivative downloaded unchanged; no local crop, retouching or recolouring.
+
+## Slavery at home and abroad / 《国内外的奴役》
+
+- File: world-batch-11-ujyw7fb2.jpg
+- Creator: Henry Heath; published by W. Soffe
+- Date: 26 May; year uncertain, catalogued as 1832?
+- Collection: Wellcome Collection
+- Source: https://wellcomecollection.org/works/ujyw7fb2
+- Rights: Public Domain Mark (https://creativecommons.org/share-your-work/public-domain/pdm/)
+- Rights evidence: https://api.wellcomecollection.org/catalogue/v2/works/ujyw7fb2?include=items,production,contributors
+
+Wellcome Collection marks this digital item Public Domain Mark. Credit: Wellcome Collection.
+
+Official IIIF derivative downloaded unchanged; no local crop, retouching or recolouring.
+
+## Carding cotton after the Factory Act / 《工厂法》之后的梳棉劳动
+
+- File: world-batch-11-v6fuy6sr.jpg
+- Creator: After J. R. Barfoot; published by Darton
+- Date: 1840 (catalogue dating)
+- Collection: Wellcome Collection
+- Source: https://wellcomecollection.org/works/v6fuy6sr
+- Rights: Public Domain Mark (https://creativecommons.org/share-your-work/public-domain/pdm/)
+- Rights evidence: https://api.wellcomecollection.org/catalogue/v2/works/v6fuy6sr?include=items,production,contributors
+
+Wellcome Collection marks this digital item Public Domain Mark. Credit: Wellcome Collection.
+
+Official IIIF derivative downloaded unchanged; no local crop, retouching or recolouring.
+
+## Capturing the Emilia off Cuba / 在古巴近海截获“埃米利亚”号
+
+- File: world-batch-11-ea6h3bgt.jpg
+- Creator: Unidentified engraver, after a sketch by an officer of HMS Styx
+- Date: 1858
+- Collection: Wellcome Collection
+- Source: https://wellcomecollection.org/works/ea6h3bgt
+- Rights: Public Domain Mark (https://creativecommons.org/share-your-work/public-domain/pdm/)
+- Rights evidence: https://api.wellcomecollection.org/catalogue/v2/works/ea6h3bgt?include=items,production,contributors
+
+Wellcome Collection marks this digital item Public Domain Mark. Credit: Wellcome Collection.
+
+Official IIIF derivative downloaded unchanged; no local crop, retouching or recolouring.
+
+## Lahore and its ruler in one view / 同一画面中的拉合尔与统治者
+
+- File: world-batch-11-xbyqnxnb.jpg
+- Creator: Unidentified lithographer
+- Date: Undated
+- Collection: Wellcome Collection
+- Source: https://wellcomecollection.org/works/xbyqnxnb
+- Rights: Public Domain Mark (https://creativecommons.org/share-your-work/public-domain/pdm/)
+- Rights evidence: https://api.wellcomecollection.org/catalogue/v2/works/xbyqnxnb?include=items,production,contributors
+
+Wellcome Collection marks this digital item Public Domain Mark. Credit: Wellcome Collection.
+
+Official IIIF derivative downloaded unchanged; no local crop, retouching or recolouring.
+
+## A later account of Waitangi / 后来的怀唐伊签署记述
+
+- File: world-batch-12-waitangi-account.jpg
+- Creator: William Colenso (author); New Zealand Government Printer (publisher)
+- Date: 1890
+- Collection: Museum of New Zealand Te Papa Tongarewa
+- Source: https://collections.tepapa.govt.nz/object/226690
+- Rights: No Known Copyright Restrictions (https://www.tepapa.govt.nz/about-collections-online#no-known-copyright)
+- Rights evidence: https://collections.tepapa.govt.nz/object/226690
+
+The object page and this image’s embedded media record state No Known Copyright Restrictions.
+
+Unchanged museum-served preview JPEG; no local crop, retouching or resizing.
+
+## Tupou I after the constitution / 宪法颁布后的图普一世
+
+- File: world-batch-12-tupou-portrait.jpg
+- Creator: Alfred Burton; Burton Brothers studio
+- Date: 26 July 1884
+- Collection: Museum of New Zealand Te Papa Tongarewa
+- Source: https://collections.tepapa.govt.nz/object/18150
+- Rights: No Known Copyright Restrictions (https://www.tepapa.govt.nz/about-collections-online#no-known-copyright)
+- Rights evidence: https://collections.tepapa.govt.nz/object/18150
+
+The object page and this image’s embedded media record state No Known Copyright Restrictions.
+
+Unchanged museum-served preview JPEG; no local crop, retouching or resizing.
+
+## A naval camp in the Waikato campaign / 怀卡托战役中的海军营地
+
+- File: world-batch-12-waikato-camp.jpg
+- Creator: Daniel Beere
+- Date: 1864
+- Collection: Museum of New Zealand Te Papa Tongarewa
+- Source: https://collections.tepapa.govt.nz/object/1416740
+- Rights: No Known Copyright Restrictions (https://www.tepapa.govt.nz/about-collections-online#no-known-copyright)
+- Rights evidence: https://collections.tepapa.govt.nz/object/1416740
+
+The object page and this image’s embedded media record state No Known Copyright Restrictions.
+
+Unchanged museum-served preview JPEG; no local crop, retouching or resizing.
+
+## Colonial print against the Mau / 针对马乌运动的殖民传单
+
+- File: world-batch-12-mau-leaflet.jpg
+- Creator: New Zealand Government
+- Date: 10 February 1930
+- Collection: Museum of New Zealand Te Papa Tongarewa
+- Source: https://collections.tepapa.govt.nz/object/1389720
+- Rights: No Known Copyright Restrictions (https://www.tepapa.govt.nz/about-collections-online#no-known-copyright)
+- Rights evidence: https://collections.tepapa.govt.nz/object/1389720
+
+The object page and this image’s embedded media record state No Known Copyright Restrictions.
+
+Unchanged museum-served preview JPEG; no local crop, retouching or resizing.
+
+## A cross carried in procession / 用于巡游的十字架
+
+- File: world-batch-12-ethiopian-cross.jpg
+- Creator: Unidentified Ethiopian Orthodox artist
+- Date: 14th-15th century
+- Collection: National Museum of African Art, Smithsonian Institution
+- Source: https://africa.si.edu/collection/object/nmafa_97-19-1
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/nmafa/21.txt
+
+The official Smithsonian bulk record marks the object and this image usage.access CC0. The generic indexed media-rights field says restricted; the explicit image-specific CC0 field is used.
+
+Official Smithsonian Screen Image JPEG preserved unchanged.
+
+## David in an Ethiopian manuscript / 埃塞俄比亚抄本中的大卫
+
+- File: world-batch-12-ethiopian-manuscript.jpg
+- Creator: Unidentified Ethiopian Orthodox artist
+- Date: 15th century
+- Collection: National Museum of African Art, Smithsonian Institution
+- Source: https://africa.si.edu/collection/object/nmafa_2004-7-7
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/nmafa/14.txt
+
+The official Smithsonian bulk record marks the object and this image usage.access CC0. The generic indexed media-rights field says restricted; the explicit image-specific CC0 field is used.
+
+Official Smithsonian Screen Image JPEG preserved unchanged.
+
+## Ptolemy III’s gateway at Karnak / 卡尔纳克的托勒密三世门楼
+
+- File: world-batch-13-amj4m7pg.jpg
+- Creator: Pascal Sébah
+- Date: About 1875
+- Collection: Wellcome Collection
+- Source: https://wellcomecollection.org/works/amj4m7pg
+- Rights: Public Domain Mark (https://creativecommons.org/share-your-work/public-domain/pdm/)
+- Rights evidence: https://api.wellcomecollection.org/catalogue/v2/works/amj4m7pg?include=items,production,contributors
+
+Wellcome Collection marks this digital item Public Domain Mark. Credit: Wellcome Collection.
+
+Official IIIF derivative downloaded unchanged; no local crop, retouching or recolouring.
+
+## William IV holds Magna Carta / 威廉四世手持《大宪章》
+
+- File: world-batch-13-pkfqsqnh.jpg
+- Creator: David Lucas, after Robert Bowyer; published by R. Bowyer & M. Parkes
+- Date: 1830
+- Collection: Wellcome Collection
+- Source: https://wellcomecollection.org/works/pkfqsqnh
+- Rights: Public Domain Mark (https://creativecommons.org/share-your-work/public-domain/pdm/)
+- Rights evidence: https://api.wellcomecollection.org/catalogue/v2/works/pkfqsqnh?include=items,production,contributors
+
+Wellcome Collection marks this digital item Public Domain Mark. Credit: Wellcome Collection.
+
+Official IIIF derivative downloaded unchanged; no local crop, retouching or recolouring.
+
+## Clive styled “Baron of Plassey” / 以“普拉西男爵”为名的克莱武
+
+- File: world-batch-13-jyukn8gt.jpg
+- Creator: C. Corbutt, after Thomas Gainsborough; published by John Bowles, Robert Sayer and Carington Bowles
+- Date: Eighteenth century; catalogue range 1700–1799
+- Collection: Wellcome Collection
+- Source: https://wellcomecollection.org/works/jyukn8gt
+- Rights: Public Domain Mark (https://creativecommons.org/share-your-work/public-domain/pdm/)
+- Rights evidence: https://api.wellcomecollection.org/catalogue/v2/works/jyukn8gt?include=items,production,contributors
+
+Wellcome Collection marks this digital item Public Domain Mark. Credit: Wellcome Collection.
+
+Official IIIF derivative downloaded unchanged; no local crop, retouching or recolouring.
+
+## Patronage and instruments in the Royal Society’s image / 皇家学会图像中的赞助与仪器
+
+- File: world-batch-13-a4n7r9v4.jpg
+- Creator: Wenceslaus Hollar, after John Evelyn
+- Date: 1667
+- Collection: Wellcome Collection
+- Source: https://wellcomecollection.org/works/a4n7r9v4
+- Rights: Attribution 4.0 International (CC BY 4.0) (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://api.wellcomecollection.org/catalogue/v2/works/a4n7r9v4?include=items,production,contributors
+
+Wellcome Collection marks this digital item CC BY 4.0. Credit: Wenceslaus Hollar, after John Evelyn / Wellcome Collection.
+
+Official IIIF derivative downloaded unchanged; no local crop, retouching or recolouring.

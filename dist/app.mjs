@@ -1,5 +1,5 @@
 import {readerDateNote,readerFactLines,readerSourceListHTML,readerReviewLimit} from './reader-copy.mjs';
-import {createVisualLibrary} from './visual-library.mjs?v=16';
+import {createVisualLibrary} from './visual-library.mjs?v=19';
 import {entryMediaFigures,createHistoryMedia,mediaFigures,mediaThumbnail,handleHistoryImageError} from './history-media.mjs?v=7';
 import {applyPlaceLabelTranslations} from './place-labels.mjs';
 import {civilizationOverlaps} from './civilization-tracks.mjs';
@@ -15,7 +15,7 @@ import {createAmericasLoader,composeAmericasFeatures,readingStepYear,americasPar
 import {DEFAULT_LAYERS,selectMapView,restoreMapLayers} from './map-views.mjs?v=2';
 import {applySearchUpdate,applyReviewedUpdate} from './upstream-intake.mjs?v=2';
 import {createRegionalExplorer} from './regional-explorer.mjs?v=28';
-import {CONTENT_MANIFEST,partitionExpansion,expansionCoverage,applyEvidenceReviews} from './content-expansion.mjs?v=35';
+import {CONTENT_MANIFEST,partitionExpansion,expansionCoverage,applyEvidenceReviews,applySummaryEdits} from './content-expansion.mjs?v=36';
 import {waterFeatures,corridorFeatures,hydroVisible} from './inherited-geography.mjs';
 import {normalizeMapCollection} from './map-geometry.mjs';
 import {featureLabelAnchor} from './map-labels.mjs?v=1';
@@ -898,7 +898,8 @@ async function init(){try{
  contemporary={type:'FeatureCollection',features:contemporary.features.map(f=>({...f,properties:{...f.properties,contemporary:true,sourceYear:contemporaryData.geometryVintage,year:contemporaryData.reviewedYear,color:f.properties.category==='disputed'?'#b6ada1':palette[Array.from(f.properties.code).reduce((n,c)=>n+c.charCodeAt(0),0)%palette.length]}}))};
  land=normalizeMapCollection(land,d3.geoArea);disputedAreas=normalizeMapCollection(disputedAreas,d3.geoArea);countries=contemporary;
  const placeLabels=expansionManifest.placeLabelsFile?await loadJSON('./data/'+expansionManifest.placeLabelsFile):{items:[]};
- records=applyPlaceLabelTranslations([...histories,...people,...chinaEvents],placeLabels);recordIndex=new Map(records.map(r=>[r.id,r]));people=people.map(person=>recordIndex.get(person.id));const errors=validateRecords(records);if(errors.length)throw new Error(errors.slice(0,3).join('; '));if(!window.d3||land.type!=='FeatureCollection')throw new Error('The map renderer or land geometry is unavailable.');
+ const summaryEdits=expansionManifest.summaryEditsFile?await loadJSON('./data/'+expansionManifest.summaryEditsFile):{items:[]};
+ records=applySummaryEdits(applyPlaceLabelTranslations([...histories,...people,...chinaEvents],placeLabels),summaryEdits);recordIndex=new Map(records.map(r=>[r.id,r]));people=people.map(person=>recordIndex.get(person.id));const errors=validateRecords(records);if(errors.length)throw new Error(errors.slice(0,3).join('; '));if(!window.d3||land.type!=='FeatureCollection')throw new Error('The map renderer or land geometry is unavailable.');
 
  try{mediaCatalog=await loadJSON('./data/'+(expansionManifest.mediaFile||'history-media.json'));historyMedia=createHistoryMedia(mediaCatalog);}catch(error){mediaLoadFailed=true;console.warn('Historical images unavailable:',error.message);}
  visualLibrary=createVisualLibrary({catalog:mediaCatalog,records,getLanguage:()=>state.lang,regions:REGIONS,regionName,openDialog,openStory:id=>{closeDialog();selectStory(id);},escape:esc});
