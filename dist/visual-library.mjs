@@ -1,10 +1,11 @@
-import {availableVisualStudies,matchingVisualStudy} from './visual-studies.mjs?v=2';
-import {mediaFigures,mediaMetadata} from './history-media.mjs?v=4';
+import {availableVisualStudies,matchingVisualStudy} from './visual-studies.mjs?v=3';
+import {mediaFigures,mediaMetadata} from './history-media.mjs?v=5';
 import {normalizeSearch} from './search-text.mjs';
 
 export const REPRESENTATIONS={
  'historical-photograph':{en:'Historical photograph',zh:'历史照片'},
  'lifetime-portrait':{en:'Lifetime portrait',zh:'在世时的肖像'},
+ 'ancient-portrait':{en:'Ancient portrait',zh:'古代肖像'},
  'ancient-royal-image':{en:'Ancient royal image',zh:'古代王室图像'},
  'later-depiction':{en:'Later portrayal',zh:'后世描绘'},
  'modern-memorial':{en:'Modern memorial',zh:'现代纪念像'},

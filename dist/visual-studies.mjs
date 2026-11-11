@@ -87,5 +87,13 @@ VISUAL_STUDIES.push(...[
   ]
  }
 ]);
+VISUAL_STUDIES.push(
+ {id:'comenius-words-and-world',assets:['world-batch-06-comenius','world-batch-06-orbis-pictus'],title:b('From a face to a teaching method','从人物面孔到教学方法'),question:b('Find number 3 in the landscape, then find it in both text columns. What work does the picture do?','在风景图中寻找数字3，再在两栏文字中寻找它。图像发挥了什么作用？'),observations:[
+ b('The 1810 page pairs Birds with Aves and places the number 3 beside birds in the sky. Numbers connect the pictured world with English and Latin words. Look for clouds (2), fishes (4) and hills (5) in the same way.','1810年书页把Birds与Aves对应，并在天空中的鸟旁标数字3。数字将图中的世界与英语、拉丁语词汇连接起来。也可用同样方法寻找云（2）、鱼（4）和山丘（5）。'),
+ b('Ovens painted Comenius in 1650–1670. The book page comes from an edition printed long after his death, with Hoole’s translation and cuts credited to Anderson. Compare a person’s lifetime image with the later circulation of his teaching method.','奥文斯在1650至1670年间绘制夸美纽斯。书页则来自他去世很久后的版本，采用胡尔译文，插图署名安德森。由此可对照人物生前形象与教学方法在后世的传播。')]},
+ {id:'public-portraits-small-large',assets:['world-batch-06-caesar','world-batch-06-victoria'],title:b('Political faces at different scales','不同尺度的政治面孔'),question:b('Use the ruler beside the gemstone, then compare the crown and brushwork in the oil study. How does the material change the portrait?','观察宝石旁的标尺，再对照油画习作中的王冠与笔触。材料如何改变肖像？'),observations:[
+ b('The Met identifies the Roman amethyst intaglio as Julius Caesar, about 50–40 BCE. The marked ruler makes its small size visible; the face is cut into the stone rather than built from brushstrokes.','大都会将这件罗马紫水晶凹雕识别为尤利乌斯·凯撒像，约作于前50至40年。标尺显示其小巧尺寸；面孔刻入宝石，而非由笔触构成。'),
+ b('Sully’s 1838 oil study was made during four Buckingham Palace sittings. Crown, bare shoulders and a softly worked background present Victoria through a different medium. The study predates the 1858 transfer of Indian government to the Crown discussed in its linked story.','萨利的1838年油画习作来自白金汉宫的四次写生。王冠、露出的肩部与柔和背景，以另一种媒介呈现维多利亚。它早于关联故事中1858年印度治理转归王室的事件。')]}
+);
 export function availableVisualStudies(rows){const ids=new Set(rows.map(r=>r.id));return VISUAL_STUDIES.filter(s=>s.assets.length===2&&new Set(s.assets).size===2&&s.assets.every(id=>ids.has(id)));}
 export function matchingVisualStudy(ids){if(ids.length!==2||new Set(ids).size!==2)return null;return VISUAL_STUDIES.find(s=>s.assets.every(id=>ids.includes(id)))||null;}

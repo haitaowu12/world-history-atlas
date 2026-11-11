@@ -1,0 +1,202 @@
+{
+  "checkedAt": "2026-11-11",
+  "records": [
+    {
+      "recordId": "china-landmark-119",
+      "finding": "Chronology conflation confirmed.",
+      "evidence": [
+        {
+          "sourceKey": "shiji110",
+          "url": "https://zh.wikisource.org/wiki/史記/卷110#老上單于_稽粥",
+          "section": "Laoshang Chanyu; Emperor Wen, year 14",
+          "exactSnippets": [
+            "漢孝文皇帝十四年，匈奴單于十四萬騎入朝那、蕭關",
+            "軍長安旁以備胡寇"
+          ],
+          "supports": "Supports the 166 BCE incursion, the source-attributed cavalry total, Xiaoguan, and the response near Chang’an.",
+          "inspection": "Reopened and read with the web connector on 2026-11-11; compared with the earlier local transcript where available."
+        },
+        {
+          "sourceKey": "shiji057",
+          "url": "https://zh.wikisource.org/wiki/史記/卷057#條侯亞夫",
+          "section": "Zhou Yafu; Wen, later-era year 6",
+          "exactSnippets": [
+            "文帝之後六年，匈奴大入邊。",
+            "軍霸上",
+            "軍棘門",
+            "軍細柳"
+          ],
+          "supports": "The later deployments are three separate camps in 158 BCE, not all at Xiliu in 166 BCE.",
+          "inspection": "Reopened and read with the web connector on 2026-11-11; compared with the earlier local transcript where available."
+        }
+      ]
+    },
+    {
+      "recordId": "china-landmark-314",
+      "finding": "The surrender total is not the elite selection total.",
+      "evidence": [
+        {
+          "sourceKey": "sanguozhi01",
+          "url": "https://zh.wikisource.org/wiki/三國志/卷01",
+          "section": "Chuping 3, winter",
+          "exactSnippets": [
+            "追黃巾至濟北。乞降。",
+            "冬，受降卒三十餘萬，男女百餘萬口，收其精銳者，號爲青州兵。"
+          ],
+          "supports": "The text distinguishes surrendered soldiers, the larger accompanying population, and an unnumbered selected elite.",
+          "inspection": "Reopened and read with the web connector on 2026-11-11; compared with the earlier local transcript where available."
+        }
+      ]
+    },
+    {
+      "recordId": "china-event-donghan-001",
+      "finding": "Accession south of Hao preceded the establishment of the capital at Luoyang.",
+      "evidence": [
+        {
+          "sourceKey": "houhanshu01a",
+          "url": "https://zh.wikisource.org/wiki/後漢書/卷1上",
+          "section": "Jianwu 1, lunar months 6 and 10",
+          "exactSnippets": [
+            "設壇場於鄗南千秋亭五成陌。",
+            "六月己未，即皇帝位。",
+            "冬十月癸丑，車駕入洛陽，幸南宮却非殿，遂定都焉。"
+          ],
+          "supports": "Supports two locations and their order within 25 CE. It does not put the accession at Luoyang.",
+          "inspection": "Reopened and read with the web connector on 2026-11-11; compared with the earlier local transcript where available."
+        }
+      ]
+    },
+    {
+      "recordId": "china-landmark-036",
+      "finding": "Separate orders in 605 and 608; capital completion in 606.",
+      "evidence": [
+        {
+          "sourceKey": "suishu03",
+          "url": "https://zh.wikisource.org/wiki/隋書/卷03",
+          "section": "Daye 1, month 3; Daye 2, month 1; Daye 4, month 1",
+          "exactSnippets": [
+            "營建東京",
+            "開通濟渠，自西苑引穀、洛水達于河，自板渚引河通于淮。",
+            "二年春正月辛酉，東京成",
+            "四年春正月乙巳，詔發河北諸郡男女百餘萬開永濟渠"
+          ],
+          "supports": "The 605 focal event is the order/beginning, not the completion of both canals or of the capital.",
+          "inspection": "Reopened and read with the web connector on 2026-11-11; compared with the earlier local transcript where available."
+        }
+      ]
+    },
+    {
+      "recordId": "china-event-sui-010",
+      "finding": "Yanmen 615 and granary seizure 617 are two years apart.",
+      "evidence": [
+        {
+          "sourceKey": "suishu04",
+          "url": "https://zh.wikisource.org/wiki/隋書/卷04",
+          "section": "Daye 11, months 8–9; Daye 13, month 2",
+          "exactSnippets": [
+            "壬申，車駕馳幸雁門。癸酉，突厥圍城",
+            "九月甲辰，突厥解圍而去。",
+            "庚寅，賊帥李密、翟讓等陷興洛倉。"
+          ],
+          "supports": "The 617 seizure appears under Daye 13, not Daye 12 (616).",
+          "inspection": "Reopened and read with the web connector on 2026-11-11; compared with the earlier local transcript where available."
+        },
+        {
+          "sourceKey": "suishu70",
+          "url": "https://zh.wikisource.org/wiki/隋書/卷70#李密",
+          "section": "Li Mi biography, Daye 13 spring",
+          "exactSnippets": [
+            "以大業十三年春",
+            "自羅口襲興洛倉，破之。開倉恣民所取",
+            "密城洛口周廻四十里以居之。",
+            "時遣邴元真守興洛倉。",
+            "密將入洛口倉城"
+          ],
+          "supports": "Confirms 617 independently within the same history, opening the grain stores to the people, and the Xingluo/Luokou nomenclature. No new Luokou coordinate is asserted.",
+          "inspection": "Reopened and read with the web connector on 2026-11-11; compared with the earlier local transcript where available."
+        }
+      ]
+    },
+    {
+      "recordId": "china-landmark-424",
+      "finding": "The preliminary flag is a units and transaction-stage conflation, not a denial of the Humen destruction.",
+      "evidence": [
+        {
+          "sourceKey": "linzexu",
+          "url": "https://en.wikisource.org/wiki/Eminent_Chinese_of_the_Ch%27ing_Period/Lin_Ts%C3%AA-hs%C3%BC",
+          "section": "1839, surrender pledge and final destruction account",
+          "exactSnippets": [
+            "20,283 chests",
+            "19,179 chests and 2,119 bags of opium",
+            "2,376,254 chin or catties"
+          ],
+          "supports": "The initial surrender pledge and the final reported destruction tally use different presentations. Do not add bags to chests as if they were the same unit. The Chinese inherited 2.37-million-jin wording is a rough truncation of the stated mass, not a different incident.",
+          "inspection": "Reopened and read with the web connector on 2026-11-11; compared with the earlier local transcript where available."
+        }
+      ]
+    },
+    {
+      "recordId": "china-landmark-466",
+      "finding": "The cited biographies do not establish a fatal cannon wound.",
+      "evidence": [
+        {
+          "sourceKey": "nurhaci",
+          "url": "https://en.wikisource.org/wiki/Eminent_Chinese_of_the_Ch%27ing_Period/Nurhaci",
+          "section": "Final campaign and death",
+          "exactSnippets": [
+            "He was probably only slightly wounded",
+            "He died seven months later."
+          ],
+          "supports": "A possible minor wound and later death are not proof of death from that wound.",
+          "inspection": "Reopened and read with the web connector on 2026-11-11; compared with the earlier local transcript where available."
+        },
+        {
+          "sourceKey": "yuan",
+          "url": "https://en.wikisource.org/wiki/Eminent_Chinese_of_the_Ch%27ing_Period/Y%C3%BCan_Ch%27ung-huan",
+          "section": "1626 Ningyuan defense",
+          "exactSnippets": [
+            "newly mounted \"foreign guns\""
+          ],
+          "supports": "Supports artillery in the defense without transferring that fact into a fatal injury claim.",
+          "inspection": "Reopened and read with the web connector on 2026-11-11; compared with the earlier local transcript where available."
+        },
+        {
+          "sourceKey": "hongtaiji",
+          "url": "https://en.wikisource.org/wiki/Eminent_Chinese_of_the_Ch%27ing_Period/Abahai",
+          "section": "Succession after Nurhaci",
+          "exactSnippets": [
+            "on October 20, 1626, Abahai became"
+          ],
+          "supports": "Supports the succession in 1626. The draft deliberately retains year precision only.",
+          "inspection": "Reopened and read with the web connector on 2026-11-11; compared with the earlier local transcript where available."
+        }
+      ]
+    },
+    {
+      "recordId": "china-landmark-505",
+      "finding": "The spy explanation needs attribution; it is not an established sole cause.",
+      "evidence": [
+        {
+          "sourceKey": "yuan",
+          "url": "https://en.wikisource.org/wiki/Eminent_Chinese_of_the_Ch%27ing_Period/Y%C3%BCan_Ch%27ung-huan",
+          "section": "Final campaign, arrest and execution",
+          "exactSnippets": [
+            "he was condemned to death and was cut to pieces in the marketplace"
+          ],
+          "supports": "Supports execution after the accusations. It does not establish a surveyed Beijing Western Market location.",
+          "inspection": "Reopened and read with the web connector on 2026-11-11; compared with the earlier local transcript where available."
+        },
+        {
+          "sourceKey": "hongtaiji",
+          "url": "https://en.wikisource.org/wiki/Eminent_Chinese_of_the_Ch%27ing_Period/Abahai",
+          "section": "1629 invasion, Yuan’s imprisonment",
+          "exactSnippets": [
+            "According to Ch'ing official accounts the evidence against Yüan was furnished by spies of Abahai"
+          ],
+          "supports": "This wording explicitly attributes the spy account to Qing official sources; it does not warrant presenting the ruse as the unqualified cause of execution.",
+          "inspection": "Reopened and read with the web connector on 2026-11-11; compared with the earlier local transcript where available."
+        }
+      ]
+    }
+  ]
+}

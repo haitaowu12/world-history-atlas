@@ -1,0 +1,3655 @@
+{
+  "reviewedAt": "2026-11-11",
+  "sourceLedger": [
+    {
+      "assetId": "world-batch-06-newton",
+      "sourceUrl": "https://wellcomecollection.org/works/w84b6gde",
+      "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/w84b6gde",
+      "rights": "Public Domain Mark",
+      "receiptPaths": [
+        "research/v18/world-batch-06/receipts/wellcome-w84b6gde.json",
+        "research/v18/world-batch-06/receipts/wc-newton-info.json"
+      ],
+      "downloadedFrom": "https://iiif.wellcomecollection.org/image/V0004290/full/!1200,1200/0/default.jpg",
+      "sha256": "cf9dcd94b84426f24c3ad5d740a63d0a87e6f0233991f34e0d0c0f2d7db246a0",
+      "bytes": 400703,
+      "dimensions": [
+        957,
+        1201
+      ],
+      "visualReview": "Full delivered image inspected; caption describes visible pixels and separately dates the represented history.",
+      "sourceMetadataOriginal": {
+        "title": "Sir Isaac Newton. Etching by W. Hoare, 1734.",
+        "production": [],
+        "contributors": [],
+        "referenceNumber": "7430i",
+        "description": ""
+      },
+      "internalRetrievalNote": "Source catalogue and rights record retained; delivered file decoded, hashed and visually inspected.",
+      "originalRightsReviewNote": {
+        "en": "Wellcome’s catalogue explicitly assigns the Public Domain Mark to this digitized image or volume. Credit: Wellcome Collection.",
+        "zh": "惠康目录明确将此数字图像或书卷标为公有领域。图像署名：Wellcome Collection（惠康收藏馆）。"
+      },
+      "associationRecordIds": [
+        "person-isaac-newton"
+      ]
+    },
+    {
+      "assetId": "world-batch-06-copernicus",
+      "sourceUrl": "https://wellcomecollection.org/works/kc57czj8",
+      "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/kc57czj8",
+      "rights": "Public Domain Mark",
+      "receiptPaths": [
+        "research/v18/world-batch-06/receipts/wellcome-kc57czj8.json",
+        "research/v18/world-batch-06/receipts/wc-copernicus-info.json"
+      ],
+      "downloadedFrom": "https://iiif.wellcomecollection.org/image/V0001270ER/full/!1200,1200/0/default.jpg",
+      "sha256": "0f09a3f57d08ead6880909731a25b08e9dc6df85d260e308f9b7c0a44622cfc0",
+      "bytes": 338781,
+      "dimensions": [
+        851,
+        1200
+      ],
+      "visualReview": "Full delivered image inspected; caption describes visible pixels and separately dates the represented history.",
+      "sourceMetadataOriginal": {
+        "title": "Nicolaus Copernicus. Coloured stipple engraving by J. Chapman, 1802.",
+        "production": [
+          {
+            "label": "1802",
+            "agents": [],
+            "dates": [
+              {
+                "label": "1802",
+                "type": "Period"
+              }
+            ],
+            "type": "ProductionEvent",
+            "places": [
+              {
+                "label": "United Kingdom",
+                "type": "Place"
+              }
+            ]
+          }
+        ],
+        "contributors": [
+          {
+            "agent": {
+              "id": "s4zz4hbz",
+              "label": "John Chapman",
+              "identifiers": [
+                {
+                  "value": "no2007087526",
+                  "type": "Identifier",
+                  "identifierType": {
+                    "id": "lc-names",
+                    "type": "IdentifierType",
+                    "label": "Library of Congress Name authority records"
+                  }
+                }
+              ],
+              "type": "Person"
+            },
+            "roles": [],
+            "primary": false,
+            "type": "Contributor"
+          }
+        ],
+        "referenceNumber": "2073i",
+        "description": ""
+      },
+      "internalRetrievalNote": "Source catalogue and rights record retained; delivered file decoded, hashed and visually inspected.",
+      "originalRightsReviewNote": {
+        "en": "Wellcome’s catalogue explicitly assigns the Public Domain Mark to this digitized image or volume. Credit: Wellcome Collection.",
+        "zh": "惠康目录明确将此数字图像或书卷标为公有领域。图像署名：Wellcome Collection（惠康收藏馆）。"
+      },
+      "associationRecordIds": [
+        "person-nicolaus-copernicus"
+      ]
+    },
+    {
+      "assetId": "world-batch-06-nightingale",
+      "sourceUrl": "https://wellcomecollection.org/works/tqpyk843",
+      "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/tqpyk843",
+      "rights": "Public Domain Mark",
+      "receiptPaths": [
+        "research/v18/world-batch-06/receipts/wellcome-tqpyk843.json",
+        "research/v18/world-batch-06/receipts/wc-nightingale-info.json"
+      ],
+      "downloadedFrom": "https://iiif.wellcomecollection.org/image/V0004309/full/!1200,1200/0/default.jpg",
+      "sha256": "2cf3832c6502f77fd3a1dd2d5b6a09a4d1d49068a00705608162c0b75f799b44",
+      "bytes": 417395,
+      "dimensions": [
+        1043,
+        1201
+      ],
+      "visualReview": "Full delivered image inspected; caption describes visible pixels and separately dates the represented history.",
+      "sourceMetadataOriginal": {
+        "title": "Florence Nightingale. Coloured lithograph by H.M. Bonham-Carter, 1854.",
+        "production": [
+          {
+            "label": "1854",
+            "agents": [],
+            "dates": [
+              {
+                "label": "1854",
+                "type": "Period"
+              }
+            ],
+            "type": "ProductionEvent",
+            "places": [
+              {
+                "label": "No place, unknown, or undetermined",
+                "type": "Place"
+              }
+            ]
+          }
+        ],
+        "contributors": [
+          {
+            "agent": {
+              "id": "uvny4set",
+              "label": "Bonham-Carter, H. M.",
+              "identifiers": [
+                {
+                  "value": "bonham-carter, h. m",
+                  "type": "Identifier",
+                  "identifierType": {
+                    "id": "label-derived",
+                    "type": "IdentifierType",
+                    "label": "Identifier derived from the label of the referent"
+                  }
+                }
+              ],
+              "type": "Person"
+            },
+            "roles": [],
+            "primary": true,
+            "type": "Contributor"
+          }
+        ],
+        "referenceNumber": "7449i",
+        "description": ""
+      },
+      "internalRetrievalNote": "Source catalogue and rights record retained; delivered file decoded, hashed and visually inspected.",
+      "originalRightsReviewNote": {
+        "en": "Wellcome’s catalogue explicitly assigns the Public Domain Mark to this digitized image or volume. Credit: Wellcome Collection.",
+        "zh": "惠康目录明确将此数字图像或书卷标为公有领域。图像署名：Wellcome Collection（惠康收藏馆）。"
+      },
+      "associationRecordIds": [
+        "person-florence-nightingale"
+      ]
+    },
+    {
+      "assetId": "world-batch-06-hildegard",
+      "sourceUrl": "https://wellcomecollection.org/works/b48yzmst",
+      "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/b48yzmst",
+      "rights": "Public Domain Mark",
+      "receiptPaths": [
+        "research/v18/world-batch-06/receipts/wellcome-b48yzmst.json",
+        "research/v18/world-batch-06/receipts/wc-hildegard-info.json"
+      ],
+      "downloadedFrom": "https://iiif.wellcomecollection.org/image/L0005783/full/!1200,1200/0/default.jpg",
+      "sha256": "24a2d06bc8746e5e949d0dd16d6f468478489748ee1fc07d4a6d06784b73071c",
+      "bytes": 462138,
+      "dimensions": [
+        1030,
+        1200
+      ],
+      "visualReview": "Full delivered image inspected; caption describes visible pixels and separately dates the represented history.",
+      "sourceMetadataOriginal": {
+        "title": "Hildegard von Bingen. Line engraving by W. Marshall.",
+        "production": [
+          {
+            "label": "1642",
+            "agents": [],
+            "dates": [
+              {
+                "label": "1642",
+                "type": "Period"
+              }
+            ],
+            "type": "ProductionEvent",
+            "places": [
+              {
+                "label": "No place, unknown, or undetermined",
+                "type": "Place"
+              }
+            ]
+          }
+        ],
+        "contributors": [
+          {
+            "agent": {
+              "id": "fv2kx2st",
+              "label": "William Marshall",
+              "identifiers": [
+                {
+                  "value": "n85057486",
+                  "type": "Identifier",
+                  "identifierType": {
+                    "id": "lc-names",
+                    "type": "IdentifierType",
+                    "label": "Library of Congress Name authority records"
+                  }
+                }
+              ],
+              "type": "Person"
+            },
+            "roles": [],
+            "primary": false,
+            "type": "Contributor"
+          }
+        ],
+        "referenceNumber": "4213i",
+        "description": ""
+      },
+      "internalRetrievalNote": "Source catalogue and rights record retained; delivered file decoded, hashed and visually inspected.",
+      "originalRightsReviewNote": {
+        "en": "Wellcome’s catalogue explicitly assigns the Public Domain Mark to this digitized image or volume. Credit: Wellcome Collection.",
+        "zh": "惠康目录明确将此数字图像或书卷标为公有领域。图像署名：Wellcome Collection（惠康收藏馆）。"
+      },
+      "associationRecordIds": [
+        "person-hildegard-bingen"
+      ]
+    },
+    {
+      "assetId": "world-batch-06-watt",
+      "sourceUrl": "https://wellcomecollection.org/works/by5hhbyq",
+      "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/by5hhbyq",
+      "rights": "Public Domain Mark",
+      "receiptPaths": [
+        "research/v18/world-batch-06/receipts/wellcome-by5hhbyq.json",
+        "research/v18/world-batch-06/receipts/wc-watt-info.json"
+      ],
+      "downloadedFrom": "https://iiif.wellcomecollection.org/image/V0006168/full/!1200,1200/0/default.jpg",
+      "sha256": "bc3ab91ccdc75256ebb5ab60a520f9c096fdc53dc5095d99977fb2988c6849ab",
+      "bytes": 296524,
+      "dimensions": [
+        827,
+        1200
+      ],
+      "visualReview": "Full delivered image inspected; caption describes visible pixels and separately dates the represented history.",
+      "sourceMetadataOriginal": {
+        "title": "James Watt. Engraving after C. F. von Breda, 1792.",
+        "production": [
+          {
+            "label": "1792",
+            "agents": [],
+            "dates": [
+              {
+                "label": "1792",
+                "type": "Period"
+              }
+            ],
+            "type": "ProductionEvent",
+            "places": [
+              {
+                "label": "England",
+                "type": "Place"
+              }
+            ]
+          }
+        ],
+        "contributors": [
+          {
+            "agent": {
+              "id": "mpqnajpc",
+              "label": "Carl Frederik von Breda",
+              "identifiers": [
+                {
+                  "value": "no2007081923",
+                  "type": "Identifier",
+                  "identifierType": {
+                    "id": "lc-names",
+                    "type": "IdentifierType",
+                    "label": "Library of Congress Name authority records"
+                  }
+                }
+              ],
+              "type": "Person"
+            },
+            "roles": [],
+            "primary": true,
+            "type": "Contributor"
+          }
+        ],
+        "referenceNumber": "9551i",
+        "description": ""
+      },
+      "internalRetrievalNote": "Source catalogue and rights record retained; delivered file decoded, hashed and visually inspected.",
+      "originalRightsReviewNote": {
+        "en": "Wellcome’s catalogue explicitly assigns the Public Domain Mark to this digitized image or volume. Credit: Wellcome Collection.",
+        "zh": "惠康目录明确将此数字图像或书卷标为公有领域。图像署名：Wellcome Collection（惠康收藏馆）。"
+      },
+      "associationRecordIds": [
+        "watt-separate-condenser"
+      ]
+    },
+    {
+      "assetId": "world-batch-06-avicenna",
+      "sourceUrl": "https://wellcomecollection.org/works/mwhd97dv",
+      "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/mwhd97dv",
+      "rights": "Public Domain Mark",
+      "receiptPaths": [
+        "research/v18/world-batch-06/receipts/wellcome-mwhd97dv.json",
+        "research/v18/world-batch-06/receipts/wc-avicenna-info.json"
+      ],
+      "downloadedFrom": "https://iiif.wellcomecollection.org/image/L0000009/full/!1200,1200/0/default.jpg",
+      "sha256": "f49d46d2772f8cd67b8caf9bd7f86e57442971e2b9f96bb58c1c10923bbb9130",
+      "bytes": 320004,
+      "dimensions": [
+        812,
+        1200
+      ],
+      "visualReview": "Full delivered image inspected; caption describes visible pixels and separately dates the represented history.",
+      "sourceMetadataOriginal": {
+        "title": "Doctor taking woman's pulse. Avicenna's Canon manuscript",
+        "production": [],
+        "contributors": [],
+        "referenceNumber": null,
+        "description": "Canon of Medicine, al-qanun Fi-T-Tibb. Binding board of manuscript of Avicenna's Canon."
+      },
+      "internalRetrievalNote": "Source catalogue and rights record retained; delivered file decoded, hashed and visually inspected.",
+      "originalRightsReviewNote": {
+        "en": "Wellcome’s catalogue explicitly assigns the Public Domain Mark to this digitized image or volume. Credit: Wellcome Collection.",
+        "zh": "惠康目录明确将此数字图像或书卷标为公有领域。图像署名：Wellcome Collection（惠康收藏馆）。"
+      },
+      "associationRecordIds": [
+        "person-ibn-sina"
+      ]
+    },
+    {
+      "assetId": "world-batch-06-comenius",
+      "sourceUrl": "https://www.rijksmuseum.nl/en/collection/object/Portrait-of-Jan-Amos-Comenius--a0fd2c3be578ec360aadac312b864d12",
+      "rightsSourceUrl": "https://www.rijksmuseum.nl/en/collection/object/Portrait-of-Jan-Amos-Comenius--a0fd2c3be578ec360aadac312b864d12",
+      "rights": "Public Domain",
+      "receiptPaths": [
+        "research/v18/world-batch-06/receipts/rijks-comenius.html",
+        "research/v18/world-batch-06/receipts/rijks-comenius-info.json"
+      ],
+      "downloadedFrom": "https://iiif.micr.io/QtDLU/full/!1200,1200/0/default.jpg",
+      "sha256": "ebfa59d885bdaaf063ca9cdae0e064f98b26d5a73f60b4482e041b305a299500",
+      "bytes": 150718,
+      "dimensions": [
+        1040,
+        1200
+      ],
+      "visualReview": "Full delivered image inspected; caption describes visible pixels and separately dates the represented history.",
+      "sourceMetadataOriginal": {
+        "title": "Portrait of Jan Amos Comenius",
+        "creator": "Jürgen Ovens",
+        "date": "1650–1670",
+        "objectNumber": "SK-A-2161",
+        "persistentUrl": "https://id.rijksmuseum.nl/200107828"
+      },
+      "internalRetrievalNote": "Source catalogue and rights record retained; delivered file decoded, hashed and visually inspected.",
+      "originalRightsReviewNote": {
+        "en": "The Rijksmuseum object record states Public domain and offers the image for download. Object SK-A-2161.",
+        "zh": "荷兰国立博物馆的馆藏记录将图像标为公有领域，并提供下载。藏品编号SK-A-2161。"
+      },
+      "associationRecordIds": [
+        "person-jan-amos-comenius"
+      ]
+    },
+    {
+      "assetId": "world-batch-06-orbis-pictus",
+      "sourceUrl": "https://wellcomecollection.org/works/ju2nkyws",
+      "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/ju2nkyws",
+      "rights": "Public Domain Mark",
+      "receiptPaths": [
+        "research/v18/world-batch-06/receipts/wellcome-ju2nkyws.json",
+        "research/v18/world-batch-06/receipts/wc-orbis-manifest.json",
+        "research/v18/world-batch-06/receipts/orbis-page-30.jpg"
+      ],
+      "downloadedFrom": "https://iiif.wellcomecollection.org/image/b29339492_0030.jp2/full/!1000,1000/0/default.jpg",
+      "sha256": "9bda0a9f1966a145d93ca0528de856079fbde3c84016bb9347d4efb019b99b8e",
+      "bytes": 129701,
+      "dimensions": [
+        562,
+        1000
+      ],
+      "visualReview": "Full delivered image inspected; caption describes visible pixels and separately dates the represented history.",
+      "sourceMetadataOriginal": {
+        "title": "Joh. Amos Comenii Orbis sensualium pictus : hoc est omnium principalium in mundo rerum, et in vita actionum, pictura & nomenclatura = Joh. Amos Comenius's visible world: or, a nomenclature, and pictures of all the chief things that are in the world, and of men's employments therein in above 150 cuts / written by the author in Latin and High Dutch, being one of his last essays, and the most suitable to children's capacities of any he has hitherto made ; Translated into English by Charles Hoole. For the use of young Latin scholars.",
+        "production": [
+          {
+            "label": "New York : Printed and sold by T. & J. Swords, 1810.",
+            "agents": [
+              {
+                "label": "Printed and sold by T. & J. Swords",
+                "type": "Agent"
+              }
+            ],
+            "dates": [
+              {
+                "label": "1810",
+                "type": "Period"
+              }
+            ],
+            "function": {
+              "label": "Publication",
+              "type": "Concept"
+            },
+            "type": "ProductionEvent",
+            "places": [
+              {
+                "label": "New York",
+                "type": "Place"
+              }
+            ]
+          }
+        ],
+        "contributors": [
+          {
+            "agent": {
+              "id": "j6chc9sr",
+              "label": "Comenius, Joannes Amos, 1592-1670.",
+              "identifiers": [
+                {
+                  "value": "comenius, joannes amos, 1592-1670",
+                  "type": "Identifier",
+                  "identifierType": {
+                    "id": "label-derived",
+                    "type": "IdentifierType",
+                    "label": "Identifier derived from the label of the referent"
+                  }
+                }
+              ],
+              "type": "Person"
+            },
+            "roles": [],
+            "primary": true,
+            "type": "Contributor"
+          },
+          {
+            "agent": {
+              "id": "w398pfkc",
+              "label": "Charles Hoole",
+              "identifiers": [
+                {
+                  "value": "n50028932",
+                  "type": "Identifier",
+                  "identifierType": {
+                    "id": "lc-names",
+                    "type": "IdentifierType",
+                    "label": "Library of Congress Name authority records"
+                  }
+                }
+              ],
+              "type": "Person"
+            },
+            "roles": [],
+            "primary": false,
+            "type": "Contributor"
+          },
+          {
+            "agent": {
+              "id": "q4scm3dr",
+              "label": "Alexander Anderson",
+              "identifiers": [
+                {
+                  "value": "n83227224",
+                  "type": "Identifier",
+                  "identifierType": {
+                    "id": "lc-names",
+                    "type": "IdentifierType",
+                    "label": "Library of Congress Name authority records"
+                  }
+                }
+              ],
+              "type": "Person"
+            },
+            "roles": [],
+            "primary": false,
+            "type": "Contributor"
+          }
+        ],
+        "referenceNumber": null,
+        "description": ""
+      },
+      "internalRetrievalNote": "Source catalogue and rights record retained; delivered file decoded, hashed and visually inspected.",
+      "originalRightsReviewNote": {
+        "en": "Wellcome’s catalogue explicitly assigns the Public Domain Mark to this digitized image or volume. Credit: Wellcome Collection.",
+        "zh": "惠康目录明确将此数字图像或书卷标为公有领域。图像署名：Wellcome Collection（惠康收藏馆）。"
+      },
+      "associationRecordIds": [
+        "orbis-pictus-illustrated-learning",
+        "person-jan-amos-comenius"
+      ]
+    },
+    {
+      "assetId": "world-batch-06-caesar",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/248572",
+      "rightsSourceUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access",
+      "rights": "CC0",
+      "receiptPaths": [
+        "research/v18/world-batch-06/receipts/met-248572.json",
+        "research/v18/world-batch-06/receipts/met-page-248572.html",
+        "research/v18/world-batch-06/receipts/met-open-access.html"
+      ],
+      "downloadedFrom": "https://images.metmuseum.org/CRDImages/gr/web-large/DP111331.jpg",
+      "sha256": "920a60e5720e6e996279004fcc93b9bf168e3aa8480d2009860ae79f751a974c",
+      "bytes": 45434,
+      "dimensions": [
+        600,
+        600
+      ],
+      "visualReview": "Full delivered image inspected; caption describes visible pixels and separately dates the represented history.",
+      "sourceMetadataOriginal": {
+        "title": "Amethyst intaglio portrait of a man",
+        "date": "ca. 50–40 BCE",
+        "creator": "",
+        "medium": "Amethyst",
+        "accessionNumber": "11.195.6",
+        "credit": "Rogers Fund, 1911"
+      },
+      "internalRetrievalNote": "Source catalogue and rights record retained; delivered file decoded, hashed and visually inspected.",
+      "originalRightsReviewNote": {
+        "en": "The object page marks this image Public Domain and the API returns isPublicDomain: true. Met Open Access releases the image under CC0. Collection credit: Rogers Fund, 1911",
+        "zh": "馆藏页将图像标为公有领域，API亦确认此状态；大都会开放获取政策以CC0发布图像。入藏署名保留于原始馆藏记录。"
+      },
+      "associationRecordIds": [
+        "person-julius-caesar"
+      ]
+    },
+    {
+      "assetId": "world-batch-06-alexander",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/812706",
+      "rightsSourceUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access",
+      "rights": "CC0",
+      "receiptPaths": [
+        "research/v18/world-batch-06/receipts/met-812706.json",
+        "research/v18/world-batch-06/receipts/met-page-812706.html",
+        "research/v18/world-batch-06/receipts/met-open-access.html"
+      ],
+      "downloadedFrom": "https://images.metmuseum.org/CRDImages/dp/web-large/DP883165.jpg",
+      "sha256": "3d010f2b8e4a5daf883f9575a257515c39c9fa6e9493614f1b1653e246ed7c12",
+      "bytes": 195963,
+      "dimensions": [
+        464,
+        625
+      ],
+      "visualReview": "Full delivered image inspected; caption describes visible pixels and separately dates the represented history.",
+      "sourceMetadataOriginal": {
+        "title": "Alexander the Great meeting Diogenes",
+        "date": "ca. 1580–1640",
+        "creator": "Anonymous",
+        "medium": "Etching",
+        "accessionNumber": "50.576.154",
+        "credit": "Gift of Joseph Verner Reed, 1950"
+      },
+      "internalRetrievalNote": "Source catalogue and rights record retained; delivered file decoded, hashed and visually inspected.",
+      "originalRightsReviewNote": {
+        "en": "The object page marks this image Public Domain and the API returns isPublicDomain: true. Met Open Access releases the image under CC0. Collection credit: Gift of Joseph Verner Reed, 1950",
+        "zh": "馆藏页将图像标为公有领域，API亦确认此状态；大都会开放获取政策以CC0发布图像。入藏署名保留于原始馆藏记录。"
+      },
+      "associationRecordIds": [
+        "person-alexander-great"
+      ]
+    },
+    {
+      "assetId": "world-batch-06-gutenberg",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/198665",
+      "rightsSourceUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access",
+      "rights": "CC0",
+      "receiptPaths": [
+        "research/v18/world-batch-06/receipts/met-198665.json",
+        "research/v18/world-batch-06/receipts/met-page-198665.html",
+        "research/v18/world-batch-06/receipts/met-open-access.html"
+      ],
+      "downloadedFrom": "https://images.metmuseum.org/CRDImages/es/web-large/121774.jpg",
+      "sha256": "12b8a28fda960767f528852dcb0a746bcaa807e03c712e35f72805299fcb5365",
+      "bytes": 64197,
+      "dimensions": [
+        504,
+        624
+      ],
+      "visualReview": "Full delivered image inspected; caption describes visible pixels and separately dates the represented history.",
+      "sourceMetadataOriginal": {
+        "title": "Johannes Gutenberg (ca. 1393/1400–1486): Commemorative of the Erection in New York by Robert Hoe of a Statue of Gutenberg in 1889",
+        "date": "1889 (?)",
+        "creator": "Anton Scharff",
+        "medium": "Bronze, dark brown patina, struck",
+        "accessionNumber": "40.101",
+        "credit": "Gift of Henry N. Kent, 1940"
+      },
+      "internalRetrievalNote": "Source catalogue and rights record retained; delivered file decoded, hashed and visually inspected.",
+      "originalRightsReviewNote": {
+        "en": "The object page marks this image Public Domain and the API returns isPublicDomain: true. Met Open Access releases the image under CC0. Collection credit: Gift of Henry N. Kent, 1940",
+        "zh": "馆藏页将图像标为公有领域，API亦确认此状态；大都会开放获取政策以CC0发布图像。入藏署名保留于原始馆藏记录。"
+      },
+      "associationRecordIds": [
+        "gutenberg-printing"
+      ]
+    },
+    {
+      "assetId": "world-batch-06-victoria",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/12702",
+      "rightsSourceUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access",
+      "rights": "CC0",
+      "receiptPaths": [
+        "research/v18/world-batch-06/receipts/met-12702.json",
+        "research/v18/world-batch-06/receipts/met-page-12702.html",
+        "research/v18/world-batch-06/receipts/met-open-access.html"
+      ],
+      "downloadedFrom": "https://images.metmuseum.org/CRDImages/ad/web-large/DT5422.jpg",
+      "sha256": "b35be069d7d0dd9bd146c5d16656d694634931bc900885e192b2e736d7697064",
+      "bytes": 63627,
+      "dimensions": [
+        500,
+        624
+      ],
+      "visualReview": "Full delivered image inspected; caption describes visible pixels and separately dates the represented history.",
+      "sourceMetadataOriginal": {
+        "title": "Queen Victoria",
+        "date": "1838",
+        "creator": "Thomas Sully",
+        "medium": "Oil on canvas",
+        "accessionNumber": "14.126.1",
+        "credit": "Bequest of Francis T. S. Darley, 1914"
+      },
+      "internalRetrievalNote": "Source catalogue and rights record retained; delivered file decoded, hashed and visually inspected.",
+      "originalRightsReviewNote": {
+        "en": "The object page marks this image Public Domain and the API returns isPublicDomain: true. Met Open Access releases the image under CC0. Collection credit: Bequest of Francis T. S. Darley, 1914",
+        "zh": "馆藏页将图像标为公有领域，API亦确认此状态；大都会开放获取政策以CC0发布图像。入藏署名保留于原始馆藏记录。"
+      },
+      "associationRecordIds": [
+        "crown-rule-india"
+      ]
+    },
+    {
+      "assetId": "world-batch-06-akbar",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/448278",
+      "rightsSourceUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access",
+      "rights": "CC0",
+      "receiptPaths": [
+        "research/v18/world-batch-06/receipts/met-448278.json",
+        "research/v18/world-batch-06/receipts/met-page-448278.html",
+        "research/v18/world-batch-06/receipts/met-open-access.html"
+      ],
+      "downloadedFrom": "https://images.metmuseum.org/CRDImages/is/web-large/sf29-160-20a.jpg",
+      "sha256": "e898a9d1ce51d28d7426d36232b9d64c834668988b628c46fdd2ff59be24dfd1",
+      "bytes": 54860,
+      "dimensions": [
+        368,
+        624
+      ],
+      "visualReview": "Full delivered image inspected; caption describes visible pixels and separately dates the represented history.",
+      "sourceMetadataOriginal": {
+        "title": "Portrait of Emperor Akbar Praying",
+        "date": "early 17th century",
+        "creator": "",
+        "medium": "Ink and opaque watercolor on paper",
+        "accessionNumber": "29.160.20",
+        "credit": "H. O. Havemeyer Collection, Gift of Horace Havemeyer, 1929"
+      },
+      "internalRetrievalNote": "Source catalogue and rights record retained; delivered file decoded, hashed and visually inspected.",
+      "originalRightsReviewNote": {
+        "en": "The object page marks this image Public Domain and the API returns isPublicDomain: true. Met Open Access releases the image under CC0. Collection credit: H. O. Havemeyer Collection, Gift of Horace Havemeyer, 1929",
+        "zh": "馆藏页将图像标为公有领域，API亦确认此状态；大都会开放获取政策以CC0发布图像。入藏署名保留于原始馆藏记录。"
+      },
+      "associationRecordIds": [
+        "mughal-translation-workshops",
+        "fatehpur-sikri-court"
+      ]
+    },
+    {
+      "assetId": "world-batch-06-shah-jahan",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/451270",
+      "rightsSourceUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access",
+      "rights": "CC0",
+      "receiptPaths": [
+        "research/v18/world-batch-06/receipts/met-451270.json",
+        "research/v18/world-batch-06/receipts/met-page-451270.html",
+        "research/v18/world-batch-06/receipts/met-open-access.html"
+      ],
+      "downloadedFrom": "https://images.metmuseum.org/CRDImages/is/web-large/DP246547.jpg",
+      "sha256": "080d5beb6ff5e5c15f7edd8459613d2de38abfcd3206318988d8384353536333",
+      "bytes": 111081,
+      "dimensions": [
+        417,
+        624
+      ],
+      "visualReview": "Full delivered image inspected; caption describes visible pixels and separately dates the represented history.",
+      "sourceMetadataOriginal": {
+        "title": "\"Shah Jahan on a Terrace, Holding a Pendant Set With His Portrait\", Folio from the Shah Jahan Album",
+        "date": "recto: dated 1627–28; verso: ca. 1530–50",
+        "creator": "Chitarman",
+        "medium": "Ink, opaque watercolor, and gold on paper",
+        "accessionNumber": "55.121.10.24",
+        "credit": "Purchase, Rogers Fund and The Kevorkian Foundation Gift, 1955"
+      },
+      "internalRetrievalNote": "Source catalogue and rights record retained; delivered file decoded, hashed and visually inspected.",
+      "originalRightsReviewNote": {
+        "en": "The object page marks this image Public Domain and the API returns isPublicDomain: true. Met Open Access releases the image under CC0. Collection credit: Purchase, Rogers Fund and The Kevorkian Foundation Gift, 1955",
+        "zh": "馆藏页将图像标为公有领域，API亦确认此状态；大都会开放获取政策以CC0发布图像。入藏署名保留于原始馆藏记录。"
+      },
+      "associationRecordIds": [
+        "taj-mahal"
+      ]
+    },
+    {
+      "assetId": "world-batch-06-abd-al-qadir",
+      "sourceUrl": "https://parismuseescollections.paris.fr/fr/petit-palais/oeuvres/l-emir-abd-el-kader",
+      "rightsSourceUrl": "https://parismuseescollections.paris.fr/fr/petit-palais/oeuvres/l-emir-abd-el-kader",
+      "rights": "CC0",
+      "receiptPaths": [
+        "research/v18/world-batch-06/receipts/paris-160018202.html",
+        "research/v18/world-batch-06/receipts/paris-160018202-manifest.json"
+      ],
+      "downloadedFrom": "https://apicollections.parismusees.paris.fr/sites/default/files/styles/4k/collections/atoms/images/PPA/43094-4.jpg?itok=Q7_p7-SX",
+      "sha256": "68ab7c7ca72a62a5a47340b97ac8a65bb78b297b8d116fdbb36dd5453e36a380",
+      "bytes": 557452,
+      "dimensions": [
+        1495,
+        2160
+      ],
+      "visualReview": "Full delivered image inspected; caption describes visible pixels and separately dates the represented history.",
+      "sourceMetadataOriginal": {
+        "title": "L'Emir Abd-el-Kader",
+        "date": "En 1879",
+        "objectNumber": "PPG3829",
+        "creator": "Edmond Morin; Léon-Louis Chapon"
+      },
+      "internalRetrievalNote": "Source catalogue and rights record retained; delivered file decoded, hashed and visually inspected.",
+      "originalRightsReviewNote": {
+        "en": "The collection page and IIIF manifest explicitly label the image CC0. Credit: Paris Musées / Petit Palais.",
+        "zh": "馆藏页与IIIF清单明确将图像标为CC0。图像署名：巴黎博物馆联盟／小皇宫美术馆。"
+      },
+      "associationRecordIds": [
+        "person-abd-al-qadir"
+      ]
+    },
+    {
+      "assetId": "world-batch-06-tsuda",
+      "sourceUrl": "https://www.ndl.go.jp/portrait/e/datas/292",
+      "rightsSourceUrl": "https://www.ndl.go.jp/portrait/e/about",
+      "rights": "Public Domain",
+      "receiptPaths": [
+        "research/v18/world-batch-06/receipts/ndl-tsuda.html",
+        "research/v18/world-batch-06/receipts/ndl-rights.html",
+        "research/v18/world-batch-06/receipts/ndl-terms.html"
+      ],
+      "downloadedFrom": "https://www.ndl.go.jp/portrait/img/portrait/0292_1.jpg",
+      "sha256": "e8f206e062553bbb8597ec7808162146795fc191f12692b44427c18ae525d1a1",
+      "bytes": 672879,
+      "dimensions": [
+        733,
+        1117
+      ],
+      "visualReview": "Full delivered image inspected; caption describes visible pixels and separately dates the represented history.",
+      "sourceMetadataOriginal": {
+        "title": "TSUDA Umeko",
+        "date": "Not stated for this photograph",
+        "creator": "Not stated for this photograph"
+      },
+      "internalRetrievalNote": "Source catalogue and rights record retained; delivered file decoded, hashed and visually inspected.",
+      "originalRightsReviewNote": {
+        "en": "The exhibition explicitly states that all of its images are public domain and that its digitized images may be reused, including commercially, without application. Credit: National Diet Library, Portraits of Modern Japanese Historical Figures.",
+        "zh": "该展览明确说明所有图像均属公有领域，数字图像可无需申请再次使用，包括商业用途。署名：日本国立国会图书馆“近代日本人肖像”。"
+      },
+      "associationRecordIds": [
+        "person-tsuda-umeko"
+      ]
+    },
+    {
+      "assetId": "world-batch-06-yosano",
+      "sourceUrl": "https://www.ndl.go.jp/portrait/e/datas/347",
+      "rightsSourceUrl": "https://www.ndl.go.jp/portrait/e/about",
+      "rights": "Public Domain",
+      "receiptPaths": [
+        "research/v18/world-batch-06/receipts/ndl-yosano.html",
+        "research/v18/world-batch-06/receipts/ndl-rights.html",
+        "research/v18/world-batch-06/receipts/ndl-terms.html"
+      ],
+      "downloadedFrom": "https://www.ndl.go.jp/portrait/img/portrait/0347_1.jpg",
+      "sha256": "785e7948ce7f8df9ddec00552acc07e0a5decd46c51dbc2529a8540a6118d13a",
+      "bytes": 596876,
+      "dimensions": [
+        810,
+        1101
+      ],
+      "visualReview": "Full delivered image inspected; caption describes visible pixels and separately dates the represented history.",
+      "sourceMetadataOriginal": {
+        "title": "YOSANO Akiko",
+        "date": "Not stated for this photograph",
+        "creator": "Not stated for this photograph"
+      },
+      "internalRetrievalNote": "Source catalogue and rights record retained; delivered file decoded, hashed and visually inspected.",
+      "originalRightsReviewNote": {
+        "en": "The exhibition explicitly states that all of its images are public domain and that its digitized images may be reused, including commercially, without application. Credit: National Diet Library, Portraits of Modern Japanese Historical Figures.",
+        "zh": "该展览明确说明所有图像均属公有领域，数字图像可无需申请再次使用，包括商业用途。署名：日本国立国会图书馆“近代日本人肖像”。"
+      },
+      "associationRecordIds": [
+        "person-yosano-akiko"
+      ]
+    },
+    {
+      "assetId": "world-batch-06-fukuzawa",
+      "sourceUrl": "https://www.ndl.go.jp/portrait/e/datas/185",
+      "rightsSourceUrl": "https://www.ndl.go.jp/portrait/e/about",
+      "rights": "Public Domain",
+      "receiptPaths": [
+        "research/v18/world-batch-06/receipts/ndl-fukuzawa.html",
+        "research/v18/world-batch-06/receipts/ndl-rights.html",
+        "research/v18/world-batch-06/receipts/ndl-terms.html"
+      ],
+      "downloadedFrom": "https://www.ndl.go.jp/portrait/img/portrait/0185_1.jpg",
+      "sha256": "4ded5d9a9a354a7c35746e6bdf7c86ad1bfece61a16516f7352b55274bf2cea1",
+      "bytes": 317228,
+      "dimensions": [
+        1024,
+        1345
+      ],
+      "visualReview": "Full delivered image inspected; caption describes visible pixels and separately dates the represented history.",
+      "sourceMetadataOriginal": {
+        "title": "FUKUZAWA Yukichi",
+        "date": "Not stated for this photograph",
+        "creator": "Not stated for this photograph"
+      },
+      "internalRetrievalNote": "Source catalogue and rights record retained; delivered file decoded, hashed and visually inspected.",
+      "originalRightsReviewNote": {
+        "en": "The exhibition explicitly states that all of its images are public domain and that its digitized images may be reused, including commercially, without application. Credit: National Diet Library, Portraits of Modern Japanese Historical Figures.",
+        "zh": "该展览明确说明所有图像均属公有领域，数字图像可无需申请再次使用，包括商业用途。署名：日本国立国会图书馆“近代日本人肖像”。"
+      },
+      "associationRecordIds": [
+        "person-fukuzawa-yukichi"
+      ]
+    },
+    {
+      "assetId": "world-batch-06-chatelet",
+      "sourceUrl": "https://parismuseescollections.paris.fr/en/node/1049240",
+      "rightsSourceUrl": "https://parismuseescollections.paris.fr/en/node/1049240",
+      "rights": "CC0",
+      "receiptPaths": [
+        "research/v18/world-batch-06/receipts/paris-chatelet.html",
+        "research/v18/world-batch-06/receipts/paris-chatelet-manifest.json"
+      ],
+      "downloadedFrom": "https://www.parismuseescollections.paris.fr/sites/default/files/styles/pm_diaporama_zoom/public/atoms/images/CAR/aze_cargpor008370_001.jpg?itok=0xU7S31M",
+      "sha256": "d0ea7c75cb09ea84b4c59a4e3cecb4ce1564bbd9c1b78ab7d1aa2ddde7202ac8",
+      "bytes": 149834,
+      "dimensions": [
+        837,
+        1080
+      ],
+      "visualReview": "Full delivered image inspected; caption describes visible pixels and separately dates the represented history.",
+      "sourceMetadataOriginal": {
+        "title": "Gabriele Emilie / de Breteüïl / Epouse de Florent Claude / Marquis du Chatelet Lomont / [...]",
+        "date": "En 1751",
+        "objectNumber": "2023.0.124",
+        "creator": "Anonymous engraver, after Marianne Loir; published by Gilles-Edme Petit"
+      },
+      "internalRetrievalNote": "Source catalogue and rights record retained; delivered file decoded, hashed and visually inspected.",
+      "originalRightsReviewNote": {
+        "en": "The collection page and IIIF manifest explicitly label the image CC0. Credit: Paris Musées / Musée Carnavalet – Histoire de Paris.",
+        "zh": "馆藏页与IIIF清单明确将图像标为CC0。图像署名：巴黎博物馆联盟／卡纳瓦莱巴黎历史博物馆。"
+      },
+      "associationRecordIds": [
+        "person-emilie-du-chatelet"
+      ]
+    },
+    {
+      "assetId": "world-batch-06-met-16584",
+      "localPath": "assets/world-batch-06-met-16584.jpg",
+      "downloadedFrom": "https://images.metmuseum.org/CRDImages/ad/web-large/DT62.jpg",
+      "sha256": "da83c54d5a644acc61d2a87d51695c92ee2ed088ab96a776b85fbd3b5fd53470",
+      "bytes": 66806,
+      "width": 523,
+      "height": 625,
+      "pixelReview": "Inspected delivered JPEG: subject, composition, orientation and clarity accepted.",
+      "recordId": "person-george-washington",
+      "entryTitle": {
+        "en": "George Washington · Command, government and the labor behind the estate",
+        "zh": "乔治·华盛顿 · 军事指挥、政府与庄园背后的劳动"
+      },
+      "entrySummaryReviewed": {
+        "en": "George Washington’s public career grew from the landholding society of colonial Virginia. Born in 1732, he learned surveying and acquired military experience before becoming a planter at Mount Vernon. His changes to crops, milling and other enterprises depended on the work of enslaved people. The estate was an economic and household institution, not simply a retreat from politics.\n\nCongress commissioned him to command the Continental Army in 1775. Keeping an army together required supplies, trained officers, civilian cooperation and political support as well as battlefield decisions. At Valley Forge in 1777–1778, soldiers and camp households endured shortages and disease while building shelters and reorganizing daily work. French assistance later contributed to the victory at Yorktown; independence cannot be explained by one commander’s will alone.\n\nWashington resigned his commission before Congress at Annapolis in 1783. He returned to national public life to preside over the Constitutional Convention in Philadelphia in 1787 and served as president from 1789 to 1797. Cabinet organization, finance, foreign relations and growing party conflict made government a continuing institutional task. His commitment to western expansion also placed Indigenous land and authority under pressure.\n\nAfter two presidential terms he returned to Mount Vernon, where he died in 1799. His will directed emancipation of people he personally owned after Martha Washington’s death; it did not free everyone under the estate’s control. His life therefore connects republican authority and relinquishment of office to the coercive labor system that sustained his wealth.",
+        "zh": "乔治·华盛顿的公共事业生长于殖民地弗吉尼亚的土地占有社会。他1732年出生，学习测量并获得军事经验，后来经营弗农山庄。更换作物、磨坊及其他经营活动依赖被奴役者的劳动。庄园是经济和家庭制度，不只是政治生活之外的退隐场所。\n\n1775年，大陆会议委任他指挥大陆军。维持军队不仅需要战场决断，也需要补给、受训军官、平民合作与政治支持。1777—1778年在福吉谷，士兵和随军家庭忍受短缺与疾病，同时建造住处、重组日常工作。法国援助后来促成约克镇胜利；独立不能仅以一位统帅的意志解释。\n\n1783年，他在安纳波利斯向议会辞去军职。1787年重返全国公共生活，主持费城制宪会议，随后于1789—1797年任总统。内阁组织、财政、外交及加深的党争，使政府建设成为持续的制度工作。他支持向西扩张，也使原住民的土地与权威承受压力。\n\n两届总统任期结束后，他返回弗农山庄，1799年在那里去世。遗嘱要求在玛莎·华盛顿去世后，解放由他本人拥有的人；这并未涵盖庄园控制下的所有被奴役者。因此，其生平把共和权威、交出公职与支撑其财富的强制劳动制度连接在一起。"
+      },
+      "sourceReceipt": "receipts/washington-api",
+      "pageReceipt": "receipts/washington-page",
+      "policyReceipt": "receipts/met-policy",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/16584",
+      "rightsSourceUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access",
+      "rights": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "CC0 public-domain image. Credit: The Metropolitan Museum of Art, Rogers Fund, 1907.",
+          "zh": "CC0公有领域图像。署名：The Metropolitan Museum of Art, Rogers Fund, 1907。"
+        }
+      },
+      "receiptPaths": [
+        "research/v18/world-batch-06/americas/receipts/washington-api",
+        "research/v18/world-batch-06/americas/receipts/washington-page",
+        "research/v18/world-batch-06/americas/receipts/met-policy"
+      ],
+      "sourceMetadataOriginal": null,
+      "internalRetrievalNote": "Official object API, collection page and Open Access policy saved; JPEG decoded and visually inspected.",
+      "originalRightsReviewNote": {
+        "en": "The object API marks the artwork public domain; the Met releases its Open Access image under CC0. Credit: Rogers Fund, 1907.",
+        "zh": "馆藏API将作品标为公有领域；大都会博物馆以CC0发布开放获取图像。入藏署名：罗杰斯基金，1907年。"
+      }
+    },
+    {
+      "assetId": "world-batch-06-npg-npg-95-54",
+      "localPath": "assets/world-batch-06-npg-npg-95-54.jpg",
+      "downloadedFrom": "https://ids.si.edu/ids/download?id=NPG-NPG_95_54Addams_Belmont-000001_screen",
+      "sha256": "7c3bdd1bb0f4994e0106a8f0833dffd29e98c0ade063d5e4779e93da8601becc",
+      "bytes": 147254,
+      "width": 1200,
+      "height": 911,
+      "pixelReview": "Inspected delivered JPEG: subject, composition, orientation and clarity accepted.",
+      "recordId": "person-jane-addams",
+      "entryTitle": {
+        "en": "Jane Addams · Neighborhood work and international peace",
+        "zh": "简·亚当斯 · 街区工作与国际和平"
+      },
+      "entrySummaryReviewed": {
+        "en": "Jane Addams used the opportunities of an affluent Illinois upbringing to search for a public vocation. After graduating from Rockford Female Seminary in 1881, she explored further study and spent time in Europe. A visit with Ellen Gates Starr to Toynbee Hall in London helped give shape to a settlement in which educated residents would live and work within an industrial neighborhood.\n\nIn 1889 the two women established Hull-House on Chicago’s Near West Side. Its work depended on a team, donors and neighborhood participation. Childcare, classes, cultural activities and employment assistance connected household needs to industrial-city conditions. Addams also pursued investigations into sanitation and other urban problems, and worked with fellow reformers on public policy. Services were a practical response to unequal opportunities; their existence did not by itself prove that every resident shared the reformers’ priorities.\n\nHer concern with civic participation included women’s suffrage and opposition to racial exclusion. Peace became another field of organization. In 1915 she headed the Women’s Peace Party and presided over the International Congress of Women at The Hague. Opposition to American entry into the First World War brought hostile publicity, while relief work offered a continuing way to assist civilians.\n\nShe received the Nobel Peace Prize in 1931 but was hospitalized in Baltimore while the ceremony took place in Oslo. She died in 1935. Her life connects local care and social investigation with difficult public arguments about war, belonging and the responsibilities of citizenship.",
+        "zh": "简·亚当斯利用伊利诺伊州富裕家庭带来的机会，寻找公共事业方向。1881年从罗克福德女子学校（Rockford Female Seminary）毕业后，她尝试继续学习并赴欧洲生活。与艾伦·盖茨·斯塔尔探访伦敦汤因比馆，使她逐渐形成社区定居服务机构的设想：受教育的工作人员住进工业街区，与居民一起生活和工作。\n\n1889年，两人在芝加哥近西区建立赫尔之家。其工作依靠团队、捐助者与街区参与。托育、课程、文化活动和就业援助，把家庭需要与工业城市的条件连接起来。亚当斯还调查卫生等城市问题，与其他改革者推进公共政策。服务是应对机会不平等的实际办法；服务存在本身不证明每位居民都认同改革者的优先事项。\n\n她对公共参与的关注包括女性选举权及反对种族排斥。和平成为另一种组织工作。1915年，她领导妇女和平党，并主持海牙国际妇女大会。反对美国参加第一次世界大战，使她遭遇敌对舆论，而救济工作仍提供援助平民的渠道。\n\n1931年获得诺贝尔和平奖时，她正在巴尔的摩住院，颁奖典礼则在奥斯陆举行。她1935年去世。其生平把地方照护与社会调查，同关于战争、归属和公民责任的艰难公共争论连接起来。"
+      },
+      "sourceReceipt": "receipts/npg-record-1.json",
+      "sourceRecordUrl": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/npg/06.txt",
+      "originalEnglish": {
+        "date": [
+          {
+            "label": "Date",
+            "content": "1912"
+          }
+        ],
+        "name": [
+          {
+            "label": "Artist",
+            "content": "Wallace Morgan, 1873 - 1948"
+          },
+          {
+            "label": "Sitter",
+            "content": "Jane Addams, 6 Sep 1860 - 21 May 1935"
+          },
+          {
+            "label": "Sitter",
+            "content": "Alva Erskine Smith Vanderbilt Belmont, 17 Jan 1853 - 26 Jan 1933"
+          }
+        ],
+        "place": [
+          {
+            "label": "Place",
+            "content": "United States\\Pennsylvania\\Philadelphia\\Philadelphia"
+          }
+        ],
+        "topic": [
+          {
+            "label": "Topic",
+            "content": "Interior"
+          },
+          {
+            "label": "Topic",
+            "content": "Home Furnishings\\Furniture\\Seating\\Chair"
+          },
+          {
+            "label": "Topic",
+            "content": "Costume\\Headgear\\Hat"
+          },
+          {
+            "label": "Topic",
+            "content": "Alva Erskine Smith Vanderbilt Belmont: Female"
+          },
+          {
+            "label": "Topic",
+            "content": "Alva Erskine Smith Vanderbilt Belmont: Social Welfare and Reform\\Reformer\\Social reformer\\Civil rights activist\\Suffragist"
+          },
+          {
+            "label": "Topic",
+            "content": "Alva Erskine Smith Vanderbilt Belmont: Arts and Culture\\Society Figure\\Socialite"
+          },
+          {
+            "label": "Topic",
+            "content": "Jane Addams: Female"
+          },
+          {
+            "label": "Topic",
+            "content": "Jane Addams: Arts and Culture\\Literature\\Writer"
+          },
+          {
+            "label": "Topic",
+            "content": "Jane Addams: Social Welfare and Reform\\Reformer\\Social reformer"
+          },
+          {
+            "label": "Topic",
+            "content": "Jane Addams: Social Welfare and Reform\\Social worker"
+          },
+          {
+            "label": "Topic",
+            "content": "Jane Addams: Social Welfare and Reform\\Reformer\\Social reformer\\Peace activist"
+          },
+          {
+            "label": "Topic",
+            "content": "Jane Addams: Nobel Prize"
+          },
+          {
+            "label": "Topic",
+            "content": "Portrait"
+          }
+        ],
+        "setName": [
+          {
+            "label": "See more items in",
+            "content": "National Portrait Gallery Collection"
+          },
+          {
+            "label": "Location",
+            "content": "Currently not on view"
+          }
+        ],
+        "creditLine": [
+          {
+            "label": "Credit Line",
+            "content": "National Portrait Gallery, Smithsonian Institution"
+          }
+        ],
+        "dataSource": [
+          {
+            "label": "Data Source",
+            "content": "National Portrait Gallery"
+          }
+        ],
+        "identifier": [
+          {
+            "label": "Object number",
+            "content": "NPG.95.54"
+          }
+        ],
+        "objectType": [
+          {
+            "label": "Type",
+            "content": "Drawing"
+          }
+        ],
+        "objectRights": [
+          {
+            "label": "Restrictions & Rights",
+            "content": "CC0"
+          }
+        ],
+        "physicalDescription": [
+          {
+            "label": "Medium",
+            "content": "Pencil on paper"
+          },
+          {
+            "label": "Dimensions",
+            "content": "Image: 16.2cm x 19.3cm (6 3/8\" x 7 5/8\")"
+          },
+          {
+            "label": "Dimensions",
+            "content": "Sheet: 18.5cm x 29cm (7 5/16\" x 11 7/16\")"
+          }
+        ]
+      },
+      "imageRights": {
+        "access": "CC0"
+      },
+      "policyReceipt": "receipts/si-openaccess-search.json",
+      "sourceUrl": "https://npg.si.edu/object/npg_NPG.95.54",
+      "rightsSourceUrl": "https://www.si.edu/openaccess",
+      "rights": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "CC0 public-domain image. Credit: National Portrait Gallery, Smithsonian Institution.",
+          "zh": "CC0公有领域图像。署名：National Portrait Gallery, Smithsonian Institution。"
+        }
+      },
+      "receiptPaths": [
+        "research/v18/world-batch-06/americas/receipts/npg-record-1.json",
+        "research/v18/world-batch-06/americas/receipts/si-openaccess-search.json"
+      ],
+      "sourceMetadataOriginal": {
+        "date": [
+          {
+            "label": "Date",
+            "content": "1912"
+          }
+        ],
+        "name": [
+          {
+            "label": "Artist",
+            "content": "Wallace Morgan, 1873 - 1948"
+          },
+          {
+            "label": "Sitter",
+            "content": "Jane Addams, 6 Sep 1860 - 21 May 1935"
+          },
+          {
+            "label": "Sitter",
+            "content": "Alva Erskine Smith Vanderbilt Belmont, 17 Jan 1853 - 26 Jan 1933"
+          }
+        ],
+        "place": [
+          {
+            "label": "Place",
+            "content": "United States\\Pennsylvania\\Philadelphia\\Philadelphia"
+          }
+        ],
+        "topic": [
+          {
+            "label": "Topic",
+            "content": "Interior"
+          },
+          {
+            "label": "Topic",
+            "content": "Home Furnishings\\Furniture\\Seating\\Chair"
+          },
+          {
+            "label": "Topic",
+            "content": "Costume\\Headgear\\Hat"
+          },
+          {
+            "label": "Topic",
+            "content": "Alva Erskine Smith Vanderbilt Belmont: Female"
+          },
+          {
+            "label": "Topic",
+            "content": "Alva Erskine Smith Vanderbilt Belmont: Social Welfare and Reform\\Reformer\\Social reformer\\Civil rights activist\\Suffragist"
+          },
+          {
+            "label": "Topic",
+            "content": "Alva Erskine Smith Vanderbilt Belmont: Arts and Culture\\Society Figure\\Socialite"
+          },
+          {
+            "label": "Topic",
+            "content": "Jane Addams: Female"
+          },
+          {
+            "label": "Topic",
+            "content": "Jane Addams: Arts and Culture\\Literature\\Writer"
+          },
+          {
+            "label": "Topic",
+            "content": "Jane Addams: Social Welfare and Reform\\Reformer\\Social reformer"
+          },
+          {
+            "label": "Topic",
+            "content": "Jane Addams: Social Welfare and Reform\\Social worker"
+          },
+          {
+            "label": "Topic",
+            "content": "Jane Addams: Social Welfare and Reform\\Reformer\\Social reformer\\Peace activist"
+          },
+          {
+            "label": "Topic",
+            "content": "Jane Addams: Nobel Prize"
+          },
+          {
+            "label": "Topic",
+            "content": "Portrait"
+          }
+        ],
+        "setName": [
+          {
+            "label": "See more items in",
+            "content": "National Portrait Gallery Collection"
+          },
+          {
+            "label": "Location",
+            "content": "Currently not on view"
+          }
+        ],
+        "creditLine": [
+          {
+            "label": "Credit Line",
+            "content": "National Portrait Gallery, Smithsonian Institution"
+          }
+        ],
+        "dataSource": [
+          {
+            "label": "Data Source",
+            "content": "National Portrait Gallery"
+          }
+        ],
+        "identifier": [
+          {
+            "label": "Object number",
+            "content": "NPG.95.54"
+          }
+        ],
+        "objectType": [
+          {
+            "label": "Type",
+            "content": "Drawing"
+          }
+        ],
+        "objectRights": [
+          {
+            "label": "Restrictions & Rights",
+            "content": "CC0"
+          }
+        ],
+        "physicalDescription": [
+          {
+            "label": "Medium",
+            "content": "Pencil on paper"
+          },
+          {
+            "label": "Dimensions",
+            "content": "Image: 16.2cm x 19.3cm (6 3/8\" x 7 5/8\")"
+          },
+          {
+            "label": "Dimensions",
+            "content": "Sheet: 18.5cm x 29cm (7 5/16\" x 11 7/16\")"
+          }
+        ]
+      },
+      "internalRetrievalNote": "Official Smithsonian Open Access AWS record saved; explicit artwork and image CC0 checked. Official screen JPEG decoded and visually inspected.",
+      "originalRightsReviewNote": {
+        "en": "Official Smithsonian bulk record marks both objectRights and this image’s usage.access CC0. Credit: National Portrait Gallery, Smithsonian Institution",
+        "zh": "史密森官方批量馆藏记录将作品权利及此图像的使用权均标为CC0。署名：美国国家肖像馆、史密森学会；完整入藏署名保留于英文记录。"
+      }
+    },
+    {
+      "assetId": "world-batch-06-npg-npg-99-167-13",
+      "localPath": "assets/world-batch-06-npg-npg-99-167-13.jpg",
+      "downloadedFrom": "https://ids.si.edu/ids/download?id=NPG-NPG_99_167_13Sequoyah-000002_screen",
+      "sha256": "bdd12739d71ad6a84eefe7cfeec5fd93b1c7f8efa92c6b4b5472b007db803aed",
+      "bytes": 75181,
+      "width": 817,
+      "height": 1200,
+      "pixelReview": "Inspected delivered JPEG: subject, composition, orientation and clarity accepted.",
+      "recordId": "person-sequoyah",
+      "entryTitle": {
+        "en": "Sequoyah · Writing Cherokee",
+        "zh": "塞阔雅 · 书写切罗基语"
+      },
+      "entrySummaryReviewed": {
+        "en": "Sequoyah developed a syllabary that made it possible to write Cherokee using signs for syllables. His achievement grew from sustained work, demonstration, and teaching within Cherokee society. It was not a version of English spelling, even where some signs resembled letters used in European writing. By 1821 he had completed a workable system, and its rapid uptake supported correspondence, education, printing, and political life. The Cherokee Phoenix began publication in 1828. Sequoyah’s later movements also belong to a history of pressure on Indigenous lands and community displacement. His story connects invention with collective adoption, showing that a writing system gains its force through the people who choose to use it.",
+        "zh": "塞阔雅创造了以音节符号书写切罗基语的文字系统。他的成就来自持续研究、示范和切罗基社会内部的教学。即使部分符号与欧洲文字外形相似，它也不是英语拼写的变体。到1821年，他已完成可用的体系，其迅速传播支持了通信、教育、印刷与政治生活。《切罗基凤凰报》于1828年创刊。他后来的迁徙也属于原住民土地受压迫、社区被迫迁移的历史。他的故事把个人发明与集体采用联系起来：文字的力量来自选择使用它的人群。"
+      },
+      "sourceReceipt": "receipts/npg-record-2.json",
+      "sourceRecordUrl": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/npg/07.txt",
+      "originalEnglish": {
+        "date": [
+          {
+            "label": "Date",
+            "content": "1838"
+          }
+        ],
+        "name": [
+          {
+            "label": "Artist",
+            "content": "R. T."
+          },
+          {
+            "label": "Copy after",
+            "content": "Henry Inman, 28 Oct 1801 - 17 Jan 1846"
+          },
+          {
+            "label": "Copy after",
+            "content": "Charles Bird King, 26 Sep 1785 - 18 Mar 1862"
+          },
+          {
+            "label": "Lithographer",
+            "content": "J. T. Bowen Lithography Company, active 1834 - 1844?"
+          },
+          {
+            "label": "Publisher",
+            "content": "Frederick W. Greenough, active c. 1838"
+          },
+          {
+            "label": "Publication",
+            "content": "Thomas L. McKenney and James Hall's History of the Indian Tribes of North America, 3 vols., Philadelphia, 1837 - 1844"
+          },
+          {
+            "label": "Sitter",
+            "content": "Sequoyah, c. 1770 - Aug 1843"
+          }
+        ],
+        "topic": [
+          {
+            "label": "Topic",
+            "content": "Symbols & Motifs\\Medal\\Peace medal"
+          },
+          {
+            "label": "Topic",
+            "content": "Equipment\\Smoking Implements\\Pipe"
+          },
+          {
+            "label": "Topic",
+            "content": "Print"
+          },
+          {
+            "label": "Topic",
+            "content": "Costume\\Headgear\\Turban"
+          },
+          {
+            "label": "Topic",
+            "content": "Equipment\\Drafting & Writing Implements\\Writing tablet"
+          },
+          {
+            "label": "Topic",
+            "content": "Sequoyah: Male"
+          },
+          {
+            "label": "Topic",
+            "content": "Sequoyah: Education and Scholarship\\Educator"
+          },
+          {
+            "label": "Topic",
+            "content": "Sequoyah: Education and Scholarship\\Scholar\\Linguist"
+          },
+          {
+            "label": "Topic",
+            "content": "Portrait"
+          }
+        ],
+        "setName": [
+          {
+            "label": "See more items in",
+            "content": "National Portrait Gallery Collection"
+          },
+          {
+            "label": "Location",
+            "content": "Currently not on view"
+          }
+        ],
+        "creditLine": [
+          {
+            "label": "Credit Line",
+            "content": "National Portrait Gallery, Smithsonian Institution; gift of Betty A. and Lloyd G. Schermer"
+          }
+        ],
+        "dataSource": [
+          {
+            "label": "Data Source",
+            "content": "National Portrait Gallery"
+          }
+        ],
+        "identifier": [
+          {
+            "label": "Object number",
+            "content": "NPG.99.167.13"
+          }
+        ],
+        "objectType": [
+          {
+            "label": "Type",
+            "content": "Print"
+          }
+        ],
+        "objectRights": [
+          {
+            "label": "Restrictions & Rights",
+            "content": "CC0"
+          }
+        ],
+        "physicalDescription": [
+          {
+            "label": "Medium",
+            "content": "Hand-colored lithograph on paper"
+          },
+          {
+            "label": "Dimensions",
+            "content": "Image: 50.2 x 35cm (19 3/4 x 13 3/4\")"
+          }
+        ]
+      },
+      "imageRights": {
+        "access": "CC0"
+      },
+      "policyReceipt": "receipts/si-openaccess-search.json",
+      "sourceUrl": "https://npg.si.edu/object/npg_NPG.99.167.13",
+      "rightsSourceUrl": "https://www.si.edu/openaccess",
+      "rights": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "CC0 public-domain image. Credit: National Portrait Gallery, Smithsonian Institution; gift of Betty A. and Lloyd G. Schermer.",
+          "zh": "CC0公有领域图像。署名：National Portrait Gallery, Smithsonian Institution; gift of Betty A. and Lloyd G. Schermer。"
+        }
+      },
+      "receiptPaths": [
+        "research/v18/world-batch-06/americas/receipts/npg-record-2.json",
+        "research/v18/world-batch-06/americas/receipts/si-openaccess-search.json"
+      ],
+      "sourceMetadataOriginal": {
+        "date": [
+          {
+            "label": "Date",
+            "content": "1838"
+          }
+        ],
+        "name": [
+          {
+            "label": "Artist",
+            "content": "R. T."
+          },
+          {
+            "label": "Copy after",
+            "content": "Henry Inman, 28 Oct 1801 - 17 Jan 1846"
+          },
+          {
+            "label": "Copy after",
+            "content": "Charles Bird King, 26 Sep 1785 - 18 Mar 1862"
+          },
+          {
+            "label": "Lithographer",
+            "content": "J. T. Bowen Lithography Company, active 1834 - 1844?"
+          },
+          {
+            "label": "Publisher",
+            "content": "Frederick W. Greenough, active c. 1838"
+          },
+          {
+            "label": "Publication",
+            "content": "Thomas L. McKenney and James Hall's History of the Indian Tribes of North America, 3 vols., Philadelphia, 1837 - 1844"
+          },
+          {
+            "label": "Sitter",
+            "content": "Sequoyah, c. 1770 - Aug 1843"
+          }
+        ],
+        "topic": [
+          {
+            "label": "Topic",
+            "content": "Symbols & Motifs\\Medal\\Peace medal"
+          },
+          {
+            "label": "Topic",
+            "content": "Equipment\\Smoking Implements\\Pipe"
+          },
+          {
+            "label": "Topic",
+            "content": "Print"
+          },
+          {
+            "label": "Topic",
+            "content": "Costume\\Headgear\\Turban"
+          },
+          {
+            "label": "Topic",
+            "content": "Equipment\\Drafting & Writing Implements\\Writing tablet"
+          },
+          {
+            "label": "Topic",
+            "content": "Sequoyah: Male"
+          },
+          {
+            "label": "Topic",
+            "content": "Sequoyah: Education and Scholarship\\Educator"
+          },
+          {
+            "label": "Topic",
+            "content": "Sequoyah: Education and Scholarship\\Scholar\\Linguist"
+          },
+          {
+            "label": "Topic",
+            "content": "Portrait"
+          }
+        ],
+        "setName": [
+          {
+            "label": "See more items in",
+            "content": "National Portrait Gallery Collection"
+          },
+          {
+            "label": "Location",
+            "content": "Currently not on view"
+          }
+        ],
+        "creditLine": [
+          {
+            "label": "Credit Line",
+            "content": "National Portrait Gallery, Smithsonian Institution; gift of Betty A. and Lloyd G. Schermer"
+          }
+        ],
+        "dataSource": [
+          {
+            "label": "Data Source",
+            "content": "National Portrait Gallery"
+          }
+        ],
+        "identifier": [
+          {
+            "label": "Object number",
+            "content": "NPG.99.167.13"
+          }
+        ],
+        "objectType": [
+          {
+            "label": "Type",
+            "content": "Print"
+          }
+        ],
+        "objectRights": [
+          {
+            "label": "Restrictions & Rights",
+            "content": "CC0"
+          }
+        ],
+        "physicalDescription": [
+          {
+            "label": "Medium",
+            "content": "Hand-colored lithograph on paper"
+          },
+          {
+            "label": "Dimensions",
+            "content": "Image: 50.2 x 35cm (19 3/4 x 13 3/4\")"
+          }
+        ]
+      },
+      "internalRetrievalNote": "Official Smithsonian Open Access AWS record saved; explicit artwork and image CC0 checked. Official screen JPEG decoded and visually inspected.",
+      "originalRightsReviewNote": {
+        "en": "Official Smithsonian bulk record marks both objectRights and this image’s usage.access CC0. Credit: National Portrait Gallery, Smithsonian Institution; gift of Betty A. and Lloyd G. Schermer",
+        "zh": "史密森官方批量馆藏记录将作品权利及此图像的使用权均标为CC0。署名：美国国家肖像馆、史密森学会；完整入藏署名保留于英文记录。"
+      }
+    },
+    {
+      "assetId": "world-batch-06-npg-npg-2006-10",
+      "localPath": "assets/world-batch-06-npg-npg-2006-10.jpg",
+      "downloadedFrom": "https://ids.si.edu/ids/download?id=NPG-NPG_2006_10_ext_screen",
+      "sha256": "46c60f0cfdb581f808faa196afb150f80441237d060cb1201176ef40878f2138",
+      "bytes": 179006,
+      "width": 1011,
+      "height": 1200,
+      "pixelReview": "Inspected delivered JPEG: subject, composition, orientation and clarity accepted.",
+      "recordId": "person-zitkala-sa",
+      "entryTitle": {
+        "en": "Zitkála-Šá · Writing, music and Indigenous rights",
+        "zh": "齐特卡拉莎 · 写作、音乐与原住民族权利"
+      },
+      "entrySummaryReviewed": {
+        "en": "Zitkála-Šá, also known as Gertrude Simmons Bonnin, was a Yankton Dakota writer, musician, teacher and organizer. Her accounts of boarding-school experience challenged the idea that assimilation was a harmless gift of education. Literary work and music became ways to address audiences who often expected Native people to disappear into a romanticized past.\n\nShe edited American Indian Magazine and argued for cultural identity, political representation and voting rights. In 1926 she and her husband founded the National Council of American Indians. Citizenship legislation did not automatically remove state barriers to voting, so organizing continued after 1924. Her career connected artistic work to investigation of exploitation and the demand for public voice. It also shows that Indigenous activists could criticize assimilation while supporting citizenship, a position that cannot be reduced to a single opposition between tradition and modernity.",
+        "zh": "齐特卡拉莎亦名格特鲁德·西蒙斯·邦宁，是扬克顿达科塔作家、音乐家、教师与组织者。她对寄宿学校经历的叙述，挑战把同化视为无害教育恩赐的观念。文学和音乐成为面向公众发言的方式，而许多听众原本期待原住民只存在于浪漫化的过去。\n\n她编辑《美国印第安人杂志》，争取文化身份、政治代表与投票权。1926年，她与丈夫成立美国印第安人全国委员会。公民身份立法没有自动消除州一级的投票障碍，因此1924年后仍需组织行动。她的生涯把艺术、揭露剥削和公共发声相连，也表明原住民行动者可以同时批评同化、支持公民身份，不能用传统与现代的单一对立概括。"
+      },
+      "sourceReceipt": "receipts/npg-record-3.json",
+      "sourceRecordUrl": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/npg/1e.txt",
+      "originalEnglish": {
+        "date": [
+          {
+            "label": "Date",
+            "content": "1898"
+          }
+        ],
+        "name": [
+          {
+            "label": "Artist",
+            "content": "Joseph Turner Keiley, 26 Jul 1869 - 21 Jan 1914"
+          },
+          {
+            "label": "Sitter",
+            "content": "Zitkála-Šá, 22 Feb 1876 - 26 Jan 1938"
+          }
+        ],
+        "topic": [
+          {
+            "label": "Topic",
+            "content": "Costume\\Jewelry\\Necklace"
+          },
+          {
+            "label": "Topic",
+            "content": "Interior"
+          },
+          {
+            "label": "Topic",
+            "content": "Home Furnishings\\Blanket"
+          },
+          {
+            "label": "Topic",
+            "content": "Zitkála-Šá: Female"
+          },
+          {
+            "label": "Topic",
+            "content": "Zitkála-Šá: Arts and Culture\\Literature\\Writer"
+          },
+          {
+            "label": "Topic",
+            "content": "Zitkála-Šá: Social Welfare and Reform\\Reformer"
+          },
+          {
+            "label": "Topic",
+            "content": "Zitkála-Šá: Arts and Culture\\Performing Arts\\Music\\Musician\\Violinist"
+          },
+          {
+            "label": "Topic",
+            "content": "Zitkála-Šá: Social Welfare and Reform\\Reformer\\Lobbyist"
+          },
+          {
+            "label": "Topic",
+            "content": "Portrait"
+          }
+        ],
+        "setName": [
+          {
+            "label": "See more items in",
+            "content": "National Portrait Gallery Collection"
+          },
+          {
+            "label": "Location",
+            "content": "Currently not on view"
+          }
+        ],
+        "creditLine": [
+          {
+            "label": "Credit Line",
+            "content": "National Portrait Gallery, Smithsonian Institution"
+          }
+        ],
+        "dataSource": [
+          {
+            "label": "Data Source",
+            "content": "National Portrait Gallery"
+          }
+        ],
+        "identifier": [
+          {
+            "label": "Object number",
+            "content": "NPG.2006.10"
+          }
+        ],
+        "objectType": [
+          {
+            "label": "Type",
+            "content": "Photograph"
+          }
+        ],
+        "objectRights": [
+          {
+            "label": "Restrictions & Rights",
+            "content": "CC0"
+          }
+        ],
+        "physicalDescription": [
+          {
+            "label": "Medium",
+            "content": "Glycerine-developed platinum print"
+          },
+          {
+            "label": "Dimensions",
+            "content": "Image/Sheet: 12.4 x 10.3cm (4 7/8 x 4 1/16\")"
+          },
+          {
+            "label": "Dimensions",
+            "content": "Mount: 33.1 x 24.9cm (13 1/16 x 9 13/16\")"
+          },
+          {
+            "label": "Dimensions",
+            "content": "Mat: 45.7 x 35.6cm (18 x 14\")"
+          }
+        ]
+      },
+      "imageRights": {
+        "access": "CC0"
+      },
+      "policyReceipt": "receipts/si-openaccess-search.json",
+      "sourceUrl": "https://npg.si.edu/object/npg_NPG.2006.10",
+      "rightsSourceUrl": "https://www.si.edu/openaccess",
+      "rights": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "CC0 public-domain image. Credit: National Portrait Gallery, Smithsonian Institution.",
+          "zh": "CC0公有领域图像。署名：National Portrait Gallery, Smithsonian Institution。"
+        }
+      },
+      "receiptPaths": [
+        "research/v18/world-batch-06/americas/receipts/npg-record-3.json",
+        "research/v18/world-batch-06/americas/receipts/si-openaccess-search.json"
+      ],
+      "sourceMetadataOriginal": {
+        "date": [
+          {
+            "label": "Date",
+            "content": "1898"
+          }
+        ],
+        "name": [
+          {
+            "label": "Artist",
+            "content": "Joseph Turner Keiley, 26 Jul 1869 - 21 Jan 1914"
+          },
+          {
+            "label": "Sitter",
+            "content": "Zitkála-Šá, 22 Feb 1876 - 26 Jan 1938"
+          }
+        ],
+        "topic": [
+          {
+            "label": "Topic",
+            "content": "Costume\\Jewelry\\Necklace"
+          },
+          {
+            "label": "Topic",
+            "content": "Interior"
+          },
+          {
+            "label": "Topic",
+            "content": "Home Furnishings\\Blanket"
+          },
+          {
+            "label": "Topic",
+            "content": "Zitkála-Šá: Female"
+          },
+          {
+            "label": "Topic",
+            "content": "Zitkála-Šá: Arts and Culture\\Literature\\Writer"
+          },
+          {
+            "label": "Topic",
+            "content": "Zitkála-Šá: Social Welfare and Reform\\Reformer"
+          },
+          {
+            "label": "Topic",
+            "content": "Zitkála-Šá: Arts and Culture\\Performing Arts\\Music\\Musician\\Violinist"
+          },
+          {
+            "label": "Topic",
+            "content": "Zitkála-Šá: Social Welfare and Reform\\Reformer\\Lobbyist"
+          },
+          {
+            "label": "Topic",
+            "content": "Portrait"
+          }
+        ],
+        "setName": [
+          {
+            "label": "See more items in",
+            "content": "National Portrait Gallery Collection"
+          },
+          {
+            "label": "Location",
+            "content": "Currently not on view"
+          }
+        ],
+        "creditLine": [
+          {
+            "label": "Credit Line",
+            "content": "National Portrait Gallery, Smithsonian Institution"
+          }
+        ],
+        "dataSource": [
+          {
+            "label": "Data Source",
+            "content": "National Portrait Gallery"
+          }
+        ],
+        "identifier": [
+          {
+            "label": "Object number",
+            "content": "NPG.2006.10"
+          }
+        ],
+        "objectType": [
+          {
+            "label": "Type",
+            "content": "Photograph"
+          }
+        ],
+        "objectRights": [
+          {
+            "label": "Restrictions & Rights",
+            "content": "CC0"
+          }
+        ],
+        "physicalDescription": [
+          {
+            "label": "Medium",
+            "content": "Glycerine-developed platinum print"
+          },
+          {
+            "label": "Dimensions",
+            "content": "Image/Sheet: 12.4 x 10.3cm (4 7/8 x 4 1/16\")"
+          },
+          {
+            "label": "Dimensions",
+            "content": "Mount: 33.1 x 24.9cm (13 1/16 x 9 13/16\")"
+          },
+          {
+            "label": "Dimensions",
+            "content": "Mat: 45.7 x 35.6cm (18 x 14\")"
+          }
+        ]
+      },
+      "internalRetrievalNote": "Official Smithsonian Open Access AWS record saved; explicit artwork and image CC0 checked. Official screen JPEG decoded and visually inspected.",
+      "originalRightsReviewNote": {
+        "en": "Official Smithsonian bulk record marks both objectRights and this image’s usage.access CC0. Credit: National Portrait Gallery, Smithsonian Institution",
+        "zh": "史密森官方批量馆藏记录将作品权利及此图像的使用权均标为CC0。署名：美国国家肖像馆、史密森学会；完整入藏署名保留于英文记录。"
+      }
+    },
+    {
+      "assetId": "world-batch-06-npg-npg-2015-136",
+      "localPath": "assets/world-batch-06-npg-npg-2015-136.jpg",
+      "downloadedFrom": "https://ids.si.edu/ids/download?id=NPG-NPG_2015_136_screen",
+      "sha256": "d703c12e4b55f4393143f4f511204da07f0a04b4afc9210188c7e3f02ed81477",
+      "bytes": 173384,
+      "width": 963,
+      "height": 1199,
+      "pixelReview": "Inspected delivered JPEG: subject, composition, orientation and clarity accepted.",
+      "recordId": "person-frida-kahlo",
+      "entryTitle": {
+        "en": "Frida Kahlo · Painting body, identity and Mexico",
+        "zh": "弗里达·卡洛 · 绘写身体、身份与墨西哥"
+      },
+      "entrySummaryReviewed": {
+        "en": "Frida Kahlo made paintings that joined bodily experience, personal relationships and Mexican cultural forms. Her self-portraits cannot be separated from disability and pain, but they were also deliberate artistic constructions rather than medical records. Clothing, jewelry, plants and objects helped her present identities in conversation with post-revolutionary Mexico and international artistic networks.\n\nThe Casa Azul and surviving personal belongings offer evidence alongside the paintings. Medical devices could be decorated, and garments could both support or conceal a body and communicate cultural choices. Later exhibitions have examined these materials rather than treating her image only as a commercial icon. Kahlo’s career included teaching and exhibitions as well as life with Diego Rivera. Her history connects the making of art to gender, embodiment and political culture without making every painted symbol a literal statement about one event in her biography.",
+        "zh": "弗里达·卡洛的绘画把身体经历、私人关系与墨西哥文化形式结合。自画像离不开残疾与疼痛，却也是有意构造的艺术，而非病历。衣饰、植物与物品，帮助她在革命后墨西哥及国际艺术网络中呈现身份。\n\n蓝屋和保存的私人物品，为绘画之外提供证据。医疗支具可以被装饰，服装既可支撑或遮掩身体，也能表达文化选择。后来的展览研究这些材料，而非只把她的形象当作商业符号。卡洛的生涯包含教学与展览，也包含同迭戈·里韦拉的生活。她的历史把艺术创作同性别、身体和政治文化相连，不能把每个绘画符号都当作某次生平事件的字面陈述。"
+      },
+      "sourceReceipt": "receipts/npg-record-6.json",
+      "sourceRecordUrl": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/npg/2e.txt",
+      "originalEnglish": {
+        "date": [
+          {
+            "label": "Date",
+            "content": "1933"
+          }
+        ],
+        "name": [
+          {
+            "label": "Artist",
+            "content": "Magda Pach, 1884 - 1950"
+          },
+          {
+            "label": "Sitter",
+            "content": "Frida Kahlo, 6 Jul 1907 - 13 Jul 1954"
+          }
+        ],
+        "notes": [
+          {
+            "label": "Provenance",
+            "content": "Magda Pach, New York; Walter Pach, New York (by descent), 1950; Nikifora Iliopoulos, Athens; Francis M. Naumann Fine Art, New York."
+          }
+        ],
+        "place": [
+          {
+            "label": "Place",
+            "content": "United States\\New York state"
+          }
+        ],
+        "topic": [
+          {
+            "label": "Topic",
+            "content": "Costume\\Jewelry\\Necklace"
+          },
+          {
+            "label": "Topic",
+            "content": "Costume\\Jewelry\\Earring"
+          },
+          {
+            "label": "Topic",
+            "content": "Interior"
+          },
+          {
+            "label": "Topic",
+            "content": "Frida Kahlo: Arts and Culture\\Visual Arts\\Artist"
+          },
+          {
+            "label": "Topic",
+            "content": "Frida Kahlo: Female"
+          },
+          {
+            "label": "Topic",
+            "content": "Portrait"
+          }
+        ],
+        "setName": [
+          {
+            "label": "See more items in",
+            "content": "National Portrait Gallery Collection"
+          },
+          {
+            "label": "Location",
+            "content": "Currently not on view"
+          }
+        ],
+        "creditLine": [
+          {
+            "label": "Credit Line",
+            "content": "National Portrait Gallery, Smithsonian Institution"
+          }
+        ],
+        "dataSource": [
+          {
+            "label": "Data Source",
+            "content": "National Portrait Gallery"
+          }
+        ],
+        "identifier": [
+          {
+            "label": "Object number",
+            "content": "NPG.2015.136"
+          }
+        ],
+        "objectType": [
+          {
+            "label": "Type",
+            "content": "Painting"
+          }
+        ],
+        "objectRights": [
+          {
+            "label": "Restrictions & Rights",
+            "content": "CC0"
+          }
+        ],
+        "physicalDescription": [
+          {
+            "label": "Medium",
+            "content": "Oil on canvas"
+          },
+          {
+            "label": "Dimensions",
+            "content": "Frame: 67.2 × 57 × 4.1cm (26 7/16 × 22 7/16 × 1 5/8\")"
+          },
+          {
+            "label": "Dimensions",
+            "content": "Stretcher: 51.1 × 41cm (20 1/8 × 16 1/8\")"
+          }
+        ]
+      },
+      "imageRights": {
+        "access": "CC0"
+      },
+      "policyReceipt": "receipts/si-openaccess-search.json",
+      "sourceUrl": "https://npg.si.edu/object/npg_NPG.2015.136",
+      "rightsSourceUrl": "https://www.si.edu/openaccess",
+      "rights": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "CC0 public-domain image. Credit: National Portrait Gallery, Smithsonian Institution.",
+          "zh": "CC0公有领域图像。署名：National Portrait Gallery, Smithsonian Institution。"
+        }
+      },
+      "receiptPaths": [
+        "research/v18/world-batch-06/americas/receipts/npg-record-6.json",
+        "research/v18/world-batch-06/americas/receipts/si-openaccess-search.json"
+      ],
+      "sourceMetadataOriginal": {
+        "date": [
+          {
+            "label": "Date",
+            "content": "1933"
+          }
+        ],
+        "name": [
+          {
+            "label": "Artist",
+            "content": "Magda Pach, 1884 - 1950"
+          },
+          {
+            "label": "Sitter",
+            "content": "Frida Kahlo, 6 Jul 1907 - 13 Jul 1954"
+          }
+        ],
+        "notes": [
+          {
+            "label": "Provenance",
+            "content": "Magda Pach, New York; Walter Pach, New York (by descent), 1950; Nikifora Iliopoulos, Athens; Francis M. Naumann Fine Art, New York."
+          }
+        ],
+        "place": [
+          {
+            "label": "Place",
+            "content": "United States\\New York state"
+          }
+        ],
+        "topic": [
+          {
+            "label": "Topic",
+            "content": "Costume\\Jewelry\\Necklace"
+          },
+          {
+            "label": "Topic",
+            "content": "Costume\\Jewelry\\Earring"
+          },
+          {
+            "label": "Topic",
+            "content": "Interior"
+          },
+          {
+            "label": "Topic",
+            "content": "Frida Kahlo: Arts and Culture\\Visual Arts\\Artist"
+          },
+          {
+            "label": "Topic",
+            "content": "Frida Kahlo: Female"
+          },
+          {
+            "label": "Topic",
+            "content": "Portrait"
+          }
+        ],
+        "setName": [
+          {
+            "label": "See more items in",
+            "content": "National Portrait Gallery Collection"
+          },
+          {
+            "label": "Location",
+            "content": "Currently not on view"
+          }
+        ],
+        "creditLine": [
+          {
+            "label": "Credit Line",
+            "content": "National Portrait Gallery, Smithsonian Institution"
+          }
+        ],
+        "dataSource": [
+          {
+            "label": "Data Source",
+            "content": "National Portrait Gallery"
+          }
+        ],
+        "identifier": [
+          {
+            "label": "Object number",
+            "content": "NPG.2015.136"
+          }
+        ],
+        "objectType": [
+          {
+            "label": "Type",
+            "content": "Painting"
+          }
+        ],
+        "objectRights": [
+          {
+            "label": "Restrictions & Rights",
+            "content": "CC0"
+          }
+        ],
+        "physicalDescription": [
+          {
+            "label": "Medium",
+            "content": "Oil on canvas"
+          },
+          {
+            "label": "Dimensions",
+            "content": "Frame: 67.2 × 57 × 4.1cm (26 7/16 × 22 7/16 × 1 5/8\")"
+          },
+          {
+            "label": "Dimensions",
+            "content": "Stretcher: 51.1 × 41cm (20 1/8 × 16 1/8\")"
+          }
+        ]
+      },
+      "internalRetrievalNote": "Official Smithsonian Open Access AWS record saved; explicit artwork and image CC0 checked. Official screen JPEG decoded and visually inspected.",
+      "originalRightsReviewNote": {
+        "en": "Official Smithsonian bulk record marks both objectRights and this image’s usage.access CC0. Credit: National Portrait Gallery, Smithsonian Institution",
+        "zh": "史密森官方批量馆藏记录将作品权利及此图像的使用权均标为CC0。署名：美国国家肖像馆、史密森学会；完整入藏署名保留于英文记录。"
+      }
+    },
+    {
+      "assetId": "world-batch-06-npg-npg-2024-196",
+      "localPath": "assets/world-batch-06-npg-npg-2024-196.jpg",
+      "downloadedFrom": "https://ids.si.edu/ids/download?id=NPG-NPG_2024_196_fp_ext_screen",
+      "sha256": "b31ef23a1f4f654114365c100ef226b6b5c358bb365afb7443f6743ad5232f47",
+      "bytes": 66277,
+      "width": 723,
+      "height": 1200,
+      "pixelReview": "Inspected delivered JPEG: subject, composition, orientation and clarity accepted.",
+      "recordId": "person-susie-king-taylor",
+      "entryTitle": {
+        "en": "Susie King Taylor · Literacy, care and the unfinished meaning of freedom",
+        "zh": "苏茜·金·泰勒 · 识字、照护与未竟的自由"
+      },
+      "entrySummaryReviewed": {
+        "en": "Susie Baker, later King Taylor, was born enslaved in Georgia in 1848. Her 1902 memoir recalls a grandmother who arranged learning in Savannah, Black women teachers working secretly, and additional lessons from white young people. Literacy depended on that network of care and risk; it was not a gift first acquired from the Union army.\n\nIn 1862 she reached Union protection with relatives and taught children and adults on St. Simons Island. She then lived and worked with the regiment known first as the 1st South Carolina Volunteers and later as the 33rd United States Colored Troops. Cooking, laundry, nursing and instruction were overlapping forms of labour. Her marriage to Edward King tied family life to the same military community. She recalled giving care without wages; this is her testimony, not evidence of an official army nurse’s appointment or pension.\n\nAt Camp Saxton she witnessed the January 1863 emancipation celebration. In her account, reading the proclamation, presenting flags and sharing food made freedom a collective public event. The proclamation did not explain or complete every person’s journey out of slavery.\n\nAfter the regiment’s 1866 muster-out, she returned to Savannah and attempted fee-supported teaching. Widowhood, a child to support and competition from free schooling shaped later decisions. Her memoir describes further teaching and domestic work, a return to Boston in 1874, and organizing a Women’s Relief Corps branch in 1886. The Corps was an auxiliary supporting Union veterans, not a body composed simply of female veterans.\n\nPublishing her memoir in 1902 gave these experiences a durable public voice. She coupled memories of wartime cooperation with a sharp criticism of racial violence and unequal protection after emancipation. Remembering her as a nurse alone obscures the teacher, wage worker, organizer and author who asked what freedom actually meant.",
+        "zh": "苏茜·贝克，后来名为金·泰勒，1848年生于佐治亚，出生时遭受奴役。她的1902年回忆录记述，祖母在萨凡纳安排学习，黑人女教师秘密授课，另有白人年轻人提供补充课程。识字依靠这种承担风险的照护网络，并不是加入联邦军后才得到的礼物。\n\n1862年，她与亲属进入联邦军保护区域，在圣西蒙斯岛教授儿童与成人。随后与起初称南卡罗来纳第一志愿团、后来称美国有色人种部队第三十三团的部队共同生活劳动。烹饪、洗衣、护理与教学彼此交织；与爱德华·金的婚姻也把家庭生活连入军营社群。她回忆照护工作没有工资；这是本人证言，并不证明正式军队护士任命或退休金资格。\n\n在萨克斯顿营地，她见证1863年1月的解放庆典。在其叙述中，宣读公告、授旗与共同进餐，使自由成为集体公共事件。《解放宣言》并不解释或完成每个人摆脱奴役的全部过程。\n\n1866年部队退役后，她返回萨凡纳，尝试收费教学。丧偶、抚养孩子及免费学校的竞争，影响之后的选择。回忆录记述继续教学与家务雇佣劳动、1874年返回波士顿，以及1886年组织妇女救济团分会。该团是支持联邦退伍军人的辅助组织，并非单纯由女性退伍军人组成。\n\n1902年出版回忆录，为这些经历留下持久公共声音。她把战时合作记忆，与解放后种族暴力及法律保护不平等的尖锐批评并置。若只把她记为护士，就会遮蔽那位教师、受雇劳动者、组织者及追问自由实际含义的作者。"
+      },
+      "sourceReceipt": "receipts/npg-record-10.json",
+      "sourceRecordUrl": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/npg/61.txt",
+      "originalEnglish": {
+        "date": [
+          {
+            "label": "Date",
+            "content": "1902"
+          }
+        ],
+        "name": [
+          {
+            "label": "Artist",
+            "content": "Unidentified Artist"
+          },
+          {
+            "label": "Sitter",
+            "content": "Susie King Taylor, 6 Aug 1848 - 6 Oct 1912"
+          }
+        ],
+        "topic": [
+          {
+            "label": "Topic",
+            "content": "Costume\\Jewelry\\Earring"
+          },
+          {
+            "label": "Topic",
+            "content": "Costume\\Headgear\\Veil"
+          },
+          {
+            "label": "Topic",
+            "content": "Book"
+          },
+          {
+            "label": "Topic",
+            "content": "Costume\\Outerwear\\Coat\\Jacket"
+          },
+          {
+            "label": "Topic",
+            "content": "Book\\Frontispiece"
+          },
+          {
+            "label": "Topic",
+            "content": "Susie King Taylor: Female"
+          },
+          {
+            "label": "Topic",
+            "content": "Susie King Taylor: Arts and Culture\\Literature\\Writer"
+          },
+          {
+            "label": "Topic",
+            "content": "Susie King Taylor: Education and Scholarship\\Educator"
+          },
+          {
+            "label": "Topic",
+            "content": "Susie King Taylor: Social Welfare and Reform\\Reformer\\Social reformer\\Civil rights activist"
+          },
+          {
+            "label": "Topic",
+            "content": "Susie King Taylor: Medicine and Health\\Nurse"
+          },
+          {
+            "label": "Topic",
+            "content": "Portrait"
+          }
+        ],
+        "setName": [
+          {
+            "label": "See more items in",
+            "content": "National Portrait Gallery Collection"
+          },
+          {
+            "label": "Location",
+            "content": "Currently not on view"
+          }
+        ],
+        "creditLine": [
+          {
+            "label": "Credit Line",
+            "content": "National Portrait Gallery, Smithsonian Institution"
+          }
+        ],
+        "dataSource": [
+          {
+            "label": "Data Source",
+            "content": "National Portrait Gallery"
+          }
+        ],
+        "identifier": [
+          {
+            "label": "Object number",
+            "content": "NPG.2024.196"
+          }
+        ],
+        "objectType": [
+          {
+            "label": "Type",
+            "content": "Book"
+          }
+        ],
+        "objectRights": [
+          {
+            "label": "Restrictions & Rights",
+            "content": "CC0"
+          }
+        ],
+        "physicalDescription": [
+          {
+            "label": "Medium",
+            "content": "Book with engraved frontispiece"
+          },
+          {
+            "label": "Dimensions",
+            "content": "Book closed: 19.1 × 13 × 1.6 cm (7 1/2 × 5 1/8 × 5/8\")"
+          }
+        ]
+      },
+      "imageRights": {
+        "access": "CC0"
+      },
+      "policyReceipt": "receipts/si-openaccess-search.json",
+      "sourceUrl": "https://npg.si.edu/object/npg_NPG.2024.196",
+      "rightsSourceUrl": "https://www.si.edu/openaccess",
+      "rights": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "CC0 public-domain image. Credit: National Portrait Gallery, Smithsonian Institution.",
+          "zh": "CC0公有领域图像。署名：National Portrait Gallery, Smithsonian Institution。"
+        }
+      },
+      "receiptPaths": [
+        "research/v18/world-batch-06/americas/receipts/npg-record-10.json",
+        "research/v18/world-batch-06/americas/receipts/si-openaccess-search.json"
+      ],
+      "sourceMetadataOriginal": {
+        "date": [
+          {
+            "label": "Date",
+            "content": "1902"
+          }
+        ],
+        "name": [
+          {
+            "label": "Artist",
+            "content": "Unidentified Artist"
+          },
+          {
+            "label": "Sitter",
+            "content": "Susie King Taylor, 6 Aug 1848 - 6 Oct 1912"
+          }
+        ],
+        "topic": [
+          {
+            "label": "Topic",
+            "content": "Costume\\Jewelry\\Earring"
+          },
+          {
+            "label": "Topic",
+            "content": "Costume\\Headgear\\Veil"
+          },
+          {
+            "label": "Topic",
+            "content": "Book"
+          },
+          {
+            "label": "Topic",
+            "content": "Costume\\Outerwear\\Coat\\Jacket"
+          },
+          {
+            "label": "Topic",
+            "content": "Book\\Frontispiece"
+          },
+          {
+            "label": "Topic",
+            "content": "Susie King Taylor: Female"
+          },
+          {
+            "label": "Topic",
+            "content": "Susie King Taylor: Arts and Culture\\Literature\\Writer"
+          },
+          {
+            "label": "Topic",
+            "content": "Susie King Taylor: Education and Scholarship\\Educator"
+          },
+          {
+            "label": "Topic",
+            "content": "Susie King Taylor: Social Welfare and Reform\\Reformer\\Social reformer\\Civil rights activist"
+          },
+          {
+            "label": "Topic",
+            "content": "Susie King Taylor: Medicine and Health\\Nurse"
+          },
+          {
+            "label": "Topic",
+            "content": "Portrait"
+          }
+        ],
+        "setName": [
+          {
+            "label": "See more items in",
+            "content": "National Portrait Gallery Collection"
+          },
+          {
+            "label": "Location",
+            "content": "Currently not on view"
+          }
+        ],
+        "creditLine": [
+          {
+            "label": "Credit Line",
+            "content": "National Portrait Gallery, Smithsonian Institution"
+          }
+        ],
+        "dataSource": [
+          {
+            "label": "Data Source",
+            "content": "National Portrait Gallery"
+          }
+        ],
+        "identifier": [
+          {
+            "label": "Object number",
+            "content": "NPG.2024.196"
+          }
+        ],
+        "objectType": [
+          {
+            "label": "Type",
+            "content": "Book"
+          }
+        ],
+        "objectRights": [
+          {
+            "label": "Restrictions & Rights",
+            "content": "CC0"
+          }
+        ],
+        "physicalDescription": [
+          {
+            "label": "Medium",
+            "content": "Book with engraved frontispiece"
+          },
+          {
+            "label": "Dimensions",
+            "content": "Book closed: 19.1 × 13 × 1.6 cm (7 1/2 × 5 1/8 × 5/8\")"
+          }
+        ]
+      },
+      "internalRetrievalNote": "Official Smithsonian Open Access AWS record saved; explicit artwork and image CC0 checked. Official screen JPEG decoded and visually inspected.",
+      "originalRightsReviewNote": {
+        "en": "Official Smithsonian bulk record marks both objectRights and this image’s usage.access CC0. Credit: National Portrait Gallery, Smithsonian Institution",
+        "zh": "史密森官方批量馆藏记录将作品权利及此图像的使用权均标为CC0。署名：美国国家肖像馆、史密森学会；完整入藏署名保留于英文记录。"
+      }
+    },
+    {
+      "assetId": "world-batch-06-npg-npg-82-137",
+      "localPath": "assets/world-batch-06-npg-npg-82-137.jpg",
+      "downloadedFrom": "https://ids.si.edu/ids/download?id=NPG-NPG_82_137_inex-000001_screen",
+      "sha256": "b2779508e8ea3d8ee36ced726e5867a9c20f7e1ed678bfe3edbb855f64e1617e",
+      "bytes": 101751,
+      "width": 609,
+      "height": 1200,
+      "pixelReview": "Inspected delivered JPEG: subject, composition, orientation and clarity accepted.",
+      "recordId": "person-sarah-winnemucca",
+      "entryTitle": {
+        "en": "Sarah Winnemucca · Testimony against dispossession",
+        "zh": "莎拉·温尼马卡 · 以证词反对土地剥夺"
+      },
+      "entrySummaryReviewed": {
+        "en": "Sarah Winnemucca, known to her family as Thocmetony, grew up as settler migration and mining transformed Northern Paiute homelands. Born about 1844 in present-day Nevada, she became an interpreter, teacher and public advocate. These roles placed her between communities facing very unequal power. Her work for the U.S. Army did not mean acceptance of the violence, broken promises and corrupt administration that she described.\n\nAfter the 1878 conflict and the forced removal of Paiutes from the Malheur Reservation to Yakama, she sought the return of displaced people and the reunion of families. At Vancouver Barracks she also advocated for Shoshone and Bannock prisoners. Her March 1881 letter asked that they be allowed to remain with land, work and housing under military protection. This was a particular strategy for survival, distinct from the demand to restore displaced Paiutes to Malheur.\n\nHer book Life Among the Piutes: Their Wrongs and Claims appeared in 1883. It combined personal experience, political argument and a petition that readers could circulate. Mary Mann helped edit the book, reminding readers that the published testimony also passed through a particular reform network. A petition received by Congress in January 1884 demanded restoration to Malheur and described the enduring pain of separated families.\n\nWinnemucca died in 1891. Her career shows how an Indigenous woman used translation, performance and print to contest removal. Her account is a historically situated voice with its own strategies and judgments, not a substitute for every Paiute community’s experience.",
+        "zh": "莎拉·温尼马卡在家人之间被称为托克梅托尼。她成长之际，移民和矿业正在改变北派尤特人的家园。她约于1844年出生于今内华达州，后来成为翻译、教师和公共倡议者。这些身份使她处在权力极不对等的群体之间。她为美国军队工作，并不意味着认同她所揭露的暴力、失信与行政腐败。\n\n1878年冲突后，派尤特人被从马尔赫尔保留地强迁到雅卡马。她为流离失所者返回家园和家庭团聚奔走，她还在温哥华军营为被拘留的肖肖尼人与班诺克人争取权利。1881年3月的信要求允许这些人留在那里，在军方保护下获得土地、工作与住房。这是特定的生存策略，应同要求被迁离的派尤特人返回马尔赫尔相区别。\n\n1883年，她出版《派尤特人的生活：他们所受的不公与诉求》，把个人经历、政治论证和读者可以传递的请愿书结合起来。玛丽·曼协助编辑，说明这份公开证词也经过特定改革网络的传播。国会于1884年1月收到的请愿书要求恢复马尔赫尔家园，描述家庭长期分离的痛苦。\n\n温尼马卡于1891年去世。她以翻译、演讲和出版反对强迁，展现原住民女性运用多种渠道争取权利的实践。她的叙述有特定历史位置、策略与判断，不能代替每个派尤特社区的全部经验。"
+      },
+      "sourceReceipt": "receipts/npg-record-12.json",
+      "sourceRecordUrl": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/npg/84.txt",
+      "originalEnglish": {
+        "date": [
+          {
+            "label": "Date",
+            "content": "1883"
+          }
+        ],
+        "name": [
+          {
+            "label": "Artist",
+            "content": "Norval Hamilton Busey, 28 Dec 1845 - 20 May 1928"
+          },
+          {
+            "label": "Sitter",
+            "content": "Sarah Winnemucca, c. 1844 - 16 Oct 1891"
+          }
+        ],
+        "place": [
+          {
+            "label": "Place",
+            "content": "United States\\Maryland\\Baltimore Independent City\\Baltimore"
+          }
+        ],
+        "topic": [
+          {
+            "label": "Topic",
+            "content": "Costume\\Headgear\\Headdress"
+          },
+          {
+            "label": "Topic",
+            "content": "Costume\\Jewelry\\Earring"
+          },
+          {
+            "label": "Topic",
+            "content": "Costume\\Jewelry\\Ring"
+          },
+          {
+            "label": "Topic",
+            "content": "Costume\\Jewelry\\Necklace\\Bead"
+          },
+          {
+            "label": "Topic",
+            "content": "Baggage & Luggage\\Bag"
+          },
+          {
+            "label": "Topic",
+            "content": "Interior\\Studio\\Photography"
+          },
+          {
+            "label": "Topic",
+            "content": "Costume\\Footwear\\Shoes\\Moccasins"
+          },
+          {
+            "label": "Topic",
+            "content": "Sarah Winnemucca: Female"
+          },
+          {
+            "label": "Topic",
+            "content": "Sarah Winnemucca: Arts and Culture\\Literature\\Writer"
+          },
+          {
+            "label": "Topic",
+            "content": "Sarah Winnemucca: Education and Scholarship\\Educator\\Teacher"
+          },
+          {
+            "label": "Topic",
+            "content": "Sarah Winnemucca: Education and Scholarship\\Scholar\\Translator"
+          },
+          {
+            "label": "Topic",
+            "content": "Sarah Winnemucca: Business and Finance\\Natural resources commerce\\Guide"
+          },
+          {
+            "label": "Topic",
+            "content": "Sarah Winnemucca: Politics and Government\\Native American leader"
+          },
+          {
+            "label": "Topic",
+            "content": "Portrait"
+          }
+        ],
+        "setName": [
+          {
+            "label": "See more items in",
+            "content": "National Portrait Gallery Collection"
+          },
+          {
+            "label": "Location",
+            "content": "Currently not on view"
+          }
+        ],
+        "creditLine": [
+          {
+            "label": "Credit Line",
+            "content": "National Portrait Gallery, Smithsonian Institution"
+          }
+        ],
+        "dataSource": [
+          {
+            "label": "Data Source",
+            "content": "National Portrait Gallery"
+          }
+        ],
+        "identifier": [
+          {
+            "label": "Object number",
+            "content": "NPG.82.137"
+          }
+        ],
+        "objectType": [
+          {
+            "label": "Type",
+            "content": "Photographic Negative"
+          }
+        ],
+        "objectRights": [
+          {
+            "label": "Restrictions & Rights",
+            "content": "CC0"
+          }
+        ],
+        "physicalDescription": [
+          {
+            "label": "Medium",
+            "content": "Albumen silver print"
+          },
+          {
+            "label": "Dimensions",
+            "content": "Image/Sheet: 17.8 × 10.2 cm (7 × 4\")"
+          },
+          {
+            "label": "Dimensions",
+            "content": "Mount: 21 × 10.2 cm (8 1/4 × 4\")"
+          },
+          {
+            "label": "Dimensions",
+            "content": "Mat: 45.7 × 35.6 cm (18 × 14\")"
+          }
+        ]
+      },
+      "imageRights": {
+        "access": "CC0"
+      },
+      "policyReceipt": "receipts/si-openaccess-search.json",
+      "sourceUrl": "https://npg.si.edu/object/npg_NPG.82.137",
+      "rightsSourceUrl": "https://www.si.edu/openaccess",
+      "rights": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "CC0 public-domain image. Credit: National Portrait Gallery, Smithsonian Institution.",
+          "zh": "CC0公有领域图像。署名：National Portrait Gallery, Smithsonian Institution。"
+        }
+      },
+      "receiptPaths": [
+        "research/v18/world-batch-06/americas/receipts/npg-record-12.json",
+        "research/v18/world-batch-06/americas/receipts/si-openaccess-search.json"
+      ],
+      "sourceMetadataOriginal": {
+        "date": [
+          {
+            "label": "Date",
+            "content": "1883"
+          }
+        ],
+        "name": [
+          {
+            "label": "Artist",
+            "content": "Norval Hamilton Busey, 28 Dec 1845 - 20 May 1928"
+          },
+          {
+            "label": "Sitter",
+            "content": "Sarah Winnemucca, c. 1844 - 16 Oct 1891"
+          }
+        ],
+        "place": [
+          {
+            "label": "Place",
+            "content": "United States\\Maryland\\Baltimore Independent City\\Baltimore"
+          }
+        ],
+        "topic": [
+          {
+            "label": "Topic",
+            "content": "Costume\\Headgear\\Headdress"
+          },
+          {
+            "label": "Topic",
+            "content": "Costume\\Jewelry\\Earring"
+          },
+          {
+            "label": "Topic",
+            "content": "Costume\\Jewelry\\Ring"
+          },
+          {
+            "label": "Topic",
+            "content": "Costume\\Jewelry\\Necklace\\Bead"
+          },
+          {
+            "label": "Topic",
+            "content": "Baggage & Luggage\\Bag"
+          },
+          {
+            "label": "Topic",
+            "content": "Interior\\Studio\\Photography"
+          },
+          {
+            "label": "Topic",
+            "content": "Costume\\Footwear\\Shoes\\Moccasins"
+          },
+          {
+            "label": "Topic",
+            "content": "Sarah Winnemucca: Female"
+          },
+          {
+            "label": "Topic",
+            "content": "Sarah Winnemucca: Arts and Culture\\Literature\\Writer"
+          },
+          {
+            "label": "Topic",
+            "content": "Sarah Winnemucca: Education and Scholarship\\Educator\\Teacher"
+          },
+          {
+            "label": "Topic",
+            "content": "Sarah Winnemucca: Education and Scholarship\\Scholar\\Translator"
+          },
+          {
+            "label": "Topic",
+            "content": "Sarah Winnemucca: Business and Finance\\Natural resources commerce\\Guide"
+          },
+          {
+            "label": "Topic",
+            "content": "Sarah Winnemucca: Politics and Government\\Native American leader"
+          },
+          {
+            "label": "Topic",
+            "content": "Portrait"
+          }
+        ],
+        "setName": [
+          {
+            "label": "See more items in",
+            "content": "National Portrait Gallery Collection"
+          },
+          {
+            "label": "Location",
+            "content": "Currently not on view"
+          }
+        ],
+        "creditLine": [
+          {
+            "label": "Credit Line",
+            "content": "National Portrait Gallery, Smithsonian Institution"
+          }
+        ],
+        "dataSource": [
+          {
+            "label": "Data Source",
+            "content": "National Portrait Gallery"
+          }
+        ],
+        "identifier": [
+          {
+            "label": "Object number",
+            "content": "NPG.82.137"
+          }
+        ],
+        "objectType": [
+          {
+            "label": "Type",
+            "content": "Photographic Negative"
+          }
+        ],
+        "objectRights": [
+          {
+            "label": "Restrictions & Rights",
+            "content": "CC0"
+          }
+        ],
+        "physicalDescription": [
+          {
+            "label": "Medium",
+            "content": "Albumen silver print"
+          },
+          {
+            "label": "Dimensions",
+            "content": "Image/Sheet: 17.8 × 10.2 cm (7 × 4\")"
+          },
+          {
+            "label": "Dimensions",
+            "content": "Mount: 21 × 10.2 cm (8 1/4 × 4\")"
+          },
+          {
+            "label": "Dimensions",
+            "content": "Mat: 45.7 × 35.6 cm (18 × 14\")"
+          }
+        ]
+      },
+      "internalRetrievalNote": "Official Smithsonian Open Access AWS record saved; explicit artwork and image CC0 checked. Official screen JPEG decoded and visually inspected.",
+      "originalRightsReviewNote": {
+        "en": "Official Smithsonian bulk record marks both objectRights and this image’s usage.access CC0. Credit: National Portrait Gallery, Smithsonian Institution",
+        "zh": "史密森官方批量馆藏记录将作品权利及此图像的使用权均标为CC0。署名：美国国家肖像馆、史密森学会；完整入藏署名保留于英文记录。"
+      }
+    },
+    {
+      "assetId": "world-batch-06-npg-npg-92-156",
+      "localPath": "assets/world-batch-06-npg-npg-92-156.jpg",
+      "downloadedFrom": "https://ids.si.edu/ids/download?id=NPG-NPG_92_156Carver_int-000001_screen",
+      "sha256": "4168f68fdadc90477a9ed6bfe10a28a7e2268de248f7a44ec8aae13756aaa479",
+      "bytes": 228102,
+      "width": 867,
+      "height": 1200,
+      "pixelReview": "Inspected delivered JPEG: subject, composition, orientation and clarity accepted.",
+      "recordId": "person-george-washington-carver",
+      "entryTitle": {
+        "en": "George Washington Carver · Scientific inquiry in service of farm households",
+        "zh": "乔治·华盛顿·卡弗 · 服务农户的科学探究"
+      },
+      "entrySummaryReviewed": {
+        "en": "George Washington Carver’s scientific career followed a long search for education under racial exclusion. Born enslaved in Missouri near the end of the Civil War, he later recalled an early fascination with plants, rocks, music and painting. His birth chronology and some childhood details remain uncertain. Moving among schools and jobs required practical support from families, teachers and other people, as well as his own persistence; acceptance by one institution did not guarantee admission to another.\n\nIn 1890 he studied art and piano at Simpson College in Iowa. His teacher Etta Budd encouraged him to develop his interest in plants through botany. He entered Iowa State Agricultural College in 1891 and earned a master’s degree in 1896. In the same year, he accepted Booker T. Washington’s invitation to lead agricultural work at Tuskegee in Alabama. Teaching and agricultural research became parts of a career lasting until his death in 1943.\n\nCarver sought practical changes for farmers constrained by poverty and cotton-exhausted land. He taught crop rotation and alternative crops, issued accessible agricultural bulletins, and linked cultivation with livestock care, food preservation and household nutrition. In 1906 he designed a demonstration wagon to bring instruction beyond the campus. Science here involved communication and adaptation to the resources people actually possessed, not only laboratory products.\n\nLater fame often reduced him to peanut inventions or an uncomplicated story of individual triumph. His life also illuminates the institutions, mentors and farm communities through which knowledge travelled. The intended value of his teaching is well documented; its effects on every farmer’s income or living conditions are not established by a commemorative biography.",
+        "zh": "乔治·华盛顿·卡弗的科学事业，承接了种族排斥下长期追求教育的经历。他在美国内战末期前后生于密苏里，出生时遭受奴役，后来回忆自己早年对植物、岩石、音乐与绘画的兴趣。其出生年表与部分童年细节仍不确定。在学校和工作之间辗转，既依靠个人坚持，也需要家庭、教师及他人的实际支持；被一所机构接纳，并不保证另一所也会录取。\n\n1890年，他在艾奥瓦的辛普森学院学习艺术与钢琴。教师埃塔·巴德鼓励他通过植物学发展对植物的兴趣。1891年进入艾奥瓦州立农业学院，1896年获得硕士学位。同年，他接受布克·T.华盛顿的邀请，赴阿拉巴马的塔斯基吉主持农业工作。教学与农业研究成为长期事业，直至1943年去世。\n\n卡弗试图为受贫困及长期种棉造成的土地耗竭约束的农户提供实用改变。他教授轮作和替代作物，发行易懂的农业资料，并把种植与牲畜照料、食物保存及家庭营养联系起来。1906年，他设计示范车，把教学带到校园之外。这里的科学不仅是实验室产品，也涉及沟通，以及适应农户实际拥有的资源。\n\n后来的名声常把他简化为花生发明者，或毫无曲折的个人奋斗故事。其生涯也揭示知识传播所依靠的机构、导师与农民社群。教学的服务意图有充分记载，但纪念性传记并不证明每位农户的收入或生活条件均得到改善。"
+      },
+      "sourceReceipt": "receipts/npg-record-16.json",
+      "sourceRecordUrl": "https://smithsonian-open-access.s3-us-west-2.amazonaws.com/metadata/edan/npg/a5.txt",
+      "originalEnglish": {
+        "date": [
+          {
+            "label": "Date",
+            "content": "c. 1900"
+          }
+        ],
+        "name": [
+          {
+            "label": "Artist",
+            "content": "Clifton Johnson, 1865 - 1940"
+          },
+          {
+            "label": "Sitter",
+            "content": "George Washington Carver, c. 1864 - 5 Jan 1943"
+          }
+        ],
+        "place": [
+          {
+            "label": "Place",
+            "content": "United States\\Alabama"
+          }
+        ],
+        "topic": [
+          {
+            "label": "Topic",
+            "content": "Costume\\Headgear\\Hat"
+          },
+          {
+            "label": "Topic",
+            "content": "Nature & Environment\\Plant\\Flower\\Flowers"
+          },
+          {
+            "label": "Topic",
+            "content": "Exterior\\Landscape\\Rural"
+          },
+          {
+            "label": "Topic",
+            "content": "Costume\\Headgear\\Hat\\Cap"
+          },
+          {
+            "label": "Topic",
+            "content": "Nature & Environment\\Plant\\Tree"
+          },
+          {
+            "label": "Topic",
+            "content": "George Washington Carver: Male"
+          },
+          {
+            "label": "Topic",
+            "content": "George Washington Carver: Business and Finance\\Natural resources commerce\\Agriculturist"
+          },
+          {
+            "label": "Topic",
+            "content": "George Washington Carver: Science and Technology\\Scientist\\Biologist\\Botanist"
+          },
+          {
+            "label": "Topic",
+            "content": "George Washington Carver: Education and Scholarship\\Educator"
+          },
+          {
+            "label": "Topic",
+            "content": "George Washington Carver: Science and Technology\\Scientist\\Chemist"
+          },
+          {
+            "label": "Topic",
+            "content": "George Washington Carver: Law and Crime\\Enslaved person"
+          },
+          {
+            "label": "Topic",
+            "content": "Portrait"
+          }
+        ],
+        "setName": [
+          {
+            "label": "See more items in",
+            "content": "National Portrait Gallery Collection"
+          },
+          {
+            "label": "Location",
+            "content": "Currently not on view"
+          }
+        ],
+        "creditLine": [
+          {
+            "label": "Credit Line",
+            "content": "National Portrait Gallery, Smithsonian Institution"
+          }
+        ],
+        "dataSource": [
+          {
+            "label": "Data Source",
+            "content": "National Portrait Gallery"
+          }
+        ],
+        "identifier": [
+          {
+            "label": "Object number",
+            "content": "NPG.92.156"
+          }
+        ],
+        "objectType": [
+          {
+            "label": "Type",
+            "content": "Photograph"
+          }
+        ],
+        "objectRights": [
+          {
+            "label": "Restrictions & Rights",
+            "content": "CC0"
+          }
+        ],
+        "physicalDescription": [
+          {
+            "label": "Medium",
+            "content": "Gelatin silver print"
+          },
+          {
+            "label": "Dimensions",
+            "content": "Image: 16.5cm x 11.5cm (6 1/2\" x 4 1/2\")"
+          },
+          {
+            "label": "Dimensions",
+            "content": "Sheet: 17.3cm x 12.3cm (6 13/16\" x 4 13/16\")"
+          }
+        ]
+      },
+      "imageRights": {
+        "access": "CC0"
+      },
+      "policyReceipt": "receipts/si-openaccess-search.json",
+      "sourceUrl": "https://npg.si.edu/object/npg_NPG.92.156",
+      "rightsSourceUrl": "https://www.si.edu/openaccess",
+      "rights": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "CC0 public-domain image. Credit: National Portrait Gallery, Smithsonian Institution.",
+          "zh": "CC0公有领域图像。署名：National Portrait Gallery, Smithsonian Institution。"
+        }
+      },
+      "receiptPaths": [
+        "research/v18/world-batch-06/americas/receipts/npg-record-16.json",
+        "research/v18/world-batch-06/americas/receipts/si-openaccess-search.json"
+      ],
+      "sourceMetadataOriginal": {
+        "date": [
+          {
+            "label": "Date",
+            "content": "c. 1900"
+          }
+        ],
+        "name": [
+          {
+            "label": "Artist",
+            "content": "Clifton Johnson, 1865 - 1940"
+          },
+          {
+            "label": "Sitter",
+            "content": "George Washington Carver, c. 1864 - 5 Jan 1943"
+          }
+        ],
+        "place": [
+          {
+            "label": "Place",
+            "content": "United States\\Alabama"
+          }
+        ],
+        "topic": [
+          {
+            "label": "Topic",
+            "content": "Costume\\Headgear\\Hat"
+          },
+          {
+            "label": "Topic",
+            "content": "Nature & Environment\\Plant\\Flower\\Flowers"
+          },
+          {
+            "label": "Topic",
+            "content": "Exterior\\Landscape\\Rural"
+          },
+          {
+            "label": "Topic",
+            "content": "Costume\\Headgear\\Hat\\Cap"
+          },
+          {
+            "label": "Topic",
+            "content": "Nature & Environment\\Plant\\Tree"
+          },
+          {
+            "label": "Topic",
+            "content": "George Washington Carver: Male"
+          },
+          {
+            "label": "Topic",
+            "content": "George Washington Carver: Business and Finance\\Natural resources commerce\\Agriculturist"
+          },
+          {
+            "label": "Topic",
+            "content": "George Washington Carver: Science and Technology\\Scientist\\Biologist\\Botanist"
+          },
+          {
+            "label": "Topic",
+            "content": "George Washington Carver: Education and Scholarship\\Educator"
+          },
+          {
+            "label": "Topic",
+            "content": "George Washington Carver: Science and Technology\\Scientist\\Chemist"
+          },
+          {
+            "label": "Topic",
+            "content": "George Washington Carver: Law and Crime\\Enslaved person"
+          },
+          {
+            "label": "Topic",
+            "content": "Portrait"
+          }
+        ],
+        "setName": [
+          {
+            "label": "See more items in",
+            "content": "National Portrait Gallery Collection"
+          },
+          {
+            "label": "Location",
+            "content": "Currently not on view"
+          }
+        ],
+        "creditLine": [
+          {
+            "label": "Credit Line",
+            "content": "National Portrait Gallery, Smithsonian Institution"
+          }
+        ],
+        "dataSource": [
+          {
+            "label": "Data Source",
+            "content": "National Portrait Gallery"
+          }
+        ],
+        "identifier": [
+          {
+            "label": "Object number",
+            "content": "NPG.92.156"
+          }
+        ],
+        "objectType": [
+          {
+            "label": "Type",
+            "content": "Photograph"
+          }
+        ],
+        "objectRights": [
+          {
+            "label": "Restrictions & Rights",
+            "content": "CC0"
+          }
+        ],
+        "physicalDescription": [
+          {
+            "label": "Medium",
+            "content": "Gelatin silver print"
+          },
+          {
+            "label": "Dimensions",
+            "content": "Image: 16.5cm x 11.5cm (6 1/2\" x 4 1/2\")"
+          },
+          {
+            "label": "Dimensions",
+            "content": "Sheet: 17.3cm x 12.3cm (6 13/16\" x 4 13/16\")"
+          }
+        ]
+      },
+      "internalRetrievalNote": "Official Smithsonian Open Access AWS record saved; explicit artwork and image CC0 checked. Official screen JPEG decoded and visually inspected.",
+      "originalRightsReviewNote": {
+        "en": "Official Smithsonian bulk record marks both objectRights and this image’s usage.access CC0. Credit: National Portrait Gallery, Smithsonian Institution",
+        "zh": "史密森官方批量馆藏记录将作品权利及此图像的使用权均标为CC0。署名：美国国家肖像馆、史密森学会；完整入藏署名保留于英文记录。"
+      }
+    },
+    {
+      "assetId": "world-batch-06-tepapa-sheppard",
+      "sourceUrl": "https://collections.tepapa.govt.nz/object/397630",
+      "rightsSourceUrl": "https://www.tepapa.govt.nz/about-collections-online#no-known-copyright",
+      "rights": {
+        "label": "No Known Copyright Restrictions",
+        "url": "https://www.tepapa.govt.nz/about-collections-online#no-known-copyright",
+        "note": {
+          "en": "No known copyright restrictions. Credit: Museum of New Zealand Te Papa Tongarewa, CA000383/001/0026.",
+          "zh": "无已知版权限制。署名：Museum of New Zealand Te Papa Tongarewa, CA000383/001/0026。"
+        }
+      },
+      "receiptIndex": "research/v18/world-batch-06/pacific-africa/source-receipts.json",
+      "entryDecisions": "research/v18/world-batch-06/pacific-africa/entry-decisions.json",
+      "sourceMetadataOriginal": null,
+      "internalRetrievalNote": "Official institutional source and rights evidence retained in pacific-africa/receipts. JPEG decoded, hashed and visually inspected. Per-entry associations reviewed against baseline records.",
+      "originalRightsReviewNote": {
+        "en": "The object page and embedded media record explicitly mark image 339173 No Known Copyright Restrictions and allow download. Registration CA000383/001/0026.",
+        "zh": "馆藏页面及媒体记录明确将339173号图像标为无已知版权限制，并允许下载。登记号CA000383/001/0026。"
+      }
+    },
+    {
+      "assetId": "world-batch-06-kura-salote",
+      "sourceUrl": "https://kura.aucklandlibraries.govt.nz/digital/collection/photos/id/269547/",
+      "rightsSourceUrl": "https://kura.aucklandlibraries.govt.nz/digital/collection/photos/id/269547/",
+      "rights": {
+        "label": "No known copyright restrictions",
+        "url": "https://kura.aucklandlibraries.govt.nz/digital/collection/photos/id/269547/",
+        "note": {
+          "en": "No known copyright restrictions. Credit: Auckland Libraries Heritage Collections AWNS-19361007-54-02.",
+          "zh": "无已知版权限制。署名：Auckland Libraries Heritage Collections AWNS-19361007-54-02。"
+        }
+      },
+      "receiptIndex": "research/v18/world-batch-06/pacific-africa/source-receipts.json",
+      "entryDecisions": "research/v18/world-batch-06/pacific-africa/entry-decisions.json",
+      "sourceMetadataOriginal": null,
+      "internalRetrievalNote": "Official institutional source and rights evidence retained in pacific-africa/receipts. JPEG decoded, hashed and visually inspected. Per-entry associations reviewed against baseline records.",
+      "originalRightsReviewNote": {
+        "en": "Kura’s item record states No known copyright restrictions. Required acknowledgement: Auckland Libraries Heritage Collections AWNS-19361007-54-02.",
+        "zh": "Kura馆藏记录注明无已知版权限制。署名：Auckland Libraries Heritage Collections AWNS-19361007-54-02。"
+      }
+    },
+    {
+      "assetId": "world-batch-06-kura-ngata",
+      "sourceUrl": "https://kura.aucklandlibraries.govt.nz/digital/collection/maps/id/2407/",
+      "rightsSourceUrl": "https://kura.aucklandlibraries.govt.nz/digital/collection/maps/id/2407/",
+      "rights": {
+        "label": "No known copyright restrictions",
+        "url": "https://kura.aucklandlibraries.govt.nz/digital/collection/maps/id/2407/",
+        "note": {
+          "en": "No known copyright restrictions. Credit: Auckland Libraries Heritage Collections Map 330.",
+          "zh": "无已知版权限制。署名：Auckland Libraries Heritage Collections Map 330。"
+        }
+      },
+      "receiptIndex": "research/v18/world-batch-06/pacific-africa/source-receipts.json",
+      "entryDecisions": "research/v18/world-batch-06/pacific-africa/entry-decisions.json",
+      "sourceMetadataOriginal": null,
+      "internalRetrievalNote": "Official institutional source and rights evidence retained in pacific-africa/receipts. JPEG decoded, hashed and visually inspected. Per-entry associations reviewed against baseline records.",
+      "originalRightsReviewNote": {
+        "en": "The item record explicitly states No known copyright restrictions and requests acknowledgement of Auckland Libraries Heritage Collections Map 330.",
+        "zh": "馆藏记录明确注明无已知版权限制，并要求署名Auckland Libraries Heritage Collections Map 330。"
+      }
+    },
+    {
+      "assetId": "world-batch-06-reagan-tutu",
+      "sourceUrl": "https://www.reaganlibrary.gov/archives/audiovisual/white-house-photo-collection-galleries/meeting-vips",
+      "rightsSourceUrl": "https://www.archives.gov/research/still-pictures/permissions",
+      "rights": {
+        "label": "Public domain (United States government work)",
+        "url": "https://www.archives.gov/research/still-pictures/permissions",
+        "note": {
+          "en": "Public domain in the United States as an official federal-government photograph. Credit: Courtesy Ronald Reagan Library, C26199-10. The library’s separate likeness-use notice remains applicable.",
+          "zh": "美国联邦政府公务照片，在美国属公有领域。署名：Courtesy Ronald Reagan Library，C26199-10。图书馆另行列明的肖像使用提示仍适用。"
+        }
+      },
+      "receiptIndex": "research/v18/world-batch-06/pacific-africa/source-receipts.json",
+      "entryDecisions": "research/v18/world-batch-06/pacific-africa/entry-decisions.json",
+      "sourceMetadataOriginal": null,
+      "internalRetrievalNote": "Official institutional source and rights evidence retained in pacific-africa/receipts. JPEG decoded, hashed and visually inspected. Per-entry associations reviewed against baseline records.",
+      "originalRightsReviewNote": {
+        "en": "Official White House Photograph Collection, C26199-10. NARA explains that works produced by federal employees in official duties are not copyright-protected in the United States. The Reagan Library requests the credit Courtesy Ronald Reagan Library; its likeness-use notice is retained.",
+        "zh": "白宫官方摄影馆藏，C26199-10。美国国家档案馆说明，联邦雇员履行公务创作的作品在美国不受版权保护。里根图书馆要求署名Courtesy Ronald Reagan Library；肖像使用告示已留存。"
+      }
+    },
+    {
+      "assetId": "world-batch-06-clinton-kim",
+      "sourceUrl": "https://clintonwhitehouse4.archives.gov/WH/New/APEC1999/kimgreet.html",
+      "rightsSourceUrl": "https://www.clintonlibrary.gov/research/audio-visual-research",
+      "rights": {
+        "label": "Public domain",
+        "url": "https://www.clintonlibrary.gov/research/audio-visual-research",
+        "note": {
+          "en": "Public-domain White House photograph by Sharon Farmer. Credit: William J. Clinton Presidential Library.",
+          "zh": "莎伦·法默拍摄的白宫公有领域照片。署名：威廉·J.克林顿总统图书馆。"
+        }
+      },
+      "receiptIndex": "research/v18/world-batch-06/pacific-africa/source-receipts.json",
+      "entryDecisions": "research/v18/world-batch-06/pacific-africa/entry-decisions.json",
+      "sourceMetadataOriginal": null,
+      "internalRetrievalNote": "Official institutional source and rights evidence retained in pacific-africa/receipts. JPEG decoded, hashed and visually inspected. Per-entry associations reviewed against baseline records.",
+      "originalRightsReviewNote": {
+        "en": "The archived official White House page names Sharon Farmer. Clinton Library AV policy states that photographs by White House photographers are in the public domain. This is the full 400×266 image delivered by the historical page, not a search thumbnail.",
+        "zh": "存档白宫官方网站署名莎伦·法默。克林顿图书馆视听政策说明白宫摄影师的照片属于公有领域。这里保存历史网页提供的完整400×266图像，而非搜索缩略图。"
+      }
+    }
+  ],
+  "files": [
+    {
+      "assetId": "world-batch-06-newton",
+      "source": "research/v18/world-batch-06/assets/world-batch-06-newton.jpg",
+      "destination": "dist/assets/history-media/world-batch-06-newton.jpg",
+      "sha256": "cf9dcd94b84426f24c3ad5d740a63d0a87e6f0233991f34e0d0c0f2d7db246a0",
+      "bytes": 400703,
+      "width": 957,
+      "height": 1201
+    },
+    {
+      "assetId": "world-batch-06-copernicus",
+      "source": "research/v18/world-batch-06/assets/world-batch-06-copernicus.jpg",
+      "destination": "dist/assets/history-media/world-batch-06-copernicus.jpg",
+      "sha256": "0f09a3f57d08ead6880909731a25b08e9dc6df85d260e308f9b7c0a44622cfc0",
+      "bytes": 338781,
+      "width": 851,
+      "height": 1200
+    },
+    {
+      "assetId": "world-batch-06-nightingale",
+      "source": "research/v18/world-batch-06/assets/world-batch-06-nightingale.jpg",
+      "destination": "dist/assets/history-media/world-batch-06-nightingale.jpg",
+      "sha256": "2cf3832c6502f77fd3a1dd2d5b6a09a4d1d49068a00705608162c0b75f799b44",
+      "bytes": 417395,
+      "width": 1043,
+      "height": 1201
+    },
+    {
+      "assetId": "world-batch-06-hildegard",
+      "source": "research/v18/world-batch-06/assets/world-batch-06-hildegard.jpg",
+      "destination": "dist/assets/history-media/world-batch-06-hildegard.jpg",
+      "sha256": "24a2d06bc8746e5e949d0dd16d6f468478489748ee1fc07d4a6d06784b73071c",
+      "bytes": 462138,
+      "width": 1030,
+      "height": 1200
+    },
+    {
+      "assetId": "world-batch-06-watt",
+      "source": "research/v18/world-batch-06/assets/world-batch-06-watt.jpg",
+      "destination": "dist/assets/history-media/world-batch-06-watt.jpg",
+      "sha256": "bc3ab91ccdc75256ebb5ab60a520f9c096fdc53dc5095d99977fb2988c6849ab",
+      "bytes": 296524,
+      "width": 827,
+      "height": 1200
+    },
+    {
+      "assetId": "world-batch-06-avicenna",
+      "source": "research/v18/world-batch-06/assets/world-batch-06-avicenna.jpg",
+      "destination": "dist/assets/history-media/world-batch-06-avicenna.jpg",
+      "sha256": "f49d46d2772f8cd67b8caf9bd7f86e57442971e2b9f96bb58c1c10923bbb9130",
+      "bytes": 320004,
+      "width": 812,
+      "height": 1200
+    },
+    {
+      "assetId": "world-batch-06-comenius",
+      "source": "research/v18/world-batch-06/assets/world-batch-06-comenius.jpg",
+      "destination": "dist/assets/history-media/world-batch-06-comenius.jpg",
+      "sha256": "ebfa59d885bdaaf063ca9cdae0e064f98b26d5a73f60b4482e041b305a299500",
+      "bytes": 150718,
+      "width": 1040,
+      "height": 1200
+    },
+    {
+      "assetId": "world-batch-06-orbis-pictus",
+      "source": "research/v18/world-batch-06/assets/world-batch-06-orbis-pictus.jpg",
+      "destination": "dist/assets/history-media/world-batch-06-orbis-pictus.jpg",
+      "sha256": "9bda0a9f1966a145d93ca0528de856079fbde3c84016bb9347d4efb019b99b8e",
+      "bytes": 129701,
+      "width": 562,
+      "height": 1000
+    },
+    {
+      "assetId": "world-batch-06-caesar",
+      "source": "research/v18/world-batch-06/assets/world-batch-06-caesar.jpg",
+      "destination": "dist/assets/history-media/world-batch-06-caesar.jpg",
+      "sha256": "920a60e5720e6e996279004fcc93b9bf168e3aa8480d2009860ae79f751a974c",
+      "bytes": 45434,
+      "width": 600,
+      "height": 600
+    },
+    {
+      "assetId": "world-batch-06-alexander",
+      "source": "research/v18/world-batch-06/assets/world-batch-06-alexander.jpg",
+      "destination": "dist/assets/history-media/world-batch-06-alexander.jpg",
+      "sha256": "3d010f2b8e4a5daf883f9575a257515c39c9fa6e9493614f1b1653e246ed7c12",
+      "bytes": 195963,
+      "width": 464,
+      "height": 625
+    },
+    {
+      "assetId": "world-batch-06-gutenberg",
+      "source": "research/v18/world-batch-06/assets/world-batch-06-gutenberg.jpg",
+      "destination": "dist/assets/history-media/world-batch-06-gutenberg.jpg",
+      "sha256": "12b8a28fda960767f528852dcb0a746bcaa807e03c712e35f72805299fcb5365",
+      "bytes": 64197,
+      "width": 504,
+      "height": 624
+    },
+    {
+      "assetId": "world-batch-06-victoria",
+      "source": "research/v18/world-batch-06/assets/world-batch-06-victoria.jpg",
+      "destination": "dist/assets/history-media/world-batch-06-victoria.jpg",
+      "sha256": "b35be069d7d0dd9bd146c5d16656d694634931bc900885e192b2e736d7697064",
+      "bytes": 63627,
+      "width": 500,
+      "height": 624
+    },
+    {
+      "assetId": "world-batch-06-akbar",
+      "source": "research/v18/world-batch-06/assets/world-batch-06-akbar.jpg",
+      "destination": "dist/assets/history-media/world-batch-06-akbar.jpg",
+      "sha256": "e898a9d1ce51d28d7426d36232b9d64c834668988b628c46fdd2ff59be24dfd1",
+      "bytes": 54860,
+      "width": 368,
+      "height": 624
+    },
+    {
+      "assetId": "world-batch-06-shah-jahan",
+      "source": "research/v18/world-batch-06/assets/world-batch-06-shah-jahan.jpg",
+      "destination": "dist/assets/history-media/world-batch-06-shah-jahan.jpg",
+      "sha256": "080d5beb6ff5e5c15f7edd8459613d2de38abfcd3206318988d8384353536333",
+      "bytes": 111081,
+      "width": 417,
+      "height": 624
+    },
+    {
+      "assetId": "world-batch-06-abd-al-qadir",
+      "source": "research/v18/world-batch-06/assets/world-batch-06-abd-al-qadir.jpg",
+      "destination": "dist/assets/history-media/world-batch-06-abd-al-qadir.jpg",
+      "sha256": "68ab7c7ca72a62a5a47340b97ac8a65bb78b297b8d116fdbb36dd5453e36a380",
+      "bytes": 557452,
+      "width": 1495,
+      "height": 2160
+    },
+    {
+      "assetId": "world-batch-06-tsuda",
+      "source": "research/v18/world-batch-06/assets/world-batch-06-tsuda.jpg",
+      "destination": "dist/assets/history-media/world-batch-06-tsuda.jpg",
+      "sha256": "e8f206e062553bbb8597ec7808162146795fc191f12692b44427c18ae525d1a1",
+      "bytes": 672879,
+      "width": 733,
+      "height": 1117
+    },
+    {
+      "assetId": "world-batch-06-yosano",
+      "source": "research/v18/world-batch-06/assets/world-batch-06-yosano.jpg",
+      "destination": "dist/assets/history-media/world-batch-06-yosano.jpg",
+      "sha256": "785e7948ce7f8df9ddec00552acc07e0a5decd46c51dbc2529a8540a6118d13a",
+      "bytes": 596876,
+      "width": 810,
+      "height": 1101
+    },
+    {
+      "assetId": "world-batch-06-fukuzawa",
+      "source": "research/v18/world-batch-06/assets/world-batch-06-fukuzawa.jpg",
+      "destination": "dist/assets/history-media/world-batch-06-fukuzawa.jpg",
+      "sha256": "4ded5d9a9a354a7c35746e6bdf7c86ad1bfece61a16516f7352b55274bf2cea1",
+      "bytes": 317228,
+      "width": 1024,
+      "height": 1345
+    },
+    {
+      "assetId": "world-batch-06-chatelet",
+      "source": "research/v18/world-batch-06/assets/world-batch-06-chatelet.jpg",
+      "destination": "dist/assets/history-media/world-batch-06-chatelet.jpg",
+      "sha256": "d0ea7c75cb09ea84b4c59a4e3cecb4ce1564bbd9c1b78ab7d1aa2ddde7202ac8",
+      "bytes": 149834,
+      "width": 837,
+      "height": 1080
+    },
+    {
+      "assetId": "world-batch-06-met-16584",
+      "source": "research/v18/world-batch-06/americas/assets/world-batch-06-met-16584.jpg",
+      "destination": "dist/assets/history-media/world-batch-06-met-16584.jpg",
+      "sha256": "da83c54d5a644acc61d2a87d51695c92ee2ed088ab96a776b85fbd3b5fd53470",
+      "bytes": 66806,
+      "width": 523,
+      "height": 625
+    },
+    {
+      "assetId": "world-batch-06-npg-npg-95-54",
+      "source": "research/v18/world-batch-06/americas/assets/world-batch-06-npg-npg-95-54.jpg",
+      "destination": "dist/assets/history-media/world-batch-06-npg-npg-95-54.jpg",
+      "sha256": "7c3bdd1bb0f4994e0106a8f0833dffd29e98c0ade063d5e4779e93da8601becc",
+      "bytes": 147254,
+      "width": 1200,
+      "height": 911
+    },
+    {
+      "assetId": "world-batch-06-npg-npg-99-167-13",
+      "source": "research/v18/world-batch-06/americas/assets/world-batch-06-npg-npg-99-167-13.jpg",
+      "destination": "dist/assets/history-media/world-batch-06-npg-npg-99-167-13.jpg",
+      "sha256": "bdd12739d71ad6a84eefe7cfeec5fd93b1c7f8efa92c6b4b5472b007db803aed",
+      "bytes": 75181,
+      "width": 817,
+      "height": 1200
+    },
+    {
+      "assetId": "world-batch-06-npg-npg-2006-10",
+      "source": "research/v18/world-batch-06/americas/assets/world-batch-06-npg-npg-2006-10.jpg",
+      "destination": "dist/assets/history-media/world-batch-06-npg-npg-2006-10.jpg",
+      "sha256": "46c60f0cfdb581f808faa196afb150f80441237d060cb1201176ef40878f2138",
+      "bytes": 179006,
+      "width": 1011,
+      "height": 1200
+    },
+    {
+      "assetId": "world-batch-06-npg-npg-2015-136",
+      "source": "research/v18/world-batch-06/americas/assets/world-batch-06-npg-npg-2015-136.jpg",
+      "destination": "dist/assets/history-media/world-batch-06-npg-npg-2015-136.jpg",
+      "sha256": "d703c12e4b55f4393143f4f511204da07f0a04b4afc9210188c7e3f02ed81477",
+      "bytes": 173384,
+      "width": 963,
+      "height": 1199
+    },
+    {
+      "assetId": "world-batch-06-npg-npg-2024-196",
+      "source": "research/v18/world-batch-06/americas/assets/world-batch-06-npg-npg-2024-196.jpg",
+      "destination": "dist/assets/history-media/world-batch-06-npg-npg-2024-196.jpg",
+      "sha256": "b31ef23a1f4f654114365c100ef226b6b5c358bb365afb7443f6743ad5232f47",
+      "bytes": 66277,
+      "width": 723,
+      "height": 1200
+    },
+    {
+      "assetId": "world-batch-06-npg-npg-82-137",
+      "source": "research/v18/world-batch-06/americas/assets/world-batch-06-npg-npg-82-137.jpg",
+      "destination": "dist/assets/history-media/world-batch-06-npg-npg-82-137.jpg",
+      "sha256": "b2779508e8ea3d8ee36ced726e5867a9c20f7e1ed678bfe3edbb855f64e1617e",
+      "bytes": 101751,
+      "width": 609,
+      "height": 1200
+    },
+    {
+      "assetId": "world-batch-06-npg-npg-92-156",
+      "source": "research/v18/world-batch-06/americas/assets/world-batch-06-npg-npg-92-156.jpg",
+      "destination": "dist/assets/history-media/world-batch-06-npg-npg-92-156.jpg",
+      "sha256": "4168f68fdadc90477a9ed6bfe10a28a7e2268de248f7a44ec8aae13756aaa479",
+      "bytes": 228102,
+      "width": 867,
+      "height": 1200
+    },
+    {
+      "assetId": "world-batch-06-tepapa-sheppard",
+      "source": "research/v18/world-batch-06/pacific-africa/assets/world-batch-06-tepapa-sheppard.jpg",
+      "destination": "dist/assets/history-media/world-batch-06-tepapa-sheppard.jpg",
+      "sha256": "6de5f827d61299a40a88b0c022137503920ed32720c2a7b4c7b1f73acc88dc5a",
+      "bytes": 89892,
+      "width": 776,
+      "height": 1000
+    },
+    {
+      "assetId": "world-batch-06-kura-salote",
+      "source": "research/v18/world-batch-06/pacific-africa/assets/world-batch-06-kura-salote.jpg",
+      "destination": "dist/assets/history-media/world-batch-06-kura-salote.jpg",
+      "sha256": "e6cb24f48ec9b6975d3b4ed995ae2625b6972a585c8490de6b88f854c6a2ced7",
+      "bytes": 177921,
+      "width": 1200,
+      "height": 778
+    },
+    {
+      "assetId": "world-batch-06-kura-ngata",
+      "source": "research/v18/world-batch-06/pacific-africa/assets/world-batch-06-kura-ngata.jpg",
+      "destination": "dist/assets/history-media/world-batch-06-kura-ngata.jpg",
+      "sha256": "ab9bdc057f7ac9df13391cfe91fcd25052a04a2fc64224c7bffc9fc0fb45ecc4",
+      "bytes": 398917,
+      "width": 1200,
+      "height": 1714
+    },
+    {
+      "assetId": "world-batch-06-reagan-tutu",
+      "source": "research/v18/world-batch-06/pacific-africa/assets/world-batch-06-reagan-tutu.jpg",
+      "destination": "dist/assets/history-media/world-batch-06-reagan-tutu.jpg",
+      "sha256": "189e2ad3d6691cb577f1317ab0a26afb6530fe5809c4f51860a848e892c61985",
+      "bytes": 88949,
+      "width": 750,
+      "height": 498
+    },
+    {
+      "assetId": "world-batch-06-clinton-kim",
+      "source": "research/v18/world-batch-06/pacific-africa/assets/world-batch-06-clinton-kim.jpg",
+      "destination": "dist/assets/history-media/world-batch-06-clinton-kim.jpg",
+      "sha256": "e89fb0b25de3835ec24163a91c32d191cd2b134f9f6b7d8d0e3f80c8fe07f558",
+      "bytes": 22365,
+      "width": 400,
+      "height": 266
+    }
+  ],
+  "holds": [
+    {
+      "assetId": "world-batch-06-hiratsuka",
+      "recordIds": [
+        "person-hiratsuka-raicho"
+      ],
+      "sourceFile": "research/v18/world-batch-06/assets/world-batch-06-hiratsuka.jpg",
+      "bytes": 1599228,
+      "width": 1024,
+      "height": 1374,
+      "sha256": "a19d729a12dfdc77515749c44cfd4f3b6f18127642aca18d4cf088d5b4aeb1fd",
+      "sourceUrl": "https://www.ndl.go.jp/portrait/e/datas/380",
+      "downloadedFrom": "https://www.ndl.go.jp/portrait/img/portrait/0380_1.jpg",
+      "reason": "Authentic source and rights verified, but delivered original exceeds the production 750000-byte and/or 3000-pixel ceiling. Research only; excluded from admitted shard. No local resampling, synthesis or limit relaxation.",
+      "candidate": {
+        "id": "world-batch-06-hiratsuka",
+        "recordIds": [
+          "person-hiratsuka-raicho"
+        ],
+        "kind": "portrait",
+        "representation": "historical-photograph",
+        "title": {
+          "en": "Hiratsuka Raichō",
+          "zh": "平塚雷鸟"
+        },
+        "alt": {
+          "en": "Hiratsuka sits wearing glasses and a patterned kimono, her hands resting together.",
+          "zh": "平塚戴眼镜、穿带花纹的和服坐着，双手交叠放置。"
+        },
+        "caption": {
+          "en": "A historical photograph reproduced by the National Diet Library. The exhibition identifies Hiratsuka but does not specify when this photograph was taken.",
+          "zh": "日本国立国会图书馆提供的历史照片。展览确认人物为平塚，但未注明拍摄时间。"
+        },
+        "interpretation": {
+          "en": "The photograph places a person beside the printed debates associated with Seitō. The library biography and linked manifesto trace her work across writing and activism.",
+          "zh": "照片使《青鞜》相关的印刷论辩有了具体人物。图书馆传记与链接的宣言，可追溯她在写作与社会行动之间的工作。"
+        },
+        "file": "assets/history-media/world-batch-06-hiratsuka.jpg",
+        "sha256": "a19d729a12dfdc77515749c44cfd4f3b6f18127642aca18d4cf088d5b4aeb1fd",
+        "bytes": 1599228,
+        "width": 1024,
+        "height": 1374,
+        "checkedAt": "2026-11-11",
+        "downloadedFrom": "https://www.ndl.go.jp/portrait/img/portrait/0380_1.jpg",
+        "imageUrl": "https://www.ndl.go.jp/portrait/img/portrait/0380_1.jpg",
+        "credit": "National Diet Library, Japan",
+        "sourceUrl": "https://www.ndl.go.jp/portrait/e/datas/380",
+        "rightsSourceUrl": "https://www.ndl.go.jp/portrait/e/about",
+        "rights": {
+          "label": "Public Domain",
+          "url": "https://www.ndl.go.jp/portrait/e/about",
+          "note": {
+            "en": "The exhibition explicitly states that all of its images are public domain and that its digitized images may be reused, including commercially, without application. Credit: National Diet Library, Portraits of Modern Japanese Historical Figures.",
+            "zh": "该展览明确说明所有图像均属公有领域，数字图像可无需申请再次使用，包括商业用途。署名：日本国立国会图书馆“近代日本人肖像”。"
+          }
+        },
+        "creator": "Photographer unrecorded in the exhibition",
+        "date": "Photograph undated in the exhibition record",
+        "institution": "National Diet Library, Japan",
+        "metadataI18n": {
+          "creator": {
+            "en": "Photographer unrecorded in the exhibition",
+            "zh": "展览未注明摄影者"
+          },
+          "date": {
+            "en": "Photograph undated in the exhibition record",
+            "zh": "展览记录未注明照片拍摄日期"
+          },
+          "institution": {
+            "en": "National Diet Library, Japan",
+            "zh": "日本国立国会图书馆"
+          }
+        },
+        "sourceMetadataOriginal": {
+          "title": "HIRATSUKA Raicho",
+          "date": "Not stated for this photograph",
+          "creator": "Not stated for this photograph"
+        },
+        "transformation": {
+          "en": "Full exhibition portrait JPEG supplied by the National Diet Library, unchanged locally.",
+          "zh": "使用国立国会图书馆提供的完整展览肖像JPEG，未在本地修改。"
+        },
+        "retrieval": "Source catalogue and rights record retained; delivered file decoded, hashed and visually inspected.",
+        "contextSources": [
+          {
+            "title": {
+              "en": "Read the related history",
+              "zh": "阅读相关历史"
+            },
+            "url": "https://www.slv.vic.gov.au/seito-hiratsuka-raicho"
+          }
+        ]
+      }
+    },
+    {
+      "assetId": "world-batch-06-clinton-mandela",
+      "recordIds": [
+        "person-nelson-mandela"
+      ],
+      "sourceFile": "research/v18/world-batch-06/pacific-africa/assets/world-batch-06-clinton-mandela.jpg",
+      "bytes": 1866861,
+      "width": 2313,
+      "height": 3513,
+      "sha256": "802d26179aeef069a1251c2918707f68c1880ca44b70214773f08bac7a38fef0",
+      "sourceUrl": "https://www.clintonlibrary.gov/museum/online-exhibits/president-clintons-trip-africa-1998",
+      "downloadedFrom": "https://www.clintonlibrary.gov/sites/default/files/catalog/P61591-06.jpg",
+      "reason": "Authentic source and rights verified, but delivered original exceeds the production 750000-byte and/or 3000-pixel ceiling. Research only; excluded from admitted shard. No local resampling, synthesis or limit relaxation.",
+      "candidate": {
+        "id": "world-batch-06-clinton-mandela",
+        "recordIds": [
+          "person-nelson-mandela"
+        ],
+        "kind": "portrait",
+        "representation": "lifetime-portrait",
+        "title": {
+          "en": "Mandela returns to Robben Island",
+          "zh": "曼德拉重返罗本岛"
+        },
+        "alt": {
+          "en": "Nelson Mandela and Bill Clinton look outward through closely spaced prison bars; Mandela gestures with one hand.",
+          "zh": "纳尔逊·曼德拉与比尔·克林顿从密集的监狱栏杆后向外望，曼德拉用一只手示意。"
+        },
+        "caption": {
+          "en": "Sharon Farmer photographed Mandela and Clinton at Cell Block B on Robben Island on 27 March 1998, during Clinton’s visit to South Africa.",
+          "zh": "莎伦·法默于1998年3月27日在罗本岛B区牢房拍摄曼德拉与克林顿，当时克林顿正在访问南非。"
+        },
+        "interpretation": {
+          "en": "Mandela appears here as a president revisiting a place of imprisonment. The bars connect his public role after apartheid with the physical setting of his earlier confinement.",
+          "zh": "曼德拉在此以总统身份重访囚禁之地。栏杆将他在种族隔离制度结束后的公共角色，与早年禁锢的空间联系起来。"
+        },
+        "creator": "Sharon Farmer, White House Photograph Office",
+        "date": "27 March 1998",
+        "institution": "William J. Clinton Presidential Library and Museum / NARA",
+        "sourceUrl": "https://www.clintonlibrary.gov/museum/online-exhibits/president-clintons-trip-africa-1998",
+        "imageUrl": "https://www.clintonlibrary.gov/sites/default/files/catalog/P61591-06.jpg",
+        "downloadedFrom": "https://www.clintonlibrary.gov/sites/default/files/catalog/P61591-06.jpg",
+        "file": "assets/history-media/world-batch-06-clinton-mandela.jpg",
+        "sha256": "802d26179aeef069a1251c2918707f68c1880ca44b70214773f08bac7a38fef0",
+        "bytes": 1866861,
+        "width": 2313,
+        "height": 3513,
+        "checkedAt": "2026-11-11",
+        "rightsSourceUrl": "https://www.clintonlibrary.gov/research/audio-visual-research",
+        "rights": {
+          "label": "Public domain",
+          "url": "https://www.clintonlibrary.gov/research/audio-visual-research",
+          "note": {
+            "en": "The Clinton Library states that photographs produced by White House photographers are in the public domain. The exhibit names Sharon Farmer and identifies photo P61591-06; NARA catalogue 183374042.",
+            "zh": "克林顿图书馆明确说明白宫摄影师制作的照片属于公有领域。展览署名莎伦·法默，照片号P61591-06；美国国家档案目录号183374042。"
+          }
+        },
+        "credit": "Sharon Farmer, White House Photograph Office; William J. Clinton Presidential Library and Museum / NARA, P61591-06",
+        "metadataI18n": {
+          "creator": {
+            "en": "Sharon Farmer, White House Photograph Office",
+            "zh": "莎伦·法默，白宫摄影办公室"
+          },
+          "date": {
+            "en": "27 March 1998",
+            "zh": "1998年3月27日"
+          },
+          "institution": {
+            "en": "William J. Clinton Presidential Library and Museum / NARA",
+            "zh": "威廉·J.克林顿总统图书馆暨博物馆／美国国家档案馆"
+          }
+        },
+        "transformation": {
+          "en": "Institution-delivered JPEG preserved byte-for-byte. No local cropping, recolouring or generated content.",
+          "zh": "逐字节保存机构提供的JPEG，未在本地裁剪、调色或生成内容。"
+        },
+        "retrieval": "Official institutional source and rights evidence retained in pacific-africa/receipts. JPEG decoded, hashed and visually inspected. Per-entry associations reviewed against baseline records."
+      }
+    },
+    {
+      "assetId": "world-batch-06-clinton-havel",
+      "recordIds": [
+        "person-vaclav-havel"
+      ],
+      "sourceFile": "research/v18/world-batch-06/pacific-africa/assets/world-batch-06-clinton-havel.jpg",
+      "bytes": 2624210,
+      "width": 5004,
+      "height": 3366,
+      "sha256": "74041f10f35badabeb3ea6f5a208cf13adab7c930b318cc40895d65a00a05ca8",
+      "sourceUrl": "https://www.clintonlibrary.gov/galleries/president-bill-clinton-photo-gallery",
+      "downloadedFrom": "https://www.clintonlibrary.gov/sites/default/files/catalog/P66457-28.jpg",
+      "reason": "Authentic source and rights verified, but delivered original exceeds the production 750000-byte and/or 3000-pixel ceiling. Research only; excluded from admitted shard. No local resampling, synthesis or limit relaxation.",
+      "candidate": {
+        "id": "world-batch-06-clinton-havel",
+        "recordIds": [
+          "person-vaclav-havel"
+        ],
+        "kind": "portrait",
+        "representation": "lifetime-portrait",
+        "title": {
+          "en": "Václav Havel in the Oval Office",
+          "zh": "瓦茨拉夫·哈维尔在椭圆形办公室"
+        },
+        "alt": {
+          "en": "Václav Havel and Bill Clinton smile while seated in yellow armchairs beside a fireplace.",
+          "zh": "瓦茨拉夫·哈维尔与比尔·克林顿坐在壁炉旁的黄色扶手椅上微笑。"
+        },
+        "caption": {
+          "en": "Ralph Alswang photographed Czech president Václav Havel meeting Clinton in the Oval Office on 16 September 1998.",
+          "zh": "拉尔夫·阿尔斯旺于1998年9月16日拍摄捷克总统瓦茨拉夫·哈维尔在椭圆形办公室与克林顿会面。"
+        },
+        "interpretation": {
+          "en": "The former dissident appears here in the routines of presidential diplomacy. The informal posture contrasts with the formal setting of state office.",
+          "zh": "昔日异议人士在此参与总统外交的日常活动。轻松的坐姿与正式的国家办公场所形成对照。"
+        },
+        "creator": "Ralph Alswang, White House Photograph Office",
+        "date": "16 September 1998",
+        "institution": "William J. Clinton Presidential Library and Museum / NARA",
+        "sourceUrl": "https://www.clintonlibrary.gov/galleries/president-bill-clinton-photo-gallery",
+        "imageUrl": "https://www.clintonlibrary.gov/sites/default/files/catalog/P66457-28.jpg",
+        "downloadedFrom": "https://www.clintonlibrary.gov/sites/default/files/catalog/P66457-28.jpg",
+        "file": "assets/history-media/world-batch-06-clinton-havel.jpg",
+        "sha256": "74041f10f35badabeb3ea6f5a208cf13adab7c930b318cc40895d65a00a05ca8",
+        "bytes": 2624210,
+        "width": 5004,
+        "height": 3366,
+        "checkedAt": "2026-11-11",
+        "rightsSourceUrl": "https://www.clintonlibrary.gov/research/audio-visual-research",
+        "rights": {
+          "label": "Public domain",
+          "url": "https://www.clintonlibrary.gov/research/audio-visual-research",
+          "note": {
+            "en": "The official gallery credits Ralph Alswang and photo P66457-28. The library’s AV policy states that White House photographer images are in the public domain.",
+            "zh": "官方画廊署名拉尔夫·阿尔斯旺，照片号P66457-28。图书馆视听政策说明白宫摄影师的照片属于公有领域。"
+          }
+        },
+        "credit": "Ralph Alswang, White House Photograph Office; William J. Clinton Presidential Library and Museum / NARA, P66457-28",
+        "metadataI18n": {
+          "creator": {
+            "en": "Ralph Alswang, White House Photograph Office",
+            "zh": "拉尔夫·阿尔斯旺，白宫摄影办公室"
+          },
+          "date": {
+            "en": "16 September 1998",
+            "zh": "1998年9月16日"
+          },
+          "institution": {
+            "en": "William J. Clinton Presidential Library and Museum / NARA",
+            "zh": "威廉·J.克林顿总统图书馆暨博物馆／美国国家档案馆"
+          }
+        },
+        "transformation": {
+          "en": "Institution-delivered JPEG preserved byte-for-byte. No local cropping, recolouring or generated content.",
+          "zh": "逐字节保存机构提供的JPEG，未在本地裁剪、调色或生成内容。"
+        },
+        "retrieval": "Official institutional source and rights evidence retained in pacific-africa/receipts. JPEG decoded, hashed and visually inspected. Per-entry associations reviewed against baseline records."
+      }
+    }
+  ],
+  "knowledgeGaps": [
+    {
+      "topic": "Named makers and patrons without biography entries",
+      "finding": "No person-kind entry exists for Johannes Gutenberg, James Watt, Queen Victoria or Shah Jahan in the2087-record snapshot. Their verified portraits are linked only to existing entries where each is explicitly central.",
+      "possibleNextStep": "Consider targeted biographies on printing collaboration, practical engineering, imperial sovereignty and Mughal patronage. Do not derive biographies from portrait metadata alone."
+    },
+    {
+      "topic": "Ibn Sina manuscript binding provenance",
+      "finding": "Wellcome mwhd97dv identifies a Canon binding board and pulse-taking scene but does not date the board or name the maker.",
+      "possibleNextStep": "Find its manuscript shelfmark and fuller catalogue record before adding a regional or chronological interpretation of the binding."
+    },
+    {
+      "topic": "Japanese portrait exposure dates and photographers",
+      "finding": "NDL exhibition provides explicit public-domain reuse but not exposure dates or photographer names on the inspected pages for Tsuda, Yosano and Fukuzawa.",
+      "possibleNextStep": "Trace the linked digitized source volumes for richer photographic provenance; current metadata leaves these facts unassigned."
+    },
+    {
+      "topic": "Uneven regional image coverage",
+      "finding": "This accepted batch newly covers11 European,7 North American,4 Oceanian,4 East Asian,2 African,2 South Asian,1 Latin American and1 West/Central Asian entries. No Southeast Asian image was admitted. Several African/Oceanian historical candidates remain held for missing pixels or image-specific rights.",
+      "possibleNextStep": "Prioritize source work for Nana Asmau, Njoya, Taytu and Tupaia and verified Southeast Asian biographies rather than lowering identity/rights standards."
+    },
+    {
+      "topic": "Gutenberg source-title anomaly",
+      "finding": "Met198665 title includes a death year1486, while the displayed atlas caption does not repeat it. Exact source title is preserved in the ledger.",
+      "possibleNextStep": "Use independent historical sources for biographical dates; do not propagate the apparent catalogue title error."
+    }
+  ]
+}

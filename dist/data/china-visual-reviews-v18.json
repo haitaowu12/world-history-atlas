@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "reviewedAt": "2026-11-11",
-  "policy": "Two targeted historical corrections; geographic anchors remain pending separate review.",
+  "policy": "Ten source-backed bilingual narrative corrections, preserving original records and identifying regional reference points.",
   "eventReviews": [
     {
       "id": "china-landmark-359",
@@ -105,6 +105,403 @@
           "evidenceNote": "Introduction paragraphs 2–3 identify the elder nephew Ch’uan-ming (Quanming) and recovery; final paragraph describes revisions.",
           "retrieval": "Read the linked source directly; relevant chronology or object passage reviewed.",
           "evidenceNoteZh": "介绍第2至3段记述长侄泉明及收殓遗骸；末段说明文稿中的多处涂改。"
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-119",
+      "patch": {
+        "title": {
+          "en": "Laoshang Chanyu raids through Xiaoguan",
+          "zh": "老上单于率军入萧关"
+        },
+        "summary": {
+          "en": "In 166 BCE, Laoshang Chanyu led a Xiongnu incursion through Chaona and Xiaoguan. The Shiji reports 140,000 cavalry, raids reaching Pengyang, and advance riders reaching Yong and Ganquan. Emperor Wen mobilized forces near Chang’an and along the frontier; the Xiongnu withdrew after more than a month.",
+          "zh": "前166年，老上单于率匈奴军入朝那、萧关。《史记》记其骑兵十四万，进至彭阳，前哨抵雍、甘泉。汉文帝调兵驻守长安附近及边郡；匈奴军在塞内停留月余后撤走。"
+        },
+        "dateNote": {
+          "en": "166 BCE is Emperor Wen’s year 14. Zhou Yafu’s Xiliu deployment belongs to a separate incursion in 158 BCE.",
+          "zh": "前166年为汉文帝十四年；周亚夫驻细柳属于前158年的另一次边患。"
+        },
+        "location": {
+          "lon": 106.32,
+          "lat": 35.85,
+          "label": "Xiaoguan region, near Guyuan (reference point)",
+          "labelI18n": {
+            "en": "Xiaoguan region, near Guyuan (reference point)",
+            "zh": "固原附近的萧关地区（参考点）"
+          },
+          "labelProvenance": "reviewed-reference-anchor"
+        },
+        "locationPrecision": "representative"
+      },
+      "note": {
+        "en": "Separated the 166 BCE incursion from the 158 BCE Xiliu story. The 140,000 figure is attributed to the Shiji. The inherited coordinate remains a regional reference, not a verified Han pass site.",
+        "zh": "分开前166年入边与前158年细柳驻军；十四万骑明确归于《史记》记数。原坐标仅作区域参考，并非核实后的汉代关址。"
+      },
+      "sources": [
+        {
+          "title": "Shiji 110, Xiongnu biography: Emperor Wen, year 14",
+          "url": "https://zh.wikisource.org/wiki/史記/卷110#老上單于_稽粥",
+          "publisher": "Wikisource transcription of the historical text",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "The year-14 passage names Chaona and Xiaoguan, reports 140,000 cavalry, and describes forces stationed near Chang’an.",
+          "evidenceNoteZh": "文帝十四年段记朝那、萧关及十四万骑，并记汉军驻长安旁。",
+          "retrieval": "Reopened the linked text and inspected the specified passage on 2026-11-11.",
+          "author": "Sima Qian"
+        },
+        {
+          "title": "Shiji 57, Zhou Yafu: the Xiliu camp in Wen’s later-era year 6",
+          "url": "https://zh.wikisource.org/wiki/史記/卷057#條侯亞夫",
+          "publisher": "Wikisource transcription of the historical text",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "Separately dates the Bashang, Jimen and Xiliu deployments to Wen’s later-era year 6, conventionally 158 BCE.",
+          "evidenceNoteZh": "将霸上、棘门、细柳三处驻军另记于文帝后六年，即前158年。",
+          "retrieval": "Reopened the linked text and inspected the specified passage on 2026-11-11.",
+          "author": "Sima Qian"
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-314",
+      "patch": {
+        "title": {
+          "en": "Cao Cao selects surrendered troops for the Qingzhou army",
+          "zh": "曹操从黄巾降卒中选编青州兵"
+        },
+        "summary": {
+          "en": "In 192, after Liu Dai’s death, Cao Cao took charge of Yan province and pursued the Qingzhou Yellow Turbans to Jibei. The Sanguozhi records the surrender of more than 300,000 soldiers that winter. Cao Cao selected their elite troops to form the force known as the Qingzhou army; the text gives no number for that selected force.",
+          "zh": "192年，刘岱死后，曹操领兖州牧，追击青州黄巾至济北。《三国志》记当年冬季受降士卒三十余万；曹操从中选取精锐，号为“青州兵”，并未记载所选部队的人数。"
+        },
+        "dateNote": {
+          "en": "192 is Chuping 3; the surrender is recorded in winter.",
+          "zh": "192年为初平三年，受降记于当年冬季。"
+        },
+        "location": {
+          "lon": 116.82,
+          "lat": 35.55,
+          "label": "Modern Yanzhou, Shandong (regional reference)",
+          "labelI18n": {
+            "en": "Modern Yanzhou, Shandong (regional reference)",
+            "zh": "山东今兖州（区域参考点）"
+          },
+          "labelProvenance": "reviewed-reference-anchor"
+        },
+        "locationPrecision": "representative"
+      },
+      "note": {
+        "en": "Distinguished all surrendered soldiers from the smaller selected force. Retained the modern Yanzhou coordinate as a regional reference; removed the Chinese label’s unsupported identification of this point as Changyi or the recruitment site.",
+        "zh": "区分降卒总数与其中所选部队。保留今兖州坐标作区域参考，删除把此点标为昌邑或编军地点的含义。"
+      },
+      "sources": [
+        {
+          "title": "Sanguozhi 1, Emperor Wu: Chuping 3 and the Qingzhou troops",
+          "url": "https://zh.wikisource.org/wiki/三國志/卷01",
+          "publisher": "Wikisource transcription of the historical text",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "Chuping 3: Cao Cao assumes leadership in Yan province, pursues the Yellow Turbans to Jibei, receives more than 300,000 surrendered soldiers, and selects their elite for the Qingzhou troops. No size is given for the selected force.",
+          "evidenceNoteZh": "初平三年记曹操领兖州牧、追黄巾至济北、受降卒三十余万，再收其精锐为青州兵；未给出所选人数。",
+          "retrieval": "Reopened the linked text and inspected the specified passage on 2026-11-11.",
+          "author": "Chen Shou"
+        }
+      ]
+    },
+    {
+      "id": "china-event-donghan-001",
+      "patch": {
+        "title": {
+          "en": "Liu Xiu becomes emperor, then establishes his capital at Luoyang",
+          "zh": "刘秀称帝后定都洛阳"
+        },
+        "summary": {
+          "en": "In 25 CE, Liu Xiu took the imperial title at an altar south of Hao, at Qianqiuting Wuchengmo, inaugurating the Jianwu era. Later that year he entered Luoyang and established his capital there. The Hou Hanshu places the accession in the sixth lunar month and the move to Luoyang in the tenth.",
+          "zh": "25年，刘秀在鄗南千秋亭五成陌设坛即皇帝位，建元建武。同年稍后，他进入洛阳并定都于此。《后汉书》将即位记于农历六月，将入洛阳定都记于十月。"
+        },
+        "dateNote": {
+          "en": "Both events fall in 25 CE. Luoyang anchors the establishment of the capital, not the accession ceremony.",
+          "zh": "两事均在25年；洛阳锚点对应定都，不是即位仪式地点。"
+        },
+        "location": {
+          "lon": 112.451,
+          "lat": 34.621,
+          "label": "Luoyang (capital-city reference)",
+          "labelI18n": {
+            "en": "Luoyang (capital-city reference)",
+            "zh": "洛阳（都城参考点）"
+          },
+          "labelProvenance": "reviewed-reference-anchor"
+        },
+        "locationPrecision": "representative"
+      },
+      "note": {
+        "en": "Corrected accession at Luoyang to accession south of Hao followed by establishment of the capital at Luoyang. Retained the city reference coordinate; it does not locate the Han palace or the accession altar.",
+        "zh": "将“在洛阳称帝”改为鄗南即位、随后定都洛阳。保留城市参考坐标，不将其视作汉宫或即位坛的具体位置。"
+      },
+      "sources": [
+        {
+          "title": "Hou Hanshu 1 upper: accession south of Hao and the move to Luoyang",
+          "url": "https://zh.wikisource.org/wiki/後漢書/卷1上",
+          "publisher": "Wikisource transcription of the historical text",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "Jianwu 1: an altar south of Hao at Qianqiuting Wuchengmo; accession in lunar month 6; entry into Luoyang and establishment of the capital in lunar month 10.",
+          "evidenceNoteZh": "建武元年：鄗南千秋亭五成陌设坛，六月即位；十月入洛阳，遂定都。",
+          "retrieval": "Reopened the linked text and inspected the specified passage on 2026-11-11.",
+          "author": "Fan Ye"
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-036",
+      "patch": {
+        "title": {
+          "en": "Emperor Yang begins the Eastern Capital and Tongji Canal",
+          "zh": "隋炀帝营建东京，开通济渠"
+        },
+        "summary": {
+          "en": "In 605, Emperor Yang ordered construction of an eastern capital at Luoyang and the opening of the Tongji Canal. The Sui shu describes waterways linking the Luoyang area to the Yellow River and onward toward the Huai. It records the capital’s completion in 606 and orders for the separate Yongji Canal, extending north toward Zhuo commandery, in 608.",
+          "zh": "605年，隋炀帝诏建东京洛阳，并开通济渠。《隋书》记水道自洛阳一带达黄河，再向淮河连通；东京于606年建成，另向北通往涿郡的永济渠则在608年奉诏开凿。"
+        },
+        "dateNote": {
+          "en": "605 dates the orders for the Eastern Capital and Tongji Canal. The capital was completed in 606; Yongji was ordered in 608.",
+          "zh": "605年对应营建东京与开通济渠的诏令；东京606年建成，永济渠608年奉诏开凿。"
+        },
+        "location": {
+          "lon": 112.45,
+          "lat": 34.62,
+          "label": "Luoyang (Eastern Capital reference)",
+          "labelI18n": {
+            "en": "Luoyang (Eastern Capital reference)",
+            "zh": "洛阳（东都参考点）"
+          },
+          "labelProvenance": "reviewed-reference-anchor"
+        },
+        "locationPrecision": "representative"
+      },
+      "note": {
+        "en": "Separated Tongji (605) from Yongji (608), and distinguished the 605 construction order from the capital’s completion in 606. The city reference does not plot either canal’s full course.",
+        "zh": "区分通济渠（605）与永济渠（608），并分开605年营建诏令与606年东京建成。城市参考点不表示两渠的完整线路。"
+      },
+      "sources": [
+        {
+          "title": "Sui shu 3: Eastern Capital, Tongji Canal and Yongji Canal",
+          "url": "https://zh.wikisource.org/wiki/隋書/卷03",
+          "publisher": "Wikisource transcription of the historical text",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "Daye 1, month 3 orders construction of the Eastern Capital and the Tongji Canal. Daye 2 records completion of the capital. Daye 4, month 1 orders the Yongji Canal.",
+          "evidenceNoteZh": "大业元年三月诏营东京、开通济渠；二年记东京成；四年正月诏开永济渠。",
+          "retrieval": "Reopened the linked text and inspected the specified passage on 2026-11-11."
+        }
+      ]
+    },
+    {
+      "id": "china-event-sui-010",
+      "patch": {
+        "title": {
+          "en": "Emperor Yang is besieged at Yanmen",
+          "zh": "隋炀帝被围雁门"
+        },
+        "summary": {
+          "en": "In 615, Shibi Khan’s Turkic forces besieged Emperor Yang at Yanmen. The emperor called on the commanderies for reinforcements; the besiegers withdrew the following lunar month. In a later stage of the rebellions, Li Mi and Zhai Rang seized Xingluo granary at Luokou in 617 and opened its grain stores to the people.",
+          "zh": "615年，始毕可汗的突厥军将隋炀帝围于雁门。炀帝诏令诸郡发兵救援，围军于次月撤去。此后叛乱继续发展，李密、翟让于617年攻取洛口的兴洛仓，开仓让民众取粮。"
+        },
+        "dateNote": {
+          "en": "615 anchors the Yanmen siege (Daye 11). The granary seizure was in 617 (Daye 13), two years later.",
+          "zh": "615年锚定雁门之围（大业十一年）；夺仓在两年后的617年（大业十三年）。"
+        },
+        "location": {
+          "lon": 112.88,
+          "lat": 39.19,
+          "label": "Yanmen region (siege reference)",
+          "labelI18n": {
+            "en": "Yanmen region (siege reference)",
+            "zh": "雁门地区（围城事件参考点）"
+          },
+          "labelProvenance": "reviewed-reference-anchor"
+        },
+        "locationPrecision": "representative"
+      },
+      "note": {
+        "en": "Corrected the interval to two years and made Yanmen the focal event. The retained coordinate is a Yanmen regional reference, not Luokou and not a verified siege-wall location. The later granary event is explicitly dated.",
+        "zh": "将间隔改为两年，并以雁门之围为中心事件。原坐标仅作雁门地区参考，不表示洛口或已核实的围城城墙位置；后续夺仓事件另标年份。"
+      },
+      "sources": [
+        {
+          "title": "Sui shu 4: Yanmen in Daye 11 and Xingluo granary in Daye 13",
+          "url": "https://zh.wikisource.org/wiki/隋書/卷04",
+          "publisher": "Wikisource transcription of the historical text",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "Daye 11, lunar months 8–9: Shibi’s siege and withdrawal. Daye 13, month 2: Li Mi and Zhai Rang take Xingluo granary. These correspond to 615 and 617.",
+          "evidenceNoteZh": "大业十一年八、九月记始毕围城与撤围；十三年二月记李密、翟让陷兴洛仓，分别为615、617年。",
+          "retrieval": "Reopened the linked text and inspected the specified passage on 2026-11-11."
+        },
+        {
+          "title": "Sui shu 70, Li Mi: seizure and opening of Xingluo granary at Luokou",
+          "url": "https://zh.wikisource.org/wiki/隋書/卷70#李密",
+          "publisher": "Wikisource transcription of the historical text",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "Li Mi’s biography dates the seizure to Daye 13, describes opening the grain stores to the people, and subsequently calls the fortified base Luokou.",
+          "evidenceNoteZh": "李密传将袭取兴洛仓记于大业十三年，记开仓任民取粮，后文称其据点为洛口。",
+          "retrieval": "Reopened the linked text and inspected the specified passage on 2026-11-11."
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-424",
+      "patch": {
+        "title": {
+          "en": "Lin Zexu supervises the destruction of opium at Humen",
+          "zh": "林则徐主持虎门销烟"
+        },
+        "summary": {
+          "en": "In 1839, imperial commissioner Lin Zexu supervised the destruction of confiscated opium at Humen. The drug was mixed with salt water and lime and released into the sea. His reported tally, quoted in Hummel’s biographical dictionary, was 19,179 chests and 2,119 bags.",
+          "zh": "1839年，钦差大臣林则徐在虎门主持销毁收缴的鸦片，将其拌入盐水、石灰后排入海中。恒慕义主编的人物传记辞典引述林则徐所报销毁数，为19,179箱、2,119袋。"
+        },
+        "dateNote": {
+          "en": "1839 dates the destruction at Humen; the tally distinguishes chests from bags.",
+          "zh": "1839年为虎门销烟之年；数量分别以箱、袋计。"
+        },
+        "location": {
+          "lon": 113.61,
+          "lat": 22.81,
+          "label": "Humen, Guangdong (coastal reference)",
+          "labelI18n": {
+            "en": "Humen, Guangdong (coastal reference)",
+            "zh": "广东虎门（海岸参考点）"
+          },
+          "labelProvenance": "reviewed-reference-anchor"
+        },
+        "locationPrecision": "representative"
+      },
+      "note": {
+        "en": "Replaced an undifferentiated chest count with the biography’s attributed destruction tally. Its earlier 20,283-chest surrender pledge is a different statement. The point is a coastal reference, not a surveyed destruction pit.",
+        "zh": "以传记所引、注明出处的销毁数替换笼统箱数；前文20,283箱为承诺交出的数量。点位仅作海岸参考，不表示经测定的销烟池。"
+      },
+      "sources": [
+        {
+          "title": "Eminent Chinese of the Ch’ing Period: Lin Tsê-hsü (Lin Zexu)",
+          "url": "https://en.wikisource.org/wiki/Eminent_Chinese_of_the_Ch%27ing_Period/Lin_Ts%C3%AA-hs%C3%BC",
+          "publisher": "U.S. Government Printing Office; Wikisource transcription",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "The 1839 destruction paragraph gives Lin’s reported total of 19,179 chests and 2,119 bags. An earlier paragraph gives Elliot’s initial pledge as 20,283 chests. The two measures must not be silently conflated.",
+          "evidenceNoteZh": "1839年销烟段记林则徐所报销毁数为19,179箱、2,119袋；前文20,283箱为义律最初承诺交出的数量，不能混用。",
+          "retrieval": "Reopened the linked text and inspected the specified passage on 2026-11-11.",
+          "author": "Tu Lien-chê; Arthur W. Hummel, editor"
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-466",
+      "patch": {
+        "title": {
+          "en": "Nurhaci is defeated at Ningyuan",
+          "zh": "努尔哈赤攻宁远受挫"
+        },
+        "summary": {
+          "en": "In early 1626, Yuan Chonghuan’s Ming defenders repelled Nurhaci’s assault on Ningyuan with the help of newly mounted foreign cannon. Nurhaci died later that year, and Hong Taiji succeeded him as khan.",
+          "zh": "1626年初，袁崇焕率明军守宁远，借助新置西洋火炮击退努尔哈赤的进攻。努尔哈赤于同年稍后去世，皇太极继汗位。"
+        },
+        "dateNote": {
+          "en": "The Ningyuan battle, Nurhaci’s death and Hong Taiji’s succession all fall in 1626.",
+          "zh": "宁远之战、努尔哈赤去世与皇太极继位均在1626年。"
+        },
+        "location": {
+          "lon": 120.73,
+          "lat": 40.62,
+          "label": "Ningyuan, now Xingcheng (battle reference)",
+          "labelI18n": {
+            "en": "Ningyuan, now Xingcheng (battle reference)",
+            "zh": "宁远，今兴城（战事参考点）"
+          },
+          "labelProvenance": "reviewed-reference-anchor"
+        },
+        "locationPrecision": "representative"
+      },
+      "note": {
+        "en": "Removed the asserted fatal-wound causal chain while retaining the defense, artillery and succession. The coordinate anchors Ningyuan only; it is not Mukden or Nurhaci’s death site.",
+        "zh": "删除炮伤致死的断言，保留守城、火炮及汗位继承。坐标只锚定宁远，不表示盛京或努尔哈赤去世地点。"
+      },
+      "sources": [
+        {
+          "title": "Eminent Chinese of the Ch’ing Period: Nurhaci",
+          "url": "https://en.wikisource.org/wiki/Eminent_Chinese_of_the_Ch%27ing_Period/Nurhaci",
+          "publisher": "U.S. Government Printing Office; Wikisource transcription",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "The final campaign paragraph records defeat at Ningyuan, describes a probable slight wound, and places death seven months later. It does not establish a fatal cannon wound.",
+          "evidenceNoteZh": "末次战役段记宁远战败，推测可能仅受轻伤，七个月后去世；未证实炮伤致死。",
+          "retrieval": "Reopened the linked text and inspected the specified passage on 2026-11-11.",
+          "author": "Fang Chao-ying; Arthur W. Hummel, editor"
+        },
+        {
+          "title": "Eminent Chinese of the Ch’ing Period: Yüan Ch’ung-huan (Yuan Chonghuan)",
+          "url": "https://en.wikisource.org/wiki/Eminent_Chinese_of_the_Ch%27ing_Period/Y%C3%BCan_Ch%27ung-huan",
+          "publisher": "U.S. Government Printing Office; Wikisource transcription",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "The 1626 passage credits the Ningyuan defense to newly mounted foreign guns. The final campaign passage describes Yuan’s recall to defend Beijing, arrest, charges, and execution in 1630.",
+          "evidenceNoteZh": "1626年段记宁远守城使用新置西洋火炮；末段记袁崇焕回援北京、被捕、罪名与1630年遇害。",
+          "retrieval": "Reopened the linked text and inspected the specified passage on 2026-11-11."
+        },
+        {
+          "title": "Eminent Chinese of the Ch’ing Period: Abahai (Hong Taiji)",
+          "url": "https://en.wikisource.org/wiki/Eminent_Chinese_of_the_Ch%27ing_Period/Abahai",
+          "publisher": "U.S. Government Printing Office; Wikisource transcription",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "The 1629 campaign paragraph explicitly attributes the spy evidence against Yuan to Qing official accounts. The accession paragraph records Hong Taiji’s succession in 1626.",
+          "evidenceNoteZh": "1629年战事段明确将间谍提供袁崇焕罪证的说法归于清方官方记载；即位段记皇太极于1626年继汗位。",
+          "retrieval": "Reopened the linked text and inspected the specified passage on 2026-11-11.",
+          "author": "Fang Chao-ying; Arthur W. Hummel, editor"
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-505",
+      "patch": {
+        "title": {
+          "en": "The Chongzhen Emperor has Yuan Chonghuan executed",
+          "zh": "崇祯帝处死袁崇焕"
+        },
+        "summary": {
+          "en": "Yuan Chonghuan returned to defend Beijing during Hong Taiji’s invasion, but was arrested and executed in 1630. Hummel’s dictionary records charges of collusion with the enemy and the killing of Mao Wenlong. Its Hong Taiji biography attributes the claim that spies supplied evidence against Yuan to Qing official accounts.",
+          "zh": "皇太极入侵时，袁崇焕回援北京，却被捕并于1630年遭处死。恒慕义主编的人物传记辞典记其所受指控包括通敌及杀毛文龙；其中皇太极传将间谍提供袁崇焕罪证的说法明确归于清方官方记载。"
+        },
+        "dateNote": {
+          "en": "1630 anchors the execution; the invasion that prompted Yuan’s return to Beijing began in 1629.",
+          "zh": "1630年锚定处决；促使袁崇焕回援北京的入侵始于1629年。"
+        },
+        "location": {
+          "lon": 116.37,
+          "lat": 39.9,
+          "label": "Beijing (city reference)",
+          "labelI18n": {
+            "en": "Beijing (city reference)",
+            "zh": "北京（城市参考点）"
+          },
+          "labelProvenance": "reviewed-reference-anchor"
+        },
+        "locationPrecision": "representative"
+      },
+      "note": {
+        "en": "Replaced a settled ruse explanation with explicit source attribution and distinguished accusations from findings of fact. Removed the unverified Western Market location and the evaluative “destroying his own Great Wall” phrase. Retained a Beijing city reference.",
+        "zh": "将反间计定论改为注明来源的记载，并区分指控与事实认定。删除未经核实的西市定位及“自毁长城”的评语，保留北京城市参考点。"
+      },
+      "sources": [
+        {
+          "title": "Eminent Chinese of the Ch’ing Period: Yüan Ch’ung-huan (Yuan Chonghuan)",
+          "url": "https://en.wikisource.org/wiki/Eminent_Chinese_of_the_Ch%27ing_Period/Y%C3%BCan_Ch%27ung-huan",
+          "publisher": "U.S. Government Printing Office; Wikisource transcription",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "The 1626 passage credits the Ningyuan defense to newly mounted foreign guns. The final campaign passage describes Yuan’s recall to defend Beijing, arrest, charges, and execution in 1630.",
+          "evidenceNoteZh": "1626年段记宁远守城使用新置西洋火炮；末段记袁崇焕回援北京、被捕、罪名与1630年遇害。",
+          "retrieval": "Reopened the linked text and inspected the specified passage on 2026-11-11."
+        },
+        {
+          "title": "Eminent Chinese of the Ch’ing Period: Abahai (Hong Taiji)",
+          "url": "https://en.wikisource.org/wiki/Eminent_Chinese_of_the_Ch%27ing_Period/Abahai",
+          "publisher": "U.S. Government Printing Office; Wikisource transcription",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "The 1629 campaign paragraph explicitly attributes the spy evidence against Yuan to Qing official accounts. The accession paragraph records Hong Taiji’s succession in 1626.",
+          "evidenceNoteZh": "1629年战事段明确将间谍提供袁崇焕罪证的说法归于清方官方记载；即位段记皇太极于1626年继汗位。",
+          "retrieval": "Reopened the linked text and inspected the specified passage on 2026-11-11.",
+          "author": "Fang Chao-ying; Arthur W. Hummel, editor"
         }
       ]
     }

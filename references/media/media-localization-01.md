@@ -31,3 +31,7 @@ Join the optional layer by asset ID and require each `en` value to match the cur
 The final research package now covers **206 assets / 618 translated fields**, with all prior 175 translations unchanged. The 31 new site-photo records were reconciled after display dates dropped EXIF clock times; source evidence retains the full timestamps. The two year-only dates and one month-only date retain their original precision. Named photographers, image editors and source-host credits remain distinct from monument makers or collection ownership.
 
 The research validator passed 206 image hashes, 53 semantic regressions and 7,284 assertions. Delivered localization SHA-256: `144d1a78386f00c39f6f2acd2e38a27103541aac9210ed7cec6a32572b2258f8`. The owner independently checks exact English-field equality during the production build. Research package: `research/v18/media-localization-01/`.
+
+## World biography batch extension
+
+238 assets, 714 localized credit fields. The prior206 rows are unchanged; all English date/creator/institution strings exactly match their source metadata. All238 image hashes pass. Date precision distinguishes photograph exposure, publication, recto/verso, copies and uncertain attribution. Localization SHA256: `f656e083534dd365bbbe2fe25f39fa1cde7f587c1be0af9c3ccacf768bbcb0ca`.

@@ -14122,6 +14122,2337 @@
         "en": "Commons-provided JPEG, unchanged locally. Source-side cropping or processing is described on the file page.",
         "zh": "采用Commons提供的JPEG，未在本地修改。来源已有的裁切或处理见文件页说明。"
       }
+    },
+    {
+      "id": "world-batch-06-newton",
+      "recordIds": [
+        "person-isaac-newton"
+      ],
+      "kind": "portrait",
+      "representation": "later-depiction",
+      "title": {
+        "en": "Newton remembered in profile",
+        "zh": "侧面肖像中的牛顿纪念"
+      },
+      "alt": {
+        "en": "An etched profile of Newton sits inside a circular frame above an identifying inscription.",
+        "zh": "牛顿的蚀刻侧面肖像置于圆框之中，下方有身份题记。"
+      },
+      "caption": {
+        "en": "W. Hoare’s etching is dated 1734, seven years after Newton’s death. Its medallion-like format presents the mathematician as a figure for public remembrance.",
+        "zh": "W.霍尔的蚀刻画作于1734年，即牛顿逝世七年后。奖章般的构图将这位数学家塑造成供公众纪念的人物。"
+      },
+      "interpretation": {
+        "en": "The classical profile and Latin lettering give scientific authorship a commemorative form. Compare this later image with Newton’s mathematical writing and institutional career.",
+        "zh": "古典侧面构图与拉丁题字，为科学作者赋予纪念形式。可将这幅后世图像与牛顿的数学著作及机构生涯对读。"
+      },
+      "file": "assets/history-media/world-batch-06-newton.jpg",
+      "sha256": "cf9dcd94b84426f24c3ad5d740a63d0a87e6f0233991f34e0d0c0f2d7db246a0",
+      "bytes": 400703,
+      "width": 957,
+      "height": 1201,
+      "checkedAt": "2026-11-11",
+      "downloadedFrom": "https://iiif.wellcomecollection.org/image/V0004290/full/!1200,1200/0/default.jpg",
+      "imageUrl": "https://iiif.wellcomecollection.org/image/V0004290/full/!1200,1200/0/default.jpg",
+      "credit": "Wellcome Collection",
+      "sourceUrl": "https://wellcomecollection.org/works/w84b6gde",
+      "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/w84b6gde",
+      "rights": {
+        "label": "Public Domain Mark",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "note": {
+          "en": "Public-domain image. Credit: Wellcome Collection.",
+          "zh": "公有领域图像。署名：惠康收藏馆（Wellcome Collection）。"
+        }
+      },
+      "creator": "W. Hoare",
+      "date": "1734",
+      "institution": "Wellcome Collection",
+      "metadataI18n": {
+        "date": {
+          "en": "1734",
+          "zh": "1734年"
+        },
+        "creator": {
+          "en": "W. Hoare",
+          "zh": "W.霍尔（W. Hoare）"
+        },
+        "institution": {
+          "en": "Wellcome Collection",
+          "zh": "惠康收藏（Wellcome Collection）"
+        }
+      },
+      "transformation": {
+        "en": "Institution-provided full-frame JPEG at display resolution; no local changes.",
+        "zh": "馆方提供的显示分辨率完整画面JPEG，未在本地修改。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Read the related history",
+            "zh": "阅读相关历史"
+          },
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Newton/"
+        }
+      ]
+    },
+    {
+      "id": "world-batch-06-copernicus",
+      "recordIds": [
+        "person-nicolaus-copernicus"
+      ],
+      "kind": "portrait",
+      "representation": "later-depiction",
+      "title": {
+        "en": "Copernicus in an 1802 print",
+        "zh": "1802年版画中的哥白尼"
+      },
+      "alt": {
+        "en": "A coloured oval portrait shows Copernicus in a fur-trimmed garment above a small medallion and printed name.",
+        "zh": "彩色椭圆肖像中，哥白尼穿着饰有毛皮的衣服，下方有小奖章与印刷姓名。"
+      },
+      "caption": {
+        "en": "John Chapman’s coloured stipple engraving dates to 1802, more than two centuries after Copernicus’s death.",
+        "zh": "约翰·查普曼的彩色点刻版画作于1802年，比哥白尼逝世晚两个多世纪。"
+      },
+      "interpretation": {
+        "en": "The print shows how a recognisable author’s face accompanied the later circulation of scientific reputation. It belongs to Copernicus’s reception rather than the making of his planetary model.",
+        "zh": "这幅版画展示了鲜明的作者面孔如何伴随科学声誉传播。它属于哥白尼的后世接受史，而非其行星模型形成时的图像。"
+      },
+      "file": "assets/history-media/world-batch-06-copernicus.jpg",
+      "sha256": "0f09a3f57d08ead6880909731a25b08e9dc6df85d260e308f9b7c0a44622cfc0",
+      "bytes": 338781,
+      "width": 851,
+      "height": 1200,
+      "checkedAt": "2026-11-11",
+      "downloadedFrom": "https://iiif.wellcomecollection.org/image/V0001270ER/full/!1200,1200/0/default.jpg",
+      "imageUrl": "https://iiif.wellcomecollection.org/image/V0001270ER/full/!1200,1200/0/default.jpg",
+      "credit": "Wellcome Collection",
+      "sourceUrl": "https://wellcomecollection.org/works/kc57czj8",
+      "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/kc57czj8",
+      "rights": {
+        "label": "Public Domain Mark",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "note": {
+          "en": "Public-domain image. Credit: Wellcome Collection.",
+          "zh": "公有领域图像。署名：惠康收藏馆（Wellcome Collection）。"
+        }
+      },
+      "creator": "John Chapman",
+      "date": "1802",
+      "institution": "Wellcome Collection",
+      "metadataI18n": {
+        "date": {
+          "en": "1802",
+          "zh": "1802年"
+        },
+        "creator": {
+          "en": "John Chapman",
+          "zh": "约翰·查普曼（John Chapman）"
+        },
+        "institution": {
+          "en": "Wellcome Collection",
+          "zh": "惠康收藏（Wellcome Collection）"
+        }
+      },
+      "transformation": {
+        "en": "Institution-provided full-frame JPEG at display resolution; no local changes.",
+        "zh": "馆方提供的显示分辨率完整画面JPEG，未在本地修改。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Read the related history",
+            "zh": "阅读相关历史"
+          },
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Copernicus/"
+        }
+      ]
+    },
+    {
+      "id": "world-batch-06-nightingale",
+      "recordIds": [
+        "person-florence-nightingale"
+      ],
+      "kind": "portrait",
+      "representation": "lifetime-portrait",
+      "title": {
+        "en": "Florence Nightingale in 1854",
+        "zh": "1854年的弗洛伦斯·南丁格尔"
+      },
+      "alt": {
+        "en": "A coloured lithograph portrays Nightingale in a pale bonnet and striped shawl tied with a blue bow.",
+        "zh": "彩色石版画中的南丁格尔戴浅色帽子，披条纹披肩，系蓝色蝴蝶结。"
+      },
+      "caption": {
+        "en": "H. M. Bonham-Carter made this coloured lithograph in 1854, the year Nightingale travelled to the Crimean War hospitals.",
+        "zh": "H. M.博纳姆-卡特于1854年制作这幅彩色石版画；同年南丁格尔前往克里米亚战争医院。"
+      },
+      "interpretation": {
+        "en": "A composed personal portrait offers a different starting point from the familiar lamp-bearing emblem. Her public work also depended on records, training and hospital organization.",
+        "zh": "这幅沉静的人物肖像，为理解南丁格尔提供了不同于“提灯者”象征的起点。她的公共工作也依赖记录、培训与医院组织。"
+      },
+      "file": "assets/history-media/world-batch-06-nightingale.jpg",
+      "sha256": "2cf3832c6502f77fd3a1dd2d5b6a09a4d1d49068a00705608162c0b75f799b44",
+      "bytes": 417395,
+      "width": 1043,
+      "height": 1201,
+      "checkedAt": "2026-11-11",
+      "downloadedFrom": "https://iiif.wellcomecollection.org/image/V0004309/full/!1200,1200/0/default.jpg",
+      "imageUrl": "https://iiif.wellcomecollection.org/image/V0004309/full/!1200,1200/0/default.jpg",
+      "credit": "Wellcome Collection",
+      "sourceUrl": "https://wellcomecollection.org/works/tqpyk843",
+      "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/tqpyk843",
+      "rights": {
+        "label": "Public Domain Mark",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "note": {
+          "en": "Public-domain image. Credit: Wellcome Collection.",
+          "zh": "公有领域图像。署名：惠康收藏馆（Wellcome Collection）。"
+        }
+      },
+      "creator": "H. M. Bonham-Carter",
+      "date": "1854",
+      "institution": "Wellcome Collection",
+      "metadataI18n": {
+        "date": {
+          "en": "1854",
+          "zh": "1854年"
+        },
+        "creator": {
+          "en": "H. M. Bonham-Carter",
+          "zh": "H. M.博纳姆-卡特（H. M. Bonham-Carter）"
+        },
+        "institution": {
+          "en": "Wellcome Collection",
+          "zh": "惠康收藏（Wellcome Collection）"
+        }
+      },
+      "transformation": {
+        "en": "Institution-provided full-frame JPEG at display resolution; no local changes.",
+        "zh": "馆方提供的显示分辨率完整画面JPEG，未在本地修改。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Read the related history",
+            "zh": "阅读相关历史"
+          },
+          "url": "https://www.nam.ac.uk/explore/florence-nightingale-lady-lamp"
+        }
+      ]
+    },
+    {
+      "id": "world-batch-06-hildegard",
+      "recordIds": [
+        "person-hildegard-bingen"
+      ],
+      "kind": "portrait",
+      "representation": "later-depiction",
+      "title": {
+        "en": "Hildegard imagined in 1642",
+        "zh": "1642年想象中的希尔德加德"
+      },
+      "alt": {
+        "en": "A veiled woman holds an open book inside a rectangular engraved frame with a name panel below.",
+        "zh": "戴面纱的女子手持打开的书，置于长方形雕版画框内，下方有姓名栏。"
+      },
+      "caption": {
+        "en": "William Marshall’s engraving dates to 1642, centuries after Hildegard of Bingen. The book and religious clothing construct the image of a learned abbess.",
+        "zh": "威廉·马歇尔的雕版画作于1642年，比宾根的希尔德加德生活的时代晚数百年。书本与宗教服饰共同塑造博学女修院长的形象。"
+      },
+      "interpretation": {
+        "en": "Read the book and identifying text as choices made by a later printmaker. Hildegard’s surviving letters provide a separate route into her own community and voice.",
+        "zh": "书本与身份题字体现后世版画家的选择；希尔德加德存世的书信，则提供通往她本人社群与声音的另一条路径。"
+      },
+      "file": "assets/history-media/world-batch-06-hildegard.jpg",
+      "sha256": "24a2d06bc8746e5e949d0dd16d6f468478489748ee1fc07d4a6d06784b73071c",
+      "bytes": 462138,
+      "width": 1030,
+      "height": 1200,
+      "checkedAt": "2026-11-11",
+      "downloadedFrom": "https://iiif.wellcomecollection.org/image/L0005783/full/!1200,1200/0/default.jpg",
+      "imageUrl": "https://iiif.wellcomecollection.org/image/L0005783/full/!1200,1200/0/default.jpg",
+      "credit": "Wellcome Collection",
+      "sourceUrl": "https://wellcomecollection.org/works/b48yzmst",
+      "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/b48yzmst",
+      "rights": {
+        "label": "Public Domain Mark",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "note": {
+          "en": "Public-domain image. Credit: Wellcome Collection.",
+          "zh": "公有领域图像。署名：惠康收藏馆（Wellcome Collection）。"
+        }
+      },
+      "creator": "William Marshall",
+      "date": "1642",
+      "institution": "Wellcome Collection",
+      "metadataI18n": {
+        "date": {
+          "en": "1642",
+          "zh": "1642年"
+        },
+        "creator": {
+          "en": "William Marshall",
+          "zh": "威廉·马歇尔（William Marshall）"
+        },
+        "institution": {
+          "en": "Wellcome Collection",
+          "zh": "惠康收藏（Wellcome Collection）"
+        }
+      },
+      "transformation": {
+        "en": "Institution-provided full-frame JPEG at display resolution; no local changes.",
+        "zh": "馆方提供的显示分辨率完整画面JPEG，未在本地修改。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Read the related history",
+            "zh": "阅读相关历史"
+          },
+          "url": "https://epistolae.ctl.columbia.edu/woman/115.html"
+        }
+      ]
+    },
+    {
+      "id": "world-batch-06-watt",
+      "recordIds": [
+        "watt-separate-condenser"
+      ],
+      "kind": "portrait",
+      "representation": "lifetime-portrait",
+      "title": {
+        "en": "James Watt in a 1792 engraving",
+        "zh": "1792年雕版画中的詹姆斯·瓦特"
+      },
+      "alt": {
+        "en": "Watt sits beside a table, resting his head on one hand in a black-and-white engraved portrait.",
+        "zh": "黑白雕版肖像中，瓦特坐在桌旁，一只手托着头。"
+      },
+      "caption": {
+        "en": "This 1792 engraving follows a portrait by Carl Frederik von Breda. The engraver is not identified in the collection record.",
+        "zh": "这幅1792年雕版画依据卡尔·弗雷德里克·冯·布雷达的肖像而作；馆藏记录未注明雕刻者。"
+      },
+      "interpretation": {
+        "en": "The image gives a face to the engineer named in the separate-condenser story. The contemplative pose is a portrait convention, not a record of the 1769 invention.",
+        "zh": "图像为独立冷凝器故事中的工程师提供面孔。沉思姿态是一种肖像惯例，并非1769年发明现场的记录。"
+      },
+      "file": "assets/history-media/world-batch-06-watt.jpg",
+      "sha256": "bc3ab91ccdc75256ebb5ab60a520f9c096fdc53dc5095d99977fb2988c6849ab",
+      "bytes": 296524,
+      "width": 827,
+      "height": 1200,
+      "checkedAt": "2026-11-11",
+      "downloadedFrom": "https://iiif.wellcomecollection.org/image/V0006168/full/!1200,1200/0/default.jpg",
+      "imageUrl": "https://iiif.wellcomecollection.org/image/V0006168/full/!1200,1200/0/default.jpg",
+      "credit": "Wellcome Collection",
+      "sourceUrl": "https://wellcomecollection.org/works/by5hhbyq",
+      "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/by5hhbyq",
+      "rights": {
+        "label": "Public Domain Mark",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "note": {
+          "en": "Public-domain image. Credit: Wellcome Collection.",
+          "zh": "公有领域图像。署名：惠康收藏馆（Wellcome Collection）。"
+        }
+      },
+      "creator": "Unrecorded engraver, after Carl Frederik von Breda",
+      "date": "1792",
+      "institution": "Wellcome Collection",
+      "metadataI18n": {
+        "date": {
+          "en": "1792",
+          "zh": "1792年"
+        },
+        "creator": {
+          "en": "Unrecorded engraver, after Carl Frederik von Breda",
+          "zh": "雕版者姓名未载，据卡尔·弗雷德里克·冯·布雷达（Carl Frederik von Breda）原作制作"
+        },
+        "institution": {
+          "en": "Wellcome Collection",
+          "zh": "惠康收藏（Wellcome Collection）"
+        }
+      },
+      "transformation": {
+        "en": "Institution-provided full-frame JPEG at display resolution; no local changes.",
+        "zh": "馆方提供的显示分辨率完整画面JPEG，未在本地修改。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Read the related history",
+            "zh": "阅读相关历史"
+          },
+          "url": "https://blog.sciencemuseum.org.uk/james-watt-and-the-separate-condenser/"
+        }
+      ]
+    },
+    {
+      "id": "world-batch-06-avicenna",
+      "recordIds": [
+        "person-ibn-sina"
+      ],
+      "kind": "manuscript",
+      "representation": "manuscript-detail",
+      "title": {
+        "en": "A medical scene on a copy of Ibn Sina’s Canon",
+        "zh": "伊本·西那《医典》抄本封板上的医疗场景"
+      },
+      "alt": {
+        "en": "A brightly painted manuscript binding shows a reclining woman, a seated physician and attendants beneath a tree.",
+        "zh": "鲜艳的抄本装帧画中，一名女子斜卧，医者坐在旁边，侍从立于树下。"
+      },
+      "caption": {
+        "en": "Wellcome identifies this as the binding board of a manuscript of Avicenna’s Canon of Medicine, showing a doctor taking a woman’s pulse. Its catalogue does not date the binding or name the painter.",
+        "zh": "惠康将其识别为阿维森纳《医典》抄本的封板，描绘医者为女子诊脉。目录未注明封板年代或画师。"
+      },
+      "interpretation": {
+        "en": "This is evidence of the book’s illustrated material life, not a portrait of Ibn Sina. The scene connects an influential medical text to the recognizable practice of examining a patient.",
+        "zh": "这是这部医书图像与物质传播的证据，并非伊本·西那的肖像。画面把一部影响深远的医学文本与具体的病人诊察联系起来。"
+      },
+      "file": "assets/history-media/world-batch-06-avicenna.jpg",
+      "sha256": "f49d46d2772f8cd67b8caf9bd7f86e57442971e2b9f96bb58c1c10923bbb9130",
+      "bytes": 320004,
+      "width": 812,
+      "height": 1200,
+      "checkedAt": "2026-11-11",
+      "downloadedFrom": "https://iiif.wellcomecollection.org/image/L0000009/full/!1200,1200/0/default.jpg",
+      "imageUrl": "https://iiif.wellcomecollection.org/image/L0000009/full/!1200,1200/0/default.jpg",
+      "credit": "Wellcome Collection",
+      "sourceUrl": "https://wellcomecollection.org/works/mwhd97dv",
+      "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/mwhd97dv",
+      "rights": {
+        "label": "Public Domain Mark",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "note": {
+          "en": "Public-domain image. Credit: Wellcome Collection.",
+          "zh": "公有领域图像。署名：惠康收藏馆（Wellcome Collection）。"
+        }
+      },
+      "creator": "Unrecorded painter and binder; text by Ibn Sina (Avicenna)",
+      "date": "Binding undated in the collection record",
+      "institution": "Wellcome Collection",
+      "metadataI18n": {
+        "date": {
+          "en": "Binding undated in the collection record",
+          "zh": "馆藏记录未载装帧年代"
+        },
+        "creator": {
+          "en": "Unrecorded painter and binder; text by Ibn Sina (Avicenna)",
+          "zh": "画师与装帧者姓名未载；文本作者：伊本·西那（Ibn Sina，又称Avicenna）"
+        },
+        "institution": {
+          "en": "Wellcome Collection",
+          "zh": "惠康收藏（Wellcome Collection）"
+        }
+      },
+      "transformation": {
+        "en": "Institution-provided full-frame JPEG at display resolution; no local changes.",
+        "zh": "馆方提供的显示分辨率完整画面JPEG，未在本地修改。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Read the related history",
+            "zh": "阅读相关历史"
+          },
+          "url": "https://plato.stanford.edu/entries/ibn-sina/"
+        }
+      ]
+    },
+    {
+      "id": "world-batch-06-comenius",
+      "recordIds": [
+        "person-jan-amos-comenius"
+      ],
+      "kind": "portrait",
+      "representation": "lifetime-portrait",
+      "title": {
+        "en": "Comenius in a painted portrait",
+        "zh": "绘画肖像中的夸美纽斯"
+      },
+      "alt": {
+        "en": "A bearded man wearing a dark cap and a coat with a red collar looks outward from a dark painted background.",
+        "zh": "有须男子戴深色帽子、穿红领外衣，从深色绘画背景中望向观众。"
+      },
+      "caption": {
+        "en": "Jürgen Ovens painted Jan Amos Comenius between 1650 and 1670. The portrait belongs to the educator’s later lifetime.",
+        "zh": "尤尔根·奥文斯于1650至1670年间绘制扬·阿摩司·夸美纽斯肖像，属于这位教育家生前晚期的形象。"
+      },
+      "interpretation": {
+        "en": "The close view draws attention to a particular person behind widely circulated educational books. His teaching programme developed through exile, religious commitments and patronage.",
+        "zh": "近距离肖像让广为流传的教育著作背后的人物成为焦点。他的教育方案在流亡、宗教信念与资助关系中形成。"
+      },
+      "file": "assets/history-media/world-batch-06-comenius.jpg",
+      "sha256": "ebfa59d885bdaaf063ca9cdae0e064f98b26d5a73f60b4482e041b305a299500",
+      "bytes": 150718,
+      "width": 1040,
+      "height": 1200,
+      "checkedAt": "2026-11-11",
+      "downloadedFrom": "https://iiif.micr.io/QtDLU/full/!1200,1200/0/default.jpg",
+      "imageUrl": "https://iiif.micr.io/QtDLU/full/!1200,1200/0/default.jpg",
+      "credit": "Rijksmuseum, SK-A-2161",
+      "sourceUrl": "https://www.rijksmuseum.nl/en/collection/object/Portrait-of-Jan-Amos-Comenius--a0fd2c3be578ec360aadac312b864d12",
+      "rightsSourceUrl": "https://www.rijksmuseum.nl/en/collection/object/Portrait-of-Jan-Amos-Comenius--a0fd2c3be578ec360aadac312b864d12",
+      "rights": {
+        "label": "Public Domain",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "note": {
+          "en": "Public-domain image. Credit: Rijksmuseum, SK-A-2161.",
+          "zh": "公有领域图像。署名：荷兰国立博物馆，SK-A-2161。"
+        }
+      },
+      "creator": "Jürgen Ovens",
+      "date": "1650–1670",
+      "institution": "Rijksmuseum",
+      "metadataI18n": {
+        "date": {
+          "en": "1650–1670",
+          "zh": "1650—1670年"
+        },
+        "creator": {
+          "en": "Jürgen Ovens",
+          "zh": "尤尔根·奥文斯（Jürgen Ovens）"
+        },
+        "institution": {
+          "en": "Rijksmuseum",
+          "zh": "荷兰国立博物馆（Rijksmuseum）"
+        }
+      },
+      "transformation": {
+        "en": "Institution-provided full-frame JPEG at display resolution; no local changes.",
+        "zh": "馆方提供的显示分辨率完整画面JPEG，未在本地修改。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Read the related history",
+            "zh": "阅读相关历史"
+          },
+          "url": "https://www.mjakub.cz/life-of-j.-a.-comenius?idm=162"
+        }
+      ]
+    },
+    {
+      "id": "world-batch-06-orbis-pictus",
+      "recordIds": [
+        "orbis-pictus-illustrated-learning",
+        "person-jan-amos-comenius"
+      ],
+      "kind": "document",
+      "representation": "document-facsimile",
+      "title": {
+        "en": "Words, numbers and pictures in Orbis Pictus",
+        "zh": "《世界图解》中的词语、数字与图像"
+      },
+      "alt": {
+        "en": "An illustrated page headed The World and Mundus places a numbered landscape above parallel English and Latin vocabulary.",
+        "zh": "题为“The World”与“Mundus”的图解页，在编号景观下方并列英语与拉丁语词汇。"
+      },
+      "caption": {
+        "en": "Page 22 of a New York edition published by T. & J. Swords in 1810. This is a later Latin–English edition of Comenius’s book, with Charles Hoole’s translation and cuts credited to Alexander Anderson.",
+        "zh": "1810年纽约T. & J.斯沃兹出版版本第22页。这是夸美纽斯著作的后期拉丁语—英语版，采用查尔斯·胡尔译文，插图署名亚历山大·安德森。"
+      },
+      "interpretation": {
+        "en": "Match the numbers in the picture to the two columns: clouds, birds, hills and people become linked words and things. The page makes the book’s teaching method visible.",
+        "zh": "将图中数字与两栏词汇对应：云、鸟、山丘和人，把词语与事物连在一起。这一页让书中的教学方法具体可见。"
+      },
+      "file": "assets/history-media/world-batch-06-orbis-pictus.jpg",
+      "sha256": "9bda0a9f1966a145d93ca0528de856079fbde3c84016bb9347d4efb019b99b8e",
+      "bytes": 129701,
+      "width": 562,
+      "height": 1000,
+      "checkedAt": "2026-11-11",
+      "downloadedFrom": "https://iiif.wellcomecollection.org/image/b29339492_0030.jp2/full/!1000,1000/0/default.jpg",
+      "imageUrl": "https://iiif.wellcomecollection.org/image/b29339492_0030.jp2/full/!1000,1000/0/default.jpg",
+      "credit": "Wellcome Collection",
+      "sourceUrl": "https://wellcomecollection.org/works/ju2nkyws",
+      "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/ju2nkyws",
+      "rights": {
+        "label": "Public Domain Mark",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "note": {
+          "en": "Public-domain image. Credit: Wellcome Collection.",
+          "zh": "公有领域图像。署名：惠康收藏馆（Wellcome Collection）。"
+        }
+      },
+      "creator": "Jan Amos Comenius (author); Charles Hoole (translator); Alexander Anderson (engraver); T. & J. Swords (publisher)",
+      "date": "1810 edition, page 22",
+      "institution": "Wellcome Collection",
+      "metadataI18n": {
+        "date": {
+          "en": "1810 edition, page 22",
+          "zh": "1810年版，第22页"
+        },
+        "creator": {
+          "en": "Jan Amos Comenius (author); Charles Hoole (translator); Alexander Anderson (engraver); T. & J. Swords (publisher)",
+          "zh": "扬·阿摩司·夸美纽斯（作者）；查尔斯·胡尔（Charles Hoole，译者）；亚历山大·安德森（Alexander Anderson，雕版者）；T. & J. Swords（出版者）"
+        },
+        "institution": {
+          "en": "Wellcome Collection",
+          "zh": "惠康收藏（Wellcome Collection）"
+        }
+      },
+      "transformation": {
+        "en": "Institution-provided full-frame JPEG at display resolution; no local changes.",
+        "zh": "馆方提供的显示分辨率完整画面JPEG，未在本地修改。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Read the related history",
+            "zh": "阅读相关历史"
+          },
+          "url": "https://gallery.lib.umn.edu/exhibits/show/abc-of-it--why-children-s-book/visions-of-childhood/the-rational-child/orbis-sensualium-pictus"
+        }
+      ]
+    },
+    {
+      "id": "world-batch-06-caesar",
+      "recordIds": [
+        "person-julius-caesar"
+      ],
+      "kind": "portrait",
+      "representation": "ancient-portrait",
+      "title": {
+        "en": "Caesar’s profile cut into amethyst",
+        "zh": "刻入紫水晶的凯撒侧像"
+      },
+      "alt": {
+        "en": "A tiny purple gemstone contains a pale profile head; a ruler below shows its small scale.",
+        "zh": "微小的紫色宝石内刻浅色侧面头像，下方标尺显示其尺寸。"
+      },
+      "caption": {
+        "en": "Roman amethyst intaglio, about 50–40 BCE, identified by the Met as a portrait bust of Julius Caesar.",
+        "zh": "罗马紫水晶凹雕，约公元前50至40年，大都会将其识别为尤利乌斯·凯撒的胸像。"
+      },
+      "interpretation": {
+        "en": "A political face could circulate at the scale of a gemstone, as well as in monumental sculpture. The ruler helps recover the intimate size of this ancient portrait.",
+        "zh": "政治人物的面孔不仅出现于纪念性雕塑，也能以宝石的尺度流传。标尺帮助我们理解这件古代肖像的微小尺寸。"
+      },
+      "file": "assets/history-media/world-batch-06-caesar.jpg",
+      "sha256": "920a60e5720e6e996279004fcc93b9bf168e3aa8480d2009860ae79f751a974c",
+      "bytes": 45434,
+      "width": 600,
+      "height": 600,
+      "checkedAt": "2026-11-11",
+      "downloadedFrom": "https://images.metmuseum.org/CRDImages/gr/web-large/DP111331.jpg",
+      "imageUrl": "https://images.metmuseum.org/CRDImages/gr/original/DP111331.jpg",
+      "credit": "Rogers Fund, 1911",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/248572",
+      "rightsSourceUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access",
+      "rights": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "CC0 public-domain image. Credit: Rogers Fund, 1911.",
+          "zh": "CC0公有领域图像。署名：Rogers Fund, 1911。"
+        }
+      },
+      "creator": "Unrecorded Roman gem engraver",
+      "date": "ca. 50–40 BCE",
+      "institution": "The Metropolitan Museum of Art",
+      "metadataI18n": {
+        "date": {
+          "en": "ca. 50–40 BCE",
+          "zh": "约公元前50—40年"
+        },
+        "creator": {
+          "en": "Unrecorded Roman gem engraver",
+          "zh": "罗马宝石雕刻者，姓名未载"
+        },
+        "institution": {
+          "en": "The Metropolitan Museum of Art",
+          "zh": "大都会艺术博物馆"
+        }
+      },
+      "transformation": {
+        "en": "Institution-provided JPEG, unchanged.",
+        "zh": "馆方提供的JPEG，未作修改。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Read the related history",
+            "zh": "阅读相关历史"
+          },
+          "url": "https://www.metmuseum.org/essays/the-roman-republic"
+        }
+      ]
+    },
+    {
+      "id": "world-batch-06-alexander",
+      "recordIds": [
+        "person-alexander-great"
+      ],
+      "kind": "portrait",
+      "representation": "later-depiction",
+      "title": {
+        "en": "Alexander and Diogenes in a later etching",
+        "zh": "后世蚀刻画中的亚历山大与第欧根尼"
+      },
+      "alt": {
+        "en": "An armed ruler and his companions confront a seated philosopher amid architectural ruins and gathered figures.",
+        "zh": "一名武装统治者及随从，与坐着的哲学家相对；周围有建筑遗迹和聚集的人物。"
+      },
+      "caption": {
+        "en": "An anonymous etching, about 1580–1640, imagines Alexander the Great meeting Diogenes. It was made nearly two millennia after Alexander’s lifetime.",
+        "zh": "匿名蚀刻画，约1580至1640年，想象亚历山大大帝与第欧根尼相遇，制作时间距亚历山大的生涯近两千年。"
+      },
+      "interpretation": {
+        "en": "The encounter became a way to contrast political power with philosophical independence. This image shows Alexander’s long afterlife in European art.",
+        "zh": "这次相遇成为对照政治权力与哲学独立的一种方式。图像展现亚历山大在欧洲艺术中持久的后世影响。"
+      },
+      "file": "assets/history-media/world-batch-06-alexander.jpg",
+      "sha256": "3d010f2b8e4a5daf883f9575a257515c39c9fa6e9493614f1b1653e246ed7c12",
+      "bytes": 195963,
+      "width": 464,
+      "height": 625,
+      "checkedAt": "2026-11-11",
+      "downloadedFrom": "https://images.metmuseum.org/CRDImages/dp/web-large/DP883165.jpg",
+      "imageUrl": "https://images.metmuseum.org/CRDImages/dp/original/DP883165.jpg",
+      "credit": "Gift of Joseph Verner Reed, 1950",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/812706",
+      "rightsSourceUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access",
+      "rights": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "CC0 public-domain image. Credit: Gift of Joseph Verner Reed, 1950.",
+          "zh": "CC0公有领域图像。署名：Gift of Joseph Verner Reed, 1950。"
+        }
+      },
+      "creator": "Anonymous",
+      "date": "ca. 1580–1640",
+      "institution": "The Metropolitan Museum of Art",
+      "metadataI18n": {
+        "date": {
+          "en": "ca. 1580–1640",
+          "zh": "约1580—1640年"
+        },
+        "creator": {
+          "en": "Anonymous",
+          "zh": "佚名"
+        },
+        "institution": {
+          "en": "The Metropolitan Museum of Art",
+          "zh": "大都会艺术博物馆"
+        }
+      },
+      "transformation": {
+        "en": "Institution-provided JPEG, unchanged.",
+        "zh": "馆方提供的JPEG，未作修改。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Read the related history",
+            "zh": "阅读相关历史"
+          },
+          "url": "https://www.metmuseum.org/essays/the-rise-of-macedonia-and-the-conquests-of-alexander-the-great"
+        }
+      ]
+    },
+    {
+      "id": "world-batch-06-gutenberg",
+      "recordIds": [
+        "gutenberg-printing"
+      ],
+      "kind": "portrait",
+      "representation": "later-depiction",
+      "title": {
+        "en": "Remembering Gutenberg in 1889",
+        "zh": "1889年对古腾堡的纪念"
+      },
+      "alt": {
+        "en": "A circular bronze medal carries Gutenberg’s imagined bearded profile and inscriptions around its edge.",
+        "zh": "圆形铜章上有想象中的古腾堡有须侧像，边缘环绕题字。"
+      },
+      "caption": {
+        "en": "Anton Scharff’s commemorative medal is catalogued as 1889 (?). It marks the erection of a Gutenberg statue in New York by Robert Hoe, rather than preserving a fifteenth-century likeness.",
+        "zh": "安东·沙尔夫的纪念章在目录中标为1889年（存疑），纪念罗伯特·霍在纽约建立古腾堡雕像，而非保存15世纪的本人面貌。"
+      },
+      "interpretation": {
+        "en": "The medal links the industrial printing world to a celebrated predecessor. It is useful evidence of commemoration alongside the entry’s account of type, ink and presswork.",
+        "zh": "铜章把工业印刷世界与备受推崇的前辈连接起来，可与条目中的活字、油墨和印刷工艺相互参照，理解纪念行为。"
+      },
+      "file": "assets/history-media/world-batch-06-gutenberg.jpg",
+      "sha256": "12b8a28fda960767f528852dcb0a746bcaa807e03c712e35f72805299fcb5365",
+      "bytes": 64197,
+      "width": 504,
+      "height": 624,
+      "checkedAt": "2026-11-11",
+      "downloadedFrom": "https://images.metmuseum.org/CRDImages/es/web-large/121774.jpg",
+      "imageUrl": "https://images.metmuseum.org/CRDImages/es/original/121774.jpg",
+      "credit": "Gift of Henry N. Kent, 1940",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/198665",
+      "rightsSourceUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access",
+      "rights": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "CC0 public-domain image. Credit: Gift of Henry N. Kent, 1940.",
+          "zh": "CC0公有领域图像。署名：Gift of Henry N. Kent, 1940。"
+        }
+      },
+      "creator": "Anton Scharff",
+      "date": "1889 (?)",
+      "institution": "The Metropolitan Museum of Art",
+      "metadataI18n": {
+        "date": {
+          "en": "1889 (?)",
+          "zh": "1889年（存疑）"
+        },
+        "creator": {
+          "en": "Anton Scharff",
+          "zh": "安东·沙尔夫（Anton Scharff）"
+        },
+        "institution": {
+          "en": "The Metropolitan Museum of Art",
+          "zh": "大都会艺术博物馆"
+        }
+      },
+      "transformation": {
+        "en": "Institution-provided JPEG, unchanged.",
+        "zh": "馆方提供的JPEG，未作修改。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Read the related history",
+            "zh": "阅读相关历史"
+          },
+          "url": "https://www.loc.gov/exhibits/bibles/the-gutenberg-bible.html"
+        }
+      ]
+    },
+    {
+      "id": "world-batch-06-victoria",
+      "recordIds": [
+        "crown-rule-india"
+      ],
+      "kind": "portrait",
+      "representation": "lifetime-portrait",
+      "title": {
+        "en": "Victoria’s crowned head, painted in 1838",
+        "zh": "1838年绘制的维多利亚加冕肖像习作"
+      },
+      "alt": {
+        "en": "A young woman wears a jeweled crown in an unfinished oil study, with brushwork left visible around her shoulders.",
+        "zh": "年轻女子戴珠宝王冠，未完成的油画习作在肩膀周围保留明显笔触。"
+      },
+      "caption": {
+        "en": "Thomas Sully painted this oil study during four Buckingham Palace sittings in May 1838. It predates Victoria’s 1858 proclamation transferring government in India to the Crown.",
+        "zh": "托马斯·萨利于1838年5月在白金汉宫四次写生时绘制此油画习作，早于维多利亚1858年宣布印度治理转归王室的公告。"
+      },
+      "interpretation": {
+        "en": "The portrait identifies the sovereign named in the proclamation. Its youthful court image and the later colonial document belong to different moments in a long reign.",
+        "zh": "肖像标明公告中所称的君主。年轻时的宫廷形象与后来的殖民文件，属于漫长统治中的不同时刻。"
+      },
+      "file": "assets/history-media/world-batch-06-victoria.jpg",
+      "sha256": "b35be069d7d0dd9bd146c5d16656d694634931bc900885e192b2e736d7697064",
+      "bytes": 63627,
+      "width": 500,
+      "height": 624,
+      "checkedAt": "2026-11-11",
+      "downloadedFrom": "https://images.metmuseum.org/CRDImages/ad/web-large/DT5422.jpg",
+      "imageUrl": "https://images.metmuseum.org/CRDImages/ad/original/DT5422.jpg",
+      "credit": "Bequest of Francis T. S. Darley, 1914",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/12702",
+      "rightsSourceUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access",
+      "rights": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "CC0 public-domain image. Credit: Bequest of Francis T. S. Darley, 1914.",
+          "zh": "CC0公有领域图像。署名：Bequest of Francis T. S. Darley, 1914。"
+        }
+      },
+      "creator": "Thomas Sully",
+      "date": "1838",
+      "institution": "The Metropolitan Museum of Art",
+      "metadataI18n": {
+        "date": {
+          "en": "1838",
+          "zh": "1838年"
+        },
+        "creator": {
+          "en": "Thomas Sully",
+          "zh": "托马斯·萨利（Thomas Sully）"
+        },
+        "institution": {
+          "en": "The Metropolitan Museum of Art",
+          "zh": "大都会艺术博物馆"
+        }
+      },
+      "transformation": {
+        "en": "Institution-provided JPEG, unchanged.",
+        "zh": "馆方提供的JPEG，未作修改。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Read the related history",
+            "zh": "阅读相关历史"
+          },
+          "url": "https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/parliament-and-empire/parliament-and-the-american-colonies-before-1765/government-of-the-raj-1858-1914/"
+        }
+      ]
+    },
+    {
+      "id": "world-batch-06-akbar",
+      "recordIds": [
+        "mughal-translation-workshops",
+        "fatehpur-sikri-court"
+      ],
+      "kind": "artwork",
+      "representation": "historical-artwork",
+      "title": {
+        "en": "Akbar at prayer near the end of his reign",
+        "zh": "统治末期前后祈祷中的阿克巴"
+      },
+      "alt": {
+        "en": "An elderly emperor stands in profile holding prayer beads, with a pale robe and a red-and-blue sash.",
+        "zh": "年长皇帝侧身站立，手持念珠，着浅色袍服，系红蓝腰带。"
+      },
+      "caption": {
+        "en": "Early seventeenth-century ink and opaque watercolour. The Met dates its commission to shortly before or after Akbar’s death in 1605; the artist is unrecorded.",
+        "zh": "17世纪初的墨与不透明水彩画。大都会认为委托时间在阿克巴1605年去世前后不久；画师未有记载。"
+      },
+      "interpretation": {
+        "en": "This is the named patron behind the court and translation-workshop entries. Visible changes around the legs also reveal a painter revising the emperor’s presentation.",
+        "zh": "这是宫廷与翻译作坊条目中的具体赞助者。腿部周围可见的改动，也让我们看到画师调整皇帝形象的过程。"
+      },
+      "file": "assets/history-media/world-batch-06-akbar.jpg",
+      "sha256": "e898a9d1ce51d28d7426d36232b9d64c834668988b628c46fdd2ff59be24dfd1",
+      "bytes": 54860,
+      "width": 368,
+      "height": 624,
+      "checkedAt": "2026-11-11",
+      "downloadedFrom": "https://images.metmuseum.org/CRDImages/is/web-large/sf29-160-20a.jpg",
+      "imageUrl": "https://images.metmuseum.org/CRDImages/is/original/sf29-160-20a.jpg",
+      "credit": "H. O. Havemeyer Collection, Gift of Horace Havemeyer, 1929",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/448278",
+      "rightsSourceUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access",
+      "rights": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "CC0 public-domain image. Credit: H. O. Havemeyer Collection, Gift of Horace Havemeyer, 1929.",
+          "zh": "CC0公有领域图像。署名：H. O. Havemeyer Collection, Gift of Horace Havemeyer, 1929。"
+        }
+      },
+      "creator": "Unrecorded Mughal painter",
+      "date": "early 17th century",
+      "institution": "The Metropolitan Museum of Art",
+      "metadataI18n": {
+        "date": {
+          "en": "early 17th century",
+          "zh": "17世纪初"
+        },
+        "creator": {
+          "en": "Unrecorded Mughal painter",
+          "zh": "莫卧儿画家，姓名未载"
+        },
+        "institution": {
+          "en": "The Metropolitan Museum of Art",
+          "zh": "大都会艺术博物馆"
+        }
+      },
+      "transformation": {
+        "en": "Institution-provided JPEG, unchanged.",
+        "zh": "馆方提供的JPEG，未作修改。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Read the related history",
+            "zh": "阅读相关历史"
+          },
+          "url": "https://www.vam.ac.uk/articles/the-arts-of-the-mughal-empire"
+        }
+      ]
+    },
+    {
+      "id": "world-batch-06-shah-jahan",
+      "recordIds": [
+        "taj-mahal"
+      ],
+      "kind": "portrait",
+      "representation": "lifetime-portrait",
+      "title": {
+        "en": "Shah Jahan presents his own image",
+        "zh": "沙贾汗展示自己的肖像"
+      },
+      "alt": {
+        "en": "A jeweled emperor stands on a small platform inside an ornate album border, holding a portrait pendant.",
+        "zh": "佩戴珠宝的皇帝站在小台座上，手持肖像吊坠，四周有精细画册边饰。"
+      },
+      "caption": {
+        "en": "Chitarman painted this album leaf in 1627–28, near the start of Shah Jahan’s reign. Its portrait precedes his commission for the Taj Mahal.",
+        "zh": "奇塔尔曼于1627至1628年绘制此画册页，接近沙贾汗统治开端，早于他委托建造泰姬陵。"
+      },
+      "interpretation": {
+        "en": "The pendant repeats the ruler’s image inside his portrait. Alongside the mausoleum, it shows another scale at which Mughal patronage made imperial identity visible.",
+        "zh": "吊坠在皇帝肖像内部再次呈现他的形象。与陵墓相对照，可以看到莫卧儿赞助如何在另一种尺度上呈现帝王身份。"
+      },
+      "file": "assets/history-media/world-batch-06-shah-jahan.jpg",
+      "sha256": "080d5beb6ff5e5c15f7edd8459613d2de38abfcd3206318988d8384353536333",
+      "bytes": 111081,
+      "width": 417,
+      "height": 624,
+      "checkedAt": "2026-11-11",
+      "downloadedFrom": "https://images.metmuseum.org/CRDImages/is/web-large/DP246547.jpg",
+      "imageUrl": "https://images.metmuseum.org/CRDImages/is/original/DP246547.jpg",
+      "credit": "Purchase, Rogers Fund and The Kevorkian Foundation Gift, 1955",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/451270",
+      "rightsSourceUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access",
+      "rights": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "CC0 public-domain image. Credit: Purchase, Rogers Fund and The Kevorkian Foundation Gift, 1955.",
+          "zh": "CC0公有领域图像。署名：Purchase, Rogers Fund and The Kevorkian Foundation Gift, 1955。"
+        }
+      },
+      "creator": "Chitarman",
+      "date": "recto: dated 1627–28; verso: ca. 1530–50",
+      "institution": "The Metropolitan Museum of Art",
+      "metadataI18n": {
+        "date": {
+          "en": "recto: dated 1627–28; verso: ca. 1530–50",
+          "zh": "正面：纪年为1627—1628年；背面：约1530—1550年"
+        },
+        "creator": {
+          "en": "Chitarman",
+          "zh": "奇塔尔曼（Chitarman）"
+        },
+        "institution": {
+          "en": "The Metropolitan Museum of Art",
+          "zh": "大都会艺术博物馆"
+        }
+      },
+      "transformation": {
+        "en": "Institution-provided JPEG, unchanged.",
+        "zh": "馆方提供的JPEG，未作修改。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Read the related history",
+            "zh": "阅读相关历史"
+          },
+          "url": "https://whc.unesco.org/en/list/252/"
+        }
+      ]
+    },
+    {
+      "id": "world-batch-06-abd-al-qadir",
+      "recordIds": [
+        "person-abd-al-qadir"
+      ],
+      "kind": "portrait",
+      "representation": "lifetime-portrait",
+      "title": {
+        "en": "Abd al-Qadir in an 1879 commemorative print",
+        "zh": "1879年纪念版画中的阿卜杜勒·卡迪尔"
+      },
+      "alt": {
+        "en": "A central portrait of a bearded man in a hooded cloak is surrounded by smaller scenes, foliage and lettering.",
+        "zh": "戴兜帽、披斗篷的有须男子居中，周围环绕小场景、枝叶与题字。"
+      },
+      "caption": {
+        "en": "A wood engraving dated 1879, during Abd al-Qadir’s lifetime. Petit Palais credits Edmond Morin and Léon-Louis Chapon as engravers.",
+        "zh": "木版画，1879年，制作于阿卜杜勒·卡迪尔生前。小皇宫博物馆将埃德蒙·莫兰与莱昂-路易·沙蓬列为雕刻者。"
+      },
+      "interpretation": {
+        "en": "The surrounding vignettes turn a portrait into a composed account of a public life. Read this French print alongside the biography’s Algerian and Damascus settings.",
+        "zh": "周围的小场景将肖像变成经过编排的公共生涯叙事。可将这幅法国版画与传记中的阿尔及利亚和大马士革背景对读。"
+      },
+      "file": "assets/history-media/world-batch-06-abd-al-qadir.jpg",
+      "sha256": "68ab7c7ca72a62a5a47340b97ac8a65bb78b297b8d116fdbb36dd5453e36a380",
+      "bytes": 557452,
+      "width": 1495,
+      "height": 2160,
+      "checkedAt": "2026-11-11",
+      "downloadedFrom": "https://apicollections.parismusees.paris.fr/sites/default/files/styles/4k/collections/atoms/images/PPA/43094-4.jpg?itok=Q7_p7-SX",
+      "imageUrl": "https://apicollections.parismusees.paris.fr/sites/default/files/styles/4k/collections/atoms/images/PPA/43094-4.jpg?itok=Q7_p7-SX",
+      "credit": "Paris Musées / Petit Palais, PPG3829",
+      "sourceUrl": "https://parismuseescollections.paris.fr/fr/petit-palais/oeuvres/l-emir-abd-el-kader",
+      "rightsSourceUrl": "https://parismuseescollections.paris.fr/fr/petit-palais/oeuvres/l-emir-abd-el-kader",
+      "rights": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "CC0 public-domain image. Credit: Paris Musées / Petit Palais, PPG3829.",
+          "zh": "CC0公有领域图像。署名：Paris Musées / Petit Palais, PPG3829。"
+        }
+      },
+      "creator": "Edmond Morin; Léon-Louis Chapon",
+      "date": "1879",
+      "institution": "Paris Musées / Petit Palais",
+      "metadataI18n": {
+        "date": {
+          "en": "1879",
+          "zh": "1879年"
+        },
+        "creator": {
+          "en": "Edmond Morin; Léon-Louis Chapon",
+          "zh": "埃德蒙·莫兰（Edmond Morin）；莱昂-路易·沙蓬（Léon-Louis Chapon）"
+        },
+        "institution": {
+          "en": "Paris Musées / Petit Palais",
+          "zh": "巴黎博物馆联盟（Paris Musées）／小皇宫博物馆（Petit Palais）"
+        }
+      },
+      "transformation": {
+        "en": "Institution-provided JPEG, unchanged.",
+        "zh": "馆方提供的JPEG，未作修改。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Read the related history",
+            "zh": "阅读相关历史"
+          },
+          "url": "https://islamansiklopedisi.org.tr/abdulkadir-el-cezairi"
+        }
+      ]
+    },
+    {
+      "id": "world-batch-06-tsuda",
+      "recordIds": [
+        "person-tsuda-umeko"
+      ],
+      "kind": "portrait",
+      "representation": "historical-photograph",
+      "title": {
+        "en": "Tsuda Umeko",
+        "zh": "津田梅子"
+      },
+      "alt": {
+        "en": "Tsuda sits in a dark kimono, looking toward the camera above a printed name.",
+        "zh": "津田身着深色和服坐着，望向镜头，下方印有姓名。"
+      },
+      "caption": {
+        "en": "An undated historical photograph reproduced in the National Diet Library’s portrait exhibition.",
+        "zh": "日本国立国会图书馆肖像展所收录的历史照片；展览记录未标拍摄日期。"
+      },
+      "interpretation": {
+        "en": "The portrait introduces the founder of the women’s school that became Tsuda University. Her educational programme linked overseas study with institution-building in Japan.",
+        "zh": "肖像介绍了后来发展为津田塾大学的女子学校创办者。她的教育方案把海外求学与日本的机构建设联系起来。"
+      },
+      "file": "assets/history-media/world-batch-06-tsuda.jpg",
+      "sha256": "e8f206e062553bbb8597ec7808162146795fc191f12692b44427c18ae525d1a1",
+      "bytes": 672879,
+      "width": 733,
+      "height": 1117,
+      "checkedAt": "2026-11-11",
+      "downloadedFrom": "https://www.ndl.go.jp/portrait/img/portrait/0292_1.jpg",
+      "imageUrl": "https://www.ndl.go.jp/portrait/img/portrait/0292_1.jpg",
+      "credit": "National Diet Library, Japan",
+      "sourceUrl": "https://www.ndl.go.jp/portrait/e/datas/292",
+      "rightsSourceUrl": "https://www.ndl.go.jp/portrait/e/about",
+      "rights": {
+        "label": "Public Domain",
+        "url": "https://www.ndl.go.jp/portrait/e/about",
+        "note": {
+          "en": "The exhibition explicitly states that all of its images are public domain and that its digitized images may be reused, including commercially, without application. Credit: National Diet Library, Portraits of Modern Japanese Historical Figures.",
+          "zh": "该展览明确说明所有图像均属公有领域，数字图像可无需申请再次使用，包括商业用途。署名：日本国立国会图书馆“近代日本人肖像”。"
+        }
+      },
+      "creator": "Photographer unrecorded in the exhibition",
+      "date": "Photograph undated in the exhibition record",
+      "institution": "National Diet Library, Japan",
+      "metadataI18n": {
+        "date": {
+          "en": "Photograph undated in the exhibition record",
+          "zh": "展览记录未载照片拍摄日期"
+        },
+        "creator": {
+          "en": "Photographer unrecorded in the exhibition",
+          "zh": "展览未载摄影者姓名"
+        },
+        "institution": {
+          "en": "National Diet Library, Japan",
+          "zh": "日本国立国会图书馆"
+        }
+      },
+      "transformation": {
+        "en": "Institution-provided JPEG, unchanged.",
+        "zh": "馆方提供的JPEG，未作修改。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Read the related history",
+            "zh": "阅读相关历史"
+          },
+          "url": "https://www.tsuda.ac.jp/en/profile.html"
+        }
+      ]
+    },
+    {
+      "id": "world-batch-06-yosano",
+      "recordIds": [
+        "person-yosano-akiko"
+      ],
+      "kind": "portrait",
+      "representation": "historical-photograph",
+      "title": {
+        "en": "Yosano Akiko",
+        "zh": "与谢野晶子"
+      },
+      "alt": {
+        "en": "Yosano wears a dark kimono with a patterned collar and looks directly toward the camera.",
+        "zh": "与谢野身着深色和服，衣领带纹样，直视镜头。"
+      },
+      "caption": {
+        "en": "A historical photograph selected by the National Diet Library for its Yosano Akiko biography; the exhibition does not give an exposure date.",
+        "zh": "日本国立国会图书馆为与谢野晶子传记选用的历史照片；展览未给出拍摄日期。"
+      },
+      "interpretation": {
+        "en": "The image accompanies a career spanning poetry, protest against war and women’s education. The linked library record also leads to her books and manuscripts.",
+        "zh": "图像伴随一段涵盖诗歌、反战表达与女子教育的生涯。链接的图书馆记录还可引向她的著作与手稿。"
+      },
+      "file": "assets/history-media/world-batch-06-yosano.jpg",
+      "sha256": "785e7948ce7f8df9ddec00552acc07e0a5decd46c51dbc2529a8540a6118d13a",
+      "bytes": 596876,
+      "width": 810,
+      "height": 1101,
+      "checkedAt": "2026-11-11",
+      "downloadedFrom": "https://www.ndl.go.jp/portrait/img/portrait/0347_1.jpg",
+      "imageUrl": "https://www.ndl.go.jp/portrait/img/portrait/0347_1.jpg",
+      "credit": "National Diet Library, Japan",
+      "sourceUrl": "https://www.ndl.go.jp/portrait/e/datas/347",
+      "rightsSourceUrl": "https://www.ndl.go.jp/portrait/e/about",
+      "rights": {
+        "label": "Public Domain",
+        "url": "https://www.ndl.go.jp/portrait/e/about",
+        "note": {
+          "en": "The exhibition explicitly states that all of its images are public domain and that its digitized images may be reused, including commercially, without application. Credit: National Diet Library, Portraits of Modern Japanese Historical Figures.",
+          "zh": "该展览明确说明所有图像均属公有领域，数字图像可无需申请再次使用，包括商业用途。署名：日本国立国会图书馆“近代日本人肖像”。"
+        }
+      },
+      "creator": "Photographer unrecorded in the exhibition",
+      "date": "Photograph undated in the exhibition record",
+      "institution": "National Diet Library, Japan",
+      "metadataI18n": {
+        "date": {
+          "en": "Photograph undated in the exhibition record",
+          "zh": "展览记录未载照片拍摄日期"
+        },
+        "creator": {
+          "en": "Photographer unrecorded in the exhibition",
+          "zh": "展览未载摄影者姓名"
+        },
+        "institution": {
+          "en": "National Diet Library, Japan",
+          "zh": "日本国立国会图书馆"
+        }
+      },
+      "transformation": {
+        "en": "Institution-provided JPEG, unchanged.",
+        "zh": "馆方提供的JPEG，未作修改。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Read the related history",
+            "zh": "阅读相关历史"
+          },
+          "url": "https://www.wul.waseda.ac.jp/kotenseki/search.php?cndbn=%E4%B8%8E%E8%AC%9D%E9%87%8E+%E6%99%B6%E5%AD%90"
+        }
+      ]
+    },
+    {
+      "id": "world-batch-06-fukuzawa",
+      "recordIds": [
+        "person-fukuzawa-yukichi"
+      ],
+      "kind": "portrait",
+      "representation": "historical-photograph",
+      "title": {
+        "en": "Fukuzawa Yukichi",
+        "zh": "福泽谕吉"
+      },
+      "alt": {
+        "en": "Fukuzawa poses in a dark Western suit, waistcoat and tie against a plain studio background.",
+        "zh": "福泽身穿深色西装、马甲和领带，在素色照相馆背景前摆姿。"
+      },
+      "caption": {
+        "en": "An undated photograph in the National Diet Library’s historical portrait exhibition. The photographer is not named in the exhibition record.",
+        "zh": "日本国立国会图书馆历史肖像展中的未注明日期照片。展览记录未列摄影者。"
+      },
+      "interpretation": {
+        "en": "Clothing and a studio pose form a public presentation of the educator. Compare that presentation with his arguments about learning and independence.",
+        "zh": "服装与照相馆姿态共同构成教育家的公共形象，可与他关于学习和独立的论述对照。"
+      },
+      "file": "assets/history-media/world-batch-06-fukuzawa.jpg",
+      "sha256": "4ded5d9a9a354a7c35746e6bdf7c86ad1bfece61a16516f7352b55274bf2cea1",
+      "bytes": 317228,
+      "width": 1024,
+      "height": 1345,
+      "checkedAt": "2026-11-11",
+      "downloadedFrom": "https://www.ndl.go.jp/portrait/img/portrait/0185_1.jpg",
+      "imageUrl": "https://www.ndl.go.jp/portrait/img/portrait/0185_1.jpg",
+      "credit": "National Diet Library, Japan",
+      "sourceUrl": "https://www.ndl.go.jp/portrait/e/datas/185",
+      "rightsSourceUrl": "https://www.ndl.go.jp/portrait/e/about",
+      "rights": {
+        "label": "Public Domain",
+        "url": "https://www.ndl.go.jp/portrait/e/about",
+        "note": {
+          "en": "The exhibition explicitly states that all of its images are public domain and that its digitized images may be reused, including commercially, without application. Credit: National Diet Library, Portraits of Modern Japanese Historical Figures.",
+          "zh": "该展览明确说明所有图像均属公有领域，数字图像可无需申请再次使用，包括商业用途。署名：日本国立国会图书馆“近代日本人肖像”。"
+        }
+      },
+      "creator": "Photographer unrecorded in the exhibition",
+      "date": "Photograph undated in the exhibition record",
+      "institution": "National Diet Library, Japan",
+      "metadataI18n": {
+        "date": {
+          "en": "Photograph undated in the exhibition record",
+          "zh": "展览记录未载照片拍摄日期"
+        },
+        "creator": {
+          "en": "Photographer unrecorded in the exhibition",
+          "zh": "展览未载摄影者姓名"
+        },
+        "institution": {
+          "en": "National Diet Library, Japan",
+          "zh": "日本国立国会图书馆"
+        }
+      },
+      "transformation": {
+        "en": "Institution-provided JPEG, unchanged.",
+        "zh": "馆方提供的JPEG，未作修改。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Read the related history",
+            "zh": "阅读相关历史"
+          },
+          "url": "https://www.keio.ac.jp/en/about/philosophy/fukuzawa-en/"
+        }
+      ]
+    },
+    {
+      "id": "world-batch-06-chatelet",
+      "recordIds": [
+        "person-emilie-du-chatelet"
+      ],
+      "kind": "portrait",
+      "representation": "later-depiction",
+      "title": {
+        "en": "Émilie du Châtelet in a 1751 engraving",
+        "zh": "1751年雕版画中的埃米莉·杜·夏特莱"
+      },
+      "alt": {
+        "en": "An oval portrait shows a smiling woman beside part of an armillary sphere, above a lettered pedestal and coats of arms.",
+        "zh": "椭圆肖像中的女子微笑坐在部分浑仪旁，下方基座有题字与纹章。"
+      },
+      "caption": {
+        "en": "An anonymous engraver made this 1751 portrait after Marianne Loir, two years after du Châtelet’s death. Gilles-Edme Petit published the print.",
+        "zh": "匿名雕刻者于1751年依据玛丽安娜·卢瓦尔的作品制作此肖像，距杜·夏特莱逝世两年；出版者为吉尔-埃德姆·珀蒂。"
+      },
+      "interpretation": {
+        "en": "The scientific instrument sits beside aristocratic titles and heraldry. The print brings learned work and social position into the same public image.",
+        "zh": "科学仪器与贵族头衔及纹章并置，使学术工作与社会地位进入同一公共形象。"
+      },
+      "file": "assets/history-media/world-batch-06-chatelet.jpg",
+      "sha256": "d0ea7c75cb09ea84b4c59a4e3cecb4ce1564bbd9c1b78ab7d1aa2ddde7202ac8",
+      "bytes": 149834,
+      "width": 837,
+      "height": 1080,
+      "checkedAt": "2026-11-11",
+      "downloadedFrom": "https://www.parismuseescollections.paris.fr/sites/default/files/styles/pm_diaporama_zoom/public/atoms/images/CAR/aze_cargpor008370_001.jpg?itok=0xU7S31M",
+      "imageUrl": "https://apicollections.parismusees.paris.fr/sites/default/files/styles/4k/collections/atoms/images/CAR/aze_cargpor008370_001.jpg?itok=vq6P5WYV",
+      "credit": "Paris Musées / Musée Carnavalet – Histoire de Paris, 2023.0.124",
+      "sourceUrl": "https://parismuseescollections.paris.fr/en/node/1049240",
+      "rightsSourceUrl": "https://parismuseescollections.paris.fr/en/node/1049240",
+      "rights": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "CC0 public-domain image. Credit: Paris Musées / Musée Carnavalet – Histoire de Paris, 2023.0.124.",
+          "zh": "CC0公有领域图像。署名：Paris Musées / Musée Carnavalet – Histoire de Paris, 2023.0.124。"
+        }
+      },
+      "creator": "Anonymous engraver, after Marianne Loir; published by Gilles-Edme Petit",
+      "date": "1751",
+      "institution": "Paris Musées / Musée Carnavalet – Histoire de Paris",
+      "metadataI18n": {
+        "date": {
+          "en": "1751",
+          "zh": "1751年"
+        },
+        "creator": {
+          "en": "Anonymous engraver, after Marianne Loir; published by Gilles-Edme Petit",
+          "zh": "佚名雕版者，据玛丽安娜·卢瓦尔（Marianne Loir）原作制作；吉尔-埃德姆·珀蒂（Gilles-Edme Petit）出版"
+        },
+        "institution": {
+          "en": "Paris Musées / Musée Carnavalet – Histoire de Paris",
+          "zh": "巴黎博物馆联盟（Paris Musées）／卡纳瓦莱巴黎历史博物馆（Musée Carnavalet – Histoire de Paris）"
+        }
+      },
+      "transformation": {
+        "en": "Institution-provided JPEG, unchanged.",
+        "zh": "馆方提供的JPEG，未作修改。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Read the related history",
+            "zh": "阅读相关历史"
+          },
+          "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Chatelet/"
+        }
+      ]
+    },
+    {
+      "id": "world-batch-06-met-16584",
+      "recordIds": [
+        "person-george-washington"
+      ],
+      "kind": "portrait",
+      "representation": "lifetime-portrait",
+      "title": {
+        "en": "Washington painted by Gilbert Stuart",
+        "zh": "吉尔伯特·斯图尔特笔下的华盛顿"
+      },
+      "alt": {
+        "en": "White-haired Washington wears a black coat and white neckcloth against a dark green background.",
+        "zh": "白发的华盛顿身穿黑色外套与白色领巾，背后是深绿色背景。"
+      },
+      "caption": {
+        "en": "Gilbert Stuart began this oil portrait in 1795, during Washington’s presidency. Technical study shows that the coat was changed from brown to black.",
+        "zh": "吉尔伯特·斯图尔特于1795年、华盛顿担任总统期间开始绘制这幅油画。技术研究显示，画中外套由棕色改为黑色。"
+      },
+      "interpretation": {
+        "en": "Clothing helped construct the president’s public image. The change from American wool to the appearance of European silk velvet makes the portrait a useful study of political self-presentation.",
+        "zh": "服装参与塑造总统的公众形象。从美国羊毛料改绘为欧洲丝绒的外观，使肖像成为观察政治形象塑造的线索。"
+      },
+      "file": "assets/history-media/world-batch-06-met-16584.jpg",
+      "downloadedFrom": "https://images.metmuseum.org/CRDImages/ad/web-large/DT62.jpg",
+      "imageUrl": "https://images.metmuseum.org/CRDImages/ad/original/DT62.jpg",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/16584",
+      "sha256": "da83c54d5a644acc61d2a87d51695c92ee2ed088ab96a776b85fbd3b5fd53470",
+      "bytes": 66806,
+      "width": 523,
+      "height": 625,
+      "creator": "Gilbert Stuart",
+      "date": "begun 1795",
+      "institution": "The Metropolitan Museum of Art",
+      "checkedAt": "2026-11-11",
+      "rightsSourceUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access",
+      "rights": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "CC0 public-domain image. Credit: The Metropolitan Museum of Art, Rogers Fund, 1907.",
+          "zh": "CC0公有领域图像。署名：The Metropolitan Museum of Art, Rogers Fund, 1907。"
+        }
+      },
+      "transformation": {
+        "en": "Institution-provided JPEG, unchanged.",
+        "zh": "馆方提供的JPEG，未作修改。"
+      },
+      "metadataI18n": {
+        "date": {
+          "en": "begun 1795",
+          "zh": "始作于1795年"
+        },
+        "creator": {
+          "en": "Gilbert Stuart",
+          "zh": "吉尔伯特·斯图尔特"
+        },
+        "institution": {
+          "en": "The Metropolitan Museum of Art",
+          "zh": "大都会艺术博物馆"
+        }
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Read the related history",
+            "zh": "阅读相关历史"
+          },
+          "url": "https://www.mountvernon.org/george-washington/biography"
+        }
+      ]
+    },
+    {
+      "id": "world-batch-06-npg-npg-95-54",
+      "recordIds": [
+        "person-jane-addams"
+      ],
+      "kind": "portrait",
+      "representation": "lifetime-portrait",
+      "title": {
+        "en": "Jane Addams and Alva Belmont, 1912",
+        "zh": "简·亚当斯与阿尔娃·贝尔蒙特，1912年"
+      },
+      "alt": {
+        "en": "A pencil drawing shows two seated women in profile, one wearing an elaborate hat.",
+        "zh": "铅笔画以侧面描绘两位坐着的女性，其中一位戴着装饰繁复的帽子。"
+      },
+      "caption": {
+        "en": "Wallace Morgan drew Jane Addams and Alva Belmont in pencil in 1912. The museum identifies both women as social reformers and Belmont as a suffragist.",
+        "zh": "华莱士·摩根于1912年以铅笔描绘简·亚当斯与阿尔娃·贝尔蒙特。博物馆将两人列为社会改革者，并将贝尔蒙特列为妇女参政权活动家。"
+      },
+      "interpretation": {
+        "en": "A shared portrait places Addams beside another reformer rather than isolating her as a solitary public figure. The rapid pencil strokes preserve the character of a drawn encounter.",
+        "zh": "双人肖像将亚当斯置于另一位改革者身旁，而非将她孤立为单独的公众人物。快速的铅笔笔触保留了现场描绘的特点。"
+      },
+      "file": "assets/history-media/world-batch-06-npg-npg-95-54.jpg",
+      "downloadedFrom": "https://ids.si.edu/ids/download?id=NPG-NPG_95_54Addams_Belmont-000001_screen",
+      "imageUrl": "https://ids.si.edu/ids/download?id=NPG-NPG_95_54Addams_Belmont-000001.jpg",
+      "sourceUrl": "https://npg.si.edu/object/npg_NPG.95.54",
+      "sha256": "7c3bdd1bb0f4994e0106a8f0833dffd29e98c0ade063d5e4779e93da8601becc",
+      "bytes": 147254,
+      "width": 1200,
+      "height": 911,
+      "creator": "Wallace Morgan, 1873 - 1948",
+      "date": "1912",
+      "institution": "National Portrait Gallery, Smithsonian Institution",
+      "checkedAt": "2026-11-11",
+      "rightsSourceUrl": "https://www.si.edu/openaccess",
+      "rights": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "CC0 public-domain image. Credit: National Portrait Gallery, Smithsonian Institution.",
+          "zh": "CC0公有领域图像。署名：National Portrait Gallery, Smithsonian Institution。"
+        }
+      },
+      "transformation": {
+        "en": "Institution-provided JPEG, unchanged.",
+        "zh": "馆方提供的JPEG，未作修改。"
+      },
+      "metadataI18n": {
+        "date": {
+          "en": "1912",
+          "zh": "1912年"
+        },
+        "creator": {
+          "en": "Wallace Morgan, 1873 - 1948",
+          "zh": "华莱士·摩根（Wallace Morgan，1873—1948）"
+        },
+        "institution": {
+          "en": "National Portrait Gallery, Smithsonian Institution",
+          "zh": "史密森学会国家肖像馆"
+        }
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Read the related history",
+            "zh": "阅读相关历史"
+          },
+          "url": "https://www.nobelprize.org/prizes/peace/1931/addams/biographical/"
+        }
+      ]
+    },
+    {
+      "id": "world-batch-06-npg-npg-99-167-13",
+      "recordIds": [
+        "person-sequoyah"
+      ],
+      "kind": "portrait",
+      "representation": "lifetime-portrait",
+      "title": {
+        "en": "Sequoyah with a writing tablet, 1838",
+        "zh": "塞阔雅与写字板，1838年"
+      },
+      "alt": {
+        "en": "Sequoyah wears a red turban and blue coat, holds a pipe, and points to characters on a tablet.",
+        "zh": "塞阔雅戴红色头巾、穿蓝色外套，衔着烟斗，指向写字板上的字符。"
+      },
+      "caption": {
+        "en": "This hand-coloured lithograph was published in 1838, during Sequoyah’s lifetime. The museum attributes it to R. T., after Henry Inman and Charles Bird King, with lithography by J. T. Bowen’s firm.",
+        "zh": "这幅手工着色石版画于1838年、塞阔雅在世时出版。博物馆将其归于R. T.，仿亨利·英曼与查尔斯·伯德·金的作品，由J. T. 鲍恩公司石印。"
+      },
+      "interpretation": {
+        "en": "The writing tablet makes literacy the portrait’s central attribute. Its chain of copying and publication shows how an Indigenous inventor’s image circulated through nineteenth-century print culture.",
+        "zh": "写字板使文字创造成为肖像的核心特征。临摹与出版的链条，展示一位原住民发明家的形象如何在十九世纪印刷文化中流传。"
+      },
+      "file": "assets/history-media/world-batch-06-npg-npg-99-167-13.jpg",
+      "downloadedFrom": "https://ids.si.edu/ids/download?id=NPG-NPG_99_167_13Sequoyah-000002_screen",
+      "imageUrl": "https://ids.si.edu/ids/download?id=NPG-NPG_99_167_13Sequoyah-000002.jpg",
+      "sourceUrl": "https://npg.si.edu/object/npg_NPG.99.167.13",
+      "sha256": "bdd12739d71ad6a84eefe7cfeec5fd93b1c7f8efa92c6b4b5472b007db803aed",
+      "bytes": 75181,
+      "width": 817,
+      "height": 1200,
+      "creator": "R. T.; Henry Inman, 28 Oct 1801 - 17 Jan 1846; Charles Bird King, 26 Sep 1785 - 18 Mar 1862; J. T. Bowen Lithography Company, active 1834 - 1844?",
+      "date": "1838",
+      "institution": "National Portrait Gallery, Smithsonian Institution",
+      "checkedAt": "2026-11-11",
+      "rightsSourceUrl": "https://www.si.edu/openaccess",
+      "rights": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "CC0 public-domain image. Credit: National Portrait Gallery, Smithsonian Institution; gift of Betty A. and Lloyd G. Schermer.",
+          "zh": "CC0公有领域图像。署名：National Portrait Gallery, Smithsonian Institution; gift of Betty A. and Lloyd G. Schermer。"
+        }
+      },
+      "transformation": {
+        "en": "Institution-provided JPEG, unchanged.",
+        "zh": "馆方提供的JPEG，未作修改。"
+      },
+      "metadataI18n": {
+        "date": {
+          "en": "1838",
+          "zh": "1838年"
+        },
+        "creator": {
+          "en": "R. T.; Henry Inman, 28 Oct 1801 - 17 Jan 1846; Charles Bird King, 26 Sep 1785 - 18 Mar 1862; J. T. Bowen Lithography Company, active 1834 - 1844?",
+          "zh": "R. T.；亨利·英曼（Henry Inman，1801年10月28日—1846年1月17日）；查尔斯·伯德·金（Charles Bird King，1785年9月26日—1862年3月18日）；J. T. 鲍恩石印公司（J. T. Bowen Lithography Company，活跃于1834—1844年？）"
+        },
+        "institution": {
+          "en": "National Portrait Gallery, Smithsonian Institution",
+          "zh": "史密森学会国家肖像馆"
+        }
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Read the related history",
+            "zh": "阅读相关历史"
+          },
+          "url": "https://www.aoc.gov/explore-capitol-campus/art/sequoyah-statue"
+        }
+      ]
+    },
+    {
+      "id": "world-batch-06-npg-npg-2006-10",
+      "recordIds": [
+        "person-zitkala-sa"
+      ],
+      "kind": "portrait",
+      "representation": "historical-photograph",
+      "title": {
+        "en": "Zitkála-Šá in a platinum photograph, 1898",
+        "zh": "铂金照片中的齐特卡拉-沙，1898年"
+      },
+      "alt": {
+        "en": "A seated woman with long dark hair and layered necklaces turns her face to the left, one hand raised near her shoulder.",
+        "zh": "长发女子佩戴多层项链，坐着转脸望向左方，一只手抬至肩旁。"
+      },
+      "caption": {
+        "en": "Joseph Turner Keiley photographed Zitkála-Šá in 1898. This glycerine-developed platinum print belongs to the National Portrait Gallery.",
+        "zh": "约瑟夫·特纳·凯利于1898年拍摄齐特卡拉-沙。这张甘油显影铂金照片藏于美国国家肖像馆。"
+      },
+      "interpretation": {
+        "en": "Soft tonal transitions and a deliberately arranged pose show portrait photography as an artistic construction. Read this image alongside her writing and musical work, rather than treating appearance as a summary of her life.",
+        "zh": "柔和的明暗过渡与精心安排的姿态，呈现肖像摄影的艺术塑造。可将照片与她的写作及音乐工作对读，而不是以外貌概括其生平。"
+      },
+      "file": "assets/history-media/world-batch-06-npg-npg-2006-10.jpg",
+      "downloadedFrom": "https://ids.si.edu/ids/download?id=NPG-NPG_2006_10_ext_screen",
+      "imageUrl": "https://ids.si.edu/ids/deliveryService?id=NPG-NPG_2006_10_ext",
+      "sourceUrl": "https://npg.si.edu/object/npg_NPG.2006.10",
+      "sha256": "46c60f0cfdb581f808faa196afb150f80441237d060cb1201176ef40878f2138",
+      "bytes": 179006,
+      "width": 1011,
+      "height": 1200,
+      "creator": "Joseph Turner Keiley, 26 Jul 1869 - 21 Jan 1914",
+      "date": "1898",
+      "institution": "National Portrait Gallery, Smithsonian Institution",
+      "checkedAt": "2026-11-11",
+      "rightsSourceUrl": "https://www.si.edu/openaccess",
+      "rights": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "CC0 public-domain image. Credit: National Portrait Gallery, Smithsonian Institution.",
+          "zh": "CC0公有领域图像。署名：National Portrait Gallery, Smithsonian Institution。"
+        }
+      },
+      "transformation": {
+        "en": "Institution-provided JPEG, unchanged.",
+        "zh": "馆方提供的JPEG，未作修改。"
+      },
+      "metadataI18n": {
+        "date": {
+          "en": "1898",
+          "zh": "1898年"
+        },
+        "creator": {
+          "en": "Joseph Turner Keiley, 26 Jul 1869 - 21 Jan 1914",
+          "zh": "约瑟夫·特纳·凯利（Joseph Turner Keiley，1869年7月26日—1914年1月21日）"
+        },
+        "institution": {
+          "en": "National Portrait Gallery, Smithsonian Institution",
+          "zh": "史密森学会国家肖像馆"
+        }
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Read the related history",
+            "zh": "阅读相关历史"
+          },
+          "url": "https://wams.nyhistory.org/life-story/zitkala-sa/"
+        }
+      ]
+    },
+    {
+      "id": "world-batch-06-npg-npg-2015-136",
+      "recordIds": [
+        "person-frida-kahlo"
+      ],
+      "kind": "portrait",
+      "representation": "lifetime-portrait",
+      "title": {
+        "en": "Frida Kahlo through Magda Pach’s eyes",
+        "zh": "玛格达·帕赫眼中的弗里达·卡洛"
+      },
+      "alt": {
+        "en": "A painted bust of Kahlo shows pinned-up dark hair, silver earrings and necklace, a red dress and a blue-green background.",
+        "zh": "卡洛的半身油画中，她盘起黑发，佩戴银色耳环与项链，穿红色衣服，背景为蓝绿色。"
+      },
+      "caption": {
+        "en": "Magda Pach painted this oil portrait of Frida Kahlo in 1933. It is a portrait by another artist, not one of Kahlo’s self-portraits.",
+        "zh": "玛格达·帕赫于1933年绘制这幅弗里达·卡洛油画肖像。这是另一位艺术家的作品，而非卡洛的自画像。"
+      },
+      "interpretation": {
+        "en": "Visible brushwork, bright clothing and prominent jewellery shape another artist’s view of Kahlo. Comparing it with her self-portraits opens a question about who controls an artist’s public image.",
+        "zh": "可见的笔触、鲜艳衣饰与醒目首饰，塑造了另一位画家眼中的卡洛。将它与卡洛的自画像比较，可以追问艺术家的公众形象由谁塑造。"
+      },
+      "file": "assets/history-media/world-batch-06-npg-npg-2015-136.jpg",
+      "downloadedFrom": "https://ids.si.edu/ids/download?id=NPG-NPG_2015_136_screen",
+      "imageUrl": "https://ids.si.edu/ids/download?id=NPG-NPG_2015_136.jpg",
+      "sourceUrl": "https://npg.si.edu/object/npg_NPG.2015.136",
+      "sha256": "d703c12e4b55f4393143f4f511204da07f0a04b4afc9210188c7e3f02ed81477",
+      "bytes": 173384,
+      "width": 963,
+      "height": 1199,
+      "creator": "Magda Pach, 1884 - 1950",
+      "date": "1933",
+      "institution": "National Portrait Gallery, Smithsonian Institution",
+      "checkedAt": "2026-11-11",
+      "rightsSourceUrl": "https://www.si.edu/openaccess",
+      "rights": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "CC0 public-domain image. Credit: National Portrait Gallery, Smithsonian Institution.",
+          "zh": "CC0公有领域图像。署名：National Portrait Gallery, Smithsonian Institution。"
+        }
+      },
+      "transformation": {
+        "en": "Institution-provided JPEG, unchanged.",
+        "zh": "馆方提供的JPEG，未作修改。"
+      },
+      "metadataI18n": {
+        "date": {
+          "en": "1933",
+          "zh": "1933年"
+        },
+        "creator": {
+          "en": "Magda Pach, 1884 - 1950",
+          "zh": "玛格达·帕赫（Magda Pach，1884—1950）"
+        },
+        "institution": {
+          "en": "National Portrait Gallery, Smithsonian Institution",
+          "zh": "史密森学会国家肖像馆"
+        }
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Read the related history",
+            "zh": "阅读相关历史"
+          },
+          "url": "https://www.museofridakahlo.org.mx/frida/?lang=en"
+        }
+      ]
+    },
+    {
+      "id": "world-batch-06-npg-npg-2024-196",
+      "recordIds": [
+        "person-susie-king-taylor"
+      ],
+      "kind": "portrait",
+      "representation": "lifetime-portrait",
+      "title": {
+        "en": "Susie King Taylor introduces her memoir",
+        "zh": "苏茜·金·泰勒回忆录的卷首肖像"
+      },
+      "alt": {
+        "en": "Taylor stands in a dark dress, fitted jacket and veil above a printed version of her signature.",
+        "zh": "泰勒身穿深色长裙、合身外套并戴面纱站立，下方印有她的签名。"
+      },
+      "caption": {
+        "en": "The engraved frontispiece of Reminiscences of my Life in Camp, published in 1902, presents Susie King Taylor with her signature beneath the portrait. The maker is unidentified.",
+        "zh": "1902年出版的《营地生活回忆录》的雕版卷首肖像，呈现苏茜·金·泰勒，下方印有她的签名。制作者不详。"
+      },
+      "interpretation": {
+        "en": "A portrait and signature introduce a woman speaking in her own name about slavery, wartime nursing and education. The book is a material link between personal testimony and a public readership.",
+        "zh": "肖像与签名介绍了一位以自己的名义讲述奴隶制、战时护理与教育经历的女性。这本书将个人证词与公众读者联系起来。"
+      },
+      "file": "assets/history-media/world-batch-06-npg-npg-2024-196.jpg",
+      "downloadedFrom": "https://ids.si.edu/ids/download?id=NPG-NPG_2024_196_fp_ext_screen",
+      "imageUrl": "https://ids.si.edu/ids/download?id=NPG-NPG_2024_196_fp_ext.jpg",
+      "sourceUrl": "https://npg.si.edu/object/npg_NPG.2024.196",
+      "sha256": "b31ef23a1f4f654114365c100ef226b6b5c358bb365afb7443f6743ad5232f47",
+      "bytes": 66277,
+      "width": 723,
+      "height": 1200,
+      "creator": "Unidentified Artist",
+      "date": "1902",
+      "institution": "National Portrait Gallery, Smithsonian Institution",
+      "checkedAt": "2026-11-11",
+      "rightsSourceUrl": "https://www.si.edu/openaccess",
+      "rights": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "CC0 public-domain image. Credit: National Portrait Gallery, Smithsonian Institution.",
+          "zh": "CC0公有领域图像。署名：National Portrait Gallery, Smithsonian Institution。"
+        }
+      },
+      "transformation": {
+        "en": "Institution-provided JPEG, unchanged.",
+        "zh": "馆方提供的JPEG，未作修改。"
+      },
+      "metadataI18n": {
+        "date": {
+          "en": "1902",
+          "zh": "1902年"
+        },
+        "creator": {
+          "en": "Unidentified Artist",
+          "zh": "艺术家身份未确定"
+        },
+        "institution": {
+          "en": "National Portrait Gallery, Smithsonian Institution",
+          "zh": "史密森学会国家肖像馆"
+        }
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Read the related history",
+            "zh": "阅读相关历史"
+          },
+          "url": "https://www.nps.gov/people/susie-king-taylor.htm"
+        }
+      ]
+    },
+    {
+      "id": "world-batch-06-npg-npg-82-137",
+      "recordIds": [
+        "person-sarah-winnemucca"
+      ],
+      "kind": "portrait",
+      "representation": "historical-photograph",
+      "title": {
+        "en": "Sarah Winnemucca in a Baltimore studio, 1883",
+        "zh": "巴尔的摩照相馆中的莎拉·温尼穆卡，1883年"
+      },
+      "alt": {
+        "en": "Winnemucca stands facing the camera in a fringed outfit and headdress; the photographic mount bears Busey’s Baltimore studio imprint.",
+        "zh": "温尼穆卡穿流苏服装、戴头饰，正对相机站立；照片托纸印有布西在巴尔的摩的照相馆名称。"
+      },
+      "caption": {
+        "en": "Norval Hamilton Busey made this portrait of Sarah Winnemucca in 1883. The albumen silver print retains the studio’s printed mount.",
+        "zh": "诺瓦尔·汉密尔顿·布西于1883年拍摄这幅莎拉·温尼穆卡肖像。这张蛋白银盐照片保留了照相馆印制的托纸。"
+      },
+      "interpretation": {
+        "en": "The studio imprint gives this public image a specific place of production. Its carefully arranged pose can be read alongside Winnemucca’s published testimony and work as an interpreter and educator.",
+        "zh": "照相馆印记为这一公众形象标明了具体制作地点。精心安排的姿态，可以与温尼穆卡出版的证词及其翻译、教育工作对读。"
+      },
+      "file": "assets/history-media/world-batch-06-npg-npg-82-137.jpg",
+      "downloadedFrom": "https://ids.si.edu/ids/download?id=NPG-NPG_82_137_inex-000001_screen",
+      "imageUrl": "https://ids.si.edu/ids/download?id=NPG-NPG_82_137_inex-000001.jpg",
+      "sourceUrl": "https://npg.si.edu/object/npg_NPG.82.137",
+      "sha256": "b2779508e8ea3d8ee36ced726e5867a9c20f7e1ed678bfe3edbb855f64e1617e",
+      "bytes": 101751,
+      "width": 609,
+      "height": 1200,
+      "creator": "Norval Hamilton Busey, 28 Dec 1845 - 20 May 1928",
+      "date": "1883",
+      "institution": "National Portrait Gallery, Smithsonian Institution",
+      "checkedAt": "2026-11-11",
+      "rightsSourceUrl": "https://www.si.edu/openaccess",
+      "rights": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "CC0 public-domain image. Credit: National Portrait Gallery, Smithsonian Institution.",
+          "zh": "CC0公有领域图像。署名：National Portrait Gallery, Smithsonian Institution。"
+        }
+      },
+      "transformation": {
+        "en": "Institution-provided JPEG, unchanged.",
+        "zh": "馆方提供的JPEG，未作修改。"
+      },
+      "metadataI18n": {
+        "date": {
+          "en": "1883",
+          "zh": "1883年"
+        },
+        "creator": {
+          "en": "Norval Hamilton Busey, 28 Dec 1845 - 20 May 1928",
+          "zh": "诺瓦尔·汉密尔顿·布西（Norval Hamilton Busey，1845年12月28日—1928年5月20日）"
+        },
+        "institution": {
+          "en": "National Portrait Gallery, Smithsonian Institution",
+          "zh": "史密森学会国家肖像馆"
+        }
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Read the related history",
+            "zh": "阅读相关历史"
+          },
+          "url": "https://www.nps.gov/people/sarah-winnemucca.htm"
+        }
+      ]
+    },
+    {
+      "id": "world-batch-06-npg-npg-92-156",
+      "recordIds": [
+        "person-george-washington-carver"
+      ],
+      "kind": "portrait",
+      "representation": "historical-photograph",
+      "title": {
+        "en": "Carver and a student studying plants",
+        "zh": "卡弗与学生观察植物"
+      },
+      "alt": {
+        "en": "Two men wearing hats stand among trees and examine a handful of flowering plants.",
+        "zh": "两名戴帽的男子站在树林中，观察手中的开花植物。"
+      },
+      "caption": {
+        "en": "Clifton Johnson photographed George Washington Carver with a student in Alabama around 1900. The museum identifies the image as a gelatin silver print.",
+        "zh": "约1900年，克利夫顿·约翰逊在阿拉巴马州拍摄乔治·华盛顿·卡弗与一名学生。博物馆将图像列为明胶银盐照片。"
+      },
+      "interpretation": {
+        "en": "The plants between the two figures turn a portrait into a scene of shared inquiry. Carver’s scientific work appears here as observation and teaching, not simply as an isolated achievement.",
+        "zh": "两人之间的植物，使肖像成为共同探究的场景。卡弗的科学工作在这里表现为观察与教学，而非孤立的个人成就。"
+      },
+      "file": "assets/history-media/world-batch-06-npg-npg-92-156.jpg",
+      "downloadedFrom": "https://ids.si.edu/ids/download?id=NPG-NPG_92_156Carver_int-000001_screen",
+      "imageUrl": "https://ids.si.edu/ids/download?id=NPG-NPG_92_156Carver_int-000001.jpg",
+      "sourceUrl": "https://npg.si.edu/object/npg_NPG.92.156",
+      "sha256": "4168f68fdadc90477a9ed6bfe10a28a7e2268de248f7a44ec8aae13756aaa479",
+      "bytes": 228102,
+      "width": 867,
+      "height": 1200,
+      "creator": "Clifton Johnson, 1865 - 1940",
+      "date": "c. 1900",
+      "institution": "National Portrait Gallery, Smithsonian Institution",
+      "checkedAt": "2026-11-11",
+      "rightsSourceUrl": "https://www.si.edu/openaccess",
+      "rights": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "CC0 public-domain image. Credit: National Portrait Gallery, Smithsonian Institution.",
+          "zh": "CC0公有领域图像。署名：National Portrait Gallery, Smithsonian Institution。"
+        }
+      },
+      "transformation": {
+        "en": "Institution-provided JPEG, unchanged.",
+        "zh": "馆方提供的JPEG，未作修改。"
+      },
+      "metadataI18n": {
+        "date": {
+          "en": "c. 1900",
+          "zh": "约1900年"
+        },
+        "creator": {
+          "en": "Clifton Johnson, 1865 - 1940",
+          "zh": "克利夫顿·约翰逊（Clifton Johnson，1865—1940）"
+        },
+        "institution": {
+          "en": "National Portrait Gallery, Smithsonian Institution",
+          "zh": "史密森学会国家肖像馆"
+        }
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Read the related history",
+            "zh": "阅读相关历史"
+          },
+          "url": "https://www.nps.gov/people/george-washington-carver.htm"
+        }
+      ]
+    },
+    {
+      "id": "world-batch-06-tepapa-sheppard",
+      "recordIds": [
+        "person-kate-sheppard"
+      ],
+      "kind": "document",
+      "representation": "document-facsimile",
+      "title": {
+        "en": "Kate Sheppard’s franchise report, 1893",
+        "zh": "凯特·谢泼德的1893年选举权报告"
+      },
+      "alt": {
+        "en": "A cream paper cover carries a decorative border and the printed title Franchise Report for 1893.",
+        "zh": "米色封面饰以花纹边框，印有《1893年选举权报告》标题。"
+      },
+      "caption": {
+        "en": "Te Papa identifies Kate Sheppard as author of this 1893 report, published by the New Zealand Women’s Christian Temperance Union and printed by Ward, Wilson, and Co.",
+        "zh": "蒂帕帕博物馆将凯特·谢泼德列为这份1893年报告的作者；出版者为新西兰妇女基督教禁酒联合会，印刷者为沃德、威尔逊公司。"
+      },
+      "interpretation": {
+        "en": "The cover places the suffrage campaign inside an organized association. Printed reports helped turn local campaigning into a shared national record.",
+        "zh": "封面将选举权运动置于有组织的社团之中。印刷报告有助于把地方行动汇成共同的全国记录。"
+      },
+      "creator": "Kate Sheppard (author); New Zealand Women’s Christian Temperance Union (publisher); Ward, Wilson, and Co. (printer)",
+      "date": "1893",
+      "institution": "Museum of New Zealand Te Papa Tongarewa",
+      "sourceUrl": "https://collections.tepapa.govt.nz/object/397630",
+      "imageUrl": "https://media.tepapa.govt.nz/collection/339173/preview",
+      "downloadedFrom": "https://media.tepapa.govt.nz/collection/339173/preview",
+      "file": "assets/history-media/world-batch-06-tepapa-sheppard.jpg",
+      "sha256": "6de5f827d61299a40a88b0c022137503920ed32720c2a7b4c7b1f73acc88dc5a",
+      "bytes": 89892,
+      "width": 776,
+      "height": 1000,
+      "checkedAt": "2026-11-11",
+      "rightsSourceUrl": "https://www.tepapa.govt.nz/about-collections-online#no-known-copyright",
+      "rights": {
+        "label": "No Known Copyright Restrictions",
+        "url": "https://www.tepapa.govt.nz/about-collections-online#no-known-copyright",
+        "note": {
+          "en": "No known copyright restrictions. Credit: Museum of New Zealand Te Papa Tongarewa, CA000383/001/0026.",
+          "zh": "无已知版权限制。署名：Museum of New Zealand Te Papa Tongarewa, CA000383/001/0026。"
+        }
+      },
+      "credit": "Museum of New Zealand Te Papa Tongarewa, CA000383/001/0026",
+      "metadataI18n": {
+        "date": {
+          "en": "1893",
+          "zh": "1893年"
+        },
+        "creator": {
+          "en": "Kate Sheppard (author); New Zealand Women’s Christian Temperance Union (publisher); Ward, Wilson, and Co. (printer)",
+          "zh": "凯特·谢泼德（作者）；新西兰妇女基督教禁酒联合会（出版者）；沃德、威尔逊公司（Ward, Wilson, and Co.，印刷者）"
+        },
+        "institution": {
+          "en": "Museum of New Zealand Te Papa Tongarewa",
+          "zh": "新西兰国家博物馆蒂帕帕（Te Papa Tongarewa）"
+        }
+      },
+      "transformation": {
+        "en": "Institution-provided JPEG, unchanged.",
+        "zh": "馆方提供的JPEG，未作修改。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Read the related history",
+            "zh": "阅读相关历史"
+          },
+          "url": "https://nzhistory.govt.nz/people/kate-sheppard"
+        }
+      ]
+    },
+    {
+      "id": "world-batch-06-kura-salote",
+      "recordIds": [
+        "person-salote-tupou-iii",
+        "person-te-puea-herangi"
+      ],
+      "kind": "portrait",
+      "representation": "historical-photograph",
+      "title": {
+        "en": "Sālote and Te Puea at Ngāruawāhia",
+        "zh": "萨洛特与特普埃亚在恩加鲁阿瓦希亚"
+      },
+      "alt": {
+        "en": "Four women sit in front of six standing men. Sālote sits second from left and Te Puea third from left.",
+        "zh": "四名女子坐在六名站立的男子前方。萨洛特坐在左起第二位，特普埃亚坐在左起第三位。"
+      },
+      "caption": {
+        "en": "The Auckland Weekly News published this group portrait on 7 October 1936. Auckland Libraries identifies Queen Sālote and Te Puea Hērangi in the front row during the Tongan visitors’ stay at Ngāruawāhia.",
+        "zh": "《奥克兰周刊新闻》于1936年10月7日刊登这张合影。奥克兰图书馆指出，萨洛特女王与特普埃亚·赫兰吉坐在前排，拍摄于汤加访客在恩加鲁阿瓦希亚停留期间。"
+      },
+      "interpretation": {
+        "en": "The shared portrait records relationships between Tongan and Māori leaders. Te Puea’s place beside Sālote makes community-building and hosting visible as forms of political work.",
+        "zh": "合影记录汤加与毛利领袖之间的联系。特普埃亚坐在萨洛特身边，使社区建设与接待来宾作为政治工作的意义清晰可见。"
+      },
+      "creator": "Auckland Weekly News (catalogue photographer credit)",
+      "date": "7 October 1936 (publication date)",
+      "institution": "Auckland Libraries Heritage Collections",
+      "sourceUrl": "https://kura.aucklandlibraries.govt.nz/digital/collection/photos/id/269547/",
+      "imageUrl": "https://kura.aucklandlibraries.govt.nz/iiif/2/photos:269547/full/full/0/default.jpg",
+      "downloadedFrom": "https://kura.aucklandlibraries.govt.nz/iiif/2/photos:269547/full/1200,/0/default.jpg",
+      "file": "assets/history-media/world-batch-06-kura-salote.jpg",
+      "sha256": "e6cb24f48ec9b6975d3b4ed995ae2625b6972a585c8490de6b88f854c6a2ced7",
+      "bytes": 177921,
+      "width": 1200,
+      "height": 778,
+      "checkedAt": "2026-11-11",
+      "rightsSourceUrl": "https://kura.aucklandlibraries.govt.nz/digital/collection/photos/id/269547/",
+      "rights": {
+        "label": "No known copyright restrictions",
+        "url": "https://kura.aucklandlibraries.govt.nz/digital/collection/photos/id/269547/",
+        "note": {
+          "en": "No known copyright restrictions. Credit: Auckland Libraries Heritage Collections AWNS-19361007-54-02.",
+          "zh": "无已知版权限制。署名：Auckland Libraries Heritage Collections AWNS-19361007-54-02。"
+        }
+      },
+      "credit": "Auckland Libraries Heritage Collections AWNS-19361007-54-02",
+      "metadataI18n": {
+        "date": {
+          "en": "7 October 1936 (publication date)",
+          "zh": "1936年10月7日（出版日期）"
+        },
+        "creator": {
+          "en": "Auckland Weekly News (catalogue photographer credit)",
+          "zh": "《奥克兰周刊新闻》（Auckland Weekly News；目录中的摄影署名）"
+        },
+        "institution": {
+          "en": "Auckland Libraries Heritage Collections",
+          "zh": "奥克兰图书馆历史文化馆藏（Auckland Libraries Heritage Collections）"
+        }
+      },
+      "transformation": {
+        "en": "Institution-provided full-frame JPEG at display resolution; no local changes.",
+        "zh": "馆方提供的显示分辨率完整画面JPEG，未在本地修改。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Read the related history",
+            "zh": "阅读相关历史"
+          },
+          "url": "https://blog.tepapa.govt.nz/2012/09/05/queen-salote-of-tonga-1900-65-composer-and-poet/"
+        }
+      ]
+    },
+    {
+      "id": "world-batch-06-kura-ngata",
+      "recordIds": [
+        "person-apirana-ngata"
+      ],
+      "kind": "document",
+      "representation": "document-facsimile",
+      "title": {
+        "en": "A map annotated with Ngata’s tribal boundaries",
+        "zh": "附有恩加塔部族边界标注的地图"
+      },
+      "alt": {
+        "en": "A North Island map is densely labelled with settlements, waterways and boundaries, with smaller island maps at the upper right.",
+        "zh": "北岛地图密布聚落、水道与边界标注，右上角附有较小的岛屿地图。"
+      },
+      "caption": {
+        "en": "Auckland Libraries dates this photographic copy to 1939 and identifies Āpirana Ngata’s additions showing Māori tribal boundaries at the beginning of the nineteenth century.",
+        "zh": "奥克兰图书馆将这份摄影复制图定为1939年，指出阿皮拉纳·恩加塔增添的标注展示十九世纪初的毛利部族边界。"
+      },
+      "interpretation": {
+        "en": "Ngata’s annotations put historical land relationships onto a government survey map. Read the layers separately: the map’s production date is not the date of the boundaries it reconstructs.",
+        "zh": "恩加塔的标注将历史土地关系叠加在政府测绘图上。应分别阅读这些层次：地图制作日期并不是它所重建的边界年代。"
+      },
+      "creator": "New Zealand Department of Lands and Survey (publisher); Āpirana Ngata (additions)",
+      "date": "1939 (catalogue date); boundaries labelled 1800 and 1840",
+      "institution": "Auckland Libraries Heritage Collections",
+      "sourceUrl": "https://kura.aucklandlibraries.govt.nz/digital/collection/maps/id/2407/",
+      "imageUrl": "https://kura.aucklandlibraries.govt.nz/iiif/2/maps:2407/full/1200,/0/default.jpg",
+      "downloadedFrom": "https://kura.aucklandlibraries.govt.nz/iiif/2/maps:2407/full/1200,/0/default.jpg",
+      "file": "assets/history-media/world-batch-06-kura-ngata.jpg",
+      "sha256": "ab9bdc057f7ac9df13391cfe91fcd25052a04a2fc64224c7bffc9fc0fb45ecc4",
+      "bytes": 398917,
+      "width": 1200,
+      "height": 1714,
+      "checkedAt": "2026-11-11",
+      "rightsSourceUrl": "https://kura.aucklandlibraries.govt.nz/digital/collection/maps/id/2407/",
+      "rights": {
+        "label": "No known copyright restrictions",
+        "url": "https://kura.aucklandlibraries.govt.nz/digital/collection/maps/id/2407/",
+        "note": {
+          "en": "No known copyright restrictions. Credit: Auckland Libraries Heritage Collections Map 330.",
+          "zh": "无已知版权限制。署名：Auckland Libraries Heritage Collections Map 330。"
+        }
+      },
+      "credit": "Auckland Libraries Heritage Collections Map 330",
+      "metadataI18n": {
+        "date": {
+          "en": "1939 (catalogue date); boundaries labelled 1800 and 1840",
+          "zh": "1939年（目录所列年代）；边界标注为1800年与1840年"
+        },
+        "creator": {
+          "en": "New Zealand Department of Lands and Survey (publisher); Āpirana Ngata (additions)",
+          "zh": "新西兰土地与测量部（出版者）；阿皮拉纳·恩加塔（Āpirana Ngata，增补）"
+        },
+        "institution": {
+          "en": "Auckland Libraries Heritage Collections",
+          "zh": "奥克兰图书馆历史文化馆藏（Auckland Libraries Heritage Collections）"
+        }
+      },
+      "transformation": {
+        "en": "Institution-provided full-frame JPEG at display resolution; no local changes.",
+        "zh": "馆方提供的显示分辨率完整画面JPEG，未在本地修改。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Read the related history",
+            "zh": "阅读相关历史"
+          },
+          "url": "https://teara.govt.nz/en/biographies/3n5/ngata-apirana-turupa"
+        }
+      ]
+    },
+    {
+      "id": "world-batch-06-reagan-tutu",
+      "recordIds": [
+        "person-desmond-tutu"
+      ],
+      "kind": "portrait",
+      "representation": "historical-photograph",
+      "title": {
+        "en": "Desmond Tutu at the White House, 1984",
+        "zh": "德斯蒙德·图图在白宫，1984年"
+      },
+      "alt": {
+        "en": "Desmond Tutu, wearing a clerical collar and dark suit, shakes hands with Ronald Reagan in the Oval Office.",
+        "zh": "德斯蒙德·图图身着深色西装、佩戴牧师领，在椭圆形办公室与罗纳德·里根握手。"
+      },
+      "caption": {
+        "en": "The Reagan Library identifies this White House photograph as Tutu’s meeting with Reagan in the Oval Office on 7 December 1984.",
+        "zh": "里根图书馆指出，这张白宫照片记录图图于1984年12月7日在椭圆形办公室与里根会面。"
+      },
+      "interpretation": {
+        "en": "A formal handshake records access to an international political stage. It documents an encounter, without demonstrating agreement between the two men.",
+        "zh": "正式握手记录了登上国际政治舞台的机会。它见证一次会面，但并不能证明两人观点一致。"
+      },
+      "creator": "White House Photograph Office; individual photographer not identified on gallery page",
+      "date": "7 December 1984",
+      "institution": "Ronald Reagan Presidential Library / NARA",
+      "sourceUrl": "https://www.reaganlibrary.gov/archives/audiovisual/white-house-photo-collection-galleries/meeting-vips",
+      "imageUrl": "https://www.reaganlibrary.gov/public/archives/photographs/large/c26199-10.jpg",
+      "downloadedFrom": "https://www.reaganlibrary.gov/public/archives/photographs/large/c26199-10.jpg",
+      "file": "assets/history-media/world-batch-06-reagan-tutu.jpg",
+      "sha256": "189e2ad3d6691cb577f1317ab0a26afb6530fe5809c4f51860a848e892c61985",
+      "bytes": 88949,
+      "width": 750,
+      "height": 498,
+      "checkedAt": "2026-11-11",
+      "rightsSourceUrl": "https://www.archives.gov/research/still-pictures/permissions",
+      "rights": {
+        "label": "Public domain (United States government work)",
+        "url": "https://www.archives.gov/research/still-pictures/permissions",
+        "note": {
+          "en": "Public domain in the United States as an official federal-government photograph. Credit: Courtesy Ronald Reagan Library, C26199-10. The library’s separate likeness-use notice remains applicable.",
+          "zh": "美国联邦政府公务照片，在美国属公有领域。署名：Courtesy Ronald Reagan Library，C26199-10。图书馆另行列明的肖像使用提示仍适用。"
+        }
+      },
+      "credit": "Courtesy Ronald Reagan Library, C26199-10",
+      "metadataI18n": {
+        "date": {
+          "en": "7 December 1984",
+          "zh": "1984年12月7日"
+        },
+        "creator": {
+          "en": "White House Photograph Office; individual photographer not identified on gallery page",
+          "zh": "白宫摄影办公室；图库页面未注明具体摄影者"
+        },
+        "institution": {
+          "en": "Ronald Reagan Presidential Library / NARA",
+          "zh": "罗纳德·里根总统图书馆／美国国家档案与文件管理局（NARA）"
+        }
+      },
+      "transformation": {
+        "en": "Institution-provided JPEG, unchanged.",
+        "zh": "馆方提供的JPEG，未作修改。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Read the related history",
+            "zh": "阅读相关历史"
+          },
+          "url": "https://www.nobelprize.org/prizes/peace/1984/tutu/biographical/"
+        }
+      ]
+    },
+    {
+      "id": "world-batch-06-clinton-kim",
+      "recordIds": [
+        "person-kim-dae-jung"
+      ],
+      "kind": "portrait",
+      "representation": "historical-photograph",
+      "title": {
+        "en": "Kim Dae-jung at an Auckland meeting",
+        "zh": "金大中出席奥克兰会谈"
+      },
+      "alt": {
+        "en": "Kim Dae-jung, at right in a dark suit, smiles while shaking hands with Bill Clinton.",
+        "zh": "右侧身着深色西装的金大中微笑着与比尔·克林顿握手。"
+      },
+      "caption": {
+        "en": "Sharon Farmer photographed Kim Dae-jung with Clinton in Auckland on 12 September 1999, before a trilateral meeting with Japan’s prime minister Keizō Obuchi.",
+        "zh": "莎伦·法默于1999年9月12日在奥克兰拍摄金大中与克林顿；两人即将与日本首相小渊惠三举行三方会谈。"
+      },
+      "interpretation": {
+        "en": "The photograph places Kim in regional diplomacy during his presidency. A handshake records the meeting’s public presentation rather than its negotiations or results.",
+        "zh": "照片呈现金大中任总统期间参与地区外交的场景。握手记录的是会谈的公开呈现，而非谈判过程或结果。"
+      },
+      "creator": "Sharon Farmer, White House Photograph Office",
+      "date": "12 September 1999",
+      "institution": "Archived Clinton White House website / NARA",
+      "sourceUrl": "https://clintonwhitehouse4.archives.gov/WH/New/APEC1999/kimgreet.html",
+      "imageUrl": "https://clintonwhitehouse4.archives.gov/media/jpg/kimgreet_1.jpg",
+      "downloadedFrom": "https://clintonwhitehouse4.archives.gov/media/jpg/kimgreet_1.jpg",
+      "file": "assets/history-media/world-batch-06-clinton-kim.jpg",
+      "sha256": "e89fb0b25de3835ec24163a91c32d191cd2b134f9f6b7d8d0e3f80c8fe07f558",
+      "bytes": 22365,
+      "width": 400,
+      "height": 266,
+      "checkedAt": "2026-11-11",
+      "rightsSourceUrl": "https://www.clintonlibrary.gov/research/audio-visual-research",
+      "rights": {
+        "label": "Public domain",
+        "url": "https://www.clintonlibrary.gov/research/audio-visual-research",
+        "note": {
+          "en": "Public-domain White House photograph by Sharon Farmer. Credit: William J. Clinton Presidential Library.",
+          "zh": "莎伦·法默拍摄的白宫公有领域照片。署名：威廉·J.克林顿总统图书馆。"
+        }
+      },
+      "credit": "Sharon Farmer, White House Photograph Office; archived Clinton White House website / NARA",
+      "metadataI18n": {
+        "date": {
+          "en": "12 September 1999",
+          "zh": "1999年9月12日"
+        },
+        "creator": {
+          "en": "Sharon Farmer, White House Photograph Office",
+          "zh": "莎伦·法默（Sharon Farmer），白宫摄影办公室"
+        },
+        "institution": {
+          "en": "Archived Clinton White House website / NARA",
+          "zh": "克林顿时期白宫网站存档／美国国家档案与文件管理局（NARA）"
+        }
+      },
+      "transformation": {
+        "en": "Institution-provided JPEG, unchanged.",
+        "zh": "馆方提供的JPEG，未作修改。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Read the related history",
+            "zh": "阅读相关历史"
+          },
+          "url": "https://www.nobelprize.org/prizes/peace/2000/dae-jung/facts/"
+        }
+      ]
     }
   ],
   "associations": [
@@ -16668,6 +18999,83 @@
       }
     },
     {
+      "assetId": "china-batch-04-hanwendi",
+      "recordId": "china-landmark-119",
+      "role": "named-person",
+      "context": {
+        "en": "Emperor Wen organized the Han response to the 166 BCE incursion. This Song-period portrait presents the ruler centuries later.",
+        "zh": "汉文帝组织了对前166年入边的应对。这幅宋代肖像呈现的是后世对他的描绘。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/史記/卷110#老上單于_稽粥",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "china-rebuild-cao-cao",
+      "recordId": "china-landmark-314",
+      "role": "named-person",
+      "context": {
+        "en": "Cao Cao selected the surrendered troops described in this entry. His portrait in the 1609 Sancai Tuhui belongs to his later commemorative image.",
+        "zh": "曹操是本条所述选编降卒的主持者。1609年《三才图会》中的肖像，属于其后世纪念形象。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/三國志/卷01",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "china-batch-04-liuxiu",
+      "recordId": "china-event-donghan-001",
+      "role": "named-person",
+      "context": {
+        "en": "Liu Xiu became emperor south of Hao before establishing his capital at Luoyang. This later court image identifies the ruler in that two-part story.",
+        "zh": "刘秀先在鄗南即位，再定都洛阳。后世宫廷图像呈现了这段两地叙事中的君主。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/後漢書/卷1上",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "china-batch-04-yangguang",
+      "recordId": "china-landmark-036",
+      "role": "named-person",
+      "context": {
+        "en": "Emperor Yang ordered construction of the eastern capital and Tongji Canal in 605. The later imperial portrait identifies the sponsor of those works.",
+        "zh": "隋炀帝于605年下令营建东京、开通济渠。后世帝王肖像呈现了这些工程的发起者。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/隋書/卷03",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "china-batch-04-yangguang",
+      "recordId": "china-event-sui-010",
+      "role": "named-person",
+      "context": {
+        "en": "The besieged emperor in the 615 Yanmen episode was Yang Guang. The scroll depicts the ruler in a later imperial portrait tradition.",
+        "zh": "615年雁门之围中的皇帝为杨广。画卷以其后形成的帝王肖像传统呈现这位君主。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/隋書/卷04",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "china-batch-04-linzexu",
+      "recordId": "china-landmark-424",
+      "role": "named-person",
+      "context": {
+        "en": "This nineteenth-century portrait identifies Lin Zexu, the commissioner who supervised the destruction of opium at Humen.",
+        "zh": "这幅19世纪肖像呈现了主持虎门销烟的钦差大臣林则徐。"
+      },
+      "evidenceUrl": "https://en.wikisource.org/wiki/Eminent_Chinese_of_the_Ch%27ing_Period/Lin_Ts%C3%AA-hs%C3%BC",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "china-batch-04-nurhaci",
+      "recordId": "china-landmark-466",
+      "role": "named-person",
+      "context": {
+        "en": "Nurhaci led the unsuccessful attack on Ningyuan. His formal court portrait presents a different setting from the battle described here.",
+        "zh": "努尔哈赤率军进攻宁远而受挫。正式朝服肖像呈现了与本条战事不同的场合。"
+      },
+      "evidenceUrl": "https://en.wikisource.org/wiki/Eminent_Chinese_of_the_Ch%27ing_Period/Nurhaci",
+      "checkedAt": "2026-11-11"
+    },
+    {
       "assetId": "su-shi",
       "recordId": "china-su-causeway-1089",
       "role": "named-person",
@@ -18937,6 +21345,391 @@
         "zh": "近景显示城墙是砌筑和维护的累积，不只是围绕城市的一条线。"
       },
       "evidenceUrl": "https://whc.unesco.org/en/list/1189/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "world-batch-06-newton",
+      "recordId": "person-isaac-newton",
+      "role": "depicts-subject",
+      "context": {
+        "en": "The classical profile and Latin lettering give scientific authorship a commemorative form. Compare this later image with Newton’s mathematical writing and institutional career.",
+        "zh": "古典侧面构图与拉丁题字，为科学作者赋予纪念形式。可将这幅后世图像与牛顿的数学著作及机构生涯对读。"
+      },
+      "evidenceUrl": "https://wellcomecollection.org/works/w84b6gde",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "world-batch-06-copernicus",
+      "recordId": "person-nicolaus-copernicus",
+      "role": "depicts-subject",
+      "context": {
+        "en": "The print shows how a recognisable author’s face accompanied the later circulation of scientific reputation. It belongs to Copernicus’s reception rather than the making of his planetary model.",
+        "zh": "这幅版画展示了鲜明的作者面孔如何伴随科学声誉传播。它属于哥白尼的后世接受史，而非其行星模型形成时的图像。"
+      },
+      "evidenceUrl": "https://wellcomecollection.org/works/kc57czj8",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "world-batch-06-nightingale",
+      "recordId": "person-florence-nightingale",
+      "role": "depicts-subject",
+      "context": {
+        "en": "A composed personal portrait offers a different starting point from the familiar lamp-bearing emblem. Her public work also depended on records, training and hospital organization.",
+        "zh": "这幅沉静的人物肖像，为理解南丁格尔提供了不同于“提灯者”象征的起点。她的公共工作也依赖记录、培训与医院组织。"
+      },
+      "evidenceUrl": "https://wellcomecollection.org/works/tqpyk843",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "world-batch-06-hildegard",
+      "recordId": "person-hildegard-bingen",
+      "role": "depicts-subject",
+      "context": {
+        "en": "Read the book and identifying text as choices made by a later printmaker. Hildegard’s surviving letters provide a separate route into her own community and voice.",
+        "zh": "书本与身份题字体现后世版画家的选择；希尔德加德存世的书信，则提供通往她本人社群与声音的另一条路径。"
+      },
+      "evidenceUrl": "https://wellcomecollection.org/works/b48yzmst",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "world-batch-06-watt",
+      "recordId": "watt-separate-condenser",
+      "role": "named-person",
+      "context": {
+        "en": "The image gives a face to the engineer named in the separate-condenser story. The contemplative pose is a portrait convention, not a record of the 1769 invention.",
+        "zh": "图像为独立冷凝器故事中的工程师提供面孔。沉思姿态是一种肖像惯例，并非1769年发明现场的记录。"
+      },
+      "evidenceUrl": "https://blog.sciencemuseum.org.uk/james-watt-and-the-separate-condenser/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "world-batch-06-avicenna",
+      "recordId": "person-ibn-sina",
+      "role": "related-work",
+      "context": {
+        "en": "This is evidence of the book’s illustrated material life, not a portrait of Ibn Sina. The scene connects an influential medical text to the recognizable practice of examining a patient.",
+        "zh": "这是这部医书图像与物质传播的证据，并非伊本·西那的肖像。画面把一部影响深远的医学文本与具体的病人诊察联系起来。"
+      },
+      "evidenceUrl": "https://wellcomecollection.org/works/mwhd97dv",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "world-batch-06-comenius",
+      "recordId": "person-jan-amos-comenius",
+      "role": "depicts-subject",
+      "context": {
+        "en": "The close view draws attention to a particular person behind widely circulated educational books. His teaching programme developed through exile, religious commitments and patronage.",
+        "zh": "近距离肖像让广为流传的教育著作背后的人物成为焦点。他的教育方案在流亡、宗教信念与资助关系中形成。"
+      },
+      "evidenceUrl": "https://www.rijksmuseum.nl/en/collection/object/Portrait-of-Jan-Amos-Comenius--a0fd2c3be578ec360aadac312b864d12",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "world-batch-06-orbis-pictus",
+      "recordId": "orbis-pictus-illustrated-learning",
+      "role": "related-work",
+      "context": {
+        "en": "Match the numbers in the picture to the two columns: clouds, birds, hills and people become linked words and things. The page makes the book’s teaching method visible.",
+        "zh": "将图中数字与两栏词汇对应：云、鸟、山丘和人，把词语与事物连在一起。这一页让书中的教学方法具体可见。"
+      },
+      "evidenceUrl": "https://wellcomecollection.org/works/ju2nkyws",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "world-batch-06-orbis-pictus",
+      "recordId": "person-jan-amos-comenius",
+      "role": "related-work",
+      "context": {
+        "en": "Match the numbers in the picture to the two columns: clouds, birds, hills and people become linked words and things. The page makes the book’s teaching method visible.",
+        "zh": "将图中数字与两栏词汇对应：云、鸟、山丘和人，把词语与事物连在一起。这一页让书中的教学方法具体可见。"
+      },
+      "evidenceUrl": "https://wellcomecollection.org/works/ju2nkyws",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "world-batch-06-caesar",
+      "recordId": "person-julius-caesar",
+      "role": "depicts-subject",
+      "context": {
+        "en": "A political face could circulate at the scale of a gemstone, as well as in monumental sculpture. The ruler helps recover the intimate size of this ancient portrait.",
+        "zh": "政治人物的面孔不仅出现于纪念性雕塑，也能以宝石的尺度流传。标尺帮助我们理解这件古代肖像的微小尺寸。"
+      },
+      "evidenceUrl": "https://www.metmuseum.org/art/collection/search/248572",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "world-batch-06-alexander",
+      "recordId": "person-alexander-great",
+      "role": "depicts-subject",
+      "context": {
+        "en": "The encounter became a way to contrast political power with philosophical independence. This image shows Alexander’s long afterlife in European art.",
+        "zh": "这次相遇成为对照政治权力与哲学独立的一种方式。图像展现亚历山大在欧洲艺术中持久的后世影响。"
+      },
+      "evidenceUrl": "https://www.metmuseum.org/art/collection/search/812706",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "world-batch-06-gutenberg",
+      "recordId": "gutenberg-printing",
+      "role": "named-person",
+      "context": {
+        "en": "The medal links the industrial printing world to a celebrated predecessor. It is useful evidence of commemoration alongside the entry’s account of type, ink and presswork.",
+        "zh": "铜章把工业印刷世界与备受推崇的前辈连接起来，可与条目中的活字、油墨和印刷工艺相互参照，理解纪念行为。"
+      },
+      "evidenceUrl": "https://www.loc.gov/exhibits/bibles/the-gutenberg-bible.html",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "world-batch-06-victoria",
+      "recordId": "crown-rule-india",
+      "role": "named-person",
+      "context": {
+        "en": "The portrait identifies the sovereign named in the proclamation. Its youthful court image and the later colonial document belong to different moments in a long reign.",
+        "zh": "肖像标明公告中所称的君主。年轻时的宫廷形象与后来的殖民文件，属于漫长统治中的不同时刻。"
+      },
+      "evidenceUrl": "https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/parliament-and-empire/parliament-and-the-american-colonies-before-1765/government-of-the-raj-1858-1914/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "world-batch-06-akbar",
+      "recordId": "mughal-translation-workshops",
+      "role": "named-person",
+      "context": {
+        "en": "Akbar established the court translation bureau in 1574. This portrait identifies that patron; it does not depict translators at work.",
+        "zh": "阿克巴于1574年设立宫廷翻译机构。这幅肖像标明该赞助者，并未描绘译者工作现场。"
+      },
+      "evidenceUrl": "https://www.vam.ac.uk/articles/the-arts-of-the-mughal-empire",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "world-batch-06-akbar",
+      "recordId": "fatehpur-sikri-court",
+      "role": "named-person",
+      "context": {
+        "en": "Akbar developed Fatehpur Sikri as an imperial centre. The portrait adds its named patron to the architectural story.",
+        "zh": "阿克巴将法泰赫普尔西克里发展为帝国中心。肖像为建筑故事补充了具体赞助者。"
+      },
+      "evidenceUrl": "https://whc.unesco.org/en/list/255/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "world-batch-06-shah-jahan",
+      "recordId": "taj-mahal",
+      "role": "named-person",
+      "context": {
+        "en": "The pendant repeats the ruler’s image inside his portrait. Alongside the mausoleum, it shows another scale at which Mughal patronage made imperial identity visible.",
+        "zh": "吊坠在皇帝肖像内部再次呈现他的形象。与陵墓相对照，可以看到莫卧儿赞助如何在另一种尺度上呈现帝王身份。"
+      },
+      "evidenceUrl": "https://whc.unesco.org/en/list/252/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "world-batch-06-abd-al-qadir",
+      "recordId": "person-abd-al-qadir",
+      "role": "depicts-subject",
+      "context": {
+        "en": "The surrounding vignettes turn a portrait into a composed account of a public life. Read this French print alongside the biography’s Algerian and Damascus settings.",
+        "zh": "周围的小场景将肖像变成经过编排的公共生涯叙事。可将这幅法国版画与传记中的阿尔及利亚和大马士革背景对读。"
+      },
+      "evidenceUrl": "https://parismuseescollections.paris.fr/fr/petit-palais/oeuvres/l-emir-abd-el-kader",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "world-batch-06-tsuda",
+      "recordId": "person-tsuda-umeko",
+      "role": "depicts-subject",
+      "context": {
+        "en": "The portrait introduces the founder of the women’s school that became Tsuda University. Her educational programme linked overseas study with institution-building in Japan.",
+        "zh": "肖像介绍了后来发展为津田塾大学的女子学校创办者。她的教育方案把海外求学与日本的机构建设联系起来。"
+      },
+      "evidenceUrl": "https://www.ndl.go.jp/portrait/e/datas/292",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "world-batch-06-yosano",
+      "recordId": "person-yosano-akiko",
+      "role": "depicts-subject",
+      "context": {
+        "en": "The image accompanies a career spanning poetry, protest against war and women’s education. The linked library record also leads to her books and manuscripts.",
+        "zh": "图像伴随一段涵盖诗歌、反战表达与女子教育的生涯。链接的图书馆记录还可引向她的著作与手稿。"
+      },
+      "evidenceUrl": "https://www.ndl.go.jp/portrait/e/datas/347",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "world-batch-06-fukuzawa",
+      "recordId": "person-fukuzawa-yukichi",
+      "role": "depicts-subject",
+      "context": {
+        "en": "Clothing and a studio pose form a public presentation of the educator. Compare that presentation with his arguments about learning and independence.",
+        "zh": "服装与照相馆姿态共同构成教育家的公共形象，可与他关于学习和独立的论述对照。"
+      },
+      "evidenceUrl": "https://www.ndl.go.jp/portrait/e/datas/185",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "world-batch-06-chatelet",
+      "recordId": "person-emilie-du-chatelet",
+      "role": "depicts-subject",
+      "context": {
+        "en": "The scientific instrument sits beside aristocratic titles and heraldry. The print brings learned work and social position into the same public image.",
+        "zh": "科学仪器与贵族头衔及纹章并置，使学术工作与社会地位进入同一公共形象。"
+      },
+      "evidenceUrl": "https://parismuseescollections.paris.fr/en/node/1049240",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "world-batch-06-met-16584",
+      "recordId": "person-george-washington",
+      "role": "named-person",
+      "context": {
+        "en": "The museum identifies the sitter as George Washington; the 1795 portrait belongs to the presidential phase of this biography.",
+        "zh": "博物馆确认画中人为乔治·华盛顿；1795年的肖像对应本传记中的总统任期。"
+      },
+      "evidenceUrl": "https://www.metmuseum.org/art/collection/search/16584",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "world-batch-06-npg-npg-95-54",
+      "recordId": "person-jane-addams",
+      "role": "named-person",
+      "context": {
+        "en": "The collection names Jane Addams as a sitter, directly linking this lifetime drawing to her biography.",
+        "zh": "馆藏记录明确列简·亚当斯为被描绘者，使这幅生前素描与其传记直接相连。"
+      },
+      "evidenceUrl": "https://npg.si.edu/object/npg_NPG.95.54",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "world-batch-06-npg-npg-99-167-13",
+      "recordId": "person-sequoyah",
+      "role": "named-person",
+      "context": {
+        "en": "The museum identifies Sequoyah as the sitter and the tablet as a writing implement, directly connecting the print to this biography of the Cherokee syllabary’s inventor.",
+        "zh": "博物馆确认被描绘者为塞阔雅，并将写字板列为书写工具，直接对应本条关于切罗基音节文字发明者的传记。"
+      },
+      "evidenceUrl": "https://npg.si.edu/object/npg_NPG.99.167.13",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "world-batch-06-npg-npg-2006-10",
+      "recordId": "person-zitkala-sa",
+      "role": "named-person",
+      "context": {
+        "en": "The museum names Zitkála-Šá as the sitter and identifies her as a writer, violinist and reformer, matching the biography’s subject.",
+        "zh": "博物馆明确列齐特卡拉-沙为被摄者，并将其列为作家、小提琴家与改革者，与传记主体相符。"
+      },
+      "evidenceUrl": "https://npg.si.edu/object/npg_NPG.2006.10",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "world-batch-06-npg-npg-2015-136",
+      "recordId": "person-frida-kahlo",
+      "role": "named-person",
+      "context": {
+        "en": "The collection identifies Frida Kahlo as the sitter and Magda Pach as the painter, providing a lifetime portrait directly tied to this biography.",
+        "zh": "馆藏明确列弗里达·卡洛为被描绘者、玛格达·帕赫为画家，提供与本传记直接相关的生前肖像。"
+      },
+      "evidenceUrl": "https://npg.si.edu/object/npg_NPG.2015.136",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "world-batch-06-npg-npg-2024-196",
+      "recordId": "person-susie-king-taylor",
+      "role": "named-person",
+      "context": {
+        "en": "The museum identifies the frontispiece sitter as Susie King Taylor; her 1902 memoir directly connects the portrait to the literacy, care and freedom discussed in this biography.",
+        "zh": "博物馆确认卷首肖像的被描绘者为苏茜·金·泰勒；她1902年的回忆录，使图像直接联系本传记讨论的读写、照护与自由。"
+      },
+      "evidenceUrl": "https://npg.si.edu/object/npg_NPG.2024.196",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "world-batch-06-npg-npg-82-137",
+      "recordId": "person-sarah-winnemucca",
+      "role": "named-person",
+      "context": {
+        "en": "The museum identifies the sitter as Sarah Winnemucca and records the Baltimore portrait’s 1883 date, directly linking it to the biography.",
+        "zh": "博物馆确认被摄者为莎拉·温尼穆卡，并将巴尔的摩肖像定年为1883年，与传记直接相连。"
+      },
+      "evidenceUrl": "https://npg.si.edu/object/npg_NPG.82.137",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "world-batch-06-npg-npg-92-156",
+      "recordId": "person-george-washington-carver",
+      "role": "named-person",
+      "context": {
+        "en": "The museum names George Washington Carver and a student in the photograph, directly illustrating the biography’s account of scientific inquiry and education.",
+        "zh": "博物馆将照片题名为乔治·华盛顿·卡弗与学生，直接呈现传记中的科学探究与教育工作。"
+      },
+      "evidenceUrl": "https://npg.si.edu/object/npg_NPG.92.156",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "world-batch-06-tepapa-sheppard",
+      "recordId": "person-kate-sheppard",
+      "role": "related-work",
+      "context": {
+        "en": "An authenticated work by Sheppard makes the organizational and publishing side of the suffrage campaign visible.",
+        "zh": "谢泼德的确证作品呈现选举权运动的组织与出版工作。"
+      },
+      "evidenceUrl": "https://collections.tepapa.govt.nz/object/397630",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "world-batch-06-kura-salote",
+      "recordId": "person-salote-tupou-iii",
+      "role": "named-person",
+      "context": {
+        "en": "Sālote is explicitly identified, seated second from left. The visit illustrates her relationships across the Pacific.",
+        "zh": "馆藏明确指出左起第二位坐者为萨洛特。这次访问呈现她的跨太平洋联系。"
+      },
+      "evidenceUrl": "https://kura.aucklandlibraries.govt.nz/digital/collection/photos/id/269547/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "world-batch-06-kura-salote",
+      "recordId": "person-te-puea-herangi",
+      "role": "named-person",
+      "context": {
+        "en": "Te Puea is explicitly identified, seated third from left, alongside Sālote at Ngāruawāhia.",
+        "zh": "馆藏明确指出左起第三位坐者为特普埃亚，她在恩加鲁阿瓦希亚与萨洛特并坐。"
+      },
+      "evidenceUrl": "https://kura.aucklandlibraries.govt.nz/digital/collection/photos/id/269547/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "world-batch-06-kura-ngata",
+      "recordId": "person-apirana-ngata",
+      "role": "related-work",
+      "context": {
+        "en": "The catalogue explicitly attributes additions to Ngata, connecting this map with his work on Māori land and historical knowledge.",
+        "zh": "馆藏明确将增补内容归于恩加塔，使地图与他对毛利土地和历史知识的工作相联系。"
+      },
+      "evidenceUrl": "https://kura.aucklandlibraries.govt.nz/digital/collection/maps/id/2407/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "world-batch-06-reagan-tutu",
+      "recordId": "person-desmond-tutu",
+      "role": "named-person",
+      "context": {
+        "en": "The gallery explicitly identifies Bishop Desmond Tutu, connecting his biography to international political engagement in 1984.",
+        "zh": "画廊明确识别德斯蒙德·图图主教，将其生平与1984年的国际政治交往联系起来。"
+      },
+      "evidenceUrl": "https://www.reaganlibrary.gov/archives/audiovisual/white-house-photo-collection-galleries/meeting-vips",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "world-batch-06-clinton-kim",
+      "recordId": "person-kim-dae-jung",
+      "role": "named-person",
+      "context": {
+        "en": "The White House caption identifies Kim Dae-jung before a trilateral meeting, a specific episode of his presidential diplomacy.",
+        "zh": "白宫图注明确识别三方会谈前的金大中，记录其总统外交中的一个具体时刻。"
+      },
+      "evidenceUrl": "https://clintonwhitehouse4.archives.gov/WH/New/APEC1999/kimgreet.html",
       "checkedAt": "2026-11-11"
     }
   ]

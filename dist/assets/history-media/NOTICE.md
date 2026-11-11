@@ -1,6 +1,6 @@
 # Historical images: credits and reuse
 
-Reviewed 2026-11-11. 206 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
+Reviewed 2026-11-11. 238 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
 
 Historical artifacts, surviving places and later depictions retain their source identities. No generated reconstructions are included in this catalogue.
 
@@ -2887,3 +2887,451 @@ Commons-provided JPEG, unchanged locally. Source-side cropping or processing is 
 Photograph © Adam Jones from Kelowna, BC, Canada, CC BY-SA 2.0. Retain attribution, the license and any change notices when reusing this photograph. Share adaptations under the same license.
 
 Commons-provided JPEG, unchanged locally. Source-side cropping or processing is described on the file page.
+
+## Newton remembered in profile / 侧面肖像中的牛顿纪念
+
+- File: world-batch-06-newton.jpg
+- Creator: W. Hoare
+- Date: 1734
+- Collection: Wellcome Collection
+- Source: https://wellcomecollection.org/works/w84b6gde
+- Rights: Public Domain Mark (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://api.wellcomecollection.org/catalogue/v2/works/w84b6gde
+
+Public-domain image. Credit: Wellcome Collection.
+
+Institution-provided full-frame JPEG at display resolution; no local changes.
+
+## Copernicus in an 1802 print / 1802年版画中的哥白尼
+
+- File: world-batch-06-copernicus.jpg
+- Creator: John Chapman
+- Date: 1802
+- Collection: Wellcome Collection
+- Source: https://wellcomecollection.org/works/kc57czj8
+- Rights: Public Domain Mark (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://api.wellcomecollection.org/catalogue/v2/works/kc57czj8
+
+Public-domain image. Credit: Wellcome Collection.
+
+Institution-provided full-frame JPEG at display resolution; no local changes.
+
+## Florence Nightingale in 1854 / 1854年的弗洛伦斯·南丁格尔
+
+- File: world-batch-06-nightingale.jpg
+- Creator: H. M. Bonham-Carter
+- Date: 1854
+- Collection: Wellcome Collection
+- Source: https://wellcomecollection.org/works/tqpyk843
+- Rights: Public Domain Mark (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://api.wellcomecollection.org/catalogue/v2/works/tqpyk843
+
+Public-domain image. Credit: Wellcome Collection.
+
+Institution-provided full-frame JPEG at display resolution; no local changes.
+
+## Hildegard imagined in 1642 / 1642年想象中的希尔德加德
+
+- File: world-batch-06-hildegard.jpg
+- Creator: William Marshall
+- Date: 1642
+- Collection: Wellcome Collection
+- Source: https://wellcomecollection.org/works/b48yzmst
+- Rights: Public Domain Mark (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://api.wellcomecollection.org/catalogue/v2/works/b48yzmst
+
+Public-domain image. Credit: Wellcome Collection.
+
+Institution-provided full-frame JPEG at display resolution; no local changes.
+
+## James Watt in a 1792 engraving / 1792年雕版画中的詹姆斯·瓦特
+
+- File: world-batch-06-watt.jpg
+- Creator: Unrecorded engraver, after Carl Frederik von Breda
+- Date: 1792
+- Collection: Wellcome Collection
+- Source: https://wellcomecollection.org/works/by5hhbyq
+- Rights: Public Domain Mark (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://api.wellcomecollection.org/catalogue/v2/works/by5hhbyq
+
+Public-domain image. Credit: Wellcome Collection.
+
+Institution-provided full-frame JPEG at display resolution; no local changes.
+
+## A medical scene on a copy of Ibn Sina’s Canon / 伊本·西那《医典》抄本封板上的医疗场景
+
+- File: world-batch-06-avicenna.jpg
+- Creator: Unrecorded painter and binder; text by Ibn Sina (Avicenna)
+- Date: Binding undated in the collection record
+- Collection: Wellcome Collection
+- Source: https://wellcomecollection.org/works/mwhd97dv
+- Rights: Public Domain Mark (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://api.wellcomecollection.org/catalogue/v2/works/mwhd97dv
+
+Public-domain image. Credit: Wellcome Collection.
+
+Institution-provided full-frame JPEG at display resolution; no local changes.
+
+## Comenius in a painted portrait / 绘画肖像中的夸美纽斯
+
+- File: world-batch-06-comenius.jpg
+- Creator: Jürgen Ovens
+- Date: 1650–1670
+- Collection: Rijksmuseum
+- Source: https://www.rijksmuseum.nl/en/collection/object/Portrait-of-Jan-Amos-Comenius--a0fd2c3be578ec360aadac312b864d12
+- Rights: Public Domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://www.rijksmuseum.nl/en/collection/object/Portrait-of-Jan-Amos-Comenius--a0fd2c3be578ec360aadac312b864d12
+
+Public-domain image. Credit: Rijksmuseum, SK-A-2161.
+
+Institution-provided full-frame JPEG at display resolution; no local changes.
+
+## Words, numbers and pictures in Orbis Pictus / 《世界图解》中的词语、数字与图像
+
+- File: world-batch-06-orbis-pictus.jpg
+- Creator: Jan Amos Comenius (author); Charles Hoole (translator); Alexander Anderson (engraver); T. & J. Swords (publisher)
+- Date: 1810 edition, page 22
+- Collection: Wellcome Collection
+- Source: https://wellcomecollection.org/works/ju2nkyws
+- Rights: Public Domain Mark (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://api.wellcomecollection.org/catalogue/v2/works/ju2nkyws
+
+Public-domain image. Credit: Wellcome Collection.
+
+Institution-provided full-frame JPEG at display resolution; no local changes.
+
+## Caesar’s profile cut into amethyst / 刻入紫水晶的凯撒侧像
+
+- File: world-batch-06-caesar.jpg
+- Creator: Unrecorded Roman gem engraver
+- Date: ca. 50–40 BCE
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/248572
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/about-the-met/policies-and-documents/open-access
+
+CC0 public-domain image. Credit: Rogers Fund, 1911.
+
+Institution-provided JPEG, unchanged.
+
+## Alexander and Diogenes in a later etching / 后世蚀刻画中的亚历山大与第欧根尼
+
+- File: world-batch-06-alexander.jpg
+- Creator: Anonymous
+- Date: ca. 1580–1640
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/812706
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/about-the-met/policies-and-documents/open-access
+
+CC0 public-domain image. Credit: Gift of Joseph Verner Reed, 1950.
+
+Institution-provided JPEG, unchanged.
+
+## Remembering Gutenberg in 1889 / 1889年对古腾堡的纪念
+
+- File: world-batch-06-gutenberg.jpg
+- Creator: Anton Scharff
+- Date: 1889 (?)
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/198665
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/about-the-met/policies-and-documents/open-access
+
+CC0 public-domain image. Credit: Gift of Henry N. Kent, 1940.
+
+Institution-provided JPEG, unchanged.
+
+## Victoria’s crowned head, painted in 1838 / 1838年绘制的维多利亚加冕肖像习作
+
+- File: world-batch-06-victoria.jpg
+- Creator: Thomas Sully
+- Date: 1838
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/12702
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/about-the-met/policies-and-documents/open-access
+
+CC0 public-domain image. Credit: Bequest of Francis T. S. Darley, 1914.
+
+Institution-provided JPEG, unchanged.
+
+## Akbar at prayer near the end of his reign / 统治末期前后祈祷中的阿克巴
+
+- File: world-batch-06-akbar.jpg
+- Creator: Unrecorded Mughal painter
+- Date: early 17th century
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/448278
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/about-the-met/policies-and-documents/open-access
+
+CC0 public-domain image. Credit: H. O. Havemeyer Collection, Gift of Horace Havemeyer, 1929.
+
+Institution-provided JPEG, unchanged.
+
+## Shah Jahan presents his own image / 沙贾汗展示自己的肖像
+
+- File: world-batch-06-shah-jahan.jpg
+- Creator: Chitarman
+- Date: recto: dated 1627–28; verso: ca. 1530–50
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/451270
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/about-the-met/policies-and-documents/open-access
+
+CC0 public-domain image. Credit: Purchase, Rogers Fund and The Kevorkian Foundation Gift, 1955.
+
+Institution-provided JPEG, unchanged.
+
+## Abd al-Qadir in an 1879 commemorative print / 1879年纪念版画中的阿卜杜勒·卡迪尔
+
+- File: world-batch-06-abd-al-qadir.jpg
+- Creator: Edmond Morin; Léon-Louis Chapon
+- Date: 1879
+- Collection: Paris Musées / Petit Palais
+- Source: https://parismuseescollections.paris.fr/fr/petit-palais/oeuvres/l-emir-abd-el-kader
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://parismuseescollections.paris.fr/fr/petit-palais/oeuvres/l-emir-abd-el-kader
+
+CC0 public-domain image. Credit: Paris Musées / Petit Palais, PPG3829.
+
+Institution-provided JPEG, unchanged.
+
+## Tsuda Umeko / 津田梅子
+
+- File: world-batch-06-tsuda.jpg
+- Creator: Photographer unrecorded in the exhibition
+- Date: Photograph undated in the exhibition record
+- Collection: National Diet Library, Japan
+- Source: https://www.ndl.go.jp/portrait/e/datas/292
+- Rights: Public Domain (https://www.ndl.go.jp/portrait/e/about)
+- Rights evidence: https://www.ndl.go.jp/portrait/e/about
+
+The exhibition explicitly states that all of its images are public domain and that its digitized images may be reused, including commercially, without application. Credit: National Diet Library, Portraits of Modern Japanese Historical Figures.
+
+Institution-provided JPEG, unchanged.
+
+## Yosano Akiko / 与谢野晶子
+
+- File: world-batch-06-yosano.jpg
+- Creator: Photographer unrecorded in the exhibition
+- Date: Photograph undated in the exhibition record
+- Collection: National Diet Library, Japan
+- Source: https://www.ndl.go.jp/portrait/e/datas/347
+- Rights: Public Domain (https://www.ndl.go.jp/portrait/e/about)
+- Rights evidence: https://www.ndl.go.jp/portrait/e/about
+
+The exhibition explicitly states that all of its images are public domain and that its digitized images may be reused, including commercially, without application. Credit: National Diet Library, Portraits of Modern Japanese Historical Figures.
+
+Institution-provided JPEG, unchanged.
+
+## Fukuzawa Yukichi / 福泽谕吉
+
+- File: world-batch-06-fukuzawa.jpg
+- Creator: Photographer unrecorded in the exhibition
+- Date: Photograph undated in the exhibition record
+- Collection: National Diet Library, Japan
+- Source: https://www.ndl.go.jp/portrait/e/datas/185
+- Rights: Public Domain (https://www.ndl.go.jp/portrait/e/about)
+- Rights evidence: https://www.ndl.go.jp/portrait/e/about
+
+The exhibition explicitly states that all of its images are public domain and that its digitized images may be reused, including commercially, without application. Credit: National Diet Library, Portraits of Modern Japanese Historical Figures.
+
+Institution-provided JPEG, unchanged.
+
+## Émilie du Châtelet in a 1751 engraving / 1751年雕版画中的埃米莉·杜·夏特莱
+
+- File: world-batch-06-chatelet.jpg
+- Creator: Anonymous engraver, after Marianne Loir; published by Gilles-Edme Petit
+- Date: 1751
+- Collection: Paris Musées / Musée Carnavalet – Histoire de Paris
+- Source: https://parismuseescollections.paris.fr/en/node/1049240
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://parismuseescollections.paris.fr/en/node/1049240
+
+CC0 public-domain image. Credit: Paris Musées / Musée Carnavalet – Histoire de Paris, 2023.0.124.
+
+Institution-provided JPEG, unchanged.
+
+## Washington painted by Gilbert Stuart / 吉尔伯特·斯图尔特笔下的华盛顿
+
+- File: world-batch-06-met-16584.jpg
+- Creator: Gilbert Stuart
+- Date: begun 1795
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/16584
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/about-the-met/policies-and-documents/open-access
+
+CC0 public-domain image. Credit: The Metropolitan Museum of Art, Rogers Fund, 1907.
+
+Institution-provided JPEG, unchanged.
+
+## Jane Addams and Alva Belmont, 1912 / 简·亚当斯与阿尔娃·贝尔蒙特，1912年
+
+- File: world-batch-06-npg-npg-95-54.jpg
+- Creator: Wallace Morgan, 1873 - 1948
+- Date: 1912
+- Collection: National Portrait Gallery, Smithsonian Institution
+- Source: https://npg.si.edu/object/npg_NPG.95.54
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.si.edu/openaccess
+
+CC0 public-domain image. Credit: National Portrait Gallery, Smithsonian Institution.
+
+Institution-provided JPEG, unchanged.
+
+## Sequoyah with a writing tablet, 1838 / 塞阔雅与写字板，1838年
+
+- File: world-batch-06-npg-npg-99-167-13.jpg
+- Creator: R. T.; Henry Inman, 28 Oct 1801 - 17 Jan 1846; Charles Bird King, 26 Sep 1785 - 18 Mar 1862; J. T. Bowen Lithography Company, active 1834 - 1844?
+- Date: 1838
+- Collection: National Portrait Gallery, Smithsonian Institution
+- Source: https://npg.si.edu/object/npg_NPG.99.167.13
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.si.edu/openaccess
+
+CC0 public-domain image. Credit: National Portrait Gallery, Smithsonian Institution; gift of Betty A. and Lloyd G. Schermer.
+
+Institution-provided JPEG, unchanged.
+
+## Zitkála-Šá in a platinum photograph, 1898 / 铂金照片中的齐特卡拉-沙，1898年
+
+- File: world-batch-06-npg-npg-2006-10.jpg
+- Creator: Joseph Turner Keiley, 26 Jul 1869 - 21 Jan 1914
+- Date: 1898
+- Collection: National Portrait Gallery, Smithsonian Institution
+- Source: https://npg.si.edu/object/npg_NPG.2006.10
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.si.edu/openaccess
+
+CC0 public-domain image. Credit: National Portrait Gallery, Smithsonian Institution.
+
+Institution-provided JPEG, unchanged.
+
+## Frida Kahlo through Magda Pach’s eyes / 玛格达·帕赫眼中的弗里达·卡洛
+
+- File: world-batch-06-npg-npg-2015-136.jpg
+- Creator: Magda Pach, 1884 - 1950
+- Date: 1933
+- Collection: National Portrait Gallery, Smithsonian Institution
+- Source: https://npg.si.edu/object/npg_NPG.2015.136
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.si.edu/openaccess
+
+CC0 public-domain image. Credit: National Portrait Gallery, Smithsonian Institution.
+
+Institution-provided JPEG, unchanged.
+
+## Susie King Taylor introduces her memoir / 苏茜·金·泰勒回忆录的卷首肖像
+
+- File: world-batch-06-npg-npg-2024-196.jpg
+- Creator: Unidentified Artist
+- Date: 1902
+- Collection: National Portrait Gallery, Smithsonian Institution
+- Source: https://npg.si.edu/object/npg_NPG.2024.196
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.si.edu/openaccess
+
+CC0 public-domain image. Credit: National Portrait Gallery, Smithsonian Institution.
+
+Institution-provided JPEG, unchanged.
+
+## Sarah Winnemucca in a Baltimore studio, 1883 / 巴尔的摩照相馆中的莎拉·温尼穆卡，1883年
+
+- File: world-batch-06-npg-npg-82-137.jpg
+- Creator: Norval Hamilton Busey, 28 Dec 1845 - 20 May 1928
+- Date: 1883
+- Collection: National Portrait Gallery, Smithsonian Institution
+- Source: https://npg.si.edu/object/npg_NPG.82.137
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.si.edu/openaccess
+
+CC0 public-domain image. Credit: National Portrait Gallery, Smithsonian Institution.
+
+Institution-provided JPEG, unchanged.
+
+## Carver and a student studying plants / 卡弗与学生观察植物
+
+- File: world-batch-06-npg-npg-92-156.jpg
+- Creator: Clifton Johnson, 1865 - 1940
+- Date: c. 1900
+- Collection: National Portrait Gallery, Smithsonian Institution
+- Source: https://npg.si.edu/object/npg_NPG.92.156
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.si.edu/openaccess
+
+CC0 public-domain image. Credit: National Portrait Gallery, Smithsonian Institution.
+
+Institution-provided JPEG, unchanged.
+
+## Kate Sheppard’s franchise report, 1893 / 凯特·谢泼德的1893年选举权报告
+
+- File: world-batch-06-tepapa-sheppard.jpg
+- Creator: Kate Sheppard (author); New Zealand Women’s Christian Temperance Union (publisher); Ward, Wilson, and Co. (printer)
+- Date: 1893
+- Collection: Museum of New Zealand Te Papa Tongarewa
+- Source: https://collections.tepapa.govt.nz/object/397630
+- Rights: No Known Copyright Restrictions (https://www.tepapa.govt.nz/about-collections-online#no-known-copyright)
+- Rights evidence: https://www.tepapa.govt.nz/about-collections-online#no-known-copyright
+
+No known copyright restrictions. Credit: Museum of New Zealand Te Papa Tongarewa, CA000383/001/0026.
+
+Institution-provided JPEG, unchanged.
+
+## Sālote and Te Puea at Ngāruawāhia / 萨洛特与特普埃亚在恩加鲁阿瓦希亚
+
+- File: world-batch-06-kura-salote.jpg
+- Creator: Auckland Weekly News (catalogue photographer credit)
+- Date: 7 October 1936 (publication date)
+- Collection: Auckland Libraries Heritage Collections
+- Source: https://kura.aucklandlibraries.govt.nz/digital/collection/photos/id/269547/
+- Rights: No known copyright restrictions (https://kura.aucklandlibraries.govt.nz/digital/collection/photos/id/269547/)
+- Rights evidence: https://kura.aucklandlibraries.govt.nz/digital/collection/photos/id/269547/
+
+No known copyright restrictions. Credit: Auckland Libraries Heritage Collections AWNS-19361007-54-02.
+
+Institution-provided full-frame JPEG at display resolution; no local changes.
+
+## A map annotated with Ngata’s tribal boundaries / 附有恩加塔部族边界标注的地图
+
+- File: world-batch-06-kura-ngata.jpg
+- Creator: New Zealand Department of Lands and Survey (publisher); Āpirana Ngata (additions)
+- Date: 1939 (catalogue date); boundaries labelled 1800 and 1840
+- Collection: Auckland Libraries Heritage Collections
+- Source: https://kura.aucklandlibraries.govt.nz/digital/collection/maps/id/2407/
+- Rights: No known copyright restrictions (https://kura.aucklandlibraries.govt.nz/digital/collection/maps/id/2407/)
+- Rights evidence: https://kura.aucklandlibraries.govt.nz/digital/collection/maps/id/2407/
+
+No known copyright restrictions. Credit: Auckland Libraries Heritage Collections Map 330.
+
+Institution-provided full-frame JPEG at display resolution; no local changes.
+
+## Desmond Tutu at the White House, 1984 / 德斯蒙德·图图在白宫，1984年
+
+- File: world-batch-06-reagan-tutu.jpg
+- Creator: White House Photograph Office; individual photographer not identified on gallery page
+- Date: 7 December 1984
+- Collection: Ronald Reagan Presidential Library / NARA
+- Source: https://www.reaganlibrary.gov/archives/audiovisual/white-house-photo-collection-galleries/meeting-vips
+- Rights: Public domain (United States government work) (https://www.archives.gov/research/still-pictures/permissions)
+- Rights evidence: https://www.archives.gov/research/still-pictures/permissions
+
+Public domain in the United States as an official federal-government photograph. Credit: Courtesy Ronald Reagan Library, C26199-10. The library’s separate likeness-use notice remains applicable.
+
+Institution-provided JPEG, unchanged.
+
+## Kim Dae-jung at an Auckland meeting / 金大中出席奥克兰会谈
+
+- File: world-batch-06-clinton-kim.jpg
+- Creator: Sharon Farmer, White House Photograph Office
+- Date: 12 September 1999
+- Collection: Archived Clinton White House website / NARA
+- Source: https://clintonwhitehouse4.archives.gov/WH/New/APEC1999/kimgreet.html
+- Rights: Public domain (https://www.clintonlibrary.gov/research/audio-visual-research)
+- Rights evidence: https://www.clintonlibrary.gov/research/audio-visual-research
+
+Public-domain White House photograph by Sharon Farmer. Credit: William J. Clinton Presidential Library.
+
+Institution-provided JPEG, unchanged.
