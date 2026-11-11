@@ -1,0 +1,893 @@
+{
+  "items": [],
+  "associations": [
+    {
+      "assetId": "qin-shi-huang",
+      "recordId": "china-event-qin-001",
+      "role": "named-person",
+      "context": {
+        "en": "The nineteenth-century portrayal identifies Ying Zheng, the ruler who adopted the title First Emperor after the conquest of the six states.",
+        "zh": "十九世纪画像标识嬴政：本条讲述的君主在吞并六国后采用“始皇帝”称号。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/史記/卷006",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "嬴政",
+        "entryTitle": {
+          "en": "King Ying Zheng unifies the six states as the First Emperor",
+          "zh": "秦王嬴政统一六国，称“始皇帝”"
+        },
+        "entrySummary": {
+          "en": "King Ying Zheng unifies the six states as the First Emperor",
+          "zh": "秦王嬴政统一六国，称“始皇帝”"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "Shiji 6, year 26, records the defeat of Qi and adoption of the imperial title; the image is an admitted later portrayal of that same named ruler."
+      }
+    },
+    {
+      "assetId": "china-batch-03-mengzi",
+      "recordId": "china-landmark-485",
+      "role": "named-person",
+      "context": {
+        "en": "The Yuan portrait presents Mencius as a revered teacher. The Shiji connects his work with Wan Zhang and the seven books named in this entry.",
+        "zh": "元代画像将孟子呈现为受尊崇的师者。《史记》把他与万章等人的学术活动，同本条所述《孟子》七篇联系起来。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/史記/卷074",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "孟子",
+        "entryTitle": {
+          "en": "Returning home to Zou, Mencius teaches disciples and compiles the seven-book classic Mencius",
+          "zh": "孟子去齐返故里邹邑讲学终老，与万章诸弟子编撰《孟子》七篇"
+        },
+        "entrySummary": {
+          "en": "Returning home to Zou, Mencius teaches disciples and compiles the seven-book classic Mencius",
+          "zh": "孟子去齐返故里邹邑讲学终老，与万章诸弟子编撰《孟子》七篇"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "Shiji 74 expressly names Meng Ke, Wan Zhang and seven books. It does not establish the donor entry’s exact 312 BCE date; association is with the author and teaching tradition, not a dated composition scene."
+      }
+    },
+    {
+      "assetId": "china-rebuild-cao-cao",
+      "recordId": "china-landmark-257",
+      "role": "named-person",
+      "context": {
+        "en": "This Ming illustration identifies Cao Cao, who led the Wuhuan campaign through Lulong Pass to White Wolf Mountain in 207.",
+        "zh": "这幅明代插图标识曹操，他在207年率军出卢龙塞，在白狼山与乌桓交战。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/三國志/卷01",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "曹操",
+        "entryTitle": {
+          "en": "Cao Cao marches through Lulong Pass; Zhang Liao slays Tadun at White Wolf Mountain",
+          "zh": "曹操出卢龙塞北征乌桓，张辽白狼山阵斩蹋顿，平定辽西"
+        },
+        "entrySummary": {
+          "en": "Cao Cao marches through Lulong Pass; Zhang Liao slays Tadun at White Wolf Mountain",
+          "zh": "曹操出卢龙塞北征乌桓，张辽白狼山阵斩蹋顿，平定辽西"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "Sanguozhi 1, Jian’an 12, records the Lulong route, White Wolf Mountain and Zhang Liao as vanguard. The book image identifies Cao Cao by his posthumous title."
+      }
+    },
+    {
+      "assetId": "china-rebuild-cao-cao",
+      "recordId": "china-landmark-220",
+      "role": "named-person",
+      "context": {
+        "en": "The later portrayal identifies Cao Cao, whose cavalry pursuit caught Liu Bei’s retreating force at Changban.",
+        "zh": "后世画像标识曹操，本条长坂事件中由他率骑兵追及南撤的刘备部众。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/三國志/卷32",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "曹操",
+        "entryTitle": {
+          "en": "Cao Cao overtakes Liu Bei at Changban in Dangyang (Jingmen), where Zhao Yun rescues Liu Shan",
+          "zh": "曹操精骑追刘备于当阳长坂，赵云单骑救主、张飞据水断桥"
+        },
+        "entrySummary": {
+          "en": "Cao Cao overtakes Liu Bei at Changban in Dangyang (Jingmen), where Zhao Yun rescues Liu Shan",
+          "zh": "曹操精骑追刘备于当阳长坂，赵云单骑救主、张飞据水断桥"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "Sanguozhi 32 explicitly records Cao Cao’s mounted pursuit and its arrival at Changban. No claim is made that this portrait depicts Zhao Yun’s rescue or Zhang Fei’s bridge action."
+      }
+    },
+    {
+      "assetId": "china-batch-04-hanwendi",
+      "recordId": "china-landmark-299",
+      "role": "named-person",
+      "context": {
+        "en": "The Song image recalls Emperor Wen of Han, the ruler whose visit to Zhou Yafu’s Xiliu camp tests the relationship between imperial rank and military discipline.",
+        "zh": "宋代图像追摹汉文帝。本条中，他劳军周亚夫细柳营的经历，呈现皇帝身份与军营纪律之间的关系。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/史記/卷057",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "汉文帝",
+        "entryTitle": {
+          "en": "Emperor Wen inspects Xiliu Camp at a walk, praising strict commander Zhou Yafu as a true general",
+          "zh": "匈奴寇边，汉文帝劳军细柳营按辔徐行，赞周亚夫真将军"
+        },
+        "entrySummary": {
+          "en": "Emperor Wen inspects Xiliu Camp at a walk, praising strict commander Zhou Yafu as a true general",
+          "zh": "匈奴寇边，汉文帝劳军细柳营按辔徐行，赞周亚夫真将军"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "Shiji 57, Wen’s later-era year 6, explicitly gives the camp visit, slow entry and praise for Zhou Yafu; this is the same named emperor depicted by the admitted Song artwork."
+      }
+    },
+    {
+      "assetId": "china-batch-04-liuxiu",
+      "recordId": "china-landmark-309",
+      "role": "named-person",
+      "context": {
+        "en": "The later imperial image identifies Liu Xiu, whose role in the Kunyang victory became central to accounts of his rise.",
+        "zh": "后世帝王像标识刘秀，他在昆阳之战中的作用成为其崛起叙事的重要部分。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/後漢書/卷1上",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "刘秀",
+        "entryTitle": {
+          "en": "Battle of Kunyang: Liu Xiu leads 3,000 shock troops to rout Wang Mang's 420,000-man army",
+          "zh": "昆阳之战：刘秀率敢死队冲阵大破王莽四十二万大军"
+        },
+        "entrySummary": {
+          "en": "Battle of Kunyang: Liu Xiu leads 3,000 shock troops to rout Wang Mang's 420,000-man army",
+          "zh": "昆阳之战：刘秀率敢死队冲阵大破王莽四十二万大军"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "Hou Hanshu 1上 narrates Kunyang and Liu Xiu’s assault. Its 420,000 and 3,000 figures are transmitted annal claims, not an independently established modern count; the association supplies identity only."
+      }
+    },
+    {
+      "assetId": "china-batch-04-liuxiu",
+      "recordId": "china-landmark-310",
+      "role": "named-person",
+      "context": {
+        "en": "The later image identifies Liu Xiu, whose capture of Handan and incorporation of the Tongma forces built his northern base.",
+        "zh": "后世画像标识刘秀；攻取邯郸、吸收铜马部众，是本条所述其北方根据地形成的关键步骤。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/後漢書/卷1上",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "刘秀",
+        "entryTitle": {
+          "en": "Liu Xiu captures Handan and absorbs northern peasant armies, securing Hebei as his base",
+          "zh": "刘秀巡行河北攻拔邯郸诛灭王郎，铜马诸部降附号“铜马帝”"
+        },
+        "entrySummary": {
+          "en": "Liu Xiu captures Handan and absorbs northern peasant armies, securing Hebei as his base",
+          "zh": "刘秀巡行河北攻拔邯郸诛灭王郎，铜马诸部降附号“铜马帝”"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "Hou Hanshu 1上, Gengshi 2, records the capture of Handan, death of Wang Lang and incorporation of Tongma forces, including the Tongma Emperor designation."
+      }
+    },
+    {
+      "assetId": "china-batch-04-liuxiu",
+      "recordId": "china-landmark-028",
+      "role": "named-person",
+      "context": {
+        "en": "The portrait identifies Liu Xiu, founder of the Eastern Han. His accession and the later establishment of Luoyang as his capital were separate steps in 25 CE.",
+        "zh": "画像标识东汉开国君主刘秀。称帝与随后定都洛阳，是公元25年先后发生的两个步骤。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/後漢書/卷1上",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "刘秀",
+        "entryTitle": {
+          "en": "Liu Xiu establishes the Eastern Han with Luoyang as imperial capital",
+          "zh": "刘秀建立东汉定都洛阳，开启光武中兴"
+        },
+        "entrySummary": {
+          "en": "Liu Xiu establishes the Eastern Han with Luoyang as imperial capital",
+          "zh": "刘秀建立东汉定都洛阳，开启光武中兴"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "Hou Hanshu 1上 separates the June accession near Hao from the tenth-month entry into Luoyang. This donor title names the dynasty and capital without locating the coronation at Luoyang."
+      }
+    },
+    {
+      "assetId": "china-batch-04-zhudi",
+      "recordId": "china-yongle-encyclopedia-1403",
+      "role": "named-person",
+      "context": {
+        "en": "The Ming portrait introduces the Yongle emperor who commissioned the encyclopedia, placing imperial patronage beside the scholars’ work of gathering and copying texts.",
+        "zh": "明代御容介绍下令编纂《永乐大典》的永乐帝，让读者在学者搜集、抄录典籍的劳动之外，也看到宫廷资助的角色。"
+      },
+      "evidenceUrl": "https://www.dpm.org.cn/court/lineage/226257.html",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "永乐帝",
+        "entryTitle": {
+          "en": "An encyclopedia that preserved parts of lost books",
+          "zh": "保存失传书籍片段的《永乐大典》"
+        },
+        "entrySummary": {
+          "en": "A first compilation disappointed the Yongle emperor. The enlarged project brought scholars together in Nanjing to gather earlier writings into a manuscript reference work, completed in 1408. Readers found entries through a system based on sounds and rhymes.\n\nIts survival tells another story. A later copy was made in 1562–1567, and most volumes eventually disappeared. Surviving portions preserve quotations from some books otherwise lost. An enormous collection could preserve knowledge while remaining difficult for most people to consult.",
+          "zh": "第一版汇编未令永乐帝满意，扩充后的工程将学者聚集在南京，收集前代著述，编成1408年完成的手写类书。读者通过音韵系统查找条目。\n\n它的存世过程又是另一段故事：1562—1567年抄成的后世副本，其多数书册也逐渐散失。幸存部分保存了一些已经失传的书籍引文。庞大的收藏能够保存知识，同时又可能让大多数人难以查阅。"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "The exact assembled encyclopedia story names the Yongle emperor; the Palace Museum biography records the project beginning in Yongle 1. The portrait is patron identity, not a manuscript specimen."
+      }
+    },
+    {
+      "assetId": "china-batch-04-zhudi",
+      "recordId": "china-event-ming-007",
+      "role": "named-person",
+      "context": {
+        "en": "The Ming portrait identifies Zhu Di, the Prince of Yan whose challenge to his nephew’s government opened the Jingnan war.",
+        "zh": "明代御容标识朱棣；身为燕王的他向侄子朝廷发起挑战，开启了靖难战争。"
+      },
+      "evidenceUrl": "https://www.dpm.org.cn/court/lineage/226257.html",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "朱棣",
+        "entryTitle": {
+          "en": "Zhu Di, Prince of Yan, launches the Jingnan Campaign from Beiping",
+          "zh": "燕王朱棣于北平起兵发动“靖难之役”"
+        },
+        "entrySummary": {
+          "en": "Zhu Di, Prince of Yan, launches the Jingnan Campaign from Beiping",
+          "zh": "燕王朱棣于北平起兵发动“靖难之役”"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "The Palace Museum biography describes the reduction of princely power, the Prince of Yan’s rising and the ensuing three-year war before 1402."
+      }
+    },
+    {
+      "assetId": "china-batch-04-zhudi",
+      "recordId": "china-landmark-050",
+      "role": "named-person",
+      "context": {
+        "en": "This Ming portrait identifies Zhu Di, who took Nanjing in 1402 and claimed the throne as the Yongle emperor.",
+        "zh": "这幅明代御容标识朱棣：他在1402年攻取南京，夺取帝位，次年改元永乐。"
+      },
+      "evidenceUrl": "https://www.dpm.org.cn/court/lineage/226257.html",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "朱棣",
+        "entryTitle": {
+          "en": "Jingnan Campaign: Zhu Di captures Nanjing and ascends as the Yongle Emperor",
+          "zh": "靖难之役：燕王朱棣攻克南京，即位为明成祖"
+        },
+        "entrySummary": {
+          "en": "Jingnan Campaign: Zhu Di captures Nanjing and ascends as the Yongle Emperor",
+          "zh": "靖难之役：燕王朱棣攻克南京，即位为明成祖"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "The Palace Museum gives Nanjing’s capture and Zhu Di’s accession in June 1402, followed by the Yongle era from 1403. The image represents the named ruler, not the seizure of the city."
+      }
+    },
+    {
+      "assetId": "china-batch-04-zhudi",
+      "recordId": "china-landmark-062",
+      "role": "named-person",
+      "context": {
+        "en": "The portrait identifies the emperor behind the move to Beijing. Palace construction was completed in 1420, followed by the formal transfer of the capital in 1421.",
+        "zh": "画像标识推动迁都北京的皇帝。宫殿于1420年建成，1421年正式迁都。"
+      },
+      "evidenceUrl": "https://www.dpm.org.cn/court/lineage/226257.html",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "朱棣",
+        "entryTitle": {
+          "en": "Yongle Emperor completes the Forbidden City and moves the Ming capital to Beijing",
+          "zh": "明成祖朱棣建北京紫禁城成，正式自南京迁都北京"
+        },
+        "entrySummary": {
+          "en": "Yongle Emperor completes the Forbidden City and moves the Ming capital to Beijing",
+          "zh": "明成祖朱棣建北京紫禁城成，正式自南京迁都北京"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "The Palace Museum explicitly separates the late-1420 completion of the palaces from the following year’s formal move. This narrow distinction is retained in the connection."
+      }
+    },
+    {
+      "assetId": "china-batch-04-zhudi",
+      "recordId": "china-landmark-413",
+      "role": "named-person",
+      "context": {
+        "en": "The Ming image identifies the Yongle emperor, whose final northern expedition ended with his death at Yumuchuan in 1424.",
+        "zh": "明代御容标识永乐帝，他最后一次北征以1424年在榆木川病逝告终。"
+      },
+      "evidenceUrl": "https://www.dpm.org.cn/court/lineage/226257.html",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "朱棣",
+        "entryTitle": {
+          "en": "Returning from his fifth expedition across the Gobi Steppe, Yongle Emperor Zhu Di dies at Yumuchuan",
+          "zh": "六十五岁的明成祖朱棣第五次亲征漠北阿鲁台班师途中，病逝于塞外榆木川"
+        },
+        "entrySummary": {
+          "en": "Returning from his fifth expedition across the Gobi Steppe, Yongle Emperor Zhu Di dies at Yumuchuan",
+          "zh": "六十五岁的明成祖朱棣第五次亲征漠北阿鲁台班师途中，病逝于塞外榆木川"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "The Palace Museum records his northern campaigning and 1424 death at Yumuchuan. The image is imperial identity rather than a deathbed or campaign scene; exact expedition count is not independently established here."
+      }
+    },
+    {
+      "assetId": "china-batch-04-linzexu",
+      "recordId": "china-landmark-114",
+      "role": "named-person",
+      "context": {
+        "en": "Lam Qua’s portrait introduces Lin Zexu, the imperial commissioner who confiscated opium and oversaw its destruction at Humen in 1839.",
+        "zh": "林呱的肖像介绍林则徐：这位钦差大臣在1839年收缴鸦片，并主持虎门销烟。"
+      },
+      "evidenceUrl": "https://en.wikisource.org/wiki/Eminent_Chinese_of_the_Ch'ing_Period/Lin_Ts%C3%AA-hs%C3%BC",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "林则徐",
+        "entryTitle": {
+          "en": "Imperial Commissioner Lin Zexu destroys opium stocks at Humen near Guangzhou",
+          "zh": "林则徐抵广州查禁鸦片，于虎门海滩当众销烟"
+        },
+        "entrySummary": {
+          "en": "Imperial Commissioner Lin Zexu destroys opium stocks at Humen near Guangzhou",
+          "zh": "林则徐抵广州查禁鸦片，于虎门海滩当众销烟"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "Hummel’s Lin biography records the Canton arrival, confiscation and destruction at the Bogue/Humen using salt water and lime. The image’s author and nineteenth-century date remain in the parent asset."
+      }
+    },
+    {
+      "assetId": "china-batch-04-zhaokuangyin",
+      "recordId": "china-landmark-381",
+      "role": "named-person",
+      "context": {
+        "en": "The imperial portrait identifies Zhao Kuangyin, whose earlier military career included the Later Zhou victory at Gaoping.",
+        "zh": "御容标识赵匡胤；在成为宋朝皇帝之前，他的军旅生涯包括后周高平之战。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/宋史/卷001",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "赵匡胤",
+        "entryTitle": {
+          "en": "Battle of Gaoping: Guard commander Zhao Kuangyin rallies Later Zhou lines to crush Northern Han",
+          "zh": "高平之战：赵匡胤身先士卒稳住后周阵脚，反击大破北汉军"
+        },
+        "entrySummary": {
+          "en": "Battle of Gaoping: Guard commander Zhao Kuangyin rallies Later Zhou lines to crush Northern Han",
+          "zh": "高平之战：赵匡胤身先士卒稳住后周阵脚，反击大破北汉军"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "Song shi 1 describes Zhao rallying the threatened Zhou force at Gaoping under Shizong. Later dynastic narration is distinguished from the image’s imperial presentation."
+      }
+    },
+    {
+      "assetId": "china-batch-04-zhaokuangyin",
+      "recordId": "china-landmark-079",
+      "role": "named-person",
+      "context": {
+        "en": "The Song portrait presents Zhao Kuangyin as Emperor Taizu, the founder who established the new dynasty in 960.",
+        "zh": "宋代御容将赵匡胤呈现为宋太祖，即960年建立新王朝的开国皇帝。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/宋史/卷001",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "赵匡胤",
+        "entryTitle": {
+          "en": "Zhao Kuangyin founds the Northern Song Dynasty with Dongjing (Kaifeng) as capital",
+          "zh": "赵匡胤陈桥兵变，于东京开封府建立北宋"
+        },
+        "entrySummary": {
+          "en": "Zhao Kuangyin founds the Northern Song Dynasty with Dongjing (Kaifeng) as capital",
+          "zh": "赵匡胤陈桥兵变，于东京开封府建立北宋"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "Song shi 1 records the Chenqiao accession narrative and the naming of Song in Jianlong 1. No claim is made that the portrait validates the chronicle’s speeches or omens."
+      }
+    },
+    {
+      "assetId": "china-batch-04-yangguang",
+      "recordId": "china-event-sui-007",
+      "role": "named-person",
+      "context": {
+        "en": "The later image identifies Emperor Yang of Sui, whose western expedition led to the creation of the four commanderies named in this entry.",
+        "zh": "后世画像标识隋炀帝。本条所述西巡之后，朝廷设置了西海等四郡。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/隋書/卷03",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "隋炀帝",
+        "entryTitle": {
+          "en": "Emperor Yang defeats Tuyuhun and establishes Xihai and three other western commanderies",
+          "zh": "隋炀帝西巡张掖，破吐谷浑置西海、河源、鄯善、且末四郡"
+        },
+        "entrySummary": {
+          "en": "Emperor Yang defeats Tuyuhun and establishes Xihai and three other western commanderies",
+          "zh": "隋炀帝西巡张掖，破吐谷浑置西海、河源、鄯善、且末四郡"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "Sui shu 3, Daye 5, records the western tour and the four commanderies Xihai, Heyuan, Shanshan and Qiemo. The relation is to the named ruler, not a regional stock image."
+      }
+    },
+    {
+      "assetId": "china-batch-04-yangguang",
+      "recordId": "china-event-sui-009",
+      "role": "named-person",
+      "context": {
+        "en": "The imperial image identifies Yang Guang, the Sui emperor who ordered the 612 campaign against Goguryeo.",
+        "zh": "帝王像标识杨广，即612年发动对高句丽战争的隋朝皇帝。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/隋書/卷04",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "隋炀帝",
+        "entryTitle": {
+          "en": "Emperor Yang launches his first grand campaign against Goguryeo",
+          "zh": "隋炀帝征调百万大军东征高句丽，萨水失利"
+        },
+        "entrySummary": {
+          "en": "Emperor Yang launches his first grand campaign against Goguryeo",
+          "zh": "隋炀帝征调百万大军东征高句丽，萨水失利"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "Sui shu 4, Daye 8, records the mobilization, campaign and defeat at Salsu. Enormous troop totals remain annal claims; the portrait neither visualizes nor validates their scale."
+      }
+    },
+    {
+      "assetId": "china-batch-04-yangguang",
+      "recordId": "china-event-sui-012",
+      "role": "named-person",
+      "context": {
+        "en": "The later portrayal identifies Emperor Yang, whose death in the Jiangdu mutiny became a turning point in the breakup of Sui rule.",
+        "zh": "后世画像标识隋炀帝；他在江都兵变中被杀，是隋朝统治瓦解的重要节点。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/隋書/卷04",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "隋炀帝",
+        "entryTitle": {
+          "en": "Yuwen Huaji mutinies at Jiangdu and kills Emperor Yang, ending the Sui",
+          "zh": "宇文化及江都兵变弑隋炀帝，隋亡"
+        },
+        "entrySummary": {
+          "en": "Yuwen Huaji mutinies at Jiangdu and kills Emperor Yang, ending the Sui",
+          "zh": "宇文化及江都兵变弑隋炀帝，隋亡"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "Sui shu 4 identifies Yuwen Huaji’s mutiny, the emperor’s death and subsequent burial at Jiangdu. It also records another Sui emperor already enthroned, so the connection does not imply all rival Sui claims ended in one moment."
+      }
+    },
+    {
+      "assetId": "china-batch-04-yangguang",
+      "recordId": "china-landmark-109",
+      "role": "named-person",
+      "context": {
+        "en": "This image identifies Yang Guang, the emperor killed during the mutiny at Jiangdu, in present-day Yangzhou.",
+        "zh": "这幅画像标识在江都兵变中被杀的皇帝杨广；江都即今扬州一带。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/隋書/卷04",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "隋炀帝",
+        "entryTitle": {
+          "en": "Yuwen Huaji assassinates Emperor Yang of Sui in Jiangdu (Yangzhou)",
+          "zh": "宇文化及于江都发动兵变弑隋炀帝，隋朝覆亡"
+        },
+        "entrySummary": {
+          "en": "Yuwen Huaji assassinates Emperor Yang of Sui in Jiangdu (Yangzhou)",
+          "zh": "宇文化及于江都发动兵变弑隋炀帝，隋朝覆亡"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "Sui shu 4 expressly records Yuwen Huaji and the named victim in the Jiangdu palace setting; later representation only."
+      }
+    },
+    {
+      "assetId": "china-batch-04-genghiskhan",
+      "recordId": "china-landmark-404",
+      "role": "named-person",
+      "context": {
+        "en": "The fourteenth-century portrait identifies Temujin, who received the title Genghis Khan at the assembly of 1206.",
+        "zh": "十四世纪画像标识铁木真，他在1206年的大会上获得“成吉思汗”称号。"
+      },
+      "evidenceUrl": "https://afe.easia.columbia.edu/mongols/figures/figu_geng_unity.htm",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "铁木真",
+        "entryTitle": {
+          "en": "Temujin unites the Mongol tribes at an Onon River kurultai and takes the title Genghis Khan",
+          "zh": "铁木真统一蒙古高原诸部，于斡难河源召开忽里勒台大会建大蒙古国"
+        },
+        "entrySummary": {
+          "en": "Temujin unites the Mongol tribes at an Onon River kurultai and takes the title Genghis Khan",
+          "zh": "铁木真统一蒙古高原诸部，于斡难河源召开忽里勒台大会建大蒙古国"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "Columbia’s account explicitly identifies Temujin, the 1206 assembly and the new title. The artwork is a later identity image; it does not establish the assembly’s exact location."
+      }
+    },
+    {
+      "assetId": "china-batch-04-genghiskhan",
+      "recordId": "china-landmark-060",
+      "role": "named-person",
+      "context": {
+        "en": "The later portrait identifies Genghis Khan, whose forces captured the Jin capital Zhongdu in 1215.",
+        "zh": "后世画像标识成吉思汗，其军队于1215年攻取金朝都城中都。"
+      },
+      "evidenceUrl": "https://afe.easia.columbia.edu/mongols/conquests/conquests_2c.htm",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "成吉思汗",
+        "entryTitle": {
+          "en": "Genghis Khan's Mongol forces capture Jin Zhongdu",
+          "zh": "成吉思汗蒙古大军攻占金中都"
+        },
+        "entrySummary": {
+          "en": "Genghis Khan's Mongol forces capture Jin Zhongdu",
+          "zh": "成吉思汗蒙古大军攻占金中都"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "Columbia explicitly records the 1215 seizure of the Beijing area by Chinggis’s troops. Its separate overstatement of Jin territory and implied capital-transfer sequence are not used."
+      }
+    },
+    {
+      "assetId": "china-batch-04-kublaikhan",
+      "recordId": "china-event-nansong-017",
+      "role": "named-person",
+      "context": {
+        "en": "The imperial album image identifies Kublai, who led the 1253 campaign through the Jinsha River region against Dali.",
+        "zh": "帝王册像标识忽必烈，他在1253年率军经金沙江一带进攻大理。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/元史/卷004",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "忽必烈",
+        "entryTitle": {
+          "en": "Kublai leads Mongol forces across the Jinsha River to conquer Dali",
+          "zh": "忽必烈率蒙军渡金沙江平定大理国"
+        },
+        "entrySummary": {
+          "en": "Kublai leads Mongol forces across the Jinsha River to conquer Dali",
+          "zh": "忽必烈率蒙军渡金沙江平定大理国"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "Yuan shi 4 records the 1253 routes, river crossing and entry into Dali. The album’s exact image date and artist remain unestablished in its admitted record."
+      }
+    },
+    {
+      "assetId": "china-batch-04-kublaikhan",
+      "recordId": "china-landmark-407",
+      "role": "named-person",
+      "context": {
+        "en": "The album image identifies Kublai, the commander in this Dali campaign. The Yuan history describes his troops crossing the Jinsha River with skin floats and rafts.",
+        "zh": "册像标识这次大理战役的统帅忽必烈。《元史》记载其部队使用革囊与筏渡过金沙江。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/元史/卷004",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "忽必烈",
+        "entryTitle": {
+          "en": "Kublai Khan crosses the Jinsha River on inflated sheepskin rafts to conquer Dali in Yunnan",
+          "zh": "忽必烈率蒙古大军自临洮革囊渡金沙江，千里奇袭攻灭大理国"
+        },
+        "entrySummary": {
+          "en": "Kublai Khan crosses the Jinsha River on inflated sheepskin rafts to conquer Dali in Yunnan",
+          "zh": "忽必烈率蒙古大军自临洮革囊渡金沙江，千里奇袭攻灭大理国"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "Yuan shi 4 explicitly says leather/skin floats and rafts, not a battle image. The specific animal used for the skins is not established by the inspected passage."
+      }
+    },
+    {
+      "assetId": "china-batch-04-kublaikhan",
+      "recordId": "china-landmark-173",
+      "role": "named-person",
+      "context": {
+        "en": "The imperial image identifies Kublai, whose accession at Kaiping in 1260 anchors this account of the future summer capital.",
+        "zh": "帝王像标识忽必烈；他在1260年于开平即位，是本条叙述后来夏都的时间起点。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/元史/卷004",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "忽必烈",
+        "entryTitle": {
+          "en": "Kublai Khan is enthroned as Great Khan at Kaiping, soon elevated to summer capital Shangdu",
+          "zh": "忽必烈于滦河上游开平即大汗位建元中统，旋升开平府为上都"
+        },
+        "entrySummary": {
+          "en": "Kublai Khan is enthroned as Great Khan at Kaiping, soon elevated to summer capital Shangdu",
+          "zh": "忽必烈于滦河上游开平即大汗位建元中统，旋升开平府为上都"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "Yuan shi 4 gives the assembly at Kaiping and accession in Zhongtong 1. Later promotion to Shangdu is not silently dated to the same day or validated by the portrait."
+      }
+    },
+    {
+      "assetId": "china-batch-04-nurhaci",
+      "recordId": "china-event-ming-035",
+      "role": "named-person",
+      "context": {
+        "en": "The Qing court portrait identifies Nurhaci, whose capture of Shenyang and Liaoyang in 1621 shifted the Later Jin capital into Liaodong.",
+        "zh": "清代宫廷画像标识努尔哈赤；他在1621年攻取沈阳、辽阳，将后金都城迁入辽东。"
+      },
+      "evidenceUrl": "https://en.wikisource.org/wiki/Eminent_Chinese_of_the_Ch'ing_Period/Nurhaci",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "努尔哈赤",
+        "entryTitle": {
+          "en": "Battle of Shen-Liao: Nurhaci captures Shenyang and Liaoyang, moving the Later Jin capital",
+          "zh": "沈辽之战：努尔哈赤连克沈阳、辽阳，后金迁都辽阳"
+        },
+        "entrySummary": {
+          "en": "Battle of Shen-Liao: Nurhaci captures Shenyang and Liaoyang, moving the Later Jin capital",
+          "zh": "沈辽之战：努尔哈赤连克沈阳、辽阳，后金迁都辽阳"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "Hummel’s Nurhaci biography explicitly records both captures and the move to Liaoyang in 1621. The 1625 move to Shenyang is a later step and is not conflated here."
+      }
+    },
+    {
+      "assetId": "china-batch-04-nurhaci",
+      "recordId": "china-event-ming-036",
+      "role": "named-person",
+      "context": {
+        "en": "The court portrait identifies Nurhaci, the Later Jin ruler whose forces were repelled by Yuan Chonghuan at Ningyuan in 1626.",
+        "zh": "宫廷画像标识后金统治者努尔哈赤；其部队在1626年宁远之战中被袁崇焕击退。"
+      },
+      "evidenceUrl": "https://en.wikisource.org/wiki/Eminent_Chinese_of_the_Ch'ing_Period/Nurhaci",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "努尔哈赤",
+        "entryTitle": {
+          "en": "Victory at Ningyuan: Yuan Chonghuan repels Nurhaci's Later Jin siege with heavy cannon",
+          "zh": "宁远大捷：袁崇焕凭孤城红夷大炮重创后金努尔哈赤"
+        },
+        "entrySummary": {
+          "en": "Victory at Ningyuan: Yuan Chonghuan repels Nurhaci's Later Jin siege with heavy cannon",
+          "zh": "宁远大捷：袁崇焕凭孤城红夷大炮重创后金努尔哈赤"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "Hummel’s Nurhaci biography records the defeat by Yuan Chonghuan at Ningyuan. The association deliberately does not turn Nurhaci’s subsequent death into a proven consequence of a cannon wound."
+      }
+    },
+    {
+      "assetId": "china-batch-04-huangtaiji",
+      "recordId": "china-landmark-475",
+      "role": "named-person",
+      "context": {
+        "en": "The Qing portrait identifies Hong Taiji, whose 1629 advance through Xifengkou brought his army to Beijing.",
+        "zh": "清代画像标识皇太极；他在1629年经喜峰口进军，兵临北京。"
+      },
+      "evidenceUrl": "https://en.wikisource.org/wiki/Eminent_Chinese_of_the_Ch'ing_Period/Abahai",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "皇太极",
+        "entryTitle": {
+          "en": "Jisi Incident: Hong Taiji bypasses Shanhaiguan to besiege Beijing; Yuan Chonghuan defends the gates",
+          "zh": "己巳之变：皇太极绕道破喜峰口逼北京，袁崇焕驰援广渠门"
+        },
+        "entrySummary": {
+          "en": "Jisi Incident: Hong Taiji bypasses Shanhaiguan to besiege Beijing; Yuan Chonghuan defends the gates",
+          "zh": "己巳之变：皇太极绕道破喜峰口逼北京，袁崇焕驰援广渠门"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "Hummel’s Abahai biography identifies the Xifengkou route, Beijing attack and Yuan Chonghuan’s relief march. Its separately attributed spy story is not repeated as established fact."
+      }
+    },
+    {
+      "assetId": "china-batch-04-zuozongtang",
+      "recordId": "china-landmark-512",
+      "role": "named-person",
+      "context": {
+        "en": "The historical photograph identifies Zuo Zongtang, whose final appointment took him back to Fujian, where he died in 1885.",
+        "zh": "历史照片标识左宗棠；他最后一次任职重返福建，并于1885年在那里去世。"
+      },
+      "evidenceUrl": "https://www.ebsco.com/research-starters/history/zuo-zongtang",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "左宗棠",
+        "entryTitle": {
+          "en": "Aged seventy-three, Zuo Zongtang oversees coastal defense in Fujian against France and dies in Fuzhou",
+          "zh": "七十三岁的左宗棠抱病督师福建抗法，中法议和后病逝福州行辕"
+        },
+        "entrySummary": {
+          "en": "Aged seventy-three, Zuo Zongtang oversees coastal defense in Fujian against France and dies in Fuzhou",
+          "zh": "七十三岁的左宗棠抱病督师福建抗法，中法议和后病逝福州行辕"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "EBSCO full article gives the Fujian assignment and death at Fuzhou in 1885. Its erroneous overview chronology is not used; the photograph is identity context for his last service, not evidence of a specific battle."
+      }
+    },
+    {
+      "assetId": "world-batch-03-angkor",
+      "recordId": "khmer-angkor-political-phase",
+      "role": "named-site",
+      "context": {
+        "en": "Angkor Wat makes the entry’s royal landscape visible: temple building joined political authority to religious devotion within a much wider inhabited city.",
+        "zh": "吴哥寺让本条所述王室景观具体可见：寺庙营建把政治权威与宗教奉献联系起来，并属于更广阔的有人居住的城市。"
+      },
+      "evidenceUrl": "https://whc.unesco.org/en/list/668/",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "angkor",
+        "entryTitle": {
+          "en": "Angkorian courts: power across a managed landscape",
+          "zh": "吴哥诸宫廷：经营景观中的权力"
+        },
+        "entrySummary": {
+          "en": "Angkor’s royal centers belonged to a succession of Khmer courts, not one city frozen at the height of its power. Monuments, settlements and water-management works show the organization of resources across an inhabited landscape. Different rulers sponsored different religious projects and associated royal authority with changing forms of devotion.\n\nBuilding and maintaining this environment required farmers, craftspeople and labor obligations as well as kings. The movement of political centers did not mean that every earlier settlement was abandoned immediately. Angkor’s surviving monuments also represent only part of the society that supported them. A political overview connects the existing site entry to institutions and changes of authority, while avoiding an empire-wide polygon inferred solely from the distribution of temples.",
+          "zh": "吴哥的王室中心属于先后出现的高棉宫廷，并非一个永远停留在权力顶峰的城市。纪念建筑、聚落和水利设施，显示资源如何在有人居住的景观中被组织。不同统治者资助不同宗教工程，并把王权同变化中的信仰形式相联。\n\n营造和维持这一环境，不仅需要国王，还依靠农民、工匠与劳役。政治中心迁移不意味着所有旧聚落立即废弃，存世纪念物也只代表支撑社会的一部分。政治概述把已有遗址条目同制度及权威变化相连，而不只根据寺院分布推定帝国全境。"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "Read saved UNESCO Angkor description and modern photograph. Exact named royal-capital landscape is central to the assembled summary; no automatic association with every Khmer ruler."
+      }
+    },
+    {
+      "assetId": "world-batch-03-bagan",
+      "recordId": "bagan-royal-political-phase",
+      "role": "named-site",
+      "context": {
+        "en": "Bagan’s surviving temples give physical form to the relationship between royal authority, merit-making and many acts of patronage described here.",
+        "zh": "蒲甘留存的寺庙，为本条所述王权、积累功德与众多赞助行为之间的关系提供了实体景观。"
+      },
+      "evidenceUrl": "https://whc.unesco.org/en/list/1588/",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "bagan",
+        "entryTitle": {
+          "en": "Bagan: kingship and the institutions of merit",
+          "zh": "蒲甘：王权与功德制度"
+        },
+        "entrySummary": {
+          "en": "Bagan became the center of a regional empire during the eleventh through thirteenth centuries. Royal authority and Buddhist merit-making were expressed through temples, monasteries, images and the resources assigned to religious institutions. These were working institutions sustained by people, land and skilled production rather than an isolated collection of monuments.\n\nThe surviving buildings allow comparison among different patrons and devotional forms. They do not imply that every construction was ordered by a king or that royal influence remained geographically constant. Religious activity continued as political centers and relationships changed. Linking the established Bagan place record to a political phase therefore explains institutional context while preserving the difference between the court’s period of prominence and the longer life of the sacred landscape.",
+          "zh": "十一至十三世纪，蒲甘成为区域帝国的中心。王权与佛教积累功德的实践，通过寺塔、僧院、造像和分配给宗教机构的资源表达。这些并非孤立纪念物的集合，而是由人口、土地与专业生产维持的运作机构。\n\n存世建筑可以用于比较不同施主和礼拜形式，却不意味着每项营建都由国王下令，或王权影响的地理范围始终不变。政治中心和关系改变后，宗教活动仍持续。把已有蒲甘地点条目同政治阶段相连，可以解释制度背景，同时区分宫廷显赫的时期与神圣景观更长的生命。"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "Read saved UNESCO statement on Bagan’s eleventh–thirteenth-century regional capital and merit-making. The exact site and historical building landscape are the record’s subject."
+      }
+    },
+    {
+      "assetId": "world-batch-03-dholavira",
+      "recordId": "indus-civilization-urban-networks",
+      "role": "named-site",
+      "context": {
+        "en": "Dholavira is one of the cities named in this Indus overview. Its reservoir makes the practical work of storing water visible within the wider urban network.",
+        "zh": "多拉维拉是本条印度河城市概览明确列举的城市之一。蓄水池让城市网络背后的储水工程具体可见。"
+      },
+      "evidenceUrl": "https://whc.unesco.org/en/list/1645/",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "dholavira",
+        "entryTitle": {
+          "en": "Indus civilization · Cities and regional networks",
+          "zh": "印度河文明 · 城市与区域联系"
+        },
+        "entrySummary": {
+          "en": "Around 2600–1900 BCE, large settlements including Mohenjo-daro and Dholavira formed part of a wider Indus or Harappan archaeological tradition. Street plans, wells, drains and craft production offer evidence of different forms of urban life. Shared material styles and connections do not prove that all cities belonged to one centrally ruled empire. Researchers continue to debate the relationships among settlements and how political authority was organized.\n\nThe surviving archaeological evidence does not provide a complete account of rulers, languages or beliefs. The map point identifies one illustrative city. It is not a reconstruction of the extent of Indus settlement, a migration route or an ethnic boundary.",
+          "zh": "约公元前2600—前1900年，摩亨佐达罗和多拉维拉等大型聚落属于更广泛的印度河或哈拉帕考古传统。街道、井、排水设施和手工业遗存呈现不同的城市生活；物质风格和联系相似，并不能证明所有城市都属于一个中央集权帝国。研究者仍在讨论聚落之间的关系和政治权力如何组织。\n\n现存考古证据不能作为对统治者、语言或信仰的完整记载。地图点只标示一处示例城市，不复原聚落范围、迁徙路线或族群边界。"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "Read saved UNESCO Dholavira description of Harappan urban planning and reservoirs; the exact city is explicitly named in the entry’s account of wells and drainage."
+      }
+    },
+    {
+      "assetId": "world-batch-03-hampi",
+      "recordId": "vijayanagara-imperial-phase",
+      "role": "named-site",
+      "context": {
+        "en": "Hampi’s stone chariot shrine belongs to the capital landscape described here, showing how Vijayanagara’s temples joined skilled production with ceremonial life.",
+        "zh": "亨比的石车神龛属于本条所述都城景观，呈现毗奢耶那伽罗寺庙如何结合工匠技艺与礼仪生活。"
+      },
+      "evidenceUrl": "https://whc.unesco.org/en/list/241/",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "hampi",
+        "entryTitle": {
+          "en": "Vijayanagara: a regional empire with several successors",
+          "zh": "毗奢耶那伽罗：区域帝国与多个继承者"
+        },
+        "entrySummary": {
+          "en": "Vijayanagara connected a large southern Indian political sphere with the capital landscape now associated with Hampi. Temples, markets and water works supported an imperial center whose prosperity depended on surrounding agriculture, circulation and service. Its rulers negotiated, fought and formed alliances with neighboring Deccan powers; religious labels alone do not explain those changing relationships.\n\nThe 1565 defeat and damage to the capital were a turning point, but not the disappearance of every successor court or political institution associated with Vijayanagara. This overview therefore separates a capital-centered imperial phase from a longer and more fragmented aftermath. Reading it beside Bahmani and successor sultanate entries helps explain a shared regional world. The representative capital does not supply a fixed boundary for every year of the interval.",
+          "zh": "毗奢耶那伽罗把南印度广阔的政治世界与今称亨比的都城景观相连。寺庙、市场与水利服务帝国中心，而其繁荣依赖周边农业、流通与劳动。统治者同德干邻国谈判、交战和结盟，宗教标签不足以解释这些不断变化的关系。\n\n1565年的失败和都城受损是转折，却不代表所有继承宫廷和相关制度立即消失。本条因此区分以都城为中心的帝国阶段与更长、更分散的后续历史。与巴赫曼尼及其继承苏丹国并读，可理解共享的区域世界。代表性都城点位不能提供整个时段逐年的固定疆界。"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "Read saved UNESCO Hampi statement identifying the Vijayanagara capital and Vitthala temple stone chariot. Exact capital-site relation is substantive, not generic dynasty matching."
+      }
+    },
+    {
+      "assetId": "world-batch-03-nalanda",
+      "recordId": "pala-dynasty",
+      "role": "named-site",
+      "context": {
+        "en": "Nalanda was one of the Buddhist institutions supported by Pala rulers. This modern view makes that named place of teaching and patronage tangible.",
+        "zh": "那烂陀是波罗统治者支持的佛教机构之一。这张现代照片，使本条具名的教学与赞助场所具体可见。"
+      },
+      "evidenceUrl": "https://www.metmuseum.org/toah/ht/06/ssn",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "nalanda",
+        "entryTitle": {
+          "en": "Pala: Buddhist courts in Bengal and Bihar",
+          "zh": "波罗王朝：孟加拉与比哈尔的佛教宫廷"
+        },
+        "entrySummary": {
+          "en": "Pala kings ruled in eastern South Asia while other dynasties competed for power elsewhere in the subcontinent. Their support for Buddhist institutions connected royal authority to teaching, worship and the production of images. Nalanda received patronage, and other monastic complexes formed part of this landscape.\n\nSculpture and manuscript traditions from eastern India circulated beyond an individual court. This makes the Pala story useful for comparing political succession with religious networks: the loss of a dynasty did not erase the institutions, artistic practices or communities associated with it.",
+          "zh": "波罗诸王在南亚东部统治的同时，其他王朝也在次大陆各处争夺权力。王室支持佛教机构，将政治权威与教学、礼拜和造像联系起来。那烂陀得到资助，其他寺院群也构成这一文化景观。\n\n东印度的雕塑与写本传统并不限于单一宫廷。波罗历史因而适合用来比较政治更替与宗教网络：王朝失去统治，并不等于相关机构、艺术实践或社区随之消失。"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "The Met timeline explicitly states Pala patronage of Nalanda; saved UNESCO page and asset metadata establish this as Nalanda. No individual visible brick course or temple phase is assigned to a Pala king."
+      }
+    },
+    {
+      "assetId": "world-batch-03-nan-madol",
+      "recordId": "saudeleur-monumental-phase",
+      "role": "named-site",
+      "context": {
+        "en": "Nan Madol’s basalt walls make the Saudeleur ceremonial centre visible, connecting the entry’s account of authority with the labour of monumental construction.",
+        "zh": "南马都尔的玄武岩墙使绍德雷尔礼仪中心具体可见，把本条的权威叙述与大型营建所需的劳动联系起来。"
+      },
+      "evidenceUrl": "https://whc.unesco.org/en/list/1503/",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "nan madol",
+        "entryTitle": {
+          "en": "Saudeleur authority: a ceremonial center on Pohnpei",
+          "zh": "绍德雷尔权威：波纳佩的礼仪中心"
+        },
+        "entrySummary": {
+          "en": "Nan Madol’s monumental building phase offers evidence of a political order whose authority was expressed through residences, tombs and ceremony. The Saudeleur chiefs made this lagoon city a center of government and ritual. A museum synthesis describes chiefs living beside commoners and potential rivals being required to reside near the ruling center. The arrangement linked social rank to the built environment.\n\nThis political overview complements the site entry: it asks who mobilized labour and how ceremonial life helped sustain authority. Oral histories and excavated remains provide different kinds of evidence, which can be compared without treating either as an annual frontier map. The focus on buildings dated chiefly to 1200–1500 does not establish the dynasty’s exact beginning or end, or imply uniform control over every community on Pohnpei.",
+          "zh": "南马都尔的大型营建阶段，为一种以住宅、墓葬和仪式体现权威的政治秩序提供了证据。绍德雷尔首领以这座潟湖城市为统治与礼仪中心。博物馆研究描述了首领与平民共同居住、潜在竞争者被要求迁近统治中心的安排，社会等级由此与建筑空间相连。\n\n本条补充遗址介绍，关注谁动员劳力，以及礼仪生活如何维系权威。口述历史与考古遗存提供不同类型的材料，可以比较，却不能直接变成逐年疆界图。约1200—1500年的建筑分期，不等于王朝确切的起讫，也不表示波纳佩所有社区始终受到同等控制。"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "Read saved UNESCO description explicitly identifying Nan Madol as the Saudeleur ceremonial centre and its basalt construction. Same exact political centre, not a general Pacific illustration."
+      }
+    },
+    {
+      "assetId": "world-batch-03-sanchi",
+      "recordId": "sanchi-donor-inscriptions",
+      "role": "named-site",
+      "context": {
+        "en": "The Great Stupa and its stone railings place Sanchi’s donor inscriptions within the sanctuary they helped support. The view shows the monument rather than a close-up of one donor’s text.",
+        "zh": "大塔与石栏把桑奇施主铭文放回他们支持的圣地之中。照片呈现建筑整体，并非某位施主铭文的特写。"
+      },
+      "evidenceUrl": "https://whc.unesco.org/en/list/524/",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "sanchi",
+        "entryTitle": {
+          "en": "Names on the stone: the donors of Sanchi",
+          "zh": "刻在石上的姓名：桑奇的施主"
+        },
+        "entrySummary": {
+          "en": "Dhamarakhitā of Madhuvana appears at Sanchi through a brief record of a gift. Other inscriptions name monks, nuns and lay donors, sometimes adding a home town, occupation or teacher. Their short texts turn stone railings and monuments into traces of many participants. A sanctuary associated with royal patronage was also sustained by people whose names rarely enter dynastic histories.\n\nStudies of the first-century BCE inscriptions draw particular attention to women’s contributions. Giving allowed donors to participate in a religious community and leave a durable acknowledgement of that participation. The records do not provide complete household budgets or explain every donor’s motives. Their strength is more concrete: they preserve named acts of support. Read them beside the monuments and the scale of the work changes, from the ambition of a ruler to the accumulated gifts of a wider community.",
+          "zh": "来自Madhuvana的女性施主Dhamarakhitā，以一则简短的捐献记录出现在桑奇。其他铭文记有僧人、比丘尼与在家施主，有时还注明家乡、职业或师承。石栏和建筑上的短句，因此保存了许多参与者的痕迹。一处与王室赞助相连的圣地，也由那些很少进入王朝史的人共同支持。\n\n研究公元前一世纪铭文的学者尤其注意到女性的贡献。捐献让施主参与宗教社群，并留下持久的记载。这些文字没有完整的家庭收支，也未解释每位施主的动机；它们能够具体证明的，是一次次有名可考的支持行为。把铭文与建筑并读，工程的历史便从君主的事业扩展到众多成员逐步积累的赠予。"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "Read exact donor story and saved UNESCO Sanchi description of railings, gateways and inscriptions. Admitted as the named sanctuary’s setting, not as a legible image of Dhamarakhitā’s inscription."
+      }
+    },
+    {
+      "assetId": "world-batch-03-mohenjo-daro",
+      "recordId": "indus-civilization-urban-networks",
+      "role": "named-site",
+      "context": {
+        "en": "Mohenjo-daro is another city named in this overview. Its Great Bath offers a concrete comparison with Dholavira’s reservoir: two different uses of water in Indus urban life.",
+        "zh": "摩亨佐达罗是本条列举的另一座城市。大浴池可与多拉维拉蓄水池具体对读，展示印度河城市生活中两种不同的用水设施。"
+      },
+      "evidenceUrl": "https://whc.unesco.org/en/list/138/",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "Mohenjo-daro",
+        "entryTitle": {
+          "en": "Indus civilization · Cities and regional networks",
+          "zh": "印度河文明 · 城市与区域联系"
+        },
+        "entrySummary": {
+          "en": "Around 2600–1900 BCE, large settlements including Mohenjo-daro and Dholavira formed part of a wider Indus or Harappan archaeological tradition. Street plans, wells, drains and craft production offer evidence of different forms of urban life. Shared material styles and connections do not prove that all cities belonged to one centrally ruled empire. Researchers continue to debate the relationships among settlements and how political authority was organized.\n\nThe surviving archaeological evidence does not provide a complete account of rulers, languages or beliefs. The map point identifies one illustrative city. It is not a reconstruction of the extent of Indus settlement, a migration route or an ethnic boundary.",
+          "zh": "约公元前2600—前1900年，摩亨佐达罗和多拉维拉等大型聚落属于更广泛的印度河或哈拉帕考古传统。街道、井、排水设施和手工业遗存呈现不同的城市生活；物质风格和联系相似，并不能证明所有城市都属于一个中央集权帝国。研究者仍在讨论聚落之间的关系和政治权力如何组织。\n\n现存考古证据不能作为对统治者、语言或信仰的完整记载。地图点只标示一处示例城市，不复原聚落范围、迁徙路线或族群边界。"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "Read saved UNESCO description of Moenjodaro and admitted photograph of the Great Bath. The exact city is central to the overview; a second association adds no additional covered ID."
+      }
+    }
+  ]
+}
