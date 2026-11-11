@@ -3,9 +3,9 @@
   "reviewedAt": "2026-11-11",
   "baselineManifest": "content-expansion-v17.json",
   "total": 2087,
-  "covered": 655,
-  "assets": 295,
-  "percent": 31.384762817441302,
+  "covered": 667,
+  "assets": 308,
+  "percent": 31.959750838524197,
   "coveredIds": [
     "abbasid-caliphate",
     "achaemenid-empire",
@@ -16,6 +16,7 @@
     "american-revolution",
     "angkor",
     "asante-confederacy",
+    "athens-acropolis",
     "bagan",
     "bagan-royal-political-phase",
     "ban-chiang-village-archaeology",
@@ -478,6 +479,7 @@
     "cusco-imperial-city",
     "dawes-allotment",
     "deir-el-medina-workers",
+    "delhi-sultanate",
     "dholavira",
     "dong-son-bronze-networks",
     "dutch-republic",
@@ -492,6 +494,7 @@
     "fatimid-caliphate",
     "first-world-war",
     "fort-laramie-treaty-1868",
+    "french-revolution",
     "galileo-telescope",
     "great-seljuqs",
     "great-zimbabwe",
@@ -508,8 +511,10 @@
     "ifugao-rice-landscape",
     "ilkhanid-iran",
     "inca-imperial-expansion",
+    "indian-rebellion-1857",
     "indus-civilization-urban-networks",
     "inka-imperial-tunic-story",
+    "ironbridge",
     "jantar-mantar-jaipur",
     "joya-ceren-households",
     "justinian-law-compilation",
@@ -535,6 +540,7 @@
     "maya-cacao-vessel-story",
     "maya-classic-city-states",
     "mbanza-kongo-christian-court",
+    "meiji-restoration",
     "meketre-bakery-brewery-model",
     "memphis-pyramids",
     "meroe-kush",
@@ -564,6 +570,7 @@
     "palenque-pakal-building",
     "palmyra-oasis-city",
     "paracas-textile-labor",
+    "paris-commune-1871",
     "parthian-empire",
     "patan-stepwell-water",
     "pekalongan-batik-workshops",
@@ -623,6 +630,7 @@
     "qin-mausoleum",
     "rapa-nui",
     "reformation-theses",
+    "rome-imperial-city",
     "safavid-iran",
     "samanid-dynasty",
     "samarra",
@@ -636,6 +644,8 @@
     "seneca-falls-convention",
     "sigiriya-royal-landscape",
     "songo-mnara-households",
+    "straits-settlements-formation",
+    "suez-canal-opening",
     "sukhothai-urban-arts",
     "taj-mahal",
     "taxila-sirkap",
@@ -656,9 +666,11 @@
     "us-civil-war",
     "us-constitution",
     "us-declaration-independence",
+    "venice-maritime",
     "vietnam-hoi-an-ceramic-cargo",
     "vijayanagara-imperial-phase",
     "wari-imperial-world",
+    "waterloo",
     "watt-separate-condenser",
     "wu-zhou-dynasty",
     "xinhai-revolution"
@@ -680,14 +692,12 @@
     "lapita-teouma-community",
     "carthaginian-power",
     "roman-republic",
-    "athens-acropolis",
     "hellenistic-kingdoms",
     "maurya-empire",
     "ptolemaic-egypt",
     "qin-unification",
     "han-dynasty",
     "silk-roads-changan",
-    "rome-imperial-city",
     "hopewell-ceremonial-networks",
     "mogao",
     "sui-reunification",
@@ -702,14 +712,12 @@
     "ghana-wagadu",
     "chaco",
     "quanzhou",
-    "venice-maritime",
     "goryeo-kingdom",
     "cordoba-caliphate",
     "northern-song",
     "ly-dynasty",
     "southern-song",
     "mali-empire",
-    "delhi-sultanate",
     "magna-carta",
     "yuan-dynasty",
     "samarkand",
@@ -726,17 +734,13 @@
     "edo-urban-culture",
     "qing-dynasty",
     "pueblo-revolt",
-    "ironbridge",
     "haudenosaunee-revolution-era",
     "first-fleet-colonization",
-    "french-revolution",
     "haitian-revolution",
     "mexican-independence",
     "south-american-independence",
-    "waterloo",
     "treaty-waitangi",
     "new-zealand-wars",
-    "indian-rebellion-1857",
     "canadian-confederation",
     "tonga-constitution",
     "brazil-abolition",
@@ -793,7 +797,6 @@
     "un-indigenous-rights-declaration",
     "webb-first-science-images",
     "chandrayaan-three-landing",
-    "suez-canal-opening",
     "nigeria-independence",
     "kenya-independence",
     "tanganyika-zanzibar-union",
@@ -809,7 +812,6 @@
     "india-constitution",
     "ceylon-independence",
     "nepal-republic",
-    "meiji-restoration",
     "korean-division",
     "korean-war-armistice",
     "treaty-shimonoseki",
@@ -818,7 +820,6 @@
     "burma-independence",
     "malaya-independence",
     "philippines-independence-1946",
-    "straits-settlements-formation",
     "nunavut-creation",
     "great-peace-montreal",
     "brazil-independence",
@@ -1143,7 +1144,6 @@
     "liverpool-slavery-port-infrastructure",
     "british-factory-act-1833",
     "frankfurt-national-assembly-1848",
-    "paris-commune-1871",
     "gernika-bombing-and-guernica",
     "hungarian-uprising-1956",
     "prague-spring-radio-1968",
@@ -2099,19 +2099,19 @@
   ],
   "target": 1044,
   "targetMet": false,
-  "remaining": 389,
+  "remaining": 377,
   "regions": {
     "africa": {
       "total": 136,
-      "covered": 31
+      "covered": 32
     },
     "east-asia": {
       "total": 1216,
-      "covered": 445
+      "covered": 446
     },
     "europe": {
       "total": 122,
-      "covered": 33
+      "covered": 40
     },
     "latin-america": {
       "total": 94,
@@ -2127,11 +2127,11 @@
     },
     "south-asia": {
       "total": 95,
-      "covered": 34
+      "covered": 36
     },
     "southeast-asia": {
       "total": 101,
-      "covered": 18
+      "covered": 19
     },
     "west-central-asia": {
       "total": 111,
@@ -2142,8 +2142,8 @@
     "ancient-portrait": 1,
     "ancient-royal-image": 2,
     "document-facsimile": 22,
-    "historical-artwork": 27,
-    "historical-photograph": 25,
+    "historical-artwork": 38,
+    "historical-photograph": 27,
     "later-depiction": 65,
     "lifetime-portrait": 17,
     "manuscript-detail": 17,
@@ -2332,8 +2332,15 @@
       "sha256": "c16fac0f4a16ecb2e145e2bcf2017e0d122c797870477ee877f0bc3166f9bdc4",
       "assets": 18,
       "associations": 18
+    },
+    {
+      "file": "visual-assets-world-batch-09-v18.json",
+      "bytes": 42885,
+      "sha256": "5b35c08b37b35262da1d082a404755b7493266d8d21e5f66791bccb4a261fca2",
+      "assets": 13,
+      "associations": 13
     }
   ],
-  "assetBytes": 55335781,
+  "assetBytes": 59360948,
   "verification": "All admitted files match their SHA-256, byte count and encoded dimensions. Source identity, reuse rights, pixel review and entry relevance require the individual editorial records; structural validation does not establish those facts."
 }

@@ -1,5 +1,5 @@
 import {readerDateNote,readerFactLines,readerSourceListHTML,readerReviewLimit} from './reader-copy.mjs';
-import {createVisualLibrary} from './visual-library.mjs?v=13';
+import {createVisualLibrary} from './visual-library.mjs?v=14';
 import {entryMediaFigures,createHistoryMedia,mediaFigures,mediaThumbnail,handleHistoryImageError} from './history-media.mjs?v=6';
 import {applyPlaceLabelTranslations} from './place-labels.mjs';
 import {civilizationOverlaps} from './civilization-tracks.mjs';

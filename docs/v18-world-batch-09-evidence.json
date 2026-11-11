@@ -1,0 +1,1500 @@
+{
+  "reviewedAt": "2026-11-11",
+  "batch": "world-batch-09",
+  "ownerReview": "13 images admitted for 12 newly illustrated entries; all exact source records, item-specific rights, full image pixels and target narratives reviewed. Captions translated and shortened; association contexts deduplicated with captions.",
+  "held": [
+    {
+      "assetId": "world-batch-09-tc5wctnv",
+      "recordId": "bologna-medieval-student-universities",
+      "reason": "The medieval story explicitly ends around 1300. A nineteenth-century photo of a seventeenth-century anatomy theatre is too remote from its focus to count."
+    }
+  ],
+  "evidence": [
+    {
+      "assetId": "world-batch-09-ff2yehun",
+      "sourceUrl": "https://wellcomecollection.org/works/ff2yehun",
+      "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/ff2yehun?include=items,production,contributors",
+      "sourceEvidence": {
+        "title": "Venice: the Grand Canal. Etching by G.B. Brustoloni after A. Canaletto.",
+        "description": "<p>On the left, the church of San Simeone Piccolo. The lettering mentions the \"Fullonium\" next to it: meaning the guild of fullers (follatori)? On the right is the Scalzi, the church of the Discalced Carmelites, here named Theresiani (followers of Saint Teresa of Ávila)</p>",
+        "production": [
+          {
+            "label": "[Venice] (supra pontem vulgo dictum dei Baretteri) : Apud Ludovicum Furlanetto C.P.E.S., [between 1700 and 1799]",
+            "agents": [
+              {
+                "label": "Apud Ludovicum Furlanetto C.P.E.S.",
+                "type": "Agent"
+              }
+            ],
+            "dates": [
+              {
+                "label": "[between 1700 and 1799]",
+                "type": "Period"
+              }
+            ],
+            "function": {
+              "label": "Publication",
+              "type": "Concept"
+            },
+            "type": "ProductionEvent",
+            "places": [
+              {
+                "label": "[Venice] (supra pontem vulgo dictum dei Baretteri)",
+                "type": "Place"
+              }
+            ]
+          }
+        ],
+        "contributors": [
+          {
+            "agent": {
+              "id": "h7pemrcs",
+              "label": "Giovanni Antonio Canal",
+              "type": "Person"
+            },
+            "roles": [],
+            "primary": true,
+            "type": "Contributor"
+          },
+          {
+            "agent": {
+              "id": "nzuegkqk",
+              "label": "Giovanni Battista Brostoloni",
+              "type": "Person"
+            },
+            "roles": [],
+            "primary": false,
+            "type": "Contributor"
+          }
+        ],
+        "items": [
+          {
+            "id": "rmpbrmr3",
+            "locations": [
+              {
+                "locationType": {
+                  "id": "closed-stores",
+                  "type": "LocationType",
+                  "label": "Closed stores"
+                },
+                "accessConditions": [
+                  {
+                    "method": {
+                      "id": "online-request",
+                      "type": "AccessMethod",
+                      "label": "Online request"
+                    },
+                    "status": {
+                      "id": "open",
+                      "type": "AccessStatus",
+                      "label": "Open"
+                    },
+                    "type": "AccessCondition"
+                  }
+                ],
+                "label": "Closed stores",
+                "type": "PhysicalLocation"
+              },
+              {
+                "url": "https://iiif.wellcomecollection.org/image/L0007780/info.json",
+                "credit": "Wellcome Collection",
+                "license": {
+                  "id": "pdm",
+                  "type": "License",
+                  "label": "Public Domain Mark",
+                  "url": "https://creativecommons.org/share-your-work/public-domain/pdm/"
+                },
+                "accessConditions": [
+                  {
+                    "method": {
+                      "id": "view-online",
+                      "type": "AccessMethod",
+                      "label": "View online"
+                    },
+                    "status": {
+                      "id": "open",
+                      "type": "AccessStatus",
+                      "label": "Open"
+                    },
+                    "type": "AccessCondition"
+                  }
+                ],
+                "locationType": {
+                  "id": "iiif-image",
+                  "type": "LocationType",
+                  "label": "IIIF Image API"
+                },
+                "type": "DigitalLocation"
+              }
+            ],
+            "type": "Item"
+          }
+        ]
+      },
+      "downloadedFrom": "https://iiif.wellcomecollection.org/image/L0007780/full/!1000,1000/0/default.jpg",
+      "sha256": "917713999e9b402c8fe11457d3f93c9e38fd4778ed20e07c2819fd4844c549e1",
+      "bytes": 352742,
+      "width": 1000,
+      "height": 715,
+      "recordIds": [
+        "venice-maritime"
+      ],
+      "association": {
+        "en": "G. B. Brustoloni’s eighteenth-century etching after Canaletto shows Venice’s Grand Canal.",
+        "zh": "G. B. 布鲁斯托洛尼依卡纳莱托作品制作的18世纪蚀刻画，描绘威尼斯大运河。"
+      },
+      "pixelReview": "Owner viewed actual full images in contact-sheet-final.jpg; complete official derivatives retained unchanged."
+    },
+    {
+      "assetId": "world-batch-09-g6u2rykr",
+      "sourceUrl": "https://wellcomecollection.org/works/g6u2rykr",
+      "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/g6u2rykr?include=items,production,contributors",
+      "sourceEvidence": {
+        "title": "Civil engineering: the iron bridge at Coalbrookdale, with a ship sailing beneath. Engraving.",
+        "description": null,
+        "production": [
+          {
+            "label": "[London] :",
+            "agents": [],
+            "dates": [],
+            "function": {
+              "label": "Publication",
+              "type": "Concept"
+            },
+            "type": "ProductionEvent",
+            "places": [
+              {
+                "label": "[London]",
+                "type": "Place"
+              }
+            ]
+          }
+        ],
+        "contributors": [],
+        "items": [
+          {
+            "id": "pr6xr6n9",
+            "locations": [
+              {
+                "locationType": {
+                  "id": "closed-stores",
+                  "type": "LocationType",
+                  "label": "Closed stores"
+                },
+                "accessConditions": [
+                  {
+                    "method": {
+                      "id": "not-requestable",
+                      "type": "AccessMethod",
+                      "label": "Not requestable"
+                    },
+                    "status": {
+                      "id": "unavailable",
+                      "type": "AccessStatus",
+                      "label": "Unavailable"
+                    },
+                    "note": "This item is missing.",
+                    "type": "AccessCondition"
+                  }
+                ],
+                "label": "Closed stores",
+                "type": "PhysicalLocation"
+              },
+              {
+                "url": "https://iiif.wellcomecollection.org/image/V0024326/info.json",
+                "credit": "Wellcome Collection",
+                "license": {
+                  "id": "pdm",
+                  "type": "License",
+                  "label": "Public Domain Mark",
+                  "url": "https://creativecommons.org/share-your-work/public-domain/pdm/"
+                },
+                "accessConditions": [
+                  {
+                    "method": {
+                      "id": "view-online",
+                      "type": "AccessMethod",
+                      "label": "View online"
+                    },
+                    "status": {
+                      "id": "open",
+                      "type": "AccessStatus",
+                      "label": "Open"
+                    },
+                    "type": "AccessCondition"
+                  }
+                ],
+                "locationType": {
+                  "id": "iiif-image",
+                  "type": "LocationType",
+                  "label": "IIIF Image API"
+                },
+                "type": "DigitalLocation"
+              }
+            ],
+            "type": "Item"
+          }
+        ]
+      },
+      "downloadedFrom": "https://iiif.wellcomecollection.org/image/V0024326/full/!1000,1000/0/default.jpg",
+      "sha256": "3e3326e21b2cb3099df7ef2ef8ef99cdd585b8e7f64a5ffeb1114b448b99147c",
+      "bytes": 314933,
+      "width": 1000,
+      "height": 750,
+      "recordIds": [
+        "ironbridge"
+      ],
+      "association": {
+        "en": "An undated engraving of the iron bridge built at Coalbrookdale in 1779, with a structural diagram below.",
+        "zh": "科尔布鲁克代尔1779年建成铁桥的版画，下附结构图；版画年代与作者未详。"
+      },
+      "pixelReview": "Owner viewed actual full images in contact-sheet-final.jpg; complete official derivatives retained unchanged."
+    },
+    {
+      "assetId": "world-batch-09-efusb37c",
+      "sourceUrl": "https://wellcomecollection.org/works/efusb37c",
+      "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/efusb37c?include=items,production,contributors",
+      "sourceEvidence": {
+        "title": "The storming of the Bastille on the 14 July 1789. Line engraving with etching after H. Singleton.",
+        "description": "<p>Two themes dominate the first visual representations of the fall of the Bastille in France and in England: the collapse of the edifice of despotism before the will of the people and the liberation of the innocent from their manacles. Virtually all representations depend upon the contrast between the seemingly impregnable immensity of the Bastille and the varied humanity of its besiegers</p>\n<p>The surrender of the Bastille was perceived in Britain as a decisive event in the history not only of France but of the world. In eighteenth-century France the prison of the Bastille had been identified by the philosophes as a symbol of despotism, and an expression of the arbitrary power of the French monarch who had the power to incarcerate anyone there indefinitely by means of a lettre de cachet. The fact that so many writers had spent short periods in the Bastille created an aura of glamour around it, which was reinforced by the promotion of tales of its legendary inhabitants, like the Man in the Iron Mask. By the time it fell on 14 July 1789 there were only seven prisoners and none were there for political crimes</p>",
+        "production": [],
+        "contributors": [
+          {
+            "agent": {
+              "id": "jp9tdrdb",
+              "label": "Henry Singleton",
+              "type": "Person"
+            },
+            "roles": [],
+            "primary": true,
+            "type": "Contributor"
+          }
+        ],
+        "items": [
+          {
+            "id": "pvjps3hk",
+            "locations": [
+              {
+                "locationType": {
+                  "id": "closed-stores",
+                  "type": "LocationType",
+                  "label": "Closed stores"
+                },
+                "accessConditions": [
+                  {
+                    "method": {
+                      "id": "online-request",
+                      "type": "AccessMethod",
+                      "label": "Online request"
+                    },
+                    "status": {
+                      "id": "open",
+                      "type": "AccessStatus",
+                      "label": "Open"
+                    },
+                    "type": "AccessCondition"
+                  }
+                ],
+                "label": "Closed stores",
+                "type": "PhysicalLocation"
+              },
+              {
+                "url": "https://iiif.wellcomecollection.org/image/V0041874/info.json",
+                "credit": "Wellcome Collection",
+                "license": {
+                  "id": "pdm",
+                  "type": "License",
+                  "label": "Public Domain Mark",
+                  "url": "https://creativecommons.org/share-your-work/public-domain/pdm/"
+                },
+                "accessConditions": [
+                  {
+                    "method": {
+                      "id": "view-online",
+                      "type": "AccessMethod",
+                      "label": "View online"
+                    },
+                    "status": {
+                      "id": "open",
+                      "type": "AccessStatus",
+                      "label": "Open"
+                    },
+                    "type": "AccessCondition"
+                  }
+                ],
+                "locationType": {
+                  "id": "iiif-image",
+                  "type": "LocationType",
+                  "label": "IIIF Image API"
+                },
+                "type": "DigitalLocation"
+              }
+            ],
+            "type": "Item"
+          }
+        ]
+      },
+      "downloadedFrom": "https://iiif.wellcomecollection.org/image/V0041874/full/!1000,1000/0/default.jpg",
+      "sha256": "7b437549622c4a6713eb0feced0b2e99390229bc97dbfb4dddd78149727ba84f",
+      "bytes": 392977,
+      "width": 1000,
+      "height": 722,
+      "recordIds": [
+        "french-revolution"
+      ],
+      "association": {
+        "en": "An undated engraving after Henry Singleton depicts the storming of the Bastille on 14 July 1789.",
+        "zh": "依亨利·辛格尔顿作品制作的版画，描绘1789年7月14日攻占巴士底狱；刊刻年代未详。"
+      },
+      "pixelReview": "Owner viewed actual full images in contact-sheet-final.jpg; complete official derivatives retained unchanged."
+    },
+    {
+      "assetId": "world-batch-09-wqwu4shh",
+      "sourceUrl": "https://wellcomecollection.org/works/wqwu4shh",
+      "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/wqwu4shh?include=items,production,contributors",
+      "sourceEvidence": {
+        "title": "Chelsea Pensioners hearing the news of the battle of Waterloo, outside the Duke of York public house. Engraving by J. Burnet, 1831, after D. Wilkie, 1822.",
+        "description": "<p>The print is dedicated to the Duke of Wellington, and his grant of arms is engraved in the centre of the lettering</p>",
+        "production": [
+          {
+            "label": "London : G. Virtue & Co.,",
+            "agents": [
+              {
+                "label": "G. Virtue & Co.",
+                "type": "Agent"
+              }
+            ],
+            "dates": [
+              {
+                "label": "1831",
+                "type": "Period"
+              }
+            ],
+            "function": {
+              "label": "Publication",
+              "type": "Concept"
+            },
+            "type": "ProductionEvent",
+            "places": [
+              {
+                "label": "London",
+                "type": "Place"
+              }
+            ]
+          }
+        ],
+        "contributors": [
+          {
+            "agent": {
+              "id": "nj3jamtd",
+              "label": "David Wilkie",
+              "type": "Person"
+            },
+            "roles": [],
+            "primary": true,
+            "type": "Contributor"
+          },
+          {
+            "agent": {
+              "id": "aqzgxgdz",
+              "label": "Arthur Wellesley, 1st Duke of Wellington",
+              "type": "Person"
+            },
+            "roles": [
+              {
+                "label": "dedicatee",
+                "type": "ContributionRole"
+              }
+            ],
+            "primary": false,
+            "type": "Contributor"
+          },
+          {
+            "agent": {
+              "id": "p8utdw7v",
+              "label": "Christopher Wren",
+              "type": "Person"
+            },
+            "roles": [
+              {
+                "label": "architect",
+                "type": "ContributionRole"
+              }
+            ],
+            "primary": false,
+            "type": "Contributor"
+          },
+          {
+            "agent": {
+              "id": "g3ky9evw",
+              "label": "John Burnet",
+              "type": "Person"
+            },
+            "roles": [],
+            "primary": false,
+            "type": "Contributor"
+          }
+        ],
+        "items": [
+          {
+            "id": "fbpc95bm",
+            "locations": [
+              {
+                "locationType": {
+                  "id": "closed-stores",
+                  "type": "LocationType",
+                  "label": "Closed stores"
+                },
+                "accessConditions": [
+                  {
+                    "method": {
+                      "id": "online-request",
+                      "type": "AccessMethod",
+                      "label": "Online request"
+                    },
+                    "status": {
+                      "id": "open",
+                      "type": "AccessStatus",
+                      "label": "Open"
+                    },
+                    "type": "AccessCondition"
+                  }
+                ],
+                "label": "Closed stores",
+                "type": "PhysicalLocation"
+              },
+              {
+                "url": "https://iiif.wellcomecollection.org/image/V0014720/info.json",
+                "credit": "Wellcome Collection",
+                "license": {
+                  "id": "pdm",
+                  "type": "License",
+                  "label": "Public Domain Mark",
+                  "url": "https://creativecommons.org/share-your-work/public-domain/pdm/"
+                },
+                "accessConditions": [
+                  {
+                    "method": {
+                      "id": "view-online",
+                      "type": "AccessMethod",
+                      "label": "View online"
+                    },
+                    "status": {
+                      "id": "open",
+                      "type": "AccessStatus",
+                      "label": "Open"
+                    },
+                    "type": "AccessCondition"
+                  }
+                ],
+                "locationType": {
+                  "id": "iiif-image",
+                  "type": "LocationType",
+                  "label": "IIIF Image API"
+                },
+                "type": "DigitalLocation"
+              }
+            ],
+            "type": "Item"
+          }
+        ]
+      },
+      "downloadedFrom": "https://iiif.wellcomecollection.org/image/V0014720/full/!1000,1000/0/default.jpg",
+      "sha256": "5400d24638405f01cbf83756716b371363288c89f553b74a4568320f3319cfec",
+      "bytes": 250545,
+      "width": 1000,
+      "height": 705,
+      "recordIds": [
+        "waterloo"
+      ],
+      "association": {
+        "en": "John Burnet’s 1831 engraving after David Wilkie’s 1822 painting imagines Chelsea pensioners receiving news of Waterloo.",
+        "zh": "约翰·伯内特1831年依戴维·威尔基1822年画作制作的版画，描绘切尔西退伍军人听到滑铁卢战报的场面。"
+      },
+      "pixelReview": "Owner viewed actual full images in contact-sheet-final.jpg; complete official derivatives retained unchanged."
+    },
+    {
+      "assetId": "world-batch-09-xkff2t3q",
+      "sourceUrl": "https://wellcomecollection.org/works/xkff2t3q",
+      "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/xkff2t3q?include=items,production,contributors",
+      "sourceEvidence": {
+        "title": "A fiery demon representing the chaos of the Paris Commune and more generally, the infernal results of the ideals of the French Revolution. Coloured etching by G. Cruikshank, 1871.",
+        "description": null,
+        "production": [
+          {
+            "label": "London : George Cruikshank; London (Strand) : W. Tweedie; London (King St., Covent Garden) : J. Paul; London (St James's St., Pall Mall) : F. Harvey, June 1871.",
+            "agents": [
+              {
+                "label": "George Cruikshank;",
+                "type": "Agent"
+              },
+              {
+                "label": "W. Tweedie;",
+                "type": "Agent"
+              },
+              {
+                "label": "J. Paul;",
+                "type": "Agent"
+              },
+              {
+                "label": "F. Harvey",
+                "type": "Agent"
+              }
+            ],
+            "dates": [
+              {
+                "label": "June 1871",
+                "type": "Period"
+              }
+            ],
+            "function": {
+              "label": "Publication",
+              "type": "Concept"
+            },
+            "type": "ProductionEvent",
+            "places": [
+              {
+                "label": "London",
+                "type": "Place"
+              },
+              {
+                "label": "London (Strand)",
+                "type": "Place"
+              },
+              {
+                "label": "London (King St., Covent Garden)",
+                "type": "Place"
+              },
+              {
+                "label": "London (St James's St., Pall Mall)",
+                "type": "Place"
+              }
+            ]
+          }
+        ],
+        "contributors": [
+          {
+            "agent": {
+              "id": "r9g9y9n5",
+              "label": "George Cruikshank",
+              "type": "Person"
+            },
+            "roles": [],
+            "primary": true,
+            "type": "Contributor"
+          }
+        ],
+        "items": [
+          {
+            "id": "w29vyubr",
+            "locations": [
+              {
+                "locationType": {
+                  "id": "closed-stores",
+                  "type": "LocationType",
+                  "label": "Closed stores"
+                },
+                "accessConditions": [
+                  {
+                    "method": {
+                      "id": "online-request",
+                      "type": "AccessMethod",
+                      "label": "Online request"
+                    },
+                    "status": {
+                      "id": "open",
+                      "type": "AccessStatus",
+                      "label": "Open"
+                    },
+                    "type": "AccessCondition"
+                  }
+                ],
+                "label": "Closed stores",
+                "type": "PhysicalLocation"
+              },
+              {
+                "url": "https://iiif.wellcomecollection.org/image/V0011991/info.json",
+                "credit": "Wellcome Collection",
+                "license": {
+                  "id": "pdm",
+                  "type": "License",
+                  "label": "Public Domain Mark",
+                  "url": "https://creativecommons.org/share-your-work/public-domain/pdm/"
+                },
+                "accessConditions": [
+                  {
+                    "method": {
+                      "id": "view-online",
+                      "type": "AccessMethod",
+                      "label": "View online"
+                    },
+                    "status": {
+                      "id": "open",
+                      "type": "AccessStatus",
+                      "label": "Open"
+                    },
+                    "type": "AccessCondition"
+                  }
+                ],
+                "locationType": {
+                  "id": "iiif-image",
+                  "type": "LocationType",
+                  "label": "IIIF Image API"
+                },
+                "type": "DigitalLocation"
+              }
+            ],
+            "type": "Item"
+          }
+        ]
+      },
+      "downloadedFrom": "https://iiif.wellcomecollection.org/image/V0011991/full/!1000,1000/0/default.jpg",
+      "sha256": "318a12fbbef2790279aa956a69eb0087a52b05c52266953a66766c38f6307fb1",
+      "bytes": 325019,
+      "width": 646,
+      "height": 1000,
+      "recordIds": [
+        "paris-commune-1871"
+      ],
+      "association": {
+        "en": "George Cruikshank’s hostile political etching about the Paris Commune, published in London in June 1871.",
+        "zh": "乔治·克鲁克香克反对巴黎公社的政治蚀刻画，1871年6月在伦敦出版。"
+      },
+      "pixelReview": "Owner viewed actual full images in contact-sheet-final.jpg; complete official derivatives retained unchanged."
+    },
+    {
+      "assetId": "world-batch-09-hheyrprn",
+      "sourceUrl": "https://wellcomecollection.org/works/hheyrprn",
+      "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/hheyrprn?include=items,production,contributors",
+      "sourceEvidence": {
+        "title": "Above, Nihonbashi bridge, Tokyo, crowded with traffic and pedestrians; below, Kaiunbashi Kabutorchō (?) House and the First National Bank building. Colour woodcut by Kunisada II, ca. 1870.",
+        "description": "<p>The building shown in the foreground of the lower section of the print depicts a house belonging to the famous Meiji business magnate and economic moderniser, Shibusawa Eiichi (1840/1-1931) The First National Bank (which Shibusawa helped to form), shown in the background, provides an example of the early mixed style of architecture.</p>",
+        "production": [
+          {
+            "label": "Edo [Tokyo] : [1870?]",
+            "agents": [],
+            "dates": [
+              {
+                "label": "[1870?]",
+                "type": "Period"
+              }
+            ],
+            "function": {
+              "label": "Publication",
+              "type": "Concept"
+            },
+            "type": "ProductionEvent",
+            "places": [
+              {
+                "label": "Edo [Tokyo]",
+                "type": "Place"
+              }
+            ]
+          }
+        ],
+        "contributors": [
+          {
+            "agent": {
+              "id": "gyesh6nd",
+              "label": "Utagawa Kunisada II",
+              "type": "Person"
+            },
+            "roles": [],
+            "primary": true,
+            "type": "Contributor"
+          }
+        ],
+        "items": [
+          {
+            "id": "mcqvjv68",
+            "locations": [
+              {
+                "locationType": {
+                  "id": "closed-stores",
+                  "type": "LocationType",
+                  "label": "Closed stores"
+                },
+                "accessConditions": [
+                  {
+                    "method": {
+                      "id": "online-request",
+                      "type": "AccessMethod",
+                      "label": "Online request"
+                    },
+                    "status": {
+                      "id": "open",
+                      "type": "AccessStatus",
+                      "label": "Open"
+                    },
+                    "type": "AccessCondition"
+                  }
+                ],
+                "label": "Closed stores",
+                "type": "PhysicalLocation"
+              },
+              {
+                "url": "https://iiif.wellcomecollection.org/image/V0047360ER/info.json",
+                "credit": "Wellcome Collection",
+                "license": {
+                  "id": "pdm",
+                  "type": "License",
+                  "label": "Public Domain Mark",
+                  "url": "https://creativecommons.org/share-your-work/public-domain/pdm/"
+                },
+                "accessConditions": [
+                  {
+                    "method": {
+                      "id": "view-online",
+                      "type": "AccessMethod",
+                      "label": "View online"
+                    },
+                    "status": {
+                      "id": "open",
+                      "type": "AccessStatus",
+                      "label": "Open"
+                    },
+                    "type": "AccessCondition"
+                  }
+                ],
+                "locationType": {
+                  "id": "iiif-image",
+                  "type": "LocationType",
+                  "label": "IIIF Image API"
+                },
+                "type": "DigitalLocation"
+              }
+            ],
+            "type": "Item"
+          }
+        ]
+      },
+      "downloadedFrom": "https://iiif.wellcomecollection.org/image/V0047360ER/full/!1000,1000/0/default.jpg",
+      "sha256": "389be8fa1a5fd4382a8584dba717460342402f908ed8d257a00d0c4979ba447f",
+      "bytes": 267622,
+      "width": 700,
+      "height": 1000,
+      "recordIds": [
+        "meiji-restoration"
+      ],
+      "association": {
+        "en": "A colour woodcut by Utagawa Kunisada II shows Tokyo traffic and the First National Bank; the collection dates it approximately to 1870.",
+        "zh": "歌川国贞二代的彩色木版画呈现东京交通与第一国立银行；馆藏将其约定为1870年。"
+      },
+      "pixelReview": "Owner viewed actual full images in contact-sheet-final.jpg; complete official derivatives retained unchanged."
+    },
+    {
+      "assetId": "world-batch-09-gf5crxmv",
+      "sourceUrl": "https://wellcomecollection.org/works/gf5crxmv",
+      "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/gf5crxmv?include=items,production,contributors",
+      "sourceEvidence": {
+        "title": "Delhi: Qutab Minar, adjoining ruins and the tomb of Imam Zamin. Watercolour by Ghulam Ali Khan, ca. 1820.",
+        "description": "<p>Painted before additions were made to the tower in 1829</p>",
+        "production": [
+          {
+            "label": "[1820?]",
+            "agents": [],
+            "dates": [
+              {
+                "label": "[1820?]",
+                "type": "Period"
+              }
+            ],
+            "function": {
+              "label": "Production",
+              "type": "Concept"
+            },
+            "type": "ProductionEvent",
+            "places": []
+          }
+        ],
+        "contributors": [
+          {
+            "agent": {
+              "id": "ssmbasbd",
+              "label": "Ghulam Ali Khan",
+              "type": "Person"
+            },
+            "roles": [],
+            "primary": true,
+            "type": "Contributor"
+          }
+        ],
+        "items": [
+          {
+            "id": "krvcrksd",
+            "locations": [
+              {
+                "locationType": {
+                  "id": "closed-stores",
+                  "type": "LocationType",
+                  "label": "Closed stores"
+                },
+                "accessConditions": [
+                  {
+                    "method": {
+                      "id": "online-request",
+                      "type": "AccessMethod",
+                      "label": "Online request"
+                    },
+                    "status": {
+                      "id": "open",
+                      "type": "AccessStatus",
+                      "label": "Open"
+                    },
+                    "type": "AccessCondition"
+                  }
+                ],
+                "label": "Closed stores",
+                "type": "PhysicalLocation"
+              },
+              {
+                "url": "https://iiif.wellcomecollection.org/presentation/v2/b15799438",
+                "license": {
+                  "id": "pdm",
+                  "type": "License",
+                  "label": "Public Domain Mark",
+                  "url": "https://creativecommons.org/share-your-work/public-domain/pdm/"
+                },
+                "accessConditions": [
+                  {
+                    "method": {
+                      "id": "view-online",
+                      "type": "AccessMethod",
+                      "label": "View online"
+                    },
+                    "status": {
+                      "id": "open",
+                      "type": "AccessStatus",
+                      "label": "Open"
+                    },
+                    "type": "AccessCondition"
+                  }
+                ],
+                "locationType": {
+                  "id": "iiif-presentation",
+                  "type": "LocationType",
+                  "label": "IIIF Presentation API"
+                },
+                "type": "DigitalLocation"
+              }
+            ],
+            "type": "Item"
+          }
+        ]
+      },
+      "downloadedFrom": "https://iiif.wellcomecollection.org/image/b15799438_0001.jp2/full/!1000,1000/0/default.jpg",
+      "sha256": "51feec4731a54733b1f97083429063a06795aec17f386ed524b402973af9718a",
+      "bytes": 256312,
+      "width": 1000,
+      "height": 749,
+      "recordIds": [
+        "delhi-sultanate"
+      ],
+      "association": {
+        "en": "Ghulam Ali Khan’s watercolour of Qutb Minar and neighbouring monuments, around 1820.",
+        "zh": "古拉姆·阿里·汗约1820年绘制的古特卜塔及邻近古迹水彩画。"
+      },
+      "pixelReview": "Owner viewed actual full images in contact-sheet-final.jpg; complete official derivatives retained unchanged."
+    },
+    {
+      "assetId": "world-batch-09-zkgw8fsx",
+      "sourceUrl": "https://wellcomecollection.org/works/zkgw8fsx",
+      "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/zkgw8fsx?include=items,production,contributors",
+      "sourceEvidence": {
+        "title": "Civil engineering: work on the Suez canal. Wood engraving by M. Jackson, c.1864.",
+        "description": null,
+        "production": [
+          {
+            "label": "1864",
+            "agents": [],
+            "dates": [
+              {
+                "label": "1864",
+                "type": "Period"
+              }
+            ],
+            "type": "ProductionEvent",
+            "places": [
+              {
+                "label": "United Kingdom",
+                "type": "Place"
+              }
+            ]
+          }
+        ],
+        "contributors": [
+          {
+            "agent": {
+              "id": "yakuptw5",
+              "label": "Mason Jackson",
+              "type": "Person"
+            },
+            "roles": [],
+            "primary": false,
+            "type": "Contributor"
+          }
+        ],
+        "items": [
+          {
+            "id": "wwy39z53",
+            "locations": [
+              {
+                "locationType": {
+                  "id": "closed-stores",
+                  "type": "LocationType",
+                  "label": "Closed stores"
+                },
+                "accessConditions": [
+                  {
+                    "method": {
+                      "id": "online-request",
+                      "type": "AccessMethod",
+                      "label": "Online request"
+                    },
+                    "status": {
+                      "id": "open",
+                      "type": "AccessStatus",
+                      "label": "Open"
+                    },
+                    "type": "AccessCondition"
+                  }
+                ],
+                "label": "Closed stores",
+                "type": "PhysicalLocation"
+              },
+              {
+                "url": "https://iiif.wellcomecollection.org/image/V0024392/info.json",
+                "credit": "Wellcome Collection",
+                "license": {
+                  "id": "pdm",
+                  "type": "License",
+                  "label": "Public Domain Mark",
+                  "url": "https://creativecommons.org/share-your-work/public-domain/pdm/"
+                },
+                "accessConditions": [
+                  {
+                    "method": {
+                      "id": "view-online",
+                      "type": "AccessMethod",
+                      "label": "View online"
+                    },
+                    "status": {
+                      "id": "open",
+                      "type": "AccessStatus",
+                      "label": "Open"
+                    },
+                    "type": "AccessCondition"
+                  }
+                ],
+                "locationType": {
+                  "id": "iiif-image",
+                  "type": "LocationType",
+                  "label": "IIIF Image API"
+                },
+                "type": "DigitalLocation"
+              }
+            ],
+            "type": "Item"
+          }
+        ]
+      },
+      "downloadedFrom": "https://iiif.wellcomecollection.org/image/V0024392/full/!1000,1000/0/default.jpg",
+      "sha256": "f4926d46aafbadd9d8aca019327bdbcd5a9ed905c59093d2fadece3b2967826b",
+      "bytes": 339945,
+      "width": 1000,
+      "height": 764,
+      "recordIds": [
+        "suez-canal-opening"
+      ],
+      "association": {
+        "en": "Mason Jackson’s wood engraving of Suez Canal construction, around 1864, five years before the opening.",
+        "zh": "梅森·杰克逊约1864年制作的苏伊士运河施工木刻画，早于通航约五年。"
+      },
+      "pixelReview": "Owner viewed actual full images in contact-sheet-final.jpg; complete official derivatives retained unchanged."
+    },
+    {
+      "assetId": "world-batch-09-hrjwe54r",
+      "sourceUrl": "https://wellcomecollection.org/works/hrjwe54r",
+      "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/hrjwe54r?include=items,production,contributors",
+      "sourceEvidence": {
+        "title": "Athens: the Acropolis, showing part of the Propylea and the temple of Athena Nike, in ruins. Photograph by Petros Moraites, ca. 1870.",
+        "description": null,
+        "production": [
+          {
+            "label": "1870",
+            "agents": [],
+            "dates": [
+              {
+                "label": "1870",
+                "type": "Period"
+              }
+            ],
+            "type": "ProductionEvent",
+            "places": [
+              {
+                "label": "Greece",
+                "type": "Place"
+              }
+            ]
+          }
+        ],
+        "contributors": [
+          {
+            "agent": {
+              "id": "t24478gj",
+              "label": "Petros Moraites",
+              "type": "Person"
+            },
+            "roles": [],
+            "primary": true,
+            "type": "Contributor"
+          }
+        ],
+        "items": [
+          {
+            "id": "yhkjfc6f",
+            "locations": [
+              {
+                "locationType": {
+                  "id": "closed-stores",
+                  "type": "LocationType",
+                  "label": "Closed stores"
+                },
+                "accessConditions": [
+                  {
+                    "method": {
+                      "id": "online-request",
+                      "type": "AccessMethod",
+                      "label": "Online request"
+                    },
+                    "status": {
+                      "id": "open",
+                      "type": "AccessStatus",
+                      "label": "Open"
+                    },
+                    "type": "AccessCondition"
+                  }
+                ],
+                "label": "Closed stores",
+                "type": "PhysicalLocation"
+              },
+              {
+                "url": "https://iiif.wellcomecollection.org/image/V0038671/info.json",
+                "credit": "Wellcome Collection",
+                "license": {
+                  "id": "pdm",
+                  "type": "License",
+                  "label": "Public Domain Mark",
+                  "url": "https://creativecommons.org/share-your-work/public-domain/pdm/"
+                },
+                "accessConditions": [
+                  {
+                    "method": {
+                      "id": "view-online",
+                      "type": "AccessMethod",
+                      "label": "View online"
+                    },
+                    "status": {
+                      "id": "open",
+                      "type": "AccessStatus",
+                      "label": "Open"
+                    },
+                    "type": "AccessCondition"
+                  }
+                ],
+                "locationType": {
+                  "id": "iiif-image",
+                  "type": "LocationType",
+                  "label": "IIIF Image API"
+                },
+                "type": "DigitalLocation"
+              }
+            ],
+            "type": "Item"
+          }
+        ]
+      },
+      "downloadedFrom": "https://iiif.wellcomecollection.org/image/V0038671/full/!1000,1000/0/default.jpg",
+      "sha256": "f88fec9a0c2af2ed6846f560aa12373456938eb1746ce1a27998d0e56101eef4",
+      "bytes": 330409,
+      "width": 1000,
+      "height": 729,
+      "recordIds": [
+        "athens-acropolis"
+      ],
+      "association": {
+        "en": "Petros Moraites photographed the Acropolis around 1870, including parts of the Propylaea and Temple of Athena Nike.",
+        "zh": "彼得罗斯·莫赖蒂斯约1870年拍摄雅典卫城，画面包含山门与雅典娜胜利神庙的部分遗迹。"
+      },
+      "pixelReview": "Owner viewed actual full images in contact-sheet-final.jpg; complete official derivatives retained unchanged."
+    },
+    {
+      "assetId": "world-batch-09-e236c678",
+      "sourceUrl": "https://wellcomecollection.org/works/e236c678",
+      "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/e236c678?include=items,production,contributors",
+      "sourceEvidence": {
+        "title": "Rome: baths of Diocletian. Coloured engraving, ca. 1804-1811.",
+        "description": null,
+        "production": [
+          {
+            "label": "[Paris? Metz? Vienna?] : [1804?-1811?]",
+            "agents": [],
+            "dates": [
+              {
+                "label": "[1804?-1811?]",
+                "type": "Period"
+              }
+            ],
+            "function": {
+              "label": "Publication",
+              "type": "Concept"
+            },
+            "type": "ProductionEvent",
+            "places": [
+              {
+                "label": "[Paris? Metz? Vienna?]",
+                "type": "Place"
+              }
+            ]
+          }
+        ],
+        "contributors": [
+          {
+            "agent": {
+              "id": "z385an38",
+              "label": "Robert Edler von Spalart",
+              "type": "Person"
+            },
+            "roles": [],
+            "primary": true,
+            "type": "Contributor"
+          }
+        ],
+        "items": [
+          {
+            "locations": [
+              {
+                "url": "https://iiif.wellcomecollection.org/image/L0047695/info.json",
+                "credit": "Wellcome Collection",
+                "license": {
+                  "id": "pdm",
+                  "type": "License",
+                  "label": "Public Domain Mark",
+                  "url": "https://creativecommons.org/share-your-work/public-domain/pdm/"
+                },
+                "accessConditions": [
+                  {
+                    "method": {
+                      "id": "view-online",
+                      "type": "AccessMethod",
+                      "label": "View online"
+                    },
+                    "status": {
+                      "id": "open",
+                      "type": "AccessStatus",
+                      "label": "Open"
+                    },
+                    "type": "AccessCondition"
+                  }
+                ],
+                "locationType": {
+                  "id": "iiif-image",
+                  "type": "LocationType",
+                  "label": "IIIF Image API"
+                },
+                "type": "DigitalLocation"
+              }
+            ],
+            "type": "Item"
+          }
+        ]
+      },
+      "downloadedFrom": "https://iiif.wellcomecollection.org/image/L0047695/full/!1000,1000/0/default.jpg",
+      "sha256": "3797f9423bee37100e95aa95d88adac4ab1a6187fa1d3e22bbec006605df4957",
+      "bytes": 190791,
+      "width": 1000,
+      "height": 690,
+      "recordIds": [
+        "rome-imperial-city"
+      ],
+      "association": {
+        "en": "A coloured engraving of the Baths of Diocletian, around 1804–1811, presents a later architectural reconstruction.",
+        "zh": "约1804—1811年的戴克里先浴场彩色版画，以后世建筑复原图呈现古代浴场。"
+      },
+      "pixelReview": "Owner viewed actual full images in contact-sheet-final.jpg; complete official derivatives retained unchanged."
+    },
+    {
+      "assetId": "world-batch-09-eq64426u",
+      "sourceUrl": "https://wellcomecollection.org/works/eq64426u",
+      "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/eq64426u?include=items,production,contributors",
+      "sourceEvidence": {
+        "title": "Lucknow, India: the Lucknow Residency in ruins due to damage caused during the Indian Rebellion. Photograph by Felice Beato, ca. 1858.",
+        "description": null,
+        "production": [
+          {
+            "label": "1858",
+            "agents": [],
+            "dates": [
+              {
+                "label": "1858",
+                "type": "Period"
+              }
+            ],
+            "type": "ProductionEvent",
+            "places": [
+              {
+                "label": "India",
+                "type": "Place"
+              }
+            ]
+          }
+        ],
+        "contributors": [
+          {
+            "agent": {
+              "id": "fe4wydxz",
+              "label": "Felice Beato",
+              "type": "Person"
+            },
+            "roles": [],
+            "primary": true,
+            "type": "Contributor"
+          }
+        ],
+        "items": [
+          {
+            "locations": [
+              {
+                "url": "https://iiif.wellcomecollection.org/image/V0037672/info.json",
+                "credit": "Wellcome Collection",
+                "license": {
+                  "id": "pdm",
+                  "type": "License",
+                  "label": "Public Domain Mark",
+                  "url": "https://creativecommons.org/share-your-work/public-domain/pdm/"
+                },
+                "accessConditions": [
+                  {
+                    "method": {
+                      "id": "view-online",
+                      "type": "AccessMethod",
+                      "label": "View online"
+                    },
+                    "status": {
+                      "id": "open",
+                      "type": "AccessStatus",
+                      "label": "Open"
+                    },
+                    "type": "AccessCondition"
+                  }
+                ],
+                "locationType": {
+                  "id": "iiif-image",
+                  "type": "LocationType",
+                  "label": "IIIF Image API"
+                },
+                "type": "DigitalLocation"
+              }
+            ],
+            "type": "Item"
+          }
+        ]
+      },
+      "downloadedFrom": "https://iiif.wellcomecollection.org/image/V0037672/full/!1000,1000/0/default.jpg",
+      "sha256": "03c52d57d8839d787abd2cf0870b4e826d40691256b84e7dc2647b13717e101c",
+      "bytes": 383913,
+      "width": 1000,
+      "height": 837,
+      "recordIds": [
+        "indian-rebellion-1857"
+      ],
+      "association": {
+        "en": "Felice Beato’s photograph of the damaged Lucknow Residency, around 1858, after fighting during the Indian Rebellion.",
+        "zh": "费利切·比托约1858年拍摄的勒克瑙英国驻地，在印度起义战斗中受损。"
+      },
+      "pixelReview": "Owner viewed actual full images in contact-sheet-final.jpg; complete official derivatives retained unchanged."
+    },
+    {
+      "assetId": "world-batch-09-xh96865n",
+      "sourceUrl": "https://wellcomecollection.org/works/xh96865n",
+      "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/xh96865n?include=items,production,contributors",
+      "sourceEvidence": {
+        "title": "Singapore: sunset over the harbour. Watercolour by J. Taylor, 1879.",
+        "description": null,
+        "production": [
+          {
+            "label": "1879",
+            "agents": [],
+            "dates": [
+              {
+                "label": "1879",
+                "type": "Period"
+              }
+            ],
+            "type": "ProductionEvent",
+            "places": [
+              {
+                "label": "No place, unknown, or undetermined",
+                "type": "Place"
+              }
+            ]
+          }
+        ],
+        "contributors": [
+          {
+            "agent": {
+              "id": "n2nzvdvj",
+              "label": "Taylor, J. E. (John Edmund), active 1860-1885",
+              "type": "Person"
+            },
+            "roles": [],
+            "primary": true,
+            "type": "Contributor"
+          }
+        ],
+        "items": [
+          {
+            "locations": [
+              {
+                "url": "https://iiif.wellcomecollection.org/image/V0037490/info.json",
+                "credit": "Wellcome Collection",
+                "license": {
+                  "id": "pdm",
+                  "type": "License",
+                  "label": "Public Domain Mark",
+                  "url": "https://creativecommons.org/share-your-work/public-domain/pdm/"
+                },
+                "accessConditions": [
+                  {
+                    "method": {
+                      "id": "view-online",
+                      "type": "AccessMethod",
+                      "label": "View online"
+                    },
+                    "status": {
+                      "id": "open",
+                      "type": "AccessStatus",
+                      "label": "Open"
+                    },
+                    "type": "AccessCondition"
+                  }
+                ],
+                "locationType": {
+                  "id": "iiif-image",
+                  "type": "LocationType",
+                  "label": "IIIF Image API"
+                },
+                "type": "DigitalLocation"
+              }
+            ],
+            "type": "Item"
+          }
+        ]
+      },
+      "downloadedFrom": "https://iiif.wellcomecollection.org/image/V0037490/full/!1000,1000/0/default.jpg",
+      "sha256": "b9a8ad3c7c937e29d3dfcf5efcd92474e21552e9d8f03ac48ff5d67384e60832",
+      "bytes": 306367,
+      "width": 1000,
+      "height": 698,
+      "recordIds": [
+        "straits-settlements-formation"
+      ],
+      "association": {
+        "en": "J. Taylor’s 1879 watercolour shows Singapore harbour, one of the three ports grouped as the Straits Settlements in 1826.",
+        "zh": "J. 泰勒1879年的水彩画描绘新加坡港，它是1826年组成海峡殖民地的三个港口之一。"
+      },
+      "pixelReview": "Owner viewed actual full images in contact-sheet-final.jpg; complete official derivatives retained unchanged."
+    },
+    {
+      "assetId": "world-batch-09-n9vxe6at",
+      "sourceUrl": "https://wellcomecollection.org/works/n9vxe6at",
+      "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/n9vxe6at?include=items,production,contributors",
+      "sourceEvidence": {
+        "title": "Singapore: Chinese junks in the rain at Tanjong Katong. Watercolour by J. Taylor, 1879.",
+        "description": null,
+        "production": [
+          {
+            "label": "1879",
+            "agents": [],
+            "dates": [
+              {
+                "label": "1879",
+                "type": "Period"
+              }
+            ],
+            "type": "ProductionEvent",
+            "places": [
+              {
+                "label": "No place, unknown, or undetermined",
+                "type": "Place"
+              }
+            ]
+          }
+        ],
+        "contributors": [
+          {
+            "agent": {
+              "id": "n2nzvdvj",
+              "label": "Taylor, J. E. (John Edmund), active 1860-1885",
+              "type": "Person"
+            },
+            "roles": [],
+            "primary": true,
+            "type": "Contributor"
+          }
+        ],
+        "items": [
+          {
+            "locations": [
+              {
+                "url": "https://iiif.wellcomecollection.org/image/V0037495/info.json",
+                "credit": "Wellcome Collection",
+                "license": {
+                  "id": "pdm",
+                  "type": "License",
+                  "label": "Public Domain Mark",
+                  "url": "https://creativecommons.org/share-your-work/public-domain/pdm/"
+                },
+                "accessConditions": [
+                  {
+                    "method": {
+                      "id": "view-online",
+                      "type": "AccessMethod",
+                      "label": "View online"
+                    },
+                    "status": {
+                      "id": "open",
+                      "type": "AccessStatus",
+                      "label": "Open"
+                    },
+                    "type": "AccessCondition"
+                  }
+                ],
+                "locationType": {
+                  "id": "iiif-image",
+                  "type": "LocationType",
+                  "label": "IIIF Image API"
+                },
+                "type": "DigitalLocation"
+              }
+            ],
+            "type": "Item"
+          }
+        ]
+      },
+      "downloadedFrom": "https://iiif.wellcomecollection.org/image/V0037495/full/!1000,1000/0/default.jpg",
+      "sha256": "b161827cb42dc52f001355d4f741ebfff843d11ad5a5ffc6abf7cf4341618a79",
+      "bytes": 313592,
+      "width": 1000,
+      "height": 704,
+      "recordIds": [
+        "straits-settlements-formation"
+      ],
+      "association": {
+        "en": "J. Taylor’s 1879 watercolour shows Chinese junks in the rain off Tanjong Katong, Singapore.",
+        "zh": "J. 泰勒1879年的水彩画，描绘新加坡丹戎加东近海雨中的中国帆船。"
+      },
+      "pixelReview": "Owner viewed actual full images in contact-sheet-final.jpg; complete official derivatives retained unchanged."
+    }
+  ]
+}

@@ -1,0 +1,905 @@
+{
+  "version": 2,
+  "reviewedAt": "2026-11-11",
+  "items": [
+    {
+      "id": "world-batch-09-ff2yehun",
+      "file": "assets/history-media/world-batch-09-ff2yehun.jpg",
+      "recordIds": [
+        "venice-maritime"
+      ],
+      "kind": "artwork",
+      "representation": "historical-artwork",
+      "title": {
+        "en": "Venice’s Grand Canal",
+        "zh": "威尼斯大运河"
+      },
+      "alt": {
+        "en": "Gondolas and larger boats pass between the palaces lining a broad canal.",
+        "zh": "贡多拉和大船往来于两岸宫殿之间的宽阔运河。"
+      },
+      "caption": {
+        "en": "G. B. Brustoloni’s eighteenth-century etching after Canaletto shows Venice’s Grand Canal.",
+        "zh": "G. B. 布鲁斯托洛尼依卡纳莱托作品制作的18世纪蚀刻画，描绘威尼斯大运河。"
+      },
+      "interpretation": {
+        "en": "Follow the boats between the palaces and churches. The waterway serves as a street, a trading route and a public stage.",
+        "zh": "沿着船只观察两岸宫殿与教堂：水道兼具街道、商路与公共舞台的作用。"
+      },
+      "creator": "G. B. Brustoloni after Canaletto",
+      "date": "18th century",
+      "institution": "Wellcome Collection",
+      "sourceUrl": "https://wellcomecollection.org/works/ff2yehun",
+      "imageUrl": "https://iiif.wellcomecollection.org/image/L0007780/full/!1000,1000/0/default.jpg",
+      "downloadedFrom": "https://iiif.wellcomecollection.org/image/L0007780/full/!1000,1000/0/default.jpg",
+      "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/ff2yehun?include=items,production,contributors",
+      "rights": {
+        "label": "Public Domain Mark",
+        "url": "https://creativecommons.org/share-your-work/public-domain/pdm/",
+        "note": {
+          "en": "Wellcome Collection identifies this digital item with the Public Domain Mark. Credit: Wellcome Collection.",
+          "zh": "惠康收藏为此数字藏品标注公共领域标识。图像来源：惠康收藏。"
+        }
+      },
+      "transformation": {
+        "en": "Official IIIF derivative, downloaded unchanged; no local crop, retouching or recolouring.",
+        "zh": "下载官方IIIF衍生图像，未作本地裁剪、修饰或改色。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Venice and its Lagoon",
+            "zh": "威尼斯及其潟湖"
+          },
+          "url": "https://whc.unesco.org/en/list/394/"
+        }
+      ],
+      "width": 1000,
+      "height": 715,
+      "bytes": 352742,
+      "sha256": "917713999e9b402c8fe11457d3f93c9e38fd4778ed20e07c2819fd4844c549e1",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "world-batch-09-g6u2rykr",
+      "file": "assets/history-media/world-batch-09-g6u2rykr.jpg",
+      "recordIds": [
+        "ironbridge"
+      ],
+      "kind": "artwork",
+      "representation": "historical-artwork",
+      "title": {
+        "en": "The iron bridge at Coalbrookdale",
+        "zh": "科尔布鲁克代尔铁桥"
+      },
+      "alt": {
+        "en": "An arched iron bridge spans a river above sailing boats; a construction diagram appears below.",
+        "zh": "铁拱桥横跨有帆船航行的河面，下方附有结构图。"
+      },
+      "caption": {
+        "en": "An undated engraving of the iron bridge built at Coalbrookdale in 1779, with a structural diagram below.",
+        "zh": "科尔布鲁克代尔1779年建成铁桥的版画，下附结构图；版画年代与作者未详。"
+      },
+      "interpretation": {
+        "en": "Compare the bridge’s graceful arch with the small component drawings. How does the sheet move between a finished landmark and the pieces used to build it?",
+        "zh": "把优雅的桥拱与下方构件图比较：这张图如何把建成的地标与组成它的零件联系起来？"
+      },
+      "creator": "Unidentified engraver",
+      "date": "Undated; depicts the bridge built in 1779",
+      "institution": "Wellcome Collection",
+      "sourceUrl": "https://wellcomecollection.org/works/g6u2rykr",
+      "imageUrl": "https://iiif.wellcomecollection.org/image/V0024326/full/!1000,1000/0/default.jpg",
+      "downloadedFrom": "https://iiif.wellcomecollection.org/image/V0024326/full/!1000,1000/0/default.jpg",
+      "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/g6u2rykr?include=items,production,contributors",
+      "rights": {
+        "label": "Public Domain Mark",
+        "url": "https://creativecommons.org/share-your-work/public-domain/pdm/",
+        "note": {
+          "en": "Wellcome Collection identifies this digital item with the Public Domain Mark. Credit: Wellcome Collection.",
+          "zh": "惠康收藏为此数字藏品标注公共领域标识。图像来源：惠康收藏。"
+        }
+      },
+      "transformation": {
+        "en": "Official IIIF derivative, downloaded unchanged; no local crop, retouching or recolouring.",
+        "zh": "下载官方IIIF衍生图像，未作本地裁剪、修饰或改色。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Ironbridge Gorge",
+            "zh": "铁桥峡谷"
+          },
+          "url": "https://whc.unesco.org/en/list/371/"
+        }
+      ],
+      "width": 1000,
+      "height": 750,
+      "bytes": 314933,
+      "sha256": "3e3326e21b2cb3099df7ef2ef8ef99cdd585b8e7f64a5ffeb1114b448b99147c",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "world-batch-09-efusb37c",
+      "file": "assets/history-media/world-batch-09-efusb37c.jpg",
+      "recordIds": [
+        "french-revolution"
+      ],
+      "kind": "artwork",
+      "representation": "historical-artwork",
+      "title": {
+        "en": "The storming of the Bastille, after Singleton",
+        "zh": "依辛格尔顿作品制作的攻占巴士底狱版画"
+      },
+      "alt": {
+        "en": "An armed crowd surges beside fortress walls amid smoke and fallen figures.",
+        "zh": "武装人群在浓烟与倒下的人物之间涌向堡垒城墙。"
+      },
+      "caption": {
+        "en": "An undated engraving after Henry Singleton depicts the storming of the Bastille on 14 July 1789.",
+        "zh": "依亨利·辛格尔顿作品制作的版画，描绘1789年7月14日攻占巴士底狱；刊刻年代未详。"
+      },
+      "interpretation": {
+        "en": "The fortress towers over a varied crowd. Look for the contrast between massive walls and human bodies that turns the prison’s fall into a political symbol.",
+        "zh": "堡垒高踞于人群之上。观察厚重城墙与人物身体的对比，如何把监狱的陷落塑造成政治象征。"
+      },
+      "creator": "Unidentified engraver after Henry Singleton",
+      "date": "Undated; depicts 14 July 1789",
+      "institution": "Wellcome Collection",
+      "sourceUrl": "https://wellcomecollection.org/works/efusb37c",
+      "imageUrl": "https://iiif.wellcomecollection.org/image/V0041874/full/!1000,1000/0/default.jpg",
+      "downloadedFrom": "https://iiif.wellcomecollection.org/image/V0041874/full/!1000,1000/0/default.jpg",
+      "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/efusb37c?include=items,production,contributors",
+      "rights": {
+        "label": "Public Domain Mark",
+        "url": "https://creativecommons.org/share-your-work/public-domain/pdm/",
+        "note": {
+          "en": "Wellcome Collection identifies this digital item with the Public Domain Mark. Credit: Wellcome Collection.",
+          "zh": "惠康收藏为此数字藏品标注公共领域标识。图像来源：惠康收藏。"
+        }
+      },
+      "transformation": {
+        "en": "Official IIIF derivative, downloaded unchanged; no local crop, retouching or recolouring.",
+        "zh": "下载官方IIIF衍生图像，未作本地裁剪、修饰或改色。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "The United States and the French Revolution, 1789–1799",
+            "zh": "美国与法国大革命，1789—1799年"
+          },
+          "url": "https://history.state.gov/milestones/1784-1800/french-rev"
+        }
+      ],
+      "width": 1000,
+      "height": 722,
+      "bytes": 392977,
+      "sha256": "7b437549622c4a6713eb0feced0b2e99390229bc97dbfb4dddd78149727ba84f",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "world-batch-09-wqwu4shh",
+      "file": "assets/history-media/world-batch-09-wqwu4shh.jpg",
+      "recordIds": [
+        "waterloo"
+      ],
+      "kind": "artwork",
+      "representation": "historical-artwork",
+      "title": {
+        "en": "News of Waterloo reaches Chelsea",
+        "zh": "滑铁卢捷报传到切尔西"
+      },
+      "alt": {
+        "en": "Veterans, women and children gather outside a public house as news is read.",
+        "zh": "退伍军人、妇女和儿童聚集在酒馆外听人宣读消息。"
+      },
+      "caption": {
+        "en": "John Burnet’s 1831 engraving after David Wilkie’s 1822 painting imagines Chelsea pensioners receiving news of Waterloo.",
+        "zh": "约翰·伯内特1831年依戴维·威尔基1822年画作制作的版画，描绘切尔西退伍军人听到滑铁卢战报的场面。"
+      },
+      "interpretation": {
+        "en": "Find the reader at the centre and follow the listeners’ reactions. Victory becomes a shared story through newspapers, gathering and conversation.",
+        "zh": "寻找中央的读报者，再观察听众的反应：胜利通过报纸、聚集与交谈成为共同的故事。"
+      },
+      "creator": "John Burnet after David Wilkie",
+      "date": "1831, after a painting of 1822",
+      "institution": "Wellcome Collection",
+      "sourceUrl": "https://wellcomecollection.org/works/wqwu4shh",
+      "imageUrl": "https://iiif.wellcomecollection.org/image/V0014720/full/!1000,1000/0/default.jpg",
+      "downloadedFrom": "https://iiif.wellcomecollection.org/image/V0014720/full/!1000,1000/0/default.jpg",
+      "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/wqwu4shh?include=items,production,contributors",
+      "rights": {
+        "label": "Public Domain Mark",
+        "url": "https://creativecommons.org/share-your-work/public-domain/pdm/",
+        "note": {
+          "en": "Wellcome Collection identifies this digital item with the Public Domain Mark. Credit: Wellcome Collection.",
+          "zh": "惠康收藏为此数字藏品标注公共领域标识。图像来源：惠康收藏。"
+        }
+      },
+      "transformation": {
+        "en": "Official IIIF derivative, downloaded unchanged; no local crop, retouching or recolouring.",
+        "zh": "下载官方IIIF衍生图像，未作本地裁剪、修饰或改色。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "The Battle of Waterloo",
+            "zh": "滑铁卢战役"
+          },
+          "url": "https://www.nam.ac.uk/explore/battle-waterloo"
+        }
+      ],
+      "width": 1000,
+      "height": 705,
+      "bytes": 250545,
+      "sha256": "5400d24638405f01cbf83756716b371363288c89f553b74a4568320f3319cfec",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "world-batch-09-xkff2t3q",
+      "file": "assets/history-media/world-batch-09-xkff2t3q.jpg",
+      "recordIds": [
+        "paris-commune-1871"
+      ],
+      "kind": "artwork",
+      "representation": "historical-artwork",
+      "title": {
+        "en": "A hostile British image of the Paris Commune",
+        "zh": "英国反对巴黎公社的讽刺画"
+      },
+      "alt": {
+        "en": "A horned figure appears amid flames, smoke and a long printed text.",
+        "zh": "有角的形象出现在火焰、烟雾和大段印刷文字之间。"
+      },
+      "caption": {
+        "en": "George Cruikshank’s hostile political etching about the Paris Commune, published in London in June 1871.",
+        "zh": "乔治·克鲁克香克反对巴黎公社的政治蚀刻画，1871年6月在伦敦出版。"
+      },
+      "interpretation": {
+        "en": "The demon and flames are the artist’s political accusation. Compare the image’s language of catastrophe with the accompanying printed argument.",
+        "zh": "恶魔与火焰表达画家的政治指控。比较画面中的灾难意象与旁边印刷文字的论述。"
+      },
+      "creator": "George Cruikshank",
+      "date": "June 1871",
+      "institution": "Wellcome Collection",
+      "sourceUrl": "https://wellcomecollection.org/works/xkff2t3q",
+      "imageUrl": "https://iiif.wellcomecollection.org/image/V0011991/full/!1000,1000/0/default.jpg",
+      "downloadedFrom": "https://iiif.wellcomecollection.org/image/V0011991/full/!1000,1000/0/default.jpg",
+      "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/xkff2t3q?include=items,production,contributors",
+      "rights": {
+        "label": "Public Domain Mark",
+        "url": "https://creativecommons.org/share-your-work/public-domain/pdm/",
+        "note": {
+          "en": "Wellcome Collection identifies this digital item with the Public Domain Mark. Credit: Wellcome Collection.",
+          "zh": "惠康收藏为此数字藏品标注公共领域标识。图像来源：惠康收藏。"
+        }
+      },
+      "transformation": {
+        "en": "Official IIIF derivative, downloaded unchanged; no local crop, retouching or recolouring.",
+        "zh": "下载官方IIIF衍生图像，未作本地裁剪、修饰或改色。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Le parcours: Les 72 jours de la Commune de Paris",
+            "zh": "巴黎卡纳瓦莱博物馆：巴黎公社72天"
+          },
+          "url": "https://www.carnavalet.paris.fr/le-nouveau-parcours"
+        }
+      ],
+      "width": 646,
+      "height": 1000,
+      "bytes": 325019,
+      "sha256": "318a12fbbef2790279aa956a69eb0087a52b05c52266953a66766c38f6307fb1",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "world-batch-09-hheyrprn",
+      "file": "assets/history-media/world-batch-09-hheyrprn.jpg",
+      "recordIds": [
+        "meiji-restoration"
+      ],
+      "kind": "artwork",
+      "representation": "historical-artwork",
+      "title": {
+        "en": "Tokyo bridges, traffic and a bank",
+        "zh": "东京的桥梁、交通与银行"
+      },
+      "alt": {
+        "en": "A colour woodblock sheet juxtaposes a crowded bridge with an ornate Western-style building.",
+        "zh": "彩色木版画把拥挤的桥面与华丽的西式建筑并置。"
+      },
+      "caption": {
+        "en": "A colour woodcut by Utagawa Kunisada II shows Tokyo traffic and the First National Bank; the collection dates it approximately to 1870.",
+        "zh": "歌川国贞二代的彩色木版画呈现东京交通与第一国立银行；馆藏将其约定为1870年。"
+      },
+      "interpretation": {
+        "en": "Compare the crowded bridge above with the mixed architectural styles below. The two views place everyday movement beside the institutions of early Meiji change.",
+        "zh": "比较上方拥挤的桥面与下方混合风格的建筑：两幅场景把日常流动与明治初期的新机构并置。"
+      },
+      "creator": "Utagawa Kunisada II",
+      "date": "Circa 1870, as catalogued",
+      "institution": "Wellcome Collection",
+      "sourceUrl": "https://wellcomecollection.org/works/hheyrprn",
+      "imageUrl": "https://iiif.wellcomecollection.org/image/V0047360ER/full/!1000,1000/0/default.jpg",
+      "downloadedFrom": "https://iiif.wellcomecollection.org/image/V0047360ER/full/!1000,1000/0/default.jpg",
+      "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/hheyrprn?include=items,production,contributors",
+      "rights": {
+        "label": "Public Domain Mark",
+        "url": "https://creativecommons.org/share-your-work/public-domain/pdm/",
+        "note": {
+          "en": "Wellcome Collection identifies this digital item with the Public Domain Mark. Credit: Wellcome Collection.",
+          "zh": "惠康收藏为此数字藏品标注公共领域标识。图像来源：惠康收藏。"
+        }
+      },
+      "transformation": {
+        "en": "Official IIIF derivative, downloaded unchanged; no local crop, retouching or recolouring.",
+        "zh": "下载官方IIIF衍生图像，未作本地裁剪、修饰或改色。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "The Charter Oath, 1868",
+            "zh": "五条誓文，1868年"
+          },
+          "url": "https://afe.easia.columbia.edu/main_pop/ps/ps_japan-charter-oath-1868.htm"
+        }
+      ],
+      "width": 700,
+      "height": 1000,
+      "bytes": 267622,
+      "sha256": "389be8fa1a5fd4382a8584dba717460342402f908ed8d257a00d0c4979ba447f",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "world-batch-09-gf5crxmv",
+      "file": "assets/history-media/world-batch-09-gf5crxmv.jpg",
+      "recordIds": [
+        "delhi-sultanate"
+      ],
+      "kind": "artwork",
+      "representation": "historical-artwork",
+      "title": {
+        "en": "Qutb Minar and its surrounding monuments",
+        "zh": "古特卜塔与周围遗迹"
+      },
+      "alt": {
+        "en": "A tall tapering minaret rises above ruins and a domed tomb in a broad landscape.",
+        "zh": "高耸渐细的尖塔立于遗迹和圆顶陵墓之间。"
+      },
+      "caption": {
+        "en": "Ghulam Ali Khan’s watercolour of Qutb Minar and neighbouring monuments, around 1820.",
+        "zh": "古拉姆·阿里·汗约1820年绘制的古特卜塔及邻近古迹水彩画。"
+      },
+      "interpretation": {
+        "en": "The tower dominates a landscape of ruins and tombs. Its nineteenth-century surroundings reveal how the Delhi Sultanate’s architecture remained visible long after its ruling houses had fallen.",
+        "zh": "高塔俯瞰遗迹与陵墓。19世纪的周边景观呈现德里苏丹国建筑在其统治家族消亡后仍然可见的遗产。"
+      },
+      "creator": "Ghulam Ali Khan",
+      "date": "Circa 1820",
+      "institution": "Wellcome Collection",
+      "sourceUrl": "https://wellcomecollection.org/works/gf5crxmv",
+      "imageUrl": "https://iiif.wellcomecollection.org/image/b15799438_0001.jp2/full/!1000,1000/0/default.jpg",
+      "downloadedFrom": "https://iiif.wellcomecollection.org/image/b15799438_0001.jp2/full/!1000,1000/0/default.jpg",
+      "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/gf5crxmv?include=items,production,contributors",
+      "rights": {
+        "label": "Public Domain Mark",
+        "url": "https://creativecommons.org/share-your-work/public-domain/pdm/",
+        "note": {
+          "en": "Wellcome Collection identifies this digital item with the Public Domain Mark. Credit: Wellcome Collection.",
+          "zh": "惠康收藏为此数字藏品标注公共领域标识。图像来源：惠康收藏。"
+        }
+      },
+      "transformation": {
+        "en": "Official IIIF derivative, downloaded unchanged; no local crop, retouching or recolouring.",
+        "zh": "下载官方IIIF衍生图像，未作本地裁剪、修饰或改色。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "The Indian Sultanates",
+            "zh": "印度诸苏丹国"
+          },
+          "url": "https://legacy.davidmus.dk/en/collections/islamic/dynasties/sultanates/art"
+        }
+      ],
+      "width": 1000,
+      "height": 749,
+      "bytes": 256312,
+      "sha256": "51feec4731a54733b1f97083429063a06795aec17f386ed524b402973af9718a",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "world-batch-09-zkgw8fsx",
+      "file": "assets/history-media/world-batch-09-zkgw8fsx.jpg",
+      "recordIds": [
+        "suez-canal-opening"
+      ],
+      "kind": "artwork",
+      "representation": "historical-artwork",
+      "title": {
+        "en": "Excavating the Suez Canal",
+        "zh": "苏伊士运河开凿工程"
+      },
+      "alt": {
+        "en": "Workers and equipment occupy a long excavated channel through an arid landscape.",
+        "zh": "工人与设备分布在穿过干旱地带的长形开挖河道中。"
+      },
+      "caption": {
+        "en": "Mason Jackson’s wood engraving of Suez Canal construction, around 1864, five years before the opening.",
+        "zh": "梅森·杰克逊约1864年制作的苏伊士运河施工木刻画，早于通航约五年。"
+      },
+      "interpretation": {
+        "en": "Trace the channel into the distance, then locate the workers and equipment. The small figures give a sense of the scale of the excavation.",
+        "zh": "沿河道望向远方，再寻找工人与设备：小小的人物衬托出开挖工程的规模。"
+      },
+      "creator": "Mason Jackson",
+      "date": "Circa 1864",
+      "institution": "Wellcome Collection",
+      "sourceUrl": "https://wellcomecollection.org/works/zkgw8fsx",
+      "imageUrl": "https://iiif.wellcomecollection.org/image/V0024392/full/!1000,1000/0/default.jpg",
+      "downloadedFrom": "https://iiif.wellcomecollection.org/image/V0024392/full/!1000,1000/0/default.jpg",
+      "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/zkgw8fsx?include=items,production,contributors",
+      "rights": {
+        "label": "Public Domain Mark",
+        "url": "https://creativecommons.org/share-your-work/public-domain/pdm/",
+        "note": {
+          "en": "Wellcome Collection identifies this digital item with the Public Domain Mark. Credit: Wellcome Collection.",
+          "zh": "惠康收藏为此数字藏品标注公共领域标识。图像来源：惠康收藏。"
+        }
+      },
+      "transformation": {
+        "en": "Official IIIF derivative, downloaded unchanged; no local crop, retouching or recolouring.",
+        "zh": "下载官方IIIF衍生图像，未作本地裁剪、修饰或改色。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Canal History",
+            "zh": "苏伊士运河史"
+          },
+          "url": "https://www.suezcanal.gov.eg/English/About/SuezCanal/Pages/CanalHistory.aspx"
+        }
+      ],
+      "width": 1000,
+      "height": 764,
+      "bytes": 339945,
+      "sha256": "f4926d46aafbadd9d8aca019327bdbcd5a9ed905c59093d2fadece3b2967826b",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "world-batch-09-hrjwe54r",
+      "file": "assets/history-media/world-batch-09-hrjwe54r.jpg",
+      "recordIds": [
+        "athens-acropolis"
+      ],
+      "kind": "photograph",
+      "representation": "historical-photograph",
+      "title": {
+        "en": "The Acropolis photographed around 1870",
+        "zh": "约1870年拍摄的雅典卫城"
+      },
+      "alt": {
+        "en": "Stone columns and walls stand above scattered blocks and broken architectural pieces.",
+        "zh": "石柱与墙体矗立于散落的石块和建筑残件之上。"
+      },
+      "caption": {
+        "en": "Petros Moraites photographed the Acropolis around 1870, including parts of the Propylaea and Temple of Athena Nike.",
+        "zh": "彼得罗斯·莫赖蒂斯约1870年拍摄雅典卫城，画面包含山门与雅典娜胜利神庙的部分遗迹。"
+      },
+      "interpretation": {
+        "en": "Standing columns and fallen blocks share the frame. Compare the monument’s surviving structure with the scattered stone in the foreground.",
+        "zh": "直立的柱子与倒落的石块同在画面中。比较遗迹保留下来的结构与前景散落的石材。"
+      },
+      "creator": "Petros Moraites",
+      "date": "Circa 1870",
+      "institution": "Wellcome Collection",
+      "sourceUrl": "https://wellcomecollection.org/works/hrjwe54r",
+      "imageUrl": "https://iiif.wellcomecollection.org/image/V0038671/full/!1000,1000/0/default.jpg",
+      "downloadedFrom": "https://iiif.wellcomecollection.org/image/V0038671/full/!1000,1000/0/default.jpg",
+      "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/hrjwe54r?include=items,production,contributors",
+      "rights": {
+        "label": "Public Domain Mark",
+        "url": "https://creativecommons.org/share-your-work/public-domain/pdm/",
+        "note": {
+          "en": "Wellcome Collection identifies this digital item with the Public Domain Mark. Credit: Wellcome Collection.",
+          "zh": "惠康收藏为此数字藏品标注公共领域标识。图像来源：惠康收藏。"
+        }
+      },
+      "transformation": {
+        "en": "Official IIIF derivative, downloaded unchanged; no local crop, retouching or recolouring.",
+        "zh": "下载官方IIIF衍生图像，未作本地裁剪、修饰或改色。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Acropolis, Athens",
+            "zh": "雅典卫城"
+          },
+          "url": "https://whc.unesco.org/en/list/404/"
+        }
+      ],
+      "width": 1000,
+      "height": 729,
+      "bytes": 330409,
+      "sha256": "f88fec9a0c2af2ed6846f560aa12373456938eb1746ce1a27998d0e56101eef4",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "world-batch-09-e236c678",
+      "file": "assets/history-media/world-batch-09-e236c678.jpg",
+      "recordIds": [
+        "rome-imperial-city"
+      ],
+      "kind": "artwork",
+      "representation": "historical-artwork",
+      "title": {
+        "en": "A later vision of the Baths of Diocletian",
+        "zh": "后世描绘的戴克里先浴场"
+      },
+      "alt": {
+        "en": "A coloured architectural view arranges a vast bath complex around gardens and courtyards.",
+        "zh": "彩色建筑图把庞大浴场建筑排列在花园和庭院周围。"
+      },
+      "caption": {
+        "en": "A coloured engraving of the Baths of Diocletian, around 1804–1811, presents a later architectural reconstruction.",
+        "zh": "约1804—1811年的戴克里先浴场彩色版画，以后世建筑复原图呈现古代浴场。"
+      },
+      "interpretation": {
+        "en": "The symmetrical plan organizes large halls, courtyards and colonnades. What does this bird’s-eye arrangement make easier to understand about an imperial public building?",
+        "zh": "对称布局组织起大厅、庭院与柱廊。这种鸟瞰式排列如何帮助理解帝国公共建筑？"
+      },
+      "creator": "Robert Edler von Spalart, as catalogued",
+      "date": "Circa 1804–1811",
+      "institution": "Wellcome Collection",
+      "sourceUrl": "https://wellcomecollection.org/works/e236c678",
+      "imageUrl": "https://iiif.wellcomecollection.org/image/L0047695/full/!1000,1000/0/default.jpg",
+      "downloadedFrom": "https://iiif.wellcomecollection.org/image/L0047695/full/!1000,1000/0/default.jpg",
+      "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/e236c678?include=items,production,contributors",
+      "rights": {
+        "label": "Public Domain Mark",
+        "url": "https://creativecommons.org/share-your-work/public-domain/pdm/",
+        "note": {
+          "en": "Wellcome Collection identifies this digital item with the Public Domain Mark. Credit: Wellcome Collection.",
+          "zh": "惠康收藏为此数字藏品标注公共领域标识。图像来源：惠康收藏。"
+        }
+      },
+      "transformation": {
+        "en": "Official IIIF derivative, downloaded unchanged; no local crop, retouching or recolouring.",
+        "zh": "下载官方IIIF衍生图像，未作本地裁剪、修饰或改色。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Historic Centre of Rome",
+            "zh": "罗马历史中心"
+          },
+          "url": "https://whc.unesco.org/en/list/91/"
+        }
+      ],
+      "width": 1000,
+      "height": 690,
+      "bytes": 190791,
+      "sha256": "3797f9423bee37100e95aa95d88adac4ab1a6187fa1d3e22bbec006605df4957",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "world-batch-09-eq64426u",
+      "file": "assets/history-media/world-batch-09-eq64426u.jpg",
+      "recordIds": [
+        "indian-rebellion-1857"
+      ],
+      "kind": "photograph",
+      "representation": "historical-photograph",
+      "title": {
+        "en": "Lucknow Residency after the rebellion",
+        "zh": "起义后的勒克瑙驻地"
+      },
+      "alt": {
+        "en": "A damaged multi-storey building stands amid rubble and bare ground.",
+        "zh": "受损的多层建筑矗立在瓦砾与裸露地面之间。"
+      },
+      "caption": {
+        "en": "Felice Beato’s photograph of the damaged Lucknow Residency, around 1858, after fighting during the Indian Rebellion.",
+        "zh": "费利切·比托约1858年拍摄的勒克瑙英国驻地，在印度起义战斗中受损。"
+      },
+      "interpretation": {
+        "en": "Look at the broken rooflines, exposed rooms and rubble. The photograph makes the fighting’s material aftermath visible within a colonial photographic record.",
+        "zh": "观察破损屋顶、外露房间与瓦砾：这张殖民时代照片记录了战斗留下的物质痕迹。"
+      },
+      "creator": "Felice Beato",
+      "date": "Circa 1858",
+      "institution": "Wellcome Collection",
+      "sourceUrl": "https://wellcomecollection.org/works/eq64426u",
+      "imageUrl": "https://iiif.wellcomecollection.org/image/V0037672/full/!1000,1000/0/default.jpg",
+      "downloadedFrom": "https://iiif.wellcomecollection.org/image/V0037672/full/!1000,1000/0/default.jpg",
+      "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/eq64426u?include=items,production,contributors",
+      "rights": {
+        "label": "Public Domain Mark",
+        "url": "https://creativecommons.org/share-your-work/public-domain/pdm/",
+        "note": {
+          "en": "Wellcome Collection identifies this digital item with the Public Domain Mark. Credit: Wellcome Collection.",
+          "zh": "惠康收藏为此数字藏品标注公共领域标识。图像来源：惠康收藏。"
+        }
+      },
+      "transformation": {
+        "en": "Official IIIF derivative, downloaded unchanged; no local crop, retouching or recolouring.",
+        "zh": "下载官方IIIF衍生图像，未作本地裁剪、修饰或改色。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Why did the Indian Rebellion happen?",
+            "zh": "印度起义为何发生？"
+          },
+          "url": "https://www.nam.ac.uk/explore/why-did-indian-mutiny-happen"
+        }
+      ],
+      "width": 1000,
+      "height": 837,
+      "bytes": 383913,
+      "sha256": "03c52d57d8839d787abd2cf0870b4e826d40691256b84e7dc2647b13717e101c",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "world-batch-09-xh96865n",
+      "file": "assets/history-media/world-batch-09-xh96865n.jpg",
+      "recordIds": [
+        "straits-settlements-formation"
+      ],
+      "kind": "artwork",
+      "representation": "historical-artwork",
+      "title": {
+        "en": "Sunset over Singapore harbour",
+        "zh": "新加坡港的日落"
+      },
+      "alt": {
+        "en": "Boats sit in a broad harbour beneath a warm evening sky.",
+        "zh": "船只停在温暖暮色笼罩的宽阔港湾中。"
+      },
+      "caption": {
+        "en": "J. Taylor’s 1879 watercolour shows Singapore harbour, one of the three ports grouped as the Straits Settlements in 1826.",
+        "zh": "J. 泰勒1879年的水彩画描绘新加坡港，它是1826年组成海峡殖民地的三个港口之一。"
+      },
+      "interpretation": {
+        "en": "Compare the low boats in the foreground with the taller masts offshore. The harbour gathers different kinds of vessels within one sheltered view.",
+        "zh": "比较前景的小船与近海高耸的桅杆：港湾把不同类型的船只汇集在同一幅景象中。"
+      },
+      "creator": "J. Taylor",
+      "date": "1879",
+      "institution": "Wellcome Collection",
+      "sourceUrl": "https://wellcomecollection.org/works/xh96865n",
+      "imageUrl": "https://iiif.wellcomecollection.org/image/V0037490/full/!1000,1000/0/default.jpg",
+      "downloadedFrom": "https://iiif.wellcomecollection.org/image/V0037490/full/!1000,1000/0/default.jpg",
+      "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/xh96865n?include=items,production,contributors",
+      "rights": {
+        "label": "Public Domain Mark",
+        "url": "https://creativecommons.org/share-your-work/public-domain/pdm/",
+        "note": {
+          "en": "Wellcome Collection identifies this digital item with the Public Domain Mark. Credit: Wellcome Collection.",
+          "zh": "惠康收藏为此数字藏品标注公共领域标识。图像来源：惠康收藏。"
+        }
+      },
+      "transformation": {
+        "en": "Official IIIF derivative, downloaded unchanged; no local crop, retouching or recolouring.",
+        "zh": "下载官方IIIF衍生图像，未作本地裁剪、修饰或改色。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Law of the Land: constitutional documents",
+            "zh": "国土之法：宪制文献"
+          },
+          "url": "https://corporate.nas.gov.sg/discover-archives/media/lawoftheland/"
+        }
+      ],
+      "width": 1000,
+      "height": 698,
+      "bytes": 306367,
+      "sha256": "b9a8ad3c7c937e29d3dfcf5efcd92474e21552e9d8f03ac48ff5d67384e60832",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "world-batch-09-n9vxe6at",
+      "file": "assets/history-media/world-batch-09-n9vxe6at.jpg",
+      "recordIds": [
+        "straits-settlements-formation"
+      ],
+      "kind": "artwork",
+      "representation": "historical-artwork",
+      "title": {
+        "en": "Chinese junks at Tanjong Katong",
+        "zh": "丹戎加东的中国帆船"
+      },
+      "alt": {
+        "en": "Junks with tall masts lie offshore under dark rain clouds.",
+        "zh": "高桅帆船停在近海，天空笼罩深色雨云。"
+      },
+      "caption": {
+        "en": "J. Taylor’s 1879 watercolour shows Chinese junks in the rain off Tanjong Katong, Singapore.",
+        "zh": "J. 泰勒1879年的水彩画，描绘新加坡丹戎加东近海雨中的中国帆船。"
+      },
+      "interpretation": {
+        "en": "Compare this rain-darkened coast with Taylor’s sunset harbour. Sails, weather and distance produce two different views of the same port city.",
+        "zh": "将这幅雨云笼罩的海岸与泰勒笔下的日落港湾对照：风帆、天气与距离构成同一港城的两种景象。"
+      },
+      "creator": "J. Taylor",
+      "date": "1879",
+      "institution": "Wellcome Collection",
+      "sourceUrl": "https://wellcomecollection.org/works/n9vxe6at",
+      "imageUrl": "https://iiif.wellcomecollection.org/image/V0037495/full/!1000,1000/0/default.jpg",
+      "downloadedFrom": "https://iiif.wellcomecollection.org/image/V0037495/full/!1000,1000/0/default.jpg",
+      "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/n9vxe6at?include=items,production,contributors",
+      "rights": {
+        "label": "Public Domain Mark",
+        "url": "https://creativecommons.org/share-your-work/public-domain/pdm/",
+        "note": {
+          "en": "Wellcome Collection identifies this digital item with the Public Domain Mark. Credit: Wellcome Collection.",
+          "zh": "惠康收藏为此数字藏品标注公共领域标识。图像来源：惠康收藏。"
+        }
+      },
+      "transformation": {
+        "en": "Official IIIF derivative, downloaded unchanged; no local crop, retouching or recolouring.",
+        "zh": "下载官方IIIF衍生图像，未作本地裁剪、修饰或改色。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Law of the Land: constitutional documents",
+            "zh": "国土之法：宪制文献"
+          },
+          "url": "https://corporate.nas.gov.sg/discover-archives/media/lawoftheland/"
+        }
+      ],
+      "width": 1000,
+      "height": 704,
+      "bytes": 313592,
+      "sha256": "b161827cb42dc52f001355d4f741ebfff843d11ad5a5ffc6abf7cf4341618a79",
+      "checkedAt": "2026-11-11"
+    }
+  ],
+  "associations": [
+    {
+      "assetId": "world-batch-09-ff2yehun",
+      "recordId": "venice-maritime",
+      "role": "depicts-subject",
+      "context": {
+        "en": "G. B. Brustoloni’s eighteenth-century etching after Canaletto shows Venice’s Grand Canal.",
+        "zh": "G. B. 布鲁斯托洛尼依卡纳莱托作品制作的18世纪蚀刻画，描绘威尼斯大运河。"
+      },
+      "evidenceUrl": "https://wellcomecollection.org/works/ff2yehun",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "world-batch-09-g6u2rykr",
+      "recordId": "ironbridge",
+      "role": "depicts-subject",
+      "context": {
+        "en": "An undated engraving of the iron bridge built at Coalbrookdale in 1779, with a structural diagram below.",
+        "zh": "科尔布鲁克代尔1779年建成铁桥的版画，下附结构图；版画年代与作者未详。"
+      },
+      "evidenceUrl": "https://wellcomecollection.org/works/g6u2rykr",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "world-batch-09-efusb37c",
+      "recordId": "french-revolution",
+      "role": "depicts-subject",
+      "context": {
+        "en": "An undated engraving after Henry Singleton depicts the storming of the Bastille on 14 July 1789.",
+        "zh": "依亨利·辛格尔顿作品制作的版画，描绘1789年7月14日攻占巴士底狱；刊刻年代未详。"
+      },
+      "evidenceUrl": "https://wellcomecollection.org/works/efusb37c",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "world-batch-09-wqwu4shh",
+      "recordId": "waterloo",
+      "role": "historical-context",
+      "context": {
+        "en": "John Burnet’s 1831 engraving after David Wilkie’s 1822 painting imagines Chelsea pensioners receiving news of Waterloo.",
+        "zh": "约翰·伯内特1831年依戴维·威尔基1822年画作制作的版画，描绘切尔西退伍军人听到滑铁卢战报的场面。"
+      },
+      "evidenceUrl": "https://wellcomecollection.org/works/wqwu4shh",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "world-batch-09-xkff2t3q",
+      "recordId": "paris-commune-1871",
+      "role": "historical-context",
+      "context": {
+        "en": "George Cruikshank’s hostile political etching about the Paris Commune, published in London in June 1871.",
+        "zh": "乔治·克鲁克香克反对巴黎公社的政治蚀刻画，1871年6月在伦敦出版。"
+      },
+      "evidenceUrl": "https://wellcomecollection.org/works/xkff2t3q",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "world-batch-09-hheyrprn",
+      "recordId": "meiji-restoration",
+      "role": "historical-context",
+      "context": {
+        "en": "A colour woodcut by Utagawa Kunisada II shows Tokyo traffic and the First National Bank; the collection dates it approximately to 1870.",
+        "zh": "歌川国贞二代的彩色木版画呈现东京交通与第一国立银行；馆藏将其约定为1870年。"
+      },
+      "evidenceUrl": "https://wellcomecollection.org/works/hheyrprn",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "world-batch-09-gf5crxmv",
+      "recordId": "delhi-sultanate",
+      "role": "depicts-subject",
+      "context": {
+        "en": "Ghulam Ali Khan’s watercolour of Qutb Minar and neighbouring monuments, around 1820.",
+        "zh": "古拉姆·阿里·汗约1820年绘制的古特卜塔及邻近古迹水彩画。"
+      },
+      "evidenceUrl": "https://wellcomecollection.org/works/gf5crxmv",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "world-batch-09-zkgw8fsx",
+      "recordId": "suez-canal-opening",
+      "role": "depicts-subject",
+      "context": {
+        "en": "Mason Jackson’s wood engraving of Suez Canal construction, around 1864, five years before the opening.",
+        "zh": "梅森·杰克逊约1864年制作的苏伊士运河施工木刻画，早于通航约五年。"
+      },
+      "evidenceUrl": "https://wellcomecollection.org/works/zkgw8fsx",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "world-batch-09-hrjwe54r",
+      "recordId": "athens-acropolis",
+      "role": "depicts-subject",
+      "context": {
+        "en": "Petros Moraites photographed the Acropolis around 1870, including parts of the Propylaea and Temple of Athena Nike.",
+        "zh": "彼得罗斯·莫赖蒂斯约1870年拍摄雅典卫城，画面包含山门与雅典娜胜利神庙的部分遗迹。"
+      },
+      "evidenceUrl": "https://wellcomecollection.org/works/hrjwe54r",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "world-batch-09-e236c678",
+      "recordId": "rome-imperial-city",
+      "role": "depicts-subject",
+      "context": {
+        "en": "A coloured engraving of the Baths of Diocletian, around 1804–1811, presents a later architectural reconstruction.",
+        "zh": "约1804—1811年的戴克里先浴场彩色版画，以后世建筑复原图呈现古代浴场。"
+      },
+      "evidenceUrl": "https://wellcomecollection.org/works/e236c678",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "world-batch-09-eq64426u",
+      "recordId": "indian-rebellion-1857",
+      "role": "depicts-subject",
+      "context": {
+        "en": "Felice Beato’s photograph of the damaged Lucknow Residency, around 1858, after fighting during the Indian Rebellion.",
+        "zh": "费利切·比托约1858年拍摄的勒克瑙英国驻地，在印度起义战斗中受损。"
+      },
+      "evidenceUrl": "https://wellcomecollection.org/works/eq64426u",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "world-batch-09-xh96865n",
+      "recordId": "straits-settlements-formation",
+      "role": "historical-context",
+      "context": {
+        "en": "J. Taylor’s 1879 watercolour shows Singapore harbour, one of the three ports grouped as the Straits Settlements in 1826.",
+        "zh": "J. 泰勒1879年的水彩画描绘新加坡港，它是1826年组成海峡殖民地的三个港口之一。"
+      },
+      "evidenceUrl": "https://wellcomecollection.org/works/xh96865n",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "world-batch-09-n9vxe6at",
+      "recordId": "straits-settlements-formation",
+      "role": "historical-context",
+      "context": {
+        "en": "J. Taylor’s 1879 watercolour shows Chinese junks in the rain off Tanjong Katong, Singapore.",
+        "zh": "J. 泰勒1879年的水彩画，描绘新加坡丹戎加东近海雨中的中国帆船。"
+      },
+      "evidenceUrl": "https://wellcomecollection.org/works/n9vxe6at",
+      "checkedAt": "2026-11-11"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 # Historical images: credits and reuse
 
-Reviewed 2026-11-11. 295 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
+Reviewed 2026-11-11. 308 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
 
 Historical artifacts, surviving places and later depictions retain their source identities. No generated reconstructions are included in this catalogue.
 
@@ -4133,3 +4133,185 @@ Museum-provided web derivative saved without local visual edits.
 Cleveland Museum of Art, CC0. Accession 1996.350.
 
 Museum-provided 640-pixel displayed derivative saved without local visual edits.
+
+## Venice’s Grand Canal / 威尼斯大运河
+
+- File: world-batch-09-ff2yehun.jpg
+- Creator: G. B. Brustoloni after Canaletto
+- Date: 18th century
+- Collection: Wellcome Collection
+- Source: https://wellcomecollection.org/works/ff2yehun
+- Rights: Public Domain Mark (https://creativecommons.org/share-your-work/public-domain/pdm/)
+- Rights evidence: https://api.wellcomecollection.org/catalogue/v2/works/ff2yehun?include=items,production,contributors
+
+Wellcome Collection identifies this digital item with the Public Domain Mark. Credit: Wellcome Collection.
+
+Official IIIF derivative, downloaded unchanged; no local crop, retouching or recolouring.
+
+## The iron bridge at Coalbrookdale / 科尔布鲁克代尔铁桥
+
+- File: world-batch-09-g6u2rykr.jpg
+- Creator: Unidentified engraver
+- Date: Undated; depicts the bridge built in 1779
+- Collection: Wellcome Collection
+- Source: https://wellcomecollection.org/works/g6u2rykr
+- Rights: Public Domain Mark (https://creativecommons.org/share-your-work/public-domain/pdm/)
+- Rights evidence: https://api.wellcomecollection.org/catalogue/v2/works/g6u2rykr?include=items,production,contributors
+
+Wellcome Collection identifies this digital item with the Public Domain Mark. Credit: Wellcome Collection.
+
+Official IIIF derivative, downloaded unchanged; no local crop, retouching or recolouring.
+
+## The storming of the Bastille, after Singleton / 依辛格尔顿作品制作的攻占巴士底狱版画
+
+- File: world-batch-09-efusb37c.jpg
+- Creator: Unidentified engraver after Henry Singleton
+- Date: Undated; depicts 14 July 1789
+- Collection: Wellcome Collection
+- Source: https://wellcomecollection.org/works/efusb37c
+- Rights: Public Domain Mark (https://creativecommons.org/share-your-work/public-domain/pdm/)
+- Rights evidence: https://api.wellcomecollection.org/catalogue/v2/works/efusb37c?include=items,production,contributors
+
+Wellcome Collection identifies this digital item with the Public Domain Mark. Credit: Wellcome Collection.
+
+Official IIIF derivative, downloaded unchanged; no local crop, retouching or recolouring.
+
+## News of Waterloo reaches Chelsea / 滑铁卢捷报传到切尔西
+
+- File: world-batch-09-wqwu4shh.jpg
+- Creator: John Burnet after David Wilkie
+- Date: 1831, after a painting of 1822
+- Collection: Wellcome Collection
+- Source: https://wellcomecollection.org/works/wqwu4shh
+- Rights: Public Domain Mark (https://creativecommons.org/share-your-work/public-domain/pdm/)
+- Rights evidence: https://api.wellcomecollection.org/catalogue/v2/works/wqwu4shh?include=items,production,contributors
+
+Wellcome Collection identifies this digital item with the Public Domain Mark. Credit: Wellcome Collection.
+
+Official IIIF derivative, downloaded unchanged; no local crop, retouching or recolouring.
+
+## A hostile British image of the Paris Commune / 英国反对巴黎公社的讽刺画
+
+- File: world-batch-09-xkff2t3q.jpg
+- Creator: George Cruikshank
+- Date: June 1871
+- Collection: Wellcome Collection
+- Source: https://wellcomecollection.org/works/xkff2t3q
+- Rights: Public Domain Mark (https://creativecommons.org/share-your-work/public-domain/pdm/)
+- Rights evidence: https://api.wellcomecollection.org/catalogue/v2/works/xkff2t3q?include=items,production,contributors
+
+Wellcome Collection identifies this digital item with the Public Domain Mark. Credit: Wellcome Collection.
+
+Official IIIF derivative, downloaded unchanged; no local crop, retouching or recolouring.
+
+## Tokyo bridges, traffic and a bank / 东京的桥梁、交通与银行
+
+- File: world-batch-09-hheyrprn.jpg
+- Creator: Utagawa Kunisada II
+- Date: Circa 1870, as catalogued
+- Collection: Wellcome Collection
+- Source: https://wellcomecollection.org/works/hheyrprn
+- Rights: Public Domain Mark (https://creativecommons.org/share-your-work/public-domain/pdm/)
+- Rights evidence: https://api.wellcomecollection.org/catalogue/v2/works/hheyrprn?include=items,production,contributors
+
+Wellcome Collection identifies this digital item with the Public Domain Mark. Credit: Wellcome Collection.
+
+Official IIIF derivative, downloaded unchanged; no local crop, retouching or recolouring.
+
+## Qutb Minar and its surrounding monuments / 古特卜塔与周围遗迹
+
+- File: world-batch-09-gf5crxmv.jpg
+- Creator: Ghulam Ali Khan
+- Date: Circa 1820
+- Collection: Wellcome Collection
+- Source: https://wellcomecollection.org/works/gf5crxmv
+- Rights: Public Domain Mark (https://creativecommons.org/share-your-work/public-domain/pdm/)
+- Rights evidence: https://api.wellcomecollection.org/catalogue/v2/works/gf5crxmv?include=items,production,contributors
+
+Wellcome Collection identifies this digital item with the Public Domain Mark. Credit: Wellcome Collection.
+
+Official IIIF derivative, downloaded unchanged; no local crop, retouching or recolouring.
+
+## Excavating the Suez Canal / 苏伊士运河开凿工程
+
+- File: world-batch-09-zkgw8fsx.jpg
+- Creator: Mason Jackson
+- Date: Circa 1864
+- Collection: Wellcome Collection
+- Source: https://wellcomecollection.org/works/zkgw8fsx
+- Rights: Public Domain Mark (https://creativecommons.org/share-your-work/public-domain/pdm/)
+- Rights evidence: https://api.wellcomecollection.org/catalogue/v2/works/zkgw8fsx?include=items,production,contributors
+
+Wellcome Collection identifies this digital item with the Public Domain Mark. Credit: Wellcome Collection.
+
+Official IIIF derivative, downloaded unchanged; no local crop, retouching or recolouring.
+
+## The Acropolis photographed around 1870 / 约1870年拍摄的雅典卫城
+
+- File: world-batch-09-hrjwe54r.jpg
+- Creator: Petros Moraites
+- Date: Circa 1870
+- Collection: Wellcome Collection
+- Source: https://wellcomecollection.org/works/hrjwe54r
+- Rights: Public Domain Mark (https://creativecommons.org/share-your-work/public-domain/pdm/)
+- Rights evidence: https://api.wellcomecollection.org/catalogue/v2/works/hrjwe54r?include=items,production,contributors
+
+Wellcome Collection identifies this digital item with the Public Domain Mark. Credit: Wellcome Collection.
+
+Official IIIF derivative, downloaded unchanged; no local crop, retouching or recolouring.
+
+## A later vision of the Baths of Diocletian / 后世描绘的戴克里先浴场
+
+- File: world-batch-09-e236c678.jpg
+- Creator: Robert Edler von Spalart, as catalogued
+- Date: Circa 1804–1811
+- Collection: Wellcome Collection
+- Source: https://wellcomecollection.org/works/e236c678
+- Rights: Public Domain Mark (https://creativecommons.org/share-your-work/public-domain/pdm/)
+- Rights evidence: https://api.wellcomecollection.org/catalogue/v2/works/e236c678?include=items,production,contributors
+
+Wellcome Collection identifies this digital item with the Public Domain Mark. Credit: Wellcome Collection.
+
+Official IIIF derivative, downloaded unchanged; no local crop, retouching or recolouring.
+
+## Lucknow Residency after the rebellion / 起义后的勒克瑙驻地
+
+- File: world-batch-09-eq64426u.jpg
+- Creator: Felice Beato
+- Date: Circa 1858
+- Collection: Wellcome Collection
+- Source: https://wellcomecollection.org/works/eq64426u
+- Rights: Public Domain Mark (https://creativecommons.org/share-your-work/public-domain/pdm/)
+- Rights evidence: https://api.wellcomecollection.org/catalogue/v2/works/eq64426u?include=items,production,contributors
+
+Wellcome Collection identifies this digital item with the Public Domain Mark. Credit: Wellcome Collection.
+
+Official IIIF derivative, downloaded unchanged; no local crop, retouching or recolouring.
+
+## Sunset over Singapore harbour / 新加坡港的日落
+
+- File: world-batch-09-xh96865n.jpg
+- Creator: J. Taylor
+- Date: 1879
+- Collection: Wellcome Collection
+- Source: https://wellcomecollection.org/works/xh96865n
+- Rights: Public Domain Mark (https://creativecommons.org/share-your-work/public-domain/pdm/)
+- Rights evidence: https://api.wellcomecollection.org/catalogue/v2/works/xh96865n?include=items,production,contributors
+
+Wellcome Collection identifies this digital item with the Public Domain Mark. Credit: Wellcome Collection.
+
+Official IIIF derivative, downloaded unchanged; no local crop, retouching or recolouring.
+
+## Chinese junks at Tanjong Katong / 丹戎加东的中国帆船
+
+- File: world-batch-09-n9vxe6at.jpg
+- Creator: J. Taylor
+- Date: 1879
+- Collection: Wellcome Collection
+- Source: https://wellcomecollection.org/works/n9vxe6at
+- Rights: Public Domain Mark (https://creativecommons.org/share-your-work/public-domain/pdm/)
+- Rights evidence: https://api.wellcomecollection.org/catalogue/v2/works/n9vxe6at?include=items,production,contributors
+
+Wellcome Collection identifies this digital item with the Public Domain Mark. Credit: Wellcome Collection.
+
+Official IIIF derivative, downloaded unchanged; no local crop, retouching or recolouring.
