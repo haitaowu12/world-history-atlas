@@ -1,0 +1,24 @@
+/* Keep chronology controls readable beside the existing nonuniform time scale. */
+.timeline .time-buttons #play { width:58px; min-width:58px; font-size:12px; font-weight:600; }
+.playback-pace { display:flex; align-items:center; }
+.playback-pace select { width:58px; min-height:36px; padding:5px; border:1px solid var(--line); border-radius:4px; background:var(--panel); color:var(--ink); font-size:12px; }
+.timeline-context { display:flex; flex-wrap:wrap; justify-content:flex-end; column-gap:8px; margin-left:auto; font-size:11px; }
+.timeline-bottom #timeline-label { display:block; color:var(--ink); font-size:11px; font-variant-numeric:tabular-nums; }
+#timeline-scale-note { color:var(--muted); }
+.time-buttons button { transition:background-color 140ms ease, color 140ms ease; }
+.time-buttons button:active:not(:disabled) { background:var(--surface-selected); color:var(--accent); }
+@media(max-width:900px) {
+ .playback-pace select { min-height:40px; }
+ .timeline-bottom { flex-wrap:wrap; }
+ .timeline-bottom #timeline-label { font-size:11px; }
+ .timeline { height:auto; min-height:128px; padding-bottom:6px; }
+}
+@media(max-width:550px) {
+ .timeline-main { gap:8px; }
+ .timeline .time-buttons #play { width:49px; min-width:49px; }
+ .playback-pace select { width:48px; padding:4px 1px; font-size:11px; }
+ .timeline .time-buttons { gap:2px; }
+ .timeline-bottom { column-gap:12px; }
+ .timeline-context { flex:1 1 auto; }
+}
+@media(prefers-reduced-motion:reduce) { .time-buttons button { transition:none; } }
