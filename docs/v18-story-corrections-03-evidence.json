@@ -1,0 +1,1849 @@
+{
+  "reviewedAt": "2026-11-11",
+  "admittedIds": [
+    "china-landmark-335",
+    "china-landmark-291",
+    "china-event-xihan-001",
+    "china-event-xihan-010",
+    "china-landmark-519",
+    "china-event-zhanguo-016",
+    "china-landmark-276",
+    "china-event-qing-003",
+    "china-landmark-108",
+    "china-landmark-478",
+    "china-landmark-343"
+  ],
+  "explicitChronologyChange": {
+    "recordId": "china-landmark-343",
+    "before": 495,
+    "after": 493,
+    "precision": "approximately",
+    "sources": [
+      "https://whc.unesco.org/document/1076",
+      "https://english.henan.gov.cn/2020/06-06/1545766.html"
+    ]
+  },
+  "heldIds": [
+    "china-landmark-279",
+    "china-landmark-356",
+    "china-landmark-526"
+  ],
+  "evidence": [
+    {
+      "key": "xie",
+      "title": "Jinshu 79 — Xie An",
+      "url": "https://zh.wikisource.org/wiki/晉書/卷079",
+      "publisher": "Jinshu; Wikisource transcription",
+      "checkedAt": "2026-11-11",
+      "evidenceNote": "Forty-plus describes age; the following paragraph records service as Huan Wen’s sima.",
+      "retrieval": "Previously retained source read locally.",
+      "exactQuote": "及萬黜廢，安始有仕進志，時年已四十餘矣。",
+      "passage": "Xie An biography",
+      "receipt": "research/v18/china-batch-06/jinshu79-primary.txt"
+    },
+    {
+      "key": "xiedate",
+      "title": "Tongjian zonglei 15, second half — Xie An",
+      "url": "https://zh.wikisource.org/zh-hant/通鑑總類_(四庫全書本)/卷15下",
+      "publisher": "Shen Shu; Wikisource transcription",
+      "checkedAt": "2026-11-11",
+      "evidenceNote": "Places the episode in Shengping 4 (360); corroborates age over forty and Huan Wen appointment.",
+      "retrieval": "Search excerpt supports Shengping 4. Page open succeeded, but exact-phrase find did not locate the passage; retain this limitation.",
+      "exactQuote": "升平四年謝安少有重名",
+      "passage": "Xie An enters office",
+      "receipt": "web-receipt-4.json (search excerpt); web-receipt-7.json (page read)"
+    },
+    {
+      "key": "liu",
+      "title": "Shiji 8 — Gaozu",
+      "url": "https://zh.wikisource.org/wiki/史記/卷008",
+      "publisher": "Sima Qian; Wikisource transcription",
+      "checkedAt": "2026-11-11",
+      "evidenceNote": "Supports Pei uprising, followers, Gaixia coalition victory, accession and move west; snake episode is a supernatural legitimating story.",
+      "retrieval": "Previously retained source read locally.",
+      "exactQuote": "乃立季為沛公",
+      "passage": "Qin Ershi 1; Han year 5",
+      "receipt": "research/v18/china-batch-06/shiji8-primary.txt",
+      "supportingQuotes": [
+        "秦二世元年秋，陳勝等起蘄",
+        "於是少年豪吏如蕭、曹、樊噲等皆為收沛子弟二三千人",
+        "高祖與諸侯兵共擊楚軍，與項羽決勝垓下",
+        "甲午，乃即皇帝位汜水之陽",
+        "高祖是日駕，入都關中"
+      ]
+    },
+    {
+      "key": "huo",
+      "title": "Shiji 111 — Wei Qing and Huo Qubing",
+      "url": "https://zh.wikisource.org/wiki/史記/卷111",
+      "publisher": "Sima Qian; Wikisource transcription",
+      "checkedAt": "2026-11-11",
+      "evidenceNote": "Supports 121 BCE campaigns and 117 BCE death and mountain-shaped tomb; does not establish cause/place of death or modern completed-year age.",
+      "retrieval": "Previously retained source read locally.",
+      "exactQuote": "元狩二年",
+      "passage": "Huo Qubing section; spring/summer campaigns and Yuanshou 6 death",
+      "receipt": "research/v18/china-batch-06/shiji111-primary.txt",
+      "supportingQuotes": [
+        "元狩二年",
+        "其夏，驃騎將軍與合騎侯敖俱出北地",
+        "元狩六年",
+        "陳自長安至茂陵，為冢象祁連山"
+      ]
+    },
+    {
+      "key": "bai",
+      "title": "Shiji 73 — Bai Qi",
+      "url": "https://zh.wikisource.org/wiki/史記/卷073",
+      "publisher": "Sima Qian; Wikisource transcription",
+      "checkedAt": "2026-11-11",
+      "evidenceNote": "Yique 240,000 and Changping 400,000 are transmitted reported totals; supports battle narratives and regnal chronology.",
+      "retrieval": "Targeted source read through web connector; receipt retained.",
+      "exactQuote": "攻韓、魏於伊闕，斬首二十四萬",
+      "passage": "Bai Qi; Qin Zhaowang years 14 and 47",
+      "receipt": "web-receipt-7.json",
+      "supportingQuotes": [
+        "其明年，白起為左更，攻韓、魏於伊闕，斬首二十四萬",
+        "括軍敗，卒四十萬人降武安君",
+        "遺其小者二百四十人歸趙"
+      ]
+    },
+    {
+      "key": "limu",
+      "title": "Shiji 81 — Li Mu",
+      "url": "https://zh.wikisource.org/wiki/史記/卷081",
+      "publisher": "Sima Qian; Wikisource transcription",
+      "checkedAt": "2026-11-11",
+      "evidenceNote": "Reports border defence and more than 100,000 cavalry killed; gives no exact year for this campaign and no one-day duration.",
+      "retrieval": "Targeted source read through web connector; receipt retained.",
+      "exactQuote": "常居代鴈門，備匈奴。",
+      "passage": "Li Mu biography",
+      "receipt": "web-receipt-2.json",
+      "supportingQuotes": [
+        "大破殺匈奴十餘萬騎",
+        "趙悼襄王元年，廉頗既亡入魏，趙使李牧攻燕"
+      ]
+    },
+    {
+      "key": "zheng",
+      "title": "Pre-Qing forestry in Taiwan — Zheng period",
+      "url": "https://www.forest.gov.tw/0001242",
+      "publisher": "Forestry and Nature Conservation Agency, Taiwan",
+      "checkedAt": "2026-11-11",
+      "evidenceNote": "Distinguishes 1661 arrival, early 1662 Dutch defeat, and 1664 Dongning name under Zheng Jing; surrounding older framing is not adopted.",
+      "retrieval": "Targeted source read through web connector; receipt retained.",
+      "exactQuote": "鄭經改東都為東寧",
+      "passage": "Zheng administration paragraph",
+      "receipt": "web-receipt-3.json"
+    },
+    {
+      "key": "wang",
+      "title": "Wang Yuanqi — Wangchuan Villa, 1711 (1977.80)",
+      "url": "https://www.metmuseum.org/art/collection/search/49187",
+      "publisher": "Metropolitan Museum of Art",
+      "checkedAt": "2026-11-11",
+      "evidenceNote": "Supports Wang Wei’s retreat and poetic legacy; 1711 belongs to Wang Yuanqi’s painting, not the estate or poems. No precise 750 purchase date.",
+      "retrieval": "Previously retained source read locally.",
+      "exactQuote": "The rambling estate with spectacular scenery was the retreat of the poet, musician, and landscape painter Wang Wei",
+      "passage": "Object description",
+      "receipt": "research/v18/china-batch-06/wangwei-object.txt"
+    },
+    {
+      "key": "long",
+      "title": "Longmen Grottoes — ICOMOS evaluation 2000",
+      "url": "https://whc.unesco.org/document/1076",
+      "publisher": "ICOMOS / UNESCO World Heritage Centre",
+      "checkedAt": "2026-11-11",
+      "evidenceNote": "Supports initial carving chronology 493 and the later Xuanwu/Binyang memorial programme.",
+      "retrieval": "Targeted source read through web connector; receipt retained.",
+      "exactQuote": "Work began on the Longmen Grottoes in 493",
+      "passage": "PDF page 74 (zero-based P73), printed page 66",
+      "receipt": "web-receipt-6.json"
+    },
+    {
+      "key": "longapprox",
+      "title": "Longmen Grottoes, Luoyang",
+      "url": "https://english.henan.gov.cn/2020/06-06/1545766.html",
+      "publisher": "People’s Government of Henan Province",
+      "checkedAt": "2026-11-11",
+      "evidenceNote": "Supports approximate rather than exact-day dating of the beginning.",
+      "retrieval": "Targeted source read through web connector; receipt retained.",
+      "exactQuote": "Work started on the grottoes around the year 493",
+      "passage": "Historical description",
+      "receipt": "web-receipt-5.json"
+    },
+    {
+      "key": "relief",
+      "title": "Emperor Xiaowen and entourage (35.146)",
+      "url": "https://www.metmuseum.org/art/collection/search/42707",
+      "publisher": "Metropolitan Museum of Art",
+      "checkedAt": "2026-11-11",
+      "evidenceNote": "Relief is a posthumous memorial to Xiaowen commissioned under Xuanwu, not the founding campaign.",
+      "retrieval": "Previously retained source read locally.",
+      "exactQuote": "ca. 522–23",
+      "passage": "Object date and Central Binyang Cave description",
+      "receipt": "research/v18/china-batch-06/xiaowendi-object.txt"
+    },
+    {
+      "key": "liyu",
+      "title": "The Formation of a Tragic Story: The Death of Li Yu and Related Legends",
+      "url": "https://homepage.ntu.edu.tw/~bcla/e_book/102/10202.pdf",
+      "publisher": "National Taiwan University; Fang Cheng-hua",
+      "checkedAt": "2026-11-11",
+      "evidenceNote": "Supports 978 death at capital residence; identifies divergent early records and much later poisoning story, so Qixi-performance-death chain cannot be treated as certain.",
+      "retrieval": "Targeted source read through web connector; receipt retained.",
+      "exactQuote": "太平興國三年秋七月八日遘疾，薨于京師里之第。",
+      "passage": "PDF page 3, quotation of Xu Xuan’s epitaph; pages 3–4 compare dating",
+      "receipt": "web-receipt-5.json"
+    },
+    {
+      "key": "liyuold",
+      "title": "Xin Wudai shi 62 — Li Yu",
+      "url": "https://zh.wikisource.org/wiki/新五代史/卷62",
+      "publisher": "Ouyang Xiu; Wikisource transcription",
+      "checkedAt": "2026-11-11",
+      "evidenceNote": "Supports captivity at Song capital after Southern Tang’s fall; explicitly refers later history elsewhere, not a source for Qixi death.",
+      "retrieval": "Previously retained source read locally.",
+      "exactQuote": "九年，煜俘至京師",
+      "passage": "Li Yu section",
+      "receipt": "research/v18/china-batch-06/xinwudai62-primary.txt"
+    },
+    {
+      "key": "gu",
+      "title": "Night Revels of Han Xizai (新00147326)",
+      "url": "https://www.dpm.org.cn/collection/paint/228200.html",
+      "publisher": "Palace Museum, Beijing",
+      "checkedAt": "2026-11-11",
+      "evidenceNote": "Identifies surviving work as Song copy and distinguishes two transmitted commission explanations.",
+      "retrieval": "Targeted source read through web connector; receipt retained.",
+      "exactQuote": "顾闳中作 (宋摹本)",
+      "passage": "Object description, lines 166–169",
+      "receipt": "web-receipt-3.json",
+      "supportingQuotes": [
+        "顾闳中作 (宋摹本)",
+        "关于《韩熙载夜宴图》的创作缘由，有两种说法"
+      ]
+    },
+    {
+      "key": "gudate",
+      "title": "The Story of Night Revels of Han Xizai",
+      "url": "https://www.dpm.org.cn/journal_detail/261914.html",
+      "publisher": "Palace Museum, Beijing",
+      "checkedAt": "2026-11-11",
+      "evidenceNote": "Provisional approximate story interval 961–967; full page extraction did not expose this text. Do not treat as verified exact commission date.",
+      "retrieval": "Targeted source read through web connector; receipt retained.",
+      "exactQuote": "故事大致发生于961-967年",
+      "passage": "Publication synopsis, search excerpt only",
+      "receipt": "web-receipt-4.json"
+    },
+    {
+      "key": "wei",
+      "title": "Weishu 2 — Tianxing 1",
+      "url": "https://zh.wikisource.org/wiki/魏書/卷2",
+      "publisher": "Wei Shou; Wikisource transcription",
+      "checkedAt": "2026-11-11",
+      "evidenceNote": "Supports 398 move and construction of capital institutions, not Yungang.",
+      "retrieval": "Targeted source read through web connector; receipt retained.",
+      "exactQuote": "秋七月，遷都平城，始營宮室，建宗廟，立社稷。",
+      "passage": "Tianxing 1, seventh lunar month",
+      "receipt": "web-receipt-2.json"
+    },
+    {
+      "key": "yun",
+      "title": "Yungang Grottoes",
+      "url": "https://whc.unesco.org/en/list/1039/",
+      "publisher": "UNESCO World Heritage Centre",
+      "checkedAt": "2026-11-11",
+      "evidenceNote": "Supports mid-fifth-century cave foundation and Tanyao’s five caves, separate from Tuoba Gui’s 398 move.",
+      "retrieval": "Targeted source read through web connector; receipt retained.",
+      "exactQuote": "The Five Caves created by Tan Yao",
+      "passage": "Outstanding Universal Value, brief synthesis; preceding sentence dates carving mid-fifth to early-sixth century.",
+      "receipt": "web-receipt-2.json"
+    }
+  ],
+  "decisions": [
+    {
+      "id": "china-landmark-335",
+      "status": "ready",
+      "numericBefore": {
+        "start": 360,
+        "end": 360
+      },
+      "numericProposed": {
+        "start": 360,
+        "end": 360
+      },
+      "coordinatesUnchanged": true,
+      "decision": "Retain focal-event year and representative coordinates."
+    },
+    {
+      "id": "china-landmark-291",
+      "status": "ready",
+      "numericBefore": {
+        "start": -209,
+        "end": -209
+      },
+      "numericProposed": {
+        "start": -209,
+        "end": -209
+      },
+      "coordinatesUnchanged": true,
+      "decision": "Retain focal-event year and representative coordinates."
+    },
+    {
+      "id": "china-event-xihan-001",
+      "status": "ready",
+      "numericBefore": {
+        "start": -202,
+        "end": -202
+      },
+      "numericProposed": {
+        "start": -202,
+        "end": -202
+      },
+      "coordinatesUnchanged": true,
+      "decision": "Retain focal-event year and representative coordinates."
+    },
+    {
+      "id": "china-event-xihan-010",
+      "status": "ready",
+      "numericBefore": {
+        "start": -121,
+        "end": -121
+      },
+      "numericProposed": {
+        "start": -121,
+        "end": -121
+      },
+      "coordinatesUnchanged": true,
+      "decision": "Retain focal-event year and representative coordinates."
+    },
+    {
+      "id": "china-landmark-519",
+      "status": "ready",
+      "numericBefore": {
+        "start": -117,
+        "end": -117
+      },
+      "numericProposed": {
+        "start": -117,
+        "end": -117
+      },
+      "coordinatesUnchanged": true,
+      "decision": "Retain focal-event year and representative coordinates."
+    },
+    {
+      "id": "china-event-zhanguo-016",
+      "status": "ready",
+      "numericBefore": {
+        "start": -260,
+        "end": -260
+      },
+      "numericProposed": {
+        "start": -260,
+        "end": -260
+      },
+      "coordinatesUnchanged": true,
+      "decision": "Retain focal-event year and representative coordinates."
+    },
+    {
+      "id": "china-landmark-276",
+      "status": "ready",
+      "numericBefore": {
+        "start": -293,
+        "end": -293
+      },
+      "numericProposed": {
+        "start": -293,
+        "end": -293
+      },
+      "coordinatesUnchanged": true,
+      "decision": "Retain focal-event year and representative coordinates."
+    },
+    {
+      "id": "china-landmark-279",
+      "status": "hold-chronology",
+      "numericBefore": {
+        "start": -244,
+        "end": -244
+      },
+      "numericProposed": {
+        "start": -244,
+        "end": -244
+      },
+      "coordinatesUnchanged": true,
+      "decision": "Do not publish at exact −244. Research defensible interval or support an explicitly undated third-century-BCE episode; no replacement numeric range invented."
+    },
+    {
+      "id": "china-event-qing-003",
+      "status": "ready",
+      "numericBefore": {
+        "start": 1661,
+        "end": 1661
+      },
+      "numericProposed": {
+        "start": 1661,
+        "end": 1661
+      },
+      "coordinatesUnchanged": true,
+      "decision": "Retain 1661 by narrowing title to campaign beginning. If title instead describes the whole campaign, explicitly set end to 1662."
+    },
+    {
+      "id": "china-landmark-108",
+      "status": "ready",
+      "numericBefore": {
+        "start": 398,
+        "end": 398
+      },
+      "numericProposed": {
+        "start": 398,
+        "end": 398
+      },
+      "coordinatesUnchanged": true,
+      "decision": "Retain focal-event year and representative coordinates."
+    },
+    {
+      "id": "china-landmark-343",
+      "status": "ready-with-explicit-date-decision",
+      "numericBefore": {
+        "start": 495,
+        "end": 495
+      },
+      "numericProposed": {
+        "start": 493,
+        "end": 493
+      },
+      "coordinatesUnchanged": true,
+      "decision": "Approve 495→493 for start/end with approximate dateNote. Existing 112.47,34.55 retained only as regional point; UNESCO reference is 112.4667,34.4667 (not proposed as an exact cave coordinate)."
+    },
+    {
+      "id": "china-landmark-356",
+      "status": "hold-chronology",
+      "numericBefore": {
+        "start": 750,
+        "end": 750
+      },
+      "numericProposed": {
+        "start": 750,
+        "end": 750
+      },
+      "coordinatesUnchanged": true,
+      "decision": "Do not call 750 verified. Prefer an explicit approximate eighth-century cultural-story record or obtain a dated scholarly chronology before admission. No new numeric interval invented."
+    },
+    {
+      "id": "china-landmark-478",
+      "status": "ready",
+      "numericBefore": {
+        "start": 978,
+        "end": 978
+      },
+      "numericProposed": {
+        "start": 978,
+        "end": 978
+      },
+      "coordinatesUnchanged": true,
+      "decision": "Retain focal-event year and representative coordinates."
+    },
+    {
+      "id": "china-landmark-526",
+      "status": "hold-chronology",
+      "numericBefore": {
+        "start": 960,
+        "end": 960
+      },
+      "numericProposed": {
+        "start": 961,
+        "end": 967
+      },
+      "coordinatesUnchanged": true,
+      "decision": "961–967 is supported only by the museum publication search excerpt, not extracted full-page text. Keep held; verify the full discussion before replacing 960. No China06 portrait should substitute for the actual painting."
+    }
+  ],
+  "changedFields": [
+    {
+      "id": "china-landmark-335",
+      "field": "title",
+      "before": {
+        "en": "Xie An emerges from forty years of seclusion at Mt. Dongshan to steady the Eastern Jin court",
+        "zh": "谢安隐居会稽东山四十余年屡辞征辟"
+      },
+      "after": {
+        "en": "Xie An accepts office under Huan Wen",
+        "zh": "谢安接受桓温征召出仕"
+      }
+    },
+    {
+      "id": "china-landmark-335",
+      "field": "summary",
+      "before": {
+        "en": "Xie An emerges from forty years of seclusion at Mt. Dongshan to steady the Eastern Jin court",
+        "zh": "谢安隐居会稽东山四十余年屡辞征辟"
+      },
+      "after": {
+        "en": "After repeatedly declining appointments while living in Kuaiji, Xie An joined Huan Wen’s staff in 360. The Jinshu says he was already over forty when he decided to pursue office after his brother Xie Wan’s dismissal.",
+        "zh": "谢安寓居会稽期间多次辞谢征辟，360年接受桓温征召入幕。《晋书》记载，弟弟谢万被黜后，他才有意出仕，当时已四十余岁。"
+      }
+    },
+    {
+      "id": "china-landmark-335",
+      "field": "dateNote",
+      "before": {
+        "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+        "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+      },
+      "after": {
+        "en": "360 is Shengping 4. Forty-plus is his age, not the duration of a retreat.",
+        "zh": "360年为升平四年；四十余指年龄，并非隐居时长。"
+      }
+    },
+    {
+      "id": "china-landmark-335",
+      "field": "location",
+      "before": {
+        "lon": 120.87,
+        "lat": 30.02,
+        "label": "Dongshan (Shangyu, Shaoxing)",
+        "labelI18n": {
+          "en": "Dongshan (Shangyu, Shaoxing)",
+          "zh": "东山（上虞）"
+        },
+        "labelProvenance": "inherited-source-place-pair"
+      },
+      "after": {
+        "lon": 120.87,
+        "lat": 30.02,
+        "label": "Dongshan, Kuaiji: retreat reference point",
+        "labelI18n": {
+          "en": "Dongshan, Kuaiji: retreat reference point",
+          "zh": "会稽东山：隐居背景参考点"
+        },
+        "labelProvenance": "reviewed-reference-anchor"
+      }
+    },
+    {
+      "id": "china-landmark-291",
+      "field": "title",
+      "before": {
+        "en": "Pavilion chief Liu Bang rises in rebellion at Peixian backed by Xiao He, Cao Shen, and Fan Kuai",
+        "zh": "亭长刘邦斩白蛇起义称沛公，萧何曹参樊哙归附"
+      },
+      "after": {
+        "en": "Liu Bang becomes Duke of Pei in the uprising against Qin",
+        "zh": "刘邦起兵反秦，被推为沛公"
+      }
+    },
+    {
+      "id": "china-landmark-291",
+      "field": "summary",
+      "before": {
+        "en": "Pavilion chief Liu Bang rises in rebellion at Peixian backed by Xiao He, Cao Shen, and Fan Kuai",
+        "zh": "亭长刘邦斩白蛇起义称沛公，萧何曹参樊哙归附"
+      },
+      "after": {
+        "en": "In 209 BCE, Liu Bang became leader of the uprising at Pei. Xiao He, Cao Shen and Fan Kuai helped gather local followers. The Shiji also records a white-snake legend linking his rise to divine signs.",
+        "zh": "前209年，刘邦在沛起兵，被推为沛公。萧何、曹参、樊哙等协助招集当地子弟。《史记》还记载了以神异征兆解释其兴起的斩白蛇传说。"
+      }
+    },
+    {
+      "id": "china-landmark-291",
+      "field": "dateNote",
+      "before": {
+        "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+        "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+      },
+      "after": {
+        "en": "209 BCE: the first year of Qin Ershi.",
+        "zh": "前209年，即秦二世元年。"
+      }
+    },
+    {
+      "id": "china-landmark-291",
+      "field": "location",
+      "before": {
+        "lon": 116.94,
+        "lat": 34.73,
+        "label": "Peixian (Xuzhou)",
+        "labelI18n": {
+          "en": "Peixian (Xuzhou)",
+          "zh": "沛县丰西泽"
+        },
+        "labelProvenance": "inherited-source-place-pair"
+      },
+      "after": {
+        "lon": 116.94,
+        "lat": 34.73,
+        "label": "Pei: uprising reference point",
+        "labelI18n": {
+          "en": "Pei: uprising reference point",
+          "zh": "沛：起兵地域参考点"
+        },
+        "labelProvenance": "reviewed-reference-anchor"
+      }
+    },
+    {
+      "id": "china-event-xihan-001",
+      "field": "title",
+      "before": {
+        "en": "Liu Bang defeats Xiang Yu at Gaixia and ascends the throne as Emperor Gaozu of Western Han",
+        "zh": "垓下之战十面埋伏灭项羽，汉高祖刘邦称帝定都长安"
+      },
+      "after": {
+        "en": "Liu Bang wins the Chu–Han war and becomes emperor",
+        "zh": "刘邦赢得楚汉战争并称帝"
+      }
+    },
+    {
+      "id": "china-event-xihan-001",
+      "field": "summary",
+      "before": {
+        "en": "Liu Bang defeats Xiang Yu at Gaixia and ascends the throne as Emperor Gaozu of Western Han",
+        "zh": "垓下之战十面埋伏灭项羽，汉高祖刘邦称帝定都长安"
+      },
+      "after": {
+        "en": "Liu Bang and allied armies defeated Xiang Yu at Gaixia. In 202 BCE Liu Bang became emperor, then moved his capital from Luoyang to the Guanzhong region. The Shiji describes the coalition battle and the Chu songs heard by Xiang Yu’s soldiers.",
+        "zh": "刘邦与诸侯联军在垓下击败项羽。前202年，刘邦即皇帝位，随后由洛阳迁都关中。《史记》记载了联军作战及项羽军士听到楚歌的情节。"
+      }
+    },
+    {
+      "id": "china-event-xihan-001",
+      "field": "dateNote",
+      "before": {
+        "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+        "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+      },
+      "after": {
+        "en": "202 BCE anchors the accession and capital move at the close of the Chu–Han war.",
+        "zh": "前202年为楚汉战争结束时称帝与迁都的时间锚点。"
+      }
+    },
+    {
+      "id": "china-event-xihan-001",
+      "field": "location",
+      "before": {
+        "lon": 108.941,
+        "lat": 34.261,
+        "label": "Gaixia & Chang'an",
+        "labelI18n": {
+          "en": "Gaixia & Chang'an",
+          "zh": "垓下 · 长安"
+        },
+        "labelProvenance": "inherited-source-place-pair"
+      },
+      "after": {
+        "lon": 108.941,
+        "lat": 34.261,
+        "label": "Chang’an region: capital reference, not Gaixia battlefield",
+        "labelI18n": {
+          "en": "Chang’an region: capital reference, not Gaixia battlefield",
+          "zh": "长安地区：都城参考点，非垓下战场"
+        },
+        "labelProvenance": "reviewed-reference-anchor"
+      }
+    },
+    {
+      "id": "china-event-xihan-010",
+      "field": "title",
+      "before": {
+        "en": "Huo Qubing’s Hexi campaigns; the Four Hexi Commanderies founded",
+        "zh": "霍去病两次河西之战，设河西四郡"
+      },
+      "after": {
+        "en": "Huo Qubing campaigns in the Hexi corridor",
+        "zh": "霍去病出征河西"
+      }
+    },
+    {
+      "id": "china-event-xihan-010",
+      "field": "summary",
+      "before": {
+        "en": "Huo Qubing’s Hexi campaigns; the Four Hexi Commanderies founded",
+        "zh": "霍去病两次河西之战，设河西四郡"
+      },
+      "after": {
+        "en": "In spring and summer 121 BCE, Huo Qubing led campaigns against the Xiongnu in the Hexi region. The Shiji traces the spring advance past the Yanzhi Mountains and the summer expedition toward Juyan and the Qilian Mountains.",
+        "zh": "前121年春夏，霍去病率军在河西地区攻打匈奴。《史记》记春季进军越焉支山，夏季行动经居延而至祁连山。"
+      }
+    },
+    {
+      "id": "china-event-xihan-010",
+      "field": "dateNote",
+      "before": {
+        "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+        "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+      },
+      "after": {
+        "en": "121 BCE is Yuanshou 2; this entry dates the campaigns, not the creation of all four Hexi commanderies.",
+        "zh": "前121年为元狩二年；本条纪年指两次出征，不指河西四郡同年设立。"
+      }
+    },
+    {
+      "id": "china-event-xihan-010",
+      "field": "location",
+      "before": {
+        "lon": 101.001,
+        "lat": 38.601,
+        "label": "Yanzhi Mts. (Hexi)",
+        "labelI18n": {
+          "en": "Yanzhi Mts. (Hexi)",
+          "zh": "焉支山（河西）"
+        },
+        "labelProvenance": "inherited-source-place-pair"
+      },
+      "after": {
+        "lon": 101.001,
+        "lat": 38.601,
+        "label": "Yanzhi Mountains: regional campaign reference",
+        "labelI18n": {
+          "en": "Yanzhi Mountains: regional campaign reference",
+          "zh": "焉支山：河西战役地域参考点"
+        },
+        "labelProvenance": "reviewed-reference-anchor"
+      }
+    },
+    {
+      "id": "china-landmark-519",
+      "field": "title",
+      "before": {
+        "en": "Young general Huo Qubing dies at twenty-four; Emperor Wu builds a Qilian-shaped mound beside Maoling",
+        "zh": "二十四岁的冠军侯霍去病病逝长安，武帝筑祁连山冢陪葬茂陵"
+      },
+      "after": {
+        "en": "Huo Qubing dies and receives a mountain-shaped tomb",
+        "zh": "霍去病去世，墓冢仿祁连山形"
+      }
+    },
+    {
+      "id": "china-landmark-519",
+      "field": "summary",
+      "before": {
+        "en": "Young general Huo Qubing dies at twenty-four; Emperor Wu builds a Qilian-shaped mound beside Maoling",
+        "zh": "二十四岁的冠军侯霍去病病逝长安，武帝筑祁连山冢陪葬茂陵"
+      },
+      "after": {
+        "en": "Huo Qubing died in 117 BCE. The Shiji describes Emperor Wu’s mourning, an armoured military procession extending from Chang’an to Maoling, and a burial mound shaped like the Qilian Mountains.",
+        "zh": "前117年，霍去病去世。《史记》记汉武帝哀悼，调玄甲军自长安陈列至茂陵，并为他营建仿祁连山形的墓冢。"
+      }
+    },
+    {
+      "id": "china-landmark-519",
+      "field": "dateNote",
+      "before": {
+        "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+        "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+      },
+      "after": {
+        "en": "117 BCE is Yuanshou 6. The source passage does not specify his cause or place of death.",
+        "zh": "前117年为元狩六年；所引史文未交代死因或死亡地点。"
+      }
+    },
+    {
+      "id": "china-landmark-519",
+      "field": "location",
+      "before": {
+        "lon": 108.58,
+        "lat": 34.34,
+        "label": "Maoling Mausoleum (Xingping, Shaanxi)",
+        "labelI18n": {
+          "en": "Maoling Mausoleum (Xingping, Shaanxi)",
+          "zh": "茂陵（今陕西咸阳兴平）"
+        },
+        "labelProvenance": "inherited-source-place-pair"
+      },
+      "after": {
+        "lon": 108.58,
+        "lat": 34.34,
+        "label": "Maoling area: tomb commemoration reference",
+        "labelI18n": {
+          "en": "Maoling area: tomb commemoration reference",
+          "zh": "茂陵地区：墓葬纪念参考点"
+        },
+        "labelProvenance": "reviewed-reference-anchor"
+      }
+    },
+    {
+      "id": "china-event-zhanguo-016",
+      "field": "title",
+      "before": {
+        "en": "Battle of Changping: Bai Qi annihilates 400,000 Zhao troops, breaking Zhao’s military power",
+        "zh": "长平之战：白起坑杀赵卒四十万，六国难独抗秦"
+      },
+      "after": {
+        "en": "Qin defeats Zhao at Changping",
+        "zh": "秦军在长平击败赵军"
+      }
+    },
+    {
+      "id": "china-event-zhanguo-016",
+      "field": "summary",
+      "before": {
+        "en": "Battle of Changping: Bai Qi annihilates 400,000 Zhao troops, breaking Zhao’s military power",
+        "zh": "长平之战：白起坑杀赵卒四十万，六国难独抗秦"
+      },
+      "after": {
+        "en": "In 260 BCE, Bai Qi’s Qin army defeated Zhao’s forces at Changping. The Shiji reports that 400,000 surrendered soldiers were killed, apart from 240 younger men sent back. These figures belong to its account of the catastrophe.",
+        "zh": "前260年，白起率秦军在长平击败赵军。《史记》记四十万赵卒投降后遭杀害，仅遣返其中年少者二百四十人；这些数字出自史书对这场惨败的记述。"
+      }
+    },
+    {
+      "id": "china-event-zhanguo-016",
+      "field": "dateNote",
+      "before": {
+        "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+        "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+      },
+      "after": {
+        "en": "260 BCE: Qin Zhaowang’s year 47.",
+        "zh": "前260年，秦昭王四十七年。"
+      }
+    },
+    {
+      "id": "china-event-zhanguo-016",
+      "field": "location",
+      "before": {
+        "lon": 112.92,
+        "lat": 35.8,
+        "label": "Changping (Gaoping)",
+        "labelI18n": {
+          "en": "Changping (Gaoping)",
+          "zh": "长平（高平）"
+        },
+        "labelProvenance": "inherited-source-place-pair"
+      },
+      "after": {
+        "lon": 112.92,
+        "lat": 35.8,
+        "label": "Changping, Gaoping: battlefield-region reference",
+        "labelI18n": {
+          "en": "Changping, Gaoping: battlefield-region reference",
+          "zh": "长平（高平）：战场地域参考点"
+        },
+        "labelProvenance": "reviewed-reference-anchor"
+      }
+    },
+    {
+      "id": "china-landmark-276",
+      "field": "title",
+      "before": {
+        "en": "Battle of Yique: Qin general Bai Qi annihilates 240,000 Han-Wei coalition troops",
+        "zh": "伊阙之战：秦将白起避实击虚，斩首韩魏联军二十四万，拔五城"
+      },
+      "after": {
+        "en": "Bai Qi defeats the Han–Wei armies at Yique",
+        "zh": "白起在伊阙击败韩魏联军"
+      }
+    },
+    {
+      "id": "china-landmark-276",
+      "field": "summary",
+      "before": {
+        "en": "Battle of Yique: Qin general Bai Qi annihilates 240,000 Han-Wei coalition troops",
+        "zh": "伊阙之战：秦将白起避实击虚，斩首韩魏联军二十四万，拔五城"
+      },
+      "after": {
+        "en": "In 293 BCE, Qin general Bai Qi defeated Han and Wei at Yique. The Shiji reports 240,000 killed, the capture of commander Gongsun Xi, and the taking of five cities.",
+        "zh": "前293年，秦将白起在伊阙击败韩魏联军。《史记》记斩首二十四万、俘将公孙喜，并攻取五城。"
+      }
+    },
+    {
+      "id": "china-landmark-276",
+      "field": "dateNote",
+      "before": {
+        "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+        "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+      },
+      "after": {
+        "en": "293 BCE: Qin Zhaowang’s year 14.",
+        "zh": "前293年，秦昭王十四年。"
+      }
+    },
+    {
+      "id": "china-landmark-276",
+      "field": "location",
+      "before": {
+        "lon": 112.47,
+        "lat": 34.55,
+        "label": "Yique (Longmen, Luoyang)",
+        "labelI18n": {
+          "en": "Yique (Longmen, Luoyang)",
+          "zh": "伊阙（龙门）"
+        },
+        "labelProvenance": "inherited-source-place-pair"
+      },
+      "after": {
+        "lon": 112.47,
+        "lat": 34.55,
+        "label": "Yique, Luoyang: battlefield-region reference",
+        "labelI18n": {
+          "en": "Yique, Luoyang: battlefield-region reference",
+          "zh": "洛阳伊阙：战场地域参考点"
+        },
+        "labelProvenance": "reviewed-reference-anchor"
+      }
+    },
+    {
+      "id": "china-landmark-279",
+      "field": "title",
+      "before": {
+        "en": "Zhao general Li Mu lures Xiongnu raiders deep past Yanmen Pass and crushes 100,000 horsemen",
+        "zh": "赵将李牧久守雁门诱敌深入，单日大破匈奴十余万骑"
+      },
+      "after": {
+        "en": "Li Mu defends Zhao’s northern frontier",
+        "zh": "李牧防守赵国北境"
+      }
+    },
+    {
+      "id": "china-landmark-279",
+      "field": "summary",
+      "before": {
+        "en": "Zhao general Li Mu lures Xiongnu raiders deep past Yanmen Pass and crushes 100,000 horsemen",
+        "zh": "赵将李牧久守雁门诱敌深入，单日大破匈奴十余万骑"
+      },
+      "after": {
+        "en": "The Shiji describes Li Mu defending Dai and Yanmen, conserving his troops before drawing a Xiongnu force into an ambush. It reports more than 100,000 Xiongnu cavalry killed. The account does not give a battle year or say it was completed in one day.",
+        "zh": "《史记》记李牧守代、雁门，先养兵自保，再诱匈奴军深入设伏，称杀匈奴十余万骑。该段未注明战役年份，也未说战斗在一日内结束。"
+      }
+    },
+    {
+      "id": "china-landmark-279",
+      "field": "dateNote",
+      "before": {
+        "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+        "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+      },
+      "after": {
+        "en": "The inherited 244 BCE date is unverified; the source places this episode before Li Mu’s campaign under King Daoxiang.",
+        "zh": "原资料前244年尚未核实；史文将此事置于李牧在悼襄王时攻燕之前。"
+      }
+    },
+    {
+      "id": "china-landmark-279",
+      "field": "location",
+      "before": {
+        "lon": 112.86,
+        "lat": 39.19,
+        "label": "Yanmen Pass",
+        "labelI18n": {
+          "en": "Yanmen Pass",
+          "zh": "雁门关"
+        },
+        "labelProvenance": "inherited-source-place-pair"
+      },
+      "after": {
+        "lon": 112.86,
+        "lat": 39.19,
+        "label": "Yanmen region: frontier reference, not an identified battlefield",
+        "labelI18n": {
+          "en": "Yanmen region: frontier reference, not an identified battlefield",
+          "zh": "雁门地区：边防参考点，非已定位战场"
+        },
+        "labelProvenance": "reviewed-reference-anchor"
+      }
+    },
+    {
+      "id": "china-event-qing-003",
+      "field": "title",
+      "before": {
+        "en": "Koxinga (Zheng Chenggong) expels the Dutch and establishes Tungning on Taiwan",
+        "zh": "郑成功横渡鹿耳门驱逐荷兰殖民者，收复台湾设承天府"
+      },
+      "after": {
+        "en": "Zheng Chenggong begins his campaign against Dutch Taiwan",
+        "zh": "郑成功开始进攻荷兰统治下的台湾"
+      }
+    },
+    {
+      "id": "china-event-qing-003",
+      "field": "summary",
+      "before": {
+        "en": "Koxinga (Zheng Chenggong) expels the Dutch and establishes Tungning on Taiwan",
+        "zh": "郑成功横渡鹿耳门驱逐荷兰殖民者，收复台湾设承天府"
+      },
+      "after": {
+        "en": "Zheng Chenggong landed near Tainan in 1661. The campaign ended with the Dutch surrender in early 1662. Zheng rule followed; the name Dongning belongs to the later administration of his son Zheng Jing in 1664.",
+        "zh": "1661年，郑成功在台南一带登陆；战事至1662年初荷兰人投降而结束。此后进入郑氏统治时期，东宁之名则属于其子郑经1664年的行政调整。"
+      }
+    },
+    {
+      "id": "china-event-qing-003",
+      "field": "dateNote",
+      "before": {
+        "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+        "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+      },
+      "after": {
+        "en": "1661 anchors the landing and start of the campaign; the surrender followed in 1662.",
+        "zh": "1661年为登陆与战役开始之年；投降发生于1662年。"
+      }
+    },
+    {
+      "id": "china-event-qing-003",
+      "field": "location",
+      "before": {
+        "lon": 120.211,
+        "lat": 23.001,
+        "label": "Chengtianfu (Tainan)",
+        "labelI18n": {
+          "en": "Chengtianfu (Tainan)",
+          "zh": "承天府（台南）"
+        },
+        "labelProvenance": "inherited-source-place-pair"
+      },
+      "after": {
+        "lon": 120.211,
+        "lat": 23.001,
+        "label": "Tainan: campaign and administration reference",
+        "labelI18n": {
+          "en": "Tainan: campaign and administration reference",
+          "zh": "台南：战役与政权地域参考点"
+        },
+        "labelProvenance": "reviewed-reference-anchor"
+      }
+    },
+    {
+      "id": "china-landmark-108",
+      "field": "title",
+      "before": {
+        "en": "Tuoba Gui moves the Northern Wei capital to Pingcheng and initiates the Yungang Grottoes",
+        "zh": "拓跋珪迁都平城称帝建北魏，开凿云冈石窟"
+      },
+      "after": {
+        "en": "Tuoba Gui moves the Northern Wei capital to Pingcheng",
+        "zh": "拓跋珪迁北魏都城至平城"
+      }
+    },
+    {
+      "id": "china-landmark-108",
+      "field": "summary",
+      "before": {
+        "en": "Tuoba Gui moves the Northern Wei capital to Pingcheng and initiates the Yungang Grottoes",
+        "zh": "拓跋珪迁都平城称帝建北魏，开凿云冈石窟"
+      },
+      "after": {
+        "en": "In 398, Tuoba Gui moved the Northern Wei capital to Pingcheng, present-day Datong. The Weishu records construction of palaces, ancestral temples and state altars. The nearby Yungang Buddhist caves began much later, in the mid-fifth century.",
+        "zh": "398年，拓跋珪将北魏都城迁至平城，即今大同。《魏书》记其营建宫室、宗庙与社稷。附近的云冈佛教石窟始凿于更晚的五世纪中叶。"
+      }
+    },
+    {
+      "id": "china-landmark-108",
+      "field": "dateNote",
+      "before": {
+        "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+        "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+      },
+      "after": {
+        "en": "398 is the capital move; it is not the foundation date of Yungang.",
+        "zh": "398年为迁都之年，并非云冈始凿之年。"
+      }
+    },
+    {
+      "id": "china-landmark-108",
+      "field": "location",
+      "before": {
+        "lon": 113.3,
+        "lat": 40.08,
+        "label": "Pingcheng (Datong)",
+        "labelI18n": {
+          "en": "Pingcheng (Datong)",
+          "zh": "平城（大同）"
+        },
+        "labelProvenance": "inherited-source-place-pair"
+      },
+      "after": {
+        "lon": 113.3,
+        "lat": 40.08,
+        "label": "Pingcheng, Datong: capital reference",
+        "labelI18n": {
+          "en": "Pingcheng, Datong: capital reference",
+          "zh": "平城（大同）：都城参考点"
+        },
+        "labelProvenance": "reviewed-reference-anchor"
+      }
+    },
+    {
+      "id": "china-landmark-343",
+      "field": "title",
+      "before": {
+        "en": "Following the move to Luoyang, Northern Wei begins carving the monumental Longmen Grottoes",
+        "zh": "迁都洛阳后，孝文帝开启伊阙龙门石窟营建"
+      },
+      "after": {
+        "en": "Northern Wei patrons begin carving at Longmen",
+        "zh": "北魏施主开始营造龙门石窟"
+      }
+    },
+    {
+      "id": "china-landmark-343",
+      "field": "summary",
+      "before": {
+        "en": "Following the move to Luoyang, Northern Wei begins carving the monumental Longmen Grottoes",
+        "zh": "迁都洛阳后，孝文帝开启伊阙龙门石窟营建"
+      },
+      "after": {
+        "en": "Carving at Longmen began around 493 as Luoyang became the Northern Wei capital. Imperial and other patrons developed a major Buddhist cave complex. The Central Binyang Cave belongs to a later memorial programme under Emperor Xuanwu; its relief of Xiaowen dates to about 522–523.",
+        "zh": "约493年，洛阳成为北魏都城之际，龙门开始开窟。皇室及其他施主共同营造了佛教石窟群。宾阳中洞属于宣武帝时期的后续纪念工程，其中孝文帝礼佛浮雕约作于522至523年。"
+      }
+    },
+    {
+      "id": "china-landmark-343",
+      "field": "dateNote",
+      "before": {
+        "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+        "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+      },
+      "after": {
+        "en": "About 493 for the beginning of carving; the featured Binyang relief is about three decades later.",
+        "zh": "始凿约在493年；所示宾阳浮雕晚约三十年。"
+      }
+    },
+    {
+      "id": "china-landmark-343",
+      "field": "location",
+      "before": {
+        "lon": 112.47,
+        "lat": 34.55,
+        "label": "Longmen Grottoes (Luoyang)",
+        "labelI18n": {
+          "en": "Longmen Grottoes (Luoyang)",
+          "zh": "洛阳龙门伊阙"
+        },
+        "labelProvenance": "inherited-source-place-pair"
+      },
+      "after": {
+        "lon": 112.47,
+        "lat": 34.55,
+        "label": "Longmen area, Luoyang: regional reference",
+        "labelI18n": {
+          "en": "Longmen area, Luoyang: regional reference",
+          "zh": "洛阳龙门地区：地域参考点"
+        },
+        "labelProvenance": "reviewed-reference-anchor"
+      }
+    },
+    {
+      "id": "china-landmark-343",
+      "field": "start",
+      "before": 495,
+      "after": 493
+    },
+    {
+      "id": "china-landmark-343",
+      "field": "end",
+      "before": 495,
+      "after": 493
+    },
+    {
+      "id": "china-landmark-356",
+      "field": "title",
+      "before": {
+        "en": "Wang Wei retreats to his Wangchuan mountain estate near Lantian, composing the Wangchuan River poems",
+        "zh": "王维购得宋之问蓝田辋川别业，与裴迪泛舟弹琴赋《辋川集》二十首"
+      },
+      "after": {
+        "en": "Wang Wei’s Wangchuan retreat inspires poetry and painting",
+        "zh": "王维辋川别业与诗画传统"
+      }
+    },
+    {
+      "id": "china-landmark-356",
+      "field": "summary",
+      "before": {
+        "en": "Wang Wei retreats to his Wangchuan mountain estate near Lantian, composing the Wangchuan River poems",
+        "zh": "王维购得宋之问蓝田辋川别业，与裴迪泛舟弹琴赋《辋川集》二十首"
+      },
+      "after": {
+        "en": "Wang Wei’s retreat in the hills outside Chang’an became a landscape associated with his poetry. In 1711, Wang Yuanqi painted Wangchuan Villa using an earlier engraved composition and Wang Wei’s poems as guides.",
+        "zh": "王维在长安城外山中的辋川别业，与他的诗歌相连，成为后世反复描绘的景观。1711年，王原祁参考早先刻石构图与王维诗作，绘成《辋川图》。"
+      }
+    },
+    {
+      "id": "china-landmark-356",
+      "field": "dateNote",
+      "before": {
+        "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+        "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+      },
+      "after": {
+        "en": "Eighth-century subject; 750 is an inherited display anchor, not a verified purchase or composition year. The illustrated painting is dated 1711.",
+        "zh": "题材属八世纪；750年只是原资料显示锚点，并非已核实的购置或作诗之年。所示画作纪年为1711年。"
+      }
+    },
+    {
+      "id": "china-landmark-356",
+      "field": "location",
+      "before": {
+        "lon": 109.38,
+        "lat": 34.12,
+        "label": "Wangchuan Villa (Lantian, Xi'an)",
+        "labelI18n": {
+          "en": "Wangchuan Villa (Lantian, Xi'an)",
+          "zh": "蓝田辋川"
+        },
+        "labelProvenance": "inherited-source-place-pair"
+      },
+      "after": {
+        "lon": 109.38,
+        "lat": 34.12,
+        "label": "Wangchuan, Lantian: landscape reference",
+        "labelI18n": {
+          "en": "Wangchuan, Lantian: landscape reference",
+          "zh": "蓝田辋川：景观参考点"
+        },
+        "labelProvenance": "reviewed-reference-anchor"
+      }
+    },
+    {
+      "id": "china-landmark-478",
+      "field": "title",
+      "before": {
+        "en": "Captive in Kaifeng on Qixi night, Li Yu composes his immortal lyric Yu Meiren before his death",
+        "zh": "七夕之夜李煜于汴京歌《虞美人》追怀故国，旋卒于开封"
+      },
+      "after": {
+        "en": "Li Yu dies in captivity at the Song capital",
+        "zh": "李煜在宋都拘居期间去世"
+      }
+    },
+    {
+      "id": "china-landmark-478",
+      "field": "summary",
+      "before": {
+        "en": "Captive in Kaifeng on Qixi night, Li Yu composes his immortal lyric Yu Meiren before his death",
+        "zh": "七夕之夜李煜于汴京歌《虞美人》追怀故国，旋卒于开封"
+      },
+      "after": {
+        "en": "After the fall of Southern Tang, Li Yu was taken to the Song capital. He died there in 978. Early accounts differ over the day and circumstances; the familiar tale linking his last celebrations to poisoning developed in later writing.",
+        "zh": "南唐覆亡后，李煜被送往宋都，978年在当地去世。早期文献对具体日期与情节记载不一；把最后的庆宴与毒杀相连的熟悉故事，在后世书写中逐渐形成。"
+      }
+    },
+    {
+      "id": "china-landmark-478",
+      "field": "dateNote",
+      "before": {
+        "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+        "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+      },
+      "after": {
+        "en": "978 is secure at year level; no exact Qixi composition or performance is asserted.",
+        "zh": "纪年取978年；不认定某次七夕创作或演唱的具体情节。"
+      }
+    },
+    {
+      "id": "china-landmark-478",
+      "field": "location",
+      "before": {
+        "lon": 114.35,
+        "lat": 34.79,
+        "label": "Bianjing (Kaifeng)",
+        "labelI18n": {
+          "en": "Bianjing (Kaifeng)",
+          "zh": "汴京（开封）"
+        },
+        "labelProvenance": "inherited-source-place-pair"
+      },
+      "after": {
+        "lon": 114.35,
+        "lat": 34.79,
+        "label": "Bianjing, Kaifeng: captivity and death reference",
+        "labelI18n": {
+          "en": "Bianjing, Kaifeng: captivity and death reference",
+          "zh": "汴京（开封）：拘居与去世地域参考点"
+        },
+        "labelProvenance": "reviewed-reference-anchor"
+      }
+    },
+    {
+      "id": "china-landmark-526",
+      "field": "title",
+      "before": {
+        "en": "Court painter Gu Hongzhong paints Night Revels of Han Xizai in Jinling for ruler Li Yu",
+        "zh": "南唐画家顾闳中奉李煜命夜窥韩府，绘成传世名画《韩熙载夜宴图》"
+      },
+      "after": {
+        "en": "Night Revels of Han Xizai: a Southern Tang story in a later copy",
+        "zh": "《韩熙载夜宴图》：宋摹本中的南唐故事"
+      }
+    },
+    {
+      "id": "china-landmark-526",
+      "field": "summary",
+      "before": {
+        "en": "Court painter Gu Hongzhong paints Night Revels of Han Xizai in Jinling for ruler Li Yu",
+        "zh": "南唐画家顾闳中奉李煜命夜窥韩府，绘成传世名画《韩熙载夜宴图》"
+      },
+      "after": {
+        "en": "The Palace Museum’s Night Revels of Han Xizai preserves a composition attributed to Gu Hongzhong in a Song-dynasty copy. Later texts give different explanations for the commission, including Li Yu sending the painter to observe Han’s gathering. The surviving scroll is not a directly authenticated record of such surveillance.",
+        "zh": "故宫博物院藏《韩熙载夜宴图》为宋摹本，构图归于顾闳中。后世文献对创作缘由有不同解释，包括李煜派画家窥察韩熙载宴饮的说法。传世画卷不能直接证实这次窥察。"
+      }
+    },
+    {
+      "id": "china-landmark-526",
+      "field": "dateNote",
+      "before": {
+        "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+        "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+      },
+      "after": {
+        "en": "The story is provisionally placed around 961–967; the surviving copy is Song. The inherited exact 960 date is unsuitable.",
+        "zh": "故事暂约系于961至967年；传世摹本属宋代。原资料精确的960年不宜沿用。"
+      }
+    },
+    {
+      "id": "china-landmark-526",
+      "field": "location",
+      "before": {
+        "lon": 118.79,
+        "lat": 32.04,
+        "label": "Jinling (Nanjing)",
+        "labelI18n": {
+          "en": "Jinling (Nanjing)",
+          "zh": "金陵（今江苏南京）"
+        },
+        "labelProvenance": "inherited-source-place-pair"
+      },
+      "after": {
+        "lon": 118.79,
+        "lat": 32.04,
+        "label": "Jinling, Nanjing: narrative setting, not copy-making site",
+        "labelI18n": {
+          "en": "Jinling, Nanjing: narrative setting, not copy-making site",
+          "zh": "金陵（南京）：故事背景，非摹本制作地点"
+        },
+        "labelProvenance": "reviewed-reference-anchor"
+      }
+    },
+    {
+      "id": "china-landmark-526",
+      "field": "start",
+      "before": 960,
+      "after": 961
+    },
+    {
+      "id": "china-landmark-526",
+      "field": "end",
+      "before": 960,
+      "after": 967
+    }
+  ],
+  "admittedReviews": [
+    {
+      "id": "china-landmark-335",
+      "patch": {
+        "title": {
+          "en": "Xie An accepts office under Huan Wen",
+          "zh": "谢安接受桓温征召出仕"
+        },
+        "summary": {
+          "en": "After repeatedly declining appointments while living in Kuaiji, Xie An joined Huan Wen’s staff in 360. The Jinshu says he was already over forty when he decided to pursue office after his brother Xie Wan’s dismissal.",
+          "zh": "谢安寓居会稽期间多次辞谢征辟，360年接受桓温征召入幕。《晋书》记载，弟弟谢万被黜后，他才有意出仕，当时已四十余岁。"
+        },
+        "dateNote": {
+          "en": "360 is Shengping 4. Forty-plus is his age, not the duration of a retreat.",
+          "zh": "360年为升平四年；四十余指年龄，并非隐居时长。"
+        },
+        "location": {
+          "lon": 120.87,
+          "lat": 30.02,
+          "label": "Dongshan, Kuaiji: retreat reference point",
+          "labelI18n": {
+            "en": "Dongshan, Kuaiji: retreat reference point",
+            "zh": "会稽东山：隐居背景参考点"
+          },
+          "labelProvenance": "reviewed-reference-anchor"
+        },
+        "locationPrecision": "representative"
+      },
+      "note": {
+        "en": "Corrected age versus duration and focused on appointment; the map point is not Huan Wen’s headquarters.",
+        "zh": "纠正年龄与隐居时长的混淆，聚焦入幕；地图点并非桓温幕府所在地。"
+      },
+      "sources": [
+        {
+          "title": "Jinshu 79 — Xie An",
+          "url": "https://zh.wikisource.org/wiki/晉書/卷079",
+          "publisher": "Jinshu; Wikisource transcription",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "Forty-plus describes age; the following paragraph records service as Huan Wen’s sima.",
+          "retrieval": "Previously retained source read locally.",
+          "evidenceNoteZh": "四十余指谢安的年龄；后文记他出任桓温的司马。"
+        },
+        {
+          "title": "Tongjian zonglei 15, second half — Xie An",
+          "url": "https://zh.wikisource.org/zh-hant/通鑑總類_(四庫全書本)/卷15下",
+          "publisher": "Shen Shu; Wikisource transcription",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "Places the episode in Shengping 4 (360); corroborates age over forty and Huan Wen appointment.",
+          "retrieval": "Search excerpt supports Shengping 4; page open succeeded but exact-phrase find did not expose the passage. Age and appointment independently verified in retained Jinshu.",
+          "evidenceNoteZh": "将此事系于升平四年（360年），并记谢安四十余岁时接受桓温征召。"
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-291",
+      "patch": {
+        "title": {
+          "en": "Liu Bang becomes Duke of Pei in the uprising against Qin",
+          "zh": "刘邦起兵反秦，被推为沛公"
+        },
+        "summary": {
+          "en": "In 209 BCE, Liu Bang became leader of the uprising at Pei. Xiao He, Cao Shen and Fan Kuai helped gather local followers. The Shiji also records a white-snake legend linking his rise to divine signs.",
+          "zh": "前209年，刘邦在沛起兵，被推为沛公。萧何、曹参、樊哙等协助招集当地子弟。《史记》还记载了以神异征兆解释其兴起的斩白蛇传说。"
+        },
+        "dateNote": {
+          "en": "209 BCE: the first year of Qin Ershi.",
+          "zh": "前209年，即秦二世元年。"
+        },
+        "location": {
+          "lon": 116.94,
+          "lat": 34.73,
+          "label": "Pei: uprising reference point",
+          "labelI18n": {
+            "en": "Pei: uprising reference point",
+            "zh": "沛：起兵地域参考点"
+          },
+          "labelProvenance": "reviewed-reference-anchor"
+        },
+        "locationPrecision": "representative"
+      },
+      "note": {
+        "en": "Separated the uprising from the supernatural snake story in both languages.",
+        "zh": "中英文均将起兵事实与斩蛇神异传说分开。"
+      },
+      "sources": [
+        {
+          "title": "Shiji 8 — Gaozu",
+          "url": "https://zh.wikisource.org/wiki/史記/卷008",
+          "publisher": "Sima Qian; Wikisource transcription",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "Supports Pei uprising, followers, Gaixia coalition victory, accession and move west; snake episode is a supernatural legitimating story.",
+          "retrieval": "Previously retained source read locally.",
+          "evidenceNoteZh": "记沛地起兵、追随者、垓下联军获胜、称帝及西迁；斩蛇情节属于解释兴起的神异故事。"
+        }
+      ]
+    },
+    {
+      "id": "china-event-xihan-001",
+      "patch": {
+        "title": {
+          "en": "Liu Bang wins the Chu–Han war and becomes emperor",
+          "zh": "刘邦赢得楚汉战争并称帝"
+        },
+        "summary": {
+          "en": "Liu Bang and allied armies defeated Xiang Yu at Gaixia. In 202 BCE Liu Bang became emperor, then moved his capital from Luoyang to the Guanzhong region. The Shiji describes the coalition battle and the Chu songs heard by Xiang Yu’s soldiers.",
+          "zh": "刘邦与诸侯联军在垓下击败项羽。前202年，刘邦即皇帝位，随后由洛阳迁都关中。《史记》记载了联军作战及项羽军士听到楚歌的情节。"
+        },
+        "dateNote": {
+          "en": "202 BCE anchors the accession and capital move at the close of the Chu–Han war.",
+          "zh": "前202年为楚汉战争结束时称帝与迁都的时间锚点。"
+        },
+        "location": {
+          "lon": 108.941,
+          "lat": 34.261,
+          "label": "Chang’an region: capital reference, not Gaixia battlefield",
+          "labelI18n": {
+            "en": "Chang’an region: capital reference, not Gaixia battlefield",
+            "zh": "长安地区：都城参考点，非垓下战场"
+          },
+          "labelProvenance": "reviewed-reference-anchor"
+        },
+        "locationPrecision": "representative"
+      },
+      "note": {
+        "en": "Removed the unsupported ten-sided ambush formula; distinguished the capital point from the battlefield.",
+        "zh": "删除十面埋伏的套语，区分都城点位与战场。"
+      },
+      "sources": [
+        {
+          "title": "Shiji 8 — Gaozu",
+          "url": "https://zh.wikisource.org/wiki/史記/卷008",
+          "publisher": "Sima Qian; Wikisource transcription",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "Supports Pei uprising, followers, Gaixia coalition victory, accession and move west; snake episode is a supernatural legitimating story.",
+          "retrieval": "Previously retained source read locally.",
+          "evidenceNoteZh": "记沛地起兵、追随者、垓下联军获胜、称帝及西迁；斩蛇情节属于解释兴起的神异故事。"
+        }
+      ]
+    },
+    {
+      "id": "china-event-xihan-010",
+      "patch": {
+        "title": {
+          "en": "Huo Qubing campaigns in the Hexi corridor",
+          "zh": "霍去病出征河西"
+        },
+        "summary": {
+          "en": "In spring and summer 121 BCE, Huo Qubing led campaigns against the Xiongnu in the Hexi region. The Shiji traces the spring advance past the Yanzhi Mountains and the summer expedition toward Juyan and the Qilian Mountains.",
+          "zh": "前121年春夏，霍去病率军在河西地区攻打匈奴。《史记》记春季进军越焉支山，夏季行动经居延而至祁连山。"
+        },
+        "dateNote": {
+          "en": "121 BCE is Yuanshou 2; this entry dates the campaigns, not the creation of all four Hexi commanderies.",
+          "zh": "前121年为元狩二年；本条纪年指两次出征，不指河西四郡同年设立。"
+        },
+        "location": {
+          "lon": 101.001,
+          "lat": 38.601,
+          "label": "Yanzhi Mountains: regional campaign reference",
+          "labelI18n": {
+            "en": "Yanzhi Mountains: regional campaign reference",
+            "zh": "焉支山：河西战役地域参考点"
+          },
+          "labelProvenance": "reviewed-reference-anchor"
+        },
+        "locationPrecision": "representative"
+      },
+      "note": {
+        "en": "Removed the compressed commandery-foundation claim. A separate administrative chronology still needs research.",
+        "zh": "删除将四郡设立压缩到同年的说法；行政建置年表仍需另行研究。"
+      },
+      "sources": [
+        {
+          "title": "Shiji 111 — Wei Qing and Huo Qubing",
+          "url": "https://zh.wikisource.org/wiki/史記/卷111",
+          "publisher": "Sima Qian; Wikisource transcription",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "Supports 121 BCE campaigns and 117 BCE death and mountain-shaped tomb; does not establish cause/place of death or modern completed-year age.",
+          "retrieval": "Previously retained source read locally.",
+          "evidenceNoteZh": "支持前121年出征、前117年去世及仿山形墓冢；所引段落未交代死因、死亡地点或现代周岁年龄。"
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-519",
+      "patch": {
+        "title": {
+          "en": "Huo Qubing dies and receives a mountain-shaped tomb",
+          "zh": "霍去病去世，墓冢仿祁连山形"
+        },
+        "summary": {
+          "en": "Huo Qubing died in 117 BCE. The Shiji describes Emperor Wu’s mourning, an armoured military procession extending from Chang’an to Maoling, and a burial mound shaped like the Qilian Mountains.",
+          "zh": "前117年，霍去病去世。《史记》记汉武帝哀悼，调玄甲军自长安陈列至茂陵，并为他营建仿祁连山形的墓冢。"
+        },
+        "dateNote": {
+          "en": "117 BCE is Yuanshou 6. The source passage does not specify his cause or place of death.",
+          "zh": "前117年为元狩六年；所引史文未交代死因或死亡地点。"
+        },
+        "location": {
+          "lon": 108.58,
+          "lat": 34.34,
+          "label": "Maoling area: tomb commemoration reference",
+          "labelI18n": {
+            "en": "Maoling area: tomb commemoration reference",
+            "zh": "茂陵地区：墓葬纪念参考点"
+          },
+          "labelProvenance": "reviewed-reference-anchor"
+        },
+        "locationPrecision": "representative"
+      },
+      "note": {
+        "en": "Removed unverified age, death location and illness assertion; retained the documented commemoration.",
+        "zh": "删除未核实的年龄、死亡地点与病逝断言，保留有据的葬礼与墓冢。"
+      },
+      "sources": [
+        {
+          "title": "Shiji 111 — Wei Qing and Huo Qubing",
+          "url": "https://zh.wikisource.org/wiki/史記/卷111",
+          "publisher": "Sima Qian; Wikisource transcription",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "Supports 121 BCE campaigns and 117 BCE death and mountain-shaped tomb; does not establish cause/place of death or modern completed-year age.",
+          "retrieval": "Previously retained source read locally.",
+          "evidenceNoteZh": "支持前121年出征、前117年去世及仿山形墓冢；所引段落未交代死因、死亡地点或现代周岁年龄。"
+        }
+      ]
+    },
+    {
+      "id": "china-event-zhanguo-016",
+      "patch": {
+        "title": {
+          "en": "Qin defeats Zhao at Changping",
+          "zh": "秦军在长平击败赵军"
+        },
+        "summary": {
+          "en": "In 260 BCE, Bai Qi’s Qin army defeated Zhao’s forces at Changping. The Shiji reports that 400,000 surrendered soldiers were killed, apart from 240 younger men sent back. These figures belong to its account of the catastrophe.",
+          "zh": "前260年，白起率秦军在长平击败赵军。《史记》记四十万赵卒投降后遭杀害，仅遣返其中年少者二百四十人；这些数字出自史书对这场惨败的记述。"
+        },
+        "dateNote": {
+          "en": "260 BCE: Qin Zhaowang’s year 47.",
+          "zh": "前260年，秦昭王四十七年。"
+        },
+        "location": {
+          "lon": 112.92,
+          "lat": 35.8,
+          "label": "Changping, Gaoping: battlefield-region reference",
+          "labelI18n": {
+            "en": "Changping, Gaoping: battlefield-region reference",
+            "zh": "长平（高平）：战场地域参考点"
+          },
+          "labelProvenance": "reviewed-reference-anchor"
+        },
+        "locationPrecision": "representative"
+      },
+      "note": {
+        "en": "Attributed totals to Shiji rather than treating them as measured casualties.",
+        "zh": "伤亡数字明确归于《史记》，不作实测统计。"
+      },
+      "sources": [
+        {
+          "title": "Shiji 73 — Bai Qi",
+          "url": "https://zh.wikisource.org/wiki/史記/卷073",
+          "publisher": "Sima Qian; Wikisource transcription",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "Yique 240,000 and Changping 400,000 are transmitted reported totals; supports battle narratives and regnal chronology.",
+          "retrieval": "Targeted source read through web connector; receipt retained.",
+          "evidenceNoteZh": "伊阙二十四万与长平四十万为传世史文报告的数字；支持战事叙述及君主纪年。"
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-276",
+      "patch": {
+        "title": {
+          "en": "Bai Qi defeats the Han–Wei armies at Yique",
+          "zh": "白起在伊阙击败韩魏联军"
+        },
+        "summary": {
+          "en": "In 293 BCE, Qin general Bai Qi defeated Han and Wei at Yique. The Shiji reports 240,000 killed, the capture of commander Gongsun Xi, and the taking of five cities.",
+          "zh": "前293年，秦将白起在伊阙击败韩魏联军。《史记》记斩首二十四万、俘将公孙喜，并攻取五城。"
+        },
+        "dateNote": {
+          "en": "293 BCE: Qin Zhaowang’s year 14.",
+          "zh": "前293年，秦昭王十四年。"
+        },
+        "location": {
+          "lon": 112.47,
+          "lat": 34.55,
+          "label": "Yique, Luoyang: battlefield-region reference",
+          "labelI18n": {
+            "en": "Yique, Luoyang: battlefield-region reference",
+            "zh": "洛阳伊阙：战场地域参考点"
+          },
+          "labelProvenance": "reviewed-reference-anchor"
+        },
+        "locationPrecision": "representative"
+      },
+      "note": {
+        "en": "Attributed the troop-death total; removed the unsupported tactical formula.",
+        "zh": "将杀伤人数归于史书记载，删除未获核实的战术套语。"
+      },
+      "sources": [
+        {
+          "title": "Shiji 73 — Bai Qi",
+          "url": "https://zh.wikisource.org/wiki/史記/卷073",
+          "publisher": "Sima Qian; Wikisource transcription",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "Yique 240,000 and Changping 400,000 are transmitted reported totals; supports battle narratives and regnal chronology.",
+          "retrieval": "Targeted source read through web connector; receipt retained.",
+          "evidenceNoteZh": "伊阙二十四万与长平四十万为传世史文报告的数字；支持战事叙述及君主纪年。"
+        }
+      ]
+    },
+    {
+      "id": "china-event-qing-003",
+      "patch": {
+        "title": {
+          "en": "Zheng Chenggong begins his campaign against Dutch Taiwan",
+          "zh": "郑成功开始进攻荷兰统治下的台湾"
+        },
+        "summary": {
+          "en": "Zheng Chenggong landed near Tainan in 1661. The campaign ended with the Dutch surrender in early 1662. Zheng rule followed; the name Dongning belongs to the later administration of his son Zheng Jing in 1664.",
+          "zh": "1661年，郑成功在台南一带登陆；战事至1662年初荷兰人投降而结束。此后进入郑氏统治时期，东宁之名则属于其子郑经1664年的行政调整。"
+        },
+        "dateNote": {
+          "en": "1661 anchors the landing and start of the campaign; the surrender followed in 1662.",
+          "zh": "1661年为登陆与战役开始之年；投降发生于1662年。"
+        },
+        "location": {
+          "lon": 120.211,
+          "lat": 23.001,
+          "label": "Tainan: campaign and administration reference",
+          "labelI18n": {
+            "en": "Tainan: campaign and administration reference",
+            "zh": "台南：战役与政权地域参考点"
+          },
+          "labelProvenance": "reviewed-reference-anchor"
+        },
+        "locationPrecision": "representative"
+      },
+      "note": {
+        "en": "Narrowed the focal event to the 1661 landing; separated 1662 surrender and 1664 naming, avoiding a silent date change.",
+        "zh": "聚焦1661年登陆，分别标明1662年投降与1664年改名，不暗改纪年。"
+      },
+      "sources": [
+        {
+          "title": "Pre-Qing forestry in Taiwan — Zheng period",
+          "url": "https://www.forest.gov.tw/0001242",
+          "publisher": "Forestry and Nature Conservation Agency, Taiwan",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "Distinguishes 1661 arrival, early 1662 Dutch defeat, and 1664 Dongning name under Zheng Jing; surrounding older framing is not adopted.",
+          "retrieval": "Targeted source read through web connector; receipt retained.",
+          "evidenceNoteZh": "区分1661年到来、1662年初荷兰人战败及郑经1664年改名东宁；不采用周边叙述中的旧式立场表述。"
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-108",
+      "patch": {
+        "title": {
+          "en": "Tuoba Gui moves the Northern Wei capital to Pingcheng",
+          "zh": "拓跋珪迁北魏都城至平城"
+        },
+        "summary": {
+          "en": "In 398, Tuoba Gui moved the Northern Wei capital to Pingcheng, present-day Datong. The Weishu records construction of palaces, ancestral temples and state altars. The nearby Yungang Buddhist caves began much later, in the mid-fifth century.",
+          "zh": "398年，拓跋珪将北魏都城迁至平城，即今大同。《魏书》记其营建宫室、宗庙与社稷。附近的云冈佛教石窟始凿于更晚的五世纪中叶。"
+        },
+        "dateNote": {
+          "en": "398 is the capital move; it is not the foundation date of Yungang.",
+          "zh": "398年为迁都之年，并非云冈始凿之年。"
+        },
+        "location": {
+          "lon": 113.3,
+          "lat": 40.08,
+          "label": "Pingcheng, Datong: capital reference",
+          "labelI18n": {
+            "en": "Pingcheng, Datong: capital reference",
+            "zh": "平城（大同）：都城参考点"
+          },
+          "labelProvenance": "reviewed-reference-anchor"
+        },
+        "locationPrecision": "representative"
+      },
+      "note": {
+        "en": "Separated capital foundation from cave patronage across later reigns.",
+        "zh": "将迁都营建与后世石窟营造分开。"
+      },
+      "sources": [
+        {
+          "title": "Weishu 2 — Tianxing 1",
+          "url": "https://zh.wikisource.org/wiki/魏書/卷2",
+          "publisher": "Wei Shou; Wikisource transcription",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "Supports 398 move and construction of capital institutions, not Yungang.",
+          "retrieval": "Targeted source read through web connector; receipt retained.",
+          "evidenceNoteZh": "支持398年迁都与都城礼制建筑营造，不涉及云冈始凿。"
+        },
+        {
+          "title": "Yungang Grottoes",
+          "url": "https://whc.unesco.org/en/list/1039/",
+          "publisher": "UNESCO World Heritage Centre",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "Supports mid-fifth-century cave foundation and Tanyao’s five caves, separate from Tuoba Gui’s 398 move.",
+          "retrieval": "Targeted source read through web connector; receipt retained.",
+          "evidenceNoteZh": "支持五世纪中叶开窟与昙曜五窟，区别于拓跋珪398年迁都。"
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-478",
+      "patch": {
+        "title": {
+          "en": "Li Yu dies in captivity at the Song capital",
+          "zh": "李煜在宋都拘居期间去世"
+        },
+        "summary": {
+          "en": "After the fall of Southern Tang, Li Yu was taken to the Song capital. He died there in 978. Early accounts differ over the day and circumstances; the familiar tale linking his last celebrations to poisoning developed in later writing.",
+          "zh": "南唐覆亡后，李煜被送往宋都，978年在当地去世。早期文献对具体日期与情节记载不一；把最后的庆宴与毒杀相连的熟悉故事，在后世书写中逐渐形成。"
+        },
+        "dateNote": {
+          "en": "978 is secure at year level; no exact Qixi composition or performance is asserted.",
+          "zh": "纪年取978年；不认定某次七夕创作或演唱的具体情节。"
+        },
+        "location": {
+          "lon": 114.35,
+          "lat": 34.79,
+          "label": "Bianjing, Kaifeng: captivity and death reference",
+          "labelI18n": {
+            "en": "Bianjing, Kaifeng: captivity and death reference",
+            "zh": "汴京（开封）：拘居与去世地域参考点"
+          },
+          "labelProvenance": "reviewed-reference-anchor"
+        },
+        "locationPrecision": "representative"
+      },
+      "note": {
+        "en": "Replaced a precise performance-and-death story with source-critical biography; did not substitute an asserted poisoning or natural-death mechanism.",
+        "zh": "以辨析史料的生平叙述替换具体演唱致死故事，也不另行断言毒杀或自然死亡。"
+      },
+      "sources": [
+        {
+          "title": "The Formation of a Tragic Story: The Death of Li Yu and Related Legends",
+          "url": "https://homepage.ntu.edu.tw/~bcla/e_book/102/10202.pdf",
+          "publisher": "National Taiwan University; Fang Cheng-hua",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "Supports 978 death at capital residence; identifies divergent early records and much later poisoning story, so Qixi-performance-death chain cannot be treated as certain.",
+          "retrieval": "Targeted source read through web connector; receipt retained.",
+          "evidenceNoteZh": "支持978年在京师寓所去世，并辨析早期不同记载及更晚形成的毒杀故事；不能将七夕演唱导致死亡的情节视为确定事实。"
+        },
+        {
+          "title": "Xin Wudai shi 62 — Li Yu",
+          "url": "https://zh.wikisource.org/wiki/新五代史/卷62",
+          "publisher": "Ouyang Xiu; Wikisource transcription",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "Supports captivity at Song capital after Southern Tang’s fall; explicitly refers later history elsewhere, not a source for Qixi death.",
+          "retrieval": "Previously retained source read locally.",
+          "evidenceNoteZh": "支持南唐覆亡后被俘至宋都；此后经历另指其他史书，并非七夕死亡情节的依据。"
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-343",
+      "patch": {
+        "title": {
+          "en": "Northern Wei patrons begin carving at Longmen",
+          "zh": "北魏施主开始营造龙门石窟"
+        },
+        "summary": {
+          "en": "Carving at Longmen began around 493, during the transfer of the Northern Wei court to Luoyang. Imperial and other patrons developed a major Buddhist cave complex. The Central Binyang Cave belongs to a later memorial programme under Emperor Xuanwu; its relief of Xiaowen dates to about 522–523.",
+          "zh": "约493年，北魏朝廷迁往洛阳之际，龙门开始开窟。皇室及其他施主共同营造了佛教石窟群。宾阳中洞属于宣武帝时期的后续纪念工程，其中孝文帝礼佛浮雕约作于522至523年。"
+        },
+        "dateNote": {
+          "en": "About 493 for the beginning of carving; the featured Binyang relief is about three decades later.",
+          "zh": "始凿约在493年；所示宾阳浮雕晚约三十年。"
+        },
+        "location": {
+          "lon": 112.47,
+          "lat": 34.55,
+          "label": "Longmen area, Luoyang: regional reference",
+          "labelI18n": {
+            "en": "Longmen area, Luoyang: regional reference",
+            "zh": "洛阳龙门地区：地域参考点"
+          },
+          "labelProvenance": "reviewed-reference-anchor"
+        },
+        "locationPrecision": "representative",
+        "start": 493,
+        "end": 493
+      },
+      "note": {
+        "en": "Beginning of carving revised from 495 to approximately 493, following ICOMOS and Henan’s account. The inherited map point remains a regional reference.",
+        "zh": "依据国际古迹遗址理事会与河南的介绍，将始凿时间由495年改为约493年。原地图点保留为地域参考。"
+      },
+      "sources": [
+        {
+          "title": "Longmen Grottoes — ICOMOS evaluation 2000",
+          "url": "https://whc.unesco.org/document/1076",
+          "publisher": "ICOMOS / UNESCO World Heritage Centre",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "Supports initial carving chronology 493 and the later Xuanwu/Binyang memorial programme.",
+          "retrieval": "Targeted source read through web connector; receipt retained.",
+          "evidenceNoteZh": "支持493年开始开窟及后续宣武帝时期的宾阳纪念工程。"
+        },
+        {
+          "title": "Longmen Grottoes, Luoyang",
+          "url": "https://english.henan.gov.cn/2020/06-06/1545766.html",
+          "publisher": "People’s Government of Henan Province",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "Supports approximate rather than exact-day dating of the beginning.",
+          "retrieval": "Targeted source read through web connector; receipt retained.",
+          "evidenceNoteZh": "支持约略的始凿年代，不提供精确日期。"
+        },
+        {
+          "title": "Emperor Xiaowen and entourage (35.146)",
+          "url": "https://www.metmuseum.org/art/collection/search/42707",
+          "publisher": "Metropolitan Museum of Art",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "Relief is a posthumous memorial to Xiaowen commissioned under Xuanwu, not the founding campaign.",
+          "retrieval": "Previously retained source read locally.",
+          "evidenceNoteZh": "浮雕为宣武帝时期所营造的孝文帝身后纪念，而非最初开窟工程。"
+        }
+      ]
+    }
+  ]
+}

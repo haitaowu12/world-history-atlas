@@ -8,12 +8,12 @@ import {applyChinaReviews} from '../dist/china-review.mjs';
 const old=loadAtlasRecords('content-expansion-v17.json').records,now=loadAtlasRecords().records;
 const before=new Map(old.map(r=>[r.id,r])),after=new Map(now.map(r=>[r.id,r]));
 const manifest=readAtlasData('content-expansion-v18.json'),reviews=readAtlasData(manifest.chinaReviewsFile);
-test('V18 story corrections preserve all identities, years, coordinates and unrelated records',()=>{
+test('V18 story corrections preserve identities, coordinates and unrelated records with one explicit chronology correction',()=>{
  assert.deepEqual(now.filter(r=>before.has(r.id)).map(r=>r.id),old.map(r=>r.id));
  const translated=new Map(applyPlaceLabelTranslations(old,readAtlasData(manifest.placeLabelsFile)).map(r=>[r.id,r]));
- const targets=new Set(reviews.eventReviews.map(r=>r.id));assert.deepEqual([...targets],['china-landmark-359','china-landmark-368','china-landmark-119','china-landmark-314','china-event-donghan-001','china-landmark-036','china-event-sui-010','china-landmark-424','china-landmark-466','china-landmark-505']);
+ const targets=new Set(reviews.eventReviews.map(r=>r.id));assert.deepEqual([...targets],['china-landmark-359','china-landmark-368','china-landmark-119','china-landmark-314','china-event-donghan-001','china-landmark-036','china-event-sui-010','china-landmark-424','china-landmark-466','china-landmark-505','china-landmark-335','china-landmark-291','china-event-xihan-001','china-event-xihan-010','china-landmark-519','china-event-zhanguo-016','china-landmark-276','china-event-qing-003','china-landmark-108','china-landmark-478','china-landmark-343']);
  for(const row of now.filter(r=>before.has(r.id))){const prior=translated.get(row.id);if(!targets.has(row.id)){assert.deepEqual(row,prior,row.id);continue;}
-  for(const key of ['start','end','locationPrecision'])assert.equal(row[key],prior[key]);
+  assert.equal(row.locationPrecision,prior.locationPrecision);for(const key of ['start','end']){if(row.id==='china-landmark-343'){assert.equal(prior[key],495);assert.equal(row[key],493);}else assert.equal(row[key],prior[key]);}
   for(const key of ['lon','lat'])assert.equal(row.location[key],prior.location[key]);
   assert.equal(row.provenance.status,'reviewed');assert.deepEqual(row.provenance.originalText,{title:prior.title,summary:prior.summary});
   assert.equal(row.provenance.sourceCommit,prior.provenance.sourceCommit);
@@ -52,4 +52,30 @@ test('corrected stories admit seven specific named-person images without implyin
  assert.deepEqual(shard.associations.map(a=>a.recordId),['china-landmark-119','china-landmark-314','china-event-donghan-001','china-landmark-036','china-event-sui-010','china-landmark-424','china-landmark-466']);
  for(const link of shard.associations){assert.equal(link.role,'named-person');assert.ok(link.context.en);assert.ok(link.context.zh);assert.ok(reviews.eventReviews.find(r=>r.id===link.recordId).sources.some(s=>s.url===link.evidenceUrl));}
  assert.ok(!shard.associations.some(a=>a.recordId==='china-landmark-505'));
+});
+
+test('new corrections distinguish age, legend, military campaigns and later administrations',()=>{
+ const get=id=>after.get(id);
+ assert.match(get('china-landmark-335').summary.en,/already over forty/);assert.ok(!get('china-landmark-335').title.en.includes('forty years'));
+ assert.match(get('china-landmark-291').summary.zh,/传说/);assert.match(get('china-landmark-291').summary.en,/legend/);
+ assert.ok(!get('china-event-xihan-001').summary.zh.includes('十面埋伏'));assert.match(get('china-event-xihan-001').location.labelI18n.en,/not Gaixia/);
+ assert.match(get('china-event-xihan-010').dateNote.en,/not the creation of all four/);assert.match(get('china-landmark-519').summary.en,/117 BCE.*Shiji/);
+ for(const id of ['china-event-zhanguo-016','china-landmark-276']){assert.match(get(id).summary.en,/Shiji reports/);assert.match(get(id).summary.zh,/《史记》记/);}
+ for(const date of ['1661','1662','1664'])assert.ok(get('china-event-qing-003').summary.en.includes(date));
+ assert.match(get('china-landmark-108').summary.en,/398.*mid-fifth/s);assert.match(get('china-landmark-478').summary.en,/later writing/);
+});
+
+test('Longmen explicitly corrects the source year while preserving the original and later relief date',()=>{
+ const row=after.get('china-landmark-343');assert.equal(row.start,493);assert.equal(row.end,493);assert.equal(row.provenance.originalRecord.start,495);
+ assert.match(row.dateNote.en,/About 493/);assert.match(row.summary.en,/522–523/);assert.match(row.summary.zh,/宣武帝/);
+ assert.equal(row.location.lat,34.55);assert.equal(row.location.lon,112.47);assert.equal(row.locationPrecision,'representative');
+ assert.ok(row.sources.some(s=>s.url==='https://whc.unesco.org/document/1076'));
+ for(const id of ['china-landmark-279','china-landmark-356','china-landmark-526'])assert.ok(!reviews.eventReviews.some(r=>r.id===id));
+});
+
+test('seven new corrected-story links exclude held chronologies and duplicate tomb coverage',()=>{
+ const shard=readAtlasData('visual-assets-corrected-stories-03-v18.json');assert.equal(shard.items.length,0);assert.equal(shard.associations.length,7);
+ for(const a of shard.associations)assert.ok(reviews.eventReviews.find(r=>r.id===a.recordId).sources.some(s=>s.url===a.evidenceUrl));
+ assert.equal(shard.associations.find(a=>a.recordId==='china-landmark-343').role,'related-work');
+ for(const id of ['china-landmark-519','china-landmark-279','china-landmark-356','china-landmark-526'])assert.ok(!shard.associations.some(a=>a.recordId===id));
 });

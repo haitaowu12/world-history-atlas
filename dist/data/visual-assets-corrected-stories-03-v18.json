@@ -1,0 +1,82 @@
+{
+  "items": [],
+  "associations": [
+    {
+      "assetId": "china-batch-06-liubang",
+      "recordId": "china-landmark-291",
+      "role": "named-person",
+      "context": {
+        "en": "Liu Bang, at right, is the leader of the Pei uprising described here.",
+        "zh": "右侧的刘邦，即本条沛地起兵的领袖。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/史記/卷008",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "china-batch-06-liubang",
+      "recordId": "china-event-xihan-001",
+      "role": "named-person",
+      "context": {
+        "en": "Liu Bang, at right, is the new emperor at the close of the Chu–Han war.",
+        "zh": "右侧的刘邦，即楚汉战争结束后称帝的新君主。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/史記/卷008",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "china-batch-06-baiqi",
+      "recordId": "china-event-zhanguo-016",
+      "role": "named-person",
+      "context": {
+        "en": "The Ming portrait names Bai Qi, commander of Qin’s army at Changping.",
+        "zh": "明代画像题名白起，即长平之战的秦军统帅。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/史記/卷073",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "china-batch-06-baiqi",
+      "recordId": "china-landmark-276",
+      "role": "named-person",
+      "context": {
+        "en": "The portrait represents Bai Qi, the Qin commander at Yique.",
+        "zh": "画像表现伊阙之战的秦军统帅白起。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/史記/卷073",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "china-batch-06-zhengchenggong",
+      "recordId": "china-event-qing-003",
+      "role": "named-person",
+      "context": {
+        "en": "Zheng Chenggong led the 1661–1662 campaign described here.",
+        "zh": "郑成功领导了本条所述1661至1662年的战役。"
+      },
+      "evidenceUrl": "https://www.forest.gov.tw/0001242",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "china-batch-06-xiaowendi",
+      "recordId": "china-landmark-343",
+      "role": "related-work",
+      "context": {
+        "en": "This later Binyang relief belongs to Longmen’s extended building history, about three decades after the first carving.",
+        "zh": "这件晚约三十年的宾阳浮雕，属于龙门长期营造历史中的后续阶段。"
+      },
+      "evidenceUrl": "https://whc.unesco.org/document/1076",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "china-batch-06-liyu",
+      "recordId": "china-landmark-478",
+      "role": "named-person",
+      "context": {
+        "en": "The 1609 printed portrait represents Li Yu, whose captivity and death are discussed here.",
+        "zh": "1609年刊本画像表现本条拘居及去世叙述中的李煜。"
+      },
+      "evidenceUrl": "https://homepage.ntu.edu.tw/~bcla/e_book/102/10202.pdf",
+      "checkedAt": "2026-11-11"
+    }
+  ]
+}

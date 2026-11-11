@@ -1600,7 +1600,7 @@ Smaller derivative supplied by the source image service, saved unchanged. Full s
 
 Smaller derivative supplied by the source image service, saved unchanged. Full source framing retained; no local image editing or conversion.
 
-## Liu Zongyuan in an album of sages and worthies / 《历代圣贤半身像》中的柳宗元
+## Liu Zongyuan (right) and Bai Juyi (left) / 柳宗元（右）与白居易（左）
 
 - File: china-batch-06-liuzongyuan.jpg
 - Creator: Anonymous Chinese artist

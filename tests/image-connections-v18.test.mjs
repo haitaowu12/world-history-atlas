@@ -21,3 +21,13 @@ test('multi-person albums identify the relevant sitter without inventing clothin
  assert.ok(!get('china-landmark-503').zh.includes('衣冠采用'));
  assert.match(get('china-event-beisong-024').en,/portrait added/);
 });
+
+test('next connection batch admits only distinct new IDs and preserves prior contributor hold',()=>{
+ const shard=readAtlasData('visual-assets-existing-links-04-v18.json');assert.equal(shard.items.length,0);assert.equal(shard.associations.length,82);assert.equal(new Set(shard.associations.map(a=>a.recordId)).size,82);
+ assert.ok(!shard.associations.some(a=>a.recordId==='china-landmark-226'));
+ for(const id of ['china-landmark-372','china-landmark-211','china-landmark-374','china-landmark-380','china-landmark-375']){
+  const a=shard.associations.find(a=>a.recordId===id);assert.equal(a.assetId,'china-batch-06-liuzongyuan');assert.match(a.context.en,/Bai Juyi.*left.*Liu Zongyuan.*right/);assert.match(a.context.zh,/左.*白居易/);
+ }
+ const site=shard.associations.find(a=>a.recordId==='china-event-zhanguo-018');assert.equal(site.role,'named-site');assert.match(site.context.en,/modern photograph.*Li Bing/);const siteAsset=readAtlasData('history-media-v18.json').items.find(i=>i.id===site.assetId);assert.match(siteAsset.date,/2020-05-22/);assert.match(siteAsset.caption.en,/repeatedly modified/);
+ assert.equal(shard.associations.find(a=>a.recordId==='tuskegee-mobile-agricultural-education').role,'named-person');
+});
