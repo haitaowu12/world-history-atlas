@@ -1,6 +1,6 @@
 # Historical images: credits and reuse
 
-Reviewed 2026-11-11. 175 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
+Reviewed 2026-11-11. 206 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
 
 Historical artifacts, surviving places and later depictions retain their source identities. No generated reconstructions are included in this catalogue.
 
@@ -2453,3 +2453,437 @@ Museum-provided web-large JPEG preserved byte-for-byte. No local crop, resize, r
 The object page marks the image Public Domain and the API returns isPublicDomain: true. Met Open Access releases it under CC0. Collection credit: Purchase, Friends of Islamic Art Gifts, 2016
 
 Museum-provided web-large JPEG preserved byte-for-byte. No local crop, resize, recolouring or image generation.
+
+## Djoser’s stepped pyramid at Saqqara / 萨卡拉的左塞阶梯金字塔
+
+- File: world-batch-05-memphis-pyramids.jpg
+- Creator: Wknight94 talk
+- Date: Photograph: 2010-02-06
+- Collection: Wikimedia Commons / credited photographer
+- Source: https://commons.wikimedia.org/wiki/File:Pyramid_of_Djoser_2010.jpg
+- Rights: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Pyramid_of_Djoser_2010.jpg
+
+Photograph © Wknight94 talk, CC BY-SA 3.0. Retain attribution, the license and any change notices when reusing this photograph. Share adaptations under the same license.
+
+Commons-provided JPEG, unchanged locally. Source-side cropping or processing is described on the file page.
+
+## Djingareyber Mosque, Timbuktu / 廷巴克图的金加雷贝尔清真寺
+
+- File: world-batch-05-timbuktu.jpg
+- Creator: KaTeznik
+- Date: Photograph: 2005-01-07
+- Collection: Wikimedia Commons / credited photographer
+- Source: https://commons.wikimedia.org/wiki/File:Djingareiber_cour.jpg
+- Rights: CC BY-SA 2.0 fr (https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Djingareiber_cour.jpg
+
+Photograph © KaTeznik, CC BY-SA 2.0 fr. Retain attribution, the license and any change notices when reusing this photograph. Share adaptations under the same license.
+
+Commons-provided JPEG, unchanged locally. Source-side cropping or processing is described on the file page.
+
+## Mapungubwe Hill from below / 从山下望马蓬古布韦山
+
+- File: world-batch-05-mapungubwe-hill-kingdom.jpg
+- Creator: Marius Loots
+- Date: Photograph: 2003-04-01
+- Collection: Wikimedia Commons / credited photographer
+- Source: https://commons.wikimedia.org/wiki/File:Mapungubwe_hill_limpopo.jpg
+- Rights: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Mapungubwe_hill_limpopo.jpg
+
+Photograph © Marius Loots, CC BY-SA 3.0. Retain attribution, the license and any change notices when reusing this photograph. Share adaptations under the same license.
+
+Commons-provided JPEG, unchanged locally. Source-side cropping or processing is described on the file page.
+
+## The houses of Deir el-Medina / 代尔麦地那的住宅遗迹
+
+- File: world-batch-05-deir-el-medina-workers.jpg
+- Creator: Andrew®
+- Date: Photograph: 2009-12-30
+- Collection: Wikimedia Commons / credited photographer
+- Source: https://commons.wikimedia.org/wiki/File:Deir_el-Medina_ruins_(2009a).jpg
+- Rights: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Deir_el-Medina_ruins_(2009a).jpg
+
+Photograph © Andrew®, CC BY 2.0. Retain attribution, the license and any change notices when reusing this photograph.
+
+Commons-provided JPEG, unchanged locally. Source-side cropping or processing is described on the file page.
+
+## A roofless court at Songo Mnara / 松戈姆纳拉的无顶庭院
+
+- File: world-batch-05-songo-mnara-households.jpg
+- Creator: Plouf250
+- Date: Photograph: 2016-02-28
+- Collection: Wikimedia Commons / credited photographer
+- Source: https://commons.wikimedia.org/wiki/File:Ruins_of_Songo_Mnara,_inside_the_main_building.jpg
+- Rights: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Ruins_of_Songo_Mnara,_inside_the_main_building.jpg
+
+Photograph © Plouf250, CC BY-SA 4.0. Retain attribution, the license and any change notices when reusing this photograph. Share adaptations under the same license.
+
+Commons-provided JPEG, unchanged locally. Source-side cropping or processing is described on the file page.
+
+## Terrace walls at Khami / 卡米的台地挡墙
+
+- File: world-batch-05-khami-regional-capital.jpg
+- Creator: Robert Stewart Burrett
+- Date: Photograph: 2018-12-17
+- Collection: Wikimedia Commons / credited photographer
+- Source: https://commons.wikimedia.org/wiki/File:Khami_Main_Platform.jpg
+- Rights: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Khami_Main_Platform.jpg
+
+Photograph © Robert Stewart Burrett, CC BY-SA 4.0. Retain attribution, the license and any change notices when reusing this photograph. Share adaptations under the same license.
+
+Commons-provided JPEG, unchanged locally. Source-side cropping or processing is described on the file page.
+
+## A narrow street in Lamu Old Town / 拉穆老城的窄巷
+
+- File: world-batch-05-lamu-households-learning.jpg
+- Creator: Mzein04
+- Date: Photograph: 2021-02-23
+- Collection: Wikimedia Commons / credited photographer
+- Source: https://commons.wikimedia.org/wiki/File:Lamu_old_town_street.jpg
+- Rights: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Lamu_old_town_street.jpg
+
+Photograph © Mzein04, CC BY-SA 4.0. Retain attribution, the license and any change notices when reusing this photograph. Share adaptations under the same license.
+
+Commons-provided JPEG, unchanged locally. Source-side cropping or processing is described on the file page.
+
+## Moai on Ahu Tongariki / 汤加里基祭坛上的摩艾石像
+
+- File: world-batch-05-rapa-nui.jpg
+- Creator: Rivi
+- Date: Photograph: 2006-03-29
+- Collection: Wikimedia Commons / credited photographer
+- Source: https://commons.wikimedia.org/wiki/File:Ahu_Tongariki_cropped.jpg
+- Rights: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Ahu_Tongariki_cropped.jpg
+
+Photograph © Rivi, CC BY-SA 3.0. Retain attribution, the license and any change notices when reusing this photograph. Share adaptations under the same license.
+
+Commons-provided JPEG, unchanged locally. Source-side cropping or processing is described on the file page.
+
+## Baiame’s Ngunnhu fish traps / 拜阿梅恩贡努捕鱼系统
+
+- File: world-batch-05-brewarrina-ngunnhu-engineering.jpg
+- Creator: Dippiljemmy
+- Date: Photograph: 2023
+- Collection: Wikimedia Commons / credited photographer
+- Source: https://commons.wikimedia.org/wiki/File:Brewarrina_fish_traps_2023.jpg
+- Rights: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Brewarrina_fish_traps_2023.jpg
+
+Photograph © Dippiljemmy, CC BY-SA 4.0. Retain attribution, the license and any change notices when reusing this photograph. Share adaptations under the same license.
+
+Commons-provided JPEG, unchanged locally. Source-side cropping or processing is described on the file page.
+
+## Monte Albán’s engineered hilltop / 蒙特阿尔班整治后的山顶
+
+- File: world-batch-05-monte-alban-zapotec-capital.jpg
+- Creator: Öskr Rck
+- Date: Photograph: 2013-09-01
+- Collection: Wikimedia Commons / credited photographer
+- Source: https://commons.wikimedia.org/wiki/File:Monte_Alban,_Plaza,_Oaxaca.jpg
+- Rights: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Monte_Alban,_Plaza,_Oaxaca.jpg
+
+Photograph © Öskr Rck, CC BY-SA 3.0. Retain attribution, the license and any change notices when reusing this photograph. Share adaptations under the same license.
+
+Commons-provided JPEG, unchanged locally. Source-side cropping or processing is described on the file page.
+
+## Palenque’s Temple of the Inscriptions / 帕伦克的铭文神庙
+
+- File: world-batch-05-palenque-pakal-building.jpg
+- Creator: Bernard DUPONT
+- Date: Photograph: 2020-02-11
+- Collection: Wikimedia Commons / credited photographer
+- Source: https://commons.wikimedia.org/wiki/File:Temple_of_the_Inscriptions_-_Palenque_Maya_Site,_Feb_2020.jpg
+- Rights: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Temple_of_the_Inscriptions_-_Palenque_Maya_Site,_Feb_2020.jpg
+
+Photograph © Bernard DUPONT, CC BY-SA 2.0. Retain attribution, the license and any change notices when reusing this photograph. Share adaptations under the same license.
+
+Commons-provided JPEG, unchanged locally. Source-side cropping or processing is described on the file page.
+
+## Stone architecture at Chavín de Huántar / 查文德万塔尔的石构建筑
+
+- File: world-batch-05-chavin-ritual-center.jpg
+- Creator: Martin St-Amant (S23678)
+- Date: Photograph: 2007-08-30
+- Collection: Wikimedia Commons / credited photographer
+- Source: https://commons.wikimedia.org/wiki/File:Chavin_-_Ao%C3%BBt_2007.jpg
+- Rights: CC BY 3.0 (https://creativecommons.org/licenses/by/3.0)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Chavin_-_Ao%C3%BBt_2007.jpg
+
+Photograph © Martin St-Amant (S23678), CC BY 3.0. Retain attribution, the license and any change notices when reusing this photograph.
+
+Commons-provided JPEG, unchanged locally. Source-side cropping or processing is described on the file page.
+
+## Circular buildings at Kuélap / 库埃拉普的圆形建筑
+
+- File: world-batch-05-kuelap-chachapoya-landscape.jpg
+- Creator: Atinker1
+- Date: Photograph: 2009-05-15
+- Collection: Wikimedia Commons / credited photographer
+- Source: https://commons.wikimedia.org/wiki/File:Kuelap_ruins.jpg
+- Rights: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Kuelap_ruins.jpg
+
+Photograph © Atinker1, CC BY-SA 4.0. Retain attribution, the license and any change notices when reusing this photograph. Share adaptations under the same license.
+
+Commons-provided JPEG, unchanged locally. Source-side cropping or processing is described on the file page.
+
+## El Castillo at Chichén Itzá / 奇琴伊察的库库尔坎金字塔
+
+- File: world-batch-05-chichen-itza-flourishing.jpg
+- Creator: Daniel Schwen
+- Date: Photograph: 2009-08-18
+- Collection: Wikimedia Commons / credited photographer
+- Source: https://commons.wikimedia.org/wiki/File:Chichen_Itza_3.jpg
+- Rights: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Chichen_Itza_3.jpg
+
+Photograph © Daniel Schwen, CC BY-SA 4.0. Retain attribution, the license and any change notices when reusing this photograph. Share adaptations under the same license.
+
+Commons-provided JPEG, unchanged locally. Source-side cropping or processing is described on the file page.
+
+## The Taj Mahal and its garden axis / 泰姬陵与园林轴线
+
+- File: world-batch-05-taj-mahal.jpg
+- Creator: Yann; edited by King of Hearts
+- Date: Photograph: 2010
+- Collection: Wikimedia Commons / credited photographer
+- Source: https://commons.wikimedia.org/wiki/File:Taj_Mahal,_Agra,_India_edit2.jpg
+- Rights: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Taj_Mahal,_Agra,_India_edit2.jpg
+
+Photograph © Yann; edited by King of Hearts, CC BY-SA 4.0. Retain attribution, the license and any change notices when reusing this photograph. Share adaptations under the same license.
+
+Commons-provided JPEG, unchanged locally. Source-side cropping or processing is described on the file page.
+
+## The streets and buildings of Sirkap / 锡尔卡普的街道与建筑遗址
+
+- File: world-batch-05-taxila-sirkap.jpg
+- Creator: Teseum
+- Date: Photograph: 2018-07-29
+- Collection: Wikimedia Commons / credited photographer
+- Source: https://commons.wikimedia.org/wiki/File:Sirkap_ruins.jpg
+- Rights: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Sirkap_ruins.jpg
+
+Photograph © Teseum, CC BY-SA 4.0. Retain attribution, the license and any change notices when reusing this photograph. Share adaptations under the same license.
+
+Commons-provided JPEG, unchanged locally. Source-side cropping or processing is described on the file page.
+
+## A carved stupa in Ajanta’s Cave 26 / 阿旃陀第26窟的雕刻佛塔
+
+- File: world-batch-05-ajanta-cave-workshops.jpg
+- Creator: Vyacheslav Argenberg
+- Date: Photograph: 2007-10-16
+- Collection: Wikimedia Commons / credited photographer
+- Source: https://commons.wikimedia.org/wiki/File:Ajanta_Caves,_India,_Interior_of_Ajanta_chaitya_(stupa)_worship_hall,_Cave_26.jpg
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Ajanta_Caves,_India,_Interior_of_Ajanta_chaitya_(stupa)_worship_hall,_Cave_26.jpg
+
+Photograph © Vyacheslav Argenberg, CC BY 4.0. Retain attribution, the license and any change notices when reusing this photograph.
+
+Commons-provided JPEG, unchanged locally. Source-side cropping or processing is described on the file page.
+
+## Approaching Polonnaruwa’s Vatadage / 走近波隆纳鲁沃的瓦塔达格
+
+- File: world-batch-05-polonnaruwa-irrigated-capital.jpg
+- Creator: Philip Nalangan
+- Date: Photograph: 2011-12-26
+- Collection: Wikimedia Commons / credited photographer
+- Source: https://commons.wikimedia.org/wiki/File:Vatadage_Polonnaruwa_1.jpg
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Vatadage_Polonnaruwa_1.jpg
+
+Photograph © Philip Nalangan, CC BY 4.0. Retain attribution, the license and any change notices when reusing this photograph.
+
+Commons-provided JPEG, unchanged locally. Source-side cropping or processing is described on the file page.
+
+## The Panch Mahal at Fatehpur Sikri / 法泰赫普尔西克里的五层宫
+
+- File: world-batch-05-fatehpur-sikri-court.jpg
+- Creator: Diego Delso
+- Date: Photograph: 2009-12-04
+- Collection: Wikimedia Commons / credited photographer
+- Source: https://commons.wikimedia.org/wiki/File:Panch_Mahal-Fatehpur-Fatehpur_Sikri_India0014.JPG
+- Rights: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Panch_Mahal-Fatehpur-Fatehpur_Sikri_India0014.JPG
+
+Photograph © Diego Delso, CC BY-SA 4.0. Retain attribution, the license and any change notices when reusing this photograph. Share adaptations under the same license.
+
+Commons-provided JPEG, unchanged locally. Source-side cropping or processing is described on the file page.
+
+## Bawbawgyi stupa at Sri Ksetra / 室利差呾罗的包包枝佛塔
+
+- File: world-batch-05-pyu-irrigated-cities.jpg
+- Creator: Jakub Hałun
+- Date: Photograph: 2016-08-10
+- Collection: Wikimedia Commons / credited photographer
+- Source: https://commons.wikimedia.org/wiki/File:20160810_Bawbawgyi_Pogoda_Sri_Ksetra_Pyay_Myanmar_9252.jpg
+- Rights: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:20160810_Bawbawgyi_Pogoda_Sri_Ksetra_Pyay_Myanmar_9252.jpg
+
+Photograph © Jakub Hałun, CC BY-SA 4.0. Retain attribution, the license and any change notices when reusing this photograph. Share adaptations under the same license.
+
+Commons-provided JPEG, unchanged locally. Source-side cropping or processing is described on the file page.
+
+## Sculpture inside Rani-ki-Vav / 王后阶井内部的雕刻
+
+- File: world-batch-05-patan-stepwell-water.jpg
+- Creator: Bernard Gagnon
+- Date: Photograph: 2013-11-29
+- Collection: Wikimedia Commons / credited photographer
+- Source: https://commons.wikimedia.org/wiki/File:Rani_ki_vav_12.jpg
+- Rights: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Rani_ki_vav_12.jpg
+
+Photograph © Bernard Gagnon, CC BY-SA 3.0. Retain attribution, the license and any change notices when reusing this photograph. Share adaptations under the same license.
+
+Commons-provided JPEG, unchanged locally. Source-side cropping or processing is described on the file page.
+
+## Hội An’s covered bridge / 会安的廊桥
+
+- File: world-batch-05-hoi-an-port-households.jpg
+- Creator: Steffen Schmitz (more photos)
+- Date: Photograph: 2020-01-22
+- Collection: Wikimedia Commons / credited photographer
+- Source: https://commons.wikimedia.org/wiki/File:H%E1%BB%99i_An,_Ch%C3%B9a_C%E1%BA%A7u,_2020-01_CN-02.jpg
+- Rights: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:H%E1%BB%99i_An,_Ch%C3%B9a_C%E1%BA%A7u,_2020-01_CN-02.jpg
+
+Photograph © Steffen Schmitz (more photos), CC BY-SA 4.0. Retain attribution, the license and any change notices when reusing this photograph. Share adaptations under the same license.
+
+Commons-provided JPEG, unchanged locally. Source-side cropping or processing is described on the file page.
+
+## Stone jars in Xieng Khouang / 川圹的石缸
+
+- File: world-batch-05-plain-jars-dating-reuse.jpg
+- Creator: Jakub Hałun
+- Date: Photograph: 2017-11-15
+- Collection: Wikimedia Commons / credited photographer
+- Source: https://commons.wikimedia.org/wiki/File:20171115_Plain_of_Jars_Site_1_Laos_2542_DxO.jpg
+- Rights: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:20171115_Plain_of_Jars_Site_1_Laos_2542_DxO.jpg
+
+Photograph © Jakub Hałun, CC BY-SA 4.0. Retain attribution, the license and any change notices when reusing this photograph. Share adaptations under the same license.
+
+Commons-provided JPEG, unchanged locally. Source-side cropping or processing is described on the file page.
+
+## Ashoka’s pillar at Lumbini / 蓝毗尼的阿育王石柱
+
+- File: world-batch-05-lumbini-ashoka-pillar-249-bce.jpg
+- Creator: Rangan Datta Wiki
+- Date: Photograph: 2023-12-13
+- Collection: Wikimedia Commons / credited photographer
+- Source: https://commons.wikimedia.org/wiki/File:Ashoka_Pillar,_Mayadevi_Temple,_Lumbini.jpg
+- Rights: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Ashoka_Pillar,_Mayadevi_Temple,_Lumbini.jpg
+
+Photograph © Rangan Datta Wiki, CC BY-SA 4.0. Retain attribution, the license and any change notices when reusing this photograph. Share adaptations under the same license.
+
+Commons-provided JPEG, unchanged locally. Source-side cropping or processing is described on the file page.
+
+## A detail of Jaipur’s great sundial / 斋浦尔大日晷的局部
+
+- File: world-batch-05-jantar-mantar-jaipur.jpg
+- Creator: Jakub Hałun
+- Date: Photograph: 2019-12-18
+- Collection: Wikimedia Commons / credited photographer
+- Source: https://commons.wikimedia.org/wiki/File:Brihat_Samrat_Yantra,_Jantar_Mantar,_Jaipur,20191218_0918_9009.jpg
+- Rights: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Brihat_Samrat_Yantra,_Jantar_Mantar,_Jaipur,20191218_0918_9009.jpg
+
+Photograph © Jakub Hałun, CC BY-SA 4.0. Retain attribution, the license and any change notices when reusing this photograph. Share adaptations under the same license.
+
+Commons-provided JPEG, unchanged locally. Source-side cropping or processing is described on the file page.
+
+## Batad’s cultivated terraces / 巴塔德的耕作梯田
+
+- File: world-batch-05-ifugao-rice-landscape.jpg
+- Creator: CEphoto, Uwe Aranas
+- Date: Photograph: 2008-11-08
+- Collection: Wikimedia Commons / credited photographer
+- Source: https://commons.wikimedia.org/wiki/File:Banaue_Philippines_Batad-Rice-Terraces-02.jpg
+- Rights: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Banaue_Philippines_Batad-Rice-Terraces-02.jpg
+
+Photograph © CEphoto, Uwe Aranas, CC BY-SA 4.0. Retain attribution, the license and any change notices when reusing this photograph. Share adaptations under the same license.
+
+Commons-provided JPEG, unchanged locally. Source-side cropping or processing is described on the file page.
+
+## The ceremonial core of Tiwanaku / 蒂瓦纳库的仪式中心
+
+- File: world-batch-05-tiwanaku-apogee.jpg
+- Creator: Pelegrin-RAM
+- Date: Photograph: 2009-07-05
+- Collection: Wikimedia Commons / credited photographer
+- Source: https://commons.wikimedia.org/wiki/File:Tiwanaku_-_Kalasasaya,_Templo_do_Sol.jpg
+- Rights: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Tiwanaku_-_Kalasasaya,_Templo_do_Sol.jpg
+
+Photograph © Pelegrin-RAM, CC BY-SA 4.0. Retain attribution, the license and any change notices when reusing this photograph. Share adaptations under the same license.
+
+Commons-provided JPEG, unchanged locally. Source-side cropping or processing is described on the file page.
+
+## Chankillo’s line of solar towers / 昌基略的太阳观测塔列
+
+- File: world-batch-05-chankillo-solar-calendar.jpg
+- Creator: Corrispo
+- Date: Photograph: 2023-10-14
+- Collection: Wikimedia Commons / credited photographer
+- Source: https://commons.wikimedia.org/wiki/File:Observatorio_Solar_-_Chankillo_5.jpg
+- Rights: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Observatorio_Solar_-_Chankillo_5.jpg
+
+Photograph © Corrispo, CC BY-SA 4.0. Retain attribution, the license and any change notices when reusing this photograph. Share adaptations under the same license.
+
+Commons-provided JPEG, unchanged locally. Source-side cropping or processing is described on the file page.
+
+## Inca masonry at Qorikancha / 科里坎查的印加石墙
+
+- File: world-batch-05-cusco-imperial-city.jpg
+- Creator: Håkan Svensson (Xauxa)
+- Date: Photograph: 2002-07
+- Collection: Wikimedia Commons / credited photographer
+- Source: https://commons.wikimedia.org/wiki/File:Cusco_Coricancha_Inti-Huasi_main_view.jpg
+- Rights: CC BY 2.5 (https://creativecommons.org/licenses/by/2.5)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Cusco_Coricancha_Inti-Huasi_main_view.jpg
+
+Photograph © Håkan Svensson (Xauxa), CC BY 2.5. Retain attribution, the license and any change notices when reusing this photograph.
+
+Commons-provided JPEG, unchanged locally. Source-side cropping or processing is described on the file page.
+
+## Household remains at Joya de Cerén / 霍亚德塞伦的家庭建筑遗存
+
+- File: world-batch-05-joya-ceren-households.jpg
+- Creator: Виктор Пинчук
+- Date: Photograph: 2015-04-16
+- Collection: Wikimedia Commons / credited photographer
+- Source: https://commons.wikimedia.org/wiki/File:Joya_de_Cer%C3%A9n,_domestic_complex.jpg
+- Rights: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Joya_de_Cer%C3%A9n,_domestic_complex.jpg
+
+Photograph © Виктор Пинчук, CC BY-SA 4.0. Retain attribution, the license and any change notices when reusing this photograph. Share adaptations under the same license.
+
+Commons-provided JPEG, unchanged locally. Source-side cropping or processing is described on the file page.
+
+## Stonework in Harar’s old city wall / 哈勒尔旧城墙的石砌结构
+
+- File: world-batch-05-harar-urban-world.jpg
+- Creator: Adam Jones from Kelowna, BC, Canada
+- Date: Photograph: 2013-05-18
+- Collection: Wikimedia Commons / credited photographer
+- Source: https://commons.wikimedia.org/wiki/File:Detail_of_Old_City_Wall_-_Harar_-_Ethiopia_(8750583290).jpg
+- Rights: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Detail_of_Old_City_Wall_-_Harar_-_Ethiopia_(8750583290).jpg
+
+Photograph © Adam Jones from Kelowna, BC, Canada, CC BY-SA 2.0. Retain attribution, the license and any change notices when reusing this photograph. Share adaptations under the same license.
+
+Commons-provided JPEG, unchanged locally. Source-side cropping or processing is described on the file page.

@@ -1,5 +1,5 @@
 import {availableVisualStudies,matchingVisualStudy} from './visual-studies.mjs?v=2';
-import {mediaFigures,mediaMetadata} from './history-media.mjs?v=2';
+import {mediaFigures,mediaMetadata} from './history-media.mjs?v=4';
 import {normalizeSearch} from './search-text.mjs';
 
 export const REPRESENTATIONS={
@@ -21,7 +21,7 @@ export function visualRows(catalog,records){
  return (catalog.items||[]).map(item=>{
   const ids=[...new Set([...(item.recordIds||[]),...(catalog.associations||[]).filter(link=>link.assetId===item.id).map(link=>link.recordId)])];
   const linked=ids.map(id=>byId.get(id)).filter(Boolean);
-  return {...item,linked,regions:[...new Set(linked.map(r=>r.region))],search:normalizeSearch([loc(item.title,'en'),loc(item.title,'zh'),item.creator,item.institution,mediaMetadata(item,'creator','zh'),mediaMetadata(item,'institution','zh'),...linked.flatMap(r=>[r.title.en,r.title.zh])].join(' '))};
+  return {...item,linked,regions:[...new Set(linked.map(r=>r.region))],search:normalizeSearch([loc(item.title,'en'),loc(item.title,'zh'),item.creator,item.institution,mediaMetadata(item,'creator','zh'),mediaMetadata(item,'institution','zh'),...['caption','alt','interpretation','historicalPeriod'].flatMap(key=>[loc(item[key],'en'),loc(item[key],'zh')]),...linked.flatMap(r=>[r.title.en,r.title.zh,r.location?.label,loc(r.location?.labelI18n,'zh')])].join(' '))};
  });
 }
 export function filterVisualRows(rows,{query='',region='all',type='all'}={}){
@@ -61,7 +61,7 @@ export function createVisualLibrary({catalog,records,getLanguage,regions,regionN
  }
  function inspect(id){
   const item=rows.find(row=>row.id===id);if(!item)return;
-  openDialog(`<section class="visual-inspector"><button class="text-button" data-action="visual-browse">← ${txt('Image collection','图像目录')}</button><p class="eyebrow">${esc(badge(item))}</p><h2>${esc(L(item.title))}</h2><div class="visual-inspect-layout"><div><div class="visual-zoom" tabindex="0" aria-label="${txt('Image inspection area; scroll to explore a magnified image','图像细看区域；放大后可滚动查看')}">${image(item)}</div><label class="visual-zoom-control">${txt('Magnification','放大倍率')} <input id="visual-zoom" type="range" min="100" max="250" step="25" value="100"><output id="visual-zoom-value">100%</output></label></div><div class="visual-inspect-caption">${mediaFigures([item],lang(),esc).replace(/<a class="history-image-link"[\s\S]*?<\/a>/,'').replace(/<button class="text-button" data-action="visual-inspect"[\s\S]*?<\/button>/,'')}<h3>${txt('Stories behind this image','图像背后的故事')}</h3><ol class="visual-stories">${item.linked.map(record=>{const link=(catalog.associations||[]).find(link=>link.assetId===id&&link.recordId===record.id);return `<li><button data-action="visual-story" data-id="${esc(record.id)}">${esc(L(record.title))} ↗</button>${link?`<p>${esc(L(link.context))}</p>`:''}</li>`;}).join('')}</ol></div></div></section>`,{wide:true,nav:'visuals-nav'});
+  openDialog(`<section class="visual-inspector"><button class="text-button" data-action="visual-browse">← ${txt('Image collection','图像目录')}</button><p class="eyebrow">${esc(badge(item))}</p><h2>${esc(L(item.title))}</h2><div class="visual-inspect-layout"><div><div class="visual-zoom" tabindex="0" aria-label="${txt('Image inspection area; scroll to explore a magnified image','图像细看区域；放大后可滚动查看')}">${image(item)}</div><label class="visual-zoom-control">${txt('Magnification','放大倍率')} <input id="visual-zoom" type="range" min="100" max="250" step="25" value="100"><output id="visual-zoom-value">100%</output></label></div><div class="visual-inspect-caption">${mediaFigures([item],lang(),esc).replace(/<a class="history-image-link"[\s\S]*?<\/a>/,'').replace(/<button class="text-button" data-action="visual-inspect"[\s\S]*?<\/button>/,'')}<h3>${txt('Stories behind this image','图像背后的故事')}</h3><ol class="visual-stories">${item.linked.map(record=>{const link=(catalog.associations||[]).find(link=>link.assetId===id&&link.recordId===record.id);return `<li><button data-action="visual-story" data-id="${esc(record.id)}">${esc(L(record.title))} ↗</button>${link&&L(link.context).trim()!==L(item.interpretation).trim()?`<p>${esc(L(link.context))}</p>`:''}</li>`;}).join('')}</ol></div></div></section>`,{wide:true,nav:'visuals-nav'});
   document.querySelector('#visual-zoom').addEventListener('input',event=>{const value=Number(event.target.value);document.querySelector('.visual-zoom img').style.width=value+'%';document.querySelector('#visual-zoom-value').value=value+'%';});
  }
  function compare(){

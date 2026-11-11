@@ -25,3 +25,9 @@ The source pages and local receipts referenced by those catalogues remain the hi
 175 unique asset IDs, 525 translated fields, exact English preservation, 175 local image hash matches and 43 focused role/date regressions pass. The local validator executes 5,516 assertions. The 153 previous translations remain unchanged. China 05 retains the full album-opening distinctions for Han Xin and Guo Ziyi, the Tang mural date for Zhang Qian and the authentic 1072 letter attribution for Ouyang Xiu. See `research/v18/media-localization-01/QA.md` for source ambiguities retained, and `validation.json` for machine results.
 
 Join the optional layer by asset ID and require each `en` value to match the current source field before using its `zh` counterpart. Do not overwrite production source fields with the snapshots. The production integration owner owns the optional display path, application testing and publication. The worker edited only the research localization directory and this reference note.
+
+## World batch 05 extension
+
+The final research package now covers **206 assets / 618 translated fields**, with all prior 175 translations unchanged. The 31 new site-photo records were reconciled after display dates dropped EXIF clock times; source evidence retains the full timestamps. The two year-only dates and one month-only date retain their original precision. Named photographers, image editors and source-host credits remain distinct from monument makers or collection ownership.
+
+The research validator passed 206 image hashes, 53 semantic regressions and 7,284 assertions. Delivered localization SHA-256: `144d1a78386f00c39f6f2acd2e38a27103541aac9210ed7cec6a32572b2258f8`. The owner independently checks exact English-field equality during the production build. Research package: `research/v18/media-localization-01/`.
