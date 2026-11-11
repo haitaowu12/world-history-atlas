@@ -11,7 +11,7 @@ const manifest=readAtlasData('content-expansion-v18.json'),reviews=readAtlasData
 test('V18 story corrections preserve identities, coordinates and unrelated records with one explicit chronology correction',()=>{
  assert.deepEqual(now.filter(r=>before.has(r.id)).map(r=>r.id),old.map(r=>r.id));
  const translated=new Map(applyPlaceLabelTranslations(old,readAtlasData(manifest.placeLabelsFile)).map(r=>[r.id,r]));
- const targets=new Set(reviews.eventReviews.map(r=>r.id));assert.deepEqual([...targets],['china-landmark-359','china-landmark-368','china-landmark-119','china-landmark-314','china-event-donghan-001','china-landmark-036','china-event-sui-010','china-landmark-424','china-landmark-466','china-landmark-505','china-landmark-335','china-landmark-291','china-event-xihan-001','china-event-xihan-010','china-landmark-519','china-event-zhanguo-016','china-landmark-276','china-event-qing-003','china-landmark-108','china-landmark-478','china-landmark-343']);
+ const targets=new Set(reviews.eventReviews.map(r=>r.id));assert.deepEqual([...targets],['china-landmark-359','china-landmark-368','china-landmark-119','china-landmark-314','china-event-donghan-001','china-landmark-036','china-event-sui-010','china-landmark-424','china-landmark-466','china-landmark-505','china-landmark-335','china-landmark-291','china-event-xihan-001','china-event-xihan-010','china-landmark-519','china-event-zhanguo-016','china-landmark-276','china-event-qing-003','china-landmark-108','china-landmark-478','china-landmark-343','china-landmark-536']);
  for(const row of now.filter(r=>before.has(r.id))){const prior=translated.get(row.id);if(!targets.has(row.id)){assert.deepEqual(row,prior,row.id);continue;}
   assert.equal(row.locationPrecision,prior.locationPrecision);for(const key of ['start','end']){if(row.id==='china-landmark-343'){assert.equal(prior[key],495);assert.equal(row[key],493);}else assert.equal(row[key],prior[key]);}
   for(const key of ['lon','lat'])assert.equal(row.location[key],prior.location[key]);
@@ -78,4 +78,9 @@ test('seven new corrected-story links exclude held chronologies and duplicate to
  for(const a of shard.associations)assert.ok(reviews.eventReviews.find(r=>r.id===a.recordId).sources.some(s=>s.url===a.evidenceUrl));
  assert.equal(shard.associations.find(a=>a.recordId==='china-landmark-343').role,'related-work');
  for(const id of ['china-landmark-519','china-landmark-279','china-landmark-356','china-landmark-526'])assert.ok(!shard.associations.some(a=>a.recordId===id));
+});
+
+
+test('Fuchun uses the artist’s unfinished inscription rather than a completion claim',()=>{
+ const r=after.get('china-landmark-536');assert.equal(r.start,1350);assert.equal(r.end,1350);assert.match(r.summary.en,/1347/);assert.match(r.summary.en,/still unfinished/);assert.match(r.summary.zh,/未得完备/);assert.ok(!r.title.en.includes('eighty-two'));assert.match(r.location.labelI18n.en,/landscape reference/);assert.ok(r.sources.some(s=>s.url==='https://digitalarchive.npm.gov.tw/Collection/Detail/1194?dep=P'));
 });

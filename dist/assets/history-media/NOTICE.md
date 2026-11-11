@@ -1,6 +1,6 @@
 # Historical images: credits and reuse
 
-Reviewed 2026-11-11. 308 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
+Reviewed 2026-11-11. 339 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
 
 Historical artifacts, surviving places and later depictions retain their source identities. No generated reconstructions are included in this catalogue.
 
@@ -2075,6 +2075,440 @@ Source image or source-generated thumbnail saved unchanged; no local cropping, r
 Photo: Bengt Nyman, CC BY 2.0. Cropped version supplied by Wikimedia Commons.
 
 Existing source crop/detail retained unchanged; no additional local cropping, recolouring or retouching.
+
+## Sima Qian, right, and Yang Xiong, left / 司马迁（右）与扬雄（左）
+
+- File: china-batch-08-simaqian.jpg
+- Creator: Anonymous Chinese artist
+- Date: Undated
+- Collection: National Palace Museum, Taipei; 中畫000328N000000008
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/17845?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/17845?dep=P
+
+歷代聖賢半身像 冊 司馬遷。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## Sima Yi, right, and Wang Xizhi, left / 司马懿（右）与王羲之（左）
+
+- File: china-batch-08-wangxizhi.jpg
+- Creator: Anonymous Chinese artist
+- Date: Undated
+- Collection: National Palace Museum, Taipei; 中畫000328N000000010
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/17849?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/17849?dep=P
+
+歷代聖賢半身像 冊 司馬懿。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## Tao Yuanming, right, and Xie Lingyun, left / 陶渊明（右）与谢灵运（左）
+
+- File: china-batch-08-taoyuanming.jpg
+- Creator: Anonymous Chinese artist
+- Date: Undated
+- Collection: National Palace Museum, Taipei; 中畫000328N000000011
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/17851?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/17851?dep=P
+
+歷代聖賢半身像 冊 陶淵明。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## Li Ji, right, and Yuchi Jingde, left / 李勣（右）与尉迟敬德（左）
+
+- File: china-batch-08-liji.jpg
+- Creator: Anonymous Chinese artist
+- Date: Undated
+- Collection: National Palace Museum, Taipei; 中畫000328N000000015
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/17859?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/17859?dep=P
+
+歷代聖賢半身像 冊 李勣。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## Gao Qiong, right, and Bao Zheng, left / 高琼（右）与包拯（左）
+
+- File: china-batch-08-baozheng.jpg
+- Creator: Anonymous Chinese artist
+- Date: Undated
+- Collection: National Palace Museum, Taipei; 中畫000328N000000022
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/17873?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/17873?dep=P
+
+歷代聖賢半身像 冊 高瓊。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## Yue Fei, right, and Zhu Xi, left / 岳飞（右）与朱熹（左）
+
+- File: china-batch-08-yuefei-zhuxi.jpg
+- Creator: Anonymous Chinese artist
+- Date: Undated
+- Collection: National Palace Museum, Taipei; 中畫000328N000000028
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/17885?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/17885?dep=P
+
+歷代聖賢半身像 冊 岳飛。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## Emperor Xuan of Han, right, and Emperor Guangwu, left / 汉宣帝（右）与汉光武帝（左）
+
+- File: china-batch-08-hanxuandi-guangwu.jpg
+- Creator: Anonymous Chinese artist
+- Date: Undated
+- Collection: National Palace Museum, Taipei; 中畫000330N000000009
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/17969?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/17969?dep=P
+
+聖君賢臣全身像 冊 宣帝。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## Sun Quan, right, and Emperor Wu of Jin, left / 孙权（右）与晋武帝（左）
+
+- File: china-batch-08-sunquan-jinwudi.jpg
+- Creator: Anonymous Chinese artist
+- Date: Undated
+- Collection: National Palace Museum, Taipei; 中畫000330N000000011
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/17973?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/17973?dep=P
+
+聖君賢臣全身像 冊 吳帝。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## Emperor Gaozu of Tang, right, and Emperor Taizong, left / 唐高祖（右）与唐太宗（左）
+
+- File: china-batch-08-tanggao-taizong.jpg
+- Creator: Anonymous Chinese artist
+- Date: Undated
+- Collection: National Palace Museum, Taipei; 中畫000330N000000013
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/17977?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/17977?dep=P
+
+聖君賢臣全身像 冊 唐高祖。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## Lin Xiangru, left, and Guiguzi, right / 蔺相如（左）与鬼谷子（右）
+
+- File: china-batch-08-linxiangru.jpg
+- Creator: Anonymous Chinese artist
+- Date: Undated
+- Collection: National Palace Museum, Taipei; 中畫000330N000000021
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/17993?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/17993?dep=P
+
+聖君賢臣全身像 冊 藺相如。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## Emperor Taizong in the Song imperial album / 宋代帝像册中的宋太宗
+
+- File: china-batch-08-song-taizong.jpg
+- Creator: Anonymous Chinese artist
+- Date: Undated
+- Collection: National Palace Museum, Taipei; 中畫000322N000000003
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/14758?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/14758?dep=P
+
+宋代帝半身像 冊 宋太宗。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## Emperor Zhenzong in the Song imperial album / 宋代帝像册中的宋真宗
+
+- File: china-batch-08-song-zhenzong.jpg
+- Creator: Anonymous Chinese artist
+- Date: Undated
+- Collection: National Palace Museum, Taipei; 中畫000322N000000004
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/14759?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/14759?dep=P
+
+宋代帝半身像 冊 宋真宗。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## Emperor Qinzong in the Song imperial album / 宋代帝像册中的宋钦宗
+
+- File: china-batch-08-song-qinzong.jpg
+- Creator: Anonymous Chinese artist
+- Date: Undated
+- Collection: National Palace Museum, Taipei; 中畫000322N000000010
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/14766?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/14766?dep=P
+
+宋代帝半身像 冊 宋欽宗。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## Emperor Gaozong in the Song imperial album / 宋代帝像册中的宋高宗
+
+- File: china-batch-08-song-gaozong.jpg
+- Creator: Anonymous Chinese artist
+- Date: Undated
+- Collection: National Palace Museum, Taipei; 中畫000322N000000011
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/14767?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/14767?dep=P
+
+宋代帝半身像 冊 宋高宗。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## Emperor Xiaozong in the Song imperial album / 宋代帝像册中的宋孝宗
+
+- File: china-batch-08-song-xiaozong.jpg
+- Creator: Anonymous Chinese artist
+- Date: Undated
+- Collection: National Palace Museum, Taipei; 中畫000322N000000012
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/14768?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/14768?dep=P
+
+宋代帝半身像 冊 宋孝宗。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## Emperor Guangzong in the Song imperial album / 宋代帝像册中的宋光宗
+
+- File: china-batch-08-song-guangzong.jpg
+- Creator: Anonymous Chinese artist
+- Date: Undated
+- Collection: National Palace Museum, Taipei; 中畫000322N000000013
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/14770?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/14770?dep=P
+
+宋代帝半身像 冊 宋光宗。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## Emperor Ningzong in the Song imperial album / 宋代帝像册中的宋宁宗
+
+- File: china-batch-08-song-ningzong.jpg
+- Creator: Anonymous Chinese artist
+- Date: Undated
+- Collection: National Palace Museum, Taipei; 中畫000322N000000014
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/14777?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/14777?dep=P
+
+宋代帝半身像 冊 宋寧宗。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## Emperor Lizong in the Song imperial album / 宋代帝像册中的宋理宗
+
+- File: china-batch-08-song-lizong.jpg
+- Creator: Anonymous Chinese artist
+- Date: Undated
+- Collection: National Palace Museum, Taipei; 中畫000322N000000015
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/14782?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/14782?dep=P
+
+宋代帝半身像 冊 宋理宗。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## Yongle emperor: a seated court portrait / 永乐帝宫廷坐像
+
+- File: china-batch-08-yongle.jpg
+- Creator: Anonymous Chinese artist
+- Date: Undated
+- Collection: National Palace Museum, Taipei; 中畫000312N000000000
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/1874?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/1874?dep=P
+
+明成祖坐像 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## Emperor Yingzong: a seated court portrait / 明英宗宫廷坐像
+
+- File: china-batch-08-ming-yingzong.jpg
+- Creator: Anonymous Chinese artist
+- Date: Undated
+- Collection: National Palace Museum, Taipei; 中畫000314N000000000
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/1876?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/1876?dep=P
+
+明英宗坐像 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## Jiajing emperor: a seated court portrait / 嘉靖帝宫廷坐像
+
+- File: china-batch-08-jiajing.jpg
+- Creator: Anonymous Chinese artist
+- Date: Undated
+- Collection: National Palace Museum, Taipei; 中畫000318N000000000
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/1880?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/1880?dep=P
+
+明世宗坐像 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## Wanli emperor: a seated court portrait / 万历帝宫廷坐像
+
+- File: china-batch-08-wanli.jpg
+- Creator: Anonymous Chinese artist
+- Date: Undated
+- Collection: National Palace Museum, Taipei; 中畫000297N000000000
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/1859?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/1859?dep=P
+
+明神宗坐像 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## Prince Xingxian: a seated court portrait / 兴献王宫廷坐像
+
+- File: china-batch-08-xingxian.jpg
+- Creator: Anonymous Chinese artist
+- Date: Undated
+- Collection: National Palace Museum, Taipei; 中畫000321N000000000
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/1883?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/1883?dep=P
+
+明興獻王坐像 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## Longqing emperor: a seated court portrait / 隆庆帝宫廷坐像
+
+- File: china-batch-08-longqing.jpg
+- Creator: Anonymous Chinese artist
+- Date: Undated
+- Collection: National Palace Museum, Taipei; 中畫000319N000000000
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/1881?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/1881?dep=P
+
+明穆宗坐像 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## Emperor Renzong in the Yuan imperial album / 元代帝像册中的元仁宗
+
+- File: china-batch-08-yuan-renzong.jpg
+- Creator: Anonymous Chinese artist
+- Date: Undated
+- Collection: National Palace Museum, Taipei; 中畫000324N000000006
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/15492?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/15492?dep=P
+
+元代帝半身像 冊 元仁宗。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## Emperor Wenzong in the Yuan imperial album / 元代帝像册中的元文宗
+
+- File: china-batch-08-yuan-wenzong.jpg
+- Creator: Anonymous Chinese artist
+- Date: Undated
+- Collection: National Palace Museum, Taipei; 中畫000324N000000007
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/15493?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/15493?dep=P
+
+元代帝半身像 冊 元文宗。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## Wang Zhaojun leaving for the frontier / 明妃出塞图
+
+- File: china-batch-08-zhaojun.jpg
+- Creator: Anonymous Chinese artist
+- Date: Yuan dynasty, 1271–1368
+- Collection: National Palace Museum, Taipei; 故畫002061N000000000
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/806?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/806?dep=P
+
+元人明妃出塞圖 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## Su Wu in a snowy landscape / 雪景中的苏武
+
+- File: china-batch-08-suwu.jpg
+- Creator: Li Zongwan; imperial inscription by Qianlong
+- Date: Qing dynasty, eighteenth century
+- Collection: National Palace Museum, Taipei; 故畫002531N000000000
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/6182?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/6182?dep=P
+
+清勵宗萬畫雪景人物即事御題 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## Zhu Xi’s letter during the 1194 succession / 1194年政局转折中的朱熹尺牍
+
+- File: china-batch-08-zhuxi-letter-1194.jpg
+- Creator: Zhu Xi
+- Date: Eighth lunar month of 1194
+- Collection: National Palace Museum, Taipei; 故書000151N000000000
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/1424?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/1424?dep=P
+
+宋朱熹尺牘 冊。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## Riverbank in Dwelling in the Fuchun Mountains / 《富春山居图》的河岸
+
+- File: china-batch-08-fuchun-river.jpg
+- Creator: Huang Gongwang
+- Date: Begun 1347; inscribed 1350
+- Collection: National Palace Museum, Taipei; 故畫001016N000000000
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/1194?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/1194?dep=P
+
+元黃公望富春山居圖 卷。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
+
+## The Pavilion of Prince Teng in later painting / 后世绘画中的滕王阁
+
+- File: china-batch-08-tengwang-pavilion.jpg
+- Creator: Anonymous Chinese artist
+- Date: Probably Yuan dynasty; later album mounting
+- Collection: National Palace Museum, Taipei; 故畫001264N000000003
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/5126?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/5126?dep=P
+
+歷代名繪 冊 無款滕王閣圖。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official image-service derivative saved unchanged; no local crop, retouching or conversion.
 
 ## Cao Cao in the Sancai Tuhui / 《三才图会》中的曹操像
 

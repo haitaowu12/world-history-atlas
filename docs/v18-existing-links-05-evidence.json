@@ -1,0 +1,2203 @@
+{
+  "reviewedAt": "2026-11-11",
+  "ownerReview": "Five narrow links reviewed against complete target records, current asset metadata, source excerpts and actual existing image pixels. No generic place or period matches admitted.",
+  "evidence": [
+    {
+      "decision": "propose",
+      "association": {
+        "assetId": "world-batch-05-lumbini-ashoka-pillar-249-bce",
+        "recordId": "maurya-empire",
+        "role": "historical-context",
+        "context": {
+          "en": "Ashoka’s inscribed pillar at Lumbini, photographed in 2023, gives a surviving example of the Mauryan royal inscriptions and Buddhist patronage discussed here.",
+          "zh": "2023年拍摄的蓝毗尼阿育王铭文石柱，为条目所述孔雀王朝王室铭文与佛教供养提供了存世实例。"
+        },
+        "evidenceUrl": "https://whc.unesco.org/en/list/666/",
+        "checkedAt": "2026-11-11"
+      },
+      "record": {
+        "id": "maurya-empire",
+        "title": {
+          "en": "Maurya: empire and public inscriptions",
+          "zh": "孔雀王朝：帝国与公开铭文"
+        },
+        "start": -321,
+        "end": -185,
+        "region": "south-asia",
+        "theme": "states",
+        "kind": "polity",
+        "importance": 5,
+        "location": {
+          "lat": 25.61,
+          "lon": 85.14,
+          "label": "Pataliputra / Patna",
+          "labelI18n": {
+            "en": "Pataliputra / Patna",
+            "zh": "华氏城／巴特那"
+          },
+          "labelProvenance": "reviewed-display-translation"
+        },
+        "locationPrecision": "representative",
+        "summary": {
+          "en": "Chandragupta Maurya built a large state centred on Pataliputra, and his successors extended its authority across much of the subcontinent. Ashoka’s inscriptions made royal messages visible on rocks and pillars, preserving unusually direct evidence of a ruler’s ethical and political claims. His support for Buddhism connected imperial patronage with religious institutions. These texts should be read as statements of intended policy rather than proof that every subject experienced benevolent rule. Mauryan history helps compare large states whose power rested on administration, military expansion and communication across linguistically and culturally varied regions.",
+          "zh": "旃陀罗笈多以华氏城为中心建立大国，后继者将权力扩展至次大陆大片地区。阿育王刻在岩石与石柱上的敕令，直接保存了君主的伦理和政治主张；其对佛教的支持，也连接皇权与宗教机构。铭文呈现的是政策宣言，不能简单等同于所有臣民的实际经历。孔雀王朝适合用于比较跨语言、跨文化帝国的战争、行政与沟通方式。"
+        },
+        "dateNote": {
+          "en": "Approximate 321–185 BCE follows the source’s body text; its title gives c. 323 BCE. Ancient chronology varies by a few years.",
+          "zh": "约前321—185年依据来源正文，标题写约前323年；古代年表存在数年差异。"
+        },
+        "sources": [
+          {
+            "title": "Mauryan Empire (ca. 323–185 B.C.)",
+            "url": "https://www.metmuseum.org/essays/mauryan-empire-ca-323-185-b-c",
+            "publisher": "The Metropolitan Museum of Art",
+            "checkedAt": "2026-10-22",
+            "evidenceNote": "Approximate 321–185 BCE follows the source’s body text; its title gives c. 323 BCE. Ancient chronology varies by a few years."
+          }
+        ]
+      },
+      "asset": {
+        "id": "world-batch-05-lumbini-ashoka-pillar-249-bce",
+        "recordIds": [
+          "lumbini-ashoka-pillar-249-bce"
+        ],
+        "kind": "site",
+        "representation": "site-photograph",
+        "file": "assets/history-media/world-batch-05-lumbini-ashoka-pillar-249-bce.jpg",
+        "sha256": "fedfa7dc29b9bd6aba38ade2f5f3a768f7852f79cd1991631d2737f1dc2cdd4d",
+        "bytes": 306010,
+        "width": 960,
+        "height": 1280,
+        "title": {
+          "en": "Ashoka’s pillar at Lumbini",
+          "zh": "蓝毗尼的阿育王石柱"
+        },
+        "alt": {
+          "en": "A plain cylindrical stone pillar rises within a low fenced enclosure.",
+          "zh": "朴素圆柱形石柱立于低矮围栏内。"
+        },
+        "caption": {
+          "en": "Lumbini’s inscribed pillar records Ashoka’s connection with this Buddhist pilgrimage place.",
+          "zh": "蓝毗尼铭文石柱记录阿育王与这处佛教朝圣地的联系。"
+        },
+        "interpretation": {
+          "en": "The pillar is evidence of Mauryan-era commemoration; it does not supply a contemporary birth record of the Buddha.",
+          "zh": "石柱见证孔雀王朝时期的纪念活动，并非佛陀诞生当时的记录。"
+        },
+        "creator": "Rangan Datta Wiki",
+        "date": "Photograph: 2023-12-13",
+        "institution": "Wikimedia Commons / credited photographer",
+        "metadataI18n": {
+          "date": {
+            "en": "Photograph: 2023-12-13",
+            "zh": "拍摄于2023年12月13日"
+          },
+          "creator": {
+            "en": "Rangan Datta Wiki",
+            "zh": "署名摄影者（Rangan Datta Wiki）"
+          },
+          "institution": {
+            "en": "Wikimedia Commons / credited photographer",
+            "zh": "维基共享资源／署名摄影者"
+          }
+        },
+        "historicalPeriod": {
+          "en": "Approximately 249 BCE",
+          "zh": "约公元前249年"
+        },
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ashoka_Pillar,_Mayadevi_Temple,_Lumbini.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ashoka_Pillar%2C_Mayadevi_Temple%2C_Lumbini.jpg",
+        "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Ashoka_Pillar%2C_Mayadevi_Temple%2C_Lumbini.jpg/960px-Ashoka_Pillar%2C_Mayadevi_Temple%2C_Lumbini.jpg",
+        "checkedAt": "2026-11-11",
+        "rightsSourceUrl": "https://commons.wikimedia.org/wiki/File:Ashoka_Pillar,_Mayadevi_Temple,_Lumbini.jpg",
+        "rights": {
+          "label": "CC BY-SA 4.0",
+          "url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "note": {
+            "en": "Photograph © Rangan Datta Wiki, CC BY-SA 4.0. Retain attribution, the license and any change notices when reusing this photograph. Share adaptations under the same license.",
+            "zh": "照片署名：Rangan Datta Wiki；许可：CC BY-SA 4.0。再次使用时须保留署名、许可及修改说明。改编作品须沿用相同许可。"
+          }
+        },
+        "contextSources": [
+          {
+            "title": {
+              "en": "Explore this site’s history",
+              "zh": "了解遗址历史"
+            },
+            "url": "https://whc.unesco.org/en/list/666/"
+          }
+        ],
+        "retrieval": "Commons source-page revisions and image metadata retained. Delivered bytes decoded, hashed and individually reviewed.",
+        "transformation": {
+          "en": "Commons-provided JPEG, unchanged locally. Source-side cropping or processing is described on the file page.",
+          "zh": "采用Commons提供的JPEG，未在本地修改。来源已有的裁切或处理见文件页说明。"
+        }
+      },
+      "sourceEvidenceIds": [
+        "lumbini"
+      ],
+      "basis": "Both summaries centrally discuss royal inscriptions and Buddhist patronage. The artifact belongs to that ruler and period; no claim that it contains the Kalinga edict.",
+      "visualReview": "Existing local JPEG opened and visually inspected individually; no downloads or edits.",
+      "narrativeScope": "This link validates only the stated relationship, not every inherited historical assertion."
+    },
+    {
+      "decision": "propose",
+      "association": {
+        "assetId": "world-batch-05-lumbini-ashoka-pillar-249-bce",
+        "recordId": "person-ashoka",
+        "role": "related-work",
+        "context": {
+          "en": "The Lumbini pillar records Ashoka’s visit to a Buddhist pilgrimage place around 249 BCE. This 2023 photograph shows one of his surviving inscriptions, distinct from the Kalinga edict discussed in the biography.",
+          "zh": "蓝毗尼石柱记录阿育王约公元前249年到访佛教朝圣地。2023年的照片呈现其存世铭文之一，与传记所述羯陵伽诏令是不同文本。"
+        },
+        "evidenceUrl": "https://whc.unesco.org/en/list/666/",
+        "checkedAt": "2026-11-11"
+      },
+      "record": {
+        "id": "person-ashoka",
+        "name": {
+          "en": "Ashoka",
+          "zh": "阿育王"
+        },
+        "title": {
+          "en": "Ashoka · Empire and moral government",
+          "zh": "阿育王 · 帝国与道德治理"
+        },
+        "kind": "person",
+        "start": -268,
+        "end": -232,
+        "location": {
+          "lat": 25.61,
+          "lon": 85.14,
+          "label": "Pataliputra / present-day Patna"
+        },
+        "region": "south-asia",
+        "theme": "states",
+        "summary": {
+          "en": "Ashoka inherited the Mauryan state and ruled much of the Indian subcontinent. His inscriptions are unusually direct evidence for how an ancient ruler wished to address his subjects. They discuss ethical conduct, respect for living beings, public welfare, and the responsibilities of officials. After the conquest of Kalinga, an edict expressed remorse for the suffering produced by war. This public language should not be mistaken for proof that coercion disappeared from imperial government. Later Buddhist traditions also shaped his reputation. Reading inscriptions alongside those traditions helps distinguish the ruler’s own political claims, later religious memory, and the difficult question of how closely policy followed an announced ideal.",
+          "zh": "阿育王继承孔雀王朝，统治印度次大陆的大部分地区。他的铭文直接展示古代统治者希望如何向臣民讲话：内容涉及道德行为、尊重生命、公共福祉和官员职责。征服羯陵伽后，一份诏令表达了对战争苦难的悔恨。这种公开语言不等于帝国治理中的强制手段从此消失。后世佛教传统也塑造了他的形象。把铭文与这些传统并读，有助于区分统治者自己的政治主张、后来的宗教记忆，以及政策是否落实理想的问题。"
+        },
+        "dateNote": {
+          "en": "Reign c.268–232 BCE, not lifespan. Kalinga is conventionally placed around 260 BCE; ancient chronology is approximate.",
+          "zh": "约公元前268—232年为在位期，并非生卒年；羯陵伽战争通常置于约前260年，古代年代存在误差。"
+        },
+        "locationPrecision": "representative",
+        "importance": 4,
+        "sources": [
+          {
+            "title": "Ashoka: The Rock Edicts",
+            "url": "https://sourcebooks.fordham.edu/india/ashoka-edicts.asp",
+            "publisher": "Internet History Sourcebooks Project, Fordham University",
+            "evidenceNote": "Translated primary inscriptions on piety, welfare, officials and pilgrimage.",
+            "checkedAt": "2026-10-22"
+          },
+          {
+            "title": "Ashoka the Great",
+            "url": "https://www.worldhistory.org/Ashoka_the_Great/",
+            "publisher": "World History Encyclopedia",
+            "evidenceNote": "Reign, approximate Kalinga chronology, distinctions between edicts and later tradition.",
+            "checkedAt": "2026-10-22"
+          }
+        ],
+        "milestones": [
+          {
+            "year": -268,
+            "title": {
+              "en": "Mauryan ruler",
+              "zh": "孔雀王朝君主"
+            },
+            "description": {
+              "en": "Approximate beginning of Ashoka’s reign.",
+              "zh": "阿育王在位期的大致起点。"
+            },
+            "location": {
+              "lat": 25.61,
+              "lon": 85.14,
+              "label": "Pataliputra"
+            },
+            "approximate": true
+          },
+          {
+            "year": -260,
+            "title": {
+              "en": "Kalinga and remorse",
+              "zh": "羯陵伽与悔恨"
+            },
+            "description": {
+              "en": "The conquest was later discussed with remorse in a royal edict.",
+              "zh": "王室诏令后来以悔恨的语言叙述这次征服。"
+            },
+            "location": {
+              "lat": 20.19,
+              "lon": 85.84,
+              "label": "Dhauli, Kalinga region"
+            },
+            "approximate": true
+          },
+          {
+            "year": -232,
+            "title": {
+              "en": "End of the reign",
+              "zh": "统治结束"
+            },
+            "description": {
+              "en": "Conventional date of Ashoka’s death.",
+              "zh": "传统采用的阿育王去世年份。"
+            },
+            "location": {
+              "lat": 25.61,
+              "lon": 85.14,
+              "label": "Pataliputra"
+            },
+            "approximate": true
+          }
+        ]
+      },
+      "asset": {
+        "id": "world-batch-05-lumbini-ashoka-pillar-249-bce",
+        "recordIds": [
+          "lumbini-ashoka-pillar-249-bce"
+        ],
+        "kind": "site",
+        "representation": "site-photograph",
+        "file": "assets/history-media/world-batch-05-lumbini-ashoka-pillar-249-bce.jpg",
+        "sha256": "fedfa7dc29b9bd6aba38ade2f5f3a768f7852f79cd1991631d2737f1dc2cdd4d",
+        "bytes": 306010,
+        "width": 960,
+        "height": 1280,
+        "title": {
+          "en": "Ashoka’s pillar at Lumbini",
+          "zh": "蓝毗尼的阿育王石柱"
+        },
+        "alt": {
+          "en": "A plain cylindrical stone pillar rises within a low fenced enclosure.",
+          "zh": "朴素圆柱形石柱立于低矮围栏内。"
+        },
+        "caption": {
+          "en": "Lumbini’s inscribed pillar records Ashoka’s connection with this Buddhist pilgrimage place.",
+          "zh": "蓝毗尼铭文石柱记录阿育王与这处佛教朝圣地的联系。"
+        },
+        "interpretation": {
+          "en": "The pillar is evidence of Mauryan-era commemoration; it does not supply a contemporary birth record of the Buddha.",
+          "zh": "石柱见证孔雀王朝时期的纪念活动，并非佛陀诞生当时的记录。"
+        },
+        "creator": "Rangan Datta Wiki",
+        "date": "Photograph: 2023-12-13",
+        "institution": "Wikimedia Commons / credited photographer",
+        "metadataI18n": {
+          "date": {
+            "en": "Photograph: 2023-12-13",
+            "zh": "拍摄于2023年12月13日"
+          },
+          "creator": {
+            "en": "Rangan Datta Wiki",
+            "zh": "署名摄影者（Rangan Datta Wiki）"
+          },
+          "institution": {
+            "en": "Wikimedia Commons / credited photographer",
+            "zh": "维基共享资源／署名摄影者"
+          }
+        },
+        "historicalPeriod": {
+          "en": "Approximately 249 BCE",
+          "zh": "约公元前249年"
+        },
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ashoka_Pillar,_Mayadevi_Temple,_Lumbini.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ashoka_Pillar%2C_Mayadevi_Temple%2C_Lumbini.jpg",
+        "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Ashoka_Pillar%2C_Mayadevi_Temple%2C_Lumbini.jpg/960px-Ashoka_Pillar%2C_Mayadevi_Temple%2C_Lumbini.jpg",
+        "checkedAt": "2026-11-11",
+        "rightsSourceUrl": "https://commons.wikimedia.org/wiki/File:Ashoka_Pillar,_Mayadevi_Temple,_Lumbini.jpg",
+        "rights": {
+          "label": "CC BY-SA 4.0",
+          "url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "note": {
+            "en": "Photograph © Rangan Datta Wiki, CC BY-SA 4.0. Retain attribution, the license and any change notices when reusing this photograph. Share adaptations under the same license.",
+            "zh": "照片署名：Rangan Datta Wiki；许可：CC BY-SA 4.0。再次使用时须保留署名、许可及修改说明。改编作品须沿用相同许可。"
+          }
+        },
+        "contextSources": [
+          {
+            "title": {
+              "en": "Explore this site’s history",
+              "zh": "了解遗址历史"
+            },
+            "url": "https://whc.unesco.org/en/list/666/"
+          }
+        ],
+        "retrieval": "Commons source-page revisions and image metadata retained. Delivered bytes decoded, hashed and individually reviewed.",
+        "transformation": {
+          "en": "Commons-provided JPEG, unchanged locally. Source-side cropping or processing is described on the file page.",
+          "zh": "采用Commons提供的JPEG，未在本地修改。来源已有的裁切或处理见文件页说明。"
+        }
+      },
+      "sourceEvidenceIds": [
+        "lumbini"
+      ],
+      "basis": "Authorship/patronage is direct: a surviving Ashokan monument for a biography centrally about his inscriptions. Full bilingual biography and milestones reviewed.",
+      "visualReview": "Existing local JPEG opened and visually inspected individually; no downloads or edits.",
+      "narrativeScope": "This link validates only the stated relationship, not every inherited historical assertion."
+    },
+    {
+      "decision": "propose",
+      "association": {
+        "assetId": "world-batch-05-lumbini-ashoka-pillar-249-bce",
+        "recordId": "early-buddhist-teachings-communities",
+        "role": "historical-context",
+        "context": {
+          "en": "Lumbini’s Ashokan pillar, dating to the third century BCE and photographed in 2023, illustrates the entry’s distinction between early Buddhist traditions and later royal evidence for pilgrimage.",
+          "zh": "蓝毗尼阿育王石柱属于公元前三世纪，照片拍摄于2023年。它使条目对早期佛教传统与后来王室朝圣证据的区分具体可见。"
+        },
+        "evidenceUrl": "https://whc.unesco.org/en/list/666/",
+        "checkedAt": "2026-11-11"
+      },
+      "record": {
+        "id": "early-buddhist-teachings-communities",
+        "title": {
+          "en": "Early Buddhism · Teachings and communities",
+          "zh": "早期佛教 · 教导与社群"
+        },
+        "start": -500,
+        "end": -200,
+        "region": "south-asia",
+        "theme": "culture",
+        "kind": "idea",
+        "importance": 4,
+        "location": {
+          "lat": 25.1,
+          "lon": 85.1,
+          "label": "Middle Ganges region; broad context for early Buddhist history, not an identified founding spot",
+          "labelI18n": {
+            "en": "Middle Ganges region; broad context for early Buddhist history, not an identified founding spot",
+            "zh": "恒河中游地区；早期佛教的概略背景，并非特定创立地点"
+          }
+        },
+        "locationPrecision": "representative",
+        "summary": {
+          "en": "Buddhist traditions remember the Buddha as a teacher, and the museum’s account discusses karma, rebirth and nirvana as release from the cycle of earthly existence. The Metropolitan Museum’s art-historical overview places his life broadly in the fifth–fourth centuries BCE; scholars differ on more precise dates. Accounts of his life and enlightenment belong to religious traditions with their own textual histories, and cannot be treated as a single contemporaneous biography.\n\nMonastic complexes and pilgrimage became important settings in Buddhist life. Later monuments and royal inscriptions offer different kinds of evidence: stone remains can show patronage and practice at particular places, while a ruler’s inscriptions express that ruler’s own claims. Neither establishes that every community practiced in the same way. The location is a regional reference; Buddhism continues today in many communities.",
+          "zh": "佛教传统把佛陀记为一位导师；博物馆文章讨论业、轮回与涅槃，将涅槃视为从世间轮回中解脱。大都会艺术博物馆的艺术史综述将其生平宽泛地置于公元前五至前四世纪；更精确的年代仍有学术分歧。关于其生平和觉悟的叙述属于有自身文本传承的宗教传统，不能视作一份单一的同时代传记。\n\n寺院建筑群和朝圣成为佛教生活的重要场所。后来的古迹和王室铭文属于不同类型的证据：石质遗存可显示特定地点的供养与实践，统治者铭文则表达统治者自己的主张。两者都不能证明各地社群实践完全一致。地图点只是地区参照；佛教至今仍在众多社群中延续。"
+        },
+        "dateNote": {
+          "en": "500–200 BCE is a broad editorial window linking the Buddha’s debated chronology to early communities and later third-century BCE inscriptions. It is not an exact lifespan, foundation date or endpoint.",
+          "zh": "公元前500—前200年是宽泛的编辑时段，连接佛陀有争议的年代、早期社群与后来的公元前三世纪铭文；不是精确寿命、创立日期或终点。"
+        },
+        "relatedIds": [
+          "buddhist-art-mathura-gandhara",
+          "person-ashoka",
+          "sanchi",
+          "jain-ascetic-communities"
+        ],
+        "sources": [
+          {
+            "title": "Buddhism and Buddhist Art",
+            "url": "https://www.metmuseum.org/essays/buddhism-and-buddhist-art",
+            "publisher": "Vidya Dehejia / The Metropolitan Museum of Art",
+            "evidenceNote": "Directly inspected the Columbia scholar’s museum essay: the Buddha is placed broadly in the fifth–fourth centuries BCE; the essay discusses Buddhist stories, stupas and circumambulation, early stone gateways, and first-century CE images in Gandhara and Mathura. It is an art-historical overview, not evidence for precise dates of the Buddha’s life or Ashoka’s reign.",
+            "checkedAt": "2026-10-27",
+            "retrieval": "inspected-text"
+          },
+          {
+            "title": "Ashoka: The Rock Edicts",
+            "url": "https://sourcebooks.fordham.edu/india/ashoka-edicts.asp",
+            "publisher": "Internet History Sourcebooks Project / Fordham University",
+            "evidenceNote": "Previously inspected translated royal inscriptions on piety, officials and conduct. These are a ruler’s own claims in translation, not complete evidence of individual beliefs or the precise dates of the Buddha.",
+            "checkedAt": "2026-10-22",
+            "retrieval": "inspected-text"
+          }
+        ],
+        "expansion": {
+          "release": 8,
+          "edition": "v14",
+          "workstreams": [
+            "SA1"
+          ],
+          "sourceReview": "inspected-source-synthesis",
+          "reviewLimit": {
+            "en": "The museum essay foregrounds surviving art and traditional stories; the edicts are translated royal documents. More specialist work is needed on early texts, chronology and diverse communities.",
+            "zh": "博物馆文章侧重存世艺术与传统叙述；诏令是经翻译的王室文件。早期文本、年代与不同社群仍需更深入的专业研究。"
+          }
+        },
+        "regionalAssociation": "omit-broad-point"
+      },
+      "asset": {
+        "id": "world-batch-05-lumbini-ashoka-pillar-249-bce",
+        "recordIds": [
+          "lumbini-ashoka-pillar-249-bce"
+        ],
+        "kind": "site",
+        "representation": "site-photograph",
+        "file": "assets/history-media/world-batch-05-lumbini-ashoka-pillar-249-bce.jpg",
+        "sha256": "fedfa7dc29b9bd6aba38ade2f5f3a768f7852f79cd1991631d2737f1dc2cdd4d",
+        "bytes": 306010,
+        "width": 960,
+        "height": 1280,
+        "title": {
+          "en": "Ashoka’s pillar at Lumbini",
+          "zh": "蓝毗尼的阿育王石柱"
+        },
+        "alt": {
+          "en": "A plain cylindrical stone pillar rises within a low fenced enclosure.",
+          "zh": "朴素圆柱形石柱立于低矮围栏内。"
+        },
+        "caption": {
+          "en": "Lumbini’s inscribed pillar records Ashoka’s connection with this Buddhist pilgrimage place.",
+          "zh": "蓝毗尼铭文石柱记录阿育王与这处佛教朝圣地的联系。"
+        },
+        "interpretation": {
+          "en": "The pillar is evidence of Mauryan-era commemoration; it does not supply a contemporary birth record of the Buddha.",
+          "zh": "石柱见证孔雀王朝时期的纪念活动，并非佛陀诞生当时的记录。"
+        },
+        "creator": "Rangan Datta Wiki",
+        "date": "Photograph: 2023-12-13",
+        "institution": "Wikimedia Commons / credited photographer",
+        "metadataI18n": {
+          "date": {
+            "en": "Photograph: 2023-12-13",
+            "zh": "拍摄于2023年12月13日"
+          },
+          "creator": {
+            "en": "Rangan Datta Wiki",
+            "zh": "署名摄影者（Rangan Datta Wiki）"
+          },
+          "institution": {
+            "en": "Wikimedia Commons / credited photographer",
+            "zh": "维基共享资源／署名摄影者"
+          }
+        },
+        "historicalPeriod": {
+          "en": "Approximately 249 BCE",
+          "zh": "约公元前249年"
+        },
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ashoka_Pillar,_Mayadevi_Temple,_Lumbini.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ashoka_Pillar%2C_Mayadevi_Temple%2C_Lumbini.jpg",
+        "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Ashoka_Pillar%2C_Mayadevi_Temple%2C_Lumbini.jpg/960px-Ashoka_Pillar%2C_Mayadevi_Temple%2C_Lumbini.jpg",
+        "checkedAt": "2026-11-11",
+        "rightsSourceUrl": "https://commons.wikimedia.org/wiki/File:Ashoka_Pillar,_Mayadevi_Temple,_Lumbini.jpg",
+        "rights": {
+          "label": "CC BY-SA 4.0",
+          "url": "https://creativecommons.org/licenses/by-sa/4.0",
+          "note": {
+            "en": "Photograph © Rangan Datta Wiki, CC BY-SA 4.0. Retain attribution, the license and any change notices when reusing this photograph. Share adaptations under the same license.",
+            "zh": "照片署名：Rangan Datta Wiki；许可：CC BY-SA 4.0。再次使用时须保留署名、许可及修改说明。改编作品须沿用相同许可。"
+          }
+        },
+        "contextSources": [
+          {
+            "title": {
+              "en": "Explore this site’s history",
+              "zh": "了解遗址历史"
+            },
+            "url": "https://whc.unesco.org/en/list/666/"
+          }
+        ],
+        "retrieval": "Commons source-page revisions and image metadata retained. Delivered bytes decoded, hashed and individually reviewed.",
+        "transformation": {
+          "en": "Commons-provided JPEG, unchanged locally. Source-side cropping or processing is described on the file page.",
+          "zh": "采用Commons提供的JPEG，未在本地修改。来源已有的裁切或处理见文件页说明。"
+        }
+      },
+      "sourceEvidenceIds": [
+        "lumbini"
+      ],
+      "basis": "The complete second paragraph explicitly discusses pilgrimage and later royal inscriptions, and dateNote includes third-century BCE inscriptions. This is an actual example of that evidence, not a depiction of the Buddha’s life.",
+      "visualReview": "Existing local JPEG opened and visually inspected individually; no downloads or edits.",
+      "narrativeScope": "This link validates only the stated relationship, not every inherited historical assertion."
+    },
+    {
+      "decision": "propose",
+      "association": {
+        "assetId": "world-batch-06-tepapa-sheppard",
+        "recordId": "nz-womens-suffrage",
+        "role": "related-work",
+        "context": {
+          "en": "The cover of Kate Sheppard’s 1893 franchise report for the New Zealand Women’s Christian Temperance Union connects the voting-rights victory with the organized campaign behind it.",
+          "zh": "凯特·谢泼德为新西兰妇女基督教禁酒联合会撰写的1893年选举权报告封面，将投票权的取得与背后的组织运动联系起来。"
+        },
+        "evidenceUrl": "https://collections.tepapa.govt.nz/object/397630",
+        "checkedAt": "2026-11-11"
+      },
+      "record": {
+        "id": "nz-womens-suffrage",
+        "title": {
+          "en": "New Zealand: women win the parliamentary vote",
+          "zh": "新西兰：女性取得国会选举投票权"
+        },
+        "start": 1893,
+        "end": 1893,
+        "location": {
+          "lat": -41.28,
+          "lon": 174.78,
+          "label": "Wellington; national legislation marker"
+        },
+        "region": "oceania",
+        "theme": "states",
+        "summary": {
+          "en": "On 19 September 1893, a new Electoral Act gave women the right to vote in New Zealand parliamentary elections. The change followed years of campaigning and large petitions, including those organised by Kate Sheppard and other suffragists. It made New Zealand the first self-governing country to grant that parliamentary voting right to women. The event illustrates how organised participation can change electoral rules; it did not, by itself, complete the wider struggle for political equality.",
+          "zh": "1893年9月19日，新的选举法赋予新西兰女性参加国会选举的投票权。此前，凯特·谢泼德等参政权倡导者进行了多年活动，并组织大规模请愿。新西兰由此成为首个赋予女性这一国会投票权的自治国家。这一事件展现了组织参与如何改变选举制度，但不表示更广泛的政治平等已经全部实现。"
+        },
+        "dateNote": {
+          "en": "Single-year event; law signed 19 September 1893. The marker indicates the legislative centre, not every place where campaigning occurred.",
+          "zh": "单一年份事件：1893年9月19日签署法律。标记表示立法中心，并非所有运动发生地点。"
+        },
+        "locationPrecision": "representative",
+        "sources": [
+          {
+            "title": "New Zealand women and the vote",
+            "url": "https://nzhistory.govt.nz/politics/womens-suffrage",
+            "publisher": "Manatū Taonga — Ministry for Culture and Heritage",
+            "evidenceNote": "Ministry account gives 19 September 1893, parliamentary voting right, campaigns and petitions.",
+            "checkedAt": "2026-10-21"
+          }
+        ],
+        "ongoing": false,
+        "kind": "event",
+        "importance": 4
+      },
+      "asset": {
+        "id": "world-batch-06-tepapa-sheppard",
+        "recordIds": [
+          "person-kate-sheppard"
+        ],
+        "kind": "document",
+        "representation": "document-facsimile",
+        "title": {
+          "en": "Kate Sheppard’s franchise report, 1893",
+          "zh": "凯特·谢泼德的1893年选举权报告"
+        },
+        "alt": {
+          "en": "A cream paper cover carries a decorative border and the printed title Franchise Report for 1893.",
+          "zh": "米色封面饰以花纹边框，印有《1893年选举权报告》标题。"
+        },
+        "caption": {
+          "en": "Te Papa identifies Kate Sheppard as author of this 1893 report, published by the New Zealand Women’s Christian Temperance Union and printed by Ward, Wilson, and Co.",
+          "zh": "蒂帕帕博物馆将凯特·谢泼德列为这份1893年报告的作者；出版者为新西兰妇女基督教禁酒联合会，印刷者为沃德、威尔逊公司。"
+        },
+        "interpretation": {
+          "en": "The cover places the suffrage campaign inside an organized association. Printed reports helped turn local campaigning into a shared national record.",
+          "zh": "封面将选举权运动置于有组织的社团之中。印刷报告有助于把地方行动汇成共同的全国记录。"
+        },
+        "creator": "Kate Sheppard (author); New Zealand Women’s Christian Temperance Union (publisher); Ward, Wilson, and Co. (printer)",
+        "date": "1893",
+        "institution": "Museum of New Zealand Te Papa Tongarewa",
+        "sourceUrl": "https://collections.tepapa.govt.nz/object/397630",
+        "imageUrl": "https://media.tepapa.govt.nz/collection/339173/preview",
+        "downloadedFrom": "https://media.tepapa.govt.nz/collection/339173/preview",
+        "file": "assets/history-media/world-batch-06-tepapa-sheppard.jpg",
+        "sha256": "6de5f827d61299a40a88b0c022137503920ed32720c2a7b4c7b1f73acc88dc5a",
+        "bytes": 89892,
+        "width": 776,
+        "height": 1000,
+        "checkedAt": "2026-11-11",
+        "rightsSourceUrl": "https://www.tepapa.govt.nz/about-collections-online#no-known-copyright",
+        "rights": {
+          "label": "No Known Copyright Restrictions",
+          "url": "https://www.tepapa.govt.nz/about-collections-online#no-known-copyright",
+          "note": {
+            "en": "No known copyright restrictions. Credit: Museum of New Zealand Te Papa Tongarewa, CA000383/001/0026.",
+            "zh": "无已知版权限制。署名：Museum of New Zealand Te Papa Tongarewa, CA000383/001/0026。"
+          }
+        },
+        "credit": "Museum of New Zealand Te Papa Tongarewa, CA000383/001/0026",
+        "metadataI18n": {
+          "date": {
+            "en": "1893",
+            "zh": "1893年"
+          },
+          "creator": {
+            "en": "Kate Sheppard (author); New Zealand Women’s Christian Temperance Union (publisher); Ward, Wilson, and Co. (printer)",
+            "zh": "凯特·谢泼德（作者）；新西兰妇女基督教禁酒联合会（出版者）；沃德、威尔逊公司（Ward, Wilson, and Co.，印刷者）"
+          },
+          "institution": {
+            "en": "Museum of New Zealand Te Papa Tongarewa",
+            "zh": "新西兰国家博物馆蒂帕帕（Te Papa Tongarewa）"
+          }
+        },
+        "transformation": {
+          "en": "Institution-provided JPEG, unchanged.",
+          "zh": "馆方提供的JPEG，未作修改。"
+        },
+        "contextSources": [
+          {
+            "title": {
+              "en": "Read the related history",
+              "zh": "阅读相关历史"
+            },
+            "url": "https://nzhistory.govt.nz/people/kate-sheppard"
+          }
+        ]
+      },
+      "sourceEvidenceIds": [
+        "report",
+        "suffrage"
+      ],
+      "basis": "The named principal campaigner authored a contemporaneous report of the very franchise campaign. Not merely the author’s unrelated writing. No text contents beyond the cover/catalogue description claimed.",
+      "visualReview": "Existing local JPEG opened and visually inspected individually; no downloads or edits.",
+      "narrativeScope": "This link validates only the stated relationship, not every inherited historical assertion."
+    },
+    {
+      "decision": "propose",
+      "association": {
+        "assetId": "world-batch-03-sanchi",
+        "recordId": "buddhist-art-mathura-gandhara",
+        "role": "historical-context",
+        "context": {
+          "en": "Sanchi’s carved gateway, railing and Great Stupa, photographed in 2013, illustrate the stone architecture compared with later devotional images in this entry. This is Sanchi in central India, not Gandhara or Mathura.",
+          "zh": "2013年拍摄的桑吉雕刻门楼、围栏与大塔，呈现条目用来与后来供奉造像比较的石质建筑。这是印度中部的桑吉，并非犍陀罗或马图拉。"
+        },
+        "evidenceUrl": "https://whc.unesco.org/en/list/524/",
+        "checkedAt": "2026-11-11"
+      },
+      "record": {
+        "id": "buddhist-art-mathura-gandhara",
+        "title": {
+          "en": "Buddhist art · Stupas and images in Gandhara and Mathura",
+          "zh": "佛教艺术 · 犍陀罗、马图拉的佛塔与造像"
+        },
+        "start": -100,
+        "end": 200,
+        "region": "south-asia",
+        "theme": "culture",
+        "kind": "culture",
+        "importance": 4,
+        "location": {
+          "lat": 27.49,
+          "lon": 77.67,
+          "label": "Mathura; one place in the cited art history, not the extent of Buddhist communities",
+          "labelI18n": {
+            "en": "Mathura; one place in the cited art history, not the extent of Buddhist communities",
+            "zh": "马图拉；所引艺术史中的一个地点，并非佛教社群的分布范围"
+          }
+        },
+        "locationPrecision": "representative",
+        "summary": {
+          "en": "Buddhist monuments preserve evidence of patronage, worship and artistic choices. The Metropolitan Museum’s overview discusses stone railings and gateways around stupas in the first century BCE and images of the Buddha made in Gandhara and Mathura in the first century CE. These different objects invite comparison of the ways communities represented and honored their teachers and sacred places.\n\nDating surviving sculptures is not the same as proving when an idea or practice first appeared everywhere. Nor do shared images establish a single political authority or a uniform tradition. The marker identifies Mathura as one relevant place; the referenced works and communities were not confined to one point.",
+          "zh": "佛教古迹保存着供养、礼拜与艺术选择的证据。大都会艺术博物馆的综述讨论了公元前一世纪佛塔周围的石栏与门，以及公元一世纪犍陀罗和马图拉的佛陀造像。这些不同物件可用于比较社群如何表现和尊崇导师与圣地。\n\n为存世雕塑断代，不等于证明某种思想或实践何时在所有地方首次出现。相似图像也不能确立统一的政治权威或完全一致的传统。地图点将马图拉作为一个相关地点；所述作品与社群并不限于一个点。"
+        },
+        "dateNote": {
+          "en": "100 BCE–200 CE is a broad comparison window around examples dated by the museum. It is not a universal first-image date or an end to Buddhist art.",
+          "zh": "公元前100年至公元200年是围绕博物馆所列实例的宽泛比较时段，不是普遍的首次造像日期，也不是佛教艺术的终点。"
+        },
+        "relatedIds": [
+          "early-buddhist-teachings-communities",
+          "sanchi",
+          "deccan-buddhist-donor-networks",
+          "ajanta-cave-workshops"
+        ],
+        "sources": [
+          {
+            "title": "Buddhism and Buddhist Art",
+            "url": "https://www.metmuseum.org/essays/buddhism-and-buddhist-art",
+            "publisher": "Vidya Dehejia / The Metropolitan Museum of Art",
+            "evidenceNote": "Directly inspected the Columbia scholar’s museum essay: the Buddha is placed broadly in the fifth–fourth centuries BCE; the essay discusses Buddhist stories, stupas and circumambulation, early stone gateways, and first-century CE images in Gandhara and Mathura. It is an art-historical overview, not evidence for precise dates of the Buddha’s life or Ashoka’s reign.",
+            "checkedAt": "2026-10-27",
+            "retrieval": "inspected-text"
+          }
+        ],
+        "expansion": {
+          "release": 8,
+          "edition": "v14",
+          "workstreams": [
+            "SA1"
+          ],
+          "sourceReview": "inspected-source-synthesis",
+          "reviewLimit": {
+            "en": "One art-historical synthesis provides selected examples, not a comprehensive chronology of all media, communities or competing interpretations of early images.",
+            "zh": "一篇艺术史综述提供精选实例，并非涵盖所有媒介、社群及早期图像不同解释的完整编年。"
+          }
+        },
+        "regionalAssociation": "omit-broad-point"
+      },
+      "asset": {
+        "id": "world-batch-03-sanchi",
+        "recordIds": [
+          "sanchi"
+        ],
+        "kind": "site",
+        "representation": "site-photograph",
+        "file": "assets/history-media/world-batch-03-sanchi.jpg",
+        "sha256": "7d522db4ec60c27a23c7f09ab97b2e83c66b25ae1a8cd86b0231030dacfcab5a",
+        "bytes": 213808,
+        "width": 960,
+        "height": 640,
+        "title": {
+          "en": "Sanchi’s Great Stupa",
+          "zh": "桑吉大塔"
+        },
+        "alt": {
+          "en": "A rounded stone stupa rises behind a carved gateway.",
+          "zh": "圆顶石塔矗立在雕刻门楼之后。"
+        },
+        "caption": {
+          "en": "The Great Stupa at Sanchi, seen in a modern photograph. Its gateways and enclosure guide movement around the monument.",
+          "zh": "现代照片中的桑吉大塔。门楼和围栏引导人们环绕佛塔行进。"
+        },
+        "interpretation": {
+          "en": "Look at the relationship between gate, path and dome: Buddhist worship shaped both architecture and movement.",
+          "zh": "观察门、路径与圆顶的关系：佛教礼拜同时塑造了建筑和行进方式。"
+        },
+        "creator": "Bernard Gagnon",
+        "date": "2013-12-03",
+        "institution": "Wikimedia Commons / credited photographer",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stupa_1,_Sanchi_02.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Stupa_1%2C_Sanchi_02.jpg",
+        "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Stupa_1%2C_Sanchi_02.jpg/960px-Stupa_1%2C_Sanchi_02.jpg",
+        "checkedAt": "2026-11-11",
+        "rightsSourceUrl": "https://commons.wikimedia.org/wiki/File:Stupa_1,_Sanchi_02.jpg",
+        "rights": {
+          "label": "CC BY-SA 3.0",
+          "url": "https://creativecommons.org/licenses/by-sa/3.0",
+          "note": {
+            "en": "Photograph: Bernard Gagnon, CC BY-SA 3.0, as stated on the Commons file page. The depicted ancient or medieval architecture predates modern copyright; the photograph retains its separate license. Credit and license must accompany reuse.",
+            "zh": "照片作者：Bernard Gagnon；依Commons文件页采用CC BY-SA 3.0。所摄古代或中世纪建筑早于现代版权，照片本身仍适用独立许可。再次使用须保留署名与许可。"
+          }
+        },
+        "contextSources": [
+          {
+            "title": {
+              "en": "Read the site’s history",
+              "zh": "阅读遗址历史"
+            },
+            "url": "https://whc.unesco.org/en/list/524/"
+          }
+        ],
+        "retrieval": "Commons source-page metadata and UNESCO site description retained in research; delivered JPEG decoded, SHA-256 checked and visually reviewed.",
+        "transformation": {
+          "en": "Commons-provided delivery JPEG preserved byte-for-byte. Any source-page crop or edit belongs to the credited source; no local image editing.",
+          "zh": "逐字节保留Commons提供的JPEG。来源页已有的裁切或编辑属于所署名来源；未在本地编辑图像。"
+        },
+        "metadataI18n": {
+          "date": {
+            "en": "2013-12-03",
+            "zh": "2013年12月3日"
+          },
+          "creator": {
+            "en": "Bernard Gagnon",
+            "zh": "贝尔纳·加尼翁（Bernard Gagnon）"
+          },
+          "institution": {
+            "en": "Wikimedia Commons / credited photographer",
+            "zh": "维基共享资源／署名摄影者"
+          }
+        }
+      },
+      "sourceEvidenceIds": [
+        "sanchi",
+        "buddhist-art"
+      ],
+      "basis": "Full narrative first contrasts stupa railings/gateways with subsequent images. Sanchi is also an explicit related entry; that link alone is not the basis. The visible named architectural forms directly illuminate the principal comparison, with geography made explicit.",
+      "visualReview": "Existing local JPEG opened and visually inspected individually; no downloads or edits.",
+      "narrativeScope": "This link validates only the stated relationship, not every inherited historical assertion."
+    }
+  ],
+  "sourceEvidence": [
+    {
+      "id": "lumbini",
+      "url": "https://whc.unesco.org/en/list/666/",
+      "quote": "the sandstone Ashoka pillar with its Pali inscription in Brahmi script",
+      "location": "Outstanding Universal Value, brief synthesis",
+      "scope": "Confirms the extant inscribed pillar, Ashoka and third-century BCE pilgrimage. UNESCO assigns 249 BCE. Do not adopt its precise Buddha birth year as established chronology.",
+      "retrieval": "Opened source page through connected search, 2026-11-11"
+    },
+    {
+      "id": "sanchi",
+      "url": "https://whc.unesco.org/en/list/524/",
+      "quote": "most of which date back to the 2nd and 1st centuries B.C.",
+      "location": "Opening description",
+      "scope": "Chronological setting for surviving Sanchi monuments; photograph shows a layered site, not an untouched first-century reconstruction.",
+      "retrieval": "Opened source page through connected search, 2026-11-11"
+    },
+    {
+      "id": "buddhist-art",
+      "url": "https://www.metmuseum.org/essays/buddhism-and-buddhist-art",
+      "quote": "Stone railings and gateways, covered with relief sculptures, were added to stupas.",
+      "location": "Paragraph beginning In the first century B.C.",
+      "scope": "The target record draws directly on this stupa/gateway comparison. Sanchi photograph makes that architectural subject visible; it is not Gandhara or Mathura.",
+      "retrieval": "Opened full essay through connected search, 2026-11-11"
+    },
+    {
+      "id": "report",
+      "url": "https://collections.tepapa.govt.nz/object/397630",
+      "quote": "Kate Sheppard; author; 1893; New Zealand",
+      "location": "Production, item details",
+      "scope": "Collection identifies the pictured report, its author, publisher, printer and 1893 date. Only the cover is shown, not the petition or Electoral Act.",
+      "retrieval": "Opened object page through connected search, 2026-11-11"
+    },
+    {
+      "id": "suffrage",
+      "url": "https://nzhistory.govt.nz/politics/womens-suffrage",
+      "quote": "That achievement was the result of years of effort by suffrage campaigners, led by Kate Sheppard.",
+      "location": "Introduction",
+      "scope": "Supports Sheppard and collective campaigning in the 1893 suffrage entry. No claim that this report itself enacted voting rights.",
+      "retrieval": "Opened government history page through connected search, 2026-11-11"
+    }
+  ],
+  "held": [
+    {
+      "assetId": "atlantic-rebuild-met-38474",
+      "recordId": "buddhist-art-mathura-gandhara",
+      "decision": "reject",
+      "reason": "Third-century Gandharan Maitreya falls outside the target comparison window ending 200 CE. Do not imply it illustrates the first-century development of Buddha imagery.",
+      "record": {
+        "id": "buddhist-art-mathura-gandhara",
+        "title": {
+          "en": "Buddhist art · Stupas and images in Gandhara and Mathura",
+          "zh": "佛教艺术 · 犍陀罗、马图拉的佛塔与造像"
+        },
+        "start": -100,
+        "end": 200,
+        "region": "south-asia",
+        "theme": "culture",
+        "kind": "culture",
+        "importance": 4,
+        "location": {
+          "lat": 27.49,
+          "lon": 77.67,
+          "label": "Mathura; one place in the cited art history, not the extent of Buddhist communities",
+          "labelI18n": {
+            "en": "Mathura; one place in the cited art history, not the extent of Buddhist communities",
+            "zh": "马图拉；所引艺术史中的一个地点，并非佛教社群的分布范围"
+          }
+        },
+        "locationPrecision": "representative",
+        "summary": {
+          "en": "Buddhist monuments preserve evidence of patronage, worship and artistic choices. The Metropolitan Museum’s overview discusses stone railings and gateways around stupas in the first century BCE and images of the Buddha made in Gandhara and Mathura in the first century CE. These different objects invite comparison of the ways communities represented and honored their teachers and sacred places.\n\nDating surviving sculptures is not the same as proving when an idea or practice first appeared everywhere. Nor do shared images establish a single political authority or a uniform tradition. The marker identifies Mathura as one relevant place; the referenced works and communities were not confined to one point.",
+          "zh": "佛教古迹保存着供养、礼拜与艺术选择的证据。大都会艺术博物馆的综述讨论了公元前一世纪佛塔周围的石栏与门，以及公元一世纪犍陀罗和马图拉的佛陀造像。这些不同物件可用于比较社群如何表现和尊崇导师与圣地。\n\n为存世雕塑断代，不等于证明某种思想或实践何时在所有地方首次出现。相似图像也不能确立统一的政治权威或完全一致的传统。地图点将马图拉作为一个相关地点；所述作品与社群并不限于一个点。"
+        },
+        "dateNote": {
+          "en": "100 BCE–200 CE is a broad comparison window around examples dated by the museum. It is not a universal first-image date or an end to Buddhist art.",
+          "zh": "公元前100年至公元200年是围绕博物馆所列实例的宽泛比较时段，不是普遍的首次造像日期，也不是佛教艺术的终点。"
+        },
+        "relatedIds": [
+          "early-buddhist-teachings-communities",
+          "sanchi",
+          "deccan-buddhist-donor-networks",
+          "ajanta-cave-workshops"
+        ],
+        "sources": [
+          {
+            "title": "Buddhism and Buddhist Art",
+            "url": "https://www.metmuseum.org/essays/buddhism-and-buddhist-art",
+            "publisher": "Vidya Dehejia / The Metropolitan Museum of Art",
+            "evidenceNote": "Directly inspected the Columbia scholar’s museum essay: the Buddha is placed broadly in the fifth–fourth centuries BCE; the essay discusses Buddhist stories, stupas and circumambulation, early stone gateways, and first-century CE images in Gandhara and Mathura. It is an art-historical overview, not evidence for precise dates of the Buddha’s life or Ashoka’s reign.",
+            "checkedAt": "2026-10-27",
+            "retrieval": "inspected-text"
+          }
+        ],
+        "expansion": {
+          "release": 8,
+          "edition": "v14",
+          "workstreams": [
+            "SA1"
+          ],
+          "sourceReview": "inspected-source-synthesis",
+          "reviewLimit": {
+            "en": "One art-historical synthesis provides selected examples, not a comprehensive chronology of all media, communities or competing interpretations of early images.",
+            "zh": "一篇艺术史综述提供精选实例，并非涵盖所有媒介、社群及早期图像不同解释的完整编年。"
+          }
+        },
+        "regionalAssociation": "omit-broad-point"
+      },
+      "asset": {
+        "id": "atlantic-rebuild-met-38474",
+        "file": "assets/history-media/atlantic-rebuild-met-38474.jpg",
+        "downloadedFrom": "https://images.metmuseum.org/CRDImages/as/web-large/DP123372.jpg",
+        "width": 600,
+        "height": 600,
+        "bytes": 47285,
+        "sha256": "87262470ef03b91f0fe1c69a89bbd2501741d2b2eae9c154396cd13c00bc4902",
+        "recordIds": [
+          "kushan-networks"
+        ],
+        "kind": "object",
+        "representation": "object-photograph",
+        "title": {
+          "en": "Maitreya from Gandhara",
+          "zh": "犍陀罗弥勒菩萨像"
+        },
+        "caption": {
+          "en": "The Met dates this gray-schist Maitreya to about the third century. Small donors on its base venerate a reliquary beneath a canopy.",
+          "zh": "大都会将这尊灰色片岩弥勒像定为约三世纪；基座的小型供养人礼敬华盖下的舍利容器。"
+        },
+        "alt": {
+          "en": "A standing robed bodhisattva with a topknot above a base carved with smaller figures.",
+          "zh": "站立披衣菩萨头饰发髻，基座雕有较小人物。"
+        },
+        "interpretation": {
+          "en": "The entry describes Buddhist workshops within Kushan-era networks. This Gandharan devotional object shows sacred imagery and donors, without implying that a Kushan king commissioned it or that all regional art followed one model.",
+          "zh": "本条讨论贵霜时代网络中的佛教工坊。犍陀罗供奉造像呈现神圣形象与供养人，不暗示贵霜君王委托，也不认为区域艺术皆遵循同一模式。"
+        },
+        "creator": "Unrecorded maker (Pakistan (ancient region of Gandhara))",
+        "date": "ca. 3rd century",
+        "institution": "The Metropolitan Museum of Art",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/38474",
+        "imageUrl": "https://images.metmuseum.org/CRDImages/as/original/DP123372.jpg",
+        "rightsSourceUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access",
+        "checkedAt": "2026-11-11",
+        "rights": {
+          "label": "CC0",
+          "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "note": {
+            "en": "The Met API marks this object public domain; its Open Access policy releases these images under CC0. Purchase, Lita Annenberg Hazen Charitable Trust Gift, 1991",
+            "zh": "大都会馆藏API将此物件标为公有领域，开放获取政策以CC0发布图像。入藏署名见原始馆藏记录。"
+          }
+        },
+        "transformation": {
+          "en": "Published museum image preserved byte-for-byte, without local editing.",
+          "zh": "逐字节保存博物馆发布图像，未作本地编辑。"
+        },
+        "metadataI18n": {
+          "date": {
+            "en": "ca. 3rd century",
+            "zh": "约3世纪"
+          },
+          "creator": {
+            "en": "Unrecorded maker (Pakistan (ancient region of Gandhara))",
+            "zh": "巴基斯坦境内古犍陀罗地区制作者，姓名未载"
+          },
+          "institution": {
+            "en": "The Metropolitan Museum of Art",
+            "zh": "大都会艺术博物馆"
+          }
+        }
+      }
+    },
+    {
+      "assetId": "world-batch-02-met-38201",
+      "recordId": "buddhist-art-mathura-gandhara",
+      "decision": "reject",
+      "reason": "Late fifth/early sixth-century Gupta head is centuries later than the story window. Mathura geography alone is insufficient.",
+      "record": {
+        "id": "buddhist-art-mathura-gandhara",
+        "title": {
+          "en": "Buddhist art · Stupas and images in Gandhara and Mathura",
+          "zh": "佛教艺术 · 犍陀罗、马图拉的佛塔与造像"
+        },
+        "start": -100,
+        "end": 200,
+        "region": "south-asia",
+        "theme": "culture",
+        "kind": "culture",
+        "importance": 4,
+        "location": {
+          "lat": 27.49,
+          "lon": 77.67,
+          "label": "Mathura; one place in the cited art history, not the extent of Buddhist communities",
+          "labelI18n": {
+            "en": "Mathura; one place in the cited art history, not the extent of Buddhist communities",
+            "zh": "马图拉；所引艺术史中的一个地点，并非佛教社群的分布范围"
+          }
+        },
+        "locationPrecision": "representative",
+        "summary": {
+          "en": "Buddhist monuments preserve evidence of patronage, worship and artistic choices. The Metropolitan Museum’s overview discusses stone railings and gateways around stupas in the first century BCE and images of the Buddha made in Gandhara and Mathura in the first century CE. These different objects invite comparison of the ways communities represented and honored their teachers and sacred places.\n\nDating surviving sculptures is not the same as proving when an idea or practice first appeared everywhere. Nor do shared images establish a single political authority or a uniform tradition. The marker identifies Mathura as one relevant place; the referenced works and communities were not confined to one point.",
+          "zh": "佛教古迹保存着供养、礼拜与艺术选择的证据。大都会艺术博物馆的综述讨论了公元前一世纪佛塔周围的石栏与门，以及公元一世纪犍陀罗和马图拉的佛陀造像。这些不同物件可用于比较社群如何表现和尊崇导师与圣地。\n\n为存世雕塑断代，不等于证明某种思想或实践何时在所有地方首次出现。相似图像也不能确立统一的政治权威或完全一致的传统。地图点将马图拉作为一个相关地点；所述作品与社群并不限于一个点。"
+        },
+        "dateNote": {
+          "en": "100 BCE–200 CE is a broad comparison window around examples dated by the museum. It is not a universal first-image date or an end to Buddhist art.",
+          "zh": "公元前100年至公元200年是围绕博物馆所列实例的宽泛比较时段，不是普遍的首次造像日期，也不是佛教艺术的终点。"
+        },
+        "relatedIds": [
+          "early-buddhist-teachings-communities",
+          "sanchi",
+          "deccan-buddhist-donor-networks",
+          "ajanta-cave-workshops"
+        ],
+        "sources": [
+          {
+            "title": "Buddhism and Buddhist Art",
+            "url": "https://www.metmuseum.org/essays/buddhism-and-buddhist-art",
+            "publisher": "Vidya Dehejia / The Metropolitan Museum of Art",
+            "evidenceNote": "Directly inspected the Columbia scholar’s museum essay: the Buddha is placed broadly in the fifth–fourth centuries BCE; the essay discusses Buddhist stories, stupas and circumambulation, early stone gateways, and first-century CE images in Gandhara and Mathura. It is an art-historical overview, not evidence for precise dates of the Buddha’s life or Ashoka’s reign.",
+            "checkedAt": "2026-10-27",
+            "retrieval": "inspected-text"
+          }
+        ],
+        "expansion": {
+          "release": 8,
+          "edition": "v14",
+          "workstreams": [
+            "SA1"
+          ],
+          "sourceReview": "inspected-source-synthesis",
+          "reviewLimit": {
+            "en": "One art-historical synthesis provides selected examples, not a comprehensive chronology of all media, communities or competing interpretations of early images.",
+            "zh": "一篇艺术史综述提供精选实例，并非涵盖所有媒介、社群及早期图像不同解释的完整编年。"
+          }
+        },
+        "regionalAssociation": "omit-broad-point"
+      },
+      "asset": {
+        "file": "assets/history-media/world-batch-02-met-38201.jpg",
+        "downloadedFrom": "https://images.metmuseum.org/CRDImages/as/web-large/DP267831.jpg",
+        "sha256": "ac09582f855ad9249c5f8049e5bf20acdd658c27a940e1ffee1a45a7d78a5d47",
+        "bytes": 56865,
+        "width": 468,
+        "height": 624,
+        "id": "world-batch-02-met-38201",
+        "recordIds": [
+          "gupta-period"
+        ],
+        "kind": "object",
+        "representation": "object-photograph",
+        "title": {
+          "en": "A Buddha head from late Gupta Mathura",
+          "zh": "笈多晚期秣菟罗佛首"
+        },
+        "alt": {
+          "en": "A reddish stone Buddha head has downcast eyes, softly modeled cheeks and rows of small curls.",
+          "zh": "红色石质佛首双目下垂、面颊柔和，头部排列细小卷发。"
+        },
+        "caption": {
+          "en": "Mathura, northern India, late fifth–early sixth century. The head belonged to a nearly life-size Buddha figure in the late Gupta artistic tradition.",
+          "zh": "北印度秣菟罗，五世纪晚期至六世纪初。此佛首原属接近真人大小的佛像，体现笈多晚期艺术传统。"
+        },
+        "interpretation": {
+          "en": "Idealized features and carefully joined curved planes communicate meditative inwardness. The sculpture gives a concrete form to the entry’s account of devotional art and the development of classical styles.",
+          "zh": "理想化五官与衔接细腻的曲面表现内省禅思。雕塑使条目中关于宗教艺术及古典风格发展的叙述具体可见。"
+        },
+        "creator": "Unrecorded maker",
+        "date": "late 5th–early 6th century",
+        "institution": "The Metropolitan Museum of Art",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/38201",
+        "imageUrl": "https://images.metmuseum.org/CRDImages/as/original/DP267831.jpg",
+        "checkedAt": "2026-11-11",
+        "rightsSourceUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access",
+        "rights": {
+          "label": "CC0",
+          "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "note": {
+            "en": "The museum object page and API identify this image as public domain; Met Open Access releases it under CC0. Gift of Doris Rubin, in memory of Harry Rubin, 1989",
+            "zh": "馆藏页面及API将图像标为公有领域，大都会开放获取政策以CC0发布。入藏署名见原馆藏记录。"
+          }
+        },
+        "retrieval": "Official object page, API and Open Access policy inspected; original and delivery bytes decoded, hashed and visually reviewed on contact-sheet.jpg.",
+        "transformation": {
+          "en": "Museum-provided web-large JPEG preserved byte-for-byte; the full-resolution original was also verified and retained in research.",
+          "zh": "逐字节保存博物馆提供的web-large JPEG；全分辨率原图也已验证并保存在研究资料中。"
+        },
+        "metadataI18n": {
+          "date": {
+            "en": "late 5th–early 6th century",
+            "zh": "5世纪晚期至6世纪初"
+          },
+          "creator": {
+            "en": "Unrecorded maker",
+            "zh": "制作者姓名未载"
+          },
+          "institution": {
+            "en": "The Metropolitan Museum of Art",
+            "zh": "大都会艺术博物馆"
+          }
+        }
+      }
+    },
+    {
+      "assetId": "world-batch-04-met-322609",
+      "recordId": "nineveh-scribal-library",
+      "decision": "reject",
+      "reason": "Guardian comes from Ashurnasirpal II’s palace at Nimrud, not Ashurbanipal’s Nineveh tablet collection; wrong city, period and subject.",
+      "record": {
+        "id": "nineveh-scribal-library",
+        "title": {
+          "en": "Nineveh: assembling and organizing written knowledge",
+          "zh": "尼尼微：汇集与组织书写知识"
+        },
+        "start": -700,
+        "end": -601,
+        "region": "west-central-asia",
+        "theme": "knowledge",
+        "kind": "culture",
+        "importance": 3,
+        "location": {
+          "lat": 36.36,
+          "lon": 43.15,
+          "label": "Kuyunjik, ancient Nineveh; representative tablet-collection context"
+        },
+        "locationYear": -700,
+        "locationPrecision": "representative",
+        "summary": {
+          "en": "The tablets associated with Ashurbanipal’s library preserve a substantial body of seventh-century BCE scholarship at Nineveh. Their short scribal notes, called colophons, help researchers trace ownership, source texts and the movement of manuscripts. Recent study shows that the collection incorporated material from earlier generations and different places, including Assyrian as well as Babylonian sources. Medical texts reveal organized efforts to record treatments and knowledge, alongside other scholarly genres. The collection was therefore built through copying, selection and transfer rather than created entirely by one king. Surviving fragments also require careful reconstruction: a fragment count is not a count of complete ancient books.",
+          "zh": "与亚述巴尼拔藏书相关的泥版，保存了尼尼微公元前7世纪的大量学术知识。称为跋记的简短书吏说明，帮助研究者追溯所有权、文本来源与抄本流动。新的研究显示，收藏吸纳了不同地点和较早世代的材料，来源既包括巴比伦，也包括亚述。医学文本显示系统记录治疗与知识的努力，并与其他学术类型并存。这一收藏通过抄写、选择和转移形成，并非一位国王独自创造。现存碎片还需谨慎拼合；碎片数量不能等同于完整古代书籍数量。"
+        },
+        "dateNote": {
+          "en": "700–601 BCE represents the seventh century as an archaeological and scholarly context. It is not Ashurbanipal’s exact reign or the library’s foundation date.",
+          "zh": "公元前700—601年表示公元前7世纪这一考古与学术背景，不是亚述巴尼拔的精确在位期或藏书机构成立日期。"
+        },
+        "keyFacts": {
+          "en": [
+            "Colophons are evidence for how tablets were identified, collected and transmitted.",
+            "Medical tablets are among the texts now being reconstructed from fragments."
+          ],
+          "zh": [
+            "跋记为泥版如何被标识、收藏和传承提供证据。",
+            "医学泥版是今日正由碎片重新整理的文本之一。"
+          ]
+        },
+        "sources": [
+          {
+            "title": "Reading the Library of Ashurbanipal: project results",
+            "url": "https://www.dfg.de/resource/blob/365490/14-ahrc-library-ashurbanipal.pdf",
+            "publisher": "Deutsche Forschungsgemeinschaft; British Museum / LMU research team",
+            "evidenceNote": "First-party project summary explains seventh-century tablets, colophon evidence and varied Assyrian/Babylonian and earlier sources.",
+            "checkedAt": "2026-10-23"
+          },
+          {
+            "title": "Introducing Assyrian Medicine: healthcare fit for a king",
+            "url": "https://www.ucl.ac.uk/arts-humanities/hebrew-jewish/research/research-projects/introducing-assyrian-medicine-healthcare-fit-king",
+            "publisher": "University College London / British Museum",
+            "evidenceNote": "Research project describes the Nineveh medical corpus, its seventh-century context and reconstruction of broken clay tablets.",
+            "checkedAt": "2026-10-23"
+          }
+        ],
+        "relatedIds": [
+          "neo-assyria",
+          "uruk-writing",
+          "ur-third-dynasty"
+        ],
+        "ongoing": false
+      },
+      "asset": {
+        "recordIds": [
+          "neo-assyria"
+        ],
+        "kind": "object",
+        "representation": "object-photograph",
+        "title": {
+          "en": "A winged guardian at an Assyrian palace",
+          "zh": "亚述宫殿的有翼守护神"
+        },
+        "alt": {
+          "en": "A monumental human-headed winged lion combines a patterned beard, feathered wings and a powerful animal body.",
+          "zh": "巨大的有人首有翼狮将纹理细密的胡须、羽翼与强壮兽身结合。"
+        },
+        "caption": {
+          "en": "Neo-Assyrian guardian from the palace of Ashurnasirpal II at Nimrud, about 883–859 BCE. The composite figure stood at a palace entrance.",
+          "zh": "新亚述守护神，出自尼姆鲁德亚述纳西尔帕二世宫殿，约公元前883至859年。复合形象原立于宫殿入口。"
+        },
+        "interpretation": {
+          "en": "Architecture made power something visitors physically approached. The creature’s human head, animal body and wings join different capacities in a monumental protector.",
+          "zh": "建筑使权力成为访客必须亲身走近的存在。人首、兽身和双翼把不同能力组合为巨大的守护者。"
+        },
+        "id": "world-batch-04-met-322609",
+        "file": "assets/history-media/world-batch-04-met-322609.jpg",
+        "downloadedFrom": "https://images.metmuseum.org/CRDImages/an/web-large/DT880.jpg",
+        "imageUrl": "https://images.metmuseum.org/CRDImages/an/original/DT880.jpg",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/322609",
+        "sha256": "67c89a4bbdfb2c22969cc7e79587b16de9343091151cbf4d27748e5f192e0126",
+        "bytes": 191618,
+        "width": 363,
+        "height": 624,
+        "creator": "Unrecorded Assyrian sculptors",
+        "date": "ca. 883–859 BCE",
+        "institution": "The Metropolitan Museum of Art",
+        "checkedAt": "2026-11-11",
+        "rightsSourceUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access",
+        "rights": {
+          "label": "CC0",
+          "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "note": {
+            "en": "The object page marks the image Public Domain and the API returns isPublicDomain: true. Met Open Access releases it under CC0. Collection credit: Gift of John D. Rockefeller Jr., 1932",
+            "zh": "馆藏页将图像标为公有领域，API亦确认公有领域状态；大都会开放获取政策以CC0发布。入藏署名见馆藏记录。"
+          }
+        },
+        "transformation": {
+          "en": "Museum-provided web-large JPEG preserved byte-for-byte. No local crop, resize, recolouring or image generation.",
+          "zh": "逐字节保存博物馆提供的web-large JPEG，未在本地裁剪、缩放、调色或生成内容。"
+        },
+        "retrieval": "Official object API, collection page and Open Access policy inspected. Delivery JPEG decoded, hashed and pixels reviewed; receipts and entry-level decisions retained in world-batch-04.",
+        "metadataI18n": {
+          "date": {
+            "en": "ca. 883–859 BCE",
+            "zh": "约公元前883—859年"
+          },
+          "creator": {
+            "en": "Unrecorded Assyrian sculptors",
+            "zh": "亚述雕刻者，姓名未载"
+          },
+          "institution": {
+            "en": "The Metropolitan Museum of Art",
+            "zh": "大都会艺术博物馆"
+          }
+        }
+      }
+    },
+    {
+      "assetId": "world-batch-03-aksum",
+      "recordId": "aksum-ezana-christianity",
+      "decision": "prior-rejection-preserved",
+      "reason": "Pass02 explicitly rejected stelae for this conversion/Christian-coinage story. No new coin or conversion evidence supplied.",
+      "record": {
+        "id": "aksum-ezana-christianity",
+        "title": {
+          "en": "Aksum: royal conversion and Christian coinage",
+          "zh": "阿克苏姆：王室改宗与基督教钱币"
+        },
+        "start": 301,
+        "end": 400,
+        "location": {
+          "lat": 14.13,
+          "lon": 38.72,
+          "label": "Aksum, Ethiopia; royal-center reference point"
+        },
+        "region": "africa",
+        "theme": "culture",
+        "summary": {
+          "en": "Christianity became associated with Aksumite kingship during the fourth century, under King Ezana. Coins provide material evidence: royal issues replaced earlier celestial symbols with the cross. Accounts of the missionary Frumentius help explain the conversion, but these written church traditions and the surviving objects are different kinds of evidence. Aksum already participated in Red Sea exchange through routes connecting its highland center with the port of Adulis. The court’s adoption of a religion therefore belonged to an interconnected African political world. Royal conversion did not mean that every subject immediately became Christian; the wider development of Christian institutions continued across later generations.",
+          "zh": "四世纪埃扎纳国王统治期间，基督教开始与阿克苏姆王权结合。钱币提供了实物证据：王室铸币以十字架取代较早的天体符号。关于传教者弗鲁门提乌斯的记述有助于解释改宗，但教会文字传统与现存器物属于不同种类的证据。阿克苏姆早已通过连接高地中心和阿杜利斯港的道路参与红海交流，因此王室采纳新宗教发生在相互联系的非洲政治世界中。国王改宗并不意味着所有臣民立即成为基督徒；基督教制度的广泛发展还经历了后续许多代人。"
+        },
+        "dateNote": {
+          "en": "The fourth-century window represents an event whose exact year is uncertain, not a century-long conversion ceremony. Ezana’s reign is approximately dated. The pin marks Aksum, not the full kingdom.",
+          "zh": "四世纪的时间窗口表示确切年份尚不确定，并非改宗仪式持续百年。埃扎纳的在位年代也为近似估计。点位标示阿克苏姆城，不代表整个王国。"
+        },
+        "locationPrecision": "representative",
+        "sources": [
+          {
+            "title": "Foundations of Aksumite Civilization and Its Christian Legacy",
+            "url": "https://www.metmuseum.org/essays/foundations-of-aksumite-civilization-and-its-christian-legacy-1st-7th-century",
+            "publisher": "The Metropolitan Museum of Art",
+            "evidenceNote": "Museum synthesis links Ezana, fourth-century Christian coin imagery and earlier Red Sea commerce; distinguishes initial elite conversion from later expansion.",
+            "checkedAt": "2026-10-23"
+          },
+          {
+            "title": "African Christianity in Ethiopia",
+            "url": "https://www.metmuseum.org/essays/african-christianity-in-ethiopia",
+            "publisher": "The Metropolitan Museum of Art",
+            "evidenceNote": "Institutional interpretation compares the Frumentius church tradition with coin evidence and places conversion in the fourth century.",
+            "checkedAt": "2026-10-23"
+          }
+        ],
+        "ongoing": false,
+        "kind": "event",
+        "importance": 3,
+        "keyFacts": {
+          "en": [
+            "Coin symbols give material evidence for a change in royal religious identity.",
+            "Court conversion and wider Christianization unfolded on different timescales."
+          ],
+          "zh": [
+            "钱币图案为王室宗教身份变化提供了实物证据。",
+            "王室改宗与社会更广泛的基督教化有不同的时间进程。"
+          ]
+        },
+        "relatedIds": [
+          "aksum",
+          "meroe-kush",
+          "lalibela-rock-hewn-churches"
+        ]
+      },
+      "asset": {
+        "id": "world-batch-03-aksum",
+        "recordIds": [
+          "aksum"
+        ],
+        "kind": "site",
+        "representation": "site-photograph",
+        "file": "assets/history-media/world-batch-03-aksum.jpg",
+        "sha256": "1162a9a1e1a682cd3f0268eeebcce70a24a6a482a06eddb044c33b728d47ef45",
+        "bytes": 102742,
+        "width": 888,
+        "height": 555,
+        "title": {
+          "en": "Standing and fallen stelae at Aksum",
+          "zh": "阿克苏姆直立与倒卧的石碑"
+        },
+        "alt": {
+          "en": "Tall stone stelae stand beside a much larger broken monument lying on the ground.",
+          "zh": "高耸石碑旁，一座更大的残断石碑横卧地面。"
+        },
+        "caption": {
+          "en": "The stelae field at Aksum, photographed in 2012. Monumental stone building expressed elite and royal authority.",
+          "zh": "2012年拍摄的阿克苏姆石碑区。巨型石构工程表达精英与王室权威。"
+        },
+        "interpretation": {
+          "en": "Compare the scale of standing and fallen stones to consider quarrying, transport and collective labour.",
+          "zh": "比较直立与倒卧石材的尺度，思考开采、运输和集体劳动。"
+        },
+        "creator": "Rod Waddington from Kergunyah, Australia",
+        "date": "2012-10-31",
+        "institution": "Wikimedia Commons / credited photographer",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stelae,_Aksum_(8140296506).jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Stelae%2C_Aksum_%288140296506%29.jpg",
+        "downloadedFrom": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Stelae%2C_Aksum_%288140296506%29.jpg",
+        "checkedAt": "2026-11-11",
+        "rightsSourceUrl": "https://commons.wikimedia.org/wiki/File:Stelae,_Aksum_(8140296506).jpg",
+        "rights": {
+          "label": "CC BY-SA 2.0",
+          "url": "https://creativecommons.org/licenses/by-sa/2.0",
+          "note": {
+            "en": "Photograph: Rod Waddington from Kergunyah, Australia, CC BY-SA 2.0, as stated on the Commons file page. The depicted ancient or medieval architecture predates modern copyright; the photograph retains its separate license. Credit and license must accompany reuse.",
+            "zh": "照片作者：Rod Waddington from Kergunyah, Australia；依Commons文件页采用CC BY-SA 2.0。所摄古代或中世纪建筑早于现代版权，照片本身仍适用独立许可。再次使用须保留署名与许可。"
+          }
+        },
+        "contextSources": [
+          {
+            "title": {
+              "en": "Read the site’s history",
+              "zh": "阅读遗址历史"
+            },
+            "url": "https://whc.unesco.org/en/list/15/"
+          }
+        ],
+        "retrieval": "Commons source-page metadata and UNESCO site description retained in research; delivered JPEG decoded, SHA-256 checked and visually reviewed.",
+        "transformation": {
+          "en": "Commons-provided delivery JPEG preserved byte-for-byte. Any source-page crop or edit belongs to the credited source; no local image editing.",
+          "zh": "逐字节保留Commons提供的JPEG。来源页已有的裁切或编辑属于所署名来源；未在本地编辑图像。"
+        },
+        "metadataI18n": {
+          "date": {
+            "en": "2012-10-31",
+            "zh": "2012年10月31日"
+          },
+          "creator": {
+            "en": "Rod Waddington from Kergunyah, Australia",
+            "zh": "罗德·沃丁顿（Rod Waddington），来自澳大利亚Kergunyah"
+          },
+          "institution": {
+            "en": "Wikimedia Commons / credited photographer",
+            "zh": "维基共享资源／署名摄影者"
+          }
+        }
+      }
+    },
+    {
+      "assetId": "world-batch-05-timbuktu",
+      "recordId": "timbuktu-manuscript-law-and-learning",
+      "decision": "prior-rejection-preserved",
+      "reason": "Pass03 rejects this mosque for specific legal manuscripts. Architecture does not show the texts, teaching practice or described documentary evidence.",
+      "record": {
+        "id": "timbuktu-manuscript-law-and-learning",
+        "title": {
+          "en": "Timbuktu manuscripts · Law, livelihood and learning",
+          "zh": "廷巴克图手稿 · 法律、生计与学习"
+        },
+        "start": 1600,
+        "end": 1858,
+        "region": "africa",
+        "kind": "culture",
+        "theme": "knowledge",
+        "importance": 3,
+        "location": {
+          "lat": 16.77,
+          "lon": -3.01,
+          "label": "Timbuktu; teaching and scholarly community, not a settled birthplace coordinate"
+        },
+        "locationPrecision": "representative",
+        "summary": {
+          "en": "Manuscripts preserved in libraries around Timbuktu reveal scholarship concerned with everyday obligations as well as theology. The Library of Congress exhibition describes texts on inheritance, commercial contracts, arithmetic and the social value of labour. Poems could help students remember rules; commentaries and examples allowed knowledge to be taught and debated.\n\nThe same collections also preserve the unequal institutions within which learning operated. Commercial agreements concern the trafficking of enslaved people, and an emancipation certificate records a woman being granted freedom. Ahmad Baba’s legal opinion limited permissible enslavement within Islamic law without rejecting the institution altogether. Intellectual achievement and coercive social relations therefore belong in the same history.\n\nThe selected seventeenth-to-nineteenth-century focus connects Baba’s writing to later manuscript copies, including objects catalogued as copied in 1733, 1809 and 1858. A copy date does not date the invention of its subject or every earlier version. This is a study of described surviving texts, not a new translation of their Arabic pages or a claim that legal prescriptions show how every household actually behaved.",
+          "zh": "廷巴克图周边图书馆保存的手稿，显示学术既关乎神学，也关乎日常义务。美国国会图书馆展览介绍了继承、商业契约、算术及劳动社会价值的文本。诗歌可帮助学生记忆规则；注释与例题使知识能够教学和讨论。\n\n同一批收藏也保存了学术活动所在社会的不平等制度。商业契约涉及贩运被奴役者，解放证书记载一名女性获释。艾哈迈德·巴巴的法律意见在伊斯兰法内限制可许可的奴役，却未全面否定该制度。因此，思想成就和强制性的社会关系属于同一段历史。\n\n本条所选十七至十九世纪窗口，把巴巴著述与后来的手稿抄本相连，其中有目录注明抄于1733、1809和1858年的实物。抄写日期不是知识主题的发明年，也不是所有更早版本的年代。本条研究的是传世文本的已读解说，不是重新翻译阿拉伯语页面，也不声称法律规范证明每个家庭实际如何生活。"
+        },
+        "dateNote": {
+          "en": "Approximate editorial focus 1600–1858 connects seventeenth-century writing with dated later copies. It is not the beginning/end of Timbuktu scholarship. Copy years belong to particular catalogued objects, not every text discussed.",
+          "zh": "约1600—1858年为编辑观察窗口，连接十七世纪著述与有日期的后世抄本，并非廷巴克图学术的起止年。抄写年属于特定目录实物，不适用于所有所述文本。"
+        },
+        "sources": [
+          {
+            "title": "Ancient Manuscripts from the Desert Libraries of Timbuktu: Exhibition",
+            "publisher": "Library of Congress, with Mamma Haidara and Cheick Zayni Baye libraries",
+            "url": "https://www.loc.gov/exhibits/mali/mali-exhibit.html",
+            "evidenceNote": "Exhibition descriptions inspected, especially objects 2–4, 6, 11, 20–23: verse teaching, inheritance, commerce, Ahmad Baba's legal opinion on enslavement, arithmetic, labour and commercial/emancipation documents. Descriptions of manuscript contents were read, not a new Arabic transcription or full translation.",
+            "checkedAt": "2026-10-24",
+            "retrieval": "inspected-text"
+          },
+          {
+            "title": "Ancient Manuscripts from the Desert Libraries of Timbuktu: Exhibition Items",
+            "publisher": "Library of Congress",
+            "url": "https://www.loc.gov/exhibits/mali/mali-checklist.html",
+            "evidenceNote": "Catalogue checklist inspected: astronomy copy dated 1733, a text copied 1809 and two Sufi works copied 1858. Copy dates identify surviving artifacts, not all original composition dates. This shares the exhibition's source family and is not independent corroboration.",
+            "checkedAt": "2026-10-24",
+            "retrieval": "inspected-text"
+          }
+        ],
+        "relatedIds": [
+          "person-ahmad-baba",
+          "timbuktu",
+          "songhai-empire"
+        ],
+        "expansion": {
+          "workstreams": [
+            "AF2"
+          ],
+          "release": 5,
+          "edition": "v11",
+          "sourceReview": "inspected-source-synthesis",
+          "reviewLimit": {
+            "en": "The inspected exhibition and checklist share one institutional source family. Their descriptions support subjects, object dates and provenance; this entry does not claim independent philological review or measured prevalence of practices.",
+            "zh": "已读展览与目录属于同一机构来源。其解说支持主题、实物日期与来源信息；本条不声称独立语文学审查或经测量的实践普及程度。"
+          }
+        }
+      },
+      "asset": {
+        "id": "world-batch-05-timbuktu",
+        "recordIds": [
+          "timbuktu"
+        ],
+        "kind": "site",
+        "representation": "site-photograph",
+        "file": "assets/history-media/world-batch-05-timbuktu.jpg",
+        "sha256": "5acce3adf85c51050240e0e85ddc3a532a1e68601c2599981002c492b16ba064",
+        "bytes": 264227,
+        "width": 960,
+        "height": 1280,
+        "title": {
+          "en": "Djingareyber Mosque, Timbuktu",
+          "zh": "廷巴克图的金加雷贝尔清真寺"
+        },
+        "alt": {
+          "en": "A tapered earthen tower with projecting wooden beams rises behind thick walls.",
+          "zh": "带有外伸木梁的渐收土筑塔体立于厚墙之后。"
+        },
+        "caption": {
+          "en": "Djingareyber is one of Timbuktu’s historic mosques and centres of learning.",
+          "zh": "金加雷贝尔是廷巴克图的历史清真寺和学习中心之一。"
+        },
+        "interpretation": {
+          "en": "Thick earth walls and projecting timbers make the building’s materials visible; its survival depends on repeated maintenance.",
+          "zh": "厚土墙与外伸木梁让建筑材料清晰可见；建筑的延续依靠反复维护。"
+        },
+        "creator": "KaTeznik",
+        "date": "Photograph: 2005-01-07",
+        "institution": "Wikimedia Commons / credited photographer",
+        "metadataI18n": {
+          "date": {
+            "en": "Photograph: 2005-01-07",
+            "zh": "拍摄于2005年1月7日"
+          },
+          "creator": {
+            "en": "KaTeznik",
+            "zh": "署名摄影者（KaTeznik）"
+          },
+          "institution": {
+            "en": "Wikimedia Commons / credited photographer",
+            "zh": "维基共享资源／署名摄影者"
+          }
+        },
+        "historicalPeriod": {
+          "en": "Founded in the fourteenth century; maintained and altered over subsequent centuries",
+          "zh": "始建于14世纪，历代持续维护和改建"
+        },
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Djingareiber_cour.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Djingareiber_cour.jpg",
+        "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Djingareiber_cour.jpg/960px-Djingareiber_cour.jpg",
+        "checkedAt": "2026-11-11",
+        "rightsSourceUrl": "https://commons.wikimedia.org/wiki/File:Djingareiber_cour.jpg",
+        "rights": {
+          "label": "CC BY-SA 2.0 fr",
+          "url": "https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en",
+          "note": {
+            "en": "Photograph © KaTeznik, CC BY-SA 2.0 fr. Retain attribution, the license and any change notices when reusing this photograph. Share adaptations under the same license.",
+            "zh": "照片署名：KaTeznik；许可：CC BY-SA 2.0 fr。再次使用时须保留署名、许可及修改说明。改编作品须沿用相同许可。"
+          }
+        },
+        "contextSources": [
+          {
+            "title": {
+              "en": "Explore this site’s history",
+              "zh": "了解遗址历史"
+            },
+            "url": "https://whc.unesco.org/en/list/119/"
+          }
+        ],
+        "retrieval": "Commons source-page revisions and image metadata retained. Delivered bytes decoded, hashed and individually reviewed.",
+        "transformation": {
+          "en": "Commons-provided JPEG, unchanged locally. Source-side cropping or processing is described on the file page.",
+          "zh": "采用Commons提供的JPEG，未在本地修改。来源已有的裁切或处理见文件页说明。"
+        }
+      }
+    },
+    {
+      "assetId": "world-batch-05-timbuktu",
+      "recordId": "mali-empire",
+      "decision": "reject",
+      "reason": "Full revised story is about Mande state growth, sources and uncertain capitals; it neither names this mosque nor makes Timbuktu its core setting.",
+      "record": {
+        "id": "mali-empire",
+        "title": {
+          "en": "Mali Empire: power, exchange and historical evidence",
+          "zh": "马里帝国：权力、交流与历史证据"
+        },
+        "start": 1201,
+        "end": 1600,
+        "location": {
+          "lat": 12,
+          "lon": -8.5,
+          "label": "Mande heartland: a representative point, not an identified capital"
+        },
+        "region": "africa",
+        "theme": "states",
+        "summary": {
+          "en": "Mali grew from a kingdom in the Mande region into a state with connections across West Africa and distant trade networks. Historians reconstruct its past using oral traditions, Arabic chronicles, European accounts and archaeology. These sources answer different questions and do not always agree. Even the location and character of its capitals remain subjects of research.",
+          "zh": "马里从曼德地区的王国发展为一个联系西非多地与远方贸易网络的国家。历史学家结合口述传统、阿拉伯文献、欧洲记录和考古材料重建其过去。不同来源回答的问题并不相同，也未必彼此一致；其都城的位置与性质至今仍是研究课题。"
+        },
+        "dateNote": {
+          "en": "Broad thirteenth-to-sixteenth-century focus follows the cited research abstract; endpoints are century bins, not exact founding and dissolution years. The marker is a regional reference, not a claimed capital.",
+          "zh": "依据所引研究摘要，大致选取十三至十六世纪；端点是世纪分段，不是精确的建国或解体年份。标记是区域参照点，不代表已确定的首都。"
+        },
+        "sources": [
+          {
+            "title": "The Empire of Mali — research abstract",
+            "url": "https://discovery.ucl.ac.uk/id/eprint/10070150/",
+            "publisher": "UCL Discovery"
+          }
+        ],
+        "locationPrecision": "representative",
+        "kind": "polity",
+        "importance": 4
+      },
+      "asset": {
+        "id": "world-batch-05-timbuktu",
+        "recordIds": [
+          "timbuktu"
+        ],
+        "kind": "site",
+        "representation": "site-photograph",
+        "file": "assets/history-media/world-batch-05-timbuktu.jpg",
+        "sha256": "5acce3adf85c51050240e0e85ddc3a532a1e68601c2599981002c492b16ba064",
+        "bytes": 264227,
+        "width": 960,
+        "height": 1280,
+        "title": {
+          "en": "Djingareyber Mosque, Timbuktu",
+          "zh": "廷巴克图的金加雷贝尔清真寺"
+        },
+        "alt": {
+          "en": "A tapered earthen tower with projecting wooden beams rises behind thick walls.",
+          "zh": "带有外伸木梁的渐收土筑塔体立于厚墙之后。"
+        },
+        "caption": {
+          "en": "Djingareyber is one of Timbuktu’s historic mosques and centres of learning.",
+          "zh": "金加雷贝尔是廷巴克图的历史清真寺和学习中心之一。"
+        },
+        "interpretation": {
+          "en": "Thick earth walls and projecting timbers make the building’s materials visible; its survival depends on repeated maintenance.",
+          "zh": "厚土墙与外伸木梁让建筑材料清晰可见；建筑的延续依靠反复维护。"
+        },
+        "creator": "KaTeznik",
+        "date": "Photograph: 2005-01-07",
+        "institution": "Wikimedia Commons / credited photographer",
+        "metadataI18n": {
+          "date": {
+            "en": "Photograph: 2005-01-07",
+            "zh": "拍摄于2005年1月7日"
+          },
+          "creator": {
+            "en": "KaTeznik",
+            "zh": "署名摄影者（KaTeznik）"
+          },
+          "institution": {
+            "en": "Wikimedia Commons / credited photographer",
+            "zh": "维基共享资源／署名摄影者"
+          }
+        },
+        "historicalPeriod": {
+          "en": "Founded in the fourteenth century; maintained and altered over subsequent centuries",
+          "zh": "始建于14世纪，历代持续维护和改建"
+        },
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Djingareiber_cour.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Djingareiber_cour.jpg",
+        "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Djingareiber_cour.jpg/960px-Djingareiber_cour.jpg",
+        "checkedAt": "2026-11-11",
+        "rightsSourceUrl": "https://commons.wikimedia.org/wiki/File:Djingareiber_cour.jpg",
+        "rights": {
+          "label": "CC BY-SA 2.0 fr",
+          "url": "https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en",
+          "note": {
+            "en": "Photograph © KaTeznik, CC BY-SA 2.0 fr. Retain attribution, the license and any change notices when reusing this photograph. Share adaptations under the same license.",
+            "zh": "照片署名：KaTeznik；许可：CC BY-SA 2.0 fr。再次使用时须保留署名、许可及修改说明。改编作品须沿用相同许可。"
+          }
+        },
+        "contextSources": [
+          {
+            "title": {
+              "en": "Explore this site’s history",
+              "zh": "了解遗址历史"
+            },
+            "url": "https://whc.unesco.org/en/list/119/"
+          }
+        ],
+        "retrieval": "Commons source-page revisions and image metadata retained. Delivered bytes decoded, hashed and individually reviewed.",
+        "transformation": {
+          "en": "Commons-provided JPEG, unchanged locally. Source-side cropping or processing is described on the file page.",
+          "zh": "采用Commons提供的JPEG，未在本地修改。来源已有的裁切或处理见文件页说明。"
+        }
+      }
+    },
+    {
+      "assetId": "world-batch-05-timbuktu",
+      "recordId": "songhai-empire",
+      "decision": "hold",
+      "reason": "Broad urban learning and Saharan exchange are not enough to assign the specific Djingareyber building. Need direct institutional/period connection in the story, not generic mosque imagery.",
+      "record": {
+        "id": "songhai-empire",
+        "title": {
+          "en": "Songhai: power along the Niger bend",
+          "zh": "桑海：尼日尔河曲的权力"
+        },
+        "start": 1464,
+        "end": 1591,
+        "region": "africa",
+        "theme": "states",
+        "kind": "polity",
+        "importance": 4,
+        "location": {
+          "lat": 16.27,
+          "lon": -0.05,
+          "label": "Gao"
+        },
+        "locationPrecision": "representative",
+        "summary": {
+          "en": "Songhai rose around the Niger River and became a major power after Mali’s influence weakened. Its rulers linked riverine agriculture and towns with wider Saharan commercial networks. Scholars, merchants and court officials participated in overlapping urban worlds, while political expansion brought diverse communities under changing authority. The Moroccan invasion of 1591 disrupted the imperial centre, though regional histories and scholarly traditions continued. Songhai should therefore be understood both as a state and as part of longer Sahelian networks. Its rise and fall help explain why the history of trade cannot be reduced to the lifespan of one empire.",
+          "zh": "桑海在尼日尔河流域崛起，随马里势力减弱而成为强国。统治者把沿河农业与城市同撒哈拉商业网络连接起来，学者、商人和官员共同参与城市生活；扩张也使多样社区受其统治。1591年摩洛哥进攻破坏帝国中心，但地方历史与学术传统继续延续。桑海既是国家，也是更长期萨赫勒网络的一部分，贸易史不能等同于一个帝国的寿命。"
+        },
+        "dateNote": {
+          "en": "1464–1591 follows the Met exhibition’s imperial chronology; earlier Songhai communities and later successor polities are outside this focus.",
+          "zh": "1464—1591年采用大都会展览帝国年表，不涵盖更早桑海社区及后继政权。"
+        },
+        "sources": [
+          {
+            "title": "Sahel: Art and Empires on the Shores of the Sahara",
+            "url": "https://www.metmuseum.org/exhibitions/sahel-art-empire-sahara/inside-the-exhibition",
+            "publisher": "The Metropolitan Museum of Art",
+            "checkedAt": "2026-10-22",
+            "evidenceNote": "1464–1591 follows the Met exhibition’s imperial chronology; earlier Songhai communities and later successor polities are outside this focus."
+          }
+        ]
+      },
+      "asset": {
+        "id": "world-batch-05-timbuktu",
+        "recordIds": [
+          "timbuktu"
+        ],
+        "kind": "site",
+        "representation": "site-photograph",
+        "file": "assets/history-media/world-batch-05-timbuktu.jpg",
+        "sha256": "5acce3adf85c51050240e0e85ddc3a532a1e68601c2599981002c492b16ba064",
+        "bytes": 264227,
+        "width": 960,
+        "height": 1280,
+        "title": {
+          "en": "Djingareyber Mosque, Timbuktu",
+          "zh": "廷巴克图的金加雷贝尔清真寺"
+        },
+        "alt": {
+          "en": "A tapered earthen tower with projecting wooden beams rises behind thick walls.",
+          "zh": "带有外伸木梁的渐收土筑塔体立于厚墙之后。"
+        },
+        "caption": {
+          "en": "Djingareyber is one of Timbuktu’s historic mosques and centres of learning.",
+          "zh": "金加雷贝尔是廷巴克图的历史清真寺和学习中心之一。"
+        },
+        "interpretation": {
+          "en": "Thick earth walls and projecting timbers make the building’s materials visible; its survival depends on repeated maintenance.",
+          "zh": "厚土墙与外伸木梁让建筑材料清晰可见；建筑的延续依靠反复维护。"
+        },
+        "creator": "KaTeznik",
+        "date": "Photograph: 2005-01-07",
+        "institution": "Wikimedia Commons / credited photographer",
+        "metadataI18n": {
+          "date": {
+            "en": "Photograph: 2005-01-07",
+            "zh": "拍摄于2005年1月7日"
+          },
+          "creator": {
+            "en": "KaTeznik",
+            "zh": "署名摄影者（KaTeznik）"
+          },
+          "institution": {
+            "en": "Wikimedia Commons / credited photographer",
+            "zh": "维基共享资源／署名摄影者"
+          }
+        },
+        "historicalPeriod": {
+          "en": "Founded in the fourteenth century; maintained and altered over subsequent centuries",
+          "zh": "始建于14世纪，历代持续维护和改建"
+        },
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Djingareiber_cour.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Djingareiber_cour.jpg",
+        "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Djingareiber_cour.jpg/960px-Djingareiber_cour.jpg",
+        "checkedAt": "2026-11-11",
+        "rightsSourceUrl": "https://commons.wikimedia.org/wiki/File:Djingareiber_cour.jpg",
+        "rights": {
+          "label": "CC BY-SA 2.0 fr",
+          "url": "https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en",
+          "note": {
+            "en": "Photograph © KaTeznik, CC BY-SA 2.0 fr. Retain attribution, the license and any change notices when reusing this photograph. Share adaptations under the same license.",
+            "zh": "照片署名：KaTeznik；许可：CC BY-SA 2.0 fr。再次使用时须保留署名、许可及修改说明。改编作品须沿用相同许可。"
+          }
+        },
+        "contextSources": [
+          {
+            "title": {
+              "en": "Explore this site’s history",
+              "zh": "了解遗址历史"
+            },
+            "url": "https://whc.unesco.org/en/list/119/"
+          }
+        ],
+        "retrieval": "Commons source-page revisions and image metadata retained. Delivered bytes decoded, hashed and individually reviewed.",
+        "transformation": {
+          "en": "Commons-provided JPEG, unchanged locally. Source-side cropping or processing is described on the file page.",
+          "zh": "采用Commons提供的JPEG，未在本地修改。来源已有的裁切或处理见文件页说明。"
+        }
+      }
+    },
+    {
+      "assetId": "china-batch-05-qingming",
+      "recordId": "northern-song",
+      "decision": "reject",
+      "reason": "This bridge-market detail primarily depicts urban traffic and labour. The current bilingual story foregrounds examinations, officials and differing artistic ideals, not the pictured urban system. Do not force a general dynasty illustration.",
+      "record": {
+        "id": "northern-song",
+        "title": {
+          "en": "Northern Song: governing through learning",
+          "zh": "北宋：学问与官僚政治"
+        },
+        "start": 960,
+        "end": 1127,
+        "region": "east-asia",
+        "theme": "states",
+        "kind": "polity",
+        "importance": 4,
+        "location": {
+          "lat": 34.8,
+          "lon": 114.3,
+          "label": "Bianjing / Kaifeng",
+          "labelI18n": {
+            "en": "Bianjing / Kaifeng",
+            "zh": "汴京／开封"
+          },
+          "labelProvenance": "reviewed-display-translation"
+        },
+        "locationPrecision": "representative",
+        "summary": {
+          "en": "The Northern Song placed scholar-officials and civil examinations near the centre of government. Learning, political service and artistic expression became closely connected, though officials disagreed sharply about policy and their responsibilities. Court painters created images of an ordered natural world, while literati used painting and calligraphy for more personal purposes. These differences reveal competing ideas about what culture should do. Song history is therefore more than a sequence of inventions: it also offers a way to explore administration, elite recruitment and the relationship between individual expression and service to the state.",
+          "zh": "北宋以士大夫和科举制度为政治核心之一，学问、仕途与艺术表达紧密联系，但官员对政策和责任也常有分歧。宫廷画家营造秩序井然的自然图景，文人则以书画表达个人志趣。不同艺术观念折射文化与国家的多种关系。宋史不仅是一串发明清单，也能帮助理解行政、精英选拔以及个人表达和公共责任之间的张力。"
+        },
+        "dateNote": {
+          "en": "960–1127 covers Northern Song. The court moved south after the loss of the northern capital, rather than the Song dynasty ending in 1127.",
+          "zh": "960—1127年指北宋；1127年后朝廷南迁，并非宋朝终结。"
+        },
+        "sources": [
+          {
+            "title": "Northern Song Dynasty (960–1127)",
+            "url": "https://www.metmuseum.org/essays/northern-song-dynasty-960-1127",
+            "publisher": "The Metropolitan Museum of Art",
+            "checkedAt": "2026-10-22",
+            "evidenceNote": "960–1127 covers Northern Song. The court moved south after the loss of the northern capital, rather than the Song dynasty ending in 1127."
+          }
+        ]
+      },
+      "asset": {
+        "id": "china-batch-05-qingming",
+        "file": "assets/history-media/china-batch-05-qingming.jpg",
+        "kind": "artwork",
+        "representation": "historical-artwork",
+        "recordIds": [
+          "china-song-urban-markets"
+        ],
+        "title": {
+          "en": "River traffic and bridge crowds in the Qingming scroll",
+          "zh": "《清明上河图》中的船运与桥市"
+        },
+        "alt": {
+          "en": "A crowded arched wooden bridge spans a river filled with boats; porters, pack animals, stalls and tiled roofs line the banks.",
+          "zh": "拥挤的拱形木桥横跨有船往来的河流，两岸可见脚夫、驮兽、摊位与瓦屋。"
+        },
+        "caption": {
+          "en": "River traffic and bridge crowds in the Qingming scroll. Northern Song dynasty (960–1127).",
+          "zh": "《清明上河图》中的船运与桥市，北宋（960—1127）。"
+        },
+        "interpretation": {
+          "en": "Follow the boat crews, people crossing the bridge and goods arriving along the bank. The scene joins transport and trade to the work that kept a Song city supplied.",
+          "zh": "沿画面追踪船工、过桥行人与沿岸运抵的货物，可以看到运输、交易和维持宋代城市供给的劳动如何相连。"
+        },
+        "creator": "Zhang Zeduan",
+        "date": "Northern Song dynasty (960–1127)",
+        "institution": "Palace Museum, Beijing, 新00087177",
+        "sourceUrl": "https://www.dpm.org.cn/collection/paint/228226.html",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/Along_the_River_During_the_Qingming_Festival_%28detail_of_original%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Along_the_River_During_the_Qingming_Festival_%28detail_of_original%29.jpg/960px-Along_the_River_During_the_Qingming_Festival_%28detail_of_original%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "rightsSourceUrl": "https://commons.wikimedia.org/wiki/File:Along_the_River_During_the_Qingming_Festival_(detail_of_original).jpg",
+        "rights": {
+          "label": "Public domain",
+          "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "note": {
+            "en": "The Commons source explicitly marks this historical artwork and its faithful reproduction as public domain; the receipt preserves the identified edition or collection and full attribution.",
+            "zh": "Commons来源明确将此历史作品及其忠实复制图标为公共领域；来源记录保留可识别版本或收藏及完整署名。"
+          }
+        },
+        "width": 960,
+        "height": 480,
+        "bytes": 225476,
+        "sha256": "06c8aa10fe67305c790a8bf5c60ccd7be905709ed7d9cfddbeed8c1a497035d7",
+        "format": "jpeg",
+        "checkedAt": "2026-11-11",
+        "transformation": {
+          "en": "Source image or source-generated thumbnail saved unchanged. No local cropping, resizing, recoloring or retouching.",
+          "zh": "原样保存来源图像或来源生成的缩略图，未作本地裁切、缩放、调色或修饰。"
+        },
+        "retrieval": "Source metadata and identified collection/edition reviewed; all final pixels inspected individually; exact assembled target title and summary reviewed.",
+        "contextSources": [
+          {
+            "title": {
+              "en": "Commons image and reuse record",
+              "zh": "Commons图像与使用记录"
+            },
+            "url": "https://commons.wikimedia.org/wiki/File:Along_the_River_During_the_Qingming_Festival_(detail_of_original).jpg"
+          }
+        ],
+        "metadataI18n": {
+          "date": {
+            "en": "Northern Song dynasty (960–1127)",
+            "zh": "北宋（960—1127年）"
+          },
+          "creator": {
+            "en": "Zhang Zeduan",
+            "zh": "张择端"
+          },
+          "institution": {
+            "en": "Palace Museum, Beijing, 新00087177",
+            "zh": "北京故宫博物院，新00087177"
+          }
+        }
+      }
+    },
+    {
+      "assetId": "atlantic-rebuild-met-39329",
+      "recordId": "hinduism-living-traditions",
+      "decision": "reject",
+      "reason": "Medieval Tamil sculpture does not depict the target’s contemporary Greater Boston communities. Generic religious identity is insufficient.",
+      "record": {
+        "id": "hinduism-living-traditions",
+        "title": {
+          "en": "Hinduism · Living traditions and communities",
+          "zh": "印度教 · 活态传统与社群"
+        },
+        "start": 2000,
+        "end": 2026,
+        "region": "north-america",
+        "theme": "culture",
+        "kind": "idea",
+        "importance": 4,
+        "location": {
+          "lat": 42.374,
+          "lon": -71.116,
+          "label": "Cambridge, Massachusetts; location of the project documenting religious communities, not an origin site",
+          "labelI18n": {
+            "en": "Cambridge, Massachusetts; location of the project documenting religious communities, not an origin site",
+            "zh": "美国马萨诸塞州剑桥；记录宗教社群项目所在地，并非发源地"
+          }
+        },
+        "locationPrecision": "representative",
+        "summary": {
+          "en": "Hinduism is a living family of religious traditions rather than a community confined to an ancient period. Harvard’s Pluralism Project introduces Hinduism through contemporary religious life and identifies Hindu centers in the United States. This source offers one window on present communities; those centers do not define all Hindu beliefs or practices.\n\nRelated readings can compare this contemporary view with Vedic oral transmission and South Asian religious places. Such a comparison does not make Vedic traditions identical to all modern Hindu practice or assign one founder, uniform history or territorial border to Hinduism. Communities interpret and live their traditions in many contexts today.",
+          "zh": "印度教是一系列延续至今的宗教传统，而不是只存在于古代的社群。哈佛大学多元宗教项目通过当代宗教生活介绍印度教，并列出美国的印度教中心。这一来源只是观察当代社群的一扇窗口，不能用这些中心概括所有印度教信仰或实践。\n\n相关阅读可将当代视角与吠陀口传及南亚宗教地点比较。这种比较不应把吠陀传统等同于所有现代印度教实践，也不能为印度教指定单一创始人、整齐划一的历史或领土边界。如今社群在多种语境中理解并实践自己的传统。"
+        },
+        "dateNote": {
+          "en": "2000–2026 is an editorial window for contemporary communities, not the origin or end of Hindu traditions. The selected project page was inspected for its contemporary scope, not a detailed historical chronology.",
+          "zh": "2000—2026年是当代社群的编辑关注时段，不是印度教传统的起源或终点。所选项目页面只用于核查其当代范围，并非详细历史编年。"
+        },
+        "relatedIds": [
+          "vedic-oral-transmission",
+          "jain-ascetic-communities"
+        ],
+        "sources": [
+          {
+            "title": "Hinduism",
+            "url": "https://pluralism.org/hinduism",
+            "publisher": "Harvard University, The Pluralism Project",
+            "evidenceNote": "Directly inspected the visible Hinduism hub’s Greater Boston account of worship and festivals in homes and rented halls, later temples and Hindu centers. The detailed historical chronology was not accessible in the expandable section; no ancient dates are derived from it.",
+            "checkedAt": "2026-10-27",
+            "retrieval": "inspected-selected-sections"
+          }
+        ],
+        "expansion": {
+          "release": 8,
+          "edition": "v14",
+          "workstreams": [
+            "SA1",
+            "NA3"
+          ],
+          "sourceReview": "inspected-source-synthesis",
+          "reviewLimit": {
+            "en": "The inspected project hub offers a contemporary Greater Boston perspective, not a complete account of Hindu traditions worldwide or their ancient chronology.",
+            "zh": "已查看的项目主页提供当代大波士顿视角，并非全球印度教传统或其古代编年的完整说明。"
+          }
+        },
+        "regionalAssociation": "omit-broad-point"
+      },
+      "asset": {
+        "id": "atlantic-rebuild-met-39329",
+        "file": "assets/history-media/atlantic-rebuild-met-39329.jpg",
+        "downloadedFrom": "https://images.metmuseum.org/CRDImages/as/web-large/DP221497.jpg",
+        "width": 469,
+        "height": 625,
+        "bytes": 176643,
+        "sha256": "afb27eb569f89b08ce52efca28fb839d0ded6127bfeb8a538e7d40b88d500d25",
+        "recordIds": [
+          "chola-dynasty"
+        ],
+        "kind": "object",
+        "representation": "object-photograph",
+        "title": {
+          "en": "Shiva Nataraja: a Chola-period copper-alloy image",
+          "zh": "湿婆舞王：朱罗时代铜合金造像"
+        },
+        "caption": {
+          "en": "This Tamil Nadu sculpture dates to the late twelfth or early thirteenth century. Images of this type were carried in festival processions.",
+          "zh": "这件泰米尔纳德邦雕像制作于十二世纪末至十三世纪初；同类造像用于节庆巡游。"
+        },
+        "alt": {
+          "en": "Shiva dances with multiple arms inside a flaming ring, one foot raised.",
+          "zh": "湿婆在火焰圆环内起舞，多臂展开，一足抬起。"
+        },
+        "interpretation": {
+          "en": "Portable sacred sculpture complements the entry’s monumental temples: casting skills also produced images that moved through public space. No commission by a specific Chola ruler is claimed.",
+          "zh": "可移动神像补充了本条的宏大寺院：铸造技艺也制作穿行公共空间的形象。不声称本件由某位朱罗君王委托。"
+        },
+        "creator": "Unrecorded maker (India, Tamil Nadu)",
+        "date": "late 12th–early 13th century",
+        "institution": "The Metropolitan Museum of Art",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/39329",
+        "imageUrl": "https://images.metmuseum.org/CRDImages/as/original/DP221497.jpg",
+        "rightsSourceUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access",
+        "checkedAt": "2026-11-11",
+        "rights": {
+          "label": "CC0",
+          "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "note": {
+            "en": "The Met API marks this object public domain; its Open Access policy releases these images under CC0. Harris Brisbane Dick Fund, 1964",
+            "zh": "大都会馆藏API将此物件标为公有领域，开放获取政策以CC0发布图像。入藏署名见原始馆藏记录。"
+          }
+        },
+        "transformation": {
+          "en": "Published museum image preserved byte-for-byte, without local editing.",
+          "zh": "逐字节保存博物馆发布图像，未作本地编辑。"
+        },
+        "metadataI18n": {
+          "date": {
+            "en": "late 12th–early 13th century",
+            "zh": "12世纪末至13世纪初"
+          },
+          "creator": {
+            "en": "Unrecorded maker (India, Tamil Nadu)",
+            "zh": "印度泰米尔纳德地区制作者，姓名未载"
+          },
+          "institution": {
+            "en": "The Metropolitan Museum of Art",
+            "zh": "大都会艺术博物馆"
+          }
+        }
+      }
+    },
+    {
+      "assetId": "world-batch-05-cusco-imperial-city",
+      "recordId": "person-pachacuti",
+      "decision": "hold",
+      "reason": "Pachacuti’s reorganization of Cusco is substantive, but the inspected material does not specifically attribute the pictured Qorikancha masonry phase to him. Hold pending narrower source evidence; do not turn city association into a building commission.",
+      "record": {
+        "id": "person-pachacuti",
+        "title": {
+          "en": "Pachacuti · Reorganizing an expanding Inca state",
+          "zh": "帕查库蒂 · 重组扩张中的印加国家"
+        },
+        "start": 1438,
+        "end": 1471,
+        "region": "latin-america",
+        "theme": "states",
+        "kind": "person",
+        "location": {
+          "lat": -13.52,
+          "lon": -71.98,
+          "label": "Cusco; representative royal and administrative center"
+        },
+        "locationPrecision": "representative",
+        "importance": 4,
+        "ongoing": false,
+        "summary": {
+          "en": "Pachacuti is associated with the transformation of Cusco’s rulers into an expanding imperial power during the fifteenth century. Political narratives connect his accession with conflict against the Chancas, while the reorganization of Cusco linked rule to a capital with sacred, administrative and productive functions. Expansion drew on conquest, alliances and the incorporation of existing local authorities.\n\nThe traditions about him were written down after the Spanish conquest and do not supply an uncontested modern-style life chronology. Conventional reign dates are therefore a reference for comparison, not proof of a precise annual frontier. His significance extends beyond military victories to the organization of a diverse Andean political world. The institutions attributed to imperial rule also depended on practices developed by earlier societies. Comparing his story with regional archaeology prevents a ruler’s biography from absorbing the history of every people incorporated into Tawantinsuyu.",
+          "zh": "帕查库蒂与十五世纪库斯科统治者向帝国强权的转变有关。政治叙述把他即位同对昌卡人的冲突相连，库斯科重组则把统治同具有神圣、行政及生产功能的都城联系起来。扩张依赖征服、联盟及对既有地方权威的纳入。\n\n关于他的传统在西班牙征服后才被写下，不能提供没有争议的现代式生平年表。传统统治年代因此是比较参照，而非精确逐年边界的证明。其重要性超出战功，也涉及组织多样的安第斯政治世界。帝国制度还依赖更早社会发展的实践。把个人故事同区域考古比较，可避免统治者传记吞没被纳入塔万廷苏尤的各族历史。"
+        },
+        "dateNote": {
+          "en": "Working reign focus c.1438–1471 follows the British Museum; other surveys extend to c.1473. These are not birth/death dates.",
+          "zh": "约1438—1471年的统治观察窗口采用大英博物馆；其他研究延至约1473年，并非生卒年。"
+        },
+        "sources": [
+          {
+            "title": "Pachacuti Inca Yupanqui",
+            "url": "https://www.britishmuseum.org/collection/term/BIOG184445",
+            "publisher": "www.britishmuseum.org",
+            "evidenceNote": "Museum authority record supplies a conventional active/reign interval; full-page fetch failed, indexed record inspected. Access: indexed-excerpt.",
+            "checkedAt": "2026-10-23",
+            "retrieval": "indexed-excerpt"
+          },
+          {
+            "title": "City of Cuzco",
+            "url": "https://whc.unesco.org/en/list/273/",
+            "publisher": "UNESCO World Heritage Centre",
+            "evidenceNote": "UNESCO account links Pachacuti to Cusco’s urban organization. Access: opened-page-extract.",
+            "checkedAt": "2026-10-23",
+            "retrieval": "opened-page-extract"
+          },
+          {
+            "title": "Central and Southern Andes, 1400–1600 A.D. | Chronology",
+            "url": "https://www.metmuseum.org/toah/ht/08/sanc",
+            "publisher": "The Metropolitan Museum of Art",
+            "evidenceNote": "Museum chronology contextualizes expansion and differing dates. Access: opened-page-extract.",
+            "checkedAt": "2026-10-23",
+            "retrieval": "opened-page-extract"
+          }
+        ],
+        "relatedIds": [
+          "cusco-imperial-city",
+          "inca-imperial-expansion",
+          "andean-altitude-agriculture"
+        ],
+        "expansion": {
+          "workstreams": [
+            "LA2"
+          ],
+          "release": 1,
+          "sourceReview": "Source-specific retrieved excerpts inspected; full-page access limitations retained in source notes."
+        },
+        "keyFacts": {
+          "en": [
+            "Pachacuti is associated with the transformation of Cusco’s rulers into an expanding imperial power during the fifteenth century.",
+            "The traditions about him were written down after the Spanish conquest and do not supply an uncontested modern-style life chronology."
+          ],
+          "zh": [
+            "帕查库蒂与十五世纪库斯科统治者向帝国强权的转变有关。",
+            "关于他的传统在西班牙征服后才被写下，不能提供没有争议的现代式生平年表。"
+          ]
+        },
+        "name": {
+          "en": "Pachacuti Inca Yupanqui",
+          "zh": "帕查库蒂·印加·尤潘基"
+        },
+        "milestones": [
+          {
+            "year": 1438,
+            "title": {
+              "en": "Conventional accession",
+              "zh": "传统即位年代"
+            },
+            "description": {
+              "en": "Museum chronologies conventionally place the beginning of his imperial phase around this year.",
+              "zh": "博物馆年表通常把其帝国阶段起点置于此年左右。"
+            },
+            "location": {
+              "lat": -13.52,
+              "lon": -71.98,
+              "label": "Cusco; representative royal and administrative center"
+            },
+            "approximate": true
+          },
+          {
+            "year": 1471,
+            "title": {
+              "en": "Conventional reign endpoint",
+              "zh": "传统统治终点"
+            },
+            "description": {
+              "en": "The British Museum uses this approximate endpoint; other chronologies differ.",
+              "zh": "大英博物馆采用这一近似终点，其他年表不同。"
+            },
+            "location": {
+              "lat": -13.52,
+              "lon": -71.98,
+              "label": "Cusco; representative royal and administrative center"
+            },
+            "approximate": true
+          }
+        ],
+        "aliases": [
+          "Pachacutec",
+          "帕查库特克",
+          "帕查库提"
+        ]
+      },
+      "asset": {
+        "id": "world-batch-05-cusco-imperial-city",
+        "recordIds": [
+          "cusco-imperial-city"
+        ],
+        "kind": "site",
+        "representation": "site-photograph",
+        "file": "assets/history-media/world-batch-05-cusco-imperial-city.jpg",
+        "sha256": "5b11d983f426718315ea0bdf60826a3065f681f0721040489e5230d50d4e3402",
+        "bytes": 212008,
+        "width": 960,
+        "height": 660,
+        "title": {
+          "en": "Inca masonry at Qorikancha",
+          "zh": "科里坎查的印加石墙"
+        },
+        "alt": {
+          "en": "Smooth fitted stone blocks form a wall below later buildings.",
+          "zh": "精密拼接的平整石块构成墙体，上方为后建建筑。"
+        },
+        "caption": {
+          "en": "Qorikancha’s Inca walls survive beneath and beside the colonial Santo Domingo complex.",
+          "zh": "科里坎查的印加石墙保存在殖民时期圣多明各建筑群之下与旁侧。"
+        },
+        "interpretation": {
+          "en": "The junction between masonry traditions makes the city’s layered history visible.",
+          "zh": "不同砌筑传统的交界让城市的多层历史可见。"
+        },
+        "creator": "Håkan Svensson (Xauxa)",
+        "date": "Photograph: 2002-07",
+        "institution": "Wikimedia Commons / credited photographer",
+        "metadataI18n": {
+          "date": {
+            "en": "Photograph: 2002-07",
+            "zh": "拍摄于2002年7月"
+          },
+          "creator": {
+            "en": "Håkan Svensson (Xauxa)",
+            "zh": "署名摄影者（Håkan Svensson，Xauxa）"
+          },
+          "institution": {
+            "en": "Wikimedia Commons / credited photographer",
+            "zh": "维基共享资源／署名摄影者"
+          }
+        },
+        "historicalPeriod": {
+          "en": "Inca fifteenth-century fabric with Spanish colonial construction above",
+          "zh": "15世纪印加建筑遗存，上叠西班牙殖民时期建筑"
+        },
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cusco_Coricancha_Inti-Huasi_main_view.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Cusco_Coricancha_Inti-Huasi_main_view.jpg",
+        "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Cusco_Coricancha_Inti-Huasi_main_view.jpg/960px-Cusco_Coricancha_Inti-Huasi_main_view.jpg",
+        "checkedAt": "2026-11-11",
+        "rightsSourceUrl": "https://commons.wikimedia.org/wiki/File:Cusco_Coricancha_Inti-Huasi_main_view.jpg",
+        "rights": {
+          "label": "CC BY 2.5",
+          "url": "https://creativecommons.org/licenses/by/2.5",
+          "note": {
+            "en": "Photograph © Håkan Svensson (Xauxa), CC BY 2.5. Retain attribution, the license and any change notices when reusing this photograph.",
+            "zh": "照片署名：Håkan Svensson (Xauxa)；许可：CC BY 2.5。再次使用时须保留署名、许可及修改说明。"
+          }
+        },
+        "contextSources": [
+          {
+            "title": {
+              "en": "Explore this site’s history",
+              "zh": "了解遗址历史"
+            },
+            "url": "https://whc.unesco.org/en/list/273/"
+          }
+        ],
+        "retrieval": "Commons source-page revisions and image metadata retained. Delivered bytes decoded, hashed and individually reviewed.",
+        "transformation": {
+          "en": "Commons-provided JPEG, unchanged locally. Source-side cropping or processing is described on the file page.",
+          "zh": "采用Commons提供的JPEG，未在本地修改。来源已有的裁切或处理见文件页说明。"
+        }
+      }
+    }
+  ],
+  "reviewFlags": [
+    {
+      "scope": "External UNESCO Lumbini source",
+      "issue": "Its precise Buddha birth date should not replace the atlas’s deliberately debated fifth/fourth-century chronology. The pillar association does not require that date.",
+      "action": "No target-story correction needed; retain narrow source scope."
+    }
+  ]
+}

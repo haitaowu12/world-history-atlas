@@ -103,5 +103,10 @@ VISUAL_STUDIES.push(
  b('The Bastille engraving, after Henry Singleton, contrasts a towering prison with the people surrounding it. The fall of the fortress becomes an image of despotism overcome. Its publication date is unrecorded; the depicted event is 14 July 1789.','依亨利·辛格尔顿作品制作的巴士底狱版画，把高耸监狱与包围它的人群对照，使堡垒的陷落成为专制被推翻的图像。刊刻年代未载，画中事件发生于1789年7月14日。'),
  b('Cruikshank’s London print of June 1871 turns the Paris Commune into a fiery demon. Its accusation belongs to the political reception of a different revolution, eighty-two years later. Compare how bodies, architecture and symbols carry each argument.','克鲁克香克1871年6月在伦敦出版的画作，把巴黎公社化作烈火中的恶魔。这一指控属于八十二年后另一场革命的政治反响。比较身体、建筑与象征如何承载各自的论点。')]}
 );
+VISUAL_STUDIES.push(
+ {id:'song-succession-portrait-letter',assets:['china-batch-08-song-ningzong','china-batch-08-zhuxi-letter-1194'],title:b('A succession seen through two sources','从两种史料看一次皇位更替'),question:b('Find the emperor’s name on the portrait’s left leaf, then compare the rapid writing in Zhu Xi’s letter. What does each source preserve?','先在肖像左页寻找皇帝的名号，再观察朱熹信中迅疾的书写。两种史料各保留了什么？'),observations:[
+ b('The imperial album identifies Ningzong through his face, court dress and facing inscription. The painting’s date is unestablished; the mounted portrait organizes a ruler’s identity for later viewers.','帝像册通过面容、冠服与对页题记辨识宁宗。绘制年代未定；装裱肖像为后来的观看者组织起君主身份。'),
+ b('Zhu Xi wrote in the eighth lunar month of 1194 while travelling to court. His first sheet mentions national mourning and imperial favour: the museum relates these words to Xiaozong’s death and Ningzong’s accession. A government letter preserves personal reactions within the political transition.','朱熹于1194年农历八月赴朝途中写信。第一幅提到“国家丧纪”与“庆霈”；博物馆将这些话与孝宗去世、宁宗即位联系起来。政务书信保存了政治转折中的个人反应。')]}
+);
 export function availableVisualStudies(rows){const ids=new Set(rows.map(r=>r.id));return VISUAL_STUDIES.filter(s=>s.assets.length===2&&new Set(s.assets).size===2&&s.assets.every(id=>ids.has(id)));}
 export function matchingVisualStudy(ids){if(ids.length!==2||new Set(ids).size!==2)return null;return VISUAL_STUDIES.find(s=>s.assets.every(id=>ids.includes(id)))||null;}

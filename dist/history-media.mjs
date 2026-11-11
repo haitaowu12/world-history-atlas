@@ -45,7 +45,7 @@ export function auditHistoryMedia(catalog, recordIds) {
     if (!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(item.id || '') || seen.has(item.id)) fail('invalid or duplicate identity');
     seen.add(item.id);
     if (!['portrait','object','manuscript','site','artwork','map','document','photograph'].includes(item.kind)) fail('unknown image kind');
-    const representations={portrait:['historical-photograph','lifetime-portrait','ancient-portrait','ancient-royal-image','later-depiction','modern-memorial'],object:['object-photograph'],manuscript:['manuscript-detail'],site:['site-photograph'],artwork:['historical-artwork'],map:['historical-map'],document:['document-facsimile'],photograph:['historical-photograph']};
+    const representations={portrait:['historical-photograph','historical-portrait','lifetime-portrait','ancient-portrait','ancient-royal-image','later-depiction','modern-memorial'],object:['object-photograph'],manuscript:['manuscript-detail'],site:['site-photograph'],artwork:['historical-artwork'],map:['historical-map'],document:['document-facsimile'],photograph:['historical-photograph']};
     if (!representations[item.kind]?.includes(item.representation)) fail('missing or mismatched representation type');
     if (!Array.isArray(item.recordIds) || !item.recordIds.length || new Set(item.recordIds).size !== item.recordIds.length || item.recordIds.some(id => !records.has(id))) fail('unknown or duplicate record link');
     if (!assetPath(item.file) || files.has(item.file)) fail('invalid or duplicate local asset');

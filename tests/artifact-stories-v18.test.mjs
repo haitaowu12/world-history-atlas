@@ -35,9 +35,9 @@ test('artifact stories retain specific object identity and attribution limits',(
  assert.match(stories[2].sources[1].publisher,/Tentative Lists/);
  assert.equal(stories[1].end,1540);assert.equal(stories[0].start,1799);
 });
-test('gallery search precedes a collapsed, keyboard-accessible ten-study disclosure',()=>{
+test('gallery search precedes a collapsed, keyboard-accessible eleven-study disclosure',()=>{
  const original=globalThis.document;let html='';
  globalThis.document={querySelector(){return {addEventListener(){}};}};
- try{for(const language of ['en','zh']){const view=createVisualLibrary({catalog,records,getLanguage:()=>language,regions:[],regionName:String,openDialog:value=>{html=value;},openStory(){},escape:String});view.browse();assert.ok(html.indexOf('id="visual-search"')<html.indexOf('class="visual-studies"'));assert.match(html,/<details class="visual-studies"><summary>[^<]*10<\/summary>/);assert.equal((html.match(/data-action="visual-study"/g)||[]).length,10);assert.doesNotMatch(html,/<details class="visual-studies"[^>]*open/);}}
+ try{for(const language of ['en','zh']){const view=createVisualLibrary({catalog,records,getLanguage:()=>language,regions:[],regionName:String,openDialog:value=>{html=value;},openStory(){},escape:String});view.browse();assert.ok(html.indexOf('id="visual-search"')<html.indexOf('class="visual-studies"'));assert.match(html,/<details class="visual-studies"><summary>[^<]*11<\/summary>/);assert.equal((html.match(/data-action="visual-study"/g)||[]).length,11);assert.doesNotMatch(html,/<details class="visual-studies"[^>]*open/);}}
  finally{globalThis.document=original;}
 });

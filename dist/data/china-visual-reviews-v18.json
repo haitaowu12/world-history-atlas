@@ -1024,6 +1024,49 @@
           "evidenceNoteZh": "浮雕为宣武帝时期所营造的孝文帝身后纪念，而非最初开窟工程。"
         }
       ]
+    },
+    {
+      "id": "china-landmark-536",
+      "patch": {
+        "title": {
+          "en": "Huang Gongwang inscribes his unfinished Fuchun Mountains scroll",
+          "zh": "黄公望为尚未完成的《富春山居图》题记"
+        },
+        "summary": {
+          "en": "Huang Gongwang began this river landscape in 1347 for his companion Zheng Wuyong. In his 1350 inscription he wrote that, after three or four years, it was still unfinished. He had taken the scroll back into his travelling baggage and intended to continue when time allowed. The surviving Wuyongshi scroll combines successive stretches of riverbank, trees and mountains; the featured image shows one photographed section. The original was later damaged by fire and divided.",
+          "zh": "黄公望于1347年为道友郑无用开始经营这幅江岸山水。他在1350年题记中说，历经三四年仍“未得完备”，已将画卷取回行李，准备得暇继续落笔。现存无用师卷以连续的江岸、树木与山峦组织景观；所示图像是其中一段的摄影。原卷后来遭火厄并被分割。"
+        },
+        "dateNote": {
+          "en": "1350 dates Huang’s inscription. He states that the painting was still unfinished; work had begun in 1347.",
+          "zh": "1350年是黄公望题记之年；他明确说画卷尚未完成，自1347年起经营。"
+        },
+        "location": {
+          "lon": 119.95,
+          "lat": 30.05,
+          "label": "Fuchun River, Fuyang: landscape reference",
+          "labelI18n": {
+            "en": "Fuchun River, Fuyang: landscape reference",
+            "zh": "富阳富春江：画中山水的地域参考点"
+          },
+          "labelProvenance": "reviewed-reference-anchor"
+        },
+        "locationPrecision": "representative"
+      },
+      "note": {
+        "en": "Completion and age claims replaced by the artist’s dated inscription. The source’s older English description says finished in 1350, but its inscription transcription and Chinese explanation explicitly say unfinished.",
+        "zh": "以画家题记取代完成与年龄断言。来源较早的英文说明写1350年完成，但同页所录题记与中文说明明确说尚未完成。"
+      },
+      "sources": [
+        {
+          "title": "Dwelling in the Fuchun Mountains — Wuyongshi scroll and Huang Gongwang’s inscription",
+          "url": "https://digitalarchive.npm.gov.tw/Collection/Detail/1194?dep=P",
+          "publisher": "National Palace Museum, Taipei",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "The artist’s inscription dates the start to 1347 and says the painting remained unfinished in 1350; collection notes document its fire damage and division.",
+          "evidenceNoteZh": "画家题记记1347年始作，1350年仍未完成；馆藏说明记录后来的火厄与分割。",
+          "retrieval": "Full institutional source page retained in China batch 08 research; inscription and conflicting descriptions reviewed."
+        }
+      ]
     }
   ]
 }
