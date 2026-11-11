@@ -5563,6 +5563,510 @@
         "reviewedField": "title",
         "reviewMethod": "Explicit entry and Songshi passage at the fourth Jianyan year reviewed"
       }
+    },
+    {
+      "assetId": "su-shi",
+      "recordId": "china-su-causeway-1089",
+      "role": "named-person",
+      "context": {
+        "en": "The later portrait identifies Su Shi, the governor whose dredging and causeway work anchors this West Lake entry.",
+        "zh": "后世肖像标识本条西湖疏浚与筑堤故事的主角苏轼。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/宋史/卷338",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "苏轼",
+        "entryTitle": {
+          "en": "Mud becomes a path: Su Shi and West Lake",
+          "zh": "湖泥成为长堤：苏轼与西湖"
+        },
+        "entrySummary": {
+          "en": "Su Shi returned to govern Hangzhou in 1089. The West Lake Museum dates a major dredging project to 1090: material removed from the lake helped form the causeway later named after him. Six bridges interrupted the long embankment.\n\nThe History of Song connects his work with water supply and transport as well as the lake. What visitors admire as scenery also belongs to the history of maintaining a city. Its beauty emerged through repeated human work, not an untouched landscape.",
+          "zh": "1089年，苏轼再任杭州知州。西湖博物馆将一次大规模疏浚系于1090年：从湖中清出的泥土被用于筑堤，后来这条长堤以他命名。六座桥分布在长堤上。\n\n《宋史》将这些工程同供水、运输以及湖泊联系起来。游人欣赏的景色，也是城市维护史的一部分。它的美来自反复的人力经营，并非从未改变的天然景观。"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "Individually read assembled entry and cited source; later portrait is person context only"
+      }
+    },
+    {
+      "assetId": "su-shi",
+      "recordId": "china-event-beisong-021",
+      "role": "named-person",
+      "context": {
+        "en": "Su Shi passed the 1057 examination described here. This later portrait introduces one of the writers selected under Ouyang Xiu.",
+        "zh": "苏轼在本条所述1057年贡举中登科；后世肖像呈现欧阳修选拔的文人之一。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/宋史/卷338",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "苏轼",
+        "entryTitle": {
+          "en": "Ouyang Xiu presides over the 1057 exam, graduating Su Shi, Su Zhe, Zeng Gong, and Zhang Zai",
+          "zh": "欧阳修主持嘉祐二年贡举，苏轼、苏辙、曾巩、张载、程颢同榜登科"
+        },
+        "entrySummary": {
+          "en": "Ouyang Xiu presides over the 1057 exam, graduating Su Shi, Su Zhe, Zeng Gong, and Zhang Zai",
+          "zh": "欧阳修主持嘉祐二年贡举，苏轼、苏辙、曾巩、张载、程颢同榜登科"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "Individually read assembled entry and cited source; later portrait is person context only"
+      }
+    },
+    {
+      "assetId": "su-shi",
+      "recordId": "china-landmark-387",
+      "role": "named-person",
+      "context": {
+        "en": "The later image identifies Su Shi, whose examination essay figures in Ouyang Xiu’s selection of a new generation of writers.",
+        "zh": "后世图像标识苏轼，本条叙述欧阳修通过贡举选拔新一代文人，苏轼的文章是其中的重要一环。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/宋史/卷338",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "苏轼",
+        "entryTitle": {
+          "en": "Chief examiner Ouyang Xiu reforms prose style in Kaifeng, passing Su Shi, Su Zhe, and Zeng Gong",
+          "zh": "欧阳修主考嘉祐贡举革正文风，一榜擢苏轼苏辙曾巩诸贤"
+        },
+        "entrySummary": {
+          "en": "Chief examiner Ouyang Xiu reforms prose style in Kaifeng, passing Su Shi, Su Zhe, and Zeng Gong",
+          "zh": "欧阳修主考嘉祐贡举革正文风，一榜擢苏轼苏辙曾巩诸贤"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "Individually read assembled entry and cited source; later portrait is person context only"
+      }
+    },
+    {
+      "assetId": "qin-shi-huang",
+      "recordId": "qin-mausoleum",
+      "role": "named-person",
+      "context": {
+        "en": "A nineteenth-century portrayal of the First Emperor, whose tomb complex brought imperial power into the afterlife.",
+        "zh": "十九世纪秦始皇画像。作为陵园墓主，他将帝国权力延伸至死后的世界。"
+      },
+      "evidenceUrl": "https://whc.unesco.org/en/list/441/",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "秦始皇",
+        "entryTitle": {
+          "en": "Qin: building an imperial afterlife",
+          "zh": "秦：建造帝国的地下世界"
+        },
+        "entrySummary": {
+          "en": "The first Qin emperor’s burial complex combined a large mound, planned enclosures and pits containing terracotta soldiers, horses and other objects. Construction began before the unification of China in 221 BCE. The surviving figures and weapons are evidence of military organisation and specialised production, while the overall layout echoes an imperial capital. A burial monument can therefore be read as evidence about the labour, authority and ambitions of the living.",
+          "zh": "秦始皇陵把巨大封土、规划整齐的围墙和兵马俑等陪葬坑组合成地下世界。工程在公元前221年统一之前已经开始。陶俑与兵器反映军事组织和专业化制作，整体布局则呼应帝国都城。观察一座陵墓，也能了解生者社会中的劳动组织、权力和愿望。"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "Individually read assembled entry and cited source; later portrait is person context only"
+      }
+    },
+    {
+      "assetId": "qin-shi-huang",
+      "recordId": "china-landmark-282",
+      "role": "named-person",
+      "context": {
+        "en": "The later adult portrayal identifies Ying Zheng, whose birth in Handan is this entry’s subject.",
+        "zh": "后世成年画像标识嬴政；本条叙述的是他出生于邯郸的经历。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/史記/卷006",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "秦始皇",
+        "entryTitle": {
+          "en": "Ying Zheng (future Qin Shi Huang) is born in Handan as son of a Qin royal hostage",
+          "zh": "秦异人质赵，嬴政生于邯郸；前247年年十三归咸阳即秦王位"
+        },
+        "entrySummary": {
+          "en": "Ying Zheng (future Qin Shi Huang) is born in Handan as son of a Qin royal hostage",
+          "zh": "秦异人质赵，嬴政生于邯郸；前247年年十三归咸阳即秦王位"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "Individually read assembled entry and cited source; later portrait is person context only"
+      }
+    },
+    {
+      "assetId": "qin-shi-huang",
+      "recordId": "china-landmark-002",
+      "role": "named-person",
+      "context": {
+        "en": "The nineteenth-century portrait identifies the First Emperor, the central ruler in this account of unification and Xianyang.",
+        "zh": "十九世纪肖像标识秦始皇，即本条统一六国与定都咸阳叙述的核心统治者。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/史記/卷006",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "秦始皇",
+        "entryTitle": {
+          "en": "Qin Shi Huang unifies China with Xianyang as imperial capital",
+          "zh": "秦始皇统一六国定都咸阳，收天下兵器铸十二金人"
+        },
+        "entrySummary": {
+          "en": "Qin Shi Huang unifies China with Xianyang as imperial capital",
+          "zh": "秦始皇统一六国定都咸阳，收天下兵器铸十二金人"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "Individually read assembled entry and cited source; later portrait is person context only"
+      }
+    },
+    {
+      "assetId": "qin-shi-huang",
+      "recordId": "china-landmark-147",
+      "role": "named-person",
+      "context": {
+        "en": "The later portrait identifies the emperor whose Langya visit and commemorative inscription form this entry’s subject.",
+        "zh": "后世肖像标识本条琅琊巡游与刻石叙事的主角秦始皇。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/史記/卷006",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "秦始皇",
+        "entryTitle": {
+          "en": "Qin Shi Huang ascends Mount Langya, moving 30,000 households to build Langya Terrace and stele",
+          "zh": "秦始皇东巡登琅琊山，留三月，徙三万户筑琅琊台立石颂秦德"
+        },
+        "entrySummary": {
+          "en": "Qin Shi Huang ascends Mount Langya, moving 30,000 households to build Langya Terrace and stele",
+          "zh": "秦始皇东巡登琅琊山，留三月，徙三万户筑琅琊台立石颂秦德"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "Individually read assembled entry and cited source; portrait/date or surviving-document relationship stated explicitly"
+      }
+    },
+    {
+      "assetId": "qin-shi-huang",
+      "recordId": "china-landmark-298",
+      "role": "named-person",
+      "context": {
+        "en": "This nineteenth-century portrayal shows Qin Shi Huang, the emperor targeted in the Bolangsha attack.",
+        "zh": "这幅十九世纪画像中的秦始皇，是博浪沙袭击的目标。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/史記/卷006",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "秦始皇",
+        "entryTitle": {
+          "en": "Zhang Liang ambushes Qin Shi Huang’s convoy at Bolangsha and flees into hiding at Xiapi",
+          "zh": "韩贵族张良散尽家财求力士，于博浪沙狙击东巡秦始皇误中副车"
+        },
+        "entrySummary": {
+          "en": "Zhang Liang ambushes Qin Shi Huang’s convoy at Bolangsha and flees into hiding at Xiapi",
+          "zh": "韩贵族张良散尽家财求力士，于博浪沙狙击东巡秦始皇误中副车"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "Individually read assembled entry and cited source; portrait/date or surviving-document relationship stated explicitly"
+      }
+    },
+    {
+      "assetId": "su-shi",
+      "recordId": "china-landmark-177",
+      "role": "named-person",
+      "context": {
+        "en": "The later adult portrait identifies Su Shi, whose Meishan origins and literary family are the subject here.",
+        "zh": "后世成年肖像标识苏轼；本条聚焦他的眉山出身及文学家族。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/宋史/卷338",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "苏轼",
+        "entryTitle": {
+          "en": "Su Shi is born in Mei Zhou (Meishan), home to the Three Su literary masters of Northern Song",
+          "zh": "苏轼生于眉州眉山纱縠行，与苏洵、苏辙同出眉山并列唐宋八大家"
+        },
+        "entrySummary": {
+          "en": "Su Shi is born in Mei Zhou (Meishan), home to the Three Su literary masters of Northern Song",
+          "zh": "苏轼生于眉州眉山纱縠行，与苏洵、苏辙同出眉山并列唐宋八大家"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "Individually read assembled entry and cited source; portrait/date or surviving-document relationship stated explicitly"
+      }
+    },
+    {
+      "assetId": "su-shi",
+      "recordId": "china-landmark-158",
+      "role": "named-person",
+      "context": {
+        "en": "The later portrait identifies the author of the Mid-Autumn lyric discussed here; the poem’s preface recalls drinking and thinking of his brother.",
+        "zh": "后世肖像标识本条中秋词的作者；词序记下饮酒与怀念弟弟的缘起。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/水調歌頭_(明月幾時有)",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "苏轼",
+        "entryTitle": {
+          "en": "Su Shi governs Mi Zhou, composing his Mid-Autumn masterpiece Prelude to Water Melody",
+          "zh": "苏轼知密州筑超然台，丙辰中秋欢饮达旦赋《水调歌头》"
+        },
+        "entrySummary": {
+          "en": "Su Shi governs Mi Zhou, composing his Mid-Autumn masterpiece Prelude to Water Melody",
+          "zh": "苏轼知密州筑超然台，丙辰中秋欢饮达旦赋《水调歌头》"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "Individually read assembled entry and cited source; portrait/date or surviving-document relationship stated explicitly"
+      }
+    },
+    {
+      "assetId": "kangxi",
+      "recordId": "china-event-qing-004",
+      "role": "named-person",
+      "context": {
+        "en": "The 1699 reading portrait identifies Kangxi, who took control after Oboi’s arrest in 1669. It shows the emperor decades after the episode.",
+        "zh": "1699年读书像标识在1669年鳌拜被捕后掌握权力的康熙，图像年代晚于此事数十年。"
+      },
+      "evidenceUrl": "https://www.ebsco.com/research-starters/history/kangxi",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "康熙",
+        "entryTitle": {
+          "en": "Young Kangxi Emperor seizes regent Oboi at Wuying Hall to assume personal rule",
+          "zh": "少年康熙帝于武英殿智擒专权辅臣鳌拜，正式亲政"
+        },
+        "entrySummary": {
+          "en": "Young Kangxi Emperor seizes regent Oboi at Wuying Hall to assume personal rule",
+          "zh": "少年康熙帝于武英殿智擒专权辅臣鳌拜，正式亲政"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "Individually read assembled entry and cited source; portrait/date or surviving-document relationship stated explicitly"
+      }
+    },
+    {
+      "assetId": "kangxi",
+      "recordId": "china-landmark-422",
+      "role": "named-person",
+      "context": {
+        "en": "Kangxi’s 1699 reading portrait shows the emperor thirty years after Oboi’s removal. The arrest story belongs to his youth.",
+        "zh": "康熙1699年读书像距鳌拜被罢除已有三十年；逮捕故事发生在他少年时期。"
+      },
+      "evidenceUrl": "https://www.ebsco.com/research-starters/history/kangxi",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "康熙",
+        "entryTitle": {
+          "en": "Sixteen-year-old Kangxi Emperor Xuanye uses palace wrestlers to arrest overbearing regent Oboi",
+          "zh": "十六岁的少年康熙帝玄烨训练布库侍卫，于武英殿迅雷智擒专权辅臣鳌拜"
+        },
+        "entrySummary": {
+          "en": "Sixteen-year-old Kangxi Emperor Xuanye uses palace wrestlers to arrest overbearing regent Oboi",
+          "zh": "十六岁的少年康熙帝玄烨训练布库侍卫，于武英殿迅雷智擒专权辅臣鳌拜"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "Individually read assembled entry and cited source; portrait/date or surviving-document relationship stated explicitly"
+      }
+    },
+    {
+      "assetId": "kangxi",
+      "recordId": "china-event-qing-005",
+      "role": "named-person",
+      "context": {
+        "en": "The reading portrait identifies Kangxi, whose attempt to end the feudatories’ autonomy is central to this revolt entry.",
+        "zh": "读书像标识康熙；结束藩镇自主权的皇帝决策是本条叛乱叙事的核心。"
+      },
+      "evidenceUrl": "https://www.ebsco.com/research-starters/history/kangxi",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "康熙",
+        "entryTitle": {
+          "en": "Kangxi orders abolition of the feudatories; Wu Sangui rebels in Yunnan (Three Feudatories)",
+          "zh": "康熙帝下旨撤藩，吴三桂于云南起兵反清，三藩之乱爆发"
+        },
+        "entrySummary": {
+          "en": "Kangxi orders abolition of the feudatories; Wu Sangui rebels in Yunnan (Three Feudatories)",
+          "zh": "康熙帝下旨撤藩，吴三桂于云南起兵反清，三藩之乱爆发"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "Individually read assembled entry and cited source; portrait/date or surviving-document relationship stated explicitly"
+      }
+    },
+    {
+      "assetId": "kangxi",
+      "recordId": "china-event-qing-006",
+      "role": "named-person",
+      "context": {
+        "en": "Kangxi is the ruler whose government defeated the Three Feudatories. This 1699 court portrait supplies political context for the 1681 conclusion.",
+        "zh": "康熙是平定三藩的清廷统治者；1699年宫廷肖像为1681年战争结束提供政治人物背景。"
+      },
+      "evidenceUrl": "https://www.ebsco.com/research-starters/history/kangxi",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "康熙",
+        "entryTitle": {
+          "en": "Qing forces capture Kunming, suppressing the Revolt of the Three Feudatories",
+          "zh": "清军攻克昆明，康熙帝彻底平定三藩之乱"
+        },
+        "entrySummary": {
+          "en": "Qing forces capture Kunming, suppressing the Revolt of the Three Feudatories",
+          "zh": "清军攻克昆明，康熙帝彻底平定三藩之乱"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "Individually read assembled entry and cited source; portrait/date or surviving-document relationship stated explicitly"
+      }
+    },
+    {
+      "assetId": "qianlong",
+      "recordId": "china-event-qing-024",
+      "role": "named-person",
+      "context": {
+        "en": "The 1736 portrait identifies Qianlong, who received Macartney and answered the British requests in 1793, long after this image was painted.",
+        "zh": "1736年肖像标识乾隆；他在画像完成多年后的1793年接见马戛尔尼，并回应英国的请求。"
+      },
+      "evidenceUrl": "https://afe.easia.columbia.edu/ps/china/qianlong_edicts.pdf",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "乾隆",
+        "entryTitle": {
+          "en": "British envoy Lord Macartney meets the Qianlong Emperor at Chengde; trade demands refused",
+          "zh": "英使马戛尔尼于承德觐见乾隆帝请开商埠遭拒"
+        },
+        "entrySummary": {
+          "en": "British envoy Lord Macartney meets the Qianlong Emperor at Chengde; trade demands refused",
+          "zh": "英使马戛尔尼于承德觐见乾隆帝请开商埠遭拒"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "Individually read assembled entry and cited source; portrait/date or surviving-document relationship stated explicitly"
+      }
+    },
+    {
+      "assetId": "qianlong",
+      "recordId": "china-landmark-265",
+      "role": "named-person",
+      "context": {
+        "en": "Qianlong in an early-reign portrait, painted decades before he received Macartney’s embassy at Chengde in 1793.",
+        "zh": "乾隆即位初期的肖像，比1793年承德接见马戛尔尼使团早数十年。"
+      },
+      "evidenceUrl": "https://afe.easia.columbia.edu/ps/china/qianlong_edicts.pdf",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "乾隆",
+        "entryTitle": {
+          "en": "Lord Macartney meets Qianlong at the Chengde Mountain Resort; British trade requests are refused",
+          "zh": "英使马戛尔尼于热河避暑山庄觐见乾隆，通商请求遭拒"
+        },
+        "entrySummary": {
+          "en": "Lord Macartney meets Qianlong at the Chengde Mountain Resort; British trade requests are refused",
+          "zh": "英使马戛尔尼于热河避暑山庄觐见乾隆，通商请求遭拒"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "Individually read assembled entry and cited source; portrait/date or surviving-document relationship stated explicitly"
+      }
+    },
+    {
+      "assetId": "yan-requiem",
+      "recordId": "china-person-yanzhenqing",
+      "role": "related-work",
+      "context": {
+        "en": "The surviving draft is Yan Zhenqing’s own writing and a central work in this biography, connecting public loyalty with family mourning.",
+        "zh": "存世草稿是颜真卿本人的书写，也是本传的核心作品，将公共忠诚与家族哀痛相连。"
+      },
+      "evidenceUrl": "https://digitalarchive.npm.gov.tw/opendata/Pub/DetailEng/3?dep=P&mode=full",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "颜真卿《祭侄文稿》",
+        "entryTitle": {
+          "en": "Yan Zhenqing: public duty and private mourning",
+          "zh": "颜真卿：公职与家难"
+        },
+        "entrySummary": {
+          "en": "Yan Zhenqing’s calligraphy preserves more than an admired style. The draft he wrote in 758 for his nephew Yan Jiming recalls deaths in his family during the An–Shi rebellion. Corrections and additions make the work a record of writing under the pressure of grief, as well as a text shaped by loyalty to the Tang. Another surviving letter, assigned by scholars to about 775, belongs to a less ceremonial world of communication. These works place an official’s handwriting between public responsibility and personal need. They also invite different kinds of reading: the dated mourning text anchors an event, while the letter’s date depends on historical comparison.",
+          "zh": "颜真卿的书法保存下来的，不只是受后世推崇的风格。758年为侄儿颜季明撰写的祭文，追忆安史战乱中的家族死亡。增补与涂改使它既是哀痛中写作的痕迹，也是带有忠于唐廷立场的文字。另一封传世信札，经学者据史事推定约作于775年，则属于较少礼仪色彩的通信世界。两类作品把官员的手迹置于公共责任与个人需要之间，也要求不同的阅读方式：祭文具有明确纪年，信札的年代则依赖历史比对。"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "Individually read assembled entry and cited source; portrait/date or surviving-document relationship stated explicitly"
+      }
+    },
+    {
+      "assetId": "yan-requiem",
+      "recordId": "china-anshi-war-and-recovery-755",
+      "role": "related-work",
+      "context": {
+        "en": "The entry uses Yan’s mourning text to approach the rebellion through family loss. This manuscript detail makes that named testimony visible.",
+        "zh": "本条通过颜氏祭文中的家族损失理解叛乱；手稿局部使这份具名见证可被直接观察。"
+      },
+      "evidenceUrl": "https://digitalarchive.npm.gov.tw/opendata/Pub/DetailEng/3?dep=P&mode=full",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "颜真卿《祭侄文稿》",
+        "entryTitle": {
+          "en": "An–Shi: a war that changed the Tang",
+          "zh": "安史之乱：改变唐朝的战争"
+        },
+        "entrySummary": {
+          "en": "The uprising associated with An Lushan and Shi Siming brought war into the Tang heartland, including Chang'an and Luoyang. It disrupted families as well as imperial government. Du Fu's poems and Yan Zhenqing's mourning manuscript let us approach that upheaval through individual experiences.\n\nThe rebellion ended in 763, but the Tang survived until 907. The court faced powerful military governors and a changed relationship with neighbouring empires. Recovery did not restore the earlier balance of power; it also did not end Tang cultural life.",
+          "zh": "安禄山、史思明发动的叛乱将战争带进唐朝腹地，包括长安、洛阳。受到冲击的不仅是朝廷，还有无数家庭。杜甫的诗与颜真卿的祭文，使我们能从个人经历接近这场动荡。\n\n叛乱在763年结束，唐朝却一直延续到907年。朝廷面对势力强大的节度使，与邻近帝国的关系也发生变化。战后恢复没有重建此前的权力格局，也没有使唐代文化生活就此终结。"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "Individually read assembled entry and cited source; portrait/date or surviving-document relationship stated explicitly"
+      }
+    },
+    {
+      "assetId": "yan-requiem",
+      "recordId": "china-landmark-017",
+      "role": "related-work",
+      "context": {
+        "en": "Yan Zhenqing’s 758 requiem mourns family members lost at Changshan, giving the rebellion a surviving personal testimony.",
+        "zh": "颜真卿758年祭文哀悼常山家难中的亲人，为叛乱留下存世的个人见证。"
+      },
+      "evidenceUrl": "https://digitalarchive.npm.gov.tw/opendata/Pub/DetailEng/3?dep=P&mode=full",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "颜真卿《祭侄文稿》",
+        "entryTitle": {
+          "en": "Yan Gaoqing and Yan Zhenqing raise 17 Hebei commanderies; Changshan falls, the Yan clan dies",
+          "zh": "颜杲卿、颜真卿举河北十七郡抗燕；常山陷落颜氏殉国，《祭侄文稿》所哀"
+        },
+        "entrySummary": {
+          "en": "Yan Gaoqing and Yan Zhenqing raise 17 Hebei commanderies; Changshan falls, the Yan clan dies",
+          "zh": "颜杲卿、颜真卿举河北十七郡抗燕；常山陷落颜氏殉国，《祭侄文稿》所哀"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "Individually read assembled entry and cited source; portrait/date or surviving-document relationship stated explicitly"
+      }
+    },
+    {
+      "assetId": "yan-requiem",
+      "recordId": "china-landmark-368",
+      "role": "depicts-subject",
+      "context": {
+        "en": "A detail of the surviving 758 draft. Crossed-out characters and revisions preserve the physical traces of Yan Zhenqing’s writing.",
+        "zh": "758年存世草稿局部。删改与涂抹保留了颜真卿书写的实际痕迹。"
+      },
+      "evidenceUrl": "https://digitalarchive.npm.gov.tw/opendata/Pub/DetailEng/3?dep=P&mode=full",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "颜真卿《祭侄文稿》",
+        "entryTitle": {
+          "en": "Mourning his martyred nephew, Yan Zhenqing brushes the immortal Draft of a Requiem to My Nephew",
+          "zh": "颜真卿寻得殉国侄颜季明遗骸，悲愤挥毫草《祭侄文稿》"
+        },
+        "entrySummary": {
+          "en": "Mourning his martyred nephew, Yan Zhenqing brushes the immortal Draft of a Requiem to My Nephew",
+          "zh": "颜真卿寻得殉国侄颜季明遗骸，悲愤挥毫草《祭侄文稿》"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "Individually read assembled entry and cited source; portrait/date or surviving-document relationship stated explicitly"
+      }
+    },
+    {
+      "assetId": "li-bai",
+      "recordId": "china-landmark-359",
+      "role": "named-person",
+      "context": {
+        "en": "Li Bai in a thirteenth-century painting. He met and travelled with Du Fu in 744; scholars differ on whether their first meeting was in Luoyang or Chenliu.",
+        "zh": "十三世纪绘画中的李白。他在744年与杜甫相会同游；初次相会地点是洛阳还是陈留，学界有不同看法。"
+      },
+      "evidenceUrl": "https://cup.cuhk.edu.hk/image/catalog/preview/9789882373921_SampleChapter.pdf",
+      "checkedAt": "2026-11-11",
+      "reviewBasis": {
+        "matchedName": "李白",
+        "entryTitle": {
+          "en": "Li Bai and Du Fu meet for the first time in Luoyang and travel across Henan with Gao Shi",
+          "zh": "李白与杜甫于洛阳初次相遇，偕高适同游梁宋猎酒赋诗"
+        },
+        "entrySummary": {
+          "en": "Li Bai and Du Fu meet for the first time in Luoyang and travel across Henan with Gao Shi",
+          "zh": "李白与杜甫于洛阳初次相遇，偕高适同游梁宋猎酒赋诗"
+        },
+        "reviewedField": "title-and-summary",
+        "reviewMethod": "CUHK Press chronology supports named meeting and travel; it explicitly allows Chenliu instead of Luoyang"
+      }
     }
   ]
 }

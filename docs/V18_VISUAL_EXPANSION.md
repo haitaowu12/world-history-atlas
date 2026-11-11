@@ -82,3 +82,11 @@ Reconciled main through the isolated interface hotfix `5e610c8dd7b4f21b41a5d699a
 `npm run check` passed **347 tests**, no failures or skips. The real shared Chrome preview now works via the desktop's ordinary terminal server. At 500 CSS-pixel width, the 72-image collection, Cao Cao/Zhuge Liang guided comparison, observation reveal, loaded images and source credits were inspected without horizontal overflow. The new Taizong image loads in the collection and its linked biography, retains Ming image dating and the 1748 remounting distinction, and switches to Chinese title/alt text. Keyboard magnification increased from 100% to 125% with image width changing from 385 to 481.25 pixels. The isolated production hotfix had separate 1168/700/500-width and bilingual directory browser checks; these checks are not a claim that all V18 content is release-ready.
 
 The prior checkpoint is durably saved at `1ec53faba0c43237530c307ab28c621003d2dd78`. Main promotion and Firebase publication remain separate from this V18 review save. No Actions are used.
+
+### Reconstruction checkpoint 6
+
+Added 21 individually reviewed links from six existing images to previously uncovered entries: Su Shi, Qin Shi Huang, Kangxi, Qianlong, Li Bai and Yan Zhenqing’s manuscript. Reuse of an image does not add to the asset count. Total: **72 assets / 159 of 2,084 unique entries (7.63%)**; the half-entry target is still unmet. The source ledger records all 39 considered candidates, 18 exclusions or holds, and the evidence behind every admitted link. Repeated scene disclaimers were shortened while image dates and specific uncertainties remain.
+
+Full validation: **347 checks passed**, zero failures or skips. The new Chinese manuscript link loads from its entry into the image inspector; its 600 × 449 source image, NPM record, CC0 credit and five linked stories are visible at 500 CSS-pixel width without horizontal overflow. The underlying donor entry's attribution of recovering the remains and the Li Bai–Du Fu meeting place are being corrected in a separate evidence layer, not silently certified by the new image links.
+
+Checkpoint 5 is remotely verified at `fa9ec406a8621be28ab083019b6c1eef05b9168e`, tree `2a07a6e74c9a348a19fa587085760afe38cb1906`. This checkpoint changes review content only, with no production deployment or Actions.

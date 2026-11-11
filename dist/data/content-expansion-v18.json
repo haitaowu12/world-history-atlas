@@ -2689,11 +2689,18 @@
         "sha256": "edc3917271f6f7f7175f5095a217c68d9012ab3cc2fdc3d3fa7c1872e0a03efc",
         "assets": 4,
         "associations": 29
+      },
+      {
+        "file": "visual-assets-existing-links-01-v18.json",
+        "bytes": 28996,
+        "sha256": "2cc469bef8fa4e6e3c57bf82ed4eb93b174dbe3f74a503fbefc4377c2c0e1933",
+        "assets": 0,
+        "associations": 21
       }
     ],
     "coverageFile": "visual-coverage-v18.json",
     "assets": 72,
-    "covered": 138,
+    "covered": 159,
     "total": 2084,
     "target": 1042
   }
