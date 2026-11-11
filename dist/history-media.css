@@ -48,3 +48,5 @@
 .source-scope>summary,.dataset-credits>summary{cursor:pointer;min-height:36px;align-content:center;font-size:.8rem;color:var(--muted)}.source-scope>summary:focus-visible,.dataset-credits>summary:focus-visible{outline:3px solid #8b3a2b;outline-offset:3px}.dataset-credits{margin:14px 0}.source-scope[open]{margin-top:8px}
 
 .visual-studies>summary{cursor:pointer;min-height:44px;align-content:center;font-weight:600}.visual-studies>summary:focus-visible{outline:3px solid #8b3a2b;outline-offset:3px}.visual-studies[open]>.visual-study-grid{margin-top:16px}
+
+.visual-image-navigation{display:flex;align-items:center;justify-content:space-between;gap:12px;margin:16px 0 24px;flex-wrap:wrap}.visual-image-navigation button{min-height:44px}.visual-image-navigation button:disabled{opacity:.45;cursor:default}.visual-image-navigation>span{font-size:.8rem;color:var(--muted);white-space:nowrap}

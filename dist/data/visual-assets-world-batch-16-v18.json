@@ -1,0 +1,93 @@
+{
+  "version": 2,
+  "reviewedAt": "2026-11-11",
+  "items": [
+    {
+      "id": "world-batch-16-christine",
+      "file": "assets/history-media/world-batch-16-christine.jpg",
+      "recordIds": [
+        "person-christine-pizan"
+      ],
+      "kind": "manuscript",
+      "representation": "manuscript-detail",
+      "title": {
+        "en": "A later manuscript of The City of Ladies",
+        "zh": "《女性之城》的后世手抄本"
+      },
+      "alt": {
+        "en": "An illuminated manuscript page has two columns of French text, red headings, floral borders, and a miniature of a seated woman reading beside three standing women.",
+        "zh": "绘饰手稿页有两栏法文、红色标题和花卉边饰；小画中，一位女子坐着读书，身旁站着三位女子。"
+      },
+      "caption": {
+        "en": "France. A page from a manuscript combining works by Boccaccio and Christine de Pizan, Getty Ms. 129 (2024.156). Text, frames and initials date to about 1470; frames and miniatures were added about 1515–1520.",
+        "zh": "法国。将薄伽丘与克里斯蒂娜·德·皮桑作品合编的手抄本中的一页，盖蒂藏Ms. 129（2024.156）。文字、边框和首字母约作于1470年；另一些边框及小画约于1515—1520年加入。"
+      },
+      "interpretation": {
+        "en": "The decorated page makes the circulation of Christine’s writing tangible: copying and illumination continued after her death. Its reader, books and female visitors put learned women at the centre of the image. This is a later manuscript illustration, not a portrait made during Christine’s lifetime.",
+        "zh": "这页绘饰手稿使克里斯蒂娜作品的传播变得具体可见：她去世后，抄写与绘饰仍在继续。读者、书籍与女性来访者把有学识的女性置于画面中心。这是后世手抄本插画，并非克里斯蒂娜生前绘制的肖像。"
+      },
+      "creator": "Texts: Giovanni Boccaccio and Christine de Pizan; manuscript illumination: Etienne Colaud and Master of François de Rohan",
+      "date": "Text, frames and initials c. 1470; frames and miniatures c. 1515–1520",
+      "institution": "J. Paul Getty Museum",
+      "credit": "J. Paul Getty Museum, Los Angeles; Ms. 129 (2024.156)",
+      "sourceUrl": "https://www.getty.edu/art/collection/object/1CQWPZ",
+      "imageUrl": "https://media.getty.edu/iiif/image/5061d7a6-6c39-4b68-85ac-edf26af85ca7/full/!1400,1400/0/default.jpg",
+      "downloadedFrom": "https://media.getty.edu/iiif/image/5061d7a6-6c39-4b68-85ac-edf26af85ca7/full/!1400,1400/0/default.jpg",
+      "rightsSourceUrl": "https://www.getty.edu/art/collection/object/1CQWPZ",
+      "rights": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "Getty makes the images on this manuscript’s collection page available under CC0 through its Open Content Program.",
+          "zh": "盖蒂通过开放内容项目，将这部手抄本藏品页面上的图像以CC0开放。"
+        }
+      },
+      "transformation": {
+        "en": "Official IIIF JPEG at a maximum of 1400 pixels, preserved unchanged; no local crop, retouching or recolouring.",
+        "zh": "官方IIIF提供的最长边1400像素JPEG原样保存；未在本地裁剪、修饰或改色。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Getty catalogue: the manuscript’s texts and later illumination",
+            "zh": "盖蒂目录：手抄本的文字与后添绘饰"
+          },
+          "url": "https://www.getty.edu/art/collection/object/1CQWPZ"
+        }
+      ],
+      "width": 961,
+      "height": 1400,
+      "bytes": 530443,
+      "sha256": "3f19c17e548a76712a206972d6f5db53ba11b67071794267e800480e8706b047",
+      "checkedAt": "2026-11-11",
+      "retrieval": "Official manuscript identity, dating, CC0 statement and source-served image receipt are preserved in docs/v18-getty-images-02-evidence.json.",
+      "metadataI18n": {
+        "creator": {
+          "en": "Texts: Giovanni Boccaccio and Christine de Pizan; manuscript illumination: Etienne Colaud and Master of François de Rohan",
+          "zh": "文字：乔万尼·薄伽丘与克里斯蒂娜·德·皮桑；绘饰：艾蒂安·科洛与弗朗索瓦·德·罗昂大师"
+        },
+        "date": {
+          "en": "Text, frames and initials c. 1470; frames and miniatures c. 1515–1520",
+          "zh": "文字、边框与首字母约1470年；边框与小画约1515—1520年"
+        },
+        "institution": {
+          "en": "J. Paul Getty Museum",
+          "zh": "J. 保罗·盖蒂博物馆"
+        }
+      }
+    }
+  ],
+  "associations": [
+    {
+      "assetId": "world-batch-16-christine",
+      "recordId": "person-christine-pizan",
+      "role": "related-work",
+      "context": {
+        "en": "The decorated page makes the circulation of Christine’s writing tangible: copying and illumination continued after her death. Its reader, books and female visitors put learned women at the centre of the image. This is a later manuscript illustration, not a portrait made during Christine’s lifetime.",
+        "zh": "这页绘饰手稿使克里斯蒂娜作品的传播变得具体可见：她去世后，抄写与绘饰仍在继续。读者、书籍与女性来访者把有学识的女性置于画面中心。这是后世手抄本插画，并非克里斯蒂娜生前绘制的肖像。"
+      },
+      "evidenceUrl": "https://www.getty.edu/art/collection/object/1CQWPZ",
+      "checkedAt": "2026-11-11"
+    }
+  ]
+}

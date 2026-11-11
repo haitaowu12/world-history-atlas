@@ -1034,6 +1034,306 @@
         "zh": "一位女子以右手托头，肘部支在岩石造型上。这件小型陶塑原是柱饰。它把满者伯夷带到眼前，尺度不再是国王的征服，而是建筑表面的装饰。\n\n大都会艺术博物馆把这类构件与特罗武兰附近都城中开放的亭阁式住宅联系起来。陶塑可以装饰并保护柱子，装饰瓦则为屋顶增添变化。女子的服装与发式属于满者伯夷时代。她可能曾处在一组连续场景中，但具体故事尚未确定。\n\n特罗武兰考古提供了更广阔的物质背景。印度尼西亚的遗产申报材料把陶制盛水器、储钱罐、模具、屋瓦和水管，与雕塑一并列入遗物清单。这些发现把人物陶塑放回由家庭和工坊组成的城市，而不只是寺庙的世界。陶罐与装饰柱用途不同，却都依靠把泥土塑成可用器物的技艺。"
       },
       "rationale": "Remove the closing attention-shifting instruction; retain household/workshop evidence, materials, maker context and uncertainty about the depicted story."
+    },
+    {
+      "recordId": "old-babylon",
+      "before": {
+        "en": "Babylon became a major political centre under Hammurabi, who combined alliances with military campaigns to bring a large territory under his authority. His celebrated law monument placed royal justice in public view, but its rules also distinguished people by social status. Successors maintained the dynasty until a Hittite attack reached Babylon. This story connects the practical work of coalition-building and conquest with the ideals kings wanted to project. Babylon’s later prestige sometimes obscures these earlier circumstances: it was a city whose importance was made and remade, not an eternal capital of one continuous empire.",
+        "zh": "汉谟拉比通过联盟与战争扩大统治，使巴比伦成为重要政治中心。著名法典碑将王室正义公开呈现，但条文也区分社会身份。其继承者延续王朝，直至赫梯进攻巴比伦。这里可以同时考察结盟、征服的实际政治与君主宣扬的理想。巴比伦后来的声望容易掩盖早期处境：它的重要性被多次重建，并非一个帝国永恒不变的首都。"
+      },
+      "after": {
+        "en": "Babylon became a major political centre under Hammurabi, who combined alliances with military campaigns to bring a large territory under his authority. His celebrated law monument placed royal justice in public view, but its rules also distinguished people by social status. Successors maintained the dynasty until a Hittite attack reached Babylon. Babylon’s later prestige sometimes obscures these earlier circumstances: it was a city whose importance was made and remade, not an eternal capital of one continuous empire.",
+        "zh": "汉谟拉比通过联盟与战争扩大统治，使巴比伦成为重要政治中心。著名法典碑将王室正义公开呈现，但条文也区分社会身份。其继承者延续王朝，直至赫梯进攻巴比伦。巴比伦后来的声望容易掩盖早期处境：它的重要性被多次重建，并非一个帝国永恒不变的首都。"
+      },
+      "rationale": "Remove a repeated topic recap; alliances, conquest, royal justice and social hierarchy remain explicit."
+    },
+    {
+      "recordId": "nalanda",
+      "before": {
+        "en": "Nalanda combined places for study, residence and religious practice. Its surviving monasteries, shrines, stupas and artworks record a long association between the transmission of knowledge and Buddhist institutions. The main scholastic establishment developed from the fifth century CE and continued into the thirteenth. The site helps distinguish the history of an institution from the history of its buildings: archaeological remains can predate the educational phase highlighted here.",
+        "zh": "那烂陀把学习、居住与宗教实践的场所结合在一起。寺院、祠堂、佛塔和艺术品记录了知识传授与佛教机构之间的长期联系。这里重点呈现公元5—13世纪的教学机构。考古遗迹有些早于这一阶段，因此应区分一个机构的历史与整片遗址的历史。"
+      },
+      "after": {
+        "en": "Nalanda combined places for study, residence and religious practice. Its surviving monasteries, shrines, stupas and artworks record a long association between the transmission of knowledge and Buddhist institutions. The main scholastic establishment developed from the fifth century CE and continued into the thirteenth. Archaeological remains can predate this educational phase.",
+        "zh": "那烂陀把学习、居住与宗教实践的场所结合在一起。寺院、祠堂、佛塔和艺术品记录了知识传授与佛教机构之间的长期联系。教学机构的主要发展阶段为公元5—13世纪，部分考古遗迹早于这一阶段。"
+      },
+      "rationale": "Remove entry and study framing while preserving the institution/building chronology and the English modal can."
+    },
+    {
+      "recordId": "rapa-nui",
+      "before": {
+        "en": "Rapa Nui communities created stone moai and ceremonial places that transformed the island landscape. These works offer evidence about sculpture, architecture and collective effort in a Polynesian society. This entry selects a later portion of the monument-building period and does not fix the disputed date of first settlement. It also avoids treating the monuments as evidence that the island’s people or living culture disappeared when a construction phase changed.",
+        "zh": "拉帕努伊人建造莫阿伊石像与仪式场所，改变了岛屿景观。这些作品记录了波利尼西亚社会的雕塑、建筑和集体劳动。本条目选取纪念性建筑阶段中的较晚部分，不以此确定仍有研究争论的首次定居年代，也不把营造活动的变化理解为当地居民或活态文化的消失。"
+      },
+      "after": {
+        "en": "Rapa Nui communities created stone moai and ceremonial places that transformed the island landscape. These works offer evidence about sculpture, architecture and collective effort in a Polynesian society. The period covered is a later portion of monument building; the date of first settlement remains disputed. Changes in construction do not establish that the island’s people or living culture disappeared.",
+        "zh": "拉帕努伊人建造莫阿伊石像与仪式场所，改变了岛屿景观。这些作品记录了波利尼西亚社会的雕塑、建筑和集体劳动。这里涵盖纪念性建筑阶段中的较晚部分；首次定居年代仍有争论。营造活动的变化不能证明当地居民或活态文化消失。"
+      },
+      "rationale": "Remove atlas self-description; preserve the limited period, disputed settlement date and living-culture caveat."
+    },
+    {
+      "recordId": "ilkhanid-iran",
+      "before": {
+        "en": "Hülegü’s campaigns established Mongol rule across Iran and neighboring regions and brought the Abbasid court in Baghdad to an end. The initial conquests caused severe destruction. Later courts supported building and manuscript production, while contacts across Mongol-ruled Asia introduced East Asian motifs into Persian artistic traditions. Ghazan’s conversion to Islam marked another important political and religious turn. The result was neither simple cultural replacement nor peaceful exchange alone. This entry asks how conquest, recovery and patronage interacted, and why the history of artistic creativity must be read alongside the violence and disruption that preceded it.",
+        "zh": "旭烈兀的征战在伊朗及邻近地区建立蒙古统治，并终结巴格达阿拔斯朝廷，最初征服造成严重破坏。后来的宫廷支持建筑与书籍制作，蒙古亚洲内部的联系又将东亚图像带入波斯艺术。合赞改宗伊斯兰教是另一政治宗教转折。这不是单纯文化替代，也不只是和平交流；研究创造力时，必须同时看到征服、破坏、恢复与赞助的相互作用。"
+      },
+      "after": {
+        "en": "Hülegü’s campaigns established Mongol rule across Iran and neighboring regions and brought the Abbasid court in Baghdad to an end. The initial conquests caused severe destruction. Later courts supported building and manuscript production, while contacts across Mongol-ruled Asia introduced East Asian motifs into Persian artistic traditions. Ghazan’s conversion to Islam marked another important political and religious turn. The result was neither simple cultural replacement nor peaceful exchange alone. Conquest, recovery and patronage interacted; artistic creativity followed violence and disruption.",
+        "zh": "旭烈兀的征战在伊朗及邻近地区建立蒙古统治，并终结巴格达阿拔斯朝廷，最初征服造成严重破坏。后来的宫廷支持建筑与书籍制作，蒙古亚洲内部的联系又将东亚图像带入波斯艺术。合赞改宗伊斯兰教是另一政治宗教转折。这不是单纯文化替代，也不只是和平交流；艺术创造与此前的征服、破坏以及后来的恢复、赞助相联系。"
+      },
+      "rationale": "Replace the study invitation with the existing conquest, recovery and patronage relationship; preserve violence and disruption in both languages."
+    },
+    {
+      "recordId": "us-constitution",
+      "before": {
+        "en": "The proposed United States Constitution assigned powers to a national legislature, an executive and a judiciary while preserving important roles for the states. Its institutional design attempted to make a union function across communities with conflicting interests. The document also embedded compromises protecting slavery, including rules for representation and the return of people held to service. Its language of popular government therefore coexisted with profound exclusions. Ratification, implementation and amendments subsequently changed how the system worked. Reading the original text alongside later struggles makes constitutional history a study of contested arrangements rather than a completed promise of equal freedom.",
+        "zh": "美国宪法草案将权力分配给全国立法、行政与司法机关，同时保留州的重要职能，试图协调利益不同的社会。但文本也包含保护奴隶制的妥协，例如代表席位计算与逃亡被奴役者返还条款。因此，人民政府语言与深刻排斥并存。批准、实施与修正案继续改变制度。将原文与后来斗争对读，宪政史便是不断争议和改造的安排，而非已完成的平等自由承诺。"
+      },
+      "after": {
+        "en": "The proposed United States Constitution assigned powers to a national legislature, an executive and a judiciary while preserving important roles for the states. Its institutional design attempted to make a union function across communities with conflicting interests. The document also embedded compromises protecting slavery, including rules for representation and the return of people held to service. Its language of popular government therefore coexisted with profound exclusions. Ratification, implementation and amendments subsequently changed how the system worked. Constitutional arrangements remained contested, and the promise of equal freedom was not complete.",
+        "zh": "美国宪法草案将权力分配给全国立法、行政与司法机关，同时保留州的重要职能，试图协调利益不同的社会。但文本也包含保护奴隶制的妥协，例如代表席位计算与逃亡被奴役者返还条款。因此，人民政府语言与深刻排斥并存。批准、实施与修正案继续改变制度。宪政安排持续受到争议和改造，平等自由的承诺并未完成。"
+      },
+      "rationale": "Remove the reading instruction while preserving contestation and the unfulfilled equality caveat."
+    },
+    {
+      "recordId": "first-fleet-colonization",
+      "before": {
+        "en": "The First Fleet established a British convict settlement at Sydney Cove, bringing imperial punishment and colonial expansion into the same project. The newcomers depended on supplies, unfamiliar farming and tightly controlled labor. They arrived in a landscape already governed and used by Aboriginal communities, including the Eora peoples of the Sydney region. Competition over land and food quickly produced violence and resistance. This event begins a history of British colonization in Australia, not the history of the continent itself. Reading it alongside much older Indigenous sites makes visible both the newcomers’ institutions and the societies whose lands they occupied.",
+        "zh": "第一舰队在悉尼湾建立英国流放犯殖民地，把帝国刑罚与殖民扩张结合起来。新来者依赖补给、陌生环境中的农业与受严密控制的劳动。然而这里早已有原住民社会的治理和土地使用，包括悉尼地区的埃奥拉人。土地与食物竞争迅速引发暴力和抵抗。1788年开启英国殖民史，而非澳洲大陆历史；与更古老原住民遗址对读，才能同时看到殖民制度及被占土地上的社会。"
+      },
+      "after": {
+        "en": "The First Fleet established a British convict settlement at Sydney Cove, bringing imperial punishment and colonial expansion into the same project. The newcomers depended on supplies, unfamiliar farming and tightly controlled labor. They arrived in a landscape already governed and used by Aboriginal communities, including the Eora peoples of the Sydney region. Competition over land and food quickly produced violence and resistance. This event begins a history of British colonization in Australia, not the history of the continent itself.",
+        "zh": "第一舰队在悉尼湾建立英国流放犯殖民地，把帝国刑罚与殖民扩张结合起来。新来者依赖补给、陌生环境中的农业与受严密控制的劳动。然而这里早已有原住民社会的治理和土地使用，包括悉尼地区的埃奥拉人。土地与食物竞争迅速引发暴力和抵抗。1788年开启英国殖民史，而非澳洲大陆历史。"
+      },
+      "rationale": "Remove a comparison instruction; preserve Aboriginal governance, Eora identity, occupied land, resistance and the distinction between colonization and continental history."
+    },
+    {
+      "recordId": "nz-womens-suffrage",
+      "before": {
+        "en": "On 19 September 1893, a new Electoral Act gave women the right to vote in New Zealand parliamentary elections. The change followed years of campaigning and large petitions, including those organised by Kate Sheppard and other suffragists. It made New Zealand the first self-governing country to grant that parliamentary voting right to women. The event illustrates how organised participation can change electoral rules; it did not, by itself, complete the wider struggle for political equality.",
+        "zh": "1893年9月19日，新的选举法赋予新西兰女性参加国会选举的投票权。此前，凯特·谢泼德等参政权倡导者进行了多年活动，并组织大规模请愿。新西兰由此成为首个赋予女性这一国会投票权的自治国家。这一事件展现了组织参与如何改变选举制度，但不表示更广泛的政治平等已经全部实现。"
+      },
+      "after": {
+        "en": "On 19 September 1893, a new Electoral Act gave women the right to vote in New Zealand parliamentary elections. The change followed years of campaigning and large petitions, including those organised by Kate Sheppard and other suffragists. It made New Zealand the first self-governing country to grant that parliamentary voting right to women. The change did not, by itself, complete the wider struggle for political equality.",
+        "zh": "1893年9月19日，新的选举法赋予新西兰女性参加国会选举的投票权。此前，凯特·谢泼德等参政权倡导者进行了多年活动，并组织大规模请愿。新西兰由此成为首个赋予女性这一国会投票权的自治国家。这一变化并不表示更广泛的政治平等已经全部实现。"
+      },
+      "rationale": "Remove the generic lesson on participation; campaigning remains, and the qualification on wider equality is retained."
+    },
+    {
+      "recordId": "adwa-victory",
+      "before": {
+        "en": "Ethiopian forces defeated the invading Italian army at Adwa in 1896. The victory challenged European assumptions that colonial conquest in Africa was inevitable and protected Ethiopia’s independence at a moment when much of the continent was being partitioned. Its later memory travelled well beyond Ethiopia and became important to anti-colonial political imagination. The battle did not remove every regional inequality or prevent later Italian aggression. It nevertheless offers a decisive example of African military and diplomatic agency. Studying the event alongside colonial expansion makes resistance part of the main historical narrative rather than an exception added at the end.",
+        "zh": "1896年，埃塞俄比亚军队在阿杜瓦击败入侵的意大利军队。在非洲大部遭瓜分之际，这场胜利维护独立，也挑战殖民征服不可避免的观念。其记忆传播至埃塞俄比亚之外，影响反殖民政治想象。胜利并未消除所有地区不平等，也未阻止后来意大利再度侵略，但它鲜明体现非洲军事与外交主动性，使抵抗成为殖民史的核心部分。"
+      },
+      "after": {
+        "en": "Ethiopian forces defeated the invading Italian army at Adwa in 1896. The victory challenged European assumptions that colonial conquest in Africa was inevitable and protected Ethiopia’s independence at a moment when much of the continent was being partitioned. Its later memory travelled well beyond Ethiopia and became important to anti-colonial political imagination. The battle did not remove every regional inequality or prevent later Italian aggression. It nevertheless offers a decisive example of African military and diplomatic agency.",
+        "zh": "1896年，埃塞俄比亚军队在阿杜瓦击败入侵的意大利军队。在非洲大部遭瓜分之际，这场胜利维护独立，也挑战殖民征服不可避免的观念。其记忆传播至埃塞俄比亚之外，影响反殖民政治想象。胜利并未消除所有地区不平等，也未阻止后来意大利再度侵略，但它鲜明体现非洲军事与外交主动性。"
+      },
+      "rationale": "Remove historical-narrative coaching; military and diplomatic agency, later aggression and regional inequality remain."
+    },
+    {
+      "recordId": "first-world-war",
+      "before": {
+        "en": "The First World War drew soldiers, workers and resources from many continents into a conflict between rival alliances. Industrial warfare transformed killing on land, at sea and in the air, while governments mobilized civilian economies and imperial populations. Fighting extended well beyond the western European trenches, including Africa and the Middle East. Russia’s revolutions changed the alliance system before the war ended. The aftermath weakened or destroyed several empires and created new disputes over borders and national claims. Sarajevo marks the crisis that helped trigger war, while the entry’s global scope exceeds any single battlefield.",
+        "zh": "第一次世界大战把多洲士兵、劳工和资源卷入敌对联盟之间的冲突。工业化战争改变陆海空杀伤方式，政府动员民间经济与殖民地人口。战斗远超西欧战壕，也遍及非洲和中东。俄国革命在战争结束前改变联盟格局。战后多个帝国衰弱或瓦解，新边界与民族诉求又引发争端。萨拉热窝仅标记引发战争危机的地点，并非全球战争的全部空间。"
+      },
+      "after": {
+        "en": "The First World War drew soldiers, workers and resources from many continents into a conflict between rival alliances. Industrial warfare transformed killing on land, at sea and in the air, while governments mobilized civilian economies and imperial populations. Fighting extended well beyond the western European trenches, including Africa and the Middle East. Russia’s revolutions changed the alliance system before the war ended. The aftermath weakened or destroyed several empires and created new disputes over borders and national claims. Sarajevo was the site of the crisis that helped trigger the global war.",
+        "zh": "第一次世界大战把多洲士兵、劳工和资源卷入敌对联盟之间的冲突。工业化战争改变陆海空杀伤方式，政府动员民间经济与殖民地人口。战斗远超西欧战壕，也遍及非洲和中东。俄国革命在战争结束前改变联盟格局。战后多个帝国衰弱或瓦解，新边界与民族诉求又引发争端。萨拉热窝是促成这场全球战争爆发的危机发生地。"
+      },
+      "rationale": "Replace marker/entry commentary with the location and causal qualification; multi-continent scope remains detailed in preceding sentences."
+    },
+    {
+      "recordId": "un-charter",
+      "before": {
+        "en": "Delegates met in San Francisco to prepare the founding Charter of the United Nations. The Charter was signed on 26 June 1945 and entered into force on 24 October that year. Its creation offers a specific place and date for studying an institution with a global reach. The map marker identifies the signing city; the organisation’s later activity and the decisions of its members cannot be reduced to that one location or founding moment.",
+        "zh": "代表们在旧金山筹备联合国的创立文件。《联合国宪章》于1945年6月26日签署，同年10月24日生效。这为研究一个全球性机构提供了具体地点与时间。地图标记表示签署城市，而该机构后来的活动以及成员国的决策，不能被缩减为这一地点或创立时刻。"
+      },
+      "after": {
+        "en": "Delegates met in San Francisco to prepare the founding Charter of the United Nations. The Charter was signed on 26 June 1945 and entered into force on 24 October that year.",
+        "zh": "代表们在旧金山筹备联合国的创立文件。《联合国宪章》于1945年6月26日签署，同年10月24日生效。"
+      },
+      "rationale": "Remove generic map-location commentary and the repeated signing location; retain founding purpose and separate signing/entry-into-force dates."
+    },
+    {
+      "recordId": "maastricht-european-union",
+      "before": {
+        "en": "The Treaty on European Union, signed at Maastricht in 1992, entered into force on 1 November 1993. It established the European Union, extended cooperation beyond the earlier European Communities, and set a framework for economic and monetary union. The EU was an organization of member states rather than a replacement country. An atlas should show integration through institutional or network layers without painting all members as one sovereign state.",
+        "zh": "1992年在马斯特里赫特签署的《欧洲联盟条约》于1993年11月1日生效。它建立欧洲联盟，将合作扩展至此前欧洲共同体的范围之外，并为经济与货币联盟设立框架。欧盟是成员国组成的组织，而非取代成员国的新国家。地图集应通过制度或网络图层展示一体化，不应把所有成员国直接涂为一个主权国家。"
+      },
+      "after": {
+        "en": "The Treaty on European Union, signed at Maastricht in 1992, entered into force on 1 November 1993. It established the European Union, extended cooperation beyond the earlier European Communities, and set a framework for economic and monetary union. The EU was an organization of member states rather than a replacement country.",
+        "zh": "1992年在马斯特里赫特签署的《欧洲联盟条约》于1993年11月1日生效。它建立欧洲联盟，将合作扩展至此前欧洲共同体的范围之外，并为经济与货币联盟设立框架。欧盟是成员国组成的组织，而非取代成员国的新国家。"
+      },
+      "rationale": "Remove display instructions; the preceding sentence explicitly retains the distinction between a member-state organization and a replacement country."
+    },
+    {
+      "recordId": "paris-climate-agreement",
+      "before": {
+        "en": "Governments adopted the Paris Agreement at COP21 on 12 December 2015, and the treaty entered into force on 4 November 2016. It created a framework for national climate commitments and successive rounds of reporting and increased ambition, with a shared temperature goal. Adoption and entry into force were different steps. The agreement illustrates how states can organize around a planetary problem without redrawing political borders; promises, implementation, and measured outcomes remain separate questions.",
+        "zh": "各国政府于2015年12月12日在巴黎气候大会通过《巴黎协定》，条约于2016年11月4日生效。协定建立国家气候承诺、报告和逐步提高目标的框架，并规定共同温控目标。通过与生效是不同步骤。它展示了国家如何围绕全球问题开展合作而无需重画国界；承诺、实施与实测成果仍是不同的问题。"
+      },
+      "after": {
+        "en": "Governments adopted the Paris Agreement at COP21 on 12 December 2015, and the treaty entered into force on 4 November 2016. It created a framework for national climate commitments and successive rounds of reporting and increased ambition, with a shared temperature goal. Adoption and entry into force were different steps. Promises, implementation, and measured outcomes remain separate questions.",
+        "zh": "各国政府于2015年12月12日在巴黎气候大会通过《巴黎协定》，条约于2016年11月4日生效。协定建立国家气候承诺、报告和逐步提高目标的框架，并规定共同温控目标。通过与生效是不同步骤。承诺、实施与实测成果仍是不同的问题。"
+      },
+      "rationale": "Remove the generic lesson about borders; preserve the national commitments framework and the distinction between promises and outcomes."
+    },
+    {
+      "recordId": "bougainville-peace-agreement",
+      "before": {
+        "en": "The government of Papua New Guinea and Bougainville leaders signed the Bougainville Peace Agreement at Arawa on 30 August 2001. Its three central elements were autonomy, a future referendum on political status, and weapons disposal. These provisions addressed different parts of a peace process rather than immediately establishing an independent state. Studying the agreement helps distinguish autonomy within a country from sovereignty, and the signing of a settlement from its implementation.",
+        "zh": "2001年8月30日，巴布亚新几内亚政府与布干维尔领导人在阿拉瓦签署《布干维尔和平协议》。协议的三项核心内容是自治、未来政治地位公投与武器处置。这些规定处理和平进程中的不同问题，并未立即建立独立国家。研究协议有助于区分一国内部自治与主权，以及签署解决方案与具体实施。"
+      },
+      "after": {
+        "en": "The government of Papua New Guinea and Bougainville leaders signed the Bougainville Peace Agreement at Arawa on 30 August 2001. Its three central elements were autonomy, a future referendum on political status, and weapons disposal. These provisions addressed different parts of a peace process rather than immediately establishing an independent state. Autonomy within a country differs from sovereignty, and signing a settlement differs from implementing it.",
+        "zh": "2001年8月30日，巴布亚新几内亚政府与布干维尔领导人在阿拉瓦签署《布干维尔和平协议》。协议的三项核心内容是自治、未来政治地位公投与武器处置。这些规定处理和平进程中的不同问题，并未立即建立独立国家。一国内部自治不同于主权，签署解决方案也不同于具体实施。"
+      },
+      "rationale": "Remove the study invitation while retaining both substantive distinctions."
+    },
+    {
+      "recordId": "suez-canal-opening",
+      "before": {
+        "en": "The Suez Canal opened a sea passage between the Mediterranean and Red Sea, shortening voyages between Europe and the Indian Ocean. Its construction depended heavily on Egyptian labour and took a decade. Ships could now avoid sailing around southern Africa, changing the commercial importance of ports, coal supplies and shipping routes. The canal also made Egypt's position central to competing imperial interests. Its opening is a useful reminder that a narrow piece of infrastructure can reorganize connections across several continents without changing the locations of those continents.",
+        "zh": "苏伊士运河把地中海与红海连接起来，缩短了欧洲与印度洋之间的海程。工程历时十年，大量依靠埃及劳动者。船舶得以避开绕行非洲南端的航线，港口、煤炭补给站与航运网络的重要性随之改变。运河也使埃及成为帝国利益竞争的重要地点。这一工程说明，狭窄的人工水道能够重新组织跨洲联系，地理位置本身却没有改变。"
+      },
+      "after": {
+        "en": "The Suez Canal opened a sea passage between the Mediterranean and Red Sea, shortening voyages between Europe and the Indian Ocean. Its construction depended heavily on Egyptian labour and took a decade. Ships could now avoid sailing around southern Africa, changing the commercial importance of ports, coal supplies and shipping routes. The canal also made Egypt's position central to competing imperial interests.",
+        "zh": "苏伊士运河把地中海与红海连接起来，缩短了欧洲与印度洋之间的海程。工程历时十年，大量依靠埃及劳动者。船舶得以避开绕行非洲南端的航线，港口、煤炭补给站与航运网络的重要性随之改变。运河也使埃及成为帝国利益竞争的重要地点。"
+      },
+      "rationale": "Remove a generic geography lesson; changed intercontinental routes, labour, construction duration and imperial competition remain."
+    },
+    {
+      "recordId": "tanganyika-zanzibar-union",
+      "before": {
+        "en": "Tanganyika and Zanzibar joined on 26 April 1964 to form one United Republic. Their separate memberships at the United Nations were continued as a single membership, giving documentary evidence of the constitutional change. The new country's name became Tanzania later that year. This was a union of two recently independent states, rather than the first independence of either territory. Comparing the mainland and island histories shows why state formation can involve joining political communities as well as separating them, and why a country name alone cannot describe the full sequence.",
+        "zh": "1964年4月26日，坦噶尼喀与桑给巴尔联合成立一个联合共和国。两国原有的联合国会员身份合并为一个，为这一宪制变化留下了明确记录。新国家在同年稍后采用“坦桑尼亚”名称。这是两个刚获得独立的国家联合，而不是两地第一次独立。把大陆与岛屿的历史放在一起，可以看到国家形成既可能通过分离，也可能通过联合，单凭国名无法还原完整过程。"
+      },
+      "after": {
+        "en": "Tanganyika and Zanzibar joined on 26 April 1964 to form one United Republic. Their separate memberships at the United Nations were continued as a single membership, giving documentary evidence of the constitutional change. The new country's name became Tanzania later that year. This was a union of two recently independent states, rather than the first independence of either territory.",
+        "zh": "1964年4月26日，坦噶尼喀与桑给巴尔联合成立一个联合共和国。两国原有的联合国会员身份合并为一个，为这一宪制变化留下了明确记录。新国家在同年稍后采用“坦桑尼亚”名称。这是两个刚获得独立的国家联合，而不是两地第一次独立。"
+      },
+      "rationale": "Remove the comparative lesson after the actual union, separate independence, membership and naming sequence have been explained."
+    },
+    {
+      "recordId": "peace-westphalia",
+      "before": {
+        "en": "Treaties negotiated at Münster and Osnabrück ended the Thirty Years' War's central conflicts and revised political and religious arrangements in the Holy Roman Empire. The settlement confirmed rights of imperial estates, recognized Reformed Christianity alongside Catholicism and Lutheranism, and redistributed territories. Those estates still belonged to an imperial structure, with limits on their external alliances. The documents therefore illuminate negotiated, overlapping authority rather than the sudden invention of today's nation-state system. Studying their clauses is more informative than assuming the word sovereignty meant exactly the same thing everywhere after 1648.",
+        "zh": "在明斯特与奥斯纳布吕克谈判的和约，结束了三十年战争的主要冲突，并调整神圣罗马帝国的政治与宗教安排。协议确认帝国等级的权利，在天主教和路德宗之外承认改革宗，并重新分配部分领土。但各等级仍属于帝国制度，其对外结盟受到限制。因此，条文展现的是协商形成、相互重叠的权力，而不是今日民族国家体系突然诞生。阅读具体条款，比假定1648年后各地“主权”含义完全一致更有帮助。"
+      },
+      "after": {
+        "en": "Treaties negotiated at Münster and Osnabrück ended the Thirty Years' War's central conflicts and revised political and religious arrangements in the Holy Roman Empire. The settlement confirmed rights of imperial estates, recognized Reformed Christianity alongside Catholicism and Lutheranism, and redistributed territories. Those estates still belonged to an imperial structure, with limits on their external alliances. The documents therefore illuminate negotiated, overlapping authority rather than the sudden invention of today's nation-state system. Sovereignty did not mean exactly the same thing everywhere after 1648.",
+        "zh": "在明斯特与奥斯纳布吕克谈判的和约，结束了三十年战争的主要冲突，并调整神圣罗马帝国的政治与宗教安排。协议确认帝国等级的权利，在天主教和路德宗之外承认改革宗，并重新分配部分领土。但各等级仍属于帝国制度，其对外结盟受到限制。因此，条文展现的是协商形成、相互重叠的权力，而不是今日民族国家体系突然诞生。1648年后，各地“主权”的含义并非完全一致。"
+      },
+      "rationale": "Retain the date and warning against uniform sovereignty while removing the study instruction."
+    },
+    {
+      "recordId": "poland-restoration",
+      "before": {
+        "en": "The collapse of the empires that had partitioned Poland created an opening for a restored Polish state in 1918. On 11 November Józef Piłsudski received military authority from the Regency Council, a date later chosen for national commemoration. Building the state required bringing together territories with different legal, administrative and monetary systems. Wars and negotiations over borders continued after that date. Poland's restoration demonstrates why the birth of a government and the stabilization of its territory must be shown separately, especially when reading maps of the First World War's aftermath.",
+        "zh": "瓜分波兰的帝国在1918年崩溃，为波兰恢复国家地位创造了条件。11月11日，毕苏斯基从摄政委员会接掌军事权力，这一日期后来成为国家纪念日。国家建设需要整合采用不同法律、行政和货币制度的地区；边界战争与谈判则在此后继续。波兰复国说明，建立政府与疆域逐渐稳定需要分别呈现，尤其是在阅读第一次世界大战结束后的地图时。"
+      },
+      "after": {
+        "en": "The collapse of the empires that had partitioned Poland created an opening for a restored Polish state in 1918. On 11 November Józef Piłsudski received military authority from the Regency Council, a date later chosen for national commemoration. Building the state required bringing together territories with different legal, administrative and monetary systems. Wars and negotiations over borders continued after that date.",
+        "zh": "瓜分波兰的帝国在1918年崩溃，为波兰恢复国家地位创造了条件。11月11日，毕苏斯基从摄政委员会接掌军事权力，这一日期后来成为国家纪念日。国家建设需要整合采用不同法律、行政和货币制度的地区；边界战争与谈判则在此后继续。"
+      },
+      "rationale": "Remove map-reading instructions; the preceding account already separates restored government, institutional integration and continuing border wars."
+    },
+    {
+      "recordId": "nepal-republic",
+      "before": {
+        "en": "At its first meeting on 28 May 2008, Nepal's elected Constituent Assembly implemented the decision to establish a federal democratic republic and end the monarchy. The vote was part of a peace and constitutional transition, rather than a routine succession from one king to another. Declaring a republic settled one central institutional question, while drafting a durable constitutional order remained a separate task. Nepal illustrates how a country's political system can change dramatically without becoming a different point on the map, and why constitutional transitions deserve attention alongside territorial boundaries.",
+        "zh": "2008年5月28日，尼泊尔经选举产生的制宪会议首次开会，落实建立联邦民主共和国、终结君主制的决定。这是和平与宪制转型的一部分，而不是国王之间的普通继承。宣布共和解决了一项核心制度问题，制定持久的宪法秩序则仍是另一项任务。尼泊尔说明，一个国家即使在地图上位置未变，其政治制度也可能发生深刻变化，因而研究地图时也应关注宪制转型。"
+      },
+      "after": {
+        "en": "At its first meeting on 28 May 2008, Nepal's elected Constituent Assembly implemented the decision to establish a federal democratic republic and end the monarchy. The vote was part of a peace and constitutional transition, rather than a routine succession from one king to another. Declaring a republic settled one central institutional question, while drafting a durable constitutional order remained a separate task.",
+        "zh": "2008年5月28日，尼泊尔经选举产生的制宪会议首次开会，落实建立联邦民主共和国、终结君主制的决定。这是和平与宪制转型的一部分，而不是国王之间的普通继承。宣布共和解决了一项核心制度问题，制定持久的宪法秩序则仍是另一项任务。"
+      },
+      "rationale": "Remove generic map pedagogy; the republic, peace process and unfinished constitutional work remain."
+    },
+    {
+      "recordId": "korean-war-armistice",
+      "before": {
+        "en": "North Korean forces invaded South Korea on 25 June 1950, beginning a war that drew in a U.S.-led United Nations Command and later Chinese forces. Front lines moved dramatically before negotiations produced the armistice of July 1953. The agreement suspended hostilities, established a military demarcation line and created a demilitarized buffer zone. It was a military settlement pending a political peace, not a peace treaty that resolved every dispute. Reading its accompanying maps matters: the resulting line followed the negotiated military situation rather than simply restoring the straight 38th parallel.",
+        "zh": "1950年6月25日，朝鲜军队进攻韩国，战争随后卷入美国领导的联合国军及后来参战的中国军队。战线多次大幅移动，谈判最终促成1953年7月停战协定。协定停止敌对行动，设立军事分界线与非军事缓冲区。它是等待政治和平解决的军事安排，而非解决所有争议的和平条约。阅读附图十分重要：分界线依据谈判后的军事态势划定，并非简单恢复笔直的三十八度线。"
+      },
+      "after": {
+        "en": "North Korean forces invaded South Korea on 25 June 1950, beginning a war that drew in a U.S.-led United Nations Command and later Chinese forces. Front lines moved dramatically before negotiations produced the armistice of July 1953. The agreement suspended hostilities, established a military demarcation line and created a demilitarized buffer zone. It was a military settlement pending a political peace, not a peace treaty that resolved every dispute. The resulting line followed the negotiated military situation rather than simply restoring the straight 38th parallel.",
+        "zh": "1950年6月25日，朝鲜军队进攻韩国，战争随后卷入美国领导的联合国军及后来参战的中国军队。战线多次大幅移动，谈判最终促成1953年7月停战协定。协定停止敌对行动，设立军事分界线与非军事缓冲区。它是等待政治和平解决的军事安排，而非解决所有争议的和平条约。分界线依据谈判后的军事态势划定，并非简单恢复笔直的三十八度线。"
+      },
+      "rationale": "Remove only the reading prompt; preserve the negotiated line, parallel distinction and armistice versus peace-treaty caveat."
+    },
+    {
+      "recordId": "malaya-independence",
+      "before": {
+        "en": "Tunku Abdul Rahman proclaimed the independence of the Federation of Malaya at Stadium Merdeka on 31 August 1957. The ceremony and constitutional documents marked the end of British rule over the federation while establishing its own constitutional government. The historical name matters: this was Malaya, not the larger Malaysia formed in 1963. Singapore's later separation in 1965 was yet another event. Reading the original proclamation alongside those later changes helps prevent a modern country outline from being projected backward onto an earlier political arrangement.",
+        "zh": "1957年8月31日，东姑阿都拉曼在吉隆坡独立体育场宣布马来亚联合邦独立。典礼与宪制文件标志英国对联合邦统治的结束及其自身宪政政府的建立。历史名称十分重要：这是马来亚，而不是1963年成立、范围更大的马来西亚；1965年新加坡分离又是另一事件。把独立宣言与后来变化联系起来，有助于避免将现代国家轮廓投射到较早的政治安排上。"
+      },
+      "after": {
+        "en": "Tunku Abdul Rahman proclaimed the independence of the Federation of Malaya at Stadium Merdeka on 31 August 1957. The ceremony and constitutional documents marked the end of British rule over the federation while establishing its own constitutional government. The historical name matters: this was Malaya, not the larger Malaysia formed in 1963. Singapore's later separation in 1965 was yet another event.",
+        "zh": "1957年8月31日，东姑阿都拉曼在吉隆坡独立体育场宣布马来亚联合邦独立。典礼与宪制文件标志英国对联合邦统治的结束及其自身宪政政府的建立。历史名称十分重要：这是马来亚，而不是1963年成立、范围更大的马来西亚；1965年新加坡分离又是另一事件。"
+      },
+      "rationale": "Remove a repetitive map-reading instruction; Malaya, larger Malaysia and Singapore separation remain distinct with all dates."
+    },
+    {
+      "recordId": "nunavut-creation",
+      "before": {
+        "en": "Nunavut was created on 1 April 1999 following decades of Inuit organizing and negotiations over land claims and political institutions. The 1993 land-claims agreement and the Nunavut Act established the basis for a new territory separated from the Northwest Territories. This was a major change in Canada's internal political geography, not the independence of a new country. The public territorial government and Inuit treaty rights are related but distinct institutions. Comparing them shows why an atlas needs to distinguish international borders, internal administrative boundaries and Indigenous rights rather than displaying all political change with the same symbol.",
+        "zh": "在因纽特人持续组织并就土地权利、政治制度谈判数十年后，努纳武特于1999年4月1日成立。1993年土地权利协议与《努纳武特法》为从西北地区分设新地区奠定基础。这是加拿大内部政治地理的重大变化，并非一个新国家独立。面向居民的地区政府与因纽特人的条约权利相互关联，但并非同一制度。比较二者可以说明，地图需要区分国际边界、内部行政界线和原住民权利。"
+      },
+      "after": {
+        "en": "Nunavut was created on 1 April 1999 following decades of Inuit organizing and negotiations over land claims and political institutions. The 1993 land-claims agreement and the Nunavut Act established the basis for a new territory separated from the Northwest Territories. This was a major change in Canada's internal political geography, not the independence of a new country. The public territorial government and Inuit treaty rights are related but distinct institutions. International borders, internal administrative boundaries and Indigenous rights are distinct.",
+        "zh": "在因纽特人持续组织并就土地权利、政治制度谈判数十年后，努纳武特于1999年4月1日成立。1993年土地权利协议与《努纳武特法》为从西北地区分设新地区奠定基础。这是加拿大内部政治地理的重大变化，并非一个新国家独立。面向居民的地区政府与因纽特人的条约权利相互关联，但并非同一制度。国际边界、内部行政界线和原住民权利各不相同。"
+      },
+      "rationale": "Remove atlas display instructions, preserving all three distinctions and the separate status of public government and Inuit treaty rights."
+    },
+    {
+      "recordId": "hawaiian-unification",
+      "before": {
+        "en": "Kamehameha I consolidated the main Hawaiian Islands into a kingdom through years of warfare, alliances and diplomacy. The final step in 1810 came when Kaumualiʻi of Kauaʻi acknowledged his supremacy, rather than through the successful invasion of that island. The kingdom united previously separate centres of chiefly power during a period of growing overseas trade and contact. Distinguishing conquest from negotiated allegiance helps make the process more precise. The resulting monarchy also provides essential context for nineteenth-century diplomacy, the later overthrow and Hawaiian efforts to maintain political and cultural authority.",
+        "zh": "卡美哈梅哈一世通过多年战争、联盟与外交，将夏威夷主要岛屿整合为王国。1810年的最后一步，是考艾岛统治者考穆阿利伊承认其宗主地位，而非成功登陆征服该岛。在海外贸易与接触增长的时代，王国联合了原先分立的酋长权力中心。区分征服与协商臣属，可以更准确理解这一过程。此后君主国的存在，也为研究十九世纪外交、后来政变及夏威夷维护政治文化权利的努力提供背景。"
+      },
+      "after": {
+        "en": "Kamehameha I consolidated the main Hawaiian Islands into a kingdom through years of warfare, alliances and diplomacy. The final step in 1810 came when Kaumualiʻi of Kauaʻi acknowledged his supremacy, rather than through the successful invasion of that island. The kingdom united previously separate centres of chiefly power during a period of growing overseas trade and contact. The resulting monarchy also provides essential context for nineteenth-century diplomacy, the later overthrow and Hawaiian efforts to maintain political and cultural authority.",
+        "zh": "卡美哈梅哈一世通过多年战争、联盟与外交，将夏威夷主要岛屿整合为王国。1810年的最后一步，是考艾岛统治者考穆阿利伊承认其宗主地位，而非成功登陆征服该岛。在海外贸易与接触增长的时代，王国联合了原先分立的酋长权力中心。此后君主国的存在，也为研究十九世纪外交、后来政变及夏威夷维护政治文化权利的努力提供背景。"
+      },
+      "rationale": "Remove a repeated instruction; the previous sentences explicitly distinguish acknowledged supremacy from successful invasion, and later Hawaiian authority remains."
+    },
+    {
+      "recordId": "jantar-mantar-jaipur",
+      "before": {
+        "en": "Sawai Jai Singh II’s observatory at Jaipur turned mathematical relationships into large structures of stone and masonry. Completed in 1734, its instruments supported observations of time and the positions of celestial bodies without telescopes. Different forms served different measurements, making the site a useful lesson in how scientific questions shape the design of tools. It also connects astronomy with court patronage and the creation of Jaipur as a new urban centre. The surviving instruments were repaired in later periods, so their present condition should be distinguished from the original project. Monumental size here was part of an observational method, as well as an architectural choice.",
+        "zh": "萨瓦伊·杰伊·辛格二世在斋浦尔建立的天文台，把数学关系转化为大型石砌建筑。1734年完成的仪器用于不用望远镜的时间与天体位置观测；不同形制服务于不同测量任务，展示科学问题如何影响工具设计。这一地点也把天文学、宫廷赞助与斋浦尔新城建设联系起来。现存仪器在后世经过修复，因此今天的状态应与最初工程区分。这里的宏大尺度既是建筑选择，也是观测方法的一部分。"
+      },
+      "after": {
+        "en": "Sawai Jai Singh II’s observatory at Jaipur turned mathematical relationships into large structures of stone and masonry. Completed in 1734, its instruments supported observations of time and the positions of celestial bodies without telescopes. Different forms served different measurements. It also connects astronomy with court patronage and the creation of Jaipur as a new urban centre. The surviving instruments were repaired in later periods, so their present condition should be distinguished from the original project. Monumental size here was part of an observational method, as well as an architectural choice.",
+        "zh": "萨瓦伊·杰伊·辛格二世在斋浦尔建立的天文台，把数学关系转化为大型石砌建筑。1734年完成的仪器用于不用望远镜的时间与天体位置观测；不同形制服务于不同测量任务。这一地点也把天文学、宫廷赞助与斋浦尔新城建设联系起来。现存仪器在后世经过修复，因此今天的状态应与最初工程区分。这里的宏大尺度既是建筑选择，也是观测方法的一部分。"
+      },
+      "rationale": "Remove lesson framing after the form/measurement relationship is stated; restoration and observational-method qualifications remain."
+    },
+    {
+      "recordId": "siam-constitutional-change",
+      "before": {
+        "en": "The People’s Party’s intervention on 24 June 1932 ended Siam’s absolute monarchy and opened a struggle over how a constitutional order would work. An interim charter was signed on 27 June, followed by a permanent constitution on 10 December. The documents and negotiations reveal competing views of royal authority, popular sovereignty and representation. Accounts from the King Prajadhipok and Pridi Banomyong institutes emphasize different participants, making comparison especially useful. The change established a new constitutional framework, but it should not be read as the immediate completion of democratic government. Institutions and the practical distribution of power remained subjects of conflict.",
+        "zh": "1932年6月24日，人民党的行动结束了暹罗的君主专制，并开启了关于宪政如何运作的争论。6月27日签署临时宪章，12月10日颁布永久宪法。相关文件与谈判呈现了对王权、人民主权和代表制度的不同理解。巴差提朴国王学院与比里·帕侬荣研究所的叙述强调不同参与者，比较阅读尤其有价值。这场变化确立了新的宪政框架，但不等于民主政府立即全面实现；制度及实际权力分配仍受到争夺。"
+      },
+      "after": {
+        "en": "The People’s Party’s intervention on 24 June 1932 ended Siam’s absolute monarchy and opened a struggle over how a constitutional order would work. An interim charter was signed on 27 June, followed by a permanent constitution on 10 December. The documents and negotiations reveal competing views of royal authority, popular sovereignty and representation. Accounts from the King Prajadhipok and Pridi Banomyong institutes emphasize different participants. The change established a new constitutional framework, but it should not be read as the immediate completion of democratic government. Institutions and the practical distribution of power remained subjects of conflict.",
+        "zh": "1932年6月24日，人民党的行动结束了暹罗的君主专制，并开启了关于宪政如何运作的争论。6月27日签署临时宪章，12月10日颁布永久宪法。相关文件与谈判呈现了对王权、人民主权和代表制度的不同理解。巴差提朴国王学院与比里·帕侬荣研究所的叙述强调不同参与者。这场变化确立了新的宪政框架，但不等于民主政府立即全面实现；制度及实际权力分配仍受到争夺。"
+      },
+      "rationale": "Remove the recommendation to compare; retain the named sources and their different emphases."
+    },
+    {
+      "recordId": "india-constitution",
+      "before": {
+        "en": "India's Constituent Assembly adopted a constitution on 26 November 1949; most provisions came into force on 26 January 1950, establishing the republic. The text organized a union of states, guaranteed fundamental rights and based parliamentary and state-assembly elections on adult suffrage. This was another major transformation after independence and partition in 1947, not a second date for the same event. Reading the original articles reveals how constitutional authors linked representation, citizenship and government. Their legal commitments offer a standard against which implementation can be examined, rather than proof that inequalities immediately disappeared.",
+        "zh": "印度制宪会议于1949年11月26日通过宪法，大部分条款于1950年1月26日生效，共和国由此建立。宪法组织了联邦各邦，规定基本权利，并以成年公民选举权为人民院和邦议会选举的基础。这是1947年独立与分治之后的另一重大转型，而不是同一事件的第二个日期。阅读原始条文，可以理解制宪者如何联系代表权、公民身份与治理；法律承诺则提供衡量实践的标准，并不意味着不平等立即消失。"
+      },
+      "after": {
+        "en": "India's Constituent Assembly adopted a constitution on 26 November 1949; most provisions came into force on 26 January 1950, establishing the republic. The text organized a union of states, guaranteed fundamental rights and based parliamentary and state-assembly elections on adult suffrage. This was another major transformation after independence and partition in 1947, not a second date for the same event. The constitutional authors linked representation, citizenship and government. Their legal commitments offer a standard against which implementation can be examined, rather than proof that inequalities immediately disappeared.",
+        "zh": "印度制宪会议于1949年11月26日通过宪法，大部分条款于1950年1月26日生效，共和国由此建立。宪法组织了联邦各邦，规定基本权利，并以成年公民选举权为人民院和邦议会选举的基础。这是1947年独立与分治之后的另一重大转型，而不是同一事件的第二个日期。制宪者将代表权、公民身份与治理相联系；法律承诺则提供衡量实践的标准，并不意味着不平等立即消失。"
+      },
+      "rationale": "Remove the reading invitation; preserve representation, citizenship, government and the distinction between legal commitments and implementation."
     }
   ]
 }

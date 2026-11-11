@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import {visualRows,filterVisualRows,visualCoverage,orderVisualRows} from '../dist/visual-library.mjs';
+import {visualRows,filterVisualRows,visualCoverage,orderVisualRows,visualNeighbors} from '../dist/visual-library.mjs';
 import {auditHistoryMedia,createHistoryMedia,mediaFigures} from '../dist/history-media.mjs';
 import fs from 'node:fs';
 const base=JSON.parse(fs.readFileSync(new URL('../dist/data/history-media-v17.json',import.meta.url)));
@@ -38,4 +38,14 @@ test('entry images retain association context without relabeling the underlying 
 test('the collection mixes media kinds without dropping, repeating or shuffling within each kind',()=>{
  const rows=[{id:'p1',kind:'portrait'},{id:'p2',kind:'portrait'},{id:'d1',kind:'document'},{id:'o1',kind:'object'},{id:'d2',kind:'document'},{id:'p3',kind:'portrait'}];
  assert.deepEqual(orderVisualRows(rows).map(r=>r.id),['o1','d1','p1','d2','p2','p3']);assert.equal(new Set(orderVisualRows(rows)).size,rows.length);assert.equal(rows[0].id,'p1');assert.deepEqual(orderVisualRows([]),[]);
+});
+
+test('image navigation follows filters, respects endpoints and supports stories outside the filter',()=>{
+ const rows=[{id:'a',search:'one',regions:['europe'],representation:'historical-map'},{id:'b',search:'two',regions:['asia'],representation:'historical-map'},{id:'c',search:'one',regions:['europe'],representation:'manuscript-detail'}];
+ assert.deepEqual(visualNeighbors(rows,{query:'one'},'a'),{index:0,total:2,previous:null,next:'c'});
+ assert.deepEqual(visualNeighbors(rows,{query:'one'},'c'),{index:1,total:2,previous:'a',next:null});
+ assert.deepEqual(visualNeighbors(rows,{query:'one'},'b'),{index:1,total:3,previous:'a',next:'c'});
+ assert.deepEqual(visualNeighbors(rows,{type:'manuscript-detail'},'c'),{index:0,total:1,previous:null,next:null});
+ assert.equal(visualNeighbors(rows,{},'missing'),null);assert.equal(visualNeighbors([],{},'missing'),null);
+ assert.deepEqual(rows.map(r=>r.id),['a','b','c']);
 });

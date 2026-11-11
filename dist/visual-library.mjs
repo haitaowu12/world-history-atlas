@@ -31,6 +31,13 @@ export function filterVisualRows(rows,{query='',region='all',type='all'}={}){
  const needle=normalizeSearch(query);
  return rows.filter(r=>(!needle||r.search.includes(needle))&&(region==='all'||r.regions.includes(region))&&(type==='all'||r.representation===type));
 }
+export function visualNeighbors(rows,filters,id){
+ const matching=filterVisualRows(rows,filters);
+ const sequence=matching.some(row=>row.id===id)?matching:rows;
+ const index=sequence.findIndex(row=>row.id===id);
+ if(index<0)return null;
+ return {index,total:sequence.length,previous:sequence[index-1]?.id||null,next:sequence[index+1]?.id||null};
+}
 export function visualCoverage(catalog,records){
  const rows=visualRows(catalog,records),ids=[...new Set(rows.flatMap(r=>r.linked.map(r=>r.id)))];
  return {total:records.length,covered:ids.length,assets:rows.length,percent:records.length?100*ids.length/records.length:0,coveredIds:ids.sort(),uncoveredIds:records.filter(r=>!ids.includes(r.id)).map(r=>r.id)};
@@ -64,7 +71,9 @@ export function createVisualLibrary({catalog,records,getLanguage,regions,regionN
  }
  function inspect(id){
   const item=rows.find(row=>row.id===id);if(!item)return;
-  openDialog(`<section class="visual-inspector"><button class="text-button" data-action="visual-browse">← ${txt('Image collection','图像目录')}</button><p class="eyebrow">${esc(badge(item))}</p><h2>${esc(L(item.title))}</h2><div class="visual-inspect-layout"><div><div class="visual-zoom" tabindex="0" aria-label="${txt('Image inspection area; scroll to explore a magnified image','图像细看区域；放大后可滚动查看')}">${image(item)}</div><label class="visual-zoom-control">${txt('Magnification','放大倍率')} <input id="visual-zoom" type="range" min="100" max="250" step="25" value="100"><output id="visual-zoom-value">100%</output></label></div><div class="visual-inspect-caption">${mediaFigures([item],lang(),esc).replace(/<a class="history-image-link"[\s\S]*?<\/a>/,'').replace(/<button class="text-button" data-action="visual-inspect"[\s\S]*?<\/button>/,'')}${renderImageTimeLayers(item,lang(),esc)}<h3>${txt('Stories behind this image','图像背后的故事')}</h3><ol class="visual-stories">${item.linked.map(record=>{const link=(catalog.associations||[]).find(link=>link.assetId===id&&link.recordId===record.id);return `<li><button data-action="visual-story" data-id="${esc(record.id)}">${esc(L(record.title))} ↗</button>${link&&![item.caption,item.interpretation].some(value=>L(link.context).trim()===L(value).trim())?`<p>${esc(L(link.context))}</p>`:''}</li>`;}).join('')}</ol></div></div></section>`,{wide:true,nav:'visuals-nav'});
+  const position=visualNeighbors(rows,filters,id);
+  const navigation=`<nav class="visual-image-navigation" aria-label="${txt('Browse images','逐幅浏览图像')}"><button class="secondary-button" data-action="visual-inspect" data-id="${esc(position.previous||'')}" ${position.previous?'':'disabled'}>← ${txt('Previous image','上一幅')}</button><span role="status">${txt('Image','图像')} ${position.index+1} / ${position.total}</span><button class="secondary-button" data-action="visual-inspect" data-id="${esc(position.next||'')}" ${position.next?'':'disabled'}>${txt('Next image','下一幅')} →</button></nav>`;
+  openDialog(`<section class="visual-inspector"><button class="text-button" data-action="visual-browse">← ${txt('Image collection','图像目录')}</button><p class="eyebrow">${esc(badge(item))}</p><h2>${esc(L(item.title))}</h2>${navigation}<div class="visual-inspect-layout"><div><div class="visual-zoom" tabindex="0" aria-label="${txt('Image inspection area; scroll to explore a magnified image','图像细看区域；放大后可滚动查看')}">${image(item)}</div><label class="visual-zoom-control">${txt('Magnification','放大倍率')} <input id="visual-zoom" type="range" min="100" max="250" step="25" value="100"><output id="visual-zoom-value">100%</output></label></div><div class="visual-inspect-caption">${mediaFigures([item],lang(),esc).replace(/<a class="history-image-link"[\s\S]*?<\/a>/,'').replace(/<button class="text-button" data-action="visual-inspect"[\s\S]*?<\/button>/,'')}${renderImageTimeLayers(item,lang(),esc)}<h3>${txt('Stories behind this image','图像背后的故事')}</h3><ol class="visual-stories">${item.linked.map(record=>{const link=(catalog.associations||[]).find(link=>link.assetId===id&&link.recordId===record.id);return `<li><button data-action="visual-story" data-id="${esc(record.id)}">${esc(L(record.title))} ↗</button>${link&&![item.caption,item.interpretation].some(value=>L(link.context).trim()===L(value).trim())?`<p>${esc(L(link.context))}</p>`:''}</li>`;}).join('')}</ol></div></div></section>`,{wide:true,nav:'visuals-nav'});
   document.querySelector('#visual-zoom').addEventListener('input',event=>{const value=Number(event.target.value);document.querySelector('.visual-zoom img').style.width=value+'%';document.querySelector('#visual-zoom-value').value=value+'%';});
  }
  function compare(){

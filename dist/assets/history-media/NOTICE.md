@@ -1,6 +1,6 @@
 # Historical images: credits and reuse
 
-Reviewed 2026-11-11. 409 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
+Reviewed 2026-11-11. 414 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
 
 Historical artifacts, surviving places and later depictions retain their source identities. No generated reconstructions are included in this catalogue.
 
@@ -3196,6 +3196,62 @@ The linked Commons source marks this historical two-dimensional artwork and its 
 
 The source-supplied image or thumbnail is saved unchanged, without local cropping, resizing, recoloring or retouching.
 
+## The coronation remembered in 1840 / 1840年画中的查理曼加冕
+
+- File: getty-images-02-charlemagne.jpg
+- Creator: Julius Schnorr von Carolsfeld
+- Date: 1840
+- Collection: J. Paul Getty Museum
+- Source: https://www.getty.edu/art/collection/object/109DCT
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.getty.edu/art/collection/object/109DCT
+
+Getty makes the images on this object’s collection page available under CC0 through its Open Content Program.
+
+Source-served IIIF JPEG preserved unchanged. No local crop, retouching, recolouring or resizing.
+
+## Remembering the plague in Siena / 追忆锡耶纳的瘟疫
+
+- File: getty-images-02-plague.jpg
+- Creator: Giuseppe Maria Crespi
+- Date: about 1735
+- Collection: J. Paul Getty Museum
+- Source: https://www.getty.edu/art/collection/object/103RHC
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.getty.edu/art/collection/object/103RHC
+
+Getty makes the images on this object’s collection page available under CC0 through its Open Content Program.
+
+Source-served IIIF JPEG preserved unchanged. No local crop, retouching, recolouring or resizing.
+
+## Augustus and the image of imperial authority / 奥古斯都与皇权形象
+
+- File: getty-images-02-augustus.jpg
+- Creator: Unknown
+- Date: 25–1 B.C.
+- Collection: J. Paul Getty Museum
+- Source: https://www.getty.edu/art/collection/object/103THA
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.getty.edu/art/collection/object/103THA
+
+Getty makes the images on this object’s collection page available under CC0 through its Open Content Program.
+
+Source-served IIIF JPEG preserved unchanged. No local crop, retouching, recolouring or resizing.
+
+## Berenike II on a bronze intaglio / 青铜阴刻中的贝勒尼基二世
+
+- File: getty-images-02-berenike.jpg
+- Creator: Unknown
+- Date: 3rd–2nd century B.C.
+- Collection: J. Paul Getty Museum
+- Source: https://www.getty.edu/art/collection/object/103V11
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.getty.edu/art/collection/object/103V11
+
+Getty makes the images on this object’s collection page available under CC0 through its Open Content Program.
+
+Source-served IIIF JPEG preserved unchanged. No local crop, retouching, recolouring or resizing.
+
 ## A French Arch for Federation / 联邦庆典中的法国拱门
 
 - File: oceania-awm-p00670-001.jpg
@@ -5729,3 +5785,17 @@ Official Screen Image JPEG preserved unchanged; no local crop, retouching or rec
 The official Smithsonian record marks both this object and this specific image CC0. Credit: National Museum of Asian Art, Smithsonian Institution; Gift of Charles Lang Freer.
 
 Official Screen Image JPEG preserved unchanged; no local crop, retouching or recolouring.
+
+## A later manuscript of The City of Ladies / 《女性之城》的后世手抄本
+
+- File: world-batch-16-christine.jpg
+- Creator: Texts: Giovanni Boccaccio and Christine de Pizan; manuscript illumination: Etienne Colaud and Master of François de Rohan
+- Date: Text, frames and initials c. 1470; frames and miniatures c. 1515–1520
+- Collection: J. Paul Getty Museum
+- Source: https://www.getty.edu/art/collection/object/1CQWPZ
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.getty.edu/art/collection/object/1CQWPZ
+
+Getty makes the images on this manuscript’s collection page available under CC0 through its Open Content Program.
+
+Official IIIF JPEG at a maximum of 1400 pixels, preserved unchanged; no local crop, retouching or recolouring.

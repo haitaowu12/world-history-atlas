@@ -15787,6 +15787,302 @@
       }
     },
     {
+      "id": "getty-images-02-charlemagne",
+      "file": "assets/history-media/getty-images-02-charlemagne.jpg",
+      "recordIds": [
+        "charlemagne-coronation"
+      ],
+      "kind": "artwork",
+      "representation": "historical-artwork",
+      "title": {
+        "en": "The coronation remembered in 1840",
+        "zh": "1840年画中的查理曼加冕"
+      },
+      "alt": {
+        "en": "A brown-ink drawing shows a pope placing a crown on a kneeling ruler, surrounded by clergy, soldiers and spectators on broad steps.",
+        "zh": "褐墨画中，教宗为跪着的君主戴冠；宽阔台阶上聚集着教士、士兵和旁观者。"
+      },
+      "caption": {
+        "en": "Julius Schnorr von Carolsfeld, The Coronation of Charlemagne, 1840. Brown ink over graphite; Getty 2009.5. A preparatory drawing for a Munich royal-palace fresco, depicting the coronation in Rome in 800.",
+        "zh": "尤利乌斯·施诺尔·冯·卡罗尔斯费尔德，《查理曼加冕》，1840年。石墨底稿上施褐墨；盖蒂2009.5。为慕尼黑王宫壁画制作的预备画，表现800年在罗马举行的加冕。"
+      },
+      "interpretation": {
+        "en": "Schnorr places the kneeling ruler and pope at the centre, flanked by clergy, soldiers and spectators. Made for a Bavarian royal palace, this nineteenth-century interpretation celebrates the connection between papal ceremony and imperial authority.",
+        "zh": "施诺尔把跪着的君主与教宗置于中央，两旁环绕教士、士兵和旁观者。这幅为巴伐利亚王宫而作的十九世纪历史诠释，颂扬教宗仪式与皇权的联系。"
+      },
+      "creator": "Julius Schnorr von Carolsfeld",
+      "date": "1840",
+      "institution": "J. Paul Getty Museum",
+      "credit": "J. Paul Getty Museum, Los Angeles; 2009.5",
+      "sourceUrl": "https://www.getty.edu/art/collection/object/109DCT",
+      "imageUrl": "https://media.getty.edu/iiif/image/b9131f74-11ba-41d1-b70e-2911627029ce/full/max/0/default.jpg",
+      "downloadedFrom": "https://media.getty.edu/iiif/image/b9131f74-11ba-41d1-b70e-2911627029ce/full/max/0/default.jpg",
+      "rightsSourceUrl": "https://www.getty.edu/art/collection/object/109DCT",
+      "rights": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "Getty makes the images on this object’s collection page available under CC0 through its Open Content Program.",
+          "zh": "盖蒂通过开放内容项目，将这件藏品页面上的图像以CC0开放。"
+        }
+      },
+      "transformation": {
+        "en": "Source-served IIIF JPEG preserved unchanged. No local crop, retouching, recolouring or resizing.",
+        "zh": "来源直接提供的IIIF JPEG原样保存，未经本地裁剪、修饰、改色或缩放。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Getty object catalogue and image rights",
+            "zh": "盖蒂藏品目录与图像授权"
+          },
+          "url": "https://www.getty.edu/art/collection/object/109DCT"
+        }
+      ],
+      "width": 1024,
+      "height": 568,
+      "bytes": 250724,
+      "sha256": "4e5509144470fc216e9e1d183d7ad1eef6b8f9e248895f1195178896b9ccca72",
+      "checkedAt": "2026-11-11",
+      "metadataI18n": {
+        "date": {
+          "en": "1840",
+          "zh": "1840年"
+        },
+        "creator": {
+          "en": "Julius Schnorr von Carolsfeld",
+          "zh": "尤利乌斯·施诺尔·冯·卡罗尔斯费尔德"
+        },
+        "institution": {
+          "en": "J. Paul Getty Museum",
+          "zh": "J. 保罗·盖蒂博物馆"
+        }
+      },
+      "retrieval": "Official collection identity, CC0 statement, unchanged-image receipt and owner pixel review are preserved in docs/v18-getty-images-02-evidence.json."
+    },
+    {
+      "id": "getty-images-02-plague",
+      "file": "assets/history-media/getty-images-02-plague.jpg",
+      "recordIds": [
+        "black-death"
+      ],
+      "kind": "artwork",
+      "representation": "historical-artwork",
+      "title": {
+        "en": "Remembering the plague in Siena",
+        "zh": "追忆锡耶纳的瘟疫"
+      },
+      "alt": {
+        "en": "In a dark painting, a white-robed monk holds a crucifix amid sick and dying figures; a child clings to a slumped woman in the foreground.",
+        "zh": "昏暗的画面中，白袍修士持十字架站在病患与垂死者之间；前景儿童抱住一位瘫倒的女子。"
+      },
+      "caption": {
+        "en": "Giuseppe Maria Crespi, Blessed Bernard Tolomei Interceding for the Cessation of the Plague in Siena, about 1735. Oil on copper; Getty 86.PC.463. The scene recalls Tolomei’s care for victims of the Black Death in Siena in 1348.",
+        "zh": "朱塞佩·马里亚·克雷斯皮，《真福贝尔纳多·托洛梅伊为锡耶纳瘟疫止息而代祷》，约1735年。铜板油画；盖蒂86.PC.463。画面追忆托洛梅伊于1348年在锡耶纳照护黑死病患者。"
+      },
+      "interpretation": {
+        "en": "Light gathers around the monk and the people he assists. Painted centuries after the epidemic, this devotional work remembers the 1348 crisis in Siena through acts of care and religious intercession.",
+        "zh": "光线集中于修士及其照护的人们。此画晚于疫病数百年，以照护与宗教代祷追忆1348年锡耶纳的灾难。"
+      },
+      "creator": "Giuseppe Maria Crespi",
+      "date": "about 1735",
+      "institution": "J. Paul Getty Museum",
+      "credit": "J. Paul Getty Museum, Los Angeles; 86.PC.463",
+      "sourceUrl": "https://www.getty.edu/art/collection/object/103RHC",
+      "imageUrl": "https://media.getty.edu/iiif/image/ececbcf7-830b-4570-92f6-eba87ee87b89/full/!1400,1400/0/default.jpg",
+      "downloadedFrom": "https://media.getty.edu/iiif/image/ececbcf7-830b-4570-92f6-eba87ee87b89/full/!1400,1400/0/default.jpg",
+      "rightsSourceUrl": "https://www.getty.edu/art/collection/object/103RHC",
+      "rights": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "Getty makes the images on this object’s collection page available under CC0 through its Open Content Program.",
+          "zh": "盖蒂通过开放内容项目，将这件藏品页面上的图像以CC0开放。"
+        }
+      },
+      "transformation": {
+        "en": "Source-served IIIF JPEG preserved unchanged. No local crop, retouching, recolouring or resizing.",
+        "zh": "来源直接提供的IIIF JPEG原样保存，未经本地裁剪、修饰、改色或缩放。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Getty object catalogue and image rights",
+            "zh": "盖蒂藏品目录与图像授权"
+          },
+          "url": "https://www.getty.edu/art/collection/object/103RHC"
+        }
+      ],
+      "width": 1400,
+      "height": 905,
+      "bytes": 247497,
+      "sha256": "eee41463429a8a42715a3e37dccbf8a7349b3265e7f4bec63269881a007a48d5",
+      "checkedAt": "2026-11-11",
+      "metadataI18n": {
+        "date": {
+          "en": "about 1735",
+          "zh": "约1735年"
+        },
+        "creator": {
+          "en": "Giuseppe Maria Crespi",
+          "zh": "朱塞佩·马里亚·克雷斯皮"
+        },
+        "institution": {
+          "en": "J. Paul Getty Museum",
+          "zh": "J. 保罗·盖蒂博物馆"
+        }
+      },
+      "retrieval": "Official collection identity, CC0 statement, unchanged-image receipt and owner pixel review are preserved in docs/v18-getty-images-02-evidence.json."
+    },
+    {
+      "id": "getty-images-02-augustus",
+      "file": "assets/history-media/getty-images-02-augustus.jpg",
+      "recordIds": [
+        "roman-principate"
+      ],
+      "kind": "portrait",
+      "representation": "ancient-portrait",
+      "title": {
+        "en": "Augustus and the image of imperial authority",
+        "zh": "奥古斯都与皇权形象"
+      },
+      "alt": {
+        "en": "A pale marble portrait head on a dark support shows a clean-shaven man with short curved locks across his forehead against a gray background.",
+        "zh": "灰色背景前，深色支架托起浅色大理石头像：男子面部无须，短发卷曲并覆在前额。"
+      },
+      "caption": {
+        "en": "Unknown Roman maker, Portrait Head of Augustus, 25–1 BCE. Marble; Getty 78.AA.261. The sculpture dates to Augustus’s lifetime and the early Principate.",
+        "zh": "古罗马佚名作者，《奥古斯都头像》，公元前25—前1年。大理石；盖蒂78.AA.261。雕像制作于奥古斯都生前及元首制早期。"
+      },
+      "interpretation": {
+        "en": "The youthful face and carefully arranged hair make rulership visible through an idealized portrait. Getty identifies this image as political representation rather than a literal record of Augustus’s age or appearance, directly illustrating how the Principate projected legitimacy.",
+        "zh": "年轻面容与精心排列的发式，通过理想化肖像使统治权获得可见形式。盖蒂将其解释为政治形象，而非奥古斯都年龄或外貌的忠实记录，直接展示了元首制如何塑造合法性。"
+      },
+      "creator": "Unknown",
+      "date": "25–1 B.C.",
+      "institution": "J. Paul Getty Museum",
+      "credit": "J. Paul Getty Museum, Los Angeles; 78.AA.261",
+      "sourceUrl": "https://www.getty.edu/art/collection/object/103THA",
+      "imageUrl": "https://media.getty.edu/iiif/image/78e233da-4a18-49a6-b4fb-4247bd407224/full/!1400,1400/0/default.jpg",
+      "downloadedFrom": "https://media.getty.edu/iiif/image/78e233da-4a18-49a6-b4fb-4247bd407224/full/!1400,1400/0/default.jpg",
+      "rightsSourceUrl": "https://www.getty.edu/art/collection/object/103THA",
+      "rights": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "Getty makes the images on this object’s collection page available under CC0 through its Open Content Program.",
+          "zh": "盖蒂通过开放内容项目，将这件藏品页面上的图像以CC0开放。"
+        }
+      },
+      "transformation": {
+        "en": "Source-served IIIF JPEG preserved unchanged. No local crop, retouching, recolouring or resizing.",
+        "zh": "来源直接提供的IIIF JPEG原样保存，未经本地裁剪、修饰、改色或缩放。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Getty object catalogue and image rights",
+            "zh": "盖蒂藏品目录与图像授权"
+          },
+          "url": "https://www.getty.edu/art/collection/object/103THA"
+        }
+      ],
+      "width": 1157,
+      "height": 1400,
+      "bytes": 162947,
+      "sha256": "f00b112e3baefa806fdf0d5f216f14784bbbeb2cdde033395fc6546a30140bd5",
+      "checkedAt": "2026-11-11",
+      "metadataI18n": {
+        "date": {
+          "en": "25–1 B.C.",
+          "zh": "公元前25—前1年"
+        },
+        "creator": {
+          "en": "Unknown",
+          "zh": "佚名"
+        },
+        "institution": {
+          "en": "J. Paul Getty Museum",
+          "zh": "J. 保罗·盖蒂博物馆"
+        }
+      },
+      "retrieval": "Official collection identity, CC0 statement, unchanged-image receipt and owner pixel review are preserved in docs/v18-getty-images-02-evidence.json."
+    },
+    {
+      "id": "getty-images-02-berenike",
+      "file": "assets/history-media/getty-images-02-berenike.jpg",
+      "recordIds": [
+        "hellenistic-kingdoms"
+      ],
+      "kind": "object",
+      "representation": "object-photograph",
+      "title": {
+        "en": "Berenike II on a bronze intaglio",
+        "zh": "青铜阴刻中的贝勒尼基二世"
+      },
+      "alt": {
+        "en": "An oval dark bronze intaglio shows a veiled woman in profile facing left, wearing a beaded necklace; a horizontal crack crosses the object.",
+        "zh": "椭圆形深色青铜阴刻呈现一位面向左侧的披头纱女子，颈佩珠链；器物横贯一道裂痕。"
+      },
+      "caption": {
+        "en": "Unknown maker, Oval intaglio depicting Berenike II of Egypt, 3rd–2nd century BCE. Bronze, made in Egypt; Getty 81.AN.76.207. Getty identifies the veiled figure as the queen who ruled in 246–222/221 BCE.",
+        "zh": "佚名作者，《椭圆形阴刻》，描绘埃及的贝勒尼基二世，公元前3—前2世纪。埃及制作的青铜器；盖蒂81.AN.76.207。盖蒂将披头纱人物辨识为公元前246—前222/221年在位的王后。"
+      },
+      "interpretation": {
+        "en": "The veil and necklace identify a carefully fashioned royal image. Berenike’s portrait gives a specific example of Ptolemaic representation among the competing Hellenistic courts. The object’s broad catalogue date extends beyond her lifetime.",
+        "zh": "头纱与项链构成经过精心塑造的王室形象。贝勒尼基肖像提供了托勒密王朝在希腊化宫廷竞争中呈现自身的具体例证。器物的目录断代较宽，延伸到她去世以后。"
+      },
+      "creator": "Unknown",
+      "date": "3rd–2nd century B.C.",
+      "institution": "J. Paul Getty Museum",
+      "credit": "J. Paul Getty Museum, Los Angeles; 81.AN.76.207",
+      "sourceUrl": "https://www.getty.edu/art/collection/object/103V11",
+      "imageUrl": "https://media.getty.edu/iiif/image/ed474586-72c5-4590-b96b-b59a648e86de/full/!1400,1400/0/default.jpg",
+      "downloadedFrom": "https://media.getty.edu/iiif/image/ed474586-72c5-4590-b96b-b59a648e86de/full/!1400,1400/0/default.jpg",
+      "rightsSourceUrl": "https://www.getty.edu/art/collection/object/103V11",
+      "rights": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "Getty makes the images on this object’s collection page available under CC0 through its Open Content Program.",
+          "zh": "盖蒂通过开放内容项目，将这件藏品页面上的图像以CC0开放。"
+        }
+      },
+      "transformation": {
+        "en": "Source-served IIIF JPEG preserved unchanged. No local crop, retouching, recolouring or resizing.",
+        "zh": "来源直接提供的IIIF JPEG原样保存，未经本地裁剪、修饰、改色或缩放。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Getty object catalogue and image rights",
+            "zh": "盖蒂藏品目录与图像授权"
+          },
+          "url": "https://www.getty.edu/art/collection/object/103V11"
+        }
+      ],
+      "width": 1050,
+      "height": 1400,
+      "bytes": 147635,
+      "sha256": "26a0a78d32356af7d39a35e79ad9f1199168f923e2949808dd0ec9426753c47d",
+      "checkedAt": "2026-11-11",
+      "metadataI18n": {
+        "date": {
+          "en": "3rd–2nd century B.C.",
+          "zh": "公元前3—前2世纪"
+        },
+        "creator": {
+          "en": "Unknown",
+          "zh": "佚名"
+        },
+        "institution": {
+          "en": "J. Paul Getty Museum",
+          "zh": "J. 保罗·盖蒂博物馆"
+        }
+      },
+      "retrieval": "Official collection identity, CC0 statement, unchanged-image receipt and owner pixel review are preserved in docs/v18-getty-images-02-evidence.json."
+    },
+    {
       "id": "oceania-awm-p00670-001",
       "recordIds": [
         "australian-federation"
@@ -28577,6 +28873,80 @@
           "zh": "史密森学会国立亚洲艺术博物馆"
         }
       }
+    },
+    {
+      "id": "world-batch-16-christine",
+      "file": "assets/history-media/world-batch-16-christine.jpg",
+      "recordIds": [
+        "person-christine-pizan"
+      ],
+      "kind": "manuscript",
+      "representation": "manuscript-detail",
+      "title": {
+        "en": "A later manuscript of The City of Ladies",
+        "zh": "《女性之城》的后世手抄本"
+      },
+      "alt": {
+        "en": "An illuminated manuscript page has two columns of French text, red headings, floral borders, and a miniature of a seated woman reading beside three standing women.",
+        "zh": "绘饰手稿页有两栏法文、红色标题和花卉边饰；小画中，一位女子坐着读书，身旁站着三位女子。"
+      },
+      "caption": {
+        "en": "France. A page from a manuscript combining works by Boccaccio and Christine de Pizan, Getty Ms. 129 (2024.156). Text, frames and initials date to about 1470; frames and miniatures were added about 1515–1520.",
+        "zh": "法国。将薄伽丘与克里斯蒂娜·德·皮桑作品合编的手抄本中的一页，盖蒂藏Ms. 129（2024.156）。文字、边框和首字母约作于1470年；另一些边框及小画约于1515—1520年加入。"
+      },
+      "interpretation": {
+        "en": "The decorated page makes the circulation of Christine’s writing tangible: copying and illumination continued after her death. Its reader, books and female visitors put learned women at the centre of the image. This is a later manuscript illustration, not a portrait made during Christine’s lifetime.",
+        "zh": "这页绘饰手稿使克里斯蒂娜作品的传播变得具体可见：她去世后，抄写与绘饰仍在继续。读者、书籍与女性来访者把有学识的女性置于画面中心。这是后世手抄本插画，并非克里斯蒂娜生前绘制的肖像。"
+      },
+      "creator": "Texts: Giovanni Boccaccio and Christine de Pizan; manuscript illumination: Etienne Colaud and Master of François de Rohan",
+      "date": "Text, frames and initials c. 1470; frames and miniatures c. 1515–1520",
+      "institution": "J. Paul Getty Museum",
+      "credit": "J. Paul Getty Museum, Los Angeles; Ms. 129 (2024.156)",
+      "sourceUrl": "https://www.getty.edu/art/collection/object/1CQWPZ",
+      "imageUrl": "https://media.getty.edu/iiif/image/5061d7a6-6c39-4b68-85ac-edf26af85ca7/full/!1400,1400/0/default.jpg",
+      "downloadedFrom": "https://media.getty.edu/iiif/image/5061d7a6-6c39-4b68-85ac-edf26af85ca7/full/!1400,1400/0/default.jpg",
+      "rightsSourceUrl": "https://www.getty.edu/art/collection/object/1CQWPZ",
+      "rights": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "Getty makes the images on this manuscript’s collection page available under CC0 through its Open Content Program.",
+          "zh": "盖蒂通过开放内容项目，将这部手抄本藏品页面上的图像以CC0开放。"
+        }
+      },
+      "transformation": {
+        "en": "Official IIIF JPEG at a maximum of 1400 pixels, preserved unchanged; no local crop, retouching or recolouring.",
+        "zh": "官方IIIF提供的最长边1400像素JPEG原样保存；未在本地裁剪、修饰或改色。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Getty catalogue: the manuscript’s texts and later illumination",
+            "zh": "盖蒂目录：手抄本的文字与后添绘饰"
+          },
+          "url": "https://www.getty.edu/art/collection/object/1CQWPZ"
+        }
+      ],
+      "width": 961,
+      "height": 1400,
+      "bytes": 530443,
+      "sha256": "3f19c17e548a76712a206972d6f5db53ba11b67071794267e800480e8706b047",
+      "checkedAt": "2026-11-11",
+      "retrieval": "Official manuscript identity, dating, CC0 statement and source-served image receipt are preserved in docs/v18-getty-images-02-evidence.json.",
+      "metadataI18n": {
+        "date": {
+          "en": "Text, frames and initials c. 1470; frames and miniatures c. 1515–1520",
+          "zh": "文字、边框与首字母约1470年；边框与小画约1515—1520年"
+        },
+        "creator": {
+          "en": "Texts: Giovanni Boccaccio and Christine de Pizan; manuscript illumination: Etienne Colaud and Master of François de Rohan",
+          "zh": "文字：乔万尼·薄伽丘与克里斯蒂娜·德·皮桑；绘饰：艾蒂安·科洛与弗朗索瓦·德·罗昂大师"
+        },
+        "institution": {
+          "en": "J. Paul Getty Museum",
+          "zh": "J. 保罗·盖蒂博物馆"
+        }
+      }
     }
   ],
   "associations": [
@@ -35606,6 +35976,50 @@
       "checkedAt": "2026-11-11"
     },
     {
+      "assetId": "getty-images-02-charlemagne",
+      "recordId": "charlemagne-coronation",
+      "role": "depicts-subject",
+      "context": {
+        "en": "Schnorr places the kneeling ruler and pope at the centre, flanked by clergy, soldiers and spectators. Made for a Bavarian royal palace, this nineteenth-century interpretation celebrates the connection between papal ceremony and imperial authority.",
+        "zh": "施诺尔把跪着的君主与教宗置于中央，两旁环绕教士、士兵和旁观者。这幅为巴伐利亚王宫而作的十九世纪历史诠释，颂扬教宗仪式与皇权的联系。"
+      },
+      "evidenceUrl": "https://www.getty.edu/art/collection/object/109DCT",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "getty-images-02-plague",
+      "recordId": "black-death",
+      "role": "depicts-subject",
+      "context": {
+        "en": "Light gathers around the monk and the people he assists. Painted centuries after the epidemic, this devotional work remembers the 1348 crisis in Siena through acts of care and religious intercession.",
+        "zh": "光线集中于修士及其照护的人们。此画晚于疫病数百年，以照护与宗教代祷追忆1348年锡耶纳的灾难。"
+      },
+      "evidenceUrl": "https://www.getty.edu/art/collection/object/103RHC",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "getty-images-02-augustus",
+      "recordId": "roman-principate",
+      "role": "historical-context",
+      "context": {
+        "en": "The youthful face and carefully arranged hair make rulership visible through an idealized portrait. Getty identifies this image as political representation rather than a literal record of Augustus’s age or appearance, directly illustrating how the Principate projected legitimacy.",
+        "zh": "年轻面容与精心排列的发式，通过理想化肖像使统治权获得可见形式。盖蒂将其解释为政治形象，而非奥古斯都年龄或外貌的忠实记录，直接展示了元首制如何塑造合法性。"
+      },
+      "evidenceUrl": "https://www.getty.edu/art/collection/object/103THA",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "getty-images-02-berenike",
+      "recordId": "hellenistic-kingdoms",
+      "role": "historical-context",
+      "context": {
+        "en": "The veil and necklace identify a carefully fashioned royal image. Berenike’s portrait gives a specific example of Ptolemaic representation among the competing Hellenistic courts. The object’s broad catalogue date extends beyond her lifetime.",
+        "zh": "头纱与项链构成经过精心塑造的王室形象。贝勒尼基肖像提供了托勒密王朝在希腊化宫廷竞争中呈现自身的具体例证。器物的目录断代较宽，延伸到她去世以后。"
+      },
+      "evidenceUrl": "https://www.getty.edu/art/collection/object/103V11",
+      "checkedAt": "2026-11-11"
+    },
+    {
       "assetId": "world-batch-03-aksum",
       "recordId": "aksum",
       "role": "named-site",
@@ -37528,6 +37942,17 @@
         "zh": "雕刻的鱼鳍、鳞片与文字展示可复制图像背后的技艺。这块留存木版是制作纸本印张的工具。馆方将图案归于广重，刻工与印工的身份未详。"
       },
       "evidenceUrl": "https://asia.si.edu/object/F1904.100/",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "world-batch-16-christine",
+      "recordId": "person-christine-pizan",
+      "role": "related-work",
+      "context": {
+        "en": "The decorated page makes the circulation of Christine’s writing tangible: copying and illumination continued after her death. Its reader, books and female visitors put learned women at the centre of the image. This is a later manuscript illustration, not a portrait made during Christine’s lifetime.",
+        "zh": "这页绘饰手稿使克里斯蒂娜作品的传播变得具体可见：她去世后，抄写与绘饰仍在继续。读者、书籍与女性来访者把有学识的女性置于画面中心。这是后世手抄本插画，并非克里斯蒂娜生前绘制的肖像。"
+      },
+      "evidenceUrl": "https://www.getty.edu/art/collection/object/1CQWPZ",
       "checkedAt": "2026-11-11"
     }
   ]

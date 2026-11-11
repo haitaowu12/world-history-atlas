@@ -3,9 +3,9 @@
   "reviewedAt": "2026-11-11",
   "baselineManifest": "content-expansion-v17.json",
   "total": 2087,
-  "covered": 795,
-  "assets": 409,
-  "percent": 38.092956396741734,
+  "covered": 800,
+  "assets": 414,
+  "percent": 38.33253473885961,
   "coveredIds": [
     "abbasid-caliphate",
     "achaemenid-empire",
@@ -27,6 +27,7 @@
     "bengal-kantha-household-memory",
     "benin-kingdom",
     "bijapur-adilshahi",
+    "black-death",
     "borobudur",
     "brewarrina-ngunnhu-engineering",
     "british-factory-act-1833",
@@ -40,6 +41,7 @@
     "caribbean-sugar-labor",
     "carolingian-dynasty",
     "chankillo-solar-calendar",
+    "charlemagne-coronation",
     "chavin-ritual-center",
     "cherokee-forced-removal",
     "chichen-itza-flourishing",
@@ -604,6 +606,7 @@
     "harar-urban-world",
     "hawaiian-monarchy-overthrow",
     "heian-court",
+    "hellenistic-kingdoms",
     "herat-manuscript-workshops",
     "hoi-an-port-households",
     "holocaust",
@@ -695,6 +698,7 @@
     "person-alisher-navoi",
     "person-apirana-ngata",
     "person-ashoka",
+    "person-christine-pizan",
     "person-darwin",
     "person-desmond-tutu",
     "person-emilie-du-chatelet",
@@ -746,6 +750,7 @@
     "qing-dynasty",
     "rapa-nui",
     "reformation-theses",
+    "roman-principate",
     "roman-republic",
     "rome-imperial-city",
     "royal-society-experiments",
@@ -818,7 +823,6 @@
     "yin-xu",
     "lapita-teouma-community",
     "carthaginian-power",
-    "hellenistic-kingdoms",
     "han-dynasty",
     "silk-roads-changan",
     "hopewell-ceremonial-networks",
@@ -830,7 +834,6 @@
     "srivijaya-maritime",
     "umayyad-caliphate",
     "cahokia",
-    "charlemagne-coronation",
     "ghana-wagadu",
     "chaco",
     "quanzhou",
@@ -839,7 +842,6 @@
     "mali-empire",
     "samarkand",
     "taputapuatea",
-    "black-death",
     "ayutthaya-kingdom",
     "joseon-kingdom",
     "florence-renaissance",
@@ -1220,7 +1222,6 @@
     "kanak-revolt-land-1878",
     "australia-federal-polity",
     "new-zealand-constitutional-polity",
-    "roman-principate",
     "western-late-roman-empire",
     "holy-roman-empire",
     "kalmar-union",
@@ -1460,7 +1461,6 @@
     "person-mau-piailug",
     "person-michael-somare",
     "person-epeli-hauofa",
-    "person-christine-pizan",
     "person-mary-wollstonecraft",
     "person-lise-meitner",
     "person-irena-sendler",
@@ -2099,7 +2099,7 @@
   ],
   "target": 1044,
   "targetMet": false,
-  "remaining": 249,
+  "remaining": 244,
   "regions": {
     "africa": {
       "total": 136,
@@ -2111,7 +2111,7 @@
     },
     "europe": {
       "total": 122,
-      "covered": 46
+      "covered": 51
     },
     "latin-america": {
       "total": 94,
@@ -2139,16 +2139,16 @@
     }
   },
   "types": {
-    "ancient-portrait": 1,
+    "ancient-portrait": 2,
     "ancient-royal-image": 2,
     "document-facsimile": 24,
-    "historical-artwork": 67,
+    "historical-artwork": 69,
     "historical-photograph": 37,
     "historical-portrait": 29,
     "later-depiction": 66,
     "lifetime-portrait": 18,
-    "manuscript-detail": 31,
-    "object-photograph": 82,
+    "manuscript-detail": 32,
+    "object-photograph": 83,
     "site-photograph": 52
   },
   "shards": [
@@ -2384,6 +2384,13 @@
       "associations": 3
     },
     {
+      "file": "visual-assets-getty-images-02-v18.json",
+      "bytes": 18463,
+      "sha256": "e0c11cfff3e16d2aa4d91a799919317c5a4e7a3e780185c20f57f128e7d048c5",
+      "assets": 4,
+      "associations": 4
+    },
+    {
       "file": "visual-assets-oceania-images-01-v18.json",
       "bytes": 7274,
       "sha256": "25f90d019ac0341e89c990f97986940725cc9761408bdab836621671f84a5440",
@@ -2480,8 +2487,15 @@
       "sha256": "05a582b418538e790aa429cd6966d35d7e707621c8ca33c180378dd5aafcdbe2",
       "assets": 1,
       "associations": 1
+    },
+    {
+      "file": "visual-assets-world-batch-16-v18.json",
+      "bytes": 5601,
+      "sha256": "2b5654b9da97476eba0ad0924633639645d4de17979652444c7bc5d6f69ed654",
+      "assets": 1,
+      "associations": 1
     }
   ],
-  "assetBytes": 78378819,
+  "assetBytes": 79718065,
   "verification": "All admitted files match their SHA-256, byte count and encoded dimensions. Source identity, reuse rights, pixel review and entry relevance require the individual editorial records; structural validation does not establish those facts."
 }

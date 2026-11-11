@@ -7,8 +7,8 @@ import {loadAtlasRecords,readAtlasData} from '../scripts/lib/atlas-records.mjs';
 const manifest=readAtlasData('content-expansion-v18.json'),edits=readAtlasData(manifest.summaryEditsFile);
 const original=loadAtlasRecords({...manifest,summaryEditsFile:null}).records;
 const revised=loadAtlasRecords(manifest).records;
-test('eighty-six summary edits preserve every historical field and source',()=>{
- assert.equal(edits.items.length,86);assert.deepEqual(revised.map(r=>r.id),original.map(r=>r.id));
+test('one hundred eleven summary edits preserve every historical field and source',()=>{
+ assert.equal(edits.items.length,111);assert.deepEqual(revised.map(r=>r.id),original.map(r=>r.id));
  const targets=new Set(edits.items.map(e=>e.recordId));
  for(let i=0;i<original.length;i++){
   const before=original[i],after=revised[i];
