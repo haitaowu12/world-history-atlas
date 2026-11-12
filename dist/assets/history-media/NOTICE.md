@@ -1,6 +1,6 @@
 # Historical images: credits and reuse
 
-Reviewed 2026-11-12. 442 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
+Reviewed 2026-11-12. 450 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
 
 Historical artifacts, surviving places and later depictions retain their source identities. No generated reconstructions are included in this catalogue.
 
@@ -3671,6 +3671,118 @@ Published institutional image saved byte-for-byte; no local crop, resize or re-e
 NARA’s official exhibit identifies this dated and individually captioned service photograph as Records of the United States Marine Corps and links item 532484. Federal military authorship supports public-domain status.
 
 Published institutional image saved byte-for-byte; no local crop, resize or re-encoding.
+
+## Truman’s statement recognizing Israel / 杜鲁门承认以色列的声明
+
+- File: us-archives-04-israel.jpg
+- Creator: Harry S. Truman; Executive Office of the President
+- Date: 14 May 1948
+- Collection: Harry S. Truman Presidential Library; U.S. National Archives
+- Source: https://www.archives.gov/milestone-documents/press-release-announcing-us-recognition-of-israel
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://www.archives.gov/milestone-documents/press-release-announcing-us-recognition-of-israel
+
+An official presidential recognition statement, approved and signed by Truman in office. NARA identifies the exact item in Charles Ross Papers, “Handwriting of the President.” Federal authorship of this government statement, rather than its location in donated papers, supports public-domain reuse.
+
+Institutional rendition saved byte-for-byte; no local crop, resize or re-encoding.
+
+## Mandela arriving for a U.S. state visit / 曼德拉抵达美国进行国事访问
+
+- File: us-archives-04-mandela.jpg
+- Creator: Linwood Moore; U.S. Department of Defense
+- Date: 4 October 1994
+- Collection: U.S. National Archives
+- Source: https://rediscovering-black-history.blogs.archives.gov/2013/07/18/celebrating-the-95th-birthday-of-nelson-rolihlahla-mandela-through-nara-photographs/
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://rediscovering-black-history.blogs.archives.gov/2013/07/18/celebrating-the-95th-birthday-of-nelson-rolihlahla-mandela-through-nara-photographs/
+
+NARA captions item 6493889 as Colonel Acuff greeting Mandela on 4 October 1994 and identifies the visit photographs with RG 330, Combined Military Service Digital Photographic Files, describing camera originals made by military photographers. Embedded item metadata credits Linwood Moore. This is an official federal service image.
+
+Institutional rendition saved byte-for-byte; no local crop, resize or re-encoding.
+
+## Buzz Aldrin on the lunar surface / 月球表面的巴兹·奥尔德林
+
+- File: us-archives-04-apollo.jpg
+- Creator: Neil A. Armstrong; NASA
+- Date: 20 July 1969 (NARA catalogue date)
+- Collection: U.S. National Archives
+- Source: https://www.archives.gov/research/still-pictures/highlights/apollo-11-mission-image
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://www.archives.gov/research/still-pictures/highlights/apollo-11-mission-image
+
+NARA explicitly names astronaut Neil Armstrong as the photographer and identifies NASA record 255-AMP-AS11-40-5903_alt in RG 255, Photographs of the Apollo Space Program. This was created during an official federal space mission.
+
+Institutional rendition saved byte-for-byte; no local crop, resize or re-encoding.
+
+## Václav Havel’s 1998 state arrival / 瓦茨拉夫·哈维尔1998年的国事访问抵达仪式
+
+- File: us-archives-04-havel.jpg
+- Creator: Sharon Farmer; White House Photograph Office
+- Date: 16 September 1998
+- Collection: William J. Clinton Presidential Library and Museum
+- Source: https://www.clintonlibrary.gov/galleries/1998-president-vaclav-havels-offical-state-visit-photo-gallery
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://www.clintonlibrary.gov/research/audio-visual-research
+
+The exact gallery entry P66443-34 identifies the date and photographer Sharon Farmer. The Library states that photographs produced by White House photographers are public domain and asks for Library and photographer credit. This is an official 1998 White House photograph, not a private pre-presidential image.
+
+The Library’s server-generated card rendition is saved byte-for-byte; its institutional crop is retained. No local crop, resize or re-encoding.
+
+## A family in a 1944 agricultural labour photograph / 1944年农业劳工照片中的一家人
+
+- File: us-archives-04-bracero.jpg
+- Creator: U.S. Department of Agriculture, Central Photographic Office
+- Date: 1944
+- Collection: U.S. National Archives; image supplied by DocsTeach
+- Source: https://docsteach.org/document/mexican-laborers/
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://docsteach.org/document/mexican-laborers/
+
+DocsTeach identifies 16-N-6166 as a 1944 photograph from the Central Photographic Office of the Department of Agriculture, RG 16, and labels this primary source “Public Domain, Free of Known Copyright Restrictions.” This item-specific label and federal photographic-office creation support reuse; the site’s separate educational-content licence is not applied to the image.
+
+Institutional rendition saved byte-for-byte; no local crop, resize or re-encoding. The supplied image is 298×196 pixels; fine detail is limited.
+
+## Rachel Carson during her federal scientific career / 蕾切尔·卡森在联邦科学工作时期
+
+- File: us-archives-04-carson.jpg
+- Creator: U.S. Fish and Wildlife Service
+- Date: Circa 1944
+- Collection: U.S. Fish and Wildlife Service
+- Source: https://www.fws.gov/media/rachel-l-carson
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://www.fws.gov/media/rachel-l-carson
+
+The exact FWS media record credits USFWS, dates the photograph circa 1944 and explicitly lists “Media Usage Rights/License: Public Domain.” This is item-specific author and rights evidence.
+
+Institutional rendition saved byte-for-byte; no local crop, resize or re-encoding.
+
+## An opening in the Berlin Wall at Potsdamer Platz / 波茨坦广场的柏林墙开口
+
+- File: us-archives-04-berlin.jpg
+- Creator: Staff Sgt. F. Lee Corkran; U.S. Department of Defense
+- Date: 14 November 1989
+- Collection: U.S. National Archives
+- Source: https://unwritten-record.blogs.archives.gov/2019/11/07/the-berlin-wall-30-years-after-the-fall/
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://unwritten-record.blogs.archives.gov/2019/11/07/the-berlin-wall-30-years-after-the-fall/
+
+NARA identifies the image as 330-CFD-DF-ST-91-01380 with a dated caption. Its embedded item metadata names Staff Sgt. F. Lee Corkran. The photographer’s military rank and official Combined Military Service image series establish federal production, not merely archival custody.
+
+Institutional rendition saved byte-for-byte; no local crop, resize or re-encoding.
+
+## Martin Luther King Jr. at the March on Washington / 华盛顿大游行中的小马丁·路德·金
+
+- File: us-archives-04-mlk.jpg
+- Creator: U.S. Information Agency; photographer not named in the item record
+- Date: 28 August 1963
+- Collection: U.S. National Archives; image supplied by DocsTeach
+- Source: https://docsteach.org/document/1-civil-rights-march-on-washington-dc-dr-martin-luther-king-jr-speaking/
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://docsteach.org/document/1-civil-rights-march-on-washington-dc-dr-martin-luther-king-jr-speaking/
+
+DocsTeach identifies the exact image, NAID 542069, in the U.S. Information Agency’s Miscellaneous Subjects, Staff and Stringer Photographs and explicitly labels the primary source “Public Domain, Free of Known Copyright Restrictions.” The Nixon Library independently captions the same NAID and date. The clearance is for the photograph, not the speech.
+
+Institutional rendition saved byte-for-byte; no local crop, resize or re-encoding. The supplied image is 250×250 pixels; fine detail is limited.
 
 ## Kongo crucifix: Christianity in an African court / 刚果十字架：非洲宫廷中的基督教
 

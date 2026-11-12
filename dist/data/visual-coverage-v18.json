@@ -3,9 +3,9 @@
   "reviewedAt": "2026-11-12",
   "baselineManifest": "content-expansion-v17.json",
   "total": 2087,
-  "covered": 831,
-  "assets": 442,
-  "percent": 39.81792045999042,
+  "covered": 839,
+  "assets": 450,
+  "percent": 40.20124580737901,
   "coveredIds": [
     "abbasid-caliphate",
     "abu-simbel-relocation",
@@ -16,6 +16,7 @@
     "alaska-purchase",
     "american-revolution",
     "angkor",
+    "apollo-11",
     "asante-confederacy",
     "athens-acropolis",
     "australia-1967-referendum",
@@ -27,10 +28,12 @@
     "battle-plassey",
     "bengal-kantha-household-memory",
     "benin-kingdom",
+    "berlin-wall-opens",
     "bijapur-adilshahi",
     "black-death",
     "bologna-medieval-student-universities",
     "borobudur",
+    "bracero-contracts-oral-histories",
     "brewarrina-ngunnhu-engineering",
     "british-factory-act-1833",
     "british-slavery-emancipation",
@@ -704,6 +707,7 @@
     "ottonian-dynasty",
     "pala-dynasty",
     "palenque-pakal-building",
+    "palestine-partition-war-1947-1949",
     "palmyra-oasis-city",
     "panama-canal-labour",
     "paracas-textile-labor",
@@ -751,9 +755,12 @@
     "person-mansa-musa",
     "person-maria-sibylla-merian",
     "person-marie-curie",
+    "person-martin-luther-king-jr",
     "person-murasaki",
+    "person-nelson-mandela",
     "person-nicolaus-copernicus",
     "person-rabindranath-tagore",
+    "person-rachel-carson",
     "person-salote-tupou-iii",
     "person-sarah-winnemucca",
     "person-sequoyah",
@@ -761,6 +768,7 @@
     "person-susie-king-taylor",
     "person-te-puea-herangi",
     "person-tsuda-umeko",
+    "person-vaclav-havel",
     "person-xuanzang",
     "person-yosano-akiko",
     "person-zitkala-sa",
@@ -901,10 +909,8 @@
     "cuban-revolution-victory",
     "congo-independence-crisis",
     "oau-foundation",
-    "apollo-11",
     "bangladesh-liberation",
     "khmer-rouge-cambodia",
-    "berlin-wall-opens",
     "world-wide-web",
     "south-africa-election",
     "soviet-union-formation",
@@ -1177,7 +1183,6 @@
     "afghanistan-constitution-1964",
     "saudi-kingdom-name-1932",
     "iraq-mandate-end-1932",
-    "palestine-partition-war-1947-1949",
     "lebanon-taif-1989",
     "iran-iraq-war-ceasefire",
     "iraq-invasion-occupation-2003",
@@ -1385,7 +1390,6 @@
     "musqueam-cesnaem-belongings",
     "fort-mose-freedom-households",
     "pullman-strike-household-economy",
-    "bracero-contracts-oral-histories",
     "codex-mendoza-translation",
     "qeswachaka-renewal-knowledge",
     "tula-curacao-freedom-1795",
@@ -1404,7 +1408,6 @@
     "person-tupaia",
     "person-toussaint",
     "person-gandhi",
-    "person-nelson-mandela",
     "person-wangari-maathai",
     "person-simon-bolivar",
     "person-njinga",
@@ -1447,7 +1450,6 @@
     "person-wilma-mankiller",
     "person-mary-two-axe-earley",
     "person-viola-desmond",
-    "person-rachel-carson",
     "person-pachacuti",
     "person-guaman-poma",
     "person-tupac-amaru-ii",
@@ -1465,7 +1467,6 @@
     "person-mary-wollstonecraft",
     "person-lise-meitner",
     "person-irena-sendler",
-    "person-vaclav-havel",
     "person-rosa-luxemburg",
     "person-ibn-khaldun",
     "person-ibn-al-haytham",
@@ -1505,7 +1506,6 @@
     "person-hiratsuka-raicho",
     "person-siti-walidah",
     "person-lesia-ukrainka",
-    "person-martin-luther-king-jr",
     "person-samuel-de-champlain",
     "person-john-a-macdonald",
     "person-tommy-douglas",
@@ -2099,11 +2099,11 @@
   ],
   "target": 1044,
   "targetMet": false,
-  "remaining": 213,
+  "remaining": 205,
   "regions": {
     "africa": {
       "total": 136,
-      "covered": 40
+      "covered": 41
     },
     "east-asia": {
       "total": 1216,
@@ -2111,7 +2111,7 @@
     },
     "europe": {
       "total": 122,
-      "covered": 63
+      "covered": 65
     },
     "latin-america": {
       "total": 94,
@@ -2119,7 +2119,7 @@
     },
     "north-america": {
       "total": 123,
-      "covered": 33
+      "covered": 37
     },
     "oceania": {
       "total": 89,
@@ -2135,15 +2135,15 @@
     },
     "west-central-asia": {
       "total": 111,
-      "covered": 29
+      "covered": 30
     }
   },
   "types": {
     "ancient-portrait": 2,
     "ancient-royal-image": 2,
-    "document-facsimile": 28,
+    "document-facsimile": 29,
     "historical-artwork": 71,
-    "historical-photograph": 50,
+    "historical-photograph": 57,
     "historical-portrait": 29,
     "later-depiction": 67,
     "lifetime-portrait": 18,
@@ -2447,6 +2447,13 @@
       "associations": 0
     },
     {
+      "file": "visual-assets-us-archives-04-v18.json",
+      "bytes": 30757,
+      "sha256": "c422fdb52e7cb45e5a6d4c4ef75ee400890302dd794e6a21da7c247d3579f1a1",
+      "assets": 8,
+      "associations": 0
+    },
+    {
       "file": "visual-assets-world-batch-02-v18.json",
       "bytes": 30673,
       "sha256": "69ee747653c5e840d4a1c83d550b8dbb447af83aafc559392076e8b3f87345aa",
@@ -2545,6 +2552,6 @@
       "associations": 1
     }
   ],
-  "assetBytes": 86676888,
+  "assetBytes": 87297027,
   "verification": "All admitted files match their SHA-256, byte count and encoded dimensions. Source identity, reuse rights, pixel review and entry relevance require the individual editorial records; structural validation does not establish those facts."
 }

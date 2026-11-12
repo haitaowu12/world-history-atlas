@@ -402,3 +402,13 @@ The pass removes 6,069 characters (11.6% of these summaries), while retaining sp
 `npm run build:visuals` and all 474 checks pass. Wairau, Japan’s constitution and Kokoda render correctly in both languages in Chrome, including relevant source and image sections. The Chinese Kokoda story was visually checked in the narrow viewport.
 
 Historical image coverage remains 442 images across 831 of 2,087 entries (39.8%); the two original teaching graphics are separate. The 50% target still requires 213 additional illustrated entries. This checkpoint is not a release. Main and live remain unchanged; no GitHub Actions.
+
+## Checkpoint 36: eight archival images, coverage above forty percent
+
+Eight exact-subject public-domain photographs/documents add Apollo 11, the Berlin Wall opening, Mandela, Havel, Carson, King, Bracero family travel and the U.S. recognition of Israel. Files total 620,139 bytes; rights are item-specific and full original target records are preserved. Images retain their own dates and viewpoints, rather than being used as generic era illustrations.
+
+Owner review tightened captions, preserved Palestinian displacement in the context of the U.S. statement, distinguished the Berlin scene of 14 November 1989 from the initial opening and later reunification, and retained the small-resolution limits of the Bracero and King files. Havel’s institutional card crop is disclosed. Carson is a photographic portrait and appears automatically in People.
+
+Coverage: 450 historical images, 839 of 2,087 unique entries (40.20%); 205 remain to the 1,044-entry target. All 442 prior images and prior associations are preserved. The two modern teaching graphics remain separate.
+
+All 478 checks pass. Chrome reviewed all eight in both languages and verified decoded dimensions, image-inspection keyboard zoom, disclosure and the new People portrait. Main and live unchanged; no GitHub Actions.

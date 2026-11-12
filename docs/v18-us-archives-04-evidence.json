@@ -1,0 +1,1713 @@
+{
+  "reviewedAt": "2026-11-12",
+  "items": [
+    {
+      "assetId": "us-archives-04-israel",
+      "recordIds": [
+        "palestine-partition-war-1947-1949"
+      ],
+      "sourceUrl": "https://www.archives.gov/milestone-documents/press-release-announcing-us-recognition-of-israel",
+      "sourceFiles": [
+        "research/v18/us-archives-04/israel.html",
+        "research/v18/us-archives-04/israel.txt",
+        "research/v18/us-archives-04/nara-rights-prior-copy.html"
+      ],
+      "catalogUrl": null,
+      "catalogRead": false,
+      "sourceEvidence": "Citation: President Truman's statement recognizing the State of Israel, May 14, 1948. Charles Ross Papers, 1904-1967, Alphabetical Correspondence File: \"Handwriting of the President,\" Harry S. Truman Library, National Archives and Records Administration.",
+      "rightsBasis": "An official presidential recognition statement, approved and signed by Truman in office. NARA identifies the exact item in Charles Ross Papers, “Handwriting of the President.” Federal authorship of this government statement, rather than its location in donated papers, supports public-domain reuse.",
+      "rightsSourceUrl": "https://www.archives.gov/milestone-documents/press-release-announcing-us-recognition-of-israel",
+      "targetRecordFile": "research/v18/us-archives-04/target-records.json",
+      "entryRelationship": "Direct primary evidence for the recognition stage explicitly distinguished from proposals, declarations, control and recognition in the full entry.",
+      "imageReceipt": {
+        "slug": "israel",
+        "url": "https://www.archives.gov/files/milestone-documents/images/doc-083-big.jpg",
+        "finalUrl": "https://www.archives.gov/files/milestone-documents/images/doc-083-big.jpg",
+        "status": 200,
+        "bytes": 26036,
+        "headers": {
+          "content-type": "image/jpeg",
+          "content-length": "26036",
+          "date": "Thu, 12 Nov 2026 00:41:11 GMT",
+          "x-frame-options": "SAMEORIGIN",
+          "etag": "\"65b4-61532458-f9b46a0af7d61519;;;\"",
+          "last-modified": "Tue, 28 Sep 2021 14:19:04 GMT",
+          "access-control-allow-origin": "origin",
+          "x-content-type-options": "nosniff",
+          "accept-ranges": "bytes",
+          "cache-control": "public, max-age=60, s-maxage=604800",
+          "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+          "x-cache": "Miss from cloudfront",
+          "via": "1.1 41618a2b33e475e15575d539d2bab822.cloudfront.net (CloudFront)",
+          "x-amz-cf-pop": "ORD56-P14",
+          "x-amz-cf-id": "xcedfwAiOLrVm7moWRcuopv7p7GhL11jX7uBsONGpZAfuLqa5aADaw==",
+          "x-envoy-upstream-service-time": "81",
+          "server": "envoy",
+          "connection": "close"
+        },
+        "width": 500,
+        "height": 659,
+        "format": "jpeg",
+        "sha256": "1026e72236e01a571458efefb5f0e59ccde5c8702e74d6a8be40febb16e134ef",
+        "localFile": "research/v18/us-archives-04/images/israel.jpg"
+      },
+      "visualInspection": {
+        "tool": "view_image",
+        "checkedAt": "2026-11-12",
+        "result": "Actual unmodified downloaded pixels inspected individually. Title, caption and alt checked against the image.",
+        "observations": "A typed statement on cream paper, with crossed-out words, handwritten corrections, Harry Truman’s signature and a handwritten approval date."
+      },
+      "derivativeNote": "Exact image URL extracted from institutional HTML, including published data-large-file metadata when used.",
+      "approvedAsset": {
+        "id": "us-archives-04-israel",
+        "file": "assets/history-media/us-archives-04-israel.jpg",
+        "recordIds": [
+          "palestine-partition-war-1947-1949"
+        ],
+        "kind": "document",
+        "representation": "document-facsimile",
+        "title": {
+          "en": "Truman’s statement recognizing Israel",
+          "zh": "杜鲁门承认以色列的声明"
+        },
+        "caption": {
+          "en": "The statement approved on 14 May 1948 recognizes Israel’s provisional government as the de facto authority. Handwritten changes specify the state’s name.",
+          "zh": "1948年5月14日批准的声明承认以色列临时政府为事实上的当局。手写修改明确了国家名称。"
+        },
+        "alt": {
+          "en": "A typed statement on cream paper, with crossed-out words, handwritten corrections, Harry Truman’s signature and a handwritten approval date.",
+          "zh": "米色纸上的打字声明，带划除文字、手写修改、哈里·杜鲁门签名和手写批准日期。"
+        },
+        "interpretation": {
+          "en": "Handwritten changes identify the State of Israel, while the text recognizes its provisional government. The statement records a U.S. diplomatic decision during the war. Palestinian displacement and dispossession, central to the accompanying story, are absent from this document.",
+          "zh": "手写修改明确了以色列国的名称，正文承认其临时政府。声明记录战争期间美国的一项外交决定。关联故事所述的巴勒斯坦人流离失所与财产丧失，没有出现在这份文书中。"
+        },
+        "creator": "Harry S. Truman; Executive Office of the President",
+        "date": "14 May 1948",
+        "institution": "Harry S. Truman Presidential Library; U.S. National Archives",
+        "sourceUrl": "https://www.archives.gov/milestone-documents/press-release-announcing-us-recognition-of-israel",
+        "imageUrl": "https://www.archives.gov/files/milestone-documents/images/doc-083-big.jpg",
+        "downloadedFrom": "https://www.archives.gov/files/milestone-documents/images/doc-083-big.jpg",
+        "rightsSourceUrl": "https://www.archives.gov/milestone-documents/press-release-announcing-us-recognition-of-israel",
+        "rights": {
+          "label": "Public domain",
+          "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "note": {
+            "en": "An official presidential recognition statement, approved and signed by Truman in office. NARA identifies the exact item in Charles Ross Papers, “Handwriting of the President.” Federal authorship of this government statement, rather than its location in donated papers, supports public-domain reuse.",
+            "zh": "这是杜鲁门在任时批准签署的官方总统承认声明。国家档案馆将此件列入查尔斯·罗斯文书中的“总统手迹”。公有领域依据是该政府声明的联邦作者身份，而非其被收入捐赠文书。"
+          }
+        },
+        "bytes": 26036,
+        "sha256": "1026e72236e01a571458efefb5f0e59ccde5c8702e74d6a8be40febb16e134ef",
+        "width": 500,
+        "height": 659,
+        "format": "jpeg",
+        "checkedAt": "2026-11-12",
+        "metadataI18n": {
+          "creator": {
+            "en": "Harry S. Truman; Executive Office of the President",
+            "zh": "哈里·S. 杜鲁门；美国总统行政机构"
+          },
+          "date": {
+            "en": "14 May 1948",
+            "zh": "1948年5月14日"
+          },
+          "institution": {
+            "en": "Harry S. Truman Presidential Library; U.S. National Archives",
+            "zh": "哈里·S. 杜鲁门总统图书馆；美国国家档案馆"
+          }
+        },
+        "transformation": {
+          "en": "Institutional rendition saved byte-for-byte; no local crop, resize or re-encoding.",
+          "zh": "逐字节保存机构图像版本；未作本地裁剪、缩放或重新编码。"
+        }
+      }
+    },
+    {
+      "assetId": "us-archives-04-mandela",
+      "recordIds": [
+        "person-nelson-mandela"
+      ],
+      "sourceUrl": "https://rediscovering-black-history.blogs.archives.gov/2013/07/18/celebrating-the-95th-birthday-of-nelson-rolihlahla-mandela-through-nara-photographs/",
+      "sourceFiles": [
+        "research/v18/us-archives-04/mandela.html",
+        "research/v18/us-archives-04/mandela.txt",
+        "research/v18/us-archives-04/nara-rights-prior-copy.html"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/6493889",
+      "catalogRead": false,
+      "sourceEvidence": "Colonel Acuff greets South Africa’s President, Nelson Mandela. 10/04/1994 (National Archives Identifier 6493889)",
+      "rightsBasis": "NARA captions item 6493889 as Colonel Acuff greeting Mandela on 4 October 1994 and identifies the visit photographs with RG 330, Combined Military Service Digital Photographic Files, describing camera originals made by military photographers. Embedded item metadata credits Linwood Moore. This is an official federal service image.",
+      "rightsSourceUrl": "https://rediscovering-black-history.blogs.archives.gov/2013/07/18/celebrating-the-95th-birthday-of-nelson-rolihlahla-mandela-through-nara-photographs/",
+      "targetRecordFile": "research/v18/us-archives-04/target-records.json",
+      "entryRelationship": "The exact named person, during the presidency phase discussed in the biography; not reassigned to the 1994 election event.",
+      "imageReceipt": {
+        "slug": "mandela",
+        "url": "https://i0.wp.com/rediscovering-black-history.blogs.archives.gov/wp-content/uploads/sites/15/2013/07/df-sc-97-00957-scaled.jpeg?fit=685%2C454&ssl=1",
+        "finalUrl": "https://i0.wp.com/rediscovering-black-history.blogs.archives.gov/wp-content/uploads/sites/15/2013/07/df-sc-97-00957-scaled.jpeg?fit=685%2C454&ssl=1",
+        "status": 200,
+        "bytes": 41909,
+        "headers": {
+          "server": "envoy",
+          "date": "Thu, 12 Nov 2026 00:41:16 GMT",
+          "content-type": "image/jpeg",
+          "content-length": "41909",
+          "last-modified": "Tue, 03 Nov 2026 15:24:41 GMT",
+          "expires": "Fri, 03 Nov 2028 03:24:41 GMT",
+          "cache-control": "public, max-age=63115200",
+          "link": "<https://rediscovering-black-history.blogs.archives.gov/wp-content/uploads/sites/15/2013/07/df-sc-97-00957-scaled.jpeg>; rel=\"canonical\"",
+          "x-content-type-options": "nosniff",
+          "etag": "\"606ccecbcca017e9\"",
+          "x-bytes-saved": "1039",
+          "vary": "Accept",
+          "alt-svc": "clear",
+          "x-nc": "HIT dfw 1",
+          "server-timing": "a8c-cdn, dc;desc=dfw, cache;desc=HIT;dur=1.0",
+          "x-remembering": "Eric Binnion <https://friendsofericbinnion.wordpress.com/>",
+          "access-control-allow-origin": "*",
+          "access-control-allow-methods": "GET, HEAD",
+          "timing-allow-origin": "*",
+          "x-envoy-upstream-service-time": "231",
+          "connection": "close"
+        },
+        "width": 684,
+        "height": 454,
+        "format": "jpeg",
+        "sha256": "d7fc8df77851d51a479014a5920a35a8d07ce54889fec882fd29fc8bc90242fc",
+        "localFile": "research/v18/us-archives-04/images/mandela.jpg"
+      },
+      "visualInspection": {
+        "tool": "view_image",
+        "checkedAt": "2026-11-12",
+        "result": "Actual unmodified downloaded pixels inspected individually. Title, caption and alt checked against the image.",
+        "observations": "Nelson Mandela shakes hands with a uniformed officer beside an aircraft, while other visitors descend the stairs behind him."
+      },
+      "derivativeNote": "Exact image URL extracted from institutional HTML, including published data-large-file metadata when used.",
+      "approvedAsset": {
+        "id": "us-archives-04-mandela",
+        "file": "assets/history-media/us-archives-04-mandela.jpg",
+        "recordIds": [
+          "person-nelson-mandela"
+        ],
+        "kind": "photograph",
+        "representation": "historical-photograph",
+        "title": {
+          "en": "Mandela arriving for a U.S. state visit",
+          "zh": "曼德拉抵达美国进行国事访问"
+        },
+        "caption": {
+          "en": "Colonel Acuff greets South African President Nelson Mandela beside his aircraft on 4 October 1994, during the first year of his presidency.",
+          "zh": "1994年10月4日，阿卡夫上校在飞机旁迎接南非总统纳尔逊·曼德拉；当年是曼德拉就任总统的第一年。"
+        },
+        "alt": {
+          "en": "Nelson Mandela shakes hands with a uniformed officer beside an aircraft, while other visitors descend the stairs behind him.",
+          "zh": "纳尔逊·曼德拉在飞机旁与一名军官握手，其他来宾在他身后走下舷梯。"
+        },
+        "interpretation": {
+          "en": "The military ceremony shows Mandela taking part in international diplomacy during his first year as president. His new role followed the 1994 election and the wider collective struggle against apartheid described in the biography.",
+          "zh": "军事迎接仪式展现曼德拉在总统任期第一年参与国际外交。他的新角色承接1994年选举，以及传记所述更广泛的反种族隔离集体斗争。"
+        },
+        "creator": "Linwood Moore; U.S. Department of Defense",
+        "date": "4 October 1994",
+        "institution": "U.S. National Archives",
+        "sourceUrl": "https://rediscovering-black-history.blogs.archives.gov/2013/07/18/celebrating-the-95th-birthday-of-nelson-rolihlahla-mandela-through-nara-photographs/",
+        "imageUrl": "https://i0.wp.com/rediscovering-black-history.blogs.archives.gov/wp-content/uploads/sites/15/2013/07/df-sc-97-00957-scaled.jpeg?fit=685%2C454&ssl=1",
+        "downloadedFrom": "https://i0.wp.com/rediscovering-black-history.blogs.archives.gov/wp-content/uploads/sites/15/2013/07/df-sc-97-00957-scaled.jpeg?fit=685%2C454&ssl=1",
+        "rightsSourceUrl": "https://rediscovering-black-history.blogs.archives.gov/2013/07/18/celebrating-the-95th-birthday-of-nelson-rolihlahla-mandela-through-nara-photographs/",
+        "rights": {
+          "label": "Public domain",
+          "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "note": {
+            "en": "NARA captions item 6493889 as Colonel Acuff greeting Mandela on 4 October 1994 and identifies the visit photographs with RG 330, Combined Military Service Digital Photographic Files, describing camera originals made by military photographers. Embedded item metadata credits Linwood Moore. This is an official federal service image.",
+            "zh": "国家档案馆注明条目6493889为1994年10月4日阿卡夫上校迎接曼德拉，并把访问照片归入RG 330联合军种数字照片档案，说明其为军事摄影人员拍摄的原始照片。嵌入条目元数据署名林伍德·摩尔。此件属官方联邦军务图像。"
+          }
+        },
+        "bytes": 41909,
+        "sha256": "d7fc8df77851d51a479014a5920a35a8d07ce54889fec882fd29fc8bc90242fc",
+        "width": 684,
+        "height": 454,
+        "format": "jpeg",
+        "checkedAt": "2026-11-12",
+        "metadataI18n": {
+          "creator": {
+            "en": "Linwood Moore; U.S. Department of Defense",
+            "zh": "林伍德·摩尔；美国国防部"
+          },
+          "date": {
+            "en": "4 October 1994",
+            "zh": "1994年10月4日"
+          },
+          "institution": {
+            "en": "U.S. National Archives",
+            "zh": "美国国家档案馆"
+          }
+        },
+        "transformation": {
+          "en": "Institutional rendition saved byte-for-byte; no local crop, resize or re-encoding.",
+          "zh": "逐字节保存机构图像版本；未作本地裁剪、缩放或重新编码。"
+        }
+      }
+    },
+    {
+      "assetId": "us-archives-04-apollo",
+      "recordIds": [
+        "apollo-11"
+      ],
+      "sourceUrl": "https://www.archives.gov/research/still-pictures/highlights/apollo-11-mission-image",
+      "sourceFiles": [
+        "research/v18/us-archives-04/apollo.html",
+        "research/v18/us-archives-04/apollo.txt",
+        "research/v18/us-archives-04/nara-rights-prior-copy.html"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/16685140",
+      "catalogRead": false,
+      "sourceEvidence": "Apollo 11 astronaut Neil Armstrong took this photograph of Edwin \"Buzz\" Aldrin on July 20, 1969, shortly after their lunar module Eagle touched down on the moon's surface.",
+      "rightsBasis": "NARA explicitly names astronaut Neil Armstrong as the photographer and identifies NASA record 255-AMP-AS11-40-5903_alt in RG 255, Photographs of the Apollo Space Program. This was created during an official federal space mission. The downloaded image is hosted by NARA, not a NASA endpoint.",
+      "rightsSourceUrl": "https://www.archives.gov/research/still-pictures/highlights/apollo-11-mission-image",
+      "targetRecordFile": "research/v18/us-archives-04/target-records.json",
+      "entryRelationship": "Exact Apollo 11 lunar surface photograph, with the launch-site-versus-lunar-location distinction retained.",
+      "imageReceipt": {
+        "slug": "apollo",
+        "url": "https://www.archives.gov/files/research/still-pictures/255-amp-as11-40-5903-alt.jpg",
+        "finalUrl": "https://www.archives.gov/files/research/still-pictures/255-amp-as11-40-5903-alt.jpg",
+        "status": 200,
+        "bytes": 222497,
+        "headers": {
+          "content-type": "image/jpeg",
+          "content-length": "222497",
+          "date": "Thu, 12 Nov 2026 00:41:21 GMT",
+          "x-frame-options": "SAMEORIGIN",
+          "etag": "\"36521-66f6fdf1-b92160ce29d3f95;;;\"",
+          "last-modified": "Fri, 27 Sep 2024 18:48:17 GMT",
+          "access-control-allow-origin": "origin",
+          "x-content-type-options": "nosniff",
+          "accept-ranges": "bytes",
+          "cache-control": "public, max-age=60, s-maxage=604800",
+          "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+          "x-cache": "Miss from cloudfront",
+          "via": "1.1 41618a2b33e475e15575d539d2bab822.cloudfront.net (CloudFront)",
+          "x-amz-cf-pop": "ORD56-P14",
+          "x-amz-cf-id": "C8qi8v754xaRSD8bBwG1ETPqz-ZIYvefBBHAq6TCo34LT7AmLKDQ8g==",
+          "x-envoy-upstream-service-time": "54",
+          "server": "envoy",
+          "connection": "close"
+        },
+        "width": 1200,
+        "height": 1200,
+        "format": "jpeg",
+        "sha256": "6bc5bf4670d9cfb5617c8b24eb7653f0196889ac8aa2f99c403de4e550743168",
+        "localFile": "research/v18/us-archives-04/images/apollo.jpg"
+      },
+      "visualInspection": {
+        "tool": "view_image",
+        "checkedAt": "2026-11-12",
+        "result": "Actual unmodified downloaded pixels inspected individually. Title, caption and alt checked against the image.",
+        "observations": "An astronaut in a white spacesuit stands on grey lunar soil; the visor reflects the lunar module and photographer, and a long shadow crosses boot prints."
+      },
+      "derivativeNote": "Exact image URL extracted from institutional HTML, including published data-large-file metadata when used.",
+      "approvedAsset": {
+        "id": "us-archives-04-apollo",
+        "file": "assets/history-media/us-archives-04-apollo.jpg",
+        "recordIds": [
+          "apollo-11"
+        ],
+        "kind": "photograph",
+        "representation": "historical-photograph",
+        "title": {
+          "en": "Buzz Aldrin on the lunar surface",
+          "zh": "月球表面的巴兹·奥尔德林"
+        },
+        "caption": {
+          "en": "Neil Armstrong photographed Edwin “Buzz” Aldrin near the lunar module during Apollo 11. NARA dates the photograph to 20 July 1969.",
+          "zh": "尼尔·阿姆斯特朗在阿波罗11号任务中拍摄月球舱附近的埃德温“巴兹”·奥尔德林。国家档案馆将照片记为1969年7月20日。"
+        },
+        "alt": {
+          "en": "An astronaut in a white spacesuit stands on grey lunar soil; the visor reflects the lunar module and photographer, and a long shadow crosses boot prints.",
+          "zh": "身穿白色宇航服的宇航员站在灰色月壤上；面罩映出月球舱和摄影者，长长的影子横过靴印。"
+        },
+        "interpretation": {
+          "en": "The mission photograph documents lunar surface work, while the atlas map marks the launch site on Earth. The image is one part of a mission also dependent on Michael Collins in lunar orbit and extensive ground teams.",
+          "zh": "任务照片记录月面活动，而地图标记的是地球上的发射地点。照片只是任务的一部分，任务还依靠留在月球轨道上的迈克尔·柯林斯及庞大的地面团队。"
+        },
+        "creator": "Neil A. Armstrong; NASA",
+        "date": "20 July 1969 (NARA catalogue date)",
+        "institution": "U.S. National Archives",
+        "sourceUrl": "https://www.archives.gov/research/still-pictures/highlights/apollo-11-mission-image",
+        "imageUrl": "https://www.archives.gov/files/research/still-pictures/255-amp-as11-40-5903-alt.jpg",
+        "downloadedFrom": "https://www.archives.gov/files/research/still-pictures/255-amp-as11-40-5903-alt.jpg",
+        "rightsSourceUrl": "https://www.archives.gov/research/still-pictures/highlights/apollo-11-mission-image",
+        "rights": {
+          "label": "Public domain",
+          "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "note": {
+            "en": "NARA explicitly names astronaut Neil Armstrong as the photographer and identifies NASA record 255-AMP-AS11-40-5903_alt in RG 255, Photographs of the Apollo Space Program. This was created during an official federal space mission.",
+            "zh": "国家档案馆明确注明宇航员尼尔·阿姆斯特朗为摄影者，并标识其为RG 255阿波罗太空计划照片系列中的NASA档案255-AMP-AS11-40-5903_alt。照片创作于官方联邦太空任务中。"
+          }
+        },
+        "bytes": 222497,
+        "sha256": "6bc5bf4670d9cfb5617c8b24eb7653f0196889ac8aa2f99c403de4e550743168",
+        "width": 1200,
+        "height": 1200,
+        "format": "jpeg",
+        "checkedAt": "2026-11-12",
+        "metadataI18n": {
+          "creator": {
+            "en": "Neil A. Armstrong; NASA",
+            "zh": "尼尔·A. 阿姆斯特朗；美国国家航空航天局"
+          },
+          "date": {
+            "en": "20 July 1969 (NARA catalogue date)",
+            "zh": "1969年7月20日（国家档案馆目录日期）"
+          },
+          "institution": {
+            "en": "U.S. National Archives",
+            "zh": "美国国家档案馆"
+          }
+        },
+        "transformation": {
+          "en": "Institutional rendition saved byte-for-byte; no local crop, resize or re-encoding.",
+          "zh": "逐字节保存机构图像版本；未作本地裁剪、缩放或重新编码。"
+        }
+      }
+    },
+    {
+      "assetId": "us-archives-04-havel",
+      "recordIds": [
+        "person-vaclav-havel"
+      ],
+      "sourceUrl": "https://www.clintonlibrary.gov/galleries/1998-president-vaclav-havels-offical-state-visit-photo-gallery",
+      "sourceFiles": [
+        "research/v18/us-archives-04/havel-gallery.html",
+        "research/v18/us-archives-04/havel-gallery.txt",
+        "research/v18/us-archives-04/nara-rights-prior-copy.html",
+        "research/v18/us-archives-04/havel-rights.html",
+        "research/v18/us-archives-04/havel-rights.txt",
+        "research/v18/us-archives-04/havel.html"
+      ],
+      "catalogUrl": null,
+      "catalogRead": false,
+      "sourceEvidence": "President Clinton and President Václav Havel of the Czech Republic stand for the United States National Anthem on the dais on the South Lawn. President Clinton places his right hand over his chest. September 16,1998, Photographer: Sharon Farmer. P66443-34",
+      "rightsBasis": "The exact gallery entry P66443-34 identifies the date and photographer Sharon Farmer. The Library states that photographs produced by White House photographers are public domain and asks for Library and photographer credit. This is an official 1998 White House photograph, not a private pre-presidential image.",
+      "rightsSourceUrl": "https://www.clintonlibrary.gov/research/audio-visual-research",
+      "targetRecordFile": "research/v18/us-archives-04/target-records.json",
+      "entryRelationship": "The exact named person in the Czech presidential phase discussed in the full biography.",
+      "imageReceipt": {
+        "slug": "havel-card",
+        "url": "https://www.clintonlibrary.gov/sites/default/files/styles/card/public/catalog/P66443-34.jpg?h=01759dec",
+        "finalUrl": "https://www.clintonlibrary.gov/sites/default/files/styles/card/public/catalog/P66443-34.jpg?h=01759dec",
+        "status": 200,
+        "bytes": 56129,
+        "headers": {
+          "content-type": "image/jpeg",
+          "content-length": "56129",
+          "date": "Thu, 12 Nov 2026 00:43:51 GMT",
+          "x-frame-options": "SAMEORIGIN",
+          "set-cookie": "AWSALB=0gW5gJoHlOze1xUDFWIdfMcg8ypUvzJKnZxgTcTkqMs51fm4/cu4hU4W8+8t14H4KzfBy/ImBXumW8Qg/aMo/6fNsVYCWIqn3fNmD/BKrHzG2ydN0zTu2ZgxA6xp; Expires=Thu, 19 Nov 2026 00:43:49 GMT; Path=/",
+          "last-modified": "Thu, 12 Nov 2026 00:43:51 GMT",
+          "content-language": "en",
+          "content-security-policy": "script-src 'self' 'unsafe-inline' 'unsafe-eval' www.archives.gov www.googletagmanager.com www.google-analytics.com dap.digitalgov.gov script.crazyegg.com cdn.curator.io cdn.jsdelivr.net https://cdn.jsdelivr.net https://cdnjs.cloudflare.com https://www.gstatic.com mdbootstrap.com; style-src 'self' 'unsafe-inline' 'unsafe-eval' www.archives.gov www.gstatic.com cdn.knightlab.com cdn.curator.io cdn.jsdelivr.net cdnjs.cloudflare.com fonts.googleapis.com https://cdn.jsdelivr.net https://cdnjs.cloudflare.com https://use.fontawesome.com mdbootstrap.com use.fontawesome.com; frame-ancestors 'self'; report-uri https://www.clintonlibrary.gov/report-uri/enforce",
+          "x-xss-protection": "1; mode=block",
+          "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
+          "x-content-type-options": "nosniff",
+          "accept-ranges": "bytes",
+          "cache-control": "public, max-age=60, s-maxage=3600",
+          "x-cache": "Miss from cloudfront",
+          "via": "1.1 416662ea555a8e788fea7186bf92e5f0.cloudfront.net (CloudFront)",
+          "x-amz-cf-pop": "ORD56-P7",
+          "x-amz-cf-id": "h-kQCEhhCQUt1oW8L2HrTAsmgrDWz4PlahSyts-UzZLnyjBSlE-2zA==",
+          "x-envoy-upstream-service-time": "1350",
+          "server": "envoy",
+          "connection": "close"
+        },
+        "width": 500,
+        "height": 420,
+        "format": "jpeg",
+        "sha256": "675872a1df59ac509dba10663482511c20381627528c74e3174ce45ccaac16c7",
+        "localFile": "research/v18/us-archives-04/images/havel-card.jpg"
+      },
+      "visualInspection": {
+        "tool": "view_image",
+        "checkedAt": "2026-11-12",
+        "result": "Actual unmodified downloaded pixels inspected individually. Title, caption and alt checked against the image.",
+        "observations": "Václav Havel and Bill Clinton stand in dark suits outdoors; Clinton holds his right hand over his chest."
+      },
+      "derivativeNote": "Two published wide images exceeded 750000 bytes and were rejected. The image filename P66443-34 and h parameter come from the exact gallery entry; the official card derivative style is evidenced in the successfully read Clinton Library research page (havel.html). The card URL was formed using that institutional style and returned HTTP 200, 500×420 JPEG. This derivative crops the wider scene.",
+      "approvedAsset": {
+        "id": "us-archives-04-havel",
+        "file": "assets/history-media/us-archives-04-havel.jpg",
+        "recordIds": [
+          "person-vaclav-havel"
+        ],
+        "kind": "photograph",
+        "representation": "historical-photograph",
+        "title": {
+          "en": "Václav Havel’s 1998 state arrival",
+          "zh": "瓦茨拉夫·哈维尔1998年的国事访问抵达仪式"
+        },
+        "caption": {
+          "en": "Czech President Václav Havel, left, stands with President Bill Clinton for the U.S. national anthem on the White House South Lawn, 16 September 1998.",
+          "zh": "1998年9月16日，捷克总统瓦茨拉夫·哈维尔（左）与美国总统比尔·克林顿在白宫南草坪肃立聆听美国国歌。"
+        },
+        "alt": {
+          "en": "Václav Havel and Bill Clinton stand in dark suits outdoors; Clinton holds his right hand over his chest.",
+          "zh": "瓦茨拉夫·哈维尔与比尔·克林顿身穿深色西装站在户外；克林顿把右手放在胸前。"
+        },
+        "interpretation": {
+          "en": "The anthem ceremony presents Havel as president of the Czech Republic in 1998. It belongs to the later chapter of a life that moved from theatre and Charter 77 dissent through the 1989 transition into constitutional office.",
+          "zh": "国歌仪式呈现1998年身为捷克共和国总统的哈维尔。这是他人生中较晚的篇章，此前经历了戏剧创作、《七七宪章》异议活动及1989年转型，随后担任宪制公职。"
+        },
+        "creator": "Sharon Farmer; White House Photograph Office",
+        "date": "16 September 1998",
+        "institution": "William J. Clinton Presidential Library and Museum",
+        "sourceUrl": "https://www.clintonlibrary.gov/galleries/1998-president-vaclav-havels-offical-state-visit-photo-gallery",
+        "imageUrl": "https://www.clintonlibrary.gov/sites/default/files/styles/card/public/catalog/P66443-34.jpg?h=01759dec",
+        "downloadedFrom": "https://www.clintonlibrary.gov/sites/default/files/styles/card/public/catalog/P66443-34.jpg?h=01759dec",
+        "rightsSourceUrl": "https://www.clintonlibrary.gov/research/audio-visual-research",
+        "rights": {
+          "label": "Public domain",
+          "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "note": {
+            "en": "The exact gallery entry P66443-34 identifies the date and photographer Sharon Farmer. The Library states that photographs produced by White House photographers are public domain and asks for Library and photographer credit. This is an official 1998 White House photograph, not a private pre-presidential image.",
+            "zh": "确切图库条目P66443-34注明日期及摄影者莎伦·法默。图书馆说明白宫摄影人员制作的照片属于公有领域，并要求注明图书馆和摄影者。此件是1998年白宫官方照片，并非任职前私人照片。"
+          }
+        },
+        "bytes": 56129,
+        "sha256": "675872a1df59ac509dba10663482511c20381627528c74e3174ce45ccaac16c7",
+        "width": 500,
+        "height": 420,
+        "format": "jpeg",
+        "checkedAt": "2026-11-12",
+        "metadataI18n": {
+          "creator": {
+            "en": "Sharon Farmer; White House Photograph Office",
+            "zh": "莎伦·法默；白宫摄影办公室"
+          },
+          "date": {
+            "en": "16 September 1998",
+            "zh": "1998年9月16日"
+          },
+          "institution": {
+            "en": "William J. Clinton Presidential Library and Museum",
+            "zh": "威廉·J. 克林顿总统图书馆与博物馆"
+          }
+        },
+        "transformation": {
+          "en": "The Library’s server-generated card rendition is saved byte-for-byte; its institutional crop is retained. No local crop, resize or re-encoding.",
+          "zh": "逐字节保存图书馆服务器生成的卡片版本，保留机构的裁剪范围。未作本地裁剪、缩放或重新编码。"
+        },
+        "credit": "Sharon Farmer. Courtesy, William J. Clinton Presidential Library."
+      }
+    },
+    {
+      "assetId": "us-archives-04-bracero",
+      "recordIds": [
+        "bracero-contracts-oral-histories"
+      ],
+      "sourceUrl": "https://docsteach.org/document/mexican-laborers/",
+      "sourceFiles": [
+        "research/v18/us-archives-04/bracero.html",
+        "research/v18/us-archives-04/bracero.txt",
+        "research/v18/us-archives-04/nara-rights-prior-copy.html"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/596405",
+      "catalogRead": false,
+      "sourceEvidence": "Full Citation: 16-N-6166; Photograph of Mexican Laborers; 1944; Photographs from the Central Photographic Office of the Department of Agriculture, 1939 – 1964; Records of the Office of the Secretary of Agriculture, Record Group 16; National Archives at College Park, College Park, MD.",
+      "rightsBasis": "DocsTeach identifies 16-N-6166 as a 1944 photograph from the Central Photographic Office of the Department of Agriculture, RG 16, and labels this primary source “Public Domain, Free of Known Copyright Restrictions.” This item-specific label and federal photographic-office creation support reuse; the site’s separate educational-content licence is not applied to the image.",
+      "rightsSourceUrl": "https://docsteach.org/document/mexican-laborers/",
+      "targetRecordFile": "research/v18/us-archives-04/target-records.json",
+      "entryRelationship": "Specific Bracero-era family photograph officially interpreted in that programme context; no claim that these are the named oral-history witnesses. The supplied 298×196 rendition is not enlarged locally.",
+      "imageReceipt": {
+        "slug": "bracero",
+        "url": "https://docsteach.org/wp-content/uploads/documents/596405/primary_5085_20190919110933.jpg",
+        "finalUrl": "https://docsteach.org/wp-content/uploads/documents/596405/primary_5085_20190919110933.jpg",
+        "status": 200,
+        "bytes": 10147,
+        "headers": {
+          "server": "envoy",
+          "date": "Thu, 12 Nov 2026 00:41:29 GMT",
+          "content-type": "image/jpeg",
+          "content-length": "10147",
+          "strict-transport-security": "max-age=31536000",
+          "last-modified": "Tue, 03 Nov 2026 11:08:51 GMT",
+          "etag": "\"6ae9c0c3-27a3\"",
+          "expires": "Fri, 12 Nov 2027 00:41:29 GMT",
+          "cache-control": "max-age=31536000",
+          "access-control-allow-origin": "*",
+          "access-control-allow-methods": "GET, HEAD",
+          "x-ac": "1.dfw _atomic_dfw MISS",
+          "accept-ranges": "bytes",
+          "x-remembering": "Eric Binnion <https://friendsofericbinnion.wordpress.com/>",
+          "alt-svc": "clear",
+          "server-timing": "a8c-cdn, dc;desc=dfw, cache;desc=MISS;dur=71.0",
+          "x-envoy-upstream-service-time": "328",
+          "connection": "close"
+        },
+        "width": 298,
+        "height": 196,
+        "format": "jpeg",
+        "sha256": "4cee267613675dbf59fedb670be881e0133aa7c0678f6760f057f4c17b413745",
+        "localFile": "research/v18/us-archives-04/images/bracero.jpg"
+      },
+      "visualInspection": {
+        "tool": "view_image",
+        "checkedAt": "2026-11-12",
+        "result": "Actual unmodified downloaded pixels inspected individually. Title, caption and alt checked against the image.",
+        "observations": "Four people look out from a railcar window; the person at left raises two fingers and a child stands at the front."
+      },
+      "derivativeNote": "Exact image URL extracted from institutional HTML, including published data-large-file metadata when used.",
+      "approvedAsset": {
+        "id": "us-archives-04-bracero",
+        "file": "assets/history-media/us-archives-04-bracero.jpg",
+        "recordIds": [
+          "bracero-contracts-oral-histories"
+        ],
+        "kind": "photograph",
+        "representation": "historical-photograph",
+        "title": {
+          "en": "A family in a 1944 agricultural labour photograph",
+          "zh": "1944年农业劳工照片中的一家人"
+        },
+        "caption": {
+          "en": "A family looks from a train window in the U.S. Department of Agriculture’s 1944 “Photograph of Mexican Laborers.” DocsTeach places the image in the Bracero Program’s cross-border labour context.",
+          "zh": "一家人从火车窗口向外看；此图是美国农业部1944年的《墨西哥劳工照片》。DocsTeach将其置于布拉塞罗计划的跨境劳动背景中。"
+        },
+        "alt": {
+          "en": "Four people look out from a railcar window; the person at left raises two fingers and a child stands at the front.",
+          "zh": "四人从车厢窗口向外看；左侧人物举起两根手指，一名儿童站在前面。"
+        },
+        "interpretation": {
+          "en": "The image makes household travel visible, but the source does not name the family or establish their individual contracts. A government photograph cannot show whether promised pay and housing protections were fulfilled.",
+          "zh": "照片让家庭出行变得可见，但来源没有提供家人姓名，也不能确立每个人的合约身份。政府照片无法说明承诺的工资与住房保障是否兑现。"
+        },
+        "creator": "U.S. Department of Agriculture, Central Photographic Office",
+        "date": "1944",
+        "institution": "U.S. National Archives; image supplied by DocsTeach",
+        "sourceUrl": "https://docsteach.org/document/mexican-laborers/",
+        "imageUrl": "https://docsteach.org/wp-content/uploads/documents/596405/primary_5085_20190919110933.jpg",
+        "downloadedFrom": "https://docsteach.org/wp-content/uploads/documents/596405/primary_5085_20190919110933.jpg",
+        "rightsSourceUrl": "https://docsteach.org/document/mexican-laborers/",
+        "rights": {
+          "label": "Public domain",
+          "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "note": {
+            "en": "DocsTeach identifies 16-N-6166 as a 1944 photograph from the Central Photographic Office of the Department of Agriculture, RG 16, and labels this primary source “Public Domain, Free of Known Copyright Restrictions.” This item-specific label and federal photographic-office creation support reuse; the site’s separate educational-content licence is not applied to the image.",
+            "zh": "DocsTeach注明16-N-6166为1944年农业部中央摄影办公室照片，属RG 16，并将此原始资料标为“公有领域，无已知版权限制”。条目特定标识与联邦摄影办公室的制作来源支持使用；网站教育内容的另行许可不套用于此照片。"
+          }
+        },
+        "bytes": 10147,
+        "sha256": "4cee267613675dbf59fedb670be881e0133aa7c0678f6760f057f4c17b413745",
+        "width": 298,
+        "height": 196,
+        "format": "jpeg",
+        "checkedAt": "2026-11-12",
+        "metadataI18n": {
+          "creator": {
+            "en": "U.S. Department of Agriculture, Central Photographic Office",
+            "zh": "美国农业部中央摄影办公室"
+          },
+          "date": {
+            "en": "1944",
+            "zh": "1944年"
+          },
+          "institution": {
+            "en": "U.S. National Archives; image supplied by DocsTeach",
+            "zh": "美国国家档案馆；图像由DocsTeach提供"
+          }
+        },
+        "transformation": {
+          "en": "Institutional rendition saved byte-for-byte; no local crop, resize or re-encoding. The supplied image is 298×196 pixels; fine detail is limited.",
+          "zh": "逐字节保存机构图像版本；未作本地裁剪、缩放或重新编码。所提供图像为298×196像素，细节有限。"
+        }
+      }
+    },
+    {
+      "assetId": "us-archives-04-carson",
+      "recordIds": [
+        "person-rachel-carson"
+      ],
+      "sourceUrl": "https://www.fws.gov/media/rachel-l-carson",
+      "sourceFiles": [
+        "research/v18/us-archives-04/carson.html",
+        "research/v18/us-archives-04/carson.txt",
+        "research/v18/us-archives-04/nara-rights-prior-copy.html"
+      ],
+      "catalogUrl": null,
+      "catalogRead": false,
+      "sourceEvidence": "Photo By/Credit USFWS. Date Shot/Created Circa 1944. Media Usage Rights/License Public Domain. Rachel Carson, 1944 - Author, editor and aquatic biologist with the U.S. Fish and Wildlife Service.",
+      "rightsBasis": "The exact FWS media record credits USFWS, dates the photograph circa 1944 and explicitly lists “Media Usage Rights/License: Public Domain.” This is item-specific author and rights evidence.",
+      "rightsSourceUrl": "https://www.fws.gov/media/rachel-l-carson",
+      "targetRecordFile": "research/v18/us-archives-04/target-records.json",
+      "entryRelationship": "Exact portrait of the named biologist, with the government employment phase directly described in the entry.",
+      "imageReceipt": {
+        "slug": "carson",
+        "url": "https://www.fws.gov/sites/default/files/images/2005-04/8515.jpg",
+        "finalUrl": "https://www.fws.gov/sites/default/files/images/2005-04/8515.jpg",
+        "status": 200,
+        "bytes": 187075,
+        "headers": {
+          "content-type": "image/jpeg",
+          "content-length": "187075",
+          "x-content-type-options": "nosniff",
+          "last-modified": "Fri, 31 May 2024 14:16:34 GMT",
+          "x-request-id": "v-67e4ef1a-bb82-11f1-9418-ab897840c589",
+          "x-ah-environment": "prod",
+          "x-age": "0",
+          "accept-ranges": "bytes",
+          "cache-control": "max-age=900",
+          "date": "Thu, 12 Nov 2026 00:41:39 GMT",
+          "server-timing": "cdn-cache; desc=REVALIDATE",
+          "strict-transport-security": "max-age=31536000 ; includeSubDomains ; preload",
+          "x-envoy-upstream-service-time": "326",
+          "server": "envoy",
+          "connection": "close"
+        },
+        "width": 1200,
+        "height": 1523,
+        "format": "jpeg",
+        "sha256": "18ca340b4589a2194ce2e0cca2d46b00d3a59017c8611e53a4b251968447099e",
+        "localFile": "research/v18/us-archives-04/images/carson.jpg"
+      },
+      "visualInspection": {
+        "tool": "view_image",
+        "checkedAt": "2026-11-12",
+        "result": "Actual unmodified downloaded pixels inspected individually. Title, caption and alt checked against the image.",
+        "observations": "A black-and-white head-and-shoulders portrait of Rachel Carson, smiling and wearing a jacket with a light pointed collar."
+      },
+      "derivativeNote": "Exact image URL extracted from institutional HTML, including published data-large-file metadata when used.",
+      "approvedAsset": {
+        "id": "us-archives-04-carson",
+        "file": "assets/history-media/us-archives-04-carson.jpg",
+        "recordIds": [
+          "person-rachel-carson"
+        ],
+        "kind": "portrait",
+        "representation": "historical-photograph",
+        "title": {
+          "en": "Rachel Carson during her federal scientific career",
+          "zh": "蕾切尔·卡森在联邦科学工作时期"
+        },
+        "caption": {
+          "en": "The U.S. Fish and Wildlife Service identifies this portrait as Rachel Carson, author, editor and aquatic biologist, circa 1944.",
+          "zh": "美国鱼类与野生动物管理局将此肖像认定为约1944年的蕾切尔·卡森，当时她从事写作、编辑与水生生物学工作。"
+        },
+        "alt": {
+          "en": "A black-and-white head-and-shoulders portrait of Rachel Carson, smiling and wearing a jacket with a light pointed collar.",
+          "zh": "蕾切尔·卡森的黑白半身肖像，她面带微笑，穿着浅色尖领外套。"
+        },
+        "interpretation": {
+          "en": "This portrait belongs to Carson’s government-science period, before The Sea Around Us and Silent Spring. Her work as a biologist and editor preceded the books that brought ecological relationships to a wider public.",
+          "zh": "肖像属于卡森从事政府科学工作的时期，早于《我们周围的海洋》和《寂静的春天》。她先从事生物学与编辑工作，随后通过著作让更多公众了解生态关系。"
+        },
+        "creator": "U.S. Fish and Wildlife Service",
+        "date": "Circa 1944",
+        "institution": "U.S. Fish and Wildlife Service",
+        "sourceUrl": "https://www.fws.gov/media/rachel-l-carson",
+        "imageUrl": "https://www.fws.gov/sites/default/files/images/2005-04/8515.jpg",
+        "downloadedFrom": "https://www.fws.gov/sites/default/files/images/2005-04/8515.jpg",
+        "rightsSourceUrl": "https://www.fws.gov/media/rachel-l-carson",
+        "rights": {
+          "label": "Public domain",
+          "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "note": {
+            "en": "The exact FWS media record credits USFWS, dates the photograph circa 1944 and explicitly lists “Media Usage Rights/License: Public Domain.” This is item-specific author and rights evidence.",
+            "zh": "确切的鱼类与野生动物管理局媒体记录署名USFWS，注明照片约摄于1944年，并明确列出“媒体使用权利／许可：公有领域”。这提供了条目特定的作者与权利证据。"
+          }
+        },
+        "bytes": 187075,
+        "sha256": "18ca340b4589a2194ce2e0cca2d46b00d3a59017c8611e53a4b251968447099e",
+        "width": 1200,
+        "height": 1523,
+        "format": "jpeg",
+        "checkedAt": "2026-11-12",
+        "metadataI18n": {
+          "creator": {
+            "en": "U.S. Fish and Wildlife Service",
+            "zh": "美国鱼类与野生动物管理局"
+          },
+          "date": {
+            "en": "Circa 1944",
+            "zh": "约1944年"
+          },
+          "institution": {
+            "en": "U.S. Fish and Wildlife Service",
+            "zh": "美国鱼类与野生动物管理局"
+          }
+        },
+        "transformation": {
+          "en": "Institutional rendition saved byte-for-byte; no local crop, resize or re-encoding.",
+          "zh": "逐字节保存机构图像版本；未作本地裁剪、缩放或重新编码。"
+        }
+      }
+    },
+    {
+      "assetId": "us-archives-04-berlin",
+      "recordIds": [
+        "berlin-wall-opens"
+      ],
+      "sourceUrl": "https://unwritten-record.blogs.archives.gov/2019/11/07/the-berlin-wall-30-years-after-the-fall/",
+      "sourceFiles": [
+        "research/v18/us-archives-04/berlin.html",
+        "research/v18/us-archives-04/berlin.txt",
+        "research/v18/us-archives-04/nara-rights-prior-copy.html"
+      ],
+      "catalogUrl": null,
+      "catalogRead": false,
+      "sourceEvidence": "A crowd of West German citizens gathers at the newly created opening in the Berlin Wall at Potsdamer Platz. 11/14/1989 Local Identifier: 330-CFD-DF-ST-91-01380",
+      "rightsBasis": "NARA identifies the image as 330-CFD-DF-ST-91-01380 with a dated caption. Its embedded item metadata names Staff Sgt. F. Lee Corkran. The photographer’s military rank and official Combined Military Service image series establish federal production, not merely archival custody.",
+      "rightsSourceUrl": "https://unwritten-record.blogs.archives.gov/2019/11/07/the-berlin-wall-30-years-after-the-fall/",
+      "targetRecordFile": "research/v18/us-archives-04/target-records.json",
+      "entryRelationship": "Exact 1989 opening aftermath at Potsdamer Platz, distinguished from the first border opening and from 1990 reunification.",
+      "imageReceipt": {
+        "slug": "berlin",
+        "url": "https://i0.wp.com/unwritten-record.blogs.archives.gov/wp-content/uploads/sites/6/2019/11/DF-ST-91-01380.jpeg?resize=685%2C457&ssl=1",
+        "finalUrl": "https://i0.wp.com/unwritten-record.blogs.archives.gov/wp-content/uploads/sites/6/2019/11/DF-ST-91-01380.jpeg?resize=685%2C457&ssl=1",
+        "status": 200,
+        "bytes": 68861,
+        "headers": {
+          "server": "envoy",
+          "date": "Thu, 12 Nov 2026 00:41:42 GMT",
+          "content-type": "image/jpeg",
+          "content-length": "68861",
+          "last-modified": "Mon, 21 Sep 2026 00:16:34 GMT",
+          "expires": "Wed, 20 Sep 2028 12:16:34 GMT",
+          "cache-control": "public, max-age=63115200",
+          "link": "<https://unwritten-record.blogs.archives.gov/wp-content/uploads/sites/6/2019/11/DF-ST-91-01380.jpeg>; rel=\"canonical\"",
+          "x-content-type-options": "nosniff",
+          "etag": "\"3cedb2bdad1fa24c\"",
+          "x-bytes-saved": "4477",
+          "vary": "Accept",
+          "alt-svc": "clear",
+          "x-nc": "HIT dfw 1",
+          "server-timing": "a8c-cdn, dc;desc=dfw, cache;desc=HIT;dur=2.0",
+          "x-remembering": "Eric Binnion <https://friendsofericbinnion.wordpress.com/>",
+          "access-control-allow-origin": "*",
+          "access-control-allow-methods": "GET, HEAD",
+          "timing-allow-origin": "*",
+          "x-envoy-upstream-service-time": "70",
+          "connection": "close"
+        },
+        "width": 685,
+        "height": 457,
+        "format": "jpeg",
+        "sha256": "6df3a3794734ef516d4a6fd1993fd42c592d077d67b1ab8a8f2444b26a46d538",
+        "localFile": "research/v18/us-archives-04/images/berlin.jpg"
+      },
+      "visualInspection": {
+        "tool": "view_image",
+        "checkedAt": "2026-11-12",
+        "result": "Actual unmodified downloaded pixels inspected individually. Title, caption and alt checked against the image.",
+        "observations": "A crowd gathers between graffiti-covered sections of wall; several people stand on large bins to look through the opening."
+      },
+      "derivativeNote": "Exact image URL extracted from institutional HTML, including published data-large-file metadata when used.",
+      "approvedAsset": {
+        "id": "us-archives-04-berlin",
+        "file": "assets/history-media/us-archives-04-berlin.jpg",
+        "recordIds": [
+          "berlin-wall-opens"
+        ],
+        "kind": "photograph",
+        "representation": "historical-photograph",
+        "title": {
+          "en": "An opening in the Berlin Wall at Potsdamer Platz",
+          "zh": "波茨坦广场的柏林墙开口"
+        },
+        "caption": {
+          "en": "West Berliners gather at a newly opened gap in the Berlin Wall at Potsdamer Platz on 14 November 1989, five days after border crossings first opened.",
+          "zh": "1989年11月14日，西柏林居民聚集在波茨坦广场柏林墙的新开口旁；距边境通道最初开放已过五天。"
+        },
+        "alt": {
+          "en": "A crowd gathers between graffiti-covered sections of wall; several people stand on large bins to look through the opening.",
+          "zh": "人群聚集在涂鸦覆盖的墙段之间；几人站在大型垃圾箱上向开口处张望。"
+        },
+        "interpretation": {
+          "en": "People climb onto bins to see through a new gap in a barrier that had divided the city. This is 14 November, after crossings first opened on 9 November 1989. German reunification followed in 1990.",
+          "zh": "人们站上垃圾箱，透过曾分隔城市的屏障新开出的缺口向外看。此时是11月14日，晚于1989年11月9日边境通道首次开放；德国统一则发生在1990年。"
+        },
+        "creator": "Staff Sgt. F. Lee Corkran; U.S. Department of Defense",
+        "date": "14 November 1989",
+        "institution": "U.S. National Archives",
+        "sourceUrl": "https://unwritten-record.blogs.archives.gov/2019/11/07/the-berlin-wall-30-years-after-the-fall/",
+        "imageUrl": "https://i0.wp.com/unwritten-record.blogs.archives.gov/wp-content/uploads/sites/6/2019/11/DF-ST-91-01380.jpeg?resize=685%2C457&ssl=1",
+        "downloadedFrom": "https://i0.wp.com/unwritten-record.blogs.archives.gov/wp-content/uploads/sites/6/2019/11/DF-ST-91-01380.jpeg?resize=685%2C457&ssl=1",
+        "rightsSourceUrl": "https://unwritten-record.blogs.archives.gov/2019/11/07/the-berlin-wall-30-years-after-the-fall/",
+        "rights": {
+          "label": "Public domain",
+          "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "note": {
+            "en": "NARA identifies the image as 330-CFD-DF-ST-91-01380 with a dated caption. Its embedded item metadata names Staff Sgt. F. Lee Corkran. The photographer’s military rank and official Combined Military Service image series establish federal production, not merely archival custody.",
+            "zh": "国家档案馆以带日期的说明标识此图为330-CFD-DF-ST-91-01380，嵌入条目元数据署名F. 李·科克兰参谋军士。摄影者的军人身份和官方联合军种图像系列确立联邦制作来源，而非仅依赖馆藏身份。"
+          }
+        },
+        "bytes": 68861,
+        "sha256": "6df3a3794734ef516d4a6fd1993fd42c592d077d67b1ab8a8f2444b26a46d538",
+        "width": 685,
+        "height": 457,
+        "format": "jpeg",
+        "checkedAt": "2026-11-12",
+        "metadataI18n": {
+          "creator": {
+            "en": "Staff Sgt. F. Lee Corkran; U.S. Department of Defense",
+            "zh": "F. 李·科克兰参谋军士；美国国防部"
+          },
+          "date": {
+            "en": "14 November 1989",
+            "zh": "1989年11月14日"
+          },
+          "institution": {
+            "en": "U.S. National Archives",
+            "zh": "美国国家档案馆"
+          }
+        },
+        "transformation": {
+          "en": "Institutional rendition saved byte-for-byte; no local crop, resize or re-encoding.",
+          "zh": "逐字节保存机构图像版本；未作本地裁剪、缩放或重新编码。"
+        }
+      }
+    },
+    {
+      "assetId": "us-archives-04-mlk",
+      "recordIds": [
+        "person-martin-luther-king-jr"
+      ],
+      "sourceUrl": "https://docsteach.org/document/1-civil-rights-march-on-washington-dc-dr-martin-luther-king-jr-speaking/",
+      "sourceFiles": [
+        "research/v18/us-archives-04/mlk-docsteach.html",
+        "research/v18/us-archives-04/mlk-docsteach.txt",
+        "research/v18/us-archives-04/nara-rights-prior-copy.html",
+        "research/v18/us-archives-04/mlk-nixon.html",
+        "research/v18/us-archives-04/mlk-nixon.txt"
+      ],
+      "catalogUrl": "https://catalog.archives.gov/id/542069",
+      "catalogRead": false,
+      "sourceEvidence": "Full Citation: Civil Rights March on Washington, D.C. [Dr. Martin Luther King, Jr. speaking.]; 8/28/1963; Miscellaneous Subjects, Staff and Stringer Photographs, 1961–1974; Records of the U.S. Information Agency, Record Group 306; National Archives at College Park, College Park, MD.",
+      "rightsBasis": "DocsTeach identifies the exact image, NAID 542069, in the U.S. Information Agency’s Miscellaneous Subjects, Staff and Stringer Photographs and explicitly labels the primary source “Public Domain, Free of Known Copyright Restrictions.” The Nixon Library independently captions the same NAID and date. The clearance is for the photograph, not the speech.",
+      "rightsSourceUrl": "https://docsteach.org/document/1-civil-rights-march-on-washington-dc-dr-martin-luther-king-jr-speaking/",
+      "targetRecordFile": "research/v18/us-archives-04/target-records.json",
+      "entryRelationship": "Exact named person at the dated March on Washington; the institutional 250×250 rendition is retained, not enlarged locally.",
+      "imageReceipt": {
+        "slug": "mlk",
+        "url": "https://docsteach.org/wp-content/uploads/documents/542069/md_542069_5604.jpg",
+        "finalUrl": "https://docsteach.org/wp-content/uploads/documents/542069/md_542069_5604.jpg",
+        "status": 200,
+        "bytes": 7485,
+        "headers": {
+          "server": "envoy",
+          "date": "Thu, 12 Nov 2026 00:43:41 GMT",
+          "content-type": "image/jpeg",
+          "content-length": "7485",
+          "strict-transport-security": "max-age=31536000",
+          "last-modified": "Tue, 03 Nov 2026 11:29:40 GMT",
+          "etag": "\"6ae9c5a4-1d3d\"",
+          "expires": "Fri, 12 Nov 2027 00:43:41 GMT",
+          "cache-control": "max-age=31536000",
+          "access-control-allow-origin": "*",
+          "access-control-allow-methods": "GET, HEAD",
+          "x-ac": "1.dfw _atomic_dfw MISS",
+          "accept-ranges": "bytes",
+          "x-remembering": "Eric Binnion <https://friendsofericbinnion.wordpress.com/>",
+          "alt-svc": "clear",
+          "server-timing": "a8c-cdn, dc;desc=dfw, cache;desc=MISS;dur=43.0",
+          "x-envoy-upstream-service-time": "106",
+          "connection": "close"
+        },
+        "width": 250,
+        "height": 250,
+        "format": "jpeg",
+        "sha256": "6623be219d4f8ac60e86dfb32c373e7e62147dfe20ad4529854058ba0c50b4f0",
+        "localFile": "research/v18/us-archives-04/images/mlk.jpg"
+      },
+      "visualInspection": {
+        "tool": "view_image",
+        "checkedAt": "2026-11-12",
+        "result": "Actual unmodified downloaded pixels inspected individually. Title, caption and alt checked against the image.",
+        "observations": "Martin Luther King Jr. is seen in profile speaking into microphones; another man’s hat and head partly fill the foreground."
+      },
+      "derivativeNote": "Exact image URL extracted from institutional HTML, including published data-large-file metadata when used.",
+      "approvedAsset": {
+        "id": "us-archives-04-mlk",
+        "file": "assets/history-media/us-archives-04-mlk.jpg",
+        "recordIds": [
+          "person-martin-luther-king-jr"
+        ],
+        "kind": "photograph",
+        "representation": "historical-photograph",
+        "title": {
+          "en": "Martin Luther King Jr. at the March on Washington",
+          "zh": "华盛顿大游行中的小马丁·路德·金"
+        },
+        "caption": {
+          "en": "Martin Luther King Jr. speaks at the March on Washington on 28 August 1963, in a photograph filed by the U.S. Information Agency.",
+          "zh": "1963年8月28日，小马丁·路德·金在华盛顿大游行中演讲；此照片存于美国新闻署档案中。"
+        },
+        "alt": {
+          "en": "Martin Luther King Jr. is seen in profile speaking into microphones; another man’s hat and head partly fill the foreground.",
+          "zh": "小马丁·路德·金侧身对着话筒演讲；另一名男子的帽子与头部占据部分前景。"
+        },
+        "interpretation": {
+          "en": "King addresses the 1963 march at a bank of microphones. The tight framing concentrates on the speaker; the many organizers and participants who made the march possible extend beyond this view.",
+          "zh": "金在一排话筒前向1963年游行群众发表讲话。紧凑的取景集中于演讲者，使游行得以开展的众多组织者和参与者则延伸到画面之外。"
+        },
+        "creator": "U.S. Information Agency; photographer not named in the item record",
+        "date": "28 August 1963",
+        "institution": "U.S. National Archives; image supplied by DocsTeach",
+        "sourceUrl": "https://docsteach.org/document/1-civil-rights-march-on-washington-dc-dr-martin-luther-king-jr-speaking/",
+        "imageUrl": "https://docsteach.org/wp-content/uploads/documents/542069/md_542069_5604.jpg",
+        "downloadedFrom": "https://docsteach.org/wp-content/uploads/documents/542069/md_542069_5604.jpg",
+        "rightsSourceUrl": "https://docsteach.org/document/1-civil-rights-march-on-washington-dc-dr-martin-luther-king-jr-speaking/",
+        "rights": {
+          "label": "Public domain",
+          "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "note": {
+            "en": "DocsTeach identifies the exact image, NAID 542069, in the U.S. Information Agency’s Miscellaneous Subjects, Staff and Stringer Photographs and explicitly labels the primary source “Public Domain, Free of Known Copyright Restrictions.” The Nixon Library independently captions the same NAID and date. The clearance is for the photograph, not the speech.",
+            "zh": "DocsTeach将确切图像NAID 542069归入美国新闻署的杂项主题、职员与特约摄影照片系列，并明确将此原始资料标为“公有领域，无已知版权限制”。尼克松图书馆也独立注明相同档案编号和日期。使用依据针对照片，不涵盖演讲内容。"
+          }
+        },
+        "bytes": 7485,
+        "sha256": "6623be219d4f8ac60e86dfb32c373e7e62147dfe20ad4529854058ba0c50b4f0",
+        "width": 250,
+        "height": 250,
+        "format": "jpeg",
+        "checkedAt": "2026-11-12",
+        "metadataI18n": {
+          "creator": {
+            "en": "U.S. Information Agency; photographer not named in the item record",
+            "zh": "美国新闻署；条目未注明摄影者姓名"
+          },
+          "date": {
+            "en": "28 August 1963",
+            "zh": "1963年8月28日"
+          },
+          "institution": {
+            "en": "U.S. National Archives; image supplied by DocsTeach",
+            "zh": "美国国家档案馆；图像由DocsTeach提供"
+          }
+        },
+        "transformation": {
+          "en": "Institutional rendition saved byte-for-byte; no local crop, resize or re-encoding. The supplied image is 250×250 pixels; fine detail is limited.",
+          "zh": "逐字节保存机构图像版本；未作本地裁剪、缩放或重新编码。所提供图像为250×250像素，细节有限。"
+        }
+      }
+    }
+  ],
+  "scope": "Integrated eight exact-subject archival images after owner source, full target-record and pixel review. Catalogue identifier links were not independently opened.",
+  "targetRecords": [
+    {
+      "id": "apollo-11",
+      "title": {
+        "en": "Apollo 11: from Earth to the Moon",
+        "zh": "阿波罗11号：从地球到月球"
+      },
+      "start": 1969,
+      "end": 1969,
+      "location": {
+        "lat": 28.61,
+        "lon": -80.6,
+        "label": "Kennedy Space Center; Earth launch location"
+      },
+      "region": "north-america",
+      "theme": "knowledge",
+      "summary": {
+        "en": "Apollo 11 launched from Cape Kennedy on 16 July 1969 with Neil Armstrong, Buzz Aldrin and Michael Collins. Armstrong and Aldrin reached the lunar surface while Collins remained in lunar orbit. The mission combined landing and return objectives with scientific observations, experiments and sample collection. This Earth map places the event at its launch site, not at the landing location on the Moon; it offers a starting point for following a journey beyond the map.",
+        "zh": "1969年7月16日，阿波罗11号载着尼尔·阿姆斯特朗、巴兹·奥尔德林和迈克尔·柯林斯从肯尼迪角发射。阿姆斯特朗与奥尔德林到达月面，柯林斯留在绕月轨道。任务把登月和返回地球与观测、实验、样本采集结合起来。这张地球地图标示的是发射地点，而不是月球上的着陆点。"
+      },
+      "dateNote": {
+        "en": "Single-year mission; launch 16 July, lunar landing 20 July 1969. Coordinates are the Earth launch site.",
+        "zh": "单一年份任务：1969年7月16日发射，7月20日登月；坐标为地球发射地点。"
+      },
+      "locationPrecision": "representative",
+      "sources": [
+        {
+          "title": "Apollo 11 Mission Overview",
+          "url": "https://www.nasa.gov/missions/apollo/apollo-11/apollo-11-mission-overview/",
+          "publisher": "NASA",
+          "evidenceNote": "NASA mission account provides crew, launch and landing chronology, lunar orbit roles, experiments and sample objectives.",
+          "checkedAt": "2026-10-21"
+        }
+      ],
+      "ongoing": false,
+      "kind": "event",
+      "importance": 4
+    },
+    {
+      "id": "berlin-wall-opens",
+      "title": {
+        "en": "1989: the Berlin Wall opens",
+        "zh": "1989：柏林墙开放"
+      },
+      "start": 1989,
+      "end": 1989,
+      "region": "europe",
+      "theme": "states",
+      "kind": "event",
+      "importance": 5,
+      "location": {
+        "lat": 52.52,
+        "lon": 13.4,
+        "label": "Berlin"
+      },
+      "locationPrecision": "representative",
+      "summary": {
+        "en": "The opening of the Berlin Wall became a defining image of the upheavals that transformed Eastern Europe in 1989. Demonstrations, opposition movements and changes in Soviet policy weakened governments that had restricted political participation and movement. The border opening was part of this broader process, not its only cause. Different countries followed different paths, and the collapse of communist rule did not resolve every social or economic dispute. Berlin’s division had embodied the Cold War in a single city; its opening made a new European political order imaginable while leaving the work of reunification and institutional change ahead.",
+        "zh": "柏林墙开放成为1989年东欧剧变的标志。示威、反对运动和苏联政策变化，削弱了限制政治参与与人员流动的政府。边界开放属于更广过程，并非唯一原因。各国路径不同，共产党统治结束也未解决所有社会经济争议。柏林分裂曾把冷战具象为一座城市；开放使新的欧洲秩序成为可能，但统一与制度转型仍待完成。"
+      },
+      "dateNote": {
+        "en": "Border crossings opened on 9 November 1989; German reunification followed in 1990 and the Soviet Union dissolved in 1991.",
+        "zh": "边境通道于1989年11月9日开放；德国于1990年统一，苏联于1991年解体。"
+      },
+      "sources": [
+        {
+          "title": "The Fall of Communism in Eastern Europe, 1989",
+          "url": "https://history.state.gov/milestones/1989-1992/fall-of-communism",
+          "publisher": "U.S. Department of State, Office of the Historian",
+          "checkedAt": "2026-10-22",
+          "evidenceNote": "Border crossings opened on 9 November 1989; German reunification followed in 1990 and the Soviet Union dissolved in 1991."
+        }
+      ]
+    },
+    {
+      "id": "palestine-partition-war-1947-1949",
+      "title": {
+        "en": "1947–1949: partition proposals, Israel’s establishment and Palestinian displacement",
+        "zh": "1947—1949年：分治建议、以色列建国与巴勒斯坦人流离"
+      },
+      "start": 1947,
+      "end": 1949,
+      "region": "west-central-asia",
+      "kind": "event",
+      "theme": "states",
+      "location": {
+        "lat": 31.77,
+        "lon": 35.21,
+        "label": "Jerusalem; representative regional reference",
+        "labelI18n": {
+          "en": "Jerusalem; representative regional reference",
+          "zh": "耶路撒冷；地区的代表性参考位置"
+        },
+        "labelProvenance": "reviewed-display-translation"
+      },
+      "locationPrecision": "representative",
+      "importance": 3,
+      "summary": {
+        "en": "In 1947 the UN General Assembly recommended partition of the British Mandate territory into Arab and Jewish states with a special arrangement for Jerusalem. The recommendation was followed by war, the end of British rule and Israel’s declaration of establishment in May 1948. The military outcome did not simply implement the proposed map.\n\nPalestinians experienced mass displacement and dispossession, remembered as the Nakba, while Israeli state institutions emerged amid war and competing claims to sovereignty. A founding declaration records one political project; it does not resolve the history or rights of every population affected. This entry connects the events without treating refugee displacement as an incidental footnote or presenting 1949 armistice lines as universally agreed permanent borders. Source perspectives and the difference between proposals, declarations, control and recognition remain visible.",
+        "zh": "1947年联合国大会建议将英国委任统治地区分为阿拉伯国和犹太国，并为耶路撒冷设置特别安排。随后发生战争、英国统治结束，以及以色列于1948年5月宣布建国。军事结果并非简单落实建议地图。\n\n巴勒斯坦人遭受大规模流离和财产剥夺，以“纳克巴”即灾难记忆；以色列国家机构则在战争及相互竞争的主权主张中形成。建国宣言记录一种政治计划，不能解决所有受影响人口的历史或权利。本条把事件联系起来，既不把难民流离视为附带脚注，也不把1949年停战线当作普遍同意的永久边界，并保留建议、宣告、控制与承认之间的区别。"
+      },
+      "dateNote": {
+        "en": "1947–1949 transition and war. All three institutional bodies were inspected through indexed text because full pages failed or redirected. No new boundary geometry, casualty total or present legal-status claim is supplied.",
+        "zh": "1947—1949年转型与战争。三项机构来源正文均读取失败或跳转，本次通过索引文本查看。不添加新边界几何、伤亡总数或当前法律地位主张。"
+      },
+      "sources": [
+        {
+          "title": "History of the Question of Palestine",
+          "url": "https://www.un.org/unispal/history/",
+          "publisher": "United Nations, UNISPAL",
+          "evidenceNote": "Indexed institutional account of British mandate,1947 partition recommendation and 1948–1949 war. Full body retrieval failed; bounded historical facts only.",
+          "checkedAt": "2026-10-23",
+          "retrievalStatus": "indexed-text-only"
+        },
+        {
+          "title": "About the Nakba",
+          "url": "https://www.un.org/unispal/about-the-nakba/",
+          "publisher": "United Nations, UNISPAL",
+          "evidenceNote": "Indexed account of mass Palestinian displacement and dispossession during the 1948 war; full page returned 403. No unverified numerical total adopted.",
+          "checkedAt": "2026-10-23",
+          "retrievalStatus": "indexed-text-only"
+        },
+        {
+          "title": "Declaration of Independence",
+          "url": "https://main.knesset.gov.il/en/about/pages/declaration.aspx",
+          "publisher": "Knesset, State of Israel",
+          "evidenceNote": "Indexed primary declaration and institutional chronology of 14May 1948. Full page redirects to a geographic maintenance/unavailable page; declaration is a political source, not neutral settlement of every territorial claim.",
+          "checkedAt": "2026-10-23",
+          "retrievalStatus": "indexed-text-only"
+        }
+      ],
+      "relatedIds": [
+        "league-mandates-west-asia",
+        "second-world-war"
+      ],
+      "expansion": {
+        "workstreams": [
+          "WA3"
+        ],
+        "release": 3,
+        "sourceReview": "Source-noted synthesis; see individual retrievalStatus and V9_SOUTH_WEST_ASIA_RESEARCH.md. Date windows and pins are editorial references, not verified frontiers."
+      },
+      "keyFacts": {
+        "en": [
+          "In1947 the UN General Assembly recommended partition of the British Mandate territory into Arab and Jewish states with a special arrangement for Jerusalem.",
+          "The recommendation was followed by war, the end of British rule and Israel’s declaration of establishment in May1948."
+        ],
+        "zh": [
+          "1947年联合国大会建议将英国委任统治地区分为阿拉伯国和犹太国，并为耶路撒冷设置特别安排。",
+          "随后发生战争、英国统治结束，以及以色列于1948年5月宣布建国。"
+        ]
+      }
+    },
+    {
+      "id": "bracero-contracts-oral-histories",
+      "title": {
+        "en": "Bracero contracts · Promises, work and remembered choices",
+        "zh": "布拉塞罗契约 · 承诺、劳动与回忆中的选择"
+      },
+      "start": 1942,
+      "end": 1964,
+      "region": "north-america",
+      "theme": "exchange",
+      "kind": "event",
+      "importance": 3,
+      "location": {
+        "lat": 32.67,
+        "lon": -115.5,
+        "label": "Mexicali–Calexico border region, representative labour corridor",
+        "labelI18n": {
+          "en": "Mexicali–Calexico border region, representative labour corridor",
+          "zh": "墨西卡利—卡莱克西科边境，代表性劳工通道"
+        }
+      },
+      "locationPrecision": "representative",
+      "summary": {
+        "en": "Between 1942 and 1964, agreements between Mexico and the United States brought Mexican workers north on temporary contracts. The paperwork promised protections for wages, housing and return transport; enforcement often fell short. Oral histories reveal decisions that an administrative total cannot explain. Ángel Guzmán Domínguez remembered friends gathering around a letter from the United States, then the uncertainty of recruitment and the lack of choice over assigned work. Other family testimony described debts and the effort to combine field labour with education. Labour archives preserve another perspective: organizers’ correspondence and campaigns over wages and the use of imported workers. Reading these sources together connects migration to household plans, employer power and collective action, without treating every contract as a different person or every worker’s experience as the same.",
+        "zh": "1942至1964年，墨美两国协议使墨西哥劳工持短期契约赴美工作。文书承诺工资、住房与返乡交通方面的保护，执行却常有落差。口述历史揭示行政总数无法解释的选择。安赫尔·古斯曼·多明格斯回忆，朋友们围看一封来自美国的信，随后面对招募的不确定，以及无法自行选择所分配工作的处境。另一些家庭证词描述债务，以及兼顾田间劳动与求学的努力。劳工档案保存另一视角：组织者围绕工资和引入劳工问题的通信与行动。将这些材料并读，可把迁移与家庭计划、雇主权力和集体行动相连，同时避免把每份契约算作不同个人，或把所有劳工经验写成一样。"
+      },
+      "dateNote": {
+        "en": "1942–1964 dates the bilateral programme, not all Mexican migration. The point represents a border region, not the interviewees’ verified itinerary.",
+        "zh": "1942—1964年指双边计划，并非所有墨西哥移民的起止。地图点代表边境地区，不是受访者已核实的路线。"
+      },
+      "sources": [
+        {
+          "title": "An Introduction to the Bracero Program: Historical Investigation",
+          "publisher": "Smithsonian National Museum of American History",
+          "url": "https://americanhistory.si.edu/sites/default/files/Bracero%20Historical%20Investigation.pdf",
+          "evidenceNote": "Programme dates, contractual safeguards, enforcement problems and attributed Guzmán Domínguez and Pompa oral-history excerpts.",
+          "evidenceNoteZh": "计划年代、契约保障、执行问题，以及注明讲述者的古斯曼·多明格斯和蓬帕口述片段。",
+          "checkedAt": "2026-11-09",
+          "retrieval": "opened-teaching-pdf-with-primary-excerpts"
+        },
+        {
+          "title": "Bracero Workers: Kheel LatinX Labor Collections Guide",
+          "publisher": "Cornell University Library",
+          "url": "https://guides.library.cornell.edu/latinxlabor/bracero",
+          "evidenceNote": "Describes union correspondence, organizing records, wage debates and the archive’s scope; underlying files not inspected.",
+          "evidenceNoteZh": "说明工会通信、组织记录、工资争论与馆藏范围；未查阅其下每件档案。",
+          "checkedAt": "2026-11-09",
+          "retrieval": "opened-archival-finding-guide"
+        }
+      ],
+      "relatedIds": [
+        "delano-grape-strike",
+        "person-dolores-huerta",
+        "treaty-guadalupe-hidalgo"
+      ],
+      "expansion": {
+        "release": 11,
+        "edition": "v17",
+        "workstreams": [
+          "NA3",
+          "LA4"
+        ],
+        "sourceReview": "Original bilingual synthesis of inspected community, institutional and archival sources; source-specific coverage is recorded below.",
+        "reviewLimit": {
+          "en": "Oral histories are attributed recollections. The archival guide establishes what records exist, not the truth of every allegation in those records.",
+          "zh": "口述史是注明讲述者的回忆；档案指南证明有关记录存在，并不证明记录中每项指控都属实。"
+        }
+      }
+    },
+    {
+      "id": "person-nelson-mandela",
+      "name": {
+        "en": "Nelson Mandela",
+        "zh": "纳尔逊·曼德拉"
+      },
+      "title": {
+        "en": "Nelson Mandela · From resistance to democratic transition",
+        "zh": "纳尔逊·曼德拉 · 从抵抗到民主转型"
+      },
+      "kind": "person",
+      "start": 1918,
+      "end": 2013,
+      "location": {
+        "lat": -26.2,
+        "lon": 28.04,
+        "label": "Johannesburg"
+      },
+      "region": "africa",
+      "theme": "states",
+      "summary": {
+        "en": "Nelson Mandela’s political life unfolded within a much larger struggle against apartheid. He helped build the African National Congress Youth League, worked in legal and mass-action campaigns, and later supported armed resistance after the state closed avenues for peaceful opposition. Imprisonment separated him from public political life for decades, but did not end the movement. His release in 1990 and subsequent negotiations helped create conditions for the inclusive national election of 1994. As president, he faced the difficult task of turning political rights into a new governing order. His biography is most useful when read with the work of fellow activists, communities, and negotiating partners whose choices also shaped the transition.",
+        "zh": "曼德拉的政治生涯属于更广泛的反种族隔离斗争。他参与建立非洲人国民大会青年联盟，投入法律工作和群众运动，并在国家堵塞和平反对途径后支持武装抵抗。数十年的监禁使他远离公开政治生活，却未终止整个运动。1990年获释以及随后的谈判，帮助创造了1994年包容性全国选举的条件。担任总统后，他面对把政治权利转化为新治理秩序的艰难任务。将其生平与其他活动者、社区及谈判参与者并读，更能理解共同塑造转型的多种选择。"
+      },
+      "dateNote": {
+        "en": "Lifespan 1918–2013. The 1990 release and 1994 election/inauguration are distinct stages of a longer transition.",
+        "zh": "生卒年为1918—2013年。1990年获释与1994年选举、就职，是长期转型中的不同阶段。"
+      },
+      "locationPrecision": "representative",
+      "importance": 4,
+      "sources": [
+        {
+          "title": "Biography of Nelson Mandela",
+          "url": "https://www.nelsonmandela.org/biography",
+          "publisher": "Nelson Mandela Foundation",
+          "evidenceNote": "Life chronology, collective struggle, imprisonment, negotiations, election and presidency.",
+          "checkedAt": "2026-10-22"
+        }
+      ],
+      "milestones": [
+        {
+          "year": 1944,
+          "title": {
+            "en": "ANC Youth League",
+            "zh": "非国大青年联盟"
+          },
+          "description": {
+            "en": "Helped establish the organisation in Johannesburg.",
+            "zh": "参与在约翰内斯堡建立这一组织。"
+          },
+          "location": {
+            "lat": -26.2,
+            "lon": 28.04,
+            "label": "Johannesburg"
+          },
+          "approximate": false
+        },
+        {
+          "year": 1964,
+          "title": {
+            "en": "Life imprisonment",
+            "zh": "终身监禁"
+          },
+          "description": {
+            "en": "Sentenced in the Rivonia Trial and imprisoned on Robben Island.",
+            "zh": "在里沃尼亚审判中被判终身监禁，后囚于罗本岛。"
+          },
+          "location": {
+            "lat": -33.81,
+            "lon": 18.37,
+            "label": "Robben Island"
+          },
+          "approximate": false
+        },
+        {
+          "year": 1990,
+          "title": {
+            "en": "Release from prison",
+            "zh": "获释出狱"
+          },
+          "description": {
+            "en": "Released from Victor Verster Prison near Paarl.",
+            "zh": "从帕尔附近的维克托·韦斯特监狱获释。"
+          },
+          "location": {
+            "lat": -33.85,
+            "lon": 18.99,
+            "label": "Victor Verster Prison"
+          },
+          "approximate": false
+        },
+        {
+          "year": 1994,
+          "title": {
+            "en": "A democratic presidency",
+            "zh": "民主总统任期"
+          },
+          "description": {
+            "en": "Inaugurated in Pretoria after the inclusive national election.",
+            "zh": "在包容性全国选举后于比勒陀利亚就职。"
+          },
+          "location": {
+            "lat": -25.74,
+            "lon": 28.21,
+            "label": "Union Buildings, Pretoria"
+          },
+          "approximate": false
+        }
+      ]
+    },
+    {
+      "id": "person-rachel-carson",
+      "title": {
+        "en": "Rachel Carson · Making ecological relationships public",
+        "zh": "蕾切尔·卡森 · 让生态关系进入公共讨论"
+      },
+      "start": 1907,
+      "end": 1964,
+      "region": "north-america",
+      "theme": "knowledge",
+      "kind": "person",
+      "location": {
+        "lat": 39.02,
+        "lon": -77.04,
+        "label": "Silver Spring; representative writing setting"
+      },
+      "locationPrecision": "representative",
+      "importance": 4,
+      "ongoing": false,
+      "summary": {
+        "en": "Rachel Carson combined work as a marine biologist with writing for a broad public. At the U.S. Fish and Wildlife Service she prepared and edited publications that explained wildlife and ecological relationships. The success of The Sea Around Us in 1951 allowed her to devote more time to independent writing.\n\nSilent Spring, published in 1962, assembled research on the effects of pesticide use across living systems. Carson worked with other scientists and researchers, making the book a synthesis of collective evidence as well as an individual literary achievement. Industry opposition and public debate made questions about environmental responsibility matters of political authority. Her work helped enlarge the audience for ecological thinking. It did not call for the simple rejection of all science or all pest control; it asked how evidence about harm should change decisions affecting shared environments.",
+        "zh": "蕾切尔·卡森把海洋生物学工作同面向大众的写作结合。在美国鱼类及野生动物管理局，她撰写和编辑解释野生动物与生态关系的出版物。1951年《我们周围的海洋》成功后，她得以投入更多时间独立写作。\n\n1962年出版的《寂静的春天》，汇集农药使用影响生命系统的研究。卡森与其他科学家和研究者合作，因此这本书既是个人文学成就，也是集体证据的综合。行业反对与公众辩论，使环境责任成为政治权威问题。她的工作扩大生态思维的公众范围，并非主张简单拒绝全部科学或害虫防治，而是追问危害证据应如何改变影响共同环境的决定。"
+      },
+      "dateNote": {
+        "en": "Lifespan 1907–1964; publication years distinguish the public milestones from later policy changes.",
+        "zh": "生卒年1907—1964；出版年份同后来的政策变化区分。"
+      },
+      "sources": [
+        {
+          "title": "Rachel Carson (1907-1964) Author of the Modern ...",
+          "url": "https://www.fws.gov/staff-profile/rachel-carson-1907-1964-author-modern-environmental-movement",
+          "publisher": "www.fws.gov",
+          "evidenceNote": "Agency biography on scientific career, publications and research collaboration. Access: opened-page-extract.",
+          "checkedAt": "2026-10-23",
+          "retrieval": "opened-page-extract"
+        },
+        {
+          "title": "Rachel Carson",
+          "url": "https://www.nps.gov/people/rachel-carson.htm",
+          "publisher": "U.S. National Park Service",
+          "evidenceNote": "NPS biographical interpretation and ecological influence. Access: indexed-excerpt.",
+          "checkedAt": "2026-10-23",
+          "retrieval": "indexed-excerpt"
+        }
+      ],
+      "relatedIds": [
+        "new-deal-social-state",
+        "human-genome-project-completion"
+      ],
+      "expansion": {
+        "workstreams": [
+          "NA3"
+        ],
+        "release": 3,
+        "sourceReview": "Source-specific retrieved excerpts inspected; full-page access limitations retained in source notes."
+      },
+      "keyFacts": {
+        "en": [
+          "Rachel Carson combined work as a marine biologist with writing for a broad public.",
+          "Silent Spring, published in 1962, assembled research on the effects of pesticide use across living systems."
+        ],
+        "zh": [
+          "蕾切尔·卡森把海洋生物学工作同面向大众的写作结合。",
+          "1962年出版的《寂静的春天》，汇集农药使用影响生命系统的研究。"
+        ]
+      },
+      "name": {
+        "en": "Rachel Carson",
+        "zh": "蕾切尔·卡森"
+      },
+      "milestones": [
+        {
+          "year": 1951,
+          "title": {
+            "en": "The Sea Around Us",
+            "zh": "《我们周围的海洋》"
+          },
+          "description": {
+            "en": "Her marine science book reached a broad readership.",
+            "zh": "她的海洋科学著作获得广泛读者。"
+          },
+          "location": {
+            "lat": 38.89,
+            "lon": -77.03,
+            "label": "Washington, D.C.; agency and research context, not a verified publication itinerary"
+          },
+          "approximate": false
+        },
+        {
+          "year": 1962,
+          "title": {
+            "en": "Silent Spring",
+            "zh": "《寂静的春天》"
+          },
+          "description": {
+            "en": "She published her synthesis of pesticide research.",
+            "zh": "她出版综合农药研究的著作。"
+          },
+          "location": {
+            "lat": 39.02,
+            "lon": -77.04,
+            "label": "Silver Spring; representative writing setting"
+          },
+          "approximate": false
+        }
+      ]
+    },
+    {
+      "id": "person-vaclav-havel",
+      "title": {
+        "en": "Václav Havel · Theatre, dissent and constitutional office",
+        "zh": "瓦茨拉夫·哈维尔 · 戏剧、异议与宪制职位"
+      },
+      "start": 1936,
+      "end": 2011,
+      "region": "europe",
+      "kind": "person",
+      "theme": "culture",
+      "location": {
+        "lat": 50.08,
+        "lon": 14.42,
+        "label": "Prague; representative theatre and political setting"
+      },
+      "locationPrecision": "representative",
+      "importance": 4,
+      "summary": {
+        "en": "Havel’s career linked theatre and public argument to organized dissent in communist Czechoslovakia. Restrictions on publication and repeated imprisonment shaped the conditions under which he wrote. Charter 77, for which he served as one of the first spokespersons, joined particular people in a rights-based initiative; it was not simply another name for the whole population’s political views.\n\nIn November 1989 he became a leading representative of Civic Forum, and the Federal Assembly elected him president on 29 December. He later became the first president of the separate Czech Republic. The transition from dissident writer to office-holder raises questions about institutions, compromise and the responsibilities of governing, not only personal moral reputation. His plays, essays, documents and the testimony of others provide different kinds of evidence. This biography connects the Prague Spring, later civic mobilization and the constitutional changes already represented elsewhere in the atlas.",
+        "zh": "哈维尔的生涯把戏剧与公共论辩，同共产主义捷克斯洛伐克的有组织异议联系起来。出版限制和反复入狱，塑造了其写作条件。他担任七七宪章最初发言人之一；这项以权利为基础的行动联系特定参与者，并不等于全体人口政治观点的另一个名称。\n\n1989年11月，他成为公民论坛的重要代表，联邦议会于12月29日选举他为总统。后来，他成为独立捷克共和国的首任总统。从异议作家到任职者的转变，提出关于制度、妥协和治理责任的问题，而不只是个人道德声望。戏剧、散文、文书及其他人的证言，提供不同类型的证据。本传记连接布拉格之春、后来的公民动员，以及本图其他条目已呈现的宪制变化。"
+      },
+      "dateNote": {
+        "en": "Life: 1936–2011. Election to Czechoslovak president: 29 December 1989, following Prague Castle; the library timeline’s 1990 heading is inconsistent.",
+        "zh": "生卒1936—2011年。捷克斯洛伐克总统选举采用布拉格城堡资料的1989年12月29日；图书馆年表的1990年标题存在矛盾。"
+      },
+      "sources": [
+        {
+          "title": "Václav Havel",
+          "url": "https://www.hrad.cz/en/president-of-the-cr/former-presidents/vaclav-havel",
+          "publisher": "Office of the President of the Czech Republic — Prague Castle",
+          "evidenceNote": "1936–2011; Charter 77, November 1989 movement, presidential election on 29 December 1989 and 1993 Czech presidency. Retrieval: full-page text inspected.",
+          "checkedAt": "2026-10-23"
+        },
+        {
+          "title": "Václav Havel: biography and timeline",
+          "url": "https://www.vaclavhavel.cz/en/index/about",
+          "publisher": "Václav Havel Library / 1st Presidential Library",
+          "evidenceNote": "Theatre, Charter 77, imprisonment and civic action. Timeline puts the December presidential election under 1990; this entry uses the corroborating Prague Castle date 1989. Retrieval: full-page text inspected.",
+          "checkedAt": "2026-10-23"
+        }
+      ],
+      "relatedIds": [
+        "prague-spring-radio-1968",
+        "czechoslovakia-dissolution",
+        "solidarity-workers-civic-change"
+      ],
+      "expansion": {
+        "workstreams": [
+          "EU3"
+        ],
+        "release": 3,
+        "sourceReview": "Source-grounded original bilingual synthesis; per-source retrieval and evidence limits are disclosed."
+      },
+      "keyFacts": {
+        "en": [
+          "Havel’s career linked theatre and public argument to organized dissent in communist Czechoslovakia.",
+          "Restrictions on publication and repeated imprisonment shaped the conditions under which he wrote."
+        ],
+        "zh": [
+          "哈维尔的生涯把戏剧与公共论辩，同共产主义捷克斯洛伐克的有组织异议联系起来。",
+          "出版限制和反复入狱，塑造了其写作条件。"
+        ]
+      },
+      "name": {
+        "en": "Václav Havel",
+        "zh": "瓦茨拉夫·哈维尔"
+      },
+      "milestones": [
+        {
+          "year": 1977,
+          "title": {
+            "en": "Charter 77 spokesperson",
+            "zh": "七七宪章发言人"
+          },
+          "description": {
+            "en": "He was a founding participant and one of the first spokespersons.",
+            "zh": "他是发起参与者及最初发言人之一。"
+          },
+          "location": {
+            "lat": 50.08,
+            "lon": 14.42,
+            "label": "Prague"
+          },
+          "approximate": false
+        },
+        {
+          "year": 1989,
+          "title": {
+            "en": "Elected president",
+            "zh": "当选总统"
+          },
+          "description": {
+            "en": "The Federal Assembly elected him on 29 December 1989.",
+            "zh": "联邦议会于1989年12月29日选举他。"
+          },
+          "location": {
+            "lat": 50.09,
+            "lon": 14.4,
+            "label": "Prague Castle; institutional reference"
+          },
+          "approximate": false
+        },
+        {
+          "year": 1993,
+          "title": {
+            "en": "Czech presidency",
+            "zh": "捷克总统职位"
+          },
+          "description": {
+            "en": "He became the first president of the independent Czech Republic.",
+            "zh": "他成为独立捷克共和国的首任总统。"
+          },
+          "location": {
+            "lat": 50.09,
+            "lon": 14.4,
+            "label": "Prague Castle"
+          },
+          "approximate": false
+        }
+      ]
+    },
+    {
+      "id": "person-martin-luther-king-jr",
+      "title": {
+        "en": "Martin Luther King Jr. · Churches, collective action and economic justice",
+        "zh": "小马丁·路德·金 · 教会、集体行动与经济正义"
+      },
+      "start": 1929,
+      "end": 1968,
+      "region": "north-america",
+      "kind": "person",
+      "theme": "states",
+      "importance": 4,
+      "location": {
+        "lat": 33.76,
+        "lon": -84.37,
+        "label": "Atlanta, Georgia; Ebenezer Baptist Church and organizing context"
+      },
+      "locationPrecision": "representative",
+      "summary": {
+        "en": "Martin Luther King Jr. developed his public voice through education, Baptist ministry and organized struggle against segregation. Study at Morehouse, Crozer and Boston University preceded his 1954 pastorate at Dexter Avenue Baptist Church in Montgomery. When the city’s Black residents began their bus boycott in 1955, he became a leading spokesman within a campaign sustained by many organizers, churches, workers and households.\n\nThe boycott exposed him and his family to arrest, bombing and intimidation. His subsequent leadership in the Southern Christian Leadership Conference helped connect local campaigns, drawing on Christian argument and nonviolent action. From 1960 he also served as co-pastor at Atlanta’s Ebenezer Baptist Church. A church was a workplace and organizing institution, not only the setting for memorable speeches.\n\nThe Nobel Peace Prize in 1964 recognized his movement leadership, but recognition did not complete the struggle. In 1968 Memphis sanitation workers demanded union recognition, safer equipment and adequate wages after two colleagues were killed. Their campaign had its own local leaders and a history preceding King’s arrival. He joined because racial equality and economic justice could not be separated.\n\nThe March protest he helped lead ended in violence, and police attacked demonstrators; he nevertheless returned to support continued nonviolent organizing. He was assassinated at the Lorraine Motel on 4 April. Workers and supporters continued afterward, reaching an agreement later that month. His life story therefore points outward to the institutions and collective labor that made action possible, rather than making one speaker responsible for every civil-rights achievement.",
+        "zh": "小马丁·路德·金通过教育、浸信会牧职及反对种族隔离的组织行动，形成公共表达。在莫尔豪斯学院、克罗泽神学院与波士顿大学学习后，他1954年到蒙哥马利德克斯特大道浸信会教堂任牧师。1955年当地黑人居民开始抵制公共汽车时，他成为重要发言人；运动依靠众多组织者、教会、工人和家庭维持。\n\n抵制使他及家人遭遇逮捕、炸弹袭击与恐吓。此后他领导南方基督教领袖会议，以基督教论述和非暴力行动连接地方运动。自1960年起，他还在亚特兰大埃比尼泽浸信会教堂担任共同牧师。教会是工作与组织机构，不只是著名演讲的背景。\n\n1964年诺贝尔和平奖认可其运动领导作用，但获奖并未完成斗争。1968年，两位同事遇难后，孟菲斯清洁工要求工会承认、较安全的设备和足够工资。当地运动有自己的领袖和早于金到访的历史。他参与是因为种族平等与经济正义无法分开。\n\n他协助领导的3月示威以暴力告终，警察袭击参加者；他仍返回支持继续的非暴力组织。4月4日，他在洛林汽车旅馆遇刺。工人和支持者随后继续行动，在当月晚些时候达成协议。其生平因此把目光引向使行动成为可能的制度与集体劳动，而不把所有民权成果归于一位演说者。"
+      },
+      "dateNote": {
+        "en": "Lifespan 1929–1968. Milestones distinguish Montgomery pastorate/boycott, Atlanta co-pastorate and Memphis support/assassination. The source biography’s historical terminology is not adopted as current narration. Local workers’ struggle continued after his death.",
+        "zh": "生卒1929—1968年。节点区分蒙哥马利牧职与抵制、亚特兰大共同牧职，以及在孟菲斯的支持行动和遇刺。不把来源传记中的历史称谓直接用作当前叙述。当地工人的斗争在他去世后继续。"
+      },
+      "sources": [
+        {
+          "title": "Martin Luther King Jr. – Biographical",
+          "publisher": "Nobel Foundation / NobelPrize.org",
+          "url": "https://www.nobelprize.org/prizes/peace/1964/king/biographical/",
+          "evidenceNote": "Actual source text captured centrally through the root Codex in-app browser and read locally by the regional author. Historical biography: 1929–1968 lifespan, Morehouse/Crozer/Boston education, 1954 Dexter Avenue pastorate in Montgomery, 1955 boycott leadership, 1957 SCLC presidency, 1960 Atlanta co-pastorate, 1964 Nobel award and 1968 Memphis death. Dated terminology, numerical publicity claims, sole-leader framing and contemporary party-campaign wording are not adopted.",
+          "checkedAt": "2026-10-24",
+          "retrieval": "inspected-central-browser-capture"
+        },
+        {
+          "title": "Memphis Sanitation Workers' Strike",
+          "publisher": "Martin Luther King, Jr. Research and Education Institute, Stanford University",
+          "url": "https://kinginstitute.stanford.edu/encyclopedia/memphis-sanitation-workers-strike",
+          "evidenceNote": "Actual source text captured centrally through the root Codex in-app browser and read locally by the regional author. Full historical entry: 1 February 1968 deaths of Echol Cole and Robert Walker, 12 February strike, union/safety/wage demands, local organizers and ministers, 18 and 28 March King involvement, police violence, 3 April return, 4 April assassination, 8 April march and 16 April agreement, later enforcement pressure. No King speech text is reproduced.",
+          "checkedAt": "2026-10-24",
+          "retrieval": "inspected-central-browser-capture"
+        }
+      ],
+      "relatedIds": [
+        "memphis-sanitation-strike-1968",
+        "montgomery-bus-boycott",
+        "us-civil-rights-movement"
+      ],
+      "expansion": {
+        "workstreams": [
+          "NA3"
+        ],
+        "release": 6,
+        "edition": "v12",
+        "sourceReview": "inspected-source-synthesis",
+        "reviewLimit": {
+          "en": "Source text was captured centrally in the Codex in-app browser and inspected locally for the claims described. This selected narrative does not establish every participant’s experience, exact routes or historical boundaries.",
+          "zh": "来源文本由主研究流程在Codex内置浏览器中获取，本区域作者逐项阅读相应文本。这段精选叙述不确立每位参与者的经历、精确行程或历史疆界。"
+        }
+      },
+      "name": {
+        "en": "Martin Luther King Jr.",
+        "zh": "小马丁·路德·金"
+      },
+      "aliases": [
+        "Martin Luther King",
+        "MLK"
+      ],
+      "milestones": [
+        {
+          "year": 1954,
+          "title": {
+            "en": "Pastor in Montgomery",
+            "zh": "在蒙哥马利任牧师"
+          },
+          "description": {
+            "en": "He became pastor of Dexter Avenue Baptist Church.",
+            "zh": "到德克斯特大道浸信会教堂任牧师。"
+          },
+          "location": {
+            "lat": 32.38,
+            "lon": -86.3,
+            "label": "Montgomery, Alabama; church and boycott organizing setting"
+          },
+          "approximate": false
+        },
+        {
+          "year": 1955,
+          "title": {
+            "en": "Leadership within a boycott",
+            "zh": "在抵制运动中承担领导工作"
+          },
+          "description": {
+            "en": "He became a spokesman for a community campaign against segregated buses.",
+            "zh": "在社区反对公共汽车隔离的运动中担任发言人。"
+          },
+          "location": {
+            "lat": 32.38,
+            "lon": -86.3,
+            "label": "Montgomery, Alabama; church and boycott organizing setting"
+          },
+          "approximate": false
+        },
+        {
+          "year": 1960,
+          "title": {
+            "en": "Co-pastor at Ebenezer",
+            "zh": "在埃比尼泽担任共同牧师"
+          },
+          "description": {
+            "en": "He joined his father in the Atlanta church’s ministry while continuing movement work.",
+            "zh": "在亚特兰大教会与父亲共同从事牧职，同时继续运动工作。"
+          },
+          "location": {
+            "lat": 33.76,
+            "lon": -84.37,
+            "label": "Atlanta, Georgia; Ebenezer Baptist Church and organizing context"
+          },
+          "approximate": false
+        },
+        {
+          "year": 1968,
+          "title": {
+            "en": "Supporting sanitation workers",
+            "zh": "支持清洁工"
+          },
+          "description": {
+            "en": "He addressed workers in Memphis in March and returned in April to support their demands.",
+            "zh": "3月在孟菲斯向工人演讲，4月返回支持其诉求。"
+          },
+          "location": {
+            "lat": 35.13,
+            "lon": -90.06,
+            "label": "Memphis, Tennessee; representative sanitation strike and final campaign setting"
+          },
+          "approximate": false
+        },
+        {
+          "year": 1968,
+          "title": {
+            "en": "Assassinated at the Lorraine Motel",
+            "zh": "在洛林汽车旅馆遇刺"
+          },
+          "description": {
+            "en": "He was killed on 4 April while in Memphis for the workers’ campaign.",
+            "zh": "4月4日在孟菲斯支持工人运动期间被杀害。"
+          },
+          "location": {
+            "lat": 35.13,
+            "lon": -90.06,
+            "label": "Lorraine Motel, Memphis; representative assassination site"
+          },
+          "approximate": false
+        }
+      ]
+    }
+  ],
+  "ownerReview": "All eight original image files individually viewed. Reduced generic defensive commentary while retaining source perspective, precise chronology, limited resolution and rights evidence. Classified Carson as a photographic portrait. Apollo is distinct NARA item AS11-40-5903_alt, not the held NASA image AS11-40-5874."
+}
