@@ -1,0 +1,1794 @@
+{
+  "reviewedAt": "2026-11-12",
+  "items": [
+    {
+      "assetId": "getty-images-07-examinations",
+      "decision": "admitted after owner source, pixel and narrative review",
+      "researchFile": "research/v18/getty-images-07/examination-rossier.jpg",
+      "productionFile": "assets/history-media/getty-images-07-examinations.jpg",
+      "recordIds": [
+        "china-event-qing-048"
+      ],
+      "fullOriginalTargets": [
+        {
+          "id": "china-event-qing-048",
+          "title": {
+            "en": "The Qing court abolishes the imperial examinations, ending a 1,300-year institution",
+            "zh": "清廷废除科举，延续一千三百年的取士制度终结"
+          },
+          "start": 1905,
+          "end": 1905,
+          "location": {
+            "lon": 116.4,
+            "lat": 39.9,
+            "label": "Beijing",
+            "labelI18n": {
+              "en": "Beijing",
+              "zh": "北京"
+            },
+            "labelProvenance": "inherited-source-place-pair"
+          },
+          "region": "east-asia",
+          "theme": "states",
+          "kind": "event",
+          "importance": 1,
+          "summary": {
+            "en": "The Qing court abolishes the imperial examinations, ending a 1,300-year institution",
+            "zh": "清廷废除科举，延续一千三百年的取士制度终结"
+          },
+          "dateNote": {
+            "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+            "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+          },
+          "locationPrecision": "representative",
+          "sources": [
+            {
+              "title": "Chronicles of the Realm — js/map_data.js (frozen source dataset)",
+              "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/map_data.js",
+              "publisher": "DeanChensj / Chronicles of the Realm",
+              "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+              "checkedAt": "2026-10-23"
+            }
+          ],
+          "aliases": [
+            "北京",
+            "Beijing"
+          ],
+          "provenance": {
+            "dataset": "jiangshan",
+            "status": "inherited",
+            "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+            "periodId": "qing",
+            "periodIds": [
+              "qing"
+            ],
+            "sourceRecords": [
+              {
+                "file": "js/map_data.js",
+                "path": "/DYNASTY_DATA/15/milestones/47",
+                "index": 47
+              }
+            ],
+            "note": {
+              "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+              "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+            }
+          },
+          "relatedIds": [
+            "qing-dynasty"
+          ]
+        }
+      ],
+      "relationship": "The target concerns abolition of the imperial examinations. This explicitly catalogued Guangzhou examination compound supplies the physical institutional setting, with the earlier photographic date stated; it is not claimed to document the 1905 decision.",
+      "sourceSchema": {
+        "name": "Canton. The Examination Hall.",
+        "identifier": [
+          "84.XC.759.30.27"
+        ],
+        "material": "Albumen silver print",
+        "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+        "thumbnailUrl": "https://media.getty.edu/iiif/image/f3e6574e-e626-4fef-80b5-f20fb436c5d7/full/!300,300/0/default.jpg",
+        "creditText": [
+          "<p>Images provided here are believed to be in the public domain and     are available under <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>     through Getty&rsquo;s <a href=\"http://www.getty.edu/about/opencontent.html\">Open Content Program</a>.     Texts provided here are &copy; J. Paul Getty Trust, licensed under     <a href=\"https://creativecommons.org/licenses/by/4.0/legalcode\">CC BY 4.0</a>.     Terms of use for the Getty logo can be found     <a href=\"http://www.getty.edu/legal/copyright.html#logo\"> here</a>.    </p>"
+        ],
+        "url": "https://www.getty.edu/art/collection/object/107EZS",
+        "sameAs": "https://www.getty.edu/art/collection/object/107EZS",
+        "creator": [
+          {
+            "name": "Pierre Joseph Rossier",
+            "url": "https://www.getty.edu/art/collection/person/104W33",
+            "sameAs": "https://www.getty.edu/art/collection/person/104W33",
+            "@type": "Person"
+          },
+          {
+            "name": "Negretti & Zambra",
+            "url": "https://www.getty.edu/art/collection/group/104NWN",
+            "sameAs": "https://www.getty.edu/art/collection/group/104NWN",
+            "@type": "Person"
+          }
+        ],
+        "temporal": "1858–1859",
+        "@context": "https://www.schema.org",
+        "@type": "Photograph"
+      },
+      "pixelReview": {
+        "openedIndividually": true,
+        "observed": {
+          "en": "A stereoscopic card repeats a view of low, closely spaced tiled roofs, narrow compartments and a larger hall behind an enclosing wall.",
+          "zh": "立体照片卡上并列两幅景象：围墙后是密集低矮的瓦顶、狭窄隔间和一座较大的厅楼。"
+        },
+        "captionCaveats": {
+          "en": "Pierre Joseph Rossier, Canton: The Examination Hall, 1858–1859; published by Negretti & Zambra. Albumen silver stereograph; Getty 84.XC.759.30.27.",
+          "zh": "皮埃尔·约瑟夫·罗西耶，《广州：贡院》，1858—1859年；内格雷蒂与赞布拉出版。蛋白银盐立体照片；盖蒂84.XC.759.30.27。"
+        }
+      },
+      "sha256": "2ebaec556065ace04e81fcba48417a5a78ed976eb6cdbdd830a20c695ea925da",
+      "ownerReview": "Actual local JPEG individually opened; museum identification, date and item-specific CC0 checked against saved source schema. Exact full target records and historical corrections reviewed."
+    },
+    {
+      "assetId": "getty-images-07-ieyasu",
+      "decision": "admitted after owner source, pixel and narrative review",
+      "researchFile": "research/v18/getty-images-07/ieyasu.jpg",
+      "productionFile": "assets/history-media/getty-images-07-ieyasu.jpg",
+      "recordIds": [
+        "tokugawa-shogunate-establishment"
+      ],
+      "fullOriginalTargets": [
+        {
+          "id": "tokugawa-shogunate-establishment",
+          "title": {
+            "en": "1603: Tokugawa Ieyasu establishes the Edo shogunate",
+            "zh": "1603年：德川家康建立江户幕府"
+          },
+          "start": 1603,
+          "end": 1603,
+          "region": "east-asia",
+          "theme": "states",
+          "kind": "event",
+          "importance": 4,
+          "location": {
+            "lat": 35.688,
+            "lon": 139.754,
+            "label": "Edo Castle area, Tokyo; representative government centre"
+          },
+          "locationYear": 1603,
+          "locationPrecision": "representative",
+          "summary": {
+            "en": "Tokugawa Ieyasu received the title of shogun in 1603 and established his military government at Edo after victory at Sekigahara in 1600. The appointment was a decisive institutional step, but consolidation continued: the remaining Toyotomi opposition was defeated at Osaka in 1615. Objects and images help explain how the new authority was displayed. Stirrups bearing the Tokugawa family emblem signalled elite ownership, while later portraits presented Ieyasu as a protective deity. The founding of a government and the making of its public memory were related but separate processes. This event provides a political anchor for the later growth of Edo’s urban culture.",
+            "zh": "德川家康在1600年关原之战取胜后，于1603年受任将军，并在江户建立军事政府。这一任命是决定性的制度步骤，但权力巩固仍继续：丰臣方面的最后抵抗于1615年大坂之战中被击败。器物和图像有助于解释新权威如何被展示。带有德川家纹的马镫象征精英所有权，后来的肖像则将家康表现为护佑神祇。政府建立与公共记忆形成相互关联，却是不同过程。这一事件为后来江户城市文化的发展提供了政治参照。"
+          },
+          "dateNote": {
+            "en": "1603 marks appointment and establishment of the Edo government. Sekigahara occurred in 1600 and the Osaka consolidation in 1615, so peace is not assumed to begin everywhere in 1603.",
+            "zh": "1603年标示受任将军及江户政府建立。关原之战发生于1600年，权力在1615年大坂之战后进一步巩固，因此不能假定全国各地于1603年即进入和平。"
+          },
+          "keyFacts": {
+            "en": [
+              "The imperial appointment followed the 1600 victory at Sekigahara.",
+              "Later commemorative portraits reflect the construction of Ieyasu’s posthumous sacred status."
+            ],
+            "zh": [
+              "朝廷任命发生于1600年关原胜利之后。",
+              "后来的纪念肖像反映家康死后神圣地位的形成。"
+            ]
+          },
+          "sources": [
+            {
+              "title": "Portrait of Tokugawa Ieyasu",
+              "url": "https://museumcollection.tokyo/en/works/6279645/",
+              "publisher": "Edo-Tokyo Museum / Tokyo Museum Collection",
+              "evidenceNote": "Collection account distinguishes 1600, 1603 and 1615 and explains later deified portraits.",
+              "checkedAt": "2026-10-23"
+            },
+            {
+              "title": "Pair of Stirrups (Abumi)",
+              "url": "https://www.metmuseum.org/art/collection/search/35376",
+              "publisher": "The Metropolitan Museum of Art",
+              "evidenceNote": "Object description explains Tokugawa emblems and elite ownership and dates the family’s shogunal office from 1603.",
+              "checkedAt": "2026-10-23"
+            }
+          ],
+          "relatedIds": [
+            "edo-urban-culture",
+            "himeji",
+            "imjin-war",
+            "meiji-restoration"
+          ],
+          "ongoing": false
+        }
+      ],
+      "relationship": "The assembled founding entry explicitly discusses Ieyasu’s posthumous deification and public memory. The photograph identifies his actual Nikkō tomb, not a generic Japanese shrine. The image is explicitly later than both 1603 and the end of the shogunate.",
+      "sourceSchema": {
+        "name": "[Tomb of Tokugawa Ieyasu, Nikko]",
+        "description": "View of the tomb of the shogun, Tokugawa Ieyasu, at the Nikko Tosho-gu shrine, showing the bronze \"hoto\" or treasure pagoda in which his remains are kept. A vase, a censer, and a crane-shaped candleholder are in front of the pagoda.",
+        "identifier": [
+          "84.XA.700.5.50"
+        ],
+        "material": "Hand-colored albumen silver print",
+        "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+        "size": "Image: 19.5 × 24.3 cm (7 11/16 × 9 9/16 in.)",
+        "locationCreated": {
+          "name": [
+            "Nikko, Japan"
+          ],
+          "@type": "Place"
+        },
+        "thumbnailUrl": "https://media.getty.edu/iiif/image/3aab048b-9fa8-45f1-b062-6df6c3d123c6/full/!300,300/0/default.jpg",
+        "creditText": [
+          "<p>Images provided here are believed to be in the public domain and     are available under <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>     through Getty&rsquo;s <a href=\"http://www.getty.edu/about/opencontent.html\">Open Content Program</a>.     Texts provided here are &copy; J. Paul Getty Trust, licensed under     <a href=\"https://creativecommons.org/licenses/by/4.0/legalcode\">CC BY 4.0</a>.     Terms of use for the Getty logo can be found     <a href=\"http://www.getty.edu/legal/copyright.html#logo\"> here</a>.    </p>"
+        ],
+        "url": "https://www.getty.edu/art/collection/object/108NQK",
+        "sameAs": "https://www.getty.edu/art/collection/object/108NQK",
+        "creator": [
+          {
+            "name": "Adolfo Farsari",
+            "url": "https://www.getty.edu/art/collection/person/104TEQ",
+            "sameAs": "https://www.getty.edu/art/collection/person/104TEQ",
+            "@type": "Person"
+          },
+          {
+            "name": "Kozaburo Tamamura",
+            "url": "https://www.getty.edu/art/collection/person/104SQ3",
+            "sameAs": "https://www.getty.edu/art/collection/person/104SQ3",
+            "@type": "Person"
+          }
+        ],
+        "temporal": "about 1875–1890s",
+        "@context": "https://www.schema.org",
+        "@type": "Photograph"
+      },
+      "pixelReview": {
+        "openedIndividually": true,
+        "observed": {
+          "en": "A roofed bronze tomb rises above stone steps in a wooded enclosure; a crane-shaped candleholder, censer and vase stand in front.",
+          "zh": "林木环绕的围栏内，带顶铜塔立于石阶上方，前方摆着鹤形烛台、香炉与花瓶。"
+        },
+        "captionCaveats": {
+          "en": "Tomb of Tokugawa Ieyasu at Nikkō Tōshō-gū, about 1875–1890s. Hand-colored albumen silver print, attributed to Adolfo Farsari or Tamamura Kōzaburō; Getty 84.XA.700.5.50.",
+          "zh": "日光东照宫德川家康墓，约1875年至1890年代。手工着色蛋白银盐照片，归于阿道夫·法尔萨里或玉村康三郎；盖蒂84.XA.700.5.50。"
+        }
+      },
+      "sha256": "32c6eaf01fdf055d3c47d89af82531ef34fc6126b4f0f442461a40257c6ae1d1",
+      "ownerReview": "Actual local JPEG individually opened; museum identification, date and item-specific CC0 checked against saved source schema. Exact full target records and historical corrections reviewed."
+    },
+    {
+      "assetId": "getty-images-07-edo",
+      "decision": "admitted after owner source, pixel and narrative review",
+      "researchFile": "research/v18/getty-images-07/edo.jpg",
+      "productionFile": "assets/history-media/getty-images-07-edo.jpg",
+      "recordIds": [
+        "japan-tokugawa-domains",
+        "tokugawa-shogunate-political-order"
+      ],
+      "fullOriginalTargets": [
+        {
+          "id": "japan-tokugawa-domains",
+          "start": 1603,
+          "end": 1603,
+          "kind": "event",
+          "region": "east-asia",
+          "theme": "states",
+          "importance": 4,
+          "title": {
+            "en": "How the Tokugawa governed through domains",
+            "zh": "德川幕府如何通过各藩治理日本"
+          },
+          "summary": {
+            "en": "The Tokugawa shogunate established its seat at Edo in 1603. Its government directly administered important cities and lands while daimyo ruled their own domains. This division helps explain how a long period of political stability could coexist with strong local institutions and growing castle towns.",
+            "zh": "德川幕府于1603年以江户为据点。幕府直辖重要城市和领地，大名则治理各自的藩。这种权力分配有助于解释，为何长期的政治稳定能与强有力的地方制度及城下町的发展并存。"
+          },
+          "dateNote": {
+            "en": "The selected year marks the start of the event or political period.",
+            "zh": "所选年份标记该事件或政治时期的开始。"
+          },
+          "locationPrecision": "representative",
+          "location": {
+            "lon": 139.75,
+            "lat": 35.69,
+            "label": "Edo, now Tokyo",
+            "labelI18n": {
+              "en": "Edo, now Tokyo",
+              "zh": "江户，今东京"
+            }
+          },
+          "relatedIds": [
+            "tokugawa-shogunate-political-order"
+          ],
+          "sources": [
+            {
+              "title": "Heilbrunn Timeline of Art History: Japan",
+              "publisher": "The Metropolitan Museum of Art",
+              "url": "https://www.metmuseum.org/toah/ht/09/eaj.html"
+            }
+          ]
+        },
+        {
+          "id": "tokugawa-shogunate-political-order",
+          "title": {
+            "en": "Tokugawa government: shogun, domains and cities",
+            "zh": "德川政权：将军、诸藩与城市"
+          },
+          "start": 1603,
+          "end": 1868,
+          "region": "east-asia",
+          "theme": "states",
+          "kind": "polity",
+          "location": {
+            "lat": 35.68,
+            "lon": 139.75,
+            "label": "Edo/Tokyo; representative shogunal center",
+            "labelI18n": {
+              "en": "Edo/Tokyo; representative shogunal center",
+              "zh": "江户／东京；代表性幕府中心"
+            },
+            "labelProvenance": "reviewed-display-translation"
+          },
+          "locationPrecision": "representative",
+          "importance": 4,
+          "summary": {
+            "en": "The Tokugawa shogunate governed from Edo while regional lords administered domains and the imperial court remained in Kyoto. Political authority was therefore distributed through a hierarchy of institutions, obligations and inherited status. An outline of “Japan” does not show how those relationships worked or imply that every district was governed directly from Edo.\n\nA long period of political stability supported the expansion of cities, commerce and specialized cultural production. Foreign relations were restricted and channeled through particular places rather than eliminated. Nagasaki’s trade and the networks around Korea and Ryukyu complicate the older image of total isolation. The shogunate’s end in 1868 changed the governing order, while commercial practices, regional institutions and urban communities continued through the transition.",
+            "zh": "德川幕府以江户为中心治理，地方大名管理各藩，天皇朝廷仍在京都。政治权力因而通过分层的机构、义务与世袭身份分配。“日本”的外轮廓无法呈现这些关系，也不表示每个地区都由江户直接行政。\n\n较长时期的政治稳定支持城市、商业与专业文化生产的发展。对外关系受到限制，并被引向特定渠道，却并未消失。长崎贸易以及同朝鲜、琉球相连的网络，使“完全锁国”的旧图像显得不足。1868年幕府终结改变了统治秩序，但商业实践、地方制度和城市社区继续跨越转型。"
+          },
+          "dateNote": {
+            "en": "1603–1868 denotes the shogunal institution; Edo art-history dates may instead begin in 1615.",
+            "zh": "1603—1868年指幕府制度；江户艺术史分期有时从1615年开始。"
+          },
+          "sources": [
+            {
+              "title": "Dejima History",
+              "url": "https://nagasakidejima.jp/english/history/",
+              "publisher": "Dejima historical site, Nagasaki",
+              "evidenceNote": "1603 shogunate; 1636 island; 1641 Dutch relocation; 1859 factory closure. European trade is not all Japanese foreign contact. Retrieval: page text inspected.",
+              "checkedAt": "2026-10-23",
+              "retrievalStatus": "page text inspected"
+            },
+            {
+              "title": "Art of the Edo Period (1615–1868)",
+              "url": "https://www.metmuseum.org/essays/art-of-the-edo-period-1615-1868",
+              "publisher": "The Metropolitan Museum of Art",
+              "evidenceNote": "Urban production, art and limited foreign trade; wording implying complete isolation is qualified. Retrieval: page text inspected.",
+              "checkedAt": "2026-10-23",
+              "retrievalStatus": "page text inspected"
+            },
+            {
+              "title": "Edo: Art in Japan, 1615–1868",
+              "url": "https://www.nga.gov/research/publications/edo-art-japan-1615-1868",
+              "publisher": "National Gallery of Art",
+              "evidenceNote": "Tokugawa rule and urban artistic production. Retrieval: search-indexed museum text inspected.",
+              "checkedAt": "2026-10-23",
+              "retrievalStatus": "search-indexed museum text inspected"
+            }
+          ],
+          "relatedIds": [
+            "tokugawa-shogunate-establishment",
+            "edo-urban-culture",
+            "meiji-restoration"
+          ],
+          "keyFacts": {
+            "en": [
+              "Shogunal and domain institutions coexisted.",
+              "Foreign contacts were regulated, not absent."
+            ],
+            "zh": [
+              "幕府与藩的制度并存。",
+              "对外联系受到管制而非不存在。"
+            ]
+          },
+          "expansion": {
+            "workstreams": [
+              "EA2"
+            ],
+            "release": 2,
+            "sourceReview": "Sources individually inspected as described in each evidence note; original bilingual synthesis; no new territorial geometry."
+          },
+          "countryGroup": "tokugawa-shogunate-political-order",
+          "timeline": {
+            "level": "major",
+            "label": {
+              "en": "Tokugawa government",
+              "zh": "德川政权"
+            }
+          }
+        }
+      ],
+      "relationship": "Both complete target entries explicitly center shogunal government at Edo and contrast it with domain administration. The item identifies Edo Castle itself; it supplies the exact central seat, with its late date stated and no claim to illustrate every domain.",
+      "sourceSchema": {
+        "name": "View of the Moat at Edo Castle",
+        "description": "Looking towards the moat surrounding Edo Castle, the embankment on the right is steep sided and planted with trees. In the background buildings are visible.",
+        "identifier": [
+          "2007.26.143"
+        ],
+        "material": "Albumen silver print",
+        "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+        "size": "Image: 23.4 × 30.9 cm (9 3/16 × 12 3/16 in.)",
+        "locationCreated": {
+          "name": [
+            "Tokyo, Japan; Edo, Japan"
+          ],
+          "@type": "Place"
+        },
+        "thumbnailUrl": "https://media.getty.edu/iiif/image/81ca4cb2-00d7-41f3-96ff-a7d0a7c5355b/full/!300,300/0/default.jpg",
+        "creditText": [
+          "<p>Images provided here are believed to be in the public domain and     are available under <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>     through Getty&rsquo;s <a href=\"http://www.getty.edu/about/opencontent.html\">Open Content Program</a>.     Texts provided here are &copy; J. Paul Getty Trust, licensed under     <a href=\"https://creativecommons.org/licenses/by/4.0/legalcode\">CC BY 4.0</a>.     Terms of use for the Getty logo can be found     <a href=\"http://www.getty.edu/legal/copyright.html#logo\"> here</a>.    </p>"
+        ],
+        "url": "https://www.getty.edu/art/collection/object/109BEG",
+        "sameAs": "https://www.getty.edu/art/collection/object/109BEG",
+        "creator": [
+          {
+            "name": "Felice Beato",
+            "url": "https://www.getty.edu/art/collection/person/103KJ0",
+            "sameAs": "https://www.getty.edu/art/collection/person/103KJ0",
+            "@type": "Person"
+          }
+        ],
+        "temporal": "1863–1868",
+        "@context": "https://www.schema.org",
+        "@type": "Photograph"
+      },
+      "pixelReview": {
+        "openedIndividually": true,
+        "observed": {
+          "en": "A broad moat curves around a steep, tree-covered bank, with low buildings visible across the water.",
+          "zh": "宽阔护城河绕过覆有树木的陡岸，水面另一侧可见低矮建筑。"
+        },
+        "captionCaveats": {
+          "en": "Felice Beato, View of the Moat at Edo Castle, 1863–1868. Albumen silver print; Getty 2007.26.143.",
+          "zh": "费利切·比阿托，《江户城护城河》，1863—1868年。蛋白银盐照片；盖蒂2007.26.143。"
+        }
+      },
+      "sha256": "bc6bff97e7118c535822a7f784fd4c6cf89eaefebf433182b761ce16e2bbdc8f",
+      "ownerReview": "Actual local JPEG individually opened; museum identification, date and item-specific CC0 checked against saved source schema. Exact full target records and historical corrections reviewed."
+    },
+    {
+      "assetId": "getty-images-07-kinkaku",
+      "decision": "admitted after owner source, pixel and narrative review",
+      "researchFile": "research/v18/getty-images-07/kinkaku.jpg",
+      "productionFile": "assets/history-media/getty-images-07-kinkaku.jpg",
+      "recordIds": [
+        "muromachi-shogunate"
+      ],
+      "fullOriginalTargets": [
+        {
+          "id": "muromachi-shogunate",
+          "title": {
+            "en": "Ashikaga / Muromachi: authority amid competing powers",
+            "zh": "足利／室町幕府：竞争势力之间的权威"
+          },
+          "start": 1336,
+          "end": 1573,
+          "region": "east-asia",
+          "countryGroup": "japan",
+          "location": {
+            "lat": 35.01,
+            "lon": 135.77,
+            "label": "Kyoto; representative Ashikaga government center"
+          },
+          "theme": "states",
+          "kind": "polity",
+          "importance": 4,
+          "locationPrecision": "representative",
+          "ongoing": false,
+          "summary": {
+            "en": "Ashikaga warrior government established its center in Kyoto during a struggle over imperial legitimacy. Its authority depended on relationships with regional military lords, temples and the court. The reunification of rival imperial lines in 1392 did not eliminate later conflict.\n\nCommercial and urban networks expanded while Zen institutions and renewed contacts with China shaped painting, gardens and other arts. Political fragmentation therefore coexisted with cultural innovation. The removal of the last Ashikaga shogun in 1573 marks the institutional endpoint used here, before the later Tokugawa government consolidated a different order.",
+            "zh": "足利武家政府在争夺天皇正统性的斗争中，以京都为中心建立。其权威依赖与地方武将、寺院和宫廷的关系。1392年对立皇统合一，并未消除后来的冲突。\n\n商业与城市网络扩展，禅宗机构及重新加强的对华联系也塑造绘画、园林等艺术。政治分裂因而能够与文化创新并存。本条以1573年最后一位足利将军被逐为机构终点，随后德川政府才整合出另一种秩序。"
+          },
+          "dateNote": {
+            "en": "1336–1573 represents Ashikaga political government, with the shogunal appointment in 1338. Art histories may start Muromachi in 1392 after the divided imperial courts. Those are different periodization choices, not contradictory event dates.",
+            "zh": "1336—1573年表示足利政治政府，正式将军任命在1338年。艺术史有时在南北皇统合一的1392年开始室町时期。这是不同分期选择，不是事件日期互相矛盾。"
+          },
+          "sources": [
+            {
+              "title": "Muromachi Period (1392–1573)",
+              "url": "https://www.metmuseum.org/essays/muromachi-period-1392-1573",
+              "publisher": "The Metropolitan Museum of Art",
+              "evidenceNote": "Explains economic networks, China contacts and artistic innovation despite political upheaval.",
+              "checkedAt": "2026-10-23"
+            },
+            {
+              "title": "Japan’s medieval warrior governments",
+              "url": "https://afe.easia.columbia.edu/tps/1000ce_jp.htm",
+              "publisher": "Columbia University — Asia for Educators",
+              "evidenceNote": "Political teaching chronology distinguishes Kamakura and Muromachi governments.",
+              "checkedAt": "2026-10-23"
+            }
+          ],
+          "keyFacts": {
+            "en": [
+              "A political government and an art period can have different start dates.",
+              "Fragmentation did not halt commercial or artistic change."
+            ],
+            "zh": [
+              "政治政府与艺术时期可能采用不同起点。",
+              "分裂没有阻止商业与艺术变化。"
+            ]
+          },
+          "relatedIds": [
+            "kamakura-shogunate",
+            "tokugawa-shogunate-establishment",
+            "edo-urban-culture"
+          ],
+          "timeline": {
+            "level": "major",
+            "label": {
+              "en": "Ashikaga / Muromachi",
+              "zh": "足利／室町幕府"
+            }
+          }
+        }
+      ],
+      "relationship": "The full polity entry discusses Zen institutions, gardens and renewed Chinese contact under the Ashikaga. Kinkaku-ji is the exact architectural patronage case documented by its own temple history. Do not link to the Ōnin War merely because it is in Kyoto.",
+      "sourceSchema": {
+        "name": "[Kinkaku-ji]",
+        "description": "View of Rokuon-ji, popularly known as Kinkaku-ji, or Temple of the Golden Pavilion, from across the water. Each story of the temple features a roof with eaves that curve upward slightly at each corner and hang over a terrace that wraps around the building. A small portico extends out at the front entrance, and a figure can be seen standing on the ground floor terrace facing the water.",
+        "identifier": [
+          "84.XA.755.7.101"
+        ],
+        "material": "Albumen silver print",
+        "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+        "size": "Image: 23 × 28.5 cm (9 1/16 × 11 1/4 in.)",
+        "locationCreated": {
+          "name": [
+            "Kyoto, Japan"
+          ],
+          "@type": "Place"
+        },
+        "thumbnailUrl": "https://media.getty.edu/iiif/image/ffa7f73d-ec1a-43e7-9ee0-96350b468161/full/!300,300/0/default.jpg",
+        "creditText": [
+          "<p>Images provided here are believed to be in the public domain and     are available under <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>     through Getty&rsquo;s <a href=\"http://www.getty.edu/about/opencontent.html\">Open Content Program</a>.     Texts provided here are &copy; J. Paul Getty Trust, licensed under     <a href=\"https://creativecommons.org/licenses/by/4.0/legalcode\">CC BY 4.0</a>.     Terms of use for the Getty logo can be found     <a href=\"http://www.getty.edu/legal/copyright.html#logo\"> here</a>.    </p>"
+        ],
+        "url": "https://www.getty.edu/art/collection/object/10A2K0",
+        "sameAs": "https://www.getty.edu/art/collection/object/10A2K0",
+        "creator": [
+          {
+            "name": "Unknown",
+            "@type": "Person"
+          }
+        ],
+        "temporal": "1850s–1890s",
+        "@context": "https://www.schema.org",
+        "@type": "Photograph"
+      },
+      "pixelReview": {
+        "openedIndividually": true,
+        "observed": {
+          "en": "A three-story pavilion with projecting roofs stands beside a pond, its reflection extending across the still water beneath wooded hills.",
+          "zh": "三层楼阁伸出层层屋檐，立于池边；倒影延伸在静水上，后方为林木覆盖的山丘。"
+        },
+        "captionCaveats": {
+          "en": "Unknown photographer, Kinkaku-ji, Kyoto, 1850s–1890s. Albumen silver print; Getty 84.XA.755.7.101. This is the pavilion later destroyed in 1950, before the 1955 reconstruction.",
+          "zh": "摄影者不详，京都金阁寺，1850至1890年代。蛋白银盐照片；盖蒂84.XA.755.7.101。图中为1950年被焚毁的金阁，早于1955年的重建。"
+        }
+      },
+      "sha256": "5632002a6856dccb4589c9b788705845e8480f1198b4ae17844aeb513d978e33",
+      "ownerReview": "Actual local JPEG individually opened; museum identification, date and item-specific CC0 checked against saved source schema. Exact full target records and historical corrections reviewed."
+    },
+    {
+      "assetId": "getty-images-07-ainu",
+      "decision": "admitted after owner source, pixel and narrative review",
+      "researchFile": "research/v18/getty-images-07/ainu.jpg",
+      "productionFile": "assets/history-media/getty-images-07-ainu.jpg",
+      "recordIds": [
+        "ainu-language-cultural-continuity"
+      ],
+      "fullOriginalTargets": [
+        {
+          "id": "ainu-language-cultural-continuity",
+          "title": {
+            "en": "Ainu continuity: language, work and cultural renewal",
+            "zh": "阿伊努的延续：语言、劳动与文化复兴"
+          },
+          "start": 1868,
+          "end": 2020,
+          "region": "east-asia",
+          "theme": "culture",
+          "kind": "culture",
+          "location": {
+            "lat": 42.55,
+            "lon": 141.36,
+            "label": "Shiraoi, Hokkaido; modern museum reference"
+          },
+          "locationPrecision": "representative",
+          "importance": 3,
+          "summary": {
+            "en": "Ainu communities have distinct languages, histories and cultural practices associated with northern regions including Hokkaido. Woodworking, embroidery, oral expression and relationships with the natural world are forms of knowledge carried by people, not remnants of a culture that ended when a modern state expanded.\n\nMeiji-era modernization policies placed pressure on language transmission and social life. The subsequent loss of opportunities to use Ainu publicly affected what later generations could learn. Museums and cultural work now participate in renewal, but institutions cannot stand in for every community’s experience. The opening of Upopoy in the contemporary period makes one setting for public interpretation visible. A focus beginning in 1868 marks a period of changing policy, not the origin of Ainu history.",
+            "zh": "阿伊努群体拥有独特的语言、历史与文化实践，同包括北海道在内的北方地区相连。木作、刺绣、口头表达及人与自然的关系，是由人传承的知识，而非现代国家扩张后就终结的文化残片。\n\n明治时代的近代化政策对语言传承与社会生活造成压力。公开使用阿伊努语的机会减少，也影响后代能够学习的内容。博物馆与文化活动如今参与复兴，但任何机构都不能代表每个社区的经历。当代民族共生象征空间的开放，让公共解释的一种场所可见。1868年的起点标记政策变化时期，不是阿伊努历史的起源。"
+          },
+          "dateNote": {
+            "en": "Focus 1868–2020 on policy pressure and public cultural renewal; Ainu histories precede and continue beyond it.",
+            "zh": "关注1868—2020年的政策压力与公共文化复兴；阿伊努历史早于并延续于此窗口之外。"
+          },
+          "sources": [
+            {
+              "title": "Ainu Culture",
+              "url": "https://ainu-upopoy.go.jp/en/ainu-culture/",
+              "publisher": "National Ainu Museum and Park, Upopoy",
+              "evidenceNote": "Language, crafts, spirituality and Meiji-era pressure on language transmission. Retrieval: page text inspected.",
+              "checkedAt": "2026-10-23",
+              "retrievalStatus": "page text inspected"
+            },
+            {
+              "title": "National Ainu Museum",
+              "url": "https://ainu-upopoy.go.jp/en/facility/museum/",
+              "publisher": "National Ainu Museum and Park, Upopoy",
+              "evidenceNote": "Indigenous identity, museum mission and living cultural continuity; same institution as companion culture page. Retrieval: page text inspected.",
+              "checkedAt": "2026-10-23",
+              "retrievalStatus": "page text inspected"
+            }
+          ],
+          "relatedIds": [
+            "jomon-northern-japan",
+            "meiji-restoration"
+          ],
+          "keyFacts": {
+            "en": [
+              "Living communities carry culture and knowledge.",
+              "The date window does not date an ethnicity."
+            ],
+            "zh": [
+              "文化与知识由活跃社区传承。",
+              "年代窗口不为族群断代。"
+            ]
+          },
+          "expansion": {
+            "workstreams": [
+              "EA3"
+            ],
+            "release": 3,
+            "sourceReview": "Sources individually inspected as described in each evidence note; original bilingual synthesis; no new territorial geometry.",
+            "evidenceLimit": "Single institution/source family; see evidence note and research register. Further independent corroboration remains desirable."
+          }
+        }
+      ],
+      "relationship": "The catalogue, not visual inference, identifies the sitters as Ainu and the place as Hokkaido. The photograph dates within the target’s 1868–2020 study window. It is used for human presence and continuing community life, not as proof of a policy, the entire community’s experience, or a particular garment’s fiber.",
+      "sourceSchema": {
+        "name": "[Peasant Couple, Ainu People, Japan]",
+        "identifier": [
+          "84.XM.215.14"
+        ],
+        "material": "Gelatin silver print",
+        "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+        "size": "Image: 21.9 × 18.4 cm (8 5/8 × 7 1/4 in.)",
+        "locationCreated": {
+          "name": [
+            "Hokkaido, Japan"
+          ],
+          "@type": "Place"
+        },
+        "thumbnailUrl": "https://media.getty.edu/iiif/image/14221d55-3e34-4f20-9204-d05a73974733/full/!300,300/0/default.jpg",
+        "creditText": [
+          "<p>Images provided here are believed to be in the public domain and     are available under <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>     through Getty&rsquo;s <a href=\"http://www.getty.edu/about/opencontent.html\">Open Content Program</a>.     Texts provided here are &copy; J. Paul Getty Trust, licensed under     <a href=\"https://creativecommons.org/licenses/by/4.0/legalcode\">CC BY 4.0</a>.     Terms of use for the Getty logo can be found     <a href=\"http://www.getty.edu/legal/copyright.html#logo\"> here</a>.    </p>"
+        ],
+        "url": "https://www.getty.edu/art/collection/object/1043RE",
+        "sameAs": "https://www.getty.edu/art/collection/object/1043RE",
+        "creator": [
+          {
+            "name": "Arnold Genthe",
+            "url": "https://www.getty.edu/art/collection/person/103KKE",
+            "sameAs": "https://www.getty.edu/art/collection/person/103KKE",
+            "@type": "Person"
+          }
+        ],
+        "temporal": "1908",
+        "@context": "https://www.schema.org",
+        "@type": "Photograph"
+      },
+      "pixelReview": {
+        "openedIndividually": true,
+        "observed": {
+          "en": "Two people stand outdoors in robes; the bearded person on the left faces forward, while the person on the right bends over a walking staff.",
+          "zh": "两人穿着长衣站在户外；左边留胡须的人面向前方，右边的人俯身倚着手杖。"
+        },
+        "captionCaveats": {
+          "en": "Arnold Genthe, a couple identified in Getty’s catalogue as Ainu, Hokkaido, 1908. Gelatin silver print; Getty 84.XM.215.14. The catalogue does not record their individual names.",
+          "zh": "阿诺德·根特摄，盖蒂目录认定为阿伊努夫妇的两人，北海道，1908年。明胶银盐照片；盖蒂84.XM.215.14。目录未记录两人的姓名。"
+        }
+      },
+      "sha256": "e229b5c300bd0185d2b434445cf388d1204e3a90a53061454241631228822b99",
+      "ownerReview": "Actual local JPEG individually opened; museum identification, date and item-specific CC0 checked against saved source schema. Exact full target records and historical corrections reviewed."
+    },
+    {
+      "assetId": "getty-images-07-kung",
+      "decision": "admitted after owner source, pixel and narrative review",
+      "researchFile": "research/v18/getty-images-07/kung.jpg",
+      "productionFile": "assets/history-media/getty-images-07-kung.jpg",
+      "recordIds": [
+        "china-event-qing-037",
+        "china-landmark-066"
+      ],
+      "fullOriginalTargets": [
+        {
+          "id": "china-event-qing-037",
+          "title": {
+            "en": "Xinyou Coup: Cixi, Ci’an, and Prince Gong oust Sushun’s Eight Regents to begin the Regency",
+            "zh": "辛酉政变：慈禧、慈安联结恭亲王奕訢诛肃顺等八大臣垂帘"
+          },
+          "start": 1861,
+          "end": 1861,
+          "location": {
+            "lon": 116.401,
+            "lat": 39.901,
+            "label": "Beijing · Chengde",
+            "labelI18n": {
+              "en": "Beijing · Chengde",
+              "zh": "北京 · 承德避暑山庄"
+            },
+            "labelProvenance": "inherited-source-place-pair"
+          },
+          "region": "east-asia",
+          "theme": "states",
+          "kind": "event",
+          "importance": 1,
+          "summary": {
+            "en": "Xinyou Coup: Cixi, Ci’an, and Prince Gong oust Sushun’s Eight Regents to begin the Regency",
+            "zh": "辛酉政变：慈禧、慈安联结恭亲王奕訢诛肃顺等八大臣垂帘"
+          },
+          "dateNote": {
+            "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+            "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+          },
+          "locationPrecision": "representative",
+          "sources": [
+            {
+              "title": "Chronicles of the Realm — js/map_data.js (frozen source dataset)",
+              "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/map_data.js",
+              "publisher": "DeanChensj / Chronicles of the Realm",
+              "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+              "checkedAt": "2026-10-23"
+            }
+          ],
+          "aliases": [
+            "北京 · 承德避暑山庄",
+            "Beijing · Chengde"
+          ],
+          "provenance": {
+            "dataset": "jiangshan",
+            "status": "inherited",
+            "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+            "periodId": "qing",
+            "periodIds": [
+              "qing"
+            ],
+            "sourceRecords": [
+              {
+                "file": "js/map_data.js",
+                "path": "/DYNASTY_DATA/15/milestones/36",
+                "index": 36
+              }
+            ],
+            "note": {
+              "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+              "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+            }
+          },
+          "relatedIds": [
+            "qing-dynasty"
+          ]
+        },
+        {
+          "id": "china-landmark-066",
+          "title": {
+            "en": "Xinyou Coup in Beijing: Cixi and Ci’an ally with Prince Gong to oust the Eight Regents",
+            "zh": "辛酉政变：慈禧、慈安两宫太后联结恭亲王奕訢诛肃顺等八大臣"
+          },
+          "start": 1861,
+          "end": 1861,
+          "location": {
+            "lon": 116.4,
+            "lat": 39.9,
+            "label": "Beijing",
+            "labelI18n": {
+              "en": "Beijing",
+              "zh": "北京"
+            },
+            "labelProvenance": "inherited-source-place-pair"
+          },
+          "region": "east-asia",
+          "theme": "states",
+          "kind": "event",
+          "importance": 1,
+          "summary": {
+            "en": "Xinyou Coup in Beijing: Cixi and Ci’an ally with Prince Gong to oust the Eight Regents",
+            "zh": "辛酉政变：慈禧、慈安两宫太后联结恭亲王奕訢诛肃顺等八大臣"
+          },
+          "dateNote": {
+            "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+            "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+          },
+          "locationPrecision": "representative",
+          "sources": [
+            {
+              "title": "Chronicles of the Realm — js/lore_data.js (frozen source dataset)",
+              "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/lore_data.js",
+              "publisher": "DeanChensj / Chronicles of the Realm",
+              "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+              "checkedAt": "2026-10-23"
+            }
+          ],
+          "aliases": [
+            "北京",
+            "Beijing"
+          ],
+          "provenance": {
+            "dataset": "jiangshan",
+            "status": "inherited",
+            "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+            "periodId": "qing",
+            "periodIds": [
+              "qing"
+            ],
+            "sourceRecords": [
+              {
+                "file": "js/lore_data.js",
+                "path": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/65",
+                "index": 65
+              }
+            ],
+            "note": {
+              "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+              "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+            }
+          },
+          "relatedIds": [
+            "qing-dynasty"
+          ]
+        }
+      ],
+      "relationship": "Exact named participant in both entries, but current Chinese title and summary imply eight executions. Hold until the separate correction is reviewed and applied.",
+      "sourceSchema": {
+        "name": "Prince Kung",
+        "identifier": [
+          "2007.26.209.18"
+        ],
+        "material": "Albumen silver print",
+        "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+        "size": "Image: 13.7 × 11.3 cm (5 3/8 × 4 7/16 in.)",
+        "locationCreated": {
+          "name": [
+            "China"
+          ],
+          "@type": "Place"
+        },
+        "thumbnailUrl": "https://media.getty.edu/iiif/image/3bf29b96-c962-45df-bbde-80144ef34093/full/!300,300/0/default.jpg",
+        "creditText": [
+          "<p>Images provided here are believed to be in the public domain and     are available under <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>     through Getty&rsquo;s <a href=\"http://www.getty.edu/about/opencontent.html\">Open Content Program</a>.     Texts provided here are &copy; J. Paul Getty Trust, licensed under     <a href=\"https://creativecommons.org/licenses/by/4.0/legalcode\">CC BY 4.0</a>.     Terms of use for the Getty logo can be found     <a href=\"http://www.getty.edu/legal/copyright.html#logo\"> here</a>.    </p>"
+        ],
+        "url": "https://www.getty.edu/art/collection/object/109C2T",
+        "sameAs": "https://www.getty.edu/art/collection/object/109C2T",
+        "creator": [
+          {
+            "name": "Felice Beato",
+            "url": "https://www.getty.edu/art/collection/person/103KJ0",
+            "sameAs": "https://www.getty.edu/art/collection/person/103KJ0",
+            "@type": "Person"
+          }
+        ],
+        "temporal": "November 2, 1860",
+        "@context": "https://www.schema.org",
+        "@type": "Photograph"
+      },
+      "pixelReview": {
+        "openedIndividually": true,
+        "observed": {
+          "en": "Prince Gong sits in an ornate robe and broad dark hat, beside a table covered with patterned cloth.",
+          "zh": "恭亲王身着纹饰长袍、戴宽大的深色帽，坐在铺有纹样桌布的桌旁。"
+        },
+        "captionCaveats": {
+          "en": "Felice Beato, Prince Kung (Yixin, Prince Gong), 2 November 1860. Albumen silver print; Getty 2007.26.209.18. The portrait was made one year before the Xinyou Coup.",
+          "zh": "费利切·比阿托，《恭亲王奕訢》，1860年11月2日。蛋白银盐照片；盖蒂2007.26.209.18。肖像摄于辛酉政变前一年。"
+        }
+      },
+      "sha256": "3cfda5ab70df5accf9eb085bd78dbcf37040a17c1028ed2223dd7745387eb170",
+      "ownerReview": "Actual local JPEG individually opened; museum identification, date and item-specific CC0 checked against saved source schema. Exact full target records and historical corrections reviewed."
+    },
+    {
+      "assetId": "getty-images-07-hongkong",
+      "decision": "admitted after owner source, pixel and narrative review",
+      "researchFile": "research/v18/getty-images-07/hongkong.jpg",
+      "productionFile": "assets/history-media/getty-images-07-hongkong.jpg",
+      "recordIds": [
+        "china-landmark-266"
+      ],
+      "fullOriginalTargets": [
+        {
+          "id": "china-landmark-266",
+          "title": {
+            "en": "Under the Treaty of Nanjing, Hong Kong Island is ceded and Victoria City is founded",
+            "zh": "《南京条约》割让香港岛，英人辟维多利亚城开埠"
+          },
+          "start": 1842,
+          "end": 1842,
+          "location": {
+            "lon": 114.17,
+            "lat": 22.28,
+            "label": "Hong Kong Island (Hong Kong)",
+            "labelI18n": {
+              "en": "Hong Kong Island (Hong Kong)",
+              "zh": "香港岛（今香港）"
+            },
+            "labelProvenance": "inherited-source-place-pair"
+          },
+          "region": "east-asia",
+          "theme": "exchange",
+          "kind": "event",
+          "importance": 1,
+          "summary": {
+            "en": "Under the Treaty of Nanjing, Hong Kong Island is ceded and Victoria City is founded",
+            "zh": "《南京条约》割让香港岛，英人辟维多利亚城开埠"
+          },
+          "dateNote": {
+            "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+            "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+          },
+          "locationPrecision": "representative",
+          "sources": [
+            {
+              "title": "Chronicles of the Realm — js/lore_data.js (frozen source dataset)",
+              "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/lore_data.js",
+              "publisher": "DeanChensj / Chronicles of the Realm",
+              "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+              "checkedAt": "2026-10-23"
+            }
+          ],
+          "aliases": [
+            "香港岛（今香港）",
+            "Hong Kong Island (Hong Kong)"
+          ],
+          "provenance": {
+            "dataset": "jiangshan",
+            "status": "inherited",
+            "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+            "periodId": "qing",
+            "periodIds": [
+              "qing"
+            ],
+            "sourceRecords": [
+              {
+                "file": "js/lore_data.js",
+                "path": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/265",
+                "index": 265
+              }
+            ],
+            "note": {
+              "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+              "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+            }
+          },
+          "relatedIds": [
+            "qing-dynasty"
+          ]
+        }
+      ],
+      "relationship": "Exact named city and colonial institutions, not an illustration of a battle. Hold because the current target bundles 1842 cession with Victoria City’s founding without the distinct 1843 naming chronology.",
+      "sourceSchema": {
+        "name": "Victoria. Hong Kong. China",
+        "description": "View of what is now the Hong Kong Zoological and Botanical Gardens, looking toward Victoria Harbor, formerly known as Hong Kong Harbor. A garden pavilion can be seen on the left area of the image. Also partially visible is Government House, a palatial building on the center left of the image, and, slightly to its right, is St. John's Cathedral with its distinctive bell tower.",
+        "identifier": [
+          "84.XA.1240.18"
+        ],
+        "material": "Albumen silver print",
+        "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+        "size": "Image: 21.3 × 27.7 cm (8 3/8 × 10 7/8 in.)",
+        "locationCreated": {
+          "name": [
+            "Hong Kong, China"
+          ],
+          "@type": "Place"
+        },
+        "thumbnailUrl": "https://media.getty.edu/iiif/image/05fc045f-1ff0-4e94-82f2-6a8c39080e3c/full/!300,300/0/default.jpg",
+        "creditText": [
+          "<p>Images provided here are believed to be in the public domain and     are available under <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>     through Getty&rsquo;s <a href=\"http://www.getty.edu/about/opencontent.html\">Open Content Program</a>.     Texts provided here are &copy; J. Paul Getty Trust, licensed under     <a href=\"https://creativecommons.org/licenses/by/4.0/legalcode\">CC BY 4.0</a>.     Terms of use for the Getty logo can be found     <a href=\"http://www.getty.edu/legal/copyright.html#logo\"> here</a>.    </p>"
+        ],
+        "url": "https://www.getty.edu/art/collection/object/108ZR5",
+        "sameAs": "https://www.getty.edu/art/collection/object/108ZR5",
+        "creator": [
+          {
+            "name": "Lai, Afong",
+            "url": "https://www.getty.edu/art/collection/person/104WG8",
+            "sameAs": "https://www.getty.edu/art/collection/person/104WG8",
+            "@type": "Person"
+          }
+        ],
+        "temporal": "about 1870s",
+        "@context": "https://www.schema.org",
+        "@type": "Photograph"
+      },
+      "pixelReview": {
+        "openedIndividually": true,
+        "observed": {
+          "en": "An album-mounted photograph looks across gardens and colonial buildings toward a harbor crowded with sailing ships, with hills on the far shore.",
+          "zh": "装裱在图册中的照片越过花园和殖民时期建筑，望向停满帆船的港湾，远岸为山丘。"
+        },
+        "captionCaveats": {
+          "en": "Lai Afong, Victoria, Hong Kong, about the 1870s. Albumen silver print; Getty 84.XA.1240.18. Government House and St John’s Cathedral appear between the gardens and harbor.",
+          "zh": "黎芳摄，《香港维多利亚城》，约1870年代。蛋白银盐照片；盖蒂84.XA.1240.18。花园与港湾之间可见总督府及圣约翰座堂。"
+        }
+      },
+      "sha256": "d8733c928aad2c4b5c64dbdd39b68e2e1eaabbedd95a4cc9f95f7d19844971cb",
+      "ownerReview": "Actual local JPEG individually opened; museum identification, date and item-specific CC0 checked against saved source schema. Exact full target records and historical corrections reviewed."
+    }
+  ],
+  "historicalCorrections": [
+    {
+      "recordId": "china-event-qing-037",
+      "status": "proposal-only; association held",
+      "issue": {
+        "en": "Chinese title and summary imply that all eight regents were killed, while English says they were ousted. The Palace Museum distinguishes three deaths from the removal of the other regents.",
+        "zh": "中文标题与摘要把罢黜八位辅政大臣写成“诛肃顺等八大臣”，英文则只说罢黜。故宫博物院区分三人的死亡与其余大臣被免职。"
+      },
+      "fullOriginalRecord": {
+        "id": "china-event-qing-037",
+        "title": {
+          "en": "Xinyou Coup: Cixi, Ci’an, and Prince Gong oust Sushun’s Eight Regents to begin the Regency",
+          "zh": "辛酉政变：慈禧、慈安联结恭亲王奕訢诛肃顺等八大臣垂帘"
+        },
+        "start": 1861,
+        "end": 1861,
+        "location": {
+          "lon": 116.401,
+          "lat": 39.901,
+          "label": "Beijing · Chengde",
+          "labelI18n": {
+            "en": "Beijing · Chengde",
+            "zh": "北京 · 承德避暑山庄"
+          },
+          "labelProvenance": "inherited-source-place-pair"
+        },
+        "region": "east-asia",
+        "theme": "states",
+        "kind": "event",
+        "importance": 1,
+        "summary": {
+          "en": "Xinyou Coup: Cixi, Ci’an, and Prince Gong oust Sushun’s Eight Regents to begin the Regency",
+          "zh": "辛酉政变：慈禧、慈安联结恭亲王奕訢诛肃顺等八大臣垂帘"
+        },
+        "dateNote": {
+          "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+          "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+        },
+        "locationPrecision": "representative",
+        "sources": [
+          {
+            "title": "Chronicles of the Realm — js/map_data.js (frozen source dataset)",
+            "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/map_data.js",
+            "publisher": "DeanChensj / Chronicles of the Realm",
+            "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+            "checkedAt": "2026-10-23"
+          }
+        ],
+        "aliases": [
+          "北京 · 承德避暑山庄",
+          "Beijing · Chengde"
+        ],
+        "provenance": {
+          "dataset": "jiangshan",
+          "status": "inherited",
+          "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+          "periodId": "qing",
+          "periodIds": [
+            "qing"
+          ],
+          "sourceRecords": [
+            {
+              "file": "js/map_data.js",
+              "path": "/DYNASTY_DATA/15/milestones/36",
+              "index": 36
+            }
+          ],
+          "note": {
+            "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+            "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+          }
+        },
+        "relatedIds": [
+          "qing-dynasty"
+        ]
+      },
+      "proposedChanges": {
+        "title.zh": "辛酉政变：慈禧、慈安联合恭亲王奕訢罢黜顾命八大臣，开始垂帘听政",
+        "summary": {
+          "en": "In 1861, Cixi and Ci’an allied with Prince Gong to remove the eight regents appointed before the Xianfeng Emperor’s death. Sushun was executed, Zaiyuan and Duanhua were forced to kill themselves, and the other regents were removed from office. The two empress dowagers began governing behind the screen.",
+          "zh": "1861年，慈禧、慈安与恭亲王奕訢联合，罢黜咸丰帝临终任命的八位辅政大臣。肃顺被处死，载垣、端华被迫自尽，其余辅政大臣被革职。两宫太后开始垂帘听政。"
+        }
+      },
+      "unchangedFields": "Keep English title, start/end, location, original provenance and unrelated fields unchanged; add the inspected historical source rather than treating image identity as corroboration.",
+      "sources": [
+        {
+          "title": "辛酉政变",
+          "publisher": "The Palace Museum",
+          "url": "https://www.dpm.org.cn/court/event/156213.html",
+          "checkedAt": "2026-11-12",
+          "retrieval": "Opened full text through web search tool; saved in corrections-open-receipts.json",
+          "evidence": "The article states that Zaiyuan and Duanhua were compelled to kill themselves, Sushun was beheaded, and the other regents were removed and investigated. It identifies Cixi, Cian and Yixin in the coup. Calendar specifics and its evaluative language are not adopted."
+        }
+      ],
+      "conditionalAssetId": "getty-images-07-kung"
+    },
+    {
+      "recordId": "china-landmark-066",
+      "status": "proposal-only; association held",
+      "issue": {
+        "en": "Chinese title and summary imply that all eight regents were killed, while English says they were ousted. The Palace Museum distinguishes three deaths from the removal of the other regents.",
+        "zh": "中文标题与摘要把罢黜八位辅政大臣写成“诛肃顺等八大臣”，英文则只说罢黜。故宫博物院区分三人的死亡与其余大臣被免职。"
+      },
+      "fullOriginalRecord": {
+        "id": "china-landmark-066",
+        "title": {
+          "en": "Xinyou Coup in Beijing: Cixi and Ci’an ally with Prince Gong to oust the Eight Regents",
+          "zh": "辛酉政变：慈禧、慈安两宫太后联结恭亲王奕訢诛肃顺等八大臣"
+        },
+        "start": 1861,
+        "end": 1861,
+        "location": {
+          "lon": 116.4,
+          "lat": 39.9,
+          "label": "Beijing",
+          "labelI18n": {
+            "en": "Beijing",
+            "zh": "北京"
+          },
+          "labelProvenance": "inherited-source-place-pair"
+        },
+        "region": "east-asia",
+        "theme": "states",
+        "kind": "event",
+        "importance": 1,
+        "summary": {
+          "en": "Xinyou Coup in Beijing: Cixi and Ci’an ally with Prince Gong to oust the Eight Regents",
+          "zh": "辛酉政变：慈禧、慈安两宫太后联结恭亲王奕訢诛肃顺等八大臣"
+        },
+        "dateNote": {
+          "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+          "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+        },
+        "locationPrecision": "representative",
+        "sources": [
+          {
+            "title": "Chronicles of the Realm — js/lore_data.js (frozen source dataset)",
+            "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/lore_data.js",
+            "publisher": "DeanChensj / Chronicles of the Realm",
+            "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+            "checkedAt": "2026-10-23"
+          }
+        ],
+        "aliases": [
+          "北京",
+          "Beijing"
+        ],
+        "provenance": {
+          "dataset": "jiangshan",
+          "status": "inherited",
+          "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+          "periodId": "qing",
+          "periodIds": [
+            "qing"
+          ],
+          "sourceRecords": [
+            {
+              "file": "js/lore_data.js",
+              "path": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/65",
+              "index": 65
+            }
+          ],
+          "note": {
+            "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+            "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+          }
+        },
+        "relatedIds": [
+          "qing-dynasty"
+        ]
+      },
+      "proposedChanges": {
+        "title.zh": "辛酉政变：慈禧、慈安联合恭亲王奕訢罢黜顾命八大臣",
+        "summary": {
+          "en": "In 1861, Cixi and Ci’an allied with Prince Gong to remove the eight regents appointed before the Xianfeng Emperor’s death. Sushun was executed, Zaiyuan and Duanhua were forced to kill themselves, and the other regents were removed from office. The two empress dowagers began governing behind the screen.",
+          "zh": "1861年，慈禧、慈安与恭亲王奕訢联合，罢黜咸丰帝临终任命的八位辅政大臣。肃顺被处死，载垣、端华被迫自尽，其余辅政大臣被革职。两宫太后开始垂帘听政。"
+        }
+      },
+      "unchangedFields": "Keep English title, start/end, location, original provenance and unrelated fields unchanged; add the inspected historical source rather than treating image identity as corroboration.",
+      "sources": [
+        {
+          "title": "辛酉政变",
+          "publisher": "The Palace Museum",
+          "url": "https://www.dpm.org.cn/court/event/156213.html",
+          "checkedAt": "2026-11-12",
+          "retrieval": "Opened full text through web search tool; saved in corrections-open-receipts.json",
+          "evidence": "The article states that Zaiyuan and Duanhua were compelled to kill themselves, Sushun was beheaded, and the other regents were removed and investigated. It identifies Cixi, Cian and Yixin in the coup. Calendar specifics and its evaluative language are not adopted."
+        }
+      ],
+      "conditionalAssetId": "getty-images-07-kung"
+    },
+    {
+      "recordId": "china-landmark-266",
+      "status": "proposal-only; association held",
+      "issue": {
+        "en": "The 1842 title compresses cession with the founding of Victoria City. The official name dates to 1843, while settlement development was already under way in 1841.",
+        "zh": "1842年的标题把香港岛割让与维多利亚城建立合并为一事。官方命名发生在1843年，而聚落开发在1841年已经展开。"
+      },
+      "fullOriginalRecord": {
+        "id": "china-landmark-266",
+        "title": {
+          "en": "Under the Treaty of Nanjing, Hong Kong Island is ceded and Victoria City is founded",
+          "zh": "《南京条约》割让香港岛，英人辟维多利亚城开埠"
+        },
+        "start": 1842,
+        "end": 1842,
+        "location": {
+          "lon": 114.17,
+          "lat": 22.28,
+          "label": "Hong Kong Island (Hong Kong)",
+          "labelI18n": {
+            "en": "Hong Kong Island (Hong Kong)",
+            "zh": "香港岛（今香港）"
+          },
+          "labelProvenance": "inherited-source-place-pair"
+        },
+        "region": "east-asia",
+        "theme": "exchange",
+        "kind": "event",
+        "importance": 1,
+        "summary": {
+          "en": "Under the Treaty of Nanjing, Hong Kong Island is ceded and Victoria City is founded",
+          "zh": "《南京条约》割让香港岛，英人辟维多利亚城开埠"
+        },
+        "dateNote": {
+          "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+          "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+        },
+        "locationPrecision": "representative",
+        "sources": [
+          {
+            "title": "Chronicles of the Realm — js/lore_data.js (frozen source dataset)",
+            "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/lore_data.js",
+            "publisher": "DeanChensj / Chronicles of the Realm",
+            "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+            "checkedAt": "2026-10-23"
+          }
+        ],
+        "aliases": [
+          "香港岛（今香港）",
+          "Hong Kong Island (Hong Kong)"
+        ],
+        "provenance": {
+          "dataset": "jiangshan",
+          "status": "inherited",
+          "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+          "periodId": "qing",
+          "periodIds": [
+            "qing"
+          ],
+          "sourceRecords": [
+            {
+              "file": "js/lore_data.js",
+              "path": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/265",
+              "index": 265
+            }
+          ],
+          "note": {
+            "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+            "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+          }
+        },
+        "relatedIds": [
+          "qing-dynasty"
+        ]
+      },
+      "proposedChanges": {
+        "title": {
+          "en": "1842: Hong Kong Island is ceded; Victoria City develops",
+          "zh": "1842年：香港岛被割让，维多利亚城逐步形成"
+        },
+        "summary": {
+          "en": "The Treaty of Nanjing ceded Hong Kong Island to Britain in 1842. Colonial urban development had already begun along the northern shore: land was auctioned in June 1841, and the settlement was officially named Victoria City on 29 June 1843.",
+          "zh": "1842年《南京条约》将香港岛割让给英国。殖民城市开发此前已在北岸展开：1841年6月举行土地拍卖，1843年6月29日该聚落正式命名为维多利亚城。"
+        }
+      },
+      "unchangedFields": "Keep the 1842 cession anchor, location and original provenance; the summary explicitly distinguishes the surrounding years.",
+      "sources": [
+        {
+          "title": "City of Victoria Boundary Stones",
+          "publisher": "Hong Kong Lands Department",
+          "url": "https://www.landsd.gov.hk/en/survey-mapping/historical-bdy-stones/victoria-city-bdy-stones.html",
+          "checkedAt": "2026-11-12",
+          "retrieval": "Opened full text through web search tool; saved in corrections-open-receipts.json",
+          "evidence": "The first public land auction took place on 14 June 1841. The settlement on the northern shore was officially named Victoria City on 29 June 1843. This distinguishes settlement development, 1842 cession and 1843 naming."
+        },
+        {
+          "title": "City of Victoria: A Selection of Museum’s Historical Photographs",
+          "publisher": "Hong Kong Museum of History",
+          "url": "https://hk.history.museum/en/web/mh/exhibition/2020_past_02.html",
+          "checkedAt": "2026-11-12",
+          "retrieval": "Search-indexed institutional text inspected and saved in corrections-search-receipts.json",
+          "evidence": "Supports Hong Kong Island’s cession in 1842 and subsequent urban infrastructure development. Do not adopt its loose late-nineteenth-century wording for the naming date; use the specific Lands Department chronology."
+        }
+      ],
+      "conditionalAssetId": "getty-images-07-hongkong"
+    }
+  ],
+  "heldCandidates": [
+    {
+      "name": "yuanmingyuan",
+      "sourceUrl": "https://www.getty.edu/art/collection/object/109C3K",
+      "recordIds": [
+        "china-event-qing-036",
+        "china-landmark-072"
+      ],
+      "decision": "reject-wrong-specific-site",
+      "reason": {
+        "en": "Getty’s inherited title calls the building Yuan Ming Yuan. The Canadian Centre for Architecture explicitly identifies an identical published view as Qingyi Yuan (today Yiheyuan), a separate complex. It cannot be passed off as the Old Summer Palace named in these records.",
+        "zh": "盖蒂沿用的标题称其为圆明园。加拿大建筑中心明确指出同版照片所摄是清漪园（今颐和园），与圆明园为不同园区。不可据标题把它当作这两条记录中的圆明园。"
+      },
+      "sourceEvidence": [
+        {
+          "url": "https://www.cca.qc.ca/en/search/details/collection/object/13851",
+          "reference": "PH1986:0901:023",
+          "evidence": "The title of a published identical image is explicitly described as inaccurate; the record identifies the Garden of the Clear Ripples, now Yihe Yuan."
+        },
+        {
+          "url": "https://visualizingcultures.mit.edu/opium_wars_02/ow2_essay05.html",
+          "evidence": "The Photographic Record section reports that at least four of the six Beato photographs labelled Yuan Ming Yuen actually depict Wanshoushan."
+        }
+      ],
+      "fullOriginalTargets": [
+        {
+          "id": "china-event-qing-036",
+          "title": {
+            "en": "Anglo-French forces sack the Old Summer Palace; Convention of Peking cedes Outer Manchuria",
+            "zh": "英法联军攻占北京、火烧圆明园；签《北京条约》割外东北"
+          },
+          "start": 1860,
+          "end": 1860,
+          "location": {
+            "lon": 116.301,
+            "lat": 40.008,
+            "label": "Beijing",
+            "labelI18n": {
+              "en": "Beijing",
+              "zh": "北京"
+            },
+            "labelProvenance": "inherited-source-place-pair"
+          },
+          "region": "east-asia",
+          "theme": "states",
+          "kind": "event",
+          "importance": 1,
+          "summary": {
+            "en": "Anglo-French forces sack the Old Summer Palace; Convention of Peking cedes Outer Manchuria",
+            "zh": "英法联军攻占北京、火烧圆明园；签《北京条约》割外东北"
+          },
+          "dateNote": {
+            "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+            "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+          },
+          "locationPrecision": "representative",
+          "sources": [
+            {
+              "title": "Chronicles of the Realm — js/map_data.js (frozen source dataset)",
+              "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/map_data.js",
+              "publisher": "DeanChensj / Chronicles of the Realm",
+              "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+              "checkedAt": "2026-10-23"
+            }
+          ],
+          "aliases": [
+            "北京",
+            "Beijing"
+          ],
+          "provenance": {
+            "dataset": "jiangshan",
+            "status": "inherited",
+            "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+            "periodId": "qing",
+            "periodIds": [
+              "qing"
+            ],
+            "sourceRecords": [
+              {
+                "file": "js/map_data.js",
+                "path": "/DYNASTY_DATA/15/milestones/35",
+                "index": 35
+              }
+            ],
+            "note": {
+              "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+              "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+            }
+          },
+          "relatedIds": [
+            "qing-dynasty"
+          ]
+        },
+        {
+          "id": "china-landmark-072",
+          "title": {
+            "en": "Anglo-French forces enter Beijing and burn the Old Summer Palace (Yuanmingyuan)",
+            "zh": "第二次鸦片战争英法联军攻入北京，劫掠并焚毁圆明园"
+          },
+          "start": 1860,
+          "end": 1860,
+          "location": {
+            "lon": 116.4,
+            "lat": 39.9,
+            "label": "Beijing",
+            "labelI18n": {
+              "en": "Beijing",
+              "zh": "北京"
+            },
+            "labelProvenance": "inherited-source-place-pair"
+          },
+          "region": "east-asia",
+          "theme": "states",
+          "kind": "event",
+          "importance": 1,
+          "summary": {
+            "en": "Anglo-French forces enter Beijing and burn the Old Summer Palace (Yuanmingyuan)",
+            "zh": "第二次鸦片战争英法联军攻入北京，劫掠并焚毁圆明园"
+          },
+          "dateNote": {
+            "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+            "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+          },
+          "locationPrecision": "representative",
+          "sources": [
+            {
+              "title": "Chronicles of the Realm — js/lore_data.js (frozen source dataset)",
+              "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/lore_data.js",
+              "publisher": "DeanChensj / Chronicles of the Realm",
+              "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+              "checkedAt": "2026-10-23"
+            }
+          ],
+          "aliases": [
+            "北京",
+            "Beijing"
+          ],
+          "provenance": {
+            "dataset": "jiangshan",
+            "status": "inherited",
+            "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+            "periodId": "qing",
+            "periodIds": [
+              "qing"
+            ],
+            "sourceRecords": [
+              {
+                "file": "js/lore_data.js",
+                "path": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/71",
+                "index": 71
+              }
+            ],
+            "note": {
+              "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+              "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+            }
+          },
+          "relatedIds": [
+            "qing-dynasty"
+          ]
+        }
+      ],
+      "pixelsDownloaded": false
+    },
+    {
+      "name": "examination",
+      "sourceUrl": "https://www.getty.edu/art/collection/object/108QBA",
+      "recordIds": [
+        "china-event-qing-048"
+      ],
+      "decision": "hold-conflicting-object-metadata",
+      "reason": {
+        "en": "The title says Examination Halls, but the same item’s description identifies Hualin Temple, the Temple of the Five Hundred Genii. Do not choose one field silently. A separately catalogued Rossier examination compound was used instead.",
+        "zh": "标题称贡院，但同一藏品的描述却指认为华林寺、五百罗汉寺。不能默默选择其中一种说法；本批改用独立著录的罗西耶贡院照片。"
+      },
+      "sourceSchema": {
+        "name": "The Examination Halls in Canton",
+        "description": "View of a brick path inside Hualin Temple, also known as the Temple of the Five Hundred Genii. The stone path leads to the front entrance of one of the temple buildings, and the brick walls of small buildings with slanted roofs that run parallel to the path are painted with large Chinese characters.",
+        "identifier": [
+          "84.XA.755.7.174"
+        ],
+        "material": "Albumen silver print",
+        "license": "http://creativecommons.org/publicdomain/zero/1.0/",
+        "size": "Image: 20.6 × 27.5 cm (8 1/8 × 10 13/16 in.)",
+        "locationCreated": {
+          "name": [
+            "Canton, China"
+          ],
+          "@type": "Place"
+        },
+        "thumbnailUrl": "https://media.getty.edu/iiif/image/c213f394-cfb3-4d8a-a00a-96638f1ec159/full/!300,300/0/default.jpg",
+        "creditText": [
+          "<p>Images provided here are believed to be in the public domain and     are available under <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>     through Getty&rsquo;s <a href=\"http://www.getty.edu/about/opencontent.html\">Open Content Program</a>.     Texts provided here are &copy; J. Paul Getty Trust, licensed under     <a href=\"https://creativecommons.org/licenses/by/4.0/legalcode\">CC BY 4.0</a>.     Terms of use for the Getty logo can be found     <a href=\"http://www.getty.edu/legal/copyright.html#logo\"> here</a>.    </p>"
+        ],
+        "url": "https://www.getty.edu/art/collection/object/108QBA",
+        "sameAs": "https://www.getty.edu/art/collection/object/108QBA",
+        "creator": [
+          {
+            "name": "Unknown",
+            "@type": "Person"
+          }
+        ],
+        "temporal": "1870–1890",
+        "@context": "https://www.schema.org",
+        "@type": "Photograph"
+      },
+      "pixelsDownloaded": false
+    },
+    {
+      "name": "examination-grounds",
+      "sourceUrl": "https://www.getty.edu/art/collection/object/107EZR",
+      "recordIds": [
+        "china-event-qing-048"
+      ],
+      "decision": "hold-redundant-weaker-view",
+      "reason": {
+        "en": "Rights and pixels are verified, but this lighter, less legible stereograph repeats the same compound. The clearer companion provides the useful evidence without padding the asset count.",
+        "zh": "权利和图像已核查，但这张较淡、细节不够清楚的立体照片重复同一建筑群。较清晰的另一张已能提供有用信息，无需为增加数量重复收录。"
+      },
+      "pixelsDownloaded": true,
+      "pixelReview": {
+        "en": "Faded paired views show rows of roofless or low-walled compartments inside a perimeter wall.",
+        "zh": "偏淡的双幅影像显示围墙内成排无顶或低墙隔间。"
+      }
+    },
+    {
+      "name": "getty-images-07-kung",
+      "recordIds": [
+        "china-event-qing-037"
+      ],
+      "decision": "hold-until-narrative-corrected",
+      "reason": {
+        "en": "Chinese title and summary imply that all eight regents were killed, while English says they were ousted. The Palace Museum distinguishes three deaths from the removal of the other regents.",
+        "zh": "中文标题与摘要把罢黜八位辅政大臣写成“诛肃顺等八大臣”，英文则只说罢黜。故宫博物院区分三人的死亡与其余大臣被免职。"
+      },
+      "correctionProposal": "historical-correction-proposals.json",
+      "fullOriginalTarget": {
+        "id": "china-event-qing-037",
+        "title": {
+          "en": "Xinyou Coup: Cixi, Ci’an, and Prince Gong oust Sushun’s Eight Regents to begin the Regency",
+          "zh": "辛酉政变：慈禧、慈安联结恭亲王奕訢诛肃顺等八大臣垂帘"
+        },
+        "start": 1861,
+        "end": 1861,
+        "location": {
+          "lon": 116.401,
+          "lat": 39.901,
+          "label": "Beijing · Chengde",
+          "labelI18n": {
+            "en": "Beijing · Chengde",
+            "zh": "北京 · 承德避暑山庄"
+          },
+          "labelProvenance": "inherited-source-place-pair"
+        },
+        "region": "east-asia",
+        "theme": "states",
+        "kind": "event",
+        "importance": 1,
+        "summary": {
+          "en": "Xinyou Coup: Cixi, Ci’an, and Prince Gong oust Sushun’s Eight Regents to begin the Regency",
+          "zh": "辛酉政变：慈禧、慈安联结恭亲王奕訢诛肃顺等八大臣垂帘"
+        },
+        "dateNote": {
+          "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+          "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+        },
+        "locationPrecision": "representative",
+        "sources": [
+          {
+            "title": "Chronicles of the Realm — js/map_data.js (frozen source dataset)",
+            "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/map_data.js",
+            "publisher": "DeanChensj / Chronicles of the Realm",
+            "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+            "checkedAt": "2026-10-23"
+          }
+        ],
+        "aliases": [
+          "北京 · 承德避暑山庄",
+          "Beijing · Chengde"
+        ],
+        "provenance": {
+          "dataset": "jiangshan",
+          "status": "inherited",
+          "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+          "periodId": "qing",
+          "periodIds": [
+            "qing"
+          ],
+          "sourceRecords": [
+            {
+              "file": "js/map_data.js",
+              "path": "/DYNASTY_DATA/15/milestones/36",
+              "index": 36
+            }
+          ],
+          "note": {
+            "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+            "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+          }
+        },
+        "relatedIds": [
+          "qing-dynasty"
+        ]
+      }
+    },
+    {
+      "name": "getty-images-07-kung",
+      "recordIds": [
+        "china-landmark-066"
+      ],
+      "decision": "hold-until-narrative-corrected",
+      "reason": {
+        "en": "Chinese title and summary imply that all eight regents were killed, while English says they were ousted. The Palace Museum distinguishes three deaths from the removal of the other regents.",
+        "zh": "中文标题与摘要把罢黜八位辅政大臣写成“诛肃顺等八大臣”，英文则只说罢黜。故宫博物院区分三人的死亡与其余大臣被免职。"
+      },
+      "correctionProposal": "historical-correction-proposals.json",
+      "fullOriginalTarget": {
+        "id": "china-landmark-066",
+        "title": {
+          "en": "Xinyou Coup in Beijing: Cixi and Ci’an ally with Prince Gong to oust the Eight Regents",
+          "zh": "辛酉政变：慈禧、慈安两宫太后联结恭亲王奕訢诛肃顺等八大臣"
+        },
+        "start": 1861,
+        "end": 1861,
+        "location": {
+          "lon": 116.4,
+          "lat": 39.9,
+          "label": "Beijing",
+          "labelI18n": {
+            "en": "Beijing",
+            "zh": "北京"
+          },
+          "labelProvenance": "inherited-source-place-pair"
+        },
+        "region": "east-asia",
+        "theme": "states",
+        "kind": "event",
+        "importance": 1,
+        "summary": {
+          "en": "Xinyou Coup in Beijing: Cixi and Ci’an ally with Prince Gong to oust the Eight Regents",
+          "zh": "辛酉政变：慈禧、慈安两宫太后联结恭亲王奕訢诛肃顺等八大臣"
+        },
+        "dateNote": {
+          "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+          "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+        },
+        "locationPrecision": "representative",
+        "sources": [
+          {
+            "title": "Chronicles of the Realm — js/lore_data.js (frozen source dataset)",
+            "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/lore_data.js",
+            "publisher": "DeanChensj / Chronicles of the Realm",
+            "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+            "checkedAt": "2026-10-23"
+          }
+        ],
+        "aliases": [
+          "北京",
+          "Beijing"
+        ],
+        "provenance": {
+          "dataset": "jiangshan",
+          "status": "inherited",
+          "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+          "periodId": "qing",
+          "periodIds": [
+            "qing"
+          ],
+          "sourceRecords": [
+            {
+              "file": "js/lore_data.js",
+              "path": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/65",
+              "index": 65
+            }
+          ],
+          "note": {
+            "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+            "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+          }
+        },
+        "relatedIds": [
+          "qing-dynasty"
+        ]
+      }
+    },
+    {
+      "name": "getty-images-07-hongkong",
+      "recordIds": [
+        "china-landmark-266"
+      ],
+      "decision": "hold-until-narrative-corrected",
+      "reason": {
+        "en": "The 1842 title compresses cession with the founding of Victoria City. The official name dates to 1843, while settlement development was already under way in 1841.",
+        "zh": "1842年的标题把香港岛割让与维多利亚城建立合并为一事。官方命名发生在1843年，而聚落开发在1841年已经展开。"
+      },
+      "correctionProposal": "historical-correction-proposals.json",
+      "fullOriginalTarget": {
+        "id": "china-landmark-266",
+        "title": {
+          "en": "Under the Treaty of Nanjing, Hong Kong Island is ceded and Victoria City is founded",
+          "zh": "《南京条约》割让香港岛，英人辟维多利亚城开埠"
+        },
+        "start": 1842,
+        "end": 1842,
+        "location": {
+          "lon": 114.17,
+          "lat": 22.28,
+          "label": "Hong Kong Island (Hong Kong)",
+          "labelI18n": {
+            "en": "Hong Kong Island (Hong Kong)",
+            "zh": "香港岛（今香港）"
+          },
+          "labelProvenance": "inherited-source-place-pair"
+        },
+        "region": "east-asia",
+        "theme": "exchange",
+        "kind": "event",
+        "importance": 1,
+        "summary": {
+          "en": "Under the Treaty of Nanjing, Hong Kong Island is ceded and Victoria City is founded",
+          "zh": "《南京条约》割让香港岛，英人辟维多利亚城开埠"
+        },
+        "dateNote": {
+          "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+          "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+        },
+        "locationPrecision": "representative",
+        "sources": [
+          {
+            "title": "Chronicles of the Realm — js/lore_data.js (frozen source dataset)",
+            "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/lore_data.js",
+            "publisher": "DeanChensj / Chronicles of the Realm",
+            "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+            "checkedAt": "2026-10-23"
+          }
+        ],
+        "aliases": [
+          "香港岛（今香港）",
+          "Hong Kong Island (Hong Kong)"
+        ],
+        "provenance": {
+          "dataset": "jiangshan",
+          "status": "inherited",
+          "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+          "periodId": "qing",
+          "periodIds": [
+            "qing"
+          ],
+          "sourceRecords": [
+            {
+              "file": "js/lore_data.js",
+              "path": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/265",
+              "index": 265
+            }
+          ],
+          "note": {
+            "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+            "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+          }
+        },
+        "relatedIds": [
+          "qing-dynasty"
+        ]
+      }
+    }
+  ],
+  "sourceReceipts": {
+    "corrections": {
+      "content": [
+        {
+          "type": "text",
+          "text": "辛酉政变 - 故宫博物院 (https://www.dpm.org.cn/court/event/156213.html)\n【turn473772view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://www.dpm.org.cn/court/event/156213.html\",\"lineno\":null}); Total lines: 326\nL0: 确 定\nL1: \nL2: 确 定\nL3: \nL4: 【0†Image†img.dpm.org.cn】\nL5: \nL6: 我要留言\nL7: \nL8: 【1†Image†img.dpm.org.cn】\nL9: \nL10: 无障碍浏览\nL11: \nL12:   * 【2†首页】\nL13:   * 【3†导览】\nL14:   * 【4†展览】\nL15:   * 【5†教育】\nL16:   * 【6†探索】\nL17:   * 【7†学术】\nL18:   * 【8†文创】\nL19:   * 【9†关于】\nL20: \nL21:   * 【10†开放时间】\nL22:   * 【11†在线订票†ticket.dpm.org.cn】\nL23:   * 【12†交通路线】\nL24:   * 【13†参观须知】\nL25:   * 【14†全景故宫†pano.dpm.org.cn】\nL26: \nL27:   * 【15†近期展览】\nL28:   * 【16†专馆】\nL29:   * 【17†原状陈列】\nL30:   * 【18†赴外展览】\nL31: \nL32:   * 【19†教育新闻】\nL33:   * 【20†故宫讲坛】\nL34:   * 【21†书画考级】\nL35:   * 【22†故宫博物院教育中心】\nL36:   * 【23†国际博协培训中心】\nL37:   * 【24†故宫志愿者】\nL38:   * 【25†建筑】\nL39:   * 【26†藏品】\nL40:   * 【27†古籍】\nL41:   * 【28†宫廷历史】\nL42:   * 【29†文物医院】\nL43:   * 【30†文化专题】\nL44:   * 【31†名画记†minghuaji.dpm.org.cn】\nL45:   * 【32†数字多宝阁】\nL46:   * 【33†数字文物库†digicol.dpm.org.cn】\nL47:   * 【34†藏品总目†zm-digicol.dpm.org.cn】\nL48: \nL49:   * 【35†学术资讯】\nL50:   * 【36†专家名录】\nL51:   * 【37†故宫学研究院】\nL52:   * 【38†其他学术机构】\nL53:   * 【39†故宫博物院院刊】\nL54: \nL55:   * 【40†故宫出版】\nL56:   * 【41†文创产品】\nL57:   * 【42†故宫壁纸】\nL58:   * 【43†故宫APP】\nL59:   * 【44†故宫游戏†young.dpm.org.cn】\nL60: \nL61:   * 【45†总说】\nL62:   * 【46†领导】\nL63:   * 【47†资讯】\nL64:   * 【48†院史编年】\nL65:   * 【49†景仁榜】\nL66:   * 【50†机构设置】\nL67: \nL68:   * 无障碍\nL69:   * 【51†留言板】\nL70: \nL71:   * 【52†登录】 【53†注册】\nL72: \nL73:   * 【54†中】\nL74: 【55†青少†young.dpm.org.cn】 【56†繁体中文†intl.dpm.org.cn】 【57†English†intl.dpm.org.cn】 【58†Español†intl.dpm.org.cn】 【59†Русский язык†intl.dpm.org.cn】 【60†日本語†intl.dpm.org.cn】 【61†Français†intl.dpm.org.cn】\nL75: \nL76:   * [Input: 搜索关键词...] [Input]\nL77: \nL78: 【55†青少†young.dpm.org.cn】 【56†繁体中文†intl.dpm.org.cn】 【57†English†intl.dpm.org.cn】 【58†Español†intl.dpm.org.cn】 【59†Русский язык†intl.dpm.org.cn】 【60†日本語†intl.dpm.org.cn】 【61†Français†intl.dpm.org.cn】\nL79: # 【3†导览】\nL80: \nL81:     【10†开放时间】\nL82:     【11†在线订票†ticket.dpm.org.cn】\nL83:     【12†交通路线】\nL84:     【13†参观须知】\nL85:     【14†全景故宫†pano.dpm.org.cn】\nL86: \nL87: # 【4†展览】\nL88: \nL89:     【15†近期展览】\nL90:     【16†专馆】\nL91:     【17†原状陈列】\nL92:     【18†赴外展览】\nL93: \nL94: # 【5†教育】\nL95: \nL96:     【19†教育新闻】\nL97:     【20†故宫讲坛】\nL98:     【21†书画考级】\nL99:     【22†故宫博物院教育中心】\nL100:     【23†国际博协培训中心】\nL101:     【24†故宫志愿者】\nL102: \nL103: # 【6†探索】\nL104: \nL105:     【25†建筑】\nL106:     【26†藏品】\nL107:     【27†古籍】\nL108:     【28†宫廷历史】\nL109:     【29†文物医院】\nL110:     【30†文化专题】\nL111:     【31†名画记†minghuaji.dpm.org.cn】\nL112:     【32†数字多宝阁】\nL113:     【33†数字文物库†digicol.dpm.org.cn】\nL114:     【34†藏品总目†zm-digicol.dpm.org.cn】\nL115: # 【7†学术】\nL116: \nL117:     【35†学术资讯】\nL118:     【36†专家名录】\nL119:     【37†故宫学研究院】\nL120:     【38†其他学术机构】\nL121:     【39†故宫博物院院刊】\nL122: \nL123: # 【8†文创】\nL124: \nL125:     【40†故宫出版】\nL126:     【41†文创产品】\nL127:     【42†故宫壁纸】\nL128:     【43†故宫APP】\nL129:     【44†故宫游戏†young.dpm.org.cn】\nL130: # 【9†关于】\nL131: \nL132:     【45†总说】\nL133:     【46†领导】\nL134:     【47†资讯】\nL135:     【48†院史编年】\nL136:     【49†景仁榜】\nL137:     【50†机构设置】\nL138: \nL139: 【54†首页】\nL140: \nL141: 【6†探索】\nL142: \nL143: 【28†宫廷历史】\nL144: \nL145: 【62†宫廷事件】\nL146: \nL147: 辛酉政变\nL148: \nL149: 〖辛酉政变〗\nL150: \nL151: 【63†Image: 辛酉政变†img.dpm.org.cn】\nL152: \nL153: 【63†Image: 清穆宗同治皇帝爱新觉罗·载淳像†img.dpm.org.cn】\nL154: \nL155: 【64†Image: 烟波致爽殿†img.dpm.org.cn】\nL156: \nL157: 【65†Image: 木质“慈禧皇太后之宝”†img.dpm.org.cn】\nL158: \nL159: 【66†Image: 慈禧太后†img.dpm.org.cn】\nL160: \nL161: 【67†Image: 养心殿†img.dpm.org.cn】\nL162: \nL163: 【68†Image: “同道堂”、“御赏”玺†img.dpm.org.cn】\nL164: \nL165: 〖辛酉政变〗\nL166: \nL167: 大\nL168: \nL169: 中\nL170: \nL171: 小\nL172: 　　咸丰十年(1860年)，英法联军发动了第二次鸦片战争，攻进北京，焚烧圆明园。咸丰皇帝带同皇后钮钴禄氏、贵妃叶赫那拉氏及皇子载淳等仓惶逃往热河避暑山庄。咸丰十一年(1861年)七月，咸丰皇帝病死于避暑山庄“烟波致爽”殿。咸丰帝临终前遗诏立6岁的载淳为皇太子，任命载垣等八大臣辅政，同时规定分赐皇太后及皇帝的“同道堂”、“御赏”玺为下达圣谕的符信，一切军政事务由辅政大臣处理。但叶赫那拉氏权欲薰心，一心掌握清朝的大权。首先，她以圣母皇太后的身份和其掌管的“同道堂”印章，取得了皇太后干预朝政的权力，其次，她和恭亲王奕訢等勾结，依靠外国侵略者的支持，预谋除去辅政大臣，最后达到掌管清朝大权、实行垂帘听政的目的。咸丰十一年，叶赫那拉氏利用咸丰梓宫运回北京的时日，于九月三十日发动政变，逼令载垣、端华自杀，将肃顺斩首，其他辅政大臣被革职查办。东西两太后(即慈安、慈禧)于十一月一日在宫内养心殿的“东暖阁”实行垂帘听政。从此，慈禧掌握清朝统治大权达48年之久。因咸丰十一年(1861年)是农历辛酉年，因此，此次政变称为“辛酉政变”。\nL173: 关键词： 鸦片 圆明园 鸦片战争 第二次鸦片战争 避暑山庄 遗诏 载垣 同道堂 八大臣辅政 亲王 奕訢 梓宫 端华 肃顺 暖阁 【69†养心殿】 “东暖阁”\nL174: ## 鸦片\nL175: \nL176: 英文opium的音译，又称阿片。由草本植物罂粟果内乳汁干燥而成。主要成分为吗啡。药用有镇痛、止泻、止咳作用。吸食后易成瘾，可对人体造成极大伤害。\nL177: \nL178: ## 圆明园\nL179: \nL180: 圆明园位于北京市海淀区东部，占地约350万平方米，由圆明、长春、万春三园组成。始建于康熙四十八年（1709年），雍正、乾隆年间陆续扩建，至乾隆三十五年（1770年）基本建成。嘉庆、道光、咸丰时有所增建，前后历时150余年，终于建成了一个包括140余所宫殿楼阁、100多处秀丽景致的宏伟的皇家园林。咸丰十年（1860年）第二次鸦片战争中被英法联军焚毁。\nL181: \nL182: ## 鸦片战争\nL183: \nL184: 中国近代史上两次由于鸦片贸易而引发的战争。第一次为1840-1842年，英国对中国发动的侵略战争。第二次为1854-1860年，英法联军对中国发动的侵略战争。第一次鸦片战争使中国开始沦为半殖民地半封建社会。两次战争均以中国战败、签订不平等条约为结局，使中国主权大量丧失，是近代中国蒙受屈侮的最重大事件。\nL185: ## 第二次鸦片战争\nL186: \nL187: 又称英法联军之役。为英法两个资本主义国家于1856年--1860年联合发动的侵略中国的战争，是第一次鸦片战争的继续和扩大，故称第二次鸦片战争。咸丰四年( 1854年 )，英法为扩大侵略权益，向清政府提出修改《南京条约》的要求，遭清政府拒绝。咸丰六年(1856年)，英军进攻广州，被击退。次年，英法组成侵华联军，攻占广州。咸丰八年(1858年)，英法舰队北上，在俄、美支持下，攻陷大沽炮台，逼迫天津。英、美、法、俄强迫清政府分别签订《天津条约》。其后，英、美、法又迫使清政府签订了《通商章程》。俄国用武力迫使清黑龙江将军奕山签订《瑗珲条约》。咸丰九年(1859年)，英法以换约为借口，再次进攻大沽口，遭清军反击，英法舰队受重创。咸丰十年(1860年)，英法联军再次发动大规模侵华战争，攻陷大沽口，侵占天津，继而入侵北京。英、法、俄迫使清政府与之签订《北京条约》，并迫使清政府批准了中英、中法《天津条约》，承认俄国与奕山签订的《瑗珲条约》。第二次鸦片战争使中国进一步沦为半殖民地半封建社会。\nL188: ## 避暑山庄\nL189: \nL190: 又称“承德离宫”、“热河行宫”，是清代著名的皇家园林，位于今河北省承德市。始建于清代康熙四十二年（1703年），五十年正式命名为避暑山庄。乾隆朝曾进行过大规模的扩建，是我国现存规模最大的清代皇家园林。康熙皇帝玄烨和乾隆皇帝弘历，每年夏、秋季至此居住，处理政务等，使之成为都城北京以外的又一个政治活动中心。\nL191: \nL192: ## 遗诏\nL193: \nL194: 待老皇帝死后宣读的安排有关后事的诏书，其核心是继位人选。\nL195: \nL196: ## 载垣\nL197: \nL198: 清代宗室，爱新觉罗氏，道光时袭封怡亲王。以御前大臣受宣宗顾命。咸丰十年(1860年)英法联军侵占北京，咸丰帝逃往热河避暑山庄，次年七月病重，命载垣等八人为赞襄政务，辅佐同治。载垣等取得实权，力阻慈禧垂帘听政。慈禧发动“辛酉政变”，逼令载垣自尽。\nL199: \nL200: ## 同道堂\nL201: \nL202: 宫殿名。清宫和御苑中以同道堂命名的殿堂共有两处，一处在紫禁城内，即内廷西六宫之一的咸福宫的后殿；一处在圆明园内。\nL203: \nL204: ## 八大臣辅政\nL205: \nL206: 1861年7月，咸丰皇帝在承德避暑山庄病重，遗诏立六岁载淳为皇太子，令载垣、端华、景寿、肃顺、穆荫、匡源、杜翰、焦佑瀛为赞襄政务，称为赞襄政务王大臣，俗称辅政八大臣。\nL207: ## 亲王\nL208: \nL209: 爵位名。其名始于南朝末期。隋代以皇帝的伯叔兄弟和皇子为亲王，唐代以皇帝的兄弟和皇子为亲王，宋明各代一般因袭不改。清代宗室封爵的第一级称为和硕亲王，主要用以封皇子，蒙古贵族亦有封亲王者。\nL210: \nL211: ## 奕訢\nL212: \nL213: 爱新觉罗·奕訢(1832--1898年)，清末洋务派首领。道光帝第六子。咸丰元年(1851年)被封为恭亲王。咸丰十年(1860年)，咸丰帝逃亡热河时，被任命为全权大臣，留京议和，与英、法、俄分别签订《北京条约》。咸丰十一年(1861年)受命主持总理各国事务衙门。咸丰帝死后，与慈禧太后共谋发动祺祥政变，清除肃顺集团，任议政王，掌军机处及总理衙门，总揽朝政，主持洋务活动。因与慈禧太后的矛盾，几度解职、复职。戊戌年病死。\nL214: \nL215: ## 梓宫\nL216: \nL217: 古代帝、后所用的棺木，因多用梓木制成，故称“梓宫”。\nL218: \nL219: ## 端华\nL220: \nL221: 清宗室，爱新觉罗氏。初封三等辅国将军，后为郑亲王，授总理行营事务大臣及御前大臣。咸丰十一年(1861年)七月，咸丰皇帝病重，遗命6岁载淳为皇太子，端华及肃顺、载垣等8人为赞襄政务大臣。后在慈禧发动的“辛酉政变”中以专权跋扈之罪名被逼自尽。\nL222: ## 肃顺\nL223: \nL224: 肃顺(1816-1861年)，满洲镶蓝旗人。爱新觉罗氏，字雨亭。咸丰帝继位后，受拔擢重用，咸丰十年(1860年)官至户部尚书。其间协助咸丰“申国法”以治积弊，锐行诛谴。力主重用汉族官僚曾国藩，用汉族地主武装湘军、淮军镇压太平天国、捻军起义。建议铸大钱以解决财政困难，削减八旗俸饷，减轻国家财政负担。在第二次鸦片战争时的对俄交涉中，拒绝沙俄割占乌苏里江以东领土的无理要求。咸丰十年(1860年)，在英法联军进攻北京时，护咸丰帝逃亡热河。以户部尚书协办大学士、领侍卫内大臣主管行在事务。在咸丰帝死后的宫廷政变中，因反对慈禧太后垂帘听政，被公开处决于菜市口。\nL225: \nL226: ## 暖阁\nL227: \nL228: 暖阁即以槅扇门、隔断板、天花板等在殿堂内建的小屋。\nL229: \nL230: ## 养心殿\nL231: ## “东暖阁”\nL232: \nL233: 养心殿位于内廷内西路西六宫南，从雍正至宣统朝，都是皇帝居住和处理日常政务的场所。养心殿东暖阁是皇帝休息和每年行开笔式的地方。咸丰十一年(1861年)慈禧发动“辛酉政变”，掌握了清王朝的统治大权，养心殿东暖阁就成为垂帘听政的地方。现在仍保留着慈禧垂帘听政的原状。\nL234: \nL235: 返回列表\nL236: \nL237: 更多影像\nL238: \nL239: 【63†Image: 清穆宗同治皇帝爱新觉罗·载淳像†img.dpm.org.cn】\nL240: \nL241: ### 清穆宗同治皇帝爱新觉罗·载淳像\nL242: \nL243: 【64†Image: 烟波致爽殿†img.dpm.org.cn】\nL244: \nL245: ### 烟波致爽殿\nL246: \nL247: 【65†Image: 木质“慈禧皇太后之宝”†img.dpm.org.cn】\nL248: \nL249: ### 木质“慈禧皇太后之宝”\nL250: \nL251: 【66†Image: 慈禧太后†img.dpm.org.cn】\nL252: \nL253: ### 慈禧太后\nL254: \nL255: 【67†Image: 养心殿†img.dpm.org.cn】\nL256: \nL257: ### 养心殿\nL258: \nL259: 【68†Image: “同道堂”、“御赏”玺†img.dpm.org.cn】\nL260: ### “同道堂”、“御赏”玺\nL261: \nL262: 【70†图书馆】\nL263: \nL264: 【71†视听馆】\nL265: \nL266: 【72†故宫旗舰店†palacemuseum.tmall.com】\nL267: \nL268: 【14†全景故宫†pano.dpm.org.cn】\nL269: \nL270: 【73†v故宫】\nL271: \nL272: 【74†Image†img.dpm.org.cn】\nL273: \nL274: 微博\nL275: \nL276: 【75†Image†img.dpm.org.cn】\nL277: \nL278: 【76†Image†img.dpm.org.cn】\nL279: \nL280: 微信\nL281: \nL282: 【77†Image†img.dpm.org.cn】\nL283: \nL284: 【78†Image†img.dpm.org.cn】\nL285: \nL286: 小程序\nL287: \nL288: 【79†Image†img.dpm.org.cn】\nL289: \nL290: 【80†Image†img.dpm.org.cn】\nL291: \nL292: 学习强国号\nL293: \nL294: 【81†Image†img.dpm.org.cn】\nL295: \nL296: 【82†Image†img.dpm.org.cn】\nL297: \nL298: 视频号\nL299: \nL300: 【83†Image†img.dpm.org.cn】\nL301: \nL302: 【84†Image†img.dpm.org.cn】\nL303: \nL304: 抖音号\nL305: \nL306: 【85†Image†img.dpm.org.cn】\nL307: \nL308: 网站访问量\nL309: 【86†网站地图】 【87†相关链接】 【88†影像授权】 【89†隐私政策】 【90†版权声明】 【51†留言板】 【91†联系我们】 【92†关于我们】\nL310: \nL311: 网站维护：故宫博物院数字与信息部\nL312: \nL313: 联系方式：gugong@dpm.org.cn\nL314: \nL315: 【93†京公网安备 11010102004165号†www.beian.gov.cn】\nL316: \nL317: 【94†京ICP备05067311号-1†beian.miit.gov.cn】\nL318: \nL319: © 2001- 现在 故宫博物院\nL320: \nL321: 网站建设：北京分形科技\nL322: \nL323: 浏览建议\nL324: \nL325: 火狐 谷歌 360浏览器 最佳分辨率（1920 * 1080）\n\n--------------------------------------------------------------------------------\nLands Department - City of Victoria Boundary Stones (https://www.landsd.gov.hk/en/survey-mapping/historical-bdy-stones/victoria-city-bdy-stones.html)\n【turn473772view1】 [wordlim: 200] Crawled: 3 days ago; Content type: text/html; Source: open({\"ref_id\":\"https://www.landsd.gov.hk/en/survey-mapping/historical-bdy-stones/victoria-city-bdy-stones.html\",\"lineno\":null}); Total lines: 203\nL0: 【0†Skip to content】\nL1: \nL2: Info\nL3: \nL4: Search\nL5: \nL6: Share\nL7: \nL8:   * 【1†What's New】\nL9: \nL10: 【2†News】【3†Event Calendar】【4†Recruitment】\nL11: \nL12: 【5†Tenders】\nL13: \nL14: 【6†Land Sale List】【7†Sites not included in Land Sale List】【8†Short Term Tenancy】【9†Government Properties】【10†Tender for the Supply of Goods, Services and Consultancies】\nL15: \nL16:   * 【11†Resources】\nL17: 【12†Land Information and Statistics】【13†Mapping Information】【14†Survey Related Guides and Specifications】【15†BIM Related Guides and Specifications】【16†Consolidated Annual Open Data Plans (Spatial Data Plans included)】【17†Practice Notes and Information Notes】【18†Multi-media Materials】\nL18: \nL19: 【19†Speeches / Presentations】【20†Government Notices】【21†Press Releases】【22†LegCo Business】【23†Public Forms】【24†Tender Result】\nL20: \nL21:   * 【25†About Us】\nL22: 【26†Director's Message】【27†Vision and Mission】【28†Organisation】【29†Performance Pledges】【30†Promotion of Racial Equality】【31†Access Co-ordinator / Access Officers】\nL23: \nL24: 【32†Access to Information】【33†Official Declarations Administered by Lands Department】【34†Boundary Plan of 12 District Lands Offices】【35†Map Sales Outlets】【36†Contact Us】【37†Links】\nL25: \nL26:   * 【38†Land Disposal and Transaction】\nL27: \nL28: 【39†Land Transaction】\nL29: 【40†Private Treaty Grant】【41†Lease Modification, Land Exchange and Lot Extension】【42†Land Sharing Pilot Scheme】【43†Waivers】【44†Revitalisation of Industrial Buildings】【45†Land Transaction Applications (including Land Exchange) for Development of Land within New Development Areas】【46†Summary of Land Transaction Applications Received and Under Processing】\nL30: \nL31: 【47†Land Sale】【48†Premium / Rental Assessment】\nL32: \nL33: 【49†Lease Extension】\nL34: 【50†Government Notices Issued under the Extension of Government Leases Ordinance】【51†List of Special Purpose Leases】\nL35: \nL36: 【52†Vesting of Land】【53†Village Houses in the New Territories】\nL37: \nL38:   * 【54†Development Control and Compliance】\nL39: \nL40: 【55†Development Submissions under Lease】【56†Tree Preservation】【57†Lands Department Consent Scheme, Approval of Deeds of Mutual Covenant and Management Agreement】【58†Hong Kong Property for Hong Kong People】【59†Building Covenant】\nL41: \nL42: 【60†Certificate of Compliance】\nL43: 【61†Lease Compliance and Enforcement】\nL44: \nL45: 【62†Provision of Public Facilities within Private Developments】【63†Government Rent】\nL46: \nL47:   * 【64†Land Acquisition and Clearance】\nL48: \nL49: 【65†Land Acquisition and Clearance】\nL50: 【66†Acquisition and Compensation】【67†Clearance and Rehousing】【68†Ex-gratia Compensation and Rehousing - Introduction Video, Pamphlet and Frequently Asked Questions】【69†Ex-gratia Allowances for Fishermen and Mariculturists Affected by Marine Works Projects in Hong Kong Waters】【70†Development (Town Planning, Lands and Works) (Miscellaneous Amendments) Ordinance 2023】\nL51: \nL52: 【71†Compensation Assessment】【72†Railway Projects】\nL53: \nL54: 【45†New Development Areas】\nL55: 【73†Kwu Tung North and Fanling North New Development Areas】【74†Hung Shui Kiu/Ha Tsuen New Development Area】【75†Yuen Long South New Development Area】【76†San Tin Technopole】【77†Ngau Tam Mei New Development Area】\nL56: \nL57:   * 【78†Land Management and Enforcement】\nL58: \nL59: 【79†Government Land Control】\nL60: \nL61: 【80†Squatter Control】\nL62: \nL63: 【81†One-off Squatter Occupants Voluntary Registration Scheme】\nL64: \nL65: 【82†Unauthorised Structures on Private Agricultural Land】\nL66: \nL67: 【83†Determination of Slope Maintenance Responsibility】\nL68: 【84†Vegetation Maintenance】【85†Management of properties held by the Lands Department】【86†Short Term Tenancy】【87†Government Land Allocations】【88†Temporary occupation of Government land for setting up Street Counters to hold non-profit making and non-fund raising activities (Street Counter Pass)】\nL69: \nL70:   * 【89†Survey and Mapping】\nL71: \nL72: 【90†Survey and Mapping Office : Vision and Mission】【91†Survey and Mapping Office : Environmental and Quality Policy】【92†Land Survey Authority】【93†Land Boundary Services】\nL73: 【94†Positioning Infrastructure】\nL74: \nL75: 【95†Geodetic Survey Control Network】【96†Hong Kong Satellite Positioning Reference Station Network†www.geodetic.gov.hk】【97†Survey Instrument Calibration Baselines and Sites】【98†Indoor Positioning】\nL76: \nL77: 【99†Collation of Geospatial Data】【100†Historical Boundary Stones】【101†Hong Kong GeoCode (HKGCode)】\nL78: \nL79: 【102†Mapping Services and Products】\nL80: 【103†Multi-scale Topographic Mapping】【104†Land Boundary Map / Cadastral Survey Record】【105†Thematic Mapping】【106†3D Digital Map】【107†Mapping Advisory】【108†Street and Geographical Place Naming】【109†Reprographics】【110†Aerial Photographs and Photogrammetric Products】【111†Other Products】【112†Customer Feedback】\nL81: \nL82:   * 【113†Spatial Data】\nL83: \nL84: 【114†Land Information Management and Spatial Data Analytics】\nL85: \nL86: 【115†Geospatial Information Services】\nL87: 【116†Imagery and Intelligence Collection】【117†Common Spatial Data Infrastructure】【118†BIM Data Management】【119†Open Data (Geospatial)】\nL88: # City of Victoria Boundary Stones\nL89: \nL90: 【120†iframe†www.map.gov.hk】\nL91: \nL92: ## Historical Background of the City of Victoria Boundary Stone 1903\nL93: ### City of Victoria\nL94: On 14 Jun 1841, the Hong Kong government held the first public auction for land sale. A total of 34 lots of land were sold, centered in Sheung Wan, Central and Wan Chai on the north shore of Hong Kong Island. It was called the \"Queen's City\" at the time and was connected by Queen's Road. On 29 Jun 1843, the former Hong Kong government officially named the city on the north shore of Hong Kong Island \"Victoria City\".\nL95: \"Victoria City\" was adopted administratively as a \"district\" and were referred to in different reports and statutes such as the Market Ordinance (No. 9 of 1958), Rating Ordinance etc. On 9 May 1857, with the expansion of Victoria City, the Hong Kong government published the gazette and divided the Hong Kong Island into nine districts.\nL96:   1. Victoria\nL97:   2. Show Ke Wan\nL98:   3. Sai Wan\nL99:   4. Sheak O\nL100:   5. Ty Tam Took\nL101:   6. Stanley\nL102:   7. Heong Kong\nL103:   8. Aberdeen\nL104:   9. Pok Foo Lum\nL105: \nL106: 【121†Image: Government Notification No. 69, 1857】\nL107: \nL108: Government Notification No. 69, 1857\nL109: \nL110: The district of Victoria was further divided into seven sub-districts.\nL111: \nL112:   * No. 1 Or Sei Ying Poon\nL113:   * No. 2 Or Sheong Wan\nL114:   * No. 3 Or Tai Ping Shan\nL115:   * No. 4 Or Choong Wan\nL116:   * No. 5 Or Ha Wan\nL117:   * No. 6 Or Wong Nei Choong\nL118:   * No. 7 Or So Koan Poo\nL119: ### Four Circuits and Nine Yeuks\nL120: \nL121: Chinese Residents called the Victoria City area summarily as \"Four Circuits and Nine Yeuks\". \"Circuit\" refers to the landform of the north shore of Hong Kong Island, which is like a circle, while \"Yeuks\" refers to the beginning and end of the lot.Four Circuits included:\nL122:   1. Ha Wan, i.e. Lower Circuit (from Wanchai Road to Arsenal Street),\nL123:   2. Choong Wan, i.e. Central Circuit (from Murray Parade Ground to the junction of Wellington Street and Queen's Road Central),\nL124:   3. Sheung Wan, i.e. Upper Circuit (from the junction of Wellington Street and Queen's Road Central to Civil Hospital) and\nL125:   4. Sai Wan, i.e. Western Circuit (from Connaught Road West to Kennedy Town).\nL126: \nL127: The Nine Yeuks were:\nL128:   * The first Yeuk: from Kennedy Town to Shek Tong Tsui\nL129:   * The second Yeuk: from Shek Tong Tsui to Sai Ying Pun\nL130:   * The third Yeuk: Sai Ying Pun\nL131:   * The fourth Yeuk: eastern half of Connaught Road West\nL132:   * The fifth Yeuk: from Western Market to Central Market\nL133:   * The sixth Yeuk: from Central Market to Arsenal Street\nL134:   * The seventh Yeuk: from Arsenal Street to Wan Chai Road\nL135:   * The eighth Yeuk: from Wan Chai Road to Bowrington Canal\nL136:   * The ninth Yeuk: from Bowrington Canal to Causeway Bay\nL137: However, the Nine Yeuks in the \"Four Circuits and Nine Yeuks\" are not actually a fixed concept but have been revised many times and have multiple versions.\n"
+        }
+      ],
+      "isError": false
+    },
+    "japanContext": {
+      "content": [
+        {
+          "type": "text",
+          "text": "ABOUT | Kinkaku-ji | 臨済宗相国寺派 (https://www.shokoku-ji.jp/en/kinkakuji/about/)\n【turn526243view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({\"ref_id\":\"https://www.shokoku-ji.jp/en/kinkakuji/about/\",\"lineno\":null}); Total lines: 107\nL0:   * 【0†Shokoku-ji】\nL1:   * 【1†Kinkaku-ji】\nL2:   * 【2†Ginkaku-ji】\nL3:   * 【3†Jotenkaku Museum】\nL4: \nL5: English [Select]\nL6: \nL7: 臨済宗相国寺派\nL8: \nL9: #\nL10: \nL11: Kinkaku-ji\nL12: \nL13:   * 【4†ABOUT】\nL14:   * 【5†GUIDE】\nL15:   * 【6†GALLERY】\nL16:   * 【7†ACCESS】\nL17:   * 【8†FAQ】\nL18: \nL19: # 【1†Kinkaku-ji】\nL20: \nL21:   * 【4†ABOUT】\nL22:   * 【5†GUIDE】\nL23:   * 【6†GALLERY】\nL24:   * 【7†ACCESS】\nL25:   * 【8†FAQ】\nL26: \nL27: ## Shokoku-ji Group\nL28: \nL29:   * 【0†Shokoku-ji】\nL30:   * 【1†Kinkaku-ji】\nL31:   * 【2†Ginkaku-ji】\nL32:   * 【3†Jotenkaku Museum】\nL33: \nL34:   * 【9†日本語】\nL35:   * 【10†English】\nL36:   * 【11†中文簡体】\nL37:   * 【12†한국어】\nL38:   * 【13†Français】\nL39:   * 【14†Español】\nL40: # ABOUT\nL41: \nL42: 【15†Image】\nL43: \nL44: 【16†Image】\nL45: \nL46: 【17†Image】\nL47: \nL48: 【18†Image】\nL49: ### Pure Land Paradise drawn by Ashikaga Yoshimitsu.\nL50: \nL51: Its famous Golden Pavilion (Kinkaku)—actually a pagoda made to house the sacred relics of the Buddha—has given this temple the popular name of Kinkaku-ji (“Temple of the Golden Pavilion”), however the official name of this branch temple of the Rinzai-sect Zen temple of Shokoku-ji is Rokuon-ji. The temple was designated as a UNESCO World Heritage Site in 1994.\nL52: During the Kamakura period (1185-1333), this land was the site of a villa of the aristocrat Saionji Kintsune, known as Kitayamadai. During the Muromachi period (1392-1573), however, it caught the attention of the third Ashikaga shogun Yoshimitsu (1358-1408), who took over the site from the Saionji family in order to build his own villa, which he called Kitayamadono.\nL53: This complex, whose gardens and architecture focused around a central Golden Pavilion, was said to evoke paradise on earth and was the destination of such esteemed visitors as Emperor Gokomatsu (r. 1392-1412), father of the Zen priest Ikkyû. The estate also became the center of the so-called “Kitayama culture,” which was central in importing various aspects of Ming-dynasty Chinese culture into Japanese society, thanks to increased trade relations with Japan’s continental neighbor.\nL54: After Yoshimitsu’s death, the villa was turned into a temple according to his will, with Musô Sôseki (also known as Musô Kokushi, 1275-1351) becoming its first abbot. The name Rokuon-ji was taken from the first two characters of Yoshimitsu’s posthumous name.\nL55: ## History\nL56: ### Kinkaku-ji’s Location\nL57: Kinkaku-ji is located in Kinkakuji-cho, Kita-ku, in the northwester corner of Kyoto. It is a beautiful area, with the mountains Kinugasayama to the west and Hidari Daimonjiyama behind it. The range of mountains running along the northern part of Kyoto is known as Kitayama, but the area around Kinkaku-ji is sometimes referred to as Hokuzan, an alternative pronunciation of the characters used to write Kitayama.\nL58: This name can be traced back to the Heian period (794-1185), and at that time was used to distinguish the larger area (Kitayama) extending north into Kyoto Prefecture from the smaller (Hokuzan) area close to Kinkaku-ji. From the mid-Heian period, many burial sites were located here, and there are still numerous tombs—among them that of Emperor En’yu (r. 969-84)—crematories, graves, and burial mounds in the vicinity.\nL59: Today the area to the west of Kinkaku-ji is known as Himuro (“ice chamber”), a name thought to derive from the ice chambers that the imperial court operated there. In winter, ice was cut into blocks and stored in chambers excavated in the deep recesses of Hidari Daimonjiyama and other mountains in the area, where it could be preserved for use in warm weather. In the past, the area was also regarded as a rich hunting grounds and a desirable locale for temples.\nL60: The site of Kinkaku-ji, however, seems to have been primarily rice paddies and farmland, and was passed from its owner, the head of the Office of Shinto Worship, to Saionji Kintsune (1171-1244). Saionji built the first structures on the site, the Saion-ji family temple and a villa known as Kitayamadai.\nL61: ### Origins of Kinkaku-ji’s Name\nL62: Kinkaku-ji’s Relics Hall (Shariden), commonly known as the Golden Pavilion, is so well known that the entire temple has come to be called Kinkaku-ji, but the temple’s official name is Rokuon-ji. It was named after the third Ashikaga shogun Yoshimitsu (1358-1408) and was part of his private Kitayama villa. Kinkaku-ji is a Rinzai Zen temple belonging to the Shokoku-ji branch.\nL63: Rokuon (Deer Park) was the site of Shakyamuni’s first sermon after attaining enlightenment, and Rokuon’in was Yoshimitsu’s posthumous name.\nL64: ### Kinkaku-ji’s Founder\nL65: \nL66: Kinkaku-ji, like Ginkaku-ji, is a popular tourist destination. Both temples belong to the Shokoku-ji branch of Rinzai Zen and, like their head temple Shokoku-ji, regard Muso Soseki (also known as Muso Kokushi, 1275-1371) as their honorary founder. Though not located within the Shokoku-ji precincts, Kinkaku-ji and Ginkaku-ji are regarded as branches of Shokoku-ji, and at present the abbot of Shokoku-ji is simultaneously administrator of both temples.\nL67: ### Before Yoshimitsu\nL68: The name Kitayama can be traced back to the Heian period, at which time temples such as Reigan-ji, Koryu-ji, and Hoon-ji were built here. There are also many tombs and burial mounds, and it was a site for cremations. In the Kamakura period, the land became the property of the powerful Saionji clan, and Saioinji Kintsune built a luxurious villa here known as Kitayamadai.\nL69: But with the collapse of the Kamakura military government the influence of the Saionji family also declined precipitously, and with it Kitayamadai fell into disuse and disrepair. Ashikaga Yoshimitsu acquired the villa from the Saionji clan and built his Kitayama palace there.\nL70: ### The Saionji Clan\nL71: The Saionji clan was part of the northern branch of the Fujiwaras, and at first was not particularly influential. With the appearance of Saionji Kintsune, who became a central figure in the imperial court, the power of the clan grew so strong that it eclipsed that of the regent. At about this time (probably the 1220s), Kintsune decided to build a clan temple on the site of the present Kinkaku-ji.\nL72: The land belonged to the head of the Office of Shinto Worship, who accepted Kintsune’s offer of an exchange of the property for a manor in Matsue, Owari Province. No documents concerning the construction of the temple survive, so it is impossible to know what it looked like, but we know that a magnificent dedication ceremony was held in 1224 and that the following year the poet Fujiwara Teika (also, Sadaie, 1162-1241) visited Saion-ji and Kitayamadai for the first time.\nL73: According to Teika, the design was remarkably novel. He was particularly impressed by the forty-five-foot waterfall and a beautiful pond as blue as lapis lazuli. Recalling but also surpassing Fujiwara Michinaga’s (966-1027) symbol of personal glory, Hojo-ji, Kintsune’s Saion-ji and Kitayamadai were described by contemporaries as resembling the realm of Taoist Immortals or the Pure Land. But with the drastic decline of the Saioinji family, Saion-ji and Kitayamadai also fell into disrepair.\nL74: The only surviving trace of the former structures is the pond.\nL75: ### During Yoshimitsu’s Lifetime 1\nL76: Yoshimitsu built a Muromachi palace (Muromachidai) in Kyoto, to which he transferred the day-to-day operations of the shogunate (military government). Known as “Hana no Gosho,” or the “Palace of Flowers,” it became the de facto seat of government.\nL77: A practitioner of Zen under the tutelage of Shun’oku Myoha (1311-88), a disciple of Muso Soseki, Yoshimitsu decided to build a Zen temple and had Shokoku-ji constructed adjacent to the shogunate headquarters. Shokoku-ji became a center for the famous Gozan (“Five Mountains”) literature—Chinese learning fostered by Zen monks—and flourished as an important cultural nexus.\nL78: Yet Yoshimitsu’s building ambitions remained unsatisfied, and he had the former Saionji Kitayamadai, which had fallen into ruin, completely renovated as the Kitayama palace. For the Relics Hall of this complex, he had a golden pavilion built, with a Shakyamuni triad installed on the first floor, a Kannon image on the second, and the sacred relics on the third.\nL79: ### During Yoshimitsu’s Lifetime 2\nL80: Thereafter, Yoshimitsu once again transferred the operations of the shogunate, this time from the Muromachi palace to the new Kitayama palace. Yoshimitsu strongly promoted trade with Ming China, and he entertained official emissaries of the Ming at his new Kitayama headquarters. In this fashion, he was able to assemble a large collection of important Chinese cultural artifacts, which formed the foundation of what came to be known as Kitayama culture.\nL81: After Yoshimitsu’s death the Kitayama palace lost its official status as the residence of the shogun and became, as his behest, the Zen temple named Rokuon-ji, after his posthumous name Rokuon-in. The early history of Rokuon-ji as a temple is not very well documented.\nL82: ### Yoshimitsu and the Golden Pavilion\nL83: Yoshimitsu retired in 1394 in favor of his nine-year-old son Yoshimochi, and the following year, at the youthful age of thirty-eight, took full Buddhist orders. His decision seems to have been informed by both his past experiences and hopes for the future.\nL84: He had succeeded to the post of shogun as a boy of nine, upon the death of his father Yoshiakira, and in the twenty-nine years of his reign he faced many challenges-which he rose to admirably, successfully resolving the schism between into Northern and Southern imperial courts, reuniting Japan, and bringing peace to the realm. Having accomplished this, he apparently longed for freedom from the demands of official life and wished to live in a less restricted fashion, following his personal inclinations.\nL85: After taking possession of the dilapidated Saion-ji and Kitayamadai from the Saionji clan, Yoshimitsu began the construction of his new residence, the Kitayama palace, in 1397. The design of both the architecture and gardens exhibited the epitome of refinement, but he devoted the most attention to the Relics Hall-the Golden Pavilion.\nL86: In 1408, Yoshimitsu held a magnificent ceremony for the imperial visit of Emperor Gokomatsu (r. 1392-1412) which came to be known as the Imperial Visit to Kitayama and remains a well known event to this day. Yoshimitsu resided at Kinkaku-ji until his death at the age of 51. It was after the death of Yoshimitsu that Yoshimochi (1386-1428) designated Muso Soseki the honorary founder of the temple and officially named it Rokuon-ji.\nL87: ### After Yoshimitsu\nL88: The fortunes of the Zen temples that enjoyed the support of the shogunate were inextricably tied to the shogunate’s fortunes, and with the decline in the power of the military government they faced economic difficulties. In addition, many Zen temples, including Shokoku-ji, were destroyed by fire during the Onin War (1467-77). Rokuon-ji also suffered damage, but the Golden Pavilion, Stone Fudo Hall, and the Goma Hall, among others, escaped destruction.\nL89: Following the Onin War, the fifteen generations of Ashikaga shoguns came to an end, and after the turbulent Azuchi-Momoyama period (1568-1615), the founder of the Tokugawa shogunate, Tokugawa Ieyasu (1543-1616) inaugurated an age of peace.\nL90: ### Kinkaku-ji in the Edo Period (1615-1868)\nL91: \nL92: The first Edo-period shogun Tokugawa Ieyasu designated Saisho Shotai (1548-1607) as the abbot of Rokuon-ji. Saisho Shotai had assisted both Toyotomi Hideyoshi (1536-98) and Tokugawa Ieyasu as a leading advisor and was known as the “Black-Robed Prime Minister”—black robes being characteristic of monks. Saisho Shotai secured the financial foundation of Rokuon-ji and his disciples went on to inherit the post of abbot to the temple.\nL93: ### Kinkaku-ji in the Meiji Period (1868-1912)\nL94: \nL95: In the Meiji Period, Rokuon-ji lost its official sponsorship and with it, its base of financial support. It was also a target of the persecution of Buddhism that took place in Japan at this time, but overcame these difficulties through the efforts of its abbots and survived. It first opened its doors to the public in 1894, under the auspices of its abbot, Kanso Choro, on the occasion of a major trade fair held in Osaka.\nL96: ### Visiting Kinkaku-ji\nL97: The gardens of Japanese temples reflect the Buddhist worldview, as do the temple buildings. Simply by visiting a temple and experiencing its environment, one comes into contact with the teachings of Buddhism in a form even more convincing than sermons or lectures on Buddhist doctrine.\nL98: With the dramatic growth of the Japanese economy after World War II, Kinkaku-ji has become an extremely popular tourist destination. Large numbers of people have had the opportunity to experience and learn to appreciate Zen and Zen culture through visits to Kinkaku-ji. As the result of the many people involved with the temple’s administration and upkeep over its long history, visiting Kinkaku-ji has emerged as a unique method of propagating the Buddhist teachings.\nL99: 【19†PAGE TOP】\nL100: \nL101:   * 【0†Shokoku-ji】\nL102:   * 【1†Kinkaku-ji】\nL103:   * 【2†Ginkaku-ji】\nL104:   * 【3†Jotenkaku Museum】\nL105: \nL106: Copyright © Shokoku-ji religious corporation, All rights reserved.\n\n--------------------------------------------------------------------------------\nM. Rokuon-ji (https://www2.city.kyoto.lg.jp/bunshi/bunkazai/isan-m-e.htm)\n【turn526243view1】 [wordlim: 200] Crawled: yesterday; Content type: text/html; Source: open({\"ref_id\":\"https://www2.city.kyoto.lg.jp/bunshi/bunkazai/isan-m-e.htm\",\"lineno\":null}); Total lines: 12\nL0: ## 【0†World Heritage Historic Monuments of Ancient Kyoto】\nL1: 【1†JAPANESE】\nL2: M. Rokuon-ji (Kinkaku-ji)\nL3: Golden Pavilion, the admiration to the imperial culture by the man of power\nL4: Establishment: The late 14th century (1397)\nL5: 　Originally built in the Kamakura Period as an artistocrat's coutry estate, and taken possession of in 1397 by retired shogun Ashikaga Yoshimitsu, who turned it into a supremely refined and elegant country villa called Kitayama-dono (the Kitayama Palace), Rokuon-ji's birth as a Buddhist temple occured in 1422, when, following Yoshimitsu's death, it was converted into a Zen temple, with the monk Muso Soseki as its founding abbot.　Whereas the temple later fell into decline, the Shariden (commnly known as Kinkaku or \"Golden Pavilion\") and temple gardens were largely restred during the Edo Period.　The temple garden was designed to incorporate Mt.\nL6: Kinugasayama as shakkei　(borrowed scenery).　In the course of creating the garden, various selected rocks were installed in the existing pond; the Shariden was constructed at the edge of the pond; and a viewpoint was set at the top of the mountain.　The Kinkaku, with its shingled roofs and with its second and third floors entirely gilded with gold, epitomizes the so-called \"Kitayama culture\" of the period, and reveals Yoshimitsu's dynastic aspirations.　This building was burned to the ground in 1950, and an exact reproduction of the original building was completed in 1955.　  | 【2†Image】\nL7: 【3†Image】\nL8: 【4†Image】\nL9: Photo by Kanzaki Junichi\nL10: 【5†Map of \"Historic Monuments of Ancient Kyoto\"】\nL11: Copyright-Preservation of Curtural Properties Section, City of Kyoto\n\n--------------------------------------------------------------------------------\nUeno Toshogu Shrine: History | Search Details | Japan Tourism Agency,Japan Tourism Agency (https://www.mlit.go.jp/tagengo-db/en/R1-00092.html)\n【turn526243view2】 [wordlim: 200] Crawled: 4 days ago; Content type: text/html; Source: open({\"ref_id\":\"https://www.mlit.go.jp/tagengo-db/en/R1-00092.html\",\"lineno\":null}); Total lines: 124\nL0: # 【0†JTA Sightseeing Database】\nL1: \nL2:   * 【1†Skip to main content】\nL3:   * 【0†HOME】\nL4:   *     * Font size\nL5:     * Standard\nL6:     * Large\nL7: \nL8: 【2†Select a language】\nL9: \nL10:   * 【3†日本語】\nL11:   * 【0†English】\nL12:   * 【4†中文（简体字）】\nL13:   * 【5†中文（繁體）】\nL14:   * 【6†한글】\nL15: \nL16:   * 【7†About the Database】\nL17:   * 【8†Search Guide】\nL18:   * 【9†Use of the Texts】\nL19: \nL20:   * 【0†HOME】\nL21:   * Ueno Toshogu Shrine: History\nL22: ## Select Search\nL23: \nL24: [Button: Search] [Button: Clear]\nL25: \nL26: Keyword(s)\nL27:     [Input: example: festival]\nL28: Prefecture\nL29:     [Select]\nL30: \nL31: Topic(s)\nL32:   * [Input]Historic Sites/Castle Ruins\nL33:   * [Input]Villages/Towns\nL34:   * [Input]Castles/Palaces\nL35:   * [Input]Shrines/Temples/Churches\nL36:   * [Input]Nature/Ecology\nL37:   * [Input]Flora and Fauna\nL38:   * [Input]National Parks/Quasi-National Parks\nL39:   * [Input]Activities\nL40:   * [Input]Annual Events\nL41:   * [Input]Regional Specialties\nL42:   * [Input]Cuisine/Food Culture\nL43:   * [Input]World Heritage (Natural or Cultural)\nL44:   * [Input]Fine Arts/Performing Arts/\nL45: Traditional Crafts\nL46:   * [Input]Public Works & Institutions\nL47: (Museums, etc.)\nL48:   * [Input]Onsen (Hot Springs)\nL49: Medium/Media of Use\nL50: \nL51: \nL52:   * [Input]Interpretive Sign\nL53:   * [Input]Pamphlet\nL54:   * [Input]Web Page\nL55:   * [Input]App, QR code, etc.\nL56:   * [Input]Other (Audio Guide, etc.)\nL57: \nL58: Text Length\nL59: \nL60: \nL61:   * [Input]≤250 Words\nL62:   * [Input]251 - 500\nL63:   * [Input]501 - 750\nL64:   * [Input]751+ Words\nL65: ## Title Ueno Toshogu Shrine: History\nL66: \nL67:   * Tokyo\nL68: \nL69:   * 【10†Multilingual】\nL70:   * 【11†English】\nL71: \nL72: Topic(s)：\nL73:     Shrines/Temples/Churches\nL74: \nL75: Medium/Media of Use：\nL76:     Web Page\nL77: \nL78: Text Length：\nL79:     251-500\nL80: \nL81: FY Prepared：\nL82:     2019\nL83: \nL84: Associated Tourism Board：\nL85:     ueno･shitayachikutagengokaisetsukyogikai\nL86: \nL87: Associated Address：\nL88:     【12†9-88 Uenokoen, Taito-ku , Tokyo to†map.yahoo.co.jp】\nL89: \nL90: [Input]Japanese\nL91: \nL92:   * 【13†PDF file（204KB）】\nL93:   * 【14†Word file（19KB）】\nL94: \nL95: 上野東照宮：歴史\nL96: 上野東照宮は1603年から1867年まで日本を支配した徳川幕府を開いた徳川家康（1543–1616）を神道の神様、東照大権現（「偉大なる権現、東の光」）として祀っています。この神社は東京の北に位置する栃木県にある、家康の偉大な聖地であり埋葬地でもある日光東照宮から枝分かれした100社を超える東照宮の1社です。権現という言葉は、神道の神様として顕現した仏陀という意味で、現在では別々のものと思われているこの二つの宗教が日本ではいかに千年以上にわたって密接に繋がっていたかを思い出させます。\nL97: \nL98: 神道と仏教の密接な関係は、1627年の創建から1868年の政府の命による分離に至る上野東照宮の歴史の大半に流れています。上野東照宮は徳川家康の成功裡に終わった日本統一を目指す戦いにおいて家康と最も固い同盟を結んだ武将の一人である藤堂高虎（1556-1630）によって建立されました。かつて高虎自身が所有していたものの、寛永寺という広大な仏教寺院を造営するために幕府の要請によって寄進した土地に建てられました。このため上野東照宮は、現在の上野公園よりも広大な地域に及んだ寛永寺の境内に建てられることになったのです。\nL99: 高虎が建立した元の建物は1651年に、それよりもはるかに凝った作りの建物に建て替えられました。家康の孫、三代将軍徳川家光（1604–1651）が上野東照宮を、本社である日光東照宮の豪奢な金と漆の社殿を反映したものにせよと命じたのです。これは、日光まで旅する余裕がない人が多かった江戸（現在の東京）の一般庶民が、しかるべき荘厳な建物で東照大権現に祈りを捧げることができるようにするためでした。今日の上野東照宮で見ることのできる、徳川幕府に忠誠を誓った大名が寄進した250基に及ぶ銅と石の燈籠等の装飾物や建造物は、この再建時に建てられたものです。\nL100: 1867年の徳川幕府の終焉を招いた政変や戦争を上野東照宮は生き延びましたが、敷地は新政府によって大きく減らされました。明治天皇（1852–1912）が新たな君主となったことから明治維新と呼ばれている政権交代の後、新政府は神道と仏教を分離する決定を下しました。上野東照宮もこれに従って仏教の要素を全て取り除かねばならなくなりました。これには神社の敷地内にあった五重塔も含まれていました。宮司は、五重塔は上野東照宮のものではなく寛永寺のものだと説明して当局を説き伏せ、五重塔を破壊から守りました。それ以来、上野東照宮は不思議な力に守られているのか、第2次世界大戦中の空襲の際には爆弾が社殿の裏に落ちたにもかかわらず、爆弾は不発に終わりました。\nL101: ### English\nL102: \nL103:   * 【15†PDF file（132KB）】\nL104:   * 【16†Word file（19KB）】\nL105: \nL106: Ueno Toshogu Shrine: History\nL107: Ueno Toshogu enshrines Tokugawa Ieyasu (1543–1616), founder of the Tokugawa shogunate that ruled Japan from 1603 to 1867, as the Shinto deity Tosho Daigongen (“Great Gongen, Light of the East”). The shrine is one of the more than 100 offshoots of Nikko Toshogu, Ieyasu’s great sanctuary and burial site in Tochigi Prefecture north of Tokyo.\nL108: The word gongen means a Buddha manifested as a Shinto deity, and reminds us of how these two religions, now thought of as separate, were intimately linked in Japan for more than a thousand years.\nL109: The close connections between Shinto and Buddhism run throughout most of Ueno Toshogu’s history, from its founding in 1627 to the government-ordered separation of the two traditions in 1868. The shrine was established by Todo Takatora (1556–1630), a samurai general and one of Tokugawa Ieyasu’s closest allies in his successful campaign to unite all of Japan under one banner.\nL110: It was built on land previously owned by Takatora himself but donated at the request of the shogunate for the purpose of constructing the vast Buddhist temple complex called Kan’eiji. Ueno Toshogu thus came to stand within the Kan’eiji temple grounds, which covered an area larger than all of modern-day Ueno Park.\nL111: Takatora’s original shrine building was replaced by the current, far more elaborate structure in 1651. Ieyasu’s grandson, the third shogun Tokugawa Iemitsu (1604–1651), had ordered that Ueno Toshogu be reconstructed to mirror the ostentatious gold-and-lacquer sanctuary at the main Toshogu shrine in Nikko.\nL112: This was done so that the common people of Edo (present-day Tokyo), who often could not afford the trip to Nikko, would be able to say their prayers to Tosho Daigongen on appropriately impressive premises. Most of the structures and decorative elements at Ueno Toshogu today, including the 250 copper and stone lanterns donated by daimyo (feudal lords) loyal to the Tokugawa, date back to this rebuilding.\nL113: Ueno Toshogu survived the political upheaval and war that brought down the Tokugawa shogunate in 1867, but its grounds were significantly reduced by the new government. After the change in regimes, called the Meiji Restoration because Emperor Meiji (1852–1912) was installed as the new sovereign, the new government resolved to separate Shinto and Buddhism. Ueno Toshogu had to follow suit and get rid of all its Buddhist-inspired elements. These included a five-story pagoda on the shrine grounds.\nL114: The head priest prevented the destruction of the pagoda by persuading officials that the tower belonged to Kan’eiji, not Ueno Toshogu. The shrine has lived something of a charmed existence ever since, escaping even the bombing during World War II, when a bomb fell right behind the main sanctuary but failed to detonate.\nL115: Search\nL116: \nL117:   * Address. 2-1-2, Kasumigaseki, Chiyoda-ku, Tokyo 100-8918\nL118:   * Phone. 03-5253-8111\nL119: \nL120:   * 【17†Privacy Policy】\nL121:   * 【18†About the Copyright Link/Disclaimer】\nL122: \nL123: Copyright © Japan Tourism Agency. All Rights Reserved.\n"
+        }
+      ],
+      "isError": false
+    }
+  },
+  "editorialReview": "Corrected regent outcomes and distinct Victoria City dates; revised captions to avoid inferred marriage, visually proving trade, or claiming exact elapsed time. Original images unmodified. No generated reconstructions."
+}

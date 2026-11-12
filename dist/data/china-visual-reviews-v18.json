@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "reviewedAt": "2026-11-11",
+  "reviewedAt": "2026-11-12",
   "policy": "Source-backed bilingual narrative corrections with original records and representative map points preserved.",
   "eventReviews": [
     {
@@ -1784,6 +1784,95 @@
           "evidenceNote": "Chinese catalogue, Qianlong 20 date and yihai inscription support 1755; an older English paragraph misprints 1775. The commentary records the raid, Dawachi’s flight and capture. Troop totals and hostile court labels are not adopted as independent facts.",
           "evidenceNoteZh": "中文目录、乾隆二十年纪年与乙亥题记支持1755年；较旧英文简介误作1775年。研究说明记载夜袭、达瓦齐逃走及被俘；不将兵数和宫廷敌我称谓直接采用为独立事实。",
           "checkedAt": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": "china-event-qing-037",
+      "patch": {
+        "summary": {
+          "en": "In 1861, Cixi and Ci’an allied with Prince Gong to remove the eight regents appointed before the Xianfeng Emperor’s death. Sushun was executed, Zaiyuan and Duanhua were forced to kill themselves, and the other regents were removed from office. The two empress dowagers began governing behind the screen.",
+          "zh": "1861年，慈禧、慈安与恭亲王奕訢联合，罢黜咸丰帝临终任命的八位辅政大臣。肃顺被处死，载垣、端华被迫自尽，其余辅政大臣被革职。两宫太后开始垂帘听政。"
+        },
+        "title": {
+          "en": "Xinyou Coup: Cixi, Ci’an, and Prince Gong oust Sushun’s Eight Regents to begin the Regency",
+          "zh": "辛酉政变：慈禧、慈安联合恭亲王奕訢罢黜顾命八大臣，开始垂帘听政"
+        }
+      },
+      "note": {
+        "en": "Chinese title and summary imply that all eight regents were killed, while English says they were ousted. The Palace Museum distinguishes three deaths from the removal of the other regents.",
+        "zh": "中文标题与摘要把罢黜八位辅政大臣写成“诛肃顺等八大臣”，英文则只说罢黜。故宫博物院区分三人的死亡与其余大臣被免职。"
+      },
+      "sources": [
+        {
+          "title": "辛酉政变",
+          "publisher": "The Palace Museum",
+          "url": "https://www.dpm.org.cn/court/event/156213.html",
+          "checkedAt": "2026-11-12",
+          "evidenceNote": "The article states that Zaiyuan and Duanhua were compelled to kill themselves, Sushun was beheaded, and the other regents were removed and investigated. It identifies Cixi, Cian and Yixin in the coup. Calendar specifics and its evaluative language are not adopted.",
+          "evidenceNoteZh": "区分三人的死亡与其余辅政大臣被革职；不采用文中的评价性用语。"
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-066",
+      "patch": {
+        "summary": {
+          "en": "In 1861, Cixi and Ci’an allied with Prince Gong to remove the eight regents appointed before the Xianfeng Emperor’s death. Sushun was executed, Zaiyuan and Duanhua were forced to kill themselves, and the other regents were removed from office. The two empress dowagers began governing behind the screen.",
+          "zh": "1861年，慈禧、慈安与恭亲王奕訢联合，罢黜咸丰帝临终任命的八位辅政大臣。肃顺被处死，载垣、端华被迫自尽，其余辅政大臣被革职。两宫太后开始垂帘听政。"
+        },
+        "title": {
+          "en": "Xinyou Coup in Beijing: Cixi and Ci’an ally with Prince Gong to oust the Eight Regents",
+          "zh": "辛酉政变：慈禧、慈安联合恭亲王奕訢罢黜顾命八大臣"
+        }
+      },
+      "note": {
+        "en": "Chinese title and summary imply that all eight regents were killed, while English says they were ousted. The Palace Museum distinguishes three deaths from the removal of the other regents.",
+        "zh": "中文标题与摘要把罢黜八位辅政大臣写成“诛肃顺等八大臣”，英文则只说罢黜。故宫博物院区分三人的死亡与其余大臣被免职。"
+      },
+      "sources": [
+        {
+          "title": "辛酉政变",
+          "publisher": "The Palace Museum",
+          "url": "https://www.dpm.org.cn/court/event/156213.html",
+          "checkedAt": "2026-11-12",
+          "evidenceNote": "The article states that Zaiyuan and Duanhua were compelled to kill themselves, Sushun was beheaded, and the other regents were removed and investigated. It identifies Cixi, Cian and Yixin in the coup. Calendar specifics and its evaluative language are not adopted.",
+          "evidenceNoteZh": "区分三人的死亡与其余辅政大臣被革职；不采用文中的评价性用语。"
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-266",
+      "patch": {
+        "summary": {
+          "en": "The Treaty of Nanjing ceded Hong Kong Island to Britain in 1842. Colonial urban development had already begun along the northern shore: land was auctioned in June 1841, and the settlement was officially named Victoria City on 29 June 1843.",
+          "zh": "1842年《南京条约》将香港岛割让给英国。殖民城市开发此前已在北岸展开：1841年6月举行土地拍卖，1843年6月29日该聚落正式命名为维多利亚城。"
+        },
+        "title": {
+          "en": "1842: Hong Kong Island is ceded; Victoria City develops",
+          "zh": "1842年：香港岛被割让，维多利亚城逐步形成"
+        }
+      },
+      "note": {
+        "en": "The 1842 title compresses cession with the founding of Victoria City. The official name dates to 1843, while settlement development was already under way in 1841.",
+        "zh": "1842年的标题把香港岛割让与维多利亚城建立合并为一事。官方命名发生在1843年，而聚落开发在1841年已经展开。"
+      },
+      "sources": [
+        {
+          "title": "City of Victoria Boundary Stones",
+          "publisher": "Hong Kong Lands Department",
+          "url": "https://www.landsd.gov.hk/en/survey-mapping/historical-bdy-stones/victoria-city-bdy-stones.html",
+          "checkedAt": "2026-11-12",
+          "evidenceNote": "The first public land auction took place on 14 June 1841. The settlement on the northern shore was officially named Victoria City on 29 June 1843. This distinguishes settlement development, 1842 cession and 1843 naming.",
+          "evidenceNoteZh": "记载1841年6月14日土地拍卖与1843年6月29日维多利亚城命名。"
+        },
+        {
+          "title": "City of Victoria: A Selection of Museum’s Historical Photographs",
+          "publisher": "Hong Kong Museum of History",
+          "url": "https://hk.history.museum/en/web/mh/exhibition/2020_past_02.html",
+          "checkedAt": "2026-11-12",
+          "evidenceNote": "Supports Hong Kong Island’s cession in 1842 and subsequent urban infrastructure development. Do not adopt its loose late-nineteenth-century wording for the naming date; use the specific Lands Department chronology.",
+          "evidenceNoteZh": "馆方检索摘要支持1842年割让与其后城市建设；命名日期采用地政总署的明确记载。"
         }
       ]
     }

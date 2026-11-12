@@ -424,3 +424,17 @@ Coverage: **466 historical images / 855 of 2,087 unique entries (40.97%)**, with
 Validation: **484 checks pass**, with no failures, cancellations or skips. The new checks caught omitted AWM metadata translations and a missing localization-overlay receipt; both were completed before the final full pass. Chrome verified every admitted image and all sixteen entry connections in English and Chinese, including the initially collapsed second Banaba photograph. The Banaba pair displays both sources, dates and interpretations, and keyboard zoom reaches 125%. The gallery reports 466 images / 855 entries; the Chinese Cairo story is legible at a 485-pixel content width with no horizontal page overflow.
 
 This checkpoint is not a release. Main and live remain unchanged, with no GitHub Actions.
+
+Checkpoint 37 is remotely saved as `75b2cbb3738b8b289ceae2d935718b041468d67f`, exact tree `ffb41843b9ae3505c11c5218a6e963f33fa2ae2c`. Ref, tree and zero Actions runs were verified; main remains `b212fcc4293c72f8ff08f4b0fcd8109bd5caa94b`.
+
+## Checkpoint 38: East Asian places and archival voices
+
+Fourteen authentic images connect seventeen exact records, giving fourteen entries their first image. Getty CC0 photographs add Guangzhou’s examination compound, Ieyasu’s Nikkō tomb, Edo Castle, Kinkaku-ji, two Ainu sitters, Prince Gong and Victoria City. Three independently sourced record corrections distinguish the eight regents’ removal from three deaths, and separate Hong Kong’s 1842 cession from land sales in 1841 and Victoria City’s official naming in 1843. Imported source bytes and original wording remain preserved.
+
+Seven public-domain U.S. archival images add Ho Chi Minh’s 1946 diplomatic letter, Huerta’s 2012 commemorative visit, the Montgomery court seating diagram and a same-day U.S. proclamation on German unity. Lincoln’s portrait, Wells’s appeal and Liliʻuokalani’s signed memorial complement already illustrated biographies; these three do not increase the coverage numerator. Independent review corrected a child’s age description, Huerta’s position in the group and Chinese name consistency. Source errors about the Berlin Wall chronology and Dawes’s Senate title were not adopted.
+
+Coverage: **480 historical images / 869 of 2,087 unique entries (41.64%)**. **175** further entries are needed to reach 1,044. All 466 previous image objects and 682 associations remain exactly unchanged. Modern teaching graphics remain outside this measure.
+
+All **492 checks pass**, without failures, cancellations or skips. Chrome verified all seventeen entry connections in both languages (34 states), including expanded secondary images, decoded dimensions, source credits and corrected text. The Montgomery document supports keyboard zoom to 125%. The gallery reports 480 images / 869 entries; People displays Lincoln’s new portrait automatically in both languages, with no portrait-only checkbox and all 278 people retained before search. No horizontal page overflow at the existing 485-pixel content width. An attempted People search while the image gallery was still open was corrected by dismissing that dialog first; no application change was needed.
+
+The German proclamation’s official single-frame GIF was converted losslessly to PNG, with identical decoded pixels and dimensions. All other source derivatives are copied unchanged. This checkpoint is not a release; main and live remain unchanged, with no GitHub Actions.

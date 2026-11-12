@@ -3,13 +3,14 @@
   "reviewedAt": "2026-11-12",
   "baselineManifest": "content-expansion-v17.json",
   "total": 2087,
-  "covered": 855,
-  "assets": 466,
-  "percent": 40.96789650215621,
+  "covered": 869,
+  "assets": 480,
+  "percent": 41.63871586008625,
   "coveredIds": [
     "abbasid-caliphate",
     "abu-simbel-relocation",
     "achaemenid-empire",
+    "ainu-language-cultural-continuity",
     "ajanta-cave-workshops",
     "akan-goldweights-measure-trade",
     "aksum",
@@ -140,7 +141,9 @@
     "china-event-qing-024",
     "china-event-qing-025",
     "china-event-qing-029",
+    "china-event-qing-037",
     "china-event-qing-039",
+    "china-event-qing-048",
     "china-event-roc-001",
     "china-event-sanguo-002",
     "china-event-sanguo-003",
@@ -233,6 +236,7 @@
     "china-landmark-063",
     "china-landmark-064",
     "china-landmark-065",
+    "china-landmark-066",
     "china-landmark-068",
     "china-landmark-069",
     "china-landmark-070",
@@ -309,6 +313,7 @@
     "china-landmark-263",
     "china-landmark-264",
     "china-landmark-265",
+    "china-landmark-266",
     "china-landmark-272",
     "china-landmark-273",
     "china-landmark-274",
@@ -617,6 +622,8 @@
     "fort-laramie-treaty-1868",
     "french-revolution",
     "galileo-telescope",
+    "german-reunification",
+    "germany-reunified-period",
     "goryeo-kingdom",
     "great-seljuqs",
     "great-zimbabwe",
@@ -650,6 +657,7 @@
     "jantar-mantar-jaipur",
     "japan-postwar-constitution",
     "japan-postwar-polity",
+    "japan-tokugawa-domains",
     "japanese-american-incarceration",
     "jerusalem-second-temple-destruction-70",
     "joya-ceren-households",
@@ -701,8 +709,10 @@
     "mohenjo-daro",
     "mongol-unified-phase",
     "monte-alban-zapotec-capital",
+    "montgomery-bus-boycott",
     "mughal-empire",
     "mughal-translation-workshops",
+    "muromachi-shogunate",
     "mysore-hyder-tipu-phase",
     "nalanda",
     "nan-madol",
@@ -744,6 +754,7 @@
     "person-christine-pizan",
     "person-darwin",
     "person-desmond-tutu",
+    "person-dolores-huerta",
     "person-emilie-du-chatelet",
     "person-florence-nightingale",
     "person-frederick-douglass",
@@ -754,6 +765,7 @@
     "person-harriet-tubman",
     "person-hatshepsut",
     "person-hildegard-bingen",
+    "person-ho-chi-minh",
     "person-ibn-sina",
     "person-ida-b-wells",
     "person-isaac-newton",
@@ -832,6 +844,8 @@
     "timbuktu",
     "timurid-dynasty",
     "tiwanaku-apogee",
+    "tokugawa-shogunate-establishment",
+    "tokugawa-shogunate-political-order",
     "toltec-tula-state",
     "tonga-constitution",
     "transatlantic-slave-trade-1514-1866",
@@ -927,7 +941,6 @@
     "world-wide-web",
     "south-africa-election",
     "soviet-union-formation",
-    "german-reunification",
     "soviet-union-dissolution",
     "yugoslavia-successor-states",
     "czechoslovakia-dissolution",
@@ -1007,7 +1020,6 @@
     "tripitaka-koreana-carving",
     "jikji-metal-type",
     "imjin-war",
-    "tokugawa-shogunate-establishment",
     "korea-june-democracy-movement",
     "nok-terracotta-workshops",
     "djenne-djeno-urbanism",
@@ -1022,7 +1034,6 @@
     "quebec-french-settlement",
     "royal-proclamation-niagara",
     "canadian-pacific-last-spike",
-    "montgomery-bus-boycott",
     "nasca-palpa-geoglyphs",
     "maya-dresden-codex",
     "tenochtitlan-siege",
@@ -1045,7 +1056,6 @@
     "china-salt-iron-debate-81bce",
     "mesopotamia-babylon-assur",
     "japan-onin-war",
-    "japan-tokugawa-domains",
     "egypt-piye-campaign",
     "satavahana-dynasty",
     "rashtrakuta-dynasty",
@@ -1060,7 +1070,6 @@
     "purepecha-state",
     "mixtec-kingdoms",
     "champa-kingdoms",
-    "muromachi-shogunate",
     "canada-polity",
     "india-independent-polity",
     "ghana-independent-polity",
@@ -1068,7 +1077,6 @@
     "prc-political-period",
     "france-fifth-republic",
     "united-kingdom-polity",
-    "germany-reunified-period",
     "buganda-regional-kingdom",
     "bunyoro-regional-kingdom",
     "rwanda-nyiginya-court",
@@ -1113,10 +1121,8 @@
     "yamato-kofun-court",
     "asuka-court-buddhist-institutions",
     "nara-court-government",
-    "tokugawa-shogunate-political-order",
     "nagasaki-1635-edict",
     "ryukyu-maritime-court",
-    "ainu-language-cultural-continuity",
     "orkhon-monasteries-pastoral-society",
     "korea-march-first-movement",
     "gwangju-democratic-uprising",
@@ -1476,7 +1482,6 @@
     "person-miriam-makeba",
     "person-halide-edib",
     "person-mary-ann-shadd",
-    "person-dolores-huerta",
     "person-jose-marti",
     "person-carolina-maria-de-jesus",
     "person-claudia-jones",
@@ -1488,7 +1493,6 @@
     "person-kim-gu",
     "person-park-du-seong",
     "person-dewi-sartika",
-    "person-ho-chi-minh",
     "person-nguyen-thi-binh",
     "person-josefa-llanes-escoda",
     "person-taras-shevchenko",
@@ -2021,7 +2025,6 @@
     "china-event-qing-031",
     "china-landmark-051",
     "china-landmark-226",
-    "china-landmark-266",
     "china-event-qing-032",
     "china-landmark-052",
     "china-landmark-469",
@@ -2030,9 +2033,7 @@
     "china-event-qing-035",
     "china-event-qing-036",
     "china-landmark-072",
-    "china-event-qing-037",
     "china-landmark-053",
-    "china-landmark-066",
     "china-landmark-508",
     "china-event-qing-038",
     "china-landmark-470",
@@ -2050,7 +2051,6 @@
     "china-landmark-201",
     "china-event-qing-047",
     "china-landmark-513",
-    "china-event-qing-048",
     "china-landmark-514",
     "china-event-qing-049",
     "china-landmark-100",
@@ -2099,7 +2099,7 @@
   ],
   "target": 1044,
   "targetMet": false,
-  "remaining": 189,
+  "remaining": 175,
   "regions": {
     "africa": {
       "total": 136,
@@ -2107,11 +2107,11 @@
     },
     "east-asia": {
       "total": 1216,
-      "covered": 549
+      "covered": 558
     },
     "europe": {
       "total": 122,
-      "covered": 70
+      "covered": 72
     },
     "latin-america": {
       "total": 94,
@@ -2119,7 +2119,7 @@
     },
     "north-america": {
       "total": 123,
-      "covered": 37
+      "covered": 39
     },
     "oceania": {
       "total": 89,
@@ -2131,7 +2131,7 @@
     },
     "southeast-asia": {
       "total": 101,
-      "covered": 28
+      "covered": 29
     },
     "west-central-asia": {
       "total": 111,
@@ -2141,9 +2141,9 @@
   "types": {
     "ancient-portrait": 2,
     "ancient-royal-image": 2,
-    "document-facsimile": 29,
+    "document-facsimile": 34,
     "historical-artwork": 71,
-    "historical-photograph": 73,
+    "historical-photograph": 82,
     "historical-portrait": 29,
     "later-depiction": 67,
     "lifetime-portrait": 18,
@@ -2433,6 +2433,13 @@
       "associations": 0
     },
     {
+      "file": "visual-assets-getty-images-07-v18.json",
+      "bytes": 25251,
+      "sha256": "c96e0a33efacaabe659963204d1a83e0acac746b40f905045f5737f05bb2a629",
+      "assets": 7,
+      "associations": 0
+    },
+    {
       "file": "visual-assets-oceania-images-01-v18.json",
       "bytes": 7274,
       "sha256": "25f90d019ac0341e89c990f97986940725cc9761408bdab836621671f84a5440",
@@ -2465,6 +2472,13 @@
       "bytes": 30757,
       "sha256": "c422fdb52e7cb45e5a6d4c4ef75ee400890302dd794e6a21da7c247d3579f1a1",
       "assets": 8,
+      "associations": 0
+    },
+    {
+      "file": "visual-assets-us-archives-05-v18.json",
+      "bytes": 27395,
+      "sha256": "440c0c9f13a2c24a62b6899459ee41f1b9049e3218bc019707f4496d51075e6b",
+      "assets": 7,
       "associations": 0
     },
     {
@@ -2566,6 +2580,6 @@
       "associations": 1
     }
   ],
-  "assetBytes": 91824993,
+  "assetBytes": 95490559,
   "verification": "All admitted files match their SHA-256, byte count and encoded dimensions. Source identity, reuse rights, pixel review and entry relevance require the individual editorial records; structural validation does not establish those facts."
 }

@@ -1,6 +1,6 @@
 # Historical images: credits and reuse
 
-Reviewed 2026-11-12. 466 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
+Reviewed 2026-11-12. 480 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
 
 Historical artifacts, surviving places and later depictions retain their source identities. No generated reconstructions are included in this catalogue.
 
@@ -3658,6 +3658,104 @@ The Getty object page explicitly provides this image under CC0 through its Open 
 
 Source-served IIIF JPEG preserved unchanged, including the original mount or decoration where present.
 
+## Guangzhou’s examination compound before abolition / 废科举前的广州贡院
+
+- File: getty-images-07-examinations.jpg
+- Creator: Pierre Joseph Rossier; published by Negretti & Zambra
+- Date: 1858–1859
+- Collection: J. Paul Getty Museum
+- Source: https://www.getty.edu/art/collection/object/107EZS
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.getty.edu/art/collection/object/107EZS
+
+The Getty object record explicitly provides this image under CC0 through its Open Content Program.
+
+Official source-served IIIF JPEG saved unchanged, including the mount and stereoscopic pairing where present.
+
+## Ieyasu’s tomb and the memory of the shogunate / 家康陵墓与幕府的记忆
+
+- File: getty-images-07-ieyasu.jpg
+- Creator: Attributed to Adolfo Farsari or Kozaburo Tamamura
+- Date: about 1875–1890s
+- Collection: J. Paul Getty Museum
+- Source: https://www.getty.edu/art/collection/object/108NQK
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.getty.edu/art/collection/object/108NQK
+
+The Getty object record explicitly provides this image under CC0 through its Open Content Program.
+
+Official source-served IIIF JPEG saved unchanged, including the mount and stereoscopic pairing where present.
+
+## Edo Castle’s moat at the end of shogunal rule / 幕府末期的江户城护城河
+
+- File: getty-images-07-edo.jpg
+- Creator: Felice Beato
+- Date: 1863–1868
+- Collection: J. Paul Getty Museum
+- Source: https://www.getty.edu/art/collection/object/109BEG
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.getty.edu/art/collection/object/109BEG
+
+The Getty object record explicitly provides this image under CC0 through its Open Content Program.
+
+Official source-served IIIF JPEG saved unchanged, including the mount and stereoscopic pairing where present.
+
+## The Golden Pavilion before the 1950 fire / 1950年火灾前的金阁
+
+- File: getty-images-07-kinkaku.jpg
+- Creator: Unknown
+- Date: 1850s–1890s
+- Collection: J. Paul Getty Museum
+- Source: https://www.getty.edu/art/collection/object/10A2K0
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.getty.edu/art/collection/object/10A2K0
+
+The Getty object record explicitly provides this image under CC0 through its Open Content Program.
+
+Official source-served IIIF JPEG saved unchanged, including the mount and stereoscopic pairing where present.
+
+## Two Ainu people in Hokkaido, 1908 / 1908年北海道的两位阿伊努人
+
+- File: getty-images-07-ainu.jpg
+- Creator: Arnold Genthe
+- Date: 1908
+- Collection: J. Paul Getty Museum
+- Source: https://www.getty.edu/art/collection/object/1043RE
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.getty.edu/art/collection/object/1043RE
+
+The Getty object record explicitly provides this image under CC0 through its Open Content Program.
+
+Official source-served IIIF JPEG saved unchanged, including the mount and stereoscopic pairing where present.
+
+## Prince Gong before the 1861 coup / 1861年政变前的恭亲王
+
+- File: getty-images-07-kung.jpg
+- Creator: Felice Beato
+- Date: November 2, 1860
+- Collection: J. Paul Getty Museum
+- Source: https://www.getty.edu/art/collection/object/109C2T
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.getty.edu/art/collection/object/109C2T
+
+The Getty object record explicitly provides this image under CC0 through its Open Content Program.
+
+Official source-served IIIF JPEG saved unchanged, including the mount and stereoscopic pairing where present.
+
+## Victoria City in the 1870s / 1870年代的维多利亚城
+
+- File: getty-images-07-hongkong.jpg
+- Creator: Lai Afong
+- Date: about 1870s
+- Collection: J. Paul Getty Museum
+- Source: https://www.getty.edu/art/collection/object/108ZR5
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.getty.edu/art/collection/object/108ZR5
+
+The Getty object record explicitly provides this image under CC0 through its Open Content Program.
+
+Official source-served IIIF JPEG saved unchanged, including the mount and stereoscopic pairing where present.
+
 ## A French Arch for Federation / 联邦庆典中的法国拱门
 
 - File: oceania-awm-p00670-001.jpg
@@ -4007,6 +4105,104 @@ Institutional rendition saved byte-for-byte; no local crop, resize or re-encodin
 DocsTeach identifies the exact image, NAID 542069, in the U.S. Information Agency’s Miscellaneous Subjects, Staff and Stringer Photographs and explicitly labels the primary source “Public Domain, Free of Known Copyright Restrictions.” The Nixon Library independently captions the same NAID and date. The clearance is for the photograph, not the speech.
 
 Institutional rendition saved byte-for-byte; no local crop, resize or re-encoding. The supplied image is 250×250 pixels; fine detail is limited.
+
+## Abraham Lincoln during the Civil War era / 内战时期的亚伯拉罕·林肯
+
+- File: lincoln-civil-war-portrait-nara.jpg
+- Creator: Photographer unidentified; Mathew Brady photographic collection
+- Date: ca. 1860–1865
+- Collection: U.S. National Archives and Records Administration
+- Source: https://docsteach.org/document/photograph-of-president-abraham-lincoln/
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://docsteach.org/document/photograph-of-president-abraham-lincoln/
+
+The individual DocsTeach primary-source page labels this item “Public Domain, Free of Known Copyright Restrictions.” This is item-specific evidence, not the teaching website’s general license.
+
+Official web derivative; no local crop, retouching or reconstruction.
+
+## Ho Chi Minh’s appeal to Truman, first page / 胡志明致杜鲁门信函的第一页
+
+- File: ho-chi-minh-truman-letter-1946.jpg
+- Creator: Ho Chi Minh; preserved by U.S. Foreign Service posts
+- Date: 18 January 1946
+- Collection: U.S. National Archives and Records Administration
+- Source: https://docsteach.org/document/ho-chi-minh-truman/
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://docsteach.org/document/ho-chi-minh-truman/
+
+The individual DocsTeach primary-source page labels this item “Public Domain, Free of Known Copyright Restrictions.” This is item-specific evidence, not the teaching website’s general license.
+
+Official web derivative; no local crop, retouching or reconstruction.
+
+## Liliʻuokalani’s memorial over Hawaiian Crown lands / 莉莉乌奥卡拉尼关于夏威夷王室土地的请愿书
+
+- File: liliuokalani-crown-lands-memorial-1898.jpg
+- Creator: Liliʻuokalani
+- Date: 19 December 1898
+- Collection: U.S. National Archives and Records Administration
+- Source: https://docsteach.org/document/memorial-queen-liliuokalani/
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://docsteach.org/document/memorial-queen-liliuokalani/
+
+The individual DocsTeach primary-source page labels this item “Public Domain, Free of Known Copyright Restrictions.” This is item-specific evidence, not the teaching website’s general license.
+
+Official web derivative; no local crop, retouching or reconstruction.
+
+## Ida B. Wells appeals for the Baker family / 艾达·B·威尔斯为贝克家属求助
+
+- File: ida-wells-baker-family-appeal-1898.jpg
+- Creator: Ida B. Wells
+- Date: 1898
+- Collection: U.S. National Archives and Records Administration
+- Source: https://docsteach.org/document/wells-dawes/
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://docsteach.org/document/wells-dawes/
+
+The individual DocsTeach primary-source page labels this item “Public Domain, Free of Known Copyright Restrictions.” This is item-specific evidence, not the teaching website’s general license.
+
+Official web derivative; no local crop, retouching or reconstruction.
+
+## Dolores Huerta at the Chávez monument dedication / 多洛雷斯·韦尔塔参加查韦斯纪念地揭幕活动
+
+- File: dolores-huerta-chavez-office-2012.jpg
+- Creator: Pete Souza, official White House photographer
+- Date: 8 October 2012
+- Collection: Obama White House archive, National Archives
+- Source: https://obamawhitehouse.archives.gov/photos-and-video/photo/2012/10/president-barack-obama-views-office-cesar-chavez
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://obamawhitehouse.archives.gov/copyright
+
+The item credits Pete Souza’s official White House photograph. The archived White House copyright policy states that government-produced materials appearing on the site are not copyright protected.
+
+Official web derivative; no local crop, retouching or reconstruction.
+
+## German unity in a U.S. presidential proclamation / 美国总统公告中的德国统一
+
+- File: german-unity-bush-proclamation-1990.png
+- Creator: George H. W. Bush / Office of the President of the United States
+- Date: 3 October 1990
+- Collection: George Bush Presidential Library / National Archives
+- Source: https://www.archives.gov/presidential-libraries/events/german-reunification/exhibit.html
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://www.archives.gov/global-pages/privacy.html
+
+An official presidential proclamation produced in U.S. federal duties, reproduced by NARA and attributed to the George Bush Presidential Library; U.S. federal government work in the public domain.
+
+Single-frame official GIF converted losslessly to PNG. Decoded RGB pixels and dimensions are identical; original GIF retained.
+
+## Rosa Parks’s seat in a court exhibit / 法庭证物中的罗莎·帕克斯座位
+
+- File: rosa-parks-bus-diagram-browder-1956.jpg
+- Creator: Creator unidentified; exhibit in Browder v. Gayle
+- Date: 5 June 1956 (catalog date; sheet annotated 22 February 1956)
+- Collection: U.S. National Archives and Records Administration
+- Source: https://docsteach.org/document/diagram-of-the-bus-showing-where-rosa-parks-was-seated/
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://docsteach.org/document/diagram-of-the-bus-showing-where-rosa-parks-was-seated/
+
+The individual DocsTeach primary-source page labels this item “Public Domain, Free of Known Copyright Restrictions.” This is item-specific evidence, not the teaching website’s general license.
+
+Official web derivative; no local crop, retouching or reconstruction.
 
 ## Kongo crucifix: Christianity in an African court / 刚果十字架：非洲宫廷中的基督教
 
