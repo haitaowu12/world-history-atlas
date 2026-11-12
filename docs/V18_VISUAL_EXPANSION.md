@@ -380,3 +380,15 @@ Native keyboard disclosures reveal the distinctions; opening the gap explanation
 Final validation: **469 checks passed**, zero failures or skips. Chrome checked the 92/8 cell count, native keyboard opening, translated text, gap highlighting and the separated participation path. English genome and Chinese assembly screenshots are legible at the existing 500-pixel viewport, with no horizontal page overflow. The first screenshot exposed cached older styling; the stylesheet version was incremented and the correct grid and styled path were then verified after reload.
 
 Checkpoint 32 is remotely saved as `100b2613a946ccc2c57dc06a258ec4c0d81390b6`, exact tree `2f71d175b0f9cfbdb7230b0024963b7cd84f3a63`, matching local `ee6e3d1`. Ref, tree and zero Actions runs were read back. Its complete-history bundle also verified. Main and publication remain unchanged.
+
+### Reconstruction checkpoint 34
+
+Six more Getty CC0 images cover nine specific entries: Constantine's coin connects his named role in toleration, Nicaea and late Roman government; Rudolf II's medal names separate imperial, Hungarian and Bohemian titles. Photographs show Abu Simbel before relocation, Sainte-Chapelle's nineteenth-century appearance and a Mandalay monastery repurposed after annexation. A medieval Jerusalem manuscript is explicitly dated over thirteen centuries after the siege, and its anti-Jewish theological framing is attributed to the later work rather than adopted as an explanation of the event.
+
+All six complete images and the relevant full records were reviewed. Catalogue-specific rights, exact hashes, translated metadata and contextual evidence are retained. Two proposed representation labels were normalized to the existing object/manuscript schema; historical dating and interpretation remain unchanged. Duplicate collection-page reading links were removed. A failed supplementary UNESCO fetch was not retried; no fresh UNESCO verification is claimed.
+
+Coverage is **442 historical images / 831 of 2,087 unique entries (39.82%)**, with **213** still needed for the half-entry target. The two modern explanatory graphics remain outside that numerator. All **436 prior images and 673 associations** remain exactly unchanged.
+
+Final validation: **473 checks passed**, zero failures or skips. Chrome verified every new image's decoded dimensions and English/Chinese descriptions and credits, all nine entry connections, keyboard image zoom to 125%, the 442-image/831-entry gallery count, and no horizontal overflow at the existing 485-pixel content width. No publication or Actions run is claimed.
+
+Checkpoint 33 is remotely saved as `543f86ed63b9431a5d06ada513807d08c1ff6c98`, exact tree `4374dff11cb9c451e185bd23a038836b3f8f5cb7`, matching local `a35a897`; the ref, tree and zero Actions runs were verified.

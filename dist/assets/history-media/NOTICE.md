@@ -1,6 +1,6 @@
 # Historical images: credits and reuse
 
-Reviewed 2026-11-12. 436 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
+Reviewed 2026-11-12. 442 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
 
 Historical artifacts, surviving places and later depictions retain their source identities. No generated reconstructions are included in this catalogue.
 
@@ -3347,6 +3347,90 @@ Source-served IIIF JPEG preserved unchanged. No local crop, retouching, recolour
 - Rights evidence: https://www.getty.edu/art/collection/object/103XZ0
 
 The official object page explicitly provides its images under CC0 through Getty’s Open Content Program.
+
+Source-served IIIF JPEG preserved unchanged. No local crop, retouching, recolouring or resizing.
+
+## Constantine on a surviving bronze coin / 现存铜币上的君士坦丁
+
+- File: getty-images-05-constantine.jpg
+- Creator: Unknown
+- Date: A.D. 307–337
+- Collection: J. Paul Getty Museum
+- Source: https://www.getty.edu/art/collection/object/1064CR
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.getty.edu/art/collection/object/1064CR
+
+Getty’s official object page identifies this image and explicitly provides supplied images under CC0 through the Open Content Program.
+
+Source-served IIIF JPEG preserved unchanged. No local crop, retouching, recolouring or resizing.
+
+## Abu Simbel before relocation / 搬迁前的阿布辛贝
+
+- File: getty-images-05-abussimbel.jpg
+- Creator: Félix Bonfils
+- Date: 1877
+- Collection: J. Paul Getty Museum
+- Source: https://www.getty.edu/art/collection/object/104M9D
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.getty.edu/art/collection/object/104M9D
+
+Getty’s official object page identifies this image and explicitly provides supplied images under CC0 through the Open Content Program.
+
+Source-served IIIF JPEG preserved unchanged. No local crop, retouching, recolouring or resizing.
+
+## Sainte-Chapelle and Capetian sacred kingship / 圣礼拜堂与卡佩王朝的神圣王权
+
+- File: getty-images-05-chapel.jpg
+- Creator: Bisson Frères
+- Date: about 1854–1864
+- Collection: J. Paul Getty Museum
+- Source: https://www.getty.edu/art/collection/object/1044HW
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.getty.edu/art/collection/object/1044HW
+
+Getty’s official object page identifies this image and explicitly provides supplied images under CC0 through the Open Content Program.
+
+Source-served IIIF JPEG preserved unchanged. No local crop, retouching, recolouring or resizing.
+
+## One ruler, several titles: Rudolf II’s medal / 一位君主、多重头衔：鲁道夫二世纪念章
+
+- File: getty-images-05-rudolf.jpg
+- Creator: Unknown
+- Date: about 1600
+- Collection: J. Paul Getty Museum
+- Source: https://www.getty.edu/art/collection/object/103RSF
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.getty.edu/art/collection/object/103RSF
+
+Getty’s official object page identifies this image and explicitly provides supplied images under CC0 through the Open Content Program.
+
+Source-served IIIF JPEG preserved unchanged. No local crop, retouching, recolouring or resizing.
+
+## The siege of Jerusalem in a medieval manuscript / 中世纪手稿中的耶路撒冷围城
+
+- File: getty-images-05-jerusalem.jpg
+- Creator: Boucicaut Master
+- Date: about 1413–1415
+- Collection: J. Paul Getty Museum
+- Source: https://www.getty.edu/art/collection/object/107TYY
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.getty.edu/art/collection/object/107TYY
+
+Getty’s official object page identifies this image and explicitly provides supplied images under CC0 through the Open Content Program.
+
+Source-served IIIF JPEG preserved unchanged. No local crop, retouching, recolouring or resizing.
+
+## A Mandalay monastery after the monarchy / 君主制结束后的曼德勒寺院
+
+- File: getty-images-05-mandalay.jpg
+- Creator: Felice Beato
+- Date: 1887–1897
+- Collection: J. Paul Getty Museum
+- Source: https://www.getty.edu/art/collection/object/109BP7
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.getty.edu/art/collection/object/109BP7
+
+Getty’s official object page identifies this image and explicitly provides supplied images under CC0 through the Open Content Program.
 
 Source-served IIIF JPEG preserved unchanged. No local crop, retouching, recolouring or resizing.
 

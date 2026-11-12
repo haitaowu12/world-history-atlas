@@ -2455,9 +2455,9 @@
   },
   "mediaLocalization": {
     "file": "history-media-localization-zh-v18.json",
-    "bytes": 191610,
-    "sha256": "c0ed05ed5e63e01bc062fa40529149a5458a783229e246c8b15b8399b7b5afdc",
-    "assets": 436
+    "bytes": 193699,
+    "sha256": "fbb79e2b7a17b020ad4dc725f7d0e447b188c23d0f28b54f285a5b1226f6c987",
+    "assets": 442
   },
   "visualExpansion": {
     "baselineManifest": "content-expansion-v17.json",
@@ -2722,6 +2722,13 @@
         "associations": 3
       },
       {
+        "file": "visual-assets-getty-images-05-v18.json",
+        "bytes": 28711,
+        "sha256": "b382777157c1c7cc53ba262bdfb3e99ff6b33741325663c5434d303fc67adc7c",
+        "assets": 6,
+        "associations": 9
+      },
+      {
         "file": "visual-assets-oceania-images-01-v18.json",
         "bytes": 7274,
         "sha256": "25f90d019ac0341e89c990f97986940725cc9761408bdab836621671f84a5440",
@@ -2849,8 +2856,8 @@
       }
     ],
     "coverageFile": "visual-coverage-v18.json",
-    "assets": 436,
-    "covered": 822,
+    "assets": 442,
+    "covered": 831,
     "total": 2087,
     "target": 1044
   }

@@ -3,11 +3,12 @@
   "reviewedAt": "2026-11-12",
   "baselineManifest": "content-expansion-v17.json",
   "total": 2087,
-  "covered": 822,
-  "assets": 436,
-  "percent": 39.38667944417825,
+  "covered": 831,
+  "assets": 442,
+  "percent": 39.81792045999042,
   "coveredIds": [
     "abbasid-caliphate",
+    "abu-simbel-relocation",
     "achaemenid-empire",
     "ajanta-cave-workshops",
     "akan-goldweights-measure-trade",
@@ -37,6 +38,7 @@
     "bukhara-suzani-shared-needlework",
     "camp-saxton-freedom-community",
     "cao-zhenxiu-famous-women-album",
+    "capetian-dynasty",
     "caracalla-citizenship-edict",
     "caral",
     "caribbean-sugar-labor",
@@ -575,6 +577,7 @@
     "cold-war-world-history",
     "coromandel-painted-cotton-workshops",
     "coromandel-textile-work",
+    "council-of-nicaea-325",
     "crown-rule-india",
     "cuban-missile-crisis-1962",
     "cusco-imperial-city",
@@ -609,6 +612,7 @@
     "guadalcanal-island-war",
     "gupta-period",
     "gutenberg-printing",
+    "habsburg-composite-monarchy",
     "hagia-sophia-justinian",
     "hampi",
     "harar-urban-world",
@@ -619,6 +623,7 @@
     "hiroshima-atomic-bombing",
     "hoi-an-port-households",
     "holocaust",
+    "holy-roman-empire",
     "hoysala-dynasty",
     "hull-house-immigrant-neighborhood",
     "hundred-years-war",
@@ -634,6 +639,7 @@
     "japan-postwar-constitution",
     "japan-postwar-polity",
     "japanese-american-incarceration",
+    "jerusalem-second-temple-destruction-70",
     "joya-ceren-households",
     "justinian-law-compilation",
     "kamakura-shogunate",
@@ -643,6 +649,7 @@
     "khmer-angkor-political-phase",
     "kilwa",
     "kokoda-papuan-labour",
+    "konbaung-dynasty",
     "kongo-diplomacy",
     "korean-war-armistice",
     "kuelap-chachapoya-landscape",
@@ -671,6 +678,7 @@
     "merovingian-dynasty",
     "mesopotamia-city-rivalry",
     "mexica-triple-alliance",
+    "milan-toleration-313",
     "mimbres-painted-pottery",
     "ming-dynasty",
     "moche-north-coast",
@@ -824,6 +832,7 @@
     "wari-imperial-world",
     "waterloo",
     "watt-separate-condenser",
+    "western-late-roman-empire",
     "wu-zhou-dynasty",
     "xinhai-revolution",
     "yuan-dynasty",
@@ -989,7 +998,6 @@
     "aksum-ezana-christianity",
     "ife-sculpture-workshops",
     "gondar-permanent-capital",
-    "abu-simbel-relocation",
     "aachen-palatine-chapel",
     "domesday-survey",
     "palermo-norman-cultural-exchange",
@@ -1031,14 +1039,12 @@
     "ghurid-dynasty",
     "qarakhanid-dynasty",
     "golden-horde",
-    "capetian-dynasty",
     "makuria-kingdom",
     "almoravid-dynasty",
     "almohad-dynasty",
     "purepecha-state",
     "mixtec-kingdoms",
     "champa-kingdoms",
-    "konbaung-dynasty",
     "muromachi-shogunate",
     "canada-polity",
     "india-independent-polity",
@@ -1232,11 +1238,8 @@
     "kanak-revolt-land-1878",
     "australia-federal-polity",
     "new-zealand-constitutional-polity",
-    "western-late-roman-empire",
-    "holy-roman-empire",
     "kalmar-union",
     "polish-lithuanian-commonwealth",
-    "habsburg-composite-monarchy",
     "austria-hungary-dual-monarchy",
     "hedeby-viking-trading-town",
     "santiago-medieval-pilgrimage-infrastructure",
@@ -1350,12 +1353,9 @@
     "sikh-gurus-punjab-1469-1708",
     "khalsa-anandpur-1699",
     "jewish-communities-second-temple",
-    "jerusalem-second-temple-destruction-70",
     "rabbinic-judaism-after-70",
     "early-christianity-jewish-context",
     "christian-jewish-communities-late-antiquity",
-    "council-of-nicaea-325",
-    "milan-toleration-313",
     "ur-copper-complaint-tablet",
     "babylonian-recipe-tablets",
     "marshallese-navigation-charts",
@@ -2099,11 +2099,11 @@
   ],
   "target": 1044,
   "targetMet": false,
-  "remaining": 222,
+  "remaining": 213,
   "regions": {
     "africa": {
       "total": 136,
-      "covered": 39
+      "covered": 40
     },
     "east-asia": {
       "total": 1216,
@@ -2111,7 +2111,7 @@
     },
     "europe": {
       "total": 122,
-      "covered": 58
+      "covered": 63
     },
     "latin-america": {
       "total": 94,
@@ -2131,11 +2131,11 @@
     },
     "southeast-asia": {
       "total": 101,
-      "covered": 24
+      "covered": 25
     },
     "west-central-asia": {
       "total": 111,
-      "covered": 27
+      "covered": 29
     }
   },
   "types": {
@@ -2143,12 +2143,12 @@
     "ancient-royal-image": 2,
     "document-facsimile": 28,
     "historical-artwork": 71,
-    "historical-photograph": 47,
+    "historical-photograph": 50,
     "historical-portrait": 29,
     "later-depiction": 67,
     "lifetime-portrait": 18,
-    "manuscript-detail": 35,
-    "object-photograph": 85,
+    "manuscript-detail": 36,
+    "object-photograph": 87,
     "site-photograph": 52
   },
   "shards": [
@@ -2412,6 +2412,13 @@
       "associations": 3
     },
     {
+      "file": "visual-assets-getty-images-05-v18.json",
+      "bytes": 28711,
+      "sha256": "b382777157c1c7cc53ba262bdfb3e99ff6b33741325663c5434d303fc67adc7c",
+      "assets": 6,
+      "associations": 9
+    },
+    {
       "file": "visual-assets-oceania-images-01-v18.json",
       "bytes": 7274,
       "sha256": "25f90d019ac0341e89c990f97986940725cc9761408bdab836621671f84a5440",
@@ -2538,6 +2545,6 @@
       "associations": 1
     }
   ],
-  "assetBytes": 84542793,
+  "assetBytes": 86676888,
   "verification": "All admitted files match their SHA-256, byte count and encoded dimensions. Source identity, reuse rights, pixel review and entry relevance require the individual editorial records; structural validation does not establish those facts."
 }
