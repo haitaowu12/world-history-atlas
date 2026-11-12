@@ -37,6 +37,11 @@ IMAGE_TIME_LAYERS.push(
   {date:b('About 1735','约1735年'),title:b('Crespi paints the devotional scene','克雷斯皮绘制宗教画'),note:b('The copper-panel painting gives the earlier crisis a dramatic arrangement of light, bodies and religious care. Its date follows the museum’s approximate catalogue attribution.','铜板画通过光线、人物身体与宗教照护，将早年的灾难组织为戏剧性场景。年代采用博物馆目录的约略断代。')}]}
 );
 
+IMAGE_TIME_LAYERS.push({assetId:'pacific-awm-c250563',expectedDate:'1946 (catalogue date; promulgation celebration)',question:b('What changed between promulgation and entry into force?','从公布到施行，宪法经历了哪些阶段？'),stages:[
+ {date:b('1946','1946年'),title:b('A constitution is promulgated and celebrated','宪法公布与庆祝'),note:b('Japan’s constitution was promulgated on 3 November. The museum dates this photograph of the celebration to 1946 without specifying its day.','日本宪法于11月3日公布。博物馆将这幅庆祝活动照片标为1946年，未注明具体日期。')},
+ {date:b('3 May 1947','1947年5月3日'),title:b('The constitution comes into force','宪法生效'),note:b('Elections and related laws prepared the new institutions. Popular sovereignty, fundamental rights and the emperor’s symbolic role now formed the constitutional framework.','选举与配套法律为新制度作准备。人民主权、基本权利及天皇的象征地位构成新的宪法框架。')}]
+});
+
 export function imageTimeLayers(item){
  const sequence=IMAGE_TIME_LAYERS.find(row=>row.assetId===item?.id);
  return sequence&&sequence.expectedDate===item.date?sequence:null;

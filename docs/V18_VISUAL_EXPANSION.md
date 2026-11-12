@@ -358,3 +358,15 @@ Chrome verified all nine new images at their expected decoded dimensions and the
 Coverage: **423 images / 809 of 2,087 unique entries (38.76%)**; **235** more entries remain for the half-entry target. Initial validation caught a manuscript representation mismatch and a missing Chinese source note. Both source data issues were corrected without weakening checks. Checkpoint 30 is remotely saved as `36f25c33c1889370edd4f2cbbcb5a1d1fff95e3a`, tree `591ad2765c7a7bf57b0d1b4883b21caad2c648eb`, matching local `bd8b3e3`. The review ref and main were rechecked; main remains `b212fcc4`. No publication is claimed.
 
 Final validation: **457 checks passed**, zero failures or skips, after rebuilding the complete visual catalogue. No GitHub Actions were run.
+
+### Reconstruction checkpoint 32
+
+Thirteen unchanged archive images add Hannibal's medieval reception, mixed-date Punic/Etruscan jewelry, early Cold War policy, the Vietnam War and Pacific wartime lives. Getty captions distinguish a manuscript made sixteen centuries after its subject and a necklace probably recomposed in modern times from parts of different dates. U.S. documents retain the distinction between the government's attack claims and independent verification. Vietnam images show the specific airfield, battlefield care and prisoner-return events identified by the archive.
+
+Six Australian War Memorial photographs have item-specific public-domain evidence. They make Papuan supply labour, civilian aid in Singapore, local Solomon Islands police, Hiroshima's 1946 aftermath and Marshallese displacement visible alongside military events. Photographs retain their original institutional credit strips and catalogue dates. Guadalcanal's two photographs add different perspectives but count as one covered entry. Generic negative disclaimers were removed; specific provenance and chronology remain. Additional reading is limited to directly relevant sources with translated labels.
+
+An eleventh image-date sequence separates Japan's 1946 promulgation celebration from constitutional commencement on 3 May 1947. The photograph has no invented exact exposure date. Chrome verified all thirteen new images at their expected dimensions, English and Chinese captions, the two-image disclosure, both keyboard-operated stages in each language, and the gallery count. The Chinese date panel is legible at the existing 500-pixel viewport with 485-pixel content width and no horizontal overflow.
+
+Coverage is **436 images / 822 of 2,087 unique entries (39.39%)**, leaving **222** entries for the half-entry target. The preceding saved checkpoint is `d1a9a525d061da325d4ee14196de274389be0293`, exact tree `9e6c729898eb380942e187b47ce1b6178323a572`, and a full-history local bundle was verified. No main change or publication is claimed.
+
+Final validation: **463 checks passed**, zero failures or skips. All **423 previous images and 670 associations** remain exactly unchanged. The preservation comparison initially exceeded a command-output buffer; rerunning it with a non-truncating reader passed. No checks or thresholds were weakened. No GitHub Actions were run.

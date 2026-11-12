@@ -3,9 +3,9 @@
   "reviewedAt": "2026-11-12",
   "baselineManifest": "content-expansion-v17.json",
   "total": 2087,
-  "covered": 809,
-  "assets": 423,
-  "percent": 38.76377575467178,
+  "covered": 822,
+  "assets": 436,
+  "percent": 39.38667944417825,
   "coveredIds": [
     "abbasid-caliphate",
     "achaemenid-empire",
@@ -41,6 +41,7 @@
     "caral",
     "caribbean-sugar-labor",
     "carolingian-dynasty",
+    "carthaginian-power",
     "castile-aragon-dynastic-union",
     "chankillo-solar-calendar",
     "charlemagne-coronation",
@@ -571,6 +572,7 @@
     "chinese-exclusion-us",
     "chola-dynasty",
     "chuquibamba-stars-imperial-tunic",
+    "cold-war-world-history",
     "coromandel-painted-cotton-workshops",
     "coromandel-textile-work",
     "crown-rule-india",
@@ -604,6 +606,7 @@
     "goryeo-kingdom",
     "great-seljuqs",
     "great-zimbabwe",
+    "guadalcanal-island-war",
     "gupta-period",
     "gutenberg-printing",
     "hagia-sophia-justinian",
@@ -613,6 +616,7 @@
     "heian-court",
     "hellenistic-kingdoms",
     "herat-manuscript-workshops",
+    "hiroshima-atomic-bombing",
     "hoi-an-port-households",
     "holocaust",
     "hoysala-dynasty",
@@ -627,6 +631,8 @@
     "inka-imperial-tunic-story",
     "ironbridge",
     "jantar-mantar-jaipur",
+    "japan-postwar-constitution",
+    "japan-postwar-polity",
     "japanese-american-incarceration",
     "joya-ceren-households",
     "justinian-law-compilation",
@@ -636,6 +642,7 @@
     "khami-regional-capital",
     "khmer-angkor-political-phase",
     "kilwa",
+    "kokoda-papuan-labour",
     "kongo-diplomacy",
     "korean-war-armistice",
     "kuelap-chachapoya-landscape",
@@ -652,6 +659,7 @@
     "mamluk-sultanate",
     "mangaaka-carver-ritual-law",
     "mapungubwe-hill-kingdom",
+    "marshall-islands-nuclear-tests",
     "maurya-empire",
     "maya-cacao-vessel-story",
     "maya-classic-city-states",
@@ -692,6 +700,7 @@
     "panama-canal-labour",
     "paracas-textile-labor",
     "paris-commune-1871",
+    "paris-vietnam-agreement-1973",
     "parthian-empire",
     "patan-stepwell-water",
     "paul-corinth-letters-50s",
@@ -751,6 +760,7 @@
     "plain-jars-dating-reuse",
     "polonnaruwa-irrigated-capital",
     "ptolemaic-egypt",
+    "punic-wars-mediterranean",
     "pyu-irrigated-cities",
     "qajar-dynasty",
     "qin-mausoleum",
@@ -776,6 +786,7 @@
     "seneca-falls-convention",
     "sigiriya-royal-landscape",
     "sikh-kingdom-punjab",
+    "singapore-occupation-civilian-experience",
     "songo-mnara-households",
     "southern-song",
     "straits-settlements-formation",
@@ -784,6 +795,7 @@
     "taj-mahal",
     "taxila-sirkap",
     "teotihuacan",
+    "tet-offensive-1968",
     "thanjavur-brihadisvara",
     "tikal",
     "timbuktu",
@@ -807,6 +819,7 @@
     "us-declaration-independence",
     "venice-maritime",
     "vietnam-hoi-an-ceramic-cargo",
+    "vietnam-war-1954-1975",
     "vijayanagara-imperial-phase",
     "wari-imperial-world",
     "waterloo",
@@ -831,7 +844,6 @@
     "lapita-voyaging",
     "yin-xu",
     "lapita-teouma-community",
-    "carthaginian-power",
     "han-dynasty",
     "silk-roads-changan",
     "hopewell-ceremonial-networks",
@@ -955,7 +967,6 @@
     "lapaha-tongan-centre",
     "he-whakaputanga-declaration",
     "australian-gold-rushes",
-    "marshall-islands-nuclear-tests",
     "cook-islands-self-government",
     "vanuatu-independence",
     "mabo-native-title-decision",
@@ -972,7 +983,6 @@
     "jikji-metal-type",
     "imjin-war",
     "tokugawa-shogunate-establishment",
-    "japan-postwar-constitution",
     "korea-june-democracy-movement",
     "nok-terracotta-workshops",
     "djenne-djeno-urbanism",
@@ -1035,7 +1045,6 @@
     "ghana-independent-polity",
     "brazil-independent-polity",
     "soviet-union-polity",
-    "japan-postwar-polity",
     "prc-political-period",
     "france-fifth-republic",
     "united-kingdom-polity",
@@ -1093,7 +1102,6 @@
     "korea-march-first-movement",
     "gwangju-democratic-uprising",
     "minamata-pollution-recognition",
-    "hiroshima-atomic-bombing",
     "mongolia-democratic-transition-1990",
     "toungoo-changing-courts",
     "tran-dynasty-dai-viet",
@@ -1112,7 +1120,6 @@
     "aceh-sultanahs-political-interpretation",
     "brunei-independence-1984",
     "malayan-emergency-social-war",
-    "singapore-occupation-civilian-experience",
     "laos-bombing-uxo-legacy",
     "indonesia-1965-mass-killings",
     "cambodia-paris-settlement-1991",
@@ -1214,8 +1221,6 @@
     "new-ireland-malagan-memory",
     "fiji-girmit-labour",
     "queensland-south-sea-labour",
-    "kokoda-papuan-labour",
-    "guadalcanal-island-war",
     "yirrkala-bark-petitions-v9",
     "wave-hill-land-labour",
     "niue-free-association",
@@ -1293,7 +1298,6 @@
     "malolos-constitutional-congress",
     "indonesian-youth-pledge",
     "athenian-assembly-citizenship",
-    "punic-wars-mediterranean",
     "russian-serf-emancipation",
     "british-women-franchise-1918-1928",
     "bletchley-codebreaking-network",
@@ -1334,11 +1338,7 @@
     "damodarpur-charter-224",
     "toungoo-port-garrisons-1564",
     "ayutthaya-tenasserim-campaign-1593",
-    "cold-war-world-history",
     "nonaligned-belgrade-1961",
-    "vietnam-war-1954-1975",
-    "tet-offensive-1968",
-    "paris-vietnam-agreement-1973",
     "columbian-exchange-1492-1800",
     "bantu-language-early-dispersal",
     "austronesian-early-expansions",
@@ -2099,19 +2099,19 @@
   ],
   "target": 1044,
   "targetMet": false,
-  "remaining": 235,
+  "remaining": 222,
   "regions": {
     "africa": {
       "total": 136,
-      "covered": 38
+      "covered": 39
     },
     "east-asia": {
       "total": 1216,
-      "covered": 544
+      "covered": 547
     },
     "europe": {
       "total": 122,
-      "covered": 55
+      "covered": 58
     },
     "latin-america": {
       "total": 94,
@@ -2123,7 +2123,7 @@
     },
     "oceania": {
       "total": 89,
-      "covered": 18
+      "covered": 21
     },
     "south-asia": {
       "total": 95,
@@ -2131,7 +2131,7 @@
     },
     "southeast-asia": {
       "total": 101,
-      "covered": 21
+      "covered": 24
     },
     "west-central-asia": {
       "total": 111,
@@ -2141,14 +2141,14 @@
   "types": {
     "ancient-portrait": 2,
     "ancient-royal-image": 2,
-    "document-facsimile": 26,
+    "document-facsimile": 28,
     "historical-artwork": 71,
-    "historical-photograph": 38,
+    "historical-photograph": 47,
     "historical-portrait": 29,
     "later-depiction": 67,
     "lifetime-portrait": 18,
-    "manuscript-detail": 34,
-    "object-photograph": 84,
+    "manuscript-detail": 35,
+    "object-photograph": 85,
     "site-photograph": 52
   },
   "shards": [
@@ -2405,6 +2405,13 @@
       "associations": 4
     },
     {
+      "file": "visual-assets-getty-images-04-v18.json",
+      "bytes": 10672,
+      "sha256": "140b533d957097f797317252367e9c684ce35ae23dd0e21a4cee99cc8f6969be",
+      "assets": 2,
+      "associations": 3
+    },
+    {
       "file": "visual-assets-oceania-images-01-v18.json",
       "bytes": 7274,
       "sha256": "25f90d019ac0341e89c990f97986940725cc9761408bdab836621671f84a5440",
@@ -2412,10 +2419,24 @@
       "associations": 0
     },
     {
+      "file": "visual-assets-pacific-archives-01-v18.json",
+      "bytes": 22257,
+      "sha256": "80c40036c2818461f076993dc10d06acedbc066640c977cd726dbbfd28452efd",
+      "assets": 6,
+      "associations": 0
+    },
+    {
       "file": "visual-assets-us-archives-02-v18.json",
       "bytes": 13704,
       "sha256": "5b078427c4692e61b8a90cf3448abe164ae45786f0636351b3301ba92f00d107",
       "assets": 4,
+      "associations": 0
+    },
+    {
+      "file": "visual-assets-us-archives-03-v18.json",
+      "bytes": 17043,
+      "sha256": "fd96999da462fbc667091cef501b953a1f39fe1b92237a653a00e8f04f5f8e34",
+      "assets": 5,
       "associations": 0
     },
     {
@@ -2517,6 +2538,6 @@
       "associations": 1
     }
   ],
-  "assetBytes": 82294800,
+  "assetBytes": 84542793,
   "verification": "All admitted files match their SHA-256, byte count and encoded dimensions. Source identity, reuse rights, pixel review and entry relevance require the individual editorial records; structural validation does not establish those facts."
 }

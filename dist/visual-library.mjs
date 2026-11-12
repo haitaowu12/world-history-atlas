@@ -1,7 +1,7 @@
 import {availableVisualStudies,matchingVisualStudy} from './visual-studies.mjs?v=9';
 import {mediaFigures,mediaMetadata} from './history-media.mjs?v=7';
 import {normalizeSearch} from './search-text.mjs';
-import {renderImageTimeLayers} from './image-time-layers.mjs?v=2';
+import {renderImageTimeLayers} from './image-time-layers.mjs?v=3';
 
 export const REPRESENTATIONS={
  'historical-photograph':{en:'Historical photograph',zh:'历史照片'},

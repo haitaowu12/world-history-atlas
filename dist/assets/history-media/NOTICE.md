@@ -1,6 +1,6 @@
 # Historical images: credits and reuse
 
-Reviewed 2026-11-12. 423 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
+Reviewed 2026-11-12. 436 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
 
 Historical artifacts, surviving places and later depictions retain their source identities. No generated reconstructions are included in this catalogue.
 
@@ -3322,6 +3322,34 @@ Getty’s official object page identifies this image and explicitly provides sup
 
 Source-served IIIF JPEG preserved unchanged. No local crop, retouching, recolouring or resizing.
 
+## A medieval imagining of Hannibal’s fleet / 中世纪想象中的汉尼拔舰队
+
+- File: getty-images-04-hannibal.jpg
+- Creator: First Master of the Bible historiale of Jean de Berry; Unknown
+- Date: about 1390–1400
+- Collection: J. Paul Getty Museum
+- Source: https://www.getty.edu/art/collection/object/103SBZ
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.getty.edu/art/collection/object/103SBZ
+
+The official object page explicitly provides its images under CC0 through Getty’s Open Content Program.
+
+Source-served IIIF JPEG preserved unchanged. No local crop, retouching, recolouring or resizing.
+
+## Punic glass and Etruscan gold / 布匿玻璃与伊特鲁里亚黄金
+
+- File: getty-images-04-pendant.jpg
+- Creator: Unknown
+- Date: Gold necklace: 525–500 BCE; Punic glass pendant: later fourth–third centuries BCE
+- Collection: J. Paul Getty Museum
+- Source: https://www.getty.edu/art/collection/object/103XZ0
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.getty.edu/art/collection/object/103XZ0
+
+The official object page explicitly provides its images under CC0 through Getty’s Open Content Program.
+
+Source-served IIIF JPEG preserved unchanged. No local crop, retouching, recolouring or resizing.
+
 ## A French Arch for Federation / 联邦庆典中的法国拱门
 
 - File: oceania-awm-p00670-001.jpg
@@ -3349,6 +3377,90 @@ Official JPEG preserved unchanged; no crop, retouching or recolouring. The origi
 The item’s media 675839 explicitly licenses this photograph under CC BY 4.0 and identifies photographer Jon Augier and Museums Victoria.
 
 Official JPEG preserved unchanged; no crop, retouching or recolouring.
+
+## Papuan supply carriers on the Kokoda Trail / 科科达小径上的巴布亚补给搬运工
+
+- File: pacific-awm-c319068.jpg
+- Creator: Arthur Francis Hobson
+- Date: November 1942 (catalogue date)
+- Collection: Australian War Memorial
+- Source: https://www.awm.gov.au/collection/C319068
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://www.awm.gov.au/collection/C319068
+
+The item record identifies this photograph as public domain. The Australian War Memorial permits reproduction of its public-domain images.
+
+Official JPEG preserved unchanged, including its institutional credit strip.
+
+## Children playing amid Hiroshima’s rebuilding / 广岛重建中的儿童游戏
+
+- File: pacific-awm-c277270.jpg
+- Creator: Photographer not identified in item record
+- Date: 1946 (catalogue date)
+- Collection: Australian War Memorial
+- Source: https://www.awm.gov.au/collection/C277270
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://www.awm.gov.au/collection/C277270
+
+The item record identifies this photograph as public domain. The Australian War Memorial permits reproduction of its public-domain images.
+
+Official JPEG preserved unchanged, including its institutional credit strip.
+
+## Baker nuclear test at Bikini Atoll / 比基尼环礁的贝克核试验
+
+- File: pacific-awm-c14107.jpg
+- Creator: Photographer not identified in item record
+- Date: 25 July 1946 (catalogue date)
+- Collection: Australian War Memorial
+- Source: https://www.awm.gov.au/collection/C14107
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://www.awm.gov.au/collection/C14107
+
+The item record identifies this photograph as public domain. The Australian War Memorial permits reproduction of its public-domain images.
+
+Official JPEG preserved unchanged, including its institutional credit strip.
+
+## Civilian assistance remembered after Singapore’s occupation / 新加坡占领结束后被记录的平民援助
+
+- File: pacific-awm-c22299.jpg
+- Creator: Photographer not identified in item record
+- Date: 20 September 1945 (catalogue date)
+- Collection: Australian War Memorial
+- Source: https://www.awm.gov.au/collection/C22299
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://www.awm.gov.au/collection/C22299
+
+The item record identifies this photograph as public domain. The Australian War Memorial permits reproduction of its public-domain images.
+
+Official JPEG preserved unchanged, including its institutional credit strip.
+
+## Solomon Islands police on Guadalcanal / 瓜达尔卡纳尔岛上的所罗门群岛警察
+
+- File: pacific-awm-043648.jpg
+- Creator: Defence Department / Marine Corps (catalogue attribution)
+- Date: October 1942 (catalogue date)
+- Collection: Australian War Memorial
+- Source: https://www.awm.gov.au/collection/043648
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://www.awm.gov.au/collection/043648
+
+The item record identifies this photograph as public domain. The Australian War Memorial permits reproduction of its public-domain images.
+
+Official JPEG preserved unchanged, including its institutional credit strip.
+
+## Celebrating Japan’s new constitution / 庆祝日本新宪法
+
+- File: pacific-awm-c250563.jpg
+- Creator: William Harry Freeman
+- Date: 1946 (catalogue date; promulgation celebration)
+- Collection: Australian War Memorial
+- Source: https://www.awm.gov.au/collection/C250563
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://www.awm.gov.au/collection/C250563
+
+The item record identifies this photograph as public domain. The Australian War Memorial permits reproduction of its public-domain images.
+
+Official JPEG preserved unchanged, including its institutional credit strip.
 
 ## Treaty of Guadalupe Hidalgo: exchange copy and seal / 瓜达卢佩—伊达尔戈条约：交换本与印玺
 
@@ -3405,6 +3517,76 @@ Published NARA image saved byte-for-byte, without local editing.
 The item is Photograph PX1966-020-007, Briefing Board 07, in the Department of Defense Cuban Missile Crisis Briefing Materials, Collection JFK-5047. Federal military creation is identified by NARA, rather than merely inferred from archival custody; no outside photographer is credited.
 
 Published NARA image saved byte-for-byte, without local editing.
+
+## Truman Doctrine: message to Congress / 杜鲁门主义：致国会咨文
+
+- File: us-archives-03-truman-doctrine.jpg
+- Creator: Harry S. Truman; United States House of Representatives
+- Date: 12 March 1947
+- Collection: United States National Archives
+- Source: https://www.archives.gov/milestone-documents/truman-doctrine
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://www.archives.gov/milestone-documents/truman-doctrine
+
+Official presidential message, Document 171, 80th Congress, 1st Session, Records of the U.S. House of Representatives, RG 233. Federal authorship, not archival custody alone, supports public-domain reuse.
+
+Published institutional image saved byte-for-byte; no local crop, resize or re-encoding.
+
+## Tonkin Gulf Resolution: signed law / 北部湾决议：签署法律
+
+- File: us-archives-03-tonkin-gulf-resolution.jpg
+- Creator: United States Congress and President Lyndon B. Johnson
+- Date: Passed 7 August; approved 10 August 1964
+- Collection: United States National Archives
+- Source: https://www.archives.gov/milestone-documents/tonkin-gulf-resolution
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://www.archives.gov/milestone-documents/tonkin-gulf-resolution
+
+Public Law 88-408 is an official U.S. federal law in General Records of the United States Government, RG 11, reproduced by NARA. It is not a private creative work.
+
+Published institutional image saved byte-for-byte; no local crop, resize or re-encoding.
+
+## Aircraft at Henderson Field, Guadalcanal / 瓜达尔卡纳尔亨德森机场的飞机
+
+- File: us-archives-03-guadalcanal.jpg
+- Creator: United States Marine Corps
+- Date: 10 December 1942
+- Collection: United States National Archives
+- Source: https://unwritten-record.blogs.archives.gov/2017/08/03/operation-watchtower-the-guadalcanal-campaign/
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://unwritten-record.blogs.archives.gov/2017/08/03/operation-watchtower-the-guadalcanal-campaign/
+
+NARA identifies this as Marine Corps photograph 127-GR-14-88-108572, dated 10 December 1942, in RG 127. Its official military-series identity establishes federal production; the image URL is the NARA article’s published WordPress CDN rendition.
+
+Published institutional image saved byte-for-byte; no local crop, resize or re-encoding.
+
+## Released American POWs leaving Hanoi / 获释美国战俘离开河内
+
+- File: us-archives-03-paris.jpg
+- Creator: United States Marine Corps
+- Date: 12 February 1973
+- Collection: United States National Archives
+- Source: https://visit.archives.gov/whats-on/explore-exhibits/episode-11-paris-peace-accords
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://visit.archives.gov/whats-on/explore-exhibits/episode-11-paris-peace-accords
+
+NARA’s official exhibit identifies the dated photograph as Records of the United States Marine Corps and links item 532510. This official military photograph is a federal work, rather than an image accepted merely because NARA holds it.
+
+Published institutional image saved byte-for-byte; no local crop, resize or re-encoding.
+
+## Medical treatment during the battle for Huế / 顺化战斗期间的医疗救护
+
+- File: us-archives-03-tet.jpg
+- Creator: United States Marine Corps
+- Date: 6 February 1968
+- Collection: United States National Archives
+- Source: https://visit.archives.gov/whats-on/explore-exhibits/episode-7-tet-offensive
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://visit.archives.gov/whats-on/explore-exhibits/episode-7-tet-offensive
+
+NARA’s official exhibit identifies this dated and individually captioned service photograph as Records of the United States Marine Corps and links item 532484. Federal military authorship supports public-domain status.
+
+Published institutional image saved byte-for-byte; no local crop, resize or re-encoding.
 
 ## Kongo crucifix: Christianity in an African court / 刚果十字架：非洲宫廷中的基督教
 

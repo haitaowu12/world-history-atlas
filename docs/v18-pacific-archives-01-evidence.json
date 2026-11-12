@@ -1,0 +1,610 @@
+{
+  "reviewedAt": "2026-11-12",
+  "rights": [
+    {
+      "id": "pacific-awm-c319068",
+      "sourceUrl": "https://www.awm.gov.au/collection/C319068",
+      "status": 200,
+      "rights": "Copyright expired - public domain",
+      "policyUrl": "https://www.awm.gov.au/about/organisation/corporate/copyright",
+      "rawReceipt": "research/v18/pacific-archives-01/C319068.html",
+      "checkedAt": "2026-11-12"
+    },
+    {
+      "id": "pacific-awm-c277270",
+      "sourceUrl": "https://www.awm.gov.au/collection/C277270",
+      "status": 200,
+      "rights": "Copyright expired - public domain",
+      "policyUrl": "https://www.awm.gov.au/about/organisation/corporate/copyright",
+      "rawReceipt": "research/v18/pacific-archives-01/C277270.html",
+      "checkedAt": "2026-11-12"
+    },
+    {
+      "id": "pacific-awm-c14107",
+      "sourceUrl": "https://www.awm.gov.au/collection/C14107",
+      "status": 200,
+      "rights": "Copyright expired - public domain",
+      "policyUrl": "https://www.awm.gov.au/about/organisation/corporate/copyright",
+      "rawReceipt": "research/v18/pacific-archives-01/C14107.html",
+      "checkedAt": "2026-11-12"
+    },
+    {
+      "id": "pacific-awm-c22299",
+      "sourceUrl": "https://www.awm.gov.au/collection/C22299",
+      "status": 200,
+      "rights": "Copyright expired - public domain",
+      "policyUrl": "https://www.awm.gov.au/about/organisation/corporate/copyright",
+      "rawReceipt": "research/v18/pacific-archives-01/C22299.html",
+      "checkedAt": "2026-11-12"
+    },
+    {
+      "id": "pacific-awm-043648",
+      "sourceUrl": "https://www.awm.gov.au/collection/043648",
+      "status": 200,
+      "rights": "Copyright expired - public domain",
+      "policyUrl": "https://www.awm.gov.au/about/organisation/corporate/copyright",
+      "rawReceipt": "research/v18/pacific-archives-01/043648.html",
+      "checkedAt": "2026-11-12"
+    },
+    {
+      "id": "pacific-awm-c250563",
+      "sourceUrl": "https://www.awm.gov.au/collection/C250563",
+      "status": 200,
+      "rights": "Copyright expired - public domain",
+      "policyUrl": "https://www.awm.gov.au/about/organisation/corporate/copyright",
+      "rawReceipt": "research/v18/pacific-archives-01/C250563.html",
+      "checkedAt": "2026-11-12"
+    }
+  ],
+  "downloads": [
+    {
+      "id": "C319068",
+      "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/P02423.025/screen/3952412.JPG",
+      "status": 200,
+      "bytes": 198471,
+      "sha256": "4a805d46b1c0cb30700446b2f07229a3c3695f318cc5f956ca9bd4a1dd31e254",
+      "file": "research/v18/pacific-archives-01/images/pacific-awm-c319068.jpg"
+    },
+    {
+      "id": "C277270",
+      "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/P01205.049/screen/4085904.JPG",
+      "status": 200,
+      "bytes": 160254,
+      "sha256": "063f39f8145ee539417dd12b184d1df491286e65a2d375a1911f28c6072d8e31",
+      "file": "research/v18/pacific-archives-01/images/pacific-awm-c277270.jpg"
+    },
+    {
+      "id": "C14107",
+      "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/042812/screen/6161466.JPG",
+      "status": 200,
+      "bytes": 193921,
+      "sha256": "33cea00c6583fcc0a8b7f803e6d4e831ee001aa8e6175991196dd455b1216d8f",
+      "file": "research/v18/pacific-archives-01/images/pacific-awm-c14107.jpg"
+    },
+    {
+      "id": "C22299",
+      "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/117129/screen/4133917.JPG",
+      "status": 200,
+      "bytes": 190583,
+      "sha256": "11515fecf9827f2199ec165a630ce4798ba4c66e5048efa4b19b5009bfa25d15",
+      "file": "research/v18/pacific-archives-01/images/pacific-awm-c22299.jpg"
+    },
+    {
+      "id": "043648",
+      "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/043648/screen/4100677.JPG",
+      "status": 200,
+      "bytes": 226858,
+      "sha256": "80d146d080f367f8f490a781d222c68c6fc96d78eeede520818983a39dfb0af1",
+      "file": "research/v18/pacific-archives-01/images/pacific-awm-043648.jpg"
+    },
+    {
+      "id": "C250563",
+      "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/133387/screen/3895259.JPG",
+      "status": 200,
+      "bytes": 195765,
+      "sha256": "2a7be3e4ab42b60a9857cd68755c00a1bacabe0b4541efba244c89b1e51018bd",
+      "file": "research/v18/pacific-archives-01/images/pacific-awm-c250563.jpg"
+    }
+  ],
+  "originalRecords": [
+    {
+      "id": "marshall-islands-nuclear-tests",
+      "title": {
+        "en": "1946–1958: nuclear testing and Marshallese displacement",
+        "zh": "1946—1958年：核试验与马绍尔人的流离"
+      },
+      "start": 1946,
+      "end": 1958,
+      "region": "oceania",
+      "theme": "states",
+      "kind": "event",
+      "importance": 4,
+      "location": {
+        "lat": 11.606,
+        "lon": 165.376,
+        "label": "Bikini Atoll; representative of testing at Bikini and Enewetak"
+      },
+      "locationYear": 1946,
+      "locationPrecision": "representative",
+      "summary": {
+        "en": "The United States carried out nuclear tests at Bikini and Enewetak between 1946 and 1958, transforming inhabited Pacific landscapes into Cold War testing grounds. Marshallese communities were displaced, and radioactive contamination made the consequences extend far beyond the test dates. Bikini’s displaced residents experienced repeated relocation, including an attempted return followed by another evacuation. The surviving ships and altered environments are therefore evidence of both military experimentation and disrupted lives. Counts need careful geographic scope: 67 tests refers to Bikini and Enewetak together, while 23 were conducted at Bikini. The map pin represents one of the atolls, not the full area of human or environmental impact.",
+        "zh": "美国在1946至1958年间于比基尼与埃内韦塔克进行核试验，把有人居住的太平洋景观转变为冷战试验场。马绍尔社群被迫迁移，放射性污染的影响远远超出试验本身的年份。比基尼居民多次搬迁，甚至曾返回后又被撤离。遗留舰船与改变的环境因此既是军事试验的证据，也是生活遭到破坏的见证。统计必须区分地理范围：67次指两个环礁合计，比基尼为23次。地图点只代表其中一处环礁，不涵盖全部人类或环境影响范围。"
+      },
+      "dateNote": {
+        "en": "1946–1958 is the testing interval. Displacement, contamination and debates about return continued after 1958; the entry is not an environmental recovery endpoint.",
+        "zh": "1946—1958年为核试验时段。迁移、污染及返乡问题在1958年后仍持续；结束年份不是环境恢复日期。"
+      },
+      "keyFacts": {
+        "en": [
+          "The total of 67 tests covers Bikini and Enewetak together; Bikini accounted for 23.",
+          "Testing required relocation and produced consequences lasting beyond the testing programme."
+        ],
+        "zh": [
+          "67次为比基尼与埃内韦塔克总数，其中比基尼进行23次。",
+          "试验造成居民迁移，其后果延续到试验计划结束以后。"
+        ]
+      },
+      "sources": [
+        {
+          "title": "Marshall Islands",
+          "url": "https://home.nps.gov/articles/000/marshall-islands.htm",
+          "publisher": "U.S. National Park Service",
+          "evidenceNote": "Gives 67 tests at Bikini and Enewetak during 1946–1958 and recounts repeated Bikini community displacement.",
+          "checkedAt": "2026-10-23"
+        },
+        {
+          "title": "Decision 34 COM 8B.20 — Bikini Atoll Nuclear Test Site",
+          "url": "https://whc.unesco.org/en/decisions/3999/",
+          "publisher": "UNESCO World Heritage Committee",
+          "evidenceNote": "Adopted inscription statement specifies 23 Bikini tests and discusses displacement, irradiation and environmental change; this resolves a scope error in the shorter site introduction.",
+          "checkedAt": "2026-10-23"
+        }
+      ],
+      "relatedIds": [
+        "second-world-war",
+        "rarotonga-treaty"
+      ],
+      "ongoing": false
+    },
+    {
+      "id": "japan-postwar-constitution",
+      "title": {
+        "en": "1946–1947: Japan’s postwar constitution",
+        "zh": "1946—1947年：日本战后宪法"
+      },
+      "start": 1946,
+      "end": 1947,
+      "region": "east-asia",
+      "theme": "states",
+      "kind": "event",
+      "importance": 4,
+      "location": {
+        "lat": 35.675,
+        "lon": 139.745,
+        "label": "National Diet area, Tokyo; representative constitutional government site"
+      },
+      "locationYear": 1946,
+      "locationPrecision": "representative",
+      "summary": {
+        "en": "Japan’s postwar constitution was promulgated on 3 November 1946 and came into force on 3 May 1947. Its text located sovereignty with the people, defined the emperor’s symbolic position and set out fundamental rights and parliamentary institutions. Article 9 renounced war as a sovereign means of settling international disputes. The National Diet Library’s documents also show deliberation and the practical steps required to bring the new order into operation, including elections and related legislation. The change took place within the postwar occupation, so constitutional commencement should not be confused with the later end of occupation. The two dates mark distinct stages in a consequential institutional transition.",
+        "zh": "日本战后宪法于1946年11月3日公布，1947年5月3日生效。文本规定主权属于人民，界定天皇的象征地位，并确立基本权利与议会机构。第九条放弃以国家主权发动战争作为解决国际争端的手段。国立国会图书馆的文献还展示审议及新制度实际运作所需的步骤，包括选举和配套立法。这场变化发生于战后占领时期，因此宪法生效不能与后来占领结束混淆。两个日期标示这一重大制度转型的不同阶段。"
+      },
+      "dateNote": {
+        "en": "3 November 1946 is promulgation; 3 May 1947 is entry into force. This interval records those stages, not the full period of drafting or postwar occupation.",
+        "zh": "1946年11月3日为公布日，1947年5月3日为生效日。此区间记录这两个阶段，不是全部起草期或战后占领期。"
+      },
+      "keyFacts": {
+        "en": [
+          "Popular sovereignty and the emperor’s symbolic status are stated in the constitution.",
+          "Promulgation and entry into force occurred six months apart."
+        ],
+        "zh": [
+          "宪法明确规定人民主权与天皇的象征地位。",
+          "公布与生效相隔六个月。"
+        ]
+      },
+      "sources": [
+        {
+          "title": "Constitution of Japan, November 3, 1946",
+          "url": "https://www.ndl.go.jp/constitution/e/shiryo/04/131shoshi.html",
+          "publisher": "National Diet Library, Japan",
+          "evidenceNote": "Archival document commentary gives promulgation and the preceding Diet deliberations.",
+          "checkedAt": "2026-10-23"
+        },
+        {
+          "title": "Chronological Table, December 1946–June 1947",
+          "url": "https://www.ndl.go.jp/constitution/e/etc/history05.html",
+          "publisher": "National Diet Library, Japan",
+          "evidenceNote": "Records 3 May commencement, elections, related legislation and occupation-authority context.",
+          "checkedAt": "2026-10-23"
+        },
+        {
+          "title": "The Constitution of Japan",
+          "url": "https://www.ndl.go.jp/constitution/e/etc/c01.html",
+          "publisher": "National Diet Library, Japan; English text based on Government Printing Bureau edition",
+          "evidenceNote": "Primary text supports popular sovereignty, symbolic emperor, rights, parliamentary institutions and Article 9.",
+          "checkedAt": "2026-10-23"
+        }
+      ],
+      "relatedIds": [
+        "second-world-war",
+        "meiji-restoration",
+        "korean-division"
+      ],
+      "ongoing": false
+    },
+    {
+      "id": "japan-postwar-polity",
+      "title": {
+        "en": "Japan since 1947: a new constitutional order",
+        "zh": "1947年以来的日本：新的宪制秩序"
+      },
+      "start": 1947,
+      "end": 2026,
+      "region": "east-asia",
+      "countryGroup": "japan",
+      "location": {
+        "lat": 35.68,
+        "lon": 139.75,
+        "label": "Tokyo; representative national government center"
+      },
+      "theme": "states",
+      "kind": "polity",
+      "importance": 4,
+      "locationPrecision": "representative",
+      "ongoing": true,
+      "summary": {
+        "en": "Japan’s postwar Constitution came into force in 1947 after debate and drafting under Allied occupation. It replaced the Meiji constitutional framework and changed the stated basis of sovereignty and the emperor’s constitutional position. This is a new constitutional period within Japan’s much longer history, not the founding of Japanese society.\n\nDrafts, committee papers and correspondence show that the settlement developed through several stages and participants. A timeline that treats 1868 or 1947 as the start of all Japanese history would obscure earlier courts and warrior governments. The shared sequence instead lets learners compare institutional change across periods.",
+        "zh": "战后日本宪法经盟军占领时期的讨论与起草，于1947年生效。它取代明治宪制框架，并改变主权的明文基础及天皇的宪法地位。这是日本更长历史中的新宪制时期，而不是日本社会的创立。\n\n草案、委员会文件与往来文书表明，这一安排经过多个阶段和参与者。如果时间线把1868年或1947年当作全部日本历史的开端，就会遮蔽更早宫廷和武家政府。共享序列使学习者能够跨时期比较制度变化。"
+      },
+      "dateNote": {
+        "en": "1947 begins the postwar constitutional period, not Japan as a country. 2026 is the atlas cutoff. The country had an earlier imperial constitution and earlier political institutions; this row deliberately names its narrower constitutional scope.",
+        "zh": "1947年为战后宪制时期起点，不是日本国家起点。2026年为地图截止点。此前已有帝国宪法及更早政治机构，本行明确采用较窄的宪制范围。"
+      },
+      "sources": [
+        {
+          "title": "Birth of the Constitution of Japan — Outline",
+          "url": "https://www.ndl.go.jp/constitution/e/outline/00outline.html",
+          "publisher": "National Diet Library, Japan",
+          "evidenceNote": "Archival exhibition explains staged drafting and replacement of the Meiji Constitution.",
+          "checkedAt": "2026-10-23"
+        },
+        {
+          "title": "Birth of the Constitution of Japan — document list",
+          "url": "https://www.ndl.go.jp/constitution/e/etc/list.html",
+          "publisher": "National Diet Library, Japan",
+          "evidenceNote": "Specific draft documents and 1947 implementation materials.",
+          "checkedAt": "2026-10-23"
+        }
+      ],
+      "keyFacts": {
+        "en": [
+          "1947 is a constitutional transition, not Japan’s first existence.",
+          "Archival drafts reveal several stages of constitutional change."
+        ],
+        "zh": [
+          "1947年是宪制转型，不是日本首次存在。",
+          "档案草案呈现宪制变化的多个阶段。"
+        ]
+      },
+      "relatedIds": [
+        "meiji-restoration",
+        "japan-postwar-constitution",
+        "edo-urban-culture"
+      ],
+      "timeline": {
+        "level": "major",
+        "label": {
+          "en": "Japan · postwar constitution",
+          "zh": "日本·战后宪制"
+        }
+      }
+    },
+    {
+      "id": "hiroshima-atomic-bombing",
+      "title": {
+        "en": "1945: Hiroshima and civilian destruction",
+        "zh": "1945年：广岛与平民灾难"
+      },
+      "start": 1945,
+      "end": 1945,
+      "region": "east-asia",
+      "theme": "states",
+      "kind": "event",
+      "location": {
+        "lat": 34.39,
+        "lon": 132.45,
+        "label": "Hiroshima; representative urban location"
+      },
+      "locationPrecision": "representative",
+      "importance": 3,
+      "summary": {
+        "en": "The United States dropped an atomic bomb on Hiroshima on 6 August 1945. Heat, blast and radiation destroyed urban spaces and harmed people through different mechanisms. The city’s experience cannot be reduced to a military target symbol: households, workplaces, schools and medical institutions were part of the environment struck.\n\nObjects, photographs and testimony preserved by the peace museum provide evidence about particular people and places. Each item has its own circumstances of survival and collection. Later remembrance became linked to debates about nuclear weapons, while survivors continued to live with consequences beyond the moment of the explosion. The precise attack date therefore anchors an event whose human and political history extends beyond a single day or the end of the war.",
+        "zh": "1945年8月6日，美国向广岛投下原子弹。热辐射、冲击波与核辐射以不同机制破坏城市并伤害人群。不能把城市经历缩减为军事目标符号：家庭、工作场所、学校及医疗机构，都处于遭受打击的环境之中。\n\n和平纪念资料馆保存的器物、照片与证言，为具体人物和地点提供证据；每件材料都有自身留存和收集的背景。后来的纪念同核武器争论相连，幸存者也持续承受爆炸之后的后果。因此，精确的攻击日期只是一个锚点，其人类与政治史超出了单日乃至战争结束。"
+      },
+      "dateNote": {
+        "en": "6 August 1945, 08: 15 local time. Representative city point, not an impact or exposure map.",
+        "zh": "1945年8月6日当地时间8时15分；城市代表点不是爆炸影响或辐射暴露地图。"
+      },
+      "sources": [
+        {
+          "title": "Atomic bombing exhibition",
+          "url": "https://www.pcf.city.hiroshima.jp/ken/shiryo2.html",
+          "publisher": "Hiroshima Peace Memorial Museum",
+          "evidenceNote": "6 August 1945, 08: 15 and damage mechanisms; Japanese exhibition description. Retrieval: search-indexed museum text inspected.",
+          "checkedAt": "2026-10-23",
+          "retrievalStatus": "search-indexed museum text inspected"
+        }
+      ],
+      "relatedIds": [
+        "second-world-war",
+        "japan-postwar-constitution"
+      ],
+      "keyFacts": {
+        "en": [
+          "Several destructive mechanisms affected civilian life.",
+          "The event’s consequences extended beyond 1945."
+        ],
+        "zh": [
+          "多种破坏机制影响平民生活。",
+          "事件后果延续到1945年之后。"
+        ]
+      },
+      "expansion": {
+        "workstreams": [
+          "EA3"
+        ],
+        "release": 3,
+        "sourceReview": "Sources individually inspected as described in each evidence note; original bilingual synthesis; no new territorial geometry.",
+        "evidenceLimit": "Single institution/source family; see evidence note and research register. Further independent corroboration remains desirable."
+      }
+    },
+    {
+      "id": "singapore-occupation-civilian-experience",
+      "title": {
+        "en": "Singapore’s occupation: screening, coercion and civilian memory",
+        "zh": "新加坡沦陷：筛查、强制与平民记忆"
+      },
+      "start": 1942,
+      "end": 1945,
+      "region": "southeast-asia",
+      "theme": "states",
+      "kind": "event",
+      "location": {
+        "lat": 1.35,
+        "lon": 103.82,
+        "label": "Singapore; representative occupied-city reference"
+      },
+      "locationPrecision": "representative",
+      "importance": 3,
+      "summary": {
+        "en": "Japanese occupation transformed Singapore’s government and civilian life during the Second World War. In Operation Sook Ching, the military screened members of the Chinese community for alleged opposition and executed those selected. The operation demonstrates how categories imposed by an occupying force could expose civilians to lethal violence.\n\nSurviving accounts and later commemoration must be handled with attention to the circumstances in which evidence was made. Estimates of deaths differ, so this entry does not repeat one total as settled fact. The occupation’s history also extends beyond military surrender into family memory and public institutions preserving testimony. Reading it alongside the later independence record avoids treating Singapore’s past as a sequence of administrative transfers that leaves out the people subjected to wartime rule.",
+        "zh": "第二次世界大战期间，日本占领改变了新加坡政府及平民生活。“肃清”行动中，军方以涉嫌反日为由筛查华人社区成员，并处决被选定者。这说明占领军施加的分类如何使平民面临致命暴力。\n\n存世叙述与后世纪念，必须结合证据制作的处境解读。死亡估计有差异，因此本条不把某一数字当作已定事实重复。占领史也超出军事投降，延伸至家庭记忆及保存证言的公共机构。与后来独立记录并读，可避免把新加坡历史写成行政交接序列，而忽视受战争统治的人。"
+      },
+      "dateNote": {
+        "en": "Occupation focus 1942–1945; Operation Sook Ching screening/executions discussed by NLB occurred 21 February–4 March 1942.",
+        "zh": "关注1942—1945年占领；国家图书馆讨论的肃清筛查与处决发生于1942年2月21日至3月4日。"
+      },
+      "sources": [
+        {
+          "title": "Operation Sook Ching",
+          "url": "https://www.nlb.gov.sg/main/article-detail?cmsuuid=cc4da337-3bcd-4f96-bdc6-5210646bdd90",
+          "publisher": "National Library Board, Singapore",
+          "evidenceNote": "21 February–4 March 1942 screening and executions; disputed casualty estimates are not repeated. Retrieval: page text inspected.",
+          "checkedAt": "2026-10-23",
+          "retrievalStatus": "page text inspected"
+        },
+        {
+          "title": "Japanese Occupation",
+          "url": "https://www.nlb.gov.sg/main/site/learnx/learnx-singapore/adults/japanese-occupation",
+          "publisher": "National Library Board, Singapore",
+          "evidenceNote": "1942–1945 occupation context and learning resources. Retrieval: search-indexed institutional text inspected.",
+          "checkedAt": "2026-10-23",
+          "retrievalStatus": "search-indexed institutional text inspected"
+        }
+      ],
+      "relatedIds": [
+        "singapore-independence",
+        "second-world-war"
+      ],
+      "keyFacts": {
+        "en": [
+          "Occupying categories exposed civilians to violence.",
+          "Casualty estimates remain qualified."
+        ],
+        "zh": [
+          "占领者的分类使平民遭受暴力。",
+          "伤亡估计保留不确定性。"
+        ]
+      },
+      "expansion": {
+        "workstreams": [
+          "SE3"
+        ],
+        "release": 3,
+        "sourceReview": "Sources individually inspected as described in each evidence note; original bilingual synthesis; no new territorial geometry.",
+        "evidenceLimit": "Single institution/source family; see evidence note and research register. Further independent corroboration remains desirable."
+      }
+    },
+    {
+      "id": "kokoda-papuan-labour",
+      "title": {
+        "en": "Kokoda 1942: war sustained by Papuan labour",
+        "zh": "1942年科科达：由巴布亚劳力支撑的战争"
+      },
+      "start": 1942,
+      "end": 1942,
+      "kind": "event",
+      "theme": "states",
+      "region": "oceania",
+      "location": {
+        "lat": -8.88,
+        "lon": 147.74,
+        "label": "Kokoda Track; representative campaign location"
+      },
+      "locationPrecision": "representative",
+      "importance": 4,
+      "summary": {
+        "en": "The 1942 Kokoda campaign was fought over a mountain route between Papua’s north coast and the approaches to Port Moresby. Japanese and Australian forces struggled with terrain, illness and long supply lines. Papuan soldiers and carriers were indispensable: food, ammunition and wounded people moved along paths that vehicles could not use.\n\nLater Australian remembrance often cast the carriers as uniformly willing and selfless helpers. Research preserved by the Australian War Memorial complicates that image with evidence of conscription, poor conditions, illness and unresolved questions of compensation and recognition. Papuan experiences included service and solidarity, but also coercion and loss. Putting labour beside military operations changes the campaign’s geography: villages, carrying routes and medical evacuation become part of the story, rather than a background to battles between foreign armies. It also prevents gratitude expressed later from substituting for an account of what wartime workers experienced.",
+        "zh": "1942年的科科达战役，围绕巴布亚北海岸通向莫尔兹比港外围的山地路线展开。日军与澳军都面临地形、疾病和漫长补给线的困难。巴布亚士兵与搬运工不可或缺：食物、弹药和伤员必须通过车辆无法行驶的小径运输。\n\n澳大利亚后来的记忆常把搬运工描绘成一致自愿、无私的帮助者。澳大利亚战争纪念馆保存的研究，则以征发、恶劣条件、疾病，以及补偿和承认问题，使这一形象复杂化。巴布亚人的经验既有服务与团结，也有强制和损失。把劳动与军事行动并列，会改变战役的地理图景：村庄、运输路线和医疗撤离成为主体，不再只是外国军队作战的背景，也避免用后来的感谢取代对劳动者亲历的说明。"
+      },
+      "dateNote": {
+        "en": "Campaign focus 1942; this representative point is not a complete battlefront or carrier-route reconstruction.",
+        "zh": "关注1942年战役；代表点不构成完整战线或搬运路线复原。"
+      },
+      "sources": [
+        {
+          "title": "Kokoda Trail Campaign",
+          "url": "https://www.awm.gov.au/papua-campaign/kokoda",
+          "publisher": "Australian War Memorial",
+          "evidenceNote": "Indexed museum narrative: 1942 campaign and Papuan carriers’ essential logistical work.",
+          "checkedAt": "2026-10-23",
+          "retrieval": "indexed-excerpt"
+        },
+        {
+          "title": "The “Fuzzy Wuzzy Angels”: looking beyond the myth",
+          "url": "https://www.awm.gov.au/articles/blog/the-fuzzy-wuzzy-angels",
+          "publisher": "Australian War Memorial",
+          "evidenceNote": "Indexed research essay: coerced labour, poor conditions and exclusions from later Australian remembrance.",
+          "checkedAt": "2026-10-23",
+          "retrieval": "indexed-excerpt"
+        }
+      ],
+      "relatedIds": [
+        "papua-new-guinea-independence",
+        "guadalcanal-island-war",
+        "person-michael-somare"
+      ],
+      "expansion": {
+        "workstreams": [
+          "OC3"
+        ],
+        "release": 3,
+        "sourceReview": "Evidence synthesis; per-source retrieval and limits stated"
+      },
+      "ongoing": false,
+      "keyFacts": {
+        "en": [
+          "Papuan labour sustained military logistics.",
+          "Later commemorative language can conceal coercion."
+        ],
+        "zh": [
+          "巴布亚劳力支撑军事后勤。",
+          "后来的纪念语言可能遮蔽强制。"
+        ]
+      }
+    },
+    {
+      "id": "guadalcanal-island-war",
+      "title": {
+        "en": "Guadalcanal: an island transformed by world war",
+        "zh": "瓜达尔卡纳尔：被世界大战改变的岛屿"
+      },
+      "start": 1942,
+      "end": 1943,
+      "kind": "event",
+      "theme": "states",
+      "region": "oceania",
+      "location": {
+        "lat": -9.43,
+        "lon": 160.05,
+        "label": "Guadalcanal; representative campaign location"
+      },
+      "locationPrecision": "representative",
+      "importance": 4,
+      "summary": {
+        "en": "American forces landed on Guadalcanal in August 1942, beginning a prolonged struggle with Japanese forces over an airfield and the surrounding sea approaches. Land fighting, naval engagements and aircraft operations were interdependent. Supplying troops across contested waters became as important as taking a position on land, while illness and shortages increased the cost of the campaign.\n\nGuadalcanal also belonged to an inhabited Solomon Islands world. Coastwatching and local knowledge connected island communities to Allied intelligence, and the campaign must be read alongside the wider war in Papua and New Guinea. Official military histories explain operational decisions but tend to organize the narrative around armies and commanders. Their perspective should be supplemented by local experiences of displacement, labour and loss. The 1942–1943 interval identifies the campaign, not the start of island history or the end of the war’s consequences for Solomon Islanders.",
+        "zh": "美军在1942年8月登陆瓜达尔卡纳尔，围绕机场与周边海上通道同日军展开持久争夺。陆战、海战与空中行动相互依存；穿越争夺中的海域补给部队，与夺取陆上阵地同样重要，疾病和物资短缺增加了战役代价。\n\n瓜岛也属于有人居住的所罗门群岛世界。海岸观察与地方知识，把岛屿社区同盟军情报活动相连；战役还应与巴布亚及新几内亚的战争并读。官方军史解释作战决策，却通常围绕军队与指挥官组织叙事，需要以当地人的迁离、劳动和损失经验补充。1942—1943年标示战役，不是岛屿历史起点，也不是战争影响对所罗门群岛人结束的时间。"
+      },
+      "dateNote": {
+        "en": "August 1942–February 1943 campaign focus. The point is a regional orientation aid, not a surveyed battlefield boundary.",
+        "zh": "关注1942年8月至1943年2月的战役。点位用于区域定位，并非经测绘的战场边界。"
+      },
+      "sources": [
+        {
+          "title": "The Marine Campaign for Guadalcanal: The Landing and August Battles",
+          "url": "https://npshistory.com/pcn-190-003117-00/sec2",
+          "publisher": "Henry I. Shaw Jr. / U.S. Marine Corps historical publication, mirrored by NPSHistory",
+          "evidenceNote": "Indexed official-authored campaign text: 7 August 1942 landings; mirror is not a National Park Service website.",
+          "checkedAt": "2026-10-23",
+          "retrieval": "indexed-excerpt"
+        },
+        {
+          "title": "High command and the Kokoda campaign",
+          "url": "https://www.awm.gov.au/visit/events/conference/remembering-1942/horner",
+          "publisher": "David Horner / Australian War Memorial",
+          "evidenceNote": "Indexed scholarly conference paper links Guadalcanal August 1942–February 1943 with wider campaigns and coastwatching.",
+          "checkedAt": "2026-10-23",
+          "retrieval": "indexed-excerpt"
+        }
+      ],
+      "relatedIds": [
+        "kokoda-papuan-labour",
+        "first-world-war"
+      ],
+      "expansion": {
+        "workstreams": [
+          "OC3"
+        ],
+        "release": 3,
+        "sourceReview": "Evidence synthesis; per-source retrieval and limits stated"
+      },
+      "ongoing": false,
+      "keyFacts": {
+        "en": [
+          "Air, sea and land operations depended on one another.",
+          "Military campaign dates do not contain all civilian experience."
+        ],
+        "zh": [
+          "空、海、陆行动相互依赖。",
+          "战役年代不能涵盖全部平民经验。"
+        ]
+      }
+    }
+  ],
+  "ownerPixelReview": "All six complete source photographs individually viewed. Credit strips preserved. Hiroshima is dated 1946, Singapore 20 September 1945, Japanese fireworks 1946 promulgation. No identities, health or consent inferred from appearance. Guadalcanal now has two distinct photographs but is counted once. Catalogue dates retained rather than reconciled through similar photographs.",
+  "finalInterpretations": [
+    {
+      "assetId": "pacific-awm-c319068",
+      "interpretation": {
+        "en": "Supply boxes hang from shoulder poles above a narrow forest crossing. Papuan labour sustained a campaign whose routes vehicles could not reach. The accompanying account places this work alongside documented conscription, poor conditions and later demands for recognition.",
+        "zh": "补给箱悬在肩挑木杆上，越过林间窄桥。巴布亚劳动者维系了车辆无法抵达山区的战役补给。关联故事同时呈现史料中的征发、恶劣条件与后来的承认诉求。"
+      }
+    },
+    {
+      "assetId": "pacific-awm-c277270",
+      "interpretation": {
+        "en": "A makeshift seesaw stands between rubble and rebuilt storefronts. Photographed the year after the bombing, the scene records children using a damaged urban space while reconstruction began.",
+        "zh": "临时跷跷板立在瓦砾与重建店铺之间。照片摄于轰炸次年，记录重建开始时儿童在受损城市空间中的活动。"
+      }
+    },
+    {
+      "assetId": "pacific-awm-c14107",
+      "interpretation": {
+        "en": "The explosion rises above ships placed in Bikini’s lagoon. This military aerial view records the Baker test; the linked history follows the Marshallese communities displaced by the wider testing programme and its lasting contamination.",
+        "zh": "爆炸云升起，环礁潟湖中可见舰船。这幅军事航拍记录贝克试验；关联故事追踪更广泛试验计划造成的马绍尔社群迁移与长期污染。"
+      }
+    },
+    {
+      "assetId": "pacific-awm-c22299",
+      "interpretation": {
+        "en": "This meeting after the occupation records civilian help during captivity. The military catalogue names the battalion but leaves the women unnamed, preserving an uneven record of the people who sustained prisoners.",
+        "zh": "占领结束后的这次会面记录被囚期间的平民援助。军事目录写明了部队番号，却未记录妇女姓名，留下了不均衡的援助者档案。"
+      }
+    },
+    {
+      "assetId": "pacific-awm-043648",
+      "interpretation": {
+        "en": "Local policemen appear alongside a British colonial officer in a campaign often told through U.S. and Japanese forces. The catalogue names Clemens but leaves the six policemen unnamed.",
+        "zh": "当地警察与一名英国殖民官员并肩出现在常以美日军队为主角的战役之中。目录记下克莱门斯，却未记下六名警察的姓名。"
+      }
+    },
+    {
+      "assetId": "pacific-awm-c250563",
+      "interpretation": {
+        "en": "The fireworks celebrate promulgation in 1946. The constitution came into force on 3 May 1947, after further preparation; the photograph and the legal transition therefore belong to different stages.",
+        "zh": "烟火庆祝的是1946年的宪法公布。经过后续准备，宪法于1947年5月3日生效；照片与法律施行属于不同阶段。"
+      }
+    }
+  ]
+}

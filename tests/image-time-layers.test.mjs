@@ -7,9 +7,9 @@ import {loadAtlasRecords,readAtlasData} from '../scripts/lib/atlas-records.mjs';
 const {manifest,records}=loadAtlasRecords(),catalog=readAtlasData(manifest.mediaFile);
 const escape=v=>String(v).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 
-test('ten date sequences refer only to admitted objects with unchanged source dates',()=>{
- assert.equal(IMAGE_TIME_LAYERS.length,10);
- assert.equal(new Set(IMAGE_TIME_LAYERS.map(row=>row.assetId)).size,10);
+test('eleven date sequences refer only to admitted objects with unchanged source dates',()=>{
+ assert.equal(IMAGE_TIME_LAYERS.length,11);
+ assert.equal(new Set(IMAGE_TIME_LAYERS.map(row=>row.assetId)).size,11);
  for(const sequence of IMAGE_TIME_LAYERS){
   const item=catalog.items.find(item=>item.id===sequence.assetId);
   assert.ok(item);assert.equal(item.date,sequence.expectedDate);assert.equal(imageTimeLayers(item),sequence);

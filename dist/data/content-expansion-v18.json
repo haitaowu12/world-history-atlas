@@ -2455,9 +2455,9 @@
   },
   "mediaLocalization": {
     "file": "history-media-localization-zh-v18.json",
-    "bytes": 186094,
-    "sha256": "e6c26124bc7f21d8d09cfc8d0a4d4fe90923bd3f957b4c174ab43102e15fbc67",
-    "assets": 423
+    "bytes": 191610,
+    "sha256": "c0ed05ed5e63e01bc062fa40529149a5458a783229e246c8b15b8399b7b5afdc",
+    "assets": 436
   },
   "visualExpansion": {
     "baselineManifest": "content-expansion-v17.json",
@@ -2715,6 +2715,13 @@
         "associations": 4
       },
       {
+        "file": "visual-assets-getty-images-04-v18.json",
+        "bytes": 10672,
+        "sha256": "140b533d957097f797317252367e9c684ce35ae23dd0e21a4cee99cc8f6969be",
+        "assets": 2,
+        "associations": 3
+      },
+      {
         "file": "visual-assets-oceania-images-01-v18.json",
         "bytes": 7274,
         "sha256": "25f90d019ac0341e89c990f97986940725cc9761408bdab836621671f84a5440",
@@ -2722,10 +2729,24 @@
         "associations": 0
       },
       {
+        "file": "visual-assets-pacific-archives-01-v18.json",
+        "bytes": 22257,
+        "sha256": "80c40036c2818461f076993dc10d06acedbc066640c977cd726dbbfd28452efd",
+        "assets": 6,
+        "associations": 0
+      },
+      {
         "file": "visual-assets-us-archives-02-v18.json",
         "bytes": 13704,
         "sha256": "5b078427c4692e61b8a90cf3448abe164ae45786f0636351b3301ba92f00d107",
         "assets": 4,
+        "associations": 0
+      },
+      {
+        "file": "visual-assets-us-archives-03-v18.json",
+        "bytes": 17043,
+        "sha256": "fd96999da462fbc667091cef501b953a1f39fe1b92237a653a00e8f04f5f8e34",
+        "assets": 5,
         "associations": 0
       },
       {
@@ -2828,8 +2849,8 @@
       }
     ],
     "coverageFile": "visual-coverage-v18.json",
-    "assets": 423,
-    "covered": 809,
+    "assets": 436,
+    "covered": 822,
     "total": 2087,
     "target": 1044
   }
