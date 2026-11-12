@@ -1,0 +1,299 @@
+{
+  "reviewedAt": "2026-11-12",
+  "baselineCommit": "0f6e419d4b71591cbcc82fadbde57ab3499779ad",
+  "status": "Two new image admissions from surviving research, not recovery of the missing later implementation.",
+  "receipts": [
+    {
+      "id": "canadian-pages-02-macdonald",
+      "canvasIndex": 9,
+      "canvasId": "https://iiif.archive.org/iiif/canadaspatriotst00collrich$9/canvas",
+      "pageIdentity": "Unnumbered frontispiece facing title page",
+      "rawRights": {
+        "copyright-evidence-operator": "Internet Archive biblio tool",
+        "possible-copyright-status": "NOT_IN_COPYRIGHT",
+        "copyright-region": "US",
+        "copyright-evidence": "Evidence reported by Internet Archive biblio tool for item canadaspatriotst00collrich on March 12, 2008: no visible notice of copyright; stated date is 1891.",
+        "copyright-evidence-date": "20080312211756"
+      },
+      "metadata": {
+        "title": "Canada's patriot statesman. The life and career of the Right Honourable Sir John A. Macdonald ..",
+        "creator": [
+          "Collins, Joseph Edmund, 1855-1892",
+          "Adam, Graeme Mercer, 1839-1912"
+        ],
+        "publisher": "Toronto, Rose Publishing Co. (limited)",
+        "date": "[1891]",
+        "possible-copyright-status": "NOT_IN_COPYRIGHT",
+        "copyright-region": "US",
+        "copyright-evidence": "Evidence reported by Internet Archive biblio tool for item canadaspatriotst00collrich on March 12, 2008: no visible notice of copyright; stated date is 1891.",
+        "contributor": "University of California Libraries",
+        "identifier": "canadaspatriotst00collrich"
+      },
+      "inspection": "Final portrait individually viewed. Left-facing bust, reproduced signature and library perforations retained. Title and copyright leaves independently viewed: revision by G. Mercer Adam, Rose Publishing, Canadian registration 1891.",
+      "url": "https://iiif.archive.org/image/iiif/3/canadaspatriotst00collrich%2Fcanadaspatriotst00collrich_jp2.zip%2Fcanadaspatriotst00collrich_jp2%2Fcanadaspatriotst00collrich_0010.jp2/full/!1198,1198/0/default.jpg",
+      "sha256": "87ec61bead976a6ae9b7b77efe224b13aaf5067461e444b5b2a62395c49da7b0",
+      "bytes": 133359,
+      "width": 759,
+      "height": 1198
+    },
+    {
+      "id": "canadian-pages-02-confederation",
+      "canvasIndex": 18,
+      "canvasId": "https://iiif.archive.org/iiif/unionofbritishpr00wheluoft$18/canvas",
+      "pageIdentity": "p. 5, The Delegates, Charlottetown conference section",
+      "rawRights": {
+        "copyright-evidence-operator": "AlexAitken",
+        "possible-copyright-status": "NOT_IN_COPYRIGHT",
+        "copyright-region": "US",
+        "copyright-evidence": "Evidence reported by AlexAitken for item unionofbritishpr00wheluoft on November 13, 2007: no visible notice of copyright; stated date is 1864.",
+        "copyright-evidence-date": "20071113211424"
+      },
+      "metadata": {
+        "title": "The union of the British provinces. A brief account of the several conferences held in the Maritime provinces and in Canada, in September and October, 1864, on the proposed confederation of the provinces, together with a report of the speeches delivered by the delegates from the provinces, on important public occasions",
+        "creator": "Whelan, Edward, 1824-1867",
+        "publisher": "Charlottetown, Prince Edward Island Printed by G.T. Haszard",
+        "date": "1865",
+        "possible-copyright-status": "NOT_IN_COPYRIGHT",
+        "copyright-region": "US",
+        "copyright-evidence": "Evidence reported by AlexAitken for item unionofbritishpr00wheluoft on November 13, 2007: no visible notice of copyright; stated date is 1864.",
+        "contributor": "Robarts - University of Toronto",
+        "identifier": "unionofbritishpr00wheluoft"
+      },
+      "inspection": "Final page individually viewed: p. 5, heading THE DELEGATES, Nova Scotia/New Brunswick/Prince Edward Island/Canada, statement Newfoundland sent no delegates. Chapter opening p. 1 independently viewed and identifies Charlottetown. Publication date uses catalog date 1865; rights evidence metadata separately says 1864.",
+      "url": "https://iiif.archive.org/image/iiif/3/unionofbritishpr00wheluoft%2Funionofbritishpr00wheluoft_jp2.zip%2Funionofbritishpr00wheluoft_jp2%2Funionofbritishpr00wheluoft_0019.jp2/full/!1198,1198/0/default.jpg",
+      "sha256": "7989259897edf94bfcdf706b086ffe31733469483cc1e0a448e896f2053a38a0",
+      "bytes": 193598,
+      "width": 678,
+      "height": 1198
+    }
+  ],
+  "originalTargets": [
+    {
+      "id": "canadian-confederation",
+      "title": {
+        "en": "1867: a Canadian federation begins",
+        "zh": "1867：加拿大联邦的开端"
+      },
+      "start": 1867,
+      "end": 1867,
+      "region": "north-america",
+      "theme": "states",
+      "kind": "event",
+      "importance": 4,
+      "location": {
+        "lat": 45.42,
+        "lon": -75.7,
+        "label": "Ottawa"
+      },
+      "locationPrecision": "representative",
+      "summary": {
+        "en": "The Province of Canada, New Brunswick and Nova Scotia joined in a federal union under British legislation. Dividing the Province of Canada into Ontario and Quebec gave the new federation four provinces, not the full territory shown on a modern Canadian map. Other provinces and territories entered through later processes with distinct circumstances. Confederation also did not immediately create complete independence from Britain; external autonomy and constitutional change developed over generations. The event is best understood as one institutional beginning within a longer history of expansion, negotiation and conflict over whose authority would govern northern North America.",
+        "zh": "加拿大省、新不伦瑞克和新斯科舍依据英国法律组成联邦；加拿大省分为安大略与魁北克，因此最初只有四省，并非今日地图的全部疆域。其他省区经各自不同过程加入。联邦成立也未立即实现对英国的完全独立，外交自主与宪制变化历时多代。1867年是在更长的扩张、谈判与北美北部统治权冲突中，一个重要的制度起点。"
+      },
+      "dateNote": {
+        "en": "The federation began in 1867; the initial four provinces were Ontario, Quebec, Nova Scotia and New Brunswick. Later accessions must be dated separately.",
+        "zh": "联邦始于1867年，最初四省为安大略、魁北克、新斯科舍与新不伦瑞克；后续加入另有年代。"
+      },
+      "sources": [
+        {
+          "title": "Provinces and territories: the Canadian federation",
+          "url": "https://www.canada.ca/en/intergovernmental-affairs/services/provinces-territories.html",
+          "publisher": "Government of Canada",
+          "checkedAt": "2026-10-22",
+          "evidenceNote": "The federation began in 1867; the initial four provinces were Ontario, Quebec, Nova Scotia and New Brunswick. Later accessions must be dated separately."
+        }
+      ]
+    },
+    {
+      "id": "person-john-a-macdonald",
+      "title": {
+        "en": "John A. Macdonald · Coalition-building and coercive nation-making",
+        "zh": "约翰·A·麦克唐纳 · 联盟政治与强制性的国家建构"
+      },
+      "start": 1815,
+      "end": 1891,
+      "region": "north-america",
+      "kind": "person",
+      "theme": "states",
+      "importance": 4,
+      "location": {
+        "lat": 45.42,
+        "lon": -75.7,
+        "label": "Ottawa; representative federal government setting"
+      },
+      "locationPrecision": "representative",
+      "summary": {
+        "en": "John Alexander Macdonald’s life connected a Kingston legal practice to the construction of a federal state. Born in Glasgow in 1815, he came to Upper Canada with his parents as a child. Legal training, business relationships and local politics gave him connections before his 1844 election to the Province of Canada’s assembly. His career depended on coalition, including cooperation with George-Étienne Cartier and French Canadian Conservatives, rather than the work of one founder acting alone.\n\nHe became the new Dominion’s first prime minister in 1867. His government expanded federal territory and institutions while disputes over land and authority continued. The Pacific Scandal exposed campaign financing linked to a railway contract and forced his resignation in 1873. After years in opposition, he returned to office in 1878 with a protectionist programme. Higher tariffs followed in 1879; railway financing and western settlement formed connected aspects of his administration’s plans.\n\nThe same state-building imposed exclusion and coercion. As superintendent general of Indian Affairs from 1878 to 1887, Macdonald bore direct responsibility for policy toward First Nations. His government expanded federally supported residential schooling in 1883, an assimilationist programme that separated children from communities. In the western interior, officials used control over food supplies to force people onto reserves amid the destruction of bison-based livelihoods. Chinese workers’ contribution to the railway was followed by discriminatory voting and immigration measures, including the 1885 head-tax law.\n\nMacdonald died in Ottawa in 1891. His political skill and institution-building belong in the same history as these policies and their unequal consequences. His biography does not turn Confederation into the origin of all peoples’ histories or attribute later governments’ actions indiscriminately to his years in power.",
+        "zh": "约翰·亚历山大·麦克唐纳的一生，把金斯顿律师事务与联邦国家建构连接起来。他1815年出生于格拉斯哥，幼年随父母来到上加拿大。法律训练、商业关系与地方政治为他建立网络，1844年当选加拿大省议会议员。其事业依靠联盟，包括同乔治—艾蒂安·卡蒂埃及法裔加拿大保守派合作，而非一位建国者独自行动。\n\n1867年，他成为新自治领首任总理。政府扩展联邦领土和机构，土地与权威争议却持续存在。太平洋丑闻揭露与铁路合同相连的竞选筹款，迫使他1873年辞职。在野数年后，1878年以保护主义纲领重新执政。1879年提高关税；铁路融资和西部定居也是相关施政计划。\n\n同一国家建构过程施加了排斥与强制。麦克唐纳1878至1887年兼任印第安事务总监，对第一民族政策负有直接责任。其政府1883年扩展联邦支持的寄宿学校，以同化为目标使儿童与社群分离。在野牛生计遭破坏的背景下，西部内陆官员通过控制食物供应，迫使人们进入保留地。华工建设铁路的贡献，也伴随着歧视性的投票和移民措施，包括1885年的人头税法。\n\n1891年，他在渥太华去世。政治技巧及机构建设必须与这些政策及其不平等后果一同理解。本传不把联邦成立当作所有民族历史的起点，也不把后来政府的行为不加区别地归于其执政年代。"
+      },
+      "dateNote": {
+        "en": "Lifespan 1815–1891; exact birth day is omitted because registered and family-celebrated dates differ. Prime-ministerial terms were 1867–1873 and 1878–1891. The 1876 Indian Act was enacted while he was in opposition; this entry does not assign its enactment to his government.",
+        "zh": "生卒1815—1891年；登记与家庭庆祝的生日不同，故不列具体日。总理任期为1867—1873及1878—1891年。1876年《印第安人法》通过时他在野，本条不将该法制定归于其政府。"
+      },
+      "sources": [
+        {
+          "title": "MACDONALD, Sir JOHN ALEXANDER",
+          "publisher": "Dictionary of Canadian Biography, University of Toronto and Université Laval; revised First Nations sections by J. R. Miller and Chinese-policy section by Patricia E. Roy",
+          "url": "https://www.biographi.ca/en/bio/macdonald_john_alexander_12E.html",
+          "evidenceNote": "Relevant webpage text captured through the root Codex in-app browser and inspected from that local capture. Early life, law, Confederation, National Policy and 1878 election, departmental and First Nations policy, Chinese immigration and 1891 death sections inspected. Supports 1836 law qualification, 1844 politics, 1867 premiership, 1873 resignation, 1878 return, 1878–1887 Indian Affairs responsibility, residential-school expansion and 1885 head-tax statute/full effect 1886. Its evaluative genocide discussion is not adopted as a resolution of TRC findings.",
+          "checkedAt": "2026-10-24",
+          "retrieval": "inspected-text-via-central-iab-capture"
+        },
+        {
+          "title": "Sir John A. Macdonald",
+          "publisher": "The Canadian Encyclopedia, Historica Canada",
+          "url": "https://www.thecanadianencyclopedia.ca/en/article/sir-john-alexander-macdonald",
+          "evidenceNote": "Relevant webpage text captured through the root Codex in-app browser and inspected from that local capture. Biography and National Policy/railway/Indigenous/Chinese-policy sections: 1815–1891, 1844 election, 1867–1873 and 1878–1891 terms, 1879 tariffs, railway finance, 1883 federal residential-school programme and 1885 exclusionary measures.1880 s food coercion is attributed to historian James Daschuk. The paragraph compressing 1876 Indian Act into his government is not followed; he was then in opposition.",
+          "checkedAt": "2026-10-24",
+          "retrieval": "inspected-text-via-central-iab-capture"
+        }
+      ],
+      "relatedIds": [
+        "canadian-national-policy-tariffs-land",
+        "canadian-confederation",
+        "person-louis-riel",
+        "canadian-residential-schools"
+      ],
+      "expansion": {
+        "workstreams": [
+          "NA3",
+          "NA2"
+        ],
+        "release": 6,
+        "edition": "v12",
+        "sourceReview": "inspected-source-synthesis",
+        "reviewLimit": {
+          "en": "A selected synthesis from source text captured in the root agent’s in-app browser and inspected by the content author. The two reference works are scholarly syntheses, not a full review of underlying archives or Indigenous-language testimony. Representative pins do not establish borders or a continuous itinerary.",
+          "zh": "选取主代理在应用内浏览器取得、由内容作者查阅的来源文字进行综合。两部参考著作为学术综合，并非对全部原始档案或原住民语言见证的全面核查。代表性点位不确立疆界或连续行程。"
+        }
+      },
+      "name": {
+        "en": "John A. Macdonald",
+        "zh": "约翰·A·麦克唐纳"
+      },
+      "milestones": [
+        {
+          "year": 1836,
+          "title": {
+            "en": "Qualified for the law",
+            "zh": "取得律师资格"
+          },
+          "description": {
+            "en": "He was called to the bar after legal apprenticeship and early office work.",
+            "zh": "在法律学徒训练及早期事务所工作后取得律师资格。"
+          },
+          "location": {
+            "lat": 44.23,
+            "lon": -76.49,
+            "label": "Kingston; representative early legal-practice setting, not a verified admission ceremony location"
+          },
+          "approximate": false
+        },
+        {
+          "year": 1844,
+          "title": {
+            "en": "Entering the provincial assembly",
+            "zh": "进入省议会"
+          },
+          "description": {
+            "en": "Kingston elected him to the Province of Canada’s Legislative Assembly.",
+            "zh": "金斯顿选民选他进入加拿大省立法议会。"
+          },
+          "location": {
+            "lat": 44.23,
+            "lon": -76.49,
+            "label": "Kingston; legal and electoral constituency context"
+          },
+          "approximate": false
+        },
+        {
+          "year": 1867,
+          "title": {
+            "en": "Prime minister of the new Dominion",
+            "zh": "新自治领总理"
+          },
+          "description": {
+            "en": "He headed the first federal government within a coalition-built constitutional settlement.",
+            "zh": "在联盟形成的宪制安排下，领导首届联邦政府。"
+          },
+          "location": {
+            "lat": 45.42,
+            "lon": -75.7,
+            "label": "Ottawa; representative federal government setting"
+          },
+          "approximate": false
+        },
+        {
+          "year": 1873,
+          "title": {
+            "en": "Resignation after scandal",
+            "zh": "丑闻后辞职"
+          },
+          "description": {
+            "en": "The Pacific Scandal over railway-related campaign financing brought down his government.",
+            "zh": "涉及铁路相关竞选筹款的太平洋丑闻导致政府下台。"
+          },
+          "location": {
+            "lat": 45.42,
+            "lon": -75.7,
+            "label": "Ottawa; representative federal government setting"
+          },
+          "approximate": false
+        },
+        {
+          "year": 1878,
+          "title": {
+            "en": "Return to federal office",
+            "zh": "重返联邦执政"
+          },
+          "description": {
+            "en": "His Conservatives returned to power; the promised tariff changes followed in 1879.",
+            "zh": "保守党重新执政，承诺的关税调整于1879年实施。"
+          },
+          "location": {
+            "lat": 45.42,
+            "lon": -75.7,
+            "label": "Ottawa; representative federal government setting"
+          },
+          "approximate": false
+        }
+      ],
+      "aliases": [
+        "Sir John A. Macdonald",
+        "John Alexander Macdonald"
+      ],
+      "countryGroup": "canada"
+    }
+  ],
+  "summaryEdits": [
+    {
+      "recordId": "canadian-confederation",
+      "before": {
+        "en": "The Province of Canada, New Brunswick and Nova Scotia joined in a federal union under British legislation. Dividing the Province of Canada into Ontario and Quebec gave the new federation four provinces, not the full territory shown on a modern Canadian map. Other provinces and territories entered through later processes with distinct circumstances. Confederation also did not immediately create complete independence from Britain; external autonomy and constitutional change developed over generations. The event is best understood as one institutional beginning within a longer history of expansion, negotiation and conflict over whose authority would govern northern North America.",
+        "zh": "加拿大省、新不伦瑞克和新斯科舍依据英国法律组成联邦；加拿大省分为安大略与魁北克，因此最初只有四省，并非今日地图的全部疆域。其他省区经各自不同过程加入。联邦成立也未立即实现对英国的完全独立，外交自主与宪制变化历时多代。1867年是在更长的扩张、谈判与北美北部统治权冲突中，一个重要的制度起点。"
+      },
+      "after": {
+        "en": "In 1867, the Province of Canada, New Brunswick and Nova Scotia joined in a federation under British legislation. Dividing the Province of Canada into Ontario and Quebec created the initial four provinces. Later accessions expanded the federation through separate negotiations and conflicts over land and authority. External autonomy and constitutional independence from Britain developed over subsequent generations.",
+        "zh": "1867年，加拿大省、新不伦瑞克与新斯科舍依据英国法律组成联邦。加拿大省分为安大略和魁北克，形成最初四省。此后的加入过程扩大了联邦，也伴随有关土地与权威的谈判和冲突。外交自主及对英国的宪制独立，则在此后数代中逐步发展。"
+      },
+      "rationale": "Shorten repetition and editorial framing while preserving coalition politics, institutional chronology and unequal consequences in the existing sourced record."
+    },
+    {
+      "recordId": "person-john-a-macdonald",
+      "before": {
+        "en": "John Alexander Macdonald’s life connected a Kingston legal practice to the construction of a federal state. Born in Glasgow in 1815, he came to Upper Canada with his parents as a child. Legal training, business relationships and local politics gave him connections before his 1844 election to the Province of Canada’s assembly. His career depended on coalition, including cooperation with George-Étienne Cartier and French Canadian Conservatives, rather than the work of one founder acting alone.\n\nHe became the new Dominion’s first prime minister in 1867. His government expanded federal territory and institutions while disputes over land and authority continued. The Pacific Scandal exposed campaign financing linked to a railway contract and forced his resignation in 1873. After years in opposition, he returned to office in 1878 with a protectionist programme. Higher tariffs followed in 1879; railway financing and western settlement formed connected aspects of his administration’s plans.\n\nThe same state-building imposed exclusion and coercion. As superintendent general of Indian Affairs from 1878 to 1887, Macdonald bore direct responsibility for policy toward First Nations. His government expanded federally supported residential schooling in 1883, an assimilationist programme that separated children from communities. In the western interior, officials used control over food supplies to force people onto reserves amid the destruction of bison-based livelihoods. Chinese workers’ contribution to the railway was followed by discriminatory voting and immigration measures, including the 1885 head-tax law.\n\nMacdonald died in Ottawa in 1891. His political skill and institution-building belong in the same history as these policies and their unequal consequences. His biography does not turn Confederation into the origin of all peoples’ histories or attribute later governments’ actions indiscriminately to his years in power.",
+        "zh": "约翰·亚历山大·麦克唐纳的一生，把金斯顿律师事务与联邦国家建构连接起来。他1815年出生于格拉斯哥，幼年随父母来到上加拿大。法律训练、商业关系与地方政治为他建立网络，1844年当选加拿大省议会议员。其事业依靠联盟，包括同乔治—艾蒂安·卡蒂埃及法裔加拿大保守派合作，而非一位建国者独自行动。\n\n1867年，他成为新自治领首任总理。政府扩展联邦领土和机构，土地与权威争议却持续存在。太平洋丑闻揭露与铁路合同相连的竞选筹款，迫使他1873年辞职。在野数年后，1878年以保护主义纲领重新执政。1879年提高关税；铁路融资和西部定居也是相关施政计划。\n\n同一国家建构过程施加了排斥与强制。麦克唐纳1878至1887年兼任印第安事务总监，对第一民族政策负有直接责任。其政府1883年扩展联邦支持的寄宿学校，以同化为目标使儿童与社群分离。在野牛生计遭破坏的背景下，西部内陆官员通过控制食物供应，迫使人们进入保留地。华工建设铁路的贡献，也伴随着歧视性的投票和移民措施，包括1885年的人头税法。\n\n1891年，他在渥太华去世。政治技巧及机构建设必须与这些政策及其不平等后果一同理解。本传不把联邦成立当作所有民族历史的起点，也不把后来政府的行为不加区别地归于其执政年代。"
+      },
+      "after": {
+        "en": "John Alexander Macdonald was born in Glasgow in 1815 and came to Upper Canada with his family as a child. A Kingston lawyer, he entered the Province of Canada’s assembly in 1844. His political strength rested on coalition-building, including cooperation with George-Étienne Cartier and French Canadian Conservatives.\n\nHe became the new Dominion’s first prime minister in 1867. His government expanded federal territory and institutions amid disputes over land and authority. The Pacific Scandal exposed campaign financing linked to a railway contract and forced his resignation in 1873. He returned to office in 1878 with a protectionist programme; higher tariffs followed in 1879, alongside railway financing and western settlement plans.\n\nState-building also imposed exclusion and coercion. Macdonald served as superintendent general of Indian Affairs from 1878 to 1887. His government expanded federally supported residential schooling in 1883, separating children from their communities through an assimilationist programme. As bison-based livelihoods collapsed, officials used control over food to force people onto reserves. Chinese workers’ contribution to the railway was followed by discriminatory voting and immigration measures, including the 1885 head-tax law. Macdonald died in Ottawa in 1891.",
+        "zh": "约翰·亚历山大·麦克唐纳1815年出生于格拉斯哥，幼年随家人来到上加拿大。他在金斯顿从事律师工作，1844年进入加拿大省议会。其政治力量建立在联盟之上，包括与乔治—艾蒂安·卡蒂埃及法裔加拿大保守派的合作。\n\n1867年，他成为新自治领首任总理。政府在土地与权威争议中扩展联邦领土和机构。涉及铁路合同与竞选筹款的太平洋丑闻迫使他于1873年辞职。他1878年以保护主义纲领重新执政，1879年提高关税，并推行铁路融资与西部定居计划。\n\n国家建构也施加了排斥和强制。麦克唐纳1878至1887年兼任印第安事务总监。其政府1883年扩展联邦支持的寄宿学校，以同化为目标使儿童与社群分离。野牛生计崩溃之际，官员通过控制食物供应迫使人们进入保留地。华工建设铁路后面临歧视性的投票和移民措施，包括1885年人头税法。麦克唐纳于1891年在渥太华去世。"
+      },
+      "rationale": "Shorten repetition and editorial framing while preserving coalition politics, institutional chronology and unequal consequences in the existing sourced record."
+    }
+  ],
+  "review": [
+    "Both final images were individually viewed again before admission; encoded bytes and SHA-256 match the source receipts.",
+    "Macdonald is a printed historical portrait, not an authenticated autograph or a photograph with an established exposure date.",
+    "Charlottetown delegates are dated 1864; catalogue edition date 1865 and federation date 1867 remain distinct."
+  ]
+}

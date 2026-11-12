@@ -3,9 +3,9 @@
   "reviewedAt": "2026-11-12",
   "baselineManifest": "content-expansion-v17.json",
   "total": 2087,
-  "covered": 869,
-  "assets": 480,
-  "percent": 41.63871586008625,
+  "covered": 871,
+  "assets": 482,
+  "percent": 41.7345471969334,
   "coveredIds": [
     "abbasid-caliphate",
     "abu-simbel-relocation",
@@ -45,6 +45,7 @@
     "buddhist-art-mathura-gandhara",
     "bukhara-suzani-shared-needlework",
     "camp-saxton-freedom-community",
+    "canadian-confederation",
     "cao-zhenxiu-famous-women-album",
     "capetian-dynasty",
     "caracalla-citizenship-edict",
@@ -772,6 +773,7 @@
     "person-jan-amos-comenius",
     "person-jane-addams",
     "person-joan-of-arc",
+    "person-john-a-macdonald",
     "person-jose-rizal",
     "person-julius-caesar",
     "person-kartini",
@@ -919,7 +921,6 @@
     "haitian-revolution",
     "mexican-independence",
     "south-american-independence",
-    "canadian-confederation",
     "brazil-abolition",
     "adwa-victory",
     "philippine-american-war",
@@ -1511,7 +1512,6 @@
     "person-siti-walidah",
     "person-lesia-ukrainka",
     "person-samuel-de-champlain",
-    "person-john-a-macdonald",
     "person-tommy-douglas",
     "person-terry-fox",
     "person-sacagawea",
@@ -2099,7 +2099,7 @@
   ],
   "target": 1044,
   "targetMet": false,
-  "remaining": 175,
+  "remaining": 173,
   "regions": {
     "africa": {
       "total": 136,
@@ -2119,7 +2119,7 @@
     },
     "north-america": {
       "total": 123,
-      "covered": 39
+      "covered": 41
     },
     "oceania": {
       "total": 89,
@@ -2141,10 +2141,10 @@
   "types": {
     "ancient-portrait": 2,
     "ancient-royal-image": 2,
-    "document-facsimile": 34,
+    "document-facsimile": 35,
     "historical-artwork": 71,
     "historical-photograph": 82,
-    "historical-portrait": 29,
+    "historical-portrait": 30,
     "later-depiction": 67,
     "lifetime-portrait": 18,
     "manuscript-detail": 36,
@@ -2220,6 +2220,13 @@
       "bytes": 27338,
       "sha256": "9a264461dc71855ef9fb57375cb1e4f6ba892e4783cb2083c51f609545f2fc22",
       "assets": 8,
+      "associations": 0
+    },
+    {
+      "file": "visual-assets-canadian-pages-02-v18.json",
+      "bytes": 8623,
+      "sha256": "2e437fc6b19a2f95820c8c075c96c7eddbe279b56e3a4abb9828edd230f76800",
+      "assets": 2,
       "associations": 0
     },
     {
@@ -2580,6 +2587,6 @@
       "associations": 1
     }
   ],
-  "assetBytes": 95490559,
+  "assetBytes": 95817516,
   "verification": "All admitted files match their SHA-256, byte count and encoded dimensions. Source identity, reuse rights, pixel review and entry relevance require the individual editorial records; structural validation does not establish those facts."
 }

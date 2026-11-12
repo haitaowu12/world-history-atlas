@@ -2443,9 +2443,9 @@
   ],
   "summaryEditsFile": "summary-edits-v18.json",
   "summaryEdits": {
-    "bytes": 429287,
-    "sha256": "592473f3f325f4caa89ee468a5793c0bb892a853c08266ad616b756e1981f91b",
-    "records": 152
+    "bytes": 437632,
+    "sha256": "79852587c23a17decc8f123c4d75d231660b54ea47e6c47834451753a2018488",
+    "records": 154
   },
   "chinaReviewsFile": "china-visual-reviews-v18.json",
   "chinaVisualReviews": {
@@ -2455,9 +2455,9 @@
   },
   "mediaLocalization": {
     "file": "history-media-localization-zh-v18.json",
-    "bytes": 209511,
-    "sha256": "3fc99688c7053b3ccf6e89f1da5cbc5804c212ee494ef93c32b8aab8d25daaa6",
-    "assets": 480
+    "bytes": 210602,
+    "sha256": "51fe2911208d1fb4281f5b129be92351acc3f37775209b110c36255993b2b03b",
+    "assets": 482
   },
   "visualExpansion": {
     "baselineManifest": "content-expansion-v17.json",
@@ -2530,6 +2530,13 @@
         "bytes": 27338,
         "sha256": "9a264461dc71855ef9fb57375cb1e4f6ba892e4783cb2083c51f609545f2fc22",
         "assets": 8,
+        "associations": 0
+      },
+      {
+        "file": "visual-assets-canadian-pages-02-v18.json",
+        "bytes": 8623,
+        "sha256": "2e437fc6b19a2f95820c8c075c96c7eddbe279b56e3a4abb9828edd230f76800",
+        "assets": 2,
         "associations": 0
       },
       {
@@ -2891,8 +2898,8 @@
       }
     ],
     "coverageFile": "visual-coverage-v18.json",
-    "assets": 480,
-    "covered": 869,
+    "assets": 482,
+    "covered": 871,
     "total": 2087,
     "target": 1044
   }

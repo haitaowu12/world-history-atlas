@@ -1,0 +1,137 @@
+{
+  "version": 2,
+  "reviewedAt": "2026-11-12",
+  "items": [
+    {
+      "id": "canadian-pages-02-macdonald",
+      "file": "assets/history-media/canadian-pages-02-macdonald.jpg",
+      "recordIds": [
+        "person-john-a-macdonald"
+      ],
+      "kind": "portrait",
+      "representation": "historical-portrait",
+      "title": {
+        "en": "Macdonald in an 1891 memorial biography",
+        "zh": "1891年纪念传记中的麦克唐纳"
+      },
+      "alt": {
+        "en": "A printed portrait of John A. Macdonald facing left, with a facsimile signature below and library perforations above.",
+        "zh": "约翰·A·麦克唐纳面向左侧的印刷肖像，下方有签名摹本，上方保留图书馆穿孔标记。"
+      },
+      "caption": {
+        "en": "Frontispiece portrait in Canada’s Patriot Statesman, revised by G. Mercer Adam from Edmund Collins’s work and published in 1891. The date of the underlying portrait is not established.",
+        "zh": "《加拿大的爱国政治家》卷首肖像，G.默瑟·亚当依据埃德蒙·柯林斯作品修订，1891年出版。肖像原作的具体年代尚未确定。"
+      },
+      "interpretation": {
+        "en": "The portrait and reproduced signature give Macdonald a personal presence in a book published after his death. Its commemorative framing is one strand of his public memory; the biography entry also examines coalition politics and coercive policies.",
+        "zh": "肖像与签名摹本使麦克唐纳在身后出版的书中以个人形象出现。这种纪念性框架是公共记忆的一部分；人物条目同时讨论联盟政治与强制性政策。"
+      },
+      "creator": "Portrait maker not identified; book by Edmund Collins, revised by G. Mercer Adam",
+      "date": "1891 printed edition; underlying portrait undated",
+      "institution": "University of California Libraries; Internet Archive",
+      "metadataI18n": {
+        "creator": {
+          "en": "Portrait maker not identified; book by Edmund Collins, revised by G. Mercer Adam",
+          "zh": "肖像作者未确定；埃德蒙·柯林斯著，G.默瑟·亚当修订"
+        },
+        "date": {
+          "en": "1891 printed edition; underlying portrait undated",
+          "zh": "1891年印刷版本；原肖像年代未确定"
+        },
+        "institution": {
+          "en": "University of California Libraries; Internet Archive",
+          "zh": "加利福尼亚大学图书馆；互联网档案馆"
+        }
+      },
+      "credit": "University of California Libraries; Internet Archive; Canada's patriot statesman. The life and career of the Right Honourable Sir John A. Macdonald ..; Unnumbered frontispiece facing title page",
+      "sourceUrl": "https://archive.org/details/canadaspatriotst00collrich",
+      "imageUrl": "https://iiif.archive.org/image/iiif/3/canadaspatriotst00collrich%2Fcanadaspatriotst00collrich_jp2.zip%2Fcanadaspatriotst00collrich_jp2%2Fcanadaspatriotst00collrich_0010.jp2/full/!1198,1198/0/default.jpg",
+      "downloadedFrom": "https://iiif.archive.org/image/iiif/3/canadaspatriotst00collrich%2Fcanadaspatriotst00collrich_jp2.zip%2Fcanadaspatriotst00collrich_jp2%2Fcanadaspatriotst00collrich_0010.jp2/full/!1198,1198/0/default.jpg",
+      "rightsSourceUrl": "https://archive.org/metadata/canadaspatriotst00collrich",
+      "rights": {
+        "label": "Public domain",
+        "url": "https://archive.org/metadata/canadaspatriotst00collrich",
+        "note": {
+          "en": "Internet Archive item metadata marks this edition NOT_IN_COPYRIGHT in the United States; not a worldwide determination.",
+          "zh": "互联网档案馆条目将此版本标为NOT_IN_COPYRIGHT，适用于美国，并非全球版权判定。"
+        }
+      },
+      "transformation": {
+        "en": "Unmodified official IIIF JPEG of the complete page. No local image edits.",
+        "zh": "完整书页的官方IIIF JPEG原样保存，未在本地编辑图像。"
+      },
+      "width": 759,
+      "height": 1198,
+      "bytes": 133359,
+      "sha256": "87ec61bead976a6ae9b7b77efe224b13aaf5067461e444b5b2a62395c49da7b0",
+      "checkedAt": "2026-11-12",
+      "retrieval": "Item metadata, complete-page pixels and download receipts reviewed; see docs/v18-canadian-pages-02-evidence.json."
+    },
+    {
+      "id": "canadian-pages-02-confederation",
+      "file": "assets/history-media/canadian-pages-02-confederation.jpg",
+      "recordIds": [
+        "canadian-confederation"
+      ],
+      "kind": "document",
+      "representation": "document-facsimile",
+      "title": {
+        "en": "Delegates before federation",
+        "zh": "联邦成立前的代表名单"
+      },
+      "alt": {
+        "en": "Printed page 5 headed The Delegates lists the colonies and named representatives at the Charlottetown conference.",
+        "zh": "印刷本第5页标题为“代表”，按殖民地列出夏洛特敦会议代表姓名。"
+      },
+      "caption": {
+        "en": "The delegates to the 1864 Charlottetown conference, listed on page 5 of Edward Whelan’s The Union of the British Provinces, catalogued as published in 1865. Confederation followed in 1867.",
+        "zh": "爱德华·惠兰《英属各省的联合》第5页列出1864年夏洛特敦会议代表；馆藏将该书出版时间著录为1865年。加拿大联邦于1867年成立。"
+      },
+      "interpretation": {
+        "en": "The list makes negotiation visible as the work of multiple colonial delegations. Prince Edward Island appears among the delegates but was not one of the four provinces in the 1867 federation; conference participation and membership were different steps.",
+        "zh": "这份名单使谈判呈现为多个殖民地代表团共同参与的过程。爱德华王子岛出现在名单中，却不属于1867年联邦最初四省；参加会议与加入联邦是不同步骤。"
+      },
+      "creator": "Edward Whelan, compiler",
+      "date": "1865 edition describing the 1864 conference",
+      "institution": "Robarts Library, University of Toronto; Internet Archive",
+      "metadataI18n": {
+        "creator": {
+          "en": "Edward Whelan, compiler",
+          "zh": "爱德华·惠兰，编者"
+        },
+        "date": {
+          "en": "1865 edition describing the 1864 conference",
+          "zh": "1865年版本，记述1864年会议"
+        },
+        "institution": {
+          "en": "Robarts Library, University of Toronto; Internet Archive",
+          "zh": "多伦多大学罗巴茨图书馆；互联网档案馆"
+        }
+      },
+      "credit": "Robarts Library, University of Toronto; Internet Archive; The union of the British provinces. A brief account of the several conferences held in the Maritime provinces and in Canada, in September and October, 1864, on the proposed confederation of the provinces, together with a report of the speeches delivered by the delegates from the provinces, on important public occasions; p. 5, The Delegates, Charlottetown conference section",
+      "sourceUrl": "https://archive.org/details/unionofbritishpr00wheluoft",
+      "imageUrl": "https://iiif.archive.org/image/iiif/3/unionofbritishpr00wheluoft%2Funionofbritishpr00wheluoft_jp2.zip%2Funionofbritishpr00wheluoft_jp2%2Funionofbritishpr00wheluoft_0019.jp2/full/!1198,1198/0/default.jpg",
+      "downloadedFrom": "https://iiif.archive.org/image/iiif/3/unionofbritishpr00wheluoft%2Funionofbritishpr00wheluoft_jp2.zip%2Funionofbritishpr00wheluoft_jp2%2Funionofbritishpr00wheluoft_0019.jp2/full/!1198,1198/0/default.jpg",
+      "rightsSourceUrl": "https://archive.org/metadata/unionofbritishpr00wheluoft",
+      "rights": {
+        "label": "Public domain",
+        "url": "https://archive.org/metadata/unionofbritishpr00wheluoft",
+        "note": {
+          "en": "Internet Archive item metadata marks this edition NOT_IN_COPYRIGHT in the United States; not a worldwide determination.",
+          "zh": "互联网档案馆条目将此版本标为NOT_IN_COPYRIGHT，适用于美国，并非全球版权判定。"
+        }
+      },
+      "transformation": {
+        "en": "Unmodified official IIIF JPEG of the complete page. No local image edits.",
+        "zh": "完整书页的官方IIIF JPEG原样保存，未在本地编辑图像。"
+      },
+      "width": 678,
+      "height": 1198,
+      "bytes": 193598,
+      "sha256": "7989259897edf94bfcdf706b086ffe31733469483cc1e0a448e896f2053a38a0",
+      "checkedAt": "2026-11-12",
+      "retrieval": "Item metadata, complete-page pixels and download receipts reviewed; see docs/v18-canadian-pages-02-evidence.json."
+    }
+  ],
+  "associations": []
+}

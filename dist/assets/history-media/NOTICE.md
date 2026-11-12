@@ -1,6 +1,6 @@
 # Historical images: credits and reuse
 
-Reviewed 2026-11-12. 480 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
+Reviewed 2026-11-12. 482 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
 
 Historical artifacts, surviving places and later depictions retain their source identities. No generated reconstructions are included in this catalogue.
 
@@ -1025,6 +1025,34 @@ Official JPEG preserved unchanged, including the institutional credit strip.
 The individual catalogue marks this photograph “Copyright expired - public domain”. The AWM policy permits reproducing public-domain website images without permission.
 
 Official JPEG preserved unchanged, including the institutional credit strip.
+
+## Macdonald in an 1891 memorial biography / 1891年纪念传记中的麦克唐纳
+
+- File: canadian-pages-02-macdonald.jpg
+- Creator: Portrait maker not identified; book by Edmund Collins, revised by G. Mercer Adam
+- Date: 1891 printed edition; underlying portrait undated
+- Collection: University of California Libraries; Internet Archive
+- Source: https://archive.org/details/canadaspatriotst00collrich
+- Rights: Public domain (https://archive.org/metadata/canadaspatriotst00collrich)
+- Rights evidence: https://archive.org/metadata/canadaspatriotst00collrich
+
+Internet Archive item metadata marks this edition NOT_IN_COPYRIGHT in the United States; not a worldwide determination.
+
+Unmodified official IIIF JPEG of the complete page. No local image edits.
+
+## Delegates before federation / 联邦成立前的代表名单
+
+- File: canadian-pages-02-confederation.jpg
+- Creator: Edward Whelan, compiler
+- Date: 1865 edition describing the 1864 conference
+- Collection: Robarts Library, University of Toronto; Internet Archive
+- Source: https://archive.org/details/unionofbritishpr00wheluoft
+- Rights: Public domain (https://archive.org/metadata/unionofbritishpr00wheluoft)
+- Rights evidence: https://archive.org/metadata/unionofbritishpr00wheluoft
+
+Internet Archive item metadata marks this edition NOT_IN_COPYRIGHT in the United States; not a worldwide determination.
+
+Unmodified official IIIF JPEG of the complete page. No local image edits.
 
 ## A Tang copy of the Orchid Pavilion preface / 唐摹《兰亭序》
 
