@@ -412,3 +412,15 @@ Owner review tightened captions, preserved Palestinian displacement in the conte
 Coverage: 450 historical images, 839 of 2,087 unique entries (40.20%); 205 remain to the 1,044-entry target. All 442 prior images and prior associations are preserved. The two modern teaching graphics remain separate.
 
 All 478 checks pass. Chrome reviewed all eight in both languages and verified decoded dimensions, image-inspection keyboard zoom, disclosure and the new People portrait. Main and live unchanged; no GitHub Actions.
+
+## Checkpoint 37: monuments, portraits and public life
+
+Sixteen authentic photographs connect sixteen additional entries. Getty CC0 images show Córdoba, Damascus, Monreale, Dejima and four named nineteenth-century political figures. Eight AWM public-domain photographs connect Banaba extraction and shipping, Malayan Emergency, Konfrontasi, the Korean dividing latitude, women’s Cairo demonstrations, Australia’s parliament and Melaka’s townscape. Two Banaba views count as one newly illustrated entry.
+
+All sixteen images were individually opened, compared with their source descriptions and matched to full records. Album dates and later site views remain distinct from the dates of historical events. Chinese attribution metadata is complete; repeated image bibliography was removed while preserving entry sources. The Malaysia record receives a word-space correction only. Durable evidence files retain original records, item-specific rights, metadata and hashes.
+
+Coverage: **466 historical images / 855 of 2,087 unique entries (40.97%)**, with **189** more needed for the half-entry target. All 450 prior image objects and 682 associations remain exactly unchanged. The two modern teaching graphics remain outside historical-image coverage.
+
+Validation: **484 checks pass**, with no failures, cancellations or skips. The new checks caught omitted AWM metadata translations and a missing localization-overlay receipt; both were completed before the final full pass. Chrome verified every admitted image and all sixteen entry connections in English and Chinese, including the initially collapsed second Banaba photograph. The Banaba pair displays both sources, dates and interpretations, and keyboard zoom reaches 125%. The gallery reports 466 images / 855 entries; the Chinese Cairo story is legible at a 485-pixel content width with no horizontal page overflow.
+
+This checkpoint is not a release. Main and live remain unchanged, with no GitHub Actions.

@@ -1,6 +1,6 @@
 # Historical images: credits and reuse
 
-Reviewed 2026-11-12. 450 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
+Reviewed 2026-11-12. 466 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
 
 Historical artifacts, surviving places and later depictions retain their source identities. No generated reconstructions are included in this catalogue.
 
@@ -913,6 +913,118 @@ Published museum image preserved byte-for-byte, without local editing.
 The Met API marks this object public domain; its Open Access policy releases these images under CC0. Purchase, Lita Annenberg Hazen Charitable Trust Gift, 1991
 
 Published museum image preserved byte-for-byte, without local editing.
+
+## Banaba’s phosphate works from the harbour / 从港湾看巴纳巴磷矿设施
+
+- File: awm2-c75584.jpg
+- Creator: Photographer not identified in item record
+- Date: 2 October 1945 (catalogue description)
+- Collection: Australian War Memorial
+- Source: https://www.awm.gov.au/collection/C75584
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://www.awm.gov.au/collection/C75584
+
+The individual catalogue marks this photograph “Copyright expired - public domain”. The AWM policy permits reproducing public-domain website images without permission.
+
+Official JPEG preserved unchanged, including the institutional credit strip.
+
+## Phosphate shipping at Banaba’s Home Bay / 巴纳巴霍姆湾的磷矿运输
+
+- File: awm2-c256662.jpg
+- Creator: Photographer not identified in item record
+- Date: c. 1940 (catalogue description)
+- Collection: Australian War Memorial
+- Source: https://www.awm.gov.au/collection/C256662
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://www.awm.gov.au/collection/C256662
+
+The individual catalogue marks this photograph “Copyright expired - public domain”. The AWM policy permits reproducing public-domain website images without permission.
+
+Official JPEG preserved unchanged, including the institutional credit strip.
+
+## A patrol enters Kampong Landak / 巡逻队进入兰达村
+
+- File: awm2-c1097575.jpg
+- Creator: Phillip Oliver Hobson
+- Date: 25 May 1956
+- Collection: Australian War Memorial
+- Source: https://www.awm.gov.au/collection/C1097575
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://www.awm.gov.au/collection/C1097575
+
+The individual catalogue marks this photograph “Copyright expired - public domain”. The AWM policy permits reproducing public-domain website images without permission.
+
+Official JPEG preserved unchanged, including the institutional credit strip.
+
+## A Sarawak border patrol during Konfrontasi / “对抗”期间的砂拉越边境巡逻
+
+- File: awm2-c398839.jpg
+- Creator: William James Cunneen
+- Date: c. 1965
+- Collection: Australian War Memorial
+- Source: https://www.awm.gov.au/collection/C398839
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://www.awm.gov.au/collection/C398839
+
+The individual catalogue marks this photograph “Copyright expired - public domain”. The AWM policy permits reproducing public-domain website images without permission.
+
+Official JPEG preserved unchanged, including the institutional credit strip.
+
+## A sign marking Korea’s 38th parallel / 标示朝鲜半岛三十八度线的标牌
+
+- File: awm2-c1214833.jpg
+- Creator: Cyril Charles Mitchell
+- Date: 2 February 1953
+- Collection: Australian War Memorial
+- Source: https://www.awm.gov.au/collection/C1214833
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://www.awm.gov.au/collection/C1214833
+
+The individual catalogue marks this photograph “Copyright expired - public domain”. The AWM policy permits reproducing public-domain website images without permission.
+
+Official JPEG preserved unchanged, including the institutional credit strip.
+
+## Women address a Cairo street crowd in 1919 / 1919年妇女向开罗街头人群讲话
+
+- File: awm2-c1006113.jpg
+- Creator: W. H. James; W. H. Swanston (catalogue attributions)
+- Date: March 1919
+- Collection: Australian War Memorial
+- Source: https://www.awm.gov.au/collection/C1006113
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://www.awm.gov.au/collection/C1006113
+
+The individual catalogue marks this photograph “Copyright expired - public domain”. The AWM policy permits reproducing public-domain website images without permission.
+
+Official JPEG preserved unchanged, including the institutional credit strip.
+
+## Australia’s Parliament House in 1941 / 1941年的澳大利亚国会大厦
+
+- File: awm2-c40435.jpg
+- Creator: Photographer not identified in item record
+- Date: Winter 1941 (catalogue description)
+- Collection: Australian War Memorial
+- Source: https://www.awm.gov.au/collection/C40435
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://www.awm.gov.au/collection/C40435
+
+The individual catalogue marks this photograph “Copyright expired - public domain”. The AWM policy permits reproducing public-domain website images without permission.
+
+Official JPEG preserved unchanged, including the institutional credit strip.
+
+## St Francis Xavier Church in historic Melaka / 历史名城马六甲的圣方济各沙勿略教堂
+
+- File: awm2-c340230.jpg
+- Creator: Photographer not individually credited; George Aspinall collection
+- Date: c. 1941–1942
+- Collection: Australian War Memorial
+- Source: https://www.awm.gov.au/collection/C340230
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://www.awm.gov.au/collection/C340230
+
+The individual catalogue marks this photograph “Copyright expired - public domain”. The AWM policy permits reproducing public-domain website images without permission.
+
+Official JPEG preserved unchanged, including the institutional credit strip.
 
 ## A Tang copy of the Orchid Pavilion preface / 唐摹《兰亭序》
 
@@ -3433,6 +3545,118 @@ Source-served IIIF JPEG preserved unchanged. No local crop, retouching, recolour
 Getty’s official object page identifies this image and explicitly provides supplied images under CC0 through the Open Content Program.
 
 Source-served IIIF JPEG preserved unchanged. No local crop, retouching, recolouring or resizing.
+
+## The Great Mosque of Córdoba in 1862 / 1862年的科尔多瓦大清真寺
+
+- File: getty-images-06-cordoba.jpg
+- Creator: Charles Clifford
+- Date: September 15-17, 1862
+- Collection: J. Paul Getty Museum
+- Source: https://www.getty.edu/art/collection/object/106QTG
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.getty.edu/art/collection/object/106QTG
+
+The Getty object page explicitly provides this image under CC0 through its Open Content Program.
+
+Source-served IIIF JPEG preserved unchanged, including the original mount or decoration where present.
+
+## Damascus’s Great Mosque in 1877 / 1877年的大马士革大清真寺
+
+- File: getty-images-06-damascus.jpg
+- Creator: Félix Bonfils
+- Date: 1877
+- Collection: J. Paul Getty Museum
+- Source: https://www.getty.edu/art/collection/object/104JEH
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.getty.edu/art/collection/object/104JEH
+
+The Getty object page explicitly provides this image under CC0 through its Open Content Program.
+
+Source-served IIIF JPEG preserved unchanged, including the original mount or decoration where present.
+
+## Carved columns at Monreale / 蒙雷阿莱的雕饰立柱
+
+- File: getty-images-06-monreale.jpg
+- Creator: Giorgio Sommer
+- Date: 1870–1890
+- Collection: J. Paul Getty Museum
+- Source: https://www.getty.edu/art/collection/object/107JCN
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.getty.edu/art/collection/object/107JCN
+
+The Getty object page explicitly provides this image under CC0 through its Open Content Program.
+
+Source-served IIIF JPEG preserved unchanged, including the original mount or decoration where present.
+
+## Garibaldi in an 1866 portrait album / 1866年肖像图册中的加里波第
+
+- File: getty-images-06-garibaldi.jpg
+- Creator: Franck (François-Marie-Louis-Alexandre Gobinet de Villecholles); album text by Justin Lallier
+- Date: Album dated 1866
+- Collection: J. Paul Getty Museum
+- Source: https://www.getty.edu/art/collection/object/1099Q0
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.getty.edu/art/collection/object/1099Q0
+
+The Getty object page explicitly provides this image under CC0 through its Open Content Program.
+
+Source-served IIIF JPEG preserved unchanged, including the original mount or decoration where present.
+
+## Alexander II in an 1866 portrait album / 1866年肖像图册中的亚历山大二世
+
+- File: getty-images-06-alexander.jpg
+- Creator: Franck (François-Marie-Louis-Alexandre Gobinet de Villecholles); album text by Justin Lallier
+- Date: Album dated 1866
+- Collection: J. Paul Getty Museum
+- Source: https://www.getty.edu/art/collection/object/1099GF
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.getty.edu/art/collection/object/1099GF
+
+The Getty object page explicitly provides this image under CC0 through its Open Content Program.
+
+Source-served IIIF JPEG preserved unchanged, including the original mount or decoration where present.
+
+## Dejima after the Dutch factory closed / 荷兰商馆关闭后的出岛
+
+- File: getty-images-06-dejima.jpg
+- Creator: Felice Beato
+- Date: 1863–1868
+- Collection: J. Paul Getty Museum
+- Source: https://www.getty.edu/art/collection/object/109BCB
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.getty.edu/art/collection/object/109BCB
+
+The Getty object page explicitly provides this image under CC0 through its Open Content Program.
+
+Source-served IIIF JPEG preserved unchanged, including the original mount or decoration where present.
+
+## Franz Joseph before the dual monarchy / 二元君主国成立前的弗朗茨·约瑟夫
+
+- File: getty-images-06-franz.jpg
+- Creator: Franck (François-Marie-Louis-Alexandre Gobinet de Villecholles); album text by Justin Lallier
+- Date: Album dated 1866
+- Collection: J. Paul Getty Museum
+- Source: https://www.getty.edu/art/collection/object/1099FZ
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.getty.edu/art/collection/object/1099FZ
+
+The Getty object page explicitly provides this image under CC0 through its Open Content Program.
+
+Source-served IIIF JPEG preserved unchanged, including the original mount or decoration where present.
+
+## Pedro II in imperial Brazil / 巴西帝国时期的佩德罗二世
+
+- File: getty-images-06-pedro.jpg
+- Creator: Franck (François-Marie-Louis-Alexandre Gobinet de Villecholles); album text by Justin Lallier
+- Date: Album dated 1866
+- Collection: J. Paul Getty Museum
+- Source: https://www.getty.edu/art/collection/object/1099G4
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.getty.edu/art/collection/object/1099G4
+
+The Getty object page explicitly provides this image under CC0 through its Open Content Program.
+
+Source-served IIIF JPEG preserved unchanged, including the original mount or decoration where present.
 
 ## A French Arch for Federation / 联邦庆典中的法国拱门
 

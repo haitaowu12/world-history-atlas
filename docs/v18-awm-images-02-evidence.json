@@ -1,0 +1,1482 @@
+{
+  "reviewedAt": "2026-11-12",
+  "review": "Every admitted image opened individually and full assembled targets reviewed. Source-served bytes preserved. Dates distinguish albums, later site photographs and pictured events.",
+  "records": [
+    {
+      "id": "melaka",
+      "title": {
+        "en": "Melaka: a meeting place in the straits",
+        "zh": "马六甲：海峡中的交汇之城"
+      },
+      "start": 1401,
+      "end": 1900,
+      "location": {
+        "lat": 2.2,
+        "lon": 102.25,
+        "label": "Historic Melaka; George Town is a separate related component"
+      },
+      "region": "southeast-asia",
+      "theme": "exchange",
+      "summary": {
+        "en": "Melaka’s buildings and townscape reflect a long history of trade and cultural exchange through the straits. Its early urban story includes the Malay sultanate and later Portuguese and Dutch rule. The related heritage property also includes George Town, whose buildings represent a different, later phase. This marker focuses on Melaka and treats colonial control, commerce and cultural encounter as connected subjects without reducing them to a simple story of harmonious exchange.",
+        "zh": "马六甲的建筑与城市景观呈现了海峡贸易和文化往来的长期历史，其中包括马来苏丹国以及后来的葡萄牙、荷兰统治。相关遗产还包括乔治市，但它反映另一较晚阶段。本标记聚焦马六甲，把殖民控制、商业和文化接触联系起来，而不将复杂历史简化为始终和谐的交流。"
+      },
+      "dateNote": {
+        "en": "Selected 15th–19th-century learning window; 1900 is an editorial endpoint, not the end of the city, trade or its communities.",
+        "zh": "选取15—19世纪作为学习窗口；1900年是编辑设定的结束点，不代表城市、贸易或社区的终结。"
+      },
+      "locationPrecision": "representative",
+      "sources": [
+        {
+          "title": "Melaka and George Town, Historic Cities of the Straits of Malacca",
+          "url": "https://whc.unesco.org/en/list/1223/",
+          "publisher": "UNESCO World Heritage Centre",
+          "evidenceNote": "Source describes 500 years of exchange, the 15th-century sultanate, Portuguese/Dutch phases and later George Town.",
+          "checkedAt": "2026-10-21"
+        }
+      ],
+      "ongoing": false,
+      "kind": "place",
+      "importance": 3
+    },
+    {
+      "id": "korean-division",
+      "title": {
+        "en": "1945–1948: occupation zones become rival Korean states",
+        "zh": "1945—1948年：占领区演变为两个朝鲜半岛国家"
+      },
+      "start": 1945,
+      "end": 1948,
+      "region": "east-asia",
+      "theme": "states",
+      "kind": "event",
+      "importance": 4,
+      "location": {
+        "lat": 37.57,
+        "lon": 126.98,
+        "label": "Seoul; representative southern political centre, not the whole dividing line"
+      },
+      "locationYear": 1948,
+      "locationPrecision": "representative",
+      "summary": {
+        "en": "Japan's defeat ended its colonial rule in Korea, but the peninsula was divided into Soviet and American occupation zones at the 38th parallel. The line initially organized military responsibility for receiving Japan's surrender. Efforts to agree on a unified political settlement failed, and separate governments were established in 1948: the Republic of Korea in the south and the Democratic People's Republic of Korea in the north. The sequence shows how a temporary military arrangement could harden into political division. The 1945 parallel must also be distinguished from the military demarcation line negotiated after the Korean War.",
+        "zh": "日本战败结束了其对朝鲜半岛的殖民统治，但半岛沿北纬三十八度线划分为苏联与美国占领区。这条线最初用于安排接受日军投降的军事责任。统一政治安排未能实现，1948年南方成立大韩民国，北方成立朝鲜民主主义人民共和国。这一过程说明，临时军事安排可能逐渐固化为政治分裂。1945年的三十八度线也必须与朝鲜战争后谈判确定的军事分界线区分。"
+      },
+      "dateNote": {
+        "en": "The record spans occupation in 1945 and the establishment of separate governments in 1948. It does not depict the 1953 armistice line as if it already existed in 1945.",
+        "zh": "条目涵盖1945年占领区划分至1948年两个政府建立，不把1953年停战分界线提前用于1945年。"
+      },
+      "keyFacts": {
+        "en": [
+          "The 38th parallel began as an occupation boundary, not an ancient frontier between two Korean nations.",
+          "The north and south established separate states in 1948, before the war began in 1950."
+        ],
+        "zh": [
+          "三十八度线最初是占领分界，不是两个朝鲜民族国家之间的古老国界。",
+          "南北两个国家建立于1948年，早于1950年战争爆发。"
+        ]
+      },
+      "sources": [
+        {
+          "title": "Occupation of Korea: 1945 diplomatic papers",
+          "url": "https://history.state.gov/historicaldocuments/frus1945v06/ch10subch1",
+          "publisher": "U.S. Department of State, Office of the Historian",
+          "evidenceNote": "Contemporary documents on Soviet and U.S. occupation zones, the 38th parallel and unsuccessful coordination.",
+          "checkedAt": "2026-10-23"
+        },
+        {
+          "title": "U.S. Relations with the Republic of Korea: historical background",
+          "url": "https://2021-2025.state.gov/u-s-relations-with-the-republic-of-korea/",
+          "publisher": "U.S. Department of State",
+          "evidenceNote": "Historical account of 1945 division and the two states established in 1948; contemporary policy claims are not used.",
+          "checkedAt": "2026-10-23"
+        },
+        {
+          "title": "U.S. and Soviet division at the 38th parallel: Rusk statement",
+          "url": "https://contents.history.go.kr/front/hm/print.do?levelId=hm_144_0010&tabId=01&treeId=020108&whereStr=",
+          "publisher": "National Institute of Korean History",
+          "evidenceNote": "Primary testimony on the occupation boundary proposal and its military context.",
+          "checkedAt": "2026-10-23"
+        }
+      ],
+      "relatedIds": [
+        "joseon-kingdom",
+        "second-world-war",
+        "korean-war-armistice",
+        "prc-proclamation"
+      ],
+      "ongoing": false
+    },
+    {
+      "id": "malayan-emergency-social-war",
+      "title": {
+        "en": "Malayan Emergency: war, resettlement and independence",
+        "zh": "马来亚紧急状态：战争、迁村与独立"
+      },
+      "start": 1948,
+      "end": 1960,
+      "region": "southeast-asia",
+      "theme": "states",
+      "kind": "event",
+      "location": {
+        "lat": 4.6,
+        "lon": 101.09,
+        "label": "Perak; representative campaign region"
+      },
+      "locationPrecision": "representative",
+      "importance": 3,
+      "summary": {
+        "en": "The Malayan Emergency was a conflict between communist-led insurgents and British-led authorities and forces. Emergency powers connected military operations with restrictions on movement and the reorganization of civilian settlements. Resettlement sought to separate guerrillas from supplies and supporters, making village life part of the campaign.\n\nThe war continued across Malaya’s independence in 1957, so colonial and national periods cannot be treated as wholly separate histories. British military museums explain the campaign largely through counterinsurgency. Civilian coercion and local political aims were also part of the conflict. A declaration of victory did not erase the experiences of displacement or settle every social division.",
+        "zh": "马来亚紧急状态是共产主义者领导的游击力量同英国领导的当局及军队之间的冲突。紧急权力把军事行动同迁徙限制、平民聚落重组连接起来。迁村旨在切断游击队的供给与支持，使村庄生活进入战争体系。\n\n战争跨越1957年马来亚独立，因此殖民与民族国家时期不能截然分开。英国军事博物馆主要通过反叛乱解释战事。平民所受强制与本地政治目标也是冲突的一部分。宣布胜利并未抹去迁徙经历，也未解决所有社会分歧。"
+      },
+      "dateNote": {
+        "en": "1948–1960 campaign convention; independence occurred during the conflict, not after its completion.",
+        "zh": "采用1948—1960年的战役通行分期；独立发生于冲突期间，并非战后。"
+      },
+      "sources": [
+        {
+          "title": "Malayan Emergency",
+          "url": "https://www.nam.ac.uk/explore/malayan-emergency",
+          "publisher": "National Army Museum, United Kingdom",
+          "evidenceNote": "1948–1960 war, resettlement and counterinsurgency; British military perspective is contextualized. Retrieval: page text inspected.",
+          "checkedAt": "2026-10-23",
+          "retrievalStatus": "page text inspected"
+        },
+        {
+          "title": "Malayan Emergency key facts",
+          "url": "https://www.iwm.org.uk/history/cold-war/end-of-empire/malayan-emergency",
+          "publisher": "Imperial War Museums",
+          "evidenceNote": "1948 declaration and campaign overview. Retrieval: search-indexed museum text inspected; full-page retrieval returned 403.",
+          "checkedAt": "2026-10-23",
+          "retrievalStatus": "search-indexed museum text inspected; full-page retrieval returned403"
+        }
+      ],
+      "relatedIds": [
+        "malaya-independence",
+        "straits-settlements-formation"
+      ],
+      "keyFacts": {
+        "en": [
+          "Civilian settlement policy was part of warfare.",
+          "The war crossed the 1957 constitutional transition."
+        ],
+        "zh": [
+          "平民聚落政策属于战争的一部分。",
+          "战争跨越1957年的宪制转型。"
+        ]
+      },
+      "expansion": {
+        "workstreams": [
+          "SE3"
+        ],
+        "release": 3,
+        "sourceReview": "Sources individually inspected as described in each evidence note; original bilingual synthesis; no new territorial geometry."
+      },
+      "editorialRevision": {
+        "editedAt": "2026-11-12",
+        "scope": "summary-only",
+        "previousSummary": {
+          "en": "The Malayan Emergency was a conflict between communist-led insurgents and British-led authorities and forces. Emergency powers connected military operations with restrictions on movement and the reorganization of civilian settlements. Resettlement sought to separate guerrillas from supplies and supporters, making village life part of the campaign.\n\nThe war continued across Malaya’s independence in 1957, so colonial and national periods cannot be treated as wholly separate histories. British military museums explain the campaign largely through counterinsurgency; their perspective needs to be read alongside attention to civilian coercion and local political aims. A declaration of victory did not erase the experiences of displacement or settle every social division. This entry therefore links the existing independence milestone with the conflict and administrative practices surrounding it.",
+          "zh": "马来亚紧急状态是共产主义者领导的游击力量同英国领导的当局及军队之间的冲突。紧急权力把军事行动同迁徙限制、平民聚落重组连接起来。迁村旨在切断游击队的供给与支持，使村庄生活进入战争体系。\n\n战争跨越1957年马来亚独立，因此殖民与民族国家时期不能截然分开。英国军事博物馆主要通过反叛乱解释战事，阅读时须同时关注平民所受强制与本地政治目标。宣布胜利并未抹去迁徙经历，也未解决所有社会分歧。本条把已有独立节点同周围的战争和行政实践相连。"
+        },
+        "rationale": "Remove the reading instruction while preserving the institutions’ perspective, civilian coercion and local aims. Remove a repeated entry-description sentence; the conflict spanning independence and the resettlement system remain explicit."
+      }
+    },
+    {
+      "id": "malaysia-federation-1963",
+      "title": {
+        "en": "1963: Malaysia forms amid regional disagreement",
+        "zh": "1963年：区域分歧中的马来西亚成立"
+      },
+      "start": 1963,
+      "end": 1966,
+      "region": "southeast-asia",
+      "theme": "states",
+      "kind": "event",
+      "location": {
+        "lat": 3.14,
+        "lon": 101.69,
+        "label": "Kuala Lumpur; representative federal center"
+      },
+      "locationPrecision": "representative",
+      "importance": 3,
+      "summary": {
+        "en": "Theformation of Malaysia in 1963 brought Malaya, Sabah, Sarawak and Singapore into a federation. The arrangement was contested within the region, and Indonesia’s Konfrontasi involved conflict across Borneo and the Malay Peninsula. Membership and political relationships were not settled permanently at the moment the federation was proclaimed.\n\nSingapore left in 1965, while Konfrontasi continued until 1966. These events should therefore be distinguished from Malaya’s 1957 independence and from one another. A museum account centered on Commonwealth military involvement illuminates part of the conflict but cannot represent every Bornean community’s views. The entry connects existing constitutional milestones with their contested regional setting, showing that modern state formation combined negotiations, opposition and military force rather than a sequence of universally agreed administrative changes.",
+        "zh": "1963年马来西亚成立，将马来亚、沙巴、砂拉越及新加坡纳入联邦。区域内对此安排存在争议，印度尼西亚“对抗”行动在婆罗洲与马来半岛引发冲突。联邦宣布之时，并未永久确定成员和政治关系。\n\n新加坡于1965年退出，“对抗”则延续至1966年。这些事件须同马来亚1957年独立及彼此之间区别。以英联邦军事参与为中心的博物馆介绍，只照亮冲突的一部分，不能代表每个婆罗洲社区的观点。本条把已有宪制节点连接到有争议的区域环境，显示现代建国同时涉及协商、反对和武力，而非人人同意的行政交接。"
+      },
+      "dateNote": {
+        "en": "Focus 1963–1966; federation formation, Singapore’s separation and Konfrontasi’s end have different dates.",
+        "zh": "关注1963—1966年；联邦成立、新加坡退出及对抗终结各有不同日期。"
+      },
+      "sources": [
+        {
+          "title": "Indonesian Confrontation",
+          "url": "https://www.nma.gov.au/defining-moments/resources/indonesian-confrontation",
+          "publisher": "National Museum of Australia",
+          "evidenceNote": "Malaysia formation and 1963–1966 regional conflict; Australian military perspective contextualized. Retrieval: page text inspected.",
+          "checkedAt": "2026-10-23",
+          "retrievalStatus": "page text inspected"
+        },
+        {
+          "title": "US Embassy tracked Indonesia mass murder 1965",
+          "url": "https://nsarchive.gwu.edu/briefing-book/indonesia/2017-10-17/indonesia-mass-murder-1965-us-embassy-files",
+          "publisher": "National Security Archive, George Washington University",
+          "evidenceNote": "Declassified diplomatic records establish US knowledge and document army-led mass killing; diplomatic observations are not exhaustive local accounts. Retrieval: page text inspected.",
+          "checkedAt": "2026-10-23",
+          "retrievalStatus": "page text inspected"
+        }
+      ],
+      "relatedIds": [
+        "malaya-independence",
+        "singapore-independence",
+        "indonesia-1965-mass-killings"
+      ],
+      "keyFacts": {
+        "en": [
+          "Federation and independence are distinct transitions.",
+          "Regional disagreement accompanied state formation."
+        ],
+        "zh": [
+          "组成联邦与独立是不同转型。",
+          "国家形成伴随区域分歧。"
+        ]
+      },
+      "expansion": {
+        "workstreams": [
+          "SE3"
+        ],
+        "release": 3,
+        "sourceReview": "Sources individually inspected as described in each evidence note; original bilingual synthesis; no new territorial geometry."
+      }
+    },
+    {
+      "id": "australia-federal-polity",
+      "title": {
+        "en": "Australia since 1901: a federation with contested inclusion",
+        "zh": "1901年以来的澳大利亚：联邦与成员资格之争"
+      },
+      "start": 1901,
+      "end": 2026,
+      "kind": "polity",
+      "theme": "states",
+      "region": "oceania",
+      "location": {
+        "lat": -35.28,
+        "lon": 149.13,
+        "label": "Canberra; representative present federal-government reference"
+      },
+      "locationPrecision": "representative",
+      "importance": 4,
+      "summary": {
+        "en": "Federation in 1901 created the Commonwealth of Australia from six colonies that became states. A federal constitution distributed powers between the new Commonwealth and the states and established a parliament, executive and judiciary. The founding did not erase the states or complete the gradual development of legislative independence from Britain.\n\nThe constitutional story also concerns who could participate and on what terms. Early federal legislation entrenched racial restrictions, while later campaigns challenged exclusions affecting Aboriginal and Torres Strait Islander peoples and migrants. Reading the political overview beside the 1967 referendum, Wave Hill and Mabo keeps legal institutions connected to social struggles. A continuing federal polity can undergo changes in representation and rights without being replaced by a newly founded country after every reform. The 1901 start identifies the federation’s constitutional origin; it does not date the beginning of Australian Indigenous histories or justify projecting current borders into earlier centuries.",
+        "zh": "1901年的联邦成立，把六个转为州的殖民地组成澳大利亚联邦。联邦宪法划分新联邦与各州的权力，并建立议会、行政和司法机构。成立联邦没有取消各州，也没有完成从英国逐步取得立法独立的全部过程。\n\n宪制史也涉及谁能够参与、以什么条件参与。早期联邦立法确立种族限制，后来的运动则挑战针对澳大利亚原住民、托雷斯海峡岛民和移民的排斥。与1967年公投、韦夫希尔和马博案并读，可以把法律机构与社会斗争相连。一个延续中的联邦政体，能够改变代表权和权利，而不必在每次改革后被视为新国家。1901年起点标示联邦的宪制起源，不是原住民历史开端，也不允许把今日疆界倒推至更早世纪。"
+      },
+      "dateNote": {
+        "en": "1901–2026:continuing Commonwealth;2026 is the atlas review horizon. Canberra is a representative current reference, not the federal capital throughout the interval.",
+        "zh": "1901—2026年标示延续的联邦，2026年是地图审核时点。堪培拉为当前代表参照，并非整个时期的联邦首都。"
+      },
+      "sources": [
+        {
+          "title": "Federation",
+          "url": "https://www.nma.gov.au/defining-moments/resources/federation",
+          "publisher": "National Museum of Australia",
+          "evidenceNote": "Indexed museum chronology:1901 federation, elections, parliament and racial exclusion.",
+          "checkedAt": "2026-10-23",
+          "retrieval": "indexed-excerpt"
+        },
+        {
+          "title": "Constitution",
+          "url": "https://www.legislation.gov.au/constitution",
+          "publisher": "Australian Federal Register of Legislation",
+          "evidenceNote": "Inspected Federal Register explanation:constitution commenced 1 January 1901, division of powers and state continuity.",
+          "checkedAt": "2026-10-23",
+          "retrieval": "page-text"
+        },
+        {
+          "title": "Islander labourers",
+          "url": "https://www.nma.gov.au/defining-moments/resources/islander-labourers",
+          "publisher": "National Museum of Australia",
+          "evidenceNote": "Indexed museum account: recruitment 1863–1904, coercion and kidnapping, plantation labour and discriminatory policy.",
+          "checkedAt": "2026-10-23",
+          "retrieval": "indexed-excerpt"
+        }
+      ],
+      "relatedIds": [
+        "australian-federation",
+        "australia-1967-referendum",
+        "mabo-native-title-decision"
+      ],
+      "expansion": {
+        "workstreams": [
+          "OC3"
+        ],
+        "release": 3,
+        "sourceReview": "Evidence synthesis; per-source retrieval and limits stated"
+      },
+      "ongoing": true,
+      "keyFacts": {
+        "en": [
+          "Federation retained states within a federal system.",
+          "Constitutional continuity coexists with struggles over inclusion."
+        ],
+        "zh": [
+          "联邦制度保留组成州。",
+          "宪制延续与争取参与权的斗争并存。"
+        ]
+      },
+      "countryGroup": "australia",
+      "timeline": {
+        "level": "major",
+        "label": {
+          "en": "Australia",
+          "zh": "澳大利亚"
+        }
+      }
+    },
+    {
+      "id": "egypt-women-nationalism-1919",
+      "title": {
+        "en": "Egyptian women · From demonstrations to citizenship demands",
+        "zh": "埃及妇女 · 从示威到公民权诉求"
+      },
+      "start": 1919,
+      "end": 1924,
+      "region": "africa",
+      "kind": "event",
+      "theme": "culture",
+      "importance": 3,
+      "location": {
+        "lat": 30.04,
+        "lon": 31.24,
+        "label": "Cairo; representative scholarly and institutional centre"
+      },
+      "locationPrecision": "representative",
+      "summary": {
+        "en": "Women’s participation in the Egyptian movement against British occupation made the street a setting for political action in 1919. Demonstrations associated with Huda Shaarawi were part of a wider struggle over national authority. Public participation, however, did not make all women equal within the movement: wealthy organizers possessed resources, literacy and international contacts that were not shared evenly.\n\nThe years after the demonstrations exposed a gap between national independence and women’s citizenship. Egypt’s new constitutional institutions did not grant women equal political participation. The Egyptian Feminist Union, founded in 1923 under Shaarawi’s presidency, developed an organizational platform for education and social reform. Exclusion from the official opening of parliament in 1924 made the limits of the new political order especially visible.\n\nThis sequence is more than the story of one leader unveiling in public. It asks how associations, charitable work and international meetings helped create a movement, and who remained outside its leadership. Reading it with Shaarawi’s biography separates a person’s retrospective account from the collective history of campaigns. The interval ends with a confrontation over participation, not with the achievement of equal rights.",
+        "zh": "1919年，妇女参与反对英国占领的埃及运动，使街道成为政治行动场所。与胡达·沙拉维相连的示威，是争取国家权威的更广斗争的一部分。然而，公共参与并未消除运动内部的不平等：富裕组织者拥有资源、读写能力及国际联系，这些条件并非人人共享。\n\n示威之后的岁月，显露国家独立与妇女公民权之间的距离。新的宪政机构并未赋予妇女平等政治参与。1923年，在沙拉维担任主席时成立的埃及妇女联合会，为教育与社会改革建立组织平台。1924年妇女被排除于议会正式开幕仪式之外，更清楚地显示新政治秩序的限制。\n\n这段历史不止是一位领袖在公共场合摘下面纱的故事。它追问协会、慈善及国际会议如何帮助建立运动，又有哪些人未能进入领导层。与沙拉维传记并读，可以区分个人回顾性叙述与集体运动史。本条以围绕参与权的冲突结束，而非以实现平等权利结束。"
+      },
+      "dateNote": {
+        "en": "Selected organizing sequence, 1919–1924. The dates distinguish demonstrations, union formation and parliamentary exclusion. Cairo is an institutional centre, not a reconstructed route of every women’s action.",
+        "zh": "选取1919—1924年的组织活动序列，区分示威、联合会成立与议会排斥。开罗表示机构中心，不重建所有妇女行动的路线。"
+      },
+      "sources": [
+        {
+          "title": "Sha’rawi, Huda 1879–1947",
+          "publisher": "International Encyclopedia of the Social Sciences / Encyclopedia.com",
+          "url": "https://www.encyclopedia.com/social-sciences/encyclopedias-almanacs-transcripts-and-maps/sharawi-huda-1879-1947",
+          "evidenceNote": "Elite background, charitable/educational work, 1919 demonstrations, 1923 Egyptian Feminist Union and presidency until 1947. Face-covering distinction inspected; generalized claims about all Egyptian women are not adopted.",
+          "checkedAt": "2026-10-23",
+          "retrieval": "inspected-text"
+        },
+        {
+          "title": "Re-reading Huda Shaarawi’s Harem Years",
+          "publisher": "Julia Lisiecka, SOAS Journal of Postgraduate Research 8 (2015)",
+          "url": "https://www.soas.ac.uk/sites/default/files/2022-06/05%20Rereading%20Huda%20Shaarawis%20Harem%20Years%20Bargaining%20with%20the%20Patriarchy%20in%20the%20Changing%20Egypt%20file102674.pdf",
+          "evidenceNote": "Relevant pages 6–10 inspected: limits of unveiling symbolism, nationalism/feminism, 1923 political exclusion and 1924 parliamentary inauguration controversy. This is a postgraduate research interpretation of memoirs, not an unmediated testimony.",
+          "checkedAt": "2026-10-23",
+          "retrieval": "inspected-text"
+        }
+      ],
+      "keyFacts": {
+        "en": [
+          "Political mobilization preceded equal access to national institutions.",
+          "The 1923 union gave reform demands an enduring organization."
+        ],
+        "zh": [
+          "政治动员先于平等进入国家机构。",
+          "1923年成立的联合会为改革诉求提供持续组织。"
+        ]
+      },
+      "relatedIds": [
+        "person-huda-shaarawi",
+        "suez-crisis-1956",
+        "suez-canal-opening"
+      ],
+      "expansion": {
+        "workstreams": [
+          "AF4"
+        ],
+        "release": 4,
+        "edition": "v10",
+        "sourceReview": "inspected-source-synthesis",
+        "reviewLimit": {
+          "en": "A bounded synthesis of the cited material. Source notes identify the claims reviewed and any access limits; the record does not establish territorial borders or a continuous personal itinerary.",
+          "zh": "对所引材料的有限综合。来源说明列出核查论点与访问限制；条目不确立疆界或连续个人行程。"
+        }
+      }
+    },
+    {
+      "id": "banaba-phosphate-displacement",
+      "title": {
+        "en": "Banaba · Fertilizer, mining and forced displacement",
+        "zh": "巴纳巴 · 化肥、采矿与被迫迁离"
+      },
+      "start": 1900,
+      "end": 1945,
+      "region": "oceania",
+      "kind": "event",
+      "theme": "exchange",
+      "importance": 3,
+      "location": {
+        "lat": -0.86,
+        "lon": 169.54,
+        "label": "Banaba; homeland and extraction site, not the relocation destination"
+      },
+      "locationPrecision": "representative",
+      "summary": {
+        "en": "Phosphate deposits identified on Banaba around 1900 connected a small Pacific island to agricultural production far away. Mining companies, followed by the British Phosphate Commission involving Britain, Australia and New Zealand, removed material used to fertilize farms. The value gained elsewhere depended on profound changes to the islanders’ land.\n\nExtraction, wartime occupation and displacement combined during the twentieth century. Japanese forces occupied the island during the Second World War, and in 1945 Banaban people were relocated to Rabi in Fiji. The move separated many from a damaged homeland while allowing phosphate exploitation to continue. It should not be represented as an uncomplicated voluntary search for a new home.\n\nBanaban writer Hele Christopher-Ikimotu connects this history to family memory and the difficulty of explaining a distinct identity within wider Pacific categories. Such testimony changes the scale of an account otherwise dominated by commodity flows and colonial institutions. The 1945 endpoint marks relocation in this selected history, not the disappearance of Banaban people or the termination of claims to land and identity. The map keeps Banaba visible rather than allowing the destination alone to replace the homeland.",
+        "zh": "约1900年发现的磷矿，使太平洋小岛巴纳巴与远方农业生产相连。采矿公司及后来由英国、澳大利亚和新西兰参与的英国磷酸盐委员会，开采材料供农场施肥。别处获得的价值，以岛民土地的深刻改变为基础。\n\n二十世纪的开采、战争占领与流离相互交织。第二次世界大战期间日军占领该岛，1945年巴纳巴人被迁到斐济拉比岛。迁移使许多人离开受损家园，同时让磷矿开采继续，不能写成简单自愿寻找新家的故事。\n\n巴纳巴作者赫勒·克里斯托弗—伊基莫图，把这段历史与家庭记忆，以及在更宽泛太平洋分类中解释自身独特身份的困难相连。这样的证词，使通常由商品流通和殖民机构主导的叙述转向人的经验。1945年结束年份标示本条关注的迁离，不是巴纳巴人的消失，也不意味着土地与身份诉求终结。地图保留巴纳巴家园的位置，而非让迁入地取代家园。"
+      },
+      "dateNote": {
+        "en": "1900–1945 links the discovery/mining era to relocation to Rabi. Extraction and Banaban community life continued afterward. Banaba and Rabi are distinct islands and are not collapsed into one point.",
+        "zh": "1900—1945年连接矿产发现、采矿时代与迁往拉比。开采及巴纳巴社区生活此后继续。巴纳巴与拉比是不同岛屿，不合并为一点。"
+      },
+      "sources": [
+        {
+          "title": "T-shirt: Banaba The Rock of Micronesia",
+          "publisher": "Museum of New Zealand Te Papa Tongarewa",
+          "url": "https://collections.tepapa.govt.nz/object/1423040",
+          "evidenceNote": "Inspected collection overview: early twentieth-century phosphate extraction, PIPC, wartime Japanese displacement and 1945 relocation to Rabi. Object production date 2012 is separate from the history represented.",
+          "checkedAt": "2026-10-23",
+          "retrieval": "inspected-text"
+        },
+        {
+          "title": "Our land died so others could live",
+          "publisher": "Hele Christopher-Ikimotu / E-Tangata",
+          "url": "https://e-tangata.co.nz/history/our-land-died-so-others-could-live/",
+          "evidenceNote": "Inspected first-person Banaban reflection: 1900 phosphate discovery, BPC beneficiaries, 1945 forced displacement and continuing distinct identity. BPC is not backdated to the first private-company mining; dramatic aggregate extraction/land-loss figures are omitted.",
+          "checkedAt": "2026-10-23",
+          "retrieval": "inspected-text"
+        }
+      ],
+      "keyFacts": {
+        "en": [
+          "Phosphate extraction linked Banaba to distant farming systems.",
+          "Banaban people were relocated to Rabi in 1945.",
+          "Displacement did not erase a distinct Banaban identity."
+        ],
+        "zh": [
+          "磷矿开采将巴纳巴连接到远方农业。",
+          "巴纳巴人于1945年被迁往拉比。",
+          "流离未抹去巴纳巴的独特身份。"
+        ]
+      },
+      "relatedIds": [
+        "fiji-girmit-labour",
+        "marshall-islands-nuclear-tests",
+        "pacific-islands-forum-foundation"
+      ],
+      "expansion": {
+        "workstreams": [
+          "OC1",
+          "OC3"
+        ],
+        "release": 4,
+        "edition": "v10",
+        "sourceReview": "inspected-source-synthesis",
+        "reviewLimit": {
+          "en": "Museum interpretation and a named community author supply complementary evidence. A blocked journal article is not claimed as inspected. The row avoids disputed purchase dates, precise land-loss percentages and an exhaustive compensation history.",
+          "zh": "博物馆解释与署名社区作者提供互补证据。受阻的期刊论文未声称已读。本条避开有争议的购岛年份、精确土地损失比例及完整赔偿史。"
+        }
+      }
+    }
+  ],
+  "assets": [
+    {
+      "id": "awm2-c75584",
+      "recordIds": [
+        "banaba-phosphate-displacement"
+      ],
+      "title": {
+        "en": "Banaba’s phosphate works from the harbour",
+        "zh": "从港湾看巴纳巴磷矿设施"
+      },
+      "alt": {
+        "en": "Industrial buildings, chimneys and elevated loading structures rise behind a small harbour and boats on the beach.",
+        "zh": "工业建筑、烟囱和高架装运设施位于小港湾后方，沙滩上停着船只。"
+      },
+      "caption": {
+        "en": "The British Phosphate works on Banaba, then catalogued as Ocean Island, on 2 October 1945. This post-surrender photograph records the mining site in the year Banaban people were relocated to Rabi.",
+        "zh": "1945年10月2日的巴纳巴英国磷矿设施；馆藏沿用“大洋岛”这一旧称。这张日军投降后的照片记录了巴纳巴人迁往拉比岛那一年的采矿地点。"
+      },
+      "interpretation": {
+        "en": "The harbour and industrial structures show how mineral extraction joined the island’s land to overseas shipping. This view records the mining site, while the entry’s Banaban testimony describes what displacement meant for its people.",
+        "zh": "港湾与工业设施显示，矿产开采如何把岛上的土地连接到海外航运。画面记录采矿地点，条目所引巴纳巴人的证言则讲述迁离对居民的意义。"
+      },
+      "creator": "Photographer not identified in item record",
+      "date": "2 October 1945 (catalogue description)",
+      "credit": "Australian War Memorial, 097625",
+      "sourceUrl": "https://www.awm.gov.au/collection/C75584",
+      "kind": "photograph",
+      "representation": "historical-photograph",
+      "institution": "Australian War Memorial",
+      "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/097625/screen/3905363.JPG",
+      "downloadedFrom": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/097625/screen/3905363.JPG",
+      "rightsSourceUrl": "https://www.awm.gov.au/collection/C75584",
+      "rights": {
+        "label": "Public domain",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "note": {
+          "en": "The individual catalogue marks this photograph “Copyright expired - public domain”. The AWM policy permits reproducing public-domain website images without permission.",
+          "zh": "单件目录将此照片标为“版权已到期—公有领域”。澳大利亚战争纪念馆的政策允许无需许可再版网站中的公有领域图像。"
+        }
+      },
+      "file": "assets/history-media/awm2-c75584.jpg",
+      "bytes": 212110,
+      "width": 640,
+      "height": 499,
+      "sha256": "cbdd64a9ada2a02bbfe760a39242e0112899a2fee81a0b8ff527c592b184e15c",
+      "checkedAt": "2026-11-12",
+      "transformation": {
+        "en": "Official JPEG preserved unchanged, including the institutional credit strip.",
+        "zh": "官方JPEG原样保存，包括馆方署名条。"
+      },
+      "metadataI18n": {
+        "creator": {
+          "en": "Photographer not identified in item record",
+          "zh": "馆藏未注明摄影者"
+        },
+        "date": {
+          "en": "2 October 1945 (catalogue description)",
+          "zh": "1945年10月2日（目录说明）"
+        },
+        "institution": {
+          "en": "Australian War Memorial",
+          "zh": "澳大利亚战争纪念馆"
+        }
+      }
+    },
+    {
+      "id": "awm2-c256662",
+      "recordIds": [
+        "banaba-phosphate-displacement"
+      ],
+      "title": {
+        "en": "Phosphate shipping at Banaba’s Home Bay",
+        "zh": "巴纳巴霍姆湾的磷矿运输"
+      },
+      "alt": {
+        "en": "Two large ships lie offshore beyond coastal vegetation, with a loading structure projecting from the shore at left.",
+        "zh": "海岸植被外侧停着两艘大船，左边有装运设施从岸边伸出。"
+      },
+      "caption": {
+        "en": "Home Bay, Banaba, around 1940. The AWM identifies HMAS Manoora at left and the Norwegian merchant ship Vito loading phosphate.",
+        "zh": "约1940年，巴纳巴霍姆湾。馆方辨认为左侧的澳大利亚军舰“马努拉”号，以及正在装载磷矿的挪威商船“维托”号。"
+      },
+      "interpretation": {
+        "en": "The cargo ship makes the export route visible: phosphate left Banaba for use elsewhere. Paired with the 1945 harbour view, it connects the industrial site to the ships that carried its mineral wealth away.",
+        "zh": "货船使出口路线变得可见：磷矿离开巴纳巴，被运往别处使用。与1945年的港湾照片并看，可将岛上的工业设施同运走矿产的船舶联系起来。"
+      },
+      "creator": "Photographer not identified in item record",
+      "date": "c. 1940 (catalogue description)",
+      "credit": "Australian War Memorial, 305235/01",
+      "sourceUrl": "https://www.awm.gov.au/collection/C256662",
+      "kind": "photograph",
+      "representation": "historical-photograph",
+      "institution": "Australian War Memorial",
+      "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/305235/01/screen/3933943.JPG",
+      "downloadedFrom": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/305235/01/screen/3933943.JPG",
+      "rightsSourceUrl": "https://www.awm.gov.au/collection/C256662",
+      "rights": {
+        "label": "Public domain",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "note": {
+          "en": "The individual catalogue marks this photograph “Copyright expired - public domain”. The AWM policy permits reproducing public-domain website images without permission.",
+          "zh": "单件目录将此照片标为“版权已到期—公有领域”。澳大利亚战争纪念馆的政策允许无需许可再版网站中的公有领域图像。"
+        }
+      },
+      "file": "assets/history-media/awm2-c256662.jpg",
+      "bytes": 178658,
+      "width": 640,
+      "height": 499,
+      "sha256": "100f82cfca6a7092de40013787ec4ed3f813dff8e88bd43508d014280799a851",
+      "checkedAt": "2026-11-12",
+      "transformation": {
+        "en": "Official JPEG preserved unchanged, including the institutional credit strip.",
+        "zh": "官方JPEG原样保存，包括馆方署名条。"
+      },
+      "metadataI18n": {
+        "creator": {
+          "en": "Photographer not identified in item record",
+          "zh": "馆藏未注明摄影者"
+        },
+        "date": {
+          "en": "c. 1940 (catalogue description)",
+          "zh": "约1940年（目录说明）"
+        },
+        "institution": {
+          "en": "Australian War Memorial",
+          "zh": "澳大利亚战争纪念馆"
+        }
+      }
+    },
+    {
+      "id": "awm2-c1097575",
+      "recordIds": [
+        "malayan-emergency-social-war"
+      ],
+      "title": {
+        "en": "A patrol enters Kampong Landak",
+        "zh": "巡逻队进入兰达村"
+      },
+      "alt": {
+        "en": "Soldiers carrying equipment walk along a clearing towards wooden village houses beneath a forested hillside.",
+        "zh": "携带装备的士兵沿空地走向木屋村落，后方是林木覆盖的山坡。"
+      },
+      "caption": {
+        "en": "Perak, Malaya, 25 May 1956. Phillip Oliver Hobson photographed a 2RAR patrol entering Kampong Landak in the Jalan Tinggi area during the Malayan Emergency.",
+        "zh": "马来亚霹雳，1956年5月25日。菲利普·奥利弗·霍布森拍摄澳大利亚皇家团第二营巡逻队，在紧急状态期间进入惹兰丁宜地区的兰达村。"
+      },
+      "interpretation": {
+        "en": "The patrol’s path passes directly into a village, showing how military operations entered inhabited spaces. The catalogue identifies this as a patrol, not a forced relocation; the wider history of resettlement is explained in the entry.",
+        "zh": "巡逻路线直通村落，显示军事行动如何进入居民生活空间。目录将其记为巡逻，而非强制迁村；更广泛的迁村历史由条目说明。"
+      },
+      "creator": "Phillip Oliver Hobson",
+      "date": "25 May 1956",
+      "credit": "Australian War Memorial, HOB/56/0482/MC",
+      "sourceUrl": "https://www.awm.gov.au/collection/C1097575",
+      "kind": "photograph",
+      "representation": "historical-photograph",
+      "institution": "Australian War Memorial",
+      "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/HOB/56/0482/MC/screen/4043358.JPG",
+      "downloadedFrom": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/HOB/56/0482/MC/screen/4043358.JPG",
+      "rightsSourceUrl": "https://www.awm.gov.au/collection/C1097575",
+      "rights": {
+        "label": "Public domain",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "note": {
+          "en": "The individual catalogue marks this photograph “Copyright expired - public domain”. The AWM policy permits reproducing public-domain website images without permission.",
+          "zh": "单件目录将此照片标为“版权已到期—公有领域”。澳大利亚战争纪念馆的政策允许无需许可再版网站中的公有领域图像。"
+        }
+      },
+      "file": "assets/history-media/awm2-c1097575.jpg",
+      "bytes": 247663,
+      "width": 637,
+      "height": 654,
+      "sha256": "0120d849e542b9d8b22a8ca2fdcce8171fdceb6abcfe768cd34785b77176ab88",
+      "checkedAt": "2026-11-12",
+      "transformation": {
+        "en": "Official JPEG preserved unchanged, including the institutional credit strip.",
+        "zh": "官方JPEG原样保存，包括馆方署名条。"
+      },
+      "metadataI18n": {
+        "creator": {
+          "en": "Phillip Oliver Hobson",
+          "zh": "菲利普·奥利弗·霍布森"
+        },
+        "date": {
+          "en": "25 May 1956",
+          "zh": "1956年5月25日"
+        },
+        "institution": {
+          "en": "Australian War Memorial",
+          "zh": "澳大利亚战争纪念馆"
+        }
+      }
+    },
+    {
+      "id": "awm2-c398839",
+      "recordIds": [
+        "malaysia-federation-1963"
+      ],
+      "title": {
+        "en": "A Sarawak border patrol during Konfrontasi",
+        "zh": "“对抗”期间的砂拉越边境巡逻"
+      },
+      "alt": {
+        "en": "A uniformed soldier holding a rifle crosses a narrow log bridge amid dense tropical vegetation.",
+        "zh": "一名持步枪的制服士兵，在茂密热带植被间跨过狭窄独木桥。"
+      },
+      "caption": {
+        "en": "Sarawak, around 1965. William James Cunneen photographed Private Ian Ronald Ramsay of 3RAR crossing a log bridge while his battalion patrolled the Indonesian border during Konfrontasi.",
+        "zh": "约1965年，砂拉越。威廉·詹姆斯·坎宁拍摄澳大利亚皇家团第三营列兵伊恩·罗纳德·拉姆齐跨过独木桥；当时该营在“对抗”期间巡逻印度尼西亚边境。"
+      },
+      "interpretation": {
+        "en": "The border patrol records Commonwealth military involvement in the armed dispute over Malaysia’s formation. Sarawak’s forest terrain shaped the patrol’s route: a log serves as a bridge. The photograph dates to around 1965, during Konfrontasi.",
+        "zh": "边境巡逻记录了英联邦军队参与围绕马来西亚成立而起的武装争端。砂拉越的森林地形影响了巡逻路线，一根原木被用作桥梁。照片约摄于1965年“对抗”期间。"
+      },
+      "creator": "William James Cunneen",
+      "date": "c. 1965",
+      "credit": "Australian War Memorial, CUN/65/0727/MC",
+      "sourceUrl": "https://www.awm.gov.au/collection/C398839",
+      "kind": "photograph",
+      "representation": "historical-photograph",
+      "institution": "Australian War Memorial",
+      "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/CUN/65/0727/MC/screen/4273258.JPG",
+      "downloadedFrom": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/CUN/65/0727/MC/screen/4273258.JPG",
+      "rightsSourceUrl": "https://www.awm.gov.au/collection/C398839",
+      "rights": {
+        "label": "Public domain",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "note": {
+          "en": "The individual catalogue marks this photograph “Copyright expired - public domain”. The AWM policy permits reproducing public-domain website images without permission.",
+          "zh": "单件目录将此照片标为“版权已到期—公有领域”。澳大利亚战争纪念馆的政策允许无需许可再版网站中的公有领域图像。"
+        }
+      },
+      "file": "assets/history-media/awm2-c398839.jpg",
+      "bytes": 287157,
+      "width": 640,
+      "height": 652,
+      "sha256": "63a519753bfb5e9faea2d357e63ffc00af4e0b49da6747b6c1e0a23b2d69d978",
+      "checkedAt": "2026-11-12",
+      "transformation": {
+        "en": "Official JPEG preserved unchanged, including the institutional credit strip.",
+        "zh": "官方JPEG原样保存，包括馆方署名条。"
+      },
+      "metadataI18n": {
+        "creator": {
+          "en": "William James Cunneen",
+          "zh": "威廉·詹姆斯·坎宁"
+        },
+        "date": {
+          "en": "c. 1965",
+          "zh": "约1965年"
+        },
+        "institution": {
+          "en": "Australian War Memorial",
+          "zh": "澳大利亚战争纪念馆"
+        }
+      }
+    },
+    {
+      "id": "awm2-c1214833",
+      "recordIds": [
+        "korean-division"
+      ],
+      "title": {
+        "en": "A sign marking Korea’s 38th parallel",
+        "zh": "标示朝鲜半岛三十八度线的标牌"
+      },
+      "alt": {
+        "en": "A soldier with a slung rifle leans on a roadside survey sign marked 38 degrees north latitude.",
+        "zh": "一名肩背步枪的士兵倚着路边测量标牌，上面标有北纬三十八度。"
+      },
+      "caption": {
+        "en": "Cyril Charles Mitchell photographed Private Bruce Grattan Horgan beside a 38th-parallel survey sign on 2 February 1953, during the Korean War. The photograph follows the establishment of separate states in 1948.",
+        "zh": "西里尔·查尔斯·米切尔于1953年2月2日、朝鲜战争期间，拍下列兵布鲁斯·格拉顿·霍根倚在三十八度线测量标牌旁。照片摄于1948年南北两个国家建立之后。"
+      },
+      "interpretation": {
+        "en": "The sign fixes a line of latitude that had become an occupation boundary in 1945. Its inscription marks geography, not the military demarcation line negotiated in July 1953; the two lines should remain distinct.",
+        "zh": "标牌确定的是一条纬线，它于1945年成为占领区分界。牌上标示地理纬度，不是1953年7月谈判形成的军事分界线；两者应明确区分。"
+      },
+      "creator": "Cyril Charles Mitchell",
+      "date": "2 February 1953",
+      "credit": "Australian War Memorial, P06251.006",
+      "sourceUrl": "https://www.awm.gov.au/collection/C1214833",
+      "kind": "photograph",
+      "representation": "historical-photograph",
+      "institution": "Australian War Memorial",
+      "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/P06251.006/screen/3823795.JPG",
+      "downloadedFrom": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/P06251.006/screen/3823795.JPG",
+      "rightsSourceUrl": "https://www.awm.gov.au/collection/C1214833",
+      "rights": {
+        "label": "Public domain",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "note": {
+          "en": "The individual catalogue marks this photograph “Copyright expired - public domain”. The AWM policy permits reproducing public-domain website images without permission.",
+          "zh": "单件目录将此照片标为“版权已到期—公有领域”。澳大利亚战争纪念馆的政策允许无需许可再版网站中的公有领域图像。"
+        }
+      },
+      "file": "assets/history-media/awm2-c1214833.jpg",
+      "bytes": 138200,
+      "width": 490,
+      "height": 653,
+      "sha256": "c5a70e8c60e8eb8db27fb0862a8f57dc70aea56b63a447482e7ef4d456989fe1",
+      "checkedAt": "2026-11-12",
+      "transformation": {
+        "en": "Official JPEG preserved unchanged, including the institutional credit strip.",
+        "zh": "官方JPEG原样保存，包括馆方署名条。"
+      },
+      "metadataI18n": {
+        "creator": {
+          "en": "Cyril Charles Mitchell",
+          "zh": "西里尔·查尔斯·米切尔"
+        },
+        "date": {
+          "en": "2 February 1953",
+          "zh": "1953年2月2日"
+        },
+        "institution": {
+          "en": "Australian War Memorial",
+          "zh": "澳大利亚战争纪念馆"
+        }
+      }
+    },
+    {
+      "id": "awm2-c1006113",
+      "recordIds": [
+        "egypt-women-nationalism-1919"
+      ],
+      "title": {
+        "en": "Women address a Cairo street crowd in 1919",
+        "zh": "1919年妇女向开罗街头人群讲话"
+      },
+      "alt": {
+        "en": "A dense crowd fills a shopping street around horse-drawn vehicles; several women are visible above the crowd near the centre and right.",
+        "zh": "密集人群围着马车挤满商业街；画面中央和右侧可见几位位置较高的妇女。"
+      },
+      "caption": {
+        "en": "Cairo, March 1919. The AWM describes women addressing the crowd from a passing vehicle near Shepheard’s Hotel during the unrest against British rule. The women are not individually named.",
+        "zh": "开罗，1919年3月。馆藏记述妇女在反对英国统治的动荡期间，从谢泼德饭店附近经过的车上向人群讲话；未提供这些妇女的个人姓名。"
+      },
+      "interpretation": {
+        "en": "The horse-drawn vehicle becomes a platform for public speech, with women addressing a dense street crowd. This contemporary scene records the collective political mobilization of March 1919; the catalogue leaves the speakers unnamed.",
+        "zh": "马车成为公共演讲的平台，妇女向密集的街头人群讲话。这一同时代场景记录了1919年3月的集体政治动员；目录未记载发言者的姓名。"
+      },
+      "creator": "W. H. James; W. H. Swanston (catalogue attributions)",
+      "date": "March 1919",
+      "credit": "Australian War Memorial, G01867",
+      "sourceUrl": "https://www.awm.gov.au/collection/C1006113",
+      "kind": "photograph",
+      "representation": "historical-photograph",
+      "institution": "Australian War Memorial",
+      "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/G01867/screen/6040222.JPG",
+      "downloadedFrom": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/G01867/screen/6040222.JPG",
+      "rightsSourceUrl": "https://www.awm.gov.au/collection/C1006113",
+      "rights": {
+        "label": "Public domain",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "note": {
+          "en": "The individual catalogue marks this photograph “Copyright expired - public domain”. The AWM policy permits reproducing public-domain website images without permission.",
+          "zh": "单件目录将此照片标为“版权已到期—公有领域”。澳大利亚战争纪念馆的政策允许无需许可再版网站中的公有领域图像。"
+        }
+      },
+      "file": "assets/history-media/awm2-c1006113.jpg",
+      "bytes": 201417,
+      "width": 639,
+      "height": 475,
+      "sha256": "c6d8f32c784e59af0a152b6f4febb0254c6b78638799bc22b0852392b8762685",
+      "checkedAt": "2026-11-12",
+      "transformation": {
+        "en": "Official JPEG preserved unchanged, including the institutional credit strip.",
+        "zh": "官方JPEG原样保存，包括馆方署名条。"
+      },
+      "metadataI18n": {
+        "creator": {
+          "en": "W. H. James; W. H. Swanston (catalogue attributions)",
+          "zh": "W. H. 詹姆斯；W. H. 斯旺斯顿（目录署名）"
+        },
+        "date": {
+          "en": "March 1919",
+          "zh": "1919年3月"
+        },
+        "institution": {
+          "en": "Australian War Memorial",
+          "zh": "澳大利亚战争纪念馆"
+        }
+      }
+    },
+    {
+      "id": "awm2-c40435",
+      "recordIds": [
+        "australia-federal-polity"
+      ],
+      "title": {
+        "en": "Australia’s Parliament House in 1941",
+        "zh": "1941年的澳大利亚国会大厦"
+      },
+      "alt": {
+        "en": "An oblique aerial view shows a large symmetrical parliament building, surrounding roads, open lawns and geometric gardens.",
+        "zh": "斜向航拍呈现大型对称国会建筑、周边道路、开阔草坪及几何式花园。"
+      },
+      "caption": {
+        "en": "An aerial photograph of Parliament House in Canberra in the winter of 1941, now known as Old Parliament House. It records the Commonwealth’s parliamentary seat four decades after federation.",
+        "zh": "1941年冬的堪培拉国会大厦航拍，现称旧国会大厦。它记录联邦成立四十年后的议会所在地。"
+      },
+      "interpretation": {
+        "en": "The building gives the continuing federal institutions a physical setting. Its formal grounds show the national capital in 1941, while the entry follows the wider struggles over who could take part in those institutions.",
+        "zh": "建筑为持续运作的联邦机构提供具体空间。规整庭园呈现1941年的首都，条目则追踪围绕谁能参与这些机构而展开的更广泛斗争。"
+      },
+      "creator": "Photographer not identified in item record",
+      "date": "Winter 1941 (catalogue description)",
+      "credit": "Australian War Memorial, P00041.001",
+      "sourceUrl": "https://www.awm.gov.au/collection/C40435",
+      "kind": "photograph",
+      "representation": "historical-photograph",
+      "institution": "Australian War Memorial",
+      "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/P00041.001/screen/3919753.JPG",
+      "downloadedFrom": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/P00041.001/screen/3919753.JPG",
+      "rightsSourceUrl": "https://www.awm.gov.au/collection/C40435",
+      "rights": {
+        "label": "Public domain",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "note": {
+          "en": "The individual catalogue marks this photograph “Copyright expired - public domain”. The AWM policy permits reproducing public-domain website images without permission.",
+          "zh": "单件目录将此照片标为“版权已到期—公有领域”。澳大利亚战争纪念馆的政策允许无需许可再版网站中的公有领域图像。"
+        }
+      },
+      "file": "assets/history-media/awm2-c40435.jpg",
+      "bytes": 282365,
+      "width": 640,
+      "height": 499,
+      "sha256": "a66309d070e408bfdc451ac5c08dcb01150c8319ad062181c9304c67b4f7fa19",
+      "checkedAt": "2026-11-12",
+      "transformation": {
+        "en": "Official JPEG preserved unchanged, including the institutional credit strip.",
+        "zh": "官方JPEG原样保存，包括馆方署名条。"
+      },
+      "metadataI18n": {
+        "creator": {
+          "en": "Photographer not identified in item record",
+          "zh": "馆藏未注明摄影者"
+        },
+        "date": {
+          "en": "Winter 1941 (catalogue description)",
+          "zh": "1941年冬（目录说明）"
+        },
+        "institution": {
+          "en": "Australian War Memorial",
+          "zh": "澳大利亚战争纪念馆"
+        }
+      }
+    },
+    {
+      "id": "awm2-c340230",
+      "recordIds": [
+        "melaka"
+      ],
+      "title": {
+        "en": "St Francis Xavier Church in historic Melaka",
+        "zh": "历史名城马六甲的圣方济各沙勿略教堂"
+      },
+      "alt": {
+        "en": "A street view of a weathered church façade with twin pointed towers, a large arched doorway, a tree and a pedestrian.",
+        "zh": "街景中的教堂立面带有两座尖塔、大拱门，墙面风化；前方可见树木和行人。"
+      },
+      "caption": {
+        "en": "St Francis Xavier Church in Melaka, photographed around 1941–1942 and preserved in the George Aspinall collection. The view is later than the entry’s fifteenth- to nineteenth-century focus.",
+        "zh": "约1941—1942年拍摄的马六甲圣方济各沙勿略教堂，现存于乔治·阿斯皮纳尔收藏。影像晚于条目聚焦的15至19世纪。"
+      },
+      "interpretation": {
+        "en": "Twin towers, pointed openings and a weathered façade mark a Christian presence in Melaka’s varied religious townscape. The street foreground places the building within the everyday city photographed around 1941–1942.",
+        "zh": "双塔、尖拱开口与斑驳立面，呈现了马六甲多元宗教城市景观中的基督教建筑。前景街道把教堂置于约1941—1942年所拍摄的日常城市空间之中。"
+      },
+      "creator": "Photographer not individually credited; George Aspinall collection",
+      "date": "c. 1941–1942",
+      "credit": "Australian War Memorial, P02569.083",
+      "sourceUrl": "https://www.awm.gov.au/collection/C340230",
+      "kind": "photograph",
+      "representation": "historical-photograph",
+      "institution": "Australian War Memorial",
+      "imageUrl": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/P02569.083/screen/4265570.JPG",
+      "downloadedFrom": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/P02569.083/screen/4265570.JPG",
+      "rightsSourceUrl": "https://www.awm.gov.au/collection/C340230",
+      "rights": {
+        "label": "Public domain",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "note": {
+          "en": "The individual catalogue marks this photograph “Copyright expired - public domain”. The AWM policy permits reproducing public-domain website images without permission.",
+          "zh": "单件目录将此照片标为“版权已到期—公有领域”。澳大利亚战争纪念馆的政策允许无需许可再版网站中的公有领域图像。"
+        }
+      },
+      "file": "assets/history-media/awm2-c340230.jpg",
+      "bytes": 153192,
+      "width": 385,
+      "height": 654,
+      "sha256": "e74f2729a77a6f1a156544f7fb390c7f58c88106c9d5e6cf6609c2476c9df38b",
+      "checkedAt": "2026-11-12",
+      "transformation": {
+        "en": "Official JPEG preserved unchanged, including the institutional credit strip.",
+        "zh": "官方JPEG原样保存，包括馆方署名条。"
+      },
+      "metadataI18n": {
+        "creator": {
+          "en": "Photographer not individually credited; George Aspinall collection",
+          "zh": "未单独署名摄影者；乔治·阿斯皮纳尔收藏"
+        },
+        "date": {
+          "en": "c. 1941–1942",
+          "zh": "约1941—1942年"
+        },
+        "institution": {
+          "en": "Australian War Memorial",
+          "zh": "澳大利亚战争纪念馆"
+        }
+      }
+    }
+  ],
+  "rightsEvidence": [
+    {
+      "id": "awm2-c75584",
+      "sourceUrl": "https://www.awm.gov.au/collection/C75584",
+      "status": 200,
+      "rights": "Copyright expired - public domain",
+      "rawReceipt": "research/v18/awm-images-02/C75584.html",
+      "policyUrl": "https://www.awm.gov.au/about/organisation/corporate/copyright",
+      "policyReceipt": "research/v18/awm-images-02/awm-copyright.html",
+      "checkedAt": "2026-11-12"
+    },
+    {
+      "id": "awm2-c256662",
+      "sourceUrl": "https://www.awm.gov.au/collection/C256662",
+      "status": 200,
+      "rights": "Copyright expired - public domain",
+      "rawReceipt": "research/v18/awm-images-02/C256662.html",
+      "policyUrl": "https://www.awm.gov.au/about/organisation/corporate/copyright",
+      "policyReceipt": "research/v18/awm-images-02/awm-copyright.html",
+      "checkedAt": "2026-11-12"
+    },
+    {
+      "id": "awm2-c1097575",
+      "sourceUrl": "https://www.awm.gov.au/collection/C1097575",
+      "status": 200,
+      "rights": "Copyright expired - public domain",
+      "rawReceipt": "research/v18/awm-images-02/C1097575.html",
+      "policyUrl": "https://www.awm.gov.au/about/organisation/corporate/copyright",
+      "policyReceipt": "research/v18/awm-images-02/awm-copyright.html",
+      "checkedAt": "2026-11-12"
+    },
+    {
+      "id": "awm2-c398839",
+      "sourceUrl": "https://www.awm.gov.au/collection/C398839",
+      "status": 200,
+      "rights": "Copyright expired - public domain",
+      "rawReceipt": "research/v18/awm-images-02/C398839.html",
+      "policyUrl": "https://www.awm.gov.au/about/organisation/corporate/copyright",
+      "policyReceipt": "research/v18/awm-images-02/awm-copyright.html",
+      "checkedAt": "2026-11-12"
+    },
+    {
+      "id": "awm2-c1214833",
+      "sourceUrl": "https://www.awm.gov.au/collection/C1214833",
+      "status": 200,
+      "rights": "Copyright expired - public domain",
+      "rawReceipt": "research/v18/awm-images-02/C1214833.html",
+      "policyUrl": "https://www.awm.gov.au/about/organisation/corporate/copyright",
+      "policyReceipt": "research/v18/awm-images-02/awm-copyright.html",
+      "checkedAt": "2026-11-12"
+    },
+    {
+      "id": "awm2-c1006113",
+      "sourceUrl": "https://www.awm.gov.au/collection/C1006113",
+      "status": 200,
+      "rights": "Copyright expired - public domain",
+      "rawReceipt": "research/v18/awm-images-02/C1006113.html",
+      "policyUrl": "https://www.awm.gov.au/about/organisation/corporate/copyright",
+      "policyReceipt": "research/v18/awm-images-02/awm-copyright.html",
+      "checkedAt": "2026-11-12"
+    },
+    {
+      "id": "awm2-c40435",
+      "sourceUrl": "https://www.awm.gov.au/collection/C40435",
+      "status": 200,
+      "rights": "Copyright expired - public domain",
+      "rawReceipt": "research/v18/awm-images-02/C40435.html",
+      "policyUrl": "https://www.awm.gov.au/about/organisation/corporate/copyright",
+      "policyReceipt": "research/v18/awm-images-02/awm-copyright.html",
+      "checkedAt": "2026-11-12"
+    },
+    {
+      "id": "awm2-c340230",
+      "sourceUrl": "https://www.awm.gov.au/collection/C340230",
+      "status": 200,
+      "rights": "Copyright expired - public domain",
+      "rawReceipt": "research/v18/awm-images-02/C340230.html",
+      "policyUrl": "https://www.awm.gov.au/about/organisation/corporate/copyright",
+      "policyReceipt": "research/v18/awm-images-02/awm-copyright.html",
+      "checkedAt": "2026-11-12"
+    }
+  ],
+  "downloads": [
+    {
+      "id": "C75584",
+      "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/097625/screen/3905363.JPG",
+      "status": 200,
+      "bytes": 212110,
+      "width": 640,
+      "height": 499,
+      "sha256": "cbdd64a9ada2a02bbfe760a39242e0112899a2fee81a0b8ff527c592b184e15c",
+      "file": "/workspace/scratch/9c606a8aab7f/world-history-atlas/research/v18/awm-images-02/images/awm2-c75584.jpg"
+    },
+    {
+      "id": "C256662",
+      "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/305235/01/screen/3933943.JPG",
+      "status": 200,
+      "bytes": 178658,
+      "width": 640,
+      "height": 499,
+      "sha256": "100f82cfca6a7092de40013787ec4ed3f813dff8e88bd43508d014280799a851",
+      "file": "/workspace/scratch/9c606a8aab7f/world-history-atlas/research/v18/awm-images-02/images/awm2-c256662.jpg"
+    },
+    {
+      "id": "C1097575",
+      "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/HOB/56/0482/MC/screen/4043358.JPG",
+      "status": 200,
+      "bytes": 247663,
+      "width": 637,
+      "height": 654,
+      "sha256": "0120d849e542b9d8b22a8ca2fdcce8171fdceb6abcfe768cd34785b77176ab88",
+      "file": "/workspace/scratch/9c606a8aab7f/world-history-atlas/research/v18/awm-images-02/images/awm2-c1097575.jpg"
+    },
+    {
+      "id": "C398839",
+      "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/CUN/65/0727/MC/screen/4273258.JPG",
+      "status": 200,
+      "bytes": 287157,
+      "width": 640,
+      "height": 652,
+      "sha256": "63a519753bfb5e9faea2d357e63ffc00af4e0b49da6747b6c1e0a23b2d69d978",
+      "file": "/workspace/scratch/9c606a8aab7f/world-history-atlas/research/v18/awm-images-02/images/awm2-c398839.jpg"
+    },
+    {
+      "id": "C43448",
+      "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/P00716.019/screen/3885917.JPG",
+      "status": 200,
+      "bytes": 169894,
+      "width": 640,
+      "height": 499,
+      "sha256": "d608cbb07ca9366eb56b3d18459882d60114f3143d16f105302820f5ad1558f9",
+      "file": "/workspace/scratch/9c606a8aab7f/world-history-atlas/research/v18/awm-images-02/images/awm2-c43448.jpg"
+    },
+    {
+      "id": "C1006113",
+      "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/G01867/screen/6040222.JPG",
+      "status": 200,
+      "bytes": 201417,
+      "width": 639,
+      "height": 475,
+      "sha256": "c6d8f32c784e59af0a152b6f4febb0254c6b78638799bc22b0852392b8762685",
+      "file": "/workspace/scratch/9c606a8aab7f/world-history-atlas/research/v18/awm-images-02/images/awm2-c1006113.jpg"
+    },
+    {
+      "id": "C40435",
+      "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/P00041.001/screen/3919753.JPG",
+      "status": 200,
+      "bytes": 282365,
+      "width": 640,
+      "height": 499,
+      "sha256": "a66309d070e408bfdc451ac5c08dcb01150c8319ad062181c9304c67b4f7fa19",
+      "file": "/workspace/scratch/9c606a8aab7f/world-history-atlas/research/v18/awm-images-02/images/awm2-c40435.jpg"
+    },
+    {
+      "id": "C340230",
+      "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/P02569.083/screen/4265570.JPG",
+      "status": 200,
+      "bytes": 153192,
+      "width": 385,
+      "height": 654,
+      "sha256": "e74f2729a77a6f1a156544f7fb390c7f58c88106c9d5e6cf6609c2476c9df38b",
+      "file": "/workspace/scratch/9c606a8aab7f/world-history-atlas/research/v18/awm-images-02/images/awm2-c340230.jpg"
+    },
+    {
+      "id": "C1214833",
+      "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/P06251.006/screen/3823795.JPG",
+      "status": 200,
+      "bytes": 138200,
+      "width": 490,
+      "height": 653,
+      "sha256": "c5a70e8c60e8eb8db27fb0862a8f57dc70aea56b63a447482e7ef4d456989fe1",
+      "file": "/workspace/scratch/9c606a8aab7f/world-history-atlas/research/v18/awm-images-02/images/awm2-c1214833.jpg"
+    }
+  ],
+  "catalogueMetadata": [
+    {
+      "id": "C75584",
+      "documentCount": 1,
+      "mediaData": [
+        {
+          "step": 1,
+          "class1": "i",
+          "class": "image",
+          "width": 640,
+          "height": 499,
+          "type": "jpg",
+          "large_size": 0,
+          "title": "OCEAN ISLAND. 1945-10-02. THE BRITISH PHOSPHATE WORKS VIEWED FROM THE BOAT HARBOUR. FOLLOWING THE ...",
+          "size": 212110,
+          "image_filename": "3905363.JPG",
+          "classname": "Image",
+          "player": "image",
+          "method": "Show",
+          "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/097625/screen/3905363.JPG",
+          "thumb": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/097625/screen/3905363.JPG",
+          "large": null
+        }
+      ],
+      "accessionNumber": "097625",
+      "currentPage": {
+        "title": "OCEAN ISLAND. 1945-10-02. THE BRITISH PHOSPHATE WORKS VIEWED FROM THE BOAT HARBOUR. FOLLOWING THE ...",
+        "subtitle": [
+          "Black & white"
+        ],
+        "uri": "/collection/C75584",
+        "type": "Photograph"
+      },
+      "fromSearch": false
+    },
+    {
+      "id": "C256662",
+      "documentCount": 1,
+      "mediaData": [
+        {
+          "step": 1,
+          "class1": "i",
+          "class": "image",
+          "width": 640,
+          "height": 499,
+          "type": "jpg",
+          "large_size": 0,
+          "title": "OCEAN ISLAND. C.1940. THE ARMED MERCHANT CRUISER HMAS MANOORA (LEFT) AT HOME BAY WITH THE ...",
+          "size": 178658,
+          "image_filename": "3933943.JPG",
+          "classname": "Image",
+          "player": "image",
+          "method": "Show",
+          "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/305235/01/screen/3933943.JPG",
+          "thumb": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/305235/01/screen/3933943.JPG",
+          "large": null
+        }
+      ],
+      "accessionNumber": "305235/01",
+      "currentPage": {
+        "title": "OCEAN ISLAND. C.1940. THE ARMED MERCHANT CRUISER HMAS MANOORA (LEFT) AT HOME BAY WITH THE ...",
+        "subtitle": [
+          "Paper (Resin-coated)",
+          "Silver Gelatin"
+        ],
+        "uri": "/collection/C256662",
+        "type": "Photograph"
+      },
+      "fromSearch": false
+    },
+    {
+      "id": "C1097575",
+      "documentCount": 1,
+      "mediaData": [
+        {
+          "step": 1,
+          "class1": "i",
+          "class": "image",
+          "width": 637,
+          "height": 654,
+          "type": "jpg",
+          "large_size": 0,
+          "title": "A patrol section from 7 Platoon, C Company, 2nd Battalion, The Royal Australian Regiment (2RAR), ...",
+          "size": 247663,
+          "image_filename": "4043358.JPG",
+          "classname": "Image",
+          "player": "image",
+          "method": "Show",
+          "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/HOB/56/0482/MC/screen/4043358.JPG",
+          "thumb": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/HOB/56/0482/MC/screen/4043358.JPG",
+          "large": null
+        }
+      ],
+      "accessionNumber": "HOB/56/0482/MC",
+      "currentPage": {
+        "title": "A patrol section from 7 Platoon, C Company, 2nd Battalion, The Royal Australian Regiment (2RAR), ...",
+        "subtitle": [
+          "Black & white - Film original negative 120 safety base"
+        ],
+        "uri": "/collection/C1097575",
+        "type": "Photograph"
+      },
+      "fromSearch": false
+    },
+    {
+      "id": "C398839",
+      "documentCount": 1,
+      "mediaData": [
+        {
+          "step": 1,
+          "class1": "i",
+          "class": "image",
+          "width": 640,
+          "height": 652,
+          "type": "jpg",
+          "large_size": 0,
+          "title": "54864 Private Ian Ronald Ramsay, of Perth, WA, 3rd Battalion, The Royal Australian Regiment ...",
+          "size": 287157,
+          "image_filename": "4273258.JPG",
+          "classname": "Image",
+          "player": "image",
+          "method": "Show",
+          "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/CUN/65/0727/MC/screen/4273258.JPG",
+          "thumb": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/CUN/65/0727/MC/screen/4273258.JPG",
+          "large": null
+        }
+      ],
+      "accessionNumber": "CUN/65/0727/MC",
+      "currentPage": {
+        "title": "54864 Private Ian Ronald Ramsay, of Perth, WA, 3rd Battalion, The Royal Australian Regiment ...",
+        "subtitle": [
+          "Black & white - Film original negative 120 safety base"
+        ],
+        "uri": "/collection/C398839",
+        "type": "Photograph"
+      },
+      "fromSearch": false
+    },
+    {
+      "id": "C43448",
+      "documentCount": 1,
+      "mediaData": [
+        {
+          "step": 1,
+          "class1": "i",
+          "class": "image",
+          "width": 640,
+          "height": 499,
+          "type": "jpg",
+          "large_size": 0,
+          "title": "BUPO, KOREA, 1950-06. UNITED NATIONS COMMISSION ON KOREA (UNCOK) OBSERVERS, MR CHARLES COATES; ...",
+          "size": 169894,
+          "image_filename": "3885917.JPG",
+          "classname": "Image",
+          "player": "image",
+          "method": "Show",
+          "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/P00716.019/screen/3885917.JPG",
+          "thumb": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/P00716.019/screen/3885917.JPG",
+          "large": null
+        }
+      ],
+      "accessionNumber": "P00716.019",
+      "currentPage": {
+        "title": "BUPO, KOREA, 1950-06. UNITED NATIONS COMMISSION ON KOREA (UNCOK) OBSERVERS, MR CHARLES COATES; ...",
+        "subtitle": [
+          "Black & white"
+        ],
+        "uri": "/collection/C43448",
+        "type": "Photograph"
+      },
+      "fromSearch": false
+    },
+    {
+      "id": "C1006113",
+      "documentCount": 1,
+      "mediaData": [
+        {
+          "step": 1,
+          "class1": "i",
+          "class": "image",
+          "width": 639,
+          "height": 475,
+          "type": "jpg",
+          "large_size": 0,
+          "title": "A street scene showing a portion of the crowd during the riots of March 1919.  Turkish women are ...",
+          "size": 201417,
+          "image_filename": "6040222.JPG",
+          "classname": "Image",
+          "player": "image",
+          "method": "Show",
+          "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/G01867/screen/6040222.JPG",
+          "thumb": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/G01867/screen/6040222.JPG",
+          "large": null
+        }
+      ],
+      "accessionNumber": "G01867",
+      "currentPage": {
+        "title": "A street scene showing a portion of the crowd during the riots of March 1919.  Turkish women are ...",
+        "subtitle": [
+          "Black & white - Glass original half-plate negative"
+        ],
+        "uri": "/collection/C1006113",
+        "type": "Photograph"
+      },
+      "fromSearch": false
+    },
+    {
+      "id": "C40435",
+      "documentCount": 1,
+      "mediaData": [
+        {
+          "step": 1,
+          "class1": "i",
+          "class": "image",
+          "width": 640,
+          "height": 499,
+          "type": "jpg",
+          "large_size": 0,
+          "title": "CANBERRA, ACT WINTER 1941 AERIAL VIEW OF PARLIAMENT HOUSE CANBERRA - CLOSE VIEW.",
+          "size": 282365,
+          "image_filename": "3919753.JPG",
+          "classname": "Image",
+          "player": "image",
+          "method": "Show",
+          "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/P00041.001/screen/3919753.JPG",
+          "thumb": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/P00041.001/screen/3919753.JPG",
+          "large": null
+        }
+      ],
+      "accessionNumber": "P00041.001",
+      "currentPage": {
+        "title": "CANBERRA, ACT WINTER 1941 AERIAL VIEW OF PARLIAMENT HOUSE CANBERRA - CLOSE VIEW.",
+        "subtitle": [
+          "Black & white"
+        ],
+        "uri": "/collection/C40435",
+        "type": "Photograph"
+      },
+      "fromSearch": false
+    },
+    {
+      "id": "C340230",
+      "documentCount": 1,
+      "mediaData": [
+        {
+          "step": 1,
+          "class1": "i",
+          "class": "image",
+          "width": 385,
+          "height": 654,
+          "type": "jpg",
+          "large_size": 0,
+          "title": "Exterior of St Francis Xavier church. This negative features an image of 4 1/4 x 2 1/2 inches in ...",
+          "size": 153192,
+          "image_filename": "4265570.JPG",
+          "classname": "Image",
+          "player": "image",
+          "method": "Show",
+          "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/P02569.083/screen/4265570.JPG",
+          "thumb": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/P02569.083/screen/4265570.JPG",
+          "large": null
+        }
+      ],
+      "accessionNumber": "P02569.083",
+      "currentPage": {
+        "title": "Exterior of St Francis Xavier church. This negative features an image of 4 1/4 x 2 1/2 inches in ...",
+        "subtitle": [
+          "Negative"
+        ],
+        "uri": "/collection/C340230",
+        "type": "Photograph"
+      },
+      "fromSearch": false
+    },
+    {
+      "id": "C1214833",
+      "documentCount": 1,
+      "mediaData": [
+        {
+          "step": 1,
+          "class1": "i",
+          "class": "image",
+          "width": 490,
+          "height": 653,
+          "type": "jpg",
+          "large_size": 0,
+          "title": "38th Parallel sign supporting 2400799 Private (Pte) Bruce Grattan Horgan, 3rd Battalion, The ...",
+          "size": 138200,
+          "image_filename": "3823795.JPG",
+          "classname": "Image",
+          "player": "image",
+          "method": "Show",
+          "url": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/P06251.006/screen/3823795.JPG",
+          "thumb": "https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/P06251.006/screen/3823795.JPG",
+          "large": null
+        }
+      ],
+      "accessionNumber": "P06251.006",
+      "currentPage": {
+        "title": "38th Parallel sign supporting 2400799 Private (Pte) Bruce Grattan Horgan, 3rd Battalion, The ...",
+        "subtitle": [
+          "Black & white - Print silver gelatin"
+        ],
+        "uri": "/collection/C1214833",
+        "type": "Photograph"
+      },
+      "fromSearch": false
+    }
+  ],
+  "ownerEdits": "Added Chinese creator/date/institution metadata; removed repeated entry bibliography from image figures, while retaining every entry source. Tightened prose and removed an inexact five-year interval."
+}

@@ -25,7 +25,7 @@ test('both graphics provide bilingual native keyboard disclosures and visible so
 });
 test('editorial graphics never enter the historical image numerator',()=>{
  const media=readAtlasData('history-media-v18.json'),coverage=readAtlasData('visual-coverage-v18.json');
- assert.ok(KNOWLEDGE_GRAPHICS.every(g=>!media.items.some(a=>a.id===g.recordId)));assert.equal(coverage.assets,450);assert.equal(coverage.covered,839);
+ assert.ok(KNOWLEDGE_GRAPHICS.every(g=>!media.items.some(a=>a.id===g.recordId)));assert.equal(coverage.assets,466);assert.equal(coverage.covered,855);
  const app=fs.readFileSync(new URL('../dist/app.mjs',import.meta.url),'utf8');assert.match(app,/renderKnowledgeGraphic\(r,state.lang,esc\)/);
 });
 test('graphic styles preserve touch targets, contrast patterns and static reduced-motion behavior',()=>{

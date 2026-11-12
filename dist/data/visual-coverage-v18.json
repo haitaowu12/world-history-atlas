@@ -3,9 +3,9 @@
   "reviewedAt": "2026-11-12",
   "baselineManifest": "content-expansion-v17.json",
   "total": 2087,
-  "covered": 839,
-  "assets": 450,
-  "percent": 40.20124580737901,
+  "covered": 855,
+  "assets": 466,
+  "percent": 40.96789650215621,
   "coveredIds": [
     "abbasid-caliphate",
     "abu-simbel-relocation",
@@ -20,11 +20,14 @@
     "asante-confederacy",
     "athens-acropolis",
     "australia-1967-referendum",
+    "australia-federal-polity",
     "australian-federation",
+    "austria-hungary-dual-monarchy",
     "ayyubid-dynasty",
     "bagan",
     "bagan-royal-political-phase",
     "ban-chiang-village-archaeology",
+    "banaba-phosphate-displacement",
     "battle-plassey",
     "bengal-kantha-household-memory",
     "benin-kingdom",
@@ -34,6 +37,7 @@
     "bologna-medieval-student-universities",
     "borobudur",
     "bracero-contracts-oral-histories",
+    "brazil-independent-polity",
     "brewarrina-ngunnhu-engineering",
     "british-factory-act-1833",
     "british-slavery-emancipation",
@@ -578,6 +582,7 @@
     "chola-dynasty",
     "chuquibamba-stars-imperial-tunic",
     "cold-war-world-history",
+    "cordoba-caliphate",
     "coromandel-painted-cotton-workshops",
     "coromandel-textile-work",
     "council-of-nicaea-325",
@@ -585,8 +590,10 @@
     "cuban-missile-crisis-1962",
     "cusco-imperial-city",
     "dahomey-kingdom",
+    "damascus-umayyad-mosque",
     "dawes-allotment",
     "deir-el-medina-workers",
+    "dejima-dutch-trading-post",
     "delhi-sultanate",
     "dholavira",
     "dong-son-bronze-networks",
@@ -599,6 +606,7 @@
     "egypt-middle-kingdom",
     "egypt-new-kingdom",
     "egypt-theban-reunification",
+    "egypt-women-nationalism-1919",
     "encyclopedie-knowledge-workshops",
     "equiano-autobiography-subscription-networks",
     "ethiopia-early-solomonic",
@@ -638,6 +646,7 @@
     "indus-civilization-urban-networks",
     "inka-imperial-tunic-story",
     "ironbridge",
+    "italian-unification",
     "jantar-mantar-jaipur",
     "japan-postwar-constitution",
     "japan-postwar-polity",
@@ -654,6 +663,7 @@
     "kokoda-papuan-labour",
     "konbaung-dynasty",
     "kongo-diplomacy",
+    "korean-division",
     "korean-war-armistice",
     "kuelap-chachapoya-landscape",
     "kushan-networks",
@@ -666,6 +676,8 @@
     "magna-carta",
     "majapahit-clay-domestic-architecture",
     "majapahit-java",
+    "malayan-emergency-social-war",
+    "malaysia-federation-1963",
     "mamluk-sultanate",
     "mangaaka-carver-ritual-law",
     "mapungubwe-hill-kingdom",
@@ -676,6 +688,7 @@
     "mbanza-kongo-christian-court",
     "meiji-restoration",
     "meketre-bakery-brewery-model",
+    "melaka",
     "memphis-pyramids",
     "meroe-kush",
     "merovingian-dynasty",
@@ -707,6 +720,7 @@
     "ottonian-dynasty",
     "pala-dynasty",
     "palenque-pakal-building",
+    "palermo-norman-cultural-exchange",
     "palestine-partition-war-1947-1949",
     "palmyra-oasis-city",
     "panama-canal-labour",
@@ -788,6 +802,7 @@
     "roman-republic",
     "rome-imperial-city",
     "royal-society-experiments",
+    "russian-serf-emancipation",
     "safavid-iran",
     "samanid-dynasty",
     "samarra",
@@ -825,6 +840,7 @@
     "treaty-waitangi",
     "tui-tonga-maritime-polity",
     "tuskegee-mobile-agricultural-education",
+    "umayyad-caliphate",
     "un-charter",
     "united-states-polity",
     "ur-third-dynasty",
@@ -870,19 +886,16 @@
     "early-islam",
     "tang-dynasty",
     "srivijaya-maritime",
-    "umayyad-caliphate",
     "cahokia",
     "ghana-wagadu",
     "chaco",
     "quanzhou",
-    "cordoba-caliphate",
     "ly-dynasty",
     "mali-empire",
     "samarkand",
     "taputapuatea",
     "ayutthaya-kingdom",
     "joseon-kingdom",
-    "melaka",
     "qhapaq-nan",
     "songhai-empire",
     "himeji",
@@ -948,12 +961,10 @@
     "iran-constitutional-movement",
     "peace-westphalia",
     "congress-vienna",
-    "italian-unification",
     "poland-restoration",
     "india-constitution",
     "ceylon-independence",
     "nepal-republic",
-    "korean-division",
     "treaty-shimonoseki",
     "hangul-promulgation",
     "asean-foundation",
@@ -988,7 +999,6 @@
     "nineveh-scribal-library",
     "cyrus-babylon-cylinder",
     "bisotun-royal-inscription",
-    "damascus-umayyad-mosque",
     "samarkand-observatory",
     "isfahan-royal-square",
     "gulhane-reform-edict",
@@ -1006,7 +1016,6 @@
     "gondar-permanent-capital",
     "aachen-palatine-chapel",
     "domesday-survey",
-    "palermo-norman-cultural-exchange",
     "lubeck-hanseatic-trade",
     "lanse-aux-meadows-woodworking",
     "mesa-verde-cliff-villages",
@@ -1055,7 +1064,6 @@
     "canada-polity",
     "india-independent-polity",
     "ghana-independent-polity",
-    "brazil-independent-polity",
     "soviet-union-polity",
     "prc-political-period",
     "france-fifth-republic",
@@ -1107,7 +1115,6 @@
     "nara-court-government",
     "tokugawa-shogunate-political-order",
     "nagasaki-1635-edict",
-    "dejima-dutch-trading-post",
     "ryukyu-maritime-court",
     "ainu-language-cultural-continuity",
     "orkhon-monasteries-pastoral-society",
@@ -1131,12 +1138,10 @@
     "malay-annals-court-memory",
     "aceh-sultanahs-political-interpretation",
     "brunei-independence-1984",
-    "malayan-emergency-social-war",
     "laos-bombing-uxo-legacy",
     "indonesia-1965-mass-killings",
     "cambodia-paris-settlement-1991",
     "vietnam-doi-moi-reform",
-    "malaysia-federation-1963",
     "philippines-edsa-people-power",
     "java-cultivation-system",
     "myanmar-textiles-material-history",
@@ -1241,11 +1246,9 @@
     "bastion-point-occupation",
     "french-polynesia-nuclear-testing",
     "kanak-revolt-land-1878",
-    "australia-federal-polity",
     "new-zealand-constitutional-polity",
     "kalmar-union",
     "polish-lithuanian-commonwealth",
-    "austria-hungary-dual-monarchy",
     "hedeby-viking-trading-town",
     "santiago-medieval-pilgrimage-infrastructure",
     "huguenot-refugee-settlement",
@@ -1268,7 +1271,6 @@
     "galle-trilingual-inscription",
     "melaka-ming-voyage-depot",
     "cairo-geniza-everyday-documents",
-    "egypt-women-nationalism-1919",
     "south-africa-land-act-1913",
     "south-africa-womens-march-1956",
     "sophiatown-forced-removals-1955",
@@ -1292,7 +1294,6 @@
     "taquile-textile-transmission",
     "maori-language-revival",
     "samoa-influenza-1918",
-    "banaba-phosphate-displacement",
     "aboriginal-day-of-mourning",
     "uluru-handback",
     "waitangi-tribunal-development",
@@ -1306,7 +1307,6 @@
     "malolos-constitutional-congress",
     "indonesian-youth-pledge",
     "athenian-assembly-citizenship",
-    "russian-serf-emancipation",
     "british-women-franchise-1918-1928",
     "bletchley-codebreaking-network",
     "first-fram-expedition",
@@ -2099,23 +2099,23 @@
   ],
   "target": 1044,
   "targetMet": false,
-  "remaining": 205,
+  "remaining": 189,
   "regions": {
     "africa": {
       "total": 136,
-      "covered": 41
+      "covered": 42
     },
     "east-asia": {
       "total": 1216,
-      "covered": 547
+      "covered": 549
     },
     "europe": {
       "total": 122,
-      "covered": 65
+      "covered": 70
     },
     "latin-america": {
       "total": 94,
-      "covered": 31
+      "covered": 32
     },
     "north-america": {
       "total": 123,
@@ -2123,7 +2123,7 @@
     },
     "oceania": {
       "total": 89,
-      "covered": 21
+      "covered": 23
     },
     "south-asia": {
       "total": 95,
@@ -2131,11 +2131,11 @@
     },
     "southeast-asia": {
       "total": 101,
-      "covered": 25
+      "covered": 28
     },
     "west-central-asia": {
       "total": 111,
-      "covered": 30
+      "covered": 32
     }
   },
   "types": {
@@ -2143,7 +2143,7 @@
     "ancient-royal-image": 2,
     "document-facsimile": 29,
     "historical-artwork": 71,
-    "historical-photograph": 57,
+    "historical-photograph": 73,
     "historical-portrait": 29,
     "later-depiction": 67,
     "lifetime-portrait": 18,
@@ -2213,6 +2213,13 @@
       "bytes": 13401,
       "sha256": "cd20798265c7691782ab92edd062409c138a7d4042038ab9e9769fbb16d96cdd",
       "assets": 5,
+      "associations": 0
+    },
+    {
+      "file": "visual-assets-awm-images-02-v18.json",
+      "bytes": 27338,
+      "sha256": "9a264461dc71855ef9fb57375cb1e4f6ba892e4783cb2083c51f609545f2fc22",
+      "assets": 8,
       "associations": 0
     },
     {
@@ -2419,6 +2426,13 @@
       "associations": 9
     },
     {
+      "file": "visual-assets-getty-images-06-v18.json",
+      "bytes": 29399,
+      "sha256": "7910437acc1f1fc63615d649105caf6c759f157916ef54dee8c6f0d1b79a5e38",
+      "assets": 8,
+      "associations": 0
+    },
+    {
       "file": "visual-assets-oceania-images-01-v18.json",
       "bytes": 7274,
       "sha256": "25f90d019ac0341e89c990f97986940725cc9761408bdab836621671f84a5440",
@@ -2552,6 +2566,6 @@
       "associations": 1
     }
   ],
-  "assetBytes": 87297027,
+  "assetBytes": 91824993,
   "verification": "All admitted files match their SHA-256, byte count and encoded dimensions. Source identity, reuse rights, pixel review and entry relevance require the individual editorial records; structural validation does not establish those facts."
 }
