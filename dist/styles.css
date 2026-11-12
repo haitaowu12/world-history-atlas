@@ -215,3 +215,15 @@ dialog{border:1px solid #bcc8b7;border-radius:9px;background:var(--panel);color:
 .image-time-layers details>p{margin:10px 0 0;font-size:13px;line-height:1.7}
 .image-time-layers summary:focus-visible{outline:2px solid #315a45;outline-offset:4px;border-radius:2px}
 @media(max-width:500px){.image-time-layers{padding:12px}.image-time-layers li{padding-left:16px}}
+
+/* Source-grounded editorial graphics, separate from the historical image catalogue. */
+.knowledge-graphic{margin:22px 0;padding:18px;border:1px solid #c6d0c2;border-radius:12px;background:#f2f5eb;color:#243d34;overflow-wrap:anywhere}
+.knowledge-badge{font-size:.72rem;letter-spacing:.07em;text-transform:uppercase;color:#5c6659;margin:0 0 8px}
+.knowledge-graphic h3{font-size:1.18rem;line-height:1.35;margin:0 0 10px}.knowledge-graphic>p{line-height:1.65}
+.knowledge-figure{margin:20px 0}.genome-grid{display:grid;grid-template-columns:repeat(20,minmax(0,1fr));gap:3px}.genome-grid span{aspect-ratio:1;min-width:0;border-radius:2px;border:1px solid #3f6a55}.genome-covered{background:#3f6a55}.genome-gap{background:repeating-linear-gradient(135deg,#f7f5e9,#f7f5e9 3px,#b49a5b 3px,#b49a5b 4px)}
+.knowledge-figure figcaption{display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px;font-size:.85rem;padding-top:8px}.knowledge-scale{font-size:.76rem;color:#5d655b;line-height:1.5;margin:9px 0}
+.knowledge-questions details{border-top:1px solid #c6d0c2}.knowledge-questions summary{cursor:pointer;min-height:44px;padding:12px 0;line-height:1.45;overflow-wrap:anywhere}.knowledge-questions summary:focus-visible{outline:2px solid #345e48;outline-offset:3px}.knowledge-questions details p{margin:0 0 16px;line-height:1.7}.knowledge-source{display:inline-block;margin-top:12px;font-size:.82rem}
+.assembly-status{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:18px}.assembly-eligible,.assembly-excluded{border:1px solid #6d8370;border-radius:8px;padding:12px;display:grid;gap:6px;font-size:.86rem}.assembly-eligible{background:#dce8d6}.assembly-excluded{background:#ede6d5;border-style:dashed!important}.assembly-route{display:grid;justify-items:center;text-align:center;gap:8px;border-left:2px solid #81957d;margin:0 0 0 14px;padding:7px 0 13px 14px;font-size:.85rem}.assembly-route>strong{border:1px solid #b7c4af;padding:9px 12px;border-radius:6px;background:#fbfcf6}.assembly-route>span[aria-hidden]{font-size:1.5rem;line-height:1}.assembly-schematic{margin-bottom:18px}
+@media(max-width:420px){.knowledge-graphic{padding:14px}.genome-grid{gap:2px}.assembly-status{gap:8px}.assembly-eligible,.assembly-excluded{padding:9px;font-size:.8rem}}
+
+.assembly-status{align-items:start}.assembly-eligible{display:grid;gap:6px}.assembly-route{margin-left:8px;padding-left:8px}.knowledge-genome:has(.knowledge-questions details:nth-child(2)[open]) .genome-gap{outline:2px solid #81652a;outline-offset:1px}.knowledge-assembly:has(.knowledge-questions details:nth-child(2)[open]) .assembly-route{border-left-color:#264c37;border-left-width:4px}

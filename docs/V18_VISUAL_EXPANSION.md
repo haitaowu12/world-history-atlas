@@ -370,3 +370,13 @@ An eleventh image-date sequence separates Japan's 1946 promulgation celebration 
 Coverage is **436 images / 822 of 2,087 unique entries (39.39%)**, leaving **222** entries for the half-entry target. The preceding saved checkpoint is `d1a9a525d061da325d4ee14196de274389be0293`, exact tree `9e6c729898eb380942e187b47ce1b6178323a572`, and a full-history local bundle was verified. No main change or publication is claimed.
 
 Final validation: **463 checks passed**, zero failures or skips. All **423 previous images and 670 associations** remain exactly unchanged. The preservation comparison initially exceeded a command-output buffer; rerunning it with a non-truncating reader passed. No checks or thresholds were weakened. No GitHub Actions were run.
+
+### Reconstruction checkpoint 33
+
+Two original explanatory graphics now accompany the Human Genome Project and Athenian assembly entries. A hundred-cell grid contrasts approximately 92% sequence coverage with the remaining gaps, while a separate disclosure explains why reference diversity is a different question. The assembly's diagram gives eligible citizens their own path toward attendance and deliberation; excluded groups remain outside it. Category sizes do not imply population shares. Both graphics are explicitly modern explanations with freshly inspected institutional sources, not historical artifacts or reconstructed likenesses.
+
+Native keyboard disclosures reveal the distinctions; opening the gap explanation outlines the hatched cells, and the attendance explanation emphasizes its path. Labels, source links and full textual equivalents work in English and Chinese. There is no animation, so reduced-motion preferences require no special simulation. These graphics are tracked separately from the historical-image numerator: **436 images / 822 of 2,087 entries** remains unchanged, with **222** still needed for the half-entry image target.
+
+Final validation: **469 checks passed**, zero failures or skips. Chrome checked the 92/8 cell count, native keyboard opening, translated text, gap highlighting and the separated participation path. English genome and Chinese assembly screenshots are legible at the existing 500-pixel viewport, with no horizontal page overflow. The first screenshot exposed cached older styling; the stylesheet version was incremented and the correct grid and styled path were then verified after reload.
+
+Checkpoint 32 is remotely saved as `100b2613a946ccc2c57dc06a258ec4c0d81390b6`, exact tree `2f71d175b0f9cfbdb7230b0024963b7cd84f3a63`, matching local `ee6e3d1`. Ref, tree and zero Actions runs were read back. Its complete-history bundle also verified. Main and publication remain unchanged.

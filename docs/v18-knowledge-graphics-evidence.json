@@ -1,0 +1,10 @@
+{
+ "reviewedAt":"2026-11-12",
+ "classification":"Original modern explanatory graphics, not historical image evidence",
+ "coverageTreatment":"Two entry graphics tracked separately; neither changes historical image coverage.",
+ "items":[
+  {"recordId":"human-genome-project-completion","sourceUrl":"https://www.genome.gov/about-genomics/educational-resources/fact-sheets/human-genome-project","retrieval":"Fresh full web text, 12 November 2026; page last updated 13 June 2024.","claims":["The 2003 sequence covered about 92% of the genome; complex or repetitive regions presented technical gaps.","The reference combined a limited donor group; sequence completeness and representation of human variation are different questions."],"design":"A 100-cell grid shows an approximate 92/8 division. Hatched missing cells are not genomic coordinates or ancestry percentages. Native disclosures explain project completion, gaps and reference diversity."},
+  {"recordId":"athenian-assembly-citizenship","sourceUrl":"https://www.ime.gr/chronos/05/en/politics/321assembly.html","retrieval":"Fresh full web text, 12 November 2026.","claims":["Adult male citizens required full civic rights; women, resident foreigners and enslaved people were excluded.","The 451 BCE rule required citizen parents; certain offences could remove rights.","Campaign service and distance from the city could prevent attendance; assembly powers included war, peace and alliances."],"design":"Equal-size category areas are not population shares. The meeting path starts only under the eligible category. No probability or exhaustive citizenship algorithm. The source's post-404 meeting pay is excluded from this selected focus."}
+ ],
+ "accessibility":"All substantive statements are HTML text. The cell grid is decorative to screen readers; visible caption states its quantity. Native details/summary works by keyboard without custom handlers. No animation; hatching supplements color. Source links remain visible."
+}
