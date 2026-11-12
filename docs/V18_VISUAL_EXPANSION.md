@@ -392,3 +392,13 @@ Coverage is **442 historical images / 831 of 2,087 unique entries (39.82%)**, wi
 Final validation: **473 checks passed**, zero failures or skips. Chrome verified every new image's decoded dimensions and English/Chinese descriptions and credits, all nine entry connections, keyboard image zoom to 125%, the 442-image/831-entry gallery count, and no horizontal overflow at the existing 485-pixel content width. No publication or Actions run is claimed.
 
 Checkpoint 33 is remotely saved as `543f86ed63b9431a5d06ada513807d08c1ff6c98`, exact tree `4374dff11cb9c451e185bd23a038836b3f8f5cb7`, matching local `a35a897`; the ref, tree and zero Actions runs were verified.
+
+## Checkpoint 35: clearer bilingual reader summaries
+
+Forty additional summaries remove repeated map-display commentary, entry-purpose explanations and generic concluding lessons. All original historical fields and 82 source entries remain unchanged. Full before/after text and original records are preserved in `docs/v18-summary-edit-06-evidence.json`. The overlay now contains 151 bilingual edits.
+
+The pass removes 6,069 characters (11.6% of these summaries), while retaining specific uncertainty, Indigenous authority, coercion, displacement, ongoing cultures and distinct political dates. Wairau wording was revised in owner review to avoid a new causal claim about research and repatriation. This is editorial review, not refreshed source verification.
+
+`npm run build:visuals` and all 474 checks pass. Wairau, Japan’s constitution and Kokoda render correctly in both languages in Chrome, including relevant source and image sections. The Chinese Kokoda story was visually checked in the narrow viewport.
+
+Historical image coverage remains 442 images across 831 of 2,087 entries (39.8%); the two original teaching graphics are separate. The 50% target still requires 213 additional illustrated entries. This checkpoint is not a release. Main and live remain unchanged; no GitHub Actions.
