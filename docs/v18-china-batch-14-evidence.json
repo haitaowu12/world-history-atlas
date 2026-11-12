@@ -1,0 +1,230 @@
+{
+  "reviewedAt": "2026-11-12",
+  "items": [
+    {
+      "assetId": "china-batch-14-shi-kefa-memorial-portrait",
+      "catalogId": 30202,
+      "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/30202?dep=P",
+      "sourceSha256": "fb2397a437c6f1800776be868cab382cfec7bab0dce91f8912029899bc6cdb08",
+      "sourceText": "30202-source.txt",
+      "manifest": "30202-iiif.json",
+      "downloadReceipt": "30202-PAA-receipt.json",
+      "credit": "清李世倬史忠正公贊像 卷。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+      "rightsQuote": "中階圖像與文字均無須申請、不限用途、不用付費即可公開使用，請於適當位置呈現姓名標示。",
+      "pixelReviewed": true,
+      "review": "Individually inspected source-served 1800 x 1347 PAA panel: visible black hat, red robe, crane badge, title 史忠正公讚像 and 李世倬敬摹 signature. No modern reenactment, generated content or scene mismatch. Mount and calibration strip retained.",
+      "targetEvidence": [
+        {
+          "record": {
+            "id": "china-landmark-111",
+            "title": {
+              "en": "Ming loyalist Shi Kefa defends Yangzhou to the death against Qing forces",
+              "zh": "史可法率孤军死守扬州抗击清军，城破殉国"
+            },
+            "start": 1645,
+            "end": 1645,
+            "location": {
+              "lon": 119.41,
+              "lat": 32.39,
+              "label": "Yangzhou",
+              "labelI18n": {
+                "en": "Yangzhou",
+                "zh": "扬州"
+              },
+              "labelProvenance": "inherited-source-place-pair"
+            },
+            "region": "east-asia",
+            "theme": "states",
+            "kind": "event",
+            "importance": 1,
+            "summary": {
+              "en": "Ming loyalist Shi Kefa defends Yangzhou to the death against Qing forces",
+              "zh": "史可法率孤军死守扬州抗击清军，城破殉国"
+            },
+            "dateNote": {
+              "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+              "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+            },
+            "locationPrecision": "representative",
+            "sources": [
+              {
+                "title": "Chronicles of the Realm — js/lore_data.js (frozen source dataset)",
+                "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/lore_data.js",
+                "publisher": "DeanChensj / Chronicles of the Realm",
+                "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+                "checkedAt": "2026-10-23"
+              }
+            ],
+            "aliases": [
+              "扬州",
+              "Yangzhou"
+            ],
+            "provenance": {
+              "dataset": "jiangshan",
+              "status": "inherited",
+              "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+              "periodId": "qing",
+              "periodIds": [
+                "qing"
+              ],
+              "sourceRecords": [
+                {
+                  "file": "js/lore_data.js",
+                  "path": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/110",
+                  "index": 110
+                }
+              ],
+              "note": {
+                "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+                "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+              }
+            },
+            "relatedIds": [
+              "qing-dynasty"
+            ]
+          },
+          "previouslyCovered": false,
+          "review": "Full assembled bilingual record read. Defense and death after city fell supported by the Palace Museum; inherited solitary-army phrasing is rhetorical, not a verified troop count. No new quantified or heroic claims added.",
+          "connection": {
+            "en": "This later likeness commemorates the named defender of Yangzhou in 1645. The same scroll includes a family letter describing the siege, but the selected image is the portrait section. Neither the portrait nor its laudatory title is an eyewitness record of the fighting.",
+            "zh": "这幅后世肖像纪念1645年扬州守将史可法。同卷还收有描述围城的家书，但所选图像是肖像部分。画面及其颂扬性题名均非战斗现场实录。"
+          }
+        }
+      ],
+      "publicationCopy": {
+        "id": "china-batch-14-shi-kefa-memorial-portrait",
+        "file": "assets/history-media/china-batch-14-shi-kefa-memorial-portrait.jpg",
+        "recordIds": [
+          "china-landmark-111"
+        ],
+        "title": {
+          "en": "Shi Kefa remembered after the fall of Yangzhou",
+          "zh": "扬州城破之后的史可法纪念像"
+        },
+        "alt": {
+          "en": "A bearded official wears a black court hat and red robe with a crane rank badge; an inscription names Shi Zhongzheng and the painter Li Shizhuo.",
+          "zh": "一位蓄须官员戴黑色官帽，穿饰仙鹤补子的红袍；题字标明史忠正公与画家李世倬。"
+        },
+        "caption": {
+          "en": "Portrait of Shi Kefa by Li Shizhuo, catalogued as a Qing-dynasty work. The painter signs it as a respectful copy. Its date is not specified by the museum; 1645 dates the Yangzhou defense and Shi’s death, not this painting. The scroll also carries later inscriptions, including one dated 1779.",
+          "zh": "李世倬所绘史可法像，馆方归于清代，作者署“敬摹”。馆方未给出画幅的确切创作年；1645年是扬州守城与史氏去世的年份，并非此画年代。同卷还有后世题跋，包括1779年的一则。"
+        },
+        "interpretation": {
+          "en": "This later likeness commemorates the named defender of Yangzhou in 1645. The same scroll includes a family letter describing the siege, but the selected image is the portrait section. Neither the portrait nor its laudatory title is an eyewitness record of the fighting.",
+          "zh": "这幅后世肖像纪念1645年扬州守将史可法。同卷还收有描述围城的家书，但所选图像是肖像部分。画面及其颂扬性题名均非战斗现场实录。"
+        },
+        "creator": "Li Shizhuo (李世倬), signing as a respectful copyist",
+        "date": "Qing dynasty; portrait undated; commemorates Shi Kefa (died 1645)",
+        "institution": "National Palace Museum, Taipei; 贈畫000724N000000000",
+        "kind": "portrait",
+        "representation": "later-depiction",
+        "checkedAt": "2026-11-11",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/30202?dep=P",
+        "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/A2A%2FA2A000724N000000000PAA/full/!1800,1800/0/default.jpg",
+        "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/A2A%2FA2A000724N000000000PAA/full/!1800,1800/0/default.jpg",
+        "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/30202?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "清李世倬史忠正公贊像 卷。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "清李世倬史忠正公贊像 卷。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "width": 1800,
+        "height": 1347,
+        "bytes": 417805,
+        "sha256": "09167a5096f2e2690e3f050df3458d80a984e7b2da11aa357ac01f7e81f19795",
+        "format": "jpeg",
+        "transformation": {
+          "en": "Official IIIF derivative saved unchanged at 1800 pixels wide. The museum’s selected portrait panel, mount and calibration strip are retained; no local crop or retouching.",
+          "zh": "馆方IIIF提供的1800像素宽图像原样保存，保留来源肖像画幅、装裱及校色条；未作本地裁切或修饰。"
+        },
+        "retrieval": "Official catalog HTML/text, IIIF manifest, exact derivative receipt and individual pixel review preserved in China batch 14.",
+        "contextSources": [
+          {
+            "title": {
+              "en": "Shi Kefa",
+              "zh": "史可法"
+            },
+            "publisher": "The Palace Museum, Beijing",
+            "url": "https://www.dpm.org.cn/lemmas/243674.html",
+            "checkedAt": "2026-11-11",
+            "evidenceNote": "Identifies Shi as defender of Yangzhou and records his killing after the city fell; death year 1645."
+          }
+        ],
+        "metadataI18n": {
+          "creator": {
+            "en": "Li Shizhuo (李世倬), signing as a respectful copyist",
+            "zh": "李世倬，署“敬摹”"
+          },
+          "date": {
+            "en": "Qing dynasty; portrait undated; commemorates Shi Kefa (died 1645)",
+            "zh": "清代；肖像未纪年，纪念1645年去世的史可法"
+          },
+          "institution": {
+            "en": "National Palace Museum, Taipei; 贈畫000724N000000000",
+            "zh": "国立故宫博物院，台北；贈畫000724N000000000"
+          }
+        }
+      }
+    }
+  ],
+  "holds": [
+    {
+      "catalogId": 30202,
+      "status": "accepted",
+      "target": "china-landmark-111"
+    },
+    {
+      "catalogId": 22580,
+      "status": "held-unrelated-text",
+      "target": "china-event-beisong-008",
+      "reason": "Poem attributed to Qian Chu in a Song rubbing does not document978 submission. Avoid author-name-only coverage and inherited Chinese blanket peaceful-unification framing.",
+      "pixelFinding": "Initial manifest image is another author’s album leaf, not the Qian Chu leaf; no alternate leaf fetched because event relevance already fails."
+    },
+    {
+      "catalogId": 29225,
+      "status": "held-unrelated-letter",
+      "target": "china-event-qing-043",
+      "reason": "Liu Mingchuan military/social letter does not discuss Taiwan provincial administration. No exact date; cannot resolve1885/1887 provincial chronology."
+    },
+    {
+      "catalogId": 27973,
+      "status": "held-unrelated-couplet",
+      "target": "china-event-qing-041",
+      "reason": "Zeng Jize couplet does not document1881 Ili treaty, treaty terms or signing location."
+    },
+    {
+      "catalogId": 19388,
+      "status": "not-fetched",
+      "reason": "Similar Zhang Juzheng inscription lead does not address biography fiscal focus; respects prior3175 relevance hold."
+    },
+    {
+      "catalogIds": [
+        4358,
+        3637,
+        5246,
+        17073,
+        2973,
+        5753
+      ],
+      "status": "prior-holds-respected",
+      "reason": "No requests to prior restricted, timed-out, empty-IIIF or unresolved-date items."
+    }
+  ],
+  "chronologyNotes": [
+    {
+      "recordId": "china-landmark-111",
+      "status": "no-required-factual-correction",
+      "finding": "Core 1645 Yangzhou defense and death supported by Palace Museum. Do not derive precise death circumstances or troop totals from this portrait.",
+      "source": "https://www.dpm.org.cn/lemmas/243674.html"
+    },
+    {
+      "catalogId": 30202,
+      "status": "catalog-chronology-caution",
+      "finding": "Do not use text date 1644 as painting date. Transcribed colophon has sexagenary/conversion inconsistencies (壬辰 labelled1773; 道光十年 labelled1836 while full text says十六年). Caption cites only unambiguous1779 colophon and undated Qing portrait; no target correction based on inconsistent conversions."
+    }
+  ],
+  "ownerReview": "Portrait panel individually viewed; title, painter signature, crane badge and retained calibration strip verified. Painting remains undated Qing, not the event date1645 or text date1644. Unrelated personal calligraphy excluded."
+}

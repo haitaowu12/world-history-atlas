@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "reviewedAt": "2026-11-11",
+  "reviewedAt": "2026-11-12",
   "baselineManifest": "content-expansion-v17.json",
   "total": 2087,
-  "covered": 800,
-  "assets": 414,
-  "percent": 38.33253473885961,
+  "covered": 809,
+  "assets": 423,
+  "percent": 38.76377575467178,
   "coveredIds": [
     "abbasid-caliphate",
     "achaemenid-empire",
@@ -28,6 +28,7 @@
     "benin-kingdom",
     "bijapur-adilshahi",
     "black-death",
+    "bologna-medieval-student-universities",
     "borobudur",
     "brewarrina-ngunnhu-engineering",
     "british-factory-act-1833",
@@ -40,6 +41,7 @@
     "caral",
     "caribbean-sugar-labor",
     "carolingian-dynasty",
+    "castile-aragon-dynastic-union",
     "chankillo-solar-calendar",
     "charlemagne-coronation",
     "chavin-ritual-center",
@@ -236,6 +238,7 @@
     "china-landmark-101",
     "china-landmark-107",
     "china-landmark-109",
+    "china-landmark-111",
     "china-landmark-114",
     "china-landmark-117",
     "china-landmark-119",
@@ -571,6 +574,7 @@
     "coromandel-painted-cotton-workshops",
     "coromandel-textile-work",
     "crown-rule-india",
+    "cuban-missile-crisis-1962",
     "cusco-imperial-city",
     "dahomey-kingdom",
     "dawes-allotment",
@@ -593,6 +597,7 @@
     "fatehpur-sikri-court",
     "fatimid-caliphate",
     "first-world-war",
+    "florence-renaissance",
     "fort-laramie-treaty-1868",
     "french-revolution",
     "galileo-telescope",
@@ -622,6 +627,7 @@
     "inka-imperial-tunic-story",
     "ironbridge",
     "jantar-mantar-jaipur",
+    "japanese-american-incarceration",
     "joya-ceren-households",
     "justinian-law-compilation",
     "kamakura-shogunate",
@@ -631,6 +637,7 @@
     "khmer-angkor-political-phase",
     "kilwa",
     "kongo-diplomacy",
+    "korean-war-armistice",
     "kuelap-chachapoya-landscape",
     "kushan-networks",
     "kyivan-rus-christian-phase",
@@ -687,6 +694,7 @@
     "paris-commune-1871",
     "parthian-empire",
     "patan-stepwell-water",
+    "paul-corinth-letters-50s",
     "pekalongan-batik-workshops",
     "persepolis",
     "persepolis-ration-records-travel",
@@ -785,6 +793,7 @@
     "tonga-constitution",
     "transatlantic-slave-trade-1514-1866",
     "transcontinental-railroad",
+    "treaty-guadalupe-hidalgo",
     "treaty-waitangi",
     "tui-tonga-maritime-polity",
     "tuskegee-mobile-agricultural-education",
@@ -844,7 +853,6 @@
     "taputapuatea",
     "ayutthaya-kingdom",
     "joseon-kingdom",
-    "florence-renaissance",
     "melaka",
     "qhapaq-nan",
     "songhai-empire",
@@ -919,7 +927,6 @@
     "ceylon-independence",
     "nepal-republic",
     "korean-division",
-    "korean-war-armistice",
     "treaty-shimonoseki",
     "hangul-promulgation",
     "asean-foundation",
@@ -930,7 +937,6 @@
     "great-peace-montreal",
     "brazil-independence",
     "gran-colombia",
-    "treaty-guadalupe-hidalgo",
     "panama-independence",
     "paraguay-independence",
     "hawaiian-unification",
@@ -1176,7 +1182,6 @@
     "virginia-racial-slavery",
     "new-france-fur-alliance",
     "metacom-war-survival",
-    "japanese-american-incarceration",
     "winnipeg-general-strike",
     "quebec-quiet-revolution",
     "canadian-constitution-1982",
@@ -1228,9 +1233,7 @@
     "polish-lithuanian-commonwealth",
     "habsburg-composite-monarchy",
     "austria-hungary-dual-monarchy",
-    "castile-aragon-dynastic-union",
     "hedeby-viking-trading-town",
-    "bologna-medieval-student-universities",
     "santiago-medieval-pilgrimage-infrastructure",
     "huguenot-refugee-settlement",
     "liverpool-slavery-port-infrastructure",
@@ -1336,7 +1339,6 @@
     "vietnam-war-1954-1975",
     "tet-offensive-1968",
     "paris-vietnam-agreement-1973",
-    "cuban-missile-crisis-1962",
     "columbian-exchange-1492-1800",
     "bantu-language-early-dispersal",
     "austronesian-early-expansions",
@@ -1351,7 +1353,6 @@
     "jerusalem-second-temple-destruction-70",
     "rabbinic-judaism-after-70",
     "early-christianity-jewish-context",
-    "paul-corinth-letters-50s",
     "christian-jewish-communities-late-antiquity",
     "council-of-nicaea-325",
     "milan-toleration-313",
@@ -2000,7 +2001,6 @@
     "china-landmark-071",
     "china-landmark-131",
     "china-event-qing-002",
-    "china-landmark-111",
     "china-landmark-450",
     "china-landmark-154",
     "china-landmark-421",
@@ -2099,7 +2099,7 @@
   ],
   "target": 1044,
   "targetMet": false,
-  "remaining": 244,
+  "remaining": 235,
   "regions": {
     "africa": {
       "total": 136,
@@ -2107,19 +2107,19 @@
     },
     "east-asia": {
       "total": 1216,
-      "covered": 542
+      "covered": 544
     },
     "europe": {
       "total": 122,
-      "covered": 51
+      "covered": 55
     },
     "latin-america": {
       "total": 94,
-      "covered": 29
+      "covered": 31
     },
     "north-america": {
       "total": 123,
-      "covered": 32
+      "covered": 33
     },
     "oceania": {
       "total": 89,
@@ -2141,14 +2141,14 @@
   "types": {
     "ancient-portrait": 2,
     "ancient-royal-image": 2,
-    "document-facsimile": 24,
-    "historical-artwork": 69,
-    "historical-photograph": 37,
+    "document-facsimile": 26,
+    "historical-artwork": 71,
+    "historical-photograph": 38,
     "historical-portrait": 29,
-    "later-depiction": 66,
+    "later-depiction": 67,
     "lifetime-portrait": 18,
-    "manuscript-detail": 32,
-    "object-photograph": 83,
+    "manuscript-detail": 34,
+    "object-photograph": 84,
     "site-photograph": 52
   },
   "shards": [
@@ -2286,6 +2286,13 @@
       "associations": 0
     },
     {
+      "file": "visual-assets-china-batch-14-v18.json",
+      "bytes": 5549,
+      "sha256": "901ea90f35bcec255adb827da08fcc36bca4d7d54fdc8583760b28719cfee101",
+      "assets": 1,
+      "associations": 1
+    },
+    {
       "file": "visual-assets-china-culture-12-v18.json",
       "bytes": 6380,
       "sha256": "8942e95070785094e0566cde1bff0cc43be319f3e226dc92ee932039d3d42775",
@@ -2391,10 +2398,24 @@
       "associations": 4
     },
     {
+      "file": "visual-assets-getty-images-03-v18.json",
+      "bytes": 18932,
+      "sha256": "bead3924f7121b6274684b54ba5d52e94b02cebc4b6fd93b06e2c803470b53d1",
+      "assets": 4,
+      "associations": 4
+    },
+    {
       "file": "visual-assets-oceania-images-01-v18.json",
       "bytes": 7274,
       "sha256": "25f90d019ac0341e89c990f97986940725cc9761408bdab836621671f84a5440",
       "assets": 2,
+      "associations": 0
+    },
+    {
+      "file": "visual-assets-us-archives-02-v18.json",
+      "bytes": 13704,
+      "sha256": "5b078427c4692e61b8a90cf3448abe164ae45786f0636351b3301ba92f00d107",
+      "assets": 4,
       "associations": 0
     },
     {
@@ -2496,6 +2517,6 @@
       "associations": 1
     }
   ],
-  "assetBytes": 79718065,
+  "assetBytes": 82294800,
   "verification": "All admitted files match their SHA-256, byte count and encoded dimensions. Source identity, reuse rights, pixel review and entry relevance require the individual editorial records; structural validation does not establish those facts."
 }

@@ -7,13 +7,13 @@ import {loadAtlasRecords,readAtlasData} from '../scripts/lib/atlas-records.mjs';
 const {manifest,records}=loadAtlasRecords(),catalog=readAtlasData(manifest.mediaFile);
 const escape=v=>String(v).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 
-test('seven date sequences refer only to admitted objects with unchanged source dates',()=>{
- assert.equal(IMAGE_TIME_LAYERS.length,7);
- assert.equal(new Set(IMAGE_TIME_LAYERS.map(row=>row.assetId)).size,7);
+test('ten date sequences refer only to admitted objects with unchanged source dates',()=>{
+ assert.equal(IMAGE_TIME_LAYERS.length,10);
+ assert.equal(new Set(IMAGE_TIME_LAYERS.map(row=>row.assetId)).size,10);
  for(const sequence of IMAGE_TIME_LAYERS){
   const item=catalog.items.find(item=>item.id===sequence.assetId);
   assert.ok(item);assert.equal(item.date,sequence.expectedDate);assert.equal(imageTimeLayers(item),sequence);
-  assert.equal(sequence.stages.length,2);
+  assert.equal(sequence.stages.length,sequence.assetId==='world-batch-16-christine'?3:2);
   for(const lang of ['en','zh']){assert.ok(sequence.question[lang]);for(const stage of sequence.stages)for(const key of ['date','title','note'])assert.ok(stage[key][lang].trim());}
  }
 });
@@ -63,4 +63,12 @@ test('date-layer styling keeps text wrapping and visible keyboard focus without 
  assert.match(css,/\.image-time-layers summary:focus-visible\{[^}]*outline:2px/);
  const fragment=css.slice(css.indexOf('/* Dates belong to an object'));
  assert.doesNotMatch(fragment,/animation:|transition:/);
+});
+
+test('Getty date layers preserve composition, copying and later reception as separate stages',()=>{
+ const by=new Map(IMAGE_TIME_LAYERS.map(x=>[x.assetId,x]));
+ const christine=by.get('world-batch-16-christine');assert.equal(christine.stages.length,3);
+ assert.match(christine.stages[0].date.en,/About 1404–1405/);assert.match(christine.stages[1].date.en,/About 1470/);assert.match(christine.stages[2].date.en,/About 1515–1520/);
+ assert.equal(by.get('getty-images-02-charlemagne').stages[0].date.en,'800');assert.equal(by.get('getty-images-02-charlemagne').stages[1].date.en,'1840');
+ assert.match(by.get('getty-images-02-plague').stages[1].date.en,/About 1735/);
 });

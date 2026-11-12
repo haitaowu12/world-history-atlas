@@ -24,6 +24,18 @@ export const IMAGE_TIME_LAYERS=[
   {date:b('1875','1875年'),title:b('Tonga adopts a constitution','汤加颁布宪法'),note:b('The linked story explores how constitutional institutions reshaped government under George Tupou I.','关联条目讨论宪法制度如何改造乔治·图普一世统治下的治理方式。')},
   {date:b('26 July 1884','1884年7月26日'),title:b('Burton photographs the king','伯顿为国王拍摄肖像'),note:b('The later portrait shows the same ruler. The chair, cane and formal coat belong to this photographic sitting rather than a pictured proclamation ceremony.','这幅后来的照片呈现同一位君主。椅子、手杖与正式外衣属于此次拍摄场景，并不是所摄的颁宪仪式。')}]}
 ];
+IMAGE_TIME_LAYERS.push(
+ {assetId:'world-batch-16-christine',expectedDate:'Text, frames and initials c. 1470; frames and miniatures c. 1515–1520',question:b('When were the words composed, copied and illuminated?','文章何时写成，何时抄录，又何时绘饰？'),stages:[
+  {date:b('About 1404–1405','约1404—1405年'),title:b('Christine composes The City of Ladies','克里斯蒂娜创作《女性之城》'),note:b('The work answers hostile representations of women through an allegorical city populated by exemplary figures.','作品通过由典范人物组成的寓言城市，回应对女性的敌意描写。')},
+  {date:b('About 1470','约1470年'),title:b('The surviving copy takes shape','留存至今的抄本形成'),note:b('The manuscript combines works by Boccaccio and Christine. Its text, early frames and initials belong to this copying stage.','手稿合编薄伽丘与克里斯蒂娜的作品，文字、早期边框与首字母属于这一抄写阶段。')},
+  {date:b('About 1515–1520','约1515—1520年'),title:b('Artists add the miniatures','画家增添小画'),note:b('Étienne Colaud and the Master of François de Rohan supply the later illumination. The image of a reader and three women belongs to the book’s sixteenth-century life.','艾蒂安·科洛与弗朗索瓦·德·罗昂大师提供后添绘饰。读者与三位女子的图像，属于这部书在十六世纪的新阶段。')}]},
+ {assetId:'getty-images-02-charlemagne',expectedDate:'1840',question:b('Which date belongs to the coronation, and which to its image?','哪个年份属于加冕，哪个属于这幅画？'),stages:[
+  {date:b('800','800年'),title:b('Charlemagne is crowned in Rome','查理曼在罗马加冕'),note:b('Pope Leo III crowns Charlemagne emperor. The linked story follows the political claims surrounding this ceremony.','教宗利奥三世为查理曼加冕为皇帝。关联故事讨论这一仪式所涉及的政治主张。')},
+  {date:b('1840','1840年'),title:b('Schnorr prepares a royal-palace fresco','施诺尔为王宫壁画作预备画'),note:b('This drawing was made for a commission by Ludwig I of Bavaria. The medieval event becomes a subject for nineteenth-century royal patronage.','此画为巴伐利亚路德维希一世的委托而作。中世纪事件成为十九世纪王室赞助的绘画题材。')}]},
+ {assetId:'getty-images-02-plague',expectedDate:'about 1735',question:b('How does a later painting remember an epidemic?','后来的绘画如何追忆一场疫病？'),stages:[
+  {date:b('1348','1348年'),title:b('Tolomei cares for people in Siena','托洛梅伊在锡耶纳照护病患'),note:b('The museum recounts his return to Siena during the Black Death and his death in the same year.','博物馆记述他在黑死病期间返回锡耶纳，并于同年去世。')},
+  {date:b('About 1735','约1735年'),title:b('Crespi paints the devotional scene','克雷斯皮绘制宗教画'),note:b('The copper-panel painting gives the earlier crisis a dramatic arrangement of light, bodies and religious care. Its date follows the museum’s approximate catalogue attribution.','铜板画通过光线、人物身体与宗教照护，将早年的灾难组织为戏剧性场景。年代采用博物馆目录的约略断代。')}]}
+);
 
 export function imageTimeLayers(item){
  const sequence=IMAGE_TIME_LAYERS.find(row=>row.assetId===item?.id);

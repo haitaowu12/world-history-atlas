@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "reviewedAt": "2026-11-11",
+  "reviewedAt": "2026-11-12",
   "policy": {
     "en": "Images illustrate particular records. Later portrayals, original objects and historical photographs are identified separately; no image is evidence for an unrecorded scene. Image-specific rights remain separate from the atlas text license.",
     "zh": "图像用于说明特定记录。后世描绘、实物及历史照片分别标明；任何图像都不被当作未获文献支持的场景的证据。各图像的使用条款独立于图鉴文字许可证。"
@@ -14970,6 +14970,84 @@
       }
     },
     {
+      "id": "china-batch-14-shi-kefa-memorial-portrait",
+      "file": "assets/history-media/china-batch-14-shi-kefa-memorial-portrait.jpg",
+      "recordIds": [
+        "china-landmark-111"
+      ],
+      "title": {
+        "en": "Shi Kefa remembered after the fall of Yangzhou",
+        "zh": "扬州城破之后的史可法纪念像"
+      },
+      "alt": {
+        "en": "A bearded official wears a black court hat and red robe with a crane rank badge; an inscription names Shi Zhongzheng and the painter Li Shizhuo.",
+        "zh": "一位蓄须官员戴黑色官帽，穿饰仙鹤补子的红袍；题字标明史忠正公与画家李世倬。"
+      },
+      "caption": {
+        "en": "Portrait of Shi Kefa by Li Shizhuo, catalogued as a Qing-dynasty work. The painter signs it as a respectful copy. Its date is not specified by the museum; 1645 dates the Yangzhou defense and Shi’s death, not this painting. The scroll also carries later inscriptions, including one dated 1779.",
+        "zh": "李世倬所绘史可法像，馆方归于清代，作者署“敬摹”。馆方未给出画幅的确切创作年；1645年是扬州守城与史氏去世的年份，并非此画年代。同卷还有后世题跋，包括1779年的一则。"
+      },
+      "interpretation": {
+        "en": "Li Shizhuo commemorates Shi Kefa, the defender of Yangzhou in 1645, in an official’s robe and crane rank badge. His signature calls the painting a respectful copy. The same scroll preserves a family letter about the siege; this selected panel is the later portrait.",
+        "zh": "李世倬以官袍与仙鹤补子描绘1645年扬州守将史可法，署款称“敬摹”。同卷保存一封谈及围城的家书；所选画幅是后世肖像部分。"
+      },
+      "creator": "Li Shizhuo (李世倬), signing as a respectful copyist",
+      "date": "Qing dynasty; portrait undated; commemorates Shi Kefa (died 1645)",
+      "institution": "National Palace Museum, Taipei; 贈畫000724N000000000",
+      "kind": "portrait",
+      "representation": "later-depiction",
+      "checkedAt": "2026-11-11",
+      "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/30202?dep=P",
+      "imageUrl": "https://iiifod.npm.gov.tw/iiif/2/A2A%2FA2A000724N000000000PAA/full/!1800,1800/0/default.jpg",
+      "downloadedFrom": "https://iiifod.npm.gov.tw/iiif/2/A2A%2FA2A000724N000000000PAA/full/!1800,1800/0/default.jpg",
+      "rightsSourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/30202?dep=P",
+      "rights": {
+        "label": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/",
+        "note": {
+          "en": "清李世倬史忠正公贊像 卷。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+          "zh": "清李世倬史忠正公贊像 卷。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+        }
+      },
+      "width": 1800,
+      "height": 1347,
+      "bytes": 417805,
+      "sha256": "09167a5096f2e2690e3f050df3458d80a984e7b2da11aa357ac01f7e81f19795",
+      "format": "jpeg",
+      "transformation": {
+        "en": "Official IIIF derivative saved unchanged at 1800 pixels wide. The museum’s selected portrait panel, mount and calibration strip are retained; no local crop or retouching.",
+        "zh": "馆方IIIF提供的1800像素宽图像原样保存，保留来源肖像画幅、装裱及校色条；未作本地裁切或修饰。"
+      },
+      "retrieval": "Official catalog HTML/text, IIIF manifest, exact derivative receipt and individual pixel review preserved in China batch 14.",
+      "contextSources": [
+        {
+          "title": {
+            "en": "Shi Kefa",
+            "zh": "史可法"
+          },
+          "publisher": "The Palace Museum, Beijing",
+          "url": "https://www.dpm.org.cn/lemmas/243674.html",
+          "checkedAt": "2026-11-11",
+          "evidenceNote": "Identifies Shi as defender of Yangzhou and records his killing after the city fell; death year 1645.",
+          "evidenceNoteZh": "记载史可法在扬州抗清、城破后被杀，卒年为1645年。"
+        }
+      ],
+      "metadataI18n": {
+        "date": {
+          "en": "Qing dynasty; portrait undated; commemorates Shi Kefa (died 1645)",
+          "zh": "清代；肖像未纪年，纪念1645年去世的史可法"
+        },
+        "creator": {
+          "en": "Li Shizhuo (李世倬), signing as a respectful copyist",
+          "zh": "李世倬，署“敬摹”"
+        },
+        "institution": {
+          "en": "National Palace Museum, Taipei; 贈畫000724N000000000",
+          "zh": "国立故宫博物院，台北；贈畫000724N000000000"
+        }
+      }
+    },
+    {
       "id": "china-culture-12-night-revels-ming-garden",
       "file": "assets/history-media/china-culture-12-night-revels-ming-garden.jpg",
       "recordIds": [
@@ -16083,6 +16161,305 @@
       "retrieval": "Official collection identity, CC0 statement, unchanged-image receipt and owner pixel review are preserved in docs/v18-getty-images-02-evidence.json."
     },
     {
+      "id": "getty-images-03-florence",
+      "file": "assets/history-media/getty-images-03-florence.jpg",
+      "recordIds": [
+        "florence-renaissance"
+      ],
+      "kind": "artwork",
+      "representation": "historical-artwork",
+      "title": {
+        "en": "Florence, workshops and a Medici design",
+        "zh": "佛罗伦萨、工坊与美第奇设计"
+      },
+      "alt": {
+        "en": "Fishermen haul nets across a river beneath bridges and Florence’s towers and cathedral dome; a reclining bearded river god fills the foreground.",
+        "zh": "渔民在桥梁、佛罗伦萨高塔及主教座堂穹顶下的河面拉网；前景是一位斜倚的有须河神。"
+      },
+      "caption": {
+        "en": "Stradanus, The Arno with Fishermen, 1580–1596. Ink, washes and white gouache on gray paper; Getty 83.GG.380. Florence’s cathedral, campanile and Palazzo Vecchio appear in a design probably connected to a Medici tapestry commission.",
+        "zh": "斯特拉达努斯，《阿尔诺河上的渔民》，1580—1596年。灰纸上墨、水洗色与白色水粉；盖蒂83.GG.380。画中可见佛罗伦萨主教座堂、钟楼及旧宫；此设计可能与美第奇家族的挂毯委托有关。"
+      },
+      "interpretation": {
+        "en": "Florence’s monuments frame fishermen and an allegorical river god. Stradanus probably designed the scene for a Medici tapestry commission. He cut out and replaced the lower centre of the drawing, adding fishermen and the reclining god.",
+        "zh": "佛罗伦萨的古迹环绕着渔民与寓意性的河神。斯特拉达努斯可能为美第奇挂毯委托绘制此图；他曾剪去并替换下方中央部分，增添渔民与斜倚的河神。"
+      },
+      "creator": "Stradanus",
+      "date": "between 1580 and 1596",
+      "institution": "J. Paul Getty Museum",
+      "credit": "J. Paul Getty Museum, Los Angeles; 83.GG.380",
+      "sourceUrl": "https://www.getty.edu/art/collection/object/103QWQ",
+      "imageUrl": "https://media.getty.edu/iiif/image/101321e8-54e7-4a3f-9018-578df5828e28/full/!1400,1400/0/default.jpg",
+      "downloadedFrom": "https://media.getty.edu/iiif/image/101321e8-54e7-4a3f-9018-578df5828e28/full/!1400,1400/0/default.jpg",
+      "rightsSourceUrl": "https://www.getty.edu/art/collection/object/103QWQ",
+      "rights": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "Getty’s official object page identifies this image and explicitly provides supplied images under CC0 through the Open Content Program.",
+          "zh": "盖蒂官方藏品页标识此图，并明确说明所提供图像通过开放内容项目以CC0开放。"
+        }
+      },
+      "transformation": {
+        "en": "Source-served IIIF JPEG preserved unchanged. No local crop, retouching, recolouring or resizing.",
+        "zh": "来源直接提供的IIIF JPEG原样保存，未经本地裁剪、修饰、改色或缩放。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Getty object catalogue and image rights",
+            "zh": "盖蒂藏品目录与图像授权"
+          },
+          "url": "https://www.getty.edu/art/collection/object/103QWQ"
+        }
+      ],
+      "width": 1400,
+      "height": 948,
+      "bytes": 429445,
+      "sha256": "d9a7c8ae4616f1396ce7bc1a298094096ab89b26518cca9c65218377cdd035bb",
+      "checkedAt": "2026-11-11",
+      "metadataI18n": {
+        "date": {
+          "en": "between 1580 and 1596",
+          "zh": "1580—1596年"
+        },
+        "creator": {
+          "en": "Stradanus",
+          "zh": "斯特拉达努斯"
+        },
+        "institution": {
+          "en": "J. Paul Getty Museum",
+          "zh": "J. 保罗·盖蒂博物馆"
+        }
+      }
+    },
+    {
+      "id": "getty-images-03-paul",
+      "file": "assets/history-media/getty-images-03-paul.jpg",
+      "recordIds": [
+        "paul-corinth-letters-50s"
+      ],
+      "kind": "manuscript",
+      "representation": "manuscript-detail",
+      "title": {
+        "en": "A medieval image of Paul’s letters",
+        "zh": "保罗书信的中世纪图像"
+      },
+      "alt": {
+        "en": "Two columns of Latin writing surround blue and gold initials; the upper initial shows a haloed man handing a scroll toward two figures, while a monk writes below.",
+        "zh": "两栏拉丁文围绕蓝金色首字母；上方首字母中有光环的男子向两人递交卷轴，下方则有修士书写。"
+      },
+      "caption": {
+        "en": "Unknown illuminator, Initial P: Saint Paul; Initial P: A Bishop Giving a Letter to a Messenger, about 1280–1290, Bologna. Tempera, gold leaf and ink; Getty Ms. Ludwig I 11, fol. 501. Getty identifies the upper scene with Paul’s letter to the Philippians.",
+        "zh": "佚名彩饰师，《首字母P：圣保罗；首字母P：主教向信使递交书信》，约1280—1290年，博洛尼亚。蛋彩、金箔与墨；盖蒂路德维希手稿I 11，第501叶。盖蒂将上方场景与保罗致腓立比人的书信联系起来。"
+      },
+      "interpretation": {
+        "en": "This medieval page shows Paul passing a letter to a messenger, with a bishop looking on. It depicts the letter to the Philippians, rather than Corinthians, and reveals how a Bolognese monastic community pictured the ancient writer more than twelve centuries later.",
+        "zh": "这页中世纪手稿描绘保罗把书信递给信使，旁有主教观看。画中是致腓立比人的书信，而非致哥林多人的书信；它展现逾十二个世纪后，博洛尼亚修道团体如何想象这位古代作者。"
+      },
+      "creator": "Unknown",
+      "date": "about 1280–1290",
+      "institution": "J. Paul Getty Museum",
+      "credit": "J. Paul Getty Museum, Los Angeles; 83.MA.60.501",
+      "sourceUrl": "https://www.getty.edu/art/collection/object/103S1X",
+      "imageUrl": "https://media.getty.edu/iiif/image/b5681755-d7d3-4d59-bf09-c82be3374715/full/!1400,1400/0/default.jpg",
+      "downloadedFrom": "https://media.getty.edu/iiif/image/b5681755-d7d3-4d59-bf09-c82be3374715/full/!1400,1400/0/default.jpg",
+      "rightsSourceUrl": "https://www.getty.edu/art/collection/object/103S1X",
+      "rights": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "Getty’s official object page identifies this image and explicitly provides supplied images under CC0 through the Open Content Program.",
+          "zh": "盖蒂官方藏品页标识此图，并明确说明所提供图像通过开放内容项目以CC0开放。"
+        }
+      },
+      "transformation": {
+        "en": "Source-served IIIF JPEG preserved unchanged. No local crop, retouching, recolouring or resizing.",
+        "zh": "来源直接提供的IIIF JPEG原样保存，未经本地裁剪、修饰、改色或缩放。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Getty object catalogue and image rights",
+            "zh": "盖蒂藏品目录与图像授权"
+          },
+          "url": "https://www.getty.edu/art/collection/object/103S1X"
+        }
+      ],
+      "width": 901,
+      "height": 1400,
+      "bytes": 473111,
+      "sha256": "7520bcfb59cd6307ab89caa10b30be0554bab3d722b7589bb6b061fb2298bab5",
+      "checkedAt": "2026-11-11",
+      "metadataI18n": {
+        "date": {
+          "en": "about 1280–1290",
+          "zh": "约1280—1290年"
+        },
+        "creator": {
+          "en": "Unknown",
+          "zh": "佚名"
+        },
+        "institution": {
+          "en": "J. Paul Getty Museum",
+          "zh": "J. 保罗·盖蒂博物馆"
+        }
+      }
+    },
+    {
+      "id": "getty-images-03-grat",
+      "file": "assets/history-media/getty-images-03-grat.jpg",
+      "recordIds": [
+        "bologna-medieval-student-universities"
+      ],
+      "kind": "manuscript",
+      "representation": "manuscript-detail",
+      "title": {
+        "en": "A canon-law textbook and its readers",
+        "zh": "教会法课本与读者"
+      },
+      "alt": {
+        "en": "A parchment page has two columns of Latin text, marginal notes and a blue initial containing an enthroned bishop flanked by two figures.",
+        "zh": "羊皮纸页上有两栏拉丁文、页边注释及蓝色首字母；字母中主教端坐，两侧各有一人。"
+      },
+      "caption": {
+        "en": "Unknown French illuminator, Initial D: A Bishop Enthroned with Two Plaintiffs, from Gratian’s Decretum, about 1170–1180. Paris or Sens; Getty Ms. Ludwig XIV 2, fol. 97v. Tempera, gold leaf and ink.",
+        "zh": "法国佚名彩饰师，《首字母D：端坐的主教与两位诉讼当事人》，出自格拉提安《教令集》，约1170—1180年。巴黎或桑斯；盖蒂路德维希手稿XIV 2，第97叶背面。蛋彩、金箔与墨。"
+      },
+      "interpretation": {
+        "en": "Gratian’s canon-law compilation, connected with teaching in Bologna, became a university textbook across Europe. This French copy preserves the text, a legal scene and readers’ marginal annotations, showing the working materials of medieval legal study.",
+        "zh": "格拉提安的教会法汇编与博洛尼亚教学相关，后来成为欧洲大学课本。这部法国抄本保留正文、法律场景与读者页边批注，呈现中世纪法律学习的实物材料。"
+      },
+      "creator": "Unknown",
+      "date": "about 1170–1180",
+      "institution": "J. Paul Getty Museum",
+      "credit": "J. Paul Getty Museum, Los Angeles; 83.MQ.163.97v",
+      "sourceUrl": "https://www.getty.edu/art/collection/object/105WAV",
+      "imageUrl": "https://media.getty.edu/iiif/image/5e3801ff-9ffa-46cb-b41f-d44395a1be91/full/!1400,1400/0/default.jpg",
+      "downloadedFrom": "https://media.getty.edu/iiif/image/5e3801ff-9ffa-46cb-b41f-d44395a1be91/full/!1400,1400/0/default.jpg",
+      "rightsSourceUrl": "https://www.getty.edu/art/collection/object/105WAV",
+      "rights": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "Getty’s official object page identifies this image and explicitly provides supplied images under CC0 through the Open Content Program.",
+          "zh": "盖蒂官方藏品页标识此图，并明确说明所提供图像通过开放内容项目以CC0开放。"
+        }
+      },
+      "transformation": {
+        "en": "Source-served IIIF JPEG preserved unchanged. No local crop, retouching, recolouring or resizing.",
+        "zh": "来源直接提供的IIIF JPEG原样保存，未经本地裁剪、修饰、改色或缩放。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Getty object catalogue and image rights",
+            "zh": "盖蒂藏品目录与图像授权"
+          },
+          "url": "https://www.getty.edu/art/collection/object/105WAV"
+        },
+        {
+          "title": {
+            "en": "Getty catalogue: Gratian’s Decretum and university study",
+            "zh": "盖蒂目录：格拉提安《教令集》与大学学习"
+          },
+          "url": "https://www.getty.edu/cona/CONAFullSubject.aspx?subid=700002321"
+        }
+      ],
+      "width": 816,
+      "height": 1400,
+      "bytes": 459239,
+      "sha256": "ebf9bea3540fd007ccb81e623be10bd4d5ef94710714656302ef77ab969fc399",
+      "checkedAt": "2026-11-11",
+      "metadataI18n": {
+        "date": {
+          "en": "about 1170–1180",
+          "zh": "约1170—1180年"
+        },
+        "creator": {
+          "en": "Unknown",
+          "zh": "法国佚名彩饰师"
+        },
+        "institution": {
+          "en": "J. Paul Getty Museum",
+          "zh": "J. 保罗·盖蒂博物馆"
+        }
+      }
+    },
+    {
+      "id": "getty-images-03-isabella",
+      "file": "assets/history-media/getty-images-03-isabella.jpg",
+      "recordIds": [
+        "castile-aragon-dynastic-union"
+      ],
+      "kind": "artwork",
+      "representation": "historical-artwork",
+      "title": {
+        "en": "Isabella remembered in a cathedral commission",
+        "zh": "主教座堂委托中的伊莎贝拉纪念像"
+      },
+      "alt": {
+        "en": "A queen kneels with hands joined beside a cushion and crown, above an ornate bracket with an empty shield, armor and flags; a scale runs down the right edge.",
+        "zh": "王后双手合十跪于软垫与王冠旁，下方饰架有空盾、盔甲和旗帜；右侧边缘标有比例尺。"
+      },
+      "caption": {
+        "en": "Pedro Mena y Medrano, Study for a Statue of Queen Isabella, 1673–1674. Pen and gray ink and watercolor over black chalk; Getty 94.GA.82. Design for Granada Cathedral, paired with a statue of Ferdinand II of Aragon.",
+        "zh": "佩德罗·梅纳·伊·梅德拉诺，《伊莎贝拉王后雕像习作》，1673—1674年。黑粉笔底稿上灰墨与水彩；盖蒂94.GA.82。为格拉纳达主教座堂而设计，与阿拉贡斐迪南二世雕像成对。"
+      },
+      "interpretation": {
+        "en": "Made roughly two centuries after Isabella’s rule, the design pairs her with Ferdinand in Granada Cathedral. Her kneeling pose presents a devout monarch; the scale and shaded bracket guide the sculptor in turning this drawing into a commemorative statue.",
+        "zh": "此设计晚于伊莎贝拉统治约两世纪，在格拉纳达主教座堂与斐迪南像成对。跪姿表现虔诚君主，比例尺与饰架阴影则帮助雕刻者把画稿转为纪念雕像。"
+      },
+      "creator": "Pedro Mena y Medrano",
+      "date": "1673–1674",
+      "institution": "J. Paul Getty Museum",
+      "credit": "J. Paul Getty Museum, Los Angeles; 94.GA.82",
+      "sourceUrl": "https://www.getty.edu/art/collection/object/103R87",
+      "imageUrl": "https://media.getty.edu/iiif/image/241a8045-2be4-4b9f-abc2-ea0f163e68fc/full/!1400,1400/0/default.jpg",
+      "downloadedFrom": "https://media.getty.edu/iiif/image/241a8045-2be4-4b9f-abc2-ea0f163e68fc/full/!1400,1400/0/default.jpg",
+      "rightsSourceUrl": "https://www.getty.edu/art/collection/object/103R87",
+      "rights": {
+        "label": "CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "Getty’s official object page identifies this image and explicitly provides supplied images under CC0 through the Open Content Program.",
+          "zh": "盖蒂官方藏品页标识此图，并明确说明所提供图像通过开放内容项目以CC0开放。"
+        }
+      },
+      "transformation": {
+        "en": "Source-served IIIF JPEG preserved unchanged. No local crop, retouching, recolouring or resizing.",
+        "zh": "来源直接提供的IIIF JPEG原样保存，未经本地裁剪、修饰、改色或缩放。"
+      },
+      "contextSources": [
+        {
+          "title": {
+            "en": "Getty object catalogue and image rights",
+            "zh": "盖蒂藏品目录与图像授权"
+          },
+          "url": "https://www.getty.edu/art/collection/object/103R87"
+        }
+      ],
+      "width": 964,
+      "height": 1400,
+      "bytes": 323632,
+      "sha256": "ec3f5d6c302e28e8b57a3ddc40f434311502b9f495bb5e392ffde7977b200923",
+      "checkedAt": "2026-11-11",
+      "metadataI18n": {
+        "date": {
+          "en": "1673–1674",
+          "zh": "1673—1674年"
+        },
+        "creator": {
+          "en": "Pedro Mena y Medrano",
+          "zh": "佩德罗·梅纳·伊·梅德拉诺"
+        },
+        "institution": {
+          "en": "J. Paul Getty Museum",
+          "zh": "J. 保罗·盖蒂博物馆"
+        }
+      }
+    },
+    {
       "id": "oceania-awm-p00670-001",
       "recordIds": [
         "australian-federation"
@@ -16241,6 +16618,258 @@
         "institution": {
           "en": "Museums Victoria",
           "zh": "维多利亚博物馆"
+        }
+      }
+    },
+    {
+      "id": "us-archives-02-treaty-of-guadalupe-hidalgo",
+      "file": "assets/history-media/us-archives-02-treaty-of-guadalupe-hidalgo.jpg",
+      "recordIds": [
+        "treaty-guadalupe-hidalgo"
+      ],
+      "kind": "object",
+      "representation": "object-photograph",
+      "title": {
+        "en": "Treaty of Guadalupe Hidalgo: exchange copy and seal",
+        "zh": "瓜达卢佩—伊达尔戈条约：交换本与印玺"
+      },
+      "caption": {
+        "en": "The red-bound exchange copy, given to the United States by Mexico, documents Mexican ratification of the treaty ending the Mexican–American War.",
+        "zh": "墨西哥交给美国的红色装帧交换本，记录墨西哥批准结束美墨战争的条约。"
+      },
+      "alt": {
+        "en": "A red volume with gold decoration and a large suspended seal rests in a blue-lined case.",
+        "zh": "金饰红色册本与大型悬挂印玺置于蓝色衬里盒中。"
+      },
+      "interpretation": {
+        "en": "The red binding and suspended seal belong to Mexico’s ratified exchange copy. The treaty was signed on 2 February; the governments exchanged ratifications at Querétaro on 30 May 1848.",
+        "zh": "红色装帧与悬挂印玺属于墨西哥批准后的条约交换本。条约于2月2日签署，两国政府于1848年5月30日在克雷塔罗互换批准书。"
+      },
+      "creator": "Governments of Mexico and the United States; reproduction by the National Archives",
+      "date": "1848 exchange copy; treaty signed 2 February 1848",
+      "institution": "United States National Archives",
+      "sourceUrl": "https://www.archives.gov/milestone-documents/treaty-of-guadalupe-hidalgo",
+      "imageUrl": "https://www.archives.gov/files/milestone-documents/images/doc-026-big.jpg",
+      "downloadedFrom": "https://www.archives.gov/files/milestone-documents/images/doc-026-big.jpg",
+      "width": 500,
+      "height": 421,
+      "bytes": 46678,
+      "sha256": "441a1d4a588712866593ed57426d2567631c0a113074aa46fd20e93f0ddfdf51",
+      "rightsSourceUrl": "https://www.archives.gov/global-pages/privacy.html",
+      "rights": {
+        "label": "Public domain",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "note": {
+          "en": "The underlying treaty is an 1848 official diplomatic instrument in Record Group 11, not a privately donated copyrighted photograph. The NARA milestone page identifies this exchange copy and supplies its institutional reproduction; NARA states its own works are public domain.",
+          "zh": "1848年官方外交文书，藏于美国政府总档案第11档案组。国家档案馆条目明确标识这份交换本并提供馆方复制图；其自行制作的复制作品属公有领域。"
+        }
+      },
+      "checkedAt": "2026-11-11",
+      "transformation": {
+        "en": "Published NARA image saved byte-for-byte, without local editing.",
+        "zh": "逐字节保存国家档案馆发布图像，未作本地编辑。"
+      },
+      "metadataI18n": {
+        "date": {
+          "en": "1848 exchange copy; treaty signed 2 February 1848",
+          "zh": "1848年交换本；条约于1848年2月2日签署"
+        },
+        "creator": {
+          "en": "Governments of Mexico and the United States; reproduction by the National Archives",
+          "zh": "墨西哥与美国政府；国家档案馆复制"
+        },
+        "institution": {
+          "en": "United States National Archives",
+          "zh": "美国国家档案馆"
+        }
+      }
+    },
+    {
+      "id": "us-archives-02-executive-order-9066",
+      "file": "assets/history-media/us-archives-02-executive-order-9066.jpg",
+      "recordIds": [
+        "japanese-american-incarceration"
+      ],
+      "kind": "document",
+      "representation": "document-facsimile",
+      "title": {
+        "en": "Executive Order 9066: opening page",
+        "zh": "第9066号行政命令：首页"
+      },
+      "caption": {
+        "en": "The opening page authorizes military areas from which people could be excluded. Its implementation targeted Japanese Americans on the West Coast.",
+        "zh": "首页授权划定可将人员排除在外的军事区域；实施时针对西海岸日裔美国人。"
+      },
+      "alt": {
+        "en": "A typed executive-order page headed “Authorizing the Secretary of War to Prescribe Military Areas.”",
+        "zh": "打字行政命令页，标题为授权战争部长划定军事区域。"
+      },
+      "interpretation": {
+        "en": "The order gave military commanders broad authority to exclude people from designated areas. Although it did not name Japanese Americans, it enabled their forced removal and incarceration on the West Coast.",
+        "zh": "命令赋予军事指挥官广泛权力，可将人员排除于指定区域之外。条文未点名日裔美国人，却为西海岸日裔居民的强制迁离和拘禁提供了授权。"
+      },
+      "creator": "Franklin D. Roosevelt, President of the United States",
+      "date": "19 February 1942",
+      "institution": "United States National Archives",
+      "sourceUrl": "https://www.archives.gov/milestone-documents/executive-order-9066",
+      "imageUrl": "https://www.archives.gov/files/milestone-documents/images/doc-074-big.jpg",
+      "downloadedFrom": "https://www.archives.gov/files/milestone-documents/images/doc-074-big.jpg",
+      "width": 500,
+      "height": 776,
+      "bytes": 42531,
+      "sha256": "3710c6490e4e33d6d2bc995f06b613844e205f7d8ec25467c4939a879899cd46",
+      "rightsSourceUrl": "https://www.archives.gov/global-pages/privacy.html",
+      "rights": {
+        "label": "Public domain",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "note": {
+          "en": "An official presidential executive order created by the United States government, held in General Records of the United States Government, Record Group 11; the official facsimile is not a third-party private photograph.",
+          "zh": "美国政府制定的总统行政命令，藏于美国政府总档案第11档案组；图像为官方文书复制件。"
+        }
+      },
+      "checkedAt": "2026-11-11",
+      "transformation": {
+        "en": "Published NARA image saved byte-for-byte, without local editing.",
+        "zh": "逐字节保存国家档案馆发布图像，未作本地编辑。"
+      },
+      "metadataI18n": {
+        "date": {
+          "en": "19 February 1942",
+          "zh": "1942年2月19日"
+        },
+        "creator": {
+          "en": "Franklin D. Roosevelt, President of the United States",
+          "zh": "富兰克林·D·罗斯福，美国总统"
+        },
+        "institution": {
+          "en": "United States National Archives",
+          "zh": "美国国家档案馆"
+        }
+      }
+    },
+    {
+      "id": "us-archives-02-armistice-agreement-restoration-south-korean-state",
+      "file": "assets/history-media/us-archives-02-armistice-agreement-restoration-south-korean-state.jpg",
+      "recordIds": [
+        "korean-war-armistice"
+      ],
+      "kind": "document",
+      "representation": "document-facsimile",
+      "title": {
+        "en": "Korean armistice agreement: preamble",
+        "zh": "朝鲜停战协定：序言"
+      },
+      "caption": {
+        "en": "The first page names the military parties and describes a cessation of hostilities pending a final peaceful settlement.",
+        "zh": "首页列出军事缔约各方，并说明在最终和平解决前停止敌对行动。"
+      },
+      "alt": {
+        "en": "A printed page titled Agreement with a preamble concerning a military armistice in Korea.",
+        "zh": "印刷协定页，含有关朝鲜军事停战的序言。"
+      },
+      "interpretation": {
+        "en": "The preamble defines a military cessation of hostilities while a final peaceful settlement remains pending. The agreement is an armistice, not a peace treaty.",
+        "zh": "序言规定停止军事敌对行动，同时有待达成最终和平解决。该协定属于停战协定，并非和平条约。"
+      },
+      "creator": "United Nations Command, Korean People’s Army and Chinese People’s Volunteers",
+      "date": "27 July 1953",
+      "institution": "United States National Archives",
+      "sourceUrl": "https://www.archives.gov/milestone-documents/armistice-agreement-restoration-south-korean-state",
+      "imageUrl": "https://www.archives.gov/files/milestone-documents/images/doc-085-big.jpg",
+      "downloadedFrom": "https://www.archives.gov/files/milestone-documents/images/doc-085-big.jpg",
+      "width": 500,
+      "height": 898,
+      "bytes": 53887,
+      "sha256": "c09453d09f49769c78c5780a6fd7cba8af2231b9128c5552d8288c4676415148",
+      "rightsSourceUrl": "https://www.archives.gov/global-pages/privacy.html",
+      "rights": {
+        "label": "Public domain",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "note": {
+          "en": "Official published international agreement, Treaties and Other International Agreements Series 2782, in General Records of the United States Government, Record Group 11; this is a government documentary reproduction, not a privately donated creative work.",
+          "zh": "正式公布的国际协定，《条约和其他国际协定汇编》第2782号，藏于美国政府总档案第11档案组；此图为政府文书复制件。"
+        }
+      },
+      "checkedAt": "2026-11-11",
+      "transformation": {
+        "en": "Published NARA image saved byte-for-byte, without local editing.",
+        "zh": "逐字节保存国家档案馆发布图像，未作本地编辑。"
+      },
+      "metadataI18n": {
+        "date": {
+          "en": "27 July 1953",
+          "zh": "1953年7月27日"
+        },
+        "creator": {
+          "en": "United Nations Command, Korean People’s Army and Chinese People’s Volunteers",
+          "zh": "联合国军司令部、朝鲜人民军与中国人民志愿军"
+        },
+        "institution": {
+          "en": "United States National Archives",
+          "zh": "美国国家档案馆"
+        }
+      }
+    },
+    {
+      "id": "us-archives-02-aerial-photograph-of-missiles-in-cuba",
+      "file": "assets/history-media/us-archives-02-aerial-photograph-of-missiles-in-cuba.jpg",
+      "recordIds": [
+        "cuban-missile-crisis-1962"
+      ],
+      "kind": "photograph",
+      "representation": "historical-photograph",
+      "title": {
+        "en": "San Cristóbal missile site: reconnaissance briefing photograph",
+        "zh": "圣克里斯托瓦尔导弹基地：侦察简报照片"
+      },
+      "caption": {
+        "en": "A U.S. reconnaissance image labels missile trailers, launcher equipment and tent areas at San Cristóbal, Cuba, during the missile crisis.",
+        "zh": "美国侦察图像标注导弹危机期间古巴圣克里斯托瓦尔的导弹拖车、发射设备与帐篷区域。"
+      },
+      "alt": {
+        "en": "An annotated aerial photograph shows roads, clearings and equipment with arrows and a dated title panel.",
+        "zh": "带注释的航拍照片显示道路、空地和设备，并有箭头及注明日期的标题框。"
+      },
+      "interpretation": {
+        "en": "Arrows and labels turn reconnaissance into a briefing: missile trailers, launching equipment and tent areas are the identifications of U.S. intelligence analysts at this site.",
+        "zh": "箭头与标注把侦察照片转化为简报：导弹拖车、发射设备与帐篷区域，是美国情报分析人员对这处基地的辨识。"
+      },
+      "creator": "United States Department of Defense",
+      "date": "14 October 1962",
+      "institution": "United States National Archives",
+      "sourceUrl": "https://www.archives.gov/milestone-documents/aerial-photograph-of-missiles-in-cuba",
+      "imageUrl": "https://www.archives.gov/files/milestone-documents/images/doc-094b-big.jpg",
+      "downloadedFrom": "https://www.archives.gov/files/milestone-documents/images/doc-094b-big.jpg",
+      "width": 690,
+      "height": 576,
+      "bytes": 330407,
+      "sha256": "19b105e49cf220ba8cad4f57a573c186f0735a9f7c39d5fd4ab63c4a9a41bd0e",
+      "rightsSourceUrl": "https://www.archives.gov/global-pages/privacy.html",
+      "rights": {
+        "label": "Public domain",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "note": {
+          "en": "The item is Photograph PX1966-020-007, Briefing Board 07, in the Department of Defense Cuban Missile Crisis Briefing Materials, Collection JFK-5047. Federal military creation is identified by NARA, rather than merely inferred from archival custody; no outside photographer is credited.",
+          "zh": "照片编号PX1966-020-007，简报板第07号，出自国防部古巴导弹危机简报资料（JFK-5047收藏）。国家档案馆明确标识其联邦军事机关制作背景，未列私人摄影者。"
+        }
+      },
+      "checkedAt": "2026-11-11",
+      "transformation": {
+        "en": "Published NARA image saved byte-for-byte, without local editing.",
+        "zh": "逐字节保存国家档案馆发布图像，未作本地编辑。"
+      },
+      "metadataI18n": {
+        "date": {
+          "en": "14 October 1962",
+          "zh": "1962年10月14日"
+        },
+        "creator": {
+          "en": "United States Department of Defense",
+          "zh": "美国国防部"
+        },
+        "institution": {
+          "en": "United States National Archives",
+          "zh": "美国国家档案馆"
         }
       }
     },
@@ -30997,6 +31626,17 @@
       "checkedAt": "2026-11-11"
     },
     {
+      "recordId": "china-landmark-111",
+      "assetId": "china-batch-14-shi-kefa-memorial-portrait",
+      "role": "named-person",
+      "context": {
+        "en": "Li Shizhuo commemorates Shi Kefa, the defender of Yangzhou in 1645, in an official’s robe and crane rank badge. His signature calls the painting a respectful copy. The same scroll preserves a family letter about the siege; this selected panel is the later portrait.",
+        "zh": "李世倬以官袍与仙鹤补子描绘1645年扬州守将史可法，署款称“敬摹”。同卷保存一封谈及围城的家书；所选画幅是后世肖像部分。"
+      },
+      "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/30202?dep=P",
+      "checkedAt": "2026-11-11"
+    },
+    {
       "assetId": "china-rebuild-cao-cao",
       "recordId": "china-person-caocao",
       "role": "depicts-subject",
@@ -36017,6 +36657,50 @@
         "zh": "头纱与项链构成经过精心塑造的王室形象。贝勒尼基肖像提供了托勒密王朝在希腊化宫廷竞争中呈现自身的具体例证。器物的目录断代较宽，延伸到她去世以后。"
       },
       "evidenceUrl": "https://www.getty.edu/art/collection/object/103V11",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "getty-images-03-florence",
+      "recordId": "florence-renaissance",
+      "role": "depicts-subject",
+      "context": {
+        "en": "Florence’s monuments frame fishermen and an allegorical river god. Stradanus probably designed the scene for a Medici tapestry commission. He cut out and replaced the lower centre of the drawing, adding fishermen and the reclining god.",
+        "zh": "佛罗伦萨的古迹环绕着渔民与寓意性的河神。斯特拉达努斯可能为美第奇挂毯委托绘制此图；他曾剪去并替换下方中央部分，增添渔民与斜倚的河神。"
+      },
+      "evidenceUrl": "https://www.getty.edu/art/collection/object/103QWQ",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "getty-images-03-paul",
+      "recordId": "paul-corinth-letters-50s",
+      "role": "historical-context",
+      "context": {
+        "en": "This medieval page shows Paul passing a letter to a messenger, with a bishop looking on. It depicts the letter to the Philippians, rather than Corinthians, and reveals how a Bolognese monastic community pictured the ancient writer more than twelve centuries later.",
+        "zh": "这页中世纪手稿描绘保罗把书信递给信使，旁有主教观看。画中是致腓立比人的书信，而非致哥林多人的书信；它展现逾十二个世纪后，博洛尼亚修道团体如何想象这位古代作者。"
+      },
+      "evidenceUrl": "https://www.getty.edu/art/collection/object/103S1X",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "getty-images-03-grat",
+      "recordId": "bologna-medieval-student-universities",
+      "role": "historical-context",
+      "context": {
+        "en": "Gratian’s canon-law compilation, connected with teaching in Bologna, became a university textbook across Europe. This French copy preserves the text, a legal scene and readers’ marginal annotations, showing the working materials of medieval legal study.",
+        "zh": "格拉提安的教会法汇编与博洛尼亚教学相关，后来成为欧洲大学课本。这部法国抄本保留正文、法律场景与读者页边批注，呈现中世纪法律学习的实物材料。"
+      },
+      "evidenceUrl": "https://www.getty.edu/art/collection/object/105WAV",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "getty-images-03-isabella",
+      "recordId": "castile-aragon-dynastic-union",
+      "role": "depicts-subject",
+      "context": {
+        "en": "Made roughly two centuries after Isabella’s rule, the design pairs her with Ferdinand in Granada Cathedral. Her kneeling pose presents a devout monarch; the scale and shaded bracket guide the sculptor in turning this drawing into a commemorative statue.",
+        "zh": "此设计晚于伊莎贝拉统治约两世纪，在格拉纳达主教座堂与斐迪南像成对。跪姿表现虔诚君主，比例尺与饰架阴影则帮助雕刻者把画稿转为纪念雕像。"
+      },
+      "evidenceUrl": "https://www.getty.edu/art/collection/object/103R87",
       "checkedAt": "2026-11-11"
     },
     {

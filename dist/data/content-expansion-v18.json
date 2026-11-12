@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": "0.24.0",
-  "preparedAt": "2026-11-11",
+  "preparedAt": "2026-11-12",
   "baseline": {
     "manifest": "content-expansion-v17.json",
     "records": 2084
@@ -2455,9 +2455,9 @@
   },
   "mediaLocalization": {
     "file": "history-media-localization-zh-v18.json",
-    "bytes": 182199,
-    "sha256": "bd8ab532c7f47cfda96f4cda9cbe304a34b21207e2c884f713684139cb1b62c4",
-    "assets": 414
+    "bytes": 186094,
+    "sha256": "e6c26124bc7f21d8d09cfc8d0a4d4fe90923bd3f957b4c174ab43102e15fbc67",
+    "assets": 423
   },
   "visualExpansion": {
     "baselineManifest": "content-expansion-v17.json",
@@ -2596,6 +2596,13 @@
         "associations": 0
       },
       {
+        "file": "visual-assets-china-batch-14-v18.json",
+        "bytes": 5549,
+        "sha256": "901ea90f35bcec255adb827da08fcc36bca4d7d54fdc8583760b28719cfee101",
+        "assets": 1,
+        "associations": 1
+      },
+      {
         "file": "visual-assets-china-culture-12-v18.json",
         "bytes": 6380,
         "sha256": "8942e95070785094e0566cde1bff0cc43be319f3e226dc92ee932039d3d42775",
@@ -2701,10 +2708,24 @@
         "associations": 4
       },
       {
+        "file": "visual-assets-getty-images-03-v18.json",
+        "bytes": 18932,
+        "sha256": "bead3924f7121b6274684b54ba5d52e94b02cebc4b6fd93b06e2c803470b53d1",
+        "assets": 4,
+        "associations": 4
+      },
+      {
         "file": "visual-assets-oceania-images-01-v18.json",
         "bytes": 7274,
         "sha256": "25f90d019ac0341e89c990f97986940725cc9761408bdab836621671f84a5440",
         "assets": 2,
+        "associations": 0
+      },
+      {
+        "file": "visual-assets-us-archives-02-v18.json",
+        "bytes": 13704,
+        "sha256": "5b078427c4692e61b8a90cf3448abe164ae45786f0636351b3301ba92f00d107",
+        "assets": 4,
         "associations": 0
       },
       {
@@ -2807,8 +2828,8 @@
       }
     ],
     "coverageFile": "visual-coverage-v18.json",
-    "assets": 414,
-    "covered": 800,
+    "assets": 423,
+    "covered": 809,
     "total": 2087,
     "target": 1044
   }

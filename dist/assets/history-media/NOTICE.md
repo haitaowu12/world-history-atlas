@@ -1,6 +1,6 @@
 # Historical images: credits and reuse
 
-Reviewed 2026-11-11. 414 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
+Reviewed 2026-11-12. 423 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
 
 Historical artifacts, surviving places and later depictions retain their source identities. No generated reconstructions are included in this catalogue.
 
@@ -3042,6 +3042,20 @@ Official museum image saved unchanged; watermark, labels and calibration chart r
 
 Official IIIF whole-scroll image resized by the source service to 3000 pixels wide; no local crop, retouching or conversion.
 
+## Shi Kefa remembered after the fall of Yangzhou / 扬州城破之后的史可法纪念像
+
+- File: china-batch-14-shi-kefa-memorial-portrait.jpg
+- Creator: Li Shizhuo (李世倬), signing as a respectful copyist
+- Date: Qing dynasty; portrait undated; commemorates Shi Kefa (died 1645)
+- Collection: National Palace Museum, Taipei; 贈畫000724N000000000
+- Source: https://digitalarchive.npm.gov.tw/Collection/Detail/30202?dep=P
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://digitalarchive.npm.gov.tw/Collection/Detail/30202?dep=P
+
+清李世倬史忠正公贊像 卷。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw
+
+Official IIIF derivative saved unchanged at 1800 pixels wide. The museum’s selected portrait panel, mount and calibration strip are retained; no local crop or retouching.
+
 ## Night Revels reinvented in a Ming garden / 明代庭园中重构的韩熙载夜宴
 
 - File: china-culture-12-night-revels-ming-garden.jpg
@@ -3252,6 +3266,62 @@ Getty makes the images on this object’s collection page available under CC0 th
 
 Source-served IIIF JPEG preserved unchanged. No local crop, retouching, recolouring or resizing.
 
+## Florence, workshops and a Medici design / 佛罗伦萨、工坊与美第奇设计
+
+- File: getty-images-03-florence.jpg
+- Creator: Stradanus
+- Date: between 1580 and 1596
+- Collection: J. Paul Getty Museum
+- Source: https://www.getty.edu/art/collection/object/103QWQ
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.getty.edu/art/collection/object/103QWQ
+
+Getty’s official object page identifies this image and explicitly provides supplied images under CC0 through the Open Content Program.
+
+Source-served IIIF JPEG preserved unchanged. No local crop, retouching, recolouring or resizing.
+
+## A medieval image of Paul’s letters / 保罗书信的中世纪图像
+
+- File: getty-images-03-paul.jpg
+- Creator: Unknown
+- Date: about 1280–1290
+- Collection: J. Paul Getty Museum
+- Source: https://www.getty.edu/art/collection/object/103S1X
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.getty.edu/art/collection/object/103S1X
+
+Getty’s official object page identifies this image and explicitly provides supplied images under CC0 through the Open Content Program.
+
+Source-served IIIF JPEG preserved unchanged. No local crop, retouching, recolouring or resizing.
+
+## A canon-law textbook and its readers / 教会法课本与读者
+
+- File: getty-images-03-grat.jpg
+- Creator: Unknown
+- Date: about 1170–1180
+- Collection: J. Paul Getty Museum
+- Source: https://www.getty.edu/art/collection/object/105WAV
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.getty.edu/art/collection/object/105WAV
+
+Getty’s official object page identifies this image and explicitly provides supplied images under CC0 through the Open Content Program.
+
+Source-served IIIF JPEG preserved unchanged. No local crop, retouching, recolouring or resizing.
+
+## Isabella remembered in a cathedral commission / 主教座堂委托中的伊莎贝拉纪念像
+
+- File: getty-images-03-isabella.jpg
+- Creator: Pedro Mena y Medrano
+- Date: 1673–1674
+- Collection: J. Paul Getty Museum
+- Source: https://www.getty.edu/art/collection/object/103R87
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.getty.edu/art/collection/object/103R87
+
+Getty’s official object page identifies this image and explicitly provides supplied images under CC0 through the Open Content Program.
+
+Source-served IIIF JPEG preserved unchanged. No local crop, retouching, recolouring or resizing.
+
 ## A French Arch for Federation / 联邦庆典中的法国拱门
 
 - File: oceania-awm-p00670-001.jpg
@@ -3279,6 +3349,62 @@ Official JPEG preserved unchanged; no crop, retouching or recolouring. The origi
 The item’s media 675839 explicitly licenses this photograph under CC BY 4.0 and identifies photographer Jon Augier and Museums Victoria.
 
 Official JPEG preserved unchanged; no crop, retouching or recolouring.
+
+## Treaty of Guadalupe Hidalgo: exchange copy and seal / 瓜达卢佩—伊达尔戈条约：交换本与印玺
+
+- File: us-archives-02-treaty-of-guadalupe-hidalgo.jpg
+- Creator: Governments of Mexico and the United States; reproduction by the National Archives
+- Date: 1848 exchange copy; treaty signed 2 February 1848
+- Collection: United States National Archives
+- Source: https://www.archives.gov/milestone-documents/treaty-of-guadalupe-hidalgo
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://www.archives.gov/global-pages/privacy.html
+
+The underlying treaty is an 1848 official diplomatic instrument in Record Group 11, not a privately donated copyrighted photograph. The NARA milestone page identifies this exchange copy and supplies its institutional reproduction; NARA states its own works are public domain.
+
+Published NARA image saved byte-for-byte, without local editing.
+
+## Executive Order 9066: opening page / 第9066号行政命令：首页
+
+- File: us-archives-02-executive-order-9066.jpg
+- Creator: Franklin D. Roosevelt, President of the United States
+- Date: 19 February 1942
+- Collection: United States National Archives
+- Source: https://www.archives.gov/milestone-documents/executive-order-9066
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://www.archives.gov/global-pages/privacy.html
+
+An official presidential executive order created by the United States government, held in General Records of the United States Government, Record Group 11; the official facsimile is not a third-party private photograph.
+
+Published NARA image saved byte-for-byte, without local editing.
+
+## Korean armistice agreement: preamble / 朝鲜停战协定：序言
+
+- File: us-archives-02-armistice-agreement-restoration-south-korean-state.jpg
+- Creator: United Nations Command, Korean People’s Army and Chinese People’s Volunteers
+- Date: 27 July 1953
+- Collection: United States National Archives
+- Source: https://www.archives.gov/milestone-documents/armistice-agreement-restoration-south-korean-state
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://www.archives.gov/global-pages/privacy.html
+
+Official published international agreement, Treaties and Other International Agreements Series 2782, in General Records of the United States Government, Record Group 11; this is a government documentary reproduction, not a privately donated creative work.
+
+Published NARA image saved byte-for-byte, without local editing.
+
+## San Cristóbal missile site: reconnaissance briefing photograph / 圣克里斯托瓦尔导弹基地：侦察简报照片
+
+- File: us-archives-02-aerial-photograph-of-missiles-in-cuba.jpg
+- Creator: United States Department of Defense
+- Date: 14 October 1962
+- Collection: United States National Archives
+- Source: https://www.archives.gov/milestone-documents/aerial-photograph-of-missiles-in-cuba
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://www.archives.gov/global-pages/privacy.html
+
+The item is Photograph PX1966-020-007, Briefing Board 07, in the Department of Defense Cuban Missile Crisis Briefing Materials, Collection JFK-5047. Federal military creation is identified by NARA, rather than merely inferred from archival custody; no outside photographer is credited.
+
+Published NARA image saved byte-for-byte, without local editing.
 
 ## Kongo crucifix: Christianity in an African court / 刚果十字架：非洲宫廷中的基督教
 
