@@ -13,5 +13,5 @@ test('Kieu frontispiece is a later manuscript copy and not a portrait or invente
 });
 test('literary additions preserve sources and replace defensive prose with visible publication evidence',()=>{
  for(const id of ['malay-annals-court-memory','person-tun-sri-lanang','person-nguyen-du']){const r=rs.get(id);assert.ok(r.sources.length>=3);assert.doesNotMatch(r.summary.en,/should not be treated|This biography consequently|should not be mistaken/);assert.ok(r.summary.zh);}
- const c=readAtlasData('visual-coverage-v18.json');assert.equal(c.covered,1012);assert.equal(c.total,2087);assert.equal(c.assets,545);assert.equal(c.remaining,32);assert.equal(c.regions['southeast-asia'].covered,37);
+ const c=readAtlasData('visual-coverage-v18.json');assert.equal(c.covered,1018);assert.equal(c.total,2087);assert.equal(c.assets,545);assert.equal(c.remaining,26);assert.equal(c.regions['southeast-asia'].covered,37);
 });

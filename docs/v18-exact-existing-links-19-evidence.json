@@ -1,0 +1,217 @@
+{
+  "reviewedAt": "2026-11-13",
+  "reviews": [
+    {
+      "id": "china-landmark-365",
+      "patch": {
+        "title": {
+          "en": "Tang and Uyghur forces recover Chang’an",
+          "zh": "唐军与回纥援军收复长安"
+        },
+        "summary": {
+          "en": "In 757, Guo Ziyi served under the Prince of Guangping in the advance on Chang’an. The Old Tang History describes Li Siye rallying the Tang army and Uyghur cavalry attacking the enemy’s rear north of Xiangji Temple. The prince entered Chang’an the next day; the recovery of Luoyang followed in a separate campaign.",
+          "zh": "757年，郭子仪随元帅广平王进军长安。《旧唐书》记载，在香积寺北的战斗中，李嗣业重整唐军，回纥骑兵从敌阵后方夹击。广平王次日进入长安，收复洛阳则是随后另一阶段的战事。"
+        },
+        "dateNote": {
+          "en": "757; the retained city coordinate represents Chang’an, not an exact battlefield at Xiangji Temple.",
+          "zh": "757年；保留的城市坐标代表长安，并非香积寺战场的精确位置。"
+        },
+        "location": {
+          "lon": 108.93,
+          "lat": 34.28,
+          "label": "Chang’an (representative city point)",
+          "labelI18n": {
+            "en": "Chang’an (representative city point)",
+            "zh": "长安（城市示意点）"
+          },
+          "labelProvenance": "inherited-source-place-pair"
+        }
+      },
+      "note": {
+        "en": "Separated the two capitals and named the allied command instead of presenting a casualty number as the story.",
+        "zh": "区分两京收复的次序，说明联军指挥与协作，不以伤亡数字代替历史叙述。"
+      },
+      "sources": [
+        {
+          "title": "Old Tang History 120: Guo Ziyi, Zhide 2",
+          "url": "https://zh.wikisource.org/wiki/舊唐書/卷120",
+          "publisher": "Wikisource transcription of the historical text",
+          "checkedAt": "2026-11-13",
+          "retrieval": "Relevant historical text read directly; sequence, location and attribution distinguished.",
+          "evidenceNote": "September account distinguishes the Prince of Guangping’s command, Guo Ziyi, Li Siye and Uyghur cavalry; entry into Chang’an the next day precedes the October recovery of Luoyang.",
+          "evidenceNoteZh": "九月条分别记广平王统军、郭子仪、李嗣业与回纥骑兵；次日入长安，十月再收洛阳。"
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-474",
+      "patch": {
+        "title": {
+          "en": "Huan Wen retreats after his northern campaign runs short of supplies",
+          "zh": "桓温北伐粮尽退兵"
+        },
+        "summary": {
+          "en": "Huan Wen advanced to Fangtou in 369 during his campaign against Former Yan. The Jin History says the planned supply route through Shimen could not be opened and provisions ran out. He burned his boats and withdrew overland. Murong Chui’s cavalry pursued and defeated his army at Xiangyi, a later point on the retreat rather than Fangtou itself.",
+          "zh": "369年，桓温北伐前燕，进抵枋头。《晋书》记载，原定经石门的粮运通道未能打通，军粮耗尽，桓温遂焚舟步退。慕容垂率骑兵追击，在退途中的襄邑击败晋军，而非在枋头原地决战。"
+        },
+        "dateNote": {
+          "en": "369, Taihe 4 in the Jin History. The Fangtou pin marks the advance, not the later defeat at Xiangyi.",
+          "zh": "369年，即《晋书》的太和四年。枋头点位标示进军所至，不是随后襄邑败战的地点。"
+        }
+      },
+      "note": {
+        "en": "Corrected the inherited conflation of the advance point and defeat location; distinguished logistics from direct enemy action.",
+        "zh": "校正继承记录将进军地点与败战地点混为一处的表述，并区分运输失败与敌军追击。"
+      },
+      "sources": [
+        {
+          "title": "Jin History 98: Huan Wen, Taihe 4",
+          "url": "https://zh.wikisource.org/wiki/晉書/卷098",
+          "publisher": "Wikisource transcription of the historical text",
+          "checkedAt": "2026-11-13",
+          "retrieval": "Relevant historical text read directly; sequence, location and attribution distinguished.",
+          "evidenceNote": "Records Fangtou advance, failed Shimen transport works, exhausted grain, burning boats and retreat, then pursuit and defeat at Xiangyi.",
+          "evidenceNoteZh": "依次记至枋头、不能开石门、军粮竭尽、焚舟步退，再记追兵与襄邑败战。"
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-408",
+      "patch": {
+        "title": {
+          "en": "Fancheng falls and Xiangyang surrenders",
+          "zh": "樊城失守，襄阳降元"
+        },
+        "summary": {
+          "en": "In 1273 Yuan forces captured Fancheng. The Yuan History then records Lü Wenhuan surrendering Xiangyang in the following lunar month. Kublai Khan rewarded the surrendered commander and ordered his own generals to exploit opportunities south of Xiangyang. The sequence distinguishes assault on one city from negotiated surrender of the other.",
+          "zh": "1273年，元军攻下樊城。《元史》随后记吕文焕于次月以襄阳降元。忽必烈授吕文焕官职，并命元军将领乘机进取襄阳以南堡寨。这一次序区分了樊城被攻破与襄阳投降两种结局。"
+        },
+        "dateNote": {
+          "en": "1273, Zhiyuan 10. The Xiangyang pin represents the surrendered city; the account does not place Kublai personally at the siege.",
+          "zh": "1273年，即至元十年。襄阳点位代表投降的城市；叙述不据此认定忽必烈亲临围城现场。"
+        }
+      },
+      "note": {
+        "en": "Removed a bundled claim that both cities were breached and that Kublai personally used the siege engine.",
+        "zh": "移除两城皆被攻破以及忽必烈亲自使用攻城器械的混合表述。"
+      },
+      "sources": [
+        {
+          "title": "Yuan History 8: Zhiyuan 10, first, second and fourth months",
+          "url": "https://zh.wikisource.org/wiki/元史/卷008",
+          "publisher": "Wikisource transcription of the historical text",
+          "checkedAt": "2026-11-13",
+          "retrieval": "Relevant historical text read directly; sequence, location and attribution distinguished.",
+          "evidenceNote": "First month: Fancheng taken. Second month: Lü Wenhuan surrenders Xiangyang. Fourth month: Kublai rewards him and orders advances toward strongholds south of Xiangyang.",
+          "evidenceNoteZh": "正月载拔樊城；二月载吕文焕以襄阳降；四月载忽必烈授官并命进取襄阳以南堡寨。"
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-511",
+      "patch": {
+        "title": {
+          "en": "Zuo Zongtang moves his headquarters toward Hami",
+          "zh": "左宗棠出关移驻哈密"
+        },
+        "summary": {
+          "en": "In 1880 Zuo Zongtang moved from Suzhou in Gansu toward Hami to coordinate frontier forces during the Ili dispute. His memorial describes staggered troop departures and a delayed personal departure, while Zeng Jize pursued treaty negotiations. The Hami deployment formed one part of the Qing response, alongside diplomacy.",
+          "zh": "1880年，左宗棠由甘肃肃州出关赴哈密，在伊犁交涉期间协调边防。他的奏折记述各部先后出发，以及本人延迟启程的经过；曾纪泽则负责改议条约。移驻哈密是清廷应对的一环，与外交交涉同时展开。"
+        },
+        "dateNote": {
+          "en": "1880. The memorial distinguishes an intended third-month departure from the later departure report; no exact arrival day is assigned.",
+          "zh": "1880年。奏折区分原定三月启程与其后实际出关的报告，不强定到达哈密的某一天。"
+        }
+      },
+      "note": {
+        "en": "Replaced the coffin-and-age headline with the documented deployment and distinguished military planning from diplomatic negotiation.",
+        "zh": "以有文献依据的移驻过程取代棺材与年龄标题，并区分军事部署和外交谈判。"
+      },
+      "sources": [
+        {
+          "title": "Zuo Wenxiang Gong memorials, juan 56: deployment to Hami",
+          "url": "https://www.shidianguji.com/zh/book/CADAL01033825/chapter/1l5ep3e35c0tv",
+          "publisher": "Shidian Guji: historical memorial collection",
+          "checkedAt": "2026-11-13",
+          "retrieval": "Relevant historical text read directly; sequence, location and attribution distinguished.",
+          "evidenceNote": "The chapter records Zeng Jize’s renegotiation mission and distinguishes intended departure, a delay in Suzhou and departure after the memorial.",
+          "evidenceNoteZh": "本卷记曾纪泽奉命改议条约，并区分原定启程、暂留肃州与奏折发出后出关。"
+        }
+      ]
+    }
+  ],
+  "associations": [
+    {
+      "assetId": "china-batch-05-guoziyi",
+      "recordId": "china-landmark-365",
+      "role": "named-person",
+      "context": {
+        "en": "Guo Ziyi, one of the commanders in the recovery of Chang’an, appears at right in this later album of worthies.",
+        "zh": "参与收复长安的将领郭子仪，位于这幅后世先贤像册的右页。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/舊唐書/卷120",
+      "checkedAt": "2026-11-13"
+    },
+    {
+      "assetId": "china-batch-06-huanwen",
+      "recordId": "china-landmark-474",
+      "role": "named-person",
+      "context": {
+        "en": "Huan Wen in an 1893 illustrated historical novel, long after the fourth-century campaign.",
+        "zh": "1893年绣像历史小说中的桓温，与四世纪的战役相隔久远。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/晉書/卷098",
+      "checkedAt": "2026-11-13"
+    },
+    {
+      "assetId": "china-batch-04-kublaikhan",
+      "recordId": "china-landmark-408",
+      "role": "named-person",
+      "context": {
+        "en": "Kublai Khan, who ordered the subsequent southward advance, in the Yuan imperial portrait album; its exact date and artist remain unestablished.",
+        "zh": "下令继续南进的忽必烈，在元代帝王肖像册中的形象；画像的确切年代与作者尚未确定。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/元史/卷008",
+      "checkedAt": "2026-11-13"
+    },
+    {
+      "assetId": "china-batch-04-zuozongtang",
+      "recordId": "china-landmark-511",
+      "role": "named-person",
+      "context": {
+        "en": "Zuo Zongtang photographed in 1875, five years before the Hami deployment.",
+        "zh": "1875年拍摄的左宗棠，比此次移驻哈密早五年。"
+      },
+      "evidenceUrl": "https://www.shidianguji.com/zh/book/CADAL01033825/chapter/1l5ep3e35c0tv",
+      "checkedAt": "2026-11-13"
+    },
+    {
+      "assetId": "china-batch-06-guanyu",
+      "recordId": "china-landmark-439",
+      "role": "named-person",
+      "context": {
+        "en": "Guan Yu, the recipient of Lu Xun’s letters, portrayed in the 1609 Sancai Tuhui.",
+        "zh": "陆逊书信的收信人关羽，在1609年《三才图会》中的后世形象。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/三國志/卷58",
+      "checkedAt": "2026-11-13"
+    },
+    {
+      "assetId": "china-rebuild-sun-quan",
+      "recordId": "china-landmark-440",
+      "role": "named-person",
+      "context": {
+        "en": "Sun Quan, who appointed Lu Xun chancellor in 244, in a later imperial portrait scroll.",
+        "zh": "244年任命陆逊为丞相的孙权，在后世帝王手卷中的形象。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/三國志/卷58",
+      "checkedAt": "2026-11-13"
+    }
+  ],
+  "verification": "Six new entry-image connections use previously admitted unchanged images. Relevant primary passages read by curator and owner. Four narratives corrected; Lu Xun entries retain their already-reviewed narratives. No new downloads or fabricated event scenes.",
+  "held": [
+    "No exact Hami arrival day inferred from an earlier planned departure.",
+    "No precise Xiangji Temple coordinate inferred from the inherited Chang’an point.",
+    "Kublai’s portrait is connected to his documented order, not represented as a siege scene."
+  ]
+}

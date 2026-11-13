@@ -9,7 +9,7 @@ test('eleven new images cover eleven distinct subjects, with both prints counted
  assert.deepEqual(asset('892401').recordIds,['person-toussaint','haitian-revolution']);
  assert.deepEqual(asset('717892').recordIds,asset('735898').recordIds);
  for(const a of items){assert.match(a.rights.label,/Public Domain/);for(const id of a.recordIds)assert.ok(records.get(id).sources.some(s=>s.url===a.sourceUrl));}
- const c=readAtlasData('visual-coverage-v18.json');assert.equal(c.covered,1012);assert.equal(c.assets,545);assert.equal(c.remaining,32);
+ const c=readAtlasData('visual-coverage-v18.json');assert.equal(c.covered,1018);assert.equal(c.assets,545);assert.equal(c.remaining,26);
 });
 test('uncertain likeness, posthumous memorial and later impression retain their distinct identities',()=>{
  assert.match(asset('892401').caption.en,/not a verified likeness/);assert.match(asset('892401').interpretation.en,/probably never saw/);

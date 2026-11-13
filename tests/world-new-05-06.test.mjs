@@ -6,7 +6,7 @@ const asset=n=>items.find(a=>a.id.endsWith('-'+n));
 test('twelve new objects have twelve distinct historical targets and individually verified reuse',()=>{
  assert.equal(items.length,12);assert.equal(new Set(items.flatMap(a=>a.recordIds)).size,12);assert.equal(shards.flatMap(s=>s.associations).length,0);
  for(const a of items){assert.equal(a.recordIds.length,1);assert.ok(records.has(a.recordIds[0]));assert.match(a.rights.label,/Public Domain/);assert.equal(a.rightsSourceUrl,a.sourceUrl);assert.ok(records.get(a.recordIds[0]).sources.some(s=>s.url===a.sourceUrl));}
- const c=readAtlasData('visual-coverage-v18.json');assert.equal(c.covered,1012);assert.equal(c.assets,545);assert.equal(c.remaining,32);
+ const c=readAtlasData('visual-coverage-v18.json');assert.equal(c.covered,1018);assert.equal(c.assets,545);assert.equal(c.remaining,26);
 });
 test('royal and religious objects preserve incomplete and tentative identifications',()=>{
  assert.match(asset('544879').caption.en,/Fragmentary.*Shabaqo/);assert.match(asset('313146').interpretation.en,/not a portrait of a named ruler/);

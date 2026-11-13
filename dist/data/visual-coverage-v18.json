@@ -3,9 +3,9 @@
   "reviewedAt": "2026-11-13",
   "baselineManifest": "content-expansion-v17.json",
   "total": 2087,
-  "covered": 1012,
+  "covered": 1018,
   "assets": 545,
-  "percent": 48.490656444657404,
+  "percent": 48.77815045519885,
   "coveredIds": [
     "abbasid-caliphate",
     "abu-simbel-relocation",
@@ -441,6 +441,7 @@
     "china-landmark-362",
     "china-landmark-363",
     "china-landmark-364",
+    "china-landmark-365",
     "china-landmark-366",
     "china-landmark-367",
     "china-landmark-368",
@@ -476,6 +477,7 @@
     "china-landmark-405",
     "china-landmark-406",
     "china-landmark-407",
+    "china-landmark-408",
     "china-landmark-409",
     "china-landmark-410",
     "china-landmark-413",
@@ -495,6 +497,8 @@
     "china-landmark-432",
     "china-landmark-437",
     "china-landmark-438",
+    "china-landmark-439",
+    "china-landmark-440",
     "china-landmark-441",
     "china-landmark-442",
     "china-landmark-443",
@@ -509,6 +513,7 @@
     "china-landmark-467",
     "china-landmark-468",
     "china-landmark-471",
+    "china-landmark-474",
     "china-landmark-475",
     "china-landmark-477",
     "china-landmark-478",
@@ -533,6 +538,7 @@
     "china-landmark-507",
     "china-landmark-509",
     "china-landmark-510",
+    "china-landmark-511",
     "china-landmark-512",
     "china-landmark-516",
     "china-landmark-518",
@@ -1688,7 +1694,6 @@
     "china-landmark-457",
     "china-landmark-329",
     "china-landmark-472",
-    "china-landmark-439",
     "china-landmark-458",
     "china-event-sanguo-001",
     "china-landmark-031",
@@ -1700,7 +1705,6 @@
     "china-event-sanguo-008",
     "china-landmark-473",
     "china-landmark-170",
-    "china-landmark-440",
     "china-landmark-460",
     "china-event-sanguo-012",
     "china-landmark-032",
@@ -1733,7 +1737,6 @@
     "china-event-dongjin-007",
     "china-landmark-011",
     "china-landmark-105",
-    "china-landmark-474",
     "china-event-dongjin-013",
     "china-landmark-164",
     "china-event-dongjin-014",
@@ -1827,7 +1830,6 @@
     "china-landmark-162",
     "china-landmark-357",
     "china-landmark-018",
-    "china-landmark-365",
     "china-landmark-476",
     "china-landmark-019",
     "china-event-tang-034",
@@ -1934,7 +1936,6 @@
     "china-event-nansong-018",
     "china-event-nansong-021",
     "china-landmark-103",
-    "china-landmark-408",
     "china-event-nansong-022",
     "china-event-nansong-023",
     "china-landmark-087",
@@ -2038,7 +2039,6 @@
     "china-landmark-508",
     "china-event-qing-038",
     "china-landmark-470",
-    "china-landmark-511",
     "china-event-qing-041",
     "china-landmark-267",
     "china-event-qing-042",
@@ -2099,7 +2099,7 @@
   ],
   "target": 1044,
   "targetMet": false,
-  "remaining": 32,
+  "remaining": 26,
   "regions": {
     "africa": {
       "total": 136,
@@ -2107,7 +2107,7 @@
     },
     "east-asia": {
       "total": 1216,
-      "covered": 631
+      "covered": 637
     },
     "europe": {
       "total": 122,
@@ -2530,6 +2530,13 @@
       "sha256": "f2605f20294f30e0122666e994eda8fb0412626c2ba9b12524763bf3721366d7",
       "assets": 0,
       "associations": 4
+    },
+    {
+      "file": "visual-assets-exact-links-19-v18.json",
+      "bytes": 2950,
+      "sha256": "f78baf490bb1e354bb5bcda3b51b2bb0531728aee019d9212a38c20329f7324c",
+      "assets": 0,
+      "associations": 6
     },
     {
       "file": "visual-assets-existing-links-01-v18.json",
