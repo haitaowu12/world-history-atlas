@@ -1,6 +1,6 @@
 # Historical images: credits and reuse
 
-Reviewed 2026-11-13. 536 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
+Reviewed 2026-11-13. 540 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
 
 Historical artifacts, surviving places and later depictions retain their source identities. No generated reconstructions are included in this catalogue.
 
@@ -3755,6 +3755,62 @@ Official fullsize derivative saved unchanged, including handwritten mark and mar
 ColBase permits commercial reuse with source citation and states its terms are compatible with CC BY 4.0. The official item ZIP repeats the reuse permission and identifies this museum-held seventeenth-century work; no third-party restriction is indicated.
 
 Official display derivative saved unchanged; complete composition retained. The larger original ZIP remains research evidence.
+
+## A palace above a funerary urn / 魂瓶上的楼阁
+
+- File: exact-15-met-44733.jpg
+- Creator: Maker unrecorded
+- Date: Western Jin dynasty (265–316)
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/44733
+- Rights: Public Domain / CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/44733
+
+The exact museum item page labels the image Public Domain; the official API confirms isPublicDomain=true.
+
+Official web-large derivative saved unchanged.
+
+## Four lugs on a small green-glazed jar / 小型青釉四系罐
+
+- File: exact-15-met-50707.jpg
+- Creator: Maker unrecorded
+- Date: 4th century, Eastern Jin dynasty
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/50707
+- Rights: Public Domain / CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/50707
+
+The exact museum item page labels the image Public Domain; the official API confirms isPublicDomain=true.
+
+Official web-large derivative saved unchanged.
+
+## A long-necked jar attributed to Great Gaya / 归于大伽耶的长颈壶
+
+- File: exact-15-met-39499.jpg
+- Creator: Maker unrecorded
+- Date: Third quarter of the 5th century
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/39499
+- Rights: Public Domain / CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/39499
+
+The exact museum item page labels the image Public Domain; the official API confirms isPublicDomain=true.
+
+Official web-large derivative saved unchanged.
+
+## Ibadan in indigo and maker marks / 靛蓝与署名中的伊巴丹
+
+- File: exact-17-princeton-135166.jpg
+- Creator: Unrecorded Yorùbá artists
+- Date: ca. 1960
+- Collection: Princeton University Art Museum
+- Source: https://artmuseum.princeton.edu/art/collections/objects/135166
+- Rights: Public Domain (https://artmuseum.princeton.edu/art/our-collections/image-use-and-access)
+- Rights evidence: https://artmuseum.princeton.edu/art/collections/objects/135166
+
+This exact object page offers a public-domain image download. Museum policy permits free use of downloadable public-domain images and distinguishes restricted works, which cannot be downloaded.
+
+Official 1024-pixel derivative saved unchanged, retaining the cloth edges and central seam.
 
 ## The coronation remembered in 1840 / 1840年画中的查理曼加冕
 

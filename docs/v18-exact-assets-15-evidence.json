@@ -1,0 +1,261 @@
+{
+  "sourceEvidence": [
+    {
+      "assetId": "exact-15-met-44733",
+      "recordId": "western-jin-dynasty",
+      "pixelReviewed": true,
+      "officialItemPublicDomain": true,
+      "apiPublicDomain": true,
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/44733",
+      "apiUrl": "https://collectionapi.metmuseum.org/public/collection/v1/objects/44733",
+      "bytes": 63032,
+      "width": 484,
+      "height": 624,
+      "sha256": "52a3b958155afa7ec2a85ad32145d71e3c28481b46b3648356dcb253a84458e9",
+      "limits": "The museum identifies Buddhist figures alongside a model palace and auspicious animals, linking new imagery to existing afterlife beliefs. Its proposed use as a dwelling for the soul remains an interpretation."
+    },
+    {
+      "assetId": "exact-15-met-50707",
+      "recordId": "eastern-jin-dynasty",
+      "pixelReviewed": true,
+      "officialItemPublicDomain": true,
+      "apiPublicDomain": true,
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/50707",
+      "apiUrl": "https://collectionapi.metmuseum.org/public/collection/v1/objects/50707",
+      "bytes": 64735,
+      "width": 599,
+      "height": 538,
+      "sha256": "e0affaeb468fac4afcdea277cb4f3d0e020e16c4934523a7c63ca9b93c335728",
+      "limits": "The small vessel gives the period’s ceramic history a specific form and scale. The catalogue records no court owner or named workshop."
+    },
+    {
+      "assetId": "exact-15-met-39499",
+      "recordId": "gaya-confederated-polities",
+      "pixelReviewed": true,
+      "officialItemPublicDomain": true,
+      "apiPublicDomain": true,
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/39499",
+      "apiUrl": "https://collectionapi.metmuseum.org/public/collection/v1/objects/39499",
+      "bytes": 49531,
+      "width": 468,
+      "height": 624,
+      "sha256": "1f392d05d787107edc4c81691c51f8725fcb3f15feba9c5986e4c54d74c2b5be",
+      "limits": "The museum’s Great Gaya attribution offers a more specific regional reference than a single label for the whole confederation. The catalogue does not identify an excavated tomb or owner."
+    }
+  ],
+  "admittedAssets": [
+    {
+      "id": "exact-15-met-44733",
+      "recordIds": [
+        "western-jin-dynasty"
+      ],
+      "kind": "object",
+      "representation": "object-photograph",
+      "title": {
+        "en": "A palace above a funerary urn",
+        "zh": "魂瓶上的楼阁"
+      },
+      "alt": {
+        "en": "An olive-glazed urn supports tiers of seated figures, animals and tiled roofs against a dark background.",
+        "zh": "橄榄绿釉陶罐上层叠着坐像、动物和瓦顶楼阁，背景深暗。"
+      },
+      "caption": {
+        "en": "Funerary urn (hunping), Western Jin dynasty; Yue ware, stoneware with olive-green glaze. The Metropolitan Museum of Art, 1992.165.21.",
+        "zh": "魂瓶，西晋；越窑橄榄绿釉炻器。大都会艺术博物馆，1992.165.21。"
+      },
+      "interpretation": {
+        "en": "The museum identifies Buddhist figures alongside a model palace and auspicious animals, linking new imagery to existing afterlife beliefs. Its proposed use as a dwelling for the soul remains an interpretation.",
+        "zh": "馆方识别出佛像、楼阁模型与瑞兽的组合，将新图像与既有来世信仰联系起来。将其用途解释为灵魂居所，仍属研究观点。"
+      },
+      "creator": "Maker unrecorded",
+      "date": "Western Jin dynasty (265–316)",
+      "institution": "The Metropolitan Museum of Art",
+      "credit": "Charlotte C. and John C. Weber Collection, Gift of Charlotte C. and John C. Weber, 1992",
+      "file": "assets/history-media/exact-15-met-44733.jpg",
+      "imageUrl": "https://images.metmuseum.org/CRDImages/as/web-large/DT5080.jpg",
+      "downloadedFrom": "https://images.metmuseum.org/CRDImages/as/web-large/DT5080.jpg",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/44733",
+      "rightsSourceUrl": "https://www.metmuseum.org/art/collection/search/44733",
+      "rights": {
+        "label": "Public Domain / CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "The exact museum item page labels the image Public Domain; the official API confirms isPublicDomain=true.",
+          "zh": "博物馆此单件页面将图像标为公共领域；官方API确认isPublicDomain=true。"
+        }
+      },
+      "transformation": {
+        "en": "Official web-large derivative saved unchanged.",
+        "zh": "原样保存官方web-large衍生图。"
+      },
+      "checkedAt": "2026-11-13",
+      "width": 484,
+      "height": 624,
+      "bytes": 63032,
+      "sha256": "52a3b958155afa7ec2a85ad32145d71e3c28481b46b3648356dcb253a84458e9"
+    },
+    {
+      "id": "exact-15-met-50707",
+      "recordIds": [
+        "eastern-jin-dynasty"
+      ],
+      "kind": "object",
+      "representation": "object-photograph",
+      "title": {
+        "en": "Four lugs on a small green-glazed jar",
+        "zh": "小型青釉四系罐"
+      },
+      "alt": {
+        "en": "A squat, rounded jar has a short open neck, small shoulder loops and mottled green-brown glaze.",
+        "zh": "矮圆罐有短颈敞口、肩部小系和斑驳的青褐色釉面。"
+      },
+      "caption": {
+        "en": "Jar with four lugs, 4th century; Yue-type stoneware with green glaze, height 7.3 cm. The Metropolitan Museum of Art, 1977.449.8.",
+        "zh": "四系罐，四世纪；越窑式青釉炻器，高7.3厘米。大都会艺术博物馆，1977.449.8。"
+      },
+      "interpretation": {
+        "en": "The small vessel gives the period’s ceramic history a specific form and scale. The catalogue records no court owner or named workshop.",
+        "zh": "这件小器物为此期陶瓷史提供具体形制与尺度。目录未记载宫廷物主或具名作坊。"
+      },
+      "creator": "Maker unrecorded",
+      "date": "4th century, Eastern Jin dynasty",
+      "institution": "The Metropolitan Museum of Art",
+      "credit": "Gift of Dr. Paul Singer, 1977",
+      "file": "assets/history-media/exact-15-met-50707.jpg",
+      "imageUrl": "https://images.metmuseum.org/CRDImages/as/web-large/1977_449_8.jpg",
+      "downloadedFrom": "https://images.metmuseum.org/CRDImages/as/web-large/1977_449_8.jpg",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/50707",
+      "rightsSourceUrl": "https://www.metmuseum.org/art/collection/search/50707",
+      "rights": {
+        "label": "Public Domain / CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "The exact museum item page labels the image Public Domain; the official API confirms isPublicDomain=true.",
+          "zh": "博物馆此单件页面将图像标为公共领域；官方API确认isPublicDomain=true。"
+        }
+      },
+      "transformation": {
+        "en": "Official web-large derivative saved unchanged.",
+        "zh": "原样保存官方web-large衍生图。"
+      },
+      "checkedAt": "2026-11-13",
+      "width": 599,
+      "height": 538,
+      "bytes": 64735,
+      "sha256": "e0affaeb468fac4afcdea277cb4f3d0e020e16c4934523a7c63ca9b93c335728"
+    },
+    {
+      "id": "exact-15-met-39499",
+      "recordIds": [
+        "gaya-confederated-polities"
+      ],
+      "kind": "object",
+      "representation": "object-photograph",
+      "title": {
+        "en": "A long-necked jar attributed to Great Gaya",
+        "zh": "归于大伽耶的长颈壶"
+      },
+      "alt": {
+        "en": "A dark, round-bodied jar has a tall neck encircled by raised bands and textured horizontal strips.",
+        "zh": "深色圆腹壶有高颈，颈部环绕凸起带纹与带有细密纹理的横条。"
+      },
+      "caption": {
+        "en": "Long-necked jar, third quarter of the 5th century, attributed to Great Gaya; stoneware with accidental ash glaze. The Metropolitan Museum of Art, 1997.34.4.",
+        "zh": "长颈壶，五世纪第三个四分之一，归于大伽耶；带自然落灰釉的炻器。大都会艺术博物馆，1997.34.4。"
+      },
+      "interpretation": {
+        "en": "The museum’s Great Gaya attribution offers a more specific regional reference than a single label for the whole confederation. The catalogue does not identify an excavated tomb or owner.",
+        "zh": "馆方归属大伽耶的判断，比涵盖整个联盟的单一标签提供更具体的区域参照。目录未指明出土墓葬或物主。"
+      },
+      "creator": "Maker unrecorded",
+      "date": "Third quarter of the 5th century",
+      "institution": "The Metropolitan Museum of Art",
+      "credit": "Purchase, Lila Acheson Wallace Gift, 1997",
+      "file": "assets/history-media/exact-15-met-39499.jpg",
+      "imageUrl": "https://images.metmuseum.org/CRDImages/as/web-large/DP341739.jpg",
+      "downloadedFrom": "https://images.metmuseum.org/CRDImages/as/web-large/DP341739.jpg",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/39499",
+      "rightsSourceUrl": "https://www.metmuseum.org/art/collection/search/39499",
+      "rights": {
+        "label": "Public Domain / CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "The exact museum item page labels the image Public Domain; the official API confirms isPublicDomain=true.",
+          "zh": "博物馆此单件页面将图像标为公共领域；官方API确认isPublicDomain=true。"
+        }
+      },
+      "transformation": {
+        "en": "Official web-large derivative saved unchanged.",
+        "zh": "原样保存官方web-large衍生图。"
+      },
+      "checkedAt": "2026-11-13",
+      "width": 468,
+      "height": 624,
+      "bytes": 49531,
+      "sha256": "1f392d05d787107edc4c81691c51f8725fcb3f15feba9c5986e4c54d74c2b5be"
+    }
+  ],
+  "summaryChanges": [
+    {
+      "recordId": "western-jin-dynasty",
+      "before": {
+        "en": "The Western Jin replaced Wei in 265 while Wu still ruled in the south. Reunification in 280 was one phase of the dynasty’s history, followed by renewed political fragmentation.\n\nA Western Jin funerary urn in the Metropolitan Museum combines a model palace, auspicious animals and Buddhist figures. The museum interprets the combination as evidence of Buddhism entering existing beliefs about the afterlife. Political upheaval and changing religious practices belonged to the same world.",
+        "zh": "西晋于265年取代魏，南方的吴仍然存在。280年的统一只是王朝历史中的一个阶段，随后又出现政治分裂。\n\n大都会博物馆的一件西晋魂瓶把楼阁、瑞兽与佛像组合在一起。馆方将这种组合解释为佛教进入既有来世信仰的证据。政治动荡与宗教生活的变化，发生在同一个历史世界中。"
+      },
+      "after": {
+        "en": "The Western Jin replaced Wei in 265 while Wu still ruled in the south. Reunification in 280 was one phase of the dynasty’s history, followed by renewed political fragmentation.\n\nA Western Jin funerary urn at the Metropolitan Museum (1992.165.21) raises a model palace above animals and rows of Buddhist figures. Its olive-green glaze covers a crowded, vertical miniature world. The museum interprets this combination as Buddhism entering existing beliefs about the afterlife.",
+        "zh": "西晋于265年取代魏，南方的吴仍然存在。280年的统一只是王朝历史中的一个阶段，随后又出现政治分裂。\n\n大都会博物馆的一件西晋魂瓶（1992.165.21）在动物与成排佛像上方筑起楼阁模型。橄榄绿釉覆盖着密集向上延伸的微型世界。馆方将这种组合解释为佛教进入既有来世信仰的表现。"
+      },
+      "rationale": "Illustrate an exact museum object already referenced in this entry; retain attribution limits.",
+      "source": {
+        "title": "Funerary Urn (Hunping)",
+        "url": "https://www.metmuseum.org/art/collection/search/44733",
+        "publisher": "The Metropolitan Museum of Art",
+        "evidenceNote": "Funerary urn (hunping), Western Jin dynasty; Yue ware, stoneware with olive-green glaze. The Metropolitan Museum of Art, 1992.165.21. The museum identifies Buddhist figures alongside a model palace and auspicious animals, linking new imagery to existing afterlife beliefs. Its proposed use as a dwelling for the soul remains an interpretation.",
+        "checkedAt": "2026-11-13",
+        "retrieval": "official-item-page-and-api"
+      }
+    },
+    {
+      "recordId": "eastern-jin-dynasty",
+      "before": {
+        "en": "The Eastern Jin maintained its court at Jiankang from 317 to 420 while competing states ruled in northern China. Liu Song later succeeded it at the southern capital.\n\nCalligraphy, painting and ceramics developed amid these political divisions. A fourth-century green-glazed jar in the Metropolitan Museum offers a material example of southern production. Courtly culture and exchange continued across a landscape of competing regimes.",
+        "zh": "东晋于317至420年以建康为朝廷中心，北方则有多个政权并存。此后刘宋在南方都城继承东晋。\n\n书法、绘画与陶瓷传统在政治分立中发展。大都会博物馆的一件四世纪青釉罐提供了南方制作的实物例证。朝廷文化与交流并未因政权竞争而停止。"
+      },
+      "after": {
+        "en": "The Eastern Jin maintained its court at Jiankang from 317 to 420 while competing states ruled in northern China. Liu Song later succeeded it at the southern capital.\n\nA fourth-century jar at the Metropolitan Museum (1977.449.8) gives the period’s ceramics a tangible scale: it stands just 7.3 centimetres high, with four lugs around its shoulder. The catalogue identifies Yue-type stoneware with green glaze.",
+        "zh": "东晋于317至420年以建康为朝廷中心，北方则有多个政权并存。此后刘宋在南方都城继承东晋。\n\n大都会博物馆的一件四世纪罐（1977.449.8），为此期陶瓷提供可感的尺度：高仅7.3厘米，肩部有四系。馆方将其定为越窑式青釉炻器。"
+      },
+      "rationale": "Illustrate an exact museum object already referenced in this entry; retain attribution limits.",
+      "source": {
+        "title": "Jar with four lugs",
+        "url": "https://www.metmuseum.org/art/collection/search/50707",
+        "publisher": "The Metropolitan Museum of Art",
+        "evidenceNote": "Jar with four lugs, 4th century; Yue-type stoneware with green glaze, height 7.3 cm. The Metropolitan Museum of Art, 1977.449.8. The small vessel gives the period’s ceramic history a specific form and scale. The catalogue records no court owner or named workshop.",
+        "checkedAt": "2026-11-13",
+        "retrieval": "official-item-page-and-api"
+      }
+    },
+    {
+      "recordId": "gaya-confederated-polities",
+      "before": {
+        "en": "Gaya comprised several polities in the southern peninsula rather than a single centralized kingdom. Their cemeteries shared forms of stone-lined chambers and pottery while retaining local differences. The combination allows archaeologists to investigate both connections and political autonomy. Burial similarities alone do not demonstrate one government.\n\nPottery and other specialized products circulated through regional relationships. Elite cemeteries occupied prominent positions near local centers, making authority visible in the landscape. Silla’s expansion brought the independent Gaya polities under its control by the middle of the sixth century. A confederated political history therefore sits beside the histories of larger kingdoms and challenges a map that fills all early Korea with only three uniform blocks.",
+        "zh": "伽耶由半岛南部的多个政体构成，并非单一中央集权王国。各地墓园共享石室结构与陶器形式，同时保留地方差异。考古学因此能够同时研究彼此联系和政治自主；葬俗相似本身不能证明存在统一政府。\n\n陶器等专业产品通过区域关系流通。精英墓园常位于地方中心附近的显著位置，使权威在景观中可见。至六世纪中叶，新罗扩张逐渐结束了各伽耶政体的独立地位。这样的联盟型政治史应与较大王国并列，提醒我们不能只用三个整齐色块表现早期半岛历史。"
+      },
+      "after": {
+        "en": "Gaya comprised several polities in the southern peninsula rather than a single centralized kingdom. Their cemeteries shared forms of stone-lined chambers and pottery while retaining local differences. The combination allows archaeologists to investigate both connections and political autonomy. Burial similarities alone do not demonstrate one government.\n\nPottery and other specialized products circulated through regional relationships. Elite cemeteries occupied prominent positions near local centers, making authority visible in the landscape. Silla’s expansion brought the independent Gaya polities under its control by the middle of the sixth century.\n\nA fifth-century long-necked jar in the Metropolitan Museum (1997.34.4) is attributed specifically to Great Gaya. Raised bands and textured strips divide its tall neck above a rounded body.",
+        "zh": "伽耶由半岛南部的多个政体构成，并非单一中央集权王国。各地墓园共享石室结构与陶器形式，同时保留地方差异。考古学因此能够同时研究彼此联系和政治自主；葬俗相似本身不能证明存在统一政府。\n\n陶器等专业产品通过区域关系流通。精英墓园常位于地方中心附近的显著位置，使权威在景观中可见。至六世纪中叶，新罗扩张逐渐结束了各伽耶政体的独立地位。\n\n大都会博物馆的一件五世纪长颈壶（1997.34.4）被具体归于大伽耶。圆腹上方的高颈以凸起带纹与细密纹理横条分段。"
+      },
+      "rationale": "Illustrate an exact museum object already referenced in this entry; retain attribution limits.",
+      "source": {
+        "title": "Jar",
+        "url": "https://www.metmuseum.org/art/collection/search/39499",
+        "publisher": "The Metropolitan Museum of Art",
+        "evidenceNote": "Long-necked jar, third quarter of the 5th century, attributed to Great Gaya; stoneware with accidental ash glaze. The Metropolitan Museum of Art, 1997.34.4. The museum’s Great Gaya attribution offers a more specific regional reference than a single label for the whole confederation. The catalogue does not identify an excavated tomb or owner.",
+        "checkedAt": "2026-11-13",
+        "retrieval": "official-item-page-and-api"
+      }
+    }
+  ],
+  "ownerDecision": "All three exact collection records already occur in the associated entries. Add the corresponding object images, retain existing sources without duplicate links, and remove generic framing in favor of material and scale."
+}
