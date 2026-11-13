@@ -1,0 +1,107 @@
+{
+  "checkedAt": "2026-11-13T05:57:55.464958+00:00",
+  "releaseCommit": "f6fe07f93909ce338d6c5a99a610704a00707b66",
+  "releaseTree": "b0eb12a185e0c028687123305da01c98f0910300",
+  "url": "https://world-history-atlas-guide.web.app/",
+  "actionsRuns": 0,
+  "files": [
+    {
+      "path": "index.html",
+      "http": 200,
+      "bytes": 11563,
+      "sha256": "b585d13c08ad04ce04619af4aa1b3d553e5b515719225b0b1b893db5a5cfef62",
+      "matches": true
+    },
+    {
+      "path": "app.mjs",
+      "http": 200,
+      "bytes": 205978,
+      "sha256": "6d62039e11167e9abbdd8fe011c6745fb239f1f9c59f5b5ef1562376566f4624",
+      "matches": true
+    },
+    {
+      "path": "period-tracks.css",
+      "http": 200,
+      "bytes": 1946,
+      "sha256": "67db4ccd324f921f0c8e412c879dd7a8672cd50e0583bf507a34960aa6fee5b5",
+      "matches": true
+    },
+    {
+      "path": "data/history-media-v18.json",
+      "http": 200,
+      "bytes": 2212077,
+      "sha256": "1d3e4ec63fa894fe53f14e1b58f7973dae58e66c6c63864aee48bb4436274810",
+      "matches": true
+    },
+    {
+      "path": "data/visual-coverage-v18.json",
+      "http": 200,
+      "bytes": 75384,
+      "sha256": "ab8528f0fd3878c8aef8ab8e9a667a988f71e2e214b299da25a988c3c889b8db",
+      "matches": true
+    },
+    {
+      "path": "robots.txt",
+      "http": 200,
+      "bytes": 87,
+      "sha256": "bf8d2d28bc88d8b775ea2c7b0cdd4f9125d5e24fb128303e02cd7aa33435adc7",
+      "matches": true
+    },
+    {
+      "path": "sitemap.xml",
+      "http": 200,
+      "bytes": 185,
+      "sha256": "2ebff5716248bf517562dc9468db41c5fe84d99be081dee94b93846fc851752a",
+      "matches": true
+    },
+    {
+      "path": "assets/history-media/site-books-01-samarkand-tomb.jpg",
+      "http": 200,
+      "bytes": 172199,
+      "sha256": "7b60d480cda8bb8fbba26fa4df58682baa7ce6b840740b1ba1aa3a9b64c9e4aa",
+      "matches": true
+    },
+    {
+      "path": "assets/history-media/site-books-01-lubeck-petrikirche.jpg",
+      "http": 200,
+      "bytes": 126404,
+      "sha256": "f985738c5102115c02a68fd3bd83bfddaf583144564e76ffe8420e23e9b0b222",
+      "matches": true
+    },
+    {
+      "path": "assets/history-media/site-books-01-gondar-fasilides.jpg",
+      "http": 200,
+      "bytes": 145258,
+      "sha256": "8f8dad295b1814a13dd69cd0c43350e917dfcd834db449dbe67b5aa2209c3cd9",
+      "matches": true
+    },
+    {
+      "path": "assets/history-media/authored-women-01-gabriela-mistral.jpg",
+      "http": 200,
+      "bytes": 188505,
+      "sha256": "065e0285efbe0e33940165a72cea050b1c8f429649b6a8896d7ecc99ea7e90b5",
+      "matches": true
+    },
+    {
+      "path": "assets/history-media/inscribed-monuments-01-bisotun.jpg",
+      "http": 200,
+      "bytes": 142902,
+      "sha256": "63708a73fa63d600eb5685cdc8dfdc2677c323af12486b4270d23db8775ec627",
+      "matches": true
+    },
+    {
+      "path": "assets/history-media/inscribed-monuments-01-hammurabi.jpg",
+      "http": 200,
+      "bytes": 46853,
+      "sha256": "0647ec1181307c66aeb5e74b42cfc3544e8892676f38d4797724305420128b98",
+      "matches": true
+    },
+    {
+      "path": "assets/history-media/african-pages-01-taytu-letter.jpg",
+      "http": 200,
+      "bytes": 74531,
+      "sha256": "97718d3354980695d4bf889778050128bdde839432e32102237def6c0a1538ad",
+      "matches": true
+    }
+  ]
+}
