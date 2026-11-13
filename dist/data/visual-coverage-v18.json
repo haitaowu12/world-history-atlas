@@ -3,9 +3,9 @@
   "reviewedAt": "2026-11-13",
   "baselineManifest": "content-expansion-v17.json",
   "total": 2087,
-  "covered": 929,
-  "assets": 523,
-  "percent": 44.51365596550072,
+  "covered": 933,
+  "assets": 527,
+  "percent": 44.70531863919501,
   "coveredIds": [
     "abbasid-caliphate",
     "abu-simbel-relocation",
@@ -22,6 +22,7 @@
     "andean-altitude-agriculture",
     "angkor",
     "apollo-11",
+    "arabic-translation-collaboration",
     "asante-confederacy",
     "athens-acropolis",
     "australia-1967-referendum",
@@ -601,6 +602,7 @@
     "chola-dynasty",
     "chuquibamba-stars-imperial-tunic",
     "cold-war-world-history",
+    "congress-vienna",
     "cordoba-caliphate",
     "coromandel-painted-cotton-workshops",
     "coromandel-textile-work",
@@ -638,6 +640,7 @@
     "first-world-war",
     "florence-renaissance",
     "fort-laramie-treaty-1868",
+    "frankfurt-national-assembly-1848",
     "french-revolution",
     "galileo-telescope",
     "german-reunification",
@@ -680,6 +683,7 @@
     "inka-imperial-tunic-story",
     "inka-quipu-recordkeeping",
     "ironbridge",
+    "isfahan-royal-square",
     "italian-unification",
     "jain-ascetic-communities",
     "jantar-mantar-jaipur",
@@ -1014,7 +1018,6 @@
     "turkish-republic-proclamation",
     "iran-constitutional-movement",
     "peace-westphalia",
-    "congress-vienna",
     "poland-restoration",
     "india-constitution",
     "ceylon-independence",
@@ -1053,7 +1056,6 @@
     "nineveh-scribal-library",
     "cyrus-babylon-cylinder",
     "samarkand-observatory",
-    "isfahan-royal-square",
     "gulhane-reform-edict",
     "horyuji-buddhist-building",
     "nara-heijo-capital",
@@ -1197,7 +1199,6 @@
     "ugarit-writing-diplomacy",
     "zoroastrian-texts-ritual",
     "qanat-water-communities",
-    "arabic-translation-collaboration",
     "chagatai-early-khanate",
     "bukhara-successor-courts",
     "khiva-khanate",
@@ -1275,7 +1276,6 @@
     "polish-lithuanian-commonwealth",
     "hedeby-viking-trading-town",
     "liverpool-slavery-port-infrastructure",
-    "frankfurt-national-assembly-1848",
     "gernika-bombing-and-guernica",
     "hungarian-uprising-1956",
     "prague-spring-radio-1968",
@@ -2099,7 +2099,7 @@
   ],
   "target": 1044,
   "targetMet": false,
-  "remaining": 115,
+  "remaining": 111,
   "regions": {
     "africa": {
       "total": 136,
@@ -2111,7 +2111,7 @@
     },
     "europe": {
       "total": 122,
-      "covered": 76
+      "covered": 78
     },
     "latin-america": {
       "total": 94,
@@ -2135,19 +2135,19 @@
     },
     "west-central-asia": {
       "total": 111,
-      "covered": 44
+      "covered": 46
     }
   },
   "types": {
     "ancient-portrait": 2,
     "ancient-royal-image": 2,
     "document-facsimile": 39,
-    "historical-artwork": 74,
-    "historical-photograph": 84,
+    "historical-artwork": 76,
+    "historical-photograph": 85,
     "historical-portrait": 31,
     "later-depiction": 67,
     "lifetime-portrait": 18,
-    "manuscript-detail": 36,
+    "manuscript-detail": 37,
     "modern-memorial": 1,
     "object-photograph": 117,
     "site-photograph": 52
@@ -2382,6 +2382,13 @@
       "bytes": 15235,
       "sha256": "6b1b0af4bbf2cb2faba252e64f4f24058091d53c702b41bdbc845e2ec855e0b5",
       "assets": 6,
+      "associations": 0
+    },
+    {
+      "file": "visual-assets-exact-09-v18.json",
+      "bytes": 10883,
+      "sha256": "7f7de2469d417ad49ec6d6181c2974274c4d6d3b491da714736c0c0a0d145ffc",
+      "assets": 4,
       "associations": 0
     },
     {
@@ -2665,6 +2672,6 @@
       "associations": 0
     }
   ],
-  "assetBytes": 99935843,
+  "assetBytes": 100721896,
   "verification": "All admitted files match their SHA-256, byte count and encoded dimensions. Source identity, reuse rights, pixel review and entry relevance require the individual editorial records; structural validation does not establish those facts."
 }

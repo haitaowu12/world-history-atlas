@@ -1,6 +1,6 @@
 # Historical images: credits and reuse
 
-Reviewed 2026-11-13. 523 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
+Reviewed 2026-11-13. 527 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
 
 Historical artifacts, surviving places and later depictions retain their source identities. No generated reconstructions are included in this catalogue.
 
@@ -3573,6 +3573,62 @@ Official derivative saved unchanged.
 The official object page marks the image Public Domain; its saved API record confirms isPublicDomain=true.
 
 Official derivative saved unchanged.
+
+## Diplomacy arranged as a group portrait / 以群像构图表现外交
+
+- File: exact-09-wien-157367.webp
+- Creator: Jean Godefroy, after Jean-Baptiste Isabey
+- Date: 1819
+- Collection: Wien Museum
+- Source: https://sammlung.wienmuseum.at/en/object/157367-der-wiener-kongress/
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://sammlung.wienmuseum.at/en/object/157367-der-wiener-kongress/
+
+The official Wien Museum item page explicitly marks this image CC0 and permits reuse, including commercial use.
+
+Official image saved unchanged, including frame or margins where present.
+
+## A church becomes a parliamentary chamber / 教堂成为议会会场
+
+- File: exact-09-wien-12679.webp
+- Creator: Eduard Gustav May, after Franz Bamberger; publisher S. Schmerber
+- Date: 1848
+- Collection: Wien Museum
+- Source: https://sammlung.wienmuseum.at/objekt/12679-sitzungssaal-der-deutschen-reichsversammlung-in-frankfurt-a-m-1848/
+- Rights: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://sammlung.wienmuseum.at/objekt/12679-sitzungssaal-der-deutschen-reichsversammlung-in-frankfurt-a-m-1848/
+
+The official Wien Museum item page explicitly marks this image CC0 and permits reuse, including commercial use.
+
+Official image saved unchanged, including frame or margins where present.
+
+## Isfahan’s square through an 1858 camera / 1858年镜头中的伊斯法罕广场
+
+- File: exact-09-met-271267.jpg
+- Creator: Luigi Pesce
+- Date: 1858
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/271267
+- Rights: Public Domain / CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/271267
+
+The official Met item page marks this image Public Domain; the saved item API independently confirms isPublicDomain=true.
+
+Official image saved unchanged, including frame or margins where present.
+
+## Translated medicine becomes an illustrated book / 译本医学成为图文书籍
+
+- File: exact-09-met-451400.jpg
+- Creator: 'Abdullah ibn al-Fadl
+- Date: dated 621 AH/1224 CE
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/451400
+- Rights: Public Domain / CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/451400
+
+The official Met item page marks this image Public Domain; the saved item API independently confirms isPublicDomain=true.
+
+Official image saved unchanged, including frame or margins where present.
 
 ## The coronation remembered in 1840 / 1840年画中的查理曼加冕
 
