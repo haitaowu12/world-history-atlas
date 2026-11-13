@@ -1,0 +1,184 @@
+{
+  "reviewedAt": "2026-11-13",
+  "reviews": [
+    {
+      "id": "china-event-qin-004",
+      "patch": {
+        "title": {
+          "en": "Qin Shi Huang approves Li Si’s book restrictions",
+          "zh": "秦始皇批准李斯的禁书建议"
+        },
+        "summary": {
+          "en": "In 213 BCE, Qin Shi Huang approved Li Si’s proposal to restrict books. The Shiji records an order targeting non-Qin historical records and privately held classical and philosophical texts, with exemptions for medical, divination and agricultural books. Its account of the investigation and killings at Xianyang belongs to the following year.",
+          "zh": "前213年，秦始皇批准李斯限制书籍的建议。《史记》记载，禁令针对非秦史书及民间所藏经典、诸子著作，医药、卜筮、种树之书则获豁免。咸阳的查讯与杀戮记于次年。"
+        },
+        "dateNote": {
+          "en": "213 BCE is the thirty-fourth year of Qin Shi Huang in the Shiji; the following-year killings are kept separate.",
+          "zh": "前213年为《史记》秦始皇三十四年；次年的杀戮另作区分。"
+        }
+      },
+      "note": {
+        "en": "Separated two years and specified the recorded exemptions instead of using a single bundled headline.",
+        "zh": "区分两个年份，并补明史书所载豁免，不再合为一个标题。"
+      },
+      "sources": [
+        {
+          "title": "Shiji 6: Qin Shi Huang, years 34 and 35",
+          "url": "https://zh.wikisource.org/wiki/史記/卷006",
+          "publisher": "Wikisource transcription of the historical text",
+          "checkedAt": "2026-11-13",
+          "retrieval": "Relevant primary-text passage read directly; sequence and numerical scope distinguished.",
+          "evidenceNote": "Year 34 records Li Si’s proposal, specified exceptions and the emperor’s approval. Year 35 separately narrates investigations and killings in Xianyang.",
+          "evidenceNoteZh": "三十四年载李斯建议、特定豁免及皇帝批准；三十五年另载咸阳查讯与杀戮。"
+        }
+      ]
+    },
+    {
+      "id": "china-event-tang-006",
+      "patch": {
+        "title": {
+          "en": "Li Jing’s campaign overturns Tuyuhun’s leadership",
+          "zh": "李靖出征吐谷浑，慕容顺获立"
+        },
+        "summary": {
+          "en": "Li Jing commanded the Tang expedition against Tuyuhun in 635. His biography describes advancing from Fusicheng despite a shortage of horse fodder and crossing Jishi Mountain. After Tuyuhun’s defeat, Murong Shun was installed as its ruler. The account describes a violent change of leadership, rather than Khan Fuyun surrendering.",
+          "zh": "635年，李靖统率唐军出征吐谷浑。本传记载，军队行至伏俟城后面临马草不足，他仍推进越过积石山。吐谷浑败后，慕容顺获立。记载描述的是伴随暴力的首领更替，而非伏允可汗降唐。"
+        },
+        "dateNote": {
+          "en": "635, Zhenguan 9 in Li Jing’s biography; the inherited Fusicheng pin represents one campaign location, not the full route.",
+          "zh": "635年，即李靖本传的贞观九年；继承的伏俟城点位代表行军地点之一，并非全程路线。"
+        }
+      },
+      "note": {
+        "en": "Removed Fuyun’s supposed surrender and an unsupported precise endpoint. The biography’s limited account of leadership change is explicit.",
+        "zh": "移除伏允投降及未经此来源支持的精确终点；明确本传对首领更替的有限叙述。"
+      },
+      "sources": [
+        {
+          "title": "Old Tang History 67: Li Jing, Zhenguan 9",
+          "url": "https://zh.wikisource.org/wiki/舊唐書/卷67",
+          "publisher": "Wikisource transcription of the historical text",
+          "checkedAt": "2026-11-13",
+          "retrieval": "Relevant primary-text passage read directly; sequence and numerical scope distinguished.",
+          "evidenceNote": "Records the army at Fusicheng, burned grass and weak horses, Jishi Mountain, defeat of Tuyuhun and installation of Murong Shun; does not record Fuyun’s surrender.",
+          "evidenceNoteZh": "记军次伏俟城、野草被焚、马匹羸弱、逾积石山、破吐谷浑及立慕容顺；未记伏允投降。"
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-086",
+      "patch": {
+        "title": {
+          "en": "Yue Fei is put to death in Lin’an",
+          "zh": "岳飞在临安被处死"
+        },
+        "summary": {
+          "en": "At the end of the eleventh Shaoxing year, in early 1142, Yue Fei was ordered to die at the Court of Judicial Review in Lin’an. The Song History distinguishes his death from the public executions of Yue Yun and Zhang Xian. Its annal places the killings after the court’s peace settlement with the Jin.",
+          "zh": "绍兴十一年末，即公元1142年初，岳飞被赐死于临安大理寺。《宋史》将此事与岳云、张宪被斩于市分别记述。本纪将这些处死事件记在朝廷与金达成和议之后。"
+        },
+        "dateNote": {
+          "en": "1142 is retained for the late twelfth lunar month of Shaoxing 11; no exact converted day or Fengbo Pavilion site is asserted.",
+          "zh": "保留1142年，对应绍兴十一年农历十二月末；不强定换算后的某一天，也不将风波亭认作确证地点。"
+        }
+      },
+      "note": {
+        "en": "Replaced the inherited Fengbo Pavilion claim with the institution named in the annal and avoided an exact modern calendar conversion.",
+        "zh": "以本纪所记机构取代继承的风波亭说，不强定现代历法换算的具体日期。"
+      },
+      "sources": [
+        {
+          "title": "Song History 29: Shaoxing 11, twelfth month",
+          "url": "https://zh.wikisource.org/wiki/宋史/卷029",
+          "publisher": "Wikisource transcription of the historical text",
+          "checkedAt": "2026-11-13",
+          "retrieval": "Relevant primary-text passage read directly; sequence and numerical scope distinguished.",
+          "evidenceNote": "The twelfth-month guisi entry assigns Yue Fei’s death to the Court of Judicial Review and the execution of Yue Yun and Zhang Xian to the marketplace; preceding month records peace terms.",
+          "evidenceNoteZh": "十二月癸巳条分别记岳飞赐死于大理寺、岳云与张宪斩于市；前月记和议条款。"
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-336",
+      "patch": {
+        "title": {
+          "en": "Jin commanders defeat Fu Jian’s army at the Fei River",
+          "zh": "淝水之战：晋军击败苻坚军队"
+        },
+        "summary": {
+          "en": "In 383, Xie Xuan served as vanguard commander alongside Xie Shi, Xie Yan and other Jin commanders. The Jin History assigns 80,000 troops to their combined force. It describes Xie Xuan, Xie Yan and Huan Yi crossing the river after the opposing army’s withdrawal became disordered. The portrait recalls one commander within that larger coalition.",
+          "zh": "383年，谢玄任前锋，与谢石、谢琰等共同迎击前秦。《晋书》所记八万人是诸军总数；书中记述秦军后撤失序后，谢玄、谢琰、桓伊等率军渡河进击。画像呈现的是这支联合军队中的一位将领。"
+        },
+        "dateNote": {
+          "en": "383 anchors the Fei River campaign. Troop numbers are attributed to the later Jin History, not treated as a modern audited count.",
+          "zh": "383年为淝水战役的时间锚点；兵力数字归于后世《晋书》的记载，并非现代核验的统计。"
+        }
+      },
+      "note": {
+        "en": "Corrected an English headline assigning the whole Jin force to Xie Xuan alone, and attributed the reported numbers.",
+        "zh": "校正英文标题把晋军全部兵力归于谢玄一人的表述，并注明数字的史书出处。"
+      },
+      "sources": [
+        {
+          "title": "Jin History 79: biography of Xie Xuan",
+          "url": "https://zh.wikisource.org/wiki/晉書/卷079",
+          "publisher": "Wikisource transcription of the historical text",
+          "checkedAt": "2026-11-13",
+          "retrieval": "Relevant primary-text passage read directly; sequence and numerical scope distinguished.",
+          "evidenceNote": "Lists Xie Xuan, Xie Shi, Xie Yan, Huan Yi and other commanders before the combined 80,000; describes a smaller elite crossing party after the opposing retreat became disorderly.",
+          "evidenceNoteZh": "列谢玄、谢石、谢琰、桓伊等将领后记众凡八万；另记秦军退却失序后的精锐渡河部队。"
+        }
+      ]
+    }
+  ],
+  "associations": [
+    {
+      "assetId": "qin-shi-huang",
+      "recordId": "china-event-qin-004",
+      "role": "named-person",
+      "context": {
+        "en": "A nineteenth-century portrayal of Qin Shi Huang, who approved Li Si’s proposal.",
+        "zh": "十九世纪描绘的秦始皇，他批准了李斯的建议。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/史記/卷006",
+      "checkedAt": "2026-11-13"
+    },
+    {
+      "assetId": "china-batch-06-lijing",
+      "recordId": "china-event-tang-006",
+      "role": "named-person",
+      "context": {
+        "en": "Li Jing appears on the left of this later portrait album; Du Ruhui is on the right.",
+        "zh": "这幅后世人物册页左侧为李靖，右侧为杜如晦。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/舊唐書/卷67",
+      "checkedAt": "2026-11-13"
+    },
+    {
+      "assetId": "china-rebuild-yue-fei",
+      "recordId": "china-landmark-086",
+      "role": "named-person",
+      "context": {
+        "en": "A Ming commemorative portrait of Yue Fei, dressed according to Ming rather than Southern Song conventions.",
+        "zh": "明代纪念岳飞的画像，衣冠采用明制，而非南宋服饰。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/宋史/卷029",
+      "checkedAt": "2026-11-13"
+    },
+    {
+      "assetId": "china-batch-06-xiexuan",
+      "recordId": "china-landmark-336",
+      "role": "named-person",
+      "context": {
+        "en": "A Qing portrait identifies Xie Xuan by his posthumous title, Duke Xianwu of Kangle.",
+        "zh": "清代画像以“康乐献武公”的封爵、谥号标明谢玄身份。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/晉書/卷079",
+      "checkedAt": "2026-11-13"
+    }
+  ],
+  "verification": "Existing admitted image bytes unchanged. Source passages directly inspected by curator and owner. Four inherited IDs newly illustrated, each with an explicit later-portrait connection. No battle scene fabricated.",
+  "held": [
+    "Yue Fei: exact converted day and Fengbo Pavilion site not asserted.",
+    "Li Jing: no narrative of Fuyun surrender; death mechanism not expanded beyond the chosen biography."
+  ]
+}

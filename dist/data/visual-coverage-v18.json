@@ -3,9 +3,9 @@
   "reviewedAt": "2026-11-13",
   "baselineManifest": "content-expansion-v17.json",
   "total": 2087,
-  "covered": 1008,
+  "covered": 1012,
   "assets": 545,
-  "percent": 48.29899377096311,
+  "percent": 48.490656444657404,
   "coveredIds": [
     "abbasid-caliphate",
     "abu-simbel-relocation",
@@ -140,6 +140,7 @@
     "china-event-nansong-020",
     "china-event-prc-001",
     "china-event-qin-001",
+    "china-event-qin-004",
     "china-event-qin-008",
     "china-event-qin-010",
     "china-event-qin-011",
@@ -189,6 +190,7 @@
     "china-event-tang-003",
     "china-event-tang-004",
     "china-event-tang-005",
+    "china-event-tang-006",
     "china-event-tang-009",
     "china-event-tang-013",
     "china-event-tang-017",
@@ -277,6 +279,7 @@
     "china-landmark-079",
     "china-landmark-083",
     "china-landmark-085",
+    "china-landmark-086",
     "china-landmark-089",
     "china-landmark-090",
     "china-landmark-092",
@@ -413,6 +416,7 @@
     "china-landmark-333",
     "china-landmark-334",
     "china-landmark-335",
+    "china-landmark-336",
     "china-landmark-337",
     "china-landmark-338",
     "china-landmark-339",
@@ -1622,7 +1626,6 @@
     "china-landmark-076",
     "china-event-qin-002",
     "china-event-qin-003",
-    "china-event-qin-004",
     "china-event-qin-005",
     "china-event-qin-006",
     "china-landmark-284",
@@ -1731,7 +1734,6 @@
     "china-landmark-011",
     "china-landmark-105",
     "china-landmark-474",
-    "china-landmark-336",
     "china-event-dongjin-013",
     "china-landmark-164",
     "china-event-dongjin-014",
@@ -1787,7 +1789,6 @@
     "china-event-sui-011",
     "china-landmark-494",
     "china-landmark-015",
-    "china-event-tang-006",
     "china-event-tang-007",
     "china-event-tang-008",
     "china-landmark-252",
@@ -1914,7 +1915,6 @@
     "china-landmark-191",
     "china-landmark-198",
     "china-event-nansong-006",
-    "china-landmark-086",
     "china-landmark-059",
     "china-landmark-446",
     "china-landmark-199",
@@ -2099,7 +2099,7 @@
   ],
   "target": 1044,
   "targetMet": false,
-  "remaining": 36,
+  "remaining": 32,
   "regions": {
     "africa": {
       "total": 136,
@@ -2107,7 +2107,7 @@
     },
     "east-asia": {
       "total": 1216,
-      "covered": 627
+      "covered": 631
     },
     "europe": {
       "total": 122,
@@ -2523,6 +2523,13 @@
       "sha256": "06f4471d5c2d9f459a5642e89ef6d582cb92f843155f0ca2a35fc605929e0e27",
       "assets": 0,
       "associations": 7
+    },
+    {
+      "file": "visual-assets-exact-links-18-v18.json",
+      "bytes": 1874,
+      "sha256": "f2605f20294f30e0122666e994eda8fb0412626c2ba9b12524763bf3721366d7",
+      "assets": 0,
+      "associations": 4
     },
     {
       "file": "visual-assets-existing-links-01-v18.json",
