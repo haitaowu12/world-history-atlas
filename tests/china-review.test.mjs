@@ -82,3 +82,10 @@ test('a review cannot silently attach to a missing item or replace its source id
   assert.throws(()=>applyChinaReviews(events,library,{...reviews,eventReviews:[{id:events[0].id,patch:{id:'renamed'}}]}),/identity/);
   assert.throws(()=>applyChinaReviews(events,library,{...reviews,chronicleReviews:[{journeyId:'missing',stopId:'missing',patch:{}}]}),/Unknown/);
 });
+
+test('reviewed event-to-event links survive context enrichment without self-links or stale IDs',()=>{
+  const pair=[{id:'one',start:610,end:610,relatedIds:['two','one','missing']},{id:'two',start:610,end:610,relatedIds:['one']}];
+  const original=JSON.stringify(pair),linked=linkChinaContext(pair,[]);
+  assert.deepEqual(linked[0].relatedIds,['two']);assert.deepEqual(linked[1].relatedIds,['one']);
+  assert.equal(JSON.stringify(pair),original);
+});

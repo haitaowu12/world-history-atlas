@@ -3145,6 +3145,327 @@
           "evidenceNoteZh": "赤乌七年拜丞相，“其州牧都护领武昌事如故”，求诣都而不许；未以此证明卒于建业。"
         }
       ]
+    },
+    {
+      "id": "china-landmark-344",
+      "patch": {
+        "title": {
+          "en": "Daxing: building a new Sui capital",
+          "zh": "大兴城：隋朝营建新都"
+        },
+        "summary": {
+          "en": "In 582, Emperor Wen ordered officials led by Gao Jiong to construct a new capital near Longshou Mountain. The city received the name Daxing that December. In spring 583, the emperor entered the new capital. Construction and the court’s move were successive steps, rather than one founding event in 584.",
+          "zh": "582年，隋文帝命高熲等官员在龙首山一带营建新都，同年十二月定名大兴城。583年春，皇帝迁入新都。营建与迁都先后发生，并非同在584年完成的一次建都。"
+        },
+        "dateNote": {
+          "en": "582–583: construction order and naming, followed by the court’s move. This corrects the inherited 584 anchor.",
+          "zh": "582—583年：下令营建、命名，再迁入新都；据本纪校正原条目的584年。"
+        },
+        "start": 582,
+        "end": 583,
+        "location": {
+          "lon": 108.93,
+          "lat": 34.28,
+          "label": "Daxing / Xi’an: capital reference point",
+          "labelI18n": {
+            "en": "Daxing / Xi’an: capital reference point",
+            "zh": "大兴城／西安：都城参考点"
+          },
+          "labelProvenance": "reviewed-reference-anchor"
+        },
+        "relatedIds": [
+          "china-person-yangjian",
+          "sui-reunification"
+        ]
+      },
+      "note": {
+        "en": "Separated capital construction from unsupported bundled legal and administrative reform claims; preserved the original record and geographic reference.",
+        "zh": "将营建新都与未获此段支持的法制、官制改革分开，保留原始记录及地理参考点。"
+      },
+      "sources": [
+        {
+          "title": "Suishu 1: Emperor Wen, Kaihuang 2–3",
+          "url": "https://zh.wikisource.org/wiki/隋書/卷01",
+          "publisher": "Wikisource transcription of the historical text",
+          "checkedAt": "2026-11-13",
+          "retrieval": "Relevant primary-text passage read directly; chronology and wording distinguished.",
+          "evidenceNote": "582: order to Gao Jiong and other officials to build a new capital; December naming; third month 583: entry into the new capital.",
+          "evidenceNoteZh": "开皇二年命高熲等营建新都，十二月命名大兴城；三年三月迁入。"
+        }
+      ]
+    },
+    {
+      "id": "china-event-sui-005",
+      "patch": {
+        "title": {
+          "en": "Luoyang and the Tongji Canal: imperial construction in 605",
+          "zh": "605年：营建洛阳与开通济渠"
+        },
+        "summary": {
+          "en": "Emperor Yang commissioned Yang Su, Yang Da and Yuwen Kai to build the eastern capital at Luoyang. The same year, conscripted workers opened the Tongji Canal, connecting the Gu and Luo waters with the Yellow River and a further route from Banzhu to the Huai. The Suishu records completion of the eastern capital in 606.",
+          "zh": "隋炀帝命杨素、杨达、宇文恺营建洛阳东京。同年征发民众开通济渠，由谷、洛水连接黄河，再由板渚引黄河水通向淮河。《隋书》把东京建成记在606年。"
+        },
+        "dateNote": {
+          "en": "605 marks the construction orders and canal works; the eastern capital’s completion is recorded in 606.",
+          "zh": "605年为营建命令及开河之年；东京建成另记在606年。"
+        },
+        "location": {
+          "lon": 112.451,
+          "lat": 34.621,
+          "label": "Luoyang: eastern-capital project, not the full canal",
+          "labelI18n": {
+            "en": "Luoyang: eastern-capital project, not the full canal",
+            "zh": "洛阳：东京工程参考点，非整条运河"
+          },
+          "labelProvenance": "reviewed-reference-anchor"
+        },
+        "relatedIds": [
+          "china-person-yangguang",
+          "grand-canal-network"
+        ]
+      },
+      "note": {
+        "en": "Removed an unverified precise-605 examination-system founding claim; distinguished commencement from completion.",
+        "zh": "删去未经核实的科举制度始创于605年之说，区分营建起始与完成。"
+      },
+      "sources": [
+        {
+          "title": "Suishu 3: Emperor Yang, Daye 1–2",
+          "url": "https://zh.wikisource.org/wiki/隋書/卷03",
+          "publisher": "Wikisource transcription of the historical text",
+          "checkedAt": "2026-11-13",
+          "retrieval": "Relevant primary-text passage read directly; chronology and wording distinguished.",
+          "evidenceNote": "Third month 605: Yang Su, Yang Da and Yuwen Kai ordered to build the eastern capital; Tongji connects Gu/Luo to Yellow River and Banzhu to Huai. First month 606 records completion of the eastern capital.",
+          "evidenceNoteZh": "大业元年三月命杨素、杨达、宇文恺营东京，并开通济渠；大业二年正月记东京成。"
+        }
+      ]
+    },
+    {
+      "id": "china-event-sui-008",
+      "patch": {
+        "title": {
+          "en": "Emperor Yang orders the Jiangnan Canal works",
+          "zh": "隋炀帝下令开江南河"
+        },
+        "summary": {
+          "en": "In 610, Emperor Yang ordered a navigable route from Jingkou to Yuhang, wide enough for imperial dragon boats. Relay palaces and supply stations were also ordered for a projected journey toward Kuaiji. This account concerns the court’s instructions and travel infrastructure; the related Yuhang entry follows the southern endpoint of the same project.",
+          "zh": "610年，隋炀帝下令开通京口至余杭的江南河，使之能够通行龙舟，并设置驿宫、草顿，为计划中的会稽巡行准备设施。本条关注朝廷命令与巡行设施；关联的余杭条目介绍同一工程的南端。"
+        },
+        "dateNote": {
+          "en": "Twelfth lunar month of Daye 6 (610). The passage records an order, not a completion date for the whole Grand Canal.",
+          "zh": "大业六年（610）农历十二月。原文记开河命令，并非整个大运河的完工日期。"
+        },
+        "location": {
+          "lon": 119.411,
+          "lat": 32.391,
+          "label": "Jiangdu: imperial itinerary reference, outside the named corridor",
+          "labelI18n": {
+            "en": "Jiangdu: imperial itinerary reference, outside the named corridor",
+            "zh": "江都：帝王巡行参考点，不在所述京口至余杭区段内"
+          },
+          "labelProvenance": "reviewed-reference-anchor"
+        },
+        "relatedIds": [
+          "china-landmark-083",
+          "china-person-yangguang",
+          "grand-canal-network"
+        ]
+      },
+      "note": {
+        "en": "Replaced network-wide completion with the specific Jiangnan order; distinguished this record from its endpoint companion.",
+        "zh": "以具体的江南河命令替换全线完工说，区分本条与南端地点条目的范围。"
+      },
+      "sources": [
+        {
+          "title": "Zizhi Tongjian 181: Daye 6, twelfth month",
+          "url": "https://zh.wikisource.org/wiki/資治通鑑/卷181",
+          "publisher": "Wikisource transcription of the historical text",
+          "checkedAt": "2026-11-13",
+          "retrieval": "Relevant primary-text passage read directly; chronology and wording distinguished.",
+          "evidenceNote": "610 order for Jiangnan Canal from Jingkou to Yuhang, over 800 li, navigable by dragon boats; relay palaces and supply stations for intended Kuaiji journey. An order, not proof of network-wide completion.",
+          "evidenceNoteZh": "大业六年十二月敕穿江南河，自京口至余杭，八百余里，使通龙舟，并置驿宫、草顿，欲巡会稽；此为工程命令。"
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-083",
+      "patch": {
+        "title": {
+          "en": "Yuhang: the southern endpoint of the Jiangnan Canal project",
+          "zh": "余杭：江南河工程的南端"
+        },
+        "summary": {
+          "en": "The 610 canal order named Jingkou and Yuhang as its endpoints. The Zizhi Tongjian describes a route of more than eight hundred li and specifies a channel capable of carrying dragon boats. Yuhang marks the southern end of this recorded project. The paired imperial-order entry describes the same works from the perspective of court travel and provisioning.",
+          "zh": "610年的开河命令以京口、余杭为两端。《资治通鉴》记其长八百余里，并规定河道须能通行龙舟。余杭是这项有明确记载的工程南端。关联的朝廷命令条目从巡行与供给角度介绍同一工程。"
+        },
+        "dateNote": {
+          "en": "610 anchors the order for this corridor; it does not date the beginning of all Hangzhou water transport. The historical li are not converted into precise modern kilometres.",
+          "zh": "610年标示此区段的开河命令，并非杭州水运的起点；原文里数不换算为精确现代公里数。"
+        },
+        "location": {
+          "lon": 120.15,
+          "lat": 30.28,
+          "label": "Hangzhou / Yuhang: representative southern-end reference",
+          "labelI18n": {
+            "en": "Hangzhou / Yuhang: representative southern-end reference",
+            "zh": "杭州／余杭：南端区域参考点"
+          },
+          "labelProvenance": "reviewed-reference-anchor"
+        },
+        "relatedIds": [
+          "china-event-sui-008",
+          "china-person-yangguang",
+          "grand-canal-network"
+        ]
+      },
+      "note": {
+        "en": "Separated the geographic endpoint from a second record of the same order; removed a claim that the whole network was completed at once.",
+        "zh": "将南端地点与同一命令的另一条记录区分，删去全线一次完工的说法。"
+      },
+      "sources": [
+        {
+          "title": "Zizhi Tongjian 181: Daye 6, twelfth month",
+          "url": "https://zh.wikisource.org/wiki/資治通鑑/卷181",
+          "publisher": "Wikisource transcription of the historical text",
+          "checkedAt": "2026-11-13",
+          "retrieval": "Relevant primary-text passage read directly; chronology and wording distinguished.",
+          "evidenceNote": "610 order for Jiangnan Canal from Jingkou to Yuhang, over 800 li, navigable by dragon boats; relay palaces and supply stations for intended Kuaiji journey. An order, not proof of network-wide completion.",
+          "evidenceNoteZh": "大业六年十二月敕穿江南河，自京口至余杭，八百余里，使通龙舟，并置驿宫、草顿，欲巡会稽；此为工程命令。"
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-405",
+      "patch": {
+        "title": {
+          "en": "Yehuling: Mongol forces break Jin defenses",
+          "zh": "野狐岭：蒙古军突破金军防线"
+        },
+        "summary": {
+          "en": "The Yuanshi annals place Genghis Khan’s victory at Yehuling in 1211 and record a further victory at Huihechuan later that year. Muqali’s biography gives him a leading role in the assault. It calls the Jin force an army reportedly numbering 400,000; that is a claimed strength, not a count of soldiers killed. The biography also arranges these fighting episodes differently from the annals.",
+          "zh": "《元史》本纪将成吉思汗在野狐岭获胜记于1211年，并记当年稍后在会河川再次击败金军。木华黎传突出其突阵作用，称金军“号四十万”；这是号称兵力，并非阵亡人数。列传与本纪对这些战事的编排亦有差别。"
+        },
+        "dateNote": {
+          "en": "1211 follows the Taizu annals. Muqali’s biography groups the episode under a different yearly sequence; the reported army size is not a casualty total.",
+          "zh": "1211年据太祖本纪；木华黎传的年度编排不同，号称兵力不作死亡总数。"
+        }
+      },
+      "note": {
+        "en": "Removed a claim that 400,000 soldiers were annihilated; attributed the reported number and separated two primary-text chronologies.",
+        "zh": "删去歼灭四十万人的断言，明确数字出处，并区分两处史文的纪年编排。"
+      },
+      "sources": [
+        {
+          "title": "Yuanshi 1: Taizu, years 6 and 21–22",
+          "url": "https://zh.wikisource.org/wiki/元史/卷001",
+          "publisher": "Wikisource transcription of the historical text",
+          "checkedAt": "2026-11-13",
+          "retrieval": "Relevant primary-text passage read directly; chronology and wording distinguished.",
+          "evidenceNote": "Year 6/1211 records Yehuling and Huihechuan victories. Year 21/1226 records the Western Xia expedition and capture of Heishui in the second lunar month, followed by Gan, Su and Lingzhou; year 22 records Taizu’s death.",
+          "evidenceNoteZh": "太祖六年记野狐岭、会河川战事；二十一年记亲征西夏，二月取黑水等城，其后取甘、肃并攻灵州；二十二年记太祖去世。"
+        },
+        {
+          "title": "Yuanshi 119: Muqali",
+          "url": "https://zh.wikisource.org/wiki/元史/卷119",
+          "publisher": "Wikisource transcription of the historical text",
+          "checkedAt": "2026-11-13",
+          "retrieval": "Relevant primary-text passage read directly; chronology and wording distinguished.",
+          "evidenceNote": "Muqali biography reports a Jin army said to number 400,000 and describes his assault. Its sequence groups the battle under the following cyclical year; the number is reported army strength, not a verified casualty count.",
+          "evidenceNoteZh": "木华黎传称金兵号四十万，并记其率敢死士突阵；叙事编排在壬申年段，不能把号称兵力改写为已核实的死亡人数。"
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-176",
+      "patch": {
+        "title": {
+          "en": "Heishui in the 1226 Western Xia campaign",
+          "zh": "1226年西夏战役中的黑水城"
+        },
+        "summary": {
+          "en": "Genghis Khan began another campaign against Western Xia in 1226. The Yuanshi records the capture of Heishui and other towns in the second lunar month, followed by fighting at Gan, Su and Lingzhou. The campaign continued into 1227, the year of his death. A separate geographical entry dates the Yijina administration to 1286: conquest and later provincial organization were different stages.",
+          "zh": "1226年，成吉思汗再次亲征西夏。《元史》记二月取黑水等城，其后进取甘、肃并攻灵州；战役延续至1227年，成吉思汗亦在该年去世。地理志另将亦集乃总管府的设立记于1286年，征服与后续行政建置属于不同阶段。"
+        },
+        "dateNote": {
+          "en": "1226 marks the campaign and the annals’ Heishui entry. The Yijina administration is dated separately to 1286.",
+          "zh": "1226年为战役及本纪黑水城记录之年；亦集乃总管府另记于1286年。"
+        }
+      },
+      "note": {
+        "en": "Separated the conquest from a later administrative institution and replaced compressed heroic wording with the annals’ sequence.",
+        "zh": "区分征服与后续建置，以本纪次序替换压缩的英雄化措辞。"
+      },
+      "sources": [
+        {
+          "title": "Yuanshi 1: Taizu, years 6 and 21–22",
+          "url": "https://zh.wikisource.org/wiki/元史/卷001",
+          "publisher": "Wikisource transcription of the historical text",
+          "checkedAt": "2026-11-13",
+          "retrieval": "Relevant primary-text passage read directly; chronology and wording distinguished.",
+          "evidenceNote": "Year 6/1211 records Yehuling and Huihechuan victories. Year 21/1226 records the Western Xia expedition and capture of Heishui in the second lunar month, followed by Gan, Su and Lingzhou; year 22 records Taizu’s death.",
+          "evidenceNoteZh": "太祖六年记野狐岭、会河川战事；二十一年记亲征西夏，二月取黑水等城，其后取甘、肃并攻灵州；二十二年记太祖去世。"
+        },
+        {
+          "title": "Yuanshi 60: Geography, Yijina circuit",
+          "url": "https://zh.wikisource.org/wiki/元史/卷060",
+          "publisher": "Wikisource transcription of the historical text",
+          "checkedAt": "2026-11-13",
+          "retrieval": "Relevant primary-text passage read directly; chronology and wording distinguished.",
+          "evidenceNote": "Yijina entry distinguishes submission in Taizu 21/1226 from establishment of its administration in Zhiyuan 23/1286 and an associated irrigation request.",
+          "evidenceNoteZh": "亦集乃路条分记太祖二十一年内附、至元二十三年立总管府，以及该年开渠屯田请求。"
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-305",
+      "patch": {
+        "title": {
+          "en": "The Luntai decree: rejecting a new frontier-farming proposal",
+          "zh": "轮台诏令：拒绝新的边地屯田提议"
+        },
+        "summary": {
+          "en": "Sang Hongyang and other ministers proposed agricultural garrisons east of Luntai, supported by irrigation, supplies and fortified posts. Emperor Wu rejected the proposal. The decree preserved in the Hanshu recounts deaths during supply journeys, Li Guangli’s defeat and the failure of favorable divinations. It calls for curbing unauthorized levies and supporting agriculture, while also maintaining horses and military readiness. Its specific limits on expansion sit alongside continued concern for frontier defense.",
+          "zh": "桑弘羊等大臣建议在轮台以东设屯田，由灌溉、粮运与亭障支持。汉武帝拒绝这一提议。《汉书》保存的诏书追述粮运途中的死亡、李广利战败，以及占卜吉兆的失验；要求禁止擅赋、力本农，同时养马补缺、保持武备。对扩张的具体限制，与继续维持边防并存。"
+        },
+        "dateNote": {
+          "en": "89 BCE follows the Zizhi Tongjian’s Zhenghe 4 sequence. The court reference point does not establish the decree’s exact place of issue.",
+          "zh": "前89年据《资治通鉴》征和四年的编排；朝廷参考点不表示已核实诏令发布地点。"
+        },
+        "location": {
+          "lon": 108.93,
+          "lat": 34.28,
+          "label": "Chang’an: court reference; exact issuing place unresolved",
+          "labelI18n": {
+            "en": "Chang’an: court reference; exact issuing place unresolved",
+            "zh": "长安：朝廷参考点；具体颁诏地点未定"
+          },
+          "labelProvenance": "reviewed-reference-anchor"
+        }
+      },
+      "note": {
+        "en": "Replaced an unqualified pivot-to-peace slogan with the decree’s rejected proposal and retained military provisions.",
+        "zh": "以被否决的具体屯田提议及仍保留的武备要求，替换笼统的转向和平说。"
+      },
+      "sources": [
+        {
+          "title": "Hanshu 96b: Western Regions, Quli under Emperor Wu",
+          "url": "https://zh.wikisource.org/wiki/漢書/卷096下",
+          "publisher": "Wikisource transcription of the historical text",
+          "checkedAt": "2026-11-13",
+          "retrieval": "Relevant primary-text passage read directly; chronology and wording distinguished.",
+          "evidenceNote": "Sang Hongyang’s proposed agricultural garrisons east of Luntai; imperial rejection describes supply deaths, Li Guangli’s defeat and mistaken divination, while retaining horse-breeding and military preparedness.",
+          "evidenceNoteZh": "桑弘羊等请在轮台以东屯田；诏书拒绝远田，追述粮运、战败及占卜失误，同时要求养马、补边和毋乏武备。"
+        },
+        {
+          "title": "Zizhi Tongjian 22: Zhenghe 4 (89 BCE)",
+          "url": "https://zh.wikisource.org/wiki/資治通鑑/卷022",
+          "publisher": "Wikisource transcription of the historical text",
+          "checkedAt": "2026-11-13",
+          "retrieval": "Relevant primary-text passage read directly; chronology and wording distinguished.",
+          "evidenceNote": "Places the Luntai proposal and decree in Zhenghe 4/89 BCE, before discussion of rest and agricultural practice.",
+          "evidenceNoteZh": "将轮台屯田提议及诏令编入征和四年（前89年），接续休息养民及农作措施。"
+        }
+      ]
     }
   ]
 }

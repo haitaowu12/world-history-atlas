@@ -33,7 +33,7 @@ import {recordSearchText,relatedRecords} from './core.mjs';
 import {chinaRoutes} from './china-library.mjs?v=1';
 import {createDiscovery} from './discovery.mjs?v=31';
 import {createHistoryReferences} from './history-reference.mjs?v=34';
-import {applyChinaReviews,linkChinaContext} from './china-review.mjs';
+import {applyChinaReviews,linkChinaContext} from './china-review.mjs?v=2';
 import {MIN_YEAR,MAX_YEAR,REGIONS,THEMES,TIME_ANCHORS,normalizeYear,validYear,addYears,formatYear,formatPeriod,yearFromSlider,sliderFromYear,activeAt,filterRecords,contemporaries,stateFromHash,hashFromState,defaultState,validateRecords,validateNotebook,mergeNotebooks,toOrdinal,fromOrdinal} from './core.mjs';
 import {REGIONAL,KINDS,ERAS,eraAt,midpoint,representativeYear,inferKind,relatedPolityRecords,rankRecords,exactSnapshot,mapCoverage,historicalContextFeatures,featureSourceYear,featureNameAt as nameAtYear,featureCategoryAt,contemporaryFeaturesAt as selectContemporaryFeatures,reviewedIntervalContains,createFrameQueue,previousSnapshot,yearDistance,timeWindow,timelineLanes,eventsNear,greatCircleKm,nearbyHistories,quizScore,safeMapState} from './atlas-model.mjs?v=32';
 import {translations} from './i18n.mjs';

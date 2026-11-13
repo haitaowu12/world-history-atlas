@@ -13,8 +13,10 @@ const PERIOD_READINGS = {
 };
 
 export function linkChinaContext(events, atlasRecords) {
-  const available = new Set(atlasRecords.map(r => r.id));
-  const atlasById = new Map(atlasRecords.map(r=>[r.id,r]));
+  // Reviewed imported events can point to one another as well as to the
+  // surrounding atlas. Keep valid peer links, while still dropping stale IDs.
+  const atlasById = new Map([...atlasRecords,...events].map(r=>[r.id,r]));
+  const available = new Set(atlasById.keys());
   return events.map(record => ({...record, relatedIds:[...new Set([
     ...(record.relatedIds || []),
     ...(record.provenance?.periodIds || [record.provenance?.periodId]).flatMap(id => PERIOD_READINGS[id] || [])
