@@ -2002,6 +2002,111 @@
           "retrieval": "Fresh read-only web source text; no new image download."
         }
       ]
+    },
+    {
+      "id": "china-event-donghan-023",
+      "patch": {
+        "title": {
+          "en": "Guandu: Cao Cao defeats Yuan Shao",
+          "zh": "官渡之战：曹操击败袁绍"
+        },
+        "summary": {
+          "en": "Cao Cao defeated Yuan Shao at Guandu in 200. Campaigns against Yuan’s heirs continued after that victory; by 207 their remaining power had been broken.",
+          "zh": "曹操于200年在官渡击败袁绍。此后对袁氏诸子的战争继续，到207年其剩余势力被击溃。"
+        },
+        "dateNote": {
+          "en": "200 marks Guandu, not completion of the subsequent northern campaigns.",
+          "zh": "200年标记官渡之战，并非后续北方战役全部结束之年。"
+        }
+      },
+      "note": {
+        "en": "Separated Guandu from later consolidation using de Crespigny’s historical outline.",
+        "zh": "据德克雷斯皮尼的历史概述，区分官渡之战与后续整合。"
+      },
+      "sources": [
+        {
+          "title": "Rafe de Crespigny: A Short History of the Later Han Dynasty",
+          "url": "https://ll-chinesereferenceshelf.brillonline.com/dictionary-qin-and-han/prelims/sim-200004",
+          "publisher": "Brill / Chinese Reference Library",
+          "evidenceNote": "Separates Guandu from the later defeat of Yuan Shao’s heirs; describes Guan Yu’s northern offensive and attack on his rear in 219.",
+          "checkedAt": "2026-11-13",
+          "retrieval": "official-page-opened",
+          "evidenceNoteZh": "概述区分官渡胜利与后来击败袁绍继承者的过程，并记述219年关羽北攻及后方遇袭。"
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-102",
+      "patch": {
+        "title": {
+          "en": "Guan Yu’s northern offensive and the loss of Jing province",
+          "zh": "关羽北攻与荆州易手"
+        },
+        "summary": {
+          "en": "In 219 Guan Yu advanced north from Jing province and initially gained ground. While his forces remained engaged, Sun Quan’s army attacked from behind. Guan Yu was defeated, and Wu gained control along the middle Yangzi.",
+          "zh": "219年，关羽自荆州北攻，初获进展。其军仍在前线时，孙权军从后方进攻。关羽败亡，吴取得长江中游的控制权。"
+        },
+        "dateNote": {
+          "en": "219 marks Guan Yu’s final offensive and defeat.",
+          "zh": "219年为关羽最后一次北攻及败亡之年。"
+        }
+      },
+      "note": {
+        "en": "Replaced the inherited flood formula with the sourced sequence of offensive, rear attack and defeat. The geographic anchor is preserved.",
+        "zh": "以来源支持的北攻、后方遇袭与败亡过程替代原有水攻程式表述；保留地理锚点。"
+      },
+      "sources": [
+        {
+          "title": "Rafe de Crespigny: A Short History of the Later Han Dynasty",
+          "url": "https://ll-chinesereferenceshelf.brillonline.com/dictionary-qin-and-han/prelims/sim-200004",
+          "publisher": "Brill / Chinese Reference Library",
+          "evidenceNote": "Separates Guandu from the later defeat of Yuan Shao’s heirs; describes Guan Yu’s northern offensive and attack on his rear in 219.",
+          "checkedAt": "2026-11-13",
+          "retrieval": "official-page-opened",
+          "evidenceNoteZh": "概述区分官渡胜利与后来击败袁绍继承者的过程，并记述219年关羽北攻及后方遇袭。"
+        }
+      ]
+    },
+    {
+      "id": "china-event-sui-001",
+      "patch": {
+        "title": {
+          "en": "Yang Jian establishes the Sui dynasty",
+          "zh": "杨坚建立隋朝"
+        },
+        "summary": {
+          "en": "Yang Jian established the Sui dynasty in 581 after taking power in Northern Zhou. Consolidation and southward conquest followed; reunification came in 589. Building the new capital was a separate part of the Sui state-making program.",
+          "zh": "杨坚掌握北周政权后，于581年建立隋朝。随后巩固统治并向南征服，至589年完成统一；新都营建则是隋朝建国进程中的另一项工程。"
+        },
+        "dateNote": {
+          "en": "581 marks the foundation of the Sui; conquest of the southern polities followed by 589.",
+          "zh": "581年标记隋朝建立；征服南方诸政权至589年完成。"
+        }
+      },
+      "note": {
+        "en": "Separated dynastic founding from reunification and new-capital construction; retained the original year and map point.",
+        "zh": "区分王朝建立、统一与新都营建；保留原年及地图点位。"
+      },
+      "sources": [
+        {
+          "title": "Peter A. Lorge: The Sui and Tang Dynasties",
+          "url": "https://www.cambridge.org/core/books/abs/chinese-martial-arts/sui-and-tang-dynasties/123627F82B206F522930C01DE6633EC4",
+          "publisher": "Cambridge University Press",
+          "evidenceNote": "Chapter summary dates Yang Jian’s establishment of the Sui to 581 and reunification to 589.",
+          "checkedAt": "2026-11-13",
+          "retrieval": "official-page-opened",
+          "evidenceNoteZh": "章节摘要分别将杨坚建立隋朝和完成统一记于581与589年。"
+        },
+        {
+          "title": "China, 500–1000 A.D.",
+          "url": "https://www.metmuseum.org/toah/ht/06/eac",
+          "publisher": "The Metropolitan Museum of Art",
+          "evidenceNote": "Chronology separates Sui establishment from the later reunification and capital building program.",
+          "checkedAt": "2026-11-13",
+          "retrieval": "official-page-opened",
+          "evidenceNoteZh": "年表区分隋朝建立、后续统一及新都营建的阶段。"
+        }
+      ]
     }
   ]
 }

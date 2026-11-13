@@ -1,6 +1,6 @@
 # Historical images: credits and reuse
 
-Reviewed 2026-11-13. 527 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
+Reviewed 2026-11-13. 528 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
 
 Historical artifacts, surviving places and later depictions retain their source identities. No generated reconstructions are included in this catalogue.
 
@@ -3629,6 +3629,20 @@ Official image saved unchanged, including frame or margins where present.
 The official Met item page marks this image Public Domain; the saved item API independently confirms isPublicDomain=true.
 
 Official image saved unchanged, including frame or margins where present.
+
+## A historical drawing of a Marshallese chart / 马绍尔海图的历史绘图
+
+- File: exact-10-tepapa-240379.jpg
+- Creator: Ethel Richardson
+- Date: c.1920
+- Collection: Museum of New Zealand Te Papa Tongarewa
+- Source: https://collections.tepapa.govt.nz/object/240379
+- Rights: No Known Copyright Restrictions (https://www.tepapa.govt.nz/about-collections-online#no-known-copyright)
+- Rights evidence: https://collections.tepapa.govt.nz/object/240379
+
+Te Papa labels this image No Known Copyright Restrictions and permits download. Its policy describes its assessment under New Zealand law; this is not a CC0 licence or a worldwide rights guarantee.
+
+Official preview saved unchanged, with full paper margins and handwritten labels.
 
 ## The coronation remembered in 1840 / 1840年画中的查理曼加冕
 

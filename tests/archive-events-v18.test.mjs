@@ -11,5 +11,5 @@ test('two archive photographs connect only their specific histories with item ri
 });
 test('Edo prose retains concrete cultural and diplomatic facts without the generic concluding lesson',()=>{
  const r=loadAtlasRecords().records.find(x=>x.id==='edo-urban-culture');
- assert.match(r.summary.en,/Kabuki theatre, woodblock prints/);assert.match(r.summary.en,/Nagasaki/);assert.match(r.summary.zh,/长崎/);assert.doesNotMatch(r.summary.en,/useful way to explore/);assert.equal(readAtlasData('summary-edits-v18.json').items.length,193);
+ assert.match(r.summary.en,/Kabuki theatre, woodblock prints/);assert.match(r.summary.en,/Nagasaki/);assert.match(r.summary.zh,/长崎/);assert.doesNotMatch(r.summary.en,/useful way to explore/);assert.equal(readAtlasData('summary-edits-v18.json').items.length,194);
 });

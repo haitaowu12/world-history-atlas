@@ -1,0 +1,995 @@
+{
+  "sourceEvidence": {
+    "reviewedAt": "2026-11-13",
+    "basis": "Existing admitted catalog and source-linked entry identities inspected read-only; no new rights claim or image download. All 21 targets were uncovered at the 923-entry snapshot; revalidated at 933. Three associations are conditional on separate sourced corrections.",
+    "sourceChecks": [
+      {
+        "url": "https://ll-chinesereferenceshelf.brillonline.com/dictionary-qin-and-han/prelims/sim-200004",
+        "result": "opened; relevant passage inspected"
+      },
+      {
+        "url": "https://www.cambridge.org/core/books/abs/chinese-martial-arts/sui-and-tang-dynasties/123627F82B206F522930C01DE6633EC4",
+        "result": "opened; chapter summary inspected"
+      },
+      {
+        "url": "https://www.metmuseum.org/toah/ht/06/eac",
+        "result": "opened;581 chronological entry inspected"
+      },
+      {
+        "url": "https://digitalarchive.npm.gov.tw/Collection/Detail/6960?dep=P",
+        "result": "fresh web open403; stopped, no alternate route or retry. Existing admitted catalog and source evidence retained; search snippet independently names轅門射戟."
+      }
+    ],
+    "assetEvidence": [
+      {
+        "assetId": "china-batch-11-lvbu-halberd",
+        "recordId": "china-landmark-455",
+        "caption": {
+          "en": "Testing Archery, catalogued under Dai Jin, Ming dynasty. The museum identifies the subject as Lü Bu shooting the halberd at the camp gate.",
+          "zh": "《太平乐事》册之《试射》，馆藏归于明代戴进，主题明确标为吕布“辕门射戟”。"
+        },
+        "interpretation": {
+          "en": "A later artist turns Lü Bu’s mediation between rival forces into a display of archery. Read beside the biography’s unstable alliances, the scene shows how martial skill became a memorable way of telling his story; it is not a contemporary likeness.",
+          "zh": "后世画家把吕布在敌对军队之间的调停，表现为射术展示；与传记中不稳定的联盟并读，可见武勇如何成为讲述其故事的鲜明方式，而非当时写生的容貌。"
+        },
+        "representation": "historical-artwork",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/6960?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "明戴進太平樂事 冊 試射。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "明戴進太平樂事 冊 試射。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "file": "assets/history-media/china-batch-11-lvbu-halberd.jpg",
+        "sha256": "c7dd2565ed2a875272c64b3d4799d64d7572344affe87ca183d66cdc49bab800",
+        "requiresCorrection": false
+      },
+      {
+        "assetId": "china-batch-06-xiean",
+        "recordId": "china-event-dongjin-012",
+        "caption": {
+          "en": "Anonymous Song-dynasty silk tapestry of the later story of Xie An’s game at a mountain villa.",
+          "zh": "宋代佚名缂丝，表现后世流传的谢安赌墅故事。"
+        },
+        "interpretation": {
+          "en": "The museum identifies the scene with Xie An and the Fei River narrative. The quiet garden setting turns political composure into a visual story; it does not show the battlefield.",
+          "zh": "馆方将此图与谢安及淝水之战的叙事相联系。幽静庭园将临事从容化为图像故事，画面并非战场。"
+        },
+        "representation": "historical-artwork",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/13795?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "宋緙絲謝安賭墅圖 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "宋緙絲謝安賭墅圖 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "file": "assets/history-media/china-batch-06-xiean.jpg",
+        "sha256": "29e06189df97deca9a7f8771a93157671916124426c0c22bdb6923d19309a4df",
+        "requiresCorrection": false
+      },
+      {
+        "assetId": "china-batch-06-qijiguang-page2",
+        "recordId": "china-landmark-416",
+        "caption": {
+          "en": "Opening of volume 1 of Jixiao Xinshu, attributed on the page to Qi Jiguang; Japanese printed edition, 1798.",
+          "zh": "《纪效新书》卷一开篇，页上署戚继光撰；日本1798年刊本。"
+        },
+        "interpretation": {
+          "en": "The first chapter begins with selecting soldiers and organizing units. This later edition preserves the practical writing through which Qi’s training methods travelled beyond his own army.",
+          "zh": "第一篇从选兵、编伍入手。后出的刊本保存了戚继光的实务文字，显示其操练方法如何传播到自身军队之外。"
+        },
+        "representation": "document-facsimile",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:NAJDA-299-0257_%E7%B4%80%E5%8A%B9%E6%96%B0%E6%9B%B8_%E5%B7%BB1-7.pdf",
+        "rights": {
+          "label": "Public domain",
+          "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "note": {
+            "en": "Public-domain historical artwork or printed page, reproduced faithfully; source and collection identified in the credit.",
+            "zh": "公共领域历史作品或书页的忠实复制图；来源及收藏信息见署名。"
+          }
+        },
+        "file": "assets/history-media/china-batch-06-qijiguang-page2.jpg",
+        "sha256": "aa9365c299c7d688c3f54654a502f8bb76ed206497f02127494659483ef0dbb9",
+        "requiresCorrection": false
+      },
+      {
+        "assetId": "china-batch-06-licunxu",
+        "recordId": "china-event-wudai-007",
+        "caption": {
+          "en": "Later portrait of Li Cunxu, Emperor Zhuangzong of Later Tang. Painting date unknown; remounted in 1748.",
+          "zh": "后唐庄宗李存勖的后世画像。绘制年代未定，1748年重装。"
+        },
+        "interpretation": {
+          "en": "The museum records the blue robe and jade belt and preserves a label naming Later Tang’s founder. The remounting date belongs to the object’s later history, not its creation.",
+          "zh": "馆方记录其蓝袍玉带，题签明确写有后唐庄宗。重装纪年属于作品的流传史，不能当作绘制年代。"
+        },
+        "representation": "later-depiction",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/1827?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "後唐莊宗立像 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "後唐莊宗立像 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "file": "assets/history-media/china-batch-06-licunxu.jpg",
+        "sha256": "5babe2cbf31181ec132d44611a55413cd7f8a7b504e3aaebebae6c972b2c6559",
+        "requiresCorrection": false
+      },
+      {
+        "assetId": "china-batch-06-chairong",
+        "recordId": "china-event-wudai-015",
+        "caption": {
+          "en": "Anonymous Qing-dynasty portrait of Chai Rong, ruler of Later Zhou.",
+          "zh": "清代佚名后周世宗柴荣像。"
+        },
+        "interpretation": {
+          "en": "The portrait belongs to a much later collection of remembered rulers. It gives Chai Rong a recognizable place in the short-lived dynasties before Song unification.",
+          "zh": "这幅画属于后世历代君主图像，为宋统一之前短暂王朝中的柴荣提供了可辨识的形象。"
+        },
+        "representation": "later-depiction",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chai_Rong_(Zhou_Shizong).jpg",
+        "rights": {
+          "label": "Public domain",
+          "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "note": {
+            "en": "Public-domain historical artwork or printed page, reproduced faithfully; source and collection identified in the credit.",
+            "zh": "公共领域历史作品或书页的忠实复制图；来源及收藏信息见署名。"
+          }
+        },
+        "file": "assets/history-media/china-batch-06-chairong.jpg",
+        "sha256": "58f55f5a562bdf4978da645c27a1926e68b2c68bb281e997c50ee4ba80db6b43",
+        "requiresCorrection": false
+      },
+      {
+        "assetId": "china-batch-06-chairong",
+        "recordId": "china-event-wudai-016",
+        "caption": {
+          "en": "Anonymous Qing-dynasty portrait of Chai Rong, ruler of Later Zhou.",
+          "zh": "清代佚名后周世宗柴荣像。"
+        },
+        "interpretation": {
+          "en": "The portrait belongs to a much later collection of remembered rulers. It gives Chai Rong a recognizable place in the short-lived dynasties before Song unification.",
+          "zh": "这幅画属于后世历代君主图像，为宋统一之前短暂王朝中的柴荣提供了可辨识的形象。"
+        },
+        "representation": "later-depiction",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chai_Rong_(Zhou_Shizong).jpg",
+        "rights": {
+          "label": "Public domain",
+          "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "note": {
+            "en": "Public-domain historical artwork or printed page, reproduced faithfully; source and collection identified in the credit.",
+            "zh": "公共领域历史作品或书页的忠实复制图；来源及收藏信息见署名。"
+          }
+        },
+        "file": "assets/history-media/china-batch-06-chairong.jpg",
+        "sha256": "58f55f5a562bdf4978da645c27a1926e68b2c68bb281e997c50ee4ba80db6b43",
+        "requiresCorrection": false
+      },
+      {
+        "assetId": "china-batch-06-zhengchenggong",
+        "recordId": "china-landmark-421",
+        "caption": {
+          "en": "Anonymous seventeenth-century portrait of Zheng Chenggong, held by the National Taiwan Museum.",
+          "zh": "十七世纪佚名郑成功像，国立台湾博物馆藏。"
+        },
+        "interpretation": {
+          "en": "The formal seated portrait presents Zheng as a civil and military authority. Its collection is the National Taiwan Museum; the National Palace Museum later exhibited its conservation.",
+          "zh": "端坐的正式画像表现郑成功的政治与军事身份。原作藏于国立台湾博物馆，国立故宫博物院曾展示其修护成果。"
+        },
+        "representation": "later-depiction",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Portrait_of_Koxinga.jpg",
+        "rights": {
+          "label": "Public domain",
+          "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "note": {
+            "en": "Public-domain historical artwork or printed page, reproduced faithfully; source and collection identified in the credit.",
+            "zh": "公共领域历史作品或书页的忠实复制图；来源及收藏信息见署名。"
+          }
+        },
+        "file": "assets/history-media/china-batch-06-zhengchenggong.jpg",
+        "sha256": "fa6a6ec513de2e2acbaf5e2500ac207ad7677408661e830920e30a646d2d2714",
+        "requiresCorrection": false
+      },
+      {
+        "assetId": "china-batch-04-hanwendi",
+        "recordId": "china-event-xihan-004",
+        "caption": {
+          "en": "Later depiction of Emperor Wen of Han: Song dynasty (960–1279). Anonymous. National Palace Museum, Taipei.",
+          "zh": "汉文帝的后世图像，宋代（960—1279）。"
+        },
+        "interpretation": {
+          "en": "This detail from Refusing the Seat belongs to a Song painting about court hierarchy and a ruler accepting remonstrance. It shows how a later court visualized the Han ideal of listening to advice.",
+          "zh": "此图取自宋代《却坐图》，全画讲述宫廷礼序与君主纳谏，呈现后世宫廷对汉代纳谏理想的理解。"
+        },
+        "representation": "later-depiction",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:EmperorWenOfHan.jpg",
+        "rights": {
+          "label": "Public domain",
+          "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "note": {
+            "en": "The source marks this historical image as public domain. The saved receipt retains its full rights metadata and attribution.",
+            "zh": "来源将此历史图像标为公共领域；保存的来源记录保留完整权利元数据与作者署名。"
+          }
+        },
+        "file": "assets/history-media/china-batch-04-hanwendi.jpg",
+        "sha256": "b341427ba7fa2d28a45df37db9b1dbade5d452921f082ca6536d007264d72fa4",
+        "requiresCorrection": false
+      },
+      {
+        "assetId": "china-batch-04-zuozongtang",
+        "recordId": "china-event-qing-040",
+        "caption": {
+          "en": "Zuo Zongtang, 1875. Adolf-Nikolay Erazmovich Boiarskii. National Library of Brazil; Thereza Christina Maria Collection / World Digital Library.",
+          "zh": "左宗棠像，1875年。"
+        },
+        "interpretation": {
+          "en": "A Russian mission photographer made this portrait while surveying routes and trade prospects in China. The photograph records both Zuo’s official presence and the mission’s interest in Qing power in the northwest.",
+          "zh": "俄国考察团摄影师在调查中国交通与贸易前景时拍摄此像。它同时记录左宗棠的官员形象，以及考察团对清朝西北权力的关注。"
+        },
+        "representation": "historical-photograph",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zuo_Zongtang_1875.jpg",
+        "rights": {
+          "label": "Public domain",
+          "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "note": {
+            "en": "The source marks this historical image as public domain. The saved receipt retains its full rights metadata and attribution.",
+            "zh": "来源将此历史图像标为公共领域；保存的来源记录保留完整权利元数据与作者署名。"
+          }
+        },
+        "file": "assets/history-media/china-batch-04-zuozongtang.jpg",
+        "sha256": "f4d5e1413ca22d25c078e11eaa0ed161a8c420bcbebfe6f13899e4754134d377",
+        "requiresCorrection": false
+      },
+      {
+        "assetId": "china-batch-06-huanwen",
+        "recordId": "china-event-dongjin-009",
+        "caption": {
+          "en": "Huan Wen in Xiuxiang Sanguo Yanyi Xubian, volume 1, digital page 43, 1893.",
+          "zh": "《绣像三国演义续编》卷一桓温像，数字页43，1893年。"
+        },
+        "interpretation": {
+          "en": "The late-Qing illustration dramatizes a commander whose power also reached into court politics. The image is separated from the fourth-century events narrated in his biography.",
+          "zh": "晚清插图戏剧化地表现这位军权延伸至宫廷的将领；图像创作年代与其四世纪生涯明确区分。"
+        },
+        "representation": "later-depiction",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Huan_Wen_%E6%A1%93%E6%BA%AB.png",
+        "rights": {
+          "label": "Public domain",
+          "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "note": {
+            "en": "Public-domain historical artwork or printed page, reproduced faithfully; source and collection identified in the credit.",
+            "zh": "公共领域历史作品或书页的忠实复制图；来源及收藏信息见署名。"
+          }
+        },
+        "file": "assets/history-media/china-batch-06-huanwen.png",
+        "sha256": "13608d1b54f737624f5323b13b2d9ea9bde4c5fc871eff1dcedc2dcd0a65ac84",
+        "requiresCorrection": false
+      },
+      {
+        "assetId": "china-batch-06-liyu",
+        "recordId": "china-landmark-382",
+        "caption": {
+          "en": "Li Yu, the Southern Tang ruler and poet, in the Sancai Tuhui, 1609, volume 23.",
+          "zh": "南唐后主、词人李煜，《三才图会》卷23，1609年。"
+        },
+        "interpretation": {
+          "en": "The label Li Houzhu identifies the Southern Tang ruler, not Liu Yu of Liu Song. The printed portrait joins political memory to the survival of his lyrics.",
+          "zh": "“李后主”的题名指向南唐君主，区别于刘宋的刘裕。版画把亡国之君的历史记忆与传世词作联系起来。"
+        },
+        "representation": "later-depiction",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Li_Yu_scth.jpg",
+        "rights": {
+          "label": "Public domain",
+          "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "note": {
+            "en": "Public-domain historical artwork or printed page, reproduced faithfully; source and collection identified in the credit.",
+            "zh": "公共领域历史作品或书页的忠实复制图；来源及收藏信息见署名。"
+          }
+        },
+        "file": "assets/history-media/china-batch-06-liyu.jpg",
+        "sha256": "37b4b88199ef214b53b41ec5fb63ea0d2dd124e74a31a4ddaa81e32579907524",
+        "requiresCorrection": false
+      },
+      {
+        "assetId": "china-batch-06-guanyu",
+        "recordId": "china-landmark-102",
+        "caption": {
+          "en": "Later portrait of Guan Yu in the Sancai Tuhui, 1609, volume 25, leaf 42.",
+          "zh": "《三才图会》卷25第42叶中的关羽后世像，1609年。"
+        },
+        "interpretation": {
+          "en": "The long beard makes Guan Yu recognizable in later visual culture. His military biography and the expanding cult of loyalty should be read as related but different histories.",
+          "zh": "长髯成为后世辨识关羽的视觉标志；其军事生平与不断扩展的忠义崇奉，是相互关联而又不同的历史。"
+        },
+        "representation": "later-depiction",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Guanyu-1.jpg",
+        "rights": {
+          "label": "Public domain",
+          "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "note": {
+            "en": "Public-domain historical artwork or printed page, reproduced faithfully; source and collection identified in the credit.",
+            "zh": "公共领域历史作品或书页的忠实复制图；来源及收藏信息见署名。"
+          }
+        },
+        "file": "assets/history-media/china-batch-06-guanyu.jpg",
+        "sha256": "ddf48f2aabd9db3e43f6d17c00abfb811ac63b1505fb6597655e9b7a2a60ffaf",
+        "requiresCorrection": true
+      },
+      {
+        "assetId": "china-batch-06-wuzetian",
+        "recordId": "china-landmark-350",
+        "caption": {
+          "en": "Wu Zetian in an eighteenth-century album of 86 imperial portraits, British Library Or 2231.",
+          "zh": "十八世纪八十六帝王像册中的武则天，大英图书馆藏Or 2231。"
+        },
+        "interpretation": {
+          "en": "The album presents Wu with the regalia of a sovereign. It documents an eighteenth-century image of her rule, rather than the dress or likeness of the seventh-century court.",
+          "zh": "册页以君主冠服表现武则天，记录的是十八世纪对其统治的视觉记忆。"
+        },
+        "representation": "later-depiction",
+        "sourceUrl": "https://imagesonline.bl.uk/asset/3335/",
+        "rights": {
+          "label": "Public domain",
+          "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "note": {
+            "en": "Public-domain historical artwork or printed page, reproduced faithfully; source and collection identified in the credit.",
+            "zh": "公共领域历史作品或书页的忠实复制图；来源及收藏信息见署名。"
+          }
+        },
+        "file": "assets/history-media/china-batch-06-wuzetian.jpg",
+        "sha256": "42118e496463d4016e4f85b0993be46bddb6af538e1c716a5832b2ebf0e523de",
+        "requiresCorrection": false
+      },
+      {
+        "assetId": "china-rebuild-yue-fei",
+        "recordId": "china-landmark-501",
+        "caption": {
+          "en": "Anonymous Ming portrait of Yue Fei, ink and color on silk, Palace Museum, Beijing. The museum identifies his embroidered python robe, jade belt and book, explaining that the dress follows Ming conventions.",
+          "zh": "明代无款《岳飞像》轴，绢本设色，北京故宫博物院藏。馆方说明画中织金蟒袍、玉带与书册，并指出衣冠依照明代制度绘制。"
+        },
+        "interpretation": {
+          "en": "The painting belongs to Yue Fei’s later commemoration. Its Ming-style official dress is evidence of the painter’s historical setting, not a record of Southern Song military uniform.",
+          "zh": "画作属于对岳飞的后世纪念。明式官服反映画家所处的历史环境，并非南宋军装的记录。"
+        },
+        "representation": "later-depiction",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E6%98%8E%E4%BA%BA%E3%80%8A%E5%B2%B3%E9%A3%9E%E5%83%8F%E3%80%8B%E8%BD%B4.jpg",
+        "rights": {
+          "label": "Public domain",
+          "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "note": {
+            "en": "The linked Commons source marks this historical two-dimensional artwork and its faithful reproduction public domain. The named collection and qualified attribution are retained.",
+            "zh": "所链接的维基共享资源将历史二维作品及其忠实复制图标为公共领域；保留具名馆藏与有保留的作者归属。"
+          }
+        },
+        "file": "assets/history-media/china-rebuild-yue-fei.jpg",
+        "sha256": "61da39950ade297fb6b16864cab3a30de4402d4aa141317bf3176c12d4359b62",
+        "requiresCorrection": false
+      },
+      {
+        "assetId": "china-batch-08-longqing",
+        "recordId": "china-event-ming-028",
+        "caption": {
+          "en": "Historical court image of the Longqing emperor. The exact painting date is not given in the collection record.",
+          "zh": "隆庆帝的历史宫廷肖像；馆藏条目未给出确切绘制年代。"
+        },
+        "interpretation": {
+          "en": "The throne’s high back frames the Longqing emperor, while large dragon patterns run down his robe. The seated figure and repeated ornaments organize the painting around imperial authority.",
+          "zh": "隆庆帝身后是高耸椅背，袍服上排列硕大的龙纹。端坐人物与重复装饰共同构成以皇权为中心的画面。"
+        },
+        "representation": "historical-portrait",
+        "sourceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/1881?dep=P",
+        "rights": {
+          "label": "CC BY 4.0",
+          "url": "https://creativecommons.org/licenses/by/4.0/",
+          "note": {
+            "en": "明穆宗坐像 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw",
+            "zh": "明穆宗坐像 軸。國立故宮博物院，台北，CC BY 4.0 @ www.npm.gov.tw"
+          }
+        },
+        "file": "assets/history-media/china-batch-08-longqing.jpg",
+        "sha256": "c00defd3a947e775212c3d372b393618b7af188474d64f32d989fcda408c15cf",
+        "requiresCorrection": false
+      },
+      {
+        "assetId": "china-batch-12-li-zicheng-yongchang",
+        "recordId": "china-event-ming-040",
+        "caption": {
+          "en": "Yongchang tongbao, a five-cash denomination of Li Zicheng’s Shun regime, catalogued to 1644–1645. This example entered the National Museum of History in 1988.",
+          "zh": "李自成大顺政权的永昌通宝折五钱，馆藏说明列铸行期为1644—1645年；本件1988年入藏国立历史博物馆。"
+        },
+        "interpretation": {
+          "en": "A new reign name made the claim to rule visible in an everyday object. The coin accompanies Li’s move from rebellion to state-building, while its five-cash denomination points to administration as well as conquest. Its findspot and individual mint are not recorded.",
+          "zh": "新年号把统治主张铸进日常物件。此钱对应李自成由反叛走向建政的过程，折五面值也提示征服之外的行政需求；本件出土地与具体铸局未载。"
+        },
+        "representation": "object-photograph",
+        "sourceUrl": "https://tcmb.culture.tw/zh-tw/detail?id=14000138568&indexCode=MOCCOLLECTIONS",
+        "rights": {
+          "label": "CC BY 3.0 TW",
+          "url": "https://creativecommons.org/licenses/by/3.0/tw/",
+          "note": {
+            "en": "永昌通寶折五 / 授權人：文化部典藏網 / 國立歷史博物館；創用CC姓名標示 3.0 台灣及其後版本(CC BY 3.0 TW +) @ 國家文化記憶庫",
+            "zh": "永昌通寶折五 / 授權人：文化部典藏網 / 國立歷史博物館；創用CC姓名標示 3.0 台灣及其後版本(CC BY 3.0 TW +) @ 國家文化記憶庫"
+          }
+        },
+        "file": "assets/history-media/china-batch-12-li-zicheng-yongchang.jpg",
+        "sha256": "3529bac090d9fb30117e77368998aa78e9fe2822c1c62dfc6ebda0cecf6ef837",
+        "requiresCorrection": false
+      },
+      {
+        "assetId": "china-rebuild-cao-cao",
+        "recordId": "china-event-donghan-023",
+        "caption": {
+          "en": "A Ming book illustration from the Sancai Tuhui, compiled by Wang Qi and Wang Siyi, completed in 1607 and printed in 1609. The heading identifies Cao Cao by his posthumous imperial title, Wei Taizu.",
+          "zh": "明代《三才图会》中的插图；该书由王圻、王思义编纂，1607年成书，1609年刊印。题字以追尊帝号“魏太祖”标识曹操。"
+        },
+        "interpretation": {
+          "en": "This is a later commemorative likeness, made about fourteen centuries after Cao Cao. The compiler credit does not identify the illustrator.",
+          "zh": "这是约在曹操身后十四个世纪形成的后世纪念性形象；编纂者署名不等于绘图者身份。"
+        },
+        "representation": "later-depiction",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cao_Cao_scth.jpg",
+        "rights": {
+          "label": "Public domain",
+          "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "note": {
+            "en": "The linked Commons file record marks this historical two-dimensional artwork and its reproduction public domain. Collection and compiler credits are retained separately from the artist attribution.",
+            "zh": "所链接的维基共享资源文件记录将历史二维作品及其复制图标为公共领域；馆藏与编纂者署名和绘图者身份分别记录。"
+          }
+        },
+        "file": "assets/history-media/china-rebuild-cao-cao.jpg",
+        "sha256": "fcaf79fe2938e2b84900672acaed24cda3fe3caa771f5f2351bb1c3cd31e5fe1",
+        "requiresCorrection": true
+      },
+      {
+        "assetId": "li-bai",
+        "recordId": "china-landmark-229",
+        "caption": {
+          "en": "Liang Kai, Li Bai in Stroll, thirteenth century, ink on paper. Tokyo National Museum, TA-164; image via Wikimedia Commons.",
+          "zh": "梁楷《李白行吟图》，十三世纪，纸本水墨。东京国立博物馆藏，TA-164；图像经维基共享资源提供。"
+        },
+        "interpretation": {
+          "en": "The Song painter worked centuries after Li Bai. The economical brushwork represents a remembered poetic figure rather than an eyewitness likeness.",
+          "zh": "这位宋代画家生活在李白之后数百年。简练笔墨塑造的是记忆中的诗人形象，并非亲见本人后绘制的肖像。"
+        },
+        "representation": "later-depiction",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Liang_Kai_-_Li_Bai_In_Stroll.jpg",
+        "rights": {
+          "label": "Public domain",
+          "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "note": {
+            "en": "Commons records the old painting and its faithful two-dimensional reproduction as public domain (PD-old-100-expired / PD-Art).",
+            "zh": "共享资源以PD-old-100-expired及PD-Art标示古老画作与忠实二维复制图的公共领域依据。"
+          }
+        },
+        "file": "assets/history-media/li-bai.jpg",
+        "sha256": "fc7dccc1a0cc4011c47c764b5fa0081717ed68f2a80832936bb199e2b0249d31",
+        "requiresCorrection": false
+      },
+      {
+        "assetId": "canadian-pages-02-confederation",
+        "recordId": "canada-polity",
+        "caption": {
+          "en": "The delegates to the 1864 Charlottetown conference, listed on page 5 of Edward Whelan’s The Union of the British Provinces, catalogued as published in 1865. Confederation followed in 1867.",
+          "zh": "爱德华·惠兰《英属各省的联合》第5页列出1864年夏洛特敦会议代表；馆藏将该书出版时间著录为1865年。加拿大联邦于1867年成立。"
+        },
+        "interpretation": {
+          "en": "The list makes negotiation visible as the work of multiple colonial delegations. Prince Edward Island appears among the delegates but was not one of the four provinces in the 1867 federation; conference participation and membership were different steps.",
+          "zh": "这份名单使谈判呈现为多个殖民地代表团共同参与的过程。爱德华王子岛出现在名单中，却不属于1867年联邦最初四省；参加会议与加入联邦是不同步骤。"
+        },
+        "representation": "document-facsimile",
+        "sourceUrl": "https://archive.org/details/unionofbritishpr00wheluoft",
+        "rights": {
+          "label": "Public domain",
+          "url": "https://archive.org/metadata/unionofbritishpr00wheluoft",
+          "note": {
+            "en": "Internet Archive item metadata marks this edition NOT_IN_COPYRIGHT in the United States; not a worldwide determination.",
+            "zh": "互联网档案馆条目将此版本标为NOT_IN_COPYRIGHT，适用于美国，并非全球版权判定。"
+          }
+        },
+        "file": "assets/history-media/canadian-pages-02-confederation.jpg",
+        "sha256": "7989259897edf94bfcdf706b086ffe31733469483cc1e0a448e896f2053a38a0",
+        "requiresCorrection": false
+      },
+      {
+        "assetId": "world-batch-09-zkgw8fsx",
+        "recordId": "suez-crisis-1956",
+        "caption": {
+          "en": "Mason Jackson’s wood engraving of Suez Canal construction, around 1864, five years before the opening.",
+          "zh": "梅森·杰克逊约1864年制作的苏伊士运河施工木刻画，早于通航约五年。"
+        },
+        "interpretation": {
+          "en": "Trace the channel into the distance, then locate the workers and equipment. The small figures give a sense of the scale of the excavation.",
+          "zh": "沿河道望向远方，再寻找工人与设备：小小的人物衬托出开挖工程的规模。"
+        },
+        "representation": "historical-artwork",
+        "sourceUrl": "https://wellcomecollection.org/works/zkgw8fsx",
+        "rights": {
+          "label": "Public Domain Mark",
+          "url": "https://creativecommons.org/share-your-work/public-domain/pdm/",
+          "note": {
+            "en": "Wellcome Collection identifies this digital item with the Public Domain Mark. Credit: Wellcome Collection.",
+            "zh": "惠康收藏为此数字藏品标注公共领域标识。图像来源：惠康收藏。"
+          }
+        },
+        "file": "assets/history-media/world-batch-09-zkgw8fsx.jpg",
+        "sha256": "f4926d46aafbadd9d8aca019327bdbcd5a9ed905c59093d2fadece3b2967826b",
+        "requiresCorrection": false
+      },
+      {
+        "assetId": "china-batch-04-yangjian",
+        "recordId": "china-event-sui-001",
+        "caption": {
+          "en": "Yang Jian, Emperor Wen of Sui, detail of The Thirteen Emperors, traditionally attributed to Yan Liben. The MFA dates the composite scroll to the second half of the seventh century with later replacement. Museum of Fine Arts, Boston, 31.643.",
+          "zh": "杨坚（隋文帝），《历代帝王图》局部，传阎立本。波士顿美术馆将全卷定为7世纪后半叶，并注明含后补部分；藏品编号31.643。"
+        },
+        "interpretation": {
+          "en": "This detail places the Sui founder among earlier emperors. The ceremonial grouping presents reunification as an achievement remembered through the image of its ruler.",
+          "zh": "此局部将隋朝开创者列入历代帝王；礼仪性的组合以君主形象承载对统一事业的记忆。"
+        },
+        "representation": "later-depiction",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sui_Wendi_Tang.jpg",
+        "rights": {
+          "label": "Public domain",
+          "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "note": {
+            "en": "The source marks this historical image as public domain. The saved receipt retains its full rights metadata and attribution.",
+            "zh": "来源将此历史图像标为公共领域；保存的来源记录保留完整权利元数据与作者署名。"
+          }
+        },
+        "file": "assets/history-media/china-batch-04-yangjian.jpg",
+        "sha256": "bb9593012361786da73562e3f9ecc810793f8f5b3aad31ed8bb8fdc30de32f32",
+        "requiresCorrection": true
+      }
+    ],
+    "rejectedPatterns": [
+      "Same-era or same-region objects without a named relationship.",
+      "Different people with shared surnames, e.g. Wang Yangming versus Wang Changling; Zhang Qian versus Zhang Yichao.",
+      "Different countries’ railways, emancipation laws, or civil-rights photographs presented as the named local event.",
+      "A Hong Kong1870s image for1997handover without a sufficiently developed physical-history bridge."
+    ]
+  },
+  "admittedAssociations": [
+    {
+      "assetId": "china-batch-06-licunxu",
+      "recordId": "china-event-wudai-007",
+      "role": "historical-context",
+      "context": {
+        "en": "The label on this later portrait names Li Cunxu, the Later Tang emperor killed in the mutiny described here. Its 1748 remounting date belongs to the portrait’s later history; the painting date is unknown.",
+        "zh": "这幅后世肖像的题签标明李存勖，即本条兵变中遇害的后唐皇帝。1748年是后来重裱的年代，绘制年代未定。"
+      },
+      "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/1827?dep=P",
+      "checkedAt": "2026-11-13"
+    },
+    {
+      "assetId": "china-batch-06-chairong",
+      "recordId": "china-event-wudai-015",
+      "role": "historical-context",
+      "context": {
+        "en": "Chai Rong, known as Emperor Shizong of Later Zhou, is the ruler named in this campaign entry. The Qing portrait commemorates him many centuries after his reign.",
+        "zh": "柴荣即本条征伐中的后周世宗。这幅清代肖像在其统治数百年后纪念他。"
+      },
+      "evidenceUrl": "https://commons.wikimedia.org/wiki/File:Chai_Rong_(Zhou_Shizong).jpg",
+      "checkedAt": "2026-11-13"
+    },
+    {
+      "assetId": "china-batch-06-chairong",
+      "recordId": "china-event-wudai-016",
+      "role": "historical-context",
+      "context": {
+        "en": "This Qing portrait identifies Chai Rong, Emperor Shizong of Later Zhou, whose campaigns against Southern Tang form this entry’s subject. It is a later ruler image, not a depiction of the surrender.",
+        "zh": "这幅清代肖像表现后周世宗柴荣，本条以其征南唐为主题。这是后世帝王形象，而非献地降服场景。"
+      },
+      "evidenceUrl": "https://commons.wikimedia.org/wiki/File:Chai_Rong_(Zhou_Shizong).jpg",
+      "checkedAt": "2026-11-13"
+    },
+    {
+      "assetId": "china-batch-06-zhengchenggong",
+      "recordId": "china-landmark-421",
+      "role": "historical-context",
+      "context": {
+        "en": "The seventeenth-century seated portrait presents Zheng Chenggong, the commander of the Yangtze expedition named here, in formal dress. It conveys authority rather than the fleet’s movements.",
+        "zh": "这幅十七世纪坐像以正式冠服表现本条长江北伐的统帅郑成功，传达权威形象，而非舰队行进。"
+      },
+      "evidenceUrl": "https://commons.wikimedia.org/wiki/File:The_Portrait_of_Koxinga.jpg",
+      "checkedAt": "2026-11-13"
+    },
+    {
+      "assetId": "china-batch-04-hanwendi",
+      "recordId": "china-event-xihan-004",
+      "role": "historical-context",
+      "context": {
+        "en": "The Song painting’s image of Emperor Wen links this policy entry to later ideals of a ruler listening to advice. The portrait detail is separated by centuries from the Han reforms.",
+        "zh": "宋画中的汉文帝形象将这条政策史同后世君主纳谏的理想相连，肖像细部与汉代改革相隔数百年。"
+      },
+      "evidenceUrl": "https://commons.wikimedia.org/wiki/File:EmperorWenOfHan.jpg",
+      "checkedAt": "2026-11-13"
+    },
+    {
+      "assetId": "china-batch-04-zuozongtang",
+      "recordId": "china-event-qing-040",
+      "role": "historical-context",
+      "context": {
+        "en": "Boiarskii photographed Zuo Zongtang in 1875, before the Xinjiang campaigns described here. This lifetime portrait records the commander’s official presence, not the reconquest itself.",
+        "zh": "博亚尔斯基于1875年拍摄左宗棠，早于本条所述新疆战役。这幅生前肖像记录将领的官员形象，而非收复战事本身。"
+      },
+      "evidenceUrl": "https://commons.wikimedia.org/wiki/File:Zuo_Zongtang_1875.jpg",
+      "checkedAt": "2026-11-13"
+    },
+    {
+      "assetId": "china-batch-06-huanwen",
+      "recordId": "china-event-dongjin-009",
+      "role": "historical-context",
+      "context": {
+        "en": "The 1893 illustrated history gives Huan Wen, the commander named here, a retrospective visual identity. It is a late-Qing representation of a fourth-century figure.",
+        "zh": "1893年插图史书为本条将领桓温赋予回顾性的视觉形象，是晚清对四世纪人物的表现。"
+      },
+      "evidenceUrl": "https://commons.wikimedia.org/wiki/File:Huan_Wen_%E6%A1%93%E6%BA%AB.png",
+      "checkedAt": "2026-11-13"
+    },
+    {
+      "assetId": "china-batch-06-liyu",
+      "recordId": "china-landmark-382",
+      "role": "historical-context",
+      "context": {
+        "en": "The Sancai Tuhui’s 1609 portrait names Li Houzhu, the Southern Tang ruler Li Yu whose surrender is described here. The later print also belongs to the remembrance of him as a lyric poet.",
+        "zh": "1609年《三才图会》肖像题“李后主”，即本条所述出降的南唐君主李煜。这幅后世版画也属于对其词人身份的记忆。"
+      },
+      "evidenceUrl": "https://commons.wikimedia.org/wiki/File:Li_Yu_scth.jpg",
+      "checkedAt": "2026-11-13"
+    },
+    {
+      "assetId": "china-batch-06-guanyu",
+      "recordId": "china-landmark-102",
+      "role": "historical-context",
+      "context": {
+        "en": "Guan Yu’s 1609 printed portrait accompanies the account of his final northern offensive. Its long beard belongs to his later recognizable image, not a surviving likeness from the campaign.",
+        "zh": "关羽1609年的版画肖像与其最后一次北攻的叙述相伴。长髯属于后世易于辨认的形象，并非战役时留下的真实容貌记录。"
+      },
+      "evidenceUrl": "https://commons.wikimedia.org/wiki/File:Guanyu-1.jpg",
+      "checkedAt": "2026-11-13"
+    },
+    {
+      "assetId": "china-batch-06-wuzetian",
+      "recordId": "china-landmark-350",
+      "role": "historical-context",
+      "context": {
+        "en": "This eighteenth-century imperial album presents Wu Zetian as a sovereign, the political figure challenged by the rebellion named here. It records later imperial memory rather than the appearance of her seventh-century court.",
+        "zh": "这部十八世纪帝像册以君主形象表现武则天，即本条起兵所挑战的政治人物。它记录后世帝王记忆，而非七世纪朝廷的实际面貌。"
+      },
+      "evidenceUrl": "https://imagesonline.bl.uk/asset/3335/",
+      "checkedAt": "2026-11-13"
+    },
+    {
+      "assetId": "china-rebuild-yue-fei",
+      "recordId": "china-landmark-501",
+      "role": "historical-context",
+      "context": {
+        "en": "A Ming artist remembered Yue Fei in official dress with a book. Beside the account of his early enlistment, it shows a later commemorative identity, not the clothing of a young Southern Song recruit.",
+        "zh": "明代画家以官服和书卷纪念岳飞。与早年从军叙述并读，可见后来塑造的纪念形象，而非年轻南宋新兵的衣着。"
+      },
+      "evidenceUrl": "https://commons.wikimedia.org/wiki/File:%E6%98%8E%E4%BA%BA%E3%80%8A%E5%B2%B3%E9%A3%9E%E5%83%8F%E3%80%8B%E8%BD%B4.jpg",
+      "checkedAt": "2026-11-13"
+    },
+    {
+      "assetId": "china-batch-08-longqing",
+      "recordId": "china-event-ming-028",
+      "role": "historical-context",
+      "context": {
+        "en": "The court portrait identifies the Longqing emperor, whose reign names this maritime opening. The painting’s precise date is unrecorded; throne and dragon robe present imperial authority rather than the activity of Yuegang’s merchants.",
+        "zh": "宫廷肖像识别为隆庆帝，本条开海采用其年号。画作确切年代未载；宝座与龙袍表现皇权，而非月港商人的贸易活动。"
+      },
+      "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/1881?dep=P",
+      "checkedAt": "2026-11-13"
+    },
+    {
+      "assetId": "china-batch-12-li-zicheng-yongchang",
+      "recordId": "china-event-ming-040",
+      "role": "historical-context",
+      "context": {
+        "en": "Yongchang tongbao names the reign of Li Zicheng’s Shun regime. The museum dates this coin type to 1644–1645, making a claim to rule tangible alongside the story of Beijing’s fall and the Qing entry.",
+        "zh": "“永昌通宝”标明李自成大顺政权的年号。馆方将此钱种定为1644—1645年，为北京陷落与清军入关的叙述提供具体的统治主张物证。"
+      },
+      "evidenceUrl": "https://tcmb.culture.tw/zh-tw/detail?id=14000138568&indexCode=MOCCOLLECTIONS",
+      "checkedAt": "2026-11-13"
+    },
+    {
+      "assetId": "china-rebuild-cao-cao",
+      "recordId": "china-event-donghan-023",
+      "role": "historical-context",
+      "context": {
+        "en": "Cao Cao’s Ming printed portrait bears his posthumous title Wei Taizu. Beside the Guandu campaign, it shows how later readers remembered the victor, rather than an image made in the year 200.",
+        "zh": "曹操的明代版画肖像题其身后尊号“魏太祖”。与官渡战役并读，可见后世读者如何纪念胜者，而非公元200年的当时图像。"
+      },
+      "evidenceUrl": "https://commons.wikimedia.org/wiki/File:Cao_Cao_scth.jpg",
+      "checkedAt": "2026-11-13"
+    },
+    {
+      "assetId": "li-bai",
+      "recordId": "china-landmark-229",
+      "role": "historical-context",
+      "context": {
+        "en": "Liang Kai’s thirteenth-century painting presents Li Bai as a remembered poet. It accompanies the poet named in this farewell-poem story without depicting Wang Changling or the poem’s moment of composition.",
+        "zh": "梁楷十三世纪画作表现记忆中的诗人李白，与本条寄诗故事中的诗人相伴；画中不是王昌龄，也未描绘作诗当时。"
+      },
+      "evidenceUrl": "https://commons.wikimedia.org/wiki/File:Liang_Kai_-_Li_Bai_In_Stroll.jpg",
+      "checkedAt": "2026-11-13"
+    },
+    {
+      "assetId": "canadian-pages-02-confederation",
+      "recordId": "canada-polity",
+      "role": "historical-context",
+      "context": {
+        "en": "The printed list of delegates to the 1864 Charlottetown conference shows negotiation before Confederation. Prince Edward Island’s participation did not make it one of the four provinces of the 1867 federation.",
+        "zh": "1864年夏洛特敦会议代表的印刷名单展示联邦成立前的协商。爱德华王子岛参加会议，并不意味着它就是1867年联邦最初四省之一。"
+      },
+      "evidenceUrl": "https://archive.org/details/unionofbritishpr00wheluoft",
+      "checkedAt": "2026-11-13"
+    },
+    {
+      "assetId": "world-batch-09-zkgw8fsx",
+      "recordId": "suez-crisis-1956",
+      "role": "historical-context",
+      "context": {
+        "en": "This engraving shows canal construction around 1864, not the 1956 fighting. The entry explicitly connects the later nationalization crisis with the waterway’s earlier imperial construction and financing.",
+        "zh": "这幅版画表现约1864年的运河施工，并非1956年的战斗。本条将后来的国有化危机与运河早期的帝国建设、融资相连。"
+      },
+      "evidenceUrl": "https://wellcomecollection.org/works/zkgw8fsx",
+      "checkedAt": "2026-11-13"
+    },
+    {
+      "assetId": "china-batch-04-yangjian",
+      "recordId": "china-event-sui-001",
+      "role": "historical-context",
+      "context": {
+        "en": "The later image identifies Yang Jian, Emperor Wen, who established the Sui in 581. It is a retrospective ruler image, not a view of the new capital’s construction.",
+        "zh": "后世画像识别为581年建隋的文帝杨坚。这是回顾性的帝王形象，而非新都营建场面。"
+      },
+      "evidenceUrl": "https://commons.wikimedia.org/wiki/File:Sui_Wendi_Tang.jpg",
+      "checkedAt": "2026-11-13"
+    }
+  ],
+  "reviewCorrections": [
+    {
+      "id": "china-event-donghan-023",
+      "patch": {
+        "title": {
+          "en": "Guandu: Cao Cao defeats Yuan Shao",
+          "zh": "官渡之战：曹操击败袁绍"
+        },
+        "summary": {
+          "en": "Cao Cao defeated Yuan Shao at Guandu in 200. Campaigns against Yuan’s heirs continued after that victory; by 207 their remaining power had been broken.",
+          "zh": "曹操于200年在官渡击败袁绍。此后对袁氏诸子的战争继续，到207年其剩余势力被击溃。"
+        },
+        "dateNote": {
+          "en": "200 marks Guandu, not completion of the subsequent northern campaigns.",
+          "zh": "200年标记官渡之战，并非后续北方战役全部结束之年。"
+        }
+      },
+      "note": {
+        "en": "Separated Guandu from later consolidation using de Crespigny’s historical outline.",
+        "zh": "据德克雷斯皮尼的历史概述，区分官渡之战与后续整合。"
+      },
+      "sources": [
+        {
+          "title": "Rafe de Crespigny: A Short History of the Later Han Dynasty",
+          "url": "https://ll-chinesereferenceshelf.brillonline.com/dictionary-qin-and-han/prelims/sim-200004",
+          "publisher": "Brill / Chinese Reference Library",
+          "evidenceNote": "Separates Guandu from the later defeat of Yuan Shao’s heirs; describes Guan Yu’s northern offensive and attack on his rear in 219.",
+          "checkedAt": "2026-11-13",
+          "retrieval": "official-page-opened",
+          "evidenceNoteZh": "概述区分官渡胜利与后来击败袁绍继承者的过程，并记述219年关羽北攻及后方遇袭。"
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-102",
+      "patch": {
+        "title": {
+          "en": "Guan Yu’s northern offensive and the loss of Jing province",
+          "zh": "关羽北攻与荆州易手"
+        },
+        "summary": {
+          "en": "In 219 Guan Yu advanced north from Jing province and initially gained ground. While his forces remained engaged, Sun Quan’s army attacked from behind. Guan Yu was defeated, and Wu gained control along the middle Yangzi.",
+          "zh": "219年，关羽自荆州北攻，初获进展。其军仍在前线时，孙权军从后方进攻。关羽败亡，吴取得长江中游的控制权。"
+        },
+        "dateNote": {
+          "en": "219 marks Guan Yu’s final offensive and defeat.",
+          "zh": "219年为关羽最后一次北攻及败亡之年。"
+        }
+      },
+      "note": {
+        "en": "Replaced the inherited flood formula with the sourced sequence of offensive, rear attack and defeat. The geographic anchor is preserved.",
+        "zh": "以来源支持的北攻、后方遇袭与败亡过程替代原有水攻程式表述；保留地理锚点。"
+      },
+      "sources": [
+        {
+          "title": "Rafe de Crespigny: A Short History of the Later Han Dynasty",
+          "url": "https://ll-chinesereferenceshelf.brillonline.com/dictionary-qin-and-han/prelims/sim-200004",
+          "publisher": "Brill / Chinese Reference Library",
+          "evidenceNote": "Separates Guandu from the later defeat of Yuan Shao’s heirs; describes Guan Yu’s northern offensive and attack on his rear in 219.",
+          "checkedAt": "2026-11-13",
+          "retrieval": "official-page-opened",
+          "evidenceNoteZh": "概述区分官渡胜利与后来击败袁绍继承者的过程，并记述219年关羽北攻及后方遇袭。"
+        }
+      ]
+    },
+    {
+      "id": "china-event-sui-001",
+      "patch": {
+        "title": {
+          "en": "Yang Jian establishes the Sui dynasty",
+          "zh": "杨坚建立隋朝"
+        },
+        "summary": {
+          "en": "Yang Jian established the Sui dynasty in 581 after taking power in Northern Zhou. Consolidation and southward conquest followed; reunification came in 589. Building the new capital was a separate part of the Sui state-making program.",
+          "zh": "杨坚掌握北周政权后，于581年建立隋朝。随后巩固统治并向南征服，至589年完成统一；新都营建则是隋朝建国进程中的另一项工程。"
+        },
+        "dateNote": {
+          "en": "581 marks the foundation of the Sui; conquest of the southern polities followed by 589.",
+          "zh": "581年标记隋朝建立；征服南方诸政权至589年完成。"
+        }
+      },
+      "note": {
+        "en": "Separated dynastic founding from reunification and new-capital construction; retained the original year and map point.",
+        "zh": "区分王朝建立、统一与新都营建；保留原年及地图点位。"
+      },
+      "sources": [
+        {
+          "title": "Peter A. Lorge: The Sui and Tang Dynasties",
+          "url": "https://www.cambridge.org/core/books/abs/chinese-martial-arts/sui-and-tang-dynasties/123627F82B206F522930C01DE6633EC4",
+          "publisher": "Cambridge University Press",
+          "evidenceNote": "Chapter summary dates Yang Jian’s establishment of the Sui to 581 and reunification to 589.",
+          "checkedAt": "2026-11-13",
+          "retrieval": "official-page-opened",
+          "evidenceNoteZh": "章节摘要分别将杨坚建立隋朝和完成统一记于581与589年。"
+        },
+        {
+          "title": "China, 500–1000 A.D.",
+          "url": "https://www.metmuseum.org/toah/ht/06/eac",
+          "publisher": "The Metropolitan Museum of Art",
+          "evidenceNote": "Chronology separates Sui establishment from the later reunification and capital building program.",
+          "checkedAt": "2026-11-13",
+          "retrieval": "official-page-opened",
+          "evidenceNoteZh": "年表区分隋朝建立、后续统一及新都营建的阶段。"
+        }
+      ]
+    }
+  ],
+  "originalCorrectionBaselines": [
+    {
+      "recordId": "china-event-donghan-023",
+      "before": {
+        "title": {
+          "en": "Battle of Guandu: Cao Cao unifies northern China",
+          "zh": "官渡之战，曹操统一北方"
+        },
+        "summary": {
+          "en": "Battle of Guandu: Cao Cao unifies northern China",
+          "zh": "官渡之战，曹操统一北方"
+        },
+        "start": 200,
+        "end": 200
+      },
+      "after": {
+        "title": {
+          "en": "Guandu: Cao Cao defeats Yuan Shao",
+          "zh": "官渡之战：曹操击败袁绍"
+        },
+        "summary": {
+          "en": "Cao Cao defeated Yuan Shao at Guandu in 200. The victory did not immediately settle northern control: campaigns against Yuan’s heirs continued, and Cao eliminated them by 207.",
+          "zh": "曹操于200年在官渡击败袁绍，但胜利并未立即决定北方归属；对袁氏诸子的战争继续，到207年曹操消灭了他们。"
+        }
+      },
+      "sources": [
+        {
+          "title": "Rafe de Crespigny: A Short History of the Later Han Dynasty",
+          "url": "https://ll-chinesereferenceshelf.brillonline.com/dictionary-qin-and-han/prelims/sim-200004",
+          "publisher": "Brill / Chinese Reference Library",
+          "evidenceNote": "Separates Guandu from the later defeat of Yuan Shao’s heirs; describes Guan Yu’s northern offensive and attack on his rear in 219.",
+          "checkedAt": "2026-11-13",
+          "retrieval": "official-page-opened",
+          "evidenceNoteZh": "核对与本次叙述修订直接相关的年代与事件顺序；不以图像替代历史证据。"
+        }
+      ],
+      "rationale": "The existing title compresses later consolidation into the Guandu victory.",
+      "requiredForAssociation": true
+    },
+    {
+      "recordId": "china-landmark-102",
+      "before": {
+        "title": {
+          "en": "Guan Yu floods the Seven Armies and besieges Xiangyang and Fancheng",
+          "zh": "关羽北伐水淹七军，围曹仁于樊城、襄阳，威震华夏"
+        },
+        "summary": {
+          "en": "Guan Yu floods the Seven Armies and besieges Xiangyang and Fancheng",
+          "zh": "关羽北伐水淹七军，围曹仁于樊城、襄阳，威震华夏"
+        },
+        "start": 219,
+        "end": 219
+      },
+      "after": {
+        "title": {
+          "en": "Guan Yu’s northern offensive and the loss of Jing province",
+          "zh": "关羽北攻与荆州易手"
+        },
+        "summary": {
+          "en": "In 219 Guan Yu advanced north from Jing province and initially gained ground. While his forces remained engaged, Sun Quan’s army attacked from behind. Guan Yu was defeated, and Wu gained control along the middle Yangzi.",
+          "zh": "219年，关羽自荆州北攻，初获进展。其军仍在前线时，孙权军从后方进攻。关羽败亡，吴取得长江中游的控制权。"
+        }
+      },
+      "sources": [
+        {
+          "title": "Rafe de Crespigny: A Short History of the Later Han Dynasty",
+          "url": "https://ll-chinesereferenceshelf.brillonline.com/dictionary-qin-and-han/prelims/sim-200004",
+          "publisher": "Brill / Chinese Reference Library",
+          "evidenceNote": "Separates Guandu from the later defeat of Yuan Shao’s heirs; describes Guan Yu’s northern offensive and attack on his rear in 219.",
+          "checkedAt": "2026-11-13",
+          "retrieval": "official-page-opened",
+          "evidenceNoteZh": "核对与本次叙述修订直接相关的年代与事件顺序；不以图像替代历史证据。"
+        }
+      ],
+      "rationale": "Replaces an unexplained intentional-flood formula with a sourced campaign sequence.",
+      "requiredForAssociation": true
+    },
+    {
+      "recordId": "china-event-sui-001",
+      "before": {
+        "title": {
+          "en": "Yang Jian founds the Sui dynasty at Daxing",
+          "zh": "杨坚建隋，定都大兴"
+        },
+        "summary": {
+          "en": "Yang Jian founds the Sui dynasty at Daxing",
+          "zh": "杨坚建隋，定都大兴"
+        },
+        "start": 581,
+        "end": 581
+      },
+      "after": {
+        "title": {
+          "en": "Yang Jian establishes the Sui dynasty",
+          "zh": "杨坚建立隋朝"
+        },
+        "summary": {
+          "en": "Yang Jian established the Sui dynasty in 581 after taking power in Northern Zhou. Consolidation and southward conquest followed; reunification came in 589. Building the new capital was a separate part of the Sui state-making program.",
+          "zh": "杨坚掌握北周政权后，于581年建立隋朝。随后巩固统治并向南征服，至589年完成统一；新都营建则是隋朝建国进程中的另一项工程。"
+        }
+      },
+      "sources": [
+        {
+          "title": "Peter A. Lorge: The Sui and Tang Dynasties",
+          "url": "https://www.cambridge.org/core/books/abs/chinese-martial-arts/sui-and-tang-dynasties/123627F82B206F522930C01DE6633EC4",
+          "publisher": "Cambridge University Press",
+          "evidenceNote": "Chapter summary dates Yang Jian’s establishment of the Sui to 581 and reunification to 589.",
+          "checkedAt": "2026-11-13",
+          "retrieval": "official-page-opened",
+          "evidenceNoteZh": "核对与本次叙述修订直接相关的年代与事件顺序；不以图像替代历史证据。"
+        },
+        {
+          "title": "China, 500–1000 A.D.",
+          "url": "https://www.metmuseum.org/toah/ht/06/eac",
+          "publisher": "The Metropolitan Museum of Art",
+          "evidenceNote": "Chronology separates Sui establishment from the later reunification and capital building program.",
+          "checkedAt": "2026-11-13",
+          "retrieval": "official-page-opened",
+          "evidenceNoteZh": "核对与本次叙述修订直接相关的年代与事件顺序；不以图像替代历史证据。"
+        }
+      ],
+      "rationale": "Removes the conflation of581 founding with establishment at the newly built Daxing capital; does not introduce an unverified exact move date.",
+      "requiredForAssociation": true
+    }
+  ],
+  "heldAssociationIds": [
+    "china-event-dongjin-012",
+    "china-landmark-416",
+    "china-landmark-455"
+  ],
+  "ownerDecision": "18 associations admitted; the three flagged Lü Bu, Fei River and Qi Jiguang claims are held until their narrative evidence is reviewed. Images do not validate troop totals, legendary measurement or additional battle claims."
+}
