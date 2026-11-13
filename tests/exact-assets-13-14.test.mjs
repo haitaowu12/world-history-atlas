@@ -17,5 +17,5 @@ test('new biography paragraphs replace generic framing without deleting substant
  assert.match(get('person-louis-riel').summary.en,/Thomas Scott/);assert.match(get('person-louis-riel').summary.en,/1870 group photograph/);
 });
 test('title-page study teaches editorial transmission using the two real dated pages',()=>{
- const s=VISUAL_STUDIES.find(s=>s.id==='title-pages-transmission');assert.deepEqual(s.assets,a.slice(0,2).map(x=>x.id));assert.match(s.question.en,/editor or translator/);assert.match(s.observations[0].en,/1650/);assert.match(s.observations[1].en,/abridged Arabic/);assert.equal(VISUAL_STUDIES.length,21);
+ const s=VISUAL_STUDIES.find(s=>s.id==='title-pages-transmission');assert.deepEqual(s.assets,a.slice(0,2).map(x=>x.id));assert.match(s.question.en,/editor or translator/);assert.match(s.observations[0].en,/1650/);assert.match(s.observations[1].en,/abridged Arabic/);assert.equal(VISUAL_STUDIES.length,22);
 });

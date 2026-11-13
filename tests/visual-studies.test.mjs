@@ -6,8 +6,8 @@ import {entryMediaFigures} from '../dist/history-media.mjs';
 import {loadAtlasRecords,readAtlasData} from '../scripts/lib/atlas-records.mjs';
 const {manifest,records}=loadAtlasRecords(),catalog=readAtlasData(manifest.mediaFile);
 const escape=v=>String(v).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-test('twenty-one source-specific studies require their actual two admitted images',()=>{
- assert.equal(availableVisualStudies(catalog.items).length,21);assert.equal(new Set(VISUAL_STUDIES.map(s=>s.id)).size,VISUAL_STUDIES.length);
+test('twenty-two source-specific studies require their actual two admitted images',()=>{
+ assert.equal(availableVisualStudies(catalog.items).length,22);assert.equal(new Set(VISUAL_STUDIES.map(s=>s.id)).size,VISUAL_STUDIES.length);
  for(const study of VISUAL_STUDIES){assert.equal(new Set(study.assets).size,2);assert.equal(matchingVisualStudy([...study.assets].reverse()),study);assert.equal(availableVisualStudies(catalog.items.filter(i=>i.id!==study.assets[0])).includes(study),false);for(const lang of ['en','zh']){assert.ok(study.title[lang]);assert.ok(study.question[lang]);assert.ok(study.observations.length>=2);assert.ok(study.observations.every(o=>o[lang].length>30));}}
  assert.equal(matchingVisualStudy([VISUAL_STUDIES[0].assets[0],VISUAL_STUDIES[0].assets[0]]),null);assert.equal(matchingVisualStudy(['missing','unknown']),null);
 });
@@ -23,3 +23,5 @@ test('entry media uses one lead image and an accessible disclosure without losin
  for(const lang of ['en','zh']){const html=entryMediaFigures(items,lang,escape);assert.match(html,/data-action="visual-pair"/);assert.match(html,/<details class="entry-more-images"><summary>/);assert.ok(html.indexOf(items[0].file)<html.indexOf('entry-more-images'));assert.ok(html.indexOf(items[1].file)>html.indexOf('entry-more-images'));for(const item of items)assert.ok(html.includes(escape(item.sourceUrl)));}
  assert.doesNotMatch(entryMediaFigures(items.slice(0,1),'en',escape),/visual-pair|entry-more-images/);
 });
+
+test('women and authorial authority study distinguishes later illumination from a lifetime edition',()=>{const study=VISUAL_STUDIES.find(s=>s.id==='women-authority-page');assert.deepEqual(study.assets,['world-batch-16-christine','exact-18-princeton-wollstonecraft']);assert.match(study.observations[0].en,/1470/);assert.match(study.observations[0].en,/1515–1520/);assert.match(study.observations[1].en,/1792/);assert.match(study.observations[1].en,/lifetime edition/);assert.match(study.question.zh,/知识权威/);});

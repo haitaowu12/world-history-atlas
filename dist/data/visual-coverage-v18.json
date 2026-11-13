@@ -3,9 +3,9 @@
   "reviewedAt": "2026-11-13",
   "baselineManifest": "content-expansion-v17.json",
   "total": 2087,
-  "covered": 992,
+  "covered": 993,
   "assets": 542,
-  "percent": 47.53234307618591,
+  "percent": 47.58025874460949,
   "coveredIds": [
     "abbasid-caliphate",
     "abu-simbel-relocation",
@@ -921,6 +921,7 @@
     "qin-unification",
     "qing-dynasty",
     "rapa-nui",
+    "red-river-resistance",
     "reformation-theses",
     "roman-principate",
     "roman-republic",
@@ -1279,7 +1280,6 @@
     "comanche-horse-networks",
     "sitka-kiksadi-resistance",
     "metis-bison-hunt-governance",
-    "red-river-resistance",
     "indian-act-assimilation",
     "canadian-residential-schools",
     "virginia-racial-slavery",
@@ -2099,7 +2099,7 @@
   ],
   "target": 1044,
   "targetMet": false,
-  "remaining": 52,
+  "remaining": 51,
   "regions": {
     "africa": {
       "total": 136,
@@ -2119,7 +2119,7 @@
     },
     "north-america": {
       "total": 123,
-      "covered": 46
+      "covered": 47
     },
     "oceania": {
       "total": 89,
@@ -2488,6 +2488,13 @@
       "sha256": "7286884acd002b307fa8992a70674c32f19c3de8c6c7c47b3a15ee15e5451a3e",
       "assets": 0,
       "associations": 5
+    },
+    {
+      "file": "visual-assets-exact-links-15-v18.json",
+      "bytes": 719,
+      "sha256": "1312b37d5c77e523a645073cb4c1f3ef161065079c023751592a61241ffd45b0",
+      "assets": 0,
+      "associations": 1
     },
     {
       "file": "visual-assets-existing-links-01-v18.json",

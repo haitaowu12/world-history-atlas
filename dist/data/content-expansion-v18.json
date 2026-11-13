@@ -2799,6 +2799,13 @@
         "associations": 5
       },
       {
+        "file": "visual-assets-exact-links-15-v18.json",
+        "bytes": 719,
+        "sha256": "1312b37d5c77e523a645073cb4c1f3ef161065079c023751592a61241ffd45b0",
+        "assets": 0,
+        "associations": 1
+      },
+      {
         "file": "visual-assets-existing-links-01-v18.json",
         "bytes": 29714,
         "sha256": "d499d09511fe4ca0b041c72375043e96961a265c0a0c4142bb0bcdde967755d2",
@@ -3081,7 +3088,7 @@
     ],
     "coverageFile": "visual-coverage-v18.json",
     "assets": 542,
-    "covered": 992,
+    "covered": 993,
     "total": 2087,
     "target": 1044
   }
