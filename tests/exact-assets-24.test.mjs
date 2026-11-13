@@ -12,5 +12,5 @@ test('Westphalian allegory distinguishes preparatory drawing from final engravin
 });
 test('African photographs preserve specific occasion and do not admit the conflicting Senghor record',()=>{
  assert.deepEqual(shard.items.slice(2).flatMap(a=>a.recordIds),['person-julius-nyerere','person-miriam-makeba','person-leopold-senghor']);assert.match(shard.items[2].caption.en,/21 April 1965/);assert.equal(shard.items[2].kind,'photograph');assert.match(shard.items[3].caption.en,/Photographer unrecorded/);assert.match(shard.items[3].alt.en,/mirror/);assert.ok(!readAtlasData('history-media-v18.json').items.some(a=>a.sourceUrl.includes('ac58b66e-d0b4')));
- const c=readAtlasData('visual-coverage-v18.json');assert.equal(c.covered,1025);assert.equal(c.assets,550);assert.equal(c.total,2087);assert.equal(c.remaining,19);
+ const c=readAtlasData('visual-coverage-v18.json');assert.equal(c.covered,1026);assert.equal(c.assets,550);assert.equal(c.total,2087);assert.equal(c.remaining,18);
 });

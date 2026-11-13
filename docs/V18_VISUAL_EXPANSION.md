@@ -446,3 +446,7 @@ Five exact CC0 images connect a New Ireland memorial pole, Westphalian diplomati
 ### 13 November: 1,025-entry release published
 
 Tony authorized merging and publishing mature work. Main and review advanced to `2d5f8e0`; direct Firebase publication completed. Twelve live files match release hashes; live desktop/390px war and regular map controls, the Malagan chronology and default People imagery were checked. No Actions ran. See `V18_RELEASE_1025.md`. Nineteen entries remain before half coverage.
+
+### 13 November: 1,026-entry review checkpoint
+
+Added a precise later-publication connection from Samarkand’s scholarly work to the already saved 1650 Greaves edition, with two directly read HTML sources and bilingual context. **550 images / 1,026 of 2,087 entries (49.2%)**; **610/610 checks pass**. Chinese/English browser checks pass. Live remains the separately verified 1,025-entry release. The new NPS downloads are held after a polling denial; absent targets were checked and no retry made. See `V18_CHECKPOINT_1026.md`.

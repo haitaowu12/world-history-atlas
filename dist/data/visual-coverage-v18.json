@@ -3,9 +3,9 @@
   "reviewedAt": "2026-11-13",
   "baselineManifest": "content-expansion-v17.json",
   "total": 2087,
-  "covered": 1025,
+  "covered": 1026,
   "assets": 550,
-  "percent": 49.11356013416387,
+  "percent": 49.16147580258745,
   "coveredIds": [
     "abbasid-caliphate",
     "abu-simbel-relocation",
@@ -963,6 +963,7 @@
     "safavid-iran",
     "samanid-dynasty",
     "samarkand",
+    "samarkand-observatory",
     "samarra",
     "samoa-mau-independence",
     "sanchi",
@@ -1145,7 +1146,6 @@
     "mabo-native-title-decision",
     "nineveh-scribal-library",
     "cyrus-babylon-cylinder",
-    "samarkand-observatory",
     "gulhane-reform-edict",
     "horyuji-buddhist-building",
     "nara-heijo-capital",
@@ -2099,7 +2099,7 @@
   ],
   "target": 1044,
   "targetMet": false,
-  "remaining": 19,
+  "remaining": 18,
   "regions": {
     "africa": {
       "total": 136,
@@ -2135,7 +2135,7 @@
     },
     "west-central-asia": {
       "total": 111,
-      "covered": 50
+      "covered": 51
     }
   },
   "types": {
@@ -2551,6 +2551,13 @@
       "sha256": "ee1d3ee2a79a5570ab4ddf315bfb68c57494f58c566e6ac494b6da63c671cead",
       "assets": 0,
       "associations": 2
+    },
+    {
+      "file": "visual-assets-exact-links-26-v18.json",
+      "bytes": 885,
+      "sha256": "68965c7cdfcb21a8b675092aa2dcc1b1ee915d5bde6cf44e54d24f12c05ae222",
+      "assets": 0,
+      "associations": 1
     },
     {
       "file": "visual-assets-existing-links-01-v18.json",

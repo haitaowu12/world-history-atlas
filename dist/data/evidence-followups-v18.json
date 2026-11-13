@@ -1372,5 +1372,37 @@
       "en": "Added an exact institutional source for a pixel-reviewed CC0 image.",
       "zh": "为已核对画面的CC0图像补充对应机构来源。"
     }
+  },
+  {
+    "recordId": "samarkand-observatory",
+    "checkedAt": "2026-11-13",
+    "sources": [
+      {
+        "title": "Ulugh Beg, New Tables: St John’s MS 91 and Greaves’s editions",
+        "publisher": "St John’s College Library, Oxford",
+        "url": "https://stjohnscollegelibraryoxford.org/2024/10/10/surprising-diversity-the-length-and-breadth-of-st-johns-historic-collections/26/",
+        "checkedAt": "2026-11-13",
+        "retrieval": "official-page-opened",
+        "evidenceNote": "Inspected HTML exhibition entry: MS91 is an Arabic translation of Ulugh Beg’s New Tables; annotations on epochs fols4–5 indicate its use for Greaves’s Epochae celebriores (1650). Supports later textual transmission, not a claim that this pictured printed volume was made at the observatory.",
+        "evidenceNoteZh": "已阅读HTML展览条目：MS91是兀鲁伯《新天文表》的阿拉伯语译本；第4—5叶纪元批注显示它曾用于格里夫斯1650年的《著名纪元》。支持文本的后世传播，不支持图示印本在天文台制作的说法。"
+      },
+      {
+        "title": "Epochae celebriores, London, 1650",
+        "publisher": "Wellcome Collection",
+        "url": "https://wellcomecollection.org/works/mvr8ww4a",
+        "checkedAt": "2026-11-13",
+        "retrieval": "official-page-opened",
+        "evidenceNote": "Exact book record confirms Ulugh Beg and John Greaves, London publication in1650, Persian and Latin text and Public Domain Mark. The saved image is its title page.",
+        "evidenceNoteZh": "对应书籍记录确认兀鲁伯与约翰·格里夫斯、1650年伦敦出版、波斯文与拉丁文文本及公有领域标识。已保存图像为该书扉页。"
+      }
+    ],
+    "reviewLimit": {
+      "en": "The new sources trace a later edition of the calendrical work. Construction and catalogue chronology remain grounded in the existing university histories.",
+      "zh": "新增来源追溯历法成果的后世刊本；天文台建设与星表年代仍依据原有大学学术史来源。"
+    },
+    "note": {
+      "en": "Connects an inspected printed title page to the later transmission of the observatory circle’s scholarly results.",
+      "zh": "将已核对的印本扉页与天文台学者群体成果的后世传播相连。"
+    }
   }
 ]
