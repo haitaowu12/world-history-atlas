@@ -1110,5 +1110,51 @@
       "en": "Added the exact historical photograph already admitted for Riel’s biography.",
       "zh": "新增里尔传记中已核验的同一历史照片的准确来源。"
     }
+  },
+  {
+    "recordId": "person-al-biruni",
+    "checkedAt": "2026-11-13",
+    "sources": [
+      {
+        "title": "Risalah ila al-Biruni; Kitab al-Mubahathat, Garrett 308Y",
+        "url": "https://arks.princeton.edu/ark:/88435/b5644r59r",
+        "publisher": "Princeton University Library",
+        "evidenceNote": "Full institutional IIIF metadata: manuscript dated 1279; fols. 3b–12b contain Avicenna’s letter to al-Biruni, two series of 10 and 7 philosophical questions and answers. Image 9 has ownership marks; image 10 opens the named letter. Later copy, not autograph.",
+        "checkedAt": "2026-11-13",
+        "retrieval": "official-IIIF-manifest-and-image",
+        "evidenceNoteZh": "完整馆方IIIF目录：1279年手稿，第3叶背面至第12叶背面收伊本·西那致比鲁尼书信，分十问与七问两组哲学问答。选图为第3叶背面的开篇，是后世抄本而非亲笔。"
+      }
+    ],
+    "reviewLimit": {
+      "en": "The manuscript dates to 1279, after both scholars’ lifetimes. It preserves correspondence, not a portrait or autograph.",
+      "zh": "这部1279年手稿晚于两位学者生年，保存的是书信传本，而非肖像或亲笔。"
+    },
+    "note": {
+      "en": "Added the exact manuscript source while retaining the existing biography references.",
+      "zh": "新增手稿的准确馆藏来源，保留既有传记参考资料。"
+    }
+  },
+  {
+    "recordId": "person-ibn-sina",
+    "checkedAt": "2026-11-13",
+    "sources": [
+      {
+        "title": "Risalah ila al-Biruni; Kitab al-Mubahathat, Garrett 308Y",
+        "url": "https://arks.princeton.edu/ark:/88435/b5644r59r",
+        "publisher": "Princeton University Library",
+        "evidenceNote": "Full institutional IIIF metadata: manuscript dated 1279; fols. 3b–12b contain Avicenna’s letter to al-Biruni, two series of 10 and 7 philosophical questions and answers. Image 9 has ownership marks; image 10 opens the named letter. Later copy, not autograph.",
+        "checkedAt": "2026-11-13",
+        "retrieval": "official-IIIF-manifest-and-image",
+        "evidenceNoteZh": "完整馆方IIIF目录：1279年手稿，第3叶背面至第12叶背面收伊本·西那致比鲁尼书信，分十问与七问两组哲学问答。选图为第3叶背面的开篇，是后世抄本而非亲笔。"
+      }
+    ],
+    "reviewLimit": {
+      "en": "The manuscript dates to 1279, after both scholars’ lifetimes. It preserves correspondence, not a portrait or autograph.",
+      "zh": "这部1279年手稿晚于两位学者生年，保存的是书信传本，而非肖像或亲笔。"
+    },
+    "note": {
+      "en": "Added the exact manuscript source while retaining the existing biography references.",
+      "zh": "新增手稿的准确馆藏来源，保留既有传记参考资料。"
+    }
   }
 ]

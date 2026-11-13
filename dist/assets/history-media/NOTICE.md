@@ -1,6 +1,6 @@
 # Historical images: credits and reuse
 
-Reviewed 2026-11-13. 542 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
+Reviewed 2026-11-13. 543 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
 
 Historical artifacts, surviving places and later depictions retain their source identities. No generated reconstructions are included in this catalogue.
 
@@ -3839,6 +3839,20 @@ Official derivative saved unchanged, including surviving edges and marks.
 The exact item and full manifest state No Known Copyright. The catalogue dates this edition to 1792 and its author to 1759–1797; Princeton Library claims no copyright in its digital reproductions.
 
 Official derivative saved unchanged, including surviving edges and marks.
+
+## Questions exchanged with Ibn Sina / 与伊本·西那往来的问答
+
+- File: exact-20-princeton-biruni-correspondence.jpg
+- Creator: Ibn Sina (Avicenna); later copyist unrecorded
+- Date: 1279 (manuscript catalogue date)
+- Collection: Princeton University Library
+- Source: https://arks.princeton.edu/ark:/88435/b5644r59r
+- Rights: No Known Copyright (https://rightsstatements.org/vocab/NKC/1.0/)
+- Rights evidence: https://figgy.princeton.edu/concern/scanned_resources/ef0e865d-28b9-42f7-8855-72170808262f/manifest
+
+The exact full IIIF manifest marks this manuscript No Known Copyright and dates it to 1279. Princeton Library claims no copyright in digital reproductions of collection material.
+
+Official 1000-pixel derivative saved unchanged; no cropping, recoloring or retouching.
 
 ## The coronation remembered in 1840 / 1840年画中的查理曼加冕
 

@@ -6,7 +6,7 @@ import {loadAtlasRecords} from '../scripts/lib/atlas-records.mjs';
 const {records}=loadAtlasRecords();
 test('only the exact inherited generic date note is shortened; specific chronology stays intact',()=>{
  const generic=records.filter(r=>r.dateNote?.en?.startsWith('Uses the civil year supplied by the source.'));
- assert.ok(generic.length>900);for(const r of generic){assert.equal(readerDateNote(r,'en'),'Year from the source; the map point is schematic.');assert.equal(readerDateNote(r,'zh'),'年份沿用来源；地图点位为示意位置。');}
+ assert.ok(generic.length>0,'exercise remaining inherited generic notes as reviews replace them');for(const r of generic){assert.equal(readerDateNote(r,'en'),'Year from the source; the map point is schematic.');assert.equal(readerDateNote(r,'zh'),'年份沿用来源；地图点位为示意位置。');}
  for(const r of records.filter(r=>!generic.includes(r)))for(const lang of ['en','zh'])assert.equal(readerDateNote(r,lang),typeof r.dateNote==='string'?r.dateNote:r.dateNote?.[lang]||r.dateNote?.en||'');
 });
 test('facts repeated verbatim from titles or summaries disappear without erasing distinct facts',()=>{

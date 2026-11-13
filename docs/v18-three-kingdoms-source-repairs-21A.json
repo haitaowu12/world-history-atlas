@@ -1,0 +1,318 @@
+{
+  "reviewedAt": "2026-11-13",
+  "recordPatches": [
+    {
+      "recordId": "china-landmark-329",
+      "before": {
+        "title": {
+          "en": "Zhou Yu captures strategic Jiangling after a year-long siege and serves as Governor of Nanjun",
+          "zh": "江陵之战：周瑜浴血奋战岁余攻克曹仁据守之江陵，出任南郡太守"
+        },
+        "summary": {
+          "en": "Zhou Yu captures strategic Jiangling after a year-long siege and serves as Governor of Nanjun",
+          "zh": "江陵之战：周瑜浴血奋战岁余攻克曹仁据守之江陵，出任南郡太守"
+        }
+      },
+      "after": {
+        "title": {
+          "en": "Zhou Yu secures Jiangling",
+          "zh": "周瑜据守江陵"
+        },
+        "summary": {
+          "en": "After Red Cliffs, Zhou Yu and Cheng Pu advanced against Cao Ren at Jiangling. The Wu ruler’s biography says the confrontation lasted over a year. Zhou Yu was wounded but returned to inspect and encourage his troops; Cao Ren withdrew. Sun Quan appointed Zhou Yu Administrator of Nanjun, with his base at Jiangling.",
+          "zh": "赤壁之后，周瑜与程普进军江陵，与曹仁交战。《吴主传》记双方相持岁余。周瑜负伤后仍巡视军营、激励士卒，曹仁随后退走。孙权任命周瑜领南郡太守，屯据江陵。"
+        }
+      },
+      "retained": {
+        "start": 209,
+        "end": 209,
+        "location": {
+          "lon": 112.2,
+          "lat": 30.35,
+          "label": "Jiangling (Jingzhou)",
+          "labelI18n": {
+            "en": "Jiangling (Jingzhou)",
+            "zh": "江陵（南郡）"
+          },
+          "labelProvenance": "inherited-source-place-pair"
+        }
+      },
+      "rationale": "Replace martial embellishment and unspecified siege duration; translate 太守 as Administrator, not provincial Governor."
+    },
+    {
+      "recordId": "china-landmark-472",
+      "before": {
+        "title": {
+          "en": "Eastern Wu commander Zhou Yu dies aged 36 at Baqiu on the march to Shu, recommending Lu Su",
+          "zh": "东吴大都督周瑜西取巴蜀途中病逝巴丘，临终荐鲁肃自代"
+        },
+        "summary": {
+          "en": "Eastern Wu commander Zhou Yu dies aged 36 at Baqiu on the march to Shu, recommending Lu Su",
+          "zh": "东吴大都督周瑜西取巴蜀途中病逝巴丘，临终荐鲁肃自代"
+        }
+      },
+      "after": {
+        "title": {
+          "en": "Zhou Yu dies before the planned Shu campaign",
+          "zh": "周瑜未及出征蜀地而病逝"
+        },
+        "summary": {
+          "en": "Sun Quan approved Zhou Yu’s proposal to campaign in Shu. While returning to Jiangling to prepare, Zhou Yu fell ill and died at Baqiu. The biography records his age as thirty-six. In a memorial preserved in Lu Su’s biography, he recommended Lu Su to succeed him in command.",
+          "zh": "孙权同意周瑜进取蜀地的计划。周瑜返回江陵准备行装，途中病逝巴丘，传记记其年三十六。《鲁肃传》收录的奏疏记载，他推荐鲁肃接替统兵。"
+        }
+      },
+      "retained": {
+        "start": 210,
+        "end": 210,
+        "location": {
+          "lon": 113.09,
+          "lat": 29.37,
+          "label": "Baqiu (Yueyang)",
+          "labelI18n": {
+            "en": "Baqiu (Yueyang)",
+            "zh": "巴丘（岳阳）"
+          },
+          "labelProvenance": "inherited-source-place-pair"
+        }
+      },
+      "rationale": "Distinguish approved plan and preparation from a campaign already underway; avoid anachronistic Eastern Wu state title in 210."
+    },
+    {
+      "recordId": "china-landmark-439",
+      "before": {
+        "title": {
+          "en": "Young commander Lu Xun lulls Guan Yu with humble letters from Lukou before seizing Jingzhou",
+          "zh": "偏将军陆逊屯驻陆口致书骄矜关羽以麻痹其防备"
+        },
+        "summary": {
+          "en": "Young commander Lu Xun lulls Guan Yu with humble letters from Lukou before seizing Jingzhou",
+          "zh": "偏将军陆逊屯驻陆口致书骄矜关羽以麻痹其防备"
+        }
+      },
+      "after": {
+        "title": {
+          "en": "Lu Xun’s letters reassure Guan Yu",
+          "zh": "陆逊致书关羽"
+        },
+        "summary": {
+          "en": "After replacing Lü Meng at Lukou, Lu Xun wrote to Guan Yu praising his victories and presenting himself modestly. The biography says the letters eased Guan Yu’s suspicions. Lu Xun reported the opportunity to Sun Quan and then joined Lü Meng in the advance that took Gong’an and Nanjun.",
+          "zh": "陆逊接替吕蒙驻守陆口后，致书关羽称赞其战功，并以谦辞自陈。《陆逊传》记载，关羽读信后放松了疑虑。陆逊向孙权报告形势，随后与吕蒙率前部进军，攻取公安、南郡。"
+        }
+      },
+      "retained": {
+        "start": 219,
+        "end": 219,
+        "location": {
+          "lon": 113.45,
+          "lat": 29.82,
+          "label": "Lukou (Hubei)",
+          "labelI18n": {
+            "en": "Lukou (Hubei)",
+            "zh": "陆口（嘉鱼）"
+          },
+          "labelProvenance": "inherited-source-place-pair"
+        }
+      },
+      "rationale": "Remove unhelpful young/arrogant character judgments and sole-conqueror implication; preserve letters, named officers and places."
+    },
+    {
+      "recordId": "china-landmark-331",
+      "before": {
+        "title": {
+          "en": "Battle of Shiting: Eastern Wu commander Lu Xun lures Wei general Cao Xiu deep and routs him",
+          "zh": "石亭之战：东吴大都督陆逊诱曹休深入皖城石亭，合围斩获万余大破魏军"
+        },
+        "summary": {
+          "en": "Battle of Shiting: Eastern Wu commander Lu Xun lures Wei general Cao Xiu deep and routs him",
+          "zh": "石亭之战：东吴大都督陆逊诱曹休深入皖城石亭，合围斩获万余大破魏军"
+        }
+      },
+      "after": {
+        "title": {
+          "en": "Shiting: Lu Xun defeats Cao Xiu",
+          "zh": "石亭之战：陆逊击败曹休"
+        },
+        "summary": {
+          "en": "Zhou Fang’s deception drew Cao Xiu’s army toward Wan. Sun Quan appointed Lu Xun to command the response. Lu Xun led the center, with Zhu Huan and Quan Cong on the wings; their advance broke Cao Xiu’s forces and pursued them to Jiashi.",
+          "zh": "周鲂设诈，引曹休率军进入皖地。孙权任陆逊统军迎击。陆逊率中部，朱桓、全琮分领两翼，三路进兵击破曹休军，追至夹石。"
+        }
+      },
+      "retained": {
+        "start": 228,
+        "end": 228,
+        "location": {
+          "lon": 117.05,
+          "lat": 30.65,
+          "label": "Shiting (Anhui)",
+          "labelI18n": {
+            "en": "Shiting (Anhui)",
+            "zh": "石亭（潜山）"
+          },
+          "labelProvenance": "inherited-source-place-pair"
+        }
+      },
+      "rationale": "Credit deception to Zhou Fang and combined command to Lu Xun with Zhu Huan/Quan Cong; remove unsupported all-enclosing claim."
+    },
+    {
+      "recordId": "china-landmark-440",
+      "before": {
+        "title": {
+          "en": "Appointed Chancellor of Eastern Wu in Nanjing, Lu Xun remonstrates over the succession dispute",
+          "zh": "陆逊出任东吴丞相辅佐孙权，直言谏阻两宫太子废立之争，次年愤懑卒于建业"
+        },
+        "summary": {
+          "en": "Appointed Chancellor of Eastern Wu in Nanjing, Lu Xun remonstrates over the succession dispute",
+          "zh": "陆逊出任东吴丞相辅佐孙权，直言谏阻两宫太子废立之争，次年愤懑卒于建业"
+        }
+      },
+      "after": {
+        "title": {
+          "en": "Lu Xun becomes chancellor amid the succession dispute",
+          "zh": "陆逊任丞相与继承之争"
+        },
+        "summary": {
+          "en": "In 244 Sun Quan appointed Lu Xun chancellor, while retaining his provincial and military responsibilities at Wuchang. During the rivalry between the crown prince and the Prince of Lu, Lu Xun repeatedly urged a clear distinction between their positions. His requests to argue the case at court were refused.",
+          "zh": "244年，孙权任命陆逊为丞相，其州牧、都护及领武昌事等职任仍旧。太子与鲁王相争时，陆逊多次上疏，主张明确两者的地位差别。他请求入朝面陈意见，未获准许。"
+        }
+      },
+      "retained": {
+        "start": 244,
+        "end": 244,
+        "location": {
+          "lon": 118.78,
+          "lat": 32.06,
+          "label": "Jianye (Nanjing)",
+          "labelI18n": {
+            "en": "Jianye (Nanjing)",
+            "zh": "建业（南京）"
+          },
+          "labelProvenance": "inherited-source-place-pair"
+        }
+      },
+      "rationale": "Keep 244 appointment and succession argument; remove unsupported residence/death in Jianye and next-year death from 244 headline."
+    }
+  ],
+  "sourceAdditions": {
+    "china-landmark-329": {
+      "title": "Sanguozhi, juan 54: Zhou Yu and Lu Su",
+      "url": "https://zh.wikisource.org/wiki/三國志/卷54",
+      "publisher": "Chen Shou; Pei Songzhi annotations; Wikisource transcription",
+      "evidenceNote": "Zhou Yu section: 瑜與程普又進南郡 and 權拜瑜偏將軍 support wound, withdrawal and Nanjun appointment. Duration is supported separately by juan 47.",
+      "checkedAt": "2026-11-13",
+      "retrieval": "full-relevant-passages-read",
+      "evidenceNoteZh": "核对“瑜与程普又进南郡”“权拜瑜偏将军”等段，支持负伤、曹仁退军与南郡任命。"
+    },
+    "china-landmark-472": {
+      "title": "Sanguozhi, juan 54: Zhou Yu and Lu Su",
+      "url": "https://zh.wikisource.org/wiki/三國志/卷54",
+      "publisher": "Chen Shou; Pei Songzhi annotations; Wikisource transcription",
+      "evidenceNote": "Zhou Yu section: 瑜還江陵為行裝，而道於巴丘病卒; Pei Songzhi identifies death-place with Baling, distinct from earlier Baqiu posting. Lu Su section: 魯肅智略足任，乞以代瑜. Age 36 is source reckoning, not asserted modern age.",
+      "checkedAt": "2026-11-13",
+      "retrieval": "full-relevant-passages-read",
+      "evidenceNoteZh": "“瑜还江陵为行装，而道于巴丘病卒”；裴注区分巴丘地名。《鲁肃传》记周瑜请其代领。三十六为史书所记年龄。"
+    },
+    "china-landmark-439": {
+      "title": "Sanguozhi, juan 58: Lu Xun",
+      "url": "https://zh.wikisource.org/wiki/三國志/卷58",
+      "publisher": "Chen Shou; Pei Songzhi annotations; Wikisource transcription",
+      "evidenceNote": "Passages 拜偏將軍右部督代蒙; 遜至陸口，書與羽; 羽覽遜書…意大安; 使遜與呂蒙為前部…克公安、南郡; dated 建安二十四年十一月.",
+      "checkedAt": "2026-11-13",
+      "retrieval": "full-relevant-passages-read",
+      "evidenceNoteZh": "核对“代蒙”“逊至陆口，书与羽”“意大安”“使逊与吕蒙为前部”等句，时在建安二十四年。"
+    },
+    "china-landmark-331": {
+      "title": "Sanguozhi, juan 58: Lu Xun",
+      "url": "https://zh.wikisource.org/wiki/三國志/卷58",
+      "publisher": "Chen Shou; Pei Songzhi annotations; Wikisource transcription",
+      "evidenceNote": "Huangwu 7 passage: 權使鄱陽太守周魴譎魏大司馬曹休; 令朱桓、全琮為左右冀; 逕至夾石. Source reports 斬獲萬餘, not simply killed ten thousand; headline omits the total.",
+      "checkedAt": "2026-11-13",
+      "retrieval": "full-relevant-passages-read",
+      "evidenceNoteZh": "黄武七年记周鲂设诈，朱桓、全琮为左右翼并追至夹石；“斩获”不简化为全部阵亡。"
+    },
+    "china-landmark-440": {
+      "title": "Sanguozhi, juan 58: Lu Xun",
+      "url": "https://zh.wikisource.org/wiki/三國志/卷58",
+      "publisher": "Chen Shou; Pei Songzhi annotations; Wikisource transcription",
+      "evidenceNote": "赤烏七年…丞相; edict 其州牧都護領武昌事如故; 及求詣都…既不聽許. Text later reports 憤恚致卒 but does not place death at Jianye.",
+      "checkedAt": "2026-11-13",
+      "retrieval": "full-relevant-passages-read",
+      "evidenceNoteZh": "赤乌七年拜丞相，“其州牧都护领武昌事如故”，求诣都而不许；未以此证明卒于建业。"
+    }
+  },
+  "additionalDurationSource": "https://zh.wikisource.org/wiki/三國志/卷47",
+  "imageAltCorrection": {
+    "assetId": "china-batch-06-luxun",
+    "before": {
+      "en": "An armoured commander raises a sword before a mass of smoke and burning camp structures.",
+      "zh": "披甲将领在浓烟与燃烧营寨前举剑。"
+    },
+    "after": {
+      "en": "An armoured commander holds a tall flag beside curling smoke and flames.",
+      "zh": "披甲将领手持高旗，身旁烟火翻卷。"
+    },
+    "basis": "Owner independently viewed unchanged image: flag and pole, not a sword."
+  },
+  "imageAssociationsAdmitted": [],
+  "rejectedAssociations": [
+    {
+      "assetId": "china-batch-06-zhouyu",
+      "recordId": "china-landmark-329",
+      "role": "named-person",
+      "context": {
+        "en": "Ma Tai’s 1928 portrayal of Zhou Yu recalls Red Cliffs. It accompanies this account of Jiangling as a later image of the central figure, not a scene of this event.",
+        "zh": "马骀1928年描绘周瑜的插图表现赤壁。此处作为江陵叙事中核心人物的后世形象，并非本事件场景。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/三國志/卷54",
+      "checkedAt": "2026-11-13"
+    },
+    {
+      "assetId": "china-batch-06-zhouyu",
+      "recordId": "china-landmark-472",
+      "role": "named-person",
+      "context": {
+        "en": "Ma Tai’s 1928 portrayal of Zhou Yu recalls Red Cliffs. It accompanies this account of his final journey as a later image of the central figure, not a scene of this event.",
+        "zh": "马骀1928年描绘周瑜的插图表现赤壁。此处作为其最后行程叙事中核心人物的后世形象，并非本事件场景。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/三國志/卷54",
+      "checkedAt": "2026-11-13"
+    },
+    {
+      "assetId": "china-batch-06-luxun",
+      "recordId": "china-landmark-439",
+      "role": "named-person",
+      "context": {
+        "en": "Ma Tai’s 1928 portrayal of Lu Xun recalls Yiling. It accompanies this account of the Lukou correspondence as a later image of the central figure, not a scene of this event.",
+        "zh": "马骀1928年描绘陆逊的插图表现夷陵。此处作为陆口通信叙事中核心人物的后世形象，并非本事件场景。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/三國志/卷58",
+      "checkedAt": "2026-11-13"
+    },
+    {
+      "assetId": "china-batch-06-luxun",
+      "recordId": "china-landmark-331",
+      "role": "named-person",
+      "context": {
+        "en": "Ma Tai’s 1928 portrayal of Lu Xun recalls Yiling. It accompanies this account of Shiting as a later image of the central figure, not a scene of this event.",
+        "zh": "马骀1928年描绘陆逊的插图表现夷陵。此处作为石亭叙事中核心人物的后世形象，并非本事件场景。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/三國志/卷58",
+      "checkedAt": "2026-11-13"
+    },
+    {
+      "assetId": "china-batch-06-luxun",
+      "recordId": "china-landmark-440",
+      "role": "named-person",
+      "context": {
+        "en": "Ma Tai’s 1928 portrayal of Lu Xun recalls Yiling. It accompanies this account of the chancellorship as a later image of the central figure, not a scene of this event.",
+        "zh": "马骀1928年描绘陆逊的插图表现夷陵。此处作为丞相任职叙事中核心人物的后世形象，并非本事件场景。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/三國志/卷58",
+      "checkedAt": "2026-11-13"
+    }
+  ],
+  "reason": "The 1928 drawings depict Red Cliffs and Yiling, not these five episodes. Preserve the factual repairs but do not reuse those battle scenes merely to raise image coverage.",
+  "mapGap": {
+    "recordId": "china-landmark-440",
+    "issue": "Jianye coordinate remains an inherited court reference; no verified residence/death pin. User-facing date note states the distinction."
+  }
+}

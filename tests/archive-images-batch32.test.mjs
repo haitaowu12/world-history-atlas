@@ -28,7 +28,7 @@ test('Guadalcanal gains two perspectives without double-counting coverage',()=>{
  const media=readAtlasData('history-media-v18.json'),coverage=readAtlasData('visual-coverage-v18.json');
  const pair=media.items.filter(a=>a.recordIds.includes('guadalcanal-island-war'));
  assert.equal(pair.length,2);assert.deepEqual(new Set(pair.map(a=>a.id)),new Set(['us-archives-03-guadalcanal','pacific-awm-043648']));
- assert.equal(coverage.assets,542);assert.equal(coverage.covered,993);assert.equal(coverage.total,2087);assert.equal(coverage.targetMet,false);
+ assert.equal(coverage.assets,543);assert.equal(coverage.covered,998);assert.equal(coverage.total,2087);assert.equal(coverage.targetMet,false);
 });
 test('Japanese constitution sequence distinguishes photograph year from legal commencement',()=>{
  const layer=IMAGE_TIME_LAYERS.find(a=>a.assetId==='pacific-awm-c250563');assert.ok(layer);assert.equal(layer.stages.length,2);

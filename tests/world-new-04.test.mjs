@@ -18,7 +18,7 @@ test('object labels preserve modern impressions and uncertain identifications',(
  assert.match(a('38314').caption.en,/Shiva or a temple guardian/);assert.match(a('38314').interpretation.en,/does not establish a My Son findspot/);
 });
 test('three material-culture additions add visible record sources without mutating the frozen follow-up',()=>{
- const m=readAtlasData('content-expansion-v18.json'),e=readAtlasData(m.evidenceReviewsFile);assert.equal(e.length,48);assert.deepEqual(e[0],readAtlasData('evidence-followups-v11.json')[0]);
+ const m=readAtlasData('content-expansion-v18.json'),e=readAtlasData(m.evidenceReviewsFile);assert.equal(e.length,50);assert.deepEqual(e[0],readAtlasData('evidence-followups-v11.json')[0]);
  for(const [id,obj] of [['hittite-hattusha','326717'],['satavahana-dynasty','65014'],['ghaznavid-dynasty','455306']]){const r=records.get(id);assert.ok(r.sources.some(s=>s.url.endsWith('/'+obj)));assert.ok(r.evidenceReviews.some(x=>x.checkedAt==='2026-11-13'));}
  assert.match(records.get('satavahana-dynasty').summary.en,/unnamed male bust/);assert.match(records.get('ghaznavid-dynasty').summary.en,/Abu Nasr al-Naqqash/);
 });

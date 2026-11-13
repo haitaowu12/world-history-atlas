@@ -1,0 +1,297 @@
+{
+  "sourceEvidence": {
+    "accepted": [
+      {
+        "assetId": "exact-20-princeton-biruni-correspondence",
+        "manifest": "https://figgy.princeton.edu/concern/scanned_resources/ef0e865d-28b9-42f7-8855-72170808262f/manifest",
+        "metadataDate": "1279",
+        "cataloguedLeaves": "3b–12b",
+        "selectedCanvas": "image 10",
+        "pixelReview": "Black Arabic text; opening names al-Biruni; red question/answer headings, marginal notes. Adjacent image 9 carries ownership statement/stamps matching catalogue fol. 3a.",
+        "rights": "Manifest license http://rightsstatements.org/vocab/NKC/1.0/",
+        "policy": "https://library.princeton.edu/about/policies/copyright-and-permissions-policies",
+        "bytes": 370289,
+        "sha256": "66308013b0f33e9ed87f2e195b362a48b199676cf8a9a8facfaad913fac6c6b8"
+      }
+    ],
+    "held": [
+      "Wellcome Aryabhata xka4pq79/nmgdstjm physical-only; no digital item.",
+      "Wellcome Champlain y6yyrn38 physical-only; zmnqzyea CC BY-NC, not accepted.",
+      "Wellcome Coomaraswamy ffnvud28/tjk9wd9c/gamjzjn3 physical-only.",
+      "Wellcome Hypatia z8rcdjwq and Biruni rumh46fq In Copyright.",
+      "Generic Sikh depictions not attached to earlier gurus or the 1699 event; insufficient exact relevance."
+    ],
+    "accessNotes": [
+      "Princeton digital-collections metadata and catalog web reader reported not accessible via this tool, not a 403/challenge. Official manifest and its own image URLs succeeded directly. No restricted asset route retried."
+    ]
+  },
+  "admittedAssets": [
+    {
+      "id": "exact-20-princeton-biruni-correspondence",
+      "recordIds": [
+        "person-al-biruni",
+        "person-ibn-sina"
+      ],
+      "kind": "manuscript",
+      "representation": "manuscript-detail",
+      "title": {
+        "en": "Questions exchanged with Ibn Sina",
+        "zh": "与伊本·西那往来的问答"
+      },
+      "alt": {
+        "en": "A manuscript page with dense black Arabic script, red headings and short notes in the margins.",
+        "zh": "手稿页以黑色阿拉伯文密写正文，夹有红色标题，页边另有短注。"
+      },
+      "caption": {
+        "en": "Opening of Ibn Sina’s letter to al-Biruni, preserved in a manuscript dated 1279, fol. 3b. Princeton University Library, Islamic Manuscripts, Garrett 308Y.",
+        "zh": "伊本·西那致比鲁尼书信开篇，保存于目录定年为1279年的手稿中，第3叶背面。普林斯顿大学图书馆，伊斯兰手稿，Garrett 308Y。"
+      },
+      "interpretation": {
+        "en": "Princeton catalogues two sequences of ten and seven questions and answers. Red headings divide the discussion; the manuscript preserves an intellectual exchange in a later copy, not in either scholar’s own handwriting.",
+        "zh": "普林斯顿目录记载其中有两组问答，分别包含十问与七问。红色标题分隔讨论内容；这部后世抄本保存了学者间的思想交流，并非任何一位学者的亲笔。"
+      },
+      "creator": "Ibn Sina (Avicenna); later copyist unrecorded",
+      "date": "1279 (manuscript catalogue date)",
+      "institution": "Princeton University Library",
+      "credit": "Princeton University Library, Islamic Manuscripts, Garrett no. 308Y; gift of Robert Garrett, Class of 1897, 1942",
+      "file": "assets/history-media/exact-20-princeton-biruni-correspondence.jpg",
+      "imageUrl": "https://iiif-cloud.princeton.edu/iiif/2/6e%2F63%2F74%2F6e6374e249544c698ac6b29a86658cbb%2Fintermediate_file/full/1000,/0/default.jpg",
+      "downloadedFrom": "https://iiif-cloud.princeton.edu/iiif/2/6e%2F63%2F74%2F6e6374e249544c698ac6b29a86658cbb%2Fintermediate_file/full/1000,/0/default.jpg",
+      "sourceUrl": "https://arks.princeton.edu/ark:/88435/b5644r59r",
+      "rightsSourceUrl": "https://figgy.princeton.edu/concern/scanned_resources/ef0e865d-28b9-42f7-8855-72170808262f/manifest",
+      "rights": {
+        "label": "No Known Copyright",
+        "url": "https://rightsstatements.org/vocab/NKC/1.0/",
+        "note": {
+          "en": "The exact full IIIF manifest marks this manuscript No Known Copyright and dates it to 1279. Princeton Library claims no copyright in digital reproductions of collection material.",
+          "zh": "此手稿完整IIIF清单标示无已知版权，定年为1279年。普林斯顿图书馆不对馆藏的数字复制品主张版权。"
+        }
+      },
+      "transformation": {
+        "en": "Official 1000-pixel derivative saved unchanged; no cropping, recoloring or retouching.",
+        "zh": "原样保存官方1000像素衍生图；未裁切、改色或修饰。"
+      },
+      "checkedAt": "2026-11-13",
+      "width": 1000,
+      "height": 1510,
+      "bytes": 370289,
+      "sha256": "66308013b0f33e9ed87f2e195b362a48b199676cf8a9a8facfaad913fac6c6b8"
+    }
+  ],
+  "summaryChange": {
+    "recordId": "person-al-biruni",
+    "before": {
+      "en": "Al-Biruni worked on astronomy, mathematics, chronology and the comparison of religious and intellectual traditions. His life crossed changes of political patronage in Khwarazm and the Ghaznavid world. Observations and dated statements in his own works provide anchors that are more secure than some reconstructions of his movements.\n\nHis account of Indian knowledge involved language learning, comparison and efforts to understand systems different from his own. Such work should not be reduced either to an isolated genius or to a claim that every description was impartial. Scholars can identify both methods and the limits of available evidence. Linking this biography with Aryabhata and Ibn Sina situates intellectual exchange across regions, while the representative pin does not imply a permanent residence or a continuous, independently surveyed route.",
+      "zh": "比鲁尼研究天文、数学、编年，并比较宗教和思想传统。生涯跨越花剌子模与伽色尼世界中政治资助者的变化。其本人著作中的观测和纪年，为生平提供比某些迁移重建更稳固的锚点。\n\n对印度知识的叙述涉及语言学习、比较以及理解不同体系的努力。这些工作不能缩为孤立天才的故事，也不表示每项描述都不带立场。研究者可以同时辨析方法与现有证据局限。与阿耶波多、伊本·西那相连，可以把思想交换置于跨区域环境；代表性点位不表示永久居所或连续、独立测绘的路线。"
+    },
+    "after": {
+      "en": "Al-Biruni worked on astronomy, mathematics, chronology and the comparison of religious and intellectual traditions. His life crossed changes of political patronage in Khwarazm and the Ghaznavid world. His account of Indian knowledge drew on language learning and comparison across intellectual traditions.\n\nA later manuscript at Princeton preserves Ibn Sina’s letter addressed to al-Biruni. Its catalogue identifies two sequences of ten and seven philosophical questions and answers. Copied in a manuscript dated 1279, the opening page makes their scholarly exchange visible as a text transmitted between generations.",
+      "zh": "比鲁尼研究天文、数学、编年，并比较宗教与思想传统。其生涯跨越花剌子模与伽色尼世界中政治资助者的变化；对印度知识的叙述则依靠语言学习与不同思想传统之间的比较。\n\n普林斯顿保存的一部后世手稿收录伊本·西那致比鲁尼的书信。目录指出其中有两组哲学问答，分别包含十问与七问。目录定年为1279年的手稿开篇，让这场学术交流以历代传抄的文本形式呈现在眼前。"
+    },
+    "rationale": "Replace generic caveats with specific scholarly work and a dated manuscript witness; retain original biographical sources and identify the later copy."
+  },
+  "ownerReview": "Selected complete page inspected. Main text, red headings and marginal notes visible. Read exact manifest contents, call number, 1279 catalogue date, image 10 and No Known Copyright statement. No autograph or portrait claimed.",
+  "manuscriptMetadata": [
+    {
+      "label": "Abstract",
+      "value": [
+        "Collection of philosophical texts, mainly from Avicenna and al-Fārābī."
+      ]
+    },
+    {
+      "label": "Alternative",
+      "value": [
+        "Rasāʼil Ibn [Sīnā] wa-al-Fār[ābī ... wa-] al-Rāzī ... wa-Aflā ..."
+      ]
+    },
+    {
+      "label": "Contents",
+      "value": [
+        "1. fol. 1a: [Table of contents].",
+        "2. fol. 1b-2b: [al-]Khuṭab wa-al-taḥmīdāt / Avicenna.",
+        "3. fol 3b-12b: Risālah ilá Abī Rayḥān Muḥammad al-Bīrūnī / Avicenna. Two series of respectively 10 and 7 questions and answers on several philosophical matters.",
+        "4. fol. 13b-17a: Maqālah fī khaṭaʼ man qāla inna shayʼan huwa jawhar wa-ʻaraḍ maʻan / Avicenna.",
+        "5. fol. 17b-68a: Kitāb al-Mubāḥathāt / Avicenna.",
+        "6. fol. 68b-70Ab: Ajwibah ʻan ʻashr masāʼil / Avicenna.",
+        "7. fol. 70Ab-71a: Risālah li-Aflāṭūn fī al-radd ʻalá man qāla inna al-insān talāshā wa-faniya.",
+        "8. fol. 71b-89b: Kitāb fī marātib al-ʻulūm / Abū Naṣr Muḥammad ibn Muḥammad al-Fārābī.",
+        "9. fol. 90b-93a: Maqālah fī qawānīn ṣināʻat al-shuʻarāʼ / Fārābī.",
+        "10. fol. 93b-125a: al-Kitāb fī mabādiʼ ārāʼ ahl al-madīnah al-fāḍilah / Fārābī.",
+        "11. fol. 125b-130a: Tafsīr li-baʻḍ suwar kalām Allāh / Avicenna.",
+        "11a. fol. 125b-128a: Tafsīr sūrat al-Ikhlāṣ / Avicenna.",
+        "11b. fol. 128a-129b: Tafsīr sūrat al-Falaq / Avicenna.",
+        "11c. fol. 129b-130a: Tafsīr sūrat al-Nās / Avicenna.",
+        "12. fol. 130b-142a: Kitāb Taḥqīr al-ladhdhāt / Fakhr al-Dīn al-Rāzī. Treatise in three parts (qism) on the vileness of the pleasures of this world.",
+        "13. fol. 142b-149a: Risālat al-Firdaws / Avicenna.",
+        "14. fol. 149b-156a: al-Siyāsah / Avicenna.",
+        "15. fol. 156b-158b: Risālat al-arzāq / Avicenna.",
+        "16. fol. 159a-160a: Risālah fī īḍāḥ barāhīn mustanbaṭah fī masāʼil ʻawīṣah / Avicenna.",
+        "17. fol. 160b-175b: Kitāb Mukhtaṣar Anūlūṭīqā al-ūlá / Fārābī. Incomplete: fol. 161 and 166 are blank later paper.",
+        "18. fol. 176a-177a: Risālah fī ḥarakat al-kull / Alexander of Aphrodisias.",
+        "19. fol. 177b-266a: Taʻlīqāt / Avicenna.",
+        "20. fol. 266b-270a: Kitāb fī ibṭāl aḥkām al-nujūm / Fārābī. Treatise refuting astrology.",
+        "21. fol. 270b-293b: Kitāb fī al-ārāʼ al-ṭabīʻīyah allatī taqūl bihā al-ḥukamāʼ / Pseudo-Plutarchus. Arabic translation of the pseudo-Plutarchian Placita philosophorum.",
+        "22. fol. 294a-295a: al-Maqālah fī al-jihah allatī yaṣiḥḥu ʻalayhā al-qawl fī aḥkām al-nujūm / Fārābī. Treatise on the question of the validity of astrology.",
+        "23. fol. 295b-305a: Risālah ilá al-Iskandar fī al-ʻālam wa-al-makhlūqāt [De mundo] / Pseudo-Aristotle. Ps.-Aristoteles De Mundo, translated from Syriac by ʻĪsā ibn Ibrāhīm al-Nafīsī al-Mutaṭabbib.",
+        "24. fol. 305b-310b: Sharḥ Waṣāyā Fūthāghūras al-faylasūf. Commentary on the Golden verses of Pythagoras, incomplete at end."
+      ]
+    },
+    {
+      "label": "Extent",
+      "value": [
+        "311 leaves : paper ; 240 x 160 (175 x 115) mm. bound to 242 x 170 mm."
+      ]
+    },
+    {
+      "label": "Genre",
+      "value": [
+        "Early works."
+      ]
+    },
+    {
+      "label": "Format",
+      "value": [
+        "Manuscript",
+        "Book"
+      ]
+    },
+    {
+      "label": "Identifier",
+      "value": [
+        "<a href='http://arks.princeton.edu/ark:/88435/b5644r59r' alt='Identifier'>http://arks.princeton.edu/ark:/88435/b5644r59r</a>"
+      ]
+    },
+    {
+      "label": "Replaces",
+      "value": [
+        "pudl0032/308y"
+      ]
+    },
+    {
+      "label": "Title",
+      "value": [
+        {
+          "@language": "ar",
+          "@value": "رسالة الى البيروني ؛ كتاب المباحثات ... [الخ.]."
+        },
+        {
+          "@language": "ar-latn",
+          "@value": "Risālah ilá al-Bīrūnī ; Kitāb al-Mubāḥathāt ... [etc.]."
+        }
+      ]
+    },
+    {
+      "label": "Content Type",
+      "value": [
+        "Manuscript",
+        "Book"
+      ]
+    },
+    {
+      "label": "Provenance",
+      "value": [
+        "Ownership statement on fol. 3a. Ownership stamp impression of ʻAlī ibn Muḥammad Riḍā ibn Mūsá ibn Jaʻfar Kāshif al-Ghiṭāʼ (1850-1931) in violet ink dated 1334 [1906] on several leaves."
+      ]
+    },
+    {
+      "label": "Contributor",
+      "value": [
+        "Bīrūnī, Muḥammad ibn Aḥmad, 973?-1048",
+        "بيروني، محمد بن احمد، 973?-1048"
+      ]
+    },
+    {
+      "label": "Date",
+      "value": [
+        "1279"
+      ]
+    },
+    {
+      "label": "Language",
+      "value": [
+        "Arabic"
+      ]
+    },
+    {
+      "label": "Local Identifier",
+      "value": [
+        "p3j334v41r"
+      ]
+    },
+    {
+      "label": "Publisher",
+      "value": [
+        "[1279]"
+      ]
+    },
+    {
+      "label": "Subject",
+      "value": [
+        "Islamic philosophy—Early works to 1800"
+      ]
+    },
+    {
+      "label": "Binding Note",
+      "value": [
+        "Later type III (without flap) binding in red leather over paper pasteboards. Blind-tooled decorative outer frame."
+      ]
+    },
+    {
+      "label": "Source Acquisition",
+      "value": [
+        "Purchase ; Abraham Shalom Yahuda ; 1942.",
+        "Gift ; Robert Garrett, Class of 1897 ; 1942."
+      ]
+    },
+    {
+      "label": "Call Number",
+      "value": [
+        "Islamic Manuscripts, Garrett no. 308Y"
+      ]
+    },
+    {
+      "label": "Location",
+      "value": [
+        "Special Collections Islamic Manuscripts, Garrett no. 308Y"
+      ]
+    },
+    {
+      "label": "Electronic Locations",
+      "value": [
+        {
+          "id": null,
+          "internal_resource": "LabeledURI",
+          "created_at": null,
+          "updated_at": null,
+          "new_record": true,
+          "uri": {
+            "@id": "https://catalog.princeton.edu/catalog/9947825263506421#view"
+          },
+          "label": "Digital content"
+        },
+        {
+          "id": null,
+          "internal_resource": "LabeledURI",
+          "created_at": null,
+          "updated_at": null,
+          "new_record": true,
+          "uri": {
+            "@id": "iiif_manifest_paths"
+          },
+          "label": [
+            "http://arks.princeton.edu/ark:/88435/b5644r59r",
+            "https://figgy.princeton.edu/concern/scanned_resources/ef0e865d-28b9-42f7-8855-72170808262f/manifest"
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Member Of Collections",
+      "value": [
+        "Robert Garrett",
+        "Manuscripts of the Islamic World",
+        "Collections Donated to Princeton University Library"
+      ]
+    }
+  ]
+}
