@@ -11,7 +11,7 @@ test('fourteen source images connect seventeen exact records with fourteen first
  assert.equal(new Set(getty.items.flatMap(a=>a.recordIds)).size,9);assert.equal(new Set(archive.items.flatMap(a=>a.recordIds)).size,8);
  const evidence=JSON.parse(fs.readFileSync(new URL('../docs/v18-us-archives-05-evidence.json',import.meta.url)));
  assert.equal(evidence.fullOriginalTargets.length,8);
- const coverage=readAtlasData('visual-coverage-v18.json');assert.equal(coverage.assets,489);assert.equal(coverage.covered,878);assert.equal(coverage.remaining,166);
+ const coverage=readAtlasData('visual-coverage-v18.json');assert.equal(coverage.assets,489);assert.equal(coverage.covered,887);assert.equal(coverage.remaining,157);
  for(const a of by.values())for(const id of a.recordIds)assert.ok(records.has(id));
 });
 test('all new sources retain item identity, rights, dates and bilingual maker metadata',()=>{

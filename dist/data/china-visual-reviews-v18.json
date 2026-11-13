@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "reviewedAt": "2026-11-12",
+  "reviewedAt": "2026-11-13",
   "policy": "Source-backed bilingual narrative corrections with original records and representative map points preserved.",
   "eventReviews": [
     {
@@ -1873,6 +1873,47 @@
           "checkedAt": "2026-11-12",
           "evidenceNote": "Supports Hong Kong Island’s cession in 1842 and subsequent urban infrastructure development. Do not adopt its loose late-nineteenth-century wording for the naming date; use the specific Lands Department chronology.",
           "evidenceNoteZh": "馆方检索摘要支持1842年割让与其后城市建设；命名日期采用地政总署的明确记载。"
+        }
+      ]
+    },
+    {
+      "id": "china-event-xihan-006",
+      "patch": {
+        "title": {
+          "en": "Zhang Qian sets out to seek allies in the west",
+          "zh": "张骞出使西域，寻求盟友"
+        },
+        "summary": {
+          "en": "The Han court sent Zhang Qian west to seek an alliance with the Yuezhi against the Xiongnu. His first departure is dated around 139–138 BCE in modern chronologies. Detention by the Xiongnu prolonged the mission, and the Yuezhi did not accept the proposed alliance.\n\nWhen Zhang Qian returned, conventionally dated to 126 BCE, he brought information about Central Asian societies. The Shiji distinguishes places he visited from those known through reports. His journeys extended diplomatic contacts along existing networks of movement and exchange.",
+          "zh": "汉廷派张骞向西联络月氏，希望结盟对抗匈奴。现代年表通常将首次启程置于前139至138年左右。匈奴的拘留使使行延长，月氏也没有接受结盟提议。\n\n张骞归汉的通行日期为前126年，他带回了中亚各地的社会信息。《史记》区分他亲历的地方与从传闻获知的国家。这些旅程沿既有的人员往来与交换网络，扩展了外交联系。"
+        },
+        "dateNote": {
+          "en": "The inherited 138 BCE anchor is retained within the approximate 139–138 BCE departure range. The Central Asian map point represents the wider mission setting, not the departure location or a verified position in that year.",
+          "zh": "保留继承的前138年时间锚点，首次启程约在前139至138年。中亚地图点表示较广的使行背景，并非出发地点或该年已核实的位置。"
+        }
+      },
+      "note": {
+        "en": "Replaces a single-founder Silk Road claim with the attested alliance mission and distinguishes visited places from reported information.",
+        "zh": "以有文献依据的结盟任务替换单一开创丝路的说法，并区分亲历地点与传闻信息。"
+      },
+      "sources": [
+        {
+          "title": "Sima Qian, Shiji, chapter 123",
+          "publisher": "Transmitted ancient text; Wikisource edition",
+          "url": "https://zh.wikisource.org/wiki/史記/卷123",
+          "evidenceNote": "Mission objective, detention, Ganfu, visited versus reported societies, unsuccessful alliance and Wusun deputy missions; ancient ethnographic judgments are not adopted.",
+          "evidenceNoteZh": "支持任务目标、拘留、甘父、亲历与传闻的区分、未成联盟及乌孙副使；不沿用古代民族评价。",
+          "checkedAt": "2026-11-09",
+          "retrieval": "opened-page"
+        },
+        {
+          "title": "About the Silk Roads",
+          "publisher": "UNESCO",
+          "url": "https://www.unesco.org/en/silk-roads/about-silk-roads?hub=196704",
+          "evidenceNote": "The diplomatic-travel section supplies 139 BCE and 119 BCE; its single-founder language is narrowed through Shiji’s account of existing societies and intermediaries.",
+          "evidenceNoteZh": "外交旅行部分提供前139、前119年；关于单一开创者的措辞，结合《史记》中的既有社会与中介加以限定。",
+          "checkedAt": "2026-11-09",
+          "retrieval": "opened-page"
         }
       ]
     }

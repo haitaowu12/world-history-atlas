@@ -3,9 +3,9 @@
   "reviewedAt": "2026-11-13",
   "baselineManifest": "content-expansion-v17.json",
   "total": 2087,
-  "covered": 878,
+  "covered": 887,
   "assets": 489,
-  "percent": 42.06995687589842,
+  "percent": 42.50119789171059,
   "coveredIds": [
     "abbasid-caliphate",
     "abu-simbel-relocation",
@@ -59,6 +59,7 @@
     "charlemagne-coronation",
     "chavin-ritual-center",
     "cherokee-forced-removal",
+    "cherokee-phoenix-publication",
     "chichen-itza-flourishing",
     "chimu-chan-chan",
     "china-anshi-war-and-recovery-755",
@@ -183,6 +184,7 @@
     "china-event-wudai-018",
     "china-event-xihan-001",
     "china-event-xihan-003",
+    "china-event-xihan-006",
     "china-event-xihan-013",
     "china-event-xihan-014",
     "china-event-xihan-017",
@@ -371,6 +373,7 @@
     "china-landmark-351",
     "china-landmark-353",
     "china-landmark-354",
+    "china-landmark-356",
     "china-landmark-358",
     "china-landmark-359",
     "china-landmark-360",
@@ -599,6 +602,7 @@
     "dahomey-kingdom",
     "damascus-umayyad-mosque",
     "dawes-allotment",
+    "deccan-buddhist-donor-networks",
     "deir-el-medina-workers",
     "dejima-dutch-trading-post",
     "delhi-sultanate",
@@ -690,6 +694,7 @@
     "majapahit-java",
     "malayan-emergency-social-war",
     "malaysia-federation-1963",
+    "mali-empire",
     "mamluk-sultanate",
     "mangaaka-carver-ritual-law",
     "mapungubwe-hill-kingdom",
@@ -710,6 +715,7 @@
     "mimbres-painted-pottery",
     "ming-dynasty",
     "moche-north-coast",
+    "mogao",
     "mohenjo-daro",
     "mongol-unified-phase",
     "monte-alban-zapotec-capital",
@@ -727,6 +733,7 @@
     "new-deal-social-state",
     "new-zealand-wars",
     "northern-song",
+    "northern-wei-dynasty",
     "nz-womens-suffrage",
     "old-babylon",
     "olmec-centres",
@@ -761,6 +768,7 @@
     "person-desmond-tutu",
     "person-dolores-huerta",
     "person-emilie-du-chatelet",
+    "person-faith-bandler",
     "person-florence-nightingale",
     "person-frederick-douglass",
     "person-frida-kahlo",
@@ -772,6 +780,7 @@
     "person-hatshepsut",
     "person-hildegard-bingen",
     "person-ho-chi-minh",
+    "person-huda-shaarawi",
     "person-ibn-sina",
     "person-ida-b-wells",
     "person-isaac-newton",
@@ -902,7 +911,6 @@
     "han-dynasty",
     "silk-roads-changan",
     "hopewell-ceremonial-networks",
-    "mogao",
     "sui-reunification",
     "gyeongju",
     "early-islam",
@@ -913,7 +921,6 @@
     "chaco",
     "quanzhou",
     "ly-dynasty",
-    "mali-empire",
     "taputapuatea",
     "ayutthaya-kingdom",
     "joseon-kingdom",
@@ -1046,7 +1053,6 @@
     "brasilia-new-capital",
     "western-jin-dynasty",
     "eastern-jin-dynasty",
-    "northern-wei-dynasty",
     "liu-song-dynasty",
     "southern-qi-dynasty",
     "liang-dynasty",
@@ -1160,7 +1166,6 @@
     "vedic-oral-transmission",
     "early-gangetic-cities",
     "jain-ascetic-communities",
-    "deccan-buddhist-donor-networks",
     "indian-ocean-port-exchange",
     "bahmani-deccan",
     "golconda-qutbshahi",
@@ -1291,7 +1296,6 @@
     "merv-seljuk-urbanism",
     "ardabil-carpet-workshop",
     "hohokam-canal-communities",
-    "cherokee-phoenix-publication",
     "komagata-maru-exclusion",
     "japanese-canadian-dispossession",
     "delano-grape-strike",
@@ -1464,7 +1468,6 @@
     "person-bartolina-sisa",
     "person-rigoberta-menchu",
     "person-whina-cooper",
-    "person-faith-bandler",
     "person-oodgeroo-noonuccal",
     "person-grace-mera-molisa",
     "person-vincent-lingiari",
@@ -1477,7 +1480,6 @@
     "person-rosa-luxemburg",
     "person-ibn-khaldun",
     "person-ibn-al-haytham",
-    "person-huda-shaarawi",
     "person-charlotte-maxeke",
     "person-bessie-head",
     "person-miriam-makeba",
@@ -1592,7 +1594,6 @@
     "china-event-xihan-002",
     "china-event-xihan-004",
     "china-event-xihan-005",
-    "china-event-xihan-006",
     "china-event-xihan-007",
     "china-event-xihan-008",
     "china-event-xihan-009",
@@ -1802,7 +1803,6 @@
     "china-event-tang-029",
     "china-landmark-229",
     "china-landmark-242",
-    "china-landmark-356",
     "china-event-tang-030",
     "china-landmark-110",
     "china-landmark-057",
@@ -2099,15 +2099,15 @@
   ],
   "target": 1044,
   "targetMet": false,
-  "remaining": 166,
+  "remaining": 157,
   "regions": {
     "africa": {
       "total": 136,
-      "covered": 44
+      "covered": 46
     },
     "east-asia": {
       "total": 1216,
-      "covered": 558
+      "covered": 561
     },
     "europe": {
       "total": 122,
@@ -2119,15 +2119,15 @@
     },
     "north-america": {
       "total": 123,
-      "covered": 41
+      "covered": 42
     },
     "oceania": {
       "total": 89,
-      "covered": 23
+      "covered": 24
     },
     "south-asia": {
       "total": 95,
-      "covered": 42
+      "covered": 43
     },
     "southeast-asia": {
       "total": 101,
@@ -2135,7 +2135,7 @@
     },
     "west-central-asia": {
       "total": 111,
-      "covered": 35
+      "covered": 36
     }
   },
   "types": {
@@ -2466,6 +2466,13 @@
       "sha256": "0cbb2e642adb2d4af8ce9eccb01b09e4ab16539bf93f0b3f8df35eff4ae47e44",
       "assets": 7,
       "associations": 0
+    },
+    {
+      "file": "visual-assets-rebuilt-links-02-v18.json",
+      "bytes": 7202,
+      "sha256": "41e3cfbdcacc7096434d84ec5d91c68df411dda82a9ca28585c33166831a70da",
+      "assets": 0,
+      "associations": 10
     },
     {
       "file": "visual-assets-us-archives-02-v18.json",

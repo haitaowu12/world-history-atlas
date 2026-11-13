@@ -1,0 +1,663 @@
+{
+  "reviewedAt": "2026-11-13",
+  "status": "Rebuilt research proposal, not recovered original file; no production edits.",
+  "sourceBasis": "Existing admitted asset metadata and full target narratives inspected locally. No new network retrieval. Existing checkedAt dates in asset snapshots remain unchanged. All nine exact images inspected in this worker, including three newly revisited after output truncation.",
+  "decisions": [
+    {
+      "association": {
+        "assetId": "mansa-musa",
+        "recordId": "mali-empire",
+        "role": "historical-context",
+        "context": {
+          "en": "The 1375 Catalan Atlas presents Mali through a crowned Mansa Musa holding gold. This European image of royal wealth is one example of the different kinds of evidence used to reconstruct Mali’s history.",
+          "zh": "1375年《加泰罗尼亚地图集》以戴冠、持金的曼萨·穆萨呈现马里。这幅欧洲制作的王权财富图像，是重建马里历史所用不同类型证据的一个实例。"
+        },
+        "evidenceUrl": "https://commons.wikimedia.org/wiki/File:Catalan_Atlas_BNF_Sheet_6_Mansa_Musa.jpg",
+        "checkedAt": "2026-11-13"
+      },
+      "assetSourceCheckedAt": "2026-11-09",
+      "sha256": "ac4038d779bd1c054fdf845192839b50d952b8dca5b0b220c1ccae86e8e71f6a",
+      "targetSources": [
+        {
+          "title": "The Empire of Mali — research abstract",
+          "url": "https://discovery.ucl.ac.uk/id/eprint/10070150/",
+          "publisher": "UCL Discovery"
+        }
+      ]
+    },
+    {
+      "association": {
+        "assetId": "china-batch-06-xiaowendi",
+        "recordId": "northern-wei-dynasty",
+        "role": "historical-context",
+        "context": {
+          "en": "This procession relief from Longmen’s Central Binyang Cave commemorates Emperor Xiaowen after his death, around 522–523. Court ranks and Buddhist devotion meet in another Northern Wei patronage project, distinct from Yungang.",
+          "zh": "这幅龙门宾阳中洞礼佛行列浮雕约作于522—523年，在孝文帝去世后纪念他。朝廷等级与佛教信仰交织，展示北魏另一处、不同于云冈的营造工程。"
+        },
+        "evidenceUrl": "https://www.metmuseum.org/art/collection/search/42707",
+        "checkedAt": "2026-11-13"
+      },
+      "assetSourceCheckedAt": "2026-11-11",
+      "sha256": "baee227ea530a903af1fa0a7bb6926d893012a0f46a76812852b0bf3677f01da",
+      "targetSources": [
+        {
+          "title": "China, 1–500 A.D.: chronology",
+          "url": "https://www.metmuseum.org/toah/ht/05/eac.html",
+          "publisher": "The Metropolitan Museum of Art",
+          "checkedAt": "2026-10-23",
+          "evidenceNote": "Political chronology and the regional context described in this entry; not an independent certification of map geometry."
+        },
+        {
+          "title": "Ancient China: Three Kingdoms, Jin, and Southern and Northern Dynasties",
+          "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/en/detail5.html",
+          "publisher": "National Museum of China",
+          "checkedAt": "2026-10-23",
+          "evidenceNote": "Political chronology and the regional context described in this entry; not an independent certification of map geometry."
+        },
+        {
+          "title": "Yungang Grottoes",
+          "url": "https://whc.unesco.org/en/list/1039/",
+          "publisher": "UNESCO World Heritage Centre",
+          "checkedAt": "2026-10-23",
+          "evidenceNote": "Datong location and fifth–sixth-century Buddhist cave-art context."
+        },
+        {
+          "title": "Northern and Southern Dynasties",
+          "url": "https://www.metmuseum.org/essays/period-of-the-northern-and-southern-dynasties-386-589",
+          "publisher": "The Metropolitan Museum of Art",
+          "checkedAt": "2026-10-23",
+          "evidenceNote": "Northern and southern political separation and Buddhist artistic exchange."
+        }
+      ]
+    },
+    {
+      "association": {
+        "assetId": "china-batch-05-zhangqian",
+        "recordId": "mogao",
+        "role": "named-site",
+        "context": {
+          "en": "Cave 323’s Tang-period mural retells Zhang Qian’s Han mission through mounted envoys and an imperial audience. Painted centuries after the journey, it belongs to Mogao’s successive layers of storytelling.",
+          "zh": "莫高窟第323窟的唐代壁画以骑马使者与朝见场面重述汉代张骞出使。它绘于旅程数百年之后，体现莫高窟历代叙事的累积。"
+        },
+        "evidenceUrl": "https://commons.wikimedia.org/wiki/File:ZhangQianTravels.jpg",
+        "checkedAt": "2026-11-13"
+      },
+      "assetSourceCheckedAt": "2026-11-11",
+      "sha256": "872f9e44c434419d76115ca1e56922f14b13f24acec20654bd9efc1188850fc5",
+      "targetSources": [
+        {
+          "title": "Mogao Caves",
+          "url": "https://whc.unesco.org/en/list/440/",
+          "publisher": "UNESCO World Heritage Centre",
+          "evidenceNote": "UNESCO identifies the Silk Route crossroads and approximately one millennium of Buddhist art.",
+          "checkedAt": "2026-10-21"
+        },
+        {
+          "title": "Mogao Grottoes, Dunhuang: exhibition note",
+          "url": "https://ignca.gov.in/PDF_data/Magao_Grottoes_Dunhuang_Details.pdf",
+          "publisher": "Indira Gandhi National Centre for the Arts",
+          "evidenceNote": "Page 1 dates the cave art broadly to the 4th–14th centuries and describes Asian artistic connections.",
+          "checkedAt": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "association": {
+        "assetId": "china-batch-05-zhangqian",
+        "recordId": "china-event-xihan-006",
+        "role": "historical-context",
+        "context": {
+          "en": "A Tang-period mural in Mogao Cave 323 imagines Zhang Qian’s mission centuries later. It shows the envoy’s place in later storytelling, not a contemporary record of his departure in 138 BCE.",
+          "zh": "莫高窟第323窟唐代壁画在数百年后描绘张骞出使，展示使者在后世叙事中的位置，并非前138年启程的当时记录。"
+        },
+        "evidenceUrl": "https://commons.wikimedia.org/wiki/File:ZhangQianTravels.jpg",
+        "checkedAt": "2026-11-13"
+      },
+      "assetSourceCheckedAt": "2026-11-11",
+      "sha256": "872f9e44c434419d76115ca1e56922f14b13f24acec20654bd9efc1188850fc5",
+      "targetSources": [
+        {
+          "title": "Chronicles of the Realm — js/map_data.js (frozen source dataset)",
+          "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/map_data.js",
+          "publisher": "DeanChensj / Chronicles of the Realm",
+          "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+          "checkedAt": "2026-10-23"
+        }
+      ]
+    },
+    {
+      "association": {
+        "assetId": "oceania-mv-675839",
+        "recordId": "person-faith-bandler",
+        "role": "historical-context",
+        "context": {
+          "en": "“Vote Yes for Aborigines”: this 1967 referendum badge brings the public persuasion of Bandler’s campaign into view. It is campaign material, not an object identified as her personal possession.",
+          "zh": "“为原住民投赞成票”：这枚1967年公投徽章呈现班德勒参与的宣传说服工作。它是运动物件，并未被认定为她的私人物品。"
+        },
+        "evidenceUrl": "https://collections.museumsvictoria.com.au/items/2052835",
+        "checkedAt": "2026-11-13"
+      },
+      "assetSourceCheckedAt": "2026-11-11",
+      "sha256": "e81142adfec3ce38247a0ea985b7cb666aa9764f5bbf4f11666080a85f1a05d6",
+      "targetSources": [
+        {
+          "title": "1967 Faith Bandler: Changing the Constitution",
+          "url": "https://digital-classroom.nma.gov.au/learning-modules/australia-federation-defining-moments-1901-present/57-1967-faith-bandler-changing-constitution",
+          "publisher": "National Museum of Australia",
+          "evidenceNote": "Inspected educational biography: South Sea Islander parentage, wartime labour and organizing. Its simplified claim that all constitutional change was necessarily beneficial is not adopted.",
+          "checkedAt": "2026-10-23",
+          "retrieval": "page-text"
+        },
+        {
+          "title": "Paintings from the Collection: Faith Bandler",
+          "url": "https://audio.sl.nsw.gov.au/paintings-collection/faith-bandler",
+          "publisher": "State Library of New South Wales",
+          "evidenceNote": "Indexed collection text supports parentage and identity; portrait not reproduced.",
+          "checkedAt": "2026-10-23",
+          "retrieval": "indexed-excerpt"
+        },
+        {
+          "title": "Islander labourers",
+          "url": "https://www.nma.gov.au/defining-moments/resources/islander-labourers",
+          "publisher": "National Museum of Australia",
+          "evidenceNote": "Indexed museum account: recruitment 1863–1904, coercion and kidnapping, plantation labour and discriminatory policy.",
+          "checkedAt": "2026-10-23",
+          "retrieval": "indexed-excerpt"
+        },
+        {
+          "title": "Dr Faith Bandler AM",
+          "url": "https://humanrights.gov.au/about-us/hra-nominees/16543",
+          "publisher": "Australian Human Rights Commission",
+          "evidenceNote": "Inspected award biography:1956 co-founding of the Aboriginal-Australian Fellowship and the decade-long referendum campaign; celebratory wording is distinguished from exact legal effects.",
+          "checkedAt": "2026-10-23",
+          "retrieval": "page-text"
+        },
+        {
+          "title": "The 1967 referendum",
+          "url": "https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/government-and-democracy/constitution-and-referendums/1967-referendum",
+          "publisher": "National Archives of Australia",
+          "evidenceNote": "Inspected archive guide:27 May 1967 vote,changes to section 51(xxvi)and repeal of section 127;links to contemporary records.",
+          "checkedAt": "2026-10-23",
+          "retrieval": "page-text"
+        },
+        {
+          "title": "Indigenous recognition and constitutional myths",
+          "url": "https://conreform.sydney.edu.au/2015/06/indigenous-recognition-and-constitutional-myths/",
+          "publisher": "Helen Irving / University of Sydney Constitutional Reform Unit",
+          "evidenceNote": "Inspected scholarly explanation of 1967 changes and why they did not grant citizenship or voting rights. Historical explanation only; later reform commentary not presented as current.",
+          "checkedAt": "2026-10-23",
+          "retrieval": "page-text"
+        }
+      ]
+    },
+    {
+      "association": {
+        "assetId": "awm2-c1006113",
+        "recordId": "person-huda-shaarawi",
+        "role": "historical-context",
+        "context": {
+          "en": "Women address a Cairo crowd in March 1919, during the anti-colonial mobilization in which Shaarawi helped lead women’s demonstrations. The speakers are unnamed; this is a collective scene, not an identified portrait of Shaarawi.",
+          "zh": "1919年3月，妇女向开罗街头人群讲话。沙拉维曾协助领导这一反殖民动员中的妇女示威。照片中的发言者未具名；这是集体场景，并非已确认的沙拉维肖像。"
+        },
+        "evidenceUrl": "https://www.awm.gov.au/collection/C1006113",
+        "checkedAt": "2026-11-13"
+      },
+      "assetSourceCheckedAt": "2026-11-12",
+      "sha256": "c6d8f32c784e59af0a152b6f4febb0254c6b78638799bc22b0852392b8762685",
+      "targetSources": [
+        {
+          "title": "Sha’rawi, Huda 1879–1947",
+          "publisher": "International Encyclopedia of the Social Sciences / Encyclopedia.com",
+          "url": "https://www.encyclopedia.com/social-sciences/encyclopedias-almanacs-transcripts-and-maps/sharawi-huda-1879-1947",
+          "evidenceNote": "Elite background, charitable/educational work, 1919 demonstrations, 1923 Egyptian Feminist Union and presidency until 1947. Face-covering distinction inspected; generalized claims about all Egyptian women are not adopted.",
+          "checkedAt": "2026-10-23",
+          "retrieval": "inspected-text"
+        },
+        {
+          "title": "Re-reading Huda Shaarawi’s Harem Years",
+          "publisher": "Julia Lisiecka, SOAS Journal of Postgraduate Research 8 (2015)",
+          "url": "https://www.soas.ac.uk/sites/default/files/2022-06/05%20Rereading%20Huda%20Shaarawis%20Harem%20Years%20Bargaining%20with%20the%20Patriarchy%20in%20the%20Changing%20Egypt%20file102674.pdf",
+          "evidenceNote": "Relevant pages 6–10 inspected: limits of unveiling symbolism, nationalism/feminism, 1923 political exclusion and 1924 parliamentary inauguration controversy. This is a postgraduate research interpretation of memoirs, not an unmediated testimony.",
+          "checkedAt": "2026-10-23",
+          "retrieval": "inspected-text"
+        }
+      ]
+    },
+    {
+      "association": {
+        "assetId": "world-batch-06-npg-npg-99-167-13",
+        "recordId": "cherokee-phoenix-publication",
+        "role": "related-work",
+        "context": {
+          "en": "Sequoyah points to characters of his syllabary, the writing system used alongside English in the Cherokee Phoenix. This portrait dates to 1838, after the original newspaper’s 1828–1834 run; it is not a newspaper page.",
+          "zh": "塞阔雅指向自己创制的音节文字；《切罗基凤凰报》曾以这种文字与英语并列刊载。这幅肖像作于1838年，晚于原报1828—1834年的刊行期，并非报纸页面。"
+        },
+        "evidenceUrl": "https://npg.si.edu/object/npg_NPG.99.167.13",
+        "checkedAt": "2026-11-13"
+      },
+      "assetSourceCheckedAt": "2026-11-11",
+      "sha256": "bdd12739d71ad6a84eefe7cfeec5fd93b1c7f8efa92c6b4b5472b007db803aed",
+      "targetSources": [
+        {
+          "title": "About the Cherokee Phoenix Project",
+          "publisher": "Western Carolina University, Hunter Library",
+          "url": "https://www.wcu.edu/library/digitalcollections/cherokeephoenix/about.html",
+          "evidenceNote": "Inspected project essay: first issue 21 February 1828, bilingual contents, range of reporting, final issue 31 May 1834 and selective English transcription policy.",
+          "checkedAt": "2026-10-23",
+          "retrieval": "inspected-text"
+        },
+        {
+          "title": "Cherokee Phoenix digital collection",
+          "publisher": "Western Carolina University, Hunter Library",
+          "url": "https://www.wcu.edu/library/digitalcollections/cherokeephoenix/",
+          "evidenceNote": "Inspected collection introduction: historical run and warnings about selective transcription and checking original issues; same source family as project essay.",
+          "checkedAt": "2026-10-23",
+          "retrieval": "inspected-text"
+        }
+      ]
+    },
+    {
+      "association": {
+        "assetId": "world-batch-03-sanchi",
+        "recordId": "deccan-buddhist-donor-networks",
+        "role": "named-site",
+        "context": {
+          "en": "Sanchi is a comparison site named in this account. A 2013 photograph shows the Great Stupa’s gateway and enclosing railings, making the arrangement of a devotional setting visible alongside Deccan examples.",
+          "zh": "桑奇是本文列举的比较地点。2013年的照片展示大塔的塔门与围栏，使朝礼空间的组织形式可以同德干实例并置观察。"
+        },
+        "evidenceUrl": "https://commons.wikimedia.org/wiki/File:Stupa_1,_Sanchi_02.jpg",
+        "checkedAt": "2026-11-13"
+      },
+      "assetSourceCheckedAt": "2026-11-11",
+      "sha256": "7d522db4ec60c27a23c7f09ab97b2e83c66b25ae1a8cd86b0231030dacfcab5a",
+      "targetSources": [
+        {
+          "title": "Tree & Serpent: Early Buddhist Art in India, 200 BCE–400 CE",
+          "url": "https://www.metmuseum.org/zh/exhibitions/tree-and-serpent%2Fvisiting-guide",
+          "publisher": "The Metropolitan Museum of Art",
+          "evidenceNote": "Curator audio transcript: donors, Buddhist establishments and local sacred landscapes in the Deccan; not a Chinese translation despite the page path.",
+          "checkedAt": "2026-10-23",
+          "retrievalStatus": "page-text-inspected"
+        },
+        {
+          "title": "Jain Sculpture",
+          "url": "https://www.metmuseum.org/essays/jain-sculpture",
+          "publisher": "The Metropolitan Museum of Art",
+          "evidenceNote": "Mahavira, tirthankaras, ascetic imagery and the distinction between liberated teachers and their representations.",
+          "checkedAt": "2026-10-23",
+          "retrievalStatus": "page-text-inspected"
+        }
+      ]
+    },
+    {
+      "association": {
+        "assetId": "world-batch-05-ajanta-cave-workshops",
+        "recordId": "deccan-buddhist-donor-networks",
+        "role": "named-site",
+        "context": {
+          "en": "Ajanta is another named comparison site. This 2007 photograph shows Cave 26’s stupa and pillared worship hall, a late-fifth-century setting later than this entry’s 200 BCE–400 CE focus.",
+          "zh": "阿旃陀是另一处具名比较地点。这张2007年照片展示第26窟的佛塔与列柱礼拜堂；该窟属五世纪晚期，晚于本条目前200至400年的重点时段。"
+        },
+        "evidenceUrl": "https://commons.wikimedia.org/wiki/File:Ajanta_Caves,_India,_Interior_of_Ajanta_chaitya_(stupa)_worship_hall,_Cave_26.jpg",
+        "checkedAt": "2026-11-13"
+      },
+      "assetSourceCheckedAt": "2026-11-11",
+      "sha256": "b092c0111b655cb65cf44e410d9570347155b15aa08344585de57ad2b42a716d",
+      "targetSources": [
+        {
+          "title": "Tree & Serpent: Early Buddhist Art in India, 200 BCE–400 CE",
+          "url": "https://www.metmuseum.org/zh/exhibitions/tree-and-serpent%2Fvisiting-guide",
+          "publisher": "The Metropolitan Museum of Art",
+          "evidenceNote": "Curator audio transcript: donors, Buddhist establishments and local sacred landscapes in the Deccan; not a Chinese translation despite the page path.",
+          "checkedAt": "2026-10-23",
+          "retrievalStatus": "page-text-inspected"
+        },
+        {
+          "title": "Jain Sculpture",
+          "url": "https://www.metmuseum.org/essays/jain-sculpture",
+          "publisher": "The Metropolitan Museum of Art",
+          "evidenceNote": "Mahavira, tirthankaras, ascetic imagery and the distinction between liberated teachers and their representations.",
+          "checkedAt": "2026-10-23",
+          "retrievalStatus": "page-text-inspected"
+        }
+      ]
+    },
+    {
+      "association": {
+        "assetId": "china-batch-06-wangwei",
+        "recordId": "china-landmark-356",
+        "role": "related-work",
+        "context": {
+          "en": "Wang Yuanqi painted Wangchuan in 1711, drawing on earlier models associated with Wang Wei’s literary landscape. The work shows the estate’s later artistic life rather than documenting its appearance or acquisition in 750.",
+          "zh": "王原祁于1711年绘制辋川，取法与王维文学景观相关的早期图本。这幅作品展示辋川的后世艺术生命，而非记录750年的庄园面貌或购置经过。"
+        },
+        "evidenceUrl": "https://www.metmuseum.org/art/collection/search/49187",
+        "checkedAt": "2026-11-13"
+      },
+      "assetSourceCheckedAt": "2026-11-11",
+      "sha256": "d3a48dca8d1ee1b2ae65e8ebdc1fee25ee740a8f8f75a9abbf845e9da6f18883",
+      "targetSources": [
+        {
+          "title": "Chronicles of the Realm — js/lore_data.js (frozen source dataset)",
+          "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/lore_data.js",
+          "publisher": "DeanChensj / Chronicles of the Realm",
+          "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+          "checkedAt": "2026-10-23"
+        }
+      ]
+    }
+  ],
+  "explicitReconsiderations": [
+    {
+      "assetId": "mansa-musa",
+      "recordId": "mali-empire",
+      "prior": "docs/v18-existing-world-links-07-evidence.json rejected broad European-source generality.",
+      "newRationale": "Admit only as a specific European representation of Mali and its ruler, with explicit explanatory caption, not a generic gold/trade illustration or depiction of borders. Parent editorial signoff required; no new source evidence claimed."
+    },
+    {
+      "assetId": "china-batch-06-xiaowendi",
+      "recordId": "northern-wei-dynasty",
+      "newRationale": "A concrete Northern Wei court-patronage work adds a distinct Longmen example; caption explicitly avoids identifying it as Yungang. This is an editorial reconsideration, not newly discovered evidence."
+    }
+  ],
+  "chronologyLimits": [
+    "Ajanta Cave 26 is later comparative material, outside 200 BCE–400 CE focus.",
+    "Sequoyah lithograph 1838 postdates original newspaper run.",
+    "Wangchuan 1711 painting does not corroborate inherited exact 750 event dating.",
+    "Cave 323 Tang image is not a Han eyewitness record.",
+    "Cairo crowd cannot serve as identified Huda portrait."
+  ],
+  "editorialDecision": {
+    "reviewedAt": "2026-11-13",
+    "accepted": true,
+    "rationale": "Mali admits the specifically named kingdom and its ruler as evidence of European representation, not generic trade imagery. Northern Wei admits a documented court-patronage relief within its historical span, explicitly at Longmen rather than Yungang. The other target contexts have exact named subjects/sites or explicitly described comparisons. Earlier exclusions remain historical review evidence; no new remote source inspection is claimed."
+  },
+  "summaryEdits": [
+    {
+      "recordId": "western-jin-dynasty",
+      "before": {
+        "en": "The Western Jin belongs on the timeline before the end of the Three Kingdoms, not only after it. Its ruling house replaced Wei while Wu still survived in the south. A brief reunification therefore sits within a longer dynastic span, followed by renewed political fragmentation. Reading overlapping bars makes that distinction visible.\n\nMaterial culture also complicates a history told only through conquests. A Western Jin funerary urn in the Metropolitan Museum combines a model palace, auspicious animals and Buddhist figures. The museum interprets this as evidence of Buddhism entering existing beliefs about the afterlife. The object cannot establish an imperial frontier, but it opens another question: what changed in religious life while political institutions were being remade?",
+        "zh": "西晋并非到三国结束后才出现：司马氏取代魏时，南方的吴仍然存在。因此，短暂统一只是较长王朝时段中的一个阶段，随后又出现政治分裂。把同时期政权并排显示，能避免把“建立王朝”和“完成统一”混为一谈。\n\n实物也使这段历史不止于征服。大都会博物馆的一件西晋魂瓶把楼阁、瑞兽与佛像组合在一起，馆方将其解释为佛教逐渐进入本土来世信仰的证据。器物不能证明帝国边界，却能帮助理解：政治制度变化之际，宗教生活也在改变。"
+      },
+      "after": {
+        "en": "The Western Jin replaced Wei in 265 while Wu still ruled in the south. Reunification in 280 was one phase of the dynasty’s history, followed by renewed political fragmentation.\n\nA Western Jin funerary urn in the Metropolitan Museum combines a model palace, auspicious animals and Buddhist figures. The museum interprets the combination as evidence of Buddhism entering existing beliefs about the afterlife. Political upheaval and changing religious practices belonged to the same world.",
+        "zh": "西晋于265年取代魏，南方的吴仍然存在。280年的统一只是王朝历史中的一个阶段，随后又出现政治分裂。\n\n大都会博物馆的一件西晋魂瓶把楼阁、瑞兽与佛像组合在一起。馆方将这种组合解释为佛教进入既有来世信仰的证据。政治动荡与宗教生活的变化，发生在同一个历史世界中。"
+      },
+      "rationale": "Replace interface instructions and defensive exposition with concise historical narrative; preserve material chronology distinctions.",
+      "sources": [
+        {
+          "title": "China, 1–500 A.D.: chronology",
+          "url": "https://www.metmuseum.org/toah/ht/05/eac.html",
+          "publisher": "The Metropolitan Museum of Art",
+          "checkedAt": "2026-10-23",
+          "evidenceNote": "Political chronology and the regional context described in this entry; not an independent certification of map geometry."
+        },
+        {
+          "title": "Ancient China: Three Kingdoms, Jin, and Southern and Northern Dynasties",
+          "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/en/detail5.html",
+          "publisher": "National Museum of China",
+          "checkedAt": "2026-10-23",
+          "evidenceNote": "Political chronology and the regional context described in this entry; not an independent certification of map geometry."
+        },
+        {
+          "title": "Funerary Urn (Hunping), Western Jin",
+          "url": "https://www.metmuseum.org/art/collection/search/44733",
+          "publisher": "The Metropolitan Museum of Art",
+          "checkedAt": "2026-10-23",
+          "evidenceNote": "Object dating, modeled palace and Buddhist figures, and the museum’s interpretation of religious integration."
+        }
+      ]
+    },
+    {
+      "recordId": "eastern-jin-dynasty",
+      "before": {
+        "en": "The Eastern Jin maintained an imperial court in the lower Yangzi while northern China contained competing states. It should appear alongside those northern histories rather than filling a single China-wide succession slot. Jiankang anchors the entry geographically; its location does not imply that the court governed the whole area shown by any broad cultural label.\n\nThe southern court was also part of the landscape in which calligraphy, painting and ceramic traditions developed. A fourth-century green-glazed jar catalogued by the Metropolitan Museum provides one dated material example. Political division did not stop cultural production or exchange. Compare this entry with Northern Wei and the later Liu Song to follow both overlapping institutions and changes at the southern court.",
+        "zh": "东晋以长江下游为朝廷中心，而北方有多个政权并存。它应当与北方历史并排呈现，而非占据一个代表全中国的单线朝代位置。建康只是本条目的地理锚点，不意味着朝廷统治了所有被文化标签涵盖的地区。\n\n南方也是书法、绘画与陶瓷传统发展的环境。大都会博物馆收藏的一件四世纪青釉四系罐，提供了有年代范围的实物例证。政治分裂并没有使文化生产与交流停止。可把东晋与北魏、后来的刘宋比较，观察同时存在的制度与南方朝廷的更替。"
+      },
+      "after": {
+        "en": "The Eastern Jin maintained its court at Jiankang from 317 to 420 while competing states ruled in northern China. Liu Song later succeeded it at the southern capital.\n\nCalligraphy, painting and ceramics developed amid these political divisions. A fourth-century green-glazed jar in the Metropolitan Museum offers a material example of southern production. Courtly culture and exchange continued across a landscape of competing regimes.",
+        "zh": "东晋于317至420年以建康为朝廷中心，北方则有多个政权并存。此后刘宋在南方都城继承东晋。\n\n书法、绘画与陶瓷传统在政治分立中发展。大都会博物馆的一件四世纪青釉罐提供了南方制作的实物例证。朝廷文化与交流并未因政权竞争而停止。"
+      },
+      "rationale": "Replace interface instructions and defensive exposition with concise historical narrative; preserve material chronology distinctions.",
+      "sources": [
+        {
+          "title": "China, 1–500 A.D.: chronology",
+          "url": "https://www.metmuseum.org/toah/ht/05/eac.html",
+          "publisher": "The Metropolitan Museum of Art",
+          "checkedAt": "2026-10-23",
+          "evidenceNote": "Political chronology and the regional context described in this entry; not an independent certification of map geometry."
+        },
+        {
+          "title": "Ancient China: Three Kingdoms, Jin, and Southern and Northern Dynasties",
+          "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/en/detail5.html",
+          "publisher": "National Museum of China",
+          "checkedAt": "2026-10-23",
+          "evidenceNote": "Political chronology and the regional context described in this entry; not an independent certification of map geometry."
+        },
+        {
+          "title": "Jar with four lugs, Eastern Jin",
+          "url": "https://www.metmuseum.org/art/collection/search/50707",
+          "publisher": "The Metropolitan Museum of Art",
+          "checkedAt": "2026-10-23",
+          "evidenceNote": "Fourth-century date and green-glazed Yue-type stoneware; not proof of a particular political boundary."
+        }
+      ]
+    },
+    {
+      "recordId": "liu-song-dynasty",
+      "before": {
+        "en": "Liu Song was the southern dynasty that followed Eastern Jin in 420. Its name needs an explicit qualifier: it is separated by centuries from the Northern and Southern Song of the tenth to thirteenth centuries. The two uses of “Song” must not merge in search, on the map or in a dynasty sequence.\n\nNorthern Wei existed at the same time in the north. Showing both spans is more informative than presenting a single ruler for all China. The period is part of a wider history of courts based at Jiankang and of cultural connections across political divisions. Follow the southern sequence from Eastern Jin to Liu Song, Southern Qi, Liang and Chen, then compare their dates with northern changes.",
+        "zh": "刘宋于420年继承东晋，是南方王朝。“宋”必须加以区分：它与十至十三世纪的北宋、南宋相隔数百年，搜索、地图与朝代序列都不应把两者混合。\n\n北方的北魏与之同时存在。并排显示两个政权，比为全中国安排一个统治者更能解释当时局势。刘宋也属于以建康为中心的南方朝廷历史，以及跨越政治分界的文化联系史。可沿东晋、刘宋、南齐、梁、陈的次序阅读，再与北方变化比较。"
+      },
+      "after": {
+        "en": "Liu Song ruled from Jiankang between 420 and 479, succeeding Eastern Jin while Northern Wei governed in the north. Southern Qi, Liang and Chen followed it in the sequence of southern courts. These changes of ruling house formed part of a longer history of institutions and cultural exchange across political divisions.\n\nThis fifth-century Song dynasty is distinct from the Song founded in 960.",
+        "zh": "刘宋于420至479年以建康为都，继承东晋，与北方的北魏并立。其后南方朝廷依次为南齐、梁、陈。统治家族的更替，嵌于制度延续与跨越政治分界的文化交流之中。\n\n这个五世纪的宋朝，与960年建立的宋朝不同。"
+      },
+      "rationale": "Replace interface instructions and defensive exposition with concise historical narrative; preserve material chronology distinctions.",
+      "sources": [
+        {
+          "title": "China, 1–500 A.D.: chronology",
+          "url": "https://www.metmuseum.org/toah/ht/05/eac.html",
+          "publisher": "The Metropolitan Museum of Art",
+          "checkedAt": "2026-10-23",
+          "evidenceNote": "Political chronology and the regional context described in this entry; not an independent certification of map geometry."
+        },
+        {
+          "title": "Northern and Southern Dynasties",
+          "url": "https://www.metmuseum.org/essays/period-of-the-northern-and-southern-dynasties-386-589",
+          "publisher": "The Metropolitan Museum of Art",
+          "checkedAt": "2026-10-23",
+          "evidenceNote": "Jiankang-based southern courts and their cultural connections to the north."
+        }
+      ]
+    },
+    {
+      "recordId": "southern-qi-dynasty",
+      "before": {
+        "en": "Southern Qi followed Liu Song at Jiankang and preceded Liang. Its short bar belongs within a longer southern sequence, while Northern Wei continued in the north. This makes it possible to ask what a dynastic replacement changes: a ruling house and court institutions can change without every neighboring society starting over.\n\n“Qi” also needs context. Southern Qi is distinct from the Warring States kingdom of Qi and from the later Northern Qi. The atlas keeps separate dates and places for those names. Read the cited regional chronology alongside individual events to distinguish an era label, an imperial house and the territory that a particular map stage actually depicts.",
+        "zh": "南齐在建康继承刘宋，之后又由梁取代。它的短时段属于更长的南方朝廷序列，而北魏仍在北方延续。这能帮助提出一个具体问题：王朝更替改变了统治家族与朝廷制度，却并不意味着周边社会同时重新开始。\n\n“齐”也必须结合时空辨认。南齐既不是战国齐国，也不是后来的北齐。本图集以不同年代与地点区分这些名称。把区域年表与具体事件结合阅读，可以避免混淆时代标签、皇室和某个地图阶段实际呈现的辖境。"
+      },
+      "after": {
+        "en": "Southern Qi ruled at Jiankang from 479 to 502, following Liu Song and preceding Liang. Northern Wei continued in the north. A change of ruling house at the southern court took place within continuing regional institutions and social connections.\n\nSouthern Qi is distinct from both the Warring States kingdom of Qi and the later Northern Qi.",
+        "zh": "南齐于479至502年以建康为都，上承刘宋，下启梁，北方的北魏仍然延续。南方朝廷更换统治家族之时，区域制度与社会联系也在继续。\n\n南齐不同于战国齐国，也不同于后来的北齐。"
+      },
+      "rationale": "Replace interface instructions and defensive exposition with concise historical narrative; preserve material chronology distinctions.",
+      "sources": [
+        {
+          "title": "China, 1–500 A.D.: chronology",
+          "url": "https://www.metmuseum.org/toah/ht/05/eac.html",
+          "publisher": "The Metropolitan Museum of Art",
+          "checkedAt": "2026-10-23",
+          "evidenceNote": "Political chronology and the regional context described in this entry; not an independent certification of map geometry."
+        },
+        {
+          "title": "Ancient China: Three Kingdoms, Jin, and Southern and Northern Dynasties",
+          "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/en/detail5.html",
+          "publisher": "National Museum of China",
+          "checkedAt": "2026-10-23",
+          "evidenceNote": "Political chronology and the regional context described in this entry; not an independent certification of map geometry."
+        }
+      ]
+    },
+    {
+      "recordId": "liang-dynasty",
+      "before": {
+        "en": "The Liang dynasty continued the southern court sequence at Jiankang. Emperor Wu’s court supported scholarship, artists and Buddhist activity. The museum chronology records his Buddhist commitments and a mission to India for texts, placing the court within networks wider than the area it governed.\n\nAt the same time, northern politics changed from Northern Wei into competing eastern and western successor regimes. Liang therefore cannot stand for a single government across China. Compare the court’s religious and literary activity with northern Buddhist landscapes rather than treating the south as disconnected. The end of the dynasty also precedes the conquest of Chen: the beginning of Sui in 581 and southern reunification in 589 are separate milestones.",
+        "zh": "梁延续以建康为中心的南方朝廷序列。梁武帝朝廷支持学术、艺术与佛教活动；博物馆年表还记载其佛教信仰以及赴印度求取经籍的活动，使南方朝廷置于超越辖境的联系网络中。\n\n与此同时，北方从北魏转入东西两个继承体系，梁不能代表全中国的统一政府。可以把南方朝廷的宗教、文学活动与北方佛教景观并读，而非把南方视为隔绝世界。梁结束后还有陈；581年隋建立与589年征服陈，也是不同的历史节点。"
+      },
+      "after": {
+        "en": "Liang ruled from Jiankang between 502 and 557. Emperor Wu’s court supported scholarship, artists and Buddhist activity, including a mission to India for texts. These connections extended beyond the territory the court governed.\n\nIn the north, Northern Wei divided into eastern and western successor regimes. Buddhist landscapes and literary activity connected this politically divided world. Chen succeeded Liang in the south and survived the founding of Sui in 581 until its conquest in 589.",
+        "zh": "梁于502至557年以建康为都。梁武帝朝廷支持学术、艺术与佛教活动，包括赴印度求取经籍的使行。这些联系超出了朝廷管辖的地域。\n\n北方的北魏分裂为东西两个继承政权。佛教景观与文学活动连接着政治分立的世界。陈在南方继承梁，经历581年隋的建立，直至589年被征服。"
+      },
+      "rationale": "Replace interface instructions and defensive exposition with concise historical narrative; preserve material chronology distinctions.",
+      "sources": [
+        {
+          "title": "China, 500–1000 A.D.: chronology",
+          "url": "https://www.metmuseum.org/toah/ht/06/eac.html",
+          "publisher": "The Metropolitan Museum of Art",
+          "checkedAt": "2026-10-23",
+          "evidenceNote": "Political chronology and the regional context described in this entry; not an independent certification of map geometry."
+        },
+        {
+          "title": "Ancient China: Three Kingdoms, Jin, and Southern and Northern Dynasties",
+          "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/en/detail5.html",
+          "publisher": "National Museum of China",
+          "checkedAt": "2026-10-23",
+          "evidenceNote": "Political chronology and the regional context described in this entry; not an independent certification of map geometry."
+        }
+      ]
+    },
+    {
+      "recordId": "chen-dynasty",
+      "before": {
+        "en": "Chen was the last of the southern dynasties before Sui reunification. It followed Liang and coexisted with the northern transition from Northern Zhou to Sui. A timeline that replaces all southern history with “Sui” from 581 hides those final years of political separation. Chen’s bar continues until 589, the date the cited chronology uses for Sui unification.\n\nThis overlap is a useful way to read any imperial history: distinguish a dynasty’s establishment from its expansion and from the fall of another court. The map should likewise identify the stage it depicts. Jiankang locates the southern court; it does not imply a fixed frontier throughout the dynasty’s existence.",
+        "zh": "陈是隋统一之前最后一个南方王朝。它继承梁，并经历北方从北周到隋的更替。如果时间线从581年起就以“隋”覆盖整个中国，便会抹去南北仍然并立的最后数年。陈应延续显示到589年，即引用年表所列隋统一的年份。\n\n这组重叠也提供通用的读史方法：区分王朝建立、疆域扩展与另一朝廷覆亡。地图同样需要交代呈现的是哪个阶段。建康点位用于定位南方朝廷，不表示整个王朝时期都有不变边界。"
+      },
+      "after": {
+        "en": "Chen began in 557 at Jiankang, succeeding Liang as the last southern dynasty before Sui reunification. In the north, Sui replaced Northern Zhou in 581. Chen continued for another eight years, until the Sui conquest of 589 ended the separation of the northern and southern courts.",
+        "zh": "陈于557年在建康继承梁，是隋统一之前最后一个南方王朝。北方的隋于581年取代北周，陈此后仍延续八年，直至589年隋的征服结束南北朝廷的并立。"
+      },
+      "rationale": "Replace interface instructions and defensive exposition with concise historical narrative; preserve material chronology distinctions.",
+      "sources": [
+        {
+          "title": "China, 500–1000 A.D.: chronology",
+          "url": "https://www.metmuseum.org/toah/ht/06/eac.html",
+          "publisher": "The Metropolitan Museum of Art",
+          "checkedAt": "2026-10-23",
+          "evidenceNote": "Political chronology and the regional context described in this entry; not an independent certification of map geometry."
+        },
+        {
+          "title": "Ancient China: Three Kingdoms, Jin, and Southern and Northern Dynasties",
+          "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/en/detail5.html",
+          "publisher": "National Museum of China",
+          "checkedAt": "2026-10-23",
+          "evidenceNote": "Political chronology and the regional context described in this entry; not an independent certification of map geometry."
+        }
+      ]
+    },
+    {
+      "recordId": "northern-wei-dynasty",
+      "before": {
+        "en": "Northern Wei emerged among the competing regimes of northern China and belongs alongside Eastern Jin and the southern dynasties. Its Tuoba Xianbei rulers made Buddhism an important part of the political and artistic landscape. At Yungang near Datong, large cave sanctuaries and sculptural programs make state-supported religious work visible in stone.\n\nThe kingdom’s history should not be compressed into a static ethnic label. The source literature describes interaction across northern and southern societies and with Central Asian Buddhist traditions. Nor is a religious site an outline of governmental reach. The end of Northern Wei led into Eastern and Western Wei rather than an immediate reunification of all China; the paired northern successions remain essential context for the Sui.",
+        "zh": "北魏兴起于北方多个政权竞争的环境中，与东晋及南朝同时存在。拓跋鲜卑统治者使佛教成为政治和艺术景观的重要部分。大同附近的云冈石窟，以洞窟与造像留下朝廷支持宗教建设的实物证据。\n\n这段历史不能压缩为不变的族群标签。研究资料也讨论南北社会以及中亚佛教传统之间的互动。宗教遗址更不等于行政势力范围。北魏之后出现东魏与西魏，并非立刻实现全中国统一；这些并立和继承关系，是理解隋朝之前局势的必要背景。"
+      },
+      "after": {
+        "en": "Northern Wei emerged under the Tuoba Xianbei in 386 and ruled in the north alongside successive southern courts. Its Buddhist patronage helped shape major religious landscapes, including the Yungang caves near its earlier capital at Pingcheng.\n\nCourt institutions and artistic practices developed through contacts across northern China, the south and Central Asia. The dynasty divided into Eastern and Western Wei in 534–535, beginning another phase of political competition before Sui reunification.",
+        "zh": "拓跋鲜卑于386年建立北魏，在北方统治，与南方历代朝廷并立。北魏对佛教的支持塑造了重要宗教景观，包括早期都城平城附近的云冈石窟。\n\n朝廷制度与艺术实践在中国北方、南方及中亚之间的交往中发展。534至535年，北魏分为东魏与西魏，开启隋统一之前又一阶段的政治竞争。"
+      },
+      "rationale": "Replace interface instructions and defensive exposition with concise historical narrative; preserve material chronology distinctions.",
+      "sources": [
+        {
+          "title": "China, 1–500 A.D.: chronology",
+          "url": "https://www.metmuseum.org/toah/ht/05/eac.html",
+          "publisher": "The Metropolitan Museum of Art",
+          "checkedAt": "2026-10-23",
+          "evidenceNote": "Political chronology and the regional context described in this entry; not an independent certification of map geometry."
+        },
+        {
+          "title": "Ancient China: Three Kingdoms, Jin, and Southern and Northern Dynasties",
+          "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/en/detail5.html",
+          "publisher": "National Museum of China",
+          "checkedAt": "2026-10-23",
+          "evidenceNote": "Political chronology and the regional context described in this entry; not an independent certification of map geometry."
+        },
+        {
+          "title": "Yungang Grottoes",
+          "url": "https://whc.unesco.org/en/list/1039/",
+          "publisher": "UNESCO World Heritage Centre",
+          "checkedAt": "2026-10-23",
+          "evidenceNote": "Datong location and fifth–sixth-century Buddhist cave-art context."
+        },
+        {
+          "title": "Northern and Southern Dynasties",
+          "url": "https://www.metmuseum.org/essays/period-of-the-northern-and-southern-dynasties-386-589",
+          "publisher": "The Metropolitan Museum of Art",
+          "checkedAt": "2026-10-23",
+          "evidenceNote": "Northern and southern political separation and Buddhist artistic exchange."
+        }
+      ]
+    },
+    {
+      "recordId": "person-faith-bandler",
+      "before": {
+        "en": "Faith Bandler connected a family history of Pacific labour coercion with campaigns against racial discrimination in Australia. Her father had been taken from Vanuatu to Queensland as a child. During the Second World War, Bandler worked in the Women’s Land Army; later she brought public speaking and organizational work to movements supporting Aboriginal and Torres Strait Islander rights.\n\nCampaigning for the 1967 referendum involved meetings, fundraising, coordination and persuading voters, not only the final day of voting. Bandler helped make constitutional questions part of a wider public conversation about exclusion. The referendum changed Commonwealth legislative power concerning Aboriginal people and removed their exclusion from the constitutional population reckoning; it did not itself grant citizenship or the vote. Reading her biography beside plantation labour and the referendum shows how personal memory, alliance and sustained collective effort can change institutions without reducing reform to a single leader or a single ballot.",
+        "zh": "费思·班德勒把家族经历的太平洋劳工强制，与澳大利亚反种族歧视运动相连。她父亲童年时被从瓦努阿图带至昆士兰。第二次世界大战期间，她在妇女陆军劳动队工作；后来把演讲与组织能力用于支持澳大利亚原住民及托雷斯海峡岛民权利的运动。\n\n1967年公投运动包含会议、筹款、协调与说服选民，而不只是投票当天。班德勒使宪法问题进入关于排斥的公共讨论。公投改变联邦针对原住民的立法权限，并取消宪法人口计算中的排除条款；它本身并未授予公民身份或投票权。与种植园劳工和公投并读，可见个人记忆、联盟与持久集体努力如何改变制度，而不把改革压缩成单一领袖或一次投票。"
+      },
+      "after": {
+        "en": "Faith Bandler connected a family history of Pacific labour coercion with campaigns against racial discrimination in Australia. Her father had been taken from Vanuatu to Queensland as a child. She served in the Women’s Land Army during the Second World War, then became an organizer and speaker for Aboriginal and Torres Strait Islander rights.\n\nYears of meetings, fundraising and public persuasion helped build support for the 1967 referendum. It changed Commonwealth legislative power concerning Aboriginal people and removed their exclusion from constitutional population reckoning. It did not itself grant citizenship or the vote.",
+        "zh": "费思·班德勒把家族经历的太平洋劳工强制，与澳大利亚反种族歧视运动相连。她父亲童年时被从瓦努阿图带到昆士兰。二战期间，她在妇女陆军劳动队工作，后来通过组织与演讲支持澳大利亚原住民及托雷斯海峡岛民权利。\n\n多年的会议、筹款与公众说服，为1967年公投争取支持。公投改变联邦针对原住民的立法权限，并取消宪法人口计算中的排除条款；它本身并未授予公民身份或投票权。"
+      },
+      "rationale": "Replace interface instructions and defensive exposition with concise historical narrative; preserve material chronology distinctions.",
+      "sources": [
+        {
+          "title": "1967 Faith Bandler: Changing the Constitution",
+          "url": "https://digital-classroom.nma.gov.au/learning-modules/australia-federation-defining-moments-1901-present/57-1967-faith-bandler-changing-constitution",
+          "publisher": "National Museum of Australia",
+          "evidenceNote": "Inspected educational biography: South Sea Islander parentage, wartime labour and organizing. Its simplified claim that all constitutional change was necessarily beneficial is not adopted.",
+          "checkedAt": "2026-10-23",
+          "retrieval": "page-text"
+        },
+        {
+          "title": "Paintings from the Collection: Faith Bandler",
+          "url": "https://audio.sl.nsw.gov.au/paintings-collection/faith-bandler",
+          "publisher": "State Library of New South Wales",
+          "evidenceNote": "Indexed collection text supports parentage and identity; portrait not reproduced.",
+          "checkedAt": "2026-10-23",
+          "retrieval": "indexed-excerpt"
+        },
+        {
+          "title": "Islander labourers",
+          "url": "https://www.nma.gov.au/defining-moments/resources/islander-labourers",
+          "publisher": "National Museum of Australia",
+          "evidenceNote": "Indexed museum account: recruitment 1863–1904, coercion and kidnapping, plantation labour and discriminatory policy.",
+          "checkedAt": "2026-10-23",
+          "retrieval": "indexed-excerpt"
+        },
+        {
+          "title": "Dr Faith Bandler AM",
+          "url": "https://humanrights.gov.au/about-us/hra-nominees/16543",
+          "publisher": "Australian Human Rights Commission",
+          "evidenceNote": "Inspected award biography:1956 co-founding of the Aboriginal-Australian Fellowship and the decade-long referendum campaign; celebratory wording is distinguished from exact legal effects.",
+          "checkedAt": "2026-10-23",
+          "retrieval": "page-text"
+        },
+        {
+          "title": "The 1967 referendum",
+          "url": "https://www.naa.gov.au/students-and-teachers/student-research-portal/learning-resource-themes/government-and-democracy/constitution-and-referendums/1967-referendum",
+          "publisher": "National Archives of Australia",
+          "evidenceNote": "Inspected archive guide:27 May 1967 vote,changes to section 51(xxvi)and repeal of section 127;links to contemporary records.",
+          "checkedAt": "2026-10-23",
+          "retrieval": "page-text"
+        },
+        {
+          "title": "Indigenous recognition and constitutional myths",
+          "url": "https://conreform.sydney.edu.au/2015/06/indigenous-recognition-and-constitutional-myths/",
+          "publisher": "Helen Irving / University of Sydney Constitutional Reform Unit",
+          "evidenceNote": "Inspected scholarly explanation of 1967 changes and why they did not grant citizenship or voting rights. Historical explanation only; later reform commentary not presented as current.",
+          "checkedAt": "2026-10-23",
+          "retrieval": "page-text"
+        }
+      ]
+    }
+  ]
+}

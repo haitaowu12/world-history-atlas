@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "editedAt": "2026-11-12",
+  "editedAt": "2026-11-13",
   "scope": "Summary-only language edits. Historical sources, chronology and review status are unchanged.",
   "items": [
     {
@@ -1850,6 +1850,102 @@
         "zh": "约翰·亚历山大·麦克唐纳1815年出生于格拉斯哥，幼年随家人来到上加拿大。他在金斯顿从事律师工作，1844年进入加拿大省议会。其政治力量建立在联盟之上，包括与乔治—艾蒂安·卡蒂埃及法裔加拿大保守派的合作。\n\n1867年，他成为新自治领首任总理。政府在土地与权威争议中扩展联邦领土和机构。涉及铁路合同与竞选筹款的太平洋丑闻迫使他于1873年辞职。他1878年以保护主义纲领重新执政，1879年提高关税，并推行铁路融资与西部定居计划。\n\n国家建构也施加了排斥和强制。麦克唐纳1878至1887年兼任印第安事务总监。其政府1883年扩展联邦支持的寄宿学校，以同化为目标使儿童与社群分离。野牛生计崩溃之际，官员通过控制食物供应迫使人们进入保留地。华工建设铁路后面临歧视性的投票和移民措施，包括1885年人头税法。麦克唐纳于1891年在渥太华去世。"
       },
       "rationale": "Shorten repetition and editorial framing while preserving coalition politics, institutional chronology and unequal consequences in the existing sourced record."
+    },
+    {
+      "recordId": "western-jin-dynasty",
+      "before": {
+        "en": "The Western Jin belongs on the timeline before the end of the Three Kingdoms, not only after it. Its ruling house replaced Wei while Wu still survived in the south. A brief reunification therefore sits within a longer dynastic span, followed by renewed political fragmentation. Reading overlapping bars makes that distinction visible.\n\nMaterial culture also complicates a history told only through conquests. A Western Jin funerary urn in the Metropolitan Museum combines a model palace, auspicious animals and Buddhist figures. The museum interprets this as evidence of Buddhism entering existing beliefs about the afterlife. The object cannot establish an imperial frontier, but it opens another question: what changed in religious life while political institutions were being remade?",
+        "zh": "西晋并非到三国结束后才出现：司马氏取代魏时，南方的吴仍然存在。因此，短暂统一只是较长王朝时段中的一个阶段，随后又出现政治分裂。把同时期政权并排显示，能避免把“建立王朝”和“完成统一”混为一谈。\n\n实物也使这段历史不止于征服。大都会博物馆的一件西晋魂瓶把楼阁、瑞兽与佛像组合在一起，馆方将其解释为佛教逐渐进入本土来世信仰的证据。器物不能证明帝国边界，却能帮助理解：政治制度变化之际，宗教生活也在改变。"
+      },
+      "after": {
+        "en": "The Western Jin replaced Wei in 265 while Wu still ruled in the south. Reunification in 280 was one phase of the dynasty’s history, followed by renewed political fragmentation.\n\nA Western Jin funerary urn in the Metropolitan Museum combines a model palace, auspicious animals and Buddhist figures. The museum interprets the combination as evidence of Buddhism entering existing beliefs about the afterlife. Political upheaval and changing religious practices belonged to the same world.",
+        "zh": "西晋于265年取代魏，南方的吴仍然存在。280年的统一只是王朝历史中的一个阶段，随后又出现政治分裂。\n\n大都会博物馆的一件西晋魂瓶把楼阁、瑞兽与佛像组合在一起。馆方将这种组合解释为佛教进入既有来世信仰的证据。政治动荡与宗教生活的变化，发生在同一个历史世界中。"
+      },
+      "rationale": "Replace interface instructions and defensive exposition with concise historical narrative; preserve material chronology distinctions."
+    },
+    {
+      "recordId": "eastern-jin-dynasty",
+      "before": {
+        "en": "The Eastern Jin maintained an imperial court in the lower Yangzi while northern China contained competing states. It should appear alongside those northern histories rather than filling a single China-wide succession slot. Jiankang anchors the entry geographically; its location does not imply that the court governed the whole area shown by any broad cultural label.\n\nThe southern court was also part of the landscape in which calligraphy, painting and ceramic traditions developed. A fourth-century green-glazed jar catalogued by the Metropolitan Museum provides one dated material example. Political division did not stop cultural production or exchange. Compare this entry with Northern Wei and the later Liu Song to follow both overlapping institutions and changes at the southern court.",
+        "zh": "东晋以长江下游为朝廷中心，而北方有多个政权并存。它应当与北方历史并排呈现，而非占据一个代表全中国的单线朝代位置。建康只是本条目的地理锚点，不意味着朝廷统治了所有被文化标签涵盖的地区。\n\n南方也是书法、绘画与陶瓷传统发展的环境。大都会博物馆收藏的一件四世纪青釉四系罐，提供了有年代范围的实物例证。政治分裂并没有使文化生产与交流停止。可把东晋与北魏、后来的刘宋比较，观察同时存在的制度与南方朝廷的更替。"
+      },
+      "after": {
+        "en": "The Eastern Jin maintained its court at Jiankang from 317 to 420 while competing states ruled in northern China. Liu Song later succeeded it at the southern capital.\n\nCalligraphy, painting and ceramics developed amid these political divisions. A fourth-century green-glazed jar in the Metropolitan Museum offers a material example of southern production. Courtly culture and exchange continued across a landscape of competing regimes.",
+        "zh": "东晋于317至420年以建康为朝廷中心，北方则有多个政权并存。此后刘宋在南方都城继承东晋。\n\n书法、绘画与陶瓷传统在政治分立中发展。大都会博物馆的一件四世纪青釉罐提供了南方制作的实物例证。朝廷文化与交流并未因政权竞争而停止。"
+      },
+      "rationale": "Replace interface instructions and defensive exposition with concise historical narrative; preserve material chronology distinctions."
+    },
+    {
+      "recordId": "liu-song-dynasty",
+      "before": {
+        "en": "Liu Song was the southern dynasty that followed Eastern Jin in 420. Its name needs an explicit qualifier: it is separated by centuries from the Northern and Southern Song of the tenth to thirteenth centuries. The two uses of “Song” must not merge in search, on the map or in a dynasty sequence.\n\nNorthern Wei existed at the same time in the north. Showing both spans is more informative than presenting a single ruler for all China. The period is part of a wider history of courts based at Jiankang and of cultural connections across political divisions. Follow the southern sequence from Eastern Jin to Liu Song, Southern Qi, Liang and Chen, then compare their dates with northern changes.",
+        "zh": "刘宋于420年继承东晋，是南方王朝。“宋”必须加以区分：它与十至十三世纪的北宋、南宋相隔数百年，搜索、地图与朝代序列都不应把两者混合。\n\n北方的北魏与之同时存在。并排显示两个政权，比为全中国安排一个统治者更能解释当时局势。刘宋也属于以建康为中心的南方朝廷历史，以及跨越政治分界的文化联系史。可沿东晋、刘宋、南齐、梁、陈的次序阅读，再与北方变化比较。"
+      },
+      "after": {
+        "en": "Liu Song ruled from Jiankang between 420 and 479, succeeding Eastern Jin while Northern Wei governed in the north. Southern Qi, Liang and Chen followed it in the sequence of southern courts. These changes of ruling house formed part of a longer history of institutions and cultural exchange across political divisions.\n\nThis fifth-century Song dynasty is distinct from the Song founded in 960.",
+        "zh": "刘宋于420至479年以建康为都，继承东晋，与北方的北魏并立。其后南方朝廷依次为南齐、梁、陈。统治家族的更替，嵌于制度延续与跨越政治分界的文化交流之中。\n\n这个五世纪的宋朝，与960年建立的宋朝不同。"
+      },
+      "rationale": "Replace interface instructions and defensive exposition with concise historical narrative; preserve material chronology distinctions."
+    },
+    {
+      "recordId": "southern-qi-dynasty",
+      "before": {
+        "en": "Southern Qi followed Liu Song at Jiankang and preceded Liang. Its short bar belongs within a longer southern sequence, while Northern Wei continued in the north. This makes it possible to ask what a dynastic replacement changes: a ruling house and court institutions can change without every neighboring society starting over.\n\n“Qi” also needs context. Southern Qi is distinct from the Warring States kingdom of Qi and from the later Northern Qi. The atlas keeps separate dates and places for those names. Read the cited regional chronology alongside individual events to distinguish an era label, an imperial house and the territory that a particular map stage actually depicts.",
+        "zh": "南齐在建康继承刘宋，之后又由梁取代。它的短时段属于更长的南方朝廷序列，而北魏仍在北方延续。这能帮助提出一个具体问题：王朝更替改变了统治家族与朝廷制度，却并不意味着周边社会同时重新开始。\n\n“齐”也必须结合时空辨认。南齐既不是战国齐国，也不是后来的北齐。本图集以不同年代与地点区分这些名称。把区域年表与具体事件结合阅读，可以避免混淆时代标签、皇室和某个地图阶段实际呈现的辖境。"
+      },
+      "after": {
+        "en": "Southern Qi ruled at Jiankang from 479 to 502, following Liu Song and preceding Liang. Northern Wei continued in the north. A change of ruling house at the southern court took place within continuing regional institutions and social connections.\n\nSouthern Qi is distinct from both the Warring States kingdom of Qi and the later Northern Qi.",
+        "zh": "南齐于479至502年以建康为都，上承刘宋，下启梁，北方的北魏仍然延续。南方朝廷更换统治家族之时，区域制度与社会联系也在继续。\n\n南齐不同于战国齐国，也不同于后来的北齐。"
+      },
+      "rationale": "Replace interface instructions and defensive exposition with concise historical narrative; preserve material chronology distinctions."
+    },
+    {
+      "recordId": "liang-dynasty",
+      "before": {
+        "en": "The Liang dynasty continued the southern court sequence at Jiankang. Emperor Wu’s court supported scholarship, artists and Buddhist activity. The museum chronology records his Buddhist commitments and a mission to India for texts, placing the court within networks wider than the area it governed.\n\nAt the same time, northern politics changed from Northern Wei into competing eastern and western successor regimes. Liang therefore cannot stand for a single government across China. Compare the court’s religious and literary activity with northern Buddhist landscapes rather than treating the south as disconnected. The end of the dynasty also precedes the conquest of Chen: the beginning of Sui in 581 and southern reunification in 589 are separate milestones.",
+        "zh": "梁延续以建康为中心的南方朝廷序列。梁武帝朝廷支持学术、艺术与佛教活动；博物馆年表还记载其佛教信仰以及赴印度求取经籍的活动，使南方朝廷置于超越辖境的联系网络中。\n\n与此同时，北方从北魏转入东西两个继承体系，梁不能代表全中国的统一政府。可以把南方朝廷的宗教、文学活动与北方佛教景观并读，而非把南方视为隔绝世界。梁结束后还有陈；581年隋建立与589年征服陈，也是不同的历史节点。"
+      },
+      "after": {
+        "en": "Liang ruled from Jiankang between 502 and 557. Emperor Wu’s court supported scholarship, artists and Buddhist activity, including a mission to India for texts. These connections extended beyond the territory the court governed.\n\nIn the north, Northern Wei divided into eastern and western successor regimes. Buddhist landscapes and literary activity connected this politically divided world. Chen succeeded Liang in the south and survived the founding of Sui in 581 until its conquest in 589.",
+        "zh": "梁于502至557年以建康为都。梁武帝朝廷支持学术、艺术与佛教活动，包括赴印度求取经籍的使行。这些联系超出了朝廷管辖的地域。\n\n北方的北魏分裂为东西两个继承政权。佛教景观与文学活动连接着政治分立的世界。陈在南方继承梁，经历581年隋的建立，直至589年被征服。"
+      },
+      "rationale": "Replace interface instructions and defensive exposition with concise historical narrative; preserve material chronology distinctions."
+    },
+    {
+      "recordId": "chen-dynasty",
+      "before": {
+        "en": "Chen was the last of the southern dynasties before Sui reunification. It followed Liang and coexisted with the northern transition from Northern Zhou to Sui. A timeline that replaces all southern history with “Sui” from 581 hides those final years of political separation. Chen’s bar continues until 589, the date the cited chronology uses for Sui unification.\n\nThis overlap is a useful way to read any imperial history: distinguish a dynasty’s establishment from its expansion and from the fall of another court. The map should likewise identify the stage it depicts. Jiankang locates the southern court; it does not imply a fixed frontier throughout the dynasty’s existence.",
+        "zh": "陈是隋统一之前最后一个南方王朝。它继承梁，并经历北方从北周到隋的更替。如果时间线从581年起就以“隋”覆盖整个中国，便会抹去南北仍然并立的最后数年。陈应延续显示到589年，即引用年表所列隋统一的年份。\n\n这组重叠也提供通用的读史方法：区分王朝建立、疆域扩展与另一朝廷覆亡。地图同样需要交代呈现的是哪个阶段。建康点位用于定位南方朝廷，不表示整个王朝时期都有不变边界。"
+      },
+      "after": {
+        "en": "Chen began in 557 at Jiankang, succeeding Liang as the last southern dynasty before Sui reunification. In the north, Sui replaced Northern Zhou in 581. Chen continued for another eight years, until the Sui conquest of 589 ended the separation of the northern and southern courts.",
+        "zh": "陈于557年在建康继承梁，是隋统一之前最后一个南方王朝。北方的隋于581年取代北周，陈此后仍延续八年，直至589年隋的征服结束南北朝廷的并立。"
+      },
+      "rationale": "Replace interface instructions and defensive exposition with concise historical narrative; preserve material chronology distinctions."
+    },
+    {
+      "recordId": "northern-wei-dynasty",
+      "before": {
+        "en": "Northern Wei emerged among the competing regimes of northern China and belongs alongside Eastern Jin and the southern dynasties. Its Tuoba Xianbei rulers made Buddhism an important part of the political and artistic landscape. At Yungang near Datong, large cave sanctuaries and sculptural programs make state-supported religious work visible in stone.\n\nThe kingdom’s history should not be compressed into a static ethnic label. The source literature describes interaction across northern and southern societies and with Central Asian Buddhist traditions. Nor is a religious site an outline of governmental reach. The end of Northern Wei led into Eastern and Western Wei rather than an immediate reunification of all China; the paired northern successions remain essential context for the Sui.",
+        "zh": "北魏兴起于北方多个政权竞争的环境中，与东晋及南朝同时存在。拓跋鲜卑统治者使佛教成为政治和艺术景观的重要部分。大同附近的云冈石窟，以洞窟与造像留下朝廷支持宗教建设的实物证据。\n\n这段历史不能压缩为不变的族群标签。研究资料也讨论南北社会以及中亚佛教传统之间的互动。宗教遗址更不等于行政势力范围。北魏之后出现东魏与西魏，并非立刻实现全中国统一；这些并立和继承关系，是理解隋朝之前局势的必要背景。"
+      },
+      "after": {
+        "en": "Northern Wei emerged under the Tuoba Xianbei in 386 and ruled in the north alongside successive southern courts. Its Buddhist patronage helped shape major religious landscapes, including the Yungang caves near its earlier capital at Pingcheng.\n\nCourt institutions and artistic practices developed through contacts across northern China, the south and Central Asia. The dynasty divided into Eastern and Western Wei in 534–535, beginning another phase of political competition before Sui reunification.",
+        "zh": "拓跋鲜卑于386年建立北魏，在北方统治，与南方历代朝廷并立。北魏对佛教的支持塑造了重要宗教景观，包括早期都城平城附近的云冈石窟。\n\n朝廷制度与艺术实践在中国北方、南方及中亚之间的交往中发展。534至535年，北魏分为东魏与西魏，开启隋统一之前又一阶段的政治竞争。"
+      },
+      "rationale": "Replace interface instructions and defensive exposition with concise historical narrative; preserve material chronology distinctions."
+    },
+    {
+      "recordId": "person-faith-bandler",
+      "before": {
+        "en": "Faith Bandler connected a family history of Pacific labour coercion with campaigns against racial discrimination in Australia. Her father had been taken from Vanuatu to Queensland as a child. During the Second World War, Bandler worked in the Women’s Land Army; later she brought public speaking and organizational work to movements supporting Aboriginal and Torres Strait Islander rights.\n\nCampaigning for the 1967 referendum involved meetings, fundraising, coordination and persuading voters, not only the final day of voting. Bandler helped make constitutional questions part of a wider public conversation about exclusion. The referendum changed Commonwealth legislative power concerning Aboriginal people and removed their exclusion from the constitutional population reckoning; it did not itself grant citizenship or the vote. Reading her biography beside plantation labour and the referendum shows how personal memory, alliance and sustained collective effort can change institutions without reducing reform to a single leader or a single ballot.",
+        "zh": "费思·班德勒把家族经历的太平洋劳工强制，与澳大利亚反种族歧视运动相连。她父亲童年时被从瓦努阿图带至昆士兰。第二次世界大战期间，她在妇女陆军劳动队工作；后来把演讲与组织能力用于支持澳大利亚原住民及托雷斯海峡岛民权利的运动。\n\n1967年公投运动包含会议、筹款、协调与说服选民，而不只是投票当天。班德勒使宪法问题进入关于排斥的公共讨论。公投改变联邦针对原住民的立法权限，并取消宪法人口计算中的排除条款；它本身并未授予公民身份或投票权。与种植园劳工和公投并读，可见个人记忆、联盟与持久集体努力如何改变制度，而不把改革压缩成单一领袖或一次投票。"
+      },
+      "after": {
+        "en": "Faith Bandler connected a family history of Pacific labour coercion with campaigns against racial discrimination in Australia. Her father had been taken from Vanuatu to Queensland as a child. She served in the Women’s Land Army during the Second World War, then became an organizer and speaker for Aboriginal and Torres Strait Islander rights.\n\nYears of meetings, fundraising and public persuasion helped build support for the 1967 referendum. It changed Commonwealth legislative power concerning Aboriginal people and removed their exclusion from constitutional population reckoning. It did not itself grant citizenship or the vote.",
+        "zh": "费思·班德勒把家族经历的太平洋劳工强制，与澳大利亚反种族歧视运动相连。她父亲童年时被从瓦努阿图带到昆士兰。二战期间，她在妇女陆军劳动队工作，后来通过组织与演讲支持澳大利亚原住民及托雷斯海峡岛民权利。\n\n多年的会议、筹款与公众说服，为1967年公投争取支持。公投改变联邦针对原住民的立法权限，并取消宪法人口计算中的排除条款；它本身并未授予公民身份或投票权。"
+      },
+      "rationale": "Replace interface instructions and defensive exposition with concise historical narrative; preserve material chronology distinctions."
     }
   ]
 }
