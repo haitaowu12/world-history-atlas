@@ -22,9 +22,9 @@ Coverage is selective and growing. Historical maps have different dates and limi
 
 ## Development update · November 2026
 
-**Current milestone: V18 / 0.24.0.** The collection contains **2,087 historical entries, 278 biographies and 103 guided readings**. Its **517 credited images illustrate 923 entries (44.2%)**, with image inspection, side-by-side comparison and 20 guided visual studies. People show available portraits or related works by default, without excluding unillustrated biographies. Map controls remain clear when wartime source legends are expanded.
+**Current milestone: V18 / 0.24.0.** The collection contains **2,087 historical entries, 278 biographies and 103 guided readings**. Its **523 credited images illustrate 929 entries (44.5%)**, with image inspection, side-by-side comparison and 20 guided visual studies. People show available portraits or related works by default, without excluding unillustrated biographies. Map controls remain clear when wartime source legends are expanded.
 
-**Still growing:** the goal is meaningful images for at least half the entries: 1,044 of the current 2,087. Another 121 entries remain. [Milestone checks and publication status](docs/V18_CHECKPOINT_923.md) · [Coverage ledger](dist/data/visual-coverage-v18.json) · [Development record](docs/V18_VISUAL_EXPANSION.md).
+**Still growing:** the goal is meaningful images for at least half the entries: 1,044 of the current 2,087. Another 115 entries remain. [Milestone checks and publication status](docs/V18_CHECKPOINT_929.md) · [Coverage ledger](dist/data/visual-coverage-v18.json) · [Development record](docs/V18_VISUAL_EXPANSION.md).
 
 Firebase is the primary live destination. Older [GitHub Pages](https://haitaowu12.github.io/world-history-atlas/) and GPT Site links may show earlier versions. GitHub Actions are paused through November 2026; do not dispatch or retry workflows before December.
 

@@ -3,9 +3,9 @@
   "reviewedAt": "2026-11-13",
   "baselineManifest": "content-expansion-v17.json",
   "total": 2087,
-  "covered": 923,
-  "assets": 517,
-  "percent": 44.226161954959274,
+  "covered": 929,
+  "assets": 523,
+  "percent": 44.51365596550072,
   "coveredIds": [
     "abbasid-caliphate",
     "abu-simbel-relocation",
@@ -656,6 +656,7 @@
     "hagia-sophia-justinian",
     "haitian-revolution",
     "hampi",
+    "han-dynasty",
     "harar-urban-world",
     "hawaiian-monarchy-overthrow",
     "heian-court",
@@ -687,6 +688,8 @@
     "japan-tokugawa-domains",
     "japanese-american-incarceration",
     "jerusalem-second-temple-destruction-70",
+    "jomon-northern-japan",
+    "joseon-kingdom",
     "joya-ceren-households",
     "justinian-law-compilation",
     "kakatiya-dynasty",
@@ -709,6 +712,7 @@
     "lalibela-rock-hewn-churches",
     "lambayeque-sican-craft",
     "lamu-households-learning",
+    "liangzhu",
     "louisiana-purchase",
     "lubeck-hanseatic-trade",
     "lumbini-ashoka-pillar-249-bce",
@@ -887,9 +891,11 @@
     "srivijaya-maritime",
     "straits-settlements-formation",
     "suez-canal-opening",
+    "sui-reunification",
     "sukhothai-urban-arts",
     "taino-caribbean-societies",
     "taj-mahal",
+    "tang-dynasty",
     "taxila-sirkap",
     "teotihuacan",
     "tet-offensive-1968",
@@ -932,30 +938,24 @@
     "zulu-kingdom-phase"
   ],
   "uncoveredIds": [
-    "jomon-northern-japan",
     "gobekli-tepe",
     "catalhoyuk",
     "kuk",
     "budj-bim",
-    "liangzhu",
     "poverty-point",
     "lapita-voyaging",
     "yin-xu",
     "lapita-teouma-community",
-    "han-dynasty",
     "silk-roads-changan",
     "hopewell-ceremonial-networks",
-    "sui-reunification",
     "gyeongju",
     "early-islam",
-    "tang-dynasty",
     "cahokia",
     "ghana-wagadu",
     "chaco",
     "quanzhou",
     "taputapuatea",
     "ayutthaya-kingdom",
-    "joseon-kingdom",
     "qhapaq-nan",
     "songhai-empire",
     "himeji",
@@ -2099,7 +2099,7 @@
   ],
   "target": 1044,
   "targetMet": false,
-  "remaining": 121,
+  "remaining": 115,
   "regions": {
     "africa": {
       "total": 136,
@@ -2107,7 +2107,7 @@
     },
     "east-asia": {
       "total": 1216,
-      "covered": 563
+      "covered": 569
     },
     "europe": {
       "total": 122,
@@ -2149,7 +2149,7 @@
     "lifetime-portrait": 18,
     "manuscript-detail": 36,
     "modern-memorial": 1,
-    "object-photograph": 111,
+    "object-photograph": 117,
     "site-photograph": 52
   },
   "shards": [
@@ -2376,6 +2376,13 @@
       "sha256": "a3240c985e91aae80a92d8088c592990d4cce05415b6a64f22aea2252e29c979",
       "assets": 0,
       "associations": 6
+    },
+    {
+      "file": "visual-assets-exact-08-v18.json",
+      "bytes": 15235,
+      "sha256": "6b1b0af4bbf2cb2faba252e64f4f24058091d53c702b41bdbc845e2ec855e0b5",
+      "assets": 6,
+      "associations": 0
     },
     {
       "file": "visual-assets-existing-links-01-v18.json",
@@ -2658,6 +2665,6 @@
       "associations": 0
     }
   ],
-  "assetBytes": 99473242,
+  "assetBytes": 99935843,
   "verification": "All admitted files match their SHA-256, byte count and encoded dimensions. Source identity, reuse rights, pixel review and entry relevance require the individual editorial records; structural validation does not establish those facts."
 }

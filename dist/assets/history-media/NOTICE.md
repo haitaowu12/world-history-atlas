@@ -1,6 +1,6 @@
 # Historical images: credits and reuse
 
-Reviewed 2026-11-13. 517 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
+Reviewed 2026-11-13. 523 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
 
 Historical artifacts, surviving places and later depictions retain their source identities. No generated reconstructions are included in this catalogue.
 
@@ -3489,6 +3489,90 @@ The source-supplied image or thumbnail is saved unchanged, without local croppin
 The linked Commons source marks this historical two-dimensional artwork and its faithful reproduction public domain. The named collection and qualified attribution are retained.
 
 The source-supplied image or thumbnail is saved unchanged, without local cropping, resizing, recoloring or retouching.
+
+## Fishing with worked bone / 以骨制器捕鱼
+
+- File: exact-08-met-62339.jpg
+- Creator: Unrecorded maker(s)
+- Date: ca. 1000–300 BCE
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/62339
+- Rights: Public Domain / CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/62339
+
+The official object page marks the image Public Domain; its saved API record confirms isPublicDomain=true.
+
+Official derivative saved unchanged.
+
+## A granary for the afterlife / 为来世准备的粮仓
+
+- File: exact-08-met-52010.jpg
+- Creator: Unrecorded maker(s)
+- Date: 1st–early 3rd century
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/52010
+- Rights: Public Domain / CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/52010
+
+The official object page marks the image Public Domain; its saved API record confirms isPublicDomain=true.
+
+Official derivative saved unchanged.
+
+## A camel enters the tomb / 走入墓葬的骆驼
+
+- File: exact-08-met-49368.jpg
+- Creator: Unrecorded maker(s)
+- Date: 8th century
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/49368
+- Rights: Public Domain / CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/49368
+
+The official object page marks the image Public Domain; its saved API record confirms isPublicDomain=true.
+
+Official derivative saved unchanged.
+
+## A Sui bodhisattva in stone / 隋代石雕菩萨
+
+- File: exact-08-met-42717.jpg
+- Creator: Unrecorded maker(s)
+- Date: late 6th century
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/42717
+- Rights: Public Domain / CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/42717
+
+The official object page marks the image Public Domain; its saved API record confirms isPublicDomain=true.
+
+Official derivative saved unchanged.
+
+## A face carved in Liangzhu jade / 良渚玉器上的面纹
+
+- File: exact-08-met-49373.jpg
+- Creator: Unrecorded maker(s)
+- Date: mid-3rd millennium BCE
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/49373
+- Rights: Public Domain / CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/49373
+
+The official object page marks the image Public Domain; its saved API record confirms isPublicDomain=true.
+
+Official derivative saved unchanged.
+
+## Two halves make a moon jar / 两半合成的月亮罐
+
+- File: exact-08-met-45432.jpg
+- Creator: Unrecorded maker(s)
+- Date: second half 18th century
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/45432
+- Rights: Public Domain / CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/45432
+
+The official object page marks the image Public Domain; its saved API record confirms isPublicDomain=true.
+
+Official derivative saved unchanged.
 
 ## The coronation remembered in 1840 / 1840年画中的查理曼加冕
 
