@@ -224,7 +224,7 @@
       "bytes": 14682
     }
   ],
-  "evidenceReviewsFile": "evidence-followups-v11.json",
+  "evidenceReviewsFile": "evidence-followups-v18.json",
   "coursesFile": "expansion-courses-v17.json",
   "geographicReferenceFile": "us-canada-reference.json",
   "geographicAssociationsFile": "us-canada-area-links-v12.json",
@@ -2443,21 +2443,21 @@
   ],
   "summaryEditsFile": "summary-edits-v18.json",
   "summaryEdits": {
-    "bytes": 457507,
-    "sha256": "e851f9eb1e12c73fd57f7ef9a9479754e12267bf08d5d39c75f9d523a6524ef5",
-    "records": 162
+    "bytes": 464395,
+    "sha256": "1ec66bf6876748babe379588f07fc120c582a1d4cad2dfe9c67960cdfc86a485",
+    "records": 164
   },
   "chinaReviewsFile": "china-visual-reviews-v18.json",
   "chinaVisualReviews": {
-    "bytes": 114557,
-    "sha256": "7857e7040c23d68c7e59f5a5dcdda06fc0385369c14c8e673f97fb54877271f5",
-    "records": 43
+    "bytes": 121145,
+    "sha256": "c49067ba7d95d2c828ad9043ba8d4059a71dee3bebd15438d8ac521ee6e5dd59",
+    "records": 45
   },
   "mediaLocalization": {
     "file": "history-media-localization-zh-v18.json",
-    "bytes": 214884,
-    "sha256": "ee4636cc48e431baf77c4f35ee854a14aa7d6291e00fea511a7b4b0f51c84216",
-    "assets": 489
+    "bytes": 216848,
+    "sha256": "7838faf7d53159d0c4fff480b9e85524d8218c83134a85b14056a74c32d56099",
+    "assets": 494
   },
   "visualExpansion": {
     "baselineManifest": "content-expansion-v17.json",
@@ -2636,6 +2636,13 @@
         "sha256": "edc3917271f6f7f7175f5095a217c68d9012ab3cc2fdc3d3fa7c1872e0a03efc",
         "assets": 4,
         "associations": 29
+      },
+      {
+        "file": "visual-assets-china-repairs-04-v18.json",
+        "bytes": 1507,
+        "sha256": "5c9610dedbca7fa6f83a3cb84b0a56a052ee604e26d7b802bffb5e76c7c907b5",
+        "assets": 0,
+        "associations": 2
       },
       {
         "file": "visual-assets-corrected-links-05-v18.json",
@@ -2916,11 +2923,18 @@
         "sha256": "2b5654b9da97476eba0ad0924633639645d4de17979652444c7bc5d6f69ed654",
         "assets": 1,
         "associations": 1
+      },
+      {
+        "file": "visual-assets-world-new-04-v18.json",
+        "bytes": 12520,
+        "sha256": "dd9cf68745a60582a58c66b30caed80ac093645bdb1f0bf0b3212503b95880e3",
+        "assets": 5,
+        "associations": 0
       }
     ],
     "coverageFile": "visual-coverage-v18.json",
-    "assets": 489,
-    "covered": 893,
+    "assets": 494,
+    "covered": 900,
     "total": 2087,
     "target": 1044
   }

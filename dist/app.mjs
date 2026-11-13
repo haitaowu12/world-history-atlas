@@ -1,6 +1,6 @@
 import {renderKnowledgeGraphic} from './knowledge-graphics.mjs?v=1';
 import {readerDateNote,readerFactLines,readerSourceListHTML,readerReviewLimit} from './reader-copy.mjs';
-import {createVisualLibrary} from './visual-library.mjs?v=24';
+import {createVisualLibrary} from './visual-library.mjs?v=25';
 import {entryMediaFigures,createHistoryMedia,mediaFigures,mediaThumbnail,handleHistoryImageError} from './history-media.mjs?v=7';
 import {applyPlaceLabelTranslations} from './place-labels.mjs';
 import {civilizationOverlaps} from './civilization-tracks.mjs';

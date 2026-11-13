@@ -1,4 +1,4 @@
-import {availableVisualStudies,matchingVisualStudy} from './visual-studies.mjs?v=9';
+import {availableVisualStudies,matchingVisualStudy} from './visual-studies.mjs?v=10';
 import {mediaFigures,mediaMetadata} from './history-media.mjs?v=7';
 import {normalizeSearch} from './search-text.mjs';
 import {renderImageTimeLayers} from './image-time-layers.mjs?v=3';

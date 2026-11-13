@@ -1916,6 +1916,92 @@
           "retrieval": "opened-page"
         }
       ]
+    },
+    {
+      "id": "china-landmark-035",
+      "patch": {
+        "title": {
+          "en": "Xiaowen transfers the Northern Wei capital to Luoyang",
+          "zh": "孝文帝将北魏都城迁往洛阳"
+        },
+        "start": 493,
+        "end": 494,
+        "summary": {
+          "en": "Xiaowen’s transfer of the Northern Wei capital from Pingcheng to Luoyang unfolded in 493–494. Changes in court language, dress and institutions accompanied the move. Longmen’s Buddhist monuments grew through subsequent patronage: the Central Binyang procession relief commemorating Xiaowen was made around 522–523, after his death, not at the moment of the capital transfer.",
+          "zh": "孝文帝将北魏都城从平城迁往洛阳，迁都经历493至494年，伴随朝廷语言、服饰与制度的调整。龙门佛教营造经后续赞助不断发展；宾阳中洞纪念孝文帝的礼佛行列浮雕约作于522至523年，在他去世之后，并非迁都当时的作品。"
+        },
+        "dateNote": {
+          "en": "The capital transfer unfolded in 493–494. The illustrated Longmen relief dates to about 522–523 and belongs to later commemoration.",
+          "zh": "迁都经历493—494年。所示龙门浮雕约作于522—523年，属于后续纪念工程。"
+        }
+      },
+      "note": {
+        "en": "Separates the capital transfer from later Longmen commemoration; replaces the single-year combined claim without altering the inherited source record or map anchor.",
+        "zh": "区分迁都与后续龙门纪念工程，修正把两者压入单一年份的表述；不改动冻结来源或地图锚点。"
+      },
+      "sources": [
+        {
+          "title": "Northern Wei — Art & Architecture Thesaurus",
+          "url": "https://www.getty.edu/vow/AATFullDisplay?find=nanny&logic=OR&note=&page=1&subjectid=300018409",
+          "publisher": "Getty Research Institute",
+          "checkedAt": "2026-11-13",
+          "evidenceNote": "Dates the transfer from Pingcheng to Luoyang to 493–494 and Xiaowen’s reign to 471–499.",
+          "evidenceNoteZh": "将平城至洛阳的迁都记为493—494年，孝文帝在位为471—499年。",
+          "retrieval": "Fresh read-only web source text; no new image download."
+        },
+        {
+          "title": "Emperor Xiaowen and his entourage worshipping the Buddha (35.146)",
+          "url": "https://www.metmuseum.org/art/collection/search/42707",
+          "publisher": "The Metropolitan Museum of Art",
+          "checkedAt": "2026-11-13",
+          "evidenceNote": "Dates the relief ca.522–523; locates it in Central Binyang Cave and identifies Xuanwu’s memorial commission for his parents.",
+          "evidenceNoteZh": "浮雕年代约522—523年，原属宾阳中洞；说明宣武帝为父母营造纪念工程。",
+          "retrieval": "Fresh read-only web source text; no new image download."
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-153",
+      "patch": {
+        "title": {
+          "en": "Early Ming imperial porcelain at Jingdezhen",
+          "zh": "明代前期景德镇的宫廷瓷业"
+        },
+        "start": 1368,
+        "end": 1487,
+        "summary": {
+          "en": "Imperial porcelain production at Jingdezhen developed during the early Ming. Archaeological finds and documents distinguish production under Hongwu from the administrative arrangements consolidated under Yongle and Xuande; accounts do not agree on a single founding year for the imperial factory.\n\nLater Chenghua porcelain shows another stage of this craft. The illustrated cup combines underglaze-blue outlines with coloured overglaze enamels, allowing close comparison of the materials and decoration used for courtly objects.",
+          "zh": "明代前期，景德镇的宫廷瓷器生产逐步发展。考古遗存与文献使人能够区分洪武时期已有的烧造活动，以及永乐、宣德时期逐渐完善的管理机构；御器厂并无各说一致的单一始建年份。\n\n后来的成化瓷器展现这一工艺的另一阶段。所示杯子以釉下青花勾线并加施釉上彩，可近看宫廷器物的材料与装饰如何配合。"
+        },
+        "dateNote": {
+          "en": "1368–1487 is a thematic span from the beginning of Ming to the end of Chenghua, not an asserted founding interval. Sources offer 1369, 1402 and early-Xuande foundation traditions, referring to different stages of production and administration.",
+          "zh": "1368—1487年为明初至成化末的主题跨度，并非声称建厂发生于某个确定区间。来源列有1369、1402及宣德初年等说法，涉及生产与管理的不同阶段。"
+        }
+      },
+      "note": {
+        "en": "Replaces a disputed single-year foundation claim with an explicitly thematic history of court porcelain production. Original title, year and coordinates remain preserved.",
+        "zh": "以明确标注的宫廷瓷业主题史，替换存在争议的单一年份建厂说；保留原始标题、年代与坐标。"
+      },
+      "sources": [
+        {
+          "title": "明初永宣官窑对清代陶瓷艺术的影响（页114—115）",
+          "url": "https://img.dpm.org.cn/Uploads/File/2021/07/23/u60fa314146024.pdf",
+          "publisher": "孙悦，故宫博物院器物部；《紫禁城》2021年第7期",
+          "checkedAt": "2026-11-13",
+          "evidenceNote": "The author distinguishes Hongwu-period production from administrative establishment during Yongle–Xuande, noting competing foundation dates rather than endorsing one exact 1402 founding.",
+          "evidenceNoteZh": "作者区分洪武时期的生产机构与永宣时期完善的管理机构，列出不同始建年代说法，并非认定1402年唯一确切建厂。",
+          "retrieval": "Fresh read-only web source text; no new image download."
+        },
+        {
+          "title": "鬥彩人物圖杯 / Cup with figure decoration in doucai painted enamels",
+          "url": "https://digitalarchive.npm.gov.tw/Collection/Detail/2494?dep=U",
+          "publisher": "National Palace Museum, Taipei",
+          "checkedAt": "2026-11-13",
+          "evidenceNote": "Dates this cup to Chenghua 1465–1487 and describes underglaze-blue outlines combined with overglaze red, yellow and green.",
+          "evidenceNoteZh": "将该杯定为成化时期1465—1487年，说明釉下青花勾线与釉上红、黄、绿彩结合。",
+          "retrieval": "Fresh read-only web source text; no new image download."
+        }
+      ]
     }
   ]
 }

@@ -1,6 +1,6 @@
 # Historical images: credits and reuse
 
-Reviewed 2026-11-13. 489 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
+Reviewed 2026-11-13. 494 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
 
 Historical artifacts, surviving places and later depictions retain their source identities. No generated reconstructions are included in this catalogue.
 
@@ -6849,3 +6849,73 @@ Official Screen Image JPEG preserved unchanged; no local crop, retouching or rec
 Getty makes the images on this manuscript’s collection page available under CC0 through its Open Content Program.
 
 Official IIIF JPEG at a maximum of 1400 pixels, preserved unchanged; no local crop, retouching or recolouring.
+
+## An Akkadian seal’s modern impression / 阿卡德滚筒印章的现代印痕
+
+- File: world-new-04-met-326970.jpg
+- Creator: Unrecorded maker
+- Date: Seal ca. 2350–2150 BCE; modern impression, undated
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/326970
+- Rights: Public Domain / CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/326970
+
+The official collection page marks this image Public Domain.
+
+Official derivative saved unchanged; no crop, color change or reconstruction.
+
+## A Hittite seal in silver / 银制赫梯印章
+
+- File: world-new-04-met-326717.jpg
+- Creator: Unrecorded maker
+- Date: ca. 14th–13th century BCE
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/326717
+- Rights: Public Domain / CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/326717
+
+The official collection page marks this image Public Domain.
+
+Official derivative saved unchanged; no crop, color change or reconstruction.
+
+## A Satavahana-period portrait medallion / 百乘时期的肖像圆饰
+
+- File: world-new-04-met-65014.jpg
+- Creator: Unrecorded maker
+- Date: ca. 1st century CE
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/65014
+- Rights: Public Domain / CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/65014
+
+The official collection page marks this image Public Domain.
+
+Official derivative saved unchanged; no crop, color change or reconstruction.
+
+## A Ghaznavid-period bowl names its maker / 刻有匠人名字的伽色尼时期铜碗
+
+- File: world-new-04-met-455306.jpg
+- Creator: Abu Nasr al-Naqqash
+- Date: 11th century
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/455306
+- Rights: Public Domain / CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/455306
+
+The official collection page marks this image Public Domain.
+
+Official derivative saved unchanged; no crop, color change or reconstruction.
+
+## Shiva or a guardian in Cham stone carving / 占婆石雕中的湿婆或守门神
+
+- File: world-new-04-met-38314.jpg
+- Creator: Unrecorded maker
+- Date: ca. first half of the 10th century
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/38314
+- Rights: Public Domain / CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/38314
+
+The official collection page marks this image Public Domain.
+
+Official derivative saved unchanged; no crop, color change or reconstruction.

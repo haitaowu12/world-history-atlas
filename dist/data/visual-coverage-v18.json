@@ -3,9 +3,9 @@
   "reviewedAt": "2026-11-13",
   "baselineManifest": "content-expansion-v17.json",
   "total": 2087,
-  "covered": 893,
-  "assets": 489,
-  "percent": 42.78869190225203,
+  "covered": 900,
+  "assets": 494,
+  "percent": 43.124101581217055,
   "coveredIds": [
     "abbasid-caliphate",
     "abu-simbel-relocation",
@@ -13,6 +13,7 @@
     "ainu-language-cultural-continuity",
     "ajanta-cave-workshops",
     "akan-goldweights-measure-trade",
+    "akkadian-empire",
     "aksum",
     "alaska-purchase",
     "american-revolution",
@@ -57,6 +58,7 @@
     "carolingian-dynasty",
     "carthaginian-power",
     "castile-aragon-dynastic-union",
+    "champa-kingdoms",
     "chankillo-solar-calendar",
     "charlemagne-coronation",
     "chavin-ritual-center",
@@ -225,6 +227,7 @@
     "china-landmark-023",
     "china-landmark-028",
     "china-landmark-033",
+    "china-landmark-035",
     "china-landmark-036",
     "china-landmark-037",
     "china-landmark-038",
@@ -277,6 +280,7 @@
     "china-landmark-148",
     "china-landmark-149",
     "china-landmark-152",
+    "china-landmark-153",
     "china-landmark-156",
     "china-landmark-158",
     "china-landmark-159",
@@ -634,6 +638,7 @@
     "galileo-telescope",
     "german-reunification",
     "germany-reunified-period",
+    "ghaznavid-dynasty",
     "gondar-permanent-capital",
     "goryeo-kingdom",
     "great-seljuqs",
@@ -650,6 +655,7 @@
     "hellenistic-kingdoms",
     "herat-manuscript-workshops",
     "hiroshima-atomic-bombing",
+    "hittite-hattusha",
     "hoi-an-port-households",
     "holocaust",
     "holy-roman-empire",
@@ -847,6 +853,7 @@
     "santiniketan-educational-experiment",
     "sardis-early-coinage",
     "sasanian-empire",
+    "satavahana-dynasty",
     "saudeleur-monumental-phase",
     "second-world-war",
     "seneca-falls-convention",
@@ -908,9 +915,7 @@
     "kuk",
     "budj-bim",
     "liangzhu",
-    "akkadian-empire",
     "poverty-point",
-    "hittite-hattusha",
     "lapita-voyaging",
     "yin-xu",
     "lapita-teouma-community",
@@ -1069,10 +1074,8 @@
     "china-salt-iron-debate-81bce",
     "japan-onin-war",
     "egypt-piye-campaign",
-    "satavahana-dynasty",
     "rashtrakuta-dynasty",
     "kakatiya-dynasty",
-    "ghaznavid-dynasty",
     "ghurid-dynasty",
     "qarakhanid-dynasty",
     "golden-horde",
@@ -1081,7 +1084,6 @@
     "almohad-dynasty",
     "purepecha-state",
     "mixtec-kingdoms",
-    "champa-kingdoms",
     "canada-polity",
     "india-independent-polity",
     "ghana-independent-polity",
@@ -1731,7 +1733,6 @@
     "china-event-nanbei-008",
     "china-event-nanbei-009",
     "china-landmark-341",
-    "china-landmark-035",
     "china-event-nanbei-011",
     "china-event-nanbei-012",
     "china-event-nanbei-013",
@@ -1958,7 +1959,6 @@
     "china-event-ming-005",
     "china-landmark-213",
     "china-event-ming-006",
-    "china-landmark-153",
     "china-event-ming-009",
     "china-landmark-411",
     "china-landmark-172",
@@ -2099,7 +2099,7 @@
   ],
   "target": 1044,
   "targetMet": false,
-  "remaining": 151,
+  "remaining": 144,
   "regions": {
     "africa": {
       "total": 136,
@@ -2107,7 +2107,7 @@
     },
     "east-asia": {
       "total": 1216,
-      "covered": 561
+      "covered": 563
     },
     "europe": {
       "total": 122,
@@ -2127,15 +2127,15 @@
     },
     "south-asia": {
       "total": 95,
-      "covered": 43
+      "covered": 44
     },
     "southeast-asia": {
       "total": 101,
-      "covered": 29
+      "covered": 30
     },
     "west-central-asia": {
       "total": 111,
-      "covered": 39
+      "covered": 42
     }
   },
   "types": {
@@ -2148,7 +2148,7 @@
     "later-depiction": 67,
     "lifetime-portrait": 18,
     "manuscript-detail": 36,
-    "object-photograph": 87,
+    "object-photograph": 92,
     "site-photograph": 52
   },
   "shards": [
@@ -2326,6 +2326,13 @@
       "sha256": "edc3917271f6f7f7175f5095a217c68d9012ab3cc2fdc3d3fa7c1872e0a03efc",
       "assets": 4,
       "associations": 29
+    },
+    {
+      "file": "visual-assets-china-repairs-04-v18.json",
+      "bytes": 1507,
+      "sha256": "5c9610dedbca7fa6f83a3cb84b0a56a052ee604e26d7b802bffb5e76c7c907b5",
+      "assets": 0,
+      "associations": 2
     },
     {
       "file": "visual-assets-corrected-links-05-v18.json",
@@ -2606,8 +2613,15 @@
       "sha256": "2b5654b9da97476eba0ad0924633639645d4de17979652444c7bc5d6f69ed654",
       "assets": 1,
       "associations": 1
+    },
+    {
+      "file": "visual-assets-world-new-04-v18.json",
+      "bytes": 12520,
+      "sha256": "dd9cf68745a60582a58c66b30caed80ac093645bdb1f0bf0b3212503b95880e3",
+      "assets": 5,
+      "associations": 0
     }
   ],
-  "assetBytes": 96714168,
+  "assetBytes": 97318096,
   "verification": "All admitted files match their SHA-256, byte count and encoded dimensions. Source identity, reuse rights, pixel review and entry relevance require the individual editorial records; structural validation does not establish those facts."
 }

@@ -1,0 +1,261 @@
+{
+  "checkedAt": "2026-11-13",
+  "status": "Research proposal only; no production/Git changes, no downloads.",
+  "sourceReads": [
+    {
+      "title": "Northern Wei — Art & Architecture Thesaurus",
+      "url": "https://www.getty.edu/vow/AATFullDisplay?find=nanny&logic=OR&note=&page=1&subjectid=300018409",
+      "publisher": "Getty Research Institute",
+      "checkedAt": "2026-11-13",
+      "evidenceNote": "Dates the transfer from Pingcheng to Luoyang to 493–494 and Xiaowen’s reign to 471–499.",
+      "evidenceNoteZh": "将平城至洛阳的迁都记为493—494年，孝文帝在位为471—499年。",
+      "retrieval": "Fresh read-only web source text; no new image download.",
+      "location": "lines20–22"
+    },
+    {
+      "title": "Emperor Xiaowen and his entourage worshipping the Buddha (35.146)",
+      "url": "https://www.metmuseum.org/art/collection/search/42707",
+      "publisher": "The Metropolitan Museum of Art",
+      "checkedAt": "2026-11-13",
+      "evidenceNote": "Dates the relief ca.522–523; locates it in Central Binyang Cave and identifies Xuanwu’s memorial commission for his parents.",
+      "evidenceNoteZh": "浮雕年代约522—523年，原属宾阳中洞；说明宣武帝为父母营造纪念工程。",
+      "retrieval": "Fresh read-only web source text; no new image download.",
+      "location": "lines26–31"
+    },
+    {
+      "title": "明初永宣官窑对清代陶瓷艺术的影响（页114—115）",
+      "url": "https://img.dpm.org.cn/Uploads/File/2021/07/23/u60fa314146024.pdf",
+      "publisher": "孙悦，故宫博物院器物部；《紫禁城》2021年第7期",
+      "checkedAt": "2026-11-13",
+      "evidenceNote": "The author distinguishes Hongwu-period production from administrative establishment during Yongle–Xuande, noting competing foundation dates rather than endorsing one exact 1402 founding.",
+      "evidenceNoteZh": "作者区分洪武时期的生产机构与永宣时期完善的管理机构，列出不同始建年代说法，并非认定1402年唯一确切建厂。",
+      "retrieval": "Fresh read-only web source text; no new image download.",
+      "location": "PDF pages 0–1; journal pages 114–115. Source text inspected; page images not independently pixel-verified."
+    },
+    {
+      "title": "鬥彩人物圖杯 / Cup with figure decoration in doucai painted enamels",
+      "url": "https://digitalarchive.npm.gov.tw/Collection/Detail/2494?dep=U",
+      "publisher": "National Palace Museum, Taipei",
+      "checkedAt": "2026-11-13",
+      "evidenceNote": "Dates this cup to Chenghua 1465–1487 and describes underglaze-blue outlines combined with overglaze red, yellow and green.",
+      "evidenceNoteZh": "将该杯定为成化时期1465—1487年，说明釉下青花勾线与釉上红、黄、绿彩结合。",
+      "retrieval": "Fresh read-only web source text; no new image download.",
+      "location": "lines15–19,47–54"
+    }
+  ],
+  "sourceLimit": "Paraphrases only. No new asset rights are granted; admitted assets unchanged. No source freshness claimed beyond these reads.",
+  "decision": {
+    "ready035": true,
+    "kiln153": "Evidence supports correction; owner must choose deliberate thematic-span change. Regnal endpoints are standard labels; do not present them as an exact factory founding interval.",
+    "held455": true
+  },
+  "originalRecords": [
+    {
+      "id": "china-landmark-035",
+      "title": {
+        "en": "Emperor Xiaowen of Northern Wei moves the capital to Luoyang and initiates Longmen Grottoes",
+        "zh": "北魏孝文帝自平城迁都洛阳，推行汉化并开凿龙门石窟"
+      },
+      "start": 493,
+      "end": 493,
+      "location": {
+        "lon": 112.45,
+        "lat": 34.62,
+        "label": "Luoyang",
+        "labelI18n": {
+          "en": "Luoyang",
+          "zh": "洛阳"
+        },
+        "labelProvenance": "inherited-source-place-pair"
+      },
+      "region": "east-asia",
+      "theme": "cities",
+      "kind": "event",
+      "importance": 1,
+      "summary": {
+        "en": "Emperor Xiaowen of Northern Wei moves the capital to Luoyang and initiates Longmen Grottoes",
+        "zh": "北魏孝文帝自平城迁都洛阳，推行汉化并开凿龙门石窟"
+      },
+      "dateNote": {
+        "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+        "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+      },
+      "locationPrecision": "representative",
+      "sources": [
+        {
+          "title": "Chronicles of the Realm — js/lore_data.js (frozen source dataset)",
+          "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/lore_data.js",
+          "publisher": "DeanChensj / Chronicles of the Realm",
+          "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+          "checkedAt": "2026-10-23"
+        }
+      ],
+      "aliases": [
+        "洛阳",
+        "Luoyang"
+      ],
+      "provenance": {
+        "dataset": "jiangshan",
+        "status": "inherited",
+        "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+        "periodId": "nanbei",
+        "periodIds": [
+          "nanbei"
+        ],
+        "sourceRecords": [
+          {
+            "file": "js/lore_data.js",
+            "path": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/34",
+            "index": 34
+          }
+        ],
+        "note": {
+          "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+          "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+        }
+      },
+      "relatedIds": [
+        "northern-wei-dynasty",
+        "southern-qi-dynasty"
+      ]
+    },
+    {
+      "id": "china-landmark-153",
+      "title": {
+        "en": "The Ming court establishes the Zhushan Imperial Kiln Factory at Jingdezhen for royal porcelain",
+        "zh": "明廷于景德镇珠山置御器厂督造宫廷御瓷，永宣青花与成化斗彩冠绝天下"
+      },
+      "start": 1402,
+      "end": 1402,
+      "location": {
+        "lon": 117.18,
+        "lat": 29.27,
+        "label": "Jingdezhen (Jingdezhen, Jiangxi)",
+        "labelI18n": {
+          "en": "Jingdezhen (Jingdezhen, Jiangxi)",
+          "zh": "景德镇（今江西景德镇）"
+        },
+        "labelProvenance": "inherited-source-place-pair"
+      },
+      "region": "east-asia",
+      "theme": "states",
+      "kind": "event",
+      "importance": 1,
+      "summary": {
+        "en": "The Ming court establishes the Zhushan Imperial Kiln Factory at Jingdezhen for royal porcelain",
+        "zh": "明廷于景德镇珠山置御器厂督造宫廷御瓷，永宣青花与成化斗彩冠绝天下"
+      },
+      "dateNote": {
+        "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+        "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+      },
+      "locationPrecision": "representative",
+      "sources": [
+        {
+          "title": "Chronicles of the Realm — js/lore_data.js (frozen source dataset)",
+          "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/lore_data.js",
+          "publisher": "DeanChensj / Chronicles of the Realm",
+          "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+          "checkedAt": "2026-10-23"
+        }
+      ],
+      "aliases": [
+        "景德镇（今江西景德镇）",
+        "Jingdezhen (Jingdezhen, Jiangxi)"
+      ],
+      "provenance": {
+        "dataset": "jiangshan",
+        "status": "inherited",
+        "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+        "periodId": "ming",
+        "periodIds": [
+          "ming"
+        ],
+        "sourceRecords": [
+          {
+            "file": "js/lore_data.js",
+            "path": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/152",
+            "index": 152
+          }
+        ],
+        "note": {
+          "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+          "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+        }
+      },
+      "relatedIds": [
+        "ming-dynasty"
+      ]
+    },
+    {
+      "id": "china-landmark-455",
+      "title": {
+        "en": "Shooting the Halberd at Camp Gate: Lü Bu hits a halberd prong from 150 paces to save Liu Bei",
+        "zh": "辕门射戟：吕布百五十步外射中戟支，化解纪灵攻刘备之围"
+      },
+      "start": 196,
+      "end": 196,
+      "location": {
+        "lon": 117.18,
+        "lat": 34.26,
+        "label": "Xuzhou",
+        "labelI18n": {
+          "en": "Xuzhou",
+          "zh": "徐州辕门"
+        },
+        "labelProvenance": "inherited-source-place-pair"
+      },
+      "region": "east-asia",
+      "theme": "states",
+      "kind": "event",
+      "importance": 1,
+      "summary": {
+        "en": "Shooting the Halberd at Camp Gate: Lü Bu hits a halberd prong from 150 paces to save Liu Bei",
+        "zh": "辕门射戟：吕布百五十步外射中戟支，化解纪灵攻刘备之围"
+      },
+      "dateNote": {
+        "en": "Uses the civil year supplied by the source. A single year anchors this entry; its schematic point does not establish a person’s presence there in that year.",
+        "zh": "按来源条目中的公元纪年显示；单一年份仅是该条目的时间锚点。点位为来源的示意位置，不保证人物当年亲自到达此处。"
+      },
+      "locationPrecision": "representative",
+      "sources": [
+        {
+          "title": "Chronicles of the Realm — js/lore_data.js (frozen source dataset)",
+          "url": "https://github.com/haitaowu12/jiangshan-map/blob/fcd6484d06d3c581241fc24adbab288cf3a4a2ea/js/lore_data.js",
+          "publisher": "DeanChensj / Chronicles of the Realm",
+          "evidenceNote": "Dataset provenance, not independent corroboration of the historical claim.",
+          "checkedAt": "2026-10-23"
+        }
+      ],
+      "aliases": [
+        "徐州辕门",
+        "Xuzhou"
+      ],
+      "provenance": {
+        "dataset": "jiangshan",
+        "status": "inherited",
+        "sourceCommit": "fcd6484d06d3c581241fc24adbab288cf3a4a2ea",
+        "periodId": "donghan",
+        "periodIds": [
+          "donghan"
+        ],
+        "sourceRecords": [
+          {
+            "file": "js/lore_data.js",
+            "path": "/ATLAS_LORE_DATA/PLACE_LANDMARK_EVENTS/454",
+            "index": 454
+          }
+        ],
+        "note": {
+          "en": "Inherited from Chronicles of the Realm. Import structure and provenance were checked; historical assertions have not each been independently corroborated.",
+          "zh": "继承自《江山时序》的记录；已核对导入结构和出处，尚未逐条独立核实历史论断。"
+        }
+      },
+      "relatedIds": [
+        "han-dynasty"
+      ]
+    }
+  ],
+  "priorExclusionsPreserved": true,
+  "editorialDecision": "Admit 035 chronology correction and 153 explicitly thematic production history. The Ming span is not a replacement exact foundation date; the inherited original is retained. Lü Bu remains excluded pending verified chronology."
+}
