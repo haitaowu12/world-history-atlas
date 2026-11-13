@@ -2232,6 +2232,79 @@
           "evidenceNoteZh": "孙膑段马陵叙事：田忌统兵、孙膑筹策，庞涓中伏兵败后自尽，并未称孙膑亲手射杀庞涓。"
         }
       ]
+    },
+    {
+      "id": "china-landmark-292",
+      "patch": {
+        "title": {
+          "en": "Xiao He brings Han Xin back to Liu Bang",
+          "zh": "萧何追回韩信并荐为大将"
+        },
+        "summary": {
+          "en": "The Shiji recounts that Han Xin left Liu Bang’s service after feeling overlooked. Xiao He pursued him without first informing Liu Bang, then argued that Han Xin was indispensable to an eastward bid for power. Liu Bang appointed Han Xin as his chief general with formal ceremony.",
+          "zh": "《史记》记述，韩信因不受重用而离去，萧何未及禀报刘邦便亲自追赶。回来后，萧何指出刘邦若要向东争天下，便不能不用韩信；刘邦随后以正式礼仪拜韩信为大将。"
+        },
+        "dateNote": {
+          "en": "The inherited 206 BCE anchor is retained. The biography supports the pursuit and appointment, not the later moonlit setting.",
+          "zh": "保留原条目的公元前206年锚点；传记支持追还与拜将情节，不据此确认后世的月夜场景。"
+        }
+      },
+      "note": {
+        "en": "Removed the unverified moonlit setting; preserved chronology and location.",
+        "zh": "删除未经本次来源证实的月夜场景，保留原年代与点位。"
+      },
+      "sources": [
+        {
+          "title": "Shiji 92: Han Xin",
+          "url": "https://zh.wikisource.org/wiki/史記/卷092",
+          "publisher": "Wikisource transcription of public-domain history",
+          "evidenceNote": "The biography says Xiao He pursued Han Xin and urged Liu Bang to appoint him; the consulted passage does not specify moonlight.",
+          "checkedAt": "2026-11-13",
+          "retrieval": "primary-text-opened",
+          "evidenceNoteZh": "传记记萧何追还韩信并力荐拜将；所读段落未明言月夜。"
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-025",
+      "patch": {
+        "title": {
+          "en": "Li Zicheng takes Xi’an; the Shun regime follows",
+          "zh": "李自成占领西安，继而建立大顺"
+        },
+        "summary": {
+          "en": "Li Zicheng took Xi’an in 1643. The following year he established the Shun regime and proclaimed the Yongchang era there. Yongchang tongbao coins bearing that era name give the new government a surviving material trace: this museum example is a five-cash denomination catalogued to 1644–1645.",
+          "zh": "李自成于1643年占领西安，次年在此建立大顺并改元永昌。铸有该年号的永昌通宝，是新政权留下的实物痕迹；所示馆藏为折五钱，馆方列铸行期为1644—1645年。"
+        },
+        "dateNote": {
+          "en": "1643 anchors the capture of Xi’an; Shun founding and the Yongchang era belong to 1644. The coin is not dated to the capture itself.",
+          "zh": "1643年锚定占领西安；建立大顺与改元永昌在1644年，钱币并非占城当年的实物。"
+        }
+      },
+      "note": {
+        "en": "Separated the capture from founding, resolving the compressed English headline while retaining the imported anchor.",
+        "zh": "区分占城与建国，修正英文标题压缩年代的问题，并保留原锚点。"
+      },
+      "sources": [
+        {
+          "title": "Mingshi 309: Li Zicheng",
+          "url": "https://zh.wikisource.org/wiki/明史/卷309",
+          "publisher": "Wikisource transcription of public-domain history",
+          "evidenceNote": "Separates capture of Xi’an in the preceding winter from Shun founding and Yongchang era declaration in Chongzhen 17, first month.",
+          "checkedAt": "2026-11-13",
+          "retrieval": "primary-text-opened",
+          "evidenceNoteZh": "区分前一冬季占领西安与崇祯十七年正月建大顺、改元永昌。"
+        },
+        {
+          "title": "Yongchang tongbao, five-cash coin, 77-00139",
+          "url": "https://tcmb.culture.tw/zh-tw/detail?id=14000138568&indexCode=MOCCOLLECTIONS",
+          "publisher": "National Museum of History / National Cultural Memory Bank",
+          "checkedAt": "2026-11-13",
+          "retrieval": "official-page-opened",
+          "evidenceNote": "Item description identifies Li Zicheng’s Shun coinage, 1644–1645, five-cash denomination and 1988 accession. Page explicitly credits CC BY 3.0 TW or later for digital object.",
+          "evidenceNoteZh": "单件记录明确李自成大顺铸币、1644—1645年、折五面额及1988年入藏；数字对象标明CC BY 3.0 TW或更新版本。"
+        }
+      ]
     }
   ]
 }

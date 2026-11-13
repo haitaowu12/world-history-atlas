@@ -903,5 +903,120 @@
       "en": "Added or updated the directly inspected source for the specific material-history discussion.",
       "zh": "为具体物质史叙述补充或更新已直接阅读的来源。"
     }
+  },
+  {
+    "recordId": "person-hunayn-ibn-ishaq",
+    "checkedAt": "2026-11-13",
+    "sources": [
+      {
+        "title": "Hunayn’s Latin afterlife: text and marginal notes",
+        "url": "https://wellcomecollection.org/works/tchdej3s",
+        "publisher": "Wellcome Collection",
+        "evidenceNote": "Red headings and marginal annotations show a later setting for reading a medical text transmitted under Hunayn’s Latin name. This medieval copy is centuries later than Hunayn, not his handwriting.",
+        "checkedAt": "2026-11-13",
+        "retrieval": "official-item-api-and-iiif-manifest",
+        "evidenceNoteZh": "十四世纪初拉丁抄本与边注是后世传播史的实物证据，并非侯奈因手迹；归属沿用馆方。"
+      }
+    ],
+    "reviewLimit": {
+      "en": "The new collection record supports the specific artifact paragraph; it retains the museum’s attribution and identification limits. Other historical claims follow the existing sources.",
+      "zh": "新增馆藏记录支持具体器物段落，并保留馆方在归属及身份判断上的限制；其他历史论断仍依据原有来源。"
+    },
+    "note": {
+      "en": "Added the directly inspected record for the illustrated later textual witness.",
+      "zh": "补充已直接核查的后世文本实物记录。"
+    }
+  },
+  {
+    "recordId": "person-ulugh-beg",
+    "checkedAt": "2026-11-13",
+    "sources": [
+      {
+        "title": "Ulugh Beg in a London edition",
+        "url": "https://wellcomecollection.org/works/mvr8ww4a",
+        "publisher": "Wellcome Collection",
+        "evidenceNote": "This Persian-and-Latin edition makes a later stage of transmission visible through its editor, languages and imprint. It is not a manuscript from Ulugh Beg’s observatory.",
+        "checkedAt": "2026-11-13",
+        "retrieval": "official-item-api-and-iiif-manifest",
+        "evidenceNoteZh": "1650年波斯文与拉丁文刊本显示编辑与注释环节，并非帖木儿时代原稿。"
+      }
+    ],
+    "reviewLimit": {
+      "en": "The new collection record supports the specific artifact paragraph; it retains the museum’s attribution and identification limits. Other historical claims follow the existing sources.",
+      "zh": "新增馆藏记录支持具体器物段落，并保留馆方在归属及身份判断上的限制；其他历史论断仍依据原有来源。"
+    },
+    "note": {
+      "en": "Added the inspected source for the illustrated object and its later reception.",
+      "zh": "补充已核查的实物图像与后世传播来源。"
+    }
+  },
+  {
+    "recordId": "person-ibn-battuta",
+    "checkedAt": "2026-11-13",
+    "sources": [
+      {
+        "title": "An abridgment travels into English",
+        "url": "https://wellcomecollection.org/works/u3vz2zun",
+        "publisher": "Royal College of Physicians, via Wellcome Collection",
+        "evidenceNote": "The title explicitly identifies abridged Arabic manuscript copies as the basis of the translation. It records later mediation, not a complete or unedited travel diary.",
+        "checkedAt": "2026-11-13",
+        "retrieval": "official-item-api-and-iiif-manifest",
+        "evidenceNoteZh": "扉页明言依据阿拉伯文节本翻译；馆藏清单明确公共领域及皇家内科医师学会署名。"
+      }
+    ],
+    "reviewLimit": {
+      "en": "The new collection record supports the specific artifact paragraph; it retains the museum’s attribution and identification limits. Other historical claims follow the existing sources.",
+      "zh": "新增馆藏记录支持具体器物段落，并保留馆方在归属及身份判断上的限制；其他历史论断仍依据原有来源。"
+    },
+    "note": {
+      "en": "Added the inspected source for the illustrated object and its later reception.",
+      "zh": "补充已核查的实物图像与后世传播来源。"
+    }
+  },
+  {
+    "recordId": "person-louis-riel",
+    "checkedAt": "2026-11-13",
+    "sources": [
+      {
+        "title": "Louis Riel and companions",
+        "url": "https://digitalcollections.lakeheadu.ca/items/show/14776",
+        "publisher": "Archives & Digital Collections at Lakehead University Library",
+        "evidenceNote": "Archive dates photograph to 1870 and identifies Riel centrally among provisional-government councillors.",
+        "checkedAt": "2026-11-13",
+        "retrieval": "official-page-opened",
+        "evidenceNoteZh": "档案明确将照片定于1870年，并识别里尔位于临时政府议员中央。"
+      }
+    ],
+    "reviewLimit": {
+      "en": "The new collection record supports the specific artifact paragraph; it retains the museum’s attribution and identification limits. Other historical claims follow the existing sources.",
+      "zh": "新增馆藏记录支持具体器物段落，并保留馆方在归属及身份判断上的限制；其他历史论断仍依据原有来源。"
+    },
+    "note": {
+      "en": "Added the inspected source for the illustrated object and its later reception.",
+      "zh": "补充已核查的实物图像与后世传播来源。"
+    }
+  },
+  {
+    "recordId": "person-sei-shonagon",
+    "checkedAt": "2026-11-13",
+    "sources": [
+      {
+        "title": "The Court Lady Sei Shōnagon (A-952)",
+        "url": "https://colbase.nich.go.jp/collection_items/tnm/A-952?locale=en",
+        "publisher": "Tokyo National Museum / ColBase",
+        "checkedAt": "2026-11-13",
+        "evidenceNote": "Item and official ZIP identify Tosa Mitsuoki, seventeenth century and silk. Japanese item description identifies the Pillow Book snow-and-blind episode; its account is more specific than the abbreviated English description.",
+        "evidenceNoteZh": "本件页面与官方ZIP注明土佐光起、十七世纪与绢本；日文说明识别《枕草子》的香炉峰雪与卷帘情节，比简略英文说明更具体。",
+        "retrieval": "browser-item-and-terms-read; official-item-zip-read"
+      }
+    ],
+    "reviewLimit": {
+      "en": "The new collection record supports the specific artifact paragraph; it retains the museum’s attribution and identification limits. Other historical claims follow the existing sources.",
+      "zh": "新增馆藏记录支持具体器物段落，并保留馆方在归属及身份判断上的限制；其他历史论断仍依据原有来源。"
+    },
+    "note": {
+      "en": "Added the inspected source for the illustrated object and its later reception.",
+      "zh": "补充已核查的实物图像与后世传播来源。"
+    }
   }
 ]

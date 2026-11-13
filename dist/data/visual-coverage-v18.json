@@ -3,9 +3,9 @@
   "reviewedAt": "2026-11-13",
   "baselineManifest": "content-expansion-v17.json",
   "total": 2087,
-  "covered": 959,
-  "assets": 530,
-  "percent": 45.95112601820795,
+  "covered": 968,
+  "assets": 536,
+  "percent": 46.38236703402013,
   "coveredIds": [
     "abbasid-caliphate",
     "abu-simbel-relocation",
@@ -206,6 +206,7 @@
     "china-event-xihan-003",
     "china-event-xihan-004",
     "china-event-xihan-006",
+    "china-event-xihan-010",
     "china-event-xihan-013",
     "china-event-xihan-014",
     "china-event-xihan-017",
@@ -242,6 +243,7 @@
     "china-landmark-017",
     "china-landmark-021",
     "china-landmark-023",
+    "china-landmark-025",
     "china-landmark-028",
     "china-landmark-033",
     "china-landmark-035",
@@ -355,6 +357,7 @@
     "china-landmark-287",
     "china-landmark-289",
     "china-landmark-291",
+    "china-landmark-292",
     "china-landmark-294",
     "china-landmark-295",
     "china-landmark-296",
@@ -494,6 +497,7 @@
     "china-landmark-501",
     "china-landmark-502",
     "china-landmark-503",
+    "china-landmark-504",
     "china-landmark-507",
     "china-landmark-509",
     "china-landmark-510",
@@ -840,6 +844,8 @@
     "person-hildegard-bingen",
     "person-ho-chi-minh",
     "person-huda-shaarawi",
+    "person-hunayn-ibn-ishaq",
+    "person-ibn-battuta",
     "person-ibn-sina",
     "person-ida-b-wells",
     "person-isaac-newton",
@@ -854,6 +860,7 @@
     "person-kate-sheppard",
     "person-kim-dae-jung",
     "person-liliuokalani",
+    "person-louis-riel",
     "person-mansa-musa",
     "person-maria-sibylla-merian",
     "person-marie-curie",
@@ -865,6 +872,7 @@
     "person-rachel-carson",
     "person-salote-tupou-iii",
     "person-sarah-winnemucca",
+    "person-sei-shonagon",
     "person-sequoyah",
     "person-simon-bolivar",
     "person-sor-juana",
@@ -873,6 +881,7 @@
     "person-te-puea-herangi",
     "person-toussaint",
     "person-tsuda-umeko",
+    "person-ulugh-beg",
     "person-vaclav-havel",
     "person-xuanzang",
     "person-yosano-akiko",
@@ -1440,7 +1449,6 @@
     "pulemelei-settlement-landscape",
     "person-hypatia",
     "person-al-khwarizmi",
-    "person-ibn-battuta",
     "person-zheng-he",
     "person-tupaia",
     "person-gandhi",
@@ -1457,7 +1465,6 @@
     "person-ibrahim-njoya",
     "person-wonhyo",
     "person-seondeok",
-    "person-sei-shonagon",
     "person-zanabazar",
     "person-yu-gwan-sun",
     "person-shin-saimdang",
@@ -1472,14 +1479,11 @@
     "person-rokeya",
     "person-sirimavo-bandaranaike",
     "person-enheduanna",
-    "person-hunayn-ibn-ishaq",
     "person-al-biruni",
-    "person-ulugh-beg",
     "person-abai",
     "person-tahirih",
     "person-soraya-tarzi",
     "person-nazik-al-malaika",
-    "person-louis-riel",
     "person-wilma-mankiller",
     "person-mary-two-axe-earley",
     "person-viola-desmond",
@@ -1605,7 +1609,6 @@
     "china-landmark-479",
     "china-landmark-286",
     "china-event-qin-009",
-    "china-landmark-292",
     "china-landmark-293",
     "china-landmark-288",
     "china-landmark-112",
@@ -1620,7 +1623,6 @@
     "china-landmark-300",
     "china-landmark-301",
     "china-landmark-302",
-    "china-event-xihan-010",
     "china-landmark-303",
     "china-landmark-518",
     "china-event-xihan-011",
@@ -1988,7 +1990,6 @@
     "china-landmark-219",
     "china-landmark-417",
     "china-landmark-418",
-    "china-landmark-504",
     "china-event-ming-030",
     "china-landmark-420",
     "china-landmark-449",
@@ -2002,7 +2003,6 @@
     "china-landmark-217",
     "china-landmark-082",
     "china-event-ming-039",
-    "china-landmark-025",
     "china-event-qing-001",
     "china-landmark-071",
     "china-landmark-131",
@@ -2099,15 +2099,15 @@
   ],
   "target": 1044,
   "targetMet": false,
-  "remaining": 85,
+  "remaining": 76,
   "regions": {
     "africa": {
       "total": 136,
-      "covered": 52
+      "covered": 53
     },
     "east-asia": {
       "total": 1216,
-      "covered": 590
+      "covered": 595
     },
     "europe": {
       "total": 122,
@@ -2119,7 +2119,7 @@
     },
     "north-america": {
       "total": 123,
-      "covered": 45
+      "covered": 46
     },
     "oceania": {
       "total": 89,
@@ -2135,19 +2135,19 @@
     },
     "west-central-asia": {
       "total": 111,
-      "covered": 46
+      "covered": 48
     }
   },
   "types": {
     "ancient-portrait": 2,
     "ancient-royal-image": 2,
-    "document-facsimile": 39,
-    "historical-artwork": 77,
-    "historical-photograph": 85,
+    "document-facsimile": 42,
+    "historical-artwork": 78,
+    "historical-photograph": 86,
     "historical-portrait": 31,
     "later-depiction": 67,
     "lifetime-portrait": 18,
-    "manuscript-detail": 37,
+    "manuscript-detail": 38,
     "modern-memorial": 1,
     "object-photograph": 119,
     "site-photograph": 52
@@ -2406,6 +2406,27 @@
       "associations": 0
     },
     {
+      "file": "visual-assets-exact-12-v18.json",
+      "bytes": 5864,
+      "sha256": "13ec2960ba7042522beae689780d9ce4f360af7463c9f43e696f34eddf567a09",
+      "assets": 2,
+      "associations": 0
+    },
+    {
+      "file": "visual-assets-exact-13-v18.json",
+      "bytes": 8285,
+      "sha256": "b1d2627198d1ff3de8dbd52e85f1693e36852b8f32a160425bca79480e168d70",
+      "assets": 3,
+      "associations": 0
+    },
+    {
+      "file": "visual-assets-exact-14-v18.json",
+      "bytes": 3264,
+      "sha256": "ca949271de01ec56dcb05fc6145d0f5fa880a70869143f4f1d42339324b88390",
+      "assets": 1,
+      "associations": 0
+    },
+    {
       "file": "visual-assets-exact-links-09-v18.json",
       "bytes": 11891,
       "sha256": "45674bad4ee0587b8792b6a6ac408aa53b593ced7c415a850d603434934a1f11",
@@ -2418,6 +2439,13 @@
       "sha256": "cab852b47e0f8eaaa8df948a2cfa0d8739f0539c3154e8f4866b03638cd8d5c9",
       "assets": 0,
       "associations": 5
+    },
+    {
+      "file": "visual-assets-exact-links-11-v18.json",
+      "bytes": 2392,
+      "sha256": "bb2b961c9a9825a04e2d6125f9df17f2c20f9a492f930ba8fe65a6b71480e87b",
+      "assets": 0,
+      "associations": 3
     },
     {
       "file": "visual-assets-existing-links-01-v18.json",
@@ -2700,6 +2728,6 @@
       "associations": 0
     }
   ],
-  "assetBytes": 100874442,
+  "assetBytes": 102358797,
   "verification": "All admitted files match their SHA-256, byte count and encoded dimensions. Source identity, reuse rights, pixel review and entry relevance require the individual editorial records; structural validation does not establish those facts."
 }

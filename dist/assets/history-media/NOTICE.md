@@ -1,6 +1,6 @@
 # Historical images: credits and reuse
 
-Reviewed 2026-11-13. 530 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
+Reviewed 2026-11-13. 536 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
 
 Historical artifacts, surviving places and later depictions retain their source identities. No generated reconstructions are included in this catalogue.
 
@@ -3671,6 +3671,90 @@ Official image saved unchanged.
 Official item page marks the image Public Domain; the Met API confirms isPublicDomain=true.
 
 Official image saved unchanged.
+
+## Hunayn’s Latin afterlife: text and marginal notes / 侯奈因的拉丁文传播：正文与边注
+
+- File: exact-12-wellcome-ms390.jpg
+- Creator: Unrecorded scribe; text attributed to Johannitius
+- Date: Early 14th century
+- Collection: Wellcome Collection
+- Source: https://wellcomecollection.org/works/tchdej3s
+- Rights: Public Domain Mark (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://iiif.wellcomecollection.org/presentation/v2/b19694593
+
+The item’s digital location and IIIF manifest mark the images Public Domain; the manifest explicitly permits reuse, including commercial reuse.
+
+Official IIIF derivative saved unchanged, retaining the page edges and existing photographic crop.
+
+## Plant forms in a later Bencao Gangmu edition / 后世《本草纲目》版本中的植物形态
+
+- File: exact-12-wellcome-l0022166.jpg
+- Creator: Illustrators and photographer unrecorded; work compiled by Li Shizhen
+- Date: 1883 edition; photograph undated
+- Collection: Wellcome Collection
+- Source: https://wellcomecollection.org/works/uze9zqva
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://api.wellcomecollection.org/catalogue/v2/works/uze9zqva?include=items
+
+Wellcome’s item-specific image record assigns CC BY 4.0 and requests credit to Wellcome Collection. Image unchanged.
+
+Official IIIF derivative saved unchanged, retaining the page edges and existing photographic crop.
+
+## Ulugh Beg in a London edition / 伦敦刊本中的兀鲁伯
+
+- File: exact-13-wellcome-mvr8ww4a.jpg
+- Creator: John Greaves, editor and commentator
+- Date: 1650
+- Collection: Wellcome Collection
+- Source: https://wellcomecollection.org/works/mvr8ww4a
+- Rights: Public Domain Mark (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://iiif.wellcomecollection.org/presentation/v2/b10178612
+
+The item’s full IIIF manifest explicitly marks the work Public Domain and permits commercial and noncommercial reuse.
+
+Official image saved unchanged, retaining stamps and page margins.
+
+## An abridgment travels into English / 节本进入英语世界
+
+- File: exact-13-wellcome-u3vz2zun.jpg
+- Creator: Samuel Lee, translator
+- Date: 1829
+- Collection: Royal College of Physicians, via Wellcome Collection
+- Source: https://wellcomecollection.org/works/u3vz2zun
+- Rights: Public Domain Mark (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://iiif.wellcomecollection.org/presentation/v2/b28406084
+
+The item’s full IIIF manifest explicitly marks the work Public Domain and permits commercial and noncommercial reuse.
+
+Official image saved unchanged, retaining stamps and page margins.
+
+## Riel among the provisional government’s councillors / 临时政府议员中的里尔
+
+- File: exact-13-lakehead-14776.jpg
+- Creator: Photographer unrecorded
+- Date: 1870
+- Collection: Archives & Digital Collections at Lakehead University Library
+- Source: https://digitalcollections.lakeheadu.ca/items/show/14776
+- Rights: Public Domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://digitalcollections.lakeheadu.ca/items/show/14776
+
+The archive’s exact item record explicitly states Public domain.
+
+Official fullsize derivative saved unchanged, including handwritten mark and margins.
+
+## Sei Shōnagon raises a blind / 清少纳言卷起帘子
+
+- File: exact-14-colbase-a952.jpg
+- Creator: Tosa Mitsuoki
+- Date: Edo period, 17th century
+- Collection: Tokyo National Museum
+- Source: https://colbase.nich.go.jp/collection_items/tnm/A-952?locale=en
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Rights evidence: https://colbase.nich.go.jp/pages/term?locale=en
+
+ColBase permits commercial reuse with source citation and states its terms are compatible with CC BY 4.0. The official item ZIP repeats the reuse permission and identifies this museum-held seventeenth-century work; no third-party restriction is indicated.
+
+Official display derivative saved unchanged; complete composition retained. The larger original ZIP remains research evidence.
 
 ## The coronation remembered in 1840 / 1840年画中的查理曼加冕
 

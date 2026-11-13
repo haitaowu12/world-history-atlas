@@ -1,0 +1,249 @@
+{
+  "sourceEvidence": [
+    {
+      "assetId": "exact-13-wellcome-mvr8ww4a",
+      "recordId": "person-ulugh-beg",
+      "pixelReviewed": true,
+      "rightsEvidenceUrl": "https://iiif.wellcomecollection.org/presentation/v2/b10178612",
+      "bytes": 164902,
+      "width": 791,
+      "height": 1024,
+      "sha256": "4ca8f83e8cd9be4438ca4c39cbbac85c40cfcdb8e213d96a883e00bc0ab676a5"
+    },
+    {
+      "assetId": "exact-13-wellcome-u3vz2zun",
+      "recordId": "person-ibn-battuta",
+      "pixelReviewed": true,
+      "rightsEvidenceUrl": "https://iiif.wellcomecollection.org/presentation/v2/b28406084",
+      "bytes": 135765,
+      "width": 673,
+      "height": 1024,
+      "sha256": "11582bddbd582c98f4e817de3f6ffc81d0f641cd60af76af90eae522770c309c"
+    },
+    {
+      "assetId": "exact-13-lakehead-14776",
+      "recordId": "person-louis-riel",
+      "pixelReviewed": true,
+      "rightsEvidenceUrl": "https://digitalcollections.lakeheadu.ca/items/show/14776",
+      "bytes": 649963,
+      "width": 1000,
+      "height": 601,
+      "sha256": "403d9da3dcc8c50514dcb5263e23323928cb98463eeb75debc3d78b94a20f001"
+    }
+  ],
+  "admittedAssets": [
+    {
+      "id": "exact-13-wellcome-mvr8ww4a",
+      "recordIds": [
+        "person-ulugh-beg"
+      ],
+      "kind": "document",
+      "representation": "document-facsimile",
+      "title": {
+        "en": "Ulugh Beg in a London edition",
+        "zh": "伦敦刊本中的兀鲁伯"
+      },
+      "alt": {
+        "en": "A bordered title page uses large Latin capitals, naming Ulug Beigi and Johannes Gravius above a London imprint dated 1650.",
+        "zh": "带边框的扉页使用大型拉丁字母，在1650年伦敦出版信息上方列出Ulug Beigi与Johannes Gravius之名。"
+      },
+      "caption": {
+        "en": "Epochae celebriores, edited and annotated by John Greaves, London, 1650; title page. Wellcome Collection.",
+        "zh": "《著名纪元》，约翰·格里夫斯编辑并注释，伦敦，1650年；扉页。惠康收藏。"
+      },
+      "interpretation": {
+        "en": "This Persian-and-Latin edition makes a later stage of transmission visible through its editor, languages and imprint. It is not a manuscript from Ulugh Beg’s observatory.",
+        "zh": "此波斯文与拉丁文版本以编辑、语言及出版信息展现后世传播的一环，并非兀鲁伯天文台的手稿。"
+      },
+      "creator": "John Greaves, editor and commentator",
+      "date": "1650",
+      "institution": "Wellcome Collection",
+      "credit": "Wellcome Collection",
+      "file": "assets/history-media/exact-13-wellcome-mvr8ww4a.jpg",
+      "imageUrl": "https://iiif.wellcomecollection.org/image/b10178612_hin-wel-all-00011192_0254.jp2/full/791,1024/0/default.jpg",
+      "downloadedFrom": "https://iiif.wellcomecollection.org/image/b10178612_hin-wel-all-00011192_0254.jp2/full/791,1024/0/default.jpg",
+      "sourceUrl": "https://wellcomecollection.org/works/mvr8ww4a",
+      "rightsSourceUrl": "https://iiif.wellcomecollection.org/presentation/v2/b10178612",
+      "rights": {
+        "label": "Public Domain Mark",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "note": {
+          "en": "The item’s full IIIF manifest explicitly marks the work Public Domain and permits commercial and noncommercial reuse.",
+          "zh": "单件完整IIIF清单明确标为公共领域，允许商业及非商业再利用。"
+        }
+      },
+      "transformation": {
+        "en": "Official image saved unchanged, retaining stamps and page margins.",
+        "zh": "原样保存官方图像，保留印章与纸边。"
+      },
+      "checkedAt": "2026-11-13",
+      "width": 791,
+      "height": 1024,
+      "bytes": 164902,
+      "sha256": "4ca8f83e8cd9be4438ca4c39cbbac85c40cfcdb8e213d96a883e00bc0ab676a5"
+    },
+    {
+      "id": "exact-13-wellcome-u3vz2zun",
+      "recordIds": [
+        "person-ibn-battuta"
+      ],
+      "kind": "document",
+      "representation": "document-facsimile",
+      "title": {
+        "en": "An abridgment travels into English",
+        "zh": "节本进入英语世界"
+      },
+      "alt": {
+        "en": "An English title page reads The Travels of Ibn Batuta, with translator Samuel Lee’s name, a circular library stamp and the date 1829.",
+        "zh": "英文扉页写有《伊本·白图泰游记》、译者塞缪尔·李之名、圆形图书馆印章及1829年。"
+      },
+      "caption": {
+        "en": "The Travels of Ibn Batuta, translated by Samuel Lee, London, 1829; title page. Royal College of Physicians, digitized through Wellcome Collection.",
+        "zh": "《伊本·白图泰游记》，塞缪尔·李译，伦敦，1829年；扉页。皇家内科医师学会藏，经惠康收藏数字化提供。"
+      },
+      "interpretation": {
+        "en": "The title explicitly identifies abridged Arabic manuscript copies as the basis of the translation. It records later mediation, not a complete or unedited travel diary.",
+        "zh": "扉页明确说明译本依据阿拉伯文节本手稿，记录的是后世转译，而非完整、未经编辑的旅行日记。"
+      },
+      "creator": "Samuel Lee, translator",
+      "date": "1829",
+      "institution": "Royal College of Physicians, via Wellcome Collection",
+      "credit": "Royal College of Physicians, via Wellcome Collection",
+      "file": "assets/history-media/exact-13-wellcome-u3vz2zun.jpg",
+      "imageUrl": "https://iiif.wellcomecollection.org/image/b28406084_0011.jp2/full/673,1024/0/default.jpg",
+      "downloadedFrom": "https://iiif.wellcomecollection.org/image/b28406084_0011.jp2/full/673,1024/0/default.jpg",
+      "sourceUrl": "https://wellcomecollection.org/works/u3vz2zun",
+      "rightsSourceUrl": "https://iiif.wellcomecollection.org/presentation/v2/b28406084",
+      "rights": {
+        "label": "Public Domain Mark",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "note": {
+          "en": "The item’s full IIIF manifest explicitly marks the work Public Domain and permits commercial and noncommercial reuse.",
+          "zh": "单件完整IIIF清单明确标为公共领域，允许商业及非商业再利用。"
+        }
+      },
+      "transformation": {
+        "en": "Official image saved unchanged, retaining stamps and page margins.",
+        "zh": "原样保存官方图像，保留印章与纸边。"
+      },
+      "checkedAt": "2026-11-13",
+      "width": 673,
+      "height": 1024,
+      "bytes": 135765,
+      "sha256": "11582bddbd582c98f4e817de3f6ffc81d0f641cd60af76af90eae522770c309c"
+    },
+    {
+      "id": "exact-13-lakehead-14776",
+      "recordIds": [
+        "person-louis-riel"
+      ],
+      "kind": "photograph",
+      "representation": "historical-photograph",
+      "title": {
+        "en": "Riel among the provisional government’s councillors",
+        "zh": "临时政府议员中的里尔"
+      },
+      "alt": {
+        "en": "A black-and-white group photograph shows men seated and standing in rows, with a dark handwritten mark above the central seated man.",
+        "zh": "黑白合影中，男子分排站立或就座，中央坐着的男子上方留有深色手写标记。"
+      },
+      "caption": {
+        "en": "Louis Riel and companions, 1870; councillors of the Métis provisional government. Lakehead University Library, General Archives–88c.",
+        "zh": "《路易·里尔与同伴》，1870年；梅蒂斯人临时政府议员。湖首大学图书馆，General Archives–88c。"
+      },
+      "interpretation": {
+        "en": "The archive identifies Riel at the centre. The group setting places leadership beside fellow councillors; the handwritten mark belongs to this surviving photographic copy.",
+        "zh": "档案将中央人物识别为里尔。群体构图把领导者与其他议员并置；手写标记是这份存世照片副本的一部分。"
+      },
+      "creator": "Photographer unrecorded",
+      "date": "1870",
+      "institution": "Archives & Digital Collections at Lakehead University Library",
+      "credit": "Archives & Digital Collections at Lakehead University Library, General Archives–88c",
+      "file": "assets/history-media/exact-13-lakehead-14776.jpg",
+      "imageUrl": "https://digitalcollections.lakeheadu.ca/files/fullsize/44049c842030fd562cbebca86fcd6923.jpg",
+      "downloadedFrom": "https://digitalcollections.lakeheadu.ca/files/fullsize/44049c842030fd562cbebca86fcd6923.jpg",
+      "sourceUrl": "https://digitalcollections.lakeheadu.ca/items/show/14776",
+      "rightsSourceUrl": "https://digitalcollections.lakeheadu.ca/items/show/14776",
+      "rights": {
+        "label": "Public Domain",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "note": {
+          "en": "The archive’s exact item record explicitly states Public domain.",
+          "zh": "档案馆此单件记录明确注明公共领域。"
+        }
+      },
+      "transformation": {
+        "en": "Official fullsize derivative saved unchanged, including handwritten mark and margins.",
+        "zh": "原样保存官方fullsize衍生图，包括手写标记及边缘。"
+      },
+      "checkedAt": "2026-11-13",
+      "width": 1000,
+      "height": 601,
+      "bytes": 649963,
+      "sha256": "403d9da3dcc8c50514dcb5263e23323928cb98463eeb75debc3d78b94a20f001"
+    }
+  ],
+  "summaryChanges": [
+    {
+      "recordId": "person-ulugh-beg",
+      "before": {
+        "en": "Ulugh Beg combined Timurid political authority with sustained interest in mathematical astronomy. The observatory associated with his court in Samarkand relied on several scholars, instruments, observations and calculations. Naming one ruler should not hide the work of colleagues such as al-Kashi and Qadi Zada or the institutional resources that made the project possible.\n\nA star catalogue and astronomical tables were tools for subsequent calculation and comparison, not simply monuments to personal prestige. The conventional 1437 catalogue date supplies a useful anchor, while particular revisions and later circulation require more detailed textual study. Reading the biography with the existing observatory entry connects an individual with a place without duplicating its site history. His violent political end also warns against assuming that scholarly achievement guaranteed stable dynastic rule.",
+        "zh": "兀鲁伯把帖木儿政治权威与对数学天文的持续兴趣结合起来。撒马尔罕宫廷相关的天文台依赖多位学者、仪器、观测和计算。以一位统治者命名，不应遮蔽卡西、卡迪扎德等同事的工作，以及使计划成为可能的制度资源。\n\n星表和天文表是后来计算、比较的工具，不只是个人声望的纪念物。惯用的1437年星表日期提供锚点，但具体修订与后续传播需要更细的文本研究。与已有天文台条目并读，可连接人物与地点而不重复遗址史。其暴力性的政治结局也提醒我们，学术成就不能保证王朝稳定。"
+      },
+      "after": {
+        "en": "Ulugh Beg combined Timurid political authority with an interest in mathematical astronomy. His court’s observatory in Samarkand brought together scholars including al-Kashi and Qadi Zada, instruments and repeated calculations. Its star catalogue and astronomical tables supported later observation and comparison.\n\nJohn Greaves published Epochae celebriores in London in 1650, drawing on chronology transmitted under Ulugh Beg’s name. The Persian-and-Latin edition names Greaves as editor and commentator: a surviving stage in the work’s passage from a Timurid scholarly setting to European readers.",
+        "zh": "兀鲁伯把帖木儿政治权威与对数学天文的兴趣结合起来。撒马尔罕宫廷的天文台汇集卡西、卡迪扎德等学者，使用仪器并反复计算。星表与天文表为后世观测和比较提供工具。\n\n约翰·格里夫斯1650年在伦敦刊行《著名纪元》，依据以兀鲁伯之名传承的年代学材料。波斯文与拉丁文版本列明格里夫斯的编辑与注释角色，保存了知识从帖木儿学术环境进入欧洲读者世界的一个环节。"
+      },
+      "rationale": "Identify a specific later edition and its editorial mediation, not an original manuscript. Replace generic framing with concrete historical and material detail.",
+      "source": {
+        "title": "Ulugh Beg in a London edition",
+        "url": "https://wellcomecollection.org/works/mvr8ww4a",
+        "publisher": "Wellcome Collection",
+        "evidenceNote": "This Persian-and-Latin edition makes a later stage of transmission visible through its editor, languages and imprint. It is not a manuscript from Ulugh Beg’s observatory.",
+        "checkedAt": "2026-11-13",
+        "retrieval": "official-item-api-and-iiif-manifest"
+      }
+    },
+    {
+      "recordId": "person-ibn-battuta",
+      "before": {
+        "en": "Ibn Battuta left Tangier on pilgrimage in 1325 and continued travelling for many years through Africa and Asia. Legal training and shared religious institutions helped him find hospitality and employment, including service in Delhi. His experiences expose networks of scholars, merchants, pilgrims, rulers, and enslaved people rather than an empty world waiting to be discovered. After returning to Morocco, he related his travels to Ibn Juzayy, who shaped them into the Rihla. That collaboration matters: this is a retrospective literary narrative, and parts of its itinerary are disputed. It remains a rich starting point for asking what travellers observed, what they misunderstood, and how their expectations influenced the worlds they described.",
+        "zh": "伊本·白图泰于1325年离开丹吉尔朝觐，此后多年游历非洲与亚洲。法律知识和共同的宗教制度帮助他获得接待与工作，包括在德里任职。他的经历展示学者、商人、朝觐者、统治者与被奴役者的网络，而不是等待被“发现”的空白世界。回到摩洛哥后，他向伊本·朱扎伊口述经历，由后者整理成《游记》。这种合作十分重要：文本是回顾性的文学叙事，部分行程存在争议。它仍是思考旅行者看见了什么、误解了什么，以及期待如何影响描述的重要起点。"
+      },
+      "after": {
+        "en": "Ibn Battuta left Tangier on pilgrimage in 1325 and travelled for many years through Africa and Asia. Legal training and religious institutions helped him find hospitality and employment, including service in Delhi. His travels passed through networks of scholars, merchants, pilgrims, rulers and enslaved people. Back in Morocco, he related his experiences to Ibn Juzayy, who shaped them into the Rihla. The resulting account is retrospective and literary; parts of its itinerary are disputed.\n\nSamuel Lee’s 1829 English title page identifies abridged Arabic manuscripts at Cambridge as the basis of his translation. The catalogue attributes the abridgment to Muhammad ibn Fath Allah al-Bayluni. The page makes an editorial chain visible: oral recollection, compilation, abridgment and translation.",
+        "zh": "伊本·白图泰于1325年离开丹吉尔朝觐，此后多年游历非洲与亚洲。法律知识和宗教制度帮助他获得接待与工作，包括在德里任职。旅途穿过由学者、商人、朝觐者、统治者和被奴役者组成的网络。回到摩洛哥后，他向伊本·朱扎伊口述经历，由后者整理成《游记》。这一回顾性文学叙事的部分行程仍有争议。\n\n塞缪尔·李1829年英译本的扉页说明，翻译依据剑桥所藏阿拉伯文节本手稿，目录将节本归于穆罕默德·伊本·法特赫·阿拉·拜卢尼。这一页呈现口述、编纂、节编与翻译相继发生的传播过程。"
+      },
+      "rationale": "Identify a specific later edition and its editorial mediation, not an original manuscript. Replace generic framing with concrete historical and material detail.",
+      "source": {
+        "title": "An abridgment travels into English",
+        "url": "https://wellcomecollection.org/works/u3vz2zun",
+        "publisher": "Royal College of Physicians, via Wellcome Collection",
+        "evidenceNote": "The title explicitly identifies abridged Arabic manuscript copies as the basis of the translation. It records later mediation, not a complete or unedited travel diary.",
+        "checkedAt": "2026-11-13",
+        "retrieval": "official-item-api-and-iiif-manifest"
+      }
+    },
+    {
+      "recordId": "person-louis-riel",
+      "before": {
+        "en": "Louis Riel became a spokesman for Métis resistance when Canadian expansion threatened Red River’s landholding and political arrangements. He headed a provisional government after the occupation of Upper Fort Garry in 1869. Negotiations helped establish Manitoba in 1870, but the settlement did not prevent conflict, displacement or the failure to secure all promised protections.\n\nRiel’s career also involved the provisional government’s execution of Thomas Scott, exile in the United States and a return to the North-West in 1884. In 1885 he led resistance connected with Métis land grievances and was convicted and executed for treason. Different communities have interpreted his actions differently. His life joins constitutional negotiation to the social history of a people whose institutions existed before Canada’s claim to administer their homeland.",
+        "zh": "加拿大扩张威胁红河地区的土地与政治安排时，路易·里尔成为梅蒂斯抵抗的发言人。1869年上加里堡被占后，他领导临时政府。协商促成1870年马尼托巴省建立，但没有阻止冲突、迁离或承诺保护未能落实。\n\n他的生涯还涉及临时政府处决托马斯·斯科特、流亡美国，以及1884年返回西北地区。1885年，他领导与梅蒂斯土地不满有关的抵抗，随后以叛国罪被定罪并处决。不同社群对其行动有不同解释。他的一生把宪制协商同梅蒂斯社会史相连：加拿大提出行政主张之前，这个民族已拥有自己的制度。"
+      },
+      "after": {
+        "en": "Louis Riel became a spokesman for Métis resistance when Canadian expansion threatened Red River’s landholding and political arrangements. He headed a provisional government after the occupation of Upper Fort Garry in 1869. Negotiations helped establish Manitoba in 1870, but the settlement did not prevent conflict, displacement or the failure to secure all promised protections.\n\nRiel’s career also involved the provisional government’s execution of Thomas Scott, exile in the United States and a return to the North-West in 1884. In 1885 he led resistance connected with Métis land grievances and was convicted and executed for treason.\n\nAn 1870 group photograph preserved at Lakehead University places Riel among the provisional government’s councillors. Seated and standing figures share the frame; the archive identifies Riel at the centre.",
+        "zh": "加拿大扩张威胁红河地区的土地与政治安排时，路易·里尔成为梅蒂斯抵抗的发言人。1869年上加里堡被占后，他领导临时政府。协商促成1870年马尼托巴省建立，但没有阻止冲突、迁离或承诺保护未能落实。\n\n他的生涯还涉及临时政府处决托马斯·斯科特、流亡美国，以及1884年返回西北地区。1885年，他领导与梅蒂斯土地不满有关的抵抗，随后以叛国罪被定罪并处决。\n\n湖首大学保存的一张1870年合影，将里尔置于临时政府议员之中。站立与就座的人物共同组成画面，档案将中央人物识别为里尔。"
+      },
+      "rationale": "Add an exact contemporary group portrait with institutional identification. Replace generic framing with concrete historical and material detail.",
+      "source": {
+        "title": "Louis Riel and companions",
+        "url": "https://digitalcollections.lakeheadu.ca/items/show/14776",
+        "publisher": "Archives & Digital Collections at Lakehead University Library",
+        "evidenceNote": "Archive dates photograph to 1870 and identifies Riel centrally among provisional-government councillors.",
+        "checkedAt": "2026-11-13",
+        "retrieval": "official-page-opened"
+      }
+    }
+  ],
+  "ownerDecision": "Later title pages illuminate named editorial transmission, not author portraits or original manuscripts. Riel group image is a contemporary 1870 photograph. Rights-conflict candidates excluded. Generic biography framing shortened while retaining relevant political and source qualifications."
+}

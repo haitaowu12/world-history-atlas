@@ -1,0 +1,190 @@
+{
+  "sourceEvidence": [
+    {
+      "assetId": "exact-12-wellcome-ms390",
+      "recordId": "person-hunayn-ibn-ishaq",
+      "source": {
+        "title": "Hunayn’s Latin afterlife: text and marginal notes",
+        "url": "https://wellcomecollection.org/works/tchdej3s",
+        "publisher": "Wellcome Collection",
+        "evidenceNote": "Red headings and marginal annotations show a later setting for reading a medical text transmitted under Hunayn’s Latin name. This medieval copy is centuries later than Hunayn, not his handwriting.",
+        "checkedAt": "2026-11-13",
+        "retrieval": "official-item-api-and-iiif-manifest"
+      },
+      "itemSpecificRights": "Public Domain Mark",
+      "rightsEvidenceUrl": "https://iiif.wellcomecollection.org/presentation/v2/b19694593",
+      "pixelReviewed": true,
+      "bytes": 237973,
+      "width": 712,
+      "height": 1024,
+      "sha256": "550f45f59ba6aed2b8e40b1d3b05d4bdec4719663f3b709d005f26aabace3e31"
+    },
+    {
+      "assetId": "exact-12-wellcome-l0022166",
+      "recordId": "china-landmark-504",
+      "source": {
+        "title": "Plant forms in a later Bencao Gangmu edition",
+        "url": "https://wellcomecollection.org/works/uze9zqva",
+        "publisher": "Wellcome Collection",
+        "evidenceNote": "The page organizes plants as labelled visual comparisons. This nineteenth-century edition shows the work’s continued circulation after its first publication in 1596, rather than the manuscript completed by Li Shizhen.",
+        "checkedAt": "2026-11-13",
+        "retrieval": "official-item-api-and-iiif-manifest"
+      },
+      "itemSpecificRights": "CC BY 4.0",
+      "rightsEvidenceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/uze9zqva?include=items",
+      "pixelReviewed": true,
+      "bytes": 239102,
+      "width": 650,
+      "height": 1024,
+      "sha256": "304a396eb1d0678cd9bad69dbb966f62c9ad0b8c1166e59355bce55acd73ed87"
+    }
+  ],
+  "admittedAssets": [
+    {
+      "id": "exact-12-wellcome-ms390",
+      "recordIds": [
+        "person-hunayn-ibn-ishaq"
+      ],
+      "kind": "manuscript",
+      "representation": "manuscript-detail",
+      "title": {
+        "en": "Hunayn’s Latin afterlife: text and marginal notes",
+        "zh": "侯奈因的拉丁文传播：正文与边注"
+      },
+      "alt": {
+        "en": "A vellum leaf carries dense dark Gothic lettering, large red initials and smaller handwritten notes along the margins.",
+        "zh": "羊皮纸页上密布深色哥特字体，有大型红色首字母，页边另有较小手写注释。"
+      },
+      "caption": {
+        "en": "Isagoge in Tegni Galeni, attributed to Johannitius (Hunayn ibn Ishaq); early-fourteenth-century manuscript, Wellcome MS.390, leaf 1r.",
+        "zh": "《盖伦医术导论》，归于约翰尼提乌斯（侯奈因·伊本·伊斯哈格）；十四世纪初手稿，惠康MS.390，第1叶正面。"
+      },
+      "interpretation": {
+        "en": "Red headings and marginal annotations show a later setting for reading a medical text transmitted under Hunayn’s Latin name. This medieval copy is centuries later than Hunayn, not his handwriting.",
+        "zh": "红色标题和边注呈现以侯奈因拉丁名传播的医学文本如何被后世阅读。此中世纪抄本比侯奈因晚数百年，并非他的手迹。"
+      },
+      "creator": "Unrecorded scribe; text attributed to Johannitius",
+      "date": "Early 14th century",
+      "institution": "Wellcome Collection",
+      "credit": "Wellcome Collection",
+      "file": "assets/history-media/exact-12-wellcome-ms390.jpg",
+      "imageUrl": "https://iiif.wellcomecollection.org/image/b19694593_MS_390_0005.JP2/full/712,1024/0/default.jpg",
+      "downloadedFrom": "https://iiif.wellcomecollection.org/image/b19694593_MS_390_0005.JP2/full/712,1024/0/default.jpg",
+      "sourceUrl": "https://wellcomecollection.org/works/tchdej3s",
+      "rightsSourceUrl": "https://iiif.wellcomecollection.org/presentation/v2/b19694593",
+      "width": 712,
+      "height": 1024,
+      "bytes": 237973,
+      "sha256": "550f45f59ba6aed2b8e40b1d3b05d4bdec4719663f3b709d005f26aabace3e31",
+      "rights": {
+        "label": "Public Domain Mark",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "note": {
+          "en": "The item’s digital location and IIIF manifest mark the images Public Domain; the manifest explicitly permits reuse, including commercial reuse.",
+          "zh": "单件数字位置及IIIF清单将图像标为公共领域；清单明确允许包括商业用途的再利用。"
+        }
+      },
+      "transformation": {
+        "en": "Official IIIF derivative saved unchanged, retaining the page edges and existing photographic crop.",
+        "zh": "原样保存官方IIIF衍生图，保留纸边与原有摄影取景。"
+      },
+      "checkedAt": "2026-11-13"
+    },
+    {
+      "id": "exact-12-wellcome-l0022166",
+      "recordIds": [
+        "china-landmark-504"
+      ],
+      "kind": "document",
+      "representation": "document-facsimile",
+      "title": {
+        "en": "Plant forms in a later Bencao Gangmu edition",
+        "zh": "后世《本草纲目》版本中的植物形态"
+      },
+      "alt": {
+        "en": "Four rectangular panels on a yellowed book page show leafy plants with bulbs, roots and flowers, each accompanied by Chinese characters.",
+        "zh": "泛黄书页以四个矩形栏展示带叶、鳞茎、根或花的植物，各栏附有汉字。"
+      },
+      "caption": {
+        "en": "Plant illustrations from an 1883 edition of Li Shizhen’s Bencao Gangmu; Wellcome Collection, L0022166. Photograph supplied under CC BY 4.0.",
+        "zh": "李时珍《本草纲目》1883年版本中的植物图；惠康收藏L0022166。照片依CC BY 4.0提供。"
+      },
+      "interpretation": {
+        "en": "The page organizes plants as labelled visual comparisons. This nineteenth-century edition shows the work’s continued circulation after its first publication in 1596, rather than the manuscript completed by Li Shizhen.",
+        "zh": "此页以带标签的图栏组织植物比较。十九世纪版本展现著作自1596年首刊后的持续流传，而非李时珍完成的原稿。"
+      },
+      "creator": "Illustrators and photographer unrecorded; work compiled by Li Shizhen",
+      "date": "1883 edition; photograph undated",
+      "institution": "Wellcome Collection",
+      "credit": "Wellcome Collection",
+      "file": "assets/history-media/exact-12-wellcome-l0022166.jpg",
+      "imageUrl": "https://iiif.wellcomecollection.org/image/L0022166/full/650,1024/0/default.jpg",
+      "downloadedFrom": "https://iiif.wellcomecollection.org/image/L0022166/full/650,1024/0/default.jpg",
+      "sourceUrl": "https://wellcomecollection.org/works/uze9zqva",
+      "rightsSourceUrl": "https://api.wellcomecollection.org/catalogue/v2/works/uze9zqva?include=items",
+      "width": 650,
+      "height": 1024,
+      "bytes": 239102,
+      "sha256": "304a396eb1d0678cd9bad69dbb966f62c9ad0b8c1166e59355bce55acd73ed87",
+      "rights": {
+        "label": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/",
+        "note": {
+          "en": "Wellcome’s item-specific image record assigns CC BY 4.0 and requests credit to Wellcome Collection. Image unchanged.",
+          "zh": "惠康单件图像记录指定CC BY 4.0，并要求署名惠康收藏。图像未经更改。"
+        }
+      },
+      "transformation": {
+        "en": "Official IIIF derivative saved unchanged, retaining the page edges and existing photographic crop.",
+        "zh": "原样保存官方IIIF衍生图，保留纸边与原有摄影取景。"
+      },
+      "checkedAt": "2026-11-13"
+    }
+  ],
+  "summaryChanges": [
+    {
+      "recordId": "person-hunayn-ibn-ishaq",
+      "before": {
+        "en": "Hunayn ibn Ishaq was a Christian scholar whose translation and medical work linked Greek, Syriac and Arabic learned traditions. His activity involved the comparison of texts and collaboration with pupils and associates, including his son Ishaq. A translation could be revised or transmitted through another language before reaching the version known to later readers.\n\nThe history therefore requires attention to particular works and uncertain attributions, rather than treating every later medical text as his direct product. His contribution sits within a larger network of patrons, physicians and readers. Linking this biography to the Abbasid and translation entries makes intellectual exchange a form of sustained labor. It also shows that religious diversity and cooperation existed within scholarly settings without implying that social relations were universally equal or free of conflict.",
+        "zh": "侯奈因·伊本·伊斯哈格是一位基督教学者，其翻译和医学工作连接希腊语、叙利亚语和阿拉伯语的学问传统。活动涉及文本比较，也涉及与学生、同事及其子伊斯哈格合作。译本可能经过修订或另一语言中转，才成为后世读者所知的版本。\n\n因此需要关注具体作品和不确定的译者归属，不能把后来的每部医学文本都视为他直接完成。他的贡献位于资助者、医生和读者构成的更大网络。与阿拔斯、翻译运动条目相连，可把思想交换理解为持续劳动，也显示学术环境中的宗教多样性与合作，而不暗示社会关系普遍平等或没有冲突。"
+      },
+      "after": {
+        "en": "Hunayn ibn Ishaq was a Christian scholar whose translation and medical work linked Greek, Syriac and Arabic learned traditions. His activity involved the comparison of texts and collaboration with pupils and associates, including his son Ishaq. A translation could be revised or transmitted through another language before reaching the version known to later readers.\n\nA later Latin witness survives as Wellcome MS.390, an early-fourteenth-century copy of the Isagoge in Tegni Galeni attributed to Johannitius, Hunayn’s Latin name. Red initials distinguish sections, while marginal notes preserve later readers’ engagement. Its medieval copying and annotation belong to the text’s transmission history, not to Hunayn’s own hand.",
+        "zh": "侯奈因·伊本·伊斯哈格是一位基督教学者，其翻译和医学工作连接希腊语、叙利亚语和阿拉伯语的学问传统。活动涉及文本比较，也涉及与学生、同事及其子伊斯哈格合作。译本可能经过修订或另一语言中转，才成为后世读者所知的版本。\n\n以侯奈因的拉丁名约翰尼提乌斯署名的《盖伦医术导论》，存有惠康MS.390这一十四世纪初拉丁文抄本。红色首字母区分段落，页边注释留下后世读者阅读的痕迹。这些中世纪抄写与批注属于文本传播史，并非侯奈因本人的手迹。"
+      },
+      "rationale": "Replace generic interpretive framing with a specific attributed manuscript and its later readers; preserve collaborative translation context.",
+      "source": {
+        "title": "Hunayn’s Latin afterlife: text and marginal notes",
+        "url": "https://wellcomecollection.org/works/tchdej3s",
+        "publisher": "Wellcome Collection",
+        "evidenceNote": "Red headings and marginal annotations show a later setting for reading a medical text transmitted under Hunayn’s Latin name. This medieval copy is centuries later than Hunayn, not his handwriting.",
+        "checkedAt": "2026-11-13",
+        "retrieval": "official-item-api-and-iiif-manifest",
+        "evidenceNoteZh": "十四世纪初拉丁抄本与边注是后世传播史的实物证据，并非侯奈因手迹；归属沿用馆方。"
+      }
+    },
+    {
+      "recordId": "china-landmark-504",
+      "before": {
+        "en": "Physician Li Shizhen completes Compendium of Materia Medica in Qizhou after twenty-seven years of work",
+        "zh": "李时珍历二十七载三易其稿，于蕲州撰成药物学巨著《本草纲目》"
+      },
+      "after": {
+        "en": "Physician Li Shizhen completes Compendium of Materia Medica in Qizhou after twenty-seven years of work\n\nPlant illustrations preserved in an 1883 edition show the book’s later visual life. Four labelled panels compare leaves, flowers, bulbs and roots. Wellcome identifies these as pages from a later edition, distinct from the work’s first publication in 1596 and from Li Shizhen’s earlier manuscript.",
+        "zh": "李时珍历二十七载三易其稿，于蕲州撰成药物学巨著《本草纲目》\n\n1883年版本保存的植物插图，展示这部著作后来的图像面貌。四个标注名称的图栏并置叶、花、鳞茎与根。惠康将其明确标为后世版本，不能与1596年首刊本或李时珍此前完成的原稿混为一谈。"
+      },
+      "rationale": "Show a specific later textual witness, keeping it distinct from the original author’s manuscript and period.",
+      "source": {
+        "title": "Plant forms in a later Bencao Gangmu edition",
+        "url": "https://wellcomecollection.org/works/uze9zqva",
+        "publisher": "Wellcome Collection",
+        "evidenceNote": "The page organizes plants as labelled visual comparisons. This nineteenth-century edition shows the work’s continued circulation after its first publication in 1596, rather than the manuscript completed by Li Shizhen.",
+        "checkedAt": "2026-11-13",
+        "retrieval": "official-item-api-and-iiif-manifest",
+        "evidenceNoteZh": "官方图像记录明确说明首刊于1596年，所示图像出自1883年版本。"
+      }
+    }
+  ],
+  "ownerDecision": "Exact later textual witnesses admitted with original date, attribution, object type and item-specific rights. Hunayn generic framing removed, not his translation collaboration. No therapeutic claims added; 1883 illustrations are not the original manuscript or first edition.",
+  "sourceDelivery": "Hunayn’s exact catalogue record is added to his visible entry sources. Li Shizhen’s exact image catalogue, item licence and source credit are delivered alongside the illustrated object, not misrepresented as independent review of the inherited 1578 completion claim."
+}
