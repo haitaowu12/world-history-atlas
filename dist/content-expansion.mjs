@@ -22,6 +22,26 @@ export function applySummaryEdits(records, edits={items:[]}) {
   return records.map(row=>byId.get(row.id));
 }
 
+// Source-backed changes to an entry's display interval preserve the released dates.
+// Summary editing remains separate; this layer cannot change identity or other fields.
+export function applyChronologyEdits(records, edits={items:[]}) {
+  if(!Array.isArray(edits.items))throw Error('Invalid chronology-edit list');
+  const byId=new Map(records.map(r=>[r.id,r])),seen=new Set(),keys=['start','end','dateNote'];
+  for(const edit of edits.items){
+    const row=byId.get(edit.recordId);
+    if(!row||seen.has(edit.recordId))throw Error('Unknown or duplicate chronology-edit target '+edit.recordId);
+    seen.add(edit.recordId);
+    if(Object.keys(edit).some(k=>!['recordId','before','after','note','sourceURLs'].includes(k)))throw Error(edit.recordId+': chronology edits cannot change other fields');
+    if(!/^\d{4}-\d{2}-\d{2}$/.test(edits.editedAt||'')||!['en','zh'].every(l=>edit.note?.[l]?.trim()))throw Error(edit.recordId+': missing chronology provenance');
+    for(const side of ['before','after'])if(!edit[side]||Object.keys(edit[side]).length!==3||Object.keys(edit[side]).some(k=>!keys.includes(k)))throw Error(edit.recordId+': unsupported chronology field');
+    for(const key of keys)if(JSON.stringify(edit.before[key])!==JSON.stringify(row[key]))throw Error(edit.recordId+': dates changed since chronology review');
+    if(!Number.isInteger(edit.after.start)||!Number.isInteger(edit.after.end)||!edit.after.start||!edit.after.end||edit.after.start>edit.after.end||!['en','zh'].every(l=>edit.after.dateNote?.[l]?.trim()))throw Error(edit.recordId+': invalid reviewed chronology');
+    if(!Array.isArray(edit.sourceURLs)||!edit.sourceURLs.length||edit.sourceURLs.some(url=>!row.sources?.some(s=>s.url===url)))throw Error(edit.recordId+': chronology source is missing from record');
+    byId.set(row.id,{...row,...structuredClone(edit.after),chronologyRevision:{editedAt:edits.editedAt,previous:structuredClone(edit.before),note:structuredClone(edit.note),sourceURLs:[...edit.sourceURLs]}});
+  }
+  return records.map(row=>byId.get(row.id));
+}
+
 export function partitionExpansion(records) {
   return {histories:records.filter(r=>r.kind!=='person'),people:records.filter(r=>r.kind==='person')};
 }

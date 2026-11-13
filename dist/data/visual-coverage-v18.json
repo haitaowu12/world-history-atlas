@@ -3,9 +3,9 @@
   "reviewedAt": "2026-11-13",
   "baselineManifest": "content-expansion-v17.json",
   "total": 2087,
-  "covered": 1020,
-  "assets": 545,
-  "percent": 48.873981792045996,
+  "covered": 1025,
+  "assets": 550,
+  "percent": 49.11356013416387,
   "coveredIds": [
     "abbasid-caliphate",
     "abu-simbel-relocation",
@@ -840,6 +840,7 @@
     "neo-assyria",
     "neo-babylonian-empire",
     "new-deal-social-state",
+    "new-ireland-malagan-memory",
     "new-zealand-wars",
     "northern-song",
     "northern-wei-dynasty",
@@ -861,6 +862,7 @@
     "parthian-empire",
     "patan-stepwell-water",
     "paul-corinth-letters-50s",
+    "peace-westphalia",
     "pekalongan-batik-workshops",
     "persepolis",
     "persepolis-ration-records-travel",
@@ -903,9 +905,11 @@
     "person-john-a-macdonald",
     "person-jose-rizal",
     "person-julius-caesar",
+    "person-julius-nyerere",
     "person-kartini",
     "person-kate-sheppard",
     "person-kim-dae-jung",
+    "person-leopold-senghor",
     "person-liliuokalani",
     "person-louis-riel",
     "person-mansa-musa",
@@ -913,6 +917,7 @@
     "person-marie-curie",
     "person-martin-luther-king-jr",
     "person-mary-wollstonecraft",
+    "person-miriam-makeba",
     "person-murasaki",
     "person-nelson-mandela",
     "person-nguyen-du",
@@ -1103,7 +1108,6 @@
     "baghdad-sack-1258",
     "turkish-republic-proclamation",
     "iran-constitutional-movement",
-    "peace-westphalia",
     "poland-restoration",
     "india-constitution",
     "ceylon-independence",
@@ -1336,7 +1340,6 @@
     "madjedbebe-research-evidence",
     "makasar-yolngu-trepang",
     "massim-kula-partnerships",
-    "new-ireland-malagan-memory",
     "fiji-girmit-labour",
     "queensland-south-sea-labour",
     "yirrkala-bark-petitions-v9",
@@ -1502,8 +1505,6 @@
     "person-yaa-asantewaa",
     "person-funmilayo-ransome-kuti",
     "person-albertina-sisulu",
-    "person-julius-nyerere",
-    "person-leopold-senghor",
     "person-frantz-fanon",
     "person-leymah-gbowee",
     "person-ibrahim-njoya",
@@ -1547,7 +1548,6 @@
     "person-ibn-al-haytham",
     "person-charlotte-maxeke",
     "person-bessie-head",
-    "person-miriam-makeba",
     "person-halide-edib",
     "person-mary-ann-shadd",
     "person-jose-marti",
@@ -2099,11 +2099,11 @@
   ],
   "target": 1044,
   "targetMet": false,
-  "remaining": 24,
+  "remaining": 19,
   "regions": {
     "africa": {
       "total": 136,
-      "covered": 54
+      "covered": 57
     },
     "east-asia": {
       "total": 1216,
@@ -2111,7 +2111,7 @@
     },
     "europe": {
       "total": 122,
-      "covered": 79
+      "covered": 80
     },
     "latin-america": {
       "total": 94,
@@ -2123,7 +2123,7 @@
     },
     "oceania": {
       "total": 89,
-      "covered": 25
+      "covered": 26
     },
     "south-asia": {
       "total": 95,
@@ -2142,14 +2142,14 @@
     "ancient-portrait": 2,
     "ancient-royal-image": 2,
     "document-facsimile": 44,
-    "historical-artwork": 78,
-    "historical-photograph": 86,
+    "historical-artwork": 79,
+    "historical-photograph": 89,
     "historical-portrait": 31,
     "later-depiction": 67,
     "lifetime-portrait": 18,
     "manuscript-detail": 40,
     "modern-memorial": 1,
-    "object-photograph": 124,
+    "object-photograph": 125,
     "site-photograph": 52
   },
   "shards": [
@@ -2460,6 +2460,13 @@
       "sha256": "2a7fe54940c4f2c1e5e706063bd22e62fc47e5424b9063c3aa5bbfe1d19ff83f",
       "assets": 2,
       "associations": 1
+    },
+    {
+      "file": "visual-assets-exact-24-v18.json",
+      "bytes": 16286,
+      "sha256": "ab4bcab259b092291a9ff73527cf8d251f759a23d990b1ea370c75a57305e6bc",
+      "assets": 5,
+      "associations": 0
     },
     {
       "file": "visual-assets-exact-links-09-v18.json",
@@ -2826,6 +2833,6 @@
       "associations": 0
     }
   ],
-  "assetBytes": 103646537,
+  "assetBytes": 104736591,
   "verification": "All admitted files match their SHA-256, byte count and encoded dimensions. Source identity, reuse rights, pixel review and entry relevance require the individual editorial records; structural validation does not establish those facts."
 }

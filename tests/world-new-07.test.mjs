@@ -9,7 +9,7 @@ test('eleven new images cover eleven distinct subjects, with both prints counted
  assert.deepEqual(asset('892401').recordIds,['person-toussaint','haitian-revolution']);
  assert.deepEqual(asset('717892').recordIds,asset('735898').recordIds);
  for(const a of items){assert.match(a.rights.label,/Public Domain/);for(const id of a.recordIds)assert.ok(records.get(id).sources.some(s=>s.url===a.sourceUrl));}
- const c=readAtlasData('visual-coverage-v18.json');assert.equal(c.covered,1020);assert.equal(c.assets,545);assert.equal(c.remaining,24);
+ const c=readAtlasData('visual-coverage-v18.json');assert.equal(c.covered,1025);assert.equal(c.assets,550);assert.equal(c.remaining,19);
 });
 test('uncertain likeness, posthumous memorial and later impression retain their distinct identities',()=>{
  assert.match(asset('892401').caption.en,/not a verified likeness/);assert.match(asset('892401').interpretation.en,/probably never saw/);
@@ -35,5 +35,5 @@ test('twentieth study compares actual Posada sheets, with localized sources reta
  const s=VISUAL_STUDIES.find(s=>s.id==='posada-revolution-print');assert.deepEqual(s.assets,[asset('717892').id,asset('735898').id]);assert.equal(VISUAL_STUDIES.length,22);
  assert.match(s.observations[0].en,/Gran Marcha Triunfal/);assert.match(s.observations[1].en,/printed later by José Sanchez/);
  const catalog=readAtlasData('history-media-v18.json');for(const a of items)for(const k of ['date','creator','institution']){const m=catalog.items.find(x=>x.id===a.id).metadataI18n[k];assert.equal(m.en,a[k]);assert.ok(m.zh);}
- assert.equal(readAtlasData('evidence-followups-v18.json').length,54);
+ assert.equal(readAtlasData('evidence-followups-v18.json').length,59);
 });

@@ -18,7 +18,8 @@ const stories=JSON.parse(storyBytes);
 const files=[...baseline.files,{file:storyFile,records:stories.length,sha256:sha(storyBytes),bytes:storyBytes.length}];
 const placeLabelsFile='place-labels-reviewed-v18.json',placeLabelBytes=fs.readFileSync(new URL(placeLabelsFile,data));
 const summaryEditsFile='summary-edits-v18.json',summaryEditBytes=fs.readFileSync(new URL(summaryEditsFile,data));
-const {records}=loadAtlasRecords({...baseline,files,placeLabelsFile,summaryEditsFile,evidenceReviewsFile},{chinaReviewsFile});
+const chronologyEditsFile='chronology-edits-v18.json',chronologyEditBytes=fs.readFileSync(new URL(chronologyEditsFile,data));
+const {records}=loadAtlasRecords({...baseline,files,placeLabelsFile,summaryEditsFile,chronologyEditsFile,evidenceReviewsFile},{chinaReviewsFile});
 const expansion=files.flatMap(row=>readAtlasData(row.file));
 const narrativeErrors=auditExpansion(expansion,baseline,records);
 if(stories.some(row=>row.expansion?.release!==12||row.expansion?.edition!=='v18'))narrativeErrors.push('Every V18 story needs release 12 and edition v18');
@@ -53,7 +54,7 @@ const summary={schemaVersion:1,reviewedAt:catalog.reviewedAt,baselineManifest:'c
  shards:receipts,assetBytes:catalog.items.reduce((n,item)=>n+item.bytes,0),
  verification:'All admitted files match their SHA-256, byte count and encoded dimensions. Source identity, reuse rights, pixel review and entry relevance require the individual editorial records; structural validation does not establish those facts.'};
 if(process.argv.includes('--require-target')&&!summary.targetMet)throw Error(`Visual target unmet: ${summary.covered}/${summary.total}; need ${target}`);
-const manifest={...baseline,files,placeLabelsFile,summaryEditsFile,evidenceReviewsFile,summaryEdits:{bytes:summaryEditBytes.length,sha256:sha(summaryEditBytes),records:JSON.parse(summaryEditBytes).items.length},placeLabelTranslations:{records:JSON.parse(placeLabelBytes).items.length,bytes:placeLabelBytes.length,sha256:sha(placeLabelBytes)},baseline:{manifest:'content-expansion-v17.json',records:records.length-stories.length},
+const manifest={...baseline,files,placeLabelsFile,summaryEditsFile,chronologyEditsFile,evidenceReviewsFile,chronologyEdits:{bytes:chronologyEditBytes.length,sha256:sha(chronologyEditBytes),records:JSON.parse(chronologyEditBytes).items.length},summaryEdits:{bytes:summaryEditBytes.length,sha256:sha(summaryEditBytes),records:JSON.parse(summaryEditBytes).items.length},placeLabelTranslations:{records:JSON.parse(placeLabelBytes).items.length,bytes:placeLabelBytes.length,sha256:sha(placeLabelBytes)},baseline:{manifest:'content-expansion-v17.json',records:records.length-stories.length},
  counts:{...baseline.counts,...counts(expansion),releases:Object.fromEntries([...new Set(expansion.map(r=>r.expansion.release))].map(n=>[n,expansion.filter(r=>r.expansion.release===n).length]))},
  runtimeCounts:{...baseline.runtimeCounts,records:records.length},
  addition:{edition:'v18',release:12,files:[storyFile],...counts(stories),recordIds:stories.map(r=>r.id),regions:Object.fromEntries([...new Set(stories.map(r=>r.region))].map(region=>[region,counts(stories.filter(r=>r.region===region))]))},

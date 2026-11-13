@@ -1,6 +1,6 @@
 # Historical images: credits and reuse
 
-Reviewed 2026-11-13. 545 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
+Reviewed 2026-11-13. 550 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
 
 Historical artifacts, surviving places and later depictions retain their source identities. No generated reconstructions are included in this catalogue.
 
@@ -3881,6 +3881,76 @@ Official 615 × 1024-pixel derivative saved unchanged; no cropping or retouching
 The exact British Library IIIF manifest identifies Or 14844 and declares Public Domain usage terms with the Public Domain Mark.
 
 Official 646 × 1024-pixel derivative saved unchanged; margins, annotations and stamp retained.
+
+## Malagan memorial festival pole / 马拉甘纪念仪式雕柱
+
+- File: exact-24-cma-malagan.jpg
+- Creator: New Ireland artist, name unrecorded
+- Date: 1800s
+- Collection: Cleveland Museum of Art
+- Source: https://www.clevelandart.org/art/1971.149
+- Rights: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.clevelandart.org/art/1971.149
+
+The exact Cleveland object page permits copying, modification and distribution without permission under its CC0 open-access policy.
+
+Official 279 × 600-pixel display derivative saved unchanged; no cropping or retouching.
+
+## An allegory for a Westphalian negotiator / 献给威斯特伐利亚和约谈判者的寓意画
+
+- File: exact-24-cma-westphalia.jpg
+- Creator: Grégoire Huret
+- Date: c. 1648–49
+- Collection: Cleveland Museum of Art
+- Source: https://www.clevelandart.org/art/2016.36
+- Rights: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.clevelandart.org/art/2016.36
+
+The exact Cleveland object page permits copying, modification and distribution without permission under its CC0 open-access policy.
+
+Official 640 × 525-pixel display derivative saved unchanged; no cropping or retouching.
+
+## Julius Nyerere at Soesterberg, 1965 / 1965年尼雷尔访问苏斯特贝赫
+
+- File: exact-24-na-nyerere.jpg
+- Creator: Eric Koch / Anefo
+- Date: 21 April 1965
+- Collection: Nationaal Archief
+- Source: https://www.nationaalarchief.nl/onderzoeken/fotocollectie/aaa127de-d0b4-102d-bcf8-003048976d84
+- Rights: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.nationaalarchief.nl/onderzoeken/fotocollectie/aaa127de-d0b4-102d-bcf8-003048976d84
+
+The exact institutional photograph record identifies the copyright holder as “Nationaal Archief, CC0”.
+
+Official 2658 × 2648-pixel display derivative saved unchanged; no cropping or retouching.
+
+## Miriam Makeba beside a dressing-room mirror / 化妆镜旁的米丽娅姆·马凯巴
+
+- File: exact-24-na-makeba.jpg
+- Creator: Photographer unrecorded / Anefo
+- Date: 7 March 1969
+- Collection: Nationaal Archief
+- Source: https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ab6196ea-d0b4-102d-bcf8-003048976d84
+- Rights: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ab6196ea-d0b4-102d-bcf8-003048976d84
+
+The exact institutional photograph record identifies the copyright holder as “Nationaal Archief, CC0”.
+
+Official 1227 × 1848-pixel IIIF derivative saved unchanged; full frame, no cropping or retouching.
+
+## Senghor’s state visit to Amsterdam, 1974 / 1974年桑戈尔国事访问阿姆斯特丹
+
+- File: exact-24-na-senghor.jpg
+- Creator: Bert Verhoeff / Anefo
+- Date: 22 October 1974
+- Collection: Nationaal Archief
+- Source: https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ac58866c-d0b4-102d-bcf8-003048976d84
+- Rights: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.nationaalarchief.nl/onderzoeken/fotocollectie/ac58866c-d0b4-102d-bcf8-003048976d84
+
+The exact institutional photograph record identifies the copyright holder as “Nationaal Archief, CC0”.
+
+Official 1846 × 1222-pixel IIIF derivative saved unchanged; full frame, no cropping or retouching.
 
 ## The coronation remembered in 1840 / 1840年画中的查理曼加冕
 
