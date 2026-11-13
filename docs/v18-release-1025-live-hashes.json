@@ -1,0 +1,80 @@
+{
+  "verifiedAt": "2026-11-13T15:06:52.581063+00:00",
+  "sourceCommit": "2d5f8e0ab3d620bc94b3b003ecd6cc2ad002b042",
+  "sourceTree": "2ea6f493a9afdcb3b68eb9256ebe3d7c8ab9368a",
+  "baseUrl": "https://world-history-atlas-guide.web.app/",
+  "files": [
+    {
+      "file": "index.html",
+      "status": 200,
+      "sha256": "c362a5fcf5b03eb88bc92ce1bed44083e593412b194f9eaeb7a90760bbe48970",
+      "matchesRelease": true
+    },
+    {
+      "file": "app.mjs",
+      "status": 200,
+      "sha256": "2d0553e857024c3345cc0aeaa40f9f0312ffe7f492574846bb09073a709d1d1a",
+      "matchesRelease": true
+    },
+    {
+      "file": "content-expansion.mjs",
+      "status": 200,
+      "sha256": "e251f193a03b0f5c2d5f6981ad0cef3fcd95ac22593fe36173e0f1c3aef7f850",
+      "matchesRelease": true
+    },
+    {
+      "file": "data/content-expansion-v18.json",
+      "status": 200,
+      "sha256": "381914c16bd108faa3c4363b91a3a69314ae0bb3c11e35aea916d00cc3ce5cc0",
+      "matchesRelease": true
+    },
+    {
+      "file": "data/chronology-edits-v18.json",
+      "status": 200,
+      "sha256": "0edec480ba5525f7470220ec4bf8af1d1d042acbb50318e7ca23375455965932",
+      "matchesRelease": true
+    },
+    {
+      "file": "data/history-media-v18.json",
+      "status": 200,
+      "sha256": "17cae41ce78bad0b3be3948269efd471ded35f13c07fa07918b67b628b7a3349",
+      "matchesRelease": true
+    },
+    {
+      "file": "data/visual-coverage-v18.json",
+      "status": 200,
+      "sha256": "0458af3084bc38915387b82432cae0a8ec391ae9432d4e1c4d105b2c52c340f9",
+      "matchesRelease": true
+    },
+    {
+      "file": "assets/history-media/exact-24-cma-malagan.jpg",
+      "status": 200,
+      "sha256": "fe85e824fcea25c97d6ff3753dbc36d0f9c1dcb795481e054998c264e0aebeb7",
+      "matchesRelease": true
+    },
+    {
+      "file": "assets/history-media/exact-24-cma-westphalia.jpg",
+      "status": 200,
+      "sha256": "1b87b7890236e89c7f649fd1bd596c1428bf72ab4bec26465bb73b34122bb613",
+      "matchesRelease": true
+    },
+    {
+      "file": "assets/history-media/exact-24-na-nyerere.jpg",
+      "status": 200,
+      "sha256": "e768e85ed60178d1eeae234b31e75db0b20435a20f073d6b0488c7064c3797d8",
+      "matchesRelease": true
+    },
+    {
+      "file": "assets/history-media/exact-24-na-makeba.jpg",
+      "status": 200,
+      "sha256": "49595cf68ca980c740155a83c0a3df1c2518d70cdeea4ea94b89fd88a6e691f9",
+      "matchesRelease": true
+    },
+    {
+      "file": "assets/history-media/exact-24-na-senghor.jpg",
+      "status": 200,
+      "sha256": "b27fa5375699bbb626bbd0496efad720bd596a19eb5d558cd14c58087f1f2723",
+      "matchesRelease": true
+    }
+  ]
+}

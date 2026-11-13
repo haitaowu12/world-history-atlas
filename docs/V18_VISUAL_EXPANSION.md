@@ -442,3 +442,7 @@ The German proclamation’s official single-frame GIF was converted losslessly t
 ### 13 November: 1,025-entry checkpoint
 
 Five exact CC0 images connect a New Ireland memorial pole, Westphalian diplomatic allegory and three African cultural/political figures. A contradictory archival candidate was rejected after pixel review. A new strict chronology overlay preserves the former material-date anchor rather than rewriting released source data. **550 images / 1,025 of 2,087 entries (49.1%)**; **607/607 checks pass**. Bilingual reading, image inspection and People thumbnails were checked in Chrome. See `V18_CHECKPOINT_1025.md` and `v18-exact-assets-24-evidence.json`. Main/live remain the 900-entry release; no Actions or deployment in this batch.
+
+### 13 November: 1,025-entry release published
+
+Tony authorized merging and publishing mature work. Main and review advanced to `2d5f8e0`; direct Firebase publication completed. Twelve live files match release hashes; live desktop/390px war and regular map controls, the Malagan chronology and default People imagery were checked. No Actions ran. See `V18_RELEASE_1025.md`. Nineteen entries remain before half coverage.
