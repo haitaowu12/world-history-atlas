@@ -5,7 +5,9 @@ export function readerDateNote(record,lang){const note=local(record.dateNote,lan
 const comparable=value=>String(value||'').trim().replace(/[。.!！?？]+$/u,'').replace(/\s+/g,' ');
 export function readerFactLines(record,lang){
  const facts=local(record.keyFacts,lang);if(!Array.isArray(facts))return [];
- const seen=new Set([comparable(local(record.summary,lang)),comparable(local(record.title,lang))]);
+ const summary=local(record.summary,lang);
+ const sentences=[...new Intl.Segmenter(lang==='zh'?'zh':'en',{granularity:'sentence'}).segment(summary)].map(row=>comparable(row.segment));
+ const seen=new Set([comparable(summary),comparable(local(record.title,lang)),...sentences]);
  return facts.filter(line=>{const value=comparable(line);if(!value||seen.has(value))return false;seen.add(value);return true;});
 }
 export function isDatasetCredit(source){return /^https:\/\/github\.com\/(?:DeanChensj|haitaowu12)\/jiangshan-map(?:[/?#]|$)/i.test(source?.url||'');}
@@ -33,4 +35,8 @@ const reviewedChinese=[
  '对已查阅来源的有限综合，未经独立专家审阅。机构叙述可能共享纪念传统。日期及代表性点位不构成连续行程或疆域依据。'
 ];
 const reviewOriginalZh=new Map([...reviewCopy.keys()].map((key,index)=>[key,reviewedChinese[index]]));
-export function readerReviewLimit(record,lang){const note=record.expansion?.reviewLimit;return local(note&&note.zh===reviewOriginalZh.get(note.en)?reviewCopy.get(note.en):note,lang);}
+const objectReviewBoilerplate=[
+ {en:'The collection record supports the specific object paragraph and retains its uncertain attribution or identification. Political chronology follows the existing sources.',zh:'馆藏记录支持具体器物段落，并保留归属或身份判断的不确定性。政治年表仍依据原有来源。'},
+ {en:'The new collection record supports the specific artifact paragraph; it retains the museum’s attribution and identification limits. Other historical claims follow the existing sources.',zh:'新增馆藏记录支持具体器物段落，并保留馆方在归属及身份判断上的限制；其他历史论断仍依据原有来源。'}
+];
+export function readerReviewLimit(record,lang){const note=record.expansion?.reviewLimit;if(objectReviewBoilerplate.some(value=>note?.en===value.en&&note?.zh===value.zh))return '';return local(note&&note.zh===reviewOriginalZh.get(note.en)?reviewCopy.get(note.en):note,lang);}

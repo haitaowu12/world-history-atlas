@@ -1,0 +1,323 @@
+{
+  "sourceEvidence": {
+    "verifiedAt": "2026-11-13",
+    "proposed": 4,
+    "downloaded": 5,
+    "pixelInspected": 5,
+    "held": [
+      {
+        "id": 39378,
+        "reason": "Rights and pixels verified, but official record only identifies generic gold plaque/date. No specific use, patron or findspot. Do not add merely to fill Ayutthaya coverage."
+      }
+    ],
+    "excluded": [
+      {
+        "lead": "Nasca pottery for geoglyphs",
+        "reason": "No demonstrated relationship to specific lines or landscape practice."
+      },
+      {
+        "lead": "Tongan early-nineteenth-century deity for Lapaha",
+        "reason": "Not connected to Lapaha monument/transport narrative; would be era/region padding."
+      },
+      {
+        "lead": "Old tapa for 1983 named family ngatu",
+        "reason": "Different object and family history; no substitute."
+      }
+    ],
+    "notes": [
+      "Shabaqo statue is fragmentary, not complete portrait.",
+      "Srivijaya deity identification remains Vishnu with question mark.",
+      "Met vessel medium has typo Travertinef; proposed visible text conservatively says stone.",
+      "No images downloaded from previously denied or restricted sources.",
+      "Only four admitted despite five authorized candidates: sparse Ayutthaya record held."
+    ]
+  },
+  "admittedAssets": [
+    {
+      "id": "world-new-05-met-544879",
+      "recordIds": [
+        "kush-napatan-phase"
+      ],
+      "kind": "object",
+      "representation": "object-photograph",
+      "title": {
+        "en": "Shabaqo’s royal image survives in fragments",
+        "zh": "沙巴卡的王室形象以残件留存"
+      },
+      "alt": {
+        "en": "A damaged green-glazed statuette preserves folded legs and the lower part of a kneeling body beside an upright fragment.",
+        "zh": "破损的绿釉小像保留跪姿身体的下半部与折叠双腿，旁有竖立残部。"
+      },
+      "caption": {
+        "en": "Fragmentary statuette of King Shabaqo, about 705–690 BCE; glazed steatite and paint, Met 1990.10.",
+        "zh": "沙巴卡王残缺小像，约前705—690年；施釉滑石及颜料，大都会1990.10。"
+      },
+      "interpretation": {
+        "en": "The Met identifies this fragment as a kneeling image of Shabaqo, a king of the Kushite Twenty-fifth Dynasty. Its damaged condition is part of the surviving evidence, not a reconstruction of his appearance.",
+        "zh": "大都会将此残件识别为库施第二十五王朝君主沙巴卡的跪像。破损状态是存世证据的一部分，并非对其容貌的复原。"
+      },
+      "creator": "Unrecorded maker",
+      "date": "ca. 705–690 BCE",
+      "institution": "The Metropolitan Museum of Art",
+      "credit": "Purchase, Lila Acheson Wallace Gift, 1990",
+      "file": "assets/history-media/world-new-05-met-544879.jpg",
+      "imageUrl": "https://images.metmuseum.org/CRDImages/eg/web-large/DP-37982-003.jpg",
+      "downloadedFrom": "https://images.metmuseum.org/CRDImages/eg/web-large/DP-37982-003.jpg",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/544879",
+      "rightsSourceUrl": "https://www.metmuseum.org/art/collection/search/544879",
+      "width": 600,
+      "height": 576,
+      "bytes": 108865,
+      "sha256": "9a50a8a59f87aaa05e295b106ecc40c72f6cd3d994ea51ae5ebc8f303275010f",
+      "rights": {
+        "label": "Public Domain / CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "Official item page marks the image Public Domain; the saved API record confirms isPublicDomain=true.",
+          "zh": "官方单件页面标注图像为公共领域；所存API记录确认isPublicDomain=true。"
+        }
+      },
+      "transformation": {
+        "en": "Official derivative saved unchanged.",
+        "zh": "原样保存官方衍生图。"
+      },
+      "checkedAt": "2026-11-13"
+    },
+    {
+      "id": "world-new-05-met-313146",
+      "recordIds": [
+        "mixtec-kingdoms"
+      ],
+      "kind": "object",
+      "representation": "object-photograph",
+      "title": {
+        "en": "A Mixtec vessel takes the wind deity’s form",
+        "zh": "米斯特克容器采用风神形象"
+      },
+      "alt": {
+        "en": "A pale stone vessel on small supports has a projecting beaked face and incised patterns across its body.",
+        "zh": "浅色石制容器立于小支脚上，突出喙状面部，器身刻有纹样。"
+      },
+      "caption": {
+        "en": "Ehecatl wind-deity vessel by Mixtec (Ñuu Savi) artists, tenth–thirteenth centuries; Met 1979.206.948.",
+        "zh": "米斯特克（Ñuu Savi）匠人制作的埃埃卡特尔风神容器，十至十三世纪；大都会1979.206.948。"
+      },
+      "interpretation": {
+        "en": "The catalog identifies a deity vessel, not a portrait of a named ruler. Carved stone gives another medium for visual religious expression beside painted books.",
+        "zh": "馆录将其识别为神祇形象容器，并非具名君主肖像。石雕展示了彩绘书册之外另一种宗教视觉表达媒介。"
+      },
+      "creator": "Mixtec (Ñuu Savi) artists",
+      "date": "10th–13th century CE",
+      "institution": "The Metropolitan Museum of Art",
+      "credit": "The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979",
+      "file": "assets/history-media/world-new-05-met-313146.jpg",
+      "imageUrl": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-25031-001.jpg",
+      "downloadedFrom": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-25031-001.jpg",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/313146",
+      "rightsSourceUrl": "https://www.metmuseum.org/art/collection/search/313146",
+      "width": 494,
+      "height": 625,
+      "bytes": 93780,
+      "sha256": "20c360e16e85462f7f72669c4f41948e5f6cdc843d51ca447bee387c5ed63527",
+      "rights": {
+        "label": "Public Domain / CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "Official item page marks the image Public Domain; the saved API record confirms isPublicDomain=true.",
+          "zh": "官方单件页面标注图像为公共领域；所存API记录确认isPublicDomain=true。"
+        }
+      },
+      "transformation": {
+        "en": "Official derivative saved unchanged.",
+        "zh": "原样保存官方衍生图。"
+      },
+      "checkedAt": "2026-11-13"
+    },
+    {
+      "id": "world-new-05-met-39120",
+      "recordIds": [
+        "srivijaya-maritime"
+      ],
+      "kind": "object",
+      "representation": "object-photograph",
+      "title": {
+        "en": "A Sumatran deity in bronze",
+        "zh": "苏门答腊青铜神像"
+      },
+      "alt": {
+        "en": "A narrow black-and-white photograph shows a crowned standing bronze figure with several arms and a draped lower garment.",
+        "zh": "黑白窄幅照片中，一尊戴冠多臂青铜像站立，下身披覆衣裙。"
+      },
+      "caption": {
+        "en": "Standing deity, possibly Vishnu, Sumatra, eighth–ninth century, catalogued as Srivijaya period; Met 65.146.",
+        "zh": "站立神像，可能为毗湿奴，苏门答腊，八至九世纪，馆录归为室利佛逝时期；大都会65.146。"
+      },
+      "interpretation": {
+        "en": "The uncertain Vishnu identification broadens the material view beyond an exclusively Buddhist image of the period. The object does not establish a royal commission or a particular temple.",
+        "zh": "“可能为毗湿奴”的识别，使该时期的实物视野超出单一佛教图景。此器物不能确认某次王室委托或特定寺庙。"
+      },
+      "creator": "Unrecorded maker",
+      "date": "8th–9th century",
+      "institution": "The Metropolitan Museum of Art",
+      "credit": "Gift of R.A. Lovell Jr.,1965",
+      "file": "assets/history-media/world-new-05-met-39120.jpg",
+      "imageUrl": "https://images.metmuseum.org/CRDImages/as/web-large/65_146.JPG",
+      "downloadedFrom": "https://images.metmuseum.org/CRDImages/as/web-large/65_146.JPG",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/39120",
+      "rightsSourceUrl": "https://www.metmuseum.org/art/collection/search/39120",
+      "width": 229,
+      "height": 623,
+      "bytes": 28513,
+      "sha256": "99be2afd82a985400bcdf00ab88a2f64d6b3572933adf46af2781cdf57b8d12f",
+      "rights": {
+        "label": "Public Domain / CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "Official item page marks the image Public Domain; the saved API record confirms isPublicDomain=true.",
+          "zh": "官方单件页面标注图像为公共领域；所存API记录确认isPublicDomain=true。"
+        }
+      },
+      "transformation": {
+        "en": "Official derivative saved unchanged.",
+        "zh": "原样保存官方衍生图。"
+      },
+      "checkedAt": "2026-11-13"
+    },
+    {
+      "id": "world-new-05-met-73810",
+      "recordIds": [
+        "ly-dynasty"
+      ],
+      "kind": "object",
+      "representation": "object-photograph",
+      "title": {
+        "en": "An elephant becomes a Lý-period ewer",
+        "zh": "李朝陶匠将大象塑成水注"
+      },
+      "alt": {
+        "en": "A glazed ceramic elephant with raised trunk has dark incised decoration and an opening on its back.",
+        "zh": "釉陶大象扬起鼻子，器表有深色刻划装饰，背上留有开口。"
+      },
+      "caption": {
+        "en": "Elephant-shaped ewer, Vietnam, eleventh–twelfth century, Lý dynasty; glazed pottery with incised and inlaid decoration, Met 2007.261.",
+        "zh": "象形水注，越南，十一至十二世纪，李朝；施釉陶器，刻划及镶嵌装饰，大都会2007.261。"
+      },
+      "interpretation": {
+        "en": "The ewer makes ceramic shaping and surface decoration visible. Its catalogue does not establish use in the royal palace or excavation at Thăng Long.",
+        "zh": "水注使陶器塑形与表面装饰技艺可见。馆录并未确认它曾用于王宫或出土于升龙。"
+      },
+      "creator": "Unrecorded maker",
+      "date": "11th–12th century",
+      "institution": "The Metropolitan Museum of Art",
+      "credit": "Purchase, The Vincent Astor Foundation Gift, 2007",
+      "file": "assets/history-media/world-new-05-met-73810.jpg",
+      "imageUrl": "https://images.metmuseum.org/CRDImages/as/web-large/DP153214.jpg",
+      "downloadedFrom": "https://images.metmuseum.org/CRDImages/as/web-large/DP153214.jpg",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/73810",
+      "rightsSourceUrl": "https://www.metmuseum.org/art/collection/search/73810",
+      "width": 600,
+      "height": 450,
+      "bytes": 48025,
+      "sha256": "cd883edf4c1e81b139a5ec13ffbec593d6ff7030c9d014f92e796b7abd781764",
+      "rights": {
+        "label": "Public Domain / CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "Official item page marks the image Public Domain; the saved API record confirms isPublicDomain=true.",
+          "zh": "官方单件页面标注图像为公共领域；所存API记录确认isPublicDomain=true。"
+        }
+      },
+      "transformation": {
+        "en": "Official derivative saved unchanged.",
+        "zh": "原样保存官方衍生图。"
+      },
+      "checkedAt": "2026-11-13"
+    }
+  ],
+  "summaryChanges": [
+    {
+      "recordId": "kush-napatan-phase",
+      "before": {
+        "en": "The Napatan phase of Kush places a Nubian political center within a connected Nile world. Kushite kings consolidated power in Nubia and, during the eighth and seventh centuries BCE, also ruled Egypt. Their history cannot be reduced to a one-way movement of Egyptian civilization southward: Nubian rulers selected, adapted and used religious and royal forms to assert their own authority.\n\nNapata’s association with Jebel Barkal made sacred landscape part of government. Nile travel, access to resources and relationships with neighboring communities also shaped power. The later movement of royal burial and political emphasis toward Meroë was a transformation within Kushite history, not the sudden appearance of an unrelated people. Reading this overview between Kerma and Meroë fills a political sequence while keeping distinct the kingdom’s lifespan, archaeological period labels and the changing locations of royal activity.",
+        "zh": "库施的纳帕塔阶段把一个努比亚政治中心置于相连的尼罗河世界。库施诸王在努比亚巩固权力，并于公元前八至七世纪统治埃及。其历史不能简化为埃及文明单向向南传播：努比亚统治者选择、调整并运用宗教和王室形式，建立自身权威。\n\n纳帕塔与杰贝勒巴尔卡尔山的联系，使神圣景观成为治理的一部分。尼罗河交通、资源获取及邻近社区关系同样塑造权力。后来王室葬地与政治重心转向麦罗埃，是库施内部的转变，而非无关人群突然出现。将本条放在凯尔迈与麦罗埃之间，能补足政治序列，同时区分王国存续、考古分期与王室活动地点的变化。"
+      },
+      "after": {
+        "en": "The Napatan phase of Kush places a Nubian political center within a connected Nile world. Kushite kings consolidated power in Nubia and, during the eighth and seventh centuries BCE, also ruled Egypt. Their history cannot be reduced to a one-way movement of Egyptian civilization southward: Nubian rulers selected, adapted and used religious and royal forms to assert their own authority.\n\nNapata’s association with Jebel Barkal made sacred landscape part of government. Nile travel, access to resources and relationships with neighboring communities also shaped power. The later movement of royal burial and political emphasis toward Meroë was a transformation within Kushite history, not the sudden appearance of an unrelated people.\n\nA small glazed-steatite statuette gives this royal history a material form. The Met identifies its surviving kneeling figure as King Shabaqo and dates it to about 705–690 BCE, within the Kushite Twenty-fifth Dynasty. Only part of the figure survives, bringing royal representation into view without supplying a complete likeness.",
+        "zh": "库施的纳帕塔阶段把一个努比亚政治中心置于相连的尼罗河世界。库施诸王在努比亚巩固权力，并于公元前八至七世纪统治埃及。其历史不能简化为埃及文明单向向南传播：努比亚统治者选择、调整并运用宗教和王室形式，建立自身权威。\n\n纳帕塔与杰贝勒巴尔卡尔山的联系，使神圣景观成为治理的一部分。尼罗河交通、资源获取及邻近社区关系同样塑造权力。后来王室葬地与政治重心转向麦罗埃，是库施内部的转变，而非无关人群突然出现。\n\n一件施釉滑石小像，使这段王室历史具有了实物形态。大都会将留存的跪像识别为沙巴卡王，年代约前705—690年，属于库施第二十五王朝。人物仅残存一部分，使王权再现可见，却不能提供完整容貌。"
+      },
+      "source": {
+        "title": "Fragmentary statuette of kneeling King Shabaqo",
+        "url": "https://www.metmuseum.org/art/collection/search/544879",
+        "publisher": "The Metropolitan Museum of Art",
+        "checkedAt": "2026-11-13",
+        "retrieval": "official-page-opened",
+        "evidenceNote": "Official collection record supports the added object paragraph, including its dating, materials and retained attribution limits.",
+        "evidenceNoteZh": "官方馆藏记录支持新增器物段落，包括年代、材质以及保留的归属限制。"
+      },
+      "rationale": "Add concrete object evidence and identify limits of attribution; no royal ownership or findspot invented."
+    },
+    {
+      "recordId": "mixtec-kingdoms",
+      "before": {
+        "en": "Mixtec history was organized around several interacting kingdoms, with rulers forming alliances through marriage, ritual and warfare. Painted screenfold books recorded genealogies, places and political acts. They preserve a way of making historical authority visible that differs from an alphabetical chronicle.\n\nArchaeologists combine these manuscripts with settlement surveys to investigate the relationships among named places and ruling families. The surviving books often present elite perspectives, not a complete census of ordinary lives. The timeline therefore labels a sequence of kingdoms rather than inventing one unified Mixtec empire.",
+        "zh": "米斯特克历史围绕多个互相联系的王国展开，统治者通过婚姻、仪式与战争结成关系。彩绘折叠书记录谱系、地点和政治行为，保存一种不同于字母文字编年史的历史权威表达方式。\n\n考古学家把这些写本与聚落调查结合，研究地名和统治家族之间的关系。现存书籍往往表达精英视角，并非普通生活的完整清单。因此时间线标记的是诸王国序列，而不是虚构一个统一米斯特克帝国。"
+      },
+      "after": {
+        "en": "Mixtec history was organized around several interacting kingdoms, with rulers forming alliances through marriage, ritual and warfare. Painted screenfold books recorded genealogies, places and political acts. They preserve a way of making historical authority visible that differs from an alphabetical chronicle.\n\nArchaeologists combine these manuscripts with settlement surveys to investigate the relationships among named places and ruling families. The surviving books often present elite perspectives, not a complete census of ordinary lives.\n\nReligious imagery also took shape in carved vessels. The Met attributes a tenth–thirteenth-century stone container representing Ehecatl, the wind deity, to Mixtec (Ñuu Savi) artists. This object adds a different material and scale to the painted books: it records sculptural work and a named divine figure, rather than a genealogy or a particular royal alliance.",
+        "zh": "米斯特克历史围绕多个互相联系的王国展开，统治者通过婚姻、仪式与战争结成关系。彩绘折叠书记录谱系、地点和政治行为，保存一种不同于字母文字编年史的历史权威表达方式。\n\n考古学家把这些写本与聚落调查结合，研究地名和统治家族之间的关系。现存书籍往往表达精英视角，并非普通生活的完整清单。\n\n宗教图像也体现在雕刻容器上。大都会将一件十至十三世纪、表现风神埃埃卡特尔的石制容器归于米斯特克（Ñuu Savi）匠人。这件器物在彩绘书册之外加入另一种材质与尺度：它记录雕刻技艺及具名神祇，而非某一谱系或王室联盟。"
+      },
+      "source": {
+        "title": "Ehecatl (wind deity) vessel",
+        "url": "https://www.metmuseum.org/art/collection/search/313146",
+        "publisher": "The Metropolitan Museum of Art",
+        "checkedAt": "2026-11-13",
+        "retrieval": "official-page-opened",
+        "evidenceNote": "Official collection record supports the added object paragraph, including its dating, materials and retained attribution limits.",
+        "evidenceNoteZh": "官方馆藏记录支持新增器物段落，包括年代、材质以及保留的归属限制。"
+      },
+      "rationale": "Add concrete object evidence and identify limits of attribution; no royal ownership or findspot invented."
+    },
+    {
+      "recordId": "srivijaya-maritime",
+      "before": {
+        "en": "Srivijaya developed as a major Buddhist and maritime power associated with Sumatra and connections across the seas of Southeast Asia. Palembang and Jambi were important centres in its changing history. Authority depended on relationships among ports, rulers and routes rather than on a single continuously controlled landmass. Religious networks and commercial exchange connected the region with wider Asian worlds. By the later thirteenth century, competing powers were reshaping these relationships. The story is partly reconstructed from inscriptions and outside accounts, so sweeping claims about fixed imperial borders should be treated more cautiously than evidence for particular places and contacts.",
+        "zh": "室利佛逝成为以苏门答腊为重要基地的佛教与海上强权，巨港和占碑在不同时期发挥关键作用。其权力依赖港口、统治者与航路之间的关系，并非始终控制一整片连续陆地。宗教网络和商业交流把东南亚连接到更广的亚洲。至十三世纪后期，竞争势力重塑这些联系。历史部分依赖铭文与外来记载重建，因此固定帝国疆界的宏大主张，需要比具体地点和交往证据更谨慎地处理。"
+      },
+      "after": {
+        "en": "Srivijaya developed as a major Buddhist and maritime power associated with Sumatra and connections across the seas of Southeast Asia. Palembang and Jambi were important centres in its changing history. Authority depended on relationships among ports, rulers and routes rather than on a single continuously controlled landmass. Religious networks and commercial exchange connected the region with wider Asian worlds. By the later thirteenth century, competing powers were reshaping these relationships. Inscriptions and outside accounts preserve evidence of particular places and contacts.\n\nAn eighth–ninth-century bronze figure from Sumatra adds a small-scale religious object to this maritime history. Catalogued as Srivijaya period, it represents a standing deity, possibly Vishnu. The tentative identification matters: the object offers evidence of religious imagery in the region without identifying a particular patron, temple or state-sponsored cult.",
+        "zh": "室利佛逝成为以苏门答腊为重要基地的佛教与海上强权，巨港和占碑在不同时期发挥关键作用。其权力依赖港口、统治者与航路之间的关系，并非始终控制一整片连续陆地。宗教网络和商业交流把东南亚连接到更广的亚洲。至十三世纪后期，竞争势力重塑这些联系。铭文与外来记载保存了具体地点和交往的证据。\n\n一尊苏门答腊八至九世纪青铜像，为海上历史加入小尺度的宗教器物。馆录将它归为室利佛逝时期，表现站立神祇，可能是毗湿奴。这种暂定识别应予保留：器物提供区域宗教图像的证据，但未确定某位赞助者、某座寺庙或国家主持的崇拜。"
+      },
+      "source": {
+        "title": "Standing Deity (Vishnu?)",
+        "url": "https://www.metmuseum.org/art/collection/search/39120",
+        "publisher": "The Metropolitan Museum of Art",
+        "checkedAt": "2026-11-13",
+        "retrieval": "official-page-opened",
+        "evidenceNote": "Official collection record supports the added object paragraph, including its dating, materials and retained attribution limits.",
+        "evidenceNoteZh": "官方馆藏记录支持新增器物段落，包括年代、材质以及保留的归属限制。"
+      },
+      "rationale": "Add concrete object evidence and identify limits of attribution; no royal ownership or findspot invented."
+    },
+    {
+      "recordId": "ly-dynasty",
+      "before": {
+        "en": "Lý Thái Tổ moved the royal capital to Thăng Long, creating a durable centre of Vietnamese political authority in the Red River region. The site combined defensive walls, government compounds and royal residences with a landscape shaped by rivers and reclaimed ground. Successive dynasties rebuilt it, leaving archaeological layers that reveal continuity as well as change. Cultural forms drew from relationships with China and Champa while developing a distinctive regional character. The independent Lý court adapted inherited urban foundations and wider cultural connections to support its political project.",
+        "zh": "李太祖迁都升龙，在红河地区建立持久的越南政治中心。都城把城墙、官署和王室居所，同河流及排水开垦的地景结合。后续王朝不断重建，考古层位同时呈现延续与变化。文化形式吸收与中国、占城交往的影响，也形成独特地方特色。李朝独立宫廷利用既有城市基础与广泛文化联系，支持自身政治建设。"
+      },
+      "after": {
+        "en": "Lý Thái Tổ moved the royal capital to Thăng Long, creating a durable centre of Vietnamese political authority in the Red River region. The site combined defensive walls, government compounds and royal residences with a landscape shaped by rivers and reclaimed ground. Successive dynasties rebuilt it, leaving archaeological layers that reveal continuity as well as change. Cultural forms drew from relationships with China and Champa while developing a distinctive regional character. The independent Lý court adapted inherited urban foundations and wider cultural connections to support its political project.\n\nAn elephant-shaped ewer dated to the eleventh–twelfth century offers a view of Lý-period craft beyond the capital’s architecture. The glazed pot combines an animal-shaped body with incised and inlaid decoration. Its playful form turns a pouring vessel into a sculptural object; the collection record does not identify its original owner or place of use.",
+        "zh": "李太祖迁都升龙，在红河地区建立持久的越南政治中心。都城把城墙、官署和王室居所，同河流及排水开垦的地景结合。后续王朝不断重建，考古层位同时呈现延续与变化。文化形式吸收与中国、占城交往的影响，也形成独特地方特色。李朝独立宫廷利用既有城市基础与广泛文化联系，支持自身政治建设。\n\n一件十一至十二世纪的象形水注，为都城建筑之外的李朝工艺提供了视角。施釉陶器把动物形体与刻划、镶嵌装饰结合起来，富有趣味的造型使注水容器成为雕塑性物件；馆藏记录未确定其原主人及使用地点。"
+      },
+      "source": {
+        "title": "Ewer in the Form of an Elephant",
+        "url": "https://www.metmuseum.org/art/collection/search/73810",
+        "publisher": "The Metropolitan Museum of Art",
+        "checkedAt": "2026-11-13",
+        "retrieval": "official-page-opened",
+        "evidenceNote": "Official collection record supports the added object paragraph, including its dating, materials and retained attribution limits.",
+        "evidenceNoteZh": "官方馆藏记录支持新增器物段落，包括年代、材质以及保留的归属限制。"
+      },
+      "rationale": "Add concrete object evidence and identify limits of attribution; no royal ownership or findspot invented."
+    }
+  ]
+}

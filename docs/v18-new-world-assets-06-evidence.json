@@ -1,0 +1,326 @@
+{
+  "sourceEvidence": {
+    "verifiedAt": "2026-11-13",
+    "proposed": 4,
+    "downloaded": 4,
+    "pixelInspected": 4,
+    "sourceVerification": "All four official collection pages displayed Public Domain; retained item API records confirm isPublicDomain=true. Source narrative checked before download. Images inspected individually after download; unchanged official derivatives.",
+    "exclusions": [
+      {
+        "id": "Met313662",
+        "reason": "Malagan: page explicitly disables enlargement/download; no image request."
+      },
+      {
+        "id": "Met311225",
+        "reason": "Massim splashboard: download disabled; source may describe smaller coastal fishing canoe, not Kula canoe. No image request."
+      },
+      {
+        "url": "https://www.slam.org/collection/objects/8377/",
+        "reason": "Distinct Malagan candidate: HTML returned HTTP403. Stopped; no retry or alternate route; no image saved."
+      },
+      {
+        "id": "Met684626",
+        "reason": "Bahmani coin: private collection image download disabled. Queued batch canceled before this ID; no coin API/image request executed."
+      },
+      {
+        "lead": "Laos Buddha",
+        "reason": "Ambiguous Cambodia/Laos attribution insufficient for exact Lan Xang relationship."
+      }
+    ],
+    "notes": [
+      "Four strong items rather than padding to five. Oceania access/rights constraints remain unresolved.",
+      "Textile shows selected Thiri Rama scenes and is not a Karen object. At 600px wide fine detail is limited; use whole-composition view, do not imply readable inscription.",
+      "Jina identity remains probably Neminatha; reverse donor inscription comes from official narrative, not visible front pixels.",
+      "Kakatiya sculpture is not attributed to Palampet temple.",
+      "All files confined to research/new-world-assets-06; no production, Git or deployment changes."
+    ]
+  },
+  "admittedAssets": [
+    {
+      "id": "world-new-06-met-458645",
+      "recordIds": [
+        "golconda-qutbshahi"
+      ],
+      "kind": "object",
+      "representation": "object-photograph",
+      "title": {
+        "en": "Lotus finials and courtly display",
+        "zh": "莲花饰件与宫廷展示"
+      },
+      "alt": {
+        "en": "Two gilded floral finials have curling stems, flowers and textured seed pods.",
+        "zh": "两件鎏金花卉饰件带有弯曲枝茎、花朵与纹理细密的莲蓬。"
+      },
+      "caption": {
+        "en": "Pair of lotus finials, attributed to Golconda, about 1650–1680; gilded copper, Met 2024.277a,b.",
+        "zh": "一对莲花饰件，归于戈尔康达，约1650—1680年；鎏金铜，大都会2024.277a,b。"
+      },
+      "interpretation": {
+        "en": "The Met relates finials of this type to decorated palanquins in elite processions. The attribution does not identify a particular owner.",
+        "zh": "大都会将此类饰件与精英出行时装饰华丽的轿舆联系起来；归属判断并未确定某位主人。"
+      },
+      "creator": "Unrecorded maker",
+      "date": "ca. 1650–1680",
+      "institution": "The Metropolitan Museum of Art",
+      "credit": "Purchase, Sudha Reddy and Mr. P.V. K. Reddy Gift, Louis E. and Theresa S. Seley Fund for Islamic Art, and funds from various donors, 2024",
+      "file": "assets/history-media/world-new-06-met-458645.jpg",
+      "imageUrl": "https://images.metmuseum.org/CRDImages/is/web-large/DP-35639-001.jpg",
+      "downloadedFrom": "https://images.metmuseum.org/CRDImages/is/web-large/DP-35639-001.jpg",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/458645",
+      "rightsSourceUrl": "https://www.metmuseum.org/art/collection/search/458645",
+      "width": 600,
+      "height": 613,
+      "bytes": 139100,
+      "sha256": "2246fb125d257d2c47cb67720edabb2f842df32b5af2b6b880be71416e8a0598",
+      "rights": {
+        "label": "Public Domain / CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "Official item page marks the image Public Domain; the saved API record confirms isPublicDomain=true.",
+          "zh": "官方单件页面标注图像为公共领域；所存API记录确认isPublicDomain=true。"
+        }
+      },
+      "transformation": {
+        "en": "Official derivative saved unchanged.",
+        "zh": "原样保存官方衍生图。"
+      },
+      "checkedAt": "2026-11-13"
+    },
+    {
+      "id": "world-new-06-met-74501",
+      "recordIds": [
+        "jain-ascetic-communities"
+      ],
+      "kind": "object",
+      "representation": "object-photograph",
+      "title": {
+        "en": "A Jain teacher on a lion throne",
+        "zh": "狮座上的耆那教导师"
+      },
+      "alt": {
+        "en": "A seated copper-alloy figure meditates above a tiered throne, flanked by two smaller figures.",
+        "zh": "铜合金坐像在层叠宝座上冥想，两侧各有一尊较小人物像。"
+      },
+      "caption": {
+        "en": "Enthroned Jina, probably Neminatha, late seventh century, Akota, Gujarat; Met 2008.279.",
+        "zh": "宝座上的耆那，可能为内米那陀，七世纪晚期，古吉拉特阿科塔；大都会2008.279。"
+      },
+      "interpretation": {
+        "en": "The identification as Neminatha remains probable. The museum records a Sanskrit donor inscription on the reverse, which is not shown in this frontal photograph.",
+        "zh": "内米那陀的身份仍属推定。博物馆记载背面有梵文供养铭文，本张正面照片未显示该铭文。"
+      },
+      "creator": "Unrecorded maker",
+      "date": "late 7th century",
+      "institution": "The Metropolitan Museum of Art",
+      "credit": "Purchase, several members of The Chairman's Council Gifts and Josephine Jackson Foundation Gift, 2008",
+      "file": "assets/history-media/world-new-06-met-74501.jpg",
+      "imageUrl": "https://images.metmuseum.org/CRDImages/as/web-large/DP161523.jpg",
+      "downloadedFrom": "https://images.metmuseum.org/CRDImages/as/web-large/DP161523.jpg",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/74501",
+      "rightsSourceUrl": "https://www.metmuseum.org/art/collection/search/74501",
+      "width": 469,
+      "height": 625,
+      "bytes": 160303,
+      "sha256": "e33558b1a2e78c58985d4bbca7bfe2334467666102af44ea3c936124059e7793",
+      "rights": {
+        "label": "Public Domain / CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "Official item page marks the image Public Domain; the saved API record confirms isPublicDomain=true.",
+          "zh": "官方单件页面标注图像为公共领域；所存API记录确认isPublicDomain=true。"
+        }
+      },
+      "transformation": {
+        "en": "Official derivative saved unchanged.",
+        "zh": "原样保存官方衍生图。"
+      },
+      "checkedAt": "2026-11-13"
+    },
+    {
+      "id": "world-new-06-met-848697",
+      "recordIds": [
+        "myanmar-textiles-material-history"
+      ],
+      "kind": "object",
+      "representation": "object-photograph",
+      "title": {
+        "en": "U Paw Hnyun’s embroidered Thiri Rama",
+        "zh": "吴波纽绣制的缅甸罗摩故事"
+      },
+      "alt": {
+        "en": "A wide textile hanging arranges many figures, buildings, trees and animals in richly embroidered horizontal bands.",
+        "zh": "宽幅织绣挂饰以横向带状布局呈现众多人物、建筑、树木与动物，装饰繁密。"
+      },
+      "caption": {
+        "en": "U Paw Hnyun, scenes from Thiri Rama, about 1870–1885, Myanmar; appliqué and embroidery on velvet, The Metropolitan Museum of Art.",
+        "zh": "吴波纽，缅甸《罗摩衍那》故事场景，约1870—1885年，缅甸；天鹅绒贴布绣与刺绣，大都会艺术博物馆藏。"
+      },
+      "interpretation": {
+        "en": "This named maker’s narrative hanging is a different textile tradition from the Karen objects discussed in the entry. Repeated characters mark selected scenes, not one continuous episode.",
+        "zh": "这件具名匠人的叙事挂饰，与条目讨论的克伦族织物属于不同的纺织传统。重复出现的人物呈现选取的场景，而非单一连续情节。"
+      },
+      "creator": "U Paw Hnyun",
+      "date": "ca. 1870–85",
+      "institution": "The Metropolitan Museum of Art",
+      "credit": "Purchase, Friends of Asian Art Gifts, 2021",
+      "file": "assets/history-media/world-new-06-met-848697.jpg",
+      "imageUrl": "https://images.metmuseum.org/CRDImages/as/web-large/DP-22540-001.jpg",
+      "downloadedFrom": "https://images.metmuseum.org/CRDImages/as/web-large/DP-22540-001.jpg",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/848697",
+      "rightsSourceUrl": "https://www.metmuseum.org/art/collection/search/848697",
+      "width": 600,
+      "height": 280,
+      "bytes": 190436,
+      "sha256": "ec4c84fd5ba94ff21bd89b0b4494b9affa94f58dd1fbf15c514d99e82c686f12",
+      "rights": {
+        "label": "Public Domain / CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "Official item page marks the image Public Domain; the saved API record confirms isPublicDomain=true.",
+          "zh": "官方单件页面标注图像为公共领域；所存API记录确认isPublicDomain=true。"
+        }
+      },
+      "transformation": {
+        "en": "Official derivative saved unchanged.",
+        "zh": "原样保存官方衍生图。"
+      },
+      "checkedAt": "2026-11-13"
+    },
+    {
+      "id": "world-new-06-met-38143",
+      "recordIds": [
+        "kakatiya-dynasty"
+      ],
+      "kind": "object",
+      "representation": "object-photograph",
+      "title": {
+        "en": "A Kakatiya-period Vishnu image",
+        "zh": "卡卡提亚时期的毗湿奴像"
+      },
+      "alt": {
+        "en": "A tall stone relief frames a standing crowned deity with elaborate jewelry and smaller figures near the feet.",
+        "zh": "高大石雕中，戴冠神祇站立于装饰框内，佩戴繁复饰物，脚边有较小人物。"
+      },
+      "caption": {
+        "en": "Vishnu accompanied by Garuda and Lakshmi, twelfth–thirteenth century, Kakatiya period; Met 57.51.2.",
+        "zh": "毗湿奴与迦楼罗、吉祥天，十二至十三世纪，卡卡提亚时期；大都会57.51.2。"
+      },
+      "interpretation": {
+        "en": "The Met identifies this work as a Kakatiya-period stone sculpture from South India. It is not identified as a sculpture from the Palampet temple.",
+        "zh": "大都会将此作识别为南印度卡卡提亚时期石雕；馆录并未将其确定为帕兰佩特寺庙的雕像。"
+      },
+      "creator": "Unrecorded maker",
+      "date": "12th–13th century",
+      "institution": "The Metropolitan Museum of Art",
+      "credit": "Bequest of Cora Timken Burnett, 1956",
+      "file": "assets/history-media/world-new-06-met-38143.jpg",
+      "imageUrl": "https://images.metmuseum.org/CRDImages/as/web-large/57_51_2.jpg",
+      "downloadedFrom": "https://images.metmuseum.org/CRDImages/as/web-large/57_51_2.jpg",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/38143",
+      "rightsSourceUrl": "https://www.metmuseum.org/art/collection/search/38143",
+      "width": 311,
+      "height": 624,
+      "bytes": 55158,
+      "sha256": "95d30469ebadc187897d47742b632e0d1425f1d38ffaa928dab05d678c3c8857",
+      "rights": {
+        "label": "Public Domain / CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "Official item page marks the image Public Domain; the saved API record confirms isPublicDomain=true.",
+          "zh": "官方单件页面标注图像为公共领域；所存API记录确认isPublicDomain=true。"
+        }
+      },
+      "transformation": {
+        "en": "Official derivative saved unchanged.",
+        "zh": "原样保存官方衍生图。"
+      },
+      "checkedAt": "2026-11-13"
+    }
+  ],
+  "summaryChanges": [
+    {
+      "recordId": "golconda-qutbshahi",
+      "before": {
+        "en": "The Qutb Shahi court belonged to the political landscape of the Deccan successor states. Golconda’s connections with diamond and textile commerce drew the region into markets reaching beyond South Asia. Courtly wealth depended on extraction, manufacture and the movement of goods, making the workers and intermediaries behind valuable objects part of political history.\n\nThe Mughal conquest in 1687 changed the sovereign order without ending regional trade or the life of Hyderabad. Dates associated with emerging autonomy, formal dynastic rule and capital construction need not coincide. This entry uses a conventional dynastic frame and a representative court region. It should be read with Bijapur and the textile entry to connect state formation with production and migration, without inferring that commercial influence was identical to directly administered territory.",
+        "zh": "库特布·沙希宫廷属于德干继承国家的政治格局。戈尔康达同钻石、纺织品贸易的联系，把区域接入超出南亚的市场。宫廷财富依赖开采、制造与运输，珍贵器物背后的劳动者和中间环节也因此属于政治史。\n\n1687年的莫卧儿征服改变主权秩序，却没有终止区域贸易或海得拉巴的生活。逐渐取得自主、正式王朝统治和都城营建的日期不必相同。本条采用惯常王朝框架与代表性宫廷区域。与比贾布尔、织品条目并读，可把国家形成与生产、迁移相连，而不把商业影响当成直接管理的领土。"
+      },
+      "after": {
+        "en": "The Qutb Shahi court belonged to the political landscape of the Deccan successor states. Golconda’s connections with diamond and textile commerce drew the region into markets reaching beyond South Asia. Courtly wealth depended on extraction, manufacture and the movement of goods, making the workers and intermediaries behind valuable objects part of political history.\n\nThe Mughal conquest in 1687 changed the sovereign order without ending regional trade or the life of Hyderabad.\n\nA pair of gilded copper lotus finials, attributed to Golconda and dated about 1650–1680, brings courtly metalwork into view. The Met explains that finials of this type decorated palanquins used by elite men and women in processions. Cast, pierced and chased flowers made craftsmanship visible to the crowd even when the passenger remained concealed.",
+        "zh": "库特布·沙希宫廷属于德干继承国家的政治格局。戈尔康达同钻石、纺织品贸易的联系，把区域接入超出南亚的市场。宫廷财富依赖开采、制造与运输，珍贵器物背后的劳动者和中间环节也因此属于政治史。\n\n1687年的莫卧儿征服改变主权秩序，却没有终止区域贸易或海得拉巴的生活。\n\n一对归于戈尔康达、年代约1650—1680年的鎏金铜莲花饰件，呈现了宫廷金属工艺。大都会指出，此类饰件用于装饰精英男女出行的轿舆。铸造、镂空与錾刻花卉使工艺展现在人群眼前，即使乘坐者仍隐藏在轿内。"
+      },
+      "source": {
+        "title": "A Pair of Lotus Finials",
+        "url": "https://www.metmuseum.org/art/collection/search/458645",
+        "publisher": "The Metropolitan Museum of Art",
+        "checkedAt": "2026-11-13",
+        "retrieval": "official-page-opened",
+        "evidenceNote": "Official collection record supports the added object paragraph, including its dating, materials and retained attribution limits.",
+        "evidenceNoteZh": "官方馆藏记录支持新增器物段落，包括年代、材质以及保留的归属限制。"
+      },
+      "rationale": "Add concrete object evidence and identify limits of attribution; no royal ownership or findspot invented."
+    },
+    {
+      "recordId": "jain-ascetic-communities",
+      "before": {
+        "en": "Jain traditions understand liberation through the teachings of the tirthankaras, with Mahavira remembered as the most recent of twenty-four teachers. Renunciation, disciplined conduct and care toward living beings shaped ideals for ascetic life, while lay followers supported religious communities. Images of seated or standing liberated teachers made those ideals visible without presenting the figures as ordinary royal portraits.\n\nThis long focus window connects religious ideas with institutions and artistic practice rather than treating Jain history as one person’s biography. Shared visual forms with other South Asian traditions did not make their teachings interchangeable. Patronage, devotion and demanding ascetic ideals could coexist, and their relationships changed across regions. The date range is a reading framework; it does not mark the beginning or end of a faith that continues beyond it.",
+        "zh": "耆那教传统通过渡津者的教导理解解脱，把大雄视为二十四位导师中最近的一位。出离、约束行为与爱护生命塑造苦行理想，在家信众则支持宗教共同体。坐姿或立姿的解脱导师形象使理想可见，却不是普通的王室肖像。\n\n较长的关注时段连接思想、机构与艺术实践，而非把宗教史缩为一人的传记。与其他南亚传统共享某些视觉形式，不表示教义可以互换。资助、虔敬和严格苦行能够并存，其关系也因地区而变化。这里的年代只是阅读框架，不标志延续至今的信仰的起讫。"
+      },
+      "after": {
+        "en": "Jain traditions understand liberation through the teachings of the tirthankaras, with Mahavira remembered as the most recent of twenty-four teachers. Renunciation, disciplined conduct and care toward living beings shaped ideals for ascetic life, while lay followers supported religious communities. Images of seated or standing liberated teachers made those ideals visible without presenting the figures as ordinary royal portraits.\n\nThis long focus window connects religious ideas with institutions and artistic practice rather than treating Jain history as one person’s biography. Shared visual forms with other South Asian traditions did not make their teachings interchangeable. Patronage, devotion and demanding ascetic ideals could coexist, and their relationships changed across regions. The date range is a reading framework; it does not mark the beginning or end of a faith that continues beyond it.\n\nA late-seventh-century copper-alloy image from Akota in Gujarat joins meditation to material patronage. The seated Jina, probably Neminatha, occupies a lion throne with smaller attendant figures. The Met records a donor inscription in seventh-century Sanskrit script on the reverse, connecting this surviving devotional object with an act of giving.",
+        "zh": "耆那教传统通过渡津者的教导理解解脱，把大雄视为二十四位导师中最近的一位。出离、约束行为与爱护生命塑造苦行理想，在家信众则支持宗教共同体。坐姿或立姿的解脱导师形象使理想可见，却不是普通的王室肖像。\n\n较长的关注时段连接思想、机构与艺术实践，而非把宗教史缩为一人的传记。与其他南亚传统共享某些视觉形式，不表示教义可以互换。资助、虔敬和严格苦行能够并存，其关系也因地区而变化。这里的年代只是阅读框架，不标志延续至今的信仰的起讫。\n\n古吉拉特阿科塔一尊七世纪晚期铜合金造像，将冥想与实物赞助联系起来。坐像可能为内米那陀，居于狮座之上，两旁有较小的侍从像。大都会记载，背面留有以七世纪梵文字体书写的供养铭文，将这件存世礼拜器物与一次布施联系起来。"
+      },
+      "source": {
+        "title": "Enthroned Jina, Probably Neminatha",
+        "url": "https://www.metmuseum.org/art/collection/search/74501",
+        "publisher": "The Metropolitan Museum of Art",
+        "checkedAt": "2026-11-13",
+        "retrieval": "official-page-opened",
+        "evidenceNote": "Official collection record supports the added object paragraph, including its dating, materials and retained attribution limits.",
+        "evidenceNoteZh": "官方馆藏记录支持新增器物段落，包括年代、材质以及保留的归属限制。"
+      },
+      "rationale": "Add concrete object evidence and identify limits of attribution; no royal ownership or findspot invented."
+    },
+    {
+      "recordId": "myanmar-textiles-material-history",
+      "before": {
+        "en": "Textiles from Myanmar connect cultivation, dyeing, weaving and exchange with the social meanings of clothing. Museum scientific work can identify materials and techniques that written political histories often leave unrecorded. Objects associated with Karen communities also challenge an account in which the whole region possesses one undifferentiated culture.\n\nA collected textile has more than one history: production and use, transfer to a collection, and later scientific interpretation. The survival of an object does not establish the identity of every maker or every person who wore a similar pattern. Colonial-era collecting shaped what museums can now study and how it was classified. Following those layers brings ordinary work into the atlas while treating scientific findings as evidence about particular materials, not permission to assign a fixed ethnic identity to everyone in a mapped area.",
+        "zh": "缅甸纺织品把种植、染色、织造与交换，同衣着的社会意义连接。博物馆科学研究能够识别政治文字史常忽略的材料和技法。同克伦群体相关的器物，也反驳了整个区域拥有一种无差别文化的叙述。\n\n一件入藏纺织品包含多重历史：制作与使用、转入收藏，以及后来的科学解释。器物留存不能确定每位制作者身份，也不能代表所有穿相近纹样的人。殖民时期收藏影响今日可研究内容及其分类。追踪这些层次，可以使普通劳动进入地图，同时把科学结果限定于具体材料，不据此为某片地区每个人赋予固定族群身份。"
+      },
+      "after": {
+        "en": "Textiles from Myanmar connect cultivation, dyeing, weaving and exchange with the social meanings of clothing. Museum scientific work can identify materials and techniques that written political histories often leave unrecorded. Objects associated with Karen communities also challenge an account in which the whole region possesses one undifferentiated culture.\n\nA collected textile has more than one history: production and use, transfer to a collection, and later scientific interpretation. The survival of an object does not establish the identity of every maker or every person who wore a similar pattern. Colonial-era collecting shaped what museums can now study and how it was classified.\n\nA signed hanging by U Paw Hnyun adds a named maker and another textile practice to this history. Made about 1870–1885, its velvet ground carries appliqué, embroidery, sequins and metallic thread depicting Thiri Rama, the Burmese adaptation of the Ramayana. Rama, Sita and Ravana recur in selected scenes rather than a single continuous narrative, showing how textile work could also tell a literary story.",
+        "zh": "缅甸纺织品把种植、染色、织造与交换，同衣着的社会意义连接。博物馆科学研究能够识别政治文字史常忽略的材料和技法。同克伦群体相关的器物，也反驳了整个区域拥有一种无差别文化的叙述。\n\n一件入藏纺织品包含多重历史：制作与使用、转入收藏，以及后来的科学解释。器物留存不能确定每位制作者身份，也不能代表所有穿相近纹样的人。殖民时期收藏影响今日可研究内容及其分类。\n\n吴波纽署名的挂饰，为这段历史加入一位具名匠人与另一种纺织实践。这件约1870—1885年的作品以天鹅绒为底，结合贴布绣、刺绣、亮片与金属线，表现缅甸改编的《罗摩衍那》。罗摩、悉多与罗波那反复出现于选取的场景中，而非组成单一连续情节，展现织绣如何讲述文学故事。"
+      },
+      "source": {
+        "title": "Scenes from the Thiri Rama, the Burmese adaptation of the Ramayana",
+        "url": "https://www.metmuseum.org/art/collection/search/848697",
+        "publisher": "The Metropolitan Museum of Art",
+        "checkedAt": "2026-11-13",
+        "retrieval": "official-page-opened",
+        "evidenceNote": "Official collection record supports the added object paragraph, including its dating, materials and retained attribution limits.",
+        "evidenceNoteZh": "官方馆藏记录支持新增器物段落，包括年代、材质以及保留的归属限制。"
+      },
+      "rationale": "Add concrete object evidence and identify limits of attribution; no royal ownership or findspot invented."
+    },
+    {
+      "recordId": "kakatiya-dynasty",
+      "before": {
+        "en": "The Kakatiya kingdom provides another political sequence in the Deccan alongside the Hoysalas and Cholas. Its temple landscapes joined sacred architecture to cultivated land and engineered water storage. These relationships show how religious patronage depended on a wider working countryside.\n\nAt Palampet, construction of the Rudreshwara temple began in 1213. Carved pillars and bracket figures record regional dance imagery, while porous bricks reduced the roof’s weight. The nearby reservoir is part of the same historical setting. The surviving ensemble is evidence of practical engineering and specialized craft, as well as royal representation.",
+        "zh": "卡卡提亚王国为德干补上一条与曷萨拉、朱罗并行的政治序列。其寺庙景观将圣所、农田和人工蓄水设施相连，显示宗教资助依赖更广阔的生产性乡村。\n\n帕兰佩特的鲁德雷湿瓦拉寺于1213年开工。雕刻柱与托架人像表现区域舞蹈，轻质多孔砖则减轻屋顶重量。附近水库属于同一历史环境。现存建筑群既体现王权表达，也留下实用工程与专业技艺的证据。"
+      },
+      "after": {
+        "en": "The Kakatiya kingdom developed in the Deccan alongside the Hoysalas and Cholas. Its temple landscapes joined sacred architecture to cultivated land and engineered water storage. These relationships show how religious patronage depended on a wider working countryside.\n\nAt Palampet, construction of the Rudreshwara temple began in 1213. Carved pillars and bracket figures record regional dance imagery, while porous bricks reduced the roof’s weight. The nearby reservoir is part of the same historical setting. The surviving ensemble is evidence of practical engineering and specialized craft, as well as royal representation.\n\nA twelfth–thirteenth-century stone image of Vishnu accompanied by Garuda and Lakshmi offers another view of Kakatiya-period carving. The standing deity, elaborate ornaments and smaller accompanying figures show how sculptors organized a divine group at monumental scale. The Met’s record associates the work with the Kakatiya period, but does not link it to the Rudreshwara temple at Palampet.",
+        "zh": "卡卡提亚王国在德干发展，与曷萨拉、朱罗并立。其寺庙景观将圣所、农田和人工蓄水设施相连，显示宗教资助依赖更广阔的生产性乡村。\n\n帕兰佩特的鲁德雷湿瓦拉寺于1213年开工。雕刻柱与托架人像表现区域舞蹈，轻质多孔砖则减轻屋顶重量。附近水库属于同一历史环境。现存建筑群既体现王权表达，也留下实用工程与专业技艺的证据。\n\n一件十二至十三世纪毗湿奴与迦楼罗、吉祥天的石雕，为卡卡提亚时期雕刻提供另一视角。站立神祇、繁复饰物与较小的陪伴人物，展现雕工如何以纪念性尺度组织神祇群像。大都会馆录将其归于卡卡提亚时期，但未将它与帕兰佩特的鲁德雷什瓦拉寺联系起来。"
+      },
+      "source": {
+        "title": "Vishnu Accompanied by Garuda and Lakshmi",
+        "url": "https://www.metmuseum.org/art/collection/search/38143",
+        "publisher": "The Metropolitan Museum of Art",
+        "checkedAt": "2026-11-13",
+        "retrieval": "official-page-opened",
+        "evidenceNote": "Official collection record supports the added object paragraph, including its dating, materials and retained attribution limits.",
+        "evidenceNoteZh": "官方馆藏记录支持新增器物段落，包括年代、材质以及保留的归属限制。"
+      },
+      "rationale": "Add concrete object evidence and identify limits of attribution; no royal ownership or findspot invented."
+    }
+  ]
+}

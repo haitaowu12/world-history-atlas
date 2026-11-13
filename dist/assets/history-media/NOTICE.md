@@ -1,6 +1,6 @@
 # Historical images: credits and reuse
 
-Reviewed 2026-11-13. 494 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
+Reviewed 2026-11-13. 506 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
 
 Historical artifacts, surviving places and later depictions retain their source identities. No generated reconstructions are included in this catalogue.
 
@@ -409,6 +409,62 @@ Museum-provided web-size image; no local crop, recoloring or reconstruction.
 The object is marked Public Domain; The Met releases this image under its Open Access CC0 policy.
 
 Museum-provided web-size image; no local crop, recoloring or reconstruction.
+
+## A stone zemí and Taíno ceremonial authority / 石制泽米与泰诺仪式权威
+
+- File: africa-americas-06-met-313384.jpg
+- Creator: Taíno artist(s)
+- Date: 1200–1500 CE
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/313384
+- Rights: Public Domain / CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/313384
+
+Official item page marks the image Public Domain; the saved API record confirms isPublicDomain=true.
+
+Official derivative saved unchanged.
+
+## A miniature camelid links herding and ceremony / 骆驼科动物小像连接畜牧与仪式
+
+- File: africa-americas-06-met-309960.jpg
+- Creator: Inca artist(s)
+- Date: 1400–1535 CE
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/309960
+- Rights: Public Domain / CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/309960
+
+Official item page marks the image Public Domain; the saved API record confirms isPublicDomain=true.
+
+Official derivative saved unchanged.
+
+## A Kuba whistle turns carving into sound / 库巴哨把雕刻化为声音
+
+- File: africa-americas-06-met-505581.jpg
+- Creator: Unrecorded Kuba maker
+- Date: mid-19th century
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/505581
+- Rights: Public Domain / CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/505581
+
+Official item page marks the image Public Domain; the saved API record confirms isPublicDomain=true.
+
+Official derivative saved unchanged.
+
+## A terracotta figure from Djenné-Djeno / 来自杰内杰诺的陶塑
+
+- File: africa-americas-06-met-314362.jpg
+- Creator: Middle Niger artist
+- Date: 13th century
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/314362
+- Rights: Public Domain / CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/314362
+
+Official item page marks the image Public Domain; the saved API record confirms isPublicDomain=true.
+
+Official derivative saved unchanged.
 
 ## Independence slogans in Jakarta / 雅加达的独立标语
 
@@ -6919,3 +6975,115 @@ Official derivative saved unchanged; no crop, color change or reconstruction.
 The official collection page marks this image Public Domain.
 
 Official derivative saved unchanged; no crop, color change or reconstruction.
+
+## Shabaqo’s royal image survives in fragments / 沙巴卡的王室形象以残件留存
+
+- File: world-new-05-met-544879.jpg
+- Creator: Unrecorded maker
+- Date: ca. 705–690 BCE
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/544879
+- Rights: Public Domain / CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/544879
+
+Official item page marks the image Public Domain; the saved API record confirms isPublicDomain=true.
+
+Official derivative saved unchanged.
+
+## A Mixtec vessel takes the wind deity’s form / 米斯特克容器采用风神形象
+
+- File: world-new-05-met-313146.jpg
+- Creator: Mixtec (Ñuu Savi) artists
+- Date: 10th–13th century CE
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/313146
+- Rights: Public Domain / CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/313146
+
+Official item page marks the image Public Domain; the saved API record confirms isPublicDomain=true.
+
+Official derivative saved unchanged.
+
+## A Sumatran deity in bronze / 苏门答腊青铜神像
+
+- File: world-new-05-met-39120.jpg
+- Creator: Unrecorded maker
+- Date: 8th–9th century
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/39120
+- Rights: Public Domain / CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/39120
+
+Official item page marks the image Public Domain; the saved API record confirms isPublicDomain=true.
+
+Official derivative saved unchanged.
+
+## An elephant becomes a Lý-period ewer / 李朝陶匠将大象塑成水注
+
+- File: world-new-05-met-73810.jpg
+- Creator: Unrecorded maker
+- Date: 11th–12th century
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/73810
+- Rights: Public Domain / CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/73810
+
+Official item page marks the image Public Domain; the saved API record confirms isPublicDomain=true.
+
+Official derivative saved unchanged.
+
+## Lotus finials and courtly display / 莲花饰件与宫廷展示
+
+- File: world-new-06-met-458645.jpg
+- Creator: Unrecorded maker
+- Date: ca. 1650–1680
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/458645
+- Rights: Public Domain / CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/458645
+
+Official item page marks the image Public Domain; the saved API record confirms isPublicDomain=true.
+
+Official derivative saved unchanged.
+
+## A Jain teacher on a lion throne / 狮座上的耆那教导师
+
+- File: world-new-06-met-74501.jpg
+- Creator: Unrecorded maker
+- Date: late 7th century
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/74501
+- Rights: Public Domain / CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/74501
+
+Official item page marks the image Public Domain; the saved API record confirms isPublicDomain=true.
+
+Official derivative saved unchanged.
+
+## U Paw Hnyun’s embroidered Thiri Rama / 吴波纽绣制的缅甸罗摩故事
+
+- File: world-new-06-met-848697.jpg
+- Creator: U Paw Hnyun
+- Date: ca. 1870–85
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/848697
+- Rights: Public Domain / CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/848697
+
+Official item page marks the image Public Domain; the saved API record confirms isPublicDomain=true.
+
+Official derivative saved unchanged.
+
+## A Kakatiya-period Vishnu image / 卡卡提亚时期的毗湿奴像
+
+- File: world-new-06-met-38143.jpg
+- Creator: Unrecorded maker
+- Date: 12th–13th century
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/38143
+- Rights: Public Domain / CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/38143
+
+Official item page marks the image Public Domain; the saved API record confirms isPublicDomain=true.
+
+Official derivative saved unchanged.

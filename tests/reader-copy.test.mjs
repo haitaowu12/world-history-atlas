@@ -33,3 +33,12 @@ test('review-copy changes are exact and preserve historical source qualification
  assert.match(readerReviewLimit(source,'en'),/indexed scholarship.*may share evidence/);assert.match(readerReviewLimit(source,'zh'),/学术索引.*同一证据/);assert.match(source.expansion.reviewLimit.zh,/本综合/);source.expansion.reviewLimit.zh='New specific qualification';assert.equal(readerReviewLimit(source,'zh'),'New specific qualification');
  assert.equal(readerReviewLimit({},'en'),'');
 });
+
+test('facts already stated as whole summary sentences are not repeated as separate takeaways',()=>{
+ const r={title:{en:'Title',zh:'标题'},summary:{en:'The first claim is clear. A second claim follows.\n\nA third claim adds context.',zh:'第一项主张明确。第二项主张接续。\n\n第三项主张补充背景。'},keyFacts:{en:['The first claim is clear.','A third claim adds context.','A distinct qualification.'],zh:['第一项主张明确。','第三项主张补充背景。','另有特定限制。']}};
+ assert.deepEqual(readerFactLines(r,'en'),['A distinct qualification.']);assert.deepEqual(readerFactLines(r,'zh'),['另有特定限制。']);assert.equal(r.keyFacts.en.length,3);
+});
+test('exact object-review process boilerplate is hidden but a specific qualification survives',()=>{
+ const r=records.find(r=>r.id==='taino-caribbean-societies');for(const lang of ['en','zh'])assert.equal(readerReviewLimit(r,lang),'');assert.ok(r.expansion.reviewLimit.en);
+ const changed=structuredClone(r);changed.expansion.reviewLimit.zh='器物来源地仍有争议。';assert.equal(readerReviewLimit(changed,'zh'),'器物来源地仍有争议。');
+});

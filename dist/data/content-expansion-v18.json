@@ -2443,9 +2443,9 @@
   ],
   "summaryEditsFile": "summary-edits-v18.json",
   "summaryEdits": {
-    "bytes": 464395,
-    "sha256": "1ec66bf6876748babe379588f07fc120c582a1d4cad2dfe9c67960cdfc86a485",
-    "records": 164
+    "bytes": 506547,
+    "sha256": "3c55c405d6da7ab1e53d263f5d73e09b49acec6cc40893029ee6ee318cc9486d",
+    "records": 175
   },
   "chinaReviewsFile": "china-visual-reviews-v18.json",
   "chinaVisualReviews": {
@@ -2455,13 +2455,20 @@
   },
   "mediaLocalization": {
     "file": "history-media-localization-zh-v18.json",
-    "bytes": 216848,
-    "sha256": "7838faf7d53159d0c4fff480b9e85524d8218c83134a85b14056a74c32d56099",
-    "assets": 494
+    "bytes": 221284,
+    "sha256": "01e582567961b767af294662e66d74d7bd88d3b1d45b46dbb16695a6ff8b28fe",
+    "assets": 506
   },
   "visualExpansion": {
     "baselineManifest": "content-expansion-v17.json",
     "shards": [
+      {
+        "file": "visual-assets-africa-americas-06-v18.json",
+        "bytes": 10570,
+        "sha256": "d8f64de5d815c6408afbc89995634df1badb1f4822097abd12a642cd9ac4129f",
+        "assets": 4,
+        "associations": 0
+      },
       {
         "file": "visual-assets-archive-events-01-v18.json",
         "bytes": 7093,
@@ -2930,11 +2937,25 @@
         "sha256": "dd9cf68745a60582a58c66b30caed80ac093645bdb1f0bf0b3212503b95880e3",
         "assets": 5,
         "associations": 0
+      },
+      {
+        "file": "visual-assets-world-new-05-v18.json",
+        "bytes": 10255,
+        "sha256": "2fb219e278a223ecb727e3ef06169efc29384ca5a32227f721a92163293bdf0d",
+        "assets": 4,
+        "associations": 0
+      },
+      {
+        "file": "visual-assets-world-new-06-v18.json",
+        "bytes": 10201,
+        "sha256": "977c9e9e4308cdad43217776f5446442348dac1c4acf19547536086336569424",
+        "assets": 4,
+        "associations": 0
       }
     ],
     "coverageFile": "visual-coverage-v18.json",
-    "assets": 494,
-    "covered": 900,
+    "assets": 506,
+    "covered": 912,
     "total": 2087,
     "target": 1044
   }

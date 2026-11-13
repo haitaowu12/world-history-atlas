@@ -3,9 +3,9 @@
   "reviewedAt": "2026-11-13",
   "baselineManifest": "content-expansion-v17.json",
   "total": 2087,
-  "covered": 900,
-  "assets": 494,
-  "percent": 43.124101581217055,
+  "covered": 912,
+  "assets": 506,
+  "percent": 43.69908960229995,
   "coveredIds": [
     "abbasid-caliphate",
     "abu-simbel-relocation",
@@ -17,6 +17,7 @@
     "aksum",
     "alaska-purchase",
     "american-revolution",
+    "andean-altitude-agriculture",
     "angkor",
     "apollo-11",
     "asante-confederacy",
@@ -614,6 +615,7 @@
     "delano-grape-strike",
     "delhi-sultanate",
     "dholavira",
+    "djenne-djeno-urbanism",
     "dong-son-bronze-networks",
     "dutch-republic",
     "early-buddhist-teachings-communities",
@@ -639,6 +641,7 @@
     "german-reunification",
     "germany-reunified-period",
     "ghaznavid-dynasty",
+    "golconda-qutbshahi",
     "gondar-permanent-capital",
     "goryeo-kingdom",
     "great-seljuqs",
@@ -671,6 +674,7 @@
     "inka-imperial-tunic-story",
     "ironbridge",
     "italian-unification",
+    "jain-ascetic-communities",
     "jantar-mantar-jaipur",
     "japan-postwar-constitution",
     "japan-postwar-polity",
@@ -679,6 +683,7 @@
     "jerusalem-second-temple-destruction-70",
     "joya-ceren-households",
     "justinian-law-compilation",
+    "kakatiya-dynasty",
     "kamakura-shogunate",
     "kanesh-merchant-households",
     "kerma-kingdom",
@@ -690,7 +695,9 @@
     "kongo-diplomacy",
     "korean-division",
     "korean-war-armistice",
+    "kuba-kingdom",
     "kuelap-chachapoya-landscape",
+    "kush-napatan-phase",
     "kushan-networks",
     "kyivan-rus-christian-phase",
     "lalibela-rock-hewn-churches",
@@ -699,6 +706,7 @@
     "louisiana-purchase",
     "lubeck-hanseatic-trade",
     "lumbini-ashoka-pillar-249-bce",
+    "ly-dynasty",
     "magna-carta",
     "majapahit-clay-domestic-architecture",
     "majapahit-java",
@@ -725,6 +733,7 @@
     "milan-toleration-313",
     "mimbres-painted-pottery",
     "ming-dynasty",
+    "mixtec-kingdoms",
     "moche-north-coast",
     "mogao",
     "mohenjo-daro",
@@ -734,6 +743,7 @@
     "mughal-empire",
     "mughal-translation-workshops",
     "muromachi-shogunate",
+    "myanmar-textiles-material-history",
     "mysore-hyder-tipu-phase",
     "nalanda",
     "nan-madol",
@@ -863,9 +873,11 @@
     "songo-mnara-households",
     "south-africa-election",
     "southern-song",
+    "srivijaya-maritime",
     "straits-settlements-formation",
     "suez-canal-opening",
     "sukhothai-urban-arts",
+    "taino-caribbean-societies",
     "taj-mahal",
     "taxila-sirkap",
     "teotihuacan",
@@ -926,12 +938,10 @@
     "gyeongju",
     "early-islam",
     "tang-dynasty",
-    "srivijaya-maritime",
     "cahokia",
     "ghana-wagadu",
     "chaco",
     "quanzhou",
-    "ly-dynasty",
     "taputapuatea",
     "ayutthaya-kingdom",
     "joseon-kingdom",
@@ -1043,7 +1053,6 @@
     "imjin-war",
     "korea-june-democracy-movement",
     "nok-terracotta-workshops",
-    "djenne-djeno-urbanism",
     "aksum-ezana-christianity",
     "ife-sculpture-workshops",
     "aachen-palatine-chapel",
@@ -1075,7 +1084,6 @@
     "japan-onin-war",
     "egypt-piye-campaign",
     "rashtrakuta-dynasty",
-    "kakatiya-dynasty",
     "ghurid-dynasty",
     "qarakhanid-dynasty",
     "golden-horde",
@@ -1083,7 +1091,6 @@
     "almoravid-dynasty",
     "almohad-dynasty",
     "purepecha-state",
-    "mixtec-kingdoms",
     "canada-polity",
     "india-independent-polity",
     "ghana-independent-polity",
@@ -1097,7 +1104,6 @@
     "burundi-royal-drumming",
     "luba-political-network",
     "lunda-political-network",
-    "kuba-kingdom",
     "kasubi-royal-landscape",
     "buganda-barkcloth-craft",
     "luba-lukasa-memory",
@@ -1106,7 +1112,6 @@
     "sokoto-caliphate",
     "oyo-imperial-phase",
     "sahel-transsaharan-exchange",
-    "kush-napatan-phase",
     "zanzibar-clove-labour",
     "merina-highland-kingdom",
     "berlin-conference-africa",
@@ -1164,16 +1169,13 @@
     "vietnam-doi-moi-reform",
     "philippines-edsa-people-power",
     "java-cultivation-system",
-    "myanmar-textiles-material-history",
     "restored-le-political-phase",
     "trinh-nguyen-regional-government",
     "brunei-kota-batu-maritime-court",
     "vedic-oral-transmission",
     "early-gangetic-cities",
-    "jain-ascetic-communities",
     "indian-ocean-port-exchange",
     "bahmani-deccan",
-    "golconda-qutbshahi",
     "maratha-political-formations",
     "bengal-diwani-1765",
     "pakistan-constitutional-sequences",
@@ -1231,11 +1233,9 @@
     "stonewall-uprising",
     "alcatraz-occupation",
     "delgamuukw-oral-history",
-    "taino-caribbean-societies",
     "maya-living-languages",
     "chinampa-lake-agriculture",
     "popol-vuh-transmission",
-    "andean-altitude-agriculture",
     "inka-quipu-recordkeeping",
     "andean-conquest-resistance",
     "titicaca-raised-fields",
@@ -2099,11 +2099,11 @@
   ],
   "target": 1044,
   "targetMet": false,
-  "remaining": 144,
+  "remaining": 132,
   "regions": {
     "africa": {
       "total": 136,
-      "covered": 47
+      "covered": 50
     },
     "east-asia": {
       "total": 1216,
@@ -2115,7 +2115,7 @@
     },
     "latin-america": {
       "total": 94,
-      "covered": 33
+      "covered": 36
     },
     "north-america": {
       "total": 123,
@@ -2127,11 +2127,11 @@
     },
     "south-asia": {
       "total": 95,
-      "covered": 44
+      "covered": 47
     },
     "southeast-asia": {
       "total": 101,
-      "covered": 30
+      "covered": 33
     },
     "west-central-asia": {
       "total": 111,
@@ -2148,10 +2148,17 @@
     "later-depiction": 67,
     "lifetime-portrait": 18,
     "manuscript-detail": 36,
-    "object-photograph": 92,
+    "object-photograph": 104,
     "site-photograph": 52
   },
   "shards": [
+    {
+      "file": "visual-assets-africa-americas-06-v18.json",
+      "bytes": 10570,
+      "sha256": "d8f64de5d815c6408afbc89995634df1badb1f4822097abd12a642cd9ac4129f",
+      "assets": 4,
+      "associations": 0
+    },
     {
       "file": "visual-assets-archive-events-01-v18.json",
       "bytes": 7093,
@@ -2620,8 +2627,22 @@
       "sha256": "dd9cf68745a60582a58c66b30caed80ac093645bdb1f0bf0b3212503b95880e3",
       "assets": 5,
       "associations": 0
+    },
+    {
+      "file": "visual-assets-world-new-05-v18.json",
+      "bytes": 10255,
+      "sha256": "2fb219e278a223ecb727e3ef06169efc29384ca5a32227f721a92163293bdf0d",
+      "assets": 4,
+      "associations": 0
+    },
+    {
+      "file": "visual-assets-world-new-06-v18.json",
+      "bytes": 10201,
+      "sha256": "977c9e9e4308cdad43217776f5446442348dac1c4acf19547536086336569424",
+      "assets": 4,
+      "associations": 0
     }
   ],
-  "assetBytes": 97318096,
+  "assetBytes": 98313517,
   "verification": "All admitted files match their SHA-256, byte count and encoded dimensions. Source identity, reuse rights, pixel review and entry relevance require the individual editorial records; structural validation does not establish those facts."
 }
