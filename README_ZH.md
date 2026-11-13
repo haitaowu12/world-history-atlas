@@ -22,9 +22,9 @@
 
 ## 开发近况 · 2026年11月
 
-**已上线：** Firebase 网站目前提供 V17 / **0.23.0** 内容，共有 **2,084 条历史记录、278 篇人物生平和 103 篇主题导读**，以及 29 幅注明出处的历史图像。内容涵盖九个地区的日常劳动、物质文化与相互联系的故事。详见 [V17 研究与检查记录](docs/V17_RELEASE_EVIDENCE.md)。
+**当前里程碑：V18 / 0.24.0。** 内容包括 **2,087 条历史记录、278 篇人物生平和 103 篇主题导读**。**489 幅注明出处的图像覆盖 878 条记录（42.1%）**，支持图像细看、并排比较，以及 18 组图像对读。人物目录默认展示已有肖像或相关作品，不排除暂无配图的人物。战时地图来源说明展开后，也不会遮住地图操作按钮。
 
-**开发中：** 下一轮图像扩充在[独立审阅分支](https://github.com/haitaowu12/world-history-atlas/tree/review/atlas-visual-expansion-20261110)上进行，正在加入有来源依据的实物、文献与人物图像、图像对照阅读，并精简阅读说明和署名的呈现方式。这些改动**尚未作为新版本上线**。当前覆盖情况、检查结果及待完成事项见[开发记录](https://github.com/haitaowu12/world-history-atlas/blob/review/atlas-visual-expansion-20261110/docs/V18_VISUAL_EXPANSION.md)。
+**继续扩充：** 目标是至少半数条目拥有有意义的配图，即当前 2,087 条中的 1,044 条，尚需增加 166 条。[里程碑检查与上线状态](docs/V18_MILESTONE_2026-11-13.md) · [图像覆盖清单](dist/data/visual-coverage-v18.json) · [开发记录](docs/V18_VISUAL_EXPANSION.md)。
 
 Firebase 是主要在线地址。旧的 [GitHub Pages](https://haitaowu12.github.io/world-history-atlas/) 和 GPT Site 链接可能仍显示较早版本。2026年11月暂停使用 GitHub Actions；12月前不要触发或重试工作流。
 

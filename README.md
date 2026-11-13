@@ -22,9 +22,9 @@ Coverage is selective and growing. Historical maps have different dates and limi
 
 ## Development update · November 2026
 
-**Published content:** the live Firebase site carries the V17 / **0.23.0** collection: **2,084 historical entries, 278 biographies and 103 guided readings**, with 29 credited historical images. The collection adds everyday work, material culture and connected stories across nine regions. [V17 research and checks](docs/V17_RELEASE_EVIDENCE.md).
+**Current milestone: V18 / 0.24.0.** The collection contains **2,087 historical entries, 278 biographies and 103 guided readings**. Its **489 credited images illustrate 878 entries (42.1%)**, with image inspection, side-by-side comparison and 18 guided visual studies. People show available portraits or related works by default, without excluding unillustrated biographies. Map controls remain clear when wartime source legends are expanded.
 
-**In development:** the next visual expansion is being built on a [separate review branch](https://github.com/haitaowu12/world-history-atlas/tree/review/atlas-visual-expansion-20261110). It adds sourced objects, documents and portraits, image comparisons, and a shorter presentation of reading notes and credits. This work is **not yet a published release**. See the [development record](https://github.com/haitaowu12/world-history-atlas/blob/review/atlas-visual-expansion-20261110/docs/V18_VISUAL_EXPANSION.md) for current coverage, checks and remaining work.
+**Still growing:** the goal is meaningful images for at least half the entries: 1,044 of the current 2,087. Another 166 entries remain. [Milestone checks and publication status](docs/V18_MILESTONE_2026-11-13.md) · [Coverage ledger](dist/data/visual-coverage-v18.json) · [Development record](docs/V18_VISUAL_EXPANSION.md).
 
 Firebase is the primary live destination. Older [GitHub Pages](https://haitaowu12.github.io/world-history-atlas/) and GPT Site links may show earlier versions. GitHub Actions are paused through November 2026; do not dispatch or retry workflows before December.
 
