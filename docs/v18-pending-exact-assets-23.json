@@ -1,0 +1,53 @@
+{
+  "reviewedAt": "2026-11-13",
+  "status": "Research only. These candidates are not included in image coverage, the media manifest or the deployed site.",
+  "candidates": [
+    {
+      "recordId": "kuba-raffia-many-hands",
+      "institution": "Princeton University Art Museum",
+      "objectNumber": "y1953-106",
+      "title": "Trade textile",
+      "date": "before 1924",
+      "sourceUrl": "https://artmuseum.princeton.edu/art/collections/objects/24328",
+      "manifestUrl": "https://data.artmuseum.princeton.edu/iiif/objects/24328",
+      "observedImageUrl": "https://media.artmuseum.princeton.edu/iiif/3/collection/INV010662/full/max/0/default.jpg",
+      "rightsEvidence": "Exact item's Download Image section states free access to public-domain images and explicitly welcomes downloading this image for use.",
+      "imageStatus": "No local image file. Download attempt was approval-gated; target absence verified, no retry.",
+      "requiredEdit": "Current entry describes Met1999.522.15. Replace that object-specific paragraph, material detail and date explanation before using Princeton's different cloth. Preserve the wider craft account only where supported by its existing sources.",
+      "verifiedDetails": "Raffia, tukula and dye; weaving, cut-pile embroidery, dyeing and sewing. 128.8cm square excluding fringe. Collected by Joyce K. Doyle in present-day DRC during1919–1923; named individual maker unrecorded."
+    },
+    {
+      "recordId": "new-ireland-malagan-memory",
+      "institution": "Cleveland Museum of Art",
+      "objectNumber": "1971.149",
+      "title": "Malagan Memorial Festival Pole",
+      "date": "1800s",
+      "sourceUrl": "https://www.clevelandart.org/art/1971.149",
+      "observedImageUrl": "https://www.clevelandart.org/_next/image?q=75&url=https%3A%2F%2Fpiction.clevelandart.org%2Fcma%2Fump.di%3Fe%3DA359E5843EE7950B699F6DEDF83D6802A927EFC12D6C669EE068C8DB1A1437D8%26s%3D24247294%26se%3D116628280%26v%3D1%26f%3D%5Cd5468%5Cu3454689%5C1971.149_o5.jpg&w=640",
+      "rightsEvidence": "Exact item permits copying, modifying and distributing without permission; linked CMA Open Access policy specifies CC0.",
+      "imageStatus": "Public item-page image link observed through the web tool. No local file, checksum or pixel acceptance yet. The separate catalog API returned403 and was not retried.",
+      "requiredEdit": "Current entry's1875–1925 window and wood/paint/fibre description concern a Met object. This Cleveland pole is nineteenth-century painted wood with sea-snail opercula. Update the specific object paragraph and date explanation; do not silently substitute.",
+      "verifiedDetails": "New Ireland;92.7cm high; Gift of Dr. and Mrs. Thomas Munro. Ceremonial context is memorial feasting, performance and display, not a permanent statue representing one named ancestor."
+    },
+    {
+      "recordId": "peace-westphalia",
+      "institution": "Cleveland Museum of Art",
+      "objectNumber": "2016.36",
+      "title": "Allegory in Honor of Claude de Mesmes, Count d'Avaux",
+      "date": "c.1648–49",
+      "creator": "Grégoire Huret",
+      "sourceUrl": "https://www.clevelandart.org/art/2016.36",
+      "contextSourceUrl": "https://www.clevelandart.org/articles/acquisition-highlights-2016",
+      "observedImageUrl": "https://www.clevelandart.org/_next/image?q=75&url=https%3A%2F%2Fpiction.clevelandart.org%2Fcma%2Fump.di%3Fe%3D45D1C415657ADDA54F83CCC9B8CCF2F7D4020CB75DC3491FDCB1C7FFD8DEB209%26s%3D24247294%26se%3D399313166%26v%3D3%26f%3D%5Cd9647%5Cu45196479%5C2016.36_o5.jpg&w=640",
+      "rightsEvidence": "Exact item permits unrestricted reuse; linked CMA policy specifies CC0.",
+      "imageStatus": "Image link observed. Web image fetch returned InternalError; no local file or pixel verification.",
+      "requiredEdit": "Identify this as an allegory honoring a French negotiator, not a treaty-signing scene. Janus confines Bellona in the Temple of War. The diplomat's portrait appears in the final engraving, not necessarily in this preparatory drawing. Keep treaty dates and institutional account unchanged.",
+      "verifiedDetails": "Black chalk preparatory drawing, Delia E. Holden Fund. Museum article explicitly connects d'Avaux's role to the Peace of Westphalia."
+    }
+  ],
+  "holds": [
+    {"object": "Cleveland1995.21 Nok-style head", "reason": "Reusable image, but current thermoluminescence date20–620CE lies wholly outside the entry's900–400BCE phase. Not admitted merely to increase coverage."},
+    {"object": "British Library IO Islamic1270 On Light, via QDL", "reason": "Exact later copy and public-domain item identified. Manifest request returned403; no alternative image route used."},
+    {"object": "Cleveland1929.368 Buganda barkcloth", "reason": "Catalog permits reuse but explicitly reports no image available."}
+  ]
+}
