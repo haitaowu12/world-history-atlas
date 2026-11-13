@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "reviewedAt": "2026-11-12",
+  "reviewedAt": "2026-11-13",
   "baselineManifest": "content-expansion-v17.json",
   "total": 2087,
-  "covered": 871,
-  "assets": 482,
-  "percent": 41.7345471969334,
+  "covered": 878,
+  "assets": 489,
+  "percent": 42.06995687589842,
   "coveredIds": [
     "abbasid-caliphate",
     "abu-simbel-relocation",
@@ -34,6 +34,7 @@
     "benin-kingdom",
     "berlin-wall-opens",
     "bijapur-adilshahi",
+    "bisotun-royal-inscription",
     "black-death",
     "bologna-medieval-student-universities",
     "borobudur",
@@ -625,6 +626,7 @@
     "galileo-telescope",
     "german-reunification",
     "germany-reunified-period",
+    "gondar-permanent-capital",
     "goryeo-kingdom",
     "great-seljuqs",
     "great-zimbabwe",
@@ -681,6 +683,7 @@
     "lambayeque-sican-craft",
     "lamu-households-learning",
     "louisiana-purchase",
+    "lubeck-hanseatic-trade",
     "lumbini-ashoka-pillar-249-bce",
     "magna-carta",
     "majapahit-clay-domestic-architecture",
@@ -725,6 +728,7 @@
     "new-zealand-wars",
     "northern-song",
     "nz-womens-suffrage",
+    "old-babylon",
     "olmec-centres",
     "orbis-pictus-illustrated-learning",
     "ottoman-empire",
@@ -761,6 +765,7 @@
     "person-frederick-douglass",
     "person-frida-kahlo",
     "person-fukuzawa-yukichi",
+    "person-gabriela-mistral",
     "person-george-washington",
     "person-george-washington-carver",
     "person-harriet-tubman",
@@ -794,6 +799,7 @@
     "person-sequoyah",
     "person-sor-juana",
     "person-susie-king-taylor",
+    "person-taytu-betul",
     "person-te-puea-herangi",
     "person-tsuda-umeko",
     "person-vaclav-havel",
@@ -819,6 +825,7 @@
     "russian-serf-emancipation",
     "safavid-iran",
     "samanid-dynasty",
+    "samarkand",
     "samarra",
     "samoa-mau-independence",
     "sanchi",
@@ -887,7 +894,6 @@
     "budj-bim",
     "liangzhu",
     "akkadian-empire",
-    "old-babylon",
     "poverty-point",
     "hittite-hattusha",
     "lapita-voyaging",
@@ -908,7 +914,6 @@
     "quanzhou",
     "ly-dynasty",
     "mali-empire",
-    "samarkand",
     "taputapuatea",
     "ayutthaya-kingdom",
     "joseon-kingdom",
@@ -1012,7 +1017,6 @@
     "mabo-native-title-decision",
     "nineveh-scribal-library",
     "cyrus-babylon-cylinder",
-    "bisotun-royal-inscription",
     "samarkand-observatory",
     "isfahan-royal-square",
     "gulhane-reform-edict",
@@ -1026,10 +1030,8 @@
     "djenne-djeno-urbanism",
     "aksum-ezana-christianity",
     "ife-sculpture-workshops",
-    "gondar-permanent-capital",
     "aachen-palatine-chapel",
     "domesday-survey",
-    "lubeck-hanseatic-trade",
     "lanse-aux-meadows-woodworking",
     "mesa-verde-cliff-villages",
     "quebec-french-settlement",
@@ -1420,7 +1422,6 @@
     "person-njinga",
     "person-nana-asmau",
     "person-yaa-asantewaa",
-    "person-taytu-betul",
     "person-funmilayo-ransome-kuti",
     "person-albertina-sisulu",
     "person-julius-nyerere",
@@ -1461,7 +1462,6 @@
     "person-guaman-poma",
     "person-tupac-amaru-ii",
     "person-bartolina-sisa",
-    "person-gabriela-mistral",
     "person-rigoberta-menchu",
     "person-whina-cooper",
     "person-faith-bandler",
@@ -2099,11 +2099,11 @@
   ],
   "target": 1044,
   "targetMet": false,
-  "remaining": 173,
+  "remaining": 166,
   "regions": {
     "africa": {
       "total": 136,
-      "covered": 42
+      "covered": 44
     },
     "east-asia": {
       "total": 1216,
@@ -2111,11 +2111,11 @@
     },
     "europe": {
       "total": 122,
-      "covered": 72
+      "covered": 73
     },
     "latin-america": {
       "total": 94,
-      "covered": 32
+      "covered": 33
     },
     "north-america": {
       "total": 123,
@@ -2135,15 +2135,15 @@
     },
     "west-central-asia": {
       "total": 111,
-      "covered": 32
+      "covered": 35
     }
   },
   "types": {
     "ancient-portrait": 2,
     "ancient-royal-image": 2,
-    "document-facsimile": 35,
-    "historical-artwork": 71,
-    "historical-photograph": 82,
+    "document-facsimile": 39,
+    "historical-artwork": 72,
+    "historical-photograph": 84,
     "historical-portrait": 30,
     "later-depiction": 67,
     "lifetime-portrait": 18,
@@ -2461,6 +2461,13 @@
       "associations": 0
     },
     {
+      "file": "visual-assets-rebuilt-archive-pages-01-v18.json",
+      "bytes": 30061,
+      "sha256": "0cbb2e642adb2d4af8ce9eccb01b09e4ab16539bf93f0b3f8df35eff4ae47e44",
+      "assets": 7,
+      "associations": 0
+    },
+    {
       "file": "visual-assets-us-archives-02-v18.json",
       "bytes": 13704,
       "sha256": "5b078427c4692e61b8a90cf3448abe164ae45786f0636351b3301ba92f00d107",
@@ -2587,6 +2594,6 @@
       "associations": 1
     }
   ],
-  "assetBytes": 95817516,
+  "assetBytes": 96714168,
   "verification": "All admitted files match their SHA-256, byte count and encoded dimensions. Source identity, reuse rights, pixel review and entry relevance require the individual editorial records; structural validation does not establish those facts."
 }

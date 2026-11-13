@@ -24,7 +24,7 @@ if(stories.some(row=>row.expansion?.release!==12||row.expansion?.edition!=='v18'
 if(narrativeErrors.length)throw Error(narrativeErrors.join('\n'));
 const counts=rows=>({records:rows.length,biographies:rows.filter(r=>r.kind==='person').length,biographyMilestones:rows.reduce((n,r)=>n+(r.milestones?.length||0),0),politicalOverviews:rows.filter(r=>r.kind==='polity').length,sourceURLs:new Set(rows.flatMap(r=>r.sources.map(s=>s.url))).size});
 const shards=fs.readdirSync(data).filter(f=>/^visual-assets-.*-v18\.json$/.test(f)).sort();
-let catalog={...readAtlasData('history-media-v17.json'),version:2,reviewedAt:'2026-11-12',associations:[]};
+let catalog={...readAtlasData('history-media-v17.json'),version:2,reviewedAt:'2026-11-13',associations:[]};
 const receipts=[];
 for(const file of shards){
  const bytes=fs.readFileSync(new URL(file,data)),shard=JSON.parse(bytes);

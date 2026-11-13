@@ -1,0 +1,812 @@
+{
+  "reviewedAt": "2026-11-13",
+  "scope": "Exact recovered image bytes; rebuilt catalogue metadata, fresh official item rights and canvas identities. Not recovery of the full interrupted implementation.",
+  "images": [
+    {
+      "assetId": "site-books-01-samarkand-tomb",
+      "recordId": "samarkand",
+      "metadataUrl": "https://archive.org/metadata/turkistannotesa03schugoog",
+      "manifestUrl": "https://iiif.archive.org/iiif/turkistannotesa03schugoog/manifest.json",
+      "metadata": {
+        "publisher": "Scribner, Armstrong & co.",
+        "identifier": "turkistannotesa03schugoog",
+        "scanner": "google",
+        "title": "Turkistan: Notes of a Journey in Russian Turkistan, Khokand, Bukhara, and Kuldja",
+        "creator": "Eugene Schuyler",
+        "contributor": "Harvard University",
+        "mediatype": "texts",
+        "collection": "americana",
+        "possible-copyright-status": "NOT_IN_COPYRIGHT",
+        "year": "1876",
+        "date": "1876",
+        "oclc-id": "185166351",
+        "scandate": "20070706",
+        "copyright-region": "US",
+        "description": "Book digitized by Google from the library of Harvard University and uploaded to the Internet Archive by user tpb.",
+        "source": "http://books.google.com/books?id=NGoEAAAAYAAJ&oe=UTF-8",
+        "uploader": "tpb",
+        "sponsor": "Google",
+        "language": "English",
+        "identifier-access": "http://www.archive.org/details/turkistannotesa03schugoog",
+        "identifier-ark": "ark:/13960/t8qc0g41c",
+        "imagecount": "461",
+        "ppi": "600",
+        "ocr": "ABBYY FineReader 8.0",
+        "repub_state": "4",
+        "publicdate": "2009-06-19 14:57:41",
+        "backup_location": "ia903603_9",
+        "addeddate": "2009-06-19 14:57:41"
+      },
+      "canvasIndex": 288,
+      "canvas": {
+        "annotations": [
+          {
+            "id": "https://iiif.archive.org/iiif/3/annotations/turkistannotesa03schugoog/turkistannotesa03schugoog_djvu.xml/289.json",
+            "type": "AnnotationPage"
+          }
+        ],
+        "height": 4925,
+        "id": "https://iiif.archive.org/iiif/turkistannotesa03schugoog$288/canvas",
+        "items": [
+          {
+            "id": "https://iiif.archive.org/iiif/turkistannotesa03schugoog/annotationPage/288",
+            "items": [
+              {
+                "body": {
+                  "format": "image/jpeg",
+                  "id": "https://iiif.archive.org/image/iiif/3/turkistannotesa03schugoog%2Fturkistannotesa03schugoog_jp2.zip%2Fturkistannotesa03schugoog_jp2%2Fturkistannotesa03schugoog_0288.jp2/full/max/0/default.jpg",
+                  "service": [
+                    {
+                      "id": "https://iiif.archive.org/image/iiif/3/turkistannotesa03schugoog%2Fturkistannotesa03schugoog_jp2.zip%2Fturkistannotesa03schugoog_jp2%2Fturkistannotesa03schugoog_0288.jp2",
+                      "profile": "level2",
+                      "type": "ImageService3"
+                    }
+                  ],
+                  "type": "Image"
+                },
+                "id": "https://iiif.archive.org/iiif/turkistannotesa03schugoog/annotation/288",
+                "motivation": "painting",
+                "target": "https://iiif.archive.org/iiif/turkistannotesa03schugoog$288/canvas",
+                "type": "Annotation"
+              }
+            ],
+            "type": "AnnotationPage"
+          }
+        ],
+        "label": {
+          "none": [
+            "288"
+          ]
+        },
+        "type": "Canvas",
+        "width": 3034
+      },
+      "recoveryReceipt": {
+        "file": "site-books-01-samarkand-tomb.jpg",
+        "blob": "96ff1e1438005ae39a00db9f8067aaeaf82eeab9",
+        "source": "https://api.github.com/repos/haitaowu12/world-history-atlas/git/blobs/96ff1e1438005ae39a00db9f8067aaeaf82eeab9",
+        "bytes": 172199,
+        "sha256": "7b60d480cda8bb8fbba26fa4df58682baa7ce6b840740b1ba1aa3a9b64c9e4aa"
+      },
+      "pixelReview": "Owner individually inspected these exact SHA256-identical images on 2026-11-12; inherited visual evidence retained, no claim of fresh source-image download."
+    },
+    {
+      "assetId": "site-books-01-lubeck-petrikirche",
+      "recordId": "lubeck-hanseatic-trade",
+      "metadataUrl": "https://archive.org/metadata/diebauundkunstde0201lbuoft",
+      "manifestUrl": "https://iiif.archive.org/iiif/diebauundkunstde0201lbuoft/manifest.json",
+      "metadata": {
+        "title": "Die Bau- und Kunstdenkmäler der Freien und Hansestadt Lübeck. Hrsg. von der Baudeputation",
+        "volume": "v.02 pt.01",
+        "creator": [
+          "Lübeck, Ger. Baudeputation",
+          "Lübeck, Ger. Amt für Denkmalpflege"
+        ],
+        "subject": [
+          "Architecture -- Germany Lübeck",
+          "Art -- Germany Lübeck"
+        ],
+        "description": [
+          "Includes bibliographical references",
+          "Bd. 1, T. 2. Rathaus und öffentliche Gebäude der Stadt, bearb. von H. Rahtgens, überarb. und erg. von L. Wilde.--Bd. 2, T. 1. Die Petrikirche, von Fritz Hirsch.- T. 2. Die Marienkirche, von Gustav Schaumann und Friedrich Bruns",
+          "26"
+        ],
+        "publisher": "Lübeck B. Nöhring",
+        "date": "[1906]",
+        "language": "ger",
+        "copyright-evidence-operator": "Marlete Kurten",
+        "possible-copyright-status": "NOT_IN_COPYRIGHT",
+        "copyright-region": "US",
+        "copyright-evidence": "Evidence reported by Marlete Kurten for item diebauundkunstde0201lbuoft on July 31, 2008: no visible notice of copyright; exact publication date unknown.",
+        "copyright-evidence-date": "20080731223548",
+        "sponsor": "MSN",
+        "contributor": "Robarts - University of Toronto",
+        "scanningcenter": "uoft",
+        "mediatype": "texts",
+        "collection": [
+          "robarts",
+          "toronto",
+          "university_of_toronto"
+        ],
+        "call_number": "AFX-8232",
+        "repub_state": "4",
+        "updatedate": "2008-07-31 22:35:59",
+        "updater": "Marlete Kurten",
+        "identifier": "diebauundkunstde0201lbuoft",
+        "uploader": "marlete@archive.org",
+        "addeddate": "2008-07-31 22:34:41",
+        "publicdate": "2008-07-31 22:34:50",
+        "ppi": "400",
+        "camera": "Canon 5D",
+        "operator": "scanner-joanne-szilagyi@archive.org",
+        "scanner": "scribe13.toronto.archive.org",
+        "scandate": "20080805213114",
+        "imagecount": "140",
+        "foldoutcount": "0",
+        "identifier-access": "http://www.archive.org/details/diebauundkunstde0201lbuoft",
+        "identifier-ark": "ark:/13960/t2j67mc4b",
+        "scanfactors": "5",
+        "curation": "[curator]julie@archive.org[/curator][date]20080820231113[/date][state]approved[/state]",
+        "backup_location": "ia903602_8",
+        "external-identifier": "urn:oclc:record:1042967241",
+        "openlibrary_edition": "OL14004135M",
+        "openlibrary_work": "OL18035128W",
+        "filesxml": [
+          "Thu Dec 24 0:59:50 UTC 2020",
+          "Thu Dec 31 22:05:34 UTC 2020"
+        ],
+        "associated-names": "Lübeck, Ger. Baudeputation; Lübeck, Ger. Amt für Denkmalpflege",
+        "ocr_module_version": "0.0.21",
+        "ocr_converted": "abbyy-to-hocr 1.1.37",
+        "page_number_confidence": "85",
+        "page_number_module_version": "1.0.3",
+        "pdf_module_version": "0.0.23"
+      },
+      "canvasIndex": 6,
+      "canvas": {
+        "annotations": [
+          {
+            "id": "https://iiif.archive.org/iiif/3/annotations/diebauundkunstde0201lbuoft/diebauundkunstde0201lbuoft_djvu.xml/7.json",
+            "type": "AnnotationPage"
+          }
+        ],
+        "height": 3226,
+        "id": "https://iiif.archive.org/iiif/diebauundkunstde0201lbuoft$6/canvas",
+        "items": [
+          {
+            "id": "https://iiif.archive.org/iiif/diebauundkunstde0201lbuoft/annotationPage/6",
+            "items": [
+              {
+                "body": {
+                  "format": "image/jpeg",
+                  "id": "https://iiif.archive.org/image/iiif/3/diebauundkunstde0201lbuoft%2Fdiebauundkunstde0201lbuoft_jp2.zip%2Fdiebauundkunstde0201lbuoft_jp2%2Fdiebauundkunstde0201lbuoft_0007.jp2/full/max/0/default.jpg",
+                  "service": [
+                    {
+                      "id": "https://iiif.archive.org/image/iiif/3/diebauundkunstde0201lbuoft%2Fdiebauundkunstde0201lbuoft_jp2.zip%2Fdiebauundkunstde0201lbuoft_jp2%2Fdiebauundkunstde0201lbuoft_0007.jp2",
+                      "profile": "level2",
+                      "type": "ImageService3"
+                    }
+                  ],
+                  "type": "Image"
+                },
+                "id": "https://iiif.archive.org/iiif/diebauundkunstde0201lbuoft/annotation/6",
+                "motivation": "painting",
+                "target": "https://iiif.archive.org/iiif/diebauundkunstde0201lbuoft$6/canvas",
+                "type": "Annotation"
+              }
+            ],
+            "type": "AnnotationPage"
+          }
+        ],
+        "label": {
+          "none": [
+            "7"
+          ]
+        },
+        "type": "Canvas",
+        "width": 2185
+      },
+      "recoveryReceipt": {
+        "file": "site-books-01-lubeck-petrikirche.jpg",
+        "blob": "1355b148be55f853706578bf47f695ab43302fba",
+        "source": "https://api.github.com/repos/haitaowu12/world-history-atlas/git/blobs/1355b148be55f853706578bf47f695ab43302fba",
+        "bytes": 126404,
+        "sha256": "f985738c5102115c02a68fd3bd83bfddaf583144564e76ffe8420e23e9b0b222"
+      },
+      "pixelReview": "Owner individually inspected these exact SHA256-identical images on 2026-11-12; inherited visual evidence retained, no claim of fresh source-image download."
+    },
+    {
+      "assetId": "site-books-01-gondar-fasilides",
+      "recordId": "gondar-permanent-capital",
+      "metadataUrl": "https://archive.org/metadata/sportingtripthro00cottrich",
+      "manifestUrl": "https://iiif.archive.org/iiif/sportingtripthro00cottrich/manifest.json",
+      "metadata": {
+        "title": "A sporting trip through Abyssinia; a narrative of a nine months' journey from the plains of the Hawash to the snows of Simien",
+        "creator": "Cotton, Percy Horace Gordon Powell-, 1866-",
+        "subject": [
+          "Hunting -- Ethiopia",
+          "Ethiopia -- Description and travel"
+        ],
+        "publisher": "London, R. Ward",
+        "date": "1902",
+        "language": "eng",
+        "copyright-evidence-operator": "MarkGraves",
+        "possible-copyright-status": "NOT_IN_COPYRIGHT",
+        "copyright-region": "US",
+        "copyright-evidence": "Evidence reported by MarkGraves for item sportingtripthro00cottrich on September 5, 2008: no visible notice of copyright; stated date is 1902.",
+        "copyright-evidence-date": "20080905155958",
+        "sponsor": "MSN",
+        "contributor": "University of California Libraries",
+        "scanningcenter": "rich",
+        "mediatype": "texts",
+        "call_number": "nrlf_ucb:GLAD-50511259",
+        "collection-library": "nrlf_ucb",
+        "identifier-bib": "GLAD-50511259",
+        "updatedate": "2008-09-05 16:00:00",
+        "updater": "MarkGraves",
+        "identifier": "sportingtripthro00cottrich",
+        "uploader": "markg@archive.org",
+        "addeddate": "2008-09-05 16:00:02",
+        "publicdate": "2008-09-05 16:00:08",
+        "ppi": "500",
+        "camera": "Canon 5D",
+        "operator": "scanner-sokpheap-meas@archive.org",
+        "scanner": "scribe9.rich.archive.org",
+        "scandate": "20080909163439",
+        "imagecount": "584",
+        "foldoutcount": "0",
+        "identifier-access": "http://www.archive.org/details/sportingtripthro00cottrich",
+        "identifier-ark": "ark:/13960/t1qf8x38g",
+        "scanfactors": "72",
+        "repub_state": "4",
+        "curation": "[curator]julie@archive.org[/curator][date]20080923200330[/date][state]approved[/state]",
+        "collection": [
+          "cdl",
+          "americana"
+        ],
+        "backup_location": "ia903602_12",
+        "openlibrary_edition": "OL18075580M",
+        "openlibrary_work": "OL229001W",
+        "external-identifier": "urn:oclc:record:1155559543",
+        "filesxml": [
+          "Sat Dec 26 7:46:24 UTC 2020",
+          "Fri Jan 1 2:31:47 UTC 2021"
+        ],
+        "ocr_module_version": "0.0.14",
+        "ocr_converted": "abbyy-to-hocr 1.1.11",
+        "page_number_confidence": "67",
+        "oclc-id": "25940618",
+        "description": "xxiii, 531 p. 23 mc",
+        "page_number_module_version": "1.0.5",
+        "pdf_module_version": "0.0.23"
+      },
+      "canvasIndex": 331,
+      "canvas": {
+        "annotations": [
+          {
+            "id": "https://iiif.archive.org/iiif/3/annotations/sportingtripthro00cottrich/sportingtripthro00cottrich_djvu.xml/332.json",
+            "type": "AnnotationPage"
+          }
+        ],
+        "height": 2531,
+        "id": "https://iiif.archive.org/iiif/sportingtripthro00cottrich$331/canvas",
+        "items": [
+          {
+            "id": "https://iiif.archive.org/iiif/sportingtripthro00cottrich/annotationPage/331",
+            "items": [
+              {
+                "body": {
+                  "format": "image/jpeg",
+                  "id": "https://iiif.archive.org/image/iiif/3/sportingtripthro00cottrich%2Fsportingtripthro00cottrich_jp2.zip%2Fsportingtripthro00cottrich_jp2%2Fsportingtripthro00cottrich_0334.jp2/full/max/0/default.jpg",
+                  "service": [
+                    {
+                      "id": "https://iiif.archive.org/image/iiif/3/sportingtripthro00cottrich%2Fsportingtripthro00cottrich_jp2.zip%2Fsportingtripthro00cottrich_jp2%2Fsportingtripthro00cottrich_0334.jp2",
+                      "profile": "level2",
+                      "type": "ImageService3"
+                    }
+                  ],
+                  "type": "Image"
+                },
+                "id": "https://iiif.archive.org/iiif/sportingtripthro00cottrich/annotation/331",
+                "motivation": "painting",
+                "target": "https://iiif.archive.org/iiif/sportingtripthro00cottrich$331/canvas",
+                "type": "Annotation"
+              }
+            ],
+            "type": "AnnotationPage"
+          }
+        ],
+        "label": {
+          "none": [
+            "334"
+          ]
+        },
+        "type": "Canvas",
+        "width": 1721
+      },
+      "recoveryReceipt": {
+        "file": "site-books-01-gondar-fasilides.jpg",
+        "blob": "35bde21dac64577dc6bbcd4037062b0cc27d57b7",
+        "source": "https://api.github.com/repos/haitaowu12/world-history-atlas/git/blobs/35bde21dac64577dc6bbcd4037062b0cc27d57b7",
+        "bytes": 145258,
+        "sha256": "8f8dad295b1814a13dd69cd0c43350e917dfcd834db449dbe67b5aa2209c3cd9"
+      },
+      "pixelReview": "Owner individually inspected these exact SHA256-identical images on 2026-11-12; inherited visual evidence retained, no claim of fresh source-image download."
+    },
+    {
+      "assetId": "authored-women-01-gabriela-mistral",
+      "recordId": "person-gabriela-mistral",
+      "metadataUrl": "https://archive.org/metadata/lecturasparamuje00mistuoft",
+      "manifestUrl": "https://iiif.archive.org/iiif/lecturasparamuje00mistuoft/manifest.json",
+      "metadata": {
+        "title": "Lecturas para mujeres",
+        "creator": "Mistral, Gabriela, 1889-1957",
+        "subject": [
+          "Spanish language",
+          "Spanish literature -- Collections"
+        ],
+        "description": "26",
+        "publisher": "[México] Sec. de Educacion",
+        "date": "1923",
+        "language": "spa",
+        "possible-copyright-status": "NOT_IN_COPYRIGHT",
+        "sponsor": "University of Toronto",
+        "contributor": "Robarts - University of Toronto",
+        "scanningcenter": "uoft",
+        "mediatype": "texts",
+        "collection": [
+          "robarts",
+          "toronto",
+          "university_of_toronto"
+        ],
+        "call_number": "AEU-5114",
+        "updatedate": "2008-09-03 18:43:40",
+        "updater": "KatieLawson",
+        "identifier": "lecturasparamuje00mistuoft",
+        "uploader": "katie@archive.org",
+        "addeddate": "2008-09-03 18:43:42",
+        "publicdate": "2008-09-03 18:43:53",
+        "ppi": "500",
+        "lcamid": "332493",
+        "rcamid": "324876",
+        "camera": "1Ds",
+        "operator": "scanner-hera-kashmeri@archive.org",
+        "scanner": "iasw4",
+        "scandate": "20080905193239",
+        "imagecount": "404",
+        "foldoutcount": "0",
+        "identifier-access": "http://www.archive.org/details/lecturasparamuje00mistuoft",
+        "identifier-ark": "ark:/13960/t6xw4mk5s",
+        "scanfactors": "6",
+        "repub_state": "4",
+        "curation": "[curator]sharda@archive.org[/curator][date]20080915185336[/date][state]approved[/state]",
+        "sponsordate": "20080930",
+        "backup_location": "ia903602_11",
+        "openlibrary_edition": "OL14051709M",
+        "openlibrary_work": "OL574380W",
+        "external-identifier": "urn:oclc:record:1141319116",
+        "filesxml": [
+          "Fri Dec 25 0:25:24 UTC 2020",
+          "Thu Dec 31 23:50:18 UTC 2020"
+        ],
+        "ocr_module_version": "0.0.21",
+        "ocr_converted": "abbyy-to-hocr 1.1.37",
+        "page_number_confidence": "90",
+        "page_number_module_version": "1.0.3",
+        "pdf_module_version": "0.0.23"
+      },
+      "canvasIndex": 6,
+      "canvas": {
+        "annotations": [
+          {
+            "id": "https://iiif.archive.org/iiif/3/annotations/lecturasparamuje00mistuoft/lecturasparamuje00mistuoft_djvu.xml/7.json",
+            "type": "AnnotationPage"
+          }
+        ],
+        "height": 3990,
+        "id": "https://iiif.archive.org/iiif/lecturasparamuje00mistuoft$6/canvas",
+        "items": [
+          {
+            "id": "https://iiif.archive.org/iiif/lecturasparamuje00mistuoft/annotationPage/6",
+            "items": [
+              {
+                "body": {
+                  "format": "image/jpeg",
+                  "id": "https://iiif.archive.org/image/iiif/3/lecturasparamuje00mistuoft%2Flecturasparamuje00mistuoft_jp2.zip%2Flecturasparamuje00mistuoft_jp2%2Flecturasparamuje00mistuoft_0007.jp2/full/max/0/default.jpg",
+                  "service": [
+                    {
+                      "id": "https://iiif.archive.org/image/iiif/3/lecturasparamuje00mistuoft%2Flecturasparamuje00mistuoft_jp2.zip%2Flecturasparamuje00mistuoft_jp2%2Flecturasparamuje00mistuoft_0007.jp2",
+                      "profile": "level2",
+                      "type": "ImageService3"
+                    }
+                  ],
+                  "type": "Image"
+                },
+                "id": "https://iiif.archive.org/iiif/lecturasparamuje00mistuoft/annotation/6",
+                "motivation": "painting",
+                "target": "https://iiif.archive.org/iiif/lecturasparamuje00mistuoft$6/canvas",
+                "type": "Annotation"
+              }
+            ],
+            "type": "AnnotationPage"
+          }
+        ],
+        "label": {
+          "none": [
+            "7"
+          ]
+        },
+        "type": "Canvas",
+        "width": 2742
+      },
+      "recoveryReceipt": {
+        "file": "authored-women-01-gabriela-mistral.jpg",
+        "blob": "d019d797dac10d09bfa18f9f6ed7b9cc4b44f9c7",
+        "source": "https://api.github.com/repos/haitaowu12/world-history-atlas/git/blobs/d019d797dac10d09bfa18f9f6ed7b9cc4b44f9c7",
+        "bytes": 188505,
+        "sha256": "065e0285efbe0e33940165a72cea050b1c8f429649b6a8896d7ecc99ea7e90b5"
+      },
+      "pixelReview": "Owner individually inspected these exact SHA256-identical images on 2026-11-12; inherited visual evidence retained, no claim of fresh source-image download."
+    },
+    {
+      "assetId": "inscribed-monuments-01-bisotun",
+      "recordId": "bisotun-royal-inscription",
+      "metadataUrl": "https://archive.org/metadata/sculpturesinscri00brituoft",
+      "manifestUrl": "https://iiif.archive.org/iiif/sculpturesinscri00brituoft/manifest.json",
+      "metadata": {
+        "title": "The sculptures and inscription of Darius the Great on the Rock of Behistûn in Persia : a new collation of the Persian, Susian and Babylonian texts",
+        "creator": [
+          "British Museum. Dept. of Egyptian and Assyrian Antiquities",
+          "King, L. W. (Leonard William), 1869-1919",
+          "Thompson, R. Campbell (Reginald Campbell), 1876-1941"
+        ],
+        "subject": [
+          "Darius I, King of Persia, B.C. 548-485",
+          "Inscriptions, Persian",
+          "Iran -- Antiquities"
+        ],
+        "description": "26",
+        "publisher": "London : Longmans",
+        "date": "1907",
+        "language": "eng",
+        "copyright-evidence-operator": "lexw@archive.org",
+        "possible-copyright-status": "NOT_IN_COPYRIGHT",
+        "copyright-region": "US",
+        "copyright-evidence": "Evidence reported by lexw@archive.org for item sculpturesinscri00brituoft on July 10, 2007: no visible notice of copyright; stated date is 1907.",
+        "copyright-evidence-date": "20070710232528",
+        "sponsor": "MSN",
+        "contributor": "Robarts - University of Toronto",
+        "scanningcenter": "uoft",
+        "mediatype": "texts",
+        "collection": [
+          "robarts",
+          "toronto",
+          "university_of_toronto"
+        ],
+        "call_number": "AEL-3904",
+        "updatedate": "2007-07-10 23:25:32",
+        "updater": "lexw@archive.org",
+        "identifier": "sculpturesinscri00brituoft",
+        "uploader": "lexw@archive.org",
+        "addeddate": "2007-07-10 23:25:34",
+        "publicdate": "2007-07-10 23:25:40",
+        "imagecount": "354",
+        "ppi": "300",
+        "lcamid": "319253",
+        "rcamid": "332513",
+        "camera": "1Ds",
+        "operator": "scanner-liam-boland@archive.org",
+        "scanner": "uoft1",
+        "scandate": "20070712020248",
+        "identifier-access": "http://www.archive.org/details/sculpturesinscri00brituoft",
+        "identifier-ark": "ark:/13960/t76t0kf54",
+        "bookplateleaf": "4",
+        "curation": "[curator]marcus@archive.org[/curator][date]20070807053734[/date][state]approved[/state]",
+        "sponsordate": "20070731",
+        "foldoutcount": "0",
+        "repub_state": "4",
+        "backup_location": "ia903601_4",
+        "openlibrary_edition": "OL14041326M",
+        "openlibrary_work": "OL7118920W",
+        "external-identifier": "urn:oclc:record:1084923979",
+        "filesxml": "Sat Dec 26 3:45:10 UTC 2020",
+        "associated-names": "King, L. W. (Leonard William), 1869-1919; Thompson, R. Campbell (Reginald Campbell), 1876-1941",
+        "ocr_module_version": "0.0.21",
+        "ocr_converted": "abbyy-to-hocr 1.1.37",
+        "page_number_confidence": "82",
+        "page_number_module_version": "1.0.3",
+        "pdf_module_version": "0.0.23"
+      },
+      "canvasIndex": 9,
+      "canvas": {
+        "annotations": [
+          {
+            "id": "https://iiif.archive.org/iiif/3/annotations/sculpturesinscri00brituoft/sculpturesinscri00brituoft_djvu.xml/10.json",
+            "type": "AnnotationPage"
+          }
+        ],
+        "height": 2904,
+        "id": "https://iiif.archive.org/iiif/sculpturesinscri00brituoft$9/canvas",
+        "items": [
+          {
+            "id": "https://iiif.archive.org/iiif/sculpturesinscri00brituoft/annotationPage/9",
+            "items": [
+              {
+                "body": {
+                  "format": "image/jpeg",
+                  "id": "https://iiif.archive.org/image/iiif/3/sculpturesinscri00brituoft%2Fsculpturesinscri00brituoft_jp2.zip%2Fsculpturesinscri00brituoft_jp2%2Fsculpturesinscri00brituoft_0010.jp2/full/max/0/default.jpg",
+                  "service": [
+                    {
+                      "id": "https://iiif.archive.org/image/iiif/3/sculpturesinscri00brituoft%2Fsculpturesinscri00brituoft_jp2.zip%2Fsculpturesinscri00brituoft_jp2%2Fsculpturesinscri00brituoft_0010.jp2",
+                      "profile": "level2",
+                      "type": "ImageService3"
+                    }
+                  ],
+                  "type": "Image"
+                },
+                "id": "https://iiif.archive.org/iiif/sculpturesinscri00brituoft/annotation/9",
+                "motivation": "painting",
+                "target": "https://iiif.archive.org/iiif/sculpturesinscri00brituoft$9/canvas",
+                "type": "Annotation"
+              }
+            ],
+            "type": "AnnotationPage"
+          }
+        ],
+        "label": {
+          "none": [
+            "10"
+          ]
+        },
+        "type": "Canvas",
+        "width": 1832
+      },
+      "recoveryReceipt": {
+        "file": "inscribed-monuments-01-bisotun.jpg",
+        "blob": "714e6a57bbf4f066e43b2207c627acf2a123c1b2",
+        "source": "https://api.github.com/repos/haitaowu12/world-history-atlas/git/blobs/714e6a57bbf4f066e43b2207c627acf2a123c1b2",
+        "bytes": 142902,
+        "sha256": "63708a73fa63d600eb5685cdc8dfdc2677c323af12486b4270d23db8775ec627"
+      },
+      "pixelReview": "Owner individually inspected these exact SHA256-identical images on 2026-11-12; inherited visual evidence retained, no claim of fresh source-image download."
+    },
+    {
+      "assetId": "inscribed-monuments-01-hammurabi",
+      "recordId": "old-babylon",
+      "metadataUrl": "https://archive.org/metadata/codehammurabiki00harpgoog",
+      "manifestUrl": "https://iiif.archive.org/iiif/codehammurabiki00harpgoog/manifest.json",
+      "metadata": {
+        "publisher": "Chicago, The University of Chicago press, Callaghan & company; [etc., etc.]",
+        "scanner": "google",
+        "title": "The code of Hammurabi, king of Babylon about 2250 B. C",
+        "creator": [
+          "Hammurabi, king of Babylonia. [from old catalog]",
+          "Harper, Robert Francis, 1864- [from old catalog] ed"
+        ],
+        "mediatype": "texts",
+        "collection": "americana",
+        "possible-copyright-status": "NOT_IN_COPYRIGHT",
+        "year": "1904",
+        "date": "1904",
+        "oclc-id": "230285",
+        "identifier": "codehammurabiki00harpgoog",
+        "copyright-region": "US",
+        "description": [
+          "Book digitized by Google and uploaded to the Internet Archive by user tpb.",
+          "Replace;"
+        ],
+        "source": "http://books.google.com/books?id=aSANAAAAIAAJ&oe=UTF-8",
+        "contributor": "unknown library",
+        "sponsor": "Google",
+        "uploader": "tpb",
+        "lccn": "04006261",
+        "subject": "Law",
+        "language": "eng",
+        "identifier-access": "http://www.archive.org/details/codehammurabiki00harpgoog",
+        "identifier-ark": "ark:/13960/t7gq77t4j",
+        "imagecount": "423",
+        "ocr": "ABBYY FineReader 8.0",
+        "publicdate": "2009-02-25 04:43:24",
+        "repub_state": "4",
+        "backup_location": "ia903602_29",
+        "openlibrary_edition": "OL20473877M",
+        "openlibrary_work": "OL15725046W",
+        "addeddate": "2009-02-25 04:43:24"
+      },
+      "canvasIndex": 6,
+      "canvas": {
+        "annotations": [
+          {
+            "id": "https://iiif.archive.org/iiif/3/annotations/codehammurabiki00harpgoog/codehammurabiki00harpgoog_djvu.xml/7.json",
+            "type": "AnnotationPage"
+          }
+        ],
+        "height": 1469,
+        "id": "https://iiif.archive.org/iiif/codehammurabiki00harpgoog$6/canvas",
+        "items": [
+          {
+            "id": "https://iiif.archive.org/iiif/codehammurabiki00harpgoog/annotationPage/6",
+            "items": [
+              {
+                "body": {
+                  "format": "image/jpeg",
+                  "id": "https://iiif.archive.org/image/iiif/3/codehammurabiki00harpgoog%2Fcodehammurabiki00harpgoog_tif.zip%2Fcodehammurabiki00harpgoog_tif%2Fcodehammurabiki00harpgoog_0007.tif/full/max/0/default.jpg",
+                  "service": [
+                    {
+                      "id": "https://iiif.archive.org/image/iiif/3/codehammurabiki00harpgoog%2Fcodehammurabiki00harpgoog_tif.zip%2Fcodehammurabiki00harpgoog_tif%2Fcodehammurabiki00harpgoog_0007.tif",
+                      "profile": "level2",
+                      "type": "ImageService3"
+                    }
+                  ],
+                  "type": "Image"
+                },
+                "id": "https://iiif.archive.org/iiif/codehammurabiki00harpgoog/annotation/6",
+                "motivation": "painting",
+                "target": "https://iiif.archive.org/iiif/codehammurabiki00harpgoog$6/canvas",
+                "type": "Annotation"
+              }
+            ],
+            "type": "AnnotationPage"
+          }
+        ],
+        "label": {
+          "none": [
+            "7"
+          ]
+        },
+        "type": "Canvas",
+        "width": 985
+      },
+      "recoveryReceipt": {
+        "file": "inscribed-monuments-01-hammurabi.jpg",
+        "blob": "af026102b3de969366e74bc8cad73a7408e7826d",
+        "source": "https://api.github.com/repos/haitaowu12/world-history-atlas/git/blobs/af026102b3de969366e74bc8cad73a7408e7826d",
+        "bytes": 46853,
+        "sha256": "0647ec1181307c66aeb5e74b42cfc3544e8892676f38d4797724305420128b98"
+      },
+      "pixelReview": "Owner individually inspected these exact SHA256-identical images on 2026-11-12; inherited visual evidence retained, no claim of fresh source-image download."
+    },
+    {
+      "assetId": "african-pages-01-taytu-letter",
+      "recordId": "person-taytu-betul",
+      "metadataUrl": "https://archive.org/metadata/sportingtripthro00cottrich",
+      "manifestUrl": "https://iiif.archive.org/iiif/sportingtripthro00cottrich/manifest.json",
+      "metadata": {
+        "title": "A sporting trip through Abyssinia; a narrative of a nine months' journey from the plains of the Hawash to the snows of Simien",
+        "creator": "Cotton, Percy Horace Gordon Powell-, 1866-",
+        "subject": [
+          "Hunting -- Ethiopia",
+          "Ethiopia -- Description and travel"
+        ],
+        "publisher": "London, R. Ward",
+        "date": "1902",
+        "language": "eng",
+        "copyright-evidence-operator": "MarkGraves",
+        "possible-copyright-status": "NOT_IN_COPYRIGHT",
+        "copyright-region": "US",
+        "copyright-evidence": "Evidence reported by MarkGraves for item sportingtripthro00cottrich on September 5, 2008: no visible notice of copyright; stated date is 1902.",
+        "copyright-evidence-date": "20080905155958",
+        "sponsor": "MSN",
+        "contributor": "University of California Libraries",
+        "scanningcenter": "rich",
+        "mediatype": "texts",
+        "call_number": "nrlf_ucb:GLAD-50511259",
+        "collection-library": "nrlf_ucb",
+        "identifier-bib": "GLAD-50511259",
+        "updatedate": "2008-09-05 16:00:00",
+        "updater": "MarkGraves",
+        "identifier": "sportingtripthro00cottrich",
+        "uploader": "markg@archive.org",
+        "addeddate": "2008-09-05 16:00:02",
+        "publicdate": "2008-09-05 16:00:08",
+        "ppi": "500",
+        "camera": "Canon 5D",
+        "operator": "scanner-sokpheap-meas@archive.org",
+        "scanner": "scribe9.rich.archive.org",
+        "scandate": "20080909163439",
+        "imagecount": "584",
+        "foldoutcount": "0",
+        "identifier-access": "http://www.archive.org/details/sportingtripthro00cottrich",
+        "identifier-ark": "ark:/13960/t1qf8x38g",
+        "scanfactors": "72",
+        "repub_state": "4",
+        "curation": "[curator]julie@archive.org[/curator][date]20080923200330[/date][state]approved[/state]",
+        "collection": [
+          "cdl",
+          "americana"
+        ],
+        "backup_location": "ia903602_12",
+        "openlibrary_edition": "OL18075580M",
+        "openlibrary_work": "OL229001W",
+        "external-identifier": "urn:oclc:record:1155559543",
+        "filesxml": [
+          "Sat Dec 26 7:46:24 UTC 2020",
+          "Fri Jan 1 2:31:47 UTC 2021"
+        ],
+        "ocr_module_version": "0.0.14",
+        "ocr_converted": "abbyy-to-hocr 1.1.11",
+        "page_number_confidence": "67",
+        "oclc-id": "25940618",
+        "description": "xxiii, 531 p. 23 mc",
+        "page_number_module_version": "1.0.5",
+        "pdf_module_version": "0.0.23"
+      },
+      "canvasIndex": 12,
+      "canvas": {
+        "annotations": [
+          {
+            "id": "https://iiif.archive.org/iiif/3/annotations/sportingtripthro00cottrich/sportingtripthro00cottrich_djvu.xml/13.json",
+            "type": "AnnotationPage"
+          }
+        ],
+        "height": 2531,
+        "id": "https://iiif.archive.org/iiif/sportingtripthro00cottrich$12/canvas",
+        "items": [
+          {
+            "id": "https://iiif.archive.org/iiif/sportingtripthro00cottrich/annotationPage/12",
+            "items": [
+              {
+                "body": {
+                  "format": "image/jpeg",
+                  "id": "https://iiif.archive.org/image/iiif/3/sportingtripthro00cottrich%2Fsportingtripthro00cottrich_jp2.zip%2Fsportingtripthro00cottrich_jp2%2Fsportingtripthro00cottrich_0015.jp2/full/max/0/default.jpg",
+                  "service": [
+                    {
+                      "id": "https://iiif.archive.org/image/iiif/3/sportingtripthro00cottrich%2Fsportingtripthro00cottrich_jp2.zip%2Fsportingtripthro00cottrich_jp2%2Fsportingtripthro00cottrich_0015.jp2",
+                      "profile": "level2",
+                      "type": "ImageService3"
+                    }
+                  ],
+                  "type": "Image"
+                },
+                "id": "https://iiif.archive.org/iiif/sportingtripthro00cottrich/annotation/12",
+                "motivation": "painting",
+                "target": "https://iiif.archive.org/iiif/sportingtripthro00cottrich$12/canvas",
+                "type": "Annotation"
+              }
+            ],
+            "type": "AnnotationPage"
+          }
+        ],
+        "label": {
+          "none": [
+            "15"
+          ]
+        },
+        "type": "Canvas",
+        "width": 1721
+      },
+      "recoveryReceipt": {
+        "file": "african-pages-01-taytu-letter.jpg",
+        "blob": "e57bcde35036f22035772808ceee747af9116417",
+        "source": "https://api.github.com/repos/haitaowu12/world-history-atlas/git/blobs/e57bcde35036f22035772808ceee747af9116417",
+        "bytes": 74531,
+        "sha256": "97718d3354980695d4bf889778050128bdde839432e32102237def6c0a1538ad"
+      },
+      "pixelReview": "Owner individually inspected these exact SHA256-identical images on 2026-11-12; inherited visual evidence retained, no claim of fresh source-image download."
+    }
+  ],
+  "editionCautions": {
+    "samarkand": "Prior direct title-page inspection is corroborated by fresh OCR: volumeI,fifth edition,London1876. Item catalogue gives a conflicting NewYork publisher. OCR misspells the Tomb of Timur heading; its illustration-list attribution to Verestchagin is retained without treating OCR spelling as authoritative.",
+    "hammurabi": "Prior direct title-page inspection is corroborated by fresh OCR: second edition1904; introduction explicitly gives the Susa findspot. Obsolete about2250BCE chronology and source ethnographic judgments are not adopted."
+  },
+  "freshEditionOCR": {
+    "turkistannotesa03schugoog": {
+      "url": "https://archive.org/download/turkistannotesa03schugoog/turkistannotesa03schugoog_djvu.txt",
+      "excerpts": {
+        "FIFTH EDITION": "EKlArj \n\nRUSSIAN osoGRAPHiCAL Bociirrr, vrrc. \n\n\n\nWJTfl TUHEE MAPS AND NUMEROUS ILLUSTRATlOyS \n\n\n\nIN TWO VOLUMES \n\n\n\nVOL^I./^ \n\n\n\nFIFTH EDITION \n\n\n\nLONDON \nSAMPSON LOW, MAESTON, SEARLE, & RIVINGTON \n\nCBOWN BUILDINGS, 188 FliEET STRKKT \n1876 , \n\nAll rights reserved \n\n\n\nSil<x^ 3(o^3.3.«aj \n\n\n\nz' \n\n\n\n\n\n\n\n\n\n■'^i::ri: \n\n\n\n'y>-^- ' \n\n\n\nP",
+        "LONDON": "soGRAPHiCAL Bociirrr, vrrc. \n\n\n\nWJTfl TUHEE MAPS AND NUMEROUS ILLUSTRATlOyS \n\n\n\nIN TWO VOLUMES \n\n\n\nVOL^I./^ \n\n\n\nFIFTH EDITION \n\n\n\nLONDON \nSAMPSON LOW, MAESTON, SEARLE, & RIVINGTON \n\nCBOWN BUILDINGS, 188 FliEET STRKKT \n1876 , \n\nAll rights reserved \n\n\n\nSil<x^ 3(o^3.3.«aj \n\n\n\nz' \n\n\n\n\n\n\n\n\n\n■'^i::ri: \n\n\n\n'y>-^- ' \n\n\n\nPEEFACE. \n\n\n",
+        "1876": "OLUMES \n\n\n\nVOL^I./^ \n\n\n\nFIFTH EDITION \n\n\n\nLONDON \nSAMPSON LOW, MAESTON, SEARLE, & RIVINGTON \n\nCBOWN BUILDINGS, 188 FliEET STRKKT \n1876 , \n\nAll rights reserved \n\n\n\nSil<x^ 3(o^3.3.«aj \n\n\n\nz' \n\n\n\n\n\n\n\n\n\n■'^i::ri: \n\n\n\n'y>-^- ' \n\n\n\nPEEFACE. \n\n\n\nMy readers must not expect either stories of personal adventure \nor accounts of geogr",
+        "Verestchagin": "\n\n\nILLUSTEATIONS \n\nIN \n\nTHE FIRST VOIiUME. \n\nJkws of Samabkaxd (hy Veresickagiii) .... Frontispiece \n\nA ViKW OF THE Syb Darya {hy Verestchagin) . To face p. 60 \n\nThe Mosqub Hazket at Turkistan {hy Verestchayin) , „ 70 \n\nTuBKiSTAN {hy Verestchayin) . . . . „ 73 \n\nStrkbt vs Tashkent, with Mosquu {from a photograph) . ,,101 \n\nViisw I",
+        "Tomb illustration attribution": "The Tomb of Tivttb (by Verestchagin) ', \n\nA Youth of Urotjt (by Verestchagin) \n\nA HoDJBN"
+      }
+    },
+    "codehammurabiki00harpgoog": {
+      "url": "https://archive.org/download/codehammurabiki00harpgoog/codehammurabiki00harpgoog_djvu.txt",
+      "excerpts": {
+        "SECOND EDITION": "MANAGING EDITOR OF THE AMERICAN JOURNAL OF \nSEMITIC LANGUAGES AND LITERATURES FELLOW OF THE ROYAL GEOGRAPHICAL* SOCIETY \n\n\n\n» \n\n\n\nSECOND EDITION \n\n\n\n• * * •» \n\n\n\n\n\n\nChicago \n\nThe University of Chicago Press \n\nCallaghan & Company \n\nLondon \nLuzAC & Company \n\n1904 \n\n\n\n699G99 \n\n\n\nCopvBiOHT, 1904 \nThe UmvRBaiTY ov Chic ah \n\n\n\n\nTO \n\nMY FR",
+        "1904": "\n\n\nSECOND EDITION \n\n\n\n• * * •» \n\n\n\n\n\n\nChicago \n\nThe University of Chicago Press \n\nCallaghan & Company \n\nLondon \nLuzAC & Company \n\n1904 \n\n\n\n699G99 \n\n\n\nCopvBiOHT, 1904 \nThe UmvRBaiTY ov Chic ah \n\n\n\n\nTO \n\nMY FRIEND AND FORMER COLLEAGUE \n\nFRANKLIN P. MALL, M.D. \n\nDIRECTOR OF THE ANATOMICAL INSTITUTE OF \n\nTHE JOHNS HOPKINS UNIV",
+        "Susa": "\n\n\n\nThe Monument on which the Code of Qammurabi is engraved \nwas found in December, 1901, and January, 1902, on the acropolis \nof Susa by an Expedition sent out by the French Government \nunder the Director General, M. de Morgan. It is a block of black \ndiorite, nearly eight feet high, broken into three pieces which \nwere e"
+      }
+    }
+  }
+}

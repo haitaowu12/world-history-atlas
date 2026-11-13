@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "reviewedAt": "2026-11-12",
+  "reviewedAt": "2026-11-13",
   "policy": {
     "en": "Images illustrate particular records. Later portrayals, original objects and historical photographs are identified separately; no image is evidence for an unrecorded scene. Image-specific rights remain separate from the atlas text license.",
     "zh": "图像用于说明特定记录。后世描绘、实物及历史照片分别标明；任何图像都不被当作未获文献支持的场景的证据。各图像的使用条款独立于图鉴文字许可证。"
@@ -19330,6 +19330,461 @@
           "zh": "澳大利亚战争纪念馆"
         }
       }
+    },
+    {
+      "id": "site-books-01-samarkand-tomb",
+      "file": "assets/history-media/site-books-01-samarkand-tomb.jpg",
+      "recordIds": [
+        "samarkand"
+      ],
+      "kind": "artwork",
+      "representation": "historical-artwork",
+      "title": {
+        "en": "A nineteenth-century view inside Timur’s tomb",
+        "zh": "十九世纪所见的帖木儿陵墓内部"
+      },
+      "alt": {
+        "en": "A printed illustration shows tomb markers behind a pierced stone railing beneath a tall decorated arch; the page is captioned The Tomb of Timur.",
+        "zh": "印刷插图显示高大的装饰拱券下，镂空石栏后方排列着墓碑；图注为“帖木儿之墓”。"
+      },
+      "caption": {
+        "en": "“The Tomb of Timur,” after Verestchagin, in Eugene Schuyler’s Turkistan, volume I, fifth edition (London, 1876), p. 253. A nineteenth-century view of the Gur-e Amir at Samarkand.",
+        "zh": "“帖木儿之墓”，据韦列夏金作品制图，收入尤金·斯凯勒《突厥斯坦》第一卷第五版（伦敦，1876年），第253页。呈现十九世纪所见的撒马尔罕古尔艾米尔陵墓。"
+      },
+      "interpretation": {
+        "en": "A tall decorated arch frames the enclosed tomb markers. The illustration records how a nineteenth-century traveller presented a Timurid monument that had undergone centuries of change. The coloured banding comes from the digitized scan.",
+        "zh": "高大的装饰拱券衬托石栏内的墓碑。插图记录十九世纪旅行者如何呈现一座历经数百年变化的帖木儿时期建筑。彩色条纹来自数字扫描。"
+      },
+      "metadataI18n": {
+        "date": {
+          "en": "1876 printed edition; later view of a Timurid monument",
+          "zh": "1876年印本；帖木儿时期建筑的后世景象"
+        },
+        "creator": {
+          "en": "Illustration after Verestchagin; reproduced in Eugene Schuyler’s account",
+          "zh": "据韦列夏金作品制图；收入尤金·斯凯勒的记述"
+        },
+        "institution": {
+          "en": "Harvard University; Google scan hosted by Internet Archive",
+          "zh": "哈佛大学；谷歌扫描，互联网档案馆提供"
+        }
+      },
+      "creator": "Illustration after Verestchagin; reproduced in Eugene Schuyler’s account",
+      "date": "1876 printed edition; later view of a Timurid monument",
+      "institution": "Harvard University; Google scan hosted by Internet Archive",
+      "credit": "Harvard University; Google scan hosted by Internet Archive; turkistannotesa03schugoog",
+      "sourceUrl": "https://archive.org/details/turkistannotesa03schugoog",
+      "imageUrl": "https://iiif.archive.org/image/iiif/3/turkistannotesa03schugoog%2Fturkistannotesa03schugoog_jp2.zip%2Fturkistannotesa03schugoog_jp2%2Fturkistannotesa03schugoog_0288.jp2/full/!1198,1198/0/default.jpg",
+      "downloadedFrom": "https://iiif.archive.org/image/iiif/3/turkistannotesa03schugoog%2Fturkistannotesa03schugoog_jp2.zip%2Fturkistannotesa03schugoog_jp2%2Fturkistannotesa03schugoog_0288.jp2/full/!1198,1198/0/default.jpg",
+      "rightsSourceUrl": "https://archive.org/metadata/turkistannotesa03schugoog",
+      "rights": {
+        "label": "Public domain",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "note": {
+          "en": "Internet Archive item metadata explicitly records NOT_IN_COPYRIGHT; copyright-region US.",
+          "zh": "互联网档案馆条目元数据明确标记NOT_IN_COPYRIGHT，版权地域为美国（US）。"
+        }
+      },
+      "transformation": {
+        "en": "Source-served IIIF JPEG requested within 1198 × 1198 pixels, preserved unchanged. No local crop, retouching or recolouring.",
+        "zh": "向来源IIIF服务请求不超过1198 × 1198像素的JPEG，原样保存；未在本地裁剪、修饰或改色。"
+      },
+      "width": 739,
+      "height": 1199,
+      "bytes": 172199,
+      "sha256": "7b60d480cda8bb8fbba26fa4df58682baa7ce6b840740b1ba1aa3a9b64c9e4aa",
+      "checkedAt": "2026-11-13",
+      "retrieval": "Exact image bytes recovered from the interrupted GitHub upload; catalogue descriptions rebuilt from retained inspection evidence. Source metadata and canvas identities rechecked."
+    },
+    {
+      "id": "site-books-01-lubeck-petrikirche",
+      "file": "assets/history-media/site-books-01-lubeck-petrikirche.jpg",
+      "recordIds": [
+        "lubeck-hanseatic-trade"
+      ],
+      "kind": "photograph",
+      "representation": "historical-photograph",
+      "title": {
+        "en": "Lübeck’s churches above the waterfront",
+        "zh": "吕贝克水岸上方的教堂"
+      },
+      "alt": {
+        "en": "A photograph printed above German text shows moored boats, the waterfront and church spires; its caption identifies the Petrikirche viewed from the Dankwartsbrücke.",
+        "zh": "德文正文上方的印刷照片显示停泊船只、水岸与教堂尖塔；图注注明从丹克瓦茨桥望向圣彼得教堂。"
+      },
+      "caption": {
+        "en": "View toward Lübeck’s Petrikirche from the Dankwartsbrücke, on the opening page of Fritz Hirsch’s Die Petrikirche. The undated title page belongs to an edition catalogued circa 1906.",
+        "zh": "从丹克瓦茨桥望向吕贝克圣彼得教堂，刊于弗里茨·希尔施《圣彼得教堂》正文首页。扉页无日期，馆藏目录将该版本约定为1906年。"
+      },
+      "interpretation": {
+        "en": "Boats, quayside buildings and church towers show sacred architecture within a working port around the turn of the twentieth century: a later view of a city shaped by Hanseatic commerce.",
+        "zh": "船只、岸边建筑与教堂塔楼展现二十世纪之交运转中的港口及其宗教建筑。这是曾由汉萨商业塑造的城市在后世的景象。"
+      },
+      "metadataI18n": {
+        "date": {
+          "en": "Edition catalogued circa 1906; exact photograph date unknown",
+          "zh": "版本目录约定1906年；照片确切拍摄时间不详"
+        },
+        "creator": {
+          "en": "Photographer uncredited; Fritz Hirsch, author; Lübeck building authority, editor",
+          "zh": "摄影者未署名；弗里茨·希尔施著；吕贝克建筑管理机构编"
+        },
+        "institution": {
+          "en": "Robarts Library, University of Toronto; Internet Archive",
+          "zh": "多伦多大学罗巴茨图书馆；互联网档案馆"
+        }
+      },
+      "creator": "Photographer uncredited; Fritz Hirsch, author; Lübeck building authority, editor",
+      "date": "Edition catalogued circa 1906; exact photograph date unknown",
+      "institution": "Robarts Library, University of Toronto; Internet Archive",
+      "credit": "Robarts Library, University of Toronto; Internet Archive; diebauundkunstde0201lbuoft",
+      "sourceUrl": "https://archive.org/details/diebauundkunstde0201lbuoft",
+      "imageUrl": "https://iiif.archive.org/image/iiif/3/diebauundkunstde0201lbuoft%2Fdiebauundkunstde0201lbuoft_jp2.zip%2Fdiebauundkunstde0201lbuoft_jp2%2Fdiebauundkunstde0201lbuoft_0007.jp2/full/!1200,1200/0/default.jpg",
+      "downloadedFrom": "https://iiif.archive.org/image/iiif/3/diebauundkunstde0201lbuoft%2Fdiebauundkunstde0201lbuoft_jp2.zip%2Fdiebauundkunstde0201lbuoft_jp2%2Fdiebauundkunstde0201lbuoft_0007.jp2/full/!1200,1200/0/default.jpg",
+      "rightsSourceUrl": "https://archive.org/metadata/diebauundkunstde0201lbuoft",
+      "rights": {
+        "label": "Public domain",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "note": {
+          "en": "Internet Archive item metadata explicitly records NOT_IN_COPYRIGHT; copyright-region US.",
+          "zh": "互联网档案馆条目元数据明确标记NOT_IN_COPYRIGHT，版权地域为美国（US）。"
+        }
+      },
+      "transformation": {
+        "en": "Source-served IIIF JPEG requested within 1200 × 1200 pixels, preserved unchanged. No local crop, retouching or recolouring.",
+        "zh": "向来源IIIF服务请求不超过1200 × 1200像素的JPEG，原样保存；未在本地裁剪、修饰或改色。"
+      },
+      "width": 813,
+      "height": 1200,
+      "bytes": 126404,
+      "sha256": "f985738c5102115c02a68fd3bd83bfddaf583144564e76ffe8420e23e9b0b222",
+      "checkedAt": "2026-11-13",
+      "retrieval": "Exact image bytes recovered from the interrupted GitHub upload; catalogue descriptions rebuilt from retained inspection evidence. Source metadata and canvas identities rechecked."
+    },
+    {
+      "id": "site-books-01-gondar-fasilides",
+      "file": "assets/history-media/site-books-01-gondar-fasilides.jpg",
+      "recordIds": [
+        "gondar-permanent-capital"
+      ],
+      "kind": "photograph",
+      "representation": "historical-photograph",
+      "title": {
+        "en": "Fasilides’s castle in a later traveller’s photograph",
+        "zh": "后世旅行者照片中的法西利德斯城堡"
+      },
+      "alt": {
+        "en": "A printed photograph shows a stone castle with rounded corner towers and a taller battlemented tower amid vegetation, captioned The Castle of the Emperor Fasildas.",
+        "zh": "印刷照片显示草木间的石砌城堡，带圆形角楼与更高的雉堞塔；图注为“法西利德斯皇帝的城堡”。"
+      },
+      "caption": {
+        "en": "Fasilides’s castle at Gondar, in P. H. G. Powell-Cotton’s A Sporting Trip through Abyssinia (London, 1902), p. 302. A later photographic record of a seventeenth-century royal building.",
+        "zh": "贡德尔的法西利德斯城堡，收入P. H. G. 鲍威尔-科顿《阿比西尼亚狩猎之旅》（伦敦，1902年），第302页。十七世纪王室建筑的后世照片。"
+      },
+      "interpretation": {
+        "en": "Rounded towers and a taller square tower rise above the surrounding ruins. The adjacent text compares the castle to those on the Rhine and disparages other local building traditions, revealing the British traveller’s prejudices alongside his architectural observations.",
+        "zh": "圆形塔楼与更高的方塔耸立于周围遗迹之上。相邻正文将城堡与莱茵河畔建筑比较，并贬低其他当地建筑传统，在建筑观察中流露出这位英国旅行者的偏见。"
+      },
+      "metadataI18n": {
+        "date": {
+          "en": "Published 1902; later photographic view of a seventeenth-century castle",
+          "zh": "1902年出版；十七世纪城堡的后世照片"
+        },
+        "creator": {
+          "en": "P. H. G. Powell-Cotton, author; photograph not individually credited",
+          "zh": "P. H. G. 鲍威尔-科顿著；此照片未单独署名"
+        },
+        "institution": {
+          "en": "University of California Libraries; Internet Archive",
+          "zh": "加利福尼亚大学图书馆；互联网档案馆"
+        }
+      },
+      "creator": "P. H. G. Powell-Cotton, author; photograph not individually credited",
+      "date": "Published 1902; later photographic view of a seventeenth-century castle",
+      "institution": "University of California Libraries; Internet Archive",
+      "credit": "University of California Libraries; Internet Archive; sportingtripthro00cottrich",
+      "sourceUrl": "https://archive.org/details/sportingtripthro00cottrich",
+      "imageUrl": "https://iiif.archive.org/image/iiif/3/sportingtripthro00cottrich%2Fsportingtripthro00cottrich_jp2.zip%2Fsportingtripthro00cottrich_jp2%2Fsportingtripthro00cottrich_0334.jp2/full/!1200,1200/0/default.jpg",
+      "downloadedFrom": "https://iiif.archive.org/image/iiif/3/sportingtripthro00cottrich%2Fsportingtripthro00cottrich_jp2.zip%2Fsportingtripthro00cottrich_jp2%2Fsportingtripthro00cottrich_0334.jp2/full/!1200,1200/0/default.jpg",
+      "rightsSourceUrl": "https://archive.org/metadata/sportingtripthro00cottrich",
+      "rights": {
+        "label": "Public domain",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "note": {
+          "en": "Internet Archive item metadata explicitly records NOT_IN_COPYRIGHT; copyright-region US.",
+          "zh": "互联网档案馆条目元数据明确标记NOT_IN_COPYRIGHT，版权地域为美国（US）。"
+        }
+      },
+      "transformation": {
+        "en": "Source-served IIIF JPEG requested within 1200 × 1200 pixels, preserved unchanged. No local crop, retouching or recolouring.",
+        "zh": "向来源IIIF服务请求不超过1200 × 1200像素的JPEG，原样保存；未在本地裁剪、修饰或改色。"
+      },
+      "width": 816,
+      "height": 1200,
+      "bytes": 145258,
+      "sha256": "8f8dad295b1814a13dd69cd0c43350e917dfcd834db449dbe67b5aa2209c3cd9",
+      "checkedAt": "2026-11-13",
+      "retrieval": "Exact image bytes recovered from the interrupted GitHub upload; catalogue descriptions rebuilt from retained inspection evidence. Source metadata and canvas identities rechecked."
+    },
+    {
+      "id": "authored-women-01-gabriela-mistral",
+      "file": "assets/history-media/authored-women-01-gabriela-mistral.jpg",
+      "recordIds": [
+        "person-gabriela-mistral"
+      ],
+      "kind": "document",
+      "representation": "document-facsimile",
+      "title": {
+        "en": "Mistral writes for women learners",
+        "zh": "米斯特拉尔为女性学习者编写读本"
+      },
+      "alt": {
+        "en": "Spanish printed page headed Introduction to These Readings for Women, with the section Words of the Foreigner and page number 7.",
+        "zh": "西班牙文印刷页标题为“本女性读本导言”，含“异乡人的话”一节，页码为7。"
+      },
+      "caption": {
+        "en": "Gabriela Mistral’s introduction to Lecturas para mujeres, published by Mexico’s education ministry in 1923, p. 7.",
+        "zh": "加夫列拉·米斯特拉尔为《女性读本》撰写的导言，第7页；墨西哥教育部于1923年出版。"
+      },
+      "interpretation": {
+        "en": "Mistral explains the commission to compile a reader and the varied ages of her students. Her first-person account makes the choices behind women’s access to literature visible, alongside the gendered assumptions of her time.",
+        "zh": "米斯特拉尔说明编写读本的委托，以及学生年龄的差异。她的第一人称叙述呈现女性接触文学背后的选编思考，也反映当时的性别观念。"
+      },
+      "metadataI18n": {
+        "date": {
+          "en": "1923",
+          "zh": "1923年"
+        },
+        "creator": {
+          "en": "Gabriela Mistral",
+          "zh": "加夫列拉·米斯特拉尔"
+        },
+        "institution": {
+          "en": "Robarts Library, University of Toronto; Internet Archive",
+          "zh": "多伦多大学罗巴茨图书馆；互联网档案馆"
+        }
+      },
+      "creator": "Gabriela Mistral",
+      "date": "1923",
+      "institution": "Robarts Library, University of Toronto; Internet Archive",
+      "credit": "Robarts Library, University of Toronto; Internet Archive; lecturasparamuje00mistuoft",
+      "sourceUrl": "https://archive.org/details/lecturasparamuje00mistuoft",
+      "imageUrl": "https://iiif.archive.org/image/iiif/3/lecturasparamuje00mistuoft%2Flecturasparamuje00mistuoft_jp2.zip%2Flecturasparamuje00mistuoft_jp2%2Flecturasparamuje00mistuoft_0007.jp2/full/!1200,1200/0/default.jpg",
+      "downloadedFrom": "https://iiif.archive.org/image/iiif/3/lecturasparamuje00mistuoft%2Flecturasparamuje00mistuoft_jp2.zip%2Flecturasparamuje00mistuoft_jp2%2Flecturasparamuje00mistuoft_0007.jp2/full/!1200,1200/0/default.jpg",
+      "rightsSourceUrl": "https://archive.org/metadata/lecturasparamuje00mistuoft",
+      "rights": {
+        "label": "Public domain",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "note": {
+          "en": "Internet Archive item metadata explicitly records NOT_IN_COPYRIGHT; no copyright jurisdiction is specified in the item metadata.",
+          "zh": "互联网档案馆条目元数据明确标记NOT_IN_COPYRIGHT；条目元数据未注明版权法域。"
+        }
+      },
+      "transformation": {
+        "en": "Source-served IIIF JPEG requested within 1200 × 1200 pixels, preserved unchanged. No local crop, retouching or recolouring.",
+        "zh": "向来源IIIF服务请求不超过1200 × 1200像素的JPEG，原样保存；未在本地裁剪、修饰或改色。"
+      },
+      "width": 825,
+      "height": 1200,
+      "bytes": 188505,
+      "sha256": "065e0285efbe0e33940165a72cea050b1c8f429649b6a8896d7ecc99ea7e90b5",
+      "checkedAt": "2026-11-13",
+      "retrieval": "Exact image bytes recovered from the interrupted GitHub upload; catalogue descriptions rebuilt from retained inspection evidence. Source metadata and canvas identities rechecked."
+    },
+    {
+      "id": "inscribed-monuments-01-bisotun",
+      "file": "assets/history-media/inscribed-monuments-01-bisotun.jpg",
+      "recordIds": [
+        "bisotun-royal-inscription"
+      ],
+      "kind": "document",
+      "representation": "document-facsimile",
+      "title": {
+        "en": "Darius dominates the defeated",
+        "zh": "大流士凌驾于败者之上"
+      },
+      "alt": {
+        "en": "A printed photographic plate shows two attendants behind Darius, whose foot rests on a fallen figure, beside carved cuneiform.",
+        "zh": "印刷摄影图版显示两位侍从站在大流士身后，国王脚踏倒地人物，旁边刻有楔形文字。"
+      },
+      "caption": {
+        "en": "Plate I in the British Museum’s 1907 publication of the Bisotun monument: Darius, his attendants and the fallen figure identified in the royal account as Gaumata. A historical printed photographic reproduction.",
+        "zh": "英国博物馆1907年贝希斯敦纪念物专著图版一：大流士、侍从及王室叙述中称为高墨达的倒地人物。这是历史出版物中的摄影复制图。"
+      },
+      "interpretation": {
+        "en": "The king stands above a defeated opponent while his attendants reinforce the ordered court behind him. Read beside the multilingual inscription, this unequal arrangement turns a claim to legitimate rule into a visible hierarchy.",
+        "zh": "国王站在败者上方，身后的侍从呈现有序的宫廷。结合多语铭文阅读，这种不对称布局把统治正当性的主张转化为可见的等级关系。"
+      },
+      "metadataI18n": {
+        "date": {
+          "en": "1907 publication; ancient relief approximately 521–520 BCE",
+          "zh": "1907年出版；古代浮雕约作于公元前521—520年"
+        },
+        "creator": {
+          "en": "L. W. King and R. Campbell Thompson, publication authors; photographer not individually credited",
+          "zh": "L. W. 金与R. 坎贝尔·汤普森著；摄影者未单独署名"
+        },
+        "institution": {
+          "en": "Robarts Library, University of Toronto; Internet Archive",
+          "zh": "多伦多大学罗巴茨图书馆；互联网档案馆"
+        }
+      },
+      "creator": "L. W. King and R. Campbell Thompson, publication authors; photographer not individually credited",
+      "date": "1907 publication; ancient relief approximately 521–520 BCE",
+      "institution": "Robarts Library, University of Toronto; Internet Archive",
+      "credit": "Robarts Library, University of Toronto; Internet Archive; sculpturesinscri00brituoft",
+      "sourceUrl": "https://archive.org/details/sculpturesinscri00brituoft",
+      "imageUrl": "https://iiif.archive.org/image/iiif/3/sculpturesinscri00brituoft%2Fsculpturesinscri00brituoft_jp2.zip%2Fsculpturesinscri00brituoft_jp2%2Fsculpturesinscri00brituoft_0010.jp2/full/!1200,1200/0/default.jpg",
+      "downloadedFrom": "https://iiif.archive.org/image/iiif/3/sculpturesinscri00brituoft%2Fsculpturesinscri00brituoft_jp2.zip%2Fsculpturesinscri00brituoft_jp2%2Fsculpturesinscri00brituoft_0010.jp2/full/!1200,1200/0/default.jpg",
+      "rightsSourceUrl": "https://archive.org/metadata/sculpturesinscri00brituoft",
+      "rights": {
+        "label": "Public domain",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "note": {
+          "en": "Internet Archive item metadata explicitly records NOT_IN_COPYRIGHT; copyright-region US.",
+          "zh": "互联网档案馆条目元数据明确标记NOT_IN_COPYRIGHT，版权地域为美国（US）。"
+        }
+      },
+      "transformation": {
+        "en": "Source-served IIIF JPEG requested within 1200 × 1200 pixels, preserved unchanged. No local crop, retouching or recolouring.",
+        "zh": "向来源IIIF服务请求不超过1200 × 1200像素的JPEG，原样保存；未在本地裁剪、修饰或改色。"
+      },
+      "width": 757,
+      "height": 1200,
+      "bytes": 142902,
+      "sha256": "63708a73fa63d600eb5685cdc8dfdc2677c323af12486b4270d23db8775ec627",
+      "checkedAt": "2026-11-13",
+      "retrieval": "Exact image bytes recovered from the interrupted GitHub upload; catalogue descriptions rebuilt from retained inspection evidence. Source metadata and canvas identities rechecked."
+    },
+    {
+      "id": "inscribed-monuments-01-hammurabi",
+      "file": "assets/history-media/inscribed-monuments-01-hammurabi.jpg",
+      "recordIds": [
+        "old-babylon"
+      ],
+      "kind": "document",
+      "representation": "document-facsimile",
+      "title": {
+        "en": "Royal justice beneath a divine audience",
+        "zh": "神前呈现的王室正义"
+      },
+      "alt": {
+        "en": "A monochrome printed photograph of the upper relief on Hammurabi’s stele shows a standing king facing a seated deity.",
+        "zh": "汉谟拉比石碑顶部浮雕的黑白印刷照片，显示站立的国王面对端坐的神祇。"
+      },
+      "caption": {
+        "en": "The upper relief of Hammurabi’s law monument, reproduced as the frontispiece of Robert Francis Harper’s The Code of Hammurabi, second edition, 1904. The ancient monument was excavated at Susa, not Babylon.",
+        "zh": "汉谟拉比法典碑顶部浮雕，复制于罗伯特·弗朗西斯·哈珀《汉谟拉比法典》1904年第二版卷首。古代石碑出土于苏萨，而非巴比伦。"
+      },
+      "interpretation": {
+        "en": "The standing king faces a seated deity, presenting royal authority within a divine setting. The law text lies outside this photographic detail; its distinctions between social ranks are discussed in the linked history entry.",
+        "zh": "站立的国王面对端坐的神祇，在神圣场景中呈现王权。法条位于这张局部照片之外；关联历史条目讨论了文本中的社会等级差别。"
+      },
+      "metadataI18n": {
+        "date": {
+          "en": "1904 edition; ancient monument from Hammurabi’s reign",
+          "zh": "1904年版本；古代石碑属于汉谟拉比统治时期"
+        },
+        "creator": {
+          "en": "Robert Francis Harper, editor; photographer not individually credited",
+          "zh": "罗伯特·弗朗西斯·哈珀编；摄影者未单独署名"
+        },
+        "institution": {
+          "en": "Google digitization hosted by Internet Archive; source library unspecified",
+          "zh": "谷歌数字化，互联网档案馆提供；源图书馆未注明"
+        }
+      },
+      "creator": "Robert Francis Harper, editor; photographer not individually credited",
+      "date": "1904 edition; ancient monument from Hammurabi’s reign",
+      "institution": "Google digitization hosted by Internet Archive; source library unspecified",
+      "credit": "Google digitization hosted by Internet Archive; source library unspecified; codehammurabiki00harpgoog",
+      "sourceUrl": "https://archive.org/details/codehammurabiki00harpgoog",
+      "imageUrl": "https://iiif.archive.org/image/iiif/3/codehammurabiki00harpgoog%2Fcodehammurabiki00harpgoog_tif.zip%2Fcodehammurabiki00harpgoog_tif%2Fcodehammurabiki00harpgoog_0007.tif/full/!1200,1200/0/default.jpg",
+      "downloadedFrom": "https://iiif.archive.org/image/iiif/3/codehammurabiki00harpgoog%2Fcodehammurabiki00harpgoog_tif.zip%2Fcodehammurabiki00harpgoog_tif%2Fcodehammurabiki00harpgoog_0007.tif/full/!1200,1200/0/default.jpg",
+      "rightsSourceUrl": "https://archive.org/metadata/codehammurabiki00harpgoog",
+      "rights": {
+        "label": "Public domain",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "note": {
+          "en": "Internet Archive item metadata explicitly records NOT_IN_COPYRIGHT; copyright-region US.",
+          "zh": "互联网档案馆条目元数据明确标记NOT_IN_COPYRIGHT，版权地域为美国（US）。"
+        }
+      },
+      "transformation": {
+        "en": "Source-served IIIF JPEG requested within 1200 × 1200 pixels, preserved unchanged. No local crop, retouching or recolouring.",
+        "zh": "向来源IIIF服务请求不超过1200 × 1200像素的JPEG，原样保存；未在本地裁剪、修饰或改色。"
+      },
+      "width": 805,
+      "height": 1200,
+      "bytes": 46853,
+      "sha256": "0647ec1181307c66aeb5e74b42cfc3544e8892676f38d4797724305420128b98",
+      "checkedAt": "2026-11-13",
+      "retrieval": "Exact image bytes recovered from the interrupted GitHub upload; catalogue descriptions rebuilt from retained inspection evidence. Source metadata and canvas identities rechecked."
+    },
+    {
+      "id": "african-pages-01-taytu-letter",
+      "file": "assets/history-media/african-pages-01-taytu-letter.jpg",
+      "recordIds": [
+        "person-taytu-betul"
+      ],
+      "kind": "document",
+      "representation": "document-facsimile",
+      "title": {
+        "en": "Taytu authorizes a book dedication",
+        "zh": "塔伊图批准图书献辞"
+      },
+      "alt": {
+        "en": "Printed page showing an Amharic letter and circular royal seal above a caption identifying Empress Taitu and an English translation.",
+        "zh": "印刷书页上方为阿姆哈拉语信函及圆形王室印章，下方为点明塔伊图皇后的说明与英译。"
+      },
+      "caption": {
+        "en": "Taytu’s letter of 7 February 1901 permits Powell-Cotton to dedicate his travel book to her. Reproduced in A Sporting Trip through Abyssinia (London, 1902), with W. F. Prideaux’s free English translation.",
+        "zh": "塔伊图于1901年2月7日发出的信函，允许鲍威尔-科顿将旅行著作献给她。影印页载于《阿比西尼亚狩猎之旅》（伦敦，1902年），附W. F. 普里多英译（意译）。"
+      },
+      "interpretation": {
+        "en": "The named letter and seal show the empress answering a foreign traveller’s request in her own official capacity. The reproduction also shows how an Ethiopian royal communication was presented to British readers by a visiting hunter and his translator.",
+        "zh": "署名信函与印章展现皇后以自身官方身份回应外国旅行者的请求。旅行者与译者在书中刊载此信，也展示了埃塞俄比亚王室文书如何被呈现给英国读者。"
+      },
+      "metadataI18n": {
+        "date": {
+          "en": "Letter dated 7 February 1901; printed facsimile published 1902",
+          "zh": "信函日期为1901年2月7日；影印页出版于1902年"
+        },
+        "creator": {
+          "en": "Letter issued in the name of Empress Taytu; English translation by W. F. Prideaux; reproduced in P. H. G. Powell-Cotton’s book",
+          "zh": "以塔伊图皇后名义发出的信函；W. F. 普里多英译；收录于P. H. G. 鲍威尔-科顿的著作"
+        },
+        "institution": {
+          "en": "University of California Libraries; digitized by Internet Archive",
+          "zh": "加利福尼亚大学图书馆；互联网档案馆数字化"
+        }
+      },
+      "creator": "Letter issued in the name of Empress Taytu; English translation by W. F. Prideaux; reproduced in P. H. G. Powell-Cotton’s book",
+      "date": "Letter dated 7 February 1901; printed facsimile published 1902",
+      "institution": "University of California Libraries; digitized by Internet Archive",
+      "credit": "University of California Libraries; digitized by Internet Archive; sportingtripthro00cottrich",
+      "sourceUrl": "https://archive.org/details/sportingtripthro00cottrich",
+      "imageUrl": "https://iiif.archive.org/image/iiif/3/sportingtripthro00cottrich%2Fsportingtripthro00cottrich_jp2.zip%2Fsportingtripthro00cottrich_jp2%2Fsportingtripthro00cottrich_0015.jp2/full/!1200,1200/0/default.jpg",
+      "downloadedFrom": "https://iiif.archive.org/image/iiif/3/sportingtripthro00cottrich%2Fsportingtripthro00cottrich_jp2.zip%2Fsportingtripthro00cottrich_jp2%2Fsportingtripthro00cottrich_0015.jp2/full/!1200,1200/0/default.jpg",
+      "rightsSourceUrl": "https://archive.org/metadata/sportingtripthro00cottrich",
+      "rights": {
+        "label": "Public domain",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "note": {
+          "en": "Internet Archive item metadata explicitly records NOT_IN_COPYRIGHT; copyright-region US.",
+          "zh": "互联网档案馆条目元数据明确标记NOT_IN_COPYRIGHT，版权地域为美国（US）。"
+        }
+      },
+      "transformation": {
+        "en": "Source-served IIIF JPEG requested within 1200 × 1200 pixels, preserved unchanged. No local crop, retouching or recolouring.",
+        "zh": "向来源IIIF服务请求不超过1200 × 1200像素的JPEG，原样保存；未在本地裁剪、修饰或改色。"
+      },
+      "width": 816,
+      "height": 1200,
+      "bytes": 74531,
+      "sha256": "97718d3354980695d4bf889778050128bdde839432e32102237def6c0a1538ad",
+      "checkedAt": "2026-11-13",
+      "retrieval": "Exact image bytes recovered from the interrupted GitHub upload; catalogue descriptions rebuilt from retained inspection evidence. Source metadata and canvas identities rechecked."
     },
     {
       "id": "us-archives-02-treaty-of-guadalupe-hidalgo",

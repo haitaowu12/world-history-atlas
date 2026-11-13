@@ -1,6 +1,6 @@
 # Historical images: credits and reuse
 
-Reviewed 2026-11-12. 482 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
+Reviewed 2026-11-13. 489 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
 
 Historical artifacts, surviving places and later depictions retain their source identities. No generated reconstructions are included in this catalogue.
 
@@ -3895,6 +3895,104 @@ Official JPEG preserved unchanged, including its institutional credit strip.
 The item record identifies this photograph as public domain. The Australian War Memorial permits reproduction of its public-domain images.
 
 Official JPEG preserved unchanged, including its institutional credit strip.
+
+## A nineteenth-century view inside Timur’s tomb / 十九世纪所见的帖木儿陵墓内部
+
+- File: site-books-01-samarkand-tomb.jpg
+- Creator: Illustration after Verestchagin; reproduced in Eugene Schuyler’s account
+- Date: 1876 printed edition; later view of a Timurid monument
+- Collection: Harvard University; Google scan hosted by Internet Archive
+- Source: https://archive.org/details/turkistannotesa03schugoog
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://archive.org/metadata/turkistannotesa03schugoog
+
+Internet Archive item metadata explicitly records NOT_IN_COPYRIGHT; copyright-region US.
+
+Source-served IIIF JPEG requested within 1198 × 1198 pixels, preserved unchanged. No local crop, retouching or recolouring.
+
+## Lübeck’s churches above the waterfront / 吕贝克水岸上方的教堂
+
+- File: site-books-01-lubeck-petrikirche.jpg
+- Creator: Photographer uncredited; Fritz Hirsch, author; Lübeck building authority, editor
+- Date: Edition catalogued circa 1906; exact photograph date unknown
+- Collection: Robarts Library, University of Toronto; Internet Archive
+- Source: https://archive.org/details/diebauundkunstde0201lbuoft
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://archive.org/metadata/diebauundkunstde0201lbuoft
+
+Internet Archive item metadata explicitly records NOT_IN_COPYRIGHT; copyright-region US.
+
+Source-served IIIF JPEG requested within 1200 × 1200 pixels, preserved unchanged. No local crop, retouching or recolouring.
+
+## Fasilides’s castle in a later traveller’s photograph / 后世旅行者照片中的法西利德斯城堡
+
+- File: site-books-01-gondar-fasilides.jpg
+- Creator: P. H. G. Powell-Cotton, author; photograph not individually credited
+- Date: Published 1902; later photographic view of a seventeenth-century castle
+- Collection: University of California Libraries; Internet Archive
+- Source: https://archive.org/details/sportingtripthro00cottrich
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://archive.org/metadata/sportingtripthro00cottrich
+
+Internet Archive item metadata explicitly records NOT_IN_COPYRIGHT; copyright-region US.
+
+Source-served IIIF JPEG requested within 1200 × 1200 pixels, preserved unchanged. No local crop, retouching or recolouring.
+
+## Mistral writes for women learners / 米斯特拉尔为女性学习者编写读本
+
+- File: authored-women-01-gabriela-mistral.jpg
+- Creator: Gabriela Mistral
+- Date: 1923
+- Collection: Robarts Library, University of Toronto; Internet Archive
+- Source: https://archive.org/details/lecturasparamuje00mistuoft
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://archive.org/metadata/lecturasparamuje00mistuoft
+
+Internet Archive item metadata explicitly records NOT_IN_COPYRIGHT; no copyright jurisdiction is specified in the item metadata.
+
+Source-served IIIF JPEG requested within 1200 × 1200 pixels, preserved unchanged. No local crop, retouching or recolouring.
+
+## Darius dominates the defeated / 大流士凌驾于败者之上
+
+- File: inscribed-monuments-01-bisotun.jpg
+- Creator: L. W. King and R. Campbell Thompson, publication authors; photographer not individually credited
+- Date: 1907 publication; ancient relief approximately 521–520 BCE
+- Collection: Robarts Library, University of Toronto; Internet Archive
+- Source: https://archive.org/details/sculpturesinscri00brituoft
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://archive.org/metadata/sculpturesinscri00brituoft
+
+Internet Archive item metadata explicitly records NOT_IN_COPYRIGHT; copyright-region US.
+
+Source-served IIIF JPEG requested within 1200 × 1200 pixels, preserved unchanged. No local crop, retouching or recolouring.
+
+## Royal justice beneath a divine audience / 神前呈现的王室正义
+
+- File: inscribed-monuments-01-hammurabi.jpg
+- Creator: Robert Francis Harper, editor; photographer not individually credited
+- Date: 1904 edition; ancient monument from Hammurabi’s reign
+- Collection: Google digitization hosted by Internet Archive; source library unspecified
+- Source: https://archive.org/details/codehammurabiki00harpgoog
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://archive.org/metadata/codehammurabiki00harpgoog
+
+Internet Archive item metadata explicitly records NOT_IN_COPYRIGHT; copyright-region US.
+
+Source-served IIIF JPEG requested within 1200 × 1200 pixels, preserved unchanged. No local crop, retouching or recolouring.
+
+## Taytu authorizes a book dedication / 塔伊图批准图书献辞
+
+- File: african-pages-01-taytu-letter.jpg
+- Creator: Letter issued in the name of Empress Taytu; English translation by W. F. Prideaux; reproduced in P. H. G. Powell-Cotton’s book
+- Date: Letter dated 7 February 1901; printed facsimile published 1902
+- Collection: University of California Libraries; digitized by Internet Archive
+- Source: https://archive.org/details/sportingtripthro00cottrich
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://archive.org/metadata/sportingtripthro00cottrich
+
+Internet Archive item metadata explicitly records NOT_IN_COPYRIGHT; copyright-region US.
+
+Source-served IIIF JPEG requested within 1200 × 1200 pixels, preserved unchanged. No local crop, retouching or recolouring.
 
 ## Treaty of Guadalupe Hidalgo: exchange copy and seal / 瓜达卢佩—伊达尔戈条约：交换本与印玺
 
