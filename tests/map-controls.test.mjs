@@ -10,3 +10,9 @@ test('war controls reset opposing edges above detail and responsive theme specif
  // Three class selectors outrank the two-class detail selector at every media breakpoint.
  assert.doesNotMatch(theme,/\.war-map-active[^{}]*\.map-controls\s*\{/);
 });
+
+test('expanded occupation legend reserves zoom and bottom-action space in every map mode',()=>{
+ const css=readFileSync(new URL('../dist/period-tracks.css',import.meta.url),'utf8');
+ assert.match(css,/\.map-stage:has\(\.occupation-key\[open\]\) \.map-controls\{inset:74px 14px auto auto\}/);
+ assert.match(css,/\.map-stage:has\(\.occupation-key\[open\]\) \.map-snapshot\{bottom:64px;max-height:calc\(100% - 150px\);overflow:auto;overscroll-behavior:contain\}/);
+});

@@ -21,3 +21,6 @@
 .occupation-swatch.japan{background:repeating-linear-gradient(40deg,#a45826 0 2px,#f6e1cf 2px 5px)}
 .occupation-reference[tabindex="0"]{cursor:pointer}
 .occupation-reference:focus-visible{stroke:var(--accent);stroke-width:2px;vector-effect:non-scaling-stroke}
+/* Expanded source controls get their own map space, clear of navigation and the bottom action bar. */
+.map-stage:has(.occupation-key[open]) .map-controls{inset:74px 14px auto auto}
+.map-stage:has(.occupation-key[open]) .map-snapshot{bottom:64px;max-height:calc(100% - 150px);overflow:auto;overscroll-behavior:contain}
