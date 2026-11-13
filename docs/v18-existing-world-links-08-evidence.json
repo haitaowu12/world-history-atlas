@@ -1,0 +1,2860 @@
+{
+  "reviewedAt": "2026-11-13",
+  "scope": "Local research only; no new network retrieval or rights assertion. Six specific connections, fourteen held/rejected. Do not count held/rejected candidates as coverage.",
+  "sourceDates": "Original asset checkedAt and target source dates preserved verbatim in snapshots; reviewedAt is local reassessment date.",
+  "decisions": [
+    {
+      "decision": "propose",
+      "association": {
+        "assetId": "us-archives-04-mandela",
+        "recordId": "south-africa-election",
+        "role": "named-person",
+        "context": {
+          "en": "Mandela’s first presidential year is visible in this October 1994 state-arrival photograph. It follows the election and May inauguration described here; the aircraft greeting is not an election-day scene.",
+          "zh": "这张1994年10月国事访问抵达照，展示曼德拉就任总统第一年的外交活动，时间在本条目所述选举及5月就职之后；飞机旁的迎接并非选举现场。"
+        },
+        "evidenceUrl": "https://rediscovering-black-history.blogs.archives.gov/2013/07/18/celebrating-the-95th-birthday-of-nelson-rolihlahla-mandela-through-nara-photographs/",
+        "checkedAt": "2026-11-13"
+      },
+      "pixelReview": "Inspected exact local image in this worker on 2026-11-13; identification rests on admitted source record, not pixels alone.",
+      "asset": {
+        "id": "us-archives-04-mandela",
+        "file": "assets/history-media/us-archives-04-mandela.jpg",
+        "recordIds": [
+          "person-nelson-mandela"
+        ],
+        "kind": "photograph",
+        "representation": "historical-photograph",
+        "title": {
+          "en": "Mandela arriving for a U.S. state visit",
+          "zh": "曼德拉抵达美国进行国事访问"
+        },
+        "caption": {
+          "en": "Colonel Acuff greets South African President Nelson Mandela beside his aircraft on 4 October 1994, during the first year of his presidency.",
+          "zh": "1994年10月4日，阿卡夫上校在飞机旁迎接南非总统纳尔逊·曼德拉；当年是曼德拉就任总统的第一年。"
+        },
+        "alt": {
+          "en": "Nelson Mandela shakes hands with a uniformed officer beside an aircraft, while other visitors descend the stairs behind him.",
+          "zh": "纳尔逊·曼德拉在飞机旁与一名军官握手，其他来宾在他身后走下舷梯。"
+        },
+        "interpretation": {
+          "en": "The military ceremony shows Mandela taking part in international diplomacy during his first year as president. His new role followed the 1994 election and the wider collective struggle against apartheid described in the biography.",
+          "zh": "军事迎接仪式展现曼德拉在总统任期第一年参与国际外交。他的新角色承接1994年选举，以及传记所述更广泛的反种族隔离集体斗争。"
+        },
+        "creator": "Linwood Moore; U.S. Department of Defense",
+        "date": "4 October 1994",
+        "institution": "U.S. National Archives",
+        "sourceUrl": "https://rediscovering-black-history.blogs.archives.gov/2013/07/18/celebrating-the-95th-birthday-of-nelson-rolihlahla-mandela-through-nara-photographs/",
+        "imageUrl": "https://i0.wp.com/rediscovering-black-history.blogs.archives.gov/wp-content/uploads/sites/15/2013/07/df-sc-97-00957-scaled.jpeg?fit=685%2C454&ssl=1",
+        "downloadedFrom": "https://i0.wp.com/rediscovering-black-history.blogs.archives.gov/wp-content/uploads/sites/15/2013/07/df-sc-97-00957-scaled.jpeg?fit=685%2C454&ssl=1",
+        "rightsSourceUrl": "https://rediscovering-black-history.blogs.archives.gov/2013/07/18/celebrating-the-95th-birthday-of-nelson-rolihlahla-mandela-through-nara-photographs/",
+        "rights": {
+          "label": "Public domain",
+          "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "note": {
+            "en": "NARA captions item 6493889 as Colonel Acuff greeting Mandela on 4 October 1994 and identifies the visit photographs with RG 330, Combined Military Service Digital Photographic Files, describing camera originals made by military photographers. Embedded item metadata credits Linwood Moore. This is an official federal service image.",
+            "zh": "国家档案馆注明条目6493889为1994年10月4日阿卡夫上校迎接曼德拉，并把访问照片归入RG 330联合军种数字照片档案，说明其为军事摄影人员拍摄的原始照片。嵌入条目元数据署名林伍德·摩尔。此件属官方联邦军务图像。"
+          }
+        },
+        "bytes": 41909,
+        "sha256": "d7fc8df77851d51a479014a5920a35a8d07ce54889fec882fd29fc8bc90242fc",
+        "width": 684,
+        "height": 454,
+        "format": "jpeg",
+        "checkedAt": "2026-11-12",
+        "metadataI18n": {
+          "creator": {
+            "en": "Linwood Moore; U.S. Department of Defense",
+            "zh": "林伍德·摩尔；美国国防部"
+          },
+          "date": {
+            "en": "4 October 1994",
+            "zh": "1994年10月4日"
+          },
+          "institution": {
+            "en": "U.S. National Archives",
+            "zh": "美国国家档案馆"
+          }
+        },
+        "transformation": {
+          "en": "Institutional rendition saved byte-for-byte; no local crop, resize or re-encoding.",
+          "zh": "逐字节保存机构图像版本；未作本地裁剪、缩放或重新编码。"
+        }
+      },
+      "target": {
+        "id": "south-africa-election",
+        "title": {
+          "en": "South Africa: a democratic election",
+          "zh": "南非：民主选举"
+        },
+        "start": 1994,
+        "end": 1994,
+        "location": {
+          "lat": -25.75,
+          "lon": 28.19,
+          "label": "Pretoria; representative national marker"
+        },
+        "region": "africa",
+        "theme": "states",
+        "summary": {
+          "en": "South Africa’s 1994 election allowed adults to vote regardless of race, after a history of exclusion under apartheid. The government commemorates 27 April as the central date of the democratic election, and Nelson Mandela was inaugurated on 10 May. The transition changed political representation and opened a new constitutional period. The marker stands for a nationwide event; it does not imply that voting occurred only in Pretoria or that every consequence of apartheid ended in one year.",
+          "zh": "1994年南非选举使成年人能够不分种族参加投票，改变了种族隔离制度下的政治排斥。南非政府以4月27日纪念这一民主选举，纳尔逊·曼德拉于5月10日就职。这一转变改变了政治代表制度，并开启新的宪政阶段。标记代表全国性事件，不表示只有比勒陀利亚投票，也不表示种族隔离的所有后果在一年内消失。"
+        },
+        "dateNote": {
+          "en": "Single-year transition; 27 April 1994 is the commemorated election date, followed by inauguration on 10 May.",
+          "zh": "单一年份转型：1994年4月27日为纪念的选举日期，5月10日举行总统就职。"
+        },
+        "locationPrecision": "representative",
+        "sources": [
+          {
+            "title": "Milestones of 20 Years of Freedom",
+            "url": "https://www.gov.za/issues/20years/milestones-20-years-freedom",
+            "publisher": "South African Government",
+            "evidenceNote": "Government chronology records 27 April election, adult voting regardless of race and 10 May inauguration.",
+            "checkedAt": "2026-10-21"
+          }
+        ],
+        "ongoing": false,
+        "kind": "event",
+        "importance": 4
+      }
+    },
+    {
+      "decision": "propose",
+      "association": {
+        "assetId": "dolores-huerta-chavez-office-2012",
+        "recordId": "delano-grape-strike",
+        "role": "named-person",
+        "context": {
+          "en": "Dolores Huerta visits César Chávez’s preserved office in 2012, decades after the Delano strike in which both organized. The photograph shows the movement’s later public commemoration, not the strike or its full, multiethnic leadership.",
+          "zh": "2012年，多洛雷斯·韦尔塔到访保留的塞萨尔·查韦斯办公室，距两人参与组织德拉诺罢工已数十年。照片呈现运动的后世纪念，并非罢工现场，也不能代表全部多族群领导者。"
+        },
+        "evidenceUrl": "https://obamawhitehouse.archives.gov/photos-and-video/photo/2012/10/president-barack-obama-views-office-cesar-chavez",
+        "checkedAt": "2026-11-13"
+      },
+      "pixelReview": "Inspected exact local image in this worker on 2026-11-13; identification rests on admitted source record, not pixels alone.",
+      "asset": {
+        "id": "dolores-huerta-chavez-office-2012",
+        "file": "assets/history-media/dolores-huerta-chavez-office-2012.jpg",
+        "recordIds": [
+          "person-dolores-huerta"
+        ],
+        "kind": "photograph",
+        "representation": "historical-photograph",
+        "title": {
+          "en": "Dolores Huerta at the Chávez monument dedication",
+          "zh": "多洛雷斯·韦尔塔参加查韦斯纪念地揭幕活动"
+        },
+        "alt": {
+          "en": "Barack Obama and four visitors in César Chávez’s preserved office; Dolores Huerta stands in a red jacket immediately to the viewer’s right of Obama.",
+          "zh": "奥巴马与四位访客在塞萨尔·查韦斯保存下来的办公室内；穿红色外套的多洛雷斯·韦尔塔站在画面中奥巴马右侧。"
+        },
+        "caption": {
+          "en": "Dolores Huerta joins Barack Obama, Arturo Rodriguez, Helen Chávez and Paul Chávez in César Chávez’s office in Keene, California, 8 October 2012, before the national monument dedication. Official White House photograph by Pete Souza.",
+          "zh": "2012年10月8日，国家纪念地揭幕前，多洛雷斯·韦尔塔与奥巴马、阿图罗·罗德里格斯、海伦·查韦斯及保罗·查韦斯来到加州基恩的塞萨尔·查韦斯办公室。白宫官方摄影师皮特·苏扎摄。"
+        },
+        "interpretation": {
+          "en": "Books, a painted portrait and the preserved office frame a later recognition of farmworker organizing. Huerta’s 2012 visit with Obama belongs to the movement’s public commemoration, decades after the strikes and bargaining campaigns.",
+          "zh": "书籍、绘画肖像与保存下来的办公室，构成社会纪念农场工人组织运动的场景。韦尔塔在2012年与奥巴马到访此地，距离当年的罢工与谈判已有数十年。"
+        },
+        "creator": "Pete Souza, official White House photographer",
+        "date": "8 October 2012",
+        "institution": "Obama White House archive, National Archives",
+        "metadataI18n": {
+          "creator": {
+            "en": "Pete Souza, official White House photographer",
+            "zh": "皮特·苏扎，白宫官方摄影师"
+          },
+          "date": {
+            "en": "8 October 2012",
+            "zh": "2012年10月8日"
+          },
+          "institution": {
+            "en": "Obama White House archive, National Archives",
+            "zh": "美国国家档案馆奥巴马白宫网站档案"
+          }
+        },
+        "sourceUrl": "https://obamawhitehouse.archives.gov/photos-and-video/photo/2012/10/president-barack-obama-views-office-cesar-chavez",
+        "imageUrl": "https://obamawhitehouse.archives.gov/sites/default/files/imagecache/gallery_img_full/image/image_file/v1a8621__q_itok=Lyej2ojC.jpg",
+        "downloadedFrom": "https://obamawhitehouse.archives.gov/sites/default/files/imagecache/gallery_img_full/image/image_file/v1a8621__q_itok=Lyej2ojC.jpg",
+        "rightsSourceUrl": "https://obamawhitehouse.archives.gov/copyright",
+        "rights": {
+          "label": "Public domain",
+          "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "note": {
+            "en": "The item credits Pete Souza’s official White House photograph. The archived White House copyright policy states that government-produced materials appearing on the site are not copyright protected.",
+            "zh": "单件页面注明由皮特·苏扎拍摄的白宫官方照片；白宫网站存档的版权政策明确说明，网站上的政府制作材料不受版权保护。"
+          }
+        },
+        "width": 654,
+        "height": 436,
+        "bytes": 251182,
+        "sha256": "ed1c16087e627b6dd53e259f900a5b6274c262f25aa67dc72df94b5d795892b6",
+        "checkedAt": "2026-11-12",
+        "transformation": {
+          "en": "Official web derivative; no local crop, retouching or reconstruction.",
+          "zh": "官方网页图像版本；未在本地裁切、修饰或重建。"
+        }
+      },
+      "target": {
+        "id": "delano-grape-strike",
+        "title": {
+          "en": "Delano grape strike · Filipino and Mexican American solidarity",
+          "zh": "德拉诺葡萄罢工 · 菲律宾裔与墨西哥裔的团结"
+        },
+        "start": 1965,
+        "end": 1970,
+        "region": "north-america",
+        "kind": "event",
+        "theme": "exchange",
+        "importance": 3,
+        "location": {
+          "lat": 35.77,
+          "lon": -119.29,
+          "label": "Forty Acres near Delano; representative organizing and service center",
+          "labelI18n": {
+            "en": "Forty Acres near Delano; representative organizing and service center",
+            "zh": "德拉诺附近的“四十英亩”；代表性组织活动与服务中心"
+          },
+          "labelProvenance": "reviewed-display-translation"
+        },
+        "locationPrecision": "representative",
+        "summary": {
+          "en": "Filipino farmworkers belonging to the Agricultural Workers Organizing Committee began the Delano grape strike on 8 September 1965. Organizers including Larry Itliong and Philip Vera Cruz challenged low pay and growers’ control over working conditions. Eight days later, the National Farm Workers Association joined, bringing the work of César Chávez, Dolores Huerta and many Mexican American families into a shared campaign.\n\nA strike in the fields became a wider consumer boycott. Organizers asked supporters elsewhere to connect the food they bought with the conditions under which it was harvested. The two organizations merged into the United Farm Workers Organizing Committee in 1966, and contracts with grape growers followed in 1970.\n\nThe movement also built places where support could continue beyond a demonstration. Forty Acres housed organizing and service activities, including access to medical care and hiring arrangements; later retirement housing responded to the circumstances of older Filipino workers. These institutions reveal the household and community dimensions of labour politics. The settlement was a major achievement, but 1970 did not end agricultural inequality or the continuing work required to maintain collective representation.",
+          "zh": "1965年9月8日，农业工人组织委员会中的菲律宾裔农场工人在德拉诺发动葡萄采收罢工。拉里·伊特利翁、菲利普·维拉克鲁斯等组织者挑战低工资及种植业者对劳动条件的控制。八天后，全国农场工人协会加入，塞萨尔·查韦斯、多洛雷斯·韦尔塔及许多墨西哥裔家庭的行动汇入共同斗争。\n\n田间罢工发展为更广泛的消费者抵制。组织者请外地支持者把购买的食物与收获这些食物的劳动条件联系起来。两个组织于1966年合并为联合农场工人组织委员会，并于1970年与葡萄种植业者达成合约。\n\n运动还建立了能够在示威之后继续提供支持的场所。“四十英亩”基地承载组织及服务活动，包括医疗与雇工安排；后来的退休住宅回应了年长菲律宾裔工人的处境。这些设施揭示劳动政治的家庭与社区层面。和解是一项重要成果，但1970年并未终结农业劳动中的不平等，也没有消除维持集体代表机制所需的持续工作。"
+        },
+        "dateNote": {
+          "en": "1965–1970 spans the grape strike and principal contract settlement. Forty Acres represents a movement center; the boycott and agricultural workforce extended far beyond it.",
+          "zh": "1965—1970年涵盖葡萄罢工及主要合约达成阶段。四十英亩代表运动中心；抵制范围与农业劳动者分布远超此地。"
+        },
+        "sources": [
+          {
+            "title": "The Forty Acres",
+            "publisher": "U.S. National Park Service",
+            "url": "https://www.nps.gov/places/the-forty-acres.htm",
+            "evidenceNote": "Inspected site history: Filipino AWOC strike on 8 September 1965, NFWA participation eight days later, 1966 UFWOC merger, 1970 contracts and support services. Same institutional family as the NPS biography.",
+            "checkedAt": "2026-10-23",
+            "retrieval": "inspected-text"
+          },
+          {
+            "title": "Dolores Clara Fernández Huerta (1930– )",
+            "publisher": "California State Archives",
+            "url": "https://exhibits.sos.ca.gov/s/breaking-barriers-women-shaping-california/page/dolores-clara-fernandez-huerta",
+            "evidenceNote": "Inspected exhibition: 1962 association, national boycott leadership, negotiation and workers’ protections. Childhood relocation ages differ from NPS, so no exact age or route is adopted.",
+            "checkedAt": "2026-10-23",
+            "retrieval": "inspected-text"
+          }
+        ],
+        "keyFacts": {
+          "en": [
+            "Filipino AWOC workers initiated the September 1965 strike.",
+            "The NFWA joined eight days later.",
+            "Contracts followed in 1970 after a national boycott."
+          ],
+          "zh": [
+            "菲律宾裔农业工人于1965年9月率先罢工。",
+            "全国农场工人协会八天后加入。",
+            "全国抵制之后，1970年达成合约。"
+          ]
+        },
+        "relatedIds": [
+          "person-dolores-huerta",
+          "us-civil-rights-movement",
+          "new-deal-social-state"
+        ],
+        "expansion": {
+          "workstreams": [
+            "NA3"
+          ],
+          "release": 4,
+          "edition": "v10",
+          "sourceReview": "inspected-source-synthesis",
+          "reviewLimit": {
+            "en": "The site history and state archival biography corroborate organizing and boycott roles. The account avoids collapsing the 1966 UFWOC merger into the later formal UFW charter.",
+            "zh": "遗址历史与州档案传记相互补充组织与抵制活动。本条区分1966年的联合农场工人组织委员会合并与后来的正式工会建制。"
+          }
+        }
+      }
+    },
+    {
+      "decision": "propose",
+      "association": {
+        "assetId": "canadian-pages-02-macdonald",
+        "recordId": "canadian-national-policy-tariffs-land",
+        "role": "named-person",
+        "context": {
+          "en": "Macdonald’s portrait and reproduced signature introduce an 1891 commemorative biography. He is the prime minister whose tariff, railway and land policies this account examines; the portrait’s original sitting date is unknown.",
+          "zh": "麦克唐纳的肖像与印制签名置于1891年纪念传记的开篇。本篇考察这位总理的关税、铁路与土地政策；原肖像的拍摄或绘制日期未明。"
+        },
+        "evidenceUrl": "https://archive.org/details/canadaspatriotst00collrich",
+        "checkedAt": "2026-11-13"
+      },
+      "pixelReview": "Inspected exact local image in this worker on 2026-11-13; identification rests on admitted source record, not pixels alone.",
+      "asset": {
+        "id": "canadian-pages-02-macdonald",
+        "file": "assets/history-media/canadian-pages-02-macdonald.jpg",
+        "recordIds": [
+          "person-john-a-macdonald"
+        ],
+        "kind": "portrait",
+        "representation": "historical-portrait",
+        "title": {
+          "en": "Macdonald in an 1891 memorial biography",
+          "zh": "1891年纪念传记中的麦克唐纳"
+        },
+        "alt": {
+          "en": "A printed portrait of John A. Macdonald facing left, with a facsimile signature below and library perforations above.",
+          "zh": "约翰·A·麦克唐纳面向左侧的印刷肖像，下方有签名摹本，上方保留图书馆穿孔标记。"
+        },
+        "caption": {
+          "en": "Frontispiece portrait in Canada’s Patriot Statesman, revised by G. Mercer Adam from Edmund Collins’s work and published in 1891. The date of the underlying portrait is not established.",
+          "zh": "《加拿大的爱国政治家》卷首肖像，G.默瑟·亚当依据埃德蒙·柯林斯作品修订，1891年出版。肖像原作的具体年代尚未确定。"
+        },
+        "interpretation": {
+          "en": "The portrait and reproduced signature give Macdonald a personal presence in a book published after his death. Its commemorative framing is one strand of his public memory; the biography entry also examines coalition politics and coercive policies.",
+          "zh": "肖像与签名摹本使麦克唐纳在身后出版的书中以个人形象出现。这种纪念性框架是公共记忆的一部分；人物条目同时讨论联盟政治与强制性政策。"
+        },
+        "creator": "Portrait maker not identified; book by Edmund Collins, revised by G. Mercer Adam",
+        "date": "1891 printed edition; underlying portrait undated",
+        "institution": "University of California Libraries; Internet Archive",
+        "metadataI18n": {
+          "creator": {
+            "en": "Portrait maker not identified; book by Edmund Collins, revised by G. Mercer Adam",
+            "zh": "肖像作者未确定；埃德蒙·柯林斯著，G.默瑟·亚当修订"
+          },
+          "date": {
+            "en": "1891 printed edition; underlying portrait undated",
+            "zh": "1891年印刷版本；原肖像年代未确定"
+          },
+          "institution": {
+            "en": "University of California Libraries; Internet Archive",
+            "zh": "加利福尼亚大学图书馆；互联网档案馆"
+          }
+        },
+        "credit": "University of California Libraries; Internet Archive; Canada's patriot statesman. The life and career of the Right Honourable Sir John A. Macdonald ..; Unnumbered frontispiece facing title page",
+        "sourceUrl": "https://archive.org/details/canadaspatriotst00collrich",
+        "imageUrl": "https://iiif.archive.org/image/iiif/3/canadaspatriotst00collrich%2Fcanadaspatriotst00collrich_jp2.zip%2Fcanadaspatriotst00collrich_jp2%2Fcanadaspatriotst00collrich_0010.jp2/full/!1198,1198/0/default.jpg",
+        "downloadedFrom": "https://iiif.archive.org/image/iiif/3/canadaspatriotst00collrich%2Fcanadaspatriotst00collrich_jp2.zip%2Fcanadaspatriotst00collrich_jp2%2Fcanadaspatriotst00collrich_0010.jp2/full/!1198,1198/0/default.jpg",
+        "rightsSourceUrl": "https://archive.org/metadata/canadaspatriotst00collrich",
+        "rights": {
+          "label": "Public domain",
+          "url": "https://archive.org/metadata/canadaspatriotst00collrich",
+          "note": {
+            "en": "Internet Archive item metadata marks this edition NOT_IN_COPYRIGHT in the United States; not a worldwide determination.",
+            "zh": "互联网档案馆条目将此版本标为NOT_IN_COPYRIGHT，适用于美国，并非全球版权判定。"
+          }
+        },
+        "transformation": {
+          "en": "Unmodified official IIIF JPEG of the complete page. No local image edits.",
+          "zh": "完整书页的官方IIIF JPEG原样保存，未在本地编辑图像。"
+        },
+        "width": 759,
+        "height": 1198,
+        "bytes": 133359,
+        "sha256": "87ec61bead976a6ae9b7b77efe224b13aaf5067461e444b5b2a62395c49da7b0",
+        "checkedAt": "2026-11-12",
+        "retrieval": "Item metadata, complete-page pixels and download receipts reviewed; see docs/v18-canadian-pages-02-evidence.json."
+      },
+      "target": {
+        "id": "canadian-national-policy-tariffs-land",
+        "title": {
+          "en": "National Policy · Tariffs, land and the reach of the federal state",
+          "zh": "国家政策 · 关税、土地与联邦国家的扩张"
+        },
+        "start": 1878,
+        "end": 1891,
+        "region": "north-america",
+        "kind": "idea",
+        "theme": "states",
+        "importance": 3,
+        "location": {
+          "lat": 45.42,
+          "lon": -75.7,
+          "label": "Ottawa; representative federal government setting"
+        },
+        "locationPrecision": "representative",
+        "summary": {
+          "en": "Macdonald returned to power in 1878 promising tariff protection, and his government introduced higher import duties in 1879. This National Policy sought to strengthen Canadian manufacturing and reduce competition from imported goods. Its effects were uneven; political support and national integration did not mean that every household, region or producer benefited equally.\n\nTariffs, railway finance and western settlement connected distinct legal and administrative measures. Federal subsidies and land grants supported the Canadian Pacific Railway, while control of land administration and Indian Affairs gave Ottawa instruments for reshaping the Prairies. These were inhabited homelands, not vacant spaces awaiting economic development. Officials’ control of food relief helped compel First Nations onto reserves as bison-based livelihoods collapsed. The policy history therefore includes coercive administration alongside the movement of goods and settlers.\n\nEconomic participation did not confer equal membership. Chinese labour was recruited for railway construction, while federal voting restrictions and the 1885 immigration law imposed racial exclusion. The head-tax statute received assent in 1885 and came fully into effect in 1886. Studying these linked arrangements explains a mechanism of state-building rather than repeating the last-spike ceremony. The selected interval ends with Macdonald’s death; tariff politics, federal expansion and the consequences of dispossession continued afterward.",
+          "zh": "麦克唐纳1878年凭提高关税保护的主张重新执政，政府1879年增加进口税。这项“国家政策”旨在加强加拿大制造业，降低进口货物的竞争。影响分配并不均衡；政治支持与国家整合不意味着每个家庭、地区或生产者都同样受益。\n\n关税、铁路融资与西部定居把不同的法律和行政措施联系起来。联邦补贴与土地拨赠支持加拿大太平洋铁路，土地管理及印第安事务权力则为渥太华重塑草原地区提供工具。那里是有人居住的家园，并非等待开发的空地。野牛生计崩溃时，官员控制食物救济，协助迫使第一民族进入保留地。因此，经济政策史既包括货物和定居者流动，也包括强制行政。\n\n参与经济并不带来平等成员资格。铁路招募华人劳动，同时联邦投票限制及1885年移民法施加种族排斥。人头税法1885年获御准，1886年全面生效。研究这些相互联系的安排，是解释国家建构的机制，而非重述最后一根道钉仪式。所选时间段以麦克唐纳去世结束；关税政治、联邦扩张和失地后果此后继续。"
+        },
+        "dateNote": {
+          "en": "1878–1891 follows Macdonald’s second administration. Tariffs changed in 1879; the 1885 Chinese Immigration Act came fully into effect on 1 January 1886. These related measures were not one statute, and the interval does not date the whole history of dispossession.",
+          "zh": "1878—1891年追踪麦克唐纳第二阶段执政。关税于1879年调整；1885年《华人移民法》于1886年1月1日全面生效。相关措施并非一部法律，此时段也不是失地历史的全部。"
+        },
+        "sources": [
+          {
+            "title": "Sir John A. Macdonald",
+            "publisher": "The Canadian Encyclopedia, Historica Canada",
+            "url": "https://www.thecanadianencyclopedia.ca/en/article/sir-john-alexander-macdonald",
+            "evidenceNote": "Relevant webpage text captured through the root Codex in-app browser and inspected from that local capture. Biography and National Policy/railway/Indigenous/Chinese-policy sections: 1815–1891, 1844 election, 1867–1873 and 1878–1891 terms, 1879 tariffs, railway finance, 1883 federal residential-school programme and 1885 exclusionary measures.1880 s food coercion is attributed to historian James Daschuk. The paragraph compressing 1876 Indian Act into his government is not followed; he was then in opposition.",
+            "checkedAt": "2026-10-24",
+            "retrieval": "inspected-text-via-central-iab-capture"
+          },
+          {
+            "title": "MACDONALD, Sir JOHN ALEXANDER",
+            "publisher": "Dictionary of Canadian Biography, University of Toronto and Université Laval; revised First Nations sections by J. R. Miller and Chinese-policy section by Patricia E. Roy",
+            "url": "https://www.biographi.ca/en/bio/macdonald_john_alexander_12E.html",
+            "evidenceNote": "Relevant webpage text captured through the root Codex in-app browser and inspected from that local capture. Early life, law, Confederation, National Policy and 1878 election, departmental and First Nations policy, Chinese immigration and 1891 death sections inspected. Supports 1836 law qualification, 1844 politics, 1867 premiership, 1873 resignation, 1878 return, 1878–1887 Indian Affairs responsibility, residential-school expansion and 1885 head-tax statute/full effect 1886. Its evaluative genocide discussion is not adopted as a resolution of TRC findings.",
+            "checkedAt": "2026-10-24",
+            "retrieval": "inspected-text-via-central-iab-capture"
+          }
+        ],
+        "relatedIds": [
+          "person-john-a-macdonald",
+          "canadian-pacific-last-spike",
+          "indian-act-assimilation",
+          "person-louis-riel"
+        ],
+        "expansion": {
+          "workstreams": [
+            "NA3",
+            "NA2"
+          ],
+          "release": 6,
+          "edition": "v12",
+          "sourceReview": "inspected-source-synthesis",
+          "reviewLimit": {
+            "en": "A selected synthesis from source text captured in the root agent’s in-app browser and inspected by the content author. The two reference works are scholarly syntheses, not a full review of underlying archives or Indigenous-language testimony. Representative pins do not establish borders or a continuous itinerary.",
+            "zh": "选取主代理在应用内浏览器取得、由内容作者查阅的来源文字进行综合。两部参考著作为学术综合，并非对全部原始档案或原住民语言见证的全面核查。代表性点位不确立疆界或连续行程。"
+          }
+        },
+        "countryGroup": "canada"
+      }
+    },
+    {
+      "decision": "propose",
+      "association": {
+        "assetId": "inscribed-monuments-01-hammurabi",
+        "recordId": "mesopotamia-babylon-assur",
+        "role": "named-person",
+        "context": {
+          "en": "Hammurabi stands before a seated deity in the relief above his law collection, explicitly mentioned in this account of Babylon’s rise. This 1904 printed photograph reproduces the monument found at Susa; it does not map his conquests.",
+          "zh": "汉谟拉比在法典上方浮雕中立于端坐神祇之前。本篇巴比伦崛起的叙述明确提及这部法典。1904年的印刷照片再现的是出土于苏萨的纪念碑，不是其征服范围的地图。"
+        },
+        "evidenceUrl": "https://archive.org/details/codehammurabiki00harpgoog",
+        "checkedAt": "2026-11-13"
+      },
+      "pixelReview": "Inspected exact local image in this worker on 2026-11-13; identification rests on admitted source record, not pixels alone.",
+      "asset": {
+        "id": "inscribed-monuments-01-hammurabi",
+        "file": "assets/history-media/inscribed-monuments-01-hammurabi.jpg",
+        "recordIds": [
+          "old-babylon"
+        ],
+        "kind": "document",
+        "representation": "document-facsimile",
+        "title": {
+          "en": "Royal justice beneath a divine audience",
+          "zh": "神前呈现的王室正义"
+        },
+        "alt": {
+          "en": "A monochrome printed photograph of the upper relief on Hammurabi’s stele shows a standing king facing a seated deity.",
+          "zh": "汉谟拉比石碑顶部浮雕的黑白印刷照片，显示站立的国王面对端坐的神祇。"
+        },
+        "caption": {
+          "en": "The upper relief of Hammurabi’s law monument, reproduced as the frontispiece of Robert Francis Harper’s The Code of Hammurabi, second edition, 1904. The ancient monument was excavated at Susa, not Babylon.",
+          "zh": "汉谟拉比法典碑顶部浮雕，复制于罗伯特·弗朗西斯·哈珀《汉谟拉比法典》1904年第二版卷首。古代石碑出土于苏萨，而非巴比伦。"
+        },
+        "interpretation": {
+          "en": "The standing king faces a seated deity, presenting royal authority within a divine setting. The law text lies outside this photographic detail; its distinctions between social ranks are discussed in the linked history entry.",
+          "zh": "站立的国王面对端坐的神祇，在神圣场景中呈现王权。法条位于这张局部照片之外；关联历史条目讨论了文本中的社会等级差别。"
+        },
+        "metadataI18n": {
+          "creator": {
+            "en": "Robert Francis Harper, editor; photographer not individually credited",
+            "zh": "罗伯特·弗朗西斯·哈珀编；摄影者未单独署名"
+          },
+          "date": {
+            "en": "1904 edition; ancient monument from Hammurabi’s reign",
+            "zh": "1904年版本；古代石碑属于汉谟拉比统治时期"
+          },
+          "institution": {
+            "en": "Google digitization hosted by Internet Archive; source library unspecified",
+            "zh": "谷歌数字化，互联网档案馆提供；源图书馆未注明"
+          }
+        },
+        "creator": "Robert Francis Harper, editor; photographer not individually credited",
+        "date": "1904 edition; ancient monument from Hammurabi’s reign",
+        "institution": "Google digitization hosted by Internet Archive; source library unspecified",
+        "credit": "Google digitization hosted by Internet Archive; source library unspecified; codehammurabiki00harpgoog",
+        "sourceUrl": "https://archive.org/details/codehammurabiki00harpgoog",
+        "imageUrl": "https://iiif.archive.org/image/iiif/3/codehammurabiki00harpgoog%2Fcodehammurabiki00harpgoog_tif.zip%2Fcodehammurabiki00harpgoog_tif%2Fcodehammurabiki00harpgoog_0007.tif/full/!1200,1200/0/default.jpg",
+        "downloadedFrom": "https://iiif.archive.org/image/iiif/3/codehammurabiki00harpgoog%2Fcodehammurabiki00harpgoog_tif.zip%2Fcodehammurabiki00harpgoog_tif%2Fcodehammurabiki00harpgoog_0007.tif/full/!1200,1200/0/default.jpg",
+        "rightsSourceUrl": "https://archive.org/metadata/codehammurabiki00harpgoog",
+        "rights": {
+          "label": "Public domain",
+          "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "note": {
+            "en": "Internet Archive item metadata explicitly records NOT_IN_COPYRIGHT; copyright-region US.",
+            "zh": "互联网档案馆条目元数据明确标记NOT_IN_COPYRIGHT，版权地域为美国（US）。"
+          }
+        },
+        "transformation": {
+          "en": "Source-served IIIF JPEG requested within 1200 × 1200 pixels, preserved unchanged. No local crop, retouching or recolouring.",
+          "zh": "向来源IIIF服务请求不超过1200 × 1200像素的JPEG，原样保存；未在本地裁剪、修饰或改色。"
+        },
+        "width": 805,
+        "height": 1200,
+        "bytes": 46853,
+        "sha256": "0647ec1181307c66aeb5e74b42cfc3544e8892676f38d4797724305420128b98",
+        "checkedAt": "2026-11-13",
+        "retrieval": "Exact image bytes recovered from the interrupted GitHub upload; catalogue descriptions rebuilt from retained inspection evidence. Source metadata and canvas identities rechecked."
+      },
+      "target": {
+        "id": "mesopotamia-babylon-assur",
+        "start": -1792,
+        "end": -1792,
+        "kind": "event",
+        "region": "west-central-asia",
+        "theme": "states",
+        "importance": 4,
+        "title": {
+          "en": "Babylon rises in a land of rival courts",
+          "zh": "巴比伦在列国并立中崛起"
+        },
+        "summary": {
+          "en": "Hammurabi began his reign in a region with multiple centers of power. The northern kingdom built by Shamshi-Adad and the southern court at Babylon followed different political trajectories. Hammurabi’s later expansion changed that balance, which helps explain why his reign mattered beyond the law collection associated with his name.",
+          "zh": "汉谟拉比即位时，美索不达米亚已有多个权力中心。沙姆希阿达德在北方建立的王国与南方的巴比伦朝廷各自发展。汉谟拉比后来的扩张改变了这种力量格局，这也是其统治在著名法典之外的重要意义。"
+        },
+        "dateNote": {
+          "en": "1792 BCE is the conventional middle-chronology start of Hammurabi’s reign. The expansion discussed took place later.",
+          "zh": "按中年代体系，前1792年是汉谟拉比即位之年。文中所述扩张发生于其后。"
+        },
+        "locationPrecision": "representative",
+        "location": {
+          "lon": 44.42,
+          "lat": 32.54,
+          "label": "Babylon",
+          "labelI18n": {
+            "en": "Babylon",
+            "zh": "巴比伦"
+          }
+        },
+        "relatedIds": [
+          "old-babylon"
+        ],
+        "sources": [
+          {
+            "title": "Heilbrunn Timeline of Art History: Mesopotamia",
+            "publisher": "The Metropolitan Museum of Art",
+            "url": "https://www.metmuseum.org/toah/ht/03/wam.html"
+          }
+        ]
+      }
+    },
+    {
+      "decision": "propose",
+      "association": {
+        "assetId": "getty-images-03-paul",
+        "recordId": "early-christianity-jewish-context",
+        "role": "related-work",
+        "context": {
+          "en": "A Bolognese manuscript of about 1280–1290 pictures Paul passing his letter to the Philippians to a messenger. This is a medieval reception of the letter-writing discussed here, not a first-century likeness or an original letter sheet.",
+          "zh": "约1280—1290年的博洛尼亚手稿描绘保罗把致腓立比人的信交给使者。这是中世纪对本篇所述书信传统的再现，并非一世纪的本人写照或信件原稿。"
+        },
+        "evidenceUrl": "https://www.getty.edu/art/collection/object/103S1X",
+        "checkedAt": "2026-11-13"
+      },
+      "pixelReview": "Inspected exact local image in this worker on 2026-11-13; identification rests on admitted source record, not pixels alone.",
+      "asset": {
+        "id": "getty-images-03-paul",
+        "file": "assets/history-media/getty-images-03-paul.jpg",
+        "recordIds": [
+          "paul-corinth-letters-50s"
+        ],
+        "kind": "manuscript",
+        "representation": "manuscript-detail",
+        "title": {
+          "en": "A medieval image of Paul’s letters",
+          "zh": "保罗书信的中世纪图像"
+        },
+        "alt": {
+          "en": "Two columns of Latin writing surround blue and gold initials; the upper initial shows a haloed man handing a scroll toward two figures, while a monk writes below.",
+          "zh": "两栏拉丁文围绕蓝金色首字母；上方首字母中有光环的男子向两人递交卷轴，下方则有修士书写。"
+        },
+        "caption": {
+          "en": "Unknown illuminator, Initial P: Saint Paul; Initial P: A Bishop Giving a Letter to a Messenger, about 1280–1290, Bologna. Tempera, gold leaf and ink; Getty Ms. Ludwig I 11, fol. 501. Getty identifies the upper scene with Paul’s letter to the Philippians.",
+          "zh": "佚名彩饰师，《首字母P：圣保罗；首字母P：主教向信使递交书信》，约1280—1290年，博洛尼亚。蛋彩、金箔与墨；盖蒂路德维希手稿I 11，第501叶。盖蒂将上方场景与保罗致腓立比人的书信联系起来。"
+        },
+        "interpretation": {
+          "en": "This medieval page shows Paul passing a letter to a messenger, with a bishop looking on. It depicts the letter to the Philippians, rather than Corinthians, and reveals how a Bolognese monastic community pictured the ancient writer more than twelve centuries later.",
+          "zh": "这页中世纪手稿描绘保罗把书信递给信使，旁有主教观看。画中是致腓立比人的书信，而非致哥林多人的书信；它展现逾十二个世纪后，博洛尼亚修道团体如何想象这位古代作者。"
+        },
+        "creator": "Unknown",
+        "date": "about 1280–1290",
+        "institution": "J. Paul Getty Museum",
+        "credit": "J. Paul Getty Museum, Los Angeles; 83.MA.60.501",
+        "sourceUrl": "https://www.getty.edu/art/collection/object/103S1X",
+        "imageUrl": "https://media.getty.edu/iiif/image/b5681755-d7d3-4d59-bf09-c82be3374715/full/!1400,1400/0/default.jpg",
+        "downloadedFrom": "https://media.getty.edu/iiif/image/b5681755-d7d3-4d59-bf09-c82be3374715/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://www.getty.edu/art/collection/object/103S1X",
+        "rights": {
+          "label": "CC0",
+          "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "note": {
+            "en": "Getty’s official object page identifies this image and explicitly provides supplied images under CC0 through the Open Content Program.",
+            "zh": "盖蒂官方藏品页标识此图，并明确说明所提供图像通过开放内容项目以CC0开放。"
+          }
+        },
+        "transformation": {
+          "en": "Source-served IIIF JPEG preserved unchanged. No local crop, retouching, recolouring or resizing.",
+          "zh": "来源直接提供的IIIF JPEG原样保存，未经本地裁剪、修饰、改色或缩放。"
+        },
+        "contextSources": [
+          {
+            "title": {
+              "en": "Getty object catalogue and image rights",
+              "zh": "盖蒂藏品目录与图像授权"
+            },
+            "url": "https://www.getty.edu/art/collection/object/103S1X"
+          }
+        ],
+        "width": 901,
+        "height": 1400,
+        "bytes": 473111,
+        "sha256": "7520bcfb59cd6307ab89caa10b30be0554bab3d722b7589bb6b061fb2298bab5",
+        "checkedAt": "2026-11-11",
+        "metadataI18n": {
+          "creator": {
+            "en": "Unknown",
+            "zh": "佚名"
+          },
+          "date": {
+            "en": "about 1280–1290",
+            "zh": "约1280—1290年"
+          },
+          "institution": {
+            "en": "J. Paul Getty Museum",
+            "zh": "J. 保罗·盖蒂博物馆"
+          }
+        }
+      },
+      "target": {
+        "id": "early-christianity-jewish-context",
+        "title": {
+          "en": "Early Christianity · First-century Jewish contexts",
+          "zh": "早期基督教 · 一世纪的犹太语境"
+        },
+        "start": 1,
+        "end": 100,
+        "region": "west-central-asia",
+        "theme": "culture",
+        "kind": "idea",
+        "importance": 4,
+        "location": {
+          "lat": 31.78,
+          "lon": 35.23,
+          "label": "Jerusalem; one context for early Jesus-following communities, not the location of every community",
+          "labelI18n": {
+            "en": "Jerusalem; one context for early Jesus-following communities, not the location of every community",
+            "zh": "耶路撒冷；早期耶稣追随者社群的一个背景，并非所有社群所在地"
+          }
+        },
+        "locationPrecision": "representative",
+        "summary": {
+          "en": "Jesus and his earliest followers were Jews in a first-century world containing diverse Jewish communities and interpretations. Later Christian traditions preserve different accounts of Jesus’s life and teaching. The dates shown are an editorial century, not a claim to know the precise year of his birth or death.\n\nJewish and non-Jewish followers formed communities in different places. Paul’s surviving letters and later accounts are important but distinct evidence for some of their debates. Scholar Markus Tiwald argues that the differentiation of Christian and Jewish communities was gradual and uneven; it should not be compressed into one universal founding or separation date. Judaism continued as a living tradition in its own right.",
+          "zh": "耶稣及其最早的追随者是犹太人，生活在包含多种犹太社群与解释的一世纪世界。后来的基督教传统保存了有关耶稣生平与教导的不同叙述。所示日期只是编辑选取的世纪，并不声称知道其确切出生或去世年份。\n\n犹太与非犹太追随者在不同地点形成社群。保罗现存书信和后来的记述，是理解其中一些争论的重要但不同的证据。学者马库斯·蒂瓦尔德认为，基督徒与犹太社群的分化渐进而且各地不一；不应将其压缩为一个普遍的创立或分离日期。犹太教本身也作为活态传统继续发展。"
+        },
+        "dateNote": {
+          "en": "1–100 CE is a first-century focus, not an exact birth/death date for Jesus or a single moment when Christianity and Judaism separated.",
+          "zh": "公元1—100年是一世纪的关注时段，不是耶稣的准确出生或去世日期，也不是基督教与犹太教在某一刻分离的日期。"
+        },
+        "relatedIds": [
+          "jewish-communities-second-temple",
+          "paul-corinth-letters-50s",
+          "christian-jewish-communities-late-antiquity"
+        ],
+        "sources": [
+          {
+            "title": "The Beginnings of Christianity as an Integral Part of Early Judaism",
+            "url": "https://bibleinterp.arizona.edu/articles/beginnings-christianity-integral-part-early-judaism",
+            "publisher": "Markus Tiwald / The Bible and Interpretation, University of Arizona",
+            "evidenceNote": "Directly inspected the scholarly essay on Jesus and his first followers within diverse first-century Judaism and on long, regionally uneven Christian–Jewish differentiation. The author’s extended chronology and interpretations are a scholarly argument, not a universally agreed separation date.",
+            "checkedAt": "2026-10-27",
+            "retrieval": "inspected-text"
+          },
+          {
+            "title": "Paul’s Mission and Letters",
+            "url": "https://www.pbs.org/wgbh/pages/frontline/shows/religion/first/missions.html",
+            "publisher": "PBS FRONTLINE / interviews with Wayne A. Meeks and L. Michael White",
+            "evidenceNote": "Directly inspected scholar interviews on Paul’s letters, Jewish and Gentile communities, meals and observance, with approximate Corinth and Aegean work in the 50s CE. The scholars note difficult dates and differences between Paul’s letters and Acts. The 1998 PBS page is a legacy source and labels itself potentially outdated.",
+            "checkedAt": "2026-10-27",
+            "retrieval": "inspected-text"
+          }
+        ],
+        "expansion": {
+          "release": 8,
+          "edition": "v14",
+          "workstreams": [
+            "WA1",
+            "EU1"
+          ],
+          "sourceReview": "inspected-source-synthesis",
+          "reviewLimit": {
+            "en": "Tiwald’s argument is one scholarly interpretation of a diverse process; PBS presents selected interviews and distinguishes letters from later Acts. Neither source establishes exact life dates for Jesus.",
+            "zh": "蒂瓦尔德的论证是对多元过程的一种学术解释；PBS提供精选访谈，并区分书信与后来的《使徒行传》。两者都不能确立耶稣的准确生平日期。"
+          }
+        },
+        "regionalAssociation": "omit-broad-point"
+      }
+    },
+    {
+      "decision": "propose",
+      "association": {
+        "assetId": "world-batch-02-met-447634",
+        "recordId": "baghdad-foundation",
+        "role": "historical-context",
+        "context": {
+          "en": "These ninth-century glass mosaic fragments come from Samarra, the comparison site named in this account. They preserve materials used in another Abbasid capital’s decoration, not pieces excavated from Baghdad’s original round city.",
+          "zh": "这些九世纪玻璃马赛克碎片来自本文明确列为比较地点的萨迈拉。它们保留了另一座阿拔斯都城的装饰材料，并非巴格达最初圆城的出土物。"
+        },
+        "evidenceUrl": "https://www.metmuseum.org/art/collection/search/447634",
+        "checkedAt": "2026-11-13"
+      },
+      "pixelReview": "Inspected exact local image in this worker on 2026-11-13; identification rests on admitted source record, not pixels alone.",
+      "asset": {
+        "file": "assets/history-media/world-batch-02-met-447634.jpg",
+        "downloadedFrom": "https://images.metmuseum.org/CRDImages/is/web-large/DP347862.jpg",
+        "sha256": "9df8efaf062ffa870cf59d4f2a582f9e8c337b8e226580745410f21b28e34b4b",
+        "bytes": 46732,
+        "width": 514,
+        "height": 625,
+        "id": "world-batch-02-met-447634",
+        "recordIds": [
+          "samarra",
+          "abbasid-caliphate"
+        ],
+        "kind": "object",
+        "representation": "object-photograph",
+        "title": {
+          "en": "Glass mosaic pieces from Abbasid Samarra",
+          "zh": "阿拔斯萨迈拉的玻璃马赛克块"
+        },
+        "alt": {
+          "en": "Twelve small glass mosaic pieces in muted green, blue and dark tones are arranged in a grid.",
+          "zh": "十二枚绿、蓝及深色的小玻璃马赛克块排列成网格。"
+        },
+        "caption": {
+          "en": "Samarra, Iraq, ninth century. These glass tesserae survive from the decorative materials of the Abbasid capital.",
+          "zh": "伊拉克萨迈拉，九世纪。这些玻璃马赛克块保存了阿拔斯都城使用的装饰材料。"
+        },
+        "interpretation": {
+          "en": "Small reflective fragments reveal the material choices behind monumental palace interiors. The museum reports relatively few glass tesserae from Samarra, where glass remained a valued expression of imperial taste.",
+          "zh": "细小的反光碎块展示宏大宫殿内部的材料选择。博物馆指出萨迈拉出土的玻璃马赛克较少，玻璃仍是受重视的宫廷审美表现。"
+        },
+        "creator": "Unrecorded maker",
+        "date": "9th century",
+        "institution": "The Metropolitan Museum of Art",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/447634",
+        "imageUrl": "https://images.metmuseum.org/CRDImages/is/original/DP347862.jpg",
+        "checkedAt": "2026-11-11",
+        "rightsSourceUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access",
+        "rights": {
+          "label": "CC0",
+          "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "note": {
+            "en": "The museum object page and API identify this image as public domain; Met Open Access releases it under CC0. Rogers Fund, 1923",
+            "zh": "馆藏页面及API将图像标为公有领域，大都会开放获取政策以CC0发布。入藏署名见原馆藏记录。"
+          }
+        },
+        "retrieval": "Official object page, API and Open Access policy inspected; original and delivery bytes decoded, hashed and visually reviewed on contact-sheet.jpg.",
+        "transformation": {
+          "en": "Museum-provided web-large JPEG preserved byte-for-byte; the full-resolution original was also verified and retained in research.",
+          "zh": "逐字节保存博物馆提供的web-large JPEG；全分辨率原图也已验证并保存在研究资料中。"
+        }
+      },
+      "target": {
+        "id": "baghdad-foundation",
+        "title": {
+          "en": "762: Baghdad becomes an Abbasid capital",
+          "zh": "762年：巴格达成为阿拔斯都城"
+        },
+        "start": 762,
+        "end": 762,
+        "region": "west-central-asia",
+        "theme": "cities",
+        "kind": "place",
+        "importance": 4,
+        "location": {
+          "lat": 33.34,
+          "lon": 44.4,
+          "label": "Baghdad; city-level reference, not an exact reconstruction of the Round City"
+        },
+        "locationYear": 762,
+        "locationPrecision": "representative",
+        "summary": {
+          "en": "The Abbasid caliph al-Mansur founded Baghdad as a new capital in 762. Its planned circular centre made royal and administrative authority visible, while its location in Iraq reflected a shift in the caliphate's political focus from Syria. Baghdad later became a major centre of commerce, scholarship and book production. Very little of the original Abbasid city survives, so written descriptions and comparison with sites such as Samarra matter greatly. The foundation connects city planning to imperial government while showing why an attractive modern reconstruction is not the same as an excavated plan.",
+          "zh": "阿拔斯哈里发曼苏尔于762年建立巴格达作为新都。规划中的圆形中心把王室与行政权威表现于城市空间，其伊拉克区位也反映哈里发国政治重心从叙利亚东移。巴格达后来成为商业、学术和书籍制作的重要中心。然而最初的阿拔斯城市遗存极少，研究需要依靠文字记载并与萨迈拉等遗址比较。这一案例把城市规划与帝国治理联系起来，也提醒我们区分现代复原图与考古实测平面。"
+        },
+        "dateNote": {
+          "en": "762 is the foundation year of al-Mansur's capital. The point identifies Baghdad at city scale and does not claim a precise boundary for the largely lost Round City.",
+          "zh": "762年指曼苏尔营建都城。点位仅在城市尺度上表示巴格达，不声称精确还原大部分已消失的圆城边界。"
+        },
+        "keyFacts": {
+          "en": [
+            "The Abbasid political centre moved eastward from Syria to Iraq.",
+            "Samarra's surviving remains are important comparative evidence because little early Abbasid Baghdad survives."
+          ],
+          "zh": [
+            "阿拔斯时期的政治中心由叙利亚向伊拉克东移。",
+            "早期阿拔斯巴格达遗存稀少，因此萨迈拉遗址具有重要比较价值。"
+          ]
+        },
+        "sources": [
+          {
+            "title": "The Art of the Abbasid Period (750–1258)",
+            "url": "https://www.metmuseum.org/essays/the-art-of-the-abbasid-period-750-1258",
+            "publisher": "The Metropolitan Museum of Art",
+            "evidenceNote": "Baghdad's 762 foundation, eastward political shift, urban form and limits of surviving architectural evidence.",
+            "checkedAt": "2026-10-23"
+          },
+          {
+            "title": "Al-Mansur",
+            "url": "https://www.britishmuseum.org/collection/term/BIOG16462",
+            "publisher": "British Museum",
+            "evidenceNote": "Institutional authority record identifies the Abbasid ruler and his foundation of Baghdad.",
+            "checkedAt": "2026-10-23"
+          }
+        ],
+        "relatedIds": [
+          "abbasid-caliphate",
+          "samarra",
+          "person-al-khwarizmi",
+          "baghdad-sack-1258"
+        ],
+        "ongoing": false
+      }
+    },
+    {
+      "assetId": "world-batch-05-cusco-imperial-city",
+      "recordId": "person-pachacuti",
+      "decision": "hold",
+      "reason": "Cusco restructuring is explicit, but this photograph’s Qorikancha masonry lacks asset-specific attribution to Pachacuti in the admitted evidence. Could be contextual city illustration after stronger object-specific review.",
+      "asset": {
+        "id": "world-batch-05-cusco-imperial-city",
+        "recordIds": [
+          "cusco-imperial-city"
+        ],
+        "kind": "site",
+        "representation": "site-photograph",
+        "file": "assets/history-media/world-batch-05-cusco-imperial-city.jpg",
+        "sha256": "5b11d983f426718315ea0bdf60826a3065f681f0721040489e5230d50d4e3402",
+        "bytes": 212008,
+        "width": 960,
+        "height": 660,
+        "title": {
+          "en": "Inca masonry at Qorikancha",
+          "zh": "科里坎查的印加石墙"
+        },
+        "alt": {
+          "en": "Smooth fitted stone blocks form a wall below later buildings.",
+          "zh": "精密拼接的平整石块构成墙体，上方为后建建筑。"
+        },
+        "caption": {
+          "en": "Qorikancha’s Inca walls survive beneath and beside the colonial Santo Domingo complex.",
+          "zh": "科里坎查的印加石墙保存在殖民时期圣多明各建筑群之下与旁侧。"
+        },
+        "interpretation": {
+          "en": "The junction between masonry traditions makes the city’s layered history visible.",
+          "zh": "不同砌筑传统的交界让城市的多层历史可见。"
+        },
+        "creator": "Håkan Svensson (Xauxa)",
+        "date": "Photograph: 2002-07",
+        "institution": "Wikimedia Commons / credited photographer",
+        "metadataI18n": {
+          "creator": {
+            "en": "Håkan Svensson (Xauxa)",
+            "zh": "Håkan Svensson (Xauxa)"
+          },
+          "date": {
+            "en": "Photograph: 2002-07",
+            "zh": "照片：2002-07"
+          },
+          "institution": {
+            "en": "Wikimedia Commons / credited photographer",
+            "zh": "维基共享资源／所署名摄影者"
+          }
+        },
+        "historicalPeriod": {
+          "en": "Inca fifteenth-century fabric with Spanish colonial construction above",
+          "zh": "15世纪印加建筑遗存，上叠西班牙殖民时期建筑"
+        },
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cusco_Coricancha_Inti-Huasi_main_view.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Cusco_Coricancha_Inti-Huasi_main_view.jpg",
+        "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Cusco_Coricancha_Inti-Huasi_main_view.jpg/960px-Cusco_Coricancha_Inti-Huasi_main_view.jpg",
+        "checkedAt": "2026-11-11",
+        "rightsSourceUrl": "https://commons.wikimedia.org/wiki/File:Cusco_Coricancha_Inti-Huasi_main_view.jpg",
+        "rights": {
+          "label": "CC BY 2.5",
+          "url": "https://creativecommons.org/licenses/by/2.5",
+          "note": {
+            "en": "Photograph © Håkan Svensson (Xauxa), CC BY 2.5. Retain attribution, the license and any change notices when reusing this photograph.",
+            "zh": "照片署名：Håkan Svensson (Xauxa)；许可：CC BY 2.5。再次使用时须保留署名、许可及修改说明。"
+          }
+        },
+        "contextSources": [
+          {
+            "title": {
+              "en": "Explore this site’s history",
+              "zh": "了解遗址历史"
+            },
+            "url": "https://whc.unesco.org/en/list/273/"
+          }
+        ],
+        "retrieval": "Commons source-page revisions and image metadata retained. Delivered bytes decoded, hashed and individually reviewed.",
+        "transformation": {
+          "en": "Commons-provided JPEG, unchanged locally. Source-side cropping or processing is described on the file page.",
+          "zh": "采用Commons提供的JPEG，未在本地修改。来源已有的裁切或处理见文件页说明。"
+        }
+      },
+      "target": {
+        "id": "person-pachacuti",
+        "title": {
+          "en": "Pachacuti · Reorganizing an expanding Inca state",
+          "zh": "帕查库蒂 · 重组扩张中的印加国家"
+        },
+        "start": 1438,
+        "end": 1471,
+        "region": "latin-america",
+        "theme": "states",
+        "kind": "person",
+        "location": {
+          "lat": -13.52,
+          "lon": -71.98,
+          "label": "Cusco; representative royal and administrative center"
+        },
+        "locationPrecision": "representative",
+        "importance": 4,
+        "ongoing": false,
+        "summary": {
+          "en": "Pachacuti is associated with the transformation of Cusco’s rulers into an expanding imperial power during the fifteenth century. Political narratives connect his accession with conflict against the Chancas, while the reorganization of Cusco linked rule to a capital with sacred, administrative and productive functions. Expansion drew on conquest, alliances and the incorporation of existing local authorities.\n\nThe traditions about him were written down after the Spanish conquest and do not supply an uncontested modern-style life chronology. Conventional reign dates are therefore a reference for comparison, not proof of a precise annual frontier. His significance extends beyond military victories to the organization of a diverse Andean political world. The institutions attributed to imperial rule also depended on practices developed by earlier societies. Comparing his story with regional archaeology prevents a ruler’s biography from absorbing the history of every people incorporated into Tawantinsuyu.",
+          "zh": "帕查库蒂与十五世纪库斯科统治者向帝国强权的转变有关。政治叙述把他即位同对昌卡人的冲突相连，库斯科重组则把统治同具有神圣、行政及生产功能的都城联系起来。扩张依赖征服、联盟及对既有地方权威的纳入。\n\n关于他的传统在西班牙征服后才被写下，不能提供没有争议的现代式生平年表。传统统治年代因此是比较参照，而非精确逐年边界的证明。其重要性超出战功，也涉及组织多样的安第斯政治世界。帝国制度还依赖更早社会发展的实践。把个人故事同区域考古比较，可避免统治者传记吞没被纳入塔万廷苏尤的各族历史。"
+        },
+        "dateNote": {
+          "en": "Working reign focus c.1438–1471 follows the British Museum; other surveys extend to c.1473. These are not birth/death dates.",
+          "zh": "约1438—1471年的统治观察窗口采用大英博物馆；其他研究延至约1473年，并非生卒年。"
+        },
+        "sources": [
+          {
+            "title": "Pachacuti Inca Yupanqui",
+            "url": "https://www.britishmuseum.org/collection/term/BIOG184445",
+            "publisher": "www.britishmuseum.org",
+            "evidenceNote": "Museum authority record supplies a conventional active/reign interval; full-page fetch failed, indexed record inspected. Access: indexed-excerpt.",
+            "checkedAt": "2026-10-23",
+            "retrieval": "indexed-excerpt"
+          },
+          {
+            "title": "City of Cuzco",
+            "url": "https://whc.unesco.org/en/list/273/",
+            "publisher": "UNESCO World Heritage Centre",
+            "evidenceNote": "UNESCO account links Pachacuti to Cusco’s urban organization. Access: opened-page-extract.",
+            "checkedAt": "2026-10-23",
+            "retrieval": "opened-page-extract"
+          },
+          {
+            "title": "Central and Southern Andes, 1400–1600 A.D. | Chronology",
+            "url": "https://www.metmuseum.org/toah/ht/08/sanc",
+            "publisher": "The Metropolitan Museum of Art",
+            "evidenceNote": "Museum chronology contextualizes expansion and differing dates. Access: opened-page-extract.",
+            "checkedAt": "2026-10-23",
+            "retrieval": "opened-page-extract"
+          }
+        ],
+        "relatedIds": [
+          "cusco-imperial-city",
+          "inca-imperial-expansion",
+          "andean-altitude-agriculture"
+        ],
+        "expansion": {
+          "workstreams": [
+            "LA2"
+          ],
+          "release": 1,
+          "sourceReview": "Source-specific retrieved excerpts inspected; full-page access limitations retained in source notes."
+        },
+        "keyFacts": {
+          "en": [
+            "Pachacuti is associated with the transformation of Cusco’s rulers into an expanding imperial power during the fifteenth century.",
+            "The traditions about him were written down after the Spanish conquest and do not supply an uncontested modern-style life chronology."
+          ],
+          "zh": [
+            "帕查库蒂与十五世纪库斯科统治者向帝国强权的转变有关。",
+            "关于他的传统在西班牙征服后才被写下，不能提供没有争议的现代式生平年表。"
+          ]
+        },
+        "name": {
+          "en": "Pachacuti Inca Yupanqui",
+          "zh": "帕查库蒂·印加·尤潘基"
+        },
+        "milestones": [
+          {
+            "year": 1438,
+            "title": {
+              "en": "Conventional accession",
+              "zh": "传统即位年代"
+            },
+            "description": {
+              "en": "Museum chronologies conventionally place the beginning of his imperial phase around this year.",
+              "zh": "博物馆年表通常把其帝国阶段起点置于此年左右。"
+            },
+            "location": {
+              "lat": -13.52,
+              "lon": -71.98,
+              "label": "Cusco; representative royal and administrative center"
+            },
+            "approximate": true
+          },
+          {
+            "year": 1471,
+            "title": {
+              "en": "Conventional reign endpoint",
+              "zh": "传统统治终点"
+            },
+            "description": {
+              "en": "The British Museum uses this approximate endpoint; other chronologies differ.",
+              "zh": "大英博物馆采用这一近似终点，其他年表不同。"
+            },
+            "location": {
+              "lat": -13.52,
+              "lon": -71.98,
+              "label": "Cusco; representative royal and administrative center"
+            },
+            "approximate": true
+          }
+        ],
+        "aliases": [
+          "Pachacutec",
+          "帕查库特克",
+          "帕查库提"
+        ]
+      }
+    },
+    {
+      "assetId": "world-batch-05-cusco-imperial-city",
+      "recordId": "qhapaq-nan",
+      "decision": "reject",
+      "reason": "Cusco is named as a hub, but temple masonry does not depict a road, road facility or network mechanism.",
+      "asset": {
+        "id": "world-batch-05-cusco-imperial-city",
+        "recordIds": [
+          "cusco-imperial-city"
+        ],
+        "kind": "site",
+        "representation": "site-photograph",
+        "file": "assets/history-media/world-batch-05-cusco-imperial-city.jpg",
+        "sha256": "5b11d983f426718315ea0bdf60826a3065f681f0721040489e5230d50d4e3402",
+        "bytes": 212008,
+        "width": 960,
+        "height": 660,
+        "title": {
+          "en": "Inca masonry at Qorikancha",
+          "zh": "科里坎查的印加石墙"
+        },
+        "alt": {
+          "en": "Smooth fitted stone blocks form a wall below later buildings.",
+          "zh": "精密拼接的平整石块构成墙体，上方为后建建筑。"
+        },
+        "caption": {
+          "en": "Qorikancha’s Inca walls survive beneath and beside the colonial Santo Domingo complex.",
+          "zh": "科里坎查的印加石墙保存在殖民时期圣多明各建筑群之下与旁侧。"
+        },
+        "interpretation": {
+          "en": "The junction between masonry traditions makes the city’s layered history visible.",
+          "zh": "不同砌筑传统的交界让城市的多层历史可见。"
+        },
+        "creator": "Håkan Svensson (Xauxa)",
+        "date": "Photograph: 2002-07",
+        "institution": "Wikimedia Commons / credited photographer",
+        "metadataI18n": {
+          "creator": {
+            "en": "Håkan Svensson (Xauxa)",
+            "zh": "Håkan Svensson (Xauxa)"
+          },
+          "date": {
+            "en": "Photograph: 2002-07",
+            "zh": "照片：2002-07"
+          },
+          "institution": {
+            "en": "Wikimedia Commons / credited photographer",
+            "zh": "维基共享资源／所署名摄影者"
+          }
+        },
+        "historicalPeriod": {
+          "en": "Inca fifteenth-century fabric with Spanish colonial construction above",
+          "zh": "15世纪印加建筑遗存，上叠西班牙殖民时期建筑"
+        },
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cusco_Coricancha_Inti-Huasi_main_view.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Cusco_Coricancha_Inti-Huasi_main_view.jpg",
+        "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Cusco_Coricancha_Inti-Huasi_main_view.jpg/960px-Cusco_Coricancha_Inti-Huasi_main_view.jpg",
+        "checkedAt": "2026-11-11",
+        "rightsSourceUrl": "https://commons.wikimedia.org/wiki/File:Cusco_Coricancha_Inti-Huasi_main_view.jpg",
+        "rights": {
+          "label": "CC BY 2.5",
+          "url": "https://creativecommons.org/licenses/by/2.5",
+          "note": {
+            "en": "Photograph © Håkan Svensson (Xauxa), CC BY 2.5. Retain attribution, the license and any change notices when reusing this photograph.",
+            "zh": "照片署名：Håkan Svensson (Xauxa)；许可：CC BY 2.5。再次使用时须保留署名、许可及修改说明。"
+          }
+        },
+        "contextSources": [
+          {
+            "title": {
+              "en": "Explore this site’s history",
+              "zh": "了解遗址历史"
+            },
+            "url": "https://whc.unesco.org/en/list/273/"
+          }
+        ],
+        "retrieval": "Commons source-page revisions and image metadata retained. Delivered bytes decoded, hashed and individually reviewed.",
+        "transformation": {
+          "en": "Commons-provided JPEG, unchanged locally. Source-side cropping or processing is described on the file page.",
+          "zh": "采用Commons提供的JPEG，未在本地修改。来源已有的裁切或处理见文件页说明。"
+        }
+      },
+      "target": {
+        "id": "qhapaq-nan",
+        "title": {
+          "en": "Qhapaq Ñan: connecting the Andes",
+          "zh": "印加路网：连接安第斯"
+        },
+        "start": 1401,
+        "end": 1500,
+        "location": {
+          "lat": -13.516,
+          "lon": -71.978,
+          "label": "Cusco, a representative hub of the Andean road network",
+          "labelI18n": {
+            "en": "Cusco, a representative hub of the Andean road network",
+            "zh": "库斯科，安第斯路网的代表性枢纽"
+          },
+          "labelProvenance": "reviewed-display-translation"
+        },
+        "region": "latin-america",
+        "theme": "exchange",
+        "summary": {
+          "en": "The Inca road network connected mountain, coastal and valley landscapes. It supported communication, movement, storage and administration, and incorporated earlier infrastructure. The network reached its greatest extent in the fifteenth century. A point at Cusco represents one hub; the roads and the communities using them extended across a much larger region.",
+          "zh": "印加道路网连接山地、海岸与河谷，支撑通信、出行、储存和治理，并吸纳了更早的基础设施。路网在十五世纪达到最大规模。地图上库斯科的标记只代表其中一个枢纽，道路以及使用它们的社群分布在远更广大的地区。"
+        },
+        "dateNote": {
+          "en": "Selected fifteenth-century expansion phase from UNESCO. Roads existed earlier and many routes remained in use later; the pin is not the whole network.",
+          "zh": "选取联合国教科文组织记载的十五世纪扩展阶段。部分道路更早就已存在，后来许多路线仍被使用；单个标记不等于完整路网。"
+        },
+        "sources": [
+          {
+            "title": "Qhapaq Ñan, Andean Road System",
+            "url": "https://whc.unesco.org/en/list/1459/",
+            "publisher": "UNESCO World Heritage Centre"
+          }
+        ],
+        "locationPrecision": "representative",
+        "kind": "place",
+        "importance": 3
+      }
+    },
+    {
+      "assetId": "world-batch-05-timbuktu",
+      "recordId": "person-ahmad-baba",
+      "decision": "hold",
+      "reason": "Scholar’s city is exact, but no inspected evidence connects him to the pictured Djingareyber mosque; do not present it as his workplace.",
+      "asset": {
+        "id": "world-batch-05-timbuktu",
+        "recordIds": [
+          "timbuktu"
+        ],
+        "kind": "site",
+        "representation": "site-photograph",
+        "file": "assets/history-media/world-batch-05-timbuktu.jpg",
+        "sha256": "5acce3adf85c51050240e0e85ddc3a532a1e68601c2599981002c492b16ba064",
+        "bytes": 264227,
+        "width": 960,
+        "height": 1280,
+        "title": {
+          "en": "Djingareyber Mosque, Timbuktu",
+          "zh": "廷巴克图的金加雷贝尔清真寺"
+        },
+        "alt": {
+          "en": "A tapered earthen tower with projecting wooden beams rises behind thick walls.",
+          "zh": "带有外伸木梁的渐收土筑塔体立于厚墙之后。"
+        },
+        "caption": {
+          "en": "Djingareyber is one of Timbuktu’s historic mosques and centres of learning.",
+          "zh": "金加雷贝尔是廷巴克图的历史清真寺和学习中心之一。"
+        },
+        "interpretation": {
+          "en": "Thick earth walls and projecting timbers make the building’s materials visible; its survival depends on repeated maintenance.",
+          "zh": "厚土墙与外伸木梁让建筑材料清晰可见；建筑的延续依靠反复维护。"
+        },
+        "creator": "KaTeznik",
+        "date": "Photograph: 2005-01-07",
+        "institution": "Wikimedia Commons / credited photographer",
+        "metadataI18n": {
+          "creator": {
+            "en": "KaTeznik",
+            "zh": "KaTeznik"
+          },
+          "date": {
+            "en": "Photograph: 2005-01-07",
+            "zh": "照片：2005-01-07"
+          },
+          "institution": {
+            "en": "Wikimedia Commons / credited photographer",
+            "zh": "维基共享资源／所署名摄影者"
+          }
+        },
+        "historicalPeriod": {
+          "en": "Founded in the fourteenth century; maintained and altered over subsequent centuries",
+          "zh": "始建于14世纪，历代持续维护和改建"
+        },
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Djingareiber_cour.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Djingareiber_cour.jpg",
+        "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Djingareiber_cour.jpg/960px-Djingareiber_cour.jpg",
+        "checkedAt": "2026-11-11",
+        "rightsSourceUrl": "https://commons.wikimedia.org/wiki/File:Djingareiber_cour.jpg",
+        "rights": {
+          "label": "CC BY-SA 2.0 fr",
+          "url": "https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en",
+          "note": {
+            "en": "Photograph © KaTeznik, CC BY-SA 2.0 fr. Retain attribution, the license and any change notices when reusing this photograph. Share adaptations under the same license.",
+            "zh": "照片署名：KaTeznik；许可：CC BY-SA 2.0 fr。再次使用时须保留署名、许可及修改说明。改编作品须沿用相同许可。"
+          }
+        },
+        "contextSources": [
+          {
+            "title": {
+              "en": "Explore this site’s history",
+              "zh": "了解遗址历史"
+            },
+            "url": "https://whc.unesco.org/en/list/119/"
+          }
+        ],
+        "retrieval": "Commons source-page revisions and image metadata retained. Delivered bytes decoded, hashed and individually reviewed.",
+        "transformation": {
+          "en": "Commons-provided JPEG, unchanged locally. Source-side cropping or processing is described on the file page.",
+          "zh": "采用Commons提供的JPEG，未在本地修改。来源已有的裁切或处理见文件页说明。"
+        }
+      },
+      "target": {
+        "id": "person-ahmad-baba",
+        "title": {
+          "en": "Ahmad Baba · Scholarship, forced exile and the limits of freedom",
+          "zh": "艾哈迈德·巴巴 · 学术、被迫流亡与自由的边界"
+        },
+        "start": 1556,
+        "end": 1627,
+        "region": "africa",
+        "kind": "person",
+        "theme": "knowledge",
+        "importance": 3,
+        "location": {
+          "lat": 16.77,
+          "lon": -3.01,
+          "label": "Timbuktu; teaching and scholarly community, not a settled birthplace coordinate"
+        },
+        "locationPrecision": "representative",
+        "summary": {
+          "en": "Ahmad Baba belonged to Timbuktu’s world of Islamic learning, legal practice and book collecting. Born in 1556, he studied theology and law and later taught in the city. The exact locality of his birth remains disputed; the atlas uses Timbuktu as his scholarly setting rather than placing a certain birthplace pin. His career makes the city visible through working scholars as well as through imperial trade and power.\n\nThe Moroccan conquest of Songhai in 1591 brought a violent political rupture. Baba opposed the invaders and was subsequently deported to Marrakech with other prominent people. World Eras places the deportation after an alleged 1593 rebellion; the atlas uses an approximate 1594 anchor without treating the allegation as established. Forced movement did not end his intellectual work. In Marrakech he taught, practiced law and wrote, including a biographical dictionary of Maliki jurists.\n\nHis writing about enslavement needs careful interpretation. The surviving work, described by the Library of Congress, defended freedom as a human starting condition within Islamic law. Yet Baba did not reject every form of slavery: his protection of Muslims must not be turned into a modern universal abolitionist position.\n\nSources place his return to Timbuktu around 1607 or in 1608. The approximate milestone retains that difference rather than inventing a settled arrival date. He continued writing after his return and died in 1627. His life joins scholarship across the Sahara to coercion, disagreement and the unequal meanings of freedom.",
+          "zh": "艾哈迈德·巴巴属于廷巴克图伊斯兰学术、法律实践和藏书的世界。他1556年出生，学习神学与法律，后来在城中授课。确切出生地点仍有争议；本图谱以廷巴克图作为学术环境，不把它标作确定出生地。其事业使人们通过实际工作的学者，而不仅通过帝国贸易与权力，理解这座城市。\n\n1591年摩洛哥征服桑海，造成暴力的政治断裂。巴巴反对入侵者，后来与其他重要人物被押往马拉喀什。《世界时代》将流放置于所谓1593年叛乱之后；图谱用约1594年作锚点，但不把叛乱指控当作已证事实。被迫迁移没有终止其思想工作。他在马拉喀什教学、从事法律事务和著述，包括编写马立克派法学家传记辞典。\n\n其关于奴役的论述需要谨慎解释。美国国会图书馆所介绍的传世作品，在伊斯兰法框架内强调自由是人的初始状态。但他并未否定一切奴隶制度；不能把对穆斯林的保护，转化为现代普遍废奴立场。\n\n来源把返抵廷巴克图定为约1607年或1608年。近似节点保留差异，不制造确定抵达日期。他返回后继续写作，1627年去世。其生平把跨撒哈拉的学术联系，与强制、分歧和不平等的自由含义连在一起。"
+        },
+        "dateNote": {
+          "en": "Lifespan 1556–1627. Birth locality is disputed and no birth milestone is plotted. The approximate 1594 deportation anchor follows World Eras, which places it in the year following 1593; sources give return around 1607 or in 1608, displayed approximately at 1608. Pins are city contexts, not surveyed detention or travel locations.",
+          "zh": "生卒1556—1627年；出生地有争议，不绘制出生节点。约1594年的流放锚点依《世界时代》所说1593年的下一年；返乡来源为约1607年或1608年，以近似1608年显示。点位表示城市环境，不是测定的拘禁或行程地点。"
+        },
+        "sources": [
+          {
+            "title": "Religion and Philosophy: Ahmad Baba",
+            "publisher": "World Eras / Encyclopedia.com",
+            "url": "https://www.encyclopedia.com/history/news-wires-white-papers-and-books/religion-and-philosophy-ahmad-baba",
+            "evidenceNote": "Reference entry inspected: 1556–1627, education and book collecting, conquest in 1591, alleged rebellion in 1593 followed by deportation the following year, legal writing and Maliki biographical dictionary in Marrakech, return around 1607. The alleged rebellion and exact confiscation/book totals are omitted. Return date differs from DW's 1608; this remains explicit.",
+            "checkedAt": "2026-10-24",
+            "retrieval": "inspected-text"
+          },
+          {
+            "title": "Ahmed Baba: Timbuktu's famous scholar",
+            "publisher": "Konstanze Fischer and Philipp Sandner / DW African Roots with Gerda Henkel Foundation",
+            "url": "https://www.dw.com/en/ahmed-baba-timbuktus-famous-scholar/a-43193451",
+            "evidenceNote": "Text inspected: disputed birth locality, 1556 birth and 1627 death, teaching in Timbuktu, opposition to Moroccan conquest and exile, return in 1608; slavery discussion distinguishes protection of Muslims from a universal rejection of enslavement. No video/audio transcript review or precise library-volume count is claimed.",
+            "checkedAt": "2026-10-24",
+            "retrieval": "inspected-text"
+          },
+          {
+            "title": "Ancient Manuscripts from the Desert Libraries of Timbuktu: Exhibition",
+            "publisher": "Library of Congress, with Mamma Haidara and Cheick Zayni Baye libraries",
+            "url": "https://www.loc.gov/exhibits/mali/mali-exhibit.html",
+            "evidenceNote": "Exhibition descriptions inspected, especially objects 2–4, 6, 11, 20–23: verse teaching, inheritance, commerce, Ahmad Baba's legal opinion on enslavement, arithmetic, labour and commercial/emancipation documents. Descriptions of manuscript contents were read, not a new Arabic transcription or full translation.",
+            "checkedAt": "2026-10-24",
+            "retrieval": "inspected-text"
+          },
+          {
+            "title": "ICESCO Publishes Book on Ahmad Baba al-Timbukti and His Role in Civilizational Diplomacy",
+            "publisher": "Islamic World Educational, Scientific, and Cultural Organization",
+            "url": "https://icesco.org/en/2025/03/14/icesco-publishes-book-on-ahmad-baba-al-timbukti-and-his-role-in-civilizational-diplomacy/",
+            "evidenceNote": "Publication announcement inspected: lifespan 1556–1627, exile and teaching/authorship in Marrakech, scholarly exchanges across the Sahara. The announced symposium proceedings themselves were not read; celebratory diplomacy language is not evidence that deportation was voluntary exchange.",
+            "checkedAt": "2026-10-24",
+            "retrieval": "inspected-text"
+          }
+        ],
+        "relatedIds": [
+          "timbuktu-manuscript-law-and-learning",
+          "timbuktu",
+          "songhai-empire"
+        ],
+        "expansion": {
+          "workstreams": [
+            "AF2"
+          ],
+          "release": 5,
+          "edition": "v11",
+          "sourceReview": "inspected-source-synthesis",
+          "reviewLimit": {
+            "en": "Reference synthesis, an African Roots historical profile, manuscript exhibition interpretation and a publication announcement support different parts of this account. They do not amount to a fresh reading of Baba’s Arabic writings. Deportation/return chronology and birthplace limits remain explicit; no universal abolitionist label is applied.",
+            "zh": "参考综述、“非洲根源”历史介绍、手稿展览解说与出版公告分别支持不同内容，并不等于重新阅读巴巴的阿拉伯语著作。流放及返乡年代、出生地的限度均明确保留，不赋予普遍废奴主义称号。"
+          }
+        },
+        "name": {
+          "en": "Ahmad Baba",
+          "zh": "艾哈迈德·巴巴"
+        },
+        "aliases": [
+          "Ahmed Baba",
+          "Ahmad Baba al-Timbukti"
+        ],
+        "milestones": [
+          {
+            "year": 1594,
+            "title": {
+              "en": "Deportation to Morocco",
+              "zh": "被押往摩洛哥"
+            },
+            "description": {
+              "en": "After the conquest, he was forcibly removed to Marrakech; this is an approximate chronological anchor.",
+              "zh": "征服后被强制迁往马拉喀什；此为近似年代锚点。"
+            },
+            "location": {
+              "lat": 31.63,
+              "lon": -7.99,
+              "label": "Marrakech; exile and teaching city, not a reconstructed place of confinement"
+            },
+            "approximate": true
+          },
+          {
+            "year": 1608,
+            "title": {
+              "en": "Return to Timbuktu",
+              "zh": "返回廷巴克图"
+            },
+            "description": {
+              "en": "Accounts give around 1607 or 1608 for his return after exile.",
+              "zh": "不同记述将流亡后的返乡定为约1607年或1608年。"
+            },
+            "location": {
+              "lat": 16.77,
+              "lon": -3.01,
+              "label": "Timbuktu; teaching and scholarly community, not a settled birthplace coordinate"
+            },
+            "approximate": true
+          },
+          {
+            "year": 1627,
+            "title": {
+              "en": "Death in Timbuktu",
+              "zh": "在廷巴克图去世"
+            },
+            "description": {
+              "en": "His writings remained part of the region’s scholarly inheritance.",
+              "zh": "其著作继续构成区域学术传承的一部分。"
+            },
+            "location": {
+              "lat": 16.77,
+              "lon": -3.01,
+              "label": "Timbuktu; teaching and scholarly community, not a settled birthplace coordinate"
+            },
+            "approximate": false
+          }
+        ]
+      }
+    },
+    {
+      "assetId": "world-batch-05-timbuktu",
+      "recordId": "timbuktu-manuscript-law-and-learning",
+      "decision": "hold",
+      "reason": "Named city only; pictured mosque is not one of the described manuscript objects or a verified manuscript library.",
+      "asset": {
+        "id": "world-batch-05-timbuktu",
+        "recordIds": [
+          "timbuktu"
+        ],
+        "kind": "site",
+        "representation": "site-photograph",
+        "file": "assets/history-media/world-batch-05-timbuktu.jpg",
+        "sha256": "5acce3adf85c51050240e0e85ddc3a532a1e68601c2599981002c492b16ba064",
+        "bytes": 264227,
+        "width": 960,
+        "height": 1280,
+        "title": {
+          "en": "Djingareyber Mosque, Timbuktu",
+          "zh": "廷巴克图的金加雷贝尔清真寺"
+        },
+        "alt": {
+          "en": "A tapered earthen tower with projecting wooden beams rises behind thick walls.",
+          "zh": "带有外伸木梁的渐收土筑塔体立于厚墙之后。"
+        },
+        "caption": {
+          "en": "Djingareyber is one of Timbuktu’s historic mosques and centres of learning.",
+          "zh": "金加雷贝尔是廷巴克图的历史清真寺和学习中心之一。"
+        },
+        "interpretation": {
+          "en": "Thick earth walls and projecting timbers make the building’s materials visible; its survival depends on repeated maintenance.",
+          "zh": "厚土墙与外伸木梁让建筑材料清晰可见；建筑的延续依靠反复维护。"
+        },
+        "creator": "KaTeznik",
+        "date": "Photograph: 2005-01-07",
+        "institution": "Wikimedia Commons / credited photographer",
+        "metadataI18n": {
+          "creator": {
+            "en": "KaTeznik",
+            "zh": "KaTeznik"
+          },
+          "date": {
+            "en": "Photograph: 2005-01-07",
+            "zh": "照片：2005-01-07"
+          },
+          "institution": {
+            "en": "Wikimedia Commons / credited photographer",
+            "zh": "维基共享资源／所署名摄影者"
+          }
+        },
+        "historicalPeriod": {
+          "en": "Founded in the fourteenth century; maintained and altered over subsequent centuries",
+          "zh": "始建于14世纪，历代持续维护和改建"
+        },
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Djingareiber_cour.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Djingareiber_cour.jpg",
+        "downloadedFrom": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Djingareiber_cour.jpg/960px-Djingareiber_cour.jpg",
+        "checkedAt": "2026-11-11",
+        "rightsSourceUrl": "https://commons.wikimedia.org/wiki/File:Djingareiber_cour.jpg",
+        "rights": {
+          "label": "CC BY-SA 2.0 fr",
+          "url": "https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en",
+          "note": {
+            "en": "Photograph © KaTeznik, CC BY-SA 2.0 fr. Retain attribution, the license and any change notices when reusing this photograph. Share adaptations under the same license.",
+            "zh": "照片署名：KaTeznik；许可：CC BY-SA 2.0 fr。再次使用时须保留署名、许可及修改说明。改编作品须沿用相同许可。"
+          }
+        },
+        "contextSources": [
+          {
+            "title": {
+              "en": "Explore this site’s history",
+              "zh": "了解遗址历史"
+            },
+            "url": "https://whc.unesco.org/en/list/119/"
+          }
+        ],
+        "retrieval": "Commons source-page revisions and image metadata retained. Delivered bytes decoded, hashed and individually reviewed.",
+        "transformation": {
+          "en": "Commons-provided JPEG, unchanged locally. Source-side cropping or processing is described on the file page.",
+          "zh": "采用Commons提供的JPEG，未在本地修改。来源已有的裁切或处理见文件页说明。"
+        }
+      },
+      "target": {
+        "id": "timbuktu-manuscript-law-and-learning",
+        "title": {
+          "en": "Timbuktu manuscripts · Law, livelihood and learning",
+          "zh": "廷巴克图手稿 · 法律、生计与学习"
+        },
+        "start": 1600,
+        "end": 1858,
+        "region": "africa",
+        "kind": "culture",
+        "theme": "knowledge",
+        "importance": 3,
+        "location": {
+          "lat": 16.77,
+          "lon": -3.01,
+          "label": "Timbuktu; teaching and scholarly community, not a settled birthplace coordinate"
+        },
+        "locationPrecision": "representative",
+        "summary": {
+          "en": "Manuscripts preserved in libraries around Timbuktu reveal scholarship concerned with everyday obligations as well as theology. The Library of Congress exhibition describes texts on inheritance, commercial contracts, arithmetic and the social value of labour. Poems could help students remember rules; commentaries and examples allowed knowledge to be taught and debated.\n\nThe same collections also preserve the unequal institutions within which learning operated. Commercial agreements concern the trafficking of enslaved people, and an emancipation certificate records a woman being granted freedom. Ahmad Baba’s legal opinion limited permissible enslavement within Islamic law without rejecting the institution altogether. Intellectual achievement and coercive social relations therefore belong in the same history.\n\nThe selected seventeenth-to-nineteenth-century focus connects Baba’s writing to later manuscript copies, including objects catalogued as copied in 1733, 1809 and 1858. A copy date does not date the invention of its subject or every earlier version. This is a study of described surviving texts, not a new translation of their Arabic pages or a claim that legal prescriptions show how every household actually behaved.",
+          "zh": "廷巴克图周边图书馆保存的手稿，显示学术既关乎神学，也关乎日常义务。美国国会图书馆展览介绍了继承、商业契约、算术及劳动社会价值的文本。诗歌可帮助学生记忆规则；注释与例题使知识能够教学和讨论。\n\n同一批收藏也保存了学术活动所在社会的不平等制度。商业契约涉及贩运被奴役者，解放证书记载一名女性获释。艾哈迈德·巴巴的法律意见在伊斯兰法内限制可许可的奴役，却未全面否定该制度。因此，思想成就和强制性的社会关系属于同一段历史。\n\n本条所选十七至十九世纪窗口，把巴巴著述与后来的手稿抄本相连，其中有目录注明抄于1733、1809和1858年的实物。抄写日期不是知识主题的发明年，也不是所有更早版本的年代。本条研究的是传世文本的已读解说，不是重新翻译阿拉伯语页面，也不声称法律规范证明每个家庭实际如何生活。"
+        },
+        "dateNote": {
+          "en": "Approximate editorial focus 1600–1858 connects seventeenth-century writing with dated later copies. It is not the beginning/end of Timbuktu scholarship. Copy years belong to particular catalogued objects, not every text discussed.",
+          "zh": "约1600—1858年为编辑观察窗口，连接十七世纪著述与有日期的后世抄本，并非廷巴克图学术的起止年。抄写年属于特定目录实物，不适用于所有所述文本。"
+        },
+        "sources": [
+          {
+            "title": "Ancient Manuscripts from the Desert Libraries of Timbuktu: Exhibition",
+            "publisher": "Library of Congress, with Mamma Haidara and Cheick Zayni Baye libraries",
+            "url": "https://www.loc.gov/exhibits/mali/mali-exhibit.html",
+            "evidenceNote": "Exhibition descriptions inspected, especially objects 2–4, 6, 11, 20–23: verse teaching, inheritance, commerce, Ahmad Baba's legal opinion on enslavement, arithmetic, labour and commercial/emancipation documents. Descriptions of manuscript contents were read, not a new Arabic transcription or full translation.",
+            "checkedAt": "2026-10-24",
+            "retrieval": "inspected-text"
+          },
+          {
+            "title": "Ancient Manuscripts from the Desert Libraries of Timbuktu: Exhibition Items",
+            "publisher": "Library of Congress",
+            "url": "https://www.loc.gov/exhibits/mali/mali-checklist.html",
+            "evidenceNote": "Catalogue checklist inspected: astronomy copy dated 1733, a text copied 1809 and two Sufi works copied 1858. Copy dates identify surviving artifacts, not all original composition dates. This shares the exhibition's source family and is not independent corroboration.",
+            "checkedAt": "2026-10-24",
+            "retrieval": "inspected-text"
+          }
+        ],
+        "relatedIds": [
+          "person-ahmad-baba",
+          "timbuktu",
+          "songhai-empire"
+        ],
+        "expansion": {
+          "workstreams": [
+            "AF2"
+          ],
+          "release": 5,
+          "edition": "v11",
+          "sourceReview": "inspected-source-synthesis",
+          "reviewLimit": {
+            "en": "The inspected exhibition and checklist share one institutional source family. Their descriptions support subjects, object dates and provenance; this entry does not claim independent philological review or measured prevalence of practices.",
+            "zh": "已读展览与目录属于同一机构来源。其解说支持主题、实物日期与来源信息；本条不声称独立语文学审查或经测量的实践普及程度。"
+          }
+        }
+      }
+    },
+    {
+      "assetId": "getty-images-05-jerusalem",
+      "recordId": "jewish-communities-second-temple",
+      "decision": "reject",
+      "reason": "Later Christian anti-Jewish polemical illustration should not become the default illustration of Jewish communities. Keep its reception-history context on original siege entry.",
+      "asset": {
+        "id": "getty-images-05-jerusalem",
+        "file": "assets/history-media/getty-images-05-jerusalem.jpg",
+        "recordIds": [
+          "jerusalem-second-temple-destruction-70"
+        ],
+        "kind": "manuscript",
+        "representation": "manuscript-detail",
+        "title": {
+          "en": "The siege of Jerusalem in a medieval manuscript",
+          "zh": "中世纪手稿中的耶路撒冷围城"
+        },
+        "alt": {
+          "en": "An illuminated page shows soldiers attacking a walled city, a crowned ruler seated beside tents, a gold-checkered sky, two text columns and colorful leafy borders.",
+          "zh": "彩饰手稿页描绘士兵进攻城墙环绕的城市、帐篷旁端坐的戴冠统治者、金色棋盘格天空、两栏文字及彩色枝叶边饰。"
+        },
+        "caption": {
+          "en": "Boucicaut Master, The Destruction of Jerusalem, about 1413–1415, Paris. Tempera, gold and ink; Getty Ms. 63, fol. 237. The miniature retells the Roman siege of 70 CE through medieval armor and architecture.",
+          "zh": "布西科大师，《耶路撒冷的毁灭》，约1413—1415年，巴黎。蛋彩、金与墨；盖蒂第63号手稿，第237叶。细密画借中世纪盔甲和建筑重述公元70年的罗马围城。"
+        },
+        "interpretation": {
+          "en": "Made over thirteen centuries after the siege, this image records medieval Christian reception of the event. Getty identifies an anti-Jewish theological framing in the manuscript’s pairing with Adam and Eve. That polemic belongs to the later work; the miniature supplies evidence for its makers’ beliefs rather than an eyewitness account of 70 CE.",
+          "zh": "作品晚于围城逾十三个世纪，记录中世纪基督徒对该事件的接受。盖蒂指出，手稿把此画与亚当和夏娃配对，带有反犹太的神学框架。这种论说属于后世作品；细密画为制作者的观念提供证据，而非公元70年的目击记录。"
+        },
+        "creator": "Boucicaut Master",
+        "date": "about 1413–1415",
+        "institution": "J. Paul Getty Museum",
+        "credit": "J. Paul Getty Museum, Los Angeles; 96.MR.17.237",
+        "sourceUrl": "https://www.getty.edu/art/collection/object/107TYY",
+        "imageUrl": "https://media.getty.edu/iiif/image/fb9d408c-0eb3-440c-bf5a-9aff639fd243/full/!1400,1400/0/default.jpg",
+        "downloadedFrom": "https://media.getty.edu/iiif/image/fb9d408c-0eb3-440c-bf5a-9aff639fd243/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://www.getty.edu/art/collection/object/107TYY",
+        "rights": {
+          "label": "CC0",
+          "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "note": {
+            "en": "Getty’s official object page identifies this image and explicitly provides supplied images under CC0 through the Open Content Program.",
+            "zh": "盖蒂官方藏品页标识此图，并明确说明所提供图像通过开放内容项目以CC0开放。"
+          }
+        },
+        "transformation": {
+          "en": "Source-served IIIF JPEG preserved unchanged. No local crop, retouching, recolouring or resizing.",
+          "zh": "来源直接提供的IIIF JPEG原样保存，未经本地裁剪、修饰、改色或缩放。"
+        },
+        "contextSources": [],
+        "width": 936,
+        "height": 1400,
+        "bytes": 458482,
+        "sha256": "461f8a4f6b9cd6522a97df42a5aa4d8b5ce1e597df777b50595dbf63fc16528e",
+        "checkedAt": "2026-11-12",
+        "metadataI18n": {
+          "creator": {
+            "en": "Boucicaut Master",
+            "zh": "布西科大师"
+          },
+          "date": {
+            "en": "about 1413–1415",
+            "zh": "约1413—1415年"
+          },
+          "institution": {
+            "en": "J. Paul Getty Museum",
+            "zh": "J. 保罗·盖蒂博物馆"
+          }
+        }
+      },
+      "target": {
+        "id": "jewish-communities-second-temple",
+        "title": {
+          "en": "Jewish history · Communities in the Second Temple era",
+          "zh": "犹太历史 · 第二圣殿时期的社群"
+        },
+        "start": -539,
+        "end": 70,
+        "region": "west-central-asia",
+        "theme": "culture",
+        "kind": "culture",
+        "importance": 4,
+        "location": {
+          "lat": 31.78,
+          "lon": 35.23,
+          "label": "Jerusalem; one religious and historical context among communities living in several regions",
+          "labelI18n": {
+            "en": "Jerusalem; one religious and historical context among communities living in several regions",
+            "zh": "耶路撒冷；分布于多个地区的社群所处宗教与历史背景之一"
+          }
+        },
+        "locationPrecision": "representative",
+        "summary": {
+          "en": "Jewish communities lived in several regions during the Second Temple era. Before Cyrus conquered Babylon in 539 BCE, some Judeans were already living in exile there; others had remained in their homeland. Some people returned over time, while Jewish communities also lived elsewhere, including Egypt and Asia Minor. These histories cannot be reduced to a single departure from Jerusalem.\n\nThe Temple in Jerusalem remained an important religious institution until Roman forces destroyed it in 70 CE. Its loss brought profound change, but did not end Jewish communities in the land or elsewhere. The point names Jerusalem as one context within a much wider history, not the boundary of Judaism or evidence that every family followed the same path.",
+          "zh": "第二圣殿时期，犹太社群生活在多个地区。公元前539年居鲁士征服巴比伦之前，一些犹大人已在那里流亡，另一些人则留在故土。此后有人陆续返回，同时犹太社群也生活在埃及、小亚细亚等地。这些历史不能简化成一次从耶路撒冷出发的离散。\n\n耶路撒冷的圣殿是重要宗教机构，直到公元70年遭罗马军队毁坏。圣殿的失去带来深刻变化，却没有终结当地或其他地区的犹太社群。点位将耶路撒冷作为更广历史中的一个背景，不是犹太教的边界，也不证明每个家庭经历了相同道路。"
+        },
+        "dateNote": {
+          "en": "539 BCE–70 CE is an editorial frame from Cyrus’s conquest of Babylon to the Temple’s destruction. The first date is not the Temple’s completion or the beginning of Jewish history, and 70 is not the start of all Jewish diaspora.",
+          "zh": "公元前539年至公元70年是从居鲁士征服巴比伦到圣殿被毁的编辑框架；前者不是圣殿建成或犹太历史的开始，后者也不是所有犹太离散的起点。"
+        },
+        "relatedIds": [
+          "jerusalem-second-temple-destruction-70",
+          "rabbinic-judaism-after-70",
+          "cairo-geniza-everyday-documents"
+        ],
+        "sources": [
+          {
+            "title": "539 BCE to 632 CE: The Story",
+            "url": "https://www.myjewishlearning.com/article/539-bce-to-632-ce-the-story/",
+            "publisher": "My Jewish Learning",
+            "evidenceNote": "Directly inspected the educational overview on Jewish exile before Cyrus’s 539 BCE conquest, different returns, people who had not been exiled and communities in Egypt and Asia Minor. Its broad political chronology is simplified; a claim about Christian imperialization was not adopted.",
+            "checkedAt": "2026-10-27",
+            "retrieval": "inspected-text"
+          },
+          {
+            "title": "Jewish Art in Late Antiquity and Early Byzantium",
+            "url": "https://www.metmuseum.org/essays/jewish-art-in-late-antiquity-and-early-byzantium",
+            "publisher": "Barbara Drake Boehm and Melanie Holcomb / The Metropolitan Museum of Art",
+            "evidenceNote": "Directly inspected the art-historical essay’s discussion of Jewish communities in Roman regions, the destruction of the Jerusalem Temple in 70 CE and the third-century synagogue at Dura-Europos beside a Christian meeting house. Material remains are selective evidence, not a single starting date for diaspora.",
+            "checkedAt": "2026-10-27",
+            "retrieval": "inspected-text"
+          }
+        ],
+        "expansion": {
+          "release": 8,
+          "edition": "v14",
+          "workstreams": [
+            "WA1"
+          ],
+          "sourceReview": "inspected-source-synthesis",
+          "reviewLimit": {
+            "en": "The sources are a broad educational overview and selected material evidence. They do not reconstruct every Jewish community, identity or movement, or establish a religious boundary.",
+            "zh": "来源为宽泛的教育综述与精选物质证据，不能复原所有犹太社群、身份或迁徙，也不能确立宗教边界。"
+          }
+        },
+        "regionalAssociation": "omit-broad-point"
+      }
+    },
+    {
+      "assetId": "getty-images-05-jerusalem",
+      "recordId": "rabbinic-judaism-after-70",
+      "decision": "reject",
+      "reason": "Same polemical framing; it depicts siege rather than subsequent rabbinic practice or Yavneh.",
+      "asset": {
+        "id": "getty-images-05-jerusalem",
+        "file": "assets/history-media/getty-images-05-jerusalem.jpg",
+        "recordIds": [
+          "jerusalem-second-temple-destruction-70"
+        ],
+        "kind": "manuscript",
+        "representation": "manuscript-detail",
+        "title": {
+          "en": "The siege of Jerusalem in a medieval manuscript",
+          "zh": "中世纪手稿中的耶路撒冷围城"
+        },
+        "alt": {
+          "en": "An illuminated page shows soldiers attacking a walled city, a crowned ruler seated beside tents, a gold-checkered sky, two text columns and colorful leafy borders.",
+          "zh": "彩饰手稿页描绘士兵进攻城墙环绕的城市、帐篷旁端坐的戴冠统治者、金色棋盘格天空、两栏文字及彩色枝叶边饰。"
+        },
+        "caption": {
+          "en": "Boucicaut Master, The Destruction of Jerusalem, about 1413–1415, Paris. Tempera, gold and ink; Getty Ms. 63, fol. 237. The miniature retells the Roman siege of 70 CE through medieval armor and architecture.",
+          "zh": "布西科大师，《耶路撒冷的毁灭》，约1413—1415年，巴黎。蛋彩、金与墨；盖蒂第63号手稿，第237叶。细密画借中世纪盔甲和建筑重述公元70年的罗马围城。"
+        },
+        "interpretation": {
+          "en": "Made over thirteen centuries after the siege, this image records medieval Christian reception of the event. Getty identifies an anti-Jewish theological framing in the manuscript’s pairing with Adam and Eve. That polemic belongs to the later work; the miniature supplies evidence for its makers’ beliefs rather than an eyewitness account of 70 CE.",
+          "zh": "作品晚于围城逾十三个世纪，记录中世纪基督徒对该事件的接受。盖蒂指出，手稿把此画与亚当和夏娃配对，带有反犹太的神学框架。这种论说属于后世作品；细密画为制作者的观念提供证据，而非公元70年的目击记录。"
+        },
+        "creator": "Boucicaut Master",
+        "date": "about 1413–1415",
+        "institution": "J. Paul Getty Museum",
+        "credit": "J. Paul Getty Museum, Los Angeles; 96.MR.17.237",
+        "sourceUrl": "https://www.getty.edu/art/collection/object/107TYY",
+        "imageUrl": "https://media.getty.edu/iiif/image/fb9d408c-0eb3-440c-bf5a-9aff639fd243/full/!1400,1400/0/default.jpg",
+        "downloadedFrom": "https://media.getty.edu/iiif/image/fb9d408c-0eb3-440c-bf5a-9aff639fd243/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://www.getty.edu/art/collection/object/107TYY",
+        "rights": {
+          "label": "CC0",
+          "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "note": {
+            "en": "Getty’s official object page identifies this image and explicitly provides supplied images under CC0 through the Open Content Program.",
+            "zh": "盖蒂官方藏品页标识此图，并明确说明所提供图像通过开放内容项目以CC0开放。"
+          }
+        },
+        "transformation": {
+          "en": "Source-served IIIF JPEG preserved unchanged. No local crop, retouching, recolouring or resizing.",
+          "zh": "来源直接提供的IIIF JPEG原样保存，未经本地裁剪、修饰、改色或缩放。"
+        },
+        "contextSources": [],
+        "width": 936,
+        "height": 1400,
+        "bytes": 458482,
+        "sha256": "461f8a4f6b9cd6522a97df42a5aa4d8b5ce1e597df777b50595dbf63fc16528e",
+        "checkedAt": "2026-11-12",
+        "metadataI18n": {
+          "creator": {
+            "en": "Boucicaut Master",
+            "zh": "布西科大师"
+          },
+          "date": {
+            "en": "about 1413–1415",
+            "zh": "约1413—1415年"
+          },
+          "institution": {
+            "en": "J. Paul Getty Museum",
+            "zh": "J. 保罗·盖蒂博物馆"
+          }
+        }
+      },
+      "target": {
+        "id": "rabbinic-judaism-after-70",
+        "title": {
+          "en": "Rabbinic Judaism · Study and community after 70 CE",
+          "zh": "拉比犹太教 · 公元70年后的学习与社群"
+        },
+        "start": 70,
+        "end": 300,
+        "region": "west-central-asia",
+        "theme": "knowledge",
+        "kind": "idea",
+        "importance": 4,
+        "location": {
+          "lat": 32,
+          "lon": 34.8,
+          "label": "Yavneh area; a representative setting in later rabbinic memory, not a sole center of Judaism",
+          "labelI18n": {
+            "en": "Yavneh area; a representative setting in later rabbinic memory, not a sole center of Judaism",
+            "zh": "亚夫内一带；后世拉比记忆中的代表地点，并非犹太教唯一中心"
+          }
+        },
+        "locationPrecision": "representative",
+        "summary": {
+          "en": "After the Temple’s destruction, Jewish communities continued to interpret Torah and law, gather for study and sustain communal life in more than one region. Rabbinic traditions developed over generations; the growth of these practices was not a single overnight replacement for every earlier form of Jewish life.\n\nA later Talmudic story associates Yohanan ben Zakkai and the town of Yavneh with the period after the siege. The author of the cited Jewish educational essay treats its famous coffin-escape episode as historically uncertain. Study and legal argument also continued in Babylonia. A point near Yavneh represents one setting in the account, not a unique origin or a border, and the focus window does not imply that Jewish life ended in 300 CE.",
+          "zh": "圣殿被毁后，犹太社群继续在多个地区诠释《妥拉》和律法、聚集学习并维系社群生活。拉比传统历经多代发展；这些实践的成长并非一夜之间取代此前所有犹太生活形式。\n\n后世《塔木德》故事把约哈南·本·扎凯及亚夫内镇与围城后的时期联系起来。所引犹太教育文章的作者认为，其中著名的藏棺逃脱情节在历史上存疑。巴比伦也延续了学习与法律论辩。亚夫内附近的点位只表示叙述中的一个地点，不是唯一发源地或疆界；关注时段也不表示犹太生活在公元300年结束。"
+        },
+        "dateNote": {
+          "en": "70–300 CE is a broad editorial focus on selected post-Temple generations, not the complete period of rabbinic development or an endpoint for Judaism.",
+          "zh": "公元70—300年是对圣殿被毁后若干代人的宽泛关注，不是拉比传统发展的全部时段，也不是犹太教的终点。"
+        },
+        "relatedIds": [
+          "jerusalem-second-temple-destruction-70",
+          "jewish-communities-second-temple",
+          "cairo-geniza-everyday-documents"
+        ],
+        "sources": [
+          {
+            "title": "Judaism after the Temple",
+            "url": "https://www.myjewishlearning.com/article/judaism-after-the-temple/",
+            "publisher": "Rabba Alieza Salzberg Yizhar / My Jewish Learning",
+            "evidenceNote": "Directly inspected the account of the Roman siege and destruction of the Second Temple in 70 CE, later Torah study and Jewish law in different places, and the rabbinic story of Yohanan ben Zakkai’s escape and Yavneh. The author explicitly questions whether that story can be treated as straightforward history.",
+            "checkedAt": "2026-10-27",
+            "retrieval": "inspected-text"
+          },
+          {
+            "title": "Jewish Art in Late Antiquity and Early Byzantium",
+            "url": "https://www.metmuseum.org/essays/jewish-art-in-late-antiquity-and-early-byzantium",
+            "publisher": "Barbara Drake Boehm and Melanie Holcomb / The Metropolitan Museum of Art",
+            "evidenceNote": "Directly inspected the art-historical essay’s discussion of Jewish communities in Roman regions, the destruction of the Jerusalem Temple in 70 CE and the third-century synagogue at Dura-Europos beside a Christian meeting house. Material remains are selective evidence, not a single starting date for diaspora.",
+            "checkedAt": "2026-10-27",
+            "retrieval": "inspected-text"
+          }
+        ],
+        "expansion": {
+          "release": 8,
+          "edition": "v14",
+          "workstreams": [
+            "WA1"
+          ],
+          "sourceReview": "inspected-source-synthesis",
+          "reviewLimit": {
+            "en": "The Jewish community-authored essay distinguishes later rabbinic narrative from secure historical evidence; additional specialists and Jewish traditions can deepen this account.",
+            "zh": "犹太社群作者的文章区分了后世拉比叙事与可确证的历史证据；更多专家和犹太传统视角可深化此叙述。"
+          }
+        },
+        "regionalAssociation": "omit-broad-point"
+      }
+    },
+    {
+      "assetId": "us-archives-04-havel",
+      "recordId": "prague-spring-radio-1968",
+      "decision": "hold",
+      "reason": "Havel is named only in the later-dissent conclusion; 1998 diplomatic photo does not illuminate radio workers or 1968. Stronger image needed.",
+      "asset": {
+        "id": "us-archives-04-havel",
+        "file": "assets/history-media/us-archives-04-havel.jpg",
+        "recordIds": [
+          "person-vaclav-havel"
+        ],
+        "kind": "photograph",
+        "representation": "historical-photograph",
+        "title": {
+          "en": "Václav Havel’s 1998 state arrival",
+          "zh": "瓦茨拉夫·哈维尔1998年的国事访问抵达仪式"
+        },
+        "caption": {
+          "en": "Czech President Václav Havel, left, stands with President Bill Clinton for the U.S. national anthem on the White House South Lawn, 16 September 1998.",
+          "zh": "1998年9月16日，捷克总统瓦茨拉夫·哈维尔（左）与美国总统比尔·克林顿在白宫南草坪肃立聆听美国国歌。"
+        },
+        "alt": {
+          "en": "Václav Havel and Bill Clinton stand in dark suits outdoors; Clinton holds his right hand over his chest.",
+          "zh": "瓦茨拉夫·哈维尔与比尔·克林顿身穿深色西装站在户外；克林顿把右手放在胸前。"
+        },
+        "interpretation": {
+          "en": "The anthem ceremony presents Havel as president of the Czech Republic in 1998. It belongs to the later chapter of a life that moved from theatre and Charter 77 dissent through the 1989 transition into constitutional office.",
+          "zh": "国歌仪式呈现1998年身为捷克共和国总统的哈维尔。这是他人生中较晚的篇章，此前经历了戏剧创作、《七七宪章》异议活动及1989年转型，随后担任宪制公职。"
+        },
+        "creator": "Sharon Farmer; White House Photograph Office",
+        "date": "16 September 1998",
+        "institution": "William J. Clinton Presidential Library and Museum",
+        "sourceUrl": "https://www.clintonlibrary.gov/galleries/1998-president-vaclav-havels-offical-state-visit-photo-gallery",
+        "imageUrl": "https://www.clintonlibrary.gov/sites/default/files/styles/card/public/catalog/P66443-34.jpg?h=01759dec",
+        "downloadedFrom": "https://www.clintonlibrary.gov/sites/default/files/styles/card/public/catalog/P66443-34.jpg?h=01759dec",
+        "rightsSourceUrl": "https://www.clintonlibrary.gov/research/audio-visual-research",
+        "rights": {
+          "label": "Public domain",
+          "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "note": {
+            "en": "The exact gallery entry P66443-34 identifies the date and photographer Sharon Farmer. The Library states that photographs produced by White House photographers are public domain and asks for Library and photographer credit. This is an official 1998 White House photograph, not a private pre-presidential image.",
+            "zh": "确切图库条目P66443-34注明日期及摄影者莎伦·法默。图书馆说明白宫摄影人员制作的照片属于公有领域，并要求注明图书馆和摄影者。此件是1998年白宫官方照片，并非任职前私人照片。"
+          }
+        },
+        "bytes": 56129,
+        "sha256": "675872a1df59ac509dba10663482511c20381627528c74e3174ce45ccaac16c7",
+        "width": 500,
+        "height": 420,
+        "format": "jpeg",
+        "checkedAt": "2026-11-12",
+        "metadataI18n": {
+          "creator": {
+            "en": "Sharon Farmer; White House Photograph Office",
+            "zh": "莎伦·法默；白宫摄影办公室"
+          },
+          "date": {
+            "en": "16 September 1998",
+            "zh": "1998年9月16日"
+          },
+          "institution": {
+            "en": "William J. Clinton Presidential Library and Museum",
+            "zh": "威廉·J. 克林顿总统图书馆与博物馆"
+          }
+        },
+        "transformation": {
+          "en": "The Library’s server-generated card rendition is saved byte-for-byte; its institutional crop is retained. No local crop, resize or re-encoding.",
+          "zh": "逐字节保存图书馆服务器生成的卡片版本，保留机构的裁剪范围。未作本地裁剪、缩放或重新编码。"
+        },
+        "credit": "Sharon Farmer. Courtesy, William J. Clinton Presidential Library."
+      },
+      "target": {
+        "id": "prague-spring-radio-1968",
+        "title": {
+          "en": "1968: Prague Spring, censorship and resistance on air",
+          "zh": "1968年：布拉格之春、审查与广播抵抗"
+        },
+        "start": 1968,
+        "end": 1968,
+        "region": "europe",
+        "kind": "event",
+        "theme": "states",
+        "location": {
+          "lat": 50.08,
+          "lon": 14.44,
+          "label": "Czechoslovak Radio, Prague; representative testimony setting"
+        },
+        "locationPrecision": "representative",
+        "importance": 4,
+        "summary": {
+          "en": "The Prague Spring opened a period of reform and debate within socialist Czechoslovakia in 1968. Changes in censorship allowed journalists and citizens to discuss subjects that earlier controls had restricted. The movement’s participants did not all seek the same political destination, and reform within socialism should not be equated automatically with a fully formed later constitutional order.\n\nSoviet-led Warsaw Pact troops invaded in August. Radio staff continued news broadcasts from improvised locations after troops occupied their main building, leaving testimony about both coercion and civilian action. Such recollections are evidence of particular experiences rather than a view of every street or institution. The invasion and subsequent restrictions connect the episode with later dissent, including Charter 77 and Václav Havel’s activities. This entry follows communication and everyday political agency alongside the decisions of governments and armies.",
+          "zh": "1968年的布拉格之春，在社会主义捷克斯洛伐克内部开启改革与讨论。审查制度的变化，使记者和公民得以谈论过去受到限制的话题。参与者并非都追求同一种政治结果，社会主义内部改革也不能自动等同于后来已经成形的宪制秩序。\n\n8月，苏联领导的华约军队入侵。主要广播大楼被占领后，电台人员仍从临时地点播发新闻，留下关于强制与平民行动的证言。这些回忆证明特定经验，并不代表每条街道或所有机构。入侵及其后限制，与后来的异议活动，包括七七宪章及瓦茨拉夫·哈维尔的行动相联系。本条在政府和军队决策之外，也追踪传播与日常政治能动性。"
+        },
+        "dateNote": {
+          "en": "Focus: 1968 reform and August invasion; radio testimony includes the immediate aftermath. No military-front geometry is inferred.",
+          "zh": "关注1968年改革与8月入侵；广播证言包括紧接其后的经历，不据此推定军事战线。"
+        },
+        "sources": [
+          {
+            "title": "The Prague Spring",
+            "url": "https://archiv.radio.cz/en/static/history-of-radio-prague/the-prague-spring",
+            "publisher": "Radio Prague International — Czech Radio",
+            "evidenceNote": "Journalists’ recollections of censorship, August invasion and makeshift broadcasts; retrospective testimony. Retrieval: full-page text inspected.",
+            "checkedAt": "2026-10-23"
+          },
+          {
+            "title": "Resources for The crushing of the Prague Spring",
+            "url": "https://www.cvce.eu/en/collections/unit-content/-/unit/df06517b-babc-451d-baf6-a2d4b19c1c88/dc715c77-2e3d-455e-8044-2be52c8fd31f/Resources",
+            "publisher": "CVCE, University of Luxembourg",
+            "evidenceNote": "Reform and Warsaw Pact intervention document collection. Retrieval: indexed institutional text inspected; open returned an error page.",
+            "checkedAt": "2026-10-23"
+          }
+        ],
+        "relatedIds": [
+          "soviet-union-polity",
+          "czechoslovakia-dissolution",
+          "person-vaclav-havel"
+        ],
+        "expansion": {
+          "workstreams": [
+            "EU3"
+          ],
+          "release": 3,
+          "sourceReview": "Source-grounded original bilingual synthesis; per-source retrieval and evidence limits are disclosed."
+        },
+        "keyFacts": {
+          "en": [
+            "The Prague Spring opened a period of reform and debate within socialist Czechoslovakia in 1968.",
+            "Changes in censorship allowed journalists and citizens to discuss subjects that earlier controls had restricted."
+          ],
+          "zh": [
+            "1968年的布拉格之春，在社会主义捷克斯洛伐克内部开启改革与讨论。",
+            "审查制度的变化，使记者和公民得以谈论过去受到限制的话题。"
+          ]
+        }
+      }
+    },
+    {
+      "assetId": "world-batch-12-waitangi-account",
+      "recordId": "waitangi-tribunal-development",
+      "decision": "hold",
+      "reason": "1890 book concerns exact treaty but is not the treaty sheet or tribunal evidence known to have been used. Prefer actual inquiry/document evidence.",
+      "asset": {
+        "id": "world-batch-12-waitangi-account",
+        "recordIds": [
+          "treaty-waitangi"
+        ],
+        "kind": "document",
+        "representation": "document-facsimile",
+        "title": {
+          "en": "A later account of Waitangi",
+          "zh": "后来的怀唐伊签署记述"
+        },
+        "alt": {
+          "en": "A worn blue pamphlet cover names William Colenso and the signing of the Treaty of Waitangi.",
+          "zh": "磨损的蓝色册封标有威廉·科伦索姓名与怀唐伊条约签署主题。"
+        },
+        "caption": {
+          "en": "William Colenso’s account was published in Wellington in 1890, fifty years after the signing. This is its printed cover, not an 1840 treaty sheet.",
+          "zh": "威廉·科伦索的记述于1890年在惠灵顿出版，距签署已五十年。这是书册封面，并非1840年的条约原件。"
+        },
+        "interpretation": {
+          "en": "The cover promises English and Māori treaty texts. Its claim to an authoritative history invites comparison with the differing texts and the perspectives of Māori signatories.",
+          "zh": "封面说明书中收录英文和毛利文条约。其权威历史的自我定位，应与文本差异及毛利签署者的视角对读。"
+        },
+        "creator": "William Colenso (author); New Zealand Government Printer (publisher)",
+        "date": "1890",
+        "institution": "Museum of New Zealand Te Papa Tongarewa",
+        "credit": "Museum of New Zealand Te Papa Tongarewa",
+        "sourceUrl": "https://collections.tepapa.govt.nz/object/226690",
+        "rightsSourceUrl": "https://collections.tepapa.govt.nz/object/226690",
+        "downloadedFrom": "https://media.tepapa.govt.nz/collection/80627/preview",
+        "imageUrl": "https://media.tepapa.govt.nz/collection/80627/preview",
+        "rights": {
+          "label": "No Known Copyright Restrictions",
+          "url": "https://www.tepapa.govt.nz/about-collections-online#no-known-copyright",
+          "note": {
+            "en": "The object page and this image’s embedded media record state No Known Copyright Restrictions.",
+            "zh": "器物页面与该图像的嵌入媒体记录均标明“无已知版权限制”。"
+          }
+        },
+        "transformation": {
+          "en": "Unchanged museum-served preview JPEG; no local crop, retouching or resizing.",
+          "zh": "馆方预览JPEG原样保存，未在本地裁切、修饰或缩放。"
+        },
+        "retrieval": "Full object HTML and image-specific embedded rights inspected; source-served image visually inspected at full resolution.",
+        "file": "assets/history-media/world-batch-12-waitangi-account.jpg",
+        "sha256": "265f9fd7732d508f599c6dd835e5622f9f3ee99661ab7852cb378d0e7856d0ba",
+        "bytes": 149154,
+        "width": 704,
+        "height": 1000,
+        "checkedAt": "2026-11-11"
+      },
+      "target": {
+        "id": "waitangi-tribunal-development",
+        "title": {
+          "en": "The Waitangi Tribunal · A forum for historical claims",
+          "zh": "怀唐伊审裁处 · 历史诉求的制度平台"
+        },
+        "start": 1975,
+        "end": 1985,
+        "region": "oceania",
+        "kind": "idea",
+        "theme": "states",
+        "importance": 3,
+        "location": {
+          "lat": -41.28,
+          "lon": 174.78,
+          "label": "Wellington; representative institutional and legislative center"
+        },
+        "locationPrecision": "representative",
+        "summary": {
+          "en": "The Treaty of Waitangi Act 1975 established a tribunal to investigate Māori claims about Crown breaches of Treaty principles. The institution emerged after a long history of petitions and protest, amid renewed activism over unresolved grievances. It created a formal place for evidence and argument concerning relationships that ordinary political processes had repeatedly failed to settle.\n\nIts original reach was limited to contemporary Crown actions. In 1985, Parliament extended its jurisdiction back to 1840, opening a much larger field of historical inquiry. The change mattered because many claims concerned earlier land loss, state policies and the cumulative effects of dispossession. A date in an old document could now become part of a structured public investigation rather than being excluded simply as too remote.\n\nThe Tribunal hears evidence, determines whether claims are well founded and generally makes recommendations. This should not be confused with an automatic settlement or universal power to order every remedy. The ten-year interval marks institutional formation and expanded historical reach, not the beginning of Māori claims or their final resolution. Its history connects public institutions with continuing community efforts to make the past answerable to the present.",
+          "zh": "1975年《怀唐伊条约法》设立审裁处，调查毛利人针对王权违反条约原则提出的诉求。该机构产生于长期请愿与抗争之后，当时人们正就未解决的不公重新展开行动。它为证据与论辩提供正式场所，处理普通政治程序反复未能解决的关系问题。\n\n最初权限仅涉及当时的王权行为。1985年，议会把管辖范围追溯至1840年，打开更广泛的历史调查领域。这个变化很重要，因为许多诉求涉及早年的土地流失、国家政策及剥夺的累积影响。旧文献上的日期，可以进入有组织的公共调查，而不再仅因过于久远被排除。\n\n审裁处听取证据，判断诉求是否成立，并通常提出建议。这不等于自动达成和解，也不意味着它对一切补救都有普遍命令权。十年区间标示机构形成及历史范围扩展，不是毛利诉求的开始或最终解决。其历史把公共机构同社区持续要求历史承担现实责任的努力相连。"
+        },
+        "dateNote": {
+          "en": "1975–1985 tracks establishment and retrospective jurisdiction. The institution continued afterward; 1840 is the retrospective limit, not an additional start date for this record.",
+          "zh": "1975—1985年关注设立与追溯管辖权扩展。机构此后继续运行；1840年是追溯界限，不是本条另一个起始年份。"
+        },
+        "sources": [
+          {
+            "title": "The Waitangi Tribunal: history, jurisdiction and role",
+            "publisher": "Waitangi Tribunal",
+            "url": "https://www.waitangitribunal.govt.nz/en/about/about-the-waitangi-tribunal/about-the-waitangi-tribunal",
+            "evidenceNote": "Inspected institution’s own historical and explanatory sections: 1975 creation, original contemporary scope, 1985 extension to 1840, evidence hearings and recommendations. General recommendations are distinguished from limited statutory adjudicative powers.",
+            "checkedAt": "2026-10-23",
+            "retrieval": "inspected-text"
+          }
+        ],
+        "keyFacts": {
+          "en": [
+            "The Tribunal was established in 1975.",
+            "Its historical jurisdiction expanded in 1985 to reach 1840.",
+            "Inquiry and recommendations do not automatically produce settlement."
+          ],
+          "zh": [
+            "审裁处于1975年设立。",
+            "1985年历史管辖权扩展至1840年。",
+            "调查与建议并不自动带来和解。"
+          ]
+        },
+        "relatedIds": [
+          "treaty-waitangi",
+          "bastion-point-occupation",
+          "maori-language-revival"
+        ],
+        "expansion": {
+          "workstreams": [
+            "OC2",
+            "OC3"
+          ],
+          "release": 4,
+          "edition": "v10",
+          "sourceReview": "inspected-source-synthesis",
+          "reviewLimit": {
+            "en": "The institution’s self-description supports historical scope and procedural distinctions. Individual reports and settlement legislation require separate inspection; this entry is not current legal advice.",
+            "zh": "机构自身说明支持历史范围及程序区分。个别报告与和解立法须另行检阅；本条不提供当前法律意见。"
+          }
+        }
+      }
+    },
+    {
+      "assetId": "world-batch-12-waitangi-account",
+      "recordId": "maori-language-revival",
+      "decision": "reject",
+      "reason": "Treaty grounds language claim, but cover of later treaty book does not show petition, immersion education or language movement.",
+      "asset": {
+        "id": "world-batch-12-waitangi-account",
+        "recordIds": [
+          "treaty-waitangi"
+        ],
+        "kind": "document",
+        "representation": "document-facsimile",
+        "title": {
+          "en": "A later account of Waitangi",
+          "zh": "后来的怀唐伊签署记述"
+        },
+        "alt": {
+          "en": "A worn blue pamphlet cover names William Colenso and the signing of the Treaty of Waitangi.",
+          "zh": "磨损的蓝色册封标有威廉·科伦索姓名与怀唐伊条约签署主题。"
+        },
+        "caption": {
+          "en": "William Colenso’s account was published in Wellington in 1890, fifty years after the signing. This is its printed cover, not an 1840 treaty sheet.",
+          "zh": "威廉·科伦索的记述于1890年在惠灵顿出版，距签署已五十年。这是书册封面，并非1840年的条约原件。"
+        },
+        "interpretation": {
+          "en": "The cover promises English and Māori treaty texts. Its claim to an authoritative history invites comparison with the differing texts and the perspectives of Māori signatories.",
+          "zh": "封面说明书中收录英文和毛利文条约。其权威历史的自我定位，应与文本差异及毛利签署者的视角对读。"
+        },
+        "creator": "William Colenso (author); New Zealand Government Printer (publisher)",
+        "date": "1890",
+        "institution": "Museum of New Zealand Te Papa Tongarewa",
+        "credit": "Museum of New Zealand Te Papa Tongarewa",
+        "sourceUrl": "https://collections.tepapa.govt.nz/object/226690",
+        "rightsSourceUrl": "https://collections.tepapa.govt.nz/object/226690",
+        "downloadedFrom": "https://media.tepapa.govt.nz/collection/80627/preview",
+        "imageUrl": "https://media.tepapa.govt.nz/collection/80627/preview",
+        "rights": {
+          "label": "No Known Copyright Restrictions",
+          "url": "https://www.tepapa.govt.nz/about-collections-online#no-known-copyright",
+          "note": {
+            "en": "The object page and this image’s embedded media record state No Known Copyright Restrictions.",
+            "zh": "器物页面与该图像的嵌入媒体记录均标明“无已知版权限制”。"
+          }
+        },
+        "transformation": {
+          "en": "Unchanged museum-served preview JPEG; no local crop, retouching or resizing.",
+          "zh": "馆方预览JPEG原样保存，未在本地裁切、修饰或缩放。"
+        },
+        "retrieval": "Full object HTML and image-specific embedded rights inspected; source-served image visually inspected at full resolution.",
+        "file": "assets/history-media/world-batch-12-waitangi-account.jpg",
+        "sha256": "265f9fd7732d508f599c6dd835e5622f9f3ee99661ab7852cb378d0e7856d0ba",
+        "bytes": 149154,
+        "width": 704,
+        "height": 1000,
+        "checkedAt": "2026-11-11"
+      },
+      "target": {
+        "id": "maori-language-revival",
+        "title": {
+          "en": "Te reo Māori · Petition, language nests and public recognition",
+          "zh": "毛利语复兴 · 请愿、语言巢与公共承认"
+        },
+        "start": 1972,
+        "end": 1987,
+        "region": "oceania",
+        "kind": "idea",
+        "theme": "knowledge",
+        "importance": 3,
+        "location": {
+          "lat": -41.28,
+          "lon": 174.78,
+          "label": "Wellington; petition and legislative context, not the whole movement",
+          "labelI18n": {
+            "en": "Wellington; petition and legislative context, not the whole movement",
+            "zh": "惠灵顿；请愿与立法背景地点，并非整个运动的范围"
+          },
+          "labelProvenance": "reviewed-display-translation"
+        },
+        "locationPrecision": "representative",
+        "summary": {
+          "en": "Māori language revitalization grew through collective action in homes, meeting places and public institutions. In 1972, Ngā Tamatoa, the Te Reo Māori Society and the New Zealand Māori Students’ Association gathered more than 30,000 signatures calling for Māori to be taught in schools. Hana Jackson and other organizers helped present the petition to Parliament on 14 September.\n\nThe work extended beyond requesting a school subject. Kōhanga reo brought fluent elders, preschool children and whānau together through immersion in language and values. The first opened at Pukeatua in Wainuiomata in 1982, and women supplied much of the organizing and daily labour. Families were participants in the educational institution rather than simply customers of it.\n\nA claim heard by the Waitangi Tribunal in 1985 argued that te reo was a taonga protected under the Treaty. The Māori Language Act of 1987 established official status. These developments connected community transmission to public recognition, but legislation alone could not create fluent speakers or remove every barrier. The selected interval captures important institutional changes within a longer, continuing effort to sustain a living language across generations.",
+          "zh": "毛利语复兴通过家庭、集会场所与公共机构中的集体行动发展。1972年，恩加塔马托阿、毛利语协会及新西兰毛利学生协会收集三万余份签名，要求学校教授毛利语。哈娜·杰克逊等组织者于9月14日协助向议会提交请愿。\n\n行动并不止于增设一门课程。语言巢以全浸入语言与价值的方式，把流利使用母语的长者、学龄前儿童及家庭组织起来。第一个语言巢于1982年在怀努约马塔的普基阿图亚开办，女性承担了大量组织与日常劳动。家庭是教育机构的参与者，而不仅是服务购买者。\n\n1985年怀唐伊审裁处听取诉求，主张毛利语属于《怀唐伊条约》保护的珍宝。1987年《毛利语言法》确立官方地位。这些发展把社区传承与公共承认相连，但法律本身不能自动造就流利使用者或消除全部障碍。本条所选区间记录长期持续的代际语言维护中的重要制度变化。"
+        },
+        "dateNote": {
+          "en": "1972–1987 follows the petition through official recognition. Neither date marks the origin or end of te reo Māori or its revitalization.",
+          "zh": "1972—1987年关注从请愿到官方承认的阶段。两端都不是毛利语或其复兴的绝对起讫。"
+        },
+        "sources": [
+          {
+            "title": "The Māori Language Petition and how it happened",
+            "publisher": "Archives New Zealand",
+            "url": "https://www.archives.govt.nz/discover-our-stories/the-maori-language-petition/the-maori-language-petition-and-how-it-happened",
+            "evidenceNote": "Inspected relevant narrative: youth and elder collaboration, organizing groups, more than 30,000 signatures, Hana Jackson and presentation on 14 September 1972.",
+            "checkedAt": "2026-10-23",
+            "retrieval": "inspected-text"
+          },
+          {
+            "title": "Te Kōhanga Reo",
+            "publisher": "Tania Rei, Carra Hamon and Arapera Royal-Tangaere / NZHistory",
+            "url": "https://nzhistory.govt.nz/women-together/te-kohanga-reo",
+            "evidenceNote": "Inspected authored organizational history: Pukeatua opening in April 1982, immersion, whānau governance and women’s central labour; later continuation not collapsed into an end in 1987.",
+            "checkedAt": "2026-10-23",
+            "retrieval": "inspected-text"
+          },
+          {
+            "title": "History of the Māori language",
+            "publisher": "Angela Ballara / NZHistory",
+            "url": "https://nzhistory.govt.nz/culture/maori-language-week/history-of-the-maori-language",
+            "evidenceNote": "Inspected relevant history: 1985 Tribunal claim and 1987 official-language legislation; same publishing family as kōhanga reo history.",
+            "checkedAt": "2026-10-23",
+            "retrieval": "inspected-text"
+          }
+        ],
+        "keyFacts": {
+          "en": [
+            "The 1972 petition called for Māori language teaching.",
+            "Kōhanga reo joined elders and children through immersion.",
+            "Official status followed in 1987."
+          ],
+          "zh": [
+            "1972年请愿要求教授毛利语。",
+            "语言巢通过浸入学习连接长者与儿童。",
+            "1987年取得官方语言地位。"
+          ]
+        },
+        "relatedIds": [
+          "person-apirana-ngata",
+          "waitangi-tribunal-development",
+          "person-whina-cooper"
+        ],
+        "expansion": {
+          "workstreams": [
+            "OC2",
+            "OC3"
+          ],
+          "release": 4,
+          "edition": "v10",
+          "sourceReview": "inspected-source-synthesis",
+          "reviewLimit": {
+            "en": "Archives New Zealand and authored histories support distinct stages. Two NZHistory pages share a publisher; legal recognition is not treated as proof that language security was permanently achieved.",
+            "zh": "新西兰档案机构与署名历史支持不同阶段。两个历史网页同属一个出版体系；法律承认不等于语言安全已永久实现。"
+          }
+        }
+      }
+    },
+    {
+      "assetId": "african-pages-01-taytu-letter",
+      "recordId": "adwa-victory",
+      "decision": "hold",
+      "reason": "Taytu is relevant historically but not named in target narrative; pictured dedication authorization does not address Adwa. Add independently sourced specific connection before reuse.",
+      "asset": {
+        "id": "african-pages-01-taytu-letter",
+        "file": "assets/history-media/african-pages-01-taytu-letter.jpg",
+        "recordIds": [
+          "person-taytu-betul"
+        ],
+        "kind": "document",
+        "representation": "document-facsimile",
+        "title": {
+          "en": "Taytu authorizes a book dedication",
+          "zh": "塔伊图批准图书献辞"
+        },
+        "alt": {
+          "en": "Printed page showing an Amharic letter and circular royal seal above a caption identifying Empress Taitu and an English translation.",
+          "zh": "印刷书页上方为阿姆哈拉语信函及圆形王室印章，下方为点明塔伊图皇后的说明与英译。"
+        },
+        "caption": {
+          "en": "Taytu’s letter of 7 February 1901 permits Powell-Cotton to dedicate his travel book to her. Reproduced in A Sporting Trip through Abyssinia (London, 1902), with W. F. Prideaux’s free English translation.",
+          "zh": "塔伊图于1901年2月7日发出的信函，允许鲍威尔-科顿将旅行著作献给她。影印页载于《阿比西尼亚狩猎之旅》（伦敦，1902年），附W. F. 普里多英译（意译）。"
+        },
+        "interpretation": {
+          "en": "The named letter and seal show the empress answering a foreign traveller’s request in her own official capacity. The reproduction also shows how an Ethiopian royal communication was presented to British readers by a visiting hunter and his translator.",
+          "zh": "署名信函与印章展现皇后以自身官方身份回应外国旅行者的请求。旅行者与译者在书中刊载此信，也展示了埃塞俄比亚王室文书如何被呈现给英国读者。"
+        },
+        "metadataI18n": {
+          "creator": {
+            "en": "Letter issued in the name of Empress Taytu; English translation by W. F. Prideaux; reproduced in P. H. G. Powell-Cotton’s book",
+            "zh": "以塔伊图皇后名义发出的信函；W. F. 普里多英译；收录于P. H. G. 鲍威尔-科顿的著作"
+          },
+          "date": {
+            "en": "Letter dated 7 February 1901; printed facsimile published 1902",
+            "zh": "信函日期为1901年2月7日；影印页出版于1902年"
+          },
+          "institution": {
+            "en": "University of California Libraries; digitized by Internet Archive",
+            "zh": "加利福尼亚大学图书馆；互联网档案馆数字化"
+          }
+        },
+        "creator": "Letter issued in the name of Empress Taytu; English translation by W. F. Prideaux; reproduced in P. H. G. Powell-Cotton’s book",
+        "date": "Letter dated 7 February 1901; printed facsimile published 1902",
+        "institution": "University of California Libraries; digitized by Internet Archive",
+        "credit": "University of California Libraries; digitized by Internet Archive; sportingtripthro00cottrich",
+        "sourceUrl": "https://archive.org/details/sportingtripthro00cottrich",
+        "imageUrl": "https://iiif.archive.org/image/iiif/3/sportingtripthro00cottrich%2Fsportingtripthro00cottrich_jp2.zip%2Fsportingtripthro00cottrich_jp2%2Fsportingtripthro00cottrich_0015.jp2/full/!1200,1200/0/default.jpg",
+        "downloadedFrom": "https://iiif.archive.org/image/iiif/3/sportingtripthro00cottrich%2Fsportingtripthro00cottrich_jp2.zip%2Fsportingtripthro00cottrich_jp2%2Fsportingtripthro00cottrich_0015.jp2/full/!1200,1200/0/default.jpg",
+        "rightsSourceUrl": "https://archive.org/metadata/sportingtripthro00cottrich",
+        "rights": {
+          "label": "Public domain",
+          "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "note": {
+            "en": "Internet Archive item metadata explicitly records NOT_IN_COPYRIGHT; copyright-region US.",
+            "zh": "互联网档案馆条目元数据明确标记NOT_IN_COPYRIGHT，版权地域为美国（US）。"
+          }
+        },
+        "transformation": {
+          "en": "Source-served IIIF JPEG requested within 1200 × 1200 pixels, preserved unchanged. No local crop, retouching or recolouring.",
+          "zh": "向来源IIIF服务请求不超过1200 × 1200像素的JPEG，原样保存；未在本地裁剪、修饰或改色。"
+        },
+        "width": 816,
+        "height": 1200,
+        "bytes": 74531,
+        "sha256": "97718d3354980695d4bf889778050128bdde839432e32102237def6c0a1538ad",
+        "checkedAt": "2026-11-13",
+        "retrieval": "Exact image bytes recovered from the interrupted GitHub upload; catalogue descriptions rebuilt from retained inspection evidence. Source metadata and canvas identities rechecked."
+      },
+      "target": {
+        "id": "adwa-victory",
+        "title": {
+          "en": "Adwa: Ethiopia defeats an invading army",
+          "zh": "阿杜瓦：埃塞俄比亚击退入侵"
+        },
+        "start": 1896,
+        "end": 1896,
+        "region": "africa",
+        "theme": "states",
+        "kind": "event",
+        "importance": 4,
+        "location": {
+          "lat": 14.17,
+          "lon": 38.9,
+          "label": "Adwa"
+        },
+        "locationPrecision": "representative",
+        "summary": {
+          "en": "Ethiopian forces defeated the invading Italian army at Adwa in 1896. The victory challenged European assumptions that colonial conquest in Africa was inevitable and protected Ethiopia’s independence at a moment when much of the continent was being partitioned. Its later memory travelled well beyond Ethiopia and became important to anti-colonial political imagination. The battle did not remove every regional inequality or prevent later Italian aggression. It nevertheless offers a decisive example of African military and diplomatic agency.",
+          "zh": "1896年，埃塞俄比亚军队在阿杜瓦击败入侵的意大利军队。在非洲大部遭瓜分之际，这场胜利维护独立，也挑战殖民征服不可避免的观念。其记忆传播至埃塞俄比亚之外，影响反殖民政治想象。胜利并未消除所有地区不平等，也未阻止后来意大利再度侵略，但它鲜明体现非洲军事与外交主动性。"
+        },
+        "dateNote": {
+          "en": "The battle occurred on 1 March 1896. The marker represents the Adwa battlefield region.",
+          "zh": "战役发生于1896年3月1日；标记代表阿杜瓦战场区域。"
+        },
+        "sources": [
+          {
+            "title": "Ethiopia: three millennia of legend and history",
+            "url": "https://courier.unesco.org/en/articles/ethiopia-three-millennia-legend-and-history",
+            "publisher": "UNESCO Courier",
+            "checkedAt": "2026-10-22",
+            "evidenceNote": "The battle occurred on 1 March 1896. The marker represents the Adwa battlefield region."
+          }
+        ],
+        "editorialRevision": {
+          "editedAt": "2026-11-12",
+          "scope": "summary-only",
+          "previousSummary": {
+            "en": "Ethiopian forces defeated the invading Italian army at Adwa in 1896. The victory challenged European assumptions that colonial conquest in Africa was inevitable and protected Ethiopia’s independence at a moment when much of the continent was being partitioned. Its later memory travelled well beyond Ethiopia and became important to anti-colonial political imagination. The battle did not remove every regional inequality or prevent later Italian aggression. It nevertheless offers a decisive example of African military and diplomatic agency. Studying the event alongside colonial expansion makes resistance part of the main historical narrative rather than an exception added at the end.",
+            "zh": "1896年，埃塞俄比亚军队在阿杜瓦击败入侵的意大利军队。在非洲大部遭瓜分之际，这场胜利维护独立，也挑战殖民征服不可避免的观念。其记忆传播至埃塞俄比亚之外，影响反殖民政治想象。胜利并未消除所有地区不平等，也未阻止后来意大利再度侵略，但它鲜明体现非洲军事与外交主动性，使抵抗成为殖民史的核心部分。"
+          },
+          "rationale": "Remove historical-narrative coaching; military and diplomatic agency, later aggression and regional inequality remain."
+        }
+      }
+    },
+    {
+      "assetId": "getty-images-06-pedro",
+      "recordId": "brazil-independence",
+      "decision": "reject",
+      "reason": "Photo is Pedro II, while entry names Pedro I. Different person and phase.",
+      "asset": {
+        "id": "getty-images-06-pedro",
+        "file": "assets/history-media/getty-images-06-pedro.jpg",
+        "recordIds": [
+          "brazil-independent-polity"
+        ],
+        "kind": "portrait",
+        "title": {
+          "en": "Pedro II in imperial Brazil",
+          "zh": "巴西帝国时期的佩德罗二世"
+        },
+        "alt": {
+          "en": "A bearded Pedro II in a dark coat appears beneath the crowned green shield of imperial Brazil, surrounded by colored branches.",
+          "zh": "身穿深色外套、留胡须的佩德罗二世肖像位于巴西帝国带冠绿色盾徽下方，四周有彩色枝叶。"
+        },
+        "caption": {
+          "en": "Franck, portrait of Pedro II of Brazil in an album with text by Justin Lallier, dated 1866. Albumen silver print with decorated surround; Getty 84.XB.824.1.7.",
+          "zh": "弗兰克摄，巴西佩德罗二世肖像，见朱斯坦·拉利耶撰文、纪年1866年的图册。蛋白银盐照片，配装饰边饰；盖蒂84.XB.824.1.7。"
+        },
+        "interpretation": {
+          "en": "The crowned arms and named emperor make Brazil’s monarchical phase visible. This album, dated 1866, belongs within the independent empire, between the 1822 break with Portugal and the republic proclaimed in 1889.",
+          "zh": "具名皇帝与带冠纹章，使巴西的君主制阶段清晰可见。图册纪年1866年，属于独立帝国时期，介于1822年脱离葡萄牙与1889年宣布共和之间。"
+        },
+        "representation": "historical-photograph",
+        "creator": "Franck (François-Marie-Louis-Alexandre Gobinet de Villecholles); album text by Justin Lallier",
+        "date": "Album dated 1866",
+        "institution": "J. Paul Getty Museum",
+        "credit": "J. Paul Getty Museum, Los Angeles; 84.XB.824.1.7",
+        "sourceUrl": "https://www.getty.edu/art/collection/object/1099G4",
+        "imageUrl": "https://media.getty.edu/iiif/image/31f29124-b9ef-45b2-a5fe-a15ec30771ce/full/!1400,1400/0/default.jpg",
+        "downloadedFrom": "https://media.getty.edu/iiif/image/31f29124-b9ef-45b2-a5fe-a15ec30771ce/full/!1400,1400/0/default.jpg",
+        "rightsSourceUrl": "https://www.getty.edu/art/collection/object/1099G4",
+        "rights": {
+          "label": "CC0",
+          "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "note": {
+            "en": "The Getty object page explicitly provides this image under CC0 through its Open Content Program.",
+            "zh": "盖蒂藏品页明确说明此图通过开放内容项目以CC0提供。"
+          }
+        },
+        "transformation": {
+          "en": "Source-served IIIF JPEG preserved unchanged, including the original mount or decoration where present.",
+          "zh": "原样保存来源提供的IIIF JPEG，包括原有装裱或装饰。"
+        },
+        "width": 1147,
+        "height": 1400,
+        "bytes": 413952,
+        "sha256": "29ae2e3ae8b6f222d5ff2cba6cb34023bd25e261b7dc3b81f79c92fbf119574e",
+        "checkedAt": "2026-11-12",
+        "retrieval": "Official item JSON-LD and item-specific CC0 inspected; downloaded pixels opened individually.",
+        "metadataI18n": {
+          "creator": {
+            "en": "Franck (François-Marie-Louis-Alexandre Gobinet de Villecholles); album text by Justin Lallier",
+            "zh": "弗兰克；图册文字：朱斯坦·拉利耶"
+          },
+          "date": {
+            "en": "Album dated 1866",
+            "zh": "图册纪年1866年"
+          },
+          "institution": {
+            "en": "J. Paul Getty Museum",
+            "zh": "J. 保罗·盖蒂博物馆"
+          }
+        },
+        "contextSources": [
+          {
+            "title": {
+              "en": "The complete 1866 portrait album",
+              "zh": "1866年肖像图册总目"
+            },
+            "url": "https://www.getty.edu/art/collection/object/104GSD"
+          }
+        ]
+      },
+      "target": {
+        "id": "brazil-independence",
+        "title": {
+          "en": "1822: Brazil becomes an independent empire",
+          "zh": "1822年：巴西成为独立帝国"
+        },
+        "start": 1822,
+        "end": 1822,
+        "region": "latin-america",
+        "theme": "states",
+        "kind": "event",
+        "importance": 4,
+        "location": {
+          "lat": -23.59,
+          "lon": -46.61,
+          "label": "Ipiranga, São Paulo; representative independence proclamation site"
+        },
+        "locationYear": 1822,
+        "locationPrecision": "representative",
+        "summary": {
+          "en": "Brazil's separation from Portugal produced an empire under Pedro I rather than a republic. The independence milestone of September 1822 was followed by imperial acclamation and a longer process of fighting, institution-building and diplomatic recognition. Portugal recognized the new empire in a treaty signed in 1825. Monarchy, the Braganza dynasty and slavery survived the political break, making independence different from universal emancipation. Comparison with Spanish America's republics and Haiti's revolution shows that ending colonial ties could produce markedly different political and social arrangements.",
+          "zh": "巴西脱离葡萄牙后，建立了由佩德罗一世统治的帝国，而非共和国。1822年9月的独立节点之后，还有皇帝拥立、战争、制度建设与外交承认等过程。葡萄牙直到1825年签署条约才承认新帝国。君主制、布拉干萨王朝及奴隶制在政治分离后继续存在，因此独立不同于所有人的解放。与西属美洲共和国及海地革命比较，可以看到摆脱殖民关系可能产生显著不同的政治和社会安排。"
+        },
+        "dateNote": {
+          "en": "7 September 1822 is the commemorated independence proclamation; Pedro's imperial acclamation was on 12 October 1822. Portuguese recognition followed on 29 August 1825.",
+          "zh": "1822年9月7日是纪念的独立宣告日期，佩德罗于10月12日被拥立为皇帝；葡萄牙承认发生于1825年8月29日。"
+        },
+        "keyFacts": {
+          "en": [
+            "Brazil's independence retained a monarchy under the Braganza dynasty.",
+            "Slavery continued after independence; its abolition was a separate struggle culminating in 1888."
+          ],
+          "zh": [
+            "巴西独立后保留布拉干萨王朝君主制。",
+            "奴隶制在独立后继续存在，废奴是另一场斗争，至1888年才取得法律成果。"
+          ]
+        },
+        "sources": [
+          {
+            "title": "Original treaty recognizing Brazilian independence, 29 August 1825",
+            "url": "https://atom.itamaraty.gov.br/index.php/trat-p17-m25-1825-08-29-04",
+            "publisher": "Itamaraty Digital, Ministry of Foreign Affairs of Brazil",
+            "evidenceNote": "Primary recognition treaty and archival context for Pedro I and independence.",
+            "checkedAt": "2026-10-23"
+          },
+          {
+            "title": "Decree on dating imperial documents, 10 December 1822",
+            "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dim/dim-10-12-1822.htm",
+            "publisher": "Presidency of Brazil",
+            "evidenceNote": "Primary decree identifies the 12 October imperial acclamation.",
+            "checkedAt": "2026-10-23"
+          },
+          {
+            "title": "Was Brazil's independence revolutionary or conservative?",
+            "url": "https://www12.senado.leg.br/noticias/infomaterias/2022/09/afinal-a-independencia-do-brasil-foi-revolucionaria-ou-conservadora",
+            "publisher": "Federal Senate of Brazil",
+            "evidenceNote": "Institutional historical analysis of continuity in monarchy, dynasty and slavery after independence.",
+            "checkedAt": "2026-10-23"
+          }
+        ],
+        "relatedIds": [
+          "south-american-independence",
+          "haitian-revolution",
+          "brazil-abolition",
+          "mercosur-treaty"
+        ],
+        "ongoing": false
+      }
+    },
+    {
+      "assetId": "world-batch-06-met-16584",
+      "recordId": "valley-forge-supply-households",
+      "decision": "reject",
+      "reason": "Later presidential portrait would displace explicit focus on collective camp labour. Washington not named in narrative.",
+      "asset": {
+        "id": "world-batch-06-met-16584",
+        "recordIds": [
+          "person-george-washington"
+        ],
+        "kind": "portrait",
+        "representation": "lifetime-portrait",
+        "title": {
+          "en": "Washington painted by Gilbert Stuart",
+          "zh": "吉尔伯特·斯图尔特笔下的华盛顿"
+        },
+        "alt": {
+          "en": "White-haired Washington wears a black coat and white neckcloth against a dark green background.",
+          "zh": "白发的华盛顿身穿黑色外套与白色领巾，背后是深绿色背景。"
+        },
+        "caption": {
+          "en": "Gilbert Stuart began this oil portrait in 1795, during Washington’s presidency. Technical study shows that the coat was changed from brown to black.",
+          "zh": "吉尔伯特·斯图尔特于1795年、华盛顿担任总统期间开始绘制这幅油画。技术研究显示，画中外套由棕色改为黑色。"
+        },
+        "interpretation": {
+          "en": "Clothing helped construct the president’s public image. The change from American wool to the appearance of European silk velvet makes the portrait a useful study of political self-presentation.",
+          "zh": "服装参与塑造总统的公众形象。从美国羊毛料改绘为欧洲丝绒的外观，使肖像成为观察政治形象塑造的线索。"
+        },
+        "file": "assets/history-media/world-batch-06-met-16584.jpg",
+        "downloadedFrom": "https://images.metmuseum.org/CRDImages/ad/web-large/DT62.jpg",
+        "imageUrl": "https://images.metmuseum.org/CRDImages/ad/original/DT62.jpg",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/16584",
+        "sha256": "da83c54d5a644acc61d2a87d51695c92ee2ed088ab96a776b85fbd3b5fd53470",
+        "bytes": 66806,
+        "width": 523,
+        "height": 625,
+        "creator": "Gilbert Stuart",
+        "date": "begun 1795",
+        "institution": "The Metropolitan Museum of Art",
+        "checkedAt": "2026-11-11",
+        "rightsSourceUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access",
+        "rights": {
+          "label": "CC0",
+          "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "note": {
+            "en": "CC0 public-domain image. Credit: The Metropolitan Museum of Art, Rogers Fund, 1907.",
+            "zh": "CC0公有领域图像。署名：The Metropolitan Museum of Art, Rogers Fund, 1907。"
+          }
+        },
+        "transformation": {
+          "en": "Institution-provided JPEG, unchanged.",
+          "zh": "馆方提供的JPEG，未作修改。"
+        },
+        "metadataI18n": {
+          "creator": {
+            "en": "Gilbert Stuart",
+            "zh": "吉尔伯特·斯图尔特"
+          },
+          "date": {
+            "en": "begun 1795",
+            "zh": "始绘于1795年"
+          },
+          "institution": {
+            "en": "The Metropolitan Museum of Art",
+            "zh": "大都会艺术博物馆"
+          }
+        },
+        "contextSources": [
+          {
+            "title": {
+              "en": "Read the related history",
+              "zh": "阅读相关历史"
+            },
+            "url": "https://www.mountvernon.org/george-washington/biography"
+          }
+        ]
+      },
+      "target": {
+        "id": "valley-forge-supply-households",
+        "title": {
+          "en": "Valley Forge · Supply systems and a camp society",
+          "zh": "福吉谷 · 补给体系与营地社会"
+        },
+        "start": 1777,
+        "end": 1778,
+        "region": "north-america",
+        "kind": "event",
+        "theme": "cities",
+        "importance": 3,
+        "location": {
+          "lat": 40.1,
+          "lon": -75.44,
+          "label": "Valley Forge, Pennsylvania; representative winter encampment area"
+        },
+        "locationPrecision": "representative",
+        "summary": {
+          "en": "The Continental Army’s winter at Valley Forge joined military survival to the work of a temporary community. From December 1777 to June 1778, soldiers built huts, guarded approaches and obtained food, clothing and equipment near British-occupied Philadelphia. A bridge over the Schuylkill connected the camp with farms, a market and commissary activity north of the river. Supply was an organizational problem, rather than simply an absence of food everywhere nearby.\n\nWomen and children lived with the army, alongside free and enslaved Black people, Indigenous allies, immigrants and men with different reasons for serving. Their experiences were unequal. Some sought wages or freedom, while others had been conscripted. Local residents also disagreed about the war; assistance, refusal, requisition and accusations of disloyalty shaped their encounters with soldiers.\n\nDisease caused much of the mortality, including in spring when provisions improved. Care, sanitation and organization mattered alongside the better-known military training associated with Friedrich Wilhelm von Steuben. Keeping the army in one place also consumed timber, fences, livestock and stores from surrounding communities.\n\nThe camp’s transformation was therefore collective and costly. Its history is distinct from a battle narrative: no battle occurred at Valley Forge, and the 1777–1778 interval does not imply that everyone there shared one meaning of liberty.",
+          "zh": "大陆军在福吉谷过冬，把军事生存与临时社区的劳动结合起来。1777年12月至1778年6月，士兵在英军占领的费城附近建造木屋、守卫通道，并获取食物、衣物和装备。跨越斯库尔基尔河的桥梁，把营地与北岸农场、市场及军需活动相连。补给首先是组织问题，并不只是周边处处缺粮。\n\n妇女和儿童与军队同住，营地还有自由及被奴役的黑人、原住民盟友、移民，以及出于不同动机服役的人。他们的处境并不平等。有些人谋求工资或自由，另一些则被征召。当地居民对战争也有分歧；援助、拒绝、征用及“不忠”的指控，影响他们与士兵的关系。\n\n疾病造成大量死亡，甚至在春季补给改善后仍然如此。照护、卫生和组织，与冯·施托伊本的军事训练同样重要。大军集中驻扎，还消耗周边社区的木材、围栏、牲畜与储粮。\n\n因此，营地的转变既是集体成果，也付出社会成本。它与战役叙述不同：福吉谷没有发生战斗，1777—1778年的窗口也不意味着所有人对自由有共同理解。"
+        },
+        "dateNote": {
+          "en": "19 December 1777–19 June 1778 is the encampment interval. The point marks the camp area, not every hut, hospital, supply farm or resident’s address. Surrounding land use and community histories began earlier and continued afterward.",
+          "zh": "1777年12月19日至1778年6月19日为驻营期。点位代表营地区域，不是每座木屋、医院、供粮农场或居民地址。周边土地利用和社区历史更早开始，此后继续。"
+        },
+        "sources": [
+          {
+            "title": "What Happened at Valley Forge",
+            "publisher": "U.S. National Park Service",
+            "url": "https://www.nps.gov/vafo/learn/historyculture/valley-forge-history-and-significance.htm",
+            "evidenceNote": "Actual source text captured centrally through the root Codex in-app browser and read locally by the regional author. 1777–1778 camp, 19 December 1777 arrival and 19 June 1778 departure, supply/organizational reforms, training, camp diversity, civilians, requisitions and disease. Supports the encampment episode, not independent corroboration of the full Washington lifespan.",
+            "checkedAt": "2026-10-24",
+            "retrieval": "inspected-central-browser-capture"
+          }
+        ],
+        "relatedIds": [
+          "person-george-washington",
+          "american-revolution",
+          "haudenosaunee-revolution-era"
+        ],
+        "expansion": {
+          "workstreams": [
+            "NA3"
+          ],
+          "release": 6,
+          "edition": "v12",
+          "sourceReview": "inspected-source-synthesis",
+          "reviewLimit": {
+            "en": "The principal inspected source is an NPS institutional synthesis, including its 2007 management-plan history. It supports the camp’s social and logistical context; head counts and hut totals that differ within the page are not adopted. No independent archival census or measured causal estimate is claimed.",
+            "zh": "主要已读来源为NPS机构综述，包括2007年管理规划的历史部分。它支持营地的社会与后勤背景；页面内部不同的人数及木屋数字不予采用。不声称独立档案普查或经测量的因果估计。"
+          }
+        }
+      }
+    },
+    {
+      "assetId": "world07-met-453183",
+      "recordId": "golconda-qutbshahi",
+      "decision": "hold",
+      "reason": "Bijapur is an explicit comparison, but dynastic gathering depicts Adil Shahis, not Qutb Shahis; weak addition to production/trade focus.",
+      "asset": {
+        "id": "world07-met-453183",
+        "file": "assets/history-media/world07-met-453183.jpg",
+        "downloadedFrom": "https://images.metmuseum.org/CRDImages/is/web-large/DP231353.jpg",
+        "imageUrl": "https://images.metmuseum.org/CRDImages/is/original/DP231353.jpg",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/453183",
+        "rightsSourceUrl": "https://www.metmuseum.org/art/collection/search/453183",
+        "width": 472,
+        "height": 624,
+        "sha256": "e259d24f3f64e6aacd61aa4f09d14c2d571958bb2545a4d1302667abd9cd51ea",
+        "bytes": 118718,
+        "recordIds": [
+          "bijapur-adilshahi"
+        ],
+        "kind": "artwork",
+        "representation": "historical-artwork",
+        "title": {
+          "en": "The House of Bijapur",
+          "zh": "比贾布尔王室"
+        },
+        "alt": {
+          "en": "Rulers arranged in tiers around a seated central figure.",
+          "zh": "多位君主围绕中央坐像分层排列。"
+        },
+        "caption": {
+          "en": "Kamal Muhammad and Chand Muhammad, The House of Bijapur, about 1680.",
+          "zh": "卡迈勒·穆罕默德与昌德·穆罕默德《比贾布尔王室》，约1680年。"
+        },
+        "interpretation": {
+          "en": "Adil Shahi rulers from different generations gather in a symbolic dynastic assembly. The painting presents a lineage through a single imagined scene.",
+          "zh": "不同世代的阿迪尔沙希君主被汇集在象征性的王朝聚会中，一幅想象的场景呈现王室世系。"
+        },
+        "creator": "Kamal Muhammad and Chand Muhammad",
+        "date": "ca. 1680",
+        "institution": "The Metropolitan Museum of Art",
+        "checkedAt": "2026-11-11",
+        "retrieval": "Institutional object page and per-image open-access flags retained; downloaded bytes decoded and visually reviewed in contact-review-1.jpg and contact-review-2.jpg.",
+        "rights": {
+          "label": "CC0 1.0",
+          "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "note": {
+            "en": "The Metropolitan Museum of Art, Open Access (CC0). Accession 1982.213.",
+            "zh": "大都会艺术博物馆，开放获取（CC0）。藏品编号1982.213。"
+          }
+        },
+        "transformation": {
+          "en": "Museum-provided web derivative saved without local visual edits.",
+          "zh": "保存博物馆提供的网页衍生图，未作本地视觉修改。"
+        }
+      },
+      "target": {
+        "id": "golconda-qutbshahi",
+        "title": {
+          "en": "Golconda: Qutb Shahi rule, diamonds and skilled work",
+          "zh": "戈尔康达：库特布·沙希统治、钻石与技艺"
+        },
+        "start": 1518,
+        "end": 1687,
+        "region": "south-asia",
+        "kind": "polity",
+        "theme": "states",
+        "location": {
+          "lat": 17.38,
+          "lon": 78.4,
+          "label": "Golconda/Hyderabad; representative court region",
+          "labelI18n": {
+            "en": "Golconda/Hyderabad; representative court region",
+            "zh": "戈尔康达／海得拉巴；代表性宫廷地区"
+          },
+          "labelProvenance": "reviewed-display-translation"
+        },
+        "locationPrecision": "representative",
+        "importance": 3,
+        "summary": {
+          "en": "The Qutb Shahi court belonged to the political landscape of the Deccan successor states. Golconda’s connections with diamond and textile commerce drew the region into markets reaching beyond South Asia. Courtly wealth depended on extraction, manufacture and the movement of goods, making the workers and intermediaries behind valuable objects part of political history.\n\nThe Mughal conquest in 1687 changed the sovereign order without ending regional trade or the life of Hyderabad. Dates associated with emerging autonomy, formal dynastic rule and capital construction need not coincide. This entry uses a conventional dynastic frame and a representative court region. It should be read with Bijapur and the textile entry to connect state formation with production and migration, without inferring that commercial influence was identical to directly administered territory.",
+          "zh": "库特布·沙希宫廷属于德干继承国家的政治格局。戈尔康达同钻石、纺织品贸易的联系，把区域接入超出南亚的市场。宫廷财富依赖开采、制造与运输，珍贵器物背后的劳动者和中间环节也因此属于政治史。\n\n1687年的莫卧儿征服改变主权秩序，却没有终止区域贸易或海得拉巴的生活。逐渐取得自主、正式王朝统治和都城营建的日期不必相同。本条采用惯常王朝框架与代表性宫廷区域。与比贾布尔、织品条目并读，可把国家形成与生产、迁移相连，而不把商业影响当成直接管理的领土。"
+        },
+        "dateNote": {
+          "en": "1518–1687 is a conventional formal-dynasty interval; earlier assertions of autonomy yield other start conventions. No fixed capital or border is implied for every year.",
+          "zh": "1518—1687年为正式王朝的惯常分期；若从较早自主活动算起，会出现其他起点。不表示各年都城和疆界固定。"
+        },
+        "sources": [
+          {
+            "title": "Sultans of Deccan India: Exhibition Galleries",
+            "url": "https://www.metmuseum.org/exhibitions/listings/2015/deccan-sultans/exhibition-galleries",
+            "publisher": "The Metropolitan Museum of Art",
+            "evidenceNote": "Five successor courts, cross-regional artisans and migration; exhibition uses 1347–1538 for Bahmani and discusses 1565 and late-1680s conquests.",
+            "checkedAt": "2026-10-23",
+            "retrievalStatus": "page-text-inspected"
+          },
+          {
+            "title": "Deccan i. Political and Literary History",
+            "url": "https://www.iranicaonline.org/articles/deccan/deccan-i-political-and-literary-history/",
+            "publisher": "Encyclopaedia Iranica",
+            "evidenceNote": "Regional political succession and literary traditions; dates use dynastic conventions rather than permanent frontiers.",
+            "checkedAt": "2026-10-23",
+            "retrievalStatus": "page-text-inspected"
+          }
+        ],
+        "relatedIds": [
+          "bijapur-adilshahi",
+          "bahmani-deccan",
+          "mughal-empire"
+        ],
+        "expansion": {
+          "workstreams": [
+            "SA2"
+          ],
+          "release": 2,
+          "sourceReview": "Source-noted synthesis; see individual retrievalStatus and V9_SOUTH_WEST_ASIA_RESEARCH.md. Date windows and pins are editorial references, not verified frontiers."
+        },
+        "countryGroup": "golconda-qutbshahi",
+        "timeline": {
+          "level": "secondary",
+          "label": {
+            "en": "Golconda",
+            "zh": "戈尔康达"
+          }
+        },
+        "keyFacts": {
+          "en": [
+            "The Qutb Shahi court belonged to the political landscape of the Deccan successor states.",
+            "Golconda’s connections with diamond and textile commerce drew the region into markets reaching beyond South Asia."
+          ],
+          "zh": [
+            "库特布·沙希宫廷属于德干继承国家的政治格局。",
+            "戈尔康达同钻石、纺织品贸易的联系，把区域接入超出南亚的市场。"
+          ]
+        }
+      }
+    },
+    {
+      "assetId": "world-batch-03-aksum",
+      "recordId": "aksum-ezana-christianity",
+      "decision": "hold",
+      "reason": "Stelae photograph lacks specific Ezana attribution and does not depict coins/cross conversion evidence. Prefer actual coin imagery.",
+      "asset": {
+        "id": "world-batch-03-aksum",
+        "recordIds": [
+          "aksum"
+        ],
+        "kind": "site",
+        "representation": "site-photograph",
+        "file": "assets/history-media/world-batch-03-aksum.jpg",
+        "sha256": "1162a9a1e1a682cd3f0268eeebcce70a24a6a482a06eddb044c33b728d47ef45",
+        "bytes": 102742,
+        "width": 888,
+        "height": 555,
+        "title": {
+          "en": "Standing and fallen stelae at Aksum",
+          "zh": "阿克苏姆直立与倒卧的石碑"
+        },
+        "alt": {
+          "en": "Tall stone stelae stand beside a much larger broken monument lying on the ground.",
+          "zh": "高耸石碑旁，一座更大的残断石碑横卧地面。"
+        },
+        "caption": {
+          "en": "The stelae field at Aksum, photographed in 2012. Monumental stone building expressed elite and royal authority.",
+          "zh": "2012年拍摄的阿克苏姆石碑区。巨型石构工程表达精英与王室权威。"
+        },
+        "interpretation": {
+          "en": "Compare the scale of standing and fallen stones to consider quarrying, transport and collective labour.",
+          "zh": "比较直立与倒卧石材的尺度，思考开采、运输和集体劳动。"
+        },
+        "creator": "Rod Waddington from Kergunyah, Australia",
+        "date": "2012-10-31",
+        "institution": "Wikimedia Commons / credited photographer",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stelae,_Aksum_(8140296506).jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Stelae%2C_Aksum_%288140296506%29.jpg",
+        "downloadedFrom": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Stelae%2C_Aksum_%288140296506%29.jpg",
+        "checkedAt": "2026-11-11",
+        "rightsSourceUrl": "https://commons.wikimedia.org/wiki/File:Stelae,_Aksum_(8140296506).jpg",
+        "rights": {
+          "label": "CC BY-SA 2.0",
+          "url": "https://creativecommons.org/licenses/by-sa/2.0",
+          "note": {
+            "en": "Photograph: Rod Waddington from Kergunyah, Australia, CC BY-SA 2.0, as stated on the Commons file page. The depicted ancient or medieval architecture predates modern copyright; the photograph retains its separate license. Credit and license must accompany reuse.",
+            "zh": "照片作者：Rod Waddington from Kergunyah, Australia；依Commons文件页采用CC BY-SA 2.0。所摄古代或中世纪建筑早于现代版权，照片本身仍适用独立许可。再次使用须保留署名与许可。"
+          }
+        },
+        "contextSources": [
+          {
+            "title": {
+              "en": "Read the site’s history",
+              "zh": "阅读遗址历史"
+            },
+            "url": "https://whc.unesco.org/en/list/15/"
+          }
+        ],
+        "retrieval": "Commons source-page metadata and UNESCO site description retained in research; delivered JPEG decoded, SHA-256 checked and visually reviewed.",
+        "transformation": {
+          "en": "Commons-provided delivery JPEG preserved byte-for-byte. Any source-page crop or edit belongs to the credited source; no local image editing.",
+          "zh": "逐字节保留Commons提供的JPEG。来源页已有的裁切或编辑属于所署名来源；未在本地编辑图像。"
+        }
+      },
+      "target": {
+        "id": "aksum-ezana-christianity",
+        "title": {
+          "en": "Aksum: royal conversion and Christian coinage",
+          "zh": "阿克苏姆：王室改宗与基督教钱币"
+        },
+        "start": 301,
+        "end": 400,
+        "location": {
+          "lat": 14.13,
+          "lon": 38.72,
+          "label": "Aksum, Ethiopia; royal-center reference point"
+        },
+        "region": "africa",
+        "theme": "culture",
+        "summary": {
+          "en": "Christianity became associated with Aksumite kingship during the fourth century, under King Ezana. Coins provide material evidence: royal issues replaced earlier celestial symbols with the cross. Accounts of the missionary Frumentius help explain the conversion, but these written church traditions and the surviving objects are different kinds of evidence. Aksum already participated in Red Sea exchange through routes connecting its highland center with the port of Adulis. The court’s adoption of a religion therefore belonged to an interconnected African political world. Royal conversion did not mean that every subject immediately became Christian; the wider development of Christian institutions continued across later generations.",
+          "zh": "四世纪埃扎纳国王统治期间，基督教开始与阿克苏姆王权结合。钱币提供了实物证据：王室铸币以十字架取代较早的天体符号。关于传教者弗鲁门提乌斯的记述有助于解释改宗，但教会文字传统与现存器物属于不同种类的证据。阿克苏姆早已通过连接高地中心和阿杜利斯港的道路参与红海交流，因此王室采纳新宗教发生在相互联系的非洲政治世界中。国王改宗并不意味着所有臣民立即成为基督徒；基督教制度的广泛发展还经历了后续许多代人。"
+        },
+        "dateNote": {
+          "en": "The fourth-century window represents an event whose exact year is uncertain, not a century-long conversion ceremony. Ezana’s reign is approximately dated. The pin marks Aksum, not the full kingdom.",
+          "zh": "四世纪的时间窗口表示确切年份尚不确定，并非改宗仪式持续百年。埃扎纳的在位年代也为近似估计。点位标示阿克苏姆城，不代表整个王国。"
+        },
+        "locationPrecision": "representative",
+        "sources": [
+          {
+            "title": "Foundations of Aksumite Civilization and Its Christian Legacy",
+            "url": "https://www.metmuseum.org/essays/foundations-of-aksumite-civilization-and-its-christian-legacy-1st-7th-century",
+            "publisher": "The Metropolitan Museum of Art",
+            "evidenceNote": "Museum synthesis links Ezana, fourth-century Christian coin imagery and earlier Red Sea commerce; distinguishes initial elite conversion from later expansion.",
+            "checkedAt": "2026-10-23"
+          },
+          {
+            "title": "African Christianity in Ethiopia",
+            "url": "https://www.metmuseum.org/essays/african-christianity-in-ethiopia",
+            "publisher": "The Metropolitan Museum of Art",
+            "evidenceNote": "Institutional interpretation compares the Frumentius church tradition with coin evidence and places conversion in the fourth century.",
+            "checkedAt": "2026-10-23"
+          }
+        ],
+        "ongoing": false,
+        "kind": "event",
+        "importance": 3,
+        "keyFacts": {
+          "en": [
+            "Coin symbols give material evidence for a change in royal religious identity.",
+            "Court conversion and wider Christianization unfolded on different timescales."
+          ],
+          "zh": [
+            "钱币图案为王室宗教身份变化提供了实物证据。",
+            "王室改宗与社会更广泛的基督教化有不同的时间进程。"
+          ]
+        },
+        "relatedIds": [
+          "aksum",
+          "meroe-kush",
+          "lalibela-rock-hewn-churches"
+        ]
+      }
+    }
+  ],
+  "editorialDecision": "Six specific, reviewed contexts admitted; eight held and six rejected candidates remain excluded. No new assets or source-rights claims."
+}

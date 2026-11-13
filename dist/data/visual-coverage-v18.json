@@ -3,9 +3,9 @@
   "reviewedAt": "2026-11-13",
   "baselineManifest": "content-expansion-v17.json",
   "total": 2087,
-  "covered": 887,
+  "covered": 893,
   "assets": 489,
-  "percent": 42.50119789171059,
+  "percent": 42.78869190225203,
   "coveredIds": [
     "abbasid-caliphate",
     "abu-simbel-relocation",
@@ -27,6 +27,7 @@
     "ayyubid-dynasty",
     "bagan",
     "bagan-royal-political-phase",
+    "baghdad-foundation",
     "ban-chiang-village-archaeology",
     "banaba-phosphate-displacement",
     "battle-plassey",
@@ -47,6 +48,7 @@
     "bukhara-suzani-shared-needlework",
     "camp-saxton-freedom-community",
     "canadian-confederation",
+    "canadian-national-policy-tariffs-land",
     "cao-zhenxiu-famous-women-album",
     "capetian-dynasty",
     "caracalla-citizenship-edict",
@@ -605,12 +607,14 @@
     "deccan-buddhist-donor-networks",
     "deir-el-medina-workers",
     "dejima-dutch-trading-post",
+    "delano-grape-strike",
     "delhi-sultanate",
     "dholavira",
     "dong-son-bronze-networks",
     "dutch-republic",
     "early-buddhist-teachings-communities",
     "early-chakri-monarchy",
+    "early-christianity-jewish-context",
     "eastern-roman-empire",
     "edo-urban-culture",
     "egypt-ahmose-reunification",
@@ -709,6 +713,7 @@
     "memphis-pyramids",
     "meroe-kush",
     "merovingian-dynasty",
+    "mesopotamia-babylon-assur",
     "mesopotamia-city-rivalry",
     "mexica-triple-alliance",
     "milan-toleration-313",
@@ -849,6 +854,7 @@
     "sikh-kingdom-punjab",
     "singapore-occupation-civilian-experience",
     "songo-mnara-households",
+    "south-africa-election",
     "southern-song",
     "straits-settlements-formation",
     "suez-canal-opening",
@@ -952,7 +958,6 @@
     "bangladesh-liberation",
     "khmer-rouge-cambodia",
     "world-wide-web",
-    "south-africa-election",
     "soviet-union-formation",
     "soviet-union-dissolution",
     "yugoslavia-successor-states",
@@ -981,7 +986,6 @@
     "nigeria-independence",
     "kenya-independence",
     "tanganyika-zanzibar-union",
-    "baghdad-foundation",
     "baghdad-sack-1258",
     "turkish-republic-proclamation",
     "iran-constitutional-movement",
@@ -1063,7 +1067,6 @@
     "china-chu-jingnan-927",
     "china-classics-printing-932",
     "china-salt-iron-debate-81bce",
-    "mesopotamia-babylon-assur",
     "japan-onin-war",
     "egypt-piye-campaign",
     "satavahana-dynasty",
@@ -1298,7 +1301,6 @@
     "hohokam-canal-communities",
     "komagata-maru-exclusion",
     "japanese-canadian-dispossession",
-    "delano-grape-strike",
     "gulf-georgia-cannery-labour",
     "garifuna-displacement-continuity",
     "cuba-literacy-campaign",
@@ -1340,7 +1342,6 @@
     "memphis-sanitation-strike-1968",
     "penn-school-freedom-education",
     "champlain-mapping-knowledge-exchange",
-    "canadian-national-policy-tariffs-land",
     "saskatchewan-medicare-1962",
     "marathon-hope-public-fundraising",
     "fort-mandan-indigenous-knowledge",
@@ -1372,7 +1373,6 @@
     "khalsa-anandpur-1699",
     "jewish-communities-second-temple",
     "rabbinic-judaism-after-70",
-    "early-christianity-jewish-context",
     "christian-jewish-communities-late-antiquity",
     "ur-copper-complaint-tablet",
     "babylonian-recipe-tablets",
@@ -2099,11 +2099,11 @@
   ],
   "target": 1044,
   "targetMet": false,
-  "remaining": 157,
+  "remaining": 151,
   "regions": {
     "africa": {
       "total": 136,
-      "covered": 46
+      "covered": 47
     },
     "east-asia": {
       "total": 1216,
@@ -2119,7 +2119,7 @@
     },
     "north-america": {
       "total": 123,
-      "covered": 42
+      "covered": 44
     },
     "oceania": {
       "total": 89,
@@ -2135,7 +2135,7 @@
     },
     "west-central-asia": {
       "total": 111,
-      "covered": 36
+      "covered": 39
     }
   },
   "types": {
@@ -2403,6 +2403,13 @@
       "sha256": "7f431206dd2e2b7b664276324551002929079eee7f83e1e2f296688606dbc31a",
       "assets": 0,
       "associations": 3
+    },
+    {
+      "file": "visual-assets-existing-world-links-08-v18.json",
+      "bytes": 4671,
+      "sha256": "21a173a65ce91424e039face8d109892aa34c4e0fbcd009558b1dea8cb909580",
+      "assets": 0,
+      "associations": 6
     },
     {
       "file": "visual-assets-getty-images-02-v18.json",
