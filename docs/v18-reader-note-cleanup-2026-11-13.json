@@ -1,0 +1,162 @@
+{
+  "reviewedAt": "2026-11-13",
+  "purpose": "Replace internal edit commentary and repeated defensive qualifications with useful dates, source chronology and map context. Historical dates, coordinates, credited images and source links are unchanged.",
+  "edits": [
+    {
+      "recordId": "china-landmark-344",
+      "field": "dateNote",
+      "before": {
+        "en": "582–583: construction order and naming, followed by the court’s move. This corrects the inherited 584 anchor.",
+        "zh": "582—583年：下令营建、命名，再迁入新都；据本纪校正原条目的584年。"
+      },
+      "after": {
+        "en": "The court ordered and named the new capital in 582, then moved there in 583.",
+        "zh": "582年下令营建并命名新都，583年朝廷迁入。"
+      }
+    },
+    {
+      "recordId": "china-landmark-083",
+      "field": "dateNote",
+      "before": {
+        "en": "610 anchors the order for this corridor; it does not date the beginning of all Hangzhou water transport. The historical li are not converted into precise modern kilometres.",
+        "zh": "610年标示此区段的开河命令，并非杭州水运的起点；原文里数不换算为精确现代公里数。"
+      },
+      "after": {
+        "en": "In the twelfth lunar month of 610, the court ordered the Jiangnan Canal from Jingkou to Yuhang, present-day Hangzhou.",
+        "zh": "610年农历十二月，朝廷下令开江南河，自京口至余杭，即今杭州。"
+      }
+    },
+    {
+      "recordId": "china-landmark-305",
+      "field": "dateNote",
+      "before": {
+        "en": "89 BCE follows the Zizhi Tongjian’s Zhenghe 4 sequence. The court reference point does not establish the decree’s exact place of issue.",
+        "zh": "前89年据《资治通鉴》征和四年的编排；朝廷参考点不表示已核实诏令发布地点。"
+      },
+      "after": {
+        "en": "89 BCE, Zhenghe 4 in the Zizhi Tongjian. The map marks the imperial court rather than a documented place of issue.",
+        "zh": "前89年，即《资治通鉴》的征和四年。地图标示朝廷所在，并非有文献确定的诏令发布地。"
+      }
+    },
+    {
+      "recordId": "china-event-qin-004",
+      "field": "dateNote",
+      "before": {
+        "en": "213 BCE is the thirty-fourth year of Qin Shi Huang in the Shiji; the following-year killings are kept separate.",
+        "zh": "前213年为《史记》秦始皇三十四年；次年的杀戮另作区分。"
+      },
+      "after": {
+        "en": "213 BCE is Qin Shi Huang’s thirty-fourth regnal year. The Shiji places the Xianyang killings in the following year.",
+        "zh": "前213年为秦始皇三十四年。《史记》将咸阳的杀戮记在次年。"
+      }
+    },
+    {
+      "recordId": "china-event-tang-006",
+      "field": "dateNote",
+      "before": {
+        "en": "635, Zhenguan 9 in Li Jing’s biography; the inherited Fusicheng pin represents one campaign location, not the full route.",
+        "zh": "635年，即李靖本传的贞观九年；继承的伏俟城点位代表行军地点之一，并非全程路线。"
+      },
+      "after": {
+        "en": "635, Zhenguan 9. The map marks Fusicheng, one stop in the campaign described by Li Jing’s biography.",
+        "zh": "635年，即贞观九年。地图标示伏俟城，是李靖本传所述行军地点之一。"
+      }
+    },
+    {
+      "recordId": "china-event-tang-006",
+      "field": "summary",
+      "before": {
+        "en": "Li Jing commanded the Tang expedition against Tuyuhun in 635. His biography describes advancing from Fusicheng despite a shortage of horse fodder and crossing Jishi Mountain. After Tuyuhun’s defeat, Murong Shun was installed as its ruler. The account describes a violent change of leadership, rather than Khan Fuyun surrendering.",
+        "zh": "635年，李靖统率唐军出征吐谷浑。本传记载，军队行至伏俟城后面临马草不足，他仍推进越过积石山。吐谷浑败后，慕容顺获立。记载描述的是伴随暴力的首领更替，而非伏允可汗降唐。"
+      },
+      "after": {
+        "en": "Li Jing commanded the Tang expedition against Tuyuhun in 635. His biography describes advancing from Fusicheng despite a shortage of horse fodder and crossing Jishi Mountain. After Tuyuhun’s defeat and a violent change of leadership, Murong Shun was installed as its ruler.",
+        "zh": "635年，李靖统率唐军出征吐谷浑。本传记载，军队行至伏俟城后面临马草不足，他仍推进越过积石山。吐谷浑败后，经历了伴随暴力的首领更替，慕容顺获立。"
+      }
+    },
+    {
+      "recordId": "china-landmark-086",
+      "field": "dateNote",
+      "before": {
+        "en": "1142 is retained for the late twelfth lunar month of Shaoxing 11; no exact converted day or Fengbo Pavilion site is asserted.",
+        "zh": "保留1142年，对应绍兴十一年农历十二月末；不强定换算后的某一天，也不将风波亭认作确证地点。"
+      },
+      "after": {
+        "en": "Early 1142 corresponds to the end of Shaoxing 11 in the traditional calendar. The annal names the Court of Judicial Review as the place of Yue Fei’s death.",
+        "zh": "公元1142年初对应传统历法的绍兴十一年末。本纪记岳飞赐死于大理寺。"
+      }
+    },
+    {
+      "recordId": "china-landmark-336",
+      "field": "dateNote",
+      "before": {
+        "en": "383 anchors the Fei River campaign. Troop numbers are attributed to the later Jin History, not treated as a modern audited count.",
+        "zh": "383年为淝水战役的时间锚点；兵力数字归于后世《晋书》的记载，并非现代核验的统计。"
+      },
+      "after": {
+        "en": "383. The troop numbers come from the Jin History, compiled several centuries after the battle.",
+        "zh": "383年。兵力数字据战后数百年编成的《晋书》。"
+      }
+    },
+    {
+      "recordId": "china-landmark-336",
+      "field": "summary",
+      "before": {
+        "en": "In 383, Xie Xuan served as vanguard commander alongside Xie Shi, Xie Yan and other Jin commanders. The Jin History assigns 80,000 troops to their combined force. It describes Xie Xuan, Xie Yan and Huan Yi crossing the river after the opposing army’s withdrawal became disordered. The portrait recalls one commander within that larger coalition.",
+        "zh": "383年，谢玄任前锋，与谢石、谢琰等共同迎击前秦。《晋书》所记八万人是诸军总数；书中记述秦军后撤失序后，谢玄、谢琰、桓伊等率军渡河进击。画像呈现的是这支联合军队中的一位将领。"
+      },
+      "after": {
+        "en": "In 383, Xie Xuan served as vanguard commander alongside Xie Shi, Xie Yan and other Jin commanders. The Jin History assigns 80,000 troops to their combined force. It describes Xie Xuan, Xie Yan and Huan Yi crossing the river after the opposing army’s withdrawal became disordered.",
+        "zh": "383年，谢玄任前锋，与谢石、谢琰等共同迎击前秦。《晋书》所记八万人是诸军总数；书中记述秦军后撤失序后，谢玄、谢琰、桓伊等率军渡河进击。"
+      }
+    },
+    {
+      "recordId": "china-landmark-365",
+      "field": "dateNote",
+      "before": {
+        "en": "757; the retained city coordinate represents Chang’an, not an exact battlefield at Xiangji Temple.",
+        "zh": "757年；保留的城市坐标代表长安，并非香积寺战场的精确位置。"
+      },
+      "after": {
+        "en": "757. The map marks Chang’an; the battle described here took place north of Xiangji Temple.",
+        "zh": "757年。地图标示长安；这里叙述的战斗发生在香积寺北。"
+      }
+    },
+    {
+      "recordId": "china-landmark-474",
+      "field": "dateNote",
+      "before": {
+        "en": "369, Taihe 4 in the Jin History. The Fangtou pin marks the advance, not the later defeat at Xiangyi.",
+        "zh": "369年，即《晋书》的太和四年。枋头点位标示进军所至，不是随后襄邑败战的地点。"
+      },
+      "after": {
+        "en": "369, Taihe 4. Fangtou marks the furthest advance; the defeat at Xiangyi followed during the retreat.",
+        "zh": "369年，即太和四年。枋头标示进军所至，襄邑败战发生在此后的退途中。"
+      }
+    },
+    {
+      "recordId": "china-landmark-408",
+      "field": "dateNote",
+      "before": {
+        "en": "1273, Zhiyuan 10. The Xiangyang pin represents the surrendered city; the account does not place Kublai personally at the siege.",
+        "zh": "1273年，即至元十年。襄阳点位代表投降的城市；叙述不据此认定忽必烈亲临围城现场。"
+      },
+      "after": {
+        "en": "1273, Zhiyuan 10. The annals place Fancheng’s capture in the first lunar month and Xiangyang’s surrender in the second.",
+        "zh": "1273年，即至元十年。本纪记樊城于农历正月被攻下，襄阳于二月投降。"
+      }
+    },
+    {
+      "recordId": "china-landmark-511",
+      "field": "dateNote",
+      "before": {
+        "en": "1880. The memorial distinguishes an intended third-month departure from the later departure report; no exact arrival day is assigned.",
+        "zh": "1880年。奏折区分原定三月启程与其后实际出关的报告，不强定到达哈密的某一天。"
+      },
+      "after": {
+        "en": "1880. The planned third-month departure was delayed; Zuo’s later memorial reports his departure toward Hami.",
+        "zh": "1880年。原定农历三月启程的计划延后，左宗棠在其后的奏折中报告出关赴哈密。"
+      }
+    }
+  ]
+}

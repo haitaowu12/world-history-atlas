@@ -3,9 +3,9 @@
   "reviewedAt": "2026-11-13",
   "baselineManifest": "content-expansion-v17.json",
   "total": 2087,
-  "covered": 1018,
+  "covered": 1020,
   "assets": 545,
-  "percent": 48.77815045519885,
+  "percent": 48.873981792045996,
   "coveredIds": [
     "abbasid-caliphate",
     "abu-simbel-relocation",
@@ -177,6 +177,7 @@
     "china-event-sanguo-011",
     "china-event-sanguo-013",
     "china-event-sanguo-014",
+    "china-event-sanguo-015",
     "china-event-sui-001",
     "china-event-sui-005",
     "china-event-sui-006",
@@ -786,6 +787,7 @@
     "lambayeque-sican-craft",
     "lamu-households-learning",
     "liangzhu",
+    "liu-song-dynasty",
     "louisiana-purchase",
     "lubeck-hanseatic-trade",
     "lumbini-ashoka-pillar-249-bce",
@@ -1163,7 +1165,6 @@
     "cartagena-port-fortifications",
     "mexico-constitution-1917",
     "brasilia-new-capital",
-    "liu-song-dynasty",
     "southern-qi-dynasty",
     "liang-dynasty",
     "chen-dynasty",
@@ -1712,7 +1713,6 @@
     "china-landmark-123",
     "china-landmark-461",
     "china-landmark-093",
-    "china-event-sanguo-015",
     "china-event-sanguo-016",
     "china-landmark-040",
     "china-event-xijin-003",
@@ -2099,7 +2099,7 @@
   ],
   "target": 1044,
   "targetMet": false,
-  "remaining": 26,
+  "remaining": 24,
   "regions": {
     "africa": {
       "total": 136,
@@ -2107,7 +2107,7 @@
     },
     "east-asia": {
       "total": 1216,
-      "covered": 637
+      "covered": 639
     },
     "europe": {
       "total": 122,
@@ -2537,6 +2537,13 @@
       "sha256": "f78baf490bb1e354bb5bcda3b51b2bb0531728aee019d9212a38c20329f7324c",
       "assets": 0,
       "associations": 6
+    },
+    {
+      "file": "visual-assets-exact-links-20-v18.json",
+      "bytes": 1066,
+      "sha256": "ee1d3ee2a79a5570ab4ddf315bfb68c57494f58c566e6ac494b6da63c671cead",
+      "assets": 0,
+      "associations": 2
     },
     {
       "file": "visual-assets-existing-links-01-v18.json",

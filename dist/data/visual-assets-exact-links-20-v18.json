@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "reviewedAt": "2026-11-13",
+  "items": [],
+  "associations": [
+    {
+      "assetId": "china-batch-06-liuyu",
+      "recordId": "liu-song-dynasty",
+      "role": "named-person",
+      "context": {
+        "en": "Liu Yu, founder of Liu Song, in an anonymous Qing-dynasty portrait.",
+        "zh": "刘宋开国君主刘裕的清代佚名画像。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/宋書/卷3",
+      "checkedAt": "2026-11-13"
+    },
+    {
+      "assetId": "china-batch-08-sunquan-jinwudi",
+      "recordId": "china-event-sanguo-015",
+      "role": "named-person",
+      "context": {
+        "en": "Sima Yan, who launched the campaign, appears at left in this undated historical portrait album; Wu’s earlier founder Sun Quan appears at right.",
+        "zh": "发动伐吴战争的司马炎位于这幅年代未定的历史肖像对开左页，右页为吴国早先的创建者孙权。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/晉書/卷003",
+      "checkedAt": "2026-11-13"
+    }
+  ]
+}

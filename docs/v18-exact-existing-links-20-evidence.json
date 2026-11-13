@@ -1,0 +1,81 @@
+{
+  "reviewedAt": "2026-11-13",
+  "associations": [
+    {
+      "assetId": "china-batch-06-liuyu",
+      "recordId": "liu-song-dynasty",
+      "role": "named-person",
+      "context": {
+        "en": "Liu Yu, founder of Liu Song, in an anonymous Qing-dynasty portrait.",
+        "zh": "刘宋开国君主刘裕的清代佚名画像。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/宋書/卷3",
+      "checkedAt": "2026-11-13"
+    },
+    {
+      "assetId": "china-batch-08-sunquan-jinwudi",
+      "recordId": "china-event-sanguo-015",
+      "role": "named-person",
+      "context": {
+        "en": "Sima Yan, who launched the campaign, appears at left in this undated historical portrait album; Wu’s earlier founder Sun Quan appears at right.",
+        "zh": "发动伐吴战争的司马炎位于这幅年代未定的历史肖像对开左页，右页为吴国早先的创建者孙权。"
+      },
+      "evidenceUrl": "https://zh.wikisource.org/wiki/晉書/卷003",
+      "checkedAt": "2026-11-13"
+    }
+  ],
+  "chinaReview": {
+    "id": "china-event-sanguo-015",
+    "patch": {
+      "title": {
+        "en": "Sima Yan’s court launches the campaign against Wu",
+        "zh": "司马炎朝廷发动伐吴战争"
+      },
+      "summary": {
+        "en": "In the eleventh lunar month of 279, Sima Yan’s court dispatched armies against Wu along six approaches. Wang Jun and Tang Bin brought forces downstream from Bashu, while Du Yu advanced toward Jiangling. Jia Chong was appointed overall commander. The offensive continued into 280, when Wu surrendered.",
+        "zh": "279年农历十一月，司马炎朝廷部署六路军队进攻吴国。王濬、唐彬率巴蜀军队顺江而下，杜预向江陵进军，贾充受命总督诸军。战事延续至280年，吴国随后投降。"
+      },
+      "dateNote": {
+        "en": "The deployment began in 279; the annals record Wu’s surrender in 280. Jiangling is one campaign location, not Sima Yan’s personal position.",
+        "zh": "279年开始部署，本纪记吴国于280年投降。江陵是战役地点之一，并非司马炎本人所在。"
+      },
+      "location": {
+        "lon": 112.241,
+        "lat": 30.331,
+        "label": "Jiangling area, representative campaign location",
+        "labelI18n": {
+          "en": "Jiangling area, representative campaign location",
+          "zh": "江陵地区，战役代表位置"
+        },
+        "labelProvenance": "inherited-source-place-pair"
+      }
+    },
+    "sources": [
+      {
+        "title": "Jin History 3: Xianning 5 and Taikang 1",
+        "url": "https://zh.wikisource.org/wiki/晉書/卷003",
+        "publisher": "Wikisource transcription of the historical text",
+        "checkedAt": "2026-11-13",
+        "retrieval": "Read the deployment and subsequent surrender passages directly.",
+        "evidenceNote": "Six approaches, Wang Jun and Tang Bin downstream, Du Yu toward Jiangling and Jia Chong’s command in 279; surrender recorded separately in 280.",
+        "evidenceNoteZh": "279年六路进军，王濬、唐彬顺江而下，杜预向江陵，贾充总督；280年另记投降。"
+      }
+    ],
+    "note": {
+      "en": "Distinguished the deployment year and surrender year; corrected a two-city label attached to one representative coordinate.",
+      "zh": "区分部署之年与投降之年，校正单一代表坐标所附的两城标签。"
+    }
+  },
+  "summaryChange": {
+    "recordId": "liu-song-dynasty",
+    "before": {
+      "en": "Liu Song ruled from Jiankang between 420 and 479, succeeding Eastern Jin while Northern Wei governed in the north. Southern Qi, Liang and Chen followed it in the sequence of southern courts. These changes of ruling house formed part of a longer history of institutions and cultural exchange across political divisions.\n\nThis fifth-century Song dynasty is distinct from the Song founded in 960.",
+      "zh": "刘宋于420至479年以建康为都，继承东晋，与北方的北魏并立。其后南方朝廷依次为南齐、梁、陈。统治家族的更替，嵌于制度延续与跨越政治分界的文化交流之中。\n\n这个五世纪的宋朝，与960年建立的宋朝不同。"
+    },
+    "after": {
+      "en": "In 420, Liu Yu took the imperial title and replaced Eastern Jin with Song, ruling from Jiankang. His accession decrees ordered remission of overdue taxes and debts; subsequent orders addressed official purchasing and market taxes. The surviving portrait presents him as a dynastic founder through Qing-era eyes.\n\nLiu Song lasted until 479, alongside Northern Wei in the north, and was followed by Southern Qi. It is distinct from the Song founded in 960.",
+      "zh": "420年，刘裕即皇帝位，建立宋朝，取代东晋，以建康为都。即位诏令要求免除积欠租税与债务，随后又下令整顿官府采购、减轻市税。存世画像以清代的视角呈现这位开国君主。\n\n刘宋与北魏并立，延续至479年，之后由南齐继承；它与960年建立的宋朝不同。"
+    }
+  },
+  "verification": "Exact named rulers, not generic regional links. Source passages inspected by curator and owner. Existing image bytes, qualified dates and credits unchanged. The Sima Yan/Sun Quan pair explicitly distinguishes left and right and an earlier Wu founder from the ruler at surrender."
+}

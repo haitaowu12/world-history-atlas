@@ -21,7 +21,7 @@ test('Luoyang distinguishes the 605 orders from completion in 606',()=>{
 test('Jiangnan companions explicitly follow one project without asserting network-wide completion',()=>{
  const a=records.get('china-event-sui-008'),b=records.get('china-landmark-083');
  assert.ok(a.relatedIds.includes(b.id));assert.ok(b.relatedIds.includes(a.id));
- assert.match(a.summary.en,/same project/);assert.match(b.summary.en,/same works/);assert.match(a.dateNote.en,/records an order/);assert.match(b.dateNote.en,/not converted/);
+ assert.match(a.summary.en,/same project/);assert.match(b.summary.en,/same works/);assert.match(a.dateNote.en,/records an order/);assert.match(b.dateNote.en,/court ordered.*Jingkou to Yuhang/);assert.doesNotMatch(b.summary.en,/kilometres|\d+\s*km/);
  assert.match(a.location.labelI18n.en,/outside the named corridor/);assert.equal(a.start,610);assert.equal(b.start,610);
 });
 test('Mongol narratives distinguish reported force strength, chronology and later administration',()=>{

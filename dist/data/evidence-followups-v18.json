@@ -1225,5 +1225,28 @@
       "en": "Added the exact edition source and preserved existing references.",
       "zh": "新增具体版本来源，保留既有参考资料。"
     }
+  },
+  {
+    "recordId": "liu-song-dynasty",
+    "checkedAt": "2026-11-13",
+    "sources": [
+      {
+        "title": "Song History (Songshu) 3: Liu Yu’s accession, Yongchu 1",
+        "url": "https://zh.wikisource.org/wiki/宋書/卷3",
+        "publisher": "Wikisource transcription of Shen Yue’s Songshu",
+        "checkedAt": "2026-11-13",
+        "retrieval": "Accession and subsequent fiscal orders read directly.",
+        "evidenceNote": "The accession annal names Liu Yu, Jiankang and the new era; it records tax/debt remission and later official-purchase and market-tax orders.",
+        "evidenceNoteZh": "即位本纪记刘裕、建康与改元，并载免租债及其后官府采购、市税等命令。"
+      }
+    ],
+    "reviewLimit": {
+      "en": "This annal records the ruler’s orders; their complete implementation is not established by the decrees. The museum chronology remains the source for the dynasty’s full span.",
+      "zh": "本纪记统治者的命令，并不能单凭诏令证明全面执行；王朝完整时段仍据博物馆年表。"
+    },
+    "note": {
+      "en": "Added the founder’s accession text while retaining the institutional chronology.",
+      "zh": "补充开国君主即位文本，保留机构年表来源。"
+    }
   }
 ]
