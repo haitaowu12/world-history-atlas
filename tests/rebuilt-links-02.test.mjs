@@ -7,7 +7,7 @@ const records=new Map(loadAtlasRecords().records.map(r=>[r.id,r]));
 const link=id=>shard.associations.find(x=>x.recordId===id);
 test('ten rebuilt image contexts add nine distinct entries without inventing assets',()=>{
  assert.equal(shard.items.length,0);assert.equal(shard.associations.length,10);assert.equal(new Set(shard.associations.map(x=>x.recordId)).size,9);
- const c=readAtlasData('visual-coverage-v18.json');assert.equal(c.covered,912);assert.equal(c.assets,506);assert.equal(c.remaining,132);
+ const c=readAtlasData('visual-coverage-v18.json');assert.equal(c.covered,923);assert.equal(c.assets,517);assert.equal(c.remaining,121);
  for(const a of shard.associations){assert.ok(records.has(a.recordId));assert.ok(c.coveredIds.includes(a.recordId));assert.ok(a.context.en&&a.context.zh&&a.evidenceUrl);}
 });
 test('rebuilt contexts distinguish later artworks, collective scenes and comparison sites',()=>{

@@ -1,0 +1,417 @@
+{
+  "sourceEvidence": {
+    "verifiedAt": "2026-11-13",
+    "downloaded": 6,
+    "pixelInspected": 6,
+    "proposed": 5,
+    "ownerReviewRequired": [
+      452774,
+      365313,
+      761576
+    ],
+    "readyDirectMatches": [
+      240230,
+      468231
+    ],
+    "held": [
+      {
+        "id": 445995,
+        "reason": "Authentic reusable separate animal carpet from Ardabil shrine. Not the exact1539/40 inscribed pair; same shrine alone insufficient for main image of exact-object workshop entry. No proposal."
+      }
+    ],
+    "excluded": [
+      {
+        "id": 360887,
+        "reason": "Official page no image available and download disabled; no API or image request."
+      },
+      {
+        "id": 126645,
+        "reason": "Official record says Palestine, not Bethlehem; avoid assigning specific city from Wikimedia filename. No download."
+      },
+      {
+        "id": 241847,
+        "reason": "Inscribed cippus postdates Phoenician focus; replaced by seventh-century jug240230."
+      },
+      {
+        "url": "https://www.si.edu/object/fsg_F1946.26",
+        "reason": "Web open404; no further request or image download."
+      }
+    ],
+    "cautions": [
+      {
+        "id": 452774,
+        "note": "Preserve prior dispute: same official page calls tile group palace excavation in first passage, house destroyed1221 in second. New proposal makes no building/patron claim. First passage explicitly dates group by stratigraphy to early13th-century Ghurid rule. Owner must decide if object-level ceramic evidence sufficient. Pixels show yellow glaze and animal, NOT turquoise glaze or beaded border; group-wide decorative description was not assigned to exact object."
+      },
+      {
+        "id": 365313,
+        "note": "1499 roman-type illustrated book, not1501italicVirgil. Official page explicitly credits Griffo and Aldus; proposed comparison concerns earlier design collaboration and different page-reader format. Requires narrative addition."
+      },
+      {
+        "id": 761576,
+        "note": "1738/39object slightly after1685–1737window. Source explicitly identifies maker as son of Huguenot emigrants and childhood moveLondon. Proposed next-generation craft and tea/sugar elite-consumption comparison, not migration-event illustration."
+      }
+    ],
+    "rights": "All six downloaded items have individual official page PublicDomain and APIisPublicDomain=true. Official derivatives unchanged, hashes/bytes in receipts; APImetadata retained.",
+    "scope": "Research only. No production/Git/deploy/Actions writes. Proposed summaries snapshot from atlas-next; current validator uses that separate checkout."
+  },
+  "admittedAssets": [
+    {
+      "id": "world-new-07-met-240230",
+      "recordIds": [
+        "phoenician-maritime-cities"
+      ],
+      "kind": "object",
+      "representation": "object-photograph",
+      "title": {
+        "en": "A jug shape travelled across the Mediterranean",
+        "zh": "陶壶形制跨越地中海"
+      },
+      "alt": {
+        "en": "A reddish terracotta jug has a narrow neck, a pinched three-lobed mouth and one handle.",
+        "zh": "红褐色陶壶有细长颈部、捏成三瓣的壶口与单侧把手。"
+      },
+      "caption": {
+        "en": "Phoenician terracotta trefoil jug, seventh century BCE; Met 74.51.643.",
+        "zh": "腓尼基三瓣口陶壶，前七世纪；大都会74.51.643。"
+      },
+      "interpretation": {
+        "en": "This vessel type was imported into Cyprus and also made there. Shared shapes record exchange without implying a single territorial state.",
+        "zh": "此类器形既输入塞浦路斯，也在当地制作。共享形制记录交流，并不意味着统一的领土国家。"
+      },
+      "creator": "Unrecorded maker",
+      "date": "7th century BCE",
+      "institution": "The Metropolitan Museum of Art",
+      "credit": "The Cesnola Collection, Purchased by subscription, 1874–76",
+      "file": "assets/history-media/world-new-07-met-240230.jpg",
+      "imageUrl": "https://images.metmuseum.org/CRDImages/gr/web-large/DP-35257-004.jpg",
+      "downloadedFrom": "https://images.metmuseum.org/CRDImages/gr/web-large/DP-35257-004.jpg",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/240230",
+      "rightsSourceUrl": "https://www.metmuseum.org/art/collection/search/240230",
+      "width": 500,
+      "height": 625,
+      "bytes": 77972,
+      "sha256": "9a33bbf2fc6f601037a9c07587947123f5be5f6e85815e0db935be9c489d6ca0",
+      "rights": {
+        "label": "Public Domain / CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "Official item page marks the image Public Domain; the saved API record confirms isPublicDomain=true.",
+          "zh": "官方单件页面标注图像为公共领域；所存API记录确认isPublicDomain=true。"
+        }
+      },
+      "transformation": {
+        "en": "Official derivative saved unchanged.",
+        "zh": "原样保存官方衍生图。"
+      },
+      "checkedAt": "2026-11-13"
+    },
+    {
+      "id": "world-new-07-met-452774",
+      "recordIds": [
+        "ghurid-dynasty"
+      ],
+      "kind": "object",
+      "representation": "object-photograph",
+      "title": {
+        "en": "A glazed tile from Ghurid-era Ghazni",
+        "zh": "古尔王朝时期加兹尼的釉砖"
+      },
+      "alt": {
+        "en": "A yellow-glazed hexagonal tile bears a running animal in relief; patches of glaze are missing.",
+        "zh": "黄釉六边形砖上有一只奔跑动物的浮雕，部分釉面已经脱落。"
+      },
+      "caption": {
+        "en": "Hexagonal molded stonepaste tile, early thirteenth century, found at Ghazni; Met 1975.193.7.",
+        "zh": "六边形模制石英陶砖，十三世纪初，发现于加兹尼；大都会1975.193.7。"
+      },
+      "interpretation": {
+        "en": "Excavation stratigraphy places this tile group in Ghazni’s Ghurid period. Its animal relief adds architectural decoration to the history of conquest.",
+        "zh": "发掘地层将这组砖定于加兹尼的古尔统治时期。动物浮雕为征服史补入建筑装饰的实物。"
+      },
+      "creator": "Unrecorded maker",
+      "date": "early 13th century",
+      "institution": "The Metropolitan Museum of Art",
+      "credit": "Gift of Marjorie Schwarz, in memory of Herbert F. and Dorothy C. Schwarz, 1975",
+      "file": "assets/history-media/world-new-07-met-452774.jpg",
+      "imageUrl": "https://images.metmuseum.org/CRDImages/is/web-large/sf1975-193-7.jpg",
+      "downloadedFrom": "https://images.metmuseum.org/CRDImages/is/web-large/sf1975-193-7.jpg",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/452774",
+      "rightsSourceUrl": "https://www.metmuseum.org/art/collection/search/452774",
+      "width": 600,
+      "height": 401,
+      "bytes": 56317,
+      "sha256": "054d4719187c9f4a55296b2e0a468bb0b64a6e2eeb68e22a47e4392c2115a2ea",
+      "rights": {
+        "label": "Public Domain / CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "Official item page marks the image Public Domain; the saved API record confirms isPublicDomain=true.",
+          "zh": "官方单件页面标注图像为公共领域；所存API记录确认isPublicDomain=true。"
+        }
+      },
+      "transformation": {
+        "en": "Official derivative saved unchanged.",
+        "zh": "原样保存官方衍生图。"
+      },
+      "checkedAt": "2026-11-13"
+    },
+    {
+      "id": "world-new-07-met-365313",
+      "recordIds": [
+        "aldus-griffo-portable-classics-1501"
+      ],
+      "kind": "object",
+      "representation": "object-photograph",
+      "title": {
+        "en": "Before the pocket classics: Aldus and Griffo in 1499",
+        "zh": "便携古典书之前：1499年的阿尔杜斯与格里福"
+      },
+      "alt": {
+        "en": "An open printed book pairs dense type with a woodcut scene.",
+        "zh": "摊开的印本将密集排字与木刻场景结合。"
+      },
+      "caption": {
+        "en": "Hypnerotomachia Poliphili, published by Aldus in December 1499, with roman type by Griffo; Met 23.73.1.",
+        "zh": "《寻爱绮梦》，阿尔杜斯于1499年12月出版，采用格里福设计的罗马体；大都会23.73.1。"
+      },
+      "interpretation": {
+        "en": "Griffo designed its roman type. This earlier collaboration provides a comparison with the portable italic editions that followed.",
+        "zh": "格里福为此书设计罗马体字。较早的合作为随后出现的便携斜体版本提供了对照。"
+      },
+      "creator": "Francesco Colonna",
+      "date": "December 1499",
+      "institution": "The Metropolitan Museum of Art",
+      "credit": "Gift of J. Pierpont Morgan, 1923",
+      "file": "assets/history-media/world-new-07-met-365313.jpg",
+      "imageUrl": "https://images.metmuseum.org/CRDImages/dp/web-large/DP102816.jpg",
+      "downloadedFrom": "https://images.metmuseum.org/CRDImages/dp/web-large/DP102816.jpg",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/365313",
+      "rightsSourceUrl": "https://www.metmuseum.org/art/collection/search/365313",
+      "width": 600,
+      "height": 424,
+      "bytes": 91115,
+      "sha256": "78e555c265b51a99d59e8c3745af467c328e40b1a4189a22c50b4be88626a598",
+      "rights": {
+        "label": "Public Domain / CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "Official item page marks the image Public Domain; the saved API record confirms isPublicDomain=true.",
+          "zh": "官方单件页面标注图像为公共领域；所存API记录确认isPublicDomain=true。"
+        }
+      },
+      "transformation": {
+        "en": "Official derivative saved unchanged.",
+        "zh": "原样保存官方衍生图。"
+      },
+      "checkedAt": "2026-11-13"
+    },
+    {
+      "id": "world-new-07-met-468231",
+      "recordIds": [
+        "santiago-medieval-pilgrimage-infrastructure"
+      ],
+      "kind": "object",
+      "representation": "object-photograph",
+      "title": {
+        "en": "Saint James wears the pilgrim’s shell",
+        "zh": "圣雅各佩戴朝圣者的贝壳"
+      },
+      "alt": {
+        "en": "A standing stone saint wears a brimmed hat and heavy draped clothing and holds a book.",
+        "zh": "站立石雕圣人戴有帽檐的帽子，披厚重衣袍，手持书本。"
+      },
+      "caption": {
+        "en": "Saint James the Greater, Poligny, France, about 1450–1475; limestone with traces of paint, Met 47.101.17.",
+        "zh": "大圣雅各，法国波利尼，约1450—1475年；带残余彩绘的石灰石，大都会47.101.17。"
+      },
+      "interpretation": {
+        "en": "The shell on the hat marks the saint as a pilgrim. This is a French devotional sculpture, not a sculpture from the Santiago shrine.",
+        "zh": "帽上的贝壳标示朝圣者身份。这是法国礼拜雕塑，并非圣地亚哥圣地的雕像。"
+      },
+      "creator": "Unrecorded maker",
+      "date": "ca. 1450–75",
+      "institution": "The Metropolitan Museum of Art",
+      "credit": "The Cloisters Collection, 1947",
+      "file": "assets/history-media/world-new-07-met-468231.jpg",
+      "imageUrl": "https://images.metmuseum.org/CRDImages/cl/web-large/DP144073.jpg",
+      "downloadedFrom": "https://images.metmuseum.org/CRDImages/cl/web-large/DP144073.jpg",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/468231",
+      "rightsSourceUrl": "https://www.metmuseum.org/art/collection/search/468231",
+      "width": 468,
+      "height": 624,
+      "bytes": 52834,
+      "sha256": "441b9f5914f5eae785b1b9524099e9248500b490d6ed736d8aced6d7aafeafa6",
+      "rights": {
+        "label": "Public Domain / CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "Official item page marks the image Public Domain; the saved API record confirms isPublicDomain=true.",
+          "zh": "官方单件页面标注图像为公共领域；所存API记录确认isPublicDomain=true。"
+        }
+      },
+      "transformation": {
+        "en": "Official derivative saved unchanged.",
+        "zh": "原样保存官方衍生图。"
+      },
+      "checkedAt": "2026-11-13"
+    },
+    {
+      "id": "world-new-07-met-761576",
+      "recordIds": [
+        "huguenot-refugee-settlement"
+      ],
+      "kind": "object",
+      "representation": "object-photograph",
+      "title": {
+        "en": "A refugee family’s son becomes a London silversmith",
+        "zh": "难民家庭之子成为伦敦银匠"
+      },
+      "alt": {
+        "en": "Three ornate silver containers with sculptural lids stand before a closed wooden case with silver fittings.",
+        "zh": "三件装饰繁复、带雕塑性盖饰的银容器，摆在装有银配件的闭合木盒前。"
+      },
+      "caption": {
+        "en": "Paul de Lamerie, tea caddies and sugar box, London, 1738/39; Met collection.",
+        "zh": "保罗·德·拉梅里，茶叶罐与糖盒，伦敦，1738/39年；大都会藏。"
+      },
+      "interpretation": {
+        "en": "Made just after this entry’s focus window, the set follows the next generation of Huguenot craft in London through a luxury commission.",
+        "zh": "这套器物稍晚于本条时间范围，通过一项奢华委托呈现伦敦胡格诺后代的工艺活动。"
+      },
+      "creator": "Paul de Lamerie",
+      "date": "1738/39",
+      "institution": "The Metropolitan Museum of Art",
+      "credit": "Wrightsman Fund, 2022",
+      "file": "assets/history-media/world-new-07-met-761576.jpg",
+      "imageUrl": "https://images.metmuseum.org/CRDImages/es/web-large/DP-18258-021.jpg",
+      "downloadedFrom": "https://images.metmuseum.org/CRDImages/es/web-large/DP-18258-021.jpg",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/761576",
+      "rightsSourceUrl": "https://www.metmuseum.org/art/collection/search/761576",
+      "width": 599,
+      "height": 499,
+      "bytes": 110232,
+      "sha256": "3757efc3b2731b46fe5f1fa315d4715e9024b57dbd622c6fc36b8ad7d1ea9c11",
+      "rights": {
+        "label": "Public Domain / CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "Official item page marks the image Public Domain; the saved API record confirms isPublicDomain=true.",
+          "zh": "官方单件页面标注图像为公共领域；所存API记录确认isPublicDomain=true。"
+        }
+      },
+      "transformation": {
+        "en": "Official derivative saved unchanged.",
+        "zh": "原样保存官方衍生图。"
+      },
+      "checkedAt": "2026-11-13"
+    }
+  ],
+  "summaryChanges": [
+    {
+      "recordId": "phoenician-maritime-cities",
+      "before": {
+        "en": "Tyre, Sidon, Byblos and other Levantine cities participated in a maritime world connected through commerce and shared practices. They also competed with one another and negotiated relationships with powerful inland empires. The label Phoenician, inherited through Greek usage, should not be treated as the official name of one unified territorial country.\n\nMovement of goods and craft traditions connected coastal communities with wider Mediterranean and Near Eastern settings. Such connections could survive changes in political subordination. Reading these cities beside Carthage and Assyria helps show how networks and empires overlapped without being the same kind of organization. This entry uses a broad Iron Age focus, ending at a major imperial transition for orientation. That endpoint does not imply that the cities, their inhabitants or their languages simply disappeared.",
+        "zh": "推罗、西顿、比布鲁斯等黎凡特城市通过商业和共享实践参与海洋世界，也彼此竞争，并与强大的内陆帝国协商关系。经希腊用法传下的“腓尼基”标签，不应被当作一个统一领土国家的正式名称。\n\n货物与工艺流动把沿海社群同更广的地中海和近东环境相连，这些联系能够跨越政治隶属关系的变化。与迦太基、亚述并读，可观察网络与帝国如何重叠而又属于不同组织。本条采用宽泛的铁器时代范围，以一次重要帝国转折作为阅读终点，并不表示城市、居民或语言突然消失。"
+      },
+      "after": {
+        "en": "Tyre, Sidon, Byblos and other Levantine cities participated in a maritime world connected through commerce and shared practices. They also competed with one another and negotiated relationships with powerful inland empires. The label Phoenician, inherited through Greek usage, should not be treated as the official name of one unified territorial country.\n\nMovement of goods and craft traditions connected coastal communities with wider Mediterranean and Near Eastern settings. Such connections could survive changes in political subordination. Reading these cities beside Carthage and Assyria helps show how networks and empires overlapped without being the same kind of organization. This entry uses a broad Iron Age focus, ending at a major imperial transition for orientation. That endpoint does not imply that the cities, their inhabitants or their languages simply disappeared.\n\nA seventh-century BCE trefoil jug makes these exchanges tangible. The Met identifies tall-necked jugs of this shape as frequent Phoenician imports into Cyprus, where potters also produced them in red- and black-slipped wares. An everyday vessel thus connects the movement of goods with the movement and local adaptation of craft forms.",
+        "zh": "推罗、西顿、比布鲁斯等黎凡特城市通过商业和共享实践参与海洋世界，也彼此竞争，并与强大的内陆帝国协商关系。经希腊用法传下的“腓尼基”标签，不应被当作一个统一领土国家的正式名称。\n\n货物与工艺流动把沿海社群同更广的地中海和近东环境相连，这些联系能够跨越政治隶属关系的变化。与迦太基、亚述并读，可观察网络与帝国如何重叠而又属于不同组织。本条采用宽泛的铁器时代范围，以一次重要帝国转折作为阅读终点，并不表示城市、居民或语言突然消失。\n\n一件前七世纪三瓣口陶壶，使这种交流变得具体。大都会指出，此类长颈壶是塞浦路斯常见的腓尼基进口器物，当地陶工也以红色或黑色陶衣制作同类产品。日用容器因而将货物流动与工艺形制的传播、在地改造联系起来。"
+      },
+      "source": {
+        "title": "Terracotta trefoil jug",
+        "url": "https://www.metmuseum.org/art/collection/search/240230",
+        "publisher": "The Metropolitan Museum of Art",
+        "checkedAt": "2026-11-13",
+        "retrieval": "official-page-opened",
+        "evidenceNote": "Official collection record supports the added artifact paragraph and retains the stated dating and attribution limits.",
+        "evidenceNoteZh": "官方馆藏记录支持新增文物段落，并保留所述年代与归属限制。"
+      },
+      "rationale": "Add concrete object evidence and identify limits of attribution; no royal ownership or findspot invented."
+    },
+    {
+      "recordId": "ghurid-dynasty",
+      "before": {
+        "en": "The Ghurids began as chiefs in the mountains of central Afghanistan and became a major military power during the twelfth century. Their expansion reached from eastern Iranian lands toward northern India, competing with and displacing Ghaznavid rulers.\n\nThis was a short-lived imperial formation rather than an enduring state with one settled border. Persian literary and religious patronage linked its courts to the wider eastern Islamic world. Its collapse before the Mongol conquests and the emergence of successor military governments in South Asia show why political succession should be followed across regions, rather than stopping at a modern national border.",
+        "zh": "古尔王朝起于阿富汗中部山地酋长，在12世纪成为重要军事力量。其扩张从伊朗东部伸向北印度，与伽色尼统治者竞争并取而代之。\n\n这是一个短暂的帝国组合，并非拥有稳定边界的持久国家。波斯文学与宗教资助把其宫廷接入更广泛的东方伊斯兰世界。蒙古征服之前的瓦解，以及南亚继承性军事政权的兴起，都说明政治更替需要跨区域追踪，而不能在现代国界处停止。"
+      },
+      "after": {
+        "en": "The Ghurids began as chiefs in the mountains of central Afghanistan and became a major military power during the twelfth century. Their expansion reached from eastern Iranian lands toward northern India, competing with and displacing Ghaznavid rulers.\n\nThis was a short-lived imperial formation rather than an enduring state with one settled border. Persian literary and religious patronage linked its courts to the wider eastern Islamic world. Its collapse before the Mongol conquests and the emergence of successor military governments in South Asia show why political succession should be followed across regions, rather than stopping at a modern national border.\n\nA group of molded, monochrome-glazed tiles from Ghazni provides evidence of building decoration during Ghurid rule. The Met dates the group to the early thirteenth century from excavation stratigraphy. This small hexagonal example carries an animal in relief, showing how ceramic workshops supplied patterned architectural surfaces.",
+        "zh": "古尔王朝起于阿富汗中部山地酋长，在12世纪成为重要军事力量。其扩张从伊朗东部伸向北印度，与伽色尼统治者竞争并取而代之。\n\n这是一个短暂的帝国组合，并非拥有稳定边界的持久国家。波斯文学与宗教资助把其宫廷接入更广泛的东方伊斯兰世界。蒙古征服之前的瓦解，以及南亚继承性军事政权的兴起，都说明政治更替需要跨区域追踪，而不能在现代国界处停止。\n\n加兹尼出土的一组模制单色釉砖，提供了古尔统治时期建筑装饰的证据。大都会根据发掘地层，将这组砖定于十三世纪初。这件小型六边形砖呈现动物浮雕，展示陶工作坊如何为建筑提供带有纹样的表面装饰。"
+      },
+      "source": {
+        "title": "Hexagonal Tile",
+        "url": "https://www.metmuseum.org/art/collection/search/452774",
+        "publisher": "The Metropolitan Museum of Art",
+        "checkedAt": "2026-11-13",
+        "retrieval": "official-page-opened",
+        "evidenceNote": "Official collection record supports the added artifact paragraph and retains the stated dating and attribution limits.",
+        "evidenceNoteZh": "官方馆藏记录支持新增文物段落，并保留所述年代与归属限制。"
+      },
+      "rationale": "Add concrete object evidence and identify limits of attribution; no royal ownership or findspot invented."
+    },
+    {
+      "recordId": "aldus-griffo-portable-classics-1501",
+      "before": {
+        "en": "A reader could carry a classical text in a smaller book. In 1501, Aldus Manutius's Venetian press began issuing portable editions, including Virgil in April and Horace in May. The Virgil was the first complete book printed in the new italic type. Its letter shapes borrowed from humanist handwriting, giving printed pages something of a manuscript's appearance.\n\nThat design depended on Francesco Griffo, who cut the type. Examination of surviving copies shows that the letterforms continued to change while the Virgil was being printed. Publisher, type cutter and press workers were making a new reading object together. Placed after Gutenberg in the atlas, this story follows a different question: once books could be multiplied, how should they look and fit into a reader's life? Portability and typography were choices made through skilled work.",
+        "zh": "读者可以把古典作品装进一本较小的书随身携带。1501年，阿尔杜斯·马努提乌斯的威尼斯印刷坊开始推出便携版本，其中有四月的维吉尔和五月的贺拉斯。维吉尔集是第一部全书采用新斜体字印刷的书，字形借鉴人文主义者的手写体，让印页带有手稿的观感。\n\n这种设计依赖雕刻字模的弗朗切斯科·格里福。对传世版本的比较表明，维吉尔集仍在印刷时，字形还在继续调整。出版者、刻字者与印工共同制作新的阅读物件。把本篇接在古腾堡之后，可以追问另一个问题：书籍能够成批印制以后，应当怎样呈现，又怎样进入读者生活？便携性与字体，都是通过熟练劳动做出的选择。"
+      },
+      "after": {
+        "en": "A reader could carry a classical text in a smaller book. In 1501, Aldus Manutius's Venetian press began issuing portable editions, including Virgil in April and Horace in May. The Virgil was the first complete book printed in the new italic type. Its letter shapes borrowed from humanist handwriting, giving printed pages something of a manuscript's appearance.\n\nThat design depended on Francesco Griffo, who cut the type. Examination of surviving copies shows that the letterforms continued to change while the Virgil was being printed. Publisher, type cutter and press workers were making a new reading object together. Placed after Gutenberg in the atlas, this story follows a different question: once books could be multiplied, how should they look and fit into a reader's life? Portability and typography were choices made through skilled work.\n\nTwo years earlier, the same publisher and type designer had pursued another kind of book. Aldus’s December 1499 Hypnerotomachia Poliphili used roman type designed by Griffo and paired it with woodcut illustrations. Comparing this larger illustrated volume with the 1501 portable editions shows that their collaboration explored more than one relationship between page, lettering and reader.",
+        "zh": "读者可以把古典作品装进一本较小的书随身携带。1501年，阿尔杜斯·马努提乌斯的威尼斯印刷坊开始推出便携版本，其中有四月的维吉尔和五月的贺拉斯。维吉尔集是第一部全书采用新斜体字印刷的书，字形借鉴人文主义者的手写体，让印页带有手稿的观感。\n\n这种设计依赖雕刻字模的弗朗切斯科·格里福。对传世版本的比较表明，维吉尔集仍在印刷时，字形还在继续调整。出版者、刻字者与印工共同制作新的阅读物件。把本篇接在古腾堡之后，可以追问另一个问题：书籍能够成批印制以后，应当怎样呈现，又怎样进入读者生活？便携性与字体，都是通过熟练劳动做出的选择。\n\n两年前，同一位出版人与字体设计师曾探索另一类书籍。阿尔杜斯于1499年12月出版的《寻爱绮梦》，采用格里福设计的罗马体字，配以木刻插图。将这部较大的插图书与1501年便携版本对照，可见二人的合作曾探索页面、字形与读者之间的多种关系。"
+      },
+      "source": {
+        "title": "Hypnerotomachia Poliphili",
+        "url": "https://www.metmuseum.org/art/collection/search/365313",
+        "publisher": "The Metropolitan Museum of Art",
+        "checkedAt": "2026-11-13",
+        "retrieval": "official-page-opened",
+        "evidenceNote": "Official collection record supports the added artifact paragraph and retains the stated dating and attribution limits.",
+        "evidenceNoteZh": "官方馆藏记录支持新增文物段落，并保留所述年代与归属限制。"
+      },
+      "rationale": "Add concrete object evidence and identify limits of attribution; no royal ownership or findspot invented."
+    },
+    {
+      "recordId": "santiago-medieval-pilgrimage-infrastructure",
+      "before": {
+        "en": "Pilgrimage to Santiago de Compostela connected a religious destination with towns and rural communities across several routes. Churches, bridges, hospitals and hostels sustained travel, making belief visible in infrastructure and everyday work. The tomb’s identification with the apostle James is a religious tradition; it is not presented here as a verified archaeological identity.\n\nPilgrims and hosts exchanged objects, skills and stories, while commerce supported settlements along the routes. The network was neither one road nor a documented itinerary followed by every traveler. Its surviving buildings also come from different periods, so a medieval focus cannot date each monument identically. This entry brings religion, mobility and care into the same history as royal power. The 1000–1500 window selects medieval development, while pilgrimage and the communities along its routes continue beyond that interval.",
+        "zh": "前往圣地亚哥—德孔波斯特拉的巡礼，通过多条道路把宗教目的地与城市、乡村群体联系起来。教堂、桥梁、医院和旅舍支持旅行，使信仰体现为基础设施与日常劳动。墓葬被认作使徒雅各之墓属于宗教传统，本条不把它视为已经考古证实的身份。\n\n巡礼者和接待者交换物品、技能与故事，商业活动也支持沿线聚落。这一网络既不是单一道路，也不是每位旅行者都遵循的有记录行程。现存建筑来自不同时代，因此不能用同一个中世纪日期标记每座建筑。本条把宗教、流动和照护纳入与王权并列的历史。1000—1500年用于选取中世纪发展阶段，巡礼及沿线群体在此后仍然延续。"
+      },
+      "after": {
+        "en": "Pilgrimage to Santiago de Compostela connected a religious destination with towns and rural communities across several routes. Churches, bridges, hospitals and hostels sustained travel, making belief visible in infrastructure and everyday work. The tomb’s identification with the apostle James is a religious tradition; it is not presented here as a verified archaeological identity.\n\nPilgrims and hosts exchanged objects, skills and stories, while commerce supported settlements along the routes. The network was neither one road nor a documented itinerary followed by every traveler. Its surviving buildings also come from different periods, so a medieval focus cannot date each monument identically. This entry brings religion, mobility and care into the same history as royal power. The 1000–1500 window selects medieval development, while pilgrimage and the communities along its routes continue beyond that interval.\n\nA French limestone statue made about 1450–1475 shows James himself dressed as a pilgrim, with a shell on his hat and a book in his hand. The staff is now missing. Made at Poligny in Burgundy, the sculpture shows the saint’s recognizable pilgrim imagery beyond the Spanish destination, alongside the routes and buildings that sustained travel.",
+        "zh": "前往圣地亚哥—德孔波斯特拉的巡礼，通过多条道路把宗教目的地与城市、乡村群体联系起来。教堂、桥梁、医院和旅舍支持旅行，使信仰体现为基础设施与日常劳动。墓葬被认作使徒雅各之墓属于宗教传统，本条不把它视为已经考古证实的身份。\n\n巡礼者和接待者交换物品、技能与故事，商业活动也支持沿线聚落。这一网络既不是单一道路，也不是每位旅行者都遵循的有记录行程。现存建筑来自不同时代，因此不能用同一个中世纪日期标记每座建筑。本条把宗教、流动和照护纳入与王权并列的历史。1000—1500年用于选取中世纪发展阶段，巡礼及沿线群体在此后仍然延续。\n\n一尊约1450—1475年制作的法国石灰石像，将雅各本人装扮为朝圣者：帽上带贝壳，手中持书，手杖现已失落。此像制作于勃艮第的波利尼，展现圣人的朝圣图像如何出现在西班牙目的地之外，与维系旅行的道路和建筑并存。"
+      },
+      "source": {
+        "title": "Saint James the Greater",
+        "url": "https://www.metmuseum.org/art/collection/search/468231",
+        "publisher": "The Metropolitan Museum of Art",
+        "checkedAt": "2026-11-13",
+        "retrieval": "official-page-opened",
+        "evidenceNote": "Official collection record supports the added artifact paragraph and retains the stated dating and attribution limits.",
+        "evidenceNoteZh": "官方馆藏记录支持新增文物段落，并保留所述年代与归属限制。"
+      },
+      "rationale": "Add concrete object evidence and identify limits of attribution; no royal ownership or findspot invented."
+    },
+    {
+      "recordId": "huguenot-refugee-settlement",
+      "before": {
+        "en": "The revocation of the Edict of Nantes in 1685 intensified the persecution of French Protestants and encouraged flight. Refugees reached England through dangerous and uneven journeys, then faced the practical work of securing shelter, support and employment. Community institutions and commercial connections helped some newcomers establish livelihoods, but a success story cannot stand for every refugee’s experience.\n\nIsaac Minet’s account of detention, escape and settlement provides one documented case. Written decades after his arrival, it also shows how memory and religious conviction shaped a migrant’s narrative about his earlier life. His story should be compared with administrative records and other voices rather than treated as a complete demographic picture. The entry connects European religious conflict with craft, business and family history, and gives migration a place alongside the wars and treaties of the same period.",
+        "zh": "1685年废除南特敕令，加剧了法国新教徒受到的迫害，并推动逃离。难民经过危险且各不相同的旅程抵达英格兰，随后必须寻找住所、援助与工作。共同体机构和商业联系帮助部分新来者建立生计，但成功故事不能代表所有难民的经验。\n\n伊萨克·米内关于拘禁、逃亡与定居的叙述，是一个有记录的个案。该文写于抵达数十年后，也显示记忆与宗教信念如何塑造移民对早年生活的讲述。应将其与行政文书及其他声音比较，而不能视为完整人口图景。本条把欧洲宗教冲突与工艺、商业和家庭历史联系起来，使迁徙与同时期战争及条约并列进入历史。"
+      },
+      "after": {
+        "en": "The revocation of the Edict of Nantes in 1685 intensified the persecution of French Protestants and encouraged flight. Refugees reached England through dangerous and uneven journeys, then faced the practical work of securing shelter, support and employment. Community institutions and commercial connections helped some newcomers establish livelihoods, but a success story cannot stand for every refugee’s experience.\n\nIsaac Minet’s account of detention, escape and settlement provides one documented case. Written decades after his arrival, it also shows how memory and religious conviction shaped a migrant’s narrative about his earlier life. His story should be compared with administrative records and other voices rather than treated as a complete demographic picture. The entry connects European religious conflict with craft, business and family history, and gives migration a place alongside the wars and treaties of the same period.\n\nThe next generation can be followed through Paul de Lamerie, born in the Low Countries to Huguenot emigrants and brought to London as a child. His 1738/39 tea caddies and sugar box, made just after this entry’s focus window, display richly worked silver for an aristocratic household. They connect migration and skilled work with elite consumption of tea and sugar.",
+        "zh": "1685年废除南特敕令，加剧了法国新教徒受到的迫害，并推动逃离。难民经过危险且各不相同的旅程抵达英格兰，随后必须寻找住所、援助与工作。共同体机构和商业联系帮助部分新来者建立生计，但成功故事不能代表所有难民的经验。\n\n伊萨克·米内关于拘禁、逃亡与定居的叙述，是一个有记录的个案。该文写于抵达数十年后，也显示记忆与宗教信念如何塑造移民对早年生活的讲述。应将其与行政文书及其他声音比较，而不能视为完整人口图景。本条把欧洲宗教冲突与工艺、商业和家庭历史联系起来，使迁徙与同时期战争及条约并列进入历史。\n\n下一代的经历可由保罗·德·拉梅里追踪：他在低地国家出生，父母为胡格诺移民，幼年随家迁往伦敦。其1738/39年的茶叶罐与糖盒制作于本条目时间范围稍后，为贵族家庭展现精巧银工，将移民、熟练劳动与精英阶层的茶糖消费联系起来。"
+      },
+      "source": {
+        "title": "Pair of tea caddies and a sugar box in a case",
+        "url": "https://www.metmuseum.org/art/collection/search/761576",
+        "publisher": "The Metropolitan Museum of Art",
+        "checkedAt": "2026-11-13",
+        "retrieval": "official-page-opened",
+        "evidenceNote": "Official collection record supports the added artifact paragraph and retains the stated dating and attribution limits.",
+        "evidenceNoteZh": "官方馆藏记录支持新增文物段落，并保留所述年代与归属限制。"
+      },
+      "rationale": "Add concrete object evidence and identify limits of attribution; no royal ownership or findspot invented."
+    }
+  ],
+  "ownerDecision": "Admitted with entry-specific narrative. Ghazni building identity remains unresolved and no palace/house patron claim is made; the1499Aldus book is a named collaboration comparison, not the1501Virgil; deLamerie illustrates a later Huguenot generation. The separate Ardabil carpet is held."
+}

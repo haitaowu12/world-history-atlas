@@ -2443,9 +2443,9 @@
   ],
   "summaryEditsFile": "summary-edits-v18.json",
   "summaryEdits": {
-    "bytes": 506547,
-    "sha256": "3c55c405d6da7ab1e53d263f5d73e09b49acec6cc40893029ee6ee318cc9486d",
-    "records": 175
+    "bytes": 548265,
+    "sha256": "9c3786663bccf58511541cef8b602236c6dcdba7e46739492381c6c8551ebaa7",
+    "records": 186
   },
   "chinaReviewsFile": "china-visual-reviews-v18.json",
   "chinaVisualReviews": {
@@ -2455,9 +2455,9 @@
   },
   "mediaLocalization": {
     "file": "history-media-localization-zh-v18.json",
-    "bytes": 221284,
-    "sha256": "01e582567961b767af294662e66d74d7bd88d3b1d45b46dbb16695a6ff8b28fe",
-    "assets": 506
+    "bytes": 225397,
+    "sha256": "66662336bac123052fd2f28da8baf4fdaa2578a56df742a9a6192573204a6105",
+    "assets": 517
   },
   "visualExpansion": {
     "baselineManifest": "content-expansion-v17.json",
@@ -2467,6 +2467,13 @@
         "bytes": 10570,
         "sha256": "d8f64de5d815c6408afbc89995634df1badb1f4822097abd12a642cd9ac4129f",
         "assets": 4,
+        "associations": 0
+      },
+      {
+        "file": "visual-assets-africa-americas-07-v18.json",
+        "bytes": 16272,
+        "sha256": "060426652a2cd42298bf6b65f2ba1d00d422a1d3ae2ccb6a9c6a38cf46408e6d",
+        "assets": 6,
         "associations": 0
       },
       {
@@ -2951,11 +2958,18 @@
         "sha256": "977c9e9e4308cdad43217776f5446442348dac1c4acf19547536086336569424",
         "assets": 4,
         "associations": 0
+      },
+      {
+        "file": "visual-assets-world-new-07-v18.json",
+        "bytes": 12193,
+        "sha256": "d02fa94174de0ccaeb53e91e8cf09a8f66bdee76896a0970875814e4ec663940",
+        "assets": 5,
+        "associations": 0
       }
     ],
     "coverageFile": "visual-coverage-v18.json",
-    "assets": 506,
-    "covered": 912,
+    "assets": 517,
+    "covered": 923,
     "total": 2087,
     "target": 1044
   }

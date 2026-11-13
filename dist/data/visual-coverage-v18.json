@@ -3,9 +3,9 @@
   "reviewedAt": "2026-11-13",
   "baselineManifest": "content-expansion-v17.json",
   "total": 2087,
-  "covered": 912,
-  "assets": 506,
-  "percent": 43.69908960229995,
+  "covered": 923,
+  "assets": 517,
+  "percent": 44.226161954959274,
   "coveredIds": [
     "abbasid-caliphate",
     "abu-simbel-relocation",
@@ -16,6 +16,8 @@
     "akkadian-empire",
     "aksum",
     "alaska-purchase",
+    "aldus-griffo-portable-classics-1501",
+    "almoravid-dynasty",
     "american-revolution",
     "andean-altitude-agriculture",
     "angkor",
@@ -641,6 +643,7 @@
     "german-reunification",
     "germany-reunified-period",
     "ghaznavid-dynasty",
+    "ghurid-dynasty",
     "golconda-qutbshahi",
     "gondar-permanent-capital",
     "goryeo-kingdom",
@@ -651,6 +654,7 @@
     "gutenberg-printing",
     "habsburg-composite-monarchy",
     "hagia-sophia-justinian",
+    "haitian-revolution",
     "hampi",
     "harar-urban-world",
     "hawaiian-monarchy-overthrow",
@@ -663,6 +667,7 @@
     "holocaust",
     "holy-roman-empire",
     "hoysala-dynasty",
+    "huguenot-refugee-settlement",
     "hull-house-immigrant-neighborhood",
     "hundred-years-war",
     "ifugao-rice-landscape",
@@ -672,6 +677,7 @@
     "indonesian-independence",
     "indus-civilization-urban-networks",
     "inka-imperial-tunic-story",
+    "inka-quipu-recordkeeping",
     "ironbridge",
     "italian-unification",
     "jain-ascetic-communities",
@@ -730,6 +736,7 @@
     "mesopotamia-babylon-assur",
     "mesopotamia-city-rivalry",
     "mexica-triple-alliance",
+    "mexican-revolution",
     "milan-toleration-313",
     "mimbres-painted-pottery",
     "ming-dynasty",
@@ -827,16 +834,19 @@
     "person-salote-tupou-iii",
     "person-sarah-winnemucca",
     "person-sequoyah",
+    "person-simon-bolivar",
     "person-sor-juana",
     "person-susie-king-taylor",
     "person-taytu-betul",
     "person-te-puea-herangi",
+    "person-toussaint",
     "person-tsuda-umeko",
     "person-vaclav-havel",
     "person-xuanzang",
     "person-yosano-akiko",
     "person-zitkala-sa",
     "petra-caravan-water",
+    "phoenician-maritime-cities",
     "plain-jars-dating-reuse",
     "polonnaruwa-irrigated-capital",
     "ptolemaic-egypt",
@@ -860,6 +870,7 @@
     "samoa-mau-independence",
     "sanchi",
     "sanchi-donor-inscriptions",
+    "santiago-medieval-pilgrimage-infrastructure",
     "santiniketan-educational-experiment",
     "sardis-early-coinage",
     "sasanian-empire",
@@ -951,13 +962,11 @@
     "pueblo-revolt",
     "haudenosaunee-revolution-era",
     "first-fleet-colonization",
-    "haitian-revolution",
     "mexican-independence",
     "south-american-independence",
     "brazil-abolition",
     "adwa-victory",
     "philippine-american-war",
-    "mexican-revolution",
     "russian-revolutions",
     "salt-march",
     "south-asia-independence-partition",
@@ -1084,11 +1093,9 @@
     "japan-onin-war",
     "egypt-piye-campaign",
     "rashtrakuta-dynasty",
-    "ghurid-dynasty",
     "qarakhanid-dynasty",
     "golden-horde",
     "makuria-kingdom",
-    "almoravid-dynasty",
     "almohad-dynasty",
     "purepecha-state",
     "canada-polity",
@@ -1187,7 +1194,6 @@
     "indus-waters-treaty-1960",
     "green-revolution-south-asia",
     "chipko-forest-livelihoods",
-    "phoenician-maritime-cities",
     "ugarit-writing-diplomacy",
     "zoroastrian-texts-ritual",
     "qanat-water-communities",
@@ -1236,7 +1242,6 @@
     "maya-living-languages",
     "chinampa-lake-agriculture",
     "popol-vuh-transmission",
-    "inka-quipu-recordkeeping",
     "andean-conquest-resistance",
     "titicaca-raised-fields",
     "encomienda-new-laws",
@@ -1269,8 +1274,6 @@
     "kalmar-union",
     "polish-lithuanian-commonwealth",
     "hedeby-viking-trading-town",
-    "santiago-medieval-pilgrimage-infrastructure",
-    "huguenot-refugee-settlement",
     "liverpool-slavery-port-infrastructure",
     "frankfurt-national-assembly-1848",
     "gernika-bombing-and-guernica",
@@ -1390,7 +1393,6 @@
     "bethlehem-embroidery-repair-markets",
     "vindolanda-birthday-two-hands",
     "onfim-birchbark-practice-play",
-    "aldus-griffo-portable-classics-1501",
     "lyon-canuts-price-of-work-1831",
     "oneg-shabbat-collecting-under-persecution",
     "grunwick-dignity-union-recognition",
@@ -1421,10 +1423,8 @@
     "person-ibn-battuta",
     "person-zheng-he",
     "person-tupaia",
-    "person-toussaint",
     "person-gandhi",
     "person-wangari-maathai",
-    "person-simon-bolivar",
     "person-njinga",
     "person-nana-asmau",
     "person-yaa-asantewaa",
@@ -2099,11 +2099,11 @@
   ],
   "target": 1044,
   "targetMet": false,
-  "remaining": 132,
+  "remaining": 121,
   "regions": {
     "africa": {
       "total": 136,
-      "covered": 50
+      "covered": 51
     },
     "east-asia": {
       "total": 1216,
@@ -2111,11 +2111,11 @@
     },
     "europe": {
       "total": 122,
-      "covered": 73
+      "covered": 76
     },
     "latin-america": {
       "total": 94,
-      "covered": 36
+      "covered": 41
     },
     "north-america": {
       "total": 123,
@@ -2135,20 +2135,21 @@
     },
     "west-central-asia": {
       "total": 111,
-      "covered": 42
+      "covered": 44
     }
   },
   "types": {
     "ancient-portrait": 2,
     "ancient-royal-image": 2,
     "document-facsimile": 39,
-    "historical-artwork": 72,
+    "historical-artwork": 74,
     "historical-photograph": 84,
-    "historical-portrait": 30,
+    "historical-portrait": 31,
     "later-depiction": 67,
     "lifetime-portrait": 18,
     "manuscript-detail": 36,
-    "object-photograph": 104,
+    "modern-memorial": 1,
+    "object-photograph": 111,
     "site-photograph": 52
   },
   "shards": [
@@ -2157,6 +2158,13 @@
       "bytes": 10570,
       "sha256": "d8f64de5d815c6408afbc89995634df1badb1f4822097abd12a642cd9ac4129f",
       "assets": 4,
+      "associations": 0
+    },
+    {
+      "file": "visual-assets-africa-americas-07-v18.json",
+      "bytes": 16272,
+      "sha256": "060426652a2cd42298bf6b65f2ba1d00d422a1d3ae2ccb6a9c6a38cf46408e6d",
+      "assets": 6,
       "associations": 0
     },
     {
@@ -2641,8 +2649,15 @@
       "sha256": "977c9e9e4308cdad43217776f5446442348dac1c4acf19547536086336569424",
       "assets": 4,
       "associations": 0
+    },
+    {
+      "file": "visual-assets-world-new-07-v18.json",
+      "bytes": 12193,
+      "sha256": "d02fa94174de0ccaeb53e91e8cf09a8f66bdee76896a0970875814e4ec663940",
+      "assets": 5,
+      "associations": 0
     }
   ],
-  "assetBytes": 98313517,
+  "assetBytes": 99473242,
   "verification": "All admitted files match their SHA-256, byte count and encoded dimensions. Source identity, reuse rights, pixel review and entry relevance require the individual editorial records; structural validation does not establish those facts."
 }

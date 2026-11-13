@@ -1,6 +1,6 @@
 # Historical images: credits and reuse
 
-Reviewed 2026-11-13. 506 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
+Reviewed 2026-11-13. 517 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
 
 Historical artifacts, surviving places and later depictions retain their source identities. No generated reconstructions are included in this catalogue.
 
@@ -463,6 +463,90 @@ Official derivative saved unchanged.
 - Rights evidence: https://www.metmuseum.org/art/collection/search/314362
 
 Official item page marks the image Public Domain; the saved API record confirms isPublicDomain=true.
+
+Official derivative saved unchanged.
+
+## Toussaint represented as a military commander / 以军事统帅形象表现的杜桑
+
+- File: africa-americas-07-met-892401.jpg
+- Creator: Claude Louis Desrais
+- Date: ca. 1802
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/892401
+- Rights: Public Domain / CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/892401
+
+Official item page marks image Public Domain; saved API confirms is Public Domain=true.
+
+Official derivative saved unchanged.
+
+## An Almoravid-era silk survives in a Christian shrine / 存于基督教圣龛的穆拉比特时代丝织物
+
+- File: africa-americas-07-met-451472.jpg
+- Creator: Unrecorded weavers
+- Date: first half 12th century
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/451472
+- Rights: Public Domain / CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/451472
+
+Official item page marks image Public Domain; saved API confirms is Public Domain=true.
+
+Official derivative saved unchanged.
+
+## Bolívar remembered in a New York monument / 纽约纪念碑中的玻利瓦尔
+
+- File: africa-americas-07-met-291117.jpg
+- Creator: Edward Anthony
+- Date: 1884–98
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/291117
+- Rights: Public Domain / CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/291117
+
+Official item page marks image Public Domain; saved API confirms is Public Domain=true.
+
+Official derivative saved unchanged.
+
+## Madero’s victory becomes a printed celebration / 马德罗的胜利成为印刷庆典
+
+- File: africa-americas-07-met-717892.jpg
+- Creator: José Guadalupe Posada
+- Date: ca. 1911
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/717892
+- Rights: Public Domain / CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/717892
+
+Official item page marks image Public Domain; saved API confirms is Public Domain=true.
+
+Official derivative saved unchanged.
+
+## Zapata’s image in a later impression / 后印版画中的萨帕塔形象
+
+- File: africa-americas-07-met-735898.jpg
+- Creator: José Guadalupe Posada
+- Date: Design ca. 1910–1913; later impression
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/735898
+- Rights: Public Domain / CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/735898
+
+Official item page marks image Public Domain; saved API confirms is Public Domain=true.
+
+Official derivative saved unchanged.
+
+## A quipu makes knotted records tangible / 奇普让绳结记录成为可见实物
+
+- File: africa-americas-07-princeton-133974.jpg
+- Creator: Inka maker(s)
+- Date: before 1532
+- Collection: Princeton University Art Museum
+- Source: https://artmuseum.princeton.edu/art/collections/objects/133974
+- Rights: Public Domain (https://artmuseum.princeton.edu/art/our-collections/image-use-and-access)
+- Rights evidence: https://artmuseum.princeton.edu/art/collections/objects/133974
+
+Item-specific download dialog welcomes use of this Public Domain image; museum policy permits free download and use without approval.
 
 Official derivative saved unchanged.
 
@@ -7083,6 +7167,76 @@ Official derivative saved unchanged.
 - Source: https://www.metmuseum.org/art/collection/search/38143
 - Rights: Public Domain / CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
 - Rights evidence: https://www.metmuseum.org/art/collection/search/38143
+
+Official item page marks the image Public Domain; the saved API record confirms isPublicDomain=true.
+
+Official derivative saved unchanged.
+
+## A jug shape travelled across the Mediterranean / 陶壶形制跨越地中海
+
+- File: world-new-07-met-240230.jpg
+- Creator: Unrecorded maker
+- Date: 7th century BCE
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/240230
+- Rights: Public Domain / CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/240230
+
+Official item page marks the image Public Domain; the saved API record confirms isPublicDomain=true.
+
+Official derivative saved unchanged.
+
+## A glazed tile from Ghurid-era Ghazni / 古尔王朝时期加兹尼的釉砖
+
+- File: world-new-07-met-452774.jpg
+- Creator: Unrecorded maker
+- Date: early 13th century
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/452774
+- Rights: Public Domain / CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/452774
+
+Official item page marks the image Public Domain; the saved API record confirms isPublicDomain=true.
+
+Official derivative saved unchanged.
+
+## Before the pocket classics: Aldus and Griffo in 1499 / 便携古典书之前：1499年的阿尔杜斯与格里福
+
+- File: world-new-07-met-365313.jpg
+- Creator: Francesco Colonna
+- Date: December 1499
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/365313
+- Rights: Public Domain / CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/365313
+
+Official item page marks the image Public Domain; the saved API record confirms isPublicDomain=true.
+
+Official derivative saved unchanged.
+
+## Saint James wears the pilgrim’s shell / 圣雅各佩戴朝圣者的贝壳
+
+- File: world-new-07-met-468231.jpg
+- Creator: Unrecorded maker
+- Date: ca. 1450–75
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/468231
+- Rights: Public Domain / CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/468231
+
+Official item page marks the image Public Domain; the saved API record confirms isPublicDomain=true.
+
+Official derivative saved unchanged.
+
+## A refugee family’s son becomes a London silversmith / 难民家庭之子成为伦敦银匠
+
+- File: world-new-07-met-761576.jpg
+- Creator: Paul de Lamerie
+- Date: 1738/39
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/761576
+- Rights: Public Domain / CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/761576
 
 Official item page marks the image Public Domain; the saved API record confirms isPublicDomain=true.
 
