@@ -3,9 +3,9 @@
   "reviewedAt": "2026-11-13",
   "baselineManifest": "content-expansion-v17.json",
   "total": 2087,
-  "covered": 1005,
-  "assets": 543,
-  "percent": 48.15524676569238,
+  "covered": 1008,
+  "assets": 545,
+  "percent": 48.29899377096311,
   "coveredIds": [
     "abbasid-caliphate",
     "abu-simbel-relocation",
@@ -783,6 +783,7 @@
     "magna-carta",
     "majapahit-clay-domestic-architecture",
     "majapahit-java",
+    "malay-annals-court-memory",
     "malayan-emergency-social-war",
     "malaysia-federation-1963",
     "mali-empire",
@@ -902,6 +903,7 @@
     "person-mary-wollstonecraft",
     "person-murasaki",
     "person-nelson-mandela",
+    "person-nguyen-du",
     "person-nicolaus-copernicus",
     "person-rabindranath-tagore",
     "person-rachel-carson",
@@ -916,6 +918,7 @@
     "person-te-puea-herangi",
     "person-toussaint",
     "person-tsuda-umeko",
+    "person-tun-sri-lanang",
     "person-ulugh-beg",
     "person-vaclav-havel",
     "person-xuanzang",
@@ -1234,7 +1237,6 @@
     "laguna-copperplate-writing",
     "bali-subak-water-institutions",
     "manila-galleon-exchange",
-    "malay-annals-court-memory",
     "aceh-sultanahs-political-interpretation",
     "brunei-independence-1984",
     "laos-bombing-uxo-legacy",
@@ -1499,8 +1501,6 @@
     "person-zanabazar",
     "person-yu-gwan-sun",
     "person-shin-saimdang",
-    "person-nguyen-du",
-    "person-tun-sri-lanang",
     "person-iskandar-muda",
     "person-pridi-banomyong",
     "person-aryabhata",
@@ -2099,7 +2099,7 @@
   ],
   "target": 1044,
   "targetMet": false,
-  "remaining": 39,
+  "remaining": 36,
   "regions": {
     "africa": {
       "total": 136,
@@ -2131,7 +2131,7 @@
     },
     "southeast-asia": {
       "total": 101,
-      "covered": 34
+      "covered": 37
     },
     "west-central-asia": {
       "total": 111,
@@ -2141,13 +2141,13 @@
   "types": {
     "ancient-portrait": 2,
     "ancient-royal-image": 2,
-    "document-facsimile": 43,
+    "document-facsimile": 44,
     "historical-artwork": 78,
     "historical-photograph": 86,
     "historical-portrait": 31,
     "later-depiction": 67,
     "lifetime-portrait": 18,
-    "manuscript-detail": 39,
+    "manuscript-detail": 40,
     "modern-memorial": 1,
     "object-photograph": 124,
     "site-photograph": 52
@@ -2453,6 +2453,13 @@
       "sha256": "d7b72ca18a22a15aa04662fa1b3a1f6f8537bd45be809ebe0699681560115830",
       "assets": 1,
       "associations": 0
+    },
+    {
+      "file": "visual-assets-exact-22-v18.json",
+      "bytes": 6769,
+      "sha256": "2a7fe54940c4f2c1e5e706063bd22e62fc47e5424b9063c3aa5bbfe1d19ff83f",
+      "assets": 2,
+      "associations": 1
     },
     {
       "file": "visual-assets-exact-links-09-v18.json",
@@ -2798,6 +2805,6 @@
       "associations": 0
     }
   ],
-  "assetBytes": 103456314,
+  "assetBytes": 103646537,
   "verification": "All admitted files match their SHA-256, byte count and encoded dimensions. Source identity, reuse rights, pixel review and entry relevance require the individual editorial records; structural validation does not establish those facts."
 }

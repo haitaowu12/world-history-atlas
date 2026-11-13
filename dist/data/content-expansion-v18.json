@@ -2443,9 +2443,9 @@
   ],
   "summaryEditsFile": "summary-edits-v18.json",
   "summaryEdits": {
-    "bytes": 618141,
-    "sha256": "7fd230c045dc367cd294d7d518262d05fb14e762e1a3e7e281b36258a32eea7a",
-    "records": 207
+    "bytes": 626330,
+    "sha256": "8a23f8db2a8f5a1cdc695320f798d7342d1bbbfae7069db2b1764b19f2e283e9",
+    "records": 210
   },
   "chinaReviewsFile": "china-visual-reviews-v18.json",
   "chinaVisualReviews": {
@@ -2455,9 +2455,9 @@
   },
   "mediaLocalization": {
     "file": "history-media-localization-zh-v18.json",
-    "bytes": 235414,
-    "sha256": "67886a7a270ab2be1fe22e50d8230b77134a5af384341b522a2fde86097b3966",
-    "assets": 543
+    "bytes": 236241,
+    "sha256": "a32bec5154cd3dd1a32268093a5d029180ff00c9f05c2611c740205a3a09e6e1",
+    "assets": 545
   },
   "visualExpansion": {
     "baselineManifest": "content-expansion-v17.json",
@@ -2762,6 +2762,13 @@
         "sha256": "d7b72ca18a22a15aa04662fa1b3a1f6f8537bd45be809ebe0699681560115830",
         "assets": 1,
         "associations": 0
+      },
+      {
+        "file": "visual-assets-exact-22-v18.json",
+        "bytes": 6769,
+        "sha256": "2a7fe54940c4f2c1e5e706063bd22e62fc47e5424b9063c3aa5bbfe1d19ff83f",
+        "assets": 2,
+        "associations": 1
       },
       {
         "file": "visual-assets-exact-links-09-v18.json",
@@ -3108,8 +3115,8 @@
       }
     ],
     "coverageFile": "visual-coverage-v18.json",
-    "assets": 543,
-    "covered": 1005,
+    "assets": 545,
+    "covered": 1008,
     "total": 2087,
     "target": 1044
   }

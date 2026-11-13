@@ -8,7 +8,7 @@ const manifest=readAtlasData('content-expansion-v18.json'),edits=readAtlasData(m
 const original=loadAtlasRecords({...manifest,summaryEditsFile:null}).records;
 const revised=loadAtlasRecords(manifest).records;
 test('reviewed summary edits preserve every historical field and source',()=>{
- assert.equal(edits.items.length,207);assert.deepEqual(revised.map(r=>r.id),original.map(r=>r.id));
+ assert.equal(edits.items.length,210);assert.deepEqual(revised.map(r=>r.id),original.map(r=>r.id));
  const targets=new Set(edits.items.map(e=>e.recordId));
  for(let i=0;i<original.length;i++){
   const before=original[i],after=revised[i];

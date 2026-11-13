@@ -1,0 +1,183 @@
+{
+  "reviewedAt": "2026-11-13",
+  "admittedAssets": [
+    {
+      "id": "exact-22-wellcome-malay-annals",
+      "recordIds": [
+        "malay-annals-court-memory"
+      ],
+      "kind": "document",
+      "representation": "document-facsimile",
+      "title": {
+        "en": "Malay Annals: the 1821 English title page",
+        "zh": "《马来纪年》：1821年英译本扉页"
+      },
+      "alt": {
+        "en": "Printed title page naming Malay Annals, translator John Leyden and introducer Stamford Raffles, with London and 1821 below.",
+        "zh": "印刷扉页题为《马来纪年》，列出译者约翰·莱登与序言作者斯坦福·莱佛士，下方标注伦敦和1821年。"
+      },
+      "caption": {
+        "en": "Title page of John Leyden’s English translation, with an introduction by Stamford Raffles. London: Longman, Hurst, Rees, Orme, and Brown, 1821. Wellcome Collection, EPB/B/47949.",
+        "zh": "约翰·莱登英译本扉页，斯坦福·莱佛士作序。伦敦Longman、Hurst、Rees、Orme与Brown出版，1821年。惠康收藏馆，EPB/B/47949。"
+      },
+      "interpretation": {
+        "en": "The page names the translator and introducer prominently. It shows how a Malay court text reached an English-reading audience two centuries after the Johor compilation, not the original 1612 manuscript.",
+        "zh": "扉页突出列出译者与序言作者姓名。它显示柔佛编纂约两百年后，马来宫廷文本如何进入英语读者的视野，并非1612年的原始手稿。"
+      },
+      "creator": "John Leyden, translator; Stamford Raffles, introduction",
+      "date": "1821",
+      "institution": "Wellcome Collection",
+      "credit": "Wellcome Collection, EPB/B/47949; Public Domain Mark",
+      "imageUrl": "https://iiif.wellcomecollection.org/image/b29336600_0009.jp2/full/615,1024/0/default.jpg",
+      "sourceUrl": "https://wellcomecollection.org/works/r9gx3qq5",
+      "rightsSourceUrl": "https://wellcomecollection.org/works/r9gx3qq5",
+      "rights": {
+        "label": "Public Domain Mark",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "note": {
+          "en": "The exact Wellcome item marks the digitized book Public Domain and permits reuse for any purpose without copyright restriction.",
+          "zh": "惠康此藏本记录将数字化书籍标示为公有领域，允许不受版权限制地用于任何用途。"
+        }
+      },
+      "transformation": {
+        "en": "Official 615 × 1024-pixel derivative saved unchanged; no cropping or retouching.",
+        "zh": "原样保存官方615×1024像素衍生图；未裁切或修饰。"
+      },
+      "checkedAt": "2026-11-13",
+      "file": "assets/history-media/exact-22-wellcome-malay-annals.jpg",
+      "height": 1024,
+      "width": 615,
+      "format": "jpeg",
+      "bytes": 114847,
+      "sha256": "7fc5d2d19c3a5d1e47cb41e0c9f058eab0270054a024b0d61334abe08792c1d4",
+      "downloadedFrom": "https://iiif.wellcomecollection.org/image/b29336600_0009.jp2/full/615,1024/0/default.jpg"
+    },
+    {
+      "id": "exact-22-bl-kieu-frontispiece",
+      "recordIds": [
+        "person-nguyen-du"
+      ],
+      "kind": "manuscript",
+      "representation": "manuscript-detail",
+      "title": {
+        "en": "Truyện Kiều: an illustrated manuscript opening",
+        "zh": "《金云翘传》：绘图抄本卷首"
+      },
+      "alt": {
+        "en": "Manuscript opening with large title characters above three figures beside a tree, handwritten notes at the top and a red library stamp below.",
+        "zh": "抄本卷首以大字题名，下绘树旁三个人物；页顶有手写批注，下方盖有红色图书馆印章。"
+      },
+      "caption": {
+        "en": "Opening page, fol. 1r, of an illustrated copy of Nguyễn Du’s Truyện Kiều. The British Library dates the manuscript to the second half of the nineteenth century. Or 14844.",
+        "zh": "阮攸《金云翘传》绘图抄本卷首，第1叶正面。大英图书馆将此抄本定为19世纪后半叶，馆藏编号Or 14844。"
+      },
+      "interpretation": {
+        "en": "Title, drawn figures and later annotations occupy the same page. The surviving copy makes the poem’s circulation visible after Nguyễn Du’s death; its figures belong to the illustrated story, not a portrait of the poet.",
+        "zh": "题名、绘制的人物与后加批注共存于一页。存世抄本呈现阮攸去世后诗作的流传；图中人物属于故事插图，并非诗人肖像。"
+      },
+      "creator": "Nguyễn Du, text; copyist and illustrator unrecorded",
+      "date": "Second half of the 19th century",
+      "institution": "British Library",
+      "credit": "British Library, Or 14844, fol. 1r; Public Domain",
+      "imageUrl": "https://bl.digirati.io/images/ark:/81055/vdc_100166066659.0x000001/full/646,1024/0/default.jpg",
+      "sourceUrl": "https://searcharchives.bl.uk/catalog/032-002254900",
+      "rightsSourceUrl": "https://bl.digirati.io/iiif/ark:/81055/vdc_100165477525.0x000001",
+      "rights": {
+        "label": "Public Domain",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "note": {
+          "en": "The exact British Library IIIF manifest identifies Or 14844 and declares Public Domain usage terms with the Public Domain Mark.",
+          "zh": "大英图书馆此IIIF清单明确标识Or 14844，将使用条款列为公有领域，并提供Public Domain Mark链接。"
+        }
+      },
+      "transformation": {
+        "en": "Official 646 × 1024-pixel derivative saved unchanged; margins, annotations and stamp retained.",
+        "zh": "原样保存官方646×1024像素衍生图；保留页边、批注与印章。"
+      },
+      "checkedAt": "2026-11-13",
+      "file": "assets/history-media/exact-22-bl-kieu-frontispiece.jpg",
+      "height": 1024,
+      "width": 646,
+      "format": "jpeg",
+      "bytes": 75376,
+      "sha256": "3ee87d6d751e9c3de1a44f78ce9a40a71205396f87beaaa9536853b1b697399c",
+      "downloadedFrom": "https://bl.digirati.io/images/ark:/81055/vdc_100166066659.0x000001/full/646,1024/0/default.jpg"
+    }
+  ],
+  "associations": [
+    {
+      "assetId": "exact-22-wellcome-malay-annals",
+      "recordId": "person-tun-sri-lanang",
+      "role": "related-work",
+      "context": {
+        "en": "An 1821 English edition of the work associated with Tun Sri Lanang’s compilation and editing; not his handwriting or portrait.",
+        "zh": "与敦斯里拉囊编纂、整理相关作品的1821年英译本，并非其亲笔或肖像。"
+      },
+      "evidenceUrl": "https://www.nlb.gov.sg/main/article-detail?cmsuuid=ad42c473-1e98-4a33-ba27-59681aac2b1d",
+      "checkedAt": "2026-11-13"
+    }
+  ],
+  "sourceEvidence": {
+    "wellcome": {
+      "record": "https://wellcomecollection.org/works/r9gx3qq5",
+      "manifest": "https://iiif.wellcomecollection.org/presentation/v2/b29336600",
+      "selectedImage": "0009, title page",
+      "rights": "Exact item: Public Domain Mark; use for any purpose without copyright restriction",
+      "pixelReview": "Library scan shows title, translator, introduction, London publisher and 1821. Not a 1612 manuscript."
+    },
+    "britishLibrary": {
+      "record": "https://searcharchives.bl.uk/catalog/032-002254900",
+      "manifest": "https://bl.digirati.io/iiif/ark:/81055/vdc_100165477525.0x000001",
+      "selectedImage": "f1r, image ark:/81055/vdc_100166066659.0x000001",
+      "rights": "Exact manifest rights: https://creativecommons.org/publicdomain/mark/1.0/; Usage terms: Public Domain; Identifier: Or 14844.",
+      "date": "Catalogue: second half of 19th century",
+      "pixelReview": "Title above three figures beside a tree; handwritten notes in upper margin, red BL stamp below. Visible pencil date is not substituted for catalogue dating. No figure is identified as Nguyen Du."
+    },
+    "association": {
+      "record": "https://www.nlb.gov.sg/main/article-detail?cmsuuid=ad42c473-1e98-4a33-ba27-59681aac2b1d",
+      "supported": "NLB identifies Tun Sri Lanang as associated with Malay Annals and describes earlier material, compilation and editing, not sole authorship proven by this 1821 title page."
+    }
+  },
+  "summaryChanges": [
+    {
+      "recordId": "malay-annals-court-memory",
+      "before": {
+        "en": "The Sulalat al-Salatin, commonly known as the Malay Annals, assembled stories of kings and political ancestry connected with Melaka and its successors. Work associated with the Johor court in 1612 took place amid repeated attacks and relocation. A prestigious past could provide a language for claiming authority when control of the present was insecure.\n\nThe text exists in multiple versions, and attribution to Tun Sri Lanang involves questions of compiling and editing earlier material. It should not be treated as a modern single-author chronicle whose every episode has the same evidential status. Stories, genealogy and political memory require comparison with other sources. Reading the work as a courtly intervention preserves its historical value without converting legitimizing legend into a literal map of early states.",
+        "zh": "通常称为《马来纪年》的《诸王世系》，汇集同马六甲及其继承者有关的君王和政治祖系故事。1612年同柔佛宫廷相关的编纂，发生于反复进攻和迁移之中；在现实控制不稳时，显赫过去可为权威诉求提供语言。\n\n文本存有多个版本，敦斯里拉囊的归属还涉及对早期资料的汇编与编辑，不能视为现代单一作者的编年史，并把每个情节赋予同样证据地位。故事、谱系与政治记忆需要同其他资料比较。将作品理解为宫廷干预，可保留历史价值，又不把合法化传说变成早期国家的字面地图。"
+      },
+      "after": {
+        "en": "The Malay Annals joins royal genealogy with stories of Melaka and its successors. Tun Sri Lanang is associated with Johor’s 1612 compilation, in a court repeatedly displaced by conflict. Multiple versions preserve a layered work shaped by earlier writings and later editors.\n\nThe surviving 1821 London title page opens John Leyden’s English translation, introduced by Stamford Raffles. Its named translator, publisher and date show another stage of transmission, far removed from the seventeenth-century court.",
+        "zh": "《马来纪年》将王室谱系与马六甲及其继承者的故事相连。敦斯里拉囊同柔佛1612年的编纂相关，当时宫廷因战争反复迁移。存世多个版本叠合了早期书写与后世编辑。\n\n1821年伦敦版扉页开启约翰·莱登的英译本，斯坦福·莱佛士作序。其译者、出版者与日期呈现了远离17世纪宫廷的又一传播阶段。"
+      },
+      "rationale": "Replace generic cautionary prose with the specific later edition or manuscript while retaining meaningful source distinctions."
+    },
+    {
+      "recordId": "person-tun-sri-lanang",
+      "before": {
+        "en": "Tun Sri Lanang served as Johor’s bendahara, a senior court office, during struggles with Aceh and Portuguese Melaka. He is associated with the compilation of the Malay Annals, although multiple textual versions make simple claims of sole authorship uncertain. His political position and literary activity belonged to the same courtly world.\n\nA commission in 1612 was followed by Aceh’s attack and his capture in 1613. Accounts connect later work on the text with those circumstances. The narrative of royal descent could help sustain Johor’s claim to Melaka’s inheritance amid displacement. NLB’s discussion also questions older assumptions about his later life. This biography consequently follows a documented activity window rather than assigning unverified birth and death dates or treating a court text as a complete personal autobiography.",
+        "zh": "敦斯里拉囊在柔佛同亚齐及葡属马六甲竞争期间担任高级宫廷官职“班达哈拉”。他同《马来纪年》的编纂相关，但多个文本版本使“唯一作者”的简单判断存在不确定性。政治职位与文学活动属于同一个宫廷世界。\n\n1612年的编纂委托之后，亚齐于1613年进攻，他被俘获；有关记载把后续写作与这些处境相连。王室血统叙事可以在迁徙中维持柔佛继承马六甲的诉求。新加坡国家图书馆的讨论也质疑了对其晚年的旧假设。因此本传采用有文献支持的活动窗口，不给出未经核实的生卒年，也不把宫廷文本视为个人完整自传。"
+      },
+      "after": {
+        "en": "Tun Sri Lanang served as Johor’s bendahara, a senior court official. A 1612 commission to compile the Malay Annals was followed by the Acehnese attack and his capture in 1613. His association with the work includes the compilation and editing of earlier material.\n\nThe 1821 English edition shown here is a later translation, not a surviving page in his hand. Read its title page alongside the court story to distinguish compilation, translation and publication as separate moments.",
+        "zh": "敦斯里拉囊任柔佛高级宫廷官职班达哈拉。1612年受命编纂《马来纪年》后，1613年亚齐进攻，他遭到俘获。他同作品的关系也涉及对早期资料的汇编和编辑。\n\n这里展示的是1821年英译本，并非他的亲笔遗页。将扉页与宫廷故事并读，可分辨编纂、翻译与出版这几个不同阶段。"
+      },
+      "rationale": "Replace generic cautionary prose with the specific later edition or manuscript while retaining meaningful source distinctions."
+    },
+    {
+      "recordId": "person-nguyen-du",
+      "before": {
+        "en": "Nguyễn Du lived through the collapse of an older political order, Tây Sơn upheaval and the establishment of the Nguyễn dynasty. His movement between elite family settings, periods of insecurity and official service gave his writing a context shaped by political change. Entering Nguyễn service in 1802 did not erase those earlier experiences.\n\nThe Tale of Kiều used Vietnamese literary expression in a character-based writing tradition and became a work repeatedly copied, printed and interpreted. Its story of a woman’s constrained choices should not be mistaken for a transparent transcript of one historical life. Manuscripts and printed objects preserve the work’s transmission as well as its words. His biography therefore links court service, language and literary memory without assigning one undisputed composition year to the poem.",
+        "zh": "阮攸经历旧政治秩序瓦解、西山动荡与阮朝建立。他在精英家族环境、不安定生活及官职之间的转移，为写作提供了政治变化塑造的语境。1802年进入阮朝仕途，并未抹去此前经历。\n\n《金云翘传》以字喃等字符传统表达越南语，后来不断被抄写、刊印和解释。作品描绘女性受约束的选择，但不能把文学故事当作某个历史人物生平的直接记录。抄本与印本既保存文字，也保存传播过程。因此，传记把仕途、语言与文学记忆相连，不为长诗强加一个毫无争议的写成年份。"
+      },
+      "after": {
+        "en": "Nguyễn Du lived through Tây Sơn upheaval and the establishment of the Nguyễn dynasty, entering Nguyễn service in 1802. His Tale of Kiều became a major work of Vietnamese literature, continually copied, printed and interpreted.\n\nA British Library manuscript from the second half of the nineteenth century pairs the story with illustrations. Its opening places three figures below the title; handwritten annotations and a library stamp record later encounters with the book. This is a copy made after the poet’s death, not his autograph.",
+        "zh": "阮攸经历西山动荡与阮朝建立，于1802年进入阮朝仕途。《金云翘传》成为越南文学重要作品，不断被抄写、刊印与诠释。\n\n大英图书馆收藏的一部19世纪后半叶抄本，将故事与插图结合。卷首题名下绘有三个人物，手写批注与馆藏印章记录了书籍后来的流转。这是诗人去世后的抄本，而非亲笔原稿。"
+      },
+      "rationale": "Replace generic cautionary prose with the specific later edition or manuscript while retaining meaningful source distinctions."
+    }
+  ],
+  "held": [
+    "State Library of Queensland canefield photograph remains blocked and absent; neither fetched nor included in this batch."
+  ],
+  "ownerReview": "Both exact downloaded images viewed locally; SHA-256 and dimensions recorded. No cropping, editing or generated content."
+}

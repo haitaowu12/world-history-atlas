@@ -1,6 +1,6 @@
 # Historical images: credits and reuse
 
-Reviewed 2026-11-13. 543 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
+Reviewed 2026-11-13. 545 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
 
 Historical artifacts, surviving places and later depictions retain their source identities. No generated reconstructions are included in this catalogue.
 
@@ -3853,6 +3853,34 @@ Official derivative saved unchanged, including surviving edges and marks.
 The exact full IIIF manifest marks this manuscript No Known Copyright and dates it to 1279. Princeton Library claims no copyright in digital reproductions of collection material.
 
 Official 1000-pixel derivative saved unchanged; no cropping, recoloring or retouching.
+
+## Malay Annals: the 1821 English title page / 《马来纪年》：1821年英译本扉页
+
+- File: exact-22-wellcome-malay-annals.jpg
+- Creator: John Leyden, translator; Stamford Raffles, introduction
+- Date: 1821
+- Collection: Wellcome Collection
+- Source: https://wellcomecollection.org/works/r9gx3qq5
+- Rights: Public Domain Mark (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://wellcomecollection.org/works/r9gx3qq5
+
+The exact Wellcome item marks the digitized book Public Domain and permits reuse for any purpose without copyright restriction.
+
+Official 615 × 1024-pixel derivative saved unchanged; no cropping or retouching.
+
+## Truyện Kiều: an illustrated manuscript opening / 《金云翘传》：绘图抄本卷首
+
+- File: exact-22-bl-kieu-frontispiece.jpg
+- Creator: Nguyễn Du, text; copyist and illustrator unrecorded
+- Date: Second half of the 19th century
+- Collection: British Library
+- Source: https://searcharchives.bl.uk/catalog/032-002254900
+- Rights: Public Domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://bl.digirati.io/iiif/ark:/81055/vdc_100165477525.0x000001
+
+The exact British Library IIIF manifest identifies Or 14844 and declares Public Domain usage terms with the Public Domain Mark.
+
+Official 646 × 1024-pixel derivative saved unchanged; margins, annotations and stamp retained.
 
 ## The coronation remembered in 1840 / 1840年画中的查理曼加冕
 

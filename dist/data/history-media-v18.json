@@ -18813,6 +18813,136 @@
       }
     },
     {
+      "id": "exact-22-wellcome-malay-annals",
+      "recordIds": [
+        "malay-annals-court-memory"
+      ],
+      "kind": "document",
+      "representation": "document-facsimile",
+      "title": {
+        "en": "Malay Annals: the 1821 English title page",
+        "zh": "《马来纪年》：1821年英译本扉页"
+      },
+      "alt": {
+        "en": "Printed title page naming Malay Annals, translator John Leyden and introducer Stamford Raffles, with London and 1821 below.",
+        "zh": "印刷扉页题为《马来纪年》，列出译者约翰·莱登与序言作者斯坦福·莱佛士，下方标注伦敦和1821年。"
+      },
+      "caption": {
+        "en": "Title page of John Leyden’s English translation, with an introduction by Stamford Raffles. London: Longman, Hurst, Rees, Orme, and Brown, 1821. Wellcome Collection, EPB/B/47949.",
+        "zh": "约翰·莱登英译本扉页，斯坦福·莱佛士作序。伦敦Longman、Hurst、Rees、Orme与Brown出版，1821年。惠康收藏馆，EPB/B/47949。"
+      },
+      "interpretation": {
+        "en": "The page names the translator and introducer prominently. It shows how a Malay court text reached an English-reading audience two centuries after the Johor compilation, not the original 1612 manuscript.",
+        "zh": "扉页突出列出译者与序言作者姓名。它显示柔佛编纂约两百年后，马来宫廷文本如何进入英语读者的视野，并非1612年的原始手稿。"
+      },
+      "creator": "John Leyden, translator; Stamford Raffles, introduction",
+      "date": "1821",
+      "institution": "Wellcome Collection",
+      "credit": "Wellcome Collection, EPB/B/47949; Public Domain Mark",
+      "imageUrl": "https://iiif.wellcomecollection.org/image/b29336600_0009.jp2/full/615,1024/0/default.jpg",
+      "sourceUrl": "https://wellcomecollection.org/works/r9gx3qq5",
+      "rightsSourceUrl": "https://wellcomecollection.org/works/r9gx3qq5",
+      "rights": {
+        "label": "Public Domain Mark",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "note": {
+          "en": "The exact Wellcome item marks the digitized book Public Domain and permits reuse for any purpose without copyright restriction.",
+          "zh": "惠康此藏本记录将数字化书籍标示为公有领域，允许不受版权限制地用于任何用途。"
+        }
+      },
+      "transformation": {
+        "en": "Official 615 × 1024-pixel derivative saved unchanged; no cropping or retouching.",
+        "zh": "原样保存官方615×1024像素衍生图；未裁切或修饰。"
+      },
+      "checkedAt": "2026-11-13",
+      "file": "assets/history-media/exact-22-wellcome-malay-annals.jpg",
+      "height": 1024,
+      "width": 615,
+      "format": "jpeg",
+      "bytes": 114847,
+      "sha256": "7fc5d2d19c3a5d1e47cb41e0c9f058eab0270054a024b0d61334abe08792c1d4",
+      "downloadedFrom": "https://iiif.wellcomecollection.org/image/b29336600_0009.jp2/full/615,1024/0/default.jpg",
+      "metadataI18n": {
+        "date": {
+          "en": "1821",
+          "zh": "1821年"
+        },
+        "creator": {
+          "en": "John Leyden, translator; Stamford Raffles, introduction",
+          "zh": "约翰·莱登译；斯坦福·莱佛士作序"
+        },
+        "institution": {
+          "en": "Wellcome Collection",
+          "zh": "惠康收藏馆"
+        }
+      }
+    },
+    {
+      "id": "exact-22-bl-kieu-frontispiece",
+      "recordIds": [
+        "person-nguyen-du"
+      ],
+      "kind": "manuscript",
+      "representation": "manuscript-detail",
+      "title": {
+        "en": "Truyện Kiều: an illustrated manuscript opening",
+        "zh": "《金云翘传》：绘图抄本卷首"
+      },
+      "alt": {
+        "en": "Manuscript opening with large title characters above three figures beside a tree, handwritten notes at the top and a red library stamp below.",
+        "zh": "抄本卷首以大字题名，下绘树旁三个人物；页顶有手写批注，下方盖有红色图书馆印章。"
+      },
+      "caption": {
+        "en": "Opening page, fol. 1r, of an illustrated copy of Nguyễn Du’s Truyện Kiều. The British Library dates the manuscript to the second half of the nineteenth century. Or 14844.",
+        "zh": "阮攸《金云翘传》绘图抄本卷首，第1叶正面。大英图书馆将此抄本定为19世纪后半叶，馆藏编号Or 14844。"
+      },
+      "interpretation": {
+        "en": "Title, drawn figures and later annotations occupy the same page. The surviving copy makes the poem’s circulation visible after Nguyễn Du’s death; its figures belong to the illustrated story, not a portrait of the poet.",
+        "zh": "题名、绘制的人物与后加批注共存于一页。存世抄本呈现阮攸去世后诗作的流传；图中人物属于故事插图，并非诗人肖像。"
+      },
+      "creator": "Nguyễn Du, text; copyist and illustrator unrecorded",
+      "date": "Second half of the 19th century",
+      "institution": "British Library",
+      "credit": "British Library, Or 14844, fol. 1r; Public Domain",
+      "imageUrl": "https://bl.digirati.io/images/ark:/81055/vdc_100166066659.0x000001/full/646,1024/0/default.jpg",
+      "sourceUrl": "https://searcharchives.bl.uk/catalog/032-002254900",
+      "rightsSourceUrl": "https://bl.digirati.io/iiif/ark:/81055/vdc_100165477525.0x000001",
+      "rights": {
+        "label": "Public Domain",
+        "url": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "note": {
+          "en": "The exact British Library IIIF manifest identifies Or 14844 and declares Public Domain usage terms with the Public Domain Mark.",
+          "zh": "大英图书馆此IIIF清单明确标识Or 14844，将使用条款列为公有领域，并提供Public Domain Mark链接。"
+        }
+      },
+      "transformation": {
+        "en": "Official 646 × 1024-pixel derivative saved unchanged; margins, annotations and stamp retained.",
+        "zh": "原样保存官方646×1024像素衍生图；保留页边、批注与印章。"
+      },
+      "checkedAt": "2026-11-13",
+      "file": "assets/history-media/exact-22-bl-kieu-frontispiece.jpg",
+      "height": 1024,
+      "width": 646,
+      "format": "jpeg",
+      "bytes": 75376,
+      "sha256": "3ee87d6d751e9c3de1a44f78ce9a40a71205396f87beaaa9536853b1b697399c",
+      "downloadedFrom": "https://bl.digirati.io/images/ark:/81055/vdc_100166066659.0x000001/full/646,1024/0/default.jpg",
+      "metadataI18n": {
+        "date": {
+          "en": "Second half of the 19th century",
+          "zh": "19世纪后半叶"
+        },
+        "creator": {
+          "en": "Nguyễn Du, text; copyist and illustrator unrecorded",
+          "zh": "阮攸著；抄写者及绘图者姓名未载"
+        },
+        "institution": {
+          "en": "British Library",
+          "zh": "大英图书馆"
+        }
+      }
+    },
+    {
       "id": "getty-images-02-charlemagne",
       "file": "assets/history-media/getty-images-02-charlemagne.jpg",
       "recordIds": [
@@ -41603,6 +41733,17 @@
       },
       "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/14782?dep=P",
       "checkedAt": "2026-11-11"
+    },
+    {
+      "assetId": "exact-22-wellcome-malay-annals",
+      "recordId": "person-tun-sri-lanang",
+      "role": "related-work",
+      "context": {
+        "en": "An 1821 English edition of the work associated with Tun Sri Lanang’s compilation and editing; not his handwriting or portrait.",
+        "zh": "与敦斯里拉囊编纂、整理相关作品的1821年英译本，并非其亲笔或肖像。"
+      },
+      "evidenceUrl": "https://www.nlb.gov.sg/main/article-detail?cmsuuid=ad42c473-1e98-4a33-ba27-59681aac2b1d",
+      "checkedAt": "2026-11-13"
     },
     {
       "assetId": "china-batch-06-licunxu",
