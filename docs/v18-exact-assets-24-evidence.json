@@ -110,5 +110,11 @@
   },
   "heldEarlierOperations": [
     "Princeton Kuba 24328 download was previously denied and has not been retried."
-  ]
+  ],
+  "independentReview": {
+    "reviewedCommit": "a66a0252caed63f570b54e10ef0c312e3ff18f28",
+    "findings": "No release-blocking defect. Five image hashes and sizes match; frozen V17 source files unchanged; chronology paths agree.",
+    "correction": "Changed Malagan alt from open-mouthed to large toothed head after comparing institutional wording.",
+    "limits": "Independent audit did not recertify all Nationaal Archief metadata; owner inspected exact institutional embedded metadata and pixels. No new independent browser review."
+  }
 }
