@@ -20,4 +20,4 @@ Evidence: `v18-exact-assets-17-evidence.json` and `v18-exact-existing-links-13-e
 
 ## Publication state
 
-Prepared implementation is not a live release. Main/live remain the verified **900-entry** release `1892e4c3bf5e4bd3416d82efdfe90d1dd1b42531`. Remote review remains at **959 entries**, `417f2ece5e2a60118c734a003d5fe9b5fb4d3779`. The earlier local **968-entry** commit `56d5cdc118630f6a645dc659a146ca2a5dc4c31a` awaits specific retry authorization after a tool denial. This newer work does not change the exact SHA of that pending request. No GitHub Actions are used.
+Prepared implementation is not a live release. Main/live remain the verified **900-entry** release `1892e4c3bf5e4bd3416d82efdfe90d1dd1b42531`. Remote review remains at **959 entries**, `417f2ece5e2a60118c734a003d5fe9b5fb4d3779`. No GitHub Actions are used.

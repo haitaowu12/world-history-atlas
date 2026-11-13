@@ -3,9 +3,9 @@
   "reviewedAt": "2026-11-13",
   "baselineManifest": "content-expansion-v17.json",
   "total": 2087,
-  "covered": 985,
-  "assets": 540,
-  "percent": 47.19693339722089,
+  "covered": 992,
+  "assets": 542,
+  "percent": 47.53234307618591,
   "coveredIds": [
     "abbasid-caliphate",
     "abu-simbel-relocation",
@@ -208,6 +208,7 @@
     "china-event-xihan-004",
     "china-event-xihan-006",
     "china-event-xihan-010",
+    "china-event-xihan-011",
     "china-event-xihan-013",
     "china-event-xihan-014",
     "china-event-xihan-017",
@@ -376,6 +377,9 @@
     "china-landmark-297",
     "china-landmark-298",
     "china-landmark-299",
+    "china-landmark-302",
+    "china-landmark-303",
+    "china-landmark-304",
     "china-landmark-306",
     "china-landmark-307",
     "china-landmark-308",
@@ -516,6 +520,7 @@
     "china-landmark-510",
     "china-landmark-512",
     "china-landmark-516",
+    "china-landmark-518",
     "china-landmark-519",
     "china-landmark-520",
     "china-landmark-523",
@@ -638,6 +643,7 @@
     "china-yongle-encyclopedia-1403",
     "chinese-exclusion-us",
     "chola-dynasty",
+    "christian-jewish-communities-late-antiquity",
     "chuquibamba-stars-imperial-tunic",
     "cold-war-world-history",
     "congress-vienna",
@@ -881,6 +887,7 @@
     "person-maria-sibylla-merian",
     "person-marie-curie",
     "person-martin-luther-king-jr",
+    "person-mary-wollstonecraft",
     "person-murasaki",
     "person-nelson-mandela",
     "person-nicolaus-copernicus",
@@ -1423,7 +1430,6 @@
     "khalsa-anandpur-1699",
     "jewish-communities-second-temple",
     "rabbinic-judaism-after-70",
-    "christian-jewish-communities-late-antiquity",
     "ur-copper-complaint-tablet",
     "babylonian-recipe-tablets",
     "tonga-ngatu-making-history",
@@ -1512,7 +1518,6 @@
     "person-mau-piailug",
     "person-michael-somare",
     "person-epeli-hauofa",
-    "person-mary-wollstonecraft",
     "person-lise-meitner",
     "person-irena-sendler",
     "person-rosa-luxemburg",
@@ -1623,11 +1628,6 @@
     "china-event-xihan-009",
     "china-landmark-300",
     "china-landmark-301",
-    "china-landmark-302",
-    "china-landmark-303",
-    "china-landmark-518",
-    "china-event-xihan-011",
-    "china-landmark-304",
     "china-event-xihan-012",
     "china-landmark-104",
     "china-landmark-120",
@@ -2099,7 +2099,7 @@
   ],
   "target": 1044,
   "targetMet": false,
-  "remaining": 59,
+  "remaining": 52,
   "regions": {
     "africa": {
       "total": 136,
@@ -2107,11 +2107,11 @@
     },
     "east-asia": {
       "total": 1216,
-      "covered": 611
+      "covered": 616
     },
     "europe": {
       "total": 122,
-      "covered": 78
+      "covered": 79
     },
     "latin-america": {
       "total": 94,
@@ -2135,13 +2135,13 @@
     },
     "west-central-asia": {
       "total": 111,
-      "covered": 48
+      "covered": 49
     }
   },
   "types": {
     "ancient-portrait": 2,
     "ancient-royal-image": 2,
-    "document-facsimile": 42,
+    "document-facsimile": 43,
     "historical-artwork": 78,
     "historical-photograph": 86,
     "historical-portrait": 31,
@@ -2149,7 +2149,7 @@
     "lifetime-portrait": 18,
     "manuscript-detail": 38,
     "modern-memorial": 1,
-    "object-photograph": 123,
+    "object-photograph": 124,
     "site-photograph": 52
   },
   "shards": [
@@ -2441,6 +2441,13 @@
       "associations": 0
     },
     {
+      "file": "visual-assets-exact-18-v18.json",
+      "bytes": 6108,
+      "sha256": "eed731834583abc4a0628445c484a39bb5253927bd1ec7f6673fab600c70f7da",
+      "assets": 2,
+      "associations": 0
+    },
+    {
       "file": "visual-assets-exact-links-09-v18.json",
       "bytes": 11891,
       "sha256": "45674bad4ee0587b8792b6a6ac408aa53b593ced7c415a850d603434934a1f11",
@@ -2474,6 +2481,13 @@
       "sha256": "c53e023011a7fa50e5c14aaa976decedcd0997f0036f74d7283c2a88ee89afef",
       "assets": 0,
       "associations": 6
+    },
+    {
+      "file": "visual-assets-exact-links-14-v18.json",
+      "bytes": 3717,
+      "sha256": "7286884acd002b307fa8992a70674c32f19c3de8c6c7c47b3a15ee15e5451a3e",
+      "assets": 0,
+      "associations": 5
     },
     {
       "file": "visual-assets-existing-links-01-v18.json",
@@ -2756,6 +2770,6 @@
       "associations": 0
     }
   ],
-  "assetBytes": 102807959,
+  "assetBytes": 103086025,
   "verification": "All admitted files match their SHA-256, byte count and encoded dimensions. Source identity, reuse rights, pixel review and entry relevance require the individual editorial records; structural validation does not establish those facts."
 }

@@ -2648,6 +2648,171 @@
           "evidenceNoteZh": "井陉段（140—141行）明确为“号称二十万”；包括韩信、张耳、背水阵与换旗奇兵。"
         }
       ]
+    },
+    {
+      "id": "china-landmark-302",
+      "patch": {
+        "title": {
+          "en": "Huo Qubing’s early campaign and enfeoffment",
+          "zh": "霍去病初战与封侯"
+        },
+        "summary": {
+          "en": "The Shiji describes Huo Qubing as eighteen when he accompanied Wei Qing and led 800 light cavalry away from the main army. Its account reports killings and captures, followed by his enfeoffment as Marquis of Guanjun. The title follows the expedition; it is not a rank he already held when setting out.",
+          "zh": "《史记》记霍去病“年十八”随卫青出征，率八百轻骑离开大军深入；继而记杀获与封冠军侯。封号在此次出征之后，并非出发时已有的爵位。"
+        },
+        "dateNote": {
+          "en": "The inherited year anchors this account; the map location is representative.",
+          "zh": "年份沿用来源；地图点位为示意位置。"
+        }
+      },
+      "note": {
+        "en": "Reviewed the cited Shiji passage for sequence, attribution and consequences. Original year and map point retained; ancient counts are not independently audited.",
+        "zh": "核对所引《史记》段落的次序、归属与后果；保留原年份和地图点位，古代数量未作独立核算。"
+      },
+      "sources": [
+        {
+          "title": "《史记》卷111 · Shiji 111",
+          "url": "https://zh.wikisource.org/wiki/史記/卷111",
+          "publisher": "维基文库 · Wikisource",
+          "author": "司马迁 · Sima Qian",
+          "checkedAt": "2026-11-13",
+          "retrieval": "primary-text-opened",
+          "evidenceNote": "Line 158: recorded age eighteen, 800 cavalry, reported killings/captures and subsequent enfeoffment.",
+          "evidenceNoteZh": "158行：所记年龄十八、八百骑、杀获与随后封侯。"
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-303",
+      "patch": {
+        "title": {
+          "en": "Hexi in 121 BCE: campaigns, surrender and resettlement",
+          "zh": "公元前121年的河西：征战、降附与迁徙"
+        },
+        "summary": {
+          "en": "The Shiji separates spring and summer campaigns from the autumn reception of Hunye’s people. Huo Qubing’s forces attacked through the western Xiongnu territories; during the later surrender, the text reports that 8,000 people attempting to leave were killed. Those who crossed into Han territory were subsequently moved into dependent communities along the frontier.",
+          "zh": "《史记》将春夏征战与秋天接收浑邪王部众分开叙述。霍去病军进攻匈奴西部；后来的降附过程中，记有八千欲离去者被杀。渡河入汉的部众，随后被迁置边郡故塞外，设置属国。"
+        },
+        "dateNote": {
+          "en": "The inherited year anchors this account; the map location is representative.",
+          "zh": "年份沿用来源；地图点位为示意位置。"
+        }
+      },
+      "note": {
+        "en": "Reviewed the cited Shiji passage for sequence, attribution and consequences. Original year and map point retained; ancient counts are not independently audited.",
+        "zh": "核对所引《史记》段落的次序、归属与后果；保留原年份和地图点位，古代数量未作独立核算。"
+      },
+      "sources": [
+        {
+          "title": "《史记》卷111 · Shiji 111",
+          "url": "https://zh.wikisource.org/wiki/史記/卷111",
+          "publisher": "维基文库 · Wikisource",
+          "author": "司马迁 · Sima Qian",
+          "checkedAt": "2026-11-13",
+          "retrieval": "primary-text-opened",
+          "evidenceNote": "Lines 169–173: spring, summer and autumn sequence; killings during surrender and subsequent relocation. Does not retain an unsupported exact 40,000 total.",
+          "evidenceNoteZh": "169—173行：春夏秋次序、降附中的杀戮与后续迁置；不保留该段未确认的四万总数。"
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-518",
+      "patch": {
+        "title": {
+          "en": "The summer Qilian campaign",
+          "zh": "夏季祁连山战役"
+        },
+        "summary": {
+          "en": "The Shiji places Huo Qubing’s march past Juyan toward the Qilian Mountains in the summer of 121 BCE. It reports captures and killings, while the imperial commendation also acknowledges that his army had been reduced by three-tenths. Hunye’s surrender follows in the autumn, rather than being part of the same summer encounter.",
+          "zh": "《史记》将霍去病越居延、至祁连山的进军记在公元前121年夏季。传记记述杀获，所引诏书也称其军“减什三”。浑邪王降附则记在秋季，并非同一场夏季交战。"
+        },
+        "dateNote": {
+          "en": "The inherited year anchors this account; the map location is representative.",
+          "zh": "年份沿用来源；地图点位为示意位置。"
+        }
+      },
+      "note": {
+        "en": "Reviewed the cited Shiji passage for sequence, attribution and consequences. Original year and map point retained; ancient counts are not independently audited.",
+        "zh": "核对所引《史记》段落的次序、归属与后果；保留原年份和地图点位，古代数量未作独立核算。"
+      },
+      "sources": [
+        {
+          "title": "《史记》卷111 · Shiji 111",
+          "url": "https://zh.wikisource.org/wiki/史記/卷111",
+          "publisher": "维基文库 · Wikisource",
+          "author": "司马迁 · Sima Qian",
+          "checkedAt": "2026-11-13",
+          "retrieval": "primary-text-opened",
+          "evidenceNote": "Lines 170–171: summer route and official three-tenths reduction; autumn surrender is a separate episode.",
+          "evidenceNoteZh": "170—171行：夏季路线与诏书所称减什三；秋季降附为另一阶段。"
+        }
+      ]
+    },
+    {
+      "id": "china-event-xihan-011",
+      "patch": {
+        "title": {
+          "en": "Mobei: two armies and a costly desert campaign",
+          "zh": "漠北：两支军队与高昂的远征代价"
+        },
+        "summary": {
+          "en": "The Shiji describes Wei Qing and Huo Qubing each leading 50,000 cavalry north of the desert in 119 BCE. Wei Qing encountered the chanyu, who escaped, while Huo Qubing advanced on a separate route. The account reports that fewer than 30,000 of the 140,000 horses taken beyond the frontier returned, making logistics and losses central to the campaign.",
+          "zh": "《史记》记公元前119年卫青、霍去病各率五万骑越漠。卫青遭遇单于，单于突围而去；霍去病另路深入。传记称出塞官私马十四万匹，返回者不足三万，后勤与损耗构成此次远征的重要一面。"
+        },
+        "dateNote": {
+          "en": "The inherited year anchors this account; the map location is representative.",
+          "zh": "年份沿用来源；地图点位为示意位置。"
+        }
+      },
+      "note": {
+        "en": "Reviewed the cited Shiji passage for sequence, attribution and consequences. Original year and map point retained; ancient counts are not independently audited.",
+        "zh": "核对所引《史记》段落的次序、归属与后果；保留原年份和地图点位，古代数量未作独立核算。"
+      },
+      "sources": [
+        {
+          "title": "《史记》卷111 · Shiji 111",
+          "url": "https://zh.wikisource.org/wiki/史記/卷111",
+          "publisher": "维基文库 · Wikisource",
+          "author": "司马迁 · Sima Qian",
+          "checkedAt": "2026-11-13",
+          "retrieval": "primary-text-opened",
+          "evidenceNote": "Lines 176–181: separate routes, chanyu’s escape and 140,000 horses out / fewer than 30,000 back. Numbers are attributed to the text.",
+          "evidenceNoteZh": "176—181行：两路进军、单于逃脱及出塞十四万马、归者不足三万；数字注明来自史书。"
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-304",
+      "patch": {
+        "title": {
+          "en": "Huo Qubing’s rites at Langjuxu",
+          "zh": "霍去病封狼居胥"
+        },
+        "summary": {
+          "en": "The Shiji quotes an imperial commendation describing Huo Qubing’s northern advance, rites at Mount Langjuxu and Guyan, and arrival at Hanhai. The same passage reports both large captures and a reduction of three-tenths in his force. Ritual, reward and military accounting are presented together in the court’s record of victory.",
+          "zh": "《史记》所引诏书叙述霍去病向北进军、封狼居胥山、禅姑衍，并登临翰海。同一段也记大量杀获与本军减什三；仪式、封赏与军功计算共同构成朝廷对胜利的记述。"
+        },
+        "dateNote": {
+          "en": "The inherited year anchors this account; the map location is representative.",
+          "zh": "年份沿用来源；地图点位为示意位置。"
+        }
+      },
+      "note": {
+        "en": "Reviewed the cited Shiji passage for sequence, attribution and consequences. Original year and map point retained; ancient counts are not independently audited.",
+        "zh": "核对所引《史记》段落的次序、归属与后果；保留原年份和地图点位，古代数量未作独立核算。"
+      },
+      "sources": [
+        {
+          "title": "《史记》卷111 · Shiji 111",
+          "url": "https://zh.wikisource.org/wiki/史記/卷111",
+          "publisher": "维基文库 · Wikisource",
+          "author": "司马迁 · Sima Qian",
+          "checkedAt": "2026-11-13",
+          "retrieval": "primary-text-opened",
+          "evidenceNote": "Line 180, imperial commendation: Langjuxu, Guyan and Hanhai, captures and three-tenths reduction. Does not assert a modern identification for these places.",
+          "evidenceNoteZh": "180行诏书：狼居胥、姑衍、翰海、杀获与减什三；不据此断定这些地名的现代位置。"
+        }
+      ]
     }
   ]
 }

@@ -19,4 +19,4 @@ The links identify later portrait traditions and their named subjects. They do n
 
 ## Publication state
 
-This document describes prepared local work, not a live release. At preparation, main/live remain the verified **900-entry** release `1892e4c3bf5e4bd3416d82efdfe90d1dd1b42531`. The remote review branch is at the **959-entry** checkpoint `417f2ece5e2a60118c734a003d5fe9b5fb4d3779`. The local **968-entry** commit `56d5cdc118630f6a645dc659a146ca2a5dc4c31a` awaits specific save authorization after a tool denial; newer work is preserved locally without retrying that operation. No GitHub Actions are used.
+This document describes prepared local work, not a live release. At preparation, main/live remain the verified **900-entry** release `1892e4c3bf5e4bd3416d82efdfe90d1dd1b42531`. The remote review branch is at the **959-entry** checkpoint `417f2ece5e2a60118c734a003d5fe9b5fb4d3779`. No GitHub Actions are used.

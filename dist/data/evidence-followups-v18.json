@@ -1041,5 +1041,51 @@
       "en": "Added the illustrated cloth’s precise collection record; retained the existing V&A sources.",
       "zh": "新增配图围布的准确馆藏记录，保留既有V&A来源。"
     }
+  },
+  {
+    "recordId": "christian-jewish-communities-late-antiquity",
+    "checkedAt": "2026-11-13",
+    "sources": [
+      {
+        "title": "Bowl fragments with menorah, shofar and Torah ark, Roman, 300–350 CE. Glass and gold leaf; The Metropolitan Museum of Art, 18.145.1a, b.",
+        "url": "https://www.metmuseum.org/art/collection/search/465921",
+        "publisher": "The Metropolitan Museum of Art",
+        "evidenceNote": "The museum identifies Jewish ritual imagery within a Roman glass vessel. This is evidence of a specific visual tradition, not an image of the Dura-Europos buildings or proof of relations between all communities.",
+        "checkedAt": "2026-11-13",
+        "retrieval": "official-item-page-and-manifest-or-api",
+        "evidenceNoteZh": "馆方识别出以金箔描出的经柜与犹太仪式器物。这件罗马器皿与下文杜拉欧罗普斯建筑，保存了不同形式的社群证据。"
+      }
+    ],
+    "reviewLimit": {
+      "en": "The bowl is Roman Jewish material evidence, not a Dura-Europos find. The interpretation of communal differentiation remains attributed to Tiwald.",
+      "zh": "玻璃碗属于罗马犹太物质文化，并非杜拉欧罗普斯出土物；社群分化的解释仍注明出自蒂瓦尔德。"
+    },
+    "note": {
+      "en": "Added the exact illustrated object or edition source, preserving existing references.",
+      "zh": "新增配图实物或刊本的准确来源，并保留原有参考资料。"
+    }
+  },
+  {
+    "recordId": "person-mary-wollstonecraft",
+    "checkedAt": "2026-11-13",
+    "sources": [
+      {
+        "title": "Mary Wollstonecraft, A Vindication of the Rights of Woman, London: J. Johnson, 1792; title page. Princeton University Library, Sid Lapidus Collection.",
+        "url": "https://digital-collections.princeton.edu/i/vindication-rights-woman-strictures/item/dc86efb1-42b3-4f17-94f0-25cf868a5659/metadata",
+        "publisher": "Princeton University Library",
+        "evidenceNote": "The printed title places women’s rights beside political and moral questions. The visible author, publisher and date anchor the argument in a specific publication rather than a later portrait.",
+        "checkedAt": "2026-11-13",
+        "retrieval": "official-item-page-and-manifest-or-api",
+        "evidenceNoteZh": "印刷书名将女性权利与政治、道德问题并置。可见的作者、出版者与日期把论述定位于一部具体刊本，而非后世肖像。"
+      }
+    ],
+    "reviewLimit": {
+      "en": "The new source supports the 1792 edition and visible imprint. Earlier biographical and reception claims retain their existing sources.",
+      "zh": "新增来源支持1792年刊本及可见出版印记；既有生平与接受史仍依据原有来源。"
+    },
+    "note": {
+      "en": "Added the exact illustrated object or edition source, preserving existing references.",
+      "zh": "新增配图实物或刊本的准确来源，并保留原有参考资料。"
+    }
   }
 ]

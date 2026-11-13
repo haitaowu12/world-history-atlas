@@ -1,6 +1,6 @@
 # Historical images: credits and reuse
 
-Reviewed 2026-11-13. 540 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
+Reviewed 2026-11-13. 542 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
 
 Historical artifacts, surviving places and later depictions retain their source identities. No generated reconstructions are included in this catalogue.
 
@@ -3811,6 +3811,34 @@ Official web-large derivative saved unchanged.
 This exact object page offers a public-domain image download. Museum policy permits free use of downloadable public-domain images and distinguishes restricted works, which cannot be downloaded.
 
 Official 1024-pixel derivative saved unchanged, retaining the cloth edges and central seam.
+
+## Jewish symbols in Roman gold glass / 罗马金箔玻璃上的犹太象征
+
+- File: exact-18-met-465921.jpg
+- Creator: Maker unrecorded
+- Date: 300–350 CE
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/465921
+- Rights: Public Domain / CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/465921
+
+The exact item page labels the image Public Domain; the official API confirms isPublicDomain=true.
+
+Official derivative saved unchanged, including surviving edges and marks.
+
+## A Vindication in print, 1792 / 1792年印本《女权辩护》
+
+- File: exact-18-princeton-wollstonecraft.jpg
+- Creator: Mary Wollstonecraft; printed for J. Johnson
+- Date: 1792
+- Collection: Princeton University Library
+- Source: https://digital-collections.princeton.edu/i/vindication-rights-woman-strictures/item/dc86efb1-42b3-4f17-94f0-25cf868a5659/metadata
+- Rights: No Known Copyright (https://rightsstatements.org/vocab/NKC/1.0/)
+- Rights evidence: https://figgy.princeton.edu/concern/scanned_resources/dc86efb1-42b3-4f17-94f0-25cf868a5659/manifest
+
+The exact item and full manifest state No Known Copyright. The catalogue dates this edition to 1792 and its author to 1759–1797; Princeton Library claims no copyright in its digital reproductions.
+
+Official derivative saved unchanged, including surviving edges and marks.
 
 ## The coronation remembered in 1840 / 1840年画中的查理曼加冕
 

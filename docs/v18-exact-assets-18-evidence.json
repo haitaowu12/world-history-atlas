@@ -1,0 +1,172 @@
+{
+  "sourceEvidence": [
+    {
+      "assetId": "exact-18-met-465921",
+      "pixelReviewed": true,
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/465921",
+      "rightsSourceUrl": "https://www.metmuseum.org/art/collection/search/465921",
+      "bytes": 96551,
+      "width": 600,
+      "height": 469,
+      "sha256": "c8f5aff8bbb0dbcb2cac8361a946ccf45e8a5fdddae4809dc274b06ec6679674"
+    },
+    {
+      "assetId": "exact-18-princeton-wollstonecraft",
+      "pixelReviewed": true,
+      "sourceUrl": "https://digital-collections.princeton.edu/i/vindication-rights-woman-strictures/item/dc86efb1-42b3-4f17-94f0-25cf868a5659/metadata",
+      "rightsSourceUrl": "https://figgy.princeton.edu/concern/scanned_resources/dc86efb1-42b3-4f17-94f0-25cf868a5659/manifest",
+      "bytes": 181515,
+      "width": 1000,
+      "height": 1679,
+      "sha256": "e731dee4664507c6a4192710ad0a14d5c5e044d535ba2e89308034e5160d718d"
+    }
+  ],
+  "admittedAssets": [
+    {
+      "id": "exact-18-met-465921",
+      "recordIds": [
+        "christian-jewish-communities-late-antiquity"
+      ],
+      "kind": "object",
+      "representation": "object-photograph",
+      "title": {
+        "en": "Jewish symbols in Roman gold glass",
+        "zh": "罗马金箔玻璃上的犹太象征"
+      },
+      "alt": {
+        "en": "Two broken greenish glass pieces carry gold outlines of a central cabinet, branching lamps and curved lettering around the rim.",
+        "zh": "两块破碎的淡绿色玻璃上，金色线条勾出中央柜体、分枝灯架及沿边缘环绕的文字。"
+      },
+      "caption": {
+        "en": "Bowl fragments with menorah, shofar and Torah ark, Roman, 300–350 CE. Glass and gold leaf; The Metropolitan Museum of Art, 18.145.1a, b.",
+        "zh": "带烛台、羊角号及经柜的碗残片，罗马，公元300至350年。玻璃与金箔；大都会艺术博物馆，18.145.1a, b。"
+      },
+      "interpretation": {
+        "en": "The museum identifies a Torah ark and Jewish ritual implements picked out in gold leaf. This Roman vessel preserves a different kind of community evidence from the Dura-Europos buildings discussed below.",
+        "zh": "馆方识别出以金箔描出的经柜与犹太仪式器物。这件罗马器皿与下文杜拉欧罗普斯建筑，保存了不同形式的社群证据。"
+      },
+      "creator": "Maker unrecorded",
+      "date": "300–350 CE",
+      "institution": "The Metropolitan Museum of Art",
+      "credit": "Rogers Fund, 1918",
+      "file": "assets/history-media/exact-18-met-465921.jpg",
+      "imageUrl": "https://images.metmuseum.org/CRDImages/md/web-large/h1_18.145.1ab.jpg",
+      "downloadedFrom": "https://images.metmuseum.org/CRDImages/md/web-large/h1_18.145.1ab.jpg",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/465921",
+      "rightsSourceUrl": "https://www.metmuseum.org/art/collection/search/465921",
+      "rights": {
+        "label": "Public Domain / CC0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "note": {
+          "en": "The exact item page labels the image Public Domain; the official API confirms isPublicDomain=true.",
+          "zh": "单件页面将图像标为公共领域，官方API确认isPublicDomain=true。"
+        }
+      },
+      "transformation": {
+        "en": "Official derivative saved unchanged, including surviving edges and marks.",
+        "zh": "原样保存官方衍生图，保留存世边缘及痕迹。"
+      },
+      "checkedAt": "2026-11-13",
+      "width": 600,
+      "height": 469,
+      "bytes": 96551,
+      "sha256": "c8f5aff8bbb0dbcb2cac8361a946ccf45e8a5fdddae4809dc274b06ec6679674"
+    },
+    {
+      "id": "exact-18-princeton-wollstonecraft",
+      "recordIds": [
+        "person-mary-wollstonecraft"
+      ],
+      "kind": "document",
+      "representation": "document-facsimile",
+      "title": {
+        "en": "A Vindication in print, 1792",
+        "zh": "1792年印本《女权辩护》"
+      },
+      "alt": {
+        "en": "An aged title page names A Vindication of the Rights of Woman and Mary Wollstonecraft above a London imprint and the date 1792.",
+        "zh": "泛黄扉页列出《女权辩护》与玛丽·沃斯通克拉夫特姓名，下方为伦敦出版信息及1792年。"
+      },
+      "caption": {
+        "en": "Mary Wollstonecraft, A Vindication of the Rights of Woman, London: J. Johnson, 1792; title page. Princeton University Library, Sid Lapidus Collection.",
+        "zh": "玛丽·沃斯通克拉夫特《女权辩护》，伦敦：J.约翰逊，1792年；扉页。普林斯顿大学图书馆，西德·拉皮杜斯收藏。"
+      },
+      "interpretation": {
+        "en": "The printed title places women’s rights beside political and moral questions. The visible author, publisher and date anchor the argument in a specific publication rather than a later portrait.",
+        "zh": "印刷书名将女性权利与政治、道德问题并置。可见的作者、出版者与日期把论述定位于一部具体刊本，而非后世肖像。"
+      },
+      "creator": "Mary Wollstonecraft; printed for J. Johnson",
+      "date": "1792",
+      "institution": "Princeton University Library",
+      "credit": "Princeton University Library, The Sid Lapidus ’59 Collection on Liberty and the American Revolution, EX Lapidus 3.34",
+      "file": "assets/history-media/exact-18-princeton-wollstonecraft.jpg",
+      "imageUrl": "https://iiif-cloud.princeton.edu/iiif/2/b7%2F9b%2F65%2Fb79b650c559547329a8b638bea398a68%2Fintermediate_file/full/1000,/0/default.jpg",
+      "downloadedFrom": "https://iiif-cloud.princeton.edu/iiif/2/b7%2F9b%2F65%2Fb79b650c559547329a8b638bea398a68%2Fintermediate_file/full/1000,/0/default.jpg",
+      "sourceUrl": "https://digital-collections.princeton.edu/i/vindication-rights-woman-strictures/item/dc86efb1-42b3-4f17-94f0-25cf868a5659/metadata",
+      "rightsSourceUrl": "https://figgy.princeton.edu/concern/scanned_resources/dc86efb1-42b3-4f17-94f0-25cf868a5659/manifest",
+      "rights": {
+        "label": "No Known Copyright",
+        "url": "https://rightsstatements.org/vocab/NKC/1.0/",
+        "note": {
+          "en": "The exact item and full manifest state No Known Copyright. The catalogue dates this edition to 1792 and its author to 1759–1797; Princeton Library claims no copyright in its digital reproductions.",
+          "zh": "单件记录与完整清单标示无已知版权。目录将此版定为1792年、作者生卒定为1759至1797年；普林斯顿图书馆不对其数字复制品主张版权。"
+        }
+      },
+      "transformation": {
+        "en": "Official derivative saved unchanged, including surviving edges and marks.",
+        "zh": "原样保存官方衍生图，保留存世边缘及痕迹。"
+      },
+      "checkedAt": "2026-11-13",
+      "width": 1000,
+      "height": 1679,
+      "bytes": 181515,
+      "sha256": "e731dee4664507c6a4192710ad0a14d5c5e044d535ba2e89308034e5160d718d"
+    }
+  ],
+  "summaryChanges": [
+    {
+      "recordId": "christian-jewish-communities-late-antiquity",
+      "before": {
+        "en": "Over the second to fourth centuries, Jewish and Christian communities developed institutions and identities in different settings. Markus Tiwald’s essay argues that differentiation was prolonged and uneven, and reads later writers as evidence that some relationships and contested practices continued. That is a scholarly interpretation of selected texts, not proof of one timetable applying everywhere.\n\nThe Metropolitan Museum discusses a third-century synagogue at Dura-Europos near a Christian meeting house. These buildings are material evidence for particular communities, not proof that every Jew and Christian shared the same relationships. Judaism and Christianity both continued to develop after the end of this editorial window.",
+        "zh": "公元二至四世纪，犹太与基督徒社群在不同环境中发展制度和身份。马库斯·蒂瓦尔德的文章认为，二者分化漫长且各地不一，并把后世作者的文字视为某些关系和有争议实践仍然存在的证据。这是对部分文本的学术解释，不证明各地都遵循同一时间表。\n\n大都会艺术博物馆讨论了杜拉欧罗普斯一座公元三世纪会堂及其附近的基督徒聚会场所。这些建筑是特定社群的物质证据，不证明每个犹太人与基督徒之间的关系都相同。犹太教与基督教在本编辑时段之后均继续发展。"
+      },
+      "after": {
+        "en": "Over the second to fourth centuries, Jewish and Christian communities developed institutions and identities in different settings. Markus Tiwald’s essay argues that differentiation was prolonged and uneven, and reads later writers as evidence that some relationships and contested practices continued.\n\nThe Metropolitan Museum discusses a third-century synagogue at Dura-Europos near a Christian meeting house.\n\nA Roman gold-glass bowl dated 300–350 preserves a different kind of evidence: an open Torah ark and ritual implements rendered in gold leaf. The Metropolitan Museum identifies menorahs, a shofar and a citron. The fragile fragments make Jewish imagery visible within Roman material culture, alongside the architectural evidence from Dura-Europos.",
+        "zh": "公元二至四世纪，犹太与基督徒社群在不同环境中发展制度和身份。马库斯·蒂瓦尔德的文章认为，二者分化漫长且各地不一，并把后世作者的文字视为某些关系和有争议实践仍然存在的证据。\n\n大都会艺术博物馆讨论了杜拉欧罗普斯一座公元三世纪会堂及其附近的基督徒聚会场所。\n\n一件公元300至350年的罗马金箔玻璃碗，保存了另一类证据：以金箔描出的敞开经柜与仪式器物。大都会博物馆识别出烛台、羊角号和香橼。脆弱残片让罗马物质文化中的犹太图像变得可见，与杜拉欧罗普斯的建筑证据相互参照。"
+      },
+      "rationale": "Add exact material evidence and remove repetitive generic caveats while retaining dated, attributed interpretations.",
+      "source": {
+        "title": "Bowl fragments with menorah, shofar and Torah ark, Roman, 300–350 CE. Glass and gold leaf; The Metropolitan Museum of Art, 18.145.1a, b.",
+        "url": "https://www.metmuseum.org/art/collection/search/465921",
+        "publisher": "The Metropolitan Museum of Art",
+        "evidenceNote": "The museum identifies Jewish ritual imagery within a Roman glass vessel. This is evidence of a specific visual tradition, not an image of the Dura-Europos buildings or proof of relations between all communities.",
+        "checkedAt": "2026-11-13",
+        "retrieval": "official-item-page-and-manifest-or-api",
+        "evidenceNoteZh": "馆方识别出以金箔描出的经柜与犹太仪式器物。这件罗马器皿与下文杜拉欧罗普斯建筑，保存了不同形式的社群证据。"
+      }
+    },
+    {
+      "recordId": "person-mary-wollstonecraft",
+      "before": {
+        "en": "Wollstonecraft argued that women’s apparent dependence should be examined through education, social expectations and material relationships. Her political writing belonged to debates about virtue, commercial society and the French Revolution, not only to a later history of voting rights. Criticism of inherited privilege and the condition of women formed connected parts of her thought.\n\nA Vindication of the Rights of Woman appeared in 1792. It challenged forms of education that cultivated display and dependence rather than reason and responsibility. The work’s later reception changed: private-life controversy affected her reputation, while readers in different countries returned to her arguments for their own purposes. Her biography connects authorship and intellectual labor with questions about family, livelihood and citizenship. It does not assume that an eighteenth-century writer anticipated every position later associated with feminism, or that publication itself produced equal rights for her contemporaries.",
+        "zh": "沃斯通克拉夫特主张，应通过教育、社会期待和物质关系来考察女性表现出的依附状态。她的政治写作属于关于德性、商业社会及法国革命的争论，而不只是后来投票权历史的一部分。批评世袭特权与分析女性处境，是其思想中相互联系的内容。\n\n《女权辩护》于1792年出版，挑战培养装饰性表现与依附、却不培养理性和责任的教育方式。作品的接受后来发生变化：私生活争议影响声誉，不同国家的读者又为各自目的重读其论证。她的传记把写作及知识劳动，与家庭、生计和公民身份联系起来。本条不假定十八世纪作者已经预见后来所有女性主义立场，也不把出版等同于同时代女性立即取得平等权利。"
+      },
+      "after": {
+        "en": "Wollstonecraft argued that women’s apparent dependence should be examined through education, social expectations and material relationships. Her political writing belonged to debates about virtue, commercial society and the French Revolution, not only to a later history of voting rights. Criticism of inherited privilege and the condition of women formed connected parts of her thought.\n\nA Vindication of the Rights of Woman appeared in 1792. It challenged forms of education that cultivated display and dependence rather than reason and responsibility. The work’s later reception changed: private-life controversy affected her reputation, while readers in different countries returned to her arguments for their own purposes.\n\nThe surviving 1792 London title page names Wollstonecraft and frames women’s rights as a political and moral subject. Its imprint gives the publisher J. Johnson’s address at 72 St Paul’s Churchyard. Princeton’s digitized copy lets readers examine that publication directly.",
+        "zh": "沃斯通克拉夫特主张，应通过教育、社会期待和物质关系来考察女性表现出的依附状态。她的政治写作属于关于德性、商业社会及法国革命的争论，而不只是后来投票权历史的一部分。批评世袭特权与分析女性处境，是其思想中相互联系的内容。\n\n《女权辩护》于1792年出版，挑战培养装饰性表现与依附、却不培养理性和责任的教育方式。作品的接受后来发生变化：私生活争议影响声誉，不同国家的读者又为各自目的重读其论证。\n\n存世的1792年伦敦版扉页署有沃斯通克拉夫特姓名，将女性权利表述为政治与道德议题。出版印记列出J.约翰逊的地址：圣保罗教堂旁St Paul’s Churchyard街72号。普林斯顿的数字化藏本让读者得以直接查看这一刊本。"
+      },
+      "rationale": "Add exact material evidence and remove repetitive generic caveats while retaining dated, attributed interpretations.",
+      "source": {
+        "title": "Mary Wollstonecraft, A Vindication of the Rights of Woman, London: J. Johnson, 1792; title page. Princeton University Library, Sid Lapidus Collection.",
+        "url": "https://digital-collections.princeton.edu/i/vindication-rights-woman-strictures/item/dc86efb1-42b3-4f17-94f0-25cf868a5659/metadata",
+        "publisher": "Princeton University Library",
+        "evidenceNote": "The printed title places women’s rights beside political and moral questions. The visible author, publisher and date anchor the argument in a specific publication rather than a later portrait.",
+        "checkedAt": "2026-11-13",
+        "retrieval": "official-item-page-and-manifest-or-api",
+        "evidenceNoteZh": "印刷书名将女性权利与政治、道德问题并置。可见的作者、出版者与日期把论述定位于一部具体刊本，而非后世肖像。"
+      }
+    }
+  ],
+  "ownerPixelReview": "Both complete images inspected. Title page visibly shows Wollstonecraft, J. Johnson at number 72 and 1792. Gold glass preserves central ark and surrounding ritual imagery.",
+  "accessAndRightsRecord": "# Batch 18: Roman Jewish glass and Wollstonecraft's 1792 title page\n\nStable, bounded research-only package. Two useful images, no production/Git/Actions/deployment changes.\n\n## Accepted for owner review\n1. Met 465921, 18.145.1a,b: Jewish gold-glass bowl fragments, Roman, 300–350 CE → christian-jewish-communities-late-antiquity (entry window 100–400). The museum identifies the Torah ark, menorahs, shofar and citron. The caption does not claim a Dura-Europos findspot or universal coexistence. Exact item explicitly Public Domain; official API isPublicDomain=true. Unchanged official derivative, 96,551 bytes, pixels reviewed.\n2. Princeton Library dc86efb1-42b3-4f17-94f0-25cf868a5659: Mary Wollstonecraft, A Vindication of the Rights of Woman, London J. Johnson, 1792, title-page canvas → person-mary-wollstonecraft. The exact item and full IIIF manifest state No Known Copyright. Catalogued author dates 1759–1797; this is a 1792 edition, not a modern reprint. The title-page pixels visibly show title, author's name, J. Johnson address and 1792. Library policy explicitly claims no copyright in its digital reproductions: https://library.princeton.edu/about/policies/copyright-and-permissions-policies . Preserve the institution's exact NKC label rather than relabel CC0. Unchanged manifest-specified 1000-pixel JPEG, 181,515 bytes. No image edits or added marks.\n\nSource/image identifiers were checked against current media registry; no matches. Combined 278,066 bytes. Final validation against 985 entries / 540 assets: zero schema errors, zero stale before-summary values, two uncovered targets. Potential 987 / 542 if accepted. Source additions separate from summary patches; preserve existing sources.\n\n## Held / stopped\n- CDLI tablet 724 / YBC4644: exact image identified, but current CDLI terms restrict commercial/publication reuse without permission. No image acquired. https://cdli.earth/terms-of-use\n- Penn Halper400 Geniza letter: Princeton description usable, but official OPenn index timed out once in web reader and once in bounded command fetch; Colenda link timed out. No image/rights admission, no further requests.\n- Royal Danish Library Guaman Poma: collection overview opened; linked digitization https://poma.kb.dk/permalink/2006/poma/info/en/frontpage.htm returned 403. Stopped; no image/alternate route.\n- Met449833 Nishapur Pahlavi fragment: open image but 9th–10th-century object outside the -550–650 focus of the proposed Zoroastrian entry. No image acquired; not used to pad coverage.\n- Met465927 and463712: public-domain Roman gold-glass items, but sparse identification did not establish a useful additional community-specific example. No images acquired.\n- Additional Princeton Mary Prince/Champlain searches did not produce exact usable candidates. Paine results did not justify a new targeted record link and were not followed.\n\nFinal package includes unchanged image files, saved Met API and Princeton manifest, bilingual proposed metadata, pixel/hash evidence, source proposals, summary additions, copy manifest and validation. Previous blocked routes and batch16 HOLD remain unchanged. Stop after this subset.\n"
+}
