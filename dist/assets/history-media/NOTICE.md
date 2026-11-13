@@ -1,6 +1,6 @@
 # Historical images: credits and reuse
 
-Reviewed 2026-11-13. 528 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
+Reviewed 2026-11-13. 530 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
 
 Historical artifacts, surviving places and later depictions retain their source identities. No generated reconstructions are included in this catalogue.
 
@@ -3643,6 +3643,34 @@ Official image saved unchanged, including frame or margins where present.
 Te Papa labels this image No Known Copyright Restrictions and permits download. Its policy describes its assessment under New Zealand law; this is not a CC0 licence or a worldwide rights guarantee.
 
 Official preview saved unchanged, with full paper margins and handwritten labels.
+
+## A Buddha sheltered by seven naga heads / 七首那伽护佑的佛像
+
+- File: exact-11-met-38451.jpg
+- Creator: Unrecorded artist
+- Date: late 12th–early 13th century
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/38451
+- Rights: Public Domain / CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/38451
+
+Official item page marks the image Public Domain; the Met API confirms isPublicDomain=true.
+
+Official image saved unchanged.
+
+## Elm-fibre cloth and stitched patterns / 榆树纤维织物与缝绣纹样
+
+- File: exact-11-met-53902.jpg
+- Creator: Unrecorded artist
+- Date: 19th century
+- Collection: The Metropolitan Museum of Art
+- Source: https://www.metmuseum.org/art/collection/search/53902
+- Rights: Public Domain / CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://www.metmuseum.org/art/collection/search/53902
+
+Official item page marks the image Public Domain; the Met API confirms isPublicDomain=true.
+
+Official image saved unchanged.
 
 ## The coronation remembered in 1840 / 1840年画中的查理曼加冕
 

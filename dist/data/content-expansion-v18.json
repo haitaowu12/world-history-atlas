@@ -2443,21 +2443,21 @@
   ],
   "summaryEditsFile": "summary-edits-v18.json",
   "summaryEdits": {
-    "bytes": 578009,
-    "sha256": "0f87e4b81abe62cd6496fd0c0aaad34bf84d931edccee5267639edfda16a3baa",
-    "records": 194
+    "bytes": 583750,
+    "sha256": "e074cf63586ae561d99229562ebe064f572a93bfdd02da83053690eeac3a42f7",
+    "records": 196
   },
   "chinaReviewsFile": "china-visual-reviews-v18.json",
   "chinaVisualReviews": {
-    "bytes": 126915,
-    "sha256": "9923c75ee776ebca89007f327a66f8ef9d2d1f4a28d7c1b1249412b232607f45",
-    "records": 48
+    "bytes": 135012,
+    "sha256": "122ebfe6da4f4700c6ef4542b0e9b73bc91d807e9373c68b66e7919423cd0764",
+    "records": 52
   },
   "mediaLocalization": {
     "file": "history-media-localization-zh-v18.json",
-    "bytes": 229485,
-    "sha256": "5e27bd3deca837fc0805b13b604fe0e89347b63f7064ecb7a4d47d1459794adf",
-    "assets": 528
+    "bytes": 230229,
+    "sha256": "6f436ca6d2b5b492ccde4ed5cf9ef49029281636c5be1554ece50bc103ea883a",
+    "assets": 530
   },
   "visualExpansion": {
     "baselineManifest": "content-expansion-v17.json",
@@ -2708,11 +2708,25 @@
         "associations": 0
       },
       {
+        "file": "visual-assets-exact-11-v18.json",
+        "bytes": 5222,
+        "sha256": "81e674bef6ad0eeea31f160ef960e791c8b0031f322f2ae6cb43094c1a124c9d",
+        "assets": 2,
+        "associations": 0
+      },
+      {
         "file": "visual-assets-exact-links-09-v18.json",
         "bytes": 11891,
         "sha256": "45674bad4ee0587b8792b6a6ac408aa53b593ced7c415a850d603434934a1f11",
         "assets": 0,
         "associations": 18
+      },
+      {
+        "file": "visual-assets-exact-links-10-v18.json",
+        "bytes": 3717,
+        "sha256": "cab852b47e0f8eaaa8df948a2cfa0d8739f0539c3154e8f4866b03638cd8d5c9",
+        "assets": 0,
+        "associations": 5
       },
       {
         "file": "visual-assets-existing-links-01-v18.json",
@@ -2996,8 +3010,8 @@
       }
     ],
     "coverageFile": "visual-coverage-v18.json",
-    "assets": 528,
-    "covered": 952,
+    "assets": 530,
+    "covered": 959,
     "total": 2087,
     "target": 1044
   }

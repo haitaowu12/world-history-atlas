@@ -1,0 +1,238 @@
+{
+  "sourceEvidence": {
+    "status": "Research proposals only. Three held batch-09 associations repaired, two fresh targets. All images/rights prior admitted, not freshly reverified; no downloads.",
+    "freshNarrativeSources": [
+      {
+        "title": "Sanguozhi, volume 7: Lü Bu",
+        "url": "https://zh.wikisource.org/wiki/三國志/卷07",
+        "publisher": "Wikisource transcription of public-domain dynastic history",
+        "evidenceNote": "Lü Bu biography narrates the halberd shot and mediation; this passage gives no 150-pace distance.",
+        "checkedAt": "2026-11-13",
+        "retrieval": "primary-text-opened"
+      },
+      {
+        "title": "Jinshu, volume 79: Xie An",
+        "url": "https://zh.wikisource.org/wiki/晉書/卷079",
+        "publisher": "Wikisource transcription of public-domain dynastic history",
+        "evidenceNote": "Distinguishes the mountain-villa game before the campaign from a later game when victory news arrived.",
+        "checkedAt": "2026-11-13",
+        "retrieval": "primary-text-opened"
+      },
+      {
+        "title": "Mingshi, volume 212: Qi Jiguang",
+        "url": "https://zh.wikisource.org/wiki/明史/卷212",
+        "publisher": "Wikisource transcription of public-domain dynastic history",
+        "evidenceNote": "Biography describes recruiting in Jinhua and Yiwu, training with different weapons, terrain-adapted formations, and reports nine victories in Jiajing 40; it does not call all recruits miners.",
+        "checkedAt": "2026-11-13",
+        "retrieval": "primary-text-opened"
+      },
+      {
+        "title": "Mathieu Torck, Haifang and the Ming-Qing Transition",
+        "url": "https://ostasien-verlag.de/zeitschriften/crossroads/cr/pdf/CR_11_2015_097-114_Torck.pdf",
+        "publisher": "Crossroads 11 (2015), pp. 97–114",
+        "evidenceNote": "Page 109 explicitly connects Qi’s military writings to Korean commanders during the Imjin War and later Japanese reprinting.",
+        "checkedAt": "2026-11-13"
+      }
+    ],
+    "requiredTogether": "Apply all three China corrections with the corresponding held associations. Add Torck source to Imjin record or source registry with association; do not leave new contextual claim uncited."
+  },
+  "admittedAssociations": [
+    {
+      "assetId": "china-batch-11-lvbu-halberd",
+      "recordId": "china-landmark-455",
+      "role": "historical-context",
+      "context": {
+        "en": "The museum identifies this Ming painting as Lü Bu shooting the halberd at the camp gate: the same episode named here. The painted scene is a later retelling, not an eyewitness image.",
+        "zh": "馆方将这幅明画的题材识别为吕布辕门射戟，与本条叙述的是同一故事。画面是后世重述，并非现场图像。"
+      },
+      "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/6960?dep=P",
+      "checkedAt": "2026-11-13"
+    },
+    {
+      "assetId": "china-batch-06-xiean",
+      "recordId": "china-event-dongjin-012",
+      "role": "historical-context",
+      "context": {
+        "en": "This later tapestry depicts Xie An’s mountain-villa game, a pre-campaign episode in the Jinshu. It expresses the composure associated with the Fei River narrative, not battlefield action or the separate reception of victory news.",
+        "zh": "这幅后世缂丝表现《晋书》中的战前谢安赌墅故事，以临事从容联系淝水叙事，并非战场行动，也不等同于另一次接收捷报的情景。"
+      },
+      "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/13795?dep=P",
+      "checkedAt": "2026-11-13"
+    },
+    {
+      "assetId": "china-batch-06-qijiguang-page2",
+      "recordId": "china-landmark-416",
+      "role": "historical-context",
+      "context": {
+        "en": "Qi Jiguang’s military manual begins with selecting soldiers and organizing units. This 1798 Japanese edition preserves the written training tradition associated with the commander named here, rather than depicting the 1561 drills.",
+        "zh": "戚继光兵书首章讨论选兵与编组。这部1798年日本刻本保存了本条所述将领的练兵著述传统，并非1561年操练现场的图像。"
+      },
+      "evidenceUrl": "https://commons.wikimedia.org/wiki/File:NAJDA-299-0257_%E7%B4%80%E5%8A%B9%E6%96%B0%E6%9B%B8_%E5%B7%BB1-7.pdf",
+      "checkedAt": "2026-11-13"
+    },
+    {
+      "assetId": "africa-americas-07-met-291117",
+      "recordId": "south-american-independence",
+      "role": "historical-context",
+      "context": {
+        "en": "A later Central Park monument commemorates Simón Bolívar, whose northern campaigns are discussed in this entry. The stereograph records public memory decades after independence, not the campaigns themselves.",
+        "zh": "后来的中央公园纪念像纪念本条所述北方战役领导者玻利瓦尔；这张立体照片记录独立后数十年的公共记忆，并非战事现场。"
+      },
+      "evidenceUrl": "https://www.metmuseum.org/art/collection/search/291117",
+      "checkedAt": "2026-11-13"
+    },
+    {
+      "assetId": "china-batch-06-qijiguang-page2",
+      "recordId": "imjin-war",
+      "role": "historical-context",
+      "context": {
+        "en": "Qi Jiguang’s military writings influenced Korean commanders during the Imjin War, as Mathieu Torck explains. This 1798 Japanese edition preserves that wider textual legacy; it is neither a wartime Korean copy nor a depiction of the fighting.",
+        "zh": "马蒂厄·托尔克指出，戚继光兵书曾影响壬辰战争中的朝鲜指挥官。这部1798年日本刊本保存其跨地域文本传承，并非当年朝鲜军中用本，也不描绘战斗。"
+      },
+      "evidenceUrl": "https://commons.wikimedia.org/wiki/File:NAJDA-299-0257_%E7%B4%80%E5%8A%B9%E6%96%B0%E6%9B%B8_%E5%B7%BB1-7.pdf",
+      "checkedAt": "2026-11-13"
+    }
+  ],
+  "reviewCorrections": [
+    {
+      "id": "china-landmark-455",
+      "patch": {
+        "title": {
+          "en": "Lü Bu’s halberd shot: a story of mediation",
+          "zh": "吕布射戟：调停争斗的故事"
+        },
+        "summary": {
+          "en": "The Sanguozhi tells how Lü Bu intervened when Ji Ling threatened Liu Bei. He proposed that the forces withdraw if his arrow struck a halberd’s small blade, and the account says his shot succeeded. Later art turned this mediation story into a memorable display of archery.",
+          "zh": "《三国志》记述，纪灵进攻刘备时，吕布出面调停。他约定，若射中戟的小支，各军便撤去；传记称他一箭命中。后世艺术将这段调停故事化为鲜明的射术展示。"
+        },
+        "dateNote": {
+          "en": "The inherited 196 anchor is retained; the narrative is attributed to the biography, not treated as a measured archery record.",
+          "zh": "保留原条目的196年锚点；叙事归于传记记载，不作为实测射术纪录。"
+        }
+      },
+      "note": {
+        "en": "Replaced the inherited headline with an attributed narrative; original chronology and location are retained.",
+        "zh": "以注明出处的叙事替代原有标题；保留原年代和点位。"
+      },
+      "sources": [
+        {
+          "title": "Sanguozhi, volume 7: Lü Bu",
+          "url": "https://zh.wikisource.org/wiki/三國志/卷07",
+          "publisher": "Wikisource transcription of public-domain dynastic history",
+          "evidenceNote": "Lü Bu biography narrates the halberd shot and mediation; this passage gives no 150-pace distance.",
+          "checkedAt": "2026-11-13",
+          "retrieval": "primary-text-opened",
+          "evidenceNoteZh": "吕布传记述射戟调停，但这一段未给出一百五十步的距离。"
+        }
+      ]
+    },
+    {
+      "id": "china-event-dongjin-012",
+      "patch": {
+        "title": {
+          "en": "Fei River: Eastern Jin defeats Fu Jian’s invasion",
+          "zh": "淝水之战：东晋击退苻坚进攻"
+        },
+        "summary": {
+          "en": "Eastern Jin forces defeated Fu Jian’s invading army in 383. The Jinshu presents Xie An directing commanders while maintaining outward calm. Its biography tells of a game with Xie Xuan at a mountain villa before the campaign and a separate game interrupted by news of victory. Later tapestry made this cultivated composure its subject.",
+          "zh": "383年，东晋军击败苻坚的进攻。《晋书》以谢安指授将帅而外示从容来叙述此役：传记分别记载战前与谢玄在山墅对弈，以及另一次下棋时收到捷报。后世缂丝取这种临事从容为表现主题。"
+        },
+        "dateNote": {
+          "en": "383 anchors the battle; the tapestry is a much later narrative artwork, not a view of the battlefield.",
+          "zh": "383年为战役锚点；缂丝是后世叙事作品，并非战场实录。"
+        }
+      },
+      "note": {
+        "en": "Replaced the inherited headline with an attributed narrative; original chronology and location are retained.",
+        "zh": "以注明出处的叙事替代原有标题；保留原年代和点位。"
+      },
+      "sources": [
+        {
+          "title": "Jinshu, volume 79: Xie An",
+          "url": "https://zh.wikisource.org/wiki/晉書/卷079",
+          "publisher": "Wikisource transcription of public-domain dynastic history",
+          "evidenceNote": "Distinguishes the mountain-villa game before the campaign from a later game when victory news arrived.",
+          "checkedAt": "2026-11-13",
+          "retrieval": "primary-text-opened",
+          "evidenceNoteZh": "区分战前山墅对弈与后来下棋时接到胜利消息的两件事。"
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-416",
+      "patch": {
+        "title": {
+          "en": "Qi Jiguang’s training and the Zhejiang campaigns",
+          "zh": "戚继光练兵与浙江战事"
+        },
+        "summary": {
+          "en": "The Mingshi describes Qi Jiguang recruiting troops from Jinhua and Yiwu, teaching coordinated use of long and short weapons, and adapting formations to southern terrain. It reports a series of victories around Taizhou in 1561. His Jixiao Xinshu preserved practical methods of selecting and organizing soldiers; the illustrated copy is a later Japanese edition.",
+          "zh": "《明史》记述戚继光从金华、义乌募兵，教以长短兵器配合，并依南方地形制定阵法；又记其1561年在台州一带接连获胜。《纪效新书》保存选兵、编伍等实务方法，所示书页来自后出的日本刊本。"
+        },
+        "dateNote": {
+          "en": "1561 marks the campaign, not the beginning of every recruitment and training measure.",
+          "zh": "1561年标记战事，并非所有募兵与训练措施的起点。"
+        }
+      },
+      "note": {
+        "en": "Replaced the inherited headline with an attributed narrative; original chronology and location are retained.",
+        "zh": "以注明出处的叙事替代原有标题；保留原年代和点位。"
+      },
+      "sources": [
+        {
+          "title": "Mingshi, volume 212: Qi Jiguang",
+          "url": "https://zh.wikisource.org/wiki/明史/卷212",
+          "publisher": "Wikisource transcription of public-domain dynastic history",
+          "evidenceNote": "Biography describes recruiting in Jinhua and Yiwu, training with different weapons, terrain-adapted formations, and reports nine victories in Jiajing 40; it does not call all recruits miners.",
+          "checkedAt": "2026-11-13",
+          "retrieval": "primary-text-opened",
+          "evidenceNoteZh": "传记述金华、义乌募兵、长短兵器配合、依地形布阵，且记嘉靖四十年九捷；并未称所有新兵都是矿徒。"
+        }
+      ]
+    },
+    {
+      "id": "china-event-zhanguo-007",
+      "patch": {
+        "title": {
+          "en": "Maling: Sun Bin’s ambush and Pang Juan’s defeat",
+          "zh": "马陵：孙膑设伏与庞涓败亡"
+        },
+        "summary": {
+          "en": "In the Shiji, Tian Ji commands Qi’s relief expedition while Sun Bin advises a feigned retreat. Fewer cooking fires persuade Pang Juan that Qi’s soldiers are deserting; he pursues with a selected force and enters an ambush at Maling. Sima Qian’s account says Pang Juan took his own life after the defeat, rather than being personally killed by Sun Bin.",
+          "zh": "《史记》记田忌率齐军救韩，孙膑以减灶示弱，使庞涓误以为齐军大量逃亡。庞涓率轻锐追赶，在马陵遭伏击。司马迁的记载称庞涓兵败后自尽，并非孙膑亲手将其射杀。"
+        }
+      },
+      "note": {
+        "en": "Replaced the conflated inherited headline with an attributed account from Shiji 65. The inherited 341 BCE year and representative coordinates are retained, not newly established by this review. Other Wei developments are no longer collapsed into the battle title.",
+        "zh": "据《史记》卷六十五改写原来混合多事的标题，并明确归于史书记载。保留原有前341年及代表坐标，本次不重新核定其年代与点位；魏国其他发展不再混入战役标题。"
+      },
+      "sources": [
+        {
+          "title": "Shiji, volume 65: Sun Bin’s Maling campaign",
+          "url": "https://zh.wikisource.org/zh-hant/史記/卷065",
+          "publisher": "Wikisource transcription of Sima Qian’s public-domain Shiji",
+          "author": "Sima Qian",
+          "checkedAt": "2026-11-13",
+          "retrieval": "primary-text-opened",
+          "evidenceNote": "Sun Bin section, Maling paragraph: Tian Ji commands, Sun Bin advises, and Pang Juan dies by suicide after the ambush. This source does not present Sun Bin personally shooting him.",
+          "evidenceNoteZh": "孙膑段马陵叙事：田忌统兵、孙膑筹策，庞涓中伏兵败后自尽，并未称孙膑亲手射杀庞涓。"
+        }
+      ]
+    }
+  ],
+  "sourceAdditions": [
+    {
+      "recordId": "imjin-war",
+      "sources": [
+        {
+          "title": "Mathieu Torck, Haifang and the Ming-Qing Transition",
+          "url": "https://ostasien-verlag.de/zeitschriften/crossroads/cr/pdf/CR_11_2015_097-114_Torck.pdf",
+          "publisher": "Crossroads 11 (2015), pp. 97–114",
+          "evidenceNote": "Page 109 explicitly connects Qi’s military writings to Korean commanders during the Imjin War and later Japanese reprinting.",
+          "checkedAt": "2026-11-13"
+        }
+      ]
+    }
+  ],
+  "ownerDecision": "Three held links admitted only with attributed narrative repairs. Maling also corrected independently from Shiji65; not assigned a new image. Primary-history narratives are attributed rather than asserted as measured eyewitness records."
+}

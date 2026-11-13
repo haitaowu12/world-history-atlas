@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "items": [],
+  "associations": [
+    {
+      "assetId": "china-batch-11-lvbu-halberd",
+      "recordId": "china-landmark-455",
+      "role": "historical-context",
+      "context": {
+        "en": "The museum identifies this Ming painting as Lü Bu shooting the halberd at the camp gate: the same episode named here. The painted scene is a later retelling, not an eyewitness image.",
+        "zh": "馆方将这幅明画的题材识别为吕布辕门射戟，与本条叙述的是同一故事。画面是后世重述，并非现场图像。"
+      },
+      "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/6960?dep=P",
+      "checkedAt": "2026-11-13"
+    },
+    {
+      "assetId": "china-batch-06-xiean",
+      "recordId": "china-event-dongjin-012",
+      "role": "historical-context",
+      "context": {
+        "en": "This later tapestry depicts Xie An’s mountain-villa game, a pre-campaign episode in the Jinshu. It expresses the composure associated with the Fei River narrative, not battlefield action or the separate reception of victory news.",
+        "zh": "这幅后世缂丝表现《晋书》中的战前谢安赌墅故事，以临事从容联系淝水叙事，并非战场行动，也不等同于另一次接收捷报的情景。"
+      },
+      "evidenceUrl": "https://digitalarchive.npm.gov.tw/Collection/Detail/13795?dep=P",
+      "checkedAt": "2026-11-13"
+    },
+    {
+      "assetId": "china-batch-06-qijiguang-page2",
+      "recordId": "china-landmark-416",
+      "role": "historical-context",
+      "context": {
+        "en": "Qi Jiguang’s military manual begins with selecting soldiers and organizing units. This 1798 Japanese edition preserves the written training tradition associated with the commander named here, rather than depicting the 1561 drills.",
+        "zh": "戚继光兵书首章讨论选兵与编组。这部1798年日本刻本保存了本条所述将领的练兵著述传统，并非1561年操练现场的图像。"
+      },
+      "evidenceUrl": "https://commons.wikimedia.org/wiki/File:NAJDA-299-0257_%E7%B4%80%E5%8A%B9%E6%96%B0%E6%9B%B8_%E5%B7%BB1-7.pdf",
+      "checkedAt": "2026-11-13"
+    },
+    {
+      "assetId": "africa-americas-07-met-291117",
+      "recordId": "south-american-independence",
+      "role": "historical-context",
+      "context": {
+        "en": "A later Central Park monument commemorates Simón Bolívar, whose northern campaigns are discussed in this entry. The stereograph records public memory decades after independence, not the campaigns themselves.",
+        "zh": "后来的中央公园纪念像纪念本条所述北方战役领导者玻利瓦尔；这张立体照片记录独立后数十年的公共记忆，并非战事现场。"
+      },
+      "evidenceUrl": "https://www.metmuseum.org/art/collection/search/291117",
+      "checkedAt": "2026-11-13"
+    },
+    {
+      "assetId": "china-batch-06-qijiguang-page2",
+      "recordId": "imjin-war",
+      "role": "historical-context",
+      "context": {
+        "en": "Qi Jiguang’s military writings influenced Korean commanders during the Imjin War, as Mathieu Torck explains. This 1798 Japanese edition preserves that wider textual legacy; it is neither a wartime Korean copy nor a depiction of the fighting.",
+        "zh": "马蒂厄·托尔克指出，戚继光兵书曾影响壬辰战争中的朝鲜指挥官。这部1798年日本刊本保存其跨地域文本传承，并非当年朝鲜军中用本，也不描绘战斗。"
+      },
+      "evidenceUrl": "https://commons.wikimedia.org/wiki/File:NAJDA-299-0257_%E7%B4%80%E5%8A%B9%E6%96%B0%E6%9B%B8_%E5%B7%BB1-7.pdf",
+      "checkedAt": "2026-11-13"
+    }
+  ],
+  "reviewedAt": "2026-11-13"
+}

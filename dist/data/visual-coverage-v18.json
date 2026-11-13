@@ -3,13 +3,14 @@
   "reviewedAt": "2026-11-13",
   "baselineManifest": "content-expansion-v17.json",
   "total": 2087,
-  "covered": 952,
-  "assets": 528,
-  "percent": 45.61571633924293,
+  "covered": 959,
+  "assets": 530,
+  "percent": 45.95112601820795,
   "coveredIds": [
     "abbasid-caliphate",
     "abu-simbel-relocation",
     "achaemenid-empire",
+    "ainu-attus-making",
     "ainu-language-cultural-continuity",
     "ajanta-cave-workshops",
     "akan-goldweights-measure-trade",
@@ -98,6 +99,7 @@
     "china-event-dongjin-009",
     "china-event-dongjin-010",
     "china-event-dongjin-011",
+    "china-event-dongjin-012",
     "china-event-dongjin-020",
     "china-event-dongjin-022",
     "china-event-dongjin-023",
@@ -443,6 +445,7 @@
     "china-landmark-410",
     "china-landmark-413",
     "china-landmark-415",
+    "china-landmark-416",
     "china-landmark-419",
     "china-landmark-421",
     "china-landmark-422",
@@ -463,6 +466,7 @@
     "china-landmark-445",
     "china-landmark-447",
     "china-landmark-451",
+    "china-landmark-455",
     "china-landmark-462",
     "china-landmark-463",
     "china-landmark-464",
@@ -693,6 +697,7 @@
     "hundred-years-war",
     "ifugao-rice-landscape",
     "ilkhanid-iran",
+    "imjin-war",
     "inca-imperial-expansion",
     "indian-rebellion-1857",
     "indonesian-independence",
@@ -840,6 +845,7 @@
     "person-isaac-newton",
     "person-jan-amos-comenius",
     "person-jane-addams",
+    "person-jayavarman-vii",
     "person-joan-of-arc",
     "person-john-a-macdonald",
     "person-jose-rizal",
@@ -909,6 +915,7 @@
     "singapore-occupation-civilian-experience",
     "songo-mnara-households",
     "south-africa-election",
+    "south-american-independence",
     "southern-song",
     "srivijaya-maritime",
     "straits-settlements-formation",
@@ -986,7 +993,6 @@
     "haudenosaunee-revolution-era",
     "first-fleet-colonization",
     "mexican-independence",
-    "south-american-independence",
     "brazil-abolition",
     "adwa-victory",
     "philippine-american-war",
@@ -1080,7 +1086,6 @@
     "nara-heijo-capital",
     "tripitaka-koreana-carving",
     "jikji-metal-type",
-    "imjin-war",
     "korea-june-democracy-movement",
     "nok-terracotta-workshops",
     "aksum-ezana-christianity",
@@ -1416,7 +1421,6 @@
     "gaya-armor-workshops",
     "shosoin-gifts-and-work",
     "ryukyu-rekidai-hoan-records",
-    "ainu-attus-making",
     "belitung-shipwreck-workshops",
     "aceh-queens-and-negotiation",
     "gwaii-haanas-shared-stewardship",
@@ -1458,7 +1462,6 @@
     "person-yu-gwan-sun",
     "person-shin-saimdang",
     "person-nguyen-du",
-    "person-jayavarman-vii",
     "person-tun-sri-lanang",
     "person-iskandar-muda",
     "person-pridi-banomyong",
@@ -1666,7 +1669,6 @@
     "china-landmark-008",
     "china-landmark-456",
     "china-landmark-454",
-    "china-landmark-455",
     "china-landmark-457",
     "china-landmark-321",
     "china-landmark-329",
@@ -1721,7 +1723,6 @@
     "china-landmark-335",
     "china-landmark-105",
     "china-landmark-474",
-    "china-event-dongjin-012",
     "china-landmark-336",
     "china-event-dongjin-013",
     "china-landmark-164",
@@ -1984,7 +1985,6 @@
     "china-event-ming-026",
     "china-landmark-188",
     "china-event-ming-027",
-    "china-landmark-416",
     "china-landmark-219",
     "china-landmark-417",
     "china-landmark-418",
@@ -2099,7 +2099,7 @@
   ],
   "target": 1044,
   "targetMet": false,
-  "remaining": 92,
+  "remaining": 85,
   "regions": {
     "africa": {
       "total": 136,
@@ -2107,7 +2107,7 @@
     },
     "east-asia": {
       "total": 1216,
-      "covered": 585
+      "covered": 590
     },
     "europe": {
       "total": 122,
@@ -2115,7 +2115,7 @@
     },
     "latin-america": {
       "total": 94,
-      "covered": 41
+      "covered": 42
     },
     "north-america": {
       "total": 123,
@@ -2131,7 +2131,7 @@
     },
     "southeast-asia": {
       "total": 101,
-      "covered": 33
+      "covered": 34
     },
     "west-central-asia": {
       "total": 111,
@@ -2149,7 +2149,7 @@
     "lifetime-portrait": 18,
     "manuscript-detail": 37,
     "modern-memorial": 1,
-    "object-photograph": 117,
+    "object-photograph": 119,
     "site-photograph": 52
   },
   "shards": [
@@ -2399,11 +2399,25 @@
       "associations": 0
     },
     {
+      "file": "visual-assets-exact-11-v18.json",
+      "bytes": 5222,
+      "sha256": "81e674bef6ad0eeea31f160ef960e791c8b0031f322f2ae6cb43094c1a124c9d",
+      "assets": 2,
+      "associations": 0
+    },
+    {
       "file": "visual-assets-exact-links-09-v18.json",
       "bytes": 11891,
       "sha256": "45674bad4ee0587b8792b6a6ac408aa53b593ced7c415a850d603434934a1f11",
       "assets": 0,
       "associations": 18
+    },
+    {
+      "file": "visual-assets-exact-links-10-v18.json",
+      "bytes": 3717,
+      "sha256": "cab852b47e0f8eaaa8df948a2cfa0d8739f0539c3154e8f4866b03638cd8d5c9",
+      "assets": 0,
+      "associations": 5
     },
     {
       "file": "visual-assets-existing-links-01-v18.json",
@@ -2686,6 +2700,6 @@
       "associations": 0
     }
   ],
-  "assetBytes": 100780778,
+  "assetBytes": 100874442,
   "verification": "All admitted files match their SHA-256, byte count and encoded dimensions. Source identity, reuse rights, pixel review and entry relevance require the individual editorial records; structural validation does not establish those facts."
 }

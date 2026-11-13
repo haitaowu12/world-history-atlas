@@ -1,0 +1,42 @@
+{
+  "checkedAt": "2026-11-13T07:21:45.645228+00:00",
+  "releaseCommit": "1892e4c3bf5e4bd3416d82efdfe90d1dd1b42531",
+  "files": [
+    {
+      "path": "index.html",
+      "status": 200,
+      "sha256": "ea98ec84907ff59dafd4ea31c52975eaf0a4577dae36496f5cedbdaee91650a3",
+      "matches": true
+    },
+    {
+      "path": "data/history-media-v18.json",
+      "status": 200,
+      "sha256": "8af0fb8399056531e74da848ce51b544d9065ee54b0d454501857cad3b3b5e36",
+      "matches": true
+    },
+    {
+      "path": "data/content-expansion-v18.json",
+      "status": 200,
+      "sha256": "68086842d61a8c02811dea888dbdf4bd84f45bf9515f32233e108141f5ad4896",
+      "matches": true
+    },
+    {
+      "path": "data/visual-coverage-v18.json",
+      "status": 200,
+      "sha256": "325f4c5250efd9bbde6e6e5f76711d660024fffa209b2623b0f7697b17dac206",
+      "matches": true
+    },
+    {
+      "path": "data/china-visual-reviews-v18.json",
+      "status": 200,
+      "sha256": "c49067ba7d95d2c828ad9043ba8d4059a71dee3bebd15438d8ac521ee6e5dd59",
+      "matches": true
+    },
+    {
+      "path": "data/summary-edits-v18.json",
+      "status": 200,
+      "sha256": "1ec66bf6876748babe379588f07fc120c582a1d4cad2dfe9c67960cdfc86a485",
+      "matches": true
+    }
+  ]
+}

@@ -85,7 +85,11 @@
       }
     ],
     "issue": "The English says Sun Bin slays Pang Juan and combines Maling with unrelated Wei developments; verify agency and chronology.",
-    "status": "review-needed; not independently disproven in this audit"
+    "status": "review-needed; not independently disproven in this audit",
+    "resolution": {
+      "checkedAt": "2026-11-13",
+      "scope": "Headline and narrative corrected in china-visual-reviews-v18.json; inherited dates/coordinates preserved. Original flagged text remains here as an audit record."
+    }
   },
   {
     "recordId": "china-event-tang-006",
@@ -173,7 +177,11 @@
       }
     ],
     "issue": "Museum confirms the depicted episode, not the literal150-pace measurement in the imported event title.",
-    "status": "review-needed; not independently disproven in this audit"
+    "status": "review-needed; not independently disproven in this audit",
+    "resolution": {
+      "checkedAt": "2026-11-13",
+      "scope": "Headline and narrative corrected in china-visual-reviews-v18.json; inherited dates/coordinates preserved. Original flagged text remains here as an audit record."
+    }
   },
   {
     "recordId": "china-event-dongjin-012",
@@ -195,7 +203,11 @@
       }
     ],
     "issue": "80,000 troop total and simple collapse narrative are not established by the tapestry; image is commemorative context.",
-    "status": "review-needed; not independently disproven in this audit"
+    "status": "review-needed; not independently disproven in this audit",
+    "resolution": {
+      "checkedAt": "2026-11-13",
+      "scope": "Headline and narrative corrected in china-visual-reviews-v18.json; inherited dates/coordinates preserved. Original flagged text remains here as an audit record."
+    }
   },
   {
     "recordId": "china-landmark-416",
@@ -217,6 +229,10 @@
       }
     ],
     "issue": "Imported English adds nine battles while Chinese is about recruiting and training; the manual page supports training, not the battle tally.",
-    "status": "review-needed; not independently disproven in this audit"
+    "status": "review-needed; not independently disproven in this audit",
+    "resolution": {
+      "checkedAt": "2026-11-13",
+      "scope": "Headline and narrative corrected in china-visual-reviews-v18.json; inherited dates/coordinates preserved. Original flagged text remains here as an audit record."
+    }
   }
 ]
