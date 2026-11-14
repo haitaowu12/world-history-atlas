@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "reviewedAt": "2026-11-13",
+  "reviewedAt": "2026-11-14",
   "baselineManifest": "content-expansion-v17.json",
   "total": 2087,
-  "covered": 1025,
-  "assets": 550,
-  "percent": 49.11356013416387,
+  "covered": 1029,
+  "assets": 553,
+  "percent": 49.30522280785817,
   "coveredIds": [
     "abbasid-caliphate",
     "abu-simbel-relocation",
@@ -52,6 +52,7 @@
     "british-slavery-emancipation",
     "buddhist-art-mathura-gandhara",
     "bukhara-suzani-shared-needlework",
+    "cahokia",
     "camp-saxton-freedom-community",
     "canada-polity",
     "canadian-confederation",
@@ -64,6 +65,7 @@
     "carolingian-dynasty",
     "carthaginian-power",
     "castile-aragon-dynastic-union",
+    "chaco",
     "champa-kingdoms",
     "chankillo-solar-calendar",
     "charlemagne-coronation",
@@ -738,6 +740,7 @@
     "hoi-an-port-households",
     "holocaust",
     "holy-roman-empire",
+    "hopewell-ceremonial-networks",
     "hoysala-dynasty",
     "huguenot-refugee-settlement",
     "hull-house-immigrant-neighborhood",
@@ -963,6 +966,7 @@
     "safavid-iran",
     "samanid-dynasty",
     "samarkand",
+    "samarkand-observatory",
     "samarra",
     "samoa-mau-independence",
     "sanchi",
@@ -1043,12 +1047,9 @@
     "yin-xu",
     "lapita-teouma-community",
     "silk-roads-changan",
-    "hopewell-ceremonial-networks",
     "gyeongju",
     "early-islam",
-    "cahokia",
     "ghana-wagadu",
-    "chaco",
     "quanzhou",
     "taputapuatea",
     "ayutthaya-kingdom",
@@ -1145,7 +1146,6 @@
     "mabo-native-title-decision",
     "nineveh-scribal-library",
     "cyrus-babylon-cylinder",
-    "samarkand-observatory",
     "gulhane-reform-edict",
     "horyuji-buddhist-building",
     "nara-heijo-capital",
@@ -2099,7 +2099,7 @@
   ],
   "target": 1044,
   "targetMet": false,
-  "remaining": 19,
+  "remaining": 15,
   "regions": {
     "africa": {
       "total": 136,
@@ -2119,7 +2119,7 @@
     },
     "north-america": {
       "total": 123,
-      "covered": 47
+      "covered": 50
     },
     "oceania": {
       "total": 89,
@@ -2135,7 +2135,7 @@
     },
     "west-central-asia": {
       "total": 111,
-      "covered": 50
+      "covered": 51
     }
   },
   "types": {
@@ -2150,7 +2150,7 @@
     "manuscript-detail": 40,
     "modern-memorial": 1,
     "object-photograph": 125,
-    "site-photograph": 52
+    "site-photograph": 55
   },
   "shards": [
     {
@@ -2469,6 +2469,13 @@
       "associations": 0
     },
     {
+      "file": "visual-assets-exact-25-v18.json",
+      "bytes": 10375,
+      "sha256": "5d2628169c0c078336c74537bafb4e5a0ffae299940040ff9936b8a89fd1a5fc",
+      "assets": 3,
+      "associations": 0
+    },
+    {
       "file": "visual-assets-exact-links-09-v18.json",
       "bytes": 11891,
       "sha256": "45674bad4ee0587b8792b6a6ac408aa53b593ced7c415a850d603434934a1f11",
@@ -2551,6 +2558,13 @@
       "sha256": "ee1d3ee2a79a5570ab4ddf315bfb68c57494f58c566e6ac494b6da63c671cead",
       "assets": 0,
       "associations": 2
+    },
+    {
+      "file": "visual-assets-exact-links-26-v18.json",
+      "bytes": 885,
+      "sha256": "68965c7cdfcb21a8b675092aa2dcc1b1ee915d5bde6cf44e54d24f12c05ae222",
+      "assets": 0,
+      "associations": 1
     },
     {
       "file": "visual-assets-existing-links-01-v18.json",
@@ -2833,6 +2847,6 @@
       "associations": 0
     }
   ],
-  "assetBytes": 104736591,
+  "assetBytes": 105078864,
   "verification": "All admitted files match their SHA-256, byte count and encoded dimensions. Source identity, reuse rights, pixel review and entry relevance require the individual editorial records; structural validation does not establish those facts."
 }

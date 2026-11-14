@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": "0.24.0",
-  "preparedAt": "2026-11-13",
+  "preparedAt": "2026-11-14",
   "baseline": {
     "manifest": "content-expansion-v17.json",
     "records": 2084
@@ -2449,9 +2449,9 @@
     "records": 1
   },
   "summaryEdits": {
-    "bytes": 626998,
-    "sha256": "04100fc401c60e748a9bec32ee55f7940fbd611108889ccd0b5bb9e20e9e06db",
-    "records": 210
+    "bytes": 633368,
+    "sha256": "95982597ec7d2b7a98d9aa3c3b493b2aaf0ad93179120676ca803453e64bae4a",
+    "records": 212
   },
   "chinaReviewsFile": "china-visual-reviews-v18.json",
   "chinaVisualReviews": {
@@ -2461,9 +2461,9 @@
   },
   "mediaLocalization": {
     "file": "history-media-localization-zh-v18.json",
-    "bytes": 238053,
-    "sha256": "d9e12c0b75c3680b790b3024643e4a1eeb2bb67d96e7dfbd07012211b43f88f7",
-    "assets": 550
+    "bytes": 239393,
+    "sha256": "f9e45e25d171ae8f4eab32b7f47a538327029f114e9d757947243763e9bdcb4c",
+    "assets": 553
   },
   "visualExpansion": {
     "baselineManifest": "content-expansion-v17.json",
@@ -2784,6 +2784,13 @@
         "associations": 0
       },
       {
+        "file": "visual-assets-exact-25-v18.json",
+        "bytes": 10375,
+        "sha256": "5d2628169c0c078336c74537bafb4e5a0ffae299940040ff9936b8a89fd1a5fc",
+        "assets": 3,
+        "associations": 0
+      },
+      {
         "file": "visual-assets-exact-links-09-v18.json",
         "bytes": 11891,
         "sha256": "45674bad4ee0587b8792b6a6ac408aa53b593ced7c415a850d603434934a1f11",
@@ -2866,6 +2873,13 @@
         "sha256": "ee1d3ee2a79a5570ab4ddf315bfb68c57494f58c566e6ac494b6da63c671cead",
         "assets": 0,
         "associations": 2
+      },
+      {
+        "file": "visual-assets-exact-links-26-v18.json",
+        "bytes": 885,
+        "sha256": "68965c7cdfcb21a8b675092aa2dcc1b1ee915d5bde6cf44e54d24f12c05ae222",
+        "assets": 0,
+        "associations": 1
       },
       {
         "file": "visual-assets-existing-links-01-v18.json",
@@ -3149,8 +3163,8 @@
       }
     ],
     "coverageFile": "visual-coverage-v18.json",
-    "assets": 550,
-    "covered": 1025,
+    "assets": 553,
+    "covered": 1029,
     "total": 2087,
     "target": 1044
   }
