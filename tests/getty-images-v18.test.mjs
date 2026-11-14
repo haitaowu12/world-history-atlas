@@ -17,8 +17,8 @@ test('Getty captions distinguish source dates from depicted lives and events',()
 });
 test('Getty batch counts five distinct images and unique entry coverage',()=>{
  const evidence=readAtlasData('visual-coverage-v18.json'),media=readAtlasData('history-media-v18.json');
- assert.equal(evidence.assets,550);assert.equal(evidence.covered,1026);assert.equal(evidence.total,2087);
- assert.equal(new Set(media.items.map(a=>a.id)).size,550);
+ assert.equal(evidence.assets,553);assert.equal(evidence.covered,1029);assert.equal(evidence.total,2087);
+ assert.equal(new Set(media.items.map(a=>a.id)).size,553);
 });
 test('fifth prose pass retains political exclusions, living communities and unfinished settlements',()=>{
  const by=new Map(loadAtlasRecords().records.map(x=>[x.id,x.summary]));

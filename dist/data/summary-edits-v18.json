@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "editedAt": "2026-11-13",
+  "editedAt": "2026-11-14",
   "scope": "Summary-only language edits. Historical sources, chronology and review status are unchanged.",
   "items": [
     {
@@ -2522,6 +2522,30 @@
         "zh": "阮攸经历西山动荡与阮朝建立，于1802年进入阮朝仕途。《金云翘传》成为越南文学重要作品，不断被抄写、刊印与诠释。\n\n大英图书馆收藏的一部19世纪后半叶抄本，将故事与插图结合。卷首题名下绘有三个人物，手写批注与馆藏印章记录了书籍后来的流转。这是诗人去世后的抄本，而非亲笔原稿。"
       },
       "rationale": "Replace generic cautionary prose with the specific later edition or manuscript while retaining meaningful source distinctions."
+    },
+    {
+      "recordId": "hopewell-ceremonial-networks",
+      "before": {
+        "en": "Indigenous communities in the Ohio River watershed created enormous geometric earthworks for ceremonial gatherings and the treatment of the dead. Circles, squares and other forms required shared measurements and coordinated labor, while some alignments followed solar and lunar cycles. Objects made from materials reaching Ohio from distant regions reveal connections extending toward Florida and the Yellowstone basin. These were networks of communities rather than evidence of one centrally ruled empire. “Hopewell” is a modern archaeological label, taken from a later landowner’s name. The earthworks preserve Indigenous achievements in engineering, astronomy, art and collective organization that preceded European arrival by many centuries.",
+        "zh": "俄亥俄河流域的原住民社区营建巨大的几何土筑设施，用于仪式集会和安葬。圆形、方形等结构需要共同尺度与协调劳动，部分布局与日月周期相应。远方材料制成的器物显示，联系延伸至佛罗里达和黄石流域。这些证据反映社区网络，而非一个中央集权帝国。“霍普维尔”是现代考古名称，来自后来地主的姓氏，并非已知古代自称。土筑遗存记录原住民在欧洲人到来数百年前的工程、天文、艺术与集体组织成就。"
+      },
+      "after": {
+        "en": "Indigenous communities in the Ohio River watershed created enormous geometric earthworks for ceremonial gatherings and the treatment of the dead. Circles, squares and other forms required shared measurements and coordinated labor, while some alignments followed solar and lunar cycles. Objects made from materials reaching Ohio from distant regions reveal connections extending toward Florida and the Yellowstone basin. These were networks of communities rather than evidence of one centrally ruled empire. “Hopewell” is a modern archaeological label, taken from a later landowner’s name. The earthworks preserve Indigenous achievements in engineering, astronomy, art and collective organization that preceded European arrival by many centuries. At Mound City Group, reconstructed mounds and an enclosing earth bank preserve the layout of one ceremonial complex. The accompanying photograph shows this site, separate from the Hopewell Mound Group marked on the map.",
+        "zh": "俄亥俄河流域的原住民社区营建巨大的几何土筑设施，用于仪式集会和安葬。圆形、方形等结构需要共同尺度与协调劳动，部分布局与日月周期相应。远方材料制成的器物显示，联系延伸至佛罗里达和黄石流域。这些证据反映社区网络，而非一个中央集权帝国。“霍普维尔”是现代考古名称，来自后来地主的姓氏，并非已知古代自称。土筑遗存记录原住民在欧洲人到来数百年前的工程、天文、艺术与集体组织成就。 在芒德城土丘群，重建土丘与围合土堤保留了一处仪式建筑群的布局。配图展示这一遗址，与地图所标的霍普维尔土丘群分属不同地点。"
+      },
+      "rationale": "Add source-backed photographed-site context while preserving chronology and original narrative."
+    },
+    {
+      "recordId": "chaco",
+      "before": {
+        "en": "Ancestral Pueblo communities made Chaco a centre for ceremony, exchange and political activity. Large masonry buildings and roads to outlying settlements reveal organization across a region. As Chaco's role changed, people moved and other centres developed. Pueblo peoples maintain connections with this landscape, including its place in sacred migration histories.",
+        "zh": "普韦布洛人的祖先使查科成为仪式、交流与政治活动的中心。大型石砌建筑以及连接外围聚落的道路，呈现了区域性的组织。随着查科的地位改变，人们迁移，其他中心逐渐发展。普韦布洛人与这片景观仍保持联系，其中包括神圣迁徙历史中的记忆。"
+      },
+      "after": {
+        "en": "Ancestral Pueblo communities made Chaco a centre for ceremony, exchange and political activity. Large masonry buildings and roads to outlying settlements reveal organization across a region. As Chaco's role changed, people moved and other centres developed. Pueblo peoples maintain connections with this landscape, including its place in sacred migration histories. At Pueblo Bonito, traces of theobromine in three tested pottery sherds provide evidence of cacao reaching Chaco. Their decorative styles place them around 1000–1125. The chemical finding establishes cacao use; proposals about who drank it and its ritual role go beyond the test itself.",
+        "zh": "普韦布洛人的祖先使查科成为仪式、交流与政治活动的中心。大型石砌建筑以及连接外围聚落的道路，呈现了区域性的组织。随着查科的地位改变，人们迁移，其他中心逐渐发展。普韦布洛人与这片景观仍保持联系，其中包括神圣迁徙历史中的记忆。 在普韦布洛博尼托，三件受检陶片中的可可碱残留提供了可可传入查科的证据，纹饰将其年代定位于约1000—1125年。化学检测支持可可的使用；饮用者身份及其仪式作用，则仍是超出检测本身的解释。"
+      },
+      "rationale": "Add source-backed photographed-site context while preserving chronology and original narrative."
     }
   ]
 }

@@ -450,3 +450,7 @@ Tony authorized merging and publishing mature work. Main and review advanced to 
 ### 13 November: 1,026-entry review checkpoint
 
 Added a precise later-publication connection from Samarkand’s scholarly work to the already saved 1650 Greaves edition, with two directly read HTML sources and bilingual context. **550 images / 1,026 of 2,087 entries (49.2%)**; **610/610 checks pass**. Chinese/English browser checks pass. Live remains the separately verified 1,025-entry release. The new NPS downloads are held after a polling denial; absent targets were checked and no retry made. See `V18_CHECKPOINT_1026.md`.
+
+## 2026-11-14 · NPS landscape checkpoint
+
+Three individually inspected NPS images add Hopewell, Cahokia and Chaco. 1,029/2,087 entries (49.3%), 553 images, 614 checks pass. Bilingual detail and 390px layout verified; source rights and modern reconstruction/conservation context retained. See [checkpoint 1029](V18_CHECKPOINT_1029.md). Not yet published; no Actions.

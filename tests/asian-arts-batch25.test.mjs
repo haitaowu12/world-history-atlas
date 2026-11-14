@@ -10,7 +10,7 @@ test('Goryeo painting and Ayyubid ceramics preserve three specific CC0 images',(
  assert.match(s.items[1].interpretation.en,/Six projecting spouts/);assert.match(s.items[2].caption.en,/waster/);assert.match(s.items[2].interpretation.en,/excavation context is unrecorded/);
 });
 test('second prose pass preserves important archaeological and political qualifications',()=>{
- const edits=readAtlasData('summary-edits-v18.json');assert.equal(edits.items.length,210);
+ const edits=readAtlasData('summary-edits-v18.json');assert.equal(edits.items.length,212);
  const by=new Map(edits.items.map(x=>[x.recordId,x.after]));
  assert.match(by.get('gobekli-tepe').en,/purposes remain/);assert.match(by.get('akkadian-empire').en,/not been securely located/);
  assert.match(by.get('poverty-point').en,/remain incompletely understood/);assert.match(by.get('wari-imperial-world').en,/causes remain debated/);

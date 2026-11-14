@@ -1,0 +1,49 @@
+{
+  "reviewedAt": "2026-11-14",
+  "method": "Official item pages and NPS rights policy read; all three final images inspected individually. Original downloaded Hopewell image kept outside publish tree; official 1200px NPS display derivative used unchanged.",
+  "rightsPolicy": "https://www.nps.gov/aboutus/disclaimer.htm",
+  "assets": [
+    {
+      "assetId": "exact-25-nps-hopewell",
+      "sourceUrl": "https://www.nps.gov/orgs/1207/hopewell-ceremonial-earthworks-unesco-nomination.htm",
+      "downloadedFrom": "https://www.nps.gov/orgs/1207/images/Hopewell-Culture-Earthworks-NPS-Engberg.jpg?maxwidth=1200&autorotate=false",
+      "sha256": "e20891b0b8b9fbb3cd09409bf162c60399a51621872e99e5aeaeb482020f4040",
+      "width": 1200,
+      "height": 800,
+      "bytes": 208198,
+      "recordIds": [
+        "hopewell-ceremonial-networks"
+      ]
+    },
+    {
+      "assetId": "exact-25-nps-cahokia",
+      "sourceUrl": "https://home.nps.gov/articles/000/cahokia-mounds-state-historic-site-world-heritage-site.htm",
+      "downloadedFrom": "https://home.nps.gov/articles/000/images/E1D9C714-0309-5FCD-186D6A46708BC5C6Original.jpg?maxwidth=650&autorotate=false",
+      "sha256": "c2ddc36c5793ffd63d7c262f2189564adad19ddf112aad7cf0aee447e404f8c8",
+      "width": 500,
+      "height": 500,
+      "bytes": 50011,
+      "recordIds": [
+        "cahokia"
+      ]
+    },
+    {
+      "assetId": "exact-25-nps-chaco",
+      "sourceUrl": "https://www.nps.gov/chcu/learn/historyculture/pre-columbian-chocolate-discovered-at-chaco.htm",
+      "downloadedFrom": "https://www.nps.gov/chcu/learn/historyculture/images/Excavations-at-Pueblo-Bonito-in-2007.JPG?maxwidth=650&autorotate=false",
+      "sha256": "047555d02fc4b91ecfeca955e5620a1f87f9a72045b60388b1a58196c202aedd",
+      "width": 650,
+      "height": 347,
+      "bytes": 84064,
+      "recordIds": [
+        "chaco"
+      ]
+    }
+  ],
+  "exclusions": [
+    "No third-party Cahokia stairway image admitted.",
+    "No copyrighted Chaco jar images admitted.",
+    "NPS logos and trademarks not reproduced."
+  ],
+  "chronology": "All three original event intervals retained; modern photo dates are independent."
+}

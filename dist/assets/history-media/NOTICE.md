@@ -1,6 +1,6 @@
 # Historical images: credits and reuse
 
-Reviewed 2026-11-13. 550 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
+Reviewed 2026-11-14. 553 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
 
 Historical artifacts, surviving places and later depictions retain their source identities. No generated reconstructions are included in this catalogue.
 
@@ -3951,6 +3951,48 @@ Official 1227 × 1848-pixel IIIF derivative saved unchanged; full frame, no crop
 The exact institutional photograph record identifies the copyright holder as “Nationaal Archief, CC0”.
 
 Official 1846 × 1222-pixel IIIF derivative saved unchanged; full frame, no cropping or retouching.
+
+## Mound City Group in morning mist / 晨雾中的芒德城土丘群
+
+- File: exact-25-nps-hopewell.jpg
+- Creator: Tom Engberg / National Park Service
+- Date: Modern photograph; capture date unrecorded
+- Collection: National Park Service
+- Source: https://www.nps.gov/orgs/1207/hopewell-ceremonial-earthworks-unesco-nomination.htm
+- Rights: Public domain (U.S. government work) (https://www.nps.gov/aboutus/disclaimer.htm)
+- Rights evidence: https://www.nps.gov/aboutus/disclaimer.htm
+
+The exact source page credits this photograph to NPS. The NPS policy identifies its own works as public domain in the United States under 17 U.S.C. 105; third-party images are excluded. No claim to original U.S. Government works.
+
+Official 1200 × 800-pixel NPS-served image saved unchanged; no local cropping, resizing or retouching.
+
+## Cahokia’s surviving earthworks / 卡霍基亚的存世土筑遗迹
+
+- File: exact-25-nps-cahokia.jpg
+- Creator: National Park Service; individual photographer unrecorded
+- Date: Modern photograph; capture date unrecorded
+- Collection: National Park Service
+- Source: https://home.nps.gov/articles/000/cahokia-mounds-state-historic-site-world-heritage-site.htm
+- Rights: Public domain (U.S. government work) (https://www.nps.gov/aboutus/disclaimer.htm)
+- Rights evidence: https://www.nps.gov/aboutus/disclaimer.htm
+
+The exact source page credits this photograph to NPS. The NPS policy identifies its own works as public domain in the United States under 17 U.S.C. 105; third-party images are excluded. No claim to original U.S. Government works.
+
+Official 500 × 500-pixel NPS-served image saved unchanged; no local cropping, resizing or retouching.
+
+## Caring for Pueblo Bonito’s masonry / 维护普韦布洛博尼托的石墙
+
+- File: exact-25-nps-chaco.jpg
+- Creator: National Park Service; individual photographer unrecorded
+- Date: 2007
+- Collection: National Park Service
+- Source: https://www.nps.gov/chcu/learn/historyculture/pre-columbian-chocolate-discovered-at-chaco.htm
+- Rights: Public domain (U.S. government work) (https://www.nps.gov/aboutus/disclaimer.htm)
+- Rights evidence: https://www.nps.gov/aboutus/disclaimer.htm
+
+The exact source page credits this photograph to NPS. The NPS policy identifies its own works as public domain in the United States under 17 U.S.C. 105; third-party images are excluded. No claim to original U.S. Government works.
+
+Official 650 × 347-pixel NPS-served image saved unchanged; no local cropping, resizing or retouching.
 
 ## The coronation remembered in 1840 / 1840年画中的查理曼加冕
 

@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "reviewedAt": "2026-11-13",
+  "reviewedAt": "2026-11-14",
   "baselineManifest": "content-expansion-v17.json",
   "total": 2087,
-  "covered": 1026,
-  "assets": 550,
-  "percent": 49.16147580258745,
+  "covered": 1029,
+  "assets": 553,
+  "percent": 49.30522280785817,
   "coveredIds": [
     "abbasid-caliphate",
     "abu-simbel-relocation",
@@ -52,6 +52,7 @@
     "british-slavery-emancipation",
     "buddhist-art-mathura-gandhara",
     "bukhara-suzani-shared-needlework",
+    "cahokia",
     "camp-saxton-freedom-community",
     "canada-polity",
     "canadian-confederation",
@@ -64,6 +65,7 @@
     "carolingian-dynasty",
     "carthaginian-power",
     "castile-aragon-dynastic-union",
+    "chaco",
     "champa-kingdoms",
     "chankillo-solar-calendar",
     "charlemagne-coronation",
@@ -738,6 +740,7 @@
     "hoi-an-port-households",
     "holocaust",
     "holy-roman-empire",
+    "hopewell-ceremonial-networks",
     "hoysala-dynasty",
     "huguenot-refugee-settlement",
     "hull-house-immigrant-neighborhood",
@@ -1044,12 +1047,9 @@
     "yin-xu",
     "lapita-teouma-community",
     "silk-roads-changan",
-    "hopewell-ceremonial-networks",
     "gyeongju",
     "early-islam",
-    "cahokia",
     "ghana-wagadu",
-    "chaco",
     "quanzhou",
     "taputapuatea",
     "ayutthaya-kingdom",
@@ -2099,7 +2099,7 @@
   ],
   "target": 1044,
   "targetMet": false,
-  "remaining": 18,
+  "remaining": 15,
   "regions": {
     "africa": {
       "total": 136,
@@ -2119,7 +2119,7 @@
     },
     "north-america": {
       "total": 123,
-      "covered": 47
+      "covered": 50
     },
     "oceania": {
       "total": 89,
@@ -2150,7 +2150,7 @@
     "manuscript-detail": 40,
     "modern-memorial": 1,
     "object-photograph": 125,
-    "site-photograph": 52
+    "site-photograph": 55
   },
   "shards": [
     {
@@ -2466,6 +2466,13 @@
       "bytes": 16278,
       "sha256": "02282bdc12a9522575d5425e7c6ec63aaceaa430bb364613cc2a6514a197f710",
       "assets": 5,
+      "associations": 0
+    },
+    {
+      "file": "visual-assets-exact-25-v18.json",
+      "bytes": 10375,
+      "sha256": "5d2628169c0c078336c74537bafb4e5a0ffae299940040ff9936b8a89fd1a5fc",
+      "assets": 3,
       "associations": 0
     },
     {
@@ -2840,6 +2847,6 @@
       "associations": 0
     }
   ],
-  "assetBytes": 104736591,
+  "assetBytes": 105078864,
   "verification": "All admitted files match their SHA-256, byte count and encoded dimensions. Source identity, reuse rights, pixel review and entry relevance require the individual editorial records; structural validation does not establish those facts."
 }

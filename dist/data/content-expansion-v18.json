@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "version": "0.24.0",
-  "preparedAt": "2026-11-13",
+  "preparedAt": "2026-11-14",
   "baseline": {
     "manifest": "content-expansion-v17.json",
     "records": 2084
@@ -2449,9 +2449,9 @@
     "records": 1
   },
   "summaryEdits": {
-    "bytes": 627836,
-    "sha256": "d1ebfa97c23be5201b61e97a24e60565e141aad958802baa05f2ac0152d16dbe",
-    "records": 210
+    "bytes": 633368,
+    "sha256": "95982597ec7d2b7a98d9aa3c3b493b2aaf0ad93179120676ca803453e64bae4a",
+    "records": 212
   },
   "chinaReviewsFile": "china-visual-reviews-v18.json",
   "chinaVisualReviews": {
@@ -2461,9 +2461,9 @@
   },
   "mediaLocalization": {
     "file": "history-media-localization-zh-v18.json",
-    "bytes": 238053,
-    "sha256": "d9e12c0b75c3680b790b3024643e4a1eeb2bb67d96e7dfbd07012211b43f88f7",
-    "assets": 550
+    "bytes": 239393,
+    "sha256": "f9e45e25d171ae8f4eab32b7f47a538327029f114e9d757947243763e9bdcb4c",
+    "assets": 553
   },
   "visualExpansion": {
     "baselineManifest": "content-expansion-v17.json",
@@ -2781,6 +2781,13 @@
         "bytes": 16278,
         "sha256": "02282bdc12a9522575d5425e7c6ec63aaceaa430bb364613cc2a6514a197f710",
         "assets": 5,
+        "associations": 0
+      },
+      {
+        "file": "visual-assets-exact-25-v18.json",
+        "bytes": 10375,
+        "sha256": "5d2628169c0c078336c74537bafb4e5a0ffae299940040ff9936b8a89fd1a5fc",
+        "assets": 3,
         "associations": 0
       },
       {
@@ -3156,8 +3163,8 @@
       }
     ],
     "coverageFile": "visual-coverage-v18.json",
-    "assets": 550,
-    "covered": 1026,
+    "assets": 553,
+    "covered": 1029,
     "total": 2087,
     "target": 1044
   }
