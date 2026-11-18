@@ -216,7 +216,7 @@ try{
   await failurePage.goto(base+'#year=1863&entry=person-harriet-tubman&lang=en');
   await failurePage.waitForFunction(()=>!!window.atlasAPI,{},{timeout:90000});
   await failurePage.locator('#detail .history-image-link').scrollIntoViewIfNeeded();
-  await failurePage.locator('#detail .history-image-fallback').waitFor({state:'visible'});
+  await failurePage.locator('#detail .history-figure .history-image-fallback').waitFor({state:'visible'});
   assert.match(await failurePage.locator('#detail h2').innerText(),/Tubman/);
   assert.equal(await failurePage.locator('#detail .history-image-credit a').first().getAttribute('href'),tubman.sourceUrl);
   assert.equal(await failurePage.locator('#detail .history-image-link').getAttribute('href'),tubman.sourceUrl);

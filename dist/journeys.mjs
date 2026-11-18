@@ -24,5 +24,24 @@ export const journeys=[
     "timor-leste-independence",
     "south-sudan-independence"
   ]
-}
+},
+  {
+    id:'origins-before-cities',
+    title:{en:'Before cities: camps, crane flutes and first monuments',zh:'城市之前：冰期营地、鹤骨笛与最早的纪念建筑'},
+    description:{en:'Walk from Ice Age cave ceilings and southern Chilean peat tents to spring-side stone towers, Green Sahara solstice circles, playable bone flutes and pre-agricultural mound rings (13,000–3,000 BCE).',zh:'从冰期洞顶彩绘与智利泥炭木帐，走到泉畔石塔、绿撒哈拉夏至石阵、贾湖鹤骨笛与北美前农业土墩环（公元前13000—前3000年）。'},
+    stops:['altamira-magdalenian-painters','jomon-northern-japan','monte-verde-peat-camp','gobekli-tepe','jericho-tell-es-sultan-tower','nabta-playa-green-sahara','jiahu-crane-flutes','mehrgarh-bolan-granaries','varna-copper-gold-workshops','watson-brake-earthworks']
+  },
+  {
+    id:'across-eurasia-travellers',
+    title:{en:'Footsteps across a connected hemisphere',zh:'跨越半球的旅人足迹'},
+    description:{en:'Five observers who crossed seas, deserts and linguistic borders between 1159 and 1554—and recorded what the world looked like through their own eyes.',zh:'五位在1159至1554年间穿越海洋、荒漠与语言边界的行者，用亲历目光记下彼此相连的世界。'},
+    stops:['person-benjamin-of-tudela','person-rabban-bar-sauma','person-ibn-battuta','person-zheng-he','person-al-hasan-al-wazzan']
+  },
+  {
+    id:'voices-against-empire',
+    title:{en:'Letters, courts, ploughs and presses',zh:'书信、法庭、犁铧与印书机'},
+    description:{en:'How writers, highland commanders, self-taught lawyers and non-violent communities argued back against empire, enslavement and land confiscation.',zh:'著者、山地统帅、自修讼师与非暴力村社如何以笔墨、律条与犁铧回击帝国统治、奴役与土地剥夺。'},
+    stops:['person-guaman-poma','person-gabriela-silang','person-olaudah-equiano','person-munshi-abdullah','person-luiz-gama','person-te-whiti-o-rongomai','person-cornelia-sorabji']
+  }
 ];
+

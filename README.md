@@ -12,19 +12,19 @@ An English–Chinese atlas for exploring what was happening in different parts o
 
 ## Explore
 
-- **See the wider world.** Choose a year, search across regions and themes, and compare states and dynasties side by side.
-- **Follow human stories.** Browse people and places, open biographies, and trace dated events on the map.
-- **Read in English or Chinese.** Take a short guided reading or explore longer sequences in chapters.
-- **Look at the evidence.** Selected portraits, objects and documents carry image dates, source links and individual rights notices.
+- **See the wider world.** Choose a year, filter with map story lenses or `✦ Surprise`, and compare states, dynasties and concurrent turning points across the globe.
+- **Follow human stories.** Browse people and places, trace multi-stop biographical arcs on the map, and hover concurrent stories to see cross-globe tethers.
+- **Read in English or Chinese.** Take a short guided journey—from Ice Age camps and first monuments to medieval ocean travellers—or explore longer chaptered courses.
+- **Look at the evidence.** Selected portraits, objects and documents carry image dates, source links and individual rights notices, plus an interactive History & Artifact Detective challenge.
 - **Keep your own notebook.** Save entries and notes in your browser, then export them.
 
 Coverage is selective and growing. Historical maps have different dates and limits; an empty area does not mean an absence of people or history.
 
 ## Development update · November 2026
 
-**Published November 2026: V18 / 0.24.0.** The collection contains **2,087 historical entries, 278 biographies and 103 guided readings** (including **14 longer chaptered courses**). Its **553 credited images illustrate 1,029 entries (49.3%)**, with image inspection, side-by-side comparison, **100 source-verified China event reviews**, and 22 guided visual studies. People show available portraits or related works by default, without excluding unillustrated biographies. Map controls remain clear when wartime source legends are expanded.
+**Updated November 2026: V18 / 0.24.0.** The collection contains **2,107 historical entries, 290 biographies and 106 guided readings** (including **10 cross-regional journeys** and **14 longer chaptered courses**). Its **605 credited images illustrate 1,081 entries (51.3%)**, crossing the half-collection visual milestone with image inspection, side-by-side comparison, **112 source-verified China event reviews**, **316 narrative prose refinements**, and 22 guided visual studies. Deep Origins entries populate `13,000–3,000 BCE` across six world regions while keeping state/dynasty timeline bars anchored from `3200 BCE`.
 
-**Still growing:** the goal is meaningful images for at least half the entries: 1,044 of the current 2,087. Another 15 entries remain. [Verified release](docs/V18_RELEASE_1025.md) · [Coverage ledger](dist/data/visual-coverage-v18.json) · [Development record](docs/V18_VISUAL_EXPANSION.md).
+**Milestone reached:** meaningful, source-credited open-access images now accompany more than half of all entries (`1,081 / 2,107`, target `1,054`). [Verified release](docs/V18_RELEASE_1025.md) · [Coverage ledger](dist/data/visual-coverage-v18.json) · [Development record](docs/V18_VISUAL_EXPANSION.md).
 
 Firebase is the primary live destination. Older [GitHub Pages](https://haitaowu12.github.io/world-history-atlas/) and GPT Site links may show earlier versions. GitHub Actions are paused through November 2026; do not dispatch or retry workflows before December.
 

@@ -111,7 +111,7 @@ test('thirty new readings connect the expanded material while old shared steps r
  assert.equal(manifest.counts.readingPaths,courses.length);
  assert.equal(new Set(courses.map(c=>c.id)).size,courses.length);
  const paths=buildReadingCatalog(journeys,[...read('courses.json'),...courses],byId);
- assert.equal(paths.length,103,'includes the sixteen base courses and seven existing journeys');
+ assert.equal(paths.length,106,'includes the sixteen base courses and ten journeys');
  for(const study of studies){
   const path=paths.find(p=>p.id===study.id);assert.ok(path,study.id);
   assert.deepEqual(path.stops,study.recordIds);assert.deepEqual(path.routeIds,[]);

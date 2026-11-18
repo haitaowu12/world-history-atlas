@@ -18,12 +18,15 @@ test('three illustrated artifact stories extend the frozen corpus with connected
 });
 test('V18 receipts and cumulative counts include the new stories exactly once',()=>{
  const bytes=fs.readFileSync(new URL('../dist/data/artifact-stories-v18.json',import.meta.url));
- const receipt=manifest.files.find(r=>r.file==='artifact-stories-v18.json');
+ const globalStories=readAtlasData('stories-global-journeys-v18.json'),globalBytes=fs.readFileSync(new URL('../dist/data/stories-global-journeys-v18.json',import.meta.url));
+ const receipt=manifest.files.find(r=>r.file==='artifact-stories-v18.json'),globalReceipt=manifest.files.find(r=>r.file==='stories-global-journeys-v18.json');
  assert.equal(receipt.bytes,bytes.length);assert.equal(receipt.sha256,createHash('sha256').update(bytes).digest('hex'));assert.equal(receipt.records,stories.length);
- assert.deepEqual(manifest.files.filter(r=>!prior.files.some(old=>old.file===r.file)),[receipt]);
- assert.equal(manifest.baseline.records,prior.runtimeCounts.records);assert.equal(manifest.runtimeCounts.records,records.length);assert.equal(records.length,manifest.baseline.records+stories.length);
- assert.equal(manifest.counts.records,expansion.length);assert.equal(manifest.counts.records,prior.counts.records+3);assert.equal(manifest.counts.releases[12],3);
- assert.deepEqual(manifest.addition.recordIds,stories.map(r=>r.id));assert.equal(manifest.addition.sourceURLs,new Set(stories.flatMap(r=>r.sources.map(s=>s.url))).size);
+ assert.equal(globalReceipt.bytes,globalBytes.length);assert.equal(globalReceipt.sha256,createHash('sha256').update(globalBytes).digest('hex'));assert.equal(globalReceipt.records,globalStories.length);
+ assert.deepEqual(manifest.files.filter(r=>!prior.files.some(old=>old.file===r.file)),[receipt,globalReceipt]);
+ const addedV18=[...stories,...globalStories];
+ assert.equal(manifest.baseline.records,prior.runtimeCounts.records);assert.equal(manifest.runtimeCounts.records,records.length);assert.equal(records.length,manifest.baseline.records+addedV18.length);
+ assert.equal(manifest.counts.records,expansion.length);assert.equal(manifest.counts.records,prior.counts.records+23);assert.equal(manifest.counts.releases[12],23);
+ assert.deepEqual(manifest.addition.recordIds,addedV18.map(r=>r.id));assert.equal(manifest.addition.sourceURLs,new Set(addedV18.flatMap(r=>r.sources.map(s=>s.url))).size);
  assert.deepEqual(manifest.coverage,expansionCoverage(expansion,manifest.workstreams).map(({sourceURLs,...row})=>({...row,sourceCount:sourceURLs.length})));
 });
 test('artifact stories retain specific object identity and attribution limits',()=>{

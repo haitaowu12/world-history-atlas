@@ -71,17 +71,19 @@ export function relatedRecords(records, record) {
   return [...(record.relatedIds || []).map(id => byId.get(id)),...(reverse.get(record.id) || [])]
     .filter(row => row && !seen.has(row.id) && (seen.add(row.id),true));
 }
-export function contemporaries(records, selected, year, limit = 6) {
+export function contemporaries(records, selected, year, limit = 6, options = null) {
   const max = Number.isFinite(Number(limit)) ? Math.max(0, Math.trunc(Number(limit))) : 6;
   const list=records.filter(r=>r.id!==selected?.id && activeAt(r,year));
+  const rich=Boolean(options?.preferRich),hasMedia=typeof options?.hasMedia==='function'?options.hasMedia:null;
+  const rank=(a,b)=>rich?((Number(Boolean(hasMedia?.(b.id)))-Number(Boolean(hasMedia?.(a.id))))||(Number(Boolean(b.milestones?.length))-Number(Boolean(a.milestones?.length)))||((b.importance||3)-(a.importance||3))||a.id.localeCompare(b.id)):a.id.localeCompare(b.id);
   const regionOrder = [...new Set(list.map(r=>r.region))].sort((a,b)=>(a===selected?.region)-(b===selected?.region) || a.localeCompare(b));
   const result=[];
   for(const region of regionOrder) {
-    const candidates=list.filter(r=>r.region===region).sort((a,b)=>a.id.localeCompare(b.id));
+    const candidates=list.filter(r=>r.region===region).sort(rank);
     if(candidates[0]) result.push(candidates[0]);
   }
   const picked = new Set(result.map(r=>r.id));
-  const remaining = list.filter(r=>!picked.has(r.id)).sort((a,b)=>(a.region===selected?.region)-(b.region===selected?.region) || a.id.localeCompare(b.id));
+  const remaining = list.filter(r=>!picked.has(r.id)).sort((a,b)=>(a.region===selected?.region)-(b.region===selected?.region) || rank(a,b));
   return [...result,...remaining].slice(0,max);
 }
 export function defaultState() {

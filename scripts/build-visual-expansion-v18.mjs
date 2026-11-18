@@ -13,9 +13,10 @@ const baseline=readAtlasData('content-expansion-v17.json');
 const chinaReviewsFile='china-visual-reviews-v18.json';
 const evidenceReviewsFile='evidence-followups-v18.json';
 const reviewBytes=fs.readFileSync(new URL(chinaReviewsFile,data));
-const storyFile='artifact-stories-v18.json',storyBytes=fs.readFileSync(new URL(storyFile,data));
-const stories=JSON.parse(storyBytes);
-const files=[...baseline.files,{file:storyFile,records:stories.length,sha256:sha(storyBytes),bytes:storyBytes.length}];
+const storyFiles=['artifact-stories-v18.json','stories-global-journeys-v18.json'].filter(f=>fs.existsSync(new URL(f,data)));
+const storyReceipts=storyFiles.map(file=>{const bytes=fs.readFileSync(new URL(file,data)),rows=JSON.parse(bytes);return {file,records:rows.length,sha256:sha(bytes),bytes:bytes.length,rows};});
+const stories=storyReceipts.flatMap(r=>r.rows);
+const files=[...baseline.files,...storyReceipts.map(({rows,...receipt})=>receipt)];
 const placeLabelsFile='place-labels-reviewed-v18.json',placeLabelBytes=fs.readFileSync(new URL(placeLabelsFile,data));
 const summaryEditsFile='summary-edits-v18.json',summaryEditBytes=fs.readFileSync(new URL(summaryEditsFile,data));
 const chronologyEditsFile='chronology-edits-v18.json',chronologyEditBytes=fs.readFileSync(new URL(chronologyEditsFile,data));
@@ -57,7 +58,7 @@ if(process.argv.includes('--require-target')&&!summary.targetMet)throw Error(`Vi
 const manifest={...baseline,files,placeLabelsFile,summaryEditsFile,chronologyEditsFile,evidenceReviewsFile,chronologyEdits:{bytes:chronologyEditBytes.length,sha256:sha(chronologyEditBytes),records:JSON.parse(chronologyEditBytes).items.length},summaryEdits:{bytes:summaryEditBytes.length,sha256:sha(summaryEditBytes),records:JSON.parse(summaryEditBytes).items.length},placeLabelTranslations:{records:JSON.parse(placeLabelBytes).items.length,bytes:placeLabelBytes.length,sha256:sha(placeLabelBytes)},baseline:{manifest:'content-expansion-v17.json',records:records.length-stories.length},
  counts:{...baseline.counts,...counts(expansion),releases:Object.fromEntries([...new Set(expansion.map(r=>r.expansion.release))].map(n=>[n,expansion.filter(r=>r.expansion.release===n).length]))},
  runtimeCounts:{...baseline.runtimeCounts,records:records.length},
- addition:{edition:'v18',release:12,files:[storyFile],...counts(stories),recordIds:stories.map(r=>r.id),regions:Object.fromEntries([...new Set(stories.map(r=>r.region))].map(region=>[region,counts(stories.filter(r=>r.region===region))]))},
+ addition:{edition:'v18',release:12,files:storyFiles,...counts(stories),recordIds:stories.map(r=>r.id),regions:Object.fromEntries([...new Set(stories.map(r=>r.region))].map(region=>[region,counts(stories.filter(r=>r.region===region))]))},
  coverage:expansionCoverage(expansion,baseline.workstreams).map(({sourceURLs,...stream})=>({...stream,sourceCount:sourceURLs.length})),
  method:{en:'V18 connects historical images with their stories, adds object-centered readings and side-by-side looking exercises, and preserves released narratives with separate source-backed corrections.',zh:'V18把历史图像与故事连接起来，新增以文物为中心的阅读与图像对照，并以独立、有据可查的校订层保留已发布叙事。'},version:'0.24.0',preparedAt:'2026-11-14',mediaFile:'history-media-v18.json',chinaReviewsFile,chinaVisualReviews:{bytes:reviewBytes.length,sha256:sha(reviewBytes),records:JSON.parse(reviewBytes).eventReviews.length},geographicIndexFile:'us-canada-history-index-v18.json',regionalHistoryFile:'regional-history-v18.json',mediaLocalization:{file:localizationFile,bytes:localizationBytes.length,sha256:sha(localizationBytes),assets:JSON.parse(localizationBytes).items.length},visualExpansion:{baselineManifest:'content-expansion-v17.json',shards:receipts,coverageFile:'visual-coverage-v18.json',assets:summary.assets,covered:summary.covered,total:summary.total,target}};
 // Preserve existing associations. New object stories use explicitly broad/contextual points, not inferred modern-area membership.

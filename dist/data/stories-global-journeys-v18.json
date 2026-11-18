@@ -1,0 +1,2538 @@
+[
+  {
+    "id": "altamira-magdalenian-painters",
+    "title": {
+      "en": "Altamira’s bison painters work the cave ceiling by lamp-flame",
+      "zh": "阿尔塔米拉画师借石灯微光在洞顶绘野牛"
+    },
+    "shortTitle": {
+      "en": "Altamira painters",
+      "zh": "阿尔塔米拉彩绘洞穴"
+    },
+    "start": -13000,
+    "end": -12000,
+    "region": "europe",
+    "theme": "culture",
+    "kind": "culture",
+    "importance": 4,
+    "location": {
+      "lat": 43.377,
+      "lon": -4.122,
+      "label": "Cave of Altamira, Cantabria, northern Spain",
+      "labelI18n": {
+        "en": "Cave of Altamira, Cantabria, northern Spain",
+        "zh": "西班牙北部坎塔布里亚阿尔塔米拉洞穴"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Crouching beneath a low limestone ceiling near the Bay of Biscay, Magdalenian artists ground red and yellow iron oxides with charcoal and water, then fitted curled steppe bison onto the natural bosses of the rock. Where a stone bulge swelled outward, a shoulder or flank took three-dimensional volume under flickering marrow-fat lamps. Engraved outlines cut with flint burins sharpened horns, hooves and watching eyes.\n\nFor generations before a rockfall sealed the entrance around 13,000 years ago, hunter-gatherers camped in the sunlit mouth of Altamira while reserving the dark inner chambers for painting and engraving. While Jōmon communities on the far side of Eurasia were firing their earliest cord-marked cooking pots, Cantabrian bands turned mineral pigment and cave relief into a shared visual memory of Ice Age herds.",
+      "zh": "在比斯开湾附近的低矮石灰岩洞顶下，马格德林文化的画师将红黄铁矿石颜料与木炭研磨调水，顺着岩石天然凸起的瘤体绘出蜷卧的草原野牛。石壁隆起处恰好化作牛肩与腹胁，在骨髓油脂石灯摇曳的火光下显出立体起伏；燧石刻刀刮出的细线则勾勒出牛角、蹄尖与凝视的双眼。\n\n在距今约一万三千年前洞口崩塌封闭之前，采集狩猎人群世代在向阳的洞口营地生火栖居，而幽暗的深处洞室则留给彩绘与石刻。当欧亚大陆另一端的绳文社群开始烧制最早的煮食陶器时，坎塔布里亚的猎人正用矿物颜料与岩壁浮凸记录冰期兽群的共同记忆。"
+    },
+    "dateNote": {
+      "en": "Focused on the late Magdalenian polychrome ceiling phase, roughly 13,000–12,000 BCE (c. 15,000–14,000 BP); earlier cave occupation began millennia sooner.",
+      "zh": "聚焦于马格德林晚期多色洞顶壁画阶段，约公元前13000—前12000年；洞穴更早的人类活动可追溯至数千年前。"
+    },
+    "relatedIds": [
+      "jomon-northern-japan",
+      "gobekli-tepe"
+    ],
+    "sources": [
+      {
+        "title": "Cave of Altamira and Paleolithic Cave Art of Northern Spain",
+        "publisher": "UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/310/",
+        "evidenceNote": "Supports Cantabrian cave setting, Magdalenian polychrome bison ceiling, mineral pigments, and natural rock-relief technique.",
+        "evidenceNoteZh": "支持坎塔布里亚洞穴位置、马格德林期多色野牛洞顶、矿物颜料及借天然岩壁起伏造型的技法。",
+        "checkedAt": "2026-11-18",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Museum of Altamira — Prehistoric Cave Art Trails",
+        "publisher": "Council of Europe Cultural Routes",
+        "url": "https://www.coe.int/en/web/cultural-routes/museum-of-altamira",
+        "evidenceNote": "Corroborates camp occupation near the entrance, rockfall sealing around 13,000 years ago, and polychrome Magdalenian chronology.",
+        "evidenceNoteZh": "印证洞口生活营地、距今约13000年前的崩塌封存及马格德林期多色壁画年代。",
+        "checkedAt": "2026-11-18",
+        "retrieval": "opened-page"
+      }
+    ],
+    "regionalAssociation": "omit-broad-point",
+    "expansion": {
+      "release": 12,
+      "edition": "v18",
+      "workstreams": [
+        "EU1"
+      ],
+      "sourceReview": "Reviewed against UNESCO World Heritage inscription dossier summary and Museo de Altamira institutional documentation.",
+      "reviewLimit": {
+        "en": "Radiocarbon and uranium-series dates span multiple painting episodes across millennia; the window highlights the polychrome Magdalenian ceiling phase.",
+        "zh": "碳十四与铀系测年涵盖数千年间的多次绘刻阶段；此处时间窗聚焦于马格德林期多色洞顶阶段。"
+      }
+    }
+  },
+  {
+    "id": "monte-verde-peat-camp",
+    "title": {
+      "en": "Monte Verde’s peat bog preserves tents, seaweeds and a child’s footprint",
+      "zh": "蒙特维德泥炭沼封存木构帐篷、海藻与孩童脚印"
+    },
+    "shortTitle": {
+      "en": "Monte Verde camp",
+      "zh": "蒙特维德营地"
+    },
+    "start": -12500,
+    "end": -11800,
+    "region": "latin-america",
+    "theme": "culture",
+    "kind": "place",
+    "importance": 4,
+    "location": {
+      "lat": -41.505,
+      "lon": -73.204,
+      "label": "Monte Verde (Chinchihuapi Creek), Los Lagos, southern Chile",
+      "labelI18n": {
+        "en": "Monte Verde (Chinchihuapi Creek), Los Lagos, southern Chile",
+        "zh": "智利南部湖大区钦奇瓦皮溪畔蒙特维德遗址"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Along a small creek in cool, forested southern Chile, families drove split timber stakes into damp ground, lashed wooden frames with reed cordage, and draped animal hides overhead to break the southern wind. Soon after they left, rising water laid an oxygen-poor peat blanket over the camp, preserving wood, knotted string, chewed cuds of Pacific seaweed, wild potatoes and a single child’s footprint pressed beside a hearth.\n\nNine species of marine algae carried from beaches and estuaries dozens of kilometres away supplied iodine, salt and medicine alongside gomphothere meat and Temperate rainforest tubers. Dating to roughly 14,500 years ago, Monte Verde overturned the long-held assumption that people entered the Americas only much later behind Clovis spear-makers on the North American plains.",
+      "zh": "在智利南部清冷湿润的林间溪畔，数户人家将劈开的木桩打入湿地，用芦苇绳索捆扎木架、披覆兽皮以抵御南风。营地废弃后不久，上涨的水位覆上一层缺氧泥炭，奇迹般封存了木桩、绳结、嚼过的太平洋海藻团、野生马铃薯残迹，以及火塘旁一枚清晰的孩童脚印。\n\n从数十公里外的海滩与河口采来的九种海藻，为营地提供了碘、盐分与药材，与嵌齿象肉和温带雨林块茎共同构成食谱。蒙特维德距今约一万四千五百年的年代，打破了学界长期认为人类须待北美克洛维斯猎人之后才进入美洲的旧说。"
+    },
+    "dateNote": {
+      "en": "Calibrated radiocarbon dates for Monte Verde II cluster around 14,550–14,000 cal BP (shown as c. 12,500–11,800 BCE).",
+      "zh": "蒙特维德二期校正碳十四年代集中于距今约14550—14000年（此处标为约公元前12500—前11800年）。"
+    },
+    "relatedIds": [
+      "caral",
+      "jomon-northern-japan"
+    ],
+    "sources": [
+      {
+        "title": "Monte Verde Archaeological Site",
+        "publisher": "UNESCO World Heritage Tentative Lists",
+        "url": "https://whc.unesco.org/en/tentativelists/1873/",
+        "evidenceNote": "Documents Chinchihuapi Creek peat preservation, timber-and-hide tent remains, cordage, hearth footprint, and late Pleistocene chronology; state-party tentative submission.",
+        "evidenceNoteZh": "记载钦奇瓦皮溪泥炭保存环境、木架兽皮帐篷遗迹、绳索、火塘旁脚印及晚更新世年代；属缔约国预备名录文本。",
+        "checkedAt": "2026-11-18",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "New Archaeological Evidence for an Early Human Presence at Monte Verde, Chile",
+        "publisher": "Tom D. Dillehay et al., PLOS ONE (2015)",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0141923",
+        "evidenceNote": "Peer-reviewed stratigraphy, radiocarbon chronology for MV-II (~14,500 cal BP), and coastal-inland resource exchange including marine algae.",
+        "evidenceNoteZh": "同行评审地层与碳十四测年确认MV-II约距今14500年，并详述包括海藻在内的海岸—内陆资源往来。",
+        "checkedAt": "2026-11-18",
+        "retrieval": "opened-page"
+      }
+    ],
+    "regionalAssociation": "omit-broad-point",
+    "expansion": {
+      "release": 12,
+      "edition": "v18",
+      "workstreams": [
+        "LA2"
+      ],
+      "sourceReview": "Reviewed against Dillehay et al. (PLOS ONE 2015) and Chile’s UNESCO Tentative List archaeological summary.",
+      "reviewLimit": {
+        "en": "Focuses on the widely accepted Monte Verde II occupation layer (~14.5 ka); deeper MV-I horizons remain debated among specialists.",
+        "zh": "聚焦学界普遍确认的蒙特维德二期文化层（距今约1.45万年）；更早的MV-I层位在学界仍有讨论。"
+      }
+    }
+  },
+  {
+    "id": "jericho-tell-es-sultan-tower",
+    "title": {
+      "en": "Builders beside Jericho’s spring raise a stone tower and staircase",
+      "zh": "耶利哥泉畔居民筑起石塔与内旋石阶"
+    },
+    "shortTitle": {
+      "en": "Jericho stone tower",
+      "zh": "耶利哥石塔"
+    },
+    "start": -8300,
+    "end": -7300,
+    "region": "west-central-asia",
+    "theme": "cities",
+    "kind": "place",
+    "importance": 4,
+    "location": {
+      "lat": 31.871,
+      "lon": 35.444,
+      "label": "Tell es-Sultan (ancient Jericho), Jordan Valley, Palestine",
+      "labelI18n": {
+        "en": "Tell es-Sultan (ancient Jericho), Jordan Valley, Palestine",
+        "zh": "约旦河谷泰尔苏丹遗址（古耶利哥）"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Long before anyone in the Levant fired clay pots or smelted metal, residents clustered around the perennial Ein es-Sultan spring hauled undressed boulders to build a perimeter wall, a rock-cut ditch and an 8.5-metre conical stone tower. Inside the tower’s dark core, twenty-two hammered stone steps still climb to a top platform looking across the Jordan Valley oasis and the western hills.\n\nWhether engineered to deflect flash floods, mark solstice shadows from Mount Quruntul or project communal authority, the work demanded coordinated labour across scores of mudbrick households. Beneath house floors in the succeeding Pre-Pottery Neolithic phase, families buried relatives and modelled fine lime plaster over selected skulls with cowrie-shell eyes—anchoring lineage and memory directly into domestic space.",
+      "zh": "在黎凡特尚未出现陶器与冶金的年代，聚居在艾因苏丹常流泉畔的居民搬运未经雕琢的巨石，筑起围墙、凿岩壕沟与一座高约8.5米的圆锥形石塔。幽暗的塔身内部嵌着二十二级石阶，至今仍可拾级登上俯瞰约旦河谷绿洲与西侧山峦的塔顶平台。\n\n无论它旨在阻挡山洪泥流、呼应库伦图尔山的夏至日影，还是彰显聚落共同体的凝聚力，这项工程都意味着数十座泥砖居址之间的协力劳作。在随后的前陶新石器阶段，居民将亲人葬于屋内地面之下，并以细腻石灰膏在部分头骨上塑出面容、镶入货贝作眼，使家族记忆与居所融为一体。"
+    },
+    "dateNote": {
+      "en": "Spans the Pre-Pottery Neolithic A stone tower and wall (~8300–7800 BCE) into the Pre-Pottery Neolithic B plastered-skull households (~7800–7300 BCE).",
+      "zh": "涵盖前陶新石器A期石塔与围墙（约公元前8300—前7800年）及前陶新石器B期塑面头骨居址阶段（约公元前7800—前7300年）。"
+    },
+    "relatedIds": [
+      "gobekli-tepe",
+      "catalhoyuk",
+      "uruk-writing"
+    ],
+    "sources": [
+      {
+        "title": "Ancient Jericho/Tell es-Sultan",
+        "publisher": "UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/1687/",
+        "evidenceNote": "Inscribed World Heritage documentation for Ein es-Sultan oasis settlement, Pre-Pottery Neolithic wall, ditch, monumental tower, and skull-plastering practices.",
+        "evidenceNoteZh": "世界遗产名录档案确认艾因苏丹绿洲聚落、前陶新石器围墙、壕沟、石塔及头骨塑面葬俗。",
+        "checkedAt": "2026-11-18",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Plastered human skull from Jericho (127414)",
+        "publisher": "The British Museum",
+        "url": "https://www.britishmuseum.org/collection/object/W_1953-0407-1",
+        "evidenceNote": "Supports Pre-Pottery Neolithic B lime-plastered human skull with shell-inlaid eyes excavated by Kathleen Kenyon at Tell es-Sultan.",
+        "evidenceNoteZh": "支持凯瑟琳·凯尼恩在泰尔苏丹发掘的前陶新石器B期石灰塑面嵌贝人头骨。",
+        "checkedAt": "2026-11-18",
+        "retrieval": "opened-page"
+      }
+    ],
+    "regionalAssociation": "omit-broad-point",
+    "expansion": {
+      "release": 12,
+      "edition": "v18",
+      "workstreams": [
+        "WA1"
+      ],
+      "sourceReview": "Reviewed against UNESCO World Heritage inscription 1687 and British Museum Kenyon excavation collection records.",
+      "reviewLimit": {
+        "en": "Specialists debate whether the PPNA wall and tower served flood defense, ritual gathering or fortification; calling Tell es-Sultan a ‘town’ does not imply later Bronze Age state administration.",
+        "zh": "学界对石塔与围墙究竟用于防洪、仪式集会还是防御仍有讨论；前陶新石器大型聚落不等同于后世青铜时代的国家行政城市。"
+      }
+    }
+  },
+  {
+    "id": "nabta-playa-green-sahara",
+    "title": {
+      "en": "Green Sahara cattle herders align solstice stones at Nabta Playa",
+      "zh": "绿撒哈拉牧牛人在纳布塔普拉亚立起夏至石阵"
+    },
+    "shortTitle": {
+      "en": "Nabta Playa stones",
+      "zh": "纳布塔普拉亚石阵"
+    },
+    "start": -7500,
+    "end": -4800,
+    "region": "africa",
+    "theme": "knowledge",
+    "kind": "culture",
+    "importance": 4,
+    "location": {
+      "lat": 22.51,
+      "lon": 30.72,
+      "label": "Nabta Playa basin, Nubian Desert, southern Egypt",
+      "labelI18n": {
+        "en": "Nabta Playa basin, Nubian Desert, southern Egypt",
+        "zh": "埃及南部努比亚沙漠纳布塔普拉亚盆地"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Today hyper-arid desert west of Abu Simbel, Nabta Playa once filled with summer monsoon rains during the African Humid Period, drawing gazelle, hares and mobile pastoralists driving herds of cattle. Families dug deep walk-in wells to survive dry months, harvested wild sorghum across the basin floor and decorated early pottery with dotted wavy lines.\n\nAs the monsoon grew erratic in the fifth millennium BCE, pastoral bands gathered at the lake edge for seasonal ceremonies, burying whole young cattle in clay-lined chambers roofed with tamarisk logs and setting a small ring of sandstone slabs with sightlines opening toward the summer solstice sunrise—the sky signal that promised returning rain. When the desert dried further, those herding and astronomical traditions moved east toward the Nile Valley.",
+      "zh": "今日阿布辛贝以西极度干旱的纳布塔普拉亚盆地，在非洲湿润期曾因夏季季风降雨汇成季节性湖泊，吸引瞪羚、野兔与赶着牛群迁徙的牧人。人们开凿可步入汲水的深井度过旱季，采集盆地中的野生高粱，并在早期陶器上压印出点状波浪纹。\n\n公元前五千纪季风渐趋不稳时，各支牧群在湖畔举行季节性集会，把整头幼牛葬入柽柳原木封顶的泥衬墓室，并竖起一圈砂岩板石，留出指向夏至日出的观测缺口——那是预示雨季重临的天象信号。随着撒哈拉再度干涸，这些畜牧与观象传统向东汇入尼罗河谷。"
+    },
+    "dateNote": {
+      "en": "Covers Holocene lake-basin occupation from early well-digging and ceramics (~7500 BCE) through cattle tumuli and stone alignments (~4800 BCE).",
+      "zh": "涵盖全新世湖盆聚居期，自早期凿井与制陶（约公元前7500年）延续至牛葬冢与砂岩石阵阶段（约公元前4800年）。"
+    },
+    "relatedIds": [
+      "kerma-kingdom",
+      "memphis-pyramids"
+    ],
+    "sources": [
+      {
+        "title": "The Megaliths of Nabta Playa: Volume I",
+        "publisher": "Combined Prehistoric Expedition / Institute of Archaeology and Ethnology, Polish Academy of Sciences",
+        "url": "https://rcin.org.pl/Content/247676/The%20Megaliths%20of%20Nabta%20Playa_I.pdf",
+        "evidenceNote": "Primary archaeological monograph documenting Holocene playa stratigraphy, deep wells, sorghum storage pits, cattle burials, and Late Neolithic megalithic alignments.",
+        "evidenceNoteZh": "联合史前考察队考古专著，记录全新世季节湖地层、深井、高粱窖穴、牛祭葬及新石器晚期巨石排列。",
+        "checkedAt": "2026-11-18",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Megaliths and Astronomy at Nabta Playa",
+        "publisher": "NASA Earth Observatory — Nubian Desert Paleolakes",
+        "url": "https://earthobservatory.nasa.gov/images/8631/ancient-megaliths-nubian-desert",
+        "evidenceNote": "Summarizes paleolake hydrology during the African Humid Period and the summer-solstice orientation of the reconstructed stone circle now at Aswan’s Nubian Museum.",
+        "evidenceNoteZh": "概述非洲湿润期古湖泊水文环境及现迁建于阿斯旺努比亚博物馆的夏至定向石圈。",
+        "checkedAt": "2026-11-18",
+        "retrieval": "opened-page"
+      }
+    ],
+    "regionalAssociation": "omit-broad-point",
+    "expansion": {
+      "release": 12,
+      "edition": "v18",
+      "workstreams": [
+        "AF3"
+      ],
+      "sourceReview": "Reviewed against Combined Prehistoric Expedition monograph (Wendorf, Schild et al.) and Nubian Desert paleolake summaries.",
+      "reviewLimit": {
+        "en": "Summer-solstice sightlines in the stone circle are well documented, whereas more elaborate stellar claims for surrounding stone clusters remain contested.",
+        "zh": "石圈的夏至日出观测线有扎实的测绘依据，而关于周边石群对应复杂恒星坐标的假说在学界仍有争议。"
+      }
+    }
+  },
+  {
+    "id": "jiahu-crane-flutes",
+    "title": {
+      "en": "Jiahu villagers carve playable crane-bone flutes and brew rice wine",
+      "zh": "贾湖先民以丹顶鹤尺骨琢笛并酿造稻米蜜酒"
+    },
+    "shortTitle": {
+      "en": "Jiahu crane flutes",
+      "zh": "贾湖骨笛"
+    },
+    "start": -7000,
+    "end": -5700,
+    "region": "east-asia",
+    "theme": "culture",
+    "kind": "culture",
+    "importance": 4,
+    "location": {
+      "lat": 33.61,
+      "lon": 113.67,
+      "label": "Jiahu site, Wuyang County, Henan, central China",
+      "labelI18n": {
+        "en": "Jiahu site, Wuyang County, Henan, central China",
+        "zh": "中国河南舞阳县贾湖遗址"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Between marshes and slow rivers on the southern Huai plain, Neolithic villagers at Jiahu harvested wetland rice, trapped fish and waterfowl, and selected the hollow wing bones (ulnae) of red-crowned cranes to fashion more than thirty end-blown flutes. Before drilling five to eight finger holes, instrument makers scored layout marks along the bone—and on one seven-hole flute dated around 6000 BCE, added a tiny tuning hole beside the seventh aperture so it could sound a clear scale.\n\nChemical residues inside Jiahu’s pointed-bottom pottery jars revealed another craft of gathering and hospitality: the earliest chemically attested fermented beverage, brewed from rice, wild grape or hawthorn fruit, and honeywax. Engraved tortoise shells placed in graves hint at divination practices millennia before Shang oracle bones.",
+      "zh": "在淮河上游支流与沼泽交织的平原上，贾湖村落的居民收割湿地稻谷、捕捞鱼鳖水禽，并挑选丹顶鹤中空的尺骨，琢磨出三十余支竖吹骨笛。匠人在钻出五至八个音孔之前，先在骨管表面刻下定位线；一支约公元前6000年的七孔骨笛还在第七孔旁补钻细小调音孔，至今仍能吹奏出清亮音阶。\n\n尖底陶罐内壁的化学残留物揭示了聚饮与款待的另一门手艺：用稻米、山楂或野生葡萄配以蜂蜜酿成的发酵酒液。部分墓葬随葬的刻符龟甲，也在商代甲骨文出现数千年前留下了占卜仪式的线索。"
+    },
+    "dateNote": {
+      "en": "Radiocarbon dates across three Jiahu occupation phases span roughly 7000–5700 BCE.",
+      "zh": "贾湖遗址三期文化层的碳十四测年跨度约为公元前7000—前5700年。"
+    },
+    "relatedIds": [
+      "liangzhu",
+      "jomon-northern-japan"
+    ],
+    "sources": [
+      {
+        "title": "Oldest playable musical instruments found at Jiahu early Neolithic site in China",
+        "publisher": "Juzhong Zhang, Garman Harbottle, Changsui Wang & Zhaochen Kong, Nature / Brookhaven National Laboratory (1999)",
+        "url": "https://www.osti.gov/servlets/purl/779785",
+        "evidenceNote": "Documents excavation of >30 red-crowned crane ulna flutes across 7000–5700 BCE strata, layout scratch marks, tuning hole, and acoustic testing.",
+        "evidenceNoteZh": "记录公元前7000—前5700年地层出土的三十余支丹顶鹤尺骨笛、刻划定位线、调音孔及测音结果。",
+        "checkedAt": "2026-11-18",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Chemical identification and cultural implications of a mixed fermented beverage from late prehistoric China",
+        "publisher": "Patrick E. McGovern et al., Proceedings of the National Academy of Sciences (2004)",
+        "url": "https://www.pnas.org/doi/10.1073/pnas.0407921102",
+        "evidenceNote": "Establishes chemical residue identification of rice, honey, and hawthorn/wild grape fermented beverage in Jiahu pottery jars (~7000–5600 BCE).",
+        "evidenceNoteZh": "通过陶器残留物化学分析确认贾湖（约公元前7000—前5600年）以稻米、蜂蜜及山楂或野葡萄酿造混合发酵酒。",
+        "checkedAt": "2026-11-18",
+        "retrieval": "opened-page"
+      }
+    ],
+    "regionalAssociation": "omit-broad-point",
+    "expansion": {
+      "release": 12,
+      "edition": "v18",
+      "workstreams": [
+        "CH1"
+      ],
+      "sourceReview": "Reviewed against Zhang et al. (Nature 1999 / OSTI archive) and McGovern et al. (PNAS 2004).",
+      "reviewLimit": {
+        "en": "Incised marks on Jiahu tortoise shells show deliberate sign-making, though most scholars treat them as ritual symbols rather than a full writing system.",
+        "zh": "贾湖龟甲刻符体现了有意识的符号刻划，但多数学者将其视为仪式符号，而非成熟的文字系统。"
+      }
+    }
+  },
+  {
+    "id": "mehrgarh-bolan-granaries",
+    "title": {
+      "en": "Mehrgarh farmers build mudbrick granaries and drill living teeth",
+      "zh": "梅赫尔格尔农人筑泥砖粮仓并以燧石弓钻治牙"
+    },
+    "shortTitle": {
+      "en": "Mehrgarh granaries",
+      "zh": "梅赫尔格尔遗址"
+    },
+    "start": -7000,
+    "end": -5500,
+    "region": "south-asia",
+    "theme": "cities",
+    "kind": "place",
+    "importance": 4,
+    "location": {
+      "lat": 29.387,
+      "lon": 67.623,
+      "label": "Mehrgarh, Kachi Plain near the Bolan Pass, Balochistan, Pakistan",
+      "labelI18n": {
+        "en": "Mehrgarh, Kachi Plain near the Bolan Pass, Balochistan, Pakistan",
+        "zh": "巴基斯坦俾路支省博兰山口旁卡奇平原梅赫尔格尔遗址"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "At the foot of the Bolan Pass linking the Iranian plateau to the Indus plain, early farming households at Mehrgarh built multi-roomed mudbrick houses and compartmented storage granaries packed with six-row barley and einkorn wheat. Even in its aceramic phase around 7000 BCE, graves held turquoise from Central Asia, lapis lazuli from Badakhshan and marine shells from the Arabian Sea—proof that village life grew inside long mountain-and-coast exchange corridors.\n\nBead-makers soon repurposed their flint-tipped bow drills for human care: eleven molars from nine adults buried in Mehrgarh’s Neolithic cemetery show tiny, concentric drill cavities smoothed again by chewing, recording the earliest known dentistry on living patients millennia before Harappa and Mohenjo-daro.",
+      "zh": "在连接伊朗高原与印度河平原的博兰山口脚下，梅赫尔格尔的早期农耕家庭筑起多间泥砖房与分格粮仓，贮存六棱大麦与一粒小麦。即便在约公元前7000年的无陶阶段，墓葬中已随葬中亚绿松石、巴达赫尚青金石与阿拉伯海贝壳，表明定居村落一开始便嵌在跨越山地与海岸的交换走廊之中。\n\n珠饰匠人还将装有燧石钻头的弓钻用于疗愈病痛：新石器墓地中九名成年人的十一颗臼齿留有布满同心旋纹的微小钻孔，孔缘又因生前继续咀嚼而磨圆，在哈拉帕与摩亨佐-达罗兴起数千年前留下了已知最早的活体牙科治疗实证。"
+    },
+    "dateNote": {
+      "en": "Focuses on Mehrgarh Period I (aceramic Neolithic, c. 7000–5500 BCE), when mudbrick granaries, long-distance bead exchange, and flint bow-drill dentistry appear.",
+      "zh": "聚焦梅赫尔格尔一期（无陶新石器时代，约公元前7000—前5500年），涵盖泥砖粮仓、远距珠饰交换与燧石弓钻治牙遗存。"
+    },
+    "relatedIds": [
+      "mohenjo-daro",
+      "dholavira"
+    ],
+    "sources": [
+      {
+        "title": "Archaeological Site of Mehrgarh",
+        "publisher": "UNESCO World Heritage Tentative Lists",
+        "url": "https://whc.unesco.org/en/tentativelists/1876/",
+        "evidenceNote": "Documents Kachi Plain location at Bolan Pass, aceramic mudbrick houses and compartmented storage buildings, barley/wheat cultivation, and long-distance shell/lapis burials; tentative list submission.",
+        "evidenceNoteZh": "记载博兰山口卡奇平原位置、无陶期泥砖房屋与分格粮仓、大麦小麦种植及远距海贝青金石随葬品；属预备名录文本。",
+        "checkedAt": "2026-11-18",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Early Neolithic tradition of dentistry",
+        "publisher": "A. Coppa et al., Nature 440, 755–756 (2006) / PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16598247/",
+        "evidenceNote": "Peer-reviewed SEM analysis of eleven drilled in vivo human molars from nine adults at Neolithic Mehrgarh (7,500–9,000 years ago) worked with flint drill heads.",
+        "evidenceNoteZh": "同行评审扫描电镜分析确认距今7500—9000年新石器时代梅赫尔格尔九名成人十一颗活体钻孔臼齿由燧石钻头钻治。",
+        "checkedAt": "2026-11-18",
+        "retrieval": "opened-page"
+      }
+    ],
+    "regionalAssociation": "omit-broad-point",
+    "expansion": {
+      "release": 12,
+      "edition": "v18",
+      "workstreams": [
+        "SA1"
+      ],
+      "sourceReview": "Reviewed against Coppa et al. (Nature 2006) and Pakistan’s UNESCO Tentative List dossier for Mehrgarh.",
+      "reviewLimit": {
+        "en": "Mehrgarh remained occupied down to c. 2500 BCE; this entry focuses on its earliest Neolithic farming, exchange and craft horizons.",
+        "zh": "梅赫尔格尔聚落一直延续至约公元前2500年；本条聚焦其最早的新石器农耕、远距交换与工艺层位。"
+      }
+    }
+  },
+  {
+    "id": "varna-copper-gold-workshops",
+    "title": {
+      "en": "Varna’s Black Sea smiths hammer the world’s earliest gold regalia",
+      "zh": "瓦尔纳黑海金匠锻造世界最早的黄金权杖与礼饰"
+    },
+    "shortTitle": {
+      "en": "Varna goldsmiths",
+      "zh": "瓦尔纳黄金墓地"
+    },
+    "start": -4600,
+    "end": -4200,
+    "region": "europe",
+    "theme": "exchange",
+    "kind": "culture",
+    "importance": 4,
+    "location": {
+      "lat": 43.214,
+      "lon": 27.875,
+      "label": "Varna Chalcolithic Necropolis, Black Sea coast, Bulgaria",
+      "labelI18n": {
+        "en": "Varna Chalcolithic Necropolis, Black Sea coast, Bulgaria",
+        "zh": "保加利亚黑海沿岸瓦尔纳铜石并用时代墓地"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Near a coastal lake opening onto the western Black Sea, fifth-millennium BCE metallurgists channeled Balkan copper ores, Aegean Spondylus shell and alluvial gold into shimmering markers of rank. Across nearly three hundred Chalcolithic graves at Varna, archaeologists uncovered more than 3,000 gold objects weighing over six kilograms—beaded necklaces, bull-shaped appliqués, bracelets and gold-sheathed axe-sceptres.\n\nStrikingly, several of the richest graves held no human skeleton at all: instead, life-sized clay masks were adorned with gold diadems, earstuds and mouth-plates as cenotaphs for revered powers or absent leaders. In Grave 43, a tall man in his forties went into the earth holding a gold-mounted sceptre alongside nearly a thousand separate gold ornaments, centuries before royal goldsmithing appeared in Egypt or Mesopotamia.",
+      "zh": "在通向黑海西岸的滨海湖畔，公元前五千纪的冶金匠人汇聚巴尔干铜矿、爱琴海棘牡蛎壳与砂金，锻打出炫目的等级徽记。在瓦尔纳近三百座铜石并用时代墓葬中，考古学家发掘出三千余件、总重逾六千克的黄金器物——金珠项饰、公牛形金片、金镯以及包金石斧权杖。\n\n引人注目的是，数座随葬品最丰厚的墓穴并无遗骸，而是在等身泥塑面具上缀以金冠、耳饰与护口金片，作为象征权威或纪念远逝首领的空冢。在第43号墓中，一名四十余岁的高大男子手握包金权杖下葬，身畔环绕近千件金饰，比埃及与美索不达米亚的王室金器早了数百年。"
+    },
+    "dateNote": {
+      "en": "AMS radiocarbon dates place the Varna I Chalcolithic cemetery between roughly 4600 and 4200 BCE.",
+      "zh": "加速器质谱碳十四测年将瓦尔纳铜石并用时代墓地定于约公元前4600—前4200年。"
+    },
+    "relatedIds": [
+      "uruk-writing",
+      "altamira-magdalenian-painters"
+    ],
+    "sources": [
+      {
+        "title": "New AMS radiocarbon dates for the Varna Eneolithic cemetery, Bulgarian Black Sea coast",
+        "publisher": "Tom Higham et al., Antiquity 81 / Varna Archaeological Museum research summary",
+        "url": "https://www.cambridge.org/core/journals/antiquity/article/abs/new-perspectives-on-the-varna-cemetery-bulgaria-ams-dates-and-social-implications/8AD0E3228F3482AC2AC5D5F2FA16F3B1",
+        "evidenceNote": "Establishes the mid-fifth millennium BCE AMS radiocarbon chronology (~4560–4450 BCE core) and extreme wealth differentiation across Grave 43 and cenotaph burials.",
+        "evidenceNoteZh": "确立公元前五千纪中叶（核心期约公元前4560—前4450年）加速器碳十四年代，并分析第43号墓与象征性空冢展现的显著社会分化。",
+        "checkedAt": "2026-11-18",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Prehistoric gold from the Varna Chalcolithic Necropolis",
+        "publisher": "Geologica Balcanica, Bulgarian Academy of Sciences",
+        "url": "https://www.geologica-balcanica.eu/journal/39/1-2/pp.-205-206",
+        "evidenceNote": "Documents >3,000 gold artifacts (~6 kg total), Balkan copper/gold provenance, clay mask cenotaphs, and Varna Archaeological Museum holdings.",
+        "evidenceNoteZh": "记录逾3000件（总重约6千克）黄金遗物、巴尔干铜金矿源、泥塑面具空冢及瓦尔纳考古博物馆藏品。",
+        "checkedAt": "2026-11-18",
+        "retrieval": "opened-page"
+      }
+    ],
+    "regionalAssociation": "omit-broad-point",
+    "expansion": {
+      "release": 12,
+      "edition": "v18",
+      "workstreams": [
+        "EU1"
+      ],
+      "sourceReview": "Reviewed against Higham et al. (Antiquity) AMS dating and Bulgarian Academy of Sciences metallographic documentation.",
+      "reviewLimit": {
+        "en": "Varna’s cemetery survived far better than its adjacent lakeside settlement, so ritual hierarchy is clearer than daily household organization.",
+        "zh": "瓦尔纳墓地的保存状况远优于邻近湖畔居址，因此丧葬礼仪等级比日常家户组织更为清晰。"
+      }
+    }
+  },
+  {
+    "id": "watson-brake-earthworks",
+    "title": {
+      "en": "Fisher-foragers raise Watson Brake’s eleven-mound oval ridge",
+      "zh": "渔猎采集者在沃森布雷克筑起十一座土墩环垄"
+    },
+    "shortTitle": {
+      "en": "Watson Brake mounds",
+      "zh": "沃森布雷克土墩群"
+    },
+    "start": -3500,
+    "end": -3000,
+    "region": "north-america",
+    "theme": "cities",
+    "kind": "place",
+    "importance": 4,
+    "location": {
+      "lat": 32.364,
+      "lon": -92.155,
+      "label": "Watson Brake, Ouachita River terrace, northern Louisiana, USA",
+      "labelI18n": {
+        "en": "Watson Brake, Ouachita River terrace, northern Louisiana, USA",
+        "zh": "美国路易斯安那州北部沃希托河阶地沃森布雷克遗址"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Nearly two thousand years before Poverty Point and a millennium before Egypt’s first pyramids, seasonal fisher-foragers on a bluff overlooking the Ouachita River wetlands carried basketload after basketload of earth to raise eleven mounds linked by an oval ridge 280 metres across. The tallest mound rose more than seven metres above the terrace—built by communities who grew no maize, made no pottery and answered to no hereditary king.\n\nCharred bones and seeds left between building layers show families feasting from summer into autumn on freshwater drum, catfish, mussels, turtle, deer and wildlambsquarters, while firing small clay blocks to boil food in skin or basket containers. Watson Brake proved that monumental architecture in North America began through cooperative seasonal gatherings of mobile wetland peoples.",
+      "zh": "在波弗蒂角兴起近两千年前、埃及最早金字塔动工约一千年前，聚集在沃希托河湿地高岸上的季节性渔猎采集人群一筐接一筐搬运泥土，筑起由直径约280米的椭圆形土垄相连的十一座土墩。最高的主墩隆起逾七米——而建造者既不种玉米、不烧陶器，也没有世袭君王。\n\n筑土层之间的烧骨与炭化种子显示，人们每逢夏秋在此聚会，捕食淡水石首鱼、鲶鱼、河蚌、水龟与白尾鹿，采集藜属野籽，并烧热小泥块投入兽皮或编篮容器中煮食。沃森布雷克证明，北美大陆的大型纪念性建筑始于流动湿地社群自发协作的季节性盛会。"
+    },
+    "dateNote": {
+      "en": "Radiocarbon dates from mound construction stages span roughly 3500–3000 BCE (Middle Archaic period).",
+      "zh": "土墩营建各阶段的碳十四测年跨度约为公元前3500—前3000年（北美中古风时期）。"
+    },
+    "relatedIds": [
+      "poverty-point",
+      "caral"
+    ],
+    "sources": [
+      {
+        "title": "A Mound Complex in Louisiana at 5400–5000 Years Before the Present",
+        "publisher": "Joe W. Saunders et al., Science 277 (1997) / University of Southern Mississippi",
+        "url": "https://aquila.usm.edu/context/fac_pubs/article/9412/viewcontent/watson_brake.pdf",
+        "evidenceNote": "Primary excavation report establishing c. 3500–3000 BCE radiocarbon dates, 11-mound 280-metre oval layout, aquatic/wetland subsistence, fired-clay cooking objects, and pre-agricultural context.",
+        "evidenceNoteZh": "原始发掘报告确立约公元前3500—前3000年碳十四年代、直径280米十一墩椭圆布局、湿地水生食谱、烧土烹饪块及前农业社会背景。",
+        "checkedAt": "2026-11-18",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Moundbuilders of the Mississippi Basin — Middle Archaic Earthworks",
+        "publisher": "National Park Service, U.S. Department of the Interior",
+        "url": "https://www.nps.gov/articles/000/middle-archaic-moundbuilders.htm",
+        "evidenceNote": "Places Watson Brake within Lower Mississippi Valley Middle Archaic earthwork traditions preceding Poverty Point.",
+        "evidenceNoteZh": "将沃森布雷克置于早于波弗蒂角的密西西比河下游中古风时期筑墩传统之中。",
+        "checkedAt": "2026-11-18",
+        "retrieval": "opened-page"
+      }
+    ],
+    "regionalAssociation": "omit-broad-point",
+    "expansion": {
+      "release": 12,
+      "edition": "v18",
+      "workstreams": [
+        "NA1"
+      ],
+      "sourceReview": "Reviewed against Saunders et al. (Science 1997) excavation report and National Park Service Lower Mississippi Valley synthesis.",
+      "reviewLimit": {
+        "en": "Because no burials or permanent house floors were excavated inside the enclosure, the exact ceremonies conducted atop the mounds remain open.",
+        "zh": "由于环垄内未发掘出墓葬或永久性房址地面，墩顶所行仪式的具体形式仍待考证。"
+      }
+    }
+  },
+  {
+    "id": "person-zubayda-bint-jafar",
+    "name": {
+      "en": "Zubayda bint Jaʿfar",
+      "zh": "祖拜达·宾特·贾法尔"
+    },
+    "title": {
+      "en": "Zubayda bint Jaʿfar: engineering water across the Arabian desert",
+      "zh": "祖拜达：在阿拉伯荒漠开凿朝觐水道的阿拔斯王后"
+    },
+    "shortTitle": {
+      "en": "Zubayda bint Jaʿfar",
+      "zh": "祖拜达"
+    },
+    "start": 766,
+    "end": 831,
+    "region": "west-central-asia",
+    "theme": "cities",
+    "kind": "person",
+    "importance": 4,
+    "location": {
+      "lat": 21.422,
+      "lon": 39.826,
+      "label": "Mecca terminus of Ayn Zubayda aqueduct, Hejaz",
+      "labelI18n": {
+        "en": "Mecca terminus of Ayn Zubayda aqueduct, Hejaz",
+        "zh": "希贾兹麦加“祖拜达泉”引水渠终点"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Granddaughter of Baghdad’s founder al-Mansur and consort of Caliph Harun al-Rashid, Zubayda bint Jaʿfar turned personal wealth into the largest hydraulic public-works corridor of the early Islamic world. Seeing pilgrims and residents parched during droughts in Mecca and along the 1,400-kilometre Kufa-to-Mecca desert road, she hired surveyors and stonemasons rather than leaving only courtly charity.\n\nWhen her treasurers warned of the staggering cost of cutting underground qanats and plaster-lined aqueducts from Wadi Nuʿman and Hunayn through solid rock to Mount Arafat and Mecca, biographers record her reply that she would build it ‘even if every pickaxe blow costs a dinar.’ Step-cisterns, milestones, beacon towers and the halfway desert town of Fayd along what became known as Darb Zubayda sustained travellers, merchants and scholars for centuries.",
+      "zh": "作为巴格达建城者曼苏尔的孙女、哈里发哈伦·拉希德的妻子，祖拜达·宾特·贾法尔将巨额私产化作早期伊斯兰世界规模最大的公共水利走廊。亲历麦加旱情并目睹库法至麦加一千四百公里沙漠旅途上的焦渴后，她没有止步于宫廷施舍，而是召集测绘师与石匠动工治水。\n\n当账房警告从努尔曼谷地与胡奈因凿岩引水至阿拉法特山和麦加耗资惊人时，史家记载她答道：“哪怕每一镐花费一枚第纳尔也要修成。”沿途修筑的阶梯蓄水池、里程碑、烽火导标以及中点驿城费德，使这条后来以她命名的“祖拜达古道”世代滋养往来行旅、商队与学者。"
+    },
+    "dateNote": {
+      "en": "c. 766–831 CE; her repeated pilgrimages and hydraulic commissions peaked between the 790s and 810s.",
+      "zh": "约766—831年；其多次朝觐与水利营建主要集中于8世纪90年代至9世纪初。"
+    },
+    "milestones": [
+      {
+        "year": 781,
+        "title": {
+          "en": "Marries Harun al-Rashid at Baghdad’s caliphal court",
+          "zh": "在巴格达宫廷嫁予哈伦·拉希德"
+        },
+        "description": {
+          "en": "Born into the ruling Abbasid house, Zubayda weds her cousin Harun al-Rashid in Baghdad and builds an independent household administration managing estates and endowments.",
+          "zh": "出身阿拔斯宗室的祖拜达在巴格达与堂兄哈伦·拉希德成婚，建立起独立管理田产与公益捐赠的府邸账务体系。"
+        },
+        "location": {
+          "lat": 33.341,
+          "lon": 44.349,
+          "label": "Baghdad, Abbasid capital on the Tigris",
+          "labelI18n": {
+            "en": "Baghdad, Abbasid capital on the Tigris",
+            "zh": "底格里斯河畔阿拔斯都城巴格达"
+          }
+        }
+      },
+      {
+        "year": 802,
+        "approximate": true,
+        "title": {
+          "en": "Commissions the Ayn Zubayda rock-cut aqueduct to Mecca",
+          "zh": "主持开凿通往麦加的“祖拜达泉”引水渠"
+        },
+        "description": {
+          "en": "During pilgrimage to the Hejaz, acute water shortages prompt her to fund subterranean channels and vaulted stone conduits carrying spring water over 25 kilometres from Wadi Nuʿman to Arafat and Mecca.",
+          "zh": "赴希贾兹朝觐期间目睹严重水荒，遂出资开凿地下暗渠与石拱水道，将努尔曼谷地泉水引流二十五公里以上直抵阿拉法特与麦加。"
+        },
+        "location": {
+          "lat": 21.355,
+          "lon": 39.984,
+          "label": "Wadi Nuʿman and Arafat aqueduct works near Mecca",
+          "labelI18n": {
+            "en": "Wadi Nuʿman and Arafat aqueduct works near Mecca",
+            "zh": "麦加近郊努尔曼谷地与阿拉法特引水工程"
+          }
+        }
+      },
+      {
+        "year": 808,
+        "approximate": true,
+        "title": {
+          "en": "Expands reservoirs and waystations at Fayd on Darb Zubayda",
+          "zh": "扩建“祖拜达古道”中点费德驿城的蓄水池与驿站"
+        },
+        "description": {
+          "en": "Engineers line dozens of desert stations between Kufa and Mecca with flood-diverting dams, stepped circular birka cisterns, wells and hostels anchored by the oasis hub of Fayd.",
+          "zh": "工匠在库法至麦加沿线数十处荒漠驿站修筑拦洪坝、圆形阶梯蓄水池、水井与旅舍，并以绿洲重镇费德为中枢。"
+        },
+        "location": {
+          "lat": 27.118,
+          "lon": 42.519,
+          "label": "Fayd oasis station on Darb Zubayda, northern Arabia",
+          "labelI18n": {
+            "en": "Fayd oasis station on Darb Zubayda, northern Arabia",
+            "zh": "阿拉伯北部“祖拜达古道”费德绿洲驿城"
+          }
+        }
+      },
+      {
+        "year": 831,
+        "title": {
+          "en": "Dies in Baghdad as her waterworks endure across reigns",
+          "zh": "卒于巴格达，所筑水利走廊跨越朝代延续"
+        },
+        "description": {
+          "en": "Surviving the civil war between her son al-Amin and stepson al-Maʾmun, Zubayda dies in Baghdad in 831 while travellers from Iraq and Persia continue drawing water from her cisterns.",
+          "zh": "历经儿子阿明与继子马蒙之间的内战后，祖拜达于831年在巴格达去世，而往来伊拉克与波斯的行人仍世代汲用她修筑的水池。"
+        },
+        "location": {
+          "lat": 33.341,
+          "lon": 44.349,
+          "label": "Baghdad, Iraq",
+          "labelI18n": {
+            "en": "Baghdad, Iraq",
+            "zh": "伊拉克巴格达"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "abbasid-caliphate",
+      "baghdad-foundation"
+    ],
+    "sources": [
+      {
+        "title": "Darb Zubayda (Pilgrim Road from Kufa to Makkah)",
+        "publisher": "UNESCO World Heritage Tentative Lists",
+        "url": "https://whc.unesco.org/en/tentativelists/6025/",
+        "evidenceNote": "Documents the Kufa–Mecca route named after Zubayda bint Jaʿfar, stepped cisterns (birkas), milestones, wells, Fayd station, and Abbasid hydraulic engineering.",
+        "evidenceNoteZh": "记载以祖拜达命名的库法—麦加古道、阶梯蓄水池、里程碑、水井、费德驿城及阿拔斯水利工程。",
+        "checkedAt": "2026-11-18",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Sustainability of Historical Water Systems: Ayn Zubaydah in Makkah",
+        "publisher": "Sustainability (MDPI), Vol. 16, Issue 16 (2024)",
+        "url": "https://www.mdpi.com/2071-1050/16/16/7055",
+        "evidenceNote": "Details the Wadi Nuʿman to Arafat/Mecca qanat-and-conduit design commissioned by Zubayda bint Jaʿfar and its centuries-long operation.",
+        "evidenceNoteZh": "详述祖拜达主持兴建的努尔曼谷地至阿拉法特及麦加暗渠水道结构及其数百年持续运行。",
+        "checkedAt": "2026-11-18",
+        "retrieval": "opened-page"
+      }
+    ],
+    "regionalAssociation": "omit-broad-point",
+    "expansion": {
+      "release": 12,
+      "edition": "v18",
+      "workstreams": [
+        "WA1"
+      ],
+      "sourceReview": "Reviewed against UNESCO Darb Zubayda archaeological documentation and engineering studies of Ayn Zubayda.",
+      "reviewLimit": {
+        "en": "Some desert stations pre-existed Zubayda under earlier caliphs; her patronage expanded, linked and endowed them on an unprecedented scale.",
+        "zh": "部分荒漠驿站在前代哈里发时期已有雏形；祖拜达的捐资以前所未有的规模将其扩建、贯通并设立永久公益产业。"
+      }
+    }
+  },
+  {
+    "id": "person-benjamin-of-tudela",
+    "name": {
+      "en": "Benjamin of Tudela",
+      "zh": "图德拉的本雅明"
+    },
+    "title": {
+      "en": "Benjamin of Tudela: counting communities from Navarre to Baghdad",
+      "zh": "图德拉的本雅明：从纳瓦拉到巴格达记录犹太社群与商港"
+    },
+    "shortTitle": {
+      "en": "Benjamin of Tudela",
+      "zh": "图德拉的本雅明"
+    },
+    "start": 1159,
+    "end": 1173,
+    "region": "europe",
+    "theme": "exchange",
+    "kind": "person",
+    "importance": 4,
+    "location": {
+      "lat": 42.062,
+      "lon": -1.606,
+      "label": "Tudela on the Ebro River, Kingdom of Navarre, Spain",
+      "labelI18n": {
+        "en": "Tudela on the Ebro River, Kingdom of Navarre, Spain",
+        "zh": "西班牙纳瓦拉王国埃布罗河畔图德拉"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "A century before Marco Polo set out from Venice, Benjamin ben Jonah left the Ebro River town of Tudela in Navarre and spent more than a decade walking and sailing across roughly three hundred cities in southern Europe, Byzantium, Crusader Syria, Mesopotamia and Fatimid-to-Ayyubid Egypt. Writing in clear, observant Hebrew, he recorded headcounts of local Jewish scholars and households alongside dyers, glassmakers, spice markets and harbour tolls.\n\nIn Constantinople he marvelled at merchants arriving from Rus’, Lombardy and Baghdad and watched chariot games in the Hippodrome; in Abbasid Baghdad he described hospitals caring for patients at public expense; in Alexandria he counted commercial fondacos for twenty-eight Christian and Muslim realms. His *Sefer ha-Masaʿot* reveals a twelfth-century Mediterranean and Indian Ocean hinge bound together by everyday trade despite crusading wars.",
+      "zh": "在马可·波罗自威尼斯启程一个世纪之前，约拿之子本雅明离开纳瓦拉王国埃布罗河畔的图德拉，历时十余年水陆兼程，走访南欧、拜占庭、十字军叙利亚、两河流域与埃及的约三百座城镇。他以简明敏锐的希伯来文记下各地犹太学者与家户人数，也记录染匠、玻璃工匠、香料集市与港口税银。\n\n在君士坦丁堡，他惊叹于来自罗斯、伦巴第与巴格达的商贾云集，并观看赛马场的竞技；在阿拔斯都城巴格达，他描绘公费收治病患的医院；在亚历山大港，他清点出分属二十八个基督教与穆斯林政权的商馆。这部《本雅明游记》展现出十二世纪十字军战火之外，由日常贸易紧密织联的地中海与印度洋枢纽世界。"
+    },
+    "dateNote": {
+      "en": "Focused on his documented Mediterranean and West Asian journey, c. 1159/1165–1173 CE.",
+      "zh": "聚焦其有据可考的地中海与西亚游历年代，约1159/1165—1173年。"
+    },
+    "milestones": [
+      {
+        "year": 1165,
+        "approximate": true,
+        "title": {
+          "en": "Departs Tudela down the Ebro toward Mediterranean ports",
+          "zh": "自图德拉顺埃布罗河南下地中海商港"
+        },
+        "description": {
+          "en": "Leaving Navarre via Zaragoza, Barcelona and Provençal study centres, Benjamin begins recording scholars, synagogues and merchant networks in each port.",
+          "zh": "经萨拉戈萨、巴塞罗那与普罗旺斯学术重镇离开纳瓦拉，开始逐城记录学者名录、会堂与商贸网络。"
+        },
+        "location": {
+          "lat": 42.062,
+          "lon": -1.606,
+          "label": "Tudela, Kingdom of Navarre",
+          "labelI18n": {
+            "en": "Tudela, Kingdom of Navarre",
+            "zh": "纳瓦拉王国图德拉"
+          }
+        }
+      },
+      {
+        "year": 1166,
+        "approximate": true,
+        "title": {
+          "en": "Observes papal Rome and Italian maritime republics",
+          "zh": "考察教宗驻地罗马与意大利海商共和国"
+        },
+        "description": {
+          "en": "Passing Genoa and Pisa’s towered neighbourhoods, he reaches Rome under Pope Alexander III and notes Jewish stewards serving directly in the papal household.",
+          "zh": "途经塔楼林立的热那亚与比萨抵达教宗亚历山大三世治下的罗马，记下在教廷直接任职管理财务的犹太官员。"
+        },
+        "location": {
+          "lat": 41.893,
+          "lon": 12.483,
+          "label": "Rome, Papal States",
+          "labelI18n": {
+            "en": "Rome, Papal States",
+            "zh": "教宗国罗马"
+          }
+        }
+      },
+      {
+        "year": 1167,
+        "approximate": true,
+        "title": {
+          "en": "Describes Constantinople’s silk wealth and Pera quarter",
+          "zh": "记述君士坦丁堡的丝绸财富与佩拉犹太区"
+        },
+        "description": {
+          "en": "In Manuel I Komnenos’s capital, Benjamin compares Constantinople’s customs revenue solely to Baghdad’s while noting the legal restrictions imposed on silk artisans in Pera.",
+          "zh": "在曼努埃尔一世治下的帝都，他感叹唯有巴格达可与君士坦丁堡的商税比肩，同时如实记下金角湾对岸佩拉丝织工匠所受的法令限制。"
+        },
+        "location": {
+          "lat": 41.008,
+          "lon": 28.978,
+          "label": "Constantinople, Eastern Roman Empire",
+          "labelI18n": {
+            "en": "Constantinople, Eastern Roman Empire",
+            "zh": "东罗马帝国君士坦丁堡"
+          }
+        }
+      },
+      {
+        "year": 1170,
+        "approximate": true,
+        "title": {
+          "en": "Visits Baghdad’s caliphal court, academies and hospital",
+          "zh": "探访巴格达哈里发宫廷、经学院与公立医院"
+        },
+        "description": {
+          "en": "Travelling through Jerusalem, Damascus and Mosul to Baghdad, he portrays the Exilarch Daniel ben Hisdai and the Dar al-Maristan hospital treating the sick from caliphal funds.",
+          "zh": "经耶路撒冷、大马士革与摩苏尔抵达巴格达，记述流散领袖丹尼尔·本·希斯代及由国库供养病患的医院。"
+        },
+        "location": {
+          "lat": 33.341,
+          "lon": 44.349,
+          "label": "Baghdad, Abbasid Caliphate",
+          "labelI18n": {
+            "en": "Baghdad, Abbasid Caliphate",
+            "zh": "阿拔斯哈里发国巴格达"
+          }
+        }
+      },
+      {
+        "year": 1171,
+        "title": {
+          "en": "Counts twenty-eight trading nations in Alexandria before sailing home",
+          "zh": "在亚历山大港清点二十八国商馆后扬帆西归"
+        },
+        "description": {
+          "en": "In Egypt at the end of Fatimid rule, Benjamin inspects the Pharos lighthouse and Red Sea–Mediterranean spice warehouses at Alexandria before returning to Iberia via Sicily by 1173.",
+          "zh": "在法蒂玛王朝末期的埃及考察亚历山大灯塔与红海—地中海香料货栈，随后经西西里于1173年前后返回伊比利亚。"
+        },
+        "location": {
+          "lat": 31.2,
+          "lon": 29.918,
+          "label": "Alexandria, Egypt",
+          "labelI18n": {
+            "en": "Alexandria, Egypt",
+            "zh": "埃及亚历山大港"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "eastern-roman-empire",
+      "abbasid-caliphate",
+      "venice-maritime"
+    ],
+    "sources": [
+      {
+        "title": "Benjamin of Tudela",
+        "publisher": "Encyclopaedia Britannica",
+        "url": "https://www.britannica.com/biography/Benjamin-of-Tudela",
+        "evidenceNote": "Establishes his Navarrese origin, c. 1165–1173 itinerary across Europe, Byzantium, Syria, Mesopotamia, and Egypt, and historical value of his Hebrew travelogue.",
+        "evidenceNoteZh": "确立其纳瓦拉出身、约1165—1173年横跨欧洲、拜占庭、叙利亚、两河流域及埃及的行程与希伯来文游记史料价值。",
+        "checkedAt": "2026-11-18",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "The Itinerary of Benjamin of Tudela (trans. Marcus Nathan Adler, 1907)",
+        "publisher": "Internet Medieval Sourcebook, Fordham University",
+        "url": "https://sourcebooks.web.fordham.edu/source/12Cbenjaminofttudela.asp",
+        "evidenceNote": "Primary translated text for Benjamin’s eyewitness accounts of Constantinople, Pera, Baghdad’s Exilarch and hospital, and Alexandria’s merchant fondacos.",
+        "evidenceNoteZh": "英译原始游记文本，印证其对君士坦丁堡、佩拉、巴格达流散领袖与医院及亚历山大港商馆的见闻。",
+        "checkedAt": "2026-11-18",
+        "retrieval": "opened-page"
+      }
+    ],
+    "regionalAssociation": "omit-broad-point",
+    "expansion": {
+      "release": 12,
+      "edition": "v18",
+      "workstreams": [
+        "EU1"
+      ],
+      "sourceReview": "Reviewed against Marcus Nathan Adler’s critical translation of Sefer ha-Masaʿot and Encyclopaedia Britannica.",
+      "reviewLimit": {
+        "en": "While Benjamin’s Mediterranean, Syrian, Iraqi and Egyptian descriptions reflect direct travel, distant sections on India, Tibet and China compile reports heard in eastern ports.",
+        "zh": "本雅明对地中海、叙利亚、伊拉克与埃及的记述出自亲历，而关于印度、西藏与中国的远方章节则采自东方商港的传闻。"
+      }
+    }
+  },
+  {
+    "id": "person-rabban-bar-sauma",
+    "name": {
+      "en": "Rabban Bar Sauma",
+      "zh": "拉班·扫马"
+    },
+    "title": {
+      "en": "Rabban Bar Sauma: from Beijing to Paris and Rome as Mongol envoy",
+      "zh": "拉班·扫马：从大都走入巴黎与罗马的景教使节"
+    },
+    "shortTitle": {
+      "en": "Rabban Bar Sauma",
+      "zh": "拉班·扫马"
+    },
+    "start": 1225,
+    "end": 1294,
+    "region": "west-central-asia",
+    "theme": "exchange",
+    "kind": "person",
+    "importance": 4,
+    "location": {
+      "lat": 37.389,
+      "lon": 46.238,
+      "label": "Maragheh, Ilkhanid capital in northwestern Iran",
+      "labelI18n": {
+        "en": "Maragheh, Ilkhanid capital in northwestern Iran",
+        "zh": "伊朗西北部伊儿汗国重镇马拉盖"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Born into a prosperous Turkic Ongud Christian family in Khanbaliq (modern Beijing), the ascetic monk Rabban Bar Sauma set out westward around 1275 with his young pupil Markos, hoping only to pray at Jerusalem’s shrines. Crossing the Taklamakan oasis road with a safe-conduct from Kublai Khan, the pair reached Ilkhanid Iran just as warfare blocked the Syrian roads—and watched Markos unexpectedly elected Patriarch Yahballaha III of the Church of the East.\n\nIn 1287 the Mongol ruler Arghun Khan chose the multilingual sixty-year-old monk to carry letters across the Black Sea and Mediterranean to Europe’s courts, proposing a joint Mongol–Frankish alliance against Mamluk Egypt. Bar Sauma debated cardinals in Rome, admired Sainte-Chapelle with Philip IV in Paris, received communion from Edward I at Bordeaux, and left a rare East Asian traveller’s eye-view of medieval Europe.",
+      "zh": "出生在汗八里（今北京）富裕汪古部基督教家庭的隐修修士拉班·扫马，于1275年前后携年轻弟子马可西行，原本只求赴耶路撒冷圣地礼拜。两人持忽必烈颁授的通行凭证穿越塔克拉玛干绿洲商道抵达伊儿汗国，却因叙利亚战乱受阻；其间弟子马可竟意外获选为东方教会大公雅巴拉哈三世。\n\n1287年，蒙古伊儿汗阿鲁浑选派这位年逾花甲、通晓多语的修士横渡黑海与地中海出使欧洲诸廷，提议蒙古与法兰克君主夹击埃及马穆鲁克王朝。扫马在罗马与枢机主教团辩经，在巴黎随腓力四世瞻仰圣礼拜堂，在波尔多领受英王爱德华一世的接待，留下了中世纪极为罕见的自东亚审视西欧的行纪。"
+    },
+    "dateNote": {
+      "en": "c. 1225–1294 CE; departed Khanbaliq c. 1275–1278 and conducted his European embassy in 1287–1288.",
+      "zh": "约1225—1294年；约1275—1278年间自大都西行，1287—1288年出使欧洲。"
+    },
+    "milestones": [
+      {
+        "year": 1276,
+        "approximate": true,
+        "title": {
+          "en": "Leaves Khanbaliq westward with his disciple Markos",
+          "zh": "携弟子马可自大都启程西行"
+        },
+        "description": {
+          "en": "After years as a hermit in the hills near Beijing, Bar Sauma departs Kublai Khan’s capital with Markos along the Tangut and Tarim caravan oases.",
+          "zh": "在北京近郊山中隐修多年后，扫马与弟子马可自忽必烈都城出发，循西夏故地与塔里木绿洲商道西进。"
+        },
+        "location": {
+          "lat": 39.904,
+          "lon": 116.407,
+          "label": "Khanbaliq (Dadu / Beijing), Yuan Empire",
+          "labelI18n": {
+            "en": "Khanbaliq (Dadu / Beijing), Yuan Empire",
+            "zh": "元代大都（汗八里，今北京）"
+          }
+        }
+      },
+      {
+        "year": 1281,
+        "title": {
+          "en": "Witnesses Markos enthroned as Patriarch in Ilkhanid Iran",
+          "zh": "在伊儿汗国见证弟子马可升任东方教会大公"
+        },
+        "description": {
+          "en": "Halted from reaching Jerusalem by Mamluk–Ilkhanid fighting, the travellers settle in Iran, where bishops elect Markos as Catholicos-Patriarch Mar Yahballaha III in 1281.",
+          "zh": "因马穆鲁克与伊儿汗国交战无法前往耶路撒冷而留驻伊朗；1281年众主教推举马可继任东方教会大公雅巴拉哈三世。"
+        },
+        "location": {
+          "lat": 37.389,
+          "lon": 46.238,
+          "label": "Maragheh, Ilkhanid Iran",
+          "labelI18n": {
+            "en": "Maragheh, Ilkhanid Iran",
+            "zh": "伊儿汗国马拉盖"
+          }
+        }
+      },
+      {
+        "year": 1287,
+        "title": {
+          "en": "Sails via Constantinople and Naples to debate cardinals in Rome",
+          "zh": "经君士坦丁堡与那不勒斯抵罗马与枢机团论道"
+        },
+        "description": {
+          "en": "Sent west by Arghun Khan, Bar Sauma views Hagia Sophia, watches Mount Etna erupt at sea, and arrives in Rome during a papal vacancy to explain Church of the East creed to questioning cardinals.",
+          "zh": "奉阿鲁浑汗之命西使，途经圣索菲亚大教堂并目睹埃特纳火山喷发，于教宗虚位期抵罗马向枢机主教阐明东方教会信经。"
+        },
+        "location": {
+          "lat": 41.893,
+          "lon": 12.483,
+          "label": "Rome, Papal States",
+          "labelI18n": {
+            "en": "Rome, Papal States",
+            "zh": "教宗国罗马"
+          }
+        }
+      },
+      {
+        "year": 1287,
+        "title": {
+          "en": "Meets Philip IV in Paris and Edward I in Gascony",
+          "zh": "在巴黎会晤法王腓力四世并赴加斯科涅见英王爱德华一世"
+        },
+        "description": {
+          "en": "In Paris he marvels at the 30,000 scholars of the university and the royal tombs at Saint-Denis, then rides south to Bordeaux where King Edward I welcomes Arghun’s envoy.",
+          "zh": "在巴黎赞叹大学三万学子之盛并参观圣但尼王陵，随后南下波尔多获英王爱德华一世接见并呈递盟书。"
+        },
+        "location": {
+          "lat": 48.855,
+          "lon": 2.345,
+          "label": "Paris, Kingdom of France",
+          "labelI18n": {
+            "en": "Paris, Kingdom of France",
+            "zh": "法兰西王国巴黎"
+          }
+        }
+      },
+      {
+        "year": 1294,
+        "title": {
+          "en": "Returns with papal letters to Iran and dies at Baghdad",
+          "zh": "携教宗回函返归伊儿汗国并卒于巴格达"
+        },
+        "description": {
+          "en": "After receiving Pope Nicholas IV’s blessing in 1288, Bar Sauma reports back to Arghun Khan, builds a church at Maragheh, and dies at Baghdad in January 1294.",
+          "zh": "1288年获新任教宗尼古拉四世祝福后返朝复命，在马拉盖督建教堂，1294年初病逝于巴格达。"
+        },
+        "location": {
+          "lat": 33.341,
+          "lon": 44.349,
+          "label": "Baghdad, Ilkhanate",
+          "labelI18n": {
+            "en": "Baghdad, Ilkhanate",
+            "zh": "伊儿汗国辖下巴格达"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "ilkhanid-iran",
+      "mongol-unified-phase",
+      "mamluk-sultanate"
+    ],
+    "sources": [
+      {
+        "title": "Rabban bar Sauma",
+        "publisher": "Encyclopaedia Britannica",
+        "url": "https://www.britannica.com/biography/Rabban-bar-Sauma",
+        "evidenceNote": "Verifies Ongud Christian birth in Beijing (Khanbaliq), westward pilgrimage with Markos, Arghun’s 1287–1288 embassy to Rome, Paris, and Bordeaux, and death at Baghdad in 1294.",
+        "evidenceNoteZh": "核实其大都汪古部基督徒出身、与马可西行、1287—1288年奉阿鲁浑之命出使罗马、巴黎与波尔多及1294年卒于巴格达。",
+        "checkedAt": "2026-11-18",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Rabban Sauma’s Account of Europe (from The Monks of Kublai Khan, trans. E. A. Wallis Budge)",
+        "publisher": "Columbia University — Asia for Educators / Medieval Sourcebook",
+        "url": "https://afe.easia.columbia.edu/ps/china/rabban_sauma.pdf",
+        "evidenceNote": "Translated Syriac chronicle preserving Bar Sauma’s descriptions of Constantinople, Rome’s cardinals, Paris University, Sainte-Chapelle, and King Edward in Gascony.",
+        "evidenceNoteZh": "英译叙利亚文传记，保存扫马对君士坦丁堡、罗马枢机团、巴黎大学、圣礼拜堂及加斯科涅英王会面的亲历记述。",
+        "checkedAt": "2026-11-18",
+        "retrieval": "opened-page"
+      }
+    ],
+    "regionalAssociation": "omit-broad-point",
+    "expansion": {
+      "release": 12,
+      "edition": "v18",
+      "workstreams": [
+        "WA2"
+      ],
+      "sourceReview": "Reviewed against the translated Syriac History of Mar Yahballaha and Rabban Sauma and Encyclopaedia Britannica.",
+      "reviewLimit": {
+        "en": "Survives through an abridged Persian-to-Syriac redaction compiled after his death rather than Bar Sauma’s lost original Persian diary.",
+        "zh": "现存文本为扫马身后据其散佚波斯文日记节译改编的叙利亚文传记，而非日记原本。"
+      }
+    }
+  },
+  {
+    "id": "person-al-hasan-al-wazzan",
+    "name": {
+      "en": "al-Ḥasan al-Wazzān (Leo Africanus)",
+      "zh": "哈桑·瓦赞（利奥·阿非利加努斯）"
+    },
+    "title": {
+      "en": "al-Ḥasan al-Wazzān: diplomat from Fez and Timbuktu to Renaissance Rome",
+      "zh": "哈桑·瓦赞：从非斯、廷巴克图走到文艺复兴罗马的外交官"
+    },
+    "shortTitle": {
+      "en": "al-Ḥasan al-Wazzān",
+      "zh": "哈桑·瓦赞"
+    },
+    "start": 1494,
+    "end": 1554,
+    "region": "africa",
+    "theme": "knowledge",
+    "kind": "person",
+    "importance": 4,
+    "location": {
+      "lat": 34.064,
+      "lon": -4.973,
+      "label": "Fez (al-Qarawiyyin quarter), Wattasid Morocco",
+      "labelI18n": {
+        "en": "Fez (al-Qarawiyyin quarter), Wattasid Morocco",
+        "zh": "摩洛哥瓦塔斯王朝非斯（卡鲁因学区）"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Born in Granada just after its fall to Castile and Aragon, al-Ḥasan ibn Muḥammad al-Wazzān grew up in Fez, studied law at al-Qarawiyyin, and crossed the Sahara on diplomatic and commercial missions to Songhai Timbuktu, Gao, Bornu and Cairo. In 1518 Christian corsairs seized his ship near Djerba and presented the learned envoy to the Medici Pope Leo X in Rome, where he was baptized in St Peter’s Basilica as Johannes Leo de Medicis.\n\nWriting in Italian in 1526 while teaching Arabic and collaborating on Hebrew–Arabic–Latin lexicons, he completed his *Cosmographia et geographia de Affrica*—describing Timbuktu’s thriving market in imported manuscript books alongside Fez’s inns, baths and guilds. Using the parable of an ‘amphibious bird’ swimming when taxed by birds and flying when taxed by fish, he navigated survival between worlds before likely returning to North Africa after the 1527 Sack of Rome.",
+      "zh": "生于刚落入卡斯蒂利亚与阿拉贡之手的格拉纳达，哈桑·本·穆罕默德·瓦赞随家人迁居非斯，就读于卡鲁因学府，随后多次奉使或随商队穿越撒哈拉，足迹遍及桑海帝国的廷巴克图、加奥、博尔努与开罗。1518年，基督教私掠船在杰尔巴岛附近截获其座船，将这位博学使节献给罗马的美第奇教宗利奥十世；他在圣伯多禄大殿受洗，获名约翰内斯·利奥。\n\n他在罗马讲授阿拉伯语、合编希伯来—阿拉伯—拉丁三语辞书，并于1526年用意大利文写成《非洲志》，详述廷巴克图利润丰厚的手抄本图书贸易与非斯的旅舍、浴场和行会。他借“水陆两栖之鸟”在群鸟征税时潜入水中、群鱼索税时飞向天空的寓言自况身世；1527年罗马浩劫后，他极可能渡海重返北非。"
+    },
+    "dateNote": {
+      "en": "c. 1494 – c. 1554 CE; captured in 1518, baptized in Rome in 1520, completed his Africa manuscript in 1526.",
+      "zh": "约1494—约1554年；1518年被俘，1520年在罗马受洗，1526年完成《非洲志》手稿。"
+    },
+    "milestones": [
+      {
+        "year": 1498,
+        "approximate": true,
+        "title": {
+          "en": "Refugee family resettles from Granada to Fez",
+          "zh": "随避难家族自格拉纳达迁居摩洛哥非斯"
+        },
+        "description": {
+          "en": "Leaving post-conquest Granada in early childhood, al-Wazzān grows up in Fez, working as a notary in its hospital while studying at al-Qarawiyyin.",
+          "zh": "幼年随家人离开易主后的格拉纳达定居非斯，在卡鲁因求学期间曾任医院书记员。"
+        },
+        "location": {
+          "lat": 34.064,
+          "lon": -4.973,
+          "label": "Fez, Morocco",
+          "labelI18n": {
+            "en": "Fez, Morocco",
+            "zh": "摩洛哥非斯"
+          }
+        }
+      },
+      {
+        "year": 1512,
+        "approximate": true,
+        "title": {
+          "en": "Crosses the Sahara to Songhai Timbuktu under Askia Muhammad",
+          "zh": "穿越撒哈拉造访阿斯基亚·穆罕默德治下的廷巴克图"
+        },
+        "description": {
+          "en": "Accompanying his diplomat uncle and later travelling for the Wattasid sultan, he observes Timbuktu’s judges, salt trade and lucrative manuscript market.",
+          "zh": "随外交官叔父及奉瓦塔斯苏丹之命远行西非，亲见廷巴克图的学者法官、岩盐贸易与兴盛的手抄本书市。"
+        },
+        "location": {
+          "lat": 16.773,
+          "lon": -3.007,
+          "label": "Timbuktu, Songhai Empire (modern Mali)",
+          "labelI18n": {
+            "en": "Timbuktu, Songhai Empire (modern Mali)",
+            "zh": "桑海帝国廷巴克图（今马里）"
+          }
+        }
+      },
+      {
+        "year": 1520,
+        "title": {
+          "en": "Captive scholar baptized by Pope Leo X in Rome",
+          "zh": "被俘送往罗马并由教宗利奥十世施洗"
+        },
+        "description": {
+          "en": "Seized at sea returning from Egypt and Constantinople in 1518, he is freed from Castel Sant’Angelo and baptized in January 1520, beginning years of Arabic scholarship in Italy.",
+          "zh": "1518年自君士坦丁堡与埃及返航途中在海上被俘，后获释出圣天使堡并于1520年1月受洗，在意大利展开阿拉伯学术著述。"
+        },
+        "location": {
+          "lat": 41.902,
+          "lon": 12.454,
+          "label": "Vatican and Castel Sant’Angelo, Rome",
+          "labelI18n": {
+            "en": "Vatican and Castel Sant’Angelo, Rome",
+            "zh": "罗马梵蒂冈与圣天使堡"
+          }
+        }
+      },
+      {
+        "year": 1526,
+        "title": {
+          "en": "Completes his Italian manuscript on Africa before leaving Italy",
+          "zh": "完成意大利文《非洲志》手稿并于浩劫后渡海返归北非"
+        },
+        "description": {
+          "en": "After finishing his 900-page geography of North and West Africa in March 1526, he leaves Rome around the 1527 imperial sack and is reported by European contemporaries living again in Tunis.",
+          "zh": "1526年3月写成九百余页的北非与西非地理志手稿；1527年罗马遭帝国军队洗劫前后离意，据同时代学者记载重返突尼斯生活。"
+        },
+        "location": {
+          "lat": 36.8,
+          "lon": 10.171,
+          "label": "Tunis, North Africa",
+          "labelI18n": {
+            "en": "Tunis, North Africa",
+            "zh": "北非突尼斯"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "timbuktu",
+      "songhai-empire",
+      "person-ibn-battuta"
+    ],
+    "sources": [
+      {
+        "title": "Leo Africanus",
+        "publisher": "Encyclopaedia Britannica",
+        "url": "https://www.britannica.com/biography/Leo-Africanus",
+        "evidenceNote": "Confirms Granada birth, Fez education, trans-Saharan travels to Timbuktu, 1518 capture near Djerba, papal baptism in Rome, and 1526 Italian geographical work.",
+        "evidenceNoteZh": "确认其格拉纳达出生、非斯求学、赴廷巴克图的撒哈拉行程、1518年杰尔巴海面被俘、罗马受洗及1526年意大利文地理著作。",
+        "checkedAt": "2026-11-18",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Trickster Travels: A Sixteenth-Century Muslim Between Worlds — Archival Review",
+        "publisher": "Natalie Zemon Davis / Reviews in History, Institute of Historical Research",
+        "url": "https://reviews.history.ac.uk/review/612",
+        "evidenceNote": "Documents his 1526 Rome manuscript (Cosmographia), Hebrew–Arabic dictionary collaboration, amphibious-bird parable, and Johann Albrecht Widmanstetter’s report of his return to Tunis.",
+        "evidenceNoteZh": "考证其1526年罗马手稿、希阿辞书合编、“两栖之鸟”寓言及同时代学者关于其重返突尼斯的记载。",
+        "checkedAt": "2026-11-18",
+        "retrieval": "opened-page"
+      }
+    ],
+    "regionalAssociation": "omit-broad-point",
+    "expansion": {
+      "release": 12,
+      "edition": "v18",
+      "workstreams": [
+        "AF2"
+      ],
+      "sourceReview": "Reviewed against Encyclopaedia Britannica and archival scholarship on al-Wazzān’s 1526 Rome manuscript (BNCR MS V.E. 953).",
+      "reviewLimit": {
+        "en": "His exact death year in North Africa is unrecorded; Widmanstetter placed him in Tunis in the 1530s and dead before 1555.",
+        "zh": "其在北非去世的确切年份失载；德国东方学家维德曼施泰特记载他1530年代居于突尼斯，并于1555年前辞世。"
+      }
+    }
+  },
+  {
+    "id": "person-malik-ambar",
+    "name": {
+      "en": "Malik Ambar",
+      "zh": "马利克·安巴尔"
+    },
+    "title": {
+      "en": "Malik Ambar: from Ethiopian captivity to prime minister of the Deccan",
+      "zh": "马利克·安巴尔：从埃塞俄比亚奴隶成长为德干高原宰相"
+    },
+    "shortTitle": {
+      "en": "Malik Ambar",
+      "zh": "马利克·安巴尔"
+    },
+    "start": 1548,
+    "end": 1626,
+    "region": "south-asia",
+    "theme": "states",
+    "kind": "person",
+    "importance": 4,
+    "location": {
+      "lat": 19.876,
+      "lon": 75.343,
+      "label": "Khadki (later Aurangabad / Chhatrapati Sambhajinagar), Deccan, India",
+      "labelI18n": {
+        "en": "Khadki (later Aurangabad / Chhatrapati Sambhajinagar), Deccan, India",
+        "zh": "印度德干高原卡德基（后称奥兰加巴德）"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Born Chapu around 1548 in Ethiopia’s Kambata highlands, Malik Ambar was enslaved in youth and carried through Red Sea ports and Mocha to Baghdad, where the merchant Mir Qasim educated him in finance and Arabic administration before selling him into the Deccan sultanate of Ahmadnagar. Freed upon the death of his master Chengiz Khan—himself a fellow Habshi (East African) minister—Ambar raised a multi-ethnic force of Habshi and Maratha light cavalry.\n\nFor a quarter-century as Peshwa (regent and prime minister) of Ahmadnagar, his fast-moving Bargigir horsemen repeatedly checked the southward armies of the Mughal emperors Akbar and Jahangir, driving a frustrated Jahangir to commission allegorical miniatures showing himself shooting arrows into Ambar’s severed head—something the Mughals never achieved in life. At his new capital of Khadki, Ambar measured arable land directly with peasants and dug the rock-cut Neher-e-Ambari canal that still carries gravity-fed water into the city.",
+      "zh": "约1548年生于埃塞俄比亚坎巴塔高地的恰普，少年被卖为奴，经红海商港与摩卡辗转至巴格达。商贾米尔·卡西姆看重其才智，教他阿拉伯文书与理财，后将他带往印度德干的艾哈迈德讷格尔苏丹国。在同为“哈卜希”（东非裔）大臣的主人成吉思汗病逝获释后，马利克·安巴尔组建起融合东非裔骑兵与马拉塔轻骑的劲旅。\n\n在担任艾哈迈德讷格尔摄政宰相（佩什瓦）的四分之一世纪里，他以神出鬼没的袭扰骑兵屡挫莫卧儿皇帝阿克巴与贾汉吉尔的南征大军；束手无策的贾汉吉尔甚至命宫廷画师绘出自己弯弓射穿安巴尔首级的幻想细密画，而在现实战场上莫卧儿终其一生未能俘获他。在新营建的都城卡德基，安巴尔直接丈量田亩核定赋税，并凿通至今仍靠重力自流供水的“安巴尔暗渠”。"
+    },
+    "dateNote": {
+      "en": "1548–1626 CE; served as de facto ruler and Peshwa of the Ahmadnagar Sultanate from c. 1600 until his death in May 1626.",
+      "zh": "1548—1626年；约1600年至1626年5月去世前任艾哈迈德讷格尔苏丹国实际执政宰相。"
+    },
+    "milestones": [
+      {
+        "year": 1548,
+        "approximate": true,
+        "title": {
+          "en": "Born Chapu in southern Ethiopia before Red Sea enslavement",
+          "zh": "生于埃塞俄比亚高地，少年被掠经红海贩运"
+        },
+        "description": {
+          "en": "Born in the Ethiopian highlands (named Chapu), he is captured or sold into the Red Sea trade through Harar and Yemeni Mocha.",
+          "zh": "生于埃塞俄比亚高地（原名恰普），少年时沦为奴隶，经哈勒尔与也门摩卡港卷入红海与印度洋人口贸易。"
+        },
+        "location": {
+          "lat": 9.313,
+          "lon": 42.118,
+          "label": "Harar trade corridor, Ethiopian highlands",
+          "labelI18n": {
+            "en": "Harar trade corridor, Ethiopian highlands",
+            "zh": "埃塞俄比亚高地哈勒尔商道"
+          }
+        }
+      },
+      {
+        "year": 1568,
+        "approximate": true,
+        "title": {
+          "en": "Trained in finance and Arabic administration in Baghdad",
+          "zh": "在巴格达习得财政账务与阿拉伯行政管理"
+        },
+        "description": {
+          "en": "Purchased in Baghdad by the merchant Qazi Hussein (Mir Qasim al-Baghdadi), he receives the name Ambar and masters accounting and governance before sailing to India in the early 1570s.",
+          "zh": "在巴格达被商人米尔·卡西姆购下并获名安巴尔，系统修习文书与财政，于1570年代初随船横渡阿拉伯海赴印度。"
+        },
+        "location": {
+          "lat": 33.341,
+          "lon": 44.349,
+          "label": "Baghdad, Ottoman Iraq",
+          "labelI18n": {
+            "en": "Baghdad, Ottoman Iraq",
+            "zh": "奥斯曼辖下伊拉克巴格达"
+          }
+        }
+      },
+      {
+        "year": 1600,
+        "title": {
+          "en": "Rallies Habshi and Maratha cavalry to save Ahmadnagar from Mughal conquest",
+          "zh": "整编哈卜希与马拉塔骑兵阻击莫卧儿南征"
+        },
+        "description": {
+          "en": "After Mughal troops storm Ahmadnagar fort in 1600, freed commander Ambar installs a Nizam Shahi prince and wages mobile guerrilla campaigns that cut Mughal supply lines across the Deccan.",
+          "zh": "1600年莫卧儿军攻占艾哈迈德讷格尔要塞后，已获自由的安巴尔拥立尼扎姆·沙希宗室，率机动轻骑切断莫卧儿补给线。"
+        },
+        "location": {
+          "lat": 19.095,
+          "lon": 74.748,
+          "label": "Ahmadnagar, Maharashtra, Deccan",
+          "labelI18n": {
+            "en": "Ahmadnagar, Maharashtra, Deccan",
+            "zh": "印度德干马哈拉施特拉艾哈迈德讷格尔"
+          }
+        }
+      },
+      {
+        "year": 1610,
+        "title": {
+          "en": "Founds Khadki with rock-cut subterranean canals and land revenue reform",
+          "zh": "营建新都卡德基，开凿地下引水暗渠并推行田赋新制"
+        },
+        "description": {
+          "en": "Establishing Khadki as capital in 1610, he constructs the subterranean Neher-e-Ambari aqueduct, introduces measured peasant revenue assessments, and rules undefeated until dying at nearly eighty in 1626.",
+          "zh": "1610年建都卡德基，主持凿通地下引水工程“安巴尔渠”并改革直接对农田核税的赋役制度，执政至1626年以近八旬高龄善终。"
+        },
+        "location": {
+          "lat": 19.876,
+          "lon": 75.343,
+          "label": "Khadki (Aurangabad) and Khuldabad, Deccan",
+          "labelI18n": {
+            "en": "Khadki (Aurangabad) and Khuldabad, Deccan",
+            "zh": "德干卡德基（奥兰加巴德）与库尔达巴德"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "mughal-empire",
+      "bahmani-deccan"
+    ],
+    "sources": [
+      {
+        "title": "Malik Ambar",
+        "publisher": "Encyclopaedia Britannica",
+        "url": "https://www.britannica.com/biography/Malik-Ambar",
+        "evidenceNote": "Establishes Ethiopian birth (~1548), enslavement via Baghdad to the Deccan, Peshwa leadership of Ahmadnagar, Maratha-Habshi guerrilla cavalry against Akbar and Jahangir, revenue system, and Khadki foundation.",
+        "evidenceNoteZh": "确立其约1548年埃塞俄比亚出身、经巴格达至德干的经历、任艾哈迈德讷格尔佩什瓦、联合马拉塔与哈卜希骑兵抗击莫卧儿、税制改革及建都卡德基。",
+        "checkedAt": "2026-11-18",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Malik Ambar (Museum of Fine Arts Boston / Metropolitan Museum African Presence in India)",
+        "publisher": "The Metropolitan Museum of Art — Heilbrunn Timeline of Art History",
+        "url": "https://www.metmuseum.org/essays/malik-ambar-1548-1626-the-rise-and-fall-of-military-slavery",
+        "evidenceNote": "Contextualizes Indian Ocean military slavery (Habshis), Chengiz Khan’s household, Deccan court portraiture, and Jahangir’s allegorical painting by Abu’l Hasan.",
+        "evidenceNoteZh": "阐释印度洋军事奴隶制（哈卜希群体）、成吉思汗幕府、德干宫廷肖像及阿布·哈桑为贾汉吉尔所作讽喻细密画。",
+        "checkedAt": "2026-11-18",
+        "retrieval": "opened-page"
+      }
+    ],
+    "regionalAssociation": "omit-broad-point",
+    "expansion": {
+      "release": 12,
+      "edition": "v18",
+      "workstreams": [
+        "SA2"
+      ],
+      "sourceReview": "Reviewed against Encyclopaedia Britannica and Metropolitan Museum curatorial essay on Malik Ambar and Deccan military slavery.",
+      "reviewLimit": {
+        "en": "Early childhood details in Kambata before enslavement derive from later Arabic and Persian biographical notices.",
+        "zh": "被贩为奴前在埃塞俄比亚坎巴塔的幼年细节，主要源自后世阿拉伯文与波斯文传记追述。"
+      }
+    }
+  },
+  {
+    "id": "person-gabriela-silang",
+    "name": {
+      "en": "Gabriela Silang",
+      "zh": "加布里埃拉·锡朗"
+    },
+    "title": {
+      "en": "Gabriela Silang: leading the Ilocos highland uprising during a global war",
+      "zh": "加布里埃拉·锡朗：七年战争浪潮中率部起义的伊洛科斯女将"
+    },
+    "shortTitle": {
+      "en": "Gabriela Silang",
+      "zh": "加布里埃拉·锡朗"
+    },
+    "start": 1731,
+    "end": 1763,
+    "region": "southeast-asia",
+    "theme": "states",
+    "kind": "person",
+    "importance": 4,
+    "location": {
+      "lat": 17.575,
+      "lon": 120.387,
+      "label": "Vigan (Ciudad Fernandina), Ilocos Sur, Luzon, Philippines",
+      "labelI18n": {
+        "en": "Vigan (Ciudad Fernandina), Ilocos Sur, Luzon, Philippines",
+        "zh": "菲律宾吕宋岛南伊洛科斯省维甘古城"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "When a British East India Company fleet sailed from Madras during the Seven Years’ War and occupied Spanish Manila in October 1762, colonial authority cracked across northern Luzon. In Ilocos, courier leader Diego Silang and his wife María Josefa Gabriela Cariño—born in Santa to a Spanish-Ilocano father and an Itneg (Tinguian) mother—expelled abusive provincial officials, abolished forced labour (*polo*) and heavy tribute, and set up a free municipal government at Vigan.\n\nAfter church and royalist plotters paid Diego’s friend Miguel Vicos to assassinate him in May 1763, thirty-two-year-old Gabriela refused to surrender. Riding into the Abra river highlands of her mother’s Itneg kin at Pidigan, she rallied upland archers and lowland horsemen, marched back down to besiege Vigan in September 1763, and met capture and execution alongside dozens of followers without yielding.",
+      "zh": "当七年战争的战火从欧洲与北美延烧至亚洲海域，英国东印度公司舰队于1762年10月自马德拉斯挥师占领西班牙统治下的马尼拉，吕宋岛北部的殖民秩序随之动摇。在伊洛科斯，驿使出身的迭戈·锡朗与妻子玛丽亚·何塞法·加布里埃拉——生于圣塔镇，父亲为西班牙裔伊洛卡诺人，母亲为山地伊特内格（廷吉安）人——驱逐贪虐的地方官员，废除强迫劳役与重税，在维甘建立自治政权。\n\n1763年5月，教会与保皇派买通迭戈的旧友行刺身亡后，年仅三十二岁的加布里埃拉拒绝投降。她策马退入母亲族人聚居的阿布拉河谷山地皮迪甘，集结高地弓手与低地骑兵，于同年9月挥师反攻维甘；兵败被俘后，她与数十名义军同伴在维甘从容就义。"
+    },
+    "dateNote": {
+      "en": "1731–1763 CE; led the Free Ilocos insurgency during the British occupation of Manila (1762–1763).",
+      "zh": "1731—1763年；于英军占领马尼拉期间（1762—1763）参与并接掌伊洛科斯抗西起义。"
+    },
+    "milestones": [
+      {
+        "year": 1731,
+        "title": {
+          "en": "Born in Santa, Ilocos Sur across lowland and Itneg worlds",
+          "zh": "生于南伊洛科斯圣塔镇，联结低地与伊特内格山地社群"
+        },
+        "description": {
+          "en": "Born 19 March 1731 in Barangay Caniogan, Santa, she grows up between coastal Ilocano parishes and her mother’s Itneg communities in the Abra mountains.",
+          "zh": "1731年3月19日生于圣塔镇，成长于沿海伊洛卡诺教区与母亲所属阿布拉山脉伊特内格族群的交界地带。"
+        },
+        "location": {
+          "lat": 17.487,
+          "lon": 120.435,
+          "label": "Santa, Ilocos Sur, Luzon",
+          "labelI18n": {
+            "en": "Santa, Ilocos Sur, Luzon",
+            "zh": "吕宋岛南伊洛科斯省圣塔镇"
+          }
+        }
+      },
+      {
+        "year": 1762,
+        "title": {
+          "en": "Joins Diego Silang’s Free Ilocos uprising at Vigan",
+          "zh": "在维甘投身迭戈·锡朗领导的“自由伊洛科斯”起义"
+        },
+        "description": {
+          "en": "Following the October 1762 British capture of Manila, Gabriela acts as advisor and field coordinator as Ilocano forces seize Vigan and abolish colonial tribute and forced labour.",
+          "zh": "1762年10月英军攻占马尼拉后，她担任起义军核心谋士与联络指挥，协助义军占领维甘并废除殖民贡税与强迫劳役。"
+        },
+        "location": {
+          "lat": 17.575,
+          "lon": 120.387,
+          "label": "Vigan, Ilocos Sur",
+          "labelI18n": {
+            "en": "Vigan, Ilocos Sur",
+            "zh": "南伊洛科斯省维甘"
+          }
+        }
+      },
+      {
+        "year": 1763,
+        "title": {
+          "en": "Regroups Itneg and Ilocano fighters in the Abra highlands",
+          "zh": "退守阿布拉高地皮迪甘重整伊特内格与伊洛卡诺义军"
+        },
+        "description": {
+          "en": "After Diego’s assassination on 28 May 1763, Gabriela retreats up the Abra River to Pidigan, uniting upland Itneg archers with lowland rebels under her command.",
+          "zh": "1763年5月28日迭戈遇刺后，她溯阿布拉河退入皮迪甘山区，亲自统率山地伊特内格弓手与低地义军。"
+        },
+        "location": {
+          "lat": 17.564,
+          "lon": 120.587,
+          "label": "Pidigan, Abra highlands, Luzon",
+          "labelI18n": {
+            "en": "Pidigan, Abra highlands, Luzon",
+            "zh": "吕宋岛阿布拉高地皮迪甘"
+          }
+        }
+      },
+      {
+        "year": 1763,
+        "title": {
+          "en": "Leads final assault on Vigan and is executed in September 1763",
+          "zh": "率军反攻维甘失利，于1763年9月被捕就义"
+        },
+        "description": {
+          "en": "Outnumbered by Spanish-led colonial levies during her September 1763 march on Vigan, she retreats toward Abra, is captured, and is publicly hanged at Vigan on 20 September 1763.",
+          "zh": "1763年9月率军攻打维甘时遭优势殖民征召军伏击，退往阿布拉途中被俘，9月20日在维甘慷慨就义。"
+        },
+        "location": {
+          "lat": 17.575,
+          "lon": 120.387,
+          "label": "Vigan, Ilocos Sur",
+          "labelI18n": {
+            "en": "Vigan, Ilocos Sur",
+            "zh": "南伊洛科斯省维甘"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "manila-galleon-exchange",
+      "person-jose-rizal",
+      "philippine-american-war"
+    ],
+    "sources": [
+      {
+        "title": "Silang, Gabriela (1731–1763)",
+        "publisher": "CulturaEd — Philippine Cultural Education / National Commission for Culture and the Arts",
+        "url": "https://philippineculturaleducation.com.ph/silang-gabriela/",
+        "evidenceNote": "Documents birth in Santa (19 March 1731), Itneg maternal kinship, Vigan uprising during the 1762 British occupation of Manila, Pidigan/Abra retreat after Diego’s assassination, and execution on 20 September 1763.",
+        "evidenceNoteZh": "记载其1731年3月19日生于圣塔、母系伊特内格渊源、1762年马尼拉被英军占领期间的维甘起义、退守阿布拉皮迪甘及1763年9月20日就义。",
+        "checkedAt": "2026-11-18",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Gabriela Silang",
+        "publisher": "Encyclopaedia Britannica",
+        "url": "https://www.britannica.com/biography/Gabriela-Silang",
+        "evidenceNote": "Corroborates Seven Years’ War context, anti-tribute revolt in Ilocos, Gabriela’s assumption of military command in May 1763, Abra guerrilla base, and September 1763 capture and hanging.",
+        "evidenceNoteZh": "印证七年战争背景、伊洛科斯抗税起义、1763年5月加布里埃拉接掌兵权、阿布拉游击据点及1763年9月被俘处决。",
+        "checkedAt": "2026-11-18",
+        "retrieval": "opened-page"
+      }
+    ],
+    "regionalAssociation": "omit-broad-point",
+    "expansion": {
+      "release": 12,
+      "edition": "v18",
+      "workstreams": [
+        "SE3"
+      ],
+      "sourceReview": "Reviewed against Philippine NCCA Cultural Education archives and Encyclopaedia Britannica.",
+      "reviewLimit": {
+        "en": "Spanish colonial dispatches provide the dated military chronology, so rebel deliberations inside the Abra camps are known mainly through hostile official reports and regional memory.",
+        "zh": "战事编年主要留存于西班牙殖民军政文书，因此阿布拉山中营寨的内部议事多借敌对官方奏报与地方口传还原。"
+      }
+    }
+  },
+  {
+    "id": "person-olaudah-equiano",
+    "name": {
+      "en": "Olaudah Equiano (Gustavus Vassa)",
+      "zh": "奥劳达·埃奎亚诺"
+    },
+    "title": {
+      "en": "Olaudah Equiano: mariner, Arctic explorer and abolitionist author",
+      "zh": "奥劳达·埃奎亚诺：买回自由、远航北极并书写废奴自传的水手"
+    },
+    "shortTitle": {
+      "en": "Olaudah Equiano",
+      "zh": "奥劳达·埃奎亚诺"
+    },
+    "start": 1745,
+    "end": 1797,
+    "region": "north-america",
+    "theme": "exchange",
+    "kind": "person",
+    "importance": 4,
+    "location": {
+      "lat": 51.514,
+      "lon": -0.136,
+      "label": "Soho, London, where Equiano published his 1789 Narrative",
+      "labelI18n": {
+        "en": "Soho, London, where Equiano published his 1789 Narrative",
+        "zh": "英国伦敦苏活区（1789年《埃奎亚诺自传》出版地）"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Enslaved in boyhood and renamed Gustavus Vassa by a Royal Navy officer, Olaudah Equiano hauled gunpowder under cannon fire at Louisbourg and Lagos during the Seven Years’ War before being sold without warning onto a Caribbean merchant estate in Montserrat. Working schooners between the West Indies, Philadelphia and Savannah, he traded glass tumblers, citrus and salted provisions on his own account until July 1766, when he laid down forty pounds sterling to purchase his manumission certificate.\n\nFreedom took him even farther across the sea—including a 1773 Royal Navy polar expedition trapped in pack ice above Svalbard at 80° north. Settling in London, he joined fellow Black abolitionists in the Sons of Africa and in 1789 self-published *The Interesting Narrative of the Life of Olaudah Equiano*, touring Britain and Ireland through nine lifetime editions that turned personal maritime testimony into a weapon against the Atlantic slave trade.",
+      "zh": "少年沦为奴隶并被英国皇家海军军官改名“古斯塔夫斯·瓦萨”的奥劳达·埃奎亚诺，曾在七年战争的路易斯堡与拉各斯海战炮火中搬运火药，却又在毫无预警下被转卖至加勒比海蒙特塞拉特岛的商庄。他随纵帆船往返西印度群岛、费城与萨凡纳之间，靠私下贩运玻璃杯、柑橘与腌货一点点攒钱，终于在1766年7月付清四十英镑赎身银，换得自由契书。\n\n重获自由后，他继续远航四海——1773年更随英国极地探险舰队深入斯瓦尔巴群岛以北的北纬80度浮冰海域。定居伦敦后，他与黑人同道组建废奴团体“非洲之子”，并于1789年自费出版《奥劳达·埃奎亚诺生平奇事录》，亲赴英格兰、苏格兰与爱尔兰巡回宣讲，生前连印九版，以海上亲历证词重击跨大西洋奴隶贸易。"
+    },
+    "dateNote": {
+      "en": "c. 1745–1797 CE; purchased his freedom in Montserrat in 1766, sailed to the Arctic in 1773, and published his Narrative in 1789.",
+      "zh": "约1745—1797年；1766年在蒙特塞拉特赎回自由，1773年远航北极，1789年出版自传。"
+    },
+    "milestones": [
+      {
+        "year": 1754,
+        "approximate": true,
+        "title": {
+          "en": "Enters Atlantic captivity and Virginia plantation labour",
+          "zh": "卷入大西洋奴隶贸易并被送往弗吉尼亚种植园"
+        },
+        "description": {
+          "en": "Brought into the Atlantic slave system in the mid-1750s, he endures plantation isolation in Virginia before Royal Navy lieutenant Michael Henry Pascal buys him in 1757.",
+          "zh": "18世纪50年代中期卷入大西洋奴隶制，先在弗吉尼亚种植园服役，1757年被英国海军军官帕斯卡购入舰上。"
+        },
+        "location": {
+          "lat": 37.54,
+          "lon": -77.436,
+          "label": "Virginia Tidewater, British North America",
+          "labelI18n": {
+            "en": "Virginia Tidewater, British North America",
+            "zh": "英属北美弗吉尼亚潮水区"
+          }
+        }
+      },
+      {
+        "year": 1766,
+        "title": {
+          "en": "Buys his freedom for forty pounds between Montserrat and Philadelphia",
+          "zh": "往返蒙特塞拉特与费城经商攒钱，以四十英镑赎回自由"
+        },
+        "description": {
+          "en": "Trading small cargoes on voyages for Quaker merchant Robert King between Montserrat and North American ports, he pays £40 for his manumission deed on 11 July 1766.",
+          "zh": "在贵格会商人罗伯特·金麾下随船往返蒙特塞拉特与北美费城等港，靠小额贸易攒足四十英镑，于1766年7月11日签立释放契书。"
+        },
+        "location": {
+          "lat": 16.706,
+          "lon": -62.215,
+          "label": "Plymouth, Montserrat, Caribbean",
+          "labelI18n": {
+            "en": "Plymouth, Montserrat, Caribbean",
+            "zh": "加勒比海蒙特塞拉特岛普利茅斯港"
+          }
+        }
+      },
+      {
+        "year": 1773,
+        "title": {
+          "en": "Sails past 80° north on Phipps’s Arctic voyage past Svalbard",
+          "zh": "随菲普斯极地探险船跨越北纬80度深入斯瓦尔巴冰海"
+        },
+        "description": {
+          "en": "Enlisting aboard HMS Racehorse with Dr Charles Irving, Equiano survives eleven days locked in polar pack ice north of Spitsbergen alongside a teenage Horatio Nelson.",
+          "zh": "随查尔斯·欧文博士登上皇家海军“赛马号”探险船（船上亦有少年纳尔逊），在斯匹次卑尔根岛以北遭极地浮冰围困十一日后脱险。"
+        },
+        "location": {
+          "lat": 79.85,
+          "lon": 11.5,
+          "label": "Northwestern Svalbard pack-ice edge, Arctic Ocean",
+          "labelI18n": {
+            "en": "Northwestern Svalbard pack-ice edge, Arctic Ocean",
+            "zh": "北冰洋斯瓦尔巴群岛西北浮冰带"
+          }
+        }
+      },
+      {
+        "year": 1789,
+        "title": {
+          "en": "Publishes The Interesting Narrative in London and tours Ireland and Scotland",
+          "zh": "在伦敦自费出版《生平奇事录》并巡讲英伦与爱尔兰"
+        },
+        "description": {
+          "en": "Retaining his own copyright and subscriber list, Equiano publishes his two-volume autobiography in London in 1789, selling thousands of copies on lecture tours from Belfast and Dublin to Edinburgh before dying in 1797.",
+          "zh": "1789年在伦敦自握版权印行两卷本自传，亲自赴贝尔法斯特、都柏林与爱丁堡巡回售书演说，推动废奴运动，1797年辞世。"
+        },
+        "location": {
+          "lat": 51.514,
+          "lon": -0.136,
+          "label": "London, Great Britain",
+          "labelI18n": {
+            "en": "London, Great Britain",
+            "zh": "英国伦敦"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "benin-kingdom",
+      "haitian-revolution",
+      "american-revolution"
+    ],
+    "sources": [
+      {
+        "title": "The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African (1789)",
+        "publisher": "Documenting the American South, University of North Carolina at Chapel Hill",
+        "url": "https://docsouth.unc.edu/neh/equiano1/summary.html",
+        "evidenceNote": "Digitized 1789 first edition documenting Seven Years’ War naval service, 1766 Montserrat manumission, 1773 Phipps Arctic expedition, and London abolitionist organizing.",
+        "evidenceNoteZh": "1789年初版数字化档案，记录七年战争海军服役、1766年蒙特塞拉特赎身、1773年北极探险及伦敦废奴运动。",
+        "checkedAt": "2026-11-18",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Olaudah Equiano (c. 1745–1797)",
+        "publisher": "Encyclopaedia Britannica",
+        "url": "https://www.britannica.com/biography/Olaudah-Equiano",
+        "evidenceNote": "Summarizes his career, nine lifetime editions, Sons of Africa leadership, and scholarly debate over baptismal/naval birth records versus his Essaka account.",
+        "evidenceNoteZh": "概述其生平、生前九版发行、“非洲之子”废奴活动，以及学界就洗礼与海军名册籍贯同自传伊萨卡记述的考辨。",
+        "checkedAt": "2026-11-18",
+        "retrieval": "opened-page"
+      }
+    ],
+    "regionalAssociation": "omit-broad-point",
+    "expansion": {
+      "release": 12,
+      "edition": "v18",
+      "workstreams": [
+        "NA2"
+      ],
+      "sourceReview": "Reviewed against UNC Documenting the American South 1789 edition and Encyclopaedia Britannica.",
+      "reviewLimit": {
+        "en": "Equiano’s Narrative places his birth in Essaka (Igboland), while two English baptismal/naval muster entries list Carolina; historians continue debating whether those records reflect birthplace invention under captivity or diaspora oral memory.",
+        "zh": "埃奎亚诺自传自述生于伊博地区伊萨卡，而两份英国受洗与海军花名册登记为卡罗来纳；史学界对这两类档案的成因仍有深入讨论。"
+      }
+    }
+  },
+  {
+    "id": "person-mai-omai",
+    "name": {
+      "en": "Mai (Omai)",
+      "zh": "迈伊（奥迈）"
+    },
+    "title": {
+      "en": "Mai of Raʻiātea: sailing to London to reclaim an occupied island home",
+      "zh": "赖阿特阿岛的迈伊：远航伦敦谋求光复故岛的太平洋旅人"
+    },
+    "shortTitle": {
+      "en": "Mai (Omai)",
+      "zh": "迈伊"
+    },
+    "start": 1753,
+    "end": 1779,
+    "region": "oceania",
+    "theme": "exchange",
+    "kind": "person",
+    "importance": 4,
+    "location": {
+      "lat": -16.731,
+      "lon": -151.444,
+      "label": "Raʻiātea and Huahine, Society Islands",
+      "labelI18n": {
+        "en": "Raʻiātea and Huahine, Society Islands",
+        "zh": "社会群岛赖阿特阿岛与胡阿希内岛"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "When warriors from neighbouring Bora Bora invaded sacred Raʻiātea in the 1760s and killed his father, young Mai fled into exile on Tahiti and Huahine—wounded during Samuel Wallis’s 1767 bombardment at Matavai Bay yet calculating that British firearms might expel Raʻiātea’s occupiers. In September 1773 he boarded Tobias Furneaux’s HMS *Adventure*, becoming the first Pacific Islander to reach Britain.\n\nIn London between 1774 and 1776, sponsored by naturalist Joseph Banks, Mai was inoculated against smallpox, dined with Samuel Johnson, met King George III at Kew, and posed barefoot in flowing white barkcloth-like robes for Joshua Reynolds’s monumental canvas—with his Raʻiātean hand tattoos clearly visible. Returning aboard James Cook’s *Resolution* in 1777, he served as interpreter with Māori leaders at Totaranui in Aotearoa before settling on Huahine with horses, muskets and gifts that fell short of the alliance he had crossed two oceans to win.",
+      "zh": "18世纪60年代，邻近波拉波拉岛的武士攻占圣岛赖阿特阿并杀害其父，年少的迈伊流亡大溪地与胡阿希内岛。1767年英国航海家沃利斯炮击马塔瓦伊湾时迈伊曾中弹负伤，但他敏锐意识到英国火器或许能助自己驱逐故岛的占领者。1773年9月，他主动登上弗诺指挥的皇家海军“探险号”，成为首位抵达不列颠的太平洋岛民。\n\n1774至1776年居留伦敦期间，在博物学家约瑟夫·班克斯引介下，迈伊接种天花预防痘苗，与文学家塞缪尔·约翰逊共餐，在邱园觐见英王乔治三世，并赤足身披长袍、露出双手传统刺青，为约书亚·雷诺兹立像绘就巨幅油画。1777年他搭乘库克船长的“决心号”返航，途经新西兰托塔拉努伊湾时充任毛利首领的译员，最终携马匹与火枪定居胡阿希内岛，但跨越两大洋寻求的复岛同盟终未如愿。"
+    },
+    "dateNote": {
+      "en": "c. 1753 – c. 1779/1780 CE; sailed to Britain in 1773–1774, lived in England 1774–1776, and returned to Huahine in October 1777.",
+      "zh": "约1753—约1779/1780年；1773—1774年航赴英国，1774—1776年旅居英伦，1777年10月返抵胡阿希内岛。"
+    },
+    "milestones": [
+      {
+        "year": 1767,
+        "title": {
+          "en": "Exiled from Raʻiātea and witnesses HMS Dolphin at Tahiti",
+          "zh": "自赖阿特阿流亡大溪地，亲历英舰“海豚号”来航"
+        },
+        "description": {
+          "en": "Displaced from Raʻiātea by Bora Bora’s conquest, Mai survives a musket wound at Matavai Bay in 1767 and studies European ships visiting Tahiti and Huahine.",
+          "zh": "因波拉波拉征服故岛而流亡大溪地，1767年在马塔瓦伊湾枪炮冲突中负伤生还，自此密切观察到访的欧洲舰船。"
+        },
+        "location": {
+          "lat": -17.495,
+          "lon": -149.494,
+          "label": "Matavai Bay, Tahiti, Society Islands",
+          "labelI18n": {
+            "en": "Matavai Bay, Tahiti, Society Islands",
+            "zh": "社会群岛大溪地马塔瓦伊湾"
+          }
+        }
+      },
+      {
+        "year": 1773,
+        "title": {
+          "en": "Embarks from Huahine aboard HMS Adventure for Britain",
+          "zh": "自胡阿希内岛登上“探险号”远航不列颠"
+        },
+        "description": {
+          "en": "Joining Captain Tobias Furneaux at Huahine in September 1773, Mai sails via New Zealand and Cape of Good Hope to Spithead in July 1774.",
+          "zh": "1773年9月在胡阿希内岛登上托拜厄斯·弗诺的“探险号”，经新西兰与好望角于1774年7月抵达英国。"
+        },
+        "location": {
+          "lat": -16.71,
+          "lon": -151.036,
+          "label": "Fare harbour, Huahine, Society Islands",
+          "labelI18n": {
+            "en": "Fare harbour, Huahine, Society Islands",
+            "zh": "社会群岛胡阿希内岛法雷港"
+          }
+        }
+      },
+      {
+        "year": 1775,
+        "title": {
+          "en": "Meets George III and sits for Joshua Reynolds in London",
+          "zh": "在伦敦会见乔治三世并为雷诺兹立像作画"
+        },
+        "description": {
+          "en": "Received at court and London salons with dignified poise, Mai poses around 1775–1776 for Sir Joshua Reynolds’s full-length Portrait of Mai, foregrounding his tattooed hands and ceremonial robes.",
+          "zh": "以从容礼仪周旋于英国宫廷与学界沙龙，约1775—1776年间为约书亚·雷诺兹爵士担任全身肖像模特，画中清晰呈现其手部刺青与礼袍。"
+        },
+        "location": {
+          "lat": 51.508,
+          "lon": -0.13,
+          "label": "Westminster and Leicester Fields, London",
+          "labelI18n": {
+            "en": "Westminster and Leicester Fields, London",
+            "zh": "英国伦敦威斯敏斯特与莱斯特广场"
+          }
+        }
+      },
+      {
+        "year": 1777,
+        "title": {
+          "en": "Mediates at Queen Charlotte Sound and resettles on Huahine",
+          "zh": "在夏洛特王后湾担任译员，终归胡阿希内岛"
+        },
+        "description": {
+          "en": "Sailing back with Cook’s third voyage, Mai interprets between Māori and British crews at Totaranui in February 1777—bringing two Māori youths, Te Weherua and Koa, with him to Huahine—where he dies of illness about two years later.",
+          "zh": "随库克第三次航行返太平洋，1777年2月在新西兰托塔拉努伊湾沟通毛利人与英船，并携两名毛利少年同赴胡阿希内岛定居，约两年后病逝。"
+        },
+        "location": {
+          "lat": -41.096,
+          "lon": 174.228,
+          "label": "Meretoto / Ship Cove, Totaranui (Queen Charlotte Sound), Aotearoa New Zealand",
+          "labelI18n": {
+            "en": "Meretoto / Ship Cove, Totaranui (Queen Charlotte Sound), Aotearoa New Zealand",
+            "zh": "新西兰南岛托塔拉努伊湾（夏洛特王后湾）"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "taputapuatea",
+      "person-tupaia",
+      "treaty-waitangi"
+    ],
+    "sources": [
+      {
+        "title": "Portrait of Mai (Omai), Sir Joshua Reynolds (c. 1776)",
+        "publisher": "National Portrait Gallery, London / J. Paul Getty Museum joint acquisition",
+        "url": "https://www.getty.edu/art/collection/object/11409C",
+        "evidenceNote": "Curatorial record for Mai’s Raʻiātean origin, Bora Bora displacement, 1774–1776 London diplomacy with Banks and George III, tattooed posture in Reynolds’s painting, and 1777 return with Cook.",
+        "evidenceNoteZh": "国家肖像馆与盖蒂博物馆联合馆藏档案，记载迈伊赖阿特阿出身、波拉波拉战乱流亡、1774—1776年伦敦交游、雷诺兹画像细节及1777年随库克返航。",
+        "checkedAt": "2026-11-18",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Omai (Mai) and Te Weherua at Queen Charlotte Sound, 1777",
+        "publisher": "Te Ara — The Encyclopedia of New Zealand / Manatū Taonga Ministry for Culture and Heritage",
+        "url": "https://nzhistory.govt.nz/culture/encounters/cook-three",
+        "evidenceNote": "Documents Mai’s role as Polynesian interpreter on Cook’s third voyage at Totaranui in February 1777 and the departure of Te Weherua and Koa to Huahine.",
+        "evidenceNoteZh": "记录1777年2月迈伊随库克第三次航行在托塔拉努伊湾担任译员，以及毛利少年特韦赫鲁阿与科阿随其前往胡阿希内岛。",
+        "checkedAt": "2026-11-18",
+        "retrieval": "opened-page"
+      }
+    ],
+    "regionalAssociation": "omit-broad-point",
+    "expansion": {
+      "release": 12,
+      "edition": "v18",
+      "workstreams": [
+        "OC1"
+      ],
+      "sourceReview": "Reviewed against J. Paul Getty Museum / National Portrait Gallery curatorial documentation and New Zealand Ministry for Culture and Heritage records.",
+      "reviewLimit": {
+        "en": "Mai’s words survive through British ship journals and London observers rather than writings in his own hand; William Bligh learned on visiting in 1789 that Mai had died about thirty months after Cook’s 1777 departure.",
+        "zh": "迈伊本人的言行主要借英国航海日志与伦敦记述留存；1789年布莱船长回访时获悉迈伊已于库克1777年离岛后约两年半病逝。"
+      }
+    }
+  },
+  {
+    "id": "person-munshi-abdullah",
+    "name": {
+      "en": "Munshi Abdullah (Abdullah bin Abdul Kadir)",
+      "zh": "文西阿都拉"
+    },
+    "title": {
+      "en": "Munshi Abdullah: chronicling Melaka and Singapore in first-person Malay",
+      "zh": "文西阿都拉：以第一人称马来散文记录马六甲与新加坡巨变"
+    },
+    "shortTitle": {
+      "en": "Munshi Abdullah",
+      "zh": "文西阿都拉"
+    },
+    "start": 1796,
+    "end": 1854,
+    "region": "southeast-asia",
+    "theme": "knowledge",
+    "kind": "person",
+    "importance": 4,
+    "location": {
+      "lat": 2.194,
+      "lon": 102.249,
+      "label": "Kampung Pali, Melaka, Straits of Malacca",
+      "labelI18n": {
+        "en": "Kampung Pali, Melaka, Straits of Malacca",
+        "zh": "马六甲海峡甘榜巴利（马六甲古城）"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Growing up in polyglot Melaka in a Hadhrami Arab, Tamil Muslim and Malay scholarly family, Abdullah bin Abdul Kadir earned the title *Munshi* (language teacher) at eleven by tutoring Indian garrison soldiers in Quranic recitation and Malay. He copied classical Malay manuscripts for Stamford Raffles, mastered movable-type lithography with London Missionary Society printers, and moved back and forth to bustling new Singapore to teach Malay to Tamil, Chinese, British and American merchants.\n\nBreaking away from courtly genealogies of kings and supernatural omens, his *Kisah Pelayaran Abdullah* (1838) and lithographed autobiography *Hikayat Abdullah* (completed 1843, published 1849) wrote in direct first-person Malay: mourning British demolition of Melaka’s ancient fort, exposing Singapore’s slave markets and triad violence, and urging Malay rulers to fund vernacular schools and printing presses. Setting sail on Hajj in 1854 with a travel diary in hand, he died of cholera shortly after reaching Mecca.",
+      "zh": "生于多语交融的马六甲一个兼具哈德拉毛阿拉伯、泰米尔穆斯林与马来血统的书香之家，阿都拉·宾·阿都卡迪尔十一岁便因教驻防印度士兵诵经习字获称“文西”（导师）。他曾为莱佛士抄录马来古典写本，随伦敦传道会印工掌握石印与活字印刷术，并往返于新兴商埠新加坡，向泰米尔、华人与欧美商贾传授马来文。\n\n突破传统宫廷谱系与神异叙事的成规，他在《阿都拉东海岸游记》（1838）与石印自传《阿都拉传》（1843年完稿、1849年印行）中改用鲜活的第一人称纪实马来散文：痛惜英军炸毁马六甲古堡城垣，直陈新加坡早期的奴隶贩卖与私会党械斗，并疾呼马来精英兴办母语学堂与印书馆。1854年他携日记登船赴麦加朝觐，抵圣城未久染霍乱辞世。"
+    },
+    "dateNote": {
+      "en": "1796–1854 CE; completed Hikayat Abdullah in 1843 (lithographed in Singapore in 1849) and died on pilgrimage in May 1854.",
+      "zh": "1796—1854年；1843年完成《阿都拉传》（1849年在新加坡石印出版），1854年5月于朝觐途中逝世。"
+    },
+    "milestones": [
+      {
+        "year": 1796,
+        "title": {
+          "en": "Born in Kampung Pali, Melaka and witnesses the fort’s demolition",
+          "zh": "生于马六甲甘榜巴利，少年亲睹英军炸毁古堡"
+        },
+        "description": {
+          "en": "Born in August 1796 in Melaka, young Abdullah copies Malay manuscripts and watches British engineers blow up the sixteenth-century A Famosa fortress walls in 1807.",
+          "zh": "1796年8月生于马六甲，少年抄录古马来手稿，并于1807年亲眼见证英军用火药炸毁十六世纪遗留的马六甲古城堡。"
+        },
+        "location": {
+          "lat": 2.194,
+          "lon": 102.249,
+          "label": "Melaka, Straits of Malacca",
+          "labelI18n": {
+            "en": "Melaka, Straits of Malacca",
+            "zh": "马六甲海峡马六甲"
+          }
+        }
+      },
+      {
+        "year": 1838,
+        "title": {
+          "en": "Sails up the Malay Peninsula during civil war in Kelantan",
+          "zh": "北航马来半岛东海岸，亲历吉兰丹内战"
+        },
+        "description": {
+          "en": "Sent as interpreter carrying letters from Singapore merchants to Kelantan during a succession war, he publishes Kisah Pelayaran Abdullah upon his return.",
+          "zh": "受新加坡商团委托携函北航处于王位内战中的吉兰丹担任译员，归来后撰成纪实游记《阿都拉东海岸游记》。"
+        },
+        "location": {
+          "lat": 6.125,
+          "lon": 102.238,
+          "label": "Kota Bharu estuary, Kelantan, Malay Peninsula",
+          "labelI18n": {
+            "en": "Kota Bharu estuary, Kelantan, Malay Peninsula",
+            "zh": "马来半岛吉兰丹河口哥打巴鲁"
+          }
+        }
+      },
+      {
+        "year": 1849,
+        "title": {
+          "en": "Prints the lithographed Jawi edition of Hikayat Abdullah in Singapore",
+          "zh": "在新加坡以石印术出版爪夷文《阿都拉传》"
+        },
+        "description": {
+          "en": "Working closely with Mission Press lithographers in Singapore, he publishes his first-person memoir Hikayat Abdullah in Jawi script in 1849.",
+          "zh": "在新加坡与印书馆石印工匠合作，于1849年印行爪夷文第一人称自传《阿都拉传》，开创现代马来纪实文学先河。"
+        },
+        "location": {
+          "lat": 1.29,
+          "lon": 103.851,
+          "label": "Singapore port settlement",
+          "labelI18n": {
+            "en": "Singapore port settlement",
+            "zh": "新加坡商埠"
+          }
+        }
+      },
+      {
+        "year": 1854,
+        "title": {
+          "en": "Keeps a Red Sea Hajj diary to Jeddah and Mecca",
+          "zh": "远航红海赴吉达与麦加朝觐并沿途执笔日记"
+        },
+        "description": {
+          "en": "Departing Singapore in February 1854 aboard the sailing vessel Subulus-Salam, he records Indian Ocean and Red Sea ports to Jeddah before dying in Mecca in May 1854.",
+          "zh": "1854年2月自新加坡登船西航，沿途记录印度洋及红海吉达港见闻，同年5月抵达麦加后不久病逝。"
+        },
+        "location": {
+          "lat": 21.485,
+          "lon": 39.192,
+          "label": "Jeddah and Mecca, Hejaz",
+          "labelI18n": {
+            "en": "Jeddah and Mecca, Hejaz",
+            "zh": "希贾兹吉达港与麦加"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "melaka",
+      "singapore-trading-post-treaty",
+      "person-jose-rizal"
+    ],
+    "sources": [
+      {
+        "title": "Munshi Abdullah",
+        "publisher": "Singapore Infopedia, National Library Board Singapore",
+        "url": "https://www.nlb.gov.sg/main/article-detail?cmsuuid=ab825e58-195e-4841-b873-b59d74494854",
+        "evidenceNote": "Documents Melaka birth (1796), Tamil-Arab-Malay lineage, work with Raffles and Mission Press, 1838 Kelantan voyage, 1849 lithographed Hikayat Abdullah, and 1854 death in Mecca.",
+        "evidenceNoteZh": "记载其1796年马六甲出生、多元家世、与莱佛士及印书馆的合作、1838年吉兰丹之行、1849年石印《阿都拉传》及1854年麦加逝世。",
+        "checkedAt": "2026-11-18",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Hikayat Abdullah: The Autobiography of Abdullah bin Abdul Kadir",
+        "publisher": "BiblioAsia, National Library Singapore, Vol. 11, Issue 4 (2016)",
+        "url": "https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/hikayat-abdullah-munsyi",
+        "evidenceNote": "Analyzes the 1849 rare Jawi lithograph in Singapore’s National Library collection, Melaka fort demolition eyewitness account, and shift toward realist Malay social criticism.",
+        "evidenceNoteZh": "考析新加坡国家图书馆藏1849年爪夷文石印原本、马六甲古堡拆毁亲历记述及其开创马来现实主义社会批评的意义。",
+        "checkedAt": "2026-11-18",
+        "retrieval": "opened-page"
+      }
+    ],
+    "regionalAssociation": "omit-broad-point",
+    "expansion": {
+      "release": 12,
+      "edition": "v18",
+      "workstreams": [
+        "SE3"
+      ],
+      "sourceReview": "Reviewed against National Library Board Singapore archival dossiers and BiblioAsia textual study of the 1849 Jawi lithograph.",
+      "reviewLimit": {
+        "en": "Because Abdullah wrote Hikayat Abdullah in close conversation with missionary printer Alfred North, historians debate how far he framed praise of British order for mixed colonial and Malay readerships.",
+        "zh": "由于《阿都拉传》系在与传教士印工阿尔弗雷德·诺思密切交流中写成，学界对其文中称许英人制度之处究竟面向何种读者策略仍有讨论。"
+      }
+    }
+  },
+  {
+    "id": "person-luiz-gama",
+    "name": {
+      "en": "Luiz Gama",
+      "zh": "路易斯·伽马"
+    },
+    "title": {
+      "en": "Luiz Gama: sold illegally at ten, freeing hundreds in Brazil’s courts",
+      "zh": "路易斯·伽马：十岁遭非法贩卖，后在巴西法庭为数百奴隶赢回自由"
+    },
+    "shortTitle": {
+      "en": "Luiz Gama",
+      "zh": "路易斯·伽马"
+    },
+    "start": 1830,
+    "end": 1882,
+    "region": "latin-america",
+    "theme": "states",
+    "kind": "person",
+    "importance": 4,
+    "location": {
+      "lat": -23.55,
+      "lon": -46.633,
+      "label": "São Paulo law courts and abolitionist press, Brazil",
+      "labelI18n": {
+        "en": "São Paulo law courts and abolitionist press, Brazil",
+        "zh": "巴西圣保罗法庭与废奴报馆"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Born free in Salvador, Bahia, to Luiza Mahin—an African-born street vendor linked to the 1835 Malê Muslim slave uprising—and an impoverished Portuguese-descended father who illegally sold his own ten-year-old son to pay gambling debts, Luiz Gama arrived in chains at Rio de Janeiro and Santos in 1840. Taught to read and write at seventeen by a boarder in his master’s São Paulo house, Gama gathered proof of his free birth and walked out free in 1848.\n\nBarred by race and class from enrolling officially at São Paulo’s Law Academy, he audited lectures in the corridors, read statutes in the library, and obtained a court license as a *rábula* (self-trained legal advocate). Turning Brazil’s own un-enforced 1831 anti-trafficking law against coffee planters, Gama won freedom suits for more than five hundred enslaved men, women and children, mocked pretentious imperial elites in his satirical poetry *Primeiras Trovas Burlescas* (1859), and saw huge crowds accompany his coffin through São Paulo six years before final abolition in 1888.",
+      "zh": "生于巴伊亚州萨尔瓦多的自由民家庭——母亲路易莎·马欣是与1835年马莱穆斯林起义渊源深厚的非洲裔小贩，落魄的葡裔父亲却为偿赌债在1840年将年仅十岁的亲生儿子非法卖作奴隶。路易斯·伽马戴着镣铐经里约热内卢被贩往桑托斯与圣保罗；十七岁时随寄宿主人家中的学生习字读书，随后搜集自由出生证据，于1848年自行争回自由身。\n\n因肤色与出身被圣保罗法学院拒之门外后，他在走廊旁听课程、泡在图书馆研读律例，考取“拉布拉”（自修讼师）出庭资格。他以巴西帝国长期束之高阁的1831年禁止输入非洲奴隶法为利刃，在法庭上迫使咖啡庄园主败诉，无偿为五百余名受奴役男女与孩童赢回自由，并以讽刺诗集《滑稽初吟》（1859）辛辣嘲弄帝国权贵的虚伪。1882年他在圣保罗病逝时数万人扶灵送葬；六年后，巴西终告废除奴隶制。"
+    },
+    "dateNote": {
+      "en": "1830–1882 CE; illegally enslaved in 1840, reclaimed his freedom in 1848, published satirical verse in 1859, and litigated freedom suits across the 1860s–1880s.",
+      "zh": "1830—1882年；1840年遭非法贩卖，1848年争回自由，1859年出版讽刺诗集，1860—1880年代在法庭代理数百宗解放诉讼。"
+    },
+    "milestones": [
+      {
+        "year": 1830,
+        "title": {
+          "en": "Born free in Salvador, Bahia",
+          "zh": "以自由身生于巴伊亚州萨尔瓦多"
+        },
+        "description": {
+          "en": "Born 21 June 1830 in Salvador to Luiza Mahin, he spends his early childhood in Bahia’s turbulent post-independence port before his mother’s disappearance after the 1830s revolts.",
+          "zh": "1830年6月21日生于萨尔瓦多，母亲为非洲裔妇女路易莎·马欣，幼年成长于动荡的巴伊亚海港。"
+        },
+        "location": {
+          "lat": -12.973,
+          "lon": -38.502,
+          "label": "Salvador, Bahia, Empire of Brazil",
+          "labelI18n": {
+            "en": "Salvador, Bahia, Empire of Brazil",
+            "zh": "巴西帝国巴伊亚州萨尔瓦多"
+          }
+        }
+      },
+      {
+        "year": 1840,
+        "title": {
+          "en": "Sold illegally at age ten and shipped via Rio to Santos",
+          "zh": "十岁被生父非法抵债贩卖，经里约押运至桑托斯港"
+        },
+        "description": {
+          "en": "In November 1840 his father sells him aboard the ship Saraiva bound for Rio de Janeiro; traders march him up from Santos into São Paulo province because Bahian captives are feared as rebellious.",
+          "zh": "1840年11月被父亲卖上开往里约热内卢的商船，复由奴隶贩子押至桑托斯港，再徒步驱入圣保罗内地。"
+        },
+        "location": {
+          "lat": -23.961,
+          "lon": -46.332,
+          "label": "Port of Santos, São Paulo province, Brazil",
+          "labelI18n": {
+            "en": "Port of Santos, São Paulo province, Brazil",
+            "zh": "巴西圣保罗省桑托斯港"
+          }
+        }
+      },
+      {
+        "year": 1859,
+        "title": {
+          "en": "Publishes Primeiras Trovas Burlescas and co-founds radical papers in São Paulo",
+          "zh": "在圣保罗出版讽刺诗集《滑稽初吟》并创办进步报刊"
+        },
+        "description": {
+          "en": "Having taught himself literacy and gained freedom in 1848, Gama publishes Primeiras Trovas Burlescas de Getulino in 1859—celebrating Black beauty and lampooning corrupt officials—and co-launches the illustrated paper Diabo Coxo in 1864.",
+          "zh": "自修识字并于1848年重获自由后，于1859年出版《滑稽初吟》，赞美黑人尊严、痛斥贪官伪绅，并于1864年合办插图讽刺报《跛足魔鬼》。"
+        },
+        "location": {
+          "lat": -23.55,
+          "lon": -46.633,
+          "label": "São Paulo, Brazil",
+          "labelI18n": {
+            "en": "São Paulo, Brazil",
+            "zh": "巴西圣保罗"
+          }
+        }
+      },
+      {
+        "year": 1880,
+        "title": {
+          "en": "Argues hundreds of freedom suits under the 1831 anti-slave-trade statute",
+          "zh": "援引1831年禁贩奴隶法，在法庭赢下逾五百名奴隶的自由诉状"
+        },
+        "description": {
+          "en": "Dismissed from his civil clerkship for defending enslaved clients, Gama wins mass collective freedom actions across São Paulo courts until his death on 24 August 1882.",
+          "zh": "因代理奴隶诉讼遭官署革职后，全身心投入法庭辩护，以1831年法律为依据解救逾五百人，直至1882年8月24日病逝。"
+        },
+        "location": {
+          "lat": -23.55,
+          "lon": -46.633,
+          "label": "São Paulo Courts of Justice, Brazil",
+          "labelI18n": {
+            "en": "São Paulo Courts of Justice, Brazil",
+            "zh": "巴西圣保罗法院"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "brazil-abolition",
+      "south-american-independence",
+      "haitian-revolution"
+    ],
+    "sources": [
+      {
+        "title": "Luiz Gama’s Legal Strategy and the 1831 Law in Imperial Brazil",
+        "publisher": "Revista Direito e Práxis / SciELO Brazil",
+        "url": "https://www.scielo.br/j/rdp/a/RmV59jgpw3Bt868JGWDvKqc/?format=html&lang=en",
+        "evidenceNote": "Peer-reviewed legal study of Luiz Gama’s rábula advocacy, his 1880 autobiographical letter to Lúcio de Mendonça, invocation of the 7 November 1831 anti-trafficking law, and collective freedom suits.",
+        "evidenceNoteZh": "同行评审法学论文，考析路易斯·伽马的自修讼师执业、1880年致卢西奥·德·门东萨自传长信、援引1831年禁贩法策略及集体解放诉讼。",
+        "checkedAt": "2026-11-18",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Luiz Gama (1830–1882) — Dossiê Biblioteca Nacional Digital",
+        "publisher": "Fundação Biblioteca Nacional, Rio de Janeiro",
+        "url": "https://bndigital.bn.gov.br/dossies/luiz-gama/",
+        "evidenceNote": "Archival dossier holding Primeiras Trovas Burlescas (1859), Diabo Coxo (1864), abolitionist journalism, and biographical chronology from Salvador to São Paulo.",
+        "evidenceNoteZh": "巴西国家图书馆数字专题档案，收录1859年《滑稽初吟》、1864年《跛足魔鬼》、废奴政论及自萨尔瓦多至圣保罗的生平纪年。",
+        "checkedAt": "2026-11-18",
+        "retrieval": "opened-page"
+      }
+    ],
+    "regionalAssociation": "omit-broad-point",
+    "expansion": {
+      "release": 12,
+      "edition": "v18",
+      "workstreams": [
+        "LA4"
+      ],
+      "sourceReview": "Reviewed against Fundação Biblioteca Nacional archival dossier and SciELO legal history scholarship on Gama’s freedom suits.",
+      "reviewLimit": {
+        "en": "Luiza Mahin is known primarily through Luiz Gama’s 1880 autobiographical letter to Lúcio de Mendonça rather than surviving Bahian police registers.",
+        "zh": "其母路易莎·马欣的事迹主要见于伽马1880年致友人卢西奥·德·门东萨的自述书信，巴伊亚警方现存卷宗中尚未发现直接登记。"
+      }
+    }
+  },
+  {
+    "id": "person-te-whiti-o-rongomai",
+    "name": {
+      "en": "Te Whiti-o-Rongomai III",
+      "zh": "特·菲蒂·奥·朗戈迈三世"
+    },
+    "title": {
+      "en": "Te Whiti-o-Rongomai: ploughs, white feathers and children’s bread at Parihaka",
+      "zh": "特·菲蒂：在帕里哈卡以犁铧、白羽与孩童馈饼践行非暴力抗争"
+    },
+    "shortTitle": {
+      "en": "Te Whiti-o-Rongomai",
+      "zh": "特·菲蒂"
+    },
+    "start": 1860,
+    "end": 1907,
+    "region": "oceania",
+    "theme": "states",
+    "kind": "person",
+    "importance": 4,
+    "location": {
+      "lat": -39.288,
+      "lon": 173.841,
+      "label": "Parihaka kāinga beneath Mount Taranaki, Aotearoa New Zealand",
+      "labelI18n": {
+        "en": "Parihaka kāinga beneath Mount Taranaki, Aotearoa New Zealand",
+        "zh": "新西兰北岛塔拉纳基山麓帕里哈卡村社"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "After colonial legislation confiscated more than a million acres across Taranaki during the New Zealand Wars of the 1860s, Te Whiti-o-Rongomai III of Te Ātiawa and Taranaki iwi gathered displaced families from across the country with his kinsman Tohu Kākahi at Parihaka, on the lower slopes of Mount Taranaki. Instead of building rifle pits, Parihaka grew into one of Aotearoa’s largest, best-fed settlements, wearing the white albatross feather (*raukura*) of peace.\n\nWhen Crown surveyors began cutting roads across uncompensated Māori gardens in 1879, Te Whiti sent unarmed teams out to plough confiscated pastures and mend broken garden fences, calmly filling southern jails as hundreds submitted to arrest without striking a blow. On 5 November 1881, nearly 1,600 armed Constabulary and militia marched into Parihaka to find 2,000 villagers sitting quietly on the marae while skipping, singing children offered freshly baked loaves to the troops. Imprisoned without trial on the South Island until 1883, Te Whiti returned home to rebuild Parihaka with streetlights, piped water and monthly peace assemblies.",
+      "zh": "19世纪60年代新西兰战争期间，殖民当局立法没收塔拉纳基逾百万英亩土地。出身特阿蒂阿瓦与塔拉纳基部族的特·菲蒂·奥·朗戈迈三世与族亲托胡·卡卡希在塔拉纳基山麓创建帕里哈卡村社，接纳各地流离失所的毛利家庭。他们没有修筑战壕枪垒，而是佩戴象征和平的信天翁白羽，将帕里哈卡建成当时新西兰规模最大、农产最丰足的聚落之一。\n\n1879年殖民测量队强行穿过未获补偿的毛利菜园修路时，特·菲蒂派出手无寸铁的村民前往被没收的草场扶犁翻土、修补被毁的篱笆；数百人平静就捕、塞满南岛监狱，却未挥出一拳。1881年11月5日，近一千六百名武装警察与民兵开进帕里哈卡，迎面看到的却是两千余名静坐会场的村民，以及唱着歌、向士兵递上新烤面包的孩童。特·菲蒂未经审判被押往南岛羁押至1883年，获释归乡后又引入自来水与街灯重建帕里哈卡，每月召集和平集会直至辞世。"
+    },
+    "dateNote": {
+      "en": "Focused on his Parihaka leadership from c. 1866 through the 1879–1881 ploughing campaigns, South Island detention (1881–1883), and reconstruction until his death in November 1907.",
+      "zh": "聚焦其自1860年代主持帕里哈卡村社、1879—1881年扶犁抗争、1881—1883年南岛羁押及返乡重建至1907年11月辞世的历程。"
+    },
+    "milestones": [
+      {
+        "year": 1866,
+        "approximate": true,
+        "title": {
+          "en": "Establishes Parihaka sanctuary with Tohu Kākahi beneath Mount Taranaki",
+          "zh": "与托胡·卡卡希在塔拉纳基山麓创建帕里哈卡和平聚落"
+        },
+        "description": {
+          "en": "Leaving coastal Warea after wartime raids and land confiscations, Te Whiti and Tohu Kākahi build Parihaka around monthly 18th-day assemblies dedicated to non-violent autonomy.",
+          "zh": "战火与土地没收后离开沿海瓦雷阿，与托胡在山麓共建帕里哈卡，确立每月十八日共商和平自治的集会传统。"
+        },
+        "location": {
+          "lat": -39.288,
+          "lon": 173.841,
+          "label": "Parihaka, Taranaki, North Island",
+          "labelI18n": {
+            "en": "Parihaka, Taranaki, North Island",
+            "zh": "新西兰北岛塔拉纳基帕里哈卡"
+          }
+        }
+      },
+      {
+        "year": 1879,
+        "title": {
+          "en": "Launches unarmed ploughing and fence-mending campaigns",
+          "zh": "发起手无寸铁的扶犁翻土与修补篱笆抗议行动"
+        },
+        "description": {
+          "en": "Responding to Crown surveys across Waimate Plains without promised reserves, Parihaka ploughmen assert Māori title peacefully; over 400 ploughmen and fencers are arrested without trial.",
+          "zh": "针对殖民政府未划留保留地便强测怀马特平原之举，派出无武装村民和平扶犁与修补菜园围栏，四百余人平静受捕入狱。"
+        },
+        "location": {
+          "lat": -39.52,
+          "lon": 174.12,
+          "label": "Waimate Plains, southern Taranaki",
+          "labelI18n": {
+            "en": "Waimate Plains, southern Taranaki",
+            "zh": "南塔拉纳基怀马特平原"
+          }
+        }
+      },
+      {
+        "year": 1881,
+        "title": {
+          "en": "Greets 1,589 invading troops with seated silence and children’s bread",
+          "zh": "以静坐与孩童献饼迎接1589名进占军警，随后被押往南岛"
+        },
+        "description": {
+          "en": "On 5 November 1881 Native Minister John Bryce leads Armed Constabulary into Parihaka, demolishes houses and crops, and detains Te Whiti and Tohu on the South Island (Christchurch, Dunedin and Nelson) until 1883.",
+          "zh": "1881年11月5日殖民部长布赖斯率军警强占并拆毁帕里哈卡房屋庄稼；特·菲蒂与托胡被押往南岛但尼丁等地无审羁押至1883年。"
+        },
+        "location": {
+          "lat": -45.879,
+          "lon": 170.503,
+          "label": "Dunedin and South Island places of detention, Aotearoa New Zealand",
+          "labelI18n": {
+            "en": "Dunedin and South Island places of detention, Aotearoa New Zealand",
+            "zh": "新西兰南岛但尼丁等羁押地"
+          }
+        }
+      },
+      {
+        "year": 1907,
+        "title": {
+          "en": "Rebuilds Parihaka with modern infrastructure until dying in 1907",
+          "zh": "引水通电重建帕里哈卡，坚守和平自治至1907年逝世"
+        },
+        "description": {
+          "en": "Returning in 1883, Te Whiti equips rebuilt Parihaka with bakeries, piped water, slaughterhouses and electric lighting, maintaining non-violent resistance until his death on 18 November 1907.",
+          "zh": "1883年返乡后主持重建村社，修筑自来水管网、面包房与早期电力照明，持续和平抗争直至1907年11月18日辞世。"
+        },
+        "location": {
+          "lat": -39.288,
+          "lon": 173.841,
+          "label": "Parihaka, Taranaki",
+          "labelI18n": {
+            "en": "Parihaka, Taranaki",
+            "zh": "塔拉纳基帕里哈卡"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "treaty-waitangi",
+      "new-zealand-wars",
+      "nz-womens-suffrage"
+    ],
+    "sources": [
+      {
+        "title": "Te Whiti-o-Rongomai III, Erueti",
+        "publisher": "Dictionary of New Zealand Biography, Te Ara — The Encyclopedia of New Zealand",
+        "url": "https://teara.govt.nz/en/biographies/2t34/te-whiti-o-rongomai-iii-erueti",
+        "evidenceNote": "Establishes Taranaki confiscation context, Parihaka foundation with Tohu Kākahi, 1879–1880 ploughing and fencing protests, 5 November 1881 invasion, 1881–1883 South Island detention, and 1907 death.",
+        "evidenceNoteZh": "确立塔拉纳基土地没收背景、与托胡共建帕里哈卡、1879—1880年扶犁修篱抗议、1881年11月5日军警入侵、1881—1883年南岛羁押及1907年逝世。",
+        "checkedAt": "2026-11-18",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Invasion of pacifist settlement at Parihaka — 5 November 1881",
+        "publisher": "New Zealand History (NZHistory), Manatū Taonga Ministry for Culture and Heritage",
+        "url": "https://nzhistory.govt.nz/occupation-pacifist-settlement-at-parihaka",
+        "evidenceNote": "Verifies 1,589 Constabulary and volunteer troops under John Bryce, singing children offering bread on 5 November 1881, mass arrests, and the Crown’s formal 2017 Parihaka reconciliation apology.",
+        "evidenceNoteZh": "核实1881年11月5日布赖斯率1589名军警进占、孩童唱歌献面包、大规模逮捕及2017年新西兰政府正式道歉法案。",
+        "checkedAt": "2026-11-18",
+        "retrieval": "opened-page"
+      }
+    ],
+    "regionalAssociation": "omit-broad-point",
+    "expansion": {
+      "release": 12,
+      "edition": "v18",
+      "workstreams": [
+        "OC3"
+      ],
+      "sourceReview": "Reviewed against Dictionary of New Zealand Biography (Danny Keenan) and NZHistory Ministry for Culture and Heritage Parihaka dossier.",
+      "reviewLimit": {
+        "en": "Te Whiti prohibited note-taking during his marae speeches, so printed texts reflect reporters’ and listeners’ reconstructions rather than verbatim transcripts.",
+        "zh": "特·菲蒂在会场演说时禁止当场笔录，因此现存讲辞多出自听众记忆与记者追记，而非逐字速录。"
+      }
+    }
+  },
+  {
+    "id": "person-cornelia-sorabji",
+    "name": {
+      "en": "Cornelia Sorabji",
+      "zh": "科妮莉亚·索拉布吉"
+    },
+    "title": {
+      "en": "Cornelia Sorabji: storming Oxford law to advise secluded women across India",
+      "zh": "科妮莉亚·索拉布吉：闯入牛津法学考场、守护深闺妇女权益的印度女律师"
+    },
+    "shortTitle": {
+      "en": "Cornelia Sorabji",
+      "zh": "科妮莉亚·索拉布吉"
+    },
+    "start": 1866,
+    "end": 1954,
+    "region": "south-asia",
+    "theme": "knowledge",
+    "kind": "person",
+    "importance": 4,
+    "location": {
+      "lat": 22.57,
+      "lon": 88.344,
+      "label": "Calcutta High Court and Court of Wards, Bengal, India",
+      "labelI18n": {
+        "en": "Calcutta High Court and Court of Wards, Bengal, India",
+        "zh": "印度孟加拉加尔各答高等法院与监护署"
+      }
+    },
+    "locationPrecision": "representative",
+    "summary": {
+      "en": "Born in Nashik in 1866 to Parsi-Christian educators Francina Ford and Sorabji Karsedji, Cornelia Sorabji watched secluded (*purdahnashin*) widows come to her mother’s door after losing inherited estates because custom forbade them to consult male lawyers—while colonial courts barred women from practicing law. Topping the Bombay Presidency as Deccan College’s first woman graduate yet denied a government scholarship on grounds of sex, she raised public subscriptions to enter Somerville Hall, Oxford, where special congregational decree allowed her in 1892 to become the first woman ever to sit Oxford’s Bachelor of Civil Law examinations.\n\nRefused formal admission to the bar for another three decades, Sorabji returned to India, passed the Bombay LLB, and from 1904 travelled by palanquin, boat and train across Bengal, Bihar, Orissa and Assam as Lady Assistant to the Court of Wards—advising more than six hundred secluded women and orphans behind the curtain until women finally won the right to plead in Indian and British courts after 1919–1923.",
+      "zh": "1866年生于纳西克一个帕西裔基督徒教育家家庭，科妮莉亚·索拉布吉自幼目睹深居帷幕（“普尔达”制度）的寡妇上门向她母亲求助：礼俗禁止她们面见男律师，殖民法庭又禁止女性执业，致使她们屡屡被人骗夺遗产。她以孟买管辖区头名成绩成为德干学院首位女毕业生，却因女性身份被拒发官费留英奖学金；随后在社会募捐支持下入读牛津萨默维尔学院，并于1892年经牛津特批成为史上首位参加民法学士考试的女性。\n\n在长达三十余年被拒授予正式出庭资格的岁月里，索拉布吉返印考取孟买法学士，自1904年起乘轿、搭船、坐火车奔走于孟加拉、比哈尔、奥里萨与阿萨姆，任监护署女法律顾问，隔着帷幕为六百余名深闺妇孺清查地契、保全家产；直至1919—1923年间英印法律壁垒相继打破，她终获伦敦林肯律师学院与加尔各答高等法院正式大律师资格。"
+    },
+    "dateNote": {
+      "en": "1866–1954 CE; sat Oxford’s BCL exam in 1892, served the Court of Wards 1904–1922, and was called to the Bar at Lincoln’s Inn and Calcutta in 1923–1924.",
+      "zh": "1866—1954年；1892年参加牛津民法学士考试，1904—1922年任监护署女法律顾问，1923—1924年获林肯律师学院与加尔各答高等法院大律师资格。"
+    },
+    "milestones": [
+      {
+        "year": 1887,
+        "title": {
+          "en": "Graduates first in Bombay Presidency at Deccan College, Pune",
+          "zh": "在浦那德干学院以孟买管辖区第一名毕业"
+        },
+        "description": {
+          "en": "Born in Nashik in November 1866 and educated in Pune, she becomes the first woman graduate of Bombay University through Deccan College in 1887–1888 with first-class honours.",
+          "zh": "1866年11月生于纳西克，在浦那求学，1887—1888年以一等优绩自德干学院毕业，成为孟买大学首位女学士。"
+        },
+        "location": {
+          "lat": 18.549,
+          "lon": 73.873,
+          "label": "Deccan College, Pune, Maharashtra",
+          "labelI18n": {
+            "en": "Deccan College, Pune, Maharashtra",
+            "zh": "印度马哈拉施特拉浦那德干学院"
+          }
+        }
+      },
+      {
+        "year": 1892,
+        "title": {
+          "en": "Becomes the first woman to sit Oxford’s Bachelor of Civil Law exams",
+          "zh": "在牛津萨默维尔学院成为史上首位参加民法学士考试的女性"
+        },
+        "description": {
+          "en": "Backed by Florence Nightingale and Benjamin Jowett at Somerville Hall, Sorabji wins a special Oxford decree in 1892 to sit the BCL exams alongside male candidates, though Oxford withholds women’s degrees until 1922.",
+          "zh": "在南丁格尔与乔伊特支持下就读萨默维尔学院，1892年争取到牛津特令与男生同场参加民法学士考试（牛津直至1922年方正式向她补授学位）。"
+        },
+        "location": {
+          "lat": 51.759,
+          "lon": -1.263,
+          "label": "Somerville College, University of Oxford",
+          "labelI18n": {
+            "en": "Somerville College, University of Oxford",
+            "zh": "英国牛津大学萨默维尔学院"
+          }
+        }
+      },
+      {
+        "year": 1904,
+        "title": {
+          "en": "Appointed Lady Assistant to the Court of Wards at Calcutta",
+          "zh": "出任孟加拉监护署女法律顾问，奔走四省协助深闺妇孺"
+        },
+        "description": {
+          "en": "From her base in Calcutta between 1904 and 1922, she travels across Bengal, Bihar, Orissa and Assam advising over 600 purdahnashin widows and minor heirs on property, health and schooling.",
+          "zh": "1904至1922年间驻节加尔各答，深入孟加拉、比哈尔、奥里萨与阿萨姆各地，为逾六百名深居内帏的寡妇与孤儿守护田产并延聘女医与女塾师。"
+        },
+        "location": {
+          "lat": 22.57,
+          "lon": 88.344,
+          "label": "Calcutta (Kolkata), Bengal",
+          "labelI18n": {
+            "en": "Calcutta (Kolkata), Bengal",
+            "zh": "印度孟加拉加尔各答"
+          }
+        }
+      },
+      {
+        "year": 1923,
+        "title": {
+          "en": "Called to the Bar at Lincoln’s Inn and enrolls at Calcutta High Court",
+          "zh": "获伦敦林肯律师学院大律师资格并在加尔各答高等法院执业"
+        },
+        "description": {
+          "en": "After the Sex Disqualification (Removal) Act opens the legal profession, Sorabji returns to Oxford for her BCL degree in 1922, is called to the Bar at Lincoln’s Inn in 1923, and practices at Calcutta High Court until retiring to London, where she dies in July 1954.",
+          "zh": "女性执业禁令废除后，她于1922年回牛津领受学位，1923年在伦敦林肯律师学院获授大律师资格，翌年登记为加尔各答高等法院出庭律师，晚年移居伦敦并于1954年7月辞世。"
+        },
+        "location": {
+          "lat": 51.516,
+          "lon": -0.114,
+          "label": "Lincoln’s Inn, London",
+          "labelI18n": {
+            "en": "Lincoln’s Inn, London",
+            "zh": "英国伦敦林肯律师学院"
+          }
+        }
+      }
+    ],
+    "relatedIds": [
+      "person-pandita-ramabai",
+      "south-asia-independence-partition",
+      "indian-rebellion-1857"
+    ],
+    "sources": [
+      {
+        "title": "Cornelia Sorabji (1866–1954) — Making Britain Database",
+        "publisher": "The Open University / Arts and Humanities Research Council",
+        "url": "https://www5.open.ac.uk/research-projects/making-britain/content/cornelia-sorabji",
+        "evidenceNote": "Documents Nashik birth (1866), Deccan College graduation, 1889–1892 Somerville Oxford BCL exam, 1904–1922 Court of Wards work for >600 purdahnashin women, 1923 Lincoln’s Inn call to the Bar, and 1954 death.",
+        "evidenceNoteZh": "记载其1866年纳西克出生、德干学院毕业、1889—1892年牛津萨默维尔民法学士考试、1904—1922年监护署协助逾600名深闺妇女、1923年林肯律师学院执业及1954年辞世。",
+        "checkedAt": "2026-11-18",
+        "retrieval": "opened-page"
+      },
+      {
+        "title": "Cornelia Sorabji — First Woman to Study Law at Oxford",
+        "publisher": "Faculty of Law / Somerville College, University of Oxford",
+        "url": "https://www.law.ox.ac.uk/content/cornelia-sorabji",
+        "evidenceNote": "Verifies the 1892 congregational decree admitting her to the BCL examination, 1922 degree conferral, and Calcutta High Court enrollment.",
+        "evidenceNoteZh": "核实1892年牛津特批其参加民法学士考试的院务法令、1922年补授学位及加尔各答高等法院执业登记。",
+        "checkedAt": "2026-11-18",
+        "retrieval": "opened-page"
+      }
+    ],
+    "regionalAssociation": "omit-broad-point",
+    "expansion": {
+      "release": 12,
+      "edition": "v18",
+      "workstreams": [
+        "SA3"
+      ],
+      "sourceReview": "Reviewed against University of Oxford Faculty of Law archival biography and Open University Making Britain scholarly database.",
+      "reviewLimit": {
+        "en": "While championing secluded women’s legal autonomy, Sorabji opposed Gandhi’s mass nationalist campaigns in the 1930s, leaving her politically isolated in late colonial India.",
+        "zh": "索拉布吉虽毕生捍卫深闺妇女的法律自主权，但在1930年代反对甘地领导的民族主义群众运动，晚年在印度政坛趋于孤立。"
+      }
+    }
+  }
+]

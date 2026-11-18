@@ -222,6 +222,12 @@
       "records": 3,
       "sha256": "a9a3c7e74c74df2277af7f2827fc14732c8d755e26381bf51192a7eb6b90d2db",
       "bytes": 14682
+    },
+    {
+      "file": "stories-global-journeys-v18.json",
+      "records": 20,
+      "sha256": "b5c09bf98ac27e2e6417ba41aec01803eddec2f8bf8f1fcb1949c48c1c199d81",
+      "bytes": 148676
     }
   ],
   "evidenceReviewsFile": "evidence-followups-v18.json",
@@ -690,11 +696,11 @@
     }
   ],
   "counts": {
-    "records": 707,
-    "biographies": 254,
-    "biographyMilestones": 816,
+    "records": 727,
+    "biographies": 266,
+    "biographyMilestones": 866,
     "politicalOverviews": 71,
-    "sourceURLs": 1225,
+    "sourceURLs": 1265,
     "readingPaths": 80,
     "releases": {
       "1": 60,
@@ -708,11 +714,11 @@
       "9": 2,
       "10": 14,
       "11": 148,
-      "12": 3
+      "12": 23
     }
   },
   "runtimeCounts": {
-    "records": 2087,
+    "records": 2107,
     "biographies": 278,
     "people": 278,
     "guidedReadings": 103
@@ -721,48 +727,111 @@
     "edition": "v18",
     "release": 12,
     "files": [
-      "artifact-stories-v18.json"
+      "artifact-stories-v18.json",
+      "stories-global-journeys-v18.json"
     ],
-    "records": 3,
-    "biographies": 0,
-    "biographyMilestones": 0,
+    "records": 23,
+    "biographies": 12,
+    "biographyMilestones": 50,
     "politicalOverviews": 0,
-    "sourceURLs": 6,
+    "sourceURLs": 46,
     "recordIds": [
       "cao-zhenxiu-famous-women-album",
       "chuquibamba-stars-imperial-tunic",
-      "majapahit-clay-domestic-architecture"
+      "majapahit-clay-domestic-architecture",
+      "altamira-magdalenian-painters",
+      "monte-verde-peat-camp",
+      "jericho-tell-es-sultan-tower",
+      "nabta-playa-green-sahara",
+      "jiahu-crane-flutes",
+      "mehrgarh-bolan-granaries",
+      "varna-copper-gold-workshops",
+      "watson-brake-earthworks",
+      "person-zubayda-bint-jafar",
+      "person-benjamin-of-tudela",
+      "person-rabban-bar-sauma",
+      "person-al-hasan-al-wazzan",
+      "person-malik-ambar",
+      "person-gabriela-silang",
+      "person-olaudah-equiano",
+      "person-mai-omai",
+      "person-munshi-abdullah",
+      "person-luiz-gama",
+      "person-te-whiti-o-rongomai",
+      "person-cornelia-sorabji"
     ],
     "regions": {
       "east-asia": {
-        "records": 1,
+        "records": 2,
         "biographies": 0,
         "biographyMilestones": 0,
         "politicalOverviews": 0,
-        "sourceURLs": 2
+        "sourceURLs": 4
       },
       "latin-america": {
-        "records": 1,
-        "biographies": 0,
-        "biographyMilestones": 0,
+        "records": 3,
+        "biographies": 1,
+        "biographyMilestones": 4,
         "politicalOverviews": 0,
-        "sourceURLs": 2
+        "sourceURLs": 6
       },
       "southeast-asia": {
-        "records": 1,
-        "biographies": 0,
-        "biographyMilestones": 0,
+        "records": 3,
+        "biographies": 2,
+        "biographyMilestones": 8,
         "politicalOverviews": 0,
-        "sourceURLs": 2
+        "sourceURLs": 6
+      },
+      "europe": {
+        "records": 3,
+        "biographies": 1,
+        "biographyMilestones": 5,
+        "politicalOverviews": 0,
+        "sourceURLs": 6
+      },
+      "west-central-asia": {
+        "records": 3,
+        "biographies": 2,
+        "biographyMilestones": 9,
+        "politicalOverviews": 0,
+        "sourceURLs": 6
+      },
+      "africa": {
+        "records": 2,
+        "biographies": 1,
+        "biographyMilestones": 4,
+        "politicalOverviews": 0,
+        "sourceURLs": 4
+      },
+      "south-asia": {
+        "records": 3,
+        "biographies": 2,
+        "biographyMilestones": 8,
+        "politicalOverviews": 0,
+        "sourceURLs": 6
+      },
+      "north-america": {
+        "records": 2,
+        "biographies": 1,
+        "biographyMilestones": 4,
+        "politicalOverviews": 0,
+        "sourceURLs": 4
+      },
+      "oceania": {
+        "records": 2,
+        "biographies": 2,
+        "biographyMilestones": 8,
+        "politicalOverviews": 0,
+        "sourceURLs": 4
       }
     }
   },
   "mediaFile": "history-media-v18.json",
   "placeLabelsFile": "place-labels-reviewed-v18.json",
   "placeLabelTranslations": {
-    "records": 151,
-    "bytes": 28119,
-    "sha256": "22485fd9711abdaef2e6abefcbd3a1298eb32d7fddc01cd2709dcb9177a2ed08"
+    "records": 211,
+    "bytes": 36831,
+    "sha256": "d2ae35495b15e64e0d2d42bfe807399b714b47c6e1e11d271ed0831ca3d2cae9"
   },
   "chronologyExceptions": [
     {
@@ -939,12 +1008,13 @@
         "transatlantic-slave-trade-1514-1866",
         "akan-goldweights-measure-trade",
         "olowe-ise-palace-door-commission",
-        "ibadan-adire-signatures-markets"
+        "ibadan-adire-signatures-markets",
+        "person-al-hasan-al-wazzan"
       ],
-      "records": 14,
-      "biographies": 3,
+      "records": 15,
+      "biographies": 4,
       "politicalOverviews": 3,
-      "sourceCount": 30
+      "sourceCount": 32
     },
     {
       "id": "AF3",
@@ -980,12 +1050,13 @@
         "bantu-language-early-dispersal",
         "madagascar-comoros-crops-connections",
         "meketre-bakery-brewery-model",
-        "merer-logbook-limestone-work"
+        "merer-logbook-limestone-work",
+        "nabta-playa-green-sahara"
       ],
-      "records": 22,
+      "records": 23,
       "biographies": 5,
       "politicalOverviews": 5,
-      "sourceCount": 36
+      "sourceCount": 38
     },
     {
       "id": "AF4",
@@ -1292,12 +1363,13 @@
         "china-person-yongzheng",
         "china-person-qianlong",
         "china-person-hongxiuquan",
-        "china-person-lihongzhang"
+        "china-person-lihongzhang",
+        "jiahu-crane-flutes"
       ],
-      "records": 119,
+      "records": 120,
       "biographies": 109,
       "politicalOverviews": 1,
-      "sourceCount": 179
+      "sourceCount": 181
     },
     {
       "id": "CH2",
@@ -1510,12 +1582,14 @@
         "ur-copper-complaint-tablet",
         "babylonian-recipe-tablets",
         "uluburun-cargo-connected-workshops",
-        "persepolis-ration-records-travel"
+        "persepolis-ration-records-travel",
+        "jericho-tell-es-sultan-tower",
+        "person-zubayda-bint-jafar"
       ],
-      "records": 24,
-      "biographies": 4,
+      "records": 26,
+      "biographies": 5,
       "politicalOverviews": 0,
-      "sourceCount": 36
+      "sourceCount": 40
     },
     {
       "id": "WA2",
@@ -1550,12 +1624,13 @@
         "person-mahmudhoja-behbudiy",
         "jadid-schools-theatre",
         "bukhara-suzani-shared-needlework",
-        "ferghana-ikat-thread-workshops"
+        "ferghana-ikat-thread-workshops",
+        "person-rabban-bar-sauma"
       ],
-      "records": 21,
-      "biographies": 4,
+      "records": 22,
+      "biographies": 5,
       "politicalOverviews": 5,
-      "sourceCount": 37
+      "sourceCount": 39
     },
     {
       "id": "WA3",
@@ -1627,12 +1702,13 @@
         "buddhist-art-mathura-gandhara",
         "sikh-gurus-punjab-1469-1708",
         "lumbini-ashoka-pillar-249-bce",
-        "sanchi-donor-inscriptions"
+        "sanchi-donor-inscriptions",
+        "mehrgarh-bolan-granaries"
       ],
-      "records": 19,
+      "records": 20,
       "biographies": 2,
       "politicalOverviews": 0,
-      "sourceCount": 28
+      "sourceCount": 30
     },
     {
       "id": "SA2",
@@ -1659,12 +1735,13 @@
         "mughal-translation-workshops",
         "sikh-gurus-punjab-1469-1708",
         "khalsa-anandpur-1699",
-        "coromandel-painted-cotton-workshops"
+        "coromandel-painted-cotton-workshops",
+        "person-malik-ambar"
       ],
-      "records": 13,
-      "biographies": 1,
+      "records": 14,
+      "biographies": 2,
       "politicalOverviews": 6,
-      "sourceCount": 19
+      "sourceCount": 21
     },
     {
       "id": "SA3",
@@ -1703,12 +1780,13 @@
         "bangladesh-mahila-parishad",
         "person-ananda-coomaraswamy",
         "ceylon-craft-documentation",
-        "bengal-kantha-household-memory"
+        "bengal-kantha-household-memory",
+        "person-cornelia-sorabji"
       ],
-      "records": 25,
-      "biographies": 9,
+      "records": 26,
+      "biographies": 10,
       "politicalOverviews": 0,
-      "sourceCount": 46
+      "sourceCount": 48
     },
     {
       "id": "SE1",
@@ -1833,12 +1911,14 @@
         "vietnam-war-1954-1975",
         "tet-offensive-1968",
         "paris-vietnam-agreement-1973",
-        "pekalongan-batik-workshops"
+        "pekalongan-batik-workshops",
+        "person-gabriela-silang",
+        "person-munshi-abdullah"
       ],
-      "records": 27,
-      "biographies": 6,
+      "records": 29,
+      "biographies": 8,
       "politicalOverviews": 0,
-      "sourceCount": 48
+      "sourceCount": 52
     },
     {
       "id": "NA1",
@@ -1881,12 +1961,13 @@
         "sivullirmiut-early-arctic-history",
         "indigenous-north-america-nations-continuity",
         "gwaii-haanas-shared-stewardship",
-        "musqueam-cesnaem-belongings"
+        "musqueam-cesnaem-belongings",
+        "watson-brake-earthworks"
       ],
-      "records": 29,
+      "records": 30,
       "biographies": 10,
       "politicalOverviews": 0,
-      "sourceCount": 54
+      "sourceCount": 56
     },
     {
       "id": "NA2",
@@ -1933,12 +2014,13 @@
         "indigenous-north-america-nations-continuity",
         "gwaii-haanas-shared-stewardship",
         "musqueam-cesnaem-belongings",
-        "fort-mose-freedom-households"
+        "fort-mose-freedom-households",
+        "person-olaudah-equiano"
       ],
-      "records": 33,
-      "biographies": 7,
+      "records": 34,
+      "biographies": 8,
       "politicalOverviews": 0,
-      "sourceCount": 61
+      "sourceCount": 63
     },
     {
       "id": "NA3",
@@ -2087,12 +2169,13 @@
         "taquile-textile-transmission",
         "inka-imperial-tunic-story",
         "qeswachaka-renewal-knowledge",
-        "chuquibamba-stars-imperial-tunic"
+        "chuquibamba-stars-imperial-tunic",
+        "monte-verde-peat-camp"
       ],
-      "records": 17,
+      "records": 18,
       "biographies": 2,
       "politicalOverviews": 0,
-      "sourceCount": 33
+      "sourceCount": 35
     },
     {
       "id": "LA3",
@@ -2166,12 +2249,13 @@
         "bracero-contracts-oral-histories",
         "qeswachaka-renewal-knowledge",
         "brazil-cordel-public-voices",
-        "madres-plaza-mayo-organizing"
+        "madres-plaza-mayo-organizing",
+        "person-luiz-gama"
       ],
-      "records": 23,
-      "biographies": 7,
+      "records": 24,
+      "biographies": 8,
       "politicalOverviews": 2,
-      "sourceCount": 48
+      "sourceCount": 50
     },
     {
       "id": "OC1",
@@ -2198,12 +2282,13 @@
         "madagascar-comoros-crops-connections",
         "palau-bai-knowledge-collection",
         "vanuatu-sand-drawing-knowledge",
-        "pulemelei-settlement-landscape"
+        "pulemelei-settlement-landscape",
+        "person-mai-omai"
       ],
-      "records": 13,
-      "biographies": 2,
+      "records": 14,
+      "biographies": 3,
       "politicalOverviews": 2,
-      "sourceCount": 25
+      "sourceCount": 27
     },
     {
       "id": "OC2",
@@ -2295,12 +2380,13 @@
         "vanuatu-sand-drawing-knowledge",
         "torres-strait-maritime-strike-1936",
         "possum-cloaks-cultural-renewal",
-        "hawaiian-punana-leo"
+        "hawaiian-punana-leo",
+        "person-te-whiti-o-rongomai"
       ],
-      "records": 45,
-      "biographies": 15,
+      "records": 46,
+      "biographies": 16,
       "politicalOverviews": 3,
-      "sourceCount": 91
+      "sourceCount": 93
     },
     {
       "id": "EU1",
@@ -2339,12 +2425,15 @@
         "council-of-nicaea-325",
         "milan-toleration-313",
         "vindolanda-birthday-two-hands",
-        "onfim-birchbark-practice-play"
+        "onfim-birchbark-practice-play",
+        "altamira-magdalenian-painters",
+        "varna-copper-gold-workshops",
+        "person-benjamin-of-tudela"
       ],
-      "records": 25,
-      "biographies": 5,
+      "records": 28,
+      "biographies": 6,
       "politicalOverviews": 7,
-      "sourceCount": 45
+      "sourceCount": 51
     },
     {
       "id": "EU2",
@@ -2449,21 +2538,21 @@
     "records": 1
   },
   "summaryEdits": {
-    "bytes": 633368,
-    "sha256": "95982597ec7d2b7a98d9aa3c3b493b2aaf0ad93179120676ca803453e64bae4a",
-    "records": 212
+    "bytes": 969986,
+    "sha256": "02d481abdfd1847941a692ba74d9e90bda98bf7c33ab35b91ef1c454c1eae1f9",
+    "records": 316
   },
   "chinaReviewsFile": "china-visual-reviews-v18.json",
   "chinaVisualReviews": {
-    "bytes": 246262,
-    "sha256": "b9ced54066c7e1e3053211de1565111f4086644b9edb414767ca9df74d573dc2",
-    "records": 100
+    "bytes": 281077,
+    "sha256": "8f8483a7a19987d723f5cc4fc6c474154068c22e955f93d16a8fc88b6d256c41",
+    "records": 112
   },
   "mediaLocalization": {
     "file": "history-media-localization-zh-v18.json",
-    "bytes": 239393,
-    "sha256": "f9e45e25d171ae8f4eab32b7f47a538327029f114e9d757947243763e9bdcb4c",
-    "assets": 553
+    "bytes": 265222,
+    "sha256": "dbc1c47cc5396a3fef6014270e3d6d56b793c10176f7144774edfa12f5992532",
+    "assets": 605
   },
   "visualExpansion": {
     "baselineManifest": "content-expansion-v17.json",
@@ -2980,6 +3069,13 @@
         "associations": 0
       },
       {
+        "file": "visual-assets-global-stories-27-v18.json",
+        "bytes": 161294,
+        "sha256": "15034d9ecc2c3e62cc69e32d24aa4211f9265649f2965d1e3a7ef10992ef7104",
+        "assets": 52,
+        "associations": 0
+      },
+      {
         "file": "visual-assets-oceania-images-01-v18.json",
         "bytes": 7274,
         "sha256": "25f90d019ac0341e89c990f97986940725cc9761408bdab836621671f84a5440",
@@ -3163,9 +3259,9 @@
       }
     ],
     "coverageFile": "visual-coverage-v18.json",
-    "assets": 553,
-    "covered": 1029,
-    "total": 2087,
-    "target": 1044
+    "assets": 605,
+    "covered": 1081,
+    "total": 2107,
+    "target": 1054
   }
 }

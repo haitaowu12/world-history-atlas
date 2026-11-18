@@ -34,6 +34,6 @@ test('Cahokia and Chaco distinguish modern terrain and conservation from the his
  assert.match(r.summary.en,/1000–1125/);assert.match(r.summary.en,/go beyond the test/);assert.match(r.summary.zh,/仍是超出检测本身/);
 });
 test('NPS increment adds three unique illustrated entries without changing the denominator',()=>{
- const c=readAtlasData('visual-coverage-v18.json');assert.equal(c.covered,1029);assert.equal(c.assets,553);assert.equal(c.total,2087);assert.equal(c.remaining,15);
+ const c=readAtlasData('visual-coverage-v18.json');assert.equal(c.covered,1081);assert.equal(c.assets,605);assert.equal(c.total,2107);assert.equal(c.remaining,0);
  for(const a of shard.items)assert.equal(c.coveredIds.filter(id=>id===a.recordIds[0]).length,1);
 });

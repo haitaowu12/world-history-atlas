@@ -454,3 +454,9 @@ Added a precise later-publication connection from Samarkand’s scholarly work t
 ## 2026-11-14 · NPS landscape checkpoint
 
 Three individually inspected NPS images add Hopewell, Cahokia and Chaco. 1,029/2,087 entries (49.3%), 553 images, 614 checks pass. Bilingual detail and 390px layout verified; source rights and modern reconstruction/conservation context retained. See [checkpoint 1029](V18_CHECKPOINT_1029.md). Not yet published; no Actions.
+
+## 2026-11-18 · Global journeys, deep origins, narrative polish & 51.3% visual target completion
+
+Added `stories-global-journeys-v18.json` (20 bilingual stories: 8 Super-Ancient Deep Origins turning points spanning `13,000–3,000 BCE` across East Asia, South Asia, Africa, Europe, West Asia and the Americas + 12 multi-stop global biographies with 50 dated milestones across underrepresented regions), 3 new guided journeys (`origins-before-cities`, `across-eurasia-travellers`, `voices-against-empire`, bringing guided readings to 106), 12 additional source-verified China landmark reviews (`112` total in `china-visual-reviews-v18.json`), 104 narrative prose refinements (`316` total in `summary-edits-v18.json`), 60 reviewed Chinese place captions (`211` total in `place-labels-reviewed-v18.json`), and `visual-assets-global-stories-27-v18.json` (52 verified open-access museum/archive assets with full Chinese metadata in `history-media-localization-zh-v18.json`).
+
+**Milestone reached:** **605 assets covering 1,081 of 2,107 unique entries (51.31%, target 1,054, `targetMet: true`, `remaining: 0`)**. `npm run check:visual-target`, `npm run check`, `node scripts/audit-source-notes-zh.mjs`, and headless Chrome `browser-acceptance.mjs` all pass with zero failures. No GitHub Actions triggered (`[skip ci]`).

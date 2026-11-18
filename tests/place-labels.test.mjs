@@ -44,7 +44,7 @@ test('every older record directly linked from a V17 or V18 story or reading has 
  const manifest=read(CONTENT_MANIFEST),catalog=read(manifest.placeLabelsFile);
  const base=['history.json','people.json','china-depth-v7.json','china-donor-stories.json','civilization-stories.json','world-depth-v7.json','modern-continuity-v7.json'].flatMap(read);
  const records=applyEvidenceReviews([...base,...imported,...manifest.files.flatMap(file=>read(file.file))],read(manifest.evidenceReviewsFile));
- assert.equal(catalog.items.length,151);
+ assert.equal(catalog.items.length,211);
  for(const frozen of read('place-labels-reviewed-v17.json').items)assert.deepEqual(catalog.items.find(item=>item.recordId===frozen.recordId),frozen);
  assert.deepEqual(auditPlaceLabelTranslations(catalog,records),[]);
  const translated=applyPlaceLabelTranslations(records,catalog),byId=new Map(translated.map(record=>[record.id,record]));

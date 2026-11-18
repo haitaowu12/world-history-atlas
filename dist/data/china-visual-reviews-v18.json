@@ -3970,6 +3970,444 @@
           "evidenceNoteZh": "赵明诚传附载1127至1129年间夫妇南渡江淮背景，仅提供时代脉络而非乌江逐日行纪。"
         }
       ]
+    },
+    {
+      "id": "china-landmark-002",
+      "patch": {
+        "title": {
+          "en": "Qin Shi Huang proclaims the imperial title at Xianyang",
+          "zh": "秦始皇统一六国，于咸阳确立皇帝制度与郡县法度"
+        },
+        "summary": {
+          "en": "After conquering the eastern kingdom of Qi in 221 BCE—completing ten years of campaigns across Han, Zhao, Wei, Chu, Yan and Qi—King Zheng of Qin convened his ministers at Xianyang and adopted the new title *Shi Huangdi* (First Emperor). Accepting Chancellor Li Si’s counsel over proposals to revive regional fiefs, the court divided the realm into thirty-six commanderies (*jun*) staffed by centrally appointed officials, standardized axle widths, weights, measures and small-seal script, and ordered confiscated bronze weapons melted down at Xianyang into bells and twelve monumental courtyard statues.",
+          "zh": "公元前221年秦军东灭齐国，完成十年兼并韩、赵、魏、楚、燕、齐之役。秦王政在咸阳召集廷议，创制“始皇帝”尊号；采纳廷尉李斯之议废分封、行郡县，分天下为三十六郡，由朝廷直接遣官治理，并统一度量衡、车轨与小篆文字，收缴列国青铜兵刃聚于咸阳销铸钟鐻与十二金人。"
+        },
+        "dateNote": {
+          "en": "221 BCE (26th year of King Zheng of Qin), recorded in the Basic Annals of Qin Shi Huang in Shiji.",
+          "zh": "公元前221年（秦王政二十六年），据《史记·秦始皇本纪》。"
+        },
+        "relatedIds": [
+          "qin-unification",
+          "han-dynasty"
+        ]
+      },
+      "note": {
+        "en": "Expanded one-line stub against Shiji 6 (Basic Annals of Qin Shi Huang), documenting the 221 BCE Qi surrender, Li Si’s commandery-county debate, standardization decrees, and bronze weapon confiscation at Xianyang.",
+        "zh": "据《史记·秦始皇本纪》扩充单行简目，核实前221年灭齐、李斯郡县廷议、书同文车同轨诏令及咸阳收兵铸金人记载。"
+      },
+      "sources": [
+        {
+          "title": "Shiji, Juan 6: Basic Annals of Qin Shi Huang (秦始皇本纪)",
+          "url": "https://ctext.org/shiji/qin-shi-huang-ben-ji",
+          "publisher": "Chinese Text Project (ctext.org)",
+          "checkedAt": "2026-11-18",
+          "evidenceNote": "Primary chronicle for 221 BCE unification, adoption of Huangdi title, thirty-six commanderies, standardization of weights/axles/script, and casting of twelve bronze figures at Xianyang.",
+          "evidenceNoteZh": "公元前221年一统、确立皇帝名号、设三十六郡、统一度量衡车轨文字及咸阳铸十二金人的原始纪传史料。",
+          "retrieval": "Read the linked source directly; relevant chronology or object passage reviewed."
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-003",
+      "patch": {
+        "title": {
+          "en": "Liu Bang enters Xianyang and survives Xiang Yu’s banquet at Hongmen",
+          "zh": "刘邦先入咸阳约法三章，旋赴鸿门宴脱险"
+        },
+        "summary": {
+          "en": "In late 207 BCE rebel commander Liu Bang pushed through Wu Pass into the Guanzhong heartland, accepted the surrender of Qin ruler Ziying outside Xianyang, sealed the palace treasuries and announced a simplified three-article penal code (*yuefa sanzhang*) to win over local elders. Weeks later in early 206 BCE, warlord Xiang Yu—fresh from crushing Qin’s main field armies at Julu—forced Tong Pass with a far larger host and camped at Hongmen east of Xianyang, where adviser Fan Zeng’s sword-dance plot to kill Liu Bang at banquet failed amid Zhang Liang’s diplomacy and Fan Kuai’s dramatic intrusion.",
+          "zh": "公元前207年末，刘邦率军先破武关进入关中，在咸阳轵道旁受秦王子婴降，封闭宫室府库并向关中父老宣告“杀人者死，伤人及盗抵罪”的约法三章。前206年初，刚在巨鹿击溃秦军主力的项羽率优势联军破函谷关进驻咸阳东郊新丰鸿门；谋士范增虽在宴席间命项庄舞剑意在沛公，刘邦仍借张良周旋与樊哙闯帐化险脱身。"
+        },
+        "dateNote": {
+          "en": "Spans the tenth to twelfth months at the start of the Qin–Chu transition (late 207 to early 206 BCE).",
+          "zh": "跨越秦楚之际十月至十二月（公元前207年末至前206年初）。"
+        },
+        "relatedIds": [
+          "qin-unification",
+          "han-dynasty",
+          "china-event-xihan-001"
+        ]
+      },
+      "note": {
+        "en": "Expanded one-line stub against Shiji 7 (Xiang Yu) and Shiji 8 (Gaozu), distinguishing the late-207 BCE Xianyang entry from the early-206 BCE Hongmen camp east of Xianyang.",
+        "zh": "据《史记·项羽本纪》与《高祖本纪》扩充简目，区分前207年末入咸阳受降与前206年初新丰鸿门军帐会面。"
+      },
+      "sources": [
+        {
+          "title": "Shiji, Juan 7: Basic Annals of Xiang Yu (项羽本纪)",
+          "url": "https://ctext.org/shiji/xiang-yu-ben-ji",
+          "publisher": "Chinese Text Project (ctext.org)",
+          "checkedAt": "2026-11-18",
+          "evidenceNote": "Records Xiang Yu’s march to Xinfeng Hongmen, Liu Bang’s apology, Xiang Zhuang’s sword dance, Fan Kuai’s speech, and Liu Bang’s withdrawal to Bashang.",
+          "evidenceNoteZh": "详载项羽驻军新丰鸿门、刘邦谢罪、项庄舞剑、樊哙闯帐陈辞及刘邦间道返霸上。",
+          "retrieval": "Read the linked source directly; relevant chronology or object passage reviewed."
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-437",
+      "patch": {
+        "title": {
+          "en": "Sima Qian grows up beside the Yellow River at Longmen",
+          "zh": "司马迁生于夏阳龙门，早年耕牧诵读、远游四方"
+        },
+        "summary": {
+          "en": "Born at Longmen in Xiayang (modern Hancheng, Shaanxi) where the Yellow River bursts out of its northern gorge, Sima Qian tells in his autobiographical postface (*Taishigong zixu*) how he ploughed and herded along the river hills at ten while memorizing ancient texts taught by his court-astrologer father Sima Tan. At twenty he set out down the Yangtze, Huai and Xiang valleys—visiting Miluo where Qu Yuan drowned, climbing Kuaiji and interviewing elders at Qufu—before inheriting his father’s dying charge to complete the *Shiji* (*Records of the Grand Historian*).",
+          "zh": "生于黄河破峡而出的夏阳龙门（今陕西韩城），司马迁在《太史公自序》中追述自己十岁便在河山之间耕牧并诵习古文，受任太史令的父亲司马谈指授史学。二十岁起他南游江淮、沅湘，凭吊屈原沉江之汨罗，登临会稽，赴曲阜考察仲尼遗风；后秉承父亲临终遗命，忍辱发愤撰成贯通古今的纪传体通史《史记》。"
+        },
+        "dateNote": {
+          "en": "Traditionally dated to c. 145 BCE (some scholars argue c. 135 BCE); birth year remains approximate.",
+          "zh": "生年传统定为约公元前145年（学界另有约前135年说），属约略纪年。"
+        },
+        "relatedIds": [
+          "han-dynasty",
+          "china-landmark-519"
+        ]
+      },
+      "note": {
+        "en": "Expanded stub using Sima Qian’s own autobiographical postface (Shiji 130) while noting scholarly debate between c. 145 BCE and c. 135 BCE for his birth year.",
+        "zh": "据《史记·太史公自序》扩充龙门早年耕读与二十南游经历，并注明前145年与前135年两种生年考证。"
+      },
+      "sources": [
+        {
+          "title": "Shiji, Juan 130: Postface of the Grand Historian (太史公自序)",
+          "url": "https://ctext.org/shiji/tai-shi-gong-zi-xu",
+          "publisher": "Chinese Text Project (ctext.org)",
+          "checkedAt": "2026-11-18",
+          "evidenceNote": "Autobiographical account of Sima Qian’s birth south of Longmen, farming along the river hills, reading ancient scripts at ten, travels at twenty, and Sima Tan’s deathbed charge.",
+          "evidenceNoteZh": "司马迁自述生于龙门之阳、耕牧河山之阳、十岁诵古文、二十南游江淮及承父司马谈遗命著史。",
+          "retrieval": "Read the linked source directly; relevant chronology or object passage reviewed."
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-028",
+      "patch": {
+        "title": {
+          "en": "Liu Xiu enters Luoyang as the restored Eastern Han capital",
+          "zh": "刘秀入主洛阳重建汉室，开启东汉定都洛阳时代"
+        },
+        "summary": {
+          "en": "After claiming the imperial throne near Hao in the sixth lunar month of 25 CE amid the collapse of Wang Mang’s Xin regime and Red Eyebrows uprisings, Liu Xiu (Emperor Guangwu) accepted the surrender of Luoyang’s garrison commander Zhu鮪 in the ninth month and entered Luoyang as his capital in the tenth month. Shifting the imperial seat eastward from devastated Chang’an to the洛水 river plain linked directly to canal grain from the North China Plain, Guangwu spent the next decade reuniting rival regional warlords while trimming county bureaucracies and freeing debt-enslaved commoners.",
+          "zh": "王莽新朝覆亡、赤眉绿林诸部并起之际，刘秀（光武帝）于公元25年六月在鄗南即皇帝位，九月受洛阳守将朱鲔投降，十月正式车驾入洛阳定为帝都。将都城自残破的关中长安东迁至漕运便利的洛阳盆地后，光武帝历时十余年次第削平各地割据势力，并裁并冗县、多次下诏释放战乱中沦为奴婢的平民。"
+        },
+        "dateNote": {
+          "en": "Tenth lunar month of Jianwu 1 (25 CE) marks Guangwu’s entry into Luoyang as capital, following his accession in the sixth month.",
+          "zh": "建武元年（25年）六月即位于鄗南，十月定都入洛阳。"
+        },
+        "relatedIds": [
+          "han-dynasty",
+          "china-event-donghan-001"
+        ]
+      },
+      "note": {
+        "en": "Reviewed against Hou Hanshu 1A (Annals of Emperor Guangwu), separating his sixth-month accession near Hao from his tenth-month entry into Luoyang.",
+        "zh": "据《后汉书·光武帝纪上》核实，区分六月鄗南即位与十月入都洛阳两个时间节点。"
+      },
+      "sources": [
+        {
+          "title": "Hou Hanshu, Juan 1A: Annals of Emperor Guangwu (光武帝纪上)",
+          "url": "https://ctext.org/hou-han-shu/guang-wu-di-ji-shang",
+          "publisher": "Chinese Text Project (ctext.org)",
+          "checkedAt": "2026-11-18",
+          "evidenceNote": "Documents Jianwu 1 (25 CE) sixth-month accession, ninth-month surrender of Luoyang, and tenth-month imperial entry establishing Luoyang as capital.",
+          "evidenceNoteZh": "记载建武元年（25年）六月即位、九月朱鲔举洛阳降及十月车驾入洛阳定都。",
+          "retrieval": "Read the linked source directly; relevant chronology or object passage reviewed."
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-029",
+      "patch": {
+        "title": {
+          "en": "Tradition dates Luoyang’s White Horse Temple to Emperor Ming’s reign",
+          "zh": "汉明帝永平十一年洛阳白马寺建寺传统与佛教东传记忆"
+        },
+        "summary": {
+          "en": "Later Buddhist chronicles and Yang衒zhi’s sixth-century *Record of the Monasteries of Luoyang* relate that after Emperor Ming of Eastern Han dreamed of a golden deity, envoys returning from the Western Regions brought Indian monks Kāśyapamātanga and Dharmaratna with scriptures carried on a white horse, housing them outside Luoyang’s Xiyong Gate at White Horse Temple (*Baimasi*)—traditionally dated to 68 CE. While Fan Ye’s *Hou Hanshu* places Prince Liu Ying’s documented Buddhist offerings at Pengcheng in 65 CE and treats Emperor Ming’s dream cautiously, Baimasi became a real translation centre in late Eastern Han under Parthian and Kushan monks such as An Shigao and Lokakṣema.",
+          "zh": "据后世佛传与北魏杨衒之《洛阳伽蓝记》追述，东汉明帝感梦金人后遣使西域，迎回摄摩腾、竺法兰携白马驮经至洛阳，于西雍门外兴建白马寺，传统系于永平十一年（68年）。范晔《后汉书》虽在永平八年（65年）楚王刘英诏书中已确载沙门与浮屠祠祀，而感梦建寺细节带有后世传述色彩，但洛阳白马寺一带在东汉晚期确已成为安世高、支娄迦谶等西域高僧译经弘法的重镇。"
+        },
+        "dateNote": {
+          "en": "68 CE (Yongping 11) is the traditional monastic founding date; contemporaneous Eastern Han evidence already attests Buddhist practice at Pengcheng by 65 CE.",
+          "zh": "68年（永平十一年）为寺院传统建年；《后汉书》明确记载65年楚王刘英已在彭城奉佛。"
+        },
+        "relatedIds": [
+          "han-dynasty",
+          "silk-roads-changan"
+        ]
+      },
+      "note": {
+        "en": "Replaced uncritical ‘China’s first temple in 68’ stub with balanced citation of Hou Hanshu 88 and Luoyang Qielan Ji 4, distinguishing traditional 68 CE founding lore from attested 65 CE Pengcheng Buddhism and second-century Luoyang translation activity.",
+        "zh": "据《后汉书·西域传》与《洛阳伽蓝记》卷四改写简目，区分永平十一年建寺传统叙述、65年彭城楚王奉佛实录及东汉后期洛阳译经活动。"
+      },
+      "sources": [
+        {
+          "title": "Hou Hanshu, Juan 88: Account of the Western Regions — Tianzhu (西域传·天竺)",
+          "url": "https://ctext.org/hou-han-shu/xi-yu-zhuan",
+          "publisher": "Chinese Text Project (ctext.org)",
+          "checkedAt": "2026-11-18",
+          "evidenceNote": "Records the tradition of Emperor Ming’s dream of the golden figure alongside Eastern Han court awareness of Buddhist teachings from Tianzhu.",
+          "evidenceNoteZh": "记载汉明帝夜梦金人传闻及东汉朝廷对天竺浮屠教法的早期记载。",
+          "retrieval": "Read the linked source directly; relevant chronology or object passage reviewed."
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-101",
+      "patch": {
+        "title": {
+          "en": "Liu Bei consults Zhuge Liang at Longzhong on a three-way strategy",
+          "zh": "刘备三顾襄阳隆中，诸葛亮陈《隆中对》三分天下大计"
+        },
+        "summary": {
+          "en": "Sheltering in Jing Province as an itinerant commander without a territorial base in 207 CE, forty-six-year-old Liu Bei called three times on twenty-six-year-old recluse strategist Zhuge Liang in the hills near Xiangyang. In the strategic briefing preserved in *Sanguozhi* (*Longzhong Plan*), Zhuge Liang argued that Cao Cao’s northern manpower could not yet be challenged head-on while Sun Quan’s Yangtze hold was entrenched—urging Liu Bei instead to secure Jing and mountainous Yi Province (Sichuan), conciliate southwestern peoples, ally externally with Sun Quan, and await a northern opening from two prongs.",
+          "zh": "公元207年，年近五旬仍寄人篱下驻屯荆州新野的刘备，三次前往襄阳城西隆中山中拜访年仅二十六岁的隐士诸葛亮。在《三国志·诸葛亮传》所载的《隆中对》中，诸葛亮剖析曹操拥百万之众不可骤与争锋、孙权据江东三世可为援而不可图，建议刘备跨有荆、益二州险要，西和诸戎、南抚夷越，外结孙权、内修政理，待天下有变则命上将自荆州、益州两路北伐。"
+        },
+        "dateNote": {
+          "en": "207 CE (Jian’an 12), the year before Cao Cao’s southward march and the Red Cliffs campaign of 208.",
+          "zh": "建安十二年（207年），即曹操南下与赤壁之战（208年）前一年。"
+        },
+        "relatedIds": [
+          "han-dynasty",
+          "china-event-sanguo-015"
+        ]
+      },
+      "note": {
+        "en": "Expanded stub against Chen Shou’s Sanguozhi 35 (Biography of Zhuge Liang); retained Xiangyang representative point while noting Longzhong’s traditional location west of Xiangyang.",
+        "zh": "据陈寿《三国志·蜀书·诸葛亮传》扩充三顾频烦与《隆中对》战略要旨，保留襄阳隆中代表点位。"
+      },
+      "sources": [
+        {
+          "title": "Sanguozhi, Juan 35: Biography of Zhuge Liang (诸葛亮传)",
+          "url": "https://ctext.org/sanguozhi/zhu-ge-liang-zhuan",
+          "publisher": "Chinese Text Project (ctext.org)",
+          "checkedAt": "2026-11-18",
+          "evidenceNote": "Primary third-century historical text recording Liu Bei’s three visits in 207 CE and the full text of Zhuge Liang’s strategic analysis.",
+          "evidenceNoteZh": "三世纪陈寿正史原文，载录207年刘备三往乃见及诸葛亮《隆中对》全文。",
+          "retrieval": "Read the linked source directly; relevant chronology or object passage reviewed."
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-034",
+      "patch": {
+        "title": {
+          "en": "Han-Zhao forces capture Luoyang in the Disaster of Yongjia",
+          "zh": "永嘉之乱：汉赵攻陷洛阳俘晋怀帝，北方士庶大举南迁"
+        },
+        "summary": {
+          "en": "Exhausted by the fratricidal War of the Eight Princes and severe famine across the Central Plains, Western Jin’s capital Luoyang fell in the sixth lunar month of 311 (Yongjia 5) to Xiongnu-led Han-Zhao armies commanded by Liu Yao, Wang Mi and Shi Le. Troops burned imperial palaces and ancestral temples and carried Emperor Huai north into captivity at Pingyang—shattering unified Jin rule in northern China and accelerating waves of northern aristocratic clans and farming households migrating south across the Huai and Yangtze rivers toward Jiankang.",
+          "zh": "历经“八王之乱”宗室自相残杀与中原连年饥馑，西晋都城洛阳于永嘉五年（311年）六月被刘曜、王弥、石勒统率的汉（前赵）大军攻破。宫阙宗庙焚毁，晋怀帝被俘北押平阳，西晋在北方的统治随之崩解，大批中原世族与流民扶老携幼渡淮越江南奔江左，拉开持续数代的南北人口与文化重心变迁。"
+        },
+        "dateNote": {
+          "en": "Sixth lunar month of Yongjia 5 (July 311 CE); Chang’an fell five years later in 316, ending the Western Jin.",
+          "zh": "永嘉五年（311年）六月洛阳陷落；五年后（316年）长安亦陷，西晋灭亡。"
+        },
+        "relatedIds": [
+          "western-jin-dynasty",
+          "eastern-jin-dynasty"
+        ]
+      },
+      "note": {
+        "en": "Expanded stub against Jinshu 5 (Annals of Emperor Huai), specifying the sixth-month 311 capture of Luoyang by Liu Yao, Wang Mi and Shi Le while distinguishing it from the 316 fall of Chang’an.",
+        "zh": "据《晋书·孝怀帝纪》扩充永嘉五年六月刘曜、王弥等破洛阳掳怀帝史实，并与316年长安失守相区分。"
+      },
+      "sources": [
+        {
+          "title": "Jinshu, Juan 5: Annals of Emperor Xiaohuai (孝怀帝纪)",
+          "url": "https://ctext.org/wiki.pl?if=gb&chapter=259062",
+          "publisher": "Chinese Text Project (ctext.org)",
+          "checkedAt": "2026-11-18",
+          "evidenceNote": "Records the Yongjia 5 (311 CE) famine in Luoyang, sixth-month breach by Liu Yao and Wang Mi, burning of palaces, and capture of Emperor Huai.",
+          "evidenceNoteZh": "记载永嘉五年（311年）洛阳饥荒、六月刘曜与王弥破城焚宫及俘晋怀帝送平阳。",
+          "retrieval": "Read the linked source directly; relevant chronology or object passage reviewed."
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-105",
+      "patch": {
+        "title": {
+          "en": "Monk Lezun begins cliff-cave excavation at Dunhuang’s Mogao Grottoes",
+          "zh": "沙门乐僔于敦煌鸣沙山东麓开凿莫高窟初窟"
+        },
+        "summary": {
+          "en": "According to Tang-dynasty stele inscriptions preserved at Mogao—most notably Li Huairang’s 698 commemoration of shrine repairs—the wandering monk Lezun (*Yuezun*) reached Dunhuang in 366 CE, saw evening sunlightblaze across Sanwei Peak as if revealing a thousand golden Buddhas, and hollowed a meditation cell into the conglomerate cliff facing the Daquan stream, soon joined by the monk Faliang beside him. Over the next millennium oasis rulers, merchants, soldiers’ associations and nuns cut hundreds of painted stucco caves and stocked the Library Cave along the Hexi Silk Road.",
+          "zh": "据莫高窟现存武周圣历元年（698年）李怀让《重修莫高窟佛龛碑》追记，前秦建元二年（366年）行脚沙门乐僔杖锡行至敦煌鸣沙山东麓，忽见三危山金光万道状若千佛，遂在大泉河畔砾岩崖壁开凿首座禅窟，继有法良禅师在侧增筑。此后近千年间，河西走廊官宦世族、往来胡汉商旅、社邑百姓与比丘尼相继开窟造像、储藏经卷，蔚成丝路佛教艺术宝库。"
+        },
+        "dateNote": {
+          "en": "366 CE founding date derives from the 698 Tang stele inscription at Mogao rather than an extant fourth-century dedication.",
+          "zh": "366年开窟纪年据698年武周李怀让《重修莫高窟佛龛碑》追述，第四世纪原窟题记并未留存。"
+        },
+        "relatedIds": [
+          "mogao",
+          "eastern-jin-dynasty",
+          "silk-roads-changan"
+        ]
+      },
+      "note": {
+        "en": "Expanded stub against UNESCO World Heritage inscription 440, explicitly attributing the 366 CE Lezun/Faliang origin story to Tang stele testimony while connecting to Mogao’s millennium-long cave patronage.",
+        "zh": "据联合国教科文组织世界遗产440号档案扩充，明确说明366年乐僔、法良开窟纪年源自唐碑记载。"
+      },
+      "sources": [
+        {
+          "title": "Mogao Caves (World Heritage List No. 440)",
+          "url": "https://whc.unesco.org/en/list/440/",
+          "publisher": "UNESCO World Heritage Centre",
+          "checkedAt": "2026-11-18",
+          "evidenceNote": "Documents the 366 CE traditional beginning of cliff-cave carving at Dunhuang on the Silk Road crossroads and subsequent fourth-to-fourteenth-century painted and sculpted caves.",
+          "evidenceNoteZh": "记录公元366年敦煌丝路枢纽开窟起始记载及四至十四世纪连续营造的彩塑壁画洞窟。",
+          "retrieval": "Read the linked source directly; relevant chronology or object passage reviewed."
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-046",
+      "patch": {
+        "title": {
+          "en": "Sui commanders cross the Yangtze and capture Jiankang, ending the Chen dynasty",
+          "zh": "隋军多路渡江攻克建康灭陈，结束近三百年南北分治"
+        },
+        "summary": {
+          "en": "Launching eight coordinated riverine and overland columns totaling over half a million troops under overall command of Prince Yang Guang and strategist Gao Jiong, Sui forces slipped across the lower Yangtze on New Year’s Day of Kaihuang 9 (early 589): Heruo Bi crossed from Guangling to Jingkou while Han Qinhu raided across from Caishi with five hundred mounted vanguard troops and entered Jiankang’s朱雀门 gate, pulling the last Chen ruler Chen Shubao from a palace well. Emperor Wen ordered Jiankang’s palaces razed to fields while leniently sparing Chen courtiers, reuniting northern and southern China for the first time since Western Jin’s collapse in 311.",
+          "zh": "开皇九年（589年）正月，隋朝在晋王杨广与高颎统筹下发兵五十余万分八路南下：贺若弼自广陵渡江拔京口，韩擒虎率五百精骑自采石乘夜济江直趋建康朱雀门，在景阳宫井中俘获陈后主陈叔宝。隋文帝下诏平毁建康宫苑城池为农田，同时优容安置江南士族官僚，终结了自311年永嘉之乱以来近三百年的南北政权分立。"
+        },
+        "dateNote": {
+          "en": "First lunar month of Kaihuang 9 (early 589 CE), recorded in Suishu.",
+          "zh": "隋文帝开皇九年正月（589年初），据《隋书·高祖纪》。"
+        },
+        "relatedIds": [
+          "sui-reunification",
+          "china-landmark-034",
+          "tang-dynasty"
+        ]
+      },
+      "note": {
+        "en": "Expanded stub against Suishu 2 (Annals of Gaozu), naming both Heruo Bi’s Guangling crossing and Han Qinhu’s Caishi raid alongside Jiankang’s capture in early 589.",
+        "zh": "据《隋书·高祖纪下》扩充开皇九年正月贺若弼、韩擒虎分路渡江克建康灭陈史实。"
+      },
+      "sources": [
+        {
+          "title": "Suishu, Juan 2: Annals of Emperor Gaozu Part II (高祖纪下)",
+          "url": "https://ctext.org/wiki.pl?if=gb&chapter=340595",
+          "publisher": "Chinese Text Project (ctext.org)",
+          "checkedAt": "2026-11-18",
+          "evidenceNote": "Records the first-month Kaihuang 9 (589 CE) Yangtze crossings by Heruo Bi and Han Qinhu, capture of Chen Shubao at Jiankang, and pacification of Chen prefectures.",
+          "evidenceNoteZh": "记载开皇九年（589年）正月贺若弼与韩擒虎渡江、俘陈叔宝平建康及收抚江南州郡。",
+          "retrieval": "Read the linked source directly; relevant chronology or object passage reviewed."
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-015",
+      "patch": {
+        "title": {
+          "en": "Li Yuan proclaims the Tang dynasty at Taiji Palace in Chang’an",
+          "zh": "李渊于长安太极殿受禅建唐，开启唐代都城新局"
+        },
+        "summary": {
+          "en": "Marching southwest from his northern frontier garrison at Taiyuan in 617 as rebellions tore the Sui Empire apart, Duke of Tang Li Yuan captured the Sui capital Daxingcheng and ruled briefly through child puppet Emperor Gong. Following news in the fifth lunar month of 618 that mutineers at Jiangdu had killed Emperor Yang, Li Yuan accepted the boy ruler’s abdication at Taiji Palace, proclaimed the Tang dynasty (changing the era to Wude), and restored the historic city name Chang’an—launching another six years of regional campaigns to subdue rival contenders across the empire.",
+          "zh": "隋末天下群雄并起之际，太原留守唐公李渊于617年自晋阳起兵西南渡河攻入隋都大兴城，遥尊隋炀帝并立代王杨侑为恭帝。618年五月江都兵变隋炀帝遇弑消息传抵关中后，李渊于太极殿受恭帝禅让正式称帝，定国号曰唐、建元武德，并复名都城为长安，随即展开历时数年的统一全国战争。"
+        },
+        "dateNote": {
+          "en": "Fifth lunar month (jiazi day) of Wude 1 (June 618 CE); empire-wide reunification required campaigns continuing into the 620s.",
+          "zh": "武德元年五月甲子（618年6月）于长安太极殿即位；削平群雄统一全国则延续至620年代。"
+        },
+        "relatedIds": [
+          "tang-dynasty",
+          "sui-reunification",
+          "china-person-lijing"
+        ]
+      },
+      "note": {
+        "en": "Expanded stub against Jiu Tangshu 1 (Annals of Gaozu), connecting the 617 Taiyuan march, Jiangdu news, and fifth-month 618 accession at Taiji Palace.",
+        "zh": "据《旧唐书·高祖本纪》扩充617年晋阳起兵入大兴城与618年五月太极殿称帝建唐过程。"
+      },
+      "sources": [
+        {
+          "title": "Jiu Tangshu, Juan 1: Annals of Gaozu (高祖本纪)",
+          "url": "https://ctext.org/wiki.pl?if=gb&chapter=766530",
+          "publisher": "Chinese Text Project (ctext.org)",
+          "checkedAt": "2026-11-18",
+          "evidenceNote": "Documents Li Yuan’s Wude-era (618) fifth-month accession at Taiji Palace following Emperor Yang’s death at Jiangdu and renaming of Daxing departments in Chang’an.",
+          "evidenceNoteZh": "记载武德元年（618年）五月李渊闻江都之变后于太极殿受禅即位建唐。",
+          "retrieval": "Read the linked source directly; relevant chronology or object passage reviewed."
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-057",
+      "patch": {
+        "title": {
+          "en": "An Lushan marches south from Fanyang to launch the An–Shi Rebellion",
+          "zh": "安禄山自范阳举兵南下，引发震动中唐的安史之乱"
+        },
+        "summary": {
+          "en": "Holding concurrent command of three northeastern frontier garrisons—Pinglu, Fanyang and Hedong—with roughly 150,000 veteran cavalry and infantry, Sogdian-Turkic general An Lushan broke with Chancellor Yang Guozhong at Xuanzong’s court and marched south from Fanyang (modern Beijing) in the eleventh lunar month of Tianbao 14 (December 755) under the pretext of a secret edict to purge Yang. Crossing the frozen Yellow River before untrained interior prefectures could muster, rebel armies seized Luoyang within weeks and stormed Tong Pass and Chang’an in 756, igniting an eight-year war (755–763) that fractured Tang fiscal censuses and frontier rule.",
+          "zh": "身兼平卢、范阳、河东三镇节度使、手握约十五万边防精兵的粟特—突厥裔将领安禄山，因与唐玄宗朝宰相杨国忠嫌隙日深，于天宝十四载十一月（755年12月）在范阳（今北京西南）诈称奉密诏讨杨，举兵南下。久疏战阵的中原州县望风瓦解，叛军踏冰渡河，月余即陷东都洛阳，翌年更破潼关入长安，引发持续八年（755—763）、彻底重塑唐代财政户籍与藩镇格局的“安史之乱”。"
+        },
+        "dateNote": {
+          "en": "Began on jiazi day, eleventh lunar month of Tianbao 14 (December 755 CE); rebellion ended under Shi Chaoyi in early 763.",
+          "zh": "起于天宝十四载十一月甲子（755年12月）；叛乱延续至763年初史朝义败亡。"
+        },
+        "relatedIds": [
+          "tang-dynasty",
+          "china-anshi-war-and-recovery-755",
+          "china-landmark-368"
+        ]
+      },
+      "note": {
+        "en": "Expanded stub against Jiu Tangshu 9 (Annals of Xuanzong) and Encyclopaedia Britannica, specifying the three frontier commands, eleventh-month 755 Fanyang outbreak, and 755–763 war span.",
+        "zh": "据《旧唐书·玄宗本纪下》扩充三镇节度兵权、天宝十四载十一月范阳起兵及755—763年战乱影响。"
+      },
+      "sources": [
+        {
+          "title": "An Lushan Rebellion",
+          "url": "https://www.britannica.com/event/An-Lushan-Rebellion",
+          "publisher": "Encyclopaedia Britannica",
+          "checkedAt": "2026-11-18",
+          "evidenceNote": "Verifies An Lushan’s northeastern frontier commands, December 755 uprising from Fanyang, rapid capture of Luoyang and Chang’an, and 755–763 institutional impact on Tang rule.",
+          "evidenceNoteZh": "核实安禄山东北边镇兵权、755年12月自范阳起兵、攻陷两京及755—763年战乱对唐廷制度的冲击。",
+          "retrieval": "Read the linked source directly; relevant chronology or object passage reviewed."
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-060",
+      "patch": {
+        "title": {
+          "en": "Mongol armies capture the abandoned Jurchen Jin capital of Zhongdu",
+          "zh": "蒙古军攻入迁都汴京后的金中都，北方都城格局剧变"
+        },
+        "summary": {
+          "en": "After Jurchen Jin Emperor Xuanzong agreed to a costly truce with Genghis Khan in 1214 and then abruptly moved the Jin court south from Zhongdu (modern southwestern Beijing) to Kaifeng (*Bianjing*) in fear of renewed encirclement, Genghis treated the withdrawal as a breach of peace and sent armies under Samuqa and defected Khitan-Jin commanders back to besiege the city. Starved through spring until cannibalism broke out inside the walls and relief convoys failed, Zhongdu’s remaining garrison commander Wanyan Chenghui took poison as Mongol forces entered in the fifth lunar month of 1215 (May–June), burning palaces whose ruins Kublai Khan later bypassed to build Dadu just to the northeast.",
+          "zh": "1214年金宣宗与成吉思汗议和退兵后，因惧蒙古军卷土重来，仓促率廷臣将都城自中都（今北京西南）南迁汴京（开封）。成吉思汗视南迁为背盟，遣撒木合与降蒙契丹、汉军将领再度合围中都；围困至1215年春城中粮绝，留守右丞相完颜承晖于五月城破之际仰药自尽，中都宫室毁于战火——半世纪后忽必烈遂在旧城东北另筑元大都。"
+        },
+        "dateNote": {
+          "en": "Fifth lunar month of Zhenyou 3 (May–June 1215 CE); Jin rule continued from Kaifeng and Caizhou until 1234.",
+          "zh": "金贞祐三年五月（1215年5—6月）中都陷落；南迁汴京的金朝延续至1234年蔡州破灭。"
+        },
+        "relatedIds": [
+          "jurchen-jin-dynasty",
+          "mongol-unified-phase",
+          "person-rabban-bar-sauma"
+        ]
+      },
+      "note": {
+        "en": "Expanded stub against Jinshi 14 (Annals of Xuanzong), clarifying that Genghis Khan himself was campaigning to the north while Samuqa’s forces took Zhongdu in May–June 1215 after Xuanzong’s 1214 relocation to Kaifeng.",
+        "zh": "据《金史·宣宗纪上》修正扩充：1214年金宣宗先南迁汴京，1215年五月由撒木合等统蒙古军攻陷中都（成吉思汗本人驻跸桓州凉泾），金朝则延续至1234年。"
+      },
+      "sources": [
+        {
+          "title": "Jinshi, Juan 14: Annals of Emperor Xuanzong Part I (宣宗纪上)",
+          "url": "https://ctext.org/wiki.pl?if=gb&chapter=541449",
+          "publisher": "Chinese Text Project (ctext.org)",
+          "checkedAt": "2026-11-18",
+          "evidenceNote": "Documents the 1214 court move from Zhongdu to Bianjing, siege starvation, Wanyan Chenghui’s death, and fall of Zhongdu in the fifth month of Zhenyou 3 (1215).",
+          "evidenceNoteZh": "记载1214年车驾南迁南京（汴京）、中都受围乏粮、完颜承晖死节及贞祐三年（1215年）五月中都失守。",
+          "retrieval": "Read the linked source directly; relevant chronology or object passage reviewed."
+        }
+      ]
     }
   ]
 }

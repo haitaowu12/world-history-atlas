@@ -1,6 +1,6 @@
 # Historical images: credits and reuse
 
-Reviewed 2026-11-14. 553 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
+Reviewed 2026-11-14. 605 images. Image-specific rights are separate from the atlas application and text licenses. Dates describe the depicted artwork, object, photograph or publication as indicated.
 
 Historical artifacts, surviving places and later depictions retain their source identities. No generated reconstructions are included in this catalogue.
 
@@ -4427,6 +4427,734 @@ Official source-served IIIF JPEG saved unchanged, including the mount and stereo
 The Getty object record explicitly provides this image under CC0 through its Open Content Program.
 
 Official source-served IIIF JPEG saved unchanged, including the mount and stereoscopic pairing where present.
+
+## Magdalenian bison molded onto ceiling bosses (full-scale replica) / 借岩顶凸起塑形的马格德林野牛（等比例复制顶棚）
+
+- File: global-stories-27-altamira-bison.jpg
+- Creator: Replica after Paleolithic artists of Altamira; photograph by HTO
+- Date: Original c. 14,500–12,000 BCE; museum photograph 2009
+- Collection: Moravian Museum (Anthropos Pavilion), Brno; Wikimedia Commons
+- Source: https://commons.wikimedia.org/wiki/File:Altamira,_bison,_museum.JPG
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Altamira,_bison,_museum.JPG
+
+Identified on the source page as a public-domain historical work or faithful reproduction; creator, date and collection provenance are retained.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recoloring or retouching.
+
+## Peat-sealed creek landscape at Monte Verde / 蒙特维德泥炭封存的溪谷遗址景观
+
+- File: global-stories-27-monte-verde.jpg
+- Creator: Rodolfo Ditzel Lacoa
+- Date: Photograph 2012 (site occupation c. 12,550 BCE)
+- Collection: Wikimedia Commons
+- Source: https://commons.wikimedia.org/wiki/File:Monte_Verde_3.JPG
+- Rights: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Monte_Verde_3.JPG
+
+Licensed under CC BY-SA 3.0 on Wikimedia Commons; photographer/creator attribution, license link and unchanged derivative notice are retained.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recoloring or retouching.
+
+## Pre-Pottery Neolithic stone tower at Tell es-Sultan / 苏丹丘前陶新石器时代石塔
+
+- File: global-stories-27-jericho-tower.jpg
+- Creator: Reinhard Dietrich
+- Date: Structure c. 8000 BCE; photograph 2005
+- Collection: Tell es-Sultan Archaeological Site; Wikimedia Commons
+- Source: https://commons.wikimedia.org/wiki/File:Tower_of_Jericho.jpg
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Tower_of_Jericho.jpg
+
+Identified on the source page as a public-domain historical work or faithful reproduction; creator, date and collection provenance are retained.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recoloring or retouching.
+
+## Nabta Playa megalithic ring reassembled in Aswan / 阿斯旺复原展出的纳布塔普拉亚巨石圈
+
+- File: global-stories-27-nabta-playa.jpg
+- Creator: Raymbetz
+- Date: Megaliths c. 4800 BCE; photograph 2010
+- Collection: Nubia Museum, Aswan; Wikimedia Commons
+- Source: https://commons.wikimedia.org/wiki/File:Calendar_aswan.JPG
+- Rights: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Calendar_aswan.JPG
+
+Licensed under CC BY-SA 3.0 on Wikimedia Commons; photographer/creator attribution, license link and unchanged derivative notice are retained.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recoloring or retouching.
+
+## Seven-hole crane-bone flute from Neolithic Jiahu / 贾湖新石器时代七孔鹤骨笛
+
+- File: global-stories-27-jiahu-flute.jpg
+- Creator: Unrecorded Jiahu craftsperson; photograph by Gary Lee Todd
+- Date: c. 7000–5700 BCE; photograph 2011
+- Collection: Henan Museum, Zhengzhou; Wikimedia Commons
+- Source: https://commons.wikimedia.org/wiki/File:Early_Peiligang_Culture_Bone_Flute,_Wuyang.jpg
+- Rights: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Early_Peiligang_Culture_Bone_Flute,_Wuyang.jpg
+
+Released into the public domain under Creative Commons CC0 1.0 on the source repository; creator and institutional provenance are retained.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recoloring or retouching.
+
+## Compartmented mudbrick storage architecture at Mehrgarh / 梅赫尔格尔分格泥砖仓储建筑遗迹
+
+- File: global-stories-27-mehrgarh-ruins.jpg
+- Creator: Ashish_Premier
+- Date: Structures c. 5500 BCE; photograph 2014
+- Collection: Mehrgarh Archaeological Site; Wikimedia Commons
+- Source: https://commons.wikimedia.org/wiki/File:Mehrgarh_ruins.jpg
+- Rights: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Mehrgarh_ruins.jpg
+
+Licensed under CC BY-SA 3.0 on Wikimedia Commons; photographer/creator attribution, license link and unchanged derivative notice are retained.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recoloring or retouching.
+
+## Copper Age gold regalia from the Varna Necropolis / 瓦尔纳墓地铜石并用时代黄金礼器
+
+- File: global-stories-27-varna-gold.jpg
+- Creator: Chalcolithic goldsmiths; photograph by CryolophosaurusEllioti
+- Date: c. 4600–4400 BCE; photograph 2022
+- Collection: Varna Archaeological Museum; Wikimedia Commons
+- Source: https://commons.wikimedia.org/wiki/File:Varna_Necropolis_Gold_Display.jpg
+- Rights: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Varna_Necropolis_Gold_Display.jpg
+
+Licensed under CC BY 4.0 on Wikimedia Commons; photographer/creator attribution, license link and unchanged derivative notice are retained.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recoloring or retouching.
+
+## Survey plan of Watson Brake’s eleven-mound oval / 沃森布雷克十一座土墩椭圆形布局测绘图
+
+- File: global-stories-27-watson-brake.png
+- Creator: Maximilian Dörrbecker (Chumwa)
+- Date: 2009 plan (earthworks c. 3500–3000 BCE)
+- Collection: Wikimedia Commons
+- Source: https://commons.wikimedia.org/wiki/File:Watson_Brake_Mounds_-_Map.png
+- Rights: CC BY-SA 2.5 (https://creativecommons.org/licenses/by-sa/2.5)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Watson_Brake_Mounds_-_Map.png
+
+Licensed under CC BY-SA 2.5 on Wikimedia Commons; photographer/creator attribution, license link and unchanged derivative notice are retained.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recoloring or retouching.
+
+## Masonry wall of Ayn Zubayda aqueduct near Mecca / 麦加近郊祖拜达泉引水渠石砌渠墙
+
+- File: global-stories-27-zubayda-canal.jpg
+- Creator: Mominzed
+- Date: Aqueduct endowed c. 809 CE; photograph 2016
+- Collection: Wikimedia Commons
+- Source: https://commons.wikimedia.org/wiki/File:Wall_of_Canal_of_Zubaidah_in_Makkah.jpg
+- Rights: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Wall_of_Canal_of_Zubaidah_in_Makkah.jpg
+
+Licensed under CC BY-SA 4.0 on Wikimedia Commons; photographer/creator attribution, license link and unchanged derivative notice are retained.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recoloring or retouching.
+
+## Early modern printed edition of Benjamin of Tudela’s Itinerary / 本雅明《游记》近代早期印本扉页
+
+- File: global-stories-27-benjamin-tudela.jpg
+- Creator: Printed in Amsterdam after Benjamin of Tudela and Menasseh ben Israel
+- Date: 1666 (text composed c. 1173)
+- Collection: Wikimedia Commons
+- Source: https://commons.wikimedia.org/wiki/File:Frontispiece_of_The_Hope_of_Israel_and_the_The_Itinerary_of_Benjamin_of_Tudela.jpg
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Frontispiece_of_The_Hope_of_Israel_and_the_The_Itinerary_of_Benjamin_of_Tudela.jpg
+
+Identified on the source page as a public-domain historical work or faithful reproduction; creator, date and collection provenance are retained.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recoloring or retouching.
+
+## Ilkhan Arghun’s 1289 Mongol letter to Philip IV of France / 1289年伊儿汗阿鲁浑致法王腓力四世畏兀儿体蒙古文国书
+
+- File: global-stories-27-arghun-letter-1289.jpg
+- Creator: Chancery of Ilkhan Arghun
+- Date: 1289
+- Collection: Archives Nationales, Paris; Wikimedia Commons
+- Source: https://commons.wikimedia.org/wiki/File:ArghunLetterToPhilippeLeBelExtract1289.jpg
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:ArghunLetterToPhilippeLeBelExtract1289.jpg
+
+Identified on the source page as a public-domain historical work or faithful reproduction; creator, date and collection provenance are retained.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recoloring or retouching.
+
+## 1554 printed edition of Leo Africanus’s Geography of Africa / 1554年印本利奥·阿非利加努斯《非洲志》扉页
+
+- File: global-stories-27-leo-africanus-1554.jpg
+- Creator: al-Hasan ibn Muhammad al-Wazzan (Leo Africanus); edition after Giovanni Battista Ramusio
+- Date: 1554 (manuscript completed 1526)
+- Collection: Wikimedia Commons
+- Source: https://commons.wikimedia.org/wiki/File:LeoAfricanus-GeoHistorieAfrica-1554.jpg
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:LeoAfricanus-GeoHistorieAfrica-1554.jpg
+
+Identified on the source page as a public-domain historical work or faithful reproduction; creator, date and collection provenance are retained.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recoloring or retouching.
+
+## Portrait of Malik Ambar by the Mughal court painter Hashim / 莫卧儿宫廷画师哈希姆绘《马利克·安巴尔像》
+
+- File: global-stories-27-malik-ambar-hashim.jpg
+- Creator: Hashim
+- Date: c. 1620
+- Collection: Victoria and Albert Museum, London; Wikimedia Commons
+- Source: https://commons.wikimedia.org/wiki/File:Malik_amber_ahmadnager_hi.jpg
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Malik_amber_ahmadnager_hi.jpg
+
+Identified on the source page as a public-domain historical work or faithful reproduction; creator, date and collection provenance are retained.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recoloring or retouching.
+
+## Bronze equestrian monument to Gabriela Silang in Manila / 马尼拉加布里埃拉·西朗青铜骑马纪念像
+
+- File: global-stories-27-gabriela-silang.jpg
+- Creator: Sculpture by José M. Mendoza (1971); photograph by Ralff Nestor Nacor
+- Date: Sculpture 1971; photograph 2022
+- Collection: Ayala Triangle Gardens, Makati; Wikimedia Commons
+- Source: https://commons.wikimedia.org/wiki/File:Gabriela_Silang_Monument_(cropped).jpg
+- Rights: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Gabriela_Silang_Monument_(cropped).jpg
+
+Licensed under CC BY-SA 4.0 on Wikimedia Commons; photographer/creator attribution, license link and unchanged derivative notice are retained.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recoloring or retouching.
+
+## 1789 frontispiece portrait of Olaudah Equiano / 1789年《奥劳达·埃奎亚诺自传》卷首肖像
+
+- File: global-stories-27-olaudah-equiano-1789.jpg
+- Creator: Daniel Orme, after William Denton
+- Date: 1789
+- Collection: British Library, London; Wikimedia Commons
+- Source: https://commons.wikimedia.org/wiki/File:Olaudah_Equiano_-_The_interesting_Narrative_of_the_Life_of_Olaudah_Equiano_(1789),_frontispiece_-_BL.jpg
+- Rights: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Olaudah_Equiano_-_The_interesting_Narrative_of_the_Life_of_Olaudah_Equiano_(1789),_frontispiece_-_BL.jpg
+
+Released into the public domain under Creative Commons CC0 1.0 on the source repository; creator and institutional provenance are retained.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recoloring or retouching.
+
+## Oil portrait study of Mai (Omai) by Joshua Reynolds / 约书亚·雷诺兹绘《迈（奥迈）油画肖像习作》
+
+- File: global-stories-27-omai-reynolds.jpg
+- Creator: Joshua Reynolds
+- Date: c. 1775–1776
+- Collection: Yale University Art Gallery; Wikimedia Commons
+- Source: https://commons.wikimedia.org/wiki/File:Sir_Joshua_Reynolds_-_Omai_-_1936.128_-_Yale_University_Art_Gallery.jpg
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Sir_Joshua_Reynolds_-_Omai_-_1936.128_-_Yale_University_Art_Gallery.jpg
+
+Identified on the source page as a public-domain historical work or faithful reproduction; creator, date and collection provenance are retained.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recoloring or retouching.
+
+## Lithographed Jawi page from the 1849 Hikayat Abdullah / 1849年石印本爪夷文《阿都拉传》书页
+
+- File: global-stories-27-hikayat-abdullah.jpg
+- Creator: Abdullah bin Abdul Kadir (Munshi Abdullah); Mission Press, Singapore
+- Date: 1849
+- Collection: National Library Board, Singapore; Wikimedia Commons
+- Source: https://commons.wikimedia.org/wiki/File:Hikayat_Abdullah.jpg
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Hikayat_Abdullah.jpg
+
+Identified on the source page as a public-domain historical work or faithful reproduction; creator, date and collection provenance are retained.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recoloring or retouching.
+
+## Studio portrait photograph of the abolitionist jurist Luiz Gama / 废奴主义法学家路易斯·伽马照相肖像
+
+- File: global-stories-27-luiz-gama.jpg
+- Creator: Unrecorded Brazilian photographer
+- Date: c. 1870–1880
+- Collection: Arquivo Nacional do Brasil; Wikimedia Commons
+- Source: https://commons.wikimedia.org/wiki/File:Luiz_Gama_perfil.jpg
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Luiz_Gama_perfil.jpg
+
+Identified on the source page as a public-domain historical work or faithful reproduction; creator, date and collection provenance are retained.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recoloring or retouching.
+
+## Sketch of Te Whiti o Rongomai arrested at Parihaka, 5 November 1881 / 1881年11月5日蒂怀蒂在帕里哈卡被捕写生图
+
+- File: global-stories-27-te-whiti-1881.jpg
+- Creator: George Sherriff
+- Date: 1881
+- Collection: Alexander Turnbull Library / Wikimedia Commons
+- Source: https://commons.wikimedia.org/wiki/File:Whiti.jpg
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Whiti.jpg
+
+Identified on the source page as a public-domain historical work or faithful reproduction; creator, date and collection provenance are retained.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recoloring or retouching.
+
+## Press photograph of Cornelia Sorabji in 1924 / 1924年科妮莉亚·索拉布吉新闻摄影肖像
+
+- File: global-stories-27-cornelia-sorabji-1924.jpg
+- Creator: Agence Rol
+- Date: 1924
+- Collection: Bibliothèque nationale de France (Gallica); Wikimedia Commons
+- Source: https://commons.wikimedia.org/wiki/File:Cornelia_Sorabji_at_the_1924_Braemar_Gathering.jpg
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Cornelia_Sorabji_at_the_1924_Braemar_Gathering.jpg
+
+Identified on the source page as a public-domain historical work or faithful reproduction; creator, date and collection provenance are retained.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recoloring or retouching.
+
+## High-relief predator carved on Pillar 27 at Göbekli Tepe / 哥贝克力石阵27号石柱高浮雕掠食兽像
+
+- File: global-stories-27-gobekli-tepe-pillar.jpg
+- Creator: Pre-Pottery Neolithic sculptors; photograph by Kerimove
+- Date: c. 9500–8200 BCE; photograph 2020
+- Collection: Göbekli Tepe Archaeological Site; Wikimedia Commons
+- Source: https://commons.wikimedia.org/wiki/File:G%C3%B6bekli_Tepe_Enclosure_C_Pillar_27_relief.jpg
+- Rights: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:G%C3%B6bekli_Tepe_Enclosure_C_Pillar_27_relief.jpg
+
+Released into the public domain under Creative Commons CC0 1.0 on the source repository; creator and institutional provenance are retained.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recoloring or retouching.
+
+## Clustered mudbrick house platforms under the Çatalhöyük shelter / 恰塔霍裕克保护棚下密集毗连的泥砖房址
+
+- File: global-stories-27-catalhoyuk-houses.jpg
+- Creator: Murat Özsoy 1958
+- Date: Settlement c. 7400–6200 BCE; photograph 2020
+- Collection: Çatalhöyük Archaeological Site; Wikimedia Commons
+- Source: https://commons.wikimedia.org/wiki/File:%C3%87atalh%C3%B6y%C3%BCk,_7400_BC,_Konya,_Turkey_-_UNESCO_World_Heritage_Site,_02.jpg
+- Rights: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:%C3%87atalh%C3%B6y%C3%BCk,_7400_BC,_Konya,_Turkey_-_UNESCO_World_Heritage_Site,_02.jpg
+
+Licensed under CC BY-SA 4.0 on Wikimedia Commons; photographer/creator attribution, license link and unchanged derivative notice are retained.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recoloring or retouching.
+
+## Babylonian cuneiform foundation cylinder of Cyrus II / 居鲁士二世巴比伦楔形文字泥柱铭文
+
+- File: global-stories-27-cyrus-cylinder.jpg
+- Creator: Babylonian royal scribes under Cyrus II; photograph by Mike Peel
+- Date: c. 539–538 BCE; photograph 2013
+- Collection: British Museum, London; Wikimedia Commons
+- Source: https://commons.wikimedia.org/wiki/File:Cyrus_Cylinder.jpg
+- Rights: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Cyrus_Cylinder.jpg
+
+Licensed under CC BY-SA 4.0 on Wikimedia Commons; photographer/creator attribution, license link and unchanged derivative notice are retained.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recoloring or retouching.
+
+## Neo-Assyrian Flood Tablet of the Epic of Gilgamesh from Nineveh / 尼尼微出土新亚述《吉尔伽美什史诗》洪水泥板
+
+- File: global-stories-27-nineveh-flood-tablet.jpg
+- Creator: Nineveh royal scribes; British Museum photograph
+- Date: 7th century BCE
+- Collection: British Museum, London; Wikimedia Commons
+- Source: https://commons.wikimedia.org/wiki/File:British_Museum_Flood_Tablet.jpg
+- Rights: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:British_Museum_Flood_Tablet.jpg
+
+Released into the public domain under Creative Commons CC0 1.0 on the source repository; creator and institutional provenance are retained.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recoloring or retouching.
+
+## Stele from Ras Shamra inscribed in Ugaritic alphabetic cuneiform / 拉斯沙姆拉出土乌加里特字母楔形文字献祭碑
+
+- File: global-stories-27-ugarit-dagan-stele.jpg
+- Creator: Ugaritic stonecarver; photograph by Zunkir
+- Date: c. 1400–1200 BCE; photograph 2018
+- Collection: Musée du Louvre, Paris; Wikimedia Commons
+- Source: https://commons.wikimedia.org/wiki/File:Stele_dedicace_Dagan_Ras_Shamra_AO19931.jpg
+- Rights: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Stele_dedicace_Dagan_Ras_Shamra_AO19931.jpg
+
+Licensed under CC BY-SA 4.0 on Wikimedia Commons; photographer/creator attribution, license link and unchanged derivative notice are retained.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recoloring or retouching.
+
+## Inscribed Shang dynasty ox-scapula oracle bone from Anyang / 安阳殷墟出土商代刻辞牛肩胛卜骨
+
+- File: global-stories-27-yin-xu-oracle-bone.jpg
+- Creator: Late Shang royal diviners; photograph by Gary Lee Todd
+- Date: c. 1250–1046 BCE; photograph 2011
+- Collection: Yin Ruins Museum, Anyang; Wikimedia Commons
+- Source: https://commons.wikimedia.org/wiki/File:Shang_Ox_Bone_Oracle_Bone_03.jpg
+- Rights: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Shang_Ox_Bone_Oracle_Bone_03.jpg
+
+Released into the public domain under Creative Commons CC0 1.0 on the source repository; creator and institutional provenance are retained.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recoloring or retouching.
+
+## Woodblock frontispiece of the 868 CE Dunhuang Diamond Sutra / 868年敦煌雕版印本《金刚经》扉画
+
+- File: global-stories-27-diamond-sutra-868.jpg
+- Creator: Commissioned by Wang Jie; woodblock carver unrecorded
+- Date: 11 May 868 (Xiantong 9)
+- Collection: British Library, London; Wikimedia Commons
+- Source: https://commons.wikimedia.org/wiki/File:Jingangjing.jpg
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Jingangjing.jpg
+
+Identified on the source page as a public-domain historical work or faithful reproduction; creator, date and collection provenance are retained.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recoloring or retouching.
+
+## Opening page of the 1446 Hunminjeongeum Haerye / 1446年《训民正音解例本》卷首书页
+
+- File: global-stories-27-hunminjeongeum.jpg
+- Creator: King Sejong and scholars of the Hall of Worthies (Jiphyeonjeon)
+- Date: 1446
+- Collection: Kansong Art Museum, Seoul; Wikimedia Commons
+- Source: https://commons.wikimedia.org/wiki/File:Hunminjeongum.jpg
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Hunminjeongum.jpg
+
+Identified on the source page as a public-domain historical work or faithful reproduction; creator, date and collection provenance are retained.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recoloring or retouching.
+
+## White-plastered main keep and defensive baileys of Himeji Castle / 姬路城白灰浆大天守与连立式曲轮群
+
+- File: global-stories-27-himeji-castle.jpg
+- Creator: Bernard Gagnon
+- Date: Keep rebuilt 1601–1609; photograph 2007
+- Collection: Himeji Castle; Wikimedia Commons
+- Source: https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_de_Himeji02.jpg
+- Rights: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_de_Himeji02.jpg
+
+Licensed under CC BY-SA 3.0 on Wikimedia Commons; photographer/creator attribution, license link and unchanged derivative notice are retained.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recoloring or retouching.
+
+## Golden Hall and five-story wooden pagoda at Hōryū-ji / 法隆寺西院金堂与五重木塔
+
+- File: global-stories-27-horyuji-precinct.jpg
+- Creator: Martin Falbisoner
+- Date: Precinct rebuilt late 7th century; photograph 2016
+- Collection: Hōryū-ji, Nara; Wikimedia Commons
+- Source: https://commons.wikimedia.org/wiki/File:Horyu-ji,_November_2016.jpg
+- Rights: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Horyu-ji,_November_2016.jpg
+
+Licensed under CC BY-SA 4.0 on Wikimedia Commons; photographer/creator attribution, license link and unchanged derivative notice are retained.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recoloring or retouching.
+
+## Venus astronomical table page from the Maya Dresden Codex / 玛雅《德累斯顿抄本》金星历算表书页
+
+- File: global-stories-27-dresden-codex.jpg
+- Creator: Postclassic Yucatec Maya scribe-astronomers
+- Date: c. 1200–1450
+- Collection: Saxon State and University Library Dresden (SLUB); Wikimedia Commons
+- Source: https://commons.wikimedia.org/wiki/File:Dresden_codex,_page_2.jpg
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Dresden_codex,_page_2.jpg
+
+Identified on the source page as a public-domain historical work or faithful reproduction; creator, date and collection provenance are retained.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recoloring or retouching.
+
+## Illuminated parchment of Brazil’s 1888 Lei Áurea (Golden Law) / 1888年巴西废除奴隶制《黄金法》彩饰羊皮纸原件
+
+- File: global-stories-27-lei-aurea-1888.jpg
+- Creator: Imperial Chancery of Brazil; signed by Princess Isabel and Rodrigo Augusto da Silva
+- Date: 13 May 1888
+- Collection: Arquivo Nacional do Brasil, Rio de Janeiro; Wikimedia Commons
+- Source: https://commons.wikimedia.org/wiki/File:Lei_%C3%81urea_arquivo_nacional.jpg
+- Rights: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Lei_%C3%81urea_arquivo_nacional.jpg
+
+Released into the public domain under Creative Commons CC0 1.0 on the source repository; creator and institutional provenance are retained.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recoloring or retouching.
+
+## First European woodcut of the silver mountain of Potosí (1553) / 1553年欧洲首幅波托西银山木刻版画
+
+- File: global-stories-27-potosi-1553.jpg
+- Creator: Pedro Cieza de León (author); Seville woodcut workshop
+- Date: 1553
+- Collection: Wikimedia Commons
+- Source: https://commons.wikimedia.org/wiki/File:Cerro_de_Potos%C3%AD._Grabado_en_madera,_del_libro_Cr%C3%B3nica_del_Per%C3%BA,_1552,_de_Pedro_Cieza_de_Le%C3%B3n.jpg
+- Rights: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Cerro_de_Potos%C3%AD._Grabado_en_madera,_del_libro_Cr%C3%B3nica_del_Per%C3%BA,_1552,_de_Pedro_Cieza_de_Le%C3%B3n.jpg
+
+Licensed under CC BY-SA 4.0 on Wikimedia Commons; photographer/creator attribution, license link and unchanged derivative notice are retained.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recoloring or retouching.
+
+## Aerial view of the Hummingbird geoglyph on the Nasca pampa / 纳斯卡荒原蜂鸟巨画航拍图
+
+- File: global-stories-27-nasca-hummingbird.jpg
+- Creator: Nasca builders; aerial photograph by Diego Delso
+- Date: Geoglyph c. 200 BCE–600 CE; photograph 2015
+- Collection: Nasca Lines World Heritage Site; Wikimedia Commons
+- Source: https://commons.wikimedia.org/wiki/File:L%C3%ADneas_de_Nazca,_Nazca,_Per%C3%BA,_2015-07-29,_DD_52.JPG
+- Rights: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:L%C3%ADneas_de_Nazca,_Nazca,_Per%C3%BA,_2015-07-29,_DD_52.JPG
+
+Licensed under CC BY-SA 4.0 on Wikimedia Commons; photographer/creator attribution, license link and unchanged derivative notice are retained.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recoloring or retouching.
+
+## Stone-paved highland causeway of the Andean Qhapaq Ñan / 安第斯印加王道石铺高山路段
+
+- File: global-stories-27-qhapaq-nan.jpg
+- Creator: Andean and Inca road engineers; photograph by Laurent Granier
+- Date: Pre-1532 road network; photograph 2008
+- Collection: Wikimedia Commons
+- Source: https://commons.wikimedia.org/wiki/File:Qhapaq_%C3%B1an_Grande_route_inca.jpg
+- Rights: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Qhapaq_%C3%B1an_Grande_route_inca.jpg
+
+Licensed under CC BY-SA 3.0 on Wikimedia Commons; photographer/creator attribution, license link and unchanged derivative notice are retained.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recoloring or retouching.
+
+## Indigenous clan-mark ratifications on the 1701 Great Peace of Montreal / 1701年《蒙特利尔大和平条约》原住民氏族图腾画押页
+
+- File: global-stories-27-great-peace-montreal-1701.jpg
+- Creator: Envoys of 39 Indigenous nations and Governor Louis-Hector de Callière
+- Date: 4 August 1701
+- Collection: Archives nationales d’outre-mer, Aix-en-Provence; Wikimedia Commons
+- Source: https://commons.wikimedia.org/wiki/File:1701-08-04_Ratification_de_la_Grande_Paix_de_Montr%C3%A9al_page_07.jpg
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:1701-08-04_Ratification_de_la_Grande_Paix_de_Montr%C3%A9al_page_07.jpg
+
+Identified on the source page as a public-domain historical work or faithful reproduction; creator, date and collection provenance are retained.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recoloring or retouching.
+
+## Gustaf Nordenskiöld’s 1891 photograph of Cliff Palace, Mesa Verde / 1891年诺登舍尔德拍摄的梅萨维德悬崖宫殿历史照片
+
+- File: global-stories-27-mesa-verde-1891.jpg
+- Creator: Gustaf Nordenskiöld
+- Date: Photograph 1891 (architecture c. 1190–1260)
+- Collection: Finnish Heritage Agency / Wikimedia Commons
+- Source: https://commons.wikimedia.org/wiki/File:Mesa-Verde---Cliff-Palace-in_1891_-_edit1.jpg
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Mesa-Verde---Cliff-Palace-in_1891_-_edit1.jpg
+
+Identified on the source page as a public-domain historical work or faithful reproduction; creator, date and collection provenance are retained.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recoloring or retouching.
+
+## Driving the Last Spike at Craigellachie, 7 November 1885 / 1885年11月7日克雷格拉希“最后一颗道钉”合龙历史照片
+
+- File: global-stories-27-cpr-last-spike-1885.jpg
+- Creator: Alexander Ross
+- Date: 7 November 1885
+- Collection: Library and Archives Canada; Wikimedia Commons
+- Source: https://commons.wikimedia.org/wiki/File:Donald_A._Smith_driving_the_Last_Spike_to_complete_the_Canadian_Pacific_Railway,_1885.jpg
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Donald_A._Smith_driving_the_Last_Spike_to_complete_the_Canadian_Pacific_Railway,_1885.jpg
+
+Identified on the source page as a public-domain historical work or faithful reproduction; creator, date and collection provenance are retained.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recoloring or retouching.
+
+## James Webb Space Telescope’s First Deep Field (SMACS 0723) / 詹姆斯·韦布空间望远镜首幅深场红外图像（SMACS 0723）
+
+- File: global-stories-27-webb-deep-field-2022.jpg
+- Creator: NASA, ESA, CSA, and STScI
+- Date: July 2022 (captured June 2022)
+- Collection: Space Telescope Science Institute (STScI); Wikimedia Commons
+- Source: https://commons.wikimedia.org/wiki/File:Webb%27s_First_Deep_Field.jpg
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Webb%27s_First_Deep_Field.jpg
+
+Identified on the source page as a public-domain historical work or faithful reproduction; creator, date and collection provenance are retained.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recoloring or retouching.
+
+## Cambridgeshire parchment folio from Great Domesday Book (1086) / 1086年《末日审判书》剑桥郡羊皮纸书页
+
+- File: global-stories-27-domesday-1086.png
+- Creator: Royal Exchequer scribe under William I
+- Date: 1086
+- Collection: The National Archives, United Kingdom; Wikimedia Commons
+- Source: https://commons.wikimedia.org/wiki/File:Domesday_Book,_Cambridgeshire,_page_21.png
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Domesday_Book,_Cambridgeshire,_page_21.png
+
+Identified on the source page as a public-domain historical work or faithful reproduction; creator, date and collection provenance are retained.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recoloring or retouching.
+
+## Octagonal interior arcade of Charlemagne’s Palatine Chapel at Aachen / 亚琛查理大帝宫廷礼拜堂八角形内殿拱廊
+
+- File: global-stories-27-aachen-chapel.jpg
+- Creator: Odo of Metz (architect, c. 792–805); photograph by Vassil
+- Date: Chapel c. 792–805; photograph 2016
+- Collection: Aachen Cathedral; Wikimedia Commons
+- Source: https://commons.wikimedia.org/wiki/File:Aachen_Palatine_Chapel_24092016_02.jpg
+- Rights: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Aachen_Palatine_Chapel_24092016_02.jpg
+
+Released into the public domain under Creative Commons CC0 1.0 on the source repository; creator and institutional provenance are retained.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recoloring or retouching.
+
+## Tim Berners-Lee’s NeXTcube — the world’s first web server at CERN / 欧洲核子研究中心蒂姆·伯纳斯-李首台万维网服务器（NeXTcube）
+
+- File: global-stories-27-cern-next-server.jpg
+- Creator: NeXT Inc. hardware used by Tim Berners-Lee; photograph by Zuzanna K. Filutowska
+- Date: Server deployed 1990; photograph 2009
+- Collection: CERN, Meyrin / Geneva; Wikimedia Commons
+- Source: https://commons.wikimedia.org/wiki/File:First-server-cern-computer-center.jpg
+- Rights: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:First-server-cern-computer-center.jpg
+
+Licensed under CC BY-SA 3.0 on Wikimedia Commons; photographer/creator attribution, license link and unchanged derivative notice are retained.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recoloring or retouching.
+
+## Mohandas Gandhi striding toward Dandi on the March 1930 Salt March / 1930年3月甘地率众徒步前往丹迪开展食盐进军
+
+- File: global-stories-27-dandi-salt-march-1930.jpg
+- Creator: Unrecorded Indian press photographer
+- Date: March 1930
+- Collection: Wikimedia Commons
+- Source: https://commons.wikimedia.org/wiki/File:Marche_sel.jpg
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Marche_sel.jpg
+
+Identified on the source page as a public-domain historical work or faithful reproduction; creator, date and collection provenance are retained.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recoloring or retouching.
+
+## Calligraphed and illuminated Preamble of the Constitution of India / 手书彩饰本《印度宪法》序言页
+
+- File: global-stories-27-india-constitution-1950.jpg
+- Creator: Calligraphy by Prem Behari Narain Raizada; illumination by Beohar Rammanohar Sinha
+- Date: 1949–1950
+- Collection: Parliament Museum, New Delhi; Wikimedia Commons
+- Source: https://commons.wikimedia.org/wiki/File:Constitution_of_India.jpg
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Constitution_of_India.jpg
+
+Identified on the source page as a public-domain historical work or faithful reproduction; creator, date and collection provenance are retained.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recoloring or retouching.
+
+## Pyramidal mudbrick Tomb of Askia Muhammad I at Gao / 高奥阿斯基亚·穆罕默德一世金字塔形泥砖陵寝
+
+- File: global-stories-27-askia-tomb-gao.jpg
+- Creator: Songhai royal builders; photograph by Taguelmoust
+- Date: Built c. 1495; photograph 2006
+- Collection: Tomb of Askia, Gao; Wikimedia Commons
+- Source: https://commons.wikimedia.org/wiki/File:Askia.jpg
+- Rights: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Askia.jpg
+
+Licensed under CC BY-SA 3.0 on Wikimedia Commons; photographer/creator attribution, license link and unchanged derivative notice are retained.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recoloring or retouching.
+
+## Ethiopian painting of the 1896 Battle of Adwa / 描绘1896年阿杜瓦战役的埃塞俄比亚传统绘画
+
+- File: global-stories-27-battle-of-adwa.png
+- Creator: Unrecorded Ethiopian painter
+- Date: Early 20th century (depicting 1 March 1896)
+- Collection: Wikimedia Commons
+- Source: https://commons.wikimedia.org/wiki/File:Battle_of_Adwa_2.png
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Battle_of_Adwa_2.png
+
+Identified on the source page as a public-domain historical work or faithful reproduction; creator, date and collection provenance are retained.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recoloring or retouching.
+
+## Plenary hall of the Asian–African Conference at Bandung, April 1955 / 1955年4月万隆亚非会议全体会议大厅历史照片
+
+- File: global-stories-27-bandung-1955.jpg
+- Creator: Conference press photographer
+- Date: April 1955
+- Collection: National Archives of Indonesia / Wikimedia Commons
+- Source: https://commons.wikimedia.org/wiki/File:Asian%E2%80%93African_Conference_at_Bandung_April_1955.jpg
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Asian%E2%80%93African_Conference_at_Bandung_April_1955.jpg
+
+Identified on the source page as a public-domain historical work or faithful reproduction; creator, date and collection provenance are retained.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recoloring or retouching.
+
+## Brick prang towers of Wat Chaiwatthanaram at Ayutthaya / 阿瑜陀耶柴瓦塔那兰寺红砖高棉式佛塔群
+
+- File: global-stories-27-ayutthaya-wat-chaiwatthanaram.jpg
+- Creator: Evilarry
+- Date: Temple built 1630; photograph 2004
+- Collection: Ayutthaya Historical Park; Wikimedia Commons
+- Source: https://commons.wikimedia.org/wiki/File:Ayutthaya_Thailand_2004.jpg
+- Rights: Public domain (https://creativecommons.org/publicdomain/mark/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Ayutthaya_Thailand_2004.jpg
+
+Identified on the source page as a public-domain historical work or faithful reproduction; creator, date and collection provenance are retained.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recoloring or retouching.
+
+## 1835 Māori text and rangatira signatures of He Whakaputanga / 1835年毛利文《纽西兰独立宣言》原件与酋长画押页
+
+- File: global-stories-27-he-whakaputanga-1835.jpg
+- Creator: Rangatira of Te Wakaminenga (United Tribes), scribed with Henry Williams and James Busby
+- Date: 28 October 1835 (and subsequent signings to 1839)
+- Collection: Archives New Zealand Te Rua Mahara o te Kāwanatanga; Wikimedia Commons
+- Source: https://commons.wikimedia.org/wiki/File:He_Wakaputanga_(Whakaputanga)_o_te_Rangatiratanga_o_Nu_Tireni_-_The_Declaration_of_Independence_of_the_United_Tribes_of_New_Zealand_pg1.jpg
+- Rights: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:He_Wakaputanga_(Whakaputanga)_o_te_Rangatiratanga_o_Nu_Tireni_-_The_Declaration_of_Independence_of_the_United_Tribes_of_New_Zealand_pg1.jpg
+
+Licensed under CC BY 2.0 on Wikimedia Commons; photographer/creator attribution, license link and unchanged derivative notice are retained.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recoloring or retouching.
+
+## Double-hulled voyaging canoe Hōkūleʻa returning in 1976 / 1976年双体远洋航海独木舟“霍库莱阿号”首航归来
+
+- File: global-stories-27-hokulea-1976.jpg
+- Creator: Phil Uhl
+- Date: 26 August 1976
+- Collection: Polynesian Voyaging Society / Wikimedia Commons
+- Source: https://commons.wikimedia.org/wiki/File:Hokule%27a.jpg
+- Rights: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Hokule%27a.jpg
+
+Licensed under CC BY-SA 3.0 on Wikimedia Commons; photographer/creator attribution, license link and unchanged derivative notice are retained.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recoloring or retouching.
+
+## Basalt courtyard and upright ahu slabs of Marae Taputapuātea / 赖阿特阿岛塔普塔普阿泰亚祭祀广场玄武岩立石
+
+- File: global-stories-27-taputapuatea-marae.jpg
+- Creator: Michel-Georges Bernard
+- Date: Photograph 2000 (marae expanded 14th–18th centuries)
+- Collection: Taputapuātea Cultural Landscape; Wikimedia Commons
+- Source: https://commons.wikimedia.org/wiki/File:Marae,_Raiatea_2.jpg
+- Rights: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Marae,_Raiatea_2.jpg
+
+Licensed under CC BY-SA 3.0 on Wikimedia Commons; photographer/creator attribution, license link and unchanged derivative notice are retained.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recoloring or retouching.
+
+## Volcanic crater lake and basalt wetlands of Budj Bim Country / 布吉必姆火山口湖与玄武岩湿地景观
+
+- File: global-stories-27-budj-bim.jpg
+- Creator: Dhx1
+- Date: Photograph 2009 (aquaculture system from c. 4600 BCE)
+- Collection: Budj Bim Cultural Landscape; Wikimedia Commons
+- Source: https://commons.wikimedia.org/wiki/File:Budj_Bim_%E2%80%90_Mt_Eccles_National_Park,_Victoria,_Australia_39.jpg
+- Rights: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+- Rights evidence: https://commons.wikimedia.org/wiki/File:Budj_Bim_%E2%80%90_Mt_Eccles_National_Park,_Victoria,_Australia_39.jpg
+
+Released into the public domain under Creative Commons CC0 1.0 on the source repository; creator and institutional provenance are retained.
+
+Source image or source-generated thumbnail saved unchanged; no local cropping, recoloring or retouching.
 
 ## A French Arch for Federation / 联邦庆典中的法国拱门
 
