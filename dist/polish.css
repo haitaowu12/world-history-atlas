@@ -26,10 +26,10 @@ button,a,input,select { -webkit-tap-highlight-color:transparent; }
 #reading-results .reading-featured { grid-template-columns:repeat(3,minmax(0,1fr)); gap:22px; }
 #reading-results .reading-featured .reading-card { padding-top:12px; }
 .reading-map { width:100%; height:auto; max-height:94px; margin:0 0 14px; overflow:visible; }
-.reading-map-sphere { fill:#f1f5f8; stroke:#d5dfe8; stroke-width:.7; }
-.reading-map-land { fill:#d9e4eb; stroke:#bacbd7; stroke-width:.3; }
-.reading-map-halo { fill:#b88943; opacity:.18; }
-.reading-map-point { fill:#275e91; stroke:#fff; stroke-width:.65; }
+.reading-map-sphere { fill:var(--sea,#e9eff1); stroke:var(--line,#c6d1d4); stroke-width:.7; }
+.reading-map-land { fill:var(--land,#f2f4f3); stroke:#b3c2c8; stroke-width:.35; }
+.reading-map-halo { fill:var(--accent,#b53c2d); opacity:.16; }
+.reading-map-point { fill:var(--accent,#b53c2d); stroke:#fff; stroke-width:.65; }
 .reading-featured .reading-card strong { font-size:20px; }
 .reading-featured .reading-card p { margin:12px 0 16px; }
 .reading-featured .reading-card small { margin-top:auto; }

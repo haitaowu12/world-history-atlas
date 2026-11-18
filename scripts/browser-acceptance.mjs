@@ -12,16 +12,19 @@ const output=path.resolve(process.env.ATLAS_BROWSER_OUTPUT||path.join(root,'brow
 fs.mkdirSync(output,{recursive:true});
 const modulePath=process.env.ATLAS_PLAYWRIGHT_PATH;
 const {chromium}=await import(modulePath?pathToFileURL(modulePath).href:'playwright-core');
-const server=spawn('python3',['scripts/serve.py','--port','8080'],{cwd:root,stdio:['ignore','ignore','pipe']});
+const port=String(process.env.ATLAS_ACCEPTANCE_PORT||'8080');
+const server=spawn('python3',['scripts/serve.py','--port',port],{cwd:root,stdio:['ignore','ignore','pipe']});
 let serverError='';server.stderr.on('data',data=>{serverError+=data;});
-const base='http://127.0.0.1:8080/';
+const base=`http://127.0.0.1:${port}/`;
 let browser;
 const evidence={startedAt:new Date().toISOString(),checks:[],browser:null};
 const read=file=>JSON.parse(fs.readFileSync(path.join(root,'dist/data',file),'utf8'));
 const manifest=read(CONTENT_MANIFEST);
 const media=read(manifest.mediaFile||'history-media.json');
+const allCourses=[...read('courses.json'),...read(manifest.coursesFile)];
 const priorCourses=new Set(read(read(manifest.baseline.manifest).coursesFile).map(course=>course.id));
-const readings=read(manifest.coursesFile).filter(course=>!priorCourses.has(course.id));
+const deltaCourses=read(manifest.coursesFile).filter(course=>!priorCourses.has(course.id));
+const readings=deltaCourses.length?deltaCourses:allCourses.filter(course=>['course-anshi-witnesses','course-objects-across-time','course-everyday-writing'].includes(course.id));
 const mark=(name,details={})=>{evidence.checks.push({name,status:'passed',...details});console.log('PASS '+name);};
 
 try{
@@ -42,7 +45,7 @@ try{
   const goto=async hash=>{
     if(await page.locator('#dialog[open]').count())await page.locator('#dialog [data-action="close-dialog"]').click();
     const query=new URLSearchParams(hash.slice(1));
-    const reading=readings.find(row=>row.id===query.get('reading'));
+    const reading=allCourses.find(row=>row.id===query.get('reading'));
     const id=query.get('entry')||reading?.recordIds[Number(query.get('step')||0)]||null;
     await page.goto(base+hash);await loaded();
     await page.waitForFunction(({lang,id,year})=>document.documentElement.lang===lang&&(!id||document.querySelector('#detail [data-action="save"]')?.dataset.id===id)&&(!year||window.atlasAPI.inspect().year===year),{lang:query.get('lang')==='zh'?'zh-CN':'en',id,year:reading?null:Number(query.get('year'))});
@@ -224,7 +227,7 @@ try{
   await failureContext.close();
 
   const missingContext=await browser.newContext();const missingPage=await missingContext.newPage();
-  await missingPage.route(url=>url.pathname==='/data/history-media.json',route=>route.fulfill({status:503,body:'Unavailable'}));
+  await missingPage.route(url=>url.pathname==='/data/'+(manifest.mediaFile||'history-media.json'),route=>route.fulfill({status:503,body:'Unavailable'}));
   await missingPage.goto(base+'#year=755&lang=en');await missingPage.waitForFunction(()=>!!window.atlasAPI,{},{timeout:90000});
   await missingPage.locator('#people-nav').click();
   assert.match(await missingPage.locator('.media-catalogue-note').innerText(),/could not load/);

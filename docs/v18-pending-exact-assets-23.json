@@ -1,6 +1,6 @@
 {
-  "reviewedAt": "2026-11-13",
-  "status": "Research only. These candidates are not included in image coverage, the media manifest or the deployed site.",
+  "reviewedAt": "2026-11-18",
+  "status": "Research ledger for Batch 23 candidates: two Cleveland Museum of Art items subsequently shipped in visual-assets-exact-24-v18.json; kuba-raffia-many-hands and holds remain unshipped.",
   "candidates": [
     {
       "recordId": "kuba-raffia-many-hands",
@@ -25,7 +25,7 @@
       "sourceUrl": "https://www.clevelandart.org/art/1971.149",
       "observedImageUrl": "https://www.clevelandart.org/_next/image?q=75&url=https%3A%2F%2Fpiction.clevelandart.org%2Fcma%2Fump.di%3Fe%3DA359E5843EE7950B699F6DEDF83D6802A927EFC12D6C669EE068C8DB1A1437D8%26s%3D24247294%26se%3D116628280%26v%3D1%26f%3D%5Cd5468%5Cu3454689%5C1971.149_o5.jpg&w=640",
       "rightsEvidence": "Exact item permits copying, modifying and distributing without permission; linked CMA Open Access policy specifies CC0.",
-      "imageStatus": "Public item-page image link observed through the web tool. No local file, checksum or pixel acceptance yet. The separate catalog API returned403 and was not retried.",
+      "imageStatus": "Shipped in visual-assets-exact-24-v18.json with chronology-edits-v18.json and summary-edits-v18.json updates.",
       "requiredEdit": "Current entry's1875–1925 window and wood/paint/fibre description concern a Met object. This Cleveland pole is nineteenth-century painted wood with sea-snail opercula. Update the specific object paragraph and date explanation; do not silently substitute.",
       "verifiedDetails": "New Ireland;92.7cm high; Gift of Dr. and Mrs. Thomas Munro. Ceremonial context is memorial feasting, performance and display, not a permanent statue representing one named ancestor."
     },
@@ -40,7 +40,7 @@
       "contextSourceUrl": "https://www.clevelandart.org/articles/acquisition-highlights-2016",
       "observedImageUrl": "https://www.clevelandart.org/_next/image?q=75&url=https%3A%2F%2Fpiction.clevelandart.org%2Fcma%2Fump.di%3Fe%3D45D1C415657ADDA54F83CCC9B8CCF2F7D4020CB75DC3491FDCB1C7FFD8DEB209%26s%3D24247294%26se%3D399313166%26v%3D3%26f%3D%5Cd9647%5Cu45196479%5C2016.36_o5.jpg&w=640",
       "rightsEvidence": "Exact item permits unrestricted reuse; linked CMA policy specifies CC0.",
-      "imageStatus": "Image link observed. Web image fetch returned InternalError; no local file or pixel verification.",
+      "imageStatus": "Shipped in visual-assets-exact-24-v18.json with verified local image and diplomat-allegory context.",
       "requiredEdit": "Identify this as an allegory honoring a French negotiator, not a treaty-signing scene. Janus confines Bellona in the Temple of War. The diplomat's portrait appears in the final engraving, not necessarily in this preparatory drawing. Keep treaty dates and institutional account unchanged.",
       "verifiedDetails": "Black chalk preparatory drawing, Delia E. Holden Fund. Museum article explicitly connects d'Avaux's role to the Peace of Westphalia."
     }

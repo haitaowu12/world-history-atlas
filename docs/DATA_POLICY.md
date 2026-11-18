@@ -1,6 +1,6 @@
 # Historical data policy
 
-Current release: **0.22.0**, with **73 guided readings**, 14 new bilingual stories, four corrected earlier China donor stories and 16 credited local historical images. The [9 November Jiangshan review](JIANGSHAN_REVIEW_2026_11_09.md), [world-story research](V16_WORLD_STORIES_RESEARCH.md) and [image notice](../dist/assets/history-media/NOTICE.md) record the scope and source-specific limits.
+Current release: **0.24.0 (V18)**, with **2,087 historical entries, 278 full biographies, 103 guided readings** (including 14 chaptered long courses), **553 credited local historical images** covering 1,029 entries, and **100 V18 China event corrections** alongside the earlier review layers. The [V18 visual expansion record](V18_VISUAL_EXPANSION.md), [V17 release evidence](V17_RELEASE_EVIDENCE.md), [9 November Jiangshan review](JIANGSHAN_REVIEW_2026_11_09.md), [world-story research](V16_WORLD_STORIES_RESEARCH.md) and [image notice](../dist/assets/history-media/NOTICE.md) record the scope and source-specific limits.
 
 The retained 0.13.0 addendum on [dated Americas and the map-view method](AMERICAS_HISTORY_013.md) governs the separate Newberry/NRCan references, source-window replacement, palette and History / Modern geography view behavior. Earlier source-specific details below remain historical documentation; US/Canada are no longer universally represented by modern reference outlines.
 
@@ -25,11 +25,10 @@ The supported narrative range, 13,000 BCE–2026 CE, describes this release's ed
 | `routes.json` | Journeys or networks with explicit stops, connections, uncertainty notes and route-specific sources |
 | `china-events-*.json` | Frozen imported Jiangshan milestone and landmark records, with source pointers and inherited evidence status |
 | `china-library.json` and its place and settlement chunks | Original profile directory, seven chronicles, city notes, gazetteer, passes, era-place rows, reign names and schematic corridors |
-| `china-reviews.json` | Separate claim-specific corrections and annotations applied to selected imported events and chronicle stops |
-| `courses.json` and `journeys.mjs` | Editorial reading sequences and study prompts linked to existing records |
-| `expansion-china-stories-v16.json` and `expansion-world-stories-v16.json` | Six China stories and eight world stories with claim-specific evidence, bilingual date notes and representative-location explanations |
-| `story-readings-v16.json` | Three new editorial reading sequences connected to the source-bearing records |
-| `history-media.json` and `assets/history-media/` | Sixteen historical images with separate attribution, rights, representation limits, bilingual captions and file-integrity records |
+| `china-reviews.json` and `china-visual-reviews-v18.json` | Separate claim-specific corrections and annotations applied to selected imported events and chronicle stops without mutating frozen imports |
+| `courses.json`, `expansion-courses-v17.json`, `journeys.mjs` and `reading-catalog.mjs` | Editorial reading sequences, chapter partitions and study prompts linked to existing records |
+| `content-expansion-v18.json` and its listed V9–V18 narrative/overlay files | Regional histories, biographies, artifact stories, evidence follow-ups, summary edits, chronology edits and bilingual place-label reviews |
+| `history-media-v18.json`, `visual-assets-*-v18.json` and `assets/history-media/` | 553 historical images and 1,106 associations with separate attribution, rights, representation limits, bilingual captions and file-integrity records |
 | `territories*.geojson` and `map-snapshots.json` | Source-specific approximate geometry with actual source years and reviewed display periods |
 | `contemporary-world-*.geojson` and its manifest | Dated reference country and territory geography, with source vintage and a reviewed display interval |
 | Natural Earth assets | Present-day reference geography for orientation |

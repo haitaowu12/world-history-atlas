@@ -50,7 +50,56 @@ export const READING_CHAPTERS={
   chapter('work','liverpool-slavery-port-infrastructure','Labour, rights and scientific work','劳动、权利与科学工作'),
   chapter('politics','frankfurt-national-assembly-1848','Political participation, empire and print','政治参与、帝国与出版'),
   chapter('war','person-lise-meitner','Knowledge, care and wartime networks','知识、关怀与战时网络'),
-  chapter('cold-war','cold-war-world-history','Cold War connections, migration and dissent','冷战联系、迁徙与异议')]
+  chapter('cold-war','cold-war-world-history','Cold War connections, migration and dissent','冷战联系、迁徙与异议')],
+ 'course-expansion-na1':[
+  chapter('landscapes','sivullirmiut-early-arctic-history','Landscapes, waters and early nations','山川水系与早期民族'),
+  chapter('networks','comanche-horse-networks','Exchange, mobility and diplomacy','贸易、流动与外交'),
+  chapter('testimony','cherokee-phoenix-publication','Print, education and political testimony','出版、教育与政治见证'),
+  chapter('suppression','kwakwakawakw-potlatch-repatriation','Ceremonial knowledge and organizing rights','礼仪知识与平权组织'),
+  chapter('continuities','person-kenojuak-ashevak','Artistic cooperatives and community governance','艺术合作社与社群治理')],
+ 'course-expansion-se3':[
+  chapter('colonial','myanmar-textiles-material-history','Colonial extraction, schools and reform','殖民征敛、学校与改革'),
+  chapter('belonging','person-pridi-banomyong','Constitutional debates, youth and war','宪政讨论、青年与战争'),
+  chapter('cold-war','cold-war-world-history','Decolonization, non-alignment and Cold War war','非殖民化、不结盟与冷战冲突'),
+  chapter('diplomacy','indonesia-1965-mass-killings','Upheaval, diplomacy and negotiated exits','剧变、外交与谈判过渡'),
+  chapter('transitions','brunei-independence-1984','Independence, reform and peace settlements','独立、改革与和平协议')],
+ 'course-expansion-ch2':[
+  chapter('foundations','xia-tradition-and-erli-tou','Early centers, learning and canal networks','早期中心、学术与运河水网'),
+  chapter('song-society','quanzhou','Ports, print, rice and urban markets','港口、书籍、稻作与城市市场'),
+  chapter('institutions','china-person-shen-kuo','Observation, lyric lives and local rule','观察、词人经历与地方制度'),
+  chapter('crafts','china-hani-water-landscape','Terraces, workshops and oceanic trade','梯田、工坊与海外贸易'),
+  chapter('modern','china-kaiping-diaspora-houses','Diaspora, public learning and modern science','侨乡、新文化与现代科学')],
+ 'course-expansion-sa3':[
+  chapter('education','person-savitribai-phule','Schools, plantations and public science','学校、种植园与公共科学'),
+  chapter('representation','person-rokeya','Women’s writing, notebooks and representation','女性写作、数学笔记与政治代表权'),
+  chapter('campaigns','person-sufia-kamal','Public space, leadership and constitutional visions','公共空间、领导力与宪政构想'),
+  chapter('ecologies','green-revolution-south-asia','Water, agriculture and collective organizing','水资源、农业与集体行动'),
+  chapter('republics','sri-lanka-civil-war-societies','Civil conflict, peace talks and constitutional transitions','内战、和平谈判与宪制转型')],
+ 'course-expansion-eu1':[
+  chapter('mediterranean','athenian-assembly-citizenship','Assemblies, empires and Roman rule','公民大会、帝国与罗马统治'),
+  chapter('communities','early-christianity-jewish-context','Jewish and Christian communities in late antiquity','晚期古代的犹太与基督徒社群'),
+  chapter('networks','hedeby-viking-trading-town','Trading towns, pilgrimage and universities','贸易城镇、巡礼路与大学'),
+  chapter('unions','hundred-years-war','Dynastic wars, learned writers and composite unions','王朝战争、学者写作与复合联合')],
+ 'course-expansion-ea3':[
+  chapter('maritime','austronesian-early-expansions','Maritime courts, pastoral monasteries and scholarship','海洋政权、草原寺院与学问'),
+  chapter('reform','person-fukuzawa-yukichi','Schools, silk labor and cultural continuity','新式学堂、缫丝劳动与文化延续'),
+  chapter('voices','person-yosano-akiko','Print, accessibility and March First organizing','报刊、无障碍文字与三一运动'),
+  chapter('postwar','person-kim-dae-jung','Atomic memory, industrial harm and democratic struggles','核爆记忆、工业公害与民主运动')],
+ 'course-expansion-se1':[
+  chapter('landscapes','ban-chiang-village-archaeology','Early villages, sacred mountains and merit','早期村落、圣山与功德制度'),
+  chapter('river-courts','sukhothai-political-centers','River kingdoms, connected towns and resistance','江河王国、城镇网络与抵抗'),
+  chapter('ports','toungoo-changing-courts','Port households, garrisons and rival houses','港口家庭、驻防与南北政权'),
+  chapter('dynasties','person-nguyen-du','Poetry, new capitals and nineteenth-century courts','诗歌、新都与十九世纪王朝')],
+ 'course-expansion-wa1':[
+  chapter('scripts','person-enheduanna','Households, scripts and maritime cities','家庭文书、多种文字与海上城邦'),
+  chapter('water','zoroastrian-texts-ritual','Ritual traditions, qanats and caravan cities','宗教传统、坎儿井与商队城市'),
+  chapter('antiquity','early-christianity-jewish-context','Oases, letters and rabbinic study','绿洲、书信与拉比研习'),
+  chapter('translation','milan-toleration-313','Imperial councils and Arabic scientific collaboration','帝国公会议与阿拉伯语学术协作')],
+ 'course-expansion-af3':[
+  chapter('nile','bantu-language-early-dispersal','Language dispersals, Nile workers and Napata','语言扩散、尼罗河工匠与纳帕塔'),
+  chapter('documents','madagascar-comoros-crops-connections','Indian Ocean crops, wall paintings and Geniza letters','印度洋作物、壁画与开罗文书'),
+  chapter('cities','ethiopia-early-solomonic','Solomonic courts, stone towns and highland capitals','所罗门王朝、石城与高原都城'),
+  chapter('sovereignty','merina-highland-kingdom','Island kingdoms, plantation labor and sovereignty','岛屿王国、种植园劳动与主权维护')]
 };
 
 export function chaptersFor(course){

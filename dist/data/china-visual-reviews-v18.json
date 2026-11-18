@@ -3774,6 +3774,202 @@
         "en": "Distinguished the deployment year and surrender year; corrected a two-city label attached to one representative coordinate.",
         "zh": "区分部署之年与投降之年，校正单一代表坐标所附的两城标签。"
       }
+    },
+    {
+      "id": "china-landmark-127",
+      "patch": {
+        "title": {
+          "en": "Exiled toward Chaozhou, Han Yu crosses snowbound Lantian Pass and composes a regulated poem",
+          "zh": "韩愈贬赴潮州途经风雪蓝田关赋七律诗"
+        },
+        "summary": {
+          "en": "In 819, after Han Yu submitted a memorial opposing Emperor Xianzong’s reception of the Fengxiang Buddha-bone relic, the court demoted him to prefect of Chaozhou. Reaching snowbound Lantian Pass southeast of Chang’an, he addressed an eight-line seven-character regulated poem (qiyan lüshi) to his grandnephew Han Xiang, containing the famous couplet on clouds barring Qinling and snow blocking his horse at Lantian.",
+          "zh": "819年，韩愈因上表谏阻唐宪宗迎奉凤翔佛骨，被贬为潮州刺史。南行至长安东南风雪交加的蓝田关时，他作八句七言律诗《左迁至蓝关示侄孙湘》，留下“云横秦岭家何在，雪拥蓝关马不前”一联。"
+        },
+        "dateNote": {
+          "en": "819, the fourteenth year of Yuanhe. Lantian Pass marks a stage on Han Yu’s southward exile route from Chang’an toward Chaozhou.",
+          "zh": "819年（元和十四年）。蓝田关为韩愈自长安南下潮州贬途所经关隘。"
+        }
+      },
+      "note": {
+        "en": "Corrected the inherited English description of Han Yu’s eight-line regulated verse (qiyan lüshi) as a quatrain and grounded the 819 exile context in historical and literary texts.",
+        "zh": "修正原英文将八句七言律诗误称为绝句（quatrain）的表述，并据史传与诗集核实819年贬途背景。"
+      },
+      "sources": [
+        {
+          "title": "New Tang History 176: Biography of Han Yu",
+          "url": "https://zh.wikisource.org/wiki/新唐書/卷176",
+          "publisher": "Wikisource transcription of the historical text",
+          "checkedAt": "2026-11-18",
+          "retrieval": "Read the Fengxiang relic memorial, demotion to Chaozhou and Lantian Pass poem passage directly.",
+          "evidenceNote": "Records Han Yu’s 819 memorial on the Fengxiang relic, Xianzong’s anger, demotion to Chaozhou prefect, and the eight-line regulated poem composed on reaching Lantian Pass.",
+          "evidenceNoteZh": "记819年韩愈谏迎凤翔佛骨、宪宗震怒贬潮州刺史，以及至蓝关所作八句七言律诗。"
+        },
+        {
+          "title": "Han Yu, Demoted and Reaching Lantian Pass, Shown to My Grandnephew Xiang",
+          "url": "https://zh.wikisource.org/wiki/左遷至藍關示姪孫湘",
+          "publisher": "Wikisource transcription of the classical poem",
+          "checkedAt": "2026-11-18",
+          "retrieval": "Verified verse structure and wording directly.",
+          "evidenceNote": "Preserves the complete eight-line, fifty-six-character regulated verse addressed to his grandnephew Han Xiang, including the snowbound Lantian Pass couplet.",
+          "evidenceNoteZh": "保存示侄孙韩湘之完整八句五十六字七言律诗，含“雪拥蓝关马不前”一联。"
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-425",
+      "patch": {
+        "title": {
+          "en": "Lin Zexu enters exile in Ili and later oversees frontier irrigation works",
+          "zh": "林则徐遣戍伊犁并兴办屯田水利"
+        },
+        "summary": {
+          "en": "Ordered into exile at Ili during the First Opium War settlement in 1842, the dismissed imperial commissioner Lin Zexu traveled west through Xi’an and reached Ili late that year. Between 1842 and 1845 he studied frontier defenses and supervised land reclamation and irrigation canals in Xinjiang; earlier at Zhenjiang in 1841, he had entrusted translated foreign geography materials (Sizhou zhi) to Wei Yuan, who expanded them into Haiguo tuzhi.",
+          "zh": "1842年鸦片战争议和期间，革职钦差大臣林则徐奉旨发往伊犁效力赎罪，西行途经西安并于岁末抵达伊犁。1842年至1845年间，他在新疆考察边防并督办垦荒与水利工程；至于将主持译编的《四洲志》等西洋地理资料交予魏源增补为《海国图志》，则发生于此前1841年镇江相会之时。"
+        },
+        "dateNote": {
+          "en": "1842 marks the Ili exile order and westward journey; Lin’s Xinjiang irrigation work continued through 1845, whereas his meeting with Wei Yuan at Zhenjiang took place in 1841.",
+          "zh": "1842年为遣戍伊犁与西行抵戍之年；新疆兴修水利延续至1845年，而与魏源镇江交稿则在1841年。"
+        }
+      },
+      "note": {
+        "en": "Aligned the divergent English and Chinese narratives and separated the 1841 Zhenjiang transmission of Sizhou zhi materials from the 1842 Xi’an transit and 1842–1845 Ili irrigation service.",
+        "zh": "统一原本分歧的中英文叙事，并将1841年镇江交接《四洲志》资料与1842年途经西安、1842至1845年伊犁兴修水利明确区分。"
+      },
+      "sources": [
+        {
+          "title": "Draft History of Qing 369: Biography of Lin Zexu",
+          "url": "https://zh.wikisource.org/wiki/清史稿/卷369",
+          "publisher": "Wikisource transcription of the historical text",
+          "checkedAt": "2026-11-18",
+          "retrieval": "Read the Ili exile, frontier defense and Xinjiang land-reclamation passages directly.",
+          "evidenceNote": "Records Lin Zexu’s exile sentence to Ili in 1842 and his subsequent frontier defense proposals, land reclamation and irrigation works there through 1845.",
+          "evidenceNoteZh": "记1842年林则徐遣戍伊犁，以及此后至1845年间在当地筹议边防、兴办屯田水利。"
+        },
+        {
+          "title": "Draft History of Qing 486: Biography of Wei Yuan",
+          "url": "https://zh.wikisource.org/wiki/清史稿/卷486",
+          "publisher": "Wikisource transcription of the historical text",
+          "checkedAt": "2026-11-18",
+          "retrieval": "Checked the compilation provenance of Haiguo tuzhi.",
+          "evidenceNote": "Wei Yuan’s biography notes that Haiguo tuzhi drew on translated Western geography materials compiled earlier under Lin Zexu, distinct from Lin’s 1842 passage through Xi’an.",
+          "evidenceNoteZh": "魏源传记《海国图志》本于林则徐此前主持译编之西洋地理资料，与1842年林氏途经西安分属不同阶段。"
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-482",
+      "patch": {
+        "title": {
+          "en": "Lin Zexu governs as Yun-Gui Governor-General from Kunming",
+          "zh": "林则徐任云贵总督驻昆明整顿滇西边政"
+        },
+        "summary": {
+          "en": "Appointed Governor-General of Yun-Gui in 1847, Lin Zexu took office in Kunming and dealt with communal violence and mining unrest in western Yunnan while reorganizing frontier defenses. Failing health forced him to retire in 1849; his imperial recall toward Guangxi and death en route at Puning in Guangdong followed separately in 1850.",
+          "zh": "1847年，林则徐授云贵总督，驻节昆明处置滇西汉回纠纷与矿务动荡，并整顿边防军政。1849年他因病开缺归里；至于奉命赴广西督师并在途中卒于广东普宁，则另发生于1850年。"
+        },
+        "dateNote": {
+          "en": "1847 marks Lin Zexu’s appointment as Yun-Gui Governor-General in Kunming. His retirement in 1849 and death at Puning in 1850 occurred later.",
+          "zh": "1847年为林则徐授云贵总督驻昆明之年；1849年因病致仕及1850年卒于普宁均属其后之事。"
+        }
+      },
+      "note": {
+        "en": "Separated the 1847 Kunming governorship from Lin Zexu’s 1849 retirement and 1850 recall and death at Puning, which the inherited Chinese summary compressed into a single year.",
+        "zh": "将1847年昆明云贵总督任内政务与1849年开缺、1850年奉召卒于普宁区分开来，修正原中文压缩跨年事件的写法。"
+      },
+      "sources": [
+        {
+          "title": "Draft History of Qing 369: Biography of Lin Zexu",
+          "url": "https://zh.wikisource.org/wiki/清史稿/卷369",
+          "publisher": "Wikisource transcription of the historical text",
+          "checkedAt": "2026-11-18",
+          "retrieval": "Read the Yun-Gui appointment, retirement and 1850 Puning death entries directly.",
+          "evidenceNote": "Separates Lin Zexu’s 1847 appointment as Yun-Gui Governor-General and western Yunnan administration from his 1849 retirement and 1850 death at Puning.",
+          "evidenceNoteZh": "区分林则徐1847年授云贵总督及处置滇西政务，与1849年因病开缺、1850年奉召途中卒于普宁。"
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-370",
+      "patch": {
+        "title": {
+          "en": "Li Su captures Caizhou by snow-night raid while Han Yu serves on Pei Du’s Huaixi staff",
+          "zh": "李愬雪夜入蔡州擒吴元济，裴度幕府韩愈奉诏撰碑"
+        },
+        "summary": {
+          "en": "During the 817 campaign against the rebellious Huaixi circuit, Han Yu served as army secretary (xingjun sima) on Chief Minister Pei Du’s field headquarters staff, while western-front commander Li Su led a snow-night march into Caizhou and captured Wu Yuanji. After Caizhou fell, Emperor Xianzong commissioned Han Yu to compose the Stele on the Pacification of Huaixi (Ping Huaixi bei).",
+          "zh": "817年讨伐淮西藩镇期间，韩愈任行军司马佐宰相裴度督师，西线统帅李愬则率军雪夜奇袭蔡州，生擒吴元济。淮西平定后，唐宪宗诏命韩愈撰《平淮西碑》记述战功。"
+        },
+        "dateNote": {
+          "en": "817, the twelfth year of Yuanhe. Caizhou marks Li Su’s capture of Wu Yuanji; Han Yu served on Pei Du’s campaign staff rather than riding in Li Su’s night assault, and composed the court stele afterward.",
+          "zh": "817年（元和十二年）。蔡州为李愬擒吴元济之处；韩愈时在裴度督师幕府，并未随李愬亲历雪夜突袭，战后奉诏撰碑。"
+        }
+      },
+      "note": {
+        "en": "Removed the unsupported English claim that Han Yu personally witnessed the snow-night capture of Caizhou, distinguishing Pei Du’s headquarters staff, Li Su’s raid and Han Yu’s later court-commissioned stele.",
+        "zh": "移除原英文称韩愈亲眼目睹雪夜夺取蔡州的无据表述，区分裴度幕府督师、李愬奇袭与战后奉诏撰碑。"
+      },
+      "sources": [
+        {
+          "title": "Old Tang History 160: Biography of Han Yu",
+          "url": "https://zh.wikisource.org/wiki/舊唐書/卷160",
+          "publisher": "Wikisource transcription of the historical text",
+          "checkedAt": "2026-11-18",
+          "retrieval": "Read the Huaixi staff appointment and Ping Huaixi stele passages directly.",
+          "evidenceNote": "Records Han Yu’s 817 appointment as army secretary under Pei Du and Xianzong’s subsequent commission for the Ping Huaixi stele, without placing Han Yu in the night raid.",
+          "evidenceNoteZh": "记817年韩愈任裴度行军司马及战后奉诏撰《平淮西碑》，并未载韩愈亲历雪夜袭城。"
+        },
+        {
+          "title": "New Tang History 154: Biography of Li Su",
+          "url": "https://zh.wikisource.org/wiki/新唐書/卷154",
+          "publisher": "Wikisource transcription of the historical text",
+          "checkedAt": "2026-11-18",
+          "retrieval": "Read the snow-night advance on Caizhou directly.",
+          "evidenceNote": "Li Su’s biography credits Li Su and his commanders with the snow-night march into Caizhou and capture of Wu Yuanji in 817.",
+          "evidenceNoteZh": "李愬传记817年李愬率部雪夜入蔡州擒吴元济之经过。"
+        }
+      ]
+    },
+    {
+      "id": "china-landmark-392",
+      "patch": {
+        "title": {
+          "en": "Li Qingzhao’s “Summer Quatrain” invokes Xiang Yu at Wujiang during the southward flight",
+          "zh": "李清照南渡时期以《夏日绝句》追咏乌江项羽"
+        },
+        "summary": {
+          "en": "Amid the southward displacement of Northern Song literati after the Jingkang fall of Kaifeng, Li Qingzhao composed her twenty-character “Summer Quatrain” (“In life one should be a hero among mortals; in death, still a hero among spirits”), praising Xiang Yu’s refusal to retreat east of the Yangtze at Wujiang. Later readers linked the poem to her southward journey past the Wujiang area as a pointed contrast with Song court flight, though surviving Song–Yuan texts do not fix an exact day or single river crossing.",
+          "zh": "靖康之变后北宋士人南渡之际，李清照作五言绝句《夏日绝句》“生当作人杰，死亦为鬼雄，至今思项羽，不肯过江东”，借项羽乌江拒渡自刎咏叹气节。后世多将此诗系于她南下途经乌江一带之时，用以对照南渡朝廷的退避，但现存宋元文献并未记下确切作诗日期或单次渡江经过。"
+        },
+        "dateNote": {
+          "en": "1128 is a conventional display anchor within Li Qingzhao’s 1127–1129 southward migration; surviving anthologies preserve the poem without establishing its exact date or Wujiang itinerary.",
+          "zh": "1128年为李清照1127至1129年南渡期间的惯用显示锚点；现存选本收录此诗，但未确立具体作年与乌江行迹。"
+        }
+      },
+      "note": {
+        "en": "Qualified the inherited claim of a dated Wujiang crossing: surviving sources preserve Li Qingzhao’s quatrain on Xiang Yu and her 1127–1129 southward flight, without proving the exact occasion of composition.",
+        "zh": "对原条目坐实乌江渡江赋诗的说法加以限定：传世文献保存李清照咏项羽绝句及1127至1129年南渡背景，但未证明作诗的确切时地。"
+      },
+      "sources": [
+        {
+          "title": "Li Qingzhao, Summer Quatrain (Xiari jueju)",
+          "url": "https://zh.wikisource.org/wiki/夏日絕句_(李清照)",
+          "publisher": "Wikisource transcription of the classical poem",
+          "checkedAt": "2026-11-18",
+          "retrieval": "Verified the transmitted twenty-character quatrain directly.",
+          "evidenceNote": "Transmits the twenty-character quatrain praising Xiang Yu’s refusal to retreat across the river to Jiangdong, without recording an exact composition date.",
+          "evidenceNoteZh": "收录咏项羽不肯渡江东归之二十字绝句，未载确切写作日期。"
+        },
+        {
+          "title": "Song History 444: Biography of Zhao Mingcheng (with notice of Li Qingzhao)",
+          "url": "https://zh.wikisource.org/wiki/宋史/卷444",
+          "publisher": "Wikisource transcription of the historical text",
+          "checkedAt": "2026-11-18",
+          "retrieval": "Read the account of Zhao Mingcheng’s southern appointments and 1127–1129 movements directly.",
+          "evidenceNote": "Zhao Mingcheng’s notice places the couple’s southward move across the Huai and Yangtze in 1127–1129, providing context rather than a dated Wujiang itinerary.",
+          "evidenceNoteZh": "赵明诚传附载1127至1129年间夫妇南渡江淮背景，仅提供时代脉络而非乌江逐日行纪。"
+        }
+      ]
     }
   ]
 }

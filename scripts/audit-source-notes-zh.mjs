@@ -19,10 +19,18 @@ export function translationWarnings(en,zh){
   return warnings;
 }
 if(process.argv[1]&&path.resolve(process.argv[1])===fileURLToPath(import.meta.url)){
-  const translations=JSON.parse(fs.readFileSync(process.argv[2],'utf8'));
+  const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
+  let translations={};
+  if(process.argv[2]){
+    translations=JSON.parse(fs.readFileSync(process.argv[2],'utf8'));
+  }else{
+    const manifest=JSON.parse(fs.readFileSync(path.join(root,'dist/data/source-notes-zh-manifest.json'),'utf8'));
+    for(const file of manifest.files||[])Object.assign(translations,JSON.parse(fs.readFileSync(path.join(root,'dist/data',file.path),'utf8')));
+  }
   const flagged=Object.entries(translations).flatMap(([en,zh])=>{
     const warnings=translationWarnings(en,zh);
     return warnings.length?[{warnings,en,zh}]:[];
   });
   console.log(JSON.stringify({total:Object.keys(translations).length,flagged},null,2));
+  if(flagged.length)process.exitCode=1;
 }

@@ -3,14 +3,14 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import crypto from 'node:crypto';
-import {CONTENT_MANIFEST,auditExpansion,partitionExpansion,applyEvidenceReviews,hasReviewedLimitedChronology} from '../dist/content-expansion.mjs';
+import {CONTENT_MANIFEST,auditExpansion,partitionExpansion,applyEvidenceReviews,applySummaryEdits,applyChronologyEdits,hasReviewedLimitedChronology} from '../dist/content-expansion.mjs';
 import { journeys } from '../dist/journeys.mjs';
 import { fileURLToPath } from 'node:url';
 import { REGIONS, validYear, activeAt, safeSourceURL, validateRecords } from '../dist/core.mjs';
 import { chinaRoutes } from '../dist/china-library.mjs';
 import { applyChinaReviews, linkChinaContext } from '../dist/china-review.mjs';
 import {auditHistoryMedia,applyMediaLocalization} from '../dist/history-media.mjs';
-import {auditPlaceLabelTranslations} from '../dist/place-labels.mjs';
+import {auditPlaceLabelTranslations,applyPlaceLabelTranslations} from '../dist/place-labels.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 
@@ -212,16 +212,35 @@ if(expansionManifest.chinaReviewsFile)try {
   for(const row of review.eventReviews||[])if(!row.note?.en||!row.note?.zh||!row.sources?.length||row.sources.some(source=>!safeSourceURL(source.url)||!source.title||!source.publisher||!source.evidenceNote||!source.checkedAt))fail('Visual-story review: missing claim-specific evidence');
   reviewedChina=applyChinaReviews(reviewedChina.events,reviewedChina.library,review);
 }catch(error){fail('Visual-story review: '+error.message);}
-const records = [...histories,...people,...linkChinaContext(reviewedChina.events,[...histories,...people])];
+let records = [...histories,...people,...linkChinaContext(reviewedChina.events,[...histories,...people])];
 if(expansionManifest.placeLabelsFile)try {
   const content=fs.readFileSync(path.join(root,'dist/data',expansionManifest.placeLabelsFile));
   const catalog=JSON.parse(content),receipt=expansionManifest.placeLabelTranslations;
   errors.push(...auditPlaceLabelTranslations(catalog,records));
   if(content.length!==receipt?.bytes||crypto.createHash('sha256').update(content).digest('hex')!==receipt?.sha256||catalog.items.length!==receipt?.records)fail('Place-label translation manifest receipt mismatch');
+  records=applyPlaceLabelTranslations(records,catalog);
 }catch(error){fail('Place-label translations: '+error.message);}
+if(expansionManifest.summaryEditsFile)try {
+  const content=fs.readFileSync(path.join(root,'dist/data',expansionManifest.summaryEditsFile));
+  const layer=JSON.parse(content),receipt=expansionManifest.summaryEdits;
+  if(content.length!==receipt?.bytes||crypto.createHash('sha256').update(content).digest('hex')!==receipt?.sha256||layer.items.length!==receipt?.records)fail('Summary-edit manifest receipt mismatch');
+  records=applySummaryEdits(records,layer);
+}catch(error){fail('Summary edits: '+error.message);}
+if(expansionManifest.chronologyEditsFile)try {
+  const content=fs.readFileSync(path.join(root,'dist/data',expansionManifest.chronologyEditsFile));
+  const layer=JSON.parse(content),receipt=expansionManifest.chronologyEdits;
+  if(content.length!==receipt?.bytes||crypto.createHash('sha256').update(content).digest('hex')!==receipt?.sha256||layer.items.length!==receipt?.records)fail('Chronology-edit manifest receipt mismatch');
+  records=applyChronologyEdits(records,layer);
+}catch(error){fail('Chronology edits: '+error.message);}
 // Credits and safe identities are required even when a browser can draw the image.
 try {
   const media=JSON.parse(read('dist/data/'+(expansionManifest.mediaFile||'history-media.json')));
+  if(expansionManifest.visualExpansion?.shards){
+    for(const receipt of expansionManifest.visualExpansion.shards){
+      const bytes=fs.readFileSync(path.join(root,'dist/data',receipt.file)),shard=JSON.parse(bytes);
+      if(bytes.length!==receipt.bytes||crypto.createHash('sha256').update(bytes).digest('hex')!==receipt.sha256||shard.items?.length!==receipt.assets||shard.associations?.length!==receipt.associations)fail(receipt.file+': visual shard receipt mismatch');
+    }
+  }
   if(expansionManifest.mediaLocalization) {
     const receipt=expansionManifest.mediaLocalization,bytes=fs.readFileSync(path.join(root,'dist/data',receipt.file)),layer=JSON.parse(bytes);
     if(bytes.length!==receipt.bytes||crypto.createHash('sha256').update(bytes).digest('hex')!==receipt.sha256||layer.items.length!==receipt.assets)fail('Media localization receipt mismatch');

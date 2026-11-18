@@ -17,6 +17,12 @@ Original application code and project documentation are covered by the root [MIT
 
 The imported Jiangshan event prose, profiles, chronicles, quotations, existing English translations, city notes, place-name records and related source text are **not licensed by this project's CC BY notice**. Converting them to JSON, adding a citation, retaining them in an `originalText` field or displaying them beside a newly written essay does not change their source attribution or terms.
 
+## 0.24.0 / V18 visual catalogue and review overlays
+
+[`artifact-stories-v18.json`](../dist/data/artifact-stories-v18.json) adds **three newly authored bilingual object stories**, and [`china-visual-reviews-v18.json`](../dist/data/china-visual-reviews-v18.json), [`evidence-followups-v18.json`](../dist/data/evidence-followups-v18.json), [`summary-edits-v18.json`](../dist/data/summary-edits-v18.json) and [`chronology-edits-v18.json`](../dist/data/chronology-edits-v18.json) supply original editorial corrections and qualifications under the CC BY 4.0 terms above while leaving frozen V17 and Jiangshan import files untouched. Inherited records and retained `originalText` fields keep their original source notices.
+
+The [V18 media catalogue](../dist/data/history-media-v18.json) and its 99 `visual-assets-*-v18.json` shards index **553 locally held images** covering **1,029 entries**. None of these image files are relicensed by the atlas's MIT or CC BY 4.0 grants; each file is governed by its individual public-domain, CC0 or Creative Commons terms recorded in [history-media-v18.json](../dist/data/history-media-v18.json) and the [file-by-file image notice](../dist/assets/history-media/NOTICE.md).
+
 ## 0.23.0 continuation
 
 The six V17 narrative shards listed in the [release manifest](../dist/data/content-expansion-v17.json) contain **101 newly authored bilingual biographies and 47 stories**. The three `story-readings-*-v17.json` files contain **30 original readings**. Their original expression follows the CC BY 4.0 terms above. Existing profile IDs, factual names and references are retained for continuity; this does not relicense the inherited profile prose. The [donor review](JIANGSHAN_REVIEW_V17.md) records methodological credit without a new code, prose or geometry import.

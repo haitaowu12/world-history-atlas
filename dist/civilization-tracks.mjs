@@ -98,4 +98,12 @@ export const civilizationOverlaps={
   ]
  }
 };
-civilizationOverlaps['period-egypt-new-kingdom']=civilizationOverlaps['period-egypt-second-intermediate'];
+civilizationOverlaps['period-egypt-new-kingdom']={
+ source:egyptBronze,
+ note:{en:'Ahmose I reunited Egypt and founded the Eighteenth Dynasty. Imperial rule later passed to the Ramesside Nineteenth and Twentieth Dynasties while high priests of Amun gained power at Thebes.',zh:'雅赫摩斯一世重新统一埃及，建立第十八王朝；此后政权转入拉美西斯诸王统治的第十九、二十王朝，底比斯的阿蒙大祭司势力也在晚期增强。'},
+ rows:[
+  {title:{en:'Eighteenth Dynasty',zh:'第十八王朝'},periods:[[-1550,-1295,'Reunification, Hatshepsut, Thutmose III and Amarna','重新统一、哈特谢普苏特、图特摩斯三世与阿马尔奈时期']]},
+  {title:{en:'Ramesside courts',zh:'拉美西斯诸王朝'},periods:[[-1295,-1186,'Nineteenth Dynasty','第十九王朝'],[-1186,-1070,'Twentieth Dynasty','第二十王朝']]}
+ ]
+};
+

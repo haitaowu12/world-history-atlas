@@ -1,8 +1,8 @@
 # Contributing
 
-Current application: **0.22.0**. This standalone repository uses `main`; run commands from its root. Current narrative manifest: `dist/data/content-expansion-v16.json`. `npm run build:content` invokes `scripts/build-content-expansion-v16.mjs`; its additive inputs are `dist/data/expansion-china-stories-v16.json`, `dist/data/expansion-world-stories-v16.json`, and `dist/data/story-readings-v16.json`. V15 and earlier expansion inputs are frozen checkpoints.
+Current application: **0.24.0 (V18)**. This standalone repository uses `main`; run commands from its root. Current release manifest: `dist/data/content-expansion-v18.json`, assembled atop the frozen `dist/data/content-expansion-v17.json` narrative baseline by `npm run build:visuals` (`scripts/build-visual-expansion-v18.mjs`). V18 adds `dist/data/artifact-stories-v18.json`, visual asset shards (`dist/data/visual-assets-*-v18.json` -> `dist/data/history-media-v18.json`), and non-destructive review/localization overlays (`china-visual-reviews-v18.json`, `evidence-followups-v18.json`, `summary-edits-v18.json`, `chronology-edits-v18.json`, `place-labels-reviewed-v18.json`, `history-media-localization-zh-v18.json`). V17 and earlier expansion inputs are frozen checkpoints; do not mutate them in place.
 
-Reading presentation lives in `dist/reading-catalog.mjs`: bilingual title/summary overrides, recommended IDs and chapter boundaries anchored to existing record IDs. The browser consumes this after loading narrative records and map anchors. Edit this layer for catalogue or chapter improvements; no content rebuild is needed. Preserve original course IDs, stop order, dates, questions and map anchors. Chapters must partition the complete sequence without dropping or duplicating records. Shared URLs retain the original absolute `step`; optional `chapter` limits navigation to a chapter. Estimates allocate the existing course duration proportionally and are not measured reading times.
+Reading presentation lives in `dist/reading-catalog.mjs`: bilingual title/summary overrides, recommended IDs and chapter boundaries anchored to existing record IDs (covering all 14 courses of 60 minutes or longer). The browser consumes this after loading narrative records and map anchors. Edit this layer for catalogue or chapter improvements; no content rebuild is needed. Preserve original course IDs, stop order, dates, questions and map anchors. Chapters must partition the complete sequence without dropping or duplicating records. Shared URLs retain the original absolute `step`; optional `chapter` limits navigation to a chapter. Estimates allocate the existing course duration proportionally and are not measured reading times.
 
 Contributions should improve either the learning experience or the evidence behind it. Keep changes focused and identify whether they alter a historical claim, date, location, translation or application behavior.
 
@@ -20,7 +20,7 @@ Treat source selection and coverage as editorial choices. A named civilization, 
 
 ## Add or correct a historical entry
 
-For a correction to a V16 story, edit its China or world input and run `npm run build:content`. For a new narrative batch, create an additive successor input and generator/manifest following the current V16 pattern; retain existing records and checkpoints. Correct frozen expansion claims through the existing evidence-review overlay rather than rewriting their source files. Earlier base entries live in `dist/data/history.json`; the four independently reviewed donor-topic stories live in `dist/data/china-donor-stories.json`. Preserve IDs when correcting them so notebooks and links continue to resolve.
+For a correction to V18 artifact stories, China visual reviews (`dist/data/china-visual-reviews-v18.json`), or V18 summary/chronology/evidence overlays, edit the corresponding V18 overlay file and run `npm run build:visuals` to refresh `dist/data/content-expansion-v18.json` and `dist/data/visual-coverage-v18.json`. For a new narrative batch, create an additive successor input and generator/manifest preserving frozen V17 and earlier checkpoints. Correct frozen expansion or imported China claims through the review overlays rather than rewriting frozen source files. Earlier base entries live in `dist/data/history.json`; the four independently reviewed donor-topic stories live in `dist/data/china-donor-stories.json`. Preserve IDs when correcting them so notebooks and links continue to resolve.
 
 Each record contains:
 
@@ -95,7 +95,7 @@ The current worldwide regional layer follows [worldwide geographic method](docs/
 
 ## Run and verify
 
-No package installation or application compilation is required. After editing current narrative inputs, run `npm run build:content` before validation; the generator preserves the V15 baseline and earlier expansion inputs. Presentation-only changes do not require regeneration.
+No package installation or application compilation is required. After editing V18 visual shards, artifact stories or V18 review overlays, run `npm run build:visuals` before validation; frozen V17 and earlier expansion inputs must not be rewritten. Presentation-only changes do not require regeneration.
 
 ```sh
 npm run serve
@@ -110,13 +110,13 @@ For UI changes, inspect the affected behavior in a browser at desktop and narrow
 
 For content changes, manually review source fit. Automated checks verify structure and temporal consistency, not historical truth. Avoid broad test expansion unrelated to the changed risk.
 
-The Firebase workflow also runs `scripts/browser-acceptance.mjs` against Chrome before deployment. Its browser client is installed only in the CI runner’s temporary directory. The gate exercises the new images, source credits, portrait filter, bilingual details, reading stops, shared links, notebook preservation and missing-image/catalogue states. Screenshots, a trace and the result JSON are retained as the `browser-evidence` artifact. A local run can use `ATLAS_PLAYWRIGHT_PATH` and `ATLAS_CHROME_EXECUTABLE` to point to an existing Playwright client and Chrome installation.
+The Firebase workflow also runs `scripts/browser-acceptance.mjs` against Chrome before deployment. Its browser client is installed only in the CI runner’s temporary directory. The gate exercises the local images, source credits, people directory, bilingual details, guided-reading stops, shared links, notebook preservation and missing-image/catalogue states. Screenshots, a trace and the result JSON are retained as the `browser-evidence` artifact. A local run can use `ATLAS_PLAYWRIGHT_PATH`, `ATLAS_CHROME_EXECUTABLE` and `ATLAS_ACCEPTANCE_PORT` to point to an existing Playwright client, Chrome installation and free local port.
 
 ## Historical images and portraits
 
-Add images to `dist/assets/history-media/` and register them in `dist/data/history-media.json`. Every file needs a stable linked record, source identity, creator/date/institution, English and Chinese alt text, caption, interpretation and transformation notes, inspected source/rights URLs, a truthful inspection date, dimensions, byte count and SHA-256. Keep each image below 750 KB; prefer the source institution’s published thumbnail over an unnecessary full-resolution download.
+Add images to `dist/assets/history-media/` and register them in an additive `dist/data/visual-assets-*-v18.json` shard, then run `npm run build:visuals` to assemble `dist/data/history-media-v18.json`, `dist/data/visual-coverage-v18.json`, `dist/data/content-expansion-v18.json` and `dist/assets/history-media/NOTICE.md`. Every file needs a stable linked record, source identity, creator/date/institution, English and Chinese alt text, caption, interpretation and transformation notes, inspected source/rights URLs, a truthful inspection date, dimensions, byte count and SHA-256. Keep each image below 750 KB; prefer the source institution’s published thumbnail over an unnecessary full-resolution download.
 
-Check the actual image, source record and reuse terms. Label historical photographs, ancient royal images and later depictions separately; a later portrait does not establish a person’s appearance. Distinguish a manuscript’s writing date from the events or poems it recalls. Preserve aspect ratio and show the image-specific credit and rights beside the image. Update `dist/assets/history-media/NOTICE.md` when adding or replacing an asset. Do not download rights-reserved material merely because a narrative links to its catalogue page. A failed image must leave the narrative, caption and source link usable.
+Check the actual image, source record and reuse terms. Label historical photographs, ancient royal images and later depictions separately; a later portrait does not establish a person’s appearance. Distinguish a manuscript’s writing date from the events or poems it recalls. Preserve aspect ratio and show the image-specific credit and rights beside the image. `npm run build:visuals` regenerates `dist/assets/history-media/NOTICE.md` when adding or replacing an asset. Do not download rights-reserved material merely because a narrative links to its catalogue page. A failed image must leave the narrative, caption and source link usable.
 
 ## Assets and dependencies
 
@@ -132,4 +132,4 @@ Submit original code under this project's MIT license and original narrative con
 
 ## Publish the GitHub Pages mirror
 
-After committing application changes, run `npm run publish:pages` from the repository root. This runs the checks and publishes the committed `dist/` snapshot to `gh-pages`, keeping its history and verifying the pushed commit. It does not deploy the GPT Site. Use [the dual-host publishing guide](docs/GITHUB_PAGES.md) to keep the two public copies aligned.
+Firebase Hosting (`https://world-history-atlas-guide.web.app/`) is the primary public destination. To update the optional GitHub Pages mirror after committing application changes (outside paused CI windows), run `npm run publish:pages` from the repository root. This runs the checks and publishes the committed `dist/` snapshot to `gh-pages`, keeping its history and verifying the pushed commit. See [the GitHub Pages publishing guide](docs/GITHUB_PAGES.md).

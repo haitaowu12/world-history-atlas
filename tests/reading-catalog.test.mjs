@@ -22,7 +22,7 @@ test('catalogue preserves every legacy identity, stop and map anchor without mut
  for(const id of [...Object.keys(READING_EDITS),...Object.keys(READING_CHAPTERS),...RECOMMENDED_READINGS])assert.ok(paths.some(p=>p.id===id),id);
 });
 test('chapters cover each long course exactly once and retain absolute shared-link positions',()=>{
- for(const path of paths.filter(p=>p.estimatedMinutes>=90)){
+ for(const path of paths.filter(p=>p.estimatedMinutes>=60)){
   assert.ok(path.chapters.length>=4,path.id);
   const collected=path.chapters.flatMap(c=>path.stops.slice(c.start,c.end));
   assert.deepEqual(collected,path.stops);assert.equal(new Set(path.chapters.map(c=>c.id)).size,path.chapters.length);
